@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import config from "./quartz.config"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -8,8 +9,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Open Game License": `https://${config.configuration.baseUrl}/Meta/Legal-and-Open-Game-License`,
+      "Original wiki": "https://spheresofpower.wikidot.com",
+      "Drop Dead Studios": "https://www.dropdeadstudios.com",
     },
   }),
 }
