@@ -13,7 +13,7 @@ Hello, everyone! I'm the admin of the Spheres of Power Wiki, and today I wanted 
 
 As many of you have noticed, the SoP Wiki is no longer focused exclusively on Spheres of Power - although that is, and will remain, the primary focus of the site. That said, there are a lot of good third-party products that I think deserve to get more notice than they really do… and that aren't likely to show up somewhere like d20pfsrd.com. Accordingly, I'm working on slowly transforming the Spheres of Power Wiki (despite the name) into a better resource for third-party products associated with the Pathfinder Roleplaying Game.
 
-Over the next several months, you're likely to see continued expansions to the site as I work on adding material. I like to think of this as Stage 3 of the site's development. Stage 1 was finished when I added all of the content from Spheres of Power's main book, and Stage 2 finished with the completion of [[Gonzo]], marking four major product categories that had been uploaded. Stage 3 is likely going to focus on smaller products, starting with the Kineticists of Porphyra and Legendary Kineticists series. Many of these new updates will be going onto the [[Other Options]] page, so check there regularly to see what else is coming out.
+Over the next several months, you're likely to see continued expansions to the site as I work on adding material. I like to think of this as Stage 3 of the site's development. Stage 1 was finished when I added all of the content from Spheres of Power's main book, and Stage 2 finished with the completion of Gonzo, marking four major product categories that had been uploaded. Stage 3 is likely going to focus on smaller products, starting with the Kineticists of Porphyra and Legendary Kineticists series. Many of these new updates will be going onto the [[Other Options]] page, so check there regularly to see what else is coming out.
 
 There's also going to be a fairly sizable expansion at the end of this year (or, more likely, in early 2018 - delays are practically inevitable in Kickstarted projects) when **Spheres of Might** comes out. Like Spheres of Power, that content is going to be hosted on the *main* page, rather than being limited to its own sub page, and I'm looking forward to being able to help you enjoy the system better.
 
@@ -23,7 +23,7 @@ Outside of the rules content, the site has also gained a few miscellaneous pages
 
 #### What's next?
 
-I already mentioned the Kineticist-focused products, but in the near future, I'll also be expanding the [[Strange Magic]] page with the Herbalism rules, a recently updated product that turns growing and gathering into a surprisingly fun system.
+I already mentioned the Kineticist-focused products, but in the near future, I'll also be expanding the Strange Magic page with the Herbalism rules, a recently updated product that turns growing and gathering into a surprisingly fun system.
 
 #### Where are you getting all of these rules from, anyway?
 
@@ -57,7 +57,7 @@ I am surprised at how many of you were looking at the Alteration class, though -
 
 There are a *lot* of third-party publishers out there - more than many people ever realize - but few of them have managed the perfect combination of humor and mechanical expertise that Interjection Games has consistently demonstrated.
 
-As the publisher of the content on the [[Strange Magic]] page, Interjection Games has done everything from magical compositions to truenaming, and I'm actually playing a character with ethermagic in one of my current games. My only regret is that I can't play with more of these rules, especially because this company truly understands game balance and has managed to create so many great systems without making them unfair for other players.
+As the publisher of the content on the Strange Magic page, Interjection Games has done everything from magical compositions to truenaming, and I'm actually playing a character with ethermagic in one of my current games. My only regret is that I can't play with more of these rules, especially because this company truly understands game balance and has managed to create so many great systems without making them unfair for other players.
 
 I strongly recommend checking out what they have to offer and buying a copy of any product you like - this is a publisher who's worth paying attention to.
 

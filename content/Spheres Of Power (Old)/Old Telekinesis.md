@@ -177,7 +177,7 @@ In addition, you may spend a spell point to gain 30 ft blindsense for one minute
 
 #### Mindtalons [3PP]
 
-Source: [[City of 7 Seraphs]]
+Source: City of 7 Seraphs
 As a move action, you can generate powerful telekinetic manifestations that can act as one of the following natural weapons until the end of your next round: slam (1d8 bludgeoning), two claws (1d6 slashing each), tendril (1d4 slashing with at 10’ reach), or gore (1d8 piercing, x3 critical multiplier). These natural weapon attacks use your casting attribute modifier instead of Strength for attack and damage and resolve as a magical force effect. You can spend one spell point to increase the duration to 1 minute per caster level. You may use sphere talents, magical effects, and class features with these natural attacks as though they are manufactured or natural weapons. You may only have one instance of mindtalons active per 5 caster levels.
 
 #### Mobile Bludgeon

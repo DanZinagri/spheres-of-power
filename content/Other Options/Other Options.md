@@ -7,6 +7,10 @@ updated: 2020-09-18
 
 Many publishers have released small supplements for the Pathfinder Roleplaying Game, from new class options to esoteric feats and more. This page serves as a general repository for such options. If there's something you enjoy, you can [[Support The Publishers|Support the Publishers]] by purchasing a copy of the product from websites like DriveThruRPG.com or Paizo.com.
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 ---
 
 #### Prestige Classes
@@ -21,6 +25,10 @@ Many publishers have released small supplements for the Pathfinder Roleplaying G
 #### Technology Expanded
 
 [[Mech Enhancements]]
+
+</div>
+
+<div class="sop-col">
 
 ---
 
@@ -88,11 +96,19 @@ Many publishers have released small supplements for the Pathfinder Roleplaying G
 
 ---
 
+</div>
+
+<div class="sop-col">
+
 ---
 
 #### Schools of Dark Magic
 
 -[[Dark Schools]]
+
+</div>
+
+<div class="sop-col">
 
 ---
 
@@ -115,3 +131,7 @@ Many publishers have released small supplements for the Pathfinder Roleplaying G
 
 [[Ultimate Battle]]
 [[Ultimate War]]
+
+</div>
+
+</div>

@@ -11,11 +11,19 @@ This page serves as a hub for the Drop Dead Studios *Ultimate Engineering* proje
 
 ---
 
+<div class="sop-columns">
+
 *Source: [Ultimate Engineering](https://www.drivethrurpg.com/product/472038/Ulimate-Engineering?affiliate_id=549120)*
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
+</div>
+
 ---
+
+<div class="sop-columns">
+
+<div class="sop-col">
 
 # Ultimate Engineering
 
@@ -64,6 +72,10 @@ Player Options have been uploaded to their respective sections as general Sphere
 
 - [[Tinker Bestiary]]
 
+</div>
+
+<div class="sop-col">
+
 # Diamond Spheres: Expanded Tinker and Silverminds
 
 **Race Options**
@@ -85,6 +97,10 @@ Player Options have been uploaded to their respective sections as general Sphere
 
 - [[Cyborg]]
 - [[Superintelligence]]
+
+</div>
+
+</div>
 
 **Spheres of Might by Drop Dead Studios**
 

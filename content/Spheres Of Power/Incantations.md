@@ -1159,6 +1159,10 @@ For the next step, determine what adjustments, if any, are required of the base 
 
 **Table: Modifying Incantations**
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 |  | Factors Check | DC Modifier |
 | --- | --- | --- |
 | Skill Checks | Requires checks involving more than one skill | -1 |
@@ -1179,6 +1183,10 @@ For the next step, determine what adjustments, if any, are required of the base 
 | Area | Doubling area/halving area | +3/-3 |
 | Target | Unwilling target must be helpless | -2 |
 
+</div>
+
+<div class="sop-col">
+
 |  | Factors cont. | Check DC Modifier |
 | --- | --- | --- |
 |  | Limited targets (by HD, creature type, and so on) | -3 |
@@ -1197,6 +1205,10 @@ For the next step, determine what adjustments, if any, are required of the base 
 |  | Performer infected with disease | -4 |
 |  | Backlash affects secondary performers too | -1 |
 | Lesser Incantations | Per incantation effective level less than 6th | -2 |
+
+</div>
+
+</div>
 
 #### Set Level
 

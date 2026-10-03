@@ -951,6 +951,10 @@ Sacrifices are the only way to invoke greater magic. For every 25 gp of a ritual
 
 Rituals disrupt the fabric of reality. Magic users risk their own destruction when using this magic, and while some villains may possess artifacts that exempt them from these risks, the average PC is not usually so lucky. Rituals have no material cost, but every time a caster uses a ritual above level 1, he must roll a d20. He compares his result to Table A if using a ritual of level 2-5, and to Table B if using a ritual of level 6-9.
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 **Table A**
 
 | Roll | Result |
@@ -976,6 +980,10 @@ Rituals disrupt the fabric of reality. Magic users risk their own destruction wh
 | 19 | You and one random creature within 1000 ft of you swap bodies for 1d3 days. |
 | 20 | Roll twice and combine the results |
 
+</div>
+
+<div class="sop-col">
+
 **Table B**
 
 | Roll | Result |
@@ -1000,6 +1008,10 @@ Rituals disrupt the fabric of reality. Magic users risk their own destruction wh
 | 18 | You exude a randomly determined disease. For 1d3 weeks, all creatures who come within 30 ft of you must save or become diseased. A creature who saves against this disease cannot be potentially infected again until the following day. |
 | 19 | A powerful outsider has felt your magic and declared you its enemy. It appears and attempts to destroy you. |
 | 20 | Roll twice and combine the results. |
+
+</div>
+
+</div>
 
 #### Other Beings Of Cosmic Power And Philosophies
 

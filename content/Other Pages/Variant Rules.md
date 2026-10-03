@@ -923,38 +923,24 @@ The implement provides an enhancement bonus to all spheres of a specific sphere 
 #### Sample Sphere Fields
 
 **The Arcane Schools**
-**Abjuration** (Mana, Protection)
-**Conjuration** (Conjuration, Creation, Nature, Warp)
-**Divination** (Divination, Fate)
-**Enchantment** (Fallen Fey, Mind, War)
-**Evocation** (Destruction, Telekinesis, Technomancy*)
-**Illusion** (Darkness, Illusion, Light)
-**Necromancy** (Blood, Death, Life)
-**Transmutation** (Alteration, Bear, Enhancement, Time, Weather)
+
+| Class | Archetypes |
+| --- | --- |
 
 **The Dark Traditions**
-**Correspondence** (Warp)
-**Entropy** (Death, Fate, War)
-**Forces** (Destruction, Light, Nature, Weather)
-**Life** (Alteration, Bear, Blood, Life)
-**Matter** (Creation, Enhancement, Telekinesis)
-**Mind** (Divination, Illusion, Mind)
-**Prime** (Mana, Technomancy)
-**Spirit** (Conjuration, Dark, Fallen Fey)
-**Time** (Protection, Time)
+
+| Class | Archetypes |
+| --- | --- |
 
 **The Psionic Sciences**
-**Clairsentience** (Divination, Fallen Fey, Fate, Technomancy)
-**Metacreativity** (Conjuration, Creation, Dark, Enhancement, Nature)
-**Psychokinesis** (Destruction, Light, Mana, Protection, Telekinesis, Weather)
-**Psychometabolism** (Alteration, Bear, Blood, Death, Life)
-**Psychoportation** (Time, Warp)
-**Telepathy** (Illusion, Mind, War)
+
+| Class | Archetypes |
+| --- | --- |
 
 **The Trifold Ascendancies**
-**Invention** (Conjuration, Creation, Dark, Death, Destruction, Light, Nature, Weather)
-**Mentalism** (Divination, Fallen Fey, Fate, Illusion, Mind, War)
-**Variation** (Alteration, Bear, Blood, Enhancement, Life, Mana, Protection, Technomancy, Telekinesis, Time, Warp)
+
+| Class | Archetypes |
+| --- | --- |
 
 *Technomancy sphere included in Arcforge Campaign Setting: Spheres of Influence. Legendary Games © 2018. Included here for completion.*
 

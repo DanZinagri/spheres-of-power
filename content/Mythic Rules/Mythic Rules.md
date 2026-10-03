@@ -11,6 +11,10 @@ Use of these rules requires the base *Mythic Adventures* rulebook, which is avai
 
 **Note:** For Mythic Spheres of Power rules, see the [[Mythic Spheres]] page.
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 ---
 
 #### Mythic Heroes
@@ -137,6 +141,10 @@ Use of these rules requires the base *Mythic Adventures* rulebook, which is avai
 -[[Mythic Teamwork Feats]]
 -[[Additional Non-Mythic Feats]]
 
+</div>
+
+<div class="sop-col">
+
 ---
 
 #### Mythic Spells
@@ -157,6 +165,10 @@ Use of these rules requires the base *Mythic Adventures* rulebook, which is avai
 -[[Mythic Spells (W-X)]]
 -[[Mythic Spells (Y-Z)]]
 -[[Mythic Communal Spells]]
+
+</div>
+
+<div class="sop-col">
 
 ---
 
@@ -223,3 +235,7 @@ Use of these rules requires the base *Mythic Adventures* rulebook, which is avai
 -[[Mythic Traps]]
 
 -[[Mythic Solutions]]
+
+</div>
+
+</div>

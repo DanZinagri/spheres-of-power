@@ -7,6 +7,10 @@ updated: 2017-04-25
 
 Creature templates are a quick and easy way to apply new powers to existing creatures, often changing them in ways that drastically modify their tactics and place in a game world. While most are intended for the GM to apply to monsters, PCs are sometimes permitted to take templates. Many of the templates on this page originally appeared in Pathways (a free monthly e-zine by Rite Publishing), the Book of Monster Templates (also by Rite Publishing), or Bloodforge (a book of crossblooded races by Dreamscarred Press).
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 | Template Name | CR Change |
 | --- | --- |
 | [[Accursed Creature (CR -12)\|Accursed Creature]] | CR -1/2 |
@@ -62,6 +66,10 @@ Creature templates are a quick and easy way to apply new powers to existing crea
 | [[Half-Elemental Creature (CR +Varies)\|Half-Elemental Creature]] | CR +Varies |
 | [[Half-Medusa Creature (CR +2)\|Half-Medusa Creature]] | CR +2 |
 
+</div>
+
+<div class="sop-col">
+
 | Template Name | CR Change |
 | --- | --- |
 | [[Half-Rakshasa Creature (CR +Varies)\|Half-Rakshasa Creature]] | CR +Varies |
@@ -116,3 +124,7 @@ Creature templates are a quick and easy way to apply new powers to existing crea
 | [[Whispering Phantasm Creature (CR +2)\|Whispering Phantasm Creature]] | CR +2 |
 | [[Witchfire Creature (CR +3)\|Witchfire Creature]] | CR +3 |
 | [[Wrathful Creature (CR +1)\|Wrathful Creature]] | CR +1 |
+
+</div>
+
+</div>

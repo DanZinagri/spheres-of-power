@@ -1,3 +1,122 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ---------------------------------------------------------------- page width
+// Quartz caps the page at ~1500px; let the center column use wide screens.
+.page {
+  max-width: min(96vw, 2200px);
+}
+
+// ---------------------------------------------------------------- tables
+// Class progression tables have many narrow numeric columns plus a long "Special" column:
+// smaller header text, tighter cells, and no forced 75px minimum so the text column gets the room.
+.table-container {
+  & > table {
+    margin: 1rem 0;
+    padding: 0;
+    font-size: 0.92rem;
+
+    th,
+    td {
+      min-width: 0;
+    }
+
+    & > * {
+      line-height: 1.45rem;
+    }
+  }
+
+  th {
+    font-size: 0.82rem;
+    line-height: 1.2rem;
+    padding: 0.35rem 0.5rem;
+    vertical-align: bottom;
+  }
+
+  td {
+    padding: 0.3rem 0.5rem;
+    vertical-align: top;
+  }
+
+  tbody tr:hover {
+    background: var(--highlight);
+  }
+}
+
+// "Class | Archetypes" tables on the home page: keep the class name on one line
+.table-container td:first-child > strong:only-child {
+  white-space: nowrap;
+}
+
+// ---------------------------------------------------------------- column layouts
+// Wikidot side-by-side [[div float]] blocks (home page navigation etc.)
+// Dense link lists read better without Quartz's shaded box behind each internal link
+.sop-columns,
+.table-container {
+  a.internal {
+    background-color: transparent;
+    padding: 0;
+  }
+}
+
+.sop-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
+  gap: 0.25rem 2rem;
+  align-items: start;
+  margin: 1rem 0;
+
+  & > .sop-col {
+    min-width: 0;
+
+    // a column holding a table (e.g. the home page's archetype list) gets the full row
+    &:has(.table-container) {
+      grid-column: 1 / -1;
+    }
+
+    & > :first-child {
+      margin-top: 0;
+    }
+
+    p {
+      margin: 0.4rem 0 0.9rem;
+    }
+
+    h2,
+    h3 {
+      margin-top: 0.5rem;
+    }
+  }
+}
+
+// ---------------------------------------------------------------- product-line link colors
+// Matches the original wiki: Power = default link color (blue), Guile = purple,
+// Might = brown/orange, Champions = green. Families come from data/link-families.json.
+:root {
+  --fam-guile: #6a1fb0;
+  --fam-guile-alt: #a51fe0;
+  --fam-might: #993300;
+  --fam-champion: #008a0e;
+}
+
+:root[saved-theme="dark"] {
+  --fam-guile: #b48cff;
+  --fam-guile-alt: #d88cff;
+  --fam-might: #e8935a;
+  --fam-champion: #6fdc6f;
+}
+
+a.internal {
+  &.fam-guile {
+    color: var(--fam-guile);
+  }
+  &.fam-guile-alt {
+    color: var(--fam-guile-alt);
+  }
+  &.fam-might {
+    color: var(--fam-might);
+  }
+  &.fam-champion {
+    color: var(--fam-champion);
+  }
+}

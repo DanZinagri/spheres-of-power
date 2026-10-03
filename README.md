@@ -20,6 +20,22 @@ never parented are in `Archetypes (Unsorted)` or `Other Pages`. Every note's fro
 (the original URL), `updated` (last edit on the wiki), `parent`, and `tags`. Links between pages are
 `[[wikilinks]]`, including links to specific headings.
 
+### Excluded books
+
+`EXCLUDED_SECTIONS` at the top of `scripts/scrape.py` lists top-level folders that are left out
+entirely (the hub page and everything under it), and their links are stripped from the home page
+and sidebar navigation. Currently: Akashic Mysteries, Arcforge, City of 7 Seraphs, Cthulhu Mythos,
+Gonzo, Heroes of the Jade Oath, Legendary Worlds, Pact Magic, Strange Magic. Edit the list and
+re-run `python scripts/scrape.py convert` to change it (the raw pages stay cached).
+
+### Link colors
+
+Like the original wiki, links are colored by product line: Power blue (the default link color),
+Guile purple, Might brown/orange, Champions green. The converter works out each page's family from
+how the wiki colors links to it and writes `data/link-families.json`; the `LinkFamilies` Quartz
+plugin applies it. For the same colors in Obsidian, enable the `sop-link-colors` snippet under
+Settings → Appearance → CSS snippets.
+
 ## Resync from the wiki
 
 ```bash

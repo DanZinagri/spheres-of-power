@@ -10,6 +10,10 @@ The following are new utility wild talents that can be selected by Kineticists w
 
 # [[Universal Utility Talents]]
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 ---
 
 # [[Aether Utility Talents]]
@@ -36,6 +40,10 @@ The following are new utility wild talents that can be selected by Kineticists w
 
 ---
 
+</div>
+
+<div class="sop-col">
+
 ---
 
 # [[Sound Utility Talents]]
@@ -61,3 +69,7 @@ The following are new utility wild talents that can be selected by Kineticists w
 # [[Wood Utility Talents]]
 
 ---
+
+</div>
+
+</div>

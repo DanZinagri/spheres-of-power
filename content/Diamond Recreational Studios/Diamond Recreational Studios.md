@@ -17,6 +17,10 @@ While many DRS releases are integrated into the Spheres of Power Wiki (with the 
 
 ---
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 **Polished Spheres**
 [[Polished Dark|Dark (Polished)]]
 
@@ -24,6 +28,10 @@ While many DRS releases are integrated into the Spheres of Power Wiki (with the 
 [[Feats (DRS)]]
 [[Traits (DRS)]]
 [[Alternate Racial Traits (DRS)]]
+
+</div>
+
+<div class="sop-col">
 
 #### Classes and Archetypes
 
@@ -34,13 +42,18 @@ While many DRS releases are integrated into the Spheres of Power Wiki (with the 
 | [[Incanter Class Features (DRS)|Incanter Class Features]]
 **[[Prodigy]]**
 | [[Prodigy Class Features (DRS)|Prodigy Class Features]]
-**[[Sentinel]]** ([[Darkthrone (Sentinel Archetype) (Champion)|Darkthrone]])
-**[[Shifter]]** ([[Champion Shifter (Shifter Archetype) (Champion)|Champion Shifter]], [[Night Terror (Shifter Archetype)|Night Terror]])
-| [[DRS Shifter Class Features|Shifter Class Features]]
-**[[Thaumaturge]]** ([[Ebonmage (Thaumaturge Archetype)|Ebonmage]])
-| [[DRS Thaumaturge Class Features|Thaumaturge Class Features]]
+
+| Class | Archetypes | Class Options |
+| --- | --- | --- |
+| **[[Sentinel]]** | [[Darkthrone (Sentinel Archetype) (Champion)\|Darkthrone]] |  |
+| **[[Shifter]]** | [[Champion Shifter (Shifter Archetype) (Champion)\|Champion Shifter]], [[Night Terror (Shifter Archetype)\|Night Terror]] | [[DRS Shifter Class Features\|Shifter Class Features]] |
+| **[[Thaumaturge]]** | [[Ebonmage (Thaumaturge Archetype)\|Ebonmage]] | [[DRS Thaumaturge Class Features\|Thaumaturge Class Features]] |
 
 #### Prestige Classes
 
 **[[Kingking]]**
 **[[Renowned Warrior]]**
+
+</div>
+
+</div>

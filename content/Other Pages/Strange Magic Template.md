@@ -13,69 +13,69 @@ updated: 2018-11-23
 
 **Composition Magic**
 
-[[Breakdancer]] · [[Cantor]] · [[Harmonicist]] · [[Maestro]]
+Breakdancer · Cantor · Harmonicist · Maestro
 
-[[Composition Feats]] · [[Intros And Outros|Intros and Outros]] · [[Melodies]]
+Composition Feats · Intros and Outros · Melodies
 
 **Ethermagic**
 
-[[Ethermagus]] · [[Ethermancer]] · [[Etherslinger]]
+Ethermagus · Ethermancer · Etherslinger
 
-[[Ethermagic Feats]] · [[Ethermagic Items]] · [[Alteration Manifestations|Alteration Mani.]] · [[Bestow Manifestations|Bestow Mani.]]
+Ethermagic Feats · Ethermagic Items · Alteration Mani. · Bestow Mani.
 
-[[Blast Manifestations|Blast Mani.]] · [[Genesis Manifestations|Genesis Mani.]] · [[Voidmeld Manifestations|Voidmeld Mani.]] · [[Greater Manifestations|Greater Mani.]]
+Blast Mani. · Genesis Mani. · Voidmeld Mani. · Greater Mani.
 
 **Truenaming**
 
-[[Truenamer]] · [[Scion Of Discordia|Scion of Discordia]] · [[Truemagic Feats]] · [[Truenaming Items]]
+Truenamer · Scion of Discordia · Truemagic Feats · Truenaming Items
 
-[[Codex Of Heart And Mind|Heart and Mind]] · [[Codex Of Artifice|Artifice]] · [[Codex Of Far-Flung Spheres|Far-Flung Spheres]] · [[Codex Of The Realized Vision|Realized Vision]]
+Heart and Mind · Artifice · Far-Flung Spheres · Realized Vision
 
 **Strange Magic 2**
 
 **Cartomancy**
 
-[[Cartomancer]] · [[Wildcard]] · [[Cartomancy Feats]]
+Cartomancer · Wildcard · Cartomancy Feats
 
-[[Classic Portents]] · [[Deathdealer Portents]] · [[Poker Card Equivalence Table|Poker Card Equiv.]]
+Classic Portents · Deathdealer Portents · Poker Card Equiv.
 
 **Herbalism**
 
-[[Gourmend]] · [[Herbalist]] · [[Naturalist]]
+Gourmend · Herbalist · Naturalist
 
-[[Herbalism Feats]] · [[GourmendHerbalist Find Herbs Tables|Gour/Herb Tables]] · [[Naturalist Find Herbs Tables|Naturalist Tables]] · [[Biome Summary Tables|Biome Summ. Tables]]
+Herbalism Feats · Gour/Herb Tables · Naturalist Tables · [Biome Summ. Tables](http://spheresofpower.wikidot.com/biome-summary-tables)
 
-[[The Herb Log]] · [[The Recipe Book]] · [[Microcosms]]
+The Herb Log · The Recipe Book · Microcosms
 
 **Onmyodo**
 
-[[Onmyoji]] · [[Shikigami Ascendent]] · [[Warrior Poet]]
+Onmyoji · Shikigami Ascendent · Warrior Poet
 
-[[Onmyodo Feats]] · [[Shikigami Feats]] · [[Friendship Feats]]
+Onmyodo Feats · Shikigami Feats · Friendship Feats
 
-[[Petitions]] · [[Talismans]] · [[The Poetry Book|Poetry Book]]
+Petitions · Talismans · Poetry Book
 
 **Other Systems**
 
 **The Assassin**
 
-[[The Assassin]] · [[Assassin Techniques|Techniques]] · [[Assassin Feats]]
+The Assassin · Techniques · Assassin Feats
 
 **The Primordial Dancer**
 
-[[The Primordial Dancer]] · [[Dances List]] · [[Primordial Dancer Feats|Prim. Dancer Feats]]
+The Primordial Dancer · Dances List · Prim. Dancer Feats
 
 **The Reaper**
 
-[[The Reaper]] · [[Soulsown Talents]]
+The Reaper · Soulsown Talents
 
 **Runesmithing**
 
-[[Runesmith]] · [[Runesmithing Feats]] · [[Equipment Runes]] · [[Projection Runes]]
+Runesmith · Runesmithing Feats · Equipment Runes · Projection Runes
 
 **The Triggerman**
 
-[[Triggerman]] · [[Triggerman Feats]] · [[Triggerman Techniques]]
+Triggerman · Triggerman Feats · Triggerman Techniques
 
 [Get Strange Magic 1](http://www.drivethrurpg.com/product/149011/Strange-Magic--Ethermagic-Composition-and-Truemagic?affiliate_id=549120) · [Get Strange Magic 2](http://www.drivethrurpg.com/product/248131/Strange-Magic-2-PFRPG?affiliate_id=549120)
 

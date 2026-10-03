@@ -1024,7 +1024,7 @@ The Knight-Summoner is an archetype for the Mageknight that allows them to call 
 
 ## [[Pact Master]]
 
-The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of [[Pact Magic]].
+The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of Pact Magic.
 
 ## [[Twinsoul Elementalist]]
 
@@ -1810,7 +1810,7 @@ The Knight-Summoner is an archetype for the Mageknight that allows them to call 
 
 ## [[Old Pact Master]]
 
-The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of [[Pact Magic]].
+The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of Pact Magic.
 
 ## [[Old Twinsoul Elementalist]]
 

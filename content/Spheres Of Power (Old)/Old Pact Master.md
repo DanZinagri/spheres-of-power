@@ -8,7 +8,7 @@ parent: "[[Old Thaumaturge]]"
 
 Most who call on aid from other planes make binding pacts with individual creatures for long-term support. Others dance in and out of contracts, making temporary arrangements, and juggling obligations to various powers to shift their abilities from day to day.
 
-***Wiki Note:*** This archetype isn't directly related to [[Pact Magic]] from Radiance House, but that system is an excellent source for themes, ideas, and potential companions.
+***Wiki Note:*** This archetype isn't directly related to Pact Magic from Radiance House, but that system is an excellent source for themes, ideas, and potential companions.
 
 **Contingent Caster:** A pact master does not gain the casting class feature (and thus does not gain 2 free magic talents) nor does he gain magic talents from his class levels, though he may count his class levels as casting class levels for the purposes of meeting the prerequisites for feats and using the Counterspell feat and other feats with it as a prerequisite.
 

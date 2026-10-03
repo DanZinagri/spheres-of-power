@@ -9,6 +9,10 @@ Spheres of Might is a unique martial system created by Drop Dead Studios for use
 
 ## [[Using Spheres Of Might|Using Spheres of Might]]
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 **Combat Spheres**
 
 -[[Alchemy]]
@@ -79,6 +83,10 @@ Spheres of Might is a unique martial system created by Drop Dead Studios for use
 -[[The Waterlord]] (Pirate Commander)
 -[[The Walking Hill]] (Strong Man Striker)
 
+</div>
+
+<div class="sop-col">
+
 **Practitioners**
 
 -[[Armiger]]
@@ -114,6 +122,10 @@ Spheres of Might is a unique martial system created by Drop Dead Studios for use
 -Swashbuckler ([[Dancing Blade (Swashbuckler Archetype)|Dancing Blade]] [Core])
 -Thaumaturge ([[Savant (Thaumaturge Archetype)|Savant]] [Core])
 -Vigilante ([[Shadow Warrior (Vigilante Archetype)|Shadow Warrior]] [Core])
+
+</div>
+
+</div>
 
 ---
 

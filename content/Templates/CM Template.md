@@ -10,34 +10,34 @@ Sandy Petersen's Cthulhu Mythos for Pathfinder by Petersen Games
 
 **Races**
 
-[[Dreamlands Cats]] · [[Ghouls]] · [[Gnorri]] · [[Zoogs]]
+Dreamlands Cats · Ghouls · Gnorri · Zoogs
 
 **Companion Options**
 
-[[Mythos Animal Companions]] · [[Mythos Familiars]] · [[Mythos Eidolons]]
+Mythos Animal Companions · Mythos Familiars · Mythos Eidolons
 
 **Other Options**
 
-[[Profession (Yog-Sothothery Philosopher)|Yog-Sothothery Skill]] · [[Mythos Feats]] · [[Mythos Spells]] · [[Mythos Rituals]]
+Yog-Sothothery Skill · Mythos Feats · Mythos Spells · Mythos Rituals
 
-[[Alchemical Mythos Items|Alchemical Items]] · [[Technological Mythos Items|Technological Items]] · [[Mythos Grimoires]] · [[Mythos Magic Items And Artifacts|Magic Items And Artifacts]]
+Alchemical Items · Technological Items · Mythos Grimoires · Magic Items And Artifacts
 
 **Gamemastering**
 
-[[Using This Content]] · [[How To Bring Horror To Heroic Fantasy|Bringing Horror To Fantasy]] · [[Dreamlands]] · [[Insanity And Dread|Insanity and Dread]]
+Using This Content · Bringing Horror To Fantasy · Dreamlands · Insanity and Dread
 
 **Cults**
 
-[[Introduction To Cults|Introduction to Cults]] · [[Azathoth Cult]] · [[Black Goat Cult]] · [[Crawling Chaos Cult]]
+Introduction to Cults · Azathoth Cult · Black Goat Cult · Crawling Chaos Cult
 
-[[Cthulhu Cult]] · [[Opener Of The Way Cult|Opener of the Way Cult]] · [[Sleeper Cult]] · [[Windwalker Cult]]
+Cthulhu Cult · Opener of the Way Cult · Sleeper Cult · Windwalker Cult
 
-[[Yellow Sign Cult]] · [[Lesser Cults]] · [[Tcho Tcho Culture|Tcho-Tcho Culture]] · [[Deep One Culture]]
+Yellow Sign Cult · Lesser Cults · Tcho-Tcho Culture · Deep One Culture
 
 **Bestiary**
 
-[[Great Old Ones, Outer Gods, And Elder Influences|Great Old Ones, Outer Gods, and Elder Influences]]
+Great Old Ones, Outer Gods, and Elder Influences
 
-[[Mythos Bestiary]] · [[Advanced Adversaries]]
+Mythos Bestiary · Advanced Adversaries
 
 [Get Sandy Petersen's Cthulhu Mythos for Pathfinder](https://www.drivethrurpg.com/product/241231/Sandy-Petersens-Cthulhu-Mythos--Pathfinder?affiliate_id=549120)

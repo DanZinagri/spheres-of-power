@@ -213,37 +213,37 @@ The following favored class options are available to all characters of the liste
 
 Akashic Mysteries by Dreamscarred Press · Akashic Trinity by Lost Spheres Publishing
 
-Akashic Mysteries · [[Daevic]] · [[Guru]] · [[Vizier]]
+Akashic Mysteries · Daevic · Guru · Vizier
 
-Akashic Trinity · [[Eclipse]] · [[Nexus]] · [[Radiant]]
+Akashic Trinity · Eclipse · [[Nexus]] · [[Radiant]]
 
-The Huay · [[Huay]]
+The Huay · Huay
 
-The Rajah · [[Rajah]] · [[Title Veils]] · [[Radiant Dawn Martial Discipline|Radiant Dawn MD]]
+The Rajah · Rajah · Title Veils · [Radiant Dawn MD](http://spheresofpower.wikidot.com/radiant-dawn-martial-discipline)
 
-The Sphereshaper · [[Sphereshaper]] · [[Sphereshaper Veils]]
+The Sphereshaper · Sphereshaper · Sphereshaper Veils
 
-The Stormbound · [[Stormbound]] · [[Stormbound Veils]]
+The Stormbound · Stormbound · Stormbound Veils
 
-The Zodiac · [[Zodiac]] · [[Lunar Veils]]
+The Zodiac · Zodiac · Lunar Veils
 
 **Prestige Classes**
 
-[[Amplifier]] · [[Black Templar]] · [[Storm Warrior]] · [[Veilshifter]]
+Amplifier · Black Templar · Storm Warrior · Veilshifter
 
-[[Sphere Amplifier]] · [[Sphere Black Templar]]
+Sphere Amplifier · Sphere Black Templar
 
 **Races**
 
-[[Gamla]] · [[Sobek]] · [[Suqur]]
+Gamla · Sobek · Suqur
 
 **Rules**
 
-[[Veilweaving Rules]] · [[Veil List And Descriptions|Veil List and Descriptions]] · [[Akashic Trinity Veils]]
+Veilweaving Rules · Veil List and Descriptions · Akashic Trinity Veils
 
-[[Akashic Animal Companions]] · [[Akashic Feats]] · [[Akashic Traits]] · [[Akashic Weapons]]
+Akashic Animal Companions · Akashic Feats · Akashic Traits · Akashic Weapons
 
-[[Akashic Wondrous Items]] · [[Akashic Reference Materials|Reference Materials]]
+Akashic Wondrous Items · Reference Materials
 
 [Get Akashic Mysteries](http://www.drivethrurpg.com/product/190611/Akashic-Mysteries?affiliate_id=549120) · [Get Akashic Trinity](http://www.drivethrurpg.com/product/238407/City-of-7-Seraphs--Akashic-Trinity?affiliate_id=549120)
 
@@ -253,29 +253,29 @@ The Zodiac · [[Zodiac]] · [[Lunar Veils]]
 
 **Classes**
 
-[[Aegis]] · [[Aethernaut]] · [[Echo]]
+Aegis · Aethernaut · Echo
 
-[[Eclipse]] · [[Nexus]] · [[Radiant]]
+Eclipse · [[Nexus]] · [[Radiant]]
 
-[[Shadow Weaver]] · [[Sphereshaper]] · [[Theurge]]
+Shadow Weaver · Sphereshaper · Theurge
 
 **Races**
 
-[[Ceptu]] · [[Judow]] · [[Mirrorkin]] · [[Rhyzala]] · [[Shadow Fey]] · [[Veryx]]
+Ceptu · Judow · Mirrorkin · Rhyzala · Shadow Fey · Veryx
 
-[[Xodai]]
+Xodai
 
 **Luminous Organizations**
 
-[[Ashlords]] · [[Children Of Dreams|Children of Dreams]] · [[Everlasting Dawn]] · [[Foreseers]] · [[House Of Prominence|House of Prominence]] · [[Steamstriders]]
+Ashlords · Children of Dreams · Everlasting Dawn · Foreseers · House of Prominence · Steamstriders
 
 **Neutral Organizations**
 
-[[Cocoon Pact]] · [[Descendants Of Thunder|Descendants of Thunder]]
+Cocoon Pact · Descendants of Thunder
 
 **Umbral Organizations**
 
-[[Blackswords]] · [[Booksealers]] · [[Church Of Coin|Church of Coin]] · [[Frozen Graves]] · [[Hands of Burden]] · [[Scarlet Sovereignty]]
+Blackswords · Booksealers · Church of Coin · Frozen Graves · Hands of Burden · Scarlet Sovereignty
 
 [Get The City of 7 Seraphs](https://www.drivethrurpg.com/product/269801/The-City-of-7-Seraphs?affiliate_id=549120)
 

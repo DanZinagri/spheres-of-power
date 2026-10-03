@@ -42,25 +42,25 @@ A mighty morpher may select striker arts in place of hero powers, using his migh
 
 **Gonzo 1 Classes**
 
-[[The Craven]] · [[The Mime]] · [[The Punk]] · [[The Rockstar]] · [[The Toon]]
+The Craven · The Mime · The Punk · The Rockstar · The Toon
 
 **Gonzo 2 Classes**
 
-[[Architect]] · [[Atomic Adept]] · [[Battle Butler]] · [[Chessmaster]] · [[Chimney Sweep]] · [[Dealer]]
+Architect · Atomic Adept · Battle Butler · Chessmaster · Chimney Sweep · Dealer
 
-[[Dynamic Warrior]] · [[Guide]] · [[Henchling]] · [[Henshin Hero]] · [[Magical Girl]] · [[Monster Cowboy]]
+Dynamic Warrior · Guide · Henchling · Henshin Hero · Magical Girl · Monster Cowboy
 
-[[Multiple Master]] · [[Phantom Thief]] · [[Sparkle Princess]] · [[Thread Maiden]] · [[Ungermaw]] · [[Warpmaster]]
+Multiple Master · Phantom Thief · Sparkle Princess · Thread Maiden · Ungermaw · Warpmaster
 
 **Prestige Classes**
 
-[[Impersonator]] · [[Slimelord]] · [[The Living Bomb]]
+Impersonator · Slimelord · The Living Bomb
 
 **Other Rules**
 
-[[Gonzo Feats]] · [[Gonzo Adventuring Gear]] · [[Gonzo Drugs]]
+Gonzo Feats · Gonzo Adventuring Gear · Gonzo Drugs
 
-[[Gonzo Magical Weapons And Armor|Gonzo Magical Weapons and Armor]] · [[Gonzo Wondrous Items]] · [[Giant Robot Rules]]
+Gonzo Magical Weapons and Armor · Gonzo Wondrous Items · Giant Robot Rules
 
 [Get Gonzo 1](http://www.drivethrurpg.com/product/133412/Gonzo?affiliate_id=549120)
 

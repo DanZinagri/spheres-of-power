@@ -123,7 +123,7 @@ Some classes are inherently more common than others. This table only reflects a 
 | Mental Classes | 1-66 | 67-100 | Traditionally mind-focused classes, such as anything from **Psionics** and some Casting Traditions from Spheres of Power. |
 | Nature Classes | 1-75 | 76-100 | Traditionally nature-focused classes like the **Druid**, **Shaman**, and those with connections to the fey. |
 | Occult Classes | 1-50 | 51-100 | Traditionally occult classes, such as the **Occultist**, **Kineticist**, and **Medium**. |
-| Unusual Classes | 1-25 | 26-100 | Classes that don't quite fall into the other categories, such as anything from [[Strange Magic]], [[Pact Magic]], or other uncommon 3PP classes. |
+| Unusual Classes | 1-25 | 26-100 | Classes that don't quite fall into the other categories, such as anything from Strange Magic, Pact Magic, or other uncommon 3PP classes. |
 
 Note that regardless of these rolls, NPC classes are almost always present as the bulk of the population.
 
@@ -261,7 +261,7 @@ In a way, this is the most important table on this page. A theme is what really 
 | 41-45 | Mixed | The nation has 2-4 prominent traditions (roll or select the number as you prefer). Reroll on this table, and ignore any additional times this result comes up. |
 | 46-50 | Nature | The nation has a strong affiliation with natural magic (particularly for manipulating plantlife and crops to feed the population), and may have a close connection to the fey. |
 | 51-60 | Occult | The nation has a strong occult tradition - which isn't necessarily appreciated by its population, but is present nonetheless. |
-| 61-65 | Pact | The nation has an emphasis on pacts and agreements. This could take the form of [[Pact Magic]], an arrangement with a particular organization or church, or whatever form of agreement seems appropriate. Loss of access if the agreement isn't followed may be a threat. |
+| 61-65 | Pact | The nation has an emphasis on pacts and agreements. This could take the form of Pact Magic, an arrangement with a particular organization or church, or whatever form of agreement seems appropriate. Loss of access if the agreement isn't followed may be a threat. |
 | 66-70 | Sphere Focused (Minor) | The nation specializes in two different Spheres of Power. Roll 2d20, rerolling duplicates, and consult the list of Spheres. |
 | 71-75 | Sphere Focused (Moderate) | The nation specializes in three different Spheres of Power. Roll 3d20, rerolling duplicates, and consult the list of Spheres. |
 | 76-80 | Sphere Focused (Major) | The nation specializes in five different Spheres of Power. Roll 5d20, rerolling duplicates, and consult the list of Spheres. |

@@ -32,20 +32,15 @@ Tags | Edit | Source | Print
 
 **Systems**
 
-[[Akashic Mysteries]]
-[[Arcforge]]
-[[City of 7 Seraphs]]
-[[Cthulhu Mythos]]
 [[Diamond Recreational Studios]]
-[[Gonzo]]
-[[Heroes Of The Jade Oath|Heroes of the Jade Oath]]
+
 [[Mythic Rules]]
 [[Mythic Spheres]]
-[[Pact Magic]]
+
 [[Spheres Of Might|Spheres of Might]]
 [[Spheres Of Power|Spheres of Power]]
 [[Spheres Of Power (Old)|Spheres of Power (Old)]]
-[[Strange Magic]]
+
 [[Ultimate Engineering|Ultimate Engineering (Tinker)]]
 [[Other Options]]
 
@@ -84,7 +79,6 @@ Tags | Edit | Source | Print
 Special or 3PP
 [[Bear]]
 [[Technomancy LG|Technomancy]] [3pp]
-[[Veilweaving]] [3pp]
 
 **Combat Spheres**
 

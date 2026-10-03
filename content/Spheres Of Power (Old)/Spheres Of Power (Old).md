@@ -13,6 +13,10 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 
 ## [[Using Spheres Of Power|Using Spheres of Power]]
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 **The Spheres**
 
 -[[Old Alteration]]
@@ -131,6 +135,10 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 -[[The Mountain]] (Enhancement-focused Armorist)
 -[[The Shy Librarian]] (Bookworm Thaumaturge)
 
+</div>
+
+<div class="sop-col">
+
 **Classes**
 
 -[[Old Armorist]]
@@ -219,6 +227,10 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 -[[Old Spheres Archwizard]] [Wiki]
 -[[Old Master Of Vagueries]] [3PP]
 -[[Old Trinity Angel]] [3PP]
+
+</div>
+
+</div>
 
 ---
 

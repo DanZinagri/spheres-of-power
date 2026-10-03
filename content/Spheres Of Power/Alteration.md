@@ -106,7 +106,6 @@ You may apply the following traits to any form. You may grant each trait multipl
 **A prehensile tail**, which may be used to hold objects as if it were a hand, and retrieve objects from a belt or pouch as a swift action.
 
 **Tail slap natural weapon** (secondary, 1d6 Medium, 1d4 Small, requires tail)
-
 **Stinger natural weapon** (primary, 1d4 Medium, 1d3 Small, requires tail)
 
 **A pair of legs.** This grants a 20 feet land speed if the target did not possess one. If this is not the form’s first pair of legs, the target gains a +4 CMD bonus against trip attempts. If this causes the target to become a quadruped, they gain the related increase to carrying capacity and may serve as a mount for creatures smaller than itself.

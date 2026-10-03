@@ -34,13 +34,37 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 ---
 
+<div class="sop-columns">
+
+<div class="sop-col">
+
 ## [[Using Spheres Of Power|Using Spheres of Power]]
+
+</div>
+
+<div class="sop-col">
 
 ## [[Using Spheres Of Guile|Using Spheres of Guile]]
 
+</div>
+
+<div class="sop-col">
+
 ## [[Using Spheres Of Might|Using Spheres of Might]]
 
+</div>
+
+<div class="sop-col">
+
 ## [[Using Champions Of The Spheres|Using Champions of the Spheres]]
+
+</div>
+
+</div>
+
+<div class="sop-columns">
+
+<div class="sop-col">
 
 **Magic Spheres**
 
@@ -70,7 +94,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 [[Bear]]
 [[Technomancy LG|Technomancy]] [LG]
-[[Veilweaving]] [3PP]
 
 ---
 
@@ -165,6 +188,10 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 (Enhancement-focused Armorist)
 [[The Shy Librarian]]
 (Bookworm Thaumaturge)
+
+</div>
+
+<div class="sop-col">
 
 **Skill Spheres**
 
@@ -315,6 +342,10 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[The Wandering Sage]]
 (Support Sage)
 
+</div>
+
+<div class="sop-col">
+
 **Combat Spheres**
 
 [[Alchemy]]
@@ -346,6 +377,10 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Tinker]]
 
 [[Pilot]] [LG] [Discontinued]
+
+</div>
+
+<div class="sop-col">
 
 **Spherecasters**
 
@@ -380,10 +415,9 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Waking Sleeper]]
 [[Alternate Justicar (Prestige Class) 3PP|Alternate Justicar]] [Wiki]
 
-[[Great Mind (Prestige Class) 3PP|Great Mind]] [3PP]
-[[Master Of Vagueries (Prestige Class)|Master Of Vagueries]] [3PP]
-[[Trinity Angel (Prestige Class)|Trinity Angel]] [3PP]
-[[Trinity Knight (Prestige Class)|Trinity Knight]] [3PP]
+</div>
+
+<div class="sop-col">
 
 **Operatives**
 
@@ -426,106 +460,87 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Raveler]] [SM—]
 [[Reaper]] [3PP]
 
+</div>
+
+<div class="sop-col">
+
 ---
 
 ## Archetypes
 
 [[Archetype Rules]]
 
-**Alchemist** ([[Bioengineer]], [[Biohacker LG|Biohacker]] [CS] [LG], [[Champion Alchemist 3PP|Champion Alchemist]] [CS], [[Combat Engineer (Alchemist Archetype)|Combat Engineer]], [[Eldritch Infuser (Alchemist Archetype)|Eldritch Infuser]] [CS], [[Essentialist (Alchemist Archetype)|Essentialist]], [[Gun Chemist (Alchemist Archetype)|Gun Chemist]], [[Hemetic Philosopher (Alchemist Archetype)|Hemetic Philosopher]], [[Machinist (Alchemist Archetype)|Machinist]], [[Mortal Chemist (Alchemist Archetype)|Mortal Chemist]], [[Physician (Alchemist Archetype)|Physician]], [[Sphere Alchemist]], [[Weather Harvester (Alchemist Archetype)|Weather Harvester]])
-| [[Alchemist Alternate Class Features]]
-| [[Alchemist Discoveries]]
-**Antipaladin** ([[Antimage (PaladinAntipaladin Archetype)|Antimage]], [[Arbiter (PaladinAntipaladin Archetype)|Arbiter]], [[Avowed (PaladinAntipaladin Archetype)|Avowed]] [CS], [[Blood-Soaked Demon (Antipaladin Archetype)|Blood-Soaked Demon]], [[Champion Of The Cause (PaladinAntipaladin Archetype)|Champion Of The Cause]] [CS], [[Grand Purifier (Paladin & Antipaladin Archetype)|Grand Purifier]] [CS], [[Soulrender (Antipaladin Archetype)|Soulrender]], [[Sphere Antipaladin]], [[Spheres Oathbound (Paladin and Antipaladin Archetype)|Spheres Oathbound]], [[Warrior Of Blind Faith (PaladinAntipaladin Archetype)|Warrior of Blind Faith]])
-**Arcanist** ([[Interminate]], [[Sphere Arcanist]])
-**Barbarian** ([[Barbearian (Barbarian Archetype)|Barbearian]], [[Berserker (Barbarian Archetype)|Berserker]], [[Ferocious Brute (Barbarian Archetype)|Ferocious Brute]], [[Painted Savage (BarbarianUnchained Barbarian Archetype)|Painted Savage]], [[Tranquil Barbarian (Barbarian Archetype)|Tranquil Barbarian]] [NS], [[Worldsoul Incarnate (BarbarianUC Barbarian Archetype)|Worldsoul Incarnate]])
-| [[Barbarian Rage Powers]]
-**Barbarian, Unchained** ([[Painted Savage (BarbarianUnchained Barbarian Archetype)|Painted Savage]], [[Super Soldier]] [DRS], [[Tribal Champion (Unchained Barbarian Archetype)|Tribal Champion]], [[Worldsoul Incarnate (BarbarianUC Barbarian Archetype)|Worldsoul Incarnate]])
-**Bard** ([[Beast Piper (Bard Archetype)|Beast Piper]] [CS], [[Champion Bard (Bard Archetype)|Champion Bard]] [CS], [[Corteggiare (Bard Archetype)|Corteggiare]], [[Knave (Bard Archetype)|Knave]], [[Kung Fu Exemplar (Bard Archetype)|Kung Fu Exemplar]] [CS], [[Minstrel (Bard Archetype)|Minstrel]], [[Musician (Bard Archetype)|Musician]] [CS] [DRS], [[Purrsician]], [[Sovereign Piper (Bard Archetype)|Sovereign Piper]] [CS], [[Shadowsinger (Bard Archetype)|Shadowsinger]] [DRS], [[Sphere Bard]], [[Thespian (Bard Archetype)|Thespian]])
-| [[Bardic Masterpieces]]
-**Bloodrager** ([[Hemophage (Bloodrager Archetype)|Hemophage]] [CS], [[Mystic Scion (Bloodrager Archetype)|Mystic Scion]], [[Sphere Bloodrager]], [[Saturator (Bloodrager Archetype)|Saturator]] [SM—], [[Stormlord (Bloodrager Archetype)|Stormlord]], [[Wendigo (Bloodrager Archetype)|Wendigo]] [CS])
-**Brawler** ([[Brutal Pummeler (Brawler Archetype)|Brutal Pummeler]], [[Mechanized Brawler]] [DRS], [[Prescient Pugilist (Brawler Archetype)|Prescient Pugilist]] [CS])
-**Cavalier** ([[Blooded Knight (Cavalier Archetype)|Blooded Knight]], [[Cavalry Officer (Cavalier Archetype)|Cavalry Officer]], [[Halfling Dragonrider]], [[Knight Of The Order (Cavalier Archetype)|Knight of the Order]])
-| [[Cavalier Orders]]
-**Cleric** ([[Faithful Shepherd (Cleric Archetype)|Faithful Shepherd]], [[Kindred Keeper (3PP)|Kindred Keeper]] [SM—] [CS], [[Sphere Cleric]], [[Tech Priest]] [DRS])
-| [[Cleric Domains]]
-**Druid** ([[Avatar (Druid Archetype)|Avatar]] [CS], [[Child Of Hope (Druid Archetype)|Child of Hope]] [CS], [[Sphere Druid]], [[Spirit Mender (Druid Archetype)|Spirit Mender]])
-**Fighter** ([[Coiled Blade (Fighter Archetype)|Coiled Blade]], [[Fracture (Fighter Archetype)|Fracture]], [[Impossible Warrior (Fighter Archetype)|Impossible Warrior]], [[Impressor (Fighter Archetype)|Impressor]], [[Mulus (Fighter Archetype)|Mulus]], [[Runesinger (Fighter Archetype)|Runesinger]] [CS], [[Soldier (Fighter Archetype)|Soldier]], [[Spirit-Wielder (Fighter Archetype)|Spirit-Wielder]], [[War Hero (Fighter Archetype)|War Hero]])
-**Gunslinger** ([[Clockstopper (Gunslinger Archetype)|Clockstopper]] [CS], [[Cursed Stranger (Gunslinger Archetype)|Cursed Stranger]], [[Game Hunter (Gunslinger Archetype)|Game Hunter]], [[Glass-Eye Gunmage (Gunslinger Archetype)|Glass-Eye Gunmage]], [[Gunfighter (Gunslinger Archetype)|Gunfighter]], [[Junkshot]], [[Space Marine (Gunslinger Archetype)|Space Marine]], [[Spellshot Engineer (Gunslinger Archetype)|Spellshot Engineer]] [CS], [[Wandslinger (Gunslinger Archetype)|Wandslinger]])
-**Hunter** ([[Beast Bender (Hunter Archetype)|Beast Bender]] [CS], [[Beastmaster (Hunter Archetype)|Beastmaster]], [[Greenrunner (Hunter Archetype)|Greenrunner]] [CS], [[Master Of The Hunt (Hunter Archetype)|Master of the Hunt]] [CS], [[Pellucid Hunter (Hunter Archetype)|Pellucid Hunter]], [[Sphere Hunter]])
-**Inquisitor** ([[Champion Inquisitor (Inquisitor Archetype)|Champion Inquisitor]] [CS], [[Ordained Hunter (Inquisitor Archetype)|Ordained Hunter]], [[Shield Of The Gods (Inquisitor Archetype)|Shield of the Gods]], [[Sincrafter (Inquisitor Archetype) (SM—)|Sincrafter]] [CS], [[Soldier Of The Gods (Inquisitor Archetype)|Soldier of the Gods]] [CS], [[Spellwarper (Inquisitor Archetype)|Spellwarper]], [[Sphere Inquisitor]])
-| [[Inquisitor Inquisitions]]
-**Investigator** ([[Acupuncturist (Investigator Archetype)|Acupuncturist]], [[Battered Detective (Investigator Archetype)|Battered Detective]], [[Cerebral Analyst (Investigator Archetype)|Cerebral Analyst]], [[Champion Investigator (Investigator Archetype)|Champion Investigator]] [CS], [[Detective (Investigator Archetype)|Detective]], [[Nightblazer (Investigator Archetype)|Nightblazer]], [[Psyforensic (Investigator Archetype)|Psyforensic]], [[Sphere Investigator]], [[Tactician (Investigator Archetype)|Tactician]])
-| [[Investigator Talents]]
-**Kineticist** ([[Scion (Kineticist Archetype)|Scion]])
-**Magus** ([[Arcane Weaponeer (Magus Archetype)|Arcane Weaponeer]], [[Mystic (Magus Archetype)|Mystic]] [CS], [[Precog LG|Precog]] [CS], [[Runic Knight (Magus Archetype)|Runic Knight]], [[Sphere Magus]])
-| [[Magus Arcana]]
-**Medium** ([[Aspect Host (Medium Archetype)|Aspect Host]] [CS], [[Champion Medium (Medium Archetype)|Champion Medium]] [CS], [[Harrow Medium 3PP|Harrow Medium]], [[Initiate]] [DRS], [[Sphere Medium]], [[Visionary]])
-**Mesmerist** ([[Champion Mesmerist (Champion Archetype)|Champion Mesmerist]] [CS], [[Conniving Bastard (Mesmerist Archetype)|Conniving Bastard]], [[Incendiary (Mesmerist Archetype)|Incendiary]], [[Nocturnus (Mesmerist Archetype)|Nocturnus]], [[Sphere Mesmerist]])
-**Monk** ([[Beastsoul Monk (NormalUnchained Monk Archetype)|Beastsoul Monk]], [[Monkmentum (MonkUnchained Monk Archetype)|Monkmentum]], [[Street Fighter (MonkUnchained Monk Archetype)|Street Fighter]], [[Sundering Hand (MonkUnchained Monk Archetype)|Sundering Hand]])
-**Monk, Unchained** ([[Adamant Disciple (Unchained Monk Archetype)|Adamant Disciple]], [[Beastsoul Monk (NormalUnchained Monk Archetype)|Beastsoul Monk]], [[Disciple Of Chaos (Unchained Monk Archetype)|Disciple of Chaos]], [[Drifting Lotus (Unchained Monk Archetype)|Drifting Lotus]] [CS], [[Erudite Soul (Unchained Monk Archetype)|Erudite Soul]], [[Master Of Many Stances (Unchained Monk Archetype)|Master of Many Stances]], [[Monkmentum (MonkUnchained Monk Archetype)|Monkmentum]], [[Shadow Boxer (Unchained Monk Archetype)|Shadow Boxer]], [[Steelsoul Monk (Unchained Monk Archetype)|Steelsoul Monk]], [[Street Fighter (MonkUnchained Monk Archetype)|Street Fighter]], [[Sundering Hand (MonkUnchained Monk Archetype)|Sundering Hand]], [[The Stupor Monk (Unchained Monk Archetype)|The Stupor Monk]], [[Tranquil Soul (Unchained Monk Archetype)|Tranquil Soul]], [[Yamabushi (Unchained Monk Archetype)|Yamabushi]])
-| [[Ki Powers]]
-**Ninja** ([[Ghost Stepper (Archetype)|Ghost Stepper]], [[Shinobi (Ninja Archetype)|Shinobi]], [[Shrouded Operative (Ninja Archetype)|Shrouded Operative]] [CS])
-**Occultist** ([[Fanebound Mystic]] [DRS], [[Glory Seeker (Occultist Archetype)|Glory Seeker]], [[Lauriger]] [CS], [[Reliquary Keeper (Occultist Archetype)|Reliquary Keeper]])
-**Oracle** ([[Agent of Change (Oracle Archetype)|Agent of Change]] [SM—], [[Augur (Oracle Archetype)|Augur]], [[Sphere Oracle]])
-**Paladin** ([[Antimage (PaladinAntipaladin Archetype)|Antimage]], [[Arbiter (PaladinAntipaladin Archetype)|Arbiter]], [[Avowed (PaladinAntipaladin Archetype)|Avowed]] [CS], [[Champion Of The Cause (PaladinAntipaladin Archetype)|Champion Of The Cause]] [CS], [[Dirt Spattered Angel (Paladin Archetype)|Dirt Spattered Angel]], [[Grand Purifier (Paladin & Antipaladin Archetype)|Grand Purifier]] [CS], [[Parzivalian Knight (Paladin Archetype)|Parzivalian Knight]], [[Sphere Paladin]], [[Spheres Oathbound (Paladin and Antipaladin Archetype)|Spheres Oathbound]], [[Time Knight (Paladin Archetype)|Time Knight]] [CS], [[Valiant Champion (Paladin Archetype)|Valiant Champion]] [CS], [[Warrior Of Blind Faith (PaladinAntipaladin Archetype)|Warrior of Blind Faith]])
-**Psychic** ([[Ascendant Mind (Psychic Archetype)|Ascendant Mind]], [[Esper]] [DRS])
-**Ranger** ([[Adventurer (Ranger Archetype)|Adventurer]], [[Apex Predator (Ranger Archetype)|Apex Predator]] [CS], [[Explorer (Ranger Archetype)|Explorer]] [CS], [[Folk Healer (Ranger Archetype)|Folk Healer]], [[Geosurveyor (Ranger Archetype)|Geosurveyor]], [[Jikininki (Ranger Archetype)|Jikininki]], [[Nature's Blade (Ranger Archetype)|Nature's Blade]], [[Sphere Ranger]], [[Temporal Trapper (Ranger Archetype)|Temporal Trapper]] [CS], [[Wayfarer (Ranger Archetype)|Wayfarer]])
-**Rogue** ([[Canny Scoundrel (Rogue Archetype)|Canny Scoundrel]], [[Ghost Stepper (Archetype)|Ghost Stepper]], [[Lucky Bastard (RogueUnchained Rogue Archetype)|Lucky Bastard]], [[Snake Oil Salesman (Rogue Archetype)|Snake Oil Salesman]], [[Spectral Infiltrator (RogueU. Rogue Archetype)|Spectral Infiltrator]], [[Time Thief (RogueUnchained Rogue Archetype)|Time Thief]])
-**Rogue, Unchained** ([[Canny Scoundrel (Rogue Archetype)|Canny Scoundrel]], [[Deadly Assassin (Unchained Rogue Archetype)|Deadly Assassin]], [[Ghost Stepper (Archetype)|Ghost Stepper]], [[Grifter (Unchained Rogue Archetype)|Grifter]], [[Grinning Brigand (U. Rogue Archetype)|Grinning Brigand]], [[Lucky Bastard (RogueUnchained Rogue Archetype)|Lucky Bastard]], [[Mesmer (Unchained Rogue Archetype)|Mesmer]], [[Shade (Unchained Rogue Archetype)|Shade]] [CS], [[Spectral Infiltrator (RogueU. Rogue Archetype)|Spectral Infiltrator]], [[Talent Thief (Unchained Rogue Archetype)|Talent Thief]], [[Time Thief (RogueUnchained Rogue Archetype)|Time Thief]], [[Treasure Seeker (Unchained Rogue Archetype)|Treasure Seeker]])
-| [[Rogue Talents]]
-**Samurai** ([[Blind Swordsman (Samurai Archetype)|Blind Swordsman]], [[Fabled Blade (Samurai Archetype)|Fabled Blade]], [[Honorbound (Samurai Archetype)|Honorbound]], [[Ronin (Samurai Archetype)|Ronin]] [DRS], [[Samurai with a Gun (Samurai Archetype)|Samurai with a Gun]] [DRS], [[Wandering Swordsman (Samurai Archetype)|Wandering Swordsman]])
-**Shaman** ([[Communal Ritualist (Shaman Archetype)|Communal Ritualist]] [SM—] [CS], [[Dirgesinger (Shaman Archetype)|Dirgesinger]], [[Sphere Shaman]])
-| [[Shaman and Witch Hexes]]
-**Skald** ([[Growling Marauder (Skald Archetype)|Growling Marauder]] [CS], [[Masterwork Chronicler (Skald Archetype)|Masterwork Chronicler]] [CS], [[Primordia (Skald Archetype)|Primordia]], [[Skaldic Poet (Skald Archetype)|Skaldic Poet]], [[Sphere Skald]], [[Storm Herald (Skald Archetype)|Storm Herald]])
-**Slayer** ([[Ghost Stepper (Archetype)|Ghost Stepper]], [[Guild Assassin (Slayer Archetype)|Guild Assassin]], [[Mercenary (Slayer Archetype)|Mercenary]], [[Time Stalker (Slayer Archetype)|Time Stalker]])
-| [[Slayer Talents]]
-**Sorcerer** ([[Inheritor (Sorcerer Archetype)|Inheritor]] [CS], [[Sphere Sorcerer]])
+| Class | Archetypes | Class Options |
+| --- | --- | --- |
+| **Alchemist** | [[Bioengineer]], [[Biohacker LG\|Biohacker]] [CS] [LG], [[Champion Alchemist 3PP\|Champion Alchemist]] [CS], [[Combat Engineer (Alchemist Archetype)\|Combat Engineer]], [[Eldritch Infuser (Alchemist Archetype)\|Eldritch Infuser]] [CS], [[Essentialist (Alchemist Archetype)\|Essentialist]], [[Gun Chemist (Alchemist Archetype)\|Gun Chemist]], [[Hemetic Philosopher (Alchemist Archetype)\|Hemetic Philosopher]], [[Machinist (Alchemist Archetype)\|Machinist]], [[Mortal Chemist (Alchemist Archetype)\|Mortal Chemist]], [[Physician (Alchemist Archetype)\|Physician]], [[Sphere Alchemist]], [[Weather Harvester (Alchemist Archetype)\|Weather Harvester]] | [[Alchemist Alternate Class Features]] · [[Alchemist Discoveries]] |
+| **Antipaladin** | [[Antimage (PaladinAntipaladin Archetype)\|Antimage]], [[Arbiter (PaladinAntipaladin Archetype)\|Arbiter]], [[Avowed (PaladinAntipaladin Archetype)\|Avowed]] [CS], [[Blood-Soaked Demon (Antipaladin Archetype)\|Blood-Soaked Demon]], [[Champion Of The Cause (PaladinAntipaladin Archetype)\|Champion Of The Cause]] [CS], [[Grand Purifier (Paladin & Antipaladin Archetype)\|Grand Purifier]] [CS], [[Soulrender (Antipaladin Archetype)\|Soulrender]], [[Sphere Antipaladin]], [[Spheres Oathbound (Paladin and Antipaladin Archetype)\|Spheres Oathbound]], [[Warrior Of Blind Faith (PaladinAntipaladin Archetype)\|Warrior of Blind Faith]] |  |
+| **Arcanist** | [[Interminate]], [[Sphere Arcanist]] |  |
+| **Barbarian** | [[Barbearian (Barbarian Archetype)\|Barbearian]], [[Berserker (Barbarian Archetype)\|Berserker]], [[Ferocious Brute (Barbarian Archetype)\|Ferocious Brute]], [[Painted Savage (BarbarianUnchained Barbarian Archetype)\|Painted Savage]], [[Tranquil Barbarian (Barbarian Archetype)\|Tranquil Barbarian]] [NS], [[Worldsoul Incarnate (BarbarianUC Barbarian Archetype)\|Worldsoul Incarnate]] | [[Barbarian Rage Powers]] |
+| **Barbarian, Unchained** | [[Painted Savage (BarbarianUnchained Barbarian Archetype)\|Painted Savage]], [[Super Soldier]] [DRS], [[Tribal Champion (Unchained Barbarian Archetype)\|Tribal Champion]], [[Worldsoul Incarnate (BarbarianUC Barbarian Archetype)\|Worldsoul Incarnate]] |  |
+| **Bard** | [[Beast Piper (Bard Archetype)\|Beast Piper]] [CS], [[Champion Bard (Bard Archetype)\|Champion Bard]] [CS], [[Corteggiare (Bard Archetype)\|Corteggiare]], [[Knave (Bard Archetype)\|Knave]], [[Kung Fu Exemplar (Bard Archetype)\|Kung Fu Exemplar]] [CS], [[Minstrel (Bard Archetype)\|Minstrel]], [[Musician (Bard Archetype)\|Musician]] [CS] [DRS], [[Purrsician]], [[Sovereign Piper (Bard Archetype)\|Sovereign Piper]] [CS], [[Shadowsinger (Bard Archetype)\|Shadowsinger]] [DRS], [[Sphere Bard]], [[Thespian (Bard Archetype)\|Thespian]] | [[Bardic Masterpieces]] |
+| **Bloodrager** | [[Hemophage (Bloodrager Archetype)\|Hemophage]] [CS], [[Mystic Scion (Bloodrager Archetype)\|Mystic Scion]], [[Sphere Bloodrager]], [[Saturator (Bloodrager Archetype)\|Saturator]] [SM—], [[Stormlord (Bloodrager Archetype)\|Stormlord]], [[Wendigo (Bloodrager Archetype)\|Wendigo]] [CS] |  |
+| **Brawler** | [[Brutal Pummeler (Brawler Archetype)\|Brutal Pummeler]], [[Mechanized Brawler]] [DRS], [[Prescient Pugilist (Brawler Archetype)\|Prescient Pugilist]] [CS] |  |
+| **Cavalier** | [[Blooded Knight (Cavalier Archetype)\|Blooded Knight]], [[Cavalry Officer (Cavalier Archetype)\|Cavalry Officer]], [[Halfling Dragonrider]], [[Knight Of The Order (Cavalier Archetype)\|Knight of the Order]] | [[Cavalier Orders]] |
+| **Cleric** | [[Faithful Shepherd (Cleric Archetype)\|Faithful Shepherd]], [[Kindred Keeper (3PP)\|Kindred Keeper]] [SM—] [CS], [[Sphere Cleric]], [[Tech Priest]] [DRS] | [[Cleric Domains]] |
+| **Druid** | [[Avatar (Druid Archetype)\|Avatar]] [CS], [[Child Of Hope (Druid Archetype)\|Child of Hope]] [CS], [[Sphere Druid]], [[Spirit Mender (Druid Archetype)\|Spirit Mender]] |  |
+| **Fighter** | [[Coiled Blade (Fighter Archetype)\|Coiled Blade]], [[Fracture (Fighter Archetype)\|Fracture]], [[Impossible Warrior (Fighter Archetype)\|Impossible Warrior]], [[Impressor (Fighter Archetype)\|Impressor]], [[Mulus (Fighter Archetype)\|Mulus]], [[Runesinger (Fighter Archetype)\|Runesinger]] [CS], [[Soldier (Fighter Archetype)\|Soldier]], [[Spirit-Wielder (Fighter Archetype)\|Spirit-Wielder]], [[War Hero (Fighter Archetype)\|War Hero]] |  |
+| **Gunslinger** | [[Clockstopper (Gunslinger Archetype)\|Clockstopper]] [CS], [[Cursed Stranger (Gunslinger Archetype)\|Cursed Stranger]], [[Game Hunter (Gunslinger Archetype)\|Game Hunter]], [[Glass-Eye Gunmage (Gunslinger Archetype)\|Glass-Eye Gunmage]], [[Gunfighter (Gunslinger Archetype)\|Gunfighter]], [[Junkshot]], [[Space Marine (Gunslinger Archetype)\|Space Marine]], [[Spellshot Engineer (Gunslinger Archetype)\|Spellshot Engineer]] [CS], [[Wandslinger (Gunslinger Archetype)\|Wandslinger]] |  |
+| **Hunter** | [[Beast Bender (Hunter Archetype)\|Beast Bender]] [CS], [[Beastmaster (Hunter Archetype)\|Beastmaster]], [[Greenrunner (Hunter Archetype)\|Greenrunner]] [CS], [[Master Of The Hunt (Hunter Archetype)\|Master of the Hunt]] [CS], [[Pellucid Hunter (Hunter Archetype)\|Pellucid Hunter]], [[Sphere Hunter]] |  |
+| **Inquisitor** | [[Champion Inquisitor (Inquisitor Archetype)\|Champion Inquisitor]] [CS], [[Ordained Hunter (Inquisitor Archetype)\|Ordained Hunter]], [[Shield Of The Gods (Inquisitor Archetype)\|Shield of the Gods]], [[Sincrafter (Inquisitor Archetype) (SM—)\|Sincrafter]] [CS], [[Soldier Of The Gods (Inquisitor Archetype)\|Soldier of the Gods]] [CS], [[Spellwarper (Inquisitor Archetype)\|Spellwarper]], [[Sphere Inquisitor]] | [[Inquisitor Inquisitions]] |
+| **Investigator** | [[Acupuncturist (Investigator Archetype)\|Acupuncturist]], [[Battered Detective (Investigator Archetype)\|Battered Detective]], [[Cerebral Analyst (Investigator Archetype)\|Cerebral Analyst]], [[Champion Investigator (Investigator Archetype)\|Champion Investigator]] [CS], [[Detective (Investigator Archetype)\|Detective]], [[Nightblazer (Investigator Archetype)\|Nightblazer]], [[Psyforensic (Investigator Archetype)\|Psyforensic]], [[Sphere Investigator]], [[Tactician (Investigator Archetype)\|Tactician]] | [[Investigator Talents]] |
+| **Kineticist** | [[Scion (Kineticist Archetype)\|Scion]] |  |
+| **Magus** | [[Arcane Weaponeer (Magus Archetype)\|Arcane Weaponeer]], [[Mystic (Magus Archetype)\|Mystic]] [CS], [[Precog LG\|Precog]] [CS], [[Runic Knight (Magus Archetype)\|Runic Knight]], [[Sphere Magus]] | [[Magus Arcana]] |
+| **Medium** | [[Aspect Host (Medium Archetype)\|Aspect Host]] [CS], [[Champion Medium (Medium Archetype)\|Champion Medium]] [CS], [[Harrow Medium 3PP\|Harrow Medium]], [[Initiate]] [DRS], [[Sphere Medium]], [[Visionary]] |  |
+| **Mesmerist** | [[Champion Mesmerist (Champion Archetype)\|Champion Mesmerist]] [CS], [[Conniving Bastard (Mesmerist Archetype)\|Conniving Bastard]], [[Incendiary (Mesmerist Archetype)\|Incendiary]], [[Nocturnus (Mesmerist Archetype)\|Nocturnus]], [[Sphere Mesmerist]] |  |
+| **Monk** | [[Beastsoul Monk (NormalUnchained Monk Archetype)\|Beastsoul Monk]], [[Monkmentum (MonkUnchained Monk Archetype)\|Monkmentum]], [[Street Fighter (MonkUnchained Monk Archetype)\|Street Fighter]], [[Sundering Hand (MonkUnchained Monk Archetype)\|Sundering Hand]] |  |
+| **Monk, Unchained** | [[Adamant Disciple (Unchained Monk Archetype)\|Adamant Disciple]], [[Beastsoul Monk (NormalUnchained Monk Archetype)\|Beastsoul Monk]], [[Disciple Of Chaos (Unchained Monk Archetype)\|Disciple of Chaos]], [[Drifting Lotus (Unchained Monk Archetype)\|Drifting Lotus]] [CS], [[Erudite Soul (Unchained Monk Archetype)\|Erudite Soul]], [[Master Of Many Stances (Unchained Monk Archetype)\|Master of Many Stances]], [[Monkmentum (MonkUnchained Monk Archetype)\|Monkmentum]], [[Shadow Boxer (Unchained Monk Archetype)\|Shadow Boxer]], [[Steelsoul Monk (Unchained Monk Archetype)\|Steelsoul Monk]], [[Street Fighter (MonkUnchained Monk Archetype)\|Street Fighter]], [[Sundering Hand (MonkUnchained Monk Archetype)\|Sundering Hand]], [[The Stupor Monk (Unchained Monk Archetype)\|The Stupor Monk]], [[Tranquil Soul (Unchained Monk Archetype)\|Tranquil Soul]], [[Yamabushi (Unchained Monk Archetype)\|Yamabushi]] | [[Ki Powers]] |
+| **Ninja** | [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Shinobi (Ninja Archetype)\|Shinobi]], [[Shrouded Operative (Ninja Archetype)\|Shrouded Operative]] [CS] |  |
+| **Occultist** | [[Fanebound Mystic]] [DRS], [[Glory Seeker (Occultist Archetype)\|Glory Seeker]], [[Lauriger]] [CS], [[Reliquary Keeper (Occultist Archetype)\|Reliquary Keeper]] |  |
+| **Oracle** | [[Agent of Change (Oracle Archetype)\|Agent of Change]] [SM—], [[Augur (Oracle Archetype)\|Augur]], [[Sphere Oracle]] |  |
+| **Paladin** | [[Antimage (PaladinAntipaladin Archetype)\|Antimage]], [[Arbiter (PaladinAntipaladin Archetype)\|Arbiter]], [[Avowed (PaladinAntipaladin Archetype)\|Avowed]] [CS], [[Champion Of The Cause (PaladinAntipaladin Archetype)\|Champion Of The Cause]] [CS], [[Dirt Spattered Angel (Paladin Archetype)\|Dirt Spattered Angel]], [[Grand Purifier (Paladin & Antipaladin Archetype)\|Grand Purifier]] [CS], [[Parzivalian Knight (Paladin Archetype)\|Parzivalian Knight]], [[Sphere Paladin]], [[Spheres Oathbound (Paladin and Antipaladin Archetype)\|Spheres Oathbound]], [[Time Knight (Paladin Archetype)\|Time Knight]] [CS], [[Valiant Champion (Paladin Archetype)\|Valiant Champion]] [CS], [[Warrior Of Blind Faith (PaladinAntipaladin Archetype)\|Warrior of Blind Faith]] |  |
+| **Psychic** | [[Ascendant Mind (Psychic Archetype)\|Ascendant Mind]], [[Esper]] [DRS] |  |
+| **Ranger** | [[Adventurer (Ranger Archetype)\|Adventurer]], [[Apex Predator (Ranger Archetype)\|Apex Predator]] [CS], [[Explorer (Ranger Archetype)\|Explorer]] [CS], [[Folk Healer (Ranger Archetype)\|Folk Healer]], [[Geosurveyor (Ranger Archetype)\|Geosurveyor]], [[Jikininki (Ranger Archetype)\|Jikininki]], [[Nature's Blade (Ranger Archetype)\|Nature's Blade]], [[Sphere Ranger]], [[Temporal Trapper (Ranger Archetype)\|Temporal Trapper]] [CS], [[Wayfarer (Ranger Archetype)\|Wayfarer]] |  |
+| **Rogue** | [[Canny Scoundrel (Rogue Archetype)\|Canny Scoundrel]], [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Lucky Bastard (RogueUnchained Rogue Archetype)\|Lucky Bastard]], [[Snake Oil Salesman (Rogue Archetype)\|Snake Oil Salesman]], [[Spectral Infiltrator (RogueU. Rogue Archetype)\|Spectral Infiltrator]], [[Time Thief (RogueUnchained Rogue Archetype)\|Time Thief]] |  |
+| **Rogue, Unchained** | [[Canny Scoundrel (Rogue Archetype)\|Canny Scoundrel]], [[Deadly Assassin (Unchained Rogue Archetype)\|Deadly Assassin]], [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Grifter (Unchained Rogue Archetype)\|Grifter]], [[Grinning Brigand (U. Rogue Archetype)\|Grinning Brigand]], [[Lucky Bastard (RogueUnchained Rogue Archetype)\|Lucky Bastard]], [[Mesmer (Unchained Rogue Archetype)\|Mesmer]], [[Shade (Unchained Rogue Archetype)\|Shade]] [CS], [[Spectral Infiltrator (RogueU. Rogue Archetype)\|Spectral Infiltrator]], [[Talent Thief (Unchained Rogue Archetype)\|Talent Thief]], [[Time Thief (RogueUnchained Rogue Archetype)\|Time Thief]], [[Treasure Seeker (Unchained Rogue Archetype)\|Treasure Seeker]] | [[Rogue Talents]] |
+| **Samurai** | [[Blind Swordsman (Samurai Archetype)\|Blind Swordsman]], [[Fabled Blade (Samurai Archetype)\|Fabled Blade]], [[Honorbound (Samurai Archetype)\|Honorbound]], [[Ronin (Samurai Archetype)\|Ronin]] [DRS], [[Samurai with a Gun (Samurai Archetype)\|Samurai with a Gun]] [DRS], [[Wandering Swordsman (Samurai Archetype)\|Wandering Swordsman]] |  |
+| **Shaman** | [[Communal Ritualist (Shaman Archetype)\|Communal Ritualist]] [SM—] [CS], [[Dirgesinger (Shaman Archetype)\|Dirgesinger]], [[Sphere Shaman]] | [[Shaman and Witch Hexes]] |
+| **Skald** | [[Growling Marauder (Skald Archetype)\|Growling Marauder]] [CS], [[Masterwork Chronicler (Skald Archetype)\|Masterwork Chronicler]] [CS], [[Primordia (Skald Archetype)\|Primordia]], [[Skaldic Poet (Skald Archetype)\|Skaldic Poet]], [[Sphere Skald]], [[Storm Herald (Skald Archetype)\|Storm Herald]] |  |
+| **Slayer** | [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Guild Assassin (Slayer Archetype)\|Guild Assassin]], [[Mercenary (Slayer Archetype)\|Mercenary]], [[Time Stalker (Slayer Archetype)\|Time Stalker]] | [[Slayer Talents]] |
+| **Sorcerer** | [[Inheritor (Sorcerer Archetype)\|Inheritor]] [CS], [[Sphere Sorcerer]] |  |
+
 [[Sorcerer Bloodlines]]
-**Spiritualist** ([[Martial Spiritualist (Spiritualist Archetype)|Martial Spiritualist]] [CS], [[Psychomancer (Spiritualist Archetype)|Psychomancer]])
-| [[Phantom Options]]
-**Summoner** ([[Champion Summoner (Summoner and Unchained Summoner Archetype)|Champion Summoner]] [CS] [DRS], [[Mirrored Soul (SummonerUnchained Summoner Archetype)|Mirrored Soul]] [CS], [[Nyancaller (SummonerUnchained Summoner Archetype)|Nyancaller]], [[Soul Binder (Summoner Archetype)|Soul Binder]], [[Sphere Summoner (SummonerUnchained Summoner Archetype)|Sphere Summoner]], [[Void Conduit (SummonerUnchained Summoner Archetype)|Void Conduit]] [DRS])
-**Summoner, Unchained** ([[Champion Summoner (Summoner and Unchained Summoner Archetype)|Champion Summoner]] [CS] [DRS], [[Mirrored Soul (SummonerUnchained Summoner Archetype)|Mirrored Soul]] [CS], [[Nyancaller (SummonerUnchained Summoner Archetype)|Nyancaller]], [[Soul Binder (Summoner Archetype)|Soul Binder]], [[Sphere Summoner (SummonerUnchained Summoner Archetype)|Sphere Summoner]], [[Void Conduit (SummonerUnchained Summoner Archetype)|Void Conduit]] [DRS])
-**Swashbuckler** ([[Charming Fencer (Swashbuckler Archetype)|Charming Fencer]], [[Dancing Blade (Swashbuckler Archetype)|Dancing Blade]], [[Dervish]], [[Hasted Blade (Swashbuckler Archetype)|Hasted Blade]] [CS], [[Prismatic Duelist (Swashbuckler Archetype)|Prismatic Duelist]] [CS])
-| [[Swashbuckler Deeds]]
-**Vigilante** ([[Alter-Ego (Vigilante Archetype)|Alter-Ego]], [[Hidden Master (Vigilante Archetype)|Hidden Master]] [CS], [[Informant (Vigilante Archetype)|Informant]], [[Living Banner (Vigilante Archetype)|Living Banner]], [[Masked Adept (Vigilante Archetype)|Masked Adept]], [[Possessed (Vigilante Archetype)|Possessed]], [[Shadow Warrior (Vigilante Archetype)|Shadow Warrior]], [[Symbol Of Valor (Vigilante Archetype)|Symbol of Valor]])
-| [[Vigilante Talents]]
-**Warpriest** ([[Bastion Of Conviction (Warpriest Archetype)|Bastion of Conviction]] [CS], [[Beacon of Intolerance (Warpriest Archetype)|Beacon of Intolerance]] [SM—], [[Champion Warpriest (Warpriest Archetype)|Champion Warpriest]] [CS], [[Devoted Disciple (Warpriest Archetype)|Devoted Disciple]], [[Divine Heretic (Warpriest Archetype)|Divine Heretic]], [[Divinitech Pilot]] [DRS], [[Sphere Warpriest]])
-| [[Warpriest Blessings]]
-**Witch** ([[Hexblade]] [DRS], [[Sphere Witch]], [[Toilbrook (Witch Archetype)|Toilbrook]] [CS], [[Withering Witch (Witch Archetype)|Withering Witch]])
-| [[Shaman and Witch Hexes|Witch Hexes]]
-**Wizard** ([[Cosmic Sage (Wizard Archetype)|Cosmic Sage]], [[Eclectic Researcher (Wizard Archetype)|Eclectic Researcher]], [[Magitect (Wizard Archetype)|Magitect]] [DRS], [[Sphere Wizard]])
 
-**Animal Companions** ([[Martial Beast (Animal Companion Archetype)|Martial Beast]] [CS])
-**Familiars** ([[Beast Of Omen (Familiar Archetype)|Beast of Omen]], [[Dream Guide (Familiar Archetype)|Dream Guide]], [[Shadow Familiar (Familiar Archetype)|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)|Willing Martyr]])
+| Class | Archetypes | Class Options |
+| --- | --- | --- |
+| **Spiritualist** | [[Martial Spiritualist (Spiritualist Archetype)\|Martial Spiritualist]] [CS], [[Psychomancer (Spiritualist Archetype)\|Psychomancer]] | [[Phantom Options]] |
+| **Summoner** | [[Champion Summoner (Summoner and Unchained Summoner Archetype)\|Champion Summoner]] [CS] [DRS], [[Mirrored Soul (SummonerUnchained Summoner Archetype)\|Mirrored Soul]] [CS], [[Nyancaller (SummonerUnchained Summoner Archetype)\|Nyancaller]], [[Soul Binder (Summoner Archetype)\|Soul Binder]], [[Sphere Summoner (SummonerUnchained Summoner Archetype)\|Sphere Summoner]], [[Void Conduit (SummonerUnchained Summoner Archetype)\|Void Conduit]] [DRS] |  |
+| **Summoner, Unchained** | [[Champion Summoner (Summoner and Unchained Summoner Archetype)\|Champion Summoner]] [CS] [DRS], [[Mirrored Soul (SummonerUnchained Summoner Archetype)\|Mirrored Soul]] [CS], [[Nyancaller (SummonerUnchained Summoner Archetype)\|Nyancaller]], [[Soul Binder (Summoner Archetype)\|Soul Binder]], [[Sphere Summoner (SummonerUnchained Summoner Archetype)\|Sphere Summoner]], [[Void Conduit (SummonerUnchained Summoner Archetype)\|Void Conduit]] [DRS] |  |
+| **Swashbuckler** | [[Charming Fencer (Swashbuckler Archetype)\|Charming Fencer]], [[Dancing Blade (Swashbuckler Archetype)\|Dancing Blade]], [[Dervish]], [[Hasted Blade (Swashbuckler Archetype)\|Hasted Blade]] [CS], [[Prismatic Duelist (Swashbuckler Archetype)\|Prismatic Duelist]] [CS] | [[Swashbuckler Deeds]] |
+| **Vigilante** | [[Alter-Ego (Vigilante Archetype)\|Alter-Ego]], [[Hidden Master (Vigilante Archetype)\|Hidden Master]] [CS], [[Informant (Vigilante Archetype)\|Informant]], [[Living Banner (Vigilante Archetype)\|Living Banner]], [[Masked Adept (Vigilante Archetype)\|Masked Adept]], [[Possessed (Vigilante Archetype)\|Possessed]], [[Shadow Warrior (Vigilante Archetype)\|Shadow Warrior]], [[Symbol Of Valor (Vigilante Archetype)\|Symbol of Valor]] | [[Vigilante Talents]] |
+| **Warpriest** | [[Bastion Of Conviction (Warpriest Archetype)\|Bastion of Conviction]] [CS], [[Beacon of Intolerance (Warpriest Archetype)\|Beacon of Intolerance]] [SM—], [[Champion Warpriest (Warpriest Archetype)\|Champion Warpriest]] [CS], [[Devoted Disciple (Warpriest Archetype)\|Devoted Disciple]], [[Divine Heretic (Warpriest Archetype)\|Divine Heretic]], [[Divinitech Pilot]] [DRS], [[Sphere Warpriest]] | [[Warpriest Blessings]] |
+| **Witch** | [[Hexblade]] [DRS], [[Sphere Witch]], [[Toilbrook (Witch Archetype)\|Toilbrook]] [CS], [[Withering Witch (Witch Archetype)\|Withering Witch]] | [[Shaman and Witch Hexes\|Witch Hexes]] |
+| **Wizard** | [[Cosmic Sage (Wizard Archetype)\|Cosmic Sage]], [[Eclectic Researcher (Wizard Archetype)\|Eclectic Researcher]], [[Magitect (Wizard Archetype)\|Magitect]] [DRS], [[Sphere Wizard]] |  |
+| **Animal Companions** | [[Martial Beast (Animal Companion Archetype)\|Martial Beast]] [CS] |  |
+| **Familiars** | [[Beast Of Omen (Familiar Archetype)\|Beast of Omen]], [[Dream Guide (Familiar Archetype)\|Dream Guide]], [[Shadow Familiar (Familiar Archetype)\|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)\|Willing Martyr]] |  |
+| **Cantor** | [[Champion Cantor (Cantor Archetype) (SM—)\|Champion Cantor]] [SM—] | [[Cantor Hymns]] |
+| **Dweomerlak** | [[Arcane Void (Dweomerlak Archetype)\|Arcane Void]] [SM—] |  |
+| **Fighter/Wizard/Rogue** | [[Spheredelver (FighterWizardRogue Archetype)\|Spheredelver]] [SM—] |  |
+| **Psion** | [[Sphere Psion 3PP\|Sphere Psion]] [SM—] |  |
+| **Soulknife** | [[Epoch-Walker (Soulknife Archetype)\|Epoch-Walker]] [CS] | [[Soulknife Blade Skills]] |
+| **Voltaic** | [[Spheres Voltaic 3PP\|Spheres Voltaic]] [CS] [SM—] |  |
+| **Wilder** | [[Source Seeker SM—\|Source Seeker]] [SM—], [[Sphere Wilder]] [SM—] |  |
+| **Demoniac** | [[Sphere Demoniac SM—\|Sphere Demoniac]] [CS] [SM—] |  |
+| **Diabolist** | [[Sphere Diabolist SM—\|Sphere Diabolist]] [CS] [SM—] |  |
+| **Exalted** | [[Sphere Exalted SM—\|Sphere Exalted]] [SM—] |  |
+| **Feysworn** | [[Sphere Feysworn SM—\|Sphere Feysworn]] [CS] [SM—] |  |
+| **Mystery Cultist** | [[Sphere Mystery Cultist SM—\|Sphere Mystery Cultist]] [CS] [SM—] |  |
+| **Proctor** | [[Sphere Proctor SM—\|Sphere Proctor]] [CS] [SM—] |  |
+| **Sentinel** | [[Sphere Sentinel SM—\|Sphere Sentinel]] [SM—] |  |
+| **Souldrinker** | [[Sphere Souldrinker SM—\|Sphere Souldrinker]] [CS] [SM—] |  |
 
-**Aegis** ([[Ascendant (Aegis Archetype)|Ascendant]] [3PP/CS], [[Coral Knight (Aegis Archetype)|Coral Knight]] [3PP], [[Mekanikos (Aegis Archetype)|Mekanikos]] [CS] [LG])
-| [[Aegis Customizations]]
-**Cantor** ([[Champion Cantor (Cantor Archetype) (SM—)|Champion Cantor]] [SM—])
-| [[Cantor Hymns]]
-**Cryptic** ([[Extricator (Cryptic Archetype)|Extricator]] [CS] [LG])
-**Dread** ([[Schicksalshand (Dread Archetype)|Schicksalhand]] [CS] [LG])
-**Dweomerlak** ([[Arcane Void (Dweomerlak Archetype)|Arcane Void]] [SM—])
-**Fighter/Wizard/Rogue** ([[Spheredelver (FighterWizardRogue Archetype)|Spheredelver]] [SM—])
-**Highlord** ([[Didact (Highlord Archetype)|Didact]] [CS] [LG])
-**Marksman** ([[Stellar Shadow (Marksman Archetype)|Stellar Shadow]] [CS] [LG])
-**Psion** ([[Sphere Psion 3PP|Sphere Psion]] [SM—], [[Worldweaver (Psion Archetype)|Worldweaver]] [LG])
-**Psychic Warrior** ([[Miracle Soldier (Psychic Warrior Archetype)|Miracle Soldier]] [CS] [LG])
-**Soulknife** ([[Bladeshaper (Soulknife Archetype)|Bladeshaper]] [CS] [LG], [[Epoch-Walker (Soulknife Archetype)|Epoch-Walker]] [CS])
-| [[Soulknife Blade Skills]]
-**Tactician** ([[Imperator (Tactician Archetype)|Imperator]] [CS] [LG])
-**Vitalist** ([[Antestes (Vitalist Archetype)|Antestes]] [LG])
-**Voltaic** ([[Spheres Voltaic 3PP|Spheres Voltaic]] [CS] [SM—])
-**Voyager** ([[Projectionist (Voyager Archetype)|Projectionist]] [CS] [LG])
-**Wilder** ([[Source Seeker SM—|Source Seeker]] [SM—], [[Sphere Wilder]] [SM—], [[Stellar Echo (Wilder Archetype)|Stellar Echo]] [LG])
+</div>
 
-**Demoniac** ([[Sphere Demoniac SM—|Sphere Demoniac]] [CS] [SM—])
-**Diabolist** ([[Sphere Diabolist SM—|Sphere Diabolist]] [CS] [SM—])
-**Exalted** ([[Sphere Exalted SM—|Sphere Exalted]] [SM—])
-**Feysworn** ([[Sphere Feysworn SM—|Sphere Feysworn]] [CS] [SM—])
-**Mystery Cultist** ([[Sphere Mystery Cultist SM—|Sphere Mystery Cultist]] [CS] [SM—])
-**Proctor** ([[Sphere Proctor SM—|Sphere Proctor]] [CS] [SM—])
-**Sentinel** ([[Sphere Sentinel SM—|Sphere Sentinel]] [SM—])
-**Souldrinker** ([[Sphere Souldrinker SM—|Sphere Souldrinker]] [CS] [SM—])
+</div>
 
 ---
 
@@ -533,41 +548,17 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 The Spheres systems are the main focus of this site, but they're not the only high-quality subsystems created for the Pathfinder Roleplaying Game. Below, you'll find links to other systems (from other publishers) that are also available on this site.
 
----
+<div class="sop-columns">
 
-## [[Akashic Mysteries]]
+</div>
 
-**About:** The Akashic Mysteries focus on veilweaving, an ancient art that can form manifestations of energy and bestow a wide variety of effects.
+<div class="sop-columns">
 
----
+</div>
 
-## [[City of 7 Seraphs]]
+<div class="sop-columns">
 
-**About:** The City of 7 Seraphs is a planar campaign setting that makes use of content from a variety of publishers, including its own original material. This section includes content helpful for playing in this setting.
-
----
-
-## [[Cthulhu Mythos]]
-
-**About:** The Cthulhu Mythos focus on the uncountable, nameless horrors beyond space and time - and their inevitable return when the time is right.
-
----
-
-## [[Gonzo]]
-
-**About:** Gonzo is a collection of wild and crazy classes. From mimes and rockstars to magical girls and nuclear mages, these options start at crazy and get rapidly weirder from there. The only thing that's certain is your games will never be the same.
-
----
-
-## [[Heroes Of The Jade Oath|Heroes of the Jade Oath]]
-
-**About:** Heroes of the Jade Oath offers content with a strong eastern flavor to it, making it ideal for characters or campaigns involving such themes. This page includes new classes, races, feats, character traits, magic systems, and more.
-
----
-
-## [[Legendary Worlds]]
-
-**About:** Legendary Worlds covers content from the Legendary Planet Adventure Path and supplementary material. Product Identity in this section is used with permission.
+<div class="sop-col">
 
 ---
 
@@ -575,35 +566,9 @@ The Spheres systems are the main focus of this site, but they're not the only hi
 
 **About:** The Mythic rules are an addition to the main ruleset of the Pathfinder Roleplaying Game, allowing players to access truly legendary powers and abilities and confront foes that are far more dangerous than the usual enemies of the game.
 
----
+</div>
 
-## [[Pact Magic]]
-
-**About:** This subsystem focuses on making pacts with otherworldly entities and calling upon them for power. In addition to a new base class, Pact Magic offers archetypes for many of Paizo's classes, over one hundred different spirit allies, and numerous other options for characters.
-
----
-
-## [[Strange Magic]]
-
-**About:** Strange Magic is a collection of flavorful and unique subsystems, each revolving around a different style of casting. From channeling the power of the universe into ethereal blasts to composing magical melodies or reciting true names, these powers are strange indeed…
-
----
-
-## [[Diamond Recreational Studios]]
-
-**About:** Diamond Recreational Studios is a Drop Dead Studios sanctioned successor to the Spheres subsystems. This section includes rules and publications by DRS, including their "Polished Spheres" publications.
-
----
-
-## [[Arcforge]]
-
-**About:** Arcforge is a sci-fi setting for the Pathfinder Roleplaying Game published by Legendary Games. This section includes rules for running games in the Arcforge setting.
-
----
-
-## [[Other Options]]
-
-**About:** This section contains class options, new choices, and other material too small to deserve its own section, but too numerous to be put on the front page. Come in and take a look - you never know what interesting new rules you'll find next.
+</div>
 
 ---
 
