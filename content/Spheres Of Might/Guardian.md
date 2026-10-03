@@ -326,7 +326,7 @@ The steelsoul monk trains their body to be an impenetrable fortress.
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]]
 
 **Rules**
 

@@ -186,8 +186,6 @@ There is no way for any set of rules to predict every possible combination of ab
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -238,7 +236,7 @@ There is no way for any set of rules to predict every possible combination of ab
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

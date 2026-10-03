@@ -578,8 +578,6 @@ If the primeval is bloodcrazed when using this ability, the primeval treats the 
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -744,7 +742,7 @@ If the primeval is bloodcrazed when using this ability, the primeval treats the 
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

@@ -40,7 +40,7 @@ parent: "[[Spheres Of Power]]"
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

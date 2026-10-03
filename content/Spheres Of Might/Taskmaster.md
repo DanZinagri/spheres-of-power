@@ -139,7 +139,7 @@ The taskmaster’s AI counts as possessing the currently active task-set’s tal
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

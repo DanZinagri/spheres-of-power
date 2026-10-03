@@ -50,8 +50,6 @@ This ability replaces summon spirit I, III, and IV.
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -102,7 +100,7 @@ This ability replaces summon spirit I, III, and IV.
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

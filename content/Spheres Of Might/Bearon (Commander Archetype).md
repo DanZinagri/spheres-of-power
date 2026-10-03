@@ -69,7 +69,7 @@ This replaces enhanced tactics.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -68,7 +68,7 @@ This replaces mighty rage.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

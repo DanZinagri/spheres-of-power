@@ -370,7 +370,7 @@ If the creature has a CR less than half your base attack bonus, the creature ins
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]]
 
 **Rules**
 

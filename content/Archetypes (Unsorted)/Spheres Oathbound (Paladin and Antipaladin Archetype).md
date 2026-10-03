@@ -235,7 +235,7 @@ The unholy energy damage from this ability counts as fire damage for the purpose
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

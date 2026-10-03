@@ -180,7 +180,7 @@ You gain a +2 trait bonus to all Craft (mechanical) checks you make; your charge
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]]
 
 **Rules**
 

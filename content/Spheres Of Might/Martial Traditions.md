@@ -1584,7 +1584,7 @@ You do not gain the snag ability. You gain Worked Match with this drawback.
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]]
 
 **Rules**
 

@@ -1065,7 +1065,7 @@ When you attempt to control a foreign gadget, whether it succeeds or fails on it
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]]
 
 **Rules**
 

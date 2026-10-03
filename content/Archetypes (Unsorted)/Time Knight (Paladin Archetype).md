@@ -119,8 +119,6 @@ The time knight can choose to accompany such a creature for a limited time in se
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -285,7 +283,7 @@ The time knight can choose to accompany such a creature for a limited time in se
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

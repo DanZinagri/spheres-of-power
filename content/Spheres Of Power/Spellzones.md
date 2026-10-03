@@ -195,8 +195,6 @@ Develop Spellzone, Creation sphere (Potent Alteration), Enhancement sphere (Anti
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -247,7 +245,7 @@ Develop Spellzone, Creation sphere (Potent Alteration), Enhancement sphere (Anti
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

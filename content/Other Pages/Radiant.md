@@ -211,69 +211,21 @@ The following favored class options are available to all characters of the liste
 
 Akashic Mysteries by Dreamscarred Press · Akashic Trinity by Lost Spheres Publishing
 
-Akashic Mysteries · Daevic · Guru · Vizier
+**Akashic Mysteries**
 
-Akashic Trinity · Eclipse · [[Nexus]] · [[Radiant]]
-
-The Huay · Huay
-
-The Rajah · Rajah · Title Veils · [Radiant Dawn MD](http://spheresofpower.wikidot.com/radiant-dawn-martial-discipline)
-
-The Sphereshaper · Sphereshaper · Sphereshaper Veils
-
-The Stormbound · Stormbound · Stormbound Veils
-
-The Zodiac · Zodiac · Lunar Veils
-
-**Prestige Classes**
-
-Amplifier · Black Templar · Storm Warrior · Veilshifter
-
-Sphere Amplifier · Sphere Black Templar
-
-**Races**
-
-Gamla · Sobek · Suqur
+Akashic Trinity · [[Nexus]] · [[Radiant]]
 
 **Rules**
-
-Veilweaving Rules · Veil List and Descriptions · Akashic Trinity Veils
-
-Akashic Animal Companions · Akashic Feats · Akashic Traits · Akashic Weapons
-
-Akashic Wondrous Items · Reference Materials
 
 [Get Akashic Mysteries](http://www.drivethrurpg.com/product/190611/Akashic-Mysteries?affiliate_id=549120) · [Get Akashic Trinity](http://www.drivethrurpg.com/product/238407/City-of-7-Seraphs--Akashic-Trinity?affiliate_id=549120)
 
 [Spheres of Akasha](https://www.drivethrurpg.com/product/353894/Spheres-of-Akasha?affiliate_id=549120) · [The Rajah](https://www.drivethrurpg.com/product/220762/Divergent-Paths-Rajah?affiliate_id=549120) · [The Stormbound](https://www.drivethrurpg.com/product/280292/The-Stormbound-PF1E?affiliate_id=549120) · [The Zodiac](https://www.drivethrurpg.com/product/242464/Classes-of-the-Lost-Spheres-Zodiac?affiliate_id=549120)
 
-**City of 7 Seraphs by Lost Spheres Publishing**
-
 **Classes**
 
-Aegis · Aethernaut · Echo
-
-Eclipse · [[Nexus]] · [[Radiant]]
-
-Shadow Weaver · Sphereshaper · Theurge
-
-**Races**
-
-Ceptu · Judow · Mirrorkin · Rhyzala · Shadow Fey · Veryx
-
-Xodai
-
-**Luminous Organizations**
-
-Ashlords · Children of Dreams · Everlasting Dawn · Foreseers · House of Prominence · Steamstriders
-
-**Neutral Organizations**
-
-Cocoon Pact · Descendants of Thunder
+[[Nexus]] · [[Radiant]]
 
 **Umbral Organizations**
-
-Blackswords · Booksealers · Church of Coin · Frozen Graves · Hands of Burden · Scarlet Sovereignty
 
 [Get The City of 7 Seraphs](https://www.drivethrurpg.com/product/269801/The-City-of-7-Seraphs?affiliate_id=549120)
 

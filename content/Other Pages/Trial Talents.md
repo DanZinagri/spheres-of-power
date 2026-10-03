@@ -98,8 +98,6 @@ Whenever you spend skill leverage on a Knowledge or Lore check (including as par
 
 </div>
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -264,7 +262,7 @@ Whenever you spend skill leverage on a Knowledge or Lore check (including as par
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

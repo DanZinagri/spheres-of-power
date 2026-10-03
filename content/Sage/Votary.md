@@ -28,13 +28,11 @@ This replaces the style talents gained at 1st, 7th, 13th, and 19th levels.
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

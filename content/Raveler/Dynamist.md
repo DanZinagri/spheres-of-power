@@ -34,8 +34,6 @@ At 11th level, the dynamist may also select arcanist greater exploits in place o
 
 </div>
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -200,7 +198,7 @@ At 11th level, the dynamist may also select arcanist greater exploits in place o
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

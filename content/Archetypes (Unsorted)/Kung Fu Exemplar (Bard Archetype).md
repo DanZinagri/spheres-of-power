@@ -139,8 +139,6 @@ At 5th level, the kung fu exemplar gains the Signature Skill feat for a kung fu 
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -305,7 +303,7 @@ At 5th level, the kung fu exemplar gains the Signature Skill feat for a kung fu 
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

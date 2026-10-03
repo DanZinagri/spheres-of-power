@@ -81,7 +81,7 @@ This replaces spell kenning.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -60,7 +60,7 @@ A shaman cannot summon forth the ghost of a specific person unless they possess 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

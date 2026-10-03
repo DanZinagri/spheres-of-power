@@ -50,8 +50,6 @@ Etch Schematic, Craft Spell Engine, Warp sphere (Extradimensional Storage (space
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -102,7 +100,7 @@ Etch Schematic, Craft Spell Engine, Warp sphere (Extradimensional Storage (space
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

@@ -58,8 +58,6 @@ This replaces the talent normally gained at 6th level.
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]

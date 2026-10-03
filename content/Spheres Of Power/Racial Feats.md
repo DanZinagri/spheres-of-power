@@ -364,7 +364,7 @@ Your control over the woven vines extending from your body is extreme, and when 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

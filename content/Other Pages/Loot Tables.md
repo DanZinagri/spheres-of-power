@@ -550,7 +550,7 @@ In such instances, GMs may elect to simply roll on an individual compound tier t
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

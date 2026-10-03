@@ -60,7 +60,7 @@ At 19th level, the warlock gains these bonuses to three ability scores instead o
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

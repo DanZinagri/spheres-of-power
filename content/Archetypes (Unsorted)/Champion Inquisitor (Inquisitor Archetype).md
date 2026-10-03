@@ -21,13 +21,11 @@ This replaces the spells class feature.
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 
@@ -87,7 +85,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -187,7 +185,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]]
 
 **Rules**
 

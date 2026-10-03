@@ -81,7 +81,7 @@ The dragon companion replaces mount and the cavalier’s order. For more informa
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

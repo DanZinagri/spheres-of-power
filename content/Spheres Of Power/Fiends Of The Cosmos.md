@@ -1024,8 +1024,6 @@ Dastard passages serve as agents of mayhem and uncertainty, committing horrendou
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -1076,7 +1074,7 @@ Dastard passages serve as agents of mayhem and uncertainty, committing horrendou
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

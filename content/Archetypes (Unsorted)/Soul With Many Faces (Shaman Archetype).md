@@ -73,7 +73,7 @@ This modifies spirit animal.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -1745,8 +1745,6 @@ Craft Arms and Armor, Craft Wondrous Item, Creation Sphere, Expanded Materials; 
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -1911,7 +1909,7 @@ Craft Arms and Armor, Craft Wondrous Item, Creation Sphere, Expanded Materials; 
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

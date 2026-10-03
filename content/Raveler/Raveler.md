@@ -589,13 +589,11 @@ This small ball of yarn functions as per raveler’s yarn, save that when it is 
 **Construction Requirements**
 Craft Wondrous Item or Craft Marvelous Item, creator must be able to weave ravels; **Cost** 500 gp
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

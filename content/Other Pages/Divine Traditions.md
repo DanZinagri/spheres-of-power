@@ -188,8 +188,6 @@ The Detect Divinity ritual from *Ultimate Spheres of Power* outlines 6 categorie
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -240,7 +238,7 @@ The Detect Divinity ritual from *Ultimate Spheres of Power* outlines 6 categorie
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

@@ -1314,8 +1314,6 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]

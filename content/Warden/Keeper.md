@@ -180,7 +180,7 @@ This replaces improved patrol, but may be altered or replaced by other archetype
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 
@@ -211,8 +211,6 @@ This replaces improved patrol, but may be altered or replaced by other archetype
 [Astrologian Archetype](https://www.drivethrurpg.com/product/325099/Spheres-Apocrypha-Astrologian-Scholar-Archetype?affiliate_id=549120) · [Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120) · [Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120) · [Racial](https://www.drivethrurpg.com/product/266278/Spheres-Apocrypha-Racial-Martial-Talents?affiliate_id=549120)
 
 [Ranged](https://www.drivethrurpg.com/product/254177/Spheres-Apocrypha-Martial-Talents-Ranged?affiliate_id=549120) · [Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120) · [Tandem](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120) · [Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
-
-**Champions of the Spheres by Drop Dead Studios**
 
 **Classes**
 

@@ -963,7 +963,7 @@ Craft Rod, Craft Wondrous Item, Warp Sphere, Distant Teleport, Emergency Telepor
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

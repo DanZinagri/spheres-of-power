@@ -132,8 +132,6 @@ This ability replaces careful footwork, dynamic dodge, uncanny dodge, sudden shi
 
 </div>
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -298,7 +296,7 @@ This ability replaces careful footwork, dynamic dodge, uncanny dodge, sudden shi
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

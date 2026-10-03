@@ -142,7 +142,7 @@ You can also increase your versatility by investing in other spheres. Taking mor
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

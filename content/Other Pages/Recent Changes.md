@@ -31,8 +31,6 @@ This page tracks the last 100 pages changed on the Wiki. If you're looking for t
 
 [[Wrestling]] · rev. 32 · 23 Sep 2026 03:07
 
-Veilweaving · rev. 10 · 23 Sep 2026 03:06
-
 [[Subterfuge]] · rev. 16 · 23 Sep 2026 03:05
 
 [[Protection]] · rev. 72 · 23 Sep 2026 03:05

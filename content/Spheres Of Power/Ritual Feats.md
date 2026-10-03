@@ -78,7 +78,7 @@ You have learned to hold rituals in your memory to a minor degree.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

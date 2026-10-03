@@ -384,7 +384,7 @@ You may notice that some of the logistic specialties have very unusual benefits 
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]]
 
 **Rules**
 
@@ -416,13 +416,11 @@ You may notice that some of the logistic specialties have very unusual benefits 
 
 [Ranged](https://www.drivethrurpg.com/product/254177/Spheres-Apocrypha-Martial-Talents-Ranged?affiliate_id=549120) · [Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120) · [Tandem](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120) · [Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

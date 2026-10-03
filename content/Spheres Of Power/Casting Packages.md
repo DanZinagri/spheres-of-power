@@ -265,7 +265,7 @@ Many Casting Packages are easily modified by changing the talents they contain. 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

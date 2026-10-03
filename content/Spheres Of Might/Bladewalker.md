@@ -26,13 +26,11 @@ This replaces the unlimited assault class feature.
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

@@ -125,7 +125,7 @@ If using Spheres of Might, consider picking up a few talents from the Guardian s
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

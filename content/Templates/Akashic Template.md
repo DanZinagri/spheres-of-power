@@ -10,37 +10,11 @@ parent: "[[Templates]]"
 
 Akashic Mysteries by Dreamscarred Press · Akashic Trinity by Lost Spheres Publishing
 
-Akashic Mysteries · Daevic · Guru · Vizier
+**Akashic Mysteries**
 
-Akashic Trinity · Eclipse · [[Nexus]] · [[Radiant]]
-
-The Huay · Huay
-
-The Rajah · Rajah · Title Veils · [Radiant Dawn MD](http://spheresofpower.wikidot.com/radiant-dawn-martial-discipline)
-
-The Sphereshaper · Sphereshaper · Sphereshaper Veils
-
-The Stormbound · Stormbound · Stormbound Veils
-
-The Zodiac · Zodiac · Lunar Veils
-
-**Prestige Classes**
-
-Amplifier · Black Templar · Storm Warrior · Veilshifter
-
-Sphere Amplifier · Sphere Black Templar
-
-**Races**
-
-Gamla · Sobek · Suqur
+Akashic Trinity · [[Nexus]] · [[Radiant]]
 
 **Rules**
-
-Veilweaving Rules · Veil List and Descriptions · Akashic Trinity Veils
-
-Akashic Animal Companions · Akashic Feats · Akashic Traits · Akashic Weapons
-
-Akashic Wondrous Items · Reference Materials
 
 [Get Akashic Mysteries](http://www.drivethrurpg.com/product/190611/Akashic-Mysteries?affiliate_id=549120) · [Get Akashic Trinity](http://www.drivethrurpg.com/product/238407/City-of-7-Seraphs--Akashic-Trinity?affiliate_id=549120)
 

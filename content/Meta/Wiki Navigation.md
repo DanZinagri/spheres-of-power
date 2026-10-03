@@ -33,13 +33,10 @@ Tags | Edit | Source | Print
 **Systems**
 
 [[Diamond Recreational Studios]]
-
 [[Mythic Rules]]
 [[Mythic Spheres]]
-
 [[Spheres Of Might|Spheres of Might]]
 [[Spheres Of Power|Spheres of Power]]
-
 [[Ultimate Engineering|Ultimate Engineering (Tinker)]]
 [[Other Options]]
 

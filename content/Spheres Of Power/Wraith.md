@@ -1433,8 +1433,6 @@ Swarms do not threaten creatures, and do not make attacks of opportunity with th
 
 **U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]

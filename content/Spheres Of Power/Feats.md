@@ -256,7 +256,7 @@ Feats that modify [[Wild Magic|wild magic]] chance for yourself or others or man
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

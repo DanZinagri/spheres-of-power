@@ -64,7 +64,7 @@ This modifies psychic enervation.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

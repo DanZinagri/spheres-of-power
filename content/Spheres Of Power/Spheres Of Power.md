@@ -42,7 +42,6 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 -[[Weather]]
 
 -[[Bear]]
--Technomancy [3PP]
 
 ---
 
@@ -234,8 +233,6 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 -[[Tempestarii]]
 -[[Waking Sleeper]]
 -[[Spheres Archwizard (Prestige Class)|Spheres Archwizard]] [Wiki]
--Master Of Vagueries [3PP]
--Trinity Angel [3PP]
 
 </div>
 

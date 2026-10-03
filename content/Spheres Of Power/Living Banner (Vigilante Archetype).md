@@ -60,7 +60,7 @@ This replaces the stunning appearance class feature.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

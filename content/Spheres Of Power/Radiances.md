@@ -169,8 +169,6 @@ This radiance takes the form of a large mane of fur that rests around the user鈥
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] 路 [[Crimson Dancer]] 路 [[Dissident]]
@@ -221,7 +219,7 @@ This radiance takes the form of a large mane of fur that rests around the user鈥
 
 [[Open Hand]] 路 [[Scoundrel]] 路 [[Scout]] 路 [[Shield]] 路 [[Sniper]] 路 [[Tech]] 路 [[Trap]] 路 [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] 路 (3PP)
+[[Wrestling]]
 
 **Rules**
 

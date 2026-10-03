@@ -147,8 +147,6 @@ Response Time: Whenever you use your patrol ability, you gain a +30 ft. enhancem
 
 ---
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
 [[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
@@ -313,7 +311,7 @@ Response Time: Whenever you use your patrol ability, you gain a +30 ft. enhancem
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · (3PP)
+[[Wrestling]]
 
 **Rules**
 

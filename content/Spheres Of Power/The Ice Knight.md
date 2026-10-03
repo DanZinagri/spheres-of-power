@@ -139,7 +139,7 @@ You are a knight in shining icy armor, raised and trained at the elven courts to
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

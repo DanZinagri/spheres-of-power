@@ -332,10 +332,15 @@ def group_columns(body: Tag, soup_factory) -> None:
 
 def _only_tags_besides(el: Tag, links: list[Tag]) -> bool:
     """True when el's text is just the given links' text plus [tags] / separators."""
-    text = el.get_text(" ", strip=True)
+    return _only_tags_besides_text(el.get_text(" ", strip=True), links)
+
+
+def _only_tags_besides_text(text: str, links: list[Tag]) -> bool:
+    text = " ".join(text.split())
     for a in links:
-        text = text.replace(a.get_text(" ", strip=True), "", 1)
+        text = text.replace(" ".join(a.get_text(" ", strip=True).split()), "", 1)
     text = re.sub(r"\[[^\]]*\]", "", text)
+    text = re.sub(r"\(\s*[A-Z0-9/—–-]{2,12}\s*\)", "", text)  # short tags like (3PP), (SM—)
     return not text.strip(" ,|·:;-–—()")
 
 
@@ -343,6 +348,10 @@ def prune_excluded_entries(body: Tag, excluded: set[str]) -> None:
     """On any page, drop entries that exist only for excluded content: a heading that is just
     a link to it (plus tags like [CS] [LG]) together with its section, and list items or
     paragraphs that are only such a link. Links to it inside prose are left as plain text."""
+    # decide which tables are navboxes/layout before pruning empties cells and skews the heuristic
+    for table in body.find_all("table"):
+        if is_layout_table(table):
+            table["data-layout"] = "1"
     is_heading = lambda el: isinstance(el, Tag) and re.fullmatch(r"h[1-6]", el.name or "")
     for h in body.find_all(re.compile(r"^h[1-6]$")):
         if h.parent is None:
@@ -361,12 +370,69 @@ def prune_excluded_entries(body: Tag, excluded: set[str]) -> None:
             sib.decompose()
             sib = nxt
         h.decompose()
-    for el in body.find_all(["li", "p", "dt"]):
+    # lines inside <br>-separated blocks ("- [[Bear]]<br>- [[Technomancy]] [3PP]<br>...")
+    is_br = lambda n: isinstance(n, Tag) and n.name == "br"
+    for a in body.find_all("a", href=True):
+        if a.parent is None or internal_slug(a["href"]) not in excluded:
+            continue
+        line, prev, nxt = [a], a.previous_sibling, a.next_sibling
+        while prev is not None and not is_br(prev):
+            line.insert(0, prev)
+            prev = prev.previous_sibling
+        while nxt is not None and not is_br(nxt):
+            line.append(nxt)
+            nxt = nxt.next_sibling
+        if prev is None and nxt is None:
+            continue  # not a <br>-separated line; whole elements are handled below
+        if any(isinstance(n, Tag) and n is not a and (n.name == "a" or n.find("a")) for n in line):
+            continue  # the line has other links too
+        if not _only_tags_besides_text("".join(
+                n.get_text(" ") if isinstance(n, Tag) else str(n) for n in line), [a]):
+            continue
+        for n in line:
+            n.extract()
+        (nxt if nxt is not None else prev).extract()  # and one of the surrounding <br>s
+
+    touched_tables = []
+    for el in body.find_all(["li", "p", "dt", "td", "th"]):
         if el.parent is None:
             continue
         links = el.find_all("a", href=True)
-        if links and all(internal_slug(a["href"]) in excluded for a in links)                 and _only_tags_besides(el, links):
-            el.decompose()
+        only_excluded = links and all(internal_slug(a["href"]) in excluded for a in links)
+        if only_excluded and _only_tags_besides(el, links):
+            if el.name in ("td", "th"):
+                table = el.find_parent("table")
+                tr = el.find_parent("tr")
+                first = tr.find(["td", "th"], recursive=False) if tr else None
+                if table is not None and not table.get("data-layout") and first is el:
+                    tr.decompose()  # data table row named by the excluded entry (name | text)
+                    continue
+                el.clear()  # keep the cell so table columns stay aligned
+                if table is not None and table not in touched_tables:
+                    touched_tables.append(table)
+            else:
+                el.decompose()
+
+    # tables (mostly navboxes) that lost cells: drop rows left empty, and the whole table when
+    # none of its links survive (e.g. a navbox for an excluded book)
+    for table in touched_tables:
+        if table.parent is None:
+            continue
+        if not table.find("a", href=True):
+            table.decompose()
+            continue
+        for tr in table.find_all("tr"):
+            if not tr.get_text(strip=True) and not tr.find("img"):
+                tr.decompose()
+        # section labels ("Races") whose items were all removed: a link-less single-cell row
+        # followed by another such label row, or by nothing
+        is_label = lambda tr: tr is not None and not tr.find("a") and \
+            len([c for c in tr.find_all(["td", "th"], recursive=False) if c.get_text(strip=True)]) == 1
+        rows = table.find_all("tr")
+        for i, tr in enumerate(rows):
+            nxt = rows[i + 1] if i + 1 < len(rows) else None
+            if is_label(tr) and (nxt is None or is_label(nxt)):
+                tr.decompose()
 
 
 def _has_excluded_tag(text: str) -> bool:
@@ -723,7 +789,7 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
     for table in reversed(body.find_all("table")):
         if table.parent is None:
             continue
-        if is_layout_table(table):
+        if table.get("data-layout") or is_layout_table(table):
             flatten_table(table, soup_factory)
 
 

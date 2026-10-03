@@ -61,41 +61,17 @@ The following magical girl powers behave differently when taken by a power princ
 
 ---
 
-**Gonzo 1 and 2 by Little Red Goblin Games**
-
-**Gonzo 1 Classes**
-
-The Craven · The Mime · The Punk · The Rockstar · The Toon
-
-**Gonzo 2 Classes**
-
-Architect · Atomic Adept · Battle Butler · Chessmaster · Chimney Sweep · Dealer
-
-Dynamic Warrior · Guide · Henchling · Henshin Hero · Magical Girl · Monster Cowboy
-
-Multiple Master · Phantom Thief · Sparkle Princess · Thread Maiden · Ungermaw · Warpmaster
-
-**Prestige Classes**
-
-Impersonator · Slimelord · The Living Bomb
-
 **Other Rules**
-
-Gonzo Feats · Gonzo Adventuring Gear · Gonzo Drugs
-
-Gonzo Magical Weapons and Armor · Gonzo Wondrous Items · Giant Robot Rules
 
 [Get Gonzo 1](http://www.drivethrurpg.com/product/133412/Gonzo?affiliate_id=549120)
 
 [Get Gonzo 2](http://www.drivethrurpg.com/product/180605/Gonzo-2?affiliate_id=549120)
 
-**Champions of the Spheres by Drop Dead Studios**
-
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 
@@ -155,7 +131,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -255,7 +231,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]]
 
 **Rules**
 
