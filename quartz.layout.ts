@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import config from "./quartz.config"
+import { BASE_URL } from "./site"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Open Game License": `https://${config.configuration.baseUrl}/Meta/Legal-and-Open-Game-License`,
+      "Open Game License": `https://${BASE_URL}/Meta/Legal-and-Open-Game-License`,
       "Original wiki": "https://spheresofpower.wikidot.com",
       "Drop Dead Studios": "https://www.dropdeadstudios.com",
     },

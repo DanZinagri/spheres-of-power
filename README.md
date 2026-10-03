@@ -52,7 +52,7 @@ Then open http://localhost:8080.
 
 1. Create an empty GitHub repo and push this one to it (`git remote add origin <url>`, `git push -u origin main`).
 2. In the repo: **Settings → Pages → Source: GitHub Actions**.
-3. Set `baseUrl` in `quartz.config.ts` to `<user>.github.io/<repo>` (or your custom domain).
+3. Set `BASE_URL` in `site.ts` to `<user>.github.io/<repo>` (or your custom domain).
 
 Every push to `main` rebuilds the site. Other hosts (Cloudflare Pages, Netlify, Vercel) work too:
 build command `npx quartz build`, output directory `public`. See https://quartz.jzhao.xyz/hosting.

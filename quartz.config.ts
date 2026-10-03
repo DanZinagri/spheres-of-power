@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { BASE_URL } from "./site"
 
 /**
  * Quartz 4 Configuration
@@ -14,8 +15,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    // Set to your domain or "<user>.github.io/<repo>" before deploying
-    baseUrl: "example.github.io/spheres-of-power",
+    baseUrl: BASE_URL, // edit in site.ts,
     ignorePatterns: ["private", "templates", ".obsidian", ".trash"],
     defaultDateType: "modified",
     theme: {
