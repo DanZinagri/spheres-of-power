@@ -10,7 +10,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -735,7 +735,7 @@ The Void Gazer is an archetype for the [[Thaumaturge]] that gives them shadowy n
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

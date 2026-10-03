@@ -7,7 +7,7 @@ updated: 2025-07-10
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="baron-s-hallowed-archive">
 
 <div class="sop-tab-label">Baron’s Hallowed Archive</div>
 

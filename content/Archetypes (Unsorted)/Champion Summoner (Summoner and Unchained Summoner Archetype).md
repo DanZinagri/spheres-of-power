@@ -7,7 +7,7 @@ updated: 2024-06-25
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="diamond-classes-avatar-companion-and-void-archetypes">
 
 <div class="sop-tab-label">Diamond Classes: Avatar Companion and Void Archetypes</div>
 

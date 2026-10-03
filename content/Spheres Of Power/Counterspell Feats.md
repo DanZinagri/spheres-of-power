@@ -8,7 +8,7 @@ parent: "[[Feats]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -212,7 +212,7 @@ As part of suppressing a target, you may suppress a single drawback worth no mor
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

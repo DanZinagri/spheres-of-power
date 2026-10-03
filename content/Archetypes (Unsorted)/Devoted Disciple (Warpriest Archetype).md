@@ -7,7 +7,7 @@ updated: 2025-07-09
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -29,7 +29,7 @@ At 2nd level, the devoted disciple can channel his fervor ability to increase hi
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

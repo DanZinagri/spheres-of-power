@@ -8,7 +8,7 @@ parent: "[[Feats]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -54,7 +54,7 @@ If you possess the Extended Anathema feat, the size of these shapes increases as
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

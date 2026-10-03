@@ -7,7 +7,7 @@ updated: 2022-12-12
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -105,7 +105,7 @@ Until the beginning of his next turn, the drifting lotus is surrounded by a dizz
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

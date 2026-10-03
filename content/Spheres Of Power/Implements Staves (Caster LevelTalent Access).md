@@ -9,7 +9,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -774,7 +774,7 @@ When the bearer of this implement uses a cure effect, they may tap into the rese
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

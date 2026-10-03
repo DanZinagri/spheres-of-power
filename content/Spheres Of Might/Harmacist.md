@@ -8,7 +8,7 @@ parent: "[[Scholar]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-apocrypha-the-harmacist">
 
 <div class="sop-tab-label">Spheres Apocrypha: The Harmacist</div>
 

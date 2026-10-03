@@ -8,7 +8,7 @@ parent: "[[Diamond Recreational Studios]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="diamond-classes-peach-tree-oath">
 
 <div class="sop-tab-label">Diamond Classes: Peach Tree Oath</div>
 

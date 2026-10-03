@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -68,7 +68,7 @@ In addition, while using any sorcerer bloodline power that would grant natural a
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

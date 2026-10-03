@@ -8,7 +8,7 @@ parent: "[[Armorist]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -48,7 +48,7 @@ Once a trait has been chosen, it cannot be changed. So long as the symbiotic kni
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

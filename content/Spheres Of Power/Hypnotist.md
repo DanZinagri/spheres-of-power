@@ -8,7 +8,7 @@ parent: "[[Eliciter]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -36,7 +36,7 @@ At 5th, 11th, and 17th level, a hypnotist gains an investigator talent. He canno
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

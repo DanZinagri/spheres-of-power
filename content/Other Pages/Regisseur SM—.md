@@ -8,7 +8,7 @@ updated: 2026-01-28
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="fey-adept-expanded-mimeses">
 
 <div class="sop-tab-label">Fey Adept Expanded: Mimeses</div>
 

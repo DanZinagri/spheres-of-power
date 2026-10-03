@@ -7,7 +7,7 @@ updated: 2024-11-03
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-player-s-guide-to-skybourne">
 
 <div class="sop-tab-label">The Player&#x27;s Guide to Skybourne</div>
 

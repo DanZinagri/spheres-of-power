@@ -7,7 +7,7 @@ updated: 2022-03-25
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-apocrypha-prismatic-duelist">
 
 <div class="sop-tab-label">Spheres Apocrypha: Prismatic Duelist</div>
 

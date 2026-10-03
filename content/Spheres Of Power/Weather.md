@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -903,7 +903,7 @@ In addition, GMs are strongly encouraged to remember how structures are affected
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

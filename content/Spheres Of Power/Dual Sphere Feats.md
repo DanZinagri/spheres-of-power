@@ -8,7 +8,7 @@ parent: "[[Feats]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -18,7 +18,7 @@ In Ultimate Spheres of Power, Dual Sphere feats can be found on the pages for th
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

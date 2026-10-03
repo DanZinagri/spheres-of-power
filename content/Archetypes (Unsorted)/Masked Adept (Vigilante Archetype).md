@@ -7,7 +7,7 @@ updated: 2020-01-31
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -49,7 +49,7 @@ Whenever the masked adept gains a new vigilante talent, he may select from talen
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

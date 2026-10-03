@@ -7,7 +7,7 @@ updated: 2020-01-31
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -135,7 +135,7 @@ When an adjacent ally uses a sphere ability, you may spend an immediate action t
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

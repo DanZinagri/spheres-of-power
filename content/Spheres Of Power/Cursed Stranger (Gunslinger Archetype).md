@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -54,7 +54,7 @@ The cursed stranger can choose and gain any Death sphere talent that augments re
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

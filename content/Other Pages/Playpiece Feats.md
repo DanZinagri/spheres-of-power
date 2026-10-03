@@ -7,7 +7,7 @@ updated: 2026-09-12
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="baron-s-imposing-mausoleum">
 
 <div class="sop-tab-label">Baron&#x27;s Imposing Mausoleum</div>
 

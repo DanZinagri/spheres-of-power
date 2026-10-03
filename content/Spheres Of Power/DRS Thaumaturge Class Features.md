@@ -8,7 +8,7 @@ parent: "[[Thaumaturge]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="polished-dark">
 
 <div class="sop-tab-label">Polished Dark</div>
 

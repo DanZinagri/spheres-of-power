@@ -8,7 +8,7 @@ parent: "[[Soul Weaver]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -42,7 +42,7 @@ At 20th level, a lichling ceases to age (becoming effectively immortal), and gai
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

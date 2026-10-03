@@ -8,7 +8,7 @@ parent: "[[Soul Weaver]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -82,7 +82,7 @@ Physical matter can not exist within the kingdom, save for the personal possessi
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

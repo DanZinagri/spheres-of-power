@@ -8,7 +8,7 @@ parent: "[[Spheres Of Might]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="author-s-note">
 
 <div class="sop-tab-label">Author&#x27;s Note</div>
 
@@ -20,7 +20,7 @@ In the rework of the spheres options in the Arcforge Players Compendium, the Pil
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-left-behind">
 
 <div class="sop-tab-label">Spheres Left Behind</div>
 

@@ -8,7 +8,7 @@ parent: "[[Thaumaturge]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -76,7 +76,7 @@ At 14th level, when using forbidden lore to augment a spell or sphere effect, th
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

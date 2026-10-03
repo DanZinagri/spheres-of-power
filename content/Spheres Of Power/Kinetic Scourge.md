@@ -8,7 +8,7 @@ parent: "[[Mageknight]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -66,7 +66,7 @@ As a full-round action, the kinetic scourge may anchor her tether and take an at
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

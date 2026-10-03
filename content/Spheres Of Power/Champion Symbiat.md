@@ -8,7 +8,7 @@ parent: "[[Symbiat]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="realmwalker-handbook">
 
 <div class="sop-tab-label">Realmwalker Handbook</div>
 

@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="sa-tiaiah">
 
 <div class="sop-tab-label">SA:TIAIAH</div>
 

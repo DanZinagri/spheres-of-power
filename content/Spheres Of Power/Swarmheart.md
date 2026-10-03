@@ -8,7 +8,7 @@ parent: "[[Wraith]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -56,7 +56,7 @@ While in swarm form, the swarmheart gains a fly speed (perfect) equal to the gro
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

@@ -8,7 +8,7 @@ parent: "[[Mageknight]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -56,7 +56,7 @@ Once per day, the knight-summoner may summon her bonded mount as an immediate ac
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

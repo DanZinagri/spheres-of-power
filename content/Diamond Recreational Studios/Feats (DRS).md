@@ -8,7 +8,7 @@ parent: "[[Diamond Recreational Studios]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="drs-feats">
 
 <div class="sop-tab-label">DRS Feats</div>
 

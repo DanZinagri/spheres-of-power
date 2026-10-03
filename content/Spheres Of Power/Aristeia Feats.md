@@ -8,7 +8,7 @@ parent: "[[Feats]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="diamond-polished">
 
 <div class="sop-tab-label">Diamond-Polished</div>
 
@@ -153,7 +153,7 @@ When you enter Aristeia, you gain temporary hit points equal to your character l
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 

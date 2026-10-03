@@ -8,7 +8,7 @@ parent: "[[Armorist]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -54,7 +54,7 @@ The void wielder’s soul blade now functions as a soul gem per the Death sphere
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

@@ -8,7 +8,7 @@ parent: "[[Mageknight]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -56,7 +56,7 @@ As a free action the sun warrior may apply the Searing Light talent to the radiu
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

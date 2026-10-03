@@ -8,7 +8,7 @@ parent: "[[Sphere Bestiary]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="villain-npc-codex">
 
 <div class="sop-tab-label">Villain NPC Codex</div>
 

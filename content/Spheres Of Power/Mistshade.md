@@ -8,7 +8,7 @@ parent: "[[Wraith]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -26,7 +26,7 @@ This replaces wraith form, but any feat, haunt, or other ability that would affe
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

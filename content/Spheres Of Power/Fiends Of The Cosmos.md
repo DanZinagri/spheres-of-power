@@ -8,7 +8,7 @@ parent: "[[Sphere Bestiary]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-bestiary-fiends-of-the-cosmos">
 
 <div class="sop-tab-label">Spheres Bestiary: Fiends of the Cosmos</div>
 

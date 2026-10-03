@@ -8,7 +8,7 @@ parent: "[[Feats]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-crimson-dancer">
 
 <div class="sop-tab-label">The Crimson Dancer</div>
 

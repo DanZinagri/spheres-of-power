@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="treasures-of-the-spheres-weapons-and-tools">
 
 <div class="sop-tab-label">Treasures of the Spheres: Weapons and Tools</div>
 

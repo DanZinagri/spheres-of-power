@@ -8,7 +8,7 @@ parent: "[[Thaumaturge]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -56,7 +56,7 @@ This alters the bonus feats a thaumaturge normally gains at 4th, 8th, 12th, 16th
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

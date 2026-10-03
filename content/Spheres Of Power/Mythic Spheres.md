@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="introduction">
 
 <div class="sop-tab-label">Introduction</div>
 
@@ -42,7 +42,7 @@ The **Mythic Feats** section only has a few options - there was a limit to how m
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-traditions">
 
 <div class="sop-tab-label">Mythic Traditions</div>
 
@@ -390,7 +390,7 @@ Your mythic powers are difficult to control and make you exceptionally noticeabl
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="universal-path-abilities">
 
 <div class="sop-tab-label">Universal Path Abilities</div>
 
@@ -457,7 +457,7 @@ Source: Diamond Polished Subsystems: Aristeia and Accrual
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-spheremaster-mythic-path">
 
 <div class="sop-tab-label">The Spheremaster Mythic Path</div>
 
@@ -789,7 +789,7 @@ This image lasts a number of rounds equal to your tier. This ability can be disp
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-gifted-mythic-path">
 
 <div class="sop-tab-label">The Gifted Mythic Path</div>
 
@@ -1036,7 +1036,7 @@ This effect lasts for 1 minute or until you or your target is reduced below 0 hi
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-eminent-mythic-path">
 
 <div class="sop-tab-label">The Eminent Mythic Path</div>
 
@@ -1641,7 +1641,7 @@ With a mere speech, you empower your allies to take on any foe. As a standard ac
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-sphere-talents">
 
 <div class="sop-tab-label">Mythic Sphere Talents</div>
 
@@ -2044,7 +2044,7 @@ Additionally, there are some options which could become significantly overpowere
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="utility-mythic-path-abilities">
 
 <div class="sop-tab-label">Utility Mythic Path Abilities</div>
 
@@ -2250,7 +2250,7 @@ Shaman (Kobold Press): Mythic Bonus Languages, Mythic Nature Lore, Mythic Totem 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-class-abilities">
 
 <div class="sop-tab-label">Mythic Class Abilities</div>
 
@@ -2266,7 +2266,7 @@ A mythic class feature is considered a 1st tier universal path ability and may a
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="universal-mythic-class-features">
 
 <div class="sop-tab-label">Universal Mythic Class Features</div>
 
@@ -2308,7 +2308,7 @@ You gain one bonus combat talent at each odd tier, including odd tiers gained af
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-advisor-abilities">
 
 <div class="sop-tab-label">Mythic Advisor Abilities</div>
 
@@ -2407,7 +2407,7 @@ All skill checks rolled by members of your rapport add your mythic surge die to 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-agent-abilities">
 
 <div class="sop-tab-label">Mythic Agent Abilities</div>
 
@@ -2479,7 +2479,7 @@ Multiply the duration of a false memory you can implant with this ability by 10.
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-armiger-abilities">
 
 <div class="sop-tab-label">Mythic Armiger Abilities</div>
 
@@ -2525,7 +2525,7 @@ You may choose which of your attacks during a lightning assault triggers your ra
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-armorist-abilities">
 
 <div class="sop-tab-label">Mythic Armorist Abilities</div>
 
@@ -2563,7 +2563,7 @@ You may summon equipment with a +5 enhancement bonus and an additional +5 in spe
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-blacksmith-abilities">
 
 <div class="sop-tab-label">Mythic Blacksmith Abilities</div>
 
@@ -2609,7 +2609,7 @@ Your masterpiece also functions as a 20th CL charm, implement, or spell engineUS
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-bravo-abilities">
 
 <div class="sop-tab-label">Mythic Bravo Abilities</div>
 
@@ -2709,7 +2709,7 @@ If the effect you wish to bypass is non-mythic, you automatically success. If th
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-commander-abilities">
 
 <div class="sop-tab-label">Mythic Commander Abilities</div>
 
@@ -2751,7 +2751,7 @@ Select one enhanced tactic you know. All allies within 10 feet per tier constant
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-conduit-abilities">
 
 <div class="sop-tab-label">Mythic Conduit Abilities</div>
 
@@ -2841,7 +2841,7 @@ Once per day, when you wake up or prepare for the day, you may choose a single e
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-conscript-abilities">
 
 <div class="sop-tab-label">Mythic Conscript Abilities</div>
 
@@ -2961,7 +2961,7 @@ At 3rd level, double the range you can move yourself and a grappled creature wit
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-courser-abilities">
 
 <div class="sop-tab-label">Mythic Courser Abilities</div>
 
@@ -3047,7 +3047,7 @@ You are immune to ability damage and drain inflicted to your mental ability scor
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-crimson-dancer-abilities">
 
 <div class="sop-tab-label">Mythic Crimson Dancer Abilities</div>
 
@@ -3117,7 +3117,7 @@ When you gain vitae from eat pain, you gain an additional point of vitae for eve
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-dissident-abilities">
 
 <div class="sop-tab-label">Mythic Dissident Abilities</div>
 
@@ -3185,7 +3185,7 @@ Whenever you are weakly or moderately attuned to one side of your struggle, you 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-dragoon-abilities">
 
 <div class="sop-tab-label">Mythic Dragoon Abilities</div>
 
@@ -3237,7 +3237,7 @@ You and your drake companion confirm all critical threats when under dragon bond
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-elementalist-abilities">
 
 <div class="sop-tab-label">Mythic Elementalist Abilities</div>
 
@@ -3281,7 +3281,7 @@ Your elemental defense increases to resistance 25 and your damage reduction chan
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-eliciter-abilities">
 
 <div class="sop-tab-label">Mythic Eliciter Abilities</div>
 
@@ -3323,7 +3323,7 @@ You may attempt a domination twice per day, though you may still only have one t
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-envoy-abilities">
 
 <div class="sop-tab-label">Mythic Envoy Abilities</div>
 
@@ -3406,7 +3406,7 @@ Your dire request can be removed by a non-mythic limited wish, miracle, or wish 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-fey-adept-abilities">
 
 <div class="sop-tab-label">Mythic Fey Adept Abilities</div>
 
@@ -3448,7 +3448,7 @@ You may have an additional permanent illusion.
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-genius-abilities">
 
 <div class="sop-tab-label">Mythic Genius Abilities</div>
 
@@ -3477,7 +3477,7 @@ You may select an additional two insights other than rebuke death and use them a
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-hedgewitch-abilities">
 
 <div class="sop-tab-label">Mythic Hedgewitch Abilities</div>
 
@@ -3577,7 +3577,7 @@ Once per day as a full-round action, you may change one secret or grand secret y
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-incanter-abilities">
 
 <div class="sop-tab-label">Mythic Incanter Abilities</div>
 
@@ -3699,7 +3699,7 @@ You are no longer affected by weather effects unless you want to be. By expendin
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-mageknight-abilities">
 
 <div class="sop-tab-label">Mythic Mageknight Abilities</div>
 
@@ -3741,7 +3741,7 @@ You may select an additional mystic combat ability for spellsword—it no longer
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-mastermind-abilities">
 
 <div class="sop-tab-label">Mythic Mastermind Abilities</div>
 
@@ -3823,7 +3823,7 @@ You always add your mythic surge die to any die roll made as part of revealing a
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-mountebank-abilities">
 
 <div class="sop-tab-label">Mythic Mountebank Abilities</div>
 
@@ -3892,7 +3892,7 @@ You unlock all skills (even those you don’t have ranks in) and are considered 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-necros-abilities">
 
 <div class="sop-tab-label">Mythic Necros Abilities</div>
 
@@ -3988,7 +3988,7 @@ Your phylactery can’t be harmed by non-mythic sources. If you have 8 or more m
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-prodigy-abilities">
 
 <div class="sop-tab-label">Mythic Prodigy Abilities</div>
 
@@ -4070,7 +4070,7 @@ You may spend one mythic power to add half your tier (rounded down, minimum 1) t
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-professional-abilities">
 
 <div class="sop-tab-label">Mythic Professional Abilities</div>
 
@@ -4184,7 +4184,7 @@ You no longer need to spend skill leverage to improve the benefits of versatile 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-raveler-abilities">
 
 <div class="sop-tab-label">Mythic Raveler Abilities</div>
 
@@ -4235,7 +4235,7 @@ You may spend a use of mythic power as a move action to reweave an unwoven ravel
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-reaper-abilities">
 
 <div class="sop-tab-label">Mythic Reaper Abilities</div>
 
@@ -4305,7 +4305,7 @@ Increase your natural armor bonus by your mythic tier. You gain DR 10/epic or ad
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-sage-abilities">
 
 <div class="sop-tab-label">Mythic Sage Abilities</div>
 
@@ -4363,7 +4363,7 @@ Once each day, as a full-round action, you may change your signature technique. 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-savant-abilities">
 
 <div class="sop-tab-label">Mythic Savant Abilities</div>
 
@@ -4393,7 +4393,7 @@ You may select an additional two insights other than rebuke death and use them a
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-scholar-abilities">
 
 <div class="sop-tab-label">Mythic Scholar Abilities</div>
 
@@ -4439,7 +4439,7 @@ You may select a second material imposition as a mastered imposition.
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-sentinel-abilities">
 
 <div class="sop-tab-label">Mythic Sentinel Abilities</div>
 
@@ -4535,7 +4535,7 @@ Once per day, you may spend one mythic power as a free action even when it is no
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-shifter-abilities">
 
 <div class="sop-tab-label">Mythic Shifter Abilities</div>
 
@@ -4613,7 +4613,7 @@ Once per round as a free action, you may change your own form with the Alteratio
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-soul-weaver-abilities">
 
 <div class="sop-tab-label">Mythic Soul Weaver Abilities</div>
 
@@ -4641,7 +4641,7 @@ You are immune to all negative energy effects except those you want to be affect
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-striker-abilities">
 
 <div class="sop-tab-label">Mythic Striker Abilities</div>
 
@@ -4707,7 +4707,7 @@ Once per day, you may expend one mythic power to reduce the cost of all abilitie
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-symbiat-abilities">
 
 <div class="sop-tab-label">Mythic Symbiat Abilities</div>
 
@@ -4763,7 +4763,7 @@ You only have to spend one round of psionic power each round to maintain two psi
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-technician-abilities">
 
 <div class="sop-tab-label">Mythic Technician Abilities</div>
 
@@ -4825,7 +4825,7 @@ You gain an additional +4 permanent bonus to one mental ability score of your ch
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-thaumaturge-abilities">
 
 <div class="sop-tab-label">Mythic Thaumaturge Abilities</div>
 
@@ -4855,7 +4855,7 @@ You may select an additional two invocations other than rebuke death and use the
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-theorist-abilities">
 
 <div class="sop-tab-label">Mythic Theorist Abilities</div>
 
@@ -4905,7 +4905,7 @@ When you use universal axiom, you may choose the results of a number of addition
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-troubadour-abilities">
 
 <div class="sop-tab-label">Mythic Troubadour Abilities</div>
 
@@ -4973,7 +4973,7 @@ Whenever you prepare your personas, you may prepare a second co-conscious person
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-warden-abilities">
 
 <div class="sop-tab-label">Mythic Warden Abilities</div>
 
@@ -5047,7 +5047,7 @@ You can remain in your ethereal form for an additional round per tier. When fini
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-wraith-abilities">
 
 <div class="sop-tab-label">Mythic Wraith Abilities</div>
 
@@ -5125,7 +5125,7 @@ When in wraith form, you are immune to all nonmagical damage.
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-prestige-class-abilities">
 
 <div class="sop-tab-label">Mythic Prestige Class Abilities</div>
 
@@ -5269,7 +5269,7 @@ When in your state of recall, you gain access to an additional combat feat. This
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-feats">
 
 <div class="sop-tab-label">Mythic Feats</div>
 
@@ -5488,7 +5488,7 @@ By consuming one pound of any material that can be used to forge armor, you may 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-spheres-monster-abilities">
 
 <div class="sop-tab-label">Mythic Spheres Monster Abilities</div>
 
@@ -5551,7 +5551,7 @@ The monster gains a number of magic or combat talents equal to half their Hit Di
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-simple-templates">
 
 <div class="sop-tab-label">Mythic Simple Templates</div>
 
@@ -5583,7 +5583,7 @@ Creatures with the talented template are well-versed in magic, skill, or combat.
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-spheres-solutions">
 
 <div class="sop-tab-label">Mythic Spheres Solutions</div>
 

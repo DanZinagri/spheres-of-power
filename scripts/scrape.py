@@ -284,7 +284,8 @@ class WikiConverter(MarkdownConverter):
             if name in cls:
                 if not text.strip():
                     return ""  # every column/link in it was excluded
-                return f'\n\n<div class="{name}">\n\n{text.strip()}\n\n</div>\n\n'
+                extra = f' data-tab="{html.escape(el["data-tab"])}"' if el.get("data-tab") else ""
+                return f'\n\n<div class="{name}"{extra}>\n\n{text.strip()}\n\n</div>\n\n'
         return f"\n\n{text}\n\n" if text.strip() else ""
 
 
@@ -552,7 +553,9 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None) -> Non
         panes = nav.select(".yui-content > div")
         wrapper = soup_factory.new_tag("div", attrs={"class": "sop-tabs"})
         for label, pane in zip(labels, panes):
-            tab = soup_factory.new_tag("div", attrs={"class": "sop-tab"})
+            # data-tab lets CSS/JS/Pagefind target a tab by name (pagefind.yml skips "original")
+            tab_id = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-") or "tab"
+            tab = soup_factory.new_tag("div", attrs={"class": "sop-tab", "data-tab": tab_id})
             name = soup_factory.new_tag("div", attrs={"class": "sop-tab-label"})
             name.string = label
             tab.append(name)

@@ -8,7 +8,7 @@ parent: "[[Elementalist]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -100,7 +100,7 @@ An electrokinetic with the Energy Focus (electric blast) drawback may make destr
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

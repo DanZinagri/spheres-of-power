@@ -8,7 +8,7 @@ parent: "[[Hedgewitch]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -56,7 +56,7 @@ The entropic sage gains a style feat for which she qualifies. She may treat her 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

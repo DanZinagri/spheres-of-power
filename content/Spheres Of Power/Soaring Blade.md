@@ -8,7 +8,7 @@ parent: "[[Armorist]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -92,7 +92,7 @@ The soaring blade gains proficiency with all shields (except tower shields) and 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

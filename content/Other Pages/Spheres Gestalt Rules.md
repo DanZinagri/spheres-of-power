@@ -7,7 +7,7 @@ updated: 2026-06-30
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-high-magic-handbook">
 
 <div class="sop-tab-label">The High Magic Handbook</div>
 

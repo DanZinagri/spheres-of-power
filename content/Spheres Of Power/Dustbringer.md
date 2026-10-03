@@ -8,7 +8,7 @@ parent: "[[Mageknight]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -101,7 +101,7 @@ By focusing her magic, dustbringers can cause whatever she touches to simply fal
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

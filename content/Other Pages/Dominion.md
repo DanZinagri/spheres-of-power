@@ -7,7 +7,7 @@ updated: 2025-05-31
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-of-power-dominion">
 
 <div class="sop-tab-label">Spheres of Power: Dominion</div>
 

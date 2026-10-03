@@ -8,7 +8,7 @@ parent: "[[Mastermind]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="legends-of-the-spheres">
 
 <div class="sop-tab-label">Legends of the Spheres</div>
 

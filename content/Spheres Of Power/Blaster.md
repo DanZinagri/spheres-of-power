@@ -8,7 +8,7 @@ parent: "[[Armorist]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -66,7 +66,7 @@ Gain a (blast shape) talent other than Energy Strike. As a move action, the blas
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

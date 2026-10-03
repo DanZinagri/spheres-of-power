@@ -8,7 +8,7 @@ parent: "[[Thaumaturge]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -22,7 +22,7 @@ At 10th level, the devourer may use this ability on any foe, not just living foe
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

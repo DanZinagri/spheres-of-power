@@ -7,7 +7,7 @@ updated: 2024-09-15
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="strain">
 
 <div class="sop-tab-label">Strain</div>
 
@@ -448,7 +448,7 @@ The afflicted character becomes blinded or deafened, loses another special sense
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="madness">
 
 <div class="sop-tab-label">Madness</div>
 

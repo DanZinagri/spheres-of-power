@@ -7,7 +7,7 @@ updated: 2020-01-30
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -31,7 +31,7 @@ This replaces solo tactics, and the teamwork feats gained at 3rd, 6th, 9th, 12th
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

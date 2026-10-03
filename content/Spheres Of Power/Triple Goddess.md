@@ -8,7 +8,7 @@ parent: "[[Hedgewitch]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -40,7 +40,7 @@ At 17th level, a triple goddess gains the ultimate power over life itself: The p
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

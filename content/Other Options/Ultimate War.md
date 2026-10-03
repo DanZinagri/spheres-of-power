@@ -8,7 +8,7 @@ parent: "[[Other Options]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="introduction">
 
 <div class="sop-tab-label">Introduction</div>
 
@@ -28,7 +28,7 @@ A commander’s base Leadership Bonus (LB) is equal to +1 for every 5 ranks of P
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="command-boons">
 
 <div class="sop-tab-label">Command Boons</div>
 
@@ -88,7 +88,7 @@ An army with this boon unleashes a constant stream of whoops, yells, pounding dr
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="combined-arms">
 
 <div class="sop-tab-label">Combined Arms</div>
 
@@ -214,7 +214,7 @@ You can use a simplified variant of the Combined Arms rules to play out aerial o
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="war-in-the-sky">
 
 <div class="sop-tab-label">War in the Sky</div>
 
@@ -535,7 +535,7 @@ If your ranged attack succeeds, you deal no damage but can attempt use a Boardin
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="war-at-sea">
 
 <div class="sop-tab-label">War at Sea</div>
 
@@ -980,7 +980,7 @@ Your unit knows how to sail in close to shore in order to launch ranged attacks 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="siege-warfare">
 
 <div class="sop-tab-label">Siege Warfare</div>
 

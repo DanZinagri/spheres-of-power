@@ -7,7 +7,7 @@ updated: 2026-02-16
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -66,7 +66,7 @@ A character with the nobility domain may exchange the Leadership feat for the [[
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

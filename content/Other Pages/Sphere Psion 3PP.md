@@ -8,7 +8,7 @@ updated: 2025-05-30
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="baron-s-glorious-arena">
 
 <div class="sop-tab-label">Baron’s Glorious Arena</div>
 

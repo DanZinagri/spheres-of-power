@@ -8,7 +8,7 @@ parent: "[[Soul Weaver]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -64,7 +64,7 @@ At 20th level, when the dual channeler channels energy, she may spend two additi
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

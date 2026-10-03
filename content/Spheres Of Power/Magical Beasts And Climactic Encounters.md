@@ -8,7 +8,7 @@ parent: "[[Sphere Bestiary]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-bestiary-magical-beasts-and-climactic-encounters">
 
 <div class="sop-tab-label">Spheres Bestiary: Magical Beasts and Climactic Encounters</div>
 

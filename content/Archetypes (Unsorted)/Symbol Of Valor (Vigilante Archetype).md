@@ -7,7 +7,7 @@ updated: 2021-04-15
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-apocrypha-banners">
 
 <div class="sop-tab-label">Spheres Apocrypha: Banners</div>
 

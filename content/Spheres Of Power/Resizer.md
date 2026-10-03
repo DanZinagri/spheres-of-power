@@ -8,7 +8,7 @@ parent: "[[Mageknight]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -74,7 +74,7 @@ By quickly shifting size, stature becomes of little concern, allowing the resize
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

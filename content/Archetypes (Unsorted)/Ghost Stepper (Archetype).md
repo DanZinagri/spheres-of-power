@@ -7,7 +7,7 @@ updated: 2020-01-30
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -41,7 +41,7 @@ The ghost stepper gains a pool of spell points equal to her casting ability modi
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

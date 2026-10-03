@@ -7,7 +7,7 @@ updated: 2026-05-03
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-diabolist-s-handbook">
 
 <div class="sop-tab-label">The Diabolist&#x27;s Handbook</div>
 

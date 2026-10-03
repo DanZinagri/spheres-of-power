@@ -7,7 +7,7 @@ updated: 2020-11-16
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -35,7 +35,7 @@ This replaces sphere specialization from the [[Sphere Wizard|sphere wizard]] arc
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

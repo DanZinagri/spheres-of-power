@@ -7,7 +7,7 @@ updated: 2026-05-24
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="diamond-spheres-expanded-tinker-and-silverminds">
 
 <div class="sop-tab-label">Diamond Spheres: Expanded Tinker and Silverminds</div>
 

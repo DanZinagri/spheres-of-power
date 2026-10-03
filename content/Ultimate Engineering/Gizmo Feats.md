@@ -8,7 +8,7 @@ parent: "[[Ultimate Engineering]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="tinker-sphere">
 
 <div class="sop-tab-label">Tinker Sphere</div>
 

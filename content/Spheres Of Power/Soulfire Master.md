@@ -8,7 +8,7 @@ parent: "[[Thaumaturge]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -34,7 +34,7 @@ Ability burn functions as ability score damage, but may not be removed by any me
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

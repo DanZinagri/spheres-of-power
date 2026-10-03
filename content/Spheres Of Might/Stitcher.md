@@ -8,7 +8,7 @@ parent: "[[Scholar]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-gravecaller-s-handbook">
 
 <div class="sop-tab-label">The Gravecaller&#x27;s Handbook</div>
 

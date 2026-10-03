@@ -44,7 +44,6 @@ export const defaultContentPageLayout: PageLayout = {
   left: topBar,
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
 

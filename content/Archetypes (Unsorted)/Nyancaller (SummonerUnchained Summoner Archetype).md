@@ -8,7 +8,7 @@ updated: 2021-04-17
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-catgirl-handbook">
 
 <div class="sop-tab-label">The Catgirl Handbook</div>
 

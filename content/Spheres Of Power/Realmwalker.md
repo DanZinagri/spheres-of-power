@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="realmwalker-s-handbook">
 
 <div class="sop-tab-label">Realmwalker&#x27;s Handbook</div>
 

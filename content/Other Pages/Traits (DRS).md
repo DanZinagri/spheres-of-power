@@ -7,7 +7,7 @@ updated: 2025-04-02
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="drs-feats">
 
 <div class="sop-tab-label">DRS Feats</div>
 

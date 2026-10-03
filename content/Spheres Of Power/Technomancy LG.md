@@ -9,7 +9,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="players-compendium">
 
 <div class="sop-tab-label">Players Compendium</div>
 
@@ -489,7 +489,7 @@ In order to create a setting where charges are a commonplace source of power and
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-of-influence">
 
 <div class="sop-tab-label">Spheres of Influence</div>
 

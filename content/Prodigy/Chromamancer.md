@@ -8,7 +8,7 @@ parent: "[[Prodigy]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="expanded-options-3">
 
 <div class="sop-tab-label">Expanded Options 3</div>
 

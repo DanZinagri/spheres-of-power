@@ -7,7 +7,7 @@ updated: 2023-04-22
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -243,7 +243,7 @@ The vigilante is surrounded by a weak field of temporal magic that allows him to
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

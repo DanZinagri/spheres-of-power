@@ -7,7 +7,7 @@ updated: 2026-08-09
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="errata-drs">
 
 <div class="sop-tab-label">Errata (DRS)</div>
 
@@ -71,7 +71,7 @@ At 5th level, the kung fu exemplar gains the Signature Skill feat for a kung fu 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 

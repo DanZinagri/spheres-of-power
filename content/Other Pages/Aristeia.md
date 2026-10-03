@@ -7,7 +7,7 @@ updated: 2024-06-29
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="diamond-polished">
 
 <div class="sop-tab-label">Diamond-Polished</div>
 
@@ -89,7 +89,7 @@ Click the link above to see Aristeia feats.
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 

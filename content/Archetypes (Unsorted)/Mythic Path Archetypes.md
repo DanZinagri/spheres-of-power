@@ -7,7 +7,7 @@ updated: 2023-04-18
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-path-archetypes">
 
 <div class="sop-tab-label">Mythic Path Archetypes</div>
 

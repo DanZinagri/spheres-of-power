@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power (Old)]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="introduction">
 
 <div class="sop-tab-label">Introduction</div>
 
@@ -32,7 +32,7 @@ The **Mythic Feats** section only has a few options - there was a limit to how m
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-traditions">
 
 <div class="sop-tab-label">Mythic Traditions</div>
 
@@ -309,7 +309,7 @@ Your mythic powers are difficult to control and make you exceptionally noticeabl
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-spheremaster-mythic-path">
 
 <div class="sop-tab-label">The Spheremaster Mythic Path</div>
 
@@ -663,7 +663,7 @@ In addition, as a full-round action you can spend one use of your mythic power t
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-sphere-talents">
 
 <div class="sop-tab-label">Mythic Sphere Talents</div>
 
@@ -837,7 +837,7 @@ You may designate one talent (or combination of talents that work together) you 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-class-abilities">
 
 <div class="sop-tab-label">Mythic Class Abilities</div>
 
@@ -853,7 +853,7 @@ A mythic class feature is considered a 1st tier universal path ability and may a
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="universal-mythic-class-features">
 
 <div class="sop-tab-label">Universal Mythic Class Features</div>
 
@@ -875,7 +875,7 @@ You gain one bonus magic talent at each odd tier, including odd tiers gained aft
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-armorist-abilities">
 
 <div class="sop-tab-label">Mythic Armorist Abilities</div>
 
@@ -913,7 +913,7 @@ You may summon equipment with a +5 enhancement bonus and an additional +5 in spe
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-elementalist-abilities">
 
 <div class="sop-tab-label">Mythic Elementalist Abilities</div>
 
@@ -957,7 +957,7 @@ Your elemental defense increases to resistance 25 and your damage reduction chan
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-eliciter-abilities">
 
 <div class="sop-tab-label">Mythic Eliciter Abilities</div>
 
@@ -999,7 +999,7 @@ You may attempt a domination twice per day, though you may still only have one t
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-fey-adept-abilities">
 
 <div class="sop-tab-label">Mythic Fey Adept Abilities</div>
 
@@ -1041,7 +1041,7 @@ You may have an additional permanent illusion.
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-hedgewitch-abilities">
 
 <div class="sop-tab-label">Mythic Hedgewitch Abilities</div>
 
@@ -1137,7 +1137,7 @@ Once per day as a full-round action, you may change one secret or grand secret y
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-incanter-abilities">
 
 <div class="sop-tab-label">Mythic Incanter Abilities</div>
 
@@ -1253,7 +1253,7 @@ You are no longer affected by weather effects unless you want to be. By expendin
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-mageknight-abilities">
 
 <div class="sop-tab-label">Mythic Mageknight Abilities</div>
 
@@ -1295,7 +1295,7 @@ You may select an additional mystic combat ability for spellsword—it no longer
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-shifter-abilities">
 
 <div class="sop-tab-label">Mythic Shifter Abilities</div>
 
@@ -1373,7 +1373,7 @@ Once per round as a free action, you may change your own form with the Alteratio
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-soul-weaver-abilities">
 
 <div class="sop-tab-label">Mythic Soul Weaver Abilities</div>
 
@@ -1401,7 +1401,7 @@ You are immune to all negative energy effects except those you want to be affect
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-symbiat-abilities">
 
 <div class="sop-tab-label">Mythic Symbiat Abilities</div>
 
@@ -1457,7 +1457,7 @@ You only have to spend one round of psionic power each round to maintain two psi
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-thaumaturge-abilities">
 
 <div class="sop-tab-label">Mythic Thaumaturge Abilities</div>
 
@@ -1487,7 +1487,7 @@ You may select an additional two invocations other than rebuke death and use the
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-wraith-abilities">
 
 <div class="sop-tab-label">Mythic Wraith Abilities</div>
 
@@ -1567,7 +1567,7 @@ When in wraith form, you are immune to all nonmagical damage.
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-prestige-class-abilities">
 
 <div class="sop-tab-label">Mythic Prestige Class Abilities</div>
 
@@ -1591,7 +1591,7 @@ When you use spell synthesis, you may spend one mythic power to add the effects 
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-feats">
 
 <div class="sop-tab-label">Mythic Feats</div>
 
@@ -1619,7 +1619,7 @@ You gain a second transformation, as if gaining the Transformation feat a second
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="mythic-spheres-of-power-solutions">
 
 <div class="sop-tab-label">Mythic Spheres of Power Solutions</div>
 

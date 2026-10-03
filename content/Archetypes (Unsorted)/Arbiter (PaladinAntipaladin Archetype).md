@@ -8,7 +8,7 @@ updated: 2026-04-30
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="spheres-of-guile">
 
 <div class="sop-tab-label">Spheres of Guile</div>
 

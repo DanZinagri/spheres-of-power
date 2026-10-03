@@ -8,6 +8,17 @@ function activate(tabs: HTMLElement, index: number) {
     b.setAttribute("aria-selected", String(i === index))
     b.tabIndex = i === index ? 0 : -1
   })
+  syncToc()
+}
+
+// Table of contents: only list headings from the tabs currently showing.
+function syncToc() {
+  document.querySelectorAll<HTMLAnchorElement>(".toc a[data-for]").forEach((a) => {
+    const heading = document.getElementById(a.dataset.for ?? "")
+    const pane = heading?.closest<HTMLElement>(".sop-tab")
+    const li = a.closest("li")
+    if (li) li.hidden = !!pane?.hidden
+  })
 }
 
 // A link to a heading inside a hidden tab (search result, table of contents) opens that tab.

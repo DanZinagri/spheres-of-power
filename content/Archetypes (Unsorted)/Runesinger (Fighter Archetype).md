@@ -7,7 +7,7 @@ updated: 2021-11-30
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="ultimate">
 
 <div class="sop-tab-label">Ultimate</div>
 
@@ -215,7 +215,7 @@ Rune feats enhance how runes may be used. Runesingers may choose to gain rune fe
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="original">
 
 <div class="sop-tab-label">Original</div>
 

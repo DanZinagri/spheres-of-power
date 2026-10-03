@@ -8,7 +8,7 @@ parent: "[[Other Options]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-field-of-battle">
 
 <div class="sop-tab-label">The Field of Battle</div>
 
@@ -38,7 +38,7 @@ It is perhaps easiest to think of these zones as concentric circles, with the Me
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="strategy">
 
 <div class="sop-tab-label">Strategy</div>
 
@@ -110,7 +110,7 @@ If the check fails, the army’s Morale score is reduced by 1d4. If this reduces
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="bloodied-defeated-destroyed-and-disbanded-armies">
 
 <div class="sop-tab-label">Bloodied, Defeated, Destroyed, and Disbanded Armies</div>
 
@@ -166,7 +166,7 @@ Once per battle, at the beginning of any Battle phase, the commander of either a
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="tactics">
 
 <div class="sop-tab-label">Tactics</div>
 
@@ -224,7 +224,7 @@ In order to use a tactic, a unit must be trained in it, either when it is create
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="victory-and-aftermath">
 
 <div class="sop-tab-label">Victory And Aftermath</div>
 
@@ -294,7 +294,7 @@ Prisoners can instead be escorted to permanent internment at a Barracks, Fort, G
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="building-armies">
 
 <div class="sop-tab-label">Building Armies</div>
 
@@ -394,7 +394,7 @@ The following boons can be selected by commanders, but no boon can be applied to
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="recruiting-an-army">
 
 <div class="sop-tab-label">Recruiting An Army</div>
 
@@ -424,7 +424,7 @@ Recruiting a mercenary army functions much like recruiting a normal army; howeve
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="equipping-an-army">
 
 <div class="sop-tab-label">Equipping An Army</div>
 
@@ -495,7 +495,7 @@ Instead, its OM for ranged attacks is based on the CR of the creatures riding in
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="maintaining-an-army">
 
 <div class="sop-tab-label">Maintaining An Army</div>
 
@@ -541,7 +541,7 @@ Reserve armies do not increase your Consumption based on the number of armies. I
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="special-abilities">
 
 <div class="sop-tab-label">Special Abilities</div>
 
@@ -657,7 +657,7 @@ While the mass combat rules in Pathfinder Roleplaying Game Ultimate Campaign pro
 
 </div>
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="special-rules">
 
 <div class="sop-tab-label">Special Rules</div>
 

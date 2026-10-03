@@ -8,7 +8,7 @@ parent: "[[Blacksmith]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="archetypes-of-power-2">
 
 <div class="sop-tab-label">Archetypes of Power 2</div>
 

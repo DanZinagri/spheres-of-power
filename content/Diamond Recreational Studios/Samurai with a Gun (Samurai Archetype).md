@@ -8,7 +8,7 @@ parent: "[[Diamond Recreational Studios]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="diamond-spheres-tsar-day-1-dlc-and-a-gun">
 
 <div class="sop-tab-label">Diamond Spheres: TSAR Day 1 DLC: And a Gun!</div>
 

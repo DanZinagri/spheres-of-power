@@ -8,7 +8,7 @@ parent: "[[Sphere Races]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="player-s-guide-to-skybourne">
 
 <div class="sop-tab-label">Player&#x27;s Guide to Skybourne</div>
 

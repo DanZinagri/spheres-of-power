@@ -8,7 +8,7 @@ updated: 2026-08-08
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-archmagi-s-handbook">
 
 <div class="sop-tab-label">The Archmagi&#x27;s Handbook</div>
 

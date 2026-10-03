@@ -11,7 +11,7 @@ parent: "[[Thaumaturge]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="baron-s-secluded-library">
 
 <div class="sop-tab-label">Baron&#x27;s Secluded Library</div>
 

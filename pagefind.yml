@@ -9,3 +9,7 @@ exclude_selectors:
   - ".content-meta"
   - ".page-listing"
   - ".popover"
+  # the pre-Ultimate "Original" versions stay on the page (in their tab) but out of search
+  - '.sop-tab[data-tab="original"]'
+  # ...as do the standalone pre-Ultimate pages in "Spheres Of Power (Old)"
+  - 'body[data-slug^="Spheres-Of-Power-(Old)/"]'

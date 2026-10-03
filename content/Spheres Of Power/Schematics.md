@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-high-magic-handbook">
 
 <div class="sop-tab-label">The High Magic Handbook</div>
 

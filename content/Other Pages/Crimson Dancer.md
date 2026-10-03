@@ -7,7 +7,7 @@ updated: 2024-07-29
 
 <div class="sop-tabs">
 
-<div class="sop-tab">
+<div class="sop-tab" data-tab="the-crimson-dancer">
 
 <div class="sop-tab-label">The Crimson Dancer</div>
 
