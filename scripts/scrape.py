@@ -715,6 +715,29 @@ def archetype_section_tables(body: Tag, soup_factory) -> None:
 
 ARCHETYPE_LINE = re.compile(r"^\*\*([^*\n]+)\*\*\s*\((.*)\)\s*$")
 
+# Class names in the home page's Class column link to their Archives of Nethys entry
+# (class list from https://www.aonprd.com/Classes.aspx; classes not on AoN stay unlinked).
+AON_CLASSES = {
+    "Adept", "Alchemist", "Antipaladin", "Arcanist", "Aristocrat", "Barbarian",
+    "Barbarian (Unchained)", "Bard", "Bloodrager", "Brawler", "Cavalier", "Cleric", "Commoner",
+    "Companion", "Drake", "Druid", "Eidolon", "Eidolon (Unchained)", "Expert", "Familiar",
+    "Fighter", "Gunslinger", "Hunter", "Inquisitor", "Investigator", "Kineticist", "Magus",
+    "Medium", "Mesmerist", "Monk", "Monk (Unchained)", "Ninja", "Occultist", "Oracle", "Paladin",
+    "Phantom", "Psychic", "Ranger", "Rogue", "Rogue (Unchained)", "Samurai", "Shaman", "Shifter",
+    "Skald", "Slayer", "Sorcerer", "Spiritualist", "Summoner", "Summoner (Unchained)",
+    "Swashbuckler", "Vigilante", "Warpriest", "Warrior", "Witch", "Wizard",
+}
+AON_CLASS_ALIASES = {"Animal Companions": "Companion", "Familiars": "Familiar"}
+
+
+def aon_class_link(name: str) -> str:
+    """'Barbarian, Unchained' -> '[Barbarian, Unchained](...ItemName=Barbarian%20(Unchained))'."""
+    key = AON_CLASS_ALIASES.get(name, re.sub(r"^(.+), Unchained$", r"\1 (Unchained)", name))
+    if key not in AON_CLASSES:
+        return name
+    url = "https://www.aonprd.com/ClassDisplay.aspx?ItemName=" + urllib.parse.quote(key, safe="()")
+    return f"[{name}]({url})"
+
 
 def archetype_tables(md: str) -> str:
     """Runs of '**Class** ([[A]], [[B]] ...)' lines -> a Class | Archetypes | Class Options table.
@@ -738,7 +761,7 @@ def archetype_tables(md: str) -> str:
             for r in run:
                 if "[[" not in r["arch"] and not r["extras"]:
                     continue  # every archetype was in an excluded book
-                row = f"| **{r['cls'].strip()}** | {cell(r['arch'])} |"
+                row = f"| **{aon_class_link(r['cls'].strip())}** | {cell(r['arch'])} |"
                 if options:
                     row += " " + " · ".join(cell(e) for e in r["extras"]) + " |"
                 rows.append(row)
