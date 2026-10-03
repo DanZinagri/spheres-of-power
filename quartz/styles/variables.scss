@@ -36,23 +36,19 @@ $mobileGrid: (
       "grid-footer"',
 );
 $tabletGrid: (
-  templateRows: "auto auto auto auto",
-  templateColumns: "#{$sidePanelWidth} auto",
+  templateRows: "auto auto auto auto auto",
+  templateColumns: "minmax(0, 1fr)",
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:
-    '"grid-sidebar-left grid-header"\
-      "grid-sidebar-left grid-center"\
-      "grid-sidebar-left grid-sidebar-right"\
-      "grid-sidebar-left grid-footer"',
+    '"grid-sidebar-left"      "grid-header"      "grid-center"      "grid-sidebar-right"      "grid-footer"',
 );
 $desktopGrid: (
-  templateRows: "auto auto auto",
-  templateColumns: "#{$sidePanelWidth} auto #{$sidePanelWidth}",
+  templateRows: "auto auto auto auto",
+  templateColumns: "minmax(0, 1fr) #{$sidePanelWidth}",
   rowGap: "5px",
-  columnGap: "5px",
+  columnGap: "2rem",
+  // the "left sidebar" slot is used as a full-width top bar (site title + search)
   templateAreas:
-    '"grid-sidebar-left grid-header grid-sidebar-right"\
-      "grid-sidebar-left grid-center grid-sidebar-right"\
-      "grid-sidebar-left grid-footer grid-sidebar-right"',
+    '"grid-sidebar-left grid-sidebar-left"      "grid-header grid-sidebar-right"      "grid-center grid-sidebar-right"      "grid-footer grid-sidebar-right"',
 );

@@ -51,8 +51,6 @@ Emulating powerful and perilous creatures such as ghosts and shadow demons, wrai
 | 19th | +14/+9/+4 | +6 | +11 | +11 | Wraith haunt | +14 | 14 |
 | 20th | +15/+10/+5 | +6 | +12 | +12 | Wraith form mastery | +15 | 15 |
 
-[image: Wraith.png](http://spheresofpower.wdfiles.com/local--files/wraith/Wraith.png)
-
 ## Weapon and Armor Proficiencies
 
 The wraith is proficient with all simple weapons, scythes, and light armor.

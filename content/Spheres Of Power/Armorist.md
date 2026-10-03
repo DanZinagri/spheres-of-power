@@ -51,8 +51,6 @@ Armorists are among the most direct masters of the spheres, and indeed, tend to 
 | 19th | +19/+14/+9/+4 | +11 | +6 | +11 | Armor training, bound equipment (+10) | +6 | +9 | 9 |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +12 | Arsenal trick, bound equipment (5x), infinite arsenal | +6 | +10 | 10 |
 
-[image: Armorist.png](http://spheresofpower.wikidot.com/local--files/armorist/Armorist.png)
-
 ## Weapon and Armor Proficiency
 
 An armorist is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).

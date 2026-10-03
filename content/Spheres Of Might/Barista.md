@@ -10,8 +10,6 @@ parent: "[[Blacksmith]]"
 
 ---
 
-[image: Barista_Menu_AltStyleFormatWorn3.png](http://spheresofpower.wikidot.com/local--files/test-page/Barista_Menu_AltStyleFormatWorn3.png)
-
 **Note:** Open image in a new tab for full size
 
 The barista grinds coffee and steeps tea leaves, brewing refreshing, bold and delicious drinks for himself, his companions, and anyone around him in need of a pick-me-up. A barista is a warm and welcome member to any adventuring party who can prepare miraculous and invigorating brews.

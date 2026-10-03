@@ -51,8 +51,6 @@ Symbiats are fused creatures, where psionic aberrations are pulled in (usually t
 | 19th | +14/+9/+4 | +6 | +11 | +11 | Battlefield relay (+5) | +14 | 14 | +4 | +60 ft. |
 | 20th | +15/+10/+5 | +6 | +12 | +12 | Greater psionics | +15 | 15 | +5 | +60 ft |
 
-[image: Symbiat.png](http://spheresofpower.wdfiles.com/local--files/symbiat/Symbiat.png)
-
 ## Weapon and Armor Proficiency
 
 A symbiat is proficient with all simple weapons, plus the longsword, rapier, sap, short sword, shortbow, and whip. A symbiat is proficient with no armor, but is proficient with shields. A symbiat wearing armor or carrying a medium or heavy load loses the benefit of their battlefield sense.

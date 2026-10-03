@@ -51,8 +51,6 @@ Eliciters are masters of emotion, using their control of others’ minds to acco
 | 19th | +14/+9/+4 | +6 | +11 | +11 | Reverence | +14 | 14 |
 | 20th | +15/+10/+5 | +6 | +12 | +12 | Domination, emotion | +15 | 15 |
 
-[image: Eliciter.png](http://spheresofpower.wdfiles.com/local--files/eliciter/Eliciter.png)
-
 ## Weapon and Armor Proficiency
 
 An eliciter gains proficiency with all simple weapons, light armor, and shields, as well as the longsword, rapier, sap, shortsword, shortbow, and whip.

@@ -51,8 +51,6 @@ The incanter is among the purest forms of a caster, dedicated above all to expan
 | 19th | +9/+4 | +6 | +6 | +11 | Bonus talent | +19 | 19 |
 | 20th | +10/+5 | +6 | +6 | +12 | Bonus feat | +20 | 20 |
 
-[image: Incanter.png](http://spheresofpower.wdfiles.com/local--files/incanter/Incanter.png)
-
 ## Weapon and Armor Proficiency
 
 An incanter is proficient with all simple weapons.

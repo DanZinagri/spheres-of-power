@@ -51,8 +51,6 @@ Elementalists specialize in the command and control of elemental magic, using it
 | 19th | +14/+9/+4 | +11 | +11 | +11 | Elemental movement | +14 | 14 |
 | 20th | +15/+10/+5 | +12 | +12 | +12 | Dodge bonus +5, energy body | +15 | 15 |
 
-[image: Elementalist.png](http://spheresofpower.wdfiles.com/local--files/elementalist/Elementalist.png)
-
 ## Weapon and Armor Proficiency
 
 An elementalist is proficient with all martial and simple weapons and light armor.

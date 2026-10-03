@@ -7,7 +7,6 @@ updated: 2025-01-01
 
 #### Spheres of Guile
 
-[image: invention.jpg](http://spheresofpower.wikidot.com/local--files/artifice/invention.jpg)
 **Diamond Spheres: Invention & Ingenuity**
 $6.99
 

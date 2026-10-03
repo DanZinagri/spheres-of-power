@@ -55,8 +55,6 @@ Shifters are experts at transforming themselves (and often others) into whatever
 | 19th | +14/+9/+4 | +11 | +11 | +6 | Enhanced physicality | +14 | 14 |
 | 20th | +15/+10/+5 | +12 | +12 | +6 | Bestial trait, second skin | +15 | 15 |
 
-[image: Shifter.png](http://spheresofpower.wdfiles.com/local--files/shifter/Shifter.png)
-
 ## Weapon and Armor Proficiency
 
 A shifter is proficient with all simple weapons and light armor.

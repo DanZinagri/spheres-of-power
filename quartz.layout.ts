@@ -16,6 +16,20 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+// Full-width top bar (rendered in the "left sidebar" slot, which the grid in
+// quartz/styles/variables.scss stretches across the top): site title + search + toggles.
+const topBar = [
+  Component.PageTitle(),
+  Component.Flex({
+    components: [
+      { Component: Component.PagefindSearch(), grow: true },
+      { Component: Component.Darkmode() },
+      { Component: Component.ReaderMode() },
+    ],
+    gap: "0.75rem",
+  }),
+]
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -27,21 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.PagefindSearch(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
-  ],
+  left: topBar,
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
@@ -51,19 +51,6 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.PagefindSearch(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-    Component.Explorer(),
-  ],
+  left: topBar,
   right: [],
 }

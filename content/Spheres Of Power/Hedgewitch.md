@@ -51,8 +51,6 @@ The hedgewitch is a student dabbling in whatever arts interest them the most. Ve
 | 19 | +14/+9/+4 | +6 | +6 | +11 |  | +14 | 14 |
 | 20 | +15/+10/+5 | +6 | +6 | +12 | Path mastery, secret | +15 | 15 |
 
-[image: Hedgewitch.png](http://spheresofpower.wikidot.com/local--files/hedgewitch/Hedgewitch.png)
-
 ## Weapon and Armor Proficiency
 
 A hedgewitch is proficient with all simple weapons and light armor.

@@ -7,6 +7,86 @@
   max-width: min(96vw, 2200px);
 }
 
+// ---------------------------------------------------------------- top bar
+// The left-sidebar slot is laid out as a sticky, full-width bar (see $desktopGrid).
+$topBarHeight: 3.5rem;
+
+html,
+body {
+  overflow-x: clip; // the bar's full-bleed background must not cause sideways scrolling
+}
+
+.page > #quartz-body .sidebar.left {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  height: $topBarHeight;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 0;
+
+  // full-bleed background + divider behind the bar's contents
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0 -100vmax;
+    background: var(--light);
+    border-bottom: 1px solid var(--lightgray);
+    z-index: -1;
+  }
+
+  & > .page-title {
+    flex: 0 0 auto;
+    font-size: 1.35rem;
+    white-space: nowrap;
+  }
+
+  & > .flex-component {
+    margin-left: auto;
+    flex: 0 1 34rem;
+    min-width: 0;
+  }
+
+  .pf-search {
+    max-width: none;
+  }
+
+  @media all and ($mobile) {
+    height: auto;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0.6rem 0;
+
+    & > .page-title {
+      font-size: 1.15rem;
+    }
+
+    & > .flex-component {
+      flex: 1 1 100%;
+    }
+  }
+}
+
+// reader mode fades the sidebars; keep the top bar (and its search) visible
+:root[reader-mode="on"] .page > #quartz-body .sidebar.left {
+  opacity: 1;
+}
+
+// the right sidebar sits under the sticky bar instead of behind it
+.page > #quartz-body .sidebar.right {
+  @media all and ($desktop) {
+    top: $topBarHeight;
+    height: calc(100vh - #{$topBarHeight});
+    padding-top: 2rem;
+  }
+}
+
+.page > #quartz-body .page-header {
+  margin-top: 1.5rem;
+}
+
 // ---------------------------------------------------------------- tables
 // Class progression tables have many narrow numeric columns plus a long "Special" column:
 // smaller header text, tighter cells, and no forced 75px minimum so the text column gets the room.

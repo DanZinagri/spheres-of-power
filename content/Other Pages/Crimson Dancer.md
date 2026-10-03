@@ -54,8 +54,6 @@ The crimson dancer is a role adopted by the specialists of the force of life its
 | 19th | +19/+14/+9/+4 | +11 | +6 | +11 | Crimson Path (secret of soul) | +9 | 19 |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +12 | Autocautery +6, crimson path (realization) | +10 | 20 |
 
-[image: Crimson Dancer.png](http://spheresofpower.wikidot.com/local--files/crimson-dancer/Crimson%20Dancer.png)
-
 ## Weapon and Armor Proficiency
 
 A crimson dancer is proficient with all simple weapons, light armor, and bucklers. In addition, if this is this character’s first level in any class, she may select a martial tradition of her choice.

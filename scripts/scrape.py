@@ -250,17 +250,18 @@ class WikiConverter(MarkdownConverter):
             # links to pages that don't exist on the wiki ("red links") -> plain text
             if not parsed.netloc:
                 return text
+        if not text and el.find("img"):
+            return ""  # link around a dropped image (cover art, banners)
         if not href.startswith("http"):
             href = SITE + href
         return f"[{text}]({href})" if text else f"<{href}>"
 
-    # --- images
+    # --- images: only kept when downloaded with --images; otherwise dropped entirely
     def convert_img(self, el, text, *args, **kw):
         src = el.get("src", "")
-        alt = el.get("alt", "") or Path(urllib.parse.unquote(src)).name
         if src in self.images:
             return f"![[{self.images[src]}]]"
-        return f"[image: {urllib.parse.unquote(alt)}]({src})"
+        return ""
 
     # --- tables: keep cells single-line so the markdown table survives
     def convert_td(self, el, text, *args, **kw):

@@ -51,8 +51,6 @@ Soul weavers focus on controlling the powers of life and death. While they tend 
 | 19th | +9/+4 | +6 | +6 | +11 | Channel energy 10d6 | +19 | 19 |
 | 20th | +10/+5 | +6 | +6 | +12 | Gravewalker, nexus powers | +20 | 20 |
 
-[image: Soul Weaver.png](http://spheresofpower.wdfiles.com/local--files/soul-weaver/Soul%20Weaver.png)
-
 ## Weapon and Armor Proficiency
 
 A soul weaver is proficient with all simple weapons.

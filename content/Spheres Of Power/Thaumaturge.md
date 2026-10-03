@@ -51,8 +51,6 @@ The Thaumaturge is willing to go places most other casters wouldn’t dare to tr
 | 19th | +14/+9/+4 | +6 | +6 | +11 | Invocations | +19 | 9 |
 | 20th | +15/+10/+5 | +6 | +6 | +12 | Bonus feat, master invoker | +20 | 10 |
 
-[image: Thaumaturge.png](http://spheresofpower.wdfiles.com/local--files/thaumaturge/Thaumaturge.png)
-
 ## Weapon and Armor Training
 
 A thaumaturge is proficient with all simple weapons and light armor.

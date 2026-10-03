@@ -51,8 +51,6 @@ The mageknight is a warrior who mixes magic and blade in the heat of combat. Unl
 | 19th | +19/+14/+9/+4 | +11 | +6 | +11 | Spell critical | +9 | 9 |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +12 | Mystic combat, spellsword | +10 | 10 |
 
-[image: Mageknight.png](http://spheresofpower.wdfiles.com/local--files/mageknight/Mageknight.png)
-
 ## Weapon and Armor Proficiency
 
 A mageknight is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).

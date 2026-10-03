@@ -8,7 +8,6 @@ parent: "[[Diamond Recreational Studios]]"
 
 #### Diamond Classes: Peach Tree Oath
 
-[[image: DRS_Classes_PeachTreeOath.png](http://spheresofpower.wikidot.com/local--files/test-page/DRS_Classes_PeachTreeOath.png)](https://www.drivethrurpg.com/en/product/390940/diamond-classes-renowned-warrior-and-the-peach-tree-oath?affiliate_id=549120)
 **Diamond Classes: Renowned Warrior and Peach Tree Oath**
 *Pay What You Want*
 

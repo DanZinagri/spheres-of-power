@@ -51,8 +51,6 @@ Fey Adepts specialize in using illusion and the creation of partially-real shado
 | 19th | +9/+4 | +6 | +6 | +11 | Shadowmark (10d6, -4) | +19 | 19 |
 | 20th | +10/+5 | +6 | +6 | +12 | Feytouched, permanent illusion, truesight (5/day) | +20 | 20 |
 
-[image: Fey Adept.png](http://spheresofpower.wdfiles.com/local--files/fey-adept/Fey%20Adept.png)
-
 ## Weapon and Armor Proficiency
 
 A fey adept is proficient with all simple weapons.
