@@ -1,0 +1,11 @@
+# Pagefind full-text search index, built from the Quartz output:
+#   npx quartz build && npx pagefind
+site: public
+# Index only the page itself, not the sidebars, footer, or folder listings
+exclude_selectors:
+  - ".sidebar"
+  - "footer"
+  - ".breadcrumb-container"
+  - ".content-meta"
+  - ".page-listing"
+  - ".popover"

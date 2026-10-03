@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          Component: Component.PagefindSearch(),
           grow: true,
         },
         { Component: Component.Darkmode() },
@@ -43,7 +43,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -58,7 +57,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          Component: Component.PagefindSearch(),
           grow: true,
         },
         { Component: Component.Darkmode() },

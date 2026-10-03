@@ -82,6 +82,8 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: false,
+        // Pagefind handles search, so the index only needs titles/paths for the explorer
+        includeContent: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),

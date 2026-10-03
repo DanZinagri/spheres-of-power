@@ -28,6 +28,8 @@ interface Options {
   rssFullHtml: boolean
   rssSlug: string
   includeEmptyFiles: boolean
+  // full page text for the built-in Search; disable when using another search (e.g. Pagefind)
+  includeContent: boolean
 }
 
 const defaultOptions: Options = {
@@ -37,6 +39,7 @@ const defaultOptions: Options = {
   rssFullHtml: false,
   rssSlug: "index",
   includeEmptyFiles: true,
+  includeContent: true,
 }
 
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
@@ -145,6 +148,10 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           // for the RSS feed
           delete content.description
           delete content.date
+          if (!opts?.includeContent) {
+            content.content = ""
+            content.links = []
+          }
           return [slug, content]
         }),
       )

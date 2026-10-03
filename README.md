@@ -43,10 +43,15 @@ by default they are replaced with "Source: [Book](store link)" lines. `python sc
 
 ```bash
 npm ci
+npx quartz build
+npx pagefind
 npx quartz build --serve
 ```
 
-Then open http://localhost:8080.
+Then open http://localhost:8080. Search uses [Pagefind](https://pagefind.app) (Quartz's built-in search
+loads the full text of every page up front, which is too heavy for 2,600 pages), so `npx pagefind`
+must run after a build for search to work; its index lands in `public/pagefind/` and survives
+`--serve` rebuilds unless `public/` is cleaned.
 
 ## Publish to GitHub Pages
 
@@ -55,7 +60,7 @@ Then open http://localhost:8080.
 3. Set `BASE_URL` in `site.ts` to `<user>.github.io/<repo>` (or your custom domain).
 
 Every push to `main` rebuilds the site. Other hosts (Cloudflare Pages, Netlify, Vercel) work too:
-build command `npx quartz build`, output directory `public`. See https://quartz.jzhao.xyz/hosting.
+build command `npx quartz build && npx pagefind`, output directory `public`. See https://quartz.jzhao.xyz/hosting.
 
 ## Updating Quartz itself
 
