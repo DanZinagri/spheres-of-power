@@ -1624,19 +1624,19 @@ You may make a ghost strike that inflicts a 1d4 point penalty to the target’s 
 
 ---
 
-# [[Old Sphere-Focused Feats#Death|Old Death Feats]]
+# [[Sphere-Focused Feats#Death|Old Death Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Death Talents|Old Advanced Death Talents]]
+# [[Advanced Talents#Advanced Death Talents|Old Advanced Death Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Death|Old Death Drawbacks]]
+# [[Casting Traditions#Death|Old Death Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1644,35 +1644,35 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing In Death
 
-## -[[Old Bonewright]]
+## -[[Bonewright|Old Bonewright]]
 
 Bonewrights are Armorists who learn how to turn bones and corpses into weapons.
 
-## -[[Old Cursed Stranger]]
+## -[[Cursed Stranger (Gunslinger Archetype)|Old Cursed Stranger]]
 
 Cursed Strangers are Gunslingers who use cursed bullets that can debuff their foes.
 
-## -[[Old Dread Crusader]]
+## -[[Dread Crusader|Old Dread Crusader]]
 
 Dread Crusaders are Mageknights who use Cryptic Strikes to weaken their enemies.
 
-## -[[Old Famine Spirit]]
+## -[[Famine Spirit|Old Famine Spirit]]
 
 Famine Spirits are Shifters who use an increasingly-dangerous bite attack to infect their enemies.
 
-## -[[Old Gravecrawler]]
+## -[[Gravecrawler|Old Gravecrawler]]
 
 Gravecrawlers are Symbiats infested by worm-like aberrations who implant drones and use a variety of swarm-based powers.
 
-## -[[Old Jikininki (Ranger Archetype)|Old Jikininki]]
+## -[[Jikininki (Ranger Archetype)|Old Jikininki]]
 
 Jikininki are Rangers who can devour fallen enemies and gain increasingly powerful stealth abilities.
 
-## -[[Old Soul Adept]]
+## -[[Soul Adept|Old Soul Adept]]
 
 Soul Adepts are Elementalists who can transform into wraith-like forms and use Ghostly Admixtures to affect incorporeal creatures.
 
-## -[[Old Spectral Infiltrator]]
+## -[[Spectral Infiltrator (RogueU. Rogue Archetype)|Old Spectral Infiltrator]]
 
 Spectral Infiltrators are Rogues and Unchained Rogues that gain a selection of ghost-like powers, including the ability to turn incorporeal for a short time.
 

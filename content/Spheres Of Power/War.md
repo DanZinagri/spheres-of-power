@@ -1431,19 +1431,19 @@ All creatures within the area of this totem suffer a -1 penalty to saving throws
 
 ---
 
-# [[Old Sphere-Focused Feats#War|Old War Feats]]
+# [[Sphere-Focused Feats#War|Old War Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced War Talents|Old Advanced War Talents]]
+# [[Advanced Talents#Advanced War Talents|Old Advanced War Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#War|Old War Drawbacks]]
+# [[Casting Traditions#War|Old War Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1451,35 +1451,35 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in War
 
-## -[[Old Combat Engineer]]
+## -[[Combat Engineer (Alchemist Archetype)|Old Combat Engineer]]
 
 The Combat Engineer is an archetype for the Alchemist that focuses on creating Devices that enhance their abilities with the War sphere.
 
-## -[[Old Dark Presence]]
+## -[[Dark Presence|Old Dark Presence]]
 
 The Dark Presence is an archetype for the [[Eliciter]] that focuses on disabling enemies through the use of negative emotions.
 
-## -[[Old Divine Heretic]]
+## -[[Divine Heretic (Warpriest Archetype)|Old Divine Heretic]]
 
 The Divine Heretic is an archetype for the Warpriest that takes them away from their deity and focuses more on war as a whole.
 
-## -[[Old Ghost Sovereign]]
+## -[[Ghost Sovereign|Old Ghost Sovereign]]
 
 The Ghost Sovereign is an archetype for the [[Soul Weaver]] that allows them to command a court of undead followers - and eventually rule their very own twilight kingdom.
 
-## -[[Old Iron Mage]]
+## -[[Iron Mage|Old Iron Mage]]
 
 The Iron Mage is an archetype for the [[Hedgewitch]] that focuses on martial combat and assisting their allies.
 
-## -[[Old War Hero]]
+## -[[War Hero (Fighter Archetype)|Old War Hero]]
 
 The War Hero is an archetype for the Fighter that allows them to call forth beneficial auras when they ascend to greatness.
 
-## -[[Old Wardmage]]
+## -[[Wardmage|Old Wardmage]]
 
 The Wardmage is an archetype for the [[Mageknight]] that focuses on protecting their allies with various supernatural abilities.
 
-## -[[Old Warmonger]]
+## -[[Warmonger|Old Warmonger]]
 
 The Warmonger is an archetype for the [[Symbiat]] that focuses on battle and using their psionic abilities during conflicts.
 

@@ -1262,23 +1262,23 @@ Races that count as multiple other races, such as half elves counting as both el
 
 # Archetypes
 
-## -[[Old Collective]] [CS]
+## -[[Collective|Old Collective]] [CS]
 
 Collectives are champions who use the [[Leadership]] sphere and generate a hive mind.
 
-## -[[Old Draugr]] [CS]
+## -[[Draugr|Old Draugr]] [CS]
 
 The Draugr is a champion that learns to use rage and martial techniques to augment their magical force.
 
-## -[[Old Mistshade]]
+## -[[Mistshade|Old Mistshade]]
 
 The Mistshade turns into mist instead of a wraith, obscuring themselves from enemies and improving their flight.
 
-## -[[Old Swarmheart]]
+## -[[Swarmheart|Old Swarmheart]]
 
 The Swarmheart transforms into a swarm of vermin instead of a wraith, filling up more space and crawling all over their enemies.
 
-## -[[Old Unbodied]]
+## -[[Unbodied|Old Unbodied]]
 
 The Unbodied is permanently locked into their Wraith Form, and must spend a great deal of time possessing creatures or objects to safeguard themselves.
 

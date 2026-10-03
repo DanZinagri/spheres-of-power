@@ -876,19 +876,19 @@ By connecting the target to versions of themselves that exist in alternate timel
 
 ---
 
-# [[Old Sphere-Focused Feats#Time|Old Time Feats]]
+# [[Sphere-Focused Feats#Time|Old Time Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Time Talents|Old Advanced Time Talents]]
+# [[Advanced Talents#Advanced Time Talents|Old Advanced Time Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Time|Old Time Drawbacks]]
+# [[Casting Traditions#Time|Old Time Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -896,7 +896,7 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing In Time
 
-## -[[Old Chronomancer]]
+## -[[Chronomancer|Old Chronomancer]]
 
 Chronomancers are Symbiats who gain psionic control over time and space.
 
@@ -908,7 +908,7 @@ Clockstoppers are Gunslingers who hasten and slow time to improve their skills.
 
 Epoch-Walkers are Soulknives who add temporal energy to their mind blades.
 
-## -[[Old Fracture]]
+## -[[Fracture (Fighter Archetype)|Old Fracture]]
 
 Fractures are Fighters who have learned to move in and out of time to react faster than anyone believed possible.
 
@@ -924,11 +924,11 @@ Temporal Trappers are Rangers who learn to set time-altering traps on the battle
 
 Time Knights are Paladins who protect the timestream from evil forces that would disrupt it.
 
-## -[[Old Time Stalker]]
+## -[[Time Stalker (Slayer Archetype)|Old Time Stalker]]
 
 Time Stalkers are Slayers who eventually learn how to negate the negative effects of time magic.
 
-## -[[Old Time Thief]]
+## -[[Time Thief (RogueUnchained Rogue Archetype)|Old Time Thief]]
 
 Time Thieves are Rogues who have learned how to steal time itself from their opponents and render them unable to act.
 

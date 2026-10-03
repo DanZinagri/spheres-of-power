@@ -1064,25 +1064,25 @@ As a swift action you can use your telekinesis to ready yourself for any given s
 
 ---
 
-# [[Old Sphere-Focused Feats#Telekinesis|Old Telekinesis Feats]]
+# [[Sphere-Focused Feats#Telekinesis|Old Telekinesis Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Protokinesis Feats]]
+# [[Protokinesis Feats|Old Protokinesis Feats]]
 
 Click the header above to visit the Protokinesis Feats page. This section includes feats that offer additional uses for telekinetic powers. These feats generally require having the Telekinesis sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Telekinesis Talents|Old Advanced Telekinesis Talents]]
+# [[Advanced Talents#Advanced Telekinesis Talents|Old Advanced Telekinesis Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Telekinesis|Old Telekinesis Drawbacks]]
+# [[Casting Traditions#Telekinesis|Old Telekinesis Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1090,23 +1090,23 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in Telekinesis
 
-## -[[Old Electrokinetic]]
+## -[[Electrokinetic|Old Electrokinetic]]
 
 The Electrokinetic is an archetype for the Elementalist that specializes in using electricity with Destructive Blasts and Telekinesis on metal objects.
 
-## -[[Old Hekatonkheires]]
+## -[[Hekatonkheires|Old Hekatonkheires]]
 
 The Hekatonkheires is an archetype for the Symbiat that creates an immense number of mind limbs that can be used for various purposes.
 
-## -[[Old Soaring Blade]]
+## -[[Soaring Blade|Old Soaring Blade]]
 
 The Soaring Blade is an archetype for the Armorist that focuses on levitating weapons throughout the battlefield.
 
-## -[[Old Telekinetic Warrior]]
+## -[[Telekinetic Warrior|Old Telekinetic Warrior]]
 
 The Telekinetic Warrior is an archetype for the Symbiat that focuses on improving its use of Bludgeons.
 
-## -[[Old Unseen Horror]]
+## -[[Unseen Horror|Old Unseen Horror]]
 
 The Unseen Horror is an archetype for the Thaumaturge that summons forth an invisible, mindless entity to perform tasks for them.
 

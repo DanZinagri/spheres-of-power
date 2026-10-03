@@ -1277,15 +1277,15 @@ Gain a +1/2 bonus to all concentration checks.
 
 # Archetypes
 
-## -[[Old Mage]]
+## -[[Mage|Old Mage]]
 
 Appearing in Worlds of Power, the Mage gains a selection of Guild powers and a robust education in magic that helps to enhance their talents.
 
-## -[[Old Reincarnated Master]]
+## -[[Reincarnated Master|Old Reincarnated Master]]
 
 The Reincarnated Master is a druid-like individual with the ability to overcome death better than most. In addition to its other powers, this archetype was also designed to serve as a sample for how archetypes from other classes could be converted to archetypes for the Incanter in home games.
 
-## -[[Old Warlock]]
+## -[[Warlock|Old Warlock]]
 
 The Warlock gains fewer magic talents than the normal Incanter, exchanging them for a familiar and access to a patron that can drastically increase their abilities.
 

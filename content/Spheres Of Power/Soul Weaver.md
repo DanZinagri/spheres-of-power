@@ -1016,27 +1016,27 @@ The soul weaver heals an additional 1 point of damage to himself when using his 
 
 # Archetypes
 
-## -[[Old Dual Channeler]]
+## -[[Dual Channeler|Old Dual Channeler]]
 
 The Dual Channeler is a master of the Channel Energy ability, able to both heal and harm the creatures around them.
 
-## -[[Old Ghost Sovereign]]
+## -[[Ghost Sovereign|Old Ghost Sovereign]]
 
 The Ghost Sovereign is a true lord of the dead, eventually becoming the ruler of their own small realm.
 
-## -[[Old Lichling]]
+## -[[Lichling|Old Lichling]]
 
 The Lichling is a Soul Weaver who moves closer and closer to undeath, eventually gaining many of its strengths.
 
-## -[[Old Pharmakon]]
+## -[[Pharmakon|Old Pharmakon]]
 
 The Pharmakon trades their Blessings and Blights for more talent with the [[Life]] sphere.
 
-## -[[Old Shaman]]
+## -[[Shaman|Old Shaman]]
 
 Found in Worlds of Power, the Shaman is a Wisdom-based Soul Weaver that focuses on summoning various kinds of spirits to aid them.
 
-## -[[Old Totemist]]
+## -[[Totemist|Old Totemist]]
 
 The Totemist is a Soul Weaver who strives towards balance, healing or harming creatures towards a middle ground and marking creatures with symbols that can provide useful boons.
 

@@ -1086,19 +1086,19 @@ You may spend a spell point to slow blood flow, staggering the target for the du
 
 ---
 
-# [[Old Sphere-Focused Feats#Blood|Old Blood Feats]]
+# [[Sphere-Focused Feats#Blood|Old Blood Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Blood Talents|Old Advanced Blood Talents]]
+# [[Advanced Talents#Advanced Blood Talents|Old Advanced Blood Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Blood|Old Blood Drawbacks]]
+# [[Casting Traditions#Blood|Old Blood Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1106,15 +1106,15 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in Blood
 
-## -[[Old Bloodscarred]]
+## -[[Bloodscarred|Old Bloodscarred]]
 
 The Bloodscarred is an archetype for the Symbiat offering a variety of vampiric powers.
 
-## -[[Old Hemophage]] [CS]
+## -[[Hemophage (Bloodrager Archetype)|Old Hemophage]] [CS]
 
 The Hemophage is an archetype for the Bloodrager that can gain bloodline powers by consuming them from enemies.
 
-## -[[Old Hemetic Philosopher]]
+## -[[Hemetic Philosopher (Alchemist Archetype)|Old Hemetic Philosopher]]
 
 The Hemetic Philosopher is an archetype for the Alchemist that uses blood to create potions.
 

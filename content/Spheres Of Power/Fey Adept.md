@@ -914,31 +914,31 @@ Increase the duration of the Shadowmark’s penalty by 1 round.
 
 # Archetypes
 
-## -[[Old Seelie Disciple]]
+## -[[Seelie Disciple|Old Seelie Disciple]]
 
 The Seelie Disciple trades some of their affinity for stealth and darkness for more capability with bardic performances.
 
-## -[[Old Sidhe Invoker]]
+## -[[Sidhe Invoker|Old Sidhe Invoker]]
 
 Sidhe Invokers manipulate the plane of Faerie instead of Shadowstuff.
 
-## -[[Old Skulk]]
+## -[[Skulk|Old Skulk]]
 
 The Skulk loses some of their power over illusions, but gains control of the [[Dark]] sphere, including the ability to steal a target's shadow and mimic their powers.
 
-## -[[Old Solipsist]]
+## -[[Solipsist|Old Solipsist]]
 
 Solipsists use intelligence instead of charm to understand the nature of reality - and adjust it to their will.
 
-## -[[Old Unseelie Disciple]]
+## -[[Unseelie Disciple|Old Unseelie Disciple]]
 
 The Unseelie Disciple loses their shadowy powers and ability to create reality, but in return gains many of the capabilities of rogues.
 
-## -[[Old Word Witch]]
+## -[[Word Witch|Old Word Witch]]
 
 Word Witches use the magic of [[Creation]] to bring powerful effects into the world.
 
-## -[[Old Wunderkind]]
+## -[[Wunderkind|Old Wunderkind]]
 
 The Wunderkind is essentially a complete change to the Fey Adept's abilities, making it closer to an alternate class than an archetype. Their abilities focus on the manipulation of emotions and illusions.
 

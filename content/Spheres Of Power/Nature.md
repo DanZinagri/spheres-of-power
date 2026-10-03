@@ -2124,19 +2124,19 @@ All creatures within the affected area are pushed as if by a Bull Rush combat ma
 
 ---
 
-# [[Old Sphere-Focused Feats#Nature|Old Nature Feats]]
+# [[Sphere-Focused Feats#Nature|Old Nature Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Nature Talents|Old Advanced Nature Talents]]
+# [[Advanced Talents#Advanced Nature Talents|Old Advanced Nature Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Nature|Old Nature Drawbacks]]
+# [[Casting Traditions#Nature|Old Nature Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -2144,27 +2144,27 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in Nature
 
-## -[[Old Archaic Alchemist]]
+## -[[Archaic Alchemist (Alchemist Archetype)|Old Archaic Alchemist]]
 
 The Archaic Alchemist is an Alchemist who has learned to use the Spheres in place of their normal alchemical abilities.
 
-## -[[Old Geomancer]]
+## -[[Geomancer|Old Geomancer]]
 
 The Geomancer is an [[Elementalist]] who trades their focus on Destruction for Nature.
 
-## -[[Old Geosurveyor]]
+## -[[Geosurveyor (Ranger Archetype)|Old Geosurveyor]]
 
 The Geosurveyor is a Ranger who specializes in controlling nature and using it to their advantage.
 
-## -[[Old Totemist]]
+## -[[Totemist|Old Totemist]]
 
 The Totemist is a [[Soul Weaver]] who channels things toward a balance and can call upon the spirits of nature to aid their allies.
 
-## -[[Old Warden]]
+## -[[Warden|Old Warden]]
 
 The Warden is an [[Armorist]] who has a closer connection to Nature than most and has a particular affinity for Spirit talents.
 
-## -[[Old Yamabushi]]
+## -[[Yamabushi (Unchained Monk Archetype)|Old Yamabushi]]
 
 The Yamabushi is an Unchained Monk who gains a small number of talents, emphasizing one particular type of connection to nature.
 

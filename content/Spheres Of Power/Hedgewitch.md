@@ -2213,27 +2213,27 @@ Choose a tradition power usable a number of times per day equal to 3 + 1/2 the h
 
 # Archetypes
 
-## -[[Old Dendrite]]
+## -[[Dendrite|Old Dendrite]]
 
 An Archetype from Worlds of Power, the Dendrite is a rare class that can use Constitution for its Casting Ability Modifier, and uses the Green Magic and Herbology traditions for a very druidic feel.
 
-## -[[Old Dragonblooded Mortal]]
+## -[[Dragonblooded Mortal|Old Dragonblooded Mortal]]
 
 With the blood of some of the fiercest creatures running through their veins, Dragonblooded Mortals use claws, teeth, and breath weapons to overcome their foes.
 
-## -[[Old Entropic Sage]]
+## -[[Entropic Sage|Old Entropic Sage]]
 
 The Entropic Sage is focused on the end of things, and has mastered the art of infusing their fists with destructive energy.
 
-## -[[Old Iron Mage]]
+## -[[Iron Mage|Old Iron Mage]]
 
 The Iron Mage is an expert in the use of the [[War]] sphere, and has a number of Commands they can use to enhance its effects.
 
-## -[[Old Martial Hedgewitch]] [CS]
+## -[[Martial Hedgewitch|Old Martial Hedgewitch]] [CS]
 
 The Martial Hedgewitch is more capable of combat than most of their peers.
 
-## -[[Old Triple Goddess]]
+## -[[Triple Goddess|Old Triple Goddess]]
 
 The Triple Goddess focuses on using the powers of [[Life]], [[Death]], and [[Fate]] to overcome their problems, culminating in the ability to outright end the lives of their foes.
 

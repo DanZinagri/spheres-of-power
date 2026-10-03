@@ -488,43 +488,43 @@ All destructive blasts deal an additional +1/4 negative energy damage. This extr
 
 # Archetypes
 
-## -[[Old Admixture Savant]]
+## -[[Admixture Savant|Old Admixture Savant]]
 
 The Admixture Savant is an expert in the use of the Admixture ability from the [[Destruction]] sphere, with class abilities that allow them to use it more effectively than others.
 
-## -[[Old Arcanophage]]
+## -[[Arcanophage|Old Arcanophage]]
 
 The Arcanophage specializes in mimicking the powers they've seen - but the more they imitate, the higher the chance of triggering [[Wild Magic]] becomes!
 
-## -[[Old Earth Warrior]]
+## -[[Earth Warrior|Old Earth Warrior]]
 
 The Earth Warrior loses some of the Elementalist's versatility to focus on the use of Stone Blasts from the [[Destruction]] sphere and the Earth package from the [[Nature]] sphere.
 
-## -[[Old Electrokinetic]]
+## -[[Electrokinetic|Old Electrokinetic]]
 
 The Electrokinetic specializes in the use of electric abilities and the [[Telekinesis]] sphere, gaining a selection of special stunts to help them make the most of their abilities.
 
-## -[[Old Flame Warrior]]
+## -[[Flame Warrior|Old Flame Warrior]]
 
 The Flame Warrior loses some of the Elementalist's versatility to focus on the use of Fire Blasts from the [[Destruction]] sphere and the Fire package from the [[Nature]] sphere.
 
-## -[[Old Geomancer]]
+## -[[Geomancer|Old Geomancer]]
 
 The Geomancer is a generalist archetype that switches some of the Elementalist's focus on [[Destruction]] for broader ability with the [[Nature]] sphere.
 
-## -[[Old Soul Adept]]
+## -[[Soul Adept|Old Soul Adept]]
 
 Soul Adepts use the [[Death]] sphere to gain greater power over spirits.
 
-## -[[Old Twinsoul Elementalist]]
+## -[[Twinsoul Elementalist|Old Twinsoul Elementalist]]
 
 The Twinsoul Elementalist uses the [[Conjuration]] sphere to summon a splinter of themselves that can channel their power.
 
-## -[[Old Water Warrior]]
+## -[[Water Warrior|Old Water Warrior]]
 
 The Water Warrior loses some of the Elementalist's versatility to focus on the use of Frost Blasts from the [[Destruction]] sphere and the Water package from the [[Nature]] sphere.
 
-## -[[Old Wind Warrior]]
+## -[[Wind Warrior|Old Wind Warrior]]
 
 The Wind Warrior loses some of the Elementalist's versatility to focus on the use of Air Blasts from the [[Destruction]] sphere. Unlike the other three Warrior archetypes, the Wind Warrior does not gain added ability with the [[Nature]] sphere, and instead gains improved ability to make Bull Rushes with their Air Blasts.
 

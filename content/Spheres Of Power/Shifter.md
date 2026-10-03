@@ -1220,55 +1220,55 @@ Deal an additional +1/2 damage when attacking targets the shifter is flanking, o
 
 # Archetypes
 
-## -[[Old Apex Shifter]]
+## -[[Apex Shifter|Old Apex Shifter]]
 
 The Apex Shifter is a master of changing into different forms.
 
-## -[[Old Beastlord]]
+## -[[Beastlord|Old Beastlord]]
 
 The Beastlord specializes in controlling animals, vermin, and magical beasts with the [[Mind]] sphere.
 
-## -[[Old Beastmind]]
+## -[[Beastmind|Old Beastmind]]
 
 The Beastmind focuses their transformations inward as well, gaining defenses against mind-affecting powers and improved Wisdom as their powers develop.
 
-## -[[Old Dimension Shifter]]
+## -[[Dimension Shifter|Old Dimension Shifter]]
 
 Dimension Shifters use the [[Warp]] sphere to blink through reality and move through solid objects.
 
-## -[[Old Elemental Scion]]
+## -[[Elemental Scion|Old Elemental Scion]]
 
 The Elemental Scion is an expert in the use of the Elemental Transformation talent of the [[Alteration]] sphere, and gains added strength with Destructive Blasts of the [[Destruction]] sphere when their type matches.
 
-## -[[Old Famine Spirit]]
+## -[[Famine Spirit|Old Famine Spirit]]
 
 Famine Spirits use the power of the [[Death]] sphere while attempting to sate their hunger.
 
-## -[[Old Fey Incarnate]]
+## -[[Fey Incarnate|Old Fey Incarnate]]
 
 Fey Incarnates are masters of the [[Alteration]] and [[Fallen Fey]] spheres and use Charisma as their casting ability modifier.
 
-## -[[Old Martial Shifter]] [CS]
+## -[[Martial Shifter|Old Martial Shifter]] [CS]
 
 The Martial Shifter is more adept at combat techniques than most of their peers.
 
-## -[[Old Nocturnal Predator]]
+## -[[Nocturnal Predator|Old Nocturnal Predator]]
 
 The Nocturnal Predator uses their mastery of the [[Dark]] sphere to take foes down without being seen.
 
-## -[[Old Pack Master]]
+## -[[Pack Master|Old Pack Master]]
 
 The Pack Master is the leader of a larger group of creatures, and can gain a significant number of allies that can help them overcome challenges.
 
-## -[[Old Protean]]
+## -[[Protean|Old Protean]]
 
 The Protean is a chaotic shifter, with so much diversity in their form that they can even access transformation talents they don't know.
 
-## -[[Old Radiant Protean]]
+## -[[Radiant Protean|Old Radiant Protean]]
 
 The Radiant Protean has a particular affinity for the [[Light]] sphere, and can improve their stealth or intimidate their foes with new traits.
 
-## -[[Old Warshifter]]
+## -[[Warshifter|Old Warshifter]]
 
 The Warshifter is an expert in the use of martial traditions from Dreamscarred Press' Path of War series, mixing them in with their shapeshifting talents for potent results.
 

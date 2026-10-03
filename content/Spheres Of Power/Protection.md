@@ -1292,19 +1292,19 @@ You may also spend 2 spell points instead of 1 to create an aegis that grants th
 
 ---
 
-# [[Old Sphere-Focused Feats#Protection|Old Protection Feats]]
+# [[Sphere-Focused Feats#Protection|Old Protection Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Protection Talents|Old Advanced Protection Talents]]
+# [[Advanced Talents#Advanced Protection Talents|Old Advanced Protection Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Protection|Old Protection Drawbacks]]
+# [[Casting Traditions#Protection|Old Protection Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1312,23 +1312,23 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing In Protection
 
-## -[[Old Faithful Shepherd]]
+## -[[Faithful Shepherd (Cleric Archetype)|Old Faithful Shepherd]]
 
 The Faithful Shepherd is an archetype for the Cleric that focuses on a variety of Divine Works for protecting others and rallying them to a cause.
 
-## -[[Old Impossible Warrior]]
+## -[[Impossible Warrior (Fighter Archetype)|Old Impossible Warrior]]
 
 The Impossible Warrior is a Fighter who specializes in negating various types of magical abilities.
 
-## -[[Old Living Weapon]]
+## -[[Living Weapon|Old Living Weapon]]
 
 The Living Weapon is an [[Armorist]] who focuses on conjuring pure magic for defense, rather than armor or other physical gear.
 
-## -[[Old Marshal Controller]]
+## -[[Marshal Controller|Old Marshal Controller]]
 
 The Marshal Controller is a [[Mageknight]] who also uses [[Spheres Of Might|Spheres of Might]] to create zones imposing rules of their choosing.
 
-## -[[Old Shield Of The Gods|Old Shield of the Gods]]
+## -[[Shield Of The Gods (Inquisitor Archetype)|Old Shield of the Gods]]
 
 The Shield of the Gods is an Inquisitor who is especially good at using the Protection sphere to shield themselves from harm.
 

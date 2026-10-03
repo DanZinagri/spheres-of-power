@@ -1342,15 +1342,15 @@ The following rules and guidelines cover the use and creation of magic items thr
 
 See the following pages for specific examples of items:
 
-- [[Old Alchemical Items]]
-- [[Old Apparatuses]]
-- [[Old Charms]]
+- [[Alchemical Items|Old Alchemical Items]]
+- [[Apparatuses Rods (ConstantAt-Will Items)|Old Apparatuses]]
+- [[Charms Rings (Constant Bonus Items)|Old Charms]]
 - [[Old Compounds]]
-- [[Old Implements]]
-- [[Old Marvelous Items]]
-- [[Old Scrolls]]
-- [[Old Spell Engines]]
-- [[Old Summoning Orbs]]
+- [[Implements Staves (Caster LevelTalent Access)|Old Implements]]
+- [[Marvelous Items Wondrous Items|Old Marvelous Items]]
+- [[Scrolls|Old Scrolls]]
+- [[Spell Engines Wands|Old Spell Engines]]
+- [[Summoning Orbs|Old Summoning Orbs]]
 
 # Using Magic Items
 

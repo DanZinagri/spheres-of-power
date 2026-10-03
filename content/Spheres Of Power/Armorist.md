@@ -1264,63 +1264,63 @@ Deal +1/2 bonus damage when sundering objects or equipment with a bonded weapon.
 
 # Archetypes
 
-## -[[Old Blaster]]
+## -[[Blaster|Old Blaster]]
 
 The Blaster specializes in the use of an Arm Cannon, which allows them to mix the powers of the [[Destruction]] sphere with other abilities relating to ranged attacks.
 
-## -[[Old Bonewright]]
+## -[[Bonewright|Old Bonewright]]
 
 Bonewrights use the [[Death]] sphere to shape bodies and bones into weapons.
 
-## -[[Old Darkshaper]]
+## -[[Darkshaper|Old Darkshaper]]
 
 The Darkshaper manipulates their shadow instead of calling up arms and armor, morphing it to suit their needs.
 
-## -[[Old Inventioneer]] [CS]
+## -[[Inventioneer|Old Inventioneer]] [CS]
 
 Inventioneers specialize in creating technician inventions.
 
-## -[[Old Lingchi Warrior]]
+## -[[Lingchi Warrior|Old Lingchi Warrior]]
 
 Lingchi Warriors specializing in creating a wide variety of armaments.
 
-## -[[Old Living Weapon]]
+## -[[Living Weapon|Old Living Weapon]]
 
 Living Weapons protect themselves with magic instead of armor, treating the conjurations as magical equipment they can customize with their abilities.
 
-## -[[Old Martial Armorist]] [CS]
+## -[[Martial Armorist|Old Martial Armorist]] [CS]
 
 The Martial Armorist blends magic and martial power together to create a more uniquely capable combatant.
 
-## -[[Old Soaring Blade]]
+## -[[Soaring Blade|Old Soaring Blade]]
 
 The Soaring Blade focuses on using the [[Telekinesis]] sphere to lift their weapons and attack their foes from afar.
 
-## -[[Old Spirit Blade]] [CS]
+## -[[Spirit Blade|Old Spirit Blade]] [CS]
 
 The Spirit Blade can become a weapon, allowing themselves to be wielded by others.
 
-## -[[Old Symbiotic Knight]]
+## -[[Symbiotic Knight|Old Symbiotic Knight]]
 
 The Symbiotic Knight forms a partnership with a Symbiote, an unusual creature that can change its form to better suit the defensive needs of its partner.
 
-## -[[Old Vajrahasta]] [CS]
+## -[[Vajrahasta|Old Vajrahasta]] [CS]
 
 Vajrahasta summon weapons of lightning to impale their foes and use the [[Weather]] sphere to create shrouds of power.
 
-## -[[Old Void Wielder]]
+## -[[Void Wielder|Old Void Wielder]]
 
 The Void Wielder summons a terrifying blade that can trap part of the souls of foes, then call them forth with the powers of [[Conjuration]].
 
-## -[[Old Warden]]
+## -[[Warden|Old Warden]]
 
 The Warden is an Armorist with an affinity for spirit magic from the [[Nature]] sphere, and generally avoid metal armor in favor of more natural materials.
 
-## -[[Old Warleader]]
+## -[[Warleader|Old Warleader]]
 
 The Warleader is a mounted combatant who excels at learning (and allowing others to use) Teamwork feats.
 
-## -[[Old Whitesmith]]
+## -[[Whitesmith|Old Whitesmith]]
 
 The Whitesmith is an Armorist that specializes in the [[Enhancement]] sphere and has the skills needed to keep the entire team's gear in good working order.
 

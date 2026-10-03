@@ -1907,19 +1907,19 @@ You may change the damage type of your destructive blast to sonic. Targets who t
 
 ---
 
-# [[Old Sphere-Focused Feats#Destruction|Old Destruction Feats]]
+# [[Sphere-Focused Feats#Destruction|Old Destruction Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Destruction Talents|Old Advanced Destruction Talents]]
+# [[Advanced Talents#Advanced Destruction Talents|Old Advanced Destruction Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Destruction|Old Destruction Drawbacks]]
+# [[Casting Traditions#Destruction|Old Destruction Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -2019,35 +2019,35 @@ Some effects, especially those that deny standard actions such as nauseated, daz
 
 # Archetypes Specializing in Destruction
 
-## -[[Old Admixture Savant]]
+## -[[Admixture Savant|Old Admixture Savant]]
 
 The Admixture Savant is an [[Elementalist]] that specializes in the use of the Admixture talent, gaining new abilities to maximize their use of this power.
 
-## -[[Old Blaster]]
+## -[[Blaster|Old Blaster]]
 
 The Blaster is an [[Armorist]] that gains the use of a powerful arm cannon that can make destructive blasts.
 
-## -[[Old Doomblade]]
+## -[[Doomblade|Old Doomblade]]
 
 The Doomblade is a [[Mageknight]] that transforms their destructive blasts into a weapon they can wield.
 
-## -[[Old Elemental Scion]]
+## -[[Elemental Scion|Old Elemental Scion]]
 
 The Elemental Scion is a [[Shifter]] with added skill at elemental transformations and destructive blasts that match their element.
 
-## -[[Old Entropic Sage]]
+## -[[Entropic Sage|Old Entropic Sage]]
 
 The Entropic Sage is a [[Hedgewitch]] that focuses on using the Energy Blade talent to overcome their foes.
 
-## -[[Old Kinetic Scourge]]
+## -[[Kinetic Scourge|Old Kinetic Scourge]]
 
 The Kinetic Scourge is a [[Mageknight]] that can use the Energy Tether talent in a variety of creative - and destructive - ways.
 
-## -[[Old Soulfire Master]]
+## -[[Soulfire Master|Old Soulfire Master]]
 
 The Soulfire Master is a [[Thaumaturge]] that can burn through their vitality to improve and empower their spells.
 
-## -[[Old Wandslinger]]
+## -[[Wandslinger (Gunslinger Archetype)|Old Wandslinger]]
 
 The Wandslinger is a Gunslinger that can create and use wands keyed to the Destruction sphere.
 

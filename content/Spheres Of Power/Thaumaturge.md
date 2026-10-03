@@ -677,47 +677,47 @@ Increase the duration of the Lingering Pain Invocation by 1/4th of a round.
 
 # Archetypes
 
-## -[[Old Devourer]]
+## -[[Devourer|Old Devourer]]
 
 A devourer has a higher chance of a backlash from using their Forbidden Lore skill during normal times, but can use it with no chance of backlash at all after they steal some of a foe's energy.
 
-## -[[Old Eldritch Cultist]]
+## -[[Eldritch Cultist|Old Eldritch Cultist]]
 
 The Eldritch Cultist has no chance of losing their magic, but may become confused as their minds tap into dangerous knowledge. They also gain some talent with [[Divination]] to help them understand more of the world around them.
 
-## -[[Old Experimentalist]]
+## -[[Experimentalist|Old Experimentalist]]
 
 The experimentalist exchanges their forbidden knowledge for the secrets of alchemy, as well as the ability to gain power from consuming parts of other creatures. (Alternate options are available for those concerned about the morality of this.)
 
-## -[[Old Knight Of Willpower|Old Knight of Willpower]]
+## -[[Knight Of Willpower|Old Knight of Willpower]]
 
 Knights of Willpower focus on creating items through sheer force of will, and are particularly specialized in the [[Creation]], [[Light]], and [[Telekinesis]] spheres.
 
-## -[[Old Pactmage]]
+## -[[Pactmage|Old Pactmage]]
 
 The Pactmage has a partnership with some kind of outsider, which grants them unique invocations in return for the loss of their occult knowledge.
 
-## -[[Old Pact Master]]
+## -[[Pact Master|Old Pact Master]]
 
 The Pact Master trades most of their casting power for the ability to call and control extraplanar creatures.
 
-## -[[Old Savant]] [Core]
+## -[[Savant (Thaumaturge Archetype)|Old Savant]] [Core]
 
 The Savant is a martial practitioner that trades their casting abilities for a more direct way of harming their foes.
 
-## -[[Old Soulfire Master]]
+## -[[Soulfire Master|Old Soulfire Master]]
 
 The Soulfire Master accepts damage to their vitality to ensure their spells finish correctly, eventually growing more adept at doing so.
 
-## -[[Old Unseen Horror]]
+## -[[Unseen Horror|Old Unseen Horror]]
 
 The Unseen Horror is the master of a lurking force that hovers around them, and they can eventually learn to improve its powers so it can help them in new ways.
 
-## -[[Old Void Gazer]]
+## -[[Void Gazer|Old Void Gazer]]
 
 The Void Gazer gains mastery of the [[Dark]] sphere, though at the cost of some of their sight.
 
-## -[[Old Wild Mage]]
+## -[[Wild Mage|Old Wild Mage]]
 
 The Wild Mage realizes that raw magic is difficult to control without risk - so they throw caution to the wind in return for pure power.
 

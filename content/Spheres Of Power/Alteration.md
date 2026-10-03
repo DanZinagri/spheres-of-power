@@ -1909,19 +1909,19 @@ In addition, you may grant the following traits to your forms:
 
 ---
 
-# [[Old Sphere-Focused Feats#Alteration|Old Alteration Feats]]
+# [[Sphere-Focused Feats#Alteration|Old Alteration Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Alteration Talents|Old Advanced Alteration Talents]]
+# [[Advanced Talents#Advanced Alteration Talents|Old Advanced Alteration Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Alteration|Old Alteration Drawbacks]]
+# [[Casting Traditions#Alteration|Old Alteration Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1929,27 +1929,27 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in Alteration
 
-## -[[Old Apex Shifter]]
+## -[[Apex Shifter|Old Apex Shifter]]
 
 The Apex Shifter is a Shifter who specializes in changing into different forms using the Alteration sphere.
 
-## -[[Old Beastsoul Monk]]
+## -[[Beastsoul Monk (NormalUnchained Monk Archetype)|Old Beastsoul Monk]]
 
 The Beastsoul Monk is an archetype for the Monk that focuses on a more primal transformation style. While not actually a caster, they gain the Transformation feat, the ability to flurry with natural attacks, and the ability to use their ki to power their transformations. It is compatible with both the standard and unchained versions of the Monk.
 
-## -[[Old Experimentalist]]
+## -[[Experimentalist|Old Experimentalist]]
 
 The Experimentalist is an archetype for the Thaumaturge that focuses on creating alchemic brews and harvesting parts of dead creatures for power. For those bothered by this flavor but interested in the power, the archetype also includes suggestions on a less cannibalistic setup.
 
-## -[[Old Protean]]
+## -[[Protean|Old Protean]]
 
 The Protean is an archetype for the Shifter, built around a power that lets it access transformation talents the user hasn't learned. Unsurprisingly, it's best for chaos-aligned characters.
 
-## -[[Old Resizer]]
+## -[[Resizer|Old Resizer]]
 
 The Resizer is an archetype for the Mageknight that focuses on growing and shrinking at-will. While somewhat limited at first, this ability quickly becomes flexible enough to let the Resizer adjust to changing situations.
 
-## -[[Old Warshifter]]
+## -[[Warshifter|Old Warshifter]]
 
 The Warshifter is an archetype for the Shifter that makes use of the Path of War rules (from Dreamscarred Press), and is the first class to combine Spherecasting and Martial Traditions. They are notably less capable at transforming than other Shifters (although Warshifters are still better than non-Shifters at using this Sphere), but have the added utility of martial powers to make up for it.
 

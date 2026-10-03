@@ -1601,19 +1601,19 @@ You may spend a spell point to gain a sense that grants you a bonus equal to 1/2
 
 ---
 
-# [[Old Sphere-Focused Feats|Old Divination Feats]]
+# [[Sphere-Focused Feats|Old Divination Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Divination Talents|Old Advanced Divination Talents]]
+# [[Advanced Talents#Advanced Divination Talents|Old Advanced Divination Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Divination|Old Divination Drawbacks]]
+# [[Casting Traditions#Divination|Old Divination Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1621,23 +1621,23 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in Divination
 
-## -[[Old Blind Swordsman]]
+## -[[Blind Swordsman (Samurai Archetype)|Old Blind Swordsman]]
 
 The Blind Swordsman is a Samurai who has traded their sight for the ability to fight while blind - and get added benefits while doing so.
 
-## -[[Old Eldritch Cultist]]
+## -[[Eldritch Cultist|Old Eldritch Cultist]]
 
 The Eldritch Cultist is a [[Thaumaturge]] whose focus on knowledge leads to both power and confusion.
 
-## -[[Old Psychic Medium]]
+## -[[Psychic Medium (Medium Archetype)|Old Psychic Medium]]
 
 The Psychic Medium is a Medium who trades access to two of their spirits for a Spherecaster spirit and proficiency at divining for information.
 
-## -[[Old Psyforensic]]
+## -[[Psyforensic (Investigator Archetype)|Old Psyforensic]]
 
 The Psyforensic is an Investigator that can consult the spirits for information hidden to others.
 
-## -[[Old Treasure Seeker]]
+## -[[Treasure Seeker (Unchained Rogue Archetype)|Old Treasure Seeker]]
 
 The Treasure Seeker is an Unchained Rogue who gains access to a small selection of talents.
 

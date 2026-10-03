@@ -1291,19 +1291,19 @@ You may place an illusion on a creature or in an area that negates sound. The cr
 
 ---
 
-# [[Old Sphere-Focused Feats#Illusion|Old Illusion Feats]]
+# [[Sphere-Focused Feats#Illusion|Old Illusion Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Illusion Talents|Old Advanced Illusion Talents]]
+# [[Advanced Talents#Advanced Illusion Talents|Old Advanced Illusion Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Illusion|Old Illusion Drawbacks]]
+# [[Casting Traditions#Illusion|Old Illusion Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1311,11 +1311,11 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes
 
-## -[[Old Operative]]
+## -[[Operative|Old Operative]]
 
 Operatives are Symbiats who use their mastery of Illusion and [[War]] to manage the battlefield.
 
-## -[[Old Solipsist]]
+## -[[Solipsist|Old Solipsist]]
 
 Solipsists are Fey Adepts who use Intelligence to analyze and control the world.
 

@@ -1051,71 +1051,71 @@ Gain a +1/6 bonus to attack rolls made against outsiders.
 
 # Archetypes
 
-## -[[Old Broadcast Blade]]
+## -[[Broadcast Blade|Old Broadcast Blade]]
 
 The Broadcast Blade specializes in using the [[Warp]] sphere to teleport and attack large areas with their weapon.
 
-## -[[Old Divine Lariat]]
+## -[[Divine Lariat|Old Divine Lariat]]
 
 The Divine Lariat specializes in the use of the lasso, and learns a number of unique tricks and techniques to further improve their talent with it.
 
-## -[[Old Doomblade]]
+## -[[Doomblade|Old Doomblade]]
 
 The Doomblade uses the Destructive Blast of the [[Destruction]] sphere as a weapon, replacing their normal mode offense with a tool of pure energy.
 
-## -[[Old Dragoon]]
+## -[[Dragoon|Old Dragoon]]
 
 The Dragoon trades their ability to resist magic for the services of a capable mount.
 
-## -[[Old Dread Crusader]]
+## -[[Dread Crusader|Old Dread Crusader]]
 
 Dread Crusaders use the [[Death]] sphere to gain ghostly powers.
 
-## -[[Old Dustbringer]]
+## -[[Dustbringer|Old Dustbringer]]
 
 Dustbringers specialize in the destructive use of the [[Creation]] sphere, leaving little more than powder in their wake.
 
-## -[[Old Grim Disciple]]
+## -[[Grim Disciple|Old Grim Disciple]]
 
 The Grim Disciple specializes in the use of the [[Fate]] sphere for cursing their foes.
 
-## -[[Old Herculean Scion]]
+## -[[Herculean Scion|Old Herculean Scion]]
 
 With divine power flowing through their veins, the Herculean Scion is able to improve their own abilities better than other Mageknights can.
 
-## -[[Old Kinetic Scourge]]
+## -[[Kinetic Scourge|Old Kinetic Scourge]]
 
 The Kinetic Scourge is a master of the Energy Tether talent from the [[Destruction]] sphere, quickly learning a number of special tricks they can perform with it.
 
-## -[[Old Knight-Summoner]]
+## -[[Knight-Summoner|Old Knight-Summoner]]
 
 The Knight-Summoner is especially adept at summoning a creature to serve as a mount, whether it's a celestial steed or a terror from the depths of the world.
 
-## -[[Old Marshal Controller]] [CS]
+## -[[Marshal Controller|Old Marshal Controller]] [CS]
 
 Marshal Controllers are able to designate certain areas of the battlefield, then impose their own laws on this area.
 
-## -[[Old Martial Mageknight]] [CS]
+## -[[Martial Mageknight|Old Martial Mageknight]] [CS]
 
 The Martial Mageknight has learned to blend martial and magic talents to create a more distinctive style.
 
-## -[[Old Resizer]]
+## -[[Resizer|Old Resizer]]
 
 As the name suggests, the Resizer is particularly talented at growing and shrinking their body, quickly learning to avoid penalties and shift faster than before.
 
-## -[[Old Sun Warrior]]
+## -[[Sun Warrior|Old Sun Warrior]]
 
 The Sun Warrior is particularly talented with the [[Light]] sphere, and gains an improved caster level with any powers affected by their Glory.
 
-## -[[Old Utterdark Champion]]
+## -[[Utterdark Champion|Old Utterdark Champion]]
 
 The Utterdark Champion is an evil warrior, using the powers of darkness and corruption to eliminate their foes.
 
-## -[[Old Wardmage]]
+## -[[Wardmage|Old Wardmage]]
 
 The Wardmage is capable of generating Mystic Wards, special connections that allow them to protect designated allies from the many threats that adventurers face.
 
-## -[[Old Warrior Of Holy Light|Old Warrior of Holy Light]]
+## -[[Warrior Of Holy Light|Old Warrior of Holy Light]]
 
 Champions of virtue, Warriors of Holy Light can empower their weapons with light that cleanses evil.
 

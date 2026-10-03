@@ -874,23 +874,23 @@ Gain a +1 bonus to MSB checks made to overcome the spell resistance of outsiders
 
 # Archetypes
 
-## -[[Old Dark Presence]]
+## -[[Dark Presence|Old Dark Presence]]
 
 The Dark Presence swaps their expertise with the [[Mind]] sphere for the [[War]] sphere, and gains a new set of Hypnotisms focused around drawing out the darkest parts of their foes' emotions.
 
-## -[[Old Empathic Duelist]] [CS]
+## -[[Empathic Duelist|Old Empathic Duelist]] [CS]
 
 The Empathic Duelist trades some of their focus on mental domination for the ability to form connections with the creatures of the world.
 
-## -[[Old Fright Wright]]
+## -[[Fright Wright|Old Fright Wright]]
 
 The Fright Wright specializes in making their enemies afraid, and can use that fear for a variety of useful effects.
 
-## -[[Old Hypnotist]]
+## -[[Hypnotist|Old Hypnotist]]
 
 The Hypnotist trades in their power over Emotions for the ability to control their own mind better, with bonuses to various investigative skills.
 
-## -[[Old Id]]
+## -[[Id|Old Id]]
 
 The Id is focused entirely on their emotions, gaining new strength with them in return for the loss of other hypnotic powers.
 

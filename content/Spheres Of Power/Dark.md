@@ -1073,19 +1073,19 @@ Anyone passing through your area of darkness or blot picks up a bit of your magi
 
 ---
 
-# [[Old Sphere-Focused Feats#Dark|Old Dark Feats]]
+# [[Sphere-Focused Feats#Dark|Old Dark Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Dark Talents|Old Advanced Dark Talents]]
+# [[Advanced Talents#Advanced Dark Talents|Old Advanced Dark Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Dark|Old Dark Drawbacks]]
+# [[Casting Traditions#Dark|Old Dark Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1093,31 +1093,31 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in Darkness
 
-## -[[Old Darkshaper]]
+## -[[Darkshaper|Old Darkshaper]]
 
 The Darkshaper is an archetype for the [[Armorist]] that focuses on animating and manipulating their shadow.
 
-## -[[Old Invidian]]
+## -[[Invidian|Old Invidian]]
 
 The Invidian is an archetype for the [[Symbiat]] draws power from a shadow demon.
 
-## -[[Old Nocturnal Predator]]
+## -[[Nocturnal Predator|Old Nocturnal Predator]]
 
 The Nocturnal Predator is an archetype for the [[Shifter]] that helps them with striking down foes from the shadows.
 
-## -[[Old Shadow Boxer]]
+## -[[Shadow Boxer (Unchained Monk Archetype)|Old Shadow Boxer]]
 
 The Shadow Boxer is an archetype for the Unchained Monk that allows them to use their shadow to strike foes that are further away.
 
-## -[[Old Skulk]]
+## -[[Skulk|Old Skulk]]
 
 The Skulk is an archetype for the [[Fey Adept]] that trades some of their power over illusions for added strength with shadows.
 
-## -[[Old Talent Thief]]
+## -[[Talent Thief (Unchained Rogue Archetype)|Old Talent Thief]]
 
 The Talent Thief is an archetype for the Unchained Rogue that allows them to steal shadows (and powers) from their targets.
 
-## -[[Old Void Gazer]]
+## -[[Void Gazer|Old Void Gazer]]
 
 The Void Gazer is an archetype for the [[Thaumaturge]] that gives them shadowy new invocations - and a curse on their sight.
 

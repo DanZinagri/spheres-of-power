@@ -1492,13 +1492,13 @@ At a GM’s discretion, other similar skill checks and uses can benefit from thi
 
 ---
 
-# [[Old Sphere-Focused Feats#Mind|Old Mind Feats]]
+# [[Sphere-Focused Feats#Mind|Old Mind Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Mind Talents|Old Advanced Mind Talents]]
+# [[Advanced Talents#Advanced Mind Talents|Old Advanced Mind Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
@@ -1520,7 +1520,7 @@ By spending 2 spell points as a standard action you may enter a heightened state
 
 ---
 
-# [[Old Casting Traditions#Mind|Old Mind Drawbacks]]
+# [[Casting Traditions#Mind|Old Mind Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1528,19 +1528,19 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in Mind
 
-## -[[Old Beastlord]]
+## -[[Beastlord|Old Beastlord]]
 
 The Beastlord is a [[Shifter]] who can command and control animals, magical beasts, and vermin.
 
-## -[[Old Egregore]]
+## -[[Egregore|Old Egregore]]
 
 The Egregore is a [[Symbiat]] who has mastered using the Mind sphere to link and empower their allies.
 
-## -[[Old Fright Wright]]
+## -[[Fright Wright|Old Fright Wright]]
 
 The Fright Wright is an [[Eliciter]] who uses powerful mind magic to cause debilitating fear in their foes.
 
-## -[[Old Impressor]]
+## -[[Impressor (Fighter Archetype)|Old Impressor]]
 
 The Impressor is a Fighter who has learned how to apply the Emotions of an [[Eliciter]] to targets (friends or foes) during combat.
 

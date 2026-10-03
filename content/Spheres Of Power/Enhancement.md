@@ -1508,19 +1508,19 @@ You may enhance a weapon, causing it to ignore an amount of damage reduction equ
 
 ---
 
-# [[Old Sphere-Focused Feats#Enhancement|Old Enhancement Feats]]
+# [[Sphere-Focused Feats#Enhancement|Old Enhancement Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Enhancement Talents|Old Advanced Enhancement Talents]]
+# [[Advanced Talents#Advanced Enhancement Talents|Old Advanced Enhancement Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Enhancement|Old Enhancement Drawbacks]]
+# [[Casting Traditions#Enhancement|Old Enhancement Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1528,23 +1528,23 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing in Enhancement
 
-## -[[Old Eclectic Researcher]]
+## -[[Eclectic Researcher (Wizard Archetype)|Old Eclectic Researcher]]
 
 The Eclectic Researcher is a Wizard that specializes in mixing talents to create new spells.
 
-## -[[Old Herculean Scion]]
+## -[[Herculean Scion|Old Herculean Scion]]
 
 The Herculean Scion is a [[Mageknight]] that uses divine power to access domains and improve their own abilities.
 
-## -[[Old Snake Oil Salesman]]
+## -[[Snake Oil Salesman (Rogue Archetype)|Old Snake Oil Salesman]]
 
 The Snake Oil Salesman is a Rogue that knows how to enhance various substances to provide interesting effects, and that gains a small selection of magic talents to support the creation of their concoctions.
 
-## -[[Old Spirit Wielder|Old Spirit-Wielder]]
+## -[[Spirit-Wielder (Fighter Archetype)|Old Spirit-Wielder]]
 
 The Spirit-Wielder is a Fighter that can coax out the spirits of their weapons to provide added benefits in combat.
 
-## -[[Old Whitesmith]]
+## -[[Whitesmith|Old Whitesmith]]
 
 The Whitesmith is an [[Armorist]] who knows that maintaining everyone's things - not just their own - is often the key to success.
 

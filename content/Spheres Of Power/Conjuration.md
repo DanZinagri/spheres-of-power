@@ -1673,19 +1673,19 @@ Your companion mimics the properties of undead. It is healed by negative energy 
 
 ---
 
-# [[Old Sphere-Focused Feats#Conjuration|Old Conjuration Feats]]
+# [[Sphere-Focused Feats#Conjuration|Old Conjuration Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Conjuration Talents|Old Advanced Conjuration Talents]]
+# [[Advanced Talents#Advanced Conjuration Talents|Old Advanced Conjuration Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Conjuration|Old Conjuration Drawbacks]]
+# [[Casting Traditions#Conjuration|Old Conjuration Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1804,7 +1804,7 @@ Additional (form) talents may also be created, though particularly powerful abil
 
 # Conjuration-Focused Archetypes
 
-## [[Old Alter Ego|Old Alter-Ego]]
+## [[Alter-Ego (Vigilante Archetype)|Old Alter-Ego]]
 
 The Alter-Ego is an archetype for the Vigilante that allows them to swap places with a summoned entity.
 
@@ -1812,19 +1812,19 @@ The Alter-Ego is an archetype for the Vigilante that allows them to swap places 
 
 The Awakener is an archetype for the Armiger that allows them to call up the spirits of their weapons. (Requires [[Spheres Of Might|Spheres of Might]])
 
-## [[Old Knight-Summoner]]
+## [[Knight-Summoner|Old Knight-Summoner]]
 
 The Knight-Summoner is an archetype for the Mageknight that allows them to call forth a mount, whether it's a celestial horse, a mechanical platform, or a beast from the depths of the world.
 
-## [[Old Pact Master]]
+## [[Pact Master|Old Pact Master]]
 
 The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of Pact Magic.
 
-## [[Old Twinsoul Elementalist]]
+## [[Twinsoul Elementalist|Old Twinsoul Elementalist]]
 
 The Twinsoul Elementalist is an Elementalist that creates and commands a splinter of themselves that manifests as elemental power.
 
-## [[Old Void Wielder]]
+## [[Void Wielder|Old Void Wielder]]
 
 The Void Wielder is an Armorist that siphons the very souls of their enemies, then calls them forth to do battle.
 

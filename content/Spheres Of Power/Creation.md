@@ -1146,19 +1146,19 @@ The caster may choose to affect the object’s opacity in a way that allows peer
 
 ---
 
-# [[Old Sphere-Focused Feats#Creation|Old Creation Feats]]
+# [[Sphere-Focused Feats#Creation|Old Creation Feats]]
 
 Click the header above to visit the Sphere-Focused Feats page. This section includes feats that directly improve or rely upon this sphere.
 
 ---
 
-# [[Old Advanced Talents#Advanced Creation Talents|Old Advanced Creation Talents]]
+# [[Advanced Talents#Advanced Creation Talents|Old Advanced Creation Talents]]
 
 Click the header above to visit the Advanced Talents page. This page includes talents that are more powerful than the ones presented on this page - but remember, Advanced Talents are only available with GM permission.
 
 ---
 
-# [[Old Casting Traditions#Creation|Old Creation Drawbacks]]
+# [[Casting Traditions#Creation|Old Creation Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
@@ -1166,19 +1166,19 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes Specializing In Creation
 
-## -[[Old Dustbringer]]
+## -[[Dustbringer|Old Dustbringer]]
 
 Dustbringers are Mageknights who use unarmed strikes to wear down the bodies and gear of their foes.
 
-## -[[Old Knight Of Willpower|Old Knight of Willpower]]
+## -[[Knight Of Willpower|Old Knight of Willpower]]
 
 Knights of Willpower are Thaumaturges who have particularly powerful wills and use the [[Creation]], [[Light]], and [[Telekinesis]] spheres to great effect.
 
-## -[[Old Lingchi Warrior]]
+## -[[Lingchi Warrior|Old Lingchi Warrior]]
 
 Lingchi Warriors are Armorists who summon a field of weapons to use against their foes.
 
-## -[[Old Word Witch]]
+## -[[Word Witch|Old Word Witch]]
 
 Word Witches are Fey Adepts who specialize in conjuring tangible objects instead of mere illusions.
 

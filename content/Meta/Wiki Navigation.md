@@ -39,7 +39,6 @@ Tags | Edit | Source | Print
 
 [[Spheres Of Might|Spheres of Might]]
 [[Spheres Of Power|Spheres of Power]]
-[[Spheres Of Power (Old)|Spheres of Power (Old)]]
 
 [[Ultimate Engineering|Ultimate Engineering (Tinker)]]
 [[Other Options]]

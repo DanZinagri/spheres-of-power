@@ -672,55 +672,55 @@ Gain 1/6th of a bonus combat feat.
 
 # Archetypes
 
-## -[[Old Battlemind]] [CS]
+## -[[Battlemind|Old Battlemind]] [CS]
 
 Battleminds are champions who use the [[Leadership]] sphere to obtain and direct allies.
 
-## -[[Old Bloodscarred]]
+## -[[Bloodscarred|Old Bloodscarred]]
 
 Bloodscarred gain vampiric powers, use of the [[Blood]] sphere, and use Charisma as their casting ability modifier.
 
-## -[[Old Chronomancer]]
+## -[[Chronomancer|Old Chronomancer]]
 
 Chronomancers use their mastery of time and space to create powerful battlefield effects.
 
-## -[[Old Egregore]]
+## -[[Egregore|Old Egregore]]
 
 The Egregore acts as a hive mind of sorts, commanding and supporting allies close to them.
 
-## -[[Old Gravecrawler]]
+## -[[Gravecrawler|Old Gravecrawler]]
 
 Gravecrawlers gain power over the [[Death]] sphere, but only because of the worm-like aberrations infesting them.
 
-## -[[Old Hekatonkheires]]
+## -[[Hekatonkheires|Old Hekatonkheires]]
 
 The Hekatonkheires trades some of their mental power for [[Telekinesis]], using this to create a multitude of floating limbs that can aid them in various ways.
 
-## -[[Old Invidian]]
+## -[[Invidian|Old Invidian]]
 
 The Invidian gains power from a shadow demon instead of a psionic entity, gaining mastery of the [[Dark]] sphere to supplement their mental abilities.
 
-## -[[Old Operative]]
+## -[[Operative|Old Operative]]
 
 Operatives specialize in the [[Illusion]] and [[War]] spheres, using information and planning to maximize their effectiveness on the battlefield.
 
-## -[[Old Synapse]]
+## -[[Synapse|Old Synapse]]
 
 The Synapse remains focused on the mind, but also gains talent with the [[Warp]] sphere, channeling it into special psionic powers that let them engage foes in creative new ways.
 
-## -[[Old Technopath 3PP|Old Technopath]] [3PP]
+## -[[Technopath|Old Technopath]] [3PP]
 
 Technopaths make use of the [[Technomancy LG|Technomancy]] sphere to interface with technology and use machines to help their allies.
 
-## -[[Old Telekinetic Warrior]]
+## -[[Telekinetic Warrior|Old Telekinetic Warrior]]
 
 The Telekinetic Warrior is a straightforward master of [[Telekinesis]], with a particular focus on using bludgeons to attack their foes.
 
-## -[[Old Vector]] [CS]
+## -[[Vector|Old Vector]] [CS]
 
 The Vector is a martially-oriented Symbiat with powerful telekinetic abilities.
 
-## -[[Old Warmonger]]
+## -[[Warmonger|Old Warmonger]]
 
 The Warmonger gains added ability with the [[War]] sphere, learning to act faster and control more of the battlefield with their unique talents.
 
