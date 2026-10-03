@@ -11,7 +11,7 @@ This page serves as a hub for the Drop Dead Studios *Ultimate Engineering* proje
 
 ---
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 1">
 
 *Source: [Ultimate Engineering](https://www.drivethrurpg.com/product/472038/Ulimate-Engineering?affiliate_id=549120)*
 
@@ -21,7 +21,7 @@ This page serves as a hub for the Drop Dead Studios *Ultimate Engineering* proje
 
 ---
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 2">
 
 <div class="sop-col">
 

@@ -11,7 +11,7 @@ Use of these rules requires the base *Mythic Adventures* rulebook, which is avai
 
 **Note:** For Mythic Spheres of Power rules, see the [[Mythic Spheres]] page.
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 3">
 
 <div class="sop-col">
 

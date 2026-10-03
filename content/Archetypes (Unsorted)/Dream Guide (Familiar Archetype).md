@@ -37,9 +37,9 @@ At 7th level, the dream guide may assist its master by providing great insight a
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · [[Dragoon (dragoon-class)|Dragoon]]
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
 
-[[Mountebank]] · [[Necros]] · [[Prodigy]] · [[Reaper]]
+Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

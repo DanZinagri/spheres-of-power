@@ -28,9 +28,9 @@ This replaces combat training and magic talents as well as the persona quirk gai
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · [[Dragoon (dragoon-class)|Dragoon]]
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
 
-[[Mountebank]] · [[Necros]] · [[Prodigy]] · [[Reaper]]
+Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

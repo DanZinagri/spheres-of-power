@@ -72,9 +72,9 @@ Alternatively, when making an attack action as a standard action, you may expend
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · [[Dragoon (dragoon-class)|Dragoon]]
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
 
-[[Mountebank]] · [[Necros]] · [[Prodigy]] · [[Reaper]]
+Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

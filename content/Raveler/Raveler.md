@@ -593,9 +593,9 @@ Craft Wondrous Item or Craft Marvelous Item, creator must be able to weave ravel
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · [[Dragoon (dragoon-class)|Dragoon]]
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
 
-[[Mountebank]] · [[Necros]] · [[Prodigy]] · [[Reaper]]
+Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

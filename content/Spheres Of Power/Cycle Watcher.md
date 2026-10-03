@@ -134,9 +134,9 @@ At 18th level, the cycle watcher may use weather the ages in response to any eff
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · [[Dragoon (dragoon-class)|Dragoon]]
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
 
-[[Mountebank]] · [[Necros]] · [[Prodigy]] · [[Reaper]]
+Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

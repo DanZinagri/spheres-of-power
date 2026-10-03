@@ -142,7 +142,7 @@ Sacrifices are the only way to invoke greater magic. For every 25 gp of a ritual
 
 Rituals disrupt the fabric of reality. Magic users risk their own destruction when using this magic, and while some villains may possess artifacts that exempt them from these risks, the average PC is not usually so lucky. Rituals have no material cost, but every time a caster uses a ritual above level 1, he must roll a d20. He compares his result to Table A if using a ritual of level 2-5, and to Table B if using a ritual of level 6-9.
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 2">
 
 <div class="sop-col">
 

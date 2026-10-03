@@ -144,7 +144,7 @@ For the next step, determine what adjustments, if any, are required of the base 
 
 **Table: Modifying Incantations**
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 2">
 
 <div class="sop-col">
 

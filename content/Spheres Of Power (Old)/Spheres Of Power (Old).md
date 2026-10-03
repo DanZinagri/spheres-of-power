@@ -13,7 +13,7 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 
 ## [[Using Spheres Of Power|Using Spheres of Power]]
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 2">
 
 <div class="sop-col">
 

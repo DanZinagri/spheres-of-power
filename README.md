@@ -25,8 +25,12 @@ never parented are in `Archetypes (Unsorted)` or `Other Pages`. Every note's fro
 `EXCLUDED_SECTIONS` at the top of `scripts/scrape.py` lists top-level folders that are left out
 entirely (the hub page and everything under it), and their links are stripped from the home page
 and sidebar navigation. Currently: Akashic Mysteries, Arcforge, City of 7 Seraphs, Cthulhu Mythos,
-Gonzo, Heroes of the Jade Oath, Legendary Worlds, Pact Magic, Strange Magic. Edit the list and
-re-run `python scripts/scrape.py convert` to change it (the raw pages stay cached).
+Gonzo, Heroes of the Jade Oath, Legendary Worlds, Pact Magic, Strange Magic. `EXCLUDED_PAGES`
+does the same for individual pages and their subpages: currently Lost Spheres Publishing's
+classes (Dragoon, Mountebank, Necros, Reaper). Edit the lists and
+re-run `python scripts/scrape.py convert` to apply (the raw pages stay cached).
+
+`HOME_SECTION_MOVES` rearranges whole sections between the home page's navigation columns.
 
 ### Link colors
 

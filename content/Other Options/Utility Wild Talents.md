@@ -10,7 +10,7 @@ The following are new utility wild talents that can be selected by Kineticists w
 
 # [[Universal Utility Talents]]
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 2">
 
 <div class="sop-col">
 

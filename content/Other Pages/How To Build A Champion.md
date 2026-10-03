@@ -28,11 +28,11 @@ If you'd like to use one of the new classes, here's a brief description of each,
 | Class | Description | Casting and/or Practitioner Modifier | Martial Proficiency | Casting Proficiency |
 | --- | --- | --- | --- | --- |
 | [[Crimson Dancer]] | The Crimson Dancer is a master of bloodletting, mixing their control of the liquid of life with deadly prowess on the battlefield. | Any Mental Score | High (see Blended Training) | Low |
-| [[Dragoon (dragoon-class)\|Dragoon]] | The Dragoon forms a bond with a drake companion, acting in concert with them for greater power. This is a good class to play if you like dragons. The Dragoon is a 3PP class and is not official Spheres content. | Wisdom or Charisma | Mid (see Blended Training) | Mid |
-| [[Mountebank]] | Mountebanks are magical rogues who excel at stealth, guile, and social encounters. This is a good class to play if you want to be a magical rogue. The Mountebank is a 3PP class and is not official Spheres content. | Intelligence or Charisma | Mid (see Blended Training) | Mid |
-| [[Necros]] | The Necros is a master of undeath, channeling energy and raising a Corpse Puppet to do their bidding. This is a good class to play if you want a somewhat more martial necromancer. The Necros is a 3PP class and is not official Spheres content. | Intelligence or Charisma | Mid (see Blended Training) | Mid |
+| Dragoon | The Dragoon forms a bond with a drake companion, acting in concert with them for greater power. This is a good class to play if you like dragons. The Dragoon is a 3PP class and is not official Spheres content. | Wisdom or Charisma | Mid (see Blended Training) | Mid |
+| Mountebank | Mountebanks are magical rogues who excel at stealth, guile, and social encounters. This is a good class to play if you want to be a magical rogue. The Mountebank is a 3PP class and is not official Spheres content. | Intelligence or Charisma | Mid (see Blended Training) | Mid |
+| Necros | The Necros is a master of undeath, channeling energy and raising a Corpse Puppet to do their bidding. This is a good class to play if you want a somewhat more martial necromancer. The Necros is a 3PP class and is not official Spheres content. | Intelligence or Charisma | Mid (see Blended Training) | Mid |
 | [[Prodigy]] | The Prodigy specializes in stringing together abilities in a sequence to unleash a powerful finisher. This is a good class to play if you like being flexible and pulling off elaborate combos. | Any Mental Score | Mid (see Blended Training) | Mid |
-| [[Reaper]] | The Reaper is an obsessed hunter who specializes in tracking and eliminating certain types of prey - all while falling more and more into a cult. This is a good class to play if you want to play an assassin of sorts. The Reaper is a 3PP class and is not official Spheres content. | Any Mental Score | High (see Blended Training) | Low |
+| Reaper | The Reaper is an obsessed hunter who specializes in tracking and eliminating certain types of prey - all while falling more and more into a cult. This is a good class to play if you want to play an assassin of sorts. The Reaper is a 3PP class and is not official Spheres content. | Any Mental Score | High (see Blended Training) | Low |
 | [[Sage]] | The Sage is a monk-like class that can specialize in a variety of different fields. This is a good class to play if you have a role in mind and want to pull it off as an unarmored combatant. | Wisdom | Proficient | Low (see Style Talent) |
 | [[Troubadour]] | The Troubadour is a class that channels Personas to unleash talents appropriate for the task at hand. | Charisma | Proficient | Low |
 | [[Warden (warden-class)\|Warden]] | The Warden is a defensive warrior who can protect their allies through various means. | Any Mental Score | High (see Blended Training) | Mid |
@@ -77,9 +77,9 @@ You'll note that talents come fairly early in the process. This is because some 
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · [[Dragoon (dragoon-class)|Dragoon]]
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
 
-[[Mountebank]] · [[Necros]] · [[Prodigy]] · [[Reaper]]
+Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

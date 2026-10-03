@@ -7,7 +7,7 @@ updated: 2017-04-25
 
 Creature templates are a quick and easy way to apply new powers to existing creatures, often changing them in ways that drastically modify their tactics and place in a game world. While most are intended for the GM to apply to monsters, PCs are sometimes permitted to take templates. Many of the templates on this page originally appeared in Pathways (a free monthly e-zine by Rite Publishing), the Book of Monster Templates (also by Rite Publishing), or Bloodforge (a book of crossblooded races by Dreamscarred Press).
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 2">
 
 <div class="sop-col">
 

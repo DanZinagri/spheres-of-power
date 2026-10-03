@@ -9,7 +9,7 @@ Spheres of Might is a unique martial system created by Drop Dead Studios for use
 
 ## [[Using Spheres Of Might|Using Spheres of Might]]
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 2">
 
 <div class="sop-col">
 

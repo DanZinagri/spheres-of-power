@@ -458,7 +458,7 @@ Militias often rise in communities without the benefit of a formal military, whe
 
 ### Mixed Duelist [3PP]
 
-A popular tradition among [[Reaper|reaper]]s, mixed duelists use elegant melee weapons and pistols simultaneously to threaten their foes regardless of positioning.
+A popular tradition among reapers, mixed duelists use elegant melee weapons and pistols simultaneously to threaten their foes regardless of positioning.
 
 **Bonus Talents:**
 

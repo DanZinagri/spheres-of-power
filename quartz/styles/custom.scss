@@ -61,7 +61,9 @@
 
 .sop-columns {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
+  // At least 10.5rem per column, and never narrower than 1/--cols of the row, so wide screens
+  // get exactly --cols columns (set per grid by the converter) and narrow ones fewer.
+  grid-template-columns: repeat(auto-fit, minmax(max(10.5rem, calc(100% / var(--cols, 12) - 2rem)), 1fr));
   gap: 0.25rem 2rem;
   align-items: start;
   margin: 1rem 0;

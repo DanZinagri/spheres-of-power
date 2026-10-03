@@ -50,7 +50,23 @@ EXCLUDED_SECTIONS = {
     "Akashic Mysteries", "Arcforge", "City of 7 Seraphs", "Cthulhu Mythos", "Gonzo",
     "Heroes Of The Jade Oath", "Legendary Worlds", "Pact Magic", "Strange Magic",
 }
+# Individual pages left out along with everything under them (by wikidot slug):
+# Lost Spheres Publishing's classes ("Lost Champions").
+EXCLUDED_PAGES = {"dragoon-class", "mountebank", "necros", "reaper"}
 NAV_PAGES = {"start", "nav:side"}
+
+# Home page: with the archetypes now a full-width table, move these sections (by their bold
+# heading) to the end of the given column of the main navigation grid to even out the columns.
+# Balanced from rendered section heights at 1920px (columns end up within ~330px of each other).
+HOME_SECTION_MOVES = [
+    ("Other Options", 2),
+    ("Gear", 3),
+    ("Practitioner Gear", 3),
+    ("Feat Types", 4),
+    ("Creatures", 5),
+    ("Sample Practitioners", 5),
+    ("Sample Champions", 5),
+]
 
 # The wiki colors links by product line with inline <span style="color:...">. Power is the default
 # (uncolored) link color. Every link to a page gets its family's color (see data/link-families.json).
@@ -261,6 +277,8 @@ class WikiConverter(MarkdownConverter):
     def convert_div(self, el, text, *args, **kw):
         cls = el.get("class") or []
         if "sop-columns" in cls or "sop-col" in cls:
+            if not text.strip():
+                return ""  # every column/link in it was excluded
             name = "sop-columns" if "sop-columns" in cls else "sop-col"
             return f'\n\n<div class="{name}">\n\n{text.strip()}\n\n</div>\n\n'
         return f"\n\n{text}\n\n" if text.strip() else ""
@@ -321,6 +339,127 @@ def prune_excluded(body: Tag, excluded: set[str]) -> None:
         if parent.name in ("li", "p", "strong") and not parent.find("a") and \
                 not parent.get_text(strip=True).strip(",|·() "):
             parent.decompose()
+
+
+def drop_excluded_mentions(md: str) -> str:
+    """Remove prose sentences that mention an excluded book (e.g. 'X is being added to the wiki')."""
+    names = "|".join(re.escape(n) for n in sorted(EXCLUDED_SECTIONS, key=len, reverse=True))
+    mention = re.compile(rf"\b({names})\b", re.I)
+    out = []
+    for line in md.split("\n"):
+        if "[[" in line or not mention.search(line):
+            out.append(line)
+            continue
+        sentences = re.split(r"(?<=[.!?])\s+", line)
+        kept = [s for s in sentences if not mention.search(s)]
+        out.append(" ".join(kept))
+    return "\n".join(out)
+
+
+def rebalance_home_columns(md: str) -> str:
+    """Move whole '**Heading**' sections between columns of the home page's main nav grid."""
+    lines = md.split("\n")
+    heading = lambda l: re.fullmatch(r"\*\*([^*]+)\*\*", l.strip())
+    # find the grid that contains the first section we want to move
+    wanted = {name for name, _ in HOME_SECTION_MOVES}
+    start = None
+    for i, l in enumerate(lines):
+        if l.strip().startswith('<div class="sop-columns"'):
+            start = i
+        h = heading(l)
+        if h and h.group(1) in wanted and start is not None:
+            break
+    else:
+        return md
+    # parse the grid into columns: <div class="sop-col"> ... </div> pairs, then the grid's </div>
+    cols: list[list[str]] = []
+    cur: list[str] | None = None
+    i, end = start + 1, None
+    while i < len(lines):
+        l = lines[i].strip()
+        if l == '<div class="sop-col">' and cur is None:
+            cur = []
+        elif l == "</div>" and cur is not None:
+            cols.append(cur)
+            cur = None
+        elif l == "</div>" and cur is None:
+            end = i
+            break
+        elif cur is not None:
+            cur.append(lines[i])
+        i += 1
+    if end is None:
+        return md
+
+    def split_sections(col: list[str]):
+        """-> (prefix lines, [(name, lines)]) where a section owns the '---' separator above it."""
+        idx = [k for k, l in enumerate(col) if heading(l)]
+        if not idx:
+            return col, []
+        prefix, sections = col[:idx[0]], []
+        for n, k in enumerate(idx):
+            stop = idx[n + 1] if n + 1 < len(idx) else len(col)
+            sections.append([heading(col[k]).group(1), col[k:stop]])
+        # hand trailing separators ('---' / blanks) of each section to the next one
+        for n in range(len(sections) - 1):
+            body = sections[n][1]
+            sep = []
+            while body and body[-1].strip() in ("", "---"):
+                sep.insert(0, body.pop())
+            sections[n + 1][1] = sep + sections[n + 1][1]
+        return prefix, sections
+
+    parsed = [split_sections(c) for c in cols]
+    for name, target in HOME_SECTION_MOVES:
+        if target - 1 >= len(parsed):
+            continue
+        for prefix, sections in parsed:
+            hit = next((s for s in sections if s[0] == name), None)
+            if hit:
+                sections.remove(hit)
+                body = [l for l in hit[1]]
+                while body and body[0].strip() in ("", "---"):
+                    body.pop(0)
+                parsed[target - 1][1].append([name, ["", "---", "", *body]])
+                break
+
+    rebuilt = []
+    for prefix, sections in parsed:
+        col = list(prefix)
+        for _, body in sections:
+            col.extend(body)
+        while col and col[-1].strip() in ("", "---"):
+            col.pop()
+        rebuilt += ['<div class="sop-col">', "", *col, "", "</div>", ""]
+    return "\n".join(lines[:start + 1] + [""] + rebuilt + lines[end:])
+
+
+def set_column_counts(md: str) -> str:
+    """Tag each .sop-columns grid with --cols: the number of side-by-side columns it holds.
+
+    Columns containing a markdown table span the full row (see custom.scss), so they don't count;
+    the CSS uses --cols to avoid creating empty tracks on wide screens."""
+    lines = md.split("\n")
+    stack: list[list] = []  # ["grid", line_idx, narrow, total] / ["col", has_table]
+    for i, line in enumerate(lines):
+        s = line.strip()
+        if s.startswith('<div class="sop-columns"'):
+            stack.append(["grid", i, 0, 0])
+        elif s == '<div class="sop-col">':
+            stack.append(["col", False])
+        elif s.startswith("| ---") and stack and stack[-1][0] == "col":
+            stack[-1][1] = True
+        elif s == "</div>" and stack:
+            top = stack.pop()
+            if top[0] == "col":
+                grid = next((g for g in reversed(stack) if g[0] == "grid"), None)
+                if grid:
+                    grid[3] += 1
+                    grid[2] += 0 if top[1] else 1
+            else:
+                n = top[2] or top[3] or 1
+                lines[top[1]] = f'<div class="sop-columns" style="--cols: {n}">'
+    return "\n".join(lines)
 
 
 ARCHETYPE_LINE = re.compile(r"^\*\*([^*\n]+)\*\*\s*\((.*)\)\s*$")
@@ -522,6 +661,7 @@ def tidy(md: str) -> str:
     # "<strong>Prerequisites:</strong>Text" -> bold label must be followed by a space to render
     md = re.sub(r"(\*\*[^*\n]*?[:.]\*\*)(?=[\w(\[])", r"\1 ", md)
     md = archetype_tables(md)
+    md = set_column_counts(md)
     return md.strip() + "\n"
 
 
@@ -593,7 +733,9 @@ def convert(with_images: bool) -> None:
         if f.exists():
             pages[slug] = Page(slug, f.read_text(encoding="utf-8"))
     assign_paths(pages)
-    excluded = {s for s, p in pages.items() if p.folder in EXCLUDED_SECTIONS}
+    excluded = {s for s, p in pages.items()
+                if p.folder in EXCLUDED_SECTIONS or s in EXCLUDED_PAGES
+                or any(a in EXCLUDED_PAGES for a in p.parents)}
     for s in excluded:
         del pages[s]
     write_link_families(pages)
@@ -626,7 +768,12 @@ def convert(with_images: bool) -> None:
             fm.append("parent: " + yaml_str(f"[[{pages[p.parents[-1]].filename}]]"
                                             if p.parents[-1] in pages else p.parents[-1]))
         fm.append("---")
-        out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + tidy(md)
+        body_md = tidy(md)
+        if p.slug in NAV_PAGES:
+            body_md = drop_excluded_mentions(body_md)
+        if p.slug == "start":
+            body_md = rebalance_home_columns(body_md)
+        out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(out, encoding="utf-8")

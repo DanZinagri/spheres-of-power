@@ -17,7 +17,7 @@ While many DRS releases are integrated into the Spheres of Power Wiki (with the 
 
 ---
 
-<div class="sop-columns">
+<div class="sop-columns" style="--cols: 1">
 
 <div class="sop-col">
 
