@@ -20,16 +20,6 @@ For the purposes of granting new activations and increasing the character’s ma
 
 ---
 
-#### Ascendant Avenger (Aristeia, Drawback, Teamwork, Union) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisite:** Bonded Casting
-
-**Benefit:** You gain a +1 bonus on attack and damage rolls against any creature that has damaged or targeted your bonded creature within the last 24 hours.
-
-Whenever your bonded creature would be reduced to 0 hit points or killed, you may enter Aristeia. If you do, select one talents or feats that the bonded creature possessed for every level of Aristeia you enter (4 for Aristeia level 4, for example). For the duration of Aristeia, you gain the benefits of these feats or talents and can use magic sphere effects and spend spell points normally in spite of the bonded creature being dead or unconscious. You must meet the prerequisites for any abilities you acquire in this Aristeia state, but abilities you gain can be used to meet the prerequisites for other abilities.
-
 #### Dimensional Pursuit (Aristeia)
 
 **Benefit:** When a creature you threaten or that you have damaged in the last round attempts a concentration check to use an effect that would teleport them or move to another plane, increase the DC of the check by 4.
@@ -42,45 +32,6 @@ While in Aristeia, you may spend an immediate action to move with any creature y
 **Benefit:** Add five times the number of Aristeia feats you possess to your Constitution score for the purpose of determining the number of negative hit points at which you die. When your Aristeia would end, you may add an additional round to your Aristeia. If you do, you immediately suffer 1 point of ability burn to all ability scores. You may continue to use this feat until your total ability burn in any ability score equals that ability score.
 
 **Special:** This feat counts as Endurance for the purpose of meeting prerequisites.
-
-#### Heroic Advantage (Aristeia) [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-**Benefits:** The maximum number of hero points you can have at any one time is increased by 1. In addition, choose a Heroic Advantage from the list below. Whenever you spend a hero point, you may gain the benefits of a single Heroic Advantage you possess.
-
-**Special:** You may select this feat multiple times, each time selecting an additional Heroic Advantage.
-A Heroic Advantage grants a bonus when you spend a hero point. If a Heroic Advantage requires a saving throw, the DC is equal to 10 + ½ your character level + the highest of your Intelligence, Wisdom, or Charisma modifier. The list of Heroic Advantages are as follows:
-
-- **Advantageous Action:** you treat all enemies within 30 feet as if you were flanking them until the end of your next turn.
-- **Adept’s Action:** you treat your caster level as 5 higher for the purpose of determining the range and area of your magical abilities until the end of your next turn.
-- **Aerial Action (Su):** you gain a fly speed of 40 feet (good maneuverability) until the end of your next turn. In addition, when you spend the hero point, you may move up to your speed as a free action
-- **Ardent Action:** you may move up to your speed without provoking attack of opportunity or make a new saving throw against any ongoing effect they are currently suffering from that normally grants a saving throw using the original DC, even if you have already failed the initial save and would not normally be granted another. Poison and disease effects that can worsen on a failed saving throw do not count this saving throw as a failure when determining such effects if it is unsuccessful.
-- **Argent Action (requires Guardian Sphere (challenge package):** you may use your challenge ability as a free action. If you have the Mass Challenge talent, you may use that talent as a free action.
-- **Awesome Action:** Whenever you damage a target before the end of your next turn, that target takes a -2 penalty to AC and saving throws for 1 round.
-- **Deathly Action:** the next attack you make before the end of your next turn ignores all damage reduction, hardness, and energy resistance the target possesses
-- **Dimensional Action (Su):** You teleport up to 20 feet + 5 feet per 5 character levels.
-- **Educated Action:** you can reroll the next attack roll you make that misses before the end of your next turn.
-- **Eroding Action:** a single creature you damage before the end of your next turn gains vulnerability to an energy type of your choice for 1 round.
-- **Excellent Action:** You may roll twice on a single d20 roll made before the start of your next turn, taking the higher result.
-- **Explosive Action (Su):** Choose acid, cold, electricity, or fire. Your next attack made before the end of your next turn deals 1d6 additional points of damage of that type +1d6 for every 4 character levels you possess.
-- **Fading Action:** All attacks you make until the end of your next turn treat targets as flat-footed
-- **Flurry Action:** you may make an attack of opportunity against a creature you threaten
-- **Focusing Action:** you regain martial focus
-- **Ghostly Action (requires character level 10th):** you become incorporeal until the end of your next turn
-- **Instructed Action:** you and each ally within 30 feet of you gain a +2 circumstance bonus to the next attack roll made before the end of your next turn.
-- **Incendiary Action (Su):** Any successful attacks you make before the end of your next turn set the target on fire if they fail a Reflex save, causing them to take 1d6 fire damage + 1d6 additional fire damage per 5 character levels you possess for 1d4 rounds at the start of its turn. A creature suffering from this effect can attempt a new save as a full-round action. Dropping and rolling on the ground grants a +4 bonus on this save. Creatures that hit a burning creature with natural weapons or unarmed attacks take fire damage as though hit by the burning creature and must succeed at a Reflex save to avoid catching on fire.
-- **Incredible Action:** you add your Intelligence, Wisdom, or Charisma modifier as a circumstance bonus to the next attack roll made before the end of your next turn. You may select this Heroic Advantage a second time, in which case the bonus applies to both the attack and the damage roll.
-- **Insulating Action:** Choose one ally within 30 feet. That ally gains resistance to a single energy type of your choice equal to 5 + ½ your character level until the end of your next turn.
-- **Preparatory Action:** You and each ally within 30 feet of you gains temporary hit points equal to the highest of your Intelligence, Wisdom, or Charisma modifier and may take a 5-foot step.
-- **Projectile Action:** you may make a ranged attack.
-- **Resurgent Action (Requires Charged Spells drawback or spell slots):** you may recharge a single charged spell of your choice, spending a number of spell points equal to the number of spell points spent on the charged sphere effect you recharge. Alternatively, you may exchange a prepared spell for another spell that you have also prepared that takes up a spell slot of equal level.
-- **Seeking Action:** Whenever you damage a target before the end of your next turn, you and your allies ignore any instances of concealment, total concealment, and cover (but not total cover) that the target possesses for 1 round.
-- **Skillful Action:** You gain a +5 circumstance bonus to all skill checks until the end of your next turn.
-- **Spellsplit Action:** The next time before the end of your next turn that you target one or more creatures with a magic effect, you may target one additional creature within range.
-- **Unbreachable Action:** You gain DR/- and energy resistance against all types equal to your character level which lasts until the end of your next turn.
-- **Unified Action:** You and each ally within 30 feet of you gain a +5 circumstance bonus to damage rolls against targets they are flanking until the end of your next turn.
-- **Vicious Action:** You gain a +2 circumstance bonus to attack and damage rolls made before the end of your next turn.
 
 #### Heroic Perseverance (Aristeia)
 
@@ -114,16 +65,6 @@ Expanded and revised rules for blindsense and blindsight can be found in Spheres
 **Benefit:** In any situation where you could use one of your activations to enter Aristeia, you gain a +1 bonus to the saving throw DCs of your magic effects. While you are in Aristeia, you add your Aristeia level as a bonus to your caster level (this stacks with the normal bonus from this feat) and you gain a number of temporary spell points equal to twice your Aristeia level. These temporary spell points vanish when you leave Aristeia. The first spell of each level that you cast while in Aristeia does not consume a prepared spell or spell slot.
 
 **Special:** This feat counts as Sphere Focus (any one) or Spell Focus (any one) for the purpose of meeting prerequisites.
-
-#### Pinnacle Clarity (Aristeia) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Knowledge of at least one technique
-
-**Benefit:** As long as you are in a state where you could enter Aristeia or are in Aristeia, you roll twice when determining the failure chance of techniques you perform, taking the result of your choice.
-
-While in Aristeia, the complexity cost of any techniques you perform is reduced by your level of Aristeia (minimum 1).
 
 #### Surging Triumph (Aristeia, Luck)
 

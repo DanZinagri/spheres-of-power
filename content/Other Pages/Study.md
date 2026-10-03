@@ -125,12 +125,6 @@ You can spend 1 hour (or a full-round action as a plan) researching a niche topi
 
 You can take this talent multiple times—each time you do, you choose an additional Lore skill when you use this talent.
 
-#### Swift Notetaker [utility] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-It takes you only 10 minutes per spell level to scribe a spell into your spellbook (5 minutes for cantrips). The time needed to record a technique into a technique script, learn a technique by studying with someone who knows it, or add a deciphered technique from a technique script to your repertoire is reduced to 10 minutes per point of the technique’s complexity.
-
 #### Tangential Recollection [utility]
 
 Whenever you fail a Knowledge check, Lore check, or similar check to recall information, you can spend 1 use of skill leverage to come at the problem from another direction. Attempt a skill check that can be used to recall information using a different skill. On a success, you are treated as if you had succeeded the first check to recall information by the minimum amount, except that the information is skewed depending on the chosen skill. You must have unlocked skill leverage with either the initial skill or the new skill.
@@ -473,47 +467,6 @@ At 5 ranks in this sphere's associated skill, you can spend 10 minutes touching 
 
 A detect magic spell reveals dim magic on the page in question but does not reveal its true contents (although true seeing does reveal this).
 
-#### Observational Learning (theory) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Study Sphere.
-
-As long as the subject of your theory is a creature, you can figure out the nature of its abilities and mimic them for yourself.
-You may use the relevant Knowledge skill needed to identify the subject of your theory to identify any class feature, feat, or talent that you observe the subject using (DC 10 + target’s HD) or assess the subject’s proficiency (as the Appraise skill). For example, if a dragon uses a combat talent against you, you may identify the talent using Knowledge (arcana) rather than Knowledge (local).
-
-This theory can gain notions in the following ways:
-
-- You successfully identify a class feature, talent, or feat as it is being used by the subject.
-- A creature fails a saving throw or opposed skill check against a talent or feat used by the subject of your theory.
-- The subject succeeds on a skill check that requires at least a swift action to perform.
-- You successfully assess the subject’s proficiency in a skill.
-
-**Breakthrough:** You may spend 2 notions as a swift action to mimic a single skill you saw the subject use or that is an associated skill for a sphere you have identified them possessing. For 1 round per rank in your associated skill, you are treated as having ranks in the selected skill equal to your ranks in your associated skill. You may spend 4 notions to extend this duration to 1 minute per rank.
-
-**Breakthrough:** You may spend 2 notions as a move action to mimic a single feat or talent that you have identified the subject possessing or using. You must meet the prerequisites for the feat or talent to mimic it in this way. For 1 round per rank in your associated skill, you are treated as possessing the feat or talent. You may spend 5 notions to extend this duration to 1 minute per rank.
-
-For each Breakthrough from this theory, you may only have one instance of the specific Breakthrough active at a time. You may select this talent multiple times, each time increasing the number of instances of each Breakthrough you may have active at a time by 1.
-**Associated Feat:** Barroom Brawler
-
-#### Politics of Immortals [utility] [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Study Sphere (Speculate Affairs)
-
-When your research topic selected with the Speculate Affairs talent pertains to a group of creatures which includes otherworldly beings such as outsiders, fey, or gods, add the following additional effects to your theory and Breakthroughs:
-
-- If the research topic has at least 3 notions, whenever you enter a new location, you are immediately aware of any decrees, agreements, or ideological taboos held by your research topic regarding that area (for example, a fey court agreeing not to enter a region as long as a specific stone remains standing)
-- When you spend a notion to learn the relative strength of a specific creature, you also learn the creature’s alignment, type, subtypes, and association with any specific planes
-- When you spend notions to learn of other groups that hold your research topic in high or low regard, you may specify which planes each specific group comes from (if such groups exist on the chosen planes) or learn which planes the groups you learn about are most associated with
-
-In addition, you add the following breakthroughs to the Speculate Affairs theory.
-
-**Breakthrough:** You can spend any amount of notions as part of negotiating with a creature under a (calling) effect (such as the planar binding spell or the Call Planar Creature talent). Every notion spent allows you to treat the creature as having 1 fewer hit dice for the purpose of determining its payment or grants you a +1 bonus to your Charisma check to persuade the creature to perform a task. If you are bound in such an effect, you may spend any number of notions to gain an equal bonus on Charisma checks made to escape being entrapped by such an effect.
-
-**Breakthrough:** You can spend any amount of notions as part of researching or speaking a specific outsider’s true name (see Ultimate Magic pg 101.) or researching an Infernal Contract or similar document (see Book of the Damned pg 203.), gaining a +1 bonus to the Knowledge (planes) or Linguistics check for each notion spent.
-
 #### Retrocognition [utility] (Su) [DRS]
 
 **Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
@@ -559,26 +512,6 @@ You add the following breakthroughs to your theories:
 - **Breakthrough:** You can spend 1 notion as a swift action to make a square within your reach difficult terrain against the subject of your theory for 1 minute.
 - **Breakthrough:** While in a natural environment, you can spend 2 notions as a swift action to grant yourself concealment against the subject of your theory until the end of your next turn; you can spend 3 additional notions when using this breakthrough to improve this to total concealment.
 
-#### Mechanical Aptitude [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You possess a deep understanding of machinery and how people use it.
-
-**Prerequisites:** Knowledge (dungeoneering) 3 ranks, or Knowledge (engineering) 3 ranks; Study sphere.
-
-**Benefit:** You can begin a theory as a free action whenever you successfully identify the properties of a technological item in your subject’s possession or identify that your subject is a construct or trap. If you do so, the theory begins with one notion.
-You add the following methods of gaining a notion to your theories:
-
-- The subject of your theory uses or is affected by a technological item or racial/class feature based on technology that requires at least a standard action.
-- A technological item in your subject’s possession is successfully suppressed, affected using the Disable Device skill, or gains the broken condition.
-- If the subject of your theory is a trap, you gain a notion when a creature triggers it.
-
-Add the following breakthroughs to your theory
-
-- **Breakthrough:** You can spend any amount of notions as a free action that can be taken outside of your turn to gain an equivalent insight bonus to a single Craft (mechanical) or Disable Device check or to a combat maneuver made to disarm, steal, or sunder.
-- **Breakthrough:** You can spend any amount of notions as a free action to ignore a number of points of hardness equal to the number of notions spent until the start of your next turn. If you spend at least 5 notions, all of your attacks deal full damage to objects.
-
 #### Mystical Aptitude
 
 You are well-informed on many phenomena, the essence and functions of the planes, and the foundations of arcana.
@@ -596,25 +529,6 @@ You add the following breakthroughs to your theories:
 
 - **Breakthrough:** You can spend any amount of notions as a free action that can be taken outside of your turn to gain an equivalent insight bonus to a single concentration, Spellcraft, or Use Magic Device check, or on a caster level check to overcome a creature’s spell resistance.
 - **Breakthrough:** You can spend 4 notions as an immediate action whenever a creature within medium range is killed or banished to its home plane to make it difficult for them to return. In order to return the creature to life or to the plane it was banished from, the caster attempting to return them must succeed on a caster level check against a DC equal to 11 + your ranks in the Study sphere’s associated skill. You can reveal a plan as part of using this ability to reduce the notion cost of this breakthrough by 2.
-
-#### Occult Aptitude [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-You are exceptionally skilled at prying into dangerous or forbidden information.
-**Prerequisites:** Knowledge (arcana) 3 ranks, Knowledge (dungeoneering) 3 ranks, or Knowledge (planes) 3 ranks; Study sphere.
-
-**Benefits:** You can begin a theory as a free action whenever you successfully identify the effects of a curse or identify a creature as an aberration. If you do so, the theory begins with one notion.
-
-You add the following methods of gaining a notion to your theories:
-+You or an ally successfully uses an Occult Skill Unlock to find information about the subject of your theory.
-+The subject of your theory causes a creature you perceive (including yourself) to take strain damage.
-
-You add the following breakthroughs to your theories:
-
-- **Breakthrough:** When you would take strain damage or ability damage to one of your mental ability scores, you can spend any amount of notions to reduce the amount of damage taken by 1 per notion spent (to a minimum of 0).
-- **Breakthrough:** Whenever you cast a spellcrafted spell or technique that you do not meet the prerequisites for, you may spend any number of notions. For every notion spent, the chance of a mishap is reduced by 5% to a minimum of 0%.
-- **Breakthrough:** Whenever you would suffer backlash from the forbidden lore class feature or a similar thaumaturge class feature, you may spend 3 notions to negate the backlash.
 
 #### Societal Aptitude
 

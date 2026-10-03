@@ -54,12 +54,6 @@ At 20th level, the dreamtwister may make one instance of their Vision charm perm
 
 This replaces permanent illusion.
 
-## Mimeses [SM—]
-
-**Source:** Fey Adept Expanded: Mimeses
-
-A target under the effects of your Vision charm is considered to be within the area of your illusion and affected by your glamer for the purpose of your mimesis abilities.
-
 </div>
 
 </div>

@@ -193,8 +193,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Operative Gear]]
 [[Skill Rules]]
 [[Trade Traditions]]
-[[Random Motivation Generator SM—|Random Motivation Generator]]
-[[Reliance]] [SM—]
 
 ---
 
@@ -219,14 +217,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Strain (formerly Madness)|Strain]] (formerly Madness)
 [[Variant Rules]]
 [[Wilderness]]
-
-[[Card Casting Variants]] [SM—]
-[[Critical Fumble DeckTable|Critical Fumble Deck/Table]] [SM—]
-[[Critical Hit DeckTable|Critical Hit Deck/Table]] [SM—]
-[[Dominion]] [SM—]
-[[Passion Talents]] [SM—] [Content Warning]
-[[Stamina Uses for Feats 3PP|Stamina Uses for Feats]] [SM—]
-[[Trial Talents]] [SM—]
 
 </div>
 
@@ -289,8 +279,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Spellzones]]
 - [[Summoning Orbs]]
 - [[Talent Crystals]]
-
-- [[Card Sleeves]] [SM—]
 
 [[Loot Tables]]
 
@@ -375,9 +363,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Theurge Feats|Theurge]]
 [[Wild Magic Feats|Wild Magic]]
 
-[[Card and Deck Feats]] [SM—]
-[[Playpiece Feats]] [SM—]
-
 </div>
 
 <div class="sop-col">
@@ -417,8 +402,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Theorist]]
 [[Troubadour]]
 [[Warden (warden-class)|Warden]]
-
-[[Raveler]] [SM—]
 
 
 ---
@@ -484,15 +467,15 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[Barbarian](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Barbarian)** | [[Barbearian (Barbarian Archetype)\|Barbearian]], [[Berserker (Barbarian Archetype)\|Berserker]], [[Ferocious Brute (Barbarian Archetype)\|Ferocious Brute]], [[Painted Savage (BarbarianUnchained Barbarian Archetype)\|Painted Savage]], [[Tranquil Barbarian (Barbarian Archetype)\|Tranquil Barbarian]] [NS], [[Worldsoul Incarnate (BarbarianUC Barbarian Archetype)\|Worldsoul Incarnate]] | [[Barbarian Rage Powers]] |
 | **[Barbarian, Unchained](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Barbarian%20(Unchained))** | [[Painted Savage (BarbarianUnchained Barbarian Archetype)\|Painted Savage]], [[Super Soldier]] [DRS], [[Tribal Champion (Unchained Barbarian Archetype)\|Tribal Champion]], [[Worldsoul Incarnate (BarbarianUC Barbarian Archetype)\|Worldsoul Incarnate]] |  |
 | **[Bard](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Bard)** | [[Beast Piper (Bard Archetype)\|Beast Piper]] [CS], [[Champion Bard (Bard Archetype)\|Champion Bard]] [CS], [[Corteggiare (Bard Archetype)\|Corteggiare]], [[Knave (Bard Archetype)\|Knave]], [[Kung Fu Exemplar (Bard Archetype)\|Kung Fu Exemplar]] [CS], [[Minstrel (Bard Archetype)\|Minstrel]], [[Musician (Bard Archetype)\|Musician]] [CS] [DRS], [[Purrsician]], [[Sovereign Piper (Bard Archetype)\|Sovereign Piper]] [CS], [[Shadowsinger (Bard Archetype)\|Shadowsinger]] [DRS], [[Sphere Bard]], [[Thespian (Bard Archetype)\|Thespian]] | [[Bardic Masterpieces]] |
-| **[Bloodrager](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Bloodrager)** | [[Hemophage (Bloodrager Archetype)\|Hemophage]] [CS], [[Mystic Scion (Bloodrager Archetype)\|Mystic Scion]], [[Sphere Bloodrager]], [[Saturator (Bloodrager Archetype)\|Saturator]] [SM—], [[Stormlord (Bloodrager Archetype)\|Stormlord]], [[Wendigo (Bloodrager Archetype)\|Wendigo]] [CS] |  |
+| **[Bloodrager](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Bloodrager)** | [[Hemophage (Bloodrager Archetype)\|Hemophage]] [CS], [[Mystic Scion (Bloodrager Archetype)\|Mystic Scion]], [[Sphere Bloodrager]],[[Stormlord (Bloodrager Archetype)\|Stormlord]], [[Wendigo (Bloodrager Archetype)\|Wendigo]] [CS] |  |
 | **[Brawler](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Brawler)** | [[Brutal Pummeler (Brawler Archetype)\|Brutal Pummeler]], [[Mechanized Brawler]] [DRS], [[Prescient Pugilist (Brawler Archetype)\|Prescient Pugilist]] [CS] |  |
 | **[Cavalier](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Cavalier)** | [[Blooded Knight (Cavalier Archetype)\|Blooded Knight]], [[Cavalry Officer (Cavalier Archetype)\|Cavalry Officer]], [[Halfling Dragonrider]], [[Knight Of The Order (Cavalier Archetype)\|Knight of the Order]] | [[Cavalier Orders]] |
-| **[Cleric](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Cleric)** | [[Faithful Shepherd (Cleric Archetype)\|Faithful Shepherd]], [[Kindred Keeper (3PP)\|Kindred Keeper]] [SM—] [CS], [[Sphere Cleric]], [[Tech Priest]] [DRS] | [[Cleric Domains]] |
+| **[Cleric](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Cleric)** | [[Faithful Shepherd (Cleric Archetype)\|Faithful Shepherd]],[[Sphere Cleric]], [[Tech Priest]] [DRS] | [[Cleric Domains]] |
 | **[Druid](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Druid)** | [[Avatar (Druid Archetype)\|Avatar]] [CS], [[Child Of Hope (Druid Archetype)\|Child of Hope]] [CS], [[Sphere Druid]], [[Spirit Mender (Druid Archetype)\|Spirit Mender]] |  |
 | **[Fighter](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Fighter)** | [[Coiled Blade (Fighter Archetype)\|Coiled Blade]], [[Fracture (Fighter Archetype)\|Fracture]], [[Impossible Warrior (Fighter Archetype)\|Impossible Warrior]], [[Impressor (Fighter Archetype)\|Impressor]], [[Mulus (Fighter Archetype)\|Mulus]], [[Runesinger (Fighter Archetype)\|Runesinger]] [CS], [[Soldier (Fighter Archetype)\|Soldier]], [[Spirit-Wielder (Fighter Archetype)\|Spirit-Wielder]], [[War Hero (Fighter Archetype)\|War Hero]] |  |
 | **[Gunslinger](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Gunslinger)** | [[Clockstopper (Gunslinger Archetype)\|Clockstopper]] [CS], [[Cursed Stranger (Gunslinger Archetype)\|Cursed Stranger]], [[Game Hunter (Gunslinger Archetype)\|Game Hunter]], [[Glass-Eye Gunmage (Gunslinger Archetype)\|Glass-Eye Gunmage]], [[Gunfighter (Gunslinger Archetype)\|Gunfighter]], [[Junkshot]], [[Space Marine (Gunslinger Archetype)\|Space Marine]], [[Spellshot Engineer (Gunslinger Archetype)\|Spellshot Engineer]] [CS], [[Wandslinger (Gunslinger Archetype)\|Wandslinger]] |  |
 | **[Hunter](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Hunter)** | [[Beast Bender (Hunter Archetype)\|Beast Bender]] [CS], [[Beastmaster (Hunter Archetype)\|Beastmaster]], [[Greenrunner (Hunter Archetype)\|Greenrunner]] [CS], [[Master Of The Hunt (Hunter Archetype)\|Master of the Hunt]] [CS], [[Pellucid Hunter (Hunter Archetype)\|Pellucid Hunter]], [[Sphere Hunter]] |  |
-| **[Inquisitor](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Inquisitor)** | [[Champion Inquisitor (Inquisitor Archetype)\|Champion Inquisitor]] [CS], [[Ordained Hunter (Inquisitor Archetype)\|Ordained Hunter]], [[Shield Of The Gods (Inquisitor Archetype)\|Shield of the Gods]], [[Sincrafter (Inquisitor Archetype) (SM—)\|Sincrafter]] [CS], [[Soldier Of The Gods (Inquisitor Archetype)\|Soldier of the Gods]] [CS], [[Spellwarper (Inquisitor Archetype)\|Spellwarper]], [[Sphere Inquisitor]] | [[Inquisitor Inquisitions]] |
+| **[Inquisitor](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Inquisitor)** | [[Champion Inquisitor (Inquisitor Archetype)\|Champion Inquisitor]] [CS], [[Ordained Hunter (Inquisitor Archetype)\|Ordained Hunter]], [[Shield Of The Gods (Inquisitor Archetype)\|Shield of the Gods]],[[Soldier Of The Gods (Inquisitor Archetype)\|Soldier of the Gods]] [CS], [[Spellwarper (Inquisitor Archetype)\|Spellwarper]], [[Sphere Inquisitor]] | [[Inquisitor Inquisitions]] |
 | **[Investigator](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Investigator)** | [[Acupuncturist (Investigator Archetype)\|Acupuncturist]], [[Battered Detective (Investigator Archetype)\|Battered Detective]], [[Cerebral Analyst (Investigator Archetype)\|Cerebral Analyst]], [[Champion Investigator (Investigator Archetype)\|Champion Investigator]] [CS], [[Detective (Investigator Archetype)\|Detective]], [[Nightblazer (Investigator Archetype)\|Nightblazer]], [[Psyforensic (Investigator Archetype)\|Psyforensic]], [[Sphere Investigator]], [[Tactician (Investigator Archetype)\|Tactician]] | [[Investigator Talents]] |
 | **[Kineticist](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Kineticist)** | [[Scion (Kineticist Archetype)\|Scion]] |  |
 | **[Magus](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Magus)** | [[Arcane Weaponeer (Magus Archetype)\|Arcane Weaponeer]], [[Mystic (Magus Archetype)\|Mystic]] [CS],[[Runic Knight (Magus Archetype)\|Runic Knight]], [[Sphere Magus]] | [[Magus Arcana]] |
@@ -502,47 +485,29 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[Monk, Unchained](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Monk%20(Unchained))** | [[Adamant Disciple (Unchained Monk Archetype)\|Adamant Disciple]], [[Beastsoul Monk (NormalUnchained Monk Archetype)\|Beastsoul Monk]], [[Disciple Of Chaos (Unchained Monk Archetype)\|Disciple of Chaos]], [[Drifting Lotus (Unchained Monk Archetype)\|Drifting Lotus]] [CS], [[Erudite Soul (Unchained Monk Archetype)\|Erudite Soul]], [[Master Of Many Stances (Unchained Monk Archetype)\|Master of Many Stances]], [[Monkmentum (MonkUnchained Monk Archetype)\|Monkmentum]], [[Shadow Boxer (Unchained Monk Archetype)\|Shadow Boxer]], [[Steelsoul Monk (Unchained Monk Archetype)\|Steelsoul Monk]], [[Street Fighter (MonkUnchained Monk Archetype)\|Street Fighter]], [[Sundering Hand (MonkUnchained Monk Archetype)\|Sundering Hand]], [[The Stupor Monk (Unchained Monk Archetype)\|The Stupor Monk]], [[Tranquil Soul (Unchained Monk Archetype)\|Tranquil Soul]], [[Yamabushi (Unchained Monk Archetype)\|Yamabushi]] | [[Ki Powers]] |
 | **[Ninja](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Ninja)** | [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Shinobi (Ninja Archetype)\|Shinobi]], [[Shrouded Operative (Ninja Archetype)\|Shrouded Operative]] [CS] |  |
 | **[Occultist](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Occultist)** | [[Fanebound Mystic]] [DRS], [[Glory Seeker (Occultist Archetype)\|Glory Seeker]], [[Lauriger]] [CS], [[Reliquary Keeper (Occultist Archetype)\|Reliquary Keeper]] |  |
-| **[Oracle](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Oracle)** | [[Agent of Change (Oracle Archetype)\|Agent of Change]] [SM—], [[Augur (Oracle Archetype)\|Augur]], [[Sphere Oracle]] |  |
+| **[Oracle](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Oracle)** | [[Augur (Oracle Archetype)\|Augur]], [[Sphere Oracle]] |  |
 | **[Paladin](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Paladin)** | [[Antimage (PaladinAntipaladin Archetype)\|Antimage]], [[Arbiter (PaladinAntipaladin Archetype)\|Arbiter]], [[Avowed (PaladinAntipaladin Archetype)\|Avowed]] [CS], [[Champion Of The Cause (PaladinAntipaladin Archetype)\|Champion Of The Cause]] [CS], [[Dirt Spattered Angel (Paladin Archetype)\|Dirt Spattered Angel]], [[Grand Purifier (Paladin & Antipaladin Archetype)\|Grand Purifier]] [CS], [[Parzivalian Knight (Paladin Archetype)\|Parzivalian Knight]], [[Sphere Paladin]], [[Spheres Oathbound (Paladin and Antipaladin Archetype)\|Spheres Oathbound]], [[Time Knight (Paladin Archetype)\|Time Knight]] [CS], [[Valiant Champion (Paladin Archetype)\|Valiant Champion]] [CS], [[Warrior Of Blind Faith (PaladinAntipaladin Archetype)\|Warrior of Blind Faith]] |  |
 | **[Psychic](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Psychic)** | [[Ascendant Mind (Psychic Archetype)\|Ascendant Mind]], [[Esper]] [DRS] |  |
 | **[Ranger](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Ranger)** | [[Adventurer (Ranger Archetype)\|Adventurer]], [[Apex Predator (Ranger Archetype)\|Apex Predator]] [CS], [[Explorer (Ranger Archetype)\|Explorer]] [CS], [[Folk Healer (Ranger Archetype)\|Folk Healer]], [[Geosurveyor (Ranger Archetype)\|Geosurveyor]], [[Jikininki (Ranger Archetype)\|Jikininki]], [[Nature's Blade (Ranger Archetype)\|Nature's Blade]], [[Sphere Ranger]], [[Temporal Trapper (Ranger Archetype)\|Temporal Trapper]] [CS], [[Wayfarer (Ranger Archetype)\|Wayfarer]] |  |
 | **[Rogue](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Rogue)** | [[Canny Scoundrel (Rogue Archetype)\|Canny Scoundrel]], [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Lucky Bastard (RogueUnchained Rogue Archetype)\|Lucky Bastard]], [[Snake Oil Salesman (Rogue Archetype)\|Snake Oil Salesman]], [[Spectral Infiltrator (RogueU. Rogue Archetype)\|Spectral Infiltrator]], [[Time Thief (RogueUnchained Rogue Archetype)\|Time Thief]] |  |
 | **[Rogue, Unchained](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Rogue%20(Unchained))** | [[Canny Scoundrel (Rogue Archetype)\|Canny Scoundrel]], [[Deadly Assassin (Unchained Rogue Archetype)\|Deadly Assassin]], [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Grifter (Unchained Rogue Archetype)\|Grifter]], [[Grinning Brigand (U. Rogue Archetype)\|Grinning Brigand]], [[Lucky Bastard (RogueUnchained Rogue Archetype)\|Lucky Bastard]], [[Mesmer (Unchained Rogue Archetype)\|Mesmer]], [[Shade (Unchained Rogue Archetype)\|Shade]] [CS], [[Spectral Infiltrator (RogueU. Rogue Archetype)\|Spectral Infiltrator]], [[Talent Thief (Unchained Rogue Archetype)\|Talent Thief]], [[Time Thief (RogueUnchained Rogue Archetype)\|Time Thief]], [[Treasure Seeker (Unchained Rogue Archetype)\|Treasure Seeker]] | [[Rogue Talents]] |
 | **[Samurai](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Samurai)** | [[Blind Swordsman (Samurai Archetype)\|Blind Swordsman]], [[Fabled Blade (Samurai Archetype)\|Fabled Blade]], [[Honorbound (Samurai Archetype)\|Honorbound]], [[Ronin (Samurai Archetype)\|Ronin]] [DRS], [[Samurai with a Gun (Samurai Archetype)\|Samurai with a Gun]] [DRS], [[Wandering Swordsman (Samurai Archetype)\|Wandering Swordsman]] |  |
-| **[Shaman](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Shaman)** | [[Communal Ritualist (Shaman Archetype)\|Communal Ritualist]] [SM—] [CS], [[Dirgesinger (Shaman Archetype)\|Dirgesinger]], [[Sphere Shaman]] | [[Shaman and Witch Hexes]] |
+| **[Shaman](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Shaman)** | [[Dirgesinger (Shaman Archetype)\|Dirgesinger]], [[Sphere Shaman]] | [[Shaman and Witch Hexes]] |
 | **[Skald](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Skald)** | [[Growling Marauder (Skald Archetype)\|Growling Marauder]] [CS], [[Masterwork Chronicler (Skald Archetype)\|Masterwork Chronicler]] [CS], [[Primordia (Skald Archetype)\|Primordia]], [[Skaldic Poet (Skald Archetype)\|Skaldic Poet]], [[Sphere Skald]], [[Storm Herald (Skald Archetype)\|Storm Herald]] |  |
 | **[Slayer](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Slayer)** | [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Guild Assassin (Slayer Archetype)\|Guild Assassin]], [[Mercenary (Slayer Archetype)\|Mercenary]], [[Time Stalker (Slayer Archetype)\|Time Stalker]] | [[Slayer Talents]] |
-| **[Sorcerer](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Sorcerer)** | [[Inheritor (Sorcerer Archetype)\|Inheritor]] [CS], [[Sphere Sorcerer]] |  |
-
-[[Sorcerer Bloodlines]]
-
-| Class | Archetypes | Class Options |
-| --- | --- | --- |
+| **[Sorcerer](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Sorcerer)** | [[Inheritor (Sorcerer Archetype)\|Inheritor]] [CS], [[Sphere Sorcerer]] | [[Sorcerer Bloodlines]] |
 | **[Spiritualist](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Spiritualist)** | [[Martial Spiritualist (Spiritualist Archetype)\|Martial Spiritualist]] [CS], [[Psychomancer (Spiritualist Archetype)\|Psychomancer]] | [[Phantom Options]] |
 | **[Summoner](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Summoner)** | [[Champion Summoner (Summoner and Unchained Summoner Archetype)\|Champion Summoner]] [CS] [DRS], [[Mirrored Soul (SummonerUnchained Summoner Archetype)\|Mirrored Soul]] [CS], [[Nyancaller (SummonerUnchained Summoner Archetype)\|Nyancaller]], [[Soul Binder (Summoner Archetype)\|Soul Binder]], [[Sphere Summoner (SummonerUnchained Summoner Archetype)\|Sphere Summoner]], [[Void Conduit (SummonerUnchained Summoner Archetype)\|Void Conduit]] [DRS] |  |
 | **[Summoner, Unchained](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Summoner%20(Unchained))** | [[Champion Summoner (Summoner and Unchained Summoner Archetype)\|Champion Summoner]] [CS] [DRS], [[Mirrored Soul (SummonerUnchained Summoner Archetype)\|Mirrored Soul]] [CS], [[Nyancaller (SummonerUnchained Summoner Archetype)\|Nyancaller]], [[Soul Binder (Summoner Archetype)\|Soul Binder]], [[Sphere Summoner (SummonerUnchained Summoner Archetype)\|Sphere Summoner]], [[Void Conduit (SummonerUnchained Summoner Archetype)\|Void Conduit]] [DRS] |  |
 | **[Swashbuckler](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Swashbuckler)** | [[Charming Fencer (Swashbuckler Archetype)\|Charming Fencer]], [[Dancing Blade (Swashbuckler Archetype)\|Dancing Blade]], [[Dervish]], [[Hasted Blade (Swashbuckler Archetype)\|Hasted Blade]] [CS], [[Prismatic Duelist (Swashbuckler Archetype)\|Prismatic Duelist]] [CS] | [[Swashbuckler Deeds]] |
 | **[Vigilante](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Vigilante)** | [[Alter-Ego (Vigilante Archetype)\|Alter-Ego]], [[Hidden Master (Vigilante Archetype)\|Hidden Master]] [CS], [[Informant (Vigilante Archetype)\|Informant]], [[Living Banner (Vigilante Archetype)\|Living Banner]], [[Masked Adept (Vigilante Archetype)\|Masked Adept]], [[Possessed (Vigilante Archetype)\|Possessed]], [[Shadow Warrior (Vigilante Archetype)\|Shadow Warrior]], [[Symbol Of Valor (Vigilante Archetype)\|Symbol of Valor]] | [[Vigilante Talents]] |
-| **[Warpriest](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Warpriest)** | [[Bastion Of Conviction (Warpriest Archetype)\|Bastion of Conviction]] [CS], [[Beacon of Intolerance (Warpriest Archetype)\|Beacon of Intolerance]] [SM—], [[Champion Warpriest (Warpriest Archetype)\|Champion Warpriest]] [CS], [[Devoted Disciple (Warpriest Archetype)\|Devoted Disciple]], [[Divine Heretic (Warpriest Archetype)\|Divine Heretic]], [[Divinitech Pilot]] [DRS], [[Sphere Warpriest]] | [[Warpriest Blessings]] |
+| **[Warpriest](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Warpriest)** | [[Bastion Of Conviction (Warpriest Archetype)\|Bastion of Conviction]] [CS],[[Champion Warpriest (Warpriest Archetype)\|Champion Warpriest]] [CS], [[Devoted Disciple (Warpriest Archetype)\|Devoted Disciple]], [[Divine Heretic (Warpriest Archetype)\|Divine Heretic]], [[Divinitech Pilot]] [DRS], [[Sphere Warpriest]] | [[Warpriest Blessings]] |
 | **[Witch](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Witch)** | [[Hexblade]] [DRS], [[Sphere Witch]], [[Toilbrook (Witch Archetype)\|Toilbrook]] [CS], [[Withering Witch (Witch Archetype)\|Withering Witch]] | [[Shaman and Witch Hexes\|Witch Hexes]] |
 | **[Wizard](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Wizard)** | [[Cosmic Sage (Wizard Archetype)\|Cosmic Sage]], [[Eclectic Researcher (Wizard Archetype)\|Eclectic Researcher]], [[Magitect (Wizard Archetype)\|Magitect]] [DRS], [[Sphere Wizard]] |  |
 | **[Animal Companions](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Companion)** | [[Martial Beast (Animal Companion Archetype)\|Martial Beast]] [CS] |  |
 | **[Familiars](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)** | [[Beast Of Omen (Familiar Archetype)\|Beast of Omen]], [[Dream Guide (Familiar Archetype)\|Dream Guide]], [[Shadow Familiar (Familiar Archetype)\|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)\|Willing Martyr]] |  |
-| **Cantor** | [[Champion Cantor (Cantor Archetype) (SM—)\|Champion Cantor]] [SM—] | [[Cantor Hymns]] |
-| **Dweomerlak** | [[Arcane Void (Dweomerlak Archetype)\|Arcane Void]] [SM—] |  |
-| **Fighter/Wizard/Rogue** | [[Spheredelver (FighterWizardRogue Archetype)\|Spheredelver]] [SM—] |  |
-| **Psion** | [[Sphere Psion 3PP\|Sphere Psion]] [SM—] |  |
+| **Cantor** |  | [[Cantor Hymns]] |
 | **Soulknife** | [[Epoch-Walker (Soulknife Archetype)\|Epoch-Walker]] [CS] | [[Soulknife Blade Skills]] |
-| **Voltaic** | [[Spheres Voltaic 3PP\|Spheres Voltaic]] [CS] [SM—] |  |
-| **Wilder** | [[Source Seeker SM—\|Source Seeker]] [SM—], [[Sphere Wilder]] [SM—] |  |
-| **Demoniac** | [[Sphere Demoniac SM—\|Sphere Demoniac]] [CS] [SM—] |  |
-| **Diabolist** | [[Sphere Diabolist SM—\|Sphere Diabolist]] [CS] [SM—] |  |
-| **Exalted** | [[Sphere Exalted SM—\|Sphere Exalted]] [SM—] |  |
-| **Feysworn** | [[Sphere Feysworn SM—\|Sphere Feysworn]] [CS] [SM—] |  |
-| **Mystery Cultist** | [[Sphere Mystery Cultist SM—\|Sphere Mystery Cultist]] [CS] [SM—] |  |
-| **Proctor** | [[Sphere Proctor SM—\|Sphere Proctor]] [CS] [SM—] |  |
-| **Sentinel** | [[Sphere Sentinel SM—\|Sphere Sentinel]] [SM—] |  |
-| **Souldrinker** | [[Sphere Souldrinker SM—\|Sphere Souldrinker]] [CS] [SM—] |  |
 
 </div>
 

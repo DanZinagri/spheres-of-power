@@ -666,18 +666,6 @@ Educated items can only be used by people who are trained in a specific magic or
 
 Expensive items cost 25% more than usual to craft. This does not increase their selling price, only the cost to craft them. A crafting tradition cannot have both this and the Cheap boon.
 
-#### Faulty [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Faulty items have a random flaw from among the flaws in dynamic magic item creation, determined when the item is crafted. This drawback may be selected up to twice, each time granting a random flaw.
-
-#### Focus-Sapping [SM—]
-
-**Source:** Baron’s Secluded Library
-
-As long as this item is worn by a creature, the number of instances of martial focus the creature can maintain is reduced by 1. Donning the item causes the creature to immediately lose martial focus. The item has no effect when worn by a creature that cannot normally gain martial focus.
-
 #### Fragile
 
 Fragile items have half their usual hardness and half their usual number of hit points. Any successful critical hit against the item gives it the broken condition, regardless of damage done. Incompatible: Resilient
@@ -716,12 +704,6 @@ The item gets in your way as you attempt to perform tasks. Whenever you would ro
 
 Oath-Bound items require their users to adhere to some type of behavioral code known as an oath. These items actively draw their power from the existence and impact of this oath, and as such, do not function if they are too similar to any oath a character already follows (such as a paladin’s code of conduct). The details of an Oath-Bound item’s code is always decided by the GM and should be a genuine limit on any character that attempts to use the item, but appropriate examples include class codes of conduct, monk vows, and oaths from Champions of the Spheres: Study and Practice. Oath-Bound items immediately and instantly convey the details of their oath to any creature that picks them up.
 
-#### Perpetual Cost [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Perpetual cost items represent a permanent drain on your magical power as long as they exist. Whenever you craft a magic item, your maximum number of spell points is reduced by 1 until the item is destroyed or consumed. You may spend eight hours to permanently depower a magic item you have crafted (even if you don't have the item with you) to regain the spell point lost in creating it.
-
 #### Sacrificing
 
 Sacrificing items only recharge their uses when their user sacrifices a creature whose Hit Dice are equal to at least half the item’s caster level to the item. Making this sacrifice requires a coup de grace against a valid target while the item is within 5 feet. If a creature survives the sacrifice attempt, the sacrificing item does not recharge.
@@ -729,12 +711,6 @@ Sacrificing items only recharge their uses when their user sacrifices a creature
 Sacrificing items can only be recharged once per day through this method. This drawback can only be applied to items that have a limited number of uses per day. This drawback may be added to a crafting tradition a second time. When it is, the item can only be recharged by sacrificing creatures of a specific type or subtype, such as outsiders or undead. This otherwise functions as detailed above.
 
 With the GM’s permission, Sacrificing items can also be powered by sacrificing 10 creatures with 5 or fewer Hit Dice per caster level of the item. There may be specific locations where creatures can be sacrificed further away, such as ritual chambers to kill peasants en masse.
-
-#### Spell-Sapping [SM—]
-
-**Source:** Baron’s Secluded Library
-
-As long as this item is worn by a creature, that creature’s maximum spell points are reduced by ½ the creature’s MSB (minimum reduction of 1). Donning the item causes the creature to immediately lose spell points equal to the reduction in their maximum spell points. The item has no effect when worn by a creature that does not have any spell points remaining
 
 #### Taxing
 
@@ -773,12 +749,6 @@ The item becomes an intelligent magic item, using the creature’s mental abilit
 Users can attempt to use items with this quality even if the item is out of daily uses. Only items with a limited number of daily uses, and at least three uses per day, can have the Dregs Of Magic. It is possible to apply this tradition to items that gain more uses later, in which case it does not function until the item has at least three daily uses. Each time the item is used while out of daily uses, it gains a cumulative 20% chance that it fails whenever it is used (even if it currently has daily uses left). Roll for its failure chance before the item is activated. When an item with Dregs Of Magic fails, it does not activate (wasting the action used to try and activate it), it gains the broken condition, and it becomes unusable until repaired.
 
 Repairing the item does not reduce its chance of failure; instead, for every 24 hours straight that the item has its maximum number of charges, its failure chance goes down by 10% (to a minimum of 0%). Creatures cannot attempt to draw the Dregs Of Magic from an item more than twice per day.
-
-#### Quirky [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Peculiar items have a random quirk from among the quirks in dynamic magic item creation, determined when the item is crafted.
 
 #### User-Bound
 
@@ -851,27 +821,6 @@ Living items regain 1 hit point per day as long as they are continually exposed 
 #### Maker’s Mark [DbH]
 
 The creator of this item has programmed a failsafe into the item to prevent their enemies from using it. Whoever is carrying or using the item takes a -5 penalty on all saving throws against effects created by the item’s original creator or beings which serve the creator.
-
-#### Perky [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Peculiar items have either two random perks or one chosen perk from among the perks in dynamic magic item creation, determined when the item is crafted.
-
-##### Class-Specific Challenge Table
-
-In Spheres, the distinctions between power sources can often be blurred, and so any of the class-specific challenges may be appropriate for a character of any class depending on the thematics of their abilities. To spread out the implementation of such abilities, a table has been created for class-specific challenges so that GMs may roll randomly on it.
-
-| d8 | Challenges |
-| --- | --- |
-| 1 | Crisis of Faith |
-| 2 | Instability from Within |
-| 3 | Natural Disaster |
-| 4 | Natural Wonder |
-| 5 | Otherworldly Aid |
-| 6 | Otherworldly Influence |
-| 7 | Personal Surge |
-| 8 | Sign from the Gods |
 
 #### Resilient
 
@@ -1301,19 +1250,6 @@ Note that Protection shows up more often than anything else, but each slot has a
 ---
 
 # Construct Modifications
-
-## Integrated Magic Item [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-**Requirements:** Craft Construct, variable (see below).
-**CR increase:** varies (see below)
-**Cost:** variable (see below)
-
-The construct has a magic item integrated into its form. If the item has a constant effect, the construct continually benefits from the item’s effects. If the item has limited uses (either per day or in total), the construct can use the item as if it was holding or wearing it. The construct automatically fails any Use Magic Device checks to use integrated magic items.
-The cost of an integrated magic item is equal to 5,000 gp + the base cost of the magic item that is to be integrated. In order to integrate a magic item, the creator must possess both the Craft Construct feat as well as any feats and talents necessary to craft the original item.
-
-If a construct has at least one integrated magic item, its CR increases by +1. If the total value of integrated magic items exceeds the expected wealth by level of a PC whose wealth is equal to the Construct’s CR, its CR is increased by an additional +1.
 
 </div>
 

@@ -96,22 +96,6 @@ For information regarding wild magic events and the wild magic system, see [[Wil
 
 On a result of 11-20, subtract ten from your roll, then add that number to your wild magic result, taking the new result even if it is worse. If you possess at least 6 wild magic feats, you may use this ability when triggering a major event (see Variant Rules).
 
-### Spectacular Surge (Wild Magic) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Casting class feature.
-
-**Benefit:** When you use an effect for which two or more wild magic events are guaranteed and a major event is possible, you may negate one non-major event before it is rolled to increase the chance of a major wild magic event by 50%. If you possess at least 4 wild magic feats, you may negate up to two non-major events to increase the chance of a major wild magic event by 100%. These increases to major wild magic chance can result in multiple major wild magic events in the same manner that multiple normal wild magic events can occur.
-
-### War on Reality (Drawback, Wild Magic) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Unsettling Casting
-
-**Benefit:** Whenever you succeed on a concentration check as part of creating a magic sphere effect, any strain damage you take from spending spell points on that effect is reduced by 1 (minimum 0). Whenever you would risk a wild magic effect from creating a magic sphere effect, you may attempt a concentration check (DC 15 + 1/2 the caster level) to reduce the wild magic chance by 25% + 5% for every 5 by which you beat the concentration check DC.
-
 </div>
 
 </div>

@@ -66,12 +66,6 @@ You gain 2 additional uses of empathic link per day.
 
 Your mastery of unarmored combat is so great that even changes to your body do not impede you. You no longer lose the benefits of Unarmored Training when under any polymorph effect.
 
-#### Unique Creative Strike [SM—]
-
-**Prerequisite:** Creative strike class feature.
-
-**Benefit:** You can use your creative strike class feature with crossbows, firearms (but not siege weapons), and other ranged weapons properly sized for you which would not normally be able to used with the creative strike class feature. In addition, this feat is treated as Point- Blank Shot for the purpose of meeting the prerequisites of feats and prestige classes.
-
 ---
 
 ## Champion Feats
@@ -79,14 +73,6 @@ Your mastery of unarmored combat is so great that even changes to your body do n
 Champion feats focus on blending Spheres of Power and Spheres of Might together in various ways.
 
 **Wiki Note:** These were originally known as 'Gish' feats, but due to a potential legal concern, the official name was changed.
-
-#### Amplifying Adjustment (Champion) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Mana sphere (any (amp) talent), Spellhacking sphere
-
-**Benefits:** Whenever you apply a (hack) talent to a magic effect, you may apply an (amp) talent as part of the same action. Whenever you apply a (hack) talent to a magic item, the next time the item is used within the next minute, you may apply an (amp) talent to the effect as a free action that can be taken outside of your turn.
 
 #### Arcane Carnage (Champion, Combat)
 
@@ -126,17 +112,6 @@ If an ingested poison would be applied to a target without them ingesting it (i.
 
 **Benefit:** When you successfully outwit a creature by tricking it when it has a disorientation condition, by embarrassing it when it has the impressed condition, or when using a special outwit option granted by an ability you possess, you may spend a spell point or martial focus instead of the cost to outwit, allowing you to outwit the creature one additional time. A creature cannot be outwitted by this ability more than once every 24 hours.
 
-#### Authentic Conviction (Champion) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Communication Sphere, Fate Sphere
-
-**Benefits:** You gain the following abilities
-
-- **Connected by Fate:** You may form a rapport with a non-hostile creature as part of the action to cast a (motif) or (word) on them and may treat any creatures you have a rapport with as being in the area of any consecration aura you have active. If you have the Heart to Heart talent, you may attempt to form a rapport with a hostile creature as part of the action to cast a (word) on them by baring your soul with a major motivation or comparable secret.
-- **Personal Testimony:** You may bare your soul (a new skill use) with a major motivation as part of using a (consecration) or (word) to treat any number of affected creatures as being one step closer to or further from your alignment and treat creatures that are neutral towards your alignment as being opposed towards or sharing your alignment.
-
 #### Awesome Transformation (Champion) [Alienist HB]
 
 **Prerequisites:** Alteration sphere or Transformation, Gladiator sphere, ability to use boasts.
@@ -171,26 +146,6 @@ If you possess the blood of a target, that target suffers a -1 penalty to any sa
 
 **Benefit:** While you are under the effects of the bear spirit, a creature battered by your brutal strike takes a -1 penalty to their AC and saving throws against your Bear sphere abilities. You may spend a spell point to gain the benefits of one (adrenaline) talent you possess as though it were a (bearacteristic) for the duration of the bear spirit. An (adrenaline) talent used this way must be one that does not require you to expend martial focus at the start of your turn to use.
 
-#### Buffeting Blast (Champion) [SM—]
-
-**Prerequisites:** Destruction sphere, ability to gain martial focus
-
-**Benefit:** Whenever a target is hit by or fails its saving throw against your destructive blast, the target becomes battered for one round.
-
-**Source:** Card Casting 2: Counters and Control
-
-#### Building Performance (Champion) [SM—]
-
-**Prerequisites:** Performance sphere, tension pool
-
-**Benefits:** Whenever you spend a standard or move action to begin an act, perform a scene, apply an (instrumental) talent, or grant a lyric effect, you gain 1 point of tension.
-
-Whenever you gain tension through maneuver momentum while benefiting from a (dance) talent, you gain one additional point of tension.
-
-You may spend 2 points of tension to reduce one of the above listed actions from a standard action to a move action or from a move action to a swift action.
-
-**Source:** Baron’s Glorious Arena
-
 #### Capoeirista (Champion) [LotS]
 
 **Prerequisites:** Open Hand sphere, Performance sphere ((dance) package).
@@ -204,20 +159,6 @@ If you possess the Capoeira Spin Open Hand talent, you also gain a +1 circumstan
 **Prerequisites:** Blood sphere (Cystic Growth (blood art, still)), Alchemy sphere.
 
 **Benefit:** When you use the (blood art) option of Cystic Growth, rather than affect nearby creatures with a disease, you can spend an additional spell point to inflict that creature with a (toxin) you possess. If your target is already suffering from the toxin you are inflicting them with, adjacent creatures must attempt a save against your toxin and your target must succeed at a Fortitude save or be sickened and suffer additional damage as normal.
-
-#### Crimson Cabaret (Champion) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Performance Sphere, Vitae class feature
-
-**Benefits:** If you possess the Act package, as part of the same action to perform a scene that requires a move, standard, or full-round action, you may spend a point of vitae to use any version of your burst ability which requires the same action or less (for example, if you perform a scene as a standard action, you may use your normal burst which requires a move action or use the Omnidirectional Burst hemolytic art which requires a standard action).
-
-If you possess the Dance package, you treat other dancers as creatures under the effect of your bloodletting for the purpose of regaining vitae from the relish ability.
-
-If you possess the Instrumental package, whenever you maintain an instrumental, creatures in the area who are affected by your bloodletting increase the amount of bloodletting damage they are taking by half your operative modifier (up to the normal maximum).
-
-If you possess the Lyric package, you may inflict your bloodletting on any creature which fails their saving throw against your discouraging lyric. You may expend the lyric to cause the target to become exsanguinated.
 
 #### Darkrider (Champion) [BaP]
 
@@ -262,37 +203,6 @@ When creating a darkness, you may choose to attach the effect to an animal ally 
 **Prerequisites:** Counterspell feat, ability to gain martial focus.
 
 When you damage a creature while using an attack action, you may expend martial focus as a swift action to use Counterspell targeting that creature or its attended items. Additionally, you gain a +1 bonus to your MSB for the purposes of counterspelling, to a maximum MSB equal to your Hit Dice.
-
-#### Dispelling Attack, Improved (Counterspell, Champion) [SM—]
-
-**Prerequisites:** Counterspell, Dispelling Attack
-
-**Benefit:** Whenever you strike a target with a weapon attack made as part of an attack action, you may use Dispelling Attack as a free action rather than a swift action. When you use Dispelling Attack in conjunction with the Improved Counterspell or Greater Counterspell feat, you may choose to create an area dispel centered on the target (and including the target) rather than dispelling multiple effects on the target.
-
-**Source:** Card Casting 2: Counters and Control
-
-#### Dramaturgic Spectacle (Champion) [SM—]
-
-**Prerequisites:** Pawstpone, Time Sphere, Performance Sphere (act package)
-
-**Benefits:** Any creature that is part of your act may activate a temporal mote you have created as a scene that takes at least a move action.
-
-**Source:** Baron’s Glorious Arena
-
-#### Dream Team (Champion) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Dreamspace, Faction Sphere
-
-**Benefits:** While inside your dreamspace, if you possess the Retainer Package, you may spend authorizations to summon magical simulacra known as dream retainers into your dreamspace. Summoning a dream retainer costs the same number of authorizations as requisitioning a retainer of the same type. Dream retainers cannot leave your dreamspace by any means but remain inside until you leave your dreamspace. You cannot requisition your faction using dream retainers.
-This feat grants additional benefits if you have any of the following skill talents
-
-- **Construct of the Mind (Study Sphere):** Your mental archive is accessible from your dreamscape and vice versa. Any ability that allows a creature to enter one allows them to enter the other.
-- **Faction Archives (Faction Sphere):** The records from Archive Access are recreated in your Dreamscape, allowing you to consult them (but not to take items out). =
-- **Remote Requisition (Faction Sphere):** You may communicate directly with your faction through your dreamspace and may requisition retainers and items from your dreamspace (allowing them to be brought back into the real world with you when you wake up).
-- **Restful Refuge (Faction Sphere):** Your dreamscape grants you the saving throw bonus of restful refuge
-- **Safe House (Faction Sphere):** Your dreamscape is warded against divination, stocked with provisions, and protected by an alarm in the same manner as a safe house.
 
 #### Dual Wielding Mystic Fusion
 
@@ -340,14 +250,6 @@ As an immediate action, you may expend spectral focus after failing a saving thr
 
 **Special:** This feat counts as having Skill Focus (Knowledge (religion)) for the purposes of meeting prerequisites of feats.
 
-#### Explosive Chorus (Champion) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (any (blast type) talent), Warleader Sphere (resonating chorus)
-
-**Benefit:** When you use the Resonating Chorus shout, you may apply a single (blast type) talent to the shout, replacing the sonic damage with the damage type of the (blast type) and adding any additional effects of the (blast type) to creatures damaged by the blast. This effect lasts for 1 round. If the (blast type) talent requires spending a spell point, you must spend a spell point to apply it to the shout. If you possess the Admixture talent, you may pay the additional costs of Admixture as normal to apply multiple damage types to the shout or alter only half of the damage of the effect (with the other half retaining the original sonic damage type).
-
 #### Fairy Alchemy (Champion)
 
 **Prerequisites:** Alchemy sphere, Fallen Fey sphere (Fairy Dust (fey-blessing)).
@@ -367,14 +269,6 @@ While within the area of your pathing, you can maintain this tactic as a free ac
 **Prerequisites:** Performance sphere ((act) or (dance) package), Warleader sphere.
 
 **Benefits:** You may begin an act or dance as a free action when you begin a tactic as a move action. Whenever you maintain a dance or complete an act’s scene or finale, you may maintain a tactic as part of the same action.
-
-#### Focusing Control (Champion) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Body Control sphere, ability to gain martial focus
-
-**Benefits:** Whenever you begin a meditation as a move or standard action, you regain your martial focus.
 
 #### Furious Flare (Champion) [Apoc]
 
@@ -544,12 +438,6 @@ Deep from within, there is a light that fills you, and you show the world that d
 
 While you are below 0 hit points and acting as disabled, you do not take damage for performing a standard action (or actions typically deemed strenuous).
 
-#### Long-Range Mapping (Champion) [Plan] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Benefits:** As part of casting a spell or using a sphere effect that is changed based on your familiarity with a target or location (such as True Teleport from the Warp sphere or Scrying from the Divination sphere), you may reveal a plan to treat yourself as one step one more familiar with the target or location. This feat cannot be applied more than once per spell effect.
-
 #### Magical Terrorizer (champion) [SA:BG]
 
 **Source:** [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)
@@ -590,14 +478,6 @@ By spending a spell point as an immediate action while you have a glamer or shap
 
 Whenever you use a magical sphere effect as a standard action, you may spend 1 spell point as a swift action to regain martial focus.
 
-#### Mystical Lorekeeper (Champion) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Mana Sphere (Gift of Knowledge)
-
-**Benefit:** You may choose to grant combat or skill talents in place of magic talents when using Gift of Knowledge. If you possess the Knowledge Drain talent, you may steal knowledge of combat or skill talents from targets.
-
 #### Noxious Fog (Champion) [Alienist HB]
 
 **Prerequisites:** Alchemy sphere ((poison) package), Nature sphere ((water) package).
@@ -634,14 +514,6 @@ You may increase the casting time of an illusion by one step to use your Strike 
 
 Whenever you summon a companion as a standard action, you may activate a tactic as part of the same standard action, so long as the conjured companion is included in that tactic’s affected creatures.
 
-#### Poetry of Form (Champion) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Artifice Sphere, Enhancement Sphere
-
-**Benefits:** Whenever you (enhance) an object, you may apply a single (flourish) to the object that lasts for the duration of the enhancement.
-
 #### Poisonous Transformation (Champion) [Alienist HB]
 
 **Prerequisites:** Alchemy sphere (poison package); Alteration sphere or Transformation
@@ -656,23 +528,6 @@ You may move your dimensional rifts, using it to protect yourself.
 
 **Benefit:** When you create a portal, you may choose to shape that portal into the shape of a heavy wooden shield or tower shield which may be wielded, providing the normal bonuses of a shield of that kind and incurring armor check penalties and a maximum Dexterity bonus as normal. On any round in which you perform an attack action or a combat maneuver with a portal shield, you may concentrate on the portal shield as a free action. When you perform a drag combat maneuver while wielding a portal shield, you may force the creature to move through your portal shield rather than moving it normally. If you spend martial focus when making an attack action with the portal shield, you may force the target to make a Reflex save against your Warp sphere DC or pass through the portal. If you possess the Redirecting Shield or Perfect Redirection talents, you may use the exit of the portal as your location for the purpose of determining targets for these (deflect) talents.
 
-#### Raging Lucidity (Champion) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Body Control Sphere; Berserker Sphere or one of bloodrage, rage, or raging song class feature.
-
-**Benefit:** As long as you have a meditation active, you do not suffer a penalty to AC from using berserking, bloodrage, rage, or raging song.
-
-#### Rapier Wit (Champion) (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Bluster sphere, either Fencing or Gladiator sphere
-
-**Benefits:** Whenever you successfully affect a target with a (quip), you may outwit them as a cost to either perform a feint or demoralize the target as part of the same action to quip.
-In addition, when you use a quip, you may spend martial focus to ignore any penalties to the saving throw or skill check DCs from using that quip on the target previously.
-
 #### Ready Initiation (Champion, Combat, Teamwork) [S&P]
 
 When one of your allies primes a technique, you respond immediately.
@@ -681,27 +536,11 @@ When one of your allies primes a technique, you respond immediately.
 
 **Benefit:** When multiple characters with this feat work together to initiate a multi-character technique, the technique is performed on the highest of the participants’ initiative counts rather than the lowest. All participants have their actions for the turn moved up to the initiative count where the technique is performed.
 
-#### Regulated Metabolism (Champion) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Body Control sphere, vitae class feature
-
-**Benefits:** Once per round, when you end a meditation, you gain 1 point of vitae if you gained vitae from another source within the last minute. Whenever you spend vitae on the metabolize ability, you may begin a Body Control meditation as part of the same action.
-
 #### Sanguine Magic (Champion, Combat) [CrimDan]
 
 **Prerequisites:** Duelist sphere (one (bleed) talent); Blood sphere (Hemorrhage) or Death sphere (Bleeding Wounds (ghost strike)).
 
 **Benefit:** You do not provoke attacks of opportunity from bleeding opponents when using spells and sphere effects. Whenever you use your Bleeding Wounds ghost strike or apply the Bleed (quicken) ability as a standard action or greater, you additionally apply the effects of your blooded strike to creatures that fail their saving throw, and can apply the effects of a (bleed) talent as if you had used an attack action. As normal, (bleed) talents only consider the bleed damage from your blooded strike when determining their effects. If your Bleeding Wounds ghost strike or Bleed (quicken) ability would already apply the effects of your blooded strike or a (bleed) talent (such as through the Spell Attack feat), this feat cannot be applied to that ghost strike.
-
-#### Scorched Path (Champion) [SM—]
-
-**Prerequisites:** Destruction Sphere, Navigation Sphere
-
-**Benefits:** Whenever you target an area with your destructive blast, you may spend an additional spell point to use your pathing as part of the same action. If you do, your pathing can only cover spaces affected by your destructive blast.
-
-**Source:** Expanded Spheres: Weaves of War
 
 #### Shielded Casting (Ex) (Champion)
 
@@ -718,12 +557,6 @@ You may add your shield’s AC bonus to concentration checks made to cast defens
 You may concentrate your wards, shaping and hardening them, employing them in place of a physical shield. While you receive the benefits from a magical effect that grants you a shield bonus to AC, you count as possessing a light shield for the purposes of Shield sphere abilities and for making shield bash attacks with an enhancement bonus to attack and damage rolls equal to the granted shield bonus to AC. If the effect has a caster level of at least 10, you may instead count it as a heavy shield. You must have at least one empty hand to use this feat.
 
 Using such an empty hand to cast a spell, make an unarmed strike, hold an item, perform a combat maneuver (other than with the shield granted by this feat), or similar activity removes this ability until the start of your next turn. For the purposes of shield sphere abilities that allow damage to be directed to your shield, treat the ‘shield’ granted by this ability as having hardness equal to 5 + its caster level and hit points equal to 10 + twice its caster level. Should the ‘shield’ take enough damage to gain the broken condition, the effect granting the shield bonus is suppressed for 1d4 rounds. If it is destroyed, the effect granting the shield bonus is instead suppressed for 1 hour, though it may be cast again to regain its benefits.
-
-#### Shock to Senses (Champion) (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Benefit:** You may end the battered condition on a target as a cost to outwit them.
 
 #### Sojourner (Champion) [LotS]
 
@@ -772,14 +605,6 @@ As a constant supernatural effect, you may communicate with your animal allies a
 
 **Benefit:** When using the Spell Attack feat as a standard action, you may spend an additional spell point or increase the casting time of the sphere effect to a full-round action. Make all the attacks granted by Whirlwind Attack; the sphere effect applies to each creature (to a maximum of 2 + 1 per 2 caster levels) hit. If the sphere effect requires concentration, all instances initiated as part of one action count as a single effect for the purpose of concentrating on them. If using whirl of blows to gain the Whirlwind Attack feat, you must have it active to use this ability. Using this feat is not an attack action, so does not benefit from effects that modify attack actions.
 
-#### Spell Maneuver (Champion, Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Casting class feature; any talent with the strike descriptor.
-
-**Benefits:** When using a talent with the strike descriptor, you may attempt a combat maneuver in place of making a weapon attack. If the target is affected by the combat maneuver, it is affected by the magic sphere effect as if it were hit by the strike talent’s attack.
-
 #### Spell Slugger (Champion) [DbH]
 
 You deploy your magic as you would a well-prepared blow.
@@ -819,14 +644,6 @@ In addition, you gain the following (quicken) and (still) effects:
 
 **Benefit:** When you use a strike talent as a standard action, you may do so in conjunction with a troop attack or swarm attack in place of a weapon attack. Only a single target is affected by the sphere effect and they are allowed a Reflex save to negate the sphere effect. Alternatively, you may spend a standard action to apply the effects of one sphere effect you could deliver through a strike to the next instance of constrict, engulf or swallow whole damage you deal to a single target.
 
-#### Surefire Coordination (Champion, Combat, Teamwork) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisite:** Knowledge of at least one technique.
-
-**Benefits:** Whenever you perform a multi-character technique, each character who participated in the multi-character technique and who possesses this feat may roll on any d20 rolls made as part of the technique. The technique uses the highest of the results rolled in this way.
-
 #### Sword Of Omens (Champion) [Apoc]
 
 **Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
@@ -857,14 +674,6 @@ If you possess the Emergency Teleport talent, when a creature attacks you during
 
 **Benefit:** Once per round, you may have a figment which you have created contribute to a scene you have active as if it were an ally. This does not require an action on your part if you spent an action concentrating on the illusion this turn.
 
-#### Theorized Momentum (Champion) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Study Sphere, War Sphere
-
-**Benefits:** As you have at least one point of momentum in your pool, you may spend notions from your current theory in place of momentum points so long as the subject of your theory is in some way affected by the momentum effect (for example, the effect provides a bonus to AC against the subject’s attack or the user directly attacks the subject.
-
 #### Through The Long Night (Combat) [Apoc]
 
 **Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
@@ -892,16 +701,6 @@ While in an area of weather severity level 3 or higher, you gain a +2 competence
 **Prerequisites:** Divination or Time sphere, any one [plan] talent.
 
 **Benefit:** When you reveal a plan, you may spend a spell point to declare it a time-crossed plan. If you do, the plan functions even if you would have no conceivable way of performing it (for example, spreading a rumor with the Reputable Communication sphere talent in a settlement you could not have previously accessed, using Planned Sabotage from the Sabotage sphere on an item you could not have accessed, or having a retainer take actions with Logistical Genius that would take longer than the time since you last replenished authorizations). Any actions necessary to have organized the plan are assumed to have been performed through time manipulation or divined knowledge.
-
-#### Tool Transformation (Champion) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Alteration Sphere (Object Transformation), one of Artifice, Survivalism, or Trap Spheres
-
-**Benefits:** When you transform a creature into an object transformation, you may cause them to function as a single trinket, trap, or refined component you can create for as long as the creature remains transformed. Roll the appropriate skill check for creating the item as part of transforming the target. If you would fail to create the item, the transformed creature does not emulate it.
-
-If the item would be disarmed, destroyed, consumed, or triggered, the object transformation immediately ends and the creature returns to its original shape without suffering additional damage.
 
 #### Trailblazer (Champion) [LotS]
 
@@ -949,14 +748,6 @@ If you possess the Alchemy sphere (formulae) package, you gain the following ben
 If the blast type has a secondary effect, that effect is applied the first time a creature fails their saving throw against the poison. If a blast type requires that additional spell points be spent, you must spend these spell points as part of creating the poison. Additional blast type effects from multiple poisons modified with this blast type only affect a creature once per round regardless of how many times they are damaged.
 
 If you possess the Admixture or Greater Admixture talents, you may spend additional spell points or increase the time needed to create the poison as if you were applying these talents to the poison. If you do, you may apply additional (blast type) talents to the Painful Venin, dividing the damage and applying multiple additional effects as normal.
-
-#### Vitalized Fervency (Champion) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Life Sphere (any (Vitality) talent), ability to gain martial focus or use skill leverage
-
-**Benefits:** Whenever you would gain or grant temporary hit points using a combat sphere or skill sphere ability, you may spend a spell point to apply a (Vitality) talent to one target affected. If you possess the Mass Healing talent, you may spend an additional spell point to apply the (Vitality) talent to all targets affected, to a maximum of Mass Healing’s normal maximum.
 
 #### Wardlord (Champion) [Apoc]
 

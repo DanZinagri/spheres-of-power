@@ -115,8 +115,6 @@ Fame can be gained through the following means:
 - **Organization Check (Participate in an Organization) [DRS]:** Characters may participate in the organization by making an Organization check (DC 15 + the character’s level), gaining 1 Fame. This is a skill check performed with one of the Organization’s affiliated skills. A character may participate in this manner 4 to 6 times per year.
 - **Recognized for Achievement [DRS]:** A character may gain Fame with a magical organization after succeeding on a task, quest, or challenge that is within the magical organization’s goals, usually 2 (moderate challenge), 4 (impressive challenge), and 6 (impossible challenge) Fame respectively. The difficulty of a challenge is subject to GM discretion.
 - **Donation [DRS]:** Once a character has joined a magical organization, a character may gain Fame by making donations (of gold, treasure, or valuable services) to the magical organization. Each point of Fame gained this way costs 500 gp; a character may gain up to 5 Fame this way each year (or additional fame from extraordinary contributions, subject to GM discretion).
-- **Special Tasks [SM—]:** Different organizations may have special tasks that allow a member to gain Fame, as detailed in Sample Special Tasks
-- **Paragon Options [SM—]:** Different organizations may reward members for meeting certain Paragon Options, as detailed in Paragon Options
 
 **Author’s Note - Altering the Organization Check DC [DRS]:** The original Organization Check is DC 15 + skill ranks, which meant the DC became harder as you became more skilled. While the DC should increase over time (as an organization expects more of stronger and more talented individuals), the check should not be easier for someone with no talent (i.e. a barbarian with no ranks in Spellcraft, despite being level 20, would only need a DC 15).
 
@@ -127,78 +125,6 @@ Though far from universal, it is common for organizations to provide training fo
 **Training Checks:** Training checks are skill checks which can be attempted once per term or once per level to determine if a character gains Fame and Prestige within an organization (see Fame and Prestige Points for DCs). A character’s Fame score increases by +1 every time they successfully attempt a Training check, granting them 1 Prestige Point as normal.
 
 **Flunk:** Organizations which provide training may reject characters who consistently fail to learn. If a character fails a certain number of consecutive Training checks (usually between 3 and 6), they flunk out of training, resulting in expulsion (see Leaving and Expulsion).
-
-### Paragon Options: Representing a Style [SM—]
-
-Many Organizations have a certain iconic style of fighting or activity which they prefer to represent their organization. A character may achieve prestige in a dueling academy for using the founder’s signature weapon type or may curry favor in a thieves’ guild by displaying a particular acumen for pickpocketing. Understanding and wielding that specific style as a member of the Organization allows a character to ascend the ranks as a Paragon, earning special favor as they display signature capabilities.
-
-A faction may have up to 5 in any combination of feats or talents designated as Paragon Options. If a character has at least 1 Fame with the Organization, they gain 1 additional point of Fame in the organization for every Paragon Option they have selected for as long as they have that option. Paragon Options gained as temporary feats or talents or through items do not grant a character Fame in this way. Generally, it is suggested that Base Spheres be avoided as Paragon Options.
-
-As an example, the Circle of the Flaming Eye is an Organization composed of psionic adepts tied to the Elemental Plane of Fire. The Circle’s Paragon Options are Plasma Production from the Creation Sphere, Temperature from the Nature sphere, Elemental Transformation from the Alteration Sphere, and the Cooperative Destruction and Arcane Fusion feats. A character who is a member of the Circle and has Arcane Fusion, Elemental Transformation, and Plasma Production gains 3 Fame Points for embodying the Organization’s vision through their abilities.
-
-### Sample Special Tasks [SM—]
-
-Presented below are a number of unique special tasks which a character may be able to perform for an Organization to gain additional Fame.
-
-**Beast Catcher (+1 Fame):** Once per term, you may hunt down and acquire a monster of a specific type with a CR greater than your level and bring it back alive to increase your Fame by +1.
-
-**Donate Treasure (+1 Fame):** Once per term, if you donate a treasure that the organization finds valuable (which may be money, magic items, or research), your Fame score increases by+1. The donation must be worth at least 1,000 gp per point of Fame you currently possess.
-
-**Entreatment (+1 Fame):** Once per term, you may work to turn a prominent figure into a sympathetic collaborator for the organization. Doing so requires a series of successful Diplomacy checks to improve the subjects' attitude to helpful. If the target’s starting attitude is unfriendly or hostile towards the organization, increase your Fame by +1.
-
-**Outreach (+1 Fame):** Once per term, you may perform a task in the aid of a specific other group on the organization’s behalf to increase your Fame by +1.
-
-**Preserve Secrecy (+1 Fame):** Once per term, you can claim the bounty on a spy, traitor, or other enemy of the organization who attempts to sell or share these secrets with a party outside the organization or nation to increase your Fame by +1.
-
-**Special Mission (+1 Fame):** Once per term, if you successfully undertake a mission in the organization’s name (as determined by the GM), your Fame score increases by +1.
-
-**Sponsor (+1 Fame):** Once per term, you can sponsor another member by paying their tuition for that term. You can only sponsor another member once per term and do not gain Fame for doing so if your Fame score is 30 or higher.
-
-**Substantiated Report (+1 Fame):** Once per term, you can increase your Fame score by revealing a legitimate threat to the organization which you have uncovered.
-
-**Superiority of Style (+1 Fame):** Once per term, you can partake in a public duel (using either the dueling rules on Ultimate Combat 150 or a special encounter organized at GM discretion) against a non-ally who represents another organization and whose CR equals or exceeds your character level. If you win the duel, you demonstrate that your style or order is superior and your Fame score increases by +1.
-
-**Tutelage (+1 Fame):** Once per term, you can spend a month training or educating other members of your organization to increase your Fame score by +1.
-
-#### Additional Tasks [DRS]
-
-The following additional special tasks are tied to specific organizations in Diamond Spheres: Magical Organizations. Each task can only be performed once per quarter, which may be translated to being performed once per term.
-
-**Capture Criminal (+2 Fame):** You track down and incapacitate an escaped criminal or individual with a bounty with a challenge rating equal to or greater than 1/2 your character level. Certain bounties may allow for “dead or alive”, and only award +1 Fame. This task may be repeated more than once per quarter, but only as frequently as there are criminals to apprehend.
-
-**Create a Masterwork (+1 Fame):** Donate 8 hours of your time assisting with magic item crafting or masterwork item crafting. This may be accomplished even if you could not do magic item crafting.
-
-**Discover a Lost Secret (+3 Fame):** You discover an ancient text, scroll, or similar item which provides information about the far past or far future. This task may be performed any number of times, but each “discovery” is treated as a single event (i.e. a single trove of documents, not receiving Fame for each document).
-
-**Dispel and Ward (+1 Fame):** You provide spellcasting services (dispel magic, protection from evil, and other similar effects) by donating 8 hours of your time.
-
-**Donate a Corpse (+1 Fame):** You donate a creature’s corpse with a challenge rating equal to or greater than your character level - 2.
-
-**Donate a Treasure (+4 Fame):** You donate an item of notable value equal to 500 gp per character level or greater.
-
-**Entertain (+1 Fame):** You donate 8 hours of your time at a local village, orphanage, or church entertaining children and townsfolk with illusions.
-
-**Instill Emotion in a Worthy Adversary (+1 Fame):** You inflict an emotion condition (or any spell or effect with emotional components) on an adversarial opponent whose challenge rating is equal to your character level or greater.
-
-**Learn a True Name (+4 Fame):** You discover and share an outsider’s true name with the magical organization with a challenge rating equal to or greater than your level -4.
-
-- **Special - True Names:** A true name can be researched by spending at least a number of hours equal to 8 times the outsider’s challenge rating and succeeding on a Knowledge (planes) check equal to the outsider’s CR + 20. Knowing a specific outsider’s true name allows you to use planar binding to summon that specific outsider, giving the outsider a -2 penalty on opposed Charisma checks made while summoned. True names learned in this manner do not otherwise grant any greater power over the outsider.
-
-**Loot an Ancient Tomb (+2 Fame):** You discover and successfully delve into and retrieve the riches of an ancient resting place of the dead.
-
-**Map a Teleportation Location (+2):** Once per quarter, provide detailed information (high quality maps, sketches, and images) of an exotic location to the magical organization for the purposes of teleportation familiarity.
-
-**Oracular Services (+1 Fame):** You provide spellcasting services (augury, commune, and other similar effects) by donating 8 hours of your time.
-
-**Organize an Event (+1 Fame):** You organize an event (a gathering, party, soiree, etc.), spending a total of 25 gp per character level on accommodations.
-
-**Perform a Binding (+1 Fame):** Once per quarter, you conjure or bind an outsider to perform tasks for the magical society with a challenge rating equal to or greater than your Hit Dice -4.
-
-**Protect the Weak (+3 Fame):** You prevail in a combat encounter where noncombatants were at significant risk of injury and survived unharmed. This may be a combat of any CR rating (subject to GM discretion, due to the risk of harm to the noncombatants).
-
-**Train Troops (+1 Fame):** You donate 8 hours of your time instructing troops, local garrisons, or other military groups of the risks of evocation magic and their use.
-
-**Unravel a Secret (+2 Fame):** You reveal, unravel, or otherwise find the truth about a long-kept secret by a local government or notable official.
 
 ### Shared Fame
 

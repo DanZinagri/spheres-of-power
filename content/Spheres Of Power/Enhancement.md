@@ -46,12 +46,6 @@ When you enhance an object or creature, the enhancement remains for 2 rounds aft
 
 Whenever you use an enhancement that gives you multiple options, you may spend a spell point to select two options. For example, you could use Physical Enhancement to provide a bonus to Strength and Constitution simultaneously, or Steal Senses to steal two senses instead of one.
 
-#### Flash of Excellence [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-You may spend a spell point to enhance a target within range as an immediate action rather than a standard action. If you do, the duration of any enhance effect used in this way is reduced to 1 round and you cannot spend a spell point or concentrate to increase the duration.
-
 #### Greater Enhance Equipment
 
 When using the Enhance Equipment enhancement, increase the enhancement bonus granted by 1, and raise the maximum enhancement cap to +6. Additionally, when spending a spell point to allow Enhance Equipment to endure for 1 minute per caster level without concentration, it instead lasts for 10 minutes per caster level. If you possess Deep Enhancement, this enhancement instead lasts for 1 hour per caster level.
@@ -154,14 +148,6 @@ You may also apply this enhancement to a consumable item, a splash weapon, or a 
 
 You may enhance creatures, allowing them a higher standard of skill. Choose one skill when you grant this enhancement. The target gains an enhancement bonus to that skill equal to 5 + 1 per 4 caster levels you possess.
 
-#### Enhance Potency (enhance) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-You may apply an enhancement to an item, trap, or other object, including those created through sphere effects. While this enhancement is in effect, use the higher of the item’s normal saving throw DC and your Enhancement sphere DC for saving throws against the item’s effects. If the item is a trap, door, or other device that can be interacted with through the Disable Device skill, you may increase the Disable Device DC of the item to 10 + your casting ability modifier + your caster level.
-
-Alternatively, when you apply this enhancement, you may reduce the item’s saving throw DC by 1 plus an additional 1 for every 8 caster levels you possess.
-
 #### Harden/Weaken (enhance)
 
 You may enhance an object to either increase or decrease its hardness, or enhance a creature to grant it or lessen its damage reduction. You may increase or decrease an object’s hardness by an amount equal to your caster level (minimum 1). Decreasing an object’s hardness gives it the fragile quality if it does not already have it. When targeting a creature, you may either grant it DR/adamantine equal to 1/2 your caster level (minimum 1), or decrease its current damage reduction by the same amount. This only affects damage reduction that can be bypassed (so it could decrease DR/cold iron, but not DR/-).
@@ -208,12 +194,6 @@ You may enhance creatures, granting them a +2 enhancement bonus to either their 
 #### Ragged Edges (enhance)
 
 You may apply an enhancement to a weapon, causing attacks made with it to deal additional bleed damage equal to half your caster level (minimum 1). You may spend a spell point to have the weapon deal additional bleed damage equal to your caster level instead.
-
-#### Ravenous Weapon (enhance) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You may apply an enhancement to a weapon, causing it to either gain the vicious property or to deal 1d6 untyped damage plus 1d6 per 4 caster levels you possess to its wielder whenever they miss with an attack using the weapon.
 
 #### Spectral Enhancement (enhance) [Gravecaller's HB]
 
@@ -334,16 +314,6 @@ Whenever you use a non-instantaneous sphere ability, you may spend 2 spell point
 
 If you also possess Bestow Life, you may use it on creatures created through this talent; instead of Bestow Life's normal effects, doing so increases their potency by 3, and prevents them from dying at the end of the effect’s duration.
 
-#### Heart of Hope and Fear [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Enhancement sphere (normalize), Fate sphere (hold on hope)
-
-When you enhance a creature with Normalize, you may spend an additional spell point to increase the dice used from d10s to d12. If you do, one of the d12s is marked as a hope die and the other is marked as a fear die. Whenever the target rolls the 2d12, if the hope die has the higher result than the fear die, the target gains 1 temporary Reliance Point plus an additional temporary Reliance Point per 5 caster levels that lasts for the duration of this enhancement. If the fear die has the higher result than the hope die, the target gains 1 temporary vulnerability known as a Folly Point plus an additional temporary Folly Point per 5 caster levels that lasts for the duration of this enhancement.
-
-While a creature has any Folly Points, any other creature that observes the affected creature may spend those Folly Points in place of their own Reliance Points when making a roll or using an ability for an effect that targets the affected creature.
-
 #### Inherent Enhancement (enhance) [Archmagi's HB]
 
 **Prerequisites:** Enhancement sphere (Deep Enhancement, Mental Enhancement, Physical Enhancement), caster level 17th.
@@ -351,14 +321,6 @@ While a creature has any Folly Points, any other creature that observes the affe
 When you utilize Mental Enhancement or Physical Enhancement to grant a creature a bonus to their ability scores, you can temporarily modify a creature’s intrinsic capabilities by spending an additional spell point. The bonus type of the enhancement changes to untyped. However, this reduces the duration of the enhancement to a maximum of 1 round per caster level. The untyped bonus to an ability score stacks with the enhancement bonus provided by another casting of normal Mental Enhancement or Physical Enhancement.
 
 Additionally, you may spend one hour and five spell points to enhance a creature’s intrinsic qualities. Doing so is expensive, and requires material components worth at least 25,000 gp to perform. At the end of the hour, you may grant your target a +1 inherent bonus to a single ability score. For each additional 25,000 gp in material components spent as part of this ritual, you may increase the bonus by 1, up to a maximum of +5. Inherent bonuses are instantaneous and cannot be dispelled, and do not stack with themselves.
-
-#### Normalize (enhance) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Enhancement Sphere
-
-You may enhance a creature’s abilities to operate within normalized parameters, reducing the odds of grand success or failure. Choose either attack rolls, saving throws, skill checks, or other d20 rolls, plus an additional type of roll for every 5 caster levels you possess. Whenever the enhanced creature would roll a d20 with the chosen roll type, they instead roll 2d10 and add the results together. A result of 1 on both d10s is treated as if the target had rolled a natural 1 on the d20 roll.
 
 #### Referential Enhancements
 
@@ -490,17 +452,6 @@ Any enhancement that would increase attack or damage also increases the attack r
 **Prerequisites:** Conjuration sphere, Enhancement sphere (at least one (enhance) talent).
 
 **Benefit:** Whenever you summon a companion, you may spend one spell point to enhance them as part of the same standard action. If you do so, the enhancement lasts for the full duration of the summoning effect.
-
-#### Exemplary Transformation (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Alteration Sphere (outsider body), Enhancement Sphere (emphasize belief, mental enhancement, or physical enhancement)
-
-**Benefits:** Whenever you apply the Emphasize Belief, Mental Enhancement, or Physical Enhancement enhancements to a target under the effects of a trait from Outsider Body, you may choose to modify the effects as follows
-
-- **Embodied Belief:** the damage reduction from Emphasize Belief stacks with the damage reduction granted by Anarchic Form, Axiomatic Form, Celestial Form, and Fiendish Form. If you have multiple traits from among the above 4 active, all types of damage are required to bypass them (so if you have both Anarchic Form and Fiendish Form active, the DR granted would be DR/lawful and good). A creature cannot gain DR/lawful and chaotic or DR/good and evil.
-- **Exemplary Abilities:** the ability score benefits from Mental Enhancement and Physical Enhancements change from enhancement bonuses to sacred or profane bonuses, although the bonus changes to +2 plus an additional +2 for every 15 caster levels. A character cannot have a sacred or profane bonus to more than one ability score at a time, and any previous effects which apply such a bonus immediately end when a new one is applied.
 
 #### Floating Creation (Dual Sphere)
 

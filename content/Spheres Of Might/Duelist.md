@@ -94,12 +94,6 @@ As a special attack action, you may expend your martial focus to deal an additio
 
 **Author's Note:** Open Vein "stacks" with other sources of duelist bleed, but only with other Duelist sphere bleeds (such as blooded strike and Finger Cutter).
 
-#### Ruthless Opportunist [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Whenever you confirm a critical hit from an attack action or attack of opportunity, you may perform a single disarm, sunder, or feint attempt against the target as an attack of opportunity.
-
 #### Scar Tissue
 
 Your countless Duelist practices have built up thick scar tissue and callouses that provide you protection from bleeding wounds. You gain DR 2 / bludgeoning and reduce all bleed damage you take by 1; bleed damage cannot be reduced below 0 by this ability. For every 5 points of base attack bonus you possess, the damage reduction granted by this ability increases by 2 points and you reduce any bleed damage you take by an additional 1 point.
@@ -163,12 +157,6 @@ Whenever you deal bleed damage as part of an attack action to a creature who is 
 #### Slickened Grip (bleed) [CrimDan]
 
 When you deal bleed damage to a creature, they take a penalty to their CMD equal to the amount of bleed damage dealt by your blooded strike. This penalty is doubled when applied to the creature’s disarm or sunder CMD.
-
-#### Winding Wounds (bleed) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-When you deal bleed damage to a creature, they become battered for as long as they continue bleeding.
 
 ---
 
@@ -239,14 +227,6 @@ If the target receives at least 5 hit points of healing at any point before they
 **Prerequisites:** Duelist sphere, Great Focus, base attack bonus +15.
 
 Whenever you deal bleed damage to a creature, you may expend two martial focuses to attempt to send the target to hell, or heck, or somewhere. If you do, that creature must succeed at a Will save or be transported to another plane that is strongly-aligned with evil (e.g. Hell, Abaddon). If the target succeeds at their saving throw, the cosmic energy you attempted to exploit backlashes and you suffer 6d6 fire damage and are fatigued. This is a supernatural effect; you can only use this talent against the same creature once every 24 hours.
-
-#### Critical Parry [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Duelist Sphere (Defensive Slice), base attack bonus +5
-
-While you have martial focus, you may spend an attack of opportunity to try deflecting a critical hit targeting you, reducing its damage to that of a normal hit, with a 25% chance of success. This does not stack with the fortification special ability of magical armor or similar effects.
 
 #### Curtain Call [CrimDan]
 

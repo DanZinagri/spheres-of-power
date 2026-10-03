@@ -50,12 +50,6 @@ At 20th level, the skulk may use advanced talents replicated by arcane forgery w
 
 This replaces feytouched.
 
-### Mimeses [SM—]
-
-**Source:** Fey Adept Expanded: Mimeses
-
-A target within the area of your (blot) or (darkness) effects is considered to be within the area of your illusion for the purpose of your mimesis abilities. A target affected by any of your (shadow) effects is considered to be within the area of your illusion and affected by your glamer for the purpose of your mimesis abilities.
-
 </div>
 
 <div class="sop-tab" data-tab="original">

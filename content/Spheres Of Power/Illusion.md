@@ -173,12 +173,6 @@ As an illusion you may create a distorting glamer. This functions in all other w
 
 You may increase the casting time of an illusion by one step to reduce its total spell point cost by one (minimum 0).
 
-#### Consensus Reality [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-If at least one creature has already failed their save to disbelieve your illusion, other creatures suffer a -1 penalty to checks and saves made to disbelieve the illusion. If at least three creatures have already failed their save, this penalty increases to -2.
-
 #### Complex Illusion [mass]
 
 When creating a figment, you may spend an additional spell point to divide the figment into multiple, independent components. The combined size and range of these figments must still be within your maximum illusion size, but each component can appear differently and behave differently. While each component can be given its own set of programmed instructions, you can only actively control one component at a time. For example, when creating an illusion of a tavern, a creature with this talent could create a bustling group of people inside the tavern as part of the same illusion.
@@ -585,14 +579,6 @@ The illusionary mind added to glamers modified by this feat constantly broadcast
 **Benefit:** When maintaining a companion with the Shadow Creature talent via concentration, it gains the benefits of the Invisibility glamer from the Suppression talent.
 
 As a free action, you may spend a spell point to allow your shadow companion to fully manifest itself. Your companion loses the Shadow Creature talent and gains one other (form) talent of your choosing in its place for one minute per caster level.
-
-#### Projected Presence (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Divination Sphere (Viewing), Illusion Sphere
-
-**Benefits:** Whenever you create a viewing sensor, you may have it take any form that you could create with an illusion. While in this form, the viewing sensor can move at the same rate the illusion can move and is capable of creating any sensations you could create with your illusions (for example, if you have the Illusory Sound talent, the viewing sensor could speak).
 
 #### Shade (Dual Sphere)
 

@@ -179,12 +179,6 @@ As a free action or as part of speaking, you can mimic any sound or voice you ha
 
 As a swift action, you can alter your voice and mannerisms so completely that others might not recognize you even if you are not visually disguised. This allows you to attempt a Disguise check to prevent others from recognizing you even though you have not changed your clothing or face. You cannot pass for someone specific who does not already closely resemble you and you cannot change your (disguise) talent this way.
 
-#### Veil of Mystery [utility] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Whenever you assume an approach, choose 1 skill, plus an additional skill for every 5 ranks in Disguise you possess. As long as you maintain that approach, the DC of any skill checks made to learn information about you with the chosen skills is increased by 4 + 2 for every 5 ranks in Disguise you possess.
-
 ---
 
 ## Disguise Talents
@@ -347,17 +341,6 @@ You can no longer use this talent’s unique (disguise) option, but any creature
 **Prerequisites:** Disguise 5 ranks, Subterfuge sphere.
 
 As part of adopting a Subterfuge sphere approach, you may bury certain information that you know. Anyone attempting to extract buried information on that topic from you must succeed at a Sense Motive check opposed by your Disguise check or fail to discover it. You can still form new memories about the topic while this information is buried. You may dismiss the effects of this talent by changing your approach or by taking a swift action to recuperate your buried memories.
-
-#### Thief of Names [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Subterfuge Sphere
-
-When a creature states their name to you or writes their name with the intention of you (or nonspecific people) reading it, you are considered to possess that creature’s name. If you possess a creature’s name, once every 24 hours you may speak it aloud to outwit the creature or invoke the creature’s minor motivation without you having to know the motivation.
-
-If you possess the Sequester Identity talent, you may outwit the creature whose name you possess as part of the action to steal their features. If you do, you do not lose the disguise after 1 hour per skill rank and the creature does not return from its unremarkable state (the creature does return to an unremarkable state from an object state after this period, however).
-While disguised as a creature whose identity you have stolen and whose name you possess, whenever you or that creature would be targeted with a magic effect and the other is within range, you may attempt a magic skill check as an immediate action using your ranks in Disguise in place of your MSB against the effect. On a success, the other creature is targeted with the effect instead of the original target.
 
 ---
 

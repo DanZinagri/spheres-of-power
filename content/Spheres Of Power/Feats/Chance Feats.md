@@ -38,20 +38,6 @@ When you first take a chance feat, you gain a kismet pool if you did not otherwi
 
 **Benefit:** When you successfully confirm a critical hit, you may spend a kismet point to make an extra attack at your highest base attack bonus as an immediate action. If this attack hits, increase its critical threat range by +1. This bonus is applied after abilities such Improved Critical or the keen weapon special ability and cannot be doubled.
 
-### Roll Redemption (Chance) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisite:** Kismet pool.
-**Benefit:** Whenever you gain a kismet point as a result of a die roll, you may indicate the die that was used to gain the kismet point (placing the specific die within a dice jail, dice chair, or other novelty item is optional). When a kismet point is used, your next die roll made with the point’s corresponding die before the end of your next turn gains a +1 bonus.
-
-### So Close, Yet So Far (Chance) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisite:** Kismet pool.
-**Benefit:** Whenever you fail a roll eligible to grant your kismet by exactly 1 (for example, an attack roll that is just 1 short of the target’s AC), you gain a point of kismet as if you had rolled a natural 1 on the roll. You know when you fail an eligible roll by exactly 1.
-
 ### Surge of Fortune (Chance)
 
 **Benefit:** When you roll a natural 15 or above on a skill check or ability check (including if you take 20), you may spend a kismet point to gain a +7 luck bonus to the roll.

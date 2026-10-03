@@ -808,7 +808,6 @@ This alters strife.
 
 | Archetype | Description |
 | --- | --- |
-| [[Apastron (SM—)\|Apastron]] [SM—] | Apastra (singular Apastron) seek to wield the powers of separate extremes simultaneously, receiving only glimpses of clarity as to how the two opposite ambitions can be reconciled. |
 | [[Symbiont]] [DRS] | Symbionts possess such a deep connection to their strife that it can be manifested physically. |
 
 ---

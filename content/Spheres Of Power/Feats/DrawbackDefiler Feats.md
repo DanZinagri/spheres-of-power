@@ -25,22 +25,6 @@ Drawback feats present a way of taking advantage of a specific drawback in a man
 
 **Benefit:** Your enhancements satisfy your addiction, to a degree; whenever you spend a spell point to relinquish concentration on an enhancement targeting yourself, the time until you begin suffering penalties extends to the end of the enhancement’s duration. In addition, you gain a +1 bonus to all saving throws while you are suffering the penalties from your addiction.
 
-### At-Will Powers (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Charged Spells drawback
-
-**Benefits:** Magic sphere effects that cost 0 spell points do not have their charge consumed when you use them. You gain a +10 bonus on concentration checks made to create magic sphere effects that cost 0 spell points.
-
-### Augmented Modulation (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Mental Focus drawback, Enhancement or Protection Sphere
-
-**Benefits:** Whenever you regain your mental focus, you may change any decisions you made pertaining to aegis or enhancement effects you created on yourself. This can include changing the selected energy type with Energy Enhancement or Energy Resistance, changing the ability score improved by Physical Enhancement, or changing the alignment selected with Repel Chaos/Evil/Good/Law.
-
 ### Backdoor Arcana (Drawback) [Cata. HB]
 
 Your strange magic grants a degree of consistency in tumultuous situations.
@@ -49,35 +33,11 @@ Your strange magic grants a degree of consistency in tumultuous situations.
 
 **Benefit:** By spending an additional spell point, you may ignore any dead magic (but not antimagic) or wild magic zones you are in for the purpose of the talents’ effect.
 
-### Balatro’s Boons (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Catastrophic Failure drawback, Huckster’s Gamble feat
-
-**Benefits:** Choose 4 cards in the 54-card deck other than jokers used with Huckster’s Gamble. You may apply one of the following modifications to each of the 4 cards and may apply the same modification to multiple different cards, but a card can only have one modification on it. Wild Cards gained with the Improved Huckster’s Gamble cannot also have modifications from this feat placed on them and vice versa. The modifications are as follows
-
-- **Bonus Boon:** For each card with this modification in your revealed hand, you gain a +1 bonus on concentration checks, skill checks, and saving throws made as part of casting the spell.
-- **Force Multiplier:** For each card with this modification in your revealed hand, you gain a +1 bonus on attack rolls and MSB checks to bypass spell resistance made as part of resolving the spell’s effects.
-- **Steel Will:** For each card with this modification that you shuffle into your deck after selecting your 5-card hand, you gain a +1 bonus on a single d20 roll made as part of casting the spell and resolving its effects. Bonuses from multiple cards may be split across multiple d20 rolls.
-- **Stony Resolve:** The card may not contribute to any scoring with the Huckster’s Gamble feat (it counts as having no number and no suit), but any damage dice rolls of the effect increase by one size for every stony resolve card in your revealed hand to a maximum of d12 (d3->d4->d6->d8->d10->d12).
-- **Golden Soul:** For each card with this modification that you shuffle into your deck after selecting your 5-card hand, you gain one temporary spell point which lasts until the end of your next turn.
-
-**Special:** This feat can be selected multiple times, each time applying its effects to 4 additional cards.
-
 ### Battlecry (Drawback)
 
 **Prerequisite:** Verbal Casting drawback.
 
 **Benefit:** Whenever you use a sphere ability, you can unleash a powerful battlecry as part of your verbal casting. Until the end of your next turn, you receive a circumstance bonus to your Intimidate checks equal to half your caster level.
-
-### Beholden to the Uncanny (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Unsettling Casting
-
-**Benefits:** As long as you have at least one greater severance, you gain a +1 bonus to the DC of your sphere effects and your class features from casting classes. If you possess the No Cost Too Great feat, the caster level bonus from that feat increases from +1 to +2.
 
 ### Bloody Savage (Drawback) [Origin]
 
@@ -133,16 +93,6 @@ You can utilize this feat three times per day, plus an additional use at 8th lev
 
 **Benefit:** Your slow casting style results in more firmly constructed sphere effects. You add your casting ability modifier as a bonus to your MSD (minimum +1) for the purposes of countering or dispelling your sphere effects. You may spend an additional spell point when enhancing a creature or object to force any creature attempting to dispel or counter that effect to roll twice and take the worse result.
 
-### Clarity of Fortified Mind (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Unsettling Casting, at least two magic spheres
-
-**Benefit:** Choose a magic sphere you possess. You do not suffer strain damage for spending spell points on effects from that magic sphere, but you cannot use that magic sphere while you have one or more active severances. Whenever you would take strain damage while you have an active sphere effect from the chosen sphere on yourself, you may dismiss the effect as an immediate action to reduce the strain damage by an amount equal to the number of spell points initially spent on the effect.
-
-**Special:** You may select this feat multiple times, each time selecting a different sphere. The number of times you take this feat cannot equal or exceed the number of magic spheres you possess. If you have the mental focus drawback, you may spend an immediate action to dismiss an effect from your chosen sphere on yourself that you have spent at least 1 spell point on in place of losing mental focus whenever you would lose mental focus.
-
 ### Combat Recharge (Drawback) [DbH]
 
 Your expensive and painstaking miracles can be salvaged should the situation require.
@@ -150,14 +100,6 @@ Your expensive and painstaking miracles can be salvaged should the situation req
 **Prerequisites:** Charged Spells (drawback).
 
 **Benefit:** Whenever you expend a charge as part of using a sphere effect, you may spend a number of spell points equal to 1 + the spell point cost of the charge. If you do, you regain the used charge at the start of your turn after 1d4 rounds.
-
-### Combat Recharge, Improved (Drawback) [SM—]
-
-**Source:** Expanded Spheres: Weaves of War
-
-**Prerequisites:** Charged Spells, Combat Recharge
-
-**Benefits:** The spell point cost of Combat Recharge is reduced to the number of spell points equal to the number of spell points spent on the charged sphere effect you recharge. In addition, whenever you use Combat Recharge to regain the use of a charged sphere effect, you are considered to have rolled a 15 on the d20 roll of any concentration checks needed to cast the effect.
 
 ### Combatant Caster (Drawback) [Apoc]
 
@@ -194,14 +136,6 @@ Traits gained from this feat count towards the number of traits you may possess 
 **Benefit:** You gain all the benefits of your oracle curse; both the base benefit as well as the benefits that come with increasing in level (treat your magic skill bonus as your oracle level).
 
 **Special:** If your curse provides you with spells known, instead of normally granting bonus spells (for example, Haunted), you do not gain spells or talents. Instead, you gain a bonus spell point at the levels you would normally gain the spells.
-
-### Debasing Exultation (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Unsettling Casting
-
-**Benefits:** Whenever you take strain damage from a source other than Unsettling Casting, you gain 1 temporary spell point that lasts for 1 minute.
 
 ### Eldritch Supplies (Champion, Drawback) [LotS]
 
@@ -245,64 +179,6 @@ You maintain the power of a location even as you depart it.
 
 **Benefit:** As a full-round action, you may conceal your witchmark for 24 hours without the need for a Disguise check. You may even attempt to use magic without giving away your witchmark, but in order to do so you must attempt a concentration check (DC 20 + 1/2 the caster level). On a failure you may choose to either manifest your witchmark or keep your witchmark hidden but have no magical effect manifest, wasting any time and spell points spent. You may choose to re-manifest your witchmark as a free action.
 
-### Huckster’s Gamble (Drawback) [SM—]
-
-**Prerequisites:** Catastrophic Failure
-
-**Benefits:** Rather than rolling a die with a concentration check, skill check, or saving throw made as part of creating a magic sphere effect, you may choose to draw a 5-card hand from a 54-card playing card deck. You may spend up to 5 spell points to draw that many additional cards from the deck, shuffling cards back into the deck such that you end with 5 cards in hand.
-Red Jokers are wild cards (meaning that they can be treated as any card). The effects of this hand are determined via Table: Huckster’s Gamble Hands and Effects.
-
-**Source:** Card Casting 3: Volatile Variance
-
-**Table: Huckster’s Gamble Hands and Effects**
-
-| Hand | Explanation of Hand | Effect |
-| --- | --- | --- |
-| Straight Flush | 5 consecutive cards from a particular suit | Maximum possible result on all non-d100 die rolls made as part of casting the spell and resolving its effects, all targets automatically fail their saving throws, +2 competence bonus to CL |
-| Four of a kind | 4 of the same card in different suits | Maximum possible result on all non-d100 die rolls made as part of casting the spell and resolving its effects, +2 competence bonus to CL |
-| Full House or Flush | 3 of the same card in different suits and 2 of the same card in different suits or 5 of the 13 cards from a particular suit | Maximum possible result on d20 rolls made as part of casting the spell and resolving its effects, +2 competence bonus to CL |
-| Straight | 5 consecutive cards which do not all share a suit | Maximum possible result on concentration checks, skill checks, and saving throws made as part of casting the spell, +2 competence bonus to CL |
-| Three of a Kind | 3 of the same card in different suits | Maximum possible result on concentration checks, skill checks, and saving throws made as part of casting the spell, +1 competence bonus to CL |
-| Two Pair | 2 sets of 2 of the same card in different suits | Maximum possible result on concentration checks, skill checks, and saving throws made as part of casting the spell |
-| One Pair | 2 of the same card in different suits | You are considered to have rolled a 10 on all concentration checks, skill checks, and saving throws made as part of casting the spell |
-| High Card Only or hand containing Black Joker | Any other hand, or any of the above hands which contains a Black Joker | Minimum possible result on all rolls made as part of casting the spell. |
-
-### Huckster’s Gamble, Improved (Drawback) [SM—]
-
-**Prerequisites:** Huckster’s Gamble
-
-**Benefits:** Choose two cards in the 54-card deck other than the Jokers. You may treat that card as a Wild Card (meaning it may be any card in the deck) for the purpose of using Huckster’s Gamble. In addition, you reduce the spell point cost of drawing additional cards from Huckster’s Gamble by 1 (to a minimum of 0).
-
-**Special:** You may take this feat any number of times, each time selecting two additional cards to be wild and reducing the spell point cost of drawing additional cards by an additional 1.
-
-**Source:** Card Casting 3: Volatile Variance
-
-### Huckster’s Hypothetical (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Catastrophic Failure drawback, Huckster’s Gamble, Hypothesis Dice class feature
-
-**Benefit:** Whenever you draw a hand of cards using huckster’s gamble, if you spent at least 1 spell point on the effect used to draw the cards, you may add values to your pool of hypothesis dice corresponding to the cards drawn. These values may be assigned to any eligible models as if they were rolled together, but the total number of unexpended values cannot exceed the number of hypothesis dice you would roll after spending a spell point. If a card could be used to assign multiple possible values, you must choose a single value to assign with it (for example,.an ace of clubs could be used to assign a 1 or 5).
-**Diamonds:** 4
-**Spades:** 3
-**Hearts:** 2
-**Clubs:** 5
-**Number Cards:** A value corresponding to the card’s value (6 for a 6 of hearts, for example)
-**Ace:** Any composite number (1, 4, 6)
-**Jack:** Any odd number (1, 3, 5)
-**Queen:** Any even number (2, 4, 6)
-**King:** Any prime number (2, 3, 5)
-**Jokers:** Any value from 1 to 6
-
-### In Too Deep (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** No Cost Too Great, Unsettling Casting drawback
-
-**Benefits:** While under the effects of a non-dormant lesser severance, you do not need to increase the strain damage you take with No Cost Too Great to gain a +1 competence bonus to your caster level for the effect. While under the effects of a non-dormant greater severance, when you increase the strain damage you take with No Cost Too Great, you instead gain a +2 competence bonus to your caster level for the effect.
-
 ### Insidious Magic (Drawback) [S&P]
 
 Your magic is subtle and difficult to detect.
@@ -329,44 +205,6 @@ Your magic is subtle and difficult to detect.
 
 In addition you receive a +2 circumstance bonus to Stealth checks.
 
-### Inspired Learning [SM—]
-
-**Prerequisites:** MSB +1
-
-**Benefits:** Once per day as a swift action, you can attempt to remember any magic talent that you don’t know. Roll a d%, subtracting 1d10 if you are attempting to use this ability in combat. If the total result is lower than 10 + your MSB + your casting ability modifier, you gain that magic talent as a temporary magic talent until you rest to regain spell points. You may only have one magic talent at a time learned with this feat.
-
-If you have the Unreliable Training drawback, the maximum number of magic talents you may have at a time with this feat is equal to your casting ability modifier and you may use this feat once per hour.
-
-**Special:** If you possess the Unreliable Training drawback, you may select this feat as a drawback feat.
-
-**Source:** Baron’s Glorious Arena
-
-### Inspired Learning, Improved [SM—]
-
-**Prerequisites:** Inspired Learning
-
-**Benefits:** Subtract 20 from your d% roll when using the Inspired Learning feat or rolling to learn a talent through the Unreliable Training drawback. The maximum number of talents you may have a time from Inspired Learning increases by 1.
-
-**Special:** You may select this feat once for every 7 points of MSB you possess. Its effects stack. If you possess the Unreliable Training drawback, you may select this feat as a drawback feat.
-
-**Source:** Baron’s Glorious Arena
-
-### Land-Attuned Magic (Drawback) [SM—]
-
-**Prerequisites:** Area Bound or Terrain Casting
-
-**Benefit:** You may designate certain locations as empowering specific spheres of magic. Whenever you create a sphere effect associated with an environment while in that environment, you gain a +1 competence bonus to the caster level of the effect. In addition, you may spend a spell point as a swift action to gain a talent from one of the terrain’s associated spheres for 1 round as long as you possess the base sphere. Some examples of terrains and their associated spheres are presented below, although any such terrains should be approved by the GM before use.
-
-**Forest:** Alteration, Enhancement
-**Island or Sea:** Illusion, Mind
-**Mountain:** Destruction, War
-**Plains:** Life, Protection
-**Swamp:** Darkness, Death
-
-**Special:** If you possess the Card Casting drawback with Mana Pool, this feat counts as a Deck feat and any mana cards you have in play allow you to spend up 2 additional spell points on sphere effects associated with the terrain rather than just 1 additional spell point.
-
-**Source:** Expanded Spheres: Cardcaster’s Gamble
-
 ### Ley Line Affinity (Drawback) [RW HB]
 
 Your magic naturally bonds to the overflowing power of ley lines, granting you strength even in regions your magic would not flourish.
@@ -378,26 +216,6 @@ Your magic naturally bonds to the overflowing power of ley lines, granting you s
 In addition, you gain a bonus on Spellcraft checks made to attune to a ley line equal to 1/2 your magic skill bonus (minimum 1). You may treat any ley line you have successfully attuned to as a bonded area for the Area Bound general casting drawback, allowing your magic to work normally within a number of miles of the ley line even if you are bound to another location. Normal: The Area Bound general casting drawback restricts the caster to a specific type of location when forming a bond with a new area.
 
 **Note:** This drawback is not useful or appropriate in games without ley lines. A character interested in this drawback feat should speak with their GM before selecting this feat.
-
-### Life Conversion (Drawback) [SM—]
-
-**Prerequisites:** Draining Casting
-
-**Benefit:** When you spend 1 or more spell points, you may increase the damage from Draining Casting to be equal to your MSB in order to reduce the spell point cost by 1 (to a minimum of 0).
-
-**Special:** If you possess the Card Casting drawback, this feat is also considered a Deck feat. In addition to the feats normal effects, whenever you would discard a card you may take nonlethal damage equal to half your MSB to instead put that card in your hand. This damage is difficult to heal in the same manner as damage from Draining Casting.
-
-**Source:** Card Casting 2: Counters and Control
-
-### Localized Arcana [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Favored Terrain class feature
-
-**Benefits:** While in your favored terrain, add your favored terrain bonus to concentration checks and checks made to bypass spell resistance.
-
-**Special:** If you possess the Area Casting drawback, you may select this as a drawback feat.
 
 ### Magic Runes (Drawback) [Apoc]
 
@@ -429,63 +247,11 @@ A hidden diagram can be seen by effects that detect or sense magic, and is detec
 
 **Special:** This feat counts as Combat Casting for the purposes of meeting other prerequisites that depend on it. This feat’s benefits to concentration checks do not stack with Combat Casting.
 
-### Mastery of Many (Drawback) [SM—]
-
-**Prerequisites:** Charged Spells
-
-**Benefits:** For every 2 magic spheres whose talents are among those in charged spells you have prepared, you gain a +1 bonus to damage rolls.
-
-**Source:** Expanded Spheres: Weaves of War
-
-### Mental Metamagic (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Mental Focus drawback, any metamagic feat
-
-**Benefits:** You can expend your mental focus as part of casting a sphere effect to ignore the increase in casting time from applying a metamagic feat or to reduce the spell point cost of a single metamagic feat by 1.
-
-### Mental Modulation (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Mental Focus drawback, Mind sphere
-
-**Benefits:** Whenever you regain your mental focus, you may exchange one mind sphere effect on yourself that you have created for another mind sphere effect you could create. Use the shorter duration between the new mind sphere effect and the remaining duration of the previous mind sphere effect to determine the new effect’s duration. If the new effect costs more spell points than the ended effect, you must spend spell points equal to the difference.
-
-### Minor Uncanniness Acclimation (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Unsettling Casting drawback
-
-**Benefits:** You suffer no strain damage for creating magic sphere effects that cost 0 spell points. Whenever you create a magic sphere effect that costs 0 spell points, you gain a +2 morale bonus on Will saving throws until the start of your next turn.
-
-### Multifarious Strain (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Unsettling Casting
-
-**Benefits:** Strain damage gained from effects created within 1 minute of each other is not cumulative for the purpose of determining if you gain a severance. However, for each magic sphere you possess, strain damage gained from spending spell points on effects which include that sphere are cumulative until you regain spell points for the purpose of determining if you gain a severance (for example, if you have used 6 spell points on Life sphere effects, have taken 6 strain damage from using these effects, and have a strain threshold of 6, you would gain a severance. The same is not true if you have used 4 spell points on Life sphere effects and 2 on Protection sphere effects). All abilities which do not come from a specific sphere are considered a single sphere for the purpose of this feat.
-
-For every 2 points of strain damage you have taken from spending spell points on a sphere effect in a given day, you gain a +1 bonus to saving throws against effects from that sphere.
-
 ### Mystic Choreography (Drawback, Proxy)
 
 **Prerequisites:** Enhancement sphere; at least one of the Skilled Casting, Somatic Casting, or Verbal Casting drawbacks; Circle Casting, Spell Proxy.
 
 **Benefit:** Whenever you use a sphere ability, any creature currently under the effects of Create Proxy may take an immediate action to perform one of your required components for you. As long as that creature meets the criteria for the drawback in question, you may ignore it for the purposes of that sphere ability. Regardless of whether or not this attempt is successful, the Create Proxy effect ends immediately.
-
-### Network of Bonds (Drawback) [SM—]
-
-**Prerequisite:** Bonded Casting
-
-**Benefit:** You may select an additional creature as your bonded creature. So long as at least one of them is alive and within close range, you may spend spell points and use magic sphere effects normally.
-
-**Special:** you may select this feat multiple times, each time gaining a different bonded creature.
-
-**Source:** Baron’s Glorious Arena
 
 ### No Cost Too Great (Drawback) [DbH]
 
@@ -502,24 +268,6 @@ Success sometimes necessitates losing more than you bargained for.
 **Benefit:** When you create a magic sphere effect while observed, you may choose to delay the onset of the effect until you are no longer observed, to a maximum number of rounds equal to your casting ability modifier (after which the effect dissipates harmlessly and any spent spell points are wasted).
 
 You do not suffer the normal penalties for Coy Caster when using an effect in this way. The effect activates immediately when you are no longer observed. If only a single creature is observing you, they must attempt a Will save every round beyond the first (DC 10 + 1/2 your caster level + your casting ability modifier) or momentarily take their attention off you, causing the effect to activate immediately.
-
-### Pawn of Prophecy [Drawback] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Unsettling Casting, Divination Sphere (Divine Future)
-
-**Benefits:** As long as you have at least one severance, the die roll from your divine future ability increases from 1d4 to 1d8. If you have a greater severance, the die roll increases to 1d12.
-
-### Perpetual Connection (Squadron) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Communication sphere, Posse Commander; or War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
-
-**Benefits:** Choose a creature when you gain this feat. That creature does not count towards the maximum number of creatures in your squadron and you never need to renew your bond to keep that creature in your squadron. Whenever you use a Squadron feat that normally requires spending a spell point, plan, or martial focus, you do not need to spend the resource if it only affects creatures you have selected with this feat.
-
-**Special:** You may select this feat multiple times, each time selecting a different creature. If you have the Bonded Casting drawback, you may select this feat as a drawback feat.
 
 ### Poisoned Apple (Drawback) [Cata. HB]
 
@@ -555,14 +303,6 @@ When under a magical effect that invokes an emotion (spells with the (emotion) d
 
 **Benefit:** You can expend your mental focus as part of casting a sphere effect to increase the saving throw DC by a +1 competence bonus. A sphere effect that does not require a saving throw to resist or lessen the effect cannot be used with this feat.
 
-### Practiced Concentration (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Consciousness Linked x2
-
-**Benefits:** Once per round, you may concentrate on a magic sphere effect as a free action.
-
 ### Prepared Diagram (Drawback) [Apoc]
 
 **Source:** [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)
@@ -581,35 +321,11 @@ When casting spells through your prepared diagram, you receive a +1 competence b
 
 **Benefit:** When you use a sphere effect that you have prepared a charge for, you ignore any ability damage, ability drain, negative levels, or other effects which would penalize your caster level or save DCs so long as you did not have these penalties when you prepared the charge.
 
-### Preternatural Pizazz (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Magical Signs
-
-**Benefits:** Whenever you create a magic sphere effect with Magical Signs, you gain an enhancement bonus equal to half your caster level on the next Intimidate or Perform check you make before the end of your next turn.
-
 ### Push/Pull Mastery (Drawback)
 
 **Prerequisites:** Telekinesis sphere (Directional Control drawback).
 
 **Benefit:** You may use telekinesis to move objects both directly towards you and directly away from you. If you push or pull an object that does not move (for example, a building or the ground/an object pushed into the ground) you may instead apply the movement to yourself, using the stalled momentum of your telekinesis to push or pull yourself in the opposite direction. This means that, as a standard action, you can move yourself at a speed equal to double your telekinesis speed but only towards or away from a stationary object that you can affect with telekinesis (if you end in the air, you do not fall until the end of your next turn). You may grant yourself this ability as a sustained force, gaining a fly speed equal to twice your telekinesis speed, but may only move in a single direction per move action that is toward or away from an appropriate object for telekinesis.
-
-### Racing Ramp (Drawback) [SM—]
-
-**Prerequisites:** Ramp Up, Time sphere
-
-**Benefit:** Every round of combat you are affected by one of your alter time effects, all of your movement speeds are increased by 5 feet. This bonus stacks with itself and ends at the end of combat.
-
-**Source:** Card Casting 2: Counters and Control
-
-### Refined Amplification (Drawback) [SM—]
-
-**Prerequisites:** Mana Sphere (any (amp) talent), Skilled Casting drawback
-
-**Benefits:** When you use an (amp) talent, for every 10 by which you exceed the skill check DC for Skilled Casting, you may reduce the caster level penalty of the (amp) by 1 (to a minimum of 0).
-
-**Source:** Expanded Spheres: Weaves of War
 
 ### Reinforced Structure (Drawback) [EO3]
 
@@ -623,24 +339,7 @@ When using a magic effect that affects an area, you may manifest the magic objec
 
 When using a magic effect that would affect individual creatures (or otherwise create a worn item), the CMD required to sunder the magic object increases by an amount equal to your casting ability modifier.
 
-### Rerouted Costs [Drawback] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** at least two drawbacks from among Addictive Casting, Decrepit Casting, Draining Casting, Madness Mantra, Variant Madness Mantra, Narcoleptic Casting, Painful Magic, Unsettling Casting, or other drawbacks at GM discretion.
-
-**Benefits:** Whenever you use a magic sphere effect which costs 1 or more spell points and would incur the effects of two or more of the drawbacks you used to meet the prerequisites of this feat, roll a d20. Depending on the d20 result, you only suffer the effects from among some of the above drawbacks you possess (see Table: Rerouted Cost Results to determine which specifically you are affected by).
-
-| D20 result | Drawback effects |
-| --- | --- |
-| 1 | All, and the drawbacks take effect as if you had spent 1 additional spell point. |
-| 2-4 | All but 1, chosen randomly |
-| 5-7 | All but 1, chosen by you |
-| 8-10 | All but 2, chosen randomly (minimum 1) |
-| 11-13 | All but 2, chosen by you (minimum 1) |
-| 14-16 | All but 3, chosen by randomly (minimum 1) |
-| 17-19 | All but 3, chosen by you (minimum 1) |
-| 20 | None, and the cost of the magic sphere effect is reduced by 1 (to a minimum of 1). |
+ Whenever you use a magic sphere effect which costs 1 or more spell points and would incur the effects of two or more of the drawbacks you used to meet the prerequisites of this feat, roll a d20. Depending on the d20 result, you only suffer the effects from among some of the above drawbacks you possess (see Table: Rerouted Cost Results to determine which specifically you are affected by).
 
 ### Resistant Veins (Drawback) [Apoc]
 
@@ -649,25 +348,6 @@ When using a magic effect that would affect individual creatures (or otherwise c
 **Prerequisites:** Anemic.
 
 **Benefit:** Your enhanced blood vessels serves as a source of protection for you, granting you a natural armor of + 1 + 1 for every 5 points magic skill bonus you possess.
-
-### Restorative Rush (Drawback) [SM—]
-
-**Prerequisites:** Charged Spells
-
-**Benefits:** Choose two of the following methods of restoring charges for charged spells you have cast within the last minute. For each method, in addition to the cost of actions and the method’s specific trigger, for each spell you recharge, you must spend a number of spell points equal to the number of spell points spent on the charged sphere effect you recharge. Whenever you recharge one or more spells, you gain a +1 bonus to attack rolls until the end of your next turn.
-
-- *Celebratory Boast (requires Gladiator Sphere):* whenever you perform a boast, you may also recharge a number of charged sphere effects up to your casting ability modifier
-- *Devoted Recharge:* You may spend a standard action to recharge one charged sphere effect. If you also spend a swift action on this ability on the same turn, you instead recharge a number of charged sphere effects up to your casting ability modifier
-- *Iaido Readiness:* Once per round, when you sheathe a weapon (normally a move action), you may recharge one charged sphere effect
-- *Inward Recollection:* When you use the total defense action, you may recharge a number of charged sphere effects up to your casting ability modifier
-- *Malicious Claim: (requires Scout sphere)* Whenever you scout a creature as at least a swift action, you recharge a single charged sphere effect. If you reduce a scouted creature to 0 or fewer hit points, you may recharge a number of charged sphere effects up to your casting ability modifier
-- *Outward Extension:* Whenever you use the aid another action as a move or standard action, you may recharge a number of charged sphere effects up to your casting ability modifier
-- *Vigilant Patrol: (requires Guardian Sphere (patrol package))* Whenever you activate your patrol as a full-round action, you may recharge a number of charged sphere effects up to your casting ability modifier
-- *Vindicating Impetus: (requires Channel Energy)* You may spend a use of channel energy as a swift action to recharge one charged sphere effect.
-
-**Special:** You may select this feat multiple times, each time selecting two different methods.
-
-**Source:** Expanded Spheres: Weaves of War
 
 ### Sanctum Magic (Drawback) [Cata. HB]
 
@@ -682,14 +362,6 @@ Your area of power amplifies your strength.
 **Prerequisites:** Bloody Savage, Vampiric Casting drawback.
 
 **Benefit:** You no longer gain sustenance from food or drink, only from draining blood. However, you may drain blood from creatures who have been dead for no more than an hour. Whenever you drain blood from a creature, you gain a +2 bonus to damage rolls which last for 1 minute.
-
-### Secrets of the Land (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Area Casting drawback
-
-**Benefits:** Whenever you use one of your abilities to gain a temporary talent, if you are in the area chosen for your Area Casting drawback, you may gain one additional temporary talent from among those you could obtain.
 
 ### Soul Harvester (Drawback) [Cata. HB]
 
@@ -711,55 +383,11 @@ Death replenishes your magical abilities.
 
 If the sphere effect affected an area, this damage is dealt to all creatures within 5 feet of the magic object (Reflex negates), whereas if the sphere effect affected an individual creature (or otherwise created a worn item), the creature who destroyed the object suffers the damage (Reflex halves).
 
-### Spell Capacitor Agenda (Drawback) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Time Sphere, War Sphere (any momentum talent), Substantial Magic drawback, Spell Capacitor
-
-**Benefits:** You may create a spell capacitor as a medium-sized physical object within close range and with the same hp and hardness as one of your objects created with Substantial Magic. As a swift, move, or standard action, as long as you have line of effect to the physical spell capacitor, you may spend up to three points of momentum on the physical spell capacitor. Rather than you having to spend an action, you may have the spell capacitor activate automatically when the amount of momentum spent on the spell capacitor equals or exceeds twice the number of spell points spent on the spell capacitor.
-
-### Spell Kicker (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Card Casting or Charged Spells drawback
-
-**Benefits:** Whenever you create a card or charge of a magic sphere effect, you may list a second magic sphere effect on the card or charge as a kicker effect. Whenever you would be able to use the kicker effect at a reduced action cost as a result of using another magic sphere effect this turn (such as using cure on yourself through the Vampiric Disruption or Transpatial Reconstitution feats, an Admixture feat or creating a second destructive blast through the Impact Burst talent), you may use the kicker effect without requiring a separate card or charge for it. You must still spend spell points and actions as normal for the kicker effect, and if you possess the Charged Spells drawback the spell points required to pay for the kicker effect must have been invested into the charge.
-
-**Special:** If you possess the Card Casting drawback, this counts as a Deck feat
-
-### Spell Kicker, Improved (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Spell Kicker, Card Casting or Charged Spells drawback
-
-**Benefits:** You may select up to three magic sphere effects as kicker effects for each card or charge rather than just one.
-
-**Special:** If you possess the Card Casting drawback, this counts as a Deck feat
-
-### Spells to Life (Drawback) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Enhancement sphere (animate object), Substantial Magic
-
-**Benefit:** You may use the animate object (enhance) talent on objects created using Substantial Magic, and may spend an additional spell point to do so as part of summoning the creature. If the sphere effect associated with the animated object affects an area, that area remains centered on the animated object if it moves. If the sphere effect associated with the animated object targets a creature, the effect now targets one creature which the animated object is sharing its space with (you may choose to have the animated object move with a willing target). You may have the animated object change its target once per round, in which case any creature which has not previously succeeded at a saving throw against the effect is allowed a new saving throw.
-
 ### Suffer By Proxy (Drawback, Proxy)
 
 **Prerequisites:** Enhancement sphere, Draining Casting drawback, Circle Casting, Spell Proxy.
 
 **Benefit:** Whenever you use a sphere ability, you may choose to have a creature under the effects of Create Proxy suffer the nonlethal damage for you. The creature must be within the range of one of your Proxy feats, and must not be immune to nonlethal damage. You cannot choose to split up the nonlethal damage; all of it must be dealt to a single creature.
-
-### Surrender of the Self (Drawback) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Unsettling Casting drawback
-
-**Benefits:** While under the effects of a non-dormant lesser severance, you ignore any ability damage to your casting ability score for the purpose of determining the effects of your magic sphere effects. While under the effects of a non-dormant greater severance, you ignore any ability damage, ability drain, and penalties to your casting ability score for the purpose of determining the effects of your magic sphere effects.
 
 ### Terrain Defiler (Drawback)
 
@@ -796,32 +424,6 @@ This feat can only alter spells or sphere effects that have an obvious auditory 
 **Prerequisites:** Fast Focus, ability to gain martial focus.
 
 **Benefits:** You can take a standard action to regain both your mental focus and your martial focus.
-
-### Unlocked Power (Drawback) [SM—]
-
-**Prerequisites:** Ramp Up
-
-**Benefit:** Choose three magic talents. You gain these magic talents, but may only use them (and any advanced talents which use them as prerequisites) starting on the 3rd, 5th, and 7th rounds of combat, respectively.
-
-**Special:** If you possess the Card Casting drawback, you may create spell cards which incorporate these talents, but you may play such cards starting on the turns that their required talents become available.
-
-**Source:** Card Casting 2: Counters and Control
-
-### Unnatural Company (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Coy Caster
-
-**Benefits:** You do not treat spellcasters or creatures under the effects of magic sphere effects as observing you for the purpose of your Coy Caster drawback. While you are observed by a creature which would force a concentration check from the Coy Caster drawback, you gain a +2 competence bonus to your MSB to affect the sphere abilities of other spellcasters.
-
-### Whispers From Beyond (Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Unsettling Casting
-
-**Benefits:** You gain a single magic talent as a bonus talent. Whenever you rest to regain spell points, you may exchange the magic talent gained from this feat for another magic talent you meet the prerequisites for. Whenever you create a magic sphere effect which utilizes the talent chosen with this feat, you take 3 points of strain damage. This strain damage is considered to be from the Unsettling Casting drawback for the purpose of determining when you gain severances.
 
 ### Wild Casting (Drawback)
 
@@ -897,16 +499,6 @@ You draw life energy directly from your environment.
 
 **Four Defiler Feats:** The number of dice increases by 4 rather than 2.
 
-### Devouring Defiling (Defiler, Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Terrain Casting drawback, one of Agonizing Defiling, Ruinous Defiling, or Spellburn Defiling
-
-**Benefit:** When you use Agonizing Defiling, Ruinous Defiling, or Spellburn Defiling, if at least five different creatures fail their saving throws against any of these feats, the terrain is not blighted, corrupted, or drained of its nutrients.
-
-**Four Defiler Feats:** If at least three different creatures fail their saving throws against any of these feats, the terrain is not blighted, corrupted, or drained of its nutrients.
-
 ### Distant Defiling (Defiler, Drawback) [Cata. HB]
 
 You can draw magic beyond that which is around you.
@@ -969,16 +561,6 @@ You draw extra energy from certain environments.
 
 **Special:** You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new terrain. You cannot gain this feat if you possess the Terrain Focus feat and vice versa.
 
-### Spellburn Defiling (Defiler, Drawback) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Terrain Casting drawback, Mana sphere
-
-**Benefit:** Whenever you blight, corrupt, or drain an area of its nutrients with the Terrain Casting drawback, you may cause all creatures other than yourself caught inside the defiled area to take 1 spell point damage (Will save negates, DC equal to your Mana sphere DC).
-
-**Four Defiler Feats:** Any creatures that fail their saving throw against this feat also become spellburned for 1 round.
-
 ### Terrain Defiler (Defiler, Drawback) [Cata. HB]
 
 You can increase the damage to the land around you to amplify your power.
@@ -996,42 +578,6 @@ You can increase the damage to the land around you to amplify your power.
 # Union Feats
 
 Union feats are a special variety of drawback feats whose benefits only apply between creatures who have selected each other as their bonded creature for the Bonded Casting drawback. All Union feats count as both teamwork feats and drawback feats. Whenever a character shares a union feat they know with their bonded creature, the duration of the shared union feat is doubled.
-
-### Bonded Alliance (Drawback, Teamwork, Union) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Bonded Casting
-
-**Benefit:** Whenever you rest to regain spell points, choose one teamwork feat you possess. Your bonded creature gains that teamwork feat as a bonus feat until you choose a different teamwork feat with this feat.
-
-**Special:** You may select this feat multiple times, each time allowing you to select an additional teamwork feat.
-
-### Coordinated Combo (Drawback, Teamwork, Union) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Bonded Casting, sequence or tension class feature
-
-**Benefit:** Whenever your bonded creature performs a link in their sequence, they may add the link to your sequence in place of their own. This does not allow either of you to exceed the maximum number of links in your sequence. Your sequence may only be increased by 1 link per action type each round (counting full-round actions and standard actions as the same type for this purpose).
-
-Whenever you gain tension from taking an action, you may instead choose to have your bonded creature gain an equal amount of tension.
-
-### Never Beyond Reach (Drawback, Teamwork, Union) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Bonded Casting, Mana Sphere
-
-**Benefit:** You gain a constant manabond with your bonded creature that you do not need to concentrate on but which is suppressed when you are not within range of your bonded creature. The manabond has an effect of your choice that you can create.
-
-### Thoughtbond (Drawback, Teamwork, Union) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Bonded Casting
-
-**Benefit:** You may communicate telepathically with your bonded creature at any range. In addition, you may aid another on your bonded creature at a range of 30 feet even if you do not have line of sight or line of effect.
 
 </div>
 

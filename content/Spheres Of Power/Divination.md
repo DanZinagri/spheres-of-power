@@ -287,12 +287,6 @@ You may target food but not an already-magical item, such as a potion. All spell
 
 When you divine, the ability lasts 2 rounds after you stop concentrating.
 
-#### Pressuring Divinations [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You treat any creature that has failed a Will save against one of your ongoing divinations as uncertain for the purpose of being able to make Sense Motive checks against them (you can attempt a Sense Motive check to sense their goal, sense their emotion, or get a hunch as an immediate action each time that the disoriented creature attempts a language-dependent skill check or use a language-dependent skill talent). You may spend a spell point to attempt a Sense Motive check as a free action rather than an immediate action against a creature you have successfully divined in this way.
-
 #### Revealing Strike [strike] [3PP]
 
 **Source:** Expanded Spheres: Baron's Lost Apocrypha
@@ -346,20 +340,9 @@ Multiclass core spellcasting classes only reveal as the highest aura between the
 
 You may divine the emotions of creatures you can see within range (Will negates), and you gain a circumstance bonus to Sense Motive checks equal to 1/2 your caster level vs. creatures you have thus successfully divined. You do not know the motivation or source behind why a creature is feeling the emotion. If you spend an additional spell point, you divine not only the emotions of those within range, but also the surface thoughts (Will negates).
 
-**Addendum: [SM—]**
-**Source:** Baron’s Imposing Mausoleum
-
-You may select this talent a second time, in which case you also learn both the most pressing desire and most pressing anxiety of any creature you learn the surface thoughts of. You also know if each of the revealed surface thoughts, anxiety, and desire are tied to a major or minor motivation.
-
 #### Divine Biohazard (divine) [Alienist HB]
 
 You may divine the presence of any diseases, poisons, or radiation within range. You determine whether any creature, object, or area has been poisoned, is poisonous, carries any sort of disease or infestation, or possesses any abilities which can inflict the sickened or nauseated conditions. You can determine the exact type of poison with a DC 20 Wisdom check. A character with the Craft (alchemy) skill may try a DC 20 Craft (alchemy) check if the Wisdom check fails, or may try the Craft (alchemy) check prior to the Wisdom check. If there is a disease present, you know what disease it is and its effects. You gain an insight bonus on Heal checks equal to half your caster level to treat a disease you divine with this sphere effect.
-
-#### Divine Capability (divine) [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You divine the skill and understanding of creatures you can see within range, allowing you to use Assess Proficiency on them even if they do not take an action and even if you have not observed them for three rounds (Will negates). You gain a circumstance bonus to skill checks made to assess proficiency or to identify feats, talents, and class features equal to 1/2 your caster level vs. creatures you have thus successfully divined.
 
 #### Divine Future (divine)
 
@@ -527,24 +510,6 @@ Thoughtsense can distinguish between sentient (Intelligence 3 or greater) and no
 **Telekinesis: Touchsight:** You may spend 2 spell points to gain the touchsight ability. You gain the ability to “feel” your surroundings even when your sight would otherwise be obscured by your physical environment. Your touchsight field emanates from you out to close range. You ignore invisibility, darkness, and concealment, though you must have line of effect to a creature or an object to discern it. You automatically detect and pinpoint all creatures within close range as if you could see them. In many circumstances, comparing your regular senses to what you learn with touchsight is enough to tell you the difference between visible, invisible, hiding, and concealed creatures. A character cannot use touchsight to distinguish color or visual contrast and is not subject to gaze attacks, blinding, or visual effects when perceiving a target with only this sense. Touchsight can be foiled by illusions with the Illusionary Touch talent.
 
 **Weather: Storm Vision:** You may spend a spell point to gain a special sense granting the ability to negate any concealment, miss chance, and penalties to Perception directly caused by weather such as rain or fog (be they magical or natural).
-
-#### Arc of Change [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Divination Sphere, Time Sphere
-
-Whenever you divine a target for some manner of quality, you know if that quality has changed within the last hour per caster level (for example, if you use Divine Life, you can tell if a creature acquired an injury or disease within this timeframe). If you observe the target for at least 3 rounds, you learn the exact moment or moments that their statuses changed within the timeframe.
-
-If you spend an additional spell point, the period of time you can evaluate increases from one hour to one day per caster level. At caster level 10th, it improves to 1 year per caster level.
-
-#### Assurance of the Future [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Divination Sphere (Divine Future)
-
-Whenever a creature rolls one of your divine future dice, they gain temporary hit points equal to the result until the end of their next turn. In addition, they may add the result to the next damage roll they make before the start of their next turn.
 
 #### Cartographer’s Divinations (divine) [utility] [RW HB]
 
@@ -727,14 +692,6 @@ You may spend 1 spell point to detect any awareness of your presence. You know w
 
 Whenever you would divine for magic auras, you can detect the lingering aura for up to 1 day per caster level you possess, regardless of the aura’s original strength. The effects of this talent also benefit Alternate Divinations that have a strength or duration of a lingering aura (such as Divine Shapechanger or Divine Alignment).
 
-#### Soulbroker’s Sight [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Divination Sphere (divine treasure), Fate sphere
-
-Any creature you divine radiates an aura as if it were treasure observed with divine treasure. The monetary value of a creature is equal to that of the Soul Gem that would be created from its soul using the Create Soul Gem talent. This effect also reveals the names of any other creatures, gods, or locations which may have a claim on the creature’s soul as well as any subordinates that are magical bonded to the creature (such as familiars, animal companions, and Conjuration Sphere companions).
-
 #### Speak And I Listen [DbH]
 
 **Prerequisites:** Divination sphere (Hear Name (advanced)); Divination sphere (Greater Divine [range], Viewing (divine), Scrying (advanced)) or Warp sphere (Distant Teleport, Unseeing Teleport, True Teleport); caster level 10th.
@@ -801,29 +758,11 @@ Whenever you use a (manipulation) or (expunge) talent on a creature successfully
 
 **Benefit:** You may attempt Use Magic Device checks on any object within close range using the greater caster level of your Divination or Illusion spheres. Additionally you may take 10 or 20 on Use Magic Device checks and apply the bonus granted from the Deceive Dweomer trick to all Use Magic Device checks. This is a supernatural ability and attended or intelligent objects are allowed a Will save as if this was an Illusion (glamer) to negate the effect but you may use your Divination caster level to determine the DC if it is higher.
 
-#### Destiny Reader (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Divination Sphere (augury or divine future), Fate Sphere
-
-**Benefits:** If you possess any motif talents, you may discharge a motif as part of using Augury to increase your base and maximum chance of gleaning correct or useful information by 10% or as part of applying the bonus to Divine Future to not consume the bonus, allowing it to be used again.
-
-If you possess the ability to use any word or consecration, you may use a single word or consecration on yourself as part of the action to use Augury or Divine Future, spending spell points as normal.
-
 #### Divining Beacon (Dual Sphere)
 
 **Prerequisites:** Divination sphere, Warp sphere (Teleport Beacon (space)).
 
 **Benefit:** You may create teleport beacons that you can sense, giving you impressions of everything that happens around them. You know the size and movement of anything in a 10- foot radius around a beacon created this way. In addition, you may divine to see and hear from the location of such a teleport beacon as if you were standing in its position, regardless of your distance from it. Using divine in this way creates a scrying sensor which can be detected with a Perception check (DC 20 + caster level), but can only be dispelled by dispelling the teleport beacon.
-
-#### Elemental Eye (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Divination Sphere (viewing), Nature Sphere
-
-**Benefits:** When you create a viewing sensor, you may reduce the spell point cost of the effect by 1 to restrict the appearance of the viewing sensor to a specific element whose package you possess within range. The sensor appears attached to the nearest body of that element within close range of the target or area and of at least tiny size (such as a puddle for water, an open flame for fire, or a stone wall for earth) and cannot move beyond that body (though it can move freely within the flame, puddle, or wall). In the case of the air element, your sensor must appear in a space with air but with no other objects or creatures larger than tiny size within 30 feet. If the body is destroyed or reduced below tiny size, the sensor ends.
 
 #### Ensouled Vision [Gravecaller's HB]
 
@@ -873,14 +812,6 @@ If you possess the Divination sphere Alarm talent, the bound sensor instead last
 
 **Benefit:** You gain an insight bonus to attack and damage equal to the number of senses from the Divination sphere you currently have active (maximum 1 + 1 per 5 Hit Dice). You may as an immediate action spend a spell point and dismiss a sense you have active to ignore a percentage of miss chance (maximum 5% + 5% per 5 Hit Dice) for 1 round.
 
-#### Projected Presence (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Divination Sphere (Viewing), Illusion Sphere
-
-**Benefits:** Whenever you create a viewing sensor, you may have it take any form that you could create with an illusion. While in this form, the viewing sensor can move at the same rate the illusion can move and is capable of creating any sensations you could create with your illusions (for example, if you have the Illusory Sound talent, the viewing sensor could speak).
-
 #### Scholar Of Past And Future [BaP]
 
 **Prerequisites:** Knowledge (history) 1 rank, Divination sphere.
@@ -912,14 +843,6 @@ As a free action once per round, you may have this sensor touch an unattended ob
 **Prerequisites:** Divination sphere (Blindfolded Oracle (sense)), War sphere.
 
 **Benefit:** When you close your eyes to use Blindfolded Oracle while within the area of your totem, you may choose to have your blindsense extend to the entire area of the totem rather than close range. When used in this way, your blindsense stops at the edge of your totem’s area.
-
-#### Wise to the Fates (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Divination Sphere, Fate Sphere
-
-**Benefits:** Whenever you would discharge a (motif) talent, you may choose to end a single (sense) talent on yourself rather than ending the (motif). You gain the benefits of discharging as normal.
 
 ---
 

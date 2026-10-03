@@ -75,13 +75,6 @@ Whenever you maintain a grapple against a creature, or when a creature succeeds 
 
 As long as you have martial focus, the penalties for being grappled by you increase by -1; for every 6 points of base attack bonus you possess, these penalties increase by an additional -1.
 
-#### Hooking Capture [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-When you successfully make an attack action or attack of opportunity with a weapon that has the grapple weapon quality, you may spend martial focus to attempt to grapple the target as part of the same action. Treat this as if you had scored a critical hit with the weapon for the purpose of grappling them.
-You may take this talent a second time, in which case you do not need to spend martial focus to grapple the target.
-
 #### Inescapable Grasp
 
 Whenever a creature attempts to magically escape a grapple with a teleportation or Warp effect, you may make a special combat maneuver check against their CMD as an immediate action. If successful, the escape fails and they provoke an attack of opportunity from you. At +10 base attack bonus, if you make a grapple attempt against a creature under the effect of a freedom of movement spell or similar effect, that effect is suppressed for the duration of the grapple.
@@ -118,32 +111,13 @@ As a move action while you are grappling an adjacent creature, you may regain yo
 
 Whenever you succeed on a trip attempt against a grappled creature, you may immediately move both yourself and the grappled creature up to 10 ft. in any direction except up as a free action. This movement provokes attacks of opportunity for both you and the grappled target. For every 5 points of base attack bonus you possess, you may move yourself and the target an additional 10 ft.
 
-#### Shepherd’s Hook [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-When you attempt to grapple a creature while holding a weapon with the grapple weapon quality, you do not take the -4 penalty for not having two hands free. You may use the weapon to make the maneuver, meaning you may add its enhancement bonus, as well as spells or feats which increase its attack bonus such as Weapon Focus, to your CMB when performing a grapple maneuver. When dealing damage as part of a grapple, you may use a weapon with the grapple weapon quality even if it is not a light weapon.
-
 #### Shoulder Throw
 
 Whenever you succeed on a trip attempt against a grappled creature, you may throw your target, causing them to land prone in an unoccupied square within 10 ft. This immediately ends your grapple. You must have clear line of sight and effect to the target square. Enemies thrown more than 10 ft. take 1d6 bludgeoning damage per additional 5 ft. they are thrown, in addition to any damage they may take as a result of falling (such as if this ability is used against an aerial creature via the Aerial Trip feat). For every 5 points of base attack bonus you possess, you can cause the opponent to land 5 ft. further away from you with this talent.
 
-#### Slam-Jam [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-By expending martial focus, you may use a (slam) as a free action once per round when you initiate or maintain a grapple rather than an immediate action.
-
 #### Slip And Strike
 
 Whenever a creature’s attempt to initiate or maintain a grapple or swallow whole attempt against you fails, or when you choose to release a grapple against an unpinned creature, you may make an attack of opportunity against them. Ending a grapple initiated with the grab universal monster ability does not grant you the same leverage as other uses of this ability and the attack granted for ending such a grapple must be taken as a swift action instead of an attack of opportunity.
-
-#### Snagging Steel [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You may use a melee weapon to perform a snag, adding its bonuses to your snag’s attack and causing the snag to deal damage equal to the weapon’s enhancement bonus.
-You may take this talent a second time, in which case the snag deals damage equal to your Strength modifier + ½ your base attack bonus + the weapon’s enhancement bonus.
 
 #### Strongarm Lockup
 
@@ -189,12 +163,6 @@ Whenever you attempt to initiate a grapple, you can allow the creature which you
 #### Twin Tie-Up
 
 You can expend your martial focus to make a grapple check against two different creatures within your reach as a standard action. If your grapple check is successful against both creatures, you can grapple both creatures simultaneously, although you must be adjacent to both creatures while maintaining a grapple against them. Whenever you make a check to maintain the grapple, you use the result against both creature’s CMD with a -4 penalty to your combat maneuver bonus in order to maintain the grapple against both creatures, and both creatures gain a +4 on their combat maneuver checks to end the grapple. If you use a (slam) talent, you can spend a move action in addition to the swift action required to use a slam to use it against both grappled creatures. For every 5 points of base attack bonus you possess, this penalty to CMD and bonus to combat maneuver checks is reduced by 1/-1 respectively.
-
-#### Vicious Grappler [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-As long as you have martial focus, you can make an attack of opportunity as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple check is attempted. If the attack hits, you gain a +2 bonus on your grapple check and any other grapple check against the same creature this round.
 
 #### Worked Match [utility]
 

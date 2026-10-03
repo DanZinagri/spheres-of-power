@@ -678,14 +678,6 @@ Note that a clever recipient can subvert some instructions. At the end of its ta
 
 When you summon a companion, you may spend an additional spell point to have it possess your body rather than materializing in its own form. The companion possesses your body as the wraith’s passive possession or active possession class feature with an effective wraith level equal to your caster level. They may switch between active and passive possession as a swift action. This possession lasts for the duration of the summon and can be dismissed as normal. You may take actions to dismiss a companion that is possessing you even when you could not normally take actions. You may only be possessed by one creature at a time.
 
-#### Companion Takeover [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Conjuration Sphere (Channel Companion (advanced)), Death Sphere (Project Spirit)
-
-As part of the action to use Project Spirit, you may summon your companion possessing your body as per Channel Companion, spending spell points as normal. Rather than falling into suspended animation, your summoned companion controls your body’s actions until your spirit returns to the body.
-
 #### Diagram
 
 **Prerequisites:** Conjuration sphere (Call Planar Creature (advanced)), caster level 1st.
@@ -1016,7 +1008,7 @@ The Knight-Summoner is an archetype for the Mageknight that allows them to call 
 
 ## [[Pact Master]]
 
-The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of  .
+The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of Pact Magic.
 
 ## [[Twinsoul Elementalist]]
 
@@ -1806,7 +1798,7 @@ The Knight-Summoner is an archetype for the Mageknight that allows them to call 
 
 ## [[Pact Master|Old Pact Master]]
 
-The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of  .
+The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of Pact Magic.
 
 ## [[Twinsoul Elementalist|Old Twinsoul Elementalist]]
 

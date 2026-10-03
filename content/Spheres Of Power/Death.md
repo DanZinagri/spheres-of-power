@@ -281,9 +281,6 @@ Curses do not stack with themselves, but a target can be afflicted by multiple d
 - **Repel Healing:** The victim cannot heal naturally, and magical healing heals the victim by only half the usual amount (minimum 1 point). Fast healing and regeneration are likewise halved.
 - **Unfocused:** The target suffers a penalty equal to your casting ability modifier to all skill checks governed by an attribute of your choice.
 
-**Addendum: [SM—]** When you afflict a target with a curse, you may have the effects of the curse only apply in specific circumstances such as when the target is in a specific place or performing a specific task using the same trigger conditions as the Contingency feat. You may have the curse delay in activation and remain constant or suppress itself again when the parameters are no longer fulfilled.
-In addition, you may select the following additional effects
-
 - **Skill Blockage:** The target takes a penalty equal to 5 + 1/2 your caster level on all skill checks made using a chosen ability score.
 - **Twisted Fortune:** Whenever the target or their immediate allies roll a d% to determine the outcome of an event (such as a random encounter or a downtime event), they roll an additional time and the GM chooses the result from between the two, selecting whichever one they believe will be less desirable for the cursed target.
 
@@ -426,26 +423,11 @@ When a being who has sworn an Oath of Loyalty dies, the being or organization wh
 
 While an undead you reanimated is within your dominion range, you may spend an additional spell point as part of creating a magical sphere effect to treat the undead as the point of origin for any effect you create. Personal-range spells take effect on the undead channeling the effect rather than yourself.
 
-#### Determined End [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Death Sphere (Corpse Manipulation)
-
-Whenever you reduce a creature to 0 hit points or fewer or damage a corpse, you may cause it to be entirely disintegrated, leaving behind only a trace of fine ash. A still-living creature is allowed a Fortitude save to negate this disintegration.
-In addition, when you kill a target, you may use Corpse Manipulation talent on a target as a free action.
-
 #### Enervation [EO3]
 
 **Prerequisites:** Death sphere (Drain (ghost strike)), caster level 15th.
 
 You may spend an additional spell point when using the Drain ghost strike to increase the number of temporary negative levels by one additional die (2d4, 2d6, 2d8, etc., maximum 2d12) and increase the duration of these negative levels to 24 hours (if this duration would be higher).
-
-#### Entwined Ruin (ghost strike) [curse] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-You may spend a spell point to make a ghost strike that permanently curses the target to share damage with another target who is also under the effect of this curse (Will negates). If you have not cursed any other creatures with this curse, it remains ineffectual until you curse a second creature. Whenever one of the two cursed creatures takes damage, the other takes an equal amount of damage provided both are still alive, to a maximum of 10 points of damage per caster level per day (damage beyond that necessary to kill the first target does not transfer). This transferred damage is typeless and ignores the second creature’s damage reduction and resistances.
 
 #### Evisceration (ghost strike) [3PP]
 
@@ -506,16 +488,6 @@ At caster level 15th, you may create any form of undead, regardless of CR, provi
 Whenever you kill a creature using a Death sphere effect, you may choose to leave the body completely intact but empty of a soul. The soul passes on, but the body itself remains alive in a catatonic state. Mind-affecting effects and abilities such as possession can be used on this hollow body as if it were a willing living creature. Hollow bodies still require food to survive and become a regular corpse should they die. A hollow body that is dominated or possessed functions as if it had been given the zombie template (or one of the variant zombies creatable through Expanded Necromancy if you possess that talent), save that it lacks undead traits and retains the traits of its original creature type. They are treated as their original type, not undead, for the resolution of magical effects and attacks. Channelling positive energy cannot harm a hollow body zombie, for example, nor does negative energy heal it.
 
 If you possess the Life sphere, you may reanimate a creature as a hollow body rather than as a skeleton or zombie.
-
-#### Killing Gaze [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-You may target creatures with your ghost strike using a gaze attack. This does not require an attack roll, but any ghost strike which does not normally allow for a saving throw now allows the target to make a Will saving throw to negate the effects.
-
-When using this talent, to affect a target with your ghost strike, you must look them in the eyes. A target must be able to see your eyes (or another part of your body at GM discretion) to be targeted with your ghost strike. A creature may declare they are averting their gaze from your eyes as an immediate action or a free action which can be taken once per round, in which case you gain concealment against them for 1 round but they receive a +4 bonus on any saving throws against your charm for the duration. A creature who shuts their eyes completely (a free action which can be taken once per round, in which case the creature cannot open its eyes until the start of its next turn) or otherwise cannot see you at all cannot be targeted by your charm at all. Your ghost strike effects are considered gaze attacks for any ability that would affect gaze attacks.
-
-In order to target yourself with a ghost strike, you must be able to clearly see your reflection in some nearby reflective surface such as a mirror or a pool of water. Whenever you target yourself with a ghost strike sphere effect by looking into a reflection of yourself, you are flat-footed until the beginning of your next turn. You may not use your ghost strikes on yourself while you cannot see.
 
 #### Mercy Killing
 
@@ -612,14 +584,6 @@ Once a spirit has been summoned, you may do any of the following:
 - You may ask one question per two caster levels. The corpse’s knowledge is limited to what it knew during life, including the languages it spoke. Answers may be brief, cryptic, or repetitive. A creature who would have opposed you in life may attempt a new Will save to refuse to answer or to lie with the Bluff skill.
 - You may use the spirit as a component when creating an animated object or undead creature (Will negates if unwilling; if the spirit succeeds at its save, it immediately returns to the afterlife as if it had made its original saving throw). You must create the undead creature or animated object as usual, but by placing the spirit into the target, the spirit is brought back to life within this new body. The object or undead creature gains the mental attributes, personality, memories, etc. of the selected spirit, but otherwise is normal for its new creature type. (At the GM’s discretion, a spirit bound to a permanent animated object or undead creature may recover or gain class levels over time, but loses at least 1 level per CR of its new form.) An undead creature or animated object created in this way is not automatically under your control.
 - If you possess the Resurrection advanced Life talent, you may place the spirit into a new body, bringing the soul back to life, even if you do not have the target’s body, it is missing vital components, or the target has been dead for longer than the time limit. You must possess either a soulless body (such as one created through the Fleshcraft and Create Materials advanced Creation talents), or else a body assembled from other, recently slain bodies. (Assembly requires either the target’s body with one additional body for every replaced vital component, or else a minimum of six different bodies—one for each limb, the torso including head, and the brain. In some cases, more bodies may be necessary. Special unguents and bindings worth 500 gp are also required.) You may bring the target back to life with the Resurrection advanced Life talent. The target retains its ability scores and class levels (even those dependent on blood, such as sorcerer levels) but its race and appearance depend on the body possessed.
-
-#### Voluble Gravetongue [utility] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Death Sphere (gravetongue)
-
-When a creature adjacent to you or within range of your Dominion talents dies, you may ask it a single question as if you were under the effects of Gravetongue as a free action. In addition, when you use Gravetongue, you may receive all answers immediately and telepathically (removing the need for the body to have intact vocal structures) and the dead creature gains no saving throw against this effect.
 
 ---
 
@@ -826,14 +790,6 @@ You must have at least one round of rage remaining to use this ability, and you 
 If you possess the Gravetongue talent, you gain the benefits of Gravetongue as a constant supernatural effect.
 
 If you possess the Summon Spirit talent, you no longer suffer negative energy levels when a spirit succeeds against your summoning. Additionally, if you have access to a creature’s corpse, you no longer need to summon their spirit in order to ask questions of them, although you must still spend 3 spell points and an hour communicating with their spirit.
-
-#### Spiteful End [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Death or Fate sphere
-
-**Benefit:** Whenever you are rendered helpless or a creature kills you, you can create a single sphere effect with the curse descriptor as an immediate action before you become helpless or are killed. The curse cannot require a time longer than a standard action to use and must target the creature who rendered you helpless or who killed you. If the curse has a range of touch and the attacker is not within your reach, you can deliver it as a ranged touch attack with a range of close.
 
 #### Strange Corpsecraft [BaP]
 

@@ -40,8 +40,6 @@ This replaces all mercies or cruelties
 
 **Pledge Alignment:** At 1st level, the avowed must choose an alignment that she possesses (chaos, evil, good, or lawful; but not neutral); this alignment is considered her pledge alignment, which affects her class features and abilities. Once this choice is chosen, it cannot be changed.
 
-**Addendum [SM—]:** The avowed may select true neutral as her pledge alignment, in which case she treats chaotic evil, chaotic good, lawful evil, and lawful good creatures as opposite her pledge alignment.
-
 **Pledge:** The avowed is dedicated wholly to her deity’s cause, serving them wholeheartedly. At 1st level, the avowed must select a pledge, which dictates her class features and abilities.
 
 Once this choice is chosen, it cannot be changed. At 1st level, the avowed gains a bonus to a skill, in addition to treating that skill as a class skill. At 3rd, 6th and 8th level, the avowed gains a pledge ability from her pledge.
@@ -72,9 +70,6 @@ This alters smite evil or smite good.
 - **Lay on Hands (Good):** This functions as the paladin ability of the same name.
 - **Touch of Corruption (Evil):** This functions as the antipaladin ability of the same name.
 - **Vitalizing Grasp (Lawful):** The avowed can invigorate others (or herself) with a touch. As a standard action (or as a swift action if she targets herself), she may touch a creature to grant them 1d6 temporary hit points, plus an additional 1d6 for every two class levels she possesses. These temporary hit points last for 1 minute.
-- **Shout of Triumph (Destruction): [SM—]** when the avowed triumphs over a foe, she may raise her weapon high, inspiring nearby friends and allies; she may spend an immediate action and a use of divine touch when she defeats an opponent whose CR is at least half her character level (rounded down, minimum 1/2) to grant all allies within 10 ft. a +1 morale bonus to attack and damage rolls for 1 round. This bonus increases by +1 at 6th level and every 4 levels thereafter. For the purposes of this ability, defeating a foe includes any action that kills, renders unconscious or helpless, ties up (as the option for pinned opponents), or banishes a foe.
-- **Invoke Elements (Neutrality): [SM—]** As a touch attack, the avowed can cause 1d6 points of acid, cold, electricity, or fire damage for every two antipaladin levels she possesses. Using this ability is a standard action that does not provoke attacks of opportunity.
-- **Outrageous Fortune (Tales): [SM—]** The avowed gains the Fate sphere as a bonus sphere. Whenever she creates a consecration or motif, she may spend a use of divine touch to treat her class level as her caster level for the effect or ignore any one general drawback she possesses for the purpose of using the consecration. Multiple uses of divine touch may be spent on the same effect.
 
 This replaces lay on hands or touch of corruption.
 
@@ -84,10 +79,6 @@ This replaces lay on hands or touch of corruption.
 - **Channel Positive Energy (Good):** This functions as the paladin ability of the same name.
 - **Channel Negative Energy (Evil):** This functions as the antipaladin ability of the same name.
 - **Channel Concordant Energy (Lawful):** The avowed releases a controlled burst of pure order. All allies within a 30-foot radius centered on the avowed form an empathetic unity for 1 round, plus 1 round per 3 class levels she possesses. All affected allies gain DR 5/—, plus 1 per 5 class levels she possesses. This stacks with similar forms of damage reduction. Additionally, whenever an affected ally would suffer damage, any other affected ally that is aware of the attack may choose to transfer up to half of that damage to themselves. Damage transferred this way may not be resisted or redirected further, and only one ally can transfer this damage.
-- **Wrathful Focus (Destruction): [SM—]** Whenever a creature the avowed has used her smite ability on is reduced to 0 or fewer hit points, she may spend a use of divine touch to regain martial focus.
-- **Elemental Surge (Neutrality): [SM—]** The avowed may deal her invoke elements damage to all creatures within 30 feet (Reflex save half). This does not require an attack roll.
-- **Boon of Purpose (Purpose): [SM—]** The avowed gains the boon of purpose class feature of the [[Champion Of The Cause (PaladinAntipaladin Archetype)|champion of the cause]] paladin archetype. Rather than having a limited number of uses per day, the avowed instead spends two uses of divine touch to use an ability from boon of purpose.
-- **Chansons (Tales): [SM—]** The avowed gains a (motif) talent as a bonus talent. Whenever she rests to regain spell points, she may change this talent to any other motif. When she uses this motif on herself, she may spend a use of divine touch to reduce the spell point cost by 1 (minimum 0). Whenever the avowed spends one or more uses of divine touch on a consecration or motif, she also gains a +1 bonus to the MSD of the effect. This increases by +1 at 8th level and every 4 levels thereafter.
 
 This replaces channel positive energy or channel negative energy.
 
@@ -115,8 +106,6 @@ If a spiritual ally dies, she may not summon another ally for 1 week.
 
 This replaces divine bond or fiendish boon.
 
-**Addendum: [SM—]** In place of the normal options for divine bond, the avowed may select the incarnation form or incarnation ally options from the [[Champion Of The Cause (PaladinAntipaladin Archetype)|champion of the cause]] paladin archetype, the divine envoy option from the [[Arbiter (PaladinAntipaladin Archetype)|arbiter]] archetype, or the implement divine bond archetype from the [[Valiant Champion (Paladin Archetype)|valiant champion]] archetype.
-
 **Flexible Champion (Su):** Any abilities the avowed possesses that reference alignment (such as aura of justice/vengeance, aura of faith/sin, etc.) instead use her pledge alignment for instances of ‘good’ (for paladins) or ‘evil’ (for antipaladins), and opposite her pledge alignment for instances of ‘evil’ (for paladins), or ‘good’ (for antipaladins).
 
 (For example, an avowed with a pledge alignment of lawful would treat her weapons as lawful-aligned for the purposes of overcoming damage reduction with her aura of faith/sin ability, and would gain DR 5/chaotic with the aura of righteousness/ depravity class feature).
@@ -124,20 +113,6 @@ This replaces divine bond or fiendish boon.
 ---
 
 ## Avowed Pledges
-
-### Pledge of Agency [SM—]
-
-Against those who cite fate or destiny as the ultimate justifier of their actions, against those who seek to twist events using knowledge of the future, and against those who deceive others by making their goals seem inevitable, those of the pledge of agency raise their arms to battle for the determination of mortals’ own destinies.
-
-**Defy the Stars (Ex):** At 1st level, the avowed gains Knowledge (geography) as a class skill and a bonus on Knowledge (geography) checks equal to half her avowed level.
-
-**Aura Against Malfeasance (Su):** At 3rd level, the avowed gains immunity to curse effects and hexes. Allies within 10 feet of the avowed gain a +4 morale bonus on saving throws against such effects.
-
-**Detaching Smite (Su):** At 6th level, as long as a creature is smited by the avowed, it cannot benefit from insight or luck bonuses.
-
-**Aura of Annulled Fate (Su):** At 8th level, the avowed becomes immune to effects which force them to reroll dice or roll multiple times and take any result other than the highest. Enemies within 10 feet of the avowed cannot reroll dice, have their die results modified (such as in the case of the Tug Fate consecration), or roll multiple times and take any result other than the lowest. Enemies within 10 feet of the avowed cannot discharge (motif) effects
-
-**Prophecy’s Anathema (Su):** At 20th level, any attempts to divine information about the avowed, any creature within 10 feet of them, or their location through effects such as augury have a 0% chance to yield meaningful or accurate results. In addition, as long as the avowed has a smite active, any enemies within their aura of annulled fate are affected by detaching smite.
 
 ### Pledge of Animism [EO3]
 
@@ -181,30 +156,6 @@ Additionally, all enemies within this aura suffer from a 20% spell failure chanc
 If the avowed shares the ability to smite via aura of justice or vengeance, or a similar ability, their allies gain this same benefit against creatures they smite. This ability functions only while the avowed is conscious, not if she is unconscious or dead.
 
 **Manavoid Champion (Su):** At 20th level, whenever a creature casts a spell or sphere effect on an enemy the avowed can attempt to counterspell that effect as the Counterspell feat, except it does not cost a spell point and she may do this as a free action that can be taken outside of her turn.
-
-### Pledge of Condemnation [SM—]
-
-Putting aside all scruples to focus exclusively on the destruction of their enemy, those under a pledge of condemnation forsake the improvement or protection of the self in favor of raw offensive prowess.
-
-**Eye for Danger (Ex):** At 1st level, the avowed gains Appraise as a class skill and a bonus on Appraise checks equal to half her avowed level.
-
-**Condemnations (Su):** At 3rd level and every 3 levels thereafter, the avowed gains a single condemnation as a [[Grand Purifier (Paladin & Antipaladin Archetype)|grand purifier]] of her avowed level. Rather than spending a spell point or use of martial focus, the avowed may spend a use of divine touch to use one of her condemnations.
-
-**Until It Is Done (Ex):** At 20th level, the avowed gains DR 5/-; this stacks with any other DR of the same type she possesses. In addition, the avowed may always use her divine touch ability as a swift action, even when targeting another creature. Finally, whenever she defeats an opponent opposite her pledge alignment whose CR is equal to at least half her character level (rounded down, minimum 1/2) , she regains 1 use of her divine touch ability;
-
-### Pledge of Continuity [SM—]
-
-The pledge of continuity pursues the stability of cause and effect, fighting for the linearity of time and the maintenance of a comprehensible continuum of events.
-
-**Guard of Timelines (Ex):** At 1st level, the avowed gains Knowledge (history) as a class skill and a bonus on Knowledge (history) checks equal to half her avowed level. In addition, her detect adversary ability can detect creatures opposite her pledge alignment with powers that affect the natural flow of time; this includes creatures who possess the Time sphere or any of its talents, evil creatures that know time magic spells such as haste, slow, or time stop, and creatures with abilities that allow them to manipulate time such as time dragons.
-
-**Aura of Stable Time (Su):** At 3rd level, the avowed is immune to all magical aging effects. The time knight and all allies within 10 feet of her gain a +4 morale bonus on saving throws against time effects; this includes effects created with the Time sphere or any of its talents, time magic spells such as slow, or the shifting breath of a time dragon.
-
-**Slowing Smite (Su):** At 6th level, whenever the avowed successfully damages a creature affected by her smite. The target becomes exhausted unless they succeed on a Fortitude save. On a successful save, they become fatigued for 1 round.
-
-**Aura of Disruption (Su):** At 8th level, any creature struck by the avowed who attempts to cast a spell or use a spell-like ability before the start of the avowed’s next turn must succeed at a concentration check (DC 15 + 1/2 the avowed’s class level) or have the spell fail, losing any spell points, spell slots, and the action taken to cast the spell. Any attack action made by an ally within 10 feet of the avowed also benefits from this effect.
-
-**Chronal Imprisonment (Su):** At 20th level, the avowed gains the ability to permanently remove temporal threats from the timeline. Whenever she uses smite and successfully strikes a creature opposite her pledge alignment who possess the Time sphere or any of its talents, that knows time magic spells such as haste, slow, or time stop, or with abilities that allow them to manipulate time, that creature must succeed at a Will saving throw or be instantly erased from the timeline. Creatures slain by this ability cannot be returned to life by raise dead, resurrection, or similar effects (such as the Resuscitate talent from the Life sphere). Once a creature has succeeded on a saving throw against this ability, they cannot be affected by it again for 24 hours. Whenever the avowed successfully erases a threat to the timeline using this ability, she regains 1 use of her smite ability.
 
 ### Pledge of Cruelty
 
@@ -272,20 +223,6 @@ A standard for most avowed, those under a pledge of justice typically strive for
 
 **Holy Champion (Su):** At 20th level, whenever the avowed would use a spell, spell-like ability, or sphere effect that would heal hit point or ability damage, the amount healed is maximized.
 
-### Pledge of Legend [SM—]
-
-Forsaking a traditional moral stance, those who make the pledge of legends vow to live up to a heroic ideal, twisting destiny around themself to shape their experiences into an epic narrative.
-
-**Sage of Stories (Ex):** At 1st level, the avowed gains Knowledge (local) as a class skill and a bonus on Knowledge (local) checks equal to half her avowed level.
-
-**Storied Endowment (Su):** At 3rd level, the avowed gains a special consecration. This has the same effect as a single aura class feature granted to an avowed paladin of another pledge at 3rd level (chosen when you gain this class feature), but as a consecration it is not always active, uses your consecration radius, etc. She must concentrate to maintain effect, but may spend a spell point to allow the consecration to continue for 10 minutes per avowed level without concentration. The avowed may use this consecration in conjunction with talents such as Bound Consecration, in which case she gains the special bonus (such as immunity to fear) only while in the area of the consecration. At 8th level, the avowed also gains the benefit of a single aura class feature granted to an avowed paladin of another pledge at 8th level, though it need not be from the same pledge as the option from 3rd level.
-
-**Shared Narrative (Su):** At 6th level, the avowed may discharge a motif affecting her as an immediate action and have the discharged motif affect an ally within the area of one of her consecrations as if the ally had discharged the motif themselves. For example, when an ally is struck by a manufactured weapon, the avowed may discharge The Tower to destroy the weapon.
-
-**Overflow of Tales (Su):** At 8th level, the avowed may spend uses of divine touch in place of spell points when casting consecrations. In addition, the avowed may reduce the casting time of a consecration by 1 step for every additional use of divine touch she spends as part of casting (to a minimum of a free action).
-
-**Idyllis (Su):** At 20th level, the avowed chooses one consecration she knows. This must be a consecration with a duration and that does not cost a spell point to create. The chosen consecration is continuously active with no need to concentrate on it. Each day when she regains spell points she may choose a different consecration she knows to become continuously active, in which case the previous consecration ends.
-
 ### Pledge of Order
 
 “You are under arrest for breaching the Yaledian code of conduct, please raise your hands in the air and refrain from any unneeded spell casting or movement.” - A typical request made by Yaledian law enforcement, usually met with hostility.
@@ -315,20 +252,6 @@ Zealous and true, those under a pledge of purity are purely against everything u
 **Aura of Life (Su):** At 8th level, the avowed radiates an aura of pure positive energy, causing all hostile undead creatures within 10 feet of her to take a -4 penalty on Will saves made to resist positive energy, in addition to regaining half as many hit points when healed by negative energy.
 
 **Pure Champion (Su):** At 20th level, as a special attack action, the avowed may make a single attack against an undead creature under the effects of her smite. If the attack hits, the creature must succeed at a Will saving throw or be destroyed. On a successful save, the creature is still staggered for 1d4 rounds. Regardless of the result, the creature becomes immune to this ability for 24 hours.
-
-## Avowed and Oathbound Paladin/Antipaladin [SM—]
-
-A paladin or antipaladin with the avowed archetype may replace the class features gained from this archetype with new class features gained from taking paladin or antipaladin oaths as follows.
-
-- Options that replace detect evil or detect good instead replace detect adversary
-- Options that replace smite evil or smite good instead replace smite
-- Options that replace lay on hands or touch of corruption instead replace divine touch.
-- Options that replace channel positive energy or channel negative energy instead replace channel divinity
-- Options that replace divine bond or fiendish boon replace the altered divine bond.
-- Options that replace mercies instead replace the combat or magic talents gained at the same level as those mercies
-- Options that replace aura of courage or aura of cowardice instead replace the 3rd-level ability granted by the avowed’s pledge.
-- Options that replace aura of resolve or aura of despair instead replace the 8th-level ability granted by the avowed’s pledge.
-- Options that replace holy champion or unholy champion instead replace the 20th-level ability granted by the avowed’s pledge.
 
 </div>
 

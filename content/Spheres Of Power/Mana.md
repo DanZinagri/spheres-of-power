@@ -203,12 +203,6 @@ You may spend a spell point and make a ranged touch attack against a target with
 
 You may spend a spell point to have the target become separated from their magic. The target is permitted a Fortitude save to resist this effect, otherwise they become unable to voluntarily spend spell points on any effect for 1 round, plus 1 round per 4 caster levels beyond 1st. This does not stop a target from using abilities that do not require a spell point to use, and can be used on creatures normally immune to Fortitude saves (such as undead and constructs). Creatures affected by this ability may attempt a new Fortitude saving throw as a standard action once each round to attempt to end its effects.
 
-#### Mark of Insolvency (Expunge) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-You may spend a spell point to have the target become increasingly penalized for using their magic. The target is permitted a Will save to resist this effect, otherwise they increase the spell point cost of each of their abilities that cost 1 or more spell points by 1, plus an additional 1 for every 10 caster levels you possess. This effect lasts for 1 minute per caster level. Creatures affected by this ability may attempt a new Will saving throw as a standard action once each round to attempt to end its effects.
-
 #### Mark Of Lifeburn (Expunge)
 
 You may spend a spell point to have the target's magical reservoir become dangerous to tap into unless they succeed at a Fortitude saving throw. On a failed save, once per round whenever the target spends at least one spell point, they suffer 1d8 nonlethal damage per 3 caster levels you possess; or twice the amount of damage dice if they spend at least 3 spell points at once.
@@ -257,14 +251,6 @@ You may choose to pay any spell point costs that the recipient may incur from us
 #### Focusing (Manabond) [Archmagi's HB]
 
 Your manabond allows you to directly force power into the bond, creating an opening for your magical abilities for both you and your recipient. Whenever your recipient attempts a saving throw against one of your supernatural effects or magic sphere effects, the DC of that saving throw increases by 2. This bonus also affects any saving throws you attempt against sphere effects or supernatural abilities created by your recipient.
-
-#### Friction (Manabond) [SM—]
-
-You form a manabond that makes targeting between creatures more costly. Whenever a recipient of this manabond targets you or another recipient of this manabond with a magic sphere effect, you may increase the spell point cost of the effect by 1. If the caster cannot pay or does not want to pay the increased cost, the effect fails.
-
-For every 10 caster levels you possess, you may increase the spell point cost by an additional 1.
-
-**Source:** Card Casting 2: Counters and Control
 
 #### Magical Misdirection (Manabond)
 
@@ -434,14 +420,6 @@ Through mastery, even the most complex of rites can be accomplished.
 You gain the following (amp):
 **Shuffled Spell (amp):** You may spend a spell point to amplify any sphere effect. You may utilize your shuffle as part of the sphere effect, allowing your shuffle to remain for the duration of the sphere effect. The chosen shuffle only affects the amplified sphere effect, although you must still select an area for it to affect. The shuffle takes place before the sphere effect is created, potentially granting bonuses as part of creating the sphere effect (such as a bonus to concentration checks due to Focus Rewiring).
 
-#### Communal Knowledge [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Mana Sphere (Knowledge Drain (advanced), Manathief (advanced, expunge), Gift of Knowledge (manipulation)), caster level 1st
-
-Whenever you use Knowledge Drain on a target, you may gain the talent without preventing the target from using the stolen talent. In addition, when you use Knowledge Drain, you may use Gift of Knowledge on another target as a free action.
-
 #### Conquer (Manipulation) [Archmagi's HB]
 
 **Prerequisites:** Mana sphere (Imbued Vessel), caster level 10th.
@@ -468,18 +446,6 @@ When using the Vassalize advanced talent, you may target creatures that do not n
 
 When you use a ‘Mark’ expunge talent, you can spend an additional 3 spell points to have the effect's duration be increased to permanent. Marks that grant additional consecutive saving throws no longer grant them. This is a curse effect. This can be only be dispelled using the Break Enchantment Life talent, break enchantment, miracle, remove curse, wish, or similar effects.
 
-#### Essential Shuffle [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Mana Sphere
-
-When using Shuffle, you may spend 2 additional spell points to have the shuffle move so that it remains centered on you.. Additionally, you gain the following options:
-
-**Genesis Rewiring:** Upon using this option, you must choose a single creature type (and subtype if necessary) from the ranger’s favored enemy list (excluding animal). All creatures within the area of your shuffle are considered to be of that creature type instead of their normal type for the purpose of any sphere effects or supernatural effects that target or affect creatures within the area. Effects with a duration treat targets that leave the area of the shuffle as their true creature type, ending if they could no longer affect the target.
-
-**Schematic Rewiring:** Upon using this option. choose magical or technological. All effects within your shuffle that are the chosen kind are considered to be the other kind for the purpose of any sphere effects or supernatural effects. If using the Distinct Magic Types variant rule, you may also cause all magical and/or technological effects within your shuffle to be considered a specific type of magic instead of their normal type.
-
 #### Eternal Shackles [DbH]
 
 **Prerequisites:** Mana sphere (Infinite Bond (advanced), Ranged Mana x2), caster level 15th.
@@ -494,36 +460,11 @@ When using the Gift Of Knowledge manipulation, you may grant up to 2 magic talen
 
 Additionally, you may spend any number of spell points to additionally grant that creature an amount of temporary spell points equal to the spell points you spent that last for 1 hour per caster level. Temporary spell points granted by this talent can only be spent on sphere effects that utilize at least 1 talent granted by this effect. When the target utilizes a sphere effect that uses at least one of the talents you granted them, they lose any unused temporary spell points granted as part of this talent and this effect ends. At the GM’s discretion, you may grant your target advanced talents.
 
-#### Flash of Arcana [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Mana Sphere
-
-You may spend an additional spell point to use a manipulate effect within range as an immediate action rather than a standard action. If you do, the duration of any effect used in this way is reduced to 1 round and you cannot spend a spell point or concentrate to increase the duration.
-
 #### Forced Conversion (Expunge) [Archmagi's HB]
 
 **Prerequisites:** Mana sphere (Oversaturation Surge), caster level 1st.
 
 You forcefully convert your target’s body into temporary magical power. The target suffers 1d8 untyped damage for every 2 caster levels you possess. Unwilling creatures may attempt a Fortitude save to negate this. For each die of damage suffered, the target gains a temporary spell point. This damage cannot be healed by any means except rest (a full night’s rest heals all damage caused by this ability), and automatically bypasses any temporary hit points, damage reduction or other effects that may reduce, redirect or delay the damage. When utilizing this expunge on yourself, you may do so as a move action by increasing the damage dealt by an amount equal to 1/2 your caster level. This expunge cannot be used on creatures that do not possess a spell pool.
-
-#### Gift of Insight [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Mana Sphere (Gift of Knowledge (manipulation)), caster level 5th
-
-When you use Gift of Knowledge, you may spend an additional spell point to share the talent or talents with one additional creature per 2 caster levels. You must share the same talent or talents with all creatures. Creatures affected by Gift of Knowledge may choose to use their own caster level and general boons and drawbacks in place of yours on talents granted through Gift of Knowledge.
-
-#### Gift That Keeps on Giving [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Mana Sphere (Gift of Knowledge)
-
-When a creature that you have given a talent with Gift of Knowledge uses that talent, you may spend an additional spell point to give them an additional use of that talent. If you have given the target multiple talents using Flexible Knowledge, you may give the target an additional use of any granted talents but must spend an additional spell point for every talent granted beyond the first.
-When a creature uses a talent you have given to them through Gift of Knowledge, you may spend any number of spell points as a free action which can be taken outside your turn, reducing the spell point cost of the creature’s effect by an equivalent amount.
 
 #### Great Amplification [Archmagi's HB]
 
@@ -576,20 +517,6 @@ By condensing powerful magic and finely manipulating it with your knowledge, you
 
 Using this talent counts as using limited wish or a similarly powerful magical effect.
 
-#### Magic Replication (Manipulation, Amp) [SM—]
-
-**Prerequisites:** Mana sphere, caster level 10th.
-
-You can modify magic in a spell to multiply its effects
-
-*Doppelganger Spell (amp):* You can spend 4 additional spell points on an effect that creates or summons a creature (hereafter referred to as the base creature) to create a copy of that creature for 1 round per caster level. This copy lasts for a number of rounds equal to 1/2 the spell’s caster level, appears in a square adjacent to a created or summoned creature, and acts immediately on the caster’s turn, moving and acting as they direct it (a free action). The copy shares all of the base creature’s statistics (including current spell points after the talent is used and other limited-use abilities), movement speeds, and abilities, including equipped items (but not consumable or limited use items such as potions, wands, and scrolls), but the copy instantly vanishes if it takes any damage or fails a saving throw against any spell or effect. Any items the copy may have possessed instantly disappear when the target is destroyed or when the duration of this effect ends.
-
-Time clones created with this talent cannot create additional time clones or similar copies of themselves.
-
-*Multitarget Spell (amp):* You can spend 1 additional spell point on an effect to choose one additional target within range for a targeted effect. If the effect requires an attack roll, you must make a separate attack roll for the new target, and they are allowed a saving throw as normal. This reduces the effect’s caster level by 4
-
-**Source:** Card Casting 2: Counters and Control
-
 #### Manathief (Expunge)
 
 **Prerequisites:** Mana sphere, caster level 1st.
@@ -623,24 +550,6 @@ Using this talent counts as if using wish or a similarly powerful magical effect
 
 You may spend a spell point to limit the target's magical potency for 24 hours unless they succeed at a Will saving throw. On a failed save, you grant one of the following drawbacks to the target: Draining Casting, Magical Signs, Painful Casting, Rigorous Concentration, Unstable Storage, Verbal Casting. At 5th caster level, you gain additional drawbacks you can grant Center Of Power or Variant Wild Magic. For every 5 caster levels beyond 1st, you may apply an additional drawback to the target. The target does not gain additional spell points from the granted drawbacks, and they can only suffer from one instance of this ability at a time. Creatures suffering from this talent are aware of the drawbacks they are affected by. At the GM's discretion, other drawbacks not listed may be granted with this talent.
 
-#### Mark of Sudden Competence [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Mana Sphere (Mark of Incompetency, Mark of Instability), caster level 5th
-
-For every 2 drawbacks you grant a creature with Mark of Incompetency, you may also grant them one of the following boons: Alien Source, Deathful Magic, Draw Magic, Easy Focus, Empowered Abilities, Overcharge, or Wild Surge.
-
-#### Mythbleeder [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Mana Sphere
-
-Whenever you use an (expunge) talent on a target, any effect of the (expunge) that affects uses of spell points also affects uses of mythic power (for example, the Mark of Instability talent prevents the use of mythic power in the same manner as it prevents the use of spell points, the Mark of Lifeburn talent damages the creature for using mythic power as if it used an equal number of spell points, and the Mark of Incompetency talent applies the casting tradition drawbacks to any uses of the character’s mythic power). Whenever you deal spell point damage to a creature as part of an initial (expunge) effect (not as part of ongoing spell point damage from them being spellburned), you may instead cause the target to lose a number of points of mythic power equal to the number of spell points they would have lost.
-
-If you possess the Manathief talent and the ability to expend mythic power, you may choose to drain mythic power from a target and gain it for yourself rather than draining spell points with the manathief (expunge).
-
 #### Permanent Bond
 
 **Prerequisites:** Mana sphere (Magical Conduit), caster level 10th.
@@ -649,29 +558,11 @@ When you create a manabond, you can spend 3 spell points to increase the duratio
 
 If a bonded creature moves outside of the range of your manabond, the effect deactivates and cannot be used until they are once again within range.
 
-#### Permanent Gift [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Mana sphere (Flexible Knowledge, Gift of Insight, Gift Of Knowledge, Gift That Keeps on Giving), caster level 15th
-
-When you use Gift of Knowledge on a creature, you may spend 3 additional spell points to permanently grant the creature the talent or talents you have chosen as if they had taken them via the Extra Magic Talent or Extra Combat Talent feats. A creature given talents with this talent can only gain a total of one talent plus an additional talent for every 5 hit dice it possesses. If a creature would gain more talents through this talent, they must replace any which would cause them to exceed this limit.
-
 #### Reactive Shuffle
 
 **Requirements:** Mana sphere, caster level 7th.
 
 You may use the shuffle ability as an immediate action by spending 2 additional spell points. A shuffle ability used this way has a duration of 1 round and cannot be concentrated on.
-
-#### Reset Duration (manipulate) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Mana Sphere, caster level 5th
-
-You may spend a spell point to restart the duration of a magic sphere effect within the range of your manipulate. Choose one magic sphere effect on a target or an area. The duration of these effects is reset to their original durations as if no time had passed since they were cast. For example, if this manipulate is used on a shapeshift which has a duration of 5 minutes and which has been active for 4 minutes, the shapeshift lasts for 5 minutes beyond the point which Reset Duration was used. The duration of the effect is reset on all affected creatures, not just the one who was targeted. Whenever you reset the duration of an effect, each target is allowed a new saving throw against the effect
-
-You may spend an additional spell point to reset an additional sphere effect’s duration with this manipulate. For every 5 caster levels you possess, you may spend an additional spell point to reset an additional sphere effect’s duration.
 
 #### Runic Magic (Manipulation, Amp) [Archmagi's HB]
 
@@ -683,27 +574,11 @@ You can modify magic in such a way that it understands language, and becomes mor
 - **Contracted Spell (amp):** You can spend two spell points to modify a harmless sphere effect that targets one creature so that its benefits are tied to an agreement. As part of casting the amplified sphere effect, the spherecaster who created the sphere effect must strike a written or verbal agreement between themselves and the target of the amplified sphere effect must accept the conditions. This agreement can be a promise, a goal that must be achieved before the amplified sphere effect ends or a task to be repeated intermittently, or a warning to not commit a certain prohibited behavior. If the agreement is violated (or not completed in time), the amplified sphere effect immediately ends and all of its effects are reversed (even instantaneous effects; afflictions removed will return, hit points healed will be undone and so forth). This amplification understands the spirit of the agreement, and will not consider it a violation if the target unwillingly or unknowingly violates the agreement. The target always knows if a specific action they take will trigger a violation of the agreement. The magical agreement lasts for as long as the amplified sphere effect, or up to 1 day per caster level if the sphere effect had a duration of instantaneous. At 15th caster level, the magical agreement may last for as long as the spherecaster desires, even indefinitely.
 - **Written Spell (amp):** You can spend a spell point to convert an instantaneous sphere effect that targets either one creature or an area and allows for a saving throw to avoid its effects into magical writing. The sphere effect remains dormant and does not trigger until a creature approaches its range and reads the magical writing, where it then activates, targeting the creature that read it or their square. Only one piece of magical writing can be written on a surface or parchment, and a creature can only trigger one magical writing each turn. You can instruct creatures on how to read the magical writing without triggering it as a standard action. The magical writing remains for 1 day per caster level but the spherecaster who created the sphere effect cannot regain any spell points spent on the sphere effect until it triggers. The writing is treated as a magical trap and may be disabled with Disable Device check (DC = 10 + the spherecaster’s caster level + the spherecaster’s casting ability modifier). Both you and the spherecaster who created the effect can remove and dispel the writing as a standard action without a check. At 15th caster level, the magical writing remains indefinitely or until removed.
 
-#### Strip Magical Knowledge [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Mana sphere (Knowledge Drain, Manathief, Gift Of Knowledge), caster level 15th
-
-You have learned the dangerous secret of permanently stealing another’s magical knowledge. When you use Knowledge Drain to steal a talent from a creature, you may spend 2 additional spell points to permanently prevent the target from using that talent. They do not regain the talent after resting to regain spell points. This effect cannot be dispelled, but it may be broken through the Break Enchantment Life sphere talent, as well spells such as break enchantment, limited wish, miracle, remove curse, or wish. You may remove this effect as a standard action if you have placed it on a target.
-
 #### Ties That Bind [DbH]
 
 **Prerequisite:** Mana sphere (Infinite Bond (advanced), Magical Conduit, Ranged Mana x2), caster level 10th.
 
 Any creature that swears an Oath of Loyalty to you is considered to have a permanent manabond on them that cannot be dispelled so long as the oath remains. You do not need to concentrate on this manabond.
-
-#### Tradition Override [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Mana Sphere (Gift of Knowledge (manipulation))
-
-Whenever you grant one or more spheres or talents to a creature using Gift of Knowledge, you may spend 2 spell points to allow the target to use magic effects that incorporate the granted spheres or talents using one of your casting traditions or no casting tradition at all (this does not change the caster level, casting ability modifier, MSB, or MSD of the creature).
 
 #### Unbind Spell [DbH]
 
@@ -758,22 +633,6 @@ Your presence warps the fabric of magic, binding creatures together.
 **Prerequisites:** Mana sphere, caster level 9th.
 
 **Benefit:** You can spend an additional spell point when using Spellburn to increase the initial spell point damage by 1d4, and the spell point damage for being spellburned each round by 2, plus 2 for every 6 caster levels you possess beyond 9th.
-
-#### Dimensional Tether [SM—]
-
-**Prerequisite**: Destruction Sphere (energy tether) or Mana Sphere (hardened bond)
-
-**Benefit:** Any attempt by creatures affected by your energy tether or hardened bond to teleport or cross planes fails unless they succeed at a magical skill check against you.
-
-**Source:** Expanded Spheres: Weaves of War
-
-#### Essence Plunder (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Mana sphere
-
-**Benefits:** Whenever a creature that took damage from you this turn fails a concentration check on an effect which required spending 1 or more spell points, power points, or a spell slot, you may spend an immediate action to gain 1 temporary spell point that lasts until the end of your next turn.
 
 #### Favorite Boost [Archmagi's HB]
 
@@ -870,16 +729,6 @@ For information regarding wild magic events and the wild magic system, see [[Wil
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the blast with an (expunge) ability . If you possess Explosive Expunge, you may apply the (expunge) to all targets damaged.
 
-#### Tainted Gift [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisite:** Mana Sphere (Gift of Knowledge)
-
-**Benefit:** When you use Gift of Knowledge, you may choose to affect the target with one additional non-harmless magic sphere effect you can create with equivalent or greater range to your (manipulate) as part of the same action, spending spell points as normal. If the target succeeds at their saving throw against the effect or is otherwise unaffected, they do not gain the benefits of Gift of Knowledge.
-
-**Special:** You may use this feat even if you possess the Benefactor drawback. If you have the benefactor drawback, you may take this feat as a drawback feat.
-
 #### Tainted Manabond [Alienist HB]
 
 **Prerequisites:** Mana sphere, forbidden lore class feature.
@@ -901,16 +750,6 @@ For information regarding wild magic events and the wild magic system, see [[Wil
 **Benefits:** You may create a manabond as part of using a rally with the target of your rally, or as part of creating a mandate on one or both creatures. If the rally or mandate does not cost a spell point to use, you must spend a spell point to create the manabond.
 
 Additionally, when you create a totem, you may spend a spell point to create a manabond with a single creature within the area of the totem. If the creature is unwilling, they may attempt a Will save to resist the manabond. If you possess the Magical Conduit talent, you may create a manabond with each creature in the area, spending an additional spell point for each creature. An action used to concentrate on the totem counts as if you were concentrating on the manabond for the purpose of (manabond) talents.
-
-#### Tribute of Essence [SM—]
-
-**Prerequisites:** Mana Sphere (Essentialize)
-
-**Benefits:** You may use the Essentialize talent on yourself as a free action (which can be taken outside of your turn) rather than a swift action and may target your effects that create or summon subordinates (such as summon or reanimate) as if they were effects on yourself for the purpose of essentialize.
-
-**Special:** If you possess the Card Casting drawback, you may use the Essentialize talent on yourself even if you do not have a corresponding magic effect card
-
-**Source:** Card Casting 2: Counters and Control
 
 #### Universal Bonding [Archmagi's HB]
 

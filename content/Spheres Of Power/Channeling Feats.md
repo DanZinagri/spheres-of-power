@@ -28,14 +28,6 @@ parent: "[[Spheres Of Power]]"
 
 If you can apply blights to targets, you may now also apply blessing, treating your soul weaver level as being effectively 2 levels lower for this purpose.
 
-### Buffeting Channel (Channeling) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Channel Energy
-
-**Benefits:** You may force creatures to make a Fortitude save to resist the effects of your channel energy rather than a Will save. Undead are not immune to channeled energy that allows a Fortitude save.
-
 ### Channel Destruction (Channeling)
 
 **Prerequisites:** Destruction sphere, channel energy class feature.
@@ -91,22 +83,6 @@ The powers of the beyond are sufficient to appease the bound force within.
 **Prerequisite:** Spirit class feature.
 
 **Benefit:** When your spirit would gain a point of influence over you, you may spend two uses of channel energy in place of allowing the spirit to gain that point of influence. In addition, when you would spend a use of channel energy, you may instead allow your spirit to gain a point of influence over you.
-
-### Improved Channel Smite (Channeling) (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Channel Smite
-
-**Benefit:** When you use Channel Smite, the benefits of the feat apply to one additional attack made before the end of your next turn. In addition, whenever you use Channel Smite, you can activate the ability as an immediate action after you roll for a melee attack but before the result is revealed.
-
-### Pulsing Channel (Channeling) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Channel Energy 4d6
-
-**Benefits:** You may spend 2 uses of channel energy as a standard action to create a pulsing channel for 1 minute. While pulsing channel is active, you may channel energy as a free action, save that the range is reduced to 10 feet and the channel energy dice are halved and rounded down (using 2d6 in place of 4d6 or 5d6). You cannot attach any additional feats or sphere effects to these channel energy uses save for effects that alter the effect’s targeting (such as Selective Channeling, Alignment Channel, and Elemental Channel).
 
 ### Totemic Channeling (Channeling)
 

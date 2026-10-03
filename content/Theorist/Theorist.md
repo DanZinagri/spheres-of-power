@@ -300,18 +300,6 @@ Magic advances the universe towards balanced, stable states, eventually correcti
 
 **Theory Bonus:** A theorist with the equilibrium model may gain a bonus to AC and CMD equal to their theory bonus as a free action once per round. This bonus lasts for 1 round.
 
-#### Etiology [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-All magic can be traced back to a single origin which you seek to understand
-
-**Pattern:** Full range of values. Whenever you roll a 1, 2, 3, 4, 5, and 6 on a set of hypothesis dice, those dice may be assigned to the etiology model.
-
-**Magical Underpinning:** As a free action, the theorist may spend all of their hypothesis dice assigned to this model to gain a single magic, combat, or skill talent they meet the prerequisites for until the end of their next turn. For every six dice spent beyond the first six, the theorist may select an additional talent.
-
-**Theory Bonus:** A theorist with the etiology model may apply their theory bonus to any magic skill check made against another caster’s MSD that they attempt.
-
 #### Foundational [DRS]
 
 **Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
@@ -323,18 +311,6 @@ Magic is best understood when the basics are mastered first—one must understan
 **Magical Underpinning:** Whenever the theorist would spend no spell points on a single magic sphere effect, the effect gains a +1 insight bonus to caster level of the effect, plus 1 per 6 theorist levels they possess.
 
 **Theory Bonus:** As part of creating a magic sphere effect, a theorist may apply half their theory bonus as an increase to the MSD of the effect (minimum 1).
-
-#### Heroic [SM—]
-
-**Source:** Baron's Glorious Arena
-
-Magic is advanced by the actions of special and powerful individuals who can rise above their surroundings to excellence.
-
-**Pattern:** Values matching the complexity of techniques in your repertoire. Whenever you roll a value that is equal to the complexity of a technique in your repertoire or multiple values which sum to the complexity of a technique in your repertoire (such as a 2 and 5 summing to 7), you may assign them to the heroic model.
-
-**Magical Underpinning:** When performing a technique, the theorist may spend any number of hypothesis dice assigned to the heroic model. Every 2 hypothesis dice spent pays for 1 point of the technique’s complexity.
-
-**Theory Bonus:** When performing a technique which they do not meet the prerequisites for, a theorist with the heroic model may reduce the percentage chance of the technique failing by 5% for each point of their theory bonus.
 
 #### Holistic
 
@@ -355,18 +331,6 @@ Magic relies upon fundamental constants of the universe which remain true no mat
 **Magical Underpinning:** The theorist gains a +2 bonus to their caster level for the purpose of calculating the duration of any of their magic sphere effects. This increases by 2 at 5th level and every 5 levels thereafter.
 
 **Theory Bonus:** A theorist with the immutable model may gain temporary hit points equal to twice their theory bonus as a free action once per round. These temporary hit points last for 1 round.
-
-#### Interdisciplinarity [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Different traditions of magic each offer partial understanding of the greater whole
-
-**Pattern:** Tradition-matching numbers. Any hypothesis dice with a value equal to the number of drawbacks you have exchanged for bonus spell points on one of your casting traditions may be assigned to this model. For example, if you have a tradition where you have assigned 3 drawbacks (or the equivalent) to bonus spell points (for 1 bonus spell point per odd level), you may assign 3s to this model.
-
-**Magical Underpinning:** Whenever the theorist selects a theurge feat which can be taken multiple times, the theorist gains that feat a second time as a bonus feat. At 10th level, the theorist gains each of these feats a third time.**[Designer Note: This may also be applied to Drawback feats that the theorist is eligible to select for multiple casting traditions they possess]**
-
-**Theory Bonus:** When creating a magic sphere effect with at least one general drawback, the theorist may treat the effect as having a number of additional drawbacks (taken from other casting traditions the theorist possesses) equal to their theory bonus. For each additional drawback added, the theorist may ignore one drawback normally associated with creating the magic sphere effect. Any drawback that counts as multiple drawbacks must replace or be replaced by an equivalent effective number of drawbacks (for example, narcoleptic casting would have to be replaced by two drawbacks or could replace two drawbacks). A sphere effect cannot benefit from boons or drawback feats which require a drawback that was not applied.
 
 #### Iterative
 
@@ -447,18 +411,6 @@ There may well be no reason to magic’s manifestation, and arcane forces might 
 **Magical Underpinning:** Whenever a creature fails their saving throw against one of the theorist’s abilities or allows it to affect them, the theorist may increase or decrease that creature’s wild magic chance up to by 20% for 1 round. This increases by 20% at 5th level and every 5 levels thereafter.
 
 **Theory Bonus:** A theorist with the phenomenology model may apply their theory bonus to increase or decrease the wild magic chance on any magic effect they create, reducing or increasing the chances by up to 10% per point of theory bonus.
-
-#### Profanity [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Magic is an abomination against nature and reality, a perversion of how the structures of existence should function which excels at harm.
-
-**Pattern:** Altered results. Any hypothesis dice which have been rerolled this turn may be assigned to the profanity model.
-
-**Magical Underpinning:** Whenever a creature fails a saving throw against one of the theorist’s magic sphere effects, that creature takes a -1 penalty on AC and skill checks for 1 minute. This penalty increases by 1 at 6th level and every 6 levels thereafter, and does not stack with itself.
-
-**Theory Bonus:** As part of creating a magic sphere effect, a theorist may apply twice their theory bonus as an increase to the DCs of any skill checks made to understand or interact with the effect (such as identifying an effect with Spellcraft, see through a created disguise with Perception, or moving across ground you have frozen using Acrobatics).
 
 #### Psychological [DRS]
 
@@ -543,7 +495,6 @@ Even the most rigorously detailed models are bound by incompleteness, and unders
 | Archetype | Description |
 | --- | --- |
 | [[Sophist]] | Sophists excel at using their words to trick others. |
-| [[Tactical Innovator (Theorist Archetype)\|Tactical Innovator]] [SM—] | Tactical innovators use the adrenaline of combat as their research material |
 
 ---
 

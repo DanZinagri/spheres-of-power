@@ -487,17 +487,6 @@ When you use the Duplicate talent to create a duplicate of a creature, you may c
 | 15-17 | Neutral evil |
 | 18-20 | Chaotic evil |
 
-#### Integrate Item (alter) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Creation Sphere (Potent Alteration), caster level 5th
-You may alter an item such that another item’s magical properties can temporarily be imbued within it. As part of the casting, you can insert a single implement, apparatus, spell engine, marvelous item, magic wand, magic rod or magic staff into the altered item, after which the inserted item disappears inside the altered item. For the spell’s duration, a character wielding or wearing the altered item is also considered to be wielding (but not wearing) the item inserted into it. If the inserted item can be used to make attacks, you can attack normally with the altered item or use the altered item as if it were the inserted item.
-
-If an effect created by the inserted item requires a melee attack roll to successfully strike a foe, you make the melee attack roll as if you were making an attack with the altered item, including any bonuses the altered item would normally receive to attack rolls. Doing so does not allow you to add the altered item’s damage to the attack but allows you to use any abilities which would improve the altered item’s attack rolls or reach to boost your chance of hitting with the stored item’s attack, spell, or effect. For example, if you have an entropic grip inside a +3 longspear, you can make the entropic grip’s touch attack through the longspear, adding the longspear’s enhancement bonus to the attack roll and its reach to the attack’s range.
-
-At the end of the alter’s duration, the stored item is ejected from the altered item. If you have a free hand, you can catch the stored item as a free action; otherwise, it drops to the ground. If the altered item is broken or destroyed during the duration of this effect, the stored item is similarly broken or destroyed.
-
 #### Internal Creation [Apoc]
 
 **Source:** [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)
@@ -579,14 +568,6 @@ Additionally, by spending 1 spell point, you may create or alter any one object 
 **Prerequisites:** Creation sphere, Nature sphere ((metal) package).
 
 **Benefit:** When using your Creation sphere abilities, you may create and alter objects made from metals you can summon with your Recover Ore Nature sphere ability, even if you do not possess the Expanded Materials Creation talent. When using metal geomancing talents or abilities limited by your Recover Ore size, you may target and affect metal one size larger than you could normally affect with your Recover Ore ability. This does not increase the actual size of the ore you can recover.
-
-#### Arcane Fetters (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Creation Sphere (Restrictive Casting), Protection Sphere (Distant Protection)
-
-**Benefits:** Whenever you create an object on or around a creature using Restrictive Casing, you may apply the effects of a ward you can create to any creature that is bound by the object. The ward lasts for as long as the created object is not broken (up to the maximum normal duration), only affects the bound creature, and moves with them.
 
 #### Before Creation Comes Destruction
 

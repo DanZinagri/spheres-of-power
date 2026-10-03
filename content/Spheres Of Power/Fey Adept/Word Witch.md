@@ -88,12 +88,6 @@ At level 20, the word witch can make one of his creations permanent. He may sele
 
 This ability replaces permanent illusion.
 
-### Mimeses [SM—]
-
-**Source:** Fey Adept Expanded: Mimeses
-
-A target in contact with an object you have created or affected by any of your (alter) effects is considered to be within the area of your illusion and affected by your glamer for the purpose of your mimesis abilities.
-
 </div>
 
 <div class="sop-tab" data-tab="original">

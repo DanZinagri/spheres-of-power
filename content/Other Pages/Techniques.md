@@ -93,12 +93,6 @@ The technique’s complexity may be increased by 2 to make it immune to being di
 
 The technique’s complexity may be increased by 1 to force either the initiator or the affected targets to discard a card from their hand or top of their deck when it is initiated. For every additional point of complexity added through this modifier, they discard 2 extra cards from their deck or one additional card from their hand.
 
-#### Take the Crown (requires Card Casting) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-As part of using a technique with this modifier, you declare yourself the monarch. While you are the monarch, you draw an additional card from your deck at the end of your turn. Whenever an creature succeeds on an attack roll against you and deals damage to you, you are no longer the monarch and that creature becomes the monarch, although any other creature may become the monarch by successfully attacking that creature in the same manner.This modifier normally increases the technique’s complexity by 1, but you may choose not to increase the technique’s complexity when you apply this modifier. If you do, all effects of the technique besides the monarch end immediately when you are no longer the monarch.
-
 #### Token Mana (requires Card Casting and Mana Pool)
 
 When the technique is initiated, you may create any number of Mana Point Cards which can be used a single time before they are destroyed and otherwise last until the end of the encounter. The technique’s complexity increases by 1 for every token mana created.
@@ -150,59 +144,7 @@ If a character is neither a practitioner or a caster (**Designer Note:** or an o
 
 Multiple characters may work together to perform a technique, in which case all participants must pay the complexity cost. However, the complexity cost of the technique is reduced by 2 for every participant beyond the first (for example, three characters performing a technique with complexity 4 could do so by spending a standard action and no other resources, or two could perform the technique as a standard action by spending martial focus and 1 spell point). If the technique uses magic talents, at least one spell point must be spent by at least one participant in the technique. The participants all contribute their actions and spell points to a single individual performing the technique (meaning that if Fire Tackle is performed with two participants, both must contribute to the complexity cost but only one actually charges). If multiple characters work together to perform a technique, no one participant is required to know all of the talents needed to perform the technique (in the previous example, one participant could possess the Destruction sphere, Energy Strike, and Fire Blast talents, while the other could possess the Brute sphere, Hammer, and Unstoppable talents). Use the highest of each participant’s caster level and base attack bonus for the purpose of calculating the effects of the technique. The technique is performed on the lowest of the participants’ initiative counts, and all participants must delay their actions until all members are able to act. All participants in a technique must be within close range (25 feet + 5 feet/2 levels) of each other, using the lowest-level participant to determine the maximum range.
 
-## Cursed Techniques [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Certain shortcuts to power exist which can harness incredible potency at a cost to the wielder. When these methods are recorded and shared, they become known as cursed techniques for their combination of unique ease of learning and difficulty to escape, as if the ability or its creator hungers to overtake the user.
-
-### Creating a Cursed Technique
-
-Whether a technique is cursed is determined at its creation. When creating a technique, the creator may apply any one of the following changes to the technique, in which case the technique becomes cursed.
-
-- **Expedient Study:** The time to research the technique is reduced to 1 day + 1 day for every 3 points of complexity.
-- **Shortcut Technique:** The skill check DC to create the technique is reduced to 5 + 3 x the technique’s complexity.
-- **Uncertain Knowledge:** The creator may include up to one feat or talent which they do not know in the technique. This may be an advanced, exceptional, or legendary talent so long as the prerequisites for adding that talent to the technique are met (subject to GM discretion).
-
-### Learning a Cursed Technique
-
-Learning a Cursed Technique is comparatively easy compared to learning a normal technique. When learning a cursed technique from a technique script, the skill check DC is reduced to 15 + the technique’s complexity. When learning a cursed technique from a person who knows it, the skill check DC is reduced to 10 + the complexity of the technique. In both cases, a character must succeed on a skill check with a DC of 30 + 2 x the technique’s complexity to realize that the technique is cursed.
-Knowing and Using a Cursed Technique
-
-When a character adds a cursed technique to their repertoire, they take strain damage equal to the technique’s complexity. This strain damage cannot be removed as long as the character knows the technique. If not using the strain rules, the character instead takes Wisdom damage equal to half the technique’s complexity which cannot be healed as long as the character knows the technique.
-
-Whenever a character uses a cursed technique (either from their repertoire or from a technique script), they must succeed at Will save (DC 20 + the total complexity of cursed techniques in their repertoire or 20 + twice the complexity of the technique, whichever is higher) or suffer strain damage equal to the technique’s complexity or Wisdom damage equal to half the technique’s complexity. Strain damage gained from effects created within 1 minute of each other is cumulative for the purpose of determining if a character gains a severance.
-
-### Forgetting a Cursed Technique
-
-In order to forget a cursed technique, a character must be targeted by break enchantment or another effect capable of removing curses. The effective caster level of a cursed technique is equal to twice its complexity. On a success, the character forgets the technique and the strain damage from knowing the technique may be healed as normal.
-
 ## Technique Variant Rules
-
-### Technique Material Components [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Every technique possesses unique reagents, valued items, or other unique material components which can be used to stabilize their performance. These components can only be used with that specific technique and are decided when the technique is created. The cost of a single instance of technique material components is 10 gp x the highest caster level, base attack bonus, or skill ranks used in the technique, meaning that techniques of variable strength will spend varying amounts of material components.
-For every instance of technique material components used up as part initiating of a technique, the % chance of failure from missing prerequisites is reduced by 10%. Technique material components cannot be reused and are consumed in the technique’s initiation.
-Technique material components can be requisitioned using the Eldritch Supplies feat as if they were spell material components.
-At GM discretion, certain technique material components may be difficult or even illegal to obtain. For example, a technique to summon a powerful fiend may have its material components take the form of living sacrifices or relics from a specific enemy.
-
-### Techniques and Unique Subordinates [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Whenever a character creates a technique that summons or creates a subordinate (such as one that grants a Conjuration sphere companion), the subordinate summoned is distinct from other creatures the character may summon with non-technique methods. Such creatures do not benefit from (form) talents unless such talents are included as part of the technique.
-Whenever a character creates a technique that summons or creates a subordinate, the creator decides whether the subordinate summoned by the technique is a generic subordinate or a unique subordinate.
-If the subordinate is generic, a different entity with identical statistics is summoned by each character who performs the technique. This would allow for two casters to summon identical subordinates by both using the same technique.
-If the subordinate is unique, every version of the technique summons the same creature which can only be under the control of one summoner at a time. Whenever a creature initiates the technique while the subordinate is under the control of another creature, the new initiator must attempt a magic skill check against the MSD of the current controller. On a success, the unique subordinate is dismissed and re-summoned under the control of the new initiator. Any previous summoners are no longer treated as the summoner for the purpose of talents and feats (such as Spell-Linked Companion).
-At GM discretion, this divergence between generic and unique subordinates may also apply to other techniques that summon or create objects.
-
-### Techniques and Wild Magic [SM—]
-
-**Source:** Baron’s Secluded Library
-
-As an optional rule, if a technique with one or more magic talents fails due to having a % chance of failure, the GM may decide that a wild magic event is rolled for normally or even automatically triggered. When a wild magic event does occur, roll on the wild magic table for each magic sphere included in the technique and use each of them.
 
 ## Technique Scripts
 
@@ -380,22 +322,6 @@ You possess extensive experience with the lore of techniques.
 
 **Special:** You may select this feat multiple times.
 
-#### Fused Technique (Theurge) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Arcane Fusion, Knowledge of at least one technique
-
-**Benefits:** When you perform a technique that uses talents from multiple different casting traditions you possess, you may use the Arcane Fusion feat as if you could create the effect with each casting tradition used. For each casting tradition beyond the first used with Arcane Fusion, you are considered to have paid for 1 point of the technique’s complexity cost.
-
-#### Grand Technique Expertise (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Knowledge of at least one technique
-
-**Benefits:** The saving throw DC of any technique you perform with a complexity of 5 or greater increases by 1. If the complexity is 10 or greater, the DC instead improves by 2.
-
 #### Group Initiation (Champion, Combat, Teamwork)
 
 When you aid in a technique, you may also perform it yourself.
@@ -414,72 +340,6 @@ You add a bit of extra aid when coordinating a technique.
 
 If you possess the Circle Casting feat, you may maintain that feat’s effects on the target so long as you are within range of the technique (rather than 30 feet).
 
-#### Instant Technique Processing (Champion, Combat) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Benefit:** Whenever you see a technique performed, if you manage to identify every talent used in the technique, you may process that technique for future learning. While you have a technique processed, you may spend an hour per point of the technique’s complexity to attempt to learn the processed technique as if the performer were teaching you the technique. This requires a skill check as normal, but the DC is increased by 5. If you fail the skill check to learn a processed technique, the technique is no longer considered processed.
-
-Whenever you use a class ability that grants you temporary knowledge of a technique, you may process that technique.
-
-#### Latent Repertoire (Champion, Combat) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Extensive Technique Study
-
-**Benefit:** You may know any number of techniques, but are very limited in the number of techniques you may call upon at any time. Whenever you perform a technique, it becomes a locked technique until the next time you rest to regain spell points (or for an equivalent amount of time). If the number of locked techniques you possess exceeds half your character level + the number of times you have taken the Extensive Technique Study feat, you cannot perform any techniques besides your locked techniques.
-
-#### Martial Technique Processing (Champion, Combat) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Instant Technique Processing
-
-**Benefit:** You gain additional methods of processing techniques based on what combat spheres and talents you possess, as follows. A non-item target is allowed a Will saving throw against the corresponding sphere’s DC to prevent having its known technique processed, and on a successful saving throw you cannot attempt to process a technique from the target again for 24 hours. The technique you process from one of these abilities is typically chosen at random, though if you have seen the target perform a technique you may automatically choose that technique to be processed.
-
-**Beastmastery Sphere (Bronco Buster):** Whenever a creature fails a saving throw against Bronco Buster, you may attempt to process a random technique the creature knows.
-**Boxing Sphere (Read the Rhythm):** Whenever a creature affected by Read the Rhythm triggers your counterpunch, you may attempt to process a random technique the creature knows.
-**Duelist Sphere (Defensive Slice):** Whenever you successfully use Defensive Slice against an attack roll made as part of a technique, you may attempt to process that technique. If you have the Spellcut feat, you may attempt to process a technique which you use that feat against.
-**Fencing Sphere (Parry And Riposte):** Whenever you successfully parry an attack roll made as part of a technique, you may attempt to process that technique.
-**Guardian Sphere (Cold Iron Call or Durable):** Whenever you direct a technique’s effects to your delayed damage pool (be it damage, conditions, or a combination of them), you may process that technique.
-**Scout Sphere (Study Technique):** Whenever you successfully scout a creature, you may attempt to process a random technique the creature knows.
-
-#### Otherworldly Technique Processing (Champion, Combat) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Instant Technique Processing, caster level 1st
-
-**Benefit:** You gain additional methods of processing techniques based on what magic spheres and talents you possess, as follows. A non-item target is allowed a Will saving throw against the corresponding sphere’s DC to prevent having its known technique processed, and on a successful saving throw you cannot attempt to process a technique from the target again for 24 hours. The technique you process from one of these abilities is typically chosen at random, though if you have seen the target perform a technique you may automatically choose that technique to be processed.
-
-**Alteration Sphere (Perfect Imitation):** Whenever you use shapeshift to take on the appearance of a specific creature with which you are familiar, you may attempt to process a random technique the creature knows.
-**Counterspell feat:** Whenever you successfully Counterspell a technique, you may immediately process that specific technique (no saving throw permitted).
-**Death Sphere (Gravetongue):** Whenever you use gravetongue to speak to a corpse, you may attempt to process a random technique that the corpse knew in life.
-**Divination Sphere (Fast Divinations):** Whenever you identify the properties of a magic item, you may process a technique used in the process of creating that item.
-**Mana Sphere (Gift of Knowledge):** Whenever you create a manabond with a target, you may attempt to process a random technique the creature knows.
-**Mind Sphere (Rapid Processing):** While you have rapid processing active, you may process a technique that you can read from a technique script as a full-round action. If you have passive analysis active, you can process the technique as a move action.
-**Mind Sphere (Read Mind):** Whenever you read the surface thoughts of a creature, you may attempt to process a random technique that the creature knows.
-
-#### Pinnacle Clarity (Aristeia) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Knowledge of at least one technique
-
-**Benefit:** As long as you are in a state where you could enter Aristeia or are in Aristeia, you roll twice when determining the failure chance of techniques you perform, taking the result of your choice.
-While in Aristeia, the complexity cost of any techniques you perform is reduced by your level of Aristeia (minimum 1).
-
-#### Rampant Consumption (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Forbidden Consumption Technique, Knowledge of at least one technique
-
-**Benefits:** Whenever you use Forbidden Consumption Technique as part of performing a technique, you may use Forbidden Consumption Technique a second time as part of the action to use the technique. For every 5 points of base attack bonus you possess, you may use Forbidden Consumption Technique an additional time as part of performing a technique.
-
-**Special:** You cannot use both this feat and Technique Prowess in the same technique.
-
 #### Ready Initiation (Champion, Combat, Teamwork)
 
 When one of your allies primes a technique, you respond immediately.
@@ -495,38 +355,6 @@ When one of your allies primes a technique, you respond immediately.
 **Prerequisites:** Technique Crafting
 
 **Benefits:** When you craft a technique, you may incorporate your identity into the technique; this involves personalized imagery and symbolism. Once you complete a technique developed through this method, you must name the technique after yourself. Whenever you use the technique or other allies perform the technique alongside you, the technique’s complexity is treated as one lower. Whenever a creature performs the technique without you, the technique’s complexity is treated as one higher.
-
-#### Sphere Crafting Affinity [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Benefits:** Choose a magic, combat, or skill sphere you possess. When attempting to learn or create a technique or craft a magic item that uses the chosen sphere, add your level to any such skill check.
-
-**Special:** You may select this feat multiple times, each time selecting a different sphere. This feat may be selected in place of an item creation feat.
-
-#### Strike from the Heart (Reliance) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisite:** Knowledge of at least one technique.
-
-**Benefits:** You may pay for your techniques’ complexity using Reliance Points. Every 5 Reliance Points spent pays for 1 point of complexity.
-
-#### Surefire Coordination (Champion, Combat, Teamwork) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisite:** Knowledge of at least one technique.
-
-**Benefits:** Whenever you perform a multi-character technique, each character who participated in the multi-character technique and who possesses this feat may roll on any d20 rolls made as part of the technique. The technique uses the highest of the results rolled in this way.
-
-#### Talent Crafting Affinity [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Benefits:** Choose a magic, combat, or skill talent you possess that is not a base sphere. When you create a technique or magic item, reduce the complexity increase from applying the effects of the chosen talent by 1 (to a minimum of +0). Reductions from this feat cannot be applied to the same item more than one time + an additional time for every 4 ranks you possess in a specific skill.
-
-**Special:** You may select this feat multiple times, each time selecting a different talent. This feat may be selected in place of an item creation feat.
 
 #### Technique Crafting (Combat)
 
@@ -552,34 +380,4 @@ Your martial skills enable incredible technique usage.
 
 **Benefits:** When using a technique or spell from a technique script or spellbook, the chance of failure for not having a talent is reduced to 5% per missing prerequisite from 10% per missing prerequisite.
 
-#### Tricky Technique Processing (Champion, Combat) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Instant Technique Processing
-
-**Benefit:** You gain additional methods of processing techniques based on what skill spheres and talents you possess, as follows. A non-item target is allowed a Will saving throw against the corresponding sphere’s DC to prevent having its known technique processed, and on a successful saving throw you cannot attempt to process a technique from the target again for 24 hours. The technique you process from one of these abilities is typically chosen at random, though if you have seen the target perform a technique you may automatically choose that technique to be processed.
-
-**Bluster Sphere (Verbal Trap):** Whenever you outwit a creature, you may attempt to process a random technique that the creature knows.
-**Body Control Sphere (any (control) talent):** Whenever you successfully endure effects of a technique, you may process that technique (no saving throw permitted).
-**Communication Sphere (Heart to Heart):** Whenever you bare your soul to a creature, you may attempt to process a random technique that the creature knows.
-**Investigation Sphere (any (apply) talent):** Whenever you expend an application on a target, you may attempt to process a random technique that the creature knows.
-**Navigation Sphere (any (pathing) talent):** Whenever a creature uses a technique whose effects are entirely contained within your pathing, you may process that technique (no saving throw permitted).
-**Spellhacking Sphere (Hacker’s Analysis):** Whenever you successfully hack a technique or a magic item capable of creating a technique, you may process that technique (no saving throw permitted).
-**Study Sphere (Anticipate Hostility):** Whenever the subject of your theory performs a technique, you may spend 2 notions to process that technique (no saving throw permitted). In addition, you may spend 3 notions as a swift action to attempt to process a random technique that the subject of your theory knows, processing an additional random technique for every additional notion spent beyond 3.
-**Survivalism Sphere (Hunter’s Eye):** Whenever you make a trophy out of a creature, you may attempt to process a random technique that the corpse knew in life.
-
 ---
-
-# Magic Items and Techniques [SM—]
-
-**Source:** Baron's Glorious Arena
-
-You may apply Technique complexity modifiers to Magic Items you are crafting, applying as if they were item complexity modifiers.
-
-## Techniques and Talent-Based Magic Item Creation [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-If a technique includes at least one magic sphere effect, that technique may be applied to an item using talent-based magic item creation as if it were a magic sphere effect, using the technique’s complexity as the complexity of the effect for the purpose of determining cost. Additional effects or modifications to complexity may be applied to the item as normal.
-When using a technique that is part of an item, the payment method of the complexity cost is set rather than being determined by the user. For example, a crafter may set a complexity 5 technique into an item and make it so the technique always costs 4 spell points and a full-round action to use. This requirement can also be applied with multi-character techniques by requiring multiple performers to hold and use the item at the same time (or to each hold a copy of the item) in order to perform a multi-character technique.

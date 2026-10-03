@@ -16,8 +16,6 @@ parent: "[[Spheres Of Power]]"
 
 A combat engineer is an alchemist who focuses their magic and invention to the service of a cause - usually a nation and army.
 
-This archetype requires [[Sphere Alchemist|sphere alchemist]] or [SM—] [[Champion Alchemist 3PP|champion alchemist]].
-
 ### War College
 
 At 1st level, the combat engineer gains the War sphere as a bonus sphere.

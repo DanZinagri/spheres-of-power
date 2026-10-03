@@ -292,32 +292,6 @@ Geomancy born is an inherited template that can be applied to any creature, but 
 
 **Spell Points:** A geomancy born elemental gains a small reservoir of energy that it can call upon to create wondrous effects, called a spell pool. This pool contains a number of spell points equal to its racial Hit Dice + its Wisdom modifier. If the elemental has spell points from another source, it gains a bonus their spell pool equal to the elemental’s racial Hit Dice instead.
 
-### Eldritch Template [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-The following options can be applied to a creature with the eldritch template.
-
-**Advancing Armor (Ex) (-1 EP, +1/4 CR)** The eldritch creature has either a +1 natural armor bonus for every 2 Hit Dice it has or the base creature’s natural armor bonus, whichever of the two leads to a higher result.
-
-**Conceal Features (Ex) (-1 EP, +⅛ CR)** The eldritch creature gains a +8 racial bonus on checks to disguise itself as a typical member of the base creature’s species if it takes the time to don clothing or armor to hide qualities such as additional limbs or eyes. When it does so, it loses access to features that it hides.
-
-**Grab (Ex) (-1 EP, +½ CR)** One of the eldritch creature’s natural weapons gains the grab special ability. This option can be taken multiple times, each time applying to a different natural weapon.
-
-**Many Eyes (Ex) (-1 EP, +1/8 CR)** The eldritch creature gains all-around vision.
-
-**Rake (Ex) (-2 EP, +1/4 CR)** The eldritch creature gains a rake attack identical to one of its natural attacks. This option can be taken multiple times, each time granting an additional natural attack.
-
-**Ritual Intuition (-1 EP, +½ CR)** The eldritch creature gains Advanced Magic Training, Ritual Caster, and Ritual Master as bonus feats even if they do not meet the prerequisites.
-
-**Stench Manipulation (Ex) (-1 EP, +¼ CR) (Requires stench ability)** The eldritch creature can activate or suppress their stench ability as a free action. As a swift action, the creature can intensify this scent, causing it to become truly nauseating. All living creatures within 30 feet must succeed at a Fortitude saving throw (DC = 10 + 1/2 the creature’s HD + the child’s Constitution modifier) or become nauseated for 1 round. The creature can exude this nauseating stench for a number of rounds per day equal to its total Hit Dice, but these rounds need not be consecutive. Each round the creature wishes to maintain the stench, it must use a swift action to do so. The stench is a poison effect.
-
-**True Strike (Su) (-1 EP, +½ CR)** Once per day, the eldritch creature can gain a +20 insight bonus on a single attack roll. In addition, the creature suffers no miss chance against a target that has concealment or total concealment when making this attack. This option can be taken multiple times, each time granting an additional use of this ability.
-
-**Unnatural Fortitude (-2 EP, +½ CR)** The eldritch creature always has maximum hit points for its hit dice (for example, 8 hit points for every 1d8 of its hit dice).
-
-**Unnatural Loathing (Ex) (+1 EP, -¼ CR)** The eldritch creature is loathed by animals and non-native outsiders. Both types of creatures gain a +4 bonus on Perception checks and Sense Motive checks against a child of the boundary, and receive a +2 morale bonus on attack rolls and weapon damage rolls against such targets.
-
 ### Embodiment Of Magic (CR+ Varies)
 
 Embodiment of Magic is an aquired template applied to a sphere effect, granting it intelligence, life, and a motive force. The Embodiment of Magic is naturally invisible; effects that can see magical auras reveal that it appears to be an aura shaped into the vague likeness of the caster, with visual tweaks corresponding to the effect it was created from.
@@ -538,60 +512,6 @@ Creatures within 10 miles of a godfoe are incapable of regaining mythic power or
 
 **Ability Scores:** Str +6, Con +8, Dex +6, Int +6, Wis +8, Cha +8
 
-### Graveknight (Spheres Variant) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-“Graveknight” is an acquired template that can be added to any living creature with 5 or more Hit Dice (referred to hereafter as the base creature). Most graveknights were once humanoids. A graveknight uses the base creature’s statistics and abilities except as noted here.
-
-**CR:** Same as base creature +2.
-
-**Alignment:** Any.
-
-**Type:** The graveknight’s type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or saves.
-
-**Senses:** A graveknight gains darkvision 60 ft.
-
-**Aura:** A graveknight emanates the following aura.
-
-*Sacrilegious Aura (Su):* A graveknight constantly exudes an aura of intense evil and negative energy in a 30-foot radius. This aura functions as the spell desecrate and uses the graveknight’s armor as an altar of sorts to double the effects granted. It and all undead within this area gain a +2 profane bonus on attack rolls, damage rolls, and saving throws, and the DC to resist negative channeled energy in the area increases by 6. The graveknight gains 2 hit points per Hit Die.The graveknight constantly gains the benefits of this effect (including the bonus hit points, as this aura is part of the graveknight’s creation. In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a cleric’s channel energy ability, a paladin’s lay on hands, or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1/2 the graveknight’s Hit Dice + the graveknight’s Charisma modifier. If the character fails, the effect is expended but does not function.
-
-**Armor Class:** Natural armor improves by +4.
-
-**Hit Dice:** Change all racial Hit Dice to d8s. Class Hit Dice are unaffected. As an undead, a graveknight uses its Charisma modifier to determine bonus hit points.
-
-**Defensive Abilities:** A graveknight gains channel resistance +4; DR 10/magic; and immunity to three of the following energy types: acid, cold, electricity, fire, and sonic. A graveknight also gains spell resistance equal to its augmented CR + 11.
-
-The graveknight also gains the following ability.
-
-*Rejuvenation (Su):* One day after a graveknight is destroyed, its armament begins to rebuild the undead horror’s body. This process takes 1d10 days—if the body is destroyed before that time passes, the armament merely starts the process anew. After this time has elapsed, the graveknight wakens fully healed. Only by destroying its armament can a graveknight be permanently destroyed
-
-**Attacks:** A graveknight gains a slam attack if the base creature didn’t have one. Damage for the slam depends on the graveknight’s size.
-
-**Special Abilities:** A graveknight gains the following special abilities.
-
-*Bringer of Ruin (Su):* A graveknight uses its Hit Dice as its caster level with two of the Death, Destruction, Illusion, Mind, and War spheres, chosen when this template is gained.
-
-**Special Attacks:** A graveknight gains the following special attacks. Save DCs are equal to 10 + 1/2 the graveknight’s HD + the graveknight’s Charisma modifier unless otherwise noted.
-
-*Undead Mastery (Su):* As a standard action, a graveknight can attempt to bend any undead creature within 50 feet to its will. The targeted undead must succeed at a Will save or fall under the graveknight’s control. This control is permanent for unintelligent undead; an undead with an Intelligence score is allowed an additional save every day to break free from the graveknight’s control. A creature that successfully saves cannot be affected again by the same graveknight’s undead mastery for 24 hours. A graveknight can control 5 Hit Dice of undead creatures for every Hit Die it has. If the graveknight exceeds this number, the excess from earlier uses of the ability becomes uncontrolled, as per reanimate.
-
-**Ability Scores:** Str +6, Int +2, Wis +4, Cha +4. As an undead creature, a graveknight has no Constitution score.
-
-**Skills:** Graveknights gain a +8 racial bonus on Intimidate, Perception, and Ride checks.
-
-**Feats:** Graveknights gain Basic Magic Training (selecting the Death sphere or Destruction sphere) and Advanced Magic Training as bonus feats. Creatures that already have caster levels may choose to exchange Advanced Magic Training for Extra Magic Talent. For every two hit dice they possess, they gain an additional bonus feat which can be selected from any combat feat or the Extra Magic Talent feat
-
-#### A Graveknight’s Armament
-
-Every graveknight possesses a signature piece of equipment known as an armament, which may be armor, a weapon, an implement, or a piece of worn equipment. This armament has twice the hit points of a normal item of its type. Anyone who treats a graveknight’s armament as simply battle spoils risks both body and soul. Graveknights rejuvenate when destroyed. Their bodies literally grow back, with tendrils of undead flesh coiling out from recesses in their armament like gruesome creepers, unless opponents take pains to also obliterate the armament. These unholy strands have no objection to infesting a living host instead of producing a new body for their master.
-
-People who claim a graveknight’s armament rarely recognize the threat until too late, as part of the magic of the rejuvenation makes wearers oblivious to the invasion of their own bodies. When they take the armor off to sleep or otherwise stow the armament, they overlook the puncture marks and deep fissures upon their skin. Some sinister instinct also causes them to conceal these wounds from their companions. Only the particularly observant (and a DC 25 Perception check) perceive the peril in time and help their friend cast aside the armament.
-
-Once the rejuvenation period ends 1d10 days later, the wearer must make a Will save (DC equal to 10 + 1/2 the graveknight’s HD + the graveknight’s Cha modifier) each day to avoid transforming into the original graveknight. This transformation consumes mind as well as body, immediately slaying the victim and utterly destroying the body.
-
-To wear or use a graveknight armament safely, its new owner must cleanse it of its prior influence and forever sever its connection to its undead master. This cleansing requires the casting of three different magic effects within an hour of each other. One is always the break enchantment spell or word. The other two vary with each graveknight and relate back to the unique circumstances surrounding its first death and return. Figuring out the correct effect usually entails a great deal of research and careful thought. And of course, while this detective work is happening, the armament continues to steadily regenerate the graveknight.
-
 ### Variant Graveknights
 
 #### Ironbound (CR +2)
@@ -785,82 +705,6 @@ These incantations serve as suggestions for attaining lichdom and other appropri
 
 Undeath is a malleable tool for those who rise, or fall, to lichdom wield. Some liches are pronounced by their unique rituals, as detailed above.
 
-#### Bodiless (CR +2) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-Bodiless liches emerge from violent battles between powerful spellcasters, a defeated mage becoming so wounded from the encounter that they are unable to rebuild their undead forms. Bodiless compensate for this vulnerability by stealing the bodies of other creatures, puppeteering these minions to continue their worldly plots.
-
-A bodiless alters the lich template (hereafter referred to as the “base template”) as follows.
-
-**Defensive Abilities:** A bodiless gains the incorporeal universal monster ability, gaining a deflection bonus to AC equal to their Charisma modifier. This replaces the lich’s normal natural armor bonus and damage reduction.
-
-**Melee Attacks:** A bodiless lich’s touch attack is considered an incorporeal touch attack
-
-**Special Abilities:** A bodiless gains the haunting possession special attack. This replaces base template’s fear aura
-
-*Haunting possession (Su):* The bodiless gains the possession ability of a wraith, using their hit dice in place of their wraith level. The bodiless may select wraith haunts in place of the bonus feats granted by the lich template.
-
-#### Chronicler (CR +2) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-Scholars have often pursued lichdom to see their work to completion, a dedicated few binding their undead existence to records they have written. Chroniclers gather the memories of their foes and harness tremendous pools of information to master every situation and become a living record of the ages.
-
-A chronicler alters the lich template (hereafter referred to as the “base template”) as follows.
-
-**Defensive Abilities:** A chronicler gains fast healing 5 and modifies the rejuvenation ability as follows.
-
-*Record Rejuvenation (Ex):* A chronicler lives on through their work. A chronicler’s phylactery must be a source of information that it has created (such as a book, a tapestry, an enchanted skull that whispers secrets, or a data drive with information stored on it). The record contains the sum total of the chronicler’s knowledge. If the chronicler carries such a record on its body, it can reform over 1 hour in the place it was destroyed so long as the record does not leave its possession. Otherwise, a chronicler requires a living creature to read its record in order to reform. When a living creature reads the chronicler’s record (a process which takes at least 1 minute and must be performed willingly), the chronicler may attempt to possess their body as per the possession ability of a wraith whose level equals the chronicler’s hit dice. A creature that succeeds on their saving throw is immune to this ability for 24 hours. A successful possession has a permanent duration and after 1d6 days physically and mentally transforms the possessed creature into the chronicler permanently.
-
-**Weaknesses:** A chronicler gains the mental susceptibility weakness
-
-*Mental Susceptibility:* A chronicler doesn’t gain immunity to mind-affecting effects as a result of becoming undead. If the base creature is immune to any mind-affecting effects, it loses those immunities and instead gains a +4 bonus on saving throws against such effects.
-
-**Special Qualities:** A chronicler gains the well of knowledge special quality. This replaces the base template’s fear aura.
-
-*Well of Knowledge (Su):* As a full-round action, a chronicler can sift through its massive index of accumulated and stolen experiences to find the perfect solution for whatever problem is facing them. This grants the chronicler a single feat that they meet the prerequisites for as a bonus feat. The chronicler may have one instance of this ability active at a time for every 5 hit dice it possesses. Any uses beyond this force the chronicler to replace one of its existing bonus feats gained through this ability with the new one. Should the chronicler no longer meet the prerequisites for a feat gained through this ability, they lose that temporary bonus feat.
-
-**Special Attacks:** A chronicler gains the memory siphon special attack. This replaces the base template’s paralyzing touch special attack
-
-*Memory Siphon (Su):* Creatures struck by the chronicler’s touch attack suffer 1d6 points of Intelligence damage (Will save negates, DC 10 + half the chronicler’s hit dice + the chronicler’s casting ability modifier).
-
-**Skills:** In place of the normal skill bonuses that come from being a lich, a chronicler gains a +8 racial bonus on all Knowledge checks and Spellcraft checks
-
-#### Corpsewalker (CR +2) [SM—]
-
-**Source:** Expanded Spheres: Baron's Hallowed Archive
-
-Corpsewalkers are liches meant to be deployed on the field of battle, trading their durability and assured rejuvenation for more vicious offenses and rapid reconstitution. Corpsewalkers are often made from dragons, naga, or other spellcasting creatures with natural weapons. In some cases, spellcasters are capable of crafting a phylactery for a corpsewalker, gaining control over their undead creation.
-
-A corpsewalker alters the lich template (hereafter referred to as the “base template”) as follows.
-
-**Armor Class:** The corpsewalker increases the base creature’s natural armor bonus by +2. This replaces a lich’s normal natural armor modifications.
-
-**Defensive Abilities:** A corpsewalker gains channel resistance +4, DR 5/bludgeoning, and immunity to polymorph, cold and electricity (in addition to those granted by its undead traits). This replaces the lich’s normal DR and immunities.
-
-*Rapid Rejuvenation (Su):* If a corpsewalker is slain, its spirit immediately returns to its phylactery. If there is a corpse of the corpsewalker’s previous type within 90 feet of the phylactery, the corpsewalker may rejuvenate in that corpse as a full-round action, returning to full hit points in its new body. If no such corpse lies within 90 feet for the spirit to possess, the corpsewalker is trapped in the phylactery until such a time - if ever - that a corpse becomes available. If its spirit is currently contained in its phylactery, destroying that item when a suitable corpse is not within range effectively destroys the corpsewalker. Likewise, an active corpsewalker is unable to attempt further rejuvenations if its phylactery is destroyed. The fate of a disembodied corpsewalker spirit - that is, a spirit with no body or phylactery - is unknown.
-
-This replaces a lich’s normal rejuvenation ability.
-
-**Weaknesses:** A corpsewalker gains the following weakness
-
-*Necromancer’s Pawn:* A corpsewalker automatically fails its saving throws against the Command Undead feat and similar effects which would control undead (such as the Command Undead ghost strike from the Death Sphere) as long as the creator of these effects is holding the corpsewalker’s phylactery. Knowing this, some necromancers seek to transform powerful creatures into corpsewalkers in order to manipulate them.
-
-**Special Attacks:** A corpsewalker’s special attacks are modified in the following ways.
-
-*Chilling Claws (Su):* A corpsewalker’s natural attacks deal 1d6 additional cold damage. In addition, the first time each round a creature damaged by any of a corpsewalker’s natural attacks, it becomes paralyzed for 2d6 rounds (Fortitude save negates). This replaces a lich’s paralyzing touch.
-
-*Paralyzing Gaze (Su):* A corpsewalker possesses a gaze attack with a range of 40 feet. Any creature affected by a corpsewalker’s gaze becomes paralyzed for 2d6 rounds (Fortitude save negates). A creature that succeeds on their saving throw becomes immune to that corpsewalker’s paralyzing gaze for 24 hours. This replaces a lich’s fear aura.
-
-**Special Qualities:** If a corpsewalker so chooses, they may progress in age category even in their undead state. For example, a corpsewalker blue dragon may acquire additional hit dice from advancing to the old category even if they became a corpsewalker as an adult.
-
-**Talents:** A corpsewalker gains the Death Sphere with the Limited Necromancy (ghost strike) drawback, selecting Command Undead as the bonus talent granted from the drawback. If the corpsewalker already possesses the Death Sphere, they simply gain the Command Undead as a bonus talent.
-
-**Abilities:** Cha +4. This replaces a lich’s normal ability score modifications
-
-**Feats:** A corpsewalker does not gain Counterspell as a bonus feat
-
 #### Evasor Ex Fortuna (CR +2)
 
 The “evader of fates”, evasor ex fortuna are liches who exist as an unliving paradox. Rather than a perverse ritual or sacrifice of life, an evasor ex fortuna makes a foul bargain with lady luck herself, that they can escape and elude their own demise for eternity. Most evasor ex fortuna are just as lucky as they are skilled, and leverage their newfound power to take even greater risks.
@@ -891,35 +735,6 @@ In addition to the methods to regain kismet above, an evasor ex fortuna gains 1 
 
 This alters the base template’s Basic Magic Training and Advanced Magic Training feats.
 
-#### Interloper (CR +2) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-Fearing the countless threats of the universe, the peculiar liches known as interlopers place their protective measures outside of time, space, and the planes. Divorced from reality, the sequestered soul of an interloper creates a body to walk the cosmos, although this form and mind forever bears the marks of its unreal source.
-
-An interloper alters the lich template (hereafter referred to as the “base template”) as follows.
-
-**Senses:** An interloper can perceive all things as if constantly under the effects of the True Perception (sense) talent from the Divination Sphere.
-
-**Defensive Abilities:** An interloper modifies the rejuvenation ability as follows.
-
-*Extraworldly Rejuvenation (Ex):* Rather than storing their soul in an object, an interloper places it outside existence itself. When an interloper is destroyed, its soul travels to this non-place and can re-enter reality in a new fully-formed body through an existing “thin point” in existence after 24 hours. If the interloper is destroyed in an area that prevents planar travel, its body regenerates in the form of a gibbering mouther that possesses all the memories of the destroyed interloper. If the gibbering mouther is destroyed, the interloper is destroyed permanently.
-
-**Special Attacks:** An interloper gains the touch of the unreal and uncanny placement special attacks. This replaces the base template’s fear aura and paralyzing touch.
-
-*Touch the of Unreal (Su):* Creatures damaged by the interloper’s touch attack are exposed to a unique infestation known as unreal contaminant. While remove disease (or a similar effect) instantly cures an infestation, immunity to disease offers no protection. Infestations can afflict androids despite their artificial nature and immunity to disease, but they can’t afflict nonliving creatures such as undead.
-
-**Unreal Contaminant**
-**Type**contact;**Save**Fortitude DC 10 + ½ the interloper’s hit dice + the interloper’s Charisma modifier;**Onset**immediate;**Frequency** 1/day
-
-**Effect**
-1d6 Dexterity, Wisdom, and Charisma damage. A target reduced to 0 in any of these ability scores is transformed into a gibbering mouther and can only be reverted with a wish or miracle spell or by similarly powerful magic.
-
-**Cure**
-3 consecutive saves
-
-*Uncanny Placement (Su):* The incomprehensible structures of the unreal map imperfectly upon existence, allowing the interloper to move in impossible ways. As a swift or immediate action, the interloper may teleport up to 30 feet. If used to avoid an attack or area effect, this grants the interloper evasion and a dodge bonus to AC and Reflex saves equal to half their hit dice (minimum 1). At the start or end of their next turn, the interloper may return to the space they teleported from.
-
 #### Power Lich (CR +2)
 
 A power lich, as they became to be known, are frightening liches who strive to retain the trappings of physical mortality with their immortal bodies. While undead are normally unable to develop and improve their bodies as a living creature would, the power lich leverages powerful magical effects to mimic strengthening techniques across many spheres of magic, including Alteration, Enhancement, and Fate. As such, they are often not perceived as undead, and appear with toned and healthy muscular bodies.
@@ -949,24 +764,6 @@ This ability refers to the power lich “exercising” or otherwise spending 1 h
 For every 4 Hit Dice the power lich possesses, the power lich gains Extra Magic Talent as a bonus feat, selecting a bonus talent from the Enhancement sphere.
 
 This alters the base template’s Basic Magic Training and Advanced Magic Training feats.
-
-#### Sanctified Lich (CR +2) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-Created by an idealized force for some purpose, sanctified liches aim to preserve some tradition or order rather than twisting them to their own ends.
-
-A sanctified lich alters the lich template (hereafter referred to as the “base template”) as follows.
-
-**Alignment:** A sanctified lich must be of the same alignment as the god, force, or philosophy which spurred their transition to undeath. A lich who changes their alignment or deviates in an extreme manner from their belief loses their rejuvenation ability until they atone (as per an atonement spell)
-
-**Defensive Abilities:** Rather than their normal damage reduction, a sanctified lich gains either DR 15/good, DR 15/evil, DR 15/lawful, or DR 15/chaotic. The alignment which bypasses their damage reduction must be opposite to their own unless the lich is True Neutral. A sanctified lich is not immune to cold or electricity damage, but gains spell resistance equal to its augmented CR + 11 and increases its turn resistance from +4 to +6. This spell resistance can be lowered for 1 round as a free action.
-
-**Special Attacks:** A sanctified lich gains the awesome presence and channel energy special attack. This replaces the base template’s paralyzing touch and fear aura special attacks.
-
-*Awesome Presence (Su):* A sanctified lich rallies its allies and cows its foes with its very presence. All allies within 60 feet of a sanctified lich gain a +2 luck bonus to attack rolls, skill checks, ability checks, and saving throws. All enemies within the area of effect also suffer a -2 penalty to their own attack rolls, skill checks, ability checks, and saving throws. This penalty is considered a curse effect.
-
-*Channel Energy (Su):* A sanctified lich gains the ability to channel either positive or negative energy as a soul weaver of their hit dice. The decision of positive or negative energy is made when the sanctified lich gains this ability. If the sanctified lich already possesses the ability to channel energy, they treat their class level in whatever class grants channel energy as 4 higher for the purpose of determining its effects.
 
 ### Living Idol [SB:FotC]
 
@@ -1514,78 +1311,6 @@ It should be noted that while deities have mythic ranks similar to players and o
 **Feats:** A wightborne gains Blind Fight as a bonus feat.
 
 ---
-
-# Monster Template Conversions [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-Presented below are a series of simple modifications to existing templates to create versions of them that utilize Spheres in some manner.
-
-### Alebrije
-
-**Dream Attendant:** The alebrijie gains the Mind and Warp spheres as bonus spheres and gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the creature has no racial Hit Dice, they gain Basic Magic Training and Advanced Magic Training as bonus feats.
-The alibrijie gains the Dreamspace, Dreamwalking, and Extra Secret feat three times (selecting Acolyte Dreaming all three times) as bonus feats.
-
-This replaces spell-like abilities.
-
-### Demonic Vermin
-
-**Magic:** The demonic vermin gains a bonus magic talent plus an additional talent for every 3 Hit Dice it possesses beyond the first. If it does not already possess spellcasting or racial casting, the creature gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the creature has no racial Hit Dice, they gain Basic Magic Training and Advanced Magic Training as bonus feats. Talents from these abilities must be from the Blood, Dark, Nature, or Warp spheres.
-
-This replaces spell-like abilities.
-
-### Divine Guardian
-
-**Talents:** The divine guardian gains the Divination, Protection, and Warp spheres as bonus spheres plus an additional talent for every 2 Hit Dice it possesses beyond the first. If it does not already possess spellcasting or racial casting, the creature gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the creature has no racial Hit Dice, they gain Basic Magic Training and Advanced Magic Training as bonus feats. Talents from these abilities must be from the Divination, Guardian, Protection, and Warp spheres.
-
-This replaces spell-like abilities.
-
-### Enlightened Construct
-
-**Magic:** The enlightened construct gains the Mind sphere as bonus spheres plus an additional magic talent and an additional magic talent for every 2 Hit Dice it possesses beyond the first. If it does not already possess spellcasting or racial casting, the creature gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the creature has no racial Hit Dice, they gain Basic Magic Training and Advanced Magic Training as bonus feats. Talents from these abilities must be from the Mind, Protection, Technomancy, and Telekinesis spheres.
-
-This replaces mind thrust and spell-like abilities.
-
-### Half-Celestial
-
-**Magic:** The half-celestial gains a bonus magic talent plus an additional talent for every 2 Hit Dice it possesses beyond the first. If it does not already possess spellcasting or racial casting, the creature gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the creature has no racial Hit Dice, they gain Basic Magic Training and Advanced Magic Training as bonus feats. Talents from these abilities must be from the Alteration, Fate, Protection, or Life spheres.
-
-This replaces spell-like abilities.
-
-### Kanabo
-
-**Talents:** The kanabo gains a single magic, combat, or skill talent plus an additional talent for every 2 Hit Dice it possesses beyond the first. If it does not already possess spellcasting or racial casting, the creature gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the creature has no racial Hit Dice, they gain Basic Magic Training and Advanced Magic Training as bonus feats. Magic talents from these abilities must be from the Alteration or Enhancement spheres.
-
-This replaces spell-like abilities.
-
-### Soulbound Construct
-
-**Magic:** The soulbound construct gains a bonus magic talent plus an additional talent for every 3 Hit Dice it possesses beyond the first. If it does not already possess spellcasting or racial casting, the creature gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the base creature has no racial Hit Dice, the soulbound construct gains Basic Magic Training and Advanced Magic Training as bonus feats. Talents from these abilities must be from the Mind or Technomancy spheres or from the following spheres corresponding to the base creature’s alignment at the time it was created.
-
-**Chaotic:** Destruction
-**Evil:** Death
-**Good:** Life
-**Lawful:** Protection
-**Neutral:** Illusion
-
-This replaces spell-like abilities.
-
-### Tsukogami
-
-**Magic:** The tsukogami gains two bonus magic talents plus two additional talents for every size it is above tiny. If it does not already possess spellcasting or racial casting, the creature gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the creature has no racial Hit Dice, they gain Basic Magic Training and Advanced Magic Training as bonus feats. Talents from these abilities must be from the Enhancement, Illusion, Mind, or Telekinesis spheres.
-
-This replaces spell-like abilities.
-
-### Tulpa
-
-**Magic:** The tulpa gains the Mind sphere as a bonus sphere plus an additional magic talent for every 2 Hit Dice it possesses beyond the first. If it does not already possess spellcasting or racial casting, the creature gains a caster level based on their racial Hit Dice (see Table: Racial Caster Level Progression by Creature Type) and may select a casting tradition. If the creature has no racial Hit Dice, they gain Basic Magic Training and Advanced Magic Training as bonus feats. Talents from these abilities must be from the Death, Enhancement, Mind, and Telekinesis spheres. A tulpa can only use magic talents from these four spheres to affect itself or its creator but its maximum spell points are increased by its Hit Dice.
-
-This replaces psychic magic
-
-**Sustained by Thought:** Tulpas do not heal or regain spell points naturally. Instead, whenever a living creature spends at least 10 minutes mentally picturing the tulpa, or interacting with it in some way, the tulpa heals 5 hit points and gains 2 spell points.
-A creature other than the tulpa’s creator can’t provide more than 5 hit points and 2 spell points to the tulpa per day with this activity, but its creator can feed its tulpa indefinitely, granting 5 hit points and 2 spell points for every 10 minutes she spends in this way, up to the tulpa’s maximum hit points and spell points.
-
-This modifies sustained by thought.
 
 </div>
 

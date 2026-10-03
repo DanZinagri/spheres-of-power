@@ -206,22 +206,6 @@ Magical weapons and armor use the crafter’s MSB rather than their caster level
 | +9 | 162,000 | +9 | 81,000 |
 | +10 | 200,000 | +10 | 100,000 |
 
-### Sphere Crafting Affinity [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Benefits:** Choose a magic, combat, or skill sphere you possess. When attempting to learn or create a technique or craft a magic item that uses the chosen sphere, add your level to any such skill check.
-
-**Special:** You may select this feat multiple times, each time selecting a different sphere. This feat may be selected in place of an item creation feat.
-
-### Talent Crafting Affinity [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Benefits:** Choose a magic, combat, or skill talent you possess that is not a base sphere. When you create a technique or magic item, reduce the complexity increase from applying the effects of the chosen talent by 1 (to a minimum of +0). Reductions from this feat cannot be applied to the same item more than one time + an additional time for every 4 ranks you possess in a specific skill.
-
-**Special:** You may select this feat multiple times, each time selecting a different talent. This feat may be selected in place of an item creation feat.
-
 ### Versatile Crafter
 
 **Prerequisite:** Any item creation feat.

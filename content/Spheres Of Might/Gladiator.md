@@ -52,12 +52,6 @@ You no longer need to expend your martial focus when using your strike fear abil
 
 As long as you have martial focus, whenever an ally that can see you or hear you within 60 ft. would perform an action that would allow you to boast (such as confirming a critical hit, reducing an enemy to 0 or fewer hit points, etc.), you may expend your martial focus to boast as an immediate action, treating it as if you had performed the action.
 
-#### Oh, I’m Sorry [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-Whenever a creature damaged by you this round fails a concentration check, you may boast as a free action which can be taken outside your turn.
-
 #### Pathetic Yelp [Jester's HB]
 
 As long as you have martial focus, when an enemy successfully deals damage to you, you may perform a boast as an immediate action.
@@ -68,12 +62,6 @@ You may make a performance combat check as a free action up to once per round ra
 
 **Associated Feats:** Master Combat Performer, Performance Weapon Mastery (both Pathfinder Roleplaying Game: Ultimate Combat).
 
-#### Picked Target [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Whenever a creature fails a saving throw against an ability that targets only them and is used as a standard or full-round action, you may perform a boast as a free action.
-
 #### Punish The Meek [Apoc]
 
 Whenever you use an attack action to deal damage to a creature that is currently demoralized by you, extend the duration of the demoralization by one round. **Associated Feat:** Demoralizing Lash.
@@ -81,13 +69,6 @@ Whenever you use an attack action to deal damage to a creature that is currently
 #### Self Confidence
 
 You may perform a boast as a standard action to regain your martial focus. Doing so does not require the normal triggering condition for a boast.
-
-#### Showman’s Takedown [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-When you perform a coup de grace and deal only nonlethal damage, instead of attempting a Fortitude save to avoid death, the target must instead attempt a Fortitude save to avoid falling unconscious for 1 hour. The DC of this save is the same as that of a lethal coup de grace.
-**Associated Feat:** Merciful Takedown
 
 #### Theatrical Boast
 
@@ -239,13 +220,6 @@ Whenever you successfully demoralize a hostile creature, you can find a loophole
 
 Allies affected by this ability gain a +1 morale bonus to saving throws, attack rolls, and skill checks for 1 round.
 
-#### Mage’s Terror (demoralization) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Creatures suffering from your demoralization suffer an additional -2 penalty on concentration checks. This penalty increases by 1 for every 4 ranks in Intimidate you possess.
-When a demoralized creature you threaten rolls a concentration check, you may spend martial focus to make them reroll the check and take the second result.
-
 #### Murderous Intent (demoralization, stance) [Youxia HB]
 
 While in this stance, demoralized hostile creatures treat squares adjacent to you as difficult terrain, and they provoke attacks of opportunity for 5-foot steps made to leave those squares. If you have 10 or more ranks in Intimidate, this stance instead applies to all squares within your reach.
@@ -263,12 +237,6 @@ When you attempt to demoralize or use strike fear on a creature, you need only b
 #### Piercing Fear (demoralization)
 
 You may expend martial focus as part of an Intimidate check to demoralize to overcome a creature’s defenses, treating immunity to fear and mind-affecting effects as a +5 DC increase to the check’s DC (the DC only increases by +5 once, regardless of if the creature has immunity to both fear and mind-affecting effects).
-
-#### Ruthless Visage (demoralization) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-Whenever you demoralize a creature, that creature becomes battered for as long as they remain shaken. The battered penalty to CMD also applies to the target's AC against attack rolls.
 
 #### Shaken Defense (demoralization) [Youxia HB]
 
@@ -298,28 +266,11 @@ This is an extraordinary (fear) effect. You may suppress or resume this ability 
 
 When you use strike fear, you may spend an additional instance of martial focus to extend the range of the ability to medium (100 ft. + 10 ft. per rank in Intimidate you possess). If you possess the Aura of Fear talent, you may spend martial focus as a swift action to increase the range of the aura to medium for 1 round.
 
-#### Break Discipline (demoralization) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Gladiator Sphere (Abandon All Hope)
-
-Whenever a creature becomes demoralized by you, they must attempt a Will save. On a failure, they cannot benefit from insight or competence bonuses so long as they remain demoralized.
-
 #### Burn The Chaff
 
 **Prerequisites:** Gladiator sphere, base attack bonus +10.
 
 Whenever you make a melee attack (including attacks of opportunity) against a target with a CR less than half your BAB that is suffering from a fear effect, your attack is an automatic critical hit. The target must pass a Fortitude save (DC 10 + damage dealt) or die.
-
-#### Damnatio ad Gladium [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Gladiator Sphere
-
-As long as you have martial focus, you can deliver a coup de grace to cowering or stunned targets as if they were helpless.
-**Associated Feat:** Dastardly Finish
 
 #### Deafening Clangor
 
@@ -338,14 +289,6 @@ While in this stance, whenever a creature demoralized by you misses you with an 
 **Prerequisites:** Intimidate ranks 4, Gladiator sphere.
 
 While in this stance, whenever an ally that you can see would be reduced to 0 hit points or fewer, you can perform a boast once per round as a free action that can be taken outside of your normal turn. Additionally, allies who are unconscious can benefit from your boasts; a dying ally who is affected by your boast immediately becomes stabilized. When stabilized in this way, the ally still attempts stabilization checks; if they succeed, they regain 1 hit point, become conscious (if they were not already), and stop attempting stabilization checks.
-
-#### For a Drop of Blood [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Gladiator Sphere (Pathetic Yelp)
-
-When an enemy successfully deals damage to you and reduces your total pool of temporary hit points to 0, you may expend martial focus to boast as a free action.
 
 #### Foresee Conflict (demoralization) [Youxia HB]
 

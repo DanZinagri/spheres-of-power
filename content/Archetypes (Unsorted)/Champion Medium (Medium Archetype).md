@@ -15,12 +15,6 @@ updated: 2026-05-03
 
 *Source: [Baron's Secluded Library](https://www.drivethrurpg.com/en/product/560629/baron-s-secluded-library)*
 
-## Trade Tradition [SM—]
-
-If this is this character’s first level in any class, the champion medium may select a trade tradition of their choice, and have a competent trade rank. The champion medium gains a number of skill ranks at each level equal to 4 + their Intelligence modifier.
-
-This replaces the medium’s normal class skills.
-
 ## Proficiencies
 
 Champion mediums are proficient with simple weapons, as well as the favored weapon of his deity, light armor, and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
@@ -39,19 +33,11 @@ A champion medium gains a small reservoir of energy he can call on to create tru
 
 A champion medium gains a combat or magic talent at 2nd level and every even level thereafter. These are in addition to talents gained through the meditative talents class feature. A champion medium uses their casting ability modifier as their practitioner modifier
 
-**Addendum: [SM—]** Alternatively, a champion medium may a combat, magic, or skill talent (some of which are required to be utility talents) at the listed levels using the trained talent progression. A champion medium uses his casting ability modifier as his practitioner modifier.
-
 ## Meditative Talents
 
 A champion medium gains a magic or combat talent at every odd level. However, unlike most talents, a champion medium is able to change these particular talents whenever they channel a spirit. Whenever the champion medium channels a spirit, they may change any and all of the meditative talents, losing the previous ones and gaining new spheres and new talents in their place.
 
 Only meditative talents can be changed in this way; talents gained at even levels, as part of levels taken in other classes, as part of the bonus talents gained through traditions, or gained from taking feats are not eligible to be changed in this fashion.
-
-**Addendum: [SM—]** A champion medium can use meditative talents to gain skill talents in addition to combat and magic talents.
-
-## Sophisticated Communion [SM—]
-
-All medium class features use the champion medium’s casting ability score to calculate their effects rather than Charisma.
 
 ---
 
@@ -141,10 +127,6 @@ This alters energy font.
 
 ### Trickster
 
-#### Trickster’s Guile (Lesser, Su) [SM—]
-
-You gain a single (trade) talent from the Vocation sphere as a bonus talent. In addition, choose two skills. You are treated as if you had an additional number of ranks in those skills equal to your champion medium level (to a maximum of your character level).
-
 #### Disruptive Magic (Greater, Su)
 
 You gain Counterspell and one Counterspell feat as bonus feats for the duration that you channel this spirit. You may allow this spirit to gain 1 point of influence over you as part of rolling a magical skill check to roll twice and take the higher result.
@@ -159,31 +141,9 @@ This alters legendary trickster.
 
 ---
 
-## Champion Medium and Relic Channeler Medium [SM—]
-
-If a champion medium possesses the relic channeler archetype, he must always select the same talents with meditative talents when he channels a specific legend. If the champion medium can channel multiple spirits, he may select any combination of talents available to any of his spirits with meditative talents. However, the number of meditative talents gained when the champion channels either the archmage or hierophant spirits increases by 1 at 1st level, plus an additional 1 at 4th level and every 3 levels thereafter.
-
 ---
 
 # Feats
-
-#### Additional Relics [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisite:** relics class feature
-
-**Benefits:** You gain 2 additional relics which may correspond to any of the six spirit legends. These relics may have different taboo selections and spirit power selections from your normal relics.
-
-**Special:** You may select this feat multiple times, each time gaining 2 additional relics.
-
-#### Unbound Binding [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** lesser spirit power class feature
-
-**Benefits:** You may channel your spirits in any location, not just a favored location. In addition, if you possess the Legendary Influence or Improved Legendary Influence feats, you may exchange the feats selected by these feats every time you channel a new spirit.
 
 </div>
 

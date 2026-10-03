@@ -16,13 +16,6 @@ parent: "[[Feats]]"
 
 Combat feats are combat-related options, and most notably, they can be selected as bonus feats by a number of different classes.
 
-### Able Aiming (Combat) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Deadly Aim or Piranha Strike
-**Benefits:** While you are using the Deadly Aim or Piranha Strike feat, you do not suffer the feat’s penalty on attack rolls on the first attack you make each turn. You still suffer the penalty on any additional attacks, including attacks of opportunity.
-
 ### Aligned Attacks (Combat)
 
 **Prerequisites:** Non-neutral alignment, caster level 5th.
@@ -49,14 +42,6 @@ You may spend a spell point to make your destructive blast fly in an erratic pat
 
 **Benefit:** You may add the armor bonus from any armor you are wearing (but not armor enhancement bonus or natural armor bonus) to concentration checks made to cast defensively or while grappled. You must be proficient with the armor in question.
 
-### Arrow of Inspiration (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** ability to smite creatures (such as through smite evil or smite good), class feature that creates a continual aura (such as aura of courage or aura of fear)
-
-**Benefits:** Whenever you make a successful attack roll against a creature you have smited, the effects of any of your auras from class features are copied as if you also occupied the space of the struck target until the end of your next turn.
-
 ### Augur Of Combat (Combat)
 
 **Prerequisite:** Int 13.
@@ -71,33 +56,11 @@ Attack smarter, not harder.
 
 **Benefit:** You may use Focused Shot with any ranged weapon, not just bows or crossbows. You gain a +2 bonus to attack and damage rolls when using Focused Shot. If using Spheres of Might, this counts as a special attack action.
 
-### Chambered Set (Combat) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** base attack bonus +6
-
-**Benefit:** For every different type of damage die you have rolled since the start of your last turn, you gain a +1 bonus to rolls made to confirm critical hits and a +1 bonus to any damage rolls made as part of a critical hit (this bonus is not multiplied by the critical hit). If you have rolled at least one d4, d6, d8, d10, and d12 as part of damage rolls you have made since the start of your last turn, you may choose to automatically confirm any critical threats you make.
-
 ### Champion’s Strike (Combat)
 
 **Prerequisite:** Arcane Strike or Imbued Strike.
 
 **Benefit:** Your arcane strike or imbued strike is in effect at all times without you needing to take an action to activate it. In addition, when you use this ability with an attack action that only affects one target and has only one attack roll, the bonus on damage rolls for your strike is increased 100% for every +5 base attack bonus you possess.
-
-### Close-Quarters Conduction (Combat) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (at least one (blast type) talent that deals electricity damage)
-
-**Benefit:** Whenever you would force a creature in your reach to make a Reflex save against your destructive blast that deals electricity damage, you may instead make a melee attack roll with your destructive blast against the creature. On a successful hit, the target is treated as if they failed their Reflex save against the blast.
-
-### Conduit Inversion (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Benefits:** Whenever you target an attended item with a magic sphere effect or attack roll, you may have any number of the ability’s non-damaging effects apply to the attending creature rather than the item as long as the attending creature is an eligible target for these additional effects. For example, if you attack a weapon using a Fire Blast from the Destruction sphere, you may force the attended creature to attempt a Reflex save against catching fire rather than the item. Only a single creature may be considered “attending” a targeted item.
 
 ### Counterspelling Strike (Combat, Counterspell)
 
@@ -158,22 +121,6 @@ The wielder cannot willingly reduce or deal nonlethal damage with this attack. O
 **Prerequisites:** Destruction sphere (Energy Sphere (blast shape)).
 
 **Benefit:** When using the Energy Sphere blast shape, you may spend 2 spell points instead of 1 to form the energy sphere into a serpent, which grows with every target it damages. Whenever the energy sphere successfully deals damage to a target, its size increases by 1 5-foot square. When moving the energy sphere each round, its squares must be arranged contiguously in an arrangement that follows the movement of the ‘head’ of the serpent.
-
-### Essence Plunder (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Mana sphere
-
-**Benefits:** Whenever a creature that took damage from you this turn fails a concentration check on an effect which required spending 1 or more spell points, power points, or a spell slot, you may spend an immediate action to gain 1 temporary spell point that lasts until the end of your next turn.
-
-### Exposing Critical (Combat) (Critical) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Critical Focus, BAB +11
-
-**Benefits:** Whenever you score a critical hit, the target suffers a -2 penalty to saving throws until the end of your next turn. Against effects which the target creates themself (such as drawbacks which require saving throws or area effects they are inside), this penalty increases to half your base attack bonus.
 
 ### Extradimensional Gullet (Combat) [Alienist HB]
 
@@ -255,17 +202,6 @@ The energy at your fingertips hungers for mass ruin.
 
 **Special:** If you possess the Demolition talent or apply a (blast type) talent that ignores hardness and deals full damage to objects, such as Shattering Blast or Disintegrate, treat the wall’s caster level as 3 higher for determining the effects of this feat.
 
-### Improved Retributive Blast (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Destruction Sphere (Retributive Blast)
-
-**Benefits:** When you use Retributive Blast, you may spend an additional spell point to apply one of the following effects or two additional spell points to apply both effects.
-
-*Dissuading Blast:* Once per round, when a creature which has been damaged by your retributive blast since the start of their last turn misses you with a melee or melee touch attack, that creature takes the retributive blast’s damage a second time.
-*Vengeful Blast:* You may use retributive blast when a creature hits you with a melee attack in addition to when it misses you.
-
 ### Improved Spell Combat (Combat)
 
 **Prerequisites:** Casting class feature; any talent with the strike descriptor.
@@ -273,14 +209,6 @@ The energy at your fingertips hungers for mass ruin.
 **Benefit:** When activating a magic sphere talent with the strike descriptor, you may spend a spell point to instead use the sphere effect in conjunction with making a full attack. The magic sphere effect is delivered through the first successful attack made as part of that full attack routine; if no attack is successful, no creature is targeted with the magic sphere effect and any spell points spent are wasted.
 
 **Author's Note:** "Instead" means if the spell effect is delivered with the first normal attack of your full attack action and not with the strike's "normal" attack; a spell delivered this way otherwise follows all the normal rules for a talent with the [strike] descriptor. This means that the Improved Spell Combat feat is not compatible with the Spell Attack champion feat.
-
-### Leveraged Magic (Combat) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Base attack bonus +1
-
-**Benefit:** Whenever you would deliver a spell effect which would allow for a combat maneuver as part of a melee attack, you may use your base attack bonus in place of your caster level and your Strength modifier in place of your casting ability modifier for the purpose of calculating your CMB. If you possess the Agile Maneuvers feat, you may use your Dexterity modifier in place of your casting ability modifier for this maneuver.
 
 ### Martial Aegis (Combat)
 
@@ -354,42 +282,11 @@ Using the sphere or supernatural ability provokes an attack of opportunity if it
 
 **Benefit:** Whenever you successfully deal damage to a target with your energy sphere, increase its duration by 1 round. You can only extend the sphere’s duration by up to a number of rounds equal to your Destruction caster level.
 
-### Persistent Onslaught (Combat) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Able Aiming, Determined Defense or Furious Focus
-
-**Benefits:** You do not take any penalties from Combat Expertise, Deadly Aim, Piranha Strike, or Power Attack on the second attack you make each turn. You still suffer the penalty on any additional attacks, including attacks of opportunity.
-
 ### Pierce The Veil (Combat)
 
 **Prerequisites:** Wis 13, base attack bonus +2.
 
 **Benefit:** When attacking a target with a miss chance granted from a spell, sphere effect, supernatural or spell-like ability, you may take a penalty to your attack roll to reduce the miss chance for that attack. Each -1 penalty to the attack roll you take reduces the miss chance by 10%. You cannot use this feat to take a penalty greater than half of your base attack bonus (rounded up).
-
-### Pooled Potency (Combat) [SM—]
-
-**Benefits:** Whenever you would roll a d20 with any sort of bonus you may reduce the bonus by the listed amount to add a bonus to the result equal to the corresponding die on the Added Die column of Table: Pooled Potency Die or replace the d20 with the corresponding die on the Altered Die column. You may not reduce the total of bonuses below 0, but may apply multiple penalties or multiple instances of the same penalty to apply up to two dice to the roll. Using a larger die does not change the weapon’s critical threat range (it does not threaten a critical hit on a 21 or any other number higher than 20)
-
-**Special:** You may take this feat multiple times. Each time, you may apply two additional dice to the roll.
-
-**Source:** Card Casting 3: Volatile Variance
-
-**Table: Pooled Potency Die**
-
-| Penalty | Added Die | Altered Die |
-| --- | --- | --- |
-| -2 | 1d4 | 1d24 |
-| -3 | 1d6 | - |
-| -4 | 1d8 | - |
-| -5 | 1d10 | 1d30 |
-| -6 | 1d12 | - |
-| -7 | 1d14 | - |
-| -8 | 1d16 | - |
-| -10 | 1d20 | - |
-| -12 | 1d24 | - |
-| -15 | 1d30 | - |
 
 ### Precision Bombardment (Combat)
 
@@ -441,14 +338,6 @@ Magical gateways are tools you can weaponize.
 
 **Benefit:** The penalty from Pressure Point Proficiency increases to -2 if you successfully hit the target a second time in the same round.
 
-### Puncturing Strike (Combat) [SM—]
-
-**Prerequisites:** any [strike] talent, one of Piercing Spell or Spell Penetration
-
-**Benefits:** When using a talent with the [strike] descriptor, any bonuses to bypass Spell Resistance from Spell Penetration, Greater Spell Penetration, or Piercing Spell are doubled.
-
-**Source:** Expanded Spheres: Weaves of War
-
 ### Rage Of The Grave (Combat)
 
 Your revenant-like anger fuels you even in death, granting you one last chance to take down your killers.
@@ -492,14 +381,6 @@ When one of your allies primes a technique, you respond immediately.
 **Prerequisite:** Combat Expertise.
 
 **Benefit:** Whenever you are benefiting from a dodge bonus to AC from Combat Expertise, you also gain a +1 competence bonus to saving throws. When your base attack bonus reaches +8, and every +8 thereafter, this bonus increases by +1.
-
-### Severing Critical (Combat, Critical) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Critical Focus, Base Attack Bonus +10
-
-**Benefits:** When you confirm a critical hit against a spellcaster, you temporarily sever the magical capabilities of the target, preventing them from casting spells or using supernatural or spell-like abilities. This effect lasts for 1 round per level, although a spellcaster may attempt a concentration check as part of casting a spell to surpass the effect and end it early (DC = 20 + ½ your base attack bonus + your Charisma modifier).
 
 ### Shape Expert (Combat)
 
@@ -568,14 +449,6 @@ Your aid fortifies your ally’s martial capabilities.
 You have learned how to create elaborate and unique actions.
 
 **Benefit:** You gain the ability to create techniques, as per the technique rules.
-
-### Telepathic Knell (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Mind Sphere
-
-**Benefits:** Whenever a creature that is under the effects of one of your Mind sphere effects or who was affected by one of your Mind sphere effects within the last round would be reduced to 0 hit points, you may spend a spell point as an immediate action to deal 1d6 damage per caster level to all creatures within 5 feet per 2 caster levels of the target (optionally including the original creature). A successful Will save against your Mind sphere DC negates this damage. You may choose whether this damage is nonlethal. This is a mind-affecting effect.
 
 ### Tether Adept (Combat)
 

@@ -88,12 +88,6 @@ The force that makes up your barriers are as durable as metal, if not even more 
 
 When you spend a spell point to make a ward last without concentration, it lasts 1 minute per caster level.
 
-#### Evasive Succor [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Whenever you use a succor talent on a creature, if an aegis was sacrificed, that creature gains the benefits of the evasion and stalwart abilities (regardless of armor worn) until the end of the current turn.
-
 #### Fortifier [3PP]
 
 You may apply an aegis or succor to an object as if it were a creature. If you possess the magic sink talent, you may apply an aegis to a non-instantaneous magical effect which is not targeting a creature or object (such as a Protection sphere barrier, a Warp sphere looped space, or a Destruction sphere energy sphere) as if it were a creature.
@@ -121,12 +115,6 @@ A glyph can be seen by effects that detect or sense magic, and can also be detec
 #### Greater Barrier
 
 You may fashion your barrier into a flat plane if you so choose. This wall must be contiguous and must begin adjacent to you, although it may extend as far out as close range (if you possess the Distant Protection talent, it must begin within close range and be contained within medium range), and can cover up to 1 10-foot square per caster level. This flat plane may be arranged vertically, horizontally, or along whatever angle you choose. In addition, when creating a barrier, you may spend an additional spell point to increase its Hit Points to 10 per caster level, double its maximum weight, and increase the Break DC by 10. The barrier’s hit points do not replenish, even if maintained through concentration.
-
-#### Instant Guard [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-You may apply an aegis to a target within range as an immediate action rather than a standard action. If you do, the duration of any aegis effect used in this way is reduced to 1 round. You may dismiss the aegis to fuel a succor talent as part of the same action to apply it.
 
 #### Instill Aegis [instill]
 
@@ -183,19 +171,6 @@ While a creature is under the protection of your shared aegis this way, you may 
 #### Status [utility]
 
 You always know the direction and distance to all creatures benefiting from your aegises and are aware of any conditions affecting them (confused, disabled, diseased, dying, nauseated, panicked, poisoned, staggered, stunned, unconscious, unharmed, wounded, etc.). If the target dies or moves to another plane of existence, this effect ceases to function.
-
-#### Threshold Guardian [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-Rather than covering an area, you may cause a ward you create to cover a specific doorway or portal within range. Anything that attempts to move through the doorway or portal is subject to your ward.
-You may spend a spell point as an immediate action to force all creatures attempting a saving throw against a ward you created within the last turn to roll twice and take the lower result.
-
-#### Ward Merger [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-Whenever one of your wards contains one of your other wards or the ward of an allied spellcaster within its area, the effects of each ward extends into the area of the other. This can be used to chain any number of wards together.
 
 ---
 
@@ -357,12 +332,6 @@ You may create an aegis that stabilizes the target against planar effects or eff
 
 ## Succor Talents
 
-#### Bewilder (succor) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-When an enemy you can perceive successfully affects a creature you have placed an aegis on with a targeting ability which does not require an attack roll, you may sacrifice an aegis they are bearing as an immediate action to cause the enemy to become shocked for 1 round per caster level (Will negates).
-
 #### Blast Shield (succor) [Alienist HB]
 
 As an immediate action, you may dismiss an aegis on an ally to give them energy resistance to all types of energy damage equal to your caster level until the beginning of your next turn. If the target already possesses energy resistance of a certain type, it instead increases by your caster level.
@@ -396,12 +365,6 @@ When a creature successfully hits a creature you have placed an aegis on with an
 #### Reflection (succor)
 
 When a creature with an aegis you created becomes the target of a spell or sphere ability that affects only them, you may spend a spell point and sacrifice an aegis they are bearing as an immediate action to attempt to counterspell the ability and redirect the effect. You attempt a magical skill check against the magical skill defense of the caster, and if successful, the sphere effect affects the caster as if they had been the original target. Any bonuses you or the other sphere caster have to counterspelling apply to this roll. The decision to do this must be made before any attack roll or saving throw is made.
-
-#### Secure (succor) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-When an enemy you can perceive makes an attack roll against the touch AC or flat-footed AC of a creature you have placed an aegis on, you may sacrifice an aegis they are bearing as an immediate action to cause all attacks to instead target the creature’s normal AC until the end of the current turn.
 
 #### Vengeance (succor)
 
@@ -469,16 +432,6 @@ When you create a glyph, you may place multiple glyphs in the same location as p
 
 **Source:** Card Casting 2: Counters and Control
 
-#### Mage’s Wager [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Protection Sphere (glyph, complex glyph (advanced)), caster level 10th
-
-When one or more willing targets within close range agree to play some sort of game with you or engage under established rules, you may create a glyph which, rather than applying over a set location, instead targets one or more agreeing creatures (or areas centered on them). Any targets must be aware that they are engaging under specific parameters and must know of any rules they are agreeing to, though they need not know the effects of the glyph. The decision as to which targets are chosen is based on parameters decided when the glyph is created and must be based on the outcome of the game (for example, the winner from among the game played between the targets or the first character to cheat at such a game). Creatures that agree to a mage’s wager are not allowed a saving throw against any effects that it may create. Creatures that did not willingly agree to the mage’s wager are immune to any effects that it may create. If a mage’s wager is not triggered after the game ends, the glyph ends automatically.
-
-If you possess the layered glyph talent, multiple glyphs created using mage’s wager may be activated within the same turn and may even target the same target or location.
-
 #### Permanent Ward
 
 **Prerequisites:** Protection sphere (Enduring Protection), caster level 10th.
@@ -537,16 +490,6 @@ Whenever you create a Spell Ward as an aegis or ward, you may spend an additiona
 
 Alternatively, you may choose to have your Spell Ward apply to all spheres except the chosen spheres or to have your Spell Ward apply only against spells from a specific source such as divine or arcane (see the High Magic Handbook pg. 17 for rules on distinct magic types). If you choose either of these options, this talent cannot be used with the Antimagic Aura talent. If two instances of Spell Selectivity would attempt to negate each other, the casters roll opposed magical skill checks, with the lower roller having their instance of the ability suppressed.
 
-#### Stability Bottleneck [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Protection sphere (Spell Selectivity, Spell Ward (aegis, ward)), caster level 10th
-
-When you use Spell Selectivity to affect one or more specific spheres or schools of magic, you may instead choose to only affect magic effects which are above, below, or between certain thresholds of wild magic chance. For example, you may choose to have the spell ward only affect magic effects with a 0% wild magic chance, only effects with a 50% wild magic chance or higher, or only effects with a wild magic chance ranging from 100% to 299%.
-
-If you use Spell Selectivity to affect magic effects with a 0% wild magic chance, this talent cannot be used with the Antimagic Aegis talent.
-
 #### Subtle (aegis)
 
 **Prerequisites:** Protection sphere, caster level 5th.
@@ -557,14 +500,6 @@ The effect is such that these abilities can not target the character properly wi
 
 Abilities that rely on the caster choosing targets are not affected by this aegis, even if that ability only works on certain targets (such as a paladin’s smite evil ability), and this does not give the bearer any special concealment from creatures using magical senses. Area effect abilities are also still effective against the creature, provided the effect affects every creature, or affects every creature save for those specifically made invulnerable by the caster.
 
-#### Tripped Glyph [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Protection Sphere (Glyph, Rapid Glyph (advanced))
-
-When you create a ward, you may spend two additional spell points to infuse a glyph into the ward. The glyph triggers when a creature is forced to make a saving throw against the ward’s effects or when the ward is dealt damage, with the glyph’s effect being centered on the creature which attempted to save against or damage the glyph..
-
 #### True Protection
 
 **Prerequisites:** Protection sphere, caster level 10th.
@@ -574,14 +509,6 @@ Whenever you create an aegis or ward, you may tie it to a specific creature. Aga
 To be used, the caster must be able to uniquely identify the creature. If the caster has met the target, this is sufficient, otherwise they require some other means of identifying the creature. Having a sample of the creature’s blood or tissue works, or having the creature’s true name, but a description of the creature is not sufficient.
 
 The GM is the ultimate adjudicator of what is required.
-
-#### Unanswerable [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Protection sphere (Energy Resistance (aegis, ward)).
-
-You may select force damage and untyped damage as energy types to resist with Energy Resistance. Resistance to untyped damage grants resistance to holy damage, unholy damage, anarchic damage, axiomatic damage, and divine damage (such as from the *flame strike* spell)
 
 #### Undying (aegis)
 
@@ -599,25 +526,9 @@ This aegis does not protect against other sorts of attacks, even if those attack
 
 You may grant the target an aegis that makes them undetectable through divination magic of any sort. Any magical attempt to gather information on the target (including scrying, effects that detect invisibility, detect alignment, or even miracle and wish spells when used in a similar manner) automatically fails. In the case of scrying that does not directly view the bearer of this aegis (such as instead scanning the area they happen to be in), the spell or effect works normally, but the creature is not detected.
 
-#### Voiding Suppression [SM—]
-
-**Prerequisites:** Protection sphere (Spell Selectivity, Spell Ward (aegis, ward)), caster level 10th.
-
-When you use Spell Selectivity to affect one or more specific spheres or schools of magic (rather than affecting all except a chosen number of spheres), you may instead select a specific number of spell points (including 0 spell points). All magic sphere effects which cost exactly that number of spell points to cast are affected by the spell ward.
-
-**Source:** Card Casting 3: Volatile Variance
-
 ---
 
 # Protection Sphere Feats
-
-#### Arcane Fetters (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Creation Sphere (Restrictive Casting), Protection Sphere (Distant Protection)
-
-**Benefits:** Whenever you create an object on or around a creature using Restrictive Casing, you may apply the effects of a ward you can create to any creature that is bound by the object. The ward lasts for as long as the created object is not broken (up to the maximum normal duration), only affects the bound creature, and moves with them.
 
 #### Benevolence (Dual Sphere)
 
@@ -668,14 +579,6 @@ When creating a non-trick glamer you may also grant the effects of a single aegi
 **Benefit:** You gain a (succor) talent that lets you sacrifice an aegis borne by an ally other than yourself to swap places with them by teleporting. They must be within range of your teleport ability, but you do not need to be normally able to teleport others.
 
 The ally must be willing or unconscious. This may be done in response to an attack before the results of the attack are determined. If so, the attack changes target to whomever is now occupying the space now occupied by the original target. The attack is not rerolled.
-
-#### Dynamic Wallcrafter [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (energy wall) or Protection Sphere (greater barrier)
-
-**Benefits:** As a move action, you may move an energy wall or barrier you create up to 20 feet + 5 feet per 5 caster levels. You may also reshape the energy wall or barrier within its parameters as part of this action.
 
 #### Energy Reflection
 

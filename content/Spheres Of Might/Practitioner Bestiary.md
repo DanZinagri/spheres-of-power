@@ -64,14 +64,6 @@ You may deliver any poison you possess through your bite or sting natural attack
 
 ### Athletics
 
-#### Bestial Mobility [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Athletics Sphere (mobile striker or skillful charge)
-
-Whenever you could use an attack action using mobile striker or skillful charge, you may instead use a single supernatural or extraordinary ability gained from your racial hit dice and normally usable as a standard action. If the ability has limited uses, this consumes the use as normal. You may spend martial focus to use a single supernatural or extraordinary ability that normally requires a full-round action in place of an attack action when using mobile striker or skillful charge.
-
 #### Compact Girth [SA:MT2]
 
 **Prerequisites:** Athletics sphere (Canny Compression) or Athletics sphere, compression universal monster ability.
@@ -109,16 +101,6 @@ Whenever you strike an opponent with a claw natural attack, their CMD against gr
 Whenever you successfully strike a single opponent with two wing natural attacks in the same round, you may make a bull rush check against them as an immediate action that does not provoke attacks of opportunity. If you are size Large or larger, whenever you first fly in a round where you started on the ground, you may make a single bull rush attempt as a free action that does not provoke attacks of opportunity against each creature within 15 ft., plus 10ft. for each size category you are above Large, rolling your combat maneuver check once and comparing the result to the CMD of all affected creatures.
 
 ### Dual Wielding
-
-#### Bestial Onslaught [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Dual Wielding Sphere
-
-You may activate your dual attack ability off of a single supernatural or extraordinary ability gained from your racial hit dice used as a standard action. You suffer your dual attack penalty to the off-hand attack and may make the off-hand attack before or after you use this ability. If the ability requires an attack roll, you suffer your dual attack penalty to the attack and cannot make more than one attack as part of using that ability. If the ability requires a saving throw, the save DC is reduced by an amount equal to half your dual attack penalty (minimum 1).
-
-You may spend martial focus to use your dual attack ability off of a single supernatural or extraordinary ability gained from your racial hit dice used as a full-round action.
 
 #### Multi-Limbed Combat [Apoc]
 

@@ -72,12 +72,6 @@ In addition, as long as you have the drunk status, whenever you attempt a Percep
 
 The range increment of improvised weapons you wield is increased to 20 feet for two-handed weapons, 30 feet for one-handed weapons, and 50 feet for light weapons. Additionally, you may break a weapon to make a ranged attack action as if it were a scatter weapon with a range of 15 feet.
 
-#### Chair Thrower [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You may treat thrown rocks (such as those thrown with the Rock Toss talent from the Equipment sphere or from the Rock Throwing special ability) as improvised weapons for the purpose of Barroom sphere talents.
-
 #### Charming Drunk [utility]
 
 As long as you have the drunk status, you gain a +2 competence bonus to Bluff, Diplomacy, and Perform checks, increasing by +1 for every 3 base attack bonus you possess. You may also expend your drunk status as a free action to reroll a Bluff or Diplomacy check, but you must take the new result, even if it is worse. If you do so, you take a -5 on Bluff and Diplomacy checks for the next 10 minutes.
@@ -181,12 +175,6 @@ The table below are suggestions for how long it takes to consume meals of variou
 | Common | 1 minute |
 | Good | 10 minutes |
 | Banquet | 1 hour |
-
-#### Rapid Drinker [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-As a swift action, you may retrieve an alcoholic drink, elixir, or potion (but not extract) from your person or grab one within your natural reach and drink it, all without provoking an attack of opportunity. You may expend martial focus to do this as a free action. On any turn that you use this ability, you cannot also drink something as a move action.
 
 #### Surprise
 
@@ -380,14 +368,6 @@ As long as you possess the drunk status, whenever you receive damage, you may co
 
 Whenever you imbibe a non-magical alcoholic drink, you regain an amount of hit points equal to your base attack bonus; this healing cannot increase your hit points above 1/2 of your maximum hit points. At +10 base attack bonus, this healing can instead not increase your hit points above 3/4 of your maximum hit points.
 
-#### Healing Ingestion [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Barroom Sphere (Chasing the Dragon)
-
-Upon ingesting a drug—including those conjured by the create drug spell—you heal an amount of damage determined by the severity of that drug’s base addictiveness: 1d6 for minor, 2d6 for moderated, 3d6 for major. Additionally, when taking a drug that requires you to make a save against any effects other than addiction, you may choose to automatically succeed at such saves.
-
 #### Magic In The Spirits
 
 **Prerequisite:** Barroom sphere, base attack bonus +4.
@@ -405,14 +385,6 @@ As long as you have the drunk status, you gain a +2 bonus to saving throws and A
 You can expend your drunk status as a free action to be treated as having no alignment for any harmful effect reliant on it for 1 round per 2 points of base attack bonus you possess.
 
 **Associated Feat:** Muddled Morals (*Inner Sea Taverns*).
-
-#### Opportunistic Drinker [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Barroom Sphere
-
-Whenever you would be able to make an attack as a free action, immediate action, or attack of opportunity, you may choose to instead retrieve an alcoholic drink, elixir, or potion (but not extract) from your person or grab one within your natural reach and drink it, all without provoking an attack of opportunity.
 
 #### Perfect Relaxation
 
@@ -435,16 +407,6 @@ At +15 base attack bonus, the fast healing becomes regeneration (cold or negativ
 You gain a dodge pool equal to 40% + 10% per 3 points of base attack bonus you possess for a number of rounds equal to your practitioner modifier. Whenever you are attacked, you may reduce the dodge pool by any amount in increments of 5% to gain an equivalent amount of miss chance (maximum 50%) against the attack. This miss chance does not stack with other non-concealment miss chances.
 
 If you use this talent and already have a dodge pool from this talent (such as from a prior use), your dodge pool refills instead of granting you an additional pool.
-
-#### Torch Swinger [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Barroom Sphere
-
-Whenever you are wielding an improvised weapon that is dangerously hot, cold, electrified, or acidic, your attacks with the weapon deal 1d6 additional points of fire, cold, electricity, or acid damage (as appropriate). This damage increases by an additional 1d6 for every 6 points of base attack bonus you possess.
-
-As long as you have martial focus, you may light an object on fire as part of the action to pick them up.
 
 ---
 

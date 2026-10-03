@@ -228,32 +228,11 @@ There are a number of situations in which the rules for Spheres Monster Conversi
 
 The following are feats that are intended to be used by monsters. Feats with the (Monster) tag use the rules presented in *Horror Adventures*, and should generally only available to PCs with the GM's permission. For more information, see [monster feats](https://www.aonprd.com/Feats.aspx?Category=Monster) (Archives of Nethys).
 
-### Ability Escalation (Monster) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** At least five racial hit die.
-**Benefits:** For every 5 racial hit dice you possess, the saving throw DCs of all of your abilities from racial hit dice (including spell-like abilities) and templates gain a +1 enhancement bonus. This feat’s effects do not apply to any magic spheres for which you have an enhancement bonus to your caster level.
-
-### Ability Escalation, Improved (Monster) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** At least ten racial hit die.
-**Benefits:** The saving throw DC bonus from Ability Escalation improves by 1, plus an additional 1 for every 10 racial hit dice beyond the first 10 you possess.
-
 ### Breath Weapon Wall (Breath) [SB:D(C)]
 
 **Prerequisites:** Draconic breath weapon racial trait, character level 3rd.
 
 **Benefit:** You may reduce the damage die of your breath weapon by 1 step to change the effect of your breath weapon to a non-instantaneous duration of a number of rounds equal to your Constitution modifier. Creatures who enter or end their turn inside the breath weapon area suffer damage and effects as normal (including any saving throws the breath weapon normally provides). Creatures caught within the breath weapon's area when it is created are immediately subjected to the breath weapon as if they entered the area.
-
-### Broad Elevation (Monster) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Elevated Casting x2
-**Benefits:** The benefits of Elevated Casting apply to all of your spell-like abilities, not just the chosen spell-like abilities.
 
 ### Effortless Magic (Monster) [SB:A]
 
@@ -262,16 +241,6 @@ The following are feats that are intended to be used by monsters. Feats with the
 **Benefit:** Choose one magic sphere. When creating a sphere effect using that magic sphere, its total spell point cost is reduced by 1 (minimum 0).
 
 **Special:** You may take this feat multiple times, selecting a different magic sphere each time.
-
-### Elevated Casting (Monster) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** At least one spell-like ability
-
-**Benefit:** Choose a spell-like ability you possess. That spell-like ability is automatically heightened (as per the Heighten Spell feat) to a level equal to half your caster level for the spell-like ability.
-
-**Special:** You may select this feat multiple times, each time selecting a different spell-like ability.
 
 ### Exalted Among Kin (Monster) [FotC]
 
@@ -326,14 +295,6 @@ Animal companions, cohorts, Conjuration sphere companions, drake companions, eid
 **Prerequisites:** Mind sphere (Mass Charm [mass]), Innate Magic (one {charm effect attached to a Mental Aura), Mental Aura, casting class feature or racial spherecasting.
 
 **Benefit:** The effect of any mental aura on your body is so potent that images of the form carry its effects. Any creature observing a sufficiently detailed image of you (such as a photograph, scrying image, or an artistic representation with a Craft DC of 25 + the mental aura’s caster level) from within 5 feet per 2 caster levels of the image (minimum 5) must save against the effects of the mental aura.
-
-### Resistance Escalation (Monster) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** At least four racial hit die.
-
-**Benefits:** For every 4 racial hit dice you possess, you gain a +1 resistance bonus to all saving throws.
 
 ### Summon Kin (Monster) [FotC]
 
@@ -1989,92 +1950,6 @@ LN Medium humanoid (samsaran)
 **Environment** any land
 **Organization** solitary or clan (3-12)
 **Treasure** NPC gear, other treasure
-
-### Sentinels [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Sentinel, Plutonium (CR 12)**
-**XP** 19,200
-N Large construct
-**Init**+0;**Senses**darkvision 60 ft., low-light vision;**Perception** +0
-**Aura** radioactive (10 ft. DC 18)
-**Defense**
-**AC**28,**touch**28,**flat-footed** 27 (+19 natural, –1 size)
-**hp** 123 (17d10+30)
-**Fort**+5,**Ref**+5,**Will** +5
-**Defensive Abilities**multilayered body;**DR**10/-;**Immune** construct traits, magic
-**Offense**
-**Speed** 20 ft.
-**Melee** 2 slams +26 (2d10+9 plus irradiate)
-**Space**10 ft.,**Reach** 10 ft.
-**Special Attacks** berserk, breath weapon (30-ft cone, 12d6 fire plus irradiate, Reflex DC 18, usable every 1d4 rounds), irradiate
-**Statistics**
-**Str**28,**Dex**10,**Con**—,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+17;**CMB**+28;**CMD** 38
-**SQ** death throes, glow
-**Special Abilities**
-
-**Berserk (Ex):** When a plutonium sentinel enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the sentinel goes berserk. This chance resets to 0% after one minute of inactivity. A berserk sentinel attacks the nearest living creature or smashes some object smaller than itself if no creature is within reach. Once it goes berserk, no known method can reestablish control.
-
-**Death Throes (Ex):** When a plutonium sentinel is reduced to 0 or fewer hit points, it explodes. All creatures within a 20-foot burst take 6d6 points of piercing, slashing, and bludgeoning damage and 6d6 points of fire damage while being exposed to the plutonium sentinel’s irradiate ability. A successful DC 18 Reflex save results in half damage and negates the irradiation. The save DC is Constitution-based.
-
-**Immunity to Magic (Ex):** A plutonium sentinel is immune to any spell or spell-like ability that allows spell resistance. Certain spells and effects function differently against the creature, as noted below.
--If targeted with remove radioactivity, the plutonium sentinel is slowed (as the slow spell) for 3 rounds (no save), but if the caster also succeeds at a caster level check against the DC of the sentinel’s radioactive aura, the sentinel is also flat-footed and its radiation aura is disabled for the same duration.
--The irradiate spell ends any slow effect on the sentinel, and it regains a number of Hit Points depending on the radiation level (3d8 for low, 6d8 for medium, 9d8 for high, and 12d8 for severe). If the amount of healing would cause the sentinel to exceed its maximum Hit Points, it gains any excess as temporary Hit Points which last for 1 minute.
-
-**Glow Aura (Ex):** A plutonium sentinel sheds light as a torch.
-
-**Irradiate (Su):** Whenever a creature is hit by the plutonium sentinel’s slam attack or fails thier saving throw against the plutonium sentinel’s slam attack, they are exposed to high radiation. The save DC against the effects of radiation, rather than using the base save DC, is equal to 10 + 1/2 the plutonium sentinel’s Hit Dice + the plutonium sentinel’s Constitution modifier (typically 18).
-
-**Multilayered Body (Ex):** An plutonium sentinel adds its natural armor bonus to its touch AC.
-
-**Radioactive Aura (Ex):** A plutonium sentinel exudes high radiation out to 10 feet. The save DC against the effects of radiation, rather than using the base save DC, is equal to 10 + 1/2 the plutonium sentinel’s Hit Dice + the plutonium sentinel’s Constitution modifier (typically 18). A new saving throw must be attempted to resist radiation’s initial damage each round a victim remains exposed to it.
-
-**Construction**
-A plutonium sentinel’s body must be crafted from 4,000 pounds of plutonium (or abysium) that costs 10,00 gp.
-
-**PLUTONIUM SENTINEL**
-**CL**16th;**Price** 140,000 gp
-**CONSTRUCTION**
-Requirements Craft Construct, geas/quest, irradiate, limited wish, creator must be at least caster level 15th; **Skill**Craft (glass or sculpture) DC 25;**Cost** 80,000 gp
-
-**Sentinel, Siccatite (CR 8)**
-**XP 4,800**
-N Large construct
-**Init**+0;**Senses**darkvision 60 ft., low-light vision;**Perception** +0
-**Aura** energy field (10 ft., 1d6)
-**Defense**
-**AC**21,**touch**9,**flat-footed** 21 (+12 natural, –1 size)
-**hp** 85 (10d10+30)
-**Fort**+3,**Ref**+3,**Will** +3
-**DR**10/adamantine;**Immune** construct traits, cold or fire, magic
-**Weaknesses** vulnerable to cold or fire
-**Offense**
-**Speed** 30 ft.
-**Melee** 2 slams +14 (2d6+5 plus 2d6 energy)
-**Space**10 ft.,**Reach** 10 ft.
-**Statistics**
-**Str**20,**Dex**11,**Con**—,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+10;**CMB**+16;**CMD** 26
-**SQ** Energy Shift
-**Special Abilities**
-
-**Energy Field (Su):** A siccatite sentinel is surrounded by an aura of either intense heat or intense cold, depending on the state of its energy shift. At the beginning of the sentinel’s turn, all creatures within 10 feet take 1d6 points of fire damage if it is fire-attuned or 1d6 points of cold damage if it is cold-attuned.
-
-**Energy Shift (Su):** A siccatite sentinel has two states that are shifted between when it is affected by certain spells (see Immunity to Magic). A siccatite sentinel that is just created or just encountered has a 50% chance of being in either its cold-attuned state or its fire-attuned state.
--While in its fire-attuned state, a siccatite sentinel is immune to fire, deals fire damage with its energy field, deals 2d6 additional fire damage with its slam attacks, and is vulnerable to cold.
--While in its cold-attuned state, a siccatite sentinel is immune to cold, deals cold damage with its energy field, deals 2d6 additional cold damage with its slam attacks, and is vulnerable to fire.
-
-**Immunity to Magic (Su):** A siccatite sentinel is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the sentinel, as noted below.
--A spell that deals fire damage affects the siccatite sentinel normally if it is cold-attuned. After taking the damage, the siccatite sentinel becomes fire-attuned.
--A spell that deals cold damage affects the siccatite sentinel normally if it is fire-attuned. After taking the damage, the siccatite sentinel becomes cold-attuned.
-
-**Construction**
-A siccattie sentinels’s body is assembled from siccatite weighing at least 2,000 pounds. Preparing the siccatite requires the use of exotic unguents that cost 2,500 gp.
-**CL**11th;**Price** 44,000 gp
-**CONSTRUCTION**
-**Requirements**Craft Construct, animate object, elemental body I., creator must be caster level 11th;**Skill**Craft (metalworking) DC 22;**Cost** 24,500 gp
 
 ### Treant, Wyrgrove (CR 10)
 

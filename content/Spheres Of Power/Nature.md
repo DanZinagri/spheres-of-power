@@ -406,22 +406,6 @@ When using Affect Fire or Create Fire, increase the space the fire occupies as i
 
 Finally, when using Magnetize you may target a 5-foot radius + 5 feet per 5 caster levels area instead of a single target. When used in this way, Magnetize becomes a concentration effect. Any target who enters or begins their turn within this area is attacked by the metal object, as if using the Magnetize ability. These attacks are not attack actions. A single creature can only be attacked once per round in this way, no matter how many times they pass through the affected area during their movement. While this effect is active, attempting to grab or impede the Magnetized object requires a successful grapple (CMD equals 10 + your caster level + your casting ability modifier + any size benefit or penalty from the object).
 
-#### Instant Burial (geomancing) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-As a standard action or immediate action whenever a creature within range of your geomancing would die, you may spend a spell point to create a coffin around a dead body or willing creature. The coffin is up to 1 inch thick per caster level on all sides and can be made of either stone (if you possess the earth package), iron (if you possess the metal package), wood (if you possess the plant package), or ice (if you possess the water package). You may choose whether the coffin is solid or has holes, openings, or lids.
-
-In addition, you may bury the coffin up to 1 foot beneath the ground per caster level, sending it through materials corresponding to your possessed packages (stone and earth for the earth package, metal for the metal package, plant matter for the plant package, and ice for the water package).
-
-If you possess the water package, you may have the coffin immediately sink to the bottom of a body of water before being buried.
-
-If you possess the fire package, you may cremate the body in addition to or in place of burying it, dealing damage to the body equal to the damage dealt by the largest fire you can create using create fire.
-
-If you possess the air package, you may fill the coffin with breathable air (as the purify air ability of the air package) as part of creating the coffin.
-
-If you have the Death sphere, you may target the corpse with a delayed reanimate effect as part of the action to dispose of it, reanimating the corpse up to 1 week after you bury it (the corpse cannot be reanimated for a minimum of 1 minute after you bury it).
-
 #### Manipulate Nature (geomancing)
 
 You may manipulate the elements to take on different shapes. The types and forms you can create are determined by your Nature packages, as outlined below:
@@ -975,13 +959,6 @@ When using metal geomancing talents or abilities limited by your Recover Ore siz
 **Prerequisites:** Nature sphere ((earth) package and (water) package).
 
 **Benefit:** When using either the (earth) package or the (water) package within close range of both land and a substantial body of water (such as a lake, river, ocean, or sea), you gain a +2 bonus to your caster level for those geomancing abilities.
-
-#### Elemental Eye (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Divination Sphere (viewing), Nature Sphere
-**Benefits:** When you create a viewing sensor, you may reduce the spell point cost of the effect by 1 to restrict the appearance of the viewing sensor to a specific element whose package you possess within range. The sensor appears attached to the nearest body of that element within close range of the target or area and of at least tiny size (such as a puddle for water, an open flame for fire, or a stone wall for earth) and cannot move beyond that body (though it can move freely within the flame, puddle, or wall). In the case of the air element, your sensor must appear in a space with air but with no other objects or creatures larger than tiny size within 30 feet. If the body is destroyed or reduced below tiny size, the sensor ends.
 
 #### Fan The Flame (Dual Sphere)
 

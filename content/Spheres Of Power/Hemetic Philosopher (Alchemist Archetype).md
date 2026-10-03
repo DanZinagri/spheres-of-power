@@ -16,8 +16,6 @@ parent: "[[Spheres Of Power]]"
 
 A hemetic philosopher learns to unlock the hidden potential of blood through the application of alchemy.
 
-This archetype requires [[Sphere Alchemist|sphere alchemist]] or [SM—] [[Champion Alchemist 3PP|champion alchemist]].
-
 ### Class Skills
 
 The hemetic philosopher gains Knowledge (all) (Int) as class skills.

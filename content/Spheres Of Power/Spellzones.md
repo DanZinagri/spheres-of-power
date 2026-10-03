@@ -140,12 +140,6 @@ If one uses Counterspell to suppress a passive spellzone effect which does not t
 
 Destroying a spellzone is often a much more intensive affair than simply suppressing it. A spellzone is destroyed if at any point it creates no effects, so the most common method of destroying those without a physical touchstone is taking control and removing spell effects one by one. However, powerful incantations (often involving an artifact as a focus or even a material component) can be performed to destroy a spellzone completely.
 
-### Moving a Spellzone Pre-Activation [SM—]
-
-**Source:** Baron’s Secluded Library
-
-If a Spellzone has the physical touchstone weakness, the touchstone may be moved after the spellzone is completed but while the spellzone remains inert and inactive. While dormant in this way, the spellzone may be activated by any conditions established by the creator (identical to the parameters of the Contingency feat).
-
 ---
 
 # Sample Spellzones

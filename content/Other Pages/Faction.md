@@ -271,15 +271,6 @@ You must have the (supply) package to gain (supply) talents. They allow you to r
 
 ## Faction Talents
 
-#### Assisted Upkeep [utility] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Note:** This talent requires you to be running the Downtime rules (Pathfinder Roleplaying Game: Ultimate Campaign) to be taken.
-
-When a room you own gains the broken condition, you may repair it for half the normal cost in gold pieces and other capital, rounded up. You may use your faction’s permanent resources to pay for repair of your rooms and for the hiring of teams. Additionally, buildings and organizations you’ve created are not affected by capital attrition until 1 month of your absence, plus an additional month for every 5 ranks you possess in an associated skill. From that point, capital attrition affects your buildings and organizations as normal.
-**Associated Feat:** Superintendent
-
 #### Extra Faction Package
 
 You gain the Faction sphere package you do not already have. When you requisition a retainer, you can have the faction equip your retainer in a manner equivalent to an NPC of their level by spending an additional 1 authorization when you request them (see NPCs in Pathfinder Roleplaying Game Core Rulebook or NPC stat blocks in the Pathfinder Roleplaying Game NPC Codex or Pathfinder Roleplaying Game: GameMastery Guide for examples). You also gain the new package’s skill as an additional associated skill for this sphere.
@@ -290,17 +281,6 @@ You gain the following requisition options:
 
 - **Archive Access:** Access your faction’s stores of information, which might take the form of a library, record vault, holy texts, venerated storytellers, ancestor spirits, or the familiars of elder witches. Your allies can accompany you to consult the faction archives only as long as you remain with them. Consulting your faction archives for 1 hour or longer grants a +3 circumstance bonus on one Knowledge or Lore check related to the faction’s interests due to librarian aid and the detail of the archives. The circumstance bonus increases by 1 for every 4 ranks in the associated skill you have. These archives often include guarded secrets about the organization, its allies, its rivals, and local power players (although some secrets might be kept outside the archives).
 - **Researcher (1 Authorization):** Assign an archivist to research facts and lore on one topic for you. They make one Knowledge check with a result of 20 + your associated skill’s ranks. The bonus from the faction’s archives apply to this check if relevant.
-
-#### Government Contracting [utility] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Note:** This talent requires you to be running the Kingdom rules (Pathfinder Roleplaying Game: Ultimate Campaign) to be taken.
-
-Choose a building in your kingdom you are leading as your center of power. For every kingdom turn in which you continue to assign that building as your center of your power, it receives special aid from your faction. The benefits that building grants to your kingdom’s Economy, Fame, Loyalty, and Stability are doubled and any penalties are negated. This talent does not allow a building to grant benefits it does not normally provide, and has no effect on a building’s other effects. Once per year, you may change which building is your center of power.
-
-You may select this talent multiple times, each time increasing the number of centers of power you may designate at a time by 1.
-**Associated Feat:** Center of Power
 
 #### Information Broker [utility]
 
@@ -548,16 +528,6 @@ Your item requisition can be for any wondrous item available in your faction’s
 
 # Exceptional Talents
 
-#### Afterlife Insurance [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Faction sphere
-
-Your faction has prepared certain measures for your death. Unless your soul is promised to another power, your soul is transported to your faction’s custody upon death and you can be resurrected as if your body was intact. While your faction has custody over your soul, you cannot use your abilities or leave your faction’s headquarters but are able to communicate as normal.
-
-By spending 5 authorizations, you may requisition a temporary resurrection from your faction. This resurrected state grants no negative levels but lasts only for 24 hours before the body decomposes and your soul returns to the faction.
-
 #### Bound Retainer (retainer)
 
 **Prerequisites:** Knowledge (arcana) or Knowledge (religion) 10 ranks, Faction sphere ((retainer) package).
@@ -596,18 +566,6 @@ You can requisition a war wizard or other magical mercenary as your retainer.
 **Role 1 Authorization**Cast up to to one spell per rank in the associated skill within 4 hours’ travel, avoiding hostile strongholds like dungeons (noncombatant without equipment),**2 Authorizations**Defend a defensible position or travel far overland to cast spells while avoiding dungeons or other hostile strongholds (combatant with equipment),**3 Authorizations** Fight in any other combat (without likely death or betraying the faction) (combatant with equipment);
 **Skills**(1 primary, 3 secondary) Knowledge (arcana, nature, planes, or religion, chosen individually), Spellcraft;**Statistics** The mercenary uses standard statistics and equipment for an NPC of a class suitable to provide the faction’s spellcasting services, with character level up to your retainer Hit Dice maximum.
 
-#### Production Budget (retainer, supply) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Faction sphere
-
-If you possess the (retainer) package, you may have any retainer you requisition gain Craft (any one) or Spellcraft as a primary skill. The retainer also gains Cooperative Crafting and a single Item Creation feat that you possess, even if they do not meet the prerequisites.
-
-If you possess the (supply) package, your item requisition may be for raw materials which you use in the crafting of items. If you are using the materials to craft a permanent item (such as magic armor), the money is deducted from your permanent resource budget. If you are using the materials to craft a temporary item (such as a scroll), the money is deducted from your temporary resource budget. Raw materials requisitioned for crafting a specific type of item cannot be used to craft other types of items, and you must specify the type of item you are creating when you requisition.
-
-If you possess both this talent and the Eldritch Supplies feat, whenever you requisition magic item crafting components, you also obtain a single casting of one spell that your faction’s spellcasting can provide at no cost. This spell must be used in the crafting of the item.
-
 #### Remote Requisition [utility] (Sp)
 
 **Prerequisites:** Associated skill 3 ranks, Faction sphere.
@@ -627,14 +585,6 @@ If you have the Travel Papers talent, a traveling requisition arrives to anywher
 You can requisition two combatant retainers at a time. You must pay the authorization costs for each retainer, and the maximum level or Hit Dice for each one is reduced by 1 while you have two of them.
 
 You can take this talent a second time. If you do, having two retainers does not reduce their maximum level. You can also choose to requisition a third combatant retainer, but if you do all three have their maximum level or Hit Dice are reduced by 1 each.
-
-#### Secure Transit (supply) [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Faction sphere (safe house, travel papers)
-
-You may have your safe house take a mobile form such as a caravan, a large ship, or other form of transportation that your faction could provide through the travel papers talent. This mobile safe house is secured in the same way as a normal safe house, covers the same total area, and benefits from any talents that improve your safe house (such as Assured Lifestyle and Restful Refuge).
 
 #### Skilled Mercenary Retainer (retainer, supply)
 
@@ -671,12 +621,6 @@ If your game uses reputation and fame, you gain 5 Fame (but no Prestige Points),
 If your game uses organizational influence, your sway with your faction cannot fall below rank 1. Your minimum sway rises by 1 for every three talents you spend in the Faction sphere (not counting talents from sphere-specific drawbacks; maximum rank 4).
 
 When you change the faction this sphere is linked to, you can transfer the fame and sway from one faction to the other.
-
-#### Otherworldly Faction [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Your faction is made up of outsiders, spirits of the dead, or other creatures that cannot interact with the material world in a conventional manner. Any retainers you requisition cannot perceive, affect, or interact with any creatures other than you or any objects not in your possession (they can still be seen and harmed as normal). You gain a single (retainer) talent from this drawback.
 
 #### Start-Up
 

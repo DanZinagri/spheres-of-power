@@ -111,12 +111,6 @@ A creature that enters or begins their turn in a corralled square takes a -1 pen
 
 When used with the Vertical Dredging talent, any corralled cubes that do not touch the ground only affect flying creatures.
 
-#### Defile the Sacred [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-If a creature is in possession of a holy symbol or other instance of religious iconography, you may harvest and defile the item using the same amount of time that it takes to harvest a component. A defiled holy symbol may count as any one refined component that you can create from the creature’s corpse (even if the creature does not possess the body parts necessary to create certain refined components), save that it treats all creatures that share the holy symbol’s religion as the associated creature type in place of the normal associated creature type. At GM discretion, emblems of a specific organization may be used in place of holy symbols, with the associated creature type becoming members of that organization.
-
 #### Early Hunt [plan] [DRS]
 
 **Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
@@ -731,14 +725,6 @@ You cannot harvest components from corpses, and gain the Humane Survivalist tale
 You do not gain the talisman (harvest) talent, and cannot create talismans. You gain a (harvest) talent instead.
 
 **Author's Note:** This sphere-specific drawback can be taken as a [utility start] if the talent(s) gained as part of the drawback are [utility] talents.
-
-#### Iconoclast [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Harvest package.
-
-You may not harvest body parts from creatures, only holy symbols. You gain Defile the Sacred as a bonus talent.
 
 #### Resourceful Laborer [alternate start]
 

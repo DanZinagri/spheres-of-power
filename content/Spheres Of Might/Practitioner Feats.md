@@ -38,30 +38,6 @@ The shark’s frenzy turns to a churning rage.
 
 Upon impact, the creature falls prone and takes normal falling damage (maximum: 1d6 per 10 ft. in its falling speed). A falling creature is considered entangled until it hits the ground, but it can attempt a Fly check as a free action at the start of its turn to stop falling before it hits the ground (DC = 15 + your base attack bonus); otherwise, it is unable to move (other than falling) but can act normally. You can choose to descend with the opponent, although this movement cannot exceed two times your normal flight speed.
 
-#### Agitating Scout [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Guardian Sphere (challenge package, Swift Guardian), Scout sphere
-
-**Benefit:** When you scout a creature as a swift action, you may also challenge them as part of the same action. You may not challenge more than one creature with a single swift action.
-
-#### Amateur Striker (Combat) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Con 13, No levels in a class that has the tension class feature.
-
-**Benefits:** You gain a small amount of tension and the ability to perform a single tension technique.
-
-Choose a tension technique from the striker’s tension techniques class feature. Once chosen, this tension technique can’t be changed.
-
-Choose either Offensive Pressure, Defensive Determination, or Maneuvering Momentum. You may gain tension as a 1st-level striker using only the chosen method, with a maximum pool of tension equal to your Constitution modifier.
-
-You may treat your base attack bonus as your striker level for the purpose of being able to select the extra striker art feat.
-
-**Special:** If you gain levels in a class that has the tension class feature, you can immediately trade this feat for a combat feat of your choice.
-
 #### Backup Breaker (Combat) [Alienist HB]
 
 **Prerequisites:** Boxing sphere, Dual Wielding sphere.
@@ -91,14 +67,6 @@ Once per round you may recenter an ongoing tactic maintained as part of using ba
 #### Brain Consumption [Alienist HB]
 
 **Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion).
-
-#### Brutal Shatter (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Berserker Sphere
-
-**Benefits:** Whenever you would attempt to sunder an object as a swift action or attack of opportunity, you may spend martial focus to make the sunder attempt a brutal strike.
 
 #### Catisthenics [Catgirl HB]
 
@@ -216,14 +184,6 @@ While ooze creatures cannot normally be purchased in traditional marketplaces, G
 
 **Benefit:** You may customize your bound weapons. You may summon a customized bound weapon as a free action whenever you would be able to draw a customized weapon as a free action. You may add half your armiger levels toward your armorist level for determining the maximum enhancement bonus value of your bound equipment. If you possess the enhanced customization class feature, you may add half your armorist levels toward your armiger level for determining the maximum enhancement bonus from enhanced customization.
 
-#### Deceptive Boast (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Fencing Sphere, Gladiator Sphere
-
-**Benefits:** You may perform a feint against a target as a boast.
-
 #### Defender’s Bonds [BTH]
 
 The bonds between a warrior and his faithful companions shine in combat.
@@ -276,14 +236,6 @@ Etching your limbs with exquisite art, your body truly becomes a weapon.
 
 **Author's Note:** Dragon's Tattoos applies to all of your unarmed strikes and natural attacks, essentially like an amulet of mighty fists.
 
-#### Dramatic Intensity (Combat) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** tension pool, one of a grit, luck, or panache pool
-
-**Benefits:** You may use 3 tension points in place of a grit, luck, and panache point for deeds and feats.
-
 #### Dual Wielding Mystic Fusion
 
 **Prerequisites:** Dual Wielding Sphere, Spherecasting.
@@ -318,20 +270,6 @@ Whenever you perform an attack action and expend martial focus to deal additiona
 
 As a joint action, you may channel your emotion class feature through one of your cohorts within medium range (100 feet + 10 feet per class level in the class that grants the emotion class feature), treating it as the origin for the effect but using your save DC, durations, and other parameters. Any required attack roll is resolved with the cohort’s base attack bonus, attributes, and other attack roll modifiers.
 
-#### Erratic Vital Strike (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Vital Strike
-
-**Benefits:** When you use the Vital Strike feat, rather than applying the weapon’s base damage dice a second time, roll 1d4 to determine how many instances of the weapon’s base damage dice you gain with the attack (if you roll a 1, then only use the base damage without the modification for Vital Strike. If you roll a 4, then roll four instances of the weapon’s base damage dice).
-
-If you have the Improved Vital Strike feat, you may use 1d6 rather than 1d4.
-
-If you have the Greater Vital Strike feat, you may use 1d8 rather than 1d4.
-
-Apply precision-based damage (such as sneak attack damage) and critical hit damage only once for this attack. The damage bonus from your appropriate ability score modifier applies once, as do other damage bonuses, such as a bard’s inspire competence bonus.
-
 #### Escutcheon [Apoc]
 
 **Source:** [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)
@@ -339,18 +277,6 @@ Apply precision-based damage (such as sneak attack damage) and critical hit dama
 **Prerequisites:** Banner class feature or Warleader sphere (Heraldry), Shield sphere.
 
 **Benefit:** A decorated shield you carry can act as your banner or flag, allowing you to benefit from those features without needing a free hand. Your shield only counts as your banner or flag while it gives you a shield bonus to AC.
-
-#### Expanded Tension Technique (Combat) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** tension pool
-
-**Benefits:** Choose a tension technique you do not possess (either due to gaining limited tension techniques through the Amateur Striker feat, losing the tension technique from taking an archetype, or selecting a tension technique that is exclusive to a specific archetype). You gain that tension technique. You cannot use this feat to select a tension technique which could only be gained by a striker whose level exceeds your current striker level.
-
-On any turn in which you use a tension technique gained from this feat, you cannot use any other tension techniques, nor can you use a tension technique from this feat on a turn when you’ve used another tension technique.
-
-**Special:** You may select this feat multiple times, each time selecting an additional tension technique.
 
 #### Extend Stance (combat) [Youxia HB]
 
@@ -546,16 +472,6 @@ When you begin a bard song or raging song, you may pass it off to a cohort withi
 
 If your base attack bonus is +10 or higher, you may suppress the dazed, frightened, nauseated, shaken, staggered, and stunned conditions and treat the panicked condition as shaken, though the duration of the suppression is cut in half (minimum 1 round).
 
-#### Hold the Note (Combat) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** tension pool, one of bardic performance, psionics, or raging song
-
-**Benefits:** You may spend 2 points of tension in place of spending a round of bardic performance, psionics, or raging song for any purpose.
-
-In addition, you gain a unique bardic performance, psionic, or raging song called tempo keeper which you may perform as normal. Each round that you use tempo keeper, you gain 1 additional point of tension.
-
 #### Improved Atavism [Apoc]
 
 **Source:** [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)
@@ -595,16 +511,6 @@ Whether through acts of charlatanism or infusing your paints with latent magic, 
 **Benefit:** Instead of applying a prepared war paint to a creature, you may pour a prepared war paint over a blank piece of parchment, scroll, or other surface that can easily hold writing. You may then spend 10 minutes concentrating on a specific action or event in the near future, as the paint forms a short, cryptic phrase or abstract image. This acts as the Augury (divine) Divination talent, using your ranks in Craft (alchemy) as your caster level, except you always get a meaningful reply. You may use this ability a number of times per day equal to your casting or practitioner modifier, whichever is higher (minimum 1).
 
 **Special:** If you possess another (divine) talent from the Divination sphere, you may benefit from that sphere effect instead of Augury.
-
-#### Intense Metamagic (Combat) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** tension pool, any metamagic feat
-
-**Benefits:** Whenever you create a sphere effect which would have its casting time increased by one or more metamagic feats, you may spend 2 points of tension per metamagic feat to ignore any casting time increases.
-
-**Special:** If you possess the Spell Tokens drawback, you may select this feat as a drawback feat and may use tension points in place of spell tokens.
 
 #### Iron Palm (combat) [Warden]
 
@@ -670,22 +576,6 @@ The soft paws pace around their target, slowly analyzing and waiting for the mom
 
 After a successful attack action or attack of opportunity against an unscouted target, you may scout that target as an immediate action. You may expend 1 attack of opportunity to use this ability instead of spending an immediate action. A scout attempt made this way is performed before damage is rolled (and may allow you to use effects or abilities which apply against a scouted target as part of this attack).
 
-#### Onslaught Conversion (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Base Attack Bonus +6
-
-**Benefits:** Whenever you miss all attacks made as an attack action (this includes missing any attacks you may make as a free action, immediate action, attack of opportunity, or other attacks as a result of the attack action), you may spend a move action to make a single attack at a -5 penalty.
-
-#### Opportunistic Vital Strike (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Vital Strike
-
-**Benefits:** Once per round, before you make an attack of opportunity, you can declare an opportunistic vital strike. If the attack hits, you can apply the effects of your Vital Strike feat. You can apply the Improved Vital Strike or Greater Vital Strike feat instead if you have either of those feats. If you confirm a critical hit with an opportunistic vital strike, you can attempt a single combat maneuver against the target as a free action—this combat maneuver does not provoke an attack of opportunity.
-
 #### Overwatch (combat) [Apoc]
 
 **Prerequisites:** Covering Fire talent, Guardian sphere (patrol package)
@@ -742,17 +632,6 @@ You are adept at anticipating and interrupting spellcasters.
 
 **Special:** You may take this feat a second time. If you do, you may instead use this ability as a swift action.
 
-#### Prescient Reflexes (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Wis 13
-
-**Benefit:** You may make a number of additional attacks of opportunity per round equal to your Wisdom bonus. With this feat, you may also make attacks of opportunity while flat-footed.
-**Normal:** A character without this feat can make only one attack of opportunity per round and can’t make attacks of opportunity while flat-footed.
-
-**Special:** The Prescient Reflexes feat does not allow a rogue to use her opportunist ability more than once per round. The attacks of opportunity from this feat do not stack with those granted by Combat Reflexes or similar feats, but Prescient Reflexes counts as Combat Reflexes when meeting the prerequisites for feats.
-
 #### Projectile Vomit [Apoc]
 
 **Source:** [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)
@@ -760,24 +639,6 @@ You are adept at anticipating and interrupting spellcasters.
 **Prerequisites:** Barroom sphere (Purge), base attack bonus +5.
 
 **Benefits:** When you utilize your Purge talent, you can instead perform it as a standard action, vomiting on all squares in a close-ranged cone, instead of the normal area. All affected squares are treated affected as per the Purge talent, and creatures in the cone must succeed at a Fortitude save or become sickened for one round. At base attack bonus +10 or higher, creatures that fail their Fortitude save are instead nauseated for one round, and sickened for one minute afterwards. A success negates the nauseate and reduces the sickened duration to one round.
-
-#### Rampant Consumption (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Forbidden Consumption Technique, Knowledge of at least one technique
-
-**Benefits:** Whenever you use Forbidden Consumption Technique as part of performing a technique, you may use Forbidden Consumption Technique a second time as part of the action to use the technique. For every 5 points of base attack bonus you possess, you may use Forbidden Consumption Technique an additional time as part of performing a technique.
-
-**Special:** You cannot use both this feat and Technique Prowess in the same technique.
-
-#### Resist Consumption (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Forbidden Consumption Technique
-
-**Benefits:** Whenever you take 3 or more instances of damage from Forbidden Consumption Technique in the same turn, ignore any damage or ability burn from the third instance of the ability. The same is true with every additional third instance of Forbidden Consumption Technique (the 6th, the 9th, etc.).
 
 #### Rigorous Student [Origin]
 
@@ -791,25 +652,11 @@ You are adept at anticipating and interrupting spellcasters.
 
 **Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round.
 
-#### Ruthless Sneak (Combat) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Sneak Attack +3d6
-
-**Benefits:** As long as you have martial focus, whenever you deal sneak attack damage to a target, you deal 1 additional point of damage per point of sneak attack die. If you have at least 8d6 of sneak attack, you instead deal 2 additional points of damage per point of sneak attack die. This does not stack with effects that deal additional damage for each point of sneak attack die you possess.
-
 #### Shared Rage (combat)
 
 **Prerequisites:** Leadership sphere, (cohort) package, rage or bloodrage class feature.
 
 When you activate your rage, you may extend its benefits and penalties to one cohort within 30 feet as a swift action. The cohort spends rage rounds from your pool. The cohort may end its rage at will, suffering the normal penalties for doing so. The cohort need not remain within range to maintain this rage. You may share rage with more than one cohort; each requires a separate swift action and each spend one round from your rage rounds each round.
-
-#### Stance Adaptation (combat) [SM—]
-
-**Benefits:** Whenever you perform an immediate action while you are in a stance, you may spend martial focus to activate another [stance] talent as part of the same immediate action.
-
-**Source:** Expanded Spheres: Weaves of War
 
 #### Stinging Bee (combat) [EO3]
 
@@ -828,14 +675,6 @@ While maintaining the Floating Butterfly stance, you retain the competence bonus
 **Prerequisites:** Any (stance) talent, any style feat.
 
 **Benefits:** Whenever you spend an action to activate a (stance) talent, you may activate a style feat as part of that action.
-
-#### Swooping Grapple (combat) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Athletics Sphere (Mobile Striker), Wrestling Sphere
-
-**Benefit:** You can attempt a grapple in place of an attack action when using Mobile Striker and may use your Snag ability at any point during your movement with Mobile Striker. When you successfully grapple a creature as part of Mobile Striker, you can move yourself and your target up to your remaining speed.
 
 #### Tactical Ensign [Apoc]
 

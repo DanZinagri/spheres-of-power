@@ -82,12 +82,6 @@ When within close range (25 feet + 5 feet per 2 MSB) of an active Tinker sphere 
 
 **Incompatible**: Clarke Compliance
 
-#### Analytical Casting [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-Your magic requires that you know the target particularly well. When you create a magic sphere effect, each of the targets or the targeted area must be within the area of your pathing or an area you have analyzed. Alternatively, all targets must have been successfully analyzed, scouted, or be the subject of your theories. Casting in circumstances where none of these conditions are met requires a successful MSB check (DC 20 + ½ the caster level).
-
 #### Anemic [Apoc]
 
 **Source:** [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)
@@ -98,21 +92,6 @@ Your magic interferes with your natural circulation. If you are immune to bleed 
 
 You are mystically bonded to a single notable location such as a cave, large tree, spring, a magical laboratory or prominent stone formation and draw your magic from it. You must remain within a number of miles equal to your MSB to use your magic normally. Using magic outside this area requires you to attempt a concentration check (DC 20 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. You may bond to a new site of the same general type with an 8 hour ritual.
 
-#### Benefactor [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-Your magic is not yours to use, requiring a vector of some sort to function. You gain the Mana sphere as a bonus sphere with the Gift of Knowledge talent as a bonus talent. However, you cannot use any magic sphere effects except for Gift of Knowledge. Other magic talents you possess can still be passed on to other creatures using Gift of Knowledge.
-
-#### Bonded Casting [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Your magic is connected to another non-subordinate creature, stemming from the bond between you. You may only spend spell points while within 30 feet of the bonded creature, during which time the bonded creature must be alive. You may choose a new bonded creature in a process that takes 8 hours. You must have line of sight and line of effect to the bonded creature in order to spend spell points.
-You may take this drawback a second time. If you do, you are treated as if you are in a dead magic plane anytime you are not within 30 feet of a bonded creature for the purpose of any of your magic sphere abilities.
-
-**Incompatible:** Center of Power, Focus Casting, Galvanized, Spell Stand-In
-
 #### Burdened Magic [Archmagi's HB]
 
 Without expending proper energy, it becomes difficult for you to utilize your magic. Whenever you attempt to create a sphere effect that costs less than 2 spell points, you must succeed at a concentration check (DC 15 + your caster level if the effect costs no spell points, or DC 10 + your caster level if it costs 1 spell point) or else the sphere effect fails to manifest and any actions and spell points spent on it are wasted. As part of creating a sphere effect, you may raise the spell point cost of the sphere effect to 2 if it would be lower.
@@ -121,165 +100,7 @@ When using any effect that can enhance or change a sphere effect by spending add
 
 This includes the cost from spending a spell point to allow an effect to remain without concentration, but only if it is spent as part of the action to create the sphere effect.
 
-*Addendum* [SM—]
-**Source:** Baron’s Imposing Mausoleum
-If you have the Burdened Magic drawback, you may apply one of the following additional conditions. Each condition counts as one additional drawback.
-
 **Growing Burden:** For every 4 caster levels you possess, the minimum number of spell points you may use without requiring a concentration check increases by 1. You take a -4 penalty on your concentration check from Burdened Magic for each spell point used below the minimum.
-
-#### Card Casting [SM—]
-
-**Source:** Expanded Spheres: Cardcaster's Gamble
-
-You cannot use abilities that cost 1 or more spell points through normal means. Instead, your magical abilities are allocated to you at random, limiting what you are capable of doing at any given moment.
-
-For every effect you are capable of creating that costs one or more spell points (every companion you can summon with the Conjuration sphere, every possible destructive blast you can create with the Destruction sphere, every word or consecration you can make with the Fate sphere, every combination of traits you can have with the Alteration sphere, every method of using the Counterspell feat, etc.), write down the effect on a notecard (or assign that effect to a specific card in a deck such that the assignments are known to the whole table) and shuffle as many of these cards as you wish together into a deck. You may choose not to write down certain ability combinations that you don’t think you will use, although you may only change what cards make up your deck when you rest to regain spell points. Effects altered only by range or duration (such as those affected by [mass] talents) or by the number of spell points spent (such as charms or increasing the damage of a destructive blast) do not constitute unique effects and talents of this sort can be applied to any appropriate card you draw. Effects modified by metamagic feats are considered distinct effects, so an effect must have any applied metamagic effects determined as part of creating its card.
-
-When you rest to recover your spell points, create a deck composed of the above cards. The deck you create must have a minimum of 20 cards. You can include the same card multiple times in your deck if you wish, but the maximum number of cards in your deck which create an identical effect cannot differ from the lowest number of identical effect cards in the deck by more than your casting ability modifier (for example, if you have a casting ability modifier of 4 and run only a single card which creates a haste effect in your deck, you could not run more than 5 cards which create a slow effect).
-
-When you roll for initiative, you draw a number of cards from the top of your deck equal to 1 + your casting ability modifier (minimum 2). If you wish, you may shuffle your starting hand back into your deck and re-draw it any number of times, drawing 1 fewer card each time you do (you cannot shuffle and re-draw if you have only 1 card in your hand). At the start of every round thereafter, you draw another card. If you have no cards in your deck, you cannot draw any more cards. At the end of the combat encounter, shuffle all cards currently in your hand back into your deck.
-
-In order to create a magic effect that costs spell points, you must have the card corresponding to that effect in your hand. When you create the effect, you play the card onto the table. This requires the normal action and spell point costs to cast the spell. If that spell has an ongoing effect, the card remains placed on the table for the duration of the effect. When a card’s effects have been fully resolved (immediately for a card with an instantaneous effect, or when the effect expires for an ongoing effect) that card is shuffled back into your deck.
-
-While outside of a combat encounter you do not have a hand of cards and you cannot draw cards. Instead, you may search your deck and cast one of those cards by adding 1 minute to the card's normal casting time. Cards with ongoing effects are placed on the table for their duration, as normal.
-
-You may take this Drawback a second time. If you choose to, you gain the effects of either the Cooldown or Mana Pool abilities (see below). If you select it a third time, you gain both. When you gain both the Cooldown and Mana Pool abilities, you can choose to gain the Mana Graveyard ability as well.
-
-Card Casting counts as 1 Drawback for the purposes of boons if taken normally, 2 Drawbacks if taken with either Cooldown or Mana Pool, 3 Drawbacks if taken with both, and 4 Drawbacks if you additionally take the Mana Graveyard ability.
-
-**Cooldown**
-Your card magic is more limited than other card casters, your spent effects requiring effort on your part to recover their effects. When one of your card’s effects is resolved, rather than being shuffled into your deck those cards are added to a discard pile. At the end of the combat encounter, shuffle your discard pile into your deck along with your hand. By spending a full-round action, you may shuffle all cards in your discard pile back into your deck. If ever your deck runs out of cards, you may shuffle your discard pile back into your deck as a free action, even if it isn’t your turn. If the effects of one of your cards resolves while you are outside of combat, it is shuffled into your deck instead of being added to the discard pile.
-
-**Mana Pool**
-The power to cast your cards must be built up through the course of combat, rather than it coming to you immediately like other card casters. Your ability to play cards from your deck is limited by Mana Point cards. When you create your deck, add as many Mana Point cards to your deck as you wish. Mana Point cards count towards the minimum 20 cards required to create a deck. When you draw a Mana Point card, you immediately place it on the table. At the end of the combat encounter, shuffle your Mana Point cards into your deck along with your hand. To cast a card, you must have at least as many Mana Point cards on the table as its spell point cost. Cards you cast outside of combat are not limited by this ability.
-
-**Mana Graveyard**
-Your cards are even more difficult to play than the most limited of card casters. To cast one of your cards, you must discard Mana Point cards from the table equal to the number of spell points spent on the effect.
-
-Outside of these options, if you have the Card Casting drawback you may select one or more of the following additional modifications if you meet those modification’s prerequisites. Each modification you take is treated as if you had selected an additional drawback when determining your boons.
-
-**Bleeding Hand**
-**Prerequisite:** none
-Whenever you take a standard or full-round action that does not involve playing or discarding a card from your hand, you must discard a card from your hand. You may select this modification a second time, in which case you must discard a card whenever you take a standard, full-round, move, swift, or immediate action that does not involve playing a card from your hand. If you do not possess the Cooldown modification, cards discarded from these modifications are shuffled into your deck.
-
-**Source:** Baron’s Secluded Library
-
-**Colored Mana**
-**Prerequisite:** Mana Pool ability
-Your Mana Point Cards are restricted by color. For each mana point card in your deck, assign it a specific color such that you have either three or five colors. For each card in your deck which creates a magic effect, assign it a color. Mana point cards only grant spell points for use with magic effects of a matching color, and provide no spell points for effects of other colors. If you have three colors in your deck, no more than half of your magic effects can be of a single color, and you must have at least one magic effect of each color in your deck. If you have five colors in your deck, no more than one fourth of your magic effects can be of a single color, and you must have at least one magic effect of each color in your deck.
-**Special:** If you select five colors, this modification counts as two drawbacks rather than one when determining your boons.
-**Incompatible:** Prepared Caster
-
-**Deckout**
-**Prerequisite:** Cooldown ability
-Your deck is connected to your life force, and exhausting it can have fatal consequences. You cannot spend an action to shuffle all cards in your discard pile back into your deck, nor do you shuffle your discard pile back into your deck if your deck runs out of cards. Every turn that you have no cards left in your deck, you take 4 points of Constitution burn, or Charisma burn if you lack a Constitution score. Reduction of either score to 0 immediately kills you.
-
-**Exposed Grip**
-**Prerequisites:** Cooldown ability
-You do not draw a card at the start of your turn, but may spend a move, swift, or standard action to draw a card. In addition, whenever you are hit with an attack or fail a saving throw, you must discard a card from your hand. If you have no cards in your hand to discard when this effect occurs, you instead take 4 points on Constitution burn.
-
-**Gradual Ramp**
-**Prerequisite:** Mana Pool ability
-You may only play one Mana Point Card from your hand per round
-
-**Lifebound Deck**
-**Prerequisite:** none
-Your deck’s integrity is tied to your magic. You gain three separate discard piles in addition to your normal discard pile known as the Stun, Wounds, and Death piles. Calculate a value known as your Lifebound value, which is equal to 1/3 your total hit points divided by the number of cards in your deck at the start of the day (minimum 1). Whenever you lose hit points equal to or in excess of your Lifebound value, perform the topmost of the following actions that you are currently capable of performing. For each multiple of your Lifebound value that you lose, repeat the process (for example, if your Lifebound value is 6 and you lose 20 hit points, you perform the process 3 times).
-
-- Move a card from the Wounds pile to the Death Pile
-- Move a card from the Stun pile to the Wounds pile
-- Move the top card from your deck to the Stun pile
-- Move a card from your hand to the Stun pile
-
-Whenever you heal damage equal to or in excess of your Lifebound value, perform the topmost of the following actions that you are currently capable of performing. For each multiple of your Lifebound value that you heal, repeat the process (for example, if your Lifebound value is 6 and you heal 20 damage, you perform the process 3 times).
-
-- Move a card from the Death pile to the Wounds Pile
-- Move a card from the Wounds pile to the Stun pile
-- Shuffle a card from your Stun pile back into your deck
-
-When you rest to regain spell points, remove all cards from your Stun, Death, and Wounds piles. Effects that allow you to interact with your discard pile or that count cards in your discard pile do not count cards in your Stun, Death, and Wounds piles
-
-**Source:** Baron’s Secluded Library
-
-**Singleton**
-**Prerequisite:** Cooldown ability
-You may only have one copy of each card in your deck, although you may still have multiple copies of mana point cards which are unaffected by the Specialized Mana Cards deck manipulation.
-
-**Stagnant Pool**
-**Prerequisite:** Mana Pool ability
-The number of Mana Point Cards in play is the number of spell points you may spend each round. For every spell point you spend, turn one of these Mana Point Cards sideways, indicating that it has been used for the round and no longer counts towards the number of spell points you may spend. Turn all of these cards back to normal at the start of your next turn.
-**Incompatible:** Mana Graveyard
-
-**Strikable Assets**
-**Prerequisites:** none
-Your hand of cards, deck, and discard pile all manifest as physical objects on your person that can be attacked as if they were worn items. Any damage dealt to any of these targets is instead dealt to you, and successful attacks made against these targets also reveal information. Whenever you are successfully attacked or fail a saving throw, one of the effects below triggers randomly (with the discard pile effect not triggering if you have no discard pile).
-
-- If an attack is successfully made against your hand of cards, you reveal one card from your hand at random to all hostile creatures in the encounter.
-- If an attack is successfully made against your deck, reveal the top card of your deck to all hostile creatures in the encounter.
-- If an attack is successfully made against your discard pile, reveal the cards of your discard pile to all hostile creatures in the encounter.
-
-**Tight Hand**
-**Prerequisites:** none
-Your maximum hand size is reduced to 3. If you have 3 cards in hand, you cannot draw any more cards. If you would draw cards such that you would have more than 3 cards in hand, you instead draw until you have 3 cards in hand. For each time you select the Loaded Hand deck manipulation, the number of cards you may have in your hand increases by 1.
-
-**Source:** Baron’s Secluded Library
-
-**Card Casting and Temporary Talents**
-If you have the Card Casting Drawback and would gain temporary magic talents, you create any number of new cards detailing the effects that can be created using that temporary talent. If you are in combat, you immediately add one of these cards of your choice to your hand, and shuffle the remainder into your deck.
-
-Outside of combat, you add those cards to your deck. Additionally, if the duration of the temporary talent is 1 minute or less you may cast one of those cards without increasing its casting time by 1 minute.
-
-When the temporary talent is lost, search your deck and hand for the cards that include the effects of the temporary talent, remove them from your deck and hand, and then shuffle your deck.
-
-**Note:** It is advisable to have cards for temporary talents pre-prepared to not slow the game down. This can be most easily done by having blank but otherwise marked cards (such as blank cards marked 1 through 10) that you can add to your deck, and then writing the effects of each of those cards on a notecard each time you gain a temporary talent.
-
-##### Creating and Using a Deck
-
-Card Casting poses a unique challenge for Pathfinder by introducing an element to the game which normally isn’t utilized, that being a deck of cards on which the character bases their abilities. There are number of different solutions which can be implemented depending on the specific needs of the player and table, with a few options presented below.
-
-**Corresponding Cards:** The quickest and easiest solution for creating a card casting deck is taking an existing deck of cards (real or virtual) and having each card in the deck correspond to a specific Card Casting effect, writing down each correspondence on a separate notesheet and altering the number of cards in the deck to match the number in your character’s Card Casting deck. For example, you could write that the Jack of Diamonds corresponds to a Spell Ward aegis, the Queen of Clubs corresponds to a Mana Point Card with Mana Rock, and the Two of Spades corresponds to a destructive blast that uses Explosive Orb and Reverberating Blast in conjunction with the Empower Spell metamagic feat. Abilities that allow you to draw, play, or discard cards from your Card Casting deck would be matched by you doing the same with this corresponding deck.
-
-**Notecards:** Assembling a deck’s worth of notecards and writing down appropriate Card Casting effects on each notecard is another option. The notecards can be shuffled and manipulated in the same manner of normal cards, and can be swapped out or rewritten as needed as a character’s deck changes over the course of a campaign.
-
-**Virtual Custom Decks:** A number of collectible card game fans have created tools for making custom cards, and resources like MTGNexus and Magic Set Editor allow for the easy creation of cards for Card Casting. These cards can then be imported into most virtual tabletops, allowing for their use in online tables. Importing these custom card images into flash card apps or card game simulator apps similarly allows for their use at a physical table through a phone or laptop.
-
-**Physical Custom Decks:** Players who wish for custom physical decks for their card casting character have plenty of options, depending on how much money they wish to spend. Placing pieces of paper with written text in a card sleeve with an existing card is a classic strategy for “proxying”, while websites such as makeplayingcards.com allow for the printing and delivery of custom playing cards. For more reusable physical cards that don’t rely on proxying, dry-erase or wet-erase blank cards can be used for a Card Casting deck and adjusted as needed.
-
-**Contents of a Magic Effect Card**
-When creating a magic effect card for a Card Casting deck, there are certain key points of information which need to be written on the card to denote the effect. The following section lists the relevant info for a card and provides templates and examples for creating magic effect cards
-
-**Vital Information**
-This information is the most important to the magic effect card’s function
-
-- **Spell Point Cost:** the amount of spell points which the ability on the card costs, or the range of the spell point costs if decisions made during the casting can alter the number of spell points spent. This listed amount does not necessarily need to list additional expenditures from (mass) talents or other effects which can be applied as part of casting.
-- **Talents/Feats/Class Abilities used:** any abilities which are incorporated as part of the card’s effects when the card is made. This section does not necessarily need to list additional effects such as (range) talents, expenditures from (mass) talents, or other effects which can be applied as part of casting
-- **Color/Colors:** If a character uses the Colored Mana drawback, they must write down the color or colors of the effect.
-
-**Helpful Information**
-This information isn’t necessary, but may prove useful to players
-
-- **Spell Point Expenditures:** An index of where the spell point costs of the effect all come from, used to more easily determine the cost.
-- **Caster Level:** The effect’s caster level, for easier calculation. May not be applicable in situations where the card’s caster level may be variable, such as when cards are used as part of the Multi-Headed Play feat.
-- **DCs:** Writing down DCs for skill checks, MSB checks, or saving throws related to a card’s effects may prove useful, although these are subject to the same stipulations as caster level.
-- **Number of Targets**
-- **Casting Time:** Writing down the casting time or any potential casting time modifications can make an effect card easier to use.
-
-**Flavorful Information**
-Players may wish to add additional information to their cards for flair, potentially replicating styles from existing cards
-
-- **Effect Name:** A utilitarian or stylish name for the effect
-- **Image:** A picture which depicts or evokes the effect
-- **Flavor Text:** Some extra text which describes the effect’s origins or impact
-
-#### Catastrophic Failure [SM—]
-
-When your magic goes wrong, it goes very wrong. Whenever you roll a natural 1 on a skill check made as part of magic sphere effect, you automatically fail the skill check. Whenever you roll a natural 1 on a concentration check, skill check, or saving throw made as part of casting a spell, the effect fails and you lose access to a chosen magic talent you possess until you rest to regain spell points. You may not lose more than 1 talent per casting. You may not benefit from effects that let you reroll or change the result of a natural 1 for any roll made as part of a magic sphere effect.
-
-You may only select this drawback if you possess another drawback that requires you to make a skill check or saving throw as part of using a magic sphere effect
-
-If you possess this drawback, you may select Chance feats as Drawback feats. You regain kismet when you roll a natural 1 on a concentration check or skill check made as part of casting a spell.
-
-**Source:** Card Casting 3: Volatile Variance
 
 #### Center Of Power
 
@@ -305,10 +126,6 @@ This drawback counts as 2 drawbacks for the purposes of determining boons. Tempo
 
 **Incompatible:** Diagram Magic, Prepared Casting
 
-*Addendum* [SM—]
-**Source:** Baron's Otherworldly Citadel
-If you have the Charged Spells drawback, you may apply one or both of the following additional conditions. Each condition counts as one additional drawback.
-
 **Daily Power:** Once you have prepared a charge that requires 3 or more spell points, you cannot prepare any charges that use the same combination of spell point cost and use of talents, feats, class abilities, and any other modifiers or variables until you rest to regain spell points. Any magic sphere effects you use that cost 2 or fewer spell points have their duration reduced to 1 minute if they would normally be higher.
 
 **Divided Power:** No two charges you prepare may have the same combination of spell point cost and use of talents, feats, class abilities, and any other modifiers or variables. This does not stop you from preparing charges that use all of the same talents and feats but have different total spell point costs or preparing charges that use the same spell point cost but different talents and feats among them.
@@ -330,16 +147,6 @@ Creatures in contact with an active Tinker sphere gizmo (or other reasonably tec
 
 Your effects are linked to you even after you spend a spell point to have them continue without concentration. If you fall asleep or unconscious, or are dazed, stunned, confused, reduced to animal intelligence, or otherwise unable to take coherent mental actions, all of your magical effects immediately end.
 
-*Addendum* [SM—]
-**Source:** Baron’s Uncanny Gateway
-If you select this drawback a second time, you may not spend spell points to have your spells continue without concentration.
-
-#### Costly Failure [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-Disruption of your magic can have ruinous effects. Whenever you fail a concentration check to create a magic sphere effect, fail an MSB check to overcome another ability or effect or one of your abilities is dispelled, you lose spell points equal to the spell points spent on the magic sphere effect. These lost spell points are considered spent for the purpose of drawbacks which trigger from spending spell points (such as draining casting).
-
 #### Coy Caster
 
 Your magic is a fickle thing, or perhaps you are simply possessed of performance anxiety. If you attempt to use magic while you know you are being observed, you must attempt a concentration check (DC 15 + 1/2 the caster level) to produce the desired effect. Failure means time (and any spell points) are spent, but no effect happens. If you believe you are hidden or alone, even if you are not, you may use magic normally.
@@ -352,12 +159,6 @@ Your magic uses your own body as fuel, rapidly withering your form the more you 
 
 If you are already venerable or are treated as such, you instead suffer a cumulative -1 penalty to your Constitution, Dexterity and Strength scores. Your apparent age also changes (though your size category never changes), although you may disguise your age through magical or mundane means as normal. This penalty cannot reduce an ability score below 1, and you return to your normal age and lose all related penalties when you rest and recover your spell points each day. Creatures with no physical ability scores cannot take this drawback, and effects that reduce or remove penalties due to aging have no effect on the penalties bestowed by this drawback.
 
-#### Dedicated Wright [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You may only spend spell points as part of crafting a magic item using item creation feats. This counts as 2 drawbacks when determining boons and bonus spell points. You may select item creation feats as drawback feats if you possess this drawback.
-
 #### Diagram Magic
 
 In order to perform any magical effect, either you or your target must be entirely contained within the boundaries of a special diagram. Creating this diagram requires a full-round action for every 5-foot square contained within the diagram. Once the circle has been drawn, attempt a Spellcraft check as part of the full-round action to draw the final part of the circle against DC 15 + the maximum caster level of any effect to be performed within the circle to determine if it was done correctly. You may take 10 on this check even if in combat or stressed. You can increase the speed at which you draw the diagram but at greater risk of making a mistake. Doing so prevents you from taking 10 on the check, and for every step by which you reduce the time required to draw the diagram, increase the spellcraft DC by +5 to a maximum of +20 to draw the circle as a free action.
@@ -369,16 +170,6 @@ This counts as 2 drawbacks when determining boons and bonus spell points.
 #### Draining Casting
 
 Using magic saps your lifeforce. Whenever you spend one or more spell points you are dealt 1 point of nonlethal damage which cannot be avoided by nonlethal damage immunity, reduced by damage reduction, and cannot be healed through any means except rest (a full night’s rest heals all nonlethal damage caused by this drawback at once). This nonlethal damage increases by 1 point for every 5 caster levels.
-
-#### Dreamlost Casting [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Whenever you create a magic sphere effect, you gain the oblivious condition after the effect is cast. An oblivious creature struggles to pay attention to anything and is only peripherally aware of what is going on around it. All creatures and objects have positional concealment from it and it cannot spend attacks of opportunity (including on special abilities) or use immediate actions. (Creatures can always use Stealth and Sleight of Hand against oblivious creatures, and an oblivious creature has only a 50% chance of being exposed to visual effects.) Generally, when an oblivious creature attempts a Perception check to check its surroundings, it can only automatically observe things in a cone from its position, pointed in any direction of its choice (which negates positional concealment in that direction until the start of the oblivious creature’s next turn). Creatures with all-around vision are not limited to a cone.
-
-Your oblivious condition cannot be reduced to distracted until the start of your next turn or until after you are directly attacked, in which case you become distracted by whatever is alarming you until the end of your next turn (becoming alert afterwards unless another effect would cause you to become oblivious or distracted).
-
-**Incompatible:** Narcoleptic Casting
 
 #### Emotional Casting
 
@@ -450,16 +241,6 @@ When you attempt a Sense Motive check to end the antagonized condition, the skil
 
 On each round after the first, an antagonized creature may attempt a Sense Motive skill check as a swift action to realize the folly of its actions. This skill check is opposed by the antagonist's original antagonize skill check. If the creature succeeds on its Sense Motive skill check, the antagonized condition ends, but the creature suffers a -2 penalty on attack rolls and a -2 penalty to the saving throw DC of its abilities and any spells it casts for 1 minute. These penalties do not apply against the antagonist.
 
-#### Madness Mantra, Variant [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-Your magic fights against you for control. Whenever you spend one or more spell points, you must succeed at a Will save (DC 10 + 1/2 the ability’s caster level) or become angry for 1 round per spell point spent. If you fail this save while already angry, your anger condition increases by one step (angry to livid, livid to enraged, enraged to frenzied) and the duration is increased by 1 round per spell point spent.
-
-The focus of your anger becomes the creature closest to you, choosing randomly if there are multiple options. The GM may rule that the nature of your power will make you focus specifically on your allies, or beings of great importance to you (for example power that comes from a demon bound inside you may cause you to inflict harm to those you value the most before it can be contained).
-
-**Incompatible:** Emotional Casting
-
 #### Magical Signs
 
 Your magic is accompanied by tell-tale signs; for example, your body glows brightly, the sound of tortured souls shriek as you cast, a deep chill affects all nearby creatures, etc. Using magic automatically breaks stealth, and whenever you use magic all creatures within 60 feet who are observing you are considered to have automatically succeeded at a Spellcraft check to know which sphere effect, talents, and casting tradition you used.
@@ -500,23 +281,9 @@ You must prepare your magic before you can use it. After resting to regain spell
 
 **Author's Note:** Temporary spell points interact poorly with prepared casting. A caster with prepared casting assigns how many spell points they can spend on each sphere when they rest and regain spell points. Notably, temporary spell points would generally be spent towards this daily limit. Consult your GM if looking to make temporary spell points work with the Prepared Casting drawback.
 
-#### Ramp Up [SM—]
-
-**Source:** Card Casting 2: Counters and Control
-
-You may not spend any spell points until your second turn of combat, at which point the number of spell points you may spend per round increases to 1. The amount of spell points you may spend each round increases by 1 for each successive round thereafter. You may attempt to create a magic sphere effect that costs more spell points than your limit by succeeding at a concentration check (DC 15 + your caster level + 2 for every spell point spent above your limit), with failure causing you to lose the effect. Outside of combat, your limit is considered to be 0
-
-**Incompatible:** Card Casting (Mana Pool)
-
 #### Rigorous Concentration
 
 Your magic requires intense amounts of concentration to use. When attempting a concentration check (such as to cast defensively or while taking damage), the DC increases by +10. You may increase the casting time by one step to take extra time focusing and negate this penalty.
-
-#### Singular Pool [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-All of your abilities draw from a single well of otherworldly power. Whenever you spend one or more points from a pool you possess from a class feature (such as arcane reservoir points, grit points, ki points), you must also spend that many spell points to use the effect. Whenever you use a class feature or feat with a limited number of uses per day (such as inspiration or channel energy), you must also spend a spell point to use the effect. Whenever you begin using a class feature with limited rounds per day (such as rage or bardic performance), you must also spend a spell point to begin the effect (though you do not need to use spell points in subsequent rounds of use). Any such class features which involve spending spell points also apply any other boons and drawbacks of your casting tradition to them. If you have not used such a class feature within the last hour, you take a -2 penalty to your caster level. You must have at least one class feature which meets the above criteria to gain any benefits from this drawback.
 
 #### Skilled Casting
 
@@ -526,10 +293,6 @@ A caster with Skilled Casting must be able to perform their skill to use their m
 
 At the GM’s discretion, this drawback may count as two drawbacks if the skill involved requires bulky equipment or the use of both hands (for example, the Perform (strings) skill, or Craft (stonework)).
 
-*Addendum* [SM—]
-**Source:** Baron’s Imposing Mausoleum
-You may select this drawback a second time. If you do, select two additional skills from those you can select with Skilled Casting and assign each magic sphere you possess to one of the three skills chosen with Skilled Casting. When using a magic sphere effect with a specific sphere, you make your skill check using the chosen skill. If an effect incorporates multiple magic spheres, you must make skill checks using each of the spheres’ chosen skills, modifying the caster level for each sphere separately (for example, if you use a destructive blast with the Mind Wrack feat and a charm, you would roll for the skills chosen with both the Destruction sphere and the Mind sphere, using a separate caster level for each based on their respective results). The number of spheres assigned to a specific skill cannot exceed the lowest number of spheres you have assigned to a chosen skill by more than 1 (for example, if you have 1 magic sphere assigned to Perform (strings), 1 to Perform (oratory), and 2 to Linguistics, you cannot assign your fifth sphere to Linguistics and must assign it to one of the other skills).
-
 #### Somatic Casting
 
 You must gesture to cast spells—a process that requires you to have at least 1 hand unoccupied. When using magic, you cannot wear armor heavier than light without incurring a chance of arcane spell failure.
@@ -538,25 +301,11 @@ You may select this drawback twice. If taken a second time, you cannot wear any 
 
 **Note:** With GM permission, it is possible to modify this drawback so that, when taken once, the caster may wear either light or medium armor but cannot use a shield without incurring a chance of arcane spell failure, mimicking the core bloodrager.
 
-#### Spell Gamble [SM—]
-
-**Source:** Expanded Spheres: Cardcaster's Gamble
-
-Whenever you roll initiative, choose any number of your remaining spell points. For the duration of the encounter, you may use only those chosen spell points and not any of your other spell points. Any chosen spell points that you have remaining at the end of the encounter are lost.
-
 #### Spell Stand-In [Apoc]
 
 **Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
 
 In place of being able to cast spells directly, you must channel them through a summoned companion. You lose the ability to cast any sphere effect through yourself outside of summoning your companions. You gain the Conjuration sphere and the Spell Conduit talent as bonus talents, and the Spell Channel feat as a bonus feat.
-
-#### Spell Tokens [SM—]
-
-**Source:** Card Casting 2: Counters and Control
-
-Your magic is not always easily accessible, requiring additional steps in order to harness it. At the start of an encounter, you gain 2 spell tokens plus an additional spell token for every 5 points of MSB you possess. Whenever you spend any number of spell points on an effect, you must spend an equal number of spell tokens. As a standard action, you may gain a number of spell tokens equal to 2 + 1 for every 5 points of MSB you possess. All spell tokens are lost at the end of an encounter. When casting a spell outside of an encounter, the casting time is increased by 1 step for each spell token which would be required.
-
-**Incompatible:** Extended Casting
 
 #### Substantial Magic [EO3]
 
@@ -574,32 +323,9 @@ Magic objects can be identified as being the source of a magic sphere effect (bu
 
 **Note:** Unique to the Substantial Magic casting drawback is that it is incompatible with some sphere-specific drawbacks. Characters cannot select these sphere-specific drawbacks and, if they would possess them, cannot use those sphere effects. Characters may buy back those drawbacks as normal to regain use of those sphere effects.
 
-*Addendum* [SM—]
-**Source:** Baron’s Uncanny Gateway
-If you select this drawback a second time, the item created with this drawback can be removed from its location or target as a standard action (if the target is willing to have the item removed) or a successful steal combat maneuver. Once removed from its owner or location, the item vanishes and its effects end.
-
-#### Technical Caster [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Your magic requires study, rehearsal, and structure in order to be used properly. You cannot spend spell points on magic sphere effects that are not crafted spells (created using the Spellcrafting Rules) or Techniques. You may select Spellcrafting, Technique Crafting, or any feat which require knowledge of a technique as a prerequisite as a drawback feat.
-
 #### Terrain Casting
 
 Your magic draws upon the primal energy and nutrients of the terrain. Whenever you use a sphere talent or ability you must either spend an additional spell point or increase your casting time by one step, else your magic drains and corrupts your space and all adjacent squares. Terrain that has been blighted in such a manner prevents those who possess the Terrain Casting drawback from using sphere talents or abilities as if it were a dead magic zone. Areas that have had its nutrients drained are affected in different ways depending upon location (water may turn brackish or stagnant, while soil may become barren or salted); regardless of location, blighted areas will generally heal naturally after a year.
-
-#### Unreliable Replenishment [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-When you rest to regain spell points, there is a 25% chance that you only regain half of your spell points and cannot rest to regain spell points again for at least 8 hours. You may take this drawback a second time, in which case you replenish no spell points instead of only regaining half your spell points.
-
-#### Unreliable Training [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Whenever you would learn a magic talent other than the 2 gained from your casting tradition or a specific talent granted by a drawback, sphere-specific drawback, or class feature, roll a d%. If the total result is higher than your 10 + your MSB + your casting ability modifier, you fail to learn the talent and must select a different talent to learn. You cannot try to learn a talent you have failed to learn until the next time you level up.
-It is advised that this drawback be used in conjunction with a ruleset that allows a character to select auxiliary origin talents or skill talents in place of magic talents, so as to ensure that a character still gets the set number of talents.
 
 #### Unsettling Casting [Cata. HB]
 
@@ -661,12 +387,6 @@ You cannot gain sphere-specific drawbacks when gaining a sphere through temporar
 
 ### Universal
 
-#### Striker [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-The Striker drawback can be applied as a sphere-specific drawback to any sphere that possesses a [strike] talent. You gain the [strike] talent associated with the sphere as a bonus talent for taking this drawback, but can only use that sphere’s abilities through weapon attacks made using a [strike] talent. This drawback can be selected once per sphere and does not grant an additional talent besides the associated [strike] talent
-
 ### [[Alteration]]
 
 #### Beast Soul
@@ -690,12 +410,6 @@ You can only target yourself with your shapeshift ability. You cannot gain the M
 If an unwilling creature succeeds on a save to resist your shapeshift effect, you must save against the same effect at the same DC. On a failed save, you receive all the traits and forms you would have granted the target. This effect lasts for 1d4 rounds. You must select Animal Mind or Twisted Shapeshift with the bonus talent gained from this drawback.
 
 **Incompatible:** Lycanthropic
-
-#### Shapesnatcher [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-Your forms require an initial inspiration which you draw from. You gain the Steal Shape talent as your bonus talent for this drawback, but you can only use your shapeshift when Steal Shape is triggered.
 
 #### Transformative Brew
 
@@ -962,12 +676,6 @@ Choose a blast type group. You may only make destructive blasts from that blast 
 You may only make a destructive blast of a single shape. You must select a (blast shape) talent with the bonus talented granted by this drawback, and cannot make destructive blasts except when using that (blast shape). You may not select any other (blast shape) talents.
 
 **Incompatible:** Destructive Touch
-
-#### Soft Blaster [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-You gain the Damage Control talent as a bonus talent. Whenever you make a destructive blast, you must always choose to deal no damage with your blast. You gain an additional Destruction talent in addition to Damage Control when you take this drawback. If you buy off this Drawback, you lose Damage Control as a bonus talent.
 
 #### Uncontrolled Blaster [Alienist HB]
 
@@ -1293,14 +1001,6 @@ Your charms become language dependent effects; the targets of your (charm) talen
 
 The range of your Mind sphere effects such as charms and clouds decreases from close to touch. Using a charm on a target requires you to touch them first, which usually requires a melee touch attack as part of using the charm. You must select the Charming Strike talent as the bonus talent from this drawback, and can only use that talent when making melee attacks.
 
-#### Unusual Entreatment [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-Choose a creature type other than your own. You may affect creatures of that type with your Mind sphere effects, but not creatures of your own type. You do not gain a bonus talent from this drawback.
-
-**Incompatible:** Animal Shaman, Kindred Knack
-
 ### [[Nature]]
 
 #### Holistic Brew
@@ -1462,12 +1162,6 @@ You cannot use rallies. You must select a (mandate) talent or a (momentum) talen
 
 **Incompatible:** Alternate Rally, Battle Manipulation, Solo Combatant
 
-#### Exploitable Momentum [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-Your strategies leave you open to a clever opponent. As long as you have momentum, once per round an enemy within range of your [momentum] talents may spend one point of momentum for your pool to fuel one of their own [momentum] abilities or to gain a +4 morale bonus to a single attack roll as a swift action. You must select either Combat Inertia or Resourcefulness as the bonus talent from this drawback.
-
 #### Manifest Totem [Alienist HB]
 
 Your totems manifest as Medium-sized physical objects that cannot be moved (except by effects that could normally move a totem). The object has a number of hit points equal to your caster level, AC equal to 10 + 1/2 your caster level, and saving throw bonuses equal to 2 + 1/2 your caster level. The object is transparent enough to not block line of sight but may be used to provide cover. Destruction of the object ends the totem’s effects. You must select a (totem) talent as the talent gained from this drawback. You cannot select the Totemic Aura or Totemic Emblem talent so long as you possess this drawback, nor can you attach your totems to other targets or effects (such as through the Tribal Rhythm feat).
@@ -1511,14 +1205,6 @@ You cannot teleport, you may only bend space. You must select a (space) talent w
 #### Distorting Presence [DbH]
 
 Your (space) talents are tied to your location, twisting your immediate environment. You gain Distortion Aura as the bonus talent for this drawback, but must use it in conjunction with any (space) talent that you create (preventing you from using the talent’s normal range).
-
-#### Exploit Fragility [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-Your abilities rely on a certain “thinness” between dimensions to function. You may only use your teleport to enter or leave areas that are already affected by a (space) talent or other interplanar effect at GM discretion. You cannot select a (space) talent with this drawback.
-
-**Incompatible:** Bender
 
 #### Inanimate Teleport
 
@@ -1589,219 +1275,6 @@ The size of your weather is very limited; the maximum size area you can control 
 
 ---
 
-# Dual Sphere Drawbacks [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-Dual Sphere Drawbacks are unique sphere-specific drawbacks which can be taken when a character takes a specific associated sphere. Rather than granting a talent, Dual Sphere Drawbacks instead grant a Dual Sphere feat based upon the drawback taken. A character must meet all other prerequisites for a Dual Sphere feat (namely, the other sphere and any prerequisite talents from that sphere) in order to take a Dual Sphere Drawback. A Dual Sphere Drawback can be bought off by taking the Dual Sphere feat normally.
-
-#### Admixture Specialist
-
-**Associated Sphere:** see text
-**Feat:** any one Admixture feat
-
-Choose one Admixture feat. The associated sphere for this dual sphere drawback is the sphere besides Destruction required by the feat. Said sphere’s abilities which can be used with Admixture can only be used in conjunction with a destructive blast and the Admixture talent (for example, a character who selects Ghostly Admixture can only use ghost strike as part of an admixture-affected destructive blast).
-
-You may only take this drawback once even if you select multiple spheres with corresponding admixture feats.
-
-#### Approximate Manabond
-
-**Associated Sphere:** Mana
-**Feat:** Consecrated Affinity
-
-You cannot create a manabond through expunge or manipulation talents, only through your consecration.
-
-#### Collapse Manipulator
-
-**Associated Sphere:** Dark
-**Feat:** Event Horizon
-
-When you create darkness, you must apply the Gravity Well talent as a (darkness) talent.
-
-#### Combat Vision
-
-**Associated Sphere:** Divination
-**Feat:** Eyes of Battle
-
-None of your divine abilities function beyond the range of your totem.
-
-#### Creation Wielder
-
-**Associated Sphere:** Telekinesis
-**Feat:** Forceful Creation
-
-You cannot use the lift, bludgeon, or sustained force abilities on any targets you did not create.
-
-#### Dark Domain
-
-**Associated Sphere:** Dark
-**Feat:** Shadow Cage
-
-You may not create darkness normally, although you can still apply their effects to your ward.
-
-#### Die For Me
-
-**Associated Sphere:** Destruction
-**Feat:** Destructive Companion
-
-You may not use your destructive blast ability on your own, only through the detonation of companions.
-
-#### Elemental Specialization
-
-**Associated Sphere:** Nature
-**Feat:** Supernatural Elements
-
-Your geomancing and spirit abilities can only deal damage of a type corresponding to blast type talents that you possess.
-
-#### Explosive Entrance
-
-**Associated Sphere:** Warp
-**Feat:** Warp Burst
-
-You must use a destruction sphere effect when you teleport yourself.
-
-#### Get the Blood Running
-
-**Associated Sphere:** Mind
-**Feat:** Vampire’s Guile
-
-You can only use your charm and cloud effects on bleeding targets. If the affected creature ever stops bleeding, your Mind sphere effects are suppressed when the target stops bleeding, but continue to take effect should the target resume bleeding before their duration expires.
-
-#### Lethal Enhancements
-
-**Associated Sphere:** Enhancement
-**Feat:** Might of the Grave
-
-Your enhancement effects can only target undead creatures created through reanimate.
-
-#### Lightblaster
-
-**Associated Sphere:** Destruction
-**Feat:** Destructive Radiance
-
-You must always apply the effects of Destructive Radiance to your destructive blast.
-
-#### Luminous Form
-
-**Associated Sphere:** Light
-**Feat:** Bioluminescent Transformation
-
-You can only cause targets to glow as part of the action to affect them with a shapeshift.
-
-#### Luminous Grip
-
-**Associated Sphere:** Telekinesis
-**Feat:** Beam Propulsion
-
-You can only lift a target as part of the action to make it glow.
-
-#### Mark of Victory
-
-**Associated Sphere:** War
-**Feat:** Tribal Mark
-
-You may not create totems, although you can still apply the effects of totems through enhancements from the Tribal Mark feat.
-
-**Note:** If you possess the Tribal Mark feat, you may apply the effects of totems in place of enhancements when using an effect or class ability that allows you to apply (enhance) talents to yourself (such as the mystical tattoos of the painted savage barbarian or the enhancer esoteric training of the sage).
-
-#### Medical Evacuation
-
-**Associated Sphere:** Life
-**Feat:** Transpatial Reconstitution
-
-You may only use a life sphere effect on a target as part of teleporting them.
-
-#### Portents of Doom
-
-**Associated Sphere:** Fate
-**Feat:** Blessed Necromancy
-
-You may only use your word talents through your ghost strikes or through affecting undead as you reanimate them.
-
-#### Propagandist
-
-**Associated Sphere:** War
-**Feat:** Asymmetrical Warfare or Enhanced Vigilance
-
-Only creatures which are under the effects of your glamer (for Asymmetrical Warfare) or your enhancement (for Enhanced Vigilance) can be affected by your Rally ability or be affected by your totems.
-
-#### Rains of Undeath
-
-**Associated Sphere:** Death
-**Feat:** Baleful Storm
-
-You cannot reanimate undead in precipitation below severity level 4, and undead you reanimate which leave an area of such precipitation immediately have the reanimate effect upon them end.
-
-#### Safe and Secure
-
-**Associated Sphere:** War
-**Feat:** Tribal Fortification
-
-You may not create totems normally, although you can still apply their effects to your ward.
-
-#### Shadow Puppetry
-
-**Associated Sphere:** Dark
-**Feat:** Shade
-
-You may not create darkness effects, although creatures within your figments or affected by your glamers still count as being in your darkness.
-
-#### Shepherd of the Blind
-
-**Associated Sphere:** Mind
-**Feat:** Hypnotic Darkness
-
-Only creatures within your darkness may be targeted by your charms.
-
-#### Special Effects
-
-**Associated Sphere:** Light
-**Feat:** Illustrious Light
-
-Only your figments and targets affected by your glamer may be made to glow with your abilities.
-
-#### Stormcaller
-
-**Associated Sphere:** Destruction
-**Feat:** Atmospheric Imbuement
-
-You may not use your destructive blast ability if the rain or wind within your area is below category 4. Non-instantaneous blasts which leave an area of necessary weather immediately end.
-
-#### Thrashing Corpses
-
-**Associated Sphere:** Nature
-**Feat:** Sylvan Necromancy
-
-You may not apply your (plant) geomancing abilities to plants, only to corpses.
-
-#### Unnatural Crafter
-
-**Associated Sphere:** Creation
-**Feat:** Kinetic Creation, or Shape Quintessence
-
-You may not create objects out of normal matter, being able only to create items out of force (if you take the Kinetic Creation feat) or quintessence (if you take the Shape Quintessence feat).
-
-#### Unstable Creations
-
-**Associated Sphere:** Creation
-**Feat:** Fissile Creation
-
-When using create or alter, you must always spend an additional spell point to make the object explode when it hits a target or when it takes damage (it explodes in both situations).
-
-#### Whims of Tempus
-
-**Associated Sphere:** Weather
-**Feat:** Localized Changes
-
-You can only use the weather sphere to affect the weather within the area of your Time of the Seasons effect.
-
-#### Zone of Security
-
-**Associated Sphere:** Warp
-**Feat:** Guarded Step
-
-Your teleport effects do not function outside of your ward (you cannot teleport out of your ward or into your ward from the outside).
-
 ---
 
 # Boons
@@ -1833,13 +1306,6 @@ Your magic is tied to a magical creature, who shares essence and power with you.
 You gain the Conjuration sphere (or the Extra Companion talent if you already possess the Conjuration sphere), and a companion who serves as the source of your power. Your companion can possess companion archetypes and gain (form) talents as a normal companion, but does not gain the extraplanar subtype; it cannot be summoned, dismissed, or banished, and costs no spell points to use. (Form) talents that require the expenditure of spell points when a companion is summoned can be activated by spending those points after you rest to regain spell points, in which case the benefit lasts until the next time you rest to regain spell points. Bound creatures cannot benefit from talents gained from implements or that you do not permanently possess.
 
 You do not suffer a chance of failure from the Focus Casting drawback so long as your bound creature is on the same plane as you and is within medium range (100 feet + 10 feet per caster level). If your bound creature dies, you suffer a chance of spell failure as outlined in the Focus Casting drawback until you gain another bound creature or bring the previous one back to life somehow. You cannot bond with a new creature for 30 days or until you gain another level, whichever comes first. A caster must possess the Focus Casting drawback to select this boon.
-
-#### Confluent Casting [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-Your magic draws power from celestial bodies. Choose either the sun, the moon, the night sky, or another celestial body at GM discretion. While that celestial body is visible to you, you gain a +1 competence bonus to your caster level.
-
-At GM discretion, particular celestial arrangements such as a full moon, passing comet, solar eclipse, or visibility of a certain constellation may increase this caster level bonus from +1 to +2 as long as they are active.
 
 #### Deathful Magic
 

@@ -499,14 +499,6 @@ Gaseous creatures are considered vulnerable to the damage dealt by this blast.
 
 Advanced talents are part of an optional rule and are only available with GM permission.
 
-#### Adaptive Admixture [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Destruction Sphere (Admixture)
-
-When you damage a creature with a destructive blast which deals multiple types of damage, you may spend an extra spell point to allow the blast to tailor its damage to the target. Whenever a creature is damaged by the blast, if one type of damage would deal more damage than the rest due to a difference in resistance, immunity, or vulnerability, all of the blast’s damage is converted to the most damaging type (for example, a fire-immune creature damaged by an admixture that uses both Frost Blast and Fire Blast would take all of the blast’s damage as cold damage and would take the ongoing fire damage as cold damage). Different targets affected by the blast result may have different damage types applied to each of them in this way.
-
 #### Blast Array [Alienist HB]
 
 **Prerequisites:** Destruction sphere (Admixture, Blast Salvo (blast shape), Greater Admixture (advanced), Split Blast (advanced)), caster level 10th.
@@ -516,14 +508,6 @@ When you use Admixture or Greater Admixture in conjunction with this talent to f
 When using this talent, you do not need to pay additional spell points for using Admixture feats beyond the cost of the effect that they are applying (such as a ghost strike which may cost 1 or more spell points on its own).
 
 When using Greater Admixture in conjunction with this talent to fire a blast salvo in which each surge only carries a single blast type, you may spend 2 spell points to fire one additional surge plus another per two caster levels rather than per six caster levels.
-
-#### Blast Juggler [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (Energy Cloud or Energy Sphere)
-
-As a move action, you may move any number of energy sphere or energy cloud destructive blasts you have active up to half their normal speed. Alternatively, as part of a move action to move, you may move a single energy sphere or energy cloud destructive blasts you have active up to half its normal speed.
 
 #### Calamity (blast shape)
 
@@ -567,16 +551,6 @@ You may take this talent a second time, in which case you may select from an add
 **Prerequisites:** Destruction sphere (any two (blast type) talents in the crystal blast type group including either Crystal Blast or Living Crystal Blast), caster level 10th.
 
 When using the Crystal Blast or Living Crystal Blast talent, you may spend an extra spell point to fully encase your targets in a shell of crystal. Targets that fail their Reflex saves against your destructive blast are helpless and cannot take physical actions other than to attempt Strength or Escape Artist checks to escape the crystal, but can still breathe and take purely mental actions. The crystal blocks line of sight and line of effect to and from the encased target. Destroying the cocoon frees the victim, the crystal having hit points as normal for the Crystal Blast and Living Crystal Blast talent.
-
-#### Destructive Verticality [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (Energy Sphere, Explosive Orb, or Sculpt Blast)
-
-When creating a destructive blast with the Energy Sphere, Explosive Orb, or Sculpt Blast blast shape, the blast also extends straight upwards and downwards up to close range from the center of the blast, causing blasts to take the form of flat-topped pillars with total height of twice your close range.
-
-If you possess the Calamity talent, you may spend a spell point to have the blast extend upwards and downwards up to medium range.
 
 #### Disintegrate (blast type)
 
@@ -647,34 +621,6 @@ When using the Admixture talent, you may spend an additional spell point to add 
 
 **Special:** You do not increase the casting time or spend an additional spell point when using the admixture talent with blast types from the same blast type group. The additional spell point cost of Greater Admixture still applies. This can be used to apply two Admixture feats to a single destructive blast.
 
-#### Hounding Sphere [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (Energy Sphere), caster level 10th
-
-When you create an Energy Sphere, you may spend a spell point or increase the time needed to concentrate on it by 1 step to have the sphere automatically home in on a single creature you can perceive. At the start of each of your turns, the sphere moves up to its speed towards the targeted creature without you needing to spend an action to move it. As a standard action, you may select a new creature for the sphere to pursue each turn. You may only have one instance of Hounding Sphere active at a time.
-
-#### Impact Burst [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (Energy Strike, any (blast shape) talent which can target an area)
-
-When you deal damage to a creature with an Energy Strike that deals at least 2 dice of damage, you may spend a spell point to reduce the number of damage dice applied by the destructive blast by half. If you do, you may create a single destructive blast effect with a (blast shape) that targets an area originating from either you or a location adjacent to the damaged creature (spending extra spell points on the (blast shape) as normal). The secondary destructive blast uses the same (blast type) talents as the original Energy Strike destructive blast and the damage dice of this secondary destructive blast is equal to the number of damage dice removed from the Energy Strike destructive blast.
-
-#### Intractable Blast (blast shape) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Destruction Sphere
-
-When you gain this blast shape, select 6, 8, 10, 12, or 20 blast shape talents which can be used as a standard action. You do not need to possess these blast shape talents but must meet the prerequisites for any advanced blast shape talents selected with this ability. Assign each of these blast shapes a single number which could be rolled on a d6, d8, d10, d12, or d20 with the die used corresponding to the number of talents you have selected (a d6 if you selected 6, etc.). At GM discretion, other dice such as d3, d7, d16, and d24 may also be used, with you selecting a die corresponding to the number of blast shape talents.
-
-When you use Intractable Blast, roll a die corresponding to the number of talents selected. Use the talent corresponding to the die roll result to determine the shape and range of the blast (including feats or class abilities such as Energy Snake) to determine the effects of the destructive blast on the target(s). Intractable Blast costs a number of spell points equal to the greatest spell point cost of the blast shapes selected. If a blast shape has variable spell point costs (such as Explosive Orb or Energy Sphere), determine the number of spell points you would spend on each of these effects when you select them as blast shapes.
-
-You can change the blast shapes selected with this talent whenever you level up.
-
 #### Magnifying Blast (blast type) [3PP]
 
 **Source:** [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)
@@ -733,14 +679,6 @@ When using Admixture in conjunction with this talent to fire a blast salvo in wh
 
 # Destruction Sphere Feats
 
-#### Admixture Efficiency [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (Admixture), any Admixture feat, MSB +7
-
-**Benefit:** You no longer need to spend an additional spell point to apply an effect from a non-Destruction sphere to an effect when using an Admixture feat. You must still spend spell points on the effect as normal.
-
 #### Arcing Strike (Combat)
 
 **Prerequisites:** Destruction sphere (Guided Strike (blast shape)), caster level 11th.
@@ -764,14 +702,6 @@ When using Admixture in conjunction with this talent to fire a blast salvo in wh
 If more than one blast type is known, a different blast type may be selected each time channel energy is used. For example, a 5th level soul weaver with this feat and the Crystal Blast talent could channel energy, dealing 3d4 piercing damage as well as the effects of Crystal Blast in the normal area and with the normal DC of her channel energy. If, for example, she also possesses the Searing Blast talent, the next round she can channel energy, dealing 3d8 fire damage.
 
 If the (blast type) talent chosen has additional spell point costs, an additional use of channel energy must be used in place of each spell point required. You may spend a spell point to increase the damage to one die per level in the class that grants channel energy that you possess.
-
-#### Close-Quarters Conduction (Combat) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (at least one (blast type) talent that deals electricity damage)
-
-**Benefit:** Whenever you would force a creature in your reach to make a Reflex save against your destructive blast that deals electricity damage, you may instead make a melee attack roll with your destructive blast against the creature. On a successful hit, the target is treated as if they failed their Reflex save against the blast.
 
 #### Cooperative Destruction (Dual Sphere)
 
@@ -816,14 +746,6 @@ You can cause a corpse to explode like a literal bomb.
 **Benefit:** Any attempt by creatures affected by your energy tether or hardened bond to teleport or cross planes fails unless they succeed at a magical skill check against you.
 
 **Source:** Expanded Spheres: Weaves of War
-
-#### Dynamic Wallcrafter [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (energy wall) or Protection Sphere (greater barrier)
-
-**Benefits:** As a move action, you may move an energy wall or barrier you create up to 20 feet + 5 feet per 5 caster levels. You may also reshape the energy wall or barrier within its parameters as part of this action.
 
 #### Energy Cascade [DRS]
 
@@ -922,14 +844,6 @@ You can make ghost strikes in a variety of configurations.
 | (Plant) package | Acid, force |
 | (Water) package | Cold, crystal |
 
-#### Improved Energy Bomb (Combat) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (energy bomb)
-
-**Benefits:** The splash damage radius of your energy bomb increases by 5 feet, plus an additional 5 feet per 5 caster levels. In addition, if you instill an energy bomb as a standard or full-round action, you may throw it as part of the same action.
-
 #### Improved Chain Blast (Combat) [DbH]
 
 **Prerequisites:** Destruction sphere (Chain Blast (blast shape)).
@@ -951,25 +865,6 @@ You can make ghost strikes in a variety of configurations.
 At caster level 9th the wall can also affect ammunition with a +1 enhancement bonus, increasing by +1 for every 3 caster levels thereafter. Unusually massive ranged weapons (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects are not affected by this ability.
 
 **Special:** If you possess the Demolition talent or apply a (blast type) talent that ignores hardness and deals full damage to objects, such as Shattering Blast or Disintegrate, treat the wall’s caster level as 3 higher for determining the effects of this feat.
-
-#### Improved Retributive Blast (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Destruction Sphere (Retributive Blast)
-
-**Benefits:** When you use Retributive Blast, you may spend an additional spell point to apply one of the following effects or two additional spell points to apply both effects.
-
-*Dissuading Blast:* Once per round, when a creature which has been damaged by your retributive blast since the start of their last turn misses you with a melee or melee touch attack, that creature takes the retributive blast’s damage a second time.
-*Vengeful Blast:* You may use retributive blast when a creature hits you with a melee attack in addition to when it misses you.
-
-#### Improved Selective Blast (Combat) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (selective blast)
-
-**Benefit:** When using selective blast, you may choose to exempt any number of creatures from the area of your destructive blast. In addition, you may have the blast discern between damaged creatures based on any parameters that can be used by a Protection sphere glyph, exempting creatures which meet specific parameters from damage.
 
 #### Material Infusion (Dual Sphere)
 
@@ -1028,14 +923,6 @@ Amidst ruin, you have learned to support those whom you favor.
 
 **Benefit:** When using the Energy Wall (blast shape) talent without a spell point, increase the wall’s size to a 10-foot-by-10-foot wall, plus an additional 10 feet per 10 caster levels. When using the Explosive Orb (blast shape) talent without a spell point, the radius becomes 5 feet + 5 feet per 10 caster levels.
 
-#### Solipsistic Admixture [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Selective Admixture, Destruction sphere (Admixture, Selective Blast), any one Admixture feat.
-
-**Benefit:** When you use destructive blast, you may choose to have the effect of any Admixture on the blast affect you rather than or in addition to affecting damaged creatures or those omitted from damage by Selective Blast.
-
 #### Soul-Scorching Blast [DbH]
 
 Rather than their body, you attack the very essence of your foes.
@@ -1055,16 +942,6 @@ Your magics orbit you creating an orrery of color and power around your person.
 Whenever a destructive blast unaltered by a (blast shape) talent misses its target, you may spend one spell point as an immediate action to form a satellite as though you cast that destructive blast with the Energy Satellite (blast shape). A satellite created this way cannot be discharged the round it is created and lasts for 1 round per caster level, instead of 1 minute per caster level. A destructive blast whose damage was increased by spending an additional spell point does not deal increased damage when reformed into a satellite with this feat.
 
 **Example:** An evoker spends 1 spell point to cast destructive blast augmented with the Static Blast (blast type). This destructive blast misses its target, so the evoker spends 1 spell point as an immediate action to “recapture” this effect as a satellite created with the Energy Satellite (blast shape) with the same (blast type).
-
-#### Suffused Blasts [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction sphere (Paradigm Blast (blast type) or Smiting Blast (blast type)).
-
-**Benefit:** When using a destructive blast blast shape that allows a Reflex save with a blast type that deals anarchic, axiomatic, profane, or sacred damage, any targets damaged by these blasts that are of the opposite alignment (good creatures damaged by profane damage, for example) become sickened for 1 round.
-
-If you possess both Paradigm Blast and Smiting Blast, you may choose to have a blast that uses either talent deal one type of damage from each of these talents. For example, you may have a Paradigm Blast deal both axiomatic and sacred damage).
 
 #### Supernatural Elements (Dual Sphere) [DbH]
 
@@ -1103,16 +980,6 @@ Effects created with this feat operate as they normally would in spite of their 
 Admixture feats grant new ways to utilize the Admixture talent (from the Destruction sphere), adding abilities from other spheres to your destructive blast. All admixture feats replace the second blast talent you would normally apply, with the resulting destructive blast dealing normal blast damage in addition to the effect outlined in the feat. Any additional costs incurred by the additional effect must be paid as normal. If your caster level is different for the two spheres, the destructive blast is governed by your caster level for the relevant blast type and the additional effect is governed by your caster level for the appropriate ability.
 
 **Author's Note:** When using an (admixture) feat, the resulting sphere effect is not one simultaneous effect, but rather a destructive blast with another sphere effect as a new, independent rider. The new sphere effect is still subject to spell resistance if the destructive blast would not be, and the target makes a new, separate saving throw against the new effect.
-
-#### Augmenting Admixture (Admixture) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (Admixture), Enhancement sphere.
-
-**Benefit:** When using Admixture, you may spend an additional spell point to have a single object that takes damage be targeted by an enhancement effect that you possess. If you possess the Mass Enhancement talent, you may apply the enhancement to any objects damaged, up to your maximum targets from Mass Enhancement. This ability can only target objects, it cannot be used to affect creatures.
-
-**Special:** If you possess the Selective Admixture feat, you may choose to have the effect of any Admixture on the blast affect only the omitted objects rather than affecting damaged creatures.
 
 #### Auspicious Admixture (Admixture)
 

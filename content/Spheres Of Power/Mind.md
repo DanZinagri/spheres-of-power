@@ -123,18 +123,6 @@ You may reach into a subject’s memory and remove information and awareness of 
 
 **Powerful Charm:** The target loses all memory of events that transpired in the recent past (Will negates). This may erase memories going back 1 day per caster level. The caster may erase all or part of the subject’s memory of this time. A target’s memory may only be restored through the Life sphere’s Break Enchantment effect if the caster also possesses the Restore Senses talent, or through the miracle or wish spells. The target’s memory may also be replenished through the Inception talent’s powerful charm being used to specifically make the target remember what was forgotten.
 
-#### Brainwash (charm) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-You render the target more susceptible to mental influence.
-
-**Lesser Charm:** The target suffers a -2 penalty to Will saving throws, Wisdom checks, and the DC to influence them using Diplomacy or Intimidate for 1 minute per caster level (Will negates).
-
-**Greater Charm:** The target suffers a penalty to Will saving throws equal to half your caster level (minimum -2) as well as a penalty to Wisdom checks and the DC to influence them using Diplomacy or Intimidate equal to your caster level (minimum -2) for 1 hour per caster level (Will negates).
-
-**Powerful Charm:** As greater charm, save that the effect lasts for 1 day per caster level.
-
 #### Calm (charm)
 
 You may suppress emotions in hostile creatures or provide ease to excitement and confidence. You may deny raging creatures their battles or joyous creatures their revelry.
@@ -312,18 +300,6 @@ Encountering evidence that contradicts the new memory allows a new Will save to 
 
 A target’s false memories may only be removed or proven false through the Life sphere’s Break Enchantment effect if the caster also possesses the Restore Senses talent, or through the miracle or wish spells. The target’s memory may also be replenished through the Amnesia talent’s powerful charm being used to specifically make the target realize what memories are faulty.
 
-#### Innocence (charm) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You protect the target’s mind from heavier thoughts and connections.
-
-**Lesser Charm:** Any numerical penalties the target suffers from emotion and fear effects as well as from any severances they possess are reduced by 1 for 1 minute per caster level.
-
-**Greater Charm:** The target cannot have their motivations invoked either by themselves or by others and ignores any numerical penalties from emotion and fear effects as well from as any severances they possess for 1 minute per caster level.
-
-**Powerful Charm:** As greater charm, save that any penalties that the target would take as a result of an emotion or fear effect are instead treated as morale bonuses equal to half the penalty’s value (for example, if the target were affected by a crushing despair spell, she would gain a +1 morale bonus on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls, instead of the spell’s normal effect).
-
 #### Inspiration (charm)
 
 You inspire competence in the target.
@@ -407,18 +383,6 @@ You put the target to sleep.
 **Greater Charm:** You put the target to sleep for 1 minute per caster level (Will negates). Targets who take damage automatically wake up, and other creatures may wake a sleeping creature as a standard action (an application of the aid another action).
 
 **Powerful Charm:** The target is placed into a deeper slumber. Whenever the sleeping target takes damage or another creature attempts to wake it as a standard action, the target does not automatically awaken, but instead attempts a new Will save to wake up with a +4 bonus.
-
-#### Speechless (charm) [utility] [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-You impose a failure to communicate
-
-**Lesser Charm:** Choose a single language. For 1 round per caster level, the target cannot speak, understand, read, write, or otherwise communicate in the chosen language (including through telepathy). This effect does not prevent spellcasting, though it may prevent a target from speaking intelligibly if it suppresses the target’s only language. You may selectively manipulate the effect of this talent so that the target can understand only specific words in a language or fail to communicate only when attempting to share certain words or subjects.
-
-**Greater Charm:** This is the same as the lesser charm, save that the duration increases to 1 day per caster level. In addition, when used upon a creature that can communicate via telepathy, this charm prevents that ability’s use to receive or project thoughts. When used upon a creature without telepathy, the charm merely prevents the target from receiving telepathic communication. Those affected by this charm or that attempt to telepathically communicate with creatures under its effects are not innately aware that their communication is being inhibited. This does not affect attacks and effects unrelated to communication like the Read Thoughts or Cerebral Strike charms.
-
-**Powerful Charm:** This is the same as the greater charm, save that you may remove the target’s understanding of any number of languages for the duration.
 
 #### Utterances (charm)
 
@@ -659,14 +623,6 @@ You may spend an additional 1, 2, or 3 spell points and take 10 minutes to affec
 
 # Mind Sphere Feats
 
-#### Attuned Dreamer [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Dreamspace, either Dreamwalking Initiate or dreamwalker hedgewitch path power
-
-**Benefits:** Treat your character level as your hedgewitch level for the purpose of determining the effects of your secrets from the dreamwalker path and whether you can select grand path secrets from the dreamwalker path. You may use this feat to qualify for the Extra Secret feat, but may only use it to select secrets and grand secrets from the dreamwalker feat.
-
 #### Backdoor Control (Dual Sphere)
 
 **Prerequisites:** Enhancement sphere (Bestow Intelligence (enhance)), Mind sphere (Expanded Charm).
@@ -680,14 +636,6 @@ You may spend an additional 1, 2, or 3 spell points and take 10 minutes to affec
 **Benefit:** When you attempt to influence the attitude of an individual with the Diplomacy skill or deceive an individual with the Bluff skill, your very words are laced with deceptive, incantatory cadences. As a swift action, you may cause a target within 30 feet of you to attempt a Will save with a DC equal to 10 + 1/2 your Mind sphere caster level + your casting ability modifier. Failure means that your Bluff checks are treated as if your statements are one step more reasonable to the target (for example, an impossible lie that would ordinarily impose a -20 penalty to your Bluff checks would instead be treated as merely far-fetched and would only impose a -10 penalty to your Bluff check).
 
 In addition, failure means that the target is treated as one stage friendlier to you for the purposes of shifting his or her attitude by one step (for instance, changing the attitude of a creature from unfriendly to indifferent normally requires a DC equal to 20 + the creature’s Charisma modifier, but would now only require a DC equal to 15 + the creature’s Charisma modifier). These effects last a number of hours equal to your casting ability modifier, but the normal rules for the frequency with which a creature may be influenced by Bluff or Diplomacy are still in effect. This is a mind-affecting, language-dependent effect.
-
-#### Derelict Dreamspace [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Benefits:** You gain a dreamspace, as the Dreamspace feat, save that you cannot bring any items with you when you enter or leave.
-
-**Special:** This feat counts as the Dreamspace feat for the purpose of meeting prerequisites. If you ever gain both the Mind sphere and the Warp sphere, you immediately replace this feat with the Dreamspace feat.
 
 #### Doublespeak (Dual Sphere) [DbH]
 
@@ -813,14 +761,6 @@ Your escape masks any memory of your presence.
 **Prerequisite:** Mind sphere.
 
 **Benefit:** As an immediate action, you may spend a spell point to reroll a single Bluff, Diplomacy, or Intimidate check with a +2 enhancement bonus. You may make the decision to use this ability after rolling the check, and you must keep the result of the second roll even if it is lower. This bonus increases by +1 per 3 Mind caster levels.
-
-#### Telepathic Knell (Combat) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Mind Sphere
-
-**Benefits:** Whenever a creature that is under the effects of one of your Mind sphere effects or who was affected by one of your Mind sphere effects within the last round would be reduced to 0 hit points, you may spend a spell point as an immediate action to deal 1d6 damage per caster level to all creatures within 5 feet per 2 caster levels of the target (optionally including the original creature). A successful Will save against your Mind sphere DC negates this damage. You may choose whether this damage is nonlethal. This is a mind-affecting effect.
 
 #### Vampire’s Guile (Dual Sphere) [CrimDan]
 

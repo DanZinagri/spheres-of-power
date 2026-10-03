@@ -267,26 +267,6 @@ Additionally, the first time in a day that you would damage such a creature, you
 
 **Benefit:** When you deal discerning strike damage or expose vulnerability damage to a creature, you leave an opening you can exploit in the next 1 round. Whenever you meet the condition for the discerning strike or expose vulnerability damage again for that round but fail to deal the damage because it has already been dealt, you still deal an extra 1 precision damage per die of the ability.
 
-#### Mechanical Aptitude [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You possess a deep understanding of machinery and how people use it.
-
-**Prerequisites:** Knowledge (dungeoneering) 3 ranks, or Knowledge (engineering) 3 ranks; Study sphere.
-
-**Benefit:** You can begin a theory as a free action whenever you successfully identify the properties of a technological item in your subject’s possession or identify that your subject is a construct or trap. If you do so, the theory begins with one notion.
-You add the following methods of gaining a notion to your theories:
-
-- The subject of your theory uses or is affected by a technological item or racial/class feature based on technology that requires at least a standard action.
-- A technological item in your subject’s possession is successfully suppressed, affected using the Disable Device skill, or gains the broken condition.
-- If the subject of your theory is a trap, you gain a notion when a creature triggers it.
-
-Add the following breakthroughs to your theory
-
-- **Breakthrough:** You can spend any amount of notions as a free action that can be taken outside of your turn to gain an equivalent insight bonus to a single Craft (mechanical) or Disable Device check or to a combat maneuver made to disarm, steal, or sunder.
-- **Breakthrough:** You can spend any amount of notions as a free action to ignore a number of points of hardness equal to the number of notions spent until the start of your next turn. If you spend at least 5 notions, all of your attacks deal full damage to objects.
-
 #### Mystical Aptitude
 
 You are well-informed on many phenomena, the essence and functions of the planes, and the foundations of arcana.
@@ -314,33 +294,6 @@ You know how to prepare spells or extracts most of the way, and then finish the 
 **Benefit:** As part of preparing this plan, you can leave a spell slot or extract unprepared. You can reveal this plan as a full-round action to finish preparing a spell or extract of that level that you could have prepared in an unprepared slot.
 
 This is considered to be a plan talent for the purposes of determining the number of plans you can prepare in a day.
-
-#### Occult Aptitude [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-You are exceptionally skilled at prying into dangerous or forbidden information.
-**Prerequisites:** Knowledge (arcana) 3 ranks, Knowledge (dungeoneering) 3 ranks, or Knowledge (planes) 3 ranks; Study sphere.
-
-**Benefits:** You can begin a theory as a free action whenever you successfully identify the effects of a curse or identify a creature as an aberration. If you do so, the theory begins with one notion.
-
-You add the following methods of gaining a notion to your theories:
-+You or an ally successfully uses an Occult Skill Unlock to find information about the subject of your theory.
-+The subject of your theory causes a creature you perceive (including yourself) to take strain damage.
-
-You add the following breakthroughs to your theories:
-
-- **Breakthrough:** When you would take strain damage or ability damage to one of your mental ability scores, you can spend any amount of notions to reduce the amount of damage taken by 1 per notion spent (to a minimum of 0).
-- **Breakthrough:** Whenever you cast a spellcrafted spell or technique that you do not meet the prerequisites for, you may spend any number of notions. For every notion spent, the chance of a mishap is reduced by 5% to a minimum of 0%.
-- **Breakthrough:** Whenever you would suffer backlash from the forbidden lore class feature or a similar thaumaturge class feature, you may spend 3 notions to negate the backlash.
-
-#### Observing Position [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Navigation Sphere, Study Sphere
-
-**Benefits:** The first time each round the subject of your Theory within the area of your Pathing would add a notion to your theory, it adds an additional notion.
 
 #### Omen-bound Strike (Su) [DRS]
 

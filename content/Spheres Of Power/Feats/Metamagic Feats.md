@@ -82,16 +82,6 @@ If you change alignment such that you no longer have the alignment component you
 
 **Cost:** +2 spell points
 
-### Cascade Spell, Improved [SM—]
-
-**Prerequisites:** Cascade Spell
-
-**Benefits:** When you use the Cascade Spell metamagic feat, you may spend an additional spell point on the effect. If you do, the maximum caster level for individual magic sphere effects increases by 3 and the combined maximum caster level increases by 6.
-
-**Special:** You may select this feat multiple times, each time you do, you may spend an additional spell point when using Cascade Spell to increase the maximum caster levels by an additional 3 and 6.
-
-**Source:** Card Casting 2: Counters and Control
-
 ### Coaxing Spell (Metamagic)
 
 **Prerequisites:** Knowledge (Dungeoneering) 6 ranks, Sphere Focus (Mind).
@@ -158,14 +148,6 @@ If the talent does not allow a save, the target can attempt a Will save to negat
 
 **Cost:** +1 spell point
 
-### Dueling Spell (Metamagic) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Benefit:** When you use a damaging spell which targets an area, you can choose to have the spell leave undamaged any building, structure, or feature of the environment that would normally be affected.
-
-**Cost:** +0 spell points
-
 ### Ectoplasmic Spell (Metamagic)
 
 **Benefit:** An ectoplasmic talent has full effect against incorporeal or ethereal creatures.
@@ -201,14 +183,6 @@ If the talent does not allow a save, the target can attempt a Will save to negat
 Note: This refers only to the targeting range, not the effect range.
 
 **Cost:** +1 spell point
-
-### Essence-Linked Spell [Metamagic] [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Benefit:** When using a magic effect, you may target the caster of a magic effect by targeting a magic effect that they have created within your range (such as a barrier, a viewing sensor, or a shapeshift they have cast on another creature). Any attack roll is still made against the targeted caster’s AC and the caster is allowed any saving throws or spell resistance as normal, but only benefits from whatever cover or concealment that their targeted effect benefits from (for example, a shapeshift would benefit from concealment if the creature it is cast on benefits from concealment). You may ready an action to target a caster through an instantaneous effect that they create (such as a destructive blast).
-
-**Cost:** +3 spell points
 
 ### Extend Spell (Metamagic)
 

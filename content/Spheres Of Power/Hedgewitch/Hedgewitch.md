@@ -348,8 +348,6 @@ She may connect to multiple groups in the same dream (connecting to each separat
 **Path Grand Secrets:** A hedgewitch with the dreamwalker path adds the following grand secrets to those she can select:
 
 - **Dream Travel:** After successfully connecting the dreamwalker’s dreamspace to a target, she may spend a spell point at any point during the merged dream to physically transfer her body through dreamspace. Her physical body teleports to an unoccupied space adjacent to the target, regardless of the distance between them or if the target is on another plane.
-- **Expansive Dreamscape: [SM—]**For each 10-foot cube of your dreamspace, you instead gain 4 10-foot cubes which you may arrange however you wish. [**Source:** Baron’s Secluded Library]
-- **Overnight Delivery: [SM—]**If you have the dream travel grand secret, whenever you merge your dreamspace with the dream of another, you may transfer any items in your possession to a willing creature who you contacted in the dream, causing those items to appear around the dreamer when they wake up. [**Source:** Baron’s Secluded Library]
 - **Subjective Time:** The dreamwalker can adjust the effective time in her dreamspace, allowing experiences to occur faster or slower in the quasi-real space. Time in her dreamspace may either be doubled, allowing her to experience two rounds for every round in the real world, or halved, experiencing one round in dreamspace for every two rounds in the real world. She may adjust the effective time of her dreamspace when entering or part of the same standard action to adjust other traits of her dreamspace.
 
 **Path Mastery:** Merging the dreamwalker’s dreamspace with a target’s dreams no longer costs a spell point.
@@ -436,39 +434,6 @@ A hedgewitch can only have one target of studied combat at a time. This ability 
 - **Readied Plans:** The hedgewitch may reveal a plan as a move action rather than a full-round action. [LotS]
 
 **Path Mastery:** The font of inspiration gains a +2 bonus to her casting ability score.
-
-### Fortune [SM—]
-
-**Source:** Expanded Spheres: Cardcaster's Gamble
-
-The fortuneteller reads the strands of fates and understands how to twist them to their advantage in a variety of scenarios.
-
-**Class Skills:** Knowledge (geography) (Int), Knowledge (religion) (Int), Perception (Wis)
-
-**Path Benefit:** The fortuneteller gains the Fate sphere as a bonus magic talent.
-
-**Path Power:** Whenever the fortuneteller rests to regain spell points, she may roll a number of d20s equal to 3 + 1/2 her hedgewitch level and save the results as fortune dice. Whenever the fortuneteller would roll a d20, she may instead choose to use a fortune die she rolled at the beginning of the day. She can only use each of these fortune dice once and any unused rolls are lost when the fortuneteller rests to regain spell points.
-
-At 5th level, the fortuneteller may choose to use one of her fortune dice in place of the d20 roll of a creature within close range of her as an immediate action. An unwilling creature is allowed a Will save (DC 10 + 1/2 her hedgewitch level + her casting ability modifier) to negate this effect. You cannot use fortune dice to replace rolls made to counteract another fortune die, and fortune dice are expended even when the target succeeds at their saving throw.
-
-At 9th level, the fortuneteller may choose to substitute a fortune die for the result of a d20 which has just been rolled as an immediate action. Unwilling creatures are allowed a Will save as normal to negate the effect.
-
-At 13th level, the fortuneteller may spend a spell point as part of applying a fortune die to gain a +2 luck bonus on the roll or impose a -2 penalty on the roll.
-
-At 17th level, the fortuneteller gains 4 additional fortune dice at the start of the day which she may choose to use in addition to those she rolls. Two of these fortune dice are 20s and two of these rolls are 1s.
-
-**Path Secrets:** A hedgewitch with the fortune path adds the following secrets to those she may select:
-
-- **Borrowed Fortune:** By spending a spell point when she rolls a d20, the fortuneteller may roll twice and take the higher result. However, whenever the fortuneteller rolls a d20 before the end of her next turn, she rolls twice and takes the lower result.
-- **Enchanted Harrow Deck:** The fortuneteller gains the Deadly Dealer feat as a bonus feat, even if she does not meet the prerequisites. She gains the benefits of the Imbued Strike feat, but only for the purposes of using Deadly Dealer. When the fortuneteller uses the Deadly Dealer feat with a card from a harrow deck, the card is not destroyed.
-- **Fortunate Revelations:** The fortuneteller gains one oracle revelation from the divine numerologist, dual-cursed oracle, or seer oracle archetypes, using her hedgewitch level as her effective oracle level and her casting ability modifier in place of her Charisma modifier when meeting its prerequisites or determining its effects. The fortuneteller is not required to take specific revelations at specific levels. This secret can be selected multiple times.
-- **Harrowed Thrower:** (requires Enchanted Harrow Deck) When the fortuneteller uses the Deadly Dealer feat with a card from a harrow deck, the card gains the returning weapon special ability. In addition, the fortuneteller can deliver a touch spell with a thrown card. This uses the Deadly Dealer feat, except the attack is resolved as a ranged touch attack and the card deals no damage of its own.
-
-**Path Grand Secrets:** A hedgewitch with the fortuneteller path adds the following grand secrets to those she may select:
-
-- **Foreseen:** The fortuneteller is never surprised and can always take a standard action during a surprise round.
-
-**Path Mastery:** When selecting a fortune die with a roll result equal to or lower than her casting ability modifier to use on herself, the fortuneteller doesn’t expend that fortune die. In addition, any critical threats made against the hedgewitch only confirm if the second roll results in a natural 20 on the die.
 
 ### Green Magic
 

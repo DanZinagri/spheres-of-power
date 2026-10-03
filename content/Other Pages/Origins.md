@@ -495,18 +495,6 @@ You gain a single feat of your choice as a bonus feat. You must meet the prerequ
 
 ## Aptitude Sphere Auxiliary Talents
 
-#### Armor Adaptation [auxiliary] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-While wearing light or medium armor with no metal components, increase the armor bonus from that armor by 2.
-
-#### Cagey Dodger [auxiliary] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You gain a +2 origin bonus to AC against attacks of opportunity.
-
 #### Defensive Tolerance [auxiliary]
 
 Choose a single creature type or subtype. You must choose a subtype of humanoid or outsider if you select those types. You gain a +2 origin bonus to saving throws against abilities used by creatures of that type or subtype. You may take this talent multiple times, each time selecting a new type or subtype to apply it against.
@@ -514,18 +502,6 @@ Choose a single creature type or subtype. You must choose a subtype of humanoid 
 #### Defensive Training [auxiliary]
 
 Choose a single creature type or subtype. You must choose a subtype of humanoid or outsider if you select those types. You gain a +4 dodge bonus to AC and CMD against attacks made by creatures of that type or subtype. You may take this talent multiple times, each time selecting a new type or subtype to apply it against.
-
-#### Eternal Readiness [auxiliary] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You gain a +2 origin bonus to AC during surprise rounds and are not flat-footed during surprise rounds, regardless of whether or not you participate in the surprise round.
-
-#### Exceptional Aptitude [auxiliary] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You gain a +2 origin bonus to ability checks made with an ability score of your choice. You may select this talent multiple times, each time selecting a different ability score. The bonus from this talent does not stack with origin bonuses to initiative.
 
 #### Face Your Fears [auxiliary]
 
@@ -538,14 +514,6 @@ You gain a +2 origin bonus to initiative checks.
 #### Iconoclast [auxiliary]
 
 You gain a +2 origin bonus to saving throws against effects created by items (including alchemical items, magic items, etc.).
-
-#### Insistent Critical [auxiliary] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You gain a +2 origin bonus to confirm critical hits
-
-**Associated Feat:** Critical Focus
 
 #### Intuitive [auxiliary]
 
@@ -591,14 +559,6 @@ One of your subordinates gains a +2 inherent bonus to Constitution, Dexterity, o
 
 You may select this talent multiple times, each time selecting a different subordinate.
 
-#### Vandal [auxiliary] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You gain a +2 origin bonus to attack and damage rolls against objects
-
-**Associated Feat:** Improved Sunder
-
 #### Weapon Of Choice [auxiliary]
 
 Choose a single weapon that you are proficient with. You gain a +1 origin bonus to damage rolls with that weapon
@@ -608,13 +568,6 @@ Choose a single weapon that you are proficient with. You gain a +1 origin bonus 
 You gain a +1 origin bonus on Reflex saves and a +1 dodge bonus to armor class when adjacent to at least two other allies. Crowds do not count as difficult terrain for you.
 
 ## Aptitude Sphere Utility Talents
-
-#### Adaptive Methods [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-It takes only 4 days for you to retrain one level in a class into one level in another class regardless of whether the classes have synergy. You may retrain a feat, a talent, an ability score increase, an archetype, a class feature, or a number of skill ranks equal to your Intelligence modifier in 3 days. You may retrain hit points in 2 days.
-**Associated Feat:** Expert Trainer
 
 #### Applied Consistency [utility]
 
@@ -653,30 +606,6 @@ You may apply one of the following blacksmith maintenances to yourself with an e
 #### Chef’s Upkeep [potent]
 
 You learn a single recipe, choosing a single entree and flavor. This functions as the iron chef blacksmith recipes class feature, treating your effective blacksmith level as level 1. If you ever gain the recipes class feature, you gain Extra Smithing Insight as a bonus feat and must choose a smithing insight that grants additional options for their recipes class feature (such as the fruits or starches smithing insights). The Extra Smithing Insight feat gained this way does not count against the number of times you may gain the feat normally.
-
-#### Mastercraft Insight [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-When calculating the base cost for creating an item, perform all the calculations and then reduce the base cost by 10%. This discount affects the crafting time as well as the final price of the item. This does not stack with similar abilities that discount a magic item’s effective base cost.
-
-#### Uncanny Aptitude [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Choose either Intelligence, Wisdom, or Charisma. You may add the chosen ability score as a bonus of one of the listed types in one of the listed areas.
-
-- You may use the chosen ability score in place of Strength or Dexterity when making attack and damage rolls with a single weapon of your choice. You may select this option multiple times, each time selecting a different weapon.
-- You may use the chosen ability score in place of Dexterity for the purpose of determining your AC, CMD, and Reflex saving throw.
-- While wearing no armor, you may add the chosen ability score as an armor bonus to your AC. If you select this option a second time, this bonus becomes a sacred or profane bonus and applies while wearing light or no armor.
-- You may use the chosen ability score in place of Constitution for the purpose of determining your Fortitude saving throw
-- You may use the chosen ability score in place of Constitution for the purpose of determining your hp
-- You may add the chosen ability score to your CMB and CMD in place of Strength
-- You may add the chosen ability score to concentration checks in addition to your casting ability modifier.
-
-The options presented here do not stack with other effects which allow you to add an ability score to a certain check or statistic, regardless of their bonus type.
-
-At GM discretion, a character may select this talent additional times, up to a maximum of once per 5 character levels.
 
 ## Aptitude Sphere Phenomenal Auxiliary Talents
 
@@ -740,14 +669,6 @@ The skill bonuses granted by one instance of Skill Familiarity increase from +2 
 
 **Special:** This talent is only considered a utility talent if the instance of Skill Familarity you choose with this talent is also a utility talent.
 
-#### Master Smith [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-Choose an Item Creation feat you possess. You require only half the normal amount of time to enchant items made using that item creation feat. This does not stack with similar abilities that reduce a magic item’s crafting time and applies before modifications to crafting time from Dynamic Magic Item Creation.
-
-This talent may be selected multiple times, each time applying to a different item creation feat.
-
 #### Rapid Preparation [utility]
 
 Over the course of an hour, you may perform two acts of preparation which require an hour or less as part of the same hour of preparation. This could allow you to create Alchemy formulae and prepare wizard spells in one hour rather than two.
@@ -797,12 +718,6 @@ You are not healed or harmed by positive or negative energy effects which deal o
 #### Augmented Essence [potent]
 
 Choose a single class. For the purpose of determining all class abilities except for casting, skill spheres, and combat spheres, treat one of your ability scores as 2 higher. You may take this talent multiple times, each time selecting a different class.
-
-#### Blessed Arsenal [potent] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Choose a fighter weapon group of your choice. You gain a +1 sacred or profane bonus (chosen when you select this talent) to attack rolls with weapons of that group.
 
 #### Elemental Augmentation [potent] (Su)
 
@@ -894,12 +809,6 @@ You can choose to gain fast healing 2 for 1 round anytime you succeed at a savin
 
 Effects which can be used to repair constructs or objects that cost at least 1 spell point (or which use a spell slot of 1st level or higher) can target you and restore your hit points. This does not change how positive or negative energy affects you.
 
-#### Woodland Stride [auxiliary] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-You can move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at up to half their normal speed without taking damage or suffering other impairment. Thorns, briars, and overgrown areas that have been magically manipulated to impede motion, however, still affect you.
-
 ## Essence Sphere Utility Talents
 
 #### Luminous Being [utility] (Su)
@@ -928,31 +837,11 @@ When you make an attack which adds the damage from that Elemental Augmentation, 
 
 Choose a single energy type which you have at least energy resistance 20 against (not including energy resistance from items or magic effects). You become immune to energy damage of that type.
 
-#### Immortal Damage Reduction [potent] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Essence Sphere (Damage Reduction [auxiliary], Improved Damage Reduction [potent])
-
-Choose one of the following
-**Sacrosanct:** Your damage reduction from origin talents changes to DR bypassed by an alignment opposite to yours (so if you were chaotic good your DR would become DR/lawful or evil). A true neutral creature with this talent has their DR changed to DR/adamantine. In addition, your damage reduction improves to 5 + ½ your level (maximum 15)
-
-**Unbreakable:** Your damage reduction from origin talents becomes DR/-. If you have DR/- from another source, these two sources of damage reduction stack.
-
 #### Improved Damage Reduction [potent]
 
 **Prerequisites:** Essence sphere (Damage Reduction [auxiliary]).
 
 Your damage reduction improves to 2 + 1/4 your character level (rounded down). In place of cold iron or silver, you may select wood, glass, or another material at GM discretion to be required to bypass your damage reduction.
-
-#### Ingest Magic Item [potent] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You can eat a magic item whole, preserving it inside your body and protecting it from attack or theft. You do not digest the consumed magic item, but while it is inside your body you are counted as wearing it (preventing you from benefitting from other magic items that would occupy its slot but allowing you to benefit from the item if you lack the normal item slot to use the item). The item’s effects can still be dispelled or suppressed by targeting your body, but the ingested item cannot be targeted or sundered.
-A magic item can be surgically removed from your body, a process which requires a DC 20 Heal check, takes 1 hour, and inflicts 1d6 points of Constitution drain.
-
-If you have the swallow whole ability, you can use Spellcraft to identify magic items on creatures you have swallowed. If such a creature dies while inside you, you can ingest any magic items the creature had in its possession.
 
 #### Parallel Alignment [potent] (Su)
 
@@ -968,14 +857,6 @@ You may choose to have magic effects such as smite evil or the Fate sphere’s D
 
 Choose a single magic sphere. You gain a +2 origin bonus to your caster level for this sphere as long as this bonus does not raise your caster level above your current Hit Dice. This does not stack with any trait which would provide a bonus to caster level.
 
-#### Sanctified Expertise [potent] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Choose one origin talent you possess. Any origin or dodge bonuses from that talent are doubled (to a maximum of 4) and change from origin or dodge bonuses to sacred or profane bonuses (your choice).
-
-You may select this talent multiple times, each time selecting a different origin talent
-
 #### Soulbound Graft [potent]
 
 **Prerequisites:** Essence sphere (Artificial Soul [potent]).
@@ -987,12 +868,6 @@ Choose either positive or negative energy. You are no longer immune to that type
 You gain spell resistance equal to 6 + your character level. You may lower or reinstate this spell resistance as a standard action. You may select this talent a second time (or a first time if you gain spell resistance or already possess spell resistance from another source besides equipment) to increase your spell resistance to 11 + your character level.
 
 ## Essence Sphere Phenomenal Auxiliary Talents
-
-#### Absent Reflection [auxiliary] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-You do not cast a shadow or reflection and are immune to effects that would target your shadow or reflection.
 
 #### Anomalous Being [auxiliary]
 
@@ -1043,12 +918,6 @@ You can see through fog, mist, murky water, and smoke as if they were perfectly 
 Animals do not willingly approach you unless they succeed on a Will save (DC 10 + 1/2 your Hit Dice + the highest of your Intelligence, Wisdom, or Charisma modifier) or the animal’s master attempts a Handle Animal, Ride, or wild empathy check. The DC is equal to 10 + your level + your Charisma modifier.
 
 ## Essence Sphere Phenomenal Utility Talents
-
-#### Afterlife Intermittence [utility] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You do not suffer any negative levels from being raised or resurrected.
 
 #### Ephemeral Sustenance [utility]
 
@@ -1105,18 +974,6 @@ When you take the spell resistance talent, you may choose to have it apply only 
 You may choose to become vulnerable in daylight, becoming staggered so long as you are exposed (this ignores any immunity to being staggered that you may possess). If you do, you gain either Meld Into Shadow or Negative Energy Affinity as a bonus talent. You may take this variation a second time to gain the other talent you did not select or Damage Reduction as a bonus talent. If you do, you take untyped damage equal to twice your character level every round you remain in daylight.
 
 For the purpose of this talent, light coming from a star within 1 billion miles of the user is considered daylight. Light reflected off of other celestial bodies such as moons is not potent enough to be considered daylight.
-
-#### Typal Spell Resistance [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-When you take the spell resistance talent, you may choose to have it apply only against effects created by a specific tradition of magic (such as arcane, divine, or psychic) or that use a specific boon or drawback. Against effects within the chosen parameters, you are considered to have taken the Spell Resistance talent twice.
-
-#### Unwelcome Return [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You may gain Afterlife Intermittence as a bonus talent. If you do, you are always considered a willing creature for the purpose of being raised or resurrected.
 
 # Form Sphere
 
@@ -1266,12 +1123,6 @@ The total penalty to your movement speed from armor or encumbrance is reduced by
 
 You emit a terrible scent as a 10-foot aura that nearly every other creature finds offensive. This is a poison effect. All living creatures (except other creatures with the stench ability) within the aura must succeed at a Fortitude saving throw (DC 10 + 1/2 your character level + your Constitution modifier) or be sickened for a number of rounds equal to your Constitution modifier. Creatures that succeed at the saving throw cannot be sickened by the same creature’s stench for 24 hours. A delay poison or neutralize poison spell or similar effect removes the effect from the sickened creature.
 
-#### Sturdy Build [auxiliary] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-At the start of each day, you gain a number of temporary hit points equal to the highest of your Intelligence, Wisdom, or Charisma modifier plus your total number of Hit Dice. These temporary hit points remain for 24 hours.
-
 #### Thick-Skinned [auxiliary]
 
 You gain a +1 natural armor bonus to AC. You may take this talent a second time, in which case the bonus increases to +2. **Associated Feat:** Improved Natural Armor.
@@ -1402,25 +1253,11 @@ You suffer no penalties from ability damage, although you still fall unconscious
 
 You are immune to pattern and phantasm effects.
 
-#### Limb Detachment [auxiliary] [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Form sphere (Developed Tolerance (bleed and pain effects) [auxiliary], Redundant Physiology)
-
-You may reattach any adjacent limbs that are severed from your body as a free action. In addition, you may treat unarmed and natural attacks you make as having the thrown weapon property with a range of 20 feet.
-
 #### Perfect Health [auxiliary]
 
 **Prerequisites:** Form sphere (Developed Tolerance (disease) [auxiliary]).
 
 You are immune to disease effects.
-
-#### Radiation Inured [auxiliary] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-You are immune to the effects of radiation. This also includes variants of radiation such as aetherite radiation.
 
 #### Reaching Appendage [auxiliary]
 
@@ -1498,14 +1335,6 @@ If you possess the Reaching Appendage talent, you can hang from an object within
 
 You can augment your tail slap attack with a kobold tail attachment and are considered proficient with all kobold tail attachments. **Associated Feat:** Tail Terror.
 
-#### Titan’s Compaction [auxiliary] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Essence Sphere (sizeshifter), Form Sphere (miniscule)
-
-As a move action, you may reduce your size by any number of steps down to a minimum of small or increase your size up to your original size (the original size being from before applying the effects of the Miniscule talent). You may choose to have any size change you are subject to not alter your ability scores or natural armor. You may return to your original size as a move action.
-
 #### Tremendous Tolerance [auxiliary]
 
 **Prerequisites:** Form sphere (Developed Tolerance [auxiliary] or Spellhardy [potent]).
@@ -1543,12 +1372,6 @@ You gain the ability to release pheromones which you can use to communicate with
 #### Self-Sustaining [utility]
 
 You do not need to eat or drink.
-
-#### Unusual Sustenance [utility] [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-Choose a material such a stone, metal, or wood or an energy source such as fuel or electricity. Consuming 1 gp worth of that material or energy source does not harm you and grants you sustenance as a gallon of water and a pound of food.
 
 ## Form Sphere Variations
 
@@ -1636,12 +1459,6 @@ You may choose to become dependent on sunlight to operate, taking 1d4 points of 
 
 When you gain the Fleet Movement talent, you can choose to suffer increased penalties from difficult terrain. For you, each square of difficult terrain counts as 4 squares of movement (rather than 2), and each diagonal move into a square of difficult terrain counts as 6 squares (rather than 3). If you do, you gain Fleet Movement a second time as a bonus talent. On any turn in which you benefit from Fleet Movement, you cannot use any ability which allows you to ignore difficult terrain.
 
-#### Unusual Diet [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-You may gain Unusual Sustenance as a bonus talent. If you do, you do not gain sustenance from consuming anything other than your chosen material (you may still benefit from consuming potions and other items as normal).
-
 #### Vestige Of The Other
 
 When you gain the Developed Tolerance talent, you can choose an additional option from the Table: Lesser Developed Tolerance Effects to gain a bonus to saving throws against. If you do, choose either construct, dragon, outsider, or undead. For the purposes of effects targeting creatures by type (such as a ranger’s favored enemy and bane weapons), you count both as your actual type and your chosen type.
@@ -1706,90 +1523,7 @@ In the case of Oath boons, a character may assign any number of their Oath point
 If you possess the Linked Equipment feat, you may lose your choice of any Oath boons or automatic bonus progression bonuses you possess and apply them to your companion for the duration of the summon. Assigning a bonus to a newly summoned companion ends its effects for any previously summoned companion. You regain the benefits of the selected Oath boons when the summon ends. When gaining Oath boons in this way, your companions are treated as subordinates for the purpose of acting in a way that violates your Oaths.
 —-
 
-# Reincarnated Origin Traditions [SM—]
-
-**Source:** Baron’s Hallowed Archive
-
-When a character with an origin tradition is reincarnated, they are changed in numerous ways. If a character possesses an origin bonuses or penalties to Strength, Dexterity, or Constitution or any Form sphere talents and variations, these options are changed as the character accommodates to a new body. A character’s size and type may also be changed in the process of reincarnation, as might their generation tradition. The following modifications should be made to the character for each of these categories.
-
-## Origin Bonuses
-
 For each bonus or penalty a character possesses to Strength, Dexterity, or Constitution due to their origin tradition, assign it to a random ability score among the three. If a bonus and a penalty are applied to the same ability score, they cancel each other out.
-
-| D6 result | Ability score |
-| --- | --- |
-| 1-2 | Strength |
-| 3-4 | Dexterity |
-| 5-6 | Constitution |
-
-## Form Talents and Variations
-
-First, the character loses all Form sphere talents, Form sphere variations, and any talents granted by Form sphere variations.
-
-- For each Form sphere talent replaced that wasn’t granted by a variation, replace it with another random talent of the same category that the character could fit into that slot (replacing a potent talent with a potent talent, a utility talent with a utility talent). Roll randomly to determine which talents replace the previous talents.
-  - If a character selected 2 potent talents with their origin tradition, there is a 25% chance that one of these potent talents is replaced by 3 auxiliary talents and a utility talent.
-  - If a character selected 1 potent talent with their origin tradition, there is a 20% chance that their auxiliary and utility talents are replaced by a second potent talent.
-- The character gains 1d6-3 Form sphere variations (minimum 0), with new talents and bonuses granted from these Form sphere variations being determined randomly from among selectable options.
-- New Form sphere talents granted from non-Form sphere variations are determined randomly from among selectable options.
-- At GM discretion, certain Aptitude or Essence sphere talents and variations may also be replaced or added as if they were Form talents and variations.
-
-(a table is not provided due to the changing number of talents and variations in print)
-
-## Size
-
-Roll randomly to determine the character’s size before any Form talents or other modifications are applied. The GM may wish to adjust the ratios of different sizes
-
-| D4 result | Size |
-| --- | --- |
-| 1 | Small |
-| 2-4 | Medium |
-
-## Creature Type
-
-The character’s creature type is determined randomly based on what creature types are considered appropriate for play in the setting. In the case of humanoids or other types that have a significant number of subtypes, the character’s creature type may be rolled randomly among them. A sample table is provided below.
-
-|  |  |
-| --- | --- |
-| D10 result | ~Generation Tradition Boon |
-| 1 | Humanoid (human) |
-| 2 | Humanoid (elf) |
-| 3 | Humanoid (dwarf) |
-| 4 | Humanoid (halfling) |
-| 5 | Fey |
-| 6 | Monstrous Humanoid |
-| 7 | Outsider (native) |
-| 8 | Plant |
-| 9 | Aberration |
-| 10 | Dragon |
-
-## Generation Tradition
-
-The following Generation Tradition Boons and Drawbacks should be replaced with random other boons/drawbacks based on the character’s new circumstances. For each Generation Drawback or Boon the character originally possessed among the following list, roll randomly from among the following tables to determine which new qualities they possess. When rolling for new drawbacks and boons, it is possible to have a character gain the same drawback or boon they lost. As rolling for drawbacks can potentially remove or add both drawbacks and boons, drawbacks should be rolled first. If a character has no Generation Tradition boons or drawbacks, there is a 50% chance that they have to roll on the drawback table once.
-
-- **Drawbacks to Replace:** End Of The Line, Fleeting, Outcast, Slow Maturation, Spiritual Ravaging, State Of Collapse, Stigmatized, The Calling
-- **Boons to Replace:** Fast Maturation, Lauded Legacy, Long-Lived, Tight-Knit
-
-If there are existing forms established in the setting or the GM wishes to restrict reincarnations to specific options, the GM may link multiple options from above together to produce results corresponding to specific forms. These results may be arrayed on a table such as the one presented below.
-
-| D10 result | Generation Tradition Drawback |
-| --- | --- |
-| 1 | End of the Line |
-| 2 | Fleeting |
-| 3 | Outcast |
-| 4 | Slow Maturation |
-| 5 | Spiritual Ravaging |
-| 6 | State of Collapse |
-| 7 | Stigmatized |
-| 8 | The Calling |
-| 9 | No drawback, remove a random generation tradition boon the character possesses |
-| 10 | Roll again twice, adding the additional generation tradition drawback and an additional random generation tradition boon from the table below |
-
-| D4 result | Generation Tradition Boon |
-| --- | --- |
-| 1 | Fast Maturation |
-| 2 | Lauded Legacy |
-| 3 | Long-Lived |
-| 4 | Tight-Knit |
 
 ---
 

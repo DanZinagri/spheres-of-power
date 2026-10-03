@@ -271,12 +271,6 @@ Your Life magic makes your ally restless and full of energy, granting them a +30
 
 Your Life magic alleviates the target’s worries, making them feel lighter. This causes the target to float up to 6 inches above the ground, allowing the target to ignore difficult terrain and ground-based hazards (such as caltrops).
 
-#### Ruin into Resurgence (vitality) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-This (vitality) talent may only be applied to effects that remove negative levels, ability damage, or ability drain. For every 2 negative levels, 6 points of ability damage, or 4 points of ability drain removed, the target gains a cumulative +1 insight bonus on ability checks, attack rolls, saving throws, and skill checks, to a maximum of +1 per 4 caster levels (minimum +1).
-
 #### Securing Vitality (vitality) [Warden]
 
 Your Life magic instills the target with stability and strength. This grants the target a +2 circumstance bonus to CMB and CMD.
@@ -328,46 +322,6 @@ If playing with the [[Strain (formerly Madness)|strain]] rules, this talent also
 Additionally, they are healed of all broken bones, severed body parts (fingers, toes, hands, feet, arms, legs, tails, or even heads of multi-headed creatures), and ruined organs. This also restores sight, hearing, and other permanent loss of senses. If body parts to be reattached are not present, they require 2d10 rounds to regrow.
 
 This cannot bring a creature back from the dead nor function on a creature that is already dead.
-
-#### Mythbound Sustenance [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-**Prerequisites:** Life Sphere (Revitalize), caster level 10th
-
-When you affect one or more creatures with revitalize, you may spend 3 additional spell points to connect their rejuvenation to their uses of mythic power. The first time each round an affected creature spends one or more uses of mythic power, they are immediately affected by a cure or restore effect of your choice that you can create. If you do this, the duration of revitalize is reduced to 1 round per caster level.
-
-#### Reincarnation [utility] [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-**Prerequisites:** Life Sphere (Resurrection (advanced), Resuscitate)), caster level 10th
-
-When you use the Resurrection talent, you may spend an additional spell point to bring back the spirit of the target dead creature into another body, provided that the subject’s soul is willing to return.
-
-Since the dead creature is returning in a new body, all physical ills and afflictions are repaired. The condition of the remains is not a factor. So long as some small portion of the creature’s body still exists, it can be reincarnated. The magic creates an entirely new young adult body for the soul to inhabit from the natural elements at hand.
-
-A reincarnated creature recalls the majority of its former life and form. It retains any class abilities, feats, or skill ranks it formerly possessed. Its class, base attack bonus, base save bonuses, and hit points are unchanged. If the reincarnated creature has an origin tradition, consult the rules for Reincarnated Origin Traditions.
-
-#### Reincarnation, Instant [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-**Prerequisites:** Life Sphere (Reincarnation (advanced), Resurrection (advanced), Resuscitate), caster level 15th
-
-When a creature within range of your cure dies, you may spend 2 spell points as an immediate action to resurrect the target with the Resurrection talent and reincarnate it as per the Reincarnation talent (paying the spell point and material costs of these talents as normal).
-
-#### Reincarnation, Manipulated [utility] [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-**Prerequisites:** Life Sphere (Reincarnation (advanced), Resurrection (advanced), Resuscitate), caster level 20th
-
-When you reincarnate a creature, for every 3 caster levels you posses, you may declare the result of a single roll made as part of the Reincarnated Origin Tradition (such as creature type, size, or allocation of origin bonus) or ensure that the reincarnated creature possesses a specific talent, variation, Generation Tradition boon, or Generation Tradition drawback.
-In addition, for every additional spell point you spend, one of the following additional stipulations can be added to the reincarnation.
-
-- **Rebirth:** Rather than their current age, the target returns to life as a newborn child, regaining all of their abilities (and potentially their memories) once they reach a specific age. This rebirth generally takes place somewhere in the world, though if a willing host, egg, or other gestative entity is present the host may have the target begin gestating in the listed entity.
-- **Otherworlder:** The target is reincarnated on another world and possibly another plane, a realm completely divorced from the one in which the incantation is cast. It may eventually return to its original world through whatever means are available to it on the new world.
 
 #### Resurrection
 
@@ -531,39 +485,11 @@ In addition, you may treat your Alteration sphere shapeshift sphere ability as t
 
 **Benefit:** Whenever you would use your lay on hands class feature, you may grant the affected creature the benefits of a single (vitality) talent you possess.
 
-#### Revoke Healing [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Life Sphere (Affliction)
-
-Whenever you would be able to use a Life sphere effect, you may instead spend a spell point to undo a single Life sphere effect you have cast on a target that is within range of your Life sphere abilities.
-
-If you undo a cure effect, the target takes damage equal to the amount healed by a cure effect you cast on them within the last 24 hours. This damage cannot be mitigated, redirected, or prevented. The damage occurs in a single round. In the case of healing spells that heal over multiple rounds, only healing provided in the first round is counted when determining damage.
-
-If you undo a restore effect, the target regains any conditions, penalties, negative levels, or ability damage/drain that you removed with a single instance of restore.
-
-If you undo an invigorate effect, the target loses any temporary hit points you granted and takes damage equal to the amount of temporary hit points they have lost which you granted them with the effect.
-
-If you undo an affliction effect, the target loses any damage or conditions inflicted by that affliction.
-
-If you undo a resurrection effect, the target immediately dies.
-
-A single Life sphere effect cannot be revoked more than once.
-
 #### Rigorous Defense
 
 **Prerequisites:** Life sphere, inspiration class feature.
 
 **Benefit:** Whenever you use inspiration, you may invigorate yourself as part of the same action.
-
-#### Siphoning Invigoration [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Life Sphere (Greater Invigorate, Taste of Victory)
-
-When you use Invigorate as a swift action after using Taste of Victory, you may spend an additional spell point to increase the number of temporary hit points gained from invigorate to an amount equal to the damage dealt with the attack that triggered Taste of Victory.
 
 #### Studied Healing
 
@@ -590,16 +516,6 @@ Your form in this particular world is one of many. Material from beyond can repl
 **Prerequisites:** Life sphere (Affliction).
 
 **Benefit:** Upon successfully using your Affliction talent, you may use a swift action to use a Life sphere ability on yourself.
-
-#### Vampiric Transference [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Life Sphere (Affliction), Vampiric Disruption
-
-**Benefit:** When you use Vampiric Disruption, you may spend an additional spell point to use the Life sphere ability as a free action rather than a swift action. In addition, you may target any creature within the range of your Life sphere talents with the effect rather than only yourself.
-
-*Wiki Note:* This feat isn't intended to be used alongside additional instances of Affliction. Any additional Life sphere talents created using this feat cannot be used to inflict negative conditions or deal damage to targets.
 
 #### Wellspring Of Life
 

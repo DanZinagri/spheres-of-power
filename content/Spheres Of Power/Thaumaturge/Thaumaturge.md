@@ -245,25 +245,6 @@ The following feats are particularly appropriate or useful for thaumaturges.
 
 **Benefit:** Add your forbidden lore bonus to your caster level when determining the total Hit Dice of fey creatures you may have summoned at one time.
 
-#### Occult Aptitude [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-You are exceptionally skilled at prying into dangerous or forbidden information.
-**Prerequisites:** Knowledge (arcana) 3 ranks, Knowledge (dungeoneering) 3 ranks, or Knowledge (planes) 3 ranks; Study sphere.
-
-**Benefits:** You can begin a theory as a free action whenever you successfully identify the effects of a curse or identify a creature as an aberration. If you do so, the theory begins with one notion.
-
-You add the following methods of gaining a notion to your theories:
-+You or an ally successfully uses an Occult Skill Unlock to find information about the subject of your theory.
-+The subject of your theory causes a creature you perceive (including yourself) to take strain damage.
-
-You add the following breakthroughs to your theories:
-
-- **Breakthrough:** When you would take strain damage or ability damage to one of your mental ability scores, you can spend any amount of notions to reduce the amount of damage taken by 1 per notion spent (to a minimum of 0).
-- **Breakthrough:** Whenever you cast a spellcrafted spell or technique that you do not meet the prerequisites for, you may spend any number of notions. For every notion spent, the chance of a mishap is reduced by 5% to a minimum of 0%.
-- **Breakthrough:** Whenever you would suffer backlash from the forbidden lore class feature or a similar thaumaturge class feature, you may spend 3 notions to negate the backlash.
-
 #### Occult Savant
 
 **Prerequisites:** Spellcraft 10 ranks, Use Magic Device 10 ranks or any Knowledge skill 10 ranks; occult knowledge class feature.
@@ -316,7 +297,6 @@ The following are archetypes that thaumaturges can take.
 | [[Ebonmage (Thaumaturge Archetype)\|Ebonmage]] [DRS] | An ebonmage is talented perfection, warlocks and magi which reach into the darkness of this world to wield for their own. This archetype uses the [[Polished Dark]] sphere rework. |
 | [[Eldritch Cultist]] | Eldritch cultists may become confused by their knowledge, but also gain the [[Divination]] sphere. |
 | [[Experimentalist]] | Experimentalists can create useful alchemic brews using their forbidden alchemy. |
-| [[Gambler SM—\|Gambler]] [CS/3PP] | The Gambler is a martial combatant with a focus on chance. |
 | [[Genius]] | Geniuses are particularly adept at using skills, along with a small amount of martial ability. Though officially an archetype, it is presented as a class due to the significant number of changes to the entire class. |
 | [[Knight Of Willpower\|Knight of Willpower]] | Knights of willpower can receive a truly incredible boost to their power, but also have a great chance of backlash. |
 | [[Martial Thaumaturge]] [CS] | Martial thaumaturges can access the combat spheres, although they're not as focused on it as Savants. |

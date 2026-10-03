@@ -124,36 +124,6 @@ You may never raise undead (such as with the Death sphere reanimate sphere effec
 **Note: Oath of the Cryptkeeper and Burying the Dead**
 This oath requires the oathbound to respectfully bury the fallen. In some instances, this can be incredibly time consuming, and even detrimental to a party under time constraints. It is advised that a character with this oath attempts to bury the fallen within a reasonable amount of time after encountering the corpse (that can either be immediately or within a few days) or before departing the area for a significant length of time.
 
-### Oath of Deliberation (4 Oath Points) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Oath:** You have promised to carry yourself with weighted patience. You cannot willingly perform swift or immediate actions.
-
-**Defiance Penalty:** The tension of reckless action disrupts your equilibrium, causing you to take a penalty on attack rolls and AC equal to half your character level (minimum -2).
-
-**Atonement:** You must redevelop your patience in tense situations, acting as if you had the staggered condition for 24 hours.
-
-### Oath of Devotion (1 Oath Point) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Oath:** Your powerful feelings for a specific person fuel your outlook and passion. Choose a person important to you at GM discretion. You may not speak badly of them, break a promise to them, snub their gestures of friendship, turn down their requests, or place your dedication to another person (besides yourself) above your dedication to the person. If you have to choose between the person’s commands and a violation against social or moral law or a specific code of conduct, the GM is responsible for deciding if you have kept to the spirit of the Oath.
-
-**Defiance Penalty:** In crossing the subject of your devotion, you are left purposeless and adrift. You take a penalty on all skill checks equal to half your character level.
-
-**Atonement:** To atone, you must confess your discretions to your chosen person and receive their forgiveness. If both apology and forgiveness are sincere, you regain your abilities after 24 hours.
-
-### Oath of Expedience (3 Oath Point) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Oath:** In times of trouble, you move with continued forward action. In combat, you cannot willingly perform full-round actions or actions that take 1 round or more, nor can you willingly take 10 or 20 on rolls.
-
-**Defiance Penalty:** The opportunities you stand to lose unnerve you. You take a penalty on Fortitude and Will saving throws equal to half your character level (minimum -2).
-
-**Atonement:** You must make up for what you perceive as lost time and potential, spending three nights without sleeping (this causes you to become fatigued and exhausted as normal).
-
 ### Oath of Honor (2 Oath Points)
 
 **Oath:** You have sworn to uphold your good name and maintain an air of dignity in your actions. You must select a code of honor and maintain an honor score (see Ultimate Campaign) of at least 3 x your character level at all times. When you first swear this Oath or when you level up, your honor score is increased to 3 x your character level if it is lower.
@@ -216,11 +186,6 @@ If one or more characters in a party have sworn an Oath of Poverty, this may lea
 
 **Atonement:** To atone, you must perform the ritual once again every day for at least 3 days, making an additional sacrifice worth 100 gp x your character level squared on one of those days.
 
-*Addendum:* [SM—]
-**Source:** Baron's Otherworldly Citadel
-
-When you gain Oath of the Ritual, you may increase the amount of wealth that you must sacrifice as part of Oath of the Ritual in order to increase the number of Oath Points it grants, as follows. If the Oath Point values from Oath of the Ritual are increased beyond 1, the ritual cannot be paid with hit points.
-
 **25 gp per character level:** 2 Oath Points
 
 **100 gp per character level:** 3 Oath Points
@@ -263,19 +228,6 @@ In other words, renewing an Oath does not allow you to reselect the benefits of 
 
 You gain fast healing equal to half your character level (minimum 1).
 
-### Advanced Ability (1 Oath Point) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-When you select this oath boon, choose a single ability score. At 12th level, you gain a +1 inherent bonus to the ability score. This bonus increases by 1 at 14th level and every even level thereafter, to a maximum of +5 at 20th level.
-A character may select this oath boon multiple times, each time applying its bonuses to a different ability score.
-
-### Avenger From Beyond (2 Oath Points) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Once per day, if you are killed, your blood coalesces in your space in the form of an outsider of your alignment and a CR 1 lower than your character level that fights for 1 minute before dissipating. You choose the outsider when you select this Oath Boon and may change it every time you level up.
-
 ### Bonus Feats (see text) [DbH]
 
 You gain a number of bonus feats depending on the number of Oath points you spend on this Oath boon, to a maximum of 4 (see Table: Bonus feats per Oath point).
@@ -304,13 +256,6 @@ You gain a number of bonus talents based on how many Oath points you spend on th
 | 1 | 1 talent at 10th level |
 | 2 | 1 talent at 6th, 10th, and 14th levels |
 | 3 | 1 talent at 2nd, 6th, 10th, 14th, and 18th levels |
-
-### Cataclysmic End (1 Oath Point) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Your conviction is taken from this world in a monumental flash of power. When you die, your body explodes, dealing 1d8 points of damage per character level to all targets within 5 feet per character level. A successful Reflex save (DC 10 + ½ your character level + your highest ability score modifier) halves this damage. Your body is destroyed by this explosion and cannot be restored by any means short of true resurrection or similar effects.
-If you would die from On Pain of Death as a result of breaking your Oath, this explosion still occurs even though you do not benefit from your Oath Boons.
 
 ### Damage Reduction (2 Oath points)
 
@@ -399,12 +344,6 @@ You may select this boon multiple times, gaining a different marvelous item effe
 Given the variety of capabilities offered by this Oath boon, this Oath boon is available at GM discretion.
 
 **Source:** Card Casting Bonus Content
-
-### On Pain of Death (0 Oath Points) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-Breaking your Oath is not only perilous but outright fatal to you. Whenever you would break your Oath, rather than suffering the normal Defiance Penalty, you immediately die and do not benefit from any Oath Boons which would prevent you from dying or bring you back to life. If you are later resurrected, your Oaths are not considered broken and you do not need to atone for breaking them (unless you break them again, in which case you die as normal).
 
 ### Renewal (Su) (2 Oath points)
 

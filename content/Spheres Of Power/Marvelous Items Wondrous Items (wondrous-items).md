@@ -37,46 +37,7 @@ Instead, see the following pages for specific examples of items that aren't Wond
 
 ---
 
-# Cost Modifiers for Marvelous Items [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-The following adjustments can be made when crafting marvelous items
-
-**Multiple Uses [USoP]:** If a marvelous item can be used multiple times per day, multiply the cost by the number of daily uses. If its uses per day is increased to 5, it becomes usable an unlimited number of times per day.
-
-**Limited Uses [USoP]:** If a marvelous item can be used at will but only a maximum of 50 times before it loses all of its magic, multiply its cost by 2.5.
-
-**Escalating:** A wielder can spend multiple uses of this wondrous item to increase their potency. By spending an additional per-day use of the marvelous item, the wielder can apply one of the following effects.
-
-- The action of activating the item is reduced by 1 step, to a minimum of a swift action.
-- The item’s activation grants the effects of one additional talent or feat chosen at the time of crafting. This talent must be used in the item’s crafting but does not count towards its complexity. If including the feat or talent would increase the item’s complexity by more than 1, using the item with this added feat or talent requires one additional use for each additional point of complexity increase.
-
-Each option which is selectable as part of escalating increases the item’s complexity by 1. If a marvelous item with one or more escalating properties would have five or more uses per day, it is not usable at-will in the same manner as a normal marvelous item.
-
-**Extended Recharge:** Rather than once per day, the marvelous item can only be used once per week. Multiply the cost of the item by ½. This adjustment may be applied a second time, in which case the item is usable once per year and the cost of the item is instead multiplied by ⅕.
-
-**Final Detonation:** If the marvelous item has a limited number of total uses (normally 50), the item may be broken to unleash a blast of unstable magic. Such an act must be purposeful and declared by the wielder. All uses in the item are released in a 30-foot spread. All within 10 feet of the broken staff take hit points of damage equal to ½ item’s caster level times the number of uses in the item. A Reflex save reduces damage by half. Adding a final detonation increases the item’s complexity by 2.
-
-**Unstable Battery** This modifier can only be applied to items usable at least 3 times per day. Whenever one or more charges, uses, or spell points of the item are used up, 1d4-1 additional uses, charges, or spell points are used up as well. Multiply the cost of the item by ⅘ or ⅗ if the additional uses increase by 1d8-1 instead of 1d4-1. At GM discretion, this modifier may be applied to wands, technological items, or other non-marvelous items that have limited uses, spell points, or charges.
-If this item also possesses the Dregs of Magic quality, the chance of failure increases from 20% to 30% if the item uses 1d4-1 additional charges or to 50% if the item uses 1d8-1 additional charges. [**Source:** Baron’s Secluded Library]
-
 ---
-
-# Deck Items [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-When creating a marvelous item, a caster may wish to blend it in alongside a number of other such items, merging them into a single powerful item known as a deck item. Deck items earn their name from the Deck of Many Things, a particularly potent example of a deck item, but while many deck items take the form of card decks they can be built as any item capable of generating one or more random results.
-
-The wielder of a deck item who activates the item triggers a random effect from among the possible marvelous item effects the deck item can generate. The random generation may be determined by rolling a die, drawing from a physical deck, or any other method which ensures that each possible marvelous item effect has an equal chance of emerging from the deck item.
-The cost of crafting a deck item is equal to the total crafting cost of all marvelous item effects used in the deck divided by the total number of marvelous item effects used in the deck item. The number of times a deck item can be used per day is equal to the lowest number of times per day any marvelous item that makes it up can be used per day. If any of the marvelous items have a limited number of charges, all uses of the deck item consume those charges. No two marvelous item effects used as part of a deck item can be identical.
-
-The following modifications can be applied to a deck item to alter its crafting cost.
-
-**Announced Uses:** As part of activating the item, the wielder must declare how many times they will activate the item within the next hour. Attempts by the wielder to activate the item more times in the hour than they announced simply fail. If the character activates the item a fewer number of times than they announced, the item activates repeatedly once every round at the end of the hour until the total number of activations in the last hour matches the number of announced uses. These additional uses always target the announcing wielder and treat the wielder’s space as their point of origin. Adding this modification multiplies the total cost of the deck item by 9/10.
-
-**Split-Card Special:** When the item is activated, two results are generated. A single random creature within 60 feet selects one of the results, treating the random creature as the effect’s controller and point of origin. The other effect is applied to the item’s wielder. Adding this modification multiplies the total cost of the deck item by 9/10.
 
 ---
 
@@ -633,26 +594,6 @@ This dagger has a rough, jagged edge and a cobbled-together grip that looks like
 
 **Construction Requirements**
 Craft Marvelous Item, Life sphere (Clarified Strike [strike], Deeper Healing); **Cost** 1,801 gp
-
-### Hallam’s Deterring Top (Deck Item) [SM—]
-
-**Source:** Baron's Hallowed Archive
-
-**Aura**moderate Blood, Destruction, Protection, and Warp;**CL** see text
-**Slot**none;**Price**78,000 gp;**Weight** 0.3 lbs.
-
-This metal top is designed to ward off intruders through one of its erratic effects, the possibility of many different dangers driving away assailants who might think themselves prepared for specific threats. The top can be spun as a standard action and produces one of the following effects. Each effect has a unique caster level.
-
-**Explosion (CL 10):** an explosion goes off in a 20-foot radius around the top, dealing 10d6 piercing, slashing, and bludgeoning damage to creatures within (DC 15 Reflex save half)
-
-**Expulsion (CL 8):** All creatures other than the user within 45 feet of the top (to a maximum of 4) are teleported backwards 200 feet unless they succeed on a DC 14 Will save. This cannot teleport creatures through walls.
-
-**Repletion (CL 10):** For every creature other than the user within 50 feet of the top (to a maximum of 5), a goblin emerges from and attacks the creature as per the Hemo Goblin talent from the Blood sphere.
-
-**Repulsion (CL 14):** A ward is created centered on the top which extends outwards 80 feet. At the beginning of their turn, or when they try to enter the ward, a creature must succeed at a DC 17 Will save or they are unable to enter or move any closer to the center of the ward.
-
-**Construction Requirements**
-Craft Marvelous Item, Blood Sphere (Hemo Goblin, Mass Blood Magic), Destruction Sphere (Explosive Orb, Selective Blast), Protection Sphere (Impedance), Warp Sphere (Mass Teleport, Ranged Teleport, Unwilling Teleport)
 
 ### Inspiring Crest [TS]
 

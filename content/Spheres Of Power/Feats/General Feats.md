@@ -194,16 +194,6 @@ Every drawback possessed that could be heard or seen (materials, somatic compone
 
 If the magic sphere effect is obvious (such as a summoned creature or a destructive blast), you also take a –4 penalty on the Bluff check, and even if your check is successful, observers still see the effect (though they fail to notice that you are responsible for it).
 
-### Directed Instillation [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Any (instill) talent
-
-**Benefits:** While a creature in possession of an instilled liquid you created is within your line of effect, you may spend a swift action to allow the creature to immediately draw and consume the instilled liquid as an immediate action.
-
-**Special:** You may take this feat a second time, in which case the creature may draw and consume the instilled liquid as a free action that can be taken outside their turn.
-
 ### Dimensional Tether [3PP]
 
 **Prerequisite**: Destruction Sphere (energy tether) or Mana Sphere (hardened bond)
@@ -410,16 +400,6 @@ If you have the Unreliable Training drawback, the maximum number of magic talent
 
 **Benefit:** When determining the save DC of a magic item you activate that determines its power by the formulae 10 + 1/2 the item’s caster level, you may add your casting ability modifier to the save DC. In addition, you may use your casting ability modifier for any sphere effects from any magic item you activate that require it (such as the Chameleon talent from the Light sphere).
 
-### Localized Arcana [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Favored Terrain class feature
-
-**Benefits:** While in your favored terrain, add your favored terrain bonus to concentration checks and checks made to bypass spell resistance.
-
-**Special:** If you possess the Area Casting drawback, you may select this as a drawback feat.
-
 ### Lurker In Darkness
 
 **Prerequisite:** Stealth 6 ranks.
@@ -564,14 +544,6 @@ Your ki pool increases by 1. If your rage ability is measured in rounds per day,
 
 **Source:** Diamond Classes: Disciple of Chaos
 
-### Rust to Rust [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Ability to deal negative energy damage
-
-**Benefits:** Whenever you use an ability that deals negative energy damage, you may ignore the immunity of constructs and objects.
-
 ### Shared Magic
 
 **Benefit:** When you use a sphere ability that has an ongoing effect, you may spend a free action to designate an ally within close range as the owner of the ability. That ally gains control of the ability at the beginning of their next turn. The new owner is considered the creator of the spell, and can do whatever the owner can with the spell, including concentrating to maintain it, dismissing it, moving it (if it can be moved), spending spell points on it, or any other effect that can take place after the ability has been created. The new owner must be a spherecaster with a caster level equal to a minimum of half the caster level of the sphere ability they are being given. They use their own concentration and magical skill bonus to maintain the spell, but the sphere ability still uses your caster level.
@@ -618,14 +590,6 @@ If the person you share the mandate with performs an action that would allow you
 
 **Example:** If a character possesses Energy Strike and Cryptic Strike, they would count as possessing all other talents with the strike descriptor. If a character possesses Instill Life and Instill Death, they would count as possessing all other talents with the instill descriptor.
 
-### Spiteful End [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Death or Fate sphere
-
-**Benefit:** Whenever you are rendered helpless or a creature kills you, you can create a single sphere effect with the curse descriptor as an immediate action before you become helpless or are killed. The curse cannot require a time longer than a standard action to use and must target the creature who rendered you helpless or who killed you. If the curse has a range of touch and the attacker is not within your reach, you can deliver it as a ranged touch attack with a range of close.
-
 ### Superior Salvage [LotS]
 
 **Prerequisites:** Any item creation feat, character level 5th.
@@ -649,14 +613,6 @@ When salvaging an item with a limited number of uses, divide the cost of creatin
 **Prerequisite:** Judgment class ability.
 
 **Benefit:** Whenever you activate a judgment, if you have not previously activated that judgment today, you gain temporary hit points equal to your Hit Dice + your casting ability modifier. These last until you rest and regain uses of your judgment class ability.
-
-### Terminating Conversion [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** At least one metamagic feat
-
-**Benefits:** As part of the action to cast a spell, you may dismiss another spell that you have active. If you do, you do not increase the casting time for applying metamagic feats to the new spell.
 
 ### Termination Clause [DbH]
 

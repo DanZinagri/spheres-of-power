@@ -18,24 +18,6 @@ Admixture feats grant new ways to utilize the Admixture talent (from the Destruc
 
 **Author's Note:** When using an (admixture) feat, the resulting sphere effect is not one simultaneous effect, but rather a destructive blast with another sphere effect as a new, independent rider. The new sphere effect is still subject to spell resistance if the destructive blast would not be, and the target makes a new, separate saving throw against the new effect.
 
-### Admixture Efficiency [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (Admixture), any Admixture feat, MSB +7
-
-**Benefit:** You no longer need to spend an additional spell point to apply an effect from a non-Destruction sphere to an effect when using an Admixture feat. You must still spend spell points on the effect as normal.
-
-### Augmenting Admixture (Admixture) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Destruction Sphere (Admixture), Enhancement sphere.
-
-**Benefit:** When using Admixture, you may spend an additional spell point to have a single object that takes damage be targeted by an enhancement effect that you possess. If you possess the Mass Enhancement talent, you may apply the enhancement to any objects damaged, up to your maximum targets from Mass Enhancement. This ability can only target objects, it cannot be used to affect creatures.
-
-**Special:** If you possess the Selective Admixture feat, you may choose to have the effect of any Admixture on the blast affect only the omitted objects rather than affecting damaged creatures.
-
 ### Auspicious Admixture (Admixture)
 
 **Prerequisites:** Destruction sphere (Admixture), Fate sphere.

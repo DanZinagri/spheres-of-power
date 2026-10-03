@@ -16,8 +16,6 @@ parent: "[[Spheres Of Power]]"
 
 While other alchemists dabble with explosive concoctions, the essentialist extracts the most potent biological elements from flora and fauna to create elixirs that heal and nourish the living body. More than healing, the medicines the essentialist creates enhances the body, bringing out the true strength of the subject. Many essentialists have stated that consuming an essence reveals the real you, and the rest of the time you are but a shadow of yourself.
 
-This archetype requires [[Sphere Alchemist|sphere alchemist]] or [SM—] [[Champion Alchemist 3PP|champion alchemist]].
-
 ### Elements of Life
 
 At 1st level, the essentialist gains the Life sphere, as well as the Medicinal drawback, gaining the Instill Life talent as normal. If he already possesses the Life sphere, he gains the Instill Life talent without the drawback. When the essentialist uses a Life sphere ability with the Instill Life talent, he may use his class level as his caster level. This stacks normally with caster levels gained from other sources.

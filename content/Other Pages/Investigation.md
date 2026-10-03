@@ -226,12 +226,6 @@ Each option can be chosen multiple times.
 - You learn all of the object’s properties and functions, and if the target is intelligent or cursed. You also learn how to activate the target, such as its command word. If the target is intelligent, you learn of its ego score, its ability scores, and if it possesses a special purpose (but not what that purpose is).
 - The magical effect’s caster level and all of its effects.
 
-*Addendum* [SM—]
-**Source:** Baron's Uncanny Gateway
-When using Discern Esoterics on a portal, glyph, magic trap, or similar effect, you can learn the following. A portal with an unspecified origin should have a caster level of at least 10. Portals created by particularly powerful entities such as gods or demon lords should have caster levels between 20 and 40.
-**Simple:** You learn whether the target will have different effects based on different creatures or passwords passing through, including whether a portal can lead to multiple locations.
-**Detailed (+5 DC):** You learn the specific passwords or conditions necessary to trigger a glyph or trap or for a portal to take the traveler to different locations. You also learn each destination that a portal can potentially send those who travel through it.
-
 #### Examine Damage (analyze)
 
 **Analyze Skills:** Heal or Perception;
@@ -360,14 +354,6 @@ You can expend this application as part of successfully damaging the analyzed cr
 You can spend an immediate action or expend an attack of opportunity whenever the analyzed creature targets you within an ability or effect that requires an attack roll, granting yourself a 20% miss chance against the attack. This increases by 5% for every 2 ranks in the associated skill you possess.
 
 You can expend this application as an immediate action whenever the analyzed creature makes an attack against you, attempting a Sense Motive check (or the original analyze skill used) and using the result in place of your AC for the triggering attack.
-
-#### Slip Notice (Apply) [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You gain a +2 insight bonus to Acrobatics checks to move through the target’s threatened area, Bluff checks made to feint or create a diversion for the target, Sleight of Hand checks made against the target, and Stealth checks made to hide from the target. These bonuses increase by 1 for every 5 ranks in the associated skill you possess. Additionally, you can take a -5 penalty when attempting to feint, create diversion, or make a Sleight of Hand check against the analyzed creature to reduce the action by 1 step, to a minimum of a swift action.
-
-You can expend this application as a free action that can be taken outside your turn to gain positional concealment from the analyzed creature and to not provoke attacks of opportunity from it until the end of your next turn.
 
 #### Study Landscape (apply) [DRS]
 
@@ -545,12 +531,6 @@ For example, 'sitting in a library' would instead tell you the exact library the
 #### Basic Analysis
 
 You focus on the big picture rather than the details. You can only gain a simple analysis whenever you use your analyze ability, and cannot gain a detailed analysis despite your result. You gain the Broad Scrutiny, Group Analysis, or Share Insights talent.
-
-#### Mental Probing [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Your analytics rely on your ability to access the target telepathically. You can only analyze and scrutinize creature targets and can only analyze and scrutinize creatures who can be affected by mind-affecting effects. Any bonuses to saving throws against mind-affecting effects are added to any skill check DC made to analyze the target. You gain either the Auditory Analysis, Group Analysis, or Rapid Assessment talent.
 
 #### Unorthodox Methods [alternate start]
 

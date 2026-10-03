@@ -58,7 +58,9 @@ EXCLUDED_SECTIONS = {
 # Publisher tags the wiki puts after an entry's name, e.g. "Agility [LG]" or "Fixer [CS] [LG]".
 # Headings carrying one are removed with their whole section, and list items / paragraphs that
 # open with a tagged name are removed, on every page.
-EXCLUDED_TAGS = {"LG"}  # Legendary Games
+EXCLUDED_TAGS = {"LG", "SM—"}  # Legendary Games, Studio M—
+# Pages carrying one of these tags (in their title, or next to links to them) are excluded
+# automatically along with their subpages; see tagged_pages().
 
 EXCLUDED_PAGES = {
     # Lost Spheres Publishing's classes ("Lost Champions")
@@ -170,6 +172,9 @@ class Page:
     def __init__(self, slug: str, html: str):
         self.slug = slug
         soup = BeautifulSoup(html, "lxml")
+        # new tags must come from this same document: mixing in tags from another
+        # BeautifulSoup leaves the element chain inconsistent and later find_all() calls skip nodes
+        self.soup = soup
         t = soup.select_one("#page-title")
         self.title = t.get_text(" ", strip=True) if t else ""
         if not self.title:
@@ -441,18 +446,76 @@ def prune_excluded_entries(body: Tag, excluded: set[str]) -> None:
 
 
 def _has_excluded_tag(text: str) -> bool:
-    for tag in re.findall(r"\[([^\]]*)\]", text):
-        if any(re.search(rf"(^|[^A-Za-z]){re.escape(t)}([^A-Za-z]|$)", tag) for t in EXCLUDED_TAGS):
+    """Tags appear as "[SM—]", "(SM—)", "[CS] [LG]", "[3PP/LG]", or bare at the end of a title
+    ("Polymath SM—")."""
+    token = lambda t: rf"(^|[^A-Za-z]){re.escape(t)}([^A-Za-z]|$)"
+    for tag in re.findall(r"[\[(]([^\])]*)[\])]", text):
+        if any(re.search(token(t), tag) for t in EXCLUDED_TAGS):
             return True
-    return False
+    return any(re.search(rf"\s{re.escape(t)}\s*$", text) for t in EXCLUDED_TAGS)
 
 
-def prune_tagged_entries(body: Tag) -> None:
+def tagged_pages(pages: dict[str, "Page"]) -> set[str]:
+    """Slugs of pages marked with an excluded tag: in their own title, or as the tag right after
+    a link to them anywhere on the wiki ("[[Nanocyte]] [CS] [LG]")."""
+    found = {s for s, p in pages.items() if _has_excluded_tag(p.title)}
+    for p in pages.values():
+        if not p.body:
+            continue
+        for a in p.body.find_all("a", href=True):
+            target = internal_slug(a["href"])
+            if not target or target in found or target not in pages:
+                continue
+            after = ""
+            for el in a.next_elements:
+                if el is a or (isinstance(el, (Tag, NavigableString)) and a in el.parents):
+                    continue
+                if getattr(el, "name", None) in ("a", "br", "p", "li", "td", "div"):
+                    break
+                if isinstance(el, NavigableString):
+                    after += str(el)
+                if len(after) > 40:
+                    break
+            m = re.match(r"\s*((?:[\[(][^\])]*[\])]\s*)+)", after)
+            if m and _has_excluded_tag(m.group(1)):
+                found.add(target)
+    return found
+
+
+def _line_text(nodes: list) -> str:
+    """Text of the nodes up to the first <br>."""
+    out = []
+    for n in nodes:
+        if isinstance(n, Tag) and n.name == "br":
+            break
+        out.append(n.get_text(" ") if isinstance(n, Tag) else str(n))
+    return " ".join("".join(out).split())
+
+
+def _prune_tagged_lines(el: Tag) -> None:
+    """Inside a <br>-separated block, drop each later line that starts with a tagged label."""
+    children = list(el.children)
+    breaks = [i for i, c in enumerate(children) if isinstance(c, Tag) and c.name == "br"]
+    for i in reversed(breaks):  # back to front so indexes stay valid
+        line = children[i + 1:]
+        stop = next((j for j, c in enumerate(line) if isinstance(c, Tag) and c.name == "br"), len(line))
+        line = line[:stop]
+        lead = next((c for c in line if not (isinstance(c, NavigableString) and not c.strip())), None)
+        if not (isinstance(lead, Tag) and lead.name in ("strong", "b", "em", "i")):
+            continue
+        if _has_excluded_tag(lead.get_text(" ", strip=True)) or \
+                (len(_line_text(line)) <= 60 and _has_excluded_tag(_line_text(line))):
+            for n in [children[i], *line]:
+                n.extract()
+
+
+def prune_tagged_entries(body: Tag, nav: bool = False) -> None:
     """Drop entries tagged with an excluded publisher ([LG]): a tagged heading with its section,
     and list items / paragraphs whose opening name carries the tag."""
     if not EXCLUDED_TAGS:
         return
     is_heading = lambda el: isinstance(el, Tag) and re.fullmatch(r"h[1-6]", el.name or "")
+    blocks = body.find_all(["li", "p", "dt"])  # collected before anything is removed
     for h in body.find_all(re.compile(r"^h[1-6]$")):
         if h.parent is None or not _has_excluded_tag(h.get_text(" ", strip=True)):
             continue
@@ -465,19 +528,39 @@ def prune_tagged_entries(body: Tag) -> None:
             sib.decompose()
             sib = nxt
         h.decompose()
-    for el in body.find_all(["li", "p", "dt"]):
+    for el in blocks:
         if el.parent is None:
             continue
         # single entries only: not multi-line blocks or link lists like the home page's
         # "Alchemist ([[A]], [[B]] [LG], ...)" lines, where one tag doesn't condemn the line
-        if el.find("br") or len(el.find_all("a")) >= 3:
+        if nav and (el.find("br") or len(el.find_all("a")) >= 3):
             continue
         # the tag has to sit on the entry's name: before the first comma / colon / sentence end,
         # or inside a leading bold label ("**Divine Faith: [LG]**", "**X (Ex) (-2 EP, +1 CR) [LG]**")
+        if not nav:
+            _prune_tagged_lines(el)  # "**Ability** text<br>**Addendum: [SM—]** text" -> drop that line
         opening = re.match(r"^[^.:,\n]{0,100}", el.get_text(" ", strip=True)).group(0)
         first = next((c for c in el.children if not (isinstance(c, NavigableString) and not c.strip())), None)
-        label = first.get_text(" ", strip=True) if isinstance(first, Tag) and first.name in ("strong", "b") else ""
-        if _has_excluded_tag(opening) or _has_excluded_tag(label):
+        label = first.get_text(" ", strip=True) if isinstance(first, Tag) and first.name in ("strong", "b", "em", "i") else ""
+        # a short label line like "*Addendum:* [SM—]" (tag after the label, before the first <br>)
+        first_line = _line_text(list(el.children))
+        label_line = first_line if label and len(first_line) <= 60 else ""
+        if _has_excluded_tag(opening) or _has_excluded_tag(label) or _has_excluded_tag(label_line):
+            # a paragraph that is only the label (+ its source line) continues in the following
+            # unlabeled paragraphs ("**Addendum: [SM—]**" then the addendum text): drop those too
+            rest = el.get_text(" ", strip=True)[len(label):] if label else ""
+            for sup in el.find_all("sup"):
+                rest = rest.replace(sup.get_text(" ", strip=True), "")
+            if el.name == "p" and label and len(rest.strip()) < 15:
+                sib = el.find_next_sibling()
+                while isinstance(sib, Tag) and sib.name == "p":
+                    lead = next((c for c in sib.children
+                                 if not (isinstance(c, NavigableString) and not c.strip())), None)
+                    if isinstance(lead, Tag) and lead.name in ("strong", "b", "em", "i"):
+                        break  # next labeled entry
+                    nxt = sib.find_next_sibling()
+                    sib.decompose()
+                    sib = nxt
             el.decompose()
 
 
@@ -777,8 +860,9 @@ def archetype_tables(md: str) -> str:
         if m:
             run.append({"lines": [line], "cls": m.group(1), "arch": m.group(2), "extras": []})
             held_blank = 0
-        elif run and stripped.startswith("|") and not held_blank:
-            # continuation of the previous class: "| [[Alchemist Discoveries]]"
+        elif run and not held_blank and (stripped.startswith("|") or re.fullmatch(r"(\[\[[^\]]+\]\]\s*)+", stripped)):
+            # continuation of the previous class: "| [[Alchemist Discoveries]]" (the wiki sometimes
+            # drops the "|", e.g. "[[Sorcerer Bloodlines]]")
             run[-1]["lines"].append(line)
             extra = stripped.lstrip("| ").strip()
             if extra:
@@ -805,9 +889,9 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
 
     # Tabviews (e.g. Ultimate / Original): .sop-tabs > .sop-tab (label + content). Quartz turns
     # these into clickable tabs (components/SopTabs.tsx); Obsidian shows each label then its content.
-    for nav in body.select(".yui-navset"):
-        labels = [li.get_text(" ", strip=True) for li in nav.select(".yui-nav li")]
-        panes = nav.select(".yui-content > div")
+    for tabview in body.select(".yui-navset"):
+        labels = [li.get_text(" ", strip=True) for li in tabview.select(".yui-nav li")]
+        panes = tabview.select(".yui-content > div")
         wrapper = soup_factory.new_tag("div", attrs={"class": "sop-tabs"})
         for label, pane in zip(labels, panes):
             # data-tab lets CSS/JS/Pagefind target a tab by name (pagefind.yml skips "original")
@@ -818,7 +902,7 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
             tab.append(name)
             tab.append(pane)
             wrapper.append(tab)
-        nav.replace_with(wrapper)
+        tabview.replace_with(wrapper)
 
     # Collapsibles: drop the "show/hide" toggles, keep the unfolded content with its label.
     for block in body.select(".collapsible-block"):
@@ -855,7 +939,7 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
     for span in body.find_all("span"):
         span.unwrap()
     body.smooth()  # merge text split by the unwrapped spans
-    prune_tagged_entries(body)
+    prune_tagged_entries(body, nav)
     if excluded:
         prune_excluded_entries(body, excluded)
         if nav:
@@ -1017,9 +1101,12 @@ def convert(with_images: bool) -> None:
         if f.exists():
             pages[slug] = Page(slug, f.read_text(encoding="utf-8"))
     assign_paths(pages)
+    auto = tagged_pages(pages)
+    excluded_pages = EXCLUDED_PAGES | auto
     excluded = {s for s, p in pages.items()
-                if p.folder.split("/")[0] in EXCLUDED_SECTIONS or s in EXCLUDED_PAGES
-                or any(a in EXCLUDED_PAGES for a in p.parents)}
+                if p.folder.split("/")[0] in EXCLUDED_SECTIONS or s in excluded_pages
+                or any(a in excluded_pages for a in p.parents)}
+    print(f"Tag-excluded pages ({', '.join(sorted(EXCLUDED_TAGS))}): {len(auto)}")
     for s in excluded:
         del pages[s]
     redirects = old_page_redirects(excluded, pages)
@@ -1038,7 +1125,7 @@ def convert(with_images: bool) -> None:
     for p in pages.values():
         if not p.body:
             continue
-        preprocess(p.body, BeautifulSoup("", "lxml"),
+        preprocess(p.body, p.soup,
                    excluded - redirects.keys(), nav=p.slug in NAV_PAGES)
         md = WikiConverter(p, pages, images, redirects).convert_soup(p.body)
         fm = ["---", f"title: {yaml_str(p.title)}"]

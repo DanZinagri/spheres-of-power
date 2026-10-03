@@ -52,14 +52,6 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 **Benefit:** Whenever a squadron member reveals a plan, they may choose another member of the squadron to gain its benefits in place of them.
 
-### Distributed Strain (Squadron) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Hive Mind, Troop Commander: caster level 5th or 5 ranks in Diplomacy.
-
-**Benefits:** Whenever a member of your squadron would take strain damage. Any willing member of your squadron may choose to take any amount of that strain damage in place of the original target. Strain damage gained from redistribution effects within 1 minute of each other is cumulative for the purpose of determining if a character gains a severance.
-
 ### Focused Fire Tactics (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
@@ -119,16 +111,6 @@ The first ally to move must move adjacent to at least one other squad member, th
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** Squadron members may use a swift action to move a squadron member who is in a square adjacent to them to another square that is also adjacent to them. This movement does not provoke attacks of opportunity.
-
-### Perpetual Connection (Squadron) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Communication sphere, Posse Commander; or War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
-
-**Benefits:** Choose a creature when you gain this feat. That creature does not count towards the maximum number of creatures in your squadron and you never need to renew your bond to keep that creature in your squadron. Whenever you use a Squadron feat that normally requires spending a spell point, plan, or martial focus, you do not need to spend the resource if it only affects creatures you have selected with this feat.
-
-**Special:** You may select this feat multiple times, each time selecting a different creature. If you have the Bonded Casting drawback, you may select this feat as a drawback feat.
 
 ### Phalanx Formation (Squadron)
 

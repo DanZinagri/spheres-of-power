@@ -235,12 +235,6 @@ You may add the following traits to your forms:
 
 **Shape Weapon:** Choose one limb capable of wielding a weapon. You may transform this limb into a weapon the target creature is proficient with. This weapon cannot be disarmed and gains an enhancement bonus equal to 1/4 of your caster level (minimum 0, maximum +5). Ranged weapons produced this way do not come with ammunition. A two-handed weapon still requires an additional limb to wield. This weapon is treated as a manufactured weapon with hardness equal to your caster level. Treat the weapon as having its own hit points, normal for a weapon of its type, for purposes of effects that would damage or sunder it. If this weapon has the broken condition when the shapeshift ends, any attacks or skill checks made with the corresponding limb take a -2 penalty to attack rolls for 24 hours. A DC 15 Heal check or magical healing equal to the hit points the weapon possessed remove this penalty.
 
-#### Multifarious Transformation [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Whenever you apply a shapeshift that uses two or more traits to grant the same natural weapon to a target, you may apply the same natural weapon to one additional limb for every 4 alteration sphere caster levels you possess (for example, applying a stinger attack to an additional tail, a claw attack to an additional arm, or a bite attack to an additional head).
-
 #### Odiferous
 
 You may add the following traits to your forms:
@@ -865,20 +859,6 @@ You may spend an additional spell point to add the following trait options to yo
 
 When applying a shapeshift, you may spend 2 spell points to change your shapeshift into an instantaneous effect, permanently changing the creature into the new form. Because this is an instantaneous effect, it cannot be dispelled once placed. The target is still under the effect of a shapeshift, however, and any caster attempting to apply a new shapeshift to the target (except the original caster himself) must succeed at a magic skill check as usual; the second shapeshift replaces the first instead of adding to it. When the second shapeshift’s duration expires, the first shapeshift returns. A second application of a Permanent Transformation can be used to counter the first Permanent Transformation, returning the target to its original form. The Make Whole advanced Life talent, as well as polymorph any object, can also restore the target to its original form.
 
-#### Puppet’s Curse [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Alteration Sphere (Animal Mind, Object Transformation)
-
-When your transformation on a target ends, you may force the target to forget all events that took place during their transformation unless they succeed at a Will save. If you possess the Twisted Shapeshift talent, you may have the target take damage from that talent when the transformation ends rather than when it begins. In addition, you may apply the following traits to any form.
-
-- **Mindless:** The target must succeed at a Will save or becomes mindless, with an Intelligence score of 0. It can’t use any supernatural or spell-like abilities it had prior to transforming, nor can it cast spells. It also loses all feats and skill ranks. The creature follows your commands to the letter, but otherwise it remains motionless and takes no actions on its own (unless you command it to react in certain ways, such as serving as a room guardian). Granting this trait costs an additional spell point.
-
-- **Wearying Transformation:** the transformed creature takes 1d6 points of nonlethal damage each round and takes a –2 penalty on all of the target’s ability checks, skill checks, saving throws, attack rolls, and damage rolls. This is a pain effect.
-
-- **Wind-Up:** The transformed creature must be wound once per day with a special key (which appears in its back as part of this transformation); as the key must be inserted into the creature’s back, this requires either a successful Dexterity or Escape Artist check (DC 10 + your caster level) or another creature’s assistance. If the creature is not wound by midnight each night, it becomes immobile and helpless until wound again.
-
 #### Signature Trait [Alienist HB]
 
 **Prerequisites:** Alteration sphere, caster level 10th.
@@ -922,14 +902,6 @@ You may spend a spell point to target objects with your shapeshift. (Note: Undea
 | 15 | Large | Statue | 4d10+30 |
 | 20 | Huge | Wagon | 7d10+40 |
 | 25 | Gargantuan | Catapult | 10d10+60 |
-
-#### Twist Essence [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-**Prerequisites:** Alteration Sphere
-
-When a creature is affected by your shapeshift, you may change the creature’s type or subtype to a different type or subtype of your choice for the purpose of how it is affected by spells and abilities for the duration of the shapeshift.
 
 ---
 
@@ -994,17 +966,6 @@ The target is allowed a Will save to negate this effect. On a failed save, the w
 Alternatively, you may spend a spell point as a standard action to shapeshift a manufactured weapon in the range into a hostile serpent that whips around to attack its wielder. The weapon’s wielder must succeed at a Will save or the next time the weapon is used within 1 round per caster level for an attack, the damage of the attack is instead dealt to the wielder.
 
 The wielder cannot willingly reduce or deal nonlethal damage with this attack. Once the damage has been dealt, the effect is discharged. If you spend an additional spell point, the effect persists for 1 round per caster level, each attack after the first granting a Will save to end the effect.
-
-#### Exemplary Transformation (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Alteration Sphere (outsider body), Enhancement Sphere (emphasize belief, mental enhancement, or physical enhancement)
-
-**Benefits:** Whenever you apply the Emphasize Belief, Mental Enhancement, or Physical Enhancement enhancements to a target under the effects of a trait from Outsider Body, you may choose to modify the effects as follows
-
-- **Embodied Belief:** the damage reduction from Emphasize Belief stacks with the damage reduction granted by Anarchic Form, Axiomatic Form, Celestial Form, and Fiendish Form. If you have multiple traits from among the above 4 active, all types of damage are required to bypass them (so if you have both Anarchic Form and Fiendish Form active, the DR granted would be DR/lawful and good). A creature cannot gain DR/lawful and chaotic or DR/good and evil.
-- **Exemplary Abilities:** the ability score benefits from Mental Enhancement and Physical Enhancements change from enhancement bonuses to sacred or profane bonuses, although the bonus changes to +2 plus an additional +2 for every 15 caster levels. A character cannot have a sacred or profane bonus to more than one ability score at a time, and any previous effects which apply such a bonus immediately end when a new one is applied.
 
 #### Extradimensional Gullet (Combat) [Alienist HB]
 

@@ -30,12 +30,6 @@ At 5th level and every 5 levels thereafter, the duration of this hex is extended
 
 **Special:** If the witch possesses the War sphere, this hex counts as possessing the chosen (totem) talent for all purposes, but does not grant the ability to create totems if the witch possesses a drawback that removes her ability to create totems. If the witch chooses Totem Of War as the (totem) for this hex, she instead counts as possessing any other one (totem) talent of her choice.
 
-#### Coordinated Conniver [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-The shaman or witch gains a single teamwork feat as a bonus feat. This hex may be selected multiple times, each time selecting a different teamwork feat.
-
 #### Copious Corruption (requires withering witch) [DbH]
 
 The witch gains 2 additional uses per day of her corrupted magic class feature.
@@ -72,12 +66,6 @@ The witch may spend 1 minute to glimpse her own fate. This hex functions as the 
 
 **Special:** If the witch possesses the Divination sphere, this hex counts as possessing the Divine Future talent for all purposes, but does not grant the ability to use the Divine Future talent if the witch possesses a drawback that removes her ability to divine.
 
-#### Shared Conviction (Su) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-The shaman or witch can grant a creature within 30 feet a teamwork feat the witch possesses for a number of rounds equal to ½ the shaman witch’s level + the shaman’s Charisma modifier or the witch’s Intelligence modifier (minimum 1). A creature cannot benefit from multiple instances of this hex at a time.
-
 #### Subtle Influence (Su)
 
 Choose any eliciter emotion. You may use the first ability of the emotion using your class level as your Eliciter level.
@@ -87,67 +75,6 @@ Choose any eliciter emotion. You may use the first ability of the emotion using 
 #### Coven Casting [DbH]
 
 The witch gains Circle Casting or a single proxy feat as a bonus feat. She must meet the prerequisites for the feat to select this major hex. This major hex may be selected multiple times. Each time, the witch selects another feat.
-
-#### Elaborate Conviction (Su) [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-When the shaman or witch uses Shared Conviction, she may grant up to three teamwork feats she possesses rather than just one. A shaman or witch must have the Shared Conviction hex to select this hex.
-
-## Witch Unique Patrons [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Note: Sphere Witches and Unique Patrons**
-A sphere witch may select a unique patron, gaining the benefits and penalties as normal. The sphere gained from the sphere witch’s patron is not modified if they possess a unique patron.
-
-#### Divine Enigma
-
-Your patron is some form of deity which wishes for their presence to remain covert. You gain the Soothsayer hex at 1st level, but take a -2 penalty on checks made to overcome spell resistance.
-
-**Available Patron Themes:** Conspiracies, Deception, Devotion, Occult
-
-**Spell Changes:** 8th-*divine power*, 10th-*atonement*, 16th-*greater planar ally*
-
-#### End of All Things
-
-Your patron seeks to unravel reality’s construction for its own ends with no promise of what will emerge in the vacuum. They might be a chaotic outsider, a manifestation of the Consumption, or another force which seeks destruction. You gain the Cursed Wound hex at 1st level, but held objects gain the broken condition when you use or equip them but regain their actual condition if employed by anyone else. If a held item is restored to unbroken condition, it becomes broken again the following round.
-
-**Available Patron Themes:** Death, Entropy, Rot, Storms
-
-**Spell Changes:** 4th-*shatter*, 12th-*disintegrate*, 18th-*implosion*
-
-#### Imprisonment’s Wail
-
-Your patron, be it a single entity or an entire population, is imprisoned in some way that metaphysically begs you to break its confinement. You gain the Flight hex at 1st level, but your own entrapment brings about the echoes of your patron’s suffering - while you are entangled, staggered, or under any condition which reduces your movement speed, you become shaken for the duration.
-
-**Available Patron Themes:** Agility, Recovery, Revenge, Space
-
-**Spell Changes:** 4th-*knock*, 8th-*freedom of movement*, 18th-*freedom*
-
-#### Keeper of Crossroads
-
-Your patron is tasked with guarding a realm which lies between disparate planar powers, such as a neutral plane or a meeting place for elemental forces. You gain the Disrupt Connection hex at 1st level, but your need to evaluate many factors makes you recalcitrant in heated moments: your alignment must contain at least one neutral component and you are staggered in on the first turn of combat.
-
-**Available Patron Themes:** Boundaries, Elements, Peace, Wisdom
-
-**Spell Changes:** 4th-*anti-summoning shield* 8th-*planar adaptation*, 14th-*elemental body IV*
-
-#### Mechanical Perfection
-
-Your patron offers you visions of mechanical wonders that can set the cosmos to its proper course. They might be a lawful outsider, an otherworldly machine, a high-tech alien, or some other artificial entity. You gain the Iceplant hex at 1st level, but your disregard for the duplicity of the world imposes a -4 penalty on Perception and Sense Motive checks
-
-**Available Patron Themes:** Endurance, Machine, Plague, Protection
-
-**Spell Changes:** 10th-*permanency* 12th-*undead anatomy III*, 18th-*akashic form*
-
-#### Ultimate Resolution
-
-Your patron offers you a glimpse at a distant, final state, a climax that all of your efforts seem to converge towards. You gain the Minor Prophecy hex at 1st level, but your inflexible vision imposes a -4 penalty on Initiative checks.
-
-**Available Patron Themes:** Fate, Portents, Time, Transformation
-
-**Spell Changes:** 2nd-*heightened awareness* 10th-*fabricate* 14th-*circle of clarity*
 
 </div>
 

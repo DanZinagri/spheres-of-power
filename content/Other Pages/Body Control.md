@@ -323,12 +323,6 @@ If you fail to resist a mind-affecting effect, creatures observing you must succ
 
 In addition, as a (clarity) talent you may outwit a creature who you successfully mislead into believing that you weren't affected by their mind-affecting effect by revealing the extent of your affected psyche.
 
-#### Suppress Vulnerability (control) [SM—]
-
-**Source:** Baron’s Imposing Mausoleum
-
-Any additional damage from vulnerability to a damage type is reduced by your ranks in an associated skill (to a minimum of the normal damage before vulnerability). In addition, you can endure any effect that you have a specific vulnerability or weakness to that requires a saving throw.
-
 #### Tune Out (clarity, contemplation, control) [DRS]
 
 **Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
@@ -494,12 +488,6 @@ You do not gain the Slip Past ability, and you gain the Breath Control talent in
 **Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
 
 When you gain this alternate start, choose either Strength or Constitution—You must use your Strength or Constitution modifier in place of the normal ability score modifier when attempting any associated skill check required in the Body Control sphere (usually when enduring an effect).
-
-#### Hypnotic Control [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You use Autohypnosis instead of Escape Artist as the associated skill.
 
 #### Incredible Stamina
 

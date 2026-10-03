@@ -72,12 +72,6 @@ When you take the total defense action, you still may make attacks of opportunit
 
 When you are the only creature within 10 feet of a target which the target perceives, that target takes a penalty on Bluff, Diplomacy, Intimidate, and Perform checks equal to your practitioner modifier. If you possess at least 10 ranks in either Bluff or Sense Motive, this penalty increases to twice your practitioner modifier.
 
-#### Lucky Thrust [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-Whenever you confirm a critical hit from an attack action or attack of opportunity against a creature within range of your fatal thrust, you may add your fatal thrust damage to the attack even if the attack would not normally add fatal thrust damage.
-
 #### Lunge
 
 As long as you have martial focus, you may increase the range at which you may make melee attacks by 5 ft., but suffer a -2 penalty to attack rolls made against targets within this extended range. This does not affect your threatened area, only the reach of your attacks, and does not stack with other, similar effects. **Associated Feat:** Lunge.
@@ -175,14 +169,6 @@ The target suffers a -2 penalty to its armor class until the end of your next tu
 ---
 
 # Legendary Talents
-
-#### Desperate Feint [SM—]
-
-**Source:** Baron's Otherworldly Citadel
-
-**Prerequisites:** Fast Feint
-
-You may spend martial focus to feint as a swift or immediate action. If you have the Focusing Feint talent, you may regain martial focus as a free action if you succeed on this feint.
 
 #### Master Of Deception
 

@@ -60,12 +60,6 @@ At 10th level, when the sidhe invoker uses create reality, the illusion becomes 
 
 This replaces hide in plain sight.
 
-## Mimeses [SM—]
-
-**Source:** Fey Adept Expanded: Mimeses
-
-A target within the area of your ringfort is considered to be within the area of your illusion for the purpose of your mimesis abilities. Creatures within the ringfort take a -1 penalty on saves against sphere effects of your mimesis’ associated sphere originating from you.
-
 </div>
 
 <div class="sop-tab" data-tab="original">

@@ -502,12 +502,6 @@ You may spend a spell point to reduce the target’s ability to deal lethal dama
 
 Choose an alignment within one step of your own on each axis. The target of this word is treated as this alignment instead of their own for all purposes unless they succeed on a Will saving throw. This does not change its actual alignment, and so does not influence the target’s actions or cause it to violate any code of conduct it might have. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 hour per caster level without concentration.
 
-#### Mundanity (word) [curse] [SM—]
-
-**Source:** Baron’s Secluded Library
-
-You ward the target against exceptional success or failure (Will negates). Whenever the target roll for an attack, saving throw, or skill check, they roll three d20 and use the middle of the three rolls (or the highest, if more than one die shows the same highest value, or the lowest, if more than one die shows the same lowest value). If another ability would make them roll an attack roll, saving throw, or skill check twice and take the higher result, roll twice and take the lower result, or reroll, that ability has no effect. This effect lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this word to continue for 1 round per caster level without concentration.
-
 #### Open/Close (word) [utility]
 
 Rather than targeting creatures, this word targets doors, chests, and other objects that can open or close. You may spend a spell point to open a door or container, as if you were attempting a Disable Device check to unlock it or, if the opening is stuck and no lock is present, a Strength check to force it open. Attempt a magic skill check with a +10 bonus against the lock’s Disable Device DC or the door’s Stuck DC.
@@ -705,14 +699,6 @@ You may spend a spell point to place a word on a target that marks them as a pro
 
 You may grant a motif that extends the benefits of other motifs affecting a target to their allies. When you use this ability, choose a motif currently affecting the target to link this motif to. The target’s allies gain the normal effect as long as they are within 30 feet of the target. When the target discharges the chosen motif, they may either choose a different motif affecting the target to link this motif to or discharge this motif as part of the same action to grant all allies within 30 feet of them an insight bonus to saving throws equal to half your caster level for one round. If the target discharges the chosen motif but it does not end (such as if they also have the Death motif), they may not choose a different motif to link to this motif (it instead remains linked to the chosen motif), but may discharge this motif.
 
-#### Hold on Hope (word) [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Fate sphere
-
-Whenever the target spends Reliance Points, the Reliance Point cost of the ability is increased or decreased by 1 plus 1 for every 10 caster levels you possess (minimum 1). This effect lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this word to continue for 1 round per caster level without concentration.
-
 #### Mark Of Judgment [curse]
 
 **Prerequisites:** Fate sphere (Geas (advanced, word), Greater Geas (advanced)), caster level 10th.
@@ -767,16 +753,6 @@ Your presence warps the fabric of magic, binding creatures together.
 
 **Benefit:** As a free action that can be taken outside of your turn when you have a consecration active, you may create a manabond with any willing creature within the area or creature which has failed its saving throw against the consecration. This manabond lasts for as long as the bonded creature remains within your consecration, but you do not otherwise need to concentrate on the manabond to continue its effects.
 
-#### Destiny Reader (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Divination Sphere (augury or divine future), Fate Sphere
-
-**Benefits:** If you possess any motif talents, you may discharge a motif as part of using Augury to increase your base and maximum chance of gleaning correct or useful information by 10% or as part of applying the bonus to Divine Future to not consume the bonus, allowing it to be used again.
-
-If you possess the ability to use any word or consecration, you may use a single word or consecration on yourself as part of the action to use Augury or Divine Future, spending spell points as normal.
-
 #### Doublespeak (Dual Sphere) [DbH]
 
 What might spell doom for one listener brings the greatest of joy to another.
@@ -796,14 +772,6 @@ What might spell doom for one listener brings the greatest of joy to another.
 **Prerequisites:** Fate sphere, Life sphere.
 
 **Benefit:** Whenever you use a Life sphere ability on an ally, they receive a +1 luck bonus to all attack rolls, saving throws, skill checks and ability checks until the end of their next turn. This bonus increases by +1 for every 5 Life caster levels you possess.
-
-#### Fastidious Mercy [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Fate Sphere (Mercy)
-
-**Benefits:** You may use the Mercy word on yourself without spending spell points as a free action and may dismiss the effect as a free action. In addition, when a creature under the effect of the Mercy word deals damage to multiple targets, you may choose to have some of them take lethal damage while others take nonlethal damage.
 
 #### Fated Summons (Dual Sphere) [3PP]
 
@@ -848,14 +816,6 @@ Sphere effects modified with this feat are still treated as the original talent 
 
 **Benefit:** You may use rallies on allies within the area of your consecrations even if you do not share a mandate with them and they are not within range of one of your totems.
 
-#### Spiteful End [SM—]
-
-**Source:** Baron’s Secluded Library
-
-**Prerequisites:** Death or Fate sphere
-
-**Benefit:** Whenever you are rendered helpless or a creature kills you, you can create a single sphere effect with the curse descriptor as an immediate action before you become helpless or are killed. The curse cannot require a time longer than a standard action to use and must target the creature who rendered you helpless or who killed you. If the curse has a range of touch and the attacker is not within your reach, you can deliver it as a ranged touch attack with a range of close.
-
 #### Whole-Set Blast (Dual Sphere) [3PP]
 
 **Prerequisites:** Destruction Sphere (Conflagrant Cluster), Fate Sphere
@@ -863,14 +823,6 @@ Sphere effects modified with this feat are still treated as the original talent 
 **Benefits:** Whenever you use your destructive blast, you gain a +1 bonus to MSB checks made to bypass spell resistance for each different size of damage die beyond the first used in the destructive blast’s damage.
 
 **Source:** Card Casting 3: Volatile Variance
-
-#### Wise to the Fates (Dual Sphere) [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-**Prerequisites:** Divination Sphere, Fate Sphere
-
-**Benefits:** Whenever you would discharge a (motif) talent, you may choose to end a single (sense) talent on yourself rather than ending the (motif). You gain the benefits of discharging as normal.
 
 ---
 

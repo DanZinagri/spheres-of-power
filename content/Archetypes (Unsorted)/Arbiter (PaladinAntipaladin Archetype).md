@@ -38,8 +38,6 @@ Whenever the arbiter uses her detect evil (for paladins) or detect good (for ant
 
 This alters detect evil (for paladins) or detect good (for antipaladins).
 
-**Addendum [SM—]:** The Watchful Glare ability may be used to outwit a creature the paladin has detected using the following class features. Watchful Glare may also be replaced as if it were detect evil.
-
 - Spellvision ([[Antimage (PaladinAntipaladin Archetype)|Antimage]])
 - Detect Adversary ([[Avowed (PaladinAntipaladin Archetype)|Avowed]])
 - Detect Chronomancy ([[Time Knight (Paladin Archetype)|Time Knight]])

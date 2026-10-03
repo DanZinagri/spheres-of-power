@@ -128,12 +128,6 @@ Additionally, whenever you pick up or steal an item, you can stow the item as pa
 
 You may use your Dexterity modifier in place of your Strength modifier when calculating your melee attack rolls with light weapons and weapons with the finesse weapon special feature. You may take this talent a total of two times. If taken a second time, whenever you make an attack using your Dexterity bonus on attack rolls and your Strength bonus on melee damage rolls, you may also add 1/2 your base attack bonus (minimum 1) as a bonus on that damage roll. **Associated Feat:** Weapon Finesse.
 
-#### Forceful Ejection [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-You may use your Strength modifier in place of your Dexterity modifier when making ranged attacks made using natural weapons as well as ranged attacks gained as part of a polymorph effect (such as acid spit from the Aberrant Body talent).
-
 #### Garrote Grappler
 
 You treat garrotes as possessing the finesse weapon special feature. As an attack action, you may make a grapple check to initiate a grapple using a garrote against any target within reach, not just helpless or unaware targets. If successful, you deal your garrote damage to the target. You do not take the -4 penalty for not having two hands free on this check. When you use the choke option when making a grapple check, you may inflict garrote damage in addition to the effects of the choke. The garrote damage referenced in this ability includes your Strength modifier as appropriate to a two handed weapon as well as any enhancement and other bonuses. Damage from this talent does not stack with damage from the constrict universal monster ability.
@@ -159,12 +153,6 @@ While wearing heavy armor, you gain a +1 competence bonus to your CMD against bu
 #### Mechanical Savant
 
 When you make a successful ranged attack with an attack action, an attack of opportunity, or additional attacks granted by class features or talents while wielding a crossbow or firearm, you deal additional damage equal to 1/2 your base attack bonus (minimum 1).
-
-#### Mancatcher Mastery [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You may use a mancatcher on creatures of any size and may treat the mancatcher as if it had the grapple weapon quality. Any mancatcher you wield receives a competence bonus to its hardness equal to your base attack bonus.
 
 #### Natural Materials [LotS]
 
@@ -196,13 +184,6 @@ Abilities that would negate a single attack only stop one shuriken per use, remo
 When unfolding any particle blade, you may treat it as though it was any other melee weapon of the same category (light, one-handed, or two-handed) that you are proficient with for the purpose of benefiting from feats, talents, or abilities. While treating the particle blade as another melee weapon, the particle blade also gains any special features that a weapon of its kind would normally gain. For example, if you were also proficient with the longspear, you could unfold a two-handed particle blade and treat it as if it were a longspear for the purposes of the Weapon Focus (longspear) feat, and grant the particle blade the brace and reach weapon specials. (See the [[Tech]] sphere for more information on particle weapons.)
 
 **Author's Note:** If emulating a two-handed melee weapon with the double special property, the damage of each of the weapon's ends are 3 sizes smaller than normal for the particle blade (1d6/1d6 Medium, 1d4/1d4 Small).
-
-#### Pavise Cover [SM—]
-
-**Source:** Baron’s Uncanny Gateway
-
-As part of a full-round, move, or standard action to reload a weapon, you may use a tower shield to grant you total cover along one edge of your space. For the purpose of reloading and firing ranged weapons, a hand holding a shield that grants you total cover is considered free (allowing you to reload and fire a two-handed ranged weapon while benefiting from the tower shield’s cover).
-If you possess the Flexible Cover shield sphere talent, you ignore any penalties to ranged attack rolls from employing a tower shield and you do not provoke attacks of opportunity when reloading any ranged weapon while using a shield.
 
 #### Polearm Mastery
 
@@ -241,12 +222,6 @@ Additionally, you gain a cumulative +1 bonus to Sleight of Hand checks made to c
 #### Spear Dancer
 
 You may treat any spear or polearm you wield as though it had the finesse weapon special feature, and may wield it as a one-handed weapon. Spears and polearms include weapons like the amentum, boar spear, doru, elven branched spear, glaive, guisarme, harpoon, lance, longspear, naginata, pilum, planson, shortspear, sibat, spear, tiger fork, and trident or other weapons based on GM approval.
-
-#### Spiked Chain Savant [SM—]
-
-**Source:** Baron’s Glorious Arena
-
-You may wield a spiked chain in one hand. While wielding a spiked chain in two hands, you treat it as having the blocking and reach weapon qualities. In addition, unlike most other weapons with reach, you can use it against foes anywhere within your reach (including adjacent foes).
 
 #### Spiked Defense (stance) [Apoc]
 
@@ -375,12 +350,6 @@ You gain proficiency with the fishing tackle, net, trident, harpoon, sea knife, 
 #### Archery Bash (discipline)
 
 You are considered proficient with using a bow, crossbow, or firearm as an improvised melee weapon, and any enhancement bonus to these weapons applies to your attack and damage rolls while using them as an improvised weapon. You suffer no penalty to attacks with these weapons due to using them as an improvised weapon, provoke no attacks of opportunity when using them as a melee weapon, and threaten the area around you as you normally would when wielding a melee weapon.
-
-#### Armed Smith (discipline) [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-You are proficient with the battle wrench, light hammer, lucerne hammer, mancatcher, and warhammer. The nonproficiency penalty of any weapon you have personally crafted is reduced to -2.
 
 #### Bounty Hunter’s Tools (discipline)
 
@@ -605,14 +574,6 @@ You can coax great power from the magic in your armor. You gain a deflection bon
 **Prerequisites:** Equipment sphere, base attack bonus +6.
 
 You may wield weapons sized for creatures 1 size larger than yourself without increasing the effort required (i.e., you do not increase the weapon’s category by 1 step from light to one-handed, one-handed to two-handed, etc.), though you still suffer a -2 penalty on attack rolls with the oversized weapon. In addition, you may treat two handed weapons of your normal size as one-handed weapons and may treat one-handed weapons of your normal size as light weapons, but suffer a -2 penalty to attack rolls made while doing so. These penalties are doubled when making a full attack action.
-
-#### Self-Mounted [SM—]
-
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
-
-**Prerequisites:** Four or more legs
-
-**Benefit:** You gain proficiency with the lance. You can wield a lance one-handed as if you were mounted and may treat yourself as though you were mounted when making charge attacks.
 
 #### Stable Shooter
 
