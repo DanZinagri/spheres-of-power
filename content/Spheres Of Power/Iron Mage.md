@@ -262,7 +262,7 @@ The iron mage gains access to all commands presented here as she levels:
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

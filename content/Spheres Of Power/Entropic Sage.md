@@ -124,7 +124,7 @@ At 17th level, when the entropic sage reduces a creature to 0 or fewer hit point
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -98,7 +98,7 @@ This replaces the spells class feature, as well as the warpriest’s ability to 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -122,7 +122,7 @@ This replaces blessing/blight.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

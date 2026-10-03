@@ -117,7 +117,7 @@ This replaces the hexes gained at 2nd, 10th, and 18th level, and the wandering h
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -217,7 +217,7 @@ This replaces the hexes gained at 2nd, 10th, and 18th level, and the wandering h
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]] · (3PP)
 
 **Rules**
 
@@ -253,9 +253,9 @@ This replaces the hexes gained at 2nd, 10th, and 18th level, and the wandering h
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

@@ -100,7 +100,7 @@ This replaces favored element.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

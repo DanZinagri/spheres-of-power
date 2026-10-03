@@ -126,7 +126,7 @@ The following mystic combats are available exclusively to the Knight-Summoner:
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

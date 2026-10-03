@@ -120,7 +120,7 @@ Cursed Bullets, Improved (Su): At 11th level, the penalty inflicted by the curse
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

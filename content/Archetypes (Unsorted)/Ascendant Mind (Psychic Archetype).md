@@ -221,7 +221,7 @@ This replaces remake self.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

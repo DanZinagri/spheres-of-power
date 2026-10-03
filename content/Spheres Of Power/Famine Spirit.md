@@ -194,7 +194,7 @@ This replaces second skin.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

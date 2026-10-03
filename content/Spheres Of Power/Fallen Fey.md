@@ -1625,7 +1625,7 @@ In any case, the courts do not necessarily require moral alignments; a summer to
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

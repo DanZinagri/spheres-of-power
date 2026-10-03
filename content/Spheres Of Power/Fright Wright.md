@@ -134,7 +134,7 @@ This modifies the inspire heroics aspect of the hypnotism class feature.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

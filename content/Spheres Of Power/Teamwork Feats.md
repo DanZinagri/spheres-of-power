@@ -134,7 +134,7 @@ Undead you and your allies create resonate with each of your souls.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

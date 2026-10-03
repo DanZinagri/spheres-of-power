@@ -136,7 +136,7 @@ This replaces weapon mastery.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

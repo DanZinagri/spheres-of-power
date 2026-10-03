@@ -215,7 +215,7 @@ This replaces true magus.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

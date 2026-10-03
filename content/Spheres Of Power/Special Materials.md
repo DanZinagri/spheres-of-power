@@ -323,7 +323,7 @@ Unstable shadowstuff, when shaped, behaves in all ways as stable shadowstuff exc
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

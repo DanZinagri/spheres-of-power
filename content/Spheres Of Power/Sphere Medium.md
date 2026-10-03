@@ -173,7 +173,7 @@ Once per day, you may cast any sphere talent or ability you know without spendin
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

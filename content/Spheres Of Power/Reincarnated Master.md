@@ -124,7 +124,7 @@ This replaces the bonus feat gained at 14th level.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

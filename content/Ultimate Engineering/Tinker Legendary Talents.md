@@ -404,14 +404,6 @@ A creature cannot have multiple gizmos of the same kind with the same automated 
 
 - **Vehicular Turret (upgrade)**: The *mechanoid* gains an innate personal turret. This upgrade can be granted multiple times.
 
-#### Dynamic Repurposing [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Tinker sphere.
-
-You may attach your Tinker sphere batteries to technological itemsTG which use charges. You may deplete any number of attached batteries (or equivalent power sources) on such an item to grant the item one charge for every battery depleted.
-
 #### Energy-Attuned Gizmos
 
 **Prerequisite**: Tinker sphere.

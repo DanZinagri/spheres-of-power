@@ -74,7 +74,7 @@ This alters mental potency but still counts as mental potency for the purpose of
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

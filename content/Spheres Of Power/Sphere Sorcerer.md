@@ -132,7 +132,7 @@ This replaces all bloodline spells.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

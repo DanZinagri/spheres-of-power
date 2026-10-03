@@ -99,7 +99,7 @@ The nature of the location the alter-ego goes when her companion is summoned is 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

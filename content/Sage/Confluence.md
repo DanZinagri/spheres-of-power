@@ -136,7 +136,7 @@ Whenever the confluence deals damage to a creature using his chi gong ability, h
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -236,7 +236,7 @@ Whenever the confluence deals damage to a creature using his chi gong ability, h
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]] · (3PP)
 
 **Rules**
 
@@ -272,9 +272,9 @@ Whenever the confluence deals damage to a creature using his chi gong ability, h
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

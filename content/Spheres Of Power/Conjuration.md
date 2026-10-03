@@ -912,12 +912,6 @@ As a free action, you may spend a spell point to allow your shadow companion to 
 
 You regain the benefits of the selected items when the summon ends. You still count as possessing the item for the purpose of items that require an attunement period. You may not assign cursed items to the companion.
 
-#### Long-Term Agreement [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Benefit:** When negotiating with a creature summoned through a (calling) spell or with the Call Planar Creature advanced Conjuration talent, you may have it serve you for twice the normal duration that would normally be allowed or agreed upon. In addition, if that specific outsider ever crosses you again after its service has ended, you gain a +2 bonus on saving throws against its abilities.
-
 #### Manifestation (Companion)
 
 **Prerequisites:** Conjuration sphere (Shadow Creature (form)).
@@ -937,12 +931,6 @@ You regain the benefits of the selected items when the summon ends. You still co
 **Prerequisites:** Conjuration sphere (Call Planar Creature).
 
 **Benefit:** You may use your casting ability modifier in place of your Charisma modifier when determining the DCs for Charisma checks made by called creatures and for attempting opposed Charisma checks against called creatures when using the Call Planar Creature advanced talent.
-
-#### Petulant Binder [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Benefit:** When negotiating with creatures bound with (calling) spells or similar effects, you may attempt a Charisma check every 2 hours rather than every 24 hours.
 
 #### Spell Channel (Companion) [Apoc]
 
@@ -1028,7 +1016,7 @@ The Knight-Summoner is an archetype for the Mageknight that allows them to call 
 
 ## [[Pact Master]]
 
-The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of Pact Magic.
+The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of  .
 
 ## [[Twinsoul Elementalist]]
 
@@ -1818,7 +1806,7 @@ The Knight-Summoner is an archetype for the Mageknight that allows them to call 
 
 ## [[Pact Master|Old Pact Master]]
 
-The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of Pact Magic.
+The Pact Master is an archetype for the Thaumaturge that trades normal casting power for the ability to summon and gain power from other companions. Combos well with the spirit ideas of  .
 
 ## [[Twinsoul Elementalist|Old Twinsoul Elementalist]]
 
@@ -2023,7 +2011,7 @@ The process of forming a bond with a Conjuration sphere companion is intentional
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

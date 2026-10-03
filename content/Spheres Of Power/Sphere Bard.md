@@ -84,7 +84,7 @@ A sphere bard gains 3/4ths of a magic talent every level (the same progression a
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

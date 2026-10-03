@@ -221,7 +221,7 @@ Choose any eliciter emotion. You may use the first ability of the emotion using 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

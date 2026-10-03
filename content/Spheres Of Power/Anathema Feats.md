@@ -134,7 +134,7 @@ If you possess the Extended Anathema feat, the size of these shapes increases as
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

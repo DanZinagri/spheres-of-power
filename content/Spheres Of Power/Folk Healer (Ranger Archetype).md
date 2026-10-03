@@ -146,7 +146,7 @@ This replaces woodland stride.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

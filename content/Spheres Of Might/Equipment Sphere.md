@@ -16,12 +16,6 @@ Some talents are marked (discipline). These talents grant groups of weapons with
 
 # Equipment Talents
 
-#### Able Aim [LG]
-
-**Source:** Arcforge Players Compendium
-
-As long as you have martial focus, the increase in range increment from aiming a weapon with the sniper weapon enhancement* applies to all attacks you make until the end of your next turn, not just the next one. You may expend martial focus to aim a sniper weapon as a move or swift action rather than a standard action.
-
 #### Armor Expert [High. HB]
 
 You increase the armor bonus to AC of any armor you are wearing by +1. When your base attack bonus reaches +8, you lower the armor check penalty of any armor you wear by 1. For every 8 points of base attack bonus you gain thereafter, you reduce the armor check penalty of your worn armor by a further 1 (this cannot reduce your armor check penalty below 0). The benefits granted by this talent do not stack with those provided by the Armor Focus and Improved Armor Focus feats. **Associated Feat:** Armor Focus.
@@ -64,12 +58,6 @@ Your armor receives a competence bonus to its hardness equal to your base attack
 
 You gain a +2 competence bonus to ranged trip attempts made with bolas or brutal bolas. Whenever you use bolas or brutal bolas to make a successful ranged trip attack as an attack action, you may also deal damage to the target as if the trip attempt had been a standard ranged attack with that weapon.
 
-#### Bullet Flood [LG]
-
-**Source:** Arcforge Players Compendium
-
-When you attack with a weapon that has the scatter weapon quality, you ignore any cover other than total cover.
-
 #### Cavalry Ready [Apoc]
 
 You treat all one- or two-handed melee weapons as if they had the brace special feature. **Associated Feat:** Let Them Come.
@@ -85,12 +73,6 @@ For every 4 base attack bonus you possess, the maximum potential reach of the ob
 With 10 minutes of work, you may treat any set of clothing you wear as a cold-weather outfit, granting a +5 circumstance bonus on Fortitude saving throws against exposure to cold weather. When using the outfit in this fashion, you may wear it in addition to another outfit or armor.
 
 Additionally, while wearing a great kilt or cold-weather outfit, you gain cold resistance 2. At +6 base attack bonus the cold resistance increases to 5. At base attack bonus +12 the cold resistance increases to 10. At base attack bonus +18 the cold resistance increases to 20.
-
-#### Continual Operation [LG]
-
-**Source:** Arcforge Players Compendium
-
-Technological weapons you wield do not deactivate when you drop them. If a technological weapon would normally be turned on as a standard action, you may turn it on as a move action or as a free action by spending martial focus.
 
 #### Craftsman [utility]
 
@@ -124,37 +106,9 @@ You may separate or rejoin a dual blade as a free action and do not treat each s
 
 Whenever you wield a melee weapon other than a natural attack in only one hand and make no attacks using any other hand or natural attack you possess, you apply 1 and 1/2 times your Strength bonus to damage rolls with it instead of just your Strength bonus.
 
-#### Elemental Disruption [LG]
-
-**Source:** Arcforge Players Compendium
-
-When you deal one or more types of energy damage with a weapon attack, you may apply one of the following effects to the attack.
-
-*Blinding Flames:* When you deal fire damage to a creature using a weapon attack, that creature gains the dazzled condition for 1 round. The penalties from dazzled increase by 1 for every 5 points of base attack bonus you possess.
-
-*Caustic Conversion:* When you deal acid damage to a creature using a weapon attack, any damage reduction or energy resistance that creature possesses is reduced by 2 for 1 round. This reduction increases by 1 for every 5 points of base attack bonus you possess.
-
-*Electric Arc:* When you deal electricity damage to a creature using a weapon attack, choose another creature within 5 feet + 5 feet for every 5 points of base attack bonus you possess. That creature must succeed at a Reflex save or take damage equal to half the electricity damage dealt.
-
-*Flash Freeze:* When you deal cold damage to a creature using a weapon attack, that creature’s movement speeds are reduced by 10 feet (minimum 10 feet) for 1 round. This penalty increases by 5 feet for every 5 points of base attack bonus you possess.
-
-*Sonic Resonance:* Whenever you deal sonic damage to a creature using a weapon attack, the creature takes a -4 penalty to Initiative, Perception and Sense Motive checks for 1 round. This penalty increases by 1 for every 5 points of base attack bonus you possess.
-
-#### Expert Grenadier [LG]
-
-**Source:** Arcforge Players Compendium
-
-Whenever you throw a splash weapon not gained through a sphere or class feature, you may use the higher of the splash weapon’s normal save DC and a DC of 10 + 1/2 your base attack bonus + your practitioner modifier + 1/2 the splash weapon’s enhancement bonus.
-
 #### Expert Reloading
 
 Whenever you reload a ranged weapon with which you are proficient, you may decrease the required time; hand and light crossbows become free actions, heavy crossbows and one-handed firearms become move actions, and two-handed firearms become standard actions. If you possess the Crossbow Mastery feat, you do not provoke attacks of opportunity when reloading any crossbow. **Associated Feat:** Rapid Reload.
-
-#### Faceful Of Shrapnel [LG]
-
-**Source:** Arcforge Players Compendium
-
-When you make an attack action using a ranged weapon with the scatter weapon quality against a creature adjacent to you, add 1/2 your base attack bonus on the damage roll against that creature.
 
 #### Fast Draw
 
@@ -192,33 +146,15 @@ You may treat a cestus, gauntlet, or spiked gauntlet as a buckler, gaining the +
 
 You gain a +1 competence bonus to your CMD vs. the disarm and sunder maneuver. This bonus increases by +1 for 4 points of base attack bonus you possess. This bonus does not stack with the bonus provided by the Improved or Greater Disarm/Sunder feats.
 
-#### Guarding Weapon [LG]
-
-**Source:** Arcforge Players Compendium
-
-You may treat any weapon with the blocking weapon special feature as if it were also a buckler, gaining the +1 shield bonus to AC as normal for a buckler. The weapon’s enhancement bonus to attack and damage also applies to the shield bonus granted by the weapon. You lose this bonus if you attack with the weapon or wield another weapon in the same hand unless you possess an ability to retain your shield bonus when making a shield bash attack, such as the Bashing Shield talent of the Shield sphere or the Improved Shield Bash feat. Making an attack with this weapon may count as making a shield bash if beneficial, but any attack which counts as a shield bash treats the weapon’s critical threat range as 20 and its critical damage multiplier as x2.
-
 #### Gun Kata
 
 While wielding a firearm, you can still make unarmed strikes with the hands used to wield it (these attacks do not provoke attacks of opportunity if you are not proficient with unarmed strikes); if you do, your unarmed strikes made with any hand wielding a firearm gain any enhancement bonuses to attack or damage rolls your firearm possesses (this bonus cannot exceed +5). When using the attack action to make a successful attack with your unarmed strike against a creature, or when you succeed at a melee attack with a double weapon that is part melee weapon and part firearm (such as the axe musket or dagger pistol) using the attack action, as a swift action you can make a ranged attack with a -2 penalty against the same creature with your firearm or the firearm portion of your weapon; this attack does not provoke an attack of opportunity.
-
-#### Heft Armaments (stance) [LG]
-
-**Source:** Arcforge Players Compendium
-
-While in this stance, you may make attack actions and attacks of opportunity with unwieldy and slow-firing weapons as if they did not have the unwieldy or slow-firing weapon qualities. Any such attacks may still benefit from other talents that benefit from the unwieldy or slow-firing weapon qualities.
 
 #### Immovable Object [Apoc]
 
 **Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
 
 While wearing heavy armor, you gain a +1 competence bonus to your CMD against bull rush, drag, and reposition maneuvers. This bonus increases by +1 for every 4 points of base attack bonus you possess.
-
-#### Load Bearer [LG]
-
-**Source:** Arcforge Players Compendium
-
-You are considered to have a Strength score of 20 or your normal Strength score (whichever is higher) for the purpose of determining your ability to use weapons with a minimum Strength score for optimal use (such as composite longbows and butchering axes). You may treat heavy weapons as firearms for the purpose of class abilities and talents.
 
 #### Mechanical Savant
 
@@ -271,12 +207,6 @@ If you possess the Flexible Cover shield sphere talent, you ignore any penalties
 #### Polearm Mastery
 
 When wielding a reach weapon, you may attack targets within your natural reach, but suffer a -2 penalty when doing so. At +10 base attack bonus, you also threaten all squares within your natural reach when wielding a reach weapon, but still suffer a -2 penalty to attacks of opportunity made in this fashion.
-
-#### Scatter Mastery [LG]
-
-**Source:** Arcforge Players Compendium
-
-As long as you have martial focus, when attacking with a weapon with the scatter weapon quality, you may choose not to attack a single creature in the area. You may choose not to attack an additional creature for every 4 points of base attack bonus you possess.
 
 #### Shield Expert
 
@@ -346,12 +276,6 @@ You have mastered techniques for making firearms more reliable and accurate at t
 
 Whenever a critical hit is scored against you, as an immediate action you may divert the additional damage from the critical hit to your armor. This action is taken after the result of the attack roll is known but before the damage is revealed. You suffer any damage in excess of your armor’s hit points.
 
-#### Swarm Shredder [LG]
-
-**Source:** Arcforge Players Compendium
-
-As long as you have martial focus, your weapon attacks deal half damage to swarms rather than no damage. Against tiny swarms, your weapon attacks deal full damage regardless of damage type. When attacking using a weapon with the scatterUC weapon quality, you deal 150% damage to swarms as if you had hit them with an area attack.
-
 #### Throw Bash [Apoc]
 
 You gain proficiency with throwing shields. Ranged attacks made with a throwing shield incorporate shield spikes into their damage calculation as normal. Additionally, if you have the Cover Ally talent, you may treat any ally within your shield’s first range increment as being within your shield’s reach by throwing it as part of the active defense action. You may apply a (deflect) talent to this active defense as normal, performing any additional actions by ricocheting the shield off of the attack. If your shield has the returning property, or you have the Throwing Mastery talent, it returns after using Cover Ally as if you made an attack with it.
@@ -363,12 +287,6 @@ When using an attack action, attack of opportunity, or additional attack granted
 #### Thrower’s Reflexes
 
 Once per round when you would normally be hit with an attack from a ranged weapon, you may instead expend your martial focus and choose to catch the weapon. You must be aware of the attack and not flat-footed, and you must have at least one hand free. Attempting to catch a ranged attack doesn’t count as an action. You cannot catch an attack that is from a weapon sized for a creature more than one size category larger than you are. Ranged attacks generated by natural attacks or spell effects can’t be caught. **Associated Feat:** Snatch Arrows.
-
-#### Titanic Maneuver [LG]
-
-**Source:** Arcforge Players Compendium
-
-When you successfully perform a combat maneuver to bull rush, drag, or reposition a target while wielding a melee weapon with the unwieldy* weapon special feature, increase the result of your melee attack roll by 5 when determining how far you move your target.
 
 #### Tower Shield Mastery
 
@@ -429,12 +347,6 @@ This talent gives you access to three stances, listed below. Feats that list the
 #### Versatile Shield
 
 When wielding a shield, you may add your shield’s AC enhancement bonus to attack and damage rolls made with the shield as if it were a weapon enhancement bonus. **Associated Feat:** Shield Master.
-
-#### Weapon Cover [LG]
-
-**Source:** Arcforge Players Compendium
-
-Any two-handed weapon you are wielding gains the blocking weapon special feature.
 
 #### Weaponmaster [Conq. HB]
 
@@ -560,12 +472,6 @@ You gain proficiency with the the brutal bola, dogslicer, garrote, horsechopper,
 
 You gain proficiency with the double sling, sling, halfling rope-shot, halfling sling staff, machete, sling glove, and war razor. In addition, you may reload a double sling, halfling sling staff, sling, and sling glove as a free action that does not provoke an attack of opportunity. **Associated Feat:** Ammo Drop.
 
-#### Heavy Weapon Training (discipline) [LG]
-
-**Source:** Arcforge Players Compendium
-
-You are proficient with heavy weapons and siege weapons. **Associated Feat:** Siege Engineer.
-
 #### Huntsman Training (discipline)
 
 You gain proficiency with the atlatl, bolas, boomerang, handaxe, harpoon, longbow, net, shortbow, throwing axe, and tube arrow shooter. In addition, you only suffer a –1 penalty per full range increment between you and your target when using a ranged weapon. **Associated Feat:** Far Shot.
@@ -674,22 +580,6 @@ While wearing heavy armor and fighting defensively, any adjacent creature that s
 
 While wearing heavy armor you may treat your gauntlets and any armor spikes as though they had an enhancement bonus equal to the armor’s enhancement bonus to AC. Gauntlets and armor spikes benefiting from this talent do not gain the benefits of any enhancement bonus or special properties they would normally possess.
 
-#### Bullet Cyclone [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Equipment sphere.
-
-When you attack using a weapon with the scatter weapon quality, you may expend martial focus to make the attack with the weapon as a burst centered on yourself rather than a cone. The radius of the burst is the length of the cone normally created by the weapon.
-
-#### Elemental Convergence [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Equipment sphere (Elemental Disruption).
-
-When you deal multiple types of energy damage with an attack, you may apply up to two separate effects from Elemental Disruption corresponding to damage types you deal.
-
 #### Force Redirection Technique [Youxia HB]
 
 **Prerequisite:** Equipment sphere.
@@ -704,70 +594,17 @@ Whenever you successfully impale a creature with a ranged attack using a grappli
 
 If this attempt is successful, the creature is dragged into a square adjacent to you as long as there is an unobstructed path between yourself and the creature (this talent fails if you are not standing on solid ground as well as if there is not enough solid ground adjacent to you to accommodate the creature you are repositioning, and this movement does not provoke attacks of opportunity).
 
-#### Hypershot [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Equipment sphere (SplitshotSoM), base attack bonus +5.
-
-As a special attack action, you can expend martial focus to draw, nock, and fire copious arrows in one motion with a bow, making an attack against each creature in a medium-range line (100 feet + 10 feet per base attack bonus) or close-range cone (25 feet + 5 feet per 2 points of base attack bonus). Make a separate attack roll against each creature within the area.
-
-Each attack roll takes a –2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil a scatter attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone.
-This attack expends ammunition as if you made 10 attacks and is considered to be an attack with a weapon with the scatter weapon quality.
-
-You may take this talent a total of three times, up to once per 5 base attack bonus you possess. If taken twice, increase the size of the cone to a medium (100 feet + 10 feet per base attack bonus) and the size of the line to long (400 feet + 40 feet per base attack bonus). If taken three times, increase the size of the cone to long range.
-
-#### Improved Boost [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Equipment sphere.
-
-When you augment a weapon’s damage using the boosting* or kicking* weapon special abilities, the ability also increases the damage of the weapon’s second attack made before the end of your next turn. You may expend martial focus to use the boosting or kicking special abilities as a free action rather than a move action.
-
 #### Magic Armor
 
 **Prerequisites:** Equipment sphere.
 
 You can coax great power from the magic in your armor. You gain a deflection bonus to AC equal to your worn armor’s enhancement bonus to AC.
 
-#### Manifold Grip [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Equipment sphere.
-
-You may wield any melee weapon that can be wielded in two hands in two or more hands. For every hand beyond the second, you gain a bonus on damage rolls with that weapon equal to half your Strength modifier (for a total of 2 × your Strength modifier on weapons wielded in 3 hands, 2.5 × your Strength modifier on weapons wielded in 4 hands, and so on).
-
-#### Nova Blast [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Equipment sphere.
-
-When you successfully attack using a weapon with charges, you can expend all the weapon’s remaining charges to deal additional damage, after which the weapon deactivates. The amount of additional damage is equal to 1d4 for every point of enhancement bonus the weapon has (minimum 1d4). If the weapon has at least one-fourth, one half, or three quarters of its charges remaining, the additional damage die size increases to d6s, d8s, or d10s respectively.
-
-#### Optimize Magic Weapon [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Equipment sphere.
-
-While wielding a magic weapon, you treat its enhancement bonus as 1 higher for the purpose of calculating the effects of magic weapon special abilities on the weapon (but not attack and damage rolls with the weapon). This increase to enhancement bonus improves by 1 for every 5 points of base attack bonus you possess. A weapon cannot have an effective enhancement bonus higher than +6.
-
 #### Oversized Weapons
 
 **Prerequisites:** Equipment sphere, base attack bonus +6.
 
 You may wield weapons sized for creatures 1 size larger than yourself without increasing the effort required (i.e., you do not increase the weapon’s category by 1 step from light to one-handed, one-handed to two-handed, etc.), though you still suffer a -2 penalty on attack rolls with the oversized weapon. In addition, you may treat two handed weapons of your normal size as one-handed weapons and may treat one-handed weapons of your normal size as light weapons, but suffer a -2 penalty to attack rolls made while doing so. These penalties are doubled when making a full attack action.
-
-#### Rapid Recharger [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Equipment sphere.
-
-When you recharge a non-firearm aethertech device using an aetheric capacitor, you may do so as a move action. You may insert or eject a battery from a non-firearm object as a swift action rather than a move action. **Associated Feat:** Efficient Recharger.
 
 #### Self-Mounted [SM—]
 
@@ -782,13 +619,6 @@ When you recharge a non-firearm aethertech device using an aetheric capacitor, y
 **Prerequisites:** Equipment sphere, Firearm Proficiency or Mechanical Training, base attack bonus +6.
 
 If you are proficient with the culverin or gastraphetes, you are always treated as though it was supported or mounted and may reload these weapons while prone, although you take a -2 penalty on attack rolls with these weapons when using them with this talent. This penalty is doubled when making a full attack action with weapons wielded with this talent.
-
-#### Steady Gunner [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Equipment sphere.
-You may use Strength in place of Dexterity when making attack rolls using weapons with the scatterUC weapon quality or that attack multiple targets in an area. As long as you have martial focus, you may add your Strength modifier to damage rolls with weapons with the scatter weapon quality or that attack multiple targets in an area.
 
 #### Sword Shooter
 

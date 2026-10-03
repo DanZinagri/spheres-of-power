@@ -980,7 +980,7 @@ When thunder rolls and lightning cracks, your minions rise.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

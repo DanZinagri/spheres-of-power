@@ -307,7 +307,7 @@ Kismet counts as luck for the purpose of qualifying for and activating feats, bu
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

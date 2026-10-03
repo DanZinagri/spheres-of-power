@@ -1967,11 +1967,6 @@ You gain one Survivalism talent that you do not already have. Choose one of the 
 
 You may select this mythic sphere mastery a second time. When you do, you gain the ability you did not acquire before.
 
-### Mythic Sphere Mastery: Technomancy [LG]
-
-**Source:** Arcforge Players Compendium
-You gain Sprite Legion as a bonus talent. Whenever you create one or more sprites, you may spend a point of mythic power to enhance these sprites, allowing each of them to execute two programs each round rather than just one.
-
 ### Mythic Sphere Mastery: Telekinesis
 
 When you use Sustained Force, you may spend one mythic power to have the effect persist for 1 hour per mythic tier. If you have a caster level of at least 24 in the Telekinesis sphere, you may instead maintain the lifting of a single object without concentration until you choose to stop lifting it. You may only sustain one object in this way at a time.
@@ -5331,16 +5326,6 @@ Add half your tier (rounded down, minimum 1) to your MSD when foes attempt a mag
 
 Add half your tier (rounded down, minimum 1) to your MSB for the purposes of counterspelling when you are using Dispelling Attack. This is applied after any other modifiers and can allow your MSB to exceed your Hit Dice.
 
-#### Divergent Visionary (Mythic) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Divination sphere, caster level 9th; or ability to cast one divination spell of 5th level or higher or manifest one clairsentience power of 5th level or higher.
-
-**Benefit:** Any of your clairsentience powers or divination spells or Divination talents which function across planes now also function across alternate timelines and separations in time. For example, a character with the telepathic bond spell active can send messages to an ally they are aware of who is currently in an alternate timeline or even in an alternate time period in that timeline (such as 100 years in the past). Likewise, a character could use scrying to look at a location at a different point in time in another timeline they are aware of. You must be aware of a specific alternate timeline’s existence (such as having traveled from it, knowing that somebody else has traveled to it, or knowing that a portal exists to it) in order to target that timeline or anything in it. An alternate “stripe” of time resulting from an inconsequential form of time travel (such as using a Shadowbore or teleportation effect for superluminal travel) does not qualify as an alternate timeline.
-
-**Note:** Even in a game which involves players crossing multiple alternate universes, GMs may wish to restrict the ability of players to cross between timelines they know of. As a result, players wishing to take this feat should gain approval from their GM beforehand.
-
 #### Dragon’s Tattoos (Mythic)
 
 By consuming one pound of any material that can be used to forge weapons, you may treat your unarmed strikes as if they were made from that material. For example, if you consume cold iron, you can bypass DR/cold iron. Consuming the material is always harmless to you and it disappears when consumed. Eating a new type of material replaces the old material.
@@ -5759,9 +5744,9 @@ The Undetectable ability for Legendary Items prevents invisible players from bei
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 
@@ -5807,7 +5792,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]] · (3PP)
 
 **Rules**
 
@@ -5873,7 +5858,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

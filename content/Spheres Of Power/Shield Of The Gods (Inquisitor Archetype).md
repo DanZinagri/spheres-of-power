@@ -132,7 +132,7 @@ This replaces slayer.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -174,7 +174,7 @@ This replaces greater psionics.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

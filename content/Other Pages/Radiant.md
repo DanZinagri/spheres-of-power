@@ -187,8 +187,6 @@ Radiants gain access to the following veils.
 
 # Archetypes
 
-## -Unity Ascendant
-
 ---
 
 ## Favored Class Bonuses

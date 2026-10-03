@@ -86,7 +86,7 @@ This ability replaces lingering transformation.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -156,7 +156,7 @@ You may make ranged attacks with a wielded foe, treating them as a thrown weapon
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

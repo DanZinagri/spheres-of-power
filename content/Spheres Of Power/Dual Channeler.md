@@ -134,7 +134,7 @@ This modifies Blessing/Blight.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

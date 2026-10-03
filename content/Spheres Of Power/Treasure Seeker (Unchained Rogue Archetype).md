@@ -98,7 +98,7 @@ This replaces debilitating injury.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

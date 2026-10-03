@@ -72,14 +72,6 @@ You may also spend the 2 additional spell points, but only target a single item.
 
 **Benefit:** Whenever you strike a target with a weapon attack, you may spend a spell point as an immediate action to attempt to dispel an existing magical effect on the target using your Counterspell ability, or multiple effects with your Improved or Greater Counterspell ability.
 
-#### Disabling Dastard (Champion, Gizmo) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Infiltration sphere; Tinker sphere (Disruption Set (gizmo)) or Counterspell,; casting class feature, magic skill bonus +5.
-
-**Benefit:** You may spend 1 spell point to apply the effects of the Counterspell feat as a (sabotage) or 1 charge to apply the effects of a Countergizmo as a (sabotage). If you possess the Improved Counterspell feat, you may spend an additional spell point to apply the effects of Improved Counterspell as a (sabotage). If you possess the Advanced Arsenal talent, you may spend 2 additional charges to apply the effects of an Improved Countergizmo as a (sabotage).
-
 ### Dispelling Admixture (Admixture, Counterspell) [3PP]
 
 **Prerequisites:** Destruction sphere (Admixture), Counterspell
@@ -110,14 +102,6 @@ You push yourself into your counterspells to assure their success.
 
 **Benefit:** When you successfully counter a spell, the caster must succeed at a Will save equal to your Illusion sphere DC or Mind sphere DC (whichever is greater), or believe the spell had its intended effect, even if they would otherwise be aware of its failure. Treat this effect as a figment with a duration equal to the countered spell, and use the rules for interacting with and investigating figments.
 
-### Hacking Counterspell (Champion, Counterspell) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Spellhacking sphere, Counterspell, casting class feature, magic skill bonus +5.
-
-**Benefit:** Whenever you successfully counterspell a magical effect, you may apply a (hack) talent that you know to the effect rather than dispelling it. If you counterspell multiple effects at once, you must spend an additional spell point and apply the same (hack) to all of them. If you have the ability to counter technological effects and apply (hack) talents to them, you may use this feat on technological effects.
-
 ### Harmonic Counter [S&P]
 
 Miracles of all sorts buckle before your might.
@@ -125,20 +109,6 @@ Miracles of all sorts buckle before your might.
 **Prerequisite:** Counterspell.
 
 **Benefit:** You can counterspell effects which were created with the Alien Source at no penalty. Your abilities that would suppress magic (such as such as the Spell Ward and Anti-Magic Aura effects of the Protection sphere) function normally against all magic effects regardless of source. In addition, you can attempt to use any of your Counterspell feats or other magic-negating abilities on technological equipment as if it were magical equipment. Treat a technological item’s MSD as if it were the item’s Craft DC -5 (or 11 + the item’s level if using Starfinder equipment).
-
-### Harmonic Counter (Counterspell, Gizmo) (Updated) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The following version of Harmonic Counter was updated to function with the Tinker sphere.
-
-**Prerequisites:** Tinker sphere (Disruption Set (gizmo)) or Counterspell.
-
-**Benefit:** Whenever you use Countergizmo battery use, you may affect magic effects in the area or on the target as per Counterspell, using your gizmo penetration check in place of your MSB. If you have the Advanced Arsenal legendary talent, this improves to Improved Counterspell if you use an Improved Countergizmo battery use and Greater Counterspell if you use a Greater Countergizmo battery use.
-
-When you use Counterspell, you may affect gizmos in the area or on the target as per a Countergizmo, using your MSB in place of your gizmo penetration check. This improves to affecting them as per an Improved Countergizmo if you use Improved Counterspell on a single target or a Greater Countergizmo if you use Greater Counterspell.
-
-You can counterspell effects which were created with the Alien Source at no penalty. Your abilities that would suppress magic (such as such as the Spell Ward and Antimagic Aura effects of the Protection sphere) function normally against all magic effects regardless of source. In addition, you can attempt to use any of your Counterspell feats or other magic-negating abilities on technological equipment from outside the Tinker sphere as if it were magical equipment. Treat such a technological item’s MSD as if it were the item’s Craft DC -5.
 
 ### Imperious Counterspell (Counterspell) [3PP]
 
@@ -334,7 +304,7 @@ See the [[Proxy Feats|Proxy]] section.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -140,7 +140,7 @@ When you first take a chance feat, you gain a kismet pool if you did not otherwi
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

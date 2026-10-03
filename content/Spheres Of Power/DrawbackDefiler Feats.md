@@ -521,14 +521,6 @@ You do not suffer the normal penalties for Coy Caster when using an effect in th
 
 **Special:** You may select this feat multiple times, each time selecting a different creature. If you have the Bonded Casting drawback, you may select this feat as a drawback feat.
 
-### Planar Tether (Drawback) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Planebound Magic.
-
-**Benefit:** Abilities which directly interact with or allow travel to the plane you have selected with Planebound Magic may be used on any plane.
-
 ### Poisoned Apple (Drawback) [Cata. HB]
 
 Your charged spells can react violently to interlopers.
@@ -676,14 +668,6 @@ When using a magic effect that would affect individual creatures (or otherwise c
 **Special:** You may select this feat multiple times, each time selecting two different methods.
 
 **Source:** Expanded Spheres: Weaves of War
-
-### Rush Of Magic (Champion, Drawback) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Barroom sphere (Chasing The Dragon), Addictive Casting.
-
-**Benefit:** Whenever you spend a spell point, you gain the drunk status as if you had consumed a drug. You may ignore the penalties from addiction so long as you maintain this drunk status.
 
 ### Sanctum Magic (Drawback) [Cata. HB]
 
@@ -1291,7 +1275,7 @@ Choose one trait from the Blank Form ability of the Alteration sphere or another
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

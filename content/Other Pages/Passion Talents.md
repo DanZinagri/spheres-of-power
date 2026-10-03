@@ -159,7 +159,7 @@ If you possess the swap places talent, you may exchange fetuses in different wom
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

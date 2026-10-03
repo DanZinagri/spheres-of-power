@@ -1661,7 +1661,7 @@ Vanguards are the warcasters most likely to multiclass into non-caster classes, 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

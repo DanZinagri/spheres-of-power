@@ -252,7 +252,7 @@ If your new hit point total is greater than a negative amount equal to your Cons
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

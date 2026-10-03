@@ -175,7 +175,7 @@ This replaces the Wild shape class feature.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

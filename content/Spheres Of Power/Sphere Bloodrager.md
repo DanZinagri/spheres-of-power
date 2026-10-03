@@ -106,7 +106,7 @@ This replaces the spells class feature, the Eschew Materials feat, and all blood
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

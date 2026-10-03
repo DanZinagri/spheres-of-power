@@ -414,14 +414,6 @@ Your words inspire more than simple ire in your targets.
 
 **Benefit:** Whenever you target a creature with a Fate sphere (word) talent, you may challenge that target as part of the same action. If you possess both the Echoing Word and Mass Challenge talents, you may challenge multiple creatures that are targeted by your words (to a maximum of the normal number of creatures you may challenge with Mass Challenge). If you possess the Swift Challenge talent, you may challenge a creature targeted with a word that takes an immediate action, in which case the challenge does not take effect until the challenged creature’s triggering action is resolved.
 
-#### Guarded Range (Champion, Combat) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Guardian sphere ((patrol) package), Navigation sphere.
-
-**Benefit:** While you have a patrol active, you may apply the effects of your pathing to your threatened area.
-
 #### Grandiose Charms (Champion) [LotS]
 
 **Prerequisites:** Mind sphere, either Bluster or Performance sphere.
@@ -457,14 +449,6 @@ A grappled creature takes a -2 penalty on all attack rolls and combat maneuver c
 **Prerequisite:** Mind sphere.
 
 **Benefit:** As part of casting a charm, you may outwit the target to cause them to take a -1 penalty on their saving throw. If you invoke a major motivation while outwitting them, this penalty increases to -2.
-
-#### Hacking Counterspell (Champion, Counterspell) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Spellhacking sphere, Counterspell, casting class feature, magic skill bonus +5.
-
-**Benefit:** Whenever you successfully counterspell a magical effect, you may apply a (hack) talent that you know to the effect rather than dispelling it. If you counterspell multiple effects at once, you must spend an additional spell point and apply the same (hack) to all of them. If you have the ability to counter technological effects and apply (hack) talents to them, you may use this feat on technological effects.
 
 #### Harnessed Virtue (Champion, Combat) [Apoc]
 
@@ -644,18 +628,6 @@ You may increase the casting time of an illusion by one step to use your Strike 
 
 **Example:** Making a figment of a bat to Intimidate a target would not grant a Will save to disbelieve unless the figment would normally grant a Will save in the first place, such as having an illusory bat rush and bite the target.
 
-#### Pilot’s Savvy (Champion) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Athletics sphere; Artifice sphere or Enhancement sphere.
-
-**Benefit:** You gain the following benefits, depending on the spheres you possess:
-
-- *Familiar Piloting (Artifice sphere):* Whenever you are driving a vehicle or piloting a mech, you may use your Craft (mechanical) modifier in place of any of your Athletics sphere packages’ associated skill modifiers for the purposes of Athletics sphere talents. When attempting a Craft (mechanical) check to repair your mech, you may use any of your Athletics sphere packages’ associated skill modifiers in place of your Craft (mechanical) modifier.
-
-** Optimal Deployment (Enhancement sphere):* When you mount a vehicle or begin piloting a mech, you may target the mech or vehicle with a single enhancement as part of the same action.
-
 #### Planar Commander (Champion)
 
 **Prerequisites:** Conjuration sphere, Warleader sphere.
@@ -683,14 +655,6 @@ You may move your dimensional rifts, using it to protect yourself.
 **Prerequisites:** Shield sphere, Warp sphere (Mass Teleport [mass], Portal (advanced), Wormhole (space)), caster level 5th.
 
 **Benefit:** When you create a portal, you may choose to shape that portal into the shape of a heavy wooden shield or tower shield which may be wielded, providing the normal bonuses of a shield of that kind and incurring armor check penalties and a maximum Dexterity bonus as normal. On any round in which you perform an attack action or a combat maneuver with a portal shield, you may concentrate on the portal shield as a free action. When you perform a drag combat maneuver while wielding a portal shield, you may force the creature to move through your portal shield rather than moving it normally. If you spend martial focus when making an attack action with the portal shield, you may force the target to make a Reflex save against your Warp sphere DC or pass through the portal. If you possess the Redirecting Shield or Perfect Redirection talents, you may use the exit of the portal as your location for the purpose of determining targets for these (deflect) talents.
-
-#### Prolific Pugilist (Champion) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Bluster sphere, Boxing sphere.
-
-**Benefit:** When you would trigger your counter punch, you may choose to use a quip that you could use as a standard action in place of performing the counter punch. You may use this ability only once per round even if you could trigger multiple counter punches. In addition, when you have a counter punch readied, you may outwit a creature to make a counter punch against them whenever they take an action that could be used as a trigger for your counter punch, even if you have not designated that specific action as a trigger for your counter punch. Outwitting a creature in this way does not break your readied action to make the counter punch against that creature.
 
 #### Raging Lucidity (Champion) [SM—]
 
@@ -724,14 +688,6 @@ When one of your allies primes a technique, you respond immediately.
 **Prerequisites:** Body Control sphere, vitae class feature
 
 **Benefits:** Once per round, when you end a meditation, you gain 1 point of vitae if you gained vitae from another source within the last minute. Whenever you spend vitae on the metabolize ability, you may begin a Body Control meditation as part of the same action.
-
-#### Rush Of Magic (Champion, Drawback) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Barroom sphere (Chasing The Dragon), Addictive Casting.
-
-**Benefit:** Whenever you spend a spell point, you gain the drunk status as if you had consumed a drug. You may ignore the penalties from addiction so long as you maintain this drunk status.
 
 #### Sanguine Magic (Champion, Combat) [CrimDan]
 

@@ -228,7 +228,7 @@ The lingchi warrior must be 15th level and possess the Arena Burst and Bound Arm
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

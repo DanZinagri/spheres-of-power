@@ -414,25 +414,6 @@ Creatures of the vermin type are always counted as willing when the despoiler at
 
 **Greater Path Possession:** The despoiler does not need to spend a spell point to possess creature of the vermin type. Such creatures gain no benefit from the Hallow word of the Fate sphere, the protection from evil spell, or similar effects against possession attempts by the wraith.
 
-### Path of the Gremlin [LG]
-
-**Source:** Arcforge Players Compendium
-
-A gremlin interferes with technology and machinery, often by seizing direct control.
-
-**Path Sphere:** Technomancy
-
-**Path Possession:** The gremlin may actively possess unattended objects, animating them to serve. These objects count as being willing. The object must be of a size the wraith could animate per the Animate Object talent of the Enhancement sphere, using his class level as his caster level. This stacks normally with caster levels gained from other sources. The object gains the statistics and abilities as an animated object per the Animate Object talent of the Enhancement sphere.
-
-**Path Skill:** Disable Device (Dex)
-
-**Improved Path Possession:** The gremlin may possess creatures of the construct type, ignoring any type-based immunity to mind-affecting effects. While possessing an object or construct, the gremlin counts as a sprite and may use one program on his host each turn as if he were a sprite. If the sprite would be destroyed, the gremlin simply ends the possession. Additionally, his path possession ability now also applies to attended objects, which receive a Will save as usual for possession.
-
-**Greater Path Possession:** Whenever a gremlin’s sprite enters a creature or object, that creature or object must succeed at a Will saving throw against the gremlin’s possession DC. On a failed saving throw, the gremlin is considered to be passively possessing the sprite’s host for as long as the sprite remains in the host. When the gremlin changes from a passive possession of one of these targets to an active possession, the gremlin immediately teleports to the location of the new host he is actively possessing.
-
-**AI and Construct Possession effects**
-When an AI and a possessing creature both seek control over a single construct body, they compete for control as if they were competing AI. Each competing AI attempts an opposed gizmo penetration checkUEn (1d20 + its gizmo level) while each possessing creature attempts an opposed magic skill check, with magic skill and gizmo penetration checks opposing each other as necessary. The force with the highest result takes control of the host gizmo for that round, with a new opposed gizmo penetration or magic skill check each round. If a competing force has not been in control of the host gizmo for 3 rounds, it loses the ability to compete for control of the gizmo until the force in control of the gizmo relinquishes control.
-
 ### Path of the Moroi
 
 Wraith that are drawn to, and sometimes feed on, blood.
@@ -1372,7 +1353,7 @@ Swarms do not threaten creatures, and do not make attacks of opportunity with th
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -1456,9 +1437,9 @@ Swarms do not threaten creatures, and do not make attacks of opportunity with th
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

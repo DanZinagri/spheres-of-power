@@ -112,7 +112,7 @@ This replaces the bonus feat gained at 1st level.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

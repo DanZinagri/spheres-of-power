@@ -140,7 +140,7 @@ This replaces trapsense.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

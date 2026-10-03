@@ -140,7 +140,7 @@ This ability replaces lightning reload.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

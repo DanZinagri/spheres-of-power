@@ -157,12 +157,6 @@ Rocky terrain, steep cliffs, and narrow canyons are assets to be leveraged, not 
 
 Whether through cultured farmlands or rolling fields of untamed grass, the commander knows how to fight and travel through all kinds of plains. When fighting or traveling through plains terrain, the commander and any ally affected by one of his tactics or shouts ignore non-magical difficult terrain, double the effective distance at which a Perception check for detecting the presence of others can succeed, can exit a trench without paying an additional square of movement, and gain a competence bonus on Survival checks to scavenge food equal to the higher of the commander’s Charisma or Intelligence modifiers (minimum 1).
 
-#### Space [LG]
-
-**Source:** Arcforge Players Compendium
-
-The commander excels at fighting in the airless drifting void of space. When fighting or traveling in space terrain, the commander can affect allies with his shouts and tactics even if they cannot hear the commander. The commander and any ally affected by one of his tactics or shouts may move up to their full speed in any direction under no gravity so long as they have a surface to push off of (rather than half speed) and do not lose the ability to fly nonmagically for 2d6 rounds after entering a no gravity area.
-
 #### Swamp
 
 The commander has learned to take the natural hazards of fighting in swamplands and turn them into tactical advantages. When fighting or traveling in swamp terrain, the commander and any ally affected by one of his tactics or shouts gain a bonus to saving throws against poisons and diseases equal to the greater of the commander’s Charisma or Intelligence modifiers (minimum +1), increase their base Swim speed by 10 ft. (or gain a Swim speed of 10 ft. if they do not already have one), and can move through difficult terrain normally while in a swamp.
@@ -275,10 +269,6 @@ A commander which represents their local lord. Uses the DRS Kingking supplement.
 ## -[[Dreadlord]] [CS]
 
 The Dreadlord is a master of minions - especially those raised from the dead.
-
-## -Emissary [CS] [LG]
-
-Emissaries couple their strategic knowledge with intense research and analytical acumen
 
 ## -[[Feylord]] [CS]
 

@@ -89,7 +89,7 @@ This replaces soothing performance.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

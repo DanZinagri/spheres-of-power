@@ -272,7 +272,7 @@ This replaces spontaneous casting.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

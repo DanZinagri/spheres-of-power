@@ -153,7 +153,7 @@ Choose three (mantle) talents. While raging in appropriate weather, the barbaria
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

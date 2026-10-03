@@ -521,12 +521,6 @@ Choose a single creature type or subtype. You must choose a subtype of humanoid 
 
 You gain a +2 origin bonus to AC during surprise rounds and are not flat-footed during surprise rounds, regardless of whether or not you participate in the surprise round.
 
-#### Evasive Caster [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-You gain a +2 dodge bonus to AC against attacks of opportunity provoked by spellcasting and against readied actions triggered by spellcasting.
-
 #### Exceptional Aptitude [auxiliary] [SM—]
 
 **Source:** Baron’s Glorious Arena
@@ -557,22 +551,11 @@ You gain a +2 origin bonus to confirm critical hits
 
 For the purpose of meeting prerequisites, you treat all of your ability scores as the higher of 13 or their actual value.
 
-#### Lockdown Guard [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-While fighting defensively or taking the total defense action, you cannot be flanked or caught flat-footed.
-
 #### Longtime Foe [auxiliary]
 
 Choose a single creature type or subtype. You must choose a subtype of humanoid or outsider if you select those types. You gain a +1 origin bonus to attack rolls and damage rolls against creatures of that type or subtype. You may take this talent multiple times, each time selecting a new type or subtype to apply it against.
 
 This talent is considered to be the favored enemy class feature for the purpose of meeting prerequisites and for feats which affect favored enemy. **Associated Feat:** Dedicated Adversary.
-
-#### Low Profile [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-You increase any AC and saving throw bonuses from cover or total cover by 2.
 
 #### Multitalented [auxiliary]
 
@@ -640,12 +623,6 @@ You gain a +2 origin bonus on any skill check on which you take 10 or take 20.
 #### Dabbling Expertise [utility]
 
 You gain a +2 origin bonus on any skill check in which you possess no skill ranks.
-
-#### Methodical Tunneler [utility] [LG]
-
-**Source:** Arcforge Players Compendium
-
-You can dig through soil at a rate of 5 feet per minute or stone at a rate of 1 foot per minute. When you dig, you can leave a stable tunnel behind.
 
 #### Skill Familiarity [utility]
 
@@ -785,12 +762,6 @@ You gain a single utility talent from any sphere as a bonus talent. You must mee
 
 You may take a -4 penalty on initiative and Perception checks. If you do, you gain either Reactive Combatant, Stand Your Ground, or Thirst For Vengeance as a bonus talent.
 
-#### Material Sensation [LG]
-
-**Source:** Arcforge Players Compendium
-
-When you select the Blindsense (tremorsense) talent, you may gain it a second time as a bonus talent. If you do, choose a specific material such as wood, water, metal, or stone. Your tremorsense only detects vibrations through the chosen material, its range extending only as far as a surface of the chosen material extends, out to a maximum of the tremorsense’s normal range.
-
 #### Nonverbal
 
 You may lack the ability to vocalize, preventing you from communicating through spoken language, providing verbal components for magic, or performing other actions which require speech. This does not prevent you from making noise through other means (such as grunting, stomping, clapping, etc.). To represent focus on other means of action or communication, you gain Utility Training as a bonus talent.
@@ -810,12 +781,6 @@ You may choose to add only half your ranks in Linguistics to any Linguistics che
 #### Shadow Dweller
 
 When you select Skill Familiarity as a talent, you may choose one additional skill. If you do, you only receive the origin bonuses to skill checks when in dim light or darkness or when you are benefiting from total concealment or total cover.
-
-#### Surge Of Excellence [LG]
-
-**Source:** Arcforge Players Compendium
-
-When you take the Extreme Specialization talent, you may choose to only gain the ability score modifications of the talent while in a surging state. You may spend martial focus as a free action, outwit a target, or take a -2 penalty to AC for 1 round. to enter a surging state for 1 round. Alternatively, you may spend a spell point as a free action to enter a surging state for 1 round per level. If you take this variation, you may select Extreme Specialization as an auxiliary talent rather than a potent talent.
 
 # Essence Sphere
 
@@ -869,12 +834,6 @@ You gain DR 1/cold iron or DR 1/silver. This damage reduction increases by 1 for
 
 You gain a +2 origin bonus to concentration checks.
 
-#### Ecstatic Fortune [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-Whenever you roll a natural 20 on a die roll, you gain a +1 morale bonus on all rolls of that type until the end of your next turn.
-
 #### Energy Renewal [auxiliary] (Su)
 
 Choose one of the following energy types: acid, cold, electricity, fire, or sonic. You gain energy resist 5 against the chosen type. You gain fast healing 2 for 1 round anytime you take damage of that type (whether or not this damage gets through your energy resistance). You can heal up to 2 hit points per level per day with this ability, after which it ceases to function. You may select this talent multiple times, each time selecting a different energy type.
@@ -883,21 +842,9 @@ Choose one of the following energy types: acid, cold, electricity, fire, or soni
 
 Choose two of the following energy types: acid, cold, electricity, fire, or sonic. You gain energy resist 5 against the chosen types. You may select this talent multiple times, each time selecting 2 additional energy types.
 
-#### Gravity Standardization [auxiliary] [LG] (Su)
-
-**Source:** Arcforge Players Compendium
-
-You can adjust your personal gravity as a standard action. You can treat high or low gravity as standard gravity or treat standard gravity as high or low gravity. These adjustments affect only you and anything you carry, but not thrown weapons. You cannot adjust to or from extreme or zero gravity. This adjustment remains in effect until you spend another standard action to return to their environment’s natural gravity. Entering an environment with a different gravity also cancels any ongoing gravitational adjustment.
-
 #### Hover [auxiliary] (Su)
 
 You may float up to 5 feet plus 5 feet per 5 levels above the ground, with a horizontal movement speed of 5 feet. When floating this way, Fly checks are not required to hover or change direction, although you are treated as flying for the purpose of wind effects and other forces which would move you. When falling you may choose to descend at a slower rate to control your fall. Each round you descend 30 feet, and may move in another direction for 5 feet. You may choose to drift sideways, gliding forwards while descending, or down, safely increasing your rate of descent. You may even choose to drift ‘upwards’ to reduce its rate of descent, even allowing you to negate it entirely and hover midair if your movement speed exceeds 30 feet. You may take this talent a second time, in which case your speed increases from 5 feet to 20 feet.
-
-#### Ill Tidings [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-Whenever one of your abilities forces a creature to reroll a d20, they take a -2 penalty on the rerolled result.
 
 #### Light-Acclimated [auxiliary]
 
@@ -906,11 +853,6 @@ You are immune to the dazzled condition and to light-based blindness.
 #### Meld Into Shadow [auxiliary] (Su)
 
 Attacks made against you while you have concealment from dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it only increases the miss chance from partial concealment.
-
-#### Metabolize Magic [auxiliary] [LG] (Su)
-
-**Source:** Arcforge Players Compendium
-The MSD of any effect which targets you and is created by a magic item is 2 higher.
 
 #### Negative Energy Affinity [auxiliary]
 
@@ -969,14 +911,6 @@ As a move action, you may shine light from your body as a torch. You may maintai
 #### Bountiful Healing [potent]
 
 You recover 50% more hit points (minimum 1) whenever you recover hit points from rest. Whenever you are healed of hit point damage by a spell or supernatural ability, you heal an additional 2 hit points for every die rolled as part of the healing. The extra healing does not apply to spells or other effects that grant fast healing, regeneration, or similar effects. **Associated Feat:** Fey Foundling.
-
-#### Conduit Of Magic [potent] [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Essence sphere.
-
-Choose a magic sphere. Whenever another creature targets only you with a magic sphere effect using that sphere which costs 2 or more spell points, that effect costs 1 fewer spell point (minimum 1).
 
 #### Elemental Explosion [potent]
 
@@ -1070,14 +1004,6 @@ You are considered to possess no type or subtypes, causing no effects which incr
 
 You take no penalties from energy drain effects, though you can still be killed if you accrue more negative levels than you have Hit Dice. After 24 hours, any negative levels you take are removed without the need for an additional saving throw. This talent only negates the penalties of negative levels taken from energy drain effects, spell effects, magic items, wild magic effects, and sphere effects. You cannot use this talent to ignore penalties from negative levels you have inflicted upon yourself.
 
-#### Versatile Augmentation [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Essence sphere (Elemental Augmentation (potent)).
-
-You may change your damage type from Elemental Augmentation to sonic, positive energy, or negative energy damage. When you use Elemental Augmentation, you may change the damage type to any type of damage which could be selected by the talent and which you have taken within the last minute (for example, if you took fire damage, you could activate Elemental Augmentation and have it deal fire damage even if it normally deals cold damage).
-
 #### Hazardous Blood [auxiliary] (Su)
 
 Each time you take bleed or blood drain damage, each creature currently adjacent to you also takes 1 point of acid, cold, electricity, or fire damage for every 2 Hit Dice you possess (chosen when you take this talent). You may choose to only damage outsiders and undead with this blood, in which case the damage is untyped. As a move action, you may inflict 1 point of bleed damage on yourself and immediately trigger this ability. **Associated Feat:** Angelic Blood.
@@ -1146,12 +1072,6 @@ You may gain Aligned Armaments as a bonus talent. If you do, you gain an aura co
 
 When you gain the Hover talent, you may lose the use of any legs and lose any land speed you possess. So long as you possess this variation, any Form talent you gain which grants additional legs grants legs that cannot be used for walking. This prevents you from taking actions that would normally require legs and imposes a -4 penalty to your CMD due to lack of leverage. You do not gain immunity to being tripped due to hovering. If you do, you are treated as having taken the Hover talent a second time.
 
-#### Elemental Redirection [LG]
-
-**Source:** Arcforge Players Compendium
-
-You may select Elemental Augmentation as an auxiliary talent. If you do, you may only gain its benefits if you have taken 1 point of energy damage within the last minute.
-
 #### Elemental Vulnerability
 
 You may choose to gain vulnerability to either acid, cold, electricity, or fire damage, taking 50% additional damage from sources of that type. If you do, you gain either Elemental Augmentation, Energy Renewal, or Energy Resistance as a bonus talent. You cannot select an energy type you are vulnerable to with Energy Renewal or Energy Resistance and cannot gain energy resistance or immunity to a type you are vulnerable to from any other source.
@@ -1198,12 +1118,6 @@ When you take the spell resistance talent, you may choose to have it apply only 
 
 You may gain Afterlife Intermittence as a bonus talent. If you do, you are always considered a willing creature for the purpose of being raised or resurrected.
 
-#### Void Flier [LG]
-
-**Source:** Arcforge Players Compendium
-
-When you select the Magical Flight talent, you may gain it a second time as a bonus talent. If you do, your magical flight speed is only usable in environments of no gravity such as the void of space.
-
 # Form Sphere
 
 The Form sphere is tied to a character’s physical shape or conditioning. A character’s origin tradition may possess talents in the Form sphere to reflect unique physical traits, a background in a challenging environment, or an innate resistance with which the character was born or augmented.
@@ -1230,12 +1144,6 @@ You gain a +2 origin bonus on saving throws against spells, spell-like abilities
 
 Whenever you succeed at a saving throw against poison or disease, you heal 1 point of ability damage of the type dealt by the poison. Whenever you heal ability damage naturally or magically, you heal 1 additional point of ability damage. This talent has no effect on penalties to ability scores or ability drain. **Associated Feat:** Toxic Recovery.
 
-#### Adaptable Posture [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-As a move action, you may shift the position of two or more of your arms to serve as legs, increasing your movement speed by 10 feet for every 2 arms shifted for as long as they are in leg posture. Arms in leg posture cannot hold objects or wield weapons, automatically dropping anything they are carrying. You may return any number of your arms to arm posture as a move action.
-
 #### Aquatic [auxiliary]
 
 You gain a swim speed of 30 feet and the ability to hold your breath for 10 times longer than normal. This swim speed gives you a +8 origin bonus on Swim checks. If you take this talent a second time, you gain the aquatic subtype (and amphibious special quality) and can breathe underwater.
@@ -1247,15 +1155,6 @@ You gain a climb speed of 20 feet. If you do not possess a land speed, you may u
 #### Convenient Appendage [auxiliary]
 
 You possess a tail, tongue, smaller arm, or other appendage that you can use to carry objects. You cannot wield weapons with this appendage, but the appendage allows you to retrieve a small, stowed object carried on your person as a swift action. You may take this talent multiple times, each time gaining an additional convenient appendage. **Associated Feat:** Grasping Tail, Quick Draw.
-
-#### Cybernetic Tolerance [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-For the purpose of determining your cybernetic implantation value, you have a Constitution and Intelligence score of 20 or your actual ability score +4, whichever is higher.
-
-**Note: Cybernetics and Origin Traditions**
-Cybernetics pose many of the same questions as magic item slots, raising questions about how a gelatinous creature or one with no legs would slot in certain implants. The easiest method of resolving this problem is to make cybertech effectively slotless, allowing characters to install as many modifications as they wish so long as the combined implantation value of all cybertech is considered.
 
 #### Darkvision [auxiliary]
 
@@ -1332,12 +1231,6 @@ You can transfer a held object to your hidden storage or extract an object from 
 
 Choose one of your natural attacks. You are considered one size larger for the purpose of determining the damage of that natural attack. You may select this talent multiple times, each time selecting a different natural attack to improve. **Associated Feat:** Improved Natural Attack.
 
-#### Limb Regrowth [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-If you lose an arm, leg, tail, or other limb, you regenerate that limb over the course of 24 hours. While the limb is regenerating, you continue to suffer penalties as if you did not possess that limb and cannot use abilities tied to that limb (for example, making claw or tail attacks with the missing arm or tail). See the Limb Ripper talent of the Wrestling sphere to determine the penalties for losing an arm or leg. As a swift action, you may sever one of your own limbs to immediately end the grappled or entangled condition on yourself.
-
 #### Natural Attack [auxiliary]
 
 You gain one of the following natural attacks, chosen when you select this talent. You must meet any prerequisites required by the natural attack (such as having legs to gain talon attacks) and can’t choose the same appendage twice. The damage dice listed are for Medium-sized creatures and should be adjusted appropriately for creatures of other sizes.
@@ -1348,12 +1241,6 @@ You gain one of the following natural attacks, chosen when you select this talen
 - **Hooves/Talons: (requires hands or legs)** You gain a pair of hooves or talons on your feet or hands that can be used as primary natural weapons, dealing 1d4 damage (bludgeoning if hooves, slashing if talons). You can only use foot-based hooves or talons to attack targets you are grappling, targets that are prone, or if you are at least 5 feet above the ground (attacking while either flying, leaping, or falling).
 - **Tail Slap:** You gain a tail and can make a tail slap attack with it. This is a secondary natural attack that deals 1d6 points of bludgeoning damage.
 - **Wing Buffets: (requires wings)** You gain two wing buffet attacks as secondary natural attacks which deal 1d4 points of bludgeoning and slashing damage.
-
-#### Reflective Body [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-Your body repels energy, granting you a +2 bonus to AC against ray attacks and attacks that do not deal piercing, bludgeoning, or slashing damage.
 
 #### Scent [auxiliary]
 
@@ -1424,12 +1311,6 @@ You only need to sleep 2 hours per day to gain the benefit of 8 hours of sleep. 
 #### All-Around Vision [potent]
 
 You cannot be flanked.
-
-#### Dactyl Network [potent] [LG]
-
-**Source:** Arcforge Players Compendium
-
-If you have another ally with this talent within your reach, you may wield objects, weapons, and shields as if you had one additional hand.
 
 #### Developed Wings [potent]
 
@@ -1591,12 +1472,6 @@ You are immune to the stunned condition.
 
 You are immune to sleep effects and do not need to sleep. You must still take 8 hours of general inactivity to regain spell points and spells.
 
-#### Standardized Adaptation [auxiliary] [LG]
-
-**Source:** Arcforge Players Compendium
-
-You may wield weapons and shields as if you were a creature of Medium size regardless of your actual size.
-
 #### Steadfast Will [auxiliary]
 
 **Prerequisites:** Form sphere (Developed Tolerance (charm effects) [auxiliary]).
@@ -1733,12 +1608,6 @@ When you select Developed Tolerance as a talent, you may choose only a single op
 
 When you select Developed Tolerance as a talent, you may choose one additional option from the Table: Lesser Developed Tolerance Effects. If you do, choose two different options from the Table: Lesser Developed Tolerance Effects. You take a -2 penalty to saving throws against effects of those types and do not benefit from immunities or origin bonuses to saving throws to those types of effect.
 
-#### Empty Body [LG]
-
-**Source:** Arcforge Players Compendium
-
-You may choose to gain the Void Denizen talent as a bonus talent. If you do, you can no longer benefit from alchemical bonuses, potions, formulae, tinctures, or other ingested items.
-
 #### Inoperable Appendage
 
 You may choose to reduce your number of functional arms by 1, to a minimum of 0. If you do, you gain Utility Training from the Aptitude sphere as a bonus talent. You must have at least one functional arm prior to selecting this variation to select this variation, but may select it multiple times.
@@ -1762,12 +1631,6 @@ When you take the Aquatic talent, you may choose to lose the ability to breathe 
 #### Sundrinker
 
 You may choose to become dependent on sunlight to operate, taking 1d4 points of Constitution damage every 24 hours you go without exposure to sunlight (this ignores any immunity to Constitution damage you may possess and instead deals Charisma damage if you lack a Constitution score). If you do, you gain either Harsh Survivor, or Self-Sustaining as a bonus talent.
-
-#### Underfoot Grip [LG]
-
-**Source:** Arcforge Players Compendium
-
-Your feet function more like hands and are thus poorly suited to movement. You may reduce all of your movement speeds by 10 feet (to a minimum of 5 feet) to gain Convenient Appendage as a bonus talent. You cannot select this talent if any movement speed has reached the minimum.
 
 #### Unsteady Fleetness
 
@@ -2220,9 +2083,9 @@ Some mascots are even smaller than the average. These trade out Specialized Trai
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 
@@ -2268,7 +2131,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]] · (3PP)
 
 **Rules**
 
@@ -2334,7 +2197,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

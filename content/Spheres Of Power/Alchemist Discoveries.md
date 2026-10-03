@@ -44,12 +44,6 @@ An alchemist must be at least 10th level and have the ability to brew a mutagen 
 
 The alchemist gains Blood Potion as a bonus feat even if he does not possess the Blood sphere. The alchemist may use his Intelligence score as his casting ability modifier for this feat, if he does not possess a sphere-based archetype already.
 
-#### Bomb Admixture (Ex) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The alchemists's bombs blend multiple concoctions into a deadly weapon. He may apply two [substance] infusions to a bomb (if a legendary alchemist) or may apply two discoveries marked with * to a bomb (if a normal alchemist) rather than just one. If this would cause the bomb to deal multiple different damage types, the bomb deals half of its damage as one type and the other half as the other type. He may only apply the non-damage effects of one of the bomb discoveries or infusions. If he takes this talent a second time, he may spend a use of quintessence (if a legendary alchemist) or two additional uses of bombs (if a normal alchemist) to create a bomb that applies the non-damage effect of both discoveries or infusions used in the bomb.
-
 #### Bottled Aurora (Su) (mutagen improvement) [RW HB]
 
 The alchemist’s brewed mutagen contains hints of beautiful, shifting energy.
@@ -93,12 +87,6 @@ When creating a micromutagen, the alchemist can choose one option from the follo
 #### Gene-Splicing (requires alchemist 8, mutagen)
 
 When the alchemist prepares his mutagen he may choose one trait from any Alteration sphere talent. He gains that trait while under the effects of his mutagen for the duration of the mutagen. He must pay any spell point costs associated with the trait, and the trait uses his class level as its caster level for the purpose of determining effects. He may choose a different trait whenever he prepares his mutagen.
-
-#### Grenade Bombs (Ex) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The alchemist's bombs are designed to resemble conventional munitions. He may use his bombs with any equipment, talents, or feats that can be used with grenades (for example, they can be loaded into weapons such as grenade launchers). If he is not already proficient with grenades, he becomes proficient with grenades.
 
 #### Hallucinogen (Su)
 
@@ -232,7 +220,7 @@ Once per day as a free action, you may choose an Alteration talent you do not po
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

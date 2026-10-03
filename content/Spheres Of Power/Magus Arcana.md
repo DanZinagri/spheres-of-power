@@ -238,7 +238,7 @@ This is a supernatural ability.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

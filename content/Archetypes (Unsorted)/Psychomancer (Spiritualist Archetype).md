@@ -147,7 +147,7 @@ This replaces call spirits.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

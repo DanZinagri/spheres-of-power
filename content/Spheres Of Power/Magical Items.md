@@ -499,19 +499,6 @@ When crafting items, characters may wish to include mythic abilities in addition
 
 **Succor:** When adding a (succor) talent without changing the aegis granted, increase the complexity by +1. If adding a succor to replace a granted aegis, do not increase the complexity; the succor can be activated at any time during the effect’s duration.
 
-### Techonomancy [LG]
-
-**Source:** Arcforge Players Compendium
-**Range:** close
-**Duration:** 1 round/caster level
-**Effect:** Creates a sprite inside the target which can use the Boost, Drain, Interfere, or Transfer programs.
-
-**Complexity**
-
-**Greater Technomancy:** To add the effects of a Technomancy sphere talent, increase the complexity by +1 per talent. If a talent would normally cost extra spell points, increase the complexity by an additional +1 per spell point required.
-
-**Program:** You may add additional programs gained through (program) talents to those that the sprite can execute, increasing complexity by 1 for every program added.
-
 ### Telekinesis
 
 **Range:** personal (item, user, or object attached to item)
@@ -2506,7 +2493,7 @@ Note that Protection shows up more often than anything else, but each slot has a
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

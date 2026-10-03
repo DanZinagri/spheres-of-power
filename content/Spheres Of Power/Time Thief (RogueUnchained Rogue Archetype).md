@@ -109,7 +109,7 @@ This replaces master strike.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

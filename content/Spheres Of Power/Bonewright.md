@@ -179,7 +179,7 @@ You can attempt a melee or ranged attack against an opponent as a special attack
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

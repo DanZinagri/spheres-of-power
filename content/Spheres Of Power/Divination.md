@@ -124,8 +124,6 @@ Traps, poisons, and other potential perils have no alignment. Creatures with ali
 ^ Except for undead and outsider, which have their own entries on the table.
 ^^ Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.
 
-**Divine Faith: [LG]** You may divine the presence of creatures reverent to a specific deity, faith, cause, or community. The creature’s personal interpretation of its beliefs determines whether or not it is of a specific faith—hence heretics and splinter cultists of a deity still count as worshipers of that deity. Furthermore, since the spell picks up a creature’s current beliefs and feelings, a creature actively pretending to be a member of the same faith also appears to the spell to be a member. Thus, this divination is still useful in locating potential hidden members of the same faith among the general populace, but on its own, it does not weed out spies.
-
 **Source:** Arcforge Players Compendium
 
 **Divine Fate:** You may divine the alignment auras of creatures you can see within range. Such creatures emit a colored aura depending upon what alignments or loyalties you share with them. Creatures that share the same moral alignment (good/neutral/evil) emit a red aura. Creatures that share the same ethical alignment (lawful/neutral/chaotic) emit a blue aura. Creatures that share a primary base loyalty (see Detect Loyalties) emit a yellow aura. Creatures that share multiple colors have their colors combined, i.e. a creature that shares the primary base loyalty of family and the ethical alignment of chaos will emit a green aura. Creatures that share all three primary colors (red, blue, and yellow) emit a glowing white aura. Refer to Table: Divine Fate below for more information on how colored auras combine. Creatures that do not share any alignment or loyalties do not emit any aura that you can see.
@@ -190,14 +188,6 @@ For example, divining about a specific criminal organization, both members of th
 
 **Divine Protection:** You may divine all creatures you have pinpointed within range and determine which of those creatures have the lowest and highest armor class. Alternatively, you may divine the lowest and highest saving throw each of these creatures has. You do not however determine the values for any of these attributes.
 
-### Technomancy [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Divine Technology:** You may divine the presence of advanced technologies and technological creatures. You detect the location of all technological equipment within medium range as well how many sprites are contained within each object. After one round of observation, you also learn how many charges are in each object, how many batteries are attached to each object, if they are connected to another power source, and signature strength (as per Table: Mechanism Signature Strength).
-
-For the purpose of detecting technological creatures, the ability functions as divine shapechanger, save that rather than shapechangers it divines technological constructs and creatures with cybernetic enhancements.
-
 ### Telekinesis
 
 **Divine Density:** You may divine the density and weight of nearby objects and creatures that you can see. Utilize the following chart when determining density:
@@ -215,13 +205,9 @@ For the purpose of detecting technological creatures, the ability functions as d
 
 ### Time
 
-**Divine Date: [LG]** You may divine the current date and time for any date-keeping system you know of.
-
 **Source:** Arcforge Players Compendium
 
 **Divine Time:** You may divine the events that happened within range. You can only divine what occurred up to 1 hour per caster level in the past. When you divine time you are only given the following details: The number of creatures that were in the area, their size, how long they remained in the area, and any movements they made while in the area. In addition, if objects were left unattended or unattended objects were moved during this time, you learn the size and vague shape of such objects.
-
-**Divine Time Traveler: [LG]** You may divine whether any objects or creatures you can perceive within range have traveled through time in a significant way (an alternate “stripe” of time resulting from an inconsequential form of time travel such as using a Shadowbore or teleportation effect for superluminal travel does not count). You determine how far each object or creature has traveled from its past or future to reach its current location in time.
 
 **Source:** Arcforge Players Compendium
 
@@ -230,8 +216,6 @@ For the purpose of detecting technological creatures, the ability functions as d
 **Divine Allegiance:** You may target an individual within range which allows you to divine through mud, blood, sweat, and wear or tear upon cloth or armor as if such was not there, revealing any colors, patterns, or insignia it may have previously bore. In addition, other creatures within range of the target glows with a particular aura allowing the caster to know who they openly allied with and who are not. Creatures under the affect of mind-affecting effects (such as charms and compulsions) are shown to be loyal to their controller and their allies. This does not properly function on those who are using subterfuge or are pretending to be on someone’s side, as it will present them as who they pretend to side with. Once each round as a free action while maintaining concentration on this effect, you may target a different individual within range with this divine ability.
 
 ### Warp
-
-**Divine Timeline: [LG]** You may divine which timeline you are currently in from among alternate timelines which you know exist. This timeline may be designated by a specific title which means something to you (such as “Timeline H-34”) or by certain events which distinguish it from other known timelines you know of (such as “The timeline where Horace became the Duke of Elber in the year 304”).
 
 Alternatively, you may divine the timeline of origin for creatures you can perceive within range, learning which alternate timelines these targets originally come from using the same parameters as determining your current timeline. If you are not aware of the timeline that a target came from, this divination provides a new name and distinguishing detail for this new timeline.
 
@@ -608,16 +592,6 @@ For 1 day per caster level, the caster gains knowledge of the destination’s ge
 
 [[/div]]
 
-#### Detect Patronage (utility) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Divination sphere (Detect Spellcaster (divine)).
-
-When you scan creatures with Detect Spellcaster, you may divine whether any targets in the area draw magical power from otherworldly forces, be they gods, beliefs, planes, or specific cosmic patrons. For each target in the area, you identify the names of any forces granting the character power and may attempt appropriate Knowledge checks to identify them (typically Knowledge (religion) or Knowledge (planes)). If you are using the Distinct Magic Types variant rule, you also know the precise types of magic the target is capable of using.
-
-**Author's Note:** In games that use Oaths, this can be used to detect a creature's Oath Boons as if they were class features.
-
 #### Discern Location (divine) [utility]
 
 **Prerequisites:** Divination sphere (Dowsing (divine), Greater Divine [range]), caster level 15th.
@@ -689,22 +663,6 @@ When using the Scrying advanced talent, you may spend an additional spell point 
 **Prerequisites:** Divination sphere, caster level 5th.
 
 You may spend a spell point to hear your name or another specific phrase of your choice whenever it is mentioned. When you activate this sense, designate a word, phrase, or name. If a creature within 1 mile per caster level of you uses that word, phrase, or name to refer to you or an action in relation to you (such as attacking your base or intent to find something that belongs to you), you immediately hear the rest of the sentence in which they used the word, phrase, or name. You may dismiss this sense to learn the speaker’s name, appearance, and location.
-
-#### Mechanical Counterintelligence [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Divination sphere (Detect Scrying (sense)).
-
-For the purpose of your Detect Scrying talent, any cameras, recording devices, radar scans, artificial eyes, or other means of remotely observing an area by technological means are considered magical sensors. You may attempt a magic skill check against creatures trying to observe you as normal, using the observer’s gizmo penetration modifier, or CR as their effective MSB.
-
-#### Otherworldly Viewing [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Divination sphere (Greater Divine [range], Viewing (divine)), caster level 10th.
-
-You may use the Viewing talent to look into other planes, with the viewing sensor appearing in a location corresponding to your location in your current plane. If you possess the Cartographer’s Divination, Eyes Of The Cabal, or Sense Observation talents, these talents now work across planes. Other talents may also be improved in this way at GM discretion.
 
 #### Penetrating Divination
 
@@ -954,14 +912,6 @@ As a free action once per round, you may have this sensor touch an unattended ob
 **Prerequisites:** Divination sphere (Blindfolded Oracle (sense)), War sphere.
 
 **Benefit:** When you close your eyes to use Blindfolded Oracle while within the area of your totem, you may choose to have your blindsense extend to the entire area of the totem rather than close range. When used in this way, your blindsense stops at the edge of your totem’s area.
-
-#### Watchful Manipulator (Dual Sphere) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Divination sphere (Prying Sight (sense)), Mind sphere.
-
-**Benefit:** When a creature fails a saving throw against your charm, you may spend a spell point to also target them with the Prying Sight (sense) talent to perceive through their senses. This (sense) lasts for the duration of the charm.
 
 #### Wise to the Fates (Dual Sphere) [SM—]
 
@@ -1681,7 +1631,7 @@ The Treasure Seeker is an Unchained Rogue who gains access to a small selection 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

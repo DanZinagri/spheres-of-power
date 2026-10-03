@@ -143,7 +143,7 @@ You isolate the advantages of your casting and transfer them across disciplines.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

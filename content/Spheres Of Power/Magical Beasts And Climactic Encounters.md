@@ -1900,7 +1900,7 @@ The following lists group this book’s monsters by terrain. Monster variants ar
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

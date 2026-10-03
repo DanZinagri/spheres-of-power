@@ -1610,7 +1610,7 @@ Craft Rituals, Ritual Caster feat, Alteration sphere; **Cost** 4,350 gp.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

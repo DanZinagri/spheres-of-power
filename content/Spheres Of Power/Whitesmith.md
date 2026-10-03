@@ -112,7 +112,7 @@ The ability replaces infinite arsenal.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

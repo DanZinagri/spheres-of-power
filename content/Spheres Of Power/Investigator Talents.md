@@ -16,26 +16,6 @@ parent: "[[Spheres Of Power]]"
 
 The following are new investigator talents. In addition, see the [[Rogue Talents|generic Rogue Talents]] they also have access to.
 
-#### Assured Quality (Ex) [LG]
-
-**Source:** Arcforge Players Compendium
-
-Whenever the investigator adds his inspiration die to a skill check, he may spend an additional use of inspiration to roll the check twice and take the higher result rather than adding his inspiration die to the final result.
-
-#### Backup Strategy (Ex) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The investigator chooses two skills which he could add his inspiration die to. When he attempts a check with either skill, he can choose not to roll his inspiration die until later. After he determines what the check’s result would be, he can choose to either roll your inspiration die and add it to the total or forgo the inspiration die and reroll the check.
-
-At 9th level, he can spend 1 use of inspiration to both reroll the check and add the result of his inspiration die. He may take this talent multiple times, each time selecting two different skills.
-
-#### Counterspell Aficionado (Su) (requires investigator level 5th) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The investigator gains Counterspell as a bonus feat, using his investigator level as his MSB for the purpose of the feat and for meeting prerequisites for feats that have Counterspell as a prerequisite. He may spend inspiration points in place of spell points for the Counterspell feat and any feats that use Counterspell as a prerequisite.
-
 #### Disciplined Mind (requires Telekinesis sphere)
 
 When the investigator makes attacks with telekinetically manipulated objects, he can use his studied combat and studied strike abilities with the attack, as long as he has line of sight to the target.
@@ -54,21 +34,9 @@ Whenever the investigator uses a magic talent, he may spend 1 point of inspirati
 
 The investigator gains the alchemist discovery hallucinogen, using his investigator levels as alchemist levels. This stacks with any alchemist levels he possesses.
 
-#### High Spirits (Su) [LG]
-
-**Source:** Arcforge Players Compendium
-
-Whenever the investigator uses an effect which restores hit points or grants temporary hit points, he adds his inspiration die to the amount of temporary hit points given or hit points restored.
-
 #### Inspired Leverage (Ex) [Spheres of Guile]
 
 Whenever the investigator would use his inspiration to augment a skill check or ability check, he may spend 1 use of skill leverage to maximize the result, treating the roll as if it had rolled its highest possible result (a 6 on a 1d6 for example). The investigator must have a pool of skill leverage and be at least 6th level to select this talent.
-
-#### Inspired Proficiency (Ex) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The investigator may spend a point of inspiration to allow himself or an ally within close range to ignore nonproficiency penalties with a single weapon, shield, or suit of armor for 1 minute per investigator level.
 
 #### Mental Superiority (requires Mind sphere)
 
@@ -103,12 +71,6 @@ An investigator can use his inspiration on Acrobatics, Climb, Fly, Handle Animal
 If the investigator possesses the Beastmastery sphere or an animal companion or familiar, as long as the animal ally can see or hear the investigator, the investigator’s animal ally may use his inspiration ability on checks it attempts. Treat inspiration used this way as though the investigator used it himself for any talents, feats, or other abilities the investigator may possess that modify his inspiration (including effects which allow the investigator to use inspiration without expending a use of inspiration, such as this talent).
 
 **Special:** By GM permission, other appropriate subordinates may benefit from the investigator’s inspiration using this ability.
-
-#### Through and Thorough (Ex) [LG]
-
-**Source:** Arcforge Players Compendium
-
-Whenever the investigator takes 20 on a skill check which he could add his inspiration die to, he rolls his inspiration die twice and adds both results.
 
 #### Tinker Co-Investigation (requires Tinker sphere) [SUE]
 
@@ -250,7 +212,7 @@ You can deploy items to cover your escape. As part of a move action you can call
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

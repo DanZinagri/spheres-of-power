@@ -859,22 +859,6 @@ You may spend an additional spell point to add the following trait options to yo
 
 **Regenerate Flesh:** In addition to the normal healing from the Fast Healing option of the Vitality talent, the target’s severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multi-headed creatures), broken bones, and ruined organs grow back. The physical regeneration is complete in 1 round if the severed members are present and touching the creature. It takes 2d10 rounds otherwise. This is an upgrade to, and does not stack with, the Fast Healing trait.
 
-#### Mechanical Customization [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Alteration sphere.
-
-You may add the following additional traits to your form:
-
-**Force Field:** You may spend a spell point to have a force field sheathe the target in a thin layer of shimmering energy that grants it a number of bonus hit points equal to your caster level. All damage dealt to a creature with an active force field is deducted from these hit points first. Once its hit points are reduced to 0, the force field shuts down and does not reactivate for 24 hours. This trait may be applied multiple times, increasing the bonus hit points by 1/2 your caster level each time it is selected.
-
-**Mechanical Downgrade:** The target loses the benefit of a single Mech Enhancement of your choice. This trait can be applied multiple times.
-
-**Nitroboost:** The creature may spend a swift action to increase their base speed by 30 feet, but while its speed is increased in this manner, attempting any turn of 45 degrees or greater requires them to sacrifice an additional 5 feet of movement. The creature can end this effect as a swift action.
-
-**Thundering Crash:** While a Nitroboost is active, the creature deals double damage with melee weapons on the first attack made as part of a charge but must succeed at a DC 25 Acrobatics check after the attack is resolved or fall prone. This ability does not stack with the Spirited Charge feat. A creature must possess the Nitroboost trait to select this trait.
-
 #### Permanent Transformation
 
 **Prerequisites:** Alteration sphere (Lingering Transformation), caster level 10th.
@@ -923,16 +907,6 @@ If you possess the Mind sphere, you may spend an additional spell point to add t
 - **Overwhelming Mind:** You may alter the target’s mind to be overwhelming in its power and alien structure. The first time a creature other than an outsider (excluding native outsiders) or aberration makes mental contact with a creature with this trait, it must succeed at a Will save equal to your Alteration DC or be stunned for 1 round. On a successful save, the creature is merely staggered for 1 round. This effect can occur whether the target initiates mental contact (such as via a demand, dream, nightmare, or sending spell, certain Mind sphere effects or spell-like abilities, or once per round merely by telepathic communication) or another creature attempts to do so (such as via detect thoughts or the Mind sphere). Once a creature is exposed to overwhelming mind, it is immune to this effect for 24 hours. This is a mind-affecting effect. (requires caster level 10th)
 
 **Starflight:** You may grant the target the ability to survive in the void of outer space. It flies through space at an incredible speed. Although exact travel times vary, a trip within a single solar system should take 3d20 hours, while a trip beyond should take 3d20 days (or more, at the GM’s discretion). (requires fly speed, caster level 15th)
-
-#### Sustaining Shapeshift (utility) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Alteration sphere.
-
-When you target a creature with a shapeshift that costs at least one spell point, they are considered to have eaten and drank enough food and water to sustain them for 24 hours after the shapeshift ends.
-
-In addition, a creature affected by your shapeshift only needs to sleep 2 hours per day to gain the benefit of 8 hours of sleep as long as the shapeshift is active for the entire 2 hours.
 
 #### Transform Object
 
@@ -1060,12 +1034,6 @@ You gain the following additional traits you may add to your shapeshift attempts
 - **Hand Twist:** The target must succeed at a Fortitude save or have one of their hands become unusable, being unable to hold a weapon, supply somatic spell components, or perform any task that requires two hands. The target may attempt a new saving throw at the end of each of their turns to remove this trait’s effects.
 - **Reave Flesh:** The target halves any damage reduction they possess, rounded down.
 - **Vitiate Body:** The target has a single energy resistance they possess reduced by an amount equal to your caster level. This cannot reduce the resistance to below 0.
-
-#### Mass Retention [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Benefit:** While reduced in size below your normal size (such as by reduce person, the change shape ability, or some other ability), you may retain any size modifier you have to CMB and CMD as if you were your original size.
 
 #### Merged Summons (Dual Sphere) [3PP]
 
@@ -2222,7 +2190,7 @@ Some creatures are difficult to model within the constraints of a single talent.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -152,7 +152,7 @@ This ability replaces spell critical.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -298,8 +298,6 @@ Geomancy born is an inherited template that can be applied to any creature, but 
 
 The following options can be applied to a creature with the eldritch template.
 
-**Adaptive Combatant (Ex) (-2 EP, +1 CR) [LG]** The creature gains the adaptation abilities of a prodigy of a class level equal to their Hit Dice (minimum 2). This includes the greater adaptation, master adaptation, and grandmaster adaptation abilities gained at higher levels. The creature must possess spherecasting in order to select magic talents with this ability.
-
 **Advancing Armor (Ex) (-1 EP, +1/4 CR)** The eldritch creature has either a +1 natural armor bonus for every 2 Hit Dice it has or the base creature’s natural armor bonus, whichever of the two leads to a higher result.
 
 **Conceal Features (Ex) (-1 EP, +⅛ CR)** The eldritch creature gains a +8 racial bonus on checks to disguise itself as a typical member of the base creature’s species if it takes the time to don clothing or armor to hide qualities such as additional limbs or eyes. When it does so, it loses access to features that it hides.
@@ -1870,7 +1868,7 @@ A virulent sensor gains the following traits and modifications:
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]] · (3PP)
 
 **Rules**
 
@@ -1936,7 +1934,7 @@ A virulent sensor gains the following traits and modifications:
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

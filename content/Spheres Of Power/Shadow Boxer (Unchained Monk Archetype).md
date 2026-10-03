@@ -122,7 +122,7 @@ This modifies ki pool and ki power.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

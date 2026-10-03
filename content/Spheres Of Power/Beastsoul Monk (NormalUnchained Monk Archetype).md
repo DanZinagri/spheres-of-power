@@ -125,7 +125,7 @@ The beastsoul monk neither gains the bonus talents for having the casting class 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

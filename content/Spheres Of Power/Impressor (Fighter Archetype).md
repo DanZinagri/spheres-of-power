@@ -84,7 +84,7 @@ This replaces armor mastery.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

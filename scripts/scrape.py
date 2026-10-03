@@ -55,6 +55,11 @@ EXCLUDED_SECTIONS = {
     "Spheres Of Power (Old)",
 }
 # Individual pages left out along with everything under them (by wikidot slug):
+# Publisher tags the wiki puts after an entry's name, e.g. "Agility [LG]" or "Fixer [CS] [LG]".
+# Headings carrying one are removed with their whole section, and list items / paragraphs that
+# open with a tagged name are removed, on every page.
+EXCLUDED_TAGS = {"LG"}  # Legendary Games
+
 EXCLUDED_PAGES = {
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
@@ -185,7 +190,8 @@ class Page:
         self.anchors: dict[str, str] = {}
         if self.body:
             for h in self.body.find_all(re.compile("^h[1-6]$")):
-                if h.get("id"):
+                # headings of excluded-tag ([LG]) entries get pruned, so links lose the #fragment
+                if h.get("id") and not _has_excluded_tag(h.get_text(" ", strip=True)):
                     self.anchors[h["id"]] = heading_text(h)
             for a in self.body.find_all("a", attrs={"name": True}):
                 nxt = a.find_next(re.compile("^h[1-6]$"))
@@ -322,6 +328,86 @@ def group_columns(body: Tag, soup_factory) -> None:
         for col in run:
             col.attrs = {"class": "sop-col"}
             wrapper.append(col.extract())
+
+
+def _only_tags_besides(el: Tag, links: list[Tag]) -> bool:
+    """True when el's text is just the given links' text plus [tags] / separators."""
+    text = el.get_text(" ", strip=True)
+    for a in links:
+        text = text.replace(a.get_text(" ", strip=True), "", 1)
+    text = re.sub(r"\[[^\]]*\]", "", text)
+    return not text.strip(" ,|·:;-–—()")
+
+
+def prune_excluded_entries(body: Tag, excluded: set[str]) -> None:
+    """On any page, drop entries that exist only for excluded content: a heading that is just
+    a link to it (plus tags like [CS] [LG]) together with its section, and list items or
+    paragraphs that are only such a link. Links to it inside prose are left as plain text."""
+    is_heading = lambda el: isinstance(el, Tag) and re.fullmatch(r"h[1-6]", el.name or "")
+    for h in body.find_all(re.compile(r"^h[1-6]$")):
+        if h.parent is None:
+            continue
+        links = h.find_all("a", href=True)
+        if not links or any(internal_slug(a["href"]) not in excluded for a in links):
+            continue
+        if not _only_tags_besides(h, links):
+            continue
+        level = int(h.name[1])
+        sib = h.find_next_sibling()
+        while sib is not None:
+            if (is_heading(sib) and int(sib.name[1]) <= level) or sib.name == "hr":
+                break
+            nxt = sib.find_next_sibling()
+            sib.decompose()
+            sib = nxt
+        h.decompose()
+    for el in body.find_all(["li", "p", "dt"]):
+        if el.parent is None:
+            continue
+        links = el.find_all("a", href=True)
+        if links and all(internal_slug(a["href"]) in excluded for a in links)                 and _only_tags_besides(el, links):
+            el.decompose()
+
+
+def _has_excluded_tag(text: str) -> bool:
+    for tag in re.findall(r"\[([^\]]*)\]", text):
+        if any(re.search(rf"(^|[^A-Za-z]){re.escape(t)}([^A-Za-z]|$)", tag) for t in EXCLUDED_TAGS):
+            return True
+    return False
+
+
+def prune_tagged_entries(body: Tag) -> None:
+    """Drop entries tagged with an excluded publisher ([LG]): a tagged heading with its section,
+    and list items / paragraphs whose opening name carries the tag."""
+    if not EXCLUDED_TAGS:
+        return
+    is_heading = lambda el: isinstance(el, Tag) and re.fullmatch(r"h[1-6]", el.name or "")
+    for h in body.find_all(re.compile(r"^h[1-6]$")):
+        if h.parent is None or not _has_excluded_tag(h.get_text(" ", strip=True)):
+            continue
+        level = int(h.name[1])
+        sib = h.find_next_sibling()
+        while sib is not None:
+            if (is_heading(sib) and int(sib.name[1]) <= level) or sib.name == "hr":
+                break
+            nxt = sib.find_next_sibling()
+            sib.decompose()
+            sib = nxt
+        h.decompose()
+    for el in body.find_all(["li", "p", "dt"]):
+        if el.parent is None:
+            continue
+        # single entries only: not multi-line blocks or link lists like the home page's
+        # "Alchemist ([[A]], [[B]] [LG], ...)" lines, where one tag doesn't condemn the line
+        if el.find("br") or len(el.find_all("a")) >= 3:
+            continue
+        # the tag has to sit on the entry's name: before the first comma / colon / sentence end,
+        # or inside a leading bold label ("**Divine Faith: [LG]**", "**X (Ex) (-2 EP, +1 CR) [LG]**")
+        opening = re.match(r"^[^.:,\n]{0,100}", el.get_text(" ", strip=True)).group(0)
+        first = next((c for c in el.children if not (isinstance(c, NavigableString) and not c.strip())), None)
+        label = first.get_text(" ", strip=True) if isinstance(first, Tag) and first.name in ("strong", "b") else ""
+        if _has_excluded_tag(opening) or _has_excluded_tag(label):
+            el.decompose()
 
 
 def prune_excluded(body: Tag, excluded: set[str]) -> None:
@@ -549,7 +635,8 @@ def archetype_tables(md: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
 
 
-def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None) -> None:
+def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
+               nav: bool = False) -> None:
     """Rewrite wikidot widgets into plain HTML that markdownify understands."""
     group_columns(body, soup_factory)
     for sel in ["#toc", "script", "style", ".wd-adunit", "iframe", ".page-tags",
@@ -609,8 +696,11 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None) -> Non
     for span in body.find_all("span"):
         span.unwrap()
     body.smooth()  # merge text split by the unwrapped spans
-    if excluded is not None:
-        prune_excluded(body, excluded)
+    prune_tagged_entries(body)
+    if excluded:
+        prune_excluded_entries(body, excluded)
+        if nav:
+            prune_excluded(body, excluded)
 
     # Store boxes: cover image linking to a shop + <strong>Book</strong> + price -> "Source: [Book](shop)".
     for img in body.find_all("img"):
@@ -789,7 +879,7 @@ def convert(with_images: bool) -> None:
         if not p.body:
             continue
         preprocess(p.body, BeautifulSoup("", "lxml"),
-                   excluded - redirects.keys() if p.slug in NAV_PAGES else None)
+                   excluded - redirects.keys(), nav=p.slug in NAV_PAGES)
         md = WikiConverter(p, pages, images, redirects).convert_soup(p.body)
         fm = ["---", f"title: {yaml_str(p.title)}"]
         if p.filename != p.title:

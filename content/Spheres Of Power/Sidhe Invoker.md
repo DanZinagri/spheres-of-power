@@ -146,7 +146,7 @@ This replaces hide in plain sight.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

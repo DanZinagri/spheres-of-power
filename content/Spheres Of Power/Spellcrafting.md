@@ -950,7 +950,7 @@ If you maintain your wall through concentration, its hp is renewed each round on
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

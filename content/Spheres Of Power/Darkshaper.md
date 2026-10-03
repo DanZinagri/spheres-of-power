@@ -128,7 +128,7 @@ This ability replaces quick summons.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

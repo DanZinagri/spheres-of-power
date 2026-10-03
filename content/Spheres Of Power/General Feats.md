@@ -28,12 +28,6 @@ parent: "[[Feats]]"
 
 **Benefit:** When you use Perform (wind) to produce a bardic performance or a raging song in an areas of wind, treat your relevant class level and ranks in Perform (wind) as 1 higher for each category above severity level 1.
 
-### Angels’ Darling [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Benefit:** Whenever you consume the angel's whispers stimulant, you gain a caster level equal to 1/2 your character level (if you do not already possess a higher caster level), an MSB equal to your character level, an MSD equal to 11 + your character level, and a pool of spell points equal to twice the number of talents gained from the stimulant. You lose both of these benefits when the effects of angel's whispers wears off. If you do not have a casting tradition, you use Charisma as your casting ability modifier.
-
 ### Arcane Empowerment
 
 **Prerequisites:** Spell pool; the ability to cast arcane, divine, or psychic spells.
@@ -316,16 +310,6 @@ Miracles of any shape fail to penetrate your defenses.
 
 **Benefit:** Any spell or power resistance or immunity that you possess applies against magic from any source, including those from casters with the Alien Source boon. If using any ruleset in which psionics and magic are not transparent, any spell resistance or immunity that you possess also applies against psionic powers that allow power resistance, and vice versa.
 
-### Harmonic Resilience (Revised) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The following version of Harmonic Resilience was adjusted to accommodate the Tinker sphere.
-
-**Benefit:** Any spell or power resistance or immunity that you possess applies against magic from any source, including those from casters with the Alien Source boon. If using any ruleset in which psionics and magic are not transparent, any spell resistance or immunity that you possess also applies against psionic powers that allow power resistance, and vice versa.
-
-Any spell or power resistance you possess also applies against technological effects. Whenever you would be affected by an effect from a piece of technological equipment or a technological construct which imposes a condition or damage type other than bludgeoning, piercing, or slashing damage, the source of the effect must attempt a gizmo penetration check against your spell resistance (using the item’s craft DC -15 or the source’s CR in place of a gizmo penetration check if the item or creature is not a gizmo). On a failure, any conditions or damage besides bludgeoning, piercing, or slashing damage from the effect do not take effect.
-
 ### Harrowed Capability [3PP]
 
 **Benefit:** At the start of each of your turns during combat, you may draw a card from the harrow deck and check its alignment. If the card’s alignment is identical to yours, you gain a +2 circumstance bonus to attack rolls, combat maneuver checks, and caster level for one round. If the card’s alignment is within one step of yours, you gain a +1 circumstance bonus to attack rolls, combat maneuver checks, and caster level for one round. If the card’s alignment is 3 or more steps away from yours, or 2 steps if your alignment is True Neutral, you take a -2 penalty to your attack rolls, combat maneuver checks, and caster level for one round. At the start of the next turn, shuffle that card back into the deck (you may draw a new card as normal). For example: If you are Lawful Good, you would gain the bonuses of this feat if you draw a Lawful Good, Neutral Good, or Lawful Neutral card, and you would suffer the penalties if you draw a Chaotic Neutral, Neutral Evil, or Chaotic Evil card.
@@ -425,12 +409,6 @@ If you have the Unreliable Training drawback, the maximum number of magic talent
 **Prerequisite:** Caster level 10th.
 
 **Benefit:** When determining the save DC of a magic item you activate that determines its power by the formulae 10 + 1/2 the item’s caster level, you may add your casting ability modifier to the save DC. In addition, you may use your casting ability modifier for any sphere effects from any magic item you activate that require it (such as the Chameleon talent from the Light sphere).
-
-### Killing Ravages [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Benefit:** Whenever you cause a creature’s total strain damage to exceed their strain score or deal enough damage to a mental ability score that the damage exceeds that ability score, the creature dies rather than suffering from the normal effects. Creatures killed this way who are resurrected maintain any strain damage.
 
 ### Localized Arcana [SM—]
 
@@ -1337,7 +1315,7 @@ You have acquired many varied skills, enabling you to pick up more advanced tact
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

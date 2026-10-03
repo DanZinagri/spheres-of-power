@@ -112,7 +112,7 @@ This replaces feytouched.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

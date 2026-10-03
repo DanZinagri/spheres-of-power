@@ -1520,7 +1520,7 @@ In addition, GMs are strongly encouraged to remember how structures are affected
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

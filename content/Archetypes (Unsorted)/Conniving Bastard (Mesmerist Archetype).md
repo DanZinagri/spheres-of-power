@@ -95,7 +95,7 @@ This replaces mental potency.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

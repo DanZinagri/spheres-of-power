@@ -123,7 +123,7 @@ This alters the bonus feats a thaumaturge normally gains at 4th, 8th, 12th, 16th
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -220,7 +220,7 @@ By focusing their magic, dustbringers can cause whatever they touch to simply fa
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -232,7 +232,7 @@ Shadow magic, by its nature, has a very real effect even if disbelieved, althoug
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

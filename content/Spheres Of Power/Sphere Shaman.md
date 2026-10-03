@@ -98,7 +98,7 @@ This pool replenishes once per day after roughly 8 hours of rest.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

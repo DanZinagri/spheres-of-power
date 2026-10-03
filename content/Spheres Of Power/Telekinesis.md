@@ -319,14 +319,6 @@ When you affix a target permanently in place, you may spend an additional spell 
 
 In addition, regardless of whether or not this additional save is failed, breaking a target free that has been affixed in this way requires a successful magic skill check or Strength check against your MSD + 10. In addition, a telekinesis effect or the Freedom word with a lower caster level than the affixing will always be insufficient and cannot break a target free.
 
-#### Brutalizing Bludgeon [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Telekinesis sphere (Telekinetic Maneuver), caster level 5th.
-
-You may allow an object you are lifting to perform a bull rush, drag, reposition, trip, dirty trick, or grapple combat maneuver in place of an attack as part of a Bludgeon. Such objects may maintain a grapple in place of making a bludgeon attack and deal their Bludgeon damage on a successful grapple. Such objects have a CMB equal to your caster level + your casting ability modifier + any size modifier for the object and a CMD equal to this value +10.
-
 #### Choking Grasp
 
 **Prerequisites:** Telekinesis sphere (Telekinetic Crush), caster level 15th.
@@ -420,16 +412,6 @@ Since the subject is only under your physical control, on their turn they can st
 **Prerequisites:** Enhancement sphere (Mass Enhancement), Telekinesis sphere (Divided Mind), Enhancing Telekinesis, caster level 7th.
 
 **Benefit:** When you use the Enhancing Telekinesis feat, you may spend a spell point to enhance every item you lift with Divided Mind, following the restrictions of Mass Enhancement.
-
-#### Force Creation Mastery (Dual Sphere) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Creation sphere, Telekinesis sphere, Forceful Creation, Kinetic Creation, caster level 7th.
-
-**Benefit:** Whenever you create an item out of telekinetic force using Kinetic Creation, you may initiate and maintain the Sustained Force or Bludgeon telekinesis abilities as part of creating the object using the Forceful Creation feat (you may use these feats in conjunction with this one even though they are dual sphere feats). In addition, whenever you Bludgeon a creature using an object of telekinetic force, you may cause it to deal force damage rather than its normal damage type. If you do, the maximum size of any item you create is reduced by 2 categories.
-
-**Special:** If you have the Enhanced Creation or Floating Creation feats, you may apply either talent to items you create out of telekinetic force even though you have already applied a dual sphere feat.
 
 #### Forceful Creation (Dual Sphere)
 
@@ -983,7 +965,7 @@ In addition, you may spend a spell point to gain 30 ft blindsense for one minute
 
 #### Mindtalons [3PP]
 
-Source: City of 7 Seraphs
+Source:
 As a move action, you can generate powerful telekinetic manifestations that can act as one of the following natural weapons until the end of your next round: slam (1d8 bludgeoning), two claws (1d6 slashing each), tendril (1d4 slashing with at 10’ reach), or gore (1d8 piercing, x3 critical multiplier). These natural weapon attacks use your casting attribute modifier instead of Strength for attack and damage and resolve as a magical force effect. You can spend one spell point to increase the duration to 1 minute per caster level. You may use sphere talents, magical effects, and class features with these natural attacks as though they are manufactured or natural weapons. You may only have one instance of mindtalons active per 5 caster levels.
 
 #### Mobile Bludgeon
@@ -1365,7 +1347,7 @@ This is a general guideline to weapon size rather than a hard rule, and exceptio
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

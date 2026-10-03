@@ -82,7 +82,7 @@ This replaces stalwart.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

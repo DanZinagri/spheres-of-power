@@ -98,7 +98,7 @@ This replaces perform miracle
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

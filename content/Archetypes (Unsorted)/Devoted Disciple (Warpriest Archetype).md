@@ -95,7 +95,7 @@ This modifies fervor.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

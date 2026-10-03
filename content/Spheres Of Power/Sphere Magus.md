@@ -168,7 +168,7 @@ This replaces greater spell access.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

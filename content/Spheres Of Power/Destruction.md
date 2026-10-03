@@ -271,12 +271,6 @@ Your destructive blast deals acid damage, using d4 instead of d6 as its damage d
 
 Your destructive blast is a shocking current of latent static electricity built up by cats. An alternyating current blast deals electricity damage. Any creature struck by the attack or that failed their Reflex saving throw if one was required must take a 5-foot step. Affected creatures may take this 5-foot step in any direction they choose. If a creature was forced to take a 5-foot step by this effect, they may not take a 5-foot step during their next turn (but may otherwise move normally). If an affected creature would be forced to take a 5-foot step by this effect and could not, they do not move and cannot take a 5-foot step during their next turn (such as being surrounded by difficult terrain).
 
-#### Attracting Blast (blast type, electric) [LG]
-
-**Source:** Arcforge Players Compendium
-
-You may change the damage type of your destructive blast from bludgeoning to electricity. Targets damaged by an attracting blast take a -2 penalty to AC for 1 round.
-
 #### Battering Blast (blast type, stone)
 
 Your destructive blast becomes a hail of smooth stones, dealing bludgeoning damage and using d4 instead of d6 as its damage die. You may make a bull rush as a free action at range against the target or targets struck by the attack or that failed their Reflex saving throw if one was required. Your CMB for this check is equal to your caster level + your casting ability modifier, and all targets are pushed from the point of origin of the effect. (This is usually yourself, but if using a talent such as Explosive Orb, it would be the center of the blast. If using Energy Wall, each square of wall is considered the center of effect for those who enter that section. If using Guided Strike, you may choose from which direction you want to push the target, even pushing them up or down if you should desire. Pushing a target into the ground knocks them prone if the bull rush is successful.)
@@ -573,16 +567,6 @@ You may take this talent a second time, in which case you may select from an add
 **Prerequisites:** Destruction sphere (any two (blast type) talents in the crystal blast type group including either Crystal Blast or Living Crystal Blast), caster level 10th.
 
 When using the Crystal Blast or Living Crystal Blast talent, you may spend an extra spell point to fully encase your targets in a shell of crystal. Targets that fail their Reflex saves against your destructive blast are helpless and cannot take physical actions other than to attempt Strength or Escape Artist checks to escape the crystal, but can still breathe and take purely mental actions. The crystal blocks line of sight and line of effect to and from the encased target. Destroying the cocoon frees the victim, the crystal having hit points as normal for the Crystal Blast and Living Crystal Blast talent.
-
-#### Detonating Salvo [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Destruction sphere (Blast Salvo, Explosive Orb).
-
-When you fire a blast salvo, you may spend an additional spell point to replace any number of the surges with 5-foot radius explosions which deal damage as a surge and are subject to the same restrictions. Creatures in the area of the explosion are allowed a Reflex save to negate the damage. If you spend an additional spell point, each explosion covers a burst with a radius of 10 feet + 5 feet per 5 caster levels and allows a Reflex save for half damage rather than no damage.
-
-Any creature damaged by a surge has a -4 penalty to their saving throw against any explosion created using the same blast salvo.
 
 #### Destructive Verticality [SM—]
 
@@ -1157,14 +1141,6 @@ Ruinous and restorative power alike flow from your will.
 **Prerequisites:** Destruction sphere (Admixture), Life sphere.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to have a single creature that takes damage be targeted by a cure, invigorate, or restore. If you possess the Mass Healing talent, you may apply the cure, invigorate, or restore to all targets damaged, up to your maximum targets from Mass Healing. A Life sphere effect which would deal damage (such as a cure on an undead or in conjunction with the Affliction talent) instead deals no damage when used with this feat.
-
-#### Digital Admixture (Admixture) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Destruction sphere (Admixture), Technomancy sphere.
-
-**Benefit:** When using Admixture, you may spend an additional spell point to generate a sprite inside an eligible target damaged by the destructive blast. If you possess Sprite Legion, you may generate sprites in any targets damaged, up to your maximum number from Sprite Legion.
 
 #### Dispelling Admixture (Admixture, Counterspell) [3PP]
 
@@ -2202,7 +2178,7 @@ The Wandslinger is a Gunslinger that can create and use wands keyed to the Destr
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

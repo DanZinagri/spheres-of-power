@@ -554,7 +554,63 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 The Spheres systems are the main focus of this site, but they're not the only high-quality subsystems created for the Pathfinder Roleplaying Game. Below, you'll find links to other systems (from other publishers) that are also available on this site.
 
-<div class="sop-columns" style="--cols: 1">
+<div class="sop-columns" style="--cols: 3">
+
+<div class="sop-col">
+
+---
+
+
+
+</div>
+
+<div class="sop-col">
+
+---
+
+This section includes content helpful for playing in this setting.
+
+</div>
+
+<div class="sop-col">
+
+---
+
+
+
+</div>
+
+</div>
+
+<div class="sop-columns" style="--cols: 3">
+
+<div class="sop-col">
+
+---
+
+From mimes and rockstars to magical girls and nuclear mages, these options start at crazy and get rapidly weirder from there. The only thing that's certain is your games will never be the same.
+
+</div>
+
+<div class="sop-col">
+
+---
+
+This page includes new classes, races, feats, character traits, magic systems, and more.
+
+</div>
+
+<div class="sop-col">
+
+---
+
+Product Identity in this section is used with permission.
+
+</div>
+
+</div>
+
+<div class="sop-columns" style="--cols: 3">
 
 <div class="sop-col">
 
@@ -566,7 +622,39 @@ The Spheres systems are the main focus of this site, but they're not the only hi
 
 </div>
 
+<div class="sop-col">
+
+---
+
+**About:** This subsystem focuses on making pacts with otherworldly entities and calling upon them for power.
+
 </div>
+
+<div class="sop-col">
+
+---
+
+From channeling the power of the universe into ethereal blasts to composing magical melodies or reciting true names, these powers are strange indeed…
+
+</div>
+
+</div>
+
+---
+
+## [[Diamond Recreational Studios]]
+
+**About:** Diamond Recreational Studios is a Drop Dead Studios sanctioned successor to the Spheres subsystems. This section includes rules and publications by DRS, including their "Polished Spheres" publications.
+
+---
+
+
+
+---
+
+## [[Other Options]]
+
+**About:** This section contains class options, new choices, and other material too small to deserve its own section, but too numerous to be put on the front page. Come in and take a look - you never know what interesting new rules you'll find next.
 
 ---
 

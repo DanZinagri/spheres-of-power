@@ -139,7 +139,7 @@ While in swarm form, the swarmheart gains a fly speed (perfect) equal to the gro
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

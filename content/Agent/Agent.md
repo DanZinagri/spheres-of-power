@@ -191,24 +191,6 @@ At 20th level, the agent can use their just a bad dream class feature on an unco
 
 An agent can choose one of the following ploys at 1st level. It grants a skill sphere and a special ability. The agent’s ploy cannot be changed except by retraining. At 2nd level, the ploy grants an option for the devious technique class feature, which improves the discerning strike ability. At 6th level, the ploy grants a conspiratorial ploy ability related to completing missions alongside allies with varying skillsets. At 14th level, the ploy grants another way to use the always a clue class feature.
 
-#### Agility [LG]
-
-**Source:** Arcforge Players Compendium
-
-The agent specializes in mobility and the use of terrain to their advantage.
-
-**Sphere:** Athletics
-
-**Feature: Thrilling Engagement (Ex):** When the agent or the target are balancing, climbing, airborne, or swimming, the agent may use discerning strike on the target as if they were denied their Dexterity bonus to AC.
-
-**Devious Technique Option: Confound:** The agent’s continual darting assault leaves the target unable to respond to threats. The target becomes battered and cannot make attacks of opportunity for one round.
-
-**Swift of Foot (Ex):** At 6th level, the agent gains an +20 foot enhancement bonus to all of their movement speeds. This bonus increases by 10 feet at 12th level and every 4 levels thereafter. An agent carrying a medium or heavy load loses this extra speed.
-
-**Conspiratorial Ploy: Try to Keep Up (Ex):** Allies within 60 feet who can see or hear the agent benefit from any Athletics packages that the agent possesses. This does not grant the ally any other talents or benefits of the Athletics sphere, nor does it grant them skill ranks. Allies lose this benefit when they go 1 round out of range of the agent or are unable to see or hear the agent.
-
-**Always a Clue:** When an agent succeeds at a skill check to move through an enemy’s threatened area without provoking an attack of opportunity, the agent can spend 1 use of skill leverage to deduce a location that the enemy is trying to reach or that they do not wish the agent to reach.
-
 #### Bravado
 
 The agent specializes in creating and exploiting distractions.
@@ -224,24 +206,6 @@ The agent specializes in creating and exploiting distractions.
 There are no effects of the interrupted check’s success or failure except that the ally takes a –4 penalty on any attempt to try the same check on the same subject against the same target again for 24 hours.
 
 **Always a Clue:** When an opponent fails a Bluff or Intimidate check to create a diversion, pose a menace, lie, or demand cooperation from the agent or the agent disbelieves an opponent’s illusion, the agent can spend 1 use of skill leverage to learn the nearest item that the opponent does not want the agent to find (or a specific one, if the agent knows one of the opponent’s motivations).
-
-#### Deadeye [LG]
-
-**Source:** Arcforge Players Compendium
-
-The agent uses keen observational skills to pinpoint the weaknesses of enemies.
-
-**Sphere:** Scout
-
-**Feature: In My Sights (Ex):** Whenever the agent successfully scouts a creature or exceeds the Perception DC to learn a creature’s precise location by 10 or more, the agent ignores any cover or concealment the creature possesses until the next time that creature attempts a Stealth check. This does not allow the agent to ignore improved cover or total cover.
-
-**Devious Technique Option: Comprehend (Ex):** The agent’s attack ensures that the target leaves no secrets. The agent may scout the target as a free action which can be taken outside their turn and gains a +5 circumstance bonus on all Knowledge, Perception, and Sense Motive checks attempted against the target. If the agent has already attempted such a check against the target and failed, the agent may reroll the check after inflicting this debilitating strike.
-
-**Ricochet Shot:** At 6th level, when the agent hits an enemy with a discerning strike using a ranged weapon, the agent can forgo the effects of your debilitating strike to instead ricochet the projectile to a second target. The agent makes a ranged attack at –5 against the second target and deals normal damage (without discerning strike damage or devious technique) if the attack hits. The agent must have line of effect and line of sight both from the agent to the second target and from the first target to the second target. When determining attack penalties from range against the second target, count the full distance from you to the first target, and then the second target.
-
-**Conspiratorial Ploy: Expanded Sightlines (Ex):** Allies within 60 feet who can see or hear the agent ignore the cover or concealment of any targets who do not have cover or concealment against the agent.
-
-**Always a Clue:** When an agent succeeds at a skill check made to scout a target, the agent can spend 1 use of skill leverage to learn the target’s three highest skill modifiers (or three among the skill modifiers that are tied for the highest, chosen randomly).
 
 #### Discipline
 
@@ -283,24 +247,6 @@ In addition, whenever the agent makes an attack, they can attempt a Sleight of H
 **Conspiratorial Ploy: Consistent Story (Ex):** When a creature fails their Perception check against the agent’s Disguise check, they take the agent’s appearance and those of the agent’s apparent allies for granted until they succeed at a Perception check against the agent’s Disguise check. That creature takes a –4 penalty to Perception checks against the Disguise and Sleight of Hand checks of the agent and the agent’s apparent allies and they take a –8 penalty to Sense Motive checks against lies the agent or the agent’s apparent allies tell that are believable given their appearances.
 
 **Always a Clue:** When the agent succeeds at a Perception check against an opponent’s Disguise, the agent can spend 1 use of skill leverage to learn whether each item the opponent carries is magical or not, which three are the most valuable, and the magic auras of those items.
-
-#### Instigator [LG]
-
-**Source:** Arcforge Players Compendium
-
-The agent specializes in exploiting the fear, anger, and disbelief of foes.
-
-**Sphere:** Gladiator
-
-**Feature: Taunting Glower (Ex):** When the agent moves through a space adjacent to a creature, they may spend martial focus to attempt an Intimidate check to demoralize, insult, or pose a menace against the creature.
-
-**Devious Technique Option: Brutalize:** The agent capitalizes on the target’s uneasy state to deliver a decisive blow. If the target of the attack is angry, dumbfounded, enraged, frenzied, frightened, livid, panicked, prone, shaken, shocked, or uncertain, the agent treats any discerning strike damage dice that roll a 1 or 2 as if they had rolled a 3 instead.
-
-**Salt the Wound (Ex):** At 6th level, whenever the agent successfully uses a devious technique on a target, the agent may boast as an immediate action.
-
-**Conspiratorial Ploy: Dogpile:** Any penalties to AC, skill check DCs, and saving throws that come from the angry, dumbfounded, enraged, frenzied, frightened, livid, panicked, prone, shaken, shocked, or uncertain condition are increased by 2 against the agent and any allies of the agent within 60 feet of them.
-
-**Always a Clue:** Whenever the agent succeeds at a Bluff or Intimidate check against one or more targets, the agent may spend 1 use of skill leverage to learn one minor motivation from each affected target or a major motivation from a single target.
 
 #### Silence
 
@@ -450,10 +396,6 @@ If the rumor is a lie, the agent’s Bluff check result determines if it is beli
 ## [[Blackpowder Slayer]]
 
 Blackpowder slayers are agents who are especially adept at using firearms to accomplish their goals.
-
-## Cutthroat [LG]
-
-Cutthroats embody a more aggressive and flagrant distortion of subterfuge, using their agility and combat expertise to control the flow of an engagement.
 
 ## [[Erudite Pugilist]]
 

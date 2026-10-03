@@ -864,14 +864,6 @@ For information regarding wild magic events and the wild magic system, see [[Wil
 - **Distance Rewiring (Warp sphere):** Magic entering the area you manipulate can quickly travel across large distances, even if it would otherwise be out of reach. Any sphere effect or sphere-like effect that can affect an area or that targets a creature that reaches into the area of the shuffle treats the entire area of the shuffle as well as any creatures within the area as if they were within the sphere effect’s range, effectively extending the range of the sphere effect. Effects with a range of touch can be performed against any creature within the shuffle as long as the spherecaster is within the area, even if they would otherwise be out of reach. Utilizing such an effect requires a touch attack on unwilling targets. This ability only affects touch attacks made as part of a sphere effect that are not weapon attacks (such as through talents with the strike descriptor).
 - **Destined Rewiring (Fate sphere):** You manipulate the alignments that spells detect within the area you manipulate. Upon using this option, you must choose a single alignment from the alignment spectrum. All creatures within the area of your shuffle are considered to be of that alignment for the purpose of any sphere effects or supernatural effects that target or affect creatures within the area. Effects with a duration treat targets that leave the area of the shuffle as their true alignment, ending if they could no longer affect the target.
 
-#### Spell Jacker (Dual Sphere) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Mana sphere, Technomancy sphere.
-
-**Benefit:** Whenever you create or move a sprite into a creature, you may create a manabond with the creature as if you had affected them with an expunge or (manipulation). Whenever you create a manabond with a creature, you may move a sprite into them. A sprite may create or concentrate on a manabond between you and a creature that contains it in place of executing a program.
-
 #### Spellshock Admixture (Admixture)
 
 **Prerequisites:** Destruction sphere (Admixture), Mana sphere.
@@ -1098,7 +1090,7 @@ Spellvampires are Shifters who can steal the magic and powers of their foes.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

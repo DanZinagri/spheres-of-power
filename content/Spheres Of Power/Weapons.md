@@ -919,22 +919,6 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Mythic Crafter, Spell Att
 
 # New Weapon Special Abilities
 
-#### Technological “Magic” Equipment [LG]
-
-**Source:** Arcforge Players Compendium
-
-In place of the normal caster/manifester level, item creation and spell/power/sphere requirements, crafting a technological version of an armor, shield, or weapon enhancement requires the Craft Technological Arms and Armor feat, a specific lab, and a Craft (mechanical) check with a specific DC. The DC and lab required is based on the bonus or gp value of the enhancement bonus.
-
-**Table: Technological Magic Equipment requirements**
-
-| Special Quality value or enhancement bonus | Requirements |
-| --- | --- |
-| +1 bonus | Craft (mechanical) DC 24, production lab or military lab |
-| +2 bonus | Craft (mechanical) DC 28, military lab |
-| +3 bonus | Craft (mechanical) DC 32, military lab |
-| +4 bonus | Craft (mechanical) DC 36, nanotech lab |
-| +5 bonus | Craft (mechanical) DC 40, graviton lab |
-
 ### Arcing
 
 This special ability may only be applied to ranged weapons.
@@ -943,43 +927,11 @@ You may alter the trajectory of your attack once when making a ranged attack wit
 
 **Aura**faint Telekinesis;**CL**5th; Smith Magical Weapons And Armor, Telekinesis sphere;**Price** +1 bonus
 
-### Armor Penetration [LG]
-
-**Source:** Arcforge Players Compendium
-
-This weapon is specially engineered to pierce obstructions. If using the armor penetration rules, the weapon’s AP increases by an amount equal to twice its enhancement bonus.
-
-**Aura**faint psychometabolism or transmutation;**CL or ML**4th; Craft Magic Arms and Armor; Creation sphere (Rigidity (alter)) or dissolving weapon;**Price** +1 bonus
-
-### Array [LG]
-
-**Source:** Arcforge Players Compendium
-
-This special ability may only be applied to firearms and heavy weapons. When making an attack with this weapon, the user may have the weapon fire off a storm of shots which target everything in a 10-foot by 10-foot square (as opposed to a single target). The wielder makes a separate attack roll against every target in the area when firing this weapon. The attack damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil an array attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone. Any abilities that would function differently or fail to function for a scatterUC attack are changed in the same manner for an array attack.
-
-**Aura**faint conjuration or metacreativity;**CL or ML**9th; Craft Magic Arms and Armor; Creation sphere (Divided Creation) or hail of crystals;**Price** +1 bonus
-
-### Array, Greater [LG]
-
-**Source:** Arcforge Players Compendium
-
-This functions as the array special ability, save that the area covered is a 20-foot by 20-foot square rather than 10-foot by 10-foot.
-
-**Aura**strong conjuration or metacreativity;**CL or ML**12th; Craft Magic Arms and Armor; Creation sphere (Divided Creation) or mirror shot;**Price** +3 bonus
-
 ### Attendant
 
 This special ability may only be applied to any handheld magic item, including weapons, shields, or implements. An attendant item springs to hand when you send for it. As a swift action you can call for an attendant item, and if it is within 50 feet it attempts to leaps to your hand. If it is currently held by another creature or trapped or bound in some way it fails to arrive, though it can extricate itself from a backpack or sheathe. You must possess an attendant item for at least 24 hours before you can use this function, and only one creature can have the ability to use this function at a time.
 
 **Aura**faint Telekinesis;**CL**5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly);**Cost** +500 gp
-
-### Automatic [LG]
-
-**Source:** Arcforge Players Compendium
-
-This special ability may only be applied to firearms and heavy weapons. An automatic weapon allows its wielder to make attacks with it as if they had the Rapid Shot feat. If the wielder has the Rapid Shot feat, they can use the additional shot from that as well, but the penalty for all shots fired in that round increases to -6.
-
-**Aura**faint psychometabolism or transmutation;**CL or ML**7th; Craft Magic Arms and Armor; Time sphere (Improved Haste) or physical acceleration;**Price** +1 bonus
 
 ### Avalanche
 
@@ -1014,32 +966,6 @@ This special ability can be placed only on slashing or piercing melee weapons. W
 **Construction Requirements**
 Smith Magical Weapons and Armor, Mind sphere, creator must have the raging song class feature
 **Price**+1 bonus,**Aura**moderate Mind,**CL**6th,**Weight** -
-
-### Boosting [LG]
-
-**Source:** Arcforge Players Compendium
-
-You can charge up a weapon with this special ability as a move action. When you do, you increase the weapon’s damage by 1d4 per point of enhancement bonus on the next attack you make with the weapon before the end of your next turn. Boosting a weapon more than once before attack does not have any extra effect.
-
-**Aura**faint metacreativity or transmutation;**CL or ML**5th; Craft Magic Arms and Armor; War sphere (Damaging Momentum (momentum)) or metaphysical weapon;**Price** +1 bonus
-
-### Burst [LG]
-
-**Source:** Arcforge Players Compendium
-
-This special ability may only be applied to firearms and heavy weapons. A weapon with the burst special ability can attack all targets in a line with length equal to its first range increment or a cone out to half its first range increment. In either case, the weapon targets creatures as if it had the scatterUC quality for all purposes, rolling unique attack rolls for each creature and applying the quality’s normal changes regarding precision damage, miss chance, and penalties to attack rolls. If the weapon already possesses the scatter quality, it uses its normal range for the cone and doubles its first range increment when fired in a line). A weapon with this special ability is considered to have the scatter quality.
-
-**Aura**faint evocation or psychokinesis;**CL or ML**6th; Craft Magic Arms and Armor; Destruction sphere (Sculpt Blast (blast shape)) or energy cone;**Price** +1 bonus
-
-### Conduit [LG]
-
-**Source:** Arcforge Players Compendium
-
-Certain advanced psionicists have opted to combine firearms and psionic power to create weapons capable of channeling their supernatural might into their ammunition. This special ability may only be applied to weapons which can deal damage in a line, cone, or burst. Whenever the wielder uses a spell, power, or other ability that affects creatures in the same shape that the weapon deals damage in (such as a cone-shaped breath weapon and a vortex gun), they may channel the ability through the weapon, using the weapon’s range in place of the ability’s normal range and adding the weapon’s enhancement bonus as a bonus to the ability’s attack roll and saving throw DCs.
-
-When channeling the ability in this way, the wielder makes an attack roll with the weapon covering the same altered area as the ability, using the longer of the two actions needed to use the ability or use the weapon. If the weapon requires an attack roll, only creatures hit by the attack roll are affected by the associated ability.
-
-**Aura**moderate destruction or psychokinesis; CL or ML 10th; Craft Magic Arms and Armor, Destruction sphere (Energy Strike (blast strike)) or energy cone;**Price** +3 bonus
 
 ### Conscription
 
@@ -1111,95 +1037,17 @@ If a dispelling burst weapon confirms a critical hit while it is not currently s
 
 **Aura**moderate Life;**CL**10th; Smith Magical Weapons And Armor, Life sphere;**Price** +2 bonus
 
-### Energized [LG]
-
-**Source:** Arcforge Players Compendium
-
-This special ability may only be applied to weapons that use charges. When this special ability is applied, the creator chooses acid, cold, electricity, fire, or sonic damage. As long as it is charged or is using charges to make attacks, the weapon deals all of its damage as energy damage of the chosen type and targets touch AC rather than normal AC. If the weapon has the blocking special feature, the shield bonus on AC from blocking also applies to the wielder’s touch AC.
-
-The cost increase of this weapon is equivalent to a +1 bonus for firearms and heavy weapons that deal acid, cold, electricity, or fire damage, +2 bonus for firearms and heavy weapons that deal sonic damage, +3 bonus for other weapons that deal acid, cold, electricity, or fire, and +4 bonus for other weapons that deal sonic damage.
-
-**Aura**moderate evocation or psychokinesis;**CL or ML**7th; Craft Magic Arms and Armor; Destruction sphere (Energy Strike (blast strike)) or weapon of energy;**Price** special
-
-#### Expanded Energized Weapon Properties
-
-If a weapon has the energized or hybridized special ability and deals damage of certain types, the following additional modifications can be applied to it at no additional cost.
-
-**Antibiological:** If acid, cold, or sonic damage is chosen with this special ability and applied to a ranged weapon, the creator may choose to have the weapon’s attack operate as antibiological. Antibiological weapons deal no damage to objects, undead, or constructs but deal 1d6 additional damage against living creatures.
-
-**EMP:** If electricity damage is chosen with this special ability and applied to a ranged weapon, the creator may choose to have the weapon’s attack operate as an EMP. An EMP attack deals no damage to non-cyborg living creatures but deals 1d6 additional damage against robots, androids and creatures with cybernetic implants. A creature that takes damage from a critical hit by an EMP cannon must succeed at a DC 15 Fortitude save or be staggered for 1d4 rounds.
-
-**Laser:** If electricity, fire, or sonic damage is chosen with this special ability and applied to a ranged weapon, the creator may choose to have the weapon’s attack operate as a laser. A laser attack can pass through force fields and force effects, such as a wall of force, to strike a foe beyond without damaging that field. Objects like glass or other transparent barriers do not provide cover from lasers—but unlike force barriers, a transparent physical barrier still takes damage from a laser passing through it. Invisible creatures are immune to damage caused by a laser weapon. Fog, smoke, and other clouds provide cover in addition to concealment from laser attacks. Darkness (magical or otherwise) has no effect on lasers other than providing concealment, and though a laser consists of highly focused light, it does not provide any illumination. ||
-
 ### Entangling
 
 When a weapon with this special ability scores a critical hit on a target, it also bestows the entangled condition to that target. A creature entangled by this special ability may, on its turn, attempt to break free as a move action, attempting a Strength or Escape Artist check against a DC equal to 15 + twice the weapon’s enhancement bonus. The entangled condition ends on its own after 1 minute.
 
 **Aura**faint Nature;**CL**5th; Smith Magical Weapons And Armor, Nature sphere ((plant) package);**Price** +1 bonus.
 
-### Expanded Capacity [LG]
-
-**Source:** Arcforge Players Compendium
-
-This weapon is capable of storing more ammunition or energy than normal, enabling the wielder to fight longer and harder without trouble. The number of charges that the weapon contains is doubled, alongside the ammunition capacity of the weapon.
-
-**Aura**faint warp or psychoportation;**CL or ML**5th; Craft Magic Arms and Armor; Warp sphere (Extradimensional Storage (space)) or foxhole;**Price** +1 bonus
-
-### Expanded Capacity, Greater [LG]
-
-**Source:** Arcforge Players Compendium
-
-This ability functions as the expanded capacity ability, save that the total number of charges that the weapon may have alongside the ammunition capacity of the weapon are multiplied by five rather than doubled.
-
-**Aura**moderate warp or psychoportation; CL or ML 11th; Craft Magic Arms and Armor; Warp sphere (Extradimensional Storage (space)) or foxhole;**Price** +2 bonus
-
-### Exploding [LG]
-
-**Source:** Arcforge Players Compendium
-
-This special ability can only be applied to ranged weapons which use charges. As a full-round action, you may fire a blast with the weapon rather than making a normal attack. When an exploding weapon is used to launch a blast, no attack roll is made—you simply target a 5-foot-radius spread within the weapon’s first range increment. This blast radius increases by 5 feet for every point of enhancement bonus the weapon has beyond +1.
-
-You must have line of effect to your target when you launch a blast; if the blast impacts a solid object before reaching the target area, it explodes at that point. All creatures caught in the blast radius take damage as if struck with the weapon but are allowed a DC 14 Reflex save for half damage. If the attack has any special effects other than damage, they are negated with a successful saving throw. Firing a blast in this way consumes 10 charges.
-
-**Aura**moderate evocation or psychokinesis; CL or ML 8th; Craft Magic Arms and Armor; Destruction sphere (Explosive Orb (blast shape)) or energy ball;**Price** +2 bonus
-
-### Exploding, Greater [LG]
-
-**Source:** Arcforge Players Compendium
-
-This functions as the exploding special ability, save that the blast radius increases by 5 feet and the weapon’s base damage dice is doubled on a successful blast attack.
-
-**Aura**strong evocation or psychokinesis;**CL or ML**13th; Craft Magic Arms and Armor; Destruction sphere (Explosive Orb (blast shape)) or energy wave;**Price** +3 bonus
-
 ### Fey-Forged
 
 This special ability may only be applied to a light or one-handed melee weapon. A wielder of a fey-forged weapon can choose to apply her Charisma modifier to damage rolls with the weapon in place of her Strength modifier. This modifier to damage is not increased for two-handed light weapons nor reduced for off-hand weapons. If a fey-forged weapon is used to attack a creature with the fey creature type, the attacker suffers a -2 penalty to attack rolls and damage rolls.
 
 **Aura**moderate Mind;**CL**7th; Smith Magical Weapons And Armor, Enhancement sphere (Mental Enhancement);**Price** +1 bonus.
-
-### Flexible [LG]
-
-**Source:** Arcforge Players Compendium
-
-This weapon uses special guidance or dimension-warping effects to launch attacks from unusual angles. When you make an attack with this weapon, you may choose a point within the weapon’s first range increment to determine line of sight to a target, and this square is considered the new origin square of the attack. Use that square to determine the effects of cover, and your own square to determine the effects of concealment.
-
-**Aura**strong evocation or psychoportation;**CL or ML**13th; Craft Magic Arms and Armor; Destruction sphere (Knight’s Blast (blast shape)) or flexible trajectory;**Price** +4 bonus
-
-### Gravitation [LG]
-
-**Source:** Arcforge Players Compendium
-
-You can push or pull creatures with this weapon. This functions as the driving special ability, save that you can also perform drag combat maneuvers in the weapon’s first range increment. In addition, when you confirm a critical hit against a target with this weapon, you may perform a bull rush, drag, or trip combat maneuver against them as a free action which can be taken outside your turn.
-
-**Aura**strong psychoportation or telekinesis;**CL or ML** 11th; Craft Magic Arms and Armor; Telekinesis sphere (Telekinetic Maneuver) or summoning strike; Price +3 bonus
-
-### Grazing [LG]
-
-**Source:** Arcforge Players Compendium
-
-This weapon lashes out against nearby creatures. Whenever you deal this weapon’s damage to a target as part of an attack action, full attack, or attack of opportunity, make an additional attack at the same bonus against another creature of your choice within range. On a hit, you deal damage to the second creature equal to the weapon’s base damage die (not any other damage).
-
-**Aura**moderate psychoportation or transmutation;**CL or ML**8th; Craft Magic Arms and Armor; Nature sphere (Manipulate Nature (blast shape)) or gravitational well;**Price** +2 bonus
 
 ### Heartseeker [High. HB]
 
@@ -1222,15 +1070,6 @@ This special ability may only be applied to a melee weapon or a piece of ammunit
 A hungry weapon has been enchanted with a mouth; when this weapon strikes a target, the weapon bites and tears its flesh. A hungry weapon deals bludgeoning, piercing, and slashing damage. Additionally, the hungry weapon can roar and snarl, granting the wielder of the hungry weapon a circumstance bonus to Intimidate checks equal to the enhancement bonus of the hungry weapon.
 
 **Aura**faint Alteration;**CL**5th; Smith Magical Weapons And Armor, Alteration sphere (Object Transformation (transformation));**Price** +1 bonus
-
-### Hybridized [LG]
-
-**Source:** Arcforge Players Compendium
-
-This functions as the energized* ability, save that you may select two energized types rather than one. Half of the weapon’s damage is of the first type and the other is of the second type. Alternatively, the creator may select only a single energized* type and have the other half deal the weapon’s normal damage type.
-The cost of a hybridized weapon is one +1 bonus higher than the highest-cost energized* weapon special ability used in its effect.
-
-**Aura**strong evocation or psychokinesis;**CL or ML**9th; Craft Magic Arms and Armor; Destruction sphere (Admixture) or energy current;**Price** special
 
 ### Hypochondriac
 
@@ -1256,27 +1095,11 @@ An item can gain this enhancement multiple times, choosing an additional sphere 
 **Construction**
 Requirements Craft Implement Of Power or Smith Magical Weapons And Armor, Divination or Enhancement sphere
 
-### Injecting [LG]
-
-**Source:** Arcforge Players Compendium
-
-A thin tube extends along the length of this weapon, running liquid through it into the bodies of foes. An injecting weapon can store up to three doses of poisons, extracts, pharmaceuticals, or other liquids. When a creature is struck by an injecting weapon, the wielding can as a free action inject a stored liquid into the struck creature. This ability may only be applied to piercing weapons.
-
-**Aura**faint universal or psychometabolism;**CL or ML**4th; Craft Magic Arms and Armor; any [strike] talent or prevenom weapon;**Price** +1 bonus
-
 ### Invisible
 
 Invisible weapons can only be seen by creatures making physical contact with the weapon, or if no creature is making physical contact with the weapon. Being stowed in a worn pocket, bag, sheath or similar arrangement counts as physical contact for the purpose of this special ability. The first attack each round made with an invisible weapon denies the target their Dexterity bonus to AC. This special ability interacts with spells and sphere effects as the glamer version of Suppression when cast upon an object. Creatures with Uncanny Dodge (or similar effects) do not lose their Dex bonus to AC against a weapon with the invisible special ability.
 
 **Aura**moderate Illusion (concealed aura MSD 19);**CL**8th; Smith Magical Weapons And Armor, Illusion sphere (Manipulate Aura (sensory, magic), Suppression (glamer));**Price** +3 bonus (+4 for firearms)
-
-### Kicking [LG]
-
-**Source:** Arcforge Players Compendium
-
-This functions as the boosting* weapon special ability, except you increase the weapon’s damage by 1d8 per point of enhancement bonus rather than 1d4. When you fire a weapon which has been boosted in this way, the force of the attack launches you back as per a bull rush combat maneuver, using your bull rush CMB + the weapon’s enhancement bonus as the combat maneuver modifier.
-
-**Aura**moderate psychokinesis or evocation;**CL or ML**8th; Craft Magic Arms and Armor; Destruction sphere (Air Blast (blast type, air)) or concussive onslaught;**Price** +2 bonus
 
 ### Leaping
 
@@ -1285,22 +1108,6 @@ This special ability may only be applied to thrown weapons.
 When you make a full attack, you may direct a leaping weapon to perform as many of those attacks as you desire. A leaping weapon can focus all of your attacks on a single target, or may move up to its range increment between each attack. At the end of your full-attack action it drops in the square it made its last attack in.
 
 **Aura**faint Telekinesis;**CL**5th; Smith Magical Weapons And Armor, Telekinesis sphere (Dancing Weapon, Mobile Bludgeon);**Price** +1 bonus
-
-### Mindspiking [LG]
-
-**Source:** Arcforge Players Compendium
-
-This weapon’s ethereal presence strikes at the minds of targets rather than their bodies. This weapon deals untyped damage with its attacks but deals no damage against targets immune to mind-affecting effects. In addition, if the target possesses any bonuses to saving throws against charm, compulsion, or mind-affecting effects, any damage from this weapon is reduced by the highest of these bonuses.
-
-**Aura**strong divination or telepathy;**CL or ML**10th; Craft Magic Arms and Armor; Mind sphere (Cerebral Strike (charm)) or mind thrust;**Price** +3 bonus
-
-### Mire [LG]
-
-**Source:** Arcforge Players Compendium
-
-This weapon’s attacks leave residue or aftershocks behind that renders the area difficult to navigate. Whenever this weapon would deal damage in an area (such as through the exploding ability or the scatter quality, or the weapon itself being a splash weapon), that area becomes difficult terrain for a number of rounds equal to the weapon’s enhancement bonus.
-
-**Aura**faint conjuration or metacreativity;**CL or ML**4th; Craft Magic Arms and Armor; Nature sphere (Create Nature (geomancing)) or entangling debris;**Price** +1 bonus
 
 ### Phasic
 
@@ -1322,35 +1129,11 @@ A plasma blade weapon has its significant portion transformed into magical energ
 
 **Aura**moderate Creation;**CL**9th; Smith Magical Weapons And Armor, Creation sphere (Plasma Production (materials));**Price** +3 bonus
 
-### Polarizing [LG]
-
-**Source:** Arcforge Players Compendium
-
-This special ability can only be placed on ranged weapons. A polarizing weapon creates electrical instabilities in the body of the target which draw your continued attacks towards them. Each time the wielder damages an opponent with the weapon, its enhancement bonus increases by +1 when making attacks against that opponent (to a maximum total enhancement bonus of +5). This extra enhancement bonus goes away if the opponent dies, the wielder uses the weapon to attack a different creature, or 1 hour passes.
-
-**Aura**moderate enchantment or psychometabolism;**CL or ML**8th; Craft Magic Arms and Armor; War sphere (Adroitness (mandate)) or zealous fury;**Price** +2 bonus
-
 ### Preventative
 
 Whenever you hit a creature with this weapon, you receive a circumstance bonus to your AC against that creature equal to this weapon’s enhancement bonus for 1 minute or until you strike a different creature with this weapon.
 
 **Aura**faint Protection;**CL**5th; Smith Magical Weapons And Armor, Protection sphere;**Price** +1 bonus
-
-### Professional [LG]
-
-**Source:** Arcforge Players Compendium
-
-A professional weapon has numerous additions or adjustments to make it functional outside of a combat context. The creator chooses a single Perform or Profession skill when creating this weapon. The weapon functions as a masterwork tool for that specific skill (adding a +2 circumstance bonus to the skill check) and adds its enhancement bonus as an insight bonus to that specific skill.
-
-**Aura**faint clairsentience or divination;**CL or ML**3rd; Craft Magic Arms and Armor; Enhancement sphere (Enhance Focus (enhance)) or judge;**Cost** +1,000 gp
-
-### Puncturing [LG]
-
-**Source:** Arcforge Players Compendium
-
-Projectiles fired with this weapon fly forward with immense power, piercing multiple targets. When making an attack with a puncturing weapon, make a single attack roll and compare that result to the ACs of all creatures in a line extending out to the weapon’s maximum range. This weapon damages all targets with an AC equal to or lower than the attack roll. However, if the attack’s damage fails to penetrate any target’s hardness, damage reduction, or energy resistance, this shot is blocked and cannot damage targets that are farther away.
-
-**Aura**strong psychokinesis or transmutation;**CL or ML**13th; Craft Magic Arms and Armor; Telekinesis sphere (Acceleration) or telekinetic force.;**Price** +3 bonus
 
 ### Radiant Edge
 
@@ -1382,14 +1165,6 @@ This special ability makes siege weapon ammunition more effective against sails 
 
 **Aura**faint Destruction;**CL**5th; Distill Compound, Destruction sphere (Explosive Orb (blast shape), Fire Blast (blast type, fire));**Price** +500 gp
 
-### Selective [LG]
-
-**Source:** Arcforge Players Compendium
-
-This special ability can only be applied to weapons which target an area, line, or cone with their attacks. When you make an attack which targets multiple creatures, you may choose not to attack a number of targets within the area, line, or cone equal to the weapon’s enhancement bonus. A weapon with this special ability is considered to have the scatterUC quality.
-
-**Aura**faint clairsentience or divination;**CL or ML**4th; Craft Magic Arms and Armor; War sphere (Totem Of Tactical Coordination (totem)) or deflect;**Price** +1 bonus
-
 ### Shade-Hexed
 
 A shade-hexed weapon feeds on darkness and is more powerful when wielded inside it, but is weaker when in areas of illumination. When in areas of darkness, shade-hexed weapons gain a +1 to their enhancement bonus (maximum +5), but they suffer a -1 to their enhancement bonus when wielded in areas of bright light. In areas of dim light or normal light their enhancement bonus is unchanged. A shade-hexed weapon with an effective enhancement bonus of 0 no longer counts as a magic weapon for bypassing damage reduction, but retains its +1 bonus to hit as a masterwork weapon.
@@ -1414,14 +1189,6 @@ Skeptical weapons help their wielder combat magical trickery. The wielder adds t
 
 **Aura**moderate Divination;**CL**8th; Smith Magical Weapons and Armor, Divination sphere;**Price** +1 bonus
 
-### Sniper [LG]
-
-**Source:** Arcforge Players Compendium
-
-Sniper weapons can fire at extreme ranges if special care is taken to aim them. If the wielder aims the weapon as a move action and then fires it on the same turn, the weapon’s range increment is increased by 250 feet for every point of the weapon’s enhancement bonus. This weapon special ability cannot be used in conjunction with scatter attacks.
-
-**Aura**faint clairsentience or divination;**CL or ML**7th Craft Magic Arms and Armor; Divination sphere (Viewing (divine)) or remote viewing.;**Price** +1 bonus
-
 ### Spell Stealing
 
 This special ability may only be applied to melee weapons.
@@ -1437,14 +1204,6 @@ This special ability may only be applied to melee weapons.
 A spell storing weapon allows a caster to store a single targeted sphere effect that does not cost a spell point, or a spell of up to 3rd level, in the weapon itself. (The spell or sphere effect must have a casting time of 1 standard action.) Anytime the weapon strikes a creature and the creature takes damage from it, the weapon can immediately use the sphere effect or cast the spell on that creature as a free action if the wielder desires. (This special ability is an exception to the general rule that creating a magical effect from an item takes at least as long as creating the magical effect normally.) Once the spell or sphere effect has been cast from the weapon, a caster can cast another targeted spell or sphere effect into it that fits the criteria listed above. The weapon magically imparts to the wielder the name and nature of the spell or effect currently stored within it. A randomly rolled spell storing weapon has a 50% chance of having a magic effect stored in it already.
 
 **Aura**faint Destruction + aura of any spell or sphere effect currently stored;**CL**5th; Smith Magical Weapons And Armor, Destruction sphere;**Price** +1 bonus
-
-### Subtle [LG]
-
-**Source:** Arcforge Players Compendium
-
-When this weapon makes an attack against a creature from Stealth, that creature must succeed at a Perception check to even feel that they have been touched or attacked (DC 15 -1 per point of damage dealt.
-
-**Aura** moderate illusion or telepathy; CL or ML 6th; Craft Magic Arms and Armor; Illusion sphereUSoP (SuppressionUSoP (glamer)) or cloud mindUP.; Price +2 bonus
 
 ### Tenebrous
 
@@ -1465,22 +1224,6 @@ When confirming a critical hit with a thirsty weapon against a creature that is 
 An umbral edged weapon’s blade is particularly effective at severing a target’s shadow. A creature using an umbral edged weapon only has to threaten a critical hit in order to activate the talent thief’s shadow theft ability (unchained rogue archetype) rather than successfully confirm a critical threat.
 
 **Aura**faint Dark;**CL**5th; Smith Magical Weapons And Armor, Dark sphere;**Price** +1 bonus
-
-### Vibrating [LG]
-
-**Source:** Arcforge Players Compendium
-
-Humming and shaking constantly, a vibrating weapon’s resonant capabilities enable it to tear through most materials. When making attacks or sunder attempts, a vibrating weapon ignores 2 points of hardness for every point of its enhancement bonus.
-
-**Aura**faint enhancement or metacreativity;**CL or ML**8th; Craft Magic Arms and Armor; Enhancement sphere (Deadly Weapon (enhance)) or matter agitation;**Price** +1 bonus
-
-### Wideshot [LG]
-
-**Source:** Arcforge Players Compendium
-
-This special ability can only be applied to weapons which have the burst, puncturing, or selective burst special abilities or otherwise possess the ability to attack in a line. When attacking in a line with a wideshot weapon, the line extends in both directions so that it is considered 15 feet wide. For an obstacle to block the path of a line, it must block the line’s full width; otherwise, the line continues (at full width) beyond the obstacle.
-
-**Aura**moderate conjuration or psychoportation;**CL or ML**9th; Craft Magic Arms and Armor; Warp sphere (Flex Space (space)) or flexible trajectory;**Price** +2 bonus
 
 ### Wild Critical [WM]
 
@@ -2006,9 +1749,9 @@ Craft Arms and Armor, Craft Wondrous Item, Creation Sphere, Expanded Materials; 
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 
@@ -2068,7 +1811,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -2168,7 +1911,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]] · (3PP)
 
 **Rules**
 

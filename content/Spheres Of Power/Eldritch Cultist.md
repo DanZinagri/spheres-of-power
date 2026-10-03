@@ -76,7 +76,7 @@ This modifies forbidden lore.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -102,7 +102,7 @@ This replaces immunity to disease.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

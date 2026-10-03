@@ -116,7 +116,7 @@ This replaces the second and third weapons selected for finesse training.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

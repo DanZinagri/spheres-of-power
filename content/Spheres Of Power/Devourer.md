@@ -72,7 +72,7 @@ At 10th level, the devourer may use this ability on any foe, not just living foe
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

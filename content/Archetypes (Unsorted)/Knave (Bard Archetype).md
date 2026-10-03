@@ -127,7 +127,7 @@ This replaces inspire heroics.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -116,7 +116,7 @@ A bound double-weapon must divide its enhancement bonuses and special abilities 
 | [[Weapons#New Weapon Special Abilities\|Arcing]][^13] | +1 bonus | [Blinding](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Blinding)[^14] | +1 bonus | [Bolstering](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Bolstering)[^15] | +1 bonus | [[Implements Staves (Caster LevelTalent Access)#Alerting\|Alerting]][^16] | +3 bonus |
 | [[Weapons#Arcing\|Avalanche]][^17] | +1 bonus | [Clangorous](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Clangorous)[^18] | +1 bonus | [Brawling](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Brawling)[^19] | +3 bonus | [[Implements Staves (Caster LevelTalent Access)#Bloodhound Gravecaller's HB\|Bloodhound]][^20] | +2 bonus |
 | [Benevolent](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Benevolent)[^21] | +1 bonus | [Deflecting](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Deflecting)[^22] | +1 bonus | [Deathless](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Deathless)[^23] | +1 bonus | [[Implements Staves (Caster LevelTalent Access)#Capacitance\|Capacitance]][^24] | +2 bonus |
-| [[Weapons#Armor Penetration LG\|Blast vessel]][^25] | +2 bonus | [[Armor#Explicating DRS\|Focusing]][^26] | +4 bonus | [Energy resistance (10, one element)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Energy%20Resistance)[^27] | +3 bonus | [[Implements Staves (Caster LevelTalent Access)#Carved\|Carved]][^28] | +1 bonus |
+| [[Weapons\|Blast vessel]][^25] | +2 bonus | [[Armor#Explicating DRS\|Focusing]][^26] | +4 bonus | [Energy resistance (10, one element)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Energy%20Resistance)[^27] | +3 bonus | [[Implements Staves (Caster LevelTalent Access)#Carved\|Carved]][^28] | +1 bonus |
 | [Corrosive](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Corrosive)[^29] | +1 bonus | [Fortification (heavy)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Fortification%20(heavy))[^30] | +5 bonus | [Energy resistance, improved (20, one element)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Energy%20Resistance)[^31] | +4 bonus | [[Implements Staves (Caster LevelTalent Access)#Equitable\|Equitable]][^32] | +1 bonus |
 | [Corrosive Burst](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Corrosive%20Burst)[^33] | +2 bonus | [Fortification (light)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Fortification%20(light))[^34] | +1 bonus | [Energy resistance, greater (30, one element)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Energy%20Resistance)[^35] | +5 bonus | [[Implements Staves (Caster LevelTalent Access)#Extra Sphere\|Extra sphere]][^36] | +1 bonus |
 | [Courageous](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Courageous)[^37] | +1 bonus | [Fortification (moderate)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Fortification%20(moderate))[^38] | +3 bonus | [[Armor#Explicating DRS\|Focusing]][^39] | +4 bonus | [[Implements Staves (Caster LevelTalent Access)#Girding\|Girding]][^40] | +2 bonus |
@@ -125,8 +125,8 @@ A bound double-weapon must divide its enhancement bonuses and special abilities 
 | [[Weapons#Blood Dowsing\|Decisive]][^49] | +2 bonus | [Impervious](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Impervious)[^50] | +1 bonus | [Fortification (moderate)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Fortification%20(moderate))[^51] | +3 bonus | [[Implements Staves (Caster LevelTalent Access)#Mesmerism\|Mesmerism]][^52] | +3 bonus |
 | [Defending](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Defending)[^53] | +1 bonus | [Merging](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Merging)[^54] | +2 bonus | [Ghost touch](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Ghost%20Touch)[^55] | +3 bonus | [[Implements Staves (Caster LevelTalent Access)#Reaving Gravecaller's HB\|Reaving (normal)]][^56] | +1 bonus |
 | [[Weapons#Bloodsong High. HB\|Destructive focus]][^57] | +1 bonus | [Mirrored](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Mirrored)[^58] | +1 bonus | [Grinding](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Grinding)[^59] | +1 bonus | [[Implements Staves (Caster LevelTalent Access)#Reaving Gravecaller's HB\|Reaving (greater)]][^60] | +3 bonus |
-| [[Weapons#Boosting LG\|Destructive focus, greater]][^61] | +2 bonus | [Ramming](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Ramming)[^62] | +1 bonus | [Invulnerability](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Invulnerability)[^63] | +3 bonus | [[Implements Staves (Caster LevelTalent Access)#Sanguine Gravecaller's HB\|Sanguine]][^64] | +1 bonus |
-| [[Weapons#Burst LG\|Dimensional]][^65] | +4 bonus | [Reflecting](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Reflecting)[^66] | +5 bonus | [Impervious](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Impervious)[^67] | +1 bonus | [[Implements Staves (Caster LevelTalent Access)#Sunset\|Sunset]][^68] | +1 bonus |
+| [[Weapons\|Destructive focus, greater]][^61] | +2 bonus | [Ramming](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Ramming)[^62] | +1 bonus | [Invulnerability](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Invulnerability)[^63] | +3 bonus | [[Implements Staves (Caster LevelTalent Access)#Sanguine Gravecaller's HB\|Sanguine]][^64] | +1 bonus |
+| [[Weapons\|Dimensional]][^65] | +4 bonus | [Reflecting](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Reflecting)[^66] | +5 bonus | [Impervious](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Impervious)[^67] | +1 bonus | [[Implements Staves (Caster LevelTalent Access)#Sunset\|Sunset]][^68] | +1 bonus |
 | [Distance](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Distance)[^69] | +1 bonus | [Spell resistance (13)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Spell%20Resistance%20(13))[^70] | +2 bonus | [Mind buttressing](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Mind%20Buttressing)[^71] | +2 bonus | [[Implements Staves (Caster LevelTalent Access)#Sustaining\|Sustaining]][^72] | +2 bonus |
 | [Driving](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Driving)[^73] | +1 bonus | [Spell resistance (15)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Spell%20Resistance%20(15))[^74] | +3 bonus | [Mirrored](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Mirrored)[^75] | +1 bonus | [[Implements Staves (Caster LevelTalent Access)#Vital\|Vital]][^76] | +2 bonus |
 | [[Weapons#Cord-Cutting Alienist HB\|Entangling]][^77] | +1 bonus | [Spell resistance (17)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Spell%20Resistance%20(17))[^78] | +4 bonus | [[Armor#Shaded (armor only)\|Shadow warded]][^79] | +1 bonus | [[Implements Staves (Caster LevelTalent Access)#Watchful\|Watchful]][^80] | +2 bonus |
@@ -136,7 +136,7 @@ A bound double-weapon must divide its enhancement bonuses and special abilities 
 | [Frost](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Frost)[^89] | +1 bonus |  |  | [Spell resistance (15)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Spell%20Resistance%20(15))[^90] | +3 bonus |  |  |
 | [Ghost touch](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Ghost%20Touch)[^91] | +1 bonus |  |  | [Spell resistance (17)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Spell%20Resistance%20(17))[^92] | +4 bonus |  |  |
 | [[Weapons#Decisive\|Howling]][^93] | +1 bonus |  |  | [Spell resistance (19)](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Spell%20Resistance%20(19))[^94] | +5 bonus |  |  |
-| [[Weapons#Destructive Focus\|Hungry]][^95] | +1 bonus |  |  | [[Armor#Spellroom LG\|Supplying]][^96] | +1 bonus |  |  |
+| [[Weapons#Destructive Focus\|Hungry]][^95] | +1 bonus |  |  | [[Armor\|Supplying]][^96] | +1 bonus |  |  |
 | [[Weapons#Destructive Focus, Greater\|Hypochondriac]][^97] | +1 bonus |  |  | [Titanic](https://www.aonprd.com/MagicArmorDisplay.aspx?ItemName=Titanic)[^98] | +3 bonus |  |  |
 | [Icy burst](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Icy%20Burst)[^99] | +2 bonus |  |  |  |  |  |  |
 | [Impervious](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Impervious)[^100] | +1 bonus |  |  |  |  |  |  |
@@ -148,20 +148,20 @@ A bound double-weapon must divide its enhancement bonuses and special abilities 
 | [Mighty cleaving](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Mighty%20Cleaving)[^106] | +1 bonus |  |  |  |  |  |  |
 | [[Weapons#Entangling\|Preventative]][^107] | +1 bonus |  |  |  |  |  |  |
 | [Quenching](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Quenching)[^108] | +1 bonus |  |  |  |  |  |  |
-| [[Weapons#Expanded Capacity LG\|Radiant edge]][^109] | +2 bonus |  |  |  |  |  |  |
+| [[Weapons\|Radiant edge]][^109] | +2 bonus |  |  |  |  |  |  |
 | [Reposition](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Repositioning)[^110] | +3 bonus |  |  |  |  |  |  |
 | [Returning](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Returning)[^111] | +1 bonus |  |  |  |  |  |  |
-| [[Weapons#Flexible LG\|Shadow wake]][^112] | +1 bonus |  |  |  |  |  |  |
+| [[Weapons\|Shadow wake]][^112] | +1 bonus |  |  |  |  |  |  |
 | [[Weapons#Fey-Forged\|Shadowstrike]][^113] | +2 (+3 ranged) |  |  |  |  |  |  |
 | [Shock](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Shock)[^114] | +1 bonus |  |  |  |  |  |  |
 | [Shocking burst](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Shocking%20Burst)[^115] | +2 bonus |  |  |  |  |  |  |
 | [Speed](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Speed)[^116] | +3 bonus |  |  |  |  |  |  |
 | [Thundering](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Thundering)[^117] | +1 bonus |  |  |  |  |  |  |
 | [Throwing](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Throwing)[^118] | +1 bonus |  |  |  |  |  |  |
-| [[Weapons#Hybridized LG\|Umbral edged]][^119] | +1 bonus |  |  |  |  |  |  |
+| [[Weapons\|Umbral edged]][^119] | +1 bonus |  |  |  |  |  |  |
 | [Vicious](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Vicious)[^120] | +1 bonus |  |  |  |  |  |  |
 | [Vorpal](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Vorpal)[^121] | +5 bonus |  |  |  |  |  |  |
-| [[Weapons#Injecting LG\|Windblast]][^122] | +2 bonus |  |  |  |  |  |  |
+| [[Weapons\|Windblast]][^122] | +2 bonus |  |  |  |  |  |  |
 | [Wounding](https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Wounding)[^123] | +2 bonus |  |  |  |  |  |  |
 
 [^1]: This ability can only be placed on melee weapons. Once per round, when the wielder damages a creature in melee with an advancing weapon, she can take a 5-foot step as a swift action after the attack but before the end of her turn. This movement does not count against her ability to move or take a 5-foot step earlier or later in the round, though using this ability imposes a –2 penalty on all attack rolls until the start of her next turn. This ability may not be used in conjunction with any other ability or effect that allows moving as part of an attack.
@@ -296,18 +296,6 @@ At 2nd level and every even-numbered level thereafter, the armorist gains an ars
 
 The armorist may bind an additional piece of equipment.
 
-#### Advanced Armaments [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist can call more advanced armor and weaponry. When using summon equipment to call weapons which would have an enhancement bonus, the armorist may reduce the enhancement bonus of the summoned weapon in order to call a weapon worth a number of enhancement bonus points equal to the value of enhancement bonus sacrificed from the soulknife’s **Emulate Technological Melee Weapon**or**Emulate Technological Ranged Weapon** blade skills table. The armorist cannot reduce a weapon’s enhancement bonus below +1.
-
-#### Agile Armor [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist’s bound and summoned gear gains the floating and landing special abilities. The armorist adds quickness (+1) to the list of special abilities she may add to her bound and summoned armor.
-
 #### Ammunition Specialist
 
 When the armorist summons a ranged weapon or calls a bound ranged weapon, she may summon non-basic ammunition. If it is a firearm it can be summoned with paper alchemical cartridges. Additionally, the armorist may summon up to 10 gp per armorist level of specialist ammunition; this ammunition replaces pieces of normal ammunition such that the summoned amount is still 50.
@@ -334,12 +322,6 @@ The armorist may boost their bound equipment. The armorist may use the same acti
 
 The armorist gains an animal, plant, or vermin companion, treating her armorist levels as druid levels for that purpose.
 
-#### Burdensome Attacks [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds gravitation (+3), mire (+1), and wrenching (+3) to the list of special abilities she may add to her bound and summoned weapons.
-
 #### Champion [CotS]
 
 The armorist gains a Champion feat of her choice as a bonus feat (see [[Champion Feats]]). She must meet the prerequisites of the feat. This arsenal trick can be gained multiple times.
@@ -359,12 +341,6 @@ When the armorist creates a bound weapon they may allow that bound weapon to als
 #### Combat Talent [CotS]
 
 You gain a bonus combat talent. This arsenal trick may be taken more than once, granting an additional talent each time.
-
-#### Consumptive Armaments [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds bodyfeeder (+3), mindfeeder (+3), mindspiking (+3), and soulbreaker (+3) to the list of special abilities she may add to her bound and summoned weapons. If she is wielding this equipment, she may use her own Death sphere save DC in place of the save DC listed in these special abilities.
 
 #### Crafter
 
@@ -390,33 +366,9 @@ The armorist adds dancing (+4), flying (+5), and animated (+2) to the list of sp
 
 The armorist’s bound and summoned weapons gain the tenebrous special ability. Her bound and summoned armor gains the shaded and shadow special abilities. The armorist may choose to give its bound and summoned weapons the shade-hexed special ability.
 
-#### Disruptive Defenses [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds gleaming (+3) to the list of special abilities she may add to her bound and summoned armor and greater murmuring (+2) and murmuring (+1) to the list of special abilities she may add to her bound and summoned armor and shields.
-
-#### Easy Armor [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds spellroom (+2) to the list of special abilities she may add to her bound and summoned armor and fusing (+1) to the list of special abilities she may add to her bound and summoned armor and shields.
-
-#### Energized Armaments [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds energized and hybridized to the list of special abilities she may add to her bound and summoned weapons, using the weapons’ normal bonus costs for whatever weapon and energy type are used.
-
 #### Energy Equipment
 
 The armorist adds brilliant energy (+4) and plasma blade (+3) to the list of special abilities she may add to her summoned and bound weapons.
-
-#### Executioner [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds coup de grace (+5), disruption (+2), and heart-piercing (+5) to the list of special abilities she may add to her bound and summoned weapons. If she is wielding this equipment, she may use her own Death sphere save DC in place of the save DC listed in these special abilities.
 
 #### Extradimensional Storage (Sp)
 
@@ -428,43 +380,13 @@ She may take this arsenal trick twice, which upgrades her spell-like ability to 
 
 The armorist gains the Advanced Armor Training feat, treating her armorist levels as fighter levels when meeting its prerequisites and determining its effects. She may take this arsenal trick multiple times, but this does not allow her to take Advanced Armor Training more than the feat usually allows (once per 3 fighter levels).
 
-#### Fully Loaded [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds automatic (+1), expanded capacity (+1), and greater expanded capacity (+2) to the list of special abilities she may add to her bound and summoned weapons.
-
 #### Greater Armor Training (requires armorist 3)
 
 The armorist’s armor check penalty is reduced by 1 (minimum 0) and increases the maximum Dexterity bonus allowed by her armor by 1. This arsenal trick may be taken multiple times, its effects stack with itself and the armor training class feature.
 
-#### Grenadier (requires armorist 6) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist may use summon equipment to summon an arc grenade, bang grenade, concussion grenade, EMP grenade, flash grenade, flechette grenade, fragmentation grenade, inferno grenade, soft grenade, or zero grenade in place of a weapon, shield, or suit of armor. These grenades gain enhancement bonuses as normal for summoned weapons, and the armorist may select grenades as bound equipment. Any grenades created through summon equipment have a saving throw DC of 10 + 1/2 the armorist’s level + her casting ability modifier in place of their normal DC.
-
-#### Grenadier, Experimental (requires armorist 10, grenadier) [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist may use summon equipment ability to summon an atom grenade, bio grenade, plasma grenade, gravity grenade, or sonic grenade.
-
 #### Group Summons
 
 The armorist may summon (or boost, if she is capable) multiple pieces of equipment at once, +1 per 2 armorist levels she possesses (minimum 1). The armorist may summon or boost multiple pieces of equipment on the same creature or onto multiple creatures, but the armorist must still be touching the creature or creatures to affect them. The armorist may grant different benefits to each summoned or boosted piece of equipment, but still spend a spell point for each summon or boost.
-
-#### Heavy Impact [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds collision (+2), psychokinetic (+1), and psychokinetic burst (+2) to the list of special abilities she may add to her bound and summoned weapons
-
-#### Heavy Ordnance [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds array (+1), burst (+1), exploding (+2), greater array (+3), and greater exploding (+3) to the list of special abilities she may add to her bound and summoned weapons. If she is wielding this equipment, she may use her own Destruction sphere save DC in place of the save DC listed in these special abilities.
 
 #### Heroic Equipment
 
@@ -500,12 +422,6 @@ The armorist may summon equipment or create bound equipment out of cold iron, si
 
 The armorist’s bound and summoned weapons gain the crackling special ability.
 
-#### Modification Expert [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist may add any number of weapon modifications to her bound or summoned weapons at a total cost of a +1 bonus to the weapon. She may increase the cost to +2 to retain proficiency with the weapon regardless of how many modifications are added.
-
 #### Morphic Weapon (Su)
 
 When summoning a weapon or a bound weapon, as part of the action required to summon it the armorist may merge that weapon with a limb capable of wielding a weapon as per the Graft Weapon trait of the Morphic Weapon Alteration talent.
@@ -525,36 +441,6 @@ The armorist may make a natural attack she possesses or her own unarmed strike i
 #### Oiled Equipment
 
 The armorist’s bound and summoned armors gain the creeping and slick special abilities.
-
-#### Overclocked Armaments (requires advanced armaments, armorist 10) [LG]
-
-**Source:** Arcforge Players Compendium
-
-When using advanced armaments to call non-bound technological weapons, the armorist may spend an additional spell point to increase the summoned weapon’s final enhancement bonus by 1, to a limit of the weapon’s normal maximum enhancement bonus. For example, a 12th-level armorist could use this ability to summon a +1 rail gun (which would normally be a +0 rail gun and could not be summoned), but not a +4 flare gun (since she cannot summon a +4 weapon at 12th level).
-
-#### Overload Specialist: [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds boosting (+1), conduit (+3), kicking (+2), and wideshot (+2) to the list of special abilities she may add to her bound and summoned weapons.
-
-#### Piercing Specialist [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds armor penetration (+1), and puncturing (+3) to the list of special abilities she may add to her bound and summoned weapons.
-
-#### Psibreaker [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds mindcrusher (+2), psibane (+2), and psychodisruptive (+3) to the list of special abilities she may add to her bound and summoned weapons. If she is wielding this equipment, she may use her own Mana sphere save DC in place of the save DC listed in these special abilities.
-
-#### Ramping Assault [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds furyborn (+2), linked striking (+2), and polarizing (+2) to the list of special abilities she may add to her bound and summoned weapons.
 
 #### Ranged Summons
 
@@ -582,12 +468,6 @@ The armorist may cause a piece of summoned or bound equipment to appear on or in
 
 Additionally, if she possesses the Variable Armaments feat, she may apply the benefits of any equipment tricks granting additional weapon special ability options to those available to her companion.
 
-#### Shattering Armaments [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds dissipaterUP (+1), sunderingUP (+1), and vibrating* (+1) to the list of special abilities she may add to her bound and summoned weapons.
-
 #### Shifting Weapon
 
 The armorist’s bound and summoned weapons gain the transformative and adaptive special abilities. She may take this arsenal trick twice. Doing so grants her bound and summoned weapons the greater transformative special ability.
@@ -600,41 +480,11 @@ The armorist’s implements gain the erudite special ability.
 
 The armorist’s summoned and bound armors gain the collapsible special ability. The armorist adds intercepting (+1) to the list of special abilities she can add to summoned and bound shields, and adds phasic (+2) to the list of special abilities she can add to summoned and bound weapons.
 
-#### Spelltank [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds radiant (+4) to the list of special abilities she may add to her bound and summoned armor and blastproof (+3) and mindarmor (+3) to the list of special abilities she may add to her bound and summoned armor and shields.
-
 #### Store Magic
 
 The armorist adds spell stealing (+3), and spell storing (+1), to the list of special abilities she may grant their bound and summoned weapons, and spell storing (+1) to the list for its summoned and bound armor. The armorist can store her own spells or sphere effects into weapons with spell storing as part of the process of summoning them.
 
 **Author's Note:** You may only store a spell or sphere effect as part of summoning a weapon once per round (even if you could summon more than one weapon per round).
-
-#### Tools of the Trade [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist’s bound and summoned weapons gain the professional special ability.
-
-#### Trick Shooter [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds flexible (+4), grazing (+2), and selective (+1) to the list of special abilities she may add to her bound and summoned weapons.
-
-#### Unseen Killer [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds injecting (+1), sniper (+1), and subtle (+2) to the list of special abilities she may add to her bound and summoned weapons. If she is wielding this equipment, she may use her own Illusion sphere save DC in place of the save DC listed in these special abilities.
-
-#### Vigilant Arsenal [LG]
-
-**Source:** Arcforge Players Compendium
-
-The armorist adds guardian (+1), and parrying (+1) to the list of special abilities she may add to her bound and summoned weapons and seeing (+1) to the list of special abilities she may add to her bound and summoned armor.
 
 #### Wand Implementation (requires armorist 5)
 
@@ -775,10 +625,6 @@ Living weapons can summon armor of pure magic, allowing them to focus on their w
 ## [[Martial Armorist]] [CS]
 
 The Martial Armorist blends magic and martial power together to create a more uniquely capable combatant
-
-## Nanocyte [CS] [LG]
-
-Incorporating high-tech nanomachines into their body and equipment, nanocytes sculpt their forms as easily as they shape their weapons and armor.
 
 ## [[Soaring Blade]]
 
@@ -1388,7 +1234,7 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -1472,9 +1318,9 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

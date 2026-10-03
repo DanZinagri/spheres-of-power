@@ -94,7 +94,7 @@ This replaces speak with animals of its own kind and scry on familiar.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

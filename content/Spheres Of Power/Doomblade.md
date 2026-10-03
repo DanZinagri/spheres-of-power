@@ -110,7 +110,7 @@ This replaces resist magic.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

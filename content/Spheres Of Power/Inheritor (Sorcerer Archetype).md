@@ -110,7 +110,7 @@ This replaces sorcerous blood.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -644,16 +644,6 @@ If two fissile creations explode during the same round, creatures in the overlap
 
 **Benefit:** When you create an object, you can make it weightless as the Lighten talent. If your floating creation is a 5-foot cube of solid matter as hard as stone or harder, each floating cube can support approximately 1,000 pounds of weight. Lighter materials can only support half as much weight, and some materials may not be able to support any, at the GM’s discretion.
 
-#### Force Creation Mastery (Dual Sphere) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Creation sphere, Telekinesis sphere, Forceful Creation, Kinetic Creation, caster level 7th.
-
-**Benefit:** Whenever you create an item out of telekinetic force using Kinetic Creation, you may initiate and maintain the Sustained Force or Bludgeon telekinesis abilities as part of creating the object using the Forceful Creation feat (you may use these feats in conjunction with this one even though they are dual sphere feats). In addition, whenever you Bludgeon a creature using an object of telekinetic force, you may cause it to deal force damage rather than its normal damage type. If you do, the maximum size of any item you create is reduced by 2 categories.
-
-**Special:** If you have the Enhanced Creation or Floating Creation feats, you may apply either talent to items you create out of telekinetic force even though you have already applied a dual sphere feat.
-
 #### Forceful Creation (Dual Sphere)
 
 **Prerequisites:** Creation sphere, Telekinesis sphere.
@@ -1411,7 +1401,7 @@ Characters who aren’t buried can dig out their friends. They may make a Streng
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

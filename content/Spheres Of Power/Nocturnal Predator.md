@@ -114,7 +114,7 @@ This replaces wild empathy, steal language, boundless communication, and endless
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

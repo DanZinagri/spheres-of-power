@@ -14,7 +14,7 @@ parent: "[[Thaumaturge]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-**Wiki Note:** This archetype should not be confused with the Pactmaker class or the Pact Magic system as a whole.
+**Wiki Note:** This archetype should not be confused with the  class or the  system as a whole.
 
 ### Pact Invocations
 
@@ -82,7 +82,7 @@ At 14th level, when using forbidden lore to augment a spell or sphere effect, th
 
 *Source: [Spheres of Power: Expanded Options](https://www.drivethrurpg.com/product/151284/Spheres-of-Power-Expanded-Options?affiliate_id=549120)*
 
-**Wiki Note:** This archetype should not be confused with the Pactmaker class or the Pact Magic system as a whole.
+**Wiki Note:** This archetype should not be confused with the  class or the  system as a whole.
 
 ---
 
@@ -156,7 +156,7 @@ This replaces occult knowledge.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

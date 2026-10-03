@@ -217,7 +217,7 @@ Capture Spell, Life Sphere, Mass Healing, Revitalize; **Cost** 500 gp
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

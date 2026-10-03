@@ -90,7 +90,7 @@ This replaces Alchemy.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

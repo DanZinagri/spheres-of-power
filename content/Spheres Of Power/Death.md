@@ -420,16 +420,6 @@ A soul's value can be used as currency when purchasing favors from outsiders or 
 
 When a being who has sworn an Oath of Loyalty dies, the being or organization which they have sworn the Oath of Loyalty to (referred to as the claimant) may claim the character's soul. A claimed soul cannot be resurrected by any means short of a wish or miracle spell (unless the claimant wishes otherwise) and the claimant is automatically aware of any successful resurrection of a soul they have claimed. A claimed soul resurrected in this way is considered to have forsworn any Oaths of Loyalty they have previously sworn.
 
-#### Cut The Cord [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Death sphere (Soul Trap (advanced)), caster level 15th.
-
-When using the Soul Trap talent to trap a soul, you may instead choose to sever it. You do not need a gemstone and do not capture its soul. Instead the creature can no longer be resurrected except by use of spells such as wish, miracle or true resurrection or talents such as Supreme Resurrection from the Life sphere.
-
-If your permanent caster level is at least 20, a creature whose soul has been severed can only be brought back to life with a wish, miracle or true resurrection if the soul is located (typically, the soul is hidden somewhere important to the original creature). Magical search by a crystal ball, a locate object spell, or other similar divinations (including most effects from the Divination sphere) does not reveal the fact that a creature’s soul is severed, but the wish, miracle, discern location or the Discern Location advanced talent do reveal the location of the severed soul. Even if the soul is located, attempting to resurrect the severed soul requires a successful magic skill check against 15 + your permanent caster level unless the effect comes from an artifact, deity, or mythic creature with more mythic tiers or ranks than you.
-
 #### Deadlord’s Reach (dominion) [DbH]
 
 **Prerequisites:** Death sphere (Icy Grip, any one (dominion) talent), caster level 5th.
@@ -533,16 +523,6 @@ In order to target yourself with a ghost strike, you must be able to clearly see
 
 As a standard action, you may target a conscious and willing creature with your ghost strike, and they immediately die without any pain or discomfort. However, for 1 day per caster level the creature is treated as having died for no more than 1 round for the purposes of the Resuscitate talent and other spells or abilities that are used to bring creatures back from the dead. While this effect lasts, the remains of the dead creature do not decay and cannot be reanimated by anyone but you without a successful magic skill check made against your MSD.
 
-#### Nothing Shall Bear Your Name [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Death sphere (Soul Trap (advanced)), Mind sphere (Inception (charm), Mass Charm, Powerful Charm), caster level 15th.
-
-When you use Cut The Cord* or Soul TrapUSoP on a creature, any recollection of the target is wiped from existence. Any memories including that target are revised such that no creature which can be affected by your charm ever recalls the target’s existence, their memories being revised as per the Inception greater charm (this effect functions even across planes). You can choose to exempt any number of creatures from the memory revisions of this talent.
-
-If you have the Witness Across Time advanced Time talent, you may choose to also affect all alternate timeline versions of the deceased creature you are aware of who had an equal number or fewer of Hit Dice and mythic ranks to the deceased creature with either Cut The Cord or Soul Trap, trapping or severing all of them. If using Soul Trap, all versions of the creature are trapped within the same gem and count as a single trapped soul. If using Cut The Cord, all versions of the creature’s soul are confined to a single timeline which one of them occupied.
-
 #### Permanent Undead
 
 **Prerequisites:** Death sphere (Sustained Necromancy), caster level 5th.
@@ -633,18 +613,6 @@ Once a spirit has been summoned, you may do any of the following:
 - You may use the spirit as a component when creating an animated object or undead creature (Will negates if unwilling; if the spirit succeeds at its save, it immediately returns to the afterlife as if it had made its original saving throw). You must create the undead creature or animated object as usual, but by placing the spirit into the target, the spirit is brought back to life within this new body. The object or undead creature gains the mental attributes, personality, memories, etc. of the selected spirit, but otherwise is normal for its new creature type. (At the GM’s discretion, a spirit bound to a permanent animated object or undead creature may recover or gain class levels over time, but loses at least 1 level per CR of its new form.) An undead creature or animated object created in this way is not automatically under your control.
 - If you possess the Resurrection advanced Life talent, you may place the spirit into a new body, bringing the soul back to life, even if you do not have the target’s body, it is missing vital components, or the target has been dead for longer than the time limit. You must possess either a soulless body (such as one created through the Fleshcraft and Create Materials advanced Creation talents), or else a body assembled from other, recently slain bodies. (Assembly requires either the target’s body with one additional body for every replaced vital component, or else a minimum of six different bodies—one for each limb, the torso including head, and the brain. In some cases, more bodies may be necessary. Special unguents and bindings worth 500 gp are also required.) You may bring the target back to life with the Resurrection advanced Life talent. The target retains its ability scores and class levels (even those dependent on blood, such as sorcerer levels) but its race and appearance depend on the body possessed.
 
-#### Temporal Projection [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Death sphere (Astral Projection (advanced), Astral Travel (advanced), Project Spirit (advanced)), Time sphere, caster level 20th.
-
-When you use Astral Travel to travel into the astral plane, you may spend 2 additional spell points (bringing the total to 5) to allow you and your allies to travel astrally to other points in time on the planes you enter. The alternate time period reached through Temporal Projection is an alternate timeline that is functionally identical to your own in all ways, meaning that you cannot change your current timeline’s history through your spirit or return to the same alternate timeline after the effect ends. You return to your original timeline when the effect ends or your new form is killed. Any objects you have brought from your original timeline return with you to the original timeline. Your Temporal Projection expires if it would be used to arrive at a point in time where another instance of your Temporal Projection is active.
-
-If you have the Witness Across Time advanced Time talent, you may use Temporal Projection to project your spirit into a specific alternate timeline you are aware of.
-
-If you have the Possession advanced Death talent and project your spirit into a timeline where an alternate version of yourself exists, you may automatically possess that alternate version of yourself. The alternate version is not allowed a saving throw to resist this possession and you may continue to possess the body for the duration of your spirit projection.
-
 #### Voluble Gravetongue [utility] [SM—]
 
 **Source:** Baron’s Imposing Mausoleum
@@ -652,14 +620,6 @@ If you have the Possession advanced Death talent and project your spirit into a 
 **Prerequisites:** Death Sphere (gravetongue)
 
 When a creature adjacent to you or within range of your Dominion talents dies, you may ask it a single question as if you were under the effects of Gravetongue as a free action. In addition, when you use Gravetongue, you may receive all answers immediately and telepathically (removing the need for the body to have intact vocal structures) and the dead creature gains no saving throw against this effect.
-
-#### Written Out Of History [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Death sphere (Cut The Cord (advanced), Nothing Shall Bear Your Name (advanced), Soul Trap (advanced)), Mind sphere (Inception (charm), Mass Charm, Powerful Charm), Time sphere, Warp sphere (Distant Teleport, Timeline Drift (advanced), Time Warp (advanced), True Teleport (advanced), Unseeing Teleport), caster level 20th.
-
-When you use Cut The Cord in conjunction with Nothing Shall Bear Your Name on a deceased creature, you may rewrite history so that the target never existed in the first place. You create a new timeline where the deceased creature never existed or affected events and transport yourself and up to one other creature per caster level to this new timeline. Only the creatures transported from the old timeline recall the original creature that was erased and the actions that they took.
 
 ---
 
@@ -757,12 +717,6 @@ Weakened bodies make for easy targets for your death effects.
 
 **Benefit:** Creatures that are fatigued or exhausted take a -2 penalty on saving throws against death effects originating from you.
 
-#### Eldritch Animation [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Benefit:** Undead creatures you create gain channel resistance +4 or increase their existing channel resistance by +2 (whichever provides a higher bonus) against all effects from a source other than you.
-
 #### Extradimensional Gullet (Combat) [Alienist HB]
 
 **Prerequisites:** Swallow whole, Alteration sphere (Serpentine Transformation (transformation)), or Death sphere (Tomb Of Flesh); Warp sphere (Extradimensional Room (space)).
@@ -790,13 +744,6 @@ You can make ghost strikes in a variety of configurations.
 **Prerequisites:** Death sphere, Destruction sphere (one (blast shape) talent).
 
 **Benefit:** You can apply (blast shape) talents to your ghost strikes as if they were destructive blasts. They still count as a ghost strike for all purposes, and they use your caster level for the Death sphere to determine all parameters (range, area, etc.). If the ghost strike does not allow a saving throw, your target is allowed a Will save to negate its effects.
-
-#### Fortified Corpsecraft [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Ability to create undead creatures.
-**Benefit:** Any undead creature that you create gains a +2 enhancement bonus to natural armor, as well as DR/good equal to 1/2 your caster level (if you do not have a caster level, instead use your Hit Dice -2 as your caster level). If an undead creature already possesses better damage reduction, that damage reduction becomes DR/good if you so choose.
 
 #### Lifebound Auspician [Gravecaller's HB]
 
@@ -869,14 +816,6 @@ Your revenant-like anger fuels you even in death, granting you one last chance t
 When the duration expires (assuming you were not destroyed while a fast zombie), you are returned to life with -1 hit points (stable), gaining 2 temporary negative levels that last 24 hours.
 
 You must have at least one round of rage remaining to use this ability, and you can only use this ability once per day.
-
-#### Revenant Militia [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Ability to create undead creatures.
-
-**Benefit:** For every 4 racial HD an undead creature you create possesses, it gains a +1 bonus on attack rolls.
 
 #### Soul Seer [Archmagi's HB]
 
@@ -1953,7 +1892,7 @@ Wrestling with the complicated ethical questions or reveling in the moral gray a
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

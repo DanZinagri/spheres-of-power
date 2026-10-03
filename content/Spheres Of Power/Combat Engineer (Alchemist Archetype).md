@@ -206,7 +206,7 @@ This replaces instant alchemy, mutagen, persistent mutagen, poison immunity, poi
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

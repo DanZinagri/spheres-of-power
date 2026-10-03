@@ -194,16 +194,6 @@ If the talent does not allow a save, the target can attempt a Will save to negat
 
 **Cost:** +1 spell point
 
-### Energized Spell (Metamagic) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Ability to channel positive or negative energy.
-
-**Benefit:** When you cast an energized spell, you may expend one use of your channel energy ability to have the spell deal positive energy damage (which heals living creatures and harms undead) or negative energy damage (which heals undead creatures and harms living ones), corresponding to a type of energy you are capable of channeling.
-
-**Cost:** +1 spell point
-
 ### Enlarging Spell (Metamagic)
 
 **Benefit:** You can alter a talent with a range of close, medium, or long to increase its range by 100%. An enlarged talent with a range of close now has a range of 50 feet + 5 feet/level, while medium-range spells have a range of 200 feet + 20 feet/level and long-range spells have a range of 800 feet + 80 feet/level. Talents whose ranges are not defined by distance, as well as talents whose ranges are not close, medium, or long, do not benefit from this effect.
@@ -295,23 +285,6 @@ Your magic is not troubled by the endeavors of the weak.
 **Benefit:** An intuitive talent can be cast with no mental focus (as required by the Mental Focus drawback). Talents that do not normally require mental focus are not affected.
 
 **Cost:** +1 spell point
-
-### Irradiating Spell (Metamagic) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Benefit:** Any creature affected by an irradiating spell must succeed at a Fortitude save or contract radiationTG of a certain level. The Fortitude save and level of radiation are based on the level of the spell (if using spell slots) or MSB/power points (if using spell points/psionics). See**Table: Irradiating Power/Spell Values**.
-
-**Cost:** +3 spell points
-
-**Table: Irradiating Power/Spell Values**
-
-| MSB | Radiation Level | Radiation save DC | Primary Effect | Secondary Effect |
-| --- | --- | --- | --- | --- |
-| 0-6 | Low | 13 | 1 Con drain | 1 Str damage/day |
-| 7-12 | Medium | 17 | 1d4 Con drain | 1d4 Str damage/day |
-| 13-16 | High | 22 | 2d4 Con drain | 1d6 Str damage/day |
-| 17+ | Severe | 30 | 4d6 Con drain | 2d6 Str damage/day |
 
 ### Lingering Spell (Metamagic)
 
@@ -523,14 +496,6 @@ Magical light sources only increase the light level in an area affected by an um
 
 **Cost:** +2 spell points
 
-### Void Spell (Metamagic) [LG]
-
-**Source:** Arcforge Players Compendium
-
-Benefit: You may cast a void spell in any environment even where nonmagical environment abnormalities would make it impossible or cause it to immediately end, such as casting a fire spell in the void of space. This does not allow you to overcome the magic traits of a location (such as dead magic).
-
-**Cost:** +1 spell points
-
 ### Widen Spell (Metamagic)
 
 **Benefit:** You can alter a burst, emanation, or spread-shaped spell to increase its area. Any numeric measurements of the spell’s area increase by 100%. Spells that do not have an area of one of these sorts are not affected by this feat. (Cones, lines, and spheres are emanations.)
@@ -633,7 +598,7 @@ If you are playing with alignment descriptors, sphere effects and spells modifie
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

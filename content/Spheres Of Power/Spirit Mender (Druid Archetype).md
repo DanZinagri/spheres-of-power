@@ -245,7 +245,7 @@ This modifies trackless step.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

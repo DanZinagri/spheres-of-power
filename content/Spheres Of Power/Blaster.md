@@ -134,7 +134,7 @@ This replaces the summon equipment class feature.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -165,7 +165,7 @@ This replaces spellsword.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

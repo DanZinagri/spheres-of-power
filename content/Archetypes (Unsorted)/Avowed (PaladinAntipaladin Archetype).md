@@ -286,22 +286,6 @@ Forsaking a traditional moral stance, those who make the pledge of legends vow t
 
 **Idyllis (Su):** At 20th level, the avowed chooses one consecration she knows. This must be a consecration with a duration and that does not cost a spell point to create. The chosen consecration is continuously active with no need to concentrate on it. Each day when she regains spell points she may choose a different consecration she knows to become continuously active, in which case the previous consecration ends.
 
-### Pledge of Many [LG]
-
-**Source:** Arcforge Players Compendium
-
-There are some goals which require serving more than a single ideal and challenging more than a single enemy. Those under a pledge of the many learn to access insight from many different places and explore the nuances of empowerment and reduction. In time, they learn to adapt the tools of their pledge to overcome unexpected obstacles and foes.
-
-**Nuances of Belief (Ex):** At 1st level, the avowed gains Knowledge (religion) as a class skill and a bonus on Knowledge (religion) checks equal to half her avowed level.
-
-**Aura of Assertion (Su):** At 3rd level, the avowed radiates an aura that bolsters allies and deters enemies. Each ally within 10 feet gains a +2 morale bonus on saving throws against fear effects. Enemies within 10 feet take a –2 penalty on saving throws against fear effects. This ability functions only while the avowed is conscious, not if she is unconscious or dead.
-
-**Adaptive Smite (Su):** At 6th level, the avowed may smite targets that are not opposite of her pledge alignment. When she does, the damage bonus from smite is halved against the target.
-
-**Aura of Direction (Su):** At 8th level, enemies within 10 feet of the avowed take a –1 penalty on all saving throws. All allies within 10 feet gain a +1 bonus on all saving throws. This ability functions only while the avowed is conscious, not if she is unconscious or dead.
-
-**Manifold Champion (Su):** At 20th level, the damage reduction from the avowed’s paladin or antipaladin class features is replaced with DR 10/-. In addition, the avowed’s damage bonus from smite is no longer halved against targets not opposite to her pledge alignment.
-
 ### Pledge of Order
 
 “You are under arrest for breaching the Yaledian code of conduct, please raise your hands in the air and refrain from any unneeded spell casting or movement.” - A typical request made by Yaledian law enforcement, usually met with hostility.
@@ -356,9 +340,9 @@ A paladin or antipaladin with the avowed archetype may replace the class feature
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 
@@ -404,7 +388,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · Pilot (3PP)
+[[Wrestling]] · (3PP)
 
 **Rules**
 
@@ -470,7 +454,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

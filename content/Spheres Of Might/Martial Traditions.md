@@ -792,12 +792,6 @@ You do not gain skill ranks or any other bonuses from your Athletics sphere pack
 
 You do not gain a package. You gain Close Quarters Training with this drawback. You cannot gain packages via talents, and (motion) talents can only be used with 1 movement mode you possess, chosen when the talent is gained.
 
-#### Magnetic Maneuvers [LG]
-
-**Source:** Arcforge Players Compendium
-
-You only benefit from your Athletics packages while moving along a metal or otherwise magnetic surface. You gain either Sure Grip or Tumbling Recovery with this drawback.
-
 #### Risky Escape [SA:MD2]
 
 You do not gain the coordinated movement ability. You gain Reflexive Twist with this drawback.
@@ -861,12 +855,6 @@ You do not gain the brutal breaker ability. You cannot possess this drawback if 
 You do not gain the hard drinker ability, and cannot gain the drunk status or select (drunk) talents. You gain Improvised Shield with this drawback.
 
 **Incompatible:** Alcoholic, Broken Arms, Gourmand, Perpetual Drunk, Teetotaler.
-
-#### Junkie [LG]
-
-**Source:** Arcforge Players Compendium
-
-You do not gain the drunk status from conventional alcoholic drinks but only from a specific drug of your choice (or other drugs at GM discretion). You gain Chasing the Dragon as a talent from this drawback.
 
 #### Perpetual Drunk [SA:MD]
 

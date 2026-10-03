@@ -166,7 +166,7 @@ Physical matter can not exist within the kingdom, save for the personal possessi
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

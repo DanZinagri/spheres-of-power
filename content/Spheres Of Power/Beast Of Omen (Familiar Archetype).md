@@ -70,7 +70,7 @@ This ability replaces share spells.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

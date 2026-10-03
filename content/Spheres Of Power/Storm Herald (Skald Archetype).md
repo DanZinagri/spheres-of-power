@@ -150,7 +150,7 @@ This replaces damage reduction and the rage power granted at 9th level.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

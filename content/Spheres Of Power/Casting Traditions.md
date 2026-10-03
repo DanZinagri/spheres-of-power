@@ -500,14 +500,6 @@ You must prepare your magic before you can use it. After resting to regain spell
 
 **Author's Note:** Temporary spell points interact poorly with prepared casting. A caster with prepared casting assigns how many spell points they can spend on each sphere when they rest and regain spell points. Notably, temporary spell points would generally be spent towards this daily limit. Consult your GM if looking to make temporary spell points work with the Prepared Casting drawback.
 
-#### Planebound Magic [LG]
-
-**Source:** Arcforge Players Compendium
-
-Your magical power is restricted to a realm outside of normal reality, typically in an extraplanar or virtual existence. Choose a plane other than the Material Plane or your native plane. When you attempt to use a magic sphere effect on any other plane, you must succeed at a Knowledge (planes) check to use any sphere ability. The DC of this skill check is 15 + the ability’s caster level. On a failure, the sphere effect fails.
-
-This drawback counts as 2 drawbacks for the purposes of determining the number of spell points gained.
-
 #### Ramp Up [SM—]
 
 **Source:** Card Casting 2: Counters and Control
@@ -515,12 +507,6 @@ This drawback counts as 2 drawbacks for the purposes of determining the number o
 You may not spend any spell points until your second turn of combat, at which point the number of spell points you may spend per round increases to 1. The amount of spell points you may spend each round increases by 1 for each successive round thereafter. You may attempt to create a magic sphere effect that costs more spell points than your limit by succeeding at a concentration check (DC 15 + your caster level + 2 for every spell point spent above your limit), with failure causing you to lose the effect. Outside of combat, your limit is considered to be 0
 
 **Incompatible:** Card Casting (Mana Pool)
-
-#### Restricted Channels [LG]
-
-**Source:** Arcforge Players Compendium
-
-Only a limited portion of your magic can be diverted to its most potent or limited effects. You cannot spend more than ½ your total spell points per day on effects that cost 1 spell point. You cannot spend more than 1/X of your total spell points per day on effects that cost 2 or more spell points, where X is the spell point cost of the effect (for example, only 1/5 of your spell points per day may be spent on effects which cost 5 or more spell points).
 
 #### Rigorous Concentration
 
@@ -1388,26 +1374,6 @@ Your aegis takes the form of an energy shield that you use to intercept attacks.
 
 **Incompatible:** Crystalline, Luminous, Second Skin
 
-### Technomancy [LG]
-
-**Source:** Arcforge Players Compendium
-
-#### Machine Gremlin
-
-Your sprites cannot be used to enhance machinery. You cannot use the Boost program with your sprites.
-
-#### Outmoded Encroachment
-
-The hazardous effects of your sprites are stopped by commonplace countermeasures. You cannot use the Drain and Interfere programs with your sprites.
-
-#### Relic Wielder
-
-Your ability to interfere with magical equipment does not extend to technological devices. You cannot use your Technomancy sphere abilities to affect technological items. You must select the Relic Manipulation advanced talent with this drawback.
-
-#### Volatile Sprites
-
-Your sprites cause machines to act erratically. You gain Glitch-Prone Sprites as a bonus talent, but all of your sprite hosts are always considered timeworn for the purpose of triggering glitches. This drawback does not grant any additional bonus talents.
-
 ### [[Telekinesis]]
 
 #### Directional Control
@@ -2159,15 +2125,6 @@ Hidden within the ramblings of the insane, one word is often repeated. Some heal
 **Drawbacks:** Addictive Casting, Verbal Casting, Wild Magic
 **Boons:** Easy Focus, +1 spell point, +1 per 6 levels in casting classes.
 
-#### Akashic Tech [LG]
-
-**Source:** Arcforge Players Compendium
-Akasha on Vandara represents a refined integration of technological and magical knowledge, a tool metaphysically sculpted onto its user to augment their abilities.
-
-**Casting Ability Modifier:** Charisma, Intelligence, or Wisdom
-**Drawbacks:** Akashic Spells, Clarke Compliance, Imbued Power x2, Incompatible Energies, Magical Signs
-**Boons:** Alien Source (Technomancy), Essence Empowerment, Essence Pool (2 drawbacks)
-
 #### Apothecary
 
 Apothecaries are masters of tinctures and tonics, who are capable of turning mere bottles of water or pinches of salt into potions and magic powders. Unlike the academic alchemists of the larger cities, apothecaries usually set up shop in country towns, learning as much from experimentation and tradition as they do from their teachers.
@@ -2486,15 +2443,6 @@ Pact Magic focuses on summoning beings to cast magic on the user’s behalf. Hav
 **Casting Ability Modifier:** Charisma
 **Drawback:** Addictive Casting
 **Boon:** Easy Focus
-
-#### Qlippoth Psionics [LG]
-
-**Source:** Arcforge Players Compendium
-The psionic power of the Qlippoth and their progeny relies heavily upon technological influences that are prone to momentarily distorting the surrounding environment. These powers often demand great concentration to properly enunciate
-
-**Casting Ability Modifier:** Charisma, Intelligence, or Wisdom
-**Drawbacks:** Clarke Compliance, Magical Signs, Mental Focus, Incompatible Energies
-**Boons:** Alien Source (Technomancy), +1, +1 per 3 levels in casting classes.
 
 #### Runist
 
@@ -4065,7 +4013,7 @@ Whenever the caster gains a level in a casting class, they must decide which of 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

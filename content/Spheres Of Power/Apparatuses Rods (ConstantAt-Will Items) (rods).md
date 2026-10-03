@@ -1800,7 +1800,7 @@ Craft Apparatus, Dazing Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal), 3
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

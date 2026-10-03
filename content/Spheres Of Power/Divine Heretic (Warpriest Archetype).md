@@ -114,7 +114,7 @@ This replaces aspect of war.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

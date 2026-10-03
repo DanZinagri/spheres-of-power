@@ -116,7 +116,7 @@ This ability replaces perfect self.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

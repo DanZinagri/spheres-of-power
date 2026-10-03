@@ -842,14 +842,6 @@ Sphere effects modified with this feat are still treated as the original talent 
 
 **Source:** Card Casting 2: Counters and Control
 
-#### Sacrosanct Firewall (Dual Sphere) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Fate sphere (Hallow (word)), Technomancy sphere.
-
-**Benefit:** Targets affected by your Hallow (word) cannot have sprites enter them unless you allow those sprites to enter. If the target already contains one or more sprites, the creator of those sprites must succeed at a magic skill check against your MSD in order to execute any programs.
-
 #### Sanctified Vigilance (Dual Sphere)
 
 **Prerequisites:** Fate sphere, War sphere (any (rally) talent).
@@ -863,14 +855,6 @@ Sphere effects modified with this feat are still treated as the original talent 
 **Prerequisites:** Death or Fate sphere
 
 **Benefit:** Whenever you are rendered helpless or a creature kills you, you can create a single sphere effect with the curse descriptor as an immediate action before you become helpless or are killed. The curse cannot require a time longer than a standard action to use and must target the creature who rendered you helpless or who killed you. If the curse has a range of touch and the attacker is not within your reach, you can deliver it as a ranged touch attack with a range of close.
-
-#### Technoethical Assertion [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Fate sphere.
-
-**Benefit:** Choose an alignment. For the purpose of your Fate sphere abilities, you may treat all robots, technological constructs, partially technological creatures such as androids and cyborgs, and any creature wielding technological equipment or gizmos as being of that alignment.
 
 #### Whole-Set Blast (Dual Sphere) [3PP]
 
@@ -1835,7 +1819,7 @@ The Parzivalian Knight is an archetype for the Paladin that lets them use belief
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

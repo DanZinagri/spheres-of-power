@@ -631,39 +631,6 @@ By concentrating fully on the effect (a standard action), you can receive full s
 
 If you do not spend at least 1 round concentrating on the creature each day, the subject receives a new saving throw to throw off your control.
 
-#### Mindscape (charm) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Mind sphere.
-
-You shape a target’s thoughts into an ethereal space for engagement.
-
-**Lesser Charm:** You learn if a creature’s consciousness is in a mindscape. You sense anything that they sense inside the mindscape, but cannot alter the mindscape or communicate with the individual inside without the aid of another ability.
-
-**Greater Charm:** You create a binary mindscape and initiate a psychic duel with the target (Will negates). This mindscape includes only two minds: yours and the target’s. This charm ends and both minds return to their respective bodies if one of you drops below 0 hit points or if both of you agree to end the psychic duel (a free action that you can perform even if it is not your turn). You must succeed at a Will save to escape your own psychic duel if your opponent does not want to allow you to leave. Certain talents can also free you from the mindscape.
-A binary mindscape is clearly a fabrication of the cater’s imagination, and disbelieving the mindscape does not alter how the mindscape works. This charm ends at any time that you choose to depart the mindscape, freeing the target as well. Any creature that drops below 0 hit points while inside the mindscape returns to its body. If this happens to you, the charm also ends, freeing anyone still inside. This charm cannot be used with the Mass Charm talent or similar effects that allow for multiple targets if you create a binary mindscape.
-
-**Powerful Charm:** As greater charm, save that you may exist simultaneously in and outside the mindscape once you enter it. You may take a full round’s worth of actions inside the mindscape as well as outside the mindscape, and do not take any penalties to AC outside of the mindscape while engaged in a psychic duel.
-
-#### Mindscape Configuration [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Mind sphere (Mindscape (advanced, charm)), caster level 5th.
-
-You learn to manipulate mindscapes in a variety of ways.
-
-**Dream Distortion:** By spending an additional spell point when using the mindscape charm or any of the abilities in mindscape configuration, you may affect a dreamscape as if it were a mindscape.
-
-**Immersive Mindscape:** When using the greater or powerful charm versions of mindscape, you may spend an additional spell point to create an immersive mindscape in place of a binary mindscape. You are allowed to control whether this mindscape is overt or veiled, as well as whether it is harmful or harmless. You may also determine the shape, size, and gravity of the mindscape. You must also create a method of exit from the mindscape when you manifest this power, and that method must be possible to achieve based on the traits of the mindscape, even if it is obscure or difficult. The GM decides whether a method of escape is reasonable. Anything that would be a reasonable method of waking from a dream during deep sleep could allow one to leave a mindscape. If you choose to create a veiled mindscape, the first time another creature interacts with the environment, it can attempt a Will save to disbelieve the effect. Disbelieving a mindscape reveals to that creature that it is within a mindscape and gives it the knowledge needed to leave the mindscape, but does not free it from the mindscape. If you possess the Create Demiplane talent from the Warp sphere, you may alter the magic traits of this mindscape as you could with a demiplane.
-
-**Mindscape Door (requires Warp sphere):** While inside a mindscape, you may teleport eligible targets from the mindscape into other planes. If you are in a binary mindscape, you may teleport yourself out of the mindscape back into your body even though you cannot normally create magic sphere effects in a binary mindscape. In addition, if you can teleport into a space which contains a creature whose mind is in a mindscape, you may choose to teleport a target into their mindscape. If you attempt to use this augment to make a target enter a binary mindscape, one creature of your choice inside the binary mindscape is allowed a Will save against your warp sphere DC, being shunted out of the mindscape on a failed save. The two creatures who remain resume any ongoing psychic duel with the remaining participant if the creature fails its save, but the entering creature is shunted out if the ejected creature succeeds.
-
-**Mindscape Entity (requires Illusion sphere):** By spending 1 spell point while in an immersive mindscape, you may infuse the mindscape with an illusory creature which acts believably on all accounts, plus an additional creature for every additional spell point spent. The creatures may be created anywhere in the mindscape, and may take any form. You automatically sense anything that the creatures sense and may direct the creatures to act in whatever manner you wish. The creatures last as long as the mindscape does, but you may eliminate any creature you create as a free action. Individuals who interact with the creatures are allowed a Will save against your Illusion DC to recognize them as illusions. If you use this ability while outside of a mindscape, you may generate your creations inside of the mindscape of a creature within range of your charm. The creator of this mindscape is allowed a Will save to prevent you from sending one or more creatures into their mindscape.
-
-**Mindscape Probe (requires Divination sphere):** While you are affecting a creature with the lesser charm version of mindscape, you may use any (divine) effects as if you were in the creature’s location in the mindscape. This does not allow you to cast any non-(divine) magic effects in a binary mindscape.
-
 #### Psychic Backlash [Alienist HB]
 
 **Prerequisites:** Mind sphere (Psychic Vengeance).
@@ -841,14 +808,6 @@ Your escape masks any memory of your presence.
 
 **Benefit:** The penalty from Pressure Point Proficiency increases to -2 if you successfully hit the target a second time in the same round.
 
-#### Program Puppeteer (Dual Sphere) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Mind sphere, Technomancy sphere.
-
-**Benefit:** You may treat any construct which is acting as a host of one of your sprites and any AI installed in your sprite’s host as having a living mind for the purpose of being able to affect it with your Mind sphere abilities, ignoring their immunity to mind-affecting effects. In addition, you may create sprites in and move sprites into any creatures which can be affected by your charms. Such creatures may be affected by your sprites as if they were constructs.
-
 #### Silver Tongue
 
 **Prerequisite:** Mind sphere.
@@ -869,47 +828,7 @@ Your escape masks any memory of your presence.
 
 **Benefit:** Creatures taking bleed damage suffer a -2 penalty to saves against your Mind sphere abilities. Creatures under the effect of one of your non-harmless Mind sphere effects count as being below half their hit points for the purpose of determining saving throw penalties against your Blood sphere abilities.
 
-#### Watchful Manipulator (Dual Sphere) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Divination sphere (Prying Sight (sense)), Mind sphere.
-
-**Benefit:** When a creature fails a saving throw against your charm, you may spend a spell point to also target them with the Prying Sight (sense) talent to perceive through their senses. This (sense) lasts for the duration of the charm.
-
 ---
-
-## Psychic Dueling with Psionics and Magic Spheres [LG]
-
-**Source:** Arcforge Players Compendium
-
-In a manner similar to psychic mages, psionicists and spherecasters are capable of projecting their minds onto the universe to create quasi-real planes known as mindscapes. The following rules are added in addition to the rules from psychic dueling introduced in Occult Adventures.
-
-#### Psionic and Sphere Abilities in a Duel
-
-For the purpose of use, a psionic character retains their psionic focus while in a psychic duel, and may expend or regain it while in the duel.
-
-The solicit psicrystal power and similar effects which transfer concentration may be used inside of a mindscape to transfer concentration on a thoughtform creature over to another target.
-
-The maximum number of manifestation points a combatant can spend when creating a manifestation is equal either to the highest-level spell the combatant can cast, half the combatant’s manifester level, half the combatant’s spheres caster level, or 1/4 the combatant’s HD (minimum 1 for all and maximum 5 for HD), whichever is higher. A character may use items or other temporary effects to increase their caster or manifester level when creating a manifestation.
-
-Offensive manifestations created using MP from power points, psi-like abilities, or psionic focus use d8s to determine damage. What type of die an offensive manifestation generated with MP gained through spell points uses is dependent on the casting tradition from which the spell points generating the MP come from.
-
-- Casting traditions which include Emotional CastingU, Mental Focus, Rigorous Concentration, Unsettling Casting, or other drawbacks or boons at GM discretion generate MP that creates d8s for offensive manifestations.
-- Casting traditions which do not include the previous drawbacks but include Somatic Casting or other drawbacks or boons at GM discretion generate MP that creates d6s for offensive manifestations.
-- All other casting traditions generate MP that creates d4s for offensive manifestations
-
-#### Generating Manifestation Points
-
-In addition to the normal methods of generating manifestation points, a psionic character may generate manifestation points using the following methods.
-
-- **Generating MP from Martial Focus:** As a free action, a combatant may expend martial focus to generate 3 MP.
-- **Generating MP from Martial Maneuvers:** As a free action, a combatant may expend a prepared maneuver to generate 3 MP.
-- **Generating MP from Outwitting:** As a free action, a combatant may outwit another combatant as a cost to generate 3 MP.
-- **Generating MP from Power Points:** As a free action, a combatant may expend power points to generate MP. The combatant generates 1 MP for every 2 power points they expend, to a maximum number of power points spent equal to their manifester level. If the combatant is part of a Metaconcert power or other effect which shares a power point reserve with other creatures or items, he may draw power points from these other sources as well as his own reserve.
-- **Generating MP from Psionic Focus:** As a free action, a combatant may expend psionic focus to generate 3 MP.
-- **Generating MP from Psi-Like abilities:** A combatant can sacrifice a use of a psi-like ability in a way similar to sacrificing spell-like abilities to generate MP. This generates an amount of MP equal to half the manifester level of the psi-like ability +1. However, each at-will psi-like ability can be sacrificed only once during a single psychic duel; it is not a source of infinite MP.
-- **Generating MP from Spell Points:** As a free action, a combatant may expend a spell point to generate MP. The combatant generates 1 MP for every spell point spent plus an additional MP for every 4 points of MSB they possess. If the combatant is part of a manabond or other effect which shares a spell point reserve with other creatures or items, he may draw spell points from these other sources as well as his own reserve.
 
 ---
 
@@ -1713,7 +1632,7 @@ Finally, the knowledge of an individual’s dreamscape is a powerful thing in th
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

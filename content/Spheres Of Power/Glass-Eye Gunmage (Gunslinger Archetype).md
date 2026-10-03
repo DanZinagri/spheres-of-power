@@ -100,7 +100,7 @@ This ability replaces the gunslinger’s bonus feats.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

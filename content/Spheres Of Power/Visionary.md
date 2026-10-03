@@ -72,7 +72,7 @@ This replaces the haunt channeler class feature.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

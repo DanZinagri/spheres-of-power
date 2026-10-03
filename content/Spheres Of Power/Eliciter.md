@@ -428,10 +428,6 @@ Hypnotists can manipulate their own mind to provide flashes of insight.
 
 Ids focus on their emotions to the exclusion of other mental powers.
 
-## Proclaimer [CS] [LG]
-
-Proclaimers use their manipulative arts to tap into grand visions of futurity
-
 ## [[Sympath]]
 
 Sympaths create a phantom to give power to their emotions.
@@ -950,7 +946,7 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -1034,9 +1030,9 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

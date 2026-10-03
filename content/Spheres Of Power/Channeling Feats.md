@@ -154,7 +154,7 @@ The powers of the beyond are sufficient to appease the bound force within.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -120,7 +120,7 @@ While the soul is in your possession, you may speak with and question the soul, 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

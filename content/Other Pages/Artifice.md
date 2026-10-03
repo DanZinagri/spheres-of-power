@@ -238,12 +238,6 @@ You can treat your size as being one larger for the purposes of determining craf
 
 For example, if you are a Medium-sized creature and attempt to create a Colossal trinket, it would take you 105 minutes and increase the DC to create it by 30.
 
-#### Swift Repair [utility] [LG]
-
-**Source:** Arcforge Players Compendium
-
-When attempting a Craft check to repair an item, you may perform a day’s work of crafting over 1 hour. You may repair mechs at a rate of 5 hp per hour rather than per day using Craft (mechanical) checks. When attempting a Craft check to repair an object, you may take 20 on checks attempted to determine how much you repair or how much it costs to repair. Taking 20 in this way does not require extra time.
-
 #### True Artist
 
 You can apply up to two flourishes to an object. Additionally, you can have your artworks only confer its effects to certain creatures (such as a specific creature or those from a certain group or settlement) when it is engaged with. You can change this choice in the same time it takes to provide maintenance.
@@ -974,16 +968,6 @@ Whenever you create a flourish, you must pay a further material cost based on th
 *Sometimes it's easier to fix something than to start from scratch.*
 
 You lose the trinket ability and cobbled creation approach, as well as the bonus (function) talent granted when you gain a package. You gain the Field Repair and Meticulous Upkeep talents.
-
-#### Fixer [LG]
-
-**Source:** Arcforge Players Compendium
-
-You cannot create trinkets (nor can you benefit from talents that augment them) and you lose the function granted by your chosen package. You gain Swift Repair with this drawback.
-
-**Special:** This drawback can be taken as a [utility start].
-
-**Author's Note:** To avoid confusion with other Fixer drawback, this drawback may be called Mender.
 
 #### Rapid Crafter
 

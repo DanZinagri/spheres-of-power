@@ -138,7 +138,7 @@ This replaces the bonus feat gained at 20th level.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

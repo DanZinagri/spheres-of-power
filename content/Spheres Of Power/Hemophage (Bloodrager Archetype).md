@@ -172,7 +172,7 @@ This modifies mighty bloodrage.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

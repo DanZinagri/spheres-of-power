@@ -120,12 +120,6 @@ A creature proficient with the ten foot pole may choose to wield the weapon at t
 
 Wielding a ten foot pole as a polearm requires enormous effort; the wielder suffers a -2 penalty to AC and CMD when wielding the ten foot pole in this fashion.
 
-#### Titanic Edge [LG]
-
-**Source:** Arcforge Players Compendium
-
-Known as a doshko among the scaled peoples, a titanic edge is a tremendous hafted weapon mounted with numerous forward-mounted curving blades. These blades complement the weapon’s destructive power with added defensive utility, easily catching oncoming attacks.
-
 #### Torch
 
 A common adventurer’s tool designed to shed light in dark places. A burning torch deals 1 point of fire damage in addition to its damage as a weapon. In the hands of a character who is proficient with the torch, this damage increases to 1d6 fire damage on a successful hit. The torch may also be used to make a melee touch attack that deals no weapon damage, but still deals 1d6 fire damage.
@@ -154,10 +148,6 @@ A war mallet can be used to deal nonlethal damage with no penalty.
 
 ---
 
-## Weapon Qualities [LG]
-
-**-Unwieldy [LG]:** Weapons with the unwieldy quality are large and awkward, cannot be fired without cooling down first, or are otherwise difficult to use with repeated attacks. You cannot use an unwieldy weapon as part of a full attack (or any other action in which you could make multiple attacks), you cannot attack with it more than once per round, and you cannot use it to make attacks of opportunity.
-
 ---
 
 ## Modifications
@@ -179,14 +169,6 @@ This scabbard modification consists of a refillable bladder large enough to hold
 This modification can be applied to any weapon that does not possess the nonlethal special feature. A training weapon gains the nonlethal special feature, but deals damage as if it were 1 size smaller. A training weapon deals only bludgeoning damage regardless of its normal damage types. Most training weapons are constructed entirely of wood and cost half as much as a normal weapon of its type.
 
 ## AA2 Modifications
-
-#### Heavy-Headed [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Price**+1,500 gp;**Weight** +3 lb.
-
-The head of this polearm or barrel of this firearm is enlarged to phenomenally increase power at the expense of maneuverability. Only polearms and firearms can be heavy-headed. A heavy-headed polearm deals damage as if it were one size larger but gains the unwieldy quality.
 
 ---
 

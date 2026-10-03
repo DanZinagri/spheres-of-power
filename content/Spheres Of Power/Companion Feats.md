@@ -220,7 +220,7 @@ Additionally, as a full-round action, your companion may render a creature that 
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -1613,7 +1613,7 @@ Shadowsingers are bards that manipulate the lighting to set the mood.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

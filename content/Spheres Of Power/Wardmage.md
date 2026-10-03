@@ -176,7 +176,7 @@ This replaces mystic defense.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

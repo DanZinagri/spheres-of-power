@@ -124,7 +124,7 @@ This replaces pushed movement.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -142,7 +142,7 @@ This replaces true grit.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

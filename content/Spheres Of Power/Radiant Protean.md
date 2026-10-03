@@ -99,7 +99,7 @@ This replaces the immunity to poison class feature.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

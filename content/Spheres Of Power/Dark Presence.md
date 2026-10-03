@@ -146,7 +146,7 @@ This replaces domination.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

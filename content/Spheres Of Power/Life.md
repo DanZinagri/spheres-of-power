@@ -411,16 +411,6 @@ The transfiguration lasts a number of hours equal to your caster level, or until
 
 # Life Sphere Feats
 
-#### Artificer’s Healing (Dual Sphere) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Life sphere; Life sphere (Esoteric Healing) or Technomancy sphere.
-
-**Benefit:** You may use any Life sphere ability which restores hit points to a creature on broken or damaged objects, restoring hit points to them as if they were creatures. If the object has the broken condition, this condition is removed if the object is restored to at least half its original hit points. This ability cannot restore warped or transmuted items, but it can still repair damage done to such items.
-
-**Special:** This feat is only considered a dual sphere feat if you do not possess the Esoteric Healing talent.
-
 #### Benevolence (Dual Sphere)
 
 **Prerequisites:** Life sphere (Fount Of Life), Protection sphere.
@@ -1250,7 +1240,7 @@ The warlord is a preventive healer who is more interested in causing pain than r
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

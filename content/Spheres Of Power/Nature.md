@@ -1049,7 +1049,7 @@ In addition, you gain the following benefits to the corresponding Nature sphere 
 
 **Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
 
-See [[General Feats#Killing Ravages LG|General Feats]] for the full feat .
+See [[General Feats]] for the full feat .
 
 #### March Of The Treants (Dual Sphere)
 
@@ -2319,7 +2319,7 @@ The Yamabushi is an Unchained Monk who gains a small number of talents, emphasiz
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

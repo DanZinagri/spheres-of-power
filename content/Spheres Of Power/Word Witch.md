@@ -198,7 +198,7 @@ This ability replaces permanent illusion.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

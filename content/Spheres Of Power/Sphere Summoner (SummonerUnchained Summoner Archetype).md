@@ -133,7 +133,7 @@ This modifies greater aspect.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

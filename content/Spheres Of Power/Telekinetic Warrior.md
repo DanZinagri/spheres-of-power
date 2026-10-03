@@ -98,7 +98,7 @@ This replaces battlefield relay.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

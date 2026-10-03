@@ -116,14 +116,6 @@ If a catisthenics die is used at the same time as another ability which adds a b
 
 **Benefit:** Whenever you consume a creature’s brain using the Brain Consumption feat, you may gain the drunk status as if you had consumed an alcoholic drink. Alternatively, while you possess a bonus talent from Brain Consumption Consumptive Intuition, you may end the bonus talent’s duration to gain the drunk status as a free action. When you gain the drunk status in either of these ways, you gain the status for double the duration (twice Constitution modifier rounds + 1 per 2 points of base attack bonus).
 
-#### Combatant’s Alignment (Combat) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisites:** Essence sphere (Parallel Alignment (potent)), ability to gain martial focus
-
-**Benefit:** Select a second parallel alignment which replaces either your normal alignment or your parallel alignment as long as you have martial focus.
-
 #### Color Guard [Apoc]
 
 **Source:** [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)
@@ -603,14 +595,6 @@ Whether through acts of charlatanism or infusing your paints with latent magic, 
 **Benefit:** Instead of applying a prepared war paint to a creature, you may pour a prepared war paint over a blank piece of parchment, scroll, or other surface that can easily hold writing. You may then spend 10 minutes concentrating on a specific action or event in the near future, as the paint forms a short, cryptic phrase or abstract image. This acts as the Augury (divine) Divination talent, using your ranks in Craft (alchemy) as your caster level, except you always get a meaningful reply. You may use this ability a number of times per day equal to your casting or practitioner modifier, whichever is higher (minimum 1).
 
 **Special:** If you possess another (divine) talent from the Divination sphere, you may benefit from that sphere effect instead of Augury.
-
-#### Instinctive Stance (Combat) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Ability to gain martial focus.
-
-**Benefit:** When you roll initiative or roll a Perception check at the start of a surprise round, you may immediately enter a single (stance) talent you know.
 
 #### Intense Metamagic (Combat) [SM—]
 

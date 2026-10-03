@@ -107,7 +107,7 @@ This replaces arcane school.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

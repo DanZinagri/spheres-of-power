@@ -106,7 +106,7 @@ This replaces Energy Body.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

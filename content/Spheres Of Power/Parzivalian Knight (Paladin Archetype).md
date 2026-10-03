@@ -152,7 +152,7 @@ This ability replaces holy champion.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

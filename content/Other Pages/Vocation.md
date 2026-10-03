@@ -527,12 +527,6 @@ You gain Climb, Disable Device, Escape Artist, and Knowledge (engineering) as cl
 
 You gain Climb, Disable Device, Sleight of Hand, and Stealth as class skills. You require only one hand free to climb.
 
-#### Chronicler (trade) [utility] [LG]
-
-**Source:** Arcforge Players Compendium
-
-You gain Knowledge (dungeoneering), Knowledge (nature), Knowledge (planes), and Knowledge (religion) as class skills. You may use the higher of your Intelligence and Wisdom modifier on Monster Lore checks attempted with Knowledge skills.
-
 #### Commander (trade) [utility]
 
 You gain Diplomacy, Knowledge (history), Knowledge (nobility), and Ride as class skills. You get a +1 competence bonus to your Leadership modifier for mass combat.
@@ -608,12 +602,6 @@ You gain Fly, Intimidate, Knowledge (engineering), and Use Magic Device as class
 #### Explorer (trade) [utility]
 
 You gain Climb, Knowledge (geography), Survival, and Swim as class skills. You do not take penalties on skill checks for using improvised equipment or not having the proper equipment.
-
-#### Fabulist (trade) [utility] [LG]
-
-**Source:** Arcforge Players Compendium
-
-You gain Knowledge (arcana), Knowledge (nature), Knowledge (planes), and Knowledge (religion) as class skills. You may use the higher of your Intelligence and Charisma modifier on Monster Lore checks attempted with Knowledge skills.
 
 #### Faith Healer (trade) [utility]
 

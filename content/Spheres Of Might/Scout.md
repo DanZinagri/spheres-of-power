@@ -36,12 +36,6 @@ You may scout a creature as a standard action, simultaneously scouting the creat
 
 Whenever you or an ally would apply an effect which would cause a creature or creatures to lose their Dexterity bonus to AC, you may spend martial focus to attempt a Stealth check against those creatures as an immediate action. Your Stealth automatically ends if you do not enter cover or concealment, or use this ability again, by the end of your next turn.
 
-#### Blitz Tactics [LG]
-
-**Source:** Arcforge Players Compendium
-
-You may act in a surprise round regardless of your Perception roll. You may scout a creature you can perceive as part of rolling initiative.
-
 #### Calibrating Wiggle [Catgirl HB]
 
 Whenever you spend a swift action and successfully scout a target, you may move up to 1/2 your movement speed, provided that your movement ends in a space further away from the scouted target. This movement provokes attacks of opportunity as normal.
@@ -136,12 +130,6 @@ You are able to detect and evade the scrying of others. You may use a Perception
 #### Sight Beyond Sight
 
 You may spend a move action to grant yourself blindsense out to 10 ft. for one round. You may expend your martial focus when activating this ability to instead gain blindsight for the same duration. At 10 ranks in Perception, this distance increases to 15 ft.
-
-#### Social Probing [LG]
-
-**Source:** Arcforge Players Compendium
-
-Whenever you successfully use the scout ability against a creature, you reduce the DC of Bluff, Diplomacy, and Intimidate checks attempted against the creature by 1. For every 4 ranks you possess, treat the DCs as an additional 1 point lower. You may outwit a creature by ending the effects of your scout on them, in which case you cannot scout them again for 24 hours.
 
 #### Somnambulance [utility]
 

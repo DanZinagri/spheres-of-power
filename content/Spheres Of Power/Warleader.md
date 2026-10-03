@@ -108,7 +108,7 @@ This replaces bound equipment.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

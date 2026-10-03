@@ -159,12 +159,6 @@ The wielder cannot willingly reduce or deal nonlethal damage with this attack. O
 
 **Benefit:** When using the Energy Sphere blast shape, you may spend 2 spell points instead of 1 to form the energy sphere into a serpent, which grows with every target it damages. Whenever the energy sphere successfully deals damage to a target, its size increases by 1 5-foot square. When moving the energy sphere each round, its squares must be arranged contiguously in an arrangement that follows the movement of the ‘head’ of the serpent.
 
-### Energy Soldier (Combat) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Benefit:** Any ability that would enable you ignore any amount damage reduction also enables you to ignore the same amount of energy resistance under the same circumstances (for example, you may use the Clustered Shots feat to total the damage from all attacks made with a laser rifle or +1 flaming longbow before applying fire resistance).
-
 ### Essence Plunder (Combat) [SM—]
 
 **Source:** Baron’s Secluded Library
@@ -339,15 +333,6 @@ This is an extraordinary ability.
 In addition, by spending a spell point as a standard action, you may will your metabolic functions to respond differently. You may delay the effect of poison on yourself by altering its frequency by one step (rounds to minutes, minutes to hours, or hours to days, only usable once per poison), you may use your casting ability score instead of Constitution for holding your breath, and you may add your casting ability modifier as a bonus to checks to disguise your health under close observation (such as when feigning death).
 
 This is treated as a supernatural ability. Any delayed damage can be taken at a point prior to the expiration of the delay by dismissing the effect, as if dismissing a spell. Healing received while damage is delayed can preemptively negate the damage before the effect ends if you wish. If an attack’s damage is negated entirely, secondary effects of the damage are also negated if the secondary effect would be negated through damage reduction.
-
-### Mind-Rending Fear (Combat) [LG]
-
-**Source:** Arcforge Players Compendium
-
-**Prerequisite:** Intimidate 9 ranks.
-
-**Benefit:** Whenever you cause a creature to become shaken, frightened, or subjected to any
-other level of fear, you deal 1d4 points of Wisdom damage to that creature. If you are using the strain system, you may instead deal twice as much strain damage as you would Wisdom damage. A successful Will save (DC 10 + 1/2 your ranks in Intimidate + your Charisma modifier) negates this effect.
 
 ### Mystic Assault (Combat)
 
@@ -1178,7 +1163,7 @@ Wiki Note: Yes, they have the same name in the books. We encourage errata'ing th
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

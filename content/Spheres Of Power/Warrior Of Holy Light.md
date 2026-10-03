@@ -136,7 +136,7 @@ This replaces the spellsword ability.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

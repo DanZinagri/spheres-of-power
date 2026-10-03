@@ -331,10 +331,6 @@ Operatives are stealthy warriors with outstanding skill in [[Illusion]] or [[War
 
 Synapses can use the [[Warp]] sphere to teleport more in combat.
 
-## Technopath [LG]
-
-Technopaths make use of the Technomancy sphere to interface with technology and use machines to help their allies.
-
 ## [[Telekinetic Warrior]]
 
 Telekinetic warriors are combatants familiar with the [[Telekinesis]] sphere.
@@ -708,10 +704,6 @@ Operatives specialize in the [[Illusion]] and [[War]] spheres, using information
 
 The Synapse remains focused on the mind, but also gains talent with the [[Warp]] sphere, channeling it into special psionic powers that let them engage foes in creative new ways.
 
-## -Old Technopath [3PP]
-
-Technopaths make use of the Technomancy sphere to interface with technology and use machines to help their allies.
-
 ## -[[Telekinetic Warrior|Old Telekinetic Warrior]]
 
 The Telekinetic Warrior is a straightforward master of [[Telekinesis]], with a particular focus on using bludgeons to attack their foes.
@@ -784,7 +776,7 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
@@ -868,9 +860,9 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Classes**
 
-[[Bravo]] · [[Crimson Dancer]] · [[Dissident]] · Dragoon
+[[Bravo]] · [[Crimson Dancer]] · [[Dissident]]
 
-Mountebank · Necros · [[Prodigy]] · Reaper
+[[Prodigy]]
 
 [[Sage]] · [[Theorist]] · [[Troubadour]] · [[Warden (warden-class)|Warden]]
 

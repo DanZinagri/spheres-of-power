@@ -141,7 +141,7 @@ This replaces energy body.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

@@ -94,7 +94,7 @@ This ability replaces marked.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

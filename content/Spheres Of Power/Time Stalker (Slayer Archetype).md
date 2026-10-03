@@ -96,7 +96,7 @@ This replaces master slayer.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

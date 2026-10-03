@@ -366,7 +366,7 @@ These benefits lasts indefinitely. If you activate one of these benefits while a
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 

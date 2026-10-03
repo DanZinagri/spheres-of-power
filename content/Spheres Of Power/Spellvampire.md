@@ -124,7 +124,7 @@ This replaces the bestial talent gained at 20th level.
 
 **Other Spheres**
 
-[[Bear]] · Technomancy
+[[Bear]]
 
 **Rules**
 
