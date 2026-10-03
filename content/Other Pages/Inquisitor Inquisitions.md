@@ -59,7 +59,7 @@ Each time your inquisitor level increases, you must decide how to allocate the i
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

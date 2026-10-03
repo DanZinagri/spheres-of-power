@@ -2651,7 +2651,7 @@ Brew Potion/Distill Compound, Fate Sphere, Truth; **Cost** 625 gp
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

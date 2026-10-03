@@ -88,7 +88,7 @@ This replaces the emotion class feature.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

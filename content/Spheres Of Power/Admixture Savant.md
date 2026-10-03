@@ -130,7 +130,7 @@ This replaces energy body.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

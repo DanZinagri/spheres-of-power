@@ -176,7 +176,7 @@ The culinary specialist prefers being in the thick of combat and is ready at a m
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

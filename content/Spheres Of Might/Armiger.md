@@ -311,7 +311,7 @@ Stancemasters swap customized weapons for specialized combat stances.
 
 Taskmasters are cybernetically enhanced master-at-arms, able to learn, adapt, and change their fighting style with ease.
 
-## -[[Witchwarper LG|Witchwarper]] [CS] [LG]
+## -Witchwarper [CS] [LG]
 
 Witchwarpers learn to harness many different disciplines of magic spanning many realities, drawing upon whichever model of reality best suits their need in the moment.
 
@@ -409,7 +409,7 @@ Craft Marvelous Item, Creation sphere, Illusion sphere; **Cost** 9,000 gp
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

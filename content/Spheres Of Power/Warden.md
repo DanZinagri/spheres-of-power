@@ -110,7 +110,7 @@ This replaces infinite arsenal.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

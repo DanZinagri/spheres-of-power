@@ -366,7 +366,7 @@ These benefits lasts indefinitely. If you activate one of these benefits while a
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

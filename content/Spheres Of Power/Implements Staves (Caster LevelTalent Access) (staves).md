@@ -1129,7 +1129,7 @@ Moderate enchantment; CL 8th; Craft Staff, Life sphere, Fount of Life; Price +1 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

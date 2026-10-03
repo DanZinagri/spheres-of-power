@@ -2222,7 +2222,7 @@ Some creatures are difficult to model within the constraints of a single talent.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

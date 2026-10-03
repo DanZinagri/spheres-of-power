@@ -220,7 +220,7 @@ When making a dual attack, you may use d16s in place of d20s for each attack rol
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

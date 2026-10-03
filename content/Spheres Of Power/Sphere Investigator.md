@@ -72,7 +72,7 @@ A sphere investigator gains 3/4ths of a magic talent every level (the same progr
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

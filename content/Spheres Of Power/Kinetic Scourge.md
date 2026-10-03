@@ -135,7 +135,7 @@ This replaces the talent gained at first level.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

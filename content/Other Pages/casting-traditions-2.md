@@ -2098,7 +2098,7 @@ Whenever the caster gains a level in a casting class, they must decide which of 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

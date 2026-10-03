@@ -1178,7 +1178,7 @@ Wiki Note: Yes, they have the same name in the books. We encourage errata'ing th
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

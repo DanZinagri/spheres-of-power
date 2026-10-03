@@ -2044,7 +2044,7 @@ This supersedes the Wind Lord basic talent in Spheres of Power.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

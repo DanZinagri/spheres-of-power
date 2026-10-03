@@ -180,7 +180,7 @@ This replaces fast movement, greater rage, indomitable will, tireless rage, and 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

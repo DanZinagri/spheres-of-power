@@ -1699,7 +1699,7 @@ The Whitesmith is an [[Armorist]] who knows that maintaining everyone's things -
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

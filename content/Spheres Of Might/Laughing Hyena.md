@@ -70,7 +70,7 @@ This ability replaces counter critical.
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

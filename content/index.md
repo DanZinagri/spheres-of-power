@@ -94,7 +94,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Weather]]
 
 [[Bear]]
-[[Technomancy LG|Technomancy]] [LG]
 
 ---
 
@@ -221,7 +220,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Variant Rules]]
 [[Wilderness]]
 
-[[Aethership Talents LG|Aethership Talents]] [LG]
 [[Card Casting Variants]] [SM—]
 [[Critical Fumble DeckTable|Critical Fumble Deck/Table]] [SM—]
 [[Critical Hit DeckTable|Critical Hit Deck/Table]] [SM—]
@@ -265,8 +263,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Tech]]
 [[Tinker]]
 
-[[Pilot]] [LG] [Discontinued]
-
 
 ---
 
@@ -295,7 +291,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Talent Crystals]]
 
 - [[Card Sleeves]] [SM—]
-- [[Stimulants]] [LG]
 
 [[Loot Tables]]
 
@@ -333,7 +328,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 [[Aeronaut Captain]]
 [[Spheres Archwizard (Prestige Class)|Archwizard]]
-[[Ascendant Vanguard LG|Ascendant Vanguard]] [LG]]
+]
 [[Bokor]] [Core]
 [[Cyborg]] [DRS]
 [[Forest Lord]]
@@ -483,7 +478,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 | Class | Archetypes | Class Options |
 | --- | --- | --- |
-| **Alchemist** | [[Bioengineer]], [[Biohacker LG\|Biohacker]] [CS] [LG], [[Champion Alchemist 3PP\|Champion Alchemist]] [CS], [[Combat Engineer (Alchemist Archetype)\|Combat Engineer]], [[Eldritch Infuser (Alchemist Archetype)\|Eldritch Infuser]] [CS], [[Essentialist (Alchemist Archetype)\|Essentialist]], [[Gun Chemist (Alchemist Archetype)\|Gun Chemist]], [[Hemetic Philosopher (Alchemist Archetype)\|Hemetic Philosopher]], [[Machinist (Alchemist Archetype)\|Machinist]], [[Mortal Chemist (Alchemist Archetype)\|Mortal Chemist]], [[Physician (Alchemist Archetype)\|Physician]], [[Sphere Alchemist]], [[Weather Harvester (Alchemist Archetype)\|Weather Harvester]] | [[Alchemist Alternate Class Features]] · [[Alchemist Discoveries]] |
+| **Alchemist** | [[Bioengineer]],[[Champion Alchemist 3PP\|Champion Alchemist]] [CS], [[Combat Engineer (Alchemist Archetype)\|Combat Engineer]], [[Eldritch Infuser (Alchemist Archetype)\|Eldritch Infuser]] [CS], [[Essentialist (Alchemist Archetype)\|Essentialist]], [[Gun Chemist (Alchemist Archetype)\|Gun Chemist]], [[Hemetic Philosopher (Alchemist Archetype)\|Hemetic Philosopher]], [[Machinist (Alchemist Archetype)\|Machinist]], [[Mortal Chemist (Alchemist Archetype)\|Mortal Chemist]], [[Physician (Alchemist Archetype)\|Physician]], [[Sphere Alchemist]], [[Weather Harvester (Alchemist Archetype)\|Weather Harvester]] | [[Alchemist Alternate Class Features]] · [[Alchemist Discoveries]] |
 | **Antipaladin** | [[Antimage (PaladinAntipaladin Archetype)\|Antimage]], [[Arbiter (PaladinAntipaladin Archetype)\|Arbiter]], [[Avowed (PaladinAntipaladin Archetype)\|Avowed]] [CS], [[Blood-Soaked Demon (Antipaladin Archetype)\|Blood-Soaked Demon]], [[Champion Of The Cause (PaladinAntipaladin Archetype)\|Champion Of The Cause]] [CS], [[Grand Purifier (Paladin & Antipaladin Archetype)\|Grand Purifier]] [CS], [[Soulrender (Antipaladin Archetype)\|Soulrender]], [[Sphere Antipaladin]], [[Spheres Oathbound (Paladin and Antipaladin Archetype)\|Spheres Oathbound]], [[Warrior Of Blind Faith (PaladinAntipaladin Archetype)\|Warrior of Blind Faith]] |  |
 | **Arcanist** | [[Interminate]], [[Sphere Arcanist]] |  |
 | **Barbarian** | [[Barbearian (Barbarian Archetype)\|Barbearian]], [[Berserker (Barbarian Archetype)\|Berserker]], [[Ferocious Brute (Barbarian Archetype)\|Ferocious Brute]], [[Painted Savage (BarbarianUnchained Barbarian Archetype)\|Painted Savage]], [[Tranquil Barbarian (Barbarian Archetype)\|Tranquil Barbarian]] [NS], [[Worldsoul Incarnate (BarbarianUC Barbarian Archetype)\|Worldsoul Incarnate]] | [[Barbarian Rage Powers]] |
@@ -500,7 +495,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **Inquisitor** | [[Champion Inquisitor (Inquisitor Archetype)\|Champion Inquisitor]] [CS], [[Ordained Hunter (Inquisitor Archetype)\|Ordained Hunter]], [[Shield Of The Gods (Inquisitor Archetype)\|Shield of the Gods]], [[Sincrafter (Inquisitor Archetype) (SM—)\|Sincrafter]] [CS], [[Soldier Of The Gods (Inquisitor Archetype)\|Soldier of the Gods]] [CS], [[Spellwarper (Inquisitor Archetype)\|Spellwarper]], [[Sphere Inquisitor]] | [[Inquisitor Inquisitions]] |
 | **Investigator** | [[Acupuncturist (Investigator Archetype)\|Acupuncturist]], [[Battered Detective (Investigator Archetype)\|Battered Detective]], [[Cerebral Analyst (Investigator Archetype)\|Cerebral Analyst]], [[Champion Investigator (Investigator Archetype)\|Champion Investigator]] [CS], [[Detective (Investigator Archetype)\|Detective]], [[Nightblazer (Investigator Archetype)\|Nightblazer]], [[Psyforensic (Investigator Archetype)\|Psyforensic]], [[Sphere Investigator]], [[Tactician (Investigator Archetype)\|Tactician]] | [[Investigator Talents]] |
 | **Kineticist** | [[Scion (Kineticist Archetype)\|Scion]] |  |
-| **Magus** | [[Arcane Weaponeer (Magus Archetype)\|Arcane Weaponeer]], [[Mystic (Magus Archetype)\|Mystic]] [CS], [[Precog LG\|Precog]] [CS], [[Runic Knight (Magus Archetype)\|Runic Knight]], [[Sphere Magus]] | [[Magus Arcana]] |
+| **Magus** | [[Arcane Weaponeer (Magus Archetype)\|Arcane Weaponeer]], [[Mystic (Magus Archetype)\|Mystic]] [CS],[[Runic Knight (Magus Archetype)\|Runic Knight]], [[Sphere Magus]] | [[Magus Arcana]] |
 | **Medium** | [[Aspect Host (Medium Archetype)\|Aspect Host]] [CS], [[Champion Medium (Medium Archetype)\|Champion Medium]] [CS], [[Harrow Medium 3PP\|Harrow Medium]], [[Initiate]] [DRS], [[Sphere Medium]], [[Visionary]] |  |
 | **Mesmerist** | [[Champion Mesmerist (Champion Archetype)\|Champion Mesmerist]] [CS], [[Conniving Bastard (Mesmerist Archetype)\|Conniving Bastard]], [[Incendiary (Mesmerist Archetype)\|Incendiary]], [[Nocturnus (Mesmerist Archetype)\|Nocturnus]], [[Sphere Mesmerist]] |  |
 | **Monk** | [[Beastsoul Monk (NormalUnchained Monk Archetype)\|Beastsoul Monk]], [[Monkmentum (MonkUnchained Monk Archetype)\|Monkmentum]], [[Street Fighter (MonkUnchained Monk Archetype)\|Street Fighter]], [[Sundering Hand (MonkUnchained Monk Archetype)\|Sundering Hand]] |  |

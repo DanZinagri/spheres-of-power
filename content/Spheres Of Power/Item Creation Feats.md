@@ -121,7 +121,7 @@ A spell engine’s pricing is determined by comparing it to Table: Spell Engine 
 
 **Prerequisite:** Caster or manifester level 5th.
 
-**Benefit:** You can create [[Stimulants|stimulants]]. Crafting a stimulant takes 1 day for each 1,000 gp in its base price. To craft a stimulant, you must use up raw materials costing half of its base price.
+**Benefit:** You can create stimulants. Crafting a stimulant takes 1 day for each 1,000 gp in its base price. To craft a stimulant, you must use up raw materials costing half of its base price.
 
 ### Develop Spellzone (Item Creation) [HMH]
 
@@ -608,7 +608,7 @@ Table: Magical Weapon and Armor Pricing
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

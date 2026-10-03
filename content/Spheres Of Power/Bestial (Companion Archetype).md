@@ -44,7 +44,7 @@ Your companion has an animal intellect, with its starting Intelligence reduced t
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

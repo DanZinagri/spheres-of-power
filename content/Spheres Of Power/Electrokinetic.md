@@ -188,7 +188,7 @@ An electrokinetic with the Energy Focus (electric blast) drawback may make destr
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

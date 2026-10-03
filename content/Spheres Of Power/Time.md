@@ -1083,7 +1083,7 @@ Time Thieves are Rogues who have learned how to steal time itself from their opp
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

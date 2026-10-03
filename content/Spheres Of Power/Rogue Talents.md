@@ -358,7 +358,7 @@ Whenever you do precision damage to a creature, until the end of your next turn 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

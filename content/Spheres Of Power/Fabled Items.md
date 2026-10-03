@@ -265,7 +265,7 @@ This gleaming faintly crackled with godly power, giving its bearer command of th
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

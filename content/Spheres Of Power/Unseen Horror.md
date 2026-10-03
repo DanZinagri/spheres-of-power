@@ -160,7 +160,7 @@ Your unseen force has a maximum volume equal to one normal human per thaumaturge
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

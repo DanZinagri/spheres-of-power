@@ -162,7 +162,7 @@ The collector may open a portal to her extradimensional storage anywhere within 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

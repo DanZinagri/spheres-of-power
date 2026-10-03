@@ -82,7 +82,7 @@ One of the goals of Spheres of Power is to give GMs and players the tools they n
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

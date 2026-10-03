@@ -505,7 +505,7 @@ Major Events are optional in games using Wild Magic. This table includes effects
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

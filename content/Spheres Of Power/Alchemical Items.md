@@ -346,7 +346,7 @@ Meowlin found this catnip growing at the base of large fruit-bearing cactus. Whi
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

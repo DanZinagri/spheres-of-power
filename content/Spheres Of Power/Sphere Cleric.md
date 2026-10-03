@@ -187,7 +187,7 @@ Wiki Note: If using domains from outside this list, we suggest either asking the
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

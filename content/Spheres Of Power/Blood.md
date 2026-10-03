@@ -1305,7 +1305,7 @@ The blood of certain creatures can be used when crafting alchemical items to red
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

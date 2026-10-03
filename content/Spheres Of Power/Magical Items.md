@@ -2506,7 +2506,7 @@ Note that Protection shows up more often than anything else, but each slot has a
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

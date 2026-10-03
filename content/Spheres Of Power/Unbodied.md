@@ -118,7 +118,7 @@ This replaces the wraith haunt gained at 3rd level.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -151,7 +151,7 @@ A character with the nobility domain may exchange the Leadership feat for the [[
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

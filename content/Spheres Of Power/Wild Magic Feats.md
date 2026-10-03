@@ -152,7 +152,7 @@ On a result of 11-20, subtract ten from your roll, then add that number to your 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

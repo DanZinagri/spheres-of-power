@@ -1359,7 +1359,7 @@ Forge Ring, Protection Sphere, Spell Ward (ward, aegis) **Cost** 15,000 gp
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

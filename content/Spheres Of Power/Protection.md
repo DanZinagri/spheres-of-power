@@ -1509,7 +1509,7 @@ The punisher only dabbles in the Protection sphere, and is interested in only th
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

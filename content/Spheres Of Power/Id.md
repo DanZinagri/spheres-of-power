@@ -72,7 +72,7 @@ This replaces hypnotism, liberate, terrorize, inspire greatness, insanity, inspi
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

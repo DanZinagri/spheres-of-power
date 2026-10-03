@@ -1623,7 +1623,7 @@ Unlike other illusions, Manipulate Aura is always observed by opposed magic or s
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

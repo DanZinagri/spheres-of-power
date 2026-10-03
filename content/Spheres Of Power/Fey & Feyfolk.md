@@ -1199,7 +1199,7 @@ Formerly of the mortal races, wardens of faerie have pledged themselves to fey m
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

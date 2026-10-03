@@ -152,7 +152,7 @@ At 20th the dragonblooded mortal’s heritage comes to complete fruition. She ga
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

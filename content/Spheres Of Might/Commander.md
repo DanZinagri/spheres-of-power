@@ -276,7 +276,7 @@ A commander which represents their local lord. Uses the DRS Kingking supplement.
 
 The Dreadlord is a master of minions - especially those raised from the dead.
 
-## -[[Emissary LG|Emissary]] [CS] [LG]
+## -Emissary [CS] [LG]
 
 Emissaries couple their strategic knowledge with intense research and analytical acumen
 
@@ -394,7 +394,7 @@ You may notice that some of the logistic specialties have very unusual benefits 
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

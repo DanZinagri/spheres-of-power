@@ -1337,7 +1337,7 @@ You have acquired many varied skills, enabling you to pick up more advanced tact
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

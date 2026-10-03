@@ -164,7 +164,7 @@ Increase your Intelligence and Dexterity with level advancement, and maybe Chari
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

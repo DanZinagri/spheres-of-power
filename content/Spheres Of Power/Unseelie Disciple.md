@@ -86,7 +86,7 @@ This replaces create reality, improved create reality, and greater create realit
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

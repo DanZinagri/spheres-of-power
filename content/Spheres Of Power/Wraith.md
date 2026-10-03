@@ -1372,7 +1372,7 @@ Swarms do not threaten creatures, and do not make attacks of opportunity with th
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

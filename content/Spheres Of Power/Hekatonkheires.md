@@ -114,7 +114,7 @@ This ability replaces Greater Psionics.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

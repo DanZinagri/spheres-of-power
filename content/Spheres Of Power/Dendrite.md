@@ -64,7 +64,7 @@ In addition, they may select the following new secret:
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

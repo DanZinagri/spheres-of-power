@@ -1681,7 +1681,7 @@ The Treasure Seeker is an Unchained Rogue who gains access to a small selection 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

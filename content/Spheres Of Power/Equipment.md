@@ -240,7 +240,7 @@ The many twinkling layers of this gemstone mimics the great wards and barriers o
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

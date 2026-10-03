@@ -649,7 +649,7 @@ Craft Wand, Divination sphere, Tremorsense, Widen Sight, Warp sphere, Group Tele
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

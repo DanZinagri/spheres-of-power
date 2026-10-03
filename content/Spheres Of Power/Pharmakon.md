@@ -136,7 +136,7 @@ This replaces the blessing/blight class feature.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -420,7 +420,7 @@ For the purpose of determining how many additional allies you may have in a squa
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

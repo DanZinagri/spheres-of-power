@@ -236,7 +236,7 @@ The Child of Hope is a champion Druid who has a guardian bear and can make frien
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

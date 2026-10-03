@@ -296,7 +296,7 @@ Extra feats allow characters to either use their existing abilities more times e
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

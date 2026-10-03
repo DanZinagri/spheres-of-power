@@ -1272,7 +1272,7 @@ The Void Gazer is an archetype for the [[Thaumaturge]] that gives them shadowy n
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

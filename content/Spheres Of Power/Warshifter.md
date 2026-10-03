@@ -91,7 +91,7 @@ This ability replaces quick transformation, extended transformation, greater tra
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

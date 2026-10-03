@@ -80,7 +80,7 @@ This replaces wraith form, but any feat, haunt, or other ability that would affe
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

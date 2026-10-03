@@ -250,7 +250,7 @@ You can deploy items to cover your escape. As part of a move action you can call
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

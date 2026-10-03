@@ -114,7 +114,7 @@ Wailing Cleave: When the dread crusader successfully strikes a foe with a Crypti
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

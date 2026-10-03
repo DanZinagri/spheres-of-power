@@ -110,7 +110,7 @@ This replaces the arcane school and arcane bond class features.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

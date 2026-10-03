@@ -140,7 +140,7 @@ This ability replaces brew potion, poison resistance, and poison immunity.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

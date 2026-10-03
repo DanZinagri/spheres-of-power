@@ -117,7 +117,7 @@ He may only benefit from this feature while in his vigilante identity. Once chos
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

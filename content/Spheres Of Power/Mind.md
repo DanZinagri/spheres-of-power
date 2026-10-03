@@ -1713,7 +1713,7 @@ Finally, the knowledge of an individual’s dreamscape is a powerful thing in th
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

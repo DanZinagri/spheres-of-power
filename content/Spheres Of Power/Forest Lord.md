@@ -277,7 +277,7 @@ As the resting place of the valley, the broken walkways, the birthplace of adama
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

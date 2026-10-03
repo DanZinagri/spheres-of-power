@@ -209,7 +209,7 @@ At 20th level, the wunderkind can make one of her illusions permanent. Only one 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

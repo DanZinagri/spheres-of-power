@@ -101,7 +101,7 @@ For slayers, this modifies sneak attack and replaces track and the slayer talent
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

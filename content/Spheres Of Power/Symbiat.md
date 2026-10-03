@@ -331,9 +331,9 @@ Operatives are stealthy warriors with outstanding skill in [[Illusion]] or [[War
 
 Synapses can use the [[Warp]] sphere to teleport more in combat.
 
-## [[Technopath]] [LG]
+## Technopath [LG]
 
-Technopaths make use of the [[Technomancy LG|Technomancy]] sphere to interface with technology and use machines to help their allies.
+Technopaths make use of the Technomancy sphere to interface with technology and use machines to help their allies.
 
 ## [[Telekinetic Warrior]]
 
@@ -708,9 +708,9 @@ Operatives specialize in the [[Illusion]] and [[War]] spheres, using information
 
 The Synapse remains focused on the mind, but also gains talent with the [[Warp]] sphere, channeling it into special psionic powers that let them engage foes in creative new ways.
 
-## -[[Technopath|Old Technopath]] [3PP]
+## -Old Technopath [3PP]
 
-Technopaths make use of the [[Technomancy LG|Technomancy]] sphere to interface with technology and use machines to help their allies.
+Technopaths make use of the Technomancy sphere to interface with technology and use machines to help their allies.
 
 ## -[[Telekinetic Warrior|Old Telekinetic Warrior]]
 
@@ -784,7 +784,7 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

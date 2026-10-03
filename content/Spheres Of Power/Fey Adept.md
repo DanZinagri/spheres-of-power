@@ -527,7 +527,7 @@ Auteurs are especially adept at using illusions to influence others.
 
 Dreamtwisters are especially adept at slipping illusions into the minds of their enemies.
 
-## [[Inspired Inventor]] [CS] [LG]
+## Inspired Inventor [CS] [LG]
 
 Inspired Inventors use the Tinker sphere to create illusion-inspired machines.
 
@@ -998,7 +998,7 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -206,7 +206,7 @@ At 10th level, a bokor may combine a spell with a sphere ability, using both wit
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

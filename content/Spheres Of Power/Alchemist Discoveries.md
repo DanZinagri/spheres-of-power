@@ -232,7 +232,7 @@ Once per day as a free action, you may choose an Alteration talent you do not po
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

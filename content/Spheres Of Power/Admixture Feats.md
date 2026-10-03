@@ -350,7 +350,7 @@ Admixture feats grant new ways to utilize the Admixture talent (from the [[Destr
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

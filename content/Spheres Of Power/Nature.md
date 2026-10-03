@@ -2319,7 +2319,7 @@ The Yamabushi is an Unchained Monk who gains a small number of talents, emphasiz
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

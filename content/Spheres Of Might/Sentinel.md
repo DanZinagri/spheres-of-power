@@ -195,7 +195,7 @@ Laughing hyenas aim to defeat foes both physically and emotionally.
 
 Paragons represent one of the four major universal ideals (good, evil, law, or chaos) and specialize in opposing the opposite ideal.
 
-## [[Vanguard Sentinel LG|Vanguard Sentinel]] [LG]
+## Vanguard Sentinel [LG]
 
 Vanguards draw upon supernatural forces to enhance their defensive abilities, magically storing and redirecting kinetic energy to shield their allies and themselves.
 
@@ -283,7 +283,7 @@ Smith Magical Weapons And Armor, Light sphere (Encompassing Light (light)); **Co
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

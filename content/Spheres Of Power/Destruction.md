@@ -2202,7 +2202,7 @@ The Wandslinger is a Gunslinger that can create and use wands keyed to the Destr
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

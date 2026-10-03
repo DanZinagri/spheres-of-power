@@ -70,7 +70,7 @@ A possessed can normally transform between his identities in 5 rounds, though th
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

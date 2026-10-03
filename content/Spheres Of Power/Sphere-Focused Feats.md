@@ -1451,7 +1451,7 @@ You may treat your extradimensional shadow as either talent for all purposes. Am
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

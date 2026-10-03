@@ -248,7 +248,7 @@ When an adjacent ally uses a sphere ability, you may spend an immediate action t
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

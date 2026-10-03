@@ -114,7 +114,7 @@ At 5th level, when the tempestarii uses control weather to change the weather’
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

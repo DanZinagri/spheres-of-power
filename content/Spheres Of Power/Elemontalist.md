@@ -94,7 +94,7 @@ When choosing this archetype, a player may not want to be a mighty elemontalist,
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

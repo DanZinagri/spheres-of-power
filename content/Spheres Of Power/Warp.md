@@ -1366,7 +1366,7 @@ The Drifting Lotus is an Unchained Monk who mixes magical and martial power to g
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

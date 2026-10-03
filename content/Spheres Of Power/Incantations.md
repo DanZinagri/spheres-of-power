@@ -1810,7 +1810,7 @@ If the target was an object, the creature (other than one of the performers) tha
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -100,7 +100,7 @@ Agility (Enhancement), Ancestors (Divination), Animals (Nature), Death (Death), 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

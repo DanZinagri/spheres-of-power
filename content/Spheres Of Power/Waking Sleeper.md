@@ -197,7 +197,7 @@ At level 5, the waking sleeper gains incredible control of her combat techniques
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

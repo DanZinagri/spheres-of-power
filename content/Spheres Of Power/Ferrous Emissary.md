@@ -72,7 +72,7 @@ This replaces the additional piece of bound equipment gained at 5th level. At 10
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

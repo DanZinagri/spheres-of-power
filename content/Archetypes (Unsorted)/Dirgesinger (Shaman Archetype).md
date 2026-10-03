@@ -117,7 +117,7 @@ This replaces the hexes gained at 2nd, 10th, and 18th level, and the wandering h
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 
@@ -217,7 +217,7 @@ This replaces the hexes gained at 2nd, 10th, and 18th level, and the wandering h
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

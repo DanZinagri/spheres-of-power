@@ -451,7 +451,7 @@ If the rumor is a lie, the agent’s Bluff check result determines if it is beli
 
 Blackpowder slayers are agents who are especially adept at using firearms to accomplish their goals.
 
-## [[Cutthroat LG|Cutthroat]] [LG]
+## Cutthroat [LG]
 
 Cutthroats embody a more aggressive and flagrant distortion of subterfuge, using their agility and combat expertise to control the flow of an engagement.
 

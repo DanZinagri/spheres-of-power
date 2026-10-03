@@ -2023,7 +2023,7 @@ The process of forming a bond with a Conjuration sphere companion is intentional
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

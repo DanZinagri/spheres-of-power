@@ -3080,7 +3080,7 @@ Craft Rod, Craft Wondrous Item, Warp Sphere, Distant Teleport, Emergency Telepor
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

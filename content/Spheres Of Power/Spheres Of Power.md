@@ -42,7 +42,7 @@ Spheres of Power is a unique magic system created by Drop Dead Studios for use w
 -[[Weather]]
 
 -[[Bear]]
--[[Technomancy LG|Technomancy]] [3PP]
+-Technomancy [3PP]
 
 ---
 

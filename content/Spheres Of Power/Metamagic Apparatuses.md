@@ -712,7 +712,7 @@ Craft Apparatus, Widen Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal), 30
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

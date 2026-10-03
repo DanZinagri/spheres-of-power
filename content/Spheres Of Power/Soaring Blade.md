@@ -186,7 +186,7 @@ This modifies Arsenal Tricks.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

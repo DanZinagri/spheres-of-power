@@ -1291,7 +1291,7 @@ Choose one trait from the Blank Form ability of the Alteration sphere or another
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

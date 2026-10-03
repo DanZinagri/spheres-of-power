@@ -1204,7 +1204,7 @@ The Sun Warrior is a [[Mageknight]] whose mastery of light allows them to help t
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

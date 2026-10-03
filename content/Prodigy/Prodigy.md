@@ -510,7 +510,7 @@ At 2nd level, as part of starting a sequence, the prodigy may infuse himself wit
 
 **Adamantine Skin (finish):** When taking damage, the prodigy may spend an immediate action to reduce the damage taken by her casting ability modifier times the length of her sequence.
 
-### [[Technomancy LG|Technomancy]] [LG]
+### Technomancy [LG]
 
 **Source:** Arcforge Players Compendium
 
@@ -838,7 +838,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 
@@ -938,7 +938,7 @@ Mountebank · Necros · [[Prodigy]] · Reaper
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

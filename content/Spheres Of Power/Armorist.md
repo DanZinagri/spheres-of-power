@@ -776,7 +776,7 @@ Living weapons can summon armor of pure magic, allowing them to focus on their w
 
 The Martial Armorist blends magic and martial power together to create a more uniquely capable combatant
 
-## [[Nanocyte LG|Nanocyte]] [CS] [LG]
+## Nanocyte [CS] [LG]
 
 Incorporating high-tech nanomachines into their body and equipment, nanocytes sculpt their forms as easily as they shape their weapons and armor.
 
@@ -1388,7 +1388,7 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

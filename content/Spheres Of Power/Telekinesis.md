@@ -1365,7 +1365,7 @@ This is a general guideline to weapon size rather than a hard rule, and exceptio
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

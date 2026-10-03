@@ -633,7 +633,7 @@ If you are playing with alignment descriptors, sphere effects and spells modifie
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

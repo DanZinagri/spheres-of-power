@@ -112,7 +112,7 @@ Gain the extra magic talent feat. You must meet the feat’s prerequisites. You 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

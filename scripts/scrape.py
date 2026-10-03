@@ -55,8 +55,14 @@ EXCLUDED_SECTIONS = {
     "Spheres Of Power (Old)",
 }
 # Individual pages left out along with everything under them (by wikidot slug):
-# Lost Spheres Publishing's classes ("Lost Champions").
-EXCLUDED_PAGES = {"dragoon-class", "mountebank", "necros", "reaper"}
+EXCLUDED_PAGES = {
+    # Lost Spheres Publishing's classes ("Lost Champions")
+    "dragoon-class", "mountebank", "necros", "reaper",
+    # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
+    "aethership-talents", "ascendant-vanguard", "biohacker", "cutthroat", "emissary",
+    "evolutionist", "flagellant", "inspired-inventor", "nanocyte", "pilot", "precog",
+    "proclaimer", "stimulants", "technomancy", "technopath", "vanguard-sentinel", "witchwarper",
+}
 NAV_PAGES = {"start", "nav:side"}
 
 # Home page: with the archetypes now a full-width table, move these sections (by their bold

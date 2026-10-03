@@ -152,7 +152,7 @@ While most experimentalists prefer to collect samples on their own, suitably pre
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

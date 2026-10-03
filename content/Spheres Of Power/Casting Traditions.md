@@ -1388,7 +1388,7 @@ Your aegis takes the form of an energy shield that you use to intercept attacks.
 
 **Incompatible:** Crystalline, Luminous, Second Skin
 
-### [[Technomancy LG|Technomancy]] [LG]
+### Technomancy [LG]
 
 **Source:** Arcforge Players Compendium
 
@@ -4065,7 +4065,7 @@ Whenever the caster gains a level in a casting class, they must decide which of 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

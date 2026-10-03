@@ -130,7 +130,7 @@ At 6th level, an eclectic researcher may add a namebound spell to her repertoire
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

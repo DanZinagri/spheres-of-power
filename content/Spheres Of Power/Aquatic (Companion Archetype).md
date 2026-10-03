@@ -44,7 +44,7 @@ Your companion reduces one of its speeds by 20 ft. and gains a 20 ft. swim speed
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

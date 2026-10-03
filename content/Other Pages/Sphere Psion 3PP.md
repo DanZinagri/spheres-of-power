@@ -82,7 +82,7 @@ A sphere psion may choose to gain a single magic talent every level in place of 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

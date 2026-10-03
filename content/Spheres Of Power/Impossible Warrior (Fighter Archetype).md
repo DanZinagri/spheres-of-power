@@ -140,7 +140,7 @@ This replaces the bonus feat gained at 18th level.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

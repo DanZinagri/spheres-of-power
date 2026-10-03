@@ -841,7 +841,7 @@ Smith Magical Arms and Armor, Alteration Sphere; Cost +3 Bonus
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

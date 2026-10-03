@@ -428,7 +428,7 @@ Hypnotists can manipulate their own mind to provide flashes of insight.
 
 Ids focus on their emotions to the exclusion of other mental powers.
 
-## [[Proclaimer LG|Proclaimer]] [CS] [LG]
+## Proclaimer [CS] [LG]
 
 Proclaimers use their manipulative arts to tap into grand visions of futurity
 
@@ -950,7 +950,7 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

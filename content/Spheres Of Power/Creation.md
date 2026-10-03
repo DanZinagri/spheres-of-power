@@ -1411,7 +1411,7 @@ Characters who aren’t buried can dig out their friends. They may make a Streng
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

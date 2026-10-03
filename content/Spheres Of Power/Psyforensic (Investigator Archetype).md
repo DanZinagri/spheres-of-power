@@ -84,7 +84,7 @@ Beginning at 3rd level, once per day the psyforensic may spend an hour to enter 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

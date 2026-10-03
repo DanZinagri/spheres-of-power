@@ -810,7 +810,7 @@ You may not resume concentrating on an ability once you stop concentrating on it
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

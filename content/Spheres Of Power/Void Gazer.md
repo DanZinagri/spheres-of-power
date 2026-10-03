@@ -124,7 +124,7 @@ The void gazer loses access to the channel punishment, empowered defense, empowe
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

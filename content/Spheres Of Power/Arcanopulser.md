@@ -272,7 +272,7 @@ At 13th level, while ascended, the arcanopulser gains a flight speed equal to hi
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

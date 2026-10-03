@@ -118,7 +118,7 @@ Once a trait has been chosen, it cannot be changed. So long as the symbiotic kni
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

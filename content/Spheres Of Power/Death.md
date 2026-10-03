@@ -1953,7 +1953,7 @@ Wrestling with the complicated ethical questions or reveling in the moral gray a
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

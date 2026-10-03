@@ -73,7 +73,7 @@ This modifies bloodline. The dual-blooded sorcerer may choose wildblooded bloodl
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

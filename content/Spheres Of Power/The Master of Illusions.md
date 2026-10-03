@@ -158,7 +158,7 @@ Finally, remember that illusions are often most useful outside of battle. Don't 
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -220,7 +220,7 @@ Guild powers are identical to the specialization abilities offered in the Incant
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -1250,7 +1250,7 @@ The warlord is a preventive healer who is more interested in causing pain than r
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

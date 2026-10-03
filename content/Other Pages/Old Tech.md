@@ -93,7 +93,7 @@ Because devices crafted with the Tech sphere are more unstable than standard tec
 
 ## Technomancy, Sprites, Routines, and Hacking
 
-The *Arcforge Campaign Setting: Spheres of Influence* by Legendary Games introduced the [[Technomancy LG|Technomancy]] sphere. The sphere creates magical sprites to infest, control, or boost technological items. The sphere was not designed with routines or Tech sphere gadgets in mind, so the following clarifies their interactions, as well as other interactions that deal with routines and hacking:
+The *Arcforge Campaign Setting: Spheres of Influence* by Legendary Games introduced the Technomancy sphere. The sphere creates magical sprites to infest, control, or boost technological items. The sphere was not designed with routines or Tech sphere gadgets in mind, so the following clarifies their interactions, as well as other interactions that deal with routines and hacking:
 
 Effects that affect routines also affect sprites, and vice versa.
 

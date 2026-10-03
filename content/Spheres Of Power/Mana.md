@@ -1098,7 +1098,7 @@ Spellvampires are Shifters who can steal the magic and powers of their foes.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

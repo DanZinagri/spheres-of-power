@@ -4095,7 +4095,7 @@ The typhloter vanguard is a gargantuan floating orb with barbed tendrils that ha
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -289,7 +289,7 @@ When you enter Aristeia, you gain temporary hit points equal to your character l
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -77,7 +77,6 @@ Tags | Edit | Source | Print
 
 Special or 3PP
 [[Bear]]
-[[Technomancy LG|Technomancy]] [3pp]
 
 **Combat Spheres**
 
@@ -108,8 +107,6 @@ Special or 3PP
 [[Leadership]]
 [[Tech]]
 [[Tinker]]
-
-[[Pilot]] [3pp]
 
 **Skill Spheres**
 

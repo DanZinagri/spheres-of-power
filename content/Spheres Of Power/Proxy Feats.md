@@ -236,7 +236,7 @@ Proxy feats represent an enhanced ability to manipulate and take advantage of th
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

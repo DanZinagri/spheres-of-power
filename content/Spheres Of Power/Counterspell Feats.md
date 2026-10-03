@@ -334,7 +334,7 @@ See the [[Proxy Feats|Proxy]] section.
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

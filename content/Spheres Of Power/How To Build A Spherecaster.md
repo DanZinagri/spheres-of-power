@@ -244,7 +244,7 @@ If you *are* using a mix, remember that creating Sphere-based items should not b
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

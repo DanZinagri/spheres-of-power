@@ -377,7 +377,7 @@ Chaos Shifters use mutagenic formulas to become true monsters on the battlefield
 
 Elemental fists can use the powers of nature to augment their blows.
 
-## [[Evolutionist LG|Evolutionist]] [LG]
+## Evolutionist [LG]
 
 Evolutionists couple martial grit with immense morphic potential, drawing on the tension of combat to force their transformations into wild and dangerous new forms.
 
@@ -479,7 +479,7 @@ Craft Apparatus, War sphere, creator must have the tension techniques class feat
 
 [[Open Hand]] · [[Scoundrel]] · [[Scout]] · [[Shield]] · [[Sniper]] · [[Tech]] · [[Trap]] · [[Warleader (warleader-sphere)|Warleader]]
 
-[[Wrestling]] · [[Pilot]] (3PP)
+[[Wrestling]] · Pilot (3PP)
 
 **Rules**
 

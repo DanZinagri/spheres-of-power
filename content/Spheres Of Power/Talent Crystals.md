@@ -171,7 +171,7 @@ Proxy Talent Crystals are an excellent resource for expanding a character’s op
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

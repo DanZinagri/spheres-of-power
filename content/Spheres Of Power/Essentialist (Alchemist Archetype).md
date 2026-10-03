@@ -214,7 +214,7 @@ The essentialist may not choose discoveries that modify bombs, but may choose an
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

@@ -96,7 +96,7 @@ When the shifter applies a shapeshift to herself, she may spend an additional sp
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

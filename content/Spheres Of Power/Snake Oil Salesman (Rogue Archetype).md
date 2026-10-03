@@ -180,7 +180,7 @@ Suggested rogue talents for the snake oil salesman are Black Market Connections,
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

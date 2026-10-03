@@ -1835,7 +1835,7 @@ The Parzivalian Knight is an archetype for the Paladin that lets them use belief
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

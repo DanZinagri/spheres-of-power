@@ -175,7 +175,7 @@ This modifies mighty bloodrage, replacing the increased spell level he may apply
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

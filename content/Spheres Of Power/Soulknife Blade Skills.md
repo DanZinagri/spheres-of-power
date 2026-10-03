@@ -79,7 +79,7 @@ The soulknife chooses a single piece of psibertech. She gains that piece’s bas
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

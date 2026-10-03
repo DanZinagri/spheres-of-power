@@ -1498,7 +1498,7 @@ Believing they will one day return to the shadow from which they emerged, wayang
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

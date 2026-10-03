@@ -110,7 +110,7 @@ This ability replaces swift alchemy, poison use, poison resistance, and poison i
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 

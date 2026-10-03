@@ -1100,7 +1100,7 @@ When you rest to regain spell points, you may designate a single sphere effect a
 
 **Other Spheres**
 
-[[Bear]] · [[Technomancy LG|Technomancy]]
+[[Bear]] · Technomancy
 
 **Rules**
 
