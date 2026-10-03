@@ -1,0 +1,55 @@
+// Tabs built by scripts/sopTabs.inline.ts from the converter's .sop-tabs blocks.
+.sop-tabs {
+  margin: 1.25rem 0;
+
+  & > .sop-tab-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    border-bottom: 2px solid var(--secondary);
+
+    & > button {
+      font-family: var(--bodyFont);
+      font-size: 0.9rem;
+      font-weight: 600;
+      padding: 0.3rem 0.9rem;
+      margin-bottom: -2px;
+      border: 1px solid var(--lightgray);
+      border-bottom: 2px solid var(--secondary);
+      border-radius: 6px 6px 0 0;
+      background: var(--light);
+      color: var(--darkgray);
+      cursor: pointer;
+
+      &:hover {
+        color: var(--secondary);
+      }
+
+      &[aria-selected="true"] {
+        background: var(--secondary);
+        border-color: var(--secondary);
+        color: var(--light);
+      }
+    }
+  }
+
+  & > .sop-tab {
+    padding-top: 0.25rem;
+
+    & > :nth-child(2) {
+      margin-top: 0.75rem;
+    }
+  }
+
+  // Before the script runs (and in link-preview popovers) the labels act as section headings;
+  // once the tab bar exists they're redundant.
+  & > .sop-tab > .sop-tab-label {
+    font-weight: 700;
+    color: var(--secondary);
+    margin-top: 1rem;
+  }
+
+  &[data-ready] > .sop-tab > .sop-tab-label {
+    display: none;
+  }
+}

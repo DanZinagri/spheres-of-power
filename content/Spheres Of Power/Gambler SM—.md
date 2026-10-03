@@ -9,7 +9,11 @@ parent: "[[Thaumaturge]]"
 
 ---
 
-#### Baron's Secluded Library
+<div class="sop-tabs">
+
+<div class="sop-tab">
+
+<div class="sop-tab-label">Baron&#x27;s Secluded Library</div>
 
 *Source: [Baron's Secluded Library](https://www.drivethrurpg.com/en/product/560629/baron-s-secluded-library)*
 
@@ -70,6 +74,10 @@ This replaces channel punishment.
 At 11th level, whenever the gambler would lose ante as a result of rolling a natural 1, a target rolling a natural 20, or some other effect, he may spend an invocation to not lose any ante. He still suffers other penalties as normal.
 
 This replaces soulfire.
+
+</div>
+
+</div>
 
 ---
 

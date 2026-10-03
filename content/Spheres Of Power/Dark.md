@@ -8,7 +8,11 @@ parent: "[[Spheres Of Power]]"
 
 **Polished Spheres [DRS]**: [[Polished Dark|Polished Dark Sphere]] is a fully rewritten Dark sphere.
 
-#### Ultimate
+<div class="sop-tabs">
+
+<div class="sop-tab">
+
+<div class="sop-tab-label">Ultimate</div>
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
@@ -729,7 +733,11 @@ The Void Gazer is an archetype for the [[Thaumaturge]] that gives them shadowy n
 | 99 | The caster’s shadow attempts to hinder the caster, entangling him for 1d4 rounds. A successful Reflex save each round negates the entanglement for that round. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
 | 100 | For 1 minute per caster level, all effects of the Light sphere or with the light descriptor cast within long range of the caster have their caster level reduced by 1. This penalty increases by 1 for every 4 caster levels of the triggering effect. Effect’s with their caster level reduced to 0 or below by this effect are suppressed. |
 
-#### Original
+</div>
+
+<div class="sop-tab">
+
+<div class="sop-tab-label">Original</div>
 
 *Source: [Spheres of Power](https://www.drivethrurpg.com/product/129448/Spheres-of-Power?affiliate_id=549120)*
 
@@ -1223,6 +1231,10 @@ The Void Gazer is an archetype for the [[Thaumaturge]] that gives them shadowy n
 | 98 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
 | 99 | The caster’s shadow attempts to hinder the caster, entangling him for 1d4 rounds. A successful Reflex save each round negates the entanglement for that round. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
 | 100 | For 1 minute per caster level, all effects of the Light sphere or with the light descriptor cast within long range of the caster have their caster level reduced by 1. This penalty increases by 1 for every 4 caster levels of the triggering effect. Effect’s with their caster level reduced to 0 or below by this effect are suppressed. |
+
+</div>
+
+</div>
 
 ---
 

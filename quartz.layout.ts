@@ -6,7 +6,7 @@ import { BASE_URL } from "./site"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.SopTabs()],
   footer: Component.Footer({
     links: {
       "Open Game License": `https://${BASE_URL}/Meta/Legal-and-Open-Game-License`,

@@ -87,6 +87,18 @@ body {
   margin-top: 1.5rem;
 }
 
+// anchor jumps (search results, table of contents, tabs) land below the sticky bar
+:root {
+  --top-bar-offset: calc(#{$topBarHeight} + 1rem);
+  @media all and ($mobile) {
+    --top-bar-offset: 7rem; // the bar wraps to two lines on phones
+  }
+}
+
+:is(h1, h2, h3, h4, h5, h6, .sop-tabs) {
+  scroll-margin-top: var(--top-bar-offset);
+}
+
 // ---------------------------------------------------------------- tables
 // Class progression tables have many narrow numeric columns plus a long "Special" column:
 // smaller header text, tighter cells, and no forced 75px minimum so the text column gets the room.

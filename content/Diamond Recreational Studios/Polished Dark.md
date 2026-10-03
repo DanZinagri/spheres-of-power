@@ -8,7 +8,11 @@ parent: "[[Diamond Recreational Studios]]"
 
 The Polished Dark Sphere is a reworked version of the *Ultimate Spheres of Power* [[Dark|Dark Sphere]].
 
-#### Polished Dark
+<div class="sop-tabs">
+
+<div class="sop-tab">
+
+<div class="sop-tab-label">Polished Dark</div>
 
 *Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
 
@@ -1568,6 +1572,10 @@ Sablesavants are elementalists that mix and swirl their destructive magics with 
 ## [[Shadowsinger (Bard Archetype)|Shadowsinger]]
 
 Shadowsingers are bards that manipulate the lighting to set the mood.
+
+</div>
+
+</div>
 
 ---
 

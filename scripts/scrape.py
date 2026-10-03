@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import concurrent.futures as cf
+import html
 import json
 import re
 import shutil
@@ -277,11 +278,13 @@ class WikiConverter(MarkdownConverter):
     # simply shows the columns stacked.
     def convert_div(self, el, text, *args, **kw):
         cls = el.get("class") or []
-        if "sop-columns" in cls or "sop-col" in cls:
-            if not text.strip():
-                return ""  # every column/link in it was excluded
-            name = "sop-columns" if "sop-columns" in cls else "sop-col"
-            return f'\n\n<div class="{name}">\n\n{text.strip()}\n\n</div>\n\n'
+        if "sop-tab-label" in cls:
+            return f'\n\n<div class="sop-tab-label">{html.escape(el.get_text(" ", strip=True))}</div>\n\n'
+        for name in ("sop-columns", "sop-col", "sop-tabs", "sop-tab"):
+            if name in cls:
+                if not text.strip():
+                    return ""  # every column/link in it was excluded
+                return f'\n\n<div class="{name}">\n\n{text.strip()}\n\n</div>\n\n'
         return f"\n\n{text}\n\n" if text.strip() else ""
 
 
@@ -375,11 +378,18 @@ def rebalance_home_columns(md: str) -> str:
     # parse the grid into columns: <div class="sop-col"> ... </div> pairs, then the grid's </div>
     cols: list[list[str]] = []
     cur: list[str] | None = None
+    depth = 0  # divs nested inside the current column (e.g. tabs)
     i, end = start + 1, None
     while i < len(lines):
         l = lines[i].strip()
         if l == '<div class="sop-col">' and cur is None:
             cur = []
+        elif cur is not None and l.startswith("<div") and not l.endswith("</div>"):
+            depth += 1
+            cur.append(lines[i])
+        elif l == "</div>" and cur is not None and depth:
+            depth -= 1
+            cur.append(lines[i])
         elif l == "</div>" and cur is not None:
             cols.append(cur)
             cur = None
@@ -448,10 +458,16 @@ def set_column_counts(md: str) -> str:
             stack.append(["grid", i, 0, 0])
         elif s == '<div class="sop-col">':
             stack.append(["col", False])
-        elif s.startswith("| ---") and stack and stack[-1][0] == "col":
-            stack[-1][1] = True
+        elif s.startswith("<div") and not s.endswith("</div>"):
+            stack.append(["other"])  # e.g. tabs; one-line tab labels open and close on one line
+        elif s.startswith("| ---") and stack:
+            col = next((c for c in reversed(stack) if c[0] == "col"), None)
+            if col:
+                col[1] = True
         elif s == "</div>" and stack:
             top = stack.pop()
+            if top[0] == "other":
+                continue
             if top[0] == "col":
                 grid = next((g for g in reversed(stack) if g[0] == "grid"), None)
                 if grid:
@@ -529,16 +545,19 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None) -> Non
         for el in body.select(sel):
             el.decompose()
 
-    # Tabviews: each tab becomes a bold heading followed by its content.
+    # Tabviews (e.g. Ultimate / Original): .sop-tabs > .sop-tab (label + content). Quartz turns
+    # these into clickable tabs (components/SopTabs.tsx); Obsidian shows each label then its content.
     for nav in body.select(".yui-navset"):
         labels = [li.get_text(" ", strip=True) for li in nav.select(".yui-nav li")]
         panes = nav.select(".yui-content > div")
-        wrapper = soup_factory.new_tag("div")
+        wrapper = soup_factory.new_tag("div", attrs={"class": "sop-tabs"})
         for label, pane in zip(labels, panes):
-            h = soup_factory.new_tag("h4")
-            h.string = label
-            wrapper.append(h)
-            wrapper.append(pane)
+            tab = soup_factory.new_tag("div", attrs={"class": "sop-tab"})
+            name = soup_factory.new_tag("div", attrs={"class": "sop-tab-label"})
+            name.string = label
+            tab.append(name)
+            tab.append(pane)
+            wrapper.append(tab)
         nav.replace_with(wrapper)
 
     # Collapsibles: drop the "show/hide" toggles, keep the unfolded content with its label.

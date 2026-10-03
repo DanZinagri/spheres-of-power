@@ -16,6 +16,7 @@ import Graph from "./Graph"
 import Backlinks from "./Backlinks"
 import Search from "./Search"
 import PagefindSearch from "./PagefindSearch"
+import SopTabs from "./SopTabs"
 import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
@@ -43,6 +44,7 @@ export {
   Backlinks,
   Search,
   PagefindSearch,
+  SopTabs,
   Footer,
   DesktopOnly,
   MobileOnly,
