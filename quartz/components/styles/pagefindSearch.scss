@@ -95,6 +95,21 @@
     --pagefind-ui-font: var(--bodyFont);
     color: var(--darkgray);
 
+    // matches Pagefind's own search box while its bundle is loading
+    .pf-search-early {
+      box-sizing: border-box;
+      width: 100%;
+      height: 54px;
+      padding: 0 1.25rem;
+      font-family: var(--bodyFont);
+      font-size: 18px;
+      color: var(--dark);
+      background: var(--light);
+      border: 1px solid var(--lightgray);
+      border-radius: 6px;
+      outline: none;
+    }
+
     mark {
       background-color: var(--textHighlight);
       color: var(--dark);

@@ -1,6 +1,6 @@
 declare global {
   interface Window {
-    PagefindUI?: new (opts: Record<string, unknown>) => unknown
+    PagefindUI?: new (opts: Record<string, unknown>) => { triggerSearch(term: string): void }
   }
 }
 
@@ -48,11 +48,17 @@ document.addEventListener("nav", () => {
     document.body.style.overflow = "hidden"
     if (!mounted) {
       mounted = true
-      mount.textContent = "Loading search…"
+      // Stand-in input so anything typed while Pagefind downloads isn't lost
+      const early = document.createElement("input")
+      early.className = "pf-search-early"
+      early.placeholder = "Loading search…"
+      mount.replaceChildren(early)
+      early.focus()
       try {
         await loadPagefind(base)
-        mount.textContent = ""
-        new window.PagefindUI!({
+        const typed = early.value
+        mount.replaceChildren()
+        const ui = new window.PagefindUI!({
           element: mount,
           baseUrl: base.pathname,
           showSubResults: true,
@@ -67,6 +73,7 @@ document.addEventListener("nav", () => {
             return r
           },
         })
+        if (typed) ui.triggerSearch(typed)
       } catch {
         mounted = false
         mount.textContent = "Search index not found. Run `npx pagefind --site public` after building."
