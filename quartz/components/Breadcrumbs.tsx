@@ -58,8 +58,21 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       return null
     }
 
-    const crumbs: CrumbData[] = pathNodes.map((node, idx) => {
-      const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(node.slug))
+    // "Folder notes": a folder Foo/ holding Foo/Foo.md (a class page with its archetypes beside
+    // it). Its crumb opens that note instead of the folder listing, and on the note itself the
+    // folder crumb is dropped so it doesn't read "Armorist ❯ Armorist".
+    const slugs = new Set(allFiles.map((f) => f.slug))
+    const folderNote = (slug: string): FullSlug | undefined => {
+      const folder = slug.replace(/\/?index$/, "")
+      const name = folder.split("/").pop()
+      const note = `${folder}/${name}` as FullSlug
+      return name && slugs.has(note) ? note : undefined
+    }
+
+    let crumbs: CrumbData[] = pathNodes.map((node, idx) => {
+      const isFolder = idx > 0 && idx < pathNodes.length - 1
+      const target = (isFolder && folderNote(node.slug)) || node.slug
+      const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(target))
       if (idx === 0) {
         crumb.displayName = options.rootName
       }
@@ -71,6 +84,10 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
 
       return crumb
     })
+
+    if (pathNodes.length >= 3 && folderNote(pathNodes[pathNodes.length - 2].slug) === fileData.slug) {
+      crumbs = [...crumbs.slice(0, -2), crumbs[crumbs.length - 1]]
+    }
 
     if (!options.showCurrentPage) {
       crumbs.pop()

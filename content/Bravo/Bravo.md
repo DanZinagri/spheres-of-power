@@ -687,41 +687,17 @@ If you also possess the dynamic dodge class feature, you can expend your martial
 
 # Archetypes
 
-## [[Allusionist 3PP|Allusionist]] [SM—]
-
-Allusionists build their signature style by mimicking the great techniques and exploits of others.
-
-## [[Daredevil]] [DRS]
-
-These daredevils are far less methodical than a typical bravo, and instead can sweep themselves up in the heat of the moment for their own edge in combat.
-
-## [[Dreadnought]] [DRS]
-
-Less flighty than the typical bravo, a dreadnought is a hulking mass of scar tissue and sheer stubbornness that refuses to drop.
-
-## [[Dynamo (SM—)|Dynamo]] [SM—]
-
-Dynamos weave otherworldly power into their techniques, baffling foes by conflating the impossible with the implausible in the heat of battle.
-
-## [[Eclectic 3PP|Eclectic]] [SM—]
-
-Eclectics pursue multiple distinct whims, presenting a bizarre amalgamation of unique styles.
-
-## [[Quicksilver]] [DRS]
-
-Quicksilvers possess a supernatural deftness—and charm—that allows them to blur the lines of reality.
-
-## [[Serendipitist 3PP|Serendipitist]] [SM—]
-
-A serendipitist elevates their flamboyance into desperate gambles, throwing themselves wholeheartedly into peril and clutching whatever shreds of luck they can obtain.
-
-## [[Smasher]]
-
-Smashers, as the name suggests, excel at turning everyday items into dangerous weaponry.
-
-## [[Tracer]] [DRS]
-
-Without the focus on their versatile talent, these ‘tracers’ are able to prioritize training on dodging and weaving through the battlefield unharmed, as well as being quick on their feet when they need to be.
+| Archetype | Description |
+| --- | --- |
+| [[Allusionist 3PP\|Allusionist]] [SM—] | Allusionists build their signature style by mimicking the great techniques and exploits of others. |
+| [[Daredevil]] [DRS] | These daredevils are far less methodical than a typical bravo, and instead can sweep themselves up in the heat of the moment for their own edge in combat. |
+| [[Dreadnought]] [DRS] | Less flighty than the typical bravo, a dreadnought is a hulking mass of scar tissue and sheer stubbornness that refuses to drop. |
+| [[Dynamo (SM—)\|Dynamo]] [SM—] | Dynamos weave otherworldly power into their techniques, baffling foes by conflating the impossible with the implausible in the heat of battle. |
+| [[Eclectic 3PP\|Eclectic]] [SM—] | Eclectics pursue multiple distinct whims, presenting a bizarre amalgamation of unique styles. |
+| [[Quicksilver]] [DRS] | Quicksilvers possess a supernatural deftness—and charm—that allows them to blur the lines of reality. |
+| [[Serendipitist 3PP\|Serendipitist]] [SM—] | A serendipitist elevates their flamboyance into desperate gambles, throwing themselves wholeheartedly into peril and clutching whatever shreds of luck they can obtain. |
+| [[Smasher]] | Smashers, as the name suggests, excel at turning everyday items into dangerous weaponry. |
+| [[Tracer]] [DRS] | Without the focus on their versatile talent, these ‘tracers’ are able to prioritize training on dodging and weaving through the battlefield unharmed, as well as being quick on their feet when they need to be. |
 
 ---
 

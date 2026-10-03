@@ -292,17 +292,11 @@ When you use Mobile Striker and Sweeping Defense in the same round, instead of a
 
 ## Archetypes
 
-### [[Adamant Guardian]] (Sentinel)
-
-Adamant Guardians focus on protecting their allies even more than most sentinels do, and emphasize patrolling an area over challenging specific foes.
-
-### [[Marshal Controller]] (Mageknight) [CS]
-
-Marshal controllers are champions who can create powerful wards and patrol the battlefield to impose their own rules upon it.
-
-### [[Steelsoul Monk (Unchained Monk Archetype)|Steelsoul Monk]] (Monk)
-
-The steelsoul monk trains their body to be an impenetrable fortress.
+| Archetype | Description |
+| --- | --- |
+| [[Adamant Guardian]] (Sentinel) | Adamant Guardians focus on protecting their allies even more than most sentinels do, and emphasize patrolling an area over challenging specific foes. |
+| [[Marshal Controller]] (Mageknight) [CS] | Marshal controllers are champions who can create powerful wards and patrol the battlefield to impose their own rules upon it. |
+| [[Steelsoul Monk (Unchained Monk Archetype)\|Steelsoul Monk]] (Monk) | The steelsoul monk trains their body to be an impenetrable fortress. |
 
 ---
 

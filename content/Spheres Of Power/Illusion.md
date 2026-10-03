@@ -1311,13 +1311,10 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 # Archetypes
 
-## -[[Operative|Old Operative]]
-
-Operatives are Symbiats who use their mastery of Illusion and [[War]] to manage the battlefield.
-
-## -[[Solipsist|Old Solipsist]]
-
-Solipsists are Fey Adepts who use Intelligence to analyze and control the world.
+| Archetype | Description |
+| --- | --- |
+| -[[Operative\|Old Operative]] | Operatives are Symbiats who use their mastery of Illusion and [[War]] to manage the battlefield. |
+| -[[Solipsist\|Old Solipsist]] | Solipsists are Fey Adepts who use Intelligence to analyze and control the world. |
 
 ---
 

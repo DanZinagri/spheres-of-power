@@ -540,13 +540,10 @@ Even the most rigorously detailed models are bound by incompleteness, and unders
 
 # Archetypes
 
-## [[Sophist]]
-
-Sophists excel at using their words to trick others.
-
-## [[Tactical Innovator (Theorist Archetype)|Tactical Innovator]] [SM—]
-
-Tactical innovators use the adrenaline of combat as their research material
+| Archetype | Description |
+| --- | --- |
+| [[Sophist]] | Sophists excel at using their words to trick others. |
+| [[Tactical Innovator (Theorist Archetype)\|Tactical Innovator]] [SM—] | Tactical innovators use the adrenaline of combat as their research material |
 
 ---
 

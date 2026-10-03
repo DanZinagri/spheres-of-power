@@ -168,9 +168,9 @@ When you use Mobile Striker and Whirlwind Knockdown in the same round, you may i
 
 ## Archetypes
 
-### [[Vajrahasta]] [CS] (Armorist)
-
-Vajrahasta are capable of summoning weapons of pure lightning.
+| Archetype | Description |
+| --- | --- |
+| [[Vajrahasta]] [CS] (Armorist) | Vajrahasta are capable of summoning weapons of pure lightning. |
 
 ---
 

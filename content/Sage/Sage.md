@@ -516,25 +516,13 @@ As a full round action, the sage forms his ki into a wide web that can be hurled
 
 # Archetypes
 
-## [[Battleshifter]]
-
-Battleshifters are Sages who focus on shapeshifting themselves during battle.
-
-## [[Confluence]]
-
-Confluences are particularly attuned to nature's powers.
-
-## [[Resolute]]
-
-The Resolute Sage can strengthen their body to resist attacks.
-
-## [[Votary]]
-
-Votaries are considered the most dedicated of sages, renouncing worldly pleasures and material wealth in exchange for a greater connection with the universe around them.
-
-## [[Wand Master]]
-
-Wand Masters specialize in channeling their power through wands and spell engines.
+| Archetype | Description |
+| --- | --- |
+| [[Battleshifter]] | Battleshifters are Sages who focus on shapeshifting themselves during battle. |
+| [[Confluence]] | Confluences are particularly attuned to nature's powers. |
+| [[Resolute]] | The Resolute Sage can strengthen their body to resist attacks. |
+| [[Votary]] | Votaries are considered the most dedicated of sages, renouncing worldly pleasures and material wealth in exchange for a greater connection with the universe around them. |
+| [[Wand Master]] | Wand Masters specialize in channeling their power through wands and spell engines. |
 
 ---
 

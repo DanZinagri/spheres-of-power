@@ -874,25 +874,13 @@ The Inventor's Handbook 2 introduced new feats for crafting alchemical items and
 
 ## Archetypes
 
-### [[Doctor]] (Scholar)
-
-Doctors are scholars who focus their efforts on medicine, eventually learning to be more effective at healing allies and even protecting them from the Doctor's abilities.
-
-### [[Harmacist]] (Scholar)
-
-Harmacists are better at inflicting others with poison and disease than curing it.
-
-### [[Mortal Chemist (Alchemist Archetype)|Mortal Chemist]] (Alchemist)
-
-The mortal chemist is a practitioner of strange traditions that blend science and the martial arts into a kind of philosophy.
-
-### [[Physician (Alchemist Archetype)|Physician]] (Alchemist)
-
-Physicians know how the body works, and how to heal it.
-
-### [[Toilbrook (Witch Archetype)|Toilbrook]] (Witch)
-
-A toilbrook is a witch that prefers her cauldron over hexes and poppets.
+| Archetype | Description |
+| --- | --- |
+| [[Doctor]] (Scholar) | Doctors are scholars who focus their efforts on medicine, eventually learning to be more effective at healing allies and even protecting them from the Doctor's abilities. |
+| [[Harmacist]] (Scholar) | Harmacists are better at inflicting others with poison and disease than curing it. |
+| [[Mortal Chemist (Alchemist Archetype)\|Mortal Chemist]] (Alchemist) | The mortal chemist is a practitioner of strange traditions that blend science and the martial arts into a kind of philosophy. |
+| [[Physician (Alchemist Archetype)\|Physician]] (Alchemist) | Physicians know how the body works, and how to heal it. |
+| [[Toilbrook (Witch Archetype)\|Toilbrook]] (Witch) | A toilbrook is a witch that prefers her cauldron over hexes and poppets. |
 
 ---
 

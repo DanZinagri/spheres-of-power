@@ -372,45 +372,18 @@ This is a polymorph effect. If Transformative Ties was unweaved to activate a po
 
 # Archetypes
 
-## [[Casting Raveler (Raveler Archetype)|Casting Raveler]]
-
-Casting Ravelers forgo martial training in favor of greater magical prowess.
-
-## [[Card Caster (Raveler Archetype)|Card Caster]]
-
-Card Casters amplify the powers of their Card Casting with unique Cardweaving abilities.
-
-## [[Dynamist]]
-
-Dynamists draw upon the magical energy of others to fuel their magic, relying on these external sources to manipulate their ravels with greater freedom.
-
-## [[Guile Raveler (Raveler Archetype)|Guile Raveler]]
-
-Guile Ravelers utilize ravels to increase their skill capabilities while expanding their study of skill talents.
-
-## [[Martial Raveler (Raveler Archetype)|Martial Raveler]]
-
-Martial Ravelers use their raveling abilities strictly to improve their combat capacity.
-
-## [[Ravelbound (Raveler Archetype)|Ravelbound]]
-
-Ravelbound draw upon a dissident strife that shifts with the unbinding of their ravels.
-
-## [[Reality Striker (Raveler Archetype)|Reality Striker]]
-
-Reality Strikers unleash their ravels' power in explosive bursts.
-
-## [[Resolute Raveler (Raveler Archetype)|Resolute Raveler]]
-
-Resolute Ravelers couple fortified physical abilities with magical enhancements.
-
-## [[Scholastic Raveler (Raveler Archetype)|Scholastic Raveler]]
-
-Scholastic Ravelers leverage superior casting abilities alongside bursts of martial improvement.
-
-## [[Specialist (Raveler Archetype)|Specialist]]
-
-Specialists sacrifice versatility for greater power in a single sphere.
+| Archetype | Description |
+| --- | --- |
+| [[Casting Raveler (Raveler Archetype)\|Casting Raveler]] | Casting Ravelers forgo martial training in favor of greater magical prowess. |
+| [[Card Caster (Raveler Archetype)\|Card Caster]] | Card Casters amplify the powers of their Card Casting with unique Cardweaving abilities. |
+| [[Dynamist]] | Dynamists draw upon the magical energy of others to fuel their magic, relying on these external sources to manipulate their ravels with greater freedom. |
+| [[Guile Raveler (Raveler Archetype)\|Guile Raveler]] | Guile Ravelers utilize ravels to increase their skill capabilities while expanding their study of skill talents. |
+| [[Martial Raveler (Raveler Archetype)\|Martial Raveler]] | Martial Ravelers use their raveling abilities strictly to improve their combat capacity. |
+| [[Ravelbound (Raveler Archetype)\|Ravelbound]] | Ravelbound draw upon a dissident strife that shifts with the unbinding of their ravels. |
+| [[Reality Striker (Raveler Archetype)\|Reality Striker]] | Reality Strikers unleash their ravels' power in explosive bursts. |
+| [[Resolute Raveler (Raveler Archetype)\|Resolute Raveler]] | Resolute Ravelers couple fortified physical abilities with magical enhancements. |
+| [[Scholastic Raveler (Raveler Archetype)\|Scholastic Raveler]] | Scholastic Ravelers leverage superior casting abilities alongside bursts of martial improvement. |
+| [[Specialist (Raveler Archetype)\|Specialist]] | Specialists sacrifice versatility for greater power in a single sphere. |
 
 ---
 

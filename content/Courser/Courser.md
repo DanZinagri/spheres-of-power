@@ -415,29 +415,14 @@ This replaces harrying assault and deadly assault.
 
 # Archetypes
 
-## [[Gourmand]]
-
-Gourmands excel in creating exceptionally delicious meals for others.
-
-## [[Nomad]]
-
-Nomads are wanderers who truly prefer life out on the road.
-
-## [[Ravener]]
-
-Raveners are fearsome coursers who try to consume their foes whenever possible.
-
-## [[Survivor]] [DRS]
-
-Incredibly durable and capable of travelling far without tiring, these coursers do not see nature as a place to thrive, but to endure.
-
-## [[Venator]] [DRS]
-
-Venators prefer the use of traps to herd their prey.
-
-## [[Wildspeaker]] [CS]
-
-Wildspeakers are most adept at working with their animal allies.
+| Archetype | Description |
+| --- | --- |
+| [[Gourmand]] | Gourmands excel in creating exceptionally delicious meals for others. |
+| [[Nomad]] | Nomads are wanderers who truly prefer life out on the road. |
+| [[Ravener]] | Raveners are fearsome coursers who try to consume their foes whenever possible. |
+| [[Survivor]] [DRS] | Incredibly durable and capable of travelling far without tiring, these coursers do not see nature as a place to thrive, but to endure. |
+| [[Venator]] [DRS] | Venators prefer the use of traps to herd their prey. |
+| [[Wildspeaker]] [CS] | Wildspeakers are most adept at working with their animal allies. |
 
 ---
 

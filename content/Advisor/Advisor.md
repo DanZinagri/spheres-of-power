@@ -464,25 +464,13 @@ For as long as the synergy remains between the synergised allies (or for 1 minut
 
 # Archetypes
 
-## [[Captain]]
-
-Captains focus less on skill and guile, and more on their martial capacity.
-
-## [[Caretaker]] [H&B]
-
-Caretakers prioritize their base of operations over their tactical knowledge.
-
-## [[Dramaturge]]
-
-Dramaturges are the invisible leaders among a troupe, orchestrating their allies through performance.
-
-## [[Philosopher]]
-
-A Study-focused archetype, the philosopher encourages knowledge and critical thinking among their allies.
-
-## [[Regent]] [DRS]
-
-An advisor which runs its own embassy, as an envoy of its nation. Uses the DRS Kingking supplement.
+| Archetype | Description |
+| --- | --- |
+| [[Captain]] | Captains focus less on skill and guile, and more on their martial capacity. |
+| [[Caretaker]] [H&B] | Caretakers prioritize their base of operations over their tactical knowledge. |
+| [[Dramaturge]] | Dramaturges are the invisible leaders among a troupe, orchestrating their allies through performance. |
+| [[Philosopher]] | A Study-focused archetype, the philosopher encourages knowledge and critical thinking among their allies. |
+| [[Regent]] [DRS] | An advisor which runs its own embassy, as an envoy of its nation. Uses the DRS Kingking supplement. |
 
 # Favored Class Bonuses
 

@@ -1064,9 +1064,9 @@ The professional does not need to spend skill leverage when using assured expert
 
 # Archetypes
 
-## [[Trader]]
-
-Traders excel at managing logistics.
+| Archetype | Description |
+| --- | --- |
+| [[Trader]] | Traders excel at managing logistics. |
 
 ---
 

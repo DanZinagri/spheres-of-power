@@ -626,21 +626,12 @@ You can gain three feats at a time with quick study if all are teamwork feats an
 
 # Archetypes
 
-## [[Ambuscader]] [CS]
-
-Ambuscader know how to mix their plotting with more direct applications of martial power.
-
-## [[Malfeasant]] [CS]
-
-Malfeasants excel at mixing magic into their schemes.
-
-## [[Saboteur]]
-
-Saboteurs are exceptionally good at foiling the plans of their enemies.
-
-## [[Squad Operator]]
-
-Squad operators focus on managing a small team of specialists instead of a larger network of confidants.
+| Archetype | Description |
+| --- | --- |
+| [[Ambuscader]] [CS] | Ambuscader know how to mix their plotting with more direct applications of martial power. |
+| [[Malfeasant]] [CS] | Malfeasants excel at mixing magic into their schemes. |
+| [[Saboteur]] | Saboteurs are exceptionally good at foiling the plans of their enemies. |
+| [[Squad Operator]] | Squad operators focus on managing a small team of specialists instead of a larger network of confidants. |
 
 ---
 

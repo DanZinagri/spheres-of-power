@@ -631,25 +631,13 @@ While the hero may drive the story, the villain is the one who creates it. A sim
 
 # Archetypes
 
-## -[[Binder]]
-
-Binders share their bodies with otherworldly beings.
-
-## -[[Clone]]
-
-Clones specialize in copying the personas of others.
-
-## -[[Method Actor]]
-
-To truly assume a role, a skilled actor must not only change the way they appear but also the ways in which they interact with the world and the values they operate by. Method actors excel in establishing stringent doctrines by which to live, but at the same time are capable of changing their obligations at a moment’s notice.
-
-## -[[Polymath SM—|Polymath]] [SM—]
-
-Polymaths reinforce their acting prowess with an arsenal of well-honed skills.
-
-## -[[Ringmaster]]
-
-Ringmasters specialize in empowering a whole troupe of allies.
+| Archetype | Description |
+| --- | --- |
+| -[[Binder]] | Binders share their bodies with otherworldly beings. |
+| -[[Clone]] | Clones specialize in copying the personas of others. |
+| -[[Method Actor]] | To truly assume a role, a skilled actor must not only change the way they appear but also the ways in which they interact with the world and the values they operate by. Method actors excel in establishing stringent doctrines by which to live, but at the same time are capable of changing their obligations at a moment’s notice. |
+| -[[Polymath SM—\|Polymath]] [SM—] | Polymaths reinforce their acting prowess with an arsenal of well-honed skills. |
+| -[[Ringmaster]] | Ringmasters specialize in empowering a whole troupe of allies. |
 
 ---
 

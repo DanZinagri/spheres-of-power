@@ -197,6 +197,11 @@ class Page:
                 nxt = a.find_next(re.compile("^h[1-6]$"))
                 if nxt:
                     self.anchors[a["name"]] = heading_text(nxt)
+            # archetype entry headings become table rows; links to them land on the section
+            for section, entries in archetype_runs(self.body):
+                for heading, _ in entries:
+                    if heading.get("id"):
+                        self.anchors[heading["id"]] = heading_text(section)
         # (target slug, family) for every link the wiki wrapped in a product-line color
         self.colored: list[tuple[str, str]] = []
         if self.body:
@@ -643,6 +648,71 @@ def set_column_counts(md: str) -> str:
     return "\n".join(lines)
 
 
+ARCHETYPES_HEADING = re.compile(r"\s*archetypes\s*", re.I)
+
+
+def archetype_runs(body: Tag) -> list[tuple[Tag, list[tuple[Tag, list[Tag]]]]]:
+    """Class pages list archetypes as an 'Archetypes' heading followed by one sub-heading per
+    archetype (a link + tags) with a short description paragraph or two. Returns
+    (archetypes heading, [(entry heading, description paragraphs)]) for each such section whose
+    entries are all that simple; anything more complex is left alone."""
+    is_h = lambda el: isinstance(el, Tag) and re.fullmatch(r"h[1-6]", el.name or "")
+    runs = []
+    for h in body.find_all(re.compile(r"^h[1-6]$")):
+        if not ARCHETYPES_HEADING.fullmatch(h.get_text(" ", strip=True)):
+            continue
+        level = int(h.name[1])
+        sib = h.find_next_sibling()
+        while sib is not None and not is_h(sib) and sib.name != "hr":  # intro text stays as is
+            sib = sib.find_next_sibling()
+        entries, simple = [], True
+        while sib is not None and is_h(sib) and int(sib.name[1]) > level:
+            if not sib.find("a", href=True):
+                break
+            descs, nxt = [], sib.find_next_sibling()
+            while nxt is not None and not is_h(nxt) and nxt.name != "hr":
+                descs.append(nxt)
+                nxt = nxt.find_next_sibling()
+            if len(descs) > 3 or any(d.name != "p" for d in descs):
+                simple = False
+                break
+            entries.append((sib, descs))
+            sib = nxt
+        if simple and entries:
+            runs.append((h, entries))
+    return runs
+
+
+def archetype_section_tables(body: Tag, soup_factory) -> None:
+    """Replace simple archetype sections with an Archetype | Description table."""
+    for _, entries in archetype_runs(body):
+        table = soup_factory.new_tag("table", attrs={"class": "wiki-content-table"})
+        header = soup_factory.new_tag("tr")
+        for label in ("Archetype", "Description"):
+            th = soup_factory.new_tag("th")
+            th.string = label
+            header.append(th)
+        table.append(header)
+        for heading, descs in entries:
+            row = soup_factory.new_tag("tr")
+            name, desc = soup_factory.new_tag("td"), soup_factory.new_tag("td")
+            for child in list(heading.contents):
+                name.append(child)
+            for i, d in enumerate(descs):
+                if i:
+                    desc.append(soup_factory.new_tag("br"))
+                for child in list(d.contents):
+                    desc.append(child)
+            row.append(name)
+            row.append(desc)
+            table.append(row)
+        entries[0][0].insert_before(table)
+        for heading, descs in entries:
+            heading.decompose()
+            for d in descs:
+                d.decompose()
+
+
 ARCHETYPE_LINE = re.compile(r"^\*\*([^*\n]+)\*\*\s*\((.*)\)\s*$")
 
 
@@ -767,6 +837,7 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
         prune_excluded_entries(body, excluded)
         if nav:
             prune_excluded(body, excluded)
+    archetype_section_tables(body, soup_factory)
 
     # Store boxes: cover image linking to a shop + <strong>Book</strong> + price -> "Source: [Book](shop)".
     for img in body.find_all("img"):
@@ -860,34 +931,34 @@ def yaml_str(s: str) -> str:
 
 
 def assign_paths(pages: dict[str, Page]) -> None:
-    """Folder = top-level breadcrumb ancestor's title; filename = page title (deduped)."""
+    """Filename = page title (deduped). Folder = the page's breadcrumb chain on the wiki, one folder
+    per ancestor; a page that has subpages lives inside its own folder as a "folder note"
+    (Spheres Of Power/Armorist/Armorist.md, with Spheres Of Power/Armorist/Blaster.md beside it)."""
     used: dict[str, str] = {}
     for p in sorted(pages.values(), key=lambda p: p.slug):
         if p.slug == "start":
-            p.folder, p.filename = "", "index"
+            p.filename = "index"
             continue
-        if p.slug.startswith(("legal:", "nav:")):
-            p.folder = "Meta"
-        elif p.parents and p.parents[0] in pages:
-            p.folder = clean_filename(pages[p.parents[0]].title)
-        else:
-            p.folder = ""
         name = clean_filename(p.title)
         if name.lower() in used or name.lower() == "index":
             name = clean_filename(f"{p.title} ({p.slug.replace(':', '-')})")
         used[name.lower()] = p.slug
         p.filename = name
-    # Top-level hub pages live inside the folder named after them.
-    folders = {p.folder for p in pages.values()}
+
+    has_children = {p.parents[-1] for p in pages.values() if p.parents and p.parents[-1] in pages}
     for p in pages.values():
-        if p.folder or p.slug == "start":
+        if p.slug == "start":
+            p.folder = ""
             continue
-        if p.filename in folders:
-            p.folder = p.filename
-        elif "archetype" in p.title.lower():
-            p.folder = "Archetypes (Unsorted)"
-        else:
-            p.folder = "Other Pages"
+        if p.slug.startswith(("legal:", "nav:")):
+            p.folder = "Meta"
+            continue
+        segments = [pages[a].filename for a in p.parents if a in pages and a != "start"]
+        if p.slug in has_children:
+            segments.append(p.filename)
+        if not segments:  # the wiki never parented it
+            segments = ["Archetypes (Unsorted)" if "archetype" in p.title.lower() else "Other Pages"]
+        p.folder = "/".join(segments)
 
 
 def download_images(pages: dict[str, Page]) -> dict[str, str]:
@@ -924,7 +995,7 @@ def convert(with_images: bool) -> None:
             pages[slug] = Page(slug, f.read_text(encoding="utf-8"))
     assign_paths(pages)
     excluded = {s for s, p in pages.items()
-                if p.folder in EXCLUDED_SECTIONS or s in EXCLUDED_PAGES
+                if p.folder.split("/")[0] in EXCLUDED_SECTIONS or s in EXCLUDED_PAGES
                 or any(a in EXCLUDED_PAGES for a in p.parents)}
     for s in excluded:
         del pages[s]
