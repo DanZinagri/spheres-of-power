@@ -1,0 +1,150 @@
+/* Additions on top of ../character-builder/builder.css */
+.panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.panel > section > .grid,
+.card > .grid {
+  margin-bottom: 0.6rem;
+}
+.check {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.92em;
+  cursor: pointer;
+}
+.checks {
+  gap: 0.4rem 1.1rem;
+  margin: 0.25rem 0 0.6rem;
+}
+.section-head h2 {
+  margin: 0;
+}
+.add-row {
+  margin-top: 0.5rem;
+  gap: 0.35rem;
+}
+.add-row select {
+  font-size: 0.85em;
+  padding: 0.1rem 0.4rem;
+}
+.static {
+  padding: 0.3rem 0;
+  font-weight: 400;
+  color: var(--dark);
+}
+.rules-link {
+  font-weight: 400;
+  font-size: 0.9em;
+  margin-left: 0.25rem;
+}
+#library {
+  max-width: 14rem;
+}
+
+/* Effect cards */
+.comp {
+  margin-top: 0.75rem;
+}
+.comp-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+.comp-label {
+  flex: 1 1 12rem;
+  font-weight: 600;
+}
+.comp-price {
+  font: 700 1.05rem "Schibsted Grotesk", system-ui, sans-serif;
+  color: var(--dark);
+  font-variant-numeric: tabular-nums;
+}
+.comp-btns {
+  display: inline-flex;
+  gap: 0.2rem;
+}
+.kind-tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  background: var(--highlight);
+  color: var(--power);
+}
+.kind-tag.k-charm,
+.kind-tag.k-implement,
+.kind-tag.k-arms {
+  color: var(--might);
+}
+.kind-tag.k-custom {
+  color: var(--tertiary);
+}
+.comp-foot {
+  margin-top: 0.75rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--lightgray);
+  font-size: 0.9em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.comp-foot b {
+  color: var(--dark);
+}
+.combine {
+  margin-top: 0.5rem;
+}
+table.mods input[type="text"] {
+  width: 100%;
+  min-width: 7rem;
+}
+table.mods select {
+  max-width: 8.5rem;
+}
+table.mods th,
+table.mods td {
+  padding: 0.25rem 0.25rem;
+}
+table.mods input[type="number"] {
+  width: 4rem;
+}
+table.mods td.num[data-out] {
+  font-weight: 600;
+  color: var(--dark);
+}
+
+/* Summary */
+.summary .kv dd {
+  white-space: nowrap;
+}
+.summary .card h3 {
+  margin-top: 0;
+}
+.summary .card p {
+  margin: 0.4rem 0 0;
+  font-size: 0.92em;
+}
+.issues p {
+  margin: 0.2rem 0;
+}
+.blocker {
+  color: var(--might);
+  font-weight: 600;
+}
+.statblock {
+  white-space: pre-wrap;
+  word-break: break-word;
+  font: 0.85rem/1.45 "IBM Plex Mono", ui-monospace, monospace;
+  background: var(--highlight);
+  border-radius: 6px;
+  padding: 0.75rem;
+  margin: 0;
+  color: var(--dark);
+}

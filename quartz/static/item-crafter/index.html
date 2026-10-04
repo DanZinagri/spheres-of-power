@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Item Crafter</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@500;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+    />
+    <!-- shared look with the character builder; crafter.css only adds what this tool needs -->
+    <link rel="stylesheet" href="../character-builder/builder.css" />
+    <link rel="stylesheet" href="crafter.css" />
+    <script>
+      // pick up the wiki's light/dark choice before first paint (same key Quartz uses)
+      try {
+        const saved = localStorage.getItem("theme")
+        const dark = saved ? saved === "dark" : matchMedia("(prefers-color-scheme: dark)").matches
+        document.documentElement.dataset.theme = dark ? "dark" : "light"
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <div class="title">
+          <input id="itemName" class="name-input" placeholder="Item name" aria-label="Item name" />
+          <span id="itemLine" class="char-line"></span>
+        </div>
+        <div class="actions">
+          <select id="library" aria-label="Saved items" title="Items saved in this browser"></select>
+          <button id="btnNew" class="ghost" title="Start a new item">New</button>
+          <button id="btnDup" class="ghost" title="Copy this item">Duplicate</button>
+          <button id="btnDel" class="ghost danger" title="Delete this item">Delete</button>
+          <label class="ghost button" title="Load items from a file exported here">
+            Import<input id="fileLoad" type="file" accept=".json,application/json" hidden />
+          </label>
+          <button id="btnExport" class="ghost" title="Download every saved item as a file">Export</button>
+        </div>
+      </header>
+      <div class="layout">
+        <main id="panel" class="panel"></main>
+        <aside id="summary" class="summary" aria-label="Crafting summary"></aside>
+      </div>
+    </div>
+    <div id="toast" class="toast" role="status" hidden></div>
+    <script src="crafter.js"></script>
+  </body>
+</html>
