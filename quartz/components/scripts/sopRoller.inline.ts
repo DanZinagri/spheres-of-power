@@ -43,7 +43,72 @@ function tableAfter(marker: Element): HTMLTableElement | null {
   )
 }
 
+// Wild Magic page: a dropdown that shows one table panel (with its roller) at a time.
+// "#wm-dark" in the URL (links from the sphere pages) selects that panel.
+function showPanel(chooser: HTMLElement, id: string) {
+  const panels = Array.from(chooser.querySelectorAll<HTMLElement>(":scope > .sop-wm-panel"))
+  const target = panels.find((p) => p.id === id) ?? panels[0]
+  panels.forEach((p) => (p.hidden = p !== target))
+  const select = chooser.querySelector<HTMLSelectElement>(".sop-wm-select")
+  if (select && target) select.value = target.id
+}
+
+function setupChoosers() {
+  for (const chooser of Array.from(document.querySelectorAll<HTMLElement>(".sop-wildmagic"))) {
+    if (chooser.dataset.ready) continue
+    const panels = Array.from(chooser.querySelectorAll<HTMLElement>(":scope > .sop-wm-panel"))
+    if (!panels.length) continue
+    chooser.dataset.ready = "true"
+
+    const select = document.createElement("select")
+    select.className = "sop-wm-select"
+    select.setAttribute("aria-label", "Wild magic table")
+    const groups = new Map<string, HTMLOptGroupElement>()
+    for (const panel of panels) {
+      const name = panel.dataset.group ?? ""
+      let group = groups.get(name)
+      if (!group) {
+        group = document.createElement("optgroup")
+        group.label = name
+        groups.set(name, group)
+        select.appendChild(group)
+      }
+      const option = document.createElement("option")
+      option.value = panel.id
+      option.textContent = panel.dataset.name ?? panel.id
+      group.appendChild(option)
+    }
+    const onChange = () => {
+      showPanel(chooser, select.value)
+      history.replaceState(null, "", `#${select.value}`)
+    }
+    select.addEventListener("change", onChange)
+    window.addCleanup(() => select.removeEventListener("change", onChange))
+
+    const bar = document.createElement("label")
+    bar.className = "sop-wm-bar"
+    bar.append("Table: ", select)
+    chooser.prepend(bar)
+    showPanel(chooser, decodeURIComponent(location.hash.slice(1)))
+  }
+}
+
+function onHash() {
+  const id = decodeURIComponent(location.hash.slice(1))
+  const panel = id ? document.getElementById(id) : null
+  const chooser = panel?.closest<HTMLElement>(".sop-wildmagic")
+  if (panel && chooser && panel.classList.contains("sop-wm-panel")) {
+    showPanel(chooser, id)
+    // after the panel is visible; the browser's own jump to the (then hidden) anchor goes nowhere
+    // (a timer rather than requestAnimationFrame, which doesn't fire in background tabs)
+    setTimeout(() => chooser.scrollIntoView(), 50)
+  }
+}
+window.addEventListener("hashchange", onHash)
+
 document.addEventListener("nav", () => {
+  setupChoosers()
+  onHash()
   for (const marker of Array.from(document.querySelectorAll<HTMLElement>(".sop-roller"))) {
     if (marker.dataset.ready) continue
     const table = tableAfter(marker)

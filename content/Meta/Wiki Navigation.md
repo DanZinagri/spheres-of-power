@@ -21,7 +21,6 @@ Tags | Edit | Source | Print
 
 **Links**
 
-[[BB Code Profile Template]]
 [USoP Character Sheets](https://www.drivethrurpg.com/product/315724?affiliate_id=549120)
 [[How To Build A Champion|How to Build a Champion]]
 [[How To Build An Operative|How to Build an Operative]]

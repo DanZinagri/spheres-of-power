@@ -166,7 +166,7 @@ Now that you've selected your options, it's time to actually fill out your sheet
 - Skill Points
 - Values (Saving Throws, Attack Modifiers, Number of Spell Points, etc.)
 
-By the time you're done, your sheet should look something like [[The Classic Mage|this sample character]], and you're ready to play. If you're planning to play online (say, on Paizo's official forum), you can use [[BB Code Profile Template|this profile template]] to easily format your character sheet.
+By the time you're done, your sheet should look something like [[The Classic Mage|this sample character]], and you're ready to play. If you're planning to play online (say, on Paizo's official forum), you can use [this profile template](http://spheresofpower.wikidot.com/bb-code-profile-template) to easily format your character sheet.
 
 ## What about Equipment?
 

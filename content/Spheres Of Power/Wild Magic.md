@@ -124,11 +124,15 @@ Even using the major event rules, no sphere effect may have a wild magic chance 
 
 Universal wild magic can be triggered by a variety of effects, such as class abilities, when no base sphere is involved. They're also suitable for more generic effects that don't lean towards any particular sphere (such as raw chaos or pure magic going haywire).
 
-### Universal Wild Magic Generator
+## Wild Magic Tables
+
+<div class="sop-wildmagic">
+
+<div class="sop-wm-panel" id="wm-universal" data-name="Universal" data-group="General">
+
+**Universal**
 
 <div class="sop-roller"></div>
-
-### Universal Wild Magic Table
 
 | d100 | Result |
 | --- | --- |
@@ -233,17 +237,13 @@ Universal wild magic can be triggered by a variety of effects, such as class abi
 | 99 | A creature of the caster’s choice within long range gains the Extended Casting drawback, but not its benefits, for 1 day. |
 | 100 | (Combat) For 1d6 rounds, the caster leaves behind a shadowy trail of negative energy. Any creature that enters a square that has been occupied by the caster since the beginning of the caster’s previous turn takes negative energy damage equal to caster level. This is a negative energy effect. Creatures healed by negative energy are instead healed. A creature may only be affected by this ability once per turn. |
 
----
+</div>
 
-# Cantrip Wild Magic
+<div class="sop-wm-panel" id="wm-cantrip" data-name="Cantrip" data-group="General">
 
-Effects from this table can be triggered as described in the 'Wild Magic and Cantrips' section. These effects are generally milder than the other tables, and are suitable for odd but (usually) harmless results.
-
-### Cantrip Wild Magic Generator
+**Cantrip**
 
 <div class="sop-roller"></div>
-
-### Cantrip Wild Magic Table
 
 | d100 | Result |
 | --- | --- |
@@ -348,17 +348,13 @@ Effects from this table can be triggered as described in the 'Wild Magic and Can
 | 99 | A random creature within close range becomes hasted for 1 round as the Time sphere ability. |
 | 100 | A hookah with 1d4+1 hookah hoses and a single dose of tobacco already lit spontaneously appear in front of the caster and remains for 24 hours or until the keif is no longer present in the bowl, whichever comes first. |
 
----
+</div>
 
-# Major Events
+<div class="sop-wm-panel" id="wm-major-events" data-name="Major Events" data-group="General">
 
-Major Events are optional in games using Wild Magic. This table includes effects that are significantly more powerful than most results from the other tables. Unlike the Universal and Cantrip tables, these are not as suitable to impose as frequent environmental effects (except in extreme regions) because of the frequency of deadly and permanently character-altering effects.
-
-### Major Event Generator
+**Major Events**
 
 <div class="sop-roller"></div>
-
-### Major Event Table
 
 | d100 | Result |
 | --- | --- |
@@ -462,6 +458,2579 @@ Major Events are optional in games using Wild Magic. This table includes effects
 | 98 | All magic items (except artifacts) that grant a continuous effect within long range of the caster have their effects suppressed for 1 minute per caster level. |
 | 99 | The caster’s base attack bonus is reduced to 0 for 1 hour per caster level. |
 | 100 | All creatures within 1 mile per caster level of the caster lose all remaining spell points and spell slots. These can be regained later by normal means. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-alteration" data-name="Alteration" data-group="Spheres">
+
+**Alteration**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The effect fails and the target or targets become immune to polymorph effects for 1 round per caster level. |
+| 2 | The target switches sex. This effect is a permanent curse effect that can only be removed by the Break Enchantment talent of the Life sphere or other similar magic. |
+| 3 | There is a 50% chance each round that the shapeshift will have no effect that round. This does not end the effect or alter the effect’s duration. |
+| 4 | All creatures within close range of the target gain the swallow whole ability for 1 round per caster level. They may swallow creatures up to one size smaller than themselves and deal 1d6 points of damage plus 1d6 per 5 caster levels acid damage. This stacks with other polymorph effects. |
+| 5 | All creatures within close range of the target must succeed on a Fortitude save or switch sex. This effect is a permanent curse effect that can only be removed by the Break Enchantment talent or other similar magic. |
+| 6 | Any creature within close range of the caster must succeed on a Fortitude save or gain the form of a homogeneous glob for 1d4 rounds, retaining normal senses, gaining a 5 ft. land speed, and unable to speak, supply verbal or somatic components, or make any Strength or Dexterity ability checks or skill checks requiring those attributes. |
+| 7 | Any creature within close range of the target must succeed on a Fortitude save at the original DC or gain the form of a homogeneous glob for 1d4 rounds, retaining normal senses, gaining a 5 ft. land speed, and unable to speak, supply verbal or somatic components, or make any Strength or Dexterity ability checks or skill checks requiring those attributes. |
+| 8 | Any natural attacks granted to the target by the effect only deal nonlethal damage. |
+| 9 | Any target must succeed on a Fortitude save gain the form of a homogeneous glob for 1d4 rounds, retaining normal senses, gaining a 5 ft. land speed, and unable to speak, supply verbal or somatic components, or make any Strength or Dexterity ability checks or skill checks requiring those attributes. |
+| 10 | The caster gains the form of a homogeneous glob for 1d4 rounds, retaining normal senses, gaining a 5 ft. land speed, and unable to speak, supply verbal or somatic components, or make any Strength or Dexterity ability checks or skill checks requiring those attributes. |
+| 11 | The caster chooses one random allied creature within range that would be a valid target. That creature becomes the target, receiving the same options the original target would have received. The original target is unaffected. |
+| 12 | The caster chooses one creature or object in range that would be a valid target. That creature or object becomes an additional target, receiving the same options the original target would have received. |
+| 13 | The GM chooses one random creature or object in range that would be a valid target. That creature or object becomes the target, receiving the same options the original target would have received. The original target is unaffected. |
+| 14 | One random hostile creature within range that would be a valid target becomes the target, receiving the same options the original target would have received. The original target is unaffected. |
+| 15 | One weapon wielded by the target becomes an animal of the GM’s choice per the Transform Object advanced talent for 1d6 rounds. The animal is hostile toward the target. |
+| 16 | (Combat) The caster grows one size plus one size per 5 caster levels per the Size Change talent. This lasts 1d6 rounds, stacks with other polymorph effects, and overrides any other Size Changes from a polymorph effect. |
+| 17 | (Combat) The caster shrinks one size plus one size per 5 caster levels per the Size Change talent. This lasts 1d6 rounds, stacks with other polymorph effects, and overrides any other Size Changes from a polymorph effect. |
+| 18 | The caster switches sex. This effect is a permanent curse effect that can only be removed by the Break Enchantment talent or other similar magic. |
+| 19 | The casting time decreases one step. |
+| 20 | The casting time increases 1 step. |
+| 21 | The duration of the effect increases as if cast with the Extend Spell metamagic feat. |
+| 22 | The target gains an additional +2 bonus to natural armor for the duration of the effect. |
+| 23 | The target grows additional arms for the duration of the effect. These arms are non-functional, granting no bonuses any abilities, cannot wield weapons or hold or manipulate objects, and impose a -2 penalty on all Dexterity-based checks. |
+| 24 | The target grows an additional sets of legs for the duration of the effect. These legs are non-functional, granting no bonuses to speed, CMD, or other ability and impose a -2 penalty on all Dexterity-based checks. |
+| 25 | The target is covered in ears for the duration of the effect, granting a +4 competence bonus to sound-based Perception checks, but imposing a -4 penalty on saves against sonic effects. |
+| 26 | The target is covered in eyes for the duration of the shapeshift, granting a +4 competence bonus to vision-based Perception checks and immunity to flanking, but imposing a -4 penalty on saves against effects with the pattern and light descriptors and effects of the Light sphere. |
+| 27 | The target loses most of its skin for the duration of the effect, taking a -4 penalty against effects with the pain descriptor or that cause disease. |
+| 28 | The target may choose the granted form and traits, temporarily gaining knowledge of all available options when making the selection. |
+| 29 | The target may decline any or all granted traits. |
+| 30 | Effect receives a +2 bonus to caster level. |
+| 31 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 32 | The caster is covered in mouths for the duration of the shapeshift, granting a +4 competence bonus to taste-based Perception checks, but imposing a -4 penalty on saves against effects that require breathing, such as gaseous attacks. Whenever the caster deals unarmed damage to a target, the damage dealt increases by 1d8 and becomes bludgeoning, slashing, and piercing. |
+| 33 | For 1 hour per caster level, the caster’s appearance is hideously twisted, inflicting a -4 penalty on all Charisma-based skill checks except for Intimidate, which receives a +2 circumstance bonus. |
+| 34 | The caster gains the plant creature type for 1 hour. Do not recalculate base attack bonus, saves, or skill points. |
+| 35 | The caster makes a single magical skill check against all Alteration sphere effects and effects of the polymorph subschool within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 36 | All creatures within close range of the caster must succeed on a Will save or be reduced to animal intelligence as the Animal Mind talent for 1 round per caster level. |
+| 37 | All allied creatures within close range of the caster must succeed on a Will save or be reduced to animal intelligence as the Animal Mind talent for 1 round per caster level. |
+| 38 | All hostile creatures within close range of the caster must succeed on a Will save or be reduced to animal intelligence as the Animal Mind talent for 1 round per caster level. |
+| 39 | All creatures within medium range of the caster must succeed on a Fortitude save or grow as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 40 | All creatures within medium range of the caster must succeed on a Fortitude save or shrink as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 41 | (Combat) All hostile creatures within medium range of the caster must succeed on a Fortitude save or grow as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 42 | (Combat) All hostile creatures within medium range of the caster must succeed on a Fortitude save or shrink as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 43 | All allied creatures within medium range of the caster must succeed on a Fortitude save or grow as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 44 | All allied creatures within medium range of the caster must succeed on a Fortitude save or shrink as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 45 | The caster grows as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 46 | The caster shrinks as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 47 | The caster’s arms and legs are replaced by tentacles for 1 minute per caster level. These tentacles may supply somatic components, wield weapons and shields, and use items as the caster’s normal limbs. The caster’s speed is not changed. Each tentacle grants a tentacle natural attack (secondary, 1d4 medium, 1d3 Small). |
+| 48 | The caster’s arms and legs are replaced by tentacles for 1 round per caster level. These tentacles may not supply somatic components, wield weapons and shields, nor use items. The caster’s base speed is 10 ft. and gains a climb speed of 20 feet. Each tentacle grants a tentacle natural attack (secondary, 1d4 medium, 1d3 Small) with the reach property. |
+| 49 | All creatures of the animal type within long range are affected by the humanoid (not hybrid) option of the Anthropomorphic Transformation talent for 1 hour, appearing as the dominant humanoid race in the area. This does not grant any additional traits. |
+| 50 | The caster makes a single magical skill check against all Alteration sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 51 | The caster makes a single magical skill check against all Alteration sphere and polymorph subschool effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 52 | The caster gains the form of a Tiny, harmless animal of the GM’s choice for 1 minute per caster level. Apply the Size Change and Animalistic Transformation talents to determine statistics. |
+| 53 | The target appears as a juvenile version of the form it would have gained for the duration of the effect. Reduce size by 1 category per the Size Change talent. The target gains a +2 circumstance bonus on all Charisma-based skill checks while under this effect, except for Intimidate, which takes a -2 penalty. |
+| 54 | The caster grows an additional head for 1 minute per caster level, allowing him to concentrate on a single effect as a swift action. |
+| 55 | For 1 round, the caster’s eyes are sealed over, blinding him. |
+| 56 | For 1 minute, the caster loses his vocal chords and is unable to speak. |
+| 57 | For 1 minute per caster level, the caster’s ears (or equivalent) are deformed, rendering him deaf. |
+| 58 | For 1 round per caster level, the caster’s body is twisted, staggering him. |
+| 59 | For 1 round per caster level, the caster’s body is twisted, nauseating him. |
+| 60 | For 1 round per caster level, the target’s body is twisted, staggering it. |
+| 61 | For 1 round per caster level, the target’s body is twisted, nauseating it. |
+| 62 | The target’s eyes are sealed over, blinding it for the duration of the effect. |
+| 63 | The target loses its vocal cords and is unable to speak for the duration of the effect. |
+| 64 | The target’s ears (or equivalent) are deformed for the duration of the effect, rendering it deaf. |
+| 65 | The target’s arms and legs are replaced by tentacles for the duration of the effect. These tentacles may not supply somatic components, wield weapons and shields, nor use items. The target’s base speed becomes 10 ft. and it gains a climb speed of 20 feet. Each tentacle grants a tentacle natural attack (secondary, 1d4 medium, 1d3 Small) with the reach property. |
+| 66 | The target shrinks as per the Size Change talent for 1 round per caster level. This stacks with other polymorph effects. |
+| 67 | The caster’s skin thickens, granting a +2 natural armor bonus for 1 minute. This stacks with other sources of natural armor. |
+| 68 | The target’s natural armor bonus is reduced by half the effect’s caster level (minimum 1) for the duration of the effect, to a minimum of 0 natural armor. |
+| 69 | For 1 hour, the caster loses all traits (other than basic shape, speed, and normal vision) granted by his race as if under the effects of a polymorph effect that alters form (such as darkvision, natural armor, natural attacks, etc.), though his form does not change. |
+| 70 | For 1 round per caster level, the caster loses his head (or equivalent), rendering him blind, deaf, and mute, but also making him immune to the effects of the vorpal weapon enchantment. |
+| 71 | For the duration of the effect, the target grows a shiny carapace that makes clicking noises when it moves, imposing a penalty of Stealth checks equal to half of the effect’s caster level. |
+| 72 | For 1 hour, the caster grows a shiny carapace that makes clicking noises when it moves, imposing a penalty of Stealth checks equal to half of the effect’s caster level. |
+| 73 | For 1 minute, the caster has his Intelligence reduced as by the Animal Mind talent. |
+| 74 | For 1 hour, any natural attacks the caster possesses become rounded and soft and deal only nonlethal bludgeoning damage with damage die reduced by one size. |
+| 75 | The target loses any natural attacks it possesses or would be granted for the duration of the effect. |
+| 76 | The caster loses any natural attacks he possesses or would be granted for 1 hour. |
+| 77 | (Combat) All creatures within close range of the caster must succeed on a Fortitude save or lose any natural attacks they possesses for 1 round per caster level. |
+| 78 | (Combat) All creatures within close range of the caster have any natural attack they possess become rounded and soft and deal only nonlethal bludgeoning damage with damage die reduced by one size. |
+| 79 | All hostile creatures within close range of the caster must succeed on a Fortitude save or lose any natural attacks they possesses for 1 round per caster level. |
+| 80 | (Combat) All allied creatures within close range of the caster must succeed on a Fortitude save or lose any natural attacks they possesses for 1 round per caster level. |
+| 81 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 82 | The caster is fatigued. |
+| 83 | The caster is exhausted. |
+| 84 | (Combat) The caster is stunned for 1 round. |
+| 85 | (Combat) The caster is dazed for 1 round. |
+| 86 | (Combat) The caster is nauseated for 1 round. |
+| 87 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 88 | Roll again on the Universal wild magic table. |
+| 89 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 90 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 91 | The caster loses access to this sphere for 1d6 rounds. |
+| 92 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 93 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 94 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 95 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 96 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 97 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 98 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 99 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 100 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-blood" data-name="Blood" data-group="Spheres">
+
+**Blood**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | For 1 minute per caster level, the casters gains a +1 bonus to attack rolls and caster level while taking bleed damage. This increases by +1 for every 10 character levels. |
+| 2 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 3 | For 1 hour per caster level, the caster gains a hunger for blood. The caster gains a bite attack (primary, 1d6 medium, 1d4 small) and the Blood Thirst feat for the duration of this effect. Every hour spent without using this feat causes the caster to suffer 2 points of Constitution damage. |
+| 4 | For 10 minutes per caster level, whenever the caster spends a spell point, all creatures within 30 ft. take bleed damage equal to half the caster’s Hit Dice for a number of rounds equal to caster level. This bleed damage may be stopped with a DC 15 heal check or any amount of healing. |
+| 5 | The caster takes 1d4 points of Constitution drain (or Charisma drain, if the caster has no Constitution score) and a blood elemental is created in an adjacent space. This elemental is of the largest size possible based on caster level and serves the caster. This elemental remains for 1 minute per caster level and does not count against the total hit dice of blood elementals the caster may control. |
+| 6 | For 10 minutes per caster level, whenever the caster spends a spell point, he takes bleed damage equal to half his Hit Dice for a number of rounds equal to caster level. This bleed damage may be stopped with a DC 15 heal check or any amount of healing. |
+| 7 | (Combat) All creatures hostile within 60 ft. of the caster begin taking bleed damage equal to caster level. This effect automatically ends after 1 minute. |
+| 8 | For 1 minutes per caster level, the caster leaves a trail per the spell point option of the Slick talent, even if not suffering from bleed damage. |
+| 9 | For 1 round per caster level, all creatures within 20 ft. of the caster (excluding the caster) have their blood turned highly acidic, dealing 1 acid damage per caster level per round. If a creature is suffering bleed damage, all adjacent creatures and objects suffer this acid damage as well. Multiple sources of this damage do not stack. |
+| 10 | All allied creatures within 30 ft. of the caster must succeed on a Fortitude save or dissolve into a puddle of blood until the start of their next turn. In this form, they gain immunity to bludgeoning, electricity, piercing, and slashing damage, gain vulnerability to cold and fire damage, and are only able to take mental-only actions. Such creatures have no control over their movement or form and will flow as a liquid to the lowest available point if not on a flat surface, moving at a rate of 20 ft. per round. |
+| 11 | (Combat) For 1 round per caster level, the ground within 30 ft. of the target or center of the target area becomes covered in sticky blood, creating difficult terrain. |
+| 12 | (Combat) For 1 round per caster level, all susceptible hostile creatures within 30 ft. of the caster begin bleeding around their eyes, imposing a 20% miss chance. This blood can be wiped away as a move action, removing the miss chance until the end of the creature’s turn. |
+| 13 | All creatures within 30 ft. of the caster must succeed on a Fortitude save or take 1d4 Constitution damage and emit a wave of blood that bullrushes all creatures within 20 ft. directly away, with a CMB equal to caster level + CAM. This does not provoke attacks of opportunity. |
+| 14 | For 10 minutes per caster level, the caster drips blood, suffering the effects of the Slick talent, even if not suffering from bleed damage. |
+| 15 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 16 | For 1 round per caster level, the caster becomes a mist of blood per the mist form ability of the bloodscarred archetype of the symbiat class. |
+| 17 | All creatures within 30 ft. of the caster must succeed on a Fortitude save or take 1d2 Constitution damage and be shot 10 ft. + 10 ft. per 5 caster levels into the air on a pillar of pressurized blood. The pillar remains until the start of the caster’s next turn. Creatures on the pillar must succeed on a concentration check with a DC of 15 + caster level to cast a spell or perform any task requiring concentration. At the end of this result’s effect, creatures unable to fly fall, taking falling damage according to the pillar’s height. Creatures may move off the pillar if they succeed on a Reflex save but count as starting from prone. |
+| 18 | For 1 round per caster level, all creatures within 120 ft. of the caster that take bleed damage have their blood turn black. Any bleed damage they take becomes negative energy damage. |
+| 19 | The caster becomes immune to blood control for 1 minute per caster level; any ongoing blood control effects on the caster end immediately. |
+| 20 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 21 | The caster takes 1d4 Constitution damage and emits a wave of blood that bullrushes all creatures within 20 ft. directly away, with a CMB equal to caster level + CAM. This does not provoke attacks of opportunity. |
+| 22 | The effect fails and the action is lost. Any SP spent are lost. |
+| 23 | (Combat) For 1 round per caster level, all allied creatures within 100 ft. of the caster take a -2 penalty to attack rolls and caster level while taking bleed damage. This penalty increases by -1 for every 7 caster levels. |
+| 24 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 25 | (Combat) For 1 round per caster level, the blood of all creatures within 30 ft. of the caster thickens, reducing any bleed damage taken by half but imposing a -10 ft. penalty on all movement modes and a -2 penalty on Reflex saves, Dexterity checks, and Dexterity-based skill checks. |
+| 26 | (Combat) For 1 round per caster level, all creatures within 100 ft. of the caster gain a +1 bonus to attack rolls and caster level while taking bleed damage. This bonus increases by +1 for every 7 caster levels. |
+| 27 | For 10 minutes per caster level, the caster may squirt blood from his eyes, mouth, etc., granting a +1 circumstance bonus on Intimidate checks. This bonus increases by +1 at caster level 5 and every 5 caster levels thereafter. |
+| 28 | Until the start of his next turn, the caster dissolves into a puddle of blood. In this form, the caster gains immunity to bludgeoning, electricity, piercing, and slashing damage, gains vulnerability to cold and fire damage, and is only able to take mental-only actions. The caster has no control over his movement or form and will flow as a liquid to the lowest available point if not on a flat surface, moving at a rate of 20 ft. per round. |
+| 29 | All ongoing bleed damage affecting hostile creatures within 60 ft. of the caster immediately stops as if targeted by the coagulate (still) ability. This result is resolved after the triggering effect |
+| 30 | For 1 hour, the caster may choose to dissolve into a puddle of blood or return to his normal form as a move action. In this form, the caster gains immunity to bludgeoning, electricity, piercing, and slashing damage, gains vulnerability to cold and fire damage, and is only able to take mental-only actions. The caster has no control over his movement or form and will flow as a liquid to the lowest available point if not on a flat surface, moving at a rate of 20 ft. per round. |
+| 31 | The effect fails, but the action is not lost. Any SP spent are lost. |
+| 32 | (Combat) For 1 round per caster level, blood rains down in a 60 ft. radius around the caster. This thick red rain obscures all sight, including darkvision, beyond 5 feet. A creature 5 ft. away has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target). In addition, the ground within this area becomes slick, and counts as difficult terrain. |
+| 33 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 34 | (Combat) For 1 round per caster level, the caster’s eyes begin bleeding, blinding the caster. This blood can be wiped away as a move action, removing the blindness until the end of the caster’s turn. |
+| 35 | (Combat) The caster takes 1d4 Constitution damage and emits a line of blood that bullrushes and trips all creatures in a line 10 ft. long per caster level and 5 ft. wide + 5 ft. per 5 caster levels, with a CMB equal to caster level + CAM. The caster may chose the direction of this line. This does not provoke attacks of opportunity. |
+| 36 | For 1 minute per caster level, an enormous mosquito swarm covers a 120 ft. radius around the caster. This swarm has the statistics of a normal mosquito swarm, but has hit points equal to caster level x 10. The swarm remains stationary. |
+| 37 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 38 | For 10 minutes per caster level, the caster is sickened whenever within 30 ft. of a creature taking bleed damage. |
+| 39 | (Combat) For 1 round per caster level, all susceptible creatures within 30 ft. of the caster begin bleeding around their eyes, imposing a 20% miss chance. This blood can be wiped away as a move action, removing the miss chance until the end of the creature’s turn. |
+| 40 | Roll again on the Universal wild magic table. |
+| 41 | For 1 hour, any creature that is slain within 120 ft. of the caster explodes in a shower of gore. Any creature with 30 ft. of the slain creature is nauseated for 1 round and sickened for 1 minute thereafter. Individual creatures can only be affected by this result once per 24 hours. |
+| 42 | As an instantaneous effect, all water within 400 ft. of the caster is turned to blood. |
+| 43 | For 1 minute per caster level, the caster is pursued by a mosquito swarm. This swarm appears adjacent to the caster and attempts to enter the caster’s space to the best of its ability. |
+| 44 | For 1 minute per caster level, the caster becomes a blood elemental. Treat this as the water elemental option of the Alteration sphere’s Elemental Transformation, with the addition of the blood construct’s absorb blood ability. No additional Alteration sphere traits may be added to this effect. This is a polymorph effect. |
+| 45 | The casting time increases by 2 steps. |
+| 46 | As an instantaneous effect, all drops of blood within 30 ft. of the caster transforms into a spider. A swarm of spiders is created sharing the space of every creature within this radius that is suffering bleed damage, below half hit points and not immune to bleed damage, or that has died in the past hour and was not immune to bleed damage. |
+| 47 | (Combat) For 1 round per caster level, all susceptible allied creatures within 30 ft. of the caster begin bleeding around their eyes, imposing a 20% miss chance. This blood can be wiped away as a move action, removing the miss chance until the end of the creature’s turn. |
+| 48 | (Combat) For 1 round per caster level, a mist of blood as per the Red Mist talent cover an area within 60 ft. of the caster. This result follows the caster. |
+| 49 | For 1 hour per caster level, all blood within 400 ft. of the caster glows. Creatures susceptible to blood control shed light as a candle. Creatures suffering from bleed damage shed light as a torch. Anyone attempting to follow the trail of a creature suffering bleed damage gain a +10 circumstance bonus to their survival check to track as long as the trail is within this area. |
+| 50 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 51 | (Combat) The caster is dazed for 1 round. |
+| 52 | For 10 minutes per caster level, whenever the caster takes slashing or piercing damage originating from a creature within 20 ft., that creature must succeed on a Reflex save or a blinded by the spray of blood. This blindness continues until the creature spends a standard action or two move actions wiping it away. |
+| 53 | For 1 round per caster level the caster’s blood becomes highly acidic, dealing 1 acid damage per caster level per round. If the caster is suffering bleed damage, all adjacent creatures and objects suffer this acid damage as well. Multiple sources of this acid damage do not stack. |
+| 54 | As an instantaneous effect, all blood within 400 ft. of the caster that is not contained inside a creature is turned to water. |
+| 55 | All creatures within 30 ft. of the caster must succeed on a Fortitude save or dissolve into a puddle of blood until the start of their next turn. In this form, they gain immunity to bludgeoning, electricity, piercing, and slashing damage, gain vulnerability to cold and fire damage, and are only able to take mental-only actions. Such creatures have no control over their movement or form and will flow as a liquid to the lowest available point if not on a flat surface, moving at a rate of 20 ft. per round. |
+| 56 | The caster makes a single magical skill check against all Blood sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 57 | (Combat) For 1 round per caster level, all weapon attacks made within 60 ft. of the caster deal additional bleed damage equal to 1/4 caster level (minimum 1). This does not stack with any other bleed damage they may deal. |
+| 58 | For 1 round per caster level, all bleed damage within 30 ft. of the caster is doubled. |
+| 59 | (Combat) For 1 round per caster level, the ground within 30 ft. of the caster becomes covered in sticky blood, creating difficult terrain. |
+| 60 | The caster makes a single magical skill check against all Blood sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 61 | For 1 minute per caster level, the caster leaves a trail of burning blood behind, dealing 1 fire damage per caster level to any creature that enters a square the caster has left since the start of the casters last turn. |
+| 62 | The caster takes 1d4 points of Constitution drain (or Charisma drain, if the caster has no Constitution score) and a blood elemental is created in an adjacent space. This elemental is of the largest size possible based on caster level and is hostile toward the caster. This elemental remains for 1 minute per caster level and does not count against the total hit dice of blood elementals the caster may control. |
+| 63 | For 1 hour per caster level, the caster leaves a trail of blood. This trail gives a +5 circumstance bonus to any creature attempting to track the caster. This bonus is doubled if the creature possesses the scent ability. Additionally, the blood trail may attract predatory creatures as appropriate to the environment. |
+| 64 | For 1 round per caster level, a mist of blood as per the Red Mist talent cover an area within 60 ft. of the target or center of the target area. Any creature that enters or starts its turn within this area takes 1 fire damage per caster level. This result remains stationary. |
+| 65 | (Combat) For 1 round per caster level, the ground within 30 ft. of the caster becomes covered in blood, causing all creatures within this area to slip as per the Slick talent. This effect moves with the caster. |
+| 66 | For 1 minute per caster level, the caster experiences a rush of empowered blood, gaining a +10 circumstance bonus to all non-magical movement speeds. |
+| 67 | The effect fails and the action is lost. Any SP spent are not lost. |
+| 68 | Effect receives a +2 bonus to caster level. |
+| 69 | (Combat) The caster takes 1d4 Constitution damage and emits a line of blood that bullrushes and trips all creatures in a line 10 ft. long per caster level and 5 ft. wide + 5 ft. per 5 caster levels, with a CMB equal to caster level + CAM. The direction of this line is chosen randomly using the thrown splash weapon miss rules. This does not provoke attacks of opportunity. |
+| 70 | For 10 minutes per caster level, the caster takes a -1 bonus to attack rolls and caster level while taking bleed damage. This penalty increases by -1 for every 5 character levels. |
+| 71 | For 10 minutes per caster level, the caster’s blood thickens, reducing any bleed damage taken by half but imposing a -10 ft. penalty on all movement modes and a -2 penalty on Reflex saves, Dexterity checks, and Dexterity-based skill checks. |
+| 72 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 73 | (Combat) For 1 round per caster level, all creatures within 100 ft. of the caster take a -1 penalty to attack rolls and caster level while taking bleed damage. This penalty increases by -1 for every 7 caster levels. |
+| 74 | (Combat) The caster is stunned for 1 round. |
+| 75 | The caster is exhausted. |
+| 76 | For 1 round per caster level, a mist of blood as per the Red Mist talent cover an area within 60 ft. of the target or center of the target area. This result remains stationary. |
+| 77 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 78 | The casting time decreases by 1 step. |
+| 79 | The caster loses access to this sphere for 1 minute per caster level. |
+| 80 | For 1 round per caster level, all bleed damage within 30 ft. of the caster is halved. |
+| 81 | The casting time increases by 1 step. |
+| 82 | (Combat) For 1 round per caster level, the ground within 30 ft. of the target or targets becomes covered in blood, causing all creatures within this area to slip as per the Slick talent. This effect remains stationary. |
+| 83 | (Combat) The caster is nauseated for 1 round. |
+| 84 | The caster begins taking bleed damage equal to caster level. This effect automatically ends after 1 minute. |
+| 85 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 86 | (Combat) For 1 round per caster level, all hostile creatures within 100 ft. of the caster gain a +2 bonus to attack rolls and caster level while taking bleed damage. This bonus increases by +1 for every 7 caster levels. |
+| 87 | For 1 minute per caster level, the caster leaves a trail of acidic blood behind, dealing 1 acid damage per caster level to any creature that enters a square the caster has left since the start of the casters last turn. |
+| 88 | (Combat) For 10 minutes, any bludgeoning, piercing, or slashing damage dealt within 100 ft. of the caster results in gratuitously large spray of blood. This has no mechanical effect. Any creature reduced to 0 or fewer hit points within this area that would be susceptible to the caster’s blood control has a 10 ft. radius around their space filled with blood, making it difficult terrain. This difficult terrain lasts for the duration of this result. |
+| 89 | All ongoing bleed damage within 60 ft. of the caster immediately stops as if targeted by the coagulate (still) ability. |
+| 90 | As an instantaneous effect, any creature currently under the effects of a disease, poison, or potion and suffering from bleed damage immediately has the disease, formulae, potion, or poison effects end as the cause is drawn from its blood. |
+| 91 | The casting time decreases by 2 steps. |
+| 92 | For 1 round per caster level, a mist of blood as per the Red Mist talent cover an area within 60 ft. of the target or center of the target area. Any creature that enters or starts its turn within this area takes 1 acid damage per caster level. This result remains stationary. |
+| 93 | For 1 minute per caster level, all creatures within 6- ft. of the caster experiences a rush of empowered blood, gaining a +10 circumstance bonus to all non-magical movement speeds. |
+| 94 | All creatures allied within 60 ft. of the caster begin taking bleed damage equal to caster level. This effect automatically ends after 1 minute. |
+| 95 | For 10 minutes per caster level, whenever the caster deal slashing or piercing damage to a creature within 20 ft., the caster must succeed on a Reflex save or a blinded by the spray of blood. This blindness continues until the caster spends a standard action or two move actions wiping it away. |
+| 96 | The caster takes 1d4 Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 97 | For 10 minutes per caster level, all creatures that die within 60 ft. of the caster have their blood extracted to create a blood construct per the Extract Blood Construct talent. Constructs created this way are hostile toward the caster and do not count against the number of Hit Dice of constructs he can control. |
+| 98 | The caster is fatigued. |
+| 99 | All creatures within 60 ft. of the caster begin taking bleed damage equal to caster level. This effect automatically ends after 1 minute. |
+| 100 | (Combat) For 1 round per caster level, the caster acts as if under the effects of the Blood Puppet talent, controlled by the nearest intelligent (INT greater than 2) hostile creature. The controlling creature is aware of this and intuitively knows how to use this ability. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-conjuration" data-name="Conjuration" data-group="Spheres">
+
+**Conjuration**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | (Combat) The caster is stunned for 1 round. |
+| 2 | For the duration of the effect, the summoned or called creature gains resistance to electricity equal to your caster level. This stacks with any resistance it already possesses. |
+| 3 | For the duration of the effect, all the summoned or called creature’s natural attacks have their damage die size increased one step. |
+| 4 | The summoned or called creature is one size smaller than normal, per the Altered Size (form) talent, to a minimum size of Fine. This may decrease the companions size beyond the limits of Altered Size, granting an additional -2 Strength and +2 Dexterity per additional size category. |
+| 5 | The caster is fatigued. |
+| 6 | The summoned or called creature appears with its Hit Dice minimized (1 hit point per Hit Die before Constitution and other bonuses). |
+| 7 | For the duration of the effect, the summoned or called creature gains vulnerability to cold. |
+| 8 | Effect receives a -4 penalty to caster level (minimum 1). This penalty may decrease your companion’s Hit Dice. |
+| 9 | For the duration of the effect, the summoned or called creature leaves a trail of foul smelling slime. This slime persists until washed away or otherwise cleansed. |
+| 10 | The summoned or called creature is distrustful of the caster and attempts to resist any effects the caster uses on it and does not benefit from flanking or aid another bonuses from the caster. |
+| 11 | For the duration of the effect, all effects dependent on alignment treat the summoned or called creature as if it had no alignment subtypes and a true neutral alignment. |
+| 12 | The summoned or called creature is one size larger than normal, per the Altered Size (form) talent, to a maximum size of Colossal. This may increase the creature’s size beyond the limits of Altered Size, granting an additional +4 Strength, -2 Dexterity, and +2 Constitution per additional size category. |
+| 13 | For the duration of the effect,the first time each round that the summoned or called creature received damage from any source, it must succeed on a Fortitude save with a DC equal to the damage dealt or be banished. The creature may be summoned or called again as normal. |
+| 14 | (Combat) The summoned or called creature becomes staggered for 1 round per caster level. |
+| 15 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 16 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 17 | For the duration of the effect, the summoned or called creature is invisible to the caster. |
+| 18 | The summoned or called creature is mindless (Intelligence -) until banished, dismissed, or slain. |
+| 19 | (Combat) The summoned or called creature becomes shaken for 1 round per caster level. |
+| 20 | Effect receives a +2 bonus to caster level. This bonus may increase your companion’s Hit Dice. |
+| 21 | The casting time increases by 1 step. |
+| 22 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 23 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 24 | For the duration of the effect, the summoned or called creature is completely undetectable by the caster. |
+| 25 | For each summoned or called creature, a duplicate creature also appears, identical to original. The second creature is uncontrollably violent toward the first and attacks immediately and implacably. |
+| 26 | Roll again on the Universal wild magic table. |
+| 27 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 28 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 29 | The summoned or called creature gains regeneration 1/ fire or acid. This stacks with any regeneration it may already possess. |
+| 30 | For the duration of the effect, the summoned or called creature gains vulnerability to nonlethal damage. |
+| 31 | For the duration of the effect, the summoned or called creature is staggered for 1 round any time it received damage. |
+| 32 | For the duration of the effect, all effects dependent on alignment treat the summoned or called creature as if it had alignment subtypes and alignment opposed to its actual alignment (choose randomly for true neutral creatures). |
+| 33 | For the duration of the effect, the summoned or called creature may roll twice and take the better result on any save to prevent being dismissed or banished. If an effect that would dismiss or banish the creature does not normally allow a save, the creature may attempt a save to negate the effect. |
+| 34 | The summoned or called creature is two sizes larger than normal, per the Altered Size (form) talent, to a maximum size of Colossal. This may increase the creature’s size beyond the limits of Altered Size, granting an additional +4 Strength, -2 Dexterity, and +2 Constitution per additional size category. |
+| 35 | For the duration of the effect, the summoned or called creature gains vulnerability to sonic. |
+| 36 | For the duration of the effect, the summoned or called creature is deaf. |
+| 37 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 38 | The summoned or called creature gains fast healing 1 + 1 per 5 CL. This stacks with any fast healing it may already possess. |
+| 39 | (Combat) The caster is dazed for 1 round. |
+| 40 | For the duration of the effect, the summoned or called creature gains resistance to sonic equal to your caster level. This stacks with any resistance it already possesses. |
+| 41 | The caster is merged with the summoned or called creature for 10 minutes per caster level. The summoned or called creature retains all mental ability scores, feats, base saving throw bonuses, and casting ability but uses the physical body (including physical ability scores, extraordinary abilities, hit points, and all abilities derived from race) of the caster. The caster does not retain any feats or casting ability he would have and the companion does not retain any abilities derived from physical form (natural attacks, breath weapons, fast healing, regeneration, etc.). The caster issue mental instructions to the summoned or called creature, but has no direct control. |
+| 42 | For the duration of the effect, the summoned or called creature is confused for 1 round any time it received damage. |
+| 43 | The summoned or called creature automatically deals nonlethal damage with all attacks, abilities, and sphere effects for the duration of the summon. |
+| 44 | The summoned or called creature arrives in the chosen space 1 hour after the effect is cast. If the caster attempts to summon or call the same creature again during this time, the casting fails. |
+| 45 | The summoned or called creature and the caster are empathically linked, splitting all damage either receives evenly between them regardless of distance. Apply the target’s damage reduction, immunity, and resistance prior to splitting the damage. The transferred damage bypasses all damage reduction, resistance, and immunity. |
+| 46 | For the duration of the effect, the summoned or called creature cannot regain hit points or have ability damage, ability drain, or negative levels removed by any means. |
+| 47 | For the duration of the effect, the summoned or called creature laughs loudly almost incessantly, making Stealth impossible and imposing a -2 penalty on all concentration checks made within 30 feet. |
+| 48 | The creature closest to the caster must succeed on a Will save or be merged with the summoned or called creature for 10 minutes per caster level. The summoned or called creature retains all mental ability scores, feats, base saving throw bonuses, and casting ability but uses the physical body (including physical ability scores, extraordinary abilities, hit points, and all abilities derived from race) of the affected creature. The affected creature does not retain any feats or casting ability he would have and the companion does not retain any abilities derived from physical form (natural attacks, breath weapons, fast healing, regeneration, etc.). The summoned or called creature acts as normal. |
+| 49 | An outsider of an alignment opposed to the caster’s (for true neutral, LG, CG, LE, or CE is randomly selected) of the GM’s choosing is called per the Summoning advanced talent, appearing adjacent to the caster. This creature has HD equal to the maximum possible for that talent and is not bound or controlled in any way. |
+| 50 | The summoned or called creature appears with its Hit Dice maximized. |
+| 51 | Any time the chosen summoned or called creature is summoned or called for the next 1 hour per caster level, it is illusory, allowing a Will save for half damage against on all damaging effects and a Will save to negate all non-damaging effects originating from it. |
+| 52 | The caster is merged with the summoned or called creature for 10 minutes per caster level. The caster retains all mental ability scores, feats, base saving throw bonuses, and class abilities but uses the physical body (including physical ability scores, extraordinary abilities, hit points, and all abilities derived from (form) talents) of the summoned or called creature. The summoned or called creature does not retain any feats or casting ability it would have and the caster does not retain any extraordinary or supernatural abilities derived from race, template, or other sources other than classes and feats. |
+| 53 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 54 | For the duration of the effect, the summoned or called creature gains resistance to acid equal to your caster level. This stacks with any resistance it already possesses. |
+| 55 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 56 | The caster disappears to the native plane of the summoned or called creature for 10 minutes per caster level or until the summoned or called creature is dispelled, banished, or slain. The triggering effect does not require concentration for this time. The caster returns unharmed at the end of this period, though he continues to subject to all on-going effects and such effects continue to expend duration as normal. The caster can in no way act or be targeted by any effect during this time. |
+| 57 | The summoned or called creature and the caster are empathically linked. Any time the caster receives damage, the summoned or called creature takes half that amount of nonlethal damage regardless of distance. Apply the target’s damage reduction, immunity, and resistance prior to splitting the damage. The transferred damage bypasses all damage reduction, resistance, and immunity. |
+| 58 | (Combat) The summoned or called creature becomes confused for 1 round per caster level. |
+| 59 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 60 | For 10 minutes per caster level, all calling, summoning, and teleportation effects within long range of the caster automatically fail, wasting any spell points, spell slots, and actions used to cast them. |
+| 61 | For the duration of the effect, the summoned or called creature gains vulnerability to acid. |
+| 62 | One time during the effect, as a free action the summoned or called creature may take a standard action. |
+| 63 | For the duration of the effect, the summoned or called creature is completely undetectable by the caster’s allies. The caster is unaffected. |
+| 64 | The summoned or called creature refuses to remain in any space not adjacent to the caster. |
+| 65 | The summoned or called creature appears without any (form) talents, evolutions, or the benefits of any feats than improve the caster’s summons. |
+| 66 | For the duration of the effect, any creature targeted by an attack originating from the summoned or called creature may succeed on a Will save to negate the attack. |
+| 67 | For each summoned or called creature, a duplicate creature also appears, identical to the original. The second creature is apathetic to both the caster and the original creature and wanders away to spend the duration of the effect performing a harmless activity such as gathering flowers or sweeping the floor in a nearby building. |
+| 68 | For each summoned or called creature, a duplicate creature also appears, identical to the original. Each creature has half their normal maximum hit points. Both react to the caster as normal. |
+| 69 | A swarm of butterflies appears in the summoned or called creature’s square and follows it until slain. This is a Diminutive swarm with 1 hit point per caster level, 30 ft. (perfect) fly speed, AC equal to caster level, all saves equal to caster level/2, no swarm damage, and a distraction DC equal to the effect’s DC. |
+| 70 | (Combat) The summoned or called creature is dazed for 1 round the first time it receives damage. |
+| 71 | A small elemental is called adjacent to the caster. This elemental is hostile to the caster and his allies. The size of this elemental increases with caster level: CL 5 - medium, CL 10 - large, CL 15 - huge, CL 20 - elder. Roll 1d4 to determine the elemental type, 1 - air, 2 - earth, 3 - fire, 4 - water. |
+| 72 | A rift appears adjacent to the caster, opening a portal to a plane of the GM’s choice (the denizens of the chosen plane should be naturally hostile to the caster). One creature of the GM’s choice native to the selected plane with a CR not exceeding caster level appears out of the rift each round for a 1d6 rounds and attacks the caster and his allies. |
+| 73 | The casting time increases by 2 steps. |
+| 74 | (Combat) All summoned creatures within long range of the caster must succeed on a Will save or be dismissed. |
+| 75 | An outsider of an alignment matching the caster’s of the GM’s choosing is called per the Summoning advanced talent, appearing adjacent to the caster. This creature has Hit Dice equal to the maximum possible for that talent and is not bound or controlled in any way. |
+| 76 | One imp, lantern archon, mephit (any type), or quasit (GM’s choice, should be naturally hostile to caster) per caster level is called and appears within close range of the caster. These creatures are not controlled and act according to their natures. |
+| 77 | (Combat) The caster is nauseated for 1 round. |
+| 78 | For the duration of the effect, the summoned or called creature gains resistance to fire equal to your caster level. This stacks with any resistance it already possesses. |
+| 79 | For the duration of the effect, the summoned or called creature glows brightly (per the glow ability of the Light sphere). This counts as a glow originating from the caster. |
+| 80 | The caster loses access to this sphere for 1d6 rounds. |
+| 81 | For the duration of the effect, the summoned or called creature gains resistance to cold equal to your caster level. This stacks with any resistance it already possesses. |
+| 82 | The casting time decreases by 1 step. |
+| 83 | The casting time decreases by 2 steps. |
+| 84 | The caster is exhausted. |
+| 85 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 86 | A small elemental is called adjacent to the caster. This elemental is hostile to all creatures and attacks the nearest to the best of its ability. The size of this elemental increases with caster level: CL 5 - medium, CL 10 - large, CL 15 - huge, CL 20 - elder. Roll 1d4 to determine the elemental type, 1 - air, 2 - earth, 3 - fire, 4 - water. |
+| 87 | For the duration of the effect, the summoned or called creature loses 1 hit point per round. This cannot reduce the creature below 1 hit point. |
+| 88 | The summoned or called creature refuses to remain in any space not adjacent to an ally of the caster chosen randomly at the time the effect is cast. |
+| 89 | For the duration of the effect, the summoned or called creature gains alignment subtypes for all alignments. |
+| 90 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 91 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 92 | For the duration of the effect, the summoned or called creature gains vulnerability to fire. |
+| 93 | For the duration of the effect, the summoned or called creature is invisible to the caster’s allies. The caster is unaffected. |
+| 94 | For the duration of the effect, the summoned or called creature gains vulnerability to electricity. |
+| 95 | The summoned or called creature is two sizes smaller than normal, per the Altered Size (form) talent, to a minimum size of Fine. This may decrease the companions size beyond the limits of Altered Size, granting an additional -2 Strength and +2 Dexterity per additional size category. |
+| 96 | The creature closest to the caster must succeed on a Will save or be merged with the summoned or called creature for 10 minutes per caster level. The affected creature retains all mental ability scores, feats, base saving throw bonuses, and class abilities but uses the physical body (including physical ability scores, extraordinary abilities, hit points, and all abilities derived from (form) talents) of the summoned or called creature. The summoned or called creature does not retain any feats or casting ability it would have and the affected creature does not retain any extraordinary or supernatural abilities derived from race, template, or other sources other than classes and feats. |
+| 97 | The summoned or called creature is staggered until banished, dismissed, or slain. |
+| 98 | The summoned or called creature is distrustful of the caster and attempts to resist any effects the caster or the caster’s allies use on it and does not benefit from flanking or aid another bonuses from the caster or the caster’s allies. |
+| 99 | The summoned or called creature and the caster are empathically linked. Any time the companion receives damage, the caster takes half that amount of nonlethal damage regardless of distance. Apply the target’s damage reduction, immunity, and resistance prior to splitting the damage. The transferred damage bypasses all damage reduction, resistance, and immunity. |
+| 100 | For the duration of the effect, the summoned or called creature gains resistance to nonlethal equal to your caster level. This stacks with any resistance it already possesses. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-creation" data-name="Creation" data-group="Spheres">
+
+**Creation**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 2 | All unattended, nonmagical objects within close range of the caster take damage per the destroy option of the alter ability. |
+| 3 | The casting time decreases by 2 steps. |
+| 4 | A solid box of the material the caster can create with the highest hardness appears around the caster. This box persists for 1d4 rounds or until destroyed. This box has a thickness of 1 inch. |
+| 5 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 6 | (Combat) The ground within close range of the caster is transmuted to flammable oil for 1d4 rounds. Creatures or objects that enter the oil may become trapped at the end of the effect. If this oil is ignited (by a torch, the spark cantrip, fire geomancing of the Nature sphere, the Fire Blast or Lightning Blast talents of the Destruction sphere, etc.), any creature within 5 ft. of its surface takes 1d6 points of fire damage at the start of their turn. |
+| 7 | For 1 round, the caster’s body is transmuted into stone per the Fleshcraft advanced talent. |
+| 8 | The caster’s lungs are filled with water, forcing him to spend 1d4 full-round actions coughing. No other actions may be taken until these actions are complete. |
+| 9 | A swarm of paper cranes fill the area around the target out to close range, granting all creatures concealment and inflicting 1 point of bleed damage per 2 caster levels (minimum 1) to any target with a combined armor and natural armor bonus of less the half the caster level. |
+| 10 | Solid boxes of the material the caster can create with the highest hardness appears around all creature’s within close range of the target or center of the target area. These boxes persists for 1d4 rounds. A Reflex save prevents being trapped inside the box. These boxes have a thickness of 1 inch. |
+| 11 | Roll again on the Universal wild magic table. |
+| 12 | A dense object of the largest size the caster can create of the GM’s choice falls from 5 ft. + 5 ft. per 2 caster levels above the caster. This falling height cannot exceed the height of the room or other enclosed space the caster occupies. Make an attack roll per the falling object rules of the Creation sphere. The object disappears after the attack is resolved. |
+| 13 | (Combat) The caster is stunned for 1 round. |
+| 14 | The ground within close range of the target or center of the target area is transmuted to water for 1d4 rounds. Submerged creatures may become trapped when this effect ends. |
+| 15 | All allied creatures within close range of the caster must succeed on a Fortitude save or have their lungs filled with water, forcing them to spend 1d4 full-round actions coughing. No other actions may be taken until these actions are complete. |
+| 16 | A swarm of paper cranes fill the area around the caster out to close range, granting all creatures concealment and inflicting 1 point of bleed damage per 2 caster levels (minimum 1) to any target with a combined armor and natural armor bonus of less the half the caster level. |
+| 17 | The ground under the caster to a radius of 5 ft. plus 5 ft. per 5 caster levels is transmuted to acid for 1d4 rounds. Any creature submerged in the acid takes 1d6 points of acid damage per 2 caster levels (minimum 1d6) each round. Submerged creatures are expelled when this effect ends. |
+| 18 | A solid wall appears in front of the caster the next time he attempts to move. This wall is the width and height of the caster’s space and disappears at the end of the caster’s movement. |
+| 19 | All creatures within close range of the target have any worn armor changed to lead for 1 round per caster level. If the armor was metal, reduce the AC bonus by -2 and increase the ACP by 2. If the armor was leather, increase the ACP by 4. The lead has hardness 7 and the weight of the armor doubles. |
+| 20 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 21 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 22 | All creatures within close range of the caster have any worn armor changed to lead for 1 round per caster level. If the armor was metal, reduce the AC bonus by 2 and increase the ACP by 2. If the armor was leather, increase the ACP by 4. The lead has hardness 7 and the weight of the armor doubles. |
+| 23 | All unattended, nonmagical objects within close range of the target or center of the target area take damage per the destroy option of the alter ability. |
+| 24 | (Combat) All creatures within medium range of the caster have the metallic portions of all currently wielded weapons turn to adamantine for 1 minute per caster level. |
+| 25 | One gallon of water per caster level appears above the caster. Any nonmagical flames carried by or around the caster are extinguished. |
+| 26 | The ground within close range of the caster is transmuted to water for 1d4 rounds. Submerged creatures may become trapped when this effect ends. |
+| 27 | All allied creatures within close range of the caster must succeed on a Fortitude save or have their lungs filled with acid, forcing them to spend 1d4 full-round actions coughing and inflicting acid damage equal to caster level/2 (minimum 1) each round. No other actions may be taken until these actions are complete. |
+| 28 | The casting time increases by 2 steps. |
+| 29 | Solid boxes of the material the caster can create with the highest hardness appears around all creature’s within close range of the caster. These boxes persists for 1d4 rounds or until destroyed. A Reflex save prevents being trapped inside the box. These boxes have a thickness of 1 inch. |
+| 30 | All creatures within close range of the caster must succeed on a Fortitude save or have their lungs filled with water, forcing them to spend 1d4 full-round actions coughing. No other actions may be taken until these actions are complete. |
+| 31 | As an instantaneous effect, the caster is suddenly saddled with several large backpacks filled with worthless trinkets, increasing his load to 1 lb. over his maximum heavy load. Removing the backpacks requires a standard action. |
+| 32 | The caster is exhausted. |
+| 33 | All hostile creatures within close range of the caster must succeed on a Fortitude save or have their lungs filled with water, forcing them to spend 1d4 full-round actions coughing. No other actions may be taken until these actions are complete. |
+| 34 | (Combat) As an instantaneous effect, the caster becomes covered in flammable oil. If this oil is ignited (by a torch, the spark cantrip, fire geomancing of the Nature sphere, the Fire Blast or Lightning Blast talents of the Destruction sphere, etc.), the caster takes 1d6 + caster level/2 points of damage immediately and is on fire until the flame is put out, taking 1d6 points of fire damage per round. A Reflex save attempted as standard action extinguishes the fire after the initial damage. A full-round action removes enough oil to remove the risk of damaging flames. The oil also grants a +2 circumstance bonus to Escape Artist attempts and to CMD versus grapples. |
+| 35 | (Combat) All creatures within close range of the target have any worn armor changed to paper for 1 round per caster level. The armor provides no armor bonus, has its ACP reduced by half the caster level (minimum 0) and has hardness 0. |
+| 36 | A lump of flowstone with a mass equal to twice caster level pounds appears in the caster’s space. This flowstone disappears after 1 minute per caster level. |
+| 37 | Gold coins rain on an area out to close range of the caster for 1d6 rounds. All creatures in the area must succeed on a Reflex save each round or take 1 point of bludgeoning damage per caster level. These coins disappear after 1 minute per caster level. |
+| 38 | (Combat) The ground within close range of the caster is transmuted to water for 1d4 rounds. Creatures or objects that enter the water are shunted out at the end of the effect. |
+| 39 | The casting time decreases by 1 step. |
+| 40 | The contents of the caster’s stomach becomes violently inedible. The caster is nauseated for 1d4 rounds. |
+| 41 | All creatures within close range of the caster have any worn armor changed to wood for 1 round per caster level. If the armor was metal, reduce the AC bonus by half. If the armor was leather or cloth, increase the ACP by 2 and the ASF by 10%. The wood has hardness 5. |
+| 42 | A dense object of the largest size the caster can create of the GM’s choice falls from 5 ft. + 5 ft. per 2 caster levels above the target or center of the targeted area. This falling height cannot exceed the height of the room or other enclosed space the target or area occupies. Make an attack roll per the falling object rules of the Creation sphere against the target or against the nearest creature in the area. The object disappears after the attack is resolved. |
+| 43 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 44 | (Combat) The ground within close range of the caster is transmuted to acid for 1d4 rounds, dealing 1d6 points of damage per 2 caster levels to any creature or object submerged in it. Creatures or objects that enter the water are shunted out at the end of the effect. |
+| 45 | (Combat) All creatures within medium range of the caster have the metallic portions of all currently wielded weapons turn to gold for 1 minute per caster level. Weapons that do not deal bludgeoning damage have their damage die decreased by two sizes. Creatures wielding such a weapon take a -2 penalty to CMD against the sunder combat maneuver. |
+| 46 | The effect persists for 1 minute beyond its normal duration. |
+| 47 | Caltrops cover the ground out to medium range of the target or center of the target area for 1d4 rounds. |
+| 48 | The casting time increases by 1 step. |
+| 49 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 50 | (Combat) The ground within close range of the caster is transmuted to flammable oil for 1d4 rounds. Creatures or objects that enter the oil are shunted out at the end of the effect. If this oil is ignited (by a torch, the spark cantrip, fire geomancing of the Nature sphere, the Fire Blast or Lightning Blast talents of the Destruction sphere, etc.), any creature within 5 ft. of its surface takes 1d6 points of fire damage at the start of their turn. |
+| 51 | One gallon of acid per caster level appears above the target or center of the target area. Any creature or object in the square takes 1d6 points of acid damage per two caster levels and has any nonmagical flames it carries extinguished. A Reflex save halves the damage and prevents the flames from being extinguished. The acid disappears after these effects are resolved. |
+| 52 | Any metal armor the caster is wearing is changed to adamantine for 1 day per caster level. |
+| 53 | The ground under the target or center of the target area to a radius of 5 ft. plus 5 ft. per 5 caster levels is transmuted to acid for 1d4 rounds. Any creature submerged in the acid takes 1d6 points of acid damage per 2 caster levels (minimum 1d6) each round. Submerged creatures are expelled when this effect ends. |
+| 54 | As an instantaneous effect, an ice sculpture of the caster appears in a square adjacent to the caster of the GM’s choice. This sculpture is of the same size as the caster and melts as normal for a block of ice in the local environment. |
+| 55 | The ground within close range of the target or center of the target area is transmuted to water for 1d4 rounds. Creatures or objects that enter the water are shunted out at the end of the effect. |
+| 56 | The ground around the target or center of the target’s area out to close range is transmuted into mud, making it difficult terrain for 1d6 rounds. Any creature in this area at the end of the effect must succeed on a Reflex save or risk being entangled in the hardening ground when this effect ends. The Strength check and Escape Artist DC to get free of the entanglement equals the effect’s DC. |
+| 57 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 58 | Gold coins rain on an area out to close range of the target or center of the target area for 1d6 rounds. All creatures in the area must succeed on a Reflex save each round or take 1 point of bludgeoning damage per caster level. These coins disappear after 1 minute per caster level. |
+| 59 | All creatures within close range of the caster have any worn armor changed to paper for 1 round per caster level. The armor provides no armor bonus, has its ACP reduced by half the caster level (minimum 0) and has hardness 0. |
+| 60 | (Combat) Creatures within close range of the caster must succeed on a Reflex save or become covered in flammable oil. If this oil is ignited (by a torch, the spark cantrip, fire geomancing of the Nature sphere, the Fire Blast or Lightning Blast talents of the Destruction sphere, etc.), the creature takes 1d6 + caster level/2 points of damage immediately and is on fire until the flame is put out, taking 1d6 points of fire damage per round. A Reflex save attempted as a standard action extinguishes the fire after the initial damage. A full-round action removes enough oil to remove the risk of damaging flames. The oil also grants a +2 circumstance bonus to Escape Artist attempts and to CMD versus grapples. |
+| 61 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 62 | One gallon of acid per caster level appears above the caster. The caster takes 1d6 points of acid damage per two caster levels and has any nonmagical flames he carries extinguished. A Reflex save halves the damage and prevents the flames from being extinguished. The acid disappears after these effects are resolved. |
+| 63 | For 1 minute per caster level, the ground within close range of the caster is transmuted to flowstone. |
+| 64 | (Combat) A banana peel appears under the caster’s feet, forcing him to fall prone. If the caster is not standing, this result is delayed until the next time he stands on solid ground. The banana peel disappears immediately afterwards. |
+| 65 | The caster’s lungs are filled with acid, forcing him to spend 1d4 full-round actions coughing and inflicting acid damage equal to caster level/2 (minimum 1) each round. No other actions may be taken until these actions are complete. |
+| 66 | The caster is fatigued. |
+| 67 | The caster loses access to this sphere for 1d6 rounds. |
+| 68 | All hostile creatures within close range of the caster must succeed on a Fortitude save or have their lungs filled with acid, forcing them to take 1d4 full-round actions coughing and inflicting acid damage equal to caster level/2 (minimum 1) each round. No other actions may be taken until these actions are complete. |
+| 69 | For 1 minute per caster level, the ground within close range of the caster is transmuted to steel. |
+| 70 | Effect receives a +2 bonus to caster level. |
+| 71 | As an instantaneous effect, lit tindertwigs rain from the sky in an area out to close range of the caster for 1d6 rounds. All creatures in the area must succeed on a Reflex save each round or take 1 point of fire damage per caster level. Any flammable unattended objects within the area catch fire. |
+| 72 | For 1 hour per caster level, all nonmagical objects that the caster takes into his possession are immediately damaged as the destroy option of the alter ability. This damage is incurred each time the object becomes attended. |
+| 73 | A dense object of the largest size the caster can create of the GM’s choice falls from 5 ft. + 5 ft. per 2 caster levels above a square of the caster’s choice within close range. This falling height cannot exceed the height of the room or other enclosed space the target occupies. Make an attack roll per the falling object rules of the Creation sphere. The object disappears after the attack is resolved. |
+| 74 | For 1 minute per caster level, the skin of all creatures within close range of the caster becomes hardened and takes on the appearance of wood, bronze, or another material the caster can create or alter, granting a +1 bonus to natural armor, stacking with other bonuses to natural armor, but imposing a heavy load on the creature. A successful Fortitude save negates this effect. |
+| 75 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 76 | An area out to close range of the target of center of the target area is covered in small, hard, round objects. Any creature attempting to leave a square in this area must succeed on a Reflex save or fall prone. These objects persist for 1 round per caster level. |
+| 77 | Any metal armor the caster is wearing is changed to mithral for 1 day per caster level. |
+| 78 | Creatures within close range of the target or center of the target area must succeed on a Reflex save or become covered in flammable oil. If this oil is ignited (by a torch, spark cantrip, fire geomancing of the Nature sphere, Fire Blast or Lightning Blast talents of the Destruction sphere, etc.), the creature takes 1d6 + caster level/2 points of damage immediately and is on fire until the flame is put out, taking 1d6 points of fire damage per round. A Reflex save attempted as a standard action extinguishes the fire after the initial damage. A full-round action removes enough oil to remove the risk of damaging flames. The oil also grants a +2 circumstance bonus to Escape Artist attempts and to CMD versus grapples. |
+| 79 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 80 | (Combat) Caltrops cover the ground out to medium range of the caster for 1d4 rounds. |
+| 81 | All creatures within close range of the caster must succeed on a Fortitude save or have their lungs filled with acid, forcing them to spend 1d4 full-round actions coughing and inflicting acid damage equal to caster level/2 (minimum 1) each round. No other actions may be taken until these actions are complete. |
+| 82 | All creatures within close range of the target or center of the target area must succeed on a Fortitude save or be transmuted into stone per the Fleshcraft advanced talent for 1 round. |
+| 83 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 84 | For 1 minute per caster level, the caster’s skin becomes hardened and takes on the appearance of wood, bronze, or another material the caster can create or alter, granting a +1 bonus to natural armor, stacking with other bonuses to natural armor, but imposing a heavy load on the caster. |
+| 85 | For 1 minute per caster level, the ground within close range of the target or center of the target area is transmuted to steel. |
+| 86 | The ground within close range of the target or center of the target area is transmuted to acid for 1d4 rounds, dealing 1d6 points of damage per 2 caster levels to any creature or object submerged in it. Creatures or objects that enter the water are shunted out at the end of the effect. |
+| 87 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 88 | As an instantaneous effect, lit tindertwigs rain from the sky in an area out to close range of the target or center of the target area for 1d6 rounds. All creatures in the area must succeed on a Reflex save each round or take 1 point of fire damage per caster level. Any flammable unattended objects within the area catch fire. |
+| 89 | (Combat) The caster is dazed for 1 round. |
+| 90 | (Combat) The caster is nauseated for 1 round. |
+| 91 | For 1 minute per caster level, the ground around the target or center of the affected area is transmuted to flowstone. |
+| 92 | Random Tiny objects of any material the caster can create cover the ground out to medium range, making the area difficult terrain until they disappear 1d6 rounds later. |
+| 93 | An area out to close range of the caster is covered in small, hard, round objects. Any creature attempting to leave a square in this area must succeed on a Reflex save or fall prone. These objects persist for 1 round per caster level. |
+| 94 | (Combat) All creatures within medium range of the caster have the metallic portions of all currently wielded weapons turn to silver for 1 minute per caster level. |
+| 95 | All creatures within close range of the target or center of the target area have any worn armor changed to wood for 1 round per caster level. If the armor was metal, reduce the AC bonus by half. If the armor was leather, increase the ACP by 2. The wood has hardness 5. |
+| 96 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 97 | A lump of flowstone with a mass equal to twice caster level pounds appears in the target’s space or in the center of the target area. This flowstone disappears after 1 minute per caster level. |
+| 98 | (Combat) The ground around the caster out to medium range is transmuted into mud, making it difficult terrain for 1d6 rounds. Any creature in this area at the end of the effect must succeed on a Reflex save or risk being entangled in the hardening ground when this effect ends. The Strength check and Escape Artist DC to get free of the entanglement equals the effect’s DC. |
+| 99 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 100 | Any metal armor the caster is wearing is changed to iron for 1 day per caster level. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-dark" data-name="Dark" data-group="Spheres">
+
+**Dark**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The target or creatures in the target area when the effect gain the see in darkness monster ability for 1 minute per caster level. The creature can see perfectly in darkness of any kind, including that created by the deeper darkness spell or the Pure Darkness talent. |
+| 2 | The target or creatures in the target area must succeed on a Will save or lose their shadow for 10 minutes per caster level. |
+| 3 | An area out to long range of the caster is shrouded in magic darkness as the Pure Darkness talent until the start of the caster’s next turn. The Clearsight talent has no effect against this darkness. |
+| 4 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 5 | The casting time decreases by 2 steps. |
+| 6 | The caster becomes afraid of the dark, taking a -2 penalty on saves against fear effects while in areas with less than normal light for 1 hour per caster level. |
+| 7 | An area of darkness affected by every (dark) talent the caster possesses appears centered on the caster and follows the caster at a rate of 20 ft. per round, plus 5 ft. per 2 caster levels. The Clearsight (meld) provides no protection from this darkness to the caster. This effect persists for 1 round per caster level. |
+| 8 | For 1d6 rounds, the caster leaves an area of darkness in all squares he has occupied since the start of his last turn. No (darkness) talent may be applied to this effect and the caster is unable to perceive any creature or object in an affected square (unless that creature or object also occupies unaffected squares that the caster can perceive). |
+| 9 | The caster’s shadow performs mocking pantomimes of nearby creatures for 1 hour. This imposes a -5 penalty on all Diplomacy checks against a creature that can see the shadow (DC 5 Perception check to notice). If the caster lacks a shadow, one is created for the duration of this effect. |
+| 10 | For 1 minute per caster level, the caster suffers a bout of photophobic vertigo, suffering the sickened condition in areas of normal light and the nauseated condition in areas of bright light. |
+| 11 | For 1 minute per caster level, all effects of the Light sphere or with the light descriptor originating from hostile creatures within long range of the caster have their caster level increased by 1. This bonus increases by 1 for every 4 caster levels of the triggering effect. |
+| 12 | (Combat) Black tendrils of semi-solid darkness cover an area out to close range of the target or center of the target area for 1d6 rounds, creating difficult terrain and granting all creatures within partial concealment. Any creature within the effect must succeed on a Reflex save each round or be entangled until the start of their next turn. |
+| 13 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 14 | The target or creatures in the target area must succeed on a Will save or gain an additional shadow at 180 degrees from their normal shadows for 10 minutes per caster level. |
+| 15 | Any light source in the possession of the target or creatures in the target area when the effect is cast has its effect on illumination inverted for 1 round per caster level. |
+| 16 | A shadow twin of the caster appears adjacent to the caster. This twin possesses all of the caster’s abilities and equipment, though only 1 hit point. This twin aids the caster for 1 minute per caster level or until slain. The twin and all its equipment disappear when the twin is slain or the effect expires. Any non-instantaneous effect originating from the twin end when it disappears. |
+| 17 | For 1 minute per caster level, the caster treats areas of normal or brighter light as if they were solid objects and is unable to enter or pass through such an area, though retains line of effect through such areas. |
+| 18 | (Combat) The caster is stunned for 1 round. |
+| 19 | (Combat) The caster’s shadow attempts to blind nearby creatures, performing a dirty trick combat maneuver on an adjacent creature each round for 1 minute per caster level. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity against the caster as normal for the maneuver, though benefits from Improved Dirty Trick and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 20 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 21 | For 1 minute per caster level, all effects of the Light sphere or with the light descriptor cast within long range of the caster have their caster level increased by 1. This bonus increases by 1 for every 4 caster levels of the triggering effect. |
+| 22 | (Combat) For 1d6 rounds, the caster absorbs all light, appearing perfectly black and is blind. |
+| 23 | For 1 minute per caster level, the caster gains a 20% miss chance while in areas of less than normal light. |
+| 24 | The caster is fatigued. |
+| 25 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 26 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 27 | Creatures subject to the effect receive the half of any damage the caster receives for the duration of their time subject to the effect. This damage is redirected from the caster, reducing the amount he is damaged by an equal amount. Resistance and immunity apply to this damage. Multiple affected creatures divide this damage equally. |
+| 28 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 29 | The caster becomes afraid of the light, taking a -2 penalty on saves against fear effects while in areas with greater than dim light for 1 hour per caster level. |
+| 30 | (Combat) The caster is nauseated for 1 round. |
+| 31 | Any light source in the caster’s possession has its effect on illumination inverted for 1 round per caster level. |
+| 32 | The target or any creature in the area of the effect when it is cast must succeed on a Fortitude save or begin to absorb all light, appearing perfectly black and be blinded for 1d6 rounds. |
+| 33 | For 10 minutes per caster level, the caster gains the light blindness monster ability. Creatures with light blindness are blinded for 1 round if exposed to bright light, such as sunlight or the daylight spell. Such creatures are dazzled as long as they remain in areas of bright light. |
+| 34 | For 1 hour per caster level, all shadows within long range of the caster all lengthened as if exposed to a sunset. |
+| 35 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 36 | The caster becomes blind in any area with greater than dim light for 1 minute per caster level. |
+| 37 | The caster’s shadow attempts to pilfer items from nearby creatures, performing a steal combat maneuver on an adjacent creature each round for 1 minute per caster level and storing any items successfully stolen in the caster’s gear. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity as normal for the maneuver, though benefits from Improved Steal and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 38 | The caster’s shadow takes on a sinister appearance for 10 minutes per caster level, granting a +2 circumstance bonus on Intimidate checks but imposing a -2 penalty on Bluff and Diplomacy checks. |
+| 39 | Affected creatures or those within the effect’s area receive the caster’s casting drawbacks for the duration of their time in the effect or for as long as they are affected by it. |
+| 40 | The ambient light level with the caster’s Dark sphere range is reduced by one step unless this reduction would make it darker than dim light. The effect remains centered on the caster for 1 minute per caster level. |
+| 41 | Any creature within long range of the caster that is in an area of dim or lower illumination takes 1 point of negative energy damage per caster level each round for 1 round per caster level. |
+| 42 | (Combat) For 1d6 rounds, all creatures other than the caster can see normally in regular and magical darkness within medium range of the caster. |
+| 43 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 44 | (Combat) for 1 round per caster level, the caster becomes an area of darkness. The caster generates an area of darkness in his space as if he had cast darkness. The caster may move with his normal movement speeds, but may not otherwise take any actions other than to change his choice or (darkness) talents active in this area and to concentrate on any ongoing effects. The caster may not be targeted or effected by anything other than effects that would dispel the darkness. Any effect that dispels this darkness causes the caster to reform and take 1d6 points of untyped damage per 2 caster levels of the dispelling effect. |
+| 45 | For 1 minute per caster level, all effects with the dark descriptor cast within long range of the caster have their caster level increased by 1. This bonus increases by 1 for every 4 caster levels of the triggering effect. |
+| 46 | Darkness sweeps outward from the caster, reducing light levels by 2 steps in a long range emanation for 1 round. Make a single magical skill check and compare it with the MSD of all Light sphere effects in range; success means the Light sphere effect is dispelled as with the Counterspell feat. |
+| 47 | The caster is exhausted. |
+| 48 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 49 | The target or creatures in the target area when the effect is cast must succeed on a Fortitude save or gain the see in darkness monster ability for 1 round per caster level but is blind in anything brighter than dim light. |
+| 50 | (Combat) The caster’s shadow attempts to pilfer items from nearby allied creatures, performing a steal combat maneuver on an adjacent creature each round for 1 minute per caster level and storing any items successfully stolen in the caster’s gear. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity against the caster as normal for the maneuver, though benefits from Improved Steal and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 51 | For 1d6 rounds, the caster leaves an area of darkness in all squares he has occupied since the start of his last turn. A (darkness) talent may be applied to this effect as normal. |
+| 52 | All creatures within close range of the target or center of the target area must succeed on a Fortitude save or gain the light blindness monster ability for 1 minute per caster level. Creatures with light blindness are blinded for 1 round if exposed to bright light, such as sunlight or the daylight spell. Such creatures are dazzled as long as they remain in areas of bright light. |
+| 53 | The caster gains an additional shadow at 180 degrees from his normal shadow for 10 minutes per caster level. |
+| 54 | The caster’s active Dark sphere effects flicker randomly, having only a 50% chance of functioning each round (rolled immediately and again at the beginning of the caster’s turn) for 1 round per caster level. |
+| 55 | The target or creatures in the target area must succeed on a Will save or become blind in any area greater than dim light for 1 minute per caster level. |
+| 56 | The caster gains the see in darkness monster ability for 1 minute per caster level. The caster can see perfectly in darkness of any kind, including that created by the deeper darkness spell or the Pure Darkness talent. |
+| 57 | Any creature within close range of the target or center of the target area that is in an area of normal or brighter light takes 1 point of untyped damage per caster level each round for 1 round per caster level. |
+| 58 | (Combat) Black tendrils of semi-solid darkness cover an area out to close range of the caster for 1d6 rounds, creating difficult terrain and granting all creatures within partial concealment. Any creature within the effect must succeed on a Reflex save each round or be entangled until the start of their next turn. |
+| 59 | For 1 hour per caster level, the caster absorbs all light, appearing perfectly black. |
+| 60 | The casting time decreases by 1 step. |
+| 61 | (Combat) Black tendrils of semi-solid darkness cover an area out to close range of the caster for 1d6 rounds, creating difficult terrain and granting all creatures within that area partial concealment. |
+| 62 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 63 | The caster’s shadow gains a color of the GM’s choice for 10 minutes per caster level. This tint extends to all Dark sphere abilities originating from the caster during this time but has no other effect. |
+| 64 | The target or creatures in the target area must succeed on a Will save or become blind in any area with less than normal light for 1 minute per caster level. |
+| 65 | (Combat) The caster’s shadow attempts to trip nearby allied creatures, performing a trip combat maneuver on an adjacent creature each round for 1 minute per caster level. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity against the caster as normal for the maneuver, though benefits from Improved Trip and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 66 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 67 | A shadow twin of the caster appears adjacent to the caster. This twin possesses all of the caster’s abilities and equipment, though only 1/2 his hit points and attempts to harm the caster and the caster’s allies to the best of its abilities for 1 minutes per caster level or until slain. The twin and all its equipment disappears when the twin is slain or the effect expires. Any non-instantaneous effect originating from the twin end when it disappears. |
+| 68 | The casting time increases by 1 step. |
+| 69 | Any creature within long range of the caster that is in an area of normal or brighter light takes 1 point of untyped damage per caster level each round for 1 round per caster level. |
+| 70 | Roll again on the Universal wild magic table. |
+| 71 | The caster casts no shadow for 10 minutes per caster level. |
+| 72 | Any creature within long range of the target or center of the target area that is in an area of dim or lower illumination takes 1 point of negative energy damage per caster level each round for 1 round per caster level. |
+| 73 | The ambient light level with the caster’s Dark sphere range is reduced by one step unless this reduction would make it darker than dim light. The effect remains centered on the target or target area for 1 minute per caster level. |
+| 74 | (Combat) The caster’s shadow attempts to blind nearby hostile creatures, performing a dirty trick combat maneuver on an adjacent creature each round for 1 minute per caster level. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity against the caster as normal for the maneuver, though benefits from Improved Dirty Trick and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 75 | The caster is unable to detect any creature currently affected by his Dark sphere abilities or spells with the darkness descriptor for 1 round per caster level. This includes special senses such as blindsight and tremorsense. If the caster is included in the effect, the caster cannot see or hear himself, imposing a 25% spell failure chance on any effect requiring somatic or verbal components. |
+| 76 | All creatures within close range of the caster must succeed on a Fortitude save or gain the light blindness monster ability for 1 minute per caster level. Creatures with light blindness are blinded for 1 round if exposed to bright light, such as sunlight or the daylight spell. Such creatures are dazzled as long as they remain in areas of bright light. |
+| 77 | The caster’s shadow attempts to trip nearby creatures, performing a trip combat maneuver on an adjacent creature each round for 1 minute per caster level. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity against the caster as normal for the maneuver, though benefits from Improved Trip and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 78 | The caster loses access to this sphere for 1d6 rounds. |
+| 79 | (Combat) Black tendrils of semi-solid darkness cover an area out to close range of the target or center of the target area for 1d6 rounds, creating difficult terrain and granting all creatures within partial concealment. |
+| 80 | The target or any creature in the area of the effect when it is cast must succeed on a Fortitude save or begin to absorb all light, appearing perfectly black for 1 hour per caster level. |
+| 81 | The caster gains the see in darkness monster ability for 1 round per caster level but is blind in anything brighter than dim light. The creature can see perfectly in darkness of any kind, including that created by the deeper darkness spell or the Pure Darkness talent. |
+| 82 | For 1 minute per caster level, all effects of the Light sphere or with the light descriptor originating from allied creatures within long range of the caster have their caster level reduced by 1. This penalty increases by 1 for every 4 caster levels of the triggering effect. |
+| 83 | Effect receives a +2 bonus to caster level. |
+| 84 | For 1 minute per caster level, all effects of the Light sphere or with the light descriptor originating from allied creatures within long range of the caster have their caster level reduced by 1. This penalty increases by 1 for every 4 caster levels of the triggering effect. Effect’s with their caster level reduced to 0 or below by this effect are suppressed. |
+| 85 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 86 | (Combat) The caster is dazed for 1 round. |
+| 87 | (Combat) The caster’s shadow attempts to trip nearby hostile creatures, performing a trip combat maneuver on an adjacent creature each round for 1 minute per caster level. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity against the caster as normal for the maneuver, though benefits from Improved Trip and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 88 | An area out to long range of the caster is plunged into darkness as the Dark sphere with both the Pure Darkness talent and the Midnight advanced talent. This effect remains stationary and persists for 1 minute per caster level. |
+| 89 | (Combat) The caster’s shadow attempts to pilfer items from nearby hostile creatures, performing a steal combat maneuver on an adjacent creature each round for 1 minute per caster level and storing any items successfully stolen in the caster’s gear. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity against the caster as normal for the maneuver, though benefits from Improved Steal and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 90 | Creatures other than the caster subject to the effect receive the half of any healing the caster receives for the duration of their time subject to the effect. This healing is redirected from the caster, reducing the amount he heals by an equal amount. Multiple affected creatures divide this healing equally. |
+| 91 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 92 | The caster becomes blind in any area with less than normal light for 1 minute per caster level. |
+| 93 | Any creature that enters a blot or darkness created by the caster benefits from any melds active on the caster for as long as they remain in the effect. |
+| 94 | (Combat) For 1 round per caster level, all creatures within areas of dim light or lower within medium range of the caster take half damage from all sources except for force effects as their bodies partially discorporate into living shadow. |
+| 95 | The caster’s shadow is animated and immediately absconds with any items held in the caster’s hands. It flees for 1 round per caster level, at which point it drops the items. The shadow cannot be targeted or damaged in any way and possesses the movement speeds of the caster at the time this result is triggered. |
+| 96 | The casting time increases by 2 steps. |
+| 97 | (Combat) The caster’s shadow attempts to blind nearby allied creatures, performing a dirty trick combat maneuver on an adjacent creature each round for 1 minute per caster level. This maneuver uses the caster’s CMB (or caster level + casting ability modifier, if higher) and bonuses and provokes attacks of opportunity against the caster as normal for the maneuver, though benefits from Improved Dirty Trick and similar feats if the caster possesses them. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 98 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 99 | The caster’s shadow attempts to hinder the caster, entangling him for 1d4 rounds. A successful Reflex save each round negates the entanglement for that round. If the caster lacks a shadow, a shadow is created for the duration of this effect. |
+| 100 | For 1 minute per caster level, all effects of the Light sphere or with the light descriptor cast within long range of the caster have their caster level reduced by 1. This penalty increases by 1 for every 4 caster levels of the triggering effect. Effect’s with their caster level reduced to 0 or below by this effect are suppressed. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-death" data-name="Death" data-group="Spheres">
+
+**Death**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 2 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 3 | The caster’s heart stops beating for 1d4 days. although their body is preserved magically for that duration. During this time, the caster does not need to breathe and any diseases and poisons have no effect on him until the duration ends. |
+| 4 | All undead creatures within medium range of the caster must succeed on a Will save or attack the caster to the best of their ability for 1 round plus 1 round per 5 caster levels. This effect applies to any undead within range created by the triggering effect. |
+| 5 | The caster must succeed on a Fortitude save or be infected with a disease per the Inflict Disease (ghost strike) talent. Roll 1d10 to determine which disease (1 blinding sickness, 2 bubonic plague, 3 cackle fever, 4 filth fever, 5 leprosy, 6 mindfire, 7 red ache, 8 shakes, 9 slimy doom, 10 roll twice and take both, ignoring further results of 10). |
+| 6 | All creatures within long range of the caster that are at 0 or fewer hit points are instantly slain. This is a death effect. |
+| 7 | For 1 hour per caster level, the caster exudes the scent of decaying flesh, attracting the attention of carrion feeders and causing most creatures interacting with the caster have their disposition drop by one step until the end of this effect. |
+| 8 | Any undead under the control of the caster enter a rage, as a 1st level barbarian (core or unchained, the caster’s choice). Bonuses or penalties to Constitution are applied to Charisma instead. This rage lasts for 1d6 rounds. During this time, the undead remain under the caster’s control, but must attack targets within range; if no enemies are to be found, they will attack allies. |
+| 9 | For 1 round per caster level, the caster emits an aura out to close range that forces all living creatures that end their turn within it to succeed on a Fortitude save or take 1 negative level. All negative levels from this effect stack. The caster is included in this effect. |
+| 10 | All creatures within close range of the caster must succeed on a Fortitude save or take 1 temporary negative level. This increases to 1d2 negative levels at caster level 5 and by one additional die size every 5 caster levels thereafter. These negative levels last for 1 minute per caster level and cannot cause the creature’s negative level total to equal or exceed the creature’s Hit Dice. |
+| 11 | The caster emits an aura out to close range for 1d4 rounds, dealing 1d6 points of negative energy damage per 2 caster levels (minimum 1d6) to all creatures in that area at the beginning of his turn, not including the Caster. A Fortitude save halves this damage. |
+| 12 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 13 | All creatures within close range of the target or center of the target area must succeed on a Fortitude save or be nauseated 1 round per caster level. |
+| 14 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 15 | The caster loses his current creature type and gains the undead type for 1 minute per caster level and the caster appears as a zombie. Do not recalculate hit points, saves, or base attack bonus. Any effect dependent on having the undead type that is ongoing on the caster ends when this effect ends. |
+| 16 | Undead creatures created by the effect or within close range of the caster when it is cast, for 1 hour per caster level afterwards, will explode in a deadly cloud when destroyed. When such an undead creature is destroyed, it creates a cloud out to close range, as the heavy mist option of category 2 rain per the Weather sphere for 1d6 rounds. Any creature that starts its turn inside this cloud takes 1 point of negative energy damage per caster level. |
+| 17 | All creatures within medium range take bleed damage equal to caster level/2 (minimum 1) for caster level rounds or until receiving a DC 15 Heal check or any magical healing. |
+| 18 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 19 | All creatures within close range of the caster must succeed on a Fortitude save or become exhausted. |
+| 20 | The caster loses his current creature type and gains the undead type for 1 minute per caster level and the caster appears as a skeleton. Do not recalculate hit points, saves, or base attack bonus. Any ongoing effect dependent on having the undead type that is ongoing on the caster ends when this effect ends. |
+| 21 | For 10 minutes per caster level, a floating skull (Tiny-sized of a common humanoid race) follows the caster, giving sarcastic commentary on events and the caster’s actions. This skull has a 30 ft. fly speed (perfect) and is immune to all effects and damage. |
+| 22 | (Combat) The caster and the nearest hostile creature that is a valid target switch bodies for 1 round per caster level. This functions as the Possession advanced talent. |
+| 23 | The casting time decreases by 2 steps. |
+| 24 | Undead creatures created by the effect or within close range of the caster when it is cast are staggered for 1 hour per caster level. |
+| 25 | For 1 minute per caster level, the caster emits an aura out to close range that forces all living creatures that end their turn within it to succeed on a Fortitude save or become fatigued. Fatigued creatures are unaffected. The caster is included in this effect. |
+| 26 | All creatures within close range of the target or center of the target area must succeed on a Fortitude save or be sickened 1 round per caster level. |
+| 27 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 28 | The caster is healed by negative energy and harmed by positive energy for 1 minute per caster level. |
+| 29 | All creatures within close range of the caster must succeed on a Fortitude save or become fatigued. |
+| 30 | The caster makes a single magical skill check against all Death sphere and necromancy school effects within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 31 | (Combat) For 1 round per caster level, all creatures of the undead type within medium range of the caster are confused. This bypasses immunities granted by the undead type. |
+| 32 | For 1 minute per caster level, the caster emits an aura out to close range that deals untyped damage to undead creatures equal to caster level during any turn that the begin or end within it. |
+| 33 | (Combat) All allied creatures within close range of the caster must succeed on a Fortitude save or be nauseated 1 round per caster level. |
+| 34 | All allied creatures within close range of the target or center of the target area must succeed on a Fortitude save or be sickened 1 round per caster level. |
+| 35 | The caster loses access to this sphere for 1d6 rounds. |
+| 36 | All creatures within close range of the target must succeed on a Fortitude save or take 1d4 + CL/2 points of Dexterity damage that disappears after 1 round per caster level. |
+| 37 | For 1 minute per caster level, the caster emits an aura out to close range that grants undead creatures fast healing equal to half the effect’s caster level during any turn that the begin or end within it. |
+| 38 | The target must succeed on a Fortitude save or be infected with a disease per the Inflict Disease (ghost strike) talent. Roll 1d10 to determine which disease (1 blinding sickness, 2 bubonic plague, 3 cackle fever, 4 filth fever, 5 leprosy, 6 mindfire, 7 red ache, 8 shakes, 9 slimy doom, 10 roll twice and take both, ignoring further results of 10). If the target is undead, it instead inflicts this disease on the first creature it strikes with a natural attack. |
+| 39 | The caster takes 1 temporary negative level. This increases to 1d2 negative levels at caster level 5 and by one additional die size every 5 caster levels thereafter. These negative levels last for 1 minute per caster level and cannot cause the caster’s negative level total to equal or exceed the caster’s Hit Dice. |
+| 40 | The caster makes a single magical skill check against all Death sphere and necromancy school effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 41 | All creatures within close range of the caster must succeed on a Fortitude save or take 1d4 + CL/2 points of Strength damage that disappears after 1 round per caster level. |
+| 42 | (Combat) The caster is nauseated for 1 round. |
+| 43 | The caster is compelled to exhume the body of 1 creature of the humanoid type per 3 caster levels (minimum 1). This compulsion will not cause the caster to deliberately enter dangerous situations, but overrides all other concerns. This effect persists for one day per caster level or until the compulsion is fulfilled. |
+| 44 | All creatures within close range of the target or center of the target area must succeed on a Fortitude save or become exhausted. |
+| 45 | Nearby dead invertebrates of Tiny size and smaller animate as undead and follow the caster for 10 minutes per caster level. Their noise imposes a penalty on Stealth checks equal to half caster level (minimum 1). |
+| 46 | All creatures within close range of the caster must succeed on a Fortitude save or take 1d4 + CL/2 points of Dexterity damage that disappears after 1 round per caster level. |
+| 47 | All corpses within long range of the caster (other than those targeted by the triggering effect) become undead per reanimate for 1 round per caster level. These undead are hostile toward the caster. |
+| 48 | The caster takes a -4 penalty on all saves against disease for 10 minutes per caster level. |
+| 49 | All creatures within close range of the target must succeed on a Will save or be paralyzed for 1 round. This is a mind-affecting fear effect. |
+| 50 | For 1 hour per caster level, all living creatures find the caster unsettling. A Handle Animal check with a DC equal to 10 + caster level/2 is required to make any animal approach within 20 ft. of the caster and all creatures interacting with the caster have their disposition drop by one step until the end of this effect. |
+| 51 | (Combat) All creatures within close range of the caster must succeed on a Will save or be paralyzed for 1 round. This is a mind-affecting fear effect. |
+| 52 | For 1 minute per caster level, the caster emits an aura out to close range that forces all living creatures that end their turn within it to succeed on a Fortitude save or contract a random disease. Roll 1d10 to determine which disease (1 blinding sickness, 2 bubonic plague, 3 cackle fever, 4 filth fever, 5 leprosy, 6 mindfire, 7 red ache, 8 shakes, 9 slimy doom, 10 roll twice and take both, ignoring further results of 10). The caster is excluded from this effect. |
+| 53 | Undead creatures created by the effect or within close range of the caster when it is cast, for 1 hour per caster level afterwards, will explode in a miasmic cloud when destroyed. When such an undead creature is destroyed, it creates a cloud out to close range, as the heavy mist option of category 2 rain per the Weather sphere for 1d6 rounds. Any creature that starts its turn inside this cloud must save against filth fever, using your Death sphere DC in place of the disease DC. |
+| 54 | The caster takes a -4 penalty on all saves versus death effects for 10 minutes per caster level. |
+| 55 | Effect receives a +2 bonus to caster level. |
+| 56 | For 1 minute per caster level, the caster emits an aura out to close range that forces all living creatures that end their turn within it to succeed on a Fortitude save or contract a random disease. Roll 1d10 to determine which disease (1 blinding sickness, 2 bubonic plague, 3 cackle fever, 4 filth fever, 5 leprosy, 6 mindfire, 7 red ache, 8 shakes, 9 slimy doom, 10 roll twice and take both, ignoring further results of 10). The caster is included in this effect. |
+| 57 | The spirit of a dead ancestor appears behind the caster for 1 hour. This shade is a ghost, but with no magic or touch attacks; it has no ability to interact with the world at all except for speech and sight. There is a 50% chance the ghost will serve and aid the caster as best it can, but otherwise the ancestor is critical of the caster’s life choices and will spend the entire time loudly critiquing the caster’s decisions, preventing any form of stealth or sleep. |
+| 58 | The casting time increases by 1 step. |
+| 59 | (Combat) The caster is stunned for 1 round. |
+| 60 | All creatures within close range of the target must succeed on a Fortitude save or take 1d4 + CL/2 points of Strength damage that disappears after 1 round per caster level. |
+| 61 | A harmless ghost follows the caster for 10 minutes per caster level, loudly lamenting its fate but taking no other actions. This ghost has hit points and saves per a Conjuration sphere companion of the effect’s caster level and reforms 1 minute after it is destroyed, continuing its lament. |
+| 62 | The caster emits an aura out to close range for 1d4 rounds, dealing 1d6 points of negative energy damage per 2 caster levels (minimum 1d6) to all creatures in that area, including the caster. A Fortitude save halves this damage, though the caster does not receive a save. |
+| 63 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 64 | (Combat) For 1d6 rounds, the caster leaves behind a shadowy trail of negative energy. Any creature that enters a square that has been occupied by the caster since the beginning of the caster’s previous turn takes negative energy damage equal to caster level. Creatures healed by negative energy are instead healed. A creature may only be affected by this ability once per turn. |
+| 65 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 66 | All creatures within close range of the target must succeed on a Fortitude save or take 1 temporary negative level. This increases to 1d2 negative levels at caster level 5 and by one additional die size every 5 caster levels thereafter. These negative levels last for 1 minute per caster level and cannot cause the creature’s negative level total to equal or exceed the creature’s Hit Dice. |
+| 67 | All undead creatures within medium range of the target must succeed on a Will save or attack the caster to the best of their ability for 1 round plus 1 round per 5 caster levels. This effect applies to any undead created by the triggering effect. |
+| 68 | For 1 day per caster level, one of the caster’s limbs (usually an arm) becomes skeletal. This has no mechanical effect, but may cause negative reactions if not concealed. |
+| 69 | The casting time decreases by 1 step. |
+| 70 | (Combat) The caster is dazed for 1 round. |
+| 71 | The caster becomes imperceptible to undead creatures for 1 minute per caster level. |
+| 72 | Undead creatures created by the effect or within close range of the caster when it is cast lose their immunity to mind-affecting effects for 1 hour per caster level. For the purpose of such effects, treat them as if they were the creatures they were in life. |
+| 73 | Roll again on the Universal wild magic table. |
+| 74 | The caster emits an aura of pestilence out to close range for 10 minutes per caster level. All creatures within this area, including the caster, take a -2 penalty on all saves against disease. |
+| 75 | All creatures within close range of the target or center of the target area must succeed on a Fortitude save or become fatigued. |
+| 76 | For 10 minutes per caster level, the caster becomes unable to control undead creatures by any means. |
+| 77 | For 1 day per caster level, one of the caster’s heads becomes skeletal. This has no mechanical effect, but may cause negative reactions if not concealed. |
+| 78 | The caster emits an aura of death out to close range for 10 minutes per caster level. All creatures within this area, excluding the caster, take a -2 penalty on all saves versus death effects. |
+| 79 | The caster becomes unable to perceive undead creatures for 1 minute per caster level. |
+| 80 | For 1 round per caster level, the caster emits an aura out to close range that forces all living creatures that end their turn within it to succeed on a Fortitude save or take 1 temporary negative level. All negative levels from this effect stack. The caster is excluded from this effect. |
+| 81 | As an instantaneous effect, all dead creatures within long range of the caster are animated as skeletons per the reanimate ability of the Death sphere. The caster has no control over these creatures and they do not count against the number of undead he can active at one time with his reanimate ability. These skeletons are hostile to all living creatures. |
+| 82 | As an instantaneous effect, all dead creatures within long range of the caster are animated as zombies per the reanimate ability of the Death sphere. The caster has no control over these creatures and they do not count against the number of undead he can active at one time with his reanimate ability. These zombies unerringly seek out the caster to attack him until destroyed. |
+| 83 | For 1 hour per caster level, all creatures within long range of the caster when this result is triggered exude the scent of decaying flesh, attracting the attention of carrion feeders and causing most creatures interacting with them to have their disposition drop by one step until the end of this effect. |
+| 84 | The caster is fatigued. |
+| 85 | The caster emits an aura of death out to close range for 10 minutes per caster level. All creatures within this area, including the caster, take a -2 penalty on all saves versus death effects. |
+| 86 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 87 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 88 | The caster and the nearest creature that is a valid target switch bodies for 1 round per caster level. This functions as the Possession advanced talent. |
+| 89 | The casting time increases by 2 steps. |
+| 90 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 91 | (Combat) All creatures within close range of the caster must succeed on a Fortitude save or be nauseated 1 round per caster level. |
+| 92 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 93 | The caster emits an aura of pestilence out to close range for 10 minutes per caster level. All creatures within this area, excluding the caster, take a -2 penalty on all saves against disease. |
+| 94 | For 1 minute per caster level, the caster emits an aura out to close range that forces all living creatures that end their turn within it to succeed on a Fortitude save or become fatigued. Fatigued creatures are unaffected. The caster is excluded from this effect. |
+| 95 | Wailing spirits fill an area out to long range of the caster with their cries for 2d4 rounds. All concentration checks within this area suffer a penalty equal to half caster level (minimum 1) and all spells with verbal components suffer a 10% chance of failure. Deaf creatures are immune to this effect. |
+| 96 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 97 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 98 | The caster is exhausted. |
+| 99 | (Combat) All creatures within close range of the caster must succeed on a Fortitude save or be sickened 1 round per caster level. |
+| 100 | All corpses within long range of the caster (other than those targeted by the triggering effect) become undead per reanimate for 1 round per caster level. These undead are helpful toward the caster. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-destruction" data-name="Destruction" data-group="Spheres">
+
+**Destruction**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The caster takes a -4 penalty on all attack rolls and save DCs for destructive blasts for 1d4 rounds. |
+| 2 | Increase the effect’s damage die size by 1 step (1d4, 1d6, 1d8, 1d10, 1d12). |
+| 3 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 4 | The effect’s shape is replaced with a close range burst that includes the caster. A Reflex save halves damage. |
+| 5 | The range and area of the effect are decreased by 50%. |
+| 6 | (Combat) For 1d6 rounds, all allied creatures within medium range of the caster leave behind a glowing trail of destructive energy. Any creature that enters a square that has been occupied by an affected creature since the beginning of the caster’s previous turn takes damage equal to caster level of a type corresponding the (blast type) talent used. A creature may only take this damage once per turn. |
+| 7 | The blast does bludgeoning damage. |
+| 8 | The blast does negative energy damage. |
+| 9 | The casting time decreases by 1 step. |
+| 10 | The caster gains immunity to the effect’s damage type or types for 1d4 rounds. This applies after the effect’s damage. |
+| 11 | The blast does slashing damage. |
+| 12 | Affected creatures gain immunity to the effect’s damage type or types equal to caster level for 1d4 rounds. This applies after the effect’s damage. |
+| 13 | An area out to close range of the target or center of the target area is covered in crystals as per the Crystal Blast talent. |
+| 14 | For 1 round per caster level, every creature that takes damage from the effect leaves behind an energy wall of a blast type matching the effect when they move, each with a length of up to 10 ft. + 5 ft. per 2 caster levels, the most distant sections fading first. |
+| 15 | The effect ignores spell resistance. |
+| 16 | Any creature affected by the effect catches on fire. Instead of fire damage, the target suffers damage according to the damage type the effect. |
+| 17 | All hostile creatures within close range of the caster are bull rushed per the Air Blast talent even if they take no damage from the effect. |
+| 18 | The effect is accompanied by a burst of sound, destroying non-magical objects of crystal, glass, ceramic, or porcelain. All such unattended objects within a 5 ft. + 5 ft. per 5 caster level radius of the caster are smashed into dozens of pieces. Objects weighing more than 1 pound per caster level are not affected, but all other objects of the appropriate composition are shattered. |
+| 19 | The blast does cold damage. |
+| 20 | Affected creatures gain resistance or damage reduction to the effect’s damage type or types equal to caster level for 1d4 rounds. This applies after the effect’s damage. |
+| 21 | The caster is included in the effect regardless of location. If an attack roll is made, use the same attack roll for the first target and the caster. |
+| 22 | Any creature damaged by the effect is bull rushed as per the Air Blast talent. |
+| 23 | The caster loses access to this sphere for 1d6 rounds. |
+| 24 | The blast does force damage. |
+| 25 | All of the effect’s damage die are minimized (treat as if you rolled the minimum value on all damage dice). This overrides the Maximize Spell metamagic feat. |
+| 26 | Caster’s caster level is treated as 1 for determining range and area. |
+| 27 | The blast does nonlethal damage of its original type. |
+| 28 | The casting time increases by 2 steps. |
+| 29 | In addition to the normal range and shape, the effect creates a close range burst that excludes the caster. A Reflex save halves damage from this additional area. Damage from overlapping areas does not stack. |
+| 30 | The caster gains a +2 bonus on all attack rolls and save DCs for destructive blasts for 1 round. |
+| 31 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 32 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 33 | The effect treats all affected creatures as if they possessed spell resistance equal to 10 + Hit Dice. |
+| 34 | The effect deals minimized damage to caster, a successful Reflex save halves this damage. |
+| 35 | For 1 round per caster level, an energy wall of a blast type matching the effect is left behind the caster when he moves, with a length of up to 10 ft. + 5 ft. per 2 caster levels, the most distant sections fading first. |
+| 36 | The caster gains immunity to the effect’s damage type or types for 1d4 rounds. This applies before the effect’s damage. |
+| 37 | Affected creatures gain immunity to the effect’s damage type or types equal to caster level for 1d4 rounds. This applies before the effect’s damage. |
+| 38 | Creatures reduced to 0 or fewer hit points by the effect are disintegrated, per the disintegrate spell. |
+| 39 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 40 | (Combat) For 1d6 rounds, all hostile creatures within medium range of the caster leave behind a glowing trail of destructive energy. Any creature that enters a square that has been occupied by an affected creature since the beginning of the caster’s previous turn takes damage equal to caster level of a type corresponding to the triggering effect. A creature may only take this damage once per turn. |
+| 41 | The blast does sonic damage. |
+| 42 | All unattended flammable objects within close range of the target or center of the target area are set on fire. |
+| 43 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 44 | All allied creatures within close range of the caster are bull rushed per the Air Blast talent even if they take no damage from the effect. |
+| 45 | Increase the effect’s damage die by 2 steps (1d4, 1d6, 1d8, 1d10, 1d12). |
+| 46 | For 1 hour, any non-magical objects of crystal, glass, ceramic, or porcelain are instantly smashed into dozens of pieces whenever the caster touches them. Objects weighing more than 1 pound per caster level are not affected. |
+| 47 | The casting time decreases by 2 steps. |
+| 48 | (Combat) As an instantaneous effect, an area out to close range of the caster is covered in ice. Any creature attempting to move at more than half speed over this area must succeed on a Reflex save or fall prone. Any square receiving fire damage exceeding caster level becomes cleared of this effect. The ice melts as appropriate to the environmental conditions (1 round per caster level in hot environments, 1 minute per caster level in normal conditions). |
+| 49 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 50 | (Combat) For 1d6 rounds, all creatures within medium range of the caster leave behind a glowing trail of destructive energy. Any creature that enters a square that has been occupied by an affected creature since the beginning of the caster’s previous turn takes damage equal to caster level of a type corresponding the triggering effect. A creature may only take this damage once per turn. |
+| 51 | Any armor or robes worn by the caster take half the damage that would have been dealt by the effect. |
+| 52 | Affected creatures gain resistance or damage reduction to the effect’s damage type or types equal to caster level for 1d4 rounds. This applies before the effect’s damage. |
+| 53 | (Combat) The caster is dazed for 1 round. |
+| 54 | The caster is surrounded by an energy wall as the Energy Wall talent with a blast type matching the effect for 1d6 rounds. This wall does not move with the caster. |
+| 55 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 56 | The effect receives a +2 bonus to caster level. |
+| 57 | The caster catches on fire. Instead of fire damage, the caster suffers damage according to the damage type the effect. Adjacent creatures suffer the same damage (Reflex negates). |
+| 58 | The caster gains resistance or damage reduction to the effect’s damage type or types equal to caster level for 1d4 rounds. This applies after the effect’s damage. |
+| 59 | The effect’s shape is replaced with a close range burst that excludes the caster. A Reflex save halves damage. |
+| 60 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 61 | The caster is fatigued. |
+| 62 | The caster catches on fire. Instead of fire damage, the caster suffers damage according to the damage type the effect. |
+| 63 | The caster is exhausted. |
+| 64 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 65 | The ground directly beneath the target’s space or the target area receive the effect’s damage in addition to the normal targets. |
+| 66 | The blast does acid damage. |
+| 67 | (Combat) The caster is stunned for 1 round. |
+| 68 | The effect deals no damage, but any creature that is struck by it or in its area of effect suffer any additional effects despite not taking damage. |
+| 69 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 70 | All unattended flammable objects within close range of the caster are set on fire. |
+| 71 | Decrease the effect’s damage die by 2 steps (1d8, 1d6, 1d4, 1d3, 1d2). |
+| 72 | Any creature that takes damage from the effect gains vulnerability (+50% damage) to the effect’s damage types until the end of the caster’s next turn. |
+| 73 | Decrease the effect’s damage die by 1 step (1d8, 1d6, 1d4, 1d3, 1d2). |
+| 74 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 75 | Any creature that would have been damaged is instead healed a number of hit points equal to the damage they would have taken, up to their normal maximum hit points. |
+| 76 | The blast does piercing damage. |
+| 77 | Roll again on the Universal wild magic table. |
+| 78 | Half the blast’s damage is delayed until the end of the caster’s next turn. |
+| 79 | All of the effect’s damage die are maximized (treat as if you rolled the maximum value on all damage dice). This does not stack with the Maximize Spell metamagic feat. |
+| 80 | All creatures within close range of the caster are bull rushed per the Air Blast talent even if they take no damage from the effect. |
+| 81 | An area out to close range of the caster is covered in crystals as per the Crystal Blast talent. |
+| 82 | Any creature affected by the effect catches on fire. Instead of fire damage, the caster suffers damage according to the damage type the effect. Adjacent creatures suffer the same damage (Reflex negates). |
+| 83 | Any creature damaged by the effect subject to a trip attempt, using caster level in place of base attack bonus and casting attribute in place of Strength to determine CMB. The caster cannot be tripped in return if failing by 5 or more. |
+| 84 | The blast does electricity damage. |
+| 85 | (Combat) For 1d6 rounds, the caster leaves behind a glowing trail of destructive energy. Any creature that enters a square that has been occupied by the caster since the beginning of the caster’s previous turn takes damage equal to caster level of a type corresponding the (blast type) talent used. A creature may only take this damage once per turn. |
+| 86 | The blast does fire damage. |
+| 87 | The effect receives a -4 penalty to caster level (minimum 1). |
+| 88 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 89 | The casting time increases by 1 step. |
+| 90 | Any rods, shields, staves, or weapons held by the caster take half the damage that would have been dealt by the effect. |
+| 91 | The blast does untyped damage. |
+| 92 | The caster gains resistance or damage reduction to the effect’s damage type or types equal to caster level for 1d4 rounds. This applies before the effect’s damage. |
+| 93 | In addition to the normal range and shape, the effect creates a close range burst that includes the caster. A Reflex save halves damage from this additional area. Damage from overlapping areas does not stack. |
+| 94 | The ground directly beneath the caster’s space receives the effect’s damage in addition to the normal targets. |
+| 95 | The effect is accompanied by a burst of fire. All creatures within a 5 ft. + 5 ft. per 5 caster level radius of the caster take 1d4 + 1d4 per 5 caster levels fire damage, Reflex save negates. Unattended flammable objects are set on fire. |
+| 96 | (Combat) The caster is nauseated for 1 round. |
+| 97 | The effect is resolved as normal, but damage and secondary effects are not applied until the end of the caster’s next turn. |
+| 98 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 99 | The effect is empowered as the Empower Spell metamagic feat. This does not stack with that feat. |
+| 100 | Any creature that takes damage from the effect gains immunity to the effect’s damage types for 1 minute. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-divination" data-name="Divination" data-group="Spheres">
+
+**Divination**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | For 10 minutes per caster level, the caster is plagued by meaningless, trivial, and mundane visions of the history of one object he touches each round. |
+| 2 | For 1 round per caster level, the caster is blinded and deafened. |
+| 3 | For 1 hour per caster level, the target is plagued by vague, indecipherable visions of the future, imposing a -1 penalty on concentration checks. This penalty increases by 1 every 5 caster levels. For divine effects without a target, choose a random creature within the area of the effect. |
+| 4 | All creatures within medium range of the caster must succeed on a Will save or lose the ability to speak and understand their native languages (those granted by race) for 10 minutes per caster level. |
+| 5 | For 1 minute per caster level, the caster becomes unable to perceive hostile creatures. This effect ends after taking damage from a creature the caster could not perceive due to this effect. |
+| 6 | The caster gains insight into the future and may negate one attack against him within the next hour as an immediate action. |
+| 7 | For 1 minute per caster level, the caster increases all distance penalties on Perception checks by caster level, but gains a circumstance bonus on saving throws against effects with the (light) and (sonic) descriptors equal to 1/2 caster level (minimum 1). |
+| 8 | The caster is dazed for 1 round as he receives a vision of the nearest unattended magical item worth at least 100 gp per caster level. The caster learns the approximate direction and distance to this item. |
+| 9 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 10 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 11 | For 1 minute per caster level, the caster is mute. |
+| 12 | For 10 minutes per caster level, all insight bonuses active on the caster are instead treated as penalties. |
+| 13 | For 1 minute per caster level, to the caster’s perception, all sources of iron within long range shed light as a torch. |
+| 14 | (Combat) For 1 round per caster level, all creatures within medium range of the caster are aware of the status of all other creatures within that area per the Divine Life ability. |
+| 15 | The caster gains an augury regarding his next intended action. The result is opposite the truth (weal or woe). |
+| 16 | (Combat) The caster is stunned for 1 round. |
+| 17 | For 1d6 rounds, all hostile creatures within close range of the caster are flat-footed from the end of their turn until the start of their next turn. |
+| 18 | The caster is assaulted with impressions of events past and future and is dazed for 1 round. These impressions grant a +4 insight bonus on any Knowledge checks made regarding events that transpired within long range made within the next hour. |
+| 19 | For 1 minute per caster level, the caster may only communicate in cryptic rhyme and poetry. Even when writing, words must be communicated in verse. |
+| 20 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 21 | (Combat) For 1d6 rounds, the caster is blinded but catches glimpses of the near future. The caster does not suffer a penalty to initiative or AC from this condition and gains the benefits of uncanny dodge for the duration of the effect. |
+| 22 | For 1 minute per caster level, the caster gains the scent ability, but takes a -4 penalty on saves against effects that cause the sickened or nauseated conditions. |
+| 23 | The caster is fatigued. |
+| 24 | (Combat) The caster is stunned for 1 round, overwhelmed by sensory input that grants no information. |
+| 25 | For 10 minutes per caster level, the caster’s senses function normally, except he is unable to perceive creatures within 20 feet. |
+| 26 | All creatures within close range must succeed on a Fortitude save or be blinded for 1 round per caster level. |
+| 27 | All creatures within 5 ft. plus 5 ft. per 5 caster levels of the caster must succeed on a Will save or be assaulted with impressions of events past and future and be dazed for 1 round. These impressions grant a +4 insight bonus on any Knowledge checks made regarding events that transpired within long range made within the next hour. |
+| 28 | The casting time decreases by 2 steps. |
+| 29 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 30 | Roll again on the Universal wild magic table. |
+| 31 | (Combat) The caster perceives translucent images of every creature that has ever died in the area, granting all creatures partial concealment against the caster for 1d6 rounds. |
+| 32 | (Combat) For 1d6 rounds, psychic pulses emanate from the caster. To cast or concentrate on any spells or sphere abilities, all non-mindless creatures within medium range must succeed on a concentration check against a DC of 10 + 1/2 caster level of the spell or sphere ability being cast. |
+| 33 | The caster is blinded for 1 round per caster level. |
+| 34 | The caster receives a vision of being slain by the nearest hostile (or likely to become hostile) creature. If the caster encounters that creature during the next 1 hour per caster level, the caster is frightened for 1 round and flees the creature as best he is able. |
+| 35 | For 1 minute per caster level, the caster’s allies becomes unable to perceive the caster. |
+| 36 | For 1 hour per caster level, the caster gives an aura of all alignments, creature types, creature subtypes, and hit point totals. |
+| 37 | For 10 minutes per caster level, all creatures within long range of the caster subtract 1/2 caster level (minimum 1) from their Hit Dice to determine the strength of their auras. Results of 0 or lower suppress the aura. |
+| 38 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 39 | The casting time increases by 1 step. |
+| 40 | All creatures within close range of the caster must succeed on a Will save or be blinded and deafened for 1d6 rounds. |
+| 41 | (Combat) For 1d6 rounds, all creatures within close range of the caster the caster are flat-footed from the end of their turn until the start of their next turn. |
+| 42 | (Combat) For 1d6 rounds, all allied creatures within close range of the caster the caster are flat-footed from the end of their turn until the start of their next turn. |
+| 43 | All creatures within close range of the caster must succeed on a Will save or be blinded, deafened, and mute for 1d6 rounds. |
+| 44 | For 1 minute per caster level, all the caster’s senses act as if the caster was in the space of his nearest ally rather than his own. If the ally does not have line of sight to the caster, the caster is treated as being blind. |
+| 45 | The caster gains insight into the future and may negate one attack against him within the next hour as an immediate action, but is blinded for 1 round after using this ability. |
+| 46 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 47 | As an instantaneous effect, the caster gains knowledge of the location and quantity of all food (as determined by the caster’s race) within divination range. |
+| 48 | For 10 minutes per caster level, the caster believes that he gains an innate knowledge of the direction to the nearest source of potable water larger than 1 cubic foot. This belief is incorrect, giving a result opposite the actual location of such a source. |
+| 49 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 50 | For 1 minute per caster level, the caster may only communicate via obtuse poetry in dactylic hexameter. Even if they share a language, those listening must succeed a Linguistics check with a DC equal to the caster’s save DC in order to understand him. |
+| 51 | For 1 minute per caster level, all hostile creatures within long range of the caster gain the benefit of any special senses (blindsight, darkvision, tremorsense, etc.) the caster possesses (whether naturally, from items, or from ongoing effects) but lose the benefit of any they would normally possess. |
+| 52 | For 10 minutes per caster level, all creatures within long range of the caster add 1/2 caster level (minimum 1) to their Hit Dice to determine the strength of their auras. |
+| 53 | For 1 minute per caster level, all creatures within long range of the caster gain the benefit of any special senses (blindsight, darkvision, tremorsense, etc.) the caster possesses (whether naturally, from items, or from ongoing effects) but lose the benefit of any they would normally possess. |
+| 54 | The casting time increases by 2 steps. |
+| 55 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 56 | The caster receives a vision of being slain by the nearest hostile (or likely to become hostile) creature. If the caster encounters that creature during the next 1 hour per caster level, the caster must succeed on a Fortitude save or be stunned for 1 round. |
+| 57 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 58 | The caster becomes aware of how many words have been spoken in the past 24 hours by all creatures within long range. |
+| 59 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 60 | For 1 hour per caster level, the caster is plagued by vague, indecipherable visions of the future, imposing a -1 penalty on concentration checks. This penalty increases by 1 every 5 caster levels. |
+| 61 | (Combat) The caster is nauseated for 1 round. |
+| 62 | For 1 minute per caster level, the caster receives flashes of the future, granting a +2 insight bonus to AC and attack rolls. This bonus increases by 1 for every 10 caster levels. |
+| 63 | The caster receives a vision of a trusted ally stealing from him. For the next 24 hours, the caster takes all reasonable precautions to prevent allies from robbing him and does not treat that ally as an ally for the purpose of free movement and flanking. |
+| 64 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 65 | The caster gains instantaneous knowledge of the number of seconds until the next solar eclipse and feels compelled to immediately record this number, which requires writing implements and 1d6 full-round actions. This compulsion overrides all other concerns except personal safety and does not end until the compulsion is satisfied. |
+| 66 | For 1 minute per caster level, to the caster’s perception, all sources of water within long range shed light as a torch. Water contained in living bodies does not glow. |
+| 67 | The casting time decreases by 1 step. |
+| 68 | For 1 minute per caster level, all allied creatures within long range of the caster gain the benefit of any special senses (blindsight, darkvision, tremorsense, etc.) the caster possesses (whether naturally, from items, or from ongoing effects) but lose the benefit of any they would normally possess. |
+| 69 | The caster is exhausted. |
+| 70 | (Combat) For 1 round per caster level, the caster receives false flashes of the future, imposing a -2 penalty to AC and attack rolls. This penalty increases by 1 for every 10 caster levels. |
+| 71 | For 1 minute per caster level, creature’s hostile to the caster within medium range become unable to perceive the caster. This effect ends for each individual creature after taking damage from a creature that could not be perceived due to this effect. |
+| 72 | (Combat) For 1d6 rounds, the caster is flat-footed from the end of his turn until the start of his next turn. |
+| 73 | The caster gains an augury regarding his next intended action. The result is accurate (weal or woe). |
+| 74 | For 1 minute per caster level, the caster’s allies within medium range become unable to perceive hostile creatures. This effect ends for each individual creature after taking damage from a creature that could not be perceived due to this effect. |
+| 75 | For 10 minutes per caster level, the caster gains an innate knowledge of the direction to the nearest source of potable water larger than 1 cubic foot. |
+| 76 | The caster is convinced that hostile creatures appropriate to the area are within long range and takes appropriate action. This lasts for 10 minutes per caster level. |
+| 77 | The caster loses access to this sphere for 1d6 rounds. |
+| 78 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 79 | For 10 minutes per caster level, physic pulses emanate from the caster. All non-mindless creatures within medium range may pinpoint the caster’s square as a free action. |
+| 80 | As an instantaneous effect, the caster becomes aware of the location and quantity of all books, scrolls, and other written documents within divination range. |
+| 81 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 82 | (Combat) All creatures act in the reverse order of their initiative for 1d6 rounds. Affected creatures cannot take the delay action. |
+| 83 | For 1 minute per caster level, the caster reduces all distance penalties on Perception checks by caster level, but takes a penalty on saving throws against effects with the (light) and (sonic) descriptors equal to 1/2 caster level (minimum 1). |
+| 84 | For 1 minute per caster level, the caster is unable to perceive creatures of his own creature type. |
+| 85 | For 1 minute per caster level, the caster gains tremorsense out to 30 feet. |
+| 86 | For 1 hour, the caster feels the pain of a blow before it lands, unconsciously flinching away. This grants a +1 dodge bonus to AC and Reflex saves but imposes a -1 penalty on attack rolls and Strength- and Dexterity-based skill checks. |
+| 87 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 88 | For 1 minute per caster level, the caster can speak and write only meaningless gibberish. |
+| 89 | For 1 hour per caster level, the caster loses the ability to speak and understand his native language(s) (those granted by race). |
+| 90 | For 1 minute per caster level, creature’s hostile to the caster within medium range become unable to perceive the caster or his allies. This effect ends for each individual creature after taking damage from a creature that could not be perceived due to this effect. |
+| 91 | Effect receives a +2 bonus to caster level. |
+| 92 | The caster is dazed for 1 round as he receives a vision of the most recent violent death of a humanoid within 1 mile per caster level. The caster learns the approximate direction and distance to the place this occurred. |
+| 93 | The caster’s mind is flooded with information. All Knowledge checks made in the next 10 minutes per caster level receive an insight bonus equal to caster level but require a full-round action to make. |
+| 94 | (Combat) The caster is dazed for 1 round. |
+| 95 | For 1 minute per caster level, the caster becomes unable to perceive his allies. |
+| 96 | All creatures within close range of the caster must succeed on a Will save or be blinded for 1d6 rounds. |
+| 97 | For 1 minute per caster level, all creatures within close range of the caster may choose to share the caster’s sensory information as a free action. Any creature using this ability is flat-footed until the start of their next turn. |
+| 98 | The caster is dazed for 1 round and shaken for 1 round per caster level as he receives a vision of the nearest hostile (or likely to become hostile) creature. The caster learns the approximate direction and distance to this creature. |
+| 99 | For 1 minute per caster level, the caster is deafened. |
+| 100 | The caster is assaulted by horrific visions of the past, nauseating him for 1 round. These visions grant a +4 bonus on Knowledge checks regarding the history of the caster’s current location. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-enhancement" data-name="Enhancement" data-group="Spheres">
+
+**Enhancement**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | For 1 minute per caster level, the target suffers a temporary penalty to Strength equal to half the effect’s caster level. |
+| 2 | For 1d6 rounds, the caster’s clothing, gear, and surrounding environment animate, causing the caster to be entangled. |
+| 3 | (Combat) All appropriate weapons wielded by creatures within close range of the target gain the keen special ability for 1 round per caster level. |
+| 4 | For 1 minute per caster level, all weapons wielded by a hostile creature within medium range of the caster gains double the benefit from its enhancement bonus to attack and damage rolls. Hardness and hit points are unaffected. |
+| 5 | (Combat) For 1 round per caster level, all manufactured weapons within close range of the caster are enhanced as the Enhance Equipment ability. |
+| 6 | (Combat) For 1 round per caster level, all appropriate weapons wielded by hostile creatures within close range of the caster gain the keen special ability. |
+| 7 | For 10 minutes per caster level, caster takes a -1d4 penalty on all magical skill checks. |
+| 8 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 9 | (Combat) For 1 round per caster level, all weapons within close range of the caster gain the fragile quality, even if they are magical or masterwork. |
+| 10 | Roll again on the Universal wild magic table. |
+| 11 | Effect receives a +2 bonus to caster level. |
+| 12 | The casting time increases by 1 step. |
+| 13 | For 1 minute per caster level, all creatures within close range of the caster gain a competence bonus on all mental attribute-based skill checks equal to 1/4 caster level (minimum 1). |
+| 14 | (Combat) The caster is dazed for 1 round. |
+| 15 | For 1 minute per caster level, no weapon wielded by a creature within medium range of the caster benefits from its enhancement bonus to attack and damage rolls. Hardness and hit points are unaffected. |
+| 16 | All objects within close range of the caster are treated as being one size category larger, multiplying their weight by 4, for 1d6 rounds. |
+| 17 | For 1 minute per caster level, no weapon wielded by a hostile creature within medium range of the caster benefits from its enhancement bonus to attack and damage rolls. Hardness and hit points are unaffected. |
+| 18 | For 1 day per caster level, the caster quadruples his carrying capacity. This stacks with other magic that improves carrying capacity. |
+| 19 | For 1 minute per caster level, all hostile creatures within close range of the caster gain a competence bonus on all mental attribute-based skill checks equal to 1/4 caster level (minimum 1). |
+| 20 | For 1 minute per caster level, all weapons wielded by a creature within medium range of the caster gains double the benefit from its enhancement bonus to attack and damage rolls. Hardness and hit points are unaffected. |
+| 21 | For 1 minute per caster level, the target suffers a penalty to Constitution equal to half the effect’s caster level. Creature without a Constitution score instead suffer the penalty to Charisma. Objects instead take a penalty to hardness equal to the Constitution penalty. |
+| 22 | For 1 minute per caster level, all armor and shields worn by a creature within medium range of the caster gain double the benefit from its enhancement bonus to AC. Hardness and hit points are unaffected. |
+| 23 | For 1 minute per caster level, the target gains a temporary enhancement bonus to Strength equal to half the effect’s caster level. |
+| 24 | The casting time decreases by 2 steps. |
+| 25 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 26 | For 1d6 rounds, objects within close range of the target or center of the target area animate, causing the all creatures within the area to be entangled. A Reflex save negates this effect for 1 round for a given creature. |
+| 27 | One unattended object of Diminutive size or smaller per caster level within close range of the caster become animated as per the Animate Object talent for 1 minute per caster level. This object is hostile toward the caster and attempts harm the caster to the best of its ability. The size affected increases by one category per 5 caster levels. |
+| 28 | (Combat) For 1 round per caster level, all weapons within close range of the target gain the fragile quality, even if they are magical or masterwork. |
+| 29 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 30 | For 1 minute per caster level, the caster gains a +1d4 bonus on all magical skill checks. |
+| 31 | (Combat) For 1 minute per caster level, all hostile creatures within close range of the caster gain a 10 ft. enhancement bonus to all movement speeds. This bonus increases by 10 ft. per 10 caster levels. |
+| 32 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 33 | For 1 minute per caster level, the target gains a temporary enhancement bonus to Wisdom equal to half the effect’s caster level. For inanimate targets, treat this as the Bestow Intelligence talent. |
+| 34 | For 1 minute per caster level, all creatures within close range of the caster take a penalty on all mental attribute- based skill checks equal to 1/4 caster level (minimum 1). |
+| 35 | (Combat) For 1 round per caster level, all manufactured weapons within close range of the target are enhanced as the Enhance Equipment ability. |
+| 36 | (Combat) The caster is stunned for 1 round. |
+| 37 | For 1 minute per caster level, the target suffers a temporary penalty to Wisdom equal to half the effect’s caster level. This has no effect on mindless creatures or objects. |
+| 38 | For 1 minute per caster level, no armor or shield worn by a creature within medium range of the caster benefits from its enhancement bonus to AC. Hardness and hit points are unaffected. |
+| 39 | For 1d6 rounds, objects within close range of the caster momentarily animate, causing the all creatures within the area to be entangled. A Reflex save negates this effect for 1 round for a given creature. |
+| 40 | For 1 minute per caster level, the caster gains a competence bonus on all mental attribute-based skill checks equal to 1/2 caster level (minimum 1). |
+| 41 | (Combat) For 1 round per caster level, all appropriate weapons wielded by allied creatures within close range of the caster gain the keen special ability. |
+| 42 | The caster is fatigued. |
+| 43 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 44 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 45 | For 1 minute per caster level, the caster becomes magnetic. Attacks against the target with metal weapons gain a +2 circumstance bonus, but these weapons and anything else metal that touches the target stick and can only be removed through a successful Strength check (DC 15, requires a move action). Metal surfaces count as difficult terrain, but metal walls and ceilings can be traversed as easily as if they were floor. |
+| 46 | For 1 minute per caster level, all armor and shields worn by a hostile creature within medium range of the caster gain double the benefit from its enhancement bonus to AC. Hardness and hit points are unaffected. |
+| 47 | For 1 minute per caster level, creatures within close range of the caster gain a competence bonus on all physical attribute-based skill checks equal to 1/4 caster level (minimum 1). |
+| 48 | The casting time decreases by 1 step. |
+| 49 | For 1 minute per caster level, no weapon wielded by an allied creature within medium range of the caster benefits from its enhancement bonus to attack and damage rolls. Hardness and hit points are unaffected. |
+| 50 | One unattended object of Diminutive size or smaller per caster level within close range of the caster become animated as per the Animate Object talent for 1 minute per caster level. This object is under the caster’s control and will aid the caster to the best of their ability. The size affected increases by one category per 5 caster levels. |
+| 51 | (Combat) For 1 round per caster level, all objects and creatures within close range of the target are lightened as the Lighten talent. Creatures may succeed on a Will save to negate this effect. |
+| 52 | (Combat) For 1 round per caster level, all weapons wielded by allied creatures within close range of the target gain the fragile quality, even if they are magical or masterwork. |
+| 53 | For 1 hour per caster level, the caster halves their carrying capacity. This is applied after other magic that alters carrying capacity. |
+| 54 | For 1 minute per caster level, bizarre magnetic fields fill the area within close range of the caster. This moves with the caster, and does not affect the caster nor their carried equipment. All unattended metal objects are ejected from this area (as if pushed by a Strength of 14). Targets may hold metal weapons but suffer a -2 penalty to all attacks, and targets in metal armor treat the area as difficult terrain. |
+| 55 | The magnitude of the enhance effect is halved, reducing any bonuses and penalties granted, rounding down, minimum 1. Animated objects have half their normal hit points from this effect. |
+| 56 | The caster is exhausted. |
+| 57 | For 1 minute per caster level, all allied creatures within close range of the caster take a penalty on all physical attribute-based skill checks equal to 1/4 caster level (minimum 1). |
+| 58 | For 1 round per caster level, all creatures within close range of the caster gain a +1 + 1/5 caster level resistance bonus to all saving throws. |
+| 59 | For 1 minute per caster level, all creatures within close range of the caster gain a 10 ft. enhancement bonus to all movement speeds. This bonus increases by 10 ft. per 10 caster levels. |
+| 60 | For 1d6 rounds, the targets or creatures in the target area have their clothing, gear, and surrounding environment animate, causing the them to be entangled. A Reflex save negates this effect. |
+| 61 | For 1 minute per caster level, all creatures within close range of the caster take a 10 ft. penalty to all movement speeds, to a minimum of 5 feet. This penalty increases by 10 ft. per 10 caster levels. |
+| 62 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 63 | For 1 minute per caster level, no armor or shield worn by an allied creature within medium range of the caster benefits from its enhancement bonus to AC. Hardness and hit points are unaffected. |
+| 64 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 65 | All objects within close range of the caster become weightless for 1d6 rounds. |
+| 66 | For 1 minute per caster level, the target suffers a temporary penalty to Charisma equal to half the effect’s caster level. This has no effect on mindless creatures or objects. |
+| 67 | For 1 minute per caster level, all hostile creatures within close range of the caster take a penalty on all mental attribute-based skill checks equal to 1/4 caster level (minimum 1). |
+| 68 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 69 | For 1 minute per caster level, all allied creatures within close range of the caster take a 10 ft. penalty to all movement speeds. This penalty increases by 10 ft. per 10 caster levels. |
+| 70 | The casting time increases by 2 steps. |
+| 71 | For 1 minute per caster level, all creatures within close range of the caster take a penalty on all physical attribute- based skill checks equal to 1/4 caster level (minimum 1). |
+| 72 | For 1 round per caster level, the ground within a 10-ft. radius under the target or center of the target area breaks apart if it has a hardness of 10 or lower and begins to rise in the air at a rate of 20 ft. per round. |
+| 73 | (Combat) For 1 round per caster level, all hostile creatures within close range of the caster gain a +1 + 1/5 caster level resistance bonus to all saving throws. |
+| 74 | The caster loses access to this sphere for 1d6 rounds. |
+| 75 | For 1 minute per caster level, caster gains a competence bonus on all physical attribute-based skill checks equal to 1/2 caster level (minimum 1). |
+| 76 | For 1 minute per caster level, the target suffers a temporary penalty to intelligence equal to half the effect’s caster level. This has no effect on mindless creatures or objects. |
+| 77 | For 1 minute per caster level, all allied creatures within close range of the caster gain a 10 ft. enhancement bonus to all movement speeds. This bonus increases by 10 ft. per 10 caster levels. |
+| 78 | (Combat) For 1 round per caster level, all objects and creatures within close range of the caster are lightened as the Lighten talent. Creatures may succeed on a Will save to negate this effect. |
+| 79 | For 1 minute per caster level, all hostile creatures within close range of the caster take a 10 ft. penalty to all movement speeds. This penalty increases by 10 ft. per 10 caster levels. |
+| 80 | (Combat) The caster is nauseated for 1 round. |
+| 81 | For 1 minute per caster level, the caster takes a penalty on all physical attribute-based skill checks equal to 1/2 caster level (minimum 1). |
+| 82 | For 1 minute per caster level, all allied creatures within close range of the caster gain a competence bonus on all physical attribute-based skill checks equal to 1/4 caster level (minimum 1). |
+| 83 | For 10 minutes per caster level, the caster takes a 10 ft. penalty to all movement speeds. This penalty increases by 10 ft. per 10 caster levels. |
+| 84 | For 1 minute per caster level, the caster takes a penalty on all mental attribute-based skill checks equal to 1/2 caster level (minimum 1). |
+| 85 | For 10 minutes per caster level, the caster gains a 10 ft. enhancement bonus to all movement speeds. This bonus increases by 10 ft. per 10 caster levels. |
+| 86 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 87 | For 1 minute per caster level, the target gains a temporary enhancement bonus to Intelligence equal to half the effect’s caster level. For inanimate targets, treat this as the Bestow Intelligence talent. |
+| 88 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 89 | For 1 round per caster level, all weapons wielded by hostile creatures within close range of the caster gain the fragile quality, even if they are magical or masterwork. |
+| 90 | For 1 minute per caster level, the target gains a temporary enhancement bonus to Charisma equal to half the effect’s caster level. For inanimate targets, treat this as the Bestow Intelligence talent. |
+| 91 | (Combat) For 1 round per caster level, all weapons wielded by allied creatures within close range of the caster gain the fragile quality, even if they are magical or masterwork. |
+| 92 | One unattended object of Diminutive size or smaller per caster level within close range of the caster become animated as per the Animate Object talent for 1 minute. This object is neutral toward the caster and attempt to flee any conflict, but otherwise meanders aimlessly. The size affected increases by one category per 5 caster levels. |
+| 93 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 94 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 95 | (Combat) For 1 round per caster level, all appropriate weapons wielded by creatures within close range of the caster gain the keen special ability. |
+| 96 | For 1 round per caster level, all weapons wielded by hostile creatures within close range of the target gain the fragile quality, even if they are magical or masterwork. |
+| 97 | (Combat) For 1 round per caster level, all appropriate weapons wielded by allied creatures within close range of the target gain the keen special ability. |
+| 98 | The magnitude of the enhance effect is doubled, doubling any bonuses and penalties granted. Animated objects gain twice their normal hit points from this effect. |
+| 99 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 100 | (Combat) For 1 round per caster level, all appropriate weapons wielded by hostile creatures within close range of the target gain the keen special ability. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-fallen-fey" data-name="Fallen Fey" data-group="Spheres">
+
+**Fallen Fey**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | Ice forms around the feet and limbs of all enemies within close range of the caster, who must succeed on a Reflex save or be entangled and unable to move. In addition, the affected creature’s square becomes slick with ice and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or Escape Artist check against the effect’s save DC. A creature may also destroy the ice on a creature or square by dealing 3 points of damage per caster level to the ice. This removes the entangled condition from the creature and destroys the difficult terrain. The ice melts after 1 minute. |
+| 2 | The caster is fatigued. |
+| 3 | The caster sprouts fairy wings for the duration for the remainder of the fey-link. These wings grant a fly speed of 10 ft. (clumsy). |
+| 4 | The caster is nauseated for 1 round whenever touching metal. This includes wielding metal weapons, wearing metal armor, and donning metal shields but not being struck by a metal weapon. |
+| 5 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 6 | For the remainder of the fey-link, the caster must succeed on a Will save or be fascinated for 1d6 rounds at his own appearance whenever he sees his reflection. |
+| 7 | Thorns sprout from the caster’s footsteps for the duration of the fey-link, acting as caltrops in any space the caster exits. These thorns crumble to dust 1 round later. |
+| 8 | Flowers sprout from the caster’s footsteps for the duration of the fey-link. These flowers wither 1 hour later if not in an appropriate environment. |
+| 9 | For 24 hours, the caster is treated as having rolled a 1 on all checks made to influence good aligned creatures of the fey type. |
+| 10 | All creatures within close range sprouts fairy wings for the duration for the remainder of the fey-link. These wings grant a fly speed of 10 ft. (clumsy). |
+| 11 | For 1 minute per caster level, the caster gains the ability to speak but not understand aklo and the ability to understand but not speak sylvan. This overrides any knowledge of either language previously possessed. |
+| 12 | All creatures of the animal type increase their starting attitude toward the caster by two steps for the duration of the fey-link. |
+| 13 | For the duration of the fey-link, the caster gains vulnerability to cold iron. |
+| 14 | For 1 hour per caster level, any object the caster touches becomes rimed in frost. |
+| 15 | Bark grows over all allied creatures within close range of the caster, increasing their natural armor bonus by 1 + 1 per 5 caster levels for 1 minute. |
+| 16 | The caster is unable to tell a deliberate lie for the duration of the fey-link. |
+| 17 | The caster turns invisible per the Invisibility talent of the Illusion sphere for 1 hour or until he makes a hostile action, whichever comes first. |
+| 18 | The caster becomes invisible for 1 round per caster level. This invisibility ends the first time the caster makes an attack or other threatening action. |
+| 19 | The caster is exhausted. |
+| 20 | For the duration of the fey-link, the caster sheds light as a torch whenever he moved at least 5 feet. |
+| 21 | The casting time decreases by 2 steps. |
+| 22 | For the duration of the fey-link, the caster gains DR equal to caster level against all weapons primarily composed of wood. |
+| 23 | For the duration of the fey-link, any allied creature within close range of the caster is filled with a malevolent influence, taking a -4 penalty on any effect that would make him behave violently until they leave the affected area. |
+| 24 | The caster becomes bound to the nearest tree (or other large plant) for the duration of the fey-link or for 1 hour, whichever is longer. When touching the tree, the caster gains fast healing 1. Anytime the tree is not within long range of the caster, the caster is sickened. If more than a mile from the tree (or on another plane), he is both sickened and shaken. |
+| 25 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 26 | All creatures within close range of the caster when the effect is cast gain vulnerability to cold iron for the duration of the fey-link. |
+| 27 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 28 | The caster grows a unicorn horn, gaining a gore attack (primary, piercing, 1d6 Medium, 1d4 Small) for the remainder of the fey-link. |
+| 29 | (Combat) All allied creatures within close range of the caster must succeed on a Reflex save or become entangled by plants, shifting rocks, or ice as appropriate to the environment for 1d6 rounds. |
+| 30 | All creatures of the animal type decrease their starting attitude toward the caster by two steps for the duration of the fey-link. |
+| 31 | For the duration of the fey-link, any hostile creature within close range of the caster is filled with a malevolent influence, taking a -4 penalty on any effect that would make him behave violently until they leave the affected area. |
+| 32 | All creatures of the animal type decrease their starting attitude toward the caster by one step for the duration of the fey-link. |
+| 33 | For the duration of the fey-link, any creature that beholds the caster must succeed on a Will save or have its attitude toward the caster improved by one step for 1 hour. |
+| 34 | For the duration of the fey-link, all flowers within close range of the caster for longer than 1 minute lose their petals. |
+| 35 | Ice forms around the feet and limbs of all creatures within close range of the caster, who must succeed on a Reflex save or be entangled and unable to move. In addition, each affected creature’s square becomes slick with ice and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or Escape Artist check against the effect’s save DC. A creature may also destroy the ice on a creature or square by dealing 3 points of damage per caster level to the ice. This removes the entangled condition from the creature and destroys the difficult terrain. The ice melts after 1 minute. |
+| 36 | For 10 minutes per caster level, all creatures of the animal type within medium range of the caster have their disposition toward the caster increased by 2 steps to a maximum of helpful. |
+| 37 | For the duration of the fey-link, any allied creature within close range of the caster is sickened for 1 round whenever struck by a metal weapon. |
+| 38 | The illumination level of an area out to close range of the caster increases by 1 step for the duration on the fey-link. |
+| 39 | The caster floats 1 inch off the ground for the duration of the fey-link. This has no impact on movement speeds but halves falling damage. |
+| 40 | Bark grows over all hostile creatures within close range of the caster, increasing their natural armor bonus by 1 + 1 per 5 caster levels for 1 minute. |
+| 41 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 42 | The target can alter his appearance at will as a swift action for the duration of the fey-link. This ability functions as the option to change cosmetic appearance per the Blank Form ability of the Alteration sphere. |
+| 43 | The caster loses access to this sphere for 1d6 rounds. |
+| 44 | For 1 hour per caster level, creatures within close range of the caster must roll twice and take the worst result on saving throws made against disease. |
+| 45 | Bark grows over all creatures within close range of the caster, increasing their natural armor bonus by 1 + 1 per 5 caster levels for 1 minute. |
+| 46 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 47 | For the duration of the fey-link, any hostile creature within close range of the caster is sickened for 1 round whenever struck by a metal weapon. |
+| 48 | The caster gains hooves as a satyr for the remainder of the fey-link and cannot benefit from any items in the boot magic item slot, which immediately fall off. |
+| 49 | Ice forms around the feet and limbs of all allies within close range of the caster, who must succeed on a Reflex save or be entangled and unable to move. In addition, the affected creature’s square becomes slick with ice and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or Escape Artist check against the effect’s save DC. A creature may also destroy the ice on a creature or square by dealing 3 points of damage per caster level to the ice. This removes the entangled condition from the creature and destroys the difficult terrain. The ice melts after 1 minute. |
+| 50 | The caster is sickened for 1 round whenever struck by a metal weapon for the duration of the fey-link. |
+| 51 | Roll again on the Universal wild magic table. |
+| 52 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 53 | For 1 round per caster level the caster trails glittering dust while moving. This dust is never affected by any form of invisibility. |
+| 54 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 55 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 56 | For the duration of the fey-link, the caster takes 1 point of damage per round when touching any object made of cold iron. |
+| 57 | The casting time increases by 2 steps. |
+| 58 | (Combat) The caster is dazed for 1 round. |
+| 59 | (Combat) The caster is stunned for 1 round. |
+| 60 | All hostile creatures within close range of the caster when the effect is cast gain DR/cold iron equal to the caster level/2 (minimum 1) for the duration of the fey link. |
+| 61 | The caster gains a 20-ft. aura for the duration of the feylink. All creatures within the aura must roll twice and take the worst on all d20 rolls. Pugwampi gremlins, gnolls, and any creature benefiting from a luck bonus are immune to this effect. The caster is is subject to his own aura. |
+| 62 | For the duration of the fey-link, the caster gains a sinister appearance, taking a penalty on all Charisma-based checks (except for intimidate) equal to the caster level/2 (minimum 1). |
+| 63 | For the duration of the fey-link, any creature within close range of the caster is filled with a malevolent influence, taking a -4 penalty on any effect that would make him behave violently until they leave the affected area. |
+| 64 | Ice forms around the feet and limbs of the caster who must succeed on a Reflex save or be entangled and unable to move. In addition, the caster’s square becomes slick with ice and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or Escape Artist check against the effect’s save DC. A creature may also destroy the ice on a creature or square by dealing 3 points of damage per caster level to the ice. This removes the entangled condition from the creature and destroys the difficult terrain. The ice melts after 1 minute. |
+| 65 | As an instantaneous effect, one tree (to a maximum size equal to that which you can control through the pummel geomancing ability) grows adjacent to the caster. The tree is under the effect of the pummel geomancing ability for 1d6 rounds and will attack the caster and its allies before attacking any other creature. |
+| 66 | (Combat) All creatures within close range of the caster must succeed on a Reflex save or become entangled by plants, shifting rocks, or ice as appropriate to the environment for 1d6 rounds. |
+| 67 | (Combat) The caster is nauseated for 1 round. |
+| 68 | A fiddle appears in the caster’s possession, disappearing at the end of the fey-link. The caster gains the Skilled Casting (Perform (strings)) drawback for the remainder of the fey-link and must perform on the conjured fiddle. |
+| 69 | For 24 hours, the caster is treated as having rolled a 1 on all checks made to influence evil aligned creatures of the fey type. |
+| 70 | The casting time decreases by 1 step. |
+| 71 | For 10 minutes per caster level, all creatures of the animal type within medium range of the caster have their disposition toward the caster reduced by 2 steps. |
+| 72 | For 1 round per caster level, all hostile creatures of the animal type within medium range of the caster grow 1 size per the Size Change talent of the Alteration sphere. This effect stacks with other polymorph effects. |
+| 73 | All hostile creatures within close range of the caster when the effect is cast gain vulnerability to cold iron for the duration of the fey-link. |
+| 74 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 75 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 76 | All allied creatures within close range of the caster when the effect is cast gain vulnerability to cold iron for the duration of the fey-link. |
+| 77 | All vegetation within medium range of the caster decrease in size for 1 round per caster level. |
+| 78 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 79 | All creatures within close range of the caster when the effect is cast gain DR/cold iron equal to the caster level/2 (minimum 1) for the duration of the fey link. |
+| 80 | All hostile creatures within close range of the caster must succeed on a Reflex save or become entangled by plants, shifting rocks, or ice as appropriate to the environment for 1d6 rounds. |
+| 81 | The temperature of an area out to close range of the caster increases by 1 step (per the Weather sphere) for the duration on the fey-link. |
+| 82 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 83 | Effect receives a +2 bonus to caster level. |
+| 84 | The temperature of an area out to close range of the caster decreases by 1 step (per the Weather sphere) for the duration on the fey-link. |
+| 85 | All vegetation within geomancing range of the caster increase in size for 1 round per caster level. |
+| 86 | For the duration of the fey-link, any creature within close range of the caster gains DR equal to caster level against all weapons primarily composed of wood. |
+| 87 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 88 | The casting time increases by 1 step. |
+| 89 | All creatures within close range of the caster at the time the effect is cast float 1 inch off the ground for the duration of the fey-link. This has no impact on movement speeds but halves falling damage. |
+| 90 | For 1 hour per caster level, creatures within close range of the caster must roll twice and take the best result on saving throws made against disease. |
+| 91 | As an instantaneous effect, poison ivy grows in a 5-ft. radius + 5 ft. per 5 caster level around the caster. The caster and any creature who enters the area must make a Fort save or take -1 penalty (which increases by 1 per 5 caster levels) on all magic skill checks made to concentrate for 1 hour per caster level. This is a poison effect. |
+| 92 | For 1 round per caster level, all creatures of the animal type within medium range of the caster grow 1 size category per the Size Change talent of the Alteration sphere. This effect stacks with other polymorph effects. |
+| 93 | For the duration of the fey-link, any creature within close range of the caster is sickened for 1 round whenever struck by a metal weapon. |
+| 94 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 95 | All creatures of the animal type increase their starting attitude toward the caster by one step for the duration of the fey-link. |
+| 96 | All allied creatures within close range of the caster when the effect is cast gain DR/cold iron equal to the caster level/2 (minimum 1) for the duration of the fey link. |
+| 97 | The illumination level of an area out to close range of the caster decreases by 1 step for the duration on the fey-link. |
+| 98 | For the duration of the fey-link, the caster is filled with a malevolent influence, taking a -4 penalty on any effect that would make him behave violently. |
+| 99 | For the duration of the fey-link, the caster gains DR/cold iron equal to the caster level/2 (minimum 1). |
+| 100 | The caster sprouts fairy wings for the remainder of the fey-link. These wings have no effect. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-fate" data-name="Fate" data-group="Spheres">
+
+**Fate**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | For 1 day per caster level, all doors open themselves (unlocking themselves as well if the lock DC is less than 11 + caster level) whenever the caster comes within close range. |
+| 2 | (Combat) For 1d6 rounds, all creatures within close range of the caster must roll twice and take the worse for all d20 rolls. |
+| 3 | (Combat) For 1d6 rounds, no creature within close range of the caster is allowed to move closer to the caster than they currently are. They move away and the caster may move towards them, but any movement that would reduce their distance to the caster is prohibited. |
+| 4 | For 1 hour per caster level, the caster must lie whenever asked a question. |
+| 5 | (Combat) For 1 round per caster level, all rolls of any kind made by allied creatures within long range of the caster are treated as having rolled their average value (round down). |
+| 6 | The casting time decreases by 1 step. |
+| 7 | All creatures capable of speech within medium range of the caster state their name, creature type and subtypes, where they came from, why they are where they are, and where they are going as a free action on their next turn. They speak in whichever language they are most comfortable with (usually one of the ones gained from their race), which you may or may not understand. |
+| 8 | For 1 minute per caster level, the caster and any creature adjacent to the him do not automatically hit on a natural 20 and are incapable of threatening a critical hit. |
+| 9 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 10 | For 1 minute per caster level, the caster gains an overwhelming aura of every alignment and counts as the worst available alignment for the purpose of effects than vary based on alignment. |
+| 11 | (Combat) For 1d6 rounds, all hostile creatures within close range of the caster must roll twice and take the best result for all d20 rolls. |
+| 12 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 13 | (Combat) For 1 round per caster level, any time the caster deals damage to any creature, the caster takes 1 point of nonlethal damage per caster level. If dealing damage to multiple creatures with one action, only the highest value is used. Likewise, whenever a creature deals damage to the caster, the creature takes 1 point of nonlethal damage per caster level. |
+| 14 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 15 | (Combat) Until the end of his next turn, the caster treats all d20 rolls as if he had rolled a natural 10. |
+| 16 | The casting time decreases by 2 steps. |
+| 17 | For 1 hour per caster level, the caster is unable to tell an intentional lie. |
+| 18 | (Combat) For 1 round per caster level, all hostile creatures within close range of the caster gain an insight bonus to AC equal to one quarter caster level (minimum 1). |
+| 19 | (Combat) For 1 round per caster level, all rolls of any kind made by hostile creatures within long range of the caster are treated as having rolled their average value (round down). |
+| 20 | (Combat) For 1d6 rounds, all creatures within close range of the caster must roll twice and take the best result for all d20 rolls. |
+| 21 | (Combat) Until the end of his next turn, the caster treats all d20 rolls as if he had rolled a natural 1. |
+| 22 | For 10 minutes per caster level, at the end of each of the caster’s turns, all valid targets within 5 ft. of the caster are affect by the Close (word) talent. |
+| 23 | For 1 round per caster level, the caster is automatically treated as if he rolled 10 on all d20 rolls. This prevents taking 20. |
+| 24 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 25 | The next attack roll targeting the caster originating from a hostile creature is treated as having been a natural 1. |
+| 26 | (Combat) All creatures within close range of the caster must succeed on a Will save or treat all d20 rolls as if they had rolled a natural 1 until the end of their next turn. |
+| 27 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 28 | For 1 hour per caster level, any time the caster rolls a natural 1 or a natural 20 on a d20, he must reroll and take the new value. |
+| 29 | As an instantaneous effect, all hostile creatures within close range of the caster must save or be affected by the Divine Force (consecration) talent, regardless of alignment. |
+| 30 | The caster is placed under a geas as the Geas advanced talent of the Fate sphere to do the next thing they are asked to do. The caster is unaware of this result until the request is made. The geas disappears after being completed or in 1d6 days, whichever comes first. |
+| 31 | (Combat) For 1 round per caster level, all rolls of any kind made by creatures within long range of the caster are treated as having rolled their average value (round down). |
+| 32 | (Combat) For 1 round per caster level, all hostile creatures within close range of the caster lose the benefit of all circumstance, competence, dodge, insight, luck, resistance, and sacred bonuses to d20 rolls and may ignore all penalties to d20 rolls. |
+| 33 | (Combat) For 1d6 rounds, all hostile creatures within close range of the caster must roll twice and take the worse for all d20 rolls. |
+| 34 | Until the end of the caster’s next turn, all creatures within close range are unable to discern creatures of the caster’s alignment. Affected creatures treat all creatures possessing that alignment as invisible and inaudible, even to special senses such as blindsense, lifesense, blindsight, etc. |
+| 35 | The caster is fatigued. |
+| 36 | (Combat) Until the start of the caster’s next turn, all creatures within close range of the caster automatically deal nonlethal damage with all attacks, spells, and other effects. |
+| 37 | (Combat) For 1 round per caster level, all attack and damage rolls targeting the caster are treated as having rolled their average value (round up). Creatures targeting the caster are aware of this effect and may choose to change their actions in response to that knowledge. This effect applies after effects like the Maximize Spell metamagic feat. |
+| 38 | For 1 hour, all insight bonuses within close range of the caster are instead treated as penalties. |
+| 39 | (Combat) Until the start of the caster’s next turn, all hostile creatures within close range of the caster automatically deal nonlethal damage with all attacks, spells, and other effects. |
+| 40 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 41 | Effect receives a +2 bonus to caster level. |
+| 42 | For 1 hour, all sacred and profane bonuses within close range of the caster are doubled. This can not result in a bonus greater than +10. |
+| 43 | For 1 round per caster level, no creature within medium range of the caster may benefit from luck bonuses. |
+| 44 | For 1 hour per caster level, the caster must speak in lies. Anything may be spoken, so long as it is untrue. |
+| 45 | The next creature to target the caster with an attack gains the ability to smite all alignments possessed by the caster as the paladin class feature, using its Hit Dice in place of paladin levels. Only one use of this smite is granted and it must be used within 1 hour or it is lost. |
+| 46 | All allied creatures within close range of the caster must succeed on a Will save or be unable to discern creatures of the caster’s alignment for a number of rounds equal to the effect’s caster level/2 (min 1 round). Affected creatures treat all creatures possessing that alignment as invisible and inaudible, even to special senses such as blindsense, lifesense, blindsight, etc. |
+| 47 | As an instantaneous effect, all allied creatures within close range of the caster must save or be affected by the Divine Force (consecration) talent, regardless of alignment. |
+| 48 | (Combat) Until the start of the caster’s next turn, all allied creatures within close range of the caster automatically deal nonlethal damage with all attacks, spells, and other effects. |
+| 49 | (Combat) The caster is dazed for 1 round. |
+| 50 | Roll again on the Universal wild magic table. |
+| 51 | For 10 minutes per caster level, at the end of each of the caster’s turns, all valid targets within 5 ft. of the caster are affect by the Open (word) talent. |
+| 52 | As an instantaneous effect, all creatures within close range of the caster must save or be affected by the Divine Force (consecration) talent, regardless of alignment. |
+| 53 | For 1 minute per caster level, all creatures within close range of the caster must speak in lies. Anything may be spoken, so long as it is untrue. |
+| 54 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 55 | Any creatures within close range of the caster when this result is triggered must succeed on a Will save or be unable to tell an intentional lie for 1 hour per caster level. |
+| 56 | The next attack roll targeting the caster originating from a hostile creature is treated as having been a natural 20. |
+| 57 | For 1 day per caster level, all doors shut and lock themselves (if a lock is present) whenever the caster comes within close range for the first time each hour. |
+| 58 | For 1 minute per caster level, the caster becomes unable to discern creatures of a random alignment. The caster treats all creatures possessing that alignment as invisible and inaudible, even to special senses such as blindsense, lifesense, blindsight, etc. |
+| 59 | (Combat) For 1 round per caster level, all die rolls made by the caster are treated as having given their average result (round down). |
+| 60 | As an instantaneous effect, all valid targets within long range are affected by the Open (word) talent. |
+| 61 | For 1 minute per caster level, all luck bonuses are doubled within close range of the caster. |
+| 62 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 63 | For 10 minutes per caster level, whenever a individual creature comes within medium range of the caster for the first time during the duration of this result, the caster must state his name, creature type and subtypes, where he came from, why he is where he is, and where he is going as a free action on his next turn. The caster speaks in whichever language he is most comfortable with (usually one of the ones gained from his race). |
+| 64 | The caster makes a single magical skill check against all Fate sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 65 | The caster loses access to this sphere for 1d6 rounds. |
+| 66 | (Combat) For 1d6 rounds, the caster must roll twice and take the worse for all d20 rolls. |
+| 67 | (Combat) All creatures within close range of the caster must succeed on a Will save or treat all d20 rolls as if they had rolled a natural 10 until the end of their next turn. |
+| 68 | For 1 minute per caster level, the caster may not benefit from luck bonuses. |
+| 69 | For 1 hour per caster level, all creatures within long range of the caster are treated as if they had the true neutral alignment for all effects they are subjected to. |
+| 70 | The caster is exhausted. |
+| 71 | (Combat) For 1 round per caster level, all creatures within close range of the caster gain an insight bonus to saving throws equal to half caster level (minimum 1). |
+| 72 | (Combat) For 1d6 rounds, all allied creatures within close range of the caster must roll twice and take the worse for all d20 rolls. |
+| 73 | The caster automatically fails his next Sense Motive check made that day, being treated as if his total result is 0 regardless of bonuses and penalties to the skill. |
+| 74 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 75 | For 1 round per caster level, the caster gains alignment auras opposite to their own alignment (neutral characters instead gain auras corresponding to a random extreme alignment) and counts as that alignment or alignments for the purposes of spells and effects. Additionally, any spells or effects the caster possesses that are dependent on alignment are inverted (smite evil becomes smite good, detect law becomes detect chaos, etc.). This alters all new and ongoing effects originating from the caster. Once this result expires, ongoing effects that were subject to this ability change back to their normal effect. |
+| 76 | As an instantaneous effect, all valid targets within long range are affected by the Close (word) talent. |
+| 77 | (Combat) For 1 round per caster level, all hostile creatures within close range of the caster gain an insight bonus to saving throws equal to one quarter caster level (minimum 1). |
+| 78 | (Combat) For 1d6 rounds, all allied creatures within close range of the caster must roll twice and take the best result for all d20 rolls. |
+| 79 | For 1 round per caster level, all creatures within close range of the caster gain alignment auras opposite to their own alignment (neutral characters instead gain auras corresponding to a random extreme alignment) and count as that alignment or alignments for the purposes of spells and effects. Additionally, any spells or effects the creature possesses that are dependent on alignment are inverted (smite evil becomes smite good, detect law becomes detect chaos, etc.). This alters all new and ongoing effects originating from the creature. Once this result expires, ongoing effects that were subject to this ability change back to their normal effect. |
+| 80 | All hostile creatures within close range of the caster must succeed on a Will save or be unable to discern creatures of the caster’s alignment for a number of rounds equal to caster level/2 (min 1 round). The affected creatures treat all creatures possessing that alignment as invisible and inaudible, even to special senses such as blindsense, lifesense, blindsight, etc. |
+| 81 | For 1 round per caster level, every creature within close range of the caster glows a different color depending on their alignment. Evil=red, good=green, lawful=blue, chaotic= yellow. Creatures with mixed alignment produce bands of both colors. True neutral creatures darken instead of glow. |
+| 82 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 83 | (Combat) For 1 round per caster level, all allied creatures within close range of the caster lose the benefit of all circumstance, competence, dodge, insight, luck, resistance, and sacred bonuses to d20 rolls and may ignore all penalties to d20 rolls. |
+| 84 | The first time the caster rolls a d20 after his next initiative roll, he may choose the result. The next d20 roll after that is treated as having rolled 21 - the previous roll. |
+| 85 | The casting time increases by 1 step. |
+| 86 | (Combat) For 1 round per caster level, all creatures within close range of the caster lose the benefit of all circumstance, competence, dodge, insight, luck, resistance, and sacred bonuses to d20 rolls and may ignore all penalties to d20 rolls. |
+| 87 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 88 | For 1 hour per caster level, the caster fails to register any alignment to any alignment detecting magic. |
+| 89 | For 1 round per caster level, the caster automatically deals nonlethal damage with all attacks, spells, and other effects. |
+| 90 | (Combat) For 1 round per caster level, all creatures within close range of the caster gain an insight bonus to AC equal to half caster level (minimum 1). |
+| 91 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 92 | The casting time increases by 2 steps. |
+| 93 | (Combat) The caster is stunned for 1 round. |
+| 94 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 95 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 96 | For 1 hour, all sacred and profane bonuses within close range of the caster are instead treated as penalties. |
+| 97 | (Combat) The caster is nauseated for 1 round. |
+| 98 | All creatures within close range of the caster may choose to treat one d20 roll within the next 1d6 rounds as a natural 20. |
+| 99 | (Combat) For 1d6 rounds, any 20 rolled on a d20 within close range of the caster is treated as having rolled a natural 1. |
+| 100 | For 1 hour, all luck bonuses within close range of the caster are instead treated as penalties. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-illusion" data-name="Illusion" data-group="Spheres">
+
+**Illusion**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | A longsword appropriately sized for the caster made of shadow-stuff appears in the caster’s hand. The caster is proficient with this weapon and it deals bonus damage equal to caster level. Each time it deals damage, the target is allowed a Will save; success reduces the damage dealt by half and destroys the blade. Otherwise the blade persists for 1 hour per caster level or until it leaves the caster’s possession. |
+| 2 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 3 | All creatures within close range of the caster gain the appearance and odor of being covered in excrement for 10 minutes per caster level. |
+| 4 | The caster is unable to perceive the effect in any fashion, leaving him unable to control, alter, or dismiss it once cast. |
+| 5 | For 1 minute per caster level, an illusory raincloud follows the caster. The caster is unable to disbelieve this raincloud. |
+| 6 | An illusion depicting the caster’s greatest desire appears within long range and persists for 1 round per caster level. This figment cannot be larger than the caster’s maximum illusion size. |
+| 7 | For 1 hour per caster level, an illusory duck sits on the casters head and cannot be covered by any means. |
+| 8 | (Combat) All creatures within medium range gain illusory doubles. These illusory doubles impose a 50% miss chance on any attack against the creature and each duplicate disappears after one attack fails against this miss chance or after 1 minute per caster level. |
+| 9 | An illusory wind surrounds fills the caster’s illusion range, acting as per the category 3 wind of the Weather sphere + 1 category per 7 caster levels. This wind blows directly toward the caster and dissipates after 1 round per caster level. Hostile creatures are unaffected. |
+| 10 | For 1 round per caster level, a swarm of illusory insects covers an area out to illusion range, dealing 1 point of nonlethal damage per 2 caster levels. This effect moves with the caster. When first exposed to this effect, a creature is allowed a single Will save to negate the damage from this effect for its duration. |
+| 11 | For 1 hour per caster level, dramatic effects, music, and crowd noises accompany the caster whenever he makes a Perform skill check, granting a competence bonus equal to 1/2 caster level (minimum 1) on such checks. |
+| 12 | For 1 minute per caster level, all sound is amplified within close range of the caster, granting a circumstance bonus equal to 1/2 caster level on sound-based Perception checks. |
+| 13 | For 10 minutes per caster level, the caster’s voice is amplified, granting a bonus on Perception checks to hear the caster speak equal to caster level. |
+| 14 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 15 | For 1 minute per caster level, all sound is dampened within long range of the caster, imposing a penalty equal to 1/2 caster level on sound-based Perception checks. |
+| 16 | For 1 round per caster level, all of the caster’s attended objects become invisible as the Invisibility talent. |
+| 17 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 18 | (Combat) Rapidly shifting illusory disguises that only the caster can perceive make it impossible for the caster to distinguish friend from foe. For 1d6 rounds, the caster may not make attacks of opportunity against any creature. |
+| 19 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 20 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 21 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 22 | The next time that the caster enters a settlement with more than 100 inhabitants, his arrival is heralded by an intense display of illusory fireworks over his position, clearly visible and audible for 2d6 miles if in an open area. |
+| 23 | Any creature making a Will save to disbelieve the effect may roll twice and take the best result. |
+| 24 | (Combat) For 1d6 rounds, all creatures within medium range become invisible as the Invisibility talent. |
+| 25 | For 10 minutes per caster level, the sound generated by the caster’s movements are amplified, imposing a penalty on Stealth checks equal to caster level. |
+| 26 | For 1 minute per caster level, the caster is unable to see through his own illusions. |
+| 27 | (Combat) The caster is stunned for 1 round. |
+| 28 | For 1 hour per caster level, the caster’s clothes appear dramatically inappropriate to the surrounding area (winter clothes in a desert, beggar’s rags in a palace, etc.). |
+| 29 | For 1 minute per caster level, any words the caster thinks are displayed by letters floating above his head. This may make Bluff checks fail automatically. |
+| 30 | For 10 minutes per caster level, a subtle illusion alters an area out to long range from the caster, making the environment appear bright and cheery. Creatures within this area may roll twice and take the best result on saves against fear effects and any demoralization check within this area takes a penalty equal to 1/2 caster level (minimum 1). |
+| 31 | The caster is fatigued. |
+| 32 | The caster loses access to this sphere for 1d6 rounds. |
+| 33 | The effect ends the first time a creature within 20 ft. of it succeeds on a Will save against an Illusion sphere or illusion school effect. |
+| 34 | For 1 hour per caster level, an illusory fog surrounds fills the caster’s illusion range, acting as a fog per the category 2 precipitation of the weather sphere. This fog follows the caster. |
+| 35 | Effect receives a +2 bonus to caster level. |
+| 36 | The casting time decreases by 1 step. |
+| 37 | All creatures within long range of the caster have their faces covered by an illusion of the caster’s face for 1 minute per caster level. This has no impact on their senses but may prove confusing. |
+| 38 | For 10 minutes per caster level, the caster gains the appearance and odor of being covered in excrement. |
+| 39 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 40 | For 10 minutes per caster level, an illusory minstrel follows the caster, singing loudly of the caster’s most embarrassing moments. |
+| 41 | All allied creatures within illusion range must succeed on a Will save or gain an illusory disguise as the Illusionary Disguise talent, appearing as the nearest hostile creature for 1 minute per caster level. |
+| 42 | All creatures and objects within medium range of the caster are permanently monochromatic. This effect can only be removed by the Break Enchantment talent of the Life sphere or similar magic. |
+| 43 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 44 | For 1 hour per caster level, the caster leaves a trail of phantasmal gold coins whenever moving at least 5 ft., creating 1 coin per caster level per 5 ft. moved. These coins disappear 1 minute per caster level after appearing or immediately if spent. |
+| 45 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 46 | For 10 minutes per caster level, an illusory minstrel follows the caster, singing loudly of the caster’s greatest deeds. |
+| 47 | (Combat) Rapidly shifting illusory disguises that only the caster can perceive make it impossible for the caster to distinguish friend from foe. For 1d6 rounds, the caster treats all creatures as hostile and must attempt attacks of opportunity against all creatures and attempt saves against all effects whenever possible. |
+| 48 | All creatures and objects within medium range of the caster are permanently stained a bright color of the GM’s choice. This effect can only be removed by the Break Enchantment talent of the Life sphere or similar magic. |
+| 49 | For 10 minutes per caster level, the caster is followed by a cartoonish figment of himself that mimics his actions in a mocking way. |
+| 50 | For 1d6 rounds, attempts to disbelieve the effect automatically fail. |
+| 51 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 52 | For 10 minutes per caster level, the caster leaves glowing illusory footprints wherever he travels (including while flying, swimming, and teleporting). These footsteps persist for 1 hour. |
+| 53 | All creatures within close range of the caster when the effect is cast must succeed on a Will save or have every word they think displayed by letters floating above their head for 1 minute per caster level. This may make Bluff checks fail automatically. |
+| 54 | Illusory heat surrounds fills the caster’s illusion range, acting as per the category 3 heat of the Weather sphere + 1 category per 7 caster levels. Hostile creatures are unaffected. |
+| 55 | For 1 round per caster level, an illusory fog surrounds fills the caster’s illusion range, acting as a fog per the category 3 precipitation of the Weather sphere. This fog follows the caster. |
+| 56 | All creatures within medium range of the caster when this result is triggered leave glowing illusory footprints wherever they travel (including while flying, swimming, and teleporting) for 10 minutes per caster level. These footsteps persist for 1 hour. |
+| 57 | The effect appears subtly off, granting a +2 bonus to save DCs to disbelieve it. |
+| 58 | For 1 hour per caster level, a dramatic illusory fog covers the area around the caster’s feet. This does not provide any concealment to the caster, but may obscure caltrops, tripwires, and other low-lying objects. |
+| 59 | All creatures within illusion range gain an illusory disguise as the Illusionary Disguise talent, appearing as the caster for 1 minute per caster level. |
+| 60 | For 1 minute per caster level, the caster becomes invisible as the Invisibility talent. |
+| 61 | Illusory cold surrounds fills the caster’s illusion range, acting as per the category 3 cold of the Weather sphere + 1 category per 7 caster levels. Hostile creatures are unaffected. |
+| 62 | A destructive blast with the Fire Blast and Explosive Orb talents of the Destruction sphere as mimicked by the Fey Adept’s create reality ability explodes centered on the target or middle of the target area. |
+| 63 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 64 | An illusory wind surrounds fills the caster’s illusion range, acting as per the category 3 wind of the Weather sphere + 1 category per 7 caster levels. This wind blows directly toward the caster and dissipates after 1 round per caster level. Allied creatures are unaffected. |
+| 65 | The casting time increases by 2 steps. |
+| 66 | Roll again on the Universal wild magic table. |
+| 67 | For 10 minutes per caster level, a subtle illusion alters an area out to long range from the caster, making the environment appear twisted and sinister. Creatures within this area must roll twice and take the worst result on saves against fear effects and any demoralization check within this area gains a circumstance bonus equal to 1/2 caster level (minimum 1). |
+| 68 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 69 | Creatures automatically get a Will save to disbelieve the effect upon perceiving it without any further interaction. |
+| 70 | The effect blocks line of effect, even once disbelieved. |
+| 71 | The caster and all his attended objects are permanently monochromatic. This effect can only be removed by the Break Enchantment talent of the Life sphere or similar magic. |
+| 72 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 73 | (Combat) The caster is dazed for 1 round. |
+| 74 | For 1 round per caster level, a figment of a creature of the GM’s choice with a CR of at least the caster’s Hit Dice + 2 appears within medium range of the caster and menaces the caster and allies. |
+| 75 | (Combat) All hostile creature’s within long range gain illusory doubles that only the caster’s allies can perceive. These illusory doubles impose a 50% miss chance on any attack against the creature and each duplicate disappears after one attack fails against this miss chance or after 1 minute per caster level. |
+| 76 | The casting time increases by 1 step. |
+| 77 | An illusion appears in the caster’s square depicting a flash of flame and the caster’s charred corpse falling to the ground. The caster becomes invisible as the Invisibility talent for 1d6 rounds. |
+| 78 | (Combat) Rapidly shifting illusory disguises make it impossible for any creature within close range of the caster to distinguish friend from foe. For 1d6 rounds, the all creatures in the area must succeed on a Will save each round or treat all creatures within the area as hostile and must attempt attacks of opportunity against all creatures in the area and attempt saves against all effects originating from creatures within the area whenever possible. |
+| 79 | (Combat) For 1d6 rounds, all hostile creatures within medium range become invisible as the Invisibility talent. |
+| 80 | The caster and all his attended objects are permanently stained a bright color of the GM’s choice. This effect can only be removed by the Break Enchantment talent of the Life sphere or similar magic. |
+| 81 | The caster makes a single magical skill check against all Illusion sphere effects and effects with the glamour and phantasm descriptors within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 82 | The caster is exhausted. |
+| 83 | The caster makes a single magical skill check against all Illusion sphere effects and effects with the glamour and phantasm descriptors within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 84 | (Combat) For 1d6 rounds, all allied creatures within medium range become invisible as the Invisibility talent. |
+| 85 | For 1 round per caster level, an illusion depicting the caster’s greatest fear appears within close range and menaces the caster. This figment cannot be larger than the caster’s maximum illusion size. |
+| 86 | For 1 round per caster level, the caster appears to be weak and harmless. Any creature targeting the caster with an attack roll or non-harmless effect must succeed on a Will save or be forced to choose a different target or lose their action. |
+| 87 | Illusory cold surrounds fills the caster’s illusion range, acting as per the category 3 cold of the Weather sphere + 1 category per 7 caster levels. |
+| 88 | The effect ends the first time a hostile creature within 20 ft. of it succeeds on a Will save against an Illusion sphere or illusion school effect. |
+| 89 | For 1d6 rounds, illusory duplicates of all creatures within close range of the caster at the time this result is triggered attack the original creatures. Treat these duplicates as having the benefit of the Illusionary Touch talent taken twice as well as the Illusionary Sound talent. |
+| 90 | (Combat) The caster is nauseated for 1 round. |
+| 91 | The casting time decreases by 2 steps. |
+| 92 | The caster’s face is covered with a repulsive illusory disguise as the Illusionary Disguise talent for 1 minute per caster level, imposing a penalty equal to caster level on all Charisma-based checks. |
+| 93 | All allied creatures within medium range gain illusory doubles. These illusory doubles impose a 50% miss chance on any attack against the creature and each duplicate disappears after one attack fails against this miss chance or after 1 minute per caster level. |
+| 94 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 95 | For 1 round per caster level, a swarm of illusory insects covers an area out to illusion range, dealing 1 point of nonlethal damage per 2 caster levels. This effect remains stationary. When first exposed to this effect, a creature is allowed a single Will save to negate the damage from this effect for its duration. |
+| 96 | Creatures who disbelieve the effect treat it as opaque, blocking line of sight. |
+| 97 | An illusory wind surrounds fills the caster’s illusion range, acting as per the category 3 wind of the Weather sphere + 1 category per 7 caster levels. This wind blows directly toward the caster and dissipates after 1 round per caster level. |
+| 98 | Any creature making a Will save to disbelieve the effect must roll twice and take the worst result. |
+| 99 | Illusory heat surrounds fills the caster’s illusion range, acting as per the category 3 heat of the Weather sphere + 1 category per 7 caster levels. |
+| 100 | For 1 round per caster level, all attended objects within close range of the caster become invisible as the Invisibility talent. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-life" data-name="Life" data-group="Spheres">
+
+**Life**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | For 1 hour per caster level, creatures within close range of the caster must roll twice and take the worst result on saving throws made against disease. |
+| 2 | For 1 hour per caster level, all hostile creatures within long range of the caster automatically succeed on checks made to stabilize when they have negative hit points. |
+| 3 | (Combat) The caster is dazed for 1 round. |
+| 4 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 5 | For 10 minutes per caster level, the caster gains a fear of blood and is shaken whenever within 20 ft. of a creature below half hit points or suffering from bleed damage. |
+| 6 | The caster takes nonlethal damage equal to twice caster level. |
+| 7 | The caster is fatigued. |
+| 8 | For 1 minute per caster level, all creatures with close range of the caster overflow with positive energy, gaining resistance to negative energy damage equal to caster level. |
+| 9 | All allies within close range gain fast healing equal to the effect’s caster level/2 (round up) for a number of round equal to caster level. |
+| 10 | All targets within medium range receive temporary hit points equal to double caster level. These stack with temporary hit points from other sources and may exceed the creature’s maximum hit points. These temporary hit points persist for 1 minute per caster level. |
+| 11 | For 1 minute per caster level, any creature affected by a Life sphere or Conjuration (healing) effect originating from the caster must succeed on a Fortitude save or be sickened for 1d6 rounds. This is a [pain] effect. |
+| 12 | For 1 round per caster level, all allied creatures within close range of the target gain a circumstance bonus on saves against poison and disease and a penalty on saves against effects that cause bleed damage equal to 1/4 caster level (minimum 1). |
+| 13 | For 1d6 rounds, all hostile creatures within close range of the target are immune to Life sphere effects. |
+| 14 | The caster may choose a creature within close range that loses hit points equal to the damage cured or invigorated, the creature receiving any conditions or damage restored. The creature chosen cannot be the original target. This cannot reduce the affected creature’s hit points or ability scores below 1. The affected creature cannot receive equal or more negative levels than it has Hit Dice. |
+| 15 | For 1d6 rounds, all creatures within close range of the target are immune to Life sphere effects. |
+| 16 | For 1 round per caster level, the caster is turned into a positive energy elemental. Treat this as a shapeshift with the Elemental Transformation talent of the Alteration sphere with the fire elemental option, replacing the burn damage with 1d4 points of positive energy, which deals damage to creatures harmed by positive energy and heals those healed by positive energy. Any creature ending their turn adjacent to the positive energy elemental are healed a number of hit points equal to 1/2 caster level (minimum 1). Creatures harmed by positive energy instead take an equal amount of damage, no save. |
+| 17 | All hostile creatures within close range take nonlethal damage equal to twice caster level. |
+| 18 | (Combat) All hostile creatures within medium range of the caster are affected as if the caster had cast restore on them. |
+| 19 | All allied creatures within close range of the target are healed 1 hit point per caster level. This is a positive energy effect. Creatures harmed by positive energy take an equal amount of damage with a Will save to reduce the damage by half. |
+| 20 | For 10 minutes per caster level, the caster gains vulnerability to negative energy damage, increasing any negative energy damage taken by 50%. |
+| 21 | For 1d6 rounds, each time a creature within close range of the caster is targeted by a Life sphere or conjuration (healing) effect, it must succeed on a Fortitude save equal to this effect’s DC or have the effect fail. |
+| 22 | The casting time increases by 2 steps. |
+| 23 | For 1 round per caster level, all creatures within close range of the caster gain a circumstance bonus on saves against poison and disease and a penalty on saves against effects that cause bleed damage equal to 1/4 caster level (minimum 1). |
+| 24 | For 1 hour per caster level, all allied creatures within close range of the caster automatically succeed on checks made to stabilize when they have negative hit points. |
+| 25 | (Combat) For 1d6 rounds, creatures within close range of the caster that would be slain or destroyed by hit points damage are instead reduced to 1 hit point. Creatures with negative hit points automatically have their hit points total increased to 1 hit point. |
+| 26 | (Combat) All hostile creatures within close range gain regeneration equal to caster level/2 (round up) for a number of round equal to caster level. This regeneration can be overcome by fire and acid. |
+| 27 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 28 | For 1d6 rounds, each time a hostile creature within close range of the caster is targeted by a Life sphere or Conjuration (healing) effect, it must succeed on a Fortitude save equal to this effect’s DC or have the effect fail. |
+| 29 | (Combat) All hostile creatures within long range receive temporary hit points equal to caster level. These stack with temporary hit points from other sources and may exceed the creature’s maximum hit points. These temporary hit points persist for 1 minute per caster level. |
+| 30 | The casting time increases by 1 step. |
+| 31 | All allied creatures within close range take nonlethal damage equal to twice caster level. |
+| 32 | Any creature brought to its maximum hit points by a Life sphere or Conjuration (healing) effect originating from the caster during the next 1 minute per caster level must succeed on a Fortitude save or be nauseated for 1 round. |
+| 33 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 34 | For 1 round per caster level, all hostile creatures within close range of the target gain a circumstance bonus on saves against poison and disease and a penalty on saves against effects that cause bleed damage equal to 1/4 caster level (minimum 1). |
+| 35 | (Combat) For 1 round per caster level, all allied creatures within close range of the caster gain vulnerability to negative energy damage, increasing any negative energy damage taken by 50%. |
+| 36 | All allied creatures within close range of the caster are healed 1 hit point per caster level. This is a positive energy effect. Creatures harmed by positive energy take an equal amount of damage with a Will save to reduce the damage by half. |
+| 37 | All creatures within long range capable of perceiving the caster with the lifesense ability must succeed on a Reflex save or be blinded and lose their lifesense ability for 1d6 rounds. |
+| 38 | Any hostile creature within medium range of the caster that has died since the start of the caster’s previous turn are restored to life with 0 hit points. This ability otherwise works as the Resuscitate talent. |
+| 39 | All allies within medium range receive temporary hit points equal to twice caster level. These stack with temporary hit points from other sources and may exceed the creature’s maximum hit points. |
+| 40 | (Combat) The caster is stunned for 1 round. |
+| 41 | The casting time decreases by 2 steps. |
+| 42 | The caster gains momentary transcendent knowledge of life, the universe, and everything. Then it vanishes, leaving the caster terribly depressed and staggered for 1d6 rounds. |
+| 43 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 44 | (Combat) For 1d6 rounds, all creatures within close range of the caster are immune to Life sphere effects. |
+| 45 | (Combat) The caster is nauseated for 1 round. |
+| 46 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 47 | All creatures within close range take nonlethal damage equal to twice caster level. |
+| 48 | For 1 round per caster level, all creatures within close range of the target gain a circumstance bonus on saves against poison and disease and a penalty on saves against effects that cause bleed damage equal to 1/4 caster level (minimum 1). |
+| 49 | For 1 hour per caster level, all creatures within long range of the caster automatically succeed on checks made to stabilize when they have negative hit points. |
+| 50 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 51 | All creatures within close range gain fast healing equal to the effect’s caster level/2 (round up) for a number of round equal to caster level. |
+| 52 | All creatures within close range of the target are healed 1 hit point per caster level. This is a positive energy effect. Creatures harmed by positive energy take an equal amount of damage with a Will save to reduce the damage by half. |
+| 53 | All allies within long range receive temporary hit points equal to caster level. These stack with temporary hit points from other sources and may exceed the creature’s maximum hit points. These temporary hit points persist for 1 minute per caster level. |
+| 54 | For 10 minutes per caster level, benefiting from a Life sphere effect or receiving any magical healing nauseates the target for 1 round. |
+| 55 | For 1d6 rounds, all allied creatures within close range of the target are immune to Life sphere effects. |
+| 56 | For 1d6 rounds, each time an allied creature within close range of the caster is targeted by a Life sphere or conjuration (healing) effect, it must succeed on a Fortitude save equal to this effect’s DC or have the effect fail. |
+| 57 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 58 | The caster loses hit points equal to the damage cured or invigorated and the caster receives any conditions, diseases, damage, drain, negative levels, or poison removed via restore. If the caster was the target, this effect instead targets the caster’s nearest ally. This cannot reduce the affected creature’s hit points or ability scores below 1. The affected creature cannot receive equal or more negative levels than it has Hit Dice. |
+| 59 | For 1 round per caster level, all allied creatures within close range of the caster gain a circumstance bonus on saves against poison and disease and a penalty on saves against effects that cause bleed damage equal to 1/4 caster level (minimum 1). |
+| 60 | For 1 hour per caster level, creatures within close range of the caster may roll twice and take the best result on saving throws made against disease. |
+| 61 | The caster gains a 20-ft. aura for 1 round per caster level that grants all creatures inside it fast healing 1. |
+| 62 | Roll again on the Universal wild magic table. |
+| 63 | For 10 minutes per caster level, any creature that senses the caster with the lifesense ability must succeed on a Reflex save or be blinded and lose their lifesense ability for 1 round per caster level. |
+| 64 | (Combat) For 1d6 rounds, the caster leaves behind a glowing trail of positive energy. Any creature that enters a square that has been occupied by the caster since the beginning of the caster’s previous turn is healed a number of hit points equal to caster level. This is a positive energy effect. Creatures harmed by positive energy are instead damaged, though are allowed a Will save to reduce this damage by half. A creature may only be affected by this ability once per turn. |
+| 65 | The caster is exhausted. |
+| 66 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 67 | (Combat) For 1d6 rounds, hostile creatures within close range of the caster that would be slain or destroyed by hit point damage are instead reduced to 1 hit point. Creatures with negative hit points automatically have their hit points total increased to 1 hit point. |
+| 68 | The effect fails, but all witnesses believe it was successful. |
+| 69 | For 1 minute per caster level, the caster grants fast healing 1 to any target touching it (not itself). This does not stack with any fast healing it might already have. |
+| 70 | For one minute, the caster gains fast healing equal to half caster level. If this healing would cause the caster’s hit points to exceed his normal maximum hit points, the effect ends and the caster is nauseated for 1d6 rounds. |
+| 71 | All hostile creatures within close range of the target are healed 1 hit point per caster level. This is a positive energy effect. Creatures harmed by positive energy take an equal amount of damage with a Will save to reduce the damage by half. |
+| 72 | (Combat) All hostile creatures within medium range receive temporary hit points equal to twice caster level. These stack with temporary hit points from other sources and may exceed the creature’s maximum hit points. These temporary hit points persist for 1 minute per caster level. |
+| 73 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 74 | (Combat) For 1d6 rounds, all allied creatures within close range of the caster are immune to Life sphere effects. |
+| 75 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 76 | The effect is cast normally, but all witnesses believe it failed. |
+| 77 | All hostile creatures within close range of the caster are healed 1 hit point per caster level. This is a positive energy effect. Creatures harmed by positive energy take an equal amount of damage with a Will save to reduce the damage by half. |
+| 78 | The next time within 1 day per caster level that the caster is slain by hit point damage, he is restored to 1 hit point at the start of his next turn. This ability otherwise works as the Resuscitate talent. |
+| 79 | All creatures within long range receive temporary hit points equal to caster level. These stack with temporary hit points from other sources and may exceed the creature’s maximum hit points. These temporary hit points persist for 1 minute per caster level. |
+| 80 | The effect is delayed for 1 round from when it was cast. |
+| 81 | The casting time decreases by 1 step. |
+| 82 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 83 | Effect receives a +2 bonus to caster level. |
+| 84 | All allies within close range gain regeneration equal to caster level/2 (round up) for a number of round equal to caster level. This regeneration can be overcome by fire and acid. |
+| 85 | All creatures within close range gain regeneration equal to caster level/2 (round up) for a number of round equal to caster level. This regeneration can be overcome by fire and acid. |
+| 86 | Any allied creature within long range of the caster that has died in the previous 10 minutes are restored to life with 0 hit points. This ability otherwise works as the Resuscitate talent. |
+| 87 | (Combat) For 1 round per caster level, all hostile creatures within close range of the caster gain a circumstance bonus on saves against poison and disease and a penalty on saves against effects that cause bleed damage equal to 1/4 caster level (minimum 1). |
+| 88 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 89 | (Combat) All hostile creatures within close range gain fast healing equal to caster level/2 (round up) for a number of round equal to caster level. |
+| 90 | All creatures within close range of the caster are healed 1 hit point per caster level. This is a positive energy effect. Creatures harmed by positive energy take an equal amount of damage with a Will save to reduce the damage by half. |
+| 91 | (Combat) For 1 round per caster level, all creatures within close range of the caster gain vulnerability to negative energy damage, increasing any negative energy damage taken by 50%. |
+| 92 | (Combat) For 1d6 rounds, all hostile creatures within medium range of the caster are immune to Life sphere effects. |
+| 93 | For 1 round per caster level, the caster gains a circumstance bonus on saves against poison and disease and a penalty on saves against effects that cause bleed damage equal to 1/4 caster level (minimum 1). |
+| 94 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 95 | Any creature within medium range of the caster that has died since the start of the caster’s previous turn are restored to life with 0 hit points. This ability otherwise works as the Resuscitate talent. |
+| 96 | For 1 minute per caster level, the caster overflows with positive energy, gaining immunity to negative energy damage. |
+| 97 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 98 | For 1 round per caster level, all hostile creatures within close range of the caster gain vulnerability to negative energy damage, increasing any negative energy damage taken by 50%. |
+| 99 | The caster loses access to this sphere for 1d6 rounds. |
+| 100 | For 1d6 rounds, allied creatures within close range of the caster that would be slain or destroyed by hit point damage are instead reduced to 1 hit point. Creatures with negative hit points automatically have their hit points total increased to 1 hit point. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-light" data-name="Light" data-group="Spheres">
+
+**Light**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The casting time increases by 2 steps. |
+| 2 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 3 | The caster makes a single magical skill check against all Dark sphere effects and effects with the dark descriptor within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 4 | All hostile creatures within close range of the target gain the light blindness universal monster ability for 1 minute per caster level. |
+| 5 | All allied creatures within close range of the target gain the light blindness universal monster ability for 1 minute per caster level. |
+| 6 | The caster is bathed in intense light, taking caster level/2 points of fire damage each round for 1d6 rounds. Any creature attempting to target the caster with an attack during this duration must succeed on a Reflex save or be blinded until the start of their next turn. Creatures with closed eyes or that do not rely on sight are unaffected when targeting the caster. |
+| 7 | Creatures with the light blindness universal monster ability have the penalties from any light source originating from the caster for doubled for 1 minute per caster level. |
+| 8 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 9 | The caster becomes afraid of the light, taking a -2 penalty on saves against fear effects while in areas with greater than dim light for 1 hour per caster level. |
+| 10 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 11 | For 1 minute per caster level, the light levels within medium range of the caster are increased by 2 steps. |
+| 12 | For 1 minute per caster level, the light levels within medium range of the caster are decreased by 2 steps. |
+| 13 | A flash blinds the caster for 1 round. |
+| 14 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 15 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 16 | (Combat) The caster is dazed for 1 round. |
+| 17 | Roll twice and take both results. Ignore any results of this entry. If both rolls are this entry, there is no effect. |
+| 18 | All creatures within close range must succeed on a Reflex save or glow brightly and gains the benefits of the Encompassing Light talent for 1 round per caster level. |
+| 19 | All active glow effects within long range of the caster shed light for half their normal radius for 1 minute per caster level. |
+| 20 | Effect receives a +2 bonus to caster level. |
+| 21 | All allied creatures within close range of the caster gain the light blindness universal monster ability for 1 minute per caster level. |
+| 22 | The target is surrounded by strobing lights, causing all creatures within 5 ft. + 5 ft. per 5 caster levels to succeed on a Fortitude save or be sickened for 1d4 rounds. |
+| 23 | For 1 round, any weapon or natural weapon wielded by hostile creatures within medium range gain the brilliant energy weapon special ability. |
+| 24 | The effect has a 50% chance each round of functioning or not functioning. This has no effect on duration. |
+| 25 | All creatures within close range must succeed on a Reflex save or glow brightly and be trapped per the Bound Light talent for 1 round per caster level. |
+| 26 | The light levels around the target in a 5 ft. + 5 ft. per 5 caster level radius are decreased by 2 steps to a maximum of total darkness for 1d6 rounds. This decrease overrides any increase from your glow. |
+| 27 | (Combat) The caster is stunned for 1 round. |
+| 28 | All active glow effects within long range of the caster shed light for double their normal radius for 1 minute per caster level. |
+| 29 | Flickering motes appear out to the caster’s glow range for caster level minutes. These motes are too small to increase light levels, but are distracting, imposing a -4 penalty on all vision-based Perception checks. |
+| 30 | The caster is unable to perceive changes in light level resulting from his own light effects for 10 minutes per caster level. If the caster would have suffered penalties for low light level without their light effect, they still suffer them. |
+| 31 | (Combat) The caster is nauseated for 1 round. |
+| 32 | A beacon of bright magical light shines down on the caster for as long as he concentrates, levitating the caster up or down at the rate of 10 ft. each round. |
+| 33 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 34 | All creatures that are not blind within close range of the caster are sickened by strobing lights for 1d4 rounds. |
+| 35 | For 1 round, any weapon or natural weapon the caster wields gains the brilliant energy weapon special ability. |
+| 36 | All allied creatures within close range of the caster must succeed on a Reflex save or be blinded for 1 round. They are dazzled for 1 round on a successful save. |
+| 37 | All hostile creatures within close range of the target or center of the target area must succeed on a Reflex save or be blinded for 1 round. They are dazzled for 1 round on a successful save. |
+| 38 | A beacon of bright magical light shines down on the caster for 1 round, blinding anyone who looks upon them for 1 minute (a successful Fortitude save negates this effect). |
+| 39 | The light levels around the target in a 5 ft. + 5 ft. per 5 caster level radius are increased by 2 steps to a maximum of bright light for 1d6 rounds. This increase stacks with any increase from your glow. |
+| 40 | All mundane light sources within close range of the effect cease to affect illumination levels until outside that range. |
+| 41 | A glow that is glowing brightly and is affected by every (glow) talent the caster possesses appears centered on the caster and follows the caster at a rate of 20 ft. per round, plus 5 ft. per 2 caster levels. Effects resolve as if the caster were hostile. This effect persists for 1 round per caster level. |
+| 42 | The radius of your light and bright light decrease by 5 ft. per round for 2d6 rounds to a minimum of 5 feet. |
+| 43 | The caster’s eyes momentarily glow brightly for 1 round granting the benefits of True Seeing for the duration. |
+| 44 | All creatures within close range of the caster must succeed on a Reflex save or be blinded for 1 round. They are dazzled for 1 round on a successful save. |
+| 45 | All creatures within close range of the target or center of the target area must succeed on a Reflex save or be blinded for 1 round. They are dazzled for 1 round on a successful save. |
+| 46 | Creatures sensitive to bright light (such as those with the light blindness universal monster ability) are unaffected by an light source originating from the caster for 1 minute per caster level. |
+| 47 | The target is surrounded by pulsating lights, causing all creatures within 5 ft. + 5 ft. per 5 caster levels to succeed on a Will save or be fascinated for 1d4 rounds. |
+| 48 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 49 | All creatures and objects within range of your glow are stained a random color per the Style talent. |
+| 50 | All hostile creatures within close range of the caster must succeed on a Reflex save or be blinded for 1 round. They are dazzled for 1 round on a successful save. |
+| 51 | All mundane light sources within close range of the caster increase their light level by 1 step for 1 round, but are then extinguished. |
+| 52 | The caster emits an aura of hypnotic light per the Hypnotic Pattern talent for 1 minute per caster level. The caster automatically fails his save against this effect. |
+| 53 | The casting time decreases by 2 steps. |
+| 54 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 55 | The caster is exhausted. |
+| 56 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 57 | The caster’s eyes glow brightly for 1 hour granting the see In darkness ability for the duration. |
+| 58 | The caster is stained a random color per the Style talent. |
+| 59 | The caster becomes afraid of the dark, taking a -2 penalty on saves against fear effects while in areas with less than normal light for 1 hour per caster level. |
+| 60 | All creatures within close range of the target gain the light blindness universal monster ability for 1 minute per caster level. |
+| 61 | The caster loses access to this sphere for 1d6 rounds. |
+| 62 | All creatures within long range of the caster are dazzled for 1 round. |
+| 63 | For 1d6 rounds, the caster is surrounded by strobing lights, causing the caster to be sickened. |
+| 64 | Roll again on the Universal wild magic table. |
+| 65 | The illumination level in the caster’s space is reduced by 1 step per 5 caster levels for 1 round per caster level. This effect moves with the caster. |
+| 66 | For 1 minute per caster level, the target gains the See in Darkness universal monster trait. |
+| 67 | The casting time decreases by 1 step. |
+| 68 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 69 | The caster gains glows brightly and and is trapped per the Bound Light talent for 1 round per caster level. |
+| 70 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 71 | A beacon on bright magical light shines down on the caster for as long as he concentrates. Any hostile creature within close range of the caster must succeed on a Will save or become frightened for the duration. |
+| 72 | All creatures within close range of the caster gain the light blindness universal monster ability for 1 minute per caster level. |
+| 73 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 74 | All hostile creatures within close range must succeed on a Reflex save or glow brightly and gains the benefits of the Encompassing Light talent for 1 round per caster level. |
+| 75 | All creatures within close range of the target must succeed on a Reflex save or be blinded for 1 round. |
+| 76 | The caster’s eyes glow brightly for 1 round per caster level granting a gaze attack with a range of close, which deals 1d6 points of fire damage per caster level (Fortitude save for half). |
+| 77 | All allied creatures within close range of the target or center of the target area must succeed on a Reflex save or be blinded for 1 round. They are dazzled for 1 round on a successful save. |
+| 78 | All creatures within close range of the caster must succeed on a Reflex save or be blinded for 1 round. |
+| 79 | A stationary pillar of brilliant light appears in the target’s space and follows the target, moving toward him at a rate of 30 ft. + 5 ft. per 2 caster levels, passing through solid objects in the shortest possible route. Any creature occupying a space with the pillar of light at the beginning of its turn is blinded until it ends its turn outside the pillar’s space. This effect lasts for 1 round per caster level. The pillar extends 5 ft. per caster level into the air. |
+| 80 | All allied creatures within close range must succeed on a Reflex save or glow brightly and and be trapped per the Bound Light talent for 1 round per caster level. |
+| 81 | A glow that is glowing brightly and is affected by every (glow) talent the caster possesses appears centered on the caster’s nearest ally and follows the ally at a rate of 20 ft. per round, plus 5 ft. per 2 caster levels. Effects resolve as if the ally were hostile. This effect persists for 1 round per caster level. |
+| 82 | All hostile creatures within close range must succeed on a Reflex save or glow brightly and and be trapped per the Bound Light talent for 1 round per caster level. |
+| 83 | For 1 minute per caster level, the caster treats areas of dim light or darker as if they were solid objects and is unable to enter or pass through such an area, though retains line of effect through such areas. |
+| 84 | The caster glows brightly and gains the benefits of the Encompassing Light talent for 1 round per caster level. |
+| 85 | All mundane light sources within medium range of the caster cease to affect illumination levels until outside that range. |
+| 86 | A stationary pillar of brilliant light appears in the caster’s space and follows the caster, moving toward him at a rate of 30 ft. + 5 ft. per 2 caster levels, passing through solid objects in the shortest possible route. Any creature occupying a space with the pillar of light at the beginning of its turn is blinded until it ends its turn outside the pillar’s space. This effect lasts for 1 round per caster level. The pillar extends 5 ft. per caster level into the air. |
+| 87 | All unlit mundane light sources (candles, torches, etc.) within close range of the caster become lit for 1 round per caster level (up to their normal maximum duration). |
+| 88 | The radius of your light and bright light increase by 5 ft. per round for 2d6 rounds. |
+| 89 | The caster is fatigued. |
+| 90 | The caster gains the light blindness universal monster ability for 10 minutes per caster level. |
+| 91 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 92 | All creatures within long range of the target are dazzled for 1 round. |
+| 93 | Your glow decreases the light level in its area an equal number of steps to that which it would normally increase it. Your bright light functions normally. |
+| 94 | For 1 round, any weapon or natural weapon wielded by creatures within medium range gain the brilliant energy weapon special ability. |
+| 95 | The effect doubles in size and effect (bonuses, penalties, damage, etc.) and the save DC, if any, increases by 4, but the effect’s duration is reduced to 1 round. |
+| 96 | All mundane light sources within medium range of the caster increase their light level by 2 steps for 1 round, but are then extinguished. |
+| 97 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 98 | All hostile creatures within close range of the caster gain the light blindness universal monster ability for 1 minute per caster level. |
+| 99 | The caster is surrounded by pulsating lights, causing all creatures within medium range of the caster to succeed on a Will save or be fascinated for 1d4 rounds. |
+| 100 | The casting time increases by 1 step. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-mana" data-name="Mana" data-group="Spheres">
+
+**Mana**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The caster becomes blind, but gains 60 feet blindsight that can only be used to see creatures that can store spell points, as well as any magical effects, terrain or items. This lasts for 1 hour. |
+| 2 | The caster’s target (if any) can always sense the location of the caster for 1 hour per caster level. |
+| 3 | The caster gains knowledge of one talent of their choice from any sphere they qualify for for 1 round. |
+| 4 | A flux of magic enhances all effects. An area of potent magic is created in a 20-foot radius around the caster, which remains for 24 hours. Any effects cast within this radius are treated as if any variable components rolled their maximum possible number. |
+| 5 | Mana becomes as clear as light. You detect magic constantly as the base Divination sphere ability for 1 hour per caster level, and any attempt to identify magic items or effects with a Spellcraft check are treated as if you rolled a natural 20 on the check. |
+| 6 | Until the end of the caster’s next turn, all spell point costs the caster must pay are waived. |
+| 7 | Magic becomes obvious. Any creature being targeted by a magical effect within close range of the caster automatically knows the type of effect and the source of the effect. This lasts for 1 minute per caster level. |
+| 8 | Antimagic bleeds from the world’s leylines. Each round there is a 25% chance that a random adjacent tile to the caster (roll a 1d8 to determine the tile, with 1 being north and rotating clockwise) is splashed with liquid antimagic, removing 1 spell point from any creature that walks into it (or applying a -1 penalty to a random mental ability score if they do not have spell points), but granting them a +2 bonus to all saving throws they attempt against magic for 24 hours. This effect lasts for 1 round per caster level. |
+| 9 | Roll again on the Universal wild magic table. |
+| 10 | Your manabonds fuse incredibly easily. You may create a manabond as a free action to any creature within close range until the end of your next turn. Unwilling creatures get a Will save to resist this. |
+| 11 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 12 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls are ignored, there is no effect. |
+| 13 | The effect’s spell point cost is reduced to 0. |
+| 14 | Power becomes absolute. All penalties or bonuses to caster levels, magic skill bonuses and magic skill defenses are negated in a close range radius around you. This lasts for 1 round per caster level. |
+| 15 | In a medium range, the weather immediately shifts 1d4 severity levels higher for Precipitation, but the clouds instead rain bright blue globs of mana. If the severity level is at least 4, each round the caster is exposed to the skies, they have a 5% chance of being struck by electrical mana, dealing 1d6 electric damage per caster level, but granting them 1 spell point per 2 caster levels. This lasts until the caster is struck once, or for 1 hour. |
+| 16 | The effect is modified by a metamagic feat of the caster’s choosing, though they spend 1 additional spell point in the effect in addition to the extra cost of the metamagic feat. The caster may only select metamagic feats they do not possess. |
+| 17 | The caster’s target is stunned for 1 round. Fortitude negates. |
+| 18 | The casting time increases by 2 steps. |
+| 19 | The caster is fatigued. If they were already fatigued, they are exhausted. |
+| 20 | Until the end of the caster’s next turn, all spell point costs the caster must pay are waived. |
+| 21 | The next spell cast within close range of the caster automatically targets the caster, regardless of its maximum range or intended target. This lasts for 1 hour, or until a spell is redirected to the caster. |
+| 22 | Roll again on the Universal wild magic table. |
+| 23 | The caster becomes blind, but gains 60 feet blindsight that can only be used to see creatures that can store spell points, as well as any magical effects, terrain or items. This lasts for 1 hour. |
+| 24 | Mana bleeds from the world’s leylines. Each round, there is a 25% chance that a random adjacent tile to the caster (roll a 1d8 to determine the tile, with a 1 being north and rotating clockwise) is splashed with liquid mana, granting any creature that walks into it 1 spell point, but bestowing a -2 penalty to all saving throws they attempt against magic for 24 hours. This effect lasts for 1 round per caster level. |
+| 25 | Suffer a -2 penalty to your caster level for 1 day, or until another creature grants a spell point to you, whether temporary or not. |
+| 26 | Your mana imprints to the floor. A permanent sigil spreading around a 15-foot radius around you is engraved into the floor. Any casters utilizing sphere effects on top of this sigil gain a +2 bonus to their caster level. |
+| 27 | The effect is fully paid by tomorrow’s energy. The sphere effect costs no spell points to cast, but the next time the spellcaster gains spell points, they subtract the amount of spell points they would have spent. |
+| 28 | You strain your body, using your vitality by mistake. Instead of paying the spell point cost for this sphere effect, you instead take 1 Constitution drain for each spell point you would have spent (minimum 1). |
+| 29 | Your magic takes a life of its own - and it does not appreciate your use. The spell effect gains life, as the Bestow Magic Life advanced talent (see the [[Enhancement]] sphere) and is not cast normally, instead remaining for a number of rounds equal to your caster level. It begins with an attitude initially hostile against you, and will utilize its powers to inhibit the caster for as long as it lives (including using its ability to cast sphere effects on the caster, or to grant spell points to enemies). As long as this creature lives, you cannot make use of the Mana sphere. |
+| 30 | You confuse yourself, temporarily forgetting how to use your magic. You suffer from the Mark Of Incompetency talent, using your level as its caster level. Randomly determine the drawbacks you gain. |
+| 31 | Mana bleeds from the world’s leylines. Each round, there is a 25% chance that a random adjacent tile to the caster (roll a 1d8 to determine the tile, with a 1 being north and rotating clockwise) is splashed with liquid mana, granting any creature that walks into it 1 spell point, but bestowing a -2 penalty to all saving throws they attempt against magic for 24 hours. This effect lasts for 1 round per caster level. |
+| 32 | The caster’s body becomes transparent for 24 hours, granting them a +5 bonus on Stealth checks as long as they do not wear any clothing and do not hold or carry any items (including backpacks). |
+| 33 | You gain spell resistance equal to 5 + your caster level for 1 hour. You may not lower this spell resistance. |
+| 34 | For 1 minute, all magic items within long range of the caster shed light as a torch. |
+| 35 | The casting time increases by 1 step. |
+| 36 | Antimagic bleeds from the world’s leylines. Each round there is a 25% chance that a random adjacent tile to the caster (roll a 1d8 to determine the tile, with 1 being north and rotating clockwise) is splashed with liquid antimagic, removing 1 spell point from any creature that walks into it (or applying a -1 penalty to a random mental ability score if they do not have spell points), but granting them a +2 bonus to all saving throws they attempt against magic for 24 hours. This effect lasts for 1 round per caster level. |
+| 37 | For 1 minute, all magic items within long range of the caster shed light as a torch. |
+| 38 | All spellcasters within medium range immediately shed light as a torch, and special orbs revolve around them exposing the exact spheres they know, or magical schools they know spells of. |
+| 39 | The caster drains a single spell point from any other creature that has spell points within close range. Creatures may attempt a Fortitude save to negate this effect. Drained spell points are removed from the drained creature, and granted to the caster as temporary spell points that remain for 1 round per caster level. |
+| 40 | A zone of antimagic is created, stretching out in a 10-foot radius from the square the caster is in. The zone nullifies the spell that triggered it, and remains for 1 day per caster level. |
+| 41 | The caster emits light as a torch for 1 hour. |
+| 42 | An explosion of mana invigorates everyone. You and all allies within medium range gain 3 temporary spell points that last for 1 hour. Spells cast with these temporary spell points gain a +4 to their caster level to the effect. |
+| 43 | The caster becomes truly enlightened. They lose half of their maximum spell points, but increases their caster level by 4, and they gain knowledge of one additional talent in each base sphere they possess. This lasts for 1 hour. |
+| 44 | The caster suffers 2 ability drain to their casting ability modifier, even if they would normally be immune to ability drain. |
+| 45 | You gain immunity to magic, becoming immune to all spells or spell-like abilities that allow spell resistance, but your caster level is reduced to 1. This lasts for 1 round per caster level. |
+| 46 | Magic abandons their host. All spellcasters within close range are no longer able to utilize their spellcasting, and for each spellcaster, a random other creature within range gains all of their spellcasting capabilities. This only includes spell points, base caster levels and magic skill bonuses and defense, and not class features. This effect remains for 2 rounds, where the spellcasting capabilities return to their host (not including any spent spell points). |
+| 47 | The next sphere effect the caster utilizes, they may add a bonus to that sphere effect up to their caster level. The next two sphere effects they cast that costs a spell point has their caster level reduced by the amount the caster chose to increase their first cast by. |
+| 48 | The effect becomes ultrapowered. Increase the caster level of the effect by 10, but increase the spell point cost by 5. If the caster does not have enough spell points to cast the effect, they are exhausted, but the spell effect is still cast. |
+| 49 | You gain immunity to magic, becoming immune to all spells or spell-like abilities that allow spell resistance, but your caster level is reduced to 1. This lasts for 1 round per caster level. |
+| 50 | You gain 60 feet scent, but can smell magic instead, allowing you to spend a standard action identifying a single creature or object to learn information about magical effects on that creature or object, as the base Divination ability. The use of magic doubles the range of your scent, and dead magic zones reduce it by half. This lasts for 24 hours. |
+| 51 | The casting time increases by 1 step. |
+| 52 | Any manabonds the caster has active immediately become physical, as if casted with the Hardened Bond talent. This remains until the manabond otherwise expires normally. |
+| 53 | For 1 hour, all attempts to utilize a sphere effect within medium range causes a swirling, rainbow colored orb to float around the caster. |
+| 54 | Your magic blasts away foreign energies. In addition to its normal effects, you may make a free Counterspell attempt (as if you possessed the Counterspell feat) against any effects of your choice that your target has active upon them, and may exclude any effects you know of from this attempt. |
+| 55 | The caster loses access to this sphere for 1d6 rounds. |
+| 56 | You channel yourself too much into your magic; you become a creature of magic, gaining spell immunity to all spheres except the Mana sphere, but creatures can target you with antimagic effects. If you enter an antimagic field, are targeted by an antimagic effect (such as Counterspell), or otherwise enter a zone of dead magic, you must succeed at a Fortitude save each round or be slain. This lasts for 1 minute. |
+| 57 | An errant manabond is created. You create a Funnel manabond between yourself and an enemy within close range, if any. That creature is considered the creator of this manabond, and may drain your spell points if they continue to concentrate on it. Use your caster level for the caster level of this manabond. |
+| 58 | A magical sigil engraves on the ground, filling an area with a 30-foot radius centered on the caster. Any beneficial magical effect cast on a target within this sigil is also cloned and cast upon every other creature standing on the sigil. The sigil remains for 24 hours. |
+| 59 | The caster gains knowledge of one talent of their choice from any sphere they qualify for for 1 round. |
+| 60 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 61 | The caster learns an eldritch secret about mana. They gain knowledge of a Mana sphere talent they qualify for for 24 hours. |
+| 62 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, they are instead dazed until the end of their next turn. |
+| 63 | All creatures you have a manabond with are electrocuted by a sudden wave of mana. Deal 1d4 untyped damage for every odd level you have to yourself and any creature you have a manabond with. |
+| 64 | A hostile sigil engraves into the ground, filling an area with a 30-foot radius centered on the caster. Any expenditure of spell points within this area causes the creature spending spell points to suffer 1d8 nonlethal damage for each spell point spent. This damage increases by 1 die at 3rd caster level and every 3 levels thereafter. The sigil remains for 24 hours. |
+| 65 | Any temporary spell points that any creature possesses within close range suddenly burst in a chaotic puff of energy, dealing 1d8 untyped damage per temporary spell point lost to the creatures that had them. |
+| 66 | You lose your sense of targeting. For 1 round per caster level, every time you utilize a targeted sphere effect, you must randomly decide the target between any creatures within valid range. |
+| 67 | (Combat) Caster is stunned for 1 round. |
+| 68 | If the effect has a duration longer than instantaneous, it instead only remains for 1 round, but the caster level of the effect is increased by 10. If it is instantaneous, reroll this result. |
+| 69 | All manabonds in close range are immediately subject to a dispel attempt with a result of 11 + the caster’s caster level. |
+| 70 | The caster learns an eldritch secret about mana. They gain knowledge of a Mana sphere talent they qualify for for 24 hours. |
+| 71 | A catastrophic reaction occurs. All creatures within medium range must succeed at a Fortitude save or lose spell points equal to their Hit Dice. The caster loses all of their spell points on a failed save. |
+| 72 | The effect’s spell point cost is reduced to 0. |
+| 73 | The ultimate catastrophic decay of internal magic occurs. For each base sphere the caster knows, they must roll a wild magic event on the respective sphere’s table, in addition to rolling once on the Universal wild magic table. |
+| 74 | The caster’s target is stunned for 1 round. Fortitude negates. |
+| 75 | The caster gains a +2 inherent bonus to their casting ability modifier for 1 minute. |
+| 76 | The caster’s mana separates from the caster, forming a perfect transparent blue version of themselves that moves with them but is displaced 1 foot to the left. This remains for 24 hours. |
+| 77 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls are ignored, there is no effect. |
+| 78 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 79 | Magical energies flow away from you easily. The next beneficial spell that is cast upon you is instead granted to a random enemy within close range. The caster is not aware of this effect, and the benefiting creature may choose to not activate this ability if the effect does not satisfy them, instead waiting for a different one to apply it to. This lasts for 1 hour. |
+| 80 | You gain spell resistance equal to 5 + your caster level for 1 hour. You may not lower this spell resistance. |
+| 81 | 1d6 random simple weapons suddenly materialize at the caster’s feet, though such weapons are made of pure mana and are worthless. They remain permanently. |
+| 82 | The casting time increases by 2 steps. |
+| 83 | The effect fails, the action is lost, and spell points or spell slots spent are lost. |
+| 84 | The caster is exhausted. If they were already exhausted, they fall asleep. |
+| 85 | For 1 hour, all penalties to the caster’s caster level are instead treated as untyped bonuses. |
+| 86 | Roll again on the Universal wild magic table. |
+| 87 | If the effect is instantaneous, the caster level is reduced to 1, but the effect applies again at the start of the target’s turn for a number of rounds equal to the caster’s casting ability modifier. If the effect is not instantaneous, reroll this result. |
+| 88 | Wild energies infuse your magic. For 1 round per caster level, none of your effects may be negated by counterspells, antimagic fields or similar sources of antimagic. |
+| 89 | For 1 hour, every time you spend a spell point, you suffer untyped damage equal to the caster level of the effect for each spell point spent. |
+| 90 | The caster’s hair is recolored to a vibrant blue color permanently. This can be dispelled normally. |
+| 91 | Your magic infuses itself into your target. If you were casting a sphere effect on an ally or willing creature, you reduce their spell resistance by an amount equal to your casting ability modifier (or apply a penalty all saving throws they attempt against magic effects by the same amount). If you were casting on an enemy, you instead increase their spell resistance (or grant them a bonus on such effects). This lasts for 2 rounds. |
+| 92 | The caster gains a +2 inherent bonus to their casting ability modifier for 1 minute. |
+| 93 | The caster emits light as a torch for 1 hour. |
+| 94 | Your magic evaporates, with it leaving a leaking hole of mana within you. The spell fails and all spell points are lost, and you lose 1 spell point at the start of each turn until you spend a full-round action restabilizing your magic by spending 1 spell point. |
+| 95 | For 1 minute, each time the caster attempts to utilize a magic talent that is not in the Mana sphere, they are targeted by the base Spellburn talent. Use the caster’s caster level and magic skill bonus to determine the effects of this talent. |
+| 96 | All creatures within close range of the caster, including the caster, display obvious signs of how many spell points they have remaining, as detailed under the Unstable Storage general drawback. |
+| 97 | The caster suffers from the Vulnerable Caster drawback for 1 day, gaining no benefits for it. |
+| 98 | Magic becomes a beacon. All spellcasters that utilize a magic effect within medium range suffer a -1 penalty to their armor class for each magic effect they cast for the duration of this effect, and the penalty stacks with itself. This lasts for 1 minute per caster level. |
+| 99 | For 1 hour, all penalties to the caster’s caster level are instead treated as untyped bonuses. |
+| 100 | The caster suffers 1d6 ability damage to their casting ability, even if they would normally be immune to ability damage. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-mind" data-name="Mind" data-group="Spheres">
+
+**Mind**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The caster must succeed on a Will save or believe himself to be a chicken for 1 round per caster level. The caster will flee if attacked, but otherwise stands still and pecks at the ground looking for food. |
+| 2 | The casting time decreases by 1 step. |
+| 3 | Effect receives a +2 bonus to caster level. |
+| 4 | The target learns every detail of the caster’s life, including their backstory and their entire stat block. More detailed information requires a DC 10 Wisdom check to sift through the barrage of memories. |
+| 5 | The next time the caster is targeted by an attack roll, all creatures within close range of the target must make Will saves or be confused for 1 round. |
+| 6 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the caster must make Will saves or be confused for 1 round. |
+| 7 | The next time the caster is targeted by an attack roll, all allied creatures within close range of the caster must make Will saves or be panicked for 1 round. |
+| 8 | For 1 round, the target’s mind is filled with the voice of its mother or a similar creature, which shouts constant criticism at it, giving it a penalty to all d20 rolls equal to 1/4 caster level. |
+| 9 | The next time the caster is targeted by an attack roll, all allied creatures within close range of the target must make Will saves or be stunned for 1 round. |
+| 10 | The target is affected normally but also but gains a gaze attack for 1d6 rounds. Any creature affected by the gaze attack must succeed on a Will save equal to the original effect’s save or be affected by the effect until the target loses the gaze attack. |
+| 11 | For 1 minute per caster level, the caster takes a -4 penalty on all saves against (emotion) effects and abilities granted by the eliciter’s emotion class feature. |
+| 12 | (Combat) The caster is stunned for 1 round. |
+| 13 | The caster makes a single magical skill check against all Mind sphere effects and effects with the charm, compulsion, or emotion descriptors within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 14 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 15 | For 1 minute per caster level, the caster emits an aura out to close range that imposes a -4 penalty on all saves against (emotion) effects and against abilities granted by the eliciter’s emotion class feature. |
+| 16 | The caster forgets all languages gained from his base race for 1 minute per caster level. This does not prevent supplying verbal spell components. |
+| 17 | Roll again on the Universal wild magic table. |
+| 18 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the caster must make Will saves or be frightened for 1 round. |
+| 19 | The casting time increases by 1 step. |
+| 20 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 21 | The caster perceives the surface emotions of all creatures within charm range as the lesser charm option of the Read Thoughts talent for 1 minute per caster level. All creatures may attempt a Will save to prevent their emotions from being detected for the duration of this effect. If the caster ever receives input from a number of creatures greater than his caster level, he is staggered from the overflow of emotion until the number of creatures decreases. |
+| 22 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 23 | The caster is forced to cast all spells and sphere abilities defensively for 1 hour. |
+| 24 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the target or center of the target area must make Will saves or be dazed for 1 round. |
+| 25 | All hostile creatures within close range of the caster grow tired and must succeed on Will saves or fall asleep for 1 round as the greater charm option of the Sleep talent. On a successful save they instead staggered for 1 round. |
+| 26 | The triggering effect fails, but for one minute per caster level the caster believes that it worked flawlessly in spite of any evidence to the contrary. |
+| 27 | For 1 minute per caster level, the caster emits an aura out to close range that grants a +2 bonus on all saves against (emotion) effects and against abilities granted by the eliciter’s emotion class feature. |
+| 28 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 29 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 30 | The target becomes aware of any animal within long range and as a swift action may focus on one such creature, perceiving whatever it is perceiving. This lasts for 1 minute per caster level. |
+| 31 | Every creature within close range becomes telepathically linked for 1d6 days. This telepathy does not function across planar boundaries. |
+| 32 | All creatures within close range of the caster must succeed on a Will save or be confused for 1d6 rounds. |
+| 33 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the caster must make Will saves or be panicked for 1 round. |
+| 34 | The next time the caster is targeted by an attack roll, all creatures within close range of the caster must make Will saves or be panicked for 1 round. |
+| 35 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the target must make Will saves or be confused for 1 round. |
+| 36 | The caster is unable to remember his own name for 1 hour per caster level. |
+| 37 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the caster must make Will saves or be dazed for 1 round. |
+| 38 | The caster is unable to recall any proper nouns for 10 minutes per caster level. |
+| 39 | The caster is exhausted. |
+| 40 | For 1 round per caster level, any creature within close range of the caster can issue a command, as the lesser charm option of the Command talent, to the caster as a move action. Only the first creature issuing such a command after the caster’s turn is obeyed. |
+| 41 | The next time the caster is targeted by an attack roll, all allied creatures within close range of the caster must make Will saves or be stunned for 1 round. |
+| 42 | (Combat) The caster is nauseated for 1 round. |
+| 43 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 44 | As an instantaneous effect, any creature affected by the triggering effect forgets everything that has happened in the last 24 hours. This result may be removed per the Amnesia talent of the Mind sphere. |
+| 45 | The casting time decreases by 2 steps. |
+| 46 | The target must succeed on a Will save or become hopelessly infatuated with the next creature it sees. If a romantic attachment is possible with that creature, the target falls in love. The effect is permanent until dispelled. |
+| 47 | For one hour per caster level, whenever a request is politely made of the caster (as determined by the GM), the caster must attempt to fulfill the request as the lesser charm option of the Suggestion (charm) talent. |
+| 48 | The caster and the caster’s closest ally within charm range switch minds for 1 round per caster level. Each retains his own mental ability scores, base attack bonus, base saves, and casting ability but uses the physical ability scores of the possessed body. The possessor does not gain access to any supernatural or spell-like abilities possessed by the body. |
+| 49 | The next time the caster is targeted by an attack roll, all hostile creatures within close range must succeed on a Will save against the lesser charm option of the Sleep talent as if cast by the caster. This result is resolved prior to the attack roll being made. |
+| 50 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the caster must make Will saves or be stunned for 1 round. |
+| 51 | The next time the caster is targeted by an attack roll, all allied creatures within close range of the target or center of the target area must make Will saves or be dazed for 1 round. |
+| 52 | All creatures within close range of the target or center of the target area grow tired and must make Will saves or fall asleep for 1 round as the greater charm option of the Sleep talent. On a successful save they are instead staggered for 1 round. |
+| 53 | As an instantaneous effect, the caster forgets everything that has happened since last resting to regain spell points. This result may be removed per the Amnesia talent of the Mind sphere. |
+| 54 | The casting time increases by 2 steps. |
+| 55 | All allied creatures within close range of the target grow tired and must succeed on Will saves or fall asleep for 1 round as the greater charm option of the Sleep talent. On a successful save they instead staggered for 1 round. |
+| 56 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 57 | All creatures that the caster encounters in the next hour that are not immune to mind-affecting effects have their dispositions toward the caster lowered by 1 step for 1 day. |
+| 58 | All creatures that the caster encounters in the next hour that are not immune to mind-affecting effects have their dispositions toward the caster lowered by 2 steps for 1 day. |
+| 59 | The caster must succeed on a Will save or be confused for 1d6 rounds. |
+| 60 | All hostile creatures within close range of the target or center of the target area grow tired and must succeed on Will saves or fall asleep for 1 round as the greater charm option of the Sleep talent. On a successful save they are instead staggered for 1 round. |
+| 61 | For 10 minutes per caster level, the caster becomes paranoid and may not benefit from teamwork feats or flanking bonuses and must attempt saving throws against all spells and sphere abilities that allow them. |
+| 62 | The next time the caster is targeted by an attack roll, all allied creatures within close range of the target must make Will saves or be confused for 1 round. |
+| 63 | All allied creatures within close range of the caster grow tired and must succeed on Will saves or fall asleep for 1 round as the greater charm option of the Sleep talent. On a successful save they instead staggered for 1 round. |
+| 64 | For 1 round per caster level, any creature within close range of the caster can issue a command, as the greater charm option of the Command talent, to the caster as a standard action. Only the first creature issuing such a command after the caster’s turn is obeyed. |
+| 65 | The next time the caster is targeted by an attack roll, all allied creatures within close range of the caster must make Will saves or be dazed for 1 round. |
+| 66 | The next time the caster is targeted by an attack roll, he must succeed on a Will save or be affected by the greater charm option of the Sleep talent as if cast by the caster. This result is resolved after the attack is resolved. |
+| 67 | For 1 minute per caster level, the caster emits an aura out to close range that imposes a -4 penalty on all saves by allied creatures against (emotion) effects and against abilities granted by the eliciter’s emotion class feature. |
+| 68 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 69 | The next time the caster is targeted by an attack roll, all creatures within close range of the caster must make Will saves or be confused for 1 round. |
+| 70 | The next time the caster is targeted by an attack roll, all allied creatures within close range of the caster must make Will saves or be confused for 1 round. |
+| 71 | The caster must succeed on a Will save or become hopelessly infatuated with the next creature it sees. If a romantic attachment is possible with that creature, the caster falls in love. The effect is permanent until dispelled. |
+| 72 | The ability functions as normal, but the caster forgets the act of casting, and must spend the next round trying to cast an identical effect (or as close as possible) on the same target(s). |
+| 73 | The caster loses access to this sphere for 1d6 rounds. |
+| 74 | The target must succeed on a Will save or believe itself to be a chicken for 1 round per caster level. The target will flee if attacked, but otherwise stands still and pecks at the ground looking for food. |
+| 75 | The caster perceives all creatures as babies (or nearest equivalent) for 1d6 rounds. |
+| 76 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 77 | The next time the caster is targeted by an attack roll, all allied creatures within close range must succeed on a Will save against the lesser charm option of the Sleep talent as if cast by the caster. This result is resolved after the attack is resolved. |
+| 78 | All creatures that the caster encounters in the next hour that are not immune to mind-affecting effects gain an antipathy for the caster and unconsciously try to avoid him for 1 day. |
+| 79 | All creatures within close range of the caster grow tired and must make Will saves or fall asleep for 1 round as the greater charm option of the Sleep talent. On a successful save they are instead staggered for 1 round. |
+| 80 | The next time the caster is targeted by an attack roll, he is stunned until the start of his next turn. |
+| 81 | For 1 minute per caster level, the caster emits an aura out to close range that grants a +2 bonus on all saves by hostile creatures against (emotion) effects and against abilities granted by the eliciter’s emotion class feature. |
+| 82 | The caster is fatigued. |
+| 83 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 84 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the target or center of the target area must make Will saves or be stunned for 1 round. |
+| 85 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 86 | The next time the caster is targeted by an attack roll, all allied creatures within close range of the target must make Will saves or be panicked for 1 round. |
+| 87 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 88 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 89 | The next time the caster is targeted by an attack roll, all creatures within close range of the target must make Will saves or be panicked for 1 round. |
+| 90 | (Combat) The caster is dazed for 1 round. |
+| 91 | The caster broadcasts his thoughts to all creatures within long range for 1 minute per caster level, allowing them to perceive his thoughts as if using the greater charm option of the Read Thoughts talent as a free action. |
+| 92 | For one hour per caster level, whenever a request is politely made of the caster (as determined by the GM), the caster must attempt to fulfill the request as the greater charm option of the Suggestion talent. |
+| 93 | The caster makes a single magical skill check against all Mind sphere effects and effects with the charm, compulsion, or emotion descriptors within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 94 | The target perceives all creatures as babies (or nearest equivalent) for 1d6 rounds. |
+| 95 | The target is not affected but gains a gaze attack for 1d6 rounds. Any creature affected by the gaze attack is affected by the triggering effect until the target loses the gaze attack. The gaze uses the original effect’s save, if any. |
+| 96 | The next time the caster is targeted by an attack roll, all hostile creatures within close range of the target must make Will saves or be panicked for 1 round. |
+| 97 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 98 | The next time the caster is targeted by an attack roll, all creatures within close range must succeed on a Will save against the lesser charm option of the Sleep talent. This result is resolved prior to the attack being resolved. |
+| 99 | The caster grows tired and must succeed on a Will save or fall asleep for 1 round as the greater charm option of the Sleep talent. On a successful save the caster is staggered for 1 round. |
+| 100 | All creatures that the caster encounters in the next hour that are not immune to mind-affecting effects have their dispositions toward the caster increased by 1 step for 1 day. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-nature" data-name="Nature" data-group="Spheres">
+
+**Nature**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | (Combat) The metallic weapons of all creatures within close range of the caster dull, causing them to deal bludgeoning damage for 1 minute per caster level. |
+| 2 | For 1d6 rounds, the caster is surrounded by a dust storm, as per the Dust Storm talent. |
+| 3 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 4 | For 1 round per caster level, the caster is polymorphed into a water elemental as the Elemental Transformation talent of the Alteration sphere, granting only the elemental resistance (cold) ability as a trait. This overrides any polymorph effects currently active on the caster. |
+| 5 | For 1 hour per caster level, all plants become hostile to the caster. All plant creatures are hostile to the caster, and if any plant is capable of movement or is animated, such as through the the pummel geomancing ability, they will attack the caster if at all possible, ignoring all other targets. |
+| 6 | All creatures within close range of the target or center of the target area must succeed on a Reflex save or catch on fire. |
+| 7 | For 1d6 hours, all flowers within long range of the caster smell foul. All creatures who end a turn standing in a square that has a flower is sickened until leaving the square. Creatures that do not breathe are not affected. |
+| 8 | Effect receives a +2 bonus to caster level. |
+| 9 | The nearest hostile creature within long range is surrounded by a dust storm, as per the Dust Storm talent, for 1d6 rounds. |
+| 10 | The metallic armor of all allied creatures within close range of the caster sprout spikes, granting them armor spikes or increasing the damage dice of existing armor spikes by one size but also increasing the armor’s ACP by 2 and the ASF by 10%. This lasts for 1 minute per caster level. |
+| 11 | For 1d6 days, all rodents within long range of the caster become attracted to him, following him as closely as possible. The rodents will take turns to find food, but otherwise will not voluntarily leave the caster’s side. The caster does not automatically gain any control over the rodents. |
+| 12 | As an instantaneous effect, the caster is covered in ice as the freeze option of the Water package. This ice is 1 inch thick, +1 inch per 5 caster levels. |
+| 13 | The caster is exhausted. |
+| 14 | (Combat) All animals within long range must succeed on a Will save or have their attitude become shifted to helpful toward creatures hostile toward the caster for 1 minute per caster level. |
+| 15 | For 1 hour per caster level, all Diminutive-sized rocks within close range follow the caster at a speed of 20 ft., detecting him and moving towards him. If they reach the caster, they crowd around his feet, making his first square of movement each round count as difficult terrain. |
+| 16 | The caster is fatigued. |
+| 17 | The nearest creature of the animal type (within 1 mile) becomes hostile towards the caster, seeking him out and attacking with reckless abandon. This creature continues to attempt to attack for 1 hour or until slain. |
+| 18 | All animals within long range must succeed on a Will save or have their attitude become shifted to hostile toward creatures allied with the caster for 1 minute. |
+| 19 | All hostile creatures within close range of the caster must succeed on a Reflex save or catch on fire. |
+| 20 | For 1d6 rounds, all water within close range of the caster begins to boil. Canteens burst, and any creature in contact with water suffers 1d6 points of fire damage per 2 caster levels. |
+| 21 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 22 | (Combat) Thick mist encompasses everything within medium range of the caster, reducing the size of all mundane fires by 1 category and soaking all creatures caught within. The mist remains for 1 round per caster level. |
+| 23 | As an instantaneous effect, all unhewn stones within close range carve themselves to reflect your thoughts at the moment this effect takes place. |
+| 24 | All creatures within close range of the caster must succeed on a Reflex save or become entangled by plants, shifting rocks, or ice as appropriate to the environment for 1d6 rounds. |
+| 25 | For 1 hour per caster level, a dramatic fog covers the area around the caster’s feet. This does not provide any concealment to the caster, but may obscure caltrops, tripwires, and other low-lying objects. |
+| 26 | The metallic weapons of all hostile creatures within close range of the target or center of the target area dull, causing them to deal bludgeoning damage for 1 minute per caster level. |
+| 27 | All allied creatures within close range of the caster must succeed on a Reflex save or catch on fire. |
+| 28 | All flames within long range of the caster increase 1 size for 1 round per caster level. |
+| 29 | The casting time decreases by 1 step. |
+| 30 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 31 | The casting time decreases by 2 steps. |
+| 32 | All animals within long range must succeed on a Will save or have their attitude become shifted to hostile toward all creatures without the Animal type within close range of the animal for 1 minute per caster level. |
+| 33 | For 1 round per caster level, all inanimate objects within long range of the caster’s position when this result is triggered begin babbling incoherently, imposing a penalty on sound-based Perception checks in the area equal to caster level and a spell failure chance of 15% on any effect requiring verbal components. This effect remains stationary. |
+| 34 | (Combat) The caster is dazed for 1 round. |
+| 35 | Blocks of ice (5-ft. cubes) instantaneously form in each empty space adjacent to but not directly above the nearest hostile creature within long range. |
+| 36 | All creatures within close range of the caster must succeed on a Reflex save or catch on fire. |
+| 37 | As an instantaneous effect, all crops and other food-bearing plants within close range of the caster immediately die. |
+| 38 | The caster’s space lowers 5 ft. as the Forge Earth (geomancing) talent. |
+| 39 | The metallic weapons of all hostile creatures within close range of the caster dull, causing them to deal bludgeoning damage for 1 minute per caster level. |
+| 40 | The caster’s space raises 5 ft. as the Forge Earth (geomancing) talent. |
+| 41 | All animals within long range must succeed on a Will save or have their attitude become shifted to helpful toward allies of the caster for 1 minute per caster level. |
+| 42 | Stone forms over all hostile creatures within close range, granting DR/adamantine equal to 1/2 caster level (minimum 1) for 1 minute. |
+| 43 | (Combat) The metallic weapons of all allied creatures within close range of the caster dull, causing them to deal bludgeoning damage for 1 minute per caster level. |
+| 44 | Bark grows over all creatures within close range of the caster, increasing their natural armor bonus by 1 + 1 per 5 caster levels for 1 minute. |
+| 45 | The space of all hostile creatures within close range lowers 5 ft. as the Forge Earth (geomancing) talent. |
+| 46 | The metallic armor of all allied creatures within close range of the target or center of the target area sprout spikes, granting them armor spikes or increasing the damage dice of existing armor spikes by one size but also increasing the armor’s ACP by 2 and the ASF by 10%. This lasts for 1 minute per caster level. |
+| 47 | Ice forms around the feet and limbs of all creatures within close range of the caster, who must succeed on a Reflex save or be entangled and unable to move. In addition, each affected creature’s square becomes slick with ice and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or Escape Artist check against the triggering effect’s save DC. A creature may also destroy the ice on a creature or square by dealing 3 points of damage per caster level to the ice. This removes the entangled condition from the creature and destroys the difficult terrain. The ice melts after 1 minute. |
+| 48 | As an instantaneous effect, the ground within close range becomes covered in mounds of dirt, becoming difficult terrain. |
+| 49 | All vegetation within long range of the caster decrease in size by one size category for 1 round per caster level. |
+| 50 | All animals within long range must succeed on a Will save or have their attitude become shifted to helpful toward all creatures with the Animal type for 1 minute per caster level. |
+| 51 | For 1 round per caster level, the caster is polymorphed into a fire elemental as the Elemental Transformation talent of the Alteration sphere, granting only the elemental resistance (fire) ability as a trait. This overrides any polymorph effects currently active on the caster. |
+| 52 | As an instantaneous effect, one tree (to a maximum size equal to that which the caster can control through the pummel geomancing ability) grows adjacent to the caster. The tree is under the effect of the pummel geomancing ability for 1d6 rounds and will attack any creature within reach, first targeting the caster and his allies. |
+| 53 | All vegetation within long range of the caster increase in size by one size category for 1 round per caster level. |
+| 54 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 55 | All unattended flammable objects within close range of the caster are set on fire. |
+| 56 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 57 | The casting time increases by 1 step. |
+| 58 | Roll again on the Universal wild magic table. |
+| 59 | All leaves within long range of the caster change color to bright pink for 1 day per caster level. |
+| 60 | For 1 hour per caster level, all plants become enamored of the caster. All plant creatures are helpful to the caster, and if any plant is capable of movement or is animated such as through the pummel ability, they will attack the caster’s enemies if at all possible, ignoring all other targets. These creatures will follow the caster and refuse to stay away, attempting to touch the caster at all times if possible. |
+| 61 | (Combat) A sphere of water envelops the caster, forming a vortex around him, which remains for 1 round per caster level. |
+| 62 | A sphere of water envelops one creature of the caster’s choice within geomancing range, forming a vortex around it, which remains for 1 round per caster level. |
+| 63 | Stone forms over all creatures within close range granting DR/adamantine equal to 1/2 caster level (minimum 1) for 1 minute. |
+| 64 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 65 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 66 | As an instantaneous effect, for 1 round per caster level, flowers sprout from the casters footsteps. These flowers are random wildflowers suitable to the environment if possible and have no intrinsic properties. |
+| 67 | All hostile creatures within close range of the target or center of the target area must succeed on a Reflex save or catch on fire. |
+| 68 | All flames within long range of the caster decrease 1 size for 1 round per caster level. |
+| 69 | For 1 hour per caster level, the nearest creature of the animal type (within 1 mile) becomes friendly towards the caster, seeking him out and obeying all commands to the best of its ability. This does not make the animal trained, but even wild animals can be protective of the caster and attack those who are hostile towards him. |
+| 70 | All non-magical fires within long range of the caster are extinguished. |
+| 71 | For 1 round per caster level, the caster is polymorphed into an earth elemental as the Elemental Transformation talent of the Alteration sphere, granting only the elemental resistance (acid) ability as a trait. This overrides any polymorph effects currently active on the caster. |
+| 72 | Ice forms around the feet and limbs of the caster who must succeed on a Reflex save or be entangled and unable to move. In addition, the caster’s square becomes slick with ice and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or Escape Artist check against the triggering effect’s save DC. A creature may also destroy the ice on a creature or square by dealing 3 points of damage per caster level to the ice. This removes the entangled condition from the creature and destroys the difficult terrain. The ice melts after 1 minute in normal conditions. |
+| 73 | As an instantaneous effect, the space below all creatures within geomancing range becomes covered in 1 ft. of sand. |
+| 74 | All creatures within close range of the target or center of the target area must succeed on a Reflex save or fall prone as the ground shakes. |
+| 75 | The space of all hostile creatures within close range raises 5 ft. as the Forge Earth (geomancing) talent. |
+| 76 | All plants within close range gain the ability to speak common for 1 day per caster level. The plants talk incessantly and will discuss anything and everything they can, but they do not gain increased intelligence to give them a variety of topics. |
+| 77 | (Combat) Blocks of ice (5-ft. cubes) instantaneously form in each empty space adjacent to but not directly above the caster. |
+| 78 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 79 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 80 | For 1 round per caster level, the caster is polymorphed into an air elemental as the Elemental Transformation talent of the Alteration sphere, granting only the elemental resistance (electricity) ability as a trait. This overrides any polymorph effects currently active on the caster. |
+| 81 | For 1d6 rounds, all water within close range of the caster freezes. Any creature in contact with water must pass a Reflex save or be trapped. |
+| 82 | For 1 round per caster level, the caster is polymorphed into a plant creature as the Plant Transformation talent of the Alteration sphere, granting only the +2 natural armor bonus ability as a trait. This overrides any polymorph effects currently active on the caster. |
+| 83 | The casting time increases by 2 steps. |
+| 84 | The metallic armor of all creatures within close range of the target or center of the target area sprout spikes, granting them armor spikes or increasing the damage dice of existing armor spikes by one size but also increasing the armor’s ACP by 2 and the ASF by 10%. This lasts for 1 minute per caster level. |
+| 85 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 86 | All animals within close range benefit from the Logos talent for 1 minute per caster level. |
+| 87 | (Combat) The caster is nauseated for 1 round. |
+| 88 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 89 | The air within close range erupts into flames, dealing 1d6 points of fire damage per two caster levels (minimum 1d6) to all targets within the area (Reflex half). |
+| 90 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 91 | The caster loses access to this sphere for 1d6 rounds. |
+| 92 | All animals within long range must succeed on a Will save or have their attitude become shifted to hostile toward creatures hostile to the caster for 1 minute. |
+| 93 | As an instantaneous effect, any bodies of water within long range raise 2 ft. or double in volume, whichever comes first. Canteens, pots, and other containers overflow as the amount of water in them doubles. The water levels will be restored to their natural level over time by drainage, evaporation, etc. |
+| 94 | A sphere of water envelops a random creature within close range of the caster, forming a vortex around it, which remains for 1 round per caster level. |
+| 95 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 96 | All creatures within close range of the caster must succeed on a Reflex save or fall prone as the ground shakes. |
+| 97 | (Combat) The caster is stunned for 1 round. |
+| 98 | As an instantaneous effect, poison ivy grows in a 5-ft. radius + 5 ft. per 5 caster level around the caster. The caster and any creature who enters the area must make a Fortitude save or take -1 penalty (which increases by 1 per 5 caster levels) on all magic skill checks made to concentrate for 1 hour per caster level. This is a poison effect. |
+| 99 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 100 | All allies within close range benefit from the Speak With Animals talent for 1 minute per caster level. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-protection" data-name="Protection" data-group="Spheres">
+
+**Protection**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The effect ends the first time the caster takes damage from any source. |
+| 2 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 3 | The target or creatures in the target area are immune to all hit point damage, ability damage, ability drain, death effects, mind-affecting effects, and negative levels for 1 round. |
+| 4 | The next attack roll made by an allied creature against a target other than the caster within close range of the caster that would have been capable of targeting the caster is instead resolved against the caster. The caster receives all the effects of the attack as if he was the original target. |
+| 5 | (Combat) Hostile creatures within close range of the caster gain resistance to electricity equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 6 | The caster gains DR/- equal to caster level against the next attack that strikes him within the next 1 minute per caster level. |
+| 7 | Roll again on the Universal wild magic table. |
+| 8 | All hostile creatures within close range of the target or center of the target area are immune to all hit point damage, ability damage, ability drain, death effects, mind-affecting effects, and negative levels for 1 round. This suppresses but does not remove ongoing effects and has no impact on drain and damage already incurred. |
+| 9 | The effect ends the first time the caster takes damage from any source and all creatures in close range of the target or target area take 1 point of force damage per caster level. |
+| 10 | (Combat) For the next 1d6 rounds, any allied creature that deals damage to a creature within close range of the caster receives nonlethal damage equal to 1/2 caster level. |
+| 11 | All allied creatures within close range of the target or center of the target area are immune to all hit point damage, ability damage, ability drain, death effects, mind-affecting effects, and negative levels for 1 round. This suppresses but does not remove ongoing effects and has no impact on drain and damage already incurred. |
+| 12 | (Combat) For 1 round per caster level, all allied creatures within close range of the caster gain 1 temporary hit point per caster level each round. These temporary hit points do not stack with themselves or any other source of temporary hit points and disappear as soon as the creature is outside this effect. |
+| 13 | (Combat) For 1 round per caster level, all creatures within close range of the caster gain 2 temporary hit points per caster level each round. These temporary hit points do not stack with themselves or any other source of temporary hit points and disappear as soon as the creature is outside this effect. |
+| 14 | The target or creatures within the target area must pass a Fortitude save or become immune to magic for 1 round per caster level. Treat this as infinite spell resistance that cannot be lowered and applies to effects originating from the affected creature. |
+| 15 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 16 | The casting time increases by 1 step. |
+| 17 | For 1 round per caster level, effects of all spheres the caster does not possess are impeded in an area out to medium range of the caster. A successful magical skill check is required against the caster’s MSD or else the spell fails. |
+| 18 | If the target creature or the area of effect is exposed to bright light, it ends immediately. |
+| 19 | The effect may be completely ignored or bypassed by any object made primarily of wood or creatures wearing armor that is primarily wood. |
+| 20 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 21 | (Combat) For 1 round per caster level, whenever the caster takes any hit point damage, he may attempt to transfer half of that damage to a creature within close range as a free action that can be taken even when it is not the caster’s turn. A Will save prevents this transfer. |
+| 22 | (Combat) All creatures within close range of the caster gain resistance to sonic equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 23 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 24 | All allied creatures within close range of the caster are immune to all hit point damage, ability damage, ability drain, death effects, mind-affecting effects, and negative levels for 1 round. This suppresses but does not remove ongoing effects and has no impact on drain and damage already incurred. |
+| 25 | All creatures within close range of the caster gain spell resistance equal to 15 + caster level for 1 minute per caster level. This spell resistance cannot be voluntarily lowered. |
+| 26 | All creatures within close range of the target or target area gain spell resistance equal to 15 + caster level for 1 minute per caster level. This spell resistance cannot be voluntarily lowered. |
+| 27 | The next attack roll made by a creature against a target other than the caster within close range of the caster that would have been capable of targeting the caster is instead resolved against the caster. The caster receives all the effects of the attack as if he was the original target. |
+| 28 | (Combat) All creatures within medium range of the caster gain DR/- equal to caster level against the next attack that strikes them within the next 1 round per caster level. |
+| 29 | (Combat) Each round for 1 round per caster level, roll 1d6 and subtract the result from the caster’s AC. |
+| 30 | (Combat) All creatures within medium range of the caster take a -1 penalty on all saves versus spells, sphere effects, and spell-like abilities for 1 round per caster level. This penalty increases by 1 for every 5 caster levels. |
+| 31 | (Combat) Hostile creatures within close range of the caster gain resistance to sonic equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 32 | Roll 1d6 and add the result to the caster’s AC as a deflection bonus for 1 round per caster level. |
+| 33 | All creatures within medium range of the target or center of the target area gain DR/- equal to caster level against the next attack that strikes them within the next 1 round per caster level. |
+| 34 | The casting time decreases by 1 step. |
+| 35 | The caster is immune to all hit point damage, ability damage, ability drain, death effects, mind-affecting effects, and negative levels for 1 round. This suppresses but does not remove ongoing effects and has no impact on drain and damage already incurred. |
+| 36 | (Combat) For 1 round per caster level, whenever the caster takes any hit point damage, he may attempt to transfer half of that damage to a willing creature within close range as a free action that can be taken even when it is not the caster’s turn. |
+| 37 | All creatures within long range of the caster become aware of the casters condition as the Status talent for 10 minutes per caster level. |
+| 38 | The caster is exhausted. |
+| 39 | If the target creature or the area of effect is exposed to water (such category 1 or higher precipitation per the Weather sphere or at least 1 gallon of water), it ends immediately. |
+| 40 | For 1d6 rounds, any hostile creature that attempts a violent action or targeted offensive magical effect while within close range of the caster must succeed on a Will save or the action or effect fails, wasting the action and any spell points or spell slots. |
+| 41 | The effect ends the first time the caster takes damage from any source, dealing 1 force damage per caster level to all hostile creatures in close range of the target or center of the target area. The caster is not aware of this result. |
+| 42 | (Combat) The caster becomes immune to magic for 1 round per caster level. Treat this as infinite spell resistance that cannot be lowered and applies to effects originating from the caster. |
+| 43 | (Combat) The caster is dazed for 1 round. |
+| 44 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 45 | (Combat) All hostile creatures within close range of the caster gain spell resistance equal to 15 + caster level for 1 minute per caster level. This spell resistance cannot be voluntarily lowered. |
+| 46 | All creatures within close range of the target or center of the target area are immune to all hit point damage, ability damage, ability drain, death effects, mind-affecting effects, and negative levels for 1 round. This suppresses but does not remove ongoing effects and has no impact on drain and damage already incurred. |
+| 47 | (Combat) All creatures within close range of the caster gain resistance to fire equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 48 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 49 | For 10 minutes per caster level, the caster gains spell resistance equal to 15 + caster level. The caster cannot lower this spell resistance and does not automatically bypass it with his own spells and sphere abilities. |
+| 50 | (Combat) All creatures within close range of the caster gain resistance to electricity equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 51 | (Combat) All creatures are surrounded by barriers as per the Barrier (ward) ability. This barrier lasts for 1 minute per caster level or until destroyed and fully replenishes its hit points each round at the start of the caster’s turn if not destroyed. |
+| 52 | The next time during the next 24 hours that the target or a creature in the target area perceives a creature that appears to pose a physical threat, he charges directly at it and attempts to engage it in melee. This compulsion ends after resolving a melee attack against the creature. |
+| 53 | (Combat) The caster is nauseated for 1 round. |
+| 54 | The caster automatically deals nonlethal damage with all attacks, spells, and other effects for 10 minutes per caster level. |
+| 55 | The caster loses access to this sphere for 1d6 rounds. |
+| 56 | (Combat) All creatures within close range of the caster are immune to all hit point damage, ability damage, ability drain, death effects, mind-affecting effects, and negative levels for 1 round. This suppresses but does not remove ongoing effects and has no impact on drain and damage already incurred. |
+| 57 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 58 | All allied creatures within close range of the target or target area gain spell resistance equal to 15 + caster level for 1 minute per caster level. This spell resistance cannot be voluntarily lowered. |
+| 59 | Effect receives a +2 bonus to caster level. |
+| 60 | The effect may be completely ignored or bypassed by any object made primarily of steel or creatures wearing armor that is primarily steel. |
+| 61 | (Combat) For 1 round per caster level, all hostile creatures within close range of the caster gain 2 temporary hit points per caster level each round. These temporary hit points do not stack with themselves or any other source of temporary hit points and disappear as soon as the creature is outside this effect. |
+| 62 | For 1 round per caster level, effects of all spheres the caster possesses are impeded in an area out to medium range of the caster. A successful magical skill check is required against the caster’s MSD or else the spell fails. |
+| 63 | All allied creatures within close range of the caster gain spell resistance equal to 15 + caster level for 1 minute per caster level. This spell resistance cannot be voluntarily lowered. |
+| 64 | All allied creatures within medium range of the caster gain DR/- equal to caster level against the next attack that strikes them within the next 1 round per caster level. |
+| 65 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 66 | (Combat) The caster is stunned for 1 round. |
+| 67 | The caster takes 1d4 points of Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 68 | All creatures within medium range of the target or target area take a -1 penalty on all saves versus spells, sphere effects, and spell-like abilities for 1 round per caster level. This penalty increases by 1 for every 5 caster levels. |
+| 69 | (Combat) Hostile creatures within close range of the caster gain resistance to cold equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 70 | (Combat) All hostile creatures are surrounded by a barrier as per the Barrier (ward) ability. This barrier lasts for 1 minute per caster level or until destroyed and fully replenishes its hit points each round at the start of the caster’s turn if not destroyed. |
+| 71 | (Combat) For 1 minute per caster level, hostile creatures within close range of the caster gain resistance to fire equal to caster level. This stacks with existing resistance. |
+| 72 | The caster is fatigued. |
+| 73 | The casting time increases by 2 steps. |
+| 74 | The caster gains energy resistance to acid, cold, electricity, fire, negative, and sonic equal to caster level against the next effect that would deal damage of one of those types within the next 1 minute per caster level. This overlaps with existing resistance. |
+| 75 | (Combat) All creatures within close range of the caster gain resistance to cold equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 76 | The effect ends the first time the caster takes damage from any source. When the effect ends, the caster takes 1 force damage per caster level. |
+| 77 | (Combat) All creatures within close range of the caster gain resistance to acid equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 78 | (Combat) For 1d6 rounds, any creature that attempts a violent action or targeted offensive magical effect while within close range of the caster must succeed on a Will save or the have the action or effect fail, wasting the action and any spell points or spell slots. |
+| 79 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 80 | The effect may be completely ignored or bypassed by any object made primarily of silver or creatures wearing armor that is primarily silver. |
+| 81 | The casting time decreases by 2 steps. |
+| 82 | All hostile creatures within medium range of the target or center of the target area gain DR/- equal to caster level against the next attack that strikes them within the next 1 round per caster level. |
+| 83 | The effect ends the first time the target or a creature in the affected area takes damage from any source. |
+| 84 | (Combat) All hostile creatures within medium range of the caster gain DR/- equal to caster level against the next attack that strikes them within the next 1 round per caster level. |
+| 85 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 86 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 87 | All hostile creatures within close range of the target of target area gain spell resistance equal to 15 + caster level for 1 minute per caster level. This spell resistance cannot be voluntarily lowered. |
+| 88 | If the target creature or the area of effect is exposed to total darkness, it ends immediately. |
+| 89 | The next attack roll made by a hostile creature against a target other than the caster within close range of the caster that would have been capable of targeting the caster is instead resolved against the caster. The caster receives all the effects of the attack as if he was the original target. |
+| 90 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 91 | (Combat) For the next 1d6 rounds, any creature that deals damage to a creature within close range of the caster receives nonlethal damage equal to 1/2 caster level. |
+| 92 | The effect ends the first time the caster takes damage from any source and all allied creatures in close range of the target or target area take 1 point of force damage per caster level. |
+| 93 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 94 | (Combat) All hostile creatures within close range of the caster are immune to all hit point damage, ability damage, ability drain, death effects, mind-affecting effects, and negative levels for 1 round. This suppresses but does not remove ongoing effects and has no impact on drain and damage already incurred. |
+| 95 | (Combat) Hostile creatures within close range of the caster gain resistance to acid equal to caster level for 1 minute per caster level. This stacks with existing resistance. |
+| 96 | The effect may be completely ignored or bypassed by any object made primarily of stone or creatures wearing armor that is primarily stone. |
+| 97 | (Combat) For 1d6 rounds, any allied creature that attempts a violent action or targeted offensive magical effect while within close range of the caster must succeed on a Will save or the have the action or effect fail, wasting the action and any spell points or spell slots. |
+| 98 | The next time during the next 24 hours that the caster perceives a creature that appears to pose a physical threat, he charges directly at it and attempts to engage it in melee. This compulsion ends after resolving a melee attack against the creature. |
+| 99 | (Combat) All allied creatures are surrounded by a barrier as per the Barrier (ward) ability. This barrier lasts for 1 minute per caster level or until destroyed and fully replenishes its hit points each round at the start of the caster’s turn if not destroyed. |
+| 100 | All allied creatures within medium range of the target or center of the target area gain DR/- equal to caster level against the next attack that strikes them within the next 1 round per caster level. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-telekinesis" data-name="Telekinesis" data-group="Spheres">
+
+**Telekinesis**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | All creatures within close range of the caster are targeted by a grapple check as the Telekinetic Maneuver talent. These grapple attempts persist against each affected creature for 1 round per caster level or until the creature manages to break free of the grapple or the grapple attempt fails. Once grappled, the effect attempts to pin, then to deal damage each round. |
+| 2 | The caster is exhausted. |
+| 3 | The target spins in place, receiving a -2 to attack rolls but gaining +1 dodge bonus to AC for the duration of the lift. The target must succeed on a Fortitude save or be sickened for the duration of the lift. |
+| 4 | (Combat) The caster is stunned for 1 round. |
+| 5 | For 1 hour per caster level, unattended objects of a size that the caster can effect with lift within close range of the caster float 5 ft. about their normal position if not fastened down. When this effect ends or when an object leaves the affected area, it floats harmlessly to the ground. |
+| 6 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 7 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 8 | Telekinetic forces aid in movement, but haphazardly. For 1 round per caster level, every time a creature other than the caster ends their movement within close range of the caster, they are moved 1d6 squares in a random direction (if possible, determined as a splash weapon). |
+| 9 | The caster takes 1d4 Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 10 | Random Diminutive nonmagical objects orbit the caster for 1 hour per caster level, imposing a -1 penalty on Perception and concentration checks. |
+| 11 | The caster is bombarded with nearby Diminutive, unattended objects, taking 1 bludgeoning damage per caster level. |
+| 12 | All hostile creatures within close range of the caster are targeted by a bull rush check to move them directly away from the caster as the Telekinetic Maneuver talent. |
+| 13 | All creatures within close range of the caster are tripped as the Telekinetic Maneuver talent. |
+| 14 | All creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Any weapon successfully disarmed in this way immediately makes a single attack against its former wielder as the bludgeon ability then drops to the ground. |
+| 15 | The casting time increases by 2 steps. |
+| 16 | All creatures within close range of the caster are targeted by a bull rush maneuver straight downward as the Telekinetic Maneuver talent. This deals 1d6 points of bludgeoning damage for every 5 ft. a creature is unable to move. |
+| 17 | For 1 hour per caster level, the weight of the caster’s equipment is doubled. |
+| 18 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 19 | (Combat) The caster is dazed for 1 round. |
+| 20 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 21 | The target spins in place violently, receiving a -4 to attack rolls but gaining +2 dodge bonus to AC for the duration of the lift. The target must succeed on a Fortitude save or be nauseated for the duration of the lift. A new save may be made as a move action each round; success reducing the nauseated condition to sickened. |
+| 22 | For 1 hour per caster level, the weight of the caster’s equipment is halved. |
+| 23 | All creatures within close range of the target or center of the target area are crushed by a telekinetic force, suffering 1 bludgeoning damage per caster level. |
+| 24 | All creatures within close range of the caster (excluding the caster) are crushed by a telekinetic force, suffering 1 bludgeoning damage per caster level per round for 1 round per caster level. |
+| 25 | All hostile creatures within close range of the target are targeted by a bull rush maneuver straight downward as the Telekinetic Maneuver talent. This deals 1d6 bludgeoning damage for every 5 ft. a creature is unable to move. |
+| 26 | All allied creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Any weapon successfully disarmed in this way immediately makes a single attack against its former wielder as the bludgeon ability then drops to the ground. |
+| 27 | The caster is fatigued. |
+| 28 | For 1 day per caster level, the caster is immune to falling damage. |
+| 29 | The caster makes a single magical skill check against all Telekinesis sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 30 | (Combat) All allied creatures within close range of the caster are targeted by a bull rush maneuver straight downward as the Telekinetic Maneuver talent. This deals 1d6 bludgeoning damage for every 5 ft. a creature is unable to move. |
+| 31 | All allied creatures within close range of the caster are targeted by a grapple check as the Telekinetic Maneuver talent. These grapple attempts persist against each affected creature for 1 round per caster level or until the creature manages to break free of the grapple or the grapple attempt fails. Once grappled, the effect attempts to pin, then deal damage each round. |
+| 32 | All creatures within close range of the target are bull rushed away from the target as the Telekinetic Maneuver talent. |
+| 33 | All allied creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Weapons successfully disarmed in this way move toward the caster at up to his lift speed then drop to the ground. |
+| 34 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 35 | One object currently in the caster’s hands flies away at his lift speed and attempts to strike the nearest creature (other than the caster) within lift range as the bludgeon ability. The object drops to the ground after one such attack. |
+| 36 | All creatures within close range of the target are tripped as the Telekinetic Maneuver talent. |
+| 37 | For 1 hour per caster level, the loads of all creatures within lift range of the target are reduced by 5 lbs per caster level. |
+| 38 | (Combat) Movement becomes unstable around the caster. For 1 round per caster level, every time a creature (other than the caster) begins their movement within close range of the caster, they must succeed on a Will save or move in a random direction. Their movement pattern stays the same, but the direction moved is determined randomly, as a miss with a splash weapon. |
+| 39 | For 1 hour per caster level, the loads of all creatures within lift range of the target are increased by 5 lbs per caster level. |
+| 40 | For 1 round per caster level, one weapon in the caster’s possession but that is not currently wielded leaves the caster’s possession and attempts to stay as far from the caster as possible, to the limits of his lift range. |
+| 41 | Effect receives a +2 bonus to caster level. |
+| 42 | The target or creatures in the target area immediately fly 100 ft. in a random direction, (as a splash weapon miss). They move to the furthest safe space in this direction up to this distance and stop; they cannot slam into a wall or pass through or end the movement in an intrinsically dangerous space. |
+| 43 | All creatures within close range of the caster must succeed on a Will save or begin falling upward at a rate of 5 ft. per round. This effect prevents the creature from falling but otherwise has no impact on the creature’s movement for that round, provided it has a move speed suitable to its environment (flight if in the air, swim if below water, burrow if underground). This effect lasts for 1 round per caster level. |
+| 44 | (Combat) For 1 round per caster level, all ranged attacks are drawn to the caster, granting a +1 + 1 per 5 caster level circumstance bonus on all ranged attacks made with natural or manufactured weapons targeting the caster. |
+| 45 | One object currently in the caster’s hands flies away at his lift speed and attempts to strike the nearest hostile creature within lift range as the bludgeon ability. The object drops to the ground after one such attack. |
+| 46 | The casting time decreases by 2 steps. |
+| 47 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 48 | (Combat) Every creature within close range of the caster is suddenly tied up in any belts, laces, or straps that are part of their clothing. If they are wearing clothing or carrying belts or bags, they become entangled for 1 round per caster level. |
+| 49 | All creatures within close range of the caster are targeted by a drag maneuver as the Telekinetic Maneuver talent, moving them toward the caster. |
+| 50 | The casting time increases by 1 step. |
+| 51 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 52 | All hostile creatures within close range of the target are targeted by a drag maneuver toward the target as the Telekinetic Maneuver talent. |
+| 53 | Invisible force aids motion. For 1 round per caster level, all squares within close range of the caster cost half the normal movement cost. |
+| 54 | All allied creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Weapons successfully disarmed in this way move toward the caster at up to his lift speed and attempt and attack against him as the bludgeon ability, then drop to the ground. |
+| 55 | (Combat) The caster is nauseated for 1 round. |
+| 56 | All hostile creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Weapons successfully disarmed in this way move toward the caster at up to his lift speed then drop to the ground. |
+| 57 | Once per round for 1 round per caster level, a small unattended non-magical object (stone, twig, spoon, etc.) flies toward the caster’s head, inflicting 1 point of nonlethal damage, then falls unharmed to the ground. A successful Reflex save negates this damage each round. |
+| 58 | All hostile creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Any weapon successfully disarmed in this way immediately makes a single attack against its former wielder as the bludgeon ability then drops to the ground. |
+| 59 | For 1 hour per caster level, the loads of all creatures within lift range of the caster are increased by 5 lbs per caster level. |
+| 60 | All creatures within close range of the target are targeted by a bull rush maneuver straight downward as the Telekinetic Maneuver talent. This deals 1d6 points of bludgeoning damage for every 5 ft. a creature is unable to move. |
+| 61 | For 1 hour per caster level, the weight of the equipment of all creatures within close range is halved. |
+| 62 | (Combat) For 1 round per caster level, all ranged attacks near the caster are partially deflected, imposing a -1 - 1 per 5 caster level penalty on all ranged attacks made with natural or manufactured weapons targeting creatures within close range of the caster. |
+| 63 | (Combat) All allied creatures within close range of the target are targeted by a bull rush maneuver away from the target as the Telekinetic Maneuver talent. |
+| 64 | All hostile creatures within close range of the target or center of the target area are are targeted by a bull rush check to move them directly away from the target or center of the target area as the Telekinetic Maneuver talent. |
+| 65 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 66 | The caster immediately flies 100 ft. in a random direction, (as a splash weapon miss). The caster moves to the furthest safe space in this direction up to this distance and stops; the caster cannot slam into a wall or pass through or end the movement in an intrinsically dangerous space. |
+| 67 | All unattended objects of Small size or smaller within close range of the caster begin to spin slowly, like a top, for 1d6 rounds. |
+| 68 | For 1 day per caster level, the caster takes double falling damage. |
+| 69 | For 1 round per caster level, all ranged attacks are repelled from the caster, imposing a -1 - 1 per 5 caster level penalty on all ranged attacks made with natural or manufactured weapons targeting the caster for 1 round per caster level. |
+| 70 | One object currently in the caster’s hands flies away at his lift speed and attempts to strike the caster as the bludgeon ability. The object drops to the ground after one such attack. |
+| 71 | Telekinetic forced grab creatures’ fists and feet and force them to hit themselves. All creatures within close range of the caster (including the caster) must immediately deal their unarmed strike damage to themselves. |
+| 72 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 73 | The caster makes a single magical skill check against all Telekinesis sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 74 | For 1 hour per caster level, the weight of the equipment of all creatures within close range is doubled. |
+| 75 | Telekinetic force increases the weight of the target creature or object, allowing it to be treated as being 2 sizes larger than it is when calculating its bludgeoning damage. |
+| 76 | The caster floats 1 inch off the ground for 10 minutes per caster level. This has no impact on movement speeds or falling damage. |
+| 77 | The casting time decreases by 1 step. |
+| 78 | Roll again on the Universal wild magic table. |
+| 79 | For 1 hour per caster level, the loads of all creatures within lift range of the caster are reduced by 5 lbs per caster level. |
+| 80 | All creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Weapons successfully disarmed in this way move toward the caster at up to his lift speed then drop to the ground. |
+| 81 | All creatures within close range of the caster are bull rushed away from the caster as the Telekinetic Maneuver talent. |
+| 82 | The caster spins in place, receiving a -2 to attack rolls but gaining +1 dodge bonus to AC for the duration of the effect. The caster must succeed on a Fortitude save or be sickened for the duration of the effect. |
+| 83 | Invisible force hinders motion. For 1 round per caster level, all squares within close range of the caster cost double the normal movement cost and 5-foot steps are impossible. |
+| 84 | The caster has their feet manipulated telekinetically, making them dance uncontrollably. Their movement is halved. |
+| 85 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 86 | The caster loses access to this sphere for 1d6 rounds. |
+| 87 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 88 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 89 | (Combat) All allied creatures within close range of the caster are targeted by a bull rush maneuver away from the caster as the Telekinetic Maneuver talent. |
+| 90 | For 1 minute per caster level, the caster partially levitates, reducing ground-based movement speeds by half and taking a penalty to CMD against bullrush, drag, and reposition combat maneuvers equal to caster level. |
+| 91 | One object currently in the caster’s hands flies away at his lift speed and attempts to strike the nearest allied creature (other than the caster) within lift range as the bludgeon ability. The object drops to the ground after one such attack. |
+| 92 | All hostile creatures within close range of the target are targeted by a trip maneuver as the Telekinetic Maneuver talent. |
+| 93 | All hostile creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Weapons successfully disarmed in this way move toward the caster at up to his lift speed and attempt and attack against him as the bludgeon ability, then drop to the ground. |
+| 94 | All creatures within close range of the target are targeted by a drag maneuver as the Telekinetic Maneuver talent, moving them toward the target or center of the target area. |
+| 95 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 96 | All hostile creatures within close range of the caster are targeted by a trip maneuver as the Telekinetic Maneuver talent. |
+| 97 | All hostile creatures within close range of the caster are targeted by a drag maneuver toward the caster as the Telekinetic Maneuver talent. |
+| 98 | A random nearby unattended object of a size the caster can lift begins floating and follows the caster for 1 hour at the speed of the caster’s lift. |
+| 99 | All creatures within close range of the caster (but not the caster himself) are treated as if they were carrying a heavy load for 1 round per caster level, regardless of how much they are actually carrying. |
+| 100 | All creatures within close range of the caster have their held weapons targeted by a disarm maneuver as the Steal talent. Weapons successfully disarmed in this way move toward the caster at up to his lift speed and attempt and attack against him as the bludgeon ability, then drop to the ground. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-time" data-name="Time" data-group="Spheres">
+
+**Time**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | All hostile creatures within long range shift randomly and rapidly though time, imposing a 50% miss chance on all attacks against them. This lasts for 1d6 rounds. |
+| 2 | The caster sees a glimpse of the ancient past. The next time he is called upon to make a Knowledge (history) check (before 1 day per caster level passes), he does so with an insight bonus equal to the caster level. |
+| 3 | For 1 minute, affected creatures may not concentrate on any effect. |
+| 4 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 5 | The caster makes a single magical check against all Time sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 6 | The casting time increases by 2 steps. |
+| 7 | All allied creatures within close range of the target must succeed on a Will save or be slowed for 1d6 rounds. |
+| 8 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 9 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 10 | The caster is frozen in time as the Time Freeze talent for 1d4 rounds. |
+| 11 | All ongoing effects on the caster have their remaining durations halved. |
+| 12 | All allied creatures within close range of the caster may take an additional standard action immediately, but are dazed for 1 round immediately afterword if they do. |
+| 13 | All creatures within close range of the caster gain a 5 ft. + 5 ft. per 5 caster level enhancement bonus to all movement speeds for 10 minutes per caster level. |
+| 14 | The casting time decreases by 2 steps. |
+| 15 | For 1 minute, the caster may not concentrate on any effect. |
+| 16 | Roll again on the Universal wild magic table. |
+| 17 | The caster is fatigued. |
+| 18 | The caster’s perception is stuck in the past, imposing a -4 penalty on initiative and a -2 penalty on attack rolls and Will saves for 1 round per caster level. |
+| 19 | All creatures within long range shift randomly and rapidly though time, imposing a 50% miss chance on all attacks and effects targeting them. This lasts for 1d6 rounds. |
+| 20 | The caster takes 1d4 Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 21 | The weather within a 1-mile radius area centered on the caster suddenly changes to whatever it was 6 months previously for 1 day per caster level. This effect remains stationary. |
+| 22 | (Combat) For 10 rounds the caster’s personal timestream is scrambled. At the start of each turn he must rolls 1d6 and apply the result to that round: 1 - dazed, 2 - gains an extra standard action, 3 - staggered for 1 round, 4 - gains an extra move action, 5 - loses his standard action, but may take 2 swift actions, 6 - gains an extra standard action, but loses a move and a swift action. |
+| 23 | All creatures within close range of the caster must succeed on a Will save or be frozen in time as the Time Freeze talent for 1d4 rounds. |
+| 24 | All allied creatures within close range of the caster must succeed on a Will save or be frozen in time as the Time Freeze talent for 1d4 rounds. |
+| 25 | All creatures within close range of the target must succeed on a Will save or be slowed (as the Slow (time) ability) for 1d6 rounds. |
+| 26 | Each round for 1d6 rounds, the caster returns to the location where he began his previous turn. This effect functions even across planar boundaries. |
+| 27 | All creatures within close range must make Will saves or be removed from time for 1 round, then reappear in their previous spaces. If those spaces are occupied, they are shunted to the nearest open spaces in a random direction. |
+| 28 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 29 | The caster’s metabolism speeds up, doubling natural healing and multiplying daily food and water requirements by 4 for a number of days equal to caster level. |
+| 30 | (Combat) For 1 round per caster level, for allied creatures, all squares within close range of the caster cost double the normal movement cost and 5-foot steps are impossible. |
+| 31 | The caster loses his turn, but may take two turns of actions on his next turn. |
+| 32 | At a random time within the next 1d4 days, the caster is visited by an older version of themselves, transported from the future to speak to them for 1d4 minutes. This functions as the divination spell, except there is no chance of failure (provided, of course, that the older version of the caster would not intentionally lie to them). |
+| 33 | All creatures within close range must succeed on a Will save or age 1 age category per 5 caster levels as the Age talent for 1 minute per caster level. |
+| 34 | All allied creatures within close range of the caster gain a 5 ft. + 5 ft. per 5 caster level penalty to all movement speeds for 10 minutes per caster level. This cannot reduce a movement speed below 5 ft. |
+| 35 | All creatures within close range of the target must succeed on a Will save or be frozen in time as the Time Freeze talent for 1d4 rounds. |
+| 36 | All hostile creatures within close range of the target may take an additional standard action immediately, but are dazed for 1 round immediately afterword if they do. |
+| 37 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 38 | The next time the caster sleeps, he requires twice the amount of time to receive the normal benefits of the rest. |
+| 39 | (Combat) The caster is nauseated for 1 round. |
+| 40 | For 1 round per caster level, the caster stutters rapidly through time, imposing a 50% miss chance on all attacks made by or targeting him. Additionally, all effects originating from or including the caster that do not have an attack roll suffer a 50% failure chance. |
+| 41 | (Combat) For 1 round per caster level, for hostile creatures, all squares within close range of the caster cost double the normal movement cost and 5-foot steps are impossible. |
+| 42 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 43 | The caster is exhausted. |
+| 44 | All allied creatures within close range of the caster must succeed on a Will save or be slowed for 1d6 rounds. |
+| 45 | All creatures within close range of the caster take a 5 ft. + 5 ft. per 5 caster level penalty to all movement speeds for 10 minutes per caster level. This cannot reduce a movement speed below 5 ft. per round. |
+| 46 | (Combat) For 1 round per caster level, each hostile creature that ends its turn within close range of the caster must succeed on a Will save or be returned to the location it began its turn in. This effect does not cross planar boundaries. |
+| 47 | All actions since the end of the caster’s previous turn are undone, though any spell points spent on this effect are still lost. The caster is dazed for 1 round. |
+| 48 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 49 | All hostile creatures within close range of the caster must succeed on a Will save or be frozen in time as the Time Freeze talent for 1d4 rounds. |
+| 50 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 51 | All creatures within close range of the target may take an additional standard action immediately, but are dazed for 1 round immediately afterword if they do. |
+| 52 | All ongoing effects on the caster have their remaining durations doubled. |
+| 53 | All hostile creatures within close range of the caster gain a 5 ft. + 5 ft. per 5 caster level penalty to all movement speeds for 10 minutes per caster level. This cannot reduce a movement speed below 5 ft. per round. |
+| 54 | (Combat) For 1 round per caster level, each creature that ends its turn within close range of the caster must succeed on a Will save or be returned to the location it began its turn in. This effect does not cross planar boundaries. If this space is occupied, they are shunted to the nearest open space. |
+| 55 | For 1 minute per caster level, non-magical objects the caster touches temporarily age. Food becomes rotten, metal tarnished, cloth worn and threadbare. All objects return to their previous state when this effect ends. The change has no effect on hardness, hit points, or other attributes. |
+| 56 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 57 | The caster must take an additional standard action immediately, but is dazed for 1 round afterword. |
+| 58 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 59 | The caster makes a single magical check against all Time sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 60 | The caster gains a 5 ft. + 5 ft. per 5 caster level enhancement bonus to all movement speeds for 10 minutes per caster level. |
+| 61 | (Combat) For 1 round per caster level, each allied creature that ends its turn within close range of the caster must succeed on a Will save or be returned to the location it began its turn in. This effect does not cross planar boundaries. |
+| 62 | All creatures within close range of the target must succeed on a Will save or be hasted (as the Haste (time) ability) for 1d6 rounds. |
+| 63 | The next time the caster sleeps, he receives the full benefit of a night’s rest in half the normal time. |
+| 64 | The casting time decreases by 1 step. |
+| 65 | All hostile creatures within close range of the caster may take an additional standard action immediately, but are dazed for 1 round immediately afterword if they do. |
+| 66 | All allied creatures within medium range shift randomly and rapidly though time, imposing a 25% miss chance on all attacks against them. This lasts for 1d6 rounds. |
+| 67 | The caster gets younger by 1 age category per 5 caster levels as the Age talent for 10 minutes per caster level. |
+| 68 | All hostile creatures within close range must make Will saves or be removed from time for 1 round, then reappear in their previous spaces. If those spaces are occupied, they are shunted to the nearest open spaces in a random directions. |
+| 69 | The caster is removed from time for 1d6 rounds, then reappears in his previous space. If that space is occupied, the caster is shunted to the nearest open space in a random direction. |
+| 70 | All creatures within close range of the caster must succeed on a Will save or be slowed (as the Slow (time) ability) for 1d6 rounds. |
+| 71 | For 1 minute, the caster’s perception of time slows, allowing him to concentrate on a single effect as a free action each round. |
+| 72 | The target must succeed on a Will save or be frozen in time as the Time Freeze talent for 1d4 rounds. |
+| 73 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 74 | All hostile creatures within close range of the caster must succeed on a Will save or be slowed for 1d6 rounds. |
+| 75 | (Combat) For 1 round per caster level, all squares within close range of the caster cost double the normal movement cost and 5-foot steps are impossible. |
+| 76 | The casting time increases by 1 step. |
+| 77 | For 1d6 rounds, all damage the caster is dealt is delayed. After this time expires, all delayed damage is immediately dealt to the caster. |
+| 78 | All ongoing effects on the target or creatures in the target area have their remaining durations doubled. |
+| 79 | (Combat) For 1 round per caster level, all squares within close range of the caster cost half the normal movement cost. |
+| 80 | All hostile creatures within close range of the target must succeed on a Will save or be slowed for 1d6 rounds. |
+| 81 | The caster loses access to this sphere for 1d6 rounds. |
+| 82 | All ongoing effects on the target or creatures in the target area have their remaining durations halved. |
+| 83 | All creatures within close range must succeed on a Will save or get younger by 1 age category per 5 caster levels as the Age talent for 1 minute per caster level. |
+| 84 | At the beginning of the caster’s next turn, he is restored to the condition and location he was in at the beginning of the current turn. This may end or restore any ongoing effects (such as poison, disease, etc.). |
+| 85 | The caster’s metabolism slows, halving natural healing and reducing daily food and water requirements to 1/4 normal for a number of days equal to caster level. |
+| 86 | The caster ages 1 age category per 5 caster levels as the Age talent for 10 minutes per caster level. |
+| 87 | All creatures within close range of the caster must succeed on a Will save or be hasted (as the Haste (time) ability) for 1d6 rounds. |
+| 88 | (Combat) The caster is dazed for 1 round. |
+| 89 | For 1 minute the creature or creatures affected by the triggering effect have their perception of time slowed, allowing them to concentrate on a single effect as a free action each round. |
+| 90 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 91 | An area out to long range of the caster is frozen in time. Creatures within this area perceive 1 minute of time as passing, but no effects of any kind occur. Durations do not elapse and no actions of any kind can be taken. Creatures outside this area are unaware of the experience of those affected. |
+| 92 | Effect receives a +2 bonus to caster level. |
+| 93 | (Combat) The caster is stunned for 1 round. |
+| 94 | The caster’s allies within close range must make Will saves or be removed from time for 1 round, then reappears in their previous spaces. If those spaces are occupied, they are shunted to the nearest open spaces in a random directions. |
+| 95 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 96 | The caster sees into the future and gains instantaneous knowledge of what he will have for breakfast tomorrow. |
+| 97 | The caster has their mind inhabited by that of their childhood self for 1 minute per caster level. Aside from behavioral changes, the caster also gains 2 negative levels that cannot be removed for this duration, as their younger self is not as adept at using their power as the older self is. These negative levels cannot kill the character if they would reduce the target to 0 or fewer levels. |
+| 98 | The caster and all creatures within close range become looped in time. The next round they may act normally. The round after that, they must perform the exact same actions again; traveling the same direction and number of squares (to the best of their ability), attack, use the same spell or item, etc. |
+| 99 | For 1d6 rounds, affected creatures stutter rapidly through time, imposing a 50% miss chance on all attacks made by or targeting them. Additionally, all effects originating from or targeting the creatures that do not have an attack roll suffer a 50% failure chance. |
+| 100 | All creatures within close range of the caster may take an additional standard action immediately, but are dazed for 1 round immediately afterword if they do. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-war" data-name="War" data-group="Spheres">
+
+**War**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 2 | All allied creatures within medium range of the caster share all teamwork feats possessed by the caster for 1 round per caster level. |
+| 3 | All affected creatures add the caster level to their skill checks for 1 round. |
+| 4 | All affected creatures subtract the caster level from their skills checks for 1 round. |
+| 5 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 6 | The caster may immediately make an attack action. |
+| 7 | The caster makes a single magical skill check against all War sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 8 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 9 | All creatures within close range of the caster gain an additional attack on any full attack made before the end of their next turn. This bonus attack stacks with the haste alter time ability of the Time sphere, the haste spell, and similar effects. |
+| 10 | (Combat) All affected creatures subtract caster level to the damage of their next attack (minimum 0 damage). |
+| 11 | For 1 round per caster level, all creatures within close range of the caster may roll twice and take the better result on any attacks made against creatures that dealt damage to them since the start of their previous turn. |
+| 12 | (Combat) Until the end of the caster’s next turn, all movement by any allied creature within close range of the caster, including 5-foot steps, provokes attacks of opportunity. |
+| 13 | All affected creatures subtract half caster level (minimum 1) to CMB for 1 round. |
+| 14 | (Combat) All hostile creatures within medium range of the caster share all teamwork feats possessed by the caster for 1 round per caster level. |
+| 15 | The caster makes a single magical skill check against all War sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 16 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 17 | The next attack roll made by an allied creature against a target other than the caster within close range of the caster that would have been capable of targeting the caster is instead resolved against the caster. The caster receives all the effects of the attack as if he was the original target. |
+| 18 | (Combat) All hostile creatures within close range of the target or center of the target area may take a free move action immediately. |
+| 19 | All allied creatures within close range of the caster may make an attack action as an immediate action. |
+| 20 | (Combat) Creatures within close range of the caster double the bonus from flanking for 1 round per caster level. |
+| 21 | (Combat) All hostile creatures within close range of the caster may make an attack action as an immediate action. |
+| 22 | The next attack roll made by a creature against a target other than the caster within close range of the caster that would have been capable of targeting the caster is instead resolved against the caster. The caster receives all the effects of the attack as if he was the original target. |
+| 23 | Effect receives a +2 bonus to caster level. |
+| 24 | The caster takes 1d4 Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 25 | For 1 round per caster level, all hostile creatures within close range of the caster may roll twice and take the better result on any attacks made against creatures that dealt damage to them since the start of their previous turn. |
+| 26 | All hostile creatures within medium range of the caster lose the benefits of their teamwork feats for 1d6 rounds. |
+| 27 | (Combat) For 1 round per caster level, all allied creatures within close range of the caster gain 1 temporary hit point per caster level each round. These temporary hit points do not stack with themselves or any other source of temporary hit points and disappear as soon as the creature is outside this effect. |
+| 28 | The caster is affected by the greater charm option of the Hostility talent of the Mind sphere for 1d6 rounds. |
+| 29 | All affected creatures subtract half caster level (minimum 1) to all saves for 1 round. |
+| 30 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 31 | (Combat) All allied creatures within medium range of the target or center of the target area lose the benefits of their teamwork feats for 1d6 rounds. |
+| 32 | Hostile creatures treat all squares within close range of the caster as difficult terrain for 1d6 rounds. |
+| 33 | (Combat) Allied creatures within close range of the caster cannot benefit from flanking bonuses for 1 round per caster level. |
+| 34 | (Combat) The caster is stunned for 1 round. |
+| 35 | All creatures within medium range of the target or center of the target area share all teamwork feats possessed by the caster for 1 round per caster level. |
+| 36 | The casting time increases by 1 step. |
+| 37 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 38 | All affected creatures subtract half caster level (minimum 1) to their AC for 1 round. |
+| 39 | All affected creatures provoke attacks of opportunity when making 5 foot steps for 1 round. |
+| 40 | Roll again on the Universal wild magic table. |
+| 41 | (Combat) All creatures within close range of the caster may immediately make an attack action. |
+| 42 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 43 | (Combat) The caster is dazed for 1 round. |
+| 44 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 45 | (Combat) The caster loses the benefits of his teamwork feats for 1 round per caster level. |
+| 46 | All affected creatures add half caster level (minimum 1) to their AC for 1 round. |
+| 47 | (Combat) All creatures within medium range of the target may take a free 5-foot step immediately. |
+| 48 | (Combat) All creatures within close range of the caster may make an attack action as an immediate action. |
+| 49 | All affected creatures add half caster level (minimum 1) to CMB for 1 round. |
+| 50 | (Combat) Until the end of the caster’s next turn, all movement by any creature within close range of the caster, including 5-foot steps, provokes attacks of opportunity. |
+| 51 | (Combat) All hostile creatures within medium range of the caster may take a free 5-foot step immediately. |
+| 52 | (Combat) For 1 round per caster level, all hostile creatures within close range of the caster gain 2 temporary hit points per caster level each round. These temporary hit points do not stack with themselves or any other source of temporary hit points and disappear as soon as the creature is outside this effect. |
+| 53 | Ferocious warcries sound from the caster’s square, breaking Stealth. All creatures within 60 ft. must pass a Will save or become frightened for 1 round. |
+| 54 | All allied creatures within close range of the target may take a free move action immediately. |
+| 55 | All allied creatures within medium range of the target or center of the target area share all teamwork feats possessed by the caster for 1 round per caster level. |
+| 56 | (Combat) All creatures within close range lose their armor bonus to AC until they move from their current squares. |
+| 57 | The next time during the next 24 hours that the target or a creature in the target area perceives a creature that appears to pose a physical threat, he charges directly at it and attempts to engage it in melee. This compulsion ends after the caster resolves one melee attack roll. |
+| 58 | All creatures within close range of the caster must succeed on a Will save or be affected by the greater charm option of the Hostility talent of the Mind sphere for 1d6 rounds. |
+| 59 | The casting time increases by 2 steps. |
+| 60 | (Combat) The caster is nauseated for 1 round. |
+| 61 | (Combat) All creatures within close range lose their natural armor bonus to AC until they move from their current squares. |
+| 62 | Allied creatures within close range of the caster double the bonus from flanking for 1 round per caster level. |
+| 63 | (Combat) Creatures within close range of the caster cannot benefit from flanking bonuses for 1 round per caster level. |
+| 64 | The casting time decreases by 1 step. |
+| 65 | For 1 round per caster level, all allied creatures within close range of the caster may roll twice and take the better result on any attacks made against creatures that dealt damage to them since the start of their previous turn. |
+| 66 | All allied creatures within close range of the caster may immediately make an attack action. |
+| 67 | All hostile creatures within medium range of the target or center of the target area lose the benefits of their teamwork feats for 1d6 rounds. |
+| 68 | (Combat) Hostile creatures within close range of the caster double the bonus from flanking for 1 round per caster level. |
+| 69 | (Combat) All allied creatures within medium range of the caster lose the benefits of their teamwork feats for 1d6 rounds. |
+| 70 | (Combat) For 1d6 rounds, creatures within close range of the caster are unable to recover hit points by any means. |
+| 71 | The next attack roll made by a hostile creature against a target other than the caster within close range of the caster that would have been capable of targeting the caster is instead resolved against the caster. The caster receives all the effects of the attack as if he was the original target. |
+| 72 | All affected creatures add caster level to the damage of their next attack. |
+| 73 | (Combat) All creatures within close range lose their shield bonus to AC until they move from their current squares. |
+| 74 | (Combat) All hostile creatures within close range have their natural armor bonus to AC doubled until they move from their current squares. |
+| 75 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 76 | (Combat) All hostile creatures within close range of the caster may immediately make an attack action. |
+| 77 | All allied creatures within medium range of the target may take a free 5-foot step immediately. |
+| 78 | (Combat) All creatures within medium range of the target or center of the target area lose the benefits of their teamwork feats for 1d6 rounds. |
+| 79 | The caster loses access to this sphere for 1d6 rounds. |
+| 80 | (Combat) Until the end of the caster’s next turn, all movement by any hostile creature within close range of the caster, including 5-foot steps, provokes attacks of opportunity. |
+| 81 | The caster is fatigued. |
+| 82 | All affected creatures add half caster level (minimum 1) to all saves for 1 round. |
+| 83 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 84 | (Combat) All hostile creatures within medium range may move up to their speed as a swift action on their next turn. |
+| 85 | All creatures within medium range of the caster share all teamwork feats possessed by the caster for 1 round per caster level. |
+| 86 | (Combat) All hostile creatures within medium range of the target or center of the target area share all teamwork feats possessed by the caster for 1 round per caster level. |
+| 87 | (Combat) All creatures within medium range of the caster lose the benefits of their teamwork feats for 1d6 rounds. |
+| 88 | The caster is exhausted. |
+| 89 | (Combat) All creatures within close range have their shield bonus to AC doubled until they move from their current squares. |
+| 90 | The caster gains a teamwork feat of his choice for 10 minutes per caster level. He must meet any prerequisites. |
+| 91 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 92 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 93 | (Combat) All hostile creatures within close range of the caster may take a free move action immediately. |
+| 94 | (Combat) All creatures treat all squares within close range of the caster as difficult terrain for 1d6 rounds. |
+| 95 | The next time during the next 24 hours that the caster perceives a creature that appears to pose a physical threat, he charges directly at it and attempts to engage it in melee. This compulsion ends after the caster resolves one melee attack roll. |
+| 96 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 97 | The casting time decreases by 2 steps. |
+| 98 | (Combat) All creatures within medium range may move up to their speed as a swift action on their next turn. |
+| 99 | Hostile creatures within close range of the caster cannot benefit from flanking bonuses for 1 round per caster level. |
+| 100 | (Combat) Allied creatures treat all squares within close range of the caster as difficult terrain for 1d6 rounds. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-warp" data-name="Warp" data-group="Spheres">
+
+**Warp**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | (Combat) The nearest hostile creature not adjacent to the caster is teleported adjacent to the caster. |
+| 2 | All creatures within close range of the target must succeed on a Will save or have any items held in their hands teleported 1d6 squares toward the caster. |
+| 3 | The caster is teleported adjacent to one affected creature of the GM’s choice. |
+| 4 | The casting time decreases by 2 steps. |
+| 5 | All allied creatures within close range of the caster must succeed on a Will save or have their armor teleported 5 ft. in a random direction. |
+| 6 | All hostile creatures within close range of the target must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane is flat, featureless, infinite, unaligned, and features normal magic and gravity. |
+| 7 | An extra-dimensional pit opens under the target or target area. Any affected creature may succeed on a Reflex save to avoid falling into the pit, which has a diameter equal to the target’s space or the minimum area required to envelop all affected targets and a depth of 5 ft. + 5 ft. per 2 caster levels and persists for 1 round per caster level. If the target was being teleported, the square instead opens up under the target’s destination. Climbing out of this pit requires a Climb check with a DC equal to 10 + caster level. If the triggering effect creates a pit, this result increases the depth of that pit. |
+| 8 | The caster and target or creature nearest the center of the target area switch places after the casting is resolved. If either is too large for the receiving space, they are shunted to the nearest adequate space. |
+| 9 | A small elemental is called adjacent to the caster. This elemental is hostile to all creatures and attacks the nearest to the best of its ability. The size of this elemental increases with caster level: CL 5 - medium, CL 10 - large, CL 15 - huge, CL 20 - elder. Roll 1d4 to determine the elemental type, 1 - air, 2 - earth, 3 - fire, 4 - water. |
+| 10 | A rift opens adjacent to the caster, opening to the elemental plane of earth. This rift ejects 10 lbs of sand and gravel per caster level per round for 1 round per caster level. |
+| 11 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 12 | The casting time increases by 1 step. |
+| 13 | A rift opens adjacent to the caster, opening to the paraelemental plane of mud. This rift ejects mud which covers a 5-ft. radius in deep mud, increasing by 5 ft. each round for 1 round per caster level, causing covered squares to become difficult terrain. |
+| 14 | (Combat) All squares out to close range of the caster fold and shrink, allowing any allied creature moving through them to move two squares for each square of movement spent. |
+| 15 | (Combat) All squares out to close range of the caster fold and shrink, allowing any hostile creature moving through them to move two squares for each square of movement spent. |
+| 16 | The caster is exhausted. |
+| 17 | (Combat) The caster is stunned for 1 round. |
+| 18 | All extra-dimensional storage within medium range of the caster empty their contents in their current square. Creatures with attended extradimensional storage or storage from ongoing spell effects are allowed a Will save to prevent this effect. |
+| 19 | All creatures within close range of the caster must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane is flat, featureless, infinite, unaligned, and features normal magic and gravity. |
+| 20 | (Combat) For 1 round per caster level, each hostile creature that ends its turn within close range of the caster must succeed on a Will save or be returned to the location it began its turn in. This effect does not cross planar boundaries. |
+| 21 | (Combat) The caster teleports to the nearest square adjacent to an allied creature. |
+| 22 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 23 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 24 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 25 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 26 | Roll again on the Universal wild magic table. |
+| 27 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 28 | All creatures within close range of the caster (including the caster) are instantly teleported 5 ft. per caster level into the air. If that space is occupied, the creature is shunted to the nearest open space. |
+| 29 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 30 | (Combat) All hostile creatures within close range of the caster must succeed on a Will save or have their armor teleported 5 ft. in a random direction. |
+| 31 | (Combat) For 1 round per caster level, all creatures within medium range of the caster gain the ability to complete their normal movements without passing through any intervening squares. |
+| 32 | Random portals open and close within close range of the caster for 1 round per caster level. Whenever an attack, spell, or other effect is directed at a target within this area, there is a 20% chance that it instead targets the caster. |
+| 33 | (Combat) The caster switches position with the nearest hostile creature as per the Swap Placement talent. |
+| 34 | (Combat) As space is bent, all movement made toward the caster for 1 minute per caster level forces the moving creature to move 2 squares for every square. A creature cannot choose to move only 5 ft. toward the caster unless that movement would bring it adjacent to the caster. |
+| 35 | All allied creatures within close range of the target must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane is flat, featureless, infinite, unaligned, and features normal magic and gravity. |
+| 36 | Non-native outsiders within close range of the caster must succeed on a Will save or be banished to their home plane. |
+| 37 | A rift opens adjacent to the caster, opening to the paraelemental plane of steam. This rift deals 1d6 fire damage damage to all creatures within 5 ft. + 5 ft. per 2 caster levels radius each round for 1 round per caster level and attempts a bullrush check against them as the Air Blast talent of the Destruction sphere. |
+| 38 | All extra-dimensional storage within medium range of the target empty their contents in their current square. Creatures with attended extradimensional storage or storage from ongoing spell effects are allowed a Will save to negate this effect for their extradimensional spaces. |
+| 39 | For 10 minutes per caster level, all calling, summoning, and teleportation effects within long range of the caster automatically fail, wasting any spell points, spell slots, and actions used to cast them. |
+| 40 | A pit appears under the caster with a depth of 5 ft. per caster level and a radius of 5 ft. plus 5 ft. per 5 caster levels. This pit persists for 1 round per caster level. Climbing out of this pit requires a Climb check with a DC equal to 10 + caster level. Creatures within this area fall into the pit with no save, though no creature takes falling damage nor falls prone. |
+| 41 | Each round for 1d6 rounds, the caster returns to the location where he began his previous turn. This effect functions even across planar boundaries. |
+| 42 | The caster gains the benefit of the Teleportation Beacon talent fixed to his square at the time this result is triggered. The beacon persists for 10 minutes per caster level. |
+| 43 | (Combat) The caster is nauseated for 1 round. |
+| 44 | All hostile creatures within close range of the caster must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane is flat, featureless, infinite, unaligned, and features normal magic and gravity. |
+| 45 | All targets arrive at their destinations 1d4 rounds later. Creatures entering an extradimensional space are automatically expelled 1d4 rounds later. |
+| 46 | (Combat) For 1 round per caster level, each allied creature that ends its turn within close range of the caster must succeed on a Will save or be returned to the location it began its turn in. This effect does not cross planar boundaries. |
+| 47 | (Combat) All squares out to close range of the caster fold and shrink, allowing any creature moving through them to move two squares for each square of movement spent. |
+| 48 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 49 | Spiders are instantly teleported into the caster’s space, creating a swarm. Treat this as a spider swarm that acts according to its instincts and persists until destroyed. |
+| 50 | All creatures within close range of the caster must succeed on a Will save or have any items held in their hands teleported 1d6 squares toward the caster. |
+| 51 | All hostile creatures within close range of the target must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane has planar traits as chosen by the caster. |
+| 52 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 53 | (Combat) The caster is dazed for 1 round. |
+| 54 | A rift opens adjacent to the caster, opening to the elemental plane of air. This rift deals 1d6 bludgeoning damage damage to all creatures within 5 ft. + 5 ft. per 2 caster levels radius each round for 1 round per caster level and attempts a bullrush check against them as the Air Blast talent of the Destruction sphere. |
+| 55 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 56 | (Combat) All squares out to close range of the caster stretch, requiring any creature moving through them to spend two squares of movement each and preventing 5-foot steps. |
+| 57 | The caster loses access to this sphere for 1d6 rounds. |
+| 58 | A rift opens adjacent to the caster, opening to the elemental plane of fire. This rift deals 1d6 fire damage to all creatures within 5 ft. + 5 ft. per 2 caster levels radius each round for 1 round per caster level. |
+| 59 | Any items in the caster’s hands teleport 1d6 squares in a random direction. |
+| 60 | The caster makes a single magical skill check against all Warp sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 61 | The casting time decreases by 1 step. |
+| 62 | The caster may teleport within medium range as a free action. |
+| 63 | The caster may teleport within medium range as a free action, but is dazed for 1 round if he does so. The caster is not aware of the daze effect before teleporting. |
+| 64 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 65 | The caster is instantly teleported 5 ft. per caster level directly upward into the air. If that space is occupied, the caster is shunted to the nearest open space. |
+| 66 | (Combat) All squares out to close range of the caster stretch, requiring any allied creature moving through them to spend two squares of movement each and preventing 5-foot steps. |
+| 67 | (Combat) For 1 round per caster level, all allied creatures within close range of the caster gain the ability to complete their normal movements without passing through any intervening squares. |
+| 68 | (Combat) The nearest allied creature not adjacent to the caster is teleported adjacent to the caster. |
+| 69 | The caster takes 1d4 Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 70 | All creatures within close range of the target must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane has planar traits as chosen by the caster. |
+| 71 | Any hostile creatures that threaten an affected creature may choose to be teleported along with or enter the extradimensional space alongside the target. Moving into an extradimensional space in this way does not provoke at attack of opportunity. |
+| 72 | All allied creatures within close range of the target must succeed on a Will save or have their armor teleported 5 ft. in a random direction. |
+| 73 | (Combat) For 1 round per caster level, all hostile creatures within long range of the caster gain the ability to complete their normal movements without passing through any intervening squares. |
+| 74 | (Combat) For 1 round per caster level, each creature that ends its turn within close range of the caster must succeed on a Will save or be returned to the location it began its turn in. This effect does not cross planar boundaries. |
+| 75 | All allied creatures within close range of the target must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane has planar traits as chosen by the caster. |
+| 76 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 77 | The caster gains the benefit of the Teleportation Beacon talent fixed to a square 1d20 miles in a random direction. The beacon persists for 1 hour per caster level. |
+| 78 | Effect receives a +2 bonus to caster level. |
+| 79 | The caster is shunted to the ethereal plane for 1 round per caster level. |
+| 80 | The caster’s armor teleports 5 ft. in a random direction. |
+| 81 | All creatures within close range of the target must succeed on a Will save or have their armor teleported 5 ft. in a random direction. |
+| 82 | A Tiny plush toy appears in the caster’s hand. If the caster does not have an empty hand, one held object is immediately dropped to make room for the toy. The toy returns to its place of origin after 1 minute per caster level. |
+| 83 | The caster makes a single magical skill check against all Warp sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 84 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 85 | A rift opens adjacent to the caster, opening to the elemental plane of water. This rift ejects 10 gallons of water per caster level per round for 1 round per caster level. |
+| 86 | A pit appears under the caster with a depth of 5 ft. per caster level and a radius of 5 ft. plus 5 ft. per 5 caster levels. This pit persists for 1 round per caster level. Climbing out of this pit requires a Climb check with a DC equal to 10 + caster level. Creatures other than the caster are permitted a Reflex save to not fall in. The caster and any creatures that fail this save take falling damage as normal. |
+| 87 | All targets or creatures that enter the resultant extradimensional space must succeed on a Will save or take 1d6 points of damage per even caster level (minimum 1d6) untyped damage as the Splinter talent. This damage stacks with that of the Splinter talent. |
+| 88 | All allied creatures within close range of the caster must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane has planar traits as chosen by the caster. |
+| 89 | (Combat) The caster teleports to the nearest square adjacent to a hostile creature. |
+| 90 | The caster is fatigued. |
+| 91 | A small elemental is called adjacent to the caster. This elemental is hostile to the caster and his allies. The size of this elemental increases with caster level: CL 5 - medium, CL 10 - large, CL 15 - huge, CL 20 - elder. Roll 1d4 to determine the elemental type, 1 - air, 2 - earth, 3 - fire, 4 - water. |
+| 92 | All creatures within close range of the target must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane is flat, featureless, infinite, unaligned, and features normal magic and gravity. |
+| 93 | All allied creatures within close range of the target must succeed on a Will save or have any items held in their hands teleported 1d6 squares toward the caster. |
+| 94 | A rift appears adjacent to the caster, opening a portal to a plane of the GM’s choice (the denizens of the chosen plane should be naturally hostile to the caster). One creature of the GM’s choice native to the selected plane with a CR not exceeding caster level appears out of the rift each round for a 1d6 rounds and attacks the caster and his allies. |
+| 95 | (Combat) The nearest creature not adjacent to the caster is teleported adjacent to the caster. |
+| 96 | The casting time increases by 2 steps. |
+| 97 | All creatures within close range of the caster must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane has planar traits as chosen by the caster. |
+| 98 | All hostile creatures within close range of the caster must succeed on a Will save or be shunted to an empty demiplane for 1d6 rounds. This demiplane has planar traits as chosen by the caster. |
+| 99 | (Combat) All hostile creatures within close range of the target must succeed on a Will save or have their armor teleported 5 ft. in a random direction. |
+| 100 | All creatures within close range of the caster must succeed on a Will save or have their armor teleported 5 ft. in a random direction. |
+
+</div>
+
+<div class="sop-wm-panel" id="wm-weather" data-name="Weather" data-group="Spheres">
+
+**Weather**
+
+<div class="sop-roller"></div>
+
+| d100 | Result |
+| --- | --- |
+| 1 | The spell point cost of the effect increases by 1. If the caster does not have enough spell points, he is instead staggered until the end of his next turn. |
+| 2 | All creatures within close range of the caster gain a personal rain cloud creating a category 2 rain in any space they occupy. This cloud will follow an affected creature for 10 minutes per caster level. The cloud is always above the creature’s spaces, even when teleporting or crossing planar boundaries. |
+| 3 | Effect receives a +2 bonus to caster level. |
+| 4 | (Combat) For 1 round per caster level, a large static buildup occurs in all allied creatures within long range of the caster, causing hair to stand on end and creating a tingling sensation for 1 round per caster level. All creatures in the area take a -1 penalty on saves against effects that deal electricity damage. This penalty increases by 1 for every 5 caster levels. |
+| 5 | All creatures within close range of the target or center of the target area are struck by lightning, taking 1d6 electrical damage plus 1 per caster level. A Reflex save negates this damage. |
+| 6 | The caster loses access to this sphere for 1d6 rounds. |
+| 7 | All allies of the caster treats all categories he is affecting as 1 higher for the duration of the effect. |
+| 8 | The casting time increases by 1 step. |
+| 9 | The caster treats all categories he is affecting as 1 higher for the duration of the effect. |
+| 10 | Roll twice and take both results. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 11 | (Combat) Fickle winds aid motion. For 1 round per caster level, for allied creatures, all squares within close range of the caster cost half the normal movement cost. |
+| 12 | All hostile creatures within close range of the caster are struck by lightning, dealing 1d6 electricity damage per 4 caster levels (minimum 1d6). A Reflex save negates this damage. |
+| 13 | Wind within the caster’s control weather area blows downward in addition to its other effects. This causes all creatures within the area to be encumbered as if by a heavy load. Those already encumbered by a heavy load are instead unable to move. |
+| 14 | For 1 hour per caster level, a dramatic fog covers the area around the caster’s feet. This does not provide any concealment to the caster, but may obscure caltrops, tripwires, and other low-lying objects. |
+| 15 | (Combat) Fickle winds hinder motion. For 1 round per caster level, all squares within close range of the caster cost double the normal movement cost and 5-foot steps are impossible. |
+| 16 | The caster makes a single magical skill check against all Weather sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved before the triggering effect. |
+| 17 | The caster loses knowledge of any of the talents used in the effect (but not the base sphere) for the length of the effect (minimum 1 round). |
+| 18 | The effect fails, but the action is not lost. Spell points or spell slots spent are lost. |
+| 19 | Roll twice and choose the result. Ignore any results that require rerolls. If both rolls thus ignored, there is no effect. |
+| 20 | Wind within the caster’s control weather area blows downward in addition to its other effects. This causes all hostile creatures within the area to be encumbered as if by a heavy load. Those already encumbered by a heavy load are instead unable to move. |
+| 21 | The spell point cost of the effect increases by 1d4. If the caster does not have enough spell points, he is instead dazed until the end of his next turn. |
+| 22 | (Combat) Fickle winds aid motion. For 1 round per caster level, all squares within close range of the caster cost half the normal movement cost. |
+| 23 | Roll again on the Universal wild magic table. |
+| 24 | The caster makes a single magical skill check against all Weather sphere effects within medium range to dispel them as if using the Counterspell feat. This is resolved after the triggering effect. |
+| 25 | (Combat) Fickle winds aid motion. For 1 round per caster level, for hostile creatures, all squares within close range of the caster cost half the normal movement cost. |
+| 26 | Hail falls within close range of the center of the target or target area for 1 round per caster level, dealing 1 bludgeoning damage per caster level to all creatures and unattended objects. A successful Reflex save each round negates this damage. |
+| 27 | The effect fails and the action is lost. Spell points or spell slots are not lost. |
+| 28 | For 1 round per caster level, the caster is polymorphed into an air elemental as the Elemental Transformation talent of the Alteration sphere, granting only the elemental resistance (electricity) ability as a trait. This overrides any polymorph effects currently active on the caster. |
+| 29 | The casting time increases by 2 steps. |
+| 30 | The casting time decreases by 1 step. |
+| 31 | All allied creatures within close range of the caster are struck by lightning, dealing 1d6 electricity damage per 4 caster levels (minimum 1d6). A Reflex save negates this damage. |
+| 32 | (Combat) The caster is nauseated for 1 round. |
+| 33 | The caster is exhausted. |
+| 34 | The caster takes a number of points of ability damage to his casting attribute equal to the effect’s caster level/4 (minimum 1) even if he would normally be immune to ability damage. |
+| 35 | (Combat) The caster is entangled by a miniature tornado for 1d6 rounds. |
+| 36 | Wind within the caster’s control weather area blows upward in addition to its other effects. This acts as the Lighten talent of the Enhancement sphere on all creatures within the area, though does not permit a save. |
+| 37 | Regardless of other weather conditions, a heavy fog (per category 2 rain) covers an area out to close range of the caster for 1 round per caster level. This effect follows the caster. |
+| 38 | All hostile creatures within the area of effect are bull rushed away from the caster by sudden winds, using caster level plus CAM in place of CMB. This check is rolled once for all affected creatures and is rolled again each round for 1d6 rounds. |
+| 39 | All creatures within close range of the caster are struck by lightning, taking 1d6 electrical damage plus 1 per caster level. A Reflex save negates this damage. |
+| 40 | For 1 minute per caster level, whistling winds render all creatures within close range of the caster deaf. |
+| 41 | Fickle winds blow away any object the caster tries to pick up for 1 hour per caster level, increasing the action required to pick up any unattended object to a full-round action. |
+| 42 | For 1 minute per caster level, whistling winds render the caster deaf. |
+| 43 | All creatures within the area of effect are bull rushed toward the caster by sudden winds, using caster level plus CAM in place of CMB. This check is rolled once for all creatures and is rolled again each round for 1d6 rounds. |
+| 44 | Wind within the caster’s control weather area blows downward in addition to its other effects. This causes all allied creatures within the area to be encumbered as if by a heavy load. Those already encumbered by a heavy load are instead unable to move. |
+| 45 | All creatures within close range of the caster are struck by lightning, dealing 1d6 electricity damage per 4 caster levels (minimum 1d6). A Reflex save negates this damage. |
+| 46 | All allies of the caster treats all categories he is affecting as 2 higher for the duration of the effect. |
+| 47 | The casting time decreases by 2 steps. |
+| 48 | The caster is fatigued. |
+| 49 | Hail falls within close range of the caster for 1 round per caster level, dealing 1 bludgeoning damage per caster level to all creatures and unattended objects. A successful Reflex save each round negates this damage. |
+| 50 | All creatures within the area of effect are bull rushed away from the caster by sudden winds, using caster level plus CAM in place of CMB. This check is rolled once for all creatures and is rolled again each round for 1d6 rounds. |
+| 51 | All creatures within close range of the target or target area must pass Reflex saves or be entangled by miniature tornadoes for 1d6 rounds. |
+| 52 | Wind within the caster’s control weather area blows upward in addition to its other effects. This acts as the Lighten talent of the Enhancement sphere on all hostile creatures within the area, though does not permit a save. |
+| 53 | The caster treats all categories he is affecting as 2 lower for the duration of the effect. |
+| 54 | The caster treats all categories he is affecting as 2 higher for the duration of the effect. |
+| 55 | The caster is struck by lightning, dealing 1d6 electricity damage per 2 caster levels (minimum 1d6). A Reflex save negates this damage. |
+| 56 | A rain of frogs falls within close range of the caster for 1 round per caster level, dealing 1 bludgeoning damage damage per caster level to all creatures and unattended objects and creating difficult terrain until 1d6 rounds after the effect ends, after which the surviving frogs disperse. A successful Reflex save each round negates this damage. |
+| 57 | Boiling rain falls within close range of the caster for 1 round per caster level, dealing 1 fire damage per caster level to all creatures and unattended objects. A successful Reflex save each round negates this damage. |
+| 58 | All allied creatures within the area of effect are bull rushed toward the caster by sudden winds, using caster level plus CAM in place of CMB. This check is rolled once for all affected creatures and is rolled again each round for 1d6 rounds. |
+| 59 | All creatures within long range of the caster suffer the effects of being exposed to 1 hour of category 3 heat. |
+| 60 | Boiling rain falls within close range of the target or center of the target area for 1 round per caster level, dealing 1 fire damage per caster level to all creatures and unattended objects. A successful Reflex save each round negates this damage. |
+| 61 | All allies of the caster treats all categories he is affecting as 1 lower for the duration of the effect. |
+| 62 | All creatures within the area of effect are tripped by sudden winds, using caster level plus CAM in place of CMB. This check is rolled once for all creatures and is rolled again each round for 1d6 rounds. |
+| 63 | All hostile creatures within the area of effect are tripped by sudden winds, using caster level plus CAM in place of CMB. This check is rolled once for all affected creatures and is rolled again each round for 1d6 rounds. |
+| 64 | All hostile creatures within the area of effect are bull rushed toward the caster by sudden winds, using caster level plus CAM in place of CMB. This check is rolled once for all affected creatures and is rolled again each round for 1d6 rounds. |
+| 65 | Acid rain falls within close range of the caster for 1 round per caster level, dealing 1 acid damage per caster level to all creatures and unattended objects. A successful Fortitude save each round negates this damage. |
+| 66 | Acid rain falls within close range of the target or center of the target area for 1 round per caster level, dealing 1 acid damage per caster level to all creatures and unattended objects. A successful Fortitude save each round negates this damage. |
+| 67 | (Combat) For 1 round per caster level, a large static buildup occurs in all creatures within long range of the caster, causing hair to stand on end and creating a tingling sensation for 1 round per caster level. All creatures in the area take a -1 penalty on saves against effects that deal electricity damage. This penalty increases by 1 for every 5 caster levels. |
+| 68 | The caster gains a personal rain cloud for 1 hour per caster level, creating a category 2 rain in any space he occupies. This cloud will follow the caster for 10 minutes per caster level. The cloud is always above the caster’s space, even when teleporting or crossing planar boundaries. |
+| 69 | Wind within the caster’s control weather area blows upward in addition to its other effects. This acts as the Lighten talent of the Enhancement sphere on all allied creatures within the area, though does not permit a save. |
+| 70 | The caster is bull rushed in a random direction by sudden winds, using caster level plus CAM in place of CMB. This check is rolled again each round for 1d6 rounds. |
+| 71 | (Combat) Fickle winds hinder motion. For 1 round per caster level, for allied creatures, all squares within close range of the caster cost double the normal movement cost and 5-foot steps are impossible. |
+| 72 | All creatures within close range of the caster must pass Reflex saves or be entangled by miniature tornadoes for 1d6 rounds. |
+| 73 | All hostile creatures treat all categories the caster is affecting as 2 lower for the duration of the effect. |
+| 74 | All hostile creatures treat all categories the caster is affecting as 1 lower for the duration of the effect. |
+| 75 | Black blood falls within close range of the caster for 1 round per caster level, dealing 1 negative energy damage per caster level to all creatures. A successful Reflex save each round negates this damage. |
+| 76 | All allied creatures within the area of effect are tripped by sudden winds, using caster level plus CAM in pace of CMB. This check is rolled once for all affected creatures and is rolled again each round for 1d6 rounds. |
+| 77 | All allied creatures within the area of effect are bull rushed away from the caster by sudden winds, using caster level plus CAM in place of CMB. This check is rolled once for all affected creatures and is rolled again each round for 1d6 rounds. |
+| 78 | A rain of frogs falls within close range of the target or center of the target area for 1 round per caster level, dealing 1 bludgeoning damage per caster level to all creatures and unattended objects and creating difficult terrain until 1d6 rounds after the effect ends, after which the surviving frogs disperse. A successful Reflex save each round negates this damage. |
+| 79 | Regardless of other weather conditions, a heavy fog (per category 2 rain) covers an area out to close range of the caster for 1 round per caster level. This effect remains stationary. |
+| 80 | The caster takes 1d4 Constitution damage even if he would normally be immune to ability damage. Creatures without a Constitution score instead take Charisma damage. |
+| 81 | Black blood falls within close range of the target or center of the target area for 1 round per caster level, dealing 1 negative energy damage per caster level to all creatures. A successful Reflex save each round negates this damage. |
+| 82 | All creatures within close range of the target or center of the target area gain a personal rain cloud creating a category 2 rain in any space they occupy. This cloud will follow an affected creature for 10 minutes per caster level. The cloud is always above the creature’s space, even when teleporting or crossing planar boundaries. |
+| 83 | The caster is tripped by sudden winds, using caster level plus CAM in place of CMB. This check is rolled again each round for 1d6 rounds. |
+| 84 | (Combat) Fickle winds hinder motion. For 1 round per caster level, for hostile creatures, all squares within close range of the caster cost double the normal movement cost and 5-foot steps are impossible. |
+| 85 | All hostile creatures treat all categories the caster is affecting as 2 higher for the duration of the effect. |
+| 86 | A powerful updraft forms out to close range of the caster for 1 minute per caster level. All creatures and objects in that area area treated as one size smaller for the purposes of effects that would lift them such as the lift ability of the Telekinesis sphere. Additionally, all creatures take a penalty on Fly checks equal to half caster level, but all creatures with a fly speed are treated as having the Hover feat. |
+| 87 | All allies of the caster treats all categories he is affecting as 2 lower for the duration of the effect. |
+| 88 | The caster is struck by lightning once per round, dealing 1 electricity damage per caster level for a number of rounds equal to caster level. |
+| 89 | The caster gains knowledge of one talent of his choice from this sphere for 1 round. |
+| 90 | The effect fails and the action is lost. Spell points or spell slots are lost. |
+| 91 | (Combat) For 1 round per caster level, a large static buildup occurs in all hostile creatures within long range of the caster, causing hair to stand on end and creating a tingling sensation for 1 round per caster level. All creatures in the area take a -1 penalty on saves against effects that deal electricity damage. This penalty increases by 1 for every 5 caster levels. |
+| 92 | All creatures within long range of the caster suffer the effects of being exposed to 1 hour of category 3 cold. |
+| 93 | (Combat) The caster is dazed for 1 round. |
+| 94 | The caster treats all categories he is affecting as 1 lower for the duration of the effect. |
+| 95 | All hostile creatures treat all categories the caster is affecting as 1 higher for the duration of the effect. |
+| 96 | The spell point cost of the effect decreases by 1. If the effect did not require any spell points, the caster instead gains 1 temporary spell point that expires at the end of his next turn. |
+| 97 | The caster takes untyped nonlethal damage equal to caster level. This damage does not force concentration checks to cast or maintain sphere effects or spells. |
+| 98 | Effect receives a -4 penalty to caster level (minimum 1). |
+| 99 | A powerful updraft forms out to close range of the target or center of the target area for 1 minute per caster level. All creatures and objects in that area area treated as one size smaller for the purposes of effects that would lift them such as the lift ability of the Telekinesis sphere. Additionally, all creatures take a penalty on Fly checks equal to half caster level, but all creatures with a fly speed are treated as having the Hover feat. |
+| 100 | (Combat) The caster is stunned for 1 round. |
+
+</div>
+
+</div>
+
+---
+
+# Cantrip Wild Magic
+
+Effects from this table can be triggered as described in the 'Wild Magic and Cantrips' section. These effects are generally milder than the other tables, and are suitable for odd but (usually) harmless results.
+
+*Roll on the [Cantrip table](#wm-cantrip) in the Wild Magic Tables chooser.*
+
+---
+
+# Major Events
+
+Major Events are optional in games using Wild Magic. This table includes effects that are significantly more powerful than most results from the other tables. Unlike the Universal and Cantrip tables, these are not as suitable to impose as frequent environmental effects (except in extreme regions) because of the frequency of deadly and permanently character-altering effects.
+
+*Roll on the [Major Events table](#wm-major-events) in the Wild Magic Tables chooser.*
 
 ---
 

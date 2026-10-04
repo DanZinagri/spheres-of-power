@@ -23,7 +23,7 @@ The main thing to keep in mind is that **the goal of this event is to create sam
 
 **3)** Acceptable sourcebooks include all Paizo material, as well as all Spheres of Power, Spheres of Might, and Champions of the Spheres content. This includes Handbooks, Spheres Apocrypha, et cetera. That said, try to limit yourself to same-system and Paizo-published content.
 
-**4)** Characters should be submitted in a text document with formatting as close to the appropriate type of sample character as possible. You don't need to do bolding and underlining yourself, but it should match the basic format you can see in [[The Classic Mage]] or [[The Unbreakable]]. The [[BB Code Profile Template]] page offers more information on what each section means. (Don't submit BB Code itself, though. That doesn't work for the wiki.)
+**4)** Characters should be submitted in a text document with formatting as close to the appropriate type of sample character as possible. You don't need to do bolding and underlining yourself, but it should match the basic format you can see in [[The Classic Mage]] or [[The Unbreakable]]. The BB Code Profile Template page offers more information on what each section means. (Don't submit BB Code itself, though. That doesn't work for the wiki.)
 
 **5)** All characters should be built to represent a specific theme or idea, and they should have a name reflecting this. For example, The Unbreakable is designed to be as tough as possible, able to tank right through effects that would shred less-durable characters. The theme should at least moderately represent the class you're building.
 

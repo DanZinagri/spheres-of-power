@@ -627,7 +627,7 @@ From channeling the power of the universe into ethereal blasts to composing magi
 
 In addition to the rulesets listed above, this site offers a number of other resources to help you run games.
 
-- [[BB Code Profile Template]] - If you play games online, this pre-formatted template will help you create an attractive, easy-to-read profile.
+- - If you play games online, this pre-formatted template will help you create an attractive, easy-to-read profile.
 
 - [[Character Roles]] - An introduction to the various roles that characters can take in the Pathfinder Roleplaying Game, and how to build a character who is effective at that role.
 

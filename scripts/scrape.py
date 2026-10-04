@@ -63,6 +63,8 @@ EXCLUDED_TAGS = {"LG", "SM—"}  # Legendary Games, Studio M—
 # automatically along with their subpages; see tagged_pages().
 
 EXCLUDED_PAGES = {
+    # Wikidot's own help / boilerplate pages
+    "how-to-edit-pages", "what-is-a-wiki-site", "modules-reference", "bb-code-profile-template",
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
     # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
@@ -746,6 +748,47 @@ def split_section(md: str, heading: str) -> tuple[str, list[tuple[str, str]]]:
     return "\n".join(lines[:start] + [placeholder] + lines[end:]), entries
 
 
+# Wild magic: every generator + table pair (the Wild Magic page's Universal / Cantrip / Major
+# Event tables and each sphere's own table) is gathered on the Wild Magic page behind a dropdown,
+# one panel per table with its roller; the sphere pages link there instead.
+WILD_MAGIC_SLUG = "wild-magic"
+WILD_MAGIC_CORE_LABELS = {"Universal Wild Magic": "Universal", "Cantrip Wild Magic": "Cantrip",
+                          "Major Event": "Major Events"}
+ROLL_BLOCK = re.compile(
+    r"^#{1,6} (?P<name>[^\n]*?)\s*Generator\n\n<div class=\"sop-roller\"></div>\n\n"
+    r"#{1,6} [^\n]*?Table\n\n(?P<table>(?:\|[^\n]*(?:\n|$))+)", re.M)
+
+
+def wm_id(label: str) -> str:
+    return "wm-" + re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
+
+
+def extract_roll_blocks(md: str) -> tuple[str, list[tuple[str, str]]]:
+    """Cut every 'X Generator' + roller + 'X Table' + table block out of the markdown.
+    Returns (markdown with {{ROLL:n}} placeholders, [(name, table markdown)])."""
+    blocks: list[tuple[str, str]] = []
+
+    def cut(m: re.Match) -> str:
+        blocks.append((m.group("name").strip(), m.group("table").rstrip("\n")))
+        return f"{{{{ROLL:{len(blocks) - 1}}}}}\n"
+
+    return ROLL_BLOCK.sub(cut, md), blocks
+
+
+def wild_magic_chooser(core: list[tuple[str, str]], spheres: dict[str, str]) -> str:
+    """The Wild Magic page's table chooser: one panel per table (SopRoller turns it into a dropdown;
+    Obsidian shows the panels stacked)."""
+    parts = ['<div class="sop-wildmagic">', ""]
+    panels = [(label, table, "General") for label, table in core] + \
+             [(label, spheres[label], "Spheres") for label in sorted(spheres)]
+    for label, table, group in panels:
+        parts += [f'<div class="sop-wm-panel" id="{wm_id(label)}" data-name="{html.escape(label)}" '
+                  f'data-group="{group}">', "", f"**{label}**", "", '<div class="sop-roller"></div>', "",
+                  table, "", "</div>", ""]
+    parts.append("</div>")
+    return "\n".join(parts)
+
+
 def set_column_counts(md: str) -> str:
     """Tag each .sop-columns grid with --cols: the number of side-by-side columns it holds.
 
@@ -1218,6 +1261,9 @@ def convert(with_images: bool) -> None:
             sp.folder = f"{sp.folder}/{sp.filename}".strip("/")
     taken = {pp.filename.lower() for pp in pages.values()}
     split_count = 0
+    wm_core: list[tuple[str, str]] = []   # Wild Magic page's own tables
+    wm_spheres: dict[str, str] = {}       # sphere title -> its wild magic table
+    wm_page = None                        # (dest, text), written last once all spheres are in
     write_link_families(pages)
     images = download_images(pages) if with_images else {}
     manifest = json.loads((CACHE / "manifest.json").read_text())
@@ -1276,10 +1322,34 @@ def convert(with_images: bool) -> None:
                 links.append(f"- [[{name}]]" if name == label else f"- [[{name}|{label}]]")
             body_md = body_md.replace("{{SPLIT_LINKS}}", "\n".join(links))
             split_count += len(entries)
+        is_sphere = p.folder.split("/")[0] == "Spheres Of Power"
+        if p.slug == WILD_MAGIC_SLUG or (is_sphere and ROLL_BLOCK.search(body_md)):
+            body_md, blocks = extract_roll_blocks(body_md)
+            for i, (name, table) in enumerate(blocks):
+                if p.slug == WILD_MAGIC_SLUG:
+                    label = WILD_MAGIC_CORE_LABELS.get(name, name)
+                    wm_core.append((label, table))
+                    text = "{{WM_CHOOSER}}" if i == 0 else \
+                        f"*Roll on the [{label} table](#{wm_id(label)}) in the Wild Magic Tables chooser.*"
+                else:
+                    label = p.title
+                    wm_spheres.setdefault(label, table)  # first one = the Ultimate tab's
+                    text = (f"*This sphere's wild magic table and roller are on the "
+                            f"[[Wild Magic#{wm_id(label)}|Wild Magic]] page.*")
+                body_md = body_md.replace(f"{{{{ROLL:{i}}}}}", text, 1)
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
+        if p.slug == WILD_MAGIC_SLUG:
+            wm_page = (dest, out)
+            continue
         dest.write_text(out, encoding="utf-8")
+
+    if wm_page:
+        dest, out = wm_page
+        chooser = "## Wild Magic Tables\n\n" + wild_magic_chooser(wm_core, wm_spheres)
+        dest.write_text(out.replace("{{WM_CHOOSER}}", chooser, 1), encoding="utf-8")
+        print(f"Wild Magic chooser: {len(wm_core)} general + {len(wm_spheres)} sphere tables")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):
