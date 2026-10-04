@@ -483,16 +483,20 @@ const panels = {
         const row = el.closest("tr")
         row.querySelector(".tot").textContent = signed(skillTotal(row.dataset.key, getter(), calc()))
         row.querySelector(".tot").classList.toggle("warn", getter() > c.hd)
+        refreshSkillCounters()
       })
       return el
     }
-    const rows = []
     const bg = state.backgroundSkills
-    for (const [k, [label, abl, trainedOnly, acp]] of Object.entries(SKILLS)) {
-      if (BG_ONLY.includes(k) && !bg) continue
+    const isBg = (k) => bg && BG_SKILLS.includes(k)
+    const keys = Object.keys(SKILLS).filter((k) => bg || !BG_ONLY.includes(k))
+    const rowsFor = (list) => {
+    const rows = []
+    for (const k of list) {
+      const [label, abl, trainedOnly, acp] = SKILLS[k]
       const rank = num(state.skills[k])
       rows.push(h("tr", { class: c.classSkills.has(k) ? "cs" : "", "data-key": k },
-        h("td", {}, label, bg && BG_SKILLS.includes(k) ? h("span", { class: "chip bg", title: "Background skill" }, "BG") : null, trainedOnly ? h("span", { class: "note" }, " (trained)") : null),
+        h("td", {}, label, trainedOnly ? h("span", { class: "note" }, " (trained)") : null),
         h("td", {}, abl.toUpperCase(), acp ? h("span", { class: "note" }, " ACP") : null),
         h("td", { class: "num" }, rankInput(() => num(state.skills[k]), (v) => (state.skills[k] = v), label)),
         h("td", { class: "num tot" }, signed(skillTotal(k, rank, c))),
@@ -518,20 +522,30 @@ const panels = {
           h("button", { class: "small", onclick: () => { state.subSkills[k].push({ name: "", rank: 0 }); changed(true) } }, `+ ${label} specialty`))))
       }
     }
+    return rows
+    }
+    const table = (title, list, counter) => h("section", { class: "skill-table" },
+      title ? h("div", { class: "row", style: "margin:1rem 0 .4rem" }, h("h3", { style: "margin:0" }, title), h("div", { class: "spacer" }), counter) : null,
+      h("div", { class: "table-wrap card" },
+        h("table", {},
+          h("thead", {}, h("tr", {}, h("th", {}, "Skill"), h("th", {}, "Ability"), h("th", { class: "num" }, "Ranks"), h("th", { class: "num" }, "Total"))),
+          h("tbody", {}, rowsFor(list)),
+        ),
+      ),
+    )
     return [
       h("h2", {}, "Skills"),
       h("div", { class: "card row", style: "margin-bottom:.75rem" },
         checkbox("backgroundSkills", h("strong", {}, "Background skills")),
-        h("span", { class: "note", style: "flex:1 1 260px" }, `Pathfinder Unchained variant: +${BG_PER_LEVEL} ranks per class level for skills marked BG, and Artistry and Lore become available. Turn on the matching world setting in Foundry too (Game Settings → System Settings → Variant Rules → Background Skills).`),
-        bg ? h("span", { class: c.bgUsed > c.bgBudget ? "warn" : "" }, `Background ranks: ${Math.min(c.bgUsed, c.bgBudget)} / ${c.bgBudget}${c.bgUsed > c.bgBudget ? ` (${c.bgUsed - c.bgBudget} taken from normal ranks)` : ""}`) : null,
+        h("span", { class: "note", style: "flex:1 1 260px" }, `Pathfinder Unchained variant: +${BG_PER_LEVEL} ranks per class level that only go into background skills (their own table below), and Artistry and Lore become available. Turn on the matching world setting in Foundry too (Game Settings → System Settings → Variant Rules → Background Skills).`),
       ),
       h("p", { class: "muted" }, `● marks a class skill (set on the Classes tab). Max ranks per skill: ${c.hd}. Totals include ranks, ability modifier, +3 for trained class skills and armor check penalty.`),
-      h("div", { class: "table-wrap card" },
-        h("table", {},
-          h("thead", {}, h("tr", {}, h("th", {}, "Skill"), h("th", {}, "Ability"), h("th", { class: "num" }, "Ranks"), h("th", { class: "num" }, "Total"))),
-          h("tbody", {}, rows),
-        ),
-      ),
+      bg
+        ? [
+            table("Adventuring skills", keys.filter((k) => !isBg(k)), h("span", { "data-counter": "adv" })),
+            table("Background skills", keys.filter(isBg), h("span", { "data-counter": "bg" })),
+          ]
+        : table(null, keys),
     ]
   },
 
@@ -789,6 +803,21 @@ function entryList(key, make, fields, addLabel, grouper) {
   return h("div", {}, wrap, add)
 }
 
+function refreshSkillCounters() {
+  const c = calc()
+  const over = c.bgUsed - c.bgBudget
+  const adv = document.querySelector('#panel [data-counter="adv"]')
+  const bg = document.querySelector('#panel [data-counter="bg"]')
+  if (adv) {
+    adv.textContent = `Ranks: ${c.ranksUsed} / ${c.skillBudget}`
+    adv.className = c.ranksUsed > c.skillBudget ? "warn" : ""
+  }
+  if (bg) {
+    bg.textContent = `Ranks: ${Math.min(c.bgUsed, c.bgBudget)} / ${c.bgBudget}${over > 0 ? ` (${over} taken from adventuring ranks)` : ""}`
+    bg.className = over > 0 ? "warn" : ""
+  }
+}
+
 function skillTotal(k, rank, c) {
   const [, abl, , acp] = SKILLS[k]
   let t = rank + c.abl[abl].mod
@@ -800,7 +829,8 @@ function skillTotal(k, rank, c) {
 function renderPanel() {
   const panel = document.getElementById("panel")
   const scroll = window.scrollY
-  panel.replaceChildren(...panels[tab]().filter(Boolean))
+  panel.replaceChildren(...panels[tab]().flat().filter(Boolean))
+  refreshSkillCounters()
   window.scrollTo(0, scroll)
 }
 
