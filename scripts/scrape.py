@@ -72,6 +72,14 @@ EXCLUDED_PAGES = {
 }
 NAV_PAGES = {"start", "nav:side"}
 
+# Sections whose entries (monster stat blocks) move to their own subpages; the original section
+# keeps its intro plus a list of links. page slug -> (section heading, subfolder for the entries).
+# The subfolders are kept out of search in pagefind.yml.
+SPLIT_SECTIONS = {
+    "practitioner-bestiary": ("Bestiary", "Bestiary"),
+    "sphere-bestiary": ("New Monsters", "New Monsters"),
+}
+
 # Home page: with the archetypes now a full-width table, move these sections (by their bold
 # heading) to the end of the given column of the main navigation grid to even out the columns.
 # Balanced from rendered section heights at 1920px (columns end up within ~330px of each other).
@@ -697,6 +705,45 @@ def rebalance_home_columns(md: str) -> str:
     return "\n".join(lines[:start + 1] + [""] + rebuilt + lines[end:])
 
 
+def split_section(md: str, heading: str) -> tuple[str, list[tuple[str, str]]]:
+    """Cut the entries of the '<heading>' section out of a page's markdown.
+
+    Entries are the section's top-level sub-headings (e.g. each monster's "#### Name (CR 8)").
+    Returns (page markdown with the entries replaced by a link-list placeholder, [(title, entry
+    markdown)]). The page is returned unchanged if the section isn't found or an entry would cut
+    through a raw <div> block."""
+    lines = md.split("\n")
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    start = next((i for i, l in enumerate(lines)
+                  if level_of(l) and l.lstrip("#").strip().lower() == heading.lower()), None)
+    if start is None:
+        return md, []
+    level = level_of(lines[start])
+    end = next((i for i in range(start + 1, len(lines)) if 0 < level_of(lines[i]) <= level), len(lines))
+    section = lines[start + 1:end]
+    heads = [i for i, l in enumerate(section) if level_of(l)]
+    if not heads:
+        return md, []
+    entry_level = min(level_of(section[i]) for i in heads)
+    starts = [i for i in heads if level_of(section[i]) == entry_level]
+    entries = []
+    for n, i in enumerate(starts):
+        chunk = section[i + 1:starts[n + 1] if n + 1 < len(starts) else len(section)]
+        text = "\n".join(chunk)
+        if text.count("<div") != text.count("</div>"):
+            return md, []
+        title = re.sub(r"\[\[([^\]|]*\\?\|)?([^\]]*)\]\]", r"\2", section[i].lstrip("#").strip())
+        # sub-headings move up so the entry's own sections start at ##
+        shift = entry_level - 1
+        body = [("#" * max(2, level_of(l) - shift) + " " + l.lstrip("#").lstrip()) if level_of(l) else l
+                for l in chunk]
+        entries.append((title, "\n".join(body).strip() + "\n"))
+    intro = "\n".join(section[:starts[0]]).rstrip()
+    placeholder = "\n".join([lines[start], "", intro, "", "{{SPLIT_LINKS}}", ""]) if intro.strip() \
+        else "\n".join([lines[start], "", "{{SPLIT_LINKS}}", ""])
+    return "\n".join(lines[:start] + [placeholder] + lines[end:]), entries
+
+
 def set_column_counts(md: str) -> str:
     """Tag each .sop-columns grid with --cols: the number of side-by-side columns it holds.
 
@@ -1110,6 +1157,13 @@ def convert(with_images: bool) -> None:
     for s in excluded:
         del pages[s]
     redirects = old_page_redirects(excluded, pages)
+    # pages whose sections get split into subpages become folder notes, with the entries beside them
+    for slug in SPLIT_SECTIONS:
+        sp = pages.get(slug)
+        if sp and sp.folder.split("/")[-1] != sp.filename:
+            sp.folder = f"{sp.folder}/{sp.filename}".strip("/")
+    taken = {pp.filename.lower() for pp in pages.values()}
+    split_count = 0
     write_link_families(pages)
     images = download_images(pages) if with_images else {}
     manifest = json.loads((CACHE / "manifest.json").read_text())
@@ -1146,6 +1200,24 @@ def convert(with_images: bool) -> None:
             body_md = drop_excluded_mentions(body_md)
         if p.slug == "start":
             body_md = rebalance_home_columns(body_md)
+        if p.slug in SPLIT_SECTIONS:
+            heading, subfolder = SPLIT_SECTIONS[p.slug]
+            body_md, entries = split_section(body_md, heading)
+            links = []
+            for title, entry_md in entries:
+                name = clean_filename(title)
+                if name.lower() in taken:
+                    name = clean_filename(f"{title} ({p.filename})")
+                taken.add(name.lower())
+                sub_fm = ["---", f"title: {yaml_str(title)}", f"source: {SITE}/{p.slug}",
+                          "parent: " + yaml_str(f"[[{p.filename}]]"), "---"]
+                sub_dest = CONTENT / p.folder / subfolder / f"{name}.md"
+                sub_dest.parent.mkdir(parents=True, exist_ok=True)
+                sub_dest.write_text("\n".join(sub_fm) + "\n" + GENERATED_MARK + "\n\n" + entry_md,
+                                    encoding="utf-8")
+                links.append(f"- [[{name}]]" if name == title else f"- [[{name}|{title}]]")
+            body_md = body_md.replace("{{SPLIT_LINKS}}", "\n".join(links))
+            split_count += len(entries)
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
@@ -1158,7 +1230,7 @@ def convert(with_images: bool) -> None:
 
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     (CACHE / "last-convert.txt").write_text(stamp)
-    print(f"Wrote {len(pages)} notes to {CONTENT} ({len(excluded)} excluded) ({stamp})")
+    print(f"Wrote {len(pages)} notes + {split_count} split-out entries to {CONTENT} ({len(excluded)} excluded) ({stamp})")
 
 
 def old_page_redirects(excluded: set[str], pages: dict[str, Page]) -> dict[str, Page]:
