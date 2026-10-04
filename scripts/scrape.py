@@ -84,6 +84,33 @@ SPLIT_SECTIONS = {
     "sphere-bestiary": ("New Monsters", "New Monsters"),
 }
 
+# Hand-written additions to generated pages, kept here so a resync doesn't wipe them:
+# slug -> [(regex for the text to insert after, markdown to insert)]; every match gets the note,
+# which carries its own leading newlines.
+CRAFTER_TIP = ("\n\n> [!tip] Item Crafter\n> The [[Item Crafter]] works out complexity, price, crafting cost, "
+               "time and the item creation DC for a custom item using these rules.")
+PAGE_NOTES = {
+    "magical-items": [
+        (r"^\*\*See Also:\*\* \[\[Mastering Magical Items\]\].*$",
+         "\n**See Also:** [[Item Crafter]], a tool for pricing and planning custom items with these rules"),
+        (r"^# Talent-Based Item Creation[ \t]*$", CRAFTER_TIP),
+    ],
+    # home page: a Tools list right after the Other Options list in the navigation grid
+    "start": [
+        (r"^\*\*Other Options\*\*\n\n(?:[^\n]+\n)+",
+         "\n**Tools**\n\n[[Character Builder]]\n[[Item Crafter]]\n"),
+    ],
+}
+
+
+def add_page_notes(slug: str, md: str) -> str:
+    for pattern, note in PAGE_NOTES.get(slug, []):
+        md, n = re.subn(pattern, lambda m: m.group(0) + note, md, flags=re.M)
+        if not n:
+            print(f"warning: page note for {slug} found no match for {pattern!r}")
+    return md
+
+
 # Home page: with the archetypes now a full-width table, move these sections (by their bold
 # heading) to the end of the given column of the main navigation grid to even out the columns.
 # Balanced from rendered section heights at 1920px (columns end up within ~330px of each other).
@@ -1342,6 +1369,7 @@ def convert(with_images: bool) -> None:
                 body_md = re.sub(r"^#{1,6} Wild Magic[ \t]*\n(?:[ \t]*\n)*(?=#{1,6} |---|</div>|\Z)",
                                  "", body_md, flags=re.M)
                 body_md = re.sub(r"^---\n(?:[ \t]*\n)*---[ \t]*$", "---", body_md, flags=re.M)
+        body_md = add_page_notes(p.slug, body_md)
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)

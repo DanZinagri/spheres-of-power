@@ -38,6 +38,7 @@ See the following pages for specific examples of items. In addition, many class 
 
 **See Also:** [[Loot Tables]], for randomized treasure generation
 **See Also:** [[Mastering Magical Items]], a guide to choosing, using, and creating magic items in Spheres of Power, including how to deal with corner cases like changing slots for items that normally need to be held. (These are published guidelines, not merely a Wiki guide.)
+**See Also:** [[Item Crafter]], a tool for pricing and planning custom items with these rules
 
 # Using Magic Items
 
@@ -138,6 +139,9 @@ This ability can be placed on any magical item for 40,000 gp by any creature who
 ---
 
 # Talent-Based Item Creation
+
+> [!tip] Item Crafter
+> The [[Item Crafter]] works out complexity, price, crafting cost, time and the item creation DC for a custom item using these rules.
 
 Some magic items, such as magical weapons and charms, pick their powers from a predetermined list. For other magic items, their power and effects are created by building and combining effects, not unlike the method a caster uses to combine spheres and talents when casting.
 
@@ -1335,6 +1339,9 @@ When creating a magic item, the crafter must possess the base sphere associated 
 If you need another character or a magic item (such as a wand, implement, or scroll) to supply one of an item’s requirements, both you and the other character or the magic item must be present for the entire duration of the crafting process.
 
 # Talent-Based Item Creation
+
+> [!tip] Item Crafter
+> The [[Item Crafter]] works out complexity, price, crafting cost, time and the item creation DC for a custom item using these rules.
 
 Some magic items, such as magical weapons and charms, pick their powers from a predetermined list. For other magic items, their power and effects are created by building and combining effects, not unlike the method a caster uses to combine spheres and talents when casting.
 

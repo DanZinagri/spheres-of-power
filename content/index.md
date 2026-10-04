@@ -218,6 +218,11 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Variant Rules]]
 [[Wilderness]]
 
+**Tools**
+
+[[Character Builder]]
+[[Item Crafter]]
+
 </div>
 
 <div class="sop-col">
