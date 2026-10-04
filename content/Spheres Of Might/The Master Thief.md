@@ -1,6 +1,7 @@
 ---
 title: "The Master Thief"
 source: https://spheresofpower.wikidot.com/the-master-thief
+nosearch: true
 updated: 2019-12-06
 parent: "[[Spheres Of Might]]"
 ---

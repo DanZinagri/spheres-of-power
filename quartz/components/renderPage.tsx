@@ -262,7 +262,11 @@ export function renderPage(
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
+      <body
+        data-slug={slug}
+        // `nosearch: true` in frontmatter keeps the page out of the Pagefind index (pagefind.yml)
+        data-nosearch={componentData.fileData.frontmatter?.nosearch ? "true" : undefined}
+      >
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}

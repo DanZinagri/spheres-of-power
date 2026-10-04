@@ -1,6 +1,7 @@
 ---
 title: "The Mind Mage"
 source: https://spheresofpower.wikidot.com/the-mind-mage
+nosearch: true
 updated: 2022-07-01
 parent: "[[Spheres Of Power]]"
 ---

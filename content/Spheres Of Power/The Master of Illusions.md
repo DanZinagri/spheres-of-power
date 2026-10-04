@@ -1,6 +1,7 @@
 ---
 title: "The Master of Illusions"
 source: https://spheresofpower.wikidot.com/the-master-of-illusions
+nosearch: true
 updated: 2018-12-08
 parent: "[[Spheres Of Power]]"
 ---

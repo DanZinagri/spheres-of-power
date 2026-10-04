@@ -1,6 +1,7 @@
 ---
 title: "The Ice Knight"
 source: https://spheresofpower.wikidot.com/the-ice-knight
+nosearch: true
 updated: 2018-11-24
 parent: "[[Spheres Of Power]]"
 ---

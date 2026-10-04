@@ -1,6 +1,7 @@
 ---
 title: "The Master Of Many Forms"
 source: https://spheresofpower.wikidot.com/the-master-of-many-forms
+nosearch: true
 updated: 2019-05-24
 parent: "[[Spheres Of Power]]"
 ---

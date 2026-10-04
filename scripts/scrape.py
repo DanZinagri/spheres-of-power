@@ -1157,6 +1157,8 @@ def convert(with_images: bool) -> None:
     for s in excluded:
         del pages[s]
     redirects = old_page_redirects(excluded, pages)
+    samples = sample_character_slugs(pages)  # before preprocess() edits the home page
+    print(f"Sample characters (nosearch): {len(samples)}")
     # pages whose sections get split into subpages become folder notes, with the entries beside them
     for slug in SPLIT_SECTIONS:
         sp = pages.get(slug)
@@ -1189,6 +1191,8 @@ def convert(with_images: bool) -> None:
         if tags:
             fm.append("tags: [" + ", ".join(yaml_str(t) for t in tags) + "]")
         fm.append(f"source: {SITE}/{p.slug}")
+        if p.slug in samples:
+            fm.append("nosearch: true")  # sample character: kept out of search
         if manifest.get(p.slug):
             fm.append(f"updated: {manifest[p.slug][:10]}")
         if p.parents:
@@ -1215,7 +1219,9 @@ def convert(with_images: bool) -> None:
                 sub_dest.parent.mkdir(parents=True, exist_ok=True)
                 sub_dest.write_text("\n".join(sub_fm) + "\n" + GENERATED_MARK + "\n\n" + entry_md,
                                     encoding="utf-8")
-                links.append(f"- [[{name}]]" if name == title else f"- [[{name}|{title}]]")
+                # brackets in the label would close the [[link]] early: "[Warden]" -> "(Warden)"
+                label = title.replace("|", "\\|").replace("[", "(").replace("]", ")")
+                links.append(f"- [[{name}]]" if name == label else f"- [[{name}|{label}]]")
             body_md = body_md.replace("{{SPLIT_LINKS}}", "\n".join(links))
             split_count += len(entries)
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
@@ -1231,6 +1237,28 @@ def convert(with_images: bool) -> None:
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     (CACHE / "last-convert.txt").write_text(stamp)
     print(f"Wrote {len(pages)} notes + {split_count} split-out entries to {CONTENT} ({len(excluded)} excluded) ({stamp})")
+
+
+def sample_character_slugs(pages: dict[str, Page]) -> set[str]:
+    """Pages listed under the home page's "Sample Spherecasters / Practitioners / Champions"
+    headings (pre-built example characters). They get `nosearch: true`."""
+    start = pages.get("start")
+    if not start or not start.body:
+        return set()
+    found = set()
+    for label in start.body.find_all(["strong", "b"]):
+        if not re.match(r"(?i)sample\b", label.get_text(" ", strip=True)):
+            continue
+        for el in label.next_elements:
+            if el is label or (isinstance(el, Tag) and label in el.parents) or isinstance(el, NavigableString):
+                continue
+            if el.name in ("strong", "b", "hr", "h1", "h2", "h3", "h4"):
+                break  # next section
+            if el.name == "a" and el.get("href"):
+                slug = internal_slug(el["href"])
+                if slug in pages:
+                    found.add(slug)
+    return found
 
 
 def old_page_redirects(excluded: set[str], pages: dict[str, Page]) -> dict[str, Page]:

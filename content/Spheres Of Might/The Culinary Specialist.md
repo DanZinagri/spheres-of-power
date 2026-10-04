@@ -1,6 +1,7 @@
 ---
 title: "The Culinary Specialist"
 source: https://spheresofpower.wikidot.com/the-culinary-specialist
+nosearch: true
 updated: 2018-09-06
 parent: "[[Spheres Of Might]]"
 ---

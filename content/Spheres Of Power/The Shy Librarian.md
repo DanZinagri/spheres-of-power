@@ -1,6 +1,7 @@
 ---
 title: "The Shy Librarian"
 source: https://spheresofpower.wikidot.com/the-shy-librarian
+nosearch: true
 updated: 2020-09-07
 parent: "[[Spheres Of Power]]"
 ---

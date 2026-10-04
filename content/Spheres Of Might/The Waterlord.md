@@ -1,6 +1,7 @@
 ---
 title: "The Waterlord"
 source: https://spheresofpower.wikidot.com/the-waterlord
+nosearch: true
 updated: 2019-02-04
 parent: "[[Spheres Of Might]]"
 ---

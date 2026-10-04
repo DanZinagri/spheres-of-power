@@ -1,6 +1,7 @@
 ---
 title: "The Veterinarian"
 source: https://spheresofpower.wikidot.com/the-veterinarian
+nosearch: true
 updated: 2019-06-25
 parent: "[[Spheres Of Might]]"
 ---

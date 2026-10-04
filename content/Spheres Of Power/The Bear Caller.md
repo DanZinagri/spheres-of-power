@@ -1,6 +1,7 @@
 ---
 title: "The Bear Caller"
 source: https://spheresofpower.wikidot.com/the-bear-caller
+nosearch: true
 updated: 2020-09-18
 parent: "[[Spheres Of Power]]"
 ---

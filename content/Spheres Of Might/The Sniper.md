@@ -1,6 +1,7 @@
 ---
 title: "The Sniper"
 source: https://spheresofpower.wikidot.com/the-sniper
+nosearch: true
 updated: 2018-08-22
 parent: "[[Spheres Of Might]]"
 ---

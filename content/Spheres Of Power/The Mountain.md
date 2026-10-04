@@ -1,6 +1,7 @@
 ---
 title: "The Mountain"
 source: https://spheresofpower.wikidot.com/the-mountain
+nosearch: true
 updated: 2018-12-06
 parent: "[[Spheres Of Power]]"
 ---

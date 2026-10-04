@@ -1,6 +1,7 @@
 ---
 title: "The Classic Mage"
 source: https://spheresofpower.wikidot.com/the-classic-mage
+nosearch: true
 updated: 2022-03-20
 parent: "[[Spheres Of Power]]"
 ---

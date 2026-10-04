@@ -1,6 +1,7 @@
 ---
 title: "The Blaster"
 source: https://spheresofpower.wikidot.com/the-blaster
+nosearch: true
 updated: 2018-09-06
 parent: "[[Spheres Of Power]]"
 ---

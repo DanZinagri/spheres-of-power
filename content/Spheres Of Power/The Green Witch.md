@@ -1,6 +1,7 @@
 ---
 title: "The Green Witch"
 source: https://spheresofpower.wikidot.com/the-green-witch
+nosearch: true
 updated: 2018-11-24
 parent: "[[Spheres Of Power]]"
 ---
