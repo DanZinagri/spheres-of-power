@@ -56,8 +56,8 @@ const ROW_KINDS = {
 const KINDS = {
   marvelous: { label: "Marvelous item", feat: "Craft Marvelous Item", base: 400, talentBased: true, uses: "cl" },
   apparatus: { label: "Apparatus", feat: "Craft Apparatus", base: 2000, talentBased: true, uses: "cl" },
-  compound: { label: "Compound", feat: "Distill Compound", base: 50, talentBased: true, uses: "cl", strict: true },
-  scroll: { label: "Scroll", feat: "Capture Spell", base: 25, talentBased: true, uses: "cl", strict: true },
+  compound: { label: "Compound", feat: "Distill Compound", base: 50, talentBased: true, uses: "cl", strict: true, consumable: true },
+  scroll: { label: "Scroll", feat: "Capture Spell", base: 25, talentBased: true, uses: "cl", strict: true, consumable: true },
   engine: { label: "Spell engine", feat: "Craft Spell Engine", uses: "cl", strict: true },
   implement: { label: "Implement", feat: "Craft Implement Of Power", uses: "msb" },
   charm: { label: "Charm", feat: "Forge Charm", uses: "msb" },
@@ -112,7 +112,7 @@ function blankComp(kind) {
 }
 
 function blankItem() {
-  return { id: uid(), name: "", slot: "slotless", weight: "", cl: 5, description: "", noSpace: false, mythicMastery: false, baseObject: "", baseCost: 0, extraCost: 0, components: [blankComp("marvelous")] }
+  return { id: uid(), type: "marvelous", name: "", slot: "slotless", weight: "", cl: 5, description: "", noSpace: false, mythicMastery: false, baseObject: "", baseCost: 0, extraCost: 0, components: [blankComp("marvelous")] }
 }
 
 function blankCrafter() {
@@ -126,6 +126,7 @@ function load() {
     const raw = localStorage.getItem(STORAGE_KEY)
     if (raw) {
       const s = JSON.parse(raw)
+      for (const it of s.items ?? []) it.type ??= it.components?.[0]?.kind ?? "marvelous"
       if (s.items?.length) return { items: s.items, activeId: s.activeId ?? s.items[0].id, crafter: { ...blankCrafter(), ...s.crafter } }
     }
   } catch {}
@@ -452,6 +453,7 @@ function renderPanel(it) {
   <section class="card">
     <h2>Item</h2>
     <div class="grid">
+      ${field("Item type", `<select data-act="setType" aria-label="Item type">${Object.entries(KINDS).map(([k, K]) => `<option value="${k}" ${k === it.type ? "selected" : ""}>${esc(K.label)}${K.feat ? ` (${esc(K.feat)})` : ""}</option>`).join("")}</select>`, "type-field")}
       ${field("Caster level", num(`${P}.cl`, it.cl, 'min="1" max="30"') + ` <span class="muted" data-out="minCl"></span>`)}
       ${field("Slot", sel(`${P}.slot`, it.slot, Object.entries(SLOTS).map(([k, v]) => [k, v[0]])))}
       ${field("Weight", txt(`${P}.weight`, it.weight, "1 lb."))}
@@ -474,9 +476,17 @@ function renderPanel(it) {
     <p class="note">Each effect is priced on its own. With more than one, the most expensive is full price and every other one costs ×1.5 (×2 if it's mixed into the same effect). Talent-based effects share the item's caster level.</p>
     ${it.components.map((c, i) => renderComp(c, i, it)).join("")}
     <div class="row add-row">
-      <span class="muted">Add effect:</span>
-      ${Object.entries(KINDS).map(([k, K]) => btn("addComp", "+ " + K.label, `data-kind="${k}"`)).join("")}
+      ${btn("addComp", `+ Add another ${KINDS[it.type].label.toLowerCase()} effect`, `data-kind="${it.type}"`, "small")}
+      ${
+        KINDS[it.type].consumable
+          ? ""
+          : `<select data-act="addOther" aria-label="Add a different kind of effect"><option value="">+ Combine with a different kind of effect…</option>${Object.entries(KINDS)
+              .filter(([k, K]) => k !== it.type && !K.consumable)
+              .map(([k, K]) => `<option value="${k}">${esc(K.label)}${K.feat ? ` (needs ${esc(K.feat)})` : ""}</option>`)
+              .join("")}</select>`
+      }
     </div>
+    ${KINDS[it.type].consumable ? "" : `<p class="note">Combining kinds follows the Multiple Effects rule (e.g. a weapon with a marvelous-item power): the crafter needs every crafting feat involved.</p>`}
   </section>
 
   ${renderCrafter()}
@@ -821,8 +831,34 @@ const panel = document.getElementById("panel")
 panel.addEventListener("input", (e) => e.target.tagName !== "SELECT" && e.target.type !== "checkbox" && onBind(e))
 panel.addEventListener("change", (e) => {
   if (e.target.dataset.act === "quickMod") return quickMod(e.target)
+  if (e.target.dataset.act === "addOther") {
+    if (e.target.value) item().components.push(blankComp(e.target.value))
+    save()
+    return renderAll()
+  }
+  if (e.target.dataset.act === "setType") return setType(e.target)
   onBind(e)
 })
+
+// switching type swaps the main effect for a blank one of the new type; consumables can't hold other kinds
+function setType(el) {
+  const it = item()
+  const kind = el.value
+  const others = it.components.slice(1)
+  const dropped = KINDS[kind].consumable ? others.filter((c) => c.kind !== kind) : []
+  const msg = `Switch to ${KINDS[kind].label.toLowerCase()}? The first effect will be replaced with a blank one${dropped.length ? `, and ${dropped.length} effect${dropped.length > 1 ? "s" : ""} of other kinds will be removed (${KINDS[kind].label.toLowerCase()}s can't combine with them)` : ""}.`
+  const touched = it.components.length > 1 || JSON.stringify({ ...it.components[0], id: 0, label: "" }) !== JSON.stringify({ ...blankComp(it.components[0].kind), id: 0, label: "" })
+  if (touched && !confirm(msg)) {
+    el.value = it.type
+    return
+  }
+  const first = blankComp(kind)
+  first.label = it.components[0]?.label ?? ""
+  it.type = kind
+  it.components = [first, ...others.filter((c) => !dropped.includes(c))]
+  save()
+  renderAll()
+}
 
 function quickMod(el) {
   const c = item().components[Number(el.dataset.i)]
@@ -948,7 +984,7 @@ document.getElementById("fileLoad").addEventListener("change", async (e) => {
     const ids = new Set(state.items.map((x) => x.id))
     for (const it of items) {
       if (ids.has(it.id)) it.id = uid()
-      state.items.push({ ...blankItem(), ...it })
+      state.items.push({ ...blankItem(), type: it.components?.[0]?.kind ?? "marvelous", ...it })
     }
     state.activeId = state.items[state.items.length - 1].id
     save()
