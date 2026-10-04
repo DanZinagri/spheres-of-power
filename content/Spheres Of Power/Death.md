@@ -1012,8 +1012,6 @@ If your new hit point total is greater than a negative amount equal to your Cons
 
 ---
 
----
-
 # Skeletons and Zombies
 
 Skeletons and zombies lose all class levels (races that only gain class levels are treated as if they had 1 racial Hit Die) as well as all skill ranks and feats. They lose all special attacks and special qualities of the base creature, except extraordinary special qualities that improve their melee or ranged attacks.
@@ -1083,12 +1081,6 @@ Zombies gain natural AC and bonus Hit Dice (which increase all aspects as regula
 | Huge | +4 | +4 |
 | Gargantuan | +7 | +6 |
 | Colossal | +11 | +10 |
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-death|Wild Magic]] page.*
 
 ---
 
@@ -1378,8 +1370,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # Skeleton and Zombies
 
 Skeletons and Zombies lose all class levels (races that only gain class levels are treated as if they had 1 racial Hit Die) as well as all skill ranks and feats. They lose all special attacks and special qualities of the base creature, except extraordinary special qualities that improve their melee or ranged attacks. Zombies and Skeletons gain Darkvision 60 ft.
@@ -1449,12 +1439,6 @@ Zombies gain natural AC and bonus Hit Dice (which increase all aspects as regula
 | Huge | +4 | +4 |
 | Gargantuan | +7 | +6 |
 | Colossal | +11 | +10 |
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-death|Wild Magic]] page.*
 
 ---
 

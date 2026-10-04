@@ -764,12 +764,6 @@ Additionally, when you create a totem, you may spend a spell point to create a m
 
 ---
 
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-mana|Wild Magic]] page.*
-
 </div>
 
 </div>

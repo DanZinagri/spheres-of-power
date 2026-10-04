@@ -667,8 +667,6 @@ Create Proxy: You may enhance creatures, allowing them to act as aiding casters 
 
 ---
 
----
-
 # Animated Objects
 
 For the most part, a player creating an animated object does not get to choose what construction points and flaws it possesses. Instead, its construction points and flaws are determined by the GM to best reflect the type of object that was animated.
@@ -1019,10 +1017,6 @@ Animated objects can gain more CP by applying flaws, which hamper the animated o
 
 ---
 
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-enhancement|Wild Magic]] page.*
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -1349,12 +1343,6 @@ Click the header above to visit the Advanced Talents page. This page includes ta
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
 ---
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-enhancement|Wild Magic]] page.*
 
 </div>
 

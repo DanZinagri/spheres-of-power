@@ -753,12 +753,6 @@ Suggested weather conditions (for each season):
 
 ---
 
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-weather|Wild Magic]] page.*
-
----
-
 # GM Advice
 
 This advice is from The Tempestarian's Handbook
@@ -1206,12 +1200,6 @@ Click the header above to visit the Advanced Talents page. This page includes ta
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
 ---
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-weather|Wild Magic]] page.*
 
 ---
 

@@ -951,10 +951,6 @@ You may spend a spell point to place a word on a target that marks them as a pro
 
 ---
 
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-fate|Wild Magic]] page.*
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -1393,12 +1389,6 @@ Click the header above to visit the Advanced Talents page. This page includes ta
 # [[Casting Traditions#Fate|Fate Drawbacks]]
 
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-fate|Wild Magic]] page.*
 
 ---
 

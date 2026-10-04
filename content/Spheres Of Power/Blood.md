@@ -659,12 +659,6 @@ When combining this ability with Mass Blood Magic, you may choose to deal a diff
 
 ---
 
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-blood|Wild Magic]] page.*
-
----
-
 # Optional Rules
 
 #### Blood as a Spell Component or Focus
@@ -980,12 +974,6 @@ Click the header above to visit the Advanced Talents page. This page includes ta
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
 ---
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-blood|Wild Magic]] page.*
 
 ---
 

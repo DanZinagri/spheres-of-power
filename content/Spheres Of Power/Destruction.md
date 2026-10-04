@@ -1151,8 +1151,6 @@ Ruinous and restorative power alike flow from your will.
 
 ---
 
----
-
 # Adaptation
 
 While there are many blast type talents, it is neither possible nor desirable to publish every imaginable combination of damage type, die size, and additional effect. If a combination that has not been published is desired, players and gamemasters are encouraged to invent new abilities appropriate to the needs of the character.
@@ -1226,10 +1224,6 @@ Some effects, especially those that deny standard actions such as nauseated, daz
 | Increase/Decrease Duration (1 round<->1d4 rounds<->2d4 rounds ) | N/A | N/A | +4/-2 |
 
 ---
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-destruction|Wild Magic]] page.*
 
 </div>
 
@@ -1716,12 +1710,6 @@ Some effects, especially those that deny standard actions such as nauseated, daz
 | Increase/Decrease Duration (1 round<->1d4 rounds<->2d4 rounds ) | N/A | N/A | +4/-2 |
 
 ---
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-destruction|Wild Magic]] page.*
 
 </div>
 

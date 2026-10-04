@@ -594,12 +594,6 @@ The benefit of this feat is a supernatural ability.
 
 ---
 
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-light|Wild Magic]] page.*
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -915,12 +909,6 @@ Click the header above to visit the Advanced Talents page. This page includes ta
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
 ---
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-light|Wild Magic]] page.*
 
 </div>
 

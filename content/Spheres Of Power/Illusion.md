@@ -750,10 +750,6 @@ Tenebrous stalkers are Elementalists who specialize in [[Dark]] and [[Illusion]]
 
 ---
 
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-illusion|Wild Magic]] page.*
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -1196,12 +1192,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 | --- | --- |
 | -[[Operative\|Old Operative]] | Operatives are Symbiats who use their mastery of Illusion and [[War]] to manage the battlefield. |
 | -[[Solipsist\|Old Solipsist]] | Solipsists are Fey Adepts who use Intelligence to analyze and control the world. |
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-illusion|Wild Magic]] page.*
 
 ---
 

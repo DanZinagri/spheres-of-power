@@ -846,12 +846,6 @@ As a free action once per round, you may have this sensor touch an unattended ob
 
 ---
 
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-divination|Wild Magic]] page.*
-
 </div>
 
 <div class="sop-tab" data-tab="original">

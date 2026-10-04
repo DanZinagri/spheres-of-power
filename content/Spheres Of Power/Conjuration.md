@@ -990,12 +990,6 @@ Additionally, as a full-round action, your companion may render a creature that 
 
 ---
 
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-conjuration|Wild Magic]] page.*
-
----
-
 # Gamemastering
 
 #### Too Many Companions
@@ -1672,12 +1666,6 @@ The Twinsoul Elementalist is an Elementalist that creates and commands a splinte
 ## [[Void Wielder|Old Void Wielder]]
 
 The Void Wielder is an Armorist that siphons the very souls of their enemies, then calls them forth to do battle.
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-conjuration|Wild Magic]] page.*
 
 ---
 

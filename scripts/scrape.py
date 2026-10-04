@@ -65,6 +65,8 @@ EXCLUDED_TAGS = {"LG", "SM—"}  # Legendary Games, Studio M—
 EXCLUDED_PAGES = {
     # Wikidot's own help / boilerplate pages
     "how-to-edit-pages", "what-is-a-wiki-site", "modules-reference", "bb-code-profile-template",
+    # unlinked, untitled duplicate of the Nature sphere page
+    "nature-2",
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
     # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
@@ -1329,14 +1331,17 @@ def convert(with_images: bool) -> None:
                 if p.slug == WILD_MAGIC_SLUG:
                     label = WILD_MAGIC_CORE_LABELS.get(name, name)
                     wm_core.append((label, table))
-                    text = "{{WM_CHOOSER}}" if i == 0 else \
-                        f"*Roll on the [{label} table](#{wm_id(label)}) in the Wild Magic Tables chooser.*"
+                    text = f"*Roll on the [{label} table](#{wm_id(label)}) in Wild Magic Tables below.*"
                 else:
                     label = p.title
                     wm_spheres.setdefault(label, table)  # first one = the Ultimate tab's
-                    text = (f"*This sphere's wild magic table and roller are on the "
-                            f"[[Wild Magic#{wm_id(label)}|Wild Magic]] page.*")
+                    text = ""  # the sphere's Wild Magic section goes away entirely (below)
                 body_md = body_md.replace(f"{{{{ROLL:{i}}}}}", text, 1)
+            if p.slug != WILD_MAGIC_SLUG:
+                # drop the now-empty "Wild Magic" heading, then merge the back-to-back dividers
+                body_md = re.sub(r"^#{1,6} Wild Magic[ \t]*\n(?:[ \t]*\n)*(?=#{1,6} |---|</div>|\Z)",
+                                 "", body_md, flags=re.M)
+                body_md = re.sub(r"^---\n(?:[ \t]*\n)*---[ \t]*$", "---", body_md, flags=re.M)
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
@@ -1347,8 +1352,9 @@ def convert(with_images: bool) -> None:
 
     if wm_page:
         dest, out = wm_page
-        chooser = "## Wild Magic Tables\n\n" + wild_magic_chooser(wm_core, wm_spheres)
-        dest.write_text(out.replace("{{WM_CHOOSER}}", chooser, 1), encoding="utf-8")
+        # all the tables, at the end of the page (not under any one section)
+        chooser = "# Wild Magic Tables\n\n" + wild_magic_chooser(wm_core, wm_spheres)
+        dest.write_text(out.rstrip("\n") + "\n\n---\n\n" + chooser + "\n", encoding="utf-8")
         print(f"Wild Magic chooser: {len(wm_core)} general + {len(wm_spheres)} sphere tables")
 
     # folders emptied by exclusions or renames

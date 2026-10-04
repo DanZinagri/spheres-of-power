@@ -772,14 +772,6 @@ Your escape masks any memory of your presence.
 
 ---
 
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-mind|Wild Magic]] page.*
-
----
-
 # About Dreamscapes
 
 Some of the material on this site will reference dreamscapes, subrealities that exist within the minds of most sentient beings, often whether they are aware that they exist or not. No one knows exactly how or why dreamscapes first came to be, but they seem to exist as interconnected islands of psychic energy separated by an unknown sea of consciousness that has, so far, defied most attempts at classification by scholars of the arcane.
@@ -1253,12 +1245,6 @@ By spending 2 spell points as a standard action you may enter a heightened state
 Click the header above to see the Sphere-Specific Drawbacks for this sphere. If you're using the optional Casting Tradition rules, Drawbacks allow you to acquire one or more bonus talents in a sphere in exchange for a limit on using this sphere.
 
 ---
-
----
-
-# Wild Magic
-
-*This sphere's wild magic table and roller are on the [[Wild Magic#wm-mind|Wild Magic]] page.*
 
 ---
 
