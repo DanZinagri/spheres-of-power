@@ -538,3 +538,9 @@ code {
 .chip.skill {
   color: #8a5cc7;
 }
+.chip.bg {
+  color: var(--tertiary);
+  margin-left: 0.35rem;
+  font-size: 0.68em;
+  vertical-align: middle;
+}

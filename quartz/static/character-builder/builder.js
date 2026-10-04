@@ -25,6 +25,10 @@ const SKILLS = {
   swm: ["Swim", "str", 0, 1], umd: ["Use Magic Device", "cha", 1, 0],
 }
 const SUB_SKILLS = ["crf", "prf", "pro"]
+// PF1 "Background Skills" variant (pf1.config.backgroundSkills): 2 extra ranks per class level for these
+const BG_SKILLS = ["apr", "art", "crf", "han", "ken", "kge", "khi", "kno", "lin", "lor", "prf", "pro", "slt"]
+const BG_ONLY = ["art", "lor"]
+const BG_PER_LEVEL = 2
 const ALIGNMENTS = { lg: "Lawful Good", ng: "Neutral Good", cg: "Chaotic Good", ln: "Lawful Neutral", tn: "True Neutral", cn: "Chaotic Neutral", le: "Lawful Evil", ne: "Neutral Evil", ce: "Chaotic Evil" }
 const SIZES = { fine: ["Fine", 8], dim: ["Diminutive", 4], tiny: ["Tiny", 2], sm: ["Small", 1], med: ["Medium", 0], lg: ["Large", -1], huge: ["Huge", -2], grg: ["Gargantuan", -4], col: ["Colossal", -8] }
 const PROGRESSION = { high: "High", med: "Medium", low: "Low" }
@@ -69,6 +73,7 @@ function blankState() {
     features: [],
     talents: [],
     spheresModule: false,
+    backgroundSkills: false,
     sphere: { casting: "", practitioner: "", operative: "", tradition: "" },
     spellcasting: { cls: -1, ability: "int", type: "prepared", progression: "high" },
     spells: [],
@@ -157,8 +162,17 @@ function calc() {
   let skillBudget = 0
   for (const c of classes) skillBudget += Math.max(1, num(c.skills) + abl.int.mod) * num(c.level) + num(c.fcbSkill)
   skillBudget += num(s.race.bonusSkillPerLevel) * hd
-  let ranksUsed = Object.values(s.skills).reduce((a, r) => a + num(r), 0)
-  for (const k of SUB_SKILLS) ranksUsed += s.subSkills[k].reduce((a, e) => a + num(e.rank), 0)
+  // background ranks overspent spill into the normal pool, as in the PF1 system
+  let normalUsed = 0, bgUsed = 0
+  for (const k of Object.keys(SKILLS)) {
+    if (BG_ONLY.includes(k) && !s.backgroundSkills) continue
+    let r = num(s.skills[k])
+    if (SUB_SKILLS.includes(k)) r += s.subSkills[k].reduce((a, e) => a + num(e.rank), 0)
+    if (s.backgroundSkills && BG_SKILLS.includes(k)) bgUsed += r
+    else normalUsed += r
+  }
+  const bgBudget = s.backgroundSkills ? BG_PER_LEVEL * hd : 0
+  const ranksUsed = normalUsed + Math.max(0, bgUsed - bgBudget)
 
   const featSlots = Math.ceil(hd / 2) + num(s.race.bonusFeats)
   const featsTaken = s.features.filter((f) => f.kind === "feat").length
@@ -170,7 +184,7 @@ function calc() {
   const spheres = { cl, msb, msd: 11 + msb, concentration: msb + castMod, talents: {} }
   for (const t of s.talents) if (t.sphere && !t.exclude) spheres.talents[t.sphere] = (spheres.talents[t.sphere] ?? 0) + 1
   const pointsSpent = ABL.reduce((a, k) => a + (POINT_COST[num(s.abilities[k])] ?? NaN), 0)
-  return { abl, hd, bab, saves, hp, classHp, ac, touch, flat, cmb, cmd, acp, asf, classSkills, skillBudget, ranksUsed, featSlots, featsTaken, cl, spheres, pointsSpent, size }
+  return { abl, hd, bab, saves, hp, classHp, ac, touch, flat, cmb, cmd, acp, asf, classSkills, skillBudget, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
 }
 
 function classHpFor(c, i) {
@@ -293,7 +307,7 @@ function renderSummary() {
   const stat = (label, v) => h("div", { class: "stat" }, h("b", {}, v), h("span", {}, label))
   const budget = (label, used, total) =>
     h("div", { class: "budget" }, h("span", {}, label), h("span", { class: used > total ? "warn" : used === total ? "ok" : "" }, `${used} / ${total}`))
-  document.getElementById("summary").replaceChildren(
+  document.getElementById("summary").replaceChildren(...[
     h("div", { class: "card" },
       h("div", { class: "stat-grid" },
         ...ABL.map((k) => stat(k.toUpperCase(), `${c.abl[k].total} (${signed(c.abl[k].mod)})`)),
@@ -324,11 +338,12 @@ function renderSummary() {
       : null,
     h("div", { class: "card" },
       budget("Skill ranks", c.ranksUsed, c.skillBudget),
+      state.backgroundSkills ? budget("Background ranks", Math.min(c.bgUsed, c.bgBudget), c.bgBudget) : null,
       budget("Feats", c.featsTaken, c.featSlots),
       h("div", { class: "budget" }, h("span", {}, "Character level"), h("span", {}, c.hd)),
       h("p", { class: "note", style: "margin:.4rem 0 0" }, "Preview only. Foundry recalculates everything when the file is imported."),
     ),
-  )
+  ].filter(Boolean))
 }
 
 // ---------- panels ----------
@@ -472,10 +487,12 @@ const panels = {
       return el
     }
     const rows = []
+    const bg = state.backgroundSkills
     for (const [k, [label, abl, trainedOnly, acp]] of Object.entries(SKILLS)) {
+      if (BG_ONLY.includes(k) && !bg) continue
       const rank = num(state.skills[k])
       rows.push(h("tr", { class: c.classSkills.has(k) ? "cs" : "", "data-key": k },
-        h("td", {}, label, trainedOnly ? h("span", { class: "note" }, " (trained)") : null),
+        h("td", {}, label, bg && BG_SKILLS.includes(k) ? h("span", { class: "chip bg", title: "Background skill" }, "BG") : null, trainedOnly ? h("span", { class: "note" }, " (trained)") : null),
         h("td", {}, abl.toUpperCase(), acp ? h("span", { class: "note" }, " ACP") : null),
         h("td", { class: "num" }, rankInput(() => num(state.skills[k]), (v) => (state.skills[k] = v), label)),
         h("td", { class: "num tot" }, signed(skillTotal(k, rank, c))),
@@ -503,6 +520,11 @@ const panels = {
     }
     return [
       h("h2", {}, "Skills"),
+      h("div", { class: "card row", style: "margin-bottom:.75rem" },
+        checkbox("backgroundSkills", h("strong", {}, "Background skills")),
+        h("span", { class: "note", style: "flex:1 1 260px" }, `Pathfinder Unchained variant: +${BG_PER_LEVEL} ranks per class level for skills marked BG, and Artistry and Lore become available. Turn on the matching world setting in Foundry too (Game Settings → System Settings → Variant Rules → Background Skills).`),
+        bg ? h("span", { class: c.bgUsed > c.bgBudget ? "warn" : "" }, `Background ranks: ${Math.min(c.bgUsed, c.bgBudget)} / ${c.bgBudget}${c.bgUsed > c.bgBudget ? ` (${c.bgUsed - c.bgBudget} taken from normal ranks)` : ""}`) : null,
+      ),
       h("p", { class: "muted" }, `● marks a class skill (set on the Classes tab). Max ranks per skill: ${c.hd}. Totals include ranks, ability modifier, +3 for trained class skills and armor check penalty.`),
       h("div", { class: "table-wrap card" },
         h("table", {},
@@ -852,7 +874,7 @@ function buildActor() {
 
   const skills = {}
   for (const k of Object.keys(SKILLS)) {
-    const entry = { rank: num(s.skills[k]) }
+    const entry = { rank: BG_ONLY.includes(k) && !s.backgroundSkills ? 0 : num(s.skills[k]) }
     if (SUB_SKILLS.includes(k) && s.subSkills[k].length) {
       entry.subSkills = {}
       s.subSkills[k].forEach((sub, i) => {
