@@ -517,36 +517,6 @@ You have mastered your body so completely that you can control its processes wit
 
 ---
 
-# Archetypes Specializing in Body Control
-
-## [[Adamant Disciple (Unchained Monk Archetype)|Adamant Disciple]]
-
-Adamant disciples train their body to be as resilient as possible, and are capable of withstanding the deadliest of blows.
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)

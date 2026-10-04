@@ -804,48 +804,6 @@ You can also choose to forgo the additional effect of the dredged area that redu
 
 ---
 
-# Archetypes Specializing in Survivalism
-
-## [[Game Hunter (Gunslinger Archetype)|Game Hunter]] [DRS, CS]
-
-The game hunter is more adapted to the wilds than other gunslingers, making them difficult to escape from, and even if their quarry does escape, it usually isn’t for long.
-
-## [[Peltmonger]] [LotS, CS]
-
-The peltmonger specializes in creating and modifying equipment which was once harvested from creatures.
-
-## [[Primordia (Skald Archetype)|Primordia]]
-
-Primordia can sing ancient notes to change the world around them to their whims.
-
-## [[Ravener]]
-
-Incredibly spiritual (or sadistic), raveners are not as careful with the preparation of their meals, tending to devour a part of a creature in an attempt to draw upon their strength and ability
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)

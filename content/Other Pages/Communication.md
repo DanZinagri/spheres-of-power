@@ -496,44 +496,6 @@ You do not gain the betray ability, and gain the Candid Disclosure talent.
 
 ---
 
-# Archetypes Specializing in Communication
-
-## [[Administrator]] [LotS, CS]
-
-Administrators take an active role in understanding and shaping their situation, viewing conflict as a struggle that expands far beyond the battlefield.
-
-## [[Bellwether]] [LotS, CS]
-
-Bellwethers are more adept at ordinary means of social communication than most eliciters.
-
-## [[Squad Operator]]
-
-While masterminds typically involve an expansive pool of allies and assets in their plans, squad operators excel at coordinating a small group of skilled and loyal agents in a variety of complex schemes.
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)

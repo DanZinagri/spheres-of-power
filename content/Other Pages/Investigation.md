@@ -575,48 +575,6 @@ Additionally, you gain a +1 insight bonus to analyze skill checks made against t
 
 ---
 
-# Archetypes Specializing in Investigation
-
-## [[Arbiter (PaladinAntipaladin Archetype)|Arbiter]]
-
-Whereas most paladins are known as the blades of their deities, arbiters are the ever-watchful eyes of their deities.
-
-## [[Detective (Investigator Archetype)|Detective]]
-
-Already known for their keen eye and wit, an investigator is trained to pick up on details that others may miss; but who do you call upon when all clues have run cold? A detective.
-
-## [[Erudite Soul (Unchained Monk Archetype)|Erudite Soul]]
-
-Erudite souls are monks who focus their monastic training on critical thinking. Although more astute and critical of the world than their fellow monks, erudite souls still hold their monastic teachings close to their hearts.
-
-## [[Surveyor]] [LotS, CS]
-
-Surveyors specialize in analyzing environments rather than creatures, studying the field of battle and utilizing it to the utmost capacity.
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)

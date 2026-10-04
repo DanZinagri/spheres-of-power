@@ -23,13 +23,3 @@ This ability modifies phantom.
 This ability replaces detect undead, calm spirit, see invisibility, and call spirit.
 
 ---
-
-**Classes**
-
-[[Nexus]] · [[Radiant]]
-
-**Umbral Organizations**
-
-[Get The City of 7 Seraphs](https://www.drivethrurpg.com/product/269801/The-City-of-7-Seraphs?affiliate_id=549120)
-
-[Get Spheres of Akasha](https://www.drivethrurpg.com/product/353894/Spheres-of-Akasha?affiliate_id=549120)

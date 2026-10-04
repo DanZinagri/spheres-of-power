@@ -641,44 +641,6 @@ You can hack the effect as part of its casting or activation if you cast the eff
 
 ---
 
-# Archetypes Specializing in Spellhacking
-
-## [[Interdictor]] [DRS]
-
-Mistaken as a less-refined conduit, an interdictor applies deadly focus to the direct combat applications that a conduit is typically known for.
-
-## [[Magitect (Wizard Archetype)|Magitect]] [DRS]
-
-With great knowledge of the construction and sequences of arcane theory, the magitect understands the underlying foundations of magic, and is able to manipulate that to their will.
-
-## [[Spellwarper (Inquisitor Archetype)|Spellwarper]] [DRS]
-
-Magic–be it arcane, divine, or something else–is as much of a useful tool as it is a deadly weapon.
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)

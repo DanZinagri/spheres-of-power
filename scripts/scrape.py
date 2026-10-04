@@ -313,6 +313,8 @@ class WikiConverter(MarkdownConverter):
     # simply shows the columns stacked.
     def convert_div(self, el, text, *args, **kw):
         cls = el.get("class") or []
+        if "sop-roller" in cls:
+            return '\n\n<div class="sop-roller"></div>\n\n'
         if "sop-tab-label" in cls:
             return f'\n\n<div class="sop-tab-label">{html.escape(el.get_text(" ", strip=True))}</div>\n\n'
         for name in ("sop-columns", "sop-col", "sop-tabs", "sop-tab"):
@@ -925,10 +927,57 @@ def archetype_tables(md: str) -> str:
     return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
 
 
+# Sections removed wherever they appear (heading text, matched case-insensitively from the start)
+DROPPED_SECTIONS = re.compile(r"\s*archetypes specializing in\b", re.I)
+
+
+def mark_generators(body: Tag, soup_factory) -> None:
+    """The wiki's random-table generators were embedded HTML widgets (iframes, not mirrored).
+    Each becomes a .sop-roller marker; Quartz's SopRoller script rolls on the table after it."""
+    for iframe in body.select("iframe.html-block-iframe"):
+        heading = iframe.find_previous(re.compile(r"^h[1-6]$"))
+        if heading is None or "generator" not in heading.get_text(" ", strip=True).lower():
+            continue
+        marker = soup_factory.new_tag("div", attrs={"class": "sop-roller"})
+        holder = iframe.parent
+        if holder is not None and holder.name == "p" and not holder.get_text(strip=True):
+            holder.replace_with(marker)
+        else:
+            iframe.replace_with(marker)
+
+
+def drop_book_navboxes(body: Tag) -> None:
+    """Remove the per-book navigation boxes ("Spheres of Power by Drop Dead Studios" + class /
+    sphere / product links) repeated at the bottom of most pages; the home page lists it all."""
+    for table in body.find_all("table"):
+        if table.parent is None or not is_layout_table(table):
+            continue
+        first = next((c.get_text(" ", strip=True) for c in table.find_all(["td", "th"])
+                      if c.get_text(strip=True)), "")
+        if re.fullmatch(r".{3,80}\sby\s.{3,80}", first) and len(table.find_all("a")) >= 5:
+            table.decompose()
+
+
+def drop_sections(body: Tag, pattern: re.Pattern) -> None:
+    """Remove each heading matching pattern together with its section."""
+    is_heading = lambda el: isinstance(el, Tag) and re.fullmatch(r"h[1-6]", el.name or "")
+    for h in body.find_all(re.compile(r"^h[1-6]$")):
+        if h.parent is None or not pattern.match(h.get_text(" ", strip=True)):
+            continue
+        level = int(h.name[1])
+        sib = h.find_next_sibling()
+        while sib is not None and not (is_heading(sib) and int(sib.name[1]) <= level)                 and sib.name != "hr":
+            nxt = sib.find_next_sibling()
+            sib.decompose()
+            sib = nxt
+        h.decompose()
+
+
 def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
                nav: bool = False) -> None:
     """Rewrite wikidot widgets into plain HTML that markdownify understands."""
     group_columns(body, soup_factory)
+    mark_generators(body, soup_factory)
     for sel in ["#toc", "script", "style", ".wd-adunit", "iframe", ".page-tags",
                 ".footnotes-footer .title", ".printuser"]:
         for el in body.select(sel):
@@ -986,6 +1035,9 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
     for span in body.find_all("span"):
         span.unwrap()
     body.smooth()  # merge text split by the unwrapped spans
+    if not nav:
+        drop_book_navboxes(body)
+        drop_sections(body, DROPPED_SECTIONS)
     prune_tagged_entries(body, nav)
     if excluded:
         prune_excluded_entries(body, excluded)

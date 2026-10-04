@@ -6,7 +6,7 @@ import { BASE_URL } from "./site"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.SopTabs()],
+  afterBody: [Component.SopTabs(), Component.SopRoller()],
   footer: Component.Footer({
     links: {
       "Character Builder": `https://${BASE_URL}/Character-Builder`,

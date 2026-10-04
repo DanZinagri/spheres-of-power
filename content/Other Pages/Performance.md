@@ -866,56 +866,6 @@ You can spend 1 use of skill leverage to also have creatures who fail their savi
 
 ---
 
-# Archetypes Specializing in Performance
-
-## [[Cerebral Singer]] [LotS, CS]
-
-These symbiats rely less on the manipulation of matter and force, and more on melodies and the mind itself.
-
-## [[Dramaturge]] [DRS]
-
-The dramaturge is the backbone of any theatrical performance, at least, the good ones that is.
-
-## [[Musician (Bard Archetype)|Musician]] [DRS, CS]
-
-A musician seamlessly blends magic and creativity to imbue their performances with pure spectacle.
-
-## [[Pellucid Hunter (Hunter Archetype)|Pellucid Hunter]]
-
-These hunters have a connection to crystals and their innate resonance, which offer unique benefits to them and their animal companion.
-
-## [[Sync (Prodigy Archetype)|Sync]] [DRS, CS]
-
-The prodigy is no stranger to maintaining a rhythm, so why not put a beat to it?
-
-## [[Thespian (Bard Archetype)|Thespian]]
-
-Equally as versatile as a bard, the thespian brings the theater to the bard's repertoire.
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)

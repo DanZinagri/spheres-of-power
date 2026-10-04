@@ -566,52 +566,6 @@ Additionally, you gain a +1 insight bonus to analyze skill checks made against t
 
 ---
 
-# Archetypes Specializing in Study
-
-## [[Magitect (Wizard Archetype)|Magitect]] [DRS]
-
-With great knowledge of the construction and sequences of arcane theory, the magitect understands the underlying foundations of magic, and is able to manipulate that to their will.
-
-## [[Nomad]]
-
-From quiet wanderers, savvy cartographer’s and wanderlust-driven adventurers, nomads are a varied bunch who prefer travel over sedentary life.
-
-## [[Philosopher]] [DRS]
-
-These advisor’s are deep, profound thinkers that ponder the aspects of life that others simply do not.
-
-## [[Surveyor]] [LotS, CS]
-
-Surveyors specialize in analyzing environments rather than creatures, studying the field of battle and utilizing it to the utmost capacity.
-
-## [[Tactician (Investigator Archetype)|Tactician]] [DRS]
-
-A tactician doesn’t keep their incredible mind to themselves, but instead uses it to help coordinate their allies.
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)

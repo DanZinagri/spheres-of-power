@@ -648,48 +648,6 @@ Due to your repeated support, you gain an additional authorization you can call 
 
 ---
 
-# Archetypes Specializing in Faction
-
-## [[Idol]]
-
-Always the talk of the town, idols bring an envoy’s ability to gain influence to a whole new level.
-
-## [[Imposter]]
-
-Imposter agents are experts at insinuating themselves among enemies with no one being the wiser.
-
-## [[Knight Of The Order (Cavalier Archetype)|Knight Of The Order]]
-
-A knight of the order represent their respective orders in a variety of courtly and military matters, harnessing connections and decorum in addition to martial mastery.
-
-## [[Tribal Champion (Unchained Barbarian Archetype)|Tribal Champion]]
-
-Tribal champions understand that allies and coordination are just as important as physical strength in the world of battle.
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)

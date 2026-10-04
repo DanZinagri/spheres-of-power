@@ -222,13 +222,3 @@ Akashic Trinity · [[Nexus]] · [[Radiant]]
 [Get Akashic Mysteries](http://www.drivethrurpg.com/product/190611/Akashic-Mysteries?affiliate_id=549120) · [Get Akashic Trinity](http://www.drivethrurpg.com/product/238407/City-of-7-Seraphs--Akashic-Trinity?affiliate_id=549120)
 
 [Spheres of Akasha](https://www.drivethrurpg.com/product/353894/Spheres-of-Akasha?affiliate_id=549120) · [The Rajah](https://www.drivethrurpg.com/product/220762/Divergent-Paths-Rajah?affiliate_id=549120) · [The Stormbound](https://www.drivethrurpg.com/product/280292/The-Stormbound-PF1E?affiliate_id=549120) · [The Zodiac](https://www.drivethrurpg.com/product/242464/Classes-of-the-Lost-Spheres-Zodiac?affiliate_id=549120)
-
-**Classes**
-
-[[Nexus]] · [[Radiant]]
-
-**Umbral Organizations**
-
-[Get The City of 7 Seraphs](https://www.drivethrurpg.com/product/269801/The-City-of-7-Seraphs?affiliate_id=549120)
-
-[Get Spheres of Akasha](https://www.drivethrurpg.com/product/353894/Spheres-of-Akasha?affiliate_id=549120)

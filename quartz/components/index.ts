@@ -17,6 +17,7 @@ import Backlinks from "./Backlinks"
 import Search from "./Search"
 import PagefindSearch from "./PagefindSearch"
 import SopTabs from "./SopTabs"
+import SopRoller from "./SopRoller"
 import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
@@ -45,6 +46,7 @@ export {
   Search,
   PagefindSearch,
   SopTabs,
+  SopRoller,
   Footer,
   DesktopOnly,
   MobileOnly,

@@ -118,18 +118,6 @@ Even using the major event rules, no sphere effect may have a wild magic chance 
 
 ---
 
-## Archetypes Specializing In Wild Magic
-
-### -[[Arcanophage]]
-
-The Arcanophage is an archetype for the [[Elementalist]] that involves mimicking the sphere abilities they see - but the more knowledge they borrow, the greater the risk of wild magic!
-
-### -[[Wild Mage]]
-
-The Wild Mage is an archetype for the [[Thaumaturge]] and the true master of Wild Magic. Throwing caution to the wind, they tap the power of chaos on a regular basis and can trigger Wild Magic more often - and with more control - than anyone else.
-
-In addition, the [[Armorist]] (Chaotic Armament Arsenal Trick), [[Mageknight]] (Aura of Chaos and Curse of Chaos Mystic Combats, plus Spell Mirror and Spell Shield as defenses), [[Prodigy]] (Wild Magic Imbue Sequence), and [[Scholar]] (Lead Material Imposition) have class options related to wild magic. Any character can take [[Wild Magic Feats]] or the [[Casting Traditions|Variant Wild Magic]] drawback to start using Wild Magic.
-
 ---
 
 # Universal Wild Magic
@@ -137,6 +125,8 @@ In addition, the [[Armorist]] (Chaotic Armament Arsenal Trick), [[Mageknight]] (
 Universal wild magic can be triggered by a variety of effects, such as class abilities, when no base sphere is involved. They're also suitable for more generic effects that don't lean towards any particular sphere (such as raw chaos or pure magic going haywire).
 
 ### Universal Wild Magic Generator
+
+<div class="sop-roller"></div>
 
 ### Universal Wild Magic Table
 
@@ -251,6 +241,8 @@ Effects from this table can be triggered as described in the 'Wild Magic and Can
 
 ### Cantrip Wild Magic Generator
 
+<div class="sop-roller"></div>
+
 ### Cantrip Wild Magic Table
 
 | d100 | Result |
@@ -364,6 +356,8 @@ Major Events are optional in games using Wild Magic. This table includes effects
 
 ### Major Event Generator
 
+<div class="sop-roller"></div>
+
 ### Major Event Table
 
 | d100 | Result |
@@ -470,117 +464,5 @@ Major Events are optional in games using Wild Magic. This table includes effects
 | 100 | All creatures within 1 mile per caster level of the caster lose all remaining spell points and spell slots. These can be regained later by normal means. |
 
 ---
-
-**Spheres of Power by Drop Dead Studios**
-
-[[Using Spheres Of Power|Using Spheres of Power]]
-
-**Classes**
-
-[[Armorist]] · [[Elementalist]] · [[Eliciter]] · [[Fey Adept]]
-
-[[Hedgewitch]] · [[Incanter]] · [[Mageknight]] · [[Shifter]]
-
-[[Soul Weaver]] · [[Symbiat]] · [[Thaumaturge]] · [[Wraith]]
-
-**Prestige Classes**
-
-[[Bokor]] · [[Forest Lord]] · [[Magemage]] · [[Realmwalker]]
-
-[[Tempestarii]] · [[Waking Sleeper]]
-
-**Spheres**
-
-[[Alteration]] · [[Blood]] · [[Conjuration]] · [[Creation]]
-
-[[Dark]] | [[Polished Dark]] [DRS] · [[Death]] · [[Destruction]] · [[Divination]]
-
-[[Enhancement]] · [[Fallen Fey]] · [[Fate]] · [[Illusion]]
-
-[[Life]] · [[Light]] · [[Mana]] · [[Mind]]
-
-[[Nature]] · [[Protection]] · [[Telekinesis]] · [[Time]]
-
-[[War]] · [[Warp]] · [[Weather]]
-
-**Other Spheres**
-
-[[Bear]]
-
-**Rules**
-
-[[About Advanced Magic]] · [[Advanced Talents]] · [[Alternate Racial Traits]] · [[Casting Traditions]]
-
-[[Incantations]] · [[Magical Items]] · [[Mythic Spheres]] · [[Rituals]]
-
-[[Spellcrafting]] · [[Traits]] · [[Wild Magic]] · [[Sphere Bestiary]]
-
-**Equipment**
-
-[[Weapons]] · [[Armor]] · [[Equipment]] · [[Special Materials]]
-
-[[Alchemical Items]] · [[Apparatuses Rods (ConstantAt-Will Items)|Apparatuses]] ([[Metamagic Apparatuses|Metamagic]]) · [[Charms Rings (Constant Bonus Items)|Charms]] · [[Compounds Potions (Consumable Items)|Compounds]]
-
-[[Fabled Items]] · [[Implements Staves (Caster LevelTalent Access)|Implements]] · [[Marvelous Items Wondrous Items|Marvelous Items]] · [[Schematics]]
-
-[[Scrolls]] · [[Spell Engines Wands|Spell Engines]] · [[Spellzones]] · [[Talent Crystals]]
-
-**Feats**
-
-[[Admixture Feats|Admixture]] · [[Anathema Feats|Anathema]] · [[Aristeia Feats|Aristeia]] · [[Champion Feats|Champion]]
-
-[[Chance Feats|Chance]] · [[Channeling Feats|Channeling]] · [[Combat Feats|Combat]] · [[Companion Feats|Companion]]
-
-[[Counterspell Feats|Counterspell]] · [[Damnation Feats|Damnation]] · [[DrawbackDefiler Feats|Drawback]] · [[Extra Feats|Extra]]
-
-[[General Feats|General]] · [[Item Creation Feats|Item Creation]] · [[Metamagic Feats|Metamagic]] · [[Necrosis Feats|Necrosis]]
-
-[[Plague Feats|Plague]] · [[Protokinesis Feats|Protokinesis]] · [[Proxy Feats|Proxy]] · [[Purring Feats|Purring]]
-
-[[Racial Feats|Racial]] · [[Ritual Feats|Ritual]] · [[Squadron Feats|Squadron]] · [[Surreal Feats|Surreal]]
-
-[[Teamwork Feats|Teamwork]] · [[Theurge Feats|Theurge]] · [[Wild Magic Feats|Wild Magic]]
-
-[Get Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120) · [Get the Original Rulebook](http://www.drivethrurpg.com/product/129448/Spheres-of-Power?affiliate_id=549120)U
-
-[Get Expanded Options](http://www.drivethrurpg.com/product/151284/Spheres-of-Power-Expanded-Options?affiliate_id=549120)U · [Get Expanded Options 2](https://www.drivethrurpg.com/product/287225/Expanded-Options-2?affiliate_id=549120)
-
-[Alteration Handbook](http://www.drivethrurpg.com/product/196160/The-Shapeshifters-Handbook?affiliate_id=549120)U · [Conjuration Handbook](http://www.drivethrurpg.com/product/237578/The-Conjurers-Handbook?affiliate_id=549120)U · [Creation Handbook](http://www.drivethrurpg.com/product/229047/The-Creators-Handbook?affiliate_id=549120)U · [Dark Handbook](http://www.drivethrurpg.com/product/211601/The-Nyctomancers-Handbook?affiliate_id=549120)U
-
-[Death Handbook](http://www.drivethrurpg.com/product/260006/The-Necromancers-Handbook?affiliate_id=549120)U · [Destruction Handbook](http://www.drivethrurpg.com/product/172719/The-Destroyers-Handbook?affiliate_id=549120)U · [Divination Handbook](http://www.drivethrurpg.com/product/178419/Diviners-Handbook?affiliate_id=549120)U · [Enhancement Handbook](http://www.drivethrurpg.com/product/184708/The-Enhancers-Handbook?affiliate_id=549120)U
-
-[Fate Handbook](http://www.drivethrurpg.com/product/241800/The-Auspicians-Handbook?affiliate_id=549120)U · [Illusion Handbook](https://www.drivethrurpg.com/product/256998/The-Tricksters-Handbook?affiliate_id=549120)U · [Life Handbook](http://www.drivethrurpg.com/product/222492/The-Vivomancers-Handbook?affiliate_id=549120)U · [Light Handbook](http://www.drivethrurpg.com/product/187523/The-Illuminators-Handbook?affiliate_id=549120)U
-
-[Mind Handbook](http://www.drivethrurpg.com/product/218592/The-Mentalists-Handbook?affiliate_id=549120)U · [Nature Handbook](http://www.drivethrurpg.com/product/165487/The-Geomancers-Handbook?affiliate_id=549120)U · [Protection Handbook](http://www.drivethrurpg.com/product/245677/The-Abjurers-Handbook?affiliate_id=549120)U · [Telekinesis Handbook](http://www.drivethrurpg.com/product/167879/The-Telekinetics-Handbook?affiliate_id=549120)U
-
-[Time Handbook](https://www.drivethrurpg.com/product/258760/The-Tricksters-Handbook?affiliate_id=549120)U · [War Handbook](http://www.drivethrurpg.com/product/204473/The-Battlemages-Handbook?affiliate_id=549120)U · [Warp Handbook](https://www.drivethrurpg.com/product/271735/The-Worldwalkers-Handbook?affiliate_id=549120)U · [Weather Handbook](https://www.drivethrurpg.com/product/265379/The-Tempestarians-Handbook?affiliate_id=549120)U
-
-**Spheres Apocrypha**
-
-[Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120) · [Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120) · [Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120) · [Cognition Talents](https://www.drivethrurpg.com/product/293022/Spheres-Apocrypha-Cognition-Talents?affiliate_id=549120)
-
-[Cohorts and Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120) · [Dark Apocrypha](http://drivethrurpg.com/product/238397/Spheres-Apocrypha-Dark-Talents?affiliate_id=549120)U · [Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120) · [Destruction Apocrypha](http://drivethrurpg.com/product/224356/Spheres-Apocrypha-Destruction-Talents?affiliate_id=549120)U
-
-[Light Apocrypha](https://www.drivethrurpg.com/product/258174/Spheres-Apocrypha-Light-Talents?affiliate_id=549120)U · [Nature (Air) Package](https://www.drivethrurpg.com/product/252980/Spheres-Apocrypha-Nature-Package-Air?affiliate_id=549120)U · [Nature (Earth) Apocrypha](http://www.drivethrurpg.com/product/243515/Spheres-Apocrypha-Nature-Talents-Earth?affiliate_id=549120)U · [Nature (Fire) Apocrypha](http://www.drivethrurpg.com/product/242844/Spheres-Apocrypha-Nature-Talents-Fire?affiliate_id=549120)U
-
-[Nature (M/P/W) Apocrypha](http://www.drivethrurpg.com/product/247554/Spheres-Apocrypha-Nature-Talents-Metal-Plant-Water?affiliate_id=549120)U · [Nature (Spirit) Apocrypha](http://www.drivethrurpg.com/product/244145/Spheres-Apocrypha-Nature-Talents-Spirit?affiliate_id=549120)U · [Protokinesis Apocrypha](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)U · [Sidhe Court](https://www.drivethrurpg.com/product/309140/Spheres-Apocrypha-Sidhe-Court?affiliate_id=549120)
-
-**Other Spheres Products**
-
-[Archetypes of Power](https://www.drivethrurpg.com/product/253494/Archetypes-of-Power?affiliate_id=549120)U · [Archetypes of Power 2](https://www.drivethrurpg.com/product/330569/Archetypes-of-Power-2?affiliate_id=549120) · [The Bear Sphere](https://www.drivethrurpg.com/product/271539/The-Bear-Sphere?affiliate_id=549120) · [The Blood Sphere](https://www.drivethrurpg.com/product/262637/The-Sanguinists-Handbook?affiliate_id=549120)U
-
-[Blood and Portents](https://www.drivethrurpg.com/product/315741/The-Blood-and-Portents-Handbook?affiliate_id=549120) · [Compounds of Power](https://www.drivethrurpg.com/product/307217/Compounds-of-Power?affiliate_id=549120) · [The Conqueror's Handbook](https://www.drivethrurpg.com/product/303447/The-Conquerors-Handbook?affiliate_id=549120) · [The Fallen Fey Sphere](https://www.drivethrurpg.com/product/268665/The-Fey-Binders-Handbook?affiliate_id=549120)U
-
-[Initiate's Handbook](https://www.drivethrurpg.com/product/300841/The-Initiates-Handbook?affiliate_id=549120) · [Items of Power](https://www.drivethrurpg.com/product/267932/Items-of-Power?affiliate_id=549120)U · [The Jester's Handbook](https://www.drivethrurpg.com/product/308310/The-Jesters-Handbook?affiliate_id=549120) · [Mythic Spheres of Power](https://www.drivethrurpg.com/product/290309/Mythic-Spheres-of-Power?affiliate_id=549120)
-
-[The Technomancy Sphere](https://www.drivethrurpg.com/product/271823/Arcforge-Campaign-Setting-Spheres-of-Influence?affiliate_id=549120) · [Treasures of the Spheres](https://www.drivethrurpg.com/product/315654/Treasures-of-the-Spheres?affiliate_id=549120) · [Treasures: Weapons and Tools](https://www.drivethrurpg.com/product/354819/Treasures-of-the-Spheres-Weapons-and-Tools?affiliate_id=549120) · [The Wraith Class](https://www.drivethrurpg.com/product/253910/The-Wraith?affiliate_id=549120)U
-
-[Wild Magic](http://www.drivethrurpg.com/product/239904/Wild-Magic?affiliate_id=549120) · [Woodfaring Adventures](https://www.drivethrurpg.com/product/252347/Woodfaring-Adventures?affiliate_id=549120) · [Worlds of Power](https://www.drivethrurpg.com/product/153171/Worlds-of-Power?affiliate_id=549120) · [The Youxia's Handbook](https://www.drivethrurpg.com/product/311869/The-Youxias-Handbook?affiliate_id=549120)
-
-[Bestiary: Fey and Feyfolk](https://www.drivethrurpg.com/product/322425/Spheres-Bestiary-Fey-and-Feyfolk?affiliate_id=549120) · [The High Magic Handbook](https://www.drivethrurpg.com/product/349943/The-High-Magic-Handbook?affiliate_id=549120) · [Realmwalker's Handbook](https://www.drivethrurpg.com/product/358712/The-Realmwalkers-Handbook?affiliate_id=549120) · [Bestiary: Fiends of the Cosmos](https://www.drivethrurpg.com/product/372523/Spheres-Bestiary-Fiends-of-the-Cosmos?affiliate_id=549120)
-
-**Adventures**
-
-[Wreckage to Deliverance](https://www.drivethrurpg.com/product/341872/Wreckage-to-Deliverance?affiliate_id=549120) · [Wreckage to Deliverance Player's Guide](https://www.drivethrurpg.com/product/341871/Wreckage-to-Deliverance-Players-Guide?affiliate_id=549120)
 
 **U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

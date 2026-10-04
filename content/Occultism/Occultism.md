@@ -505,48 +505,6 @@ If using a scatter weapon, the rite only applies to a single target, chosen at t
 
 ---
 
-# Archetypes Specializing in Occultism
-
-## [[Esper]]
-
-Instead of empowering their own psionic magic, espers possess a natural knack for the occult, and can even weave the two practices together.
-
-## [[Fanebound Mystic]]
-
-Occultists are no strangers to binding themselves to history and artifice for power—fanebound mystics eschew the binding of beings for a more precise power.
-
-## [[Hexblade]]
-
-Covens and witches may command great magical power, but can easily be undone when cornered, so it is common for a community or cabal to have one among their number be baptized in hexfire—becoming a sentinel that employs both cruel hexcraft and cold steel.
-
-## [[Initiate]]
-
-Most mediums weaken their connection to the occult by becoming a vessel for spirits so that they may draw upon experiences and power that they don’t have. Initiates on the other hand focus on their occult understanding, and further it by calling upon those that know best—those that have already followed this path.
-
 </div>
 
 </div>
-
-**Spheres of Guile by Drop Dead Studios**
-
-[[Using Spheres Of Guile|Using Spheres of Guile]]
-
-**Classes**
-
-[[Advisor]] (DRS) · [[Agent]] · [[Conduit]] (DRS) · [[Courser]] · [[Envoy]]
-
-[[Genius]] · [[Mastermind]] · [[Professional]]
-
-**Spheres**
-
-[[Artifice]] · [[Bluster]] · [[Body Control]] · [[Communication]] · [[Faction]]
-
-[[Herbalism]] · [[Infiltration]] · [[Investigation]] · [[Navigation]] · [[Performance]]
-
-[[Spellhacking]] · [[Study]] · [[Subterfuge]] · [[Survivalism]] · [[Vocation]]
-
-**Other Rules**
-
-[[Operative Feats]] · [[Operative Gear]] · [[Skill Rules]] · [[Trade Traditions]] · [[Running Guile Games]]
-
-[Get Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)
