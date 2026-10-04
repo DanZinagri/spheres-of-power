@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [Component.SopTabs()],
   footer: Component.Footer({
     links: {
+      "Character Builder": `https://${BASE_URL}/Character-Builder`,
       "Open Game License": `https://${BASE_URL}/Meta/Legal-and-Open-Game-License`,
       "Original wiki": "https://spheresofpower.wikidot.com",
       "Drop Dead Studios": "https://www.dropdeadstudios.com",

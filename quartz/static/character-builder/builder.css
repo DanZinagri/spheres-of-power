@@ -1,0 +1,488 @@
+/* Palette mirrors quartz.config.ts so the builder sits inside the wiki without a seam */
+:root {
+  --light: #faf8f8;
+  --lightgray: #e5e5e5;
+  --gray: #b8b8b8;
+  --darkgray: #4e4e4e;
+  --dark: #2b2b2b;
+  --secondary: #1f5fbf;
+  --tertiary: #84a59d;
+  --highlight: rgba(143, 159, 169, 0.15);
+  --card: #ffffff;
+  --power: #1f5fbf;
+  --might: #b5422f;
+  --warn: #a15c00;
+  --ok: #2f7d4f;
+  color-scheme: light;
+}
+:root[data-theme="dark"] {
+  --light: #161618;
+  --lightgray: #393639;
+  --gray: #646464;
+  --darkgray: #d4d4d4;
+  --dark: #ebebec;
+  --secondary: #5aa7ff;
+  --tertiary: #84a59d;
+  --highlight: rgba(143, 159, 169, 0.15);
+  --card: #1e1e21;
+  --power: #5aa7ff;
+  --might: #ef7a66;
+  --warn: #e0a24a;
+  --ok: #6cc28f;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  background: var(--light);
+  color: var(--darkgray);
+  font: 15px/1.45 "Source Sans Pro", system-ui, sans-serif;
+}
+h2,
+h3,
+h4 {
+  font-family: "Schibsted Grotesk", system-ui, sans-serif;
+  color: var(--dark);
+  margin: 0 0 0.5rem;
+}
+h2 {
+  font-size: 1.25rem;
+}
+h3 {
+  font-size: 1.05rem;
+  margin-top: 1.25rem;
+}
+p {
+  margin: 0.25rem 0 0.75rem;
+}
+a {
+  color: var(--secondary);
+}
+.muted {
+  color: var(--gray);
+  font-size: 0.9em;
+}
+:root[data-theme="dark"] .muted {
+  color: #9a9a9a;
+}
+.warn {
+  color: var(--warn);
+}
+.ok {
+  color: var(--ok);
+}
+
+button,
+.button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: var(--dark);
+}
+button,
+.button {
+  cursor: pointer;
+  border: 1px solid var(--lightgray);
+  background: var(--card);
+  border-radius: 6px;
+  padding: 0.35rem 0.75rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  white-space: nowrap;
+}
+button:hover,
+.button:hover {
+  border-color: var(--secondary);
+}
+button.primary {
+  background: var(--secondary);
+  border-color: var(--secondary);
+  color: #fff;
+  font-weight: 600;
+}
+:root[data-theme="dark"] button.primary {
+  color: #0b1a2e;
+}
+button.ghost,
+.button.ghost {
+  background: transparent;
+}
+button.small {
+  padding: 0.1rem 0.45rem;
+  font-size: 0.85em;
+}
+button.danger:hover {
+  border-color: var(--might);
+  color: var(--might);
+}
+button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+input,
+select,
+textarea {
+  background: var(--card);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  padding: 0.3rem 0.5rem;
+  min-width: 0;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: -1px;
+}
+input[type="number"] {
+  width: 4.5rem;
+}
+textarea {
+  width: 100%;
+  min-height: 7rem;
+  resize: vertical;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+.field > span {
+  color: var(--darkgray);
+}
+
+.app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0.75rem 16px 2rem;
+}
+.topbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  flex: 1 1 260px;
+}
+.name-input {
+  font: 700 1.5rem "Schibsted Grotesk", system-ui, sans-serif;
+  border: 1px solid transparent;
+  background: transparent;
+  padding: 0.1rem 0.3rem;
+  margin-left: -0.3rem;
+  width: 100%;
+}
+.name-input:hover {
+  border-color: var(--lightgray);
+}
+.char-line {
+  font-size: 0.95rem;
+  color: var(--gray);
+}
+:root[data-theme="dark"] .char-line {
+  color: #9a9a9a;
+}
+.actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tabs {
+  display: flex;
+  gap: 0.25rem;
+  overflow-x: auto;
+  border-bottom: 1px solid var(--lightgray);
+  margin-bottom: 1rem;
+  scrollbar-width: thin;
+}
+.tabs button {
+  border: 0;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  background: transparent;
+  padding: 0.5rem 0.7rem;
+  color: var(--darkgray);
+}
+.tabs button[aria-selected="true"] {
+  border-bottom-color: var(--secondary);
+  color: var(--dark);
+  font-weight: 600;
+}
+.tabs .count {
+  font-size: 0.75em;
+  background: var(--highlight);
+  border-radius: 999px;
+  padding: 0 0.4rem;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 1.25rem;
+  align-items: start;
+}
+@media (max-width: 860px) {
+  .layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .summary {
+    order: -1;
+    position: static !important;
+  }
+}
+.panel {
+  min-width: 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 0.75rem;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+.spacer {
+  flex: 1;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 0.75rem 0.9rem;
+}
+
+/* Summary sidebar */
+.summary {
+  position: sticky;
+  top: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.4rem;
+}
+.stat {
+  text-align: center;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  padding: 0.3rem 0.2rem;
+}
+.stat b {
+  display: block;
+  font: 700 1.15rem "Schibsted Grotesk", system-ui, sans-serif;
+  color: var(--dark);
+  font-variant-numeric: tabular-nums;
+}
+.stat span {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.kv {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.15rem 0.75rem;
+  font-size: 0.92em;
+}
+.kv dt {
+  color: var(--gray);
+}
+:root[data-theme="dark"] .kv dt {
+  color: #9a9a9a;
+}
+.kv dd {
+  margin: 0;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: var(--dark);
+}
+.budget {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.92em;
+}
+.note {
+  font-size: 0.82em;
+  color: var(--gray);
+}
+:root[data-theme="dark"] .note {
+  color: #9a9a9a;
+}
+
+/* Abilities */
+.abilities {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.75rem;
+}
+.ability {
+  text-align: center;
+}
+.ability .abbr {
+  font: 700 0.95rem "Schibsted Grotesk", system-ui, sans-serif;
+  letter-spacing: 0.05em;
+  color: var(--dark);
+}
+.ability .total {
+  font: 700 1.9rem "Schibsted Grotesk", system-ui, sans-serif;
+  color: var(--dark);
+  font-variant-numeric: tabular-nums;
+}
+.ability .mod {
+  font-size: 1rem;
+  font-weight: 600;
+}
+.ability .stepper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.3rem;
+  margin: 0.35rem 0;
+}
+.ability .stepper input {
+  width: 3.5rem;
+  text-align: center;
+}
+.ability .parts {
+  font-size: 0.8em;
+  color: var(--gray);
+  min-height: 1.2em;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95em;
+}
+th,
+td {
+  text-align: left;
+  padding: 0.3rem 0.4rem;
+  border-bottom: 1px solid var(--lightgray);
+  vertical-align: middle;
+}
+th {
+  font-weight: 600;
+  color: var(--dark);
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+td.num,
+th.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+tr.cs td:first-child::after {
+  content: " ●";
+  color: var(--secondary);
+  font-size: 0.7em;
+}
+.table-wrap {
+  overflow-x: auto;
+}
+
+.picked-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-top: 0.5rem;
+}
+.picked-list .pi {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--card);
+}
+.picked-list .pi .nm {
+  flex: 1;
+  min-width: 0;
+  cursor: pointer;
+}
+.group-title {
+  font-weight: 600;
+  margin: 0.6rem 0 0.25rem;
+  color: var(--dark);
+  font-size: 0.9em;
+}
+
+/* Classes */
+.class-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: end;
+}
+.class-row + .class-row {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--lightgray);
+}
+.class-row select {
+  max-width: 100%;
+}
+.features {
+  font-size: 0.9em;
+  margin-top: 0.4rem;
+  color: var(--darkgray);
+}
+
+.toast {
+  position: fixed;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--dark);
+  color: var(--light);
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+  max-width: calc(100% - 32px);
+}
+.loading {
+  padding: 2rem;
+  text-align: center;
+  color: var(--gray);
+}
+ol.steps {
+  padding-left: 1.25rem;
+}
+ol.steps li {
+  margin-bottom: 0.35rem;
+}
+code {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.9em;
+  background: var(--highlight);
+  padding: 0 0.25rem;
+  border-radius: 4px;
+}

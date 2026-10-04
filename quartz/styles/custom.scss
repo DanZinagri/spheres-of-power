@@ -214,3 +214,14 @@ a.internal {
     color: var(--fam-champion);
   }
 }
+
+// Character Builder page: the builder is a standalone app in quartz/static/character-builder
+iframe.character-builder {
+  display: block;
+  width: 100%;
+  height: 85vh;
+  min-height: 600px;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: var(--light);
+}
