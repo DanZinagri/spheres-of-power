@@ -486,3 +486,55 @@ code {
   padding: 0 0.25rem;
   border-radius: 4px;
 }
+
+/* Spheres for PF1e toggle and tab */
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.6rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.toggle:has(input:checked) {
+  border-color: var(--secondary);
+  color: var(--dark);
+  font-weight: 600;
+}
+.sphere-attrs {
+  display: grid;
+  grid-template-columns: minmax(0, 4fr) minmax(0, 1fr);
+  gap: 0.75rem;
+}
+@media (max-width: 640px) {
+  .sphere-attrs {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+.stat-grid.four {
+  grid-template-columns: repeat(4, 1fr);
+}
+.stat-grid.one {
+  grid-template-columns: 1fr;
+}
+.sphere-block {
+  padding-top: 0.6rem;
+}
+.sphere-head {
+  margin-bottom: 0.5rem;
+}
+.sphere-level b {
+  font: 700 1.2rem "Schibsted Grotesk", system-ui, sans-serif;
+  color: var(--dark);
+}
+.chip.magic {
+  color: var(--power);
+}
+.chip.combat {
+  color: var(--might);
+}
+.chip.skill {
+  color: #8a5cc7;
+}

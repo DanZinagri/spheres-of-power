@@ -29,11 +29,14 @@ const ALIGNMENTS = { lg: "Lawful Good", ng: "Neutral Good", cg: "Chaotic Good", 
 const SIZES = { fine: ["Fine", 8], dim: ["Diminutive", 4], tiny: ["Tiny", 2], sm: ["Small", 1], med: ["Medium", 0], lg: ["Large", -1], huge: ["Huge", -2], grg: ["Gargantuan", -4], col: ["Colossal", -8] }
 const PROGRESSION = { high: "High", med: "Medium", low: "Low" }
 const SAVE_PROG = { high: "Good", low: "Poor" }
-const CASTER_PROG = { none: "None", low: "Low (½)", mid: "Mid (¾)", high: "High (full)" }
+const CASTER_PROG = { none: "None", high: "High-Caster", mid: "Mid-Caster", low: "Low-Caster" }
+const TALENT_KINDS = { magic: ["magicTalent", "Magic talent"], combat: ["combatTalent", "Combat talent"], skill: ["skillTalent", "Skill talent"] }
 const FEATURE_KINDS = { feat: "Feat", trait: "Trait", classFeat: "Class feature", racial: "Racial trait", misc: "Other" }
 const SCHOOLS = { abj: "Abjuration", con: "Conjuration", div: "Divination", enc: "Enchantment", evo: "Evocation", ill: "Illusion", nec: "Necromancy", trs: "Transmutation", uni: "Universal", misc: "Other" }
 const MAGIC_SPHERES = ["alteration", "bear", "blood", "conjuration", "creation", "dark", "death", "destruction", "divination", "enhancement", "fallenFey", "fate", "illusion", "life", "light", "mana", "mind", "nature", "protection", "telekinesis", "time", "war", "warp", "weather"]
 const COMBAT_SPHERES = ["alchemy", "athletics", "barrage", "barroom", "beastmastery", "berserker", "boxing", "brute", "dualWielding", "duelist", "equipment", "fencing", "gladiator", "guardian", "lancer", "leadership", "openHand", "scoundrel", "scout", "shield", "sniper", "trap", "warleader", "wrestling"]
+const SKILL_SPHERES = ["artifice", "bluster", "bodyControl", "communication", "faction", "herbalism", "infiltration", "investigation", "navigation", "performance", "spellhacking", "study", "subterfuge", "survivalism", "vocation"]
+const sphereKind = (key) => (MAGIC_SPHERES.includes(key) ? "magic" : COMBAT_SPHERES.includes(key) ? "combat" : SKILL_SPHERES.includes(key) ? "skill" : null)
 const GEAR_KINDS = { weapon: "Weapon", armor: "Armor", shield: "Shield", equipment: "Wondrous / worn", consumable: "Consumable", loot: "Gear / loot" }
 const ARMOR_TYPES = { lightArmor: "Light", mediumArmor: "Medium", heavyArmor: "Heavy" }
 const SHIELD_TYPES = { lightShield: "Light", heavyShield: "Heavy", towerShield: "Tower", other: "Other" }
@@ -65,7 +68,8 @@ function blankState() {
     subSkills: { crf: [], prf: [], pro: [] },
     features: [],
     talents: [],
-    sphere: { casting: "", practitioner: "", tradition: "" },
+    spheresModule: false,
+    sphere: { casting: "", practitioner: "", operative: "", tradition: "" },
     spellcasting: { cls: -1, ability: "int", type: "prepared", progression: "high" },
     spells: [],
     gear: [],
@@ -158,9 +162,15 @@ function calc() {
 
   const featSlots = Math.ceil(hd / 2) + num(s.race.bonusFeats)
   const featsTaken = s.features.filter((f) => f.kind === "feat").length
-  const cl = Math.floor(classes.reduce((a, c) => a + ({ none: 0, low: 0.5, mid: 0.75, high: 1 }[c.caster] ?? 0) * num(c.level), 0))
+  // pf1spheres: CL = sum of progression x level (capped at HD); MSB/MSD base = levels in casting classes
+  const casters = s.spheresModule ? classes.filter((c) => c.caster !== "none") : []
+  const cl = Math.min(hd, Math.floor(casters.reduce((a, c) => a + ({ low: 0.5, mid: 0.75, high: 1 }[c.caster] ?? 0) * num(c.level), 0)))
+  const msb = casters.reduce((a, c) => a + num(c.level), 0)
+  const castMod = s.sphere.casting ? abl[s.sphere.casting].mod : 0
+  const spheres = { cl, msb, msd: 11 + msb, concentration: msb + castMod, talents: {} }
+  for (const t of s.talents) if (t.sphere && !t.exclude) spheres.talents[t.sphere] = (spheres.talents[t.sphere] ?? 0) + 1
   const pointsSpent = ABL.reduce((a, k) => a + (POINT_COST[num(s.abilities[k])] ?? NaN), 0)
-  return { abl, hd, bab, saves, hp, classHp, ac, touch, flat, cmb, cmd, acp, asf, classSkills, skillBudget, ranksUsed, featSlots, featsTaken, cl, pointsSpent, size }
+  return { abl, hd, bab, saves, hp, classHp, ac, touch, flat, cmb, cmd, acp, asf, classSkills, skillBudget, ranksUsed, featSlots, featsTaken, cl, spheres, pointsSpent, size }
 }
 
 function classHpFor(c, i) {
@@ -257,16 +267,21 @@ function toast(msg) {
 function renderHeader() {
   const nameEl = document.getElementById("charName")
   if (document.activeElement !== nameEl) nameEl.value = state.name
+  document.getElementById("spheresToggle").checked = !!state.spheresModule
   const classes = state.classes.filter((c) => c.name && num(c.level) > 0).map((c) => `${c.name} ${c.level}`)
   const bits = [ALIGNMENTS[state.details.alignment], state.race.name, classes.join(" / ")].filter(Boolean)
   document.getElementById("charLine").textContent = bits.join(" · ") || "Pathfinder 1e character for Foundry VTT"
 }
 
+function visibleTabs() {
+  return TABS.filter(([id]) => id !== "spheres" || state.spheresModule)
+}
 function renderTabs() {
+  if (!visibleTabs().some(([id]) => id === tab)) tab = "details"
   const counts = { features: state.features.length, spheres: state.talents.length, spells: state.spells.length, gear: state.gear.length }
   const nav = document.getElementById("tabs")
   nav.replaceChildren(
-    ...TABS.map(([id, label]) =>
+    ...visibleTabs().map(([id, label]) =>
       h("button", { role: "tab", "aria-selected": String(id === tab), onclick: () => { tab = id; renderTabs(); renderPanel() } },
         label, counts[id] ? h("span", { class: "count" }, counts[id]) : null),
     ),
@@ -294,10 +309,19 @@ function renderSummary() {
         h("dt", {}, "Ref"), h("dd", {}, signed(c.saves.ref + c.abl.dex.mod)),
         h("dt", {}, "Will"), h("dd", {}, signed(c.saves.will + c.abl.wis.mod)),
         h("dt", {}, "Speed"), h("dd", {}, `${num(state.race.speed)} ft.`),
-        c.cl ? h("dt", {}, "Sphere caster level") : null, c.cl ? h("dd", {}, c.cl) : null,
         c.acp ? h("dt", {}, "Armor check penalty") : null, c.acp ? h("dd", {}, `−${c.acp}`) : null,
       ),
     ),
+    state.spheresModule
+      ? h("div", { class: "card" },
+          h("div", { class: "group-title", style: "margin-top:0" }, "Spheres"),
+          h("div", { class: "stat-grid" }, stat("CL", c.spheres.cl), stat("MSB", signed(c.spheres.msb)), stat("MSD", c.spheres.msd)),
+          h("dl", { class: "kv", style: "margin-top:.6rem" },
+            h("dt", {}, "Concentration"), h("dd", {}, signed(c.spheres.concentration)),
+            h("dt", {}, "Talents"), h("dd", {}, state.talents.filter((t) => !t.exclude).length),
+          ),
+        )
+      : null,
     h("div", { class: "card" },
       budget("Skill ranks", c.ranksUsed, c.skillBudget),
       budget("Feats", c.featsTaken, c.featSlots),
@@ -394,7 +418,7 @@ const panels = {
         field("Ref", select(p + "ref", SAVE_PROG)),
         field("Will", select(p + "will", SAVE_PROG)),
         field("Skills / level", input(p + "skills", { type: "number", min: 0 })),
-        field("Sphere casting", select(p + "caster", CASTER_PROG)),
+        state.spheresModule ? field("Caster level progression", select(p + "caster", CASTER_PROG)) : null,
         state.hpMode === "custom"
           ? field("HP from class", input(p + "hpCustom", { type: "number", min: 0 }))
           : h("div", { class: "field" }, h("span", {}, "HP from class"), h("span", { style: "padding:.3rem 0" }, c.classHp[i])),
@@ -424,7 +448,7 @@ const panels = {
     })
     return [
       h("h2", {}, "Classes"),
-      h("p", { class: "muted" }, "Each class exports as a Foundry class item, so BAB, saves, HP and skill ranks update when you level up there. Sphere casting progression is read by the Spheres for Pathfinder 1e module."),
+      h("p", { class: "muted" }, "Each class exports as a Foundry class item, so BAB, saves, HP and skill ranks update when you level up there. With Spheres enabled, each class also gets a sphere caster level progression."),
       h("div", { class: "card" }, rows),
       h("div", { class: "row", style: "margin-top:.75rem" },
         h("button", { onclick: () => { state.classes.push(blankClass(false)); changed(true) } }, "+ Add class"),
@@ -500,31 +524,83 @@ const panels = {
     ]
   },
 
+  // mirrors the Spheres tab pf1spheres adds to the actor sheet: attribute header, then one block per sphere
   spheres() {
-    const abilityOpts = { "": "—", ...ABILITIES }
-    const sphereOpts = (list) => ({ "": "—", ...Object.fromEntries(list.map((k) => [k, label(k)])) })
+    const c = calc()
+    const abilityOpts = { "": "None", ...ABILITIES }
+    const attr = (label, value) => h("div", { class: "stat" }, h("b", {}, value), h("span", {}, label))
+    const bySphere = {}
+    state.talents.forEach((t, i) => (bySphere[t.sphere || ""] ??= []).push(i))
+    const order = Object.keys(bySphere).sort((x, y) => (x === "" ? 1 : y === "" ? -1 : label(x).localeCompare(label(y))))
+
+    const talentRow = (i) => {
+      const t = state.talents[i]
+      const p = `talents.${i}.`
+      const desc = textarea(p + "desc", { rows: 3, placeholder: "Description or rules text (optional)" })
+      return h("div", { class: "card class-row", style: "margin:0" },
+        field("Talent", input(p + "name", { placeholder: "Talent name", style: "width:14rem" })),
+        field("Tags", input(p + "tags", { placeholder: "e.g. Blast Type", style: "width:10rem" }), "Comma separated"),
+        t.sphere ? null : field("Kind", select(p + "kind", Object.fromEntries(Object.entries(TALENT_KINDS).map(([k, v]) => [k, v[1]])))),
+        field("Sphere", sphereSelect(p + "sphere")),
+        h("div", { class: "field" }, h("span", {}, " "), checkbox(p + "exclude", "Exclude from talent count")),
+        h("div", { class: "spacer" }),
+        h("button", { class: "small danger", "aria-label": `Remove ${t.name || "talent"}`, onclick: () => { state.talents.splice(i, 1); changed(true) } }, "Remove"),
+        h("details", { style: "flex-basis:100%" }, h("summary", { class: "note" }, t.desc ? "Description" : "Add description"), desc),
+      )
+    }
+
+    const blocks = order.map((key) => {
+      const kind = sphereKind(key)
+      const idxs = bySphere[key]
+      const counted = idxs.filter((i) => !state.talents[i].exclude).length
+      const level = kind === "magic" ? ["CL", c.spheres.cl] : kind === "combat" ? ["BAB", signed(c.bab)] : null
+      return h("section", { class: "card sphere-block" },
+        h("div", { class: "row sphere-head" },
+          h("h3", { style: "margin:0" }, key ? label(key) : "No sphere set"),
+          kind ? h("span", { class: `chip ${kind}` }, { magic: "Power", combat: "Might", skill: "Guile" }[kind]) : null,
+          h("span", { class: "muted" }, `Talents: ${counted}${counted !== idxs.length ? ` (${idxs.length - counted} excluded)` : ""}`),
+          h("div", { class: "spacer" }),
+          level ? h("span", { class: "sphere-level" }, h("span", { class: "muted" }, level[0] + " "), h("b", {}, level[1])) : null,
+        ),
+        h("div", { class: "picked-list" }, idxs.map(talentRow)),
+        h("button", { class: "small", style: "margin-top:.5rem", onclick: () => addTalent(key) }, `+ Add ${key ? label(key) : ""} talent`.replace("  ", " ")),
+      )
+    })
+
+    const adder = h("select", { "aria-label": "Sphere to add" },
+      h("option", { value: "" }, "Choose a sphere…"),
+      ...[["Spheres of Power", MAGIC_SPHERES], ["Spheres of Might", COMBAT_SPHERES], ["Spheres of Guile", SKILL_SPHERES]].map(([g, list]) =>
+        h("optgroup", { label: g }, list.filter((k) => !bySphere[k]).map((k) => h("option", { value: k }, label(k))))),
+    )
     return [
       h("h2", {}, "Spheres"),
-      h("p", { class: "muted" }, "Magic and combat talents export as talent items for the Spheres for Pathfinder 1e module (pf1spheres). Without that module, Foundry shows them as ordinary features."),
-      h("div", { class: "card grid" },
-        field("Casting ability", select("sphere.casting", abilityOpts), "Spheres of Power"),
-        field("Practitioner ability", select("sphere.practitioner", abilityOpts), "Spheres of Might"),
-        field("Casting tradition", input("sphere.tradition", { placeholder: "Name (optional)" }), "Exported as a feature"),
-        field("Caster level (preview)", h("span", { style: "padding:.3rem 0" }, String(calc().cl))),
+      h("p", { class: "muted" }, "Laid out like the Spheres tab the Spheres for Pathfinder 1e module adds in Foundry. Talents export as talent items in their sphere; CL, MSB, MSD and concentration are worked out by the module from your classes' caster level progression."),
+      h("div", { class: "sphere-attrs" },
+        h("div", { class: "card" },
+          h("div", { class: "group-title", style: "margin-top:0" }, "Spheres of Power"),
+          h("div", { class: "stat-grid four" }, attr("CL", c.spheres.cl), attr("MSB", signed(c.spheres.msb)), attr("Concentration", signed(c.spheres.concentration)), attr("MSD", c.spheres.msd)),
+        ),
+        h("div", { class: "card" },
+          h("div", { class: "group-title", style: "margin-top:0" }, "Spheres of Might"),
+          h("div", { class: "stat-grid one" }, attr("BAB", signed(c.bab))),
+        ),
       ),
-      h("h3", {}, "Talents"),
-      entryList("talents", () => ({ name: "", kind: "magic", sphere: "", desc: "" }), (e, p) => [
-        field("Name", input(p + "name", { placeholder: "Destruction (base sphere)" })),
-        field("Kind", select(p + "kind", { magic: "Magic talent", combat: "Combat talent" })),
-        field("Sphere", select(p + "sphere", sphereOpts(e.kind === "combat" ? COMBAT_SPHERES : MAGIC_SPHERES))),
-      ], "+ Add talent", (list) => {
-        const groups = {}
-        list.forEach((e, i) => {
-          const key = e.sphere ? `${label(e.sphere)} (${e.kind === "combat" ? "combat" : "magic"})` : "No sphere set"
-          ;(groups[key] ??= []).push(i)
-        })
-        return groups
-      }),
+      h("h3", {}, "Spheres settings"),
+      h("div", { class: "card grid" },
+        field("Casting ability", select("sphere.casting", abilityOpts), "Added to sphere DCs and concentration"),
+        field("Practitioner ability", select("sphere.practitioner", abilityOpts), "Spheres of Might DCs"),
+        field("Operative ability", select("sphere.operative", abilityOpts), "Spheres of Guile"),
+        field("Casting tradition", input("sphere.tradition", { placeholder: "Name (optional)" }), "Exported as a class feature"),
+      ),
+      !state.classes.some((cl) => cl.caster !== "none")
+        ? h("p", { class: "note" }, "No class has a caster level progression yet, so CL and MSB are 0. Set one on the Classes tab.")
+        : null,
+      h("h3", {}, "Spheres and talents"),
+      blocks.length ? h("div", { class: "picked-list" }, blocks) : h("p", { class: "muted" }, "No talents yet. Pick a sphere below to start."),
+      h("div", { class: "row", style: "margin-top:.75rem" },
+        adder,
+        h("button", { onclick: () => adder.value && addTalent(adder.value) }, "+ Add sphere"),
+      ),
     ]
   },
 
@@ -606,7 +682,7 @@ const panels = {
           h("li", {}, "In Foundry, open the Actors sidebar and create a new ", h("strong", {}, "Character"), " (any name)."),
           h("li", {}, "Right-click that actor and choose ", h("strong", {}, "Import Data"), ", then pick the file. This replaces the actor with your character."),
         ),
-        h("p", { class: "note" }, "Built for the Pathfinder 1e system (v11) on Foundry v12–13. Sphere talents need the Spheres for Pathfinder 1e module to show as talents."),
+        h("p", { class: "note" }, "Built for the Pathfinder 1e system (v11) on Foundry v12–13. Turn on “Spheres for PF1e” (top right) if your world uses the Spheres for Pathfinder 1e module; leave it off otherwise, and sphere talents and settings are left out of the file."),
       ),
       h("h3", {}, "Saving your work"),
       h("p", {}, "The builder keeps your current character in this browser automatically. The exported file also carries a copy of the builder's data, so you can open it again with ", h("strong", {}, "Load"), " and keep editing."),
@@ -619,6 +695,31 @@ const panels = {
 }
 
 const label = (key) => key.replace(/([A-Z])/g, " $1").replace(/^./, (c) => c.toUpperCase())
+
+function sphereSelect(path) {
+  const cur = getPath(state, path)
+  const el = h("select", {},
+    h("option", { value: "", selected: !cur }, "None"),
+    ...[["Spheres of Power", MAGIC_SPHERES], ["Spheres of Might", COMBAT_SPHERES], ["Spheres of Guile", SKILL_SPHERES]].map(([g, list]) =>
+      h("optgroup", { label: g }, list.map((k) => h("option", { value: k, selected: k === cur }, label(k))))),
+  )
+  el.addEventListener("change", () => {
+    setPath(state, path, el.value)
+    const t = getPath(state, path.replace(/\.sphere$/, ""))
+    if (el.value) t.kind = sphereKind(el.value)
+    changed(true)
+  })
+  return el
+}
+
+function addTalent(sphere) {
+  state.talents.push({ name: "", kind: sphereKind(sphere) ?? "magic", sphere, tags: "", exclude: false, desc: "" })
+  changed(true)
+  const rows = [...document.querySelectorAll("#panel .sphere-block")]
+  const block = rows.find((b) => b.querySelector("h3")?.textContent === (sphere ? label(sphere) : "No sphere set"))
+  const inputs = block?.querySelectorAll('input[placeholder="Talent name"]')
+  inputs?.[inputs.length - 1]?.focus()
+}
 
 function groupBy(key, labels) {
   return (list) => {
@@ -726,16 +827,22 @@ function buildActor() {
       classSkills: Object.fromEntries(cls.classSkills.map((k) => [k, true])),
       fc: { hp: { value: cls.favored ? num(cls.fcbHp) : 0 }, skill: { value: cls.favored ? num(cls.fcbSkill) : 0 }, alt: { value: 0 } },
     }
-    const extra = cls.caster !== "none" ? { flags: { pf1spheres: { casterProgression: cls.caster } } } : {}
+    const extra = s.spheresModule && cls.caster !== "none" ? { flags: { pf1spheres: { casterProgression: cls.caster } } } : {}
     items.push(item("class", cls.name || `Class ${i + 1}`, system, extra))
   })
 
   for (const f of s.features) items.push(item("feat", f.name, { subType: f.kind, description: { value: toHtml(f.desc) } }))
-  if (s.sphere.tradition) items.push(item("feat", s.sphere.tradition, { subType: "classFeat", tags: ["Casting Tradition"], description: { value: "" } }))
-  for (const t of s.talents) {
-    const extra = t.sphere ? { flags: { pf1spheres: { sphere: t.sphere } } } : {}
-    items.push(item("feat", t.name, { subType: t.kind === "combat" ? "combatTalent" : "magicTalent", description: { value: toHtml(t.desc) } }, extra))
-  }
+  if (s.spheresModule && s.sphere.tradition) items.push(item("feat", s.sphere.tradition, { subType: "classFeat", tags: ["Casting Tradition"], description: { value: "" } }))
+  // talents only make sense with the pf1spheres module, so they're left out when it's switched off
+  if (s.spheresModule)
+    for (const t of s.talents) {
+      const flags = {}
+      if (t.sphere) flags.sphere = t.sphere
+      if (t.exclude) flags.countExcluded = true
+      const tags = String(t.tags || "").split(",").map((x) => x.trim()).filter(Boolean)
+      const system = { subType: (TALENT_KINDS[t.kind] ?? TALENT_KINDS.magic)[0], tags, description: { value: toHtml(t.desc) } }
+      items.push(item("feat", t.name, system, Object.keys(flags).length ? { flags: { pf1spheres: flags } } : {}))
+    }
 
   const hasBook = s.spellcasting.cls >= 0 && tags[s.spellcasting.cls]
   for (const sp of s.spells)
@@ -794,8 +901,11 @@ function buildActor() {
 
   const flags = { [FLAG_SCOPE]: { state: JSON.parse(JSON.stringify(s)), version: 1 } }
   const sphereFlags = {}
-  if (s.sphere.casting) sphereFlags.castingAbility = s.sphere.casting
-  if (s.sphere.practitioner) sphereFlags.practitionerAbility = s.sphere.practitioner
+  if (s.spheresModule) {
+    if (s.sphere.casting) sphereFlags.castingAbility = s.sphere.casting
+    if (s.sphere.practitioner) sphereFlags.practitionerAbility = s.sphere.practitioner
+    if (s.sphere.operative) sphereFlags.operativeAbility = s.sphere.operative
+  }
   if (Object.keys(sphereFlags).length) flags.pf1spheres = sphereFlags
 
   const name = s.name || "New Character"
@@ -904,6 +1014,11 @@ document.getElementById("charName").addEventListener("input", (e) => {
   changed()
 })
 document.getElementById("btnExport").addEventListener("click", exportActor)
+document.getElementById("spheresToggle").addEventListener("change", (e) => {
+  state.spheresModule = e.target.checked
+  if (state.spheresModule) tab = "spheres"
+  changed(true)
+})
 document.getElementById("btnNew").addEventListener("click", () => {
   if (!confirm("Start a new character? The current one is only kept if you've exported or saved it.")) return
   state = blankState()
