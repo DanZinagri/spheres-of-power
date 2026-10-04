@@ -74,6 +74,7 @@ function blankState() {
     talents: [],
     spheresModule: false,
     backgroundSkills: false,
+    fractionalBonuses: false,
     sphere: { casting: "", practitioner: "", operative: "", tradition: "" },
     spellcasting: { cls: -1, ability: "int", type: "prepared", progression: "high" },
     spells: [],
@@ -129,11 +130,20 @@ function calc() {
   }
   const classes = s.classes.filter((c) => num(c.level) > 0)
   const hd = classes.reduce((a, c) => a + num(c.level), 0)
-  const babFor = { high: (l) => l, med: (l) => Math.floor(l * 0.75), low: (l) => Math.floor(l / 2) }
-  const saveFor = { high: (l) => 2 + Math.floor(l / 2), low: (l) => Math.floor(l / 3) }
-  const bab = classes.reduce((a, c) => a + babFor[c.bab](num(c.level)), 0)
+  // matches pf1.config.classBABFormulas / classSavingThrowFormulas, or the Fractional Base Bonuses
+  // variant: sum the fractions across classes, round down once, and add +2 once for any good save
+  const frac = !!s.fractionalBonuses
+  const babRate = { high: 1, med: 0.75, low: 0.5 }
+  const bab = frac
+    ? Math.floor(classes.reduce((a, c) => a + babRate[c.bab] * num(c.level), 0))
+    : classes.reduce((a, c) => a + Math.floor(babRate[c.bab] * num(c.level)), 0)
   const saves = {}
-  for (const k of ["fort", "ref", "will"]) saves[k] = classes.reduce((a, c) => a + saveFor[c[k]](num(c.level)), 0)
+  for (const k of ["fort", "ref", "will"]) {
+    if (frac) {
+      const sum = classes.reduce((a, c) => a + num(c.level) / (c[k] === "high" ? 2 : 3), 0)
+      saves[k] = Math.floor(sum) + (classes.some((c) => c[k] === "high") ? 2 : 0)
+    } else saves[k] = classes.reduce((a, c) => a + (c[k] === "high" ? 2 + Math.floor(num(c.level) / 2) : Math.floor(num(c.level) / 3)), 0)
+  }
   const classHp = s.classes.map((c, i) => classHpFor(c, i))
   const hp = classHp.reduce((a, b) => a + b, 0) + abl.con.mod * hd + classes.reduce((a, c) => a + num(c.fcbHp), 0)
 
@@ -178,7 +188,9 @@ function calc() {
   const featsTaken = s.features.filter((f) => f.kind === "feat").length
   // pf1spheres: CL = sum of progression x level (capped at HD); MSB/MSD base = levels in casting classes
   const casters = s.spheresModule ? classes.filter((c) => c.caster !== "none") : []
-  const cl = Math.min(hd, Math.floor(casters.reduce((a, c) => a + ({ low: 0.5, mid: 0.75, high: 1 }[c.caster] ?? 0) * num(c.level), 0)))
+  // pf1spheres rounds per class unless Fractional Base Bonuses is on
+  const clPart = (c) => ({ low: 0.5, mid: 0.75, high: 1 }[c.caster] ?? 0) * num(c.level)
+  const cl = Math.min(hd, Math.floor(casters.reduce((a, c) => a + (frac ? clPart(c) : Math.floor(clPart(c))), 0)))
   const msb = casters.reduce((a, c) => a + num(c.level), 0)
   const castMod = s.sphere.casting ? abl[s.sphere.casting].mod : 0
   const spheres = { cl, msb, msd: 11 + msb, concentration: msb + castMod, talents: {} }
@@ -469,6 +481,10 @@ const panels = {
         h("button", { onclick: () => { state.classes.push(blankClass(false)); changed(true) } }, "+ Add class"),
         h("div", { class: "spacer" }),
         field("Hit points", select("hpMode", { pfs: "Max at 1st level, then half + 1", max: "Maximum every level", custom: "Enter per class" })),
+      ),
+      h("div", { class: "card row", style: "margin-top:.75rem" },
+        checkbox("fractionalBonuses", h("strong", {}, "Fractional base bonuses")),
+        h("span", { class: "note", style: "flex:1 1 260px" }, "Pathfinder Unchained variant for multiclassing: BAB and saves add up fractions across classes and round down once, with a single +2 for any good save. Turn on the matching world setting in Foundry too (Game Settings → System Settings → Variant Rules → Fractional Base Bonuses)."),
       ),
     ]
   },
