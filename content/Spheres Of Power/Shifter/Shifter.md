@@ -561,7 +561,7 @@ The following are archetypes that shifters can take.
 | [[Fey Incarnate]] | Fey incarnate become increasingly fey-like as they use the [[Fallen Fey]] sphere. |
 | [[Forceful Shifter]] | Forceful Shifters have reduced magical powers, but more powerful martial abilities. |
 | [[Martial Shifter]] [CS] | The Martial Shifter is more adept at combat techniques than most of their peers. |
-| [[Night Terror (Shifter Archetype)\|Night Terror]] [DRS] | A Night Terror is an ultimate hunter in the shadows. This archetype uses the [[Polished Dark]] sphere rework. |
+| [[Night Terror (Shifter Archetype)\|Night Terror]] [DRS] | A Night Terror is an ultimate hunter in the shadows. This archetype uses the [[Dark\|Polished Dark]] sphere rework. |
 | [[Nocturnal Predator]] | Nocturnal predators use the [[Dark]] sphere to stalk their prey. |
 | [[Pack Master]] | Pack masters can gain animal companions to fight at their side. |
 | [[Paragon (Shifter)\|Paragon]] [CS] | Paragons focus on perfecting their form. |

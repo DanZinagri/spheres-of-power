@@ -1027,14 +1027,6 @@ You can spend 1 use of skill leverage to also have creatures who fail their savi
 
 # Artifice Sphere Class Options
 
-## Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Artificer]] (Blacksmith) [LotS, CS] | Artificers specialize in crafting specific types of items. |
-| [[Machinist (Alchemist Archetype)\|Machinist]] (Alchemist) | A machinist understands machines far better than biology, and is even capable of morphing their own biology to fit their specialty. |
-| [[Primordia (Skald Archetype)\|Primordia]] (Skald) | Primordia can sing ancient notes to change the world around them to their whims. |
-
 ## Other
 
 ### [[Bravo]] (Grandeur or Improvisation Whims)

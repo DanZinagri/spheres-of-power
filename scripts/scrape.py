@@ -76,6 +76,11 @@ EXCLUDED_PAGES = {
 }
 NAV_PAGES = {"start", "nav:side"}
 
+# Pages merged into another page as an extra tab, placed first so it's what opens by default:
+# target slug -> [(source slug, tab label)]. The source page goes away and links to it point at
+# the target. (Polished Dark is DRS's replacement for the Dark sphere.)
+TAB_MERGES = {"dark": [("polished-dark", "Polished Dark")]}
+
 # Sections whose entries (monster stat blocks) move to their own subpages; the original section
 # keeps its intro plus a list of links. page slug -> (section heading, subfolder for the entries).
 # The subfolders are kept out of search in pagefind.yml.
@@ -830,6 +835,71 @@ def wild_magic_chooser(core: list[tuple[str, str]], spheres: dict[str, str]) -> 
     return "\n".join(parts)
 
 
+def split_sphere_feats(md: str, sphere: str) -> tuple[str, str]:
+    """Cut a sphere page's "<Sphere> Sphere Feats" section out (it moves to its own page).
+    Returns (page markdown with the section replaced by a link, feats-page markdown) or (md, "")."""
+    lines = md.split("\n")
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    head = rf"#{{1,6}} {re.escape(sphere)} Sphere Feats\s*"
+    start = next((i for i, l in enumerate(lines) if re.fullmatch(head, l)), None)
+    if start is None:
+        return md, ""
+    level = level_of(lines[start])
+    end = next((i for i in range(start + 1, len(lines))
+                if 0 < level_of(lines[i]) <= level or lines[i].strip() == "</div>"), len(lines))
+    while end - 1 > start and lines[end - 1].strip() in ("", "---"):
+        end -= 1  # trailing divider/blank lines stay on the sphere page
+    chunk = lines[start + 1:end]
+    text = "\n".join(chunk)
+    if text.count("<div") != text.count("</div>"):
+        return md, ""
+    # the shallowest heading inside (each feat) becomes ##, deeper ones keep their nesting
+    inner = min((level_of(l) for l in chunk if level_of(l)), default=level + 1)
+    body = [("#" * max(2, level_of(l) - inner + 2) + " " + l.lstrip("#").lstrip()) if level_of(l) else l
+            for l in chunk]
+    link = [lines[start], "", f"*Moved to their own page: [[{sphere} Sphere Feats]].*", ""]
+    return "\n".join(lines[:start] + link + lines[end:]), "\n".join(body).strip() + "\n"
+
+
+def insert_first_tabs(md: str, tabs: list[tuple[str, str]]) -> str:
+    """Put extra tabs (label, markdown) in front of a page's existing tab set."""
+    lines = md.split("\n")
+    first = next((i for i, l in enumerate(lines) if l.startswith('<div class="sop-tab" data-tab=')), None)
+    if first is None:
+        return md
+    block = []
+    for label, body in tabs:
+        tab_id = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
+        block += [f'<div class="sop-tab" data-tab="{tab_id}">', "",
+                  f'<div class="sop-tab-label">{html.escape(label)}</div>', "", body.strip(), "", "</div>", ""]
+    return "\n".join(lines[:first] + block + lines[first:])
+
+
+def drop_merged_links(md: str, merges: list[tuple[str, str]]) -> str:
+    """'[[Dark]] | [[Dark|Polished Dark]] [DRS]' -> '[[Dark]]' once Polished Dark is a tab of Dark."""
+    for target, label in merges:
+        # [ \t] only: the match must not run past the end of the line into the next entry
+        md = re.sub(rf"[ \t]*\|[ \t]*\[\[{re.escape(target)}\|{re.escape(label)}\]\](?:[ \t]*\[[^\]\n]*\])*",
+                    "", md)
+    return md
+
+
+def add_feats_links(home_md: str, feats: dict[str, str]) -> str:
+    """Home page Magic Spheres list: "[[Alteration]]" -> "[[Alteration]] | [[Alteration Sphere Feats|Feats]]"."""
+    out, inside = [], False
+    for line in home_md.split("\n"):
+        if line.strip() == "**Magic Spheres**":
+            inside = True
+        elif inside and (re.fullmatch(r"\*\*[^*]+\*\*", line.strip()) or line.strip() in ("---", "</div>")):
+            inside = False
+        if inside:
+            m = re.match(r"\[\[([^\]|#]+)\]\]", line)
+            if m and m.group(1) in feats:
+                line = f"{m.group(0)} | [[{feats[m.group(1)]}|Feats]]" + line[m.end():]
+        out.append(line)
+    return "\n".join(out)
+
+
 def set_column_counts(md: str) -> str:
     """Tag each .sop-columns grid with --cols: the number of side-by-side columns it holds.
 
@@ -1042,6 +1112,32 @@ def drop_book_navboxes(body: Tag) -> None:
             table.decompose()
 
 
+def drop_class_option_archetypes(body: Tag) -> None:
+    """Sphere pages' "<Sphere> Sphere Class Options" sections: drop their "Archetypes" part (the
+    class pages list archetypes already), and the whole section if nothing else is left."""
+    is_heading = lambda el: isinstance(el, Tag) and re.fullmatch(r"h[1-6]", el.name or "")
+    level = lambda el: int(el.name[1])
+    for h in body.find_all(re.compile(r"^h[1-6]$")):
+        if h.parent is None or not re.search(r"(?i)sphere class options\s*$", h.get_text(" ", strip=True)):
+            continue
+        sib = h.find_next_sibling()
+        while sib is not None and not (is_heading(sib) and level(sib) <= level(h)) and sib.name != "hr":
+            nxt = sib.find_next_sibling()
+            if is_heading(sib) and re.fullmatch(r"(?i)\s*archetypes\s*", sib.get_text(" ", strip=True)):
+                sub = sib.find_next_sibling()
+                while sub is not None and not (is_heading(sub) and level(sub) <= level(sib)) \
+                        and sub.name != "hr":
+                    after = sub.find_next_sibling()
+                    sub.decompose()
+                    sub = after
+                sib.decompose()
+                nxt = sub
+            sib = nxt
+        rest = h.find_next_sibling()
+        if rest is None or rest.name == "hr" or (is_heading(rest) and level(rest) <= level(h)):
+            h.decompose()
+
+
 def drop_sections(body: Tag, pattern: re.Pattern) -> None:
     """Remove each heading matching pattern together with its section."""
     is_heading = lambda el: isinstance(el, Tag) and re.fullmatch(r"h[1-6]", el.name or "")
@@ -1122,6 +1218,7 @@ def preprocess(body: Tag, soup_factory, excluded: set[str] | None = None,
     if not nav:
         drop_book_navboxes(body)
         drop_sections(body, DROPPED_SECTIONS)
+        drop_class_option_archetypes(body)
     prune_tagged_entries(body, nav)
     if excluded:
         prune_excluded_entries(body, excluded)
@@ -1295,6 +1392,28 @@ def convert(with_images: bool) -> None:
     redirects = old_page_redirects(excluded, pages)
     samples = sample_character_slugs(pages)  # before preprocess() edits the home page
     sample_groups = sample_character_groups(pages)
+
+    images = download_images(pages) if with_images else {}
+
+    # TAB_MERGES: convert each source page now, drop it, and point links to it at the target
+    merged_tabs: dict[str, list[tuple[str, str]]] = {}
+    merge_links: list[tuple[str, str]] = []
+    for target, sources in TAB_MERGES.items():
+        if target not in pages:
+            continue
+        for src, label in sources:
+            sp = pages.pop(src, None)
+            if sp is None or not sp.body:
+                continue
+            redirects[src] = pages[target]
+            for tabview in sp.body.select(".yui-navset"):  # its own single tab would nest tabs
+                panes = tabview.select(".yui-content > div")
+                if len(panes) == 1:
+                    tabview.replace_with(panes[0])
+            preprocess(sp.body, sp.soup, excluded - redirects.keys(), nav=False)
+            md = tidy(WikiConverter(sp, pages, images, redirects).convert_soup(sp.body))
+            merged_tabs.setdefault(target, []).append((label, md))
+            merge_links.append((pages[target].filename, label))
     print(f"Sample characters (nosearch): {len(samples)}")
     # pages whose sections get split into subpages become folder notes, with the entries beside them
     for slug in SPLIT_SECTIONS:
@@ -1306,8 +1425,9 @@ def convert(with_images: bool) -> None:
     wm_core: list[tuple[str, str]] = []   # Wild Magic page's own tables
     wm_spheres: dict[str, str] = {}       # sphere title -> its wild magic table
     wm_page = None                        # (dest, text), written last once all spheres are in
+    feats_pages: dict[str, str] = {}      # sphere note name -> its "<Sphere> Sphere Feats" note
+    home_page = None                      # (dest, text), written last with the feats links
     write_link_families(pages)
-    images = download_images(pages) if with_images else {}
     manifest = json.loads((CACHE / "manifest.json").read_text())
 
     # Remove previously generated notes (but never hand-written ones) so renames don't leave orphans.
@@ -1383,15 +1503,37 @@ def convert(with_images: bool) -> None:
                                  "", body_md, flags=re.M)
                 body_md = re.sub(r"^---\n(?:[ \t]*\n)*---[ \t]*$", "---", body_md, flags=re.M)
         body_md = add_page_notes(p.slug, body_md)
+        if is_sphere and p.slug != WILD_MAGIC_SLUG:
+            body_md, feats_md = split_sphere_feats(body_md, p.title)
+            if feats_md:
+                feats_title = f"{p.title} Sphere Feats"
+                feats_name = clean_filename(feats_title)
+                feats_fm = ["---", f"title: {yaml_str(feats_title)}", f"source: {SITE}/{p.slug}",
+                            "parent: " + yaml_str(f"[[{p.filename}]]"), "---"]
+                feats_dest = CONTENT / p.folder / f"{feats_name}.md"
+                feats_dest.parent.mkdir(parents=True, exist_ok=True)
+                feats_dest.write_text("\n".join(feats_fm) + "\n" + GENERATED_MARK + "\n\n" + feats_md,
+                                      encoding="utf-8")
+                feats_pages[p.filename] = feats_name
+        if p.slug in merged_tabs:  # after the feats split, so it only sees the page's own sections
+            body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
         if p.slug == WILD_MAGIC_SLUG:
             wm_page = (dest, out)
             continue
+        if p.slug == "start":
+            home_page = (dest, out)  # gets the Magic Spheres "| Feats" links once all spheres are done
+            continue
         dest.write_text(out, encoding="utf-8")
 
     write_sample_page(sample_groups, pages)
+    if home_page:
+        dest, out = home_page
+        dest.write_text(drop_merged_links(add_feats_links(out, feats_pages), merge_links),
+                        encoding="utf-8")
+        print(f"Sphere feats pages: {len(feats_pages)}")
 
     if wm_page:
         dest, out = wm_page

@@ -22,7 +22,7 @@ While many DRS releases are integrated into the Spheres of Power Wiki (with the 
 <div class="sop-col">
 
 **Polished Spheres**
-[[Polished Dark|Dark (Polished)]]
+[[Dark|Dark (Polished)]]
 
 **Options**
 [[Feats (DRS)]]

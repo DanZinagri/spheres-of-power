@@ -204,7 +204,7 @@ The following are archetypes that elementalists can select.
 | [[Martial Elementalist]] [CS] | Martial elementalists are capable of using the combat spheres. |
 | [[Metal Warrior]] | Metal warriors can conduct electrical power through their bodies to shock their foes. |
 | [[Natural Warrior]] | Natural warriors manipulate chemical acids and are at home in natural environments. |
-| [[Sablesavant (Elementalist Archetype)\|Sablesavant]] [DRS] | Sablesavants mix and swirl their destructive magics with cloying darkness. This archetype uses the [[Polished Dark]] sphere rework. |
+| [[Sablesavant (Elementalist Archetype)\|Sablesavant]] [DRS] | Sablesavants mix and swirl their destructive magics with cloying darkness. This archetype uses the [[Dark\|Polished Dark]] sphere rework. |
 | [[Soul Adept]] | Soul adepts focus on etheric energies and manipulate the powers of [[Death]]. |
 | [[Tenebrous Stalker]] | Tenebrous stalkers are elementalists who specialize in [[Dark]] and [[Illusion]]. |
 | [[Twinsoul Elementalist]] | Twinsoul elementalists create elemental conduits that act as companions. |

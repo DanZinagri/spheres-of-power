@@ -647,12 +647,4 @@ For every 5 ranks in a skill associated with your current movement mode you poss
 
 ---
 
-# Athletics Sphere Class Options
-
-## Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Monkmentum (MonkUnchained Monk Archetype)\|Monkmentum]] (Monk) | “Speed. I am speed.” - Mantras of Speed, VI |
-
 ---

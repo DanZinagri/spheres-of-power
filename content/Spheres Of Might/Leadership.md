@@ -685,15 +685,4 @@ A troop is never staggered or reduced to a dying state by damage.
 
 ---
 
-# Leadership Sphere Class Options
-
-## Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Battlemind]] (Symbiat) [CS] | Battleminds are champions who use the Leadership sphere to obtain and direct allies. |
-| [[Cavalry Officer (Cavalier Archetype)\|Cavalry Officer]] (Cavalier) | Cavalry officers help their allies by sharing their own knowledge, instead of general information. |
-| [[Garrison]] (Sentinel) | Garrisons are Sentinels who use the Leadership sphere to create military jurisdictions and protect those within them. |
-| [[Noble]] (Commander) | Nobles use the Leadership sphere to manage and strengthen a cohort of followers. |
-
 ---

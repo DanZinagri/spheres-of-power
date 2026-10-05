@@ -164,12 +164,4 @@ When you use Mobile Striker and Whirlwind Knockdown in the same round, you may i
 
 ---
 
-# Lancer Sphere Class Options
-
-## Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Vajrahasta]] [CS] (Armorist) | Vajrahasta are capable of summoning weapons of pure lightning. |
-
 ---

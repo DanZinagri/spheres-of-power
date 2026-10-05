@@ -458,17 +458,4 @@ While as written this works, GMs should review whether they want a character to 
 
 ---
 
-# Beastmastery Sphere Class Options
-
-## Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Beastmaster (Hunter Archetype)\|Beastmaster]] (Hunter) | While many hunters specialize in forming a strong bond with a single animal, beast masters are lords of nature. |
-| [[Beast Bender (Hunter Archetype)\|Beast Bender]] (Hunter) [CS] | Beast benders not only shape the minds of their animal companions, but their bodies as well. |
-| [[Beast Piper (Bard Archetype)\|Beast Piper]] (Bard) [CS] | With gentle and hypnotic melodies, the beast piper gathers the animals both small and mighty from the vast wilderness under his command. |
-| [[Greenrunner (Hunter Archetype)\|Greenrunner]] (Hunter) [CS] | The first rule of the greenrunner is to never stop moving. |
-| [[Slime Savant]] (Scholar) | Slime savants specialize in the creation and manipulation of oozes. |
-| [[Wildspeaker]] (Courser) [CS] | Wildspeakers are most adept at working with their animal allies. |
-
 ---

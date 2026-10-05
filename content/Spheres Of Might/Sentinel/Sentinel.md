@@ -167,7 +167,7 @@ The following feats are especially helpful or appropriate for Sentinels.
 | --- | --- |
 | [[Adamant Guardian]] | Adamant Guardians focus on protecting their allies even more than most sentinels do, and emphasize patrolling an area over challenging specific foes. |
 | [[Darkness Defender]] | Darkness Defenders trade their ability to avoid blows for strength enduring them, eventually learning to get stronger when hit. |
-| [[Darkthrone (Sentinel Archetype) (Champion)\|Darkthrone]] [DRS] | The Darkthrone is empowers themselves with their monument of night, a testament to their reign over darkness. This archetype uses the [[Polished Dark]] sphere rework. |
+| [[Darkthrone (Sentinel Archetype) (Champion)\|Darkthrone]] [DRS] | The Darkthrone is empowers themselves with their monument of night, a testament to their reign over darkness. This archetype uses the [[Dark\|Polished Dark]] sphere rework. |
 | [[Dimensional Defender]] | The Dimensional Defender is an expert at warping around the battlefield to protect their allies. |
 | [[Garrison]] | Garrisons are Sentinels who use the Leadership sphere to create military jurisdictions and protect those within them. |
 | [[Iron Revenant]] [DRS] | An Iron Revenant is a relentless hunter, made even more determined through the technology that sustains them. |

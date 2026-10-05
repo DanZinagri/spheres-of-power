@@ -300,14 +300,4 @@ While berserking or using the rage class feature, your anatomy becomes aberrant 
 
 ---
 
-# Berserker Sphere Class Options
-
-## Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Berserker (Barbarian Archetype)\|Berserker]] (Barbarian) | Berserkers are fierce warriors, possessed of implacable strength. |
-| [[Darkness Defender]] (Sentinel) | Darkness Defenders trade their ability to avoid blows for strength enduring them, eventually learning to get stronger when hit. |
-| [[Skaldic Poet (Skald Archetype)\|Skaldic Poet]] (Skald) | These skalds, known commonly as skaldic poets, make up for their lack of magic with their unrelenting bravery and strength, in addition to their ability to instill these qualities to their allies. |
-
 ---

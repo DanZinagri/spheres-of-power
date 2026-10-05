@@ -51,7 +51,7 @@ Tags | Edit | Source | Print
 [[Blood]]
 [[Conjuration]]
 [[Creation]]
-[[Dark]] | [[Polished Dark]] [DRS]
+[[Dark]] | [[Dark|Polished Dark]] [DRS]
 [[Death]]
 [[Destruction]]
 [[Divination]]

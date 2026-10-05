@@ -410,14 +410,4 @@ If you use this talent and already have a dodge pool from this talent (such as f
 
 ---
 
-# Barroom Sphere Class Options
-
-## Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Barfighter]] (Striker) | Barfighters are Strikers who specialize in drinking as they brawl. |
-| [[Smasher]] (Bravo) | Smashers, as the name suggests, excel at turning everyday items into dangerous weaponry. |
-| [[The Stupor Monk (Unchained Monk Archetype)\|The Stupor Monk]] (Monk) | Whereas most monks find enlightenment through physical and mental training, these monks find it at the bottom of a bottle. |
-
 ---

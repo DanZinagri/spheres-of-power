@@ -294,7 +294,7 @@ The following are archetypes that thaumaturges can take.
 | Archetype | Description |
 | --- | --- |
 | [[Devourer]] | Devourers can use their forbidden lore immediately after consuming power from enemies, but suffer a greater chance of backlash the rest of the time. |
-| [[Ebonmage (Thaumaturge Archetype)\|Ebonmage]] [DRS] | An ebonmage is talented perfection, warlocks and magi which reach into the darkness of this world to wield for their own. This archetype uses the [[Polished Dark]] sphere rework. |
+| [[Ebonmage (Thaumaturge Archetype)\|Ebonmage]] [DRS] | An ebonmage is talented perfection, warlocks and magi which reach into the darkness of this world to wield for their own. This archetype uses the [[Dark\|Polished Dark]] sphere rework. |
 | [[Eldritch Cultist]] | Eldritch cultists may become confused by their knowledge, but also gain the [[Divination]] sphere. |
 | [[Experimentalist]] | Experimentalists can create useful alchemic brews using their forbidden alchemy. |
 | [[Genius]] | Geniuses are particularly adept at using skills, along with a small amount of martial ability. Though officially an archetype, it is presented as a class due to the significant number of changes to the entire class. |
