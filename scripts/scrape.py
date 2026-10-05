@@ -934,7 +934,7 @@ def rebalance_home_columns(md: str) -> str:
             spheres += [*col, ""]
         spheres += ["</div>", "", "## Character Options", ""]
     out = lines[:start] + spheres + feat_block + option_row + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
-    return remove_using_row("\n".join(out))
+    return tidy_home(remove_using_row("\n".join(out)))
 
 
 def sphere_lists(md: str) -> str:
@@ -1018,6 +1018,46 @@ def fill_class_archetypes(md: str, archetypes: dict[str, list[str]]) -> str:
     """Home Classes tables: {{ARCH:<class note>}} -> that class's archetypes (or a dash)."""
     return re.sub(r"\{\{ARCH:([^}]+)\}\}",
                   lambda m: ", ".join(archetypes.get(m.group(1), [])) or "—", md)
+
+
+def tidy_home(md: str) -> str:
+    """Home page clean-up once the mirror stopped tracking the source wiki's front page:
+    - drop the "Latest Updates" / "Next Planned Update" news (and the rule under it) and the
+      "*Source: ...*" credit line under About the Spheres;
+    - fold "Other Systems" into "Other Resources": its linked headings become list entries
+      (link - About text), and the blurbs left behind by excluded links go;
+    - drop list entries whose link was excluded (e.g. "- - If you play games online ...")."""
+    lines = md.split("\n")
+    news = [i for i, l in enumerate(lines) if re.match(r"\*\*(Latest Updates|Next Planned Update):\*\*", l)]
+    if news:
+        end = news[-1] + 1
+        while end < len(lines) and lines[end].strip() in ("", "---"):
+            end += 1
+        lines[news[0]:end] = []
+    lines = [l for l in lines if not re.match(r"\*Source: \[[^\]]*\]\([^)]*\)\*$", l.strip())]
+
+    systems = next((i for i, l in enumerate(lines) if l.strip() == "# Other Systems"), None)
+    resources = next((i for i, l in enumerate(lines) if l.strip() == "# Other Resources"), None)
+    if systems is not None and resources is not None and systems < resources:
+        entries, k = [], systems
+        while k < resources:
+            m = re.match(r"## (\[\[[^\]]+\]\])\s*$", lines[k].strip())
+            if m:
+                about = next((lines[j].strip() for j in range(k + 1, resources) if lines[j].strip()), "")
+                about = re.sub(r"^\*\*About:\*\*\s*", "", about)
+                entries.append(f"- {m.group(1)} - {about}" if about and not about.startswith(("<", "---", "#"))
+                               else f"- {m.group(1)}")
+            k += 1
+        start = systems
+        while start > 0 and lines[start - 1].strip() in ("", "---"):
+            start -= 1
+        intro_end = resources + 1
+        while intro_end < len(lines) and not lines[intro_end].startswith("- "):
+            intro_end += 1
+        lines = lines[:start] + [""] + lines[resources:intro_end] + [e for x in entries for e in (x, "")] \
+            + lines[intro_end:]
+    lines = [l for l in lines if not l.startswith("- - ")]
+    return "\n".join(lines)
 
 
 def remove_using_row(md: str) -> str:
