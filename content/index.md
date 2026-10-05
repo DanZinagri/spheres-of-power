@@ -121,31 +121,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Origins]]
 [[Traits]]
 
----
-
-**Sample Spherecasters**
-
-[[The Bear Caller]]
-(**Angry Bear Noises**)
-[[The Blaster]]
-(Well-Balanced Elementalist)
-[[The Classic Mage]]
-(Generalist Incanter)
-[[The Green Witch]]
-(Nature-focused Hedgewitch)
-[[The Ice Knight]]
-(Elemental-focused Mageknight)
-[[The Master of Illusions]]
-(Illusion-focused Fey Adept)
-[[The Master Of Many Forms|The Master of Many Forms]]
-(Alteration-focused Shifter)
-[[The Mind Mage]]
-(Mind-focused Eliciter)
-[[The Mountain]]
-(Enhancement-focused Armorist)
-[[The Shy Librarian]]
-(Bookworm Thaumaturge)
-
 </div>
 
 <div class="sop-col">
@@ -205,23 +180,13 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 ---
 
-**Other Options**
+**Practitioner Gear**
 
-[[Accrual]]
-[[Airship Rules]]
-[[Aristeia]]
-[[Churches And Powers Of Faith|Churches and Powers of Faith]]
-[[Spheres Gestalt Rules|Gestalt Rules]]
-[[Oaths]]
-[[Organizations]]
-[[Strain (formerly Madness)|Strain]] (formerly Madness)
-[[Variant Rules]]
-[[Wilderness]]
-
-**Tools**
-
-[[Character Builder]]
-[[Item Crafter]]
+[[Adventuring Gear]]
+[[Mechanical Parts]]
+[[Technological Gear]]
+[[Practitioner Magic Items]]
+[[Practitioner Weapons]]
 
 </div>
 
@@ -286,16 +251,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Talent Crystals]]
 
 [[Loot Tables]]
-
----
-
-**Practitioner Gear**
-
-[[Adventuring Gear]]
-[[Mechanical Parts]]
-[[Technological Gear]]
-[[Practitioner Magic Items]]
-[[Practitioner Weapons]]
 
 </div>
 
@@ -418,40 +373,28 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Sphere Templates]]
 [[Practitioner Bestiary]]
 [[Starfinder Conversion]]
+[[Sample Characters]]
+
 
 ---
 
-**Sample Practitioners**
+**Other Options**
 
-[[The Culinary Specialist]]
-(Iron Chef Blacksmith)
-[[The Master Thief]]
-(Flexible Technician)
-[[The Sniper]]
-(Ranged Conscript)
-[[The Unbreakable]]
-(Defensive Sentinel)
-[[The Veterinarian]]
-(Pet-focused Scholar)
-[[The Waterlord]]
-(Pirate Commander)
-[[The Walking Hill]]
-(Strong Man Striker)
+[[Accrual]]
+[[Airship Rules]]
+[[Aristeia]]
+[[Churches And Powers Of Faith|Churches and Powers of Faith]]
+[[Spheres Gestalt Rules|Gestalt Rules]]
+[[Oaths]]
+[[Organizations]]
+[[Strain (formerly Madness)|Strain]] (formerly Madness)
+[[Variant Rules]]
+[[Wilderness]]
 
----
+**Tools**
 
-**Sample Champions**
-
-[[The Assassin (Sample Character)|The Assassin]]
-(Tracking Troubadour)
-[[The Edgewitch]]
-(Edgy Martial Hedgewitch)
-[[The MacGyver]]
-(Tool-focused Prodigy)
-[[The Merry Rider]]
-(Trickster Mountebank)
-[[The Wandering Sage]]
-(Support Sage)
+[[Character Builder]]
+[[Item Crafter]]
 
 </div>
 

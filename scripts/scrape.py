@@ -115,14 +115,17 @@ def add_page_notes(slug: str, md: str) -> str:
 # heading) to the end of the given column of the main navigation grid to even out the columns.
 # Balanced from rendered section heights at 1920px (columns end up within ~330px of each other).
 HOME_SECTION_MOVES = [
-    ("Other Options", 2),
+    ("Practitioner Gear", 2),
     ("Gear", 3),
-    ("Practitioner Gear", 3),
     ("Feat Types", 4),
     ("Creatures", 5),
-    ("Sample Practitioners", 5),
-    ("Sample Champions", 5),
+    ("Other Options", 5),  # the Tools list (PAGE_NOTES) follows Other Options wherever it goes
 ]
+# Home page sections replaced by the generated "Sample Characters" page, which is linked from
+# the end of the Creatures section instead.
+SAMPLE_SECTIONS = ("Sample Spherecasters", "Sample Practitioners", "Sample Champions")
+SAMPLE_PAGE = "Sample Characters"
+HOME_SECTION_APPEND = {"Creatures": [f"[[{SAMPLE_PAGE}]]"]}
 
 # The wiki colors links by product line with inline <span style="color:...">. Power is the default
 # (uncolored) link color. Every link to a page gets its family's color (see data/link-families.json).
@@ -727,6 +730,15 @@ def rebalance_home_columns(md: str) -> str:
                 parsed[target - 1][1].append([name, ["", "---", "", *body]])
                 break
 
+    # sample-character sections live on their own page now; link it from Creatures
+    for _, sections in parsed:
+        sections[:] = [s for s in sections if s[0] not in SAMPLE_SECTIONS]
+        for name, body in sections:
+            if name in HOME_SECTION_APPEND:
+                while body and not body[-1].strip():
+                    body.pop()
+                body.extend(HOME_SECTION_APPEND[name] + [""])
+
     rebuilt = []
     for prefix, sections in parsed:
         col = list(prefix)
@@ -1282,6 +1294,7 @@ def convert(with_images: bool) -> None:
         del pages[s]
     redirects = old_page_redirects(excluded, pages)
     samples = sample_character_slugs(pages)  # before preprocess() edits the home page
+    sample_groups = sample_character_groups(pages)
     print(f"Sample characters (nosearch): {len(samples)}")
     # pages whose sections get split into subpages become folder notes, with the entries beside them
     for slug in SPLIT_SECTIONS:
@@ -1378,6 +1391,8 @@ def convert(with_images: bool) -> None:
             continue
         dest.write_text(out, encoding="utf-8")
 
+    write_sample_page(sample_groups, pages)
+
     if wm_page:
         dest, out = wm_page
         # all the tables, at the end of the page (not under any one section)
@@ -1393,6 +1408,46 @@ def convert(with_images: bool) -> None:
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     (CACHE / "last-convert.txt").write_text(stamp)
     print(f"Wrote {len(pages)} notes + {split_count} split-out entries to {CONTENT} ({len(excluded)} excluded) ({stamp})")
+
+
+def sample_character_groups(pages: dict[str, Page]) -> list[tuple[str, list[str]]]:
+    """[(heading, [slugs])] for the home page's "Sample ..." lists, in page order."""
+    start = pages.get("start")
+    if not start or not start.body:
+        return []
+    groups = []
+    for label in start.body.find_all(["strong", "b"]):
+        heading = label.get_text(" ", strip=True)
+        if not re.match(r"(?i)sample\b", heading):
+            continue
+        slugs = []
+        for el in label.next_elements:
+            if el is label or (isinstance(el, Tag) and label in el.parents) or isinstance(el, NavigableString):
+                continue
+            if el.name in ("strong", "b", "hr", "h1", "h2", "h3", "h4"):
+                break
+            if el.name == "a" and el.get("href"):
+                slug = internal_slug(el["href"])
+                if slug in pages and slug not in slugs:
+                    slugs.append(slug)
+        if slugs:
+            groups.append((heading, slugs))
+    return groups
+
+
+def write_sample_page(groups: list[tuple[str, list[str]]], pages: dict[str, Page]) -> None:
+    """The "Sample Characters" page: every sample character, grouped as on the home page."""
+    lines = ["---", f"title: {yaml_str(SAMPLE_PAGE)}", "---", GENERATED_MARK, "",
+             "Pre-built example characters for Spheres of Power, Spheres of Might, and "
+             "Champions of the Spheres.", ""]
+    for heading, slugs in groups:
+        lines += [f"## {heading}", ""]
+        for slug in slugs:
+            p = pages[slug]
+            label = p.title.replace("[", "(").replace("]", ")")
+            lines.append(f"- [[{p.filename}]]" if p.filename == label else f"- [[{p.filename}|{label}]]")
+        lines.append("")
+    (CONTENT / f"{SAMPLE_PAGE}.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 def sample_character_slugs(pages: dict[str, Page]) -> set[str]:
