@@ -152,9 +152,51 @@ body {
   white-space: nowrap;
 }
 
-// the home page's Spheres grid: slightly larger column titles
-.sop-spheres > .sop-col > p:first-child > strong {
-  font-size: 1.1em;
+// Home page "Spheres": one full-width block per category. The header line holds the title and a
+// small "(Using ...)" link; the spheres flow in an even grid, each "Sphere · Feats · Drawbacks"
+// with the extra links smaller so the sphere names lead.
+.sop-spheres {
+  & > p {
+    margin: 1.4rem 0 0.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid var(--lightgray);
+
+    &:first-child {
+      margin-top: 0.5rem;
+    }
+
+    & > strong {
+      font-size: 1.1em;
+    }
+
+    & > em {
+      font-size: 0.78em;
+      font-style: normal;
+      color: var(--gray);
+      margin-left: 0.35em;
+    }
+  }
+
+  & > ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr));
+    gap: 0.15rem 1.75rem;
+
+    & > li {
+      margin: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: var(--gray); // the " · " separators and [tags]
+
+      & > a:not(:first-child) {
+        font-size: 0.82em;
+      }
+    }
+  }
 }
 
 // Wikidot side-by-side [[div float]] blocks (home page navigation etc.)

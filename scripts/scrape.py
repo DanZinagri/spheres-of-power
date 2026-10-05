@@ -59,6 +59,9 @@ EXCLUDED_SECTIONS = {
 # Headings carrying one are removed with their whole section, and list items / paragraphs that
 # open with a tagged name are removed, on every page.
 EXCLUDED_TAGS = {"LG", "SM—"}  # Legendary Games, Studio M—
+# Tagged headings whose sub-sections are NOT theirs (an outline error on the wiki): only the
+# heading and its own text are removed, the sections below it stay.
+TAGGED_HEADING_TEXT_ONLY = ("Enhanced Racial Traits",)
 # Pages carrying one of these tags (in their title, or next to links to them) are excluded
 # automatically along with their subpages; see tagged_pages().
 
@@ -577,13 +580,19 @@ def prune_tagged_entries(body: Tag, nav: bool = False) -> None:
         if h.parent is None or not _has_excluded_tag(h.get_text(" ", strip=True)):
             continue
         level = int(h.name[1])
-        sib = h.find_next_sibling()
-        while sib is not None:
-            if (is_heading(sib) and int(sib.name[1]) <= level) or sib.name == "hr":
-                break
-            nxt = sib.find_next_sibling()
-            sib.decompose()
-            sib = nxt
+        section, sib = [], h.find_next_sibling()
+        while sib is not None and not ((is_heading(sib) and int(sib.name[1]) <= level) or sib.name == "hr"):
+            section.append(sib)
+            sib = sib.find_next_sibling()
+        # A tagged entry's own sub-sections (an option's abilities) go with it. Where the wiki's
+        # outline is off and unrelated sections sit "under" a tagged heading (every race on
+        # Alternate Racial Traits is under "Enhanced Racial Traits [LG]"), only the tagged
+        # heading's own text, up to its first sub-heading, is removed.
+        if h.get_text(" ", strip=True).startswith(TAGGED_HEADING_TEXT_ONLY):
+            first = next((i for i, s in enumerate(section) if is_heading(s)), len(section))
+            section = section[:first]
+        for s in section:
+            s.decompose()
         h.decompose()
     for el in blocks:
         if el.parent is None:
@@ -786,12 +795,38 @@ def rebalance_home_columns(md: str) -> str:
         rebuilt += ['<div class="sop-col">', "", *col, "", "</div>", ""]
     spheres = []
     if sphere_cols:
-        spheres = ["## Spheres", "", f'<div class="sop-columns sop-spheres" style="--cols: {len(sphere_cols)}">', ""]
+        # one full-width block per category (header, then its spheres; sphere_lists() turns the
+        # sphere lines into a list that custom.scss lays out as an even grid)
+        spheres = ["## Spheres", "", '<div class="sop-spheres">', ""]
         for col in sphere_cols:
-            spheres += ['<div class="sop-col">', "", *col, "", "</div>", ""]
+            spheres += [*col, ""]
         spheres += ["</div>", "", "## Classes & Options", ""]
     out = lines[:start] + spheres + [lines[start], ""] + rebuilt + lines[end:]
     return remove_using_row("\n".join(out))
+
+
+def sphere_lists(md: str) -> str:
+    """Inside the home page's Spheres block, each category's sphere lines ("[[Alteration]] |
+    [[...|Feats]] | [[...|Drawbacks]]") become one tight list with " · " separators."""
+    out, inside, pending_blank = [], False, False
+    for line in md.split("\n"):
+        s = line.strip()
+        if s == '<div class="sop-spheres">':
+            inside = True
+        elif inside and s == "</div>":
+            inside = False
+        if inside and s.startswith("[["):
+            out.append("- " + re.sub(r"\]\]\s*\|\s*\[\[", "]] · [[", s))
+            pending_blank = False
+            continue
+        if inside and not s and out and out[-1].startswith("- "):
+            pending_blank = True  # blank line inside a category's list: keep the list together
+            continue
+        if pending_blank:
+            out.append("")
+            pending_blank = False
+        out.append(line)
+    return "\n".join(out)
 
 
 def remove_using_row(md: str) -> str:
@@ -1692,7 +1727,7 @@ def convert(with_images: bool) -> None:
                                  "", body_md, flags=re.M)
                 body_md = re.sub(r"^---\n(?:[ \t]*\n)*---[ \t]*$", "---", body_md, flags=re.M)
         body_md = add_page_notes(p.slug, body_md)
-        if is_sphere and p.slug != WILD_MAGIC_SLUG:
+        if (is_sphere and p.slug != WILD_MAGIC_SLUG) or p.slug in skill_spheres:
             body_md, feats_md = split_sphere_feats(body_md, p.title)
             if feats_md and p.slug in merged_feats:
                 # merged pages' feats first (the default tab), then the page's own as "Ultimate"
@@ -1783,8 +1818,8 @@ def convert(with_images: bool) -> None:
     write_link_families(pages, derived_notes)
     if home_page:
         dest, out = home_page
-        dest.write_text(drop_merged_links(add_feats_links(out, feats_pages, drawback_pages), merge_links),
-                        encoding="utf-8")
+        dest.write_text(sphere_lists(drop_merged_links(add_feats_links(out, feats_pages, drawback_pages),
+                                                       merge_links)), encoding="utf-8")
         print(f"Sphere feats pages: {len(feats_pages)}")
 
     if wm_page:

@@ -37,97 +37,82 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 ## Spheres
 
-<div class="sop-columns sop-spheres" style="--cols: 3">
-
-<div class="sop-col">
+<div class="sop-spheres">
 
 **Magic Spheres** *([[Using Spheres Of Power|Using Spheres of Power]])*
 
-[[Alteration]] | [[Alteration Sphere Feats|Feats]] | [[Alteration Sphere Drawbacks|Drawbacks]]
-[[Blood]] | [[Blood Sphere Feats|Feats]] | [[Blood Sphere Drawbacks|Drawbacks]]
-[[Conjuration]] | [[Conjuration Sphere Feats|Feats]] | [[Conjuration Sphere Drawbacks|Drawbacks]]
-[[Creation]] | [[Creation Sphere Feats|Feats]] | [[Creation Sphere Drawbacks|Drawbacks]]
-[[Dark]] | [[Dark Sphere Feats|Feats]] | [[Dark Sphere Drawbacks|Drawbacks]]
-[[Death]] | [[Death Sphere Feats|Feats]] | [[Death Sphere Drawbacks|Drawbacks]]
-[[Destruction]] | [[Destruction Sphere Feats|Feats]] | [[Destruction Sphere Drawbacks|Drawbacks]]
-[[Divination]] | [[Divination Sphere Feats|Feats]] | [[Divination Sphere Drawbacks|Drawbacks]]
-[[Enhancement]] | [[Enhancement Sphere Feats|Feats]] | [[Enhancement Sphere Drawbacks|Drawbacks]]
-[[Fallen Fey]] | [[Fallen Fey Sphere Feats|Feats]] | [[Fallen Fey Sphere Drawbacks|Drawbacks]]
-[[Fate]] | [[Fate Sphere Feats|Feats]] | [[Fate Sphere Drawbacks|Drawbacks]]
-[[Illusion]] | [[Illusion Sphere Feats|Feats]] | [[Illusion Sphere Drawbacks|Drawbacks]]
-[[Life]] | [[Life Sphere Feats|Feats]] | [[Life Sphere Drawbacks|Drawbacks]]
-[[Light]] | [[Light Sphere Feats|Feats]] | [[Light Sphere Drawbacks|Drawbacks]]
-[[Mana]] | [[Mana Sphere Feats|Feats]] | [[Mana Sphere Drawbacks|Drawbacks]]
-[[Mind]] | [[Mind Sphere Feats|Feats]] | [[Mind Sphere Drawbacks|Drawbacks]]
-[[Nature]] | [[Nature Sphere Feats|Feats]] | [[Nature Sphere Drawbacks|Drawbacks]]
-[[Protection]] | [[Protection Sphere Feats|Feats]] | [[Protection Sphere Drawbacks|Drawbacks]]
-[[Telekinesis]] | [[Telekinesis Sphere Feats|Feats]] | [[Telekinesis Sphere Drawbacks|Drawbacks]]
-[[Time]] | [[Time Sphere Feats|Feats]] | [[Time Sphere Drawbacks|Drawbacks]]
-[[War]] | [[War Sphere Feats|Feats]] | [[War Sphere Drawbacks|Drawbacks]]
-[[Warp]] | [[Warp Sphere Feats|Feats]] | [[Warp Sphere Drawbacks|Drawbacks]]
-[[Weather]] | [[Weather Sphere Feats|Feats]] | [[Weather Sphere Drawbacks|Drawbacks]]
-
-[[Bear]]
-
-</div>
-
-<div class="sop-col">
+- [[Alteration]] · [[Alteration Sphere Feats|Feats]] · [[Alteration Sphere Drawbacks|Drawbacks]]
+- [[Blood]] · [[Blood Sphere Feats|Feats]] · [[Blood Sphere Drawbacks|Drawbacks]]
+- [[Conjuration]] · [[Conjuration Sphere Feats|Feats]] · [[Conjuration Sphere Drawbacks|Drawbacks]]
+- [[Creation]] · [[Creation Sphere Feats|Feats]] · [[Creation Sphere Drawbacks|Drawbacks]]
+- [[Dark]] · [[Dark Sphere Feats|Feats]] · [[Dark Sphere Drawbacks|Drawbacks]]
+- [[Death]] · [[Death Sphere Feats|Feats]] · [[Death Sphere Drawbacks|Drawbacks]]
+- [[Destruction]] · [[Destruction Sphere Feats|Feats]] · [[Destruction Sphere Drawbacks|Drawbacks]]
+- [[Divination]] · [[Divination Sphere Feats|Feats]] · [[Divination Sphere Drawbacks|Drawbacks]]
+- [[Enhancement]] · [[Enhancement Sphere Feats|Feats]] · [[Enhancement Sphere Drawbacks|Drawbacks]]
+- [[Fallen Fey]] · [[Fallen Fey Sphere Feats|Feats]] · [[Fallen Fey Sphere Drawbacks|Drawbacks]]
+- [[Fate]] · [[Fate Sphere Feats|Feats]] · [[Fate Sphere Drawbacks|Drawbacks]]
+- [[Illusion]] · [[Illusion Sphere Feats|Feats]] · [[Illusion Sphere Drawbacks|Drawbacks]]
+- [[Life]] · [[Life Sphere Feats|Feats]] · [[Life Sphere Drawbacks|Drawbacks]]
+- [[Light]] · [[Light Sphere Feats|Feats]] · [[Light Sphere Drawbacks|Drawbacks]]
+- [[Mana]] · [[Mana Sphere Feats|Feats]] · [[Mana Sphere Drawbacks|Drawbacks]]
+- [[Mind]] · [[Mind Sphere Feats|Feats]] · [[Mind Sphere Drawbacks|Drawbacks]]
+- [[Nature]] · [[Nature Sphere Feats|Feats]] · [[Nature Sphere Drawbacks|Drawbacks]]
+- [[Protection]] · [[Protection Sphere Feats|Feats]] · [[Protection Sphere Drawbacks|Drawbacks]]
+- [[Telekinesis]] · [[Telekinesis Sphere Feats|Feats]] · [[Telekinesis Sphere Drawbacks|Drawbacks]]
+- [[Time]] · [[Time Sphere Feats|Feats]] · [[Time Sphere Drawbacks|Drawbacks]]
+- [[War]] · [[War Sphere Feats|Feats]] · [[War Sphere Drawbacks|Drawbacks]]
+- [[Warp]] · [[Warp Sphere Feats|Feats]] · [[Warp Sphere Drawbacks|Drawbacks]]
+- [[Weather]] · [[Weather Sphere Feats|Feats]] · [[Weather Sphere Drawbacks|Drawbacks]]
+- [[Bear]]
 
 **Skill Spheres** *([[Using Spheres Of Guile|Using Spheres of Guile]])*
 
-[[Artifice]] | [[Artifice Sphere Drawbacks|Drawbacks]]
-[[Bluster]] | [[Bluster Sphere Drawbacks|Drawbacks]]
-[[Body Control]] | [[Body Control Sphere Drawbacks|Drawbacks]]
-[[Communication]] | [[Communication Sphere Drawbacks|Drawbacks]]
-[[Faction]] | [[Faction Sphere Drawbacks|Drawbacks]]
-[[Herbalism]] | [[Herbalism Sphere Drawbacks|Drawbacks]]
-[[Infiltration]] | [[Infiltration Sphere Drawbacks|Drawbacks]]
-[[Investigation]] | [[Investigation Sphere Drawbacks|Drawbacks]]
-[[Navigation]] | [[Navigation Sphere Drawbacks|Drawbacks]]
-[[Performance]] | [[Performance Sphere Drawbacks|Drawbacks]]
-[[Spellhacking]] | [[Spellhacking Sphere Drawbacks|Drawbacks]]
-[[Study]] | [[Study Sphere Drawbacks|Drawbacks]]
-[[Subterfuge]] | [[Subterfuge Sphere Drawbacks|Drawbacks]]
-[[Survivalism]] | [[Survivalism Sphere Drawbacks|Drawbacks]]
-[[Vocation]]
-
-[[Occultism]] | [[Occultism Sphere Drawbacks|Drawbacks]] [DRS]
-
-</div>
-
-<div class="sop-col">
+- [[Artifice]] · [[Artifice Sphere Feats|Feats]] · [[Artifice Sphere Drawbacks|Drawbacks]]
+- [[Bluster]] · [[Bluster Sphere Feats|Feats]] · [[Bluster Sphere Drawbacks|Drawbacks]]
+- [[Body Control]] · [[Body Control Sphere Feats|Feats]] · [[Body Control Sphere Drawbacks|Drawbacks]]
+- [[Communication]] · [[Communication Sphere Drawbacks|Drawbacks]]
+- [[Faction]] · [[Faction Sphere Feats|Feats]] · [[Faction Sphere Drawbacks|Drawbacks]]
+- [[Herbalism]] · [[Herbalism Sphere Feats|Feats]] · [[Herbalism Sphere Drawbacks|Drawbacks]]
+- [[Infiltration]] · [[Infiltration Sphere Feats|Feats]] · [[Infiltration Sphere Drawbacks|Drawbacks]]
+- [[Investigation]] · [[Investigation Sphere Feats|Feats]] · [[Investigation Sphere Drawbacks|Drawbacks]]
+- [[Navigation]] · [[Navigation Sphere Feats|Feats]] · [[Navigation Sphere Drawbacks|Drawbacks]]
+- [[Performance]] · [[Performance Sphere Feats|Feats]] · [[Performance Sphere Drawbacks|Drawbacks]]
+- [[Spellhacking]] · [[Spellhacking Sphere Feats|Feats]] · [[Spellhacking Sphere Drawbacks|Drawbacks]]
+- [[Study]] · [[Study Sphere Feats|Feats]] · [[Study Sphere Drawbacks|Drawbacks]]
+- [[Subterfuge]] · [[Subterfuge Sphere Feats|Feats]] · [[Subterfuge Sphere Drawbacks|Drawbacks]]
+- [[Survivalism]] · [[Survivalism Sphere Feats|Feats]] · [[Survivalism Sphere Drawbacks|Drawbacks]]
+- [[Vocation]]
+- [[Occultism]] · [[Occultism Sphere Feats|Feats]] · [[Occultism Sphere Drawbacks|Drawbacks]] [DRS]
 
 **Combat Spheres** *([[Using Spheres Of Might|Using Spheres of Might]])*
 
-[[Alchemy]] | [[Alchemy Sphere Drawbacks|Drawbacks]]
-[[Athletics]] | [[Athletics Sphere Drawbacks|Drawbacks]]
-[[Barrage]] | [[Barrage Sphere Drawbacks|Drawbacks]]
-[[Barroom]] | [[Barroom Sphere Drawbacks|Drawbacks]]
-[[Beastmastery]] | [[Beastmastery Sphere Drawbacks|Drawbacks]]
-[[Berserker]] | [[Berserker Sphere Drawbacks|Drawbacks]]
-[[Boxing]] | [[Boxing Sphere Drawbacks|Drawbacks]]
-[[Brute]] | [[Brute Sphere Drawbacks|Drawbacks]]
-[[Dual Wielding]] | [[Dual Wielding Sphere Drawbacks|Drawbacks]]
-[[Duelist]] | [[Duelist Sphere Drawbacks|Drawbacks]]
-[[Equipment Sphere|Equipment]]
-[[Fencing]] | [[Fencing Sphere Drawbacks|Drawbacks]]
-[[Gladiator]] | [[Gladiator Sphere Drawbacks|Drawbacks]]
-[[Guardian]] | [[Guardian Sphere Drawbacks|Drawbacks]]
-[[Lancer]] | [[Lancer Sphere Drawbacks|Drawbacks]]
-[[Open Hand]] | [[Open Hand Sphere Drawbacks|Drawbacks]]
-[[Scoundrel]] | [[Scoundrel Sphere Drawbacks|Drawbacks]]
-[[Scout]] | [[Scout Sphere Drawbacks|Drawbacks]]
-[[Shield]] | [[Shield Sphere Drawbacks|Drawbacks]]
-[[Sniper]] | [[Sniper Sphere Drawbacks|Drawbacks]]
-[[Trap]] | [[Trap Sphere Drawbacks|Drawbacks]]
-[[Warleader (warleader-sphere)|Warleader]] | [[Warleader Sphere Drawbacks|Drawbacks]]
-[[Wrestling]] | [[Wrestling Sphere Drawbacks|Drawbacks]]
-
-[[Leadership]] | [[Leadership Sphere Drawbacks|Drawbacks]]
-[[Tech]] | [[Tech Sphere Drawbacks|Drawbacks]]
-[[Tinker]] | [[Tinker Sphere Drawbacks|Drawbacks]]
-
-</div>
+- [[Alchemy]] · [[Alchemy Sphere Drawbacks|Drawbacks]]
+- [[Athletics]] · [[Athletics Sphere Drawbacks|Drawbacks]]
+- [[Barrage]] · [[Barrage Sphere Drawbacks|Drawbacks]]
+- [[Barroom]] · [[Barroom Sphere Drawbacks|Drawbacks]]
+- [[Beastmastery]] · [[Beastmastery Sphere Drawbacks|Drawbacks]]
+- [[Berserker]] · [[Berserker Sphere Drawbacks|Drawbacks]]
+- [[Boxing]] · [[Boxing Sphere Drawbacks|Drawbacks]]
+- [[Brute]] · [[Brute Sphere Drawbacks|Drawbacks]]
+- [[Dual Wielding]] · [[Dual Wielding Sphere Drawbacks|Drawbacks]]
+- [[Duelist]] · [[Duelist Sphere Drawbacks|Drawbacks]]
+- [[Equipment Sphere|Equipment]]
+- [[Fencing]] · [[Fencing Sphere Drawbacks|Drawbacks]]
+- [[Gladiator]] · [[Gladiator Sphere Drawbacks|Drawbacks]]
+- [[Guardian]] · [[Guardian Sphere Drawbacks|Drawbacks]]
+- [[Lancer]] · [[Lancer Sphere Drawbacks|Drawbacks]]
+- [[Open Hand]] · [[Open Hand Sphere Drawbacks|Drawbacks]]
+- [[Scoundrel]] · [[Scoundrel Sphere Drawbacks|Drawbacks]]
+- [[Scout]] · [[Scout Sphere Drawbacks|Drawbacks]]
+- [[Shield]] · [[Shield Sphere Drawbacks|Drawbacks]]
+- [[Sniper]] · [[Sniper Sphere Drawbacks|Drawbacks]]
+- [[Trap]] · [[Trap Sphere Drawbacks|Drawbacks]]
+- [[Warleader (warleader-sphere)|Warleader]] · [[Warleader Sphere Drawbacks|Drawbacks]]
+- [[Wrestling]] · [[Wrestling Sphere Drawbacks|Drawbacks]]
+- [[Leadership]] · [[Leadership Sphere Drawbacks|Drawbacks]]
+- [[Tech]] · [[Tech Sphere Drawbacks|Drawbacks]]
+- [[Tinker]] · [[Tinker Sphere Drawbacks|Drawbacks]]
 
 </div>
 

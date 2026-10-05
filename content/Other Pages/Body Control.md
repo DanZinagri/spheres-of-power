@@ -475,18 +475,6 @@ As a standard action, you can release the contained effect as a breath weapon, f
 
 ---
 
-# Body Control Sphere Feats
-
-#### Exceptional Discipline
-
-You have mastered your body so completely that you can control its processes without even a thought.
-
-**Prerequisites:** Associated skill 10 ranks, Body Control sphere.
-
-**Benefit:** Choose one (control) talent you have. You have its effects permanently, as if constantly meditating on it. While you maintain the meditate approach, the chosen (control) talent does not count towards the maximum number of (control) talents you can have applied at one time. You can spend a free action to suppress (or reactivate) the effects of the chosen (control) talent.
-
----
-
 </div>
 
 </div>

@@ -608,24 +608,6 @@ You can choose an explorer, skilled hunter, priest of nature, herbalist, or othe
 
 ---
 
-# Faction Sphere Feats
-
-#### Eldritch Supplies (Champion, Drawback) [LotS]
-
-**Prerequisites:** Faction sphere, casting class feature.
-
-**Benefit:** You may use Faction sphere resources to pay for spell components, ritual component costs, and components for crafting magic items. Most spell and ritual components are temporary resources, but components for magic items, permanent effects, or instantaneous effects with lasting consequences should be considered permanent resources.
-
-**Special:** If you possess the Expensive Locus or Material Casting drawback, you may select this feat as a drawback feat.
-
-#### Organized Following (Champion) [LotS]
-
-**Prerequisites:** Faction sphere, Leadership sphere.
-
-**Benefit:** Any cohorts you possess from the Leadership sphere may select skill talents in place of combat or magic talents. In addition, you may spend 2 authorizations to double the recruitment rate of followers in a settlement for 24 hours or reduce the DC of a single cohort recruitment check by 2.
-
----
-
 </div>
 
 </div>

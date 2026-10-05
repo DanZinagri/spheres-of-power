@@ -340,14 +340,6 @@ In addition, you never need cover or concealment to use Stealth against creature
 
 ---
 
-# Infiltration Sphere Feats
-
-#### Dastardly Entrapment (Champion) [LotS]
-
-**Prerequisites:** Infiltration sphere, Scoundrel sphere.
-
-**Benefit:** Whenever you succeed at a dirty trick or steal combat maneuver against a creature, you may apply a (sabotage) talent to the creature or its equipment in place of a (trick) talent. You may choose to delay the effects of your dirty trick until after the sabotage triggers or ends.
-
 </div>
 
 </div>
