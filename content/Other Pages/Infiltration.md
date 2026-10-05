@@ -340,22 +340,6 @@ In addition, you never need cover or concealment to use Stealth against creature
 
 ---
 
-# Drawbacks
-
-#### Careful Saboteur
-
-Altering the original function of a device takes time, and you tend to prefer to be safer than sorry. You lose the fast sabotage ability, and gain the Planned Sabotage talent.
-
-#### Ghost
-
-You move quickly and quietly. You lose the fast sabotage ability, and gain the Shadower talent. You use Stealth instead of Disable Device as this sphere’s associated skill; if you gain the Skilled Sneak talent, it instead grants Disable Device as an additional associated skill.
-
-#### Vandal
-
-You lose the light step approach, and gain the Expert Saboteur talent.
-
----
-
 # Infiltration Sphere Feats
 
 #### Dastardly Entrapment (Champion) [LotS]

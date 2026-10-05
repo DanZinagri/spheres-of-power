@@ -34,40 +34,14 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 ---
 
-<div class="sop-columns" style="--cols: 4">
+
+## Spheres
+
+<div class="sop-columns sop-spheres" style="--cols: 3">
 
 <div class="sop-col">
 
-## [[Using Spheres Of Power|Using Spheres of Power]]
-
-</div>
-
-<div class="sop-col">
-
-## [[Using Spheres Of Guile|Using Spheres of Guile]]
-
-</div>
-
-<div class="sop-col">
-
-## [[Using Spheres Of Might|Using Spheres of Might]]
-
-</div>
-
-<div class="sop-col">
-
-## [[Using Champions Of The Spheres|Using Champions of the Spheres]]
-
-</div>
-
-</div>
-
-<div class="sop-columns" style="--cols: 5">
-
-<div class="sop-col">
-
-
-**Magic Spheres**
+**Magic Spheres** *([[Using Spheres Of Power|Using Spheres of Power]])*
 
 [[Alteration]] | [[Alteration Sphere Feats|Feats]] | [[Alteration Sphere Drawbacks|Drawbacks]]
 [[Blood]] | [[Blood Sphere Feats|Feats]] | [[Blood Sphere Drawbacks|Drawbacks]]
@@ -95,6 +69,76 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 [[Bear]]
 
+</div>
+
+<div class="sop-col">
+
+**Skill Spheres** *([[Using Spheres Of Guile|Using Spheres of Guile]])*
+
+[[Artifice]] | [[Artifice Sphere Drawbacks|Drawbacks]]
+[[Bluster]] | [[Bluster Sphere Drawbacks|Drawbacks]]
+[[Body Control]] | [[Body Control Sphere Drawbacks|Drawbacks]]
+[[Communication]] | [[Communication Sphere Drawbacks|Drawbacks]]
+[[Faction]] | [[Faction Sphere Drawbacks|Drawbacks]]
+[[Herbalism]] | [[Herbalism Sphere Drawbacks|Drawbacks]]
+[[Infiltration]] | [[Infiltration Sphere Drawbacks|Drawbacks]]
+[[Investigation]] | [[Investigation Sphere Drawbacks|Drawbacks]]
+[[Navigation]] | [[Navigation Sphere Drawbacks|Drawbacks]]
+[[Performance]] | [[Performance Sphere Drawbacks|Drawbacks]]
+[[Spellhacking]] | [[Spellhacking Sphere Drawbacks|Drawbacks]]
+[[Study]] | [[Study Sphere Drawbacks|Drawbacks]]
+[[Subterfuge]] | [[Subterfuge Sphere Drawbacks|Drawbacks]]
+[[Survivalism]] | [[Survivalism Sphere Drawbacks|Drawbacks]]
+[[Vocation]]
+
+[[Occultism]] | [[Occultism Sphere Drawbacks|Drawbacks]] [DRS]
+
+</div>
+
+<div class="sop-col">
+
+**Combat Spheres** *([[Using Spheres Of Might|Using Spheres of Might]])*
+
+[[Alchemy]] | [[Alchemy Sphere Drawbacks|Drawbacks]]
+[[Athletics]] | [[Athletics Sphere Drawbacks|Drawbacks]]
+[[Barrage]] | [[Barrage Sphere Drawbacks|Drawbacks]]
+[[Barroom]] | [[Barroom Sphere Drawbacks|Drawbacks]]
+[[Beastmastery]] | [[Beastmastery Sphere Drawbacks|Drawbacks]]
+[[Berserker]] | [[Berserker Sphere Drawbacks|Drawbacks]]
+[[Boxing]] | [[Boxing Sphere Drawbacks|Drawbacks]]
+[[Brute]] | [[Brute Sphere Drawbacks|Drawbacks]]
+[[Dual Wielding]] | [[Dual Wielding Sphere Drawbacks|Drawbacks]]
+[[Duelist]] | [[Duelist Sphere Drawbacks|Drawbacks]]
+[[Equipment Sphere|Equipment]]
+[[Fencing]] | [[Fencing Sphere Drawbacks|Drawbacks]]
+[[Gladiator]] | [[Gladiator Sphere Drawbacks|Drawbacks]]
+[[Guardian]] | [[Guardian Sphere Drawbacks|Drawbacks]]
+[[Lancer]] | [[Lancer Sphere Drawbacks|Drawbacks]]
+[[Open Hand]] | [[Open Hand Sphere Drawbacks|Drawbacks]]
+[[Scoundrel]] | [[Scoundrel Sphere Drawbacks|Drawbacks]]
+[[Scout]] | [[Scout Sphere Drawbacks|Drawbacks]]
+[[Shield]] | [[Shield Sphere Drawbacks|Drawbacks]]
+[[Sniper]] | [[Sniper Sphere Drawbacks|Drawbacks]]
+[[Trap]] | [[Trap Sphere Drawbacks|Drawbacks]]
+[[Warleader (warleader-sphere)|Warleader]] | [[Warleader Sphere Drawbacks|Drawbacks]]
+[[Wrestling]] | [[Wrestling Sphere Drawbacks|Drawbacks]]
+
+[[Leadership]] | [[Leadership Sphere Drawbacks|Drawbacks]]
+[[Tech]] | [[Tech Sphere Drawbacks|Drawbacks]]
+[[Tinker]] | [[Tinker Sphere Drawbacks|Drawbacks]]
+
+</div>
+
+</div>
+
+## Classes & Options
+
+<div class="sop-columns" style="--cols: 5">
+
+<div class="sop-col">
+
+
+
 ---
 
 **Advanced Magic**
@@ -121,30 +165,31 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Origins]]
 [[Traits]]
 
+---
+
+**Prestige Classes**
+
+[[Aeronaut Captain]]
+[[Spheres Archwizard (Prestige Class)|Archwizard]]
+
+[[Bokor]] [Core]
+[[Cyborg]] [DRS]
+[[Forest Lord]]
+[[Hive]]
+[[Kingking]] [DRS]
+[[Magemage]]
+[[Realmwalker]]
+[[Renowned Warrior]] [DRS]
+[[Superintelligence]] [DRS]
+[[Tempestarii]]
+[[Waking Sleeper]]
+[[Alternate Justicar (Prestige Class) 3PP|Alternate Justicar]] [Wiki]
+
 </div>
 
 <div class="sop-col">
 
 
-**Skill Spheres**
-
-[[Artifice]]
-[[Bluster]]
-[[Body Control]]
-[[Communication]]
-[[Faction]]
-[[Herbalism]]
-[[Infiltration]]
-[[Investigation]]
-[[Navigation]]
-[[Performance]]
-[[Spellhacking]]
-[[Study]]
-[[Subterfuge]]
-[[Survivalism]]
-[[Vocation]]
-
-[[Occultism]] [DRS]
 
 ---
 
@@ -178,8 +223,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Champion FCBs]]
 [[Techniques]]
 
----
-
 **Practitioner Gear**
 
 [[Adventuring Gear]]
@@ -192,36 +235,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-col">
 
-
-**Combat Spheres**
-
-[[Alchemy]] | [[Alchemy Sphere Drawbacks|Drawbacks]]
-[[Athletics]] | [[Athletics Sphere Drawbacks|Drawbacks]]
-[[Barrage]] | [[Barrage Sphere Drawbacks|Drawbacks]]
-[[Barroom]] | [[Barroom Sphere Drawbacks|Drawbacks]]
-[[Beastmastery]] | [[Beastmastery Sphere Drawbacks|Drawbacks]]
-[[Berserker]] | [[Berserker Sphere Drawbacks|Drawbacks]]
-[[Boxing]] | [[Boxing Sphere Drawbacks|Drawbacks]]
-[[Brute]] | [[Brute Sphere Drawbacks|Drawbacks]]
-[[Dual Wielding]] | [[Dual Wielding Sphere Drawbacks|Drawbacks]]
-[[Duelist]] | [[Duelist Sphere Drawbacks|Drawbacks]]
-[[Equipment Sphere|Equipment]]
-[[Fencing]] | [[Fencing Sphere Drawbacks|Drawbacks]]
-[[Gladiator]] | [[Gladiator Sphere Drawbacks|Drawbacks]]
-[[Guardian]] | [[Guardian Sphere Drawbacks|Drawbacks]]
-[[Lancer]] | [[Lancer Sphere Drawbacks|Drawbacks]]
-[[Open Hand]] | [[Open Hand Sphere Drawbacks|Drawbacks]]
-[[Scoundrel]] | [[Scoundrel Sphere Drawbacks|Drawbacks]]
-[[Scout]] | [[Scout Sphere Drawbacks|Drawbacks]]
-[[Shield]] | [[Shield Sphere Drawbacks|Drawbacks]]
-[[Sniper]] | [[Sniper Sphere Drawbacks|Drawbacks]]
-[[Trap]] | [[Trap Sphere Drawbacks|Drawbacks]]
-[[Warleader (warleader-sphere)|Warleader]] | [[Warleader Sphere Drawbacks|Drawbacks]]
-[[Wrestling]] | [[Wrestling Sphere Drawbacks|Drawbacks]]
-
-[[Leadership]] | [[Leadership Sphere Drawbacks|Drawbacks]]
-[[Tech]] | [[Tech Sphere Drawbacks|Drawbacks]]
-[[Tinker]] | [[Tinker Sphere Drawbacks|Drawbacks]]
 
 
 ---
@@ -252,6 +265,26 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 [[Loot Tables]]
 
+---
+
+**Other Options**
+
+[[Accrual]]
+[[Airship Rules]]
+[[Aristeia]]
+[[Churches And Powers Of Faith|Churches and Powers of Faith]]
+[[Spheres Gestalt Rules|Gestalt Rules]]
+[[Oaths]]
+[[Organizations]]
+[[Strain (formerly Madness)|Strain]] (formerly Madness)
+[[Variant Rules]]
+[[Wilderness]]
+
+**Tools**
+
+[[Character Builder]]
+[[Item Crafter]]
+
 </div>
 
 <div class="sop-col">
@@ -271,25 +304,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Symbiat]]
 [[Thaumaturge]]
 [[Wraith]]
-
-**Prestige Classes**
-
-[[Aeronaut Captain]]
-[[Spheres Archwizard (Prestige Class)|Archwizard]]
-
-[[Bokor]] [Core]
-[[Cyborg]] [DRS]
-[[Forest Lord]]
-[[Hive]]
-[[Kingking]] [DRS]
-[[Magemage]]
-[[Realmwalker]]
-[[Renowned Warrior]] [DRS]
-[[Superintelligence]] [DRS]
-[[Tempestarii]]
-[[Waking Sleeper]]
-[[Alternate Justicar (Prestige Class) 3PP|Alternate Justicar]] [Wiki]
-
 
 ---
 
@@ -352,7 +366,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Striker]]
 [[Technician]]
 
-**Champions**
+**Champions** *([[Using Champions Of The Spheres|Using Champions of the Spheres]])*
 
 [[Bravo]]
 [[Crimson Dancer]]
@@ -374,27 +388,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Practitioner Bestiary]]
 [[Starfinder Conversion]]
 [[Sample Characters]]
-
-
----
-
-**Other Options**
-
-[[Accrual]]
-[[Airship Rules]]
-[[Aristeia]]
-[[Churches And Powers Of Faith|Churches and Powers of Faith]]
-[[Spheres Gestalt Rules|Gestalt Rules]]
-[[Oaths]]
-[[Organizations]]
-[[Strain (formerly Madness)|Strain]] (formerly Madness)
-[[Variant Rules]]
-[[Wilderness]]
-
-**Tools**
-
-[[Character Builder]]
-[[Item Crafter]]
 
 </div>
 

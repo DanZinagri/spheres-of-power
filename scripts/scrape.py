@@ -120,17 +120,25 @@ def add_page_notes(slug: str, md: str) -> str:
 # heading) to the end of the given column of the main navigation grid to even out the columns.
 # Balanced from rendered section heights at 1920px (columns end up within ~330px of each other).
 HOME_SECTION_MOVES = [
-    ("Practitioner Gear", 2),
+    ("Prestige Classes", 1),
     ("Gear", 3),
+    ("Other Options", 3),  # the Tools list (PAGE_NOTES) follows Other Options wherever it goes
     ("Feat Types", 4),
     ("Creatures", 5),
-    ("Other Options", 5),  # the Tools list (PAGE_NOTES) follows Other Options wherever it goes
 ]
 # Home page sections replaced by the generated "Sample Characters" page, which is linked from
 # the end of the Creatures section instead.
 SAMPLE_SECTIONS = ("Sample Spherecasters", "Sample Practitioners", "Sample Champions")
 SAMPLE_PAGE = "Sample Characters"
 HOME_SECTION_APPEND = {"Creatures": [f"[[{SAMPLE_PAGE}]]"]}
+# Home page "Spheres" grid: (section, its "Using ..." page link) -> one column each
+HOME_SPHERE_COLUMNS = [
+    ("Magic Spheres", "Using Spheres Of Power|Using Spheres of Power"),
+    ("Skill Spheres", "Using Spheres Of Guile|Using Spheres of Guile"),
+    ("Combat Spheres", "Using Spheres Of Might|Using Spheres of Might"),
+]
+# Other home sections whose heading gets a small "(Using ...)" link
+HOME_HEADER_LINKS = {"Champions": "Using Champions Of The Spheres|Using Champions of the Spheres"}
 
 # The wiki colors links by product line with inline <span style="color:...">. Power is the default
 # (uncolored) link color. Every link to a page gets its family's color (see data/link-families.json).
@@ -745,6 +753,29 @@ def rebalance_home_columns(md: str) -> str:
                     body.pop()
                 body.extend(HOME_SECTION_APPEND[name] + [""])
 
+    # the three sphere lists get their own "Spheres" grid above everything else, each headed
+    # "**Magic Spheres** *(Using Spheres of Power)*"; the rest becomes "Classes & Options"
+    sphere_cols = []
+    for title, using in HOME_SPHERE_COLUMNS:
+        for _, sections in parsed:
+            hit = next((s for s in sections if s[0] == title), None)
+            if not hit:
+                continue
+            sections.remove(hit)
+            body = list(hit[1])
+            while body and body[0].strip() in ("", "---"):
+                body.pop(0)
+            while body and body[-1].strip() in ("", "---"):
+                body.pop()
+            body[0] = f"**{title}** *([[{using}]])*"
+            sphere_cols.append(body)
+            break
+    for _, sections in parsed:
+        for s in sections:
+            if s[0] in HOME_HEADER_LINKS:
+                i = next(k for k, l in enumerate(s[1]) if heading(l))
+                s[1][i] = f"**{s[0]}** *([[{HOME_HEADER_LINKS[s[0]]}]])*"
+
     rebuilt = []
     for prefix, sections in parsed:
         col = list(prefix)
@@ -753,7 +784,35 @@ def rebalance_home_columns(md: str) -> str:
         while col and col[-1].strip() in ("", "---"):
             col.pop()
         rebuilt += ['<div class="sop-col">', "", *col, "", "</div>", ""]
-    return "\n".join(lines[:start + 1] + [""] + rebuilt + lines[end:])
+    spheres = []
+    if sphere_cols:
+        spheres = ["## Spheres", "", f'<div class="sop-columns sop-spheres" style="--cols: {len(sphere_cols)}">', ""]
+        for col in sphere_cols:
+            spheres += ['<div class="sop-col">', "", *col, "", "</div>", ""]
+        spheres += ["</div>", "", "## Classes & Options", ""]
+    out = lines[:start] + spheres + [lines[start], ""] + rebuilt + lines[end:]
+    return remove_using_row("\n".join(out))
+
+
+def remove_using_row(md: str) -> str:
+    """Drop the old row of big "Using Spheres of ..." headings (now in the column headers)."""
+    lines = md.split("\n")
+    at = next((i for i, l in enumerate(lines) if l.startswith("## [[Using Spheres Of Power")), None)
+    if at is None:
+        return md
+    start = next((i for i in range(at, -1, -1) if lines[i].startswith('<div class="sop-columns"')), None)
+    if start is None:
+        return md
+    depth = 0
+    for end in range(start, len(lines)):
+        s = lines[end].strip()
+        if s.startswith("<div") and not s.endswith("</div>"):
+            depth += 1
+        elif s == "</div>":
+            depth -= 1
+            if depth == 0:
+                return "\n".join(lines[:start] + lines[end + 1:])
+    return md
 
 
 def split_section(md: str, heading: str) -> tuple[str, list[tuple[str, str]]]:
@@ -962,7 +1021,7 @@ def add_feats_links(home_md: str, feats: dict[str, str], drawbacks: dict[str, st
     """Home page Magic Spheres list: "[[Alteration]]" -> "[[Alteration]] | [[Alteration Sphere Feats|Feats]]"."""
     out, inside = [], False
     for line in home_md.split("\n"):
-        if line.strip() in ("**Magic Spheres**", "**Combat Spheres**"):
+        if line.strip().startswith(("**Magic Spheres**", "**Skill Spheres**", "**Combat Spheres**")):
             inside = True
         elif inside and (re.fullmatch(r"\*\*[^*]+\*\*", line.strip()) or line.strip() in ("---", "</div>")):
             inside = False
@@ -1506,6 +1565,8 @@ def convert(with_images: bool) -> None:
     redirects = old_page_redirects(excluded, pages)
     samples = sample_character_slugs(pages)  # before preprocess() edits the home page
     sample_groups = sample_character_groups(pages)
+    # skill spheres keep their drawbacks in a "Drawbacks" section on their own page
+    skill_spheres = set(home_list_slugs(pages, "Skill Spheres"))
 
     images = download_images(pages) if with_images else {}
 
@@ -1554,8 +1615,8 @@ def convert(with_images: bool) -> None:
     wm_page = None                        # (dest, text), written last once all spheres are in
     feats_pages: dict[str, str] = {}      # sphere note name -> its "<Sphere> Sphere Feats" note
     drawback_pages: dict[str, str] = {}   # sphere note name -> its "<Sphere> Sphere Drawbacks" note
+    derived_notes: list[tuple[str, str]] = []  # (generated note path, its sphere's path) for colors
     home_page = None                      # (dest, text), written last with the feats links
-    write_link_families(pages)
     manifest = json.loads((CACHE / "manifest.json").read_text())
 
     # Remove previously generated notes (but never hand-written ones) so renames don't leave orphans.
@@ -1646,6 +1707,8 @@ def convert(with_images: bool) -> None:
                 feats_dest.write_text("\n".join(feats_fm) + "\n" + GENERATED_MARK + "\n\n"
                                       + collapse_dividers(feats_md), encoding="utf-8")
                 feats_pages[p.filename] = feats_name
+                derived_notes.append((f"{p.folder}/{feats_name}.md".lstrip("/"),
+                                      f"{p.folder}/{p.filename}.md".lstrip("/")))
         if p.slug in DRAWBACK_SOURCES:
             overview_title = DRAWBACK_SOURCES[p.slug]
             body_md, dintro, dspheres = split_drawbacks(body_md, overview_title)
@@ -1681,11 +1744,27 @@ def convert(with_images: bool) -> None:
                 ddest.write_text("\n".join(dfm) + "\n" + GENERATED_MARK + "\n\n" + dintro + "\n\n"
                                  + collapse_dividers(entries + "\n"), encoding="utf-8")
                 drawback_pages[sphere.filename if sphere else sphere_name] = name
+                if sphere:
+                    derived_notes.append((f"{folder}/{name}.md".lstrip("/"),
+                                          f"{sphere.folder}/{sphere.filename}.md".lstrip("/")))
                 overview.append(f"- [[{name}|{sphere_name}]]")
             if dspheres:
                 (CONTENT / p.folder / f"{clean_filename(overview_title)}.md").write_text(
                     "\n".join(overview) + "\n", encoding="utf-8")
                 print(f"Sphere drawbacks pages ({p.slug}): {len(dspheres)}")
+        if p.slug in skill_spheres:
+            body_md, sect = cut_section(body_md, "Drawbacks")
+            if sect:
+                title = f"{p.title} Sphere Drawbacks"
+                name = clean_filename(title)
+                sfm = ["---", f"title: {yaml_str(title)}", f"source: {SITE}/{p.slug}",
+                       "parent: " + yaml_str(f"[[{p.filename}]]"), "---"]
+                sdest = CONTENT / p.folder / f"{name}.md"
+                sdest.write_text("\n".join(sfm) + "\n" + GENERATED_MARK + "\n\n"
+                                 + collapse_dividers(sect + "\n"), encoding="utf-8")
+                drawback_pages[p.filename] = name
+                derived_notes.append((f"{p.folder}/{name}.md".lstrip("/"),
+                                      f"{p.folder}/{p.filename}.md".lstrip("/")))
         if p.slug in merged_tabs:  # after the feats split, so it only sees the page's own sections
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
         body_md = collapse_dividers(body_md)
@@ -1701,6 +1780,7 @@ def convert(with_images: bool) -> None:
         dest.write_text(out, encoding="utf-8")
 
     write_sample_page(sample_groups, pages)
+    write_link_families(pages, derived_notes)
     if home_page:
         dest, out = home_page
         dest.write_text(drop_merged_links(add_feats_links(out, feats_pages, drawback_pages), merge_links),
@@ -1722,6 +1802,28 @@ def convert(with_images: bool) -> None:
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     (CACHE / "last-convert.txt").write_text(stamp)
     print(f"Wrote {len(pages)} notes + {split_count} split-out entries to {CONTENT} ({len(excluded)} excluded) ({stamp})")
+
+
+def home_list_slugs(pages: dict[str, Page], label: str) -> list[str]:
+    """Slugs linked under a bold label on the home page (e.g. "Skill Spheres"), in order."""
+    start = pages.get("start")
+    if not start or not start.body:
+        return []
+    for strong in start.body.find_all(["strong", "b"]):
+        if strong.get_text(" ", strip=True) != label:
+            continue
+        slugs = []
+        for el in strong.next_elements:
+            if el is strong or (isinstance(el, Tag) and strong in el.parents) or isinstance(el, NavigableString):
+                continue
+            if el.name in ("strong", "b", "hr", "h1", "h2", "h3", "h4"):
+                break
+            if el.name == "a" and el.get("href"):
+                slug = internal_slug(el["href"])
+                if slug in pages and slug not in slugs:
+                    slugs.append(slug)
+        return slugs
+    return []
 
 
 def sample_character_groups(pages: dict[str, Page]) -> list[tuple[str, list[str]]]:
@@ -1799,8 +1901,10 @@ def old_page_redirects(excluded: set[str], pages: dict[str, Page]) -> dict[str, 
     return redirects
 
 
-def write_link_families(pages: dict[str, Page]) -> None:
-    """Majority-vote each page's product-line color from how the wiki colors links to it."""
+def write_link_families(pages: dict[str, Page], derived: list[tuple[str, str]] | None = None) -> None:
+    """Majority-vote each page's product-line color from how the wiki colors links to it.
+    derived: (note path, sphere note path) for generated pages (feats / drawbacks), which take
+    their sphere's color."""
     votes: dict[str, Counter] = defaultdict(Counter)
     for p in pages.values():
         for target, fam in p.colored:
@@ -1810,6 +1914,9 @@ def write_link_families(pages: dict[str, Page]) -> None:
     for slug, counts in votes.items():
         t = pages[slug]
         families[f"{t.folder}/{t.filename}.md".lstrip("/")] = counts.most_common(1)[0][0]
+    for note, sphere in derived or []:
+        if sphere in families:
+            families[note] = families[sphere]
     FAMILY_FILE.parent.mkdir(parents=True, exist_ok=True)
     FAMILY_FILE.write_text(json.dumps(dict(sorted(families.items())), indent=1, ensure_ascii=False),
                            encoding="utf-8")

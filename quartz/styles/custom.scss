@@ -141,6 +141,22 @@ body {
 }
 
 // ---------------------------------------------------------------- column layouts
+// Column headers like "**Magic Spheres** *(Using Spheres of Power)*": the "(Using ...)" part is
+// a small note next to the title rather than its own big heading.
+.sop-columns > .sop-col > p:first-child > em {
+  font-size: 0.78em;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--gray);
+  margin-left: 0.25em;
+  white-space: nowrap;
+}
+
+// the home page's Spheres grid: slightly larger column titles
+.sop-spheres > .sop-col > p:first-child > strong {
+  font-size: 1.1em;
+}
+
 // Wikidot side-by-side [[div float]] blocks (home page navigation etc.)
 // Dense link lists read better without Quartz's shaded box behind each internal link
 .sop-columns,

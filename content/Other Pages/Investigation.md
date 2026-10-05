@@ -526,22 +526,6 @@ For example, 'sitting in a library' would instead tell you the exact library the
 
 ---
 
-# Drawbacks
-
-#### Basic Analysis
-
-You focus on the big picture rather than the details. You can only gain a simple analysis whenever you use your analyze ability, and cannot gain a detailed analysis despite your result. You gain the Broad Scrutiny, Group Analysis, or Share Insights talent.
-
-#### Unorthodox Methods [alternate start]
-
-You do not commonly use deduction and awareness to discern information, opting for more specific approaches.
-
-When using your analyze ability, you cannot use Perception or Sense Motive as an analyze skill. If the talent does not have any alternative skills, you may not use the talent.
-
-You gain an (analyze) talent that has an analyze skill other than Perception or Sense Motive. Choose one of those other analyze skills; that skill is your associated skill for the Investigation sphere.
-
----
-
 # Investigation Sphere Feats
 
 #### Detailed Charting

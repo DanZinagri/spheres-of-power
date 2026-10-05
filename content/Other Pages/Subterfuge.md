@@ -344,22 +344,6 @@ As part of adopting a Subterfuge sphere approach, you may bury certain informati
 
 ---
 
-# Drawbacks
-
-#### Deft [alternate start] [utility start]
-
-You use Sleight of Hand (instead of Disguise) as the associated skill for this sphere. You lose the fast disguise ability and cannot gain (disguise) talents; you gain the Effortless Theft talent instead.
-
-#### Fashionista
-
-You lose the confident subtlety approach and Baffling Revelation ability. You gain a (disguise) talent of your choice instead.
-
-#### Impressionist
-
-You are adept at mimicking voices and sounds you hear. You lose the confident subtlety approach, and gain the Unrecognizable Mannerisms talent instead.
-
----
-
 # Subterfuge Sphere Feats
 
 #### Morphic Disguise (Champion) [LotS]
