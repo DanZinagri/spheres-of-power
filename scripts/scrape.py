@@ -68,8 +68,8 @@ TAGGED_HEADING_TEXT_ONLY = ("Enhanced Racial Traits",)
 EXCLUDED_PAGES = {
     # Wikidot's own help / boilerplate pages
     "how-to-edit-pages", "what-is-a-wiki-site", "modules-reference", "bb-code-profile-template",
-    # unlinked, untitled duplicate of the Nature sphere page
-    "nature-2",
+    # unlinked, untitled older duplicates of the Nature sphere / Casting Traditions pages
+    "nature-2", "casting-traditions-2",
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
     # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
@@ -126,12 +126,17 @@ def add_page_notes(slug: str, md: str) -> str:
 # Balanced from rendered section heights at 1920px (columns end up within ~330px of each other).
 HOME_SECTION_MOVES = [
     ("Gear", 3),
-    ("Practitioner Gear", 2),
     ("Feat Types", 4),
     ("Prestige Classes", 5),
     ("Other Options", 5),  # the Tools list (PAGE_NOTES) follows Other Options wherever it goes
     ("Creatures", 5),
 ]
+# Home page sections folded into another: (section, into) — the links (and their colors) are
+# appended to the target section as their own paragraph and the section's heading is dropped.
+HOME_SECTION_MERGES = [("Practitioner Gear", "Gear")]
+# Home page sections pulled out of the main grid into their own row of side-by-side columns,
+# placed under Feat Types
+HOME_OPTION_ROW = ["Magic Options", "Martial Options", "Skill Options", "Champion Options"]
 # Home page sections replaced by the generated "Sample Characters" page, which is linked from
 # the end of the Creatures section instead.
 SAMPLE_SECTIONS = ("Sample Spherecasters", "Sample Practitioners", "Sample Champions")
@@ -765,6 +770,18 @@ def rebalance_home_columns(md: str) -> str:
         return prefix, sections
 
     parsed = [split_sections(c) for c in cols]
+    for name, into in HOME_SECTION_MERGES:
+        src = next(((secs, s) for _, secs in parsed for s in secs if s[0] == name), None)
+        dst = next((s for _, secs in parsed for s in secs if s[0] == into), None)
+        if not (src and dst):
+            continue
+        src[0].remove(src[1])
+        links = [l for l in src[1][1] if l.strip() not in ("---",) and not heading(l)]
+        while links and not links[0].strip():
+            links.pop(0)
+        while dst[1] and not dst[1][-1].strip():
+            dst[1].pop()
+        dst[1].extend(["", *links])
     for name, target in HOME_SECTION_MOVES:
         if target - 1 >= len(parsed):
             continue
@@ -864,6 +881,25 @@ def rebalance_home_columns(md: str) -> str:
                               *entries, "", "</div>", ""]
             break
 
+    # the per-system option lists get their own row of columns under Feat Types
+    option_cols = []
+    for title in HOME_OPTION_ROW:
+        for _, sections in parsed:
+            hit = next((s for s in sections if s[0] == title), None)
+            if hit:
+                sections.remove(hit)
+                body = list(hit[1])
+                while body and body[0].strip() in ("", "---"):
+                    body.pop(0)
+                while body and body[-1].strip() in ("", "---"):
+                    body.pop()
+                option_cols += ['<div class="sop-col">', "", *body, "", "</div>", ""]
+                break
+    option_row = []
+    if option_cols:
+        n = option_cols.count('<div class="sop-col">')
+        option_row = [f'<div class="sop-columns" style="--cols: {n}">', "", *option_cols, "</div>", ""]
+
     rebuilt, kept, archetypes_col = [], 0, None
     for prefix, sections in parsed:
         col = list(prefix)
@@ -897,7 +933,7 @@ def rebalance_home_columns(md: str) -> str:
         for col in sphere_cols:
             spheres += [*col, ""]
         spheres += ["</div>", "", "## Character Options", ""]
-    out = lines[:start] + spheres + feat_block + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
+    out = lines[:start] + spheres + feat_block + option_row + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
     return remove_using_row("\n".join(out))
 
 

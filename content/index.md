@@ -162,6 +162,56 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 <div class="sop-col">
 
+**Magic Options**
+
+[[Alternate Racial Traits]]
+[[Casting Traditions]]
+[[Casting Packages]] [Wiki]
+[[Generation Traditions]]
+[[Origins]]
+[[Traits]]
+
+</div>
+
+<div class="sop-col">
+
+**Martial Options**
+
+[[Martial Traditions]]
+[[Martial Packages]] [Wiki]
+[[Practitioner Traits]]
+[[Practitioner FCB's]]
+
+[[Ultimate Engineering]] [SUE]
+
+</div>
+
+<div class="sop-col">
+
+**Skill Options**
+
+[[Operative Gear]]
+[[Skill Rules]]
+[[Trade Traditions]]
+
+</div>
+
+<div class="sop-col">
+
+**Champion Options**
+
+[[Unified Traditions]]
+[[Champion FCBs]]
+[[Techniques]]
+
+</div>
+
+</div>
+
+<div class="sop-columns" style="--cols: 3">
+
+<div class="sop-col">
+
 
 
 ---
@@ -177,60 +227,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Rituals]]
 [[Spellcrafting]]
 [[Wild Magic]]
-
----
-
-**Magic Options**
-
-[[Alternate Racial Traits]]
-[[Casting Traditions]]
-[[Casting Packages]] [Wiki]
-[[Generation Traditions]]
-[[Origins]]
-[[Traits]]
-
-</div>
-
-<div class="sop-col">
-
-
-
----
-
-**Martial Options**
-
-[[Martial Traditions]]
-[[Martial Packages]] [Wiki]
-[[Practitioner Traits]]
-[[Practitioner FCB's]]
-
-[[Ultimate Engineering]] [SUE]
-
----
-
-**Skill Options**
-
-[[Operative Gear]]
-[[Skill Rules]]
-[[Trade Traditions]]
-
----
-
-**Champion Options**
-
-[[Unified Traditions]]
-[[Champion FCBs]]
-[[Techniques]]
-
----
-
-**Practitioner Gear**
-
-[[Adventuring Gear]]
-[[Mechanical Parts]]
-[[Technological Gear]]
-[[Practitioner Magic Items]]
-[[Practitioner Weapons]]
 
 </div>
 
@@ -265,6 +261,12 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Talent Crystals]]
 
 [[Loot Tables]]
+
+[[Adventuring Gear]]
+[[Mechanical Parts]]
+[[Technological Gear]]
+[[Practitioner Magic Items]]
+[[Practitioner Weapons]]
 
 </div>
 
