@@ -83,6 +83,11 @@ NAV_PAGES = {"start", "nav:side"}
 # target slug -> [(source slug, tab label)]. The source page goes away and links to it point at
 # the target. (Polished Dark is DRS's replacement for the Dark sphere.)
 TAB_MERGES = {"dark": [("polished-dark", "Polished Dark")]}
+# Pages folded into one section of another page as a small tab set around that section:
+# target slug -> [(source slug, section heading, source tab label, original tab label)]. The
+# section's body becomes the original tab; the source page's own copy of that heading (and
+# everything under it) becomes the new tab, placed first. The source page goes away.
+SECTION_TABS = {"incanter": [("drs-incanter-class-features", "Dark", "Polished Dark", "Dark")]}
 
 # Sections whose entries (monster stat blocks) move to their own subpages; the original section
 # keeps its intro plus a list of links. page slug -> (section heading, subfolder for the entries).
@@ -1213,6 +1218,26 @@ def tab_set(tabs: list[tuple[str, str]]) -> str:
     return "\n".join(block + ["</div>", ""])
 
 
+def tab_section(md: str, heading: str, label: str, tab_md: str, own_label: str) -> str:
+    """Wrap the body of the first '<#..> heading' section in a tab set: (label, tab_md) first,
+    then the section's own body as (own_label). The section ends at the next heading of the same
+    or a higher level, or at the end of the tab it sits in."""
+    lines = md.split("\n")
+    at = next((i for i, l in enumerate(lines) if re.fullmatch(rf"(#{{1,6}}) {re.escape(heading)}", l.strip())), None)
+    if at is None:
+        print(f"warning: section tab: no '{heading}' section")
+        return md
+    level = len(lines[at].strip().split(" ")[0])
+    end = at + 1
+    while end < len(lines):
+        m = re.match(r"(#{1,6}) ", lines[end])
+        if (m and len(m.group(1)) <= level) or lines[end].strip().startswith(("<div", "</div>")):
+            break
+        end += 1
+    own = "\n".join(lines[at + 1:end]).strip()
+    return "\n".join(lines[:at + 1] + ["", tab_set([(label, tab_md), (own_label, own)])] + lines[end:])
+
+
 def drop_merged_links(md: str, merges: list[tuple[str, str]]) -> str:
     """'[[Dark]] | [[Dark|Polished Dark]] [DRS]' -> '[[Dark]]' once Polished Dark is a tab of Dark."""
     for target, label in merges:
@@ -1893,6 +1918,32 @@ def convert(with_images: bool) -> None:
                 merged_drawbacks.setdefault(pages[target].filename, []).append((label, drawbacks_part))
             merged_tabs.setdefault(target, []).append((label, md))
             merge_links.append((pages[target].filename, label))
+    # SECTION_TABS: the source's copy of the section (plus its source credit) becomes a tab
+    section_tabs: dict[str, list[tuple[str, str, str, str]]] = {}
+    for target, entries in SECTION_TABS.items():
+        if target not in pages:
+            continue
+        for src, heading, label, own_label in entries:
+            sp = pages.pop(src, None)
+            if sp is None or not sp.body:
+                continue
+            redirects[src] = pages[target]
+            for tabview in sp.body.select(".yui-navset"):
+                panes = tabview.select(".yui-content > div")
+                if len(panes) == 1:
+                    tabview.replace_with(panes[0])
+            preprocess(sp.body, sp.soup, excluded - redirects.keys(), nav=False)
+            md = tidy(WikiConverter(sp, pages, images, redirects).convert_soup(sp.body))
+            lines = md.split("\n")
+            at = next((i for i, l in enumerate(lines)
+                       if re.fullmatch(rf"#{{1,6}} {re.escape(heading)}\s*", l.strip())), None)
+            if at is None:
+                print(f"warning: section tab: no '{heading}' heading on {src}")
+                continue
+            credit = [l for l in lines[:at] if l.startswith("*Source:")]
+            part = [l for l in lines[at + 1:] if not l.strip().startswith(("<div", "</div>"))]
+            section_tabs.setdefault(target, []).append(
+                (heading, label, own_label, "\n".join(credit + [""] + part).strip()))
     print(f"Sample characters (nosearch): {len(samples)}")
     # pages whose sections get split into subpages become folder notes, with the entries beside them
     for slug in SPLIT_SECTIONS:
@@ -2062,8 +2113,12 @@ def convert(with_images: bool) -> None:
                                       f"{p.folder}/{p.filename}.md".lstrip("/")))
         if p.slug in merged_tabs:  # after the feats split, so it only sees the page's own sections
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
+        for heading, label, own_label, tab_md in section_tabs.get(p.slug, []):
+            body_md = tab_section(body_md, heading, label, tab_md, own_label)
         body_md = collapse_dividers(body_md)
         if (cells := class_archetype_cells(body_md)):
+            # an entry for a page folded into this one (now a link back to itself) goes
+            cells = [c for c in cells if not re.match(rf"\[\[{re.escape(p.filename)}(\\?\||\]\])", c)]
             class_archetypes[p.filename] = cells
         if p.slug in class_pages:
             body_md = collapse_dividers(remove_archetype_sections(body_md))

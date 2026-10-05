@@ -39,7 +39,7 @@ While many DRS releases are integrated into the Spheres of Power Wiki (with the 
 | [[Bardic Masterpieces (DRS)|Bardic Masterpieces]]
 **[[Elementalist]]** ([[Sablesavant (Elementalist Archetype)|Sablesavant]])
 **[[Incanter]]**
-| [[Incanter Class Features (DRS)|Incanter Class Features]]
+| [[Incanter|Incanter Class Features]]
 **[[Prodigy]]**
 | [[Prodigy Class Features (DRS)|Prodigy Class Features]]
 

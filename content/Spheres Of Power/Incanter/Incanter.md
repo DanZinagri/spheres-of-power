@@ -242,11 +242,40 @@ A slain blood construct may be replaced with an 8 hour ritual and sufficient blo
 
 ### Dark
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+
+**Home in the Dark (Sp):** At 3rd level, the incanter gains the ability to maintain a single *cloak* as a constant sphere effect; this *cloak* may be granted any options the incanter possesses that could modify a *cloak*. The incanter must pay any additional spell point costs for the *cloak* or its options as appropriate. The incanter may use their *cloak* sphere ability to select different options for their *cloak*, replacing the previously chosen options (instead of creating a new *cloak* effect).
+
+**Umbral Passage (Sp):** At 8th level, the incanter gains the Traveler’s Darkness talent as a bonus talent. Whenever the incanter uses the step through darkness option, the incanter gains concealment for 1 round.
+
+In addition, the incanter may use the step through darkness option to perform a special teleport as a standard action (that may be used even if the incanter is not within a darkened area). The incanter can travel using this special teleport up to 30 feet per incanter level per day, either in a single use or broken up across multiple uses, and does not require line of sight or line of effect when using this teleport. This movement must be spent in 5-foot increments and does not provoke an attack of opportunity (but does require that the incanter be able to move). The incanter may bring allies with them when teleporting this way but must spend increments of distance for each additional creature brought with them. Allies teleported this way also gain concealment for 1 round.
+
+**Essence of Darkness (Su):** At 20th level, the incanter becomes immune to the negative effects of any *gloom* they create and gains the see in darkness ability.
+
+As a move or immediate action, the incanter may willingly dismiss a single Dark sphere effect (such as in response to the Dark sphere effect being dispelled). The Dark sphere effect is dismissed and the incanter stores the lingering magical energy of that effect into their own shadow, gaining a number of temporary spell points equal to the number of spell points spent on that Dark sphere effect (including augments, spell points to continue without concentration, metamagic, etc.). These temporary spell points may only be spent on Dark sphere abilities and last until spent. The incanter may only have a maximum of 3 temporary spell points stored this way.
+
+</div>
+
+<div class="sop-tab" data-tab="dark">
+
+<div class="sop-tab-label">Dark</div>
+
 **Home in the Dark (Su):** At 3rd level, the incanter gains blindsense 10 feet when within an area of dim light or darkness. This bonus increases by 5 feet per 5 incanter levels he possesses, to a maximum of 30 feet at 20th level.
 
 **Shadow Step (Sp):** At 8th level, the incanter can use this ability to walk through the Plane of Shadow and reappear as a standard action. He can travel up to 30 feet per incanter level per day in this fashion, either in a single round or broken up across multiple shadow steps. This movement must be used in 5 feet increments and does not provoke an attack of opportunity. Travel through the Shadow Plane is imprecise; when he arrives, he re-enters 1 square off target, as per the rules for thrown splash weapons. If this would place him in an occupied square, he instead arrives in the nearest safe location. When he arrives, he is cloaked in shadow and gain concealment for 1 round. He may bring other willing creatures with him, but he must expend an equal amount of distance for each additional creature brought with him. They likewise re-enter off target (roll location for each creature) and are cloaked in shadow for 1 round.
 
 **Shadow Renewal:** At 20th level, the incanter gains fast healing 5 while in dim light or darkness. This fast healing is suppressed while in any level of illumination brighter than dim light.
+
+</div>
+
+</div>
 
 ### Death
 
