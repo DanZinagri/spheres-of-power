@@ -895,7 +895,44 @@ def drop_merged_links(md: str, merges: list[tuple[str, str]]) -> str:
     return md
 
 
-def add_feats_links(home_md: str, feats: dict[str, str]) -> str:
+DRAWBACKS_SLUG = "casting-traditions"
+DRAWBACKS_HEADING = "Sphere-Specific Drawbacks"   # also the overview page's title
+
+
+def split_drawbacks(md: str) -> tuple[str, str, list[tuple[str, str]]]:
+    """Casting Traditions' "Sphere-Specific Drawbacks" section: one "### [[Sphere]]" group of
+    "#### Drawback" entries per sphere. Returns (page markdown with the groups replaced by a link
+    to the overview page, the section's intro text, [(sphere note name, that sphere's entries)])."""
+    lines = md.split("\n")
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    start = next((i for i, l in enumerate(lines)
+                  if level_of(l) and l.lstrip("#").strip() == DRAWBACKS_HEADING), None)
+    if start is None:
+        return md, "", []
+    level = level_of(lines[start])
+    end = next((i for i in range(start + 1, len(lines))
+                if 0 < level_of(lines[i]) <= level or lines[i].strip() == "</div>"), len(lines))
+    section = lines[start + 1:end]
+    groups = [i for i, l in enumerate(section) if level_of(l) == level + 1]
+    if not groups or "\n".join(section).count("<div") != "\n".join(section).count("</div>"):
+        return md, "", []
+    intro = "\n".join(section[:groups[0]]).strip()
+    spheres = []
+    for n, i in enumerate(groups):
+        m = re.search(r"\[\[([^\]|#]+)", section[i])
+        name = m.group(1) if m else section[i].lstrip("#").strip()
+        chunk = section[i + 1:groups[n + 1] if n + 1 < len(groups) else len(section)]
+        inner = min((level_of(l) for l in chunk if level_of(l)), default=level + 2)
+        body = [("#" * max(2, level_of(l) - inner + 2) + " " + l.lstrip("#").lstrip()) if level_of(l) else l
+                for l in chunk]
+        if any(level_of(l) for l in body):  # skip groups left empty (e.g. "Universal" after SM—)
+            spheres.append((name, "\n".join(body).strip()))
+    keep = [lines[start], "", intro, "",
+            f"*Each sphere's drawbacks are on their own page: see [[{DRAWBACKS_HEADING}]].*", ""]
+    return "\n".join(lines[:start] + keep + lines[end:]), intro, spheres
+
+
+def add_feats_links(home_md: str, feats: dict[str, str], drawbacks: dict[str, str] | None = None) -> str:
     """Home page Magic Spheres list: "[[Alteration]]" -> "[[Alteration]] | [[Alteration Sphere Feats|Feats]]"."""
     out, inside = [], False
     for line in home_md.split("\n"):
@@ -905,8 +942,13 @@ def add_feats_links(home_md: str, feats: dict[str, str]) -> str:
             inside = False
         if inside:
             m = re.match(r"\[\[([^\]|#]+)\]\]", line)
-            if m and m.group(1) in feats:
-                line = f"{m.group(0)} | [[{feats[m.group(1)]}|Feats]]" + line[m.end():]
+            if m:
+                extra = ""
+                if m.group(1) in feats:
+                    extra += f" | [[{feats[m.group(1)]}|Feats]]"
+                if drawbacks and m.group(1) in drawbacks:
+                    extra += f" | [[{drawbacks[m.group(1)]}|Drawbacks]]"
+                line = m.group(0) + extra + line[m.end():]
         out.append(line)
     return "\n".join(out)
 
@@ -1479,6 +1521,7 @@ def convert(with_images: bool) -> None:
     wm_spheres: dict[str, str] = {}       # sphere title -> its wild magic table
     wm_page = None                        # (dest, text), written last once all spheres are in
     feats_pages: dict[str, str] = {}      # sphere note name -> its "<Sphere> Sphere Feats" note
+    drawback_pages: dict[str, str] = {}   # sphere note name -> its "<Sphere> Sphere Drawbacks" note
     home_page = None                      # (dest, text), written last with the feats links
     write_link_families(pages)
     manifest = json.loads((CACHE / "manifest.json").read_text())
@@ -1571,6 +1614,31 @@ def convert(with_images: bool) -> None:
                 feats_dest.write_text("\n".join(feats_fm) + "\n" + GENERATED_MARK + "\n\n"
                                       + collapse_dividers(feats_md), encoding="utf-8")
                 feats_pages[p.filename] = feats_name
+        if p.slug == DRAWBACKS_SLUG:
+            body_md, dintro, dspheres = split_drawbacks(body_md)
+            by_name = {pp.filename: pp for pp in pages.values()}
+            overview = ["---", f"title: {yaml_str(DRAWBACKS_HEADING)}", f"source: {SITE}/{p.slug}",
+                        "parent: " + yaml_str(f"[[{p.filename}]]"), "---", GENERATED_MARK, "",
+                        dintro, "", "## Drawbacks by Sphere", ""]
+            for sphere_name, entries in dspheres:
+                sphere = by_name.get(sphere_name)
+                folder = sphere.folder if sphere else p.folder
+                title = f"{sphere_name} Sphere Drawbacks"
+                name = clean_filename(title)
+                parent = sphere.filename if sphere else p.filename
+                dfm = ["---", f"title: {yaml_str(title)}", f"source: {SITE}/{p.slug}",
+                       "parent: " + yaml_str(f"[[{parent}]]"), "---"]
+                ddest = CONTENT / folder / f"{name}.md"
+                ddest.parent.mkdir(parents=True, exist_ok=True)
+                # the section's general rules go at the top of every sphere's page
+                ddest.write_text("\n".join(dfm) + "\n" + GENERATED_MARK + "\n\n" + dintro + "\n\n"
+                                 + collapse_dividers(entries + "\n"), encoding="utf-8")
+                drawback_pages[sphere_name] = name
+                overview.append(f"- [[{name}|{sphere_name}]]")
+            if dspheres:
+                (CONTENT / p.folder / f"{clean_filename(DRAWBACKS_HEADING)}.md").write_text(
+                    "\n".join(overview) + "\n", encoding="utf-8")
+                print(f"Sphere drawbacks pages: {len(dspheres)}")
         if p.slug in merged_tabs:  # after the feats split, so it only sees the page's own sections
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
         body_md = collapse_dividers(body_md)
@@ -1588,7 +1656,7 @@ def convert(with_images: bool) -> None:
     write_sample_page(sample_groups, pages)
     if home_page:
         dest, out = home_page
-        dest.write_text(drop_merged_links(add_feats_links(out, feats_pages), merge_links),
+        dest.write_text(drop_merged_links(add_feats_links(out, feats_pages, drawback_pages), merge_links),
                         encoding="utf-8")
         print(f"Sphere feats pages: {len(feats_pages)}")
 
