@@ -544,3 +544,14 @@ code {
   font-size: 0.68em;
   vertical-align: middle;
 }
+
+/* Character builder: per-skill ability override */
+select.abl-select {
+  padding: 0.1rem 0.25rem;
+  font-size: 0.9em;
+}
+select.abl-select.changed {
+  border-color: var(--secondary);
+  color: var(--secondary);
+  font-weight: 600;
+}

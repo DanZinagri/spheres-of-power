@@ -70,6 +70,7 @@ function blankState() {
     hpMode: "pfs",
     skills: {},
     subSkills: { crf: [], prf: [], pro: [] },
+    skillAbility: {},
     features: [],
     talents: [],
     spheresModule: false,
@@ -88,7 +89,7 @@ function blankState() {
 function normalize(s) {
   const base = blankState()
   const out = { ...base, ...s }
-  for (const k of ["details", "abilities", "race", "sphere", "spellcasting", "currency", "subSkills"]) out[k] = { ...base[k], ...(s[k] || {}) }
+  for (const k of ["details", "abilities", "race", "sphere", "spellcasting", "currency", "subSkills", "skillAbility"]) out[k] = { ...base[k], ...(s[k] || {}) }
   out.race.mods = { ...base.race.mods, ...(s.race?.mods || {}) }
   out.classes = (s.classes?.length ? s.classes : base.classes).map((c, i) => ({ ...blankClass(i === 0), ...c }))
   for (const k of ["features", "talents", "spells", "gear"]) out[k] = Array.isArray(s[k]) ? s[k] : []
@@ -491,16 +492,23 @@ const panels = {
 
   skills() {
     const c = calc()
-    const rankInput = (getter, setter, label) => {
+    const rankInput = (getter, setter, label, ablOf) => {
       const el = h("input", { type: "number", min: 0, max: Math.max(c.hd, 1), value: getter() || 0, "aria-label": `${label} ranks` })
       el.addEventListener("input", () => {
         setter(el.value === "" ? 0 : +el.value)
         changed()
         const row = el.closest("tr")
-        row.querySelector(".tot").textContent = signed(skillTotal(row.dataset.key, getter(), calc()))
+        row.querySelector(".tot").textContent = signed(skillTotal(row.dataset.key, getter(), calc(), ablOf()))
         row.querySelector(".tot").classList.toggle("warn", getter() > c.hd)
         refreshSkillCounters()
       })
+      return el
+    }
+    // per-skill ability override, like the ability dropdown on Foundry's skill rows
+    const ablSelect = (cur, def, onPick, label) => {
+      const el = h("select", { class: "abl-select" + (cur !== def ? " changed" : ""), "aria-label": `${label} ability`, title: cur !== def ? `Default: ${def.toUpperCase()}` : null },
+        ...ABL.map((a) => h("option", { value: a, selected: a === cur }, a.toUpperCase())))
+      el.addEventListener("change", () => { onPick(el.value === def ? undefined : el.value); changed(true) })
       return el
     }
     const bg = state.backgroundSkills
@@ -513,9 +521,9 @@ const panels = {
       const rank = num(state.skills[k])
       rows.push(h("tr", { class: c.classSkills.has(k) ? "cs" : "", "data-key": k },
         h("td", {}, label, trainedOnly ? h("span", { class: "note" }, " (trained)") : null),
-        h("td", {}, abl.toUpperCase(), acp ? h("span", { class: "note" }, " ACP") : null),
-        h("td", { class: "num" }, rankInput(() => num(state.skills[k]), (v) => (state.skills[k] = v), label)),
-        h("td", { class: "num tot" }, signed(skillTotal(k, rank, c))),
+        h("td", {}, ablSelect(skillAbl(k), abl, (v) => (v ? (state.skillAbility[k] = v) : delete state.skillAbility[k]), label), acp ? h("span", { class: "note" }, " ACP") : null),
+        h("td", { class: "num" }, rankInput(() => num(state.skills[k]), (v) => (state.skills[k] = v), label, () => skillAbl(k))),
+        h("td", { class: "num tot" }, signed(skillTotal(k, rank, c, skillAbl(k)))),
       ))
       if (SUB_SKILLS.includes(k)) {
         state.subSkills[k].forEach((sub, i) => {
@@ -529,9 +537,9 @@ const panels = {
               " ",
               h("button", { class: "small danger", "aria-label": "Remove specialty", onclick: () => { state.subSkills[k].splice(i, 1); changed(true) } }, "×"),
             ),
-            h("td", {}, abl.toUpperCase()),
-            h("td", { class: "num" }, rankInput(() => num(sub.rank), (v) => (sub.rank = v), sub.name || label)),
-            h("td", { class: "num tot" }, signed(skillTotal(k, num(sub.rank), c))),
+            h("td", {}, ablSelect(sub.ability || abl, abl, (v) => (v ? (sub.ability = v) : delete sub.ability), sub.name || label)),
+            h("td", { class: "num" }, rankInput(() => num(sub.rank), (v) => (sub.rank = v), sub.name || label, () => sub.ability || abl)),
+            h("td", { class: "num tot" }, signed(skillTotal(k, num(sub.rank), c, sub.ability || abl))),
           ))
         })
         rows.push(h("tr", {}, h("td", { colspan: 4, style: "padding-left:1.25rem" },
@@ -555,7 +563,7 @@ const panels = {
         checkbox("backgroundSkills", h("strong", {}, "Background skills")),
         h("span", { class: "note", style: "flex:1 1 260px" }, `Pathfinder Unchained variant: +${BG_PER_LEVEL} ranks per class level that only go into background skills (their own table below), and Artistry and Lore become available. Turn on the matching world setting in Foundry too (Game Settings → System Settings → Variant Rules → Background Skills).`),
       ),
-      h("p", { class: "muted" }, `● marks a class skill (set on the Classes tab). Max ranks per skill: ${c.hd}. Totals include ranks, ability modifier, +3 for trained class skills and armor check penalty.`),
+      h("p", { class: "muted" }, `● marks a class skill (set on the Classes tab). Max ranks per skill: ${c.hd}. Change a skill's ability with its dropdown (e.g. Acrobatics on STR); changed ones are highlighted. Totals include ranks, ability modifier, +3 for trained class skills and armor check penalty.`),
       bg
         ? [
             table("Adventuring skills", keys.filter((k) => !isBg(k)), h("span", { "data-counter": "adv" })),
@@ -834,8 +842,10 @@ function refreshSkillCounters() {
   }
 }
 
-function skillTotal(k, rank, c) {
-  const [, abl, , acp] = SKILLS[k]
+const skillAbl = (k) => state.skillAbility[k] || SKILLS[k][1]
+
+function skillTotal(k, rank, c, abl = skillAbl(k)) {
+  const acp = SKILLS[k][3]
   let t = rank + c.abl[abl].mod
   if (rank > 0 && c.classSkills.has(k)) t += 3
   if (acp) t -= c.acp
@@ -921,10 +931,11 @@ function buildActor() {
   const skills = {}
   for (const k of Object.keys(SKILLS)) {
     const entry = { rank: BG_ONLY.includes(k) && !s.backgroundSkills ? 0 : num(s.skills[k]) }
+    if (s.skillAbility[k]) entry.ability = s.skillAbility[k]
     if (SUB_SKILLS.includes(k) && s.subSkills[k].length) {
       entry.subSkills = {}
       s.subSkills[k].forEach((sub, i) => {
-        entry.subSkills[`${k}${i + 1}`] = { name: sub.name || `${SKILLS[k][0]} ${i + 1}`, ability: SKILLS[k][1], rt: !!SKILLS[k][2], acp: !!SKILLS[k][3], rank: num(sub.rank) }
+        entry.subSkills[`${k}${i + 1}`] = { name: sub.name || `${SKILLS[k][0]} ${i + 1}`, ability: sub.ability || SKILLS[k][1], rt: !!SKILLS[k][2], acp: !!SKILLS[k][3], rank: num(sub.rank) }
       })
     }
     skills[k] = entry
