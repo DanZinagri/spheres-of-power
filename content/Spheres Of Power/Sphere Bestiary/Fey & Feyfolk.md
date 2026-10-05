@@ -1162,7 +1162,3 @@ Formerly of the mortal races, wardens of faerie have pledged themselves to fey m
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

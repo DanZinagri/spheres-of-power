@@ -79,7 +79,3 @@ This replaces the revelations gained at 3rd and 11th levels.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

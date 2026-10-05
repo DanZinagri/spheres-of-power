@@ -1613,7 +1613,3 @@ The Drone talent has the following changes:
 
 **Drone (gadget, signal)**
 You may build and modify a drone, similar to those available to the mechanic class. Your effective mechanic level for the purpose of this drone is equal to your ranks in Engineering -3 (minimum 1). If you already possess a drone or if you take this talent a second time, your effective mechanic level increases by 4, to a maximum of your character level. Your effective mechanic level stacks with those from other sources to a maximum of your character level.
-
----
-
----

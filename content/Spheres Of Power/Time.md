@@ -374,13 +374,6 @@ This is a teleportation effect.
 
 ---
 
-# Time Sphere Feats
-
-*Moved to their own page: [[Time Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -623,7 +616,3 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

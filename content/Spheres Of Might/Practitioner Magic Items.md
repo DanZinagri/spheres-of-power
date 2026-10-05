@@ -46,5 +46,3 @@ This +1 ghost touch snag net may be used to entangle ethereal and incorporeal cr
 
 **Construction Requirements**
 Craft Magic Arms and Armor, plane shift or Conjuration sphere; **Cost** 5,320 gp
-
----

@@ -30,7 +30,3 @@ This replaces mental potency.
 This alters rule minds.
 
 **Greater Training:** The champion mesmerist may choose to lose consummate liar and glib lie to instead gain a combat or magic talent at every class level. He may not take this option if possessing an archetype that would alter or replace consummate liar and glib lie.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

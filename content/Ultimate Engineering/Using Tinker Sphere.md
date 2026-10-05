@@ -356,5 +356,3 @@ Tinker sphere gizmos are treated similarly to magic items when a user is subject
 </div>
 
 </div>
-
----

@@ -19,5 +19,3 @@ As a standard action, the braveheart may inspire his allies to feats of strength
 The braveheart treats his class levels as skald levels when determining the power of his raging songs, as well as determining what rage songs he knows. However, when a raging song calls for a Perform check, the braveheart may substitute a check with a Diplomacy check; the braveheart may use rallying cries, shouts, and screams in place of the Perform skill. If the braveheart possesses skald levels, these levels stack when determining the power of the raging songs he possesses, as well as determining what rage songs he knows.
 
 This replaces battlefield specialist and logistic specialty.
-
----

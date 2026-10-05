@@ -158,5 +158,3 @@ Proud of your origins and tribal traditions, you nevertheless strive for a lasti
 Striker Arts Adrenaline Surge, Critical Tension, Enduring Critical, Iron Body, Piercing Fist, Unarmored Striker, Wild Charge
 **Feats** Friend to Animals, Giantslayer, Great Fortitude, Heroic Reserve, Intimidating Prowess, Nature Soul, Power Attack, Titan Breaker, Toughness
 **Skills** Handle Animal, Knowledge (nature), Ride, and Survival are the most useful skills for this character. Put some ranks in Intimidate and Craft (wood) too.
-
----

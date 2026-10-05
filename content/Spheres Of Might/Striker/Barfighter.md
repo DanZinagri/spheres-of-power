@@ -65,5 +65,3 @@ These feats were initially published in Pathfinder Campaign Setting: Inner Sea T
 #### Punch Drunk (requires barfighter 10)
 
 Whenever the barfighter would expend the drunk status to use a (drunk) talent, she may instead spend 2 points of tension. The barfighter may only spend tension this way once per round.
-
----

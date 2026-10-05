@@ -136,7 +136,3 @@ Once per day, you may cast any sphere talent or ability you know without spendin
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -374,5 +374,3 @@ If a Base Sphere grants an additional talent (such as via a package selection or
 Unless the ability specifies that you spend martial focus after an effect (such as an immediate action after landing a successful blow, etc.), a practitioner expends martial focus as part of making the roll and is treated as maintaining their martial focus until that action resolves (such as expending martial focus on an attack action and benefiting from an effect "while maintaining martial focus" during that action and its immediate resolution).
 
 When expending martial focus to "take 13" on a saving throw, this decision is made when the saving throw is made, not after a die is rolled or results are revealed. If the practitioner would be forced to roll twice or reroll the results of their saving throw, they may only "take 13" on the first die rolled for that check.
-
----

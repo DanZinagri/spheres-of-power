@@ -78,7 +78,3 @@ The table below describes terrain elements found in each of the three desert cat
 **Other Desert Terrain Features:** Tundra is sometimes bordered by forests, and the occasional tree isn’t out of place in the cold wastes. Rocky deserts have towers and mesas consisting of flat ground surrounded on all sides by cliffs and steep slopes (as described in Mountain Terrain). Sandy deserts sometimes have quicksand; this functions as described in Marsh Terrain, although desert quicksand is a waterless mixture of fine sand and dust. All desert terrain is crisscrossed with dry streambeds (treat as trenches 5 to 15 feet wide) that fill with water on the rare occasions when rain falls.
 
 **Stealth and Detection in the Desert:** In general, the maximum distance in desert terrain at which a Perception check for detecting the nearby presence of others can succeed is 6d6 × 20 feet; beyond this distance, elevation changes and heat distortion in warm deserts makes sight-based Perception impossible. The presence of dunes in sandy deserts limits spotting distance to 6d6 × 10 feet. The scarcity of undergrowth or other elements that offer concealment or cover makes using Stealth more difficult.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

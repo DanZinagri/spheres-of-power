@@ -45,5 +45,3 @@ This alters skilled craftsman.
 ## Gregarious Smith
 
 In place of a smithing insight, a disciple of Goibniu may choose a social talent as per the vigilante class feature. He treats his class level as his vigilante level for the purpose of meeting prerequisites, and is always treated as though he was in his social identity for the purpose of the effects of social talents.
-
----

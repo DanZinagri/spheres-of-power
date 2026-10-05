@@ -79,7 +79,3 @@ You isolate the advantages of your casting and transfer them across disciplines.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

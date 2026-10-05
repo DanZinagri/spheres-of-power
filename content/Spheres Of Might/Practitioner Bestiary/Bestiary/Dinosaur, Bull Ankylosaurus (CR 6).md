@@ -40,5 +40,3 @@ A bull ankylosaurus encountered on its own will generally avoid combat unless it
 **Treasure** none
 
 The bull ankylosaurus is a powerful, squat dinosaur more than capable of defending itself against enemies. Its back is heavily armored with thick bony plates and spikes. A solid blow from a bull ankylosaurus’s tail can stun most creatures, leaving them vulnerable to continued beatings from the ill-tempered and stubborn creature. A bull ankylosaurus will almost never retreat if it believes its mate or herd are threatened. An ankylosaurus is 30 feet long and weighs over 6,000 pounds.
-
----

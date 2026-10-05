@@ -662,8 +662,6 @@ As long as the dissident is balanced in her struggle, she can spend 10 minutes a
 
 ---
 
----
-
 ## Unity and Independence
 
 To rely on yourself, or those around you… This strife is centered around the battle of relying too much on your community or your own effort, and the slippery slope of trying to strike a balance between the two. This strife could also represent community versus self, selflessness versus selfishness, give versus take, etc.
@@ -826,5 +824,3 @@ A dissident of any race can choose from the following:
 </div>
 
 </div>
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

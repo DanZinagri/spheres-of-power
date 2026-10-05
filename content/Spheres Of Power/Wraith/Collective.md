@@ -75,7 +75,3 @@ The collective also has exclusive access to the following haunts:
 *Psychic Static:* When a creature is flanked by at least two of the collective’s controlled cohorts, it takes a -2 penalty on saving throws against mind-affecting effects.
 
 *Self-help:* The collective’s controlled cohorts may use aid another for attack rolls and skill checks on other controlled cohorts as a swift action. Multiple instances of aiding another with this ability do not stack.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

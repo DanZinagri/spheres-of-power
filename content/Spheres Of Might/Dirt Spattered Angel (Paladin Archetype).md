@@ -31,5 +31,3 @@ This replaces aura of justice.
 This replaces holy champion.
 
 **Special:** Paladins also have access to the [[Warrior Of Blind Faith (PaladinAntipaladin Archetype)|Warrior of Blind Faith]] archetype.
-
----

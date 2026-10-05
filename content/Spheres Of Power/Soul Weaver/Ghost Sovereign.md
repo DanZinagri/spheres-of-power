@@ -129,7 +129,3 @@ Physical matter can not exist within the kingdom, save for the personal possessi
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

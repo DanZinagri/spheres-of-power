@@ -27,7 +27,3 @@ This replaces dedicated defense.
 **Warping Imposition:** At 4th level, whenever a creature under the effects of the dimensional defender’s challenge makes an attack that does not include the dimensional defender as a target, the dimensional defender may spend a spell point as an immediate action to teleport up to her teleport range to a square that puts that creature in her threatened area and make an attack of opportunity against it.
 
 This replaces sentinel’s imposition.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

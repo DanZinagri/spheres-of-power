@@ -24,5 +24,3 @@ This ability alters the alchemy ability, but does not prevent archetype compatib
 </div>
 
 </div>
-
----

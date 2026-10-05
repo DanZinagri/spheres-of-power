@@ -31,5 +31,3 @@ This ability replaces sentinel’s imposition.
 **Frightening Response (Ex):** At 6th level, whenever a darkness defender receives damage while using her Defend Other talent, the creature who dealt that damage takes a -2 penalty on combat maneuver checks for 1 round (this penalty does not stack with itself). At 9th level and every 4 levels afterwards, this penalty increases by -1.
 
 This ability replaces counter critical.
-
----

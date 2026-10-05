@@ -136,7 +136,3 @@ At 5th level, the kung fu exemplar gains the Signature Skill feat for a kung fu 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

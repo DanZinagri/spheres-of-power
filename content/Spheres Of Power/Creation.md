@@ -561,13 +561,6 @@ Additionally, by spending 1 spell point, you may create or alter any one object 
 
 ---
 
-# Creation Sphere Feats
-
-*Moved to their own page: [[Creation Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -861,8 +854,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # Rules Clarifications
 
 #### What Exactly Can You Create?
@@ -942,7 +933,3 @@ Characters who aren’t buried can dig out their friends. They may make a Streng
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -88,7 +88,3 @@ The beastsoul monk neither gains the bonus talents for having the casting class 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

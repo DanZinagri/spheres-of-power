@@ -228,7 +228,3 @@ Many Casting Packages are easily modified by changing the talents they contain. 
 **Save:** N/A; only teleports self
 **Range:** Long (400 feet + 40 feet/CL)
 **Cost:** 1 Spell Point (regular warp) or 2 Spell Points (as a Move Action or a shorter-range Swift Action) or 3 Spell Points (with Planeshift); +1 Spell Point to warp a group
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

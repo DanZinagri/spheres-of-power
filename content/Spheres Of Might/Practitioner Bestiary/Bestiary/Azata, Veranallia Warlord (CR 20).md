@@ -63,5 +63,3 @@ At first glance, a veranallia’s lower body may appear to be made of living pla
 Despite this, she is not subject to blight or similar plant-affecting magic, and attempts to use such abilities to hinder her inspire a veranallia’s ire like little else. A veranallia’s vines are incredibly strong and can entwine and crush an enemy as easily as a python would crush a field mouse. These vines often change appearance based on the veranallia’s environment, but not always in any predictable or sensible manner.
 
 Veranallias prefer the company of other azatas, and may have any number of faithful bralani or ghaele followers. While normally a veranallia has a fickle nature that makes it difficult for most other creatures, even other azatas, to interact with them, veranallia warlords are different. Veranallia warlords are the leaders of their groups both militaristically and socially, and are often surrounded by devoted followers.
-
----

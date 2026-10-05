@@ -182,7 +182,3 @@ Similarly, besides weapons (hand crossbow and war razor), no gear or equipment h
 The assassin uses divinations in their 'base persona' to find targets. Once a target has been reached identified, the character switches to the 'drow assassin' persona and takes out the target with poisoned weapons.
 
 When not hunting or tracking down targets, the character spends their time in the 'halfling bard' persona entertaining nobles or peasants alike.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -175,7 +175,3 @@ You can deploy items to cover your escape. As part of a move action you can call
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -435,5 +435,3 @@ You are skilled at keeping dedicates in line.
 ## Oaths and CR [DBH]
 
 Characters which possess more than 5 Oath boons worth of Oaths are considered to have the equivalent of abnormally high wealth. As a result, their CR should be increased by 1.
-
----

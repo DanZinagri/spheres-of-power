@@ -97,7 +97,3 @@ If you possess the Extended Anathema feat, the size of these shapes increases as
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

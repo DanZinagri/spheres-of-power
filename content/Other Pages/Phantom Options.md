@@ -38,7 +38,3 @@ If the martial phantom possesses an ability or effect from their emotional focus
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

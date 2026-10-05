@@ -45,7 +45,3 @@ The clone gains benefits and penalties for its adjusted size as if using the Siz
 - **20th level:** burrow speed (up to 60 feet), climb, fly, land, or swim speed (up to 120 feet, perfect maneuverability), damage reduction (up to 10), boot stomp, heavy weapons, hide in plain sight, icewalking, lifesense (up to 60 feet), regeneration (up to 5), supernatural speed, tear shadow, tremorsense (up to 60 feet), If the creature has immunity or resistance to any elements, he gains resistance 20 to those elements. If the creature has vulnerability to an element, he gains that vulnerability.
 
 This alters personas and replaces performer’s synergy and master of disguise. A clone gains one fewer persona than usual for a troubadour of his level.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

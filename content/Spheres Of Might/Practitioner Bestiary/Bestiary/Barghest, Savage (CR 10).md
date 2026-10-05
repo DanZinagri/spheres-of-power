@@ -48,5 +48,3 @@ As long as it has minions present, it will favor the Exemplar boast, using it wh
 **Treasure** standard
 
 Barghests that consume the hearts of great heroes may metamorphosize into something more powerful and hungrier than even the greater barghest. These savage barghests drink the blood and eat the hearts of humanoids, sowing fear in their foes and reveling in the worship of their goblinoid servants.
-
----

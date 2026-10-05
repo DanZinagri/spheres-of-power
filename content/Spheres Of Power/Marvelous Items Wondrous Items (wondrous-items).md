@@ -37,10 +37,6 @@ Instead, see the following pages for specific examples of items that aren't Wond
 
 ---
 
----
-
----
-
 # New Marvelous Items
 
 ### Alabaster Marquise Ioun Stone [DRS]
@@ -2984,7 +2980,3 @@ Craft Rod, Craft Wondrous Item, Warp Sphere, Distant Teleport, Emergency Telepor
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

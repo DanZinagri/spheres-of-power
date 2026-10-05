@@ -926,7 +926,3 @@ Craft Rod, Craft Wondrous Item, Warp Sphere, Distant Teleport, Emergency Telepor
 
 [[/tab]]
 [[/tabview]]
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

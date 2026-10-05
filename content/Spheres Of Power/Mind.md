@@ -621,15 +621,6 @@ You may spend an additional 1, 2, or 3 spell points and take 10 minutes to affec
 
 ---
 
-# Mind Sphere Feats
-
-*Moved to their own page: [[Mind Sphere Feats]].*
-
-
----
-
----
-
 # About Dreamscapes
 
 Some of the material on this site will reference dreamscapes, subrealities that exist within the minds of most sentient beings, often whether they are aware that they exist or not. No one knows exactly how or why dreamscapes first came to be, but they seem to exist as interconnected islands of psychic energy separated by an unknown sea of consciousness that has, so far, defied most attempts at classification by scholars of the arcane.
@@ -1104,8 +1095,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # About Dreamscapes
 
 Some of the material on this site will reference dreamscapes, subrealities that exist within the minds of most sentient beings, often whether they are aware that they exist or not. No one knows exactly how or why dreamscapes first came to be, but they seem to exist as interconnected islands of psychic energy separated by an unknown sea of consciousness that has, so far, defied most attempts at classification by scholars of the arcane.
@@ -1125,7 +1114,3 @@ Finally, the knowledge of an individual’s dreamscape is a powerful thing in th
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

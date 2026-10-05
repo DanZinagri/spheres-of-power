@@ -152,7 +152,3 @@ Once per day, you may cast miracle as a spell-like ability on behalf of one of y
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

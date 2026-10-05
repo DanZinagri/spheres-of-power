@@ -185,7 +185,3 @@ As a standard action you may touch a bear and spend 3 spell points, granting it 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

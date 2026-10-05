@@ -205,5 +205,3 @@ If you possess the Cover Ally talent, when you use cover ally to grant your acti
 ### Note: Shields and Shield Bonuses
 
 According to the writers, the Shield Sphere is generally intended for shields and anything that says it "acts like" or "can be used as" a shield. Simply granting a Shield Bonus to AC is not enough to allow something to function with this sphere, although your GM may rule that it makes sense in a particular case.
-
----

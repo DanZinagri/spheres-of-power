@@ -50,5 +50,3 @@ A plasma ooze flies by somehow interacting with gravity and magnetic waves, drif
 Survivors of plasma ooze attacks are rare, but such victims describe the pain of being struck by one’s rays as like being pulled apart piece by piece. Wounds left by a plasma ooze’s touch resemble hideously melted burn scars.
 
 A plasma ooze is 20 feet in diameter and weighs 6,000 pounds.
-
----

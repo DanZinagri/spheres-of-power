@@ -44,5 +44,3 @@ The coiled blade’s tension goes up or down throughout the day, but usually can
 - **Full Strike:** The coiled blade may make an attack with any weapon he is wielding as a swift action.
 
 This replaces the armor training class feature.
-
----

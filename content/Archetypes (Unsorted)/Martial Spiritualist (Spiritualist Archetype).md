@@ -44,7 +44,3 @@ The martial spiritualist may choose to exchange both the combat training class f
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

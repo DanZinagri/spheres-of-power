@@ -77,7 +77,3 @@ This ability replaces Greater Psionics.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -123,5 +123,3 @@ The harmacist’s diseases are particularly virulent, worming their way into the
 </div>
 
 </div>
-
----

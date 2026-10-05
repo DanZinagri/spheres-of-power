@@ -76,5 +76,3 @@ N Medium animal
 **Treasure** NPC gear (mwk studded leather armor, mwk studded leather barding, mwk Buckler, mwk whip, mwk javelins (3), other treasure)
 
 Orc wolflords are responsible for raising and training the tribe or warband’s dire wolf mounts, as well as for leading hunts and tracking foes. They are rarely seen without their favorite pets.
-
----

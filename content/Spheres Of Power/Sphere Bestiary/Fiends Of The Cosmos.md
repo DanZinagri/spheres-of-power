@@ -1021,7 +1021,3 @@ Dastard passages serve as agents of mayhem and uncertainty, committing horrendou
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

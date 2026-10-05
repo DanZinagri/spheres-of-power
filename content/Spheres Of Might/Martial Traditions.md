@@ -1561,5 +1561,3 @@ You do not gain the snag ability of the Wrestling sphere and must take Last Chan
 You do not gain the snag ability. You gain Worked Match with this drawback.
 
 **Incompatible:** Jobber.
-
----

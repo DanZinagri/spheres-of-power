@@ -41,5 +41,3 @@ The following prowesses are available exclusively to antiquarians:
 **Focused Assault:** (Requires Rapid Assault) The antiquarian may forgo additional attacks from rapid assault to instead increase the potency of her next sphere effect. She gains a +2 bonus on caster level for each additional attack her rapid assault would have granted her on the next sphere effect she casts before the end of her next turn.
 
 **Spellbreaker:** (Requires 5th level) The antiquarian may add the Counterspell feat, or any feat with it as a prerequisite, to a customized weapon in place of a talent. The antiquarian counts her class levels as casting class levels when making counterspell checks while such a weapon is her active weapon. The antiquarian must meet the prerequisites for feats granted in this way, treating her class levels as casting class levels for this purpose.
-
----

@@ -49,7 +49,3 @@ This replaces create reality, improved create reality, and greater create realit
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

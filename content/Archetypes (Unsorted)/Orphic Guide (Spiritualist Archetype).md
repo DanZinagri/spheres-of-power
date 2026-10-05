@@ -21,5 +21,3 @@ This ability modifies phantom.
 - **16th:** planar adaptation
 
 This ability replaces detect undead, calm spirit, see invisibility, and call spirit.
-
----

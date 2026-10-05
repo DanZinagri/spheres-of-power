@@ -35,5 +35,3 @@ This replaces diamond aegis.
 **Returning Jurisdiction (Ex):** At 17th level, the garrison’s influence is never truly forgotten. This makes it easier to establish her military jurisdiction in a place she has established it before. In any settlement where the garrison previously gained military jurisdiction, it takes only 1d4 hours, rather than 1d4 days, to gain jurisdiction again.
 
 This replaces sentinel's surge.
-
----

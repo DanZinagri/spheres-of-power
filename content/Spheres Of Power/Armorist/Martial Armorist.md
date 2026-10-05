@@ -13,5 +13,3 @@ This modifies proficiencies.
 **Blended Training (Ex):** Whenever a martial armorist would gain a magic talent from her class levels (not the 2 bonus talents gained when first gaining the casting class feature), she may instead choose to gain a combat talent. A martial armorist uses her casting ability modifier as her practitioner modifier.
 
 This modifies magic talents. This archetype may be combined with other archetypes that replace magic talents; you cannot gain a combat talent in place of a magic talent the other archetype loses.
-
----

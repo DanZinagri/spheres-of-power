@@ -183,7 +183,3 @@ By focusing their magic, dustbringers can cause whatever they touch to simply fa
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

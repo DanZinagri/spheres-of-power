@@ -59,5 +59,3 @@ The machinehead may enter the limit as a free action. While in the limit, the ma
 Each round spent in the limit expends a charge from their charge pool (charges in a battery or a gadget cannot be substituted). A machinehead can exit the limit as a free action and is fatigued after leaving for a number of rounds equal to 2 times the number of rounds spent in the limit.
 
 The machinehead must be a 6th level armiger, and possess at least 1 augment graft before taking this prowess.
-
----

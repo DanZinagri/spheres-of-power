@@ -115,7 +115,3 @@ At 20th the dragonblooded mortal’s heritage comes to complete fruition. She ga
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

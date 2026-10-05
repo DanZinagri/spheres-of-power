@@ -15,7 +15,3 @@ This replaces Alchemy.
 **Magic Talents:** An archaic alchemist gains a magic talent every time he gains a caster level. This does not stack with caster levels gained from other sources.
 
 **Recommended Casting Tradition:** The classic feel of the alchemist can be recreated through taking the Focus Casting: (alchemy lab) and Skilled Casting: Craft (alchemy) drawbacks.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

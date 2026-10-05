@@ -123,7 +123,3 @@ Whenever the matagot uses their familiar possession ability, they may move up to
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

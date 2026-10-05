@@ -109,5 +109,3 @@ updated: 2023-06-13
 - **Prodigy:** Add a +1 bonus on caster level checks made to overcome the spell resistance of outsiders.
 - **Sage:** Add a +1/2 bonus on the sage’s saving throws to resist death attacks.
 - **Troubadour:** Add a +1/2 bonus on Bluff checks to lie and a +1/2 bonus on Diplomacy checks to gather information.
-
----

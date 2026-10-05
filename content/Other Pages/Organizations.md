@@ -375,5 +375,3 @@ Keep in mind that certain decisive actions related to the progression of the cam
 </div>
 
 </div>
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

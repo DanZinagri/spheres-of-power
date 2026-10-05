@@ -1570,7 +1570,3 @@ A virulent sensor gains the following traits and modifications:
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

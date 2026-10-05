@@ -44,7 +44,3 @@ A dragon companion always goes on the same initiative as its rider. Without the 
 Establishing focus is a standard action for the halfling dragonrider, after which its dragon companion may take a full-round’s worth of action, as normal. This improves to only requiring a move action at 2nd level, a swift action at 8th level, and a free action at 15th level. As the focus establishes a mental bond between the dragon rider and her draconic companion, no vocal communication is required between the two while the focus is in effect. A dragon and its rider must be within Close range (25 ft + 5 ft per 2 levels) to establish focus.
 
 The dragon companion replaces mount and the cavalier’s order. For more information on dragonriders and dragon magic, see Dracomancer and Dragon Rider by Rogue Genius Games.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -143,7 +143,3 @@ Suggested rogue talents for the snake oil salesman are Black Market Connections,
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

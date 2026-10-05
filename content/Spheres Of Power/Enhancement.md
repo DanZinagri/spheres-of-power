@@ -349,13 +349,6 @@ You may enhance a weapon, causing any attack rolls made with the weapon to use a
 
 ---
 
-# Enhancement Sphere Feats
-
-*Moved to their own page: [[Enhancement Sphere Feats]].*
-
-
----
-
 # Proxy Feats
 
 Proxy feats represent an enhanced ability to manipulate and take advantage of the Create Proxy enhancement, which by default is granted by the Spell Proxy feat. Unless otherwise stated, these feats only apply to Create Proxy effects that you created yourself, and only affect creatures under the effects of Create Proxy who are within 30 feet. Generally, using a proxy feat immediately ends the Create Proxy effect for that creature. An incanter may select proxy feats as bonus feats.
@@ -1124,7 +1117,3 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

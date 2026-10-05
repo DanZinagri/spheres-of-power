@@ -573,13 +573,6 @@ You then may don or remove the stolen skin as a move action. When wearing a stol
 
 ---
 
-# Fallen Fey Sphere Feats
-
-*Moved to their own page: [[Fallen Fey Sphere Feats]].*
-
-
----
-
 # Traveling through Faerie
 
 The faerie realm (the precise name and nature of this plane will vary depending on setting) offers both potential and risk for travelers. Its chaotic and ever-shifting relation to the material plane allows rapid transit between distant points for those skilled or foolish enough to attempt it.
@@ -1313,7 +1306,3 @@ In any case, the courts do not necessarily require moral alignments; a summer to
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

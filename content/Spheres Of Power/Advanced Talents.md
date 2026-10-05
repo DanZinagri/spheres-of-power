@@ -2007,7 +2007,3 @@ This supersedes the Wind Lord basic talent in Spheres of Power.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -145,8 +145,6 @@ This replaces smith’s masterpiece.
 
 ---
 
----
-
 # New Feats
 
 #### Part-Time Barista
@@ -160,5 +158,3 @@ This replaces smith’s masterpiece.
 **Benefit:** You require half the amount of time you otherwise would to get the benefits of a full night’s rest.
 
 In addition, you may activate Aristeia even while unconscious (and even if your unconsciousness would make you unaware of the reason to activate Aristeia in the first place), and doing so immediately brings you fully awake. While in Aristeia, you can still suffer from crashes from the barista blacksmith’s invigorating brew class feature, but all negative crash effects, as well as any penalties from fatigue and exhaustion, are delayed until after you leave Aristeia.
-
----

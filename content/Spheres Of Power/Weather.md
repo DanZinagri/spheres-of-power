@@ -646,15 +646,6 @@ Not only can you control the wind’s direction, but you may also create complic
 
 ---
 
-# Weather Sphere Feats
-
-*Moved to their own page: [[Weather Sphere Feats]].*
-
-
----
-
----
-
 # GM Advice
 
 This advice is from The Tempestarian's Handbook
@@ -1103,8 +1094,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # GM Advice
 
 This advice is from The Tempestarian's Handbook
@@ -1127,7 +1116,3 @@ In addition, GMs are strongly encouraged to remember how structures are affected
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

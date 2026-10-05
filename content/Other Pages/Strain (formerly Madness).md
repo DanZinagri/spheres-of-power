@@ -635,7 +635,3 @@ You constantly second-guess your actions, leading to frequent failures.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

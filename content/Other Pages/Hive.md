@@ -127,7 +127,3 @@ At 5th level, the hive can make a melee touch attack against a creature as a sta
 **Benefit:** You may select an additional swarm enhancement that you qualify for.
 
 **Special:** This feat may be taken more than once; each time you select an additional swarm enhancement.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

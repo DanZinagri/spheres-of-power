@@ -42,7 +42,3 @@ This replaces infinite arsenal.
 - **Repair Invention:** As a standard action, she may spend a spell point to touch a bound invention to restore 1d8 hit points, + 1d8 at 3rd class level and every odd class level thereafter (5th, 7th, 9th, etc.).
 - **Share Invention:** As part of summoning a bound invention, she may cause it to appear in the possession or adjacent to an allied creature within 30 feet. This bound invention remains for 1 minute per class level before disappearing.
 - **Share Invention, Greater (requires share invention):** Shared inventions now last for 1 hour per class level before disappearing.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

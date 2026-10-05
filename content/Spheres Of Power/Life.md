@@ -363,13 +363,6 @@ The transfiguration lasts a number of hours equal to your caster level, or until
 
 ---
 
-# Life Sphere Feats
-
-*Moved to their own page: [[Life Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -647,8 +640,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # Player's Guide
 
 For a player that wants to more than just dabble in the Life sphere, there are several viable and interesting character concepts they can pursue.
@@ -684,7 +675,3 @@ The warlord is a preventive healer who is more interested in causing pain than r
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -125,7 +125,3 @@ The collector may open a portal to her extradimensional storage anywhere within 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -116,7 +116,3 @@ The time knight can choose to accompany such a creature for a limited time in se
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

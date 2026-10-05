@@ -758,15 +758,6 @@ Your companion may use the Stealth skill to hide even while observed.
 
 ---
 
-# Conjuration Sphere Feats
-
-*Moved to their own page: [[Conjuration Sphere Feats]].*
-
-
----
-
----
-
 # Gamemastering
 
 #### Too Many Companions
@@ -1491,7 +1482,3 @@ The process of forming a bond with a Conjuration sphere companion is intentional
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

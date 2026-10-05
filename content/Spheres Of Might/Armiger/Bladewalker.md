@@ -23,5 +23,3 @@ This replaces the prowess normally gained at 4th level.
 In addition, whenever the bladewalker successfully damages the same opponent with attacks made from two different locations while using her blade’s path ability, that opponent is flat-footed against all attacks until the start of the bladewalker’s next turn.
 
 This replaces the unlimited assault class feature.
-
----

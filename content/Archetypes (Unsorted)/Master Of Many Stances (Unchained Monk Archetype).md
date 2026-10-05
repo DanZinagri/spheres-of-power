@@ -68,5 +68,3 @@ At 17th level, a master of many stances may gain three temporary bonus talents f
 </div>
 
 </div>
-
----

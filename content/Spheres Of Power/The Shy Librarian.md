@@ -128,7 +128,3 @@ You are a bookworm, and don’t love anything more than volumes of stories, poet
 **Skills** Knowledge, Linguistics, Perform (oratory), Profession (librarian), and Spellcraft are the most useful skills for you. Take ranks also in Appraise, Craft (binding and/or calligraphy), Stealth, and Use Magic Device.
 
 Increase your Intelligence and Dexterity with level advancement, and maybe Charisma too a bit. Acquire as many magic books as you can with your gold. If you wish, take a companion with the familiar archetype, or give it the shape of your favorite hero from legends.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

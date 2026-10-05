@@ -513,7 +513,3 @@ In such instances, GMs may elect to simply roll on an individual compound tier t
 | Tier 3 | — | — | 61-100 | 9-12 |
 | Tier 4 | — | — | — | 13-16 |
 | Tier 5 | — | — | — | 17-20 |
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

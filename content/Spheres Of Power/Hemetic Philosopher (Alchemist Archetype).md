@@ -71,7 +71,3 @@ This ability replaces swift alchemy, poison use, poison resistance, and poison i
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

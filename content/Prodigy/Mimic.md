@@ -43,7 +43,3 @@ This replaces master adaptation and grandmaster adaptation.
 **Perfected Mimic:** At 20th level, the mimic retains copied talents, identities, and other abilities gained via mimicry indefinitely, though supernatural abilities are still lost when used.
 
 This alters perfected prodigy. The mimic does not gain the ability to gain any number of talents with adaptation as a swift action.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

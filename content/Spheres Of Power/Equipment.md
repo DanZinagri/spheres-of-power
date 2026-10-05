@@ -203,7 +203,3 @@ The many twinkling layers of this gemstone mimics the great wards and barriers o
 **Effect** When you use a warding agate as a material component or focus for a spell or sphere effect that grants the target an armor, deflection, natural armor, or shield bonus to AC, each affected target gains 5 temporary hit points which last for the effect’s duration. A warding agate’s effects also apply to effects which indirectly improve the target’s armor, deflection, natural armor, or shield bonus to AC (such as using the Enhancement sphere enhance ability to improve a target’s armor enhancement bonus).
 
 **Note:** Temporary hit points granted by a warding agate are considered to be from the same source and do not stack with itself (such as a recipient of two spells which would grant temporary hit points only receiving temporary hit points once).
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

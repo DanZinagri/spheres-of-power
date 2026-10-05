@@ -287,7 +287,3 @@ Admixture feats grant new ways to utilize the Admixture talent (from the [[Destr
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

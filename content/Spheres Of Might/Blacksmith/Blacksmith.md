@@ -379,5 +379,3 @@ When a creature with the thunderous blows class feature sunders a target’s nat
 
 **Construction Requirements**
 Craft Apparatus, Destruction sphere (Reverberating Blast (blast type)), creator must have the thunderous blows ability; **Cost** 9,000 gp
-
----

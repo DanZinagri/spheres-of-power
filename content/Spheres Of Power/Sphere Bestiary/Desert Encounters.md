@@ -1769,7 +1769,3 @@ If pursued, roll again on the encounter table (on a result of 100, the witch lig
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

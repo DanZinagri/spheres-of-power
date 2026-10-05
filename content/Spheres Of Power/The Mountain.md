@@ -89,7 +89,3 @@ At the start of play, your goal with The Mountain is to cast Physical Enhancemen
 As a Low Caster, you aren't as proficient with spells as most other classes - you don't have as many talents known, nor will they be as powerful. This is why it's good to get whatever Caster Level bonuses you can - they'll come in handy for maximizing the value of your enhancements.
 
 If using Spheres of Might, consider picking up a few talents from the Guardian sphere. This can amp up your ability to survive without significantly impacting your offense.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

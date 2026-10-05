@@ -47,8 +47,6 @@ Finally, most radiances have a criteria for using them safely, which is known as
 
 ---
 
----
-
 # Radiances
 
 ### Radiance Of Air (Minor Artifact) [TS:WAT]
@@ -166,7 +164,3 @@ This radiance takes the form of a large mane of fur that rests around the userâ€
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -463,8 +463,6 @@ Resources such as templates, CR modifiers, and other tweaks may still be applied
 
 ---
 
----
-
 # Aptitude Sphere
 
 The Aptitude sphere relates to experience the character has gained with various tasks, tools, and challenges. A character’s origin tradition may possess talents in the Aptitude sphere if they begin adventuring after years of work, receive formal training of some sort in their youth, or demonstrate an innate aptitude in specific circumstances.
@@ -1469,8 +1467,6 @@ When you take the Aquatic talent, you may reduce your base land speed by 10 feet
 
 ---
 
----
-
 # Favored Class Bonuses
 
 First introduced in the Advanced Player’s Guide, favored class bonuses have generally granted race-specific benefits to specific classes. In a game which uses origin traditions in place of races, favored class bonuses thus must function somewhat differently.
@@ -1810,7 +1806,3 @@ Some mascots are even smaller than the average. These trade out Specialized Trai
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

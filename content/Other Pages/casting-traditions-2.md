@@ -2043,7 +2043,3 @@ Whenever the caster gains a level in a casting class, they must decide which of 
 
 [[/tab]]
 [[/tabview]]
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

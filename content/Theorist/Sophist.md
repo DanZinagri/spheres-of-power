@@ -41,5 +41,3 @@ The range of sophistry improves from close to medium. The sophist may take this 
 </div>
 
 </div>
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

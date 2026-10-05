@@ -235,5 +235,3 @@ This gleaming white crystal can be set into any shield except a buckler as a ful
 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Light sphere (Encompassing Light (light)); **Cost** 10,000 gp
-
----

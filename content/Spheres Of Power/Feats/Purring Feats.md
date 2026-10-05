@@ -132,7 +132,3 @@ Not fueled by some independent emotion or habit, the cat simply purrs harder. So
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

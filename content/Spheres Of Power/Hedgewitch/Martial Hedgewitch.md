@@ -19,5 +19,3 @@ This modifies proficiencies.
 **Secrets:** A martial hedgewitch may take the Extra Combat Talent feat or any feat which requires possessing combat talents in place of a secret. She must meet all the prerequisites for these feats as normal.
 
 This modifies secrets.
-
----

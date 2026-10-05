@@ -2399,7 +2399,3 @@ Note that Protection shows up more often than anything else, but each slot has a
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

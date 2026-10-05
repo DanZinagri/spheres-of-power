@@ -259,7 +259,3 @@ Extra feats allow characters to either use their existing abilities more times e
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

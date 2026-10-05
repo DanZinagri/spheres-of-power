@@ -31,5 +31,3 @@ As a standard action, the cavalry officer can choose to learn a new bonus teamwo
 The cavalry officer gains an additional teamwork feat and increases the number of teamwork feats he may share with his Leadership sphere cohorts by +1 at 9th and 17th levels.
 
 This replaces tactician, greater tactician, and master tactician.
-
----

@@ -23,7 +23,3 @@ This replaces the frightening appearance class feature.
 **Concerted Attack (Ex):** From 17th level on, whenever the vigilante confirms a critical hit against an opponent, each ally adjacent to that opponent may make a single melee attack against it as an immediate action.
 
 This replaces the stunning appearance class feature.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -93,7 +93,3 @@ At 6th level, an eclectic researcher may add a namebound spell to her repertoire
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

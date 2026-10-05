@@ -514,13 +514,6 @@ You must spend a spell point to create a totem of tenuous mortality. Whenever an
 
 ---
 
-# War Sphere Feats
-
-*Moved to their own page: [[War Sphere Feats]].*
-
-
----
-
 # Squadron Feats
 
 Based around the use of the Squadron Commander feat, these feats offer various ways for allies to help each other - unlike teamwork feats, however, only one person in the party needs to know the feat being used.
@@ -1099,8 +1092,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # Player's Guide
 
 There are a number of different ways to build an effective War caster. Each will employ totems, rallies, and mandates differently, and will require other spheres and other abilities to be most effective.
@@ -1130,7 +1121,3 @@ Vanguards are the warcasters most likely to multiclass into non-caster classes, 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

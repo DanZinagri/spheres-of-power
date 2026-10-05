@@ -41,5 +41,3 @@ The alpha tyrannosaurus is a simple, deadly creature. In close combat it will sh
 **Treasure** none
 
 The tyrannosaurus is an apex predator that measures 40 feet long and weighs 14,000 pounds.
-
----

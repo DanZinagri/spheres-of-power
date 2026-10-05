@@ -345,5 +345,3 @@ These heavy metal gauntlets are extremely popular with armigers who have receive
 
 **Construction Requirements**
 Craft Marvelous Item, Creation sphere, Illusion sphere; **Cost** 9,000 gp
-
----

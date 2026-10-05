@@ -108,5 +108,3 @@ The iron chef’s repertoire of culinary knowledge expands, granting him further
 - **Eggplant**—Somewhat bitter, eggplant is a vegetable that can be prepared in many ways, and generally improves the health of the brain, granting any creature who eats a meal including it a +2 bonus to concentration checks. This bonus increases by an additional 2 when the iron chef reaches 10th level.
 - **Onion**—Difficult to prepare without tears, onions are known for the diverse way of preparing them, in addition to being believed to aid against unwanted ailments of the mind and body, granting any creature who eats a meal including it a +2 bonus on saving throws against curse and mind-affecting effects. This bonus increases by an additional +2 when the iron chef reaches 10th level.
 - **Pumpkin**—Dense and thick-skinned, pumpkin is typically chopped into thick pieces and cooked to make a filling addition to a recipe, in addition to aiding against muscle fatigue, granting any creature who eats a meal including it a +2 bonus on saving throws against paralysis and stunned conditions. This bonus increases by an additional +2 when the iron chef reaches 10th level.
-
----

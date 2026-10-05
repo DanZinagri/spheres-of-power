@@ -18,7 +18,3 @@ This alters proficiencies.
 **Greater Training:** The champion bard may choose to lose bardic knowledge to gain a combat or magic talent at every class level with their blended training (instead of 3 talents every 4 levels). He may not take this option if possessing an archetype that would alter or replace bardic knowledge.
 
 This (optionally) replaces bardic knowledge.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

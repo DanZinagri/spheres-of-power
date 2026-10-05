@@ -775,7 +775,3 @@ Smith Magical Arms and Armor, Alteration Sphere; Cost +3 Bonus
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

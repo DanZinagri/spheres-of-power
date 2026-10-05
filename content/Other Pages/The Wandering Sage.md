@@ -114,7 +114,3 @@ As far as talents go Finesse Fighting will help your Unarmed Strikes or Chi Gong
 If you don't want to pick from Combat Spheres, you can use Style Talents to get magic talents instead. Destruction gives you a ranged attack and lets you use some Esotery abilities at range. Weather can earn you some good faith from locals too if there is a drought or cold snap. Warp gives you added mobility as well.
 
 You gain Skill Focus several times as you level up. Good choices include Perception, Acrobatics, Diplomacy, Stealth, and any Knowledge skill(with Arcana, Dungeoneering, Nature, Religion, and Planes being prime picks as they are more likely to come up).
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -737,7 +737,3 @@ This ornate golden mirror is about the length of a forearm and seems far more du
 
 **Construction Requirements**
 Craft Marvelous Item, Protection sphere (Ray Deflection (aegis)), creator must have the reflect spells class feature; **Cost** 9,000 gp
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

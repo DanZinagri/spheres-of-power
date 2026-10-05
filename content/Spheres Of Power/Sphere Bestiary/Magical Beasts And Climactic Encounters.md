@@ -1623,8 +1623,6 @@ Craft (alchemy) DC 20
 
 ---
 
----
-
 # Magical Beast Companions
 
 Previously only available through the Beast Speaker feat (Heroes of Golarion) and Monstrous Mount feat (Inner Sea Combat), the Beast Tamer’s Handbook introduced the Improved Animal Companion legendary talent to the Beastmastery sphere, which grants Spheres of Might practitioners access to various exotic companions normally available through that feat.
@@ -1863,7 +1861,3 @@ The following lists group this book’s monsters by terrain. Monster variants ar
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

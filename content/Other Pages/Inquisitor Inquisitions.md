@@ -36,5 +36,3 @@ Each time your inquisitor level increases, you must decide how to allocate the i
 **Pack Bane (Su):** At 6th level, when you use your bane ability, you may choose one of your animal companions to gain the benefits of your bane with one of their natural attacks.
 
 **Special:** If you have the Beastmastery sphere, when you use your bane ability, you may instead choose any one of your animal allies to gain the benefit of your bane.
-
----

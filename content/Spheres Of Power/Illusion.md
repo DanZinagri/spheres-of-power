@@ -492,13 +492,6 @@ You may spend an additional spell point when using Blur to have it also cause sp
 
 ---
 
-# Illusion Sphere Feats
-
-*Moved to their own page: [[Illusion Sphere Feats]].*
-
-
----
-
 # Surreal Feats
 
 Surreal feats are feats that use or rely upon the irrational and unpredictable substance known as shadowstuff. All surreal feats are spell-like abilities that are treated as (figment, shadow) illusions for the purposes of interacting with other effects. Characters with the Shadow Infusion talent or the create reality class feature may spend spell points in place of shadow points to activate abilities granted by surreal feats.
@@ -1190,7 +1183,3 @@ Unlike other illusions, Manipulate Aura is always observed by opposed magic or s
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

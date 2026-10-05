@@ -2080,5 +2080,3 @@ The outsider can use its talisman to release a paralyzing blast for an additiona
 **Prerequisites:** fey;**Benefit:** The fey has a +6 racial bonus to Craft checks involving wood, and is always treated as if she had masterwork artisan’s woodworking tools when making such checks.
 
 **Format:** woodcraft;**Location:** SQ
-
----

@@ -270,7 +270,3 @@ Kismet counts as luck for the purpose of qualifying for and activating feats, bu
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

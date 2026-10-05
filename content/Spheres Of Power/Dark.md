@@ -1577,8 +1577,6 @@ Shadowsingers are bards that manipulate the lighting to set the mood.
 
 ---
 
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book
-
 </div>
 
 <div class="sop-tab" data-tab="ultimate">
@@ -2019,13 +2017,6 @@ In addition, when you apply the meld to a target you may spend an additional poi
 
 ---
 
-# Dark Sphere Feats
-
-*Moved to their own page: [[Dark Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -2387,7 +2378,3 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

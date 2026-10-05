@@ -64,7 +64,3 @@ This replaces the spells class feature, as well as the warpriest’s ability to 
 This alters fervor.
 
 **Greater Training:** The champion warpriest may choose to lose sacred weapon to instead gain a combat or magic talent at every class level. He may not take this option if possessing an archetype that would alter or replace sacred weapon.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

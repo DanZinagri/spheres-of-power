@@ -1275,8 +1275,6 @@ The size of your weather is very limited; the maximum size area you can control 
 
 ---
 
----
-
 # Boons
 
 Boons are the opposite of drawbacks: instead of adding limitations and requirements to a caster’s magic, they add bonuses and benefits.
@@ -3442,7 +3440,3 @@ Whenever the caster gains a level in a casting class, they must decide which of 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

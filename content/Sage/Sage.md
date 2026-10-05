@@ -561,7 +561,3 @@ The metamagic effect must be appropriate for applying to the chi gong class feat
 
 **Construction Requirements**
 Craft Apparatus, Mana sphere, creator must have the chi gong class feature; **Cost** 6,000 gp
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

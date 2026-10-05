@@ -69,7 +69,3 @@ This ability replaces group focus.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

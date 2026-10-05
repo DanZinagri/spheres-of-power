@@ -154,5 +154,3 @@ Similarly, besides a skillet, sling (w/ 20 bullets), spatula, and portable alche
 # Playing the Culinary Specialist
 
 The culinary specialist prefers being in the thick of combat and is ready at a moment's notice. The culinary specialist should not be afraid to utilize thundering blows to sunder an enemy's equipment. To aid in such an endeavor, make sure to add the sunder ability (+2 to sunder combat maneuver checks) to your improvised weapon (via Barroom Expert). If the culinary specialist finds himself in need of higher AC, utilize the Improvised Shield talent as necessary. While not a primary healer, the culinary specialist acts as a secondary healer with the Salve formulae. Between encounters, the culinary specialist should cook meals. The default recipe that should be used is Red Meat (Sweet), which will grant a +1 bonus to Fortitude saves and reduce the duration of debilitating effects by 1 round.
-
----

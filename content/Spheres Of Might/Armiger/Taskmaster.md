@@ -116,5 +116,3 @@ The taskmaster’s AI counts as possessing the currently active task-set’s tal
 </div>
 
 </div>
-
----

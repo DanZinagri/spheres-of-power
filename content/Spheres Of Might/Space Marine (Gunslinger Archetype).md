@@ -19,5 +19,3 @@ This replaces the space marine’s martial weapon proficiency, and the dead shot
 This replaces gunsmith.
 
 If using the gunfighter archetype (from Spheres of Might), or another archetype granting the Combat Training class feature, change the space marine to only replace gunsmith for the standard issue class feature.
-
----

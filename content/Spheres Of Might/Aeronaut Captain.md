@@ -172,5 +172,3 @@ As an overland move action, a character may make a Profession (servant) check to
 #### Profession (soldier)
 
 Profession (soldier) represents how well a creature can train and discipline soldiers and crewmen, as well as handle the administrative, logistical, and tactical needs of such a large group. Every crew may have a single officer who serves as that crew’s commanding officer. If a crew has such a leader with at least 1 rank in Profession (soldier), it gains a +1 dodge bonus to AC and a +1 morale bonus to all saving throws for every 5 points of bonus it’s leader has in Profession (soldier). Only one creature may aid another creature with Profession (soldier) checks, including a creature using Profession (servant).
-
----

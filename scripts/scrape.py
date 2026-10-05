@@ -857,8 +857,8 @@ def split_sphere_feats(md: str, sphere: str) -> tuple[str, str]:
     inner = min((level_of(l) for l in chunk if level_of(l)), default=level + 1)
     body = [("#" * max(2, level_of(l) - inner + 2) + " " + l.lstrip("#").lstrip()) if level_of(l) else l
             for l in chunk]
-    link = [lines[start], "", f"*Moved to their own page: [[{sphere} Sphere Feats]].*", ""]
-    return "\n".join(lines[:start] + link + lines[end:]), "\n".join(body).strip() + "\n"
+    # the section leaves the sphere page entirely (the home page links each sphere's feats page)
+    return "\n".join(lines[:start] + lines[end:]), "\n".join(body).strip() + "\n"
 
 
 def insert_first_tabs(md: str, tabs: list[tuple[str, str]]) -> str:
@@ -1310,7 +1310,15 @@ def tidy(md: str) -> str:
     md = re.sub(r"(\*\*[^*\n]*?[:.]\*\*)(?=[\w(\[])", r"\1 ", md)
     md = archetype_tables(md)
     md = set_column_counts(md)
+    # the "U: Part of Ultimate Spheres of Power..." footnote repeated on ~490 pages
+    md = re.sub(r"^\*\*U:\*\* Part of Ultimate Spheres of Power[^\n]*\n?", "", md, flags=re.M)
     return md.strip() + "\n"
+
+
+def collapse_dividers(md: str) -> str:
+    """Back-to-back '---' lines (left where sections were removed) -> one; none at the very end."""
+    md = re.sub(r"^---[ \t]*\n(?:[ \t]*\n)*(?=---[ \t]*$)", "", md, flags=re.M)
+    return re.sub(r"(?:\A|\n)[ \t\n]*---[ \t]*\s*\Z", "\n", md)
 
 
 def yaml_str(s: str) -> str:
@@ -1477,8 +1485,8 @@ def convert(with_images: bool) -> None:
                           "parent: " + yaml_str(f"[[{p.filename}]]"), "---"]
                 sub_dest = CONTENT / p.folder / subfolder / f"{name}.md"
                 sub_dest.parent.mkdir(parents=True, exist_ok=True)
-                sub_dest.write_text("\n".join(sub_fm) + "\n" + GENERATED_MARK + "\n\n" + entry_md,
-                                    encoding="utf-8")
+                sub_dest.write_text("\n".join(sub_fm) + "\n" + GENERATED_MARK + "\n\n"
+                                    + collapse_dividers(entry_md), encoding="utf-8")
                 # brackets in the label would close the [[link]] early: "[Warden]" -> "(Warden)"
                 label = title.replace("|", "\\|").replace("[", "(").replace("]", ")")
                 links.append(f"- [[{name}]]" if name == label else f"- [[{name}|{label}]]")
@@ -1512,11 +1520,12 @@ def convert(with_images: bool) -> None:
                             "parent: " + yaml_str(f"[[{p.filename}]]"), "---"]
                 feats_dest = CONTENT / p.folder / f"{feats_name}.md"
                 feats_dest.parent.mkdir(parents=True, exist_ok=True)
-                feats_dest.write_text("\n".join(feats_fm) + "\n" + GENERATED_MARK + "\n\n" + feats_md,
-                                      encoding="utf-8")
+                feats_dest.write_text("\n".join(feats_fm) + "\n" + GENERATED_MARK + "\n\n"
+                                      + collapse_dividers(feats_md), encoding="utf-8")
                 feats_pages[p.filename] = feats_name
         if p.slug in merged_tabs:  # after the feats split, so it only sees the page's own sections
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
+        body_md = collapse_dividers(body_md)
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)

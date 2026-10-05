@@ -37,7 +37,3 @@ This ability modifies the medium’s spirits class feature.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

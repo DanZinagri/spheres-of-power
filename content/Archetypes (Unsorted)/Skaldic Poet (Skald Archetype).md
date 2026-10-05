@@ -119,7 +119,3 @@ At 20th level, the skaldic poet gains an amount of ardour equal to his practitio
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

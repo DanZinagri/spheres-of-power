@@ -53,5 +53,3 @@ This ability replaces invincible soul.
 **Last Stand (Ex):** At 20th level, an adamant guardian gain an additional amount uses of her undying patrol class feature per round equal to her Wisdom modifier.
 
 This ability replaces final challenge.
-
----

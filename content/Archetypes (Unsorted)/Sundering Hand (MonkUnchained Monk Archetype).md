@@ -25,5 +25,3 @@ This replaces flurry of blows.
 An unchained sundering hand monk may take smithing insights in place of ki powers, treating his class levels as blacksmith levels for meeting prerequisites. This stacks with blacksmith levels from other sources.
 
 **Breaking Style:** An unchained sundering hand monk may apply his style strike ability to any attack action he makes with a suitable limb.
-
----

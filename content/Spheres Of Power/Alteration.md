@@ -905,13 +905,6 @@ You may spend a spell point to target objects with your shapeshift. (Note: Undea
 
 ---
 
-# Alteration Sphere Feats
-
-*Moved to their own page: [[Alteration Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -1501,8 +1494,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # MSD for Non-Sphere Abilities
 
 Some abilities on this site call for making MSB checks against a caster's MSD. A significant number of creatures with change shape and other similar polymorph abilities can be affected by these checks. If the polymorph effect targeted is from the Core Pathfinder Magic system, treat the MSD as the Caster Level + 11. If the effect is granted by a supernatural ability with no listed caster level, treat the creature's HD as their caster level, making their MSD equal to 11 + their HD.
@@ -1622,7 +1613,3 @@ Some creatures are difficult to model within the constraints of a single talent.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

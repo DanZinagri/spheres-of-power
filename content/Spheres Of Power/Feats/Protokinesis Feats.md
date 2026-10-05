@@ -329,7 +329,3 @@ These benefits lasts indefinitely. If you activate one of these benefits while a
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

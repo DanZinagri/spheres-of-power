@@ -1257,7 +1257,3 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

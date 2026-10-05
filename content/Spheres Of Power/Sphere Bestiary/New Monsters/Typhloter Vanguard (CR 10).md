@@ -64,5 +64,3 @@ CN Huge aberration
 **Environment** void space
 **Organization** solitary or pair
 **Treasure** none
-
----

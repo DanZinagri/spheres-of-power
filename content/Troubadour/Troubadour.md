@@ -610,7 +610,3 @@ This heavily-read handbook includes dozens of practical scenarios for aspiring a
 
 **Construction Requirements**
 Craft Apparatus, Mind sphere, creator must have the actor training class feature, creator must know the actor training added to this guide; **Cost** 5,000 gp
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -86,7 +86,3 @@ This alters the bonus feats a thaumaturge normally gains at 4th, 8th, 12th, 16th
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

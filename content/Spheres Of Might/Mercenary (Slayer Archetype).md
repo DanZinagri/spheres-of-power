@@ -67,5 +67,3 @@ This ability replaces improved quarry.
 </div>
 
 </div>
-
----

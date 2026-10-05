@@ -65,10 +65,6 @@ A character may gain an Accrual Point to retrain an Ability Score Increase, Arch
 
 ---
 
----
-
----
-
 ## Considerations for Accrual and Hero Points
 
 The following considerations and modifications can be made when deciding how Accrual Points and hero points are implemented in a campaign.

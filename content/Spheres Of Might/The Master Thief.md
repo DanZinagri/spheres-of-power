@@ -177,5 +177,3 @@ If you want to do well in offense *and* debuffs, invest in the Fencing Sphere. *
 Also, consider picking up the Scout sphere when you can. You're probably going to be sneaking around a lot, and it has many talents that can help you with that.
 
 Don't forget about all the free skill points you'll get over your first five levels.
-
----

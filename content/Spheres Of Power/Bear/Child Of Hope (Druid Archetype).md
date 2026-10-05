@@ -43,7 +43,3 @@ This replaces wild shape.
 While they must still spend a spell point and activate this talent to call an animal of a specific type to them, the talent’s effect of increasing the attitude of animals towards the child of hope is considered to always be in effect; all animals begin with an attitude improved by 1 step towards the child of hope. Animals can still have their attitude reduced to hostile and animal companions will always attack if directed by their master, but for the most part, wild animals will not attack the child of hope unless provoked.
 
 **Friend to All Animals:** At 20th level the child of hope gains a 2nd familiar. All animals have their starting attitude towards the child of hope increased by an additional step.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

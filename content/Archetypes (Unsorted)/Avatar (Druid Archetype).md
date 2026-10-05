@@ -99,7 +99,3 @@ At 20th level, once per day as a fullround action the avatar can call upon natur
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

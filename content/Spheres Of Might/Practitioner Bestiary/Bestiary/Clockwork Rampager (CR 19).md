@@ -55,5 +55,3 @@ Craft Construct, Gunsmithing (Ultimate Combat 103), animate objects, geas/quest,
 The clockwork rampager is similar to the clockwork goliath, in that both are enormous creations designed for destruction. The primary difference between them is that while a goliath is a construct like any other, a rampager makes use of necromancy in its creation to bind the spirit of a warrior to the construct to grant it combat knowledge as if it were alive.
 
 The clockwork rampager stands 45 feet tall, and weighs over 100 tons.
-
----

@@ -1092,7 +1092,3 @@ Moderate enchantment; CL 8th; Craft Staff, Life sphere, Fount of Life; Price +1 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

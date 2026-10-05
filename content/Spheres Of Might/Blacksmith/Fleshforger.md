@@ -134,7 +134,3 @@ The fleshforger may apply a second instance of the convenient limb maintenance t
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

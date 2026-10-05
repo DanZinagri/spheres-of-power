@@ -29,7 +29,3 @@ This ability replaces the elementalist’s bonus combat feats.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

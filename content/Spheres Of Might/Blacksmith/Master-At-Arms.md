@@ -49,5 +49,3 @@ This replaces rapid maintenance.
 #### Teamwork Tactics
 
 The master-at-arms gains the Warleader sphere as a bonus sphere. If the master-at-arms possesses any drawback that removes the ability to use (tactics), then this talent must be used to buy off that drawback. When the master-at-arms uses their teamwork training ability, the master-at-arms may choose a single (tactic) they know, sharing the benefits of that (tactic) with himself and each affected ally for the teamwork training ability’s duration. Affected allies are always treated as being within the range of the shared (tactic)’s effects so long as they can see and hear you.
-
----

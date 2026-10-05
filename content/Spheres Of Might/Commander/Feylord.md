@@ -51,7 +51,3 @@ If using the kingdom building rules found in Ultimate Campaign, the tunnelers ca
 If using the kingdom building rules found in Ultimate Campaign, the menehune can be called upon once per turn to reduce the BP cost of building a single structure by 2, +1 per 3 class levels beyond 7th level. This cannot reduce the cost of a structure below 1 BP.
 
 This modifies call in a specialist, replacing the specialist options.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

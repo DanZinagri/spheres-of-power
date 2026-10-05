@@ -513,13 +513,6 @@ If you possess Dimensional Lock, you may spend an additional spell point to use 
 
 ---
 
-# Warp Sphere Feats
-
-*Moved to their own page: [[Warp Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -747,7 +740,3 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

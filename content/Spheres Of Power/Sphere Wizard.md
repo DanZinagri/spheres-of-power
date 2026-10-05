@@ -73,7 +73,3 @@ This replaces the arcane school and arcane bond class features.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

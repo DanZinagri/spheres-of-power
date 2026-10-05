@@ -46,7 +46,3 @@ This replaces the material impositions at 3rd, 9th, and 15th levels as well as m
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

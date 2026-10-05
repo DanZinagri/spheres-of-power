@@ -205,5 +205,3 @@ At higher levels, the Vest of Surgery from Ultimate Equipment removes the need t
 # Playing The Veterinarian
 
 The veterinarian avoids getting into the thick of combat whenever possible, but instead 'handles' or 'pushes' her tamed animals via the Handle Animal skill to do the fighting for the character. The character can 'handle' an animal to do known tricks as a move action (DC 10), or 'push' a tamed animal as a full-round action (DC 25). She is an effective healer due to possessing the Salve (formulae) talent and the medical training class feature. When patching wounds outside of combat, be sure to use medical training first.
-
----

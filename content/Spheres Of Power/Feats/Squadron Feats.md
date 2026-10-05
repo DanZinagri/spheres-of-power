@@ -365,7 +365,3 @@ For the purpose of determining how many additional allies you may have in a squa
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

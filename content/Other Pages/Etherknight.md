@@ -1301,5 +1301,3 @@ Using a melee weapon you are wielding, make a ranged touch attack against a crea
 **Requires:** Etherknight 4
 
 Your next technique with a range of greater than personal performed this round has its range increased by +60 feet. Further, the radius of any effect it produces, if any, is increased by +5 feet.
-
----

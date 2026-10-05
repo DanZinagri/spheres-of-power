@@ -101,5 +101,3 @@ This template can be applied to any construct, adding the following properties:
 </div>
 
 </div>
-
----

@@ -38,7 +38,3 @@ As the purrsician grows in fame and skill, they begin to pick up new skills and 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

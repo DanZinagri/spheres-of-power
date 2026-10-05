@@ -99,8 +99,6 @@ At 10th tier, the aeon automatically rolls 20 on initiative rolls in fights agai
 
 ---
 
----
-
 ## Angel Path
 
 **Prerequisite:** Character must be Good
@@ -162,8 +160,6 @@ At 8th tier, angels can also select from the following options when gaining impr
 
 ---
 
----
-
 ## Azata Path
 
 **Prerequisites:** Character must be Neutral Good, Chaotic Good, or Chaotic Neutral
@@ -210,8 +206,6 @@ At 4th tier and every even tier thereafter, azata gain one of the superpowers fr
 ### Summon Havoc Dragon (Sp)
 
 At 9th tier, an azata can summon a wyrm havoc dragon (Bestiary 6) as a standard action once per day. This otherwise functions as summon monster IX.
-
----
 
 ---
 
@@ -280,8 +274,6 @@ At 8th tier, death knights can also select from the following options when gaini
 
 ---
 
----
-
 ## Demon Path
 
 **Prerequisite:** Character must be Evil or Chaotic
@@ -345,8 +337,6 @@ At 10th tier, demons gain a demon lord aspect. This aspect can be activated or d
 - **Aspect of Lust:** Once per demonic rage, the demon can use this ability as a free action to grant one ally all the benefits of the demon’s demonic rage, including the effects of the demon’s active minor aspects and major aspects, until the end of combat.
 - **Aspect of Riddles:** Any attack targeting the demon during their demonic rage has a 50% miss chance.
 - **Aspect of Sky:** The demon’s speeds increase by 30 feet during their demonic rage, and they gain one additional attack when making a full attack (this effect stacks with haste).
-
----
 
 ---
 

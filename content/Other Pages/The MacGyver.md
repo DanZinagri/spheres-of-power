@@ -234,7 +234,3 @@ Tinkers specialize in jury-rigging hazards from scraps. Be it explosives or trap
 - **Bonus Talents:** Equipment: Mechanical Training
 - **Barroom sphere**
 - **Variable:** Tinkers gain either the Alchemy sphere (formulae) package or the Trap sphere, and an additional talent from the chosen sphere.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

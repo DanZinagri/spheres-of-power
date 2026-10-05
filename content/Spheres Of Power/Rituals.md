@@ -1573,7 +1573,3 @@ Craft Rituals, Ritual Caster feat, Alteration sphere; **Cost** 4,350 gp.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -32,7 +32,3 @@ This replaces enhanced tactics.
 - **Circus Bear:** The bearon gains the service of a bear with expert levels, whose combined CR + class levels are equal to the bearon’s class level -3. This bear possesses a bonus to one Perform skill plus one other non-Intelligence skill of the bearon’s choice equal to the commander’s class level. The circus bear will not follow the commander into combat or dangerous locations, but otherwise will perform skill checks with its skills however the commander directs.
 - **Honey Bear:** The bearon gains the service of a bear that who will gather food from the wild on behalf of the bearon. This bear can provide food and shelter for up to 1 Medium humanoid per class level per day without slowing down the party’s movement. This bear can also forage for food while the party is engaged in other activities, providing them with sufficient food whenever they return to a pre-determined campsite where the honey bear is waiting.
 - **Silly Old Bear:** The bearon gains the service of a bear sage; this bear has an Intelligence of 10, speaks common, and has a bonus to all Knowledge checks equal to the commander’s class level. This bear can perform any Knowledge check on behalf of the commander, or can spend 5 days researching a single question (effectively taking 20 on that particular Knowledge check).
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

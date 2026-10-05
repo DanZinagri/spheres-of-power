@@ -38,7 +38,3 @@ At 7th level, the dream guide may assist its master by providing great insight a
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

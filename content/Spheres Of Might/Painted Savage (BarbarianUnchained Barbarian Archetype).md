@@ -38,5 +38,3 @@ This replaces rage, mighty rage, greater rage, and tireless rage.
 **Rage Powers (Ex):** A painted savage may spend 2 stamina points from her stamina pool when under the effect of mystical tattoos. This allows the painted savage to be treated as if under the effects of a rage, though she gains none of the other benefits or drawbacks of raging. This effect lasts for the remaining duration of the mystical tattoos effect. New instances of mystical tattoos will require additional stamina to be spent. Rage powers that require additional rage rounds may instead use 5 points from her stamina pool per required rage round. In addition, whenever the painted savage would gain a rage power from her class levels, she may instead gain a bonus talent from the Berserker sphere.
 
 This modifies rage powers.
-
----

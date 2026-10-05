@@ -219,7 +219,3 @@ Theurge feats are a new category of feat designed for characters who utilize mul
 ## [[Wild Magic Feats]]
 
 Feats that modify [[Wild Magic|wild magic]] chance for yourself or others or manipulate the result of a wild magic event carry the (Wild Magic) descriptor. Many wild magic feats have improved effects depending on the number of wild magic feats you possess.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

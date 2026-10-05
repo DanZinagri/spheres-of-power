@@ -663,5 +663,3 @@ This collection of straps, hooks, and general tools can help a warrior unleash n
 
 **Construction Requirements**
 Craft Apparatus, War sphere, creator must know the sphere specialization added to this item; **Cost** 7,500 gp
-
----

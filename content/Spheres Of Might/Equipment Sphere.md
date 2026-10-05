@@ -609,5 +609,3 @@ At +11 base attack bonus, you can also add bonus damage from class features, fea
 At +21 base attack bonus, the damage dealt to creatures in a chosen square increases to 2-times your Strength modifier and you can add any additional damage dice you would add to an attack with that weapon.
 
 On the first attack made each round with a non-light weapon wielded in two hands, increase your Strength bonus on damage rolls by an additional 1/2-times your Strength modifier, plus an additional 1/2-times at +11 base attack bonus and every 5 base attack bonus thereafter. **Associated Feat:** Improved Two Handed Fighting, Greater Two-Handed Fighting, Perfect Two Handed Fighting.
-
----

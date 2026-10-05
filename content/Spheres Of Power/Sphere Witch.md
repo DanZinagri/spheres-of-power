@@ -63,7 +63,3 @@ Agility (Enhancement), Ancestors (Divination), Animals (Nature), Death (Death), 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

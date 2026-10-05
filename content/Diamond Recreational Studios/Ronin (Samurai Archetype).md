@@ -39,5 +39,3 @@ This ability (both its 1st level and 3rd level effects) does not allow the ronin
 </div>
 
 </div>
-
----

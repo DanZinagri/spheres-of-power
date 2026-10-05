@@ -36,5 +36,3 @@ This alters resolve.
 </div>
 
 </div>
-
----

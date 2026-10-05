@@ -47,7 +47,3 @@ Beginning at 3rd level, once per day the psyforensic may spend an hour to enter 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

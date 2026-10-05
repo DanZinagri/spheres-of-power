@@ -286,7 +286,3 @@ Unstable shadowstuff, when shaped, behaves in all ways as stable shadowstuff exc
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

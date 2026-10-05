@@ -161,8 +161,6 @@ At level 20, the fey adept can make one of his illusions permanent. Only one ill
 
 ---
 
----
-
 # Favored Class Bonuses
 
 **Aasimar:** Gain +1/6 of an additional use of truesight per day.
@@ -727,7 +725,3 @@ Guide: M = Modifies, X = Replaces, Blank = No Change
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

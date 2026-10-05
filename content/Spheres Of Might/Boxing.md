@@ -261,5 +261,3 @@ While in this stance, as part of readying a counterpunch, you may attempt an Acr
 In addition, while in this stance, the effective reach granted by the Gazelle Punch talent increases an additional +5 feet + 5 feet per 5 base attack bonus you possess (up to your speed).
 
 **Example:** While in this stance, you ready a counterpunch and roll an Acrobatics check to jump. With a result of 31, you jump up to 20 feet; this jump does not count against your normal movement, and you could have moved normally before readying the counterpunch and making this jump.
-
----

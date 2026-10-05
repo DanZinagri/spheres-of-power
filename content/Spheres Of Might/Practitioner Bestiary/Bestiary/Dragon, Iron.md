@@ -412,5 +412,3 @@ N Colossal Dragon
 **Talents** Berserker (Beat Down, Bone-Breaker, Deathless,Greater Sunder, Leg-Smasher, Rending Claws, Shieldbreaker), Brute (Earthquake Stomp, Focused Might, Follow-Through, Greater Brute, Greater Shove, Stampede, Unstoppable, Wing Buffet), Equipment (Unarmed Training), Lancer (Gore Toss), Open Hand, Shield (Deflecting Shield, Flexible Cover, Protective Tail, Redirecting Shield)
 **Skills** Bluff +37, Diplomacy +37), Fly +22, Intimidate +37, Knowledge (history) +37, Knowledge (local) +37, Perception +37, Stealth +29, Sense Motive +37, Survival +37, Swim +48, Use Magic Device +37
 **Languages** Common, Cyclops, Draconic, Dwarven, Elvish, Giant, Goblin, Halfling, Undercommon
-
----

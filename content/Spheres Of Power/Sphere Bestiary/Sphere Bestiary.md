@@ -1953,7 +1953,3 @@ The typhloter vanguard is a gargantuan floating orb with barbed tendrils that ha
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

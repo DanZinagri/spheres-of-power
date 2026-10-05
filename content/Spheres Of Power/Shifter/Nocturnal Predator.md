@@ -77,7 +77,3 @@ This replaces wild empathy, steal language, boundless communication, and endless
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

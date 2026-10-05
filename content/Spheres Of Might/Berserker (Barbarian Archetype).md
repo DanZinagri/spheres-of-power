@@ -17,5 +17,3 @@ This modifies weapon and armor proficiencies.
 **Combat Training (Ex):** A berserker is considered a Proficient practitioner, gaining spheres and talents as appropriate. Berserkers use Charisma as their practitioner modifier. This ability replaces the rage powers gained at 2nd, 6th, 10th, 14th, and 18th level.
 
 **Berserker:** Berserkers gain the [[Berserker]] sphere as a bonus sphere at 1st level; if the berserker already possesses this sphere, he may instead select any talent he qualifies for from it. Whenever the berserker uses his brutal strike ability, he may sacrifice 3 of his daily rounds of rage to add 1 additional (exertion) talent to the attack.
-
----

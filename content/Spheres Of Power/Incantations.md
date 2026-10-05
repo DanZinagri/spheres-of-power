@@ -1748,7 +1748,3 @@ If the target was an object, the creature (other than one of the performers) tha
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

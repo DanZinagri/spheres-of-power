@@ -561,10 +561,6 @@ From channeling the power of the universe into ethereal blasts to composing magi
 
 ---
 
-
-
----
-
 ## [[Other Options]]
 
 **About:** This section contains class options, new choices, and other material too small to deserve its own section, but too numerous to be put on the front page. Come in and take a look - you never know what interesting new rules you'll find next.

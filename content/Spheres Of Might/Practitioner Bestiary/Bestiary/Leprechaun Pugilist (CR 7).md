@@ -50,5 +50,3 @@ When violence is required, the leprechaun begins by stealing critical items usin
 **Treasure** standard (other treasure)
 
 Some leprechauns devote themselves to the noble art of pugilism, fighting exclusively with their fists. Despite their diminutive stature, these scrappy warriors pack a serious wallop.
-
----

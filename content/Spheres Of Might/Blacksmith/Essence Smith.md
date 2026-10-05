@@ -90,7 +90,3 @@ The essence smith gains Potent Alteration from the Creation sphere, or another t
 #### Supreme Artificer
 
 When using a Craft or Profession skill with the Master Artificer ability to create a magic item, the essence smith may craft that magic item whether or not he possesses its prerequisite base sphere. Crafting a magic item in this fashion increases the skill check required to make the item by +5.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

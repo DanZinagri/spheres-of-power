@@ -25,5 +25,3 @@ parent: "[[Sage]]"
 | 5 | Esotery at every odd-numbered level |
 
 This replaces the style talents gained at 1st, 7th, 13th, and 19th levels.
-
----

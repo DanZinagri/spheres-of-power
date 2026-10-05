@@ -210,5 +210,3 @@ Soups in come in a large variety, but two stand out as highland dishes: Cullen s
 **Price**1 sp (cup), 2 gp (bottle);**Weight** 1/2 lbs (cup), 8 lbs. (bottle)
 
 Whiskey is a distilled alcoholic beverage made from fermented grain mash (typically barley, corn, malt, rye, or wheat) aged in a wooden cask. The longer the drink ages in the cask, the smoother the final product. Each bottle contains upto 17 servings of whiskey, usually referred to as a shot or jigger.
-
----

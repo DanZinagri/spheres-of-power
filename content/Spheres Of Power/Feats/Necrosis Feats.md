@@ -215,7 +215,3 @@ If your new hit point total is greater than a negative amount equal to your Cons
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -85,7 +85,3 @@ This modifies ki pool and ki power.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

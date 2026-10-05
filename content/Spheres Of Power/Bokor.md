@@ -169,7 +169,3 @@ At 10th level, a bokor may combine a spell with a sphere ability, using both wit
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

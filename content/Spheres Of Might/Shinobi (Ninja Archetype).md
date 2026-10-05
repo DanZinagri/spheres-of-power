@@ -21,5 +21,3 @@ This replaces the ninja tricks gained at 2nd, 6th, 10th, 14th, and 18th level.
 **Shadow of Body and Spirit:** At 1st level the shinobi gains the [[Alchemy]] and [[Scout]] spheres as bonus spheres. If she already possesses one or both of these spheres, she may instead choose any talent she qualifies for from the corresponding sphere.
 
 This replaces the poison use class feature.
-
----

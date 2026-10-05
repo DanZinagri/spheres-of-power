@@ -48,5 +48,3 @@ This replaces solo tactics, and the teamwork feats gained at 3rd, 6th, 9th, 12th
 </div>
 
 </div>
-
----

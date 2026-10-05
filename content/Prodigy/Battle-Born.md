@@ -35,5 +35,3 @@ This alters adaptation, improved adaptation, greater adaptation, share adaptatio
 **Naturally Variable Skill:** At 11th level, a number of times per day equal to her practitioner ability modifier, the battle-born may spend a full-round action to change the skill selected for steady skill. The prodigy does not gain additional uses of her ability to take 15 when switching skills.
 
 This alters variable skill.
-
----

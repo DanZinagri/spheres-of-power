@@ -48,5 +48,3 @@ The bloodletter demon cares little for tactics, charging ahead and laying into i
 A less powerful cousin to the marilith, bloodletter demons lack their distaff counterpart’s leadership and tactical abilities, instead reveling in slaughter and bloodshed.
 
 A bloodletter demon stands 6 to 9 feet tall and measures 20 feet from head to tail tip. It weighs 4,000 pounds. Extremely violent and blood-drenched warriors’ souls can trigger the manifestation of a bloodletter.
-
----

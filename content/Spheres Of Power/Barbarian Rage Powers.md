@@ -20,8 +20,6 @@ The following are new barbarian rage powers.
 
 ---
 
----
-
 #### Astral Totem (Su) [RW HB]
 
 While raging, the barbarian calls to their perfect self beyond the astral veil as an extension of their true self.
@@ -116,7 +114,3 @@ Choose three (mantle) talents. While raging in appropriate weather, the barbaria
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

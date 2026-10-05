@@ -101,5 +101,3 @@ This ability alters implement mastery.
 </div>
 
 </div>
-
----

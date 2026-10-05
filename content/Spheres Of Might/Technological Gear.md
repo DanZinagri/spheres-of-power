@@ -181,5 +181,3 @@ If carrying more than 20 lbs. (but less than 30) the toy is only capable of “r
 **Time** 1 day
 **Tools** engineer’s kit
 **Type** gear (toy)
-
----

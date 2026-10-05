@@ -53,5 +53,3 @@ This replaces see in darkness and feytouched.
 </div>
 
 </div>
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

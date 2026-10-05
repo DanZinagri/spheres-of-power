@@ -99,7 +99,3 @@ Whenever the confluence deals damage to a creature using his chi gong ability, h
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

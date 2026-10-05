@@ -149,5 +149,3 @@ There are several changes between Starfinder and Pathfinder that affect the use 
 ### Wrestling Sphere
 
 - Remove the Iron Grip talent.
-
----

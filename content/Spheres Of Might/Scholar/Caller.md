@@ -29,7 +29,3 @@ This replaces the advanced medical training.
 **Master Bargainer (Ex):** At 9th level, the caller reduces the time required to use her Calling ability to 10 minutes.
 
 This replaces the expert medical training.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

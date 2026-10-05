@@ -1063,7 +1063,3 @@ When you rest to regain spell points, you may designate a single sphere effect a
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

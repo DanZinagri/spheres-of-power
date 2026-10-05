@@ -22,8 +22,6 @@ An alchemist may only apply a single mutagen improvement to a mutagen, chosen ea
 
 ---
 
----
-
 #### Alchemical Synthesis (requires alchemist 6)
 
 The alchemist may spend a spell point to spontaneously create a bomb. This is a free action. If he has any other class features that require the use of bombs, the expenditure of bombs may be substituted with an equal amount of spell points instead. This does not give him the bombs class feature if he does not possess it.
@@ -183,7 +181,3 @@ Once per day as a free action, you may choose an Alteration talent you do not po
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

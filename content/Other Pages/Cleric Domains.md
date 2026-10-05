@@ -114,7 +114,3 @@ A character with the nobility domain may exchange the Leadership feat for the [[
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -38,7 +38,3 @@ At 5th level, the honorbound gains the Heraldry Warleader talent as a bonus tale
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

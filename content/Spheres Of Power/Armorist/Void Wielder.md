@@ -83,7 +83,3 @@ While the soul is in your possession, you may speak with and question the soul, 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

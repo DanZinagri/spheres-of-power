@@ -69,5 +69,3 @@ This replaces the bonus feat gained at 12th level.
 </div>
 
 </div>
-
----

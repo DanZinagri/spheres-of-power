@@ -119,7 +119,3 @@ You may make ranged attacks with a wielded foe, treating them as a thrown weapon
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

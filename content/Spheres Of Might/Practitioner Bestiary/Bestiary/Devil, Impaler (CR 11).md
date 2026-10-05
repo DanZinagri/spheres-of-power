@@ -50,5 +50,3 @@ Impaler devils attack from stealth as often as possible, sizing their targets up
 Impaler devils are not a different species of devil from the barbed devils (Hamatula), but instead are a different culture. While the details of devil culture are lost on many (even those who summon them), it is understood that while barbed devils enforce the structures of hell and serve as jailers, impaler devils serve more as hunters, seeking those who would escape the punishments hell has the right to inflict on them, including lost souls and wizards with contingency plans.
 
 Impaler devils are experts at stealth and acrobatics, stalking their prey silently before charging in at their unaware targets. Impaler devils appear similar to barbed devils, standing upward of 7 feet tall and weighing 300 pounds, though their leanly muscled bodies appear much larger due to the constantly growing and adjusting spines that protrude from their razor-sharp bodies.
-
----

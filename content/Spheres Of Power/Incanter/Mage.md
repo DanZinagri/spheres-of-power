@@ -183,7 +183,3 @@ Guild powers are identical to the specialization abilities offered in the Incant
 **Lesser:** Wind Servant
 **Greater:** Cloak of the Elements
 **Master:** Climate
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

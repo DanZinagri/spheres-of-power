@@ -75,7 +75,3 @@ Gain the extra magic talent feat. You must meet the feat’s prerequisites. You 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

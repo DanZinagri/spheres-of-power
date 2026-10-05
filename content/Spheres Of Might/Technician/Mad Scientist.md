@@ -76,5 +76,3 @@ Prerequisite: A body’s worth of humanoid corpse pieces, with a brain that has 
 *Shrink Ray:* As a standard action, the wielder may make a ranged touch attack against a creature. If successful, the target must pass a Fortitude save or shrink by 1 size category, plus up to 1 additional size category at 5th level and every 4 levels thereafter, suffering a -2 penalty to Strength but gaining a +2 bonus to Dexterity per size category. This penalty lasts 1 minute per technician level. Allies may always choose to fail this saving throw. This ability is usable 3 times per day. This is considered a ranged weapon with a range increment of 30 ft.
 
 This replaces trap specialist, trapfinding, danger sense, trap insight, trap master, greater trapmaster, supreme trapmaster, and perfect trapmaster.
-
----

@@ -105,5 +105,3 @@ The following progression can be used by any character with the casting, blended
 | 18th | 14 | 9 | 9 | 9 | 4 | 9 |
 | 19th | 15 | 9 | 9 | 10 | 4 | 10 |
 | 20th | 15 | 10 | 10 | 10 | 5 | 10 |
-
----

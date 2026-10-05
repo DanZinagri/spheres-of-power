@@ -1206,5 +1206,3 @@ This slender monocle hooks over one ear to stay in place without problems. As a 
 
 **Construction Requirements**
 Craft Marvelous Item, Divination sphere; **Cost** 1,000 gp
-
----

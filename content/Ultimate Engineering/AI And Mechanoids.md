@@ -598,5 +598,3 @@ You may adjust a rudimentary body’s size if you possess the appropriate talent
 </div>
 
 </div>
-
----

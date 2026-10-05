@@ -77,7 +77,3 @@ Wailing Cleave: When the dread crusader successfully strikes a foe with a Crypti
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

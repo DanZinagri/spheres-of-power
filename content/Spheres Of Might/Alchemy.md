@@ -861,7 +861,3 @@ You may expend martial focus when creating a poison to create a curse poison. A 
 ## Note: Crafting Alchemical Items
 
 The Inventor's Handbook 2 introduced new feats for crafting alchemical items and formulae. These are not part of the 'core' Spheres of Might rules, but if your table wants to use them, you can find the relevant feats on the [[Tech]] page.
-
----
-
----

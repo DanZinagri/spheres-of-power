@@ -154,5 +154,3 @@ If a character possesses multiple Tinker traditions, bonus talents granted by th
 </div>
 
 </div>
-
----

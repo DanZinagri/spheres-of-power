@@ -165,5 +165,3 @@ For the full rules on associated feats and associated skills, see [[Using Sphere
 | Sleight of Hand | [[Scoundrel]] (Base) |
 | Stealth | [[Scout]] (Base) |
 | Swim | [[Athletics]] (Swim package) |
-
----

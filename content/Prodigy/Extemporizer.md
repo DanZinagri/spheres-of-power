@@ -9,5 +9,3 @@ parent: "[[Prodigy]]"
 **Improvised Technique (Ex):** An extemporizer knows how to synthesize complex magical and martial techniques on the fly. As a free action during a sequence, the extemporizer may create a technique using any talents and techniques that she knows or that she has gained through class features such as adaptation. The extemporizer does not need to attempt a check to create this technique, but cannot perform it normally. Rather, she may initiate this improvised technique as a finisher for the sequence. The complexity of an improvised technique cannot exceed the length of the sequence. However, for every link by which the length of the sequence exceeds the technique’s complexity, the technique’s complexity is reduced by 1 for the purpose of initiation. An improvised technique cannot be performed as a multi-character technique but does not count against the extemporizer’s maximum number of techniques known.
 
 This ability replaces the normal finishers a prodigy can perform. The extemporizer can still perform finishers gained from other class features such as imbue sequence.
-
----

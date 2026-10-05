@@ -25,7 +25,3 @@ This replaces the esotery normally gained at 6th level.
 **Final Form:** At 20th level, the battleshifter must choose physical perfection as his signature technique. In addition, whenever the battleshifter targets himself with an effect from the Alteration or Enhancement spheres, it is considered an extraordinary ability instead of a magical effect. This means it does not provoke an attack of opportunity, cannot be dispelled or countered, and can be used within an antimagic field.
 
 This replaces the esotery normally gained at 20th level.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

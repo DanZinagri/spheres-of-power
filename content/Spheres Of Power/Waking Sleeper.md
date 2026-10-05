@@ -160,7 +160,3 @@ At level 5, the waking sleeper gains incredible control of her combat techniques
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

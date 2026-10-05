@@ -80,7 +80,3 @@ This replaces tracking and swift tracking.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

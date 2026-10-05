@@ -78,5 +78,3 @@ While a GM can create their own mappings, below are some suggestions for some sp
 </div>
 
 </div>
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

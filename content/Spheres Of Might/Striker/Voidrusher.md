@@ -220,5 +220,3 @@ Whenever the avatar would be granted an action through its summoner’s class fe
 </div>
 
 </div>
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -134,7 +134,3 @@ Proxy Talent Crystals are an excellent resource for expanding a character’s op
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -183,7 +183,3 @@ Additionally, as a full-round action, your companion may render a creature that 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

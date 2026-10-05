@@ -37,5 +37,3 @@ This replaces swashbuckler finesse.
 </div>
 
 </div>
-
----

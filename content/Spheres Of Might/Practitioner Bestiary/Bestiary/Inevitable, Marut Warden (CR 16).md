@@ -49,5 +49,3 @@ Marut wardens make use of their active defense and Guardian sphere packages libe
 **Treasure** none (full plate, heavy steel shield)
 
 Like all marut, a marut warden is an enormous creature built of onyx and empowered by lightning and thunder. However, where most marut warriors seek out those who try to extend their lives and eliminate them, the marut warden is a guardian, barring the gates of those methods that would allow a mortal to attain immortality so that none may enter. Marut wardens can be found throughout the planes, keeping the gates of fountains of youth, powerful planar paths that lead to the granting of wishes, and other powers that no mortal was ever meant to touch. For many marut wardens, they feel no need to stop only at methods for extending life, as many routes to power, even if they do not lead to immortality, are just as corrupting.
-
----

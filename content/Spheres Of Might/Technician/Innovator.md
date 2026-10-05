@@ -33,5 +33,3 @@ This replaces the magical trap function of trapmaster.
 </div>
 
 </div>
-
----

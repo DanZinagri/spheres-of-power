@@ -21,5 +21,3 @@ This ability replaces the instance of studied target gained at 1st level, the sn
 **Assassin’s Eye:** At 1st level, the guild assassin gains the [[Scout]] sphere as a bonus sphere. If he already possesses the Scout sphere, he may instead select any talent he qualifies for from that sphere.
 
 This replaces track.
-
----

@@ -27,7 +27,3 @@ This replaces the style talents normally gained at 3rd and 9th level.
 In addition, the wand master gains CounterspellSoP as a bonus feat.
 
 This replaces the esotery normally gained at 4th level.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

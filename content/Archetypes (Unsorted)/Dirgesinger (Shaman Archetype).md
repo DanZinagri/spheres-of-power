@@ -80,7 +80,3 @@ This replaces the hexes gained at 2nd, 10th, and 18th level, and the wandering h
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

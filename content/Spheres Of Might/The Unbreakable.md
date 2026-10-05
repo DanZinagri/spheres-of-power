@@ -137,5 +137,3 @@ You are proficient with all armor and should move up to heavy armor when you get
 A magic shield is extremely helpful for you since you'll raise your accuracy, damage, and AC at the same time. Permanent is preferred, but you can also get it temporarily from allies with the Enhancement sphere. If you _really_ want to get creative, the Craft Rod feat in Spheres of Power could allow you to imbue your shield with a command word trigger to enhance itself. However, a permanent boost really is better (not to mention simpler).
 
 Stat buffs for your primary abilities (Constitution, Wisdom, and Strength) are highly desirable. In the early game, better Wisdom and Strength are more important than Constitution - you're so tough that you won't actually need better Constitution for a while.
-
----

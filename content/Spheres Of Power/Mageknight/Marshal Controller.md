@@ -144,7 +144,3 @@ Response Time: Whenever you use your patrol ability, you gain a +30 ft. enhancem
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

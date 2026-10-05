@@ -193,7 +193,3 @@ When you enter Aristeia, you gain temporary hit points equal to your character l
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

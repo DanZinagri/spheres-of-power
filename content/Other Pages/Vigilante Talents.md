@@ -508,7 +508,3 @@ The vigilante gains the ability to completely erase their vigilante identity. Ov
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

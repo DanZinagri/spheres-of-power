@@ -145,5 +145,3 @@ Some Martial Packages are marked [Support]. These Packages increase the creature
 * **Journeyman Talents:** 11: , 12: , 13: , 14: , 15:
 * **Master Talents:** 16: , 17: , 18: , 19: , 20:
 ```
-
----

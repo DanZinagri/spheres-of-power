@@ -67,5 +67,3 @@ This ability replaces perfect trapmaster.
 </div>
 
 </div>
-
----

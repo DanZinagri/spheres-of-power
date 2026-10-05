@@ -111,7 +111,3 @@ Choose any eliciter emotion. You may use the first ability of the emotion using 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

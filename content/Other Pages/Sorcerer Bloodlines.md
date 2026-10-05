@@ -92,7 +92,3 @@ At some point within your family’s ancestry, a member was most likely the sour
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -61,5 +61,3 @@ This discovery may be taken multiple times; each time, the alchemist may have 1 
 </div>
 
 </div>
-
----

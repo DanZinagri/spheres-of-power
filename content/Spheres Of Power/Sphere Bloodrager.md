@@ -69,7 +69,3 @@ This replaces the spells class feature, the Eschew Materials feat, and all blood
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

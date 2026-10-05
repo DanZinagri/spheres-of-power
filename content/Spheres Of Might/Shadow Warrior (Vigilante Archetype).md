@@ -17,5 +17,3 @@ This modifies weapon and armor proficiencies.
 **Combat Training (Ex):** A shadow warrior is considered an Adept practitioner, gaining spheres and talents as appropriate. Shadow warriors use Charisma as their practitioner modifier. This replaces the vigilante specialization class feature.
 
 **Night’s True Warrior:** Whenever the shadow warrior gains a new vigilante talent, he may select from talents normally restricted to the avenger vigilante specialization, as long as he meets all other prerequisites.
-
----

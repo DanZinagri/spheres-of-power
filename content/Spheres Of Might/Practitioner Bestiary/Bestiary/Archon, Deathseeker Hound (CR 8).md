@@ -47,5 +47,3 @@ Deathseekers will stalk a foe before striking, ensuring that the enemy won’t l
 **Treasure** standard (mwk greatsword, other treasure)
 
 The eternal vigilance and endless wars required to protect the higher planes from those below are enough to break some hound archons, causing some to lose their will to fight or even to fall. When a hound archon feels this point growing near, it will often seek out the forces of evil in a final blaze of glory. These battle scarred veterans throw themselves unceasingly against the forces of evil, stalking down demons, devils, and other forces of evil and spending just enough time to identify their foe’s weaknesses before engaging them in battle.
-
----

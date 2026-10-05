@@ -773,7 +773,3 @@ You may not resume concentrating on an ability once you stop concentrating on it
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

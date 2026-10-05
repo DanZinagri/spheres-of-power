@@ -42,5 +42,3 @@ Hobgoblin phalanx fighters will begin the Aggressive Flanking tactic granted by 
 **Treasure** NPC gear (studded leather armor, light steel shield, longspear, longbow with 20 arrows, other treasure)
 
 Hobgoblin phalanx fighters form the backbone of most hobgoblin armies. Trained in the use of spear and shield, these warriors master the use of phalanxes and similar formations to shred enemy formations, guarding each other from attacks while keeping enemies at a safe distance.
-
----

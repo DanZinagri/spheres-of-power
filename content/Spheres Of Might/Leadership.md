@@ -682,7 +682,3 @@ A troop is never staggered or reduced to a dying state by damage.
 **Troop Attack:** Creatures with the troop subtype don’t make standard melee attacks. Instead, they deal automatic damage to any creature within reach or whose space they occupy at the end of their move, with no attack roll needed. A troop’s stat block has “troop” in its Melee entry with no attack bonus given. The amount of damage a troop deals is based on its Hit Dice. Unless stated otherwise, a troop’s attacks are non-magical. Damage reduction sufficient to reduce a troop attack’s damage to 0 or other special abilities can give a creature immunity (or at least resistance) to the troop’s attacks. Some troops also have other special attacks in addition to normal damage. Troops threaten all creatures within their reach or within their area, and attempt attacks of opportunity as normal with their troop attack.
 
 **Chaos of Combat:** Because of the chaos of combat, spellcasting or concentrating on spells within the area of a troop or within its reach requires a caster level check (DC 20 + spell level). Using skills that involve patience and concentration requires a successful DC 20 Will save.
-
----
-
----

@@ -27,7 +27,3 @@ This replaces flexible truth.
 - **Trained Monkey:** The ringmaster gains a familiar as the wizard class feature, treating half his troubadour levels as wizard levels (minimum 1).
 - **Greater Tactician (requires ringmaster 10):** The ringmaster gains greater tactician, as the cavalier class feature.
 - **Master Tactician (requires ringmaster 10, greater tactician):** The ringmaster gains master tactician, as the cavalier class feature.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

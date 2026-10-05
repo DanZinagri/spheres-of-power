@@ -93,7 +93,3 @@ The powers of the beyond are sufficient to appease the bound force within.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

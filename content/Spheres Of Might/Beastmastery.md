@@ -455,7 +455,3 @@ While as written this works, GMs should review whether they want a character to 
 - **1: Improved Bond:** By forgoing one of the additional companions, the character chooses one teamwork feat he qualifies for. Both the character and his companion gain this teamwork feat; the companion may use and benefit from this teamwork feat even if it would not normally meet the prerequisites. This teamwork feat can be rechosen after 8 hours of rest.
 - **2: Refund:** "Refund" the character's class feature granting the extra companion by granting them one or two bonus Beastmastery sphere talents when they would gain the second companion. For example, a sacred huntsmaster inqiusitor choosing the chivalry domain could gain a bonus Beastmastery sphere talent or other thematically appropriate talent as a substitute to the extra horse they would otherwise have.
 - **3: Retraining or Different Choices:** Either through retraining or GM permission, the character may reselect one of their companion-granting abilities, retraining it to a different and more appropriate option.
-
----
-
----

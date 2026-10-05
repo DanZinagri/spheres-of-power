@@ -21,5 +21,3 @@ This replaces the rogue talents gained at 4th, 8th, 12th, 16th, and 20th level.
 **Keen Blades, Keen Eyes, and Keen Wits:** At 1st level the canny scoundrel gains the [[Scoundrel]] and [[Scout]] spheres as bonus spheres, as well as Finesse Fighting from the [[Equipment Sphere|Equipment sphere]], even if she would not normally qualify for it. If she already possesses one or more of these spheres, she may instead choose any talent she qualifies for from the corresponding sphere.
 
 This replaces trapfinding.
-
----

@@ -321,7 +321,3 @@ Whenever you do precision damage to a creature, until the end of your next turn 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

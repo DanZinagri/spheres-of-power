@@ -118,8 +118,6 @@ Even using the major event rules, no sphere effect may have a wild magic chance 
 
 ---
 
----
-
 # Universal Wild Magic
 
 Universal wild magic can be triggered by a variety of effects, such as class abilities, when no base sphere is involved. They're also suitable for more generic effects that don't lean towards any particular sphere (such as raw chaos or pure magic going haywire).
@@ -141,10 +139,6 @@ Effects from this table can be triggered as described in the 'Wild Magic and Can
 Major Events are optional in games using Wild Magic. This table includes effects that are significantly more powerful than most results from the other tables. Unlike the Universal and Cantrip tables, these are not as suitable to impose as frequent environmental effects (except in extreme regions) because of the frequency of deadly and permanently character-altering effects.
 
 *Roll on the [Major Events table](#wm-major-events) in Wild Magic Tables below.*
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book
 
 ---
 

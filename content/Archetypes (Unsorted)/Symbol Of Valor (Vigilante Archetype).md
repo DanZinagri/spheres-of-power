@@ -90,5 +90,3 @@ Whenever the symbol of valor gains a new vigilante talent, he may select from ta
 </div>
 
 </div>
-
----

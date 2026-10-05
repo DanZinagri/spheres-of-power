@@ -157,5 +157,3 @@ Your long history of raiding and battle has left your body scarred and visually 
 #### Technophile (social)
 
 You gain a +2 trait bonus to all Craft (mechanical) checks you make; your charge pool’s maximum size increases by 2 (if you possess one).
-
----

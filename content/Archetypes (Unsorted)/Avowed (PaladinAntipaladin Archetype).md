@@ -256,7 +256,3 @@ Zealous and true, those under a pledge of purity are purely against everything u
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

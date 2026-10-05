@@ -1697,7 +1697,3 @@ Craft Apparatus, Dazing Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal), 3
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

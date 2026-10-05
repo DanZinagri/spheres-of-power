@@ -123,7 +123,3 @@ Your unseen force has a maximum volume equal to one normal human per thaumaturge
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

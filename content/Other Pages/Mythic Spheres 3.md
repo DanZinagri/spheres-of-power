@@ -544,7 +544,3 @@ The Undetectable ability for Legendary Items prevents invisible players from bei
 **Alternative Rule #2:** Replace the effects of Undetectable with the following: Creatures using unusual forms of sensory perception such as blindsight, greensight, or tremorsense cannot automatically foil your use of Stealth; such creatures must make a Perception check as normal to detect you when you make use of the Stealth skill. Against divination spells and Divination sphere sense abilities, including those from spell, sphere, spell-like, or supernatural abilities specifically used to uncover information about you rather than enhancing the user’s perception (such as when scrying or using the Divination sphere‘s divine abilities), creatures must succeed on a caster level check against a DC of 6 + your levels in casting classes + your tier.
 [[/tab]]
 [[/tabview]]
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

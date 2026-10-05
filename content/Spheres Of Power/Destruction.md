@@ -677,13 +677,6 @@ When using Admixture in conjunction with this talent to fire a blast salvo in wh
 
 ---
 
-# Destruction Sphere Feats
-
-*Moved to their own page: [[Destruction Sphere Feats]].*
-
-
----
-
 # Admixture Feats
 
 Admixture feats grant new ways to utilize the Admixture talent (from the Destruction sphere), adding abilities from other spheres to your destructive blast. All admixture feats replace the second blast talent you would normally apply, with the resulting destructive blast dealing normal blast damage in addition to the effect outlined in the feat. Any additional costs incurred by the additional effect must be paid as normal. If your caster level is different for the two spheres, the destructive blast is governed by your caster level for the relevant blast type and the additional effect is governed by your caster level for the appropriate ability.
@@ -1423,7 +1416,3 @@ Some effects, especially those that deny standard actions such as nauseated, daz
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

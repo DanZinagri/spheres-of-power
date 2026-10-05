@@ -51,7 +51,3 @@ At 20th level, archmage can have multiple students at a time, up to a number equ
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

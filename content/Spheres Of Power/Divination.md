@@ -724,13 +724,6 @@ You may spend 3 spell points to gain a special sense that grants the ability to 
 
 ---
 
-# Divination Sphere Feats
-
-*Moved to their own page: [[Divination Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -1235,7 +1228,3 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

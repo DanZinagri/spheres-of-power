@@ -42,7 +42,3 @@ The soulknife chooses a single piece of psibertech. She gains that piece’s bas
 | Gravity rifle, monowhip | +5 |
 | Nuclear resonator | +6 |
 | Death ray, vortex gun | +8 |
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

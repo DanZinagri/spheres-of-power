@@ -87,7 +87,3 @@ The void gazer loses access to the channel punishment, empowered defense, empowe
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

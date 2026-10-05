@@ -280,24 +280,6 @@ The feats in this section were printed as part of the 3rd party Arcforge Players
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 </div>
 
 </div>

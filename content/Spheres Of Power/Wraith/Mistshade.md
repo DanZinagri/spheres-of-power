@@ -43,7 +43,3 @@ This replaces wraith form, but any feat, haunt, or other ability that would affe
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

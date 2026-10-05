@@ -31,5 +31,3 @@ At 16th level, the empathic link is no longer suppressed so long as the target c
 At 19th level, the empathic link functions even across planar boundaries and knows what plane the target is currently on, though must be on the same plane to sense direction and distance.
 
 This replaces hypnotism.
-
----

@@ -61,5 +61,3 @@ This replaces occult knowledge.
 This replaces bonus feats.
 
 **Masterful Insights (Ex):** At 20th level, the savant selects two insights other than rebuke death; he may use these insights at will without using one of his insights per day.
-
----

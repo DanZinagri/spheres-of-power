@@ -575,7 +575,3 @@ If the primeval is bloodcrazed when using this ability, the primeval treats the 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

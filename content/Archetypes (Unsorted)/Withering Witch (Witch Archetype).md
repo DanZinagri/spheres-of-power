@@ -211,7 +211,3 @@ When an adjacent ally uses a sphere ability, you may spend an immediate action t
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

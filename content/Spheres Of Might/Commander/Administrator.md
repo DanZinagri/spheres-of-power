@@ -53,5 +53,3 @@ In place of any number of instances of battlefield specialist and logistic speci
 </div>
 
 </div>
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

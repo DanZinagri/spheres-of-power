@@ -55,7 +55,3 @@ This replaces the arcanist exploit gained at 5th level.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

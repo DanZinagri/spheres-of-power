@@ -1234,7 +1234,3 @@ You have acquired many varied skills, enabling you to pick up more advanced tact
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

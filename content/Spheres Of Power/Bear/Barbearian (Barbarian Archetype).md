@@ -31,7 +31,3 @@ This modifies tireless rage.
 **Greater Ursine Fury:** At 20th level, the bonus the barbearian gains from their ursine fury increases to +2.
 
 This replaces mighty rage.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

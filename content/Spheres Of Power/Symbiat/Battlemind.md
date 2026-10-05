@@ -27,7 +27,3 @@ This replaces battlefield sense.
 **Commanding Mind Link:** At 2nd level, creatures under the effects of the battlemind’s mind link count as his cohorts for the purpose of interacting with (cohort) talents, though do not count against the cohort Hit Dice limit. This does not allow you to make permanent changes, such as through the Drill Sergeant talent.
 
 This replaces ESP.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

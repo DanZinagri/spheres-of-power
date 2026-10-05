@@ -277,7 +277,3 @@ The descendant of a satyr, you sport short horns, cloven feet, and a love for na
 **Skills** Concentrate on your healing and diplomacy abilities; put some ranks in Perform (sing) to better cast spells without being noticed as part of your performance. Appraise and Disguise are useful too.
 
 Use the alternate class bonus for Elf, Half-Elf, or Human (or a mix of the three) to gain more magic, martial, and social talents. Increase your companion’s Dexterity to make it a giant old soft ball of fur of unsuspected speed and agility, and give it Alertness to compensate for its missing animal senses, and maybe Extra Combat Talent for some wrestling ability.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

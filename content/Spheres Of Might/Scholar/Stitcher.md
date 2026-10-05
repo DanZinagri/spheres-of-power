@@ -89,7 +89,3 @@ In addition, whenever the stitcher prepares a corpse and augments it with trade 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

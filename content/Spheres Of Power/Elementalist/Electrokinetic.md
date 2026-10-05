@@ -151,7 +151,3 @@ An electrokinetic with the Energy Focus (electric blast) drawback may make destr
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

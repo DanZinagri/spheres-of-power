@@ -125,5 +125,3 @@ Spheres of Guile associates many feats and skills with its system, either by rep
 | Survival | [[Navigation]] (Wilderness package) or [[Survivalism]] (Base) |
 | Swim | [[Navigation]] (Nautical package) |
 | Use Magic Device | [[Spellhacking]] (Base) |
-
----

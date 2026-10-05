@@ -99,7 +99,3 @@ On a result of 11-20, subtract ten from your roll, then add that number to your 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

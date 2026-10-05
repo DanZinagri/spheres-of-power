@@ -93,5 +93,3 @@ This ability replaces true inspiration.
 </div>
 
 </div>
-
----

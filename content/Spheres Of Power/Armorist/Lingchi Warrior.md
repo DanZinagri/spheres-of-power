@@ -191,7 +191,3 @@ The lingchi warrior must be 15th level and possess the Arena Burst and Bound Arm
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -47,5 +47,3 @@ Like all oozes, gunpowder oozes are mindless and therefore not prone to tactics.
 **Treasure** none
 
 Common throughout the areas where wild magic and gunpowder are both more prevalent than elsewhere in the world, gunpowder oozes are the combination of these two dangerous and unpredictable elements.
-
----

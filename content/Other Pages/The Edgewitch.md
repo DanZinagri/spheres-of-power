@@ -152,7 +152,3 @@ You can (and should) spend your spell points freely to keep the magical bleeding
 You should two-hand your katana when wielding it. However, if you want to improve your defense, you can take the **Duelist's Grip**and**Balanced Defense** talents from the Equipment sphere.
 
 This character is also heavily built around its theme, and we encourage roleplaying to that.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

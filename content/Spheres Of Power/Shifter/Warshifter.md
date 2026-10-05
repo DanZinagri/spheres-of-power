@@ -54,7 +54,3 @@ This ability replaces quick transformation, extended transformation, greater tra
 | 18 | 14 | 6 | 5 | 6 |
 | 19 | 14 | 6 | 5 | 6 |
 | 20 | 15 | 7 | 5 | 6 |
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

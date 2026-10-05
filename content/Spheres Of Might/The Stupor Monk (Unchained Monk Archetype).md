@@ -200,5 +200,3 @@ The stupor monk ascends. He becomes divinely inspired by his drunken soul, but a
 **Penalties:** None; the stupor monk loses all penalties he has accumulated from previous stages upon entering this stage.
 
 **Stage Change:** While in this stage, the stupor monk is one with all the drinks he has ever had in his lifetime; drinking more does nothing for him. This stage lasts for one minute, and at the end of this time, the stupor monk dies.
-
----

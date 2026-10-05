@@ -29,5 +29,3 @@ The brutal pummeler must decide whether or not to use this ability before making
 This replaces all instances of brawler’s flurry.
 
 **Pinpoint Targeting (Ex):** At 5th level, a brutal pummeler gains Unarmed Training as a bonus talent; if they already have this talent, they may select another talent of their choice. This replaces the close weapon mastery class feature.
-
----

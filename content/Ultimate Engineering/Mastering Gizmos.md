@@ -305,5 +305,3 @@ If you have multiple sources of legs, add all types of ‘legs’ together to de
 </div>
 
 </div>
-
----

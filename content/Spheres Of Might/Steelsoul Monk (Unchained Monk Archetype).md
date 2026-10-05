@@ -65,5 +65,3 @@ This replaces tongue of sun and moon.
 </div>
 
 </div>
-
----

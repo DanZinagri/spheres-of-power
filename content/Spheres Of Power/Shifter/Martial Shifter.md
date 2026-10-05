@@ -17,5 +17,3 @@ This modifies quick transformation.
 **Blended Training (Ex):** Whenever a martial shifter would gain a magic talent from her class levels (not the 2 bonus talents gained when first gaining the casting class feature), she may instead choose to gain a combat talent. A martial shifter uses her casting ability modifier as her practitioner modifier.
 
 This modifies magic talents.
-
----

@@ -115,7 +115,3 @@ While most experimentalists prefer to collect samples on their own, suitably pre
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

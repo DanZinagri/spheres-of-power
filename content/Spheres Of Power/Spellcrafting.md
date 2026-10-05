@@ -913,7 +913,3 @@ If you maintain your wall through concentration, its hp is renewed each round on
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

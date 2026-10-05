@@ -18,7 +18,3 @@ This replaces the spells class feature.
 **Blended Training:** A champion inquisitor gains 3 talents every 4 levels; the same as she gains caster levels. Whenever she gains a talent she may choose to gain either a magic talent or a combat talent. Champion inquisitors use their casting ability modifier as their practitioner modifier.
 
 **Greater Training:** The champion inquisitor may choose to lose monster lore and stern gaze to instead gain a combat or magic talent at every class level (instead of 3 talents every 4 levels). She may not take this option if possessing an archetype that would alter or replace monster lore or stern gaze.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

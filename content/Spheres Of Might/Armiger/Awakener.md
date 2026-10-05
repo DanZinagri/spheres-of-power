@@ -35,7 +35,3 @@ The following prowesses are available exclusively to awakeners.
 **Mental Link:** The awakener gains a telepathic link with her weapon spirits. She may choose to receive full sensory input from one of her weapon spirits, even when it is not manifest, perceiving the area around the customized weapon. This requires a full-round action and renders the awakener flat-footed until the start of her next turn. The awakener does not benefit from any magical effects she is under nor any extraordinary senses she possesses, but does benefit from effects and extraordinary senses the weapon spirit possesses. The awakener uses her own Perception modifier for any Perception checks made while receiving sensory input this way.
 
 **Query Spirit: (Requires mental link)** The awakener may spend a move action to retry any Intelligence-based skill check using the skill and ability modifiers of the weapon spirit tied to her active weapon.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

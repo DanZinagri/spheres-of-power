@@ -35,7 +35,3 @@ At 10th level, the devourer may use this ability on any foe, not just living foe
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

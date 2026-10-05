@@ -41,7 +41,3 @@ You have learned to hold rituals in your memory to a minor degree.
 **Note:** Ritualized spells that are prepared using the Spell Dabbler feat are cast as spells, usually reducing both their casting time and material cost. For example, animal messenger, a ritualized spell, prepared with the Spell Dabbler feat would have its casting time reduced from 10 minutes (the ritual's casting time) to 1 minute (the spell's casting time).
 
 **Wiki Note:** Many rituals have listed costs. However, these "costly" components are regular material costs if they match the price by level on the Material Cost & Casting Time table. Spell Dabbler allows you to bypass these costs. If a ritual has an expensive component that doesn't match its price by level, Spell Dabbler does not allow you to bypass it. For example, the Unseen Servant, Bound ritual has a costly component that does not match its price by level, so you cannot bypass it with Spell Dabbler.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

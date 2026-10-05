@@ -1414,7 +1414,3 @@ You may treat your extradimensional shadow as either talent for all purposes. Am
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

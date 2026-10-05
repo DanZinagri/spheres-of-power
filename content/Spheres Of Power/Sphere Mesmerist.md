@@ -37,7 +37,3 @@ This alters mental potency but still counts as mental potency for the purpose of
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

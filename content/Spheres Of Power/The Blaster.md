@@ -106,7 +106,3 @@ There is a long list of blast types you may learn; take a few that have differen
 You can also increase your versatility by investing in other spheres. Taking more Protection talents can give you more defensive options. The Life sphere lets you provide healing, while Alteration can provide useful buffs. (As long as a form you take can provide somatic and verbal components, you can still use destructive blast.)
 
 **Admin's Thoughts** Consider taking the Protected Soul drawback for the Protection sphere at 1st level if nobody else in your party needs defenses. You can get an extra defensive talent that way. You can also consider taking something like Magical Signs for bonus Spell Points if you don't care about subtlety.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

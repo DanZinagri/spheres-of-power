@@ -98,7 +98,3 @@ The unholy energy damage from this ability counts as fire damage for the purpose
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

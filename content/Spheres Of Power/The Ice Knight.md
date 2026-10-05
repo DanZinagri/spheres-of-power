@@ -103,7 +103,3 @@ You are a knight in shining icy armor, raised and trained at the elven courts to
 **Feats** Agile Maneuvers, Arcane Armor Training, Champion’s Strike*, Combat Expertise, Endurance, Elven Battle Training*, Extra Mystic Combat, Free Spirit, Improved Mystic Assault, Mystic Assault, Sphere Focus (Destruction), Swordplay Deflection*, Swordplay Style*, Swordplay Upset*
 
 **Skills** Knowledge and Spellcraft are the most useful skills for you. Acrobatics, Survival and Ride are also important to cross the arctic terrains that are your home. Diplomacy and Intimidate are crucial skills for an elven ambassador too.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -21,5 +21,3 @@ This replaces the invention gained at 1st level.
 **Drone Hacker:** At 7th level, all uses of the Disable Device skill have their required time decreased by 2 steps instead of 1. The rigger may make a melee touch attack against a construct or technological device (including gadgets created by an enemy) to gain control over the target, causing it to behave as if the rigger had created it, allowing him to modify the target’s commands or active rote functions. This melee touch attack may either be done in place of any of your melee attacks during an attack action or a full-attack action. A successful Will save negates the effect. Control over the target lasts as long as the rigger maintains martial focus.
 
 This replaces trapmaster.
-
----

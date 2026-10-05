@@ -379,5 +379,3 @@ Your martial skills enable incredible technique usage.
 **Prerequisites:** Knowledge of at least one technique or spell
 
 **Benefits:** When using a technique or spell from a technique script or spellbook, the chance of failure for not having a talent is reduced to 5% per missing prerequisite from 10% per missing prerequisite.
-
----

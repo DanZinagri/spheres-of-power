@@ -122,7 +122,3 @@ At higher levels, your Master Illusionist ability will drastically increase the 
 Remember to set up illusions in a way that benefits the rest of your party. You're strong on your own, but if you dive into battlefield control, you will drastically increase your impact on things.
 
 Finally, remember that illusions are often most useful outside of battle. Don't hesitate to look for creative solutions to your problems - and your sky-high Bluff skill means you can talk your way into or out of most situations.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

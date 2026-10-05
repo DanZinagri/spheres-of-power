@@ -42,5 +42,3 @@ Bugbear murderers prefer to single out weak opponents and finish them off rather
 **Treasure** NPC gear (leather armor, light wooden shield, morningstar, 3 javelins, other treasure)
 
 Bugbear murderers are strange dichotomies, combining massive and muscular builds with a gift for stealth. Possessing an inherent drive to kill married to a love of sentient flesh, particularly that of humans, bugbear murderers typically live exceptionally short and violent lives as their deep-seated bloodlust inevitably leads them to pursue a victim into territory no sane creature would attempt to infiltrate. Slipping into small towns and wilderness outposts, the victims a bugbear murderer leaves behind are often the first indications of a goblin invasion.
-
----

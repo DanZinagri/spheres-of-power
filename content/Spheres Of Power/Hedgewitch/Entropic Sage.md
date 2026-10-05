@@ -87,7 +87,3 @@ At 17th level, when the entropic sage reduces a creature to 0 or fewer hit point
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

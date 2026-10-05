@@ -30,7 +30,3 @@ This replaces bombs. The eldritch infuser may still qualify for any discoveries 
 **Impromptu Formulae:** Starting at 3rd level, the eldritch infuser may create a formulae as a move action. He may use this ability a number of times per day equal to half his class level + his casting ability modifier.
 
 This replaces swift alchemy.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

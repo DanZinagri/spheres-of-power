@@ -15,5 +15,3 @@ If a method actor breaks an Oath in a persona where they have accepted it, howev
 This replaces the persona quirks gained at 5th, 11th, and 17th levels.
 
 **Blank Canvas (Ex):** A method actor must not possess any strong convictions himself in order to fully assume the commitments of his personas. A method actor’s base persona may not accept any Oaths, and as a result never benefits from Oath boons.
-
----

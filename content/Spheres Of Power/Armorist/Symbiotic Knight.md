@@ -81,7 +81,3 @@ Once a trait has been chosen, it cannot be changed. So long as the symbiotic kni
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

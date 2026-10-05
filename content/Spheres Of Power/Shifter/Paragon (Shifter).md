@@ -85,7 +85,3 @@ This bestial trait may be taken once for every six paragon levels the paragon po
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -412,13 +412,6 @@ When you use the Intensity Control talent you may spend a spell point to increas
 
 ---
 
-# Light Sphere Feats
-
-*Moved to their own page: [[Light Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -738,7 +731,3 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

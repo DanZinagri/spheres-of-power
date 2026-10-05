@@ -83,7 +83,3 @@ Cursed Bullets, Improved (Su): At 11th level, the penalty inflicted by the curse
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

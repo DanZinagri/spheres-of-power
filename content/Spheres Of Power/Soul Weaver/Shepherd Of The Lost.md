@@ -47,7 +47,3 @@ This ability replaces summon spirit I, III, and IV.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -62,7 +62,3 @@ The nature of the location the alter-ego goes when her companion is summoned is 
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -79,7 +79,3 @@ This replaces the second and third weapons selected for finesse training.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

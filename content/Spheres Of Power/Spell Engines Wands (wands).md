@@ -612,7 +612,3 @@ Craft Wand, Divination sphere, Tremorsense, Widen Sight, Warp sphere, Group Tele
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

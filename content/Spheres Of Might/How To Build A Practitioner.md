@@ -196,5 +196,3 @@ Martial Focus is a key element of Spheres of Might and required for many class a
 - **Warleader:** Focusing Cry (standard action to expend your focus and restore the martial focus of 1 or more other creatures)
 - **Warleader:** Focusing Tactics (move action by sufficiently powerful ally affected by a Shout or Tactic; remember that you cannot regain martial focus more than once a round)
 - **Wrestling:** Rest Hold (move action while grappling adjacent creature, also grants partial cover and could result in grappled target being hit; requires you to control grapple)
-
----

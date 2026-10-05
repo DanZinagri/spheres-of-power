@@ -587,13 +587,6 @@ Once a spirit has been summoned, you may do any of the following:
 
 ---
 
-# Death Sphere Feats
-
-*Moved to their own page: [[Death Sphere Feats]].*
-
-
----
-
 # Necrosis Feats
 
 Necrosis feats represent ongoing necromantic modification, corruption, or experimentation the character has made on her body to bring it closer to undead anatomy. Necrosis feats are distinct from more common feats in two ways.
@@ -1193,7 +1186,3 @@ Wrestling with the complicated ethical questions or reveling in the moral gray a
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -47,7 +47,3 @@ Etch Schematic, Craft Spell Engine, Warp sphere (Extradimensional Storage (space
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

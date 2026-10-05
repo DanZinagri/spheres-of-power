@@ -180,7 +180,3 @@ Capture Spell, Life Sphere, Mass Healing, Revitalize; **Cost** 500 gp
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

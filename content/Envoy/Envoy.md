@@ -746,8 +746,6 @@ Whenever the envoy has a visible construct active within a creature’s mind, th
 
 ---
 
----
-
 # Alternate Class Features
 
 #### Inspiriting Words [DRS]

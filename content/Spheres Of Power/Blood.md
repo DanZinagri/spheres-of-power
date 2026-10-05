@@ -479,15 +479,6 @@ This is a permanent effect which automatically ends if any of the targets die, t
 
 ---
 
-# Blood Sphere Feats
-
-*Moved to their own page: [[Blood Sphere Feats]].*
-
-
----
-
----
-
 # Optional Rules
 
 #### Blood as a Spell Component or Focus
@@ -804,8 +795,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # Optional Rules
 
 #### Blood as a Spell Component or Focus
@@ -843,7 +832,3 @@ The blood of certain creatures can be used when crafting alchemical items to red
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

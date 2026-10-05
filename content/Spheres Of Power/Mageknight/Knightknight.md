@@ -77,5 +77,3 @@ This ability replaces marked.
 </div>
 
 </div>
-
----

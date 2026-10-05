@@ -57,7 +57,3 @@ This modifies evasion and improved evasion.
 **Earthshaker:** At 20th level, the vector may use his kinetic overload ability and abilities that require expending rounds of kinetic overload at will. If he possesses feats or other abilities that would grant additional rounds or otherwise increase the duration of kinetic overload, he may immediately retrain them at no cost.
 
 This replaces greater psionics.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

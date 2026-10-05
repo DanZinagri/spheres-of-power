@@ -26,7 +26,3 @@ This replaces the vigilante talents gained at 4th, 8th, 10th, 14th, and 18th lev
 A hidden master may use talents only his vigilante identity or only his social identity have available as prerequisites for advanced magic talents, legendary combat talents, or feats, but he cannot use a feat or talent unless he meets the prerequisites in his current identity.
 
 This replaces vigilante specialization. A hidden master cannot select any archetype that replaces dual identity, though he may select one that alters it.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

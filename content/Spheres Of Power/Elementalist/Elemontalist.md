@@ -57,7 +57,3 @@ When choosing this archetype, a player may not want to be a mighty elemontalist,
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

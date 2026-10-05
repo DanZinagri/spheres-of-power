@@ -119,5 +119,3 @@ You are a great corsair commander both above and underwater, relentlessly chasin
 **Feats** Aquadynamic Focus, Aquadynamic Shot, Aquatic Advantage, Aquatic Combatant, Combat Reflexes, Divine Defiance, Endurance, Master Swimmer, Weapon Focus (cutlass)
 
 Consider taking the Vanguard archetype when reaching 2nd level.
-
----

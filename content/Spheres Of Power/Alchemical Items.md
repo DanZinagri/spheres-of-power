@@ -309,7 +309,3 @@ Traveling across the roots of the world tree into the sweltering realm of Muspel
 Meowlin found this catnip growing at the base of large fruit-bearing cactus. While he was only gently pricked, his ego was harmed that day as the plant made a mockery of his beautiful coat.
 **Price** 1 gp
 **Initial Effects** For 10 minutes, the user sprouts a number of hedgehog-like spines, which are soft to the touch when unthreatened. The user may spend an immediate action to bristle until the start of their next turn. While bristling, the user gains DR 1/slashing and any adjacent creature which makes an attack roll against the user suffers 1d4 points of piercing damage (Reflex negates; DC 10 + 1/2 the user’s Hit Dice + the user’s Constitution modifier).
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

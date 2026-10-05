@@ -77,7 +77,3 @@ At 5th level, whenever you deal damage with a weather effect created by control 
 ## Instant Weather
 
 At 5th level, when the tempestarii uses control weather to change the weather’s severity, the change happens immediately, no matter how many levels the severity is being changed.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

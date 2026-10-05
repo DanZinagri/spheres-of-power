@@ -337,5 +337,3 @@ This well-made chest wrap is designed to support the user’s defensive movement
 
 **Construction Requirements**
 Craft Apparatus, War sphere, creator must have the tension techniques class feature; **Cost** 12,500 gp
-
----

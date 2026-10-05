@@ -94,5 +94,3 @@ Automaton cores have their own rules for harvesting (see Pathfinder Campaign Set
 **Steam Constructs**
 **Identify Parts** Knowledge (engineering)
 **Harvestable Parts** Boiler (1), canister (1d4), screws (4d6), tubing (1d6)
-
----

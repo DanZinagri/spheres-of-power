@@ -5682,7 +5682,3 @@ The Undetectable ability for Legendary Items prevents invisible players from bei
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

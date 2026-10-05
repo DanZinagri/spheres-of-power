@@ -35,7 +35,3 @@ This replaces the additional piece of bound equipment gained at 5th level. At 10
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

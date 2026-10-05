@@ -42,5 +42,3 @@ This replaces the pistol-whip deed (or the gun strike ability granted by the gun
 </div>
 
 </div>
-
----

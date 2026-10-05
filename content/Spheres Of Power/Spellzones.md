@@ -186,7 +186,3 @@ Develop Spellzone, Creation sphere (Potent Alteration), Enhancement sphere (Anti
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

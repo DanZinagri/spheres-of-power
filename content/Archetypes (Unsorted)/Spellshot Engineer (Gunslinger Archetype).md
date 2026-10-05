@@ -144,7 +144,3 @@ This replaces the cheat death deed at 19th level.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -103,7 +103,3 @@ This ability replaces brew potion, poison resistance, and poison immunity.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

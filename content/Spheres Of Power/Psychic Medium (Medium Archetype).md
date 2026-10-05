@@ -59,7 +59,3 @@ Grant yourself the benefit of any two magic talents you don't possess. If you ga
 ##### Sphere Master (Supreme, Su)
 
 Once per day, you may cast any sphere talent or ability you know without spending any spell points.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

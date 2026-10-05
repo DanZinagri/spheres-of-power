@@ -735,13 +735,6 @@ You may spend a spell point to apply this word to a weapon. Whenever this weapon
 
 ---
 
-# Fate Sphere Feats
-
-*Moved to their own page: [[Fate Sphere Feats]].*
-
-
----
-
 # Fate-Focused Archetypes
 
 ## [[Grim Disciple]]
@@ -1430,7 +1423,3 @@ The Parzivalian Knight is an archetype for the Paladin that lets them use belief
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

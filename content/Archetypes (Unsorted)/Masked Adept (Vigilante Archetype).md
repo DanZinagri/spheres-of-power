@@ -80,7 +80,3 @@ He may only benefit from this feature while in his vigilante identity. Once chos
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

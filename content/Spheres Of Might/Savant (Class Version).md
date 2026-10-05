@@ -144,5 +144,3 @@ This ring consists of delicate layers of magical energy that help to absorb wast
 
 **Construction Requirements**
 Craft Apparatus, War sphere (any (momentum) talent), creator must have the strain class feature; **Cost** 7,500 gp
-
----

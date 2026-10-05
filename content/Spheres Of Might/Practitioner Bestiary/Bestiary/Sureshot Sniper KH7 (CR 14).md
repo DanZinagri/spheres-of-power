@@ -62,5 +62,3 @@ The sureshot sniper KH7 is actually a modern design, although based on ancient r
 Sureshot sniper KH7’s are humanoid-looking robotic creatures known for being deadly accurate with their particularly powerful weapons. These weapons are integrated into their bodies and do not function when removed, and allow the sureshot sniper KH7 to destroy even the most fortified of targets often in a single shot.
 
 The secrets of creating sureshot sniper KH7s are so obscure that none but those initiated into the greatest of technical secrets can accomplish the feat, and even then the process is said to be obscenely expensive. Combined with the KH7’s natural intelligence and tendency to ignore orders and develop their own agendas once their concept of self matures, this means that there are very few of them to be found.
-
----

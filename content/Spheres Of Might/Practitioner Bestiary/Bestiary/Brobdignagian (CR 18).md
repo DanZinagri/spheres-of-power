@@ -53,5 +53,3 @@ Brobdignagians are an enormous, solitary species that rarely interacts with othe
 Brobdignagians feast on whatever creatures cross their path, but their greatest source of food is magic, which they can suck off of a creature with a successful natural attack. Brobdignagian will stalk humanoid and dragonoid targets in hopes of finding magic they can consume, sometimes saving spellcasters in small cages to eat later, after they’ve had time to regain spells and therefore increase their flavor.
 
 Brobdignagians stand over 100 ft. tall, and can live for thousands of years, eating only once every year or so, as necessary. When a brobdignagian feeds though, they can sometimes lay waste to an entire countryside in their search for enough food or magic to sustain themselves.
-
----

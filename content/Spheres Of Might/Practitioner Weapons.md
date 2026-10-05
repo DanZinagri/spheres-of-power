@@ -148,8 +148,6 @@ A war mallet can be used to deal nonlethal damage with no penalty.
 
 ---
 
----
-
 ## Modifications
 
 **Note:** These rules pre-date the Adventurer's Armory 2 supplement from Paizo Publishing and have no relation to an item's proficiency category.
@@ -169,5 +167,3 @@ This scabbard modification consists of a refillable bladder large enough to hold
 This modification can be applied to any weapon that does not possess the nonlethal special feature. A training weapon gains the nonlethal special feature, but deals damage as if it were 1 size smaller. A training weapon deals only bludgeoning damage regardless of its normal damage types. Most training weapons are constructed entirely of wood and cost half as much as a normal weapon of its type.
 
 ## AA2 Modifications
-
----

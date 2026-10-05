@@ -47,5 +47,3 @@ This ability replaces counter critical.
 </div>
 
 </div>
-
----

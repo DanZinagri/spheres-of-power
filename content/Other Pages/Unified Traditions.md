@@ -435,7 +435,3 @@ Wild sidhe are isolated alchemists and nature priests, often found guarding leyl
 **Drawbacks:** Somatic Casting (2), Wild Magic, Emotional Casting.
 
 **Boons:** Easy Focus, Overcharge
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

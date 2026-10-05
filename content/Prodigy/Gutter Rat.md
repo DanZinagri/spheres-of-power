@@ -23,7 +23,3 @@ This replaces reflect spell.
 This replaces greater reflect spell.
 
 **Special:** This archetype may be combined with the [[Battle-Born|battle-born]] archetype. When doing so, the adaptation ability allows the selection of combat talents and rogue talents.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

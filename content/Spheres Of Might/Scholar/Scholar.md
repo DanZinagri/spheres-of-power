@@ -500,5 +500,3 @@ This heavy set of medical tools for hazardous situations folds into a relatively
 
 **Construction Requirements**
 Craft Apparatus, Quicken Spell, Life sphere, creator must have the medical training class feature; **Cost** 4,000 gp
-
----

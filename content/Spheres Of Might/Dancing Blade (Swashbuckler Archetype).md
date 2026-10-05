@@ -23,5 +23,3 @@ This ability replaces the dodging panache, menacing swordplay, superior feint, s
 **Focusing Panache (Ex):** From 15th level on, whenever the dancing blade fights defensively, either as a full-round or standard action, she may spend a point of panache as a free action that can be taken even when it’s not her turn after her first successful attack that round to regain her martial focus.
 
 This replaces the dizzying defense deed.
-
----

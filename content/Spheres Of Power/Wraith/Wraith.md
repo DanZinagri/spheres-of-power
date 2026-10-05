@@ -1286,7 +1286,3 @@ Swarms do not threaten creatures, and do not make attacks of opportunity with th
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

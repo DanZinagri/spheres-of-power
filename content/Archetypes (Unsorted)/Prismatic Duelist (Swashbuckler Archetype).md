@@ -191,7 +191,3 @@ This refraction may be selected multiple times.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

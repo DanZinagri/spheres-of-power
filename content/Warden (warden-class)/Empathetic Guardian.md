@@ -61,7 +61,3 @@ This replaces self-sufficiency, improved patrol, and tireless protector.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

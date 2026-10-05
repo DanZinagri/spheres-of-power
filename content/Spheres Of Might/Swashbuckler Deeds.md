@@ -59,5 +59,3 @@ At 7th level, the swashbuckler may spend a panache point to feint a target that 
 </div>
 
 </div>
-
----

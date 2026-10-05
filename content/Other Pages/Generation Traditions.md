@@ -157,7 +157,3 @@ The Wanderers are a unique type of magical being whose demise comes from boredom
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

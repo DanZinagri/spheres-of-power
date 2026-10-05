@@ -984,5 +984,3 @@ You must pay any costs associated with the sphere ability used, and it lasts unt
 
 - *Hardcore (Gladiator sphere, Performance sphere)*: Whenever you start an act, dance, or instrumental, or use a lyric, as a free action, you can attempt an Intimidate check to demoralize a creature that is within the ability’s area or would be affected by the ability.
   Additionally, whenever a creature contributes to one of your act’s scenes, joins your dance, or expends one of your lyrics, you can boast as an immediate action.
-
----

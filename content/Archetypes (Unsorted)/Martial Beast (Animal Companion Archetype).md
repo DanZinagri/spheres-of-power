@@ -8,5 +8,3 @@ updated: 2020-04-03
 A martial beast may combine combat spheres and talents to create powerful martial techniques. Martial beasts use the Proficient talent progression. Martial beasts use Wisdom as their practitioner modifier. A martial beast does not gain the evasion, devotion, multiattack, and improved evasion special abilities. A martial beast adds Extra Combat Talent to the list of feats it may take even with animal intelligence (Intelligence 2 or lower).
 
 **Wiki Note:** This does not innately grant a martial tradition, although some martial beasts may qualify to trade things for a martial tradition.
-
----

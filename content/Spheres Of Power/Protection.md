@@ -528,13 +528,6 @@ You may grant the target an aegis that makes them undetectable through divinatio
 
 ---
 
-# Protection Sphere Feats
-
-*Moved to their own page: [[Protection Sphere Feats]].*
-
-
----
-
 </div>
 
 <div class="sop-tab" data-tab="original">
@@ -892,8 +885,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # Player's Guide
 
 Protection offers little in the way of mobility or offensive ability, but it is the superlative defense sphere and offers many useful battlefield control effects.
@@ -921,7 +912,3 @@ The punisher only dabbles in the Protection sphere, and is interested in only th
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

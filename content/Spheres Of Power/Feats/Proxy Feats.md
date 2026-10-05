@@ -199,7 +199,3 @@ Proxy feats represent an enhanced ability to manipulate and take advantage of th
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

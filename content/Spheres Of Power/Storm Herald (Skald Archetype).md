@@ -113,7 +113,3 @@ This replaces damage reduction and the rage power granted at 9th level.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

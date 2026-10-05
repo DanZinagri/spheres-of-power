@@ -34,7 +34,3 @@ This replaces hunter tactics.
 **Morph Master:** At 20th level, when the beast bender applies shapeshift to her animal allies, the effect is extraordinary and the duration becomes permanent.
 
 This replaces master hunter.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

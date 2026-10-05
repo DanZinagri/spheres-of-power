@@ -85,5 +85,3 @@ This ability replaces flawless mind.
 At 20th level, a disciple of chaos becomes a magical creature. He is forevermore treated as an outsider rather than a humanoid (or whatever his original creature type was) for the purpose of spells and magical effects. Additionally, the disciple of chaos gains damage reduction 10/lawful, which allows him to ignore the first 10 points of damage from any attack made by a non-lawful weapon. Unlike other outsiders, the disciple of chaos can still be brought back from the dead as if he were a member of his previous creature type. Finally, the disciple of chaos gains the ability to enter a state of unfettered anger. During this time, the disciple of chaos can take no actions besides sundering unattended objects, but he does regain ki at the rate of 1 point per 10 minutes spent in this manner. He cannot use this ability to gain an amount of ki in excess of his maximum.
 
 This ability alters perfect self.
-
----

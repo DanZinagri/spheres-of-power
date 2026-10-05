@@ -150,7 +150,3 @@ Wiki Note: If using domains from outside this list, we suggest either asking the
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

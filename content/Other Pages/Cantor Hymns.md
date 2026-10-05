@@ -8,5 +8,3 @@ updated: 2026-05-01
 *Source: [Baron’s Otherworldly Citadel](https://legacy.drivethrurpg.com/product/526068&src=LoM?)*
 
 The following cantor hymns are not appropriate for the Aethera Campaign Setting but may be selected by cantors in other settings which use the corresponding planes
-
----

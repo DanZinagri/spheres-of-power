@@ -225,7 +225,3 @@ The iron mage gains access to all commands presented here as she levels:
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

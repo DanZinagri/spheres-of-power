@@ -67,7 +67,3 @@ You'll note that talents come fairly early in the process. This is because some 
 
 - The same notes that apply to practitioners and spherecasters apply to champions. You may want to largely forego one side (usually magic talents) for a few levels, allowing you to get your combat build going.
 - Remember that most champions have difficulty using martial and magical talents at the same time. It's often one or the other unless you take options (like the Energy Strike talent of the [[Destruction]] sphere) that are designed to mix weapons and magic. Keep your action economy in mind and consider limiting your selection of talents that require separate actions (especially during combat).
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -67,7 +67,3 @@ At 17th level, a triple goddess gains the ultimate power over life itself: The p
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

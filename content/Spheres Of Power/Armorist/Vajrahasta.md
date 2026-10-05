@@ -115,7 +115,3 @@ This replaces armor training and the arsenal trick normally gained at 4th level.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

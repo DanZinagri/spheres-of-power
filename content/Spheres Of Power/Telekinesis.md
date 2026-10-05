@@ -375,13 +375,6 @@ Since the subject is only under your physical control, on their turn they can st
 
 ---
 
-# Telekinesis Sphere Feats
-
-*Moved to their own page: [[Telekinesis Sphere Feats]].*
-
-
----
-
 # Protokinesis Feats
 
 Protokinesis feats represent innate telekinetic abilities, powers usable with minimal thought and effort in contrast to the magic of the [[Telekinesis]] sphere. They often develop unintentionally, without need for training or even awareness of them.
@@ -832,8 +825,6 @@ Click the header above to see the Sphere-Specific Drawbacks for this sphere. If 
 
 ---
 
----
-
 # Gamemastering
 
 ## Clarifications
@@ -939,7 +930,3 @@ This is a general guideline to weapon size rather than a hard rule, and exceptio
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -29,5 +29,3 @@ This ability modifies the targeting deed.
 **Up Close and Personal (Ex):** Whenever the gunfighter successfully makes a ranged attack against an opponent while that opponent is threatening her, she regains 1 grit point.
 
 This replaces the bonus feat normally gained at 8th level.
-
----

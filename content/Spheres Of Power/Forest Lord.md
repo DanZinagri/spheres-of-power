@@ -240,7 +240,3 @@ The Forest of Illusions is one of the world’s great mysteries, as no one truly
 The Heart is the cryptwood that has grown up around the birthplace of the forest itself. Visible from miles around for its trees (at over 1,000 ft. high, they are giants even by forest standards), the Heart is held by druids who allow none but their own arch druids to enter the cryptwood’s central grove.
 
 As the resting place of the valley, the broken walkways, the birthplace of adamantine, and the palace of an ancient empire, countless legends and theories abound as to what treasures of knowledge and power the druids' leadership might be hiding within the Heart, and many beings (including wizards, adventurers, and the rivals of the druids) dream of one day claiming the area as their own. However, with more than one army of chaotic creatures as well as arch druids guarding the area, such a venture seems entirely impossible.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

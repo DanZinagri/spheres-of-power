@@ -173,7 +173,3 @@ Shadow magic, by its nature, has a very real effect even if disbelieved, althoug
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

@@ -61,7 +61,3 @@ This pool replenishes once per day after roughly 8 hours of rest.
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

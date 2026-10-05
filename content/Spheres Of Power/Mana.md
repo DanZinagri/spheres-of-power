@@ -602,17 +602,6 @@ When you create a manabond using the Soulmate talent, whenever the recipient of 
 
 ---
 
-# Mana Sphere Feats
-
-*Moved to their own page: [[Mana Sphere Feats]].*
-
-
----
-
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

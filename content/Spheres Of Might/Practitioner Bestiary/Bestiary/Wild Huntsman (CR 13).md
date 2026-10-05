@@ -55,5 +55,3 @@ Attack feats to make powerful charges against casters or ranged opponents. When 
 Wild huntsman appear to be elf-like creatures shrouded in shadow, even when standing in sunlight, and their weapons and their phantom steeds have the appearance of being crafted from shadow.
 
 Wild huntsman are the shepards of souls in fey-controlled territories, an act called the ‘eternal hunt’. Wild huntsman care little if the soul is willing, except that unwilling souls make much more entertaining prey, and wild hunstman life for the thrill of the chase. While wild huntsman may shepard souls, they are not psychopomps; they have no code that protects their charges, and wild huntsman have been known to hunt down those close to death to finish the job early, or to track down powerful prey simply for the chance to test their skills. As fey subjects, wild huntsman have also been known to directly serve the seelie and unseelie courts, tracking down creatures of importance, or scouring the countryside of fey-controlled lands to keep out mortals who otherwise might wander too close to the fey’s sacred forests.
-
----

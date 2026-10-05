@@ -48,5 +48,3 @@ This replaces unlimited assault.
 
 - **Quick Draw:** The stancemaster gains the Quickdraw feat and may stow a weapon as part of changing stances.
 - **Stance Fusion:** The stancemaster gains a style feat of her choice as a bonus feat. She must meet the prerequisites of the feat, but may treat her class levels as monk levels. These levels stack with monk levels from other sources. The stancemaster may switch stances as part of the action required to initiate a style. Activating or changing a style as a swift action completes the stance change (link). This prowess may be taken multiple times; each time it grants an additional style feat or a feat that has a style feat as a prerequisite. All prerequisites for such feats must be met normally.
-
----

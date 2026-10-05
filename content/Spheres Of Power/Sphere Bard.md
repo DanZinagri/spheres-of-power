@@ -47,7 +47,3 @@ A sphere bard gains 3/4ths of a magic talent every level (the same progression a
 </div>
 
 </div>
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book

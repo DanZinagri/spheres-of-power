@@ -36,7 +36,3 @@ This replaces fascinate and lore master.
 **Enduring Motivation:** Beginning at 18th level, while wielding a wind instrument, all non-instantaneous masterpieces, performances, rallies, shouts, tactics, and totems last 2 additional rounds after their duration would normally end.
 
 This replaces mass suggestion.
-
----
-
-**U:** Part of Ultimate Spheres of Power and does not need to be bought separately from that book
