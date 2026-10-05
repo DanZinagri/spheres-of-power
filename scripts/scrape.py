@@ -123,11 +123,11 @@ def add_page_notes(slug: str, md: str) -> str:
 # heading) to the end of the given column of the main navigation grid to even out the columns.
 # Balanced from rendered section heights at 1920px (columns end up within ~330px of each other).
 HOME_SECTION_MOVES = [
-    ("Prestige Classes", 1),
     ("Gear", 3),
-    ("Other Options", 3),  # the Tools list (PAGE_NOTES) follows Other Options wherever it goes
+    ("Practitioner Gear", 3),
     ("Feat Types", 4),
-    ("Creatures", 5),
+    ("Prestige Classes", 5),
+    ("Other Options", 5),  # the Tools list (PAGE_NOTES) follows Other Options wherever it goes
 ]
 # Home page sections replaced by the generated "Sample Characters" page, which is linked from
 # the end of the Creatures section instead.
@@ -141,7 +141,15 @@ HOME_SPHERE_COLUMNS = [
     ("Combat Spheres", "Using Spheres Of Might|Using Spheres of Might"),
 ]
 # Other home sections whose heading gets a small "(Using ...)" link
-HOME_HEADER_LINKS = {"Champions": "Using Champions Of The Spheres|Using Champions of the Spheres"}
+HOME_HEADER_LINKS: dict[str, str] = {}
+# Class lists that leave the navigation grid for tables in the "Classes" section:
+# (grid section, table heading, its "Using ..." link)
+HOME_CLASS_TABLES = [
+    ("Spherecasters", "Spherecaster Classes", "Using Spheres Of Power|Using Spheres of Power"),
+    ("Operatives", "Operative Classes", "Using Spheres Of Guile|Using Spheres of Guile"),
+    ("Practitioners", "Practitioner Classes", "Using Spheres Of Might|Using Spheres of Might"),
+    ("Champions", "Champion Classes", "Using Champions Of The Spheres|Using Champions of the Spheres"),
+]
 
 # The wiki colors links by product line with inline <span style="color:...">. Power is the default
 # (uncolored) link color. Every link to a page gets its family's color (see data/link-families.json).
@@ -152,6 +160,8 @@ COLOR_FAMILIES = {
     "#00c000": "champion",
 }
 FAMILY_FILE = ROOT / "data" / "link-families.json"
+# Families for pages the wiki never links in color (slug -> family)
+FAMILY_OVERRIDES = {"using-spheres-of-might": "might"}
 OBSIDIAN_SNIPPET = CONTENT / ".obsidian" / "snippets" / "sop-link-colors.css"
 
 session = requests.Session()
@@ -785,14 +795,48 @@ def rebalance_home_columns(md: str) -> str:
                 i = next(k for k, l in enumerate(s[1]) if heading(l))
                 s[1][i] = f"**{s[0]}** *([[{HOME_HEADER_LINKS[s[0]]}]])*"
 
-    rebuilt = []
+    # class lists leave the grid and become tables in the Classes section (archetypes filled in
+    # later from each class page's archetype table: {{ARCH:<class note>}})
+    class_tables = []
+    for section, title, using in HOME_CLASS_TABLES:
+        for _, sections in parsed:
+            hit = next((s for s in sections if s[0] == section), None)
+            if not hit:
+                continue
+            sections.remove(hit)
+            rows = ["| Class | Archetypes |", "| --- | --- |"]
+            for line in hit[1]:
+                m = re.match(r"\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]", line.strip())
+                if not m:
+                    continue
+                cell = re.sub(r"(?<!\\)\|", r"\\|", line.strip())
+                rows.append(f"| **{cell}** | {{{{ARCH:{m.group(1)}}}}} |")
+            class_tables += [f"### {title} *([[{using}]])*", "", *rows, ""]
+            break
+
+    rebuilt, kept, archetypes_col = [], 0, None
     for prefix, sections in parsed:
         col = list(prefix)
         for _, body in sections:
             col.extend(body)
         while col and col[-1].strip() in ("", "---"):
             col.pop()
+        if not any(l.strip() for l in col):
+            continue  # a column emptied by the moves above
+        if any(l.strip() == "## Archetypes" for l in col):
+            archetypes_col = col  # the full-width archetype table column -> its own section
+            continue
+        kept += 1
         rebuilt += ['<div class="sop-col">', "", *col, "", "</div>", ""]
+    lines[start] = re.sub(r"--cols: \d+", f"--cols: {kept}", lines[start])
+    classes = []
+    if archetypes_col is not None:
+        # "## Archetypes" becomes "## Classes": the book class tables, then the base classes table
+        # under its own smaller heading with the Archetype Rules link beside it
+        col = [l for l in archetypes_col if l.strip() != "[[Archetype Rules]]"]
+        at = next(i for i, l in enumerate(col) if l.strip() == "## Archetypes")
+        col[at:at + 1] = ["## Classes", "", *class_tables, "### Base PF1e Classes *([[Archetype Rules]])*"]
+        classes = ["", *col, ""]
     spheres = []
     if sphere_cols:
         # one full-width block per category (header, then its spheres; sphere_lists() turns the
@@ -801,7 +845,7 @@ def rebalance_home_columns(md: str) -> str:
         for col in sphere_cols:
             spheres += [*col, ""]
         spheres += ["</div>", "", "## Classes & Options", ""]
-    out = lines[:start] + spheres + [lines[start], ""] + rebuilt + lines[end:]
+    out = lines[:start] + spheres + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
     return remove_using_row("\n".join(out))
 
 
@@ -827,6 +871,45 @@ def sphere_lists(md: str) -> str:
             pending_blank = False
         out.append(line)
     return "\n".join(out)
+
+
+def class_archetype_cells(md: str) -> list[str]:
+    """The Archetype cells (link + tags) of a class page's first "Archetype | Description" table."""
+    cells, inside = [], False
+    for line in md.split("\n"):
+        if line.startswith("| Archetype | Description |"):
+            inside = True
+            continue
+        if inside:
+            if not line.startswith("|"):
+                break
+            if line.startswith("| ---"):
+                continue
+            m = re.match(r"\|\s*(.*?)\s*\|(?!\|)", line.replace("\\|", "\x00"))
+            if m and m.group(1):
+                cells.append(m.group(1).replace("\x00", "\\|"))
+    if cells:
+        return cells
+    # no table (e.g. Agent): the link headings right under its "Archetypes" heading
+    lines = md.split("\n")
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    at = next((i for i, l in enumerate(lines) if level_of(l) and l.lstrip("#").strip() == "Archetypes"), None)
+    if at is None:
+        return []
+    level = level_of(lines[at])
+    for line in lines[at + 1:]:
+        lv = level_of(line)
+        if lv and lv <= level:
+            break
+        if lv == level + 1 and line.lstrip("#").strip().startswith("[["):
+            cells.append(re.sub(r"(?<!\\)\|", r"\\|", line.lstrip("#").strip()))
+    return cells
+
+
+def fill_class_archetypes(md: str, archetypes: dict[str, list[str]]) -> str:
+    """Home Classes tables: {{ARCH:<class note>}} -> that class's archetypes (or a dash)."""
+    return re.sub(r"\{\{ARCH:([^}]+)\}\}",
+                  lambda m: ", ".join(archetypes.get(m.group(1), [])) or "—", md)
 
 
 def remove_using_row(md: str) -> str:
@@ -1556,6 +1639,26 @@ def assign_paths(pages: dict[str, Page]) -> None:
         p.folder = "/".join(segments)
 
 
+def group_classes(pages: dict[str, Page], slugs: list[str], folder: str) -> None:
+    """Re-home a group of classes (e.g. the champion classes) and everything under them into one
+    top-level folder: <folder>/<Class>/<subpage> for classes with subpages, <folder>/<Class>.md
+    for the rest. Their folders otherwise depend on how the wiki happened to parent them."""
+    roots = [s for s in slugs if s in pages]
+    if not roots:
+        return
+    has_children = {p.parents[-1] for p in pages.values() if p.parents and p.parents[-1] in pages}
+    for p in pages.values():
+        chain = [a for a in p.parents if a in pages] + [p.slug]
+        root = next((a for a in chain if a in roots), None)
+        if root is None:
+            continue
+        rel = chain[chain.index(root):-1]  # the root class and any ancestors below it
+        segments = [folder] + [pages[a].filename for a in rel]
+        if p.slug in has_children:
+            segments.append(p.filename)
+        p.folder = "/".join(segments)
+
+
 def download_images(pages: dict[str, Page]) -> dict[str, str]:
     ATTACH.mkdir(parents=True, exist_ok=True)
     mapping = {}
@@ -1589,6 +1692,7 @@ def convert(with_images: bool) -> None:
         if f.exists():
             pages[slug] = Page(slug, f.read_text(encoding="utf-8"))
     assign_paths(pages)
+    group_classes(pages, home_list_slugs(pages, "Champions"), "Champions")
     auto = tagged_pages(pages)
     excluded_pages = EXCLUDED_PAGES | auto
     excluded = {s for s, p in pages.items()
@@ -1651,6 +1755,7 @@ def convert(with_images: bool) -> None:
     feats_pages: dict[str, str] = {}      # sphere note name -> its "<Sphere> Sphere Feats" note
     drawback_pages: dict[str, str] = {}   # sphere note name -> its "<Sphere> Sphere Drawbacks" note
     derived_notes: list[tuple[str, str]] = []  # (generated note path, its sphere's path) for colors
+    class_archetypes: dict[str, list[str]] = {}  # class note name -> its archetype cells (home)
     home_page = None                      # (dest, text), written last with the feats links
     manifest = json.loads((CACHE / "manifest.json").read_text())
 
@@ -1803,6 +1908,8 @@ def convert(with_images: bool) -> None:
         if p.slug in merged_tabs:  # after the feats split, so it only sees the page's own sections
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
         body_md = collapse_dividers(body_md)
+        if (cells := class_archetype_cells(body_md)):
+            class_archetypes[p.filename] = cells
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
@@ -1818,8 +1925,9 @@ def convert(with_images: bool) -> None:
     write_link_families(pages, derived_notes)
     if home_page:
         dest, out = home_page
-        dest.write_text(sphere_lists(drop_merged_links(add_feats_links(out, feats_pages, drawback_pages),
-                                                       merge_links)), encoding="utf-8")
+        home = add_feats_links(out, feats_pages, drawback_pages)
+        home = sphere_lists(drop_merged_links(home, merge_links))
+        dest.write_text(fill_class_archetypes(home, class_archetypes), encoding="utf-8")
         print(f"Sphere feats pages: {len(feats_pages)}")
 
     if wm_page:
@@ -1949,6 +2057,10 @@ def write_link_families(pages: dict[str, Page], derived: list[tuple[str, str]] |
     for slug, counts in votes.items():
         t = pages[slug]
         families[f"{t.folder}/{t.filename}.md".lstrip("/")] = counts.most_common(1)[0][0]
+    for slug, fam in FAMILY_OVERRIDES.items():
+        if slug in pages:
+            t = pages[slug]
+            families[f"{t.folder}/{t.filename}.md".lstrip("/")] = fam
     for note, sphere in derived or []:
         if sphere in families:
             families[note] = families[sphere]
