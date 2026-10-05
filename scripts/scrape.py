@@ -130,6 +130,7 @@ HOME_SECTION_MOVES = [
     ("Feat Types", 4),
     ("Prestige Classes", 5),
     ("Other Options", 5),  # the Tools list (PAGE_NOTES) follows Other Options wherever it goes
+    ("Creatures", 5),
 ]
 # Home page sections replaced by the generated "Sample Characters" page, which is linked from
 # the end of the Creatures section instead.
@@ -155,6 +156,7 @@ HOME_FEAT_MOVES = [
     ("Associated Feats & Skills", "Associated Feats & Skills (Martial)"),
     ("Associated Feats & Skills (guile-associated-feats-skills)", "Associated Feats & Skills (Skill)"),
 ]
+HOME_PRESTIGE_SECTION = "Prestige Classes"
 # Class lists that leave the navigation grid for tables in the "Classes" section:
 # (grid section, table heading, its "Using ..." link)
 HOME_CLASS_TABLES = [
@@ -851,6 +853,17 @@ def rebalance_home_columns(md: str) -> str:
                           *feat_lines, *entries, "", "</div>", ""]
             break
 
+    # Prestige Classes (no archetypes) leave the grid for a horizontal block under the class tables
+    prestige_block = []
+    for _, sections in parsed:
+        hit = next((s for s in sections if s[0] == HOME_PRESTIGE_SECTION), None)
+        if hit:
+            sections.remove(hit)
+            entries = [l.strip() for l in hit[1] if l.strip().startswith("[[")]
+            prestige_block = ['<div class="sop-spheres sop-prestige">', "", f"**{HOME_PRESTIGE_SECTION}**", "",
+                              *entries, "", "</div>", ""]
+            break
+
     rebuilt, kept, archetypes_col = [], 0, None
     for prefix, sections in parsed:
         col = list(prefix)
@@ -874,7 +887,8 @@ def rebalance_home_columns(md: str) -> str:
         at = next(i for i, l in enumerate(col) if l.strip() == "## Archetypes")
         col[at:at + 1] = ["## Classes", "", *class_tables, "### Base PF1e Classes *([[Archetype Rules]])*"]
         # the tables share a wrapper so custom.scss can give them one width and column grid
-        classes = ["", *col[:at + 1], "", '<div class="sop-classes">', "", *col[at + 1:], "", "</div>", ""]
+        classes = ["", *col[:at + 1], "", '<div class="sop-classes">', "", *col[at + 1:], "", "</div>", "",
+                   *prestige_block]
     spheres = []
     if sphere_cols:
         # one full-width block per category (header, then its spheres; sphere_lists() turns the
@@ -882,7 +896,7 @@ def rebalance_home_columns(md: str) -> str:
         spheres = ["## Spheres", "", '<div class="sop-spheres">', ""]
         for col in sphere_cols:
             spheres += [*col, ""]
-        spheres += ["</div>", "", "## Classes & Options", ""]
+        spheres += ["</div>", "", "## Character Options", ""]
     out = lines[:start] + spheres + feat_block + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
     return remove_using_row("\n".join(out))
 

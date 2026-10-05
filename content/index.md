@@ -116,7 +116,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 </div>
 
-## Classes & Options
+## Character Options
 
 <div class="sop-spheres sop-feats">
 
@@ -188,17 +188,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Generation Traditions]]
 [[Origins]]
 [[Traits]]
-
----
-
-**Creatures**
-
-[[Sphere Bestiary]]
-[[Sphere Races]]
-[[Sphere Templates]]
-[[Practitioner Bestiary]]
-[[Starfinder Conversion]]
-[[Sample Characters]]
 
 </div>
 
@@ -285,27 +274,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 ---
 
-**Prestige Classes**
-
-[[Aeronaut Captain]]
-[[Spheres Archwizard (Prestige Class)|Archwizard]]
-
-[[Bokor]] [Core]
-[[Cyborg]] [DRS]
-[[Forest Lord]]
-[[Hive]]
-[[Kingking]] [DRS]
-[[Magemage]]
-[[Realmwalker]]
-[[Renowned Warrior]] [DRS]
-[[Superintelligence]] [DRS]
-[[Tempestarii]]
-[[Waking Sleeper]]
-[[Alternate Justicar (Prestige Class) 3PP|Alternate Justicar]] [Wiki]
-
-
----
-
 **Other Options**
 
 [[Accrual]]
@@ -323,6 +291,17 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 [[Character Builder]]
 [[Item Crafter]]
+
+---
+
+**Creatures**
+
+[[Sphere Bestiary]]
+[[Sphere Races]]
+[[Sphere Templates]]
+[[Practitioner Bestiary]]
+[[Starfinder Conversion]]
+[[Sample Characters]]
 
 </div>
 
@@ -445,6 +424,27 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[Familiars](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)** | [[Beast Of Omen (Familiar Archetype)\|Beast of Omen]], [[Dream Guide (Familiar Archetype)\|Dream Guide]], [[Shadow Familiar (Familiar Archetype)\|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)\|Willing Martyr]] |  |
 | **Cantor** |  | [[Cantor Hymns]] |
 | **Soulknife** | [[Epoch-Walker (Soulknife Archetype)\|Epoch-Walker]] [CS] | [[Soulknife Blade Skills]] |
+
+</div>
+
+<div class="sop-spheres sop-prestige">
+
+**Prestige Classes**
+
+- [[Aeronaut Captain]]
+- [[Spheres Archwizard (Prestige Class)|Archwizard]]
+- [[Bokor]] [Core]
+- [[Cyborg]] [DRS]
+- [[Forest Lord]]
+- [[Hive]]
+- [[Kingking]] [DRS]
+- [[Magemage]]
+- [[Realmwalker]]
+- [[Renowned Warrior]] [DRS]
+- [[Superintelligence]] [DRS]
+- [[Tempestarii]]
+- [[Waking Sleeper]]
+- [[Alternate Justicar (Prestige Class) 3PP|Alternate Justicar]] [Wiki]
 
 </div>
 
