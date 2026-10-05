@@ -72,6 +72,7 @@ function blankState() {
     subSkills: { crf: [], prf: [], pro: [] },
     skillAbility: {},
     bonusSkillFormula: "",
+    bonusFeats: 0,
     features: [],
     talents: [],
     spheresModule: false,
@@ -188,7 +189,7 @@ function calc() {
   const bgBudget = s.backgroundSkills ? BG_PER_LEVEL * hd : 0
   const ranksUsed = normalUsed + Math.max(0, bgUsed - bgBudget)
 
-  const featSlots = Math.ceil(hd / 2) + num(s.race.bonusFeats)
+  const featSlots = Math.ceil(hd / 2) + num(s.race.bonusFeats) + num(s.bonusFeats)
   const featsTaken = s.features.filter((f) => f.kind === "feat").length
   // pf1spheres: CL = sum of progression x level (capped at HD); MSB/MSD base = levels in casting classes
   const casters = s.spheresModule ? classes.filter((c) => c.caster !== "none") : []
@@ -605,6 +606,10 @@ const panels = {
   features() {
     return [
       h("h2", {}, "Feats & features"),
+      h("div", { class: "card row", style: "margin-bottom:.75rem" },
+        field("Bonus feats", input("bonusFeats", { type: "number", min: 0 })),
+        h("span", { class: "note", style: "flex:1 1 220px" }, "Extra feats beyond level and race, such as fighter or class bonus feats. Exported to the Bonus Feats box on Foundry's Features tab."),
+      ),
       h("p", { class: "muted" }, "Feats, traits, class features and racial traits. Each one exports as a feature item with your text as its description. Add mechanical effects (Changes) in Foundry if you want them automated."),
       entryList("features", () => ({ name: "", kind: "feat", desc: "" }), (e, p) => [
         field("Name", input(p + "name", { placeholder: "Power Attack" })),
@@ -986,6 +991,7 @@ function buildActor() {
       weight: s.details.weight,
       deity: s.details.deity,
       bonusSkillRankFormula: s.bonusSkillFormula.trim(),
+      bonusFeatFormula: num(s.bonusFeats) ? String(num(s.bonusFeats)) : "",
       biography: { value: bio },
     },
     traits: {
