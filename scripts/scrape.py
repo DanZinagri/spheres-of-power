@@ -895,8 +895,13 @@ def drop_merged_links(md: str, merges: list[tuple[str, str]]) -> str:
     return md
 
 
-DRAWBACKS_SLUG = "casting-traditions"
-DRAWBACKS_HEADING = "Sphere-Specific Drawbacks"   # also the overview page's title
+DRAWBACKS_HEADING = "Sphere-Specific Drawbacks"
+# Pages whose Sphere-Specific Drawbacks section is split into one page per sphere, with the
+# title of the overview page that links them all.
+DRAWBACK_SOURCES = {
+    "casting-traditions": "Sphere-Specific Drawbacks",          # magic spheres
+    "martial-traditions": "Martial Sphere-Specific Drawbacks",  # combat spheres
+}
 
 
 def cut_section(md: str, heading: str) -> tuple[str, str]:
@@ -920,7 +925,7 @@ def cut_section(md: str, heading: str) -> tuple[str, str]:
     return "\n".join(lines[:start] + lines[end:]), "\n".join(body).strip()
 
 
-def split_drawbacks(md: str) -> tuple[str, str, list[tuple[str, str]]]:
+def split_drawbacks(md: str, overview: str = DRAWBACKS_HEADING) -> tuple[str, str, list[tuple[str, str]]]:
     """Casting Traditions' "Sphere-Specific Drawbacks" section: one "### [[Sphere]]" group of
     "#### Drawback" entries per sphere. Returns (page markdown with the groups replaced by a link
     to the overview page, the section's intro text, [(sphere note name, that sphere's entries)])."""
@@ -949,7 +954,7 @@ def split_drawbacks(md: str) -> tuple[str, str, list[tuple[str, str]]]:
         if any(level_of(l) for l in body):  # skip groups left empty (e.g. "Universal" after SM—)
             spheres.append((name, "\n".join(body).strip()))
     keep = [lines[start], "", intro, "",
-            f"*Each sphere's drawbacks are on their own page: see [[{DRAWBACKS_HEADING}]].*", ""]
+            f"*Each sphere's drawbacks are on their own page: see [[{overview}]].*", ""]
     return "\n".join(lines[:start] + keep + lines[end:]), intro, spheres
 
 
@@ -957,12 +962,13 @@ def add_feats_links(home_md: str, feats: dict[str, str], drawbacks: dict[str, st
     """Home page Magic Spheres list: "[[Alteration]]" -> "[[Alteration]] | [[Alteration Sphere Feats|Feats]]"."""
     out, inside = [], False
     for line in home_md.split("\n"):
-        if line.strip() == "**Magic Spheres**":
+        if line.strip() in ("**Magic Spheres**", "**Combat Spheres**"):
             inside = True
         elif inside and (re.fullmatch(r"\*\*[^*]+\*\*", line.strip()) or line.strip() in ("---", "</div>")):
             inside = False
         if inside:
-            m = re.match(r"\[\[([^\]|#]+)\]\]", line)
+            # "[[Alchemy]]" or "[[Warleader (warleader-sphere)|Warleader]]"
+            m = re.match(r"\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]", line)
             if m:
                 extra = ""
                 if m.group(1) in feats:
@@ -1640,14 +1646,26 @@ def convert(with_images: bool) -> None:
                 feats_dest.write_text("\n".join(feats_fm) + "\n" + GENERATED_MARK + "\n\n"
                                       + collapse_dividers(feats_md), encoding="utf-8")
                 feats_pages[p.filename] = feats_name
-        if p.slug == DRAWBACKS_SLUG:
-            body_md, dintro, dspheres = split_drawbacks(body_md)
-            by_name = {pp.filename: pp for pp in pages.values()}
-            overview = ["---", f"title: {yaml_str(DRAWBACKS_HEADING)}", f"source: {SITE}/{p.slug}",
+        if p.slug in DRAWBACK_SOURCES:
+            overview_title = DRAWBACK_SOURCES[p.slug]
+            body_md, dintro, dspheres = split_drawbacks(body_md, overview_title)
+            top = p.folder.split("/")[0]
+
+            def find_sphere(name: str):
+                # by note name or title; same-named pages exist (the Warleader sphere vs the
+                # Armorist's Warleader archetype), so prefer the source page's book folder
+                cands = [pp for pp in pages.values() if name in (pp.filename, pp.title)]
+                cands.sort(key=lambda pp: (pp.folder.split("/")[0] != top, "sphere" not in pp.slug))
+                return cands[0] if cands else None
+
+            # on the split pages the intro's own headings ("Utility Starts") become bold labels,
+            # so they don't sit above the ## drawback entries as deeper headings
+            dintro = re.sub(r"^#{1,6} (.+?)\s*$", r"**\1**", dintro, flags=re.M)
+            overview = ["---", f"title: {yaml_str(overview_title)}", f"source: {SITE}/{p.slug}",
                         "parent: " + yaml_str(f"[[{p.filename}]]"), "---", GENERATED_MARK, "",
                         dintro, "", "## Drawbacks by Sphere", ""]
             for sphere_name, entries in dspheres:
-                sphere = by_name.get(sphere_name)
+                sphere = find_sphere(sphere_name)
                 folder = sphere.folder if sphere else p.folder
                 title = f"{sphere_name} Sphere Drawbacks"
                 name = clean_filename(title)
@@ -1656,18 +1674,18 @@ def convert(with_images: bool) -> None:
                        "parent: " + yaml_str(f"[[{parent}]]"), "---"]
                 ddest = CONTENT / folder / f"{name}.md"
                 ddest.parent.mkdir(parents=True, exist_ok=True)
-                if sphere_name in merged_drawbacks:
+                if (sphere.filename if sphere else sphere_name) in merged_drawbacks:
                     # merged pages' drawbacks first (default tab), then these as "Ultimate"
-                    entries = tab_set(merged_drawbacks[sphere_name] + [("Ultimate", entries)])
+                    entries = tab_set(merged_drawbacks[sphere.filename if sphere else sphere_name] + [("Ultimate", entries)])
                 # the section's general rules go at the top of every sphere's page
                 ddest.write_text("\n".join(dfm) + "\n" + GENERATED_MARK + "\n\n" + dintro + "\n\n"
                                  + collapse_dividers(entries + "\n"), encoding="utf-8")
-                drawback_pages[sphere_name] = name
+                drawback_pages[sphere.filename if sphere else sphere_name] = name
                 overview.append(f"- [[{name}|{sphere_name}]]")
             if dspheres:
-                (CONTENT / p.folder / f"{clean_filename(DRAWBACKS_HEADING)}.md").write_text(
+                (CONTENT / p.folder / f"{clean_filename(overview_title)}.md").write_text(
                     "\n".join(overview) + "\n", encoding="utf-8")
-                print(f"Sphere drawbacks pages: {len(dspheres)}")
+                print(f"Sphere drawbacks pages ({p.slug}): {len(dspheres)}")
         if p.slug in merged_tabs:  # after the feats split, so it only sees the page's own sections
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
         body_md = collapse_dividers(body_md)
