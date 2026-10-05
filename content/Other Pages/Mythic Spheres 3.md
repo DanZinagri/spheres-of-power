@@ -379,7 +379,6 @@ The monster gains a number of magic or combat talents equal to half their Hit Di
 [[/tab]]
 [[tab Mythic Simple Templates]]
 
-# Mythic Simple Templates
 
 # Mythic Spheres Solutions
 

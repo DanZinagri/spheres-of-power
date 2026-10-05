@@ -5509,7 +5509,6 @@ The monster gains a number of magic or combat talents equal to half their Hit Di
 
 <div class="sop-tab-label">Mythic Simple Templates</div>
 
-# Mythic Simple Templates
 
 </div>
 

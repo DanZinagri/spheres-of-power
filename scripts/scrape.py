@@ -1326,8 +1326,34 @@ def tidy(md: str) -> str:
     return md.strip() + "\n"
 
 
+def drop_empty_headings(md: str) -> str:
+    """Plain-text headings left with nothing under them once their entries were removed (e.g.
+    "### Universal" on Casting Traditions after the Studio M— tradition went). A section is empty
+    when what follows is a heading of the same or higher level, a divider, a block end, or the end.
+    Link headings ("#### [[Aballonian ...]]") are entries themselves and stay."""
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    while True:
+        lines = md.split("\n")
+        drop = set()
+        for i, line in enumerate(lines):
+            level = level_of(line)
+            if not level or "[[" in line:
+                continue
+            j = i + 1
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            nxt = lines[j].strip() if j < len(lines) else ""
+            if j >= len(lines) or nxt in ("---", "</div>") or 0 < level_of(nxt) <= level:
+                drop.add(i)
+        if not drop:
+            return md
+        md = "\n".join(l for i, l in enumerate(lines) if i not in drop)
+
+
 def collapse_dividers(md: str) -> str:
-    """Back-to-back '---' lines (left where sections were removed) -> one; none at the very end."""
+    """Back-to-back '---' lines (left where sections were removed) -> one; none at the very end.
+    Also drops plain headings whose sections ended up empty."""
+    md = drop_empty_headings(md)
     md = re.sub(r"^---[ \t]*\n(?:[ \t]*\n)*(?=---[ \t]*$)", "", md, flags=re.M)
     return re.sub(r"(?:\A|\n)[ \t\n]*---[ \t]*\s*\Z", "\n", md)
 

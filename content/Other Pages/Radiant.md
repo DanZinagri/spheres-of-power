@@ -185,10 +185,6 @@ Radiants gain access to the following veils.
 
 ---
 
-# Archetypes
-
----
-
 ## Favored Class Bonuses
 
 The following favored class options are available to all characters of the listed race who have radiant as their favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.

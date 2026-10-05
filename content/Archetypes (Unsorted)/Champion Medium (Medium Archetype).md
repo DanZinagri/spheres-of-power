@@ -141,7 +141,6 @@ This alters legendary trickster.
 
 ---
 
-# Feats
 
 </div>
 

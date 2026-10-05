@@ -340,7 +340,6 @@ AI are able to use certain gizmos more freely (subject to GM discretion). If an 
 
   **Already-Animated Host Bodies**: With the exception of *mechanoids*, an AI installed into a host gizmo that can already act as an independent creature due to another effect cannot be automatically controlled by an AI (such as an object made into a creature with an *awaken* or *animate object* spell effect). If an AI wants to control its host gizmo, it may attempt a gizmo penetration check against the animating effect’s magic skill defense (or other relevant statistic). On a successful check, the magical effect is suppressed and the AI takes control of the host gizmo. If the host gizmo is intelligent, it may attempt to reassert control (as though it were an activated, competing AI).
 
-### Lesser AI
 
 # Mechanoid
 
