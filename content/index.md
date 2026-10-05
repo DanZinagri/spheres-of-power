@@ -118,7 +118,47 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 ## Classes & Options
 
-<div class="sop-columns" style="--cols: 5">
+<div class="sop-spheres sop-feats">
+
+**Feat Types**
+
+- [[Feats]]
+- [[Practitioner Feats]]
+- [[Operative Feats]]
+- [[Champion Feats]]
+- [[Associated Feats & Skills|Associated Feats & Skills (Martial)]]
+- [[Associated Feats & Skills (guile-associated-feats-skills)|Associated Feats & Skills (Skill)]]
+- [[Admixture Feats|Admixture]]
+- [[Anathema Feats|Anathema]]
+- [[Aristeia Feats|Aristeia]]
+- [[Chance Feats|Chance]]
+- [[Channeling Feats|Channeling]]
+- [[Combat Feats|Combat]]
+- [[Companion Feats|Companion]]
+- [[Counterspell Feats|Counterspell]]
+- [[Damnation Feats|Damnation]]
+- [[DrawbackDefiler Feats|Drawback]]
+- [[Extra Feats|Extra]]
+- [[General Feats|General]]
+- [[Item Creation Feats|Item Creation]]
+- [[Metamagic Feats|Metamagic]]
+- [[Necrosis Feats|Necrosis]]
+- [[Plague Feats|Plague]]
+- [[Protokinesis Feats|Protokinesis]]
+- [[Proxy Feats|Proxy]]
+- [[Purring Feats|Purring]]
+- [[Racial Feats|Racial]]
+- [[Ritual Feats|Ritual]]
+- [[Skybourne Feats|Skybourne]]
+- [[Squadron Feats|Squadron]]
+- [[Surreal Feats|Surreal]]
+- [[Teamwork Feats|Teamwork]]
+- [[Theurge Feats|Theurge]]
+- [[Wild Magic Feats|Wild Magic]]
+
+</div>
+
+<div class="sop-columns" style="--cols: 4">
 
 <div class="sop-col">
 
@@ -145,7 +185,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 [[Alternate Racial Traits]]
 [[Casting Traditions]]
 [[Casting Packages]] [Wiki]
-[[Feats]]
 [[Generation Traditions]]
 [[Origins]]
 [[Traits]]
@@ -171,10 +210,8 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 **Martial Options**
 
-[[Associated Feats & Skills]]
 [[Martial Traditions]]
 [[Martial Packages]] [Wiki]
-[[Practitioner Feats]]
 [[Practitioner Traits]]
 [[Practitioner FCB's]]
 
@@ -184,8 +221,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 **Skill Options**
 
-[[Associated Feats & Skills (guile-associated-feats-skills)|Associated Feats & Skills]]
-[[Operative Feats]]
 [[Operative Gear]]
 [[Skill Rules]]
 [[Trade Traditions]]
@@ -194,10 +229,19 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 **Champion Options**
 
-[[Champion Feats]]
 [[Unified Traditions]]
 [[Champion FCBs]]
 [[Techniques]]
+
+---
+
+**Practitioner Gear**
+
+[[Adventuring Gear]]
+[[Mechanical Parts]]
+[[Technological Gear]]
+[[Practitioner Magic Items]]
+[[Practitioner Weapons]]
 
 </div>
 
@@ -232,54 +276,6 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 - [[Talent Crystals]]
 
 [[Loot Tables]]
-
----
-
-**Practitioner Gear**
-
-[[Adventuring Gear]]
-[[Mechanical Parts]]
-[[Technological Gear]]
-[[Practitioner Magic Items]]
-[[Practitioner Weapons]]
-
-</div>
-
-<div class="sop-col">
-
-
-
----
-
-**Feat Types**
-
-[[Admixture Feats|Admixture]]
-[[Anathema Feats|Anathema]]
-[[Aristeia Feats|Aristeia]]
-[[Chance Feats|Chance]]
-[[Channeling Feats|Channeling]]
-[[Combat Feats|Combat]]
-[[Companion Feats|Companion]]
-[[Counterspell Feats|Counterspell]]
-[[Damnation Feats|Damnation]]
-[[DrawbackDefiler Feats|Drawback]]
-[[Extra Feats|Extra]]
-[[General Feats|General]]
-[[Item Creation Feats|Item Creation]]
-[[Metamagic Feats|Metamagic]]
-[[Necrosis Feats|Necrosis]]
-[[Plague Feats|Plague]]
-[[Protokinesis Feats|Protokinesis]]
-[[Proxy Feats|Proxy]]
-[[Purring Feats|Purring]]
-[[Racial Feats|Racial]]
-[[Ritual Feats|Ritual]]
-[[Skybourne Feats|Skybourne]]
-[[Squadron Feats|Squadron]]
-[[Surreal Feats|Surreal]]
-[[Teamwork Feats|Teamwork]]
-[[Theurge Feats|Theurge]]
-[[Wild Magic Feats|Wild Magic]]
 
 </div>
 

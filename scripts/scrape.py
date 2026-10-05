@@ -126,7 +126,7 @@ def add_page_notes(slug: str, md: str) -> str:
 # Balanced from rendered section heights at 1920px (columns end up within ~330px of each other).
 HOME_SECTION_MOVES = [
     ("Gear", 3),
-    ("Practitioner Gear", 3),
+    ("Practitioner Gear", 2),
     ("Feat Types", 4),
     ("Prestige Classes", 5),
     ("Other Options", 5),  # the Tools list (PAGE_NOTES) follows Other Options wherever it goes
@@ -144,6 +144,17 @@ HOME_SPHERE_COLUMNS = [
 ]
 # Other home sections whose heading gets a small "(Using ...)" link
 HOME_HEADER_LINKS: dict[str, str] = {}
+# Home "Feat Types" gets its own full-width block; these general feat pages join it (first),
+# with labels for the two pages that share a name: (link target, label or None)
+HOME_FEAT_SECTION = "Feat Types"
+HOME_FEAT_MOVES = [
+    ("Feats", None),
+    ("Practitioner Feats", None),
+    ("Operative Feats", None),
+    ("Champion Feats", None),
+    ("Associated Feats & Skills", "Associated Feats & Skills (Martial)"),
+    ("Associated Feats & Skills (guile-associated-feats-skills)", "Associated Feats & Skills (Skill)"),
+]
 # Class lists that leave the navigation grid for tables in the "Classes" section:
 # (grid section, table heading, its "Using ..." link)
 HOME_CLASS_TABLES = [
@@ -816,6 +827,30 @@ def rebalance_home_columns(md: str) -> str:
             class_tables += [f"### {title} *([[{using}]])*", "", *rows, ""]
             break
 
+    # Feat Types leaves the grid for its own full-width block (styled like Spheres) at the top of
+    # Classes & Options, and the general feat pages from other sections join it first
+    feat_lines = []
+    for target, label in HOME_FEAT_MOVES:
+        pattern = re.compile(rf"\[\[{re.escape(target)}(?:\|[^\]]*)?\]\]")
+        for _, sections in parsed:
+            hit = next(((s, k) for s in sections if s[0] != HOME_FEAT_SECTION
+                        for k, l in enumerate(s[1]) if pattern.match(l.strip())), None)
+            if hit:
+                line = hit[0][1].pop(hit[1]).strip()
+                if label:
+                    line = pattern.sub(f"[[{target}|{label}]]", line, count=1)
+                feat_lines.append(line)
+                break
+    feat_block = []
+    for _, sections in parsed:
+        hit = next((s for s in sections if s[0] == HOME_FEAT_SECTION), None)
+        if hit:
+            sections.remove(hit)
+            entries = [l.strip() for l in hit[1] if l.strip().startswith("[[")]
+            feat_block = ['<div class="sop-spheres sop-feats">', "", f"**{HOME_FEAT_SECTION}**", "",
+                          *feat_lines, *entries, "", "</div>", ""]
+            break
+
     rebuilt, kept, archetypes_col = [], 0, None
     for prefix, sections in parsed:
         col = list(prefix)
@@ -848,7 +883,7 @@ def rebalance_home_columns(md: str) -> str:
         for col in sphere_cols:
             spheres += [*col, ""]
         spheres += ["</div>", "", "## Classes & Options", ""]
-    out = lines[:start] + spheres + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
+    out = lines[:start] + spheres + feat_block + [lines[start], ""] + rebuilt + [lines[end]] + classes + lines[end + 1:]
     return remove_using_row("\n".join(out))
 
 
@@ -858,7 +893,7 @@ def sphere_lists(md: str) -> str:
     out, inside, pending_blank = [], False, False
     for line in md.split("\n"):
         s = line.strip()
-        if s == '<div class="sop-spheres">':
+        if s.startswith('<div class="sop-spheres'):  # also the Feat Types block
             inside = True
         elif inside and s == "</div>":
             inside = False
