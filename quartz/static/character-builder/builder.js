@@ -71,6 +71,7 @@ function blankState() {
     skills: {},
     subSkills: { crf: [], prf: [], pro: [] },
     skillAbility: {},
+    bonusSkillFormula: "",
     features: [],
     talents: [],
     spheresModule: false,
@@ -173,6 +174,8 @@ function calc() {
   let skillBudget = 0
   for (const c of classes) skillBudget += Math.max(1, num(c.skills) + abl.int.mod) * num(c.level) + num(c.fcbSkill)
   skillBudget += num(s.race.bonusSkillPerLevel) * hd
+  const bonusSkill = evalFormula(s.bonusSkillFormula, { hd, int: abl.int.mod })
+  if (bonusSkill.value != null) skillBudget += bonusSkill.value
   // background ranks overspent spill into the normal pool, as in the PF1 system
   let normalUsed = 0, bgUsed = 0
   for (const k of Object.keys(SKILLS)) {
@@ -197,7 +200,25 @@ function calc() {
   const spheres = { cl, msb, msd: 11 + msb, concentration: msb + castMod, talents: {} }
   for (const t of s.talents) if (t.sphere && !t.exclude) spheres.talents[t.sphere] = (spheres.talents[t.sphere] ?? 0) + 1
   const pointsSpent = ABL.reduce((a, k) => a + (POINT_COST[num(s.abilities[k])] ?? NaN), 0)
-  return { abl, hd, bab, saves, hp, classHp, ac, touch, flat, cmb, cmd, acp, asf, classSkills, skillBudget, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
+  return { abl, hd, bab, saves, hp, classHp, ac, touch, flat, cmb, cmd, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
+}
+
+// Preview-only evaluation of simple Foundry formulas (numbers, + - * /, floor/ceil, a few @ paths).
+// Anything else is left for Foundry to work out.
+function evalFormula(formula, { hd, int }) {
+  const f = String(formula || "").trim()
+  if (!f) return { value: 0 }
+  const expr = f
+    .replace(/@attributes\.hd\.total/g, String(hd))
+    .replace(/@abilities\.int\.mod/g, String(int))
+    .replace(/\b(floor|ceil|round)\(/g, "Math.$1(")
+  if (!/^(?:[\d+\-*/(). ]|Math\.(?:floor|ceil|round))*$/.test(expr)) return { value: null }
+  try {
+    const v = Function(`"use strict"; return (${expr})`)()
+    return Number.isFinite(v) ? { value: Math.floor(v) } : { value: null }
+  } catch {
+    return { value: null }
+  }
 }
 
 function classHpFor(c, i) {
@@ -560,6 +581,14 @@ const panels = {
     return [
       h("h2", {}, "Skills"),
       h("div", { class: "card row", style: "margin-bottom:.75rem" },
+        field("Bonus skill ranks", (() => {
+          const el = input("bonusSkillFormula", { placeholder: "Formula, e.g. 2 or @attributes.hd.total", style: "width:18rem" })
+          el.addEventListener("input", refreshSkillCounters)
+          return el
+        })()),
+        h("span", { class: "note", style: "flex:1 1 220px", "data-counter": "bonus" }),
+      ),
+      h("div", { class: "card row", style: "margin-bottom:.75rem" },
         checkbox("backgroundSkills", h("strong", {}, "Background skills")),
         h("span", { class: "note", style: "flex:1 1 260px" }, `Pathfinder Unchained variant: +${BG_PER_LEVEL} ranks per class level that only go into background skills (their own table below), and Artistry and Lore become available. Turn on the matching world setting in Foundry too (Game Settings → System Settings → Variant Rules → Background Skills).`),
       ),
@@ -829,6 +858,11 @@ function entryList(key, make, fields, addLabel, grouper) {
 
 function refreshSkillCounters() {
   const c = calc()
+  const bonus = document.querySelector('#panel [data-counter="bonus"]')
+  if (bonus)
+    bonus.textContent = c.bonusSkill.value == null
+      ? "Foundry will calculate this formula; it isn't included in the preview count."
+      : `Extra ranks on top of class, Intelligence, race and favored class: ${signed(c.bonusSkill.value)}. Same as the Bonus Skill Ranks box on Foundry's Skills tab.`
   const over = c.bgUsed - c.bgBudget
   const adv = document.querySelector('#panel [data-counter="adv"]')
   const bg = document.querySelector('#panel [data-counter="bg"]')
@@ -951,6 +985,7 @@ function buildActor() {
       height: s.details.height,
       weight: s.details.weight,
       deity: s.details.deity,
+      bonusSkillRankFormula: s.bonusSkillFormula.trim(),
       biography: { value: bio },
     },
     traits: {
