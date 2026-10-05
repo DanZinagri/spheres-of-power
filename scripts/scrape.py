@@ -899,6 +899,27 @@ DRAWBACKS_SLUG = "casting-traditions"
 DRAWBACKS_HEADING = "Sphere-Specific Drawbacks"   # also the overview page's title
 
 
+def cut_section(md: str, heading: str) -> tuple[str, str]:
+    """Remove the section with this exact heading text; return (rest, its body with the shallowest
+    inner heading level normalized to ##). The section ends at a heading of the same or higher
+    level or at the end of its block (</div>)."""
+    lines = md.split("\n")
+    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+    start = next((i for i, l in enumerate(lines) if level_of(l) and l.lstrip("#").strip() == heading), None)
+    if start is None:
+        return md, ""
+    level = level_of(lines[start])
+    end = next((i for i in range(start + 1, len(lines))
+                if 0 < level_of(lines[i]) <= level or lines[i].strip() == "</div>"), len(lines))
+    chunk = lines[start + 1:end]
+    if "\n".join(chunk).count("<div") != "\n".join(chunk).count("</div>"):
+        return md, ""
+    inner = min((level_of(l) for l in chunk if level_of(l)), default=level + 1)
+    body = [("#" * max(2, level_of(l) - inner + 2) + " " + l.lstrip("#").lstrip()) if level_of(l) else l
+            for l in chunk]
+    return "\n".join(lines[:start] + lines[end:]), "\n".join(body).strip()
+
+
 def split_drawbacks(md: str) -> tuple[str, str, list[tuple[str, str]]]:
     """Casting Traditions' "Sphere-Specific Drawbacks" section: one "### [[Sphere]]" group of
     "#### Drawback" entries per sphere. Returns (page markdown with the groups replaced by a link
@@ -1485,6 +1506,7 @@ def convert(with_images: bool) -> None:
     # TAB_MERGES: convert each source page now, drop it, and point links to it at the target
     merged_tabs: dict[str, list[tuple[str, str]]] = {}
     merged_feats: dict[str, list[tuple[str, str]]] = {}  # target slug -> [(tab label, feats md)]
+    merged_drawbacks: dict[str, list[tuple[str, str]]] = {}  # target note name -> [(label, md)]
     merge_links: list[tuple[str, str]] = []
     for target, sources in TAB_MERGES.items():
         if target not in pages:
@@ -1507,6 +1529,10 @@ def convert(with_images: bool) -> None:
                 md, feats_part = split_sphere_feats(md, fm_head.group(1))
                 if feats_part:
                     merged_feats.setdefault(target, []).append((label, feats_part))
+            # ...and its own Sphere-Specific Drawbacks go to the target's drawbacks page as a tab
+            md, drawbacks_part = cut_section(md, DRAWBACKS_HEADING)
+            if drawbacks_part:
+                merged_drawbacks.setdefault(pages[target].filename, []).append((label, drawbacks_part))
             merged_tabs.setdefault(target, []).append((label, md))
             merge_links.append((pages[target].filename, label))
     print(f"Sample characters (nosearch): {len(samples)}")
@@ -1630,6 +1656,9 @@ def convert(with_images: bool) -> None:
                        "parent: " + yaml_str(f"[[{parent}]]"), "---"]
                 ddest = CONTENT / folder / f"{name}.md"
                 ddest.parent.mkdir(parents=True, exist_ok=True)
+                if sphere_name in merged_drawbacks:
+                    # merged pages' drawbacks first (default tab), then these as "Ultimate"
+                    entries = tab_set(merged_drawbacks[sphere_name] + [("Ultimate", entries)])
                 # the section's general rules go at the top of every sphere's page
                 ddest.write_text("\n".join(dfm) + "\n" + GENERATED_MARK + "\n\n" + dintro + "\n\n"
                                  + collapse_dividers(entries + "\n"), encoding="utf-8")

@@ -11,6 +11,76 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+## Black Spot
+
+Your *gloom’s* maximum size is a 5-foot radius and cannot be increased in any way. You cannot use options that change the area of your *gloom* (such as greater darkness or wall of darkness, or the *shifting shadows* sphere ability). You gain a bonus dark sphere talent that grants a (blot) or (darkness) option.
+
+## Contact Dark
+
+Your Dark sphere abilities that target (i.e. *cloak*) can never have a range greater than touch. Your Dark sphere abilities that create an area of effect (i.e. *gloom*) must have their initial area of effect placed to either include a square you occupy or be adjacent to your space.
+
+## Darkness Speciality
+
+Choose either *cloak* or *gloom*. You lose that sphere ability. You may take this drawback twice, losing both *cloak* and *gloom*.
+
+**Incompatible:** Any Dark sphere drawback that modifies the exchanged sphere ability (i.e. Selective Melding and *cloak*, Singular Shade and losing *gloom*), or would exchange that sphere ability (i.e. Shadowy Storage losing the same ability).
+
+## Light Fearing
+
+*The light is not your friend, and your magic recoils from it.*
+
+You must make a successful MSB check (DC equal to your Dark sphere MSD) to use a Dark sphere ability while in an area of normal or bright light.
+
+**Incompatible:** Selective Melding, Singular Shade.
+
+## Personal Darkness
+
+You cannot target creatures other than yourself with your *cloak* sphere ability (or other Dark sphere abilities, if they can target, i.e. the following darkness option to center an effect on a target other than yourself). You gain a bonus Dark sphere talent that grants a (meld) or (shadow) option.
+
+**Special - Contact Dark:** If you possess both this drawback and the Contact Dark drawback, instead of selecting a Dark sphere talent of your choice, you gain the Clinging Darkness talent as a bonus talent and must use the following darkness option when creating a *gloom*.
+
+## Selective Melding
+
+*The darkness is your only friend, and your magic requires it.*
+
+Your (meld) effects only work within *glooms* you create (even if they would normally work outside of a darkened area, including the darkvision (meld) option). You gain a bonus Dark sphere talent that grants a (meld) option.
+
+**Incompatible:** Light Fearing.
+
+## Singular Shade
+
+*You draw upon your own shadow to produce magics, manipulating and stretching your own shadow*.
+
+You may only have one active *gloom* at any given time; while you have an active *gloom*, you do not cast a shadow (and cannot benefit from or be the target of abilities that require the target to possess a shadow, such as (shadow) options). You gain a bonus Dark sphere talent that grants a (blot), (darkness), (meld), or (shadow) option or the Darkness Mastery talent.
+
+**Incompatible:** Light Fearing, Shadowed Brew.
+
+## Shadowed Brew
+
+You may only use Dark sphere abilities that are modified with the instill darkness [instill] option (if a Dark sphere ability could not be used with the [instill] option, it cannot be used). You gain the Refined Darkness instill darkness [instill] and Clinging Darkness following darkness options as bonus options (but not the full talents).
+
+**Incompatible:** Singular Shade.
+
+## Shadowy Storage [utility start]
+
+Choose either *cloak* or *gloom*. You lose that sphere ability. You gain the Shadow Stash talent.
+
+**Incompatible:** Any Dark sphere drawback that modifies the exchanged sphere ability (i.e. Selective Melding and *cloak*, Singular Shade and losing *gloom*), or would exchange that sphere ability (i.e. Darkness Speciality losing the same ability).
+
+---
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 ## Black Spot
 
 Your area of darkness is only a 5-foot radius, and cannot be increased in any way. You cannot select talents that change the area of your darkness (such as Greater Darkness, Shifting Shadows, or Wall Of Darkness). You must select a (darkness) talent as your bonus talent for this drawback.
@@ -72,3 +142,8 @@ You must select the Instill Dark talent with the bonus talent granted by this dr
 You must select the Insinuate talent with the bonus talent granted by this drawback. You cannot create darkness except for blots, and must use the Insinuate talent when creating blots.
 
 **Incompatible:** Meld Into Dark, Penumbra, Shadow Master, Shadowed Brew.
+
+</div>
+
+</div>
+
