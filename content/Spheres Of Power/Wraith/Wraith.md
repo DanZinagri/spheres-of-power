@@ -630,22 +630,6 @@ The following feats are particularly appropriate or useful for wraiths.
 
 ---
 
-# Archetypes
-
-The following are archetypes that wraiths may select.
-
-| Archetype | Description |
-| --- | --- |
-| [[Baobhan Sith]] | Baobhan sith are wraiths who seek to emulate the vampiric seducers of the darker fairy courts. |
-| [[Collective]] [CS] | Collectives exist as a powerful hive mind. |
-| [[Draugr]] [CS] | Draugr are champions who channel a spirit of wrath and use the [[Berserker]] sphere. |
-| [[Matagot]] [CS, Catgirl HB] | Matagots permanently become small felines, rather than transforming into a ghostly form. |
-| [[Mistshade]] | Mistshades are capable of transforming into mist. |
-| [[Swarmheart]] | Swarmhearts are capable of transforming into a swarm of vermin. |
-| [[Unbodied]] | Unbodied wraiths can exist permanently in an incorporeal form. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for wraiths.
@@ -1220,18 +1204,6 @@ Races that count as multiple other races, such as half elves counting as both el
 - **Hobgoblin:** Gain +1/6th of a new combat feat.
 - **Orc:** Increase effective class level by +1/3 when determining what creatures of the animal and magical beast types you can possess.
 - **Tiefling:** Gain +1/8 bonus to possession DC.
-
----
-
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| -[[Collective\|Old Collective]] [CS] | Collectives are champions who use the [[Leadership]] sphere and generate a hive mind. |
-| -[[Draugr\|Old Draugr]] [CS] | The Draugr is a champion that learns to use rage and martial techniques to augment their magical force. |
-| -[[Mistshade\|Old Mistshade]] | The Mistshade turns into mist instead of a wraith, obscuring themselves from enemies and improving their flight. |
-| -[[Swarmheart\|Old Swarmheart]] | The Swarmheart transforms into a swarm of vermin instead of a wraith, filling up more space and crawling all over their enemies. |
-| -[[Unbodied\|Old Unbodied]] | The Unbodied is permanently locked into their Wraith Form, and must spend a great deal of time possessing creatures or objects to safeguard themselves. |
 
 ---
 

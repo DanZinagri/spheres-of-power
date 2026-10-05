@@ -1132,19 +1132,6 @@ This ability alters gadgets.
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| -[[Adamantine Scientist]] | Adamantine Scientists are exceptionally good at punching their foes with augmented gloves. |
-| -[[Innovator]] [SUE] | Innovators are Tinker-savvy inventors and able to invent and reinvent to meet challenges. |
-| -[[Mad Scientist]] | Mad Scientists mix magic and mechanics to create magnificent monstrosities. |
-| -[[Mythbreaker]] | Mythbreakers know that magic is often less mighty than it seems - and with the right tools, they can be dispelled more effectively. |
-| -[[Rigger]] | Riggers excel at using the [[Tech]] sphere and jury-rigging devices together. |
-| -[[Suit Pilots]] | Suit pilots have one goal, and one goal only: Creating the best suit of powered armor they can. |
-
----
-
 # Favored Class Bonuses
 
 **Aasimar:** Increase the benefit of your danger sense class feature by +1/3.

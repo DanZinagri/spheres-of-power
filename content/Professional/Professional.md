@@ -1062,14 +1062,6 @@ The professional does not need to spend skill leverage when using assured expert
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Trader]] | Traders excel at managing logistics. |
-
----
-
 # Favored Class Bonuses
 
 A professional of any race can choose from the following:

@@ -490,14 +490,6 @@ Even the most rigorously detailed models are bound by incompleteness, and unders
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Sophist]] | Sophists excel at using their words to trick others. |
-
----
-
 # Favored Class Bonuses
 
 A theorist of any race can choose from the following:

@@ -807,18 +807,6 @@ This replaces raucous words from the authority forte.
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Aristarch]] | Aristarchs excel at discouraging those who bother them, using their intellect to shatter the confidence of their foes. |
-| [[Beguiler]] [CS] | Beguilers weave magic and skill together to persuade their targets. |
-| [[Idol]] | Idols are masters of their communities, using wit and charm to gain the support of the masses. |
-| [[Luminary]] | Luminaries are kind, inspiring leaders who always know what to say to help those in need. |
-| [[Officer]] [CS] [DRS] | Officers understand that sometimes, violence is the only way to reach peace. |
-
----
-
 # Favored Class Bonuses
 
 An envoy of any race can choose from the following:

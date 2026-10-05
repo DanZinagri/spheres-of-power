@@ -248,22 +248,6 @@ At 20th level, the commander may have up to three enhanced tactics active at a t
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| -[[Administrator]] [CS] | Administrators are capable of wielding the most frightening force in the cosmos: bureaucracy. |
-| -[[Bearon (Commander Archetype)\|Bearon]] [CS] | The Bearon is a Commander who grants [[Bear]] powers to allies and has a support network of bears that can come to their aid. |
-| -[[Braveheart]] | Bravehearts are Commanders who use raging songs to encourage their allies. |
-| -[[Courtly Tactician]] [DRS] | A commander which represents their local lord. Uses the DRS Kingking supplement. |
-| -[[Dreadlord]] [CS] | The Dreadlord is a master of minions - especially those raised from the dead. |
-| -[[Feylord]] [CS] | Feylords use the [[Fallen Fey]] sphere to power a variety of magical effects. |
-| -[[Noble]] | Nobles use the [[Leadership]] sphere to manage and strengthen a cohort of followers. |
-| -[[Vanguard]] | The Vanguard leads from the front of a battle rather than the rear and specializes in directly aiding their allies. |
-| -[[Visionary General]] [CS] | Visionary Generals can use the [[Divination]] sphere to augment their commands. |
-
----
-
 # Favored Class Bonuses
 
 **Aasimar:** Gain +1/2 bonus to Diplomacy checks made to improve a creature’s attitude.

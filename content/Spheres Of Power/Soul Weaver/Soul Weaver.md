@@ -407,24 +407,6 @@ The powers of the beyond are sufficient to appease the bound force within.
 
 ---
 
-# Archetypes
-
-The following are archetypes that soul weavers can choose.
-
-| Archetype | Description |
-| --- | --- |
-| [[Banshee]] | Banshees specialize in manipulating the mental states of others. |
-| [[Cycle Watcher]] | Cycle watchers manipulate the flows of eternity itself. |
-| [[Dual Channeler]] | Dual channelers can channel both positive and negative energy. |
-| [[Ghost Sovereign]] | Ghost sovereigns command a royal court of undead. |
-| [[Lichling]] | Lichlings are increasingly close to becoming one of the most feared of all undead. |
-| [[Pharmakon]] | Pharmakon are particuarly talented at making medicines. |
-| [[Shaman]] [WoP] | Found in Worlds of Power, the Shaman is a Wisdom-based Soul Weaver that focuses on summoning various kinds of spirits to aid them. |
-| [[Shepherd Of The Lost\|Shepherd of the Lost]] | Shepherds of the lost specialize in dealing with the souls of the departed. |
-| [[Totemist]] | Totemists focus on [[Fate]] and can channel energy towards a balance. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for soul weavers.
@@ -989,45 +971,6 @@ Gain +1/4th of a use per day of bound nexus.
 The soul weaver heals an additional 1 point of damage to himself when using his channel energy class feature to heal.
 
 ---
-
-# Archetypes
-
-## -[[Dual Channeler|Old Dual Channeler]]
-
-The Dual Channeler is a master of the Channel Energy ability, able to both heal and harm the creatures around them.
-
-## -[[Ghost Sovereign|Old Ghost Sovereign]]
-
-The Ghost Sovereign is a true lord of the dead, eventually becoming the ruler of their own small realm.
-
-## -[[Lichling|Old Lichling]]
-
-The Lichling is a Soul Weaver who moves closer and closer to undeath, eventually gaining many of its strengths.
-
-## -[[Pharmakon|Old Pharmakon]]
-
-The Pharmakon trades their Blessings and Blights for more talent with the [[Life]] sphere.
-
-## -[[Shaman|Old Shaman]]
-
-Found in Worlds of Power, the Shaman is a Wisdom-based Soul Weaver that focuses on summoning various kinds of spirits to aid them.
-
-## -[[Totemist|Old Totemist]]
-
-The Totemist is a Soul Weaver who strives towards balance, healing or harming creatures towards a middle ground and marking creatures with symbols that can provide useful boons.
-
-**Archetype Compatibility**
-
-|  | Weapon & Armor Proficiencies | Bound Nexus | Channel Energy | Blessing/Blight | Gravewalker |
-| --- | --- | --- | --- | --- | --- |
-| Dual Channeler |  | X | M | M |  |
-| Ghost Sovereign |  | M |  | X | X |
-| Lichling |  |  | X | X |  |
-| Pharmakon |  |  |  | X |  |
-| Shaman |  |  |  |  |  |
-| Totemist |  |  | X | X |  |
-
-Guide: M = Modifies, X = Replaces, Blank = No Change
 
 </div>
 

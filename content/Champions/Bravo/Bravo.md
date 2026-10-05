@@ -621,18 +621,6 @@ If you also possess the dynamic dodge class feature, you can expend your martial
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Daredevil]] [DRS] | These daredevils are far less methodical than a typical bravo, and instead can sweep themselves up in the heat of the moment for their own edge in combat. |
-| [[Dreadnought]] [DRS] | Less flighty than the typical bravo, a dreadnought is a hulking mass of scar tissue and sheer stubbornness that refuses to drop. |
-| [[Quicksilver]] [DRS] | Quicksilvers possess a supernatural deftness—and charm—that allows them to blur the lines of reality. |
-| [[Smasher]] | Smashers, as the name suggests, excel at turning everyday items into dangerous weaponry. |
-| [[Tracer]] [DRS] | Without the focus on their versatile talent, these ‘tracers’ are able to prioritize training on dodging and weaving through the battlefield unharmed, as well as being quick on their feet when they need to be. |
-
----
-
 # Favored Class Bonuses
 
 A bravo of any race can choose from the following:

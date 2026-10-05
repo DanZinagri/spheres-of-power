@@ -367,26 +367,6 @@ If the rumor is a lie, the agent’s Bluff check result determines if it is beli
 
 ---
 
-# Archetypes
-
-## [[Blackpowder Slayer]]
-
-Blackpowder slayers are agents who are especially adept at using firearms to accomplish their goals.
-
-## [[Erudite Pugilist]]
-
-Erudite pugilists are most effective when using their own body to strike foes.
-
-## [[Imposter]]
-
-Imposters are particularly skilled at taking on fake roles, often to the point that even their allies can't figure out what they're really thinking.
-
-## [[Superstar Spy]]
-
-Superstar spies act out in the open, using their fame itself as a weapon to confuse their targets.
-
----
-
 # Favored Class Bonuses
 
 An agent of any race can choose from the following:

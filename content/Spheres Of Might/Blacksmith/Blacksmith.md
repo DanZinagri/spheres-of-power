@@ -287,23 +287,6 @@ This ability alters skilled craftsman.
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| -[[Artificer]] [LotS, CS] | Artificers specialize in crafting specific types of items. |
-| -[[Barista]] [Apoc] | Baristas specialize in brewing drinks for their allies. |
-| -[[Disciple Of Goibniu\|Disciple of Goibniu]] | Disciples of Goibniu are more familiar with fey and the natural world. |
-| -[[Essence Smith]] [Apoc, CS] | The Essence Smith is a Champion who specializes in forging magical items. |
-| -[[Fleshforger]] | …This one's probably self-explanatory. |
-| -[[Iron Chef]] | Iron Chefs are experts at creating food and providing a variety of effects to those who eat their meals. |
-| -[[Master-At-Arms]] [DRS] | The master-at-arms specializes in training and equipping their allies. |
-| -[[Peltmonger]] [LotS, CS] | Peltmongers focus on equipment whose components came from living creatures. |
-| -[[Spellforge]] [CS] | Spellforges are blacksmiths who specialize in [[Creation]] magic. |
-| -[[Techsmith]] | Techsmiths focus more on mechanical tools than magical ones. |
-
----
-
 # Favored Class Bonuses
 
 **Aasimar:** Weapons you craft deal +1/4 points of damage to evil creatures when you wield them.

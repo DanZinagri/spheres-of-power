@@ -315,24 +315,6 @@ The effective caster level of effects created using this feat is equal to your c
 
 ---
 
-# Archetypes
-
-The following are archetypes that fey adepts can take.
-
-| Archetype | Description |
-| --- | --- |
-| [[Auteur]] [CS] | Auteurs are especially adept at using illusions to influence others. |
-| [[Dreamtwister]] | Dreamtwisters are especially adept at slipping illusions into the minds of their enemies. |
-| [[Seelie Disciple]] | Seelie disciples are musically-inclined and capable of fascinating their targets. |
-| [[Sidhe Invoker]] | Sidhe invokers manipulate the plane of faerie instead of using shadowstuff. |
-| [[Skulk]] | Skulks are experts at using the [[Dark]] sphere to manipulate shade and shadows. |
-| [[Solipsist]] | Solipsists are excellent at modifying the abstract states of reality to their benefit. |
-| [[Unseelie Disciple]] | Unseelie disciples are capable of making sneak attacks and taking rogue talents. |
-| [[Word Witch]] | Word witches are experts with the [[Creation]] sphere and can speak words of creation to create effects. |
-| [[Wunderkind]] [WoP] | The Wunderkind is essentially a complete change to the Fey Adept's abilities, making it closer to an alternate class than an archetype. Their abilities focus on the manipulation of emotions and illusions. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for fey adepts.
@@ -675,52 +657,6 @@ Increase the Fey Adept’s Darkvision range by 5 ft.
 Increase the duration of the Shadowmark’s penalty by 1 round.
 
 ---
-
-# Archetypes
-
-## -[[Seelie Disciple|Old Seelie Disciple]]
-
-The Seelie Disciple trades some of their affinity for stealth and darkness for more capability with bardic performances.
-
-## -[[Sidhe Invoker|Old Sidhe Invoker]]
-
-Sidhe Invokers manipulate the plane of Faerie instead of Shadowstuff.
-
-## -[[Skulk|Old Skulk]]
-
-The Skulk loses some of their power over illusions, but gains control of the [[Dark]] sphere, including the ability to steal a target's shadow and mimic their powers.
-
-## -[[Solipsist|Old Solipsist]]
-
-Solipsists use intelligence instead of charm to understand the nature of reality - and adjust it to their will.
-
-## -[[Unseelie Disciple|Old Unseelie Disciple]]
-
-The Unseelie Disciple loses their shadowy powers and ability to create reality, but in return gains many of the capabilities of rogues.
-
-## -[[Word Witch|Old Word Witch]]
-
-Word Witches use the magic of [[Creation]] to bring powerful effects into the world.
-
-## -[[Wunderkind|Old Wunderkind]]
-
-The Wunderkind is essentially a complete change to the Fey Adept's abilities, making it closer to an alternate class than an archetype. Their abilities focus on the manipulation of emotions and illusions.
-
-**Archetype Compatibility**
-
-|  | Weapon & Armor Proficiency | Fey Magic | Master Illusionist | Shadowstuff | Shadowmark | Create Reality |
-| --- | --- | --- | --- | --- | --- | --- |
-| Seelie Disciple |  |  |  |  |  |  |
-| Skulk |  | X | X |  |  | X |
-| Unseelie Disciple |  |  |  | X | X | X |
-| Wunderkind | M | X | X | X | X | X |
-|  | Darkvision | Truesight | Hide in Plain Sight | See in Darkness | Feytouched | Permanent Illusion |
-| Seelie Disciple | X |  | X | X |  |  |
-| Skulk |  |  |  |  | X |  |
-| Unseelie Disciple |  |  |  |  |  |  |
-| Wunderkind | X | X | X | X | X | X |
-
-Guide: M = Modifies, X = Replaces, Blank = No Change
 
 </div>
 

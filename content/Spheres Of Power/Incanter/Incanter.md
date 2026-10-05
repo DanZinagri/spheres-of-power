@@ -596,19 +596,6 @@ The following feats are particularly appropriate or useful for incanters
 
 ---
 
-# Archetypes
-
-The following are archetypes that incanters can choose.
-
-| Archetype | Description |
-| --- | --- |
-| [[Archmage]] | Trained in all magic, true Archmagi are capable of diverting their studies to quickly master all variants of magical knowledge. |
-| [[Frostweaver]] | Frostweavers have incredible control over ice. |
-| [[Reincarnated Master]] | The reincarnated master is exceptionally resistant to the grasp of death. |
-| [[Incanter Class Features (DRS)\|DRS Incanter Class Features]] [DRS] | This page contains new or alternative class features for incanter published by DRS. |
-
----
-
 # Class Equipment
 
 The following magical item is especially appropriate for incanters.
@@ -1207,30 +1194,6 @@ Choose one sphere specialization ability or domain ability that can be used a nu
 Gain a +1/2 bonus to all concentration checks.
 
 ---
-
-# Archetypes
-
-## -[[Mage|Old Mage]]
-
-Appearing in Worlds of Power, the Mage gains a selection of Guild powers and a robust education in magic that helps to enhance their talents.
-
-## -[[Reincarnated Master|Old Reincarnated Master]]
-
-The Reincarnated Master is a druid-like individual with the ability to overcome death better than most. In addition to its other powers, this archetype was also designed to serve as a sample for how archetypes from other classes could be converted to archetypes for the Incanter in home games.
-
-## -[[Warlock|Old Warlock]]
-
-The Warlock gains fewer magic talents than the normal Incanter, exchanging them for a familiar and access to a patron that can drastically increase their abilities.
-
-**Archetype Compatibility**
-
-|  | Weapon & Armor Proficiencies | Magic Talents | Specializations | Bonus Feats |
-| --- | --- | --- | --- | --- |
-| Mage |  |  | X | M |
-| Reincarnated Master |  |  | M | M |
-| Warlock |  | M |  |  |
-
-Guide: M = Modifies, X = Replaces, Blank = No Change
 
 </div>
 

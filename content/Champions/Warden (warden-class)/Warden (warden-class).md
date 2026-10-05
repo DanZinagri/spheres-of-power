@@ -756,17 +756,6 @@ The following feats are particularly appropriate or useful for wardens.
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Custodian]] | Custodians excel at guarding specific individuals. |
-| [[Empathetic Guardian]] | Empathetic Guardians can use the power of [[Eliciter]] emotions to bolster their allies. |
-| [[Jailer]] | Jailers are Wardens who excel at locking down enemies. |
-| [[Keeper]] | Keepers focus somewhat more on the magical side of their abilities as Wardens. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for wardens.

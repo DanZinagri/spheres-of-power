@@ -287,30 +287,6 @@ Whenever you use Forbidden Lore and the sum of your normal caster level (before 
 
 ---
 
-# Archetypes
-
-The following are archetypes that thaumaturges can take.
-
-| Archetype | Description |
-| --- | --- |
-| [[Devourer]] | Devourers can use their forbidden lore immediately after consuming power from enemies, but suffer a greater chance of backlash the rest of the time. |
-| [[Ebonmage (Thaumaturge Archetype)\|Ebonmage]] [DRS] | An ebonmage is talented perfection, warlocks and magi which reach into the darkness of this world to wield for their own. This archetype uses the [[Dark\|Polished Dark]] sphere rework. |
-| [[Eldritch Cultist]] | Eldritch cultists may become confused by their knowledge, but also gain the [[Divination]] sphere. |
-| [[Experimentalist]] | Experimentalists can create useful alchemic brews using their forbidden alchemy. |
-| [[Genius]] | Geniuses are particularly adept at using skills, along with a small amount of martial ability. Though officially an archetype, it is presented as a class due to the significant number of changes to the entire class. |
-| [[Knight Of Willpower\|Knight of Willpower]] | Knights of willpower can receive a truly incredible boost to their power, but also have a great chance of backlash. |
-| [[Martial Thaumaturge]] [CS] | Martial thaumaturges can access the combat spheres, although they're not as focused on it as Savants. |
-| [[Pact Master]] | Pact masters can summon a powerful companion to aid them. |
-| [[Pactmage]] | Pactmages form bargains and agreements with powerful creatures or outsiders. |
-| [[Savant (Class Version)\|Savant]] | The Savant is the martial version of the Thaumaturge. Though officially an archetype, it is presented as a class on its own page because it is different on almost every level. |
-| [[Soulfire Master]] | Soulfire masters can burn their own endurance to cast powerful magics. |
-| [[Unseen Horror]] | Unseen horrors can control invisible, mindless forces. |
-| [[Void Gazer]] | Void gazers can use the [[Dark]] sphere to cloud the sight of foes. |
-| [[Wild Mage]] | The Wild Mage realizes that raw magic is difficult to control without risk - so they throw caution to the wind in return for pure power. |
-| [[DRS Thaumaturge Class Features]] [DRS] | This page contains new or alternative class features for thaumaturge published by DRS. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for thaumaturges. The savant archetype is functionally its own class, so magical items for the savant are included on its page instead.
@@ -609,38 +585,6 @@ Whenever the thaumaturge uses the Nature sphere to deal damage (for example, inc
 Increase the duration of the Lingering Pain Invocation by 1/4th of a round.
 
 ---
-
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| -[[Devourer\|Old Devourer]] | A devourer has a higher chance of a backlash from using their Forbidden Lore skill during normal times, but can use it with no chance of backlash at all after they steal some of a foe's energy. |
-| -[[Eldritch Cultist\|Old Eldritch Cultist]] | The Eldritch Cultist has no chance of losing their magic, but may become confused as their minds tap into dangerous knowledge. They also gain some talent with [[Divination]] to help them understand more of the world around them. |
-| -[[Experimentalist\|Old Experimentalist]] | The experimentalist exchanges their forbidden knowledge for the secrets of alchemy, as well as the ability to gain power from consuming parts of other creatures. (Alternate options are available for those concerned about the morality of this.) |
-| -[[Knight Of Willpower\|Old Knight of Willpower]] | Knights of Willpower focus on creating items through sheer force of will, and are particularly specialized in the [[Creation]], [[Light]], and [[Telekinesis]] spheres. |
-| -[[Pactmage\|Old Pactmage]] | The Pactmage has a partnership with some kind of outsider, which grants them unique invocations in return for the loss of their occult knowledge. |
-| -[[Pact Master\|Old Pact Master]] | The Pact Master trades most of their casting power for the ability to call and control extraplanar creatures. |
-| -[[Savant (Thaumaturge Archetype)\|Old Savant]] [Core] | The Savant is a martial practitioner that trades their casting abilities for a more direct way of harming their foes. |
-| -[[Soulfire Master\|Old Soulfire Master]] | The Soulfire Master accepts damage to their vitality to ensure their spells finish correctly, eventually growing more adept at doing so. |
-| -[[Unseen Horror\|Old Unseen Horror]] | The Unseen Horror is the master of a lurking force that hovers around them, and they can eventually learn to improve its powers so it can help them in new ways. |
-| -[[Void Gazer\|Old Void Gazer]] | The Void Gazer gains mastery of the [[Dark]] sphere, though at the cost of some of their sight. |
-| -[[Wild Mage\|Old Wild Mage]] | The Wild Mage realizes that raw magic is difficult to control without risk - so they throw caution to the wind in return for pure power. |
-
-**Archetype Compatibility**
-
-|  | Weapon & Armor Proficiencies | Magic Talents | Forbidden Lore | Invocations | Occult Knowledge | Bonus Feats | Master Invoker |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Devourer |  |  | M |  |  |  |  |
-| Eldritch Cultist |  |  | M |  |  |  |  |
-| Experimentalist |  | M | X | X | X | M |  |
-| Pactmage |  |  |  |  | X |  |  |
-| Savant | M | X | X | X | X | X | X |
-| Soulfire Master |  |  | M1 |  |  | M |  |
-| Unseen Horror |  |  |  |  |  | M |  |
-| Void Gazer |  |  | M | M |  |  |  |
-
-Guide: M = Modifies, X = Replaces, Blank = No Change
-1: Unlike most modifications made by archetypes, the change made by the Soulfire Master to its Forbidden Lore feature does stack with other archetypes that change the backlash risk.
 
 </div>
 

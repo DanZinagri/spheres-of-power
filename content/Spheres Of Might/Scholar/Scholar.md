@@ -419,22 +419,6 @@ At 20th level, the scholar chooses any one material imposition she knows; the sc
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Astrologian]] [CS] | Astrologian scholars can invoke zodiac signs for greater power. |
-| [[Caller]] [CS] | The Caller is an expert in summoning allies to their side. |
-| [[Doctor]] | Doctors are scholars who focus their efforts on medicine, eventually learning to be more effective at healing allies and even protecting them from the Doctor's abilities. |
-| [[Engineer]] [DRS] | Engineers are scholars who develop explosive technologies to harness their scientific prowess. The engineer is a Tinker sphere-reliant archetype. |
-| [[Fell Archaeologist]] | Fell archaeologists specialize in traps and acquiring dangerous, forbidden knowledge. |
-| [[Harmacist]] | Harmacists are better at inflicting others with poison and disease than curing it. |
-| [[Slime Savant]] | Slime savants specialize in the creation and manipulation of oozes. |
-| [[Stitcher]] [CS] | Stitchers are experts at healing both the living and the dead. |
-| [[Surveyor]] [CS] | Surveyors are particularly adept at studying battlefields instead of creatures. |
-
----
-
 # Favored Class Bonuses
 
 **Aasimar:** Add +1 to Heal checks made when using your medical training, advanced medical training, or expert medical training class features.

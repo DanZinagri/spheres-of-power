@@ -261,21 +261,6 @@ At 20th level, the armiger is no longer required to expend martial focus to acti
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| -[[Antiquarian]] [CS] | Antiquarians focus on using magical foci to improve the casting power they gain from their weapons. |
-| -[[Awakener]] [CS] | The Awakener can summon the spirit of their weapon to wield it. |
-| -[[Battlefield Tinker]] | The Battlefield Tinker can combine multiple weapons and shields together to create an improbable - but potent - weapon. |
-| -[[Bladewalker]] [CS] | Bladewalkers are specialists in teleportation, and can get around the battlefield even faster than most warpers. |
-| -[[Bounty Hunter]] | The Bounty Hunter is an expert with the tools needed to find a target and bring them in. |
-| -[[Machinehead]] | Machineheads use the [[Tech]] sphere to create and use specialized weaponry. |
-| -[[Stancemaster]] | Stancemasters swap customized weapons for specialized combat stances. |
-| -[[Taskmaster]] [SUE] | Taskmasters are cybernetically enhanced master-at-arms, able to learn, adapt, and change their fighting style with ease. |
-
----
-
 # Favored Class Bonuses
 
 **Aasimar:** Gain +1/6 of a granted talent for 1 customized weapon. This talent must be from the Guardian sphere.

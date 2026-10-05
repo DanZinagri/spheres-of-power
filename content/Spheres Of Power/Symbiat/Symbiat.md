@@ -275,31 +275,6 @@ You may even target creatures with your battlefield relay that are usually immun
 
 ---
 
-# Archetypes
-
-The following are archetypes that symbiats can take.
-
-| Archetype | Description |
-| --- | --- |
-| [[Battlemind]] [CS] | Battleminds are champions who use the [[Leadership]] sphere to obtain and direct allies. |
-| [[Bloodscarred]] | Bloodscarred are symbiats with vampiric attributes and powers. |
-| [[Cerebral Singer]] [CS] | Cerebral singers focus their powers on songs and minds, rather than raw force. |
-| [[Champion Symbiat]] [CS] | Champion symbiats have learned some martial skills. |
-| [[Chronomancer]] | Chronomancers have psionic control over time. |
-| [[Egregore]] | Egregore can use their [[Mind]] abilities to fortify the minds of their allies and attack the minds of their foes. |
-| [[Gravecrawler]] | Gravecrawlers are infested with psychic insects or aberrations. |
-| [[Hekatonkheires]] | Hekatonkheires gain an increasing number of telekinetic limbs. |
-| [[Invidian]] | Invidians have an inner demon that gives them power over [[Dark]]. |
-| [[Malefactor]] | Malefactors specialize in cursing and bringing harm to their enemies. |
-| [[Mistwalker]] | Mistwalkers can transform into mist to move and attack. |
-| [[Operative]] | Operatives are stealthy warriors with outstanding skill in [[Illusion]] or [[War]]. |
-| [[Synapse]] | Synapses can use the [[Warp]] sphere to teleport more in combat. |
-| [[Telekinetic Warrior]] | Telekinetic warriors are combatants familiar with the [[Telekinesis]] sphere. |
-| [[Vector]] [CS] | The Vector is a martially-oriented Symbiat with powerful telekinetic abilities. |
-| [[Warmonger]] | Warmongers are geniuses when it comes to [[War]]. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for symbiats.
@@ -620,76 +595,6 @@ Gain a +1 bonus to concentration checks made to cast defensively.
 Gain 1/6th of a bonus combat feat.
 
 ---
-
-# Archetypes
-
-## -[[Battlemind|Old Battlemind]] [CS]
-
-Battleminds are champions who use the [[Leadership]] sphere to obtain and direct allies.
-
-## -[[Bloodscarred|Old Bloodscarred]]
-
-Bloodscarred gain vampiric powers, use of the [[Blood]] sphere, and use Charisma as their casting ability modifier.
-
-## -[[Chronomancer|Old Chronomancer]]
-
-Chronomancers use their mastery of time and space to create powerful battlefield effects.
-
-## -[[Egregore|Old Egregore]]
-
-The Egregore acts as a hive mind of sorts, commanding and supporting allies close to them.
-
-## -[[Gravecrawler|Old Gravecrawler]]
-
-Gravecrawlers gain power over the [[Death]] sphere, but only because of the worm-like aberrations infesting them.
-
-## -[[Hekatonkheires|Old Hekatonkheires]]
-
-The Hekatonkheires trades some of their mental power for [[Telekinesis]], using this to create a multitude of floating limbs that can aid them in various ways.
-
-## -[[Invidian|Old Invidian]]
-
-The Invidian gains power from a shadow demon instead of a psionic entity, gaining mastery of the [[Dark]] sphere to supplement their mental abilities.
-
-## -[[Operative|Old Operative]]
-
-Operatives specialize in the [[Illusion]] and [[War]] spheres, using information and planning to maximize their effectiveness on the battlefield.
-
-## -[[Synapse|Old Synapse]]
-
-The Synapse remains focused on the mind, but also gains talent with the [[Warp]] sphere, channeling it into special psionic powers that let them engage foes in creative new ways.
-
-## -[[Telekinetic Warrior|Old Telekinetic Warrior]]
-
-The Telekinetic Warrior is a straightforward master of [[Telekinesis]], with a particular focus on using bludgeons to attack their foes.
-
-## -[[Vector|Old Vector]] [CS]
-
-The Vector is a martially-oriented Symbiat with powerful telekinetic abilities.
-
-## -[[Warmonger|Old Warmonger]]
-
-The Warmonger gains added ability with the [[War]] sphere, learning to act faster and control more of the battlefield with their unique talents.
-
-**Archetype Compatibility**
-
-|  | Weapon & Armor Proficiencies | Battlefield Sense | Mental Powers | Psionics | ESP | Evasion | Pushed Movement |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Egregore |  |  | M | M |  |  | M |
-| Hekatonkheires |  |  | X | X |  |  |  |
-| Invidian |  |  | X | M |  |  | X |
-| Synapse |  |  | X | M |  |  |  |
-| Telekinetic Warrior |  |  | X | M | X |  |  |
-| Warmonger | M |  | X |  | M |  |  |
-|  | Trapsense | Uncanny Dodge | Two Minds | Improved Uncanny Dodge | Improved Evasion | Greater Psionics |  |
-| Egregore |  |  |  |  |  |  |  |
-| Hekatonkheires |  |  |  |  |  | X |  |
-| Invidian |  |  |  |  |  |  |  |
-| Synapse |  |  |  |  |  |  |  |
-| Telekinetic Warrior |  |  |  |  |  |  |  |
-| Warmonger | X |  |  |  |  |  |  |
-
-Guide: M = Modifies, X = Replaces, Blank = No Change
 
 </div>
 

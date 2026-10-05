@@ -402,20 +402,6 @@ When using Soul-Piercing Gaze, it is difficult for observers to detect the use o
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Bellwether]] [CS] | Bellwethers are more adept at ordinary means of social communication than most eliciters. |
-| [[Dark Presence]] | The dark presence uses the [[War]] sphere to impose their will on the battlefield. |
-| [[Empathic Duelist]] [CS] | The Empathic Duelist trades some of their focus on mental domination for the ability to form connections with the creatures of the world. |
-| [[Fright Wright]] | Fright wrights are particularly good at causing fear in their enemies. |
-| [[Hypnotist]] | Hypnotists can manipulate their own mind to provide flashes of insight. |
-| [[Id]] | Ids focus on their emotions to the exclusion of other mental powers. |
-| [[Sympath]] | Sympaths create a phantom to give power to their emotions. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for eliciters.
@@ -849,44 +835,6 @@ Gain a +1/2 bonus to Intimidation checks made to demoralize opponents, and to Bl
 Gain a +1 bonus to MSB checks made to overcome the spell resistance of outsiders.
 
 ---
-
-# Archetypes
-
-## -[[Dark Presence|Old Dark Presence]]
-
-The Dark Presence swaps their expertise with the [[Mind]] sphere for the [[War]] sphere, and gains a new set of Hypnotisms focused around drawing out the darkest parts of their foes' emotions.
-
-## -[[Empathic Duelist|Old Empathic Duelist]] [CS]
-
-The Empathic Duelist trades some of their focus on mental domination for the ability to form connections with the creatures of the world.
-
-## -[[Fright Wright|Old Fright Wright]]
-
-The Fright Wright specializes in making their enemies afraid, and can use that fear for a variety of useful effects.
-
-## -[[Hypnotist|Old Hypnotist]]
-
-The Hypnotist trades in their power over Emotions for the ability to control their own mind better, with bonuses to various investigative skills.
-
-## -[[Id|Old Id]]
-
-The Id is focused entirely on their emotions, gaining new strength with them in return for the loss of other hypnotic powers.
-
-**Archetype Compatibility**
-
-|  | Weapon & Armor Proficiencies | Enchanter | Hypnotism | Persuasive | Inspire Greatness | Emotion |
-| --- | --- | --- | --- | --- | --- | --- |
-| Dark Presence |  | X | M | X |  |  |
-| Fright Wright |  |  | M |  | X |  |
-| Hypnotist |  |  |  |  |  | X |
-| Id |  |  | X |  | X |  |
-|  | Defensive Empathy | Convincing | Link | Domination | Inspire Heroics | Reverence |
-| Dark Presence | X |  |  | X |  |  |
-| Fright Wright | M | X | X |  |  |  |
-| Hypnotist |  |  |  |  |  |  |
-| Id |  |  |  |  | X | X |
-
-Guide: M = Modifies, X = Replaces, Blank = No Change
 
 </div>
 

@@ -790,15 +790,6 @@ The conduit gains the evolve dweomer option from a font they do not possess.
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Runescriber]] | Runescribers use runes scribed upon their body instead of magical objects to draw magic from. |
-| [[Interdictor]] | Interdictors are less focused on evoking magic from objects, and instead use an object's innate magic against those using them. |
-
----
-
 # Favored Class Bonuses
 
 A conduit of any race can choose from the following:

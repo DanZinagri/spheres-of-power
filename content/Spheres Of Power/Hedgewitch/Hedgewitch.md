@@ -895,24 +895,6 @@ The following feats are particularly appropriate or useful for hedgewitches.
 
 ---
 
-# Archetypes
-
-The following are archetypes that Hedgewitches can select.
-
-**Note:** Archetypes that replace one path do not inherently conflict with other archetypes that also replace one path. You can stack up to two archetypes that do this, as long as they do not conflict with any of their other abilities.
-
-| Archetype | Description |
-| --- | --- |
-| [[Dendrite]] | An Archetype from Worlds of Power, the Dendrite is a rare class that can use Constitution for its Casting Ability Modifier, and uses the Green Magic and Herbology paths for a very druidic feel. |
-| [[Dragonblooded Mortal]] | Dragonblooded mortals are capable of becoming more and more like dragons over time. |
-| [[Entropic Sage]] | Entropic sages specialize in using the [[Destruction]] sphere to annihilate their foes. |
-| [[Guileful Hedgewitch]] [CS] | Guileful hedgewitches are more capable with mundane techniques than their peers. |
-| [[Iron Mage]] | Iron Mages are commanders who can use the [[War]] sphere and have many strategies to support their allies with. |
-| [[Martial Hedgewitch]] [CS] | The Martial Hedgewitch is more capable at combat than most of their peers. |
-| [[Triple Goddess]] | Triple Goddesses are the masters of [[Life]], [[Death]], and [[Fate]]. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for hedgewitches.
@@ -2127,45 +2109,6 @@ Choose a tradition power usable 3 + 1/2 the hedgwitch’s level times per day. I
 Choose a tradition power usable a number of times per day equal to 3 + 1/2 the hedgewitch’s level. The hedgewitch may use this power an additional 1/2 times per day.
 
 ---
-
-# Archetypes
-
-## -[[Dendrite|Old Dendrite]]
-
-An Archetype from Worlds of Power, the Dendrite is a rare class that can use Constitution for its Casting Ability Modifier, and uses the Green Magic and Herbology traditions for a very druidic feel.
-
-## -[[Dragonblooded Mortal|Old Dragonblooded Mortal]]
-
-With the blood of some of the fiercest creatures running through their veins, Dragonblooded Mortals use claws, teeth, and breath weapons to overcome their foes.
-
-## -[[Entropic Sage|Old Entropic Sage]]
-
-The Entropic Sage is focused on the end of things, and has mastered the art of infusing their fists with destructive energy.
-
-## -[[Iron Mage|Old Iron Mage]]
-
-The Iron Mage is an expert in the use of the [[War]] sphere, and has a number of Commands they can use to enhance its effects.
-
-## -[[Martial Hedgewitch|Old Martial Hedgewitch]] [CS]
-
-The Martial Hedgewitch is more capable of combat than most of their peers.
-
-## -[[Triple Goddess|Old Triple Goddess]]
-
-The Triple Goddess focuses on using the powers of [[Life]], [[Death]], and [[Fate]] to overcome their problems, culminating in the ability to outright end the lives of their foes.
-
-**Archetype Compatibility**
-
-|  | Weapon & Armor Proficiency | Traditions | Tradition Benefit | Tradition Power | Tradition Secrets | Grand Secrets | Tradition Mastery |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Dendrite |  | M |  |  | M | M |  |
-| Dragonblooded Mortal |  | M (1) |  |  |  |  |  |
-| Entropic Sage | M | M (1) |  |  |  |  |  |
-| Iron Mage |  | M (1) |  |  |  |  |  |
-| Triple Goddess |  | M (1) |  |  |  |  |  |
-
-Guide: M = Modifies, X = Replaces, Blank = No Change.
-**Wiki Note:** Some Archetypes only replace one of the Hedgewitch's Traditions. These are compatible with other archetypes as long as two archetypes aren't changing the same Tradition. These are marked as "M (1)" on the list.
 
 </div>
 

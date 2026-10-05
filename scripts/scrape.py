@@ -90,6 +90,8 @@ TAB_MERGES = {"dark": [("polished-dark", "Polished Dark")]}
 SPLIT_SECTIONS = {
     "practitioner-bestiary": ("Bestiary", "Bestiary"),
     "sphere-bestiary": ("New Monsters", "New Monsters"),
+    # archetypes written out on the class page itself; they go beside it like other classes'
+    "crimson-dancer": ("Crimson Dancer Archetypes", ""),
 }
 
 # Hand-written additions to generated pages, kept here so a resync doesn't wipe them:
@@ -836,7 +838,8 @@ def rebalance_home_columns(md: str) -> str:
         col = [l for l in archetypes_col if l.strip() != "[[Archetype Rules]]"]
         at = next(i for i, l in enumerate(col) if l.strip() == "## Archetypes")
         col[at:at + 1] = ["## Classes", "", *class_tables, "### Base PF1e Classes *([[Archetype Rules]])*"]
-        classes = ["", *col, ""]
+        # the tables share a wrapper so custom.scss can give them one width and column grid
+        classes = ["", *col[:at + 1], "", '<div class="sop-classes">', "", *col[at + 1:], "", "</div>", ""]
     spheres = []
     if sphere_cols:
         # one full-width block per category (header, then its spheres; sphere_lists() turns the
@@ -888,22 +891,42 @@ def class_archetype_cells(md: str) -> list[str]:
             m = re.match(r"\|\s*(.*?)\s*\|(?!\|)", line.replace("\\|", "\x00"))
             if m and m.group(1):
                 cells.append(m.group(1).replace("\x00", "\\|"))
-    if cells:
-        return cells
-    # no table (e.g. Agent): the link headings right under its "Archetypes" heading
-    lines = md.split("\n")
-    level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
-    at = next((i for i, l in enumerate(lines) if level_of(l) and l.lstrip("#").strip() == "Archetypes"), None)
-    if at is None:
-        return []
-    level = level_of(lines[at])
-    for line in lines[at + 1:]:
-        lv = level_of(line)
-        if lv and lv <= level:
-            break
-        if lv == level + 1 and line.lstrip("#").strip().startswith("[["):
-            cells.append(re.sub(r"(?<!\\)\|", r"\\|", line.lstrip("#").strip()))
-    return cells
+    if not cells:
+        # no table (e.g. Agent): link headings or a link list right under an "Archetypes" /
+        # "<Class> Archetypes" heading
+        lines = md.split("\n")
+        level_of = lambda l: len(m.group(1)) if (m := re.match(r"(#{1,6}) ", l)) else 0
+        at = next((i for i, l in enumerate(lines) if level_of(l) and ARCHETYPES_SECTION.fullmatch(
+            l.lstrip("#").strip())), None)
+        if at is not None:
+            level = level_of(lines[at])
+            for line in lines[at + 1:]:
+                lv = level_of(line)
+                if lv and lv <= level:
+                    break
+                text = line.lstrip("#").strip() if lv == level + 1 else \
+                    line[2:].strip() if line.startswith("- ") else ""
+                if text.startswith("[["):
+                    cells.append(re.sub(r"(?<!\\)\|", r"\\|", text))
+    # the wiki writes some names as "-[[Antiquarian]]"
+    return [re.sub(r"^[-–—]\s*", "", c) for c in cells]
+
+
+ARCHETYPES_SECTION = re.compile(r"(?:.+ )?Archetypes")
+
+
+def remove_archetype_sections(md: str) -> str:
+    """Class pages: drop "Archetypes" / "<Class> Archetypes" sections (all tabs); the home page's
+    Classes tables list each class's archetypes instead."""
+    for _ in range(10):
+        heads = [h for h in re.findall(r"^#{1,6} (.+?)\s*$", md, re.M) if ARCHETYPES_SECTION.fullmatch(h)]
+        if not heads:
+            return md
+        cut, _ = cut_section(md, heads[0])
+        if cut == md:
+            return md
+        md = cut
+    return md
 
 
 def fill_class_archetypes(md: str, archetypes: dict[str, list[str]]) -> str:
@@ -947,7 +970,9 @@ def split_section(md: str, heading: str) -> tuple[str, list[tuple[str, str]]]:
     if start is None:
         return md, []
     level = level_of(lines[start])
-    end = next((i for i in range(start + 1, len(lines)) if 0 < level_of(lines[i]) <= level), len(lines))
+    # the section also ends where its block (e.g. a tab) closes
+    end = next((i for i in range(start + 1, len(lines))
+                if 0 < level_of(lines[i]) <= level or lines[i].strip() == "</div>"), len(lines))
     section = lines[start + 1:end]
     heads = [i for i, l in enumerate(section) if level_of(l)]
     if not heads:
@@ -1706,6 +1731,8 @@ def convert(with_images: bool) -> None:
     sample_groups = sample_character_groups(pages)
     # skill spheres keep their drawbacks in a "Drawbacks" section on their own page
     skill_spheres = set(home_list_slugs(pages, "Skill Spheres"))
+    # class pages in the home Classes tables: their archetype lists live there, not on the page
+    class_pages = {s for section, _, _ in HOME_CLASS_TABLES for s in home_list_slugs(pages, section)}
 
     images = download_images(pages) if with_images else {}
 
@@ -1910,6 +1937,8 @@ def convert(with_images: bool) -> None:
         body_md = collapse_dividers(body_md)
         if (cells := class_archetype_cells(body_md)):
             class_archetypes[p.filename] = cells
+        if p.slug in class_pages:
+            body_md = collapse_dividers(remove_archetype_sections(body_md))
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)

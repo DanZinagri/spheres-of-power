@@ -187,32 +187,6 @@ The following feats are particularly appropriate or useful for elementalists.
 
 ---
 
-# Archetypes
-
-The following are archetypes that elementalists can select.
-
-| Archetype | Description |
-| --- | --- |
-| [[Admixture Savant]] | Admixture savants specialize in mixing blast types together to create more potent blasts. |
-| [[Arcanophage]] | The Arcanophage specializes in mimicking the powers they've seen - but the more they imitate, the higher the chance of triggering [[Wild Magic]] becomes! |
-| [[Arcanopulser]] [CS] | The Arcanopulser is a Champion that can use the [[Mana]] sphere to create pulsating shots of power. |
-| [[Earth Warrior]] | Earth warriors specialize in manipulating the earth for offense, defense, and movement. |
-| [[Electrokinetic]] | Electrokinetics master electric blasts to hurl lightning at their foes. |
-| [[Elemontalist]] | Elemontalists are proud warriors of the citric arts, drawing powerful and refreshing might from the most powerful of scurvy deterrents. |
-| [[Flame Warrior]] | Flame warriors are experts at manipulating fire to serve their purposes. |
-| [[Geomancer]] | Geomancers trade their mastery of destruction for control over the [[Nature]] sphere. |
-| [[Martial Elementalist]] [CS] | Martial elementalists are capable of using the combat spheres. |
-| [[Metal Warrior]] | Metal warriors can conduct electrical power through their bodies to shock their foes. |
-| [[Natural Warrior]] | Natural warriors manipulate chemical acids and are at home in natural environments. |
-| [[Sablesavant (Elementalist Archetype)\|Sablesavant]] [DRS] | Sablesavants mix and swirl their destructive magics with cloying darkness. This archetype uses the [[Dark\|Polished Dark]] sphere rework. |
-| [[Soul Adept]] | Soul adepts focus on etheric energies and manipulate the powers of [[Death]]. |
-| [[Tenebrous Stalker]] | Tenebrous stalkers are elementalists who specialize in [[Dark]] and [[Illusion]]. |
-| [[Twinsoul Elementalist]] | Twinsoul elementalists create elemental conduits that act as companions. |
-| [[Water Warrior]] | Water warriors can manipulate water well and are resistant to damage from the cold. |
-| [[Wind Warrior]] | Wind warriors shape the air to strike at their foes and shield their bodies. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for elementalists.
@@ -437,70 +411,6 @@ Deal an additional +1/2 bonus damage vs objects when using a destructive blast.
 All destructive blasts deal an additional +1/4 negative energy damage. This extra negative energy damage has no effect on undead, or other targets normally healed by negative energy.
 
 ---
-
-# Archetypes
-
-## -[[Admixture Savant|Old Admixture Savant]]
-
-The Admixture Savant is an expert in the use of the Admixture ability from the [[Destruction]] sphere, with class abilities that allow them to use it more effectively than others.
-
-## -[[Arcanophage|Old Arcanophage]]
-
-The Arcanophage specializes in mimicking the powers they've seen - but the more they imitate, the higher the chance of triggering [[Wild Magic]] becomes!
-
-## -[[Earth Warrior|Old Earth Warrior]]
-
-The Earth Warrior loses some of the Elementalist's versatility to focus on the use of Stone Blasts from the [[Destruction]] sphere and the Earth package from the [[Nature]] sphere.
-
-## -[[Electrokinetic|Old Electrokinetic]]
-
-The Electrokinetic specializes in the use of electric abilities and the [[Telekinesis]] sphere, gaining a selection of special stunts to help them make the most of their abilities.
-
-## -[[Flame Warrior|Old Flame Warrior]]
-
-The Flame Warrior loses some of the Elementalist's versatility to focus on the use of Fire Blasts from the [[Destruction]] sphere and the Fire package from the [[Nature]] sphere.
-
-## -[[Geomancer|Old Geomancer]]
-
-The Geomancer is a generalist archetype that switches some of the Elementalist's focus on [[Destruction]] for broader ability with the [[Nature]] sphere.
-
-## -[[Soul Adept|Old Soul Adept]]
-
-Soul Adepts use the [[Death]] sphere to gain greater power over spirits.
-
-## -[[Twinsoul Elementalist|Old Twinsoul Elementalist]]
-
-The Twinsoul Elementalist uses the [[Conjuration]] sphere to summon a splinter of themselves that can channel their power.
-
-## -[[Water Warrior|Old Water Warrior]]
-
-The Water Warrior loses some of the Elementalist's versatility to focus on the use of Frost Blasts from the [[Destruction]] sphere and the Water package from the [[Nature]] sphere.
-
-## -[[Wind Warrior|Old Wind Warrior]]
-
-The Wind Warrior loses some of the Elementalist's versatility to focus on the use of Air Blasts from the [[Destruction]] sphere. Unlike the other three Warrior archetypes, the Wind Warrior does not gain added ability with the [[Nature]] sphere, and instead gains improved ability to make Bull Rushes with their Air Blasts.
-
-**Archetype Compatibility**
-
-|  | Weapon & Armor Proficiency | Weave Energy | Evasion | Combat Feats | Favored Element |
-| --- | --- | --- | --- | --- | --- |
-| Admixture Savant |  |  | X | X | X |
-| Earth Warrior |  |  |  |  | X |
-| Electrokinetic |  | X |  |  | M |
-| Flame Warrior |  |  |  |  | X |
-| Geomancer |  | X |  |  | X |
-| Water Warrior |  |  |  |  | X |
-| Wind Warrior |  |  |  |  | X |
-|  | Dodge Bonus | Elemental Defense | Improved Evasion | Elemental Movement | Energy Body |
-| Admixture Savant | X |  | X |  | X |
-| Earth Warrior |  | M |  | X | X |
-| Electrokinetic |  | M |  | M |  |
-| Flame Warrior |  | X |  | X | X |
-| Geomancer |  |  |  |  |  |
-| Water Warrior |  | X |  | X | X |
-| Wind Warrior |  | X |  | X | X |
-
-Guide: M = Modifies, X = Replaces, Blank = No Change
 
 </div>
 

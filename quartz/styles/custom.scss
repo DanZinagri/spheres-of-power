@@ -210,8 +210,20 @@ body {
 }
 
 // Wikidot side-by-side [[div float]] blocks (home page navigation etc.)
+// Home "Classes": every table full width with the same first-column width, so the book tables
+// line up with the Base PF1e Classes table under them
+.sop-classes .table-container > table {
+  width: 100%;
+
+  th:first-child,
+  td:first-child {
+    width: 15rem;
+  }
+}
+
 // Dense link lists read better without Quartz's shaded box behind each internal link
 .sop-columns,
+.sop-spheres,
 .table-container {
   a.internal {
     background-color: transparent;

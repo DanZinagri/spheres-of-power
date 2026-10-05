@@ -802,14 +802,6 @@ This alters strife.
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Symbiont]] [DRS] | Symbionts possess such a deep connection to their strife that it can be manifested physically. |
-
----
-
 # Favored Class Bonuses
 
 A dissident of any race can choose from the following:

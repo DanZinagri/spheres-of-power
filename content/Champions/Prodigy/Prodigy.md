@@ -688,22 +688,6 @@ At 20th level, when the prodigy starts a sequence, it automatically begins with 
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Battle-Born]] | Battle-born are prodigies who focus on martial prowess instead of blending martial and magical skill. |
-| [[Chromamancer]] | Chromamancers are capable of channeling the power of colors in various forms. |
-| [[Exploitant]] | Exploitants are exceptionally flexible, able to learn almost any sort of talent. |
-| [[Extemporizer]] | Extemporizers specialize in developing new [[Techniques\|techniques]] to use in battle. |
-| [[Gutter Rat]] | Gutter rats excel at using rogue-ish skills to adapt to varying situations. |
-| [[Mimic]] | Mimics specialize in copying the abilities of those around them. |
-| [[Sync (Prodigy Archetype)\|Sync]] [DRS] | Syncs move to a rhythm of their own. |
-| [[Void Dancer]] [DRS] | Void Dancers channel the inhuman might of a powerful outsider bound to their body. |
-| [[Prodigy Class Features (DRS)\|DRS Prodigy Class Features]] [DRS] | This page contains new or alternative class features for prodigy published by DRS. |
-
----
-
 # Class Equipment
 
 The following magical items are especially appropriate for prodigies.

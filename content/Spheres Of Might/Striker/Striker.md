@@ -265,21 +265,6 @@ At 20th level, a striker gains 7 tension at the start of her first turn in comba
 
 ---
 
-# Archetypes
-
-| Archetype | Description |
-| --- | --- |
-| [[Barfighter]] | Barfighters are Strikers who specialize in drinking as they brawl. |
-| [[Black Powder Brawler]] | Black Powder Brawlers are experts with the use of firearms, and integrate them into their combat style instead of relying on their fists. |
-| [[Chaos Shifter]] | Chaos Shifters use mutagenic formulas to become true monsters on the battlefield. |
-| [[Elemental Fist]] [CS] | Elemental fists can use the powers of nature to augment their blows. |
-| [[Shadowed Fist]] | Shadowed Fists are stealthy strikers that can learn the arts of the ninja to help them assassinate their foes. |
-| [[Skirmishing Scout]] | Skirmishing Scouts are darting combatants who are always on the move. |
-| [[Strong Style Grappler]] | Strong Style Grapplers focus on grappling foes to quickly and effectively bring them down. |
-| [[Voidrusher]] [CS] [DRS] | Voidrushers combine their innate talents with the inhuman might of a powerful outsider bound to their flesh. |
-
----
-
 # Favored Class Bonuses
 
 **Aasimar:** Add +1/4 cold damage to your unarmed strikes.

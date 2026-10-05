@@ -337,6 +337,9 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 ## Classes
 
+<div class="sop-classes">
+
+
 ### Spherecaster Classes *([[Using Spheres Of Power|Using Spheres of Power]])*
 
 | Class | Archetypes |
@@ -371,27 +374,27 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 | Class | Archetypes |
 | --- | --- |
-| **[[Armiger]]** | -[[Antiquarian]] [CS], -[[Awakener]] [CS], -[[Battlefield Tinker]], -[[Bladewalker]] [CS], -[[Bounty Hunter]], -[[Machinehead]], -[[Stancemaster]], -[[Taskmaster]] [SUE] |
-| **[[Blacksmith]]** | -[[Artificer]] [LotS, CS], -[[Barista]] [Apoc], -[[Disciple Of Goibniu\|Disciple of Goibniu]], -[[Essence Smith]] [Apoc, CS], -[[Fleshforger]], -[[Iron Chef]], -[[Master-At-Arms]] [DRS], -[[Peltmonger]] [LotS, CS], -[[Spellforge]] [CS], -[[Techsmith]] |
-| **[[Commander]]** | -[[Administrator]] [CS], -[[Bearon (Commander Archetype)\|Bearon]] [CS], -[[Braveheart]], -[[Courtly Tactician]] [DRS], -[[Dreadlord]] [CS], -[[Feylord]] [CS], -[[Noble]], -[[Vanguard]], -[[Visionary General]] [CS] |
+| **[[Armiger]]** | [[Antiquarian]] [CS], [[Awakener]] [CS], [[Battlefield Tinker]], [[Bladewalker]] [CS], [[Bounty Hunter]], [[Machinehead]], [[Stancemaster]], [[Taskmaster]] [SUE] |
+| **[[Blacksmith]]** | [[Artificer]] [LotS, CS], [[Barista]] [Apoc], [[Disciple Of Goibniu\|Disciple of Goibniu]], [[Essence Smith]] [Apoc, CS], [[Fleshforger]], [[Iron Chef]], [[Master-At-Arms]] [DRS], [[Peltmonger]] [LotS, CS], [[Spellforge]] [CS], [[Techsmith]] |
+| **[[Commander]]** | [[Administrator]] [CS], [[Bearon (Commander Archetype)\|Bearon]] [CS], [[Braveheart]], [[Courtly Tactician]] [DRS], [[Dreadlord]] [CS], [[Feylord]] [CS], [[Noble]], [[Vanguard]], [[Visionary General]] [CS] |
 | **[[Conscript]]** | — |
 | **[[Savant (Class Version)\|Savant]]** | — |
 | **[[Scholar]]** | [[Astrologian]] [CS], [[Caller]] [CS], [[Doctor]], [[Engineer]] [DRS], [[Fell Archaeologist]], [[Harmacist]], [[Slime Savant]], [[Stitcher]] [CS], [[Surveyor]] [CS] |
 | **[[Sentinel]]** | [[Adamant Guardian]], [[Darkness Defender]], [[Darkthrone (Sentinel Archetype) (Champion)\|Darkthrone]] [DRS], [[Dimensional Defender]], [[Garrison]], [[Iron Revenant]] [DRS], [[Laughing Hyena]], [[Paragon]] |
 | **[[Striker]]** | [[Barfighter]], [[Black Powder Brawler]], [[Chaos Shifter]], [[Elemental Fist]] [CS], [[Shadowed Fist]], [[Skirmishing Scout]], [[Strong Style Grappler]], [[Voidrusher]] [CS] [DRS] |
-| **[[Technician]]** | -[[Adamantine Scientist]], -[[Innovator]] [SUE], -[[Mad Scientist]], -[[Mythbreaker]], -[[Rigger]], -[[Suit Pilots]] |
+| **[[Technician]]** | [[Adamantine Scientist]], [[Innovator]] [SUE], [[Mad Scientist]], [[Mythbreaker]], [[Rigger]], [[Suit Pilots]] |
 
 ### Champion Classes *([[Using Champions Of The Spheres|Using Champions of the Spheres]])*
 
 | Class | Archetypes |
 | --- | --- |
 | **[[Bravo]]** | [[Daredevil]] [DRS], [[Dreadnought]] [DRS], [[Quicksilver]] [DRS], [[Smasher]], [[Tracer]] [DRS] |
-| **[[Crimson Dancer]]** | — |
+| **[[Crimson Dancer]]** | [[Crimson Tempest]], [[Primeval]] |
 | **[[Dissident]]** | [[Symbiont]] [DRS] |
 | **[[Prodigy]]** | [[Battle-Born]], [[Chromamancer]], [[Exploitant]], [[Extemporizer]], [[Gutter Rat]], [[Mimic]], [[Sync (Prodigy Archetype)\|Sync]] [DRS], [[Void Dancer]] [DRS], [[Prodigy Class Features (DRS)\|DRS Prodigy Class Features]] [DRS] |
 | **[[Sage]]** | [[Battleshifter]], [[Confluence]], [[Resolute]], [[Votary]], [[Wand Master]] |
 | **[[Theorist]]** | [[Sophist]] |
-| **[[Troubadour]]** | -[[Binder]], -[[Clone]], -[[Method Actor]], -[[Ringmaster]] |
+| **[[Troubadour]]** | [[Binder]], [[Clone]], [[Method Actor]], [[Ringmaster]] |
 | **[[Warden (warden-class)\|Warden]]** | [[Custodian]], [[Empathetic Guardian]], [[Jailer]], [[Keeper]] |
 
 ### Base PF1e Classes *([[Archetype Rules]])*
@@ -446,6 +449,8 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[Familiars](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Familiar)** | [[Beast Of Omen (Familiar Archetype)\|Beast of Omen]], [[Dream Guide (Familiar Archetype)\|Dream Guide]], [[Shadow Familiar (Familiar Archetype)\|Shadow Familiar]], [[Willing Martyr (Familiar Archetype)\|Willing Martyr]] |  |
 | **Cantor** |  | [[Cantor Hymns]] |
 | **Soulknife** | [[Epoch-Walker (Soulknife Archetype)\|Epoch-Walker]] [CS] | [[Soulknife Blade Skills]] |
+
+</div>
 
 
 ---
