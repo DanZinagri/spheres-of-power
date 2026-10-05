@@ -635,7 +635,8 @@ def prune_excluded(body: Tag, excluded: set[str]) -> None:
             and (before.previous_sibling is None or is_br(before.previous_sibling)))
         if isinstance(after, NavigableString):
             # " [3PP], " / " [DRS] |" etc. that belonged to the removed link
-            cleaned = re.sub(r"^\s*(\[[^\]]*\]\s*)*([,|·]\s*)?", "", str(after), count=1)
+            # (\]+: the wiki has typos like "[LG]]" whose extra bracket would be left behind)
+            cleaned = re.sub(r"^\s*(\[[^\]]*\]+\s*)*([,|·]\s*)?", "", str(after), count=1)
             after.replace_with(" " + cleaned if cleaned and not line_start else cleaned)
             after = a.next_sibling
         if line_start and is_br(after):

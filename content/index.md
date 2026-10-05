@@ -276,7 +276,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 [[Aeronaut Captain]]
 [[Spheres Archwizard (Prestige Class)|Archwizard]]
-]
+
 [[Bokor]] [Core]
 [[Cyborg]] [DRS]
 [[Forest Lord]]
