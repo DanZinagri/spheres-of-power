@@ -875,6 +875,16 @@ def insert_first_tabs(md: str, tabs: list[tuple[str, str]]) -> str:
     return "\n".join(lines[:first] + block + lines[first:])
 
 
+def tab_set(tabs: list[tuple[str, str]]) -> str:
+    """A whole tab set (label, markdown) as .sop-tabs markdown; the first tab opens by default."""
+    block = ['<div class="sop-tabs">', ""]
+    for label, body in tabs:
+        tab_id = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
+        block += [f'<div class="sop-tab" data-tab="{tab_id}">', "",
+                  f'<div class="sop-tab-label">{html.escape(label)}</div>', "", body.strip(), "", "</div>", ""]
+    return "\n".join(block + ["</div>", ""])
+
+
 def drop_merged_links(md: str, merges: list[tuple[str, str]]) -> str:
     """'[[Dark]] | [[Dark|Polished Dark]] [DRS]' -> '[[Dark]]' once Polished Dark is a tab of Dark."""
     for target, label in merges:
@@ -1405,6 +1415,7 @@ def convert(with_images: bool) -> None:
 
     # TAB_MERGES: convert each source page now, drop it, and point links to it at the target
     merged_tabs: dict[str, list[tuple[str, str]]] = {}
+    merged_feats: dict[str, list[tuple[str, str]]] = {}  # target slug -> [(tab label, feats md)]
     merge_links: list[tuple[str, str]] = []
     for target, sources in TAB_MERGES.items():
         if target not in pages:
@@ -1420,6 +1431,13 @@ def convert(with_images: bool) -> None:
                     tabview.replace_with(panes[0])
             preprocess(sp.body, sp.soup, excluded - redirects.keys(), nav=False)
             md = tidy(WikiConverter(sp, pages, images, redirects).convert_soup(sp.body))
+            # its own "<...> Sphere Feats" section (e.g. "Dark (Polished) Sphere Feats") goes to the
+            # target's feats page as a tab, like the merged page itself
+            fm_head = re.search(r"^#{1,6} (.+?) Sphere Feats\s*$", md, re.M)
+            if fm_head and fm_head.group(1).startswith(pages[target].title):
+                md, feats_part = split_sphere_feats(md, fm_head.group(1))
+                if feats_part:
+                    merged_feats.setdefault(target, []).append((label, feats_part))
             merged_tabs.setdefault(target, []).append((label, md))
             merge_links.append((pages[target].filename, label))
     print(f"Sample characters (nosearch): {len(samples)}")
@@ -1513,6 +1531,9 @@ def convert(with_images: bool) -> None:
         body_md = add_page_notes(p.slug, body_md)
         if is_sphere and p.slug != WILD_MAGIC_SLUG:
             body_md, feats_md = split_sphere_feats(body_md, p.title)
+            if feats_md and p.slug in merged_feats:
+                # merged pages' feats first (the default tab), then the page's own as "Ultimate"
+                feats_md = tab_set(merged_feats[p.slug] + [("Ultimate", feats_md)])
             if feats_md:
                 feats_title = f"{p.title} Sphere Feats"
                 feats_name = clean_filename(feats_title)
