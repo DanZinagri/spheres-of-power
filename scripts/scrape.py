@@ -1835,6 +1835,9 @@ def convert(with_images: bool) -> None:
                 sub_dest.parent.mkdir(parents=True, exist_ok=True)
                 sub_dest.write_text("\n".join(sub_fm) + "\n" + GENERATED_MARK + "\n\n"
                                     + collapse_dividers(entry_md), encoding="utf-8")
+                # split-out entries (e.g. Crimson Dancer's archetypes) take their page's link color
+                derived_notes.append((f"{p.folder}/{subfolder}/{name}.md".replace("//", "/").lstrip("/"),
+                                      f"{p.folder}/{p.filename}.md".lstrip("/")))
                 # brackets in the label would close the [[link]] early: "[Warden]" -> "(Warden)"
                 label = title.replace("|", "\\|").replace("[", "(").replace("]", ")")
                 links.append(f"- [[{name}]]" if name == label else f"- [[{name}|{label}]]")
