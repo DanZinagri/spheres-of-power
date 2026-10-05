@@ -181,14 +181,15 @@ body {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr));
-    gap: 0.15rem 1.75rem;
+    // newspaper columns: alphabetical order runs down each column, then on to the next
+    columns: 15.5rem;
+    column-gap: 1.75rem;
 
     // name on the left, "Feats · Drawbacks" pushed to the right edge of the cell, so the
     // extra links line up down each column whatever the sphere name's length
     & > li {
-      margin: 0;
+      margin: 0 0 0.15rem;
+      break-inside: avoid;
       display: flex;
       align-items: baseline;
       gap: 0.35rem;
