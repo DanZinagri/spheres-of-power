@@ -73,6 +73,7 @@ function blankState() {
     skillAbility: {},
     bonusSkillFormula: "",
     bonusFeats: 0,
+    portrait: "",
     features: [],
     talents: [],
     spheresModule: false,
@@ -399,6 +400,21 @@ const panels = {
       ),
       h("div", { style: "margin-top:.75rem" },
         field("Languages", input("details.languages", { placeholder: "Common, Elven, …" }), "Separate with commas."),
+      ),
+      h("h3", {}, "Portrait"),
+      h("div", { class: "card row portrait-row" },
+        state.portrait
+          ? h("img", { class: "portrait-preview", src: state.portrait, alt: "Character portrait" })
+          : h("div", { class: "portrait-preview empty" }, "No image"),
+        h("div", { class: "field", style: "flex:1 1 220px" },
+          h("span", {}, "Character image"),
+          h("div", { class: "row" },
+            h("label", { class: "button" }, state.portrait ? "Replace image" : "Choose image",
+              h("input", { type: "file", accept: "image/png,image/jpeg,image/webp", hidden: true, onchange: (e) => e.target.files[0] && loadPortrait(e.target.files[0]) })),
+            state.portrait ? h("button", { class: "danger", onclick: () => { state.portrait = ""; changed(true) } }, "Remove") : null,
+          ),
+          h("span", { class: "note" }, "Shown on the PDF sheet. It's resized and kept in this browser and in builder saves; it isn't put in the Foundry file."),
+        ),
       ),
     ]
   },
@@ -1019,7 +1035,8 @@ function buildActor() {
     }
   }
 
-  const flags = { [FLAG_SCOPE]: { state: JSON.parse(JSON.stringify(s)), version: 1 } }
+  const { portrait, ...savedState } = s
+  const flags = { [FLAG_SCOPE]: { state: JSON.parse(JSON.stringify(savedState)), version: 1 } }
   const sphereFlags = {}
   if (s.spheresModule) {
     if (s.sphere.casting) sphereFlags.castingAbility = s.sphere.casting
@@ -1096,6 +1113,63 @@ function download(filename, data) {
   a.remove()
   setTimeout(() => URL.revokeObjectURL(a.href), 1000)
 }
+// Shrink the chosen image so it fits comfortably in browser storage and the PDF
+function loadPortrait(file) {
+  const url = URL.createObjectURL(file)
+  const img = new Image()
+  img.onload = () => {
+    const scale = Math.min(1, 600 / img.width, 750 / img.height)
+    const canvas = document.createElement("canvas")
+    canvas.width = Math.round(img.width * scale)
+    canvas.height = Math.round(img.height * scale)
+    const ctx = canvas.getContext("2d")
+    ctx.fillStyle = "#fff"
+    ctx.fillRect(0, 0, canvas.width, canvas.height)
+    ctx.drawImage(img, 0, 0, canvas.width, canvas.height)
+    URL.revokeObjectURL(url)
+    state.portrait = canvas.toDataURL("image/jpeg", 0.85)
+    changed(true)
+  }
+  img.onerror = () => {
+    URL.revokeObjectURL(url)
+    toast("That image couldn't be read. Try a PNG or JPEG.")
+  }
+  img.src = url
+}
+
+const loadScript = (src) =>
+  new Promise((resolve, reject) => {
+    if (document.querySelector(`script[src="${src}"]`)) return resolve()
+    const el = h("script", { src })
+    el.onload = resolve
+    el.onerror = () => reject(new Error(`Couldn't load ${src}`))
+    document.head.append(el)
+  })
+
+async function exportPdf() {
+  const btn = document.getElementById("btnPdf")
+  btn.disabled = true
+  btn.textContent = "Building PDF…"
+  try {
+    await loadScript("vendor/pdf-lib.min.js")
+    await loadScript("sheet-pdf.js")
+    const bytes = await buildSheetPdf()
+    const blob = new Blob([bytes], { type: "application/pdf" })
+    const a = h("a", { href: URL.createObjectURL(blob), download: `${fileSlug()}-sheet.pdf` })
+    document.body.append(a)
+    a.click()
+    a.remove()
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000)
+    toast("PDF sheet downloaded.")
+  } catch (err) {
+    console.error(err)
+    toast("Couldn't build the PDF. Try again, or reload the page.")
+  } finally {
+    btn.disabled = false
+    btn.textContent = "PDF sheet"
+  }
+}
+
 function exportActor() {
   const missing = state.classes.some((c) => num(c.level) > 0 && !c.name.trim())
   download(`fvtt-Actor-${fileSlug()}.json`, buildActor())
@@ -1134,6 +1208,7 @@ document.getElementById("charName").addEventListener("input", (e) => {
   changed()
 })
 document.getElementById("btnExport").addEventListener("click", exportActor)
+document.getElementById("btnPdf")?.addEventListener("click", exportPdf)
 document.getElementById("spheresToggle").addEventListener("change", (e) => {
   state.spheresModule = e.target.checked
   if (state.spheresModule) tab = "spheres"

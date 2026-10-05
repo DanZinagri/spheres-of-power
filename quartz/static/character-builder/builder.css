@@ -555,3 +555,24 @@ select.abl-select.changed {
   color: var(--secondary);
   font-weight: 600;
 }
+
+/* Character builder: portrait */
+.portrait-row {
+  align-items: flex-start;
+  gap: 1rem;
+}
+.portrait-preview {
+  width: 110px;
+  height: 138px;
+  object-fit: cover;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--highlight);
+}
+.portrait-preview.empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gray);
+  font-size: 0.85em;
+}
