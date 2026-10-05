@@ -18,6 +18,7 @@ import Search from "./Search"
 import PagefindSearch from "./PagefindSearch"
 import SopTabs from "./SopTabs"
 import SopRoller from "./SopRoller"
+import SopFold from "./SopFold"
 import Footer from "./Footer"
 import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
@@ -47,6 +48,7 @@ export {
   PagefindSearch,
   SopTabs,
   SopRoller,
+  SopFold,
   Footer,
   DesktopOnly,
   MobileOnly,

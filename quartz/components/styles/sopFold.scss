@@ -1,0 +1,39 @@
+// Collapsible sections (scripts/sopFold.inline.ts)
+.sop-folded {
+  display: none !important;
+}
+
+article :is(h1, h2, h3) > .sop-fold {
+  all: unset;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1.25em;
+  margin-right: 0.25em;
+  text-align: center;
+  font-size: 0.7em;
+  line-height: 1;
+  vertical-align: 0.15em;
+  color: var(--gray);
+  cursor: pointer;
+  transition:
+    transform 0.15s ease,
+    color 0.15s ease;
+
+  &::before {
+    content: "▾";
+  }
+
+  &:hover,
+  &:focus-visible {
+    color: var(--secondary);
+  }
+
+  &[aria-expanded="false"] {
+    transform: rotate(-90deg);
+  }
+
+  // narrow screens: no room in the margin, so keep it inline
+  @media all and (max-width: 800px) {
+    margin-left: 0;
+  }
+}
