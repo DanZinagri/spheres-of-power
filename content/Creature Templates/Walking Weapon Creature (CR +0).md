@@ -20,7 +20,7 @@ Sometimes the massive collection of wrathful emotion on a battlefield carries be
 
 **Hit Points:** Walking weapon creatures gain bonus hit points as a construct based on its size. See the Pathfinder Roleplaying Game Bestiary.
 
-**Defensive Abilities:** A walking weapon creature gains fast healing 1 and hardness 10 (15 if CR 10 or higher, or 20 if CR 15 or higher).**Immune** construct traits.
+**Defensive Abilities:** A walking weapon creature gains fast healing 1 and hardness 10 (15 if CR 10 or higher, or 20 if CR 15 or higher). **Immune** construct traits.
 
 **Special Abilities:** A walking weapon creature retains all the special abilities of the base creature, and gains the special abilities as described below.
 
@@ -34,7 +34,7 @@ Sometimes the massive collection of wrathful emotion on a battlefield carries be
 
 **Selfish Shield (Su):** If a weapon touches a walking weapon creature (this only requires a successful touch attack), the weapon is absorbed as per the disarming strike ability. If the disarm is successful by 5 or more, no damage is dealt by the weapon’s attack. This ability is not limited to only working once per round.
 
-**Abilities:** Adjust the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD),**Wis** -4 (minimum 1; -2 to Will saves, -2 to Heal, Perception, Profession, Sense Motive and Survival checks, -2 to any of the base creature’s Wisdom-based DCs), Cha -4 (minimum 1; -2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, -2 to any of the base creature’s Charisma-based DCs). As a construct, a walking weapon creature has no Constitution or Intelligence scores.
+**Abilities:** Adjust the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD), **Wis** -4 (minimum 1; -2 to Will saves, -2 to Heal, Perception, Profession, Sense Motive and Survival checks, -2 to any of the base creature’s Wisdom-based DCs), Cha -4 (minimum 1; -2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, -2 to any of the base creature’s Charisma-based DCs). As a construct, a walking weapon creature has no Constitution or Intelligence scores.
 
 **Feats:** As an unintelligent construct a walking weapon creature has no feats
 

@@ -20,7 +20,7 @@ Dread Phantom Armor arises only from the corpse of a trusted ally who murders hi
 
 **AC:** The subject’s armor bonus becomes +9, it loses its natural armor bonus,
 
-**Defensive Abilities:** channel resistance +6,**Immune** undead traits
+**Defensive Abilities:** channel resistance +6, **Immune** undead traits
 
 **Attacks:** A dread phantom armor’s natural attacks all become slam attacks.
 
@@ -38,6 +38,6 @@ Adding these properties consumes an amount of bonus equal to its cost. These bon
 
 **Naked Strike (Su):** Once per round, a dread phantom armor inflicts a curse on a subject it hits with a melee attack. A successful Will save (DC 10 +1/2 the dread phantom armor’s HD + its Cha modifier) negates. The curse causes the subject to lose all equipment-based bonuses and protections (armor, shield, magic rings, magic cloaks, etc.), except for those acquired from artifacts. The subject is, for all intents and purposes, naked. A subject that makes its saving throw is immune to this dread phantom armor’s naked strike for 24 hours.
 
-**Abilities:** Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength and CMB checks, +2 to CMD),**Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs). Being undead, a dread phantom armor has no Constitution score.
+**Abilities:** Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength and CMB checks, +2 to CMD), **Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs). Being undead, a dread phantom armor has no Constitution score.
 
 **Skills:** Gain Stealth as a class skill, plus a number of bonus ranks equal to the base creature’s HD, and a+8 racial bonus when hiding in plain sight as armor.

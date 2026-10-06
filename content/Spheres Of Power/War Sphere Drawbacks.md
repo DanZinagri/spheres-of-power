@@ -11,37 +11,37 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Alternate Rally
+#### Alternate Rally
 
 You cannot use the Commanding Aid rally. You must choose a (rally) talent with the bonus talent gained from this drawback.
 
 **Incompatible:** Commando
 
-## Alternate Totem
+#### Alternate Totem
 
 You cannot use Totem Of War. You must choose a (totem) talent with the bonus talent gained from this drawback.
 
 **Incompatible:** Battle Manipulation, Small Unit Strategist
 
-## Battle Manipulation
+#### Battle Manipulation
 
 You cannot create totems. You must select Eternal Vigilance with the bonus talent gained through this drawback, unless you also possess Solo Combatant, in which case any War talent you qualify for can be selected.
 
 **Incompatible:** Alternate Totem, Personal Conflict, Small Unit Strategist, Squadron Elite
 
-## Commando
+#### Commando
 
 You cannot use rallies. You must select a (mandate) talent or a (momentum) talent with the bonus talent gained through this drawback.
 
 **Incompatible:** Alternate Rally, Battle Manipulation, Solo Combatant
 
-## Manifest Totem [Alienist HB]
+#### Manifest Totem [Alienist HB]
 
 Your totems manifest as Medium-sized physical objects that cannot be moved (except by effects that could normally move a totem). The object has a number of hit points equal to your caster level, AC equal to 10 + 1/2 your caster level, and saving throw bonuses equal to 2 + 1/2 your caster level. The object is transparent enough to not block line of sight but may be used to provide cover. Destruction of the object ends the totem’s effects. You must select a (totem) talent as the talent gained from this drawback. You cannot select the Totemic Aura or Totemic Emblem talent so long as you possess this drawback, nor can you attach your totems to other targets or effects (such as through the Tribal Rhythm feat).
 
 **Incompatible:** Battle Manipulation, Personal Conflict, Small Unit Strategist
 
-## Personal Conflict
+#### Personal Conflict
 
 You can only create totems attached to creatures. You must choose Totemic Aura as the bonus talent gained from this drawback. Turning any totem you create into a fixed totem (such as through the use of the Redeployment talent) dispels it. You can create mandates and rallies normally.
 
@@ -49,19 +49,19 @@ You may take this drawback twice. If taken twice, you may only attach totemic au
 
 **Incompatible:** Battle Manipulation, Small Unit Strategist
 
-## Small Unit Strategist
+#### Small Unit Strategist
 
 You cannot create totems. You must select a (mandate) talent or a (momentum) talent with the bonus talent gained through this drawback.
 
 **Incompatible:** Alternate Totem, Battle Manipulation, Personal Conflict
 
-## Solo Combatant
+#### Solo Combatant
 
 You cannot target other creatures with your rallies, only yourself. You must select Eternal Vigilance with the bonus talent gained through this drawback, unless you also possess Battle Manipulation, in which case any War talent you qualify for can be selected.
 
 **Incompatible:** Commando, Squadron Elite
 
-## Squadron Elite
+#### Squadron Elite
 
 Your War magic only works for those in your squadron. Creatures outside your squadron cannot be affected by your totems, be rallied, use momentum, or be in mandates. When you take this drawback, you do not gain a bonus talent. Instead, you gain the Squadron Commander feat.
 

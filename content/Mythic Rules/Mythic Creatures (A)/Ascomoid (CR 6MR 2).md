@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (A)]]"
 XP 2,400
 Pathfinder Roleplaying Game Bestiary 3
 N Large plant (mythic)
-**Init**+1;**Senses** low-light vision, tremorsense 60 ft.; Perception +0
+**Init** +1; **Senses** low-light vision, tremorsense 60 ft.; Perception +0
 
 #### Defense
 
-**AC**19,**touch**10,**flat-footed** 18 (+1 Dex, +9 natural, –1 size)
+**AC** 19, **touch** 10, **flat-footed** 18 (+1 Dex, +9 natural, –1 size)
 **hp** 68 (7d8+37)
-**Fort**+8,**Ref**+3,**Will** +2
-**Defensive Abilities**DR 10/epic and piercing;**Immune**plant traits;**Resist** electricity 10, fire 10
+**Fort** +8, **Ref** +3, **Will** +2
+**Defensive Abilities** DR 10/epic and piercing; **Immune** plant traits; **Resist** electricity 10, fire 10
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** slam +9 (2d8+7)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** fungal juggernautMA, mythic power (2/day, surge 1d6), poison, puffball avalancheMA, spores, trample (2d8+7, DC 18)
 
 #### Statistics
 
-**Str**20,**Dex**13,**Con**17,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+5;**CMB**+11 (+14 overrun);**CMD** 22 (25 vs. overrun, can’t be tripped)
+**Str** 20, **Dex** 13, **Con** 17, **Int** —, **Wis** 11, **Cha** 1
+**Base Atk** +5; **CMB** +11 (+14 overrun); **CMD** 22 (25 vs. overrun, can’t be tripped)
 **Feats** Charge ThroughB, Improved OverrunMF, B
 **SQ** spore jetMA
 
@@ -44,7 +44,7 @@ N Large plant (mythic)
 
 **Fungal Juggernaut (Ex)** A mythic ascomoid gains Charge Through as a bonus feat, and in addition it can attempt an overrun combat maneuver as a free action against any creature that fails its saving throw against its trample attack. If a creature in the path of its trample attack succeeds on its Reflex save, a mythic ascomoid can spend one use of its mythic power as an immediate action to attempt an overrun combat maneuver against that creature.
 
-**Poison (Ex)**Spores-inhaled;**save**Fort DC 16;**frequency**1/round for 6 rounds;**effect**1d2 Str damage;**cure** 2 consecutive saves.
+**Poison (Ex)** Spores-inhaled; **save** Fort DC 16; **frequency** 1/round for 6 rounds; **effect** 1d2 Str damage; **cure** 2 consecutive saves.
 
 **Puffball Avalanche (Ex)** A mythic ascomoid gains a +2 circumstance bonus on attack rolls whenever it attacks from higher ground; this stacks with the normal attack roll bonus for higher ground. If it begins a trample attack from higher ground, it increases the save DC by 2.
 

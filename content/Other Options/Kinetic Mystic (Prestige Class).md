@@ -67,9 +67,9 @@ At 3rd level and every 2 levels thereafter, kinetic blasts delivered this way de
 At 2nd level the kinetic mystic gains the following infusion as a bonus wild talent:
 
 > **Conductive Infusion**
-> **Element(s)**universal;**Type**substance infusion (Sp);**Level**1;**Burn** varies (see text)
+> **Element(s)** universal; **Type** substance infusion (Sp); **Level** 1; **Burn** varies (see text)
 > **Associated blasts** any simple
-> **Save**as delivered spell;**Spell Resistance** as delivered spell
+> **Save** as delivered spell; **Spell Resistance** as delivered spell
 >
 > You’ve learned to wrap your kinetic power around a spell’s charge. As part of casting a spell with a range of “touch” you can use a simple kinetic blast to deliver it in place of a melee touch attack. If your kinetic blast hits, it delivers the effects of the spell cast, using the kinetic blast’s critical threat range. If the kinetic blast hits multiple targets, it only delivers a single charge to the first creature hit (or the closest creature to you if multiple targets are hit simultaneously), and if the spell has multiple charges, it delivers each charge to a different target (for example, if the spell used gives you three touch attacks normally, and your kinetic blast hits multiple targets, this infusion delivers the effects of that spell to the first three creatures hit or the three closest creatures to you). Spells used this way cannot be modified by any metamagic feats that would alter the spell’s range or area. Any charges your spell provides that are not delivered with this infusion are immediately harmlessly discharged.
 >
@@ -90,18 +90,18 @@ They can cast spells while holding this charge, but spells that require a touch 
 At 8th level the kinetic mystic can access the following infusions, learning one of their choice instantly:
 
 > **Conductive Infusion, Greater**
-> **Element(s)**universal;**Type**substance infusion;**Level**3;**Burn** varies (see text)
+> **Element(s)** universal; **Type** substance infusion; **Level** 3; **Burn** varies (see text)
 > **Prerequisite(s)** conductive blast
 > **Associated blasts** any
-> **Save**as delivered spell;**Spell Resistance** as delivered spell
+> **Save** as delivered spell; **Spell Resistance** as delivered spell
 >
 > You have become more adept at delivering your touch spells through your blasts. This functions as the conductive blast infusion, except it can be applied to composite blasts, can be used with spells that can be delivered with a ranged touch attack, and when using a blast that hits multiple creatures at once, you can choose which of those creatures your spell affects, regardless of distance from you. This infusion's burn cost is equal to 3 + ½ the level of the spell it delivers, but can be reduced to 2 by reducing the blast's damage to 0 as well; you cannot reduce this infusion's burn cost or the infused blast's damage this way if the spell is harmless.
 
 > **Conductive Infusion, Harmless**
-> **Element(s)**universal;**Type**substance infusion;**Level**3;**Burn** varies (see text)
+> **Element(s)** universal; **Type** substance infusion; **Level** 3; **Burn** varies (see text)
 > **Prerequisite(s)** conductive blast
 > **Associated blasts** any simple
-> **Save**as delivered spell (see text);**Spell Resistance** as delivered spell
+> **Save** as delivered spell (see text); **Spell Resistance** as delivered spell
 >
 > You can hold back your power when using a kinetic blast to deliver your magic. This functions as the conductive blast infusion, except it reduces the blast's damage to 0 by default. This infusion's burn cost is equal to the level of the spell it delivers, but can be reduced to 0 by forcing each creature affected by it to accept an amount of burn equal to 1 + ½ the spell's level (Will save against the blast's DC negates both the burn and the spell's effect). Spells that are not harmless do not allow the infusion's burn cost to be reduced this way, and this infusion cannot be used to force an enemy to accept burn.
 

@@ -12,27 +12,27 @@ Sharp teeth fill this enormous ape’s mouth, and its long, muscular arms stretc
 **Mythic Colossal Dire Ape (CR 15/MR 6)**
 XP 51,200
 N Colossal animal (mythic)
-**Init**+2;**Senses** low-light vision, scent; Perception +13
+**Init** +2; **Senses** low-light vision, scent; Perception +13
 
 #### Defense
 
-**AC**26,**touch**4,**flat-footed** 24 (+2 Dex, +22 natural, –8 size)
+**AC** 26, **touch** 4, **flat-footed** 24 (+2 Dex, +22 natural, –8 size)
 **hp** 309 (18d8+228)
-**Fort**+21,**Ref**+13,**Will** +9
+**Fort** +21, **Ref** +13, **Will** +9
 **Defensive Abilities** DR 10/epic
 
 #### Offense
 
-**Speed**30 ft.,**climb** 30 ft.
+**Speed** 30 ft., **climb** 30 ft.
 **Melee** bite +24 (2d8+19), 2 claws +24 (2d6+19/19–20)
 **Ranged** rock +7 (4d6+28)
-**Space**30 ft.;**Reach** 30 ft.
+**Space** 30 ft.; **Reach** 30 ft.
 **Special Attacks** crippling rendMA, feral savagery (full attack)MA, kaiju killerMA, mythic power (6/day, surge +1d8), raging rampageMMA, rend (2 claws, 2d6+28), rock throwing (100 ft.)MA, titanic tosserMA
 
 #### Statistics
 
-**Str**48,**Dex**15,**Con**30,**Int**2,**Wis**12,**Cha** 7
-**Base Atk**+13;**CMB**+40 (+42 bull rush);**CMD** 52 (54 vs. bull rush)
+**Str** 48, **Dex** 15, **Con** 30, **Int** 2, **Wis** 12, **Cha** 7
+**Base Atk** +13; **CMB** +40 (+42 bull rush); **CMD** 52 (54 vs. bull rush)
 **Feats** Awesome Blow, Awesome ThrowMF, Combat Reflexes, Critical Focus, Hulking HurlerMF, Improved Bull Rush, Improved Critical (claw), Iron Will, Power AttackMF, Snatch, Staggering Critical
 **Skills** Acrobatics +13, Climb +27, Perception +13, Survival +5
 

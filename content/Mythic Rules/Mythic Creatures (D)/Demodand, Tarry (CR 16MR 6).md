@@ -13,14 +13,14 @@ This lithe, toothy creature’s jet-black skin looks like living tar, and ooze d
 XP 76,800
 Pathfinder Roleplaying Game Bestiary 3
 CE Medium outsider (chaotic, demodand, evil, extraplanar, mythic)
-**Init**+9/−11 dual initiativeMA;**Senses** darkvision 120 ft., detect good, detect magic, faith senseMA; Perception +22
+**Init** +9/−11 dual initiativeMA; **Senses** darkvision 120 ft., detect good, detect magic, faith senseMA; Perception +22
 
 #### Defense
 
-**AC**32,**touch**13,**flat-footed** 29 (+6 armor, +3 Dex, +13 natural)
+**AC** 32, **touch** 13, **flat-footed** 29 (+6 armor, +3 Dex, +13 natural)
 **hp** 249 (18d10+150)
-**Fort**+16,**Ref**+11,**Will** +12; +8 vs. divine spells
-**Defensive Abilities**block attacksMA; DR 10/epic, good and magic;**Immune**acid, poison;**Resist**cold 10, fire 10;**SR** 27
+**Fort** +16, **Ref** +11, **Will** +12; +8 vs. divine spells
+**Defensive Abilities** block attacksMA; DR 10/epic, good and magic; **Immune** acid, poison; **Resist** cold 10, fire 10; **SR** 27
 
 #### Offense
 
@@ -35,8 +35,8 @@ Constant—detect good, detect magic
 
 #### Statistics
 
-**Str**30,**Dex**21,**Con**20,**Int**12,**Wis**13,**Cha** 19
-**Base Atk**+18;**CMB**+28;**CMD** 43 (47 vs. disarm)
+**Str** 30, **Dex** 21, **Con** 20, **Int** 12, **Wis** 13, **Cha** 19
+**Base Atk** +18; **CMB** +28; **CMD** 43 (47 vs. disarm)
 **Feats** Combat Reflexes, Greater Two-Weapon Fighting, Improved Bull Rush, Improved Initiative, Improved Two-Weapon Fighting, Lunge, Power AttackMF, Two-Weapon FightingMF, Weapon Focus (short sword)MF
 **Skills** Bluff +17, Climb +20, Fly +23, Intimidate +25, Knowledge (arcana) +14, Knowledge (planes) +14, Perception +22, Sense Motive +14, Stealth +17, Survival +14
 **Languages** Abyssal, Celestial, Common

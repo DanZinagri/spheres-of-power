@@ -13,20 +13,20 @@ Thousands of tiny, colorful winged humanoids crawl from every corner of the fore
 XP 2,400
 Pathfinder Campaign Setting: Fey Revisited
 CN Diminutive fey (swarm)
-**Init**+7;**Senses** low-light vision, detect evil, detect good; Perception +14
+**Init** +7; **Senses** low-light vision, detect evil, detect good; Perception +14
 
 #### Defense
 
-**AC**20,**touch**18,**flat-footed** 16 (+3 Dex, +1 dodge, +2 natural, +4 size)
+**AC** 20, **touch** 18, **flat-footed** 16 (+3 Dex, +1 dodge, +2 natural, +4 size)
 **hp** 67 (10d6+32)
-**Fort**+5,**Ref**+10,**Will** +7
-**Defensive Abilities**swarm traits; DR 5/cold iron and epic;**Immune** weapon damage
+**Fort** +5, **Ref** +10, **Will** +7
+**Defensive Abilities** swarm traits; DR 5/cold iron and epic; **Immune** weapon damage
 
 #### Offense
 
 **Speed** 15 ft., fly 60 ft. (perfect)
 **Melee** swarm (2d6 plus distraction and stealMA)
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** angry glow, concentrated rush, distraction (DC 16), hail of needlesMA, mythic power (4/day, surge +1d6), swirling spritesMA
 
 **Spell-Like Abilities** (CL 5th; concentration +5)
@@ -35,8 +35,8 @@ Constant—detect evil, detect good
 
 #### Statistics
 
-**Str**3,**Dex**17,**Con**14,**Int**6,**Wis**11,**Cha** 10
-**Base Atk**+5;**CMB**—;**CMD** —
+**Str** 3, **Dex** 17, **Con** 14, **Int** 6, **Wis** 11, **Cha** 10
+**Base Atk** +5; **CMB** —; **CMD** —
 **Feats** Alertness, Dodge, Extra Mythic PowerMF, Flyby Attack, Improved Initiative, Skill Focus (Perception)
 **Skills** Fly +30, Intimidate +10, Perception +14, Sense Motive +9, Stealth +28
 **Languages** Common, Sylvan

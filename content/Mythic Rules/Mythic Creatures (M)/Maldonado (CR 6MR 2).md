@@ -12,13 +12,13 @@ This transparent humanoid seems comprised of sloughing bluish mist with pale, an
 **Maldonado (CR 6/MR 2)**
 XP 2,400
 NE Medium outsider (demon or devil, evil, extraplanar, incorporeal, mythic)
-**Init**+7MF;**Senses** darkvision 60 ft.; Perception +10
+**Init** +7MF; **Senses** darkvision 60 ft.; Perception +10
 
 #### Defense
 
-**AC**17,**touch**17,**flat-footed** 15 (+5 deflection, +1 Dex, +1 dodge); mythic defenseMA
+**AC** 17, **touch** 17, **flat-footed** 15 (+5 deflection, +1 Dex, +1 dodge); mythic defenseMA
 **hp** 71 (6d10+38)
-**Fort**+5,**Ref**+6,**Will** +8
+**Fort** +5, **Ref** +6, **Will** +8
 **Defensive Abilities** desperate survivalMA, incorporeal; DR 5/epic
 **Weaknesses** body-dependent
 
@@ -33,8 +33,8 @@ At will—seek thoughts (host only; DC 16)
 
 #### Statistics
 
-**Str**—,**Dex**13,**Con**16,**Int**11,**Wis**13,**Cha** 17
-**Base Atk**+6;**CMB**+7;**CMD** 23 (can’t be tripped)
+**Str** —, **Dex** 13, **Con** 16, **Int** 11, **Wis** 13, **Cha** 17
+**Base Atk** +6; **CMB** +7; **CMD** 23 (can’t be tripped)
 **Feats** Dodge, Improved InitiativeMF, Iron Will
 **Skills** Bluff +12, Intimidate +12, Fly +9, Knowledge (history) +6, Knowledge (local) +6, Knowledge (religion) +9, Perception +10, Perform (sing) +6, Sense Motive +7
 **Languages** Common plus Abyssal or Infernal

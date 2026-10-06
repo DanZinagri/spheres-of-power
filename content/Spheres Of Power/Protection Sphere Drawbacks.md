@@ -11,23 +11,23 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Alternate Aegis
+#### Alternate Aegis
 
 You do not gain the Deflection aegis. You must use the talent gained with this drawback to acquire an (aegis) talent.
 
 **Incompatible:** Limited Protection (ward)
 
-## Aligned Protection
+#### Aligned Protection
 
 Choose an end of the alignment spectrum that you possess (good, evil, lawful, or chaotic). Your aegises and wards only provide protection against creatures of the opposite alignment (evil for good, lawful for chaotic, etc.). Creatures who possess your selected alignment or are neutral (those who possess neither your selected alignment nor its opposite) are not stopped by your barriers, hindered by your wards, and your aegises provide no protection against effects that originate from those creatures.
 
-## Circle Of Symbols
+#### Circle Of Symbols
 
 Your wards consist of circles of glowing symbols and runes with no true physicality. You cannot use the barrier ward and cannot take talents that augment barriers, such as Greater Barrier, Buttressing, Barrier Maze, or other, similar talents. You must use the bonus talent gained from this drawback to select a (ward) talent.
 
 **Incompatible:** Limited Protection (aegis)
 
-## Crystalline
+#### Crystalline
 
 Your aegis abilities create a physical lattice of crystal around the creature bearing the aegis. It can not be removed without destroying it, and any part that is broken off disappears. A Spellcraft check against a DC equal to 15 + 1/2 your caster level can identify what the lattice is. This requires some means of perceiving magic (such as the Divination sphere’s divine ability). The lattice can be sundered as if it were a piece of armor. It has a hardness equal to 5 + 1 for every 4 caster levels, and hit points equal to 4 + your caster level. In addition, it provides no defense from touch attacks by incorporeal creatures or light-based attacks.
 
@@ -35,35 +35,35 @@ You must use the talent gained with this drawback to acquire an (aegis) talent.
 
 **Incompatible:** Limited Protection (ward), Luminous, Second Skin, Shielding
 
-## Limited Protection
+#### Limited Protection
 
 Choose either aegis or ward. You lose the other ability and cannot take talents that only grant or alter the lost ability.
 
-## Luminous
+#### Luminous
 
 Your Protection sphere abilities take on the form of an aura or field of light. The light is not powerful enough to be used as a light source, but makes the presence of the protection ability obvious to anyone within 30 feet. Creatures wearing an aegis you created can not benefit from stealth, invisibility, or concealment. Effects that dispel light (such as Dark effects) dispel your Protection sphere abilities as well. You must use the bonus talent gained from this drawback to gain an (aegis) talent.
 
 **Incompatible:** Crystalline, Limited Protection (ward), Second Skin, Shielding
 
-## Protected Soul
+#### Protected Soul
 
 You cannot target other creatures with your aegis, only yourself. You must use the bonus talent gained from this drawback to gain an (aegis) talent.
 
 **Incompatible:** Limited Protection (ward)
 
-## Protective Brew
+#### Protective Brew
 
 You must select the Instill Aegis talent with the bonus talent granted by this drawback, and you can only use your aegises through this talent.
 
 **Incompatible:** Limited Protection (ward)
 
-## Second Skin
+#### Second Skin
 
 Your aegis not only surrounds creatures, it enchants their skin directly. You may only apply an aegis to a creature who is wearing no armor, and wearing armor suppresses its effects. You must use the bonus talent gained from this drawback to gain an (aegis) talent.
 
 **Incompatible:** Crystalline, Luminous, Limited Protection (ward), Shielding
 
-## Shielding
+#### Shielding
 
 Your aegis takes the form of an energy shield that you use to intercept attacks. You can not create any aegis that protects a creature from the environment (such as Breathless), and creatures lose the benefit of your aegis against attacks that would bypass a shield or when they are flat-footed. You must use the bonus talent gained from this drawback to take the Shared Aegis talent.
 

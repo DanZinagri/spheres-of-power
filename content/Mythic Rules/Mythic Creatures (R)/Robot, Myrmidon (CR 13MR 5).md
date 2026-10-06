@@ -13,14 +13,14 @@ This metallic creature has pincer-tipped arms and a single red eye–it flies wi
 XP 25,600
 Pathfinder Campaign Setting: Inner Sea Bestiary
 N Large construct (mythic, robot)
-**Init**+7;**Senses** darkvision 60 ft., low-light vision, superior opticsMA; Perception +20
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, superior opticsMA; Perception +20
 
 #### Defense
 
-**AC**31,**touch**12,**flat-footed** 28 (+3 Dex, +19 natural, -1 size)
+**AC** 31, **touch** 12, **flat-footed** 28 (+3 Dex, +19 natural, -1 size)
 **hp** 227 (15d10+80 plus 65 hp force field)
-**Fort**+10,**Ref**+13,**Will** +10
-**Defensive Abilities**field boostMA, hardness 10, resilient; DR 10/epic;**Immune** cold, construct traits
+**Fort** +10, **Ref** +13, **Will** +10
+**Defensive Abilities** field boostMA, hardness 10, resilient; DR 10/epic; **Immune** cold, construct traits
 **Weaknesses** vulnerable to critical hits, vulnerable to electricity
 
 #### Offense
@@ -28,7 +28,7 @@ N Large construct (mythic, robot)
 **Speed** 20 ft., fly 90 ft. (perfect)
 **Melee** 2 claws +23 (1d6+9 plus grab), 2 quantum lashes +23 touch (1d10 force/17-20)
 **Ranged** integrated laser rifle +17 touch (2d10 fire)
-**Space**10 ft.;**Reach** 5 ft. (20 ft. with quantum lash)
+**Space** 10 ft.; **Reach** 5 ft. (20 ft. with quantum lash)
 **Special Attacks** combined arms, constrict (1d6+9), entropic eliminationMA, mythic power (5/day, surge +1d8), overloadMA, quantum shiftMA, rocketsMA
 
 **Spell-Like AbilitiesMA** (CL 15th; concentration +16)
@@ -36,8 +36,8 @@ At will-dimension door (self plus 50 lbs. of objects only)
 
 #### Statistics
 
-**Str**29,**Dex**17,**Con**—;**Int**12,**Wis**14,**Cha** 1
-**Base Atk**+15;**CMB**+25 (+29 grapple);**CMD** 38 (can’t be tripped)
+**Str** 29, **Dex** 17, **Con** —; **Int** 12, **Wis** 14, **Cha** 1
+**Base Atk** +15; **CMB** +25 (+29 grapple); **CMD** 38 (can’t be tripped)
 **Feats** Combat ReflexesMF, Flyby Attack, Great FortitudeMF, Improved Critical (quantum lash), Improved Initiative, Lightning ReflexesMF, Point Blank Shot, Precise Shot
 **Skills** Fly +27, Knowledge (engineering) +19, Perception +20
 **Languages** Common

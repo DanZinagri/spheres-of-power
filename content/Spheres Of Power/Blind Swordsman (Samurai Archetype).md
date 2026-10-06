@@ -8,37 +8,37 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Spiritual Resolve
+## Spiritual Resolve
 
 A blind swordsman may spend daily uses of resolve as if they were spell points to power any sphere talents and abilities it has gained through levels in blind swordsman or a sphere casting class.
 
 This alters the resolve class feature.
 
-### Blindfolded Fighting (Ex)
+## Blindfolded Fighting (Ex)
 
 At first level the blind swordsman gains Blind-Fight as a bonus feat. In addition, he can spend one use of his resolve as an immediate action to gain the benefits of the Blindfolded Oracle Divination (sense) talent with an effective caster level equal to his class level. At 5th level, he gains the Blinded Blade style feat, even if he does not meet the prerequisites.
 
 This replaces the mount and mounted archer class features.
 
-### Totem of War (Ex)
+## Totem of War (Ex)
 
 At 5th level, the blind swordsman can spend one use of his resolve as a move action to present an emblem granting the benefits of the War sphere’s Totem Of War base ability with an effective caster level equal to his class level. This lasts for 1 round per level.
 
 This replaces the banner class feature.
 
-### Improved Blindfolded Fighting (Ex)
+## Improved Blindfolded Fighting (Ex)
 
 At 9th level, the blind swordsman gains Improved Blind-Fight as a bonus feat, even if he does not meet the feat’s prerequisites. In addition, he can spend one use of his resolve as a standard action to gain the benefits of the Ghost Sight Divination (sense) talent with an effective caster level equal to his class level. This stacks normally with caster levels gained from other sources, except for any provided by these blind swordsman levels (like through Advanced Magic Training).
 
 This replaces the greater resolve class feature.
 
-### Totem of Allegiance (Ex)
+## Totem of Allegiance (Ex)
 
 At 14th level, the blind swordsman can spend one use of his resolve as a move action to present an emblem (such as a banner or insignia) granting the benefits of the War sphere’s Totem Of Allegiance talent with an effective caster level equal to his class level to those who can see it. This stacks normally with caster levels gained from other sources, except for any provided by these blind swordsman levels (like through Advanced Magic Training).
 
 This replaces the greater banner class feature.
 
-### Greater Blindfolded Fighting (Ex)
+## Greater Blindfolded Fighting (Ex)
 
 At 17th level, the blind swordsman gains Greater Blind-Fight as a bonus feat, even if he does not meet the feat’s prerequisites. In addition, he can spend one use of his resolve as a standard action to gain the benefits of the Foreshadow Divination (sense) talent with an effective caster level equal to his class level. This stacks normally with caster levels gained from other sources, except for any provided by these blind swordsman levels (like through Advanced Magic Training).
 

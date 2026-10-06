@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (Q)]]"
 XP 6,400
 Pathfinder Roleplaying Game Bestiary 2
 CE Large outsider (chaotic, evil, extraplanar, mythic, qlippoth)
-**Init**+10MF;**Senses** darkvision 60 ft.; Perception +18
+**Init** +10MF; **Senses** darkvision 60 ft.; Perception +18
 
 #### Defense
 
-**AC**24,**touch**12,**flat-footed** 21 (+3 Dex, +12 natural, –1 size)
+**AC** 24, **touch** 12, **flat-footed** 21 (+3 Dex, +12 natural, –1 size)
 **hp** 110 (7d10+72)
-**Fort**+11,**Ref**+5,**Will** +9
-**Defensive Abilities**uncanny dodge; DR 10/epic and cold iron or lawful;**Immune**cold, mind-affecting effects, poison;**Resist** acid 10, electricity 10, fire 10
+**Fort** +11, **Ref** +5, **Will** +9
+**Defensive Abilities** uncanny dodge; DR 10/epic and cold iron or lawful; **Immune** cold, mind-affecting effects, poison; **Resist** acid 10, electricity 10, fire 10
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** bite +12 (1d8+6), 4 tentacles +8 (1d4+3 plus grab)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** braincloudMA, constrict (1d4+6), horrific appearance (DC 16), mind wrackMA (DC 16), mental subjugationMA (DC 18), murderous fascinationMA (DC 16)
 
 **Spell-Like Abilities** (CL 7th; concentration +10)
@@ -35,8 +35,8 @@ At will—command (DC 14)
 
 #### Statistics
 
-**Str**22,**Dex**16,**Con**23,**Int**12,**Wis**19,**Cha** 17
-**Base Atk**+7;**CMB**+14 (+18 grapple);**CMD** 27 (31 vs. trip)
+**Str** 22, **Dex** 16, **Con** 23, **Int** 12, **Wis** 19, **Cha** 17
+**Base Atk** +7; **CMB** +14 (+18 grapple); **CMD** 27 (31 vs. trip)
 **Feats** Combat ReflexesMF, Improved InitiativeMF, Skill Focus (Use Magic Device), Weapon Focus (tentacles)
 **Skills** Escape Artist +13, Intimidate +17, Knowledge (planes) +11, Perception +18, Sense Motive +14, Stealth +9, Use Magic Device +20; Racial Modifiers +4 Intimidate, +4 Perception, +4 Use Magic Device
 **Languages** Abyssal; telepathy 100 ft.

@@ -13,28 +13,28 @@ This gnarled vine, as thick as a man’s arm and bearing hand-shaped leaves, con
 XP 1,200
 Pathfinder Roleplaying Game Bestiary
 N Large plant (mythic)
-**Init**+0;**Senses** blindsight 30 ft., low-light vision; Perception +5
+**Init** +0; **Senses** blindsight 30 ft., low-light vision; Perception +5
 
 #### Defense
 
-**AC**16,**touch**9,**flat-footed** 16 (+7 natural, –1 size)
+**AC** 16, **touch** 9, **flat-footed** 16 (+7 natural, –1 size)
 **hp** 38 (4d8+20)
-**Fort**+7,**Ref**+1,**Will** +2
-**Defensive Abilities** **Immune**electricity, plant traits;**Resist** cold 10, fire 10
+**Fort** +7, **Ref** +1, **Will** +2
+**Defensive Abilities** **Immune** electricity, plant traits; **Resist** cold 10, fire 10
 
 #### Offense
 
 **Speed** 5 ft., climb 5 ft., swim 5 ft.
 **Melee** slam +7 (1d8+7 plus grab)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** constrict (1d8+7), entangle, lashing ambushMA, mythic power (1/day, surge +1d6)
 
 #### Statistics
 
-**Str**20,**Dex**10,**Con**16,**Int**2,**Wis**13,**Cha** 9
-**Base Atk**+3;**CMB**+9 (+13 grapple);**CMD** 19 (can’t be tripped)
+**Str** 20, **Dex** 10, **Con** 16, **Int** 2, **Wis** 13, **Cha** 9
+**Base Atk** +3; **CMB** +9 (+13 grapple); **CMD** 19 (can’t be tripped)
 **Feats** Combat ReflexesMF, Skill Focus (Stealth)
-**Skills**Climb +13, Perception +5, Stealth +9 (+13 in undergrowth);**Racial Modifiers** +4 bonus on Stealth checks (+8 in undergrowth and forested terrain)
+**Skills** Climb +13, Perception +5, Stealth +9 (+13 in undergrowth); **Racial Modifiers** +4 bonus on Stealth checks (+8 in undergrowth and forested terrain)
 **SQ** camouflage, sentient stalkerMA
 
 #### Ecology

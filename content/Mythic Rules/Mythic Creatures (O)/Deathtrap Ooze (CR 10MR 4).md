@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (O)]]"
 XP 9,600
 Pathfinder Roleplaying Game Bestiary 3 (deathtrap ooze)
 N Large ooze (mythic, shapechanger)
-**Init**–4;**Senses** Perception –5
+**Init** –4; **Senses** Perception –5
 
 #### Defense
 
-**AC**14,**touch**5,**flat-footed** 14 (–4 Dex, +9 natural, –1 size)
+**AC** 14, **touch** 5, **flat-footed** 14 (–4 Dex, +9 natural, –1 size)
 **hp** 170 (12d8+116)
-**Fort**+11,**Ref**+0,**Will** –1
-**Defensive Abilities**DR 10/epic;**Immune** acid, ooze traits
+**Fort** +11, **Ref** +0, **Will** –1
+**Defensive Abilities** DR 10/epic; **Immune** acid, ooze traits
 
 #### Offense
 
-**Speed**20 ft.,**climb** 20 ft.
+**Speed** 20 ft., **climb** 20 ft.
 **Melee** slam +14 (2d6+9 plus 2d6 acid and grab)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** complex trapsterMA, constrict (2d6+9 plus 2d6 acid), deadly trapsterMA, mythic power (6/day, surge 1d8+1) , ranged trapsterMA
 
 #### Statistics
 
-**Str**22,**Dex**3,**Con**24,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+9;**CMB**+16 (+20 grapple);**CMD** 22 (can’t be tripped)
+**Str** 22, **Dex** 3, **Con** 24, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +9; **CMB** +16 (+20 grapple); **CMD** 22 (can’t be tripped)
 **Feats** Extra Mythic Power, Potent Surge
 **Skills** Climb +14
 **SQ** compression, reinforced constructionMA, sudden resetMA, trap form

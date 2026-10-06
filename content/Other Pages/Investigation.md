@@ -113,7 +113,7 @@ You can use analyze as a full-round action to target 1 additional target, plus 1
 
 #### Quick Search [utility] [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You only require a swift action to intentionally search for stimulus using Perception, to search for tracks using Survival, or when attempting to appraise an item, deduce the use of an item, or evaluate a service using Appraise. You also only suffer a -5 penalty when attempting to Appraise as a free action (instead of the normal -10).
 
@@ -133,7 +133,7 @@ You cannot retry the same check more than once, nor can you use senses or simila
 
 #### Saw You Coming [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Whenever you successfully notice a creature using Stealth, as long as you do not reveal your awareness of the creature’s intent or location, you can take the creature by surprise if they initiate combat within the next minute. If the hostile creatures would normally gain a surprise round against you (and your allies), you act in the surprise round, gain a +4 bonus to the initiative check to determine your place in the surprise round, and you may take both a standard and a move action. If you go first in the initiative count, all hostile creatures are instead surprised by you.
 
@@ -233,16 +233,16 @@ You analyze the damage and strain on a creature. When in the presence of multipl
 
 #### Identify Remnants (analyze) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Analyze Skills**: Heal, Perception, or Survival
-**Analyze DC**: 20 + the creature’s CR.
+**Analyze Skills:** Heal, Perception, or Survival
+**Analyze DC:** 20 + the creature’s CR.
 
 You analyze a creature’s blood or similar bodily remains (such as saliva, ectoplasm, teeth, etc.) in an attempt to learn about its origins. If you have an area scrutinized, you can analyze all sources of blood within the area—if the blood originates from different creatures, you gain an analysis for each.
 
 **Simple:** You learn the race, age, and gender (if any) of the creature that spilled the blood, as well as learning the rough actions that were taken before, during, and after their injury. You can also attempt to recall information about the creature as part of gaining this analysis.
 
-**Detailed (+5 DC)**: As a simple analysis, but you also learn when the blood was shed, as well as what caused the damage (a longsword, a fireball spell, etc), and the exact actions that were taken before, during, and after their injury (including any movements made by the creature that shed the blood).
+**Detailed (+5 DC):** As a simple analysis, but you also learn when the blood was shed, as well as what caused the damage (a longsword, a fireball spell, etc), and the exact actions that were taken before, during, and after their injury (including any movements made by the creature that shed the blood).
 
 #### Infer Connection (analyze) [utility]
 
@@ -351,7 +351,7 @@ You can expend this application as an immediate action whenever the analyzed cre
 
 #### Study Landscape (apply) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You reduce any miss chance that you suffer due to any environmental conditions within the analyzed area (such as darkness or fog) as being 10% lower, plus 10% lower for every 5 ranks you possess in the associated skill. Additionally, if such conditions are conferring total concealment due to their distance from a creature (such as fog), creatures within the area only gain total concealment against your attacks if you are at least 20 feet away from them, and you can pinpoint such creatures by sight within this range.
 
@@ -388,7 +388,7 @@ You analyze a storage vessel, a 10-foot cube area, or a creature’s placement o
 
 #### Cognitive Discernment [approach] (Su) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Sense Motive 5 ranks, Investigation sphere.
 
@@ -400,9 +400,9 @@ You can spend 1 use of skill leverage when adopting this approach to have it not
 
 #### Exploit Faultline [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Prerequisites**: Investigation sphere (Exploit Flaw (apply)).
+**Prerequisites:** Investigation sphere (Exploit Flaw (apply)).
 When you use Exploit Flaw on an object, you treat the target’s hardness as being an amount lower equal to 3 + your associated ranks.
 
 Additionally, you get a +2 bonus to sunder combat maneuvers. When attempting a sunder combat maneuver, you may substitute your base attack bonus for your associated ranks, and your Strength modifier for your operative modifier. Finally, whenever you attempt a Strength ability check to break an object, you can use your operative modifier in place of your Strength modifier.
@@ -421,9 +421,9 @@ You can analyze using any of your senses, such as taste, smell, and touch. This 
 
 #### Inerrant Scrutiny [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Prerequisites**: Perception 15 ranks, Investigation sphere.
+**Prerequisites:** Perception 15 ranks, Investigation sphere.
 
 Whenever you adopt the scrutinize approach, you can spend 2 uses of skill leverage to apply such scrutiny to the target that you can see things usually unseeable.
 
@@ -433,19 +433,19 @@ If you scrutinize an area, you see through all forms of darkness within the area
 
 #### Liminal Sight (Su) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Prerequisites**: Sense Motive 5 ranks, Investigation sphere.
+**Prerequisites:** Sense Motive 5 ranks, Investigation sphere.
 
 Whenever you scrutinize, you gain incredible insight into even the smallest flux in the planes around the target, allowing you to see within and beyond the planes—to an extent—depending on the target of scrutinize:
 
 - **Area:** If the area contains a portal or extradimensional space (such as *rope trick* or the entrance to a *mage’s magnificent mansion*), you can visualize the space in its entirety.
-- **Creature**: You can visualize any extradimensional spaces that the creature has intrinsic, constant access to (like the space created by the Extradimensional Storage Warp sphere talent), and can perceive what is stored within as normal.
-- **Object**: As long as the object contains an extradimensional space (like a *bag of holding* or the entrance to a *mage’s magnificent mansion*), you can see what it contains.
+- **Creature:** You can visualize any extradimensional spaces that the creature has intrinsic, constant access to (like the space created by the Extradimensional Storage Warp sphere talent), and can perceive what is stored within as normal.
+- **Object:** As long as the object contains an extradimensional space (like a *bag of holding* or the entrance to a *mage’s magnificent mansion*), you can see what it contains.
 
 This is a divination effect. Generally, how this effect is visualized varies depending on the user, although it tends to be an ‘overlay’ or translucent, shifting image that you have a degree of control over. For example, you may be able to mentally ‘sort’ through the contents of a *bag of holding*, or control how clear (or otherwise) the visualization of the inside of a *mage’s magnificent mansion* is.
 
-**Special**: If you gain a detailed analysis using the Ascertain Equipment talent—and the target is scrutinized—this talent allows you to gain insight into the items contained within any extradimensional storage that the creature possesses, such as a *bag of holding*.
+**Special:** If you gain a detailed analysis using the Ascertain Equipment talent—and the target is scrutinized—this talent allows you to gain insight into the items contained within any extradimensional storage that the creature possesses, such as a *bag of holding*.
 
 #### Meticulous Inspection
 
@@ -459,9 +459,9 @@ You can also use this to perceive the area with any special senses you may posse
 
 #### Perceive Between Moments [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Prerequisites**: Perception 15 ranks, associated skill 15 ranks, Investigation sphere.
+**Prerequisites:** Perception 15 ranks, associated skill 15 ranks, Investigation sphere.
 
 As a free action, you can spend 2 uses of skill leverage to enter a brief state of hyper-awareness of your current surroundings. You immediately gain 1d3 rounds worth of actions, although the actions themselves can only be mental-based actions (excluding spells cast only using your mind). You can move in the form of an astral projection, but you cannot move beyond your analyze range while doing so, nor can you physically interact with objects or creatures.
 
@@ -490,9 +490,9 @@ You can expend this application as an immediate action whenever you successfully
 
 #### Telepathic Interception (Su) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Prerequisites**: Sense Motive 5 ranks, Investigation sphere.
+**Prerequisites:** Sense Motive 5 ranks, Investigation sphere.
 
 Whenever a creature within your analyze range uses telepathy to communicate (or other abilities that send or receive magical messages, such as dream or sending), you immediately receive a Sense Motive check to notice the attempt with a DC equal to 20 + the creature’s Will save modifier—you automatically succeed this check if the creature is scrutinized.
 
@@ -500,7 +500,7 @@ If you are aware of such an attempt, you learn one of the following observations
 
 This is a divination effect.
 
-**Associated Feat**: Telepathy Tap (*Ultimate Intrigue*).
+**Associated Feat:** Telepathy Tap (*Ultimate Intrigue*).
 
 #### Truthseeker [utility]
 

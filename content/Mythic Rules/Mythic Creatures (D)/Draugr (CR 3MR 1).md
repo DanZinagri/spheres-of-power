@@ -13,14 +13,14 @@ These barnacle-encrusted walking corpses look like zombies, but with a fell ligh
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium undead (mythic, water)
-**Init**+0;**Senses** darkvision 60 ft., mistsightMA, Perception +6
+**Init** +0; **Senses** darkvision 60 ft., mistsightMA, Perception +6
 
 #### Defense
 
-**AC**15,**touch**10,**flat-footed** 15 (+2 armor, +3 natural)
+**AC** 15, **touch** 10, **flat-footed** 15 (+2 armor, +3 natural)
 **hp** 27 (3d8+14)
-**Fort**+2,**Ref**+1,**Will** +3
-**Defensive Abilities**DR 5/bludgeoning or slashing;**Immune**undead traits;**Resist** fire 10
+**Fort** +2, **Ref** +1, **Will** +3
+**Defensive Abilities** DR 5/bludgeoning or slashing; **Immune** undead traits; **Resist** fire 10
 
 #### Offense
 
@@ -30,10 +30,10 @@ CE Medium undead (mythic, water)
 
 #### Statistics
 
-**Str**17,**Dex**10,**Con**—,**Int**8,**Wis**10,**Cha** 13
-**Base Atk**+2;**CMB**+5;**CMD** 15
+**Str** 17, **Dex** 10, **Con** —, **Int** 8, **Wis** 10, **Cha** 13
+**Base Atk** +2; **CMB** +5; **CMD** 15
 **Feats** Power AttackMF, Toughness
-**Skills**Climb +8, Perception +6, Profession (sailor) +8, Stealth +6, Swim +11;**Racial Modifiers** +4 Profession (sailor), +8 Swim
+**Skills** Climb +8, Perception +6, Profession (sailor) +8, Stealth +6, Swim +11; **Racial Modifiers** +4 Profession (sailor), +8 Swim
 **Languages** Common (cannot speak)
 
 #### Ecology
@@ -54,14 +54,14 @@ CE Medium undead (mythic, water)
 XP 19,200
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium undead (mythic, troop, water)
-**Init**+4;**Senses** darkvision 60 ft.; Perception +18
+**Init** +4; **Senses** darkvision 60 ft.; Perception +18
 
 #### Defense
 
-**AC**25,**touch**14,**flat-footed** 21 (+4 armor, +4 Dex, +7 natural)
+**AC** 25, **touch** 14, **flat-footed** 21 (+4 armor, +4 Dex, +7 natural)
 **hp** 150 (13d8+92)
-**Fort**+7,**Ref**+8,**Will** +12
-**Defensive Abilities**DR 10/epic and bludgeoning or slashing;**Immune**troop traits, undead traits;**Resist** fire 10
+**Fort** +7, **Ref** +8, **Will** +12
+**Defensive Abilities** DR 10/epic and bludgeoning or slashing; **Immune** troop traits, undead traits; **Resist** fire 10
 
 #### Offense
 
@@ -75,8 +75,8 @@ CE Medium undead (mythic, troop, water)
 
 #### Statistics
 
-**Str**21,**Dex**18,**Con**—,**Int**12,**Wis**14,**Cha** 17
-**Base Atk**+9;**CMB**+14;**CMD** 28 (can’t be bull rushed or tripped)
+**Str** 21, **Dex** 18, **Con** —, **Int** 12, **Wis** 14, **Cha** 17
+**Base Atk** +9; **CMB** +14; **CMD** 28 (can’t be bull rushed or tripped)
 **Feats** Ability Focus (energy drain), Exotic Weapon Proficiency (cannon), Extra Mythic PowerMF, Iron WillMF, Master Siege Engineer, Siege Engineer, Siege Gunner, ToughnessMF
 **Skills** Climb +15, Knowledge (engineering) +11, Knowledge (geography) +10, Perception +18, Profession (sailor) +15, Stealth +19, Swim +17
 **Languages** Common

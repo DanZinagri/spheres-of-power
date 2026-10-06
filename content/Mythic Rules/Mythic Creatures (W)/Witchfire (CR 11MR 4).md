@@ -10,14 +10,14 @@ parent: "[[Mythic Creatures (W)]]"
 **Witchfire, Mythic (CR 11/MR 4)**
 XP 12,800
 CE Medium undead (incorporeal, mythic)
-**Init**+15/-5MF, dual initiativeMA;**Senses** darkvision 60 ft.; Perception +16
+**Init** +15/-5MF, dual initiativeMA; **Senses** darkvision 60 ft.; Perception +16
 
 #### Defense
 
-**AC**30,**touch**30,**flat-footed** 22 (+12 deflection, +7 Dex, +1 dodge)
+**AC** 30, **touch** 30, **flat-footed** 22 (+12 deflection, +7 Dex, +1 dodge)
 **hp** 157 (10d8+112)
-**Fort**+11,**Ref**+12,**Will** +10
-**Defensive Abilities**incorporeal, witchflame; DR 5/epic;**Immune** fire, undead traits
+**Fort** +11, **Ref** +12, **Will** +10
+**Defensive Abilities** incorporeal, witchflame; DR 5/epic; **Immune** fire, undead traits
 
 #### Offense
 
@@ -32,8 +32,8 @@ At will—dancing lights, disguise self, ghost sound (DC 18), invisibility, pyro
 
 #### Statistics
 
-**Str**—,**Dex**24,**Con**—,**Int**17,**Wis**16,**Cha** 27
-**Base Atk**+7;**CMB**+14;**CMD** 32
+**Str** —, **Dex** 24, **Con** —, **Int** 17, **Wis** 16, **Cha** 27
+**Base Atk** +7; **CMB** +14; **CMD** 32
 **Feats** Combat Reflexes, Dodge, Improved InitiativeMF, Lightning ReflexesMF, Mobility
 **Skills** Bluff +18, Fly +15, Intimidate +21, Knowledge (any two) +13, Perception +16, Sense Motive +16, Stealth +20
 **Languages** Auran, Common, Giant

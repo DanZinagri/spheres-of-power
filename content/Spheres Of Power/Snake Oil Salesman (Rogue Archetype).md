@@ -8,65 +8,65 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Casting
+## Casting
 
 A snake oil salesman may combine spheres and talents to create magical effects. He is considered a Low-Caster. (Note: All casters gain 2 bonus talents, and a casting tradition, upon first gaining the casting class feature.)
 
 This ability replaces sneak attack.
 
-### Spell Pool
+## Spell Pool
 
 A snake oil salesman gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A snake oil salesman gains the Enhancement sphere and the Special Delivery drawback at 1st level, gaining Instill Enhancement as normal. If he already possesses the Enhancement sphere, he gains Instill Enhancement without the Special Delivery drawback. He gains a magic talent of his choice at 3rd level and every 2 levels thereafter.
 
-### Soul of a Salesman (Ex)
+## Soul of a Salesman (Ex)
 
 The ability to close on a deal before the other party has time to figure out that they are being cheated is the bread and butter of a snake oil salesman. He adds half his level to all Appraise checks, as well as any Bluff checks made to convince someone to buy his products or to trust him (minimum +1).
 
 This ability replaces trapfinding.
 
-### Snake Oil (Su)
+## Snake Oil (Su)
 
 When the snake oil salesman creates an instilled enhancement, he may choose to create snake oil. Snake oil functions as an instilled enhancement, but is not limited to only creating enhancements with a duration. Instead, the snake oil salesman can create snake oil with a duration of concentration and, if using Mass Enhancement, create multiple vials of snake oil at once. However, when creating snake oil through either or both of these methods, the duration of the instilled liquid is reduced to the duration of the enhancement; the snake oil salesman must concentrate to maintain the snake oil, or if spending a spell point to allow the snake oil to endure without concentration, time spent in liquid form counts against its total duration. Snake oil not only can be applied to a weapon as if it were a poison, but can also benefit from talents, abilities, and feats that affect poisons, such as swift poison or deadly cocktail.
 
-### Rogue Talents
+## Rogue Talents
 
 A snake oil salesman cannot select rogue talents that enhance his (nonexistent) sneak attack, unless gained by a different source. Instead, he gains exclusive access to the following rogue talents:
 
-#### Lingering Magic (Ex)
+### Lingering Magic (Ex)
 
 Whenever a snake oil salesman uses an enhancement and chooses to create snake oil, the enhancement lasts an additional two rounds if he does not spend spell points to relinquish concentration - this stacks with Lingering Enhancement.
 
-#### Malpractice (Su)
+### Malpractice (Su)
 
 Whenever a snake oil salesman poisons a creature with an injury poison, he deals additional weapon damage equal to his casting ability modifier. In addition, he may spend one spell point to enhance a dose of poison; if he does so, a creature that fails their first save against the poison suffers bleed damage equal to his casting ability modifier in addition to its normal effects.
 
-#### Masterful Alchemy (Su)
+### Masterful Alchemy (Su)
 
 A snake-oil salesman gains Master Alchemist as a bonus feat, even if he does not meet the prerequisites.
 
-#### Spoonful of Sugar (Su)
+### Spoonful of Sugar (Su)
 
 Whenever a snake oil salesman creates an instilled enhancement or snake oil, he may mix it with a contact or ingestion poison he possesses as part of the same action without the risk of poisoning himself. If he does so, any attempts to magically detect the poison must also succeed at a magic skill check or fail automatically.
 
 This ability alters rogue talents.
 
-### Cabinet of Miracles (Ex)
+## Cabinet of Miracles (Ex)
 
 At 4th level, the snake oil salesman gains Distill Compound as a bonus feat. Whenever he creates a potion that consists primarily of Enhancement effects, he may increase the complexity of the item by one to combine it with an alchemical item. If he does so, the resulting potion gains all the benefits and drawbacks of the alchemical item itself; if the alchemical item is a splash weapon, any creature that it damages is affected by the potion.
 
 This ability replaces uncanny dodge.
 
-### A Simple Demonstration (Ex)
+## A Simple Demonstration (Ex)
 
 At 8th level, a snake oil salesman may drink potions and instilled enhancements that he created as part of a move action. Additionally, he is completely immune to the negative effects of any poison, potion, or alchemical item that he personally created.
 
 This ability replaces improved uncanny dodge.
 
-### Masterful Salesman (Sp)
+## Masterful Salesman (Sp)
 
 A snake oil salesman can sell fire to a fire elemental. At 20th level, he gains a unique enhancement; by spending a spell point, he may enhance a single object on his person to seem incredibly valuable to onlookers. When he does so, select one of the following options:
 

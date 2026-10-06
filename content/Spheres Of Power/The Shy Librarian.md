@@ -14,13 +14,13 @@ The Shy Librarian is a first-level sample character for Spheres of Power, suitab
 **The Shy Librarian (Bookworm Thaumaturge)**
 Halfling thaumaturge 1
 CG Small humanoid (halfling)
-**Init**+1;**Senses** Perception +1
+**Init** +1; **Senses** Perception +1
 
 ## Defense
 
-**AC**14,**touch**12,**flat-footed** 13 (+2 armor, +1 Dex, +1 size)
+**AC** 14, **touch** 12, **flat-footed** 13 (+2 armor, +1 Dex, +1 size)
 **hp** 10 (1d8+2)
-**Fort**+3,**Ref**+2,**Will** +4; +2 vs. fear (fearless)
+**Fort** +3, **Ref** +2, **Will** +4; +2 vs. fear (fearless)
 
 ## Offense
 
@@ -30,17 +30,17 @@ CG Small humanoid (halfling)
 
 ## Magic
 
-**Caster Level**1;**MSB**+1;**MSD**12;**Concentration** +4
-**Tradition**Librarian Magic (**Boons:** Easy Focus, Virtuoso;**Drawbacks:** Emotional Casting, Focus Casting (book), Mental Focus, Skilled Casting [Profession-Librarian], Verbal Casting);**CAM** Int
+**Caster Level** 1; **MSB** +1; **MSD** 12; **Concentration** +4
+**Tradition** Librarian Magic (**Boons:** Easy Focus, Virtuoso; **Drawbacks:** Emotional Casting, Focus Casting (book), Mental Focus, Skilled Casting [Profession-Librarian], Verbal Casting); **CAM** Int
 **Spell Points** 7
-**Divination Sphere**-**DC**13;**Duration**Divine (Concentration), Sense (1 Hour);**Range**Medium (110 ft);**Talents**Detect Secrets;**Drawbacks** None
+**Divination Sphere** - **DC** 13; **Duration** Divine (Concentration), Sense (1 Hour); **Range** Medium (110 ft); **Talents** Detect Secrets; **Drawbacks** None
 - Divine (Divine, Detect Secrets)
 - Sense (Read Magic)
 
 ## Statistics
 
-**Str**8,**Dex**12,**Con**14,**Int**16,**Wis**13,**Cha** 14
-**Base Atk**+0;**CMB**+0;**CMD** 9
+**Str** 8, **Dex** 12, **Con** 14, **Int** 16, **Wis** 13, **Cha** 14
+**Base Atk** +0; **CMB** +0; **CMD** 9
 **Traits** Avid Reader (Knowledge - arcana), Librarian
 **Feats** Extra Spell Points
 **Skills** Diplomacy +6, Knowledge (arcana) +7, Knowledge (history) +7, Linguistics +10, Perform (oratory) +6, Profession (librarian) +6, Spellcraft +7

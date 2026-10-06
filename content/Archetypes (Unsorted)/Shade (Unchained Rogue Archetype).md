@@ -9,39 +9,39 @@ updated: 2024-06-27
 
 *“Am I the hammer or the chisel? What a dumb question; I packed both”.* Combining magic, martial training and unparalleled acumen, these rogues manage to be both focused and versatile in their specialties, preferring to be a ‘master of many’ over a jack-of-all-trades.
 
-## Trade Tradition
+### Trade Tradition
 
 If this is this character’s first level in any class, the shade can select a trade tradition of her choice, and has an adroit trade rank.
 
 This replaces the rogue’s normal class skills.
 
-## Blended Training
+### Blended Training
 
 At 1st level, the shade gains 3/4ths of a combat, magic, or skill talent every time she gains a class level. Shades use their casting ability modifier as their practitioner and operative ability modifier.
 
 This replaces the rogue talents gained at 4th, 8th, 12th, 16th, and 20th level.
 
-## Casting
+### Casting
 
 The shade may combine spheres and talents to create magical effects. The shade is considered a Mid-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature).
 
-## Spell Pool
+### Spell Pool
 
 The shade gains a reservoir of energy she can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to her rogue level + her casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-## Professional Method
+### Professional Method
 
 At 2nd level, the shade gains a professional method of her choice, as if it were her second method, as well as the professional interest class feature. She treats her rogue levels as professional levels for this purpose.
 
 This replaces trapfinding.
 
-## Shade Machination
+### Shade Machination
 
 At 3rd level, the shade chooses one shade machination. Once chosen, this choice cannot be changed.
 
 This replaces danger sense, uncanny dodge, and improved uncanny dodge.
 
-## Shade’s Edge
+### Shade’s Edge
 
 Whenever the shade would choose a skill unlock power at 5th level and every 5 levels thereafter, the shade can instead choose a single combat, magic, or skill sphere she possesses. The chosen sphere uses the shade’s class level instead of its relevant statistic (base attack bonus, caster level, or skill ranks) when determining its effects.
 
@@ -49,9 +49,9 @@ This does not raise the statistic for other purposes, such as attack rolls or sk
 
 This alters rogue’s edge.
 
-# Shade Machinations
+## Shade Machinations
 
-#### The Command and Conquer
+##### The Command and Conquer
 
 The shade gains the Spellhacking sphere as a bonus sphere.
 
@@ -61,7 +61,7 @@ At 4th level, the shade gains the following debilitating injury option:
 
 At 8th level, whenever the shade successfully deals sneak attack damage to a creature, she can expend her martial focus or outwit the creature as an immediate action to attempt to hack magic against a magic item that the creature is attending or a magical effect affecting the creature.
 
-#### The Crack and Shatter
+##### The Crack and Shatter
 
 The shade gains the Bluster sphere as a bonus sphere.
 
@@ -71,7 +71,7 @@ At 4th level, the shade gains the following debilitating injury option:
 
 At 8th level, whenever the shade successfully deals sneak attack damage to a creature, she can expend her martial focus or outwit the creature as an immediate action to attempt a quip against the creature.
 
-#### The Drop and Squander
+##### The Drop and Squander
 
 The shade gains the Alchemy sphere as a bonus sphere, although she must take the (poison) package.
 
@@ -81,7 +81,7 @@ At 4th level, the shade gains the following debilitating injury option:
 
 At 8th level, whenever the rogue applies a poison to her weapon or a trap, it requires an additional save to cure. This does not affect the initial saving throw against the poison, only the save to end an ongoing poison.
 
-#### The Loot and Loiter
+##### The Loot and Loiter
 
 The shade gains the Telekinesis sphere as a bonus sphere.
 
@@ -91,7 +91,7 @@ At 4th level, the shade gains the following debilitating injury option:
 
 At 8th level, the shade gains Skillful Force as a bonus feat–if she already possesses the feat, she can instead choose a feat with Telekinesis sphere in its prerequisites.
 
-#### The Search and Destroy
+##### The Search and Destroy
 
 The shade gains the Infiltration sphere as a bonus sphere.
 
@@ -101,7 +101,7 @@ At 4th level, the shade gains the following debilitating injury option:
 
 At 8th level, whenever the shade successfully deals sneak attack damage to a creature, she can expend her martial focus or outwit the creature as an immediate action to use her fast sabotage ability against a valid object in the attached creature’s possession.
 
-#### The Smile and Beguile
+##### The Smile and Beguile
 
 The shade gains the Mind sphere as a bonus sphere.
 
@@ -111,7 +111,7 @@ At 4th level, the shade gains the following debilitating injury option:
 
 At 8th level, the shade gains Silver Tongue as a bonus feat–if she already possesses the feat, she can instead choose a feat with the Mind sphere in its prerequisites.
 
-#### The Swipe and Scurry
+##### The Swipe and Scurry
 
 The shade gains the Scoundrel sphere as a bonus sphere.
 
@@ -121,7 +121,7 @@ At 4th level, the shade gains the following debilitating injury option:
 
 At 8th level, whenever the shade successfully deals sneak attack damage to a creature, she can expend her martial focus or outwit the creature as an immediate action to attempt a dirty trick or steal combat maneuver against the creature.
 
-#### The Watch and Listen
+##### The Watch and Listen
 
 The shade gains the Investigation sphere as a bonus sphere.
 

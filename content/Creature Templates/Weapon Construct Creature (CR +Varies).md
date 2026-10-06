@@ -38,6 +38,6 @@ If the save is successful, the opponent may attempt a pin; if successful, the we
 
 **Sheathing the Weapon (Su):** If a weapon construct is successfully pinned, the wielder drives or wedges the weapon construct into an object dealing the weapon construct’s damage plus the foe’s Strength modifier as appropriate for weapon construct) to the object. If the damage exceeds the object's hardness and does not destroy the object, the weapon construct is considered bound and helpless unless it makes an Escape Artist check (+2 bonus) DC equal to 10 plus the damage dealt plus the hardness of the object.
 
-**Abilities:** Increase from the base creature as follows:**Str** +8 (+4 to attack and damage, +4 to Climb and Swim skill checks, +4 to Strength, and CMB checks, +4 to CMD)
+**Abilities:** Increase from the base creature as follows: **Str** +8 (+4 to attack and damage, +4 to Climb and Swim skill checks, +4 to Strength, and CMB checks, +4 to CMD)
 
 **Feats:** If a weapon construct creature gains Improved Sunder and Power Attack as bonus feats even if it does not meet the prerequisites.

@@ -13,14 +13,14 @@ This tall, regal woman is clad in a long cloak of pristine white swan feathers a
 XP 3,200
 Pathfinder Roleplaying Game Bestiary 4
 CG Medium fey (mythic, shapechanger)
-**Init**+6;**Senses** low-light vision; Perception +20
+**Init** +6; **Senses** low-light vision; Perception +20
 
 #### Defense
 
-**AC**26,**touch**17,**flat-footed** 19 (+4 armor, +6 Dex, +1 dodge, +4 natural, +1 shield)
+**AC** 26, **touch** 17, **flat-footed** 19 (+4 armor, +6 Dex, +1 dodge, +4 natural, +1 shield)
 **hp** 73 (10d6+38)
-**Fort**+5,**Ref**+13,**Will** +8
-**Defensive Abilities**aerial evasionMA; DR 5/cold iron and epic;**Resist**cold 10, electricity 10;**SR** 18
+**Fort** +5, **Ref** +13, **Will** +8
+**Defensive Abilities** aerial evasionMA; DR 5/cold iron and epic; **Resist** cold 10, electricity 10; **SR** 18
 
 #### Offense
 
@@ -35,10 +35,10 @@ At will—dancing lights
 
 #### Statistics
 
-**Str**13,**Dex**22,**Con**15,**Int**10,**Wis**12,**Cha** 15
-**Base Atk**+5;**CMB**+6;**CMD** 23
+**Str** 13, **Dex** 22, **Con** 15, **Int** 10, **Wis** 12, **Cha** 15
+**Base Atk** +5; **CMB** +6; **CMD** 23
 **Feats** Deadly AimMF, Dodge, Flyby Attack, Skill Focus (Perception), Weapon FinesseMF
-**Skills**Acrobatics +19, Bluff +10, Diplomacy +10, Fly +21, Knowledge (nature) +8, Perception +20, Sense Motive +10, Stealth +23, Swim +5;**Racial Modifiers** +4 Stealth
+**Skills** Acrobatics +19, Bluff +10, Diplomacy +10, Fly +21, Knowledge (nature) +8, Perception +20, Sense Motive +10, Stealth +23, Swim +5; **Racial Modifiers** +4 Stealth
 **Languages** Common, Sylvan
 **SQ** change shape (trumpeter swan, beast shape I), feather cloak, quick changeMA, rhinemaiden’s callMA, trackless step, transformation ritual
 

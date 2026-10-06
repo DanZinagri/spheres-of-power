@@ -12,28 +12,28 @@ This terrifying monstrosity towers taller than the mightiest jungle trees, its f
 **Mythic Deadly Mantis (CR 13/MR 5)**
 XP 25,600
 N Colossal vermin (mythic)
-**Init**+8;**Senses** darkvision 60 ft.; Perception +4
+**Init** +8; **Senses** darkvision 60 ft.; Perception +4
 
 #### Defense
 
-**AC**30,**touch**6,**flat-footed** 26 (+4 Dex, +24 natural, –8 size)
+**AC** 30, **touch** 6, **flat-footed** 26 (+4 Dex, +24 natural, –8 size)
 **hp** 208 (16d8+136)
-**Fort**+16,**Ref**+11,**Will** +5
-**Defensive Abilities**deflective carapaceMA, ferocityMA, quick healerMA; DR 10/epic;**Immune** mind-affecting effects
+**Fort** +16, **Ref** +11, **Will** +5
+**Defensive Abilities** deflective carapaceMA, ferocityMA, quick healerMA; DR 10/epic; **Immune** mind-affecting effects
 
 #### Offense
 
 **Speed** 60 ft.
 **Melee** bite +19 (4d6+14/19–20/×3), 2 claws +18 (2d8+14 plus grab)
-**Space**30 ft.;**Reach** 30 ft. (10 ft. with bite)
+**Space** 30 ft.; **Reach** 30 ft. (10 ft. with bite)
 **Special Attacks** destructive mandiblesMA, fling, mythic power (5/day, surge +1d8), rending mandibles, spray of spursMA
 
 #### Statistics
 
-**Str**38,**Dex**18,**Con**23,**Int**1,**Wis**11,**Cha** 5
-**Base Atk**+12;**CMB**+34 (+38 grapple);**CMD** 48 (52 vs. trip)
+**Str** 38, **Dex** 18, **Con** 23, **Int** 1, **Wis** 11, **Cha** 5
+**Base Atk** +12; **CMB** +34 (+38 grapple); **CMD** 48 (52 vs. trip)
 **Feats** Bleeding Critical, Critical FocusMF, Improved CriticalMF (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Vital StrikeMF, Weapon Focus (bite)
-**Skills**Acrobatics +12 (+24 when jumping), Climb +18, Perception +12;**Racial Modifiers** +4 Climb, +4 Perception
+**Skills** Acrobatics +12 (+24 when jumping), Climb +18, Perception +12; **Racial Modifiers** +4 Climb, +4 Perception
 **SQ** cunningMA
 
 #### Ecology

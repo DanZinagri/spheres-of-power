@@ -18,20 +18,20 @@ Renowned warriors are great figures which carve mountains, redirect rivers, and 
 **Requirements**
 To qualify to become a renowned warrior, a character must fulfill all the following criteria.
 
-**Skills**: Knowledge (local) 5 ranks.
+**Skills:** Knowledge (local) 5 ranks.
 
 **Class Skills**
 The renowned warrior’s class skills are Diplomacy (Cha), Intimidate (Cha), Knowledge (geography), Knowledge (history), Knowledge (local), Knowledge (nobility), Perception (Wis), Ride (Dex), Sense Motive (Wis).
 
-**Skill Points at each Level**: 4 + Int modifier.
-**Hit Die**: d10.
+**Skill Points at each Level:** 4 + Int modifier.
+**Hit Die:** d10.
 
 **Class Features**
 **Table: Renowned Warrior**
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| **Class Level**|**Base Attack Bonus**|**Fort Save**|**Reflex Save**|**Will Save**|**Special** |
+| **Class Level** | **Base Attack Bonus** | **Fort Save** | **Reflex Save** | **Will Save** | **Special** |
 | 1 | +1 | +1 | +0 | +1 | Continued training, warrior’s path, warrior prowess |
 | 2 | +2 | +1 | +1 | +1 | Aligned class, courtly bearing |
 | 3 | +3 | +2 | +1 | +2 | Warrior prowess |
@@ -51,9 +51,9 @@ The following are class features of the renowned warrior prestige class.
 
 At 1st level, the renowned warrior’s class levels count as (and stack with) their non-renowned warrior class levels when determining the uses per day of their class features granted by non-renowned warrior class levels; this includes daily class-granted resource pools which increase with class level, such as a magus’s arcane pool or monk’s ki pool. The renowned warrior does not gain new abilities, power, talents, or features this way.
 
-**Note**: Continued training’s bonus effective levels to class resources does stack with the aligned class feature and can allow your effective class level to exceed your character level, but only when calculating the number of uses of a per day class feature. For example, a druid who multiclasses into renowned warrior and chooses druid as their aligned class could have a number of uses of wild shape per day equal to a 21st level druid despite being druid 6 / renowned warrior 10. A druid in this position would not receive unlimited uses of their wild shape ability (as that is a new feature), but would continue to receive additional uses as their effective druid level is calculated higher.
+**Note:** Continued training’s bonus effective levels to class resources does stack with the aligned class feature and can allow your effective class level to exceed your character level, but only when calculating the number of uses of a per day class feature. For example, a druid who multiclasses into renowned warrior and chooses druid as their aligned class could have a number of uses of wild shape per day equal to a 21st level druid despite being druid 6 / renowned warrior 10. A druid in this position would not receive unlimited uses of their wild shape ability (as that is a new feature), but would continue to receive additional uses as their effective druid level is calculated higher.
 
-**Note**: See **Appendix: 3rd Party Compatibility**.
+**Note:** See **Appendix: 3rd Party Compatibility**.
 
 ### Warrior’s Path
 
@@ -73,7 +73,7 @@ Unless otherwise specified, the DC to save against a warrior prowess ability is 
 
 Starting at 2nd level, the renowned warrior chooses one base class they belonged to before gaining renowned warrior levels. The renowned warrior gains all the class features for this class, essentially adding each renowned warrior level at 2nd level and every even level thereafter to their aligned class to determine what class features they gain. The renowned warrior retains the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gains all other class features of their aligned class as well as those of the renowned warrior prestige class.
 
-**Note**: See **Appendix: 3rd Party Compatibility**.
+**Note:** See **Appendix: 3rd Party Compatibility**.
 
 ### Courtly Bearing (Ex)
 
@@ -123,11 +123,11 @@ A renowned warrior walking the path of the warrior god gains a bonus on all Sens
 
 In addition, once per round as a free action that can be taken even if it is not the renowned warrior’s turn, the renowned warrior may intercept a single attack targeting an ally they are adjacent to (including after moving using this ability). If the renowned warrior intercepts an attack this way, they become the target of the attack (resolving the attack vs. the renowned warrior, even if they would be out of reach or range) and gain a +1 circumstance bonus to their AC against this attack, plus an additional 1 at 4th level and every 3 levels thereafter. The renowned warrior must choose to intercept an attack before the attack roll is made.
 
-**Note**: The defiant guard ability allows the renowned warrior to intercept attacks (melee attacks, ranged attacks, spell attacks with an attack roll). This ability does not allow the renowned warrior to intercept spells (such as a *hold person* spell).
+**Note:** The defiant guard ability allows the renowned warrior to intercept attacks (melee attacks, ranged attacks, spell attacks with an attack roll). This ability does not allow the renowned warrior to intercept spells (such as a *hold person* spell).
 
 - *Shrug It Off (Ex)*: At 4th level, when the renowned warrior uses their defiant guard ability to intercept an attack, the renowned warrior reduces any damage dealt by that attack by an amount equal to their renowned warrior level and adds 1/2 their renowned warrior level as a bonus on any saving throw(s) caused by that attack (such as a poison, additional effect caused by a ray spell, etc.).
 
-**Note**: Shrug it off does not grant damage reduction and instead directly reduces the damage taken (after calculations such as damage reduction and energy resistance). For example, if a 5th level renowned warrior would take 13 damage after using their defiant guard ability and had DR 3/– from their adamantine full plate, the renowned warrior would first apply their damage reduction (reducing the damage to 10), and then reduce that damage by a further 5 with shrug it off, taking 5 damage.
+**Note:** Shrug it off does not grant damage reduction and instead directly reduces the damage taken (after calculations such as damage reduction and energy resistance). For example, if a 5th level renowned warrior would take 13 damage after using their defiant guard ability and had DR 3/– from their adamantine full plate, the renowned warrior would first apply their damage reduction (reducing the damage to 10), and then reduce that damage by a further 5 with shrug it off, taking 5 damage.
 
 - *Giant’s Presence (Ex)*: At 8th level, when the renowned warrior uses their defiant guard ability to intercept an attack, the renowned warrior may choose one of the following (chosen after the triggering attack resolves):
 
@@ -149,9 +149,9 @@ Using this ability requires the renowned warrior to speak their choice aloud, su
 
 - *Rising Heat of Battle (Ex)*: At 4th level, whenever the renowned warrior succeeds on a check benefitting from their most recent bold declaration bonus (such as a successful saving throw while benefiting from increased saving throws or an enemy’s attack missing the renowned warrior while benefiting from increased AC an attack missing the renowned warrior, etc.), their most recent bold declaration’s duration is extended for 1 additional round. Multiple successes can extend the duration cumulatively, but only for the most recently chosen bonus. If the renowned warrior would make a bold declaration for the same bonus, the duration for that bonus is reset. This can allow the renowned warrior, through continued success, to have bonuses to multiple bonuses from their bold declaration ability simultaneously.
 
-**Example**: The renowned warrior declares they will “pierce through their enemies to their heart”, gaining a bonus on damage rolls. Until the end of their next turn, each time the renowned warrior successfully deals damage, the duration of this bold declaration would increase by 1 round. If the renowned warrior dealt damage 5 times, the bold declaration would last for 5 rounds (plus the initial duration). If the renowned warrior would attempt a new bold declaration for damage rolls, the previous duration is lost. If the renowned warrior uses their bold declaration to gain a bonus on AC, any increased duration would apply to their bonus to AC, not any other ongoing bonus gained from their bold declaration ability.
+**Example:** The renowned warrior declares they will “pierce through their enemies to their heart”, gaining a bonus on damage rolls. Until the end of their next turn, each time the renowned warrior successfully deals damage, the duration of this bold declaration would increase by 1 round. If the renowned warrior dealt damage 5 times, the bold declaration would last for 5 rounds (plus the initial duration). If the renowned warrior would attempt a new bold declaration for damage rolls, the previous duration is lost. If the renowned warrior uses their bold declaration to gain a bonus on AC, any increased duration would apply to their bonus to AC, not any other ongoing bonus gained from their bold declaration ability.
 
-**Note – Bold Declarations and Rising Heat of Battle out of Combat**: The “spirit” of the bold declaration ability is that you are able to impress and perform in front of others, or at least to yourself. While it is intended that a renowned warrior could use the bold declaration ability out of combat (however practical loudly announcing your intentions every 6 seconds is), the rising heat of battle ability is not meant to allow a bold declaration bonus to persist when not acting in initiative or in active scenarios, subject to GM discretion. This is meant to discourage trying to accumulate and maintain long-running bonuses before entering a combat scenario.
+**Note – Bold Declarations and Rising Heat of Battle out of Combat:** The “spirit” of the bold declaration ability is that you are able to impress and perform in front of others, or at least to yourself. While it is intended that a renowned warrior could use the bold declaration ability out of combat (however practical loudly announcing your intentions every 6 seconds is), the rising heat of battle ability is not meant to allow a bold declaration bonus to persist when not acting in initiative or in active scenarios, subject to GM discretion. This is meant to discourage trying to accumulate and maintain long-running bonuses before entering a combat scenario.
 
 - *Promises to Keep (Ex)*: At 8th level, the bonus granted by bold declaration increases to +3.
 
@@ -163,31 +163,31 @@ As the renowned warrior gains experience, they learn a number of talents to bear
 
 Unless otherwise specified, the DC to save against a warrior prowess ability is equal to 10 + the renowned warrior’s class level + the renowned warrior’s highest mental ability score (Intelligence, Wisdom, or Charisma).
 
-#### *Absolution (Ex) (requires 5th level)*
+#### Absolution (Ex) (requires 5th level)
 
 The renowned warrior wades through impurities and emerges unscathed. Whenever the renowned warrior would attempt a saving throw against a curse, death, disease, mind-affecting, pain, or poison effect, the renowned warrior may roll twice and take the better result. If the renowned warrior succeeds on their saving throw against such an effect, they are immune to that effect (from that source) for 1 minute. If an effect would have reduced effects on a successful saving throw, this immunity also protects against such reduced effects.
 
-**Example**: The renowned warrior is targeted by an aboleth’s *dominate person* spell-like ability. The renowned warrior may roll twice and take the better result on their saving throw, and if they succeed on their saving throw, the renowned warrior is immune to that aboleth’s *dominate person* spell-like ability for 1 minute. This immunity does not extend to another aboleth’s *dominate person* spell-like ability, nor the other mind-affecting abilities an aboleth may possess.
+**Example:** The renowned warrior is targeted by an aboleth’s *dominate person* spell-like ability. The renowned warrior may roll twice and take the better result on their saving throw, and if they succeed on their saving throw, the renowned warrior is immune to that aboleth’s *dominate person* spell-like ability for 1 minute. This immunity does not extend to another aboleth’s *dominate person* spell-like ability, nor the other mind-affecting abilities an aboleth may possess.
 
-#### *Arrow Dancer (Ex) (requires 3rd level)*
+#### Arrow Dancer (Ex) (requires 3rd level)
 
 The renowned warrior gains a constant 10% miss chance against ranged attacks and melee attacks made by creatures not adjacent to the renowned warrior (typically due to reach). Thismiss chance improves to 20% at 8th level. If the renowned warrior benefits from another source of miss chance (such as concealment, lightning conditions, weather, etc.), the renowned warrior increases that miss chance by an additional 10% (to a maximum of 50%; increasing a miss chance this way does not grant total concealment). The renowned warrior loses this miss chance against a given attack if they are flat-footed, are denied their Dexterity bonus to their AC, or immobilized (and could not move, such as being stunned, grappled, etc.).
 
 Whenever a ranged attack misses the renowned warrior (due to this miss chance or otherwise), the renowned warrior may immediately move 5 feet. This movement provokes attacks of opportunity as normal except from the source of the missed attack. The renowned warrior may use this ability to move a number of times each round using this ability equal to 2 + 1/2 their renowned warrior level.
 
-#### *Combat Feat (Ex)*
+#### Combat Feat (Ex)
 
 The renowned warrior can gain one combat feat they qualify for as a bonus feat. Once per day, the renowned warrior may focus themselves as a move action to change the combat feat they selected with this warrior prowess to another combat feat they qualify for.
 
-#### *Commanding Heraldry (Ex)*
+#### Commanding Heraldry (Ex)
 
 The renowned warrior gains the cavalier’s banner class feature, treating twice their renowned warrior class level as their cavalier level when determining its effects. When the renowned warrior's effective cavalier level is 14, the renowned warrior also gains the greater banner class feature. The renowned warrior can exchange the banner and greater banner features for a battle standard as normal.
 
 The renowned warrior’s class levels do not stack with levels of another class which grant the banner class feature, and if the renowned warrior already possesses the banner class feature (or a similar feature), the renowned warrior must select a battle standard or may immediately swap their non-renowned warrior banner for a battle standard (the renowned warrior’s two banners must grant different benefits). The renowned warrior’s banner effectively grants two distinct benefits with a single banner (or may choose to present two separate banners); whenever the renowned warrior waves their banner (usually as a standard action), the renowned warrior may only grant the active benefit of a single banner (not both).
 
-**Note**: A battle standard is an alternative banner benefit a cavalier may select when they gain the banner class feature. Additional battle standard choices are included in **Section 3 – Other Class Features** of this book, in addition to the battle standard choices originally printed in *Chronicles of Legends*.
+**Note:** A battle standard is an alternative banner benefit a cavalier may select when they gain the banner class feature. Additional battle standard choices are included in **Section 3 – Other Class Features** of this book, in addition to the battle standard choices originally printed in *Chronicles of Legends*.
 
-#### *Exemplary Form (Ex)*
+#### Exemplary Form (Ex)
 
 The renowned warrior’s technique and form is so clean and precise that it helps those who observe their actions.
 
@@ -195,11 +195,11 @@ Once per round, whenever the renowned warrior succeeds on an attack roll, saving
 
 Feats, class features and other effects that improve the bonus the renowned warrior provides when using the aid another action are halved (minimum 1; add up the total increase and then halve, do not halve each increase). This includes effects that would change aid another's base bonus to be greater than 2, such as the helpful racial trait (*Halflings of Golarion*) effectively being a +2 increase to aid another's bonus, halved when used with exemplary form.
 
-**Reminder Note**: The bonus from aid another applies to the aided creature’s next roll (attack, save, skill), or to the aided creature’s AC against the next attack made against them. The benefits of aid another lasts until the start of the aiding creature’s next turn.
+**Reminder Note:** The bonus from aid another applies to the aided creature’s next roll (attack, save, skill), or to the aided creature’s AC against the next attack made against them. The benefits of aid another lasts until the start of the aiding creature’s next turn.
 
 While aid another bonuses stack from different sources, an aid another bonus from the same creature to the same type of roll does not stack. At 7th level, the renowned warrior could aid another two different allies for their attack rolls, but providing an aid another bonus to attack rolls twice, for the same ally, would not stack.
 
-#### *Horizon Draw (Ex)*
+#### Horizon Draw (Ex)
 
 The renowned warrior treats any composite bow they wield as having the *adaptive* special weapon ability (*Ultimate Equipment*). In addition, the renowned warrior adds +10 feet to the range increment of any ranged weapon they wield (this increased range is added after any other increases to range, such as the *distance* special weapon ability).
 
@@ -212,31 +212,31 @@ In addition, the renowned warrior may focus themselves as a swift action, gainin
 
 At 10th level, whenever you would spend a swift action to gain a horizon draw benefit, you may choose to gain two horizon draws (two different or even the same horizon draw chosen twice). The renowned warrior may apply two horizon draws to the same attack, or apply each horizon draw to a different attack. However, the same horizon draw does not stack (such as not being able to apply the sharpened stinger horizon draw twice to the same attack).
 
-**Note**: This warrior prowess is only usable with manufactured or natural ranged weapons. Ranged attacks generated by spells, spell-like abilities, and supernatural abilities do not qualify for any of the benefits granted by this warrior prowess.
+**Note:** This warrior prowess is only usable with manufactured or natural ranged weapons. Ranged attacks generated by spells, spell-like abilities, and supernatural abilities do not qualify for any of the benefits granted by this warrior prowess.
 
-#### *Loyal Companion (Ex) (requires subordinate)*
+#### Loyal Companion (Ex) (requires subordinate)
 
 Choose one subordinate the renowned warrior possesses. The renowned warrior’s class levels count as (and stack with) their non-renowned warrior class levels when determining the abilities and statistics of the chosen subordinate (this is in addition to any additional effective levels granted by the aligned class class feature). When determining their effective class level for the chosen subordinate, the renowned warrior’s effective class level cannot exceed their total character level.
 
 In addition, as long as the renowned warrior’s chosen subordinate can see the renowned warrior, the chosen subordinate gains a +1 morale bonus on all attack rolls, damage rolls, saving throws and skill checks. This bonus increases by +1 at 5th level and 9th level.
 
-**Note**: Subordinates are controlled creatures, defined in **Appendix: Subordinates** of this book. GMs should allow players to select any class-granted companion as appropriate (such as animal companions, drakes, eidolons, familiars, phantoms, etc.).
+**Note:** Subordinates are controlled creatures, defined in **Appendix: Subordinates** of this book. GMs should allow players to select any class-granted companion as appropriate (such as animal companions, drakes, eidolons, familiars, phantoms, etc.).
 
-**Example**: A renowned warrior with ranger levels could select their animal companion with this warrior prowess, adding their renowned warrior levels to their ranger level when determining their effective druid level for that companion.
+**Example:** A renowned warrior with ranger levels could select their animal companion with this warrior prowess, adding their renowned warrior levels to their ranger level when determining their effective druid level for that companion.
 
-#### *Mystic Ward (Su)*
+#### Mystic Ward (Su)
 
 Whether by determination or providence, the renowned warrior is warded against the mystic arts that would bring them harm. The renowned warrior gains a +1 insight bonus on saving throws against supernatural abilities, spells, and spell-like abilities, as well as a +1 insight bonus to their AC against supernatural abilities, spells, and spell-like abilities (such as ray or touch spells, magical touch attacks, etc.). These bonuses increase by +1 at 5th level and again at 9th level (maximum +3 at 10th level).
 
-#### *Mystic Wielder (Su)*
+#### Mystic Wielder (Su)
 
 The renowned warrior’s weapons are imbued with mystic energy drawn from their unyielding will, mystic prowess, or higher faith. Any weapon the renowned warrior wields (including their unarmed strikes and natural attacks) gains a +1 enhancement bonus on attack and damage rolls, allowing the weapon to bypass damage reduction as a magic weapon. If the weapon would already have an enhancement bonus, the renowned warrior instead increases that enhancement bonus by +1 for all purposes (to a maximum of +5). At 10th level, this ability can increase a weapon’s enhancement bonus to +6 and allows any weapon the renowned warrior wields to have a total modified bonus exceeding +10.
 
-**Normal**: A weapon’s enhancement bonus cannot exceed +5 and a weapon’s modified bonus (enhancement bonus plus special ability bonus equivalents, including those from character abilities and spells) cannot exceed +10.
+**Normal:** A weapon’s enhancement bonus cannot exceed +5 and a weapon’s modified bonus (enhancement bonus plus special ability bonus equivalents, including those from character abilities and spells) cannot exceed +10.
 
 This ability does not allow a mystic wielder to craft a magic weapon whose total bonus exceeds +10, although they may use class features (including mystic wielder) to increase the total bonus beyond +10.
 
-#### *Revelry (Ex)*
+#### Revelry (Ex)
 
 The renowned warrior may retrieve and consume potions, elixirs, and other consumables as a swift action that does not provoke an attack of opportunity. Whenever the renowned warrior consumes a beverage (potion, elixir, alcoholic drink, etc.), the renowned warrior gains a number of temporary hit points equal to 5 + their renowned warrior level. These temporary hit points last for 1 minute.
 
@@ -252,11 +252,11 @@ At 9th level, the renowned warrior may choose the following additional option:
 
 The renowned warrior may not use the revelry warrior prowess to consume an alchemist’s extract or infusion faster than a standard action.
 
-**Note**: The renowned warrior does not need to consume a substance with special properties. Simply using the swift action to drink from their water skin or canteen is sufficient. For the purposes of this warrior prowess, a consumable which targets the renowned warrior (and not their equipment, etc.) is a beverage, even if it would not be drunk (such as an alchemical beard oil targeting the renowned warrior could be used with the revelry warrior prowess).
+**Note:** The renowned warrior does not need to consume a substance with special properties. Simply using the swift action to drink from their water skin or canteen is sufficient. For the purposes of this warrior prowess, a consumable which targets the renowned warrior (and not their equipment, etc.) is a beverage, even if it would not be drunk (such as an alchemical beard oil targeting the renowned warrior could be used with the revelry warrior prowess).
 
-**Note**: See **Appendix: 3rd Party Compatibility**.
+**Note:** See **Appendix: 3rd Party Compatibility**.
 
-#### *Sightless Mastery (Ex)*
+#### Sightless Mastery (Ex)
 
 The renowned warrior gains Blind-Fight as a bonus feat. If the renowned warrior already possesses Blind-Fight, the renowned warrior instead gains a single feat they qualify for which requires Blind-Fight as a prerequisite (such as Improved Blind-Fight). At 5th level, and again at 9th level, the renowned warrior gains a bonus feat which lists Blind-Fight as a prerequisite.
 
@@ -264,19 +264,19 @@ The renowned warrior may benefit from the Blind-Fight, Improved Blind-Fight, and
 
 In addition, the renowned warrior may spend a swift action to gain 5 feet of blindsense (or increase the range of any existing blindsense or blindsight they already possess by the same amount) until the start of their next turn. This increases by +5 feet at 5th level and 9th level.
 
-#### *Unbroken (Ex)*
+#### Unbroken (Ex)
 
 The renowned warrior gains DR 1 / –, increasing by +1 at 5th level and again at 9th level. If the renowned warrior is wearing armor, this damage reduction increases by +1, and if wearing heavy armor, this damage reduction increases by a further +1. This damage reduction stacks with other sources of damage reduction (such as the barbarian’s damage reduction class feature, the damage reduction granted by the adamantine special material, or typed damage reduction such as a lycanthrope’s DR / silver).
 
 In addition, the renowned warrior gains Endurance as a bonus feat. If the renowned warrior already possesses Endurance, the renowned warrior instead gains a single feat they qualify for which requires Endurance as a prerequisite (such as Diehard). At 5th level, and again at 9th level, the renowned warrior gains a bonus feat which lists Endurance as a prerequisite.
 
-**Special**: The renowned warrior qualifies for any feat which lists Endurance as a prerequisite as though they met any ability score or racial prerequisites for that feat, but must still meet any other prerequisites (feats, base attack bonus, skill ranks, religious requirements, etc.). For example, the renowned warrior may qualify for the Deathless Initiate feat (*Ultimate Combat*), despite not being a half-orc or orc and even if their ability scores would be insufficient.
+**Special:** The renowned warrior qualifies for any feat which lists Endurance as a prerequisite as though they met any ability score or racial prerequisites for that feat, but must still meet any other prerequisites (feats, base attack bonus, skill ranks, religious requirements, etc.). For example, the renowned warrior may qualify for the Deathless Initiate feat (*Ultimate Combat*), despite not being a half-orc or orc and even if their ability scores would be insufficient.
 
-#### *Windrunner (Ex)*
+#### Windrunner (Ex)
 
 The renowned warrior’s back is to the sun, and footsteps trace the winds on their path forward. The renowned warrior gains a +10 feet bonus to each of their movement modes. At 5th level, and again at 9th level, this increases by an additional +10 feet (maximum +30 feet at 9th level). Reductions to the renowned warrior’s speed, such as when wearing armor heavier than light armor, still apply as normal.
 
 In addition, whenever the renowned warrior moves, they may move through up to 5 feet of difficult terrain each round as if it were normal terrain. This allows the renowned warrior to take a 5-foot step into difficult terrain. At 5th level, and again at 9th level, the amount of difficult terrain the renowned warrior may move through each round increases by +5 feet (maximum 15 feet at 9th level). The effects of this warrior prowess stack with those provided by other similar effects (such as the Nimble Moves and Acrobatic Steps feats). The renowned warrior may similarly ignore an equal amount of terrain which would require additional movement to move through (such as the movement penalty imposed by a *solid fog* spell).
 
-**Special**: A mounted renowned warrior with the windrunner warrior prowess may share its effects with their mount.
+**Special:** A mounted renowned warrior with the windrunner warrior prowess may share its effects with their mount.
 

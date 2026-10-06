@@ -13,13 +13,13 @@ This capricious figure has the upper torso, arms, and head of a man, but goat-li
 XP 600
 Pathfinder Roleplaying Game Bestiary 3
 CG Medium fey (mythic)
-**Init**+3;**Senses** low-light vision; Perception +8
+**Init** +3; **Senses** low-light vision; Perception +8
 
 #### Defense
 
-**AC**17,**touch**13,**flat-footed** 14 (+3 Dex, +4 natural)
+**AC** 17, **touch** 13, **flat-footed** 14 (+3 Dex, +4 natural)
 **hp** 19 (3d6+9)
-**Fort**+2,**Ref**+6,**Will** +5
+**Fort** +2, **Ref** +6, **Will** +5
 **Defensive Abilities** DR 2/cold iron and epic
 
 #### Offense
@@ -39,8 +39,8 @@ At will—ghost sound (DC 13)
 
 #### Statistics
 
-**Str**14,**Dex**16,**Con**13,**Int**11,**Wis**14,**Cha** 17
-**Base Atk**+1;**CMB**+3;**CMD** 16
+**Str** 14, **Dex** 16, **Con** 13, **Int** 11, **Wis** 14, **Cha** 17
+**Base Atk** +1; **CMB** +3; **CMD** 16
 **Feats** Point-Blank ShotMF, Weapon Finesse
 **Skills** Acrobatics +8, Bluff +9, Perception +8, Perform (wind) +11, Sense Motive +7, Stealth +9, Survival +4
 **Languages** Common, Sylvan

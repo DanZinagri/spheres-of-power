@@ -25,8 +25,8 @@ If an item does not fill a regular slot, such as a sword that boosts its user’
 
 ### Academy Uniform
 
-**Aura**faint Creation and Divination;**CL**1st;**Scaling** bauble
-**Slot**body;**Price**10 gp;**Weight** —
+**Aura** faint Creation and Divination; **CL** 1st; **Scaling** bauble
+**Slot** body; **Price** 10 gp; **Weight** —
 
 **Description**
 This magic item is designed to be used principally with the Wizard’s Academy adventure module.
@@ -42,8 +42,8 @@ Forge Charm, Creation sphere, Divination sphere (Discern Individual (sense)); **
 
 ### Aegis Ring [TS]
 
-**Aura**faint (+1), moderate (+2/+3), or strong (+4/+5) Protection;**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**ring;**Price**2,000 gp (+1), 8,000 gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5);**Weight** 1 lb.
+**Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Protection; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** ring; **Price** 2,000 gp (+1), 8,000 gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5); **Weight** 1 lb.
 
 Extremely popular among adventurers for its protective qualities, this smooth iron ring is decorated with the symbol of a suit of armor on one side and a shield on the other. When worn, an aegis ring provides a +1 to +5 deflection bonus to armor class.
 
@@ -52,8 +52,8 @@ Forge Charm, Protection sphere, **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp 
 
 ### Alabaster Gloves
 
-**Aura**strong Life;**CL** 12th
-**Slot**hands;**Price**40,000 gp;**Weight** —
+**Aura** strong Life; **CL** 12th
+**Slot** hands; **Price** 40,000 gp; **Weight** —
 
 **Description**
 These white gloves channel and focus positive energy along strands of gold weaved into them. Whenever the wearer use a sphere ability or supernatural ability that manipulates positive energy and either heals hit points or does damage, the amount of hit points or damage is increased by +10.
@@ -63,8 +63,8 @@ Forge Charm, Life sphere; **Cost** 20,000 gp
 
 ### Amulet of Emotional Weather
 
-**Aura**moderate Weather;**CL** 10th
-**Slot**neck;**Price**45,000 gp;**Weight** 1 lb.
+**Aura** moderate Weather; **CL** 10th
+**Slot** neck; **Price** 45,000 gp; **Weight** 1 lb.
 
 **Description**
 The amulet of emotional weather is a beautiful piece crafted from clear diamonds of multiple sizes. However, depending on the wearer’s mood, they can change the color to blue (sad), red (angry), green (happy), or yellow (scared). The amulet of emotional weather is considered a cursed item, and cannot be taken off except with the aid of magic such as the Break Enchantment talent from the Life sphere.
@@ -82,10 +82,10 @@ Forge Charm, Weather sphere (Severe Weather); **Cost** 22,500 gp
 
 ### Bard-King’s Boots [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Nature —**CL**5th —**Scaling** wonder
-**Slot**feet —**Price**4,150 gp —**Weight** 3 lbs.
+**Aura** moderate Nature — **CL** 5th — **Scaling** wonder
+**Slot** feet — **Price** 4,150 gp — **Weight** 3 lbs.
 
 **Description**
 *The bard-king’s boots are a fine pair of boots made of a dusty sky-blue leather and mithral trimming.*
@@ -93,8 +93,8 @@ Forge Charm, Weather sphere (Severe Weather); **Cost** 22,500 gp
 The bard-king’s boots grant its wearer an enhancement bonus to Perform (dance) checks equal to half its caster level. Additionally, the wearer can use their Perform (dance) bonus in place of their Acrobatics bonus whenever they attempt an Acrobatics check, and they are always considered to have a running start for Acrobatics checks.
 If the wearer is a dancer within a Performance sphere dance, they ignore 5 feet of difficult terrain each round they benefit from the dance.
 
-**8th Level — 10,900 gp**: The wearer gains a +2 enhancement bonus to Dexterity. If the wearer begins a Performance sphere dance, all dancers ignore up to 10 feet of difficult terrain each round they benefit from the dance.
-**11th Level — 24,600 gp**: The enhancement bonus to Dexterity improves to +4. Additionally, if the wearer begins a Performance sphere dance, all dancers gain a +1 dodge bonus to AC and Reflex saves, and can ignore up to 15 feet of difficult terrain each round they benefit from the dance.
+**8th Level — 10,900 gp:** The wearer gains a +2 enhancement bonus to Dexterity. If the wearer begins a Performance sphere dance, all dancers ignore up to 10 feet of difficult terrain each round they benefit from the dance.
+**11th Level — 24,600 gp:** The enhancement bonus to Dexterity improves to +4. Additionally, if the wearer begins a Performance sphere dance, all dancers gain a +1 dodge bonus to AC and Reflex saves, and can ignore up to 15 feet of difficult terrain each round they benefit from the dance.
 **14th Level — 55,500 gp:** The enhancement bonus to Dexterity improves to +6. Additionally, if the wearer begins a Performance sphere dance, all dancers float 5 feet in the air as they dance.
 
 **Construction**
@@ -102,8 +102,8 @@ Smith Magical Arms and Armor, Nature sphere ((air) package) — **Cost** 2,075 g
 
 ### Belt of Avian Speed [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 8th (+4), or 12th (+6)
-**Slot**belt;**Price**4,000 (+2), 16,000 (+4), 36,000 (+6);**Weight** 2 lbs.
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
+**Slot** belt; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
 
 This belt is decorated with symbols of swift birds. While worn, it grants a +2/+4/+6 enhancement bonus to Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
@@ -112,8 +112,8 @@ Forge Charm, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 2,000
 
 ### Belt of Mountains [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 8th (+4), or 12th (+6)
-**Slot**belt;**Price**4,000 (+2), 16,000 (+4), 36,000 (+6);**Weight** 2 lbs.
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
+**Slot** belt; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
 
 This leather belt is decorated with symbols of mountains. While worn, it grants a +2/+4/+6 enhancement bonus to Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
@@ -122,8 +122,8 @@ Forge Charm, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 2,000
 
 ### Belt of Wild Might [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 8th (+4), or 12th (+6)
-**Slot**belt;**Price**4,000 (+2), 16,000 (+4), 36,000 (+6);**Weight** 2 lbs.
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
+**Slot** belt; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
 
 This leather belt is decorated with symbols of powerful beasts. While worn, it grants a +2/+4/+6 enhancement bonus to Strength. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 
@@ -132,8 +132,8 @@ Forge Charm, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 2,000
 
 ### Blessing of the Fates [TS]
 
-**Aura**faint (+1) or moderate (+2/+3) Fate;**CL** 3rd (+1), 6th (+2), or 9th (+3)
-**Slot**any;**Price**2,500 gp (+1), 10,000 gp (+2), or 22,500 (+3);**Weight** 1 lb.
+**Aura** faint (+1) or moderate (+2/+3) Fate; **CL** 3rd (+1), 6th (+2), or 9th (+3)
+**Slot** any; **Price** 2,500 gp (+1), 10,000 gp (+2), or 22,500 (+3); **Weight** 1 lb.
 
 This strip of paper seems strangely resistant to damage and has a wax seal that seems oddly easy to attach to different parts of the body as long as no other magical items are there. When worn, a blessing of the fates provides a +1 to +3 luck bonus to armor class.
 
@@ -148,8 +148,8 @@ Note that a creature’s circumstance, deflection, dodge, insight, luck, morale,
 
 ### Cape of Resistance [TS]
 
-**Aura**faint (+1), moderate (+2/+3), or strong Protection (+4/+5);**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**shoulders;**Price**1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5);**Weight** 1 lb.
+**Aura** faint (+1), moderate (+2/+3), or strong Protection (+4/+5); **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** shoulders; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5); **Weight** 1 lb.
 
 This well-made cape offers a +1 to +5 resistance bonus to all saving throws, chosen when the cape is woven. While simple in design, their protective qualities make them a favored garment among adventurers.
 
@@ -158,10 +158,10 @@ Forge Charm, Protection sphere (Resistance (aegis)); **Cost** 500 gp (+1), 2,000
 
 ### Circlet of the Seer [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Divination and Enhancement —**CL** 6th (+2), 8th (+4), 10th (+6)
-**Slot**headband —**Price**17,000 gp (+2), 47,000 gp (+4), or 97,000 gp (+6) —**Weight** 3 lbs.
+**Aura** faint (+2), moderate (+4), or strong (+6) Divination and Enhancement — **CL** 6th (+2), 8th (+4), 10th (+6)
+**Slot** headband — **Price** 17,000 gp (+2), 47,000 gp (+4), or 97,000 gp (+6) — **Weight** 3 lbs.
 
 **Description**
 The circlet of the seer grants a +2/+4/+6 enhancement bonus to both the wearer’s Intelligence and Wisdom; treat this as a temporary ability bonus for the first 24 hours the circlet is worn. These headbands grant bonus ranks in 1 (+2), 2 (+4), or 3 (+6) skills equal to the wearer’s character level, chosen when the item is created.
@@ -176,8 +176,8 @@ Forge Charm, Divination sphere, Enhancement sphere (Mental Enhancement (enhance)
 
 ### Clear Gem
 
-**Aura**moderate Life;**CL** 8th
-**Slot**none;**Price**75,000 gp;**Weight** —
+**Aura** moderate Life; **CL** 8th
+**Slot** none; **Price** 75,000 gp; **Weight** —
 
 **Description**
 This small, oval gem fits easily into a pocket, and refracts light as if it were a diamond. Whenever a positive energy healing effect occurs within 60 feet of the bearer, they benefit as if they had been targeted by an identical effect. The original targets of the healing effect still benefit. It has been suggested by some that powerful undead may create a corresponding opaque gem which would give the same effect for negative energy.
@@ -189,8 +189,8 @@ Forge Charm, Life sphere; **Cost** 37,500 gp
 
 ### Constellation Belt
 
-**Aura**faint Telekinesis;**CL** 5th
-**Slot**belt;**Price**2,000 gp;**Weight** 1 lb.
+**Aura** faint Telekinesis; **CL** 5th
+**Slot** belt; **Price** 2,000 gp; **Weight** 1 lb.
 
 **Description**
 When you wear this belt, you store inanimate objects in the air, where they slowly orbit around you until you pick them up again. When you drop an item you are holding you may choose to store it in orbit around you. You may retrieve an object in orbit as a free action. You may only store one object of Small size or smaller in orbit, or a number of smaller objects whose total size category is Small or less. If you possess the Orbit talent the capacity of your Orbit increases by one Small-sized object.
@@ -200,8 +200,8 @@ Forge Charm, Telekinesis sphere (Orbit); **Cost** 1,000 gp
 
 ### Dimlight Veil
 
-**Aura**faint Light;**CL** 5th
-**Slot**head;**Price**1,500 gp;**Weight** -
+**Aura** faint Light; **CL** 5th
+**Slot** head; **Price** 1,500 gp; **Weight** -
 
 **Description**
 A dimlight veil cuts the glare of light and the sun, shielding the eyes. The wearer is immune the dazzled condition, and suffer no ill-effects from light sensitivity. In addition, the wearer gains a +2 bonus on saving throws against Light effects.
@@ -211,8 +211,8 @@ Forge Charm, Light sphere; **Cost** 750 gp
 
 ### Divine Symbol
 
-**Aura**faint Fate;**CL** 1st
-**Slot**none;**Price**500 gp;**Weight** -
+**Aura** faint Fate; **CL** 1st
+**Slot** none; **Price** 500 gp; **Weight** -
 
 **Description**
 A divine symbol is a holy symbol that is especially attuned to 4-5 domains of a particular deity. To activate the divine symbol, the user must possess two or more of the attuned domains and expend a use of channel energy. Activating the divine focus will grant a +1 profane or sacred bonus to caster level to the spheres matching the attuned domains for 1 hour. Deities that channel positive energy grant sacred bonuses, while those that channel negative energy grant profane bonuses. Deities that can channel both or either types of energy have their divine symbol’s bonus type chosen when it is created. A creature cannot benefit from multiple divine symbols at once, even if they grant different bonus types.
@@ -222,10 +222,10 @@ Forge Charm, channel energy class feature; **Cost** 250 gp
 
 ### Embertongue Amulet [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Destruction —**CL** 6th
-**Slot**neck —**Price**5,000 gp —**Weight** 6 lbs.
+**Aura** moderate Destruction — **CL** 6th
+**Slot** neck — **Price** 5,000 gp — **Weight** 6 lbs.
 
 **Description**
 *The embertongue amulet holds a thick sliver of ruby with a burnished brass chain.*
@@ -239,8 +239,8 @@ Forge Charm, Destruction sphere — **Cost** 2,500 gp
 
 ### Energy Resisting Ring [TS]
 
-**Aura**faint (10), moderate (20), or strong (30) Protection;**CL** 1st (10), 10th (20), or 20th (30)
-**Slot**ring;**Price**12,000 gp (10), 28,000 gp (20), or 44,000 gp (30);**Weight** 1 lb.
+**Aura** faint (10), moderate (20), or strong (30) Protection; **CL** 1st (10), 10th (20), or 20th (30)
+**Slot** ring; **Price** 12,000 gp (10), 28,000 gp (20), or 44,000 gp (30); **Weight** 1 lb.
 
 Despite their simplicity, these iron rings are favored by people traveling into dangerous environments or who know they’ll be fighting certain types of foes. While worn, this ring grants energy resistance 10, 20, or 30 to fire, cold, electricity, acid, or sonic damage, with the type of damage it resists (and the power of the resistance) determined when the ring is forged.
 
@@ -249,8 +249,8 @@ Forge Charm, Protection sphere (Energy Resistance (aegis, ward)); **Cost** 6,000
 
 ### Forger’s Gloves
 
-**Aura**moderate Creation;**CL** 10th
-**Slot**hands;**Price**75,000 gp;**Weight** -
+**Aura** moderate Creation; **CL** 10th
+**Slot** hands; **Price** 75,000 gp; **Weight** -
 
 **Description**
 These leather workman gloves perpetually look dirty, no matter how well they are cleaned. While worn, these gloves provide the wearer with the ability to forge metal with a touch, as the Forge Creation talent. The target also gains a +10 competence bonus to all Craft checks made involving metal objects.
@@ -260,8 +260,8 @@ Forge Charm, Craft Apparatus, Creation sphere; **Cost** 37,500 gp
 
 ### Fragment of Destiny [TS]
 
-**Aura**faint (+1) or moderate (+2/+3) Fate;**CL** 3rd (+1), 6th (+2), or 9th (+3)
-**Slot**any;**Price**2,500 gp (+1), 10,000 gp (+2), or 22,500 (+3);**Weight** 1 lb.
+**Aura** faint (+1) or moderate (+2/+3) Fate; **CL** 3rd (+1), 6th (+2), or 9th (+3)
+**Slot** any; **Price** 2,500 gp (+1), 10,000 gp (+2), or 22,500 (+3); **Weight** 1 lb.
 
 This crystal has been carefully woven into cloth and is designed to be worn anywhere on the body. While worn, a fragment of destiny provides a +1 to +3 luck bonus to all saving throws.
 
@@ -270,9 +270,9 @@ Forge Charm, Fate sphere, **Cost** 1,250 gp (+1), 5,000 gp (+2), or 11,250 gp (+
 
 ### Fuchsia Marquise Ioun Stone [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**strong abjuration —**CL** 12th
+**Aura** strong abjuration — **CL** 12th
 **Price** 10,000 gp
 
 **Description**
@@ -293,8 +293,8 @@ Forge Charm, Enhancement sphere, creator must be 12th level — **Cost** 5,000 g
 
 ### Gauntlet of Maneuvers [TS]
 
-**Aura**faint (+1), moderate (+2/+3), or strong Enhancement (+4/+5);**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**hands;**Price**1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5);**Weight** 1 lb.
+**Aura** faint (+1), moderate (+2/+3), or strong Enhancement (+4/+5); **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** hands; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5); **Weight** 1 lb.
 
 This gauntlet always comes in pairs, both of which must be worn to obtain its effects. While worn, the gauntlet of maneuvers grants a +1 to +5 competence bonus to one combat maneuver. The wearer receives the same bonus to their CMD against the same combat maneuver.
 
@@ -303,8 +303,8 @@ Forge Charm, Enhancement sphere; **Cost** 500 gp (+1), 2,000 gp (+2), 4,500 gp (
 
 ### Gloves of Air Mastery
 
-**Aura**faint Destruction;**CL** 5th;
-**Slot**hands;**Price**4,000 gp (lesser), 16,000 gp (greater);**Weight** —
+**Aura** faint Destruction; **CL** 5th;
+**Slot** hands; **Price** 4,000 gp (lesser), 16,000 gp (greater); **Weight** —
 
 **Description**
 The wearer is treated as having the Improved Bull Rush (lesser) or the Improved Bull Rush and Greater Bull Rush (greater) feats for the purposes of using the Air Blast talent. Both gloves must be worn for the magic to be effective. The feat’s bonus to CMD applies continuously while the gloves are worn.
@@ -314,8 +314,8 @@ Forge Charm, Destruction sphere (Air Blast (blast type, air)); **Cost** 2,000 gp
 
 ### Gloves of Unseen Grip
 
-**Aura**moderate Telekinesis;**CL** 8th
-**Slot**hands;**Price**8,000 gp;**Weight** 1 lb.
+**Aura** moderate Telekinesis; **CL** 8th
+**Slot** hands; **Price** 8,000 gp; **Weight** 1 lb.
 
 **Description**
 The wearer of these gloves improves the strength and grip of their telekinesis. Add a +2 bonus on their CMB and CMD checks when they use the Telekinetic Maneuver or Steal talents.
@@ -325,8 +325,8 @@ Forge Charm, Telekinesis sphere (Forceful Telekinesis, Telekinetic Maneuver); **
 
 ### Headband of Alluring Magnetism [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 8th (+4), or 12th (+6)
-**Slot**headband;**Price**4,000 (+2), 16,000 (+4), 36,000 (+6);**Weight** 2 lbs.
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
+**Slot** headband; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
 
 This headband is surprisingly comfortable to wear for extended periods. While worn, it grants a +2/+4/+6 enhancement bonus to Charisma. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 
@@ -335,8 +335,8 @@ Forge Charm, Enhancement sphere (Mental Enhancement (enhance)); **Cost** 2,000 g
 
 ### Headband of Genius [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 8th (+4), or 12th (+6)
-**Slot**headband;**Price**4,000 (+2), 16,000 (+4), 36,000 (+6);**Weight** 2 lbs.
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
+**Slot** headband; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
 
 This cloth headband feels faintly stimulating while worn, though most scholars are pretty sure it has not actually been infused with drugs. While worn, it grants a +2/+4/+6 enhancement bonus to Intelligence. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. These headbands grant bonus ranks in 1 (+2), 2 (+4), or 3 (+6) skills equal to the wearer’s character level, chosen when the item is created.
 
@@ -345,8 +345,8 @@ Forge Charm, Enhancement sphere (Mental Enhancement (enhance)); **Cost** 2,000 g
 
 ### Headband of Sages [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 8th (+4), or 12th (+6)
-**Slot**headband;**Price**4,000 (+2), 16,000 (+4), 36,000 (+6);**Weight** 2 lbs.
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 8th (+4), or 12th (+6)
+**Slot** headband; **Price** 4,000 (+2), 16,000 (+4), 36,000 (+6); **Weight** 2 lbs.
 
 This headband tends to help its users look calm and wise. While worn, it grants a +2/+4/+6 enhancement bonus to Wisdom. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 
@@ -355,8 +355,8 @@ Forge Charm, Enhancement sphere (Mental Enhancement (enhance)); **Cost** 2,000 g
 
 ### Intensifying Gloves
 
-**Aura**faint Destruction;**CL** 5th
-**Slot**hands;**Price**4,000 gp (lesser), 16,000 (greater);**Weight** —
+**Aura** faint Destruction; **CL** 5th
+**Slot** hands; **Price** 4,000 gp (lesser), 16,000 (greater); **Weight** —
 
 **Description**
 Each pair of intensifying gloves are attuned to a single energy type, either acid, cold, fire, electricity, negative energy, or sonic damage. The wearer’s destructive blasts ignore either 5 points (lesser) or 10 points (greater) of energy resistance to that type. Both gloves must be worn for the magic to be effective.
@@ -366,8 +366,8 @@ Forge Charm, Destruction sphere ((blast type) talent matching the chosen energy 
 
 ### Ironside Ring
 
-**Aura**moderate Alteration and Enhancement;**CL** 8th
-**Slot**ring;**Price**40,000 gp;**Weight** -
+**Aura** moderate Alteration and Enhancement; **CL** 8th
+**Slot** ring; **Price** 40,000 gp; **Weight** -
 
 **Description**
 This ring is carved from cold iron, and gives its wearer a sense of unbreakable stability. The wearer of the ring gains a +4 enhancement bonus to their Constitution, a +2 natural armor bonus, and a +4 enhancement bonus to their CMD.
@@ -377,8 +377,8 @@ Forge Charm, Alteration sphere, Enhancement sphere; **Cost** 20,000 gp
 
 ### Magical Toolkit [TS]
 
-**Aura**variable Mind;**CL** 1st-20th
-**Slot**none;**Price**100 gp (+1), 400 gp (+2), 2,500 (+5), 10,000 (+10), or 40,000 (+20);**Weight** 2 lbs.
+**Aura** variable Mind; **CL** 1st-20th
+**Slot** none; **Price** 100 gp (+1), 400 gp (+2), 2,500 (+5), 10,000 (+10), or 40,000 (+20); **Weight** 2 lbs.
 
 Magical toolkits are elaborate toolsets that offer a competence bonus to one skill. Many adventurers buy these toolkits to supplement personal weaknesses, such as poor observation skills, or to enhance their abilities in a particular area. Users must spend 8 hours bonding to magical toolkits with a bonus of +6 or higher (because these toolkits can be for any bonus a charm can provide, not just the common ones priced here), and may only bond to three such toolkits at any given time. New bonds replace the oldest bond first.
 
@@ -389,10 +389,10 @@ Forge Charm, Mind sphere; Cost 50 gp (+1), 200 gp (+2), 1,250 gp (+5), 5,000 gp 
 
 ### Mask of the Bloodhound [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**faint alteration —**CL** 6th
-**Slot**head —**Price**6,000 gp —**Weight** 6 lbs.
+**Aura** faint alteration — **CL** 6th
+**Slot** head — **Price** 6,000 gp — **Weight** 6 lbs.
 
 **Description**
 *The mask of the bloodhound is a geometric, black metal mask that depicts a quietly vigilant wolf.*
@@ -406,8 +406,8 @@ Forge Charm, Alteration or Divination sphere — **Cost** 3,000 gp
 
 ### Necklace of Natural Armor [TS]
 
-**Aura**faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration;**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**neck;**Price**2,000 gp (+1), 8,000 gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5);**Weight** 1 lb.
+**Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** neck; **Price** 2,000 gp (+1), 8,000 gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5); **Weight** 1 lb.
 
 Extremely popular among adventurers for its protective qualities, this smooth iron neck ring is decorated with the symbol of a suit of armor on one side and a shield on the other. When worn, a necklace of natural armor provides a +1 to +5 natural armor bonus to armor class.
 
@@ -416,9 +416,9 @@ Forge Charm, Alteration sphere, **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp 
 
 ### Periwinkle Marquise Ioun Stone [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**strong abjuration —**CL** 12th
+**Aura** strong abjuration — **CL** 12th
 **Price** 30,000 gp
 
 **Description**
@@ -440,8 +440,8 @@ Forge Charm, Mana sphere, creator must be 12th level — **Cost** 15,000 gp
 
 ### Pugilist’s Charm [TS]
 
-**Aura**faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration and Enhancement;**CL** 5th (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**neck;**Price**6,000 gp (+1), 24,000 gp (+2), 54,000 gp (+3), 96,000 gp (+4), or 150,000 gp (+5);**Weight** 1 lb.
+**Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration and Enhancement; **CL** 5th (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** neck; **Price** 6,000 gp (+1), 24,000 gp (+2), 54,000 gp (+3), 96,000 gp (+4), or 150,000 gp (+5); **Weight** 1 lb.
 
 A much-beloved item among the wealthy and talented brawlers of the world, a pugilist’s charm grants a +1 to +5 enhancement bonus to attack and damage rolls with unarmed strikes and natural weapons, and an equal enhancement bonus to the wearer’s natural armor.
 
@@ -452,8 +452,8 @@ Forge Charm, Alteration sphere, Enhancement sphere; **Cost** 3,000 gp (+1), 12,0
 
 ### Remnant of Courage
 
-**Aura**faint War;**CL** 10th
-**Slot**none;**Price**2,250 gp;**Weight** 0.1 lbs.
+**Aura** faint War; **CL** 10th
+**Slot** none; **Price** 2,250 gp; **Weight** 0.1 lbs.
 
 **Description**
 Each remnant is a small piece of metal or fabric fastened to the neck, shirt or wrist. Each has its own history, and many pieces are debris from the armor and uniforms of fallen heroes. Each remnant has an associated rally, which the wearer can use on an ally within 30 feet, but not on their self. A single user can not activate more than one remnant in a single 24 hour period, and each remnant can only be used once per 24 hour period.
@@ -463,8 +463,8 @@ Forge Charm, War sphere; **Cost** 1,125 gp
 
 ### Ring of Clarity
 
-**Aura**faint Mind;**CL** 5th
-**Slot**ring;**Price**2,500 gp;**Weight** -
+**Aura** faint Mind; **CL** 5th
+**Slot** ring; **Price** 2,500 gp; **Weight** -
 
 **Description**
 This crystal ring is actually somewhat difficult to see. A DC 20 Perception check is required to notice it on someone’s finger. Once per day, it allows the wearer to take 10 on a concentration check, even if they are threatened. When used, the ring turns opaque grey-pink until it is ready to be used again.
@@ -474,8 +474,8 @@ Forge Charm; **Cost** 1,250 gp
 
 ### Ring of Force Armor
 
-**Aura**faint Protection;**CL** 4th
-**Slot**ring;**Price**6,400 gp;**Weight** -
+**Aura** faint Protection; **CL** 4th
+**Slot** ring; **Price** 6,400 gp; **Weight** -
 
 **Description**
 Twice per day, this ring may be activated to create a suit of armor made of force on the wearer. The suit remains for 4 hours per activation. The wearer must, as part of the activation of the ring, attempt a Craft (armor) check, DC 10 + AC bonus of the armor (maximum +9). Armor created with this ring functions as standard armor (possessing the same armor check penalty and maximum Dexterity bonus) except that its AC bonus also applies against attacks made by incorporeal creatures. Failing the skill check results in the daily usage being wasted with no effect.
@@ -485,8 +485,8 @@ Craft Marvelous Item, Protection sphere; **Cost** 3,200 gp
 
 ### Ring of Potential Realized
 
-**Aura**strong Fate;**CL** 12th
-**Slot**ring;**Price**75,000 gp;**Weight** -
+**Aura** strong Fate; **CL** 12th
+**Slot** ring; **Price** 75,000 gp; **Weight** -
 
 **Description**
 This ring looks like a simple piece of common iron until slipped onto the finger. Once there, it transmutes to a beautiful ring of precious metal with rare stones that reflect light in impossible ways, its appearance changing depending on who is wearing it.
@@ -500,8 +500,8 @@ Forge Charm; **Cost** 37,500 gp
 
 ### Ring of Shielding [TS]
 
-**Aura**faint (+1), moderate (+2/+3), or strong (+4/+5) Protection;**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**ring;**Price**3,500 gp (+1), 14,000 gp (+2), 31,500 gp (+3), 56,000 gp (+4), or 87,500 gp (+5);**Weight** 1 lb.
+**Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Protection; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** ring; **Price** 3,500 gp (+1), 14,000 gp (+2), 31,500 gp (+3), 56,000 gp (+4), or 87,500 gp (+5); **Weight** 1 lb.
 
 Often used by those with money to spare and a need to wear more magical items, these slender silver rings grant a deflection bonus to armor class and an equal resistance bonus to all saving throws.
 
@@ -510,8 +510,8 @@ Forge Charm, Protection sphere (Energy Resistance (aegis, ward)); **Cost** 1,750
 
 ### Ring of Skilled Casting
 
-**Aura**faint Fate;**CL** 8th
-**Slot**ring;**Price**30,000 gp;**Weight** -
+**Aura** faint Fate; **CL** 8th
+**Slot** ring; **Price** 30,000 gp; **Weight** -
 
 **Description**
 This heavy brass ring is usually worn on the creature’s middle (or largest) finger. Whenever the wearer casts a spell that uses a metamagic feat, they may reduce the cost of one metamagic feat by 1 spell point (minimum 0). Other metamagic cost-reducing abilities do not stack with this one.
@@ -521,10 +521,10 @@ Forge Charm; **Cost** 15,000 gp
 
 ### Sablelace Choker [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate illusion —**CL** 6th
-**Slot**neck —**Price**2,500 gp —**Weight** 1 lb.
+**Aura** moderate illusion — **CL** 6th
+**Slot** neck — **Price** 2,500 gp — **Weight** 1 lb.
 
 **Description**
 *The dark iron chains that make up this necklace are so fine that it looks like a fine lace, and is studded with small onyx and sapphires.*
@@ -539,8 +539,8 @@ Forge Charm, Illusion sphere — **Cost** 1,250 gp
 
 ### Skimmer
 
-**Aura**moderate Telekinesis;**CL** 11th
-**Slot**none;**Price**8,000 gp;**Weight** 5 lbs.
+**Aura** moderate Telekinesis; **CL** 11th
+**Slot** none; **Price** 8,000 gp; **Weight** 5 lbs.
 
 **Description**
 This oval disc is just large enough for a Medium-sized creature to stand on comfortably, and hovers above the ground when its command word is spoken. While standing on a skimmer you can move at your normal land speed, but may hover up to 5 feet above the ground. You ignore difficult terrain and can also move over liquid surfaces as if they were solid while hovering. In addition, you may attempt a DC 20 Acrobatics check when you move with a skimmer to improve your move speed by 10 feet. Failure by five or more means you fall off the skimmer and are prone. A skimmer can only support a Medium-sized load or smaller - it will not hover when loaded heavier.
@@ -550,10 +550,10 @@ Forge Charm, Telekinesis sphere; **Cost** 4,000 gp
 
 ### Spectacles of the Sleuth [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Divination —**CL** 4th
-**Slot**eyes —**Price**6,000 gp —**Weight** 1 lb.
+**Aura** moderate Divination — **CL** 4th
+**Slot** eyes — **Price** 6,000 gp — **Weight** 1 lb.
 
 **Description**
 The wearer can adopt the scrutinize approach (as the Investigation sphere base sphere), using their ranks in Sense Motive as the sphere’s associated skill when determining its effects. The wearer also unlocks skill leverage with the Perception and Sense Motive skills if they did not already.
@@ -565,8 +565,8 @@ Forge Charm, Divination sphere — **Cost** 3,000 gp
 
 ### Talisman of Spell Resistance [TS]
 
-**Aura**faint Protection;**CL** 5th
-**Slot**neck;**Price**30,000;**Weight** 2 lbs.
+**Aura** faint Protection; **CL** 5th
+**Slot** neck; **Price** 30,000; **Weight** 2 lbs.
 
 This talisman features a five-pointed silver star surrounded by a circle of gold. In the center of the star is one of many magic runes. While worn, this talisman gives the wearer spell resistance 15. The talisman of spell resistance sheds light as a torch for one round whenever it successfully blocks a spell; the wearer can prevent it from doing so by speaking a command word, and it will not light up through this effect until the command word is spoken again. The user may speak a different command word to cause the talisman to shed (or stop shedding) light as a candle.
 
@@ -575,8 +575,8 @@ Forge Charm, Protection sphere (Spell Ward (aegis, ward)); **Cost** 15,000 gp
 
 ### Talisman of Techniques [TS]
 
-**Aura**faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration and Enhancement;**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**neck;**Price**3,500 gp (+1), 14,000 gp (+2), 31,500 gp (+3), 56,000 gp (+4), or 87,500 gp (+5);**Weight** 1 lb.
+**Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Alteration and Enhancement; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** neck; **Price** 3,500 gp (+1), 14,000 gp (+2), 31,500 gp (+3), 56,000 gp (+4), or 87,500 gp (+5); **Weight** 1 lb.
 
 Frequently worn by specialist fighters, these wood and leather talismans are worn around the neck. While worn, they provide a competence bonus to one combat maneuver (chosen when the item is created) and an equal enhancement bonus to natural armor.
 
@@ -585,8 +585,8 @@ Forge Charm, Alteration sphere, Enhancement sphere; **Cost** 1,750 gp (+1), 7,00
 
 ### Targeting Monocle
 
-**Aura**faint Destruction;**CL** 5th
-**Slot**eyes;**Price**8,000 gp**Weight** —
+**Aura** faint Destruction; **CL** 5th
+**Slot** eyes; **Price** 8,000 gp **Weight** —
 
 **Description**
 This monocle is worn over one eye, magically analyzing and highlighting the weaknesses of the wearer’s enemies. The wearer’s destructive blasts gain the benefit of the keen weapon special ability.
@@ -596,8 +596,8 @@ Forge Charm, Destruction sphere; Deadly Targeting or Improved Critical; **Cost**
 
 ### Taskmind
 
-**Aura**moderate Telekinesis;**CL** 11th
-**Slot**headband;**Price**16,000 gp;**Weight** -
+**Aura** moderate Telekinesis; **CL** 11th
+**Slot** headband; **Price** 16,000 gp; **Weight** -
 
 **Description**
 A taskmind can take many different forms, but generally provides a structure seated around the head that amplifies mental powers and allows the wearer to multitask more effectively. A wearer with the Divided Mind talent gains a +4 bonus to caster level when determining the number of items she can lift at once and the combined size she can simultaneously lift (though this does not increase the maximum sized object you can lift: a taskmind might allow you to lift two Medium objects, but not one Large object).
@@ -607,8 +607,8 @@ Forge Charm, Telekinesis sphere (Divided Mind); **Cost** 8,000 gp
 
 ### Umbral Mantle
 
-**Aura**moderate Dark;**CL**3rd;**Scaling** wonder
-**Slot**shoulders;**Price**1,500 gp;**Weight** 1/2 lb.
+**Aura** moderate Dark; **CL** 3rd; **Scaling** wonder
+**Slot** shoulders; **Price** 1,500 gp; **Weight** 1/2 lb.
 
 **Description**
 This silk cloak seems to fade in and out of the light and grants the wearer a +1 resistance bonus to saving throws.
@@ -625,9 +625,9 @@ Forge Charm, Dark sphere; **Cost** 16,250 gp
 
 ### Verdant Marquise Ioun Stone [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**strong abjuration —**CL** 12th
+**Aura** strong abjuration — **CL** 12th
 **Price** 10,000 gp
 
 **Description**
@@ -651,8 +651,8 @@ Forge Charm, Dark or Divination sphere, creator must be 12th level — **Cost** 
 
 ### Vest of Shape Stabilization
 
-**Aura**moderate Alteration;**CL** 6th
-**Slot**body;**Price**8,000 gp;**Weight** 1 lb.
+**Aura** moderate Alteration; **CL** 6th
+**Slot** body; **Price** 8,000 gp; **Weight** 1 lb.
 
 **Description**
 Each vest is attuned to one (transformation) talent when created. Any shapeshift effect applying that (transformation) talent to the wearer lasts an additional two rounds without concentration and gains a +2 bonus to MSD vs. dispelling effects.
@@ -662,10 +662,10 @@ Forge Charm, Alteration sphere (Lingering Transformation), creator must possess 
 
 ### Zensoul Mala [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Aura**moderate Mind —**CL** 10th
-**Slot**neck or wrists; see text —**Price** 8,000 gp (coral), 11,000 gp (gold), 8,000 gp (jade), 6,000 gp (pearl), 7,500 gp (sandalwood).
+**Aura** moderate Mind — **CL** 10th
+**Slot** neck or wrists; see text — **Price** 8,000 gp (coral), 11,000 gp (gold), 8,000 gp (jade), 6,000 gp (pearl), 7,500 gp (sandalwood).
 
 **Description**
 A zensoul mala is a necklace of many large beads that are engraved with symbols and other etchings—despite the meanings varying largely due to the faith or culture that it originates from, the material and its benefits are often more consistently understood.
@@ -697,8 +697,8 @@ A tattoo is a slotless, weightless item, but a single creature can possess no mo
 
 ### Dancing Tattoo
 
-**Aura**moderate Light;**CL** 6th
-**Slot**none;**Price**7,000 gp;**Weight** -
+**Aura** moderate Light; **CL** 6th
+**Slot** none; **Price** 7,000 gp; **Weight** -
 
 **Description**
 Often worn by performers, a dancing tattoo normally takes some sinuous shape like a snake or ribbon, and is often multicolored. As part of attempting a Perform (act) or Perform (dance) check, you may hypnotise anyone in the primary radius of your light who can also see your performance, causing them to gain the fascinated condition for the duration of the performance.
@@ -710,8 +710,8 @@ Forge Charm, Light sphere (Hypnotic Pattern (light)); **Cost** 3,500 gp
 
 ### Icon Tattoo
 
-**Aura**moderate Light;**CL** 10th
-**Slot**none;**Price**10,000 gp;**Weight** -
+**Aura** moderate Light; **CL** 10th
+**Slot** none; **Price** 10,000 gp; **Weight** -
 
 **Description**
 An icon tattoo often takes the form of a holy symbol or religious imagery, with coloration appropriate to the image or deity. This tattoo can be designed to count as a holy symbol and divine focus for characters that require one (such as characters with the Focus Casting drawback). In addition, all allies within the primary radius of your light gain a +1 morale bonus on all saving throws.
@@ -721,8 +721,8 @@ Forge Charm, Light sphere (Beacon Of Hope (light)); **Cost** 5,000 gp
 
 ### Inquiry Tattoo
 
-**Aura**faint Light;**CL** 5th
-**Slot**none;**Price**3,000 gp;**Weight** -
+**Aura** faint Light; **CL** 5th
+**Slot** none; **Price** 3,000 gp; **Weight** -
 
 **Description**
 Inquiry tattoos are most commonly eyes, and stark shades of white and black are frequently used for the light they cast. The light of an inquiry tattoo casts unusual shadows whose movements give clues as to how a creature is feeling and what it is thinking. You gain +4 competence bonus on Sense Motive checks against any creature in the primary radius of your light.
@@ -732,8 +732,8 @@ Forge Charm, Divination sphere, Light sphere; **Cost** 1,500 gp
 
 ### Lantern Tattoo
 
-**Aura**faint Light;**CL** 1st
-**Slot**none;**Price**1,500 gp;**Weight** -
+**Aura** faint Light; **CL** 1st
+**Slot** none; **Price** 1,500 gp; **Weight** -
 
 **Description**
 A lantern tattoo is frequently of celestial objects such as the sun, moon or stars, or sometimes of torches or lighthouses. All shades of yellow and white are normally selected for its coloration and glow. A lantern tattoo grants you greater control over the light it sheds, allowing you to focus it into a cone of up to 40 feet, or a line of up to 80 feet as a free action instead of shedding light in all directions.
@@ -743,8 +743,8 @@ Forge Charm, Light sphere (Beam (light)); **Cost** 750 gp
 
 ### Sanguine Tattoo
 
-**Aura**moderate Light;**CL** 8th
-**Slot**none;**Price**9,000 gp;**Weight** -
+**Aura** moderate Light; **CL** 8th
+**Slot** none; **Price** 9,000 gp; **Weight** -
 
 **Description**
 A sanguine tattoo generally depicts scenes of battle and conquest, or of blood and bones; often its light is a shade of red, or sometimes ivory or gray. It grants you a +4 competence bonus to Intimidate checks so long as the tattoo is shedding any amount of light. In addition, you may attempt to demoralize an enemy within the primary radius of your light as a move action.
@@ -754,8 +754,8 @@ Forge Charm, Light sphere; **Cost** 4,500 gp
 
 ### Serene Tattoo
 
-**Aura**moderate Light;**CL** 10th
-**Slot**none;**Price**24,000 gp;**Weight** -
+**Aura** moderate Light; **CL** 10th
+**Slot** none; **Price** 24,000 gp; **Weight** -
 
 **Description**
 A serene tattoo typically uses imagery of water or nature, favoring soft blues and greens in its coloring. So long as your serene tattoo sheds any amount of light, it grants you a +4 competence bonus to Diplomacy checks. In addition, allies in the primary radius of your light have any fear, confusion, or rage conditions suppressed so long as they remain in the primary radius of your light.
@@ -769,8 +769,8 @@ Forge Charm, Light sphere (Beacon Of Hope (light)); **Cost** 12,000 gp
 
 ### Fox Medallion [MCS]
 
-**Aura**strong Protection;**CL** 15th
-**Slot**any;**Price**180,000 gp;**Weight** 1 lb.
+**Aura** strong Protection; **CL** 15th
+**Slot** any; **Price** 180,000 gp; **Weight** 1 lb.
 This silvery medallion is usually worn as a necklace, although it functions in any slot as long as it is touching the user’s skin and the user has no other items in that slot. While worn, the user can spend an immediate action and one use of mythic power to gain immunity to any one effect they would normally be affected by that can be stopped by an antimagic field; this immunity is automatic and does not require any checks, regardless of its source. This immunity ends at the end of the user’s next round. When worn by a mythic creature, this medallion also protects the bearer from all divination magic, as the effects of the Protection sphere Unplottable (aegis) talent.
 **Construction Requirements**
 Forge Charm, Mythic Crafter, Protection sphere (Antimagic Aura (advanced), Enduring Protection, Permanent Ward (advanced), Spell Ward (aegis, ward), Unplottable (advanced, aegis)); **Cost** 90,000 gp

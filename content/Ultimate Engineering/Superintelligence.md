@@ -26,9 +26,9 @@ The superintelligence is a versatile and open-ended prestige class for the silve
 - **Skills:** Knowledge (engineering) 5 ranks.
 - **Talents:** Tinker sphere (all packages).
 
-**Class Skills**: None (see Adaptive Protocols).
-**Skill Points at each Level**: 6 + Int modifier.
-**Hit Die**: d6.
+**Class Skills:** None (see Adaptive Protocols).
+**Skill Points at each Level:** 6 + Int modifier.
+**Hit Die:** d6.
 
 **Table: Superintelligence**
 
@@ -64,9 +64,9 @@ These temporary hit points are fully restored whenever the superintelligence tra
 
 The superintelligence continues to progress this base class according to **Table: Superintelligence**.
 
-**Remote Install (Ex)**: At 2nd level, the superintelligence may transfer to a new host gizmo within signal range with the Transmission Mastery Remote Install ability. This does not change the time required to transfer (unless transferring faster using the accelerated transfer feature granted by this class).
+**Remote Install (Ex):** At 2nd level, the superintelligence may transfer to a new host gizmo within signal range with the Transmission Mastery Remote Install ability. This does not change the time required to transfer (unless transferring faster using the accelerated transfer feature granted by this class).
 
-**Bonus Talents**: At 2nd level, and every even level thereafter, the superintelligence gains a specific Tinker sphere talent as a bonus talent, as indicated on **Table: Superintelligence**. If the superintelligence already possesses that talent, they may immediately retrain that talent.
+**Bonus Talents:** At 2nd level, and every even level thereafter, the superintelligence gains a specific Tinker sphere talent as a bonus talent, as indicated on **Table: Superintelligence**. If the superintelligence already possesses that talent, they may immediately retrain that talent.
 
 **Uncanny Dodge (Ex):** At 3rd level, the superintelligence’s predictive algorithms make them very difficult to surprise. They gain the uncanny dodge ability, as the rogue class feature.
 
@@ -76,7 +76,7 @@ If the superintelligence already has uncanny dodge, they instead gain improved u
 
 At 7th level, the superintelligence’s host gizmo can no longer be hacked. Any attempts to sabotage it automatically fail.
 
-**Perfect Understanding (Ex)**: At 4th level, the superintelligence can calculate the precise method for achieving any goal. As part of making any d20 check, or on being attacked, the superintelligence may grant themselves an insight bonus equal to their superintelligence level to any d20 roll (or to their AC or saving throw, as appropriate). This ability must be declared before the roll is made. The insight bonus granted by this ability stacks with insight bonuses granted by Tinker sphere effects.
+**Perfect Understanding (Ex):** At 4th level, the superintelligence can calculate the precise method for achieving any goal. As part of making any d20 check, or on being attacked, the superintelligence may grant themselves an insight bonus equal to their superintelligence level to any d20 roll (or to their AC or saving throw, as appropriate). This ability must be declared before the roll is made. The insight bonus granted by this ability stacks with insight bonuses granted by Tinker sphere effects.
 
 Once used, this ability cannot be used again until the superintelligence maintains their gizmos.
 

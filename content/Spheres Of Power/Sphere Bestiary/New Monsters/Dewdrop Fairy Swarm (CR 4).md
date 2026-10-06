@@ -13,24 +13,24 @@ They are often conscripted by more powerful fey who arm them with nails or shard
 What seemed at a distance to be a cloud of glittering gems now becomes clear as a swarm of tiny fey whose wings sparkle with dew and who carry rough weapons of iron nails.
 XP 1200
 N Diminutive fey (swarm)
-**Init**+8;**Senses**low-light vision;**Perception** +9
+**Init** +8; **Senses** low-light vision; **Perception** +9
 
 **Defense**
-**AC**18,**touch**18,**flat-footed** 14 (+4 Dex, +4 size)
+**AC** 18, **touch** 18, **flat-footed** 14 (+4 Dex, +4 size)
 **hp** 40 (9d6+9)
-**Fort**+4,**Ref**+10,**Will** +3
+**Fort** +4, **Ref** +10, **Will** +3
 **Defensive Abilities** swarm traits; Immune mind-affecting effects, weapon damage
 **Weaknesses** swarm traits
 
 **Offense**
 **Speed** fly 40 ft. (perfect)
 **Melee** swarm (2d6 plus distraction and drench, counts as cold iron)
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** crude cold iron weapons, distraction (DC 17)
 
 **Magic**
-**Caster Level**9;**MSB**+9,**MSD**20,**Concentration** +11
-**Tradition**Rain dancing (Skilled Casting (Perform (dance)), Wild Magic);**Tradition Boon**Atmoturgy;**CAM** Cha
+**Caster Level** 9; **MSB** +9, **MSD** 20, **Concentration** +11
+**Tradition** Rain dancing (Skilled Casting (Perform (dance)), Wild Magic); **Tradition Boon** Atmoturgy; **CAM** Cha
 **Spell Points** 11
 
 **Weather Sphere:** Rain Lord, Severe Weather; (mantle) Clear Skies; (shroud) Battering Winds; Focused Weather (Precipitation) drawback
@@ -43,8 +43,8 @@ N Diminutive fey (swarm)
 ◊ Battering Winds (-3 Reflex saves and attack rolls)
 
 **Statistics**
-**Str**1,**Dex**18,**Con**12,**Int**11,**Wis**5,**Cha** 14
-**Base Atk**+4;**CMB**–;**CMD** –
+**Str** 1, **Dex** 18, **Con** 12, **Int** 11, **Wis** 5, **Cha** 14
+**Base Atk** +4; **CMB** –; **CMD** –
 **Feats** Ability Focus (distraction), Cantrips, Improved Initiative, Lightning Reflexes, Skill Focus (Perform (dance))
 **Skills** Fly +30, Knowledge (nature) +12, Perception +9, Perform (dance) +17, Stealth +16, Survival +9
 **Languages** Common, Sylvan

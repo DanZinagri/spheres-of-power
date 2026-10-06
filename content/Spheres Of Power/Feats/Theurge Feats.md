@@ -62,7 +62,7 @@ You isolate the advantages of your casting and transfer them across disciplines.
 
 #### Theurgic Virtuoso (Theurge) [3PP]
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
 **Prerequisites:** Caster level 1st or higher with at least two casting traditions.
 

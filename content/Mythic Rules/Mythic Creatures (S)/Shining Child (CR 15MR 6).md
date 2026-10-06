@@ -13,15 +13,15 @@ Surrounded by a nimbus of near-blinding light, this strange creature looks somet
 XP 51,200
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium outsider (evil, extraplanar, mythic)
-**Init**+14/–6MF, dual initiativeMA;**Senses** darkvision 120 ft.; Perception +25
+**Init** +14/–6MF, dual initiativeMA; **Senses** darkvision 120 ft.; Perception +25
 **Aura** blinding light (60 feet)
 
 #### Defense
 
-**AC**36,**touch**23,**flat-footed** 31 (+8 deflection, +4 Dex, +1 dodge, +13 natural)
+**AC** 36, **touch** 23, **flat-footed** 31 (+8 deflection, +4 Dex, +1 dodge, +13 natural)
 **hp** 228 (16d10+140); fast healingMA 10 (in bright or normal light)
-**Fort**+15,**Ref**+11,**Will** +10
-**Defensive Abilities**fortificationMA (50%); DR 10/epic;**Immune**blindness, fire, poison;**Resist** cold 10, sonic 10
+**Fort** +15, **Ref** +11, **Will** +10
+**Defensive Abilities** fortificationMA (50%); DR 10/epic; **Immune** blindness, fire, poison; **Resist** cold 10, sonic 10
 
 #### Offense
 
@@ -37,8 +37,8 @@ At will—greater teleport (self plus 50 lbs. of objects only), light, light lea
 
 #### Statistics
 
-**Str**10,**Dex**19,**Con**20,**Int**15,**Wis**11,**Cha** 26
-**Base Atk**+16;**CMB**+16;**CMD** 39
+**Str** 10, **Dex** 19, **Con** 20, **Int** 15, **Wis** 11, **Cha** 26
+**Base Atk** +16; **CMB** +16; **CMD** 39
 **Feats** Ability Focus (blinding light), Dodge, Improved InitiativeMF, Lightning ReflexesMF, Mobility, Skill Focus (Perception), Spring AttackMF, Weapon Finesse
 **Skills** Bluff +27, Diplomacy +24, Fly +12, Intimidate +27, Knowledge (arcana, planes) +21, Perception +25, Spellcraft +21, Use Magic Device +27
 **Languages** telepathy 120 ft.

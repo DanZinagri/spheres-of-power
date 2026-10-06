@@ -13,14 +13,14 @@ This humanoid-shaped colossus is a towering fury of burning wicker and wood.
 XP 76,800
 Pathfinder Roleplaying Game Bestiary 4
 NE Colossal construct (fire, mythic)
-**Init**+3;**Senses** darkvision 60 ft., low-light vision; Perception +14
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; Perception +14
 
 #### Defense
 
-**AC**26,**touch**5,**flat-footed** 23 (+3 Dex, +21 natural, –8 size)
+**AC** 26, **touch** 5, **flat-footed** 23 (+3 Dex, +21 natural, –8 size)
 **hp** 217 (14d10+140); fast healing 1
-**Fort**+4,**Ref**+7,**Will** +4
-**Defensive Abilities**fire healing, hardness 5; DR 10/epic;**Immune** construct traits, fire
+**Fort** +4, **Ref** +7, **Will** +4
+**Defensive Abilities** fire healing, hardness 5; DR 10/epic; **Immune** construct traits, fire
 **Weaknesses** vulnerable to cold
 
 #### Offense
@@ -28,13 +28,13 @@ NE Colossal construct (fire, mythic)
 **Speed** 30 ft.
 **Melee** 2 slams +23 (2d8+16 plus burn and grab)
 **Ranged** 2 burning brandsMA +9 touch (4d6+16 plus burn)
-**Space**30 ft.;**Reach** 30 ft.
+**Space** 30 ft.; **Reach** 30 ft.
 **Special Attacks** burn (1d6 fire, DC 17), cagespawnMA, conflagrationMA, mythic power (6/day, surge +1d8), trampleMA (2d8+24 plus burn, DC 33), wicker cageMA
 
 #### Statistics
 
-**Str**43,**Dex**16,**Con**—,**Int**6,**Wis**10,**Cha** 7
-**Base Atk**+14;**CMB**+38 (+42 grapple);**CMD** 51
+**Str** 43, **Dex** 16, **Con** —, **Int** 6, **Wis** 10, **Cha** 7
+**Base Atk** +14; **CMB** +38 (+42 grapple); **CMD** 51
 **Feats** CleaveMF, Combat Reflexes, Great Cleave, Improved Vital Strike, Power AttackMF, Vital StrikeMF, Weapon Focus (slam)
 **Skills** Perception +14
 **Languages** Common (cannot speak)

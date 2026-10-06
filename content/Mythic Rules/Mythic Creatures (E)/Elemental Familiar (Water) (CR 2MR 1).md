@@ -13,13 +13,13 @@ This translucent creature’s shape shifts between a spinning column of water an
 XP 600
 Pathfinder Roleplaying Game Bestiary
 N Small outsider (elemental, extraplanar, water)
-**Init**+0;**Senses** darkvision 60 ft.; Perception +4
+**Init** +0; **Senses** darkvision 60 ft.; Perception +4
 
 #### Defense
 
-**AC**18,**touch**11,**flat-footed** 18 (+7 natural, +1 size)
+**AC** 18, **touch** 11, **flat-footed** 18 (+7 natural, +1 size)
 **hp** 23 (2d10+12)
-**Fort**+4,**Ref**+3,**Will** +0
+**Fort** +4, **Ref** +3, **Will** +0
 **Immune** elemental traits
 
 #### Offense
@@ -30,8 +30,8 @@ N Small outsider (elemental, extraplanar, water)
 
 #### Statistics
 
-**Str**14,**Dex**10,**Con**13,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+2;**CMB**+3;**CMD** 13
+**Str** 14, **Dex** 10, **Con** 13, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +2; **CMB** +3; **CMD** 13
 **Feats** Power AttackMF
 **Skills** Acrobatics +4, Escape Artist +4, Knowledge (planes) +1, Perception +4, Stealth +8, Swim +14
 **Languages** Aquan

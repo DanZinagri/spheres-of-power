@@ -13,15 +13,15 @@ This dragon has a long neck and terrible claws. The beast shrieks and babbles, t
 XP 4,915,200
 Pathfinder Roleplaying Game Bestiary 2
 CE Huge dragon (air, fire, mythic)
-**Init**+5;**Senses** blindsight 120 ft., darkvision 120 ft., low-light vision, scent, true seeing; Perception +38
+**Init** +5; **Senses** blindsight 120 ft., darkvision 120 ft., low-light vision, scent, true seeing; Perception +38
 **Aura** manxome foeMA (120 ft., DC 35)
 
 #### Defense
 
-**AC**50,**touch**14,**flat-footed** 44 (+5 Dex, +1 dodge, +36 natural, –2 size)
+**AC** 50, **touch** 14, **flat-footed** 44 (+5 Dex, +1 dodge, +36 natural, –2 size)
 **hp** 575 (26d12+406); fast healing 15
-**Fort**+26,**Ref**+20,**Will** +24
-**Defensive Abilities**DR 15/epic and vorpal;**Immune**fire, paralysis, sleep;**Resist**acid 30, electricity 30, sonic 30;**SR** 36
+**Fort** +26, **Ref** +20, **Will** +24
+**Defensive Abilities** DR 15/epic and vorpal; **Immune** fire, paralysis, sleep; **Resist** acid 30, electricity 30, sonic 30; **SR** 36
 **Weaknesses** fear of vorpal weapons, vulnerable to cold
 
 #### Offense
@@ -29,7 +29,7 @@ CE Huge dragon (air, fire, mythic)
 **Speed** 40 ft., fly 80 ft. (poor)
 **Melee** bite +40 (4d8+24/19–20/×3), 2 claws +40 (3d6+16/19–20 plus grab), tail slap +35 (2d8+24), 2 wings +35 (1d8+8)
 **Ranged** 2 eye rays +29 touch (20d6 fire/19–20 plus burn)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** burbleMMA, burn (8d6, DC 34), eyes of flameMA, flensing clawsMMA, mythic power (10/day, surge +1d12), mythic spell-like abilitiesMA, tail sweepMA (2d8+36), whifflingMA
 
 **Spell-Like AbilitiesMMA** (CL 26th; concentration +36)
@@ -40,8 +40,8 @@ At will—commune with nature, confusion (DC 24), control winds, fireball (DC 23
 
 #### Statistics
 
-**Str**43,**Dex**20,**Con**33,**Int**12,**Wis**29,**Cha** 30
-**Base Atk**+26;**CMB**+44 (+48 grapple);**CMD** 60
+**Str** 43, **Dex** 20, **Con** 33, **Int** 12, **Wis** 29, **Cha** 30
+**Base Atk** +26; **CMB** +44 (+48 grapple); **CMD** 60
 **Feats** Awesome Blow, Bleeding CriticalMF, Critical FocusMF, Dodge, Flyby Attack, Improved Bull Rush, Improved Critical (bite, claws, eye rays), Mobility, Power AttackMF, Spring AttackMF, Vital StrikeMF
 **Skills** Acrobatics +31 (+35 jump), Escape Artist +31, Fly +26, Intimidate +39, Knowledge (nature) +30, Perception +38, Sense Motive +38
 **Languages** Aklo, Common, Draconic, Gnome, Sylvan

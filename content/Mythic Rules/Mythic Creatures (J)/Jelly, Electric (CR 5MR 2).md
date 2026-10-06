@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (J)]]"
 XP 1,600
 Pathfinder Roleplaying Game Bestiary (gelatinous cube variant)
 N Large ooze
-**Init**–5;**Senses** blindsight 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 60 ft.; Perception –5
 
 #### Defense
 
-**AC**6,**touch**4,**flat-footed** 6 (–5 Dex, +2 natural, –1 size)
+**AC** 6, **touch** 4, **flat-footed** 6 (–5 Dex, +2 natural, –1 size)
 **hp** 70 (4d8+52)
-**Fort**+10,**Ref**–4,**Will** –4
+**Fort** +10, **Ref** –4, **Will** –4
 **Defensive Abilities** **Immune** electricity, ooze traits
 
 #### Offense
 
 **Speed** 15 ft.
 **Melee** slam +2 (1d6 plus 1d6 acid and 1d6 electricity)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** electric pulseMA, engulf (DC 12, 1d6 acid, 1d6 electricity, and paralysis), mythic power (4/day, surge 1d6), paralysis (3d6 rounds, DC 21), shocking touchMA
 
 #### Statistics
 
-**Str**10,**Dex**1,**Con**28,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+3;**CMB**+4 (+8 grapple);**CMD** 9 (can’t be tripped)
+**Str** 10, **Dex** 1, **Con** 28, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +3; **CMB** +4 (+8 grapple); **CMD** 9 (can’t be tripped)
 **Feats** Extra Mythic Power
 **SQ** conductive shockMA, transparent
 

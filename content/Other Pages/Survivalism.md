@@ -107,7 +107,7 @@ When used with the Vertical Dredging talent, any corralled cubes that do not tou
 
 #### Early Hunt [plan] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You can reveal a plan to be any number of harvested components you could have gathered from a single creature. The creature type of this creature is dependent on your local surroundings, but is generally either an animal, humanoid, or vermin with a CR equal to 1 or lower, as they are usually the most plentiful.
 
@@ -125,7 +125,7 @@ You gain one Survivalism sphere package which you do not already possess. You al
 
 #### Humane Survivalist [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 If you possess the (dredge) package, you can dredge in such a way that it wears down those within the area. Any creature that moves through the dredged area suffers 1d6 nonlethal damage for every 5 feet of movement spent entering or moving through the area (this excludes forced movement). A successful Fortitude save made at the end of the total movement halves this damage.
 
@@ -143,7 +143,7 @@ You learn the parts that can be harvested from your mark, in addition to what te
 
 #### Meticulous Hunter [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 If you possess the (dredge) package, you can spend an additional 5 minutes when dredging to also camouflage the dredged area, changing the DC to perceive the dredged effect to 10 + your modifier in the associated skill. A creature that fails this check suffers a -2 penalty to any saving throws associated with the dredged area.
 
@@ -165,13 +165,13 @@ As part of preparing this plan, you must have been able to be near the chosen ar
 
 #### Subduer [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You take no penalty on attack rolls for using a lethal weapon to deal nonlethal damage. Additionally, whenever you deal nonlethal damage to a creature that is suffering a penalty to their AC (or a similar reduction to their AC against the attack, such as being prone, blind, flat-footed, or the penalties associated with broken armor or a Dexterity penalty), you add your operative modifier to the amount of nonlethal damage dealt.
 
 In addition, you regain 1 use of skill leverage when you apply the unconscious condition to a creature with more than 0 hit points for at least 10 minutes, or render them helpless but conscious for at least 10 minutes. Once you do, you cannot regain skill leverage that way until you regain it in a different manner.
 
-**Associated Feat**: Bludgeoner.
+**Associated Feat:** Bludgeoner.
 
 #### Survival Instinct [plan]
 
@@ -183,7 +183,7 @@ You may adopt this approach as a standard action, choosing an option from a (gro
 
 #### Tandem Bushcraft [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 If you possess the (dredge) package, your allies gain a +5 bonus to saving throws against your dredged areas–if the chosen option does not grant a save, they avoid any other penalties or detriments associated with the area (such as ignoring difficult terrain, but not simply ignoring a pit created through the Pit talent).
 
@@ -205,7 +205,7 @@ You can dredge using 5-foot cubes rather than 5-foot squares, allowing you to dr
 
 You harvest naturally toxic components from a creature, creating a basic ailment:
 
-**Basic Ailment:** Poison—ingested or injury;**save**Fort (Survivalism DC);**onset**1 round;**frequency**1/round for 1 minute;**effect**sickened;**cure** 1 save.
+**Basic Ailment:** Poison—ingested or injury; **save** Fort (Survivalism DC); **onset** 1 round; **frequency** 1/round for 1 minute; **effect** sickened; **cure** 1 save.
 
 Alternatively, you can harvest a disease or poison from a creature that carries or can inflict such an affliction. This ailment functions identically to the harvested affliction, except that the save DC is equal to your Survivalism sphere DC.
 
@@ -225,9 +225,9 @@ You refine a creature’s bones by attaching them to your armor or clothing, gra
 
 #### Coat (harvest) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Refinement DC**: 15
+**Refinement DC:** 15
 
 You refine the fur or coat of a creature by attaching it to your armor or clothing, or as a separate piece entirely. Depending on the creature that the coat comes from, it can either be conspicuous or inconspicuous–this is generally up to GM discretion, but a creature that is trained in Stealth usually possesses an inconspicuous coat. If the coat is considered both conspicuous and inconspicuous, choose one when you refine it.
 
@@ -270,7 +270,7 @@ You refine the hide of a creature, granting a single form of damage reduction or
 
 #### Ichor (harvest) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Survivalism sphere, associated skill 5 ranks.
 
@@ -300,9 +300,9 @@ You refine the lifeblood of a creature, which functions as if it were a healer's
 
 #### Meat (harvest) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Refinement DC**: 10
+**Refinement DC:** 10
 
 You harvest the edible portions from a creature, which can be either refined as normal or divided into portions of food. When divided, it cannot be refined and only lasts for 1 week (or indefinitely if you have the Limitless Preparation exceptional talent), but can provide 1 day's worth of food to a number of Medium-sized creatures depending on the size of the creature that this component originates from: a Tiny creature usually can feed up to 2 such creatures—for each size category beyond Tiny, the creature can feed 4 times the amount of creatures than the previous (for example, 8 creatures for a Small creature, 32 for a Medium creature, and so on).
 
@@ -312,7 +312,7 @@ Alternatively, such a meal can be consumed in tandem with the treat deadly wound
 
 *Special*—You can choose to add refined meat as part of preparing a different type of meal (such as a meal created using the Adept Culinarian talent), adding its effects to the meal.
 
-**Potency**: The refined meat heals twice as much as it normally would, including when used in tandem with treat deadly wounds or long-term care (effectively increasing the amount healed by 100%).
+**Potency:** The refined meat heals twice as much as it normally would, including when used in tandem with treat deadly wounds or long-term care (effectively increasing the amount healed by 100%).
 
 **Talisman:** The wearer of a meat talisman always heals +50% from the treat deadly wounds Heal skill use (as long as it takes a minimum of 10 minutes).
 
@@ -338,7 +338,7 @@ You refine a creature’s scent glands, pheromones, or some other attracting sce
 
 #### Pattern (harvest) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Refinement DC:** 15
 
@@ -352,7 +352,7 @@ The refined pattern can also be used to disguise as a creature of the component�
 
 #### Reagent (harvest) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Associated skill 5 ranks
 
@@ -372,7 +372,7 @@ You harvest the parts of a creature that are highly magical, such as a unicorn�
 
 #### Scale (harvest) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Refinement DC:** 20
 
@@ -386,7 +386,7 @@ You refine the scales (or similarly hardy plates) of a creature, which are usual
 
 #### Souvenir (harvest) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Refinement DC:** 15.
 
@@ -410,7 +410,7 @@ You refine the particularly odorous parts of a creature, like specific glands or
 
 #### Trophy (harvest) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Refinement DC:** 15 + the creature’s CR.
 
@@ -422,7 +422,7 @@ A refined trophy can be used to outwit a creature by revealing it to them, as lo
 
 #### Weapon (harvest) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Refinement DC:** 20.
 
@@ -527,7 +527,7 @@ Additionally, whenever a creature within the dredged area successfully bares the
 
 #### Variate Flow (ground) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 When you use dredge, you can choose one of the following options to apply to the area:
 
@@ -541,7 +541,7 @@ When you use dredge, you can choose one of the following options to apply to the
 
 #### Animate Earth (ground) (Su) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisites:** Survivalism sphere (Alter Stability), associated skill 5 ranks.
 
@@ -553,7 +553,7 @@ When you apply a dredge option granted by the Alter Stability (ground) talent, i
 
 #### Astral Preparation (Su) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Survivalism sphere, associated skill 5 ranks.
 
@@ -583,7 +583,7 @@ A curse inflicted on a creature using this talent cannot be harvested and refine
 
 #### Entrails (harvest) (Su) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisites:** Survivalism sphere, associated skill 5 ranks.
 
@@ -662,7 +662,7 @@ At 10 ranks in the associated skill, you can choose to instead have the dredged 
 
 #### Soul (harvest) (Su) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Survivalism sphere ((harvest) package), associated skill 15 ranks.
 
@@ -682,7 +682,7 @@ Unlike a normal component, a refined soul persists indefinitely without interven
 
 #### Visceral Survivalist (Ex) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Survivalism sphere, associated 5 ranks.
 

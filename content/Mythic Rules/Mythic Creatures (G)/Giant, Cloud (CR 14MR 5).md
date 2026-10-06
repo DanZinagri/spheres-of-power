@@ -13,13 +13,13 @@ This towering giant has finely chiseled features. Her skin is pale and smooth, a
 XP 38,400
 Pathfinder Roleplaying Game Bestiary
 NG or NE Gargantuan humanoid (giant, mythic)
-**Init**+0;**Senses** low-light vision, scent, mistsightMA, smell the blood of a little oneMA; Perception +17
+**Init** +0; **Senses** low-light vision, scent, mistsightMA, smell the blood of a little oneMA; Perception +17
 
 #### Defense
 
-**AC**31,**touch**6,**flat-footed** 31 (+5 armor, +20 natural, –4 size)
+**AC** 31, **touch** 6, **flat-footed** 31 (+5 armor, +20 natural, –4 size)
 **hp** 240 (16d8+168)
-**Fort**+13,**Ref**+5,**Will** +15
+**Fort** +13, **Ref** +5, **Will** +15
 **Defensive Abilities** DR 10/epic
 
 #### Offense
@@ -27,7 +27,7 @@ NG or NE Gargantuan humanoid (giant, mythic)
 **Speed** 50 ft.
 **Melee** +1 heavy flail +25/+20/+15 (8d6+25/17–20/x3)
 **Ranged** rock +8 (3d6+24)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** clobbering criticalMA, mythic power (5/day, surge 1d8)
 
 **Spell-Like Abilities** (CL 16th; concentration +17)
@@ -37,8 +37,8 @@ At will—levitate (self plus 2,000 lbs.), obscuring mist
 
 #### Statistics
 
-**Str**43,**Dex**11,**Con**27,**Int**12,**Wis**16,**Cha** 12
-**Base Atk**+12;**CMB**+32 (+34 bull rush);**CMD** 42 (44 vs. bull rush)
+**Str** 43, **Dex** 11, **Con** 27, **Int** 12, **Wis** 16, **Cha** 12
+**Base Atk** +12; **CMB** +32 (+34 bull rush); **CMD** 42 (44 vs. bull rush)
 **Feats** Awesome BlowMF, CleaveMF, Great Cleave, Improved Bull Rush, Improved CriticalMF (heavy flail), Intimidating Prowess, Iron Will, Power Attack
 **Skills** Climb +19, Craft (any one) +10, Handle Animal +15, Intimidate +32, Perception +17, Perform (string) +8
 **SQ** cloudscapeMA, cloudshaperMA, cloudwalkerMA

@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (X)]]"
 XP 3,200
 Pathfinder Roleplaying Game Bestiary
 LE Medium outsider (evil, extraplanar, mythic)
-**Init**+11MF;**Senses** darkvision 60 ft.; Perception +13
+**Init** +11MF; **Senses** darkvision 60 ft.; Perception +13
 
 #### Defense
 
-**AC**24,**touch**14,**flat-footed** 20 (+4 Dex, +8 natural, +2 shield)
+**AC** 24, **touch** 14, **flat-footed** 20 (+4 Dex, +8 natural, +2 shield)
 **hp** 97 (9d10+48)
-**Fort**+8,**Ref**+10,**Will** +6
-**Defensive Abilities**DR 5/epic;**SR** 19
+**Fort** +8, **Ref** +10, **Will** +6
+**Defensive Abilities** DR 5/epic; **SR** 19
 
 #### Offense
 
@@ -29,8 +29,8 @@ LE Medium outsider (evil, extraplanar, mythic)
 
 #### Statistics
 
-**Str**19,**Dex**18,**Con**14,**Int**15,**Wis**12,**Cha** 11
-**Base Atk**+9;**CMB**+13 (+17 grapple);**CMD** 27
+**Str** 19, **Dex** 18, **Con** 14, **Int** 15, **Wis** 12, **Cha** 11
+**Base Atk** +9; **CMB** +13 (+17 grapple); **CMD** 27
 **Feats** Combat ReflexesMF, Improved InitiativeMF, Iron Will, Outflank, Weapon Focus (claw, short sword)
 **Skills** Acrobatics +16, Bluff +12, Intimidate +12, Knowledge (arcana) +15, Knowledge (planes) +15, Perception +13, Sense Motive +13, Stealth +14
 **Languages** Common, Infernal

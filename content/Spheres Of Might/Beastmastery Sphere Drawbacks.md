@@ -14,29 +14,29 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Aggressive Rider [SA:MD2]
+#### Aggressive Rider [SA:MD2]
 
 You do not gain the defensive rider ability. You gain Wild Rider with this drawback.
 
 **Incompatible:** Offensive Rider, Selfish Rider.
 
-## Beast Empath (requires handle animal package) [SA:MD2]
+#### Beast Empath (requires handle animal package) [SA:MD2]
 
 You do not gain the tame ability. You gain Animal Empathy with this drawback.
 
-## Companionship [Warden]
+#### Companionship [Warden]
 
 You do not get to select a Beastmastery package. You gain either the Animal Companion or Pet talent with this drawback.
 
-## Monster Tamer (Requires Handle Animal Package)
+#### Monster Tamer (Requires Handle Animal Package)
 
 You may not use your trainer ability on creatures of the animal type. Choose one creature type other than the animal type. If a (beastmastery) talent specifies a creature of the animal type, it instead applies to your chosen type. You must take Broad Skills with the bonus talent from this drawback, though you may not affect creatures of a type other than your chosen type unless this drawback is bought off.
 
-## Offensive Rider (Requires Ride Package)
+#### Offensive Rider (Requires Ride Package)
 
 You do not gain the defensive rider ability. You gain Skirmish Rider with this drawback.
 
-## Selfish Rider (requires (ride) package) [SA:MD]
+#### Selfish Rider (requires (ride) package) [SA:MD]
 
 You do not gain the defensive rider ability. You gain Meat Shield with this drawback.
 

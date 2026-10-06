@@ -76,7 +76,7 @@ Whenever you take the total defense action while wielding a shield, creatures th
 
 #### Reassuring Imposition [Apoc]
 
-**Source:** [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)
+*Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
 Allies who are adjacent to you gain a bonus to concentration checks equal to your shield bonus to AC plus your active defense bonus. Additionally, if an adjacent ally would incur penalties to concentration checks from the Disruptive feat or a similar ability, the increase to DC is halved.
 

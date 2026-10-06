@@ -18,8 +18,8 @@ The following are new weapons and weapon special abilities. If you want to encha
 ### Blade of the Inspiring Herald
 
 A fine steel blade with gold filigree inlaid at the handle bearing a crest from a noble house.
-**Aura**strong Mind;**CL** 14th;
-**Slot**none;**Price**98,000 gp;**Weight** 4 lbs
+**Aura** strong Mind; **CL** 14th;
+**Slot** none; **Price** 98,000 gp; **Weight** 4 lbs
 **Description**
 The blade of the inspiring herald is a +1 courageous rapier that also grants its user a +5 enhancement bonus to caster level with the Mind sphere.
 **Construction Requirements**
@@ -27,8 +27,8 @@ Smith Magical Weapons and Armor, Craft Staff, Mind sphere; **Cost** 49,000 gp
 
 ### Dragonbone Pistol
 
-**Aura**moderate Enhancement;**CL** 10
-**Slot**weapon;**Price**33,300;**Weight** 4 lbs.
+**Aura** moderate Enhancement; **CL** 10
+**Slot** weapon; **Price** 33,300; **Weight** 4 lbs.
 **Description**
 A dragonbone firearm is a +1 flaming pistol that appears to be mostly carved from a single piece of bone, with small pieces made of other bone fragments. Draconic runes are inscribed along its barrel, and a DC 20 Heal check will reveal that it is alive. In fact, if damaged or even destroyed, the weapon will regenerate in 1d6 hours.
 
@@ -41,16 +41,16 @@ Smith Magical Weapons and Armor, Enhancement sphere, Destruction sphere, Fire Bl
 ### Energy Sword
 
 **Cost** 12,000 gp
-**Type**one-handed melee;**Proficiency**exotic;**Weight** 1 lbs.
-**Damage**1d8 (Small), 1d10 (Medium);**Damage**Type E and F;**Critical** 19-20/x3
-**Range**—;**Capacity**10;**Usage** 1 charge/10 minutes
+**Type** one-handed melee; **Proficiency** exotic; **Weight** 1 lbs.
+**Damage** 1d8 (Small), 1d10 (Medium); **Damage** Type E and F; **Critical** 19-20/x3
+**Range** —; **Capacity** 10; **Usage** 1 charge/10 minutes
 
 **Description**
 When activated, an energy sword’s ornate handle projects a quantum field that contains energized plasma in a 2- to 3-ft.-long “blade.” Attacks made with an energy blade resolve as touch attacks. Half the damage it deals is electricity and the other half is fire. This damage bypasses resistance to fire and electricity, but not immunity. Creatures which are immune to fire or electricity take half damage from an energy sword and creatures immune to both take no damage. When the wielder attacks an object, damage from an energy sword ignores the first 20 points of hardness and its damage is not halved (even though energy damage is usually halved when applied to objects). Thanks to its quantum containment, an energy sword deals half damage against incorporeal creatures, despite not being a magical weapon.
 
 ### Eternal Blade [High. HB]
 
-**Price**450 gp;**Slot**none;**CL**3rd;**Weight**varies; see text;**Aura**moderate Creation and Nature;**Scaling** prize
+**Price** 450 gp; **Slot** none; **CL** 3rd; **Weight** varies; see text; **Aura** moderate Creation and Nature; **Scaling** prize
 
 The life of a highlander’s sword is not an easy one, especially for the eternal blade.
 
@@ -62,11 +62,11 @@ Whenever you would score a critical threat against an opponent using the eternal
 - **8th Level – 4,900 gp:** The eternal blade in all its forms turns a shade of green as it becomes made of the living steel special material. Being made of living steel causes the eternal blade to regain 2 hit points each day (or 1 hit point each day if it is in dagger form and with the broken condition). Each day that the eternal blade begins the morning with full hit points, it returns 1 step closer to its original form as a greatsword.
 - **10th Level – 9,300 gp:** The eternal blade in all its forms gains the impervious weapon special ability, which makes it immune to rust, doubles the normal bonus to its hardness and hit points for each point of its enhancement bonus, and gain a +2 bonus to the eternal blade’s break DC and the wielder’s combat maneuver defense against sunder maneuvers.
 
-**Cost**4,650 gp;**Feats** Smith Magical Weapons and Armor; Spells Creation sphere (Expanded Materials), or Nature sphere (Living Steel).
+**Cost** 4,650 gp; **Feats** Smith Magical Weapons and Armor; Spells Creation sphere (Expanded Materials), or Nature sphere (Living Steel).
 
 ### Gáe Bulg [High. HB]
 
-**Price**2360 gp;**Slot**none;**CL**4th;**Weight**9 lbs.;**Aura**moderate Blood and Death;**Scaling** wonder
+**Price** 2360 gp; **Slot** none; **CL** 4th; **Weight** 9 lbs.; **Aura** moderate Blood and Death; **Scaling** wonder
 
 The gáe bulg is a weapon from the spear weapon group (such as a javelin or longspear) with a +1 enhancement bonus.
 
@@ -76,12 +76,12 @@ The gáe bulg is a weapon from the spear weapon group (such as a javelin or long
 - **12th Level** – 32,400 gp: In addition to its other enhancements and abilities, the gáe bulg gains the bloodsong weapon special ability.
 - **14th Level** – 55,500 gp: In addition to its other enhancements and abilities, the gáe bulg gains the heartseeker weapon special ability.
 
-**Cost**27,750 gp;**Feats**Smith Magical Weapons and Armor;**Spells** Blood, Death, and Mind sphere
+**Cost** 27,750 gp; **Feats** Smith Magical Weapons and Armor; **Spells** Blood, Death, and Mind sphere
 
 ### Ghost Grip Gauntlets
 
-**Aura**moderate Death;**CL** 10
-**Price**30,304 gp;**Weight** 1 lb.
+**Aura** moderate Death; **CL** 10
+**Price** 30,304 gp; **Weight** 1 lb.
 **Description**
 These +1 cold iron ghost touch gauntlets allow the wearer to ignore the immunity to tripping and grappling granted by the incorporeal property. The wearer may treat attacks made with these gloves as unarmed strikes if beneficial.
 **Construction Requirements**
@@ -89,7 +89,7 @@ Smith Magical Weapons and Armor; Warp sphere, **Price** 15,304 gp
 
 ### Horror’s Ruin
 
-**Price**1,375 gp;**Slot**none;**CL**3rd;**Weight**20 lb.;**Aura**moderate Fate;**Scaling** wonder
+**Price** 1,375 gp; **Slot** none; **CL** 3rd; **Weight** 20 lb.; **Aura** moderate Fate; **Scaling** wonder
 This articulately made cane unsheathes a masterwork sword cane pistol made of mithril.
 **5th Level – 3,375 gp:** The blade portion of the weapon gains a +1 enhancement bonus.
 **7th Level – 7,625 gp:** The pistol portion gains a +1 enhancement bonus. In addition, once per round the pistol will reload itself after it has been shot, if commanded to do so as a free action.
@@ -99,7 +99,7 @@ This articulately made cane unsheathes a masterwork sword cane pistol made of mi
 **15th Level – 67,625 gp:** The blade gains the undead bane weapon special. The pistol gains the aberration bane weapon special.
 **17th Level – 103,625 gp:** Both the blade and the pistol gain the evil outsider bane weapon special. The pistol if commanded to reload itself, will proceed to do so for the entire round (not just once).
 **Construction Requirements**
-**Cost**51,812 gp;**Feats**Smith Magical Weapons and Armor;**Spells** Enhancement sphere, Fate sphere
+**Cost** 51,812 gp; **Feats** Smith Magical Weapons and Armor; **Spells** Enhancement sphere, Fate sphere
 
 | Name | Cost | Dmg (S) | Dmg (M) | Crit | Range | Misfire | Capacity | Weight | Type |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -107,8 +107,8 @@ This articulately made cane unsheathes a masterwork sword cane pistol made of mi
 
 ### Pole of Unlife
 
-**Aura**moderate Death, Fate;**CL** 6th
-**Slot**none;**Price**32,100 gp;**Weight** 4 lbs.
+**Aura** moderate Death, Fate; **CL** 6th
+**Slot** none; **Price** 32,100 gp; **Weight** 4 lbs.
 **Description**
 This quarterstaff is topped with a multitude of what appear to be burning wax candles, except these candles never burn out, and are as hard as steel when used in combat.
 
@@ -119,7 +119,7 @@ Craft Magical Arms and Armor, Craft Wand, Death Sphere, Fate Sphere, masterwork 
 
 ### Pouch of Many Stars
 
-**Price**100 gp;**Slot**none;**CL**1st;**Weight**1 lb.;**Aura**faint**Enhancement and Warp; **Scaling** prize
+**Price** 100 gp; **Slot** none; **CL** 1st; **Weight** 1 lb.; **Aura** faint **Enhancement and Warp; **Scaling** prize
 This pouch which is usually strapped to the waist or thigh has two flaps that open from the top, which each hold a set of 5 masterwork shuriken, which may drawn as a free action. If any of these 10 shuriken strike a target or the ground (such as on a miss), become damaged, or move more than 400 ft. from the pouch, those shuriken rematerialize instantaneously inside the pouch undamaged.
 **3rd Level – 400 gp:** The two sets of shuriken each gain a +1 enhancement bonus to attack and damage rolls.
 **5th Level – 1,600 gp:** The enhancement bonus of the shuriken increases to +2.
@@ -127,7 +127,7 @@ This pouch which is usually strapped to the waist or thigh has two flaps that op
 **9th Level – 6,400 gp:** The enhancement bonus of the shuriken increases to +4.
 **11th Level – 10,000 gp:** The enhancement bonus of the shuriken increases to +5.
 **Construction Requirements**
-**Cost**5,000 gp;**Feats**Smith Magical Weapons and Armor;**Spells** Enhancement sphere, Warp sphere
+**Cost** 5,000 gp; **Feats** Smith Magical Weapons and Armor; **Spells** Enhancement sphere, Warp sphere
 
 ---
 
@@ -135,23 +135,23 @@ This pouch which is usually strapped to the waist or thigh has two flaps that op
 
 #### Arrow, Vial
 
-**Price**5 gp;**Weight** 0.3 lb.
+**Price** 5 gp; **Weight** 0.3 lb.
 This arrow carries a small vial, large enough to carry a single dose of a contact poison, inhaled poison, formulae, liquid alchemical item, potion, oil, or dust. The vial is designed to shatter upon impact, releasing its content on or centered on the target. A vial arrow deals no weapon damage. Filling the vial requires a full-round action.
 
 #### Bolt, Vial
 
-**Price**5 gp;**Weight** 0.3 lb.
+**Price** 5 gp; **Weight** 0.3 lb.
 This crossbow bolt carries a small vial, large enough to carry a single dose of a contact poison, inhaled poison, formulae, liquid alchemical item, potion, oil, or dust. The vial is designed to shatter upon impact, releasing its content on or centered on the target. A vial bolt deals no weapon damage. Filling the vial requires a full-round action.
 
 #### Injector Shot
 
-**Price**15 gp;**Weight** 0.1 lbs.
+**Price** 15 gp; **Weight** 0.1 lbs.
 An injector shot is a special kind of alchemical cartridge often used by bounty hunters and others who wish to subdue targets while keeping them alive. An injector shot is designed to hold a dose of injury poison, and while most injury poisons can simply be applies to a shot like any other type of ammunition, an injector shot is designed to deliver the poison through injection; an injector shot deals nonlethal damage instead of lethal damage in addition to delivering the poison. Filling an injector shot requires a full-round action.
 
 #### Living Crystal Bullet
 
-**Aura**moderate Destruction;**CL** 9th
-**Slot**none;**Price**160 gp;**Weight** —
+**Aura** moderate Destruction; **CL** 9th
+**Slot** none; **Price** 160 gp; **Weight** —
 **Description**
 This +1 firearm bullet deals normal damage, but when it hits a creature or object, it spreads quickly, covering the target in crystal. The target must make a DC 14 Reflex save or be entangled and immobilized as by a caster level 9th crystal blast.
 **Construction Requirements**
@@ -159,12 +159,12 @@ Craft Magic Arms and Armor, Destruction sphere, Crystal Blast; Cost 80 gp
 
 #### Shatter Shot
 
-**Price**15 gp;**Weight** 0.1 lbs.
+**Price** 15 gp; **Weight** 0.1 lbs.
 A shatter shot is a special type of alchemical cartridge designed to hold a single dose of a contact poison, inhaled poison, formulae, liquid alchemical item, potion, oil, or dust. The shatter shot is designed to shatter upon impact, releasing its content on or centered on the target. A shatter shot deals no weapon damage. Filling the vial requires a full-round action.
 
 #### Splatter Shot
 
-**Price**25 gp;**Weight** -
+**Price** 25 gp; **Weight** -
 A splatter shot is a special type of alchemical cartridge designed for firearms with the scatter weapon quality. A splatter shot is designed to hold 2 doses of a contact or injury poison; if only loaded with one dose or a dose from 2 different poisons, it is ineffective. When fired, every target damaged by the scatter shot are also affected by the included poison. Filling a splatter shot requires a full-round action.
 
 ---
@@ -201,8 +201,8 @@ Moderate evocation; CL 10th; Craft Magic Arms and Armor, Destruction sphere; Pri
 
 #### Blood Dowsing
 
-**Aura**faint Divination;**CL** 5th
-**Slot**weapon;**Price**+6,000 gp;**Weight** -
+**Aura** faint Divination; **CL** 5th
+**Slot** weapon; **Price** +6,000 gp; **Weight** -
 **Description**
 This weapon special ability may be applied to any melee weapon. Whenever a blood dowsing weapon is used to deal damage to a creature, as a free action the wielder may attune the weapon to the damaged creature. A willing creature can be attuned by using the weapon to inflict 1 point of damage on themselves.
 
@@ -217,7 +217,7 @@ Smith Magical Weapons and Armor, Divination sphere (Dowsing (divine)); **Cost** 
 This special ability can be placed only on slashing or piercing melee weapons. While the wielder benefits from a raging song performance (whether her own or from an ally), this weapon gains the keen weapon special ability. If the wearer confirms a critical hit while under the effects of a raging song, she gains 1d10 temporary hit points until the raging song ends. If the weapon's critical multiplier is x3, add 2d10 temporary hit points instead; if the multiplier is x4, add 3d10 temporary hit points instead. While its powers are active, the weapon vibrates and makes a barely audible hum that rises to a shriek of triumph when it confirms a critical hit.
 **Construction Requirements**
 Smith Magical Weapons and Armor, Mind sphere, creator must have the raging song class feature
-**Price**+1 bonus,**Aura**moderate Mind,**CL**6th,**Weight** -
+**Price** +1 bonus, **Aura** moderate Mind, **CL** 6th, **Weight** -
 
 #### Conscription
 
@@ -227,7 +227,7 @@ Construction Requirements: Craft Magic Arms and Armor, Mind sphere, the Command 
 
 #### Courageous
 
-**Price**+1 bonus;**Aura**faint Mind;**CL**3rd;**Weight** —
+**Price** +1 bonus; **Aura** faint Mind; **CL** 3rd; **Weight** —
 
 This special ability can only be added to a melee weapon. A courageous weapon fortifies the wielder’s courage and morale in battle. The wielder gains a morale bonus on saving throws against fear equal to the weapon’s enhancement bonus. In addition, any morale bonus the wielder gains from any other source is increased by half the weapon’s enhancement bonus (minimum 1).
 
@@ -260,8 +260,8 @@ Moderate evocation; CL: 10th; Craft Magic Arms and Armor, Destruction sphere; Pr
 
 #### Dimensional
 
-**Aura**faint Warp;**CL** 5
-**Slot**weapon;**Price**+4 bonus;**Weight** -
+**Aura** faint Warp; **CL** 5
+**Slot** weapon; **Price** +4 bonus; **Weight** -
 **Description**
 A dimensional weapon warps space, allowing it to slash through two places at once. Whenever a dimensional weapon is used to make an attack action, it can issue the same attack against another creature standing within 5 ft. of the intended target; attack rolls are applied to both targets, though damage is rolled separately.
 **Construction Requirements**
@@ -310,7 +310,7 @@ Moderate transmutation; CL: 8th; Craft Magic Arms And Armor, haste; Price: +1 bo
 This special ability can only be placed on melee weapons. A heartseeker weapon is drawn unerringly toward beating hearts. A heartseeker weapon ignores the miss chance for concealment against most living targets, though the attack must still target the proper square. This special ability does not apply against aberrations, oozes, outsiders with the elemental subtype, plants, or any creature specifically noted to lack a heart.
 **Construction Requirements**
 Smith Magical Weapons and Armor, Death sphere, Killing Curse
-**Price**+1 bonus,**Aura**moderate Death,**CL**7th,**Weight** -
+**Price** +1 bonus, **Aura** moderate Death, **CL** 7th, **Weight** -
 
 #### Howling
 
@@ -320,8 +320,8 @@ Construction Requirements: Craft Magic Arms and Armor, Weather sphere, Wind Lord
 
 #### Hungry
 
-**Aura**faint Alteration;**CL** 5
-**Slot**weapon;**Price**+1 bonus;**Weight** -
+**Aura** faint Alteration; **CL** 5
+**Slot** weapon; **Price** +1 bonus; **Weight** -
 **Description**
 This enchantment can only be placed on a melee weapon or a piece of ammunition. A hungry weapon has been enchanted with a mouth; when this weapon strikes a target, the weapon bites and tears its flesh. A hungry weapon deals bludgeoning, piercing, and slashing damage. Additionally, the hungry weapon can roar and snarl, granting the wielder of the hungry weapon a circumstance bonus to Intimidate checks equal to the enhancement bonus of the hungry weapon.
 **Construction Requirements**
@@ -341,22 +341,22 @@ Moderate Illusion (Concealed Aura MSD 19); CL: 8th; Price: +3 bonus (+4 for fire
 
 #### Phasic
 
-**Aura**faint Warp;**CL**5th;**Price** +2 bonus
+**Aura** faint Warp; **CL** 5th; **Price** +2 bonus
 A weapon with this special ability can bend its way through space, bypassing barriers between itself and its target. Attacks from this weapon bypass all cover. If the attacker cannot see the target on the other side of the cover, then the attack suffers a 50% miss chance as if the target were invisible. Only a single object that provides cover can be bypassed by a weapon with this special ability, with a thickness of no more than 2 ft. (thus, while a bow with this enhancement could fire through a wall to hit a target on the other side, it could not bypass an entire house, which contains several walls).
 **Construction Requirements**
 Craft Magic Arms and Armor; Warp sphere; **Cost** +2 bonus
 
 #### Plasma Blade
 
-**Aura**moderate creation;**CL** 9th
-**Slot**weapon;**Price**+3 bonus;**Weight** —
+**Aura** moderate creation; **CL** 9th
+**Slot** weapon; **Price** +3 bonus; **Weight** —
 
 **Description**
 A plasma blade weapon has its significant portion transformed into magical energy, this reduces the weight of the weapon by 80% and the weapon deals half electric and half fire damage though it uses the base weapon’s damage dice, critical threat range, and critical multiplier. Treat this damage as an energy sword’s, bypassing electric and fire resistance but not immunity.
 
 **Special:** Any effect which would allow Brilliant Energy (+4) to be added to a weapon (for example, the ethereal equipment arsenal trick) can also be used to add Plasma Blade (+3) to a weapon instead.
 
-**Construction Requirements**Craft Magic Arms and Armor, Creation sphere, Expanded Materials: Plasma Production;**Price** —
+**Construction Requirements** Craft Magic Arms and Armor, Creation sphere, Expanded Materials: Plasma Production; **Price** —
 
 #### Preventative
 
@@ -374,8 +374,8 @@ Faint evocation; CL: 5th; Craft Magical Arms and Armor, Light sphere; Price: +2 
 
 #### Sail Torch
 
-**Aura**faint Destruction;**CL** 5
-**Slot**weapon;**Price**+500 gp;**Weight** -
+**Aura** faint Destruction; **CL** 5
+**Slot** weapon; **Price** +500 gp; **Weight** -
 **Description**
 This enchantment makes siege weapon ammunition more effective against sails and rigging, creating a burst of flame upon striking its target to ignite what it does not tear apart. This enchantment may be applied to a single piece of siege weapon ammunition. Upon striking a target the ammunition releases a burst of flame, which deals 3d6 fire damage in a 15 ft. burst. Any creature or object that takes damage must make a DC 12 Reflex save or catch fire, taking 1d6 fire damage per round. This fire damage ignores the hardness of normal sails and rigging.
 **Construction Requirements**
@@ -461,13 +461,13 @@ Construction Requirements: Craft Magic Arms and Armor, Weather sphere, Squamish;
 
 **"Hello! Would you like to DESTROY EVIL?!"**
 
-**Aura**overwhelming Destruction;**CL** 20th
-**Slot**none;**Price**-;**Weight** 8 lbs
+**Aura** overwhelming Destruction; **CL** 20th
+**Slot** none; **Price** -; **Weight** 8 lbs
 
 **Statistics**
-**Alignment**neutral;**Ego** 20
+**Alignment** neutral; **Ego** 20
 **Senses** 60 ft.
-**Int**6,**Wis**10,**Cha** 22
+**Int** 6, **Wis** 10, **Cha** 22
 **Communication** telepathy (all languages)
 
 **Description**

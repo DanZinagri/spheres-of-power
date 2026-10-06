@@ -12,11 +12,11 @@ A psyforensic uses divinations to augment perception when finding clues and ferr
 
 This archetype requires [[Sphere Investigator|sphere investigator]].
 
-### Inquisitive
+## Inquisitive
 
 A psyforensic gains the Divination sphere as a bonus sphere at 1st level. This replaces trapfinding.
 
-### Consult the Spirits (Sp)
+## Consult the Spirits (Sp)
 
 Beginning at 3rd level, once per day the psyforensic may spend an hour to enter a trance to gain the benefits of the autopsy ritual. The psyforensic may use consult the spirits an additional time per day every three levels thereafter (6th, 9th, etc.). This replaces the trap sense class feature.
 

@@ -32,7 +32,7 @@ The fighter is amazingly accurate and effective with the weapons for which he ha
 
 Additionally, the fighter may add a mythic surge to an attack roll with such a weapon without expending one use of mythic power. The fighter may do this a number of times per day equal to the number of weapon groups he has selected with weapon training (once per day at 5th, twice per day at 9th, and so on). The fighter must have the weapon training class feature to take this mythic class feature.
 
-## Mythic Armor Mastery (Ex):
+## Mythic Armor Mastery (Ex)
 
 The fighter’s armor is almost a second skin, a part of him that can be sacrificed to save himself. If an attack, spell, or effect would kill the fighter while he is wearing armor or carrying a shield, as a free action he may negate the damage or effect and give his armor or shield the broken condition. The fighter cannot sacrifice armor or a shield with the broken condition to activate this mythic ability.
 

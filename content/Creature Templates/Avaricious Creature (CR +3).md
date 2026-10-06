@@ -18,7 +18,7 @@ Avaricious creatures believe everyone has a price, including themselves, but oft
 
 **Alignment:** Neutral Evil
 
-**Defensive Abilities:** fast healing equal to CR; DR 5/good (if the avaricious creature is CR 6 or higher this becomes DR 10/good, if CR 12 or higher this becomes DR 15/good);**Immune**death effects, disease, fire mind-affecting, poison, petrification;**Resist** acid cold, electricity 10; SR 11+ CR
+**Defensive Abilities:** fast healing equal to CR; DR 5/good (if the avaricious creature is CR 6 or higher this becomes DR 10/good, if CR 12 or higher this becomes DR 15/good); **Immune** death effects, disease, fire mind-affecting, poison, petrification; **Resist** acid cold, electricity 10; SR 11+ CR
 
 **Special Abilities:** An avaricious creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -34,7 +34,7 @@ For up to one hour per day, the avaricious creature can mentally communicate wit
 
 **Vulnerability to Charity:** If the avaricious creature ever performs an act of true charity (giving with no expectation of reward) it permanently loses the benefits of this template and can only perform move actions for 24 hours. This act can be performed against its will, and/or it could be tricked into performing it.
 
-**Abilities:** Increase from the base creature as follows:**Dex**+4 (+2 to ranged attack rolls; AC and touch AC, initiative checks, and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs),**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +8 (+4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs; +4 to any of the base creature’s Charismabased DCs).
+**Abilities:** Increase from the base creature as follows: **Dex** +4 (+2 to ranged attack rolls; AC and touch AC, initiative checks, and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs), **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +8 (+4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs; +4 to any of the base creature’s Charismabased DCs).
 
 **Feats:** An avaricious creature gains Greater Steal and Improved Steal as bonus feats even if it does not meet the prerequisites.
 

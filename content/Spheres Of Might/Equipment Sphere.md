@@ -30,13 +30,13 @@ You may add 1/2 of your armor bonus from your worn armor (rounded down) as a cir
 
 #### Armored Deflection [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 You may add 1/2 of your armor bonus from your worn armor (rounded down) as a circumstance bonus to your touch AC; the bonus from this talent may not exceed 1/3 your base attack bonus (minimum +1).
 
 #### Armored Evasion [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 While wearing medium or heavy armor, when you succeed at a Reflex save against an effect that would deal half damage on a successful save you may divert any damage you would have taken to your armor. At +10 base attack bonus you may divert half the damage from a failed Reflex save to your armor.
 
@@ -50,7 +50,7 @@ While wielding a light or one-handed weapon and nothing in any other hand you po
 
 #### Battle Ready Armor [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 Your armor receives a competence bonus to its hardness equal to your base attack bonus. Your armor does not gain the broken condition until it is reduced to 1/4th its hit points, and when your armor would be destroyed you may expend your martial focus to allow it to remain broken with 1 hit point remaining.
 
@@ -116,13 +116,13 @@ You can draw a weapon as part of the action used to make an attack with it. This
 
 #### Fast Stow [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You do not provoke attacks of opportunity when sheathing a weapon, and you can do so as part of taking another move action.
 
 Additionally, whenever you pick up or steal an item, you can stow the item as part of the same action used to obtain it, and suffer no penalty for attempting to do this as a subtle action (new skill use) without it taking longer than usual.
 
-**Associated Feat**: Quick Stow (*Villain Codex*).
+**Associated Feat:** Quick Stow (*Villain Codex*).
 
 #### Finesse Fighting
 
@@ -146,7 +146,7 @@ While wielding a firearm, you can still make unarmed strikes with the hands used
 
 #### Immovable Object [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 While wearing heavy armor, you gain a +1 competence bonus to your CMD against bull rush, drag, and reposition maneuvers. This bonus increases by +1 for every 4 points of base attack bonus you possess.
 
@@ -199,7 +199,7 @@ You have learned to take advantage of the shortbow’s short draw length to make
 
 #### Skin of Steel [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 While wearing heavy armor and fighting defensively, you gain DR/bludgeoning equal to 1/2 your base attack bonus. This stacks with any DR/- you may possess.
 
@@ -225,7 +225,7 @@ You may treat any spear or polearm you wield as though it had the finesse weapon
 
 #### Spiked Defense (stance) [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 You may only enter this stance when wearing armor equipped with armor spikes. While in this stance when a creature within the reach of your armor spikes makes a melee attack against you, they provoke an attack of opportunity from you. This attack of opportunity is resolved after the triggering attack. The attack of opportunity granted by the talent must be made using armor spikes, and you may only make one attack of opportunity this way per creature per round. This may not be combined with the Bloody Counter Berserker talent.
 
@@ -247,7 +247,7 @@ You have mastered techniques for making firearms more reliable and accurate at t
 
 #### Steel Martyr [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 Whenever a critical hit is scored against you, as an immediate action you may divert the additional damage from the critical hit to your armor. This action is taken after the result of the attack roll is known but before the damage is revealed. You suffer any damage in excess of your armor’s hit points.
 
@@ -269,7 +269,7 @@ You may ignore the attack penalty for attacking while carrying a tower shield. Y
 
 #### Two-Handed Combat [DRS]
 
-**Source:** Diamond Classes: Renowned Warrior and the Peach Tree Oath
+*Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
 Whenever you make a non-combat maneuver attack with a weapon wielded in two hands, you may choose 1 space within your threatened reach and compare the results of your original attack roll against each creature in the chosen square other than the target of your original attack. If your attack roll exceeds the AC of a creature in the chosen space, that creature is struck by your weapon but only takes damage equal to 1-times your Strength modifier instead of the normal damage dealt. Damage dealt this way can be a critical hit, rolling a single attack roll to confirm the critical hit against each creature that would be struck by your initial attack; the critical multiplier of damage dealt by a sweeping strike is always x2.
 
@@ -287,7 +287,7 @@ This bonus depends on an intricate awareness of the practitioner's body and bala
 
 #### Unexpected Rebound [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Whenever you miss a thrown weapon attack made against a creature, you can expend your martial focus as an immediate action to have the attack go wide—choose a new target for the attack, determining your range from the previously attacked target. Make a new attack against the chosen creature, who is flat-footed against the attack. You do not add your Strength modifier to the damage of such an attack.
 
@@ -297,7 +297,7 @@ After this attack is made, the weapon lands adjacent to the creature unless it w
 
 #### Unfettering Armor [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 You may move at your normal speed while wearing medium armor. At +7 base attack bonus you may move your normal speed while wearing heavy armor.
 
@@ -307,7 +307,7 @@ You may fire any ranged weapon while prone. Additionally, you may use a leg in p
 
 #### Unstoppable Force [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 If you are wearing heavy armor and have martial focus, you lose the battered condition at the end of your turn, even if it would normally last longer, and you no longer suffer a penalty to CMD while battered.
 
@@ -315,9 +315,9 @@ If you are wearing heavy armor and have martial focus, you lose the battered con
 
 This talent gives you access to three stances, listed below. Feats that list the associated feats as prerequisites only work while the stances that grant the associated feats are active.
 
-- **Offensive Style:** While in this stance, you gain the benefit of the Deadly Aim and Power Attack feats. Additionally, when you successfully damage a creature with an attack action modified by Deadly Aim or Power Attack, that creature becomes battered for 1 round.**Associated Feats:** Deadly Aim, Power Attack.
-- **Defensive Style:** While in this stance, you gain the benefit of the Combat Expertise feat. Additionally, when you successfully damage a creature with an attack action modified by Combat Expertise, increase the dodge bonus to armor class granted by Combat Expertise by 1, +1 per 10 base attack bonus you possess, until the end of your next turn. This increase does not stack with itself.**Associated Feat:** Combat Expertise.
-- **Recovery Style:** While in this stance, you gain the benefit of the Heroic Resolve feat. Additionally, when you successfully damage a creature with an attack action while in this stance, your next activation of Heroic Resolve until the end of your next turn does not require expenditure of your martial focus.**Associated Feat:** Heroic Resolve.
+- **Offensive Style:** While in this stance, you gain the benefit of the Deadly Aim and Power Attack feats. Additionally, when you successfully damage a creature with an attack action modified by Deadly Aim or Power Attack, that creature becomes battered for 1 round. **Associated Feats:** Deadly Aim, Power Attack.
+- **Defensive Style:** While in this stance, you gain the benefit of the Combat Expertise feat. Additionally, when you successfully damage a creature with an attack action modified by Combat Expertise, increase the dodge bonus to armor class granted by Combat Expertise by 1, +1 per 10 base attack bonus you possess, until the end of your next turn. This increase does not stack with itself. **Associated Feat:** Combat Expertise.
+- **Recovery Style:** While in this stance, you gain the benefit of the Heroic Resolve feat. Additionally, when you successfully damage a creature with an attack action while in this stance, your next activation of Heroic Resolve until the end of your next turn does not require expenditure of your martial focus. **Associated Feat:** Heroic Resolve.
 
 #### Versatile Shield
 
@@ -341,11 +341,11 @@ At +10 base attack bonus, you instead threaten all spaces within 10 ft. of yours
 
 #### Angler Training (discipline) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You gain proficiency with the fishing tackle, net, trident, harpoon, sea knife, all crossbows, and sibat. You can treat a net as a one-handed melee or ranged weapon, and can treat a net or fishing tackle as a reach weapon. When using a fishing tackle (Spheres of Might), its damage is not reduced when used as a ranged weapon.
 
-**Associated Feats**: Net Adept and Net and Trident (*Ultimate Combat*).
+**Associated Feats:** Net Adept and Net and Trident (*Ultimate Combat*).
 
 #### Archery Bash (discipline)
 
@@ -411,7 +411,7 @@ You gain proficiency with the elven branched spear, elven curveblade, longbow, l
 
 #### Enforcer Training (discipline) [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 You gain proficiency with armor spikes, bola, barbazu beard, dwarven boulder helmet, dire flail, heavy flail, light flail, harpoon, mancatcher, rhoka sword, shield spikes, and spiked chain.
 
@@ -463,7 +463,7 @@ You gain proficiency with all weapons with the monk special feature. If you have
 
 #### Ninjutsu Training (discipline) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 You gain proficiency with the kama, kusarigama, nunchaku, rope dart, sai, short sword, shortbow, shuriken, siangham, and wakizashi, and may wield the katana as a two-handed martial weapon. In addition, when attacking an enemy that is unaware of your presence, your first attack against them deals an additional +1 damage.
 
@@ -507,7 +507,7 @@ You gain proficiency with all shields, including tower shields, and are proficie
 
 #### Swashbuckler Training (discipline) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 You gain proficiency with the butterfly knife, longsword, rapier, scimitar, spiral rapier, and sword cane, and may wield the estoc as a two-handed martial weapon. Whenever you make an attack using your Dexterity bonus on attack rolls and your Strength bonus on melee damage rolls, any creature you deal damage to suffers a -1 to CMB when attempting to disarm or sunder your weapon, and a -1 to CMD against disarm or sunder attempts you make against it. These penalties end at the start of your next turn. At +10 base attack bonus, these penalties increase to -2.
 
@@ -533,7 +533,7 @@ You gain proficiency with the blade boot, brass knuckles, cestus, dan bong, emei
 
 #### Adamantine Bulwark [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 **Prerequisites:** Base attack bonus +4.
 
@@ -543,7 +543,7 @@ While wearing heavy armor and fighting defensively, any adjacent creature that s
 
 #### Armored Armaments [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 **Prerequisite:** Equipment sphere.
 
@@ -591,7 +591,7 @@ If you possess the Ceaseless Ammo talent, you may use it with the listed weapons
 
 #### Titan’s Shield [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 **Prerequisites:** Equipment sphere (Oversized Weapons), base attack bonus +6.
 
@@ -599,7 +599,7 @@ You may wield shields that are one size category larger than you. While wielding
 
 #### Two-Handed Master [DRS]
 
-**Source:** Diamond Classes: Renowned Warrior and the Peach Tree Oath
+*Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
 **Prerequisites:** Equipment Sphere, Two-Handed Combat, Base Attack Bonus +6.
 When using the Two-Handed Combat talent, you can choose one additional space for every 6 base attack bonus you possess. When dealing damage into these spaces, you add your weapon’s enhancement bonus to the damage dealt.

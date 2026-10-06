@@ -16,12 +16,12 @@ An uncertain pair of hands in the Blackthorn Consortium, this goblin’s ears tw
 **XP** 800
 Goblin unchained rogue (deadly assassin) 4
 CN Small humanoid (goblinoid)
-**Init**+5;**Senses**darkvision 60 ft.;**Perception** -1
+**Init** +5; **Senses** darkvision 60 ft.; **Perception** -1
 
 **Defense**
-**AC**20,**touch**20,**flat-footed** 15 (+4 armor, +5 Dex, +1 size)
+**AC** 20, **touch** 20, **flat-footed** 15 (+4 armor, +5 Dex, +1 size)
 **hp** 30 (4d6+12)
-**Fort**+4,**Ref**+9,**Will** +0
+**Fort** +4, **Ref** +9, **Will** +0
 **Defensive Abilities** evasion, unarmored training +4, uncanny dodge
 
 **Offense**
@@ -33,13 +33,13 @@ CN Small humanoid (goblinoid)
 **Combat**
 **Martial Tradition** Janjaweed (Beastmastery x3, Equipment);
 **PAM** Cha
-**Athletics Sphere**–**Packages**climb, leap, run;**Talents** Expanded Training, Mighty Conditioning; (climb) Scale Foe
+**Athletics Sphere** – **Packages** climb, leap, run; **Talents** Expanded Training, Mighty Conditioning; (climb) Scale Foe
 • Scale Foe (climb, motion); can attempt a Climb check to climb onto larger targets, clinging to them and treating them as flat-footed
-**Beastmastery Sphere**–**Packages**ride;**Talents** Animal Companion (x2); (ride) Wild Rider
+**Beastmastery Sphere** – **Packages** ride; **Talents** Animal Companion (x2); (ride) Wild Rider
 • (ride)
 ◊ Defensive Rider (ride); may attempt Ride check as an aoo in place of your mount’s AC or Reflex
 ◊ Wild Rider (ride); any creature serving as your mount counts as tame and combat trained; +1 bonus to stay mounted and never fall out of your mount
-**Duelist Sphere**–**Talents**Long Cuts;**Drawbacks** Bloody Slasher (no disarm benefits)
+**Duelist Sphere** – **Talents** Long Cuts; **Drawbacks** Bloody Slasher (no disarm benefits)
 • Long Cuts; target must receive 5 healing or DC 20 Heal to stop bleeding
 • blooded strike (attack action, deal +1 bleeding damage)
 **Fencing Sphere**
@@ -50,8 +50,8 @@ CN Small humanoid (goblinoid)
 **During Combat** A freeloader will command its trusty steed to charge into battle, staying in the back with their firearm until they see an opportunity to move in with their dagger, clinging to foes with the Athletics sphere Scale Foe talent.
 
 **Statistics**
-**Str**12,**Dex**20,**Con**16,**Int**8,**Wis**8,**Cha** 10
-**Base Atk**+3;**CMB**+3;**CMD** 18
+**Str** 12, **Dex** 20, **Con** 16, **Int** 8, **Wis** 8, **Cha** 10
+**Base Atk** +3; **CMB** +3; **CMD** 18
 **Feats** Extra Combat Talent (x2)
 **Skills** Disable Device +9, Escape Artist +12, Handle Animal
 +4, Knowledge (local) +6, Linguistics +3, Sleight of Hand +12, Stealth +20, Survival +3; **Associated Skills** Acrobatics +15, Bluff +7, Climb +13, Ride +13
@@ -70,22 +70,22 @@ A goblin dog adopted by a goblin, now serving as their trusty steed.
 
 **XP** 0
 N Small animal
-**Init**+3;**Senses**low-light vision, scent;**Perception** +1
+**Init** +3; **Senses** low-light vision, scent; **Perception** +1
 
 **Defense**
-**AC**14,**touch**14,**flat-footed** 11 (+3 Dex, +1 size)
+**AC** 14, **touch** 14, **flat-footed** 11 (+3 Dex, +1 size)
 **hp** 20 (4d8+4)
-**Fort**+6,**Ref**+7,**Will** +2
+**Fort** +6, **Ref** +7, **Will** +2
 **Defensive Abilities** evasion
 
 **Offense**
 **Speed** 50 ft.
 **Melee** bite +4 (1d4+1 plus allergic reaction)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 
 **Statistics**
-**Str**12,**Dex**16,**Con**11,**Int**2,**Wis**12,**Cha** 8
-**Base Atk**+3;**CMB**+3;**CMD** 16 (20 vs. trip)
+**Str** 12, **Dex** 16, **Con** 11, **Int** 2, **Wis** 12, **Cha** 8
+**Base Atk** +3; **CMB** +3; **CMD** 16 (20 vs. trip)
 **Feats** Light Armor Proficiency
 **Skills** Stealth +10
 **SQ** link, share spells, tricks (attack, defend, fetch, track)
@@ -101,12 +101,12 @@ The burly, rugged individual sneers at you before pulling a hefty sledgehammer o
 **XP** 1,200
 Half-orc barbarian (ferocious brute) 5
 NE Medium humanoid (human, orc)
-**Init**+2;**Senses**darkvision 60 ft.;**Perception** +8
+**Init** +2; **Senses** darkvision 60 ft.; **Perception** +8
 
 **Defense**
-**AC**18,**touch**18,**flat-footed** 14 (+4 armor, +4 Str)
+**AC** 18, **touch** 18, **flat-footed** 14 (+4 armor, +4 Str)
 **hp** 50 (5d12+15)
-**Fort**+8,**Ref**+4,**Will** +2
+**Fort** +8, **Ref** +4, **Will** +2
 **Defensive Abilities** orc ferocity, stalwart, unarmored training +4
 
 **Offense**
@@ -115,14 +115,14 @@ NE Medium humanoid (human, orc)
 **Special Attacks** rage (20 rounds/day), rage powers (superstition +3)
 
 **Combat**
-**Martial Tradition**Wandering Martial Artist (Equipment x3, Gladiator);**PAM** Con
-**Berserker Sphere**–**Talents** Beat Down
+**Martial Tradition** Wandering Martial Artist (Equipment x3, Gladiator); **PAM** Con
+**Berserker Sphere** – **Talents** Beat Down
 • brutal strike (special attack action, hit targets are battered for 3 rounds; expend martial focus +10 damage); Beat Down (damaged targets are batted for **PAM** rounds)
-**Equipment Sphere**–**Talents**Unarmored Training, Versatile Training; (discipline) Dwarven Heritage;**Legendary Talents** Force Redirection Technique
+**Equipment Sphere** – **Talents** Unarmored Training, Versatile Training; (discipline) Dwarven Heritage; **Legendary Talents** Force Redirection Technique
 • Force Redirection Technique; use Strength instead of Dexterity for armor class (max +5)
 • Unarmored Training; +4 armor bonus, applies against touch
 • Versatile Training (stance); gain 3 stances (offensive, defensive, and recovery) with benefits while in each stance, swift action to assume stance for 1 round, expend martial focus to extend to **PAM** rounds
-**Gladiator Sphere**–**Talents**Master Of Fear, Uncowed; (demoralize) Coward’s Bane;**Drawbacks** Humble Combatant (no boasts)
+**Gladiator Sphere** – **Talents** Master Of Fear, Uncowed; (demoralize) Coward’s Bane; **Drawbacks** Humble Combatant (no boasts)
 • Uncowed; +2 vs. fear effects and DC to intimidate you, when a creature fails to intimidate you or you save vs. a fear effect, may expend martial focus to intimidate the target
 • strike fear (standard action, expend martial focus, demoralize 30-ft. radius; apply (demoralization) to enemies shaken); Master Of Fear (may use strike fear as a standard action w/o expending martial focus); (demoralize) additional effects vs. feared targets
 ◊ Coward’s Bane (demoralize); roll twice, take better result when attacking a demoralized target
@@ -131,13 +131,13 @@ NE Medium humanoid (human, orc)
 If a bruiser has time to prepare, they will drink their gravely tonic to improve their Intimidate checks. Bruisers usually try to size up against the most powerful-looking foe to crush their morale, using the Bludgeoner and Enforcer feats. Once a bruiser is injured, they will usually begin to rage, taking advantage of the temporary hit points and increased statistics.
 
 **Statistics**
-**Str**18,**Dex**14,**Con**16,**Int**7,**Wis**10,**Cha** 12
-**Base Atk**+5;**CMB**+9;**CMD** 21
-**Feats**Bludgeoner, Enforcer, Intimidating Prowess;**Favored Class Bonus** +5 rage rounds
+**Str** 18, **Dex** 14, **Con** 16, **Int** 7, **Wis** 10, **Cha** 12
+**Base Atk** +5; **CMB** +9; **CMD** 21
+**Feats** Bludgeoner, Enforcer, Intimidating Prowess; **Favored Class Bonus** +5 rage rounds
 **Skills** Intimidate +17, Knowledge (local) +3, Perception +8
 **Languages** Common, Orcish
 **SQ** orc blood, weapon familiarity
-**Combat Gear**gravely tonic, minor revitalization potion (2), standard healing potion (2);**Other Gear** masterwork earth breaker, cape of resistance +1, magical toolkit (Intimidate) +2
+**Combat Gear** gravely tonic, minor revitalization potion (2), standard healing potion (2); **Other Gear** masterwork earth breaker, cape of resistance +1, magical toolkit (Intimidate) +2
 
 **Description**
 The Blackthorn Consortium takes into their ranks those eager to cause mayhem and crush things, training them as bruisers for train and caravan heists as well as reliable muscle to carry out plundered goods once the fighting is done.
@@ -152,12 +152,12 @@ The smell of sulfur clings to this person’s jacket, a rifle strewn across thei
 **XP** 1,600
 Human conscript 6
 NE Medium humanoid (human)
-**Init**+6;**Senses** **Perception** +7
+**Init** +6; **Senses** **Perception** +7
 
 **Defense**
-**AC**20**touch**15,**flat-footed** 16 (+5 armor, +1 deflection, +4 Dex)
+**AC** 20 **touch** 15, **flat-footed** 16 (+5 armor, +1 deflection, +4 Dex)
 **hp** 43 (5d10+10)
-**Fort**+4,**Ref**+8,**Will** -1
+**Fort** +4, **Ref** +8, **Will** -1
 
 **Offense**
 **Speed** 30 ft.
@@ -166,22 +166,22 @@ NE Medium humanoid (human)
 **Special Attacks** utility shot
 
 **Combat**
-**Martial Tradition**Desperado (Equipment x2, Sniper, Trap);**PAM** Cha
+**Martial Tradition** Desperado (Equipment x2, Sniper, Trap); **PAM** Cha
 **Barrage Sphere**
 • barrage (special attack action; two ranged attacks at -2 penalty; martial focus, +1 attack at -4 penalty)
-**Equipment Sphere**–**Talents** Expert Reloading, Mechanical Savant, Steady Shooting; (discipline) Firearm Proficiency
+**Equipment Sphere** – **Talents** Expert Reloading, Mechanical Savant, Steady Shooting; (discipline) Firearm Proficiency
 • Expert Reloading; reduce reloading speeds by 1 step
 • Mechanical Savant; +3 bonus on damage rolls with crossbows and firearms
 • Steady Shooting; use firearm vs. normal AC, increase range increment by +20 ft. and ignore misfire chance
-**Scout Sphere**–**Talents** Deadly Strike
+**Scout Sphere** – **Talents** Deadly Strike
 • Deadly Strike; attacks made against unaware creatures deal +3 damage, or +6 if scouted
 • scout (swift action Perception check -5 vs. DC to identify, learn weaknesses)
-**Sniper Sphere**–**Talents** Focusing Reload; (snipe) Head Shot, Hindering Projectiles
+**Sniper Sphere** – **Talents** Focusing Reload; (snipe) Head Shot, Hindering Projectiles
 • Focusing Reload; regain martial focus when reloading as a move action
 • deadly shot (special attack action; add one (snipe); expend martial focus, +2d10 or 2d6 if vs. touch); (snipe) DC 17
 ◊ Head Shot (snipe); if deadly shot deals at least 50% of target’s current hit points, Fortitude save or die
 ◊ Hindering Projectiles (snipe); on success, shrapnel embedded, imposing -2 penalty on attack rolls, AC, and CMD. This penalty stacks. Can be removed as a move action, or all with a full-round action.
-**Trap Sphere**– Perception DC 16;**Talents**Razor Wire, Trap Launcher [trap statistics]**AC**16,**hp** 20, hardness 6, Perception DC 16, area 2 5-ft. squares, DC 17 Reflex
+**Trap Sphere** – Perception DC 16; **Talents** Razor Wire, Trap Launcher [trap statistics] **AC** 16, **hp** 20, hardness 6, Perception DC 16, area 2 5-ft. squares, DC 17 Reflex
 • Razor Wire; triggered tripwire snare deals +3d6 slashing to target, otherwise functions as tripwire
 • Trap Launcher; may increase DC to create trap to place it within first range increment; if you possess Sniper sphere, may use as a (snipe) to launch directly at creatures, who attempt a Reflex save to negate the trap’s effects.
 • dart (full-round action [standard action while maintaining focus], ranged attack, 40-ft. line, 3d6; or ranged touch w/o base damage using alchemical item or formulae)
@@ -189,13 +189,13 @@ NE Medium humanoid (human)
 ◊ Tripwire (snare); Reflex save or knocked prone
 
 **Statistics**
-**Str**10,**Dex**18,**Con**12,**Int**7,**Wis**7,**Cha** 18
-**Base Atk**+6 (+7 with Sniper);**CMB**+6;**CMD** +20
+**Str** 10, **Dex** 18, **Con** 12, **Int** 7, **Wis** 7, **Cha** 18
+**Base Atk** +6 (+7 with Sniper); **CMB** +6; **CMD** +20
 **Feats** Deadly Aim, Skill Focus (Stealth), Toughness, Weapon Focus (musket)
-**Skills**Bluff +13, Intimidate +13, Perception +7;**Associated Skills** Craft (traps) +6, Stealth +16
+**Skills** Bluff +13, Intimidate +13, Perception +7; **Associated Skills** Craft (traps) +6, Stealth +16
 **Languages** Common
 **SQ** blackpowder training, deeds (quick clear, gunslinger initiative, utility shot), sphere specialization (Sniper)
-**Combat Gear**common cure (3);**Other Gear** dagger, masterwork musket with 40 paper cartridges, pistol with 10 paper cartridges, +1 chain shirt, ring of shielding +1
+**Combat Gear** common cure (3); **Other Gear** dagger, masterwork musket with 40 paper cartridges, pistol with 10 paper cartridges, +1 chain shirt, ring of shielding +1
 
 **Description**
 Skilled and full of bravado, a blackthorn fusilier is the heart of a consortium’s operations, whether by raids or defense of their homes and forts. These marksmen take difficult, long-range shots to disable and mortally wound their quarry.
@@ -208,12 +208,12 @@ This goblin is covered with scorch marks and burns across both their skin and cl
 **XP** 1,600
 Goblin alchemist (eldritch infuser) 6
 CE Small humanoid (goblinoid)
-**Init**+4;**Senses**darkvision 60 ft.;**Perception** +7
+**Init** +4; **Senses** darkvision 60 ft.; **Perception** +7
 
 **Defense**
-**AC**19,**touch**15,**flat-footed** 15 (+4 armor, +4 Dex, +1 size)
+**AC** 19, **touch** 15, **flat-footed** 15 (+4 armor, +4 Dex, +1 size)
 **hp** 39 (6d8+6)
-**Fort**+6,**Ref**+9,**Will** +2; +2 vs. your own alchemical items (risky business)
+**Fort** +6, **Ref** +9, **Will** +2; +2 vs. your own alchemical items (risky business)
 **Resist** fire 6
 
 **Offense**
@@ -225,23 +225,23 @@ CE Small humanoid (goblinoid)
 **Combat**
 **Martial Tradition** Mechanic (Equipment x2, Trap, Barrage);
 **PAM** Int
-**Alchemy Sphere**–**Packages** formulae; Talents
+**Alchemy Sphere** – **Packages** formulae; Talents
 Demolishing Chemistry, Fuse Master, Risky Business; (formulae) Improved Fuse Grenade
 • Demolishing Chemistry; formulae deal full damage vs. objects, plus an additional +12 damage if unattended. If the formule destroys terrain (such as a wall), it can affect creatures or objects on the other side after damage done to said terrain
 • Risky Business; gain +2 to saving throws against any alchemical item you use; whenever you and an adjacent creature are both affected by your alchemical items, you can forgo bonus, applying it as a penalty to that creature’s AC and saving throws against the alchemical item
 • formulae, use Craft (alchemy) +13; can prepare up to 4 formulae; DC 17
 ◊ Improved Fuse Grenade (formulae); standard action, detonates after 1d3 rounds, 4d6 bludgeoning and 4d6 fire damage in 20-ft. radius, Reflex for half
 - Fuse Master; may choose when an improved fuse grenade explodes (within normal limits), even at the end of the same turn; overlapping areas have diminishing returns
-**Barrage Sphere**–**Talents** Augmented Grip; (blitz) Suppressing Fire
+**Barrage Sphere** – **Talents** Augmented Grip; (blitz) Suppressing Fire
 • Augmented Grip; reduce attack penalty by 1 when using barrage
 • barrage (special attack action; two ranged attacks at -2 penalty; add one (blitz) to each additional attack)
 ◊ Suppressing Fire (blitz); make 1 additional attack, targeting the same creature; that creature may evade both attacks, but suffers a -3 penalty on attack rolls and Perception checks for 1 round
-**Equipment Sphere**–**Talents** Expert Reloading, Mechanical Training; (discipline) Mechanical Savant
+**Equipment Sphere** – **Talents** Expert Reloading, Mechanical Training; (discipline) Mechanical Savant
 • Expert Reloading; reduce reload speed by 1 step
 • Mechanical Savant (discipline); gain proficiency with battle wrench and crossbows; reduce penalty to use crossbows one-handed
 • Mechanical Training; deal +2 damage with mechanical weapons (crossbows, firearms)
-**Trap Sphere**– Perception DC 23;**Talents**Trapper’s Recovery, Opportunist, Persistent Trapper, Sneaky Trapper, Stop Drop And Control; (snare) Terrain Trap;**Drawback** Focused Trapper (dart)
-[trap statistics] **AC**16,**hp** 20, hardness 6, Perception DC 23, area 2 5-ft. squares, DC 17 Reflex
+**Trap Sphere** – Perception DC 23; **Talents** Trapper’s Recovery, Opportunist, Persistent Trapper, Sneaky Trapper, Stop Drop And Control; (snare) Terrain Trap; **Drawback** Focused Trapper (dart)
+[trap statistics] **AC** 16, **hp** 20, hardness 6, Perception DC 23, area 2 5-ft. squares, DC 17 Reflex
 • Opportunist; creatures that fail their saving throw provoke an attack of opportunity; may make this attack with a ranged weapon
 • Persistent Trapper; increase time to set trap to 1 minute, increase trap duration by 10 minutes per 5 your Craft check exceeds the DC (max. 2 persistent traps)
 • Sneaky Trapper; may perform Sleight of Hand (DC 11 + observer’s modifier) to play trap without it being noticed; use highest perception modifier if multiple observers
@@ -252,10 +252,10 @@ Demolishing Chemistry, Fuse Master, Risky Business; (formulae) Improved Fuse Gre
 ◊ Terrain Trap (snare); Reflex save or 15-ft. difficult terrain created, can be immediately triggered when created. Hazardous terrain deals 2d6 damage (Reflex half) to creatures in its area
 
 **Magic**
-**Casting Tradition**Apothecary (Material Casting, Skilled Casting (Craft [alchemy]));**CAM** Int
-**CL**4 (6 w/ Destruction);**MSB**+6;**MSD**17;**Concentration** +10
+**Casting Tradition** Apothecary (Material Casting, Skilled Casting (Craft [alchemy])); **CAM** Int
+**CL** 4 (6 w/ Destruction); **MSB** +6; **MSD** 17; **Concentration** +10
 **Spell Points** 12
-**Destruction Sphere**–**Talents**(blast shape) Energy Wall, Retributive Blast; (blast type) Searing Blast;**Drawback** Energy Focus (fire)
+**Destruction Sphere** – **Talents** (blast shape) Energy Wall, Retributive Blast; (blast type) Searing Blast; **Drawback** Energy Focus (fire)
 • destructive blast, close (40 ft.), DC 17; 3d6 damage, +1 sp 6d6; use with (blast shape), inflict a (blast type)
 ◊ (blast shape)
 - Ray (default) (blast shape); melee touch +9 or ranged touch ray (40 ft.) +9
@@ -269,9 +269,9 @@ Demolishing Chemistry, Fuse Master, Risky Business; (formulae) Improved Fuse Gre
 **During Combat** The firestarter will withdraw, laying more traps with bombs and use their crossbow to take shots at oncoming enemies or creating walls of fire to force opponents through his traps.
 
 **Statistics**
-**Str**8,**Dex**18,**Con**12,**Int**18,**Wis**10,**Cha** 8
-**Base Atk**+4;**CMB**+2;**CMD** 16
-**Feats**Extra Combat Talent (x5), Throw Anything;**Favored Class Bonus** (alchemist) +6 fire resistance
+**Str** 8, **Dex** 18, **Con** 12, **Int** 18, **Wis** 10, **Cha** 8
+**Base Atk** +4; **CMB** +2; **CMD** 16
+**Feats** Extra Combat Talent (x5), Throw Anything; **Favored Class Bonus** (alchemist) +6 fire resistance
 **Skills** Climb +10, Disable Device +13, Heal +9, Perception +9, Sleight of Hand +13, Stealth +18, Use Magic Device +8;
 **Associated Skills** Craft (alchemy) +13, Craft (traps) +13
 **Languages** Common, Goblin, Draconic, Orc, Gnoll
@@ -292,12 +292,12 @@ A heavily armored warrior clad head to toe in black plate barks orders to their 
 **XP** 4,800
 Human conscript 9
 CE Medium humanoid (human)
-**Init**+6;**Senses** **Perception** +14
+**Init** +6; **Senses** **Perception** +14
 
 **Defense**
-**AC**27,**touch**16,**flat-footed** 25 (+11 armor, +2 Dex, +4 shield)
+**AC** 27, **touch** 16, **flat-footed** 25 (+11 armor, +2 Dex, +4 shield)
 **hp** 76 (9d10+28)
-**Fort**+9,**Ref**+9,**Will** +6
+**Fort** +9, **Ref** +9, **Will** +6
 **Defensive Abilities** triumphant stand (if lowered to 0 hp, allies may aid another your AC, which may prevent the attack)
 
 **Offense**
@@ -306,10 +306,10 @@ CE Medium humanoid (human)
 **Special Attacks** precise strike +1d6, sneak attack +3d6
 
 **Combat**
-**Martial Tradition**Knightly Arts (Equipment x3, Warleader);**PAM** Wis
-**Equipment Sphere**–**Talents** Armor Expert, Armor Training, Throwing Mastery; (discipline) Knightly Training, Shield Training
+**Martial Tradition** Knightly Arts (Equipment x3, Warleader); **PAM** Wis
+**Equipment Sphere** – **Talents** Armor Expert, Armor Training, Throwing Mastery; (discipline) Knightly Training, Shield Training
 • Throwing Mastery; thrown weapons return
-**Shield Sphere**–**Talents** Cover Ally, Deflecting Shield, Interposing Shield
+**Shield Sphere** – **Talents** Cover Ally, Deflecting Shield, Interposing Shield
 • Deflecting Shield; shield bonus applies to touch
 • Cover Ally; may grant active defense to adjacent allies
 • Interposing Shield; creatures benefiting from active defense gain DR 4/– against the incoming attack
@@ -333,13 +333,13 @@ CE Medium humanoid (human)
 **During Combat** The strike leader utilizes aggressive flanking to deal precision damage, or protects his allies with Shieldbrothers. Active defense grants additional AC and DR while pushing forward with more shouts using Triumph. The strike leader’s flag inspires his allies, and without it, he suffers penalties.
 
 **Statistics**
-**Str**18**Dex**14,**Con**14,**Int**13,**Wis**14,**Cha** 10
-**Base Atk**+9**CMB**+13;**CMD** +26
+**Str** 18 **Dex** 14, **Con** 14, **Int** 13, **Wis** 14, **Cha** 10
+**Base Atk** +9 **CMB** +13; **CMD** +26
 **Feats** Extra Combat Talent, Great Focus, Improved Initiative, Muscular Reflexes, Outflank, Precise Strike, Shield Brace, Weapon Focus (longspear)
-**Skills**Climb +12, Intimidate +12, Perception +14, Sense Motive +14, Survival +14;**Associated Skill** Diplomacy +13
+**Skills** Climb +12, Intimidate +12, Perception +14, Sense Motive +14, Survival +14; **Associated Skill** Diplomacy +13
 **Languages** Common, Orc
 **SQ** sneak attack, sphere specialization (Warleader)
-**Combat Gear**improved healing potion (3);**Other Gear** +1 longspear, +1 plate armor, +1 impervious heavy steel shield, blackthorn flag, portable ram
+**Combat Gear** improved healing potion (3); **Other Gear** +1 longspear, +1 plate armor, +1 impervious heavy steel shield, blackthorn flag, portable ram
 
 **Description**
 Strike leaders are the strong, destructive arms of the Blackthorns, carrying the tattered standard to lead their strike team. Strike teams are often deployed to strike fear into organizations and individuals which have taken steps against the Blackthorn, failed to pay tribute, or are simply in the possession of something the Blackthorn needs for their organization’s efforts.
@@ -351,12 +351,12 @@ The smell of black powder seems to trail this man, his coat and hands are singed
 **XP** 25,600
 Male human conscript 13
 CN Medium humanoid (human)
-**Init**+12;**Senses** **Perception** +21
+**Init** +12; **Senses** **Perception** +21
 
 **Defense**
-**AC**30,**touch**19,**flat-footed** 24 (+8 armor, +3 deflection, +6 Dex, +3 natural)
+**AC** 30, **touch** 19, **flat-footed** 24 (+8 armor, +3 deflection, +6 Dex, +3 natural)
 **hp** 120 (13d10+26)
-**Fort**+13,**Ref**+17,**Will** +16
+**Fort** +13, **Ref** +17, **Will** +16
 
 **Offense**
 **Speed** 30 ft.
@@ -364,8 +364,8 @@ CN Medium humanoid (human)
 **Special Attacks** weapon training (firearms +2), staggering critical (DC 23)
 
 **Combat**
-**Martial Tradition**Spitfire (Dual Wielding x2, Equipment x2);**PAM** Wis
-**Barrage Sphere**–**Talents**Augmented Grip, Close Combat Specialist, Mobile Focus, Vigilant Sharpshooter; (blitz) Arrow Split, Redirection;**Legendary Talents** Ceaseless Ammo,
+**Martial Tradition** Spitfire (Dual Wielding x2, Equipment x2); **PAM** Wis
+**Barrage Sphere** – **Talents** Augmented Grip, Close Combat Specialist, Mobile Focus, Vigilant Sharpshooter; (blitz) Arrow Split, Redirection; **Legendary Talents** Ceaseless Ammo,
 Cone Of Death (x2), Death Blossom
 • barrage (special attack action; two ranged attacks at -2 penalty; martial focus, +1 or 2 attacks at -4 or -6 penalty, add one (blitz) to each additional attack); (blitz) DC 21
 ◊ Arrow Spit (blitz); deal full damage to objects, apply DR/hardness once against attacks
@@ -378,7 +378,7 @@ each target’s AC
 ◊ Death Blossom; when using cone of death, can change area to burst centered on self
 • Mobile Focus; regain martial focus after moving more than 10 ft., but no more than half speed
 • Vigilant Sharpshooter; while maintaining martial focus, threaten squares with ranged weapon; do not provoke when making an attack of opportunity with a ranged weapon
-**Dual Wielding Sphere**–**Talents**Balanced Blows, Critical Follow Up, Focusing Defense, Following Strike, Impossible Reload;**Legendary Talents** Three Sword Style
+**Dual Wielding Sphere** – **Talents** Balanced Blows, Critical Follow Up, Focusing Defense, Following Strike, Impossible Reload; **Legendary Talents** Three Sword Style
 • Critical Follow Up; Increase the threat range of offhand attacks by 2 if the attack action is successful.
 • dual attack (attack action; primary and off-hand attack at -2)
 ◊ Balanced Blows; reduce dual attack penalty by 1/2
@@ -386,12 +386,12 @@ each target’s AC
 • Focusing Defense; move action, regain focus and gain +2 AC and CMD for 1 round
 • Impossible Reload; can reload w/o a free hand; treat ranged weapons wieldable in 1 hand as light for dual attack penalties
 • Three Sword Style; wield weapons in mouth; spend immediate action when performing a dual attack to make an additional off-hand attack
-**Equipment Sphere**–**Talents** Critical Genius, Expert Reloading, Mechanical Savant, Weaponmaster; (discipline) Firearm Proficiency
+**Equipment Sphere** – **Talents** Critical Genius, Expert Reloading, Mechanical Savant, Weaponmaster; (discipline) Firearm Proficiency
 • Critical Genius (dragoon pistol); increase weapon’s critical range to 18-20, set multiplier to x2; add +6 as additional damage on critical hits
 • Expert Reloading; reduce reload speed by 1 step
 • Mechanical Savant; ranged attacks with crossbows and firearms add +6 damage
 • Weaponmaster; change weapon’s damage type as free action (bludgeoning, piercing, slashing)
-**Sniper Sphere**–**Talents** Perfect Shot, Unblockable
+**Sniper Sphere** – **Talents** Perfect Shot, Unblockable
 • deadly shot (special attack action; add one (snipe); expend martial focus, +4d10 or 4d6 if vs. touch); (snipe) DC 21
 • Perfect Shot; roll twice vs. concealment, do not miss due to natural 1s, reroll a natural 1/round
 • Unblockable; creature must succeed a magic skill/combat maneuver check vs. your attack roll should they attempt to automatically deflect or stop a ranged attack.
@@ -405,15 +405,15 @@ When outnumbered, Cone Of Death and Death Blossom allows Egads to shred through 
 Egads can continue shooting no matter what, without fear of running low on bullets, because of the Ceaseless Ammo legendary talent.
 
 **Statistics**
-**Str**12,**Dex**22,**Con**14,**Int**12,**Wis**20,**Cha** 12
-**Base Atk**+13;**CMB**+14;**CMD** +33
+**Str** 12, **Dex** 22, **Con** 14, **Int** 12, **Wis** 20, **Cha** 12
+**Base Atk** +13; **CMB** +14; **CMD** +33
 **Feats** Critical Focus, Deadly Aim, Great Focus, Gunsmith, Redirected Shot, Staggering
 Critical, Weapon Focus (dragoon pistol);
 **Favored Class Bonus** +2 combat talents
 **Skills** Acrobatics +19, Intimidate +17, Perception +21, Sense Motive +21, Stealth +22, Survival +21
 **Languages** Common, Orc
 **SQ** black powder training, exceptional resources, gunslinger deeds (gunslinger initiative, quick clear, utility shot), indomitable will
-**Combat Gear**greater healing potion (2);**Other Gear** +3 dragoon pistol, +3 dragoon pistol, +2 dragoon pistol, +3 mithral chain shirt, necklace of natural armor +3, belt of avian speed +4, cape of resistance +3, headband of sages +4, ring of shielding +3, timeshifting gloves, alchemical bullets (30), assorted jewelry worth 100 gp, blackthorn consortium wax seal
+**Combat Gear** greater healing potion (2); **Other Gear** +3 dragoon pistol, +3 dragoon pistol, +2 dragoon pistol, +3 mithral chain shirt, necklace of natural armor +3, belt of avian speed +4, cape of resistance +3, headband of sages +4, ring of shielding +3, timeshifting gloves, alchemical bullets (30), assorted jewelry worth 100 gp, blackthorn consortium wax seal
 
 **Special Abilities**
 **Exceptional Resources (Ex):** Ren “Gunbreaker” Egads has the wealth of a PC rather than an NPC. This increases his CR by 1.
@@ -437,12 +437,12 @@ This bald-shaven, pale individual seems barely aware of you, mumbling incoherent
 **XP** 400
 Human thaumaturge 2
 LE Medium humanoid (human)
-**Init**+2;**Senses** **Perception** +5
+**Init** +2; **Senses** **Perception** +5
 
 **Defense**
-**AC**13,**touch**13,**flat-footed** 11 (+1 armor, +2 Dex)
+**AC** 13, **touch** 13, **flat-footed** 11 (+1 armor, +2 Dex)
 **hp** 16 (2d8+8)
-**Fort**+6,**Ref**+2,**Will** +6; -2 vs. mind-affecting
+**Fort** +6, **Ref** +2, **Will** +6; -2 vs. mind-affecting
 **Weaknesses** easily influenced
 
 **Offense**
@@ -451,11 +451,11 @@ LE Medium humanoid (human)
 **Special Attacks** forbidden lore (+2 CL; 15% backlash), invocations (4/day)
 
 **Magic**
-**Casting Tradition**Bloodletting (Draining Casting, Focus Casting (ritual knife), Magical Signs, Painful Magic, Somatic Casting);**Boons** Fortified Casting, Sanguine Empowerment;
+**Casting Tradition** Bloodletting (Draining Casting, Focus Casting (ritual knife), Magical Signs, Painful Magic, Somatic Casting); **Boons** Fortified Casting, Sanguine Empowerment;
 **CAM** Con
-**CL**2;**MSB**+2;**MSD**13;**Concentration** +6
+**CL** 2; **MSB** +2; **MSD** 13; **Concentration** +6
 **Spell Points** 7
-**Blood Sphere**–**Talents** (blood art) Blood Rebuff, Martyr’s Tithings
+**Blood Sphere** – **Talents** (blood art) Blood Rebuff, Martyr’s Tithings
 • blood control, close (30 ft. [35 ft.]), DC 15 (16) Fortitude; establish control for 3 (5) rounds with a (quicken) or (still)
 ◊ Bleed (quicken); inflict 2 [4] bleed
 ◊ Coagulate (still); reduce bleed by 2 [4]
@@ -470,8 +470,8 @@ LE Medium humanoid (human)
 **During Combat** Supplicants lack a strong sense of free will, and will blindly follow orders, even harmful ones, at the request of a higher member of the clergy.
 
 **Statistics**
-**Str**10,**Dex**14,**Con**18,**Int**10,**Wis**16,**Cha** 10
-**Base Atk**+1;**CMB**+1;**CMD** +3
+**Str** 10, **Dex** 14, **Con** 18, **Int** 10, **Wis** 16, **Cha** 10
+**Base Atk** +1; **CMB** +1; **CMD** +3
 **Feats** Great Fortitude, Toughness
 **Skills** Knowledge (arcana, religion) +5, Perception +5, Sense Motive +8, Spellcraft +5
 **Languages** Common
@@ -494,12 +494,12 @@ This thin, lanky figure clad in deep purple robes holds their arms out with a we
 **XP** 600
 Human Incanter 3
 NE Medium humanoid (human)
-**Init**+2;**Senses** **Perception** +10
+**Init** +2; **Senses** **Perception** +10
 
 **Defense**
-**AC**13,**touch**12,**flat-footed** 11 (+1 armor, +2 Dex)
+**AC** 13, **touch** 12, **flat-footed** 11 (+1 armor, +2 Dex)
 **hp** 20 (3d6+9)
-**Fort**+4,**Ref**+3,**Will** +7
+**Fort** +4, **Ref** +3, **Will** +7
 **Defensive Abilities** bolstering presence (free action, gain 3
 temporary hit points; 7/day)
 
@@ -510,16 +510,16 @@ temporary hit points; 7/day)
 
 **Magic**
 **Casting Tradition** Dreamer (Mental Focus, Verbal Casting);
-**Boons**Overcharge;**CAM** Wis
-**CL**3 (4 w/ Life);**MSB**+3;**MSD**14;**Concentration** +7
+**Boons** Overcharge; **CAM** Wis
+**CL** 3 (4 w/ Life); **MSB** +3; **MSD** 14; **Concentration** +7
 **Spell Points** 10
-**Life Sphere**–**Talents** Affliction; (cure) Restore Spirit
+**Life Sphere** – **Talents** Affliction; (cure) Restore Spirit
 • Affliction; may use cure and restore offensively (Will half) as a melee touch attack; deals damage equal to normal cure or inflicts conditions (exhausted 2d6 rounds, or block magical healing for 2d6 rounds)
 • cure, touch, DC 17; cure 1d8+8 hit points, 1 sp
 • invigorate, touch, DC 17; 4 temporary hp
 • restore, touch, DC 17; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
 ◊ Restore Spirit (cure); when restoring soul, target is cured of all ability damage and drain to to 1 score, as well as 1 temporary negative level (or suppresses a permanent negative level)
-**Mind Sphere**–**Talents** Expanded Charm; (charm) Command, Read Mind, Sleep; (cloud) Lure
+**Mind Sphere** – **Talents** Expanded Charm; (charm) Command, Read Mind, Sleep; (cloud) Lure
 • Expanded Charm; (charm) effects may affect creatures of any type
 • charm, close (30 ft.), DC 16; place a (charm) on target, Will negates if unwilling
 ◊ Read Mind (charm); pull information from target’s mind
@@ -538,8 +538,8 @@ temporary hit points; 7/day)
 - greater cloud (same as lesser cloud, but up to medium range and lasts for 3 hours)
 
 **Statistics**
-**Str**10,**Dex**14,**Con**16,**Int**10,**Wis**18,**Cha** 10
-**Base Atk**+1;**CMB**+1;**CMD** +13
+**Str** 10, **Dex** 14, **Con** 16, **Int** 10, **Wis** 18, **Cha** 10
+**Base Atk** +1; **CMB** +1; **CMD** +13
 **Feats** Extra Spell Points, Sphere Focus (Life), Weapon Finesse
 **Skills** Heal +10, Knowledge (arcana, religion) +6, Spellcraft +6
 **Languages** Common, Draconic
@@ -558,12 +558,12 @@ A zealot wrapped in chains and the vestments of a slumbering god wanders the str
 **XP** 600
 Reptoid wraith 3
 NE Medium humanoid (reptilian, shapechanger)
-**Init**-1;**Senses**low-light vision;**Perception** +0
+**Init** -1; **Senses** low-light vision; **Perception** +0
 
 **Defense**
-**AC**14,**touch**9,**flat-footed** 14 (+4 armor, -1 Dex, +1 natural)
+**AC** 14, **touch** 9, **flat-footed** 14 (+4 armor, -1 Dex, +1 natural)
 **hp** 21 (3d8+6)
-**Fort**+3,**Ref**+2,**Will** +3; +2 vs. mind-affecting effects and poison
+**Fort** +3, **Ref** +2, **Will** +3; +2 vs. mind-affecting effects and poison
 **Defensive Abilities** Wraith Form (8 rounds per day)
 
 **Offense**
@@ -573,8 +573,8 @@ NE Medium humanoid (reptilian, shapechanger)
 **Special Attacks** possession (DC 16 Will save negates; path of the spook), consume host (1 sp, move action, 1d6 damage;DC 16 Fort save half)
 
 **Magic**
-**Casting Tradition**Mesmerist (Emotional Casting, Rigorous Concentration);**CAM** Cha
-**CL**2 (3 w/ Mind);**MSB**+3;**MSD**14;**Concentration** +8
+**Casting Tradition** Mesmerist (Emotional Casting, Rigorous Concentration); **CAM** Cha
+**CL** 2 (3 w/ Mind); **MSB** +3; **MSD** 14; **Concentration** +8
 **Spell Points** 10
 **Divination Sphere**
 • divine medium (120 ft.), DC 16; (gain information about magic auras within 120 ft.)
@@ -587,7 +587,7 @@ NE Medium humanoid (reptilian, shapechanger)
 • cure, touch, DC 16; cure 1d8+2 hit points, 1 sp
 • invigorate, touch, DC 16; grant 2 temporary hp
 • restore, touch, DC 16; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
-**Mind Sphere**–**Talents** Mass Charm, Powerful Charm; (charm) Fear, Paralyze
+**Mind Sphere** – **Talents** Mass Charm, Powerful Charm; (charm) Fear, Paralyze
 • Powerful Charm; may use powerful charm or cloud options, 2 sp
 • charm close (30 ft.), DC 16; place a (charm) on a target, or 3 targets with 1 sp
 ◊ Fear (charm); instill fear into target’s mind, Will negates
@@ -610,10 +610,10 @@ NE Medium humanoid (reptilian, shapechanger)
 **During Combat** During the first round of combat, a proselyte will either use their vanishing dust, or a Fear or Paralyze powerful charm, potentially targeting multiple enemies if they can. Once an enemy has been panicked or paralyzed, a proselyte will use their possession ability on a debilitated victim to actively possess them. While possessing a target, they will either use their consume host ability to drain away their health or force them to attack other enemies of the cult, if any.
 
 **Statistics**
-**Str**12,**Dex**8,**Con**14,**Int**8,**Wis**10,**Cha** 20
-**Base Atk**+2;**CMB**+3;**CMD** 12
+**Str** 12, **Dex** 8, **Con** 14, **Int** 8, **Wis** 10, **Cha** 20
+**Base Atk** +2; **CMB** +3; **CMD** 12
 **Feats** Extra Magical Talent (x2)
-**Skills**Bluff +11, Intimidate +11, Knowledge (religion) +5, Sense Motive +6;**Favored Class Bonus** +6 skill points
+**Skills** Bluff +11, Intimidate +11, Knowledge (religion) +5, Sense Motive +6; **Favored Class Bonus** +6 skill points
 **Languages** Common, Reptoid
 **SQ** change shape, haunt path (path of the spook), wraith haunts (consume host)
 **Combat Gear** lesser vanishing dust;
@@ -637,12 +637,12 @@ A cultist expert of infiltration. A mob of cultists is used to take out those me
 **XP** 800
 Human sage 4
 LN Medium humanoid (human)
-**Init**+4;**Senses** **Perception** +10
+**Init** +4; **Senses** **Perception** +10
 
 **Defense**
-**AC**18,**touch**18,**flat-footed** 14 (+4 Dex, +1 sage, +3 Wis)
+**AC** 18, **touch** 18, **flat-footed** 14 (+4 Dex, +1 sage, +3 Wis)
 **hp** 14 (4d6)
-**Fort**+4,**Ref**+8,**Will** +7
+**Fort** +4, **Ref** +8, **Will** +7
 
 **Offense**
 **Speed** 30 ft.
@@ -651,34 +651,34 @@ LN Medium humanoid (human)
 
 **Magic**
 **Casting Tradition** Somatic Casting x2;
-**Boons**Easy focus;**CAM** Wisdom
-**CL**4;**MSB**+4;**MSD**15;**Concentration** +7
+**Boons** Easy focus; **CAM** Wisdom
+**CL** 4; **MSB** +4; **MSD** 15; **Concentration** +7
 **Ki Points** 7 (a sage treats ki points as though they were spell points)
-**Life Sphere**–**Talents** (cure) Restore Health;
+**Life Sphere** – **Talents** (cure) Restore Health;
 **Drawbacks** Regenerate (only target self)
 • cure, touch, DC 16; cure 1d8+8 hit points, 1 sp
 • invigorate, touch, DC 16; grant 4 temporary hp
 • restore, touch, DC 16; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
 ◊ Restore Health (cure); when restoring body, completely remove exhausted and nauseated; may attempt magic skill check vs. disease and poisons
-**Warp Sphere**–**Talents** Distant Teleport, Pouncing Teleport;
+**Warp Sphere** – **Talents** Distant Teleport, Pouncing Teleport;
 **Drawbacks** Personal Warp (only target self)
 • teleport, personal, teleport self and heavy load close range (35 ft.); 1 sp, increase range to long (560)
 ◊ Pouncing Teleport; 1 sp or increasing cast time, make a single attack; additional 1 sp, may make attack action
 
 **Combat**
-**Martial Tradition**Ninjutsu (Equipment x2, Scoundrel, Scout);**PAM** Wis
-**Athletics Sphere**–**Packages**run;**Talents** (motion) Dizzying Tumble
+**Martial Tradition** Ninjutsu (Equipment x2, Scoundrel, Scout); **PAM** Wis
+**Athletics Sphere** – **Packages** run; **Talents** (motion) Dizzying Tumble
 • (motion); trigger a (motion) while moving using an Athletics sphere package; DC 14
 ◊ Dizzying Tumble (motion); When moving less than max speed, but not a 5-ft. step, and exiting a square adjacent to an enemy, target must succeed at Will save or be sickened for 1 round; 1/hour per target, can instead attempt to nauseate, or sicken with successful save
-**Duelist Sphere**–**Talents** …And Stay Down!
+**Duelist Sphere** – **Talents** …And Stay Down!
 • …And Stay Down!; when a creature lands prone, they provoke from you; your blooded strike deals +2 damage against such enemies. If successful and target bleeds, target must attempt an Acrobatics check to stand up (DC 14 + current bleed damage)
 • blooded strike; (deal +2 bleed damage with attack action or attack of opportunity; do not provoke vs. bleeding targets with combat maneuvers)
 **Dual Wielding Sphere**
 • dual attack (attack action; primary and off-hand attack at -2)
 **Scoundrel Sphere**
 • marked target (swift action, melee touch attack, inflict battered and -2 Perception penalty)
-**Equipment Sphere**–**Talents** Finesse Fighting, Monk Weapon Training
-**Scout Sphere**–**Talents** Hidden Appearance
+**Equipment Sphere** – **Talents** Finesse Fighting, Monk Weapon Training
+**Scout Sphere** – **Talents** Hidden Appearance
 • Hidden Appearance; may use Stealth modifier in place of Disguise to change appearance
 • scout (swift action, Perception check at -5 penalty to identify weaknesses)
 
@@ -689,10 +689,10 @@ LN Medium humanoid (human)
 If grouped with a stronger ally, mob cultists will try to heal them with chi gong and try to block enemies from grouping up on the ally.
 
 **Statistics**
-**Str**10,**Dex**19,**Con**10,**Int**10,**Wis**16,**Cha** 8
-**Base Atk**+2;**CMB**+6;**CMD** 20
+**Str** 10, **Dex** 19, **Con** 10, **Int** 10, **Wis** 16, **Cha** 8
+**Base Atk** +2; **CMB** +6; **CMD** 20
 **Feats** Agile Maneuvers, Extra Combat Talent (x2), Extra Magic Talent, Skill Focus (Stealth)
-**Skills**Climb +4, Escape Artist +9, Knowledge (religion) +7, Linguistics +1, Perception +10, Sleight of Hand +6;**Associated Skills** Acrobatics +9, Stealth +12
+**Skills** Climb +4, Escape Artist +9, Knowledge (religion) +7, Linguistics +1, Perception +10, Sleight of Hand +6; **Associated Skills** Acrobatics +9, Stealth +12
 **Languages** Human, Draconic
 **SQ** esoteric training (see packages), esotery (see packages)
 
@@ -729,12 +729,12 @@ An armored draconid wyvaran stands before you, who suddenly takes a larger form.
 **XP** 1,600
 Wyvaran mageknight (martial, resizer) 5
 NE Medium dragon
-**Init**+4;**Senses**darkvision 60 ft., low-light vision;**Perception** +1
+**Init** +4; **Senses** darkvision 60 ft., low-light vision; **Perception** +1
 
 **Defense**
-**AC**18,**touch**13,**flat-footed** 15 (+5 armor, +3 Dex)
+**AC** 18, **touch** 13, **flat-footed** 15 (+5 armor, +3 Dex)
 **hp** 59 (5d10+15)
-**Fort**+8,**Ref**+6,**Will** +6; +1 vs. spells, spell-like abilities, and magic sphere abilities
+**Fort** +8, **Ref** +6, **Will** +6; +1 vs. spells, spell-like abilities, and magic sphere abilities
 
 **Offense**
 **Speed** 30 ft., fly 30 ft. (clumsy)
@@ -743,12 +743,12 @@ NE Medium dragon
 **Special Attacks** size focus (7 rounds; move action or swift w/ 1 sp, Large or Tiny); slapping tail +8 (1d8+3) (opportunity attacks only)
 
 **Magic**
-**Casting Tradition**Bloodletting (Draining Casting, Focus Casting (ritual knife), Magical Signs, Painful Magic, Somatic Casting);**Boons** Fortified Casting, Sanguine Empowerment;
+**Casting Tradition** Bloodletting (Draining Casting, Focus Casting (ritual knife), Magical Signs, Painful Magic, Somatic Casting); **Boons** Fortified Casting, Sanguine Empowerment;
 **CAM** Con
-**CL**2 (5 w/ Alteration’s Size Change);**MSB**+5;**MSD** 16;
+**CL** 2 (5 w/ Alteration’s Size Change); **MSB** +5; **MSD** 16;
 **Concentration** +8
 **Spell Points** 9
-**Blood Sphere**–**Talents** Absorb Blood, Exsanguinating Strike, Hemorrhage, Lingering Control
+**Blood Sphere** – **Talents** Absorb Blood, Exsanguinating Strike, Hemorrhage, Lingering Control
 • absorb blood; utilize blood control to heal or buffer allies.
 ◊ (after a creature within range takes bleed damage, free action, grant another creature temporary hit points equal to bleed taken for 1 minute)
 ◊ (standard action, 1 sp, inflict 1d2 Con damage to heal another target equal to HD multiplied by the Con damage inflicted)
@@ -758,33 +758,33 @@ NE Medium dragon
 • Exsanguinating Strike; (standard action, make an attack and initiate blood control)
 
 **Combat**
-**Martial Tradition**Guild Poisoner (Alchemy, Duelist, Equipment x2);**PAM** Con
-**Alchemy Sphere**–**Packages** poison
+**Martial Tradition** Guild Poisoner (Alchemy, Duelist, Equipment x2); **PAM** Con
+**Alchemy Sphere** – **Packages** poison
 • poison (standard action prepare and may throw; DC 15; Fort save or be fatigued for 1 minute)
 **Berserker Sphere**
 • berserking (free action, -2 AC to gain +8 temporary hit points for 1 round)
 • brutal strike (special attack action, hit targets are battered for 1 round; expend martial focus +10 damage)
 **Duelist Sphere**
 • blooded strike (+2 bleed damage w/ attack actions, attacks of opportunity, and disarm attempts; do not provoke with maneuvers vs. bleeding targets)
-**Equipment Sphere**–**Talents** Finesse Fighting; (discipline) Rogue Weapon Training
+**Equipment Sphere** – **Talents** Finesse Fighting; (discipline) Rogue Weapon Training
 • Duelist Training (discipline); proficiency with the blade boot, butterfly knife, garrote, hand crossbow, kukri, rapier, sap, short sword, shortbow, starknife, switchblade knife, sword cane, war razor, and whip.
 
 **Tactics**
-**Before Combat**:The elite bloodscale carries a number of consumable items and will use its durability potion, minor contingent energy resistance potion, minor revitalization potion, or superior acceleration dust in anticipation of combat
-**During Combat**: During the first round of combat, an elite bloodscale will use size focus to increase their size to Large and use their berserking sphere ability, bleeding foes with their strikes. Should the elite bloodscale get wounded, they will use size focus to reduce their size to Tiny and attempt to fly out of range and use a common cure potion or its Absorb Blood talent.
+**Before Combat:**The elite bloodscale carries a number of consumable items and will use its durability potion, minor contingent energy resistance potion, minor revitalization potion, or superior acceleration dust in anticipation of combat
+**During Combat:** During the first round of combat, an elite bloodscale will use size focus to increase their size to Large and use their berserking sphere ability, bleeding foes with their strikes. Should the elite bloodscale get wounded, they will use size focus to reduce their size to Tiny and attempt to fly out of range and use a common cure potion or its Absorb Blood talent.
 
 **Statistics** — Size Focus (Large)
-**AC**18,**touch**13,**flat-footed** 14 (+5 armor, +4 Dex, -1 size)
+**AC** 18, **touch** 13, **flat-footed** 14 (+5 armor, +4 Dex, -1 size)
 **Melee** +1 shortsword +9 (1d8+5)
 **Ranged** heavy crossbow +8 ranged (2d6/19-20)
-**Str**18,**Dex**18,**Con**17,**Int**8,**Wis**12,**Cha** 10
-**Base Atk**+5;**CMB**+10;**CMD** 24
+**Str** 18, **Dex** 18, **Con** 17, **Int** 8, **Wis** 12, **Cha** 10
+**Base Atk** +5; **CMB** +10; **CMD** 24
 
 **Statistics**
-**Str**16,**Dex**18,**Con**17,**Int**8,**Wis**12,**Cha** 10
-**Base Atk**+5;**CMB**+9;**CMD** 22
-**Feats**Extra Combat Talent, Extra Magical Talent (x2), Toughness;**Favored Class Bonus** +5 hit points
-**Skills**Knowledge (religion) +7, Linguistics +4, Sense Motive +6;**Associated Skills** Craft (alchemy) +7
+**Str** 16, **Dex** 18, **Con** 17, **Int** 8, **Wis** 12, **Cha** 10
+**Base Atk** +5; **CMB** +9; **CMD** 22
+**Feats** Extra Combat Talent, Extra Magical Talent (x2), Toughness; **Favored Class Bonus** +5 hit points
+**Skills** Knowledge (religion) +7, Linguistics +4, Sense Motive +6; **Associated Skills** Craft (alchemy) +7
 **Languages** Common, Draconic, Dwarven, Elven, Gnome, Halfling, Reptoid
 **SQ** exceptional resources, mystic combat (combat talent)
 **Combat Gear** common cure potion (2), durability potion +4, minor contingent energy resistance potion (2), minor revitalization potion, superior acceleration dust;
@@ -804,12 +804,12 @@ An illusionist and charlatan, the well-traveled purple robes of the Slumbering Q
 **XP** 1,600
 Human elementalist (tenebrous stalker) 5
 TN Medium humanoid (human)
-**Init**+5;**Senses** **Perception** +5
+**Init** +5; **Senses** **Perception** +5
 
 **Defense**
-**AC**17,**touch**12,**flat-footed** 15 (+5 armor, +1 Dex, +1 dodge)
+**AC** 17, **touch** 12, **flat-footed** 15 (+5 armor, +1 Dex, +1 dodge)
 **hp** 37 (5d8+15)
-**Fort**+10,**Ref**+6,**Will** +7
+**Fort** +10, **Ref** +6, **Will** +7
 **Defensive Abilities** evasion
 
 **Offense**
@@ -818,15 +818,15 @@ TN Medium humanoid (human)
 **Special Attacks** darkstalker +1, shadow points (1), shadow shield (1 surreal point, swift action, grant target 5d4 temporary hit points and DR 1/- for 1 minute)
 
 **Magic**
-**Casting Tradition**Verbal Casting, Somatic Casting;**Boon**easy focus;**CAM** Cha
-**CL**3 (7 w/ Illusion; 6 w/ Dark);**MSB**+5;**MSD** 16;
+**Casting Tradition** Verbal Casting, Somatic Casting; **Boon** easy focus; **CAM** Cha
+**CL** 3 (7 w/ Illusion; 6 w/ Dark); **MSB** +5; **MSD** 16;
 **Concentration** +9
 **Spell Points** 9
-**Dark Sphere**–**Talents**Greater Meld; (meld) Feed On Darkness;**Drawbacks** Meld Into Dark (only (melds))
+**Dark Sphere** – **Talents** Greater Meld; (meld) Feed On Darkness; **Drawbacks** Meld Into Dark (only (melds))
 • meld, standard action, grant target a (meld); Greater Meld (meld) effects function in any area of dim light or darkness
 ◊ Darkvision (meld): 1 sp, grant 60 ft. darkvision for 6 hours
 ◊ Feed On Darkness (meld): 1 sp, fast healing 1, 6 minutes
-**Illusion Sphere**–**Talents** Complex Illusion, Enlarged Illusion, Focused Imagination, Overwhelming Sensations, Patterns; (sensory) Illusionary Sound, Illusionary Touch
+**Illusion Sphere** – **Talents** Complex Illusion, Enlarged Illusion, Focused Imagination, Overwhelming Sensations, Patterns; (sensory) Illusionary Sound, Illusionary Touch
 • (sensory); determine which senses your illusions may interact with – sight, sound, touch
 • figment, close (40 ft.); 1 sp, create an illusion with vision, sound, and touch up to a Gargantuan-sized cube (20-ft.), DC 17 Will save to disbelieve; **Focused Imagination** an illusion may be concentrated on for up to 70 minutes, +2
 rounds after dropping concentration
@@ -845,13 +845,13 @@ rounds after dropping concentration
 **During Combat** The deceiver is not a powerful combatant by himself, but rather creates haranguing illusions to separate and distract his enemies in order to escape, or help his allies finish off a vulnerable foe. If the deceiver would be left at the mercy of his foes, he will likely attempt to flee by using a a smoke bomb of forgetfulness (Villain Codex).
 
 **Statistics**
-**Str**11,**Dex**12,**Con**16,**Int**10,**Wis**15,**Cha** 18
-**Base Atk**+3;**CMB**+2;**CMD** 14
-**Feats**Extra Magic Talent (x2), Great Fortitude, Improved Initiative, Shadow Shield;**Favored Class Bonus** +5 hit points
+**Str** 11, **Dex** 12, **Con** 16, **Int** 10, **Wis** 15, **Cha** 18
+**Base Atk** +3; **CMB** +2; **CMD** 14
+**Feats** Extra Magic Talent (x2), Great Fortitude, Improved Initiative, Shadow Shield; **Favored Class Bonus** +5 hit points
 **Skills** Bluff +12, Knowledge (religion) +1, Perception +5, Perform (oratory) +9, Spellcraft +4, Stealth +3
 **Languages** Common
 **SQ** exceptional resources, shadow weaver
-**Combat Gear**smoke bomb of forgetfulness;**Other Gear** +1 Illusion sphere implement (mwk quarterstaff), +1 chain shirt, cape of resistance +1, backpack with antitoxin, antiplague, and assorted drugs (e.g. opium, pesh), 150 gp from latest customers
+**Combat Gear** smoke bomb of forgetfulness; **Other Gear** +1 Illusion sphere implement (mwk quarterstaff), +1 chain shirt, cape of resistance +1, backpack with antitoxin, antiplague, and assorted drugs (e.g. opium, pesh), 150 gp from latest customers
 
 **Special Abilities**
 **Exceptional Resources (Ex):** The deceiver has the wealth of a PC rather than an NPC. This increases their CR by 1.
@@ -859,7 +859,7 @@ rounds after dropping concentration
 Where the Cult of Kas’shan cannot afford capable healers and medicine men, deceivers are charlatans who serve as a primary distributor of the cult’s drugs as well as makeshift evangelists, using illusions to temporarily “cure” the ailments of gullible village folk by masking their injuries with glamers.
 A deceiver often puts on an extravagant “traveling show” as they visit small towns and hamlets, using their magics to entertain and offer their services.
 **Archetype:** The deceiver’s tenebrous stalker elementalist archetype is from Archetypes of Power 2.
-**Plot Hook**–**Deceivers:** A group of traveling adventurers might seek the services of a deceiver, whether on suspicion of their darker activities or by curiosity. The deceiver charges approximately 20 gold pieces per participant, distributing the drugs as a placebo and entertaining them with their illusions.
+**Plot Hook** – **Deceivers:** A group of traveling adventurers might seek the services of a deceiver, whether on suspicion of their darker activities or by curiosity. The deceiver charges approximately 20 gold pieces per participant, distributing the drugs as a placebo and entertaining them with their illusions.
 
 ---
 
@@ -873,13 +873,13 @@ A half-dragon in cleric vestments stands before you with faintly-glowing crystal
 **XP** 12,800
 Half-dragon reptoid soul weaver (pharmakon) 10
 NE Medium dragon (reptilian, shapechanger)
-**Init**-1;**Senses**darkvision 60 ft., low-light vision;**Perception** +0
+**Init** -1; **Senses** darkvision 60 ft., low-light vision; **Perception** +0
 
 **Defense**
-**AC**17,**touch**12,**flat-footed** 14 (+3 deflection, -1 Dex, +5 natural)
+**AC** 17, **touch** 12, **flat-footed** 14 (+3 deflection, -1 Dex, +5 natural)
 **hp** 90 (10d6+50)
-**Fort**+9,**Ref**+3,**Will** +8; +2 vs. mind-affecting effects and poison
-**Immune**electricity, paralysis, sleep;**Resist** acid 20, cold 20, fire 20, sonic 20
+**Fort** +9, **Ref** +3, **Will** +8; +2 vs. mind-affecting effects and poison
+**Immune** electricity, paralysis, sleep; **Resist** acid 20, cold 20, fire 20, sonic 20
 
 **Offense**
 **Speed** 30 ft., fly 60 ft.
@@ -888,22 +888,22 @@ NE Medium dragon (reptilian, shapechanger)
 **Special Attacks** bound nexus (10 souls, DC 22, aid the dead, channel master, curious spirit, lovelorn soul, siphon health, summon spirit I, II), channel positive energy 10/day (DC 22, 5d6, may use channel energy as SP for Affliction), iatrogen (malignance, neurasthenia, syncope)
 
 **Magic**
-**Casting Tradition**Mesmerist (Emotional Casting, Rigorous Concentration);**CAM** Cha
-**CL**10;**MSB**+10;**MSD**21;**Concentration** +17
+**Casting Tradition** Mesmerist (Emotional Casting, Rigorous Concentration); **CAM** Cha
+**CL** 10; **MSB** +10; **MSD** 21; **Concentration** +17
 **Spell Points** 21
-**Death Sphere**–**Talents**Cryptic Strike; (ghost strike) Bleeding Wounds;**Drawbacks** Necromantic Limit (ghost strike)
+**Death Sphere** – **Talents** Cryptic Strike; (ghost strike) Bleeding Wounds; **Drawbacks** Necromantic Limit (ghost strike)
 • Cryptic Strike; standard action, make a weapon attack, creatures hit with attack are also hit with ghost strike.
 • ghost strike medium (200 ft.), DC 22; apply the effects of one (ghost strike)
 ◊ Bleeding Wounds (ghost strike); 10 bleed damage, 20 bleed damage (1 sp)
 ◊ Exhausting (ghost strike); fatigued for 1 minute or exhausted for 10 minutes (1 sp), Fortitude negates. On a successful save the target is still fatigued for 1 round.
-**Life Sphere**–**Talents** Affliction, Mass Healing, Ranged Healing; (cure) Restore Capacity, Restore Health
+**Life Sphere** – **Talents** Affliction, Mass Healing, Ranged Healing; (cure) Restore Capacity, Restore Health
 • cure, close (50 ft.), DC 22; cure 1d8+30 hit points, 1 sp; 6 targets (1 sp)
 ◊ Affliction; +4 ranged touch (1d8+30 negative energy; Will half), 1 sp
 • invigorate, close (50 ft.), DC 22; 10 temporary hp; 6 targets (1 sp)
 • restore, touch, DC 22; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage) or (capacity; Escape Artist check +10, remove stunned, decreased movement speed, restore speech, magic skill vs. paralysis), 1 sp; 6 targets (1 sp)
 ◊ Affliction; +4 ranged touch (exhausted for 2d6 rounds, Fort save reduces to fatigued) or (capacity; entangled and half movement for 1d6 rounds, Reflex negates) or (health; nauseated for 1d6 rounds, Fort save reduces to sickened)
 ◊ Restore Health (cure); when restoring body, completely remove exhausted and nauseated; may attempt magic skill check vs. disease and poisons
-**Mind Sphere**–**Talents** Expanded Charm, Mass Charm, Powerful Charm; (charm) Sleep
+**Mind Sphere** – **Talents** Expanded Charm, Mass Charm, Powerful Charm; (charm) Sleep
 • Powerful Charm; may use powerful charm or cloud options, 2 sp
 • charm close (30 ft.), DC 22; place a (charm) on a target, or 6 targets (1 sp)
 ◊ Sleep (charm); put the target to sleep, Will negates
@@ -914,7 +914,7 @@ NE Medium dragon (reptilian, shapechanger)
 - lesser charm (simple request)
 - greater charm (same as lesser charm but basic request, -2 for basic)
 - powerful charm (same as greater charm but non-fatal request, any -2 for basic, -4 for simple)
-**Protection Sphere**–**Talents** Distant Protection, Mass Aegis, Status; (aegis) Energy Resistance, Painful Aegis;
+**Protection Sphere** – **Talents** Distant Protection, Mass Aegis, Status; (aegis) Energy Resistance, Painful Aegis;
 **Drawbacks** Crystalline (hardness 7, hit points 14), Limited Protection (aegis)
 • aegis close (50 ft.), DC 22; apply the effects of one (aegis) for 10 hours, 1 sp; or 6 targets for 1 hour, 40 minutes (1 sp)
 ◊ Deflection (aegis); +3 deflection AC
@@ -923,21 +923,21 @@ NE Medium dragon (reptilian, shapechanger)
 • Status; know the direction and distance to all creatures benefiting from your aegises and are aware of any conditions affecting them
 
 **Tactics**
-**Before Combat**: A dreamer will often cast the following effects on themselves; these are reflected above in the dreamer’s statblock, granting the following benefits:
+**Before Combat:** A dreamer will often cast the following effects on themselves; these are reflected above in the dreamer’s statblock, granting the following benefits:
 • Deflection; +3 deflection AC
 • Energy Resistance (x4); 20 acid, cold, fire, and sonic resistance.
 • Painful Aegis; Attackers take 5 nonlethal damage each time they deal damage to the dreamer.
 The dreamer pre-casting these effects costs the dreamer 6 spell points for the day.
-**During Combat**: The dreamer will primarily use their uses of channel energy to power castings of Affliction to inflict damage (1d8+30), debilitating conditions, or their iatrogens. The dreamer is a competent healer and can also protect their allies with their aegis effects or use Selective Channel to heal their allies. If the dreamer feels overwhelmed, they may use powerful charms to put enemies to sleep or to cast bleeding wounds, spending the additional spell point to inflict 20 bleed damage.
+**During Combat:** The dreamer will primarily use their uses of channel energy to power castings of Affliction to inflict damage (1d8+30), debilitating conditions, or their iatrogens. The dreamer is a competent healer and can also protect their allies with their aegis effects or use Selective Channel to heal their allies. If the dreamer feels overwhelmed, they may use powerful charms to put enemies to sleep or to cast bleeding wounds, spending the additional spell point to inflict 20 bleed damage.
 
 **Statistics**
-**Str**20,**Dex**8,**Con**20,**Int**10,**Wis**10,**Cha** 24
-**Base Atk**+5;**CMB**+10;**CMD** 19
-**Feats**Extra Magical Talent (x4), Quicken Spell;**Favored Class Bonus** +10 skill points
+**Str** 20, **Dex** 8, **Con** 20, **Int** 10, **Wis** 10, **Cha** 24
+**Base Atk** +5; **CMB** +10; **CMD** 19
+**Feats** Extra Magical Talent (x4), Quicken Spell; **Favored Class Bonus** +10 skill points
 **Skills** Bluff +22, Intimidate +20, Knowledge (religion) +13, Linguistics +13, Sense Motive +13
 **Languages** Abyssal, Aklo, Celestial, Common, Dwarven, Elven, Goblin, Gnome, Halfling, Orc, Reptoid, Sylvan
 **SQ** bound nexus, change shape, iatrogens
-**Combat Gear**lesser hemorrhage poison (2);**Other Gear** +1 light crossbow (with 10 blood crystal bolts), cape of resistance +1, dreamer’s vestments (+1 Mind sphere implement and +5 Bluff), masterwork heavy mace, silver holy symbol, 25 gp
+**Combat Gear** lesser hemorrhage poison (2); **Other Gear** +1 light crossbow (with 10 blood crystal bolts), cape of resistance +1, dreamer’s vestments (+1 Mind sphere implement and +5 Bluff), masterwork heavy mace, silver holy symbol, 25 gp
 
 **Special Abilities**
 **Change Shape (Su):** A reptoid can assume the appearance of a specific single Medium humanoid. The reptoid always takes this specific form when it uses this ability. The reptoid gains a +10 racial bonus on Disguise checks to appear as that type of humanoid. This ability otherwise functions as alter self, except the reptoid does not adjust its ability scores. A reptoid can select a new humanoid form by spending 1 week preparing itself for the change, but can then no longer assume its previous humanoid form.
@@ -956,13 +956,13 @@ scaled woman.
 **XP** 12,800
 Female half-dragon (nightmare) half-elf mageknight (martial, grim disciple) 10
 LE Medium dragon (half-elf)
-**Init**+0;**Senses**darkvision 60 ft., low-light vision;**Perception** +18
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; **Perception** +18
 
 **Defense**
-**AC**25**touch**11,**flat-footed** 25 (+6 armor, +1 deflection, +8 natural)
+**AC** 25 **touch** 11, **flat-footed** 25 (+6 armor, +1 deflection, +8 natural)
 **hp** 105 (10d10+50)
-**Fort**+10,**Ref**+3,**Will** +7;+3 vs. spells, spell-like abilities, and magic sphere effects; +2 vs. enchantment
-**Defensive Abilities**unarmored training +6;**Immune** acid, sleep
+**Fort** +10, **Ref** +3, **Will** +7;+3 vs. spells, spell-like abilities, and magic sphere effects; +2 vs. enchantment
+**Defensive Abilities** unarmored training +6; **Immune** acid, sleep
 
 **Offense**
 **Speed** 30 ft., fly 60 ft. (average)
@@ -971,11 +971,11 @@ claws +13 (1d4+5)
 **Special Attacks** brand of ill fate (+7 attack and damage vs. cursed targets), breath weapon (5d6 Acid, 60-ft. cone, DC 20 Reflex), mystic combats (bleeding wounds [swift action, 1 sp, attacks deal 5 bleed for 7 rounds, enchanted touch [swift action, 1 sp, +3 enhancement to all attacks], penetrating blow [swift action, 1 sp, attacks target touch until end of turn])
 
 **Magic**
-**Casting Tradition**Natural;**CAM** Cha
-**CL**5 (10 w/ Fate [curse] effects);**MSB**+10;**MSD** 21;
+**Casting Tradition** Natural; **CAM** Cha
+**CL** 5 (10 w/ Fate [curse] effects); **MSB** +10; **MSD** 21;
 **Concentration** +17
 **Spell Points** 16
-**Fate Sphere**–**Talents** Shrieking Strike; (word) Harm, Pain
+**Fate Sphere** – **Talents** Shrieking Strike; (word) Harm, Pain
 • Shrieking Strike; (standard action, make an attack and apply (word) effect)
 • word, close (50 ft.), DC 22; apply a (word) effect
 ◊ Harm (word); whenever the target suffers damage, suffer an additional +5 untyped damage, concentrate or 10 rounds for 1 sp
@@ -986,15 +986,15 @@ claws +13 (1d4+5)
 **Combat**
 **Martial Tradition** Pirate (Duelist, Equipment x2, Fencing);
 **PAM** Cha
-**Duelist Sphere**–**Talents**Long Cuts;**Drawbacks** Bloody Slasher (no disarm benefits)
+**Duelist Sphere** – **Talents** Long Cuts; **Drawbacks** Bloody Slasher (no disarm benefits)
 • Long Cuts; target must receive 15 healing or DC 30 Heal to stop bleeding
 • blooded strike (attack action, deal +3 bleeding damage)
-**Equipment Sphere**–**Talents** Unarmored Training; (discipline) Pirate Training
+**Equipment Sphere** – **Talents** Unarmored Training; (discipline) Pirate Training
 • Unarmored Training; gain +6 armor bonus, applies against touch
-**Fencing Sphere**–**Talents** (exploit) Wide Open
+**Fencing Sphere** – **Talents** (exploit) Wide Open
 • fatal thrust (deal +3d6 precision damage vs. flat-footed, flanked, or Dexterity-denied foes with attack actions or AoO, apply one (exploit)); (exploit) DC 22
 ◊ Wide Open (exploit); target suffers a -4 penalty to armor class until the end of your next turn
-**Lancer Sphere**–**Talents** Pincushion Punishment
+**Lancer Sphere** – **Talents** Pincushion Punishment
 • impale (attack action w/ -2 penalty; battered, hindering spellcasting; ending impale inflicts weapon dice bleed damage)
 • Pincushion Punishment; may impale an impaled creature, increasing penalties vs. them; may remove all weapons as an attack action, CMB vs. CMD, dealing weapon die for each removed
 
@@ -1004,10 +1004,10 @@ The maledictus is constantly in their heightened form, a Hybrid Transformation u
 The maledictus is a Fate sphere magical warrior, cursing their targets and bleeding them to deal additional damage with the Harm (word).
 
 **Statistics**
-**Str**20,**Dex**10,**Con**20,**Int**10,**Wis**10,**Cha** 24
-**Base Atk**+10;**CMB**+15;**CMD** +15
+**Str** 20, **Dex** 10, **Con** 20, **Int** 10, **Wis** 10, **Cha** 24
+**Base Atk** +10; **CMB** +15; **CMD** +15
 **Feats** Hybrid Transformation, Improved Transformation, Skill Focus (Perception), Spell Attack, Step Up, Transformation (Dragon Transformation)
-**Skills**Diplomacy +20, Fly +10, Knowledge (religion) +10, Perception +18;**Associated Skills** Bluff +17
+**Skills** Diplomacy +20, Fly +10, Knowledge (religion) +10, Perception +18; **Associated Skills** Bluff +17
 **Languages** Common, Draconic
 **SQ** black dog’s maw, malocchio, mystic combat (bleeding wounds, enchanted touch, penetrating blow, quickened reflexes)
 **Other Gear** belt of physical might +2, headband of alluring magnetism +2, ring of shielding +1, 50 gp
@@ -1023,32 +1023,32 @@ This burly, scaled draconic man looms over you, claws sharp and attire heavily d
 **XP** 12,800
 Half-dragon (black) orc mageknight (martial, resizer) 10
 LE Huge dragon (orc)
-**Init**+3;**Senses**darkvision 60 ft., low-light vision;**Perception** +9
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; **Perception** +9
 
 **Defense**
-**AC**25**touch**12,**flat-footed** 22 (+6 armor, +1 deflection, +3 Dex, +8 natural, -2 size)
+**AC** 25 **touch** 12, **flat-footed** 22 (+6 armor, +1 deflection, +3 Dex, +8 natural, -2 size)
 **hp** 105 (10d10+50)
-**Fort**+12,**Ref**+6,**Will** +6; +3 vs. spells, spell-like abilities, and magic sphere effects
-**Defensive Abilities**unarmored training +6, orc ferocity, mystic combats (spell shield [imm. action, 1 sp,**SR**27 until start of turn; unbreakable [imm. action, 1 sp, DR 12/– for 3 rounds]);**Immune** acid, paralysis, sleep
+**Fort** +12, **Ref** +6, **Will** +6; +3 vs. spells, spell-like abilities, and magic sphere effects
+**Defensive Abilities** unarmored training +6, orc ferocity, mystic combats (spell shield [imm. action, 1 sp, **SR** 27 until start of turn; unbreakable [imm. action, 1 sp, DR 12/– for 3 rounds]); **Immune** acid, paralysis, sleep
 
 **Offense**
 **Speed** 40 ft., fly 80 ft. (average)
 **Melee** unarmed strike +17/+12 (2d6+9 plus grab), bite +17 (2d6+13 plus grab), 2 claws +17 (1d8+9 plus grab), tail slap +15 (2d6+13)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** breath weapon (5d6 acid, 60-ft. line, DC 20 Reflex), penetrating blow (swift action, 1 sp, attacks target touch until end of turn)
 
 **Magic**
-**Casting Tradition**Occultist (Emotional Casting, Rigorous Concentration);**CAM** Int
-**CL**5 (10 w/ Size Focus);**MSB**+10;**MSD**21;**Concentration** +12
+**Casting Tradition** Occultist (Emotional Casting, Rigorous Concentration); **CAM** Int
+**CL** 5 (10 w/ Size Focus); **MSB** +10; **MSD** 21; **Concentration** +12
 **Spell Points** 16
-**Alteration Sphere**–**Talents**Additional Limbs, Beastial Spirit;**Drawbacks** Lycanthropic
+**Alteration Sphere** – **Talents** Additional Limbs, Beastial Spirit; **Drawbacks** Lycanthropic
 *the praetor does not cast Alteration sphere effects; it possesses the talents for the Transformation feat
 
 **Combat**
-**Martial Tradition**Professional Wrestler (Equipment, Gladiator, Wrestling x2);**PAM** Int
-**Equipment Sphere**–**Talents** Unarmored Training
+**Martial Tradition** Professional Wrestler (Equipment, Gladiator, Wrestling x2); **PAM** Int
+**Equipment Sphere** – **Talents** Unarmored Training
 • Unarmored Training; +6 armor bonus, applies against touch
-**Gladiator Sphere**–**Talents** Derision, Steel Braggart
+**Gladiator Sphere** – **Talents** Derision, Steel Braggart
 • Derision; may boast as immediate action when a creature misses you
 • boast (immediate action after critical hit, reduce enemy to 0, or successful combat maneuver, apply (boast) in 50-ft. radius)
 ◊ Prowess (boast); roll twice on next attack roll
@@ -1056,7 +1056,7 @@ LE Huge dragon (orc)
 • strike fear (full-round action, expend martial focus, demoralize 30-ft. radius; apply (demoralization) to enemies shaken)
 **Lancer Sphere**
 • impale (attack action w/ -2 penalty; battered, hindering spellcasting; ending impale inflicts weapon dice bleed damage)
-**Wrestling Sphere**–**Talents** Greater Grapple; (slam) Hard Whip, Piledriver
+**Wrestling Sphere** – **Talents** Greater Grapple; (slam) Hard Whip, Piledriver
 • Greater Grapple; while maintaining martial focus, may maintain grapple as move action
 • Piledriver; after maintaining a grapple vs. a pinned target, may automatically threaten a critical hit with unarmed strike; if confirmed, DC 18 Fortitude save or dazed 1 round
 • slam (immediate action, apply (slam))
@@ -1069,14 +1069,14 @@ The praetor is constantly in their heightened form, a size Huge draconic hybrid 
 The praetor is a brutal close-combat fighter, combining their unarmed strikes and natural attacks with Wrestling sphere (slam) talents to shred through enemies.
 
 **Statistics**
-**Str**26,**Dex**16,**Con**20,**Int**16,**Wis**8,**Cha** 10
-**Base Atk**+10;**CMB**+21 (+25 to grapple w/ grab);**CMD** +34
+**Str** 26, **Dex** 16, **Con** 20, **Int** 16, **Wis** 8, **Cha** 10
+**Base Atk** +10; **CMB** +21 (+25 to grapple w/ grab); **CMD** +34
 **Feats** Muscular Reflexes, Snatch, Transformation (Dragon Transformation), Hybrid Transformation, Improved Transformation
 **Skills** Climb +21, Fly +9, Knowledge (religion) +13, Perception +9, Profession (guardsman) +11, Use Magic Device +10;
 **Associated Skills** Intimidate +13
 **Languages** Common, Draconic
 **SQ** agile strength, enduring change, mystic combat (penetrating blow, spell shield, titan’s grip, unbreakable), quick change
-**Combat Gear**improved healing potion;**Other Gear** mwk ceremonial iron dagger, amulet of mighty fists +1, headband of genius +2, ring of shielding +1
+**Combat Gear** improved healing potion; **Other Gear** mwk ceremonial iron dagger, amulet of mighty fists +1, headband of genius +2, ring of shielding +1
 
 **Description**
 The praetor is a powerful guardian of the sanctums for the Cult of Kas’shan, exemplifying their gifts and power in the image of the Slumbering Queen.
@@ -1089,14 +1089,14 @@ Clad in heavy dark steel, this knight of the slumbering dragon radiates a threat
 **XP** 38,400
 Human antipaladin (grand purifier, rampager) 15
 LE Medium humanoid (human)
-**Init**+1;**Senses**darkvision 60 ft.;**Perception** +0
+**Init** +1; **Senses** darkvision 60 ft.; **Perception** +0
 
 **Defense**
-**AC**24,**touch**11,**flat-footed** 23 (+13 armor, +1 Dex)
+**AC** 24, **touch** 11, **flat-footed** 23 (+13 armor, +1 Dex)
 **hp** 105 (15d10+30)
-**Fort**+14,**Ref**+9,**Will** +12
+**Fort** +14, **Ref** +9, **Will** +12
 **Immune** disease
-**Auras**aura of blood (10 ft.), aura of putrefaction (10 ft.), aura of quietus (10 ft.;**MSD** 26)
+**Auras** aura of blood (10 ft.), aura of putrefaction (10 ft.), aura of quietus (10 ft.; **MSD** 26)
 
 **Offense**
 **Speed** 20 ft.
@@ -1104,34 +1104,34 @@ LE Medium humanoid (human)
 **Ranged** 2 +1 returning daggers +19/+14/+9 (1d4+4/18-20) or mwk
 dagger +19 (1d4+3/18-20)
 **Special Attacks** aura of vengeance, condemnation (1 sp or martial focus, attack action, DC 20 or confused, entombed, maimed, shaken, slowed), purification (DC 20), smite good 5/ day (+3 attack and AC, +15 damage), smiting action (+15 damage on first successful hit vs. smited), wrathful focus
-**Spell-Like Abilities**(**CL**15th;**concentration** +18)
+**Spell-Like Abilities** (**CL** 15th; **concentration** +18)
 At will – detect good
 
 **Magic**
-**Casting Tradition**Corrupted Apostle (Addictive Casting, Innate Curse (Tongues [Draconic]), Unsettling Casting, Witchmarked);**Boons**Drawback Feat;**CAM** Cha
-**CL**7;**MSB**+15;**MSD**26;**Concentration** +18
+**Casting Tradition** Corrupted Apostle (Addictive Casting, Innate Curse (Tongues [Draconic]), Unsettling Casting, Witchmarked); **Boons** Drawback Feat; **CAM** Cha
+**CL** 7; **MSB** +15; **MSD** 26; **Concentration** +18
 **Spell Points** 26
-**Alteration Sphere**–**Talents**Lingering Transformations, Greater Changes, Powerful Limbs, Size Change; (transformation) Dragon Transformation;**Drawbacks** Beast Soul, Lycanthropic
+**Alteration Sphere** – **Talents** Lingering Transformations, Greater Changes, Powerful Limbs, Size Change; (transformation) Dragon Transformation; **Drawbacks** Beast Soul, Lycanthropic
 *the silencer uses Dragon Transformation, increasing size to Huge with the Powerful Legs and two claw attack traits.
-**Warp Sphere**–**Talents**Distant Teleport, Pouncing Teleport; (space) Dimension Pierce;**Drawbacks** Personal Warp
+**Warp Sphere** – **Talents** Distant Teleport, Pouncing Teleport; (space) Dimension Pierce; **Drawbacks** Personal Warp
 • teleport, close (40 ft., long (760 ft.) 1 sp; Distant Teleport increase distance to long when spending a spell point
 ◊ Pouncing Teleport; 1 sp or increase casting time, make a single attack; +1 sp to make full attack or attack action
 • (space); touch, affect how touched target or area interacts with space
 ◊ Dimension Pierce (space); touched object or creature can interact with ethereal and incorporeal, 7 hours
 
 **Combat**
-**Martial Tradition**Weapon Master (Dual Wielding x2, Equipment x2);**PAM** Cha
-**Dual Wielding Sphere**–**Talents** Mixed Assault
+**Martial Tradition** Weapon Master (Dual Wielding x2, Equipment x2); **PAM** Cha
+**Dual Wielding Sphere** – **Talents** Mixed Assault
 • dual attack (attack action, -2 on attack roll to make two attacks)
 • Mixed Assault; do not provoke attacks while making ranged attacks; if you attack two creatures more than 5 ft. apart, gain +6 damage until end of next turn
-**Equipment Sphere**–**Talents** Armor Training, Crushing Thrower, Dagger Bravo, Dagger Dancer, Unarmored Training; (discipline) Duelist Training, Unarmed Training
+**Equipment Sphere** – **Talents** Armor Training, Crushing Thrower, Dagger Bravo, Dagger Dancer, Unarmored Training; (discipline) Duelist Training, Unarmed Training
 • Crushing Thrower; may treat thrown ranged attacks as melee attacks
 • Dagger Bravo; increase critical range of daggers and throw distance to +50 ft.
-**Lancer Sphere**–**Talents** Pinning Impale, Ranged Impale
+**Lancer Sphere** – **Talents** Pinning Impale, Ranged Impale
 • impale (attack action w/ -2 penalty; battered, and hinders spellcasting; ending impale inflicts weapon dice as bleed damage)
 ◊ Pinning Impale; may impale with charge action, if target is adjacent to wall, can pin to wall
 ◊ Ranged Impale; may impale with thrown weapons, may be used with Pinning Impale
-**Wrestling Sphere**–**Talents** Talented Tie-Up; (slam) Power Bomb
+**Wrestling Sphere** – **Talents** Talented Tie-Up; (slam) Power Bomb
 • slam (immediate action, apply (slam)); DC 20
 ◊ Power Bomb; deal 1d8+3, knock prone and Fortitude save or fatigued
 • snag (swift action, melee touch attack +18, battered until end of turn or as long as held)
@@ -1142,8 +1142,8 @@ Silencers begin combat by attempting to pin their target to the ground from afar
 **Dragon Form** The silencer loses their +13 armor in this form, instead benefiting from +8 armor from Unarmored Training and +3 natural armor, increasing their size to Huge. In this form Silencers prefer to use their advantage in close quarters and grapple enemy targets. The silencer’s claw attacks are 3d6 (Huge plus 1 size w/ Improved Natural Attack).
 
 **Statistics**
-**Str**17,**Dex**12,**Con**14,**Int**8,**Wis**10,**Cha** 16
-**Base Atk**+15;**CMB**+18;**CMD** 29
+**Str** 17, **Dex** 12, **Con** 14, **Int** 8, **Wis** 10, **Cha** 16
+**Base Atk** +15; **CMB** +18; **CMD** 29
 **Feats** Combat Casting, Extra Combat Talent (x3), Improved Natural Attack (claw), Shifting Mastery, Unarmored Mastery, Witchwarped
 **Skills** Knowledge (religion) +7, Linguistics +1, Spellcraft +7, Stealth +15
 **Languages** Common, Draconic
@@ -1166,13 +1166,13 @@ This hauntingly beautiful woman lays reclined in her palanquin carried by undead
 **XP** 102,400
 Advanced human eliciter 16
 NE Medium humanoid (human)
-**Init**+4;**Senses** **Perception** +20
+**Init** +4; **Senses** **Perception** +20
 
 **Defense**
-**AC**33,**touch**17,**flat-footed** 26 (+9 armor, +7 Dex, +2 natural, +6 shield)
+**AC** 33, **touch** 17, **flat-footed** 26 (+9 armor, +7 Dex, +2 natural, +6 shield)
 **hp** 112 (16d8+48)
-**Fort**+13,**Ref**+19,**Will** +19; +1 vs. fear, +4 vs. charm and compulsion
-**Immune**mind-affecting, possession;**Special Defenses** defensive empathy +4
+**Fort** +13, **Ref** +19, **Will** +19; +1 vs. fear, +4 vs. charm and compulsion
+**Immune** mind-affecting, possession; **Special Defenses** defensive empathy +4
 
 **Offense**
 **Speed** 30 ft.
@@ -1181,10 +1181,10 @@ NE Medium humanoid (human)
 7 rds., inspire greatness 7 rds., inspire heroics 7 rds., liberate, terrorize -4), link, persuasive +4
 
 **Magic**
-**Casting Tradition**Bardic Magic (Skilled Casting (Perform [oratory])), Somatic Casting, Verbal Casting);**CAM** Charisma
-**CL**16 (21 w/ Mind);**MSB**+16;**MSD**27;**Concentration** +23
+**Casting Tradition** Bardic Magic (Skilled Casting (Perform [oratory])), Somatic Casting, Verbal Casting); **CAM** Charisma
+**CL** 16 (21 w/ Mind); **MSB** +16; **MSD** 27; **Concentration** +23
 **Spell Points** 23
-**Mind Sphere**–**Talents**Charming Strike, Expanded Charm, Mass Charm, Powerful Charm, Ranged Mind; (charm) Cerebral Strike, Confusion, Enthrall, Hostility, Project Thoughts, Sleep, Vision; (cloud) Lure;**Advanced Talents** (cloud) Zeitgeist
+**Mind Sphere** – **Talents** Charming Strike, Expanded Charm, Mass Charm, Powerful Charm, Ranged Mind; (charm) Cerebral Strike, Confusion, Enthrall, Hostility, Project Thoughts, Sleep, Vision; (cloud) Lure; **Advanced Talents** (cloud) Zeitgeist
 • Charming Strike; may deliver charm effects with a standard action attack
 • Expanded Charm; (charm) effects may affect creatures of any type
 • Powerful Charm; may use powerful charm or cloud options, 2 sp
@@ -1207,8 +1207,8 @@ NE Medium humanoid (human)
 If the voice is aware of her enemy’s strengths and respects them or is fearful for her safety, the voice will take an active role, using her debilitating charm abilities to divide her foes and allow her servants to divide and conquer. The voice will not engage in melee unless engaged upon, choosing to use her apathy emotion and other movement impairing effects to back away. If worried for her life, the voice will attempt to use her emergency exit and vanishing dust to escape.
 
 **Statistics**
-**Str**14,**Dex**24,**Con**16,**Int**18,**Wis**18,**Cha** 25
-**Base Atk**+12;**CMB**+14;**CMD** 31
+**Str** 14, **Dex** 24, **Con** 16, **Int** 18, **Wis** 18, **Cha** 25
+**Base Atk** +12; **CMB** +14; **CMD** 31
 **Feats** Dynopathy, Elicit Strike, Extra Magic Talent, Greater Hypnosis, Minor Charm Specialist, Sphere Focus (Mind), Synchronicity, Weapon Finesse
 **Skills** Diplomacy +30, Intimidate +30, Knowledge (arcana) +20, Knowledge (religion) +17, Perception +20, Perform (oratory) +26, Sense Motive +27, Spellcraft +23, Use Magic Device +26
 **Languages** Common, Draconic, Elven, Infernal
@@ -1235,29 +1235,29 @@ This hypnotically beautiful, massive dragon soars with a mesmerizing grace, its 
 **XP** 307,200
 Female ancient dream dragon (Pathfinder Roleplaying Game: Bestiary 5)
 NE Gargantuan dragon (extraplanar, mythic)
-**Init**+3;**Senses**dragon senses, dreamsight;**Perception** +43
+**Init** +3; **Senses** dragon senses, dreamsight; **Perception** +43
 **Aura** frightful presence (300 ft., DC 28)
 
 **Defense**
-**AC**40,**touch**5,**flat-footed** 40 (-1 Dex, +33 natural, +2 shield, -4 size)
+**AC** 40, **touch** 5, **flat-footed** 40 (-1 Dex, +33 natural, +2 shield, -4 size)
 **hp** 287 (23d12+138)
-**Fort**+20,**Ref**+15,**Will** +21
+**Fort** +20, **Ref** +15, **Will** +21
 **Defensive Abilities** delayed damage pool 115, dream fortress;
-**DR**15/magic;**Immune** mind-affecting, paralysis, sleep; SR 29
+**DR** 15/magic; **Immune** mind-affecting, paralysis, sleep; SR 29
 
 **Offense**
 **Speed** 40 ft., fly 250 ft. (clumsy)
 **Melee** bite +30 (4d6+15), 2 claws +29 (2d8+10), 2 wings +27
 (2d6+5), tail slap +27 (2d8+15)
-**Space**20 ft.;**Reach** 15 ft. (20 ft. with bite)
+**Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)
 **Special Attacks** breath weapon (60-ft. cone, DC 27, 18d6), crush, sleeping breath 1/day, tail sweep
 
 **Magic**
-**Casting Tradition**True Dragon (Draining Casting, Verbal Casting)**Boons**Overwhelming Power;**CAM** Cha
-**CL**10 (12 w/ Divination, 15 w/ Mind);**MSB**+23;**MSD** 34;
+**Casting Tradition** True Dragon (Draining Casting, Verbal Casting) **Boons** Overwhelming Power; **CAM** Cha
+**CL** 10 (12 w/ Divination, 15 w/ Mind); **MSB** +23; **MSD** 34;
 **Concentration** +30
 **Spell Points** 30
-**Divination Sphere**–**Talents**Greater Divine; (divine) Viewing;**Advanced Talents** Scrying
+**Divination Sphere** – **Talents** Greater Divine; (divine) Viewing; **Advanced Talents** Scrying
 • divine, long (880 ft.), DC 23; divine to gain information
 ◊ Detect Magic (divine); see magical auras
 ◊ Divine Charm (divine); see charm, compulsion, possession, and Mind sphere effects
@@ -1265,7 +1265,7 @@ NE Gargantuan dragon (extraplanar, mythic)
 ◊ Viewing (divine); 1 sp, observe from range; limitless range w/ 2 sp
 • sense, DC 23; gain additional senses for 12 hours
 ◊ Read Magic (divine); can read magical writing and glyphs
-**Mind Sphere**–**Talents** Expanded Charm, Mass Charm, Powerful Charm, Ranged Mind (x2), Subtlety; (charm) Candor, Enthrall, Mind Spy, Project Thoughts, Read Mind, Sleep,
+**Mind Sphere** – **Talents** Expanded Charm, Mass Charm, Powerful Charm, Ranged Mind (x2), Subtlety; (charm) Candor, Enthrall, Mind Spy, Project Thoughts, Read Mind, Sleep,
 Vision; **Advanced Talents** Greater Communication, Mind Control; (charm) Deadly Vision
 • charm, long (1,000 ft.), DC 25; apply (charm) to a creature as a lesser, greater, or powerful charm
 ◊ Candor (charm); compel honesty, Will negates
@@ -1303,24 +1303,24 @@ Vision; **Advanced Talents** Greater Communication, Mind Control; (charm) Deadly
 - greater charm (same as lesser charm but 5 senses)
 - powerful charm (same as lesser charm but all senses)
 • Kas’shan’s Influence (deific avatar); the Avatar of Kas’shan’s Mind sphere effects can affect any creature and bypasses any immunity to mind-affecting effects the creature may possess
-**Warp Sphere**–**Talents** Emergency Teleport; (space) Teleport Beacon
+**Warp Sphere** – **Talents** Emergency Teleport; (space) Teleport Beacon
 • space, touch, DC 22; bend space
 ◊ Teleport Beacon (space); can teleport any distance to touched object
 • teleport, close (50 ft.) or medium (200 ft.) w/ 1 sp, DC 22; teleport
 
 **Combat**
-**Martial Tradition**True Dragon (Brute, Wing Buffet; Bonus feats: Flyby Attack, Hover);**PAM** Cha
-**Brute Sphere**–**Talents** Wing Buffet; (manhandle) Throw
+**Martial Tradition** True Dragon (Brute, Wing Buffet; Bonus feats: Flyby Attack, Hover); **PAM** Cha
+**Brute Sphere** – **Talents** Wing Buffet; (manhandle) Throw
 • shove +33 melee touch (move action, move half speed (20 ft. or 125 ft. fly), deal 10 damage plus battered condition); (manhandle) DC 28
 ◊ Throw (manhandle); expend martial focus, forced movement distances increase by 10 ft., target must succeed at Reflex save or fall prone.
 • Wing Buffet; free action while flying at start of turn, bull rush (+37) vs. 1 or each creature within 35 ft.; immediate action bull rush after two successful wing attacks
-**Guardian Sphere**–**Talents**Greater Delayed Damage (x2), Swift Guardian; (zone) Steel Hedge;**Legendary Talents** I Will Come, I Will Hear
+**Guardian Sphere** – **Talents** Greater Delayed Damage (x2), Swift Guardian; (zone) Steel Hedge; **Legendary Talents** I Will Come, I Will Hear
 • delayed damage (delay up to 115 damage until the end of your next turn)
 • patrol (full-round action, threatened area increases to 40 ft. (45 ft. w/ Bite)); apply a (zone) to the area DC 28
 ◊ Steel Hedge (zone); all enemies treat your threatened area as difficult terrain
 ◊ Swift Guardian; may patrol as a standard action or expend martial focus to patrol as move action
 • I Will Hear; bonded creatures (25 max) can call out anywhere, even across planes; can teleport to bonded creatures as a full-round action
-**Shield Sphere**–**Talents** Protective Tail, Shielded Focus
+**Shield Sphere** – **Talents** Protective Tail, Shielded Focus
 • active defense (as an immediate action or attack of opportunity, raise shield bonus against incoming attack by +9)
 • Protective Tail; tail counts as shield that grants +2 AC
 • Shielded Focus; regain martial focus when fighting defensively as a move action or as an immediate action after an attack misses while using active defense
@@ -1337,9 +1337,9 @@ Vision; **Advanced Talents** Greater Communication, Mind Control; (charm) Deadly
 The avatar does not hesitate to use its debilitating charms in a hostile manner against her enemies. If fighting alongside cultists which can support the avatar, the avatar will use its patrol, focusing her efforts on killing off or disabling ranged compantants and spellcasters.
 
 **Statistics**
-**Str**31,**Dex**9,**Con**22,**Int**22,**Wis**21,**Cha** 24
-**Base Atk**+23;**CMB**+37;**CMD** 46 (50 vs. trip)
-**Feats**Alertness, Counterspell, Counterspell Mastery, Dreamspace, Flyby Attack, Hover, Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Skill Focus (Perception), Sphere Focus (Mind), Vital Strike, Weapon Focus (bite);**Mythic Feats**Alertness, Iron Will;**Associated Feats** Combat Patrol
+**Str** 31, **Dex** 9, **Con** 22, **Int** 22, **Wis** 21, **Cha** 24
+**Base Atk** +23; **CMB** +37; **CMD** 46 (50 vs. trip)
+**Feats** Alertness, Counterspell, Counterspell Mastery, Dreamspace, Flyby Attack, Hover, Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Skill Focus (Perception), Sphere Focus (Mind), Vital Strike, Weapon Focus (bite); **Mythic Feats** Alertness, Iron Will; **Associated Feats** Combat Patrol
 **Skills** Bluff +33, Diplomacy +33, Fly +11, Intimidate +33, Knowledge (arcana, dungeoneering, history, planes, religion) +32, Perception +43, Sense Motive +37, Stealth +13, Survival +31
 **Languages** Aklo, Auran, Celestial, Common, Draconic, Infernal, Sylvan
 **SQ** change shape, deific avatar, join dreamscape
@@ -1365,12 +1365,12 @@ This small robed individual’s keen eyes seem to dart to the various alleyways 
 **XP** 400
 Kobold sorcerer 2
 LE Small humanoid (reptilian)
-**Init**+3;**Senses**darkvision 60 ft.;**Perception** +5
+**Init** +3; **Senses** darkvision 60 ft.; **Perception** +5
 
 **Defense**
-**AC**15,**touch**14,**flat-footed** 12 (+3 Dex, +1 natural, +1 size)
+**AC** 15, **touch** 14, **flat-footed** 12 (+3 Dex, +1 natural, +1 size)
 **hp** 12 (2d8+2)
-**Fort**+1,**Ref**+3,**Will** +4
+**Fort** +1, **Ref** +3, **Will** +4
 
 **Offense**
 **Speed** 30 ft.
@@ -1380,9 +1380,9 @@ LE Small humanoid (reptilian)
 **Magic**
 **Casting Tradition** Sorcerer (Somatic Casting x2, Verbal
 Casting); **CAM** Charisma
-**CL**2;**MSB**+2;**MSD**13;**Concentration** +5
+**CL** 2; **MSB** +2; **MSD** 13; **Concentration** +5
 **Spell Points** 6
-**Destruction Sphere**–**Talents**Focused Blast; (blast type) Acid Blast, Adhesive Blast;**Drawbacks** Energy Focus (acid)
+**Destruction Sphere** – **Talents** Focused Blast; (blast type) Acid Blast, Adhesive Blast; **Drawbacks** Energy Focus (acid)
 • destructive blast, close (30 ft.), DC 14; 1d6 damage, +1 sp 2d6; use with (blast shape), inflict a (blast type)
 ◊ (blast shape)
 - Ray (default) (blast shape); melee touch +1 or ranged touch ray (30 ft.) +5; Focused Blast; add +1 damage per die with this blast
@@ -1396,13 +1396,13 @@ Casting); **CAM** Charisma
 ◊ Darkvision (meld); 1 sp, grant 60 ft. darkvision for 2 hours
 
 **Statistics**
-**Str**8,**Dex**16,**Con**12,**Int**10,**Wis**12,**Cha** 17
-**Base Atk**+1;**CMB**-1;**CMD** 12
+**Str** 8, **Dex** 16, **Con** 12, **Int** 10, **Wis** 12, **Cha** 17
+**Base Atk** +1; **CMB** -1; **CMD** 12
 **Feats** Weapon Focus (rays)
-**Skills**Knowledge (local) +5, Stealth +12, Perception +5;**Racial Modifiers** +2 Craft (trapmaking), Perception, and Profession (miner)
+**Skills** Knowledge (local) +5, Stealth +12, Perception +5; **Racial Modifiers** +2 Craft (trapmaking), Perception, and Profession (miner)
 **Languages** Common, Draconic
 **SQ** bloodline arcana (acid spells deal +1 damage per die), prehensile tail
-**Combat Gear**common cure (2), tanglefoot bag;**Other Gear** dagger, magical toolkit +2 (Perception), 2 peridot gems (worth 10 gp each), 6 gp
+**Combat Gear** common cure (2), tanglefoot bag; **Other Gear** dagger, magical toolkit +2 (Perception), 2 peridot gems (worth 10 gp each), 6 gp
 
 **Description**
 The streetwise are the lowest-level hirelings of the Rat Skull Mafia which are often tasked with errands or to help the higher ups with collections or shows of force. Streetwise vary from small-time street magicians, cutthroats, and sellswords. Exceptional streetwise may get noticed by their superiors and be given tasks with greater meaning to test if they are ready for harder assignments.
@@ -1417,12 +1417,12 @@ This heavyset figure slams their mace against their hand with a threatening deme
 **XP** 600
 Half-orc conscript 3
 NE Medium humanoid (human, orc)
-**Init**+2**Senses**darkvision 60 ft.;**Perception** +6
+**Init** +2 **Senses** darkvision 60 ft.; **Perception** +6
 
 **Defense**
-**AC**17,**touch**12,**flat-footed** 15 (+5 armor, 2 Dex)
+**AC** 17, **touch** 12, **flat-footed** 15 (+5 armor, 2 Dex)
 **hp** 31 (3d10+9)
-**Fort**+5,**Ref**+5,**Will** +1
+**Fort** +5, **Ref** +5, **Will** +1
 **Defensive Abilities** orc ferocity
 
 **Offense**
@@ -1430,13 +1430,13 @@ NE Medium humanoid (human, orc)
 **Melee** mwk heavy mace +7 (1d8+3/19-20/x3)
 
 **Combat**
-**Martial Tradition**Crushing Juggernaut (Brute x2, Equipment x2);**PAM** Cha
-**Brute Sphere**–**Talents** Follow Through
+**Martial Tradition** Crushing Juggernaut (Brute x2, Equipment x2); **PAM** Cha
+**Brute Sphere** – **Talents** Follow Through
 • Follow Through; after a successful attack action, may perform a bull rush or reposition combat maneuver against the target as a free action
 • shove +6 melee touch (move action, move half speed (10 ft.), deal 3 damage plus battered condition)
-**Equipment Sphere**–**Talents** Armor Training, Armor Expert
+**Equipment Sphere** – **Talents** Armor Training, Armor Expert
 • Armor Expert; increase worn armor’s bonus by +1
-**Gladiator Sphere**–**Talents** Master Of Fear; (demoralize) Coward’s Bane, Dread
+**Gladiator Sphere** – **Talents** Master Of Fear; (demoralize) Coward’s Bane, Dread
 • boast (immediate action after critical hit, reduce enemy to 0, or successful combat maneuver, apply (boast) in 30-ft. radius)
 ◊ Prowess (boast); roll twice on next attack roll
 • strike fear (standard action, expend martial focus, demoralize 30-ft. radius; apply (demoralization) to enemies shaken); Master Of Fear (may use strike fear as a standard action w/o expending martial focus); (demoralize) additional effects vs. feared targets
@@ -1448,13 +1448,13 @@ NE Medium humanoid (human, orc)
 **During Combat** The thug focuses and bullies an individual foe, often trying to gang up with their allies against that same individual. If trying to extract money or extort the target, the thug uses the Bludgeoner feat to inflict nonlethal damage and attempt to demoralize the target as a free action with Enforcer.
 
 **Statistics**
-**Str**16,**Dex**14,**Con**14,**Int**10,**Wis**10,**Cha** 14
-**Base Atk**+3;**CMB**+6;**CMD** +18
-**Feats**Bludgeoner, Enforcer, Skill Focus (Intimidate);**Favored Class Bonus** +3 hit points
+**Str** 16, **Dex** 14, **Con** 14, **Int** 10, **Wis** 10, **Cha** 14
+**Base Atk** +3; **CMB** +6; **CMD** +18
+**Feats** Bludgeoner, Enforcer, Skill Focus (Intimidate); **Favored Class Bonus** +3 hit points
 **Skills** Bluff +8, Intimidate +13, Knowledge (local) +6, Perception +6, Sense Motive +6
 **Languages** Common, Orc
 **SQ** intimidating, Bonus talents, Bonus feats
-**Combat Gear**barkskin elixir (2) ;**Other Gear** mwk armored coat, mwk heavy mace, 4 gp, 8 sp
+**Combat Gear** barkskin elixir (2) ; **Other Gear** mwk armored coat, mwk heavy mace, 4 gp, 8 sp
 
 **Description**
 The Rat Skull’s thugs serve a number of roles in the organiza- tion as debt collectors and hired muscle for the city, as well as backup when collecting from those unwilling to pay protection money. Most thugs doing footsoldier work for the Rat Skull Mafia try to build a rapport with the city guard to establish territory and make bribery efforts more personal.
@@ -1467,12 +1467,12 @@ This scarred, grinning half-orc in a fine suit steps out from the shadows, unfur
 **XP** 800
 Male half-orc conscript 3
 LE Medium humanoid (human, orc)
-**Init**+4;**Senses**Darkvision 60;**Perception** +8
+**Init** +4; **Senses** Darkvision 60; **Perception** +8
 
 **Defense**
-**AC**18,**touch**14,**flat-footed** 14 (+3 armor, +4 Dex, +1 shield)
+**AC** 18, **touch** 14, **flat-footed** 14 (+3 armor, +4 Dex, +1 shield)
 **hp** 27 (3d10+6)
-**Fort**+5,**Ref**+8,**Will** +4
+**Fort** +5, **Ref** +8, **Will** +4
 **Defensive Abilities** orc ferocity
 
 **Offense**
@@ -1482,15 +1482,15 @@ LE Medium humanoid (human, orc)
 **Special Attacks** studied target +1 (1 target), easy mark (+4 damage after dirty trick or steal)
 
 **Combat**
-**Martial Tradition**Whip Acrobat (Bounty Hunter’s Tools, Whip Fiend, Scoundrel, Athletics);**PAM** Int
-**Athletics Sphere**– Package (climb);**Talents** (climb) Rope
+**Martial Tradition** Whip Acrobat (Bounty Hunter’s Tools, Whip Fiend, Scoundrel, Athletics); **PAM** Int
+**Athletics Sphere** – Package (climb); **Talents** (climb) Rope
 Swing
 • coordinated movement; regain martial focus when taking withdraw action
 • (climb); not flat-footed while climbing, climb at 1/2 speed without penalty, full at -5
 ◊ Rope Swing; may use whiplike items numerous ways; after whip is attached to point, swing through area equal to reach. Climb check vs. CMD of any threatening enemies, fall if failure
-**Equipment Sphere**–**Talents** Bounty Hunter’s Tools, Finesse Fighting, Whip Fiend
+**Equipment Sphere** – **Talents** Bounty Hunter’s Tools, Finesse Fighting, Whip Fiend
 • Whip Fiend; Ignore natural armor damage restriction with whip. Freely deal lethal damage with whip. Manipulate objects within whip’s reach as move action as though with one hand.
-**Scoundrel Sphere**–**Talents** Cut And Run, Improved Grifting, Master Thief, Playing Dirty; (trick) Cleaned Out
+**Scoundrel Sphere** – **Talents** Cut And Run, Improved Grifting, Master Thief, Playing Dirty; (trick) Cleaned Out
 • Cut And Run; while possessing martial focus, move up to half speed after a successful dirty trick or steal without provoking attacks of opportunity
 • Improved Grifting; +2 competence bonus on dirty trick and steal
 • marked target (swift action, melee touch attack, inflict bat- tered and -2 Perception penalty)
@@ -1506,14 +1506,14 @@ Swing
 **During Combat** Grauk typically tries to disarm weapons and spellcasting focuses to earn the upper hand, or will try to escape into the city using Rope Swing. The net he keeps on his person is used to slow down fleeing or wounded targets.
 
 **Statistics**
-**Str**12,**Dex**18,**Con**12,**Int**15,**Wis**14,**Cha** 9
-**Base Atk**+3;**CMB** +4 (+9 steal and dirty trick, +10 trip);
+**Str** 12, **Dex** 18, **Con** 12, **Int** 15, **Wis** 14, **Cha** 9
+**Base Atk** +3; **CMB** +4 (+9 steal and dirty trick, +10 trip);
 **CMD** 18
-**Feats**Extra Combat Talent (x2);**Favored Class Bonus** +3 hit points
-**Skills**Acrobatics +7, Appraise +5, Climb +7, Disable Device +12, Intimidate +1, Knowledge (local) +8, Perception +8, Sleight of Hand +10, Stealth +10, Survival +5, Swim +6;**Racial Modifiers** +2 Intimidate, +2 Perception, and +2 Stealth when concealed by dim light or darkness
+**Feats** Extra Combat Talent (x2); **Favored Class Bonus** +3 hit points
+**Skills** Acrobatics +7, Appraise +5, Climb +7, Disable Device +12, Intimidate +1, Knowledge (local) +8, Perception +8, Sleight of Hand +10, Stealth +10, Survival +5, Swim +6; **Racial Modifiers** +2 Intimidate, +2 Perception, and +2 Stealth when concealed by dim light or darkness
 **Languages** Common, Orc, Goblin, Draconic
 **SQ** exceptional resources, sphere specialization (Scoundrel)
-**Combat Gear**smoke stick (3), standard healing potion, troll styptic;**Other Gear** masterwork buckler, masterwork whip, masterwork studded leather, masterwork thieves tools, cape of resistance +1, backpack, 148 gp
+**Combat Gear** smoke stick (3), standard healing potion, troll styptic; **Other Gear** masterwork buckler, masterwork whip, masterwork studded leather, masterwork thieves tools, cape of resistance +1, backpack, 148 gp
 
 **Special Abilities**
 **Exceptional Resources (Ex):** Grauk has the wealth of a PC rather than an NPC. This increases their CR by 1.
@@ -1529,12 +1529,12 @@ This individual’s appearance shifts and turns, settling as a wholly new person
 **XP** 1,600
 Human shifter (beastmind, martial shifter) 6
 NE Medium humanoid (human)
-**Init**+1;**Senses**darkvision 60 ft.;**Perception** +11
+**Init** +1; **Senses** darkvision 60 ft.; **Perception** +11
 
 **Defense**
-**AC**16,**touch**12,**flat-footed** 15 (+4 armor, +1 deflection, +1 Dex)
+**AC** 16, **touch** 12, **flat-footed** 15 (+4 armor, +1 deflection, +1 Dex)
 **hp** 39 (6d8+6)
-**Fort**+6,**Ref**+6,**Will** +4
+**Fort** +6, **Ref** +6, **Will** +4
 
 **Offense**
 **Speed** 30 ft.
@@ -1542,11 +1542,11 @@ NE Medium humanoid (human)
 **Special Attacks** enhanced attacks (magic), hunter’s call (2 sp, DC 17 Will, animal, magical beast, vermin treat words as friendly)
 
 **Magic**
-**Casting Tradition**Natural Casting;**CAM** Cha
-**CL**4 (6 w/ Alteration, Mind);**MSB**+6;**MSD** 17;
+**Casting Tradition** Natural Casting; **CAM** Cha
+**CL** 4 (6 w/ Alteration, Mind); **MSB** +6; **MSD** 17;
 **Concentration** +10
 **Spell Points** 10
-**Mind Sphere**–**Talents** Expanded Charm, Mass Charm, Powerful Charm, Ranged Mind, Subtlety; (charm) Cerebral Strike, Enthrall, Hostility
+**Mind Sphere** – **Talents** Expanded Charm, Mass Charm, Powerful Charm, Ranged Mind, Subtlety; (charm) Cerebral Strike, Enthrall, Hostility
 • Expanded Charm; may use charm on any creature type; Beastlord also vermin, animals, and magical beasts
 • Powerful Charm; may use powerful charm or cloud op- tions, 2 sp
 • Subtlety; targets attempt a second saving throw to realize they were targeted
@@ -1555,19 +1555,19 @@ NE Medium humanoid (human)
 ◊ Enthrall (charm); alter the target’s disposition
 ◊ Hostility (charm); compel the target to attack nearby creatures, (greater) force the target into a rage, or (powerful) a brutal heroic rage
 ◊ Suggestion (charm); implant a suggestion or course of action in the target
-**Alteration Sphere**–**Talents**; Lingering Transformation, Perfect Imitation
+**Alteration Sphere** – **Talents**; Lingering Transformation, Perfect Imitation
 • Lingering Transformation; shapeshift lasts +2 rounds, 10 min/lvl if you spend an sp to continue without concentration
 • shapeshift, grant target a (body) or (transformation) plus 2 traits
 ◊ Blank Transformation (body); do not significantly change target’s appearance, add traits
 ◊ Perfect Imitation; +10 bonus on Disguise checks and may appear as a specific individual, may merge equipment and replicate clothing or armor; also grants camouflage and vocal mimicry talents
 
 **Combat**
-**Martial Tradition**Daring Scholar (Alchemy, Equipment, Scout x2);**PAM** Cha
-**Alchemy Sphere**–**Talents** (formulae) Salve
+**Martial Tradition** Daring Scholar (Alchemy, Equipment, Scout x2); **PAM** Cha
+**Alchemy Sphere** – **Talents** (formulae) Salve
 • formulae, use Craft (alchemy) +10; can prepare up to 4 formulae; DC 17
 ◊ Salve (formulae); healing salve that heals 3d8+4 hit points
-**Equipment Sphere**–**Talents** Staff Mastery
-**Scout Sphere**–**Talents** Great Senses
+**Equipment Sphere** – **Talents** Staff Mastery
+**Scout Sphere** – **Talents** Great Senses
 • Great Senses; gain bonus Perception ranks
 • scout (swift action Perception check -5 vs. DC to identify, learn weaknesses)
 
@@ -1575,13 +1575,13 @@ NE Medium humanoid (human)
 A framer spends most of their time disguised as an unassuming member of a local group, gathering information. If confronted, a framer takes advantage of their mind-affecting magics, stirring their allies into a frenzy or causing sharp spikes of mental pain.
 
 **Statistics**
-**Str**15,**Dex**13,**Con**13,**Int**12,**Wis**13,**Cha** 18
-**Base Atk**+4**CMB**+4;**CMD** +16
+**Str** 15, **Dex** 13, **Con** 13, **Int** 12, **Wis** 13, **Cha** 18
+**Base Atk** +4 **CMB** +4; **CMD** +16
 **Feats** Endurance, Extra Magic Talent (x3), Shifting Disguise.
-**Skills**Bluff +13, Craft (alchemy) +10, Disguise +13, Intimidate +13, Knowledge (local) +7, Sense Motive +11, Spellcraft +10, Survival +10;**Associated Skills** Perception +11, Stealth +10
+**Skills** Bluff +13, Craft (alchemy) +10, Disguise +13, Intimidate +13, Knowledge (local) +7, Sense Motive +11, Spellcraft +10, Survival +10; **Associated Skills** Perception +11, Stealth +10
 **Languages** Common, Orc
 **SQ** beastlord, bestial traits (nightvision, shape weapon), shapeshifter, steal language, wild empathy +10
-**Combat Gear**current events incense;**Other Gear** +1 studded leather armor, ring of shielding +1, 75 gp in stolen goods
+**Combat Gear** current events incense; **Other Gear** +1 studded leather armor, ring of shielding +1, 75 gp in stolen goods
 
 **Description**
 Framers are expert infiltrators and informants, spending much of their time infiltrating other organizations, legal bodies, and other targets of interest. When it comes time for a framer to move into action, they will assume the appearance of their target or their loved ones to shift suspicion and fault away from the framer.
@@ -1594,11 +1594,11 @@ Dapperly dressed, this man watches you carefully as he polishes a glass mug.
 **XP** 2,400
 Ratfolk alchemist (mortal chemist, vivisectionist) 7
 LE Medium humanoid (ratfolk)
-**Init**+4;**Senses**darkvision 60 ft.;**Perception** +7
+**Init** +4; **Senses** darkvision 60 ft.; **Perception** +7
 **Defense**
-**AC**17,**touch**15,**flat-footed** 13 (+2 armor, +4 Dex, +1 size)
+**AC** 17, **touch** 15, **flat-footed** 13 (+2 armor, +4 Dex, +1 size)
 **hp** 36 (7d8+7)
-**Fort**+6,**Ref**+5,**Will** +2
+**Fort** +6, **Ref** +5, **Will** +2
 
 **Offense**
 **Speed** 20 ft.
@@ -1606,8 +1606,8 @@ LE Medium humanoid (ratfolk)
 **Special Attacks** mutagen (+2 natural armor, +4 Dex, -2 Wis, 2 claws and bite), sneak attack +3d6
 
 **Combat**
-**Martial Tradition**Guild Training (Alchemy, Duelist, Equipment x2);**PAM** Int
-**Alchemy Sphere**–**Packages**formulae, poison;**Talents** (formulae) Panacea, Salve, Universal Alcohol; (toxin) Graceless Tincture, Haemophilic Venom
+**Martial Tradition** Guild Training (Alchemy, Duelist, Equipment x2); **PAM** Int
+**Alchemy Sphere** – **Packages** formulae, poison; **Talents** (formulae) Panacea, Salve, Universal Alcohol; (toxin) Graceless Tincture, Haemophilic Venom
 • formulae, use Craft (alchemy) +23; can prepare up to 6 formulae; DC 16
 ◊ Panacea (formulae); clear conditions (DC 20, 30)
 ◊ Salve (formulae); healing salve that heals 3d8+8 hit points
@@ -1615,21 +1615,21 @@ LE Medium humanoid (ratfolk)
 • poison (standard action prepare and may throw; DC 15; Fort save or be fatigued for 1 minute); may use (toxin) talent to apply effect instead of fatigue
 ◊ Graceless Tincture (toxin); -8 Sense Motive and -6 to have attitude influenced
 ◊ Haemophilic Venom (toxin); increase bleed effects by +2; if subject to a critical hit, +1d4 bleed
-**Duelist Sphere**–**Talents**Long Cuts;**Drawbacks** Bloody Slasher (no disarm benefits)
+**Duelist Sphere** – **Talents** Long Cuts; **Drawbacks** Bloody Slasher (no disarm benefits)
 • Long Cuts; target must receive 10 healing or DC 25 Heal to stop bleeding
 • blooded strike (attack action, deal +2 bleeding damage)
-**Equipment Sphere**–**Talents** Finesse Fighting (x2); (discipline) Rogue Weapon Training
+**Equipment Sphere** – **Talents** Finesse Fighting (x2); (discipline) Rogue Weapon Training
 • Finesse Fighting (x2); may use Dex instead of Strength for attack rolls w/ light or one-handed weapons; +2 damage when using Dex to hit and Strength to damage
-**Fencing Sphere**–**Talents** Expert Feint, Fast Feint
+**Fencing Sphere** – **Talents** Expert Feint, Fast Feint
 • Expert Feint; a feinted creature loses their Dexterity bonus to AC until the beginning of your next turn
 • Fast Feint; may feint as a move action; may expend martial focus after feinting a creature to move up to your speed w/o provoking attacks of opportunity
 • fatal thrust (deal +2d6 precision damage vs. flat-footed, flanked, or Dexterity-denied foes with attack actions or AoO, apply one (exploit))
 
 **Statistics**
-**Str**10,**Dex**18,**Con**13,**Int**16,**Wis**10,**Cha** 10
-**Base Atk**+5;**CMB**+8;**CMD** +18
+**Str** 10, **Dex** 18, **Con** 13, **Int** 16, **Wis** 10, **Cha** 10
+**Base Atk** +5; **CMB** +8; **CMD** +18
 **Feats** Extra Combat Talent (x3), Skill Focus (Craft (alchemy))
-**Skills**Escape Artist +11, Heal +10, Knowledge (local) +10, Linguistics +10, Perception +10, Sense Motive +7, Sleight of Hand +14;**Associated Skills** Bluff +7, Craft (alchemy) +16 (+23
+**Skills** Escape Artist +11, Heal +10, Knowledge (local) +10, Linguistics +10, Perception +10, Sense Motive +7, Sleight of Hand +14; **Associated Skills** Bluff +7, Craft (alchemy) +16 (+23
 when creating alchemical items); **Racial Modifiers** +2 Craft (alchemy), Perception, Use Magic Device
 **Languages** Abyssal, Aklo, Common, Draconic, Dwarven, Elven, Giant, Goblin, Halfling, Orcish, Undercommon
 **SQ** alchemist discoveries (feral mutagen, hallucinogen, volumizer), rodent empathy, swarming
@@ -1646,13 +1646,13 @@ A wide grin on the scaly face of this finely dressed bartender who shakes then p
 **XP** 2,400
 Male tiefling eliciter (empathetic duelist) 7
 LE Medium outsider (native)
-**Init**+3;**Senses**darkvision 60 ft.;**Perception** +11
+**Init** +3; **Senses** darkvision 60 ft.; **Perception** +11
 
 **Defense**
-**AC**19,**touch**14,**flat-footed** 15 (+5 armor, +4 Dex)
+**AC** 19, **touch** 14, **flat-footed** 15 (+5 armor, +4 Dex)
 **hp** 52 (7d8+14+6)
-**Fort**+5,**Ref**+9,**Will** +5; +3 vs. charm and compulsion
-**Resist**cold 5, electricity 5, fire 5;**Special Defenses** defensive empathy +3
+**Fort** +5, **Ref** +9, **Will** +5; +3 vs. charm and compulsion
+**Resist** cold 5, electricity 5, fire 5; **Special Defenses** defensive empathy +3
 
 **Offense**
 **Speed** 30 ft.
@@ -1660,13 +1660,13 @@ LE Medium outsider (native)
 **Special Attacks** emotions (DC 20; apathy (touch of apathy 7/day plus lethargic), empathetic link (swift action, DC 20 negates; range 40 ft., 6/day, +2 attack, damage, AC, & saves; apply emotion touch attacks to linked targets; move action to pin- point location of linked targets; 2 uses to target up to 4 targets, never considered flat-footed against linked targets)
 
 **Magic**
-**Casting Tradition**Street Mage (Somatic Casting, Verbal Casting); Boon Easy Focus;**CAM** Cha
-**CL**5 (7 w/ Mind);**MSB**+5;**MSD**16;**Concentration** +5
+**Casting Tradition** Street Mage (Somatic Casting, Verbal Casting); Boon Easy Focus; **CAM** Cha
+**CL** 5 (7 w/ Mind); **MSB** +5; **MSD** 16; **Concentration** +5
 **Spell Points** 11
-**Illusion Sphere**–**Talents** Suppression
+**Illusion Sphere** – **Talents** Suppression
 • figment, close (35 ft.); 1 sp, create an illusion with vision, sound, and touch up to a Huge-sized cube (15 ft.), DC 17 Will save to disbelieve
 • Suppression (glamer); (sight, invisibility) may hide while observed, +5 circumstance bonus to Stealth when observed, no armor check penalty to Stealth
-**Mind Sphere**–**Talents**Expanded Charm, Instill Charm, Powerful Charm; (charm) Amnesia, Inception;**Drawbacks** Inception (no suggestion)
+**Mind Sphere** – **Talents** Expanded Charm, Instill Charm, Powerful Charm; (charm) Amnesia, Inception; **Drawbacks** Inception (no suggestion)
 • Expanded Charm; (charm) effects may affect creatures of any type
 • Instill Charm (instill); may create (charm) effects as potions
 • Powerful Charm; may use powerful charm or cloud options, 2 sp
@@ -1679,21 +1679,21 @@ LE Medium outsider (native)
 - lesser charm (You may “create a rumor” in a target’s mind, suggesting information that a target “heard somewhere” or “read once” but that they have not actually encountered)
 - greater charm (As the lesser charm, but the target’s new memory can relate to things within their own experience or of their own devisement)
 - powerful charm (As the greater charm, though you may now craft entirely new memories of events that the target has personally witnessed)
-**Warp Sphere**–**Talents**Emergency Teleport;**Drawbacks** Personal Warp
+**Warp Sphere** – **Talents** Emergency Teleport; **Drawbacks** Personal Warp
 • teleport, close (35 ft., medium(150 ft.) 1 sp
 ◊ Emergency Teleport; teleport as an immediate action (10 ft.), 1 sp; if avoiding an attack, gain evasion and +2 dodge bonus to AC and Reflex vs. attack. Teleport as an immediate action (10 ft.). If avoiding an attack or area attack gain Evasion and a +2 dodge bonus and on Reflex saves
 
 **Combat**
-**Martial Tradition**Street Mage (Equipment, Fencing, Scoundrel, Scout);**PAM** Cha
-**Equipment Sphere**–**Talents** Finesse Fighting; (discipline) Rogue Weapon Training
+**Martial Tradition** Street Mage (Equipment, Fencing, Scoundrel, Scout); **PAM** Cha
+**Equipment Sphere** – **Talents** Finesse Fighting; (discipline) Rogue Weapon Training
 • Finesse Fighting; may use Dexterity with finessable weapons
 • Rogue Weapon Training (discipline); gain proficiency with a number of roguish weapons and +2 on Sleight of Hand
 **Fencing Sphere**
 • fatal thrust (deal 2d6 precision damage vs. flat-footed, flanked, or Dexterity-denied foes with attack actions or AoO, apply one (exploit))
-**Scoundrel Sphere**–**Talents** Distracting Trickery
+**Scoundrel Sphere** – **Talents** Distracting Trickery
 • marked target (swift action, touch attack +9, battered and -2 to Perception checks for 1 round)
 • Distracting Trickery; after a successful dirty trick or steal, target cannot make attacks of opportunity for 2 rounds
-**Scout Sphere**–**Talents** Sense And Resist Scrying
+**Scout Sphere** – **Talents** Sense And Resist Scrying
 • scout (swift action, Perception check at -5 penalty to identify weaknesses)
 • Sense And Resist Scrying; may detect scrying sensors (DC 20 + caster level). While maintaining martial focus, immediately become aware of any scrying effect and may force a magic skill check vs. stealth or become undetectable
 
@@ -1701,10 +1701,10 @@ LE Medium outsider (native)
 If Vetigen has time, Vetigen uses their illusion magic to hide, positioning themselves to strike. Vetigen will use their empathetic links on up to 4 opponents, then use positioning to their advantage or repositioning with Emergency Teleport.
 
 **Statistics**
-**Str**10,**Dex**18,**Con**14,**Int**14,**Wis**8,**Cha** 18
-**Base Atk**+5;**CMB**+5 (+11 w/ dirty trick, steal);**CMD** +18
+**Str** 10, **Dex** 18, **Con** 14, **Int** 14, **Wis** 8, **Cha** 18
+**Base Atk** +5; **CMB** +5 (+11 w/ dirty trick, steal); **CMD** +18
 **Feats** Cunning Caster, Deceitful, Extra Magic Talent (x2)
-**Skills**Diplomacy +17, Disguise +8, Intimidate +7, Knowledge (local, nobility) +12, Profession (bartender) +7, Sense Motive +14;**Associated Skills** Bluff +19, Sleight of Hand +11 (+12 to conceal weapon, +14 to conceal butterfly knife), Stealth +14
+**Skills** Diplomacy +17, Disguise +8, Intimidate +7, Knowledge (local, nobility) +12, Profession (bartender) +7, Sense Motive +14; **Associated Skills** Bluff +19, Sleight of Hand +11 (+12 to conceal weapon, +14 to conceal butterfly knife), Stealth +14
 **Languages** Common, Draconic, Infernal, Sylvan
 **SQ** exceptional resources, persuasive +3
 **Other Gear** +2 butterfly knife, +2 mithral chain shirt, belt of avian speed +2, bracers of armor +1, cape of resistance +1, eyes of the eagle, 195 gp
@@ -1725,12 +1725,12 @@ A crouched figure can be spotted in the distance, a crossbow bolt sticking out f
 **XP** 3,200
 Ratfolk hedgewitch (martial hedgewitch) 8
 LE Small humanoid (ratfolk)
-**Init**+8;**Senses**darkvision 60 ft.;**Perception** +9
+**Init** +8; **Senses** darkvision 60 ft.; **Perception** +9
 
 **Defense**
-**AC**20,**touch**15,**flat-footed** 16 (+5 armor, +4 Dex, +1 size)
+**AC** 20, **touch** 15, **flat-footed** 16 (+5 armor, +4 Dex, +1 size)
 **hp** 59(8d8+16)
-**Fort**+5,**Ref**+7,**Will** +8
+**Fort** +5, **Ref** +7, **Will** +8
 
 **Offense**
 **Speed** 20 ft.
@@ -1739,17 +1739,17 @@ LE Small humanoid (ratfolk)
 **Special Attacks** guile pool (7/day, +2 on skill check or 4d6 sneak attack)
 
 **Magic**
-**Casting Tradition**Psychic (Emotional Casting, Rigorous Concentration);**CAM** Int
-**CL**6;**MSB**+8;**MSD**19;**Concentration** +10
-**Spell Points**: 13
-**Fate Sphere**–**Talents**(word) Bless, Classify, Mercy, Open/Close, Truth;**Drawbacks** Neutrality (no Hallow), Tongue Of Ages (no consecrations)
+**Casting Tradition** Psychic (Emotional Casting, Rigorous Concentration); **CAM** Int
+**CL** 6; **MSB** +8; **MSD** 19; **Concentration** +10
+**Spell Points:** 13
+**Fate Sphere** – **Talents** (word) Bless, Classify, Mercy, Open/Close, Truth; **Drawbacks** Neutrality (no Hallow), Tongue Of Ages (no consecrations)
 • word, close (40 ft.), DC 15; apply a (word) effect
 ◊ Bless (word); immediate action, target may roll twice on next attack, skill, saving throw, or ability check, 1 sp
 ◊ Classify (word); target reveals information, Will ne- gates, 1 sp
 ◊ Mercy (word); target may only deal nonlethal damage, Will negates, 1 sp
 ◊ Open/Close (word); open a target object (**MSB** +10 vs. Disable Device or Strength DC) or force close (add +10 to DC to open), 1 sp
 ◊ Truth (word); target cannot knowingly lie, and is aware they cannot, Will negates, 1 sp
-**Light Sphere**–**Talents**(lems) Aiming Scope, Chameleon, Infravision, Periscope;**Drawbacks** Lens Focus (lens only)
+**Light Sphere** – **Talents** (lems) Aiming Scope, Chameleon, Infravision, Periscope; **Drawbacks** Lens Focus (lens only)
 • lens, 1 sp, grant the target a (lens) or place a (lens) at a loca- tion for 6 hours
 ◊ Aiming Scope (lens); targets are 1 range increment closer; +1 competence bonus on attack rolls
 ◊ Chameleon (lens); +2 bonus (CAM) on Stealth and may hide while observed, must move less than 5 ft. per round
@@ -1758,14 +1758,14 @@ LE Small humanoid (ratfolk)
 ◊ Telescope (lens); +3 bonus on sight-based Perception and sight-based Perception DC increases by +60 ft. (+1 per 70 ft.).
 
 **Combat**
-**Martial Tradition**Canny Hunter (Equipment x2, Scout, Sniper);**PAM** Int
-**Equipment Sphere**–**Talents** Expert Reloading; (discipline) Huntsman Training
+**Martial Tradition** Canny Hunter (Equipment x2, Scout, Sniper); **PAM** Int
+**Equipment Sphere** – **Talents** Expert Reloading; (discipline) Huntsman Training
 • Expert Reloading; reduce reloading speeds by 1 step
 • Huntsman Training (discipline); proficiency in a number of ranged and thrown weapons, reduce range increment penalty by 1 (as far shot)
-**Scout Sphere**–**Talents** Hidden Appearance.
+**Scout Sphere** – **Talents** Hidden Appearance.
 • scout (swift action, Perception check at -5 penalty to identify weaknesses)
 • Hidden Appearance; may use Stealth modifier in place of Disguise to change appearance
-**Sniper Sphere**–**Talents** Focusing Reload, Lethal Precision; (snipe) Pinning Shot, Tactile Shot
+**Sniper Sphere** – **Talents** Focusing Reload, Lethal Precision; (snipe) Pinning Shot, Tactile Shot
 • deadly shot (special attack action; add one (snipe); expend martial focus, +2d10 or 2d6 if vs. touch); (snipe) DC 15
 ◊ Pinning Shot (snipe); target gains grappled condition; ammunition can be broken or removed (Escape Artist or CMB vs. CMD -4)
 ◊ Tactile Shot (snipe); may manipulate objects at range (steal, open/close, use, light/extinguish)
@@ -1775,11 +1775,11 @@ LE Small humanoid (ratfolk)
 Agents generally try to avoid combat unless ordered to, preferring to leverage their skill as spies and go unnoticed. If forced into combat, the agent makes use of their Pinning Shot (snipe) talent to lock down enemies and reposition. If initiating combat, agents excel at long-distance attacks with their numerous methods to decrease range penalties and increase their odds of successful strikes.
 
 **Statistics**
-**Str**10,**Dex**18,**Con**14,**Int**14,**Wis**12,**Cha** 12
-**Base Atk**+6;**CMB**+5;**CMD** +19
+**Str** 10, **Dex** 18, **Con** 14, **Int** 14, **Wis** 12, **Cha** 12
+**Base Atk** +6; **CMB** +5; **CMD** +19
 **Feats** Bonded Mind, Improved Initiative, Skill Focus (Stealth), Stealth Synergy
 
-**Skills**Acrobatics +15, Bluff +14, Climb +11, Disable Device +19, Knowledge (local) +10, Perception +9, Perform (keyboard) +12, Sense Motive +14, Sleight Of Hand +17;**Associated Skills**Stealth +26;**Racial Modifiers**+2 Bluff, +2 Sense Motive, +2 Stealth;**Favored Class Bonus** +8 skill ranks
+**Skills** Acrobatics +15, Bluff +14, Climb +11, Disable Device +19, Knowledge (local) +10, Perception +9, Perform (keyboard) +12, Sense Motive +14, Sleight Of Hand +17; **Associated Skills** Stealth +26; **Racial Modifiers** +2 Bluff, +2 Sense Motive, +2 Stealth; **Favored Class Bonus** +8 skill ranks
 **Languages** Common, Halfling, Orc
 **SQ** hedgewitch path (charlatanism), hedgewitch secrets (combat talent (x2), exceptional skill (Stealth), trapfinding), versatile performance (keyboard)
 **Combat Gear** barkskin elixir (3), blessed stick, crystal grenade (2);
@@ -1798,12 +1798,12 @@ A short woman with a heavy embossed cloak drifts through the streets, her eyes d
 **XP** 51,200
 Female skinwalker (nightskulk) troubadour 15
 LN Medium humanoid (shapechanger, skinwalker)
-**Init**+4;**Senses**low-light vision, scent 30 ft.;**Perception** +18
+**Init** +4; **Senses** low-light vision, scent 30 ft.; **Perception** +18
 
 **Defense**
-**AC**27,**touch**24,**flat-footed** 23 (+8 armor, +4 deflection, +4 Dex, +3 natural)
+**AC** 27, **touch** 24, **flat-footed** 23 (+8 armor, +4 deflection, +4 Dex, +3 natural)
 **hp** 138 (15d8+60)
-**Fort**+14,**Ref**+18,**Will** +17
+**Fort** +14, **Ref** +18, **Will** +17
 **Defensive Abilities** delayed damage pool 33, flexible truth (DC 22 magic skill check vs. truth detection), unarmored training +8
 
 **Offense**
@@ -1813,20 +1813,20 @@ LN Medium humanoid (shapechanger, skinwalker)
 **Special Attacks** distraction (DC 21 Fort save, sickens)
 
 **Magic**
-**Casting Tradition**Lycanthrope (Wild Magic);**CAM** Int
-**CL**7 (15 w/ personas w/ mentor trope);**MSB**+15;**MSD** 26;
+**Casting Tradition** Lycanthrope (Wild Magic); **CAM** Int
+**CL** 7 (15 w/ personas w/ mentor trope); **MSB** +15; **MSD** 26;
 **Concentration** +21
 **Spell Points** 24
-**Alteration Sphere**–**Talents**Swarm Shape;**Drawbacks** Lycanthropic
+**Alteration Sphere** – **Talents** Swarm Shape; **Drawbacks** Lycanthropic
 • shapeshift, self, DC 19; 2 traits, concentration, 7 minutes with 1 sp.
-**Dark Sphere**–**Talents** Obfuscate, Shadow Stash; (shadow) Shadow Tag
+**Dark Sphere** – **Talents** Obfuscate, Shadow Stash; (shadow) Shadow Tag
 • darkness, medium (170 ft.), DC 19; 25-ft. radius becomes dim light, concentration, 7 min. w/ 1 sp
 • meld, touch, standard action, grant target a (meld)
 ◊ Darkvision (meld); 1 sp, grant 60 ft. darkvision for 7 hours
 • shadow, medium (170 ft.), DC 19; apply (shadow)
 ◊ Shadow Tag (shadow); know the location and status of shadowed creatures for 7 hours (Will negates)
 • Shadow Stash; extradimensional storage, 35 lbs., can store as move action, retrieve from shadow with action based on where item was stored (on person, held, backpack, etc.)
-**Divination Sphere**–**Talents** (divine) Witness The City divine medium (170 ft.), DC 19; (gain information about Magic auras within 170 ft.)
+**Divination Sphere** – **Talents** (divine) Witness The City divine medium (170 ft.), DC 19; (gain information about Magic auras within 170 ft.)
 ◊ Alternate Divinations; Dark (Divine Dark, Divine Shadow), Fate (Divine Alignment, Divine Fate, Detect Loyalties), Life (Divine Life)
 ◊ Witness The City (divine); Diplomacy check to gather information, 1 sp
 • sense, personal, DC 19; (gain sense for 7 hours)
@@ -1842,28 +1842,28 @@ LN Medium humanoid (shapechanger, skinwalker)
 • restore, touch, DC 19; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
 
 **Combat**
-**Martial Tradition**Gangster (Alchemy, Equipment x2, Scoundrel);**PAM** Int
-**Alchemy Sphere**–**Packages**formulae;**Talents** (formulae) Focusing Formula
+**Martial Tradition** Gangster (Alchemy, Equipment x2, Scoundrel); **PAM** Int
+**Alchemy Sphere** – **Packages** formulae; **Talents** (formulae) Focusing Formula
 • formulae, DC 21; use Craft (alchemy) +24; can prepare up to 8 formulae
 ◊ Focusing Formula (formulae); move action, regain martial focus, 2 uses
 **Berserker Sphere**
 • berserking (free action, -2 AC to gain +14 temporary hit points for 1 round)
 • brutal strike (special attack action, hit targets are battered for 1 round; expend martial focus +22 damage)
-**Equipment Sphere**–**Talents** Unarmored Training; (discipline) Firearm Proficiency
+**Equipment Sphere** – **Talents** Unarmored Training; (discipline) Firearm Proficiency
 • Unarmored Training; +8 armor bonus, applies against touch
-**Gladiator Sphere**–**Talents** Master Of Fear; (boast) Steel Braggart
+**Gladiator Sphere** – **Talents** Master Of Fear; (boast) Steel Braggart
 • boast (immediate action after critical hit, reduce enemy to 0, or successful combat maneuver, apply (boast) in 60-ft. radius)
 ◊ Prowess (boast); roll twice on next attack roll
 ◊ Steel Braggart (boast); gain DR 7/– until end of next turn
 • strike fear (standard action, expend martial focus, demoralize 30-ft. radius; apply (demoralization) to enemies shaken); Master Of Fear (may use strike fear as a standard action w/o expending martial focus); (demoralize) additional effects vs. feared targets
-**Guardian Sphere**–**Packages**challenge;**Talents**Defend Other;**Legendary Talents** I Will Come, I Will Hear
+**Guardian Sphere** – **Packages** challenge; **Talents** Defend Other; **Legendary Talents** I Will Come, I Will Hear
 • delayed damage (delay up to 33 damage until the end of your next turn)
 • challenge (swift, 8 rounds, target takes -4 attack vs. others, +2 vs. you)
 ◊ Defend Other; immediate, move up to half speed and ally gets +5 AC
 • I Will Hear; bonded creatures (11 max) can call out anywhere, even across planes; I Will Come (teleport to bonded creatures as a full-round action)
 **Scoundrel Sphere**
 • marked target (swift action, melee touch attack, inflict battered and -2 Perception penalty)
-**Scout Sphere**–**Talents** Lurker
+**Scout Sphere** – **Talents** Lurker
 • Lurker; unusual senses such as blindsight or tremorsense do not automatically foil Stealth check
 • scout (swift action, Perception check at -5 penalty to identify weaknesses)
 
@@ -1872,10 +1872,10 @@ The Left Hand casts Witness The City 6 times to gather information about their p
 If the Left Hand anticipates combat, they will cast the Hallow word on themselves against good. Combat tactics for each persona are briefly summarized with each persona below.
 
 **Statistics**
-**Str**16,**Dex**18,**Con**18,**Int**22,**Wis**16,**Cha** 18
-**Base Atk**+11;**CMB**+14;**CMD** 32
-**Feats**Combat Expertise, Counterspell, Extra Combat Talent (x3), Extra Magic Talent (x3);**Associated Feats** Lurker In Darkness; Traits Unorthodox Casting
-**Skills**Appraise +24, Bluff +22 (+30 if about personas), Diplomacy +22, Disable Device +22, Disguise +22 (+30 if used with personas), Knowledge (local) +24, Perception +18, Perform (sing) +22, Sense Motive +21, Spellcraft +24, Use Magic Device +22;**Associated Skills**Craft (alchemy) +24, Intimidate +22, Sleight of Hand +22, Stealth +22;**Favored Class Bonus** +15
+**Str** 16, **Dex** 18, **Con** 18, **Int** 22, **Wis** 16, **Cha** 18
+**Base Atk** +11; **CMB** +14; **CMD** 32
+**Feats** Combat Expertise, Counterspell, Extra Combat Talent (x3), Extra Magic Talent (x3); **Associated Feats** Lurker In Darkness; Traits Unorthodox Casting
+**Skills** Appraise +24, Bluff +22 (+30 if about personas), Diplomacy +22, Disable Device +22, Disguise +22 (+30 if used with personas), Knowledge (local) +24, Perception +18, Perform (sing) +22, Sense Motive +21, Spellcraft +24, Use Magic Device +22; **Associated Skills** Craft (alchemy) +24, Intimidate +22, Sleight of Hand +22, Stealth +22; **Favored Class Bonus** +15
 skill points
 **Languages** Aklo, Common, Draconic, Gnoll, Infernal, Sylvan, Undercommon
 **SQ** actor trainings (any face, expert change, impersonator, rapid change, renown, true disguise), greater actor, master actor, personas (base plus 5, 3 tropes), quick change
@@ -1891,37 +1891,37 @@ Carmella, as the Left Hand, has developed a number of personas to perform her du
 
 **Personas**
 **[Base Persona] Leisure-Suit Carmella**
-**Trope**Fool (via. Performer’s Synergy);**Trope Benefit** Fumble,
+**Trope** Fool (via. Performer’s Synergy); **Trope Benefit** Fumble,
 +4 all saving throws
 **Notes** Carmella is largely a non-combatant, choosing to maintain a low profile when not impersonating or on the job. Carmella will attempt to deny her association with the Rat Skull Mafia unless confronted with hard evidence.
 
 **[Persona 1] Godfather’s Body Double (vigilante persona)**
 LE Male ratfolk, dressed in a black suit with crimson pinstripe
-**Trope**Hero, Scoundrel, Villain;**Trope Benefit** full base attack bonus, sneak attack +5d6, aura of fear
+**Trope** Hero, Scoundrel, Villain; **Trope Benefit** full base attack bonus, sneak attack +5d6, aura of fear
 **Quirks** Aura of Compulsion, Big Bad, Bloodlust, Cruelty, The Don, Fear Eater, Villainous Monologue
 **Notes** The Left Hand’s primary persona is the Godfather’s, serving as a body double and field agent so that the Godfather himself does not get placed in harm’s way. In combat, the Left Hand as the Godfather uses intimidation and fear effects to create openings against their foes.
 
 **[Persona 2] Leandra the Fence**
 CN Female halfling, dressed in a black suit with crimson pinstripe
-**Trope**Cunning Servant, Mentor, Scoundrel;**Trope Benefit** inspiration (13/day, +1d4), full caster level, sneak attack +5d6
+**Trope** Cunning Servant, Mentor, Scoundrel; **Trope Benefit** inspiration (13/day, +1d4), full caster level, sneak attack +5d6
 **Quirks** Applied Engineering, Device Talent, Expanded Inspiration, Inspired Intelligence, Group Aid, Underworld Inspiration, Word of Aid
 **Notes** Leandra is a chatty merchant and fence for stolen goods, this persona is primarily used to keep tabs on fellow mafia members. As Leandra, the Left Hand tries to exploit their sneak attack as often as possible, using Stealth and their Dark sphere effects to leverage blind spots. Leandra will flee if heavily outnumbered or placed in poor circumstances.
 
 **[Persona 3] Amara the Nightclub Diva**
 CN Female elf, dressed in emerald silks
-**Trope**Fool, Lover, Mentor;**Trope Benefit** fumble, bardic performance (21 rounds/day), full caster level
+**Trope** Fool, Lover, Mentor; **Trope Benefit** fumble, bardic performance (21 rounds/day), full caster level
 **Quirks** Diva, Fascination, The Heart, Ingenue, Inspire, Inspire Greatness, Inspire Heroics
 **Notes** Amara owns and operates the Rat Skull Mafia’s primary speakeasy and club to gather information and blackmail clientele. The Left Hand as Amara supports the other mafia members in the club with her bardic performances and consecrations while looking for an angle to flee.
 
 **[Persona 4] Giovanni the Sergeant**
 LN Male human, dressed in worn-down mercenary gear
-**Trope**Hero, Mentor, Scoundrel;**Trope Benefit** full base attack bonus, full caster level, sneak attack +5d6
+**Trope** Hero, Mentor, Scoundrel; **Trope Benefit** full base attack bonus, full caster level, sneak attack +5d6
 **Quirks** Martial Prowess (x5), Paragon, Resolute
 **Notes** Giovanni is the Left Hand’s persona used as a mole with the city guard. Giovanni will often be accompanied by other members of the town’s guard and fights honestly and valiantly. The bonus combat talents from martial prowess are Guardian (Endure Pain), Shield (Blockade, Redirecting Shield), and Scout (Track The Scene).
 
 **[Persona 5] Matteo the Magister**
 LN Male dwarf, dressed in judicial robes
-**Trope**Cunning Servant, Mentor, Villain;**Trope Benefit** inspiration (13/day, +1d4), full caster level, aura of fear
+**Trope** Cunning Servant, Mentor, Villain; **Trope Benefit** inspiration (13/day, +1d4), full caster level, aura of fear
 **Quirks** Magical Training (x7)
 **Notes** Matteo is a diplomatic manipulator. The Left Hand uses this persona to infiltrate the court systems to obstruct justice and have access to confidential files on the city. The Left Hand rarely fights as Matteo and will usually resort to memory manipulation before lethal combat. The bonus magic talents from magical training are Fate (Truth (word)), Mind (Amnesia (charm), Inception (charm), Mass Charm [mass], Powerful Charm, Subtlety).
 
@@ -1933,14 +1933,14 @@ A very short woman stands before you, cat-like eyes, sharp slanted horns and pow
 **XP** 819,200
 Female great wyrm lunar dragon (Pathfinder Roleplaying Game: Bestiary 5)
 NG Medium dragon
-**Init**-2 (+8 w/ Rapid Response);**Senses**dragon senses, see in darkness, spiritsense 60 ft.;**Perception** +41
+**Init** -2 (+8 w/ Rapid Response); **Senses** dragon senses, see in darkness, spiritsense 60 ft.; **Perception** +41
 **Aura** alien presence (300 ft., DC 33, dragon form only)
 
 **Defense**
-**AC**55,**touch**29,**flat-footed** 39 (+29 natural, +16 Str)
+**AC** 55, **touch** 29, **flat-footed** 39 (+29 natural, +16 Str)
 **hp** 462 (28d12+280); fast healing 10 (lifeweaver)
-**Fort**+32,**Ref**+20,**Will** +31
-**Defensive Abilities**delayed damage pool 112, reflect rays, reflected light;**DR**20/magic;**Immune** cold, paralysis, sleep;
+**Fort** +32, **Ref** +20, **Will** +31
+**Defensive Abilities** delayed damage pool 112, reflect rays, reflected light; **DR** 20/magic; **Immune** cold, paralysis, sleep;
 **SR** 33
 
 **Offense**
@@ -1949,12 +1949,12 @@ NG Medium dragon
 **Special Attacks** bewildering breath, breath weapon (120-ft. line, 24d8 Cold, DC 34), combat stamina (38, may spend 5 as martial focus, Life sphere heals stamina), crush (dragon form only), great focus (2 martial focus), moonsilver, sequence (max 10), tail sweep (dragon form only), techniques (All-Consuming Swing [complexity 11])
 
 **Magic**
-**Casting Tradition**Spoken Power (Magical Signs, Verbal Casting, Skilled Casting (Linguistics));**CAM** Int
-**CL**20 (21 w/ Life, Time);**MSB**+20;**MSD**31;**Concentration** +29
+**Casting Tradition** Spoken Power (Magical Signs, Verbal Casting, Skilled Casting (Linguistics)); **CAM** Int
+**CL** 20 (21 w/ Life, Time); **MSB** +20; **MSD** 31; **Concentration** +29
 **Spell Points** 51
-**Alteration Sphere**–**Talents**Extra Limbs;**Drawbacks** Lycanthropic
+**Alteration Sphere** – **Talents** Extra Limbs; **Drawbacks** Lycanthropic
 *Cerina usually does not cast Alteration sphere effects; she possesses the talents for the Transformation feat
-**Destruction Sphere**–**Talents**Admixture; (blast shape) Energy Strike; (blast type) Incandescent Blast;**Drawbacks** Destructive Touch (touch only), Energy Focus (light)
+**Destruction Sphere** – **Talents** Admixture; (blast shape) Energy Strike; (blast type) Incandescent Blast; **Drawbacks** Destructive Touch (touch only), Energy Focus (light)
 • Admixture; may use multiple (blast type), splitting damage; Time-Thief Admixture; +1 sp, apply a (time) effect, deal full damage with blast
 • destructive blast, touch only, DC 29; 10d6 damage, +1 sp 20d6; use with (blast shape), inflict a (blast type)
 ◊ (blast shape)
@@ -1963,7 +1963,7 @@ NG Medium dragon
 ◊ (blast type)
 ◊ Incandescent Blast (blast type, light); blast damage is untyped, d4 or d8 vs. undead or sunlight
 vulnerable; affected creatures suffer a -2 on Perception and Will saves
-**Life Sphere**–**Talents**Affliction, Break Enchantment, Lingering Resilience, Resuscitate, Revitalize, Sanctify, Self-Renewal; (cure) Restore Capacity, Restore Health, Restore Senses, Restore Spirit;**Advanced Talents** Make Whole, Resurrection
+**Life Sphere** – **Talents** Affliction, Break Enchantment, Lingering Resilience, Resuscitate, Revitalize, Sanctify, Self-Renewal; (cure) Restore Capacity, Restore Health, Restore Senses, Restore Spirit; **Advanced Talents** Make Whole, Resurrection
 • cure, touch, DC 29; cure 1d8+105 hit points, 1 sp
 ◊ Affliction; melee touch (1d8+105 negative energy; Will half), 1 sp
 ◊ Lingering Resilience; grant DR 10/– for 2 rounds after healing
@@ -1980,9 +1980,9 @@ vulnerable; affected creatures suffer a -2 on Perception and Will saves
 ◊ Sanctify; inflict 1d6 negative levels
 • Resurrection; 3 sp, 1 minute, return creature back to life within 21 days of death
 • Self-Renewal; +1 sp to use cure or restore as a swift; +1 sp to cast while under the effects of a condition you can restore
-**Time Sphere**–**Talents** Improved Haste, Rapid
+**Time Sphere** – **Talents** Improved Haste, Rapid
 Response, Time Strike; (time) Shift Time, Steal Time;
-**Advanced Talents**Temporal Haste;**Drawbacks** Altered Time (no slow)
+**Advanced Talents** Temporal Haste; **Drawbacks** Altered Time (no slow)
 • alter time, touch, DC 29; apply a (time) effect to the target
 ◊ Haste (time); +50 ft. enhancement to movement, +3 dodge bonus to AC, Reflex,
 and attack rolls, +1 attack during full attack or +5 attacks of opportunity, concentration or 1 sp for 21 rounds; Temporal Haste +1 sp, target gains an additional move or swift action for duration
@@ -1992,26 +1992,26 @@ and attack rolls, +1 attack during full attack or +5 attacks of opportunity, con
 • Time Strike; may deliver an alter time effect with a weap- on attack
 
 **Combat**
-**Martial Tradition**Draconic Exemplar (Athletics x3, Equipment);**PAM** Int
-**Athletics Sphere**–**Packages**fly, leap, run;**Talents**Expanded Training, Strong Lungs, Swift Movement, Wall Stunt;**Legendary Talents** Air Stunt, Dragoon’s Leap
-**Berserker Sphere**–**Talents** (exertion) Bell-Ringer;
+**Martial Tradition** Draconic Exemplar (Athletics x3, Equipment); **PAM** Int
+**Athletics Sphere** – **Packages** fly, leap, run; **Talents** Expanded Training, Strong Lungs, Swift Movement, Wall Stunt; **Legendary Talents** Air Stunt, Dragoon’s Leap
+**Berserker Sphere** – **Talents** (exertion) Bell-Ringer;
 **Legendary Talents** (exertion) Spell Sunder
 • berserking (free action, -2 AC to gain +31 temporary hit points for 1 round)
 • brutal strike (special attack action, hit targets are battered for 1 round; expend martial focus +56 damage); apply an (exertion), DC 33
 ◊ Bell-Ringer (exertion); -8 Will and concentration while battered
 ◊ Spell-Sunder (exertion); as a sunder, may suppress or dispel a spell effect; if not on a creature, CMD 15 + caster level if not on a creature, if on a creature, CMD +5 to suppress for 1 round, +6 - 9 for 2 rounds, +10 to dispel
-**Brute Sphere**–**Talents** Focused Might, Muscular Surge;
+**Brute Sphere** – **Talents** Focused Might, Muscular Surge;
 **Legendary Talents** Giant, Titan
 • shove +44 melee touch (move action, move half speed (20 ft. or 120 ft. fly), deal 16 damage plus battered condition)
 ◊ Focused Might; regain martial focus when shove is successful
 • Muscular Surge; +14 on all Acrobatics, Strength, and Strength-based skill checks and carrying capacity; Giant; free action (constant) and not fatigued, carry capacity x2; Titan; carry capacity x10 and treated as 1 size larger for combat maneuvers
-**Equipment Sphere**–**Legendary Talents** Force Redirection Technique
+**Equipment Sphere** – **Legendary Talents** Force Redirection Technique
 • Force Redirection Technique; use Strength instead of Dexterity for armor class (max +16)
-**Guardian Sphere**–**Talents**Cold Iron Call, Durable, Greater Delayed Damage Pool;**Drawbacks** Indifferent Defender (no package)
+**Guardian Sphere** – **Talents** Cold Iron Call, Durable, Greater Delayed Damage Pool; **Drawbacks** Indifferent Defender (no package)
 • delayed damage (delay up to 112 damage until the end of your next turn); Greater Delayed Damage Pool; +1 per BAB (included)
 ◊ Cold Iron Call; may delay spell or spell-like abilities when targeted, treating spell as hit point damage equal to effect’s caster level; spells may be cured or dispelled before taking effect
 ◊ Durable; may delay natural, extraordinary, and super- natural abilities that inflict conditions (most, see talent), treating effect as hit point damage equal to Hit Dice of effect’s source; effects may be cured or dispelled before taking effect
-**Scout Sphere**–**Talents**Heightened Awareness, Study Technique;**Legendary Talents** Magehunter’s Vision;
+**Scout Sphere** – **Talents** Heightened Awareness, Study Technique; **Legendary Talents** Magehunter’s Vision;
 **Drawbacks** Veteran Warrior (no Stealth ranks)
 • scout (swift action, Perception check at -5 penalty to identify weaknesses)
 ◊ Study Technique; learn base attack bonus and martial spheres known after successfully scouting
@@ -2025,10 +2025,10 @@ to keep her additional arms and wings folded beneath the cloak but has difficult
 Cerina is very difficult to keep down. She uses her delayed dam- age pool as often as possible, especially when able to delay conditions or spells, and purges them with her Life sphere restorative magics.
 
 **Statistics**
-**Str**43,**Dex**7,**Con**30,**Int**28,**Wis**28,**Cha** 28
-**Base Atk**+28;**CMB**+47;**CMD** +55
+**Str** 43, **Dex** 7, **Con** 30, **Int** 28, **Wis** 28, **Cha** 28
+**Base Atk** +28; **CMB** +47; **CMD** +55
 **Feats** Combat Stamina, Craft Technique, Extra Combat Talent, Extra Magic Talent (x2), Focused Stamina, Fortified Healing, Great Focus, Hybrid Transformation, Improved Transformation, Quicken Spell, Snatch, Time-Thief ’s Admixture, Transformation (Anthropomorphic Transformation)
-**Skills**Appraise +41, Bluff +21, Climb +17, Diplomacy +8, Disguise +18, Heal +41, Intimidate +21, Knowledge (arcana, dungeoneering, geography, local, nature, planes) +41, Knowledge (religion) +23, Linguistics +41, Perception +41, Perform (dance) +36, Profession (carpentry) +38, Sense Motive +41, Spellcraft +41, Survival +14;**Associated Skills** Acrobatics +27, Fly +22
+**Skills** Appraise +41, Bluff +21, Climb +17, Diplomacy +8, Disguise +18, Heal +41, Intimidate +21, Knowledge (arcana, dungeoneering, geography, local, nature, planes) +41, Knowledge (religion) +23, Linguistics +41, Perception +41, Perform (dance) +36, Profession (carpentry) +38, Sense Motive +41, Spellcraft +41, Survival +14; **Associated Skills** Acrobatics +27, Fly +22
 **Languages** Abyssal, Aklo, Common, Elven, Infernal
 **SQ** absolute cold, exemplar, flawless sequence, imbue sequence, integrated techniques, lifeweaver, no breath, sequence, starflight
 **Other Gear** silver-pleated rat skull locket (instructing merciful amulet of mighty fists), chronostabilizing foci (+1 Time sphere implement, 4 bonus talents [Improved Haste, Rapid Response, Shift Time, Temporal Haste]), lifeweaver’s foci (+1 Life sphere implement, 4 bonus talents [Lingering Resilience, Resuscitate, Resurrection, Sanctify]) cape of resistance +5}, luckstone, ring of freedom of movement
@@ -2055,13 +2055,13 @@ Cerina knows little about her past, unknowingly presenting herself as a hybrid b
 
 **XP** 1,200
 N Medium monstrous humanoid (shapechanger)
-**Init**+3;**Senses**darkvision 60 ft.;**Perception** +10
+**Init** +3; **Senses** darkvision 60 ft.; **Perception** +10
 
 **Defense**
-**AC**16,**touch**13,**flat-footed** 13 (+3 Dex, +3 natural)
+**AC** 16, **touch** 13, **flat-footed** 13 (+3 Dex, +3 natural)
 **hp** 32 (4d10+12)
-**Fort**+4,**Ref**+7,**Will** +7
-**Defensive Abilities**deep fake;**Immune** compulsion
+**Fort** +4, **Ref** +7, **Will** +7
+**Defensive Abilities** deep fake; **Immune** compulsion
 
 **Offense**
 **Speed** 30 ft.
@@ -2069,15 +2069,15 @@ N Medium monstrous humanoid (shapechanger)
 **Special Abilities** right for the job
 
 **Magic**
-**Casting Tradition**Natural;**CAM** Cha
-**CL**4;**MSB**+4;**MSD**15;**Concentration** +7
+**Casting Tradition** Natural; **CAM** Cha
+**CL** 4; **MSB** +4; **MSD** 15; **Concentration** +7
 **Spell Points** 7
 **Talents** – See Right For The Job
 **Combat** – See Right For The Job
 
 **Statistics**
-**Str**16,**Dex**16,**Con**16,**Int**16,**Wis**16,**Cha** 16
-**Base Atk**+4;**CMB**+7;**CMD** +20
+**Str** 16, **Dex** 16, **Con** 16, **Int** 16, **Wis** 16, **Cha** 16
+**Base Atk** +4; **CMB** +7; **CMD** +20
 **Feats** Combat Reflexes, Improved Initiative, Power Attack
 **Skills** Bluff +7, Disable Device +7, Disguise +7 (+17 w/ change shape), Knowledge (local) +7, Perception +10, Sense Motive +7, Spellcraft +7
 **Languages** Common, Aklo
@@ -2132,12 +2132,12 @@ This humanoid’s duster hung loosely around battered armor covering their form,
 **XP** 2,400
 Human armiger (bounty hunter) 7
 NE Medium humanoid (human)
-**Init**+0;**Senses** **Perception** +10
+**Init** +0; **Senses** **Perception** +10
 
 **Defense**
-**AC**21,**touch**10,**flat-footed** 21 (+9 armor, +2 balanced defence)
+**AC** 21, **touch** 10, **flat-footed** 21 (+9 armor, +2 balanced defence)
 **hp** 74 (7d10+28)
-**Fort**+8,**Ref**+5,**Will** +4
+**Fort** +8, **Ref** +5, **Will** +4
 
 **Offense**
 **Speed** 30 ft.
@@ -2145,16 +2145,16 @@ NE Medium humanoid (human)
 **Special Attacks** lightning change 3/round, rapid assault, rapid subdual
 
 **Combat**
-**Martial Tradition**Animal Trainer (Beastmastery x2, Equipment x2);**PAM** Wis
-**Beastmastery Sphere**–**Packages**ride;**Talents** Animal Companion (x2)
+**Martial Tradition** Animal Trainer (Beastmastery x2, Equipment x2); **PAM** Wis
+**Beastmastery Sphere** – **Packages** ride; **Talents** Animal Companion (x2)
 • defensive rider (attack of opportunity, use Ride check in- stead of mount’s AC or Reflex save)
 • Animal Companion (x2); gain an animal companion at full progression
-**Equipment Sphere**–**Talents** Armor Training, Balanced Defense, Unfettering Armor; (discipline) Bounty Hunters Tools
+**Equipment Sphere** – **Talents** Armor Training, Balanced Defense, Unfettering Armor; (discipline) Bounty Hunters Tools
 • Armor Training; proficiency in medium and heavy armor
 • Balanced Defense; While wielding a light or one-handed weapon and nothing in any other hand you possess, you gain a +1 shield bonus to AC. For every 4 points of base attack bonus you possess, this bonus increases by +1. Attacking with an off-hand weapon, making more than one natural attack on your turn, or using abilities such as a monk’s flurry of blows or a magus’ spell combat suppresses this bonus until the start of your next turn.
 • Bounty Hunters Tools (discipline); gain proficiency with the bola, garrote, grappling hook, harpoon, kyoketsu shoge, lasso, mancatcher, net, net launcher, sap, and whip. You may deal nonlethal damage with any of these weapons at no penalty and treat them all as having the grapple special feature.
 • Unfettering Armor; You may move at your normal speed while wearing medium armor. At +7 base attack bonus you may move your normal speed while wearing heavy armor.
-**Wrestling Sphere**–**Talents**; Snag, Rest Hold
+**Wrestling Sphere** – **Talents**; Snag, Rest Hold
 • Rest Hold; move action while grappling, regain martial focus and use creature for partial cover; missed attacks due to cover hit grappled target
 • snag (swift action, melee touch attack +17, batter target until end of turn or while grappled)
 Customized Weapons
@@ -2163,15 +2163,15 @@ Customized Weapons
 • mwk manacles (as a light flail) – **Talents** Beastmastery sphere (Armored Mount), Wrestling sphere (Hammerlock; (slam) Clinch Strike)
 
 **Tactics**
-**Before Combat**: A kidnapper is often only in a fight to capture their mark. If given time, they will try to observe their mark from afar and learn their habits, and formulate a plan.
-**During Combat**: A kidnapper attempts to ambush their target, grappling and incapacitating them before escaping or assisting allies with the fight.
+**Before Combat:** A kidnapper is often only in a fight to capture their mark. If given time, they will try to observe their mark from afar and learn their habits, and formulate a plan.
+**During Combat:** A kidnapper attempts to ambush their target, grappling and incapacitating them before escaping or assisting allies with the fight.
 **Grappling:** The kidnapper makes fluid use of their armiger class features, starting with their brass knuckles to use the Accomplice talent and initiate a grapple after their wolf successfully trips the mark. The kidnapper then switches to their customized manacles and attempts to pin and tie up the target with the manacles, before moving their mark onto their wolf.
 
 **Statistics**
-**Str**18,**Dex**10,**Con**16,**Int**13,**Wis**14,**Cha** 8
-**Base Atk**+7;**CMB**+11 (+15 when grappling, +16 w/ manacles or brass knuckles);**CMD** +21 (23 vs. Grapple)
+**Str** 18, **Dex** 10, **Con** 16, **Int** 13, **Wis** 14, **Cha** 8
+**Base Atk** +7; **CMB** +11 (+15 when grappling, +16 w/ manacles or brass knuckles); **CMD** +21 (23 vs. Grapple)
 **Feats** Extra Combat Talent (x2), Improved Grapple, Great Focus, Greater Grapple, Quick Draw
-**Skills**Handle Animal +6, Heal +9, Perception +12, Stealth +2, Survival +12;**Associated Skills** Ride +5 (+10 while mounted);
+**Skills** Handle Animal +6, Heal +9, Perception +12, Stealth +2, Survival +12; **Associated Skills** Ride +5 (+10 while mounted);
 **ACP** -5 (this is reflected in the kidnapper’s statistics)
 **Languages** Human, Goblin
 **SQ** prowess (bare-fisted training, cuffs, hog tie), rapid subdual
@@ -2185,20 +2185,20 @@ A kidnapper is a mercenary frequently hired to capture and drag back a mark, oft
 
 **XP** 0
 TN Large animal
-**Init**+2;**Senses**low-light vision, scent;**Perception** +5
+**Init** +2; **Senses** low-light vision, scent; **Perception** +5
 
 **Defense**
-**AC**20,**touch**11,**flat-footed** 18 (+3 armor, +2 Dex, +4 natural, -1 size)
+**AC** 20, **touch** 11, **flat-footed** 18 (+3 armor, +2 Dex, +4 natural, -1 size)
 **hp** 57 (6d8+24)
-**Fort**+9,**Ref**+6,**Will** +3
+**Fort** +9, **Ref** +6, **Will** +3
 
 **Offense**
 **Speed** 50 ft.
 **Melee** Bite +8 (1d8+9 plus trip)
 
 **Statistics**
-**Str**22,**Dex**13,**Con**19,**Int**2,**Wis**12,**Cha** 6
-**Base Atk**+4;**CMB**+12 (+16 trip);**CMD** 23 (27 vs. trip)
+**Str** 22, **Dex** 13, **Con** 19, **Int** 2, **Wis** 12, **Cha** 6
+**Base Atk** +4; **CMB** +12 (+16 trip); **CMD** 23 (27 vs. trip)
 **Feats** Combat Reflexes, Hefty Brute, Intercept Blow, Light Armor Proficiency
 **Skills** Perception +8
 Tricks Attack, Break Out, Defend, Deliver, Down, Fetch, Get Help, Heel
@@ -2212,12 +2212,12 @@ A throng of knives are hidden on the inside of their coat, shifty and observant 
 **XP** 6,400
 Human unchained rogue (canny scoundrel) 10
 LE Medium humanoid (human)
-**Init**+6;**Senses**darkvision 60 ft.;**Perception** +13
+**Init** +6; **Senses** darkvision 60 ft.; **Perception** +13
 
 **Defense**
-**AC**20,**touch**20,**flat-footed** 14 (+6 Dex, +4 prescient dodger)
+**AC** 20, **touch** 20, **flat-footed** 14 (+6 Dex, +4 prescient dodger)
 **hp** 80 (10d8+30)
-**Fort**+7,**Ref**+15,**Will** +7
+**Fort** +7, **Ref** +15, **Will** +7
 **Defensive Abilities** danger sense +3, evasion, improved uncanny dodge, shifting loyalty
 
 **Offense**
@@ -2229,26 +2229,26 @@ LE Medium humanoid (human)
 **Combat**
 **Martial Tradition** Thief (Equipment, Fencing x2, Scoundrel);
 **PAM** Cha
-**Equipment Sphere**–**Talents** Expert Reloading, Fast Draw, Finesse Fighting; (discipline) Rogue Weapon Training
+**Equipment Sphere** – **Talents** Expert Reloading, Fast Draw, Finesse Fighting; (discipline) Rogue Weapon Training
 • Expert Reloading; decrease the required time to reload a weapon by one step if proficient.
 • Fast Draw; can draw unhidden weapons as part of the action used to attack with them, including with splash weapons. Can draw hidden weapons as move action.
 • Finesse Fighting; may use Dexterity with finessable weapons
 • Rogue Weapon Training (discipline); proficiency with blade boot, butterfly knife, garrote, hand crossbow, kukri, rapier, sap, short sword, shortbow, starknife, switchblade knife, sword cane, war razor, and whip. +2 bonus to Sleight of Hand checks to conceal weapons
-**Fencing Sphere**–**Talents** Fast Feint, Read Foes, Verbal Feint; (exploit) Wide Open
+**Fencing Sphere** – **Talents** Fast Feint, Read Foes, Verbal Feint; (exploit) Wide Open
 • fatal thrust (deal +3d6 precision damage vs. flat-footed, flanked, or Dexterity-denied foes with attack actions or AoO, apply one (exploit)); (exploit) DC 17
 ◊ Wide Open (exploit); target suffers a -4 penalty to armor class until the end of your next turn
 • Fast Feint; may feint as move action
 • Read Foes; gain bonus ranks in Sense Motive
 • Verbal Feint; does not need weapon to feint, and may feint targets within 30 ft.
-**Scoundrel Sphere**-**Talents** Hidden Blade
+**Scoundrel Sphere** - **Talents** Hidden Blade
 • swift hands (use Dexterity instead of Strength for dirty trick and steal, using Sleight of Hand as BAB)
 • marked target (swift action, touch attack; batter and -3 penalty on Perception)
 • Hidden Blade; As part of the act of sheathing a light weapon, can attempt Sleight of Hand check to conceal the weapon
-**Scout Sphere**–**Talents** Great Senses, Hidden Appearance
+**Scout Sphere** – **Talents** Great Senses, Hidden Appearance
 • scout (swift action, Perception check at -5 penalty to identify weaknesses)
 • Great Senses; gain bonus ranks in Perception
 • Hidden Appearance; may use Stealth modifier in place of Disguise to change appearance
-**Sniper Sphere**–**Talents** Head Shot, Focusing Reload
+**Sniper Sphere** – **Talents** Head Shot, Focusing Reload
 • deadly shot (special attack action; add one (snipe); expend martial focus, +2d10 or 2d6 if vs. touch); (snipe) DC 17
 ◊ Head Shot (snipe); if deadly shot deals at least 50% of target’s current hit points, Fortitude save or die
 • Focusing Reload; regain martial focus when reloading as a move action or longer
@@ -2258,13 +2258,13 @@ LE Medium humanoid (human)
 **During Combat** Assassins focus on finishing off their primary target while searching for an escape route.
 
 **Statistics**
-**Str**10,**Dex**22,**Con**14,**Int**10,**Wis**10,**Cha** 14
-**Base Atk**+7;**CMB**+7;**CMD** +27
-**Feats**Combat Sphere Specialization (Fencing), Extra Combat Talent (x3), Iron Will, Skill Focus (Bluff);**Associated Feats** Weapon Finesse (exchanged for Finesse Fighting)
-**Skills**Acrobatics +19, Climb +5, Diplomacy +15, Disable Device +19, Escape Artist +19, Intimidate +15, Knowledge (local) +13, Linguistics +9, Swim +5, Use Magic Device +15;**Associated Skills** Bluff +21, Perception +13, Sense Motive +13, Sleight of Hand +19, Stealth +19
+**Str** 10, **Dex** 22, **Con** 14, **Int** 10, **Wis** 10, **Cha** 14
+**Base Atk** +7; **CMB** +7; **CMD** +27
+**Feats** Combat Sphere Specialization (Fencing), Extra Combat Talent (x3), Iron Will, Skill Focus (Bluff); **Associated Feats** Weapon Finesse (exchanged for Finesse Fighting)
+**Skills** Acrobatics +19, Climb +5, Diplomacy +15, Disable Device +19, Escape Artist +19, Intimidate +15, Knowledge (local) +13, Linguistics +9, Swim +5, Use Magic Device +15; **Associated Skills** Bluff +21, Perception +13, Sense Motive +13, Sleight of Hand +19, Stealth +19
 **Languages** Common, Draconic, Infernal, Abyssal, any 3 regional languages
 **SQ** finesse training (kukri), rogue talents (prescient dodger, shades of grey, shifting loyalty), rogue’s edge (Sleight of Hand, Bluff); Alternate Racial Trait dimdweller
-**Combat Gear**common protection potion, lesser armored magic potion, oil of silence, sneakster’s potion, standard revitalization potion, kahvi (4), fish liver grog (2);**Other Gear** light crossbow, masterwork heavy wrist launcher, +1 kukri, cape of resistance +2, belt of avian speed +2, dagger (3), 20 crossbow bolts, rogue’s kit, 7 gp
+**Combat Gear** common protection potion, lesser armored magic potion, oil of silence, sneakster’s potion, standard revitalization potion, kahvi (4), fish liver grog (2); **Other Gear** light crossbow, masterwork heavy wrist launcher, +1 kukri, cape of resistance +2, belt of avian speed +2, dagger (3), 20 crossbow bolts, rogue’s kit, 7 gp
 
 **Description**
 Assassins are elite surgical knives hired by various organizations to eliminate threats, from an uncooperative merchant to curious paladins. Whether operating alone with others, an assassin possesses a keen set of skills which allow them to navigate situations which require intrigue, stealth, and high levels of discretion.
@@ -2276,12 +2276,12 @@ This crafty little kobold spies on targets from far above, watching them with th
 **XP** 25,600
 Kobold conscript 13
 NE Small humanoid (reptilian)
-**Init**+3;**Senses**darkvision;**Perception** +18
+**Init** +3; **Senses** darkvision; **Perception** +18
 
 **Defense**
-**AC**21,**touch**14,**flat-footed** 18 (+7 armor, +3 Dex, +1 size)
+**AC** 21, **touch** 14, **flat-footed** 18 (+7 armor, +3 Dex, +1 size)
 **hp** 84 (13d10+13)
-**Fort**+11,**Ref**+13,**Will** +6
+**Fort** +11, **Ref** +13, **Will** +6
 **Defensive Abilities** delayed damage pool 39
 **Weaknesses** light sensitivity
 
@@ -2292,26 +2292,26 @@ NE Small humanoid (reptilian)
 trap until start of next turn)
 
 **Combat**
-**Martial Tradition**Mechanic (Equipment x2, Sniper, Trap);**PAM** Int
-**Athletics Sphere**–**Packages**run;**Talents** Tumbling Recovery
+**Martial Tradition** Mechanic (Equipment x2, Sniper, Trap); **PAM** Int
+**Athletics Sphere** – **Packages** run; **Talents** Tumbling Recovery
 • coordinated movement, regain martial focus when taking the withdraw action
 • Tumbling Recovery (run); may drop prone as free action (even not during turn), when knocked prone or drop prone, may spend an immediate action to move 20 ft., if used to avoid an attack, gain +6 dodge bonus to AC and Reflex vs. that attack; may expend martial focus to have movement not provoke
-**Equipment Sphere**–**Talents** Expert Reloading, Mechanical Training
+**Equipment Sphere** – **Talents** Expert Reloading, Mechanical Training
 • Expert Reloading; reduce reload speed by 1 step
 • Mechanical Training; deal +6 damage with mechanical weapons (crossbows, firearms)
-**Guardian Sphere**–**Packages**patrol;**Talents** Mageguard; (zone) Clear Path
+**Guardian Sphere** – **Packages** patrol; **Talents** Mageguard; (zone) Clear Path
 • delayed damage (delay up to 39 damage until the end of your next turn)
 • patrol (full-round action, threatened area increases to 25 ft.); apply a (zone) to the area DC 19
 ◊ Clear Path (zone); allies do not provoke attacks of opportunity inside the patrol
 ◊ Overwatch [feat]; establish patrol with ranged weapon within 120 ft., threaten this area
 • Mageguard; enemies suffer a -6 penalty on concentration checks to cast defensively
-**Sniper Sphere**–**Talents** Covering Fire, Focusing Reload, Unblockable
+**Sniper Sphere** – **Talents** Covering Fire, Focusing Reload, Unblockable
 • Covering Fire; standard action, create threatened area
 • Focusing Reload; regain martial focus when reloading as a move action
 • deadly shot (special attack action; add one (snipe); expend martial focus, +4d10 or 4d6 if vs. touch); (snipe) DC 19
 • Unblockable; whenever your ranged attack actions would be deflected or negated, effect must roll a magic skill check or combat maneuver check against your attack roll or fail to deflect or negate
-**Trap Sphere**–**Talents** Aerial Trigger, Opportunist, Rapid Placement, Sneaky Trapper, Stop Drop And Control, Trap Launcher, Warning; (snare) Bear Trap
-[trap statistics] **AC**24,**hp** 40, hardness 14, Perception DC 32, area 6 5-ft. squares, DC 22 Reflex
+**Trap Sphere** – **Talents** Aerial Trigger, Opportunist, Rapid Placement, Sneaky Trapper, Stop Drop And Control, Trap Launcher, Warning; (snare) Bear Trap
+[trap statistics] **AC** 24, **hp** 40, hardness 14, Perception DC 32, area 6 5-ft. squares, DC 22 Reflex
 • Aerial Trigger; traps extend 140 ft. in the area, if it would knock someone prone, battered, if entangled, pulled to ground
 • Opportunist; a creature struck by your dart or failing a save vs. your snare provokes an attack of opportunity, may take this attack of opportunity with a ranged weapon within 1st increment
 • Persistent Trap; increase trap setting time to 1 minute to increase duration to 1 hour per point above DC 5
@@ -2328,10 +2328,10 @@ trap until start of next turn)
 The homeguard is a complex area-control trapper and sniper, setting up long-duration traps with Persistent Traps then finding somewhere to lie in wait. During combat, the homeguard uses the Overwatch feat to treat their Covering Fire as a patrol with the Clear Path (zone) to allow any allies in the area to move easier or uses Trap Launcher to fire Tripwires or Bear Traps directly at opponents. If the homeguard’s position is being threatened, they withdraw, regaining martial focus and may set traps to cover their path.
 
 **Statistics**
-**Str**8,**Dex**16,**Con**12,**Int**16,**Wis**10,**Cha** 8
-**Base Atk**+13;**CMB**+11;**CMD** +24
-**Feats**Accomplished Sneak Attacker, Combat Reflexes, Crossbow Mastery, Extra Combat Talent (x2), Improved Precise Shot, Overwatch;**Favored Class Bonus** +2 DC Trap sphere
-**Skills**Bluff +12, Climb +10, Knowledge (dungeoneering, engineering, local) +20, Perception +18, Profession (miner) +18, Sleight of Hand +14, Spellcraft +17, Stealth +17;**Associated Skills** Acrobatics +17, Craft (trap) +22
+**Str** 8, **Dex** 16, **Con** 12, **Int** 16, **Wis** 10, **Cha** 8
+**Base Atk** +13; **CMB** +11; **CMD** +24
+**Feats** Accomplished Sneak Attacker, Combat Reflexes, Crossbow Mastery, Extra Combat Talent (x2), Improved Precise Shot, Overwatch; **Favored Class Bonus** +2 DC Trap sphere
+**Skills** Bluff +12, Climb +10, Knowledge (dungeoneering, engineering, local) +20, Perception +18, Profession (miner) +18, Sleight of Hand +14, Spellcraft +17, Stealth +17; **Associated Skills** Acrobatics +17, Craft (trap) +22
 **Languages** Common, Draconic, Dwarven, Gnome
 **SQ** sneak attack, sphere specialization (Trap)
 **Gear** +2 heavy crossbow, +2 chain shirt, cape of resistance +2

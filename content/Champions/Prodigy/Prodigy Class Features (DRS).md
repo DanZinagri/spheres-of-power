@@ -14,7 +14,7 @@ The following are new or reworked prodigy imbue sequences.
 
 ### Dark
 
-**Shadows (imbue)**: The prodigy radiates a 10-foot aura of darkness that lowers the light level by 2 steps (to a maximum of darkness). This aura is treated as a darkened area, and the prodigy can see through this darkness as though they possessed darkvision.
+**Shadows (imbue):** The prodigy radiates a 10-foot aura of darkness that lowers the light level by 2 steps (to a maximum of darkness). This aura is treated as a darkened area, and the prodigy can see through this darkness as though they possessed darkvision.
 
 If the prodigy possesses the *gloom* ability, this aura is treated as a *gloom* and the prodigy is unaffected by this *gloom* (as though affected by the clearsight option). While this imbuement is active, as a move action the prodigy may add a single (blot) or (darkness) to this *gloom*, paying any additional spell point costs for the chosen option as appropriate; adding a new (blot) or (darkness) removes a previously added option.
 

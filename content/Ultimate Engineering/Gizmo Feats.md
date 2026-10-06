@@ -8,12 +8,12 @@ parent: "[[Ultimate Engineering]]"
 
 *Source: [Ultimate Engineering](https://www.drivethrurpg.com/product/472038/Ulimate-Engineering?affiliate_id=549120)*
 
-**Gizmo Feats**: Feats with the (gizmo) tag increase the character’s gizmo limit by +1 (as though they possessed 1 additional gizmo talent). Gizmo feats grant additional abilities corresponding to your Tinker sphere packages or new gizmos.
+**Gizmo Feats:** Feats with the (gizmo) tag increase the character’s gizmo limit by +1 (as though they possessed 1 additional gizmo talent). Gizmo feats grant additional abilities corresponding to your Tinker sphere packages or new gizmos.
 
 Gizmo feats may be selected in place of certain class features, so long as they meet all of that feat’s normal prerequisites. Examples of such class features include alchemist discovery, investigator talent, rogue talent, slayer talent, vigilante talent, and witch hex as well as armorist arsenal trick, armiger prowess, blacksmith smithing insight, mageknight mystic combat, technician technical insight, and so on (in other words, a “class talent” feature). GMs may determine other class features are appropriate to select gizmo feats with.
 
 **(dual sphere)** **options** [DRS]
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 A dual sphere feat is an ability or set of abilities that meshes two different spheres. Using a dual sphere feat is exclusive to other dual sphere feats, specifically, multiple dual sphere feats cannot be used simultaneously. The purpose is to prevent too many different spheres from being “daisy chained” together, but it should not preclude basic enabling options.
 
@@ -29,9 +29,9 @@ A feat that grants (dual sphere) options is otherwise treated as a feat with the
 
 *You’ve become adept at quickly adjusting a gizmo for its other possible configurations.*
 
-**Prerequisite**: Tinker sphere.
+**Prerequisite:** Tinker sphere.
 
-**Benefit**: You may spend 1 minute to change any "parameters'' of a gizmo you crafted (i.e. its gizmo level, effective practitioner modifier, which ability score a physical augmentation gizmo is assigned to, which energy type a weapon is assigned to, etc.). In addition, as a battery use ability, you may deplete 1 battery as a full-round action to change a gizmo as though using this feat.
+**Benefit:** You may spend 1 minute to change any "parameters'' of a gizmo you crafted (i.e. its gizmo level, effective practitioner modifier, which ability score a physical augmentation gizmo is assigned to, which energy type a weapon is assigned to, etc.). In addition, as a battery use ability, you may deplete 1 battery as a full-round action to change a gizmo as though using this feat.
 ﻿
 A gizmo changed this way must be the same kind of gizmo (i.e. a physical augmentation altered into a new physical augmentation, a field projector into a different type of field projector, or a prosthetic into another kind of prosthetic or a different secondary function) but cannot change a gizmo into a completely different gizmo.
 
@@ -41,7 +41,7 @@ Projects, including AI and *mechanoids*, cannot be adjusted with this feat.
 
 #### Biofuel Gizmos (gizmo) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 *Your implanted gizmos take on a quality similar to organs, forming a biomechanical network that fuels itself.*
 **Prerequisites:** Tinker sphere.
@@ -66,19 +66,19 @@ Minor gizmos and projects modified to be biofuel gizmos do not grant a creature 
 
 *Machinery often imitates biology.*
 
-**Prerequisites**: Alteration sphere, Tinker sphere ((transportation) package).
+**Prerequisites:** Alteration sphere, Tinker sphere ((transportation) package).
 
-**Benefit**: When crafting a mechanoid, you may choose to grant the mechanoid 1 Alteration sphere trait you know in place of 1 upgrade. The mechanoid uses their gizmo level as the caster level of the granted trait; if the trait would have a saving throw associated with it, the mechanoid uses its gizmo DC in place of that trait’s normal saving throw (as though the trait were an innate gizmo).
+**Benefit:** When crafting a mechanoid, you may choose to grant the mechanoid 1 Alteration sphere trait you know in place of 1 upgrade. The mechanoid uses their gizmo level as the caster level of the granted trait; if the trait would have a saving throw associated with it, the mechanoid uses its gizmo DC in place of that trait’s normal saving throw (as though the trait were an innate gizmo).
 
 You may not grant Alteration traits that normally require a spell point as an upgrade nor can you grant an Alteration trait that would grant an Intelligence score (such as the Anthropomorphic Transformation (transformation) talent’s Gift of Mind trait).
 
-**Note**: An Alteration trait granted as an upgrade does not count against how many Alteration traits the mechanoid could have, if subject to an Alteration shapeshift sphere effect. However, this trait is part of the mechanoid’s “natural body”, and would be suppressed by polymorph effects that alter the target’s physiology.
+**Note:** An Alteration trait granted as an upgrade does not count against how many Alteration traits the mechanoid could have, if subject to an Alteration shapeshift sphere effect. However, this trait is part of the mechanoid’s “natural body”, and would be suppressed by polymorph effects that alter the target’s physiology.
 
 ---
 
 #### Biomimicry (gizmo) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 **Prerequisites:** Tinker associated skill 5 ranks, Tinker sphere (Disguised Gizmo).
 
@@ -90,7 +90,7 @@ A project crafted using this feat instead has its project material costs increas
 
 Certain creature types and subtypes may not be available subject to GM discretion.
 
-**Example**: A *mechanoid* granted the animal type with this feat would need to have features that make it animal like (such as loosely matching a horse), whereas a *prosthetic* granted the human subtype type would need to look like a human’s arm.
+**Example:** A *mechanoid* granted the animal type with this feat would need to have features that make it animal like (such as loosely matching a horse), whereas a *prosthetic* granted the human subtype type would need to look like a human’s arm.
 
 **Special:** If your Tinker tradition already possesses the Living Gizmo drawback, this feat allows you to craft your gizmos as though it had a different creature type. Your gizmos do not require an “appropriate” disguise unless modified with this feat to have a different creature type.
 
@@ -98,9 +98,9 @@ Certain creature types and subtypes may not be available subject to GM discretio
 
 #### Compounding Arsenal (gizmo) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
-**Prerequisites**: Tinker sphere ((augmentation) package, Arsenal Set)
+**Prerequisites:** Tinker sphere ((augmentation) package, Arsenal Set)
 
 **Benefits:** Your prosthetic arsenal secondary function may be used as a personal gizmo, allowing you to share the magical properties of weapons stored in the prosthetic arsenal.
 
@@ -118,9 +118,9 @@ Your prosthetic arsenal gains the following personal battery use:
 
 #### Compounding Arsenal, Greater (gizmo) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
-**Prerequisites**: Tinker associated skill 15 ranks, Tinker sphere ((augmentation) package, Arsenal Set).
+**Prerequisites:** Tinker associated skill 15 ranks, Tinker sphere ((augmentation) package, Arsenal Set).
 
 **Benefits:** When designating a compounded weapon, the compounded weapon can gain any combination of enhancement bonuses, special weapon abilities, and materials from any number of attached weapons in that prosthetic arsenal. The resulting compounded weapon’s total enhancement bonus cannot be higher than the highest enhanced attached weapon, and the discrete enhancement bonus (the “+X” value) cannot be greater than the highest attached weapon enhancement bonus. When granting an attached weapon’s materials, that attached weapon’s special properties are also granted to the compounded weapon (such as *flametongue’s* ability to cast *scorching ray* or a *lifedrinker axe’s* inflicted negative levels); any magical item charges or uses per day are shared with the original attached weapon, and are depleted accordingly.
 
@@ -134,11 +134,11 @@ Designating a compounded weapon may now be done at-will as a swift action, and t
 
 *You craft your mechanoids with additional upgrades.*
 
-**Prerequisites**: Tinker sphere ((transportation) package).
+**Prerequisites:** Tinker sphere ((transportation) package).
 
-**Benefit**: Choose 1 mechanoid you have crafted (or are crafting). The maximum number of upgrades the chosen mechanoid can be crafted with increases by +1, + 1 per 5 ranks in the associated skill. Once chosen, you must abandon the previously chosen mechanoid to choose a new mechanoid for this feat.
+**Benefit:** Choose 1 mechanoid you have crafted (or are crafting). The maximum number of upgrades the chosen mechanoid can be crafted with increases by +1, + 1 per 5 ranks in the associated skill. Once chosen, you must abandon the previously chosen mechanoid to choose a new mechanoid for this feat.
 
-**Special**: You can gain this feat multiple times; each time you take this feat, you may choose 1 additional mechanoid to increase its maximum upgrade count.
+**Special:** You can gain this feat multiple times; each time you take this feat, you may choose 1 additional mechanoid to increase its maximum upgrade count.
 
 ---
 
@@ -146,29 +146,29 @@ Designating a compounded weapon may now be done at-will as a swift action, and t
 
 *You create more durable inventions - whether by reinforcing the materials, using better materials, or designing them with fewer exploitable vulnerabilities.*
 
-**Prerequisite**: Tinker sphere.
+**Prerequisite:** Tinker sphere.
 
-**Benefit**: Your gizmos (including AI and mechanoids) gain +1 additional hit point per gizmo level, increase their hardness by +2 (even if it does not possess hardness), and a +1 circumstance bonus to their saving throws.
+**Benefit:** Your gizmos (including AI and mechanoids) gain +1 additional hit point per gizmo level, increase their hardness by +2 (even if it does not possess hardness), and a +1 circumstance bonus to their saving throws.
 
-**Special**: This feat may be taken multiple times; its effects stack. This feat may be taken no more than once every 5 Hit Dice.
+**Special:** This feat may be taken multiple times; its effects stack. This feat may be taken no more than once every 5 Hit Dice.
 
-**Note - Creatures with Hardness**: A creature with hardness is not the same as an object with hardness. Creatures with hardness do not further reduce damage from energy attacks, ranged attacks, or other types of attacks as objects typically do (see *Bestiary 5*).
+**Note - Creatures with Hardness:** A creature with hardness is not the same as an object with hardness. Creatures with hardness do not further reduce damage from energy attacks, ranged attacks, or other types of attacks as objects typically do (see *Bestiary 5*).
 
 ---
 
 #### Extra Gizmo Limit (Gizmo) [SUE]
 
-**Prerequisite**: Tinker sphere.
+**Prerequisite:** Tinker sphere.
 
-**Benefit**: Increase your gizmo limit by your practitioner modifier (minimum 1). This increase is in addition to the bonus to your gizmo limit for gaining a (gizmo) feat.
+**Benefit:** Increase your gizmo limit by your practitioner modifier (minimum 1). This increase is in addition to the bonus to your gizmo limit for gaining a (gizmo) feat.
 
-**Normal**: Your gizmo limit is your ranks in the associated skill + the number of Tinker sphere talents you possess.
+**Normal:** Your gizmo limit is your ranks in the associated skill + the number of Tinker sphere talents you possess.
 
 ---
 
 #### Explosive Gizmo Expert (gizmo) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 **Prerequisites:** Tinker sphere.
 
@@ -191,26 +191,26 @@ You gain the following (dual sphere) options:
 
 *Go go gizmo extending super limbs.*
 
-**Prerequisites**: Tinker sphere (Grappling Hook).
+**Prerequisites:** Tinker sphere (Grappling Hook).
 
-**Benefit**: You gain the following benefits when using a prosthetic with the extendo secondary function:
+**Benefit:** You gain the following benefits when using a prosthetic with the extendo secondary function:
 
-- **Ambidextrous Extension**: When extending a prosthetic built as a pair (i.e. a pair of arms), you may extend each prosthetic into different squares, provided they are within range of you. If extending prosthetic legs, you may instead take a 5-foot step as part of extending the prosthetic.
-- **Extended Coordination**: You may treat your extended prosthetic as though this were another creature when determining flanking; this allows you to effectively flank with yourself, provided that you and your extended prosthetic properly flank a creature. This does not allow you to qualify for teamwork feats or similar abilities that require another creature (such as Outflank).
-- **Might Makes Length**: You may expend martial focus instead of a battery to use the extendo secondary function’s battery use ability.
+- **Ambidextrous Extension:** When extending a prosthetic built as a pair (i.e. a pair of arms), you may extend each prosthetic into different squares, provided they are within range of you. If extending prosthetic legs, you may instead take a 5-foot step as part of extending the prosthetic.
+- **Extended Coordination:** You may treat your extended prosthetic as though this were another creature when determining flanking; this allows you to effectively flank with yourself, provided that you and your extended prosthetic properly flank a creature. This does not allow you to qualify for teamwork feats or similar abilities that require another creature (such as Outflank).
+- **Might Makes Length:** You may expend martial focus instead of a battery to use the extendo secondary function’s battery use ability.
 
 ---
 
 #### Moldable Tinker Talent (Combat, Gizmo) [SUE]
 
-**Prerequisites**: Associated skill 10 ranks, Tinker sphere.
-**Benefit**: You gain 1 moldable Tinker talent. This moldable Tinker talent functions as per the innovator technician’s moldable inventorship class feature.
+**Prerequisites:** Associated skill 10 ranks, Tinker sphere.
+**Benefit:** You gain 1 moldable Tinker talent. This moldable Tinker talent functions as per the innovator technician’s moldable inventorship class feature.
 
 ---
 
 #### Gizmo Attack (gizmo, combat) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 **Prerequisites:** Tinker sphere.
 
@@ -227,7 +227,7 @@ This feat is meant to mimic both Spell Attack and Dual Wielding Mystic Fusion, w
 
 #### Teched-Out Minions (champion, gizmo) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 **Prerequisites:** Tinker sphere, ability to summon a creature (see text).
 
@@ -243,7 +243,7 @@ When the effect that summoned the creature ends (either its duration expiring, t
 
 #### Technological Weapons Expert (combat, gizmo) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 **Prerequisites:** Tinker associated skill 3 ranks, Tinker sphere (Technological Weapons).
 
@@ -258,7 +258,7 @@ When the effect that summoned the creature ends (either its duration expiring, t
 
 #### Transmitted Spell (champion, gizmo, metamagic) [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 **Prerequisites:** Tinker sphere ((transmission) package, Transmission Mastery)
 

@@ -13,27 +13,27 @@ Spine-frilled neck arching up from the water like a snake ready to strike, this 
 XP 51,200
 Pathfinder Roleplaying Game Bestiary
 N Gargantuan magical beast (aquatic, mythic)
-**Init**+12/−8, dual initiativeMA;**Senses** darkvision 120 ft., low-light vision; Perception +8
+**Init** +12/−8, dual initiativeMA; **Senses** darkvision 120 ft., low-light vision; Perception +8
 **Aura** frightful presence (60 ft., DC 17)
 
 #### Defense
 
-**AC**31,**touch**8,**flat-footed** 29 (+2 Dex, +23 natural, –4 size)
+**AC** 31, **touch** 8, **flat-footed** 29 (+2 Dex, +23 natural, –4 size)
 **hp** 247 (15d10+165)
-**Fort**+16,**Ref**+13,**Will** +7
-**Defensive Abilities**elusive; DR 10/epic;**Immune**cold;**Resist**fire 30;**SR** 26MA
+**Fort** +16, **Ref** +13, **Will** +7
+**Defensive Abilities** elusive; DR 10/epic; **Immune** cold; **Resist** fire 30; **SR** 26MA
 
 #### Offense
 
 **Speed** 20 ft., swim 60 ft.
 **Melee** bite +26 (4d8+15/19–20 plus grab and poison), tail slap +21 (3d6+7 plus grab)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** capsize, constrict (3d6+22), fast swallow, fling, mythic power (6/day, surge +1d8), powerful blows (bite), swallow whole (4d8+22 bludgeoning damage, AC 21, hp 24), vortex (DC 32)
 
 #### Statistics
 
-**Str**40,**Dex**14,**Con**25,**Int**2,**Wis**11,**Cha** 11
-**Base Atk**+15;**CMB**+34 (+38 grapple);**CMD** 46 (can’t be tripped)
+**Str** 40, **Dex** 14, **Con** 25, **Int** 2, **Wis** 11, **Cha** 11
+**Base Atk** +15; **CMB** +34 (+38 grapple); **CMD** 46 (can’t be tripped)
 **Feats** Improved Bull Rush, Improved Critical (bite), Improved InitiativeMF, Iron WillMF, Lightning Reflexes, Power AttackMF, Skill Focus (Stealth), Stealthy
 **Skills** Perception +8, Stealth +13, Swim +23
 
@@ -49,7 +49,7 @@ N Gargantuan magical beast (aquatic, mythic)
 
 **Fling (Ex)** A mythic sea serpent can drop a creature it has grabbed as a free action or use a standard action to fling it aside. A flung creature travels 1d6 × 10 feet, and takes 1d6 points of damage per 10 feet traveled. By expending one use of mythic power, a mythic sea serpent can fling a grappled creature as a swift action.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 24;**frequency**1/round for 6 rounds;**initial effect**nauseated for 1d6 rounds;**secondary effect**1d4 Str;**cure** 2 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; **save** Fort DC 24; **frequency** 1/round for 6 rounds; **initial effect** nauseated for 1d6 rounds; **secondary effect** 1d4 Str; **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 **Vortex (Su)** A mythic sea serpent can generate a whirlpool as a full-round action action at will. This ability functions identically to the whirlwind special attack (see the Universal Monster Rules in Pathfinder RPG Bestiary), but the whirlpool can only form underwater and cannot leave the water. The vortex itself is 20 feet across and 120 feet deep, and deals 3d6+15 points of damage per round. Creatures in the area must succeed at a DC 32 Reflex save to avoid being caught by the mythic sea serpent’s vortex. The save DC is Strength-based.
 

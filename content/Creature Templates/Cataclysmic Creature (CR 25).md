@@ -28,7 +28,7 @@ Cataclysmic creatures are beings of such terrible power that only the mad dream 
 
 **Speed:** All modes increase by 30 ft.
 
-**Defenses/Qualities:** DR 25/-**Immune** ability drain, acid, disease, death by massive damage, damage cold, electricity, fire, mind affecting , stunning, paralysis, SR 37
+**Defenses/Qualities:** DR 25/- **Immune** ability drain, acid, disease, death by massive damage, damage cold, electricity, fire, mind affecting , stunning, paralysis, SR 37
 
 **Special Abilities:** A cataclysmic creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -40,6 +40,6 @@ Cataclysmic creatures are beings of such terrible power that only the mad dream 
 
 **Word of Cataclysm (Su):** Once per day, an cataclysmic creature can utter a word, unleashing tremendous destructive power. The word causes earthquakes, tsunamis, tornados, hurricanes, firestorms, massive electrical storms, acid rain, and other kinds of natural disasters dealing 300 points of damage to all creatures and objects within a 12,000 ft. radius, centered on the cataclysmic creature (who is immune to its effects). A successful Fort save (DC 25+ cataclysmic creature’s Charisma modifier) results in half damage and it becomes immune to further uses of this cataclysmic creature’s divine retribution and word of cataclysm for 24 hours.
 
-**Abilities:** Increase from the base creature as follows:**Str**+10 (+5 to attack and damage, +5 to Climb and Swim skill checks, +5 to Strength, and CMB checks, + to CMD),**Dex**+10 ( +5 to Ranged attack rolls; AC and touch AC, Initiative, and Ref saves. +5 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +5 to any of the base creature’s Dexterity-based DCs),**Con**+10 (+5 hp per HD, +5 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +10 (+5 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +5 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +10 (+5 to attack and damage, +5 to Climb and Swim skill checks, +5 to Strength, and CMB checks, + to CMD), **Dex** +10 ( +5 to Ranged attack rolls; AC and touch AC, Initiative, and Ref saves. +5 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +5 to any of the base creature’s Dexterity-based DCs), **Con** +10 (+5 hp per HD, +5 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +10 (+5 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +5 to any of the base creature’s Charisma-based DCs).
 
 **Feats:** An apocalyptic creature may select any feat, even those normally restricted to a class. It must still meet all qualifications for the feat, besides class affiliation.

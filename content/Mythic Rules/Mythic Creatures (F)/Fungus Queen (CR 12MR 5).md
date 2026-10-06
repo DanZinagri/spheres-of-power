@@ -12,14 +12,14 @@ This eerie creature has the upper body of a beautiful, pale green woman and the 
 **Mythic Fungus Queen (CR 12/MR 5)**
 XP 19,200
 CE Medium plant (mythic)
-**Init**+12MF;**Senses** darkvision 60 ft., low-light vision, scent, greensightMA; Perception +19
+**Init** +12MF; **Senses** darkvision 60 ft., low-light vision, scent, greensightMA; Perception +19
 
 #### Defense
 
-**AC**28,**touch**13,**flat-footed** 25 (+3 Dex, +15 natural)
+**AC** 28, **touch** 13, **flat-footed** 25 (+3 Dex, +15 natural)
 **hp** 163 (13d8+105)
-**Fort**+13,**Ref**+7,**Will** +7
-**Defensive Abilities**DR 10/epic and cold iron or good;**Immune**electricity, plant traits;**Resist**acid 10, cold 10;**SR** 24
+**Fort** +13, **Ref** +7, **Will** +7
+**Defensive Abilities** DR 10/epic and cold iron or good; **Immune** electricity, plant traits; **Resist** acid 10, cold 10; **SR** 24
 
 #### Offense
 
@@ -35,8 +35,8 @@ At will—veil (self only) (DC 24)
 
 #### Statistics
 
-**Str**23,**Dex**17,**Con**21,**Int**18,**Wis**16,**Cha** 26
-**Base Atk**+9;**CMB**+15 (+19 grapple, +17 trip);**CMD** 30 (32 vs. trip)
+**Str** 23, **Dex** 17, **Con** 21, **Int** 18, **Wis** 16, **Cha** 26
+**Base Atk** +9; **CMB** +15 (+19 grapple, +17 trip); **CMD** 30 (32 vs. trip)
 **Feats** Combat ExpertiseMF, Combat ReflexesMF, Improved InitiativeMF, Improved Trip, Multiattack, Power Attack, Skill Focus (Disguise)
 **Skills** Acrobatics +10 (+6 when jumping), Bluff +20, Disguise +26, Knowledge (dungeoneering) +10, Knowledge (planes) +10, Perception +19, Sense Motive +15, Use Magic Device +21
 **Languages** Abyssal, Aklo, Common, Terran, Undercommon, speak with plants, tongues; telepathy 100 ft

@@ -75,8 +75,8 @@ This ability replaces metakinesis (maximize) and metakinesis (twice).
 In addition, they permanently gain the following composite blast:
 
 > **Array Blast**
-> **Element(s)**varies (see text);**Type**composite (Sp);**Level**—;**Burn** 4
-> **Blast Type**varies (see text);**Damage** varies (see text)
+> **Element(s)** varies (see text); **Type** composite (Sp); **Level** —; **Burn** 4
+> **Blast Type** varies (see text); **Damage** varies (see text)
 >
 > The entropist has fully explored their array’s elements, and can combined them into a perfect storm of kinetic power. They choose any four damage types that simple blasts in their array (even those they don’t possess) can deal, and this blast deals 10d6 damage of each type. They cannot choose the same type of damage multiple times unless there are three or fewer combined types of damage amongst simple blasts within their array’s elements, in which case they must choose all possible types before duplicating types. Force, sonic, and untyped damage is reduced to 10d4 each, and untyped damage is nonlethal. This blast is only considered an energy blast if all types chosen are also energy types; otherwise, it’s a physical blast, and deals an additional +1 damage per damage die. This blast is counted as all four elements in the entropist’s array, and is associated with infusions from all of those elements.
 

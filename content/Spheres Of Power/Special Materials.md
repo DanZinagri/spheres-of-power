@@ -12,7 +12,7 @@ The following are new special materials that can be used to make different types
 
 ### Arcsilver
 
-**HP/Inch:** 40;**Hardness:** 10;**Cost** Weapons and armor fashioned from arcsilver are always masterwork; the masterwork cost is included in the prices given below
+**HP/Inch:** 40; **Hardness:** 10; **Cost** Weapons and armor fashioned from arcsilver are always masterwork; the masterwork cost is included in the prices given below
 
 This bright white metal has strange electrical properties and crackles with electricity when charged. By strategically incorporating coils of arcsilver into a weapon, suit of armor, or shield, this electricity can be discharged into enemies. Charging an item made of arcsilver is a move action that does not provoke an attack of opportunity, performed by slowly brandishing the weapon or brushing it against a surface.
 
@@ -64,7 +64,7 @@ Ammunition cannot be made from cuazite.
 
 ### Everlasting Ice [TS:WAT]
 
-**HP/inch:** 10;**Hardness**5;**Cost**weapons +2000 gp;**Weight** As ice
+**HP/inch:** 10; **Hardness** 5; **Cost** weapons +2000 gp; **Weight** As ice
 
 This hard, deep blue ice is shot through with lighter lines that look almost like veins. Although most popular in polar regions where it can be easier to find, merchants sometimes export everlasting ice to warmer regions that can take advantage of its properties. Any amount of everlasting ice more than a cubic foot thick reduces the temperature in a radius twice its own size, at a rate of ten degrees per hour, until it reaches 0°F. (For example, a sphere of everlasting ice one cubic foot thick would cool an area three feet across, with the everlasting ice at the center.) Excessively high temperatures, such as those of fire or lava, inhibit everlasting ice’s cooling effect, though the ice itself will not melt.
 
@@ -76,7 +76,7 @@ Everlasting ice is not a suitable material for armor.
 
 ### Exocarn [DbH]
 
-**HP/Inch**6;**Hardness** 9;
+**HP/Inch** 6; **Hardness** 9;
 **Weapon Cost** +6,000 gp (this includes the cost of masterwork)
 **Armor Cost** +9,000 gp (this includes the cost of masterwork)
 
@@ -90,7 +90,7 @@ Exocarn lies somewhere between flesh and crystal. It can be used to make anythin
 
 ### Featherglass
 
-**HP/Inch**3;**Hardness**5;**Cost** 15 gp per pound of the original item weight
+**HP/Inch** 3; **Hardness** 5; **Cost** 15 gp per pound of the original item weight
 
 Featherglass is a rare material found in the high places of the world, a translucent substance that looks like hazy skyblue ice or glass and weighs little more than air.
 
@@ -98,7 +98,7 @@ Featherglass can be treated in a number of ways to make it either flexible or st
 
 ### Flowstone
 
-**HP/Inch:** 10;**Hardness:** 8;**Cost** 10 gp per pound
+**HP/Inch:** 10; **Hardness:** 8; **Cost** 10 gp per pound
 
 Other than being unusually smooth textured, flowstone appears to be normal dark gray stone, its special properties only becoming apparent when it is manipulated with telekinetic powers. While to hand and tool it is solid and rigid, it molds and shapes like clay under the direction of telekinesis.
 
@@ -112,7 +112,7 @@ A cubic foot of flowstone weighs 150 pounds, while a 5-foot cube of flowstone we
 
 ### Greenwood
 
-**HP/inch:** as wood;**Hardness:** as wood;**Cost** To determine the price of a greenwood item, use the original weight but add 50 gp per pound to the price of a masterwork version of that item. Items made from darkwood cannot be made into greenwood.
+**HP/inch:** as wood; **Hardness:** as wood; **Cost** To determine the price of a greenwood item, use the original weight but add 50 gp per pound to the price of a masterwork version of that item. Items made from darkwood cannot be made into greenwood.
 
 The secret of greenwood lies in its harvesting. Each length is taken, with leaves still attached, from a tree animated by a treant and cut with care to avoid the death of the tree. A dryad then speaks to and shapes the wood, coaxing the living green of the leaves into the grain of the wood itself. The resulting wood remains alive as long as it is doused with at least one gallon of water (plus 1 gallon for every 10 pounds of the item’s weight) once per week and allowed to rest for an hour in contact with fertile soil. Any wooden or mostly wooden item (such as a bow or spear) made from greenwood is considered a masterwork item. Items not normally made of wood or only partially of wood (such as a battleaxe or a mace) either cannot be made from greenwood or do not gain any special benefit from being made of greenwood.
 

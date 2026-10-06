@@ -24,13 +24,13 @@ Despite usually only encompassing one essence of nature, there have been primal 
 
 XP 400
 N Small outsider (elemental, native)
-**Init**+2;**Senses** darkvision 60 ft.; Perception +5
+**Init** +2; **Senses** darkvision 60 ft.; Perception +5
 
 **Defense**
-**AC**16,**touch**13,**flat-footed** 14 (+2 Dex, +3 natural, +1 size)
+**AC** 16, **touch** 13, **flat-footed** 14 (+2 Dex, +3 natural, +1 size)
 **hp** 13 (2d10+2)
-**Fort**+4,**Ref**+5,**Will** +0
-**Defensive Abilities**primal essence;**Immune** elemental traits
+**Fort** +4, **Ref** +5, **Will** +0
+**Defensive Abilities** primal essence; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., see primal essence
@@ -38,16 +38,16 @@ N Small outsider (elemental, native)
 **Special Attack** none
 
 **Statistics**
-**Str**12,**Dex**14,**Con**12,**Int**4,**Wis**10,**Cha** 10
-**Base Atk**+2;**CMB**+1;**CMD** 13
+**Str** 12, **Dex** 14, **Con** 12, **Int** 4, **Wis** 10, **Cha** 10
+**Base Atk** +2; **CMB** +1; **CMD** 13
 **Feats** Extra Magic Talent
 **Skills** Acrobatics +7, Climb +6, Escape Artist +7, Intimidate +5, Knowledge (nature) +5, Perception +5
 **Languages** see primal essence
 **SQ** primal essence
 
 **Magic**
-**Caster Level**1;**MSB**+2;**MSD**13;**Concentration** +2
-**Tradition**Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection);**CAM** Wis
+**Caster Level** 1; **MSB** +2; **MSD** 13; **Concentration** +2
+**Tradition** Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection); **CAM** Wis
 **Spell Points** 1
 **Nature Sphere:** (geomancing) see primal essence; Create Nature, (spirit) Nature’s Weapon
 
@@ -57,13 +57,13 @@ N Small outsider (elemental, native)
 
 XP 800
 N Medium outsider (elemental, native)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +8
+**Init** +1; **Senses** darkvision 60 ft.; Perception +8
 
 **Defense**
-**AC**16,**touch**11,**flat-footed** 15 (+1 Dex, +5 natural)
+**AC** 16, **touch** 11, **flat-footed** 15 (+1 Dex, +5 natural)
 **hp** 26 (4d10+4)
-**Fort**+5,**Ref**+5,**Will** +2
-**Defensive Abilities**primal essence;**Immune** elemental traits
+**Fort** +5, **Ref** +5, **Will** +2
+**Defensive Abilities** primal essence; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., see primal essence
@@ -71,16 +71,16 @@ N Medium outsider (elemental, native)
 **Special Attack** none
 
 **Statistics**
-**Str**14,**Dex**12,**Con**12,**Int**4,**Wis**12,**Cha** 10
-**Base Atk**+4;**CMB**+6;**CMD** 17
+**Str** 14, **Dex** 12, **Con** 12, **Int** 4, **Wis** 12, **Cha** 10
+**Base Atk** +4; **CMB** +6; **CMD** 17
 **Feats** Extra Magic Talent, Weapon Focus (slam)
 **Skills** Acrobatics +8, Climb +9, Escape Artist +8, Intimidate +7, Knowledge (nature) +8, Perception +8
 **Languages** see primal essence
 **SQ** primal essence
 
 **Magic**
-**Caster Level**2;**MSB**+2;**MSD**13;**Concentration** +3
-**Tradition**Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection);**CAM** Wis
+**Caster Level** 2; **MSB** +2; **MSD** 13; **Concentration** +3
+**Tradition** Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection); **CAM** Wis
 **Spell Points** 3
 **Nature Sphere:** (geomancing) see primal essence; Create Nature, (spirit) Nature’s Carapace, Nature’s Weapon
 
@@ -90,13 +90,13 @@ N Medium outsider (elemental, native)
 
 XP 1,600
 N Large outsider (elemental, native)
-**Init**+4;**Senses** darkvision 60 ft.; Perception +13
+**Init** +4; **Senses** darkvision 60 ft.; Perception +13
 
 **Defense**
-**AC**17,**touch**9,**flat-footed** 18 (+8 natural, -1 size)
+**AC** 17, **touch** 9, **flat-footed** 18 (+8 natural, -1 size)
 **hp** 68 (8d10+24)
-**Fort**+9,**Ref**+6,**Will** +4
-**Defensive Abilities**primal essence;**Immune** elemental traits
+**Fort** +9, **Ref** +6, **Will** +4
+**Defensive Abilities** primal essence; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., see primal essence
@@ -105,16 +105,16 @@ N Large outsider (elemental, native)
 **Special Attack** none
 
 **Statistics**
-**Str**18,**Dex**10,**Con**16,**Int**4,**Wis**14,**Cha** 10
-**Base Atk**+8;**CMB**+13;**CMD** 23
+**Str** 18, **Dex** 10, **Con** 16, **Int** 4, **Wis** 14, **Cha** 10
+**Base Atk** +8; **CMB** +13; **CMD** 23
 **Feats** Extra Magic Talent, Extra Spell Points, Improved Initiative, Weapon Focus (slam)
 **Skills** Acrobatics +11, Climb +15, Escape Artist +11, Intimidate +11, Knowledge (nature) +13, Perception +13
 **Languages** see primal essence
 **SQ** primal essence
 
 **Magic**
-**Caster Level**4;**MSB**+4;**MSD**15;**Concentration** +7
-**Tradition**Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection);**CAM** Wis
+**Caster Level** 4; **MSB** +4; **MSD** 15; **Concentration** +7
+**Tradition** Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection); **CAM** Wis
 **Spell Points** 8
 **Nature Sphere:** Grant Spirit, (geomancing) see primal essence; Create Nature, (spirit) Nature’s Carapace, Nature’s Weapon, Wreath Of Elements
 
@@ -124,13 +124,13 @@ N Large outsider (elemental, native)
 
 XP 3,200
 N Huge outsider (elemental, native)
-**Init**+3;**Senses** darkvision 60 ft.; Perception +16
+**Init** +3; **Senses** darkvision 60 ft.; Perception +16
 
 **Defense**
-**AC**18,**touch**7,**flat-footed** 21 (-1 Dex, +11 natural, -2 size)
+**AC** 18, **touch** 7, **flat-footed** 21 (-1 Dex, +11 natural, -2 size)
 **hp** 105 (10d10+50)
-**Fort**+12,**Ref**+5,**Will** +6
-**Defensive Abilities**primal essence;**Immune** elemental traits
+**Fort** +12, **Ref** +5, **Will** +6
+**Defensive Abilities** primal essence; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., see primal essence
@@ -139,16 +139,16 @@ N Huge outsider (elemental, native)
 **Special Attack** none
 
 **Statistics**
-**Str**22,**Dex**8,**Con**20,**Int**4,**Wis**16,**Cha** 10
-**Base Atk**+10;**CMB**+18;**CMD** 27
+**Str** 22, **Dex** 8, **Con** 20, **Int** 4, **Wis** 16, **Cha** 10
+**Base Atk** +10; **CMB** +18; **CMD** 27
 **Feats** Extra Magic Talent x2, Extra Spell Points, Improved Initiative, Weapon Focus (slam)
 **Skills** Acrobatics +12, Climb +19, Escape Artist +12, Intimidate +13, Knowledge (nature) +16, Perception +16
 **Languages** see primal essence
 **SQ** primal essence
 
 **Magic**
-**Caster Level**5;**MSB**+5;**MSD**16;**Concentration** +10
-**Tradition**Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection);**CAM** Wis
+**Caster Level** 5; **MSB** +5; **MSD** 16; **Concentration** +10
+**Tradition** Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection); **CAM** Wis
 **Spell Points** 10
 **Nature Sphere:** Deep Nature, Grant Spirit, (geomancing) see primal essence; Create Nature, (spirit) Nature’s Carapace, Nature’s Weapon, Rejuvenation, Wreath Of Elements
 
@@ -158,13 +158,13 @@ N Huge outsider (elemental, native)
 
 XP 6,400
 N Huge outsider (elemental, native)
-**Init**+3;**Senses** darkvision 60 ft.; Perception +20
+**Init** +3; **Senses** darkvision 60 ft.; Perception +20
 
 **Defense**
-**AC**20,**touch**7,**flat-footed** 23 (-1 Dex, +13 natural, -2 size)
+**AC** 20, **touch** 7, **flat-footed** 23 (-1 Dex, +13 natural, -2 size)
 **hp** 149 (13d10+78)
-**Fort**+15,**Ref**+7,**Will** +10
-**Defensive Abilities**primal essence;**Immune** elemental traits
+**Fort** +15, **Ref** +7, **Will** +10
+**Defensive Abilities** primal essence; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., see primal essence
@@ -173,16 +173,16 @@ N Huge outsider (elemental, native)
 **Special Attack** none
 
 **Statistics**
-**Str**26,**Dex**8,**Con**24,**Int**4,**Wis**18,**Cha** 10
-**Base Atk**+13;**CMB**+23;**CMD** 32
+**Str** 26, **Dex** 8, **Con** 24, **Int** 4, **Wis** 18, **Cha** 10
+**Base Atk** +13; **CMB** +23; **CMD** 32
 **Feats** Extra Magic Talent x2, Extra Spell Points, Improved Initiative, Improved Natural Armor, Iron Will, Weapon Focus (slam)
 **Skills** Acrobatics +15, Climb +24, Escape Artist +15, Intimidate +16, Knowledge (nature) +20, Perception +20
 **Languages** see primal essence
 **SQ** primal essence
 
 **Magic**
-**Caster Level**6;**MSB**+6;**MSD**17;**Concentration** +13
-**Tradition**Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection);**CAM** Wis
+**Caster Level** 6; **MSB** +6; **MSD** 17; **Concentration** +13
+**Tradition** Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection); **CAM** Wis
 **Spell Points** 12
 **Nature Sphere:** Deep Nature, Grant Spirit, (geomancing) see primal essence; Create Nature, Nature Lord, (spirit) Nature’s Carapace, Nature’s Weapon, Rejuvenation, Wreath Of Elements
 
@@ -192,13 +192,13 @@ N Huge outsider (elemental, native)
 
 XP 12,800
 N Huge outsider (elemental, native)
-**Init**+3;**Senses**darkvision 60 ft.;**Perception** +25
+**Init** +3; **Senses** darkvision 60 ft.; **Perception** +25
 
 **Defense**
 **AC** 22 (-1 Dex, +15 natural, -2 size)
 **hp** 166 (16d10+78)
-**Fort**+17,**Ref**+9,**Will** +11
-**Defensive Abilities**primal essence;**Immune** elemental traits
+**Fort** +17, **Ref** +9, **Will** +11
+**Defensive Abilities** primal essence; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., see primal essence
@@ -207,16 +207,16 @@ N Huge outsider (elemental, native)
 **Special Attack** none
 
 **Statistics**
-**Str**30,**Dex**8,**Con**24,**Int**4,**Wis**22,**Cha** 10
-**Base Atk**+16;**CMB**+28;**CMD** 39
+**Str** 30, **Dex** 8, **Con** 24, **Int** 4, **Wis** 22, **Cha** 10
+**Base Atk** +16; **CMB** +28; **CMD** 39
 **Feats** Extra Magic Talent (nature) x2, Extra Spell Points x2, Improved Initiative, Improved Natural Armor, Iron Will, Weapon Focus (slam)
 **Skills** Acrobatics +18, Climb +29, Escape Artist +18, Intimidate +19, Knowledge (nature) +25, Perception +25
 **Languages** see primal essence
 **SQ** primal essence
 
 **Magic**
-**Caster Level**8;**MSB**+8;**MSD**19;**Concentration** +14
-**Tradition**Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection);**CAM** Wis
+**Caster Level** 8; **MSB** +8; **MSD** 19; **Concentration** +14
+**Tradition** Resolute Vanguard (Drawbacks: Emotional Casting, Magical Signs, Verbal Casting, Limited Protection (aegis) (Protection); **CAM** Wis
 **Spell Points** 18
 **Nature Sphere:** Deep Nature, Grant Spirit, (geomancing) see primal essence; Create Nature, Manipulate Nature, Nature Lord, (spirit) Dragonlung, Nature’s Carapace, Nature’s Weapon, Rejuvenation, Wreath Of Elements
 

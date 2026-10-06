@@ -13,14 +13,14 @@ A huge eye opens in this conical creature’s front, just above a toothy mouth. 
 XP 51,200
 Pathfinder Roleplaying Game Bestiary
 CE Large aberration (mythic)
-**Init**+5;**Senses** darkvision 60 ft., low-light vision, tremorsenseMA 60 ft.; Perception +24
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, tremorsenseMA 60 ft.; Perception +24
 
 #### Defense
 
-**AC**33,**touch**10,**flat-footed** 32 (+1 Dex, +23 natural, –1 size)
+**AC** 33, **touch** 10, **flat-footed** 32 (+1 Dex, +23 natural, –1 size)
 **hp** 246 (12d8+192)
-**Fort**+16,**Ref**+5,**Will** +13
-**Defensive Abilities**block attacksMA, shatter weaponsMA; DR 10/epic;**Immune**electricity;**Resist**cold 10;**SR** 33
+**Fort** +16, **Ref** +5, **Will** +13
+**Defensive Abilities** block attacksMA, shatter weaponsMA; DR 10/epic; **Immune** electricity; **Resist** cold 10; **SR** 33
 **Weaknesses** vulnerability to fire
 
 #### Offense
@@ -28,15 +28,15 @@ CE Large aberration (mythic)
 **Speed** 10 ft.
 **Melee** bite +20 (4d8+18/19–20/×3)
 **Ranged** 12 strands +11 touch (1d6 Strength)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** antimagic glareMA, mythic power (6/day, surge +1d8), improved pullMA (strand, 5 feet), strandsMA
 
 #### Statistics
 
-**Str**34,**Dex**13,**Con**35,**Int**13,**Wis**16,**Cha** 12
-**Base Atk**+9;**CMB**+22 (+26 pull);**CMD** 33 (can’t be tripped)
+**Str** 34, **Dex** 13, **Con** 35, **Int** 13, **Wis** 16, **Cha** 12
+**Base Atk** +9; **CMB** +22 (+26 pull); **CMD** 33 (can’t be tripped)
 **Feats** Improved Critical (bite)MF, Improved Initiative, Iron WillMF, Skill Focus (Perception, Stealth), Weapon Focus (strand)MF
-**Skills**Climb +27, Knowledge (dungeoneering) +16, Knowledge (religion) +13, Perception +24, Stealth +18 (+26 in stony or icy areas);**Racial Modifiers** +8 Stealth in stony or icy areas
+**Skills** Climb +27, Knowledge (dungeoneering) +16, Knowledge (religion) +13, Perception +24, Stealth +18 (+26 in stony or icy areas); **Racial Modifiers** +8 Stealth in stony or icy areas
 **Languages** Aklo, Undercommon
 **SQ** freezeMA
 

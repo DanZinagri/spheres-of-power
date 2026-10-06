@@ -52,4 +52,4 @@ After a poison dragon is wounded in combat it can shake its body as a free actio
 1 Pathfinder® Roleplaying Game: Advanced Player’s Guide™
 2 Pathfinder® Roleplaying Game: Ultimate Magic
 
-**Abilities:** Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD, +2 to the DC of any of the creature’s Strength-based DCs )**Con** +4 (+2 to Fort, +2 hp per HD, +2 to any of the creature’s Constitution-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD, +2 to the DC of any of the creature’s Strength-based DCs ) **Con** +4 (+2 to Fort, +2 hp per HD, +2 to any of the creature’s Constitution-based DCs).

@@ -8,17 +8,17 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Class Skills
+## Class Skills
 
 Sleight of Hand (Dex) and Stealth (Dex) become class skills for a shadow familiar.
 
-### Adumbral
+## Adumbral
 
 A shadow familiar has hit points equal to 1/4 the master’s total hit points. If a shadow familiar dies, it vanishes, re-emerging from its master’s shadow with 1 hit point the next time its master rests and refreshes his pool of spell points or prepares spells. The shadow familiar similarly vanishes if it is ever caught in normal or brighter light more than 100 feet from its master, or may simply choose to vanish as a free action. A shadow familiar does not need to eat, breathe, or sleep.
 
 This ability replaces deliver touch spells and improved evasion.
 
-### Shadow Rider
+## Shadow Rider
 
 At 7th level, a shadow familiar can attempt a single Stealth check to covertly merge with another creature’s shadow. When merged, it is completely undetectable by non-magical means and may safely travel through bright conditions beyond 100 feet from its master so long as its target casts a shadow to hide in. The shadow familiar travels with the creature even if they teleport. Effects that eliminate the shadow (such as having their shadow stolen) cause the shadow familiar to reappear in an adjacent space, but effects that only obscure the shadow (such as entering a dark room or flying high above the ground) do not. A shadow familiar can merge with a willing target’s shadow without need of a Stealth check.
 

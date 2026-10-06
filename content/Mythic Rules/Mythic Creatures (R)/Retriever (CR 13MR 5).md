@@ -13,20 +13,20 @@ A spider the size of a bull elephant rears up on its back four legs in a violent
 XP 25,600
 Pathfinder Roleplaying Game Bestiary
 CE Huge construct (extraplanar, mythic)
-**Init**+12MF;**Senses** darkvision 60 ft., low-light vision, Perception +15
+**Init** +12MF; **Senses** darkvision 60 ft., low-light vision, Perception +15
 
 #### Defense
 
-**AC**30,**touch**11,**flat-footed** 27 (+3 Dex, +19 natural, –2 size)
+**AC** 30, **touch** 11, **flat-footed** 27 (+3 Dex, +19 natural, –2 size)
 **hp** 187 (15d10+105); fast healing 5
-**Fort**+7,**Ref**+10,**Will** +5
-**Defensive Abilities**construct traits, freedom of movement; DR 10/ epic;**SR** 24
+**Fort** +7, **Ref** +10, **Will** +5
+**Defensive Abilities** construct traits, freedom of movement; DR 10/ epic; **SR** 24
 
 #### Offense
 
 **Speed** 50 ft.
 **Melee** bite +21 (1d8+8 plus grab), 4 claws +21 (2d6+8/19–20/×3)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** eye raysMMA (+16 ranged touch), mythic power (5/ day, surge +1d8)
 
 **Spell-Like Abilities** (CL 20th)
@@ -35,8 +35,8 @@ At will—discern location
 
 #### Statistics
 
-**Str**26,**Dex**16,**Con**—,**Int**3,**Wis**11,**Cha** 1
-**Base Atk**+15;**CMB**+25 (+27 bull rush, +29 grapple);**CMD** 38 (40 vs. bull rush, 42 vs. trip)
+**Str** 26, **Dex** 16, **Con** —, **Int** 3, **Wis** 11, **Cha** 1
+**Base Atk** +15; **CMB** +25 (+27 bull rush, +29 grapple); **CMD** 38 (40 vs. bull rush, 42 vs. trip)
 **Feats** Cleave, Improved Bull Rush, Great Fortitude, Improved Critical (claw)MF, Improved InitiativeMF, Lightning Reflexes, Power AttackMF, Toughness
 **Skills** Perception +15
 **Languages** Abyssal (cannot speak)

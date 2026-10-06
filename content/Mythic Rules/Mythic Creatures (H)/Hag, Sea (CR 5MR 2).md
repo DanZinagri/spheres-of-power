@@ -13,14 +13,14 @@ Hair like rotting seaweed drapes this ancient witch. Loose, algae-colored skin s
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 CE Medium monstrous humanoid (aquatic, mythic)
-**Init**+3;**Senses** darkvision 60 ft.; Perception +11
+**Init** +3; **Senses** darkvision 60 ft.; Perception +11
 **Aura** horrific appearance (60 ft., DC 14)
 
 #### Defense
 
-**AC**18,**touch**13,**flat-footed** 15 (+3 Dex, +5 natural)
+**AC** 18, **touch** 13, **flat-footed** 15 (+3 Dex, +5 natural)
 **hp** 58 (4d10+36)
-**Fort**+5,**Ref**+7,**Will** +5
+**Fort** +5, **Ref** +7, **Will** +5
 **Defensive Abilities** **SR** 16
 
 #### Offense
@@ -35,8 +35,8 @@ CE Medium monstrous humanoid (aquatic, mythic)
 
 #### Statistics
 
-**Str**19,**Dex**16,**Con**18,**Int**12,**Wis**13,**Cha** 17
-**Base Atk**+4;**CMB**+8;**CMD** 21
+**Str** 19, **Dex** 16, **Con** 18, **Int** 12, **Wis** 13, **Cha** 17
+**Base Atk** +4; **CMB** +8; **CMD** 21
 **Feats** Extra Mythic PowerMF, Skill Focus (Perception), Skill Focus (Bluff)
 **Skills** Bluff +10, Knowledge (any one) +5, Perception +11, Stealth +10, Swim +19
 **Languages** Common, Giant
@@ -52,7 +52,7 @@ CE Medium monstrous humanoid (aquatic, mythic)
 
 **Evil Eye (Su)** Three times per day, a sea hag can cast her dire gaze upon any single creature within 30 feet. The target must succeed on a DC 15 Will save or be staggered as strange nebulous distress and a gnawing sense of impending doom plagues the victim. If a sea hag uses her evil eye on someone already afflicted by this curse, the victim must make a DC 14 Fortitude save or be overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the comatose victim must make a DC 15 Fortitude save or perish (see the salt wife ability). The evil eye is a mind-affecting fear effect. The save DCs are Charisma-based.
 
-*Evil Eye Curse:* Gaze—failed save; **save**Will DC 14;**frequency**1/day;**effect** staggered (or fall comatose if already under the effects of the evil eye).
+*Evil Eye Curse:* Gaze—failed save; **save** Will DC 14; **frequency** 1/day; **effect** staggered (or fall comatose if already under the effects of the evil eye).
 
 **Hexed Harpoon (Su)** A mythic sea hag carries a two-tined harpoon of dripping bone, coral, and rusted metal, with a trailing rope of braided kelp. She can wield this weapon proficiently, and in her hands it functions as a +1 returning harpoon. In addition, any creature she strikes with the hexed harpoon is stricken with doubt and ill luck, causing the target to take a -2 penalty to one of the following (hag’s choice): AC, ability checks, attack rolls, saving throws, or skill checks. This is a mind-affecting curse effect that lasts for 4 rounds; a DC 15 Will save reduces the duration to 1 round. The weapon has no magical properties and gains the fragile weapon quality in the hands of others. A creature carrying a hexed harpoon for more than 1 round must save be afflicted with a -2 penalty to all of the categories listed above for as long as the hexed harpoon is carried and for 24 hours thereafter. A mythic sea hag can expend one use of her mythic power to resolve attacks with her hexed harpoon as melee touch or ranged touch attacks until the end of her next turn. If her hexed harpoon is lost or destroyed, she can make another in a ritual requiring 8 hours.
 

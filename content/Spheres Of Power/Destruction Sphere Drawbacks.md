@@ -11,29 +11,29 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Aligned Combatant
+#### Aligned Combatant
 
 Choose an end of the alignment spectrum that you possess (good, evil, lawful, or chaotic). Your destructive blast deals no damage to creatures who possess this alignment and full damage to creatures of the opposite alignment (evil for good, lawful for chaotic, etc.). Neutral creatures (those who possess neither your selected alignment nor its opposite) suffer only half damage from your destructive blast.
 
-## Destructive Touch
+#### Destructive Touch
 
 Your destructive blast’s range decreases from close to touch; you cannot use it to make ranged attacks. While you may still apply (blast shape) talents to your destructive blast, they cannot extend further than your natural reach (or the reach of your melee weapon, if using Energy Strike; you cannot use Energy Strike to make ranged attacks).
 
 **Incompatible:** Shape Focus
 
-## Energy Focus
+#### Energy Focus
 
 Choose a blast type group. You may only make destructive blasts from that blast type group. You must select a (blast type) talent from the chosen blast type group with the bonus talent granted by this drawback. You may not select any other (blast type) talents outside the chosen blast type group.
 
 **Author's Note:** A blast type talent that is in multiple blast type groups counts as being outside your chosen blast type group and cannot be selected, even if one of the groups would match your chosen blast type group.
 
-## Shape Focus
+#### Shape Focus
 
 You may only make a destructive blast of a single shape. You must select a (blast shape) talent with the bonus talented granted by this drawback, and cannot make destructive blasts except when using that (blast shape). You may not select any other (blast shape) talents.
 
 **Incompatible:** Destructive Touch
 
-## Uncontrolled Blaster [Alienist HB]
+#### Uncontrolled Blaster [Alienist HB]
 
 You gain the Erratic Blast (blast type) talent. You can only use the Erratic Blast (blast type) talent. Note that this drawback uses an advanced talent and should be used at GM discretion.
 

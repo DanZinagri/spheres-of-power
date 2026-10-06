@@ -16,7 +16,7 @@ Lust is a sin, and the wicked fiends of damnation have ever rewarded sin. These 
 
 **Alignment:** Changes to any Evil.
 
-**Defenses/Qualities:** ferocity, DR 5/good (increase to 10 if the lusting creature’s CR is 10 or higher, increase to 15 if the lusting creature’s CR is 15 or higher);**Immune**fire, mind-affecting,**Resist** cold 10 (increase to 20 if the lusting creature’s CR is 10 or higher, increase to 30 if the lusting creature’s CR is 15 or higher).
+**Defenses/Qualities:** ferocity, DR 5/good (increase to 10 if the lusting creature’s CR is 10 or higher, increase to 15 if the lusting creature’s CR is 15 or higher); **Immune** fire, mind-affecting, **Resist** cold 10 (increase to 20 if the lusting creature’s CR is 10 or higher, increase to 30 if the lusting creature’s CR is 15 or higher).
 
 **Special Abilities:** A lusting creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -32,6 +32,6 @@ Lust is a sin, and the wicked fiends of damnation have ever rewarded sin. These 
 
 **Stripping Gaze (Su):** The lusting creature has a 30’ gaze attack unless a subject makes a successful Will save (DC 10 +1/2 the lusting creature’s HD + its Cha modifier) the subject becomes cursed and loses all equipment-based bonuses and protections (armor, shield, magic rings, magic cloaks, etc.), except for those acquired from artifacts or divine relics. The subject is, for all intents and purposes, naked. This is a necromantic curse effect and can be removed by any spell or effect that can remove a bestow curse.
 
-**Abilities:** Increase from the base creature as follows:**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +8 (+4 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +8 (+4 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to any of the base creature’s Charisma-based DCs).
 
 **Skills:** Lusting creatures gain a +8 racial bonus on Bluff and Diplomacy checks.

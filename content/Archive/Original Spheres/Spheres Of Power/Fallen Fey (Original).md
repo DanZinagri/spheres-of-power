@@ -332,7 +332,7 @@ You may activate the following abilities as fey-blessings:
 
 **Anxiety Spores:** As a swift action or move action, you may coat a weapon, piece of ammunition, or natural weapon you possess with anxiety spores. You may coat those of a willing ally as a move action. The next time that the coated weapon (or piece of ammunition) is used to deal damage to a creature, that creature must succeed on a Fortitude save or be infested with the spores.
 
-*Anxiety Spores:* Disease—injury; **save**Fort DC (sphere DC);**onset**1 round;**frequency**1/minute;**effect**cumulative –1 penalty on saving throws against emotion and fear effects (maximum –5);**cure** 2 consecutive saves
+*Anxiety Spores:* Disease—injury; **save** Fort DC (sphere DC); **onset** 1 round; **frequency** 1/minute; **effect** cumulative –1 penalty on saving throws against emotion and fear effects (maximum –5); **cure** 2 consecutive saves
 
 As a standard action, you can spend a spell point to cause mushrooms to erupt from any creature within close range already infected with its anxiety spores. The targeted creature takes 1d2 points of Charisma damage (Fortitude negates) as the growing spores siphon away its emotions. This damage increases by one die size for every 4 caster levels (1d3, 1d4, 1d6, 1d8, etc.). If the affected creature is currently shaken, frightened, or panicked, any creature within 10 ft. gains the same condition for 1d4 rounds (Will save negates). This is a mind-affecting fear effect.
 

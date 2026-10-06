@@ -9,33 +9,33 @@ updated: 2025-05-16
 
 In a perfect world, those with the greatest intelligence would rule. But in this world, those with the greatest power rule. The ascendant mind transmutes thought into power, and thus makes the world more perfect by her mere presence. She will open the minds of others, and fill them with her insights, while removing the cumbersome free will she finds within.
 
-### Casting
+## Casting
 
 The ascendant mind may combine spheres and talents to create magical effects. The ascendant mind is considered a High-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-### Spell Pool
+## Spell Pool
 
 The ascendant mind gains a small reservoir of energy she can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to her level + her casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 An ascendant mind gains 1 magic talent every level.
 
-### Mental Powers
+## Mental Powers
 
 At each even numbered class level, the ascendant mind gains an additional magic talent of her choice from the Divination, Mind, or Telekinesis sphere
 
 This replaces detect thoughts and discipline spells.
 
-### Psychic Discipline
+## Psychic Discipline
 
 The ascendant mind gains a psychic discipline, but does not gain bonus spells from her discipline. Discipline powers that trigger with the use of psychic spells are triggered by any sphere ability.
 
 This alters psychic discipline.
 
-### Phrenic Techniques (Su)
+## Phrenic Techniques (Su)
 
 The ascendant mind learns a large number of small, useful powers powered by her phrenic pool. Using any phrenic technique requires spending one point from her phrenic pool, and any saving throw against a phrenic technique is a Will save with a DC equal to 10 + 1/2 her ascendant mind level + her casting ability modifier. All phrenic techniques are mind-affecting abilities, but have the ability to affect creatures normally immune to mind-affecting abilities. Those creatures gain a +4 to their saving throws against phrenic techniques instead. Mindless creatures are always immune to phrenic techniques.
 
@@ -77,13 +77,13 @@ At 19th level, the ascendant mind gains these abilities:
 
 This replaces phrenic amplifications.
 
-### Psychic Nexus
+## Psychic Nexus
 
 At 9th level, the ascendant mind can form a telepathic bond with other willing creatures. This takes a full-round action and has a range of touch, but once formed, the bond lasts until the creature is knocked unconscious, moves to a different plane of existence, or the ascendant mind dismisses the bond as a free action. The ascendant mind may have a maximum number of other creatures bonded to her equal to her phrenic ability modifier. If the ascendant mind is knocked unconscious, her bonds remain, but not if she is killed. Creatures bonded to the ascendant mind can communicate with her and with each other telepathically. She may also use mind-affecting abilities on bonded creatures, even if she would normally not be in range.
 
 This replaces telepathic bond.
 
-### Psychic Ascension
+## Psychic Ascension
 
 At 20th level, the ascendant mind gains the ability to transform into pure thought. While in this form, she exists in the minds of the creatures in her psychic nexus, while her physical form is suspended in time in a pocket dimension. While in this form, she can see and hear through the eyes and ears of those in her psychic nexus, but cannot act beyond attempting ability or skills checks that do not require her to act physically, or by using her phrenic powers. When she uses her phrenic powers while ascended, she chooses someone to be ‘her’ acting as target or point of origin of the power. She may use her phrenic powers on herself while ascended.
 

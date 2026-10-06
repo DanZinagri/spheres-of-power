@@ -314,7 +314,7 @@ Creatures bearing your mantle treat weather as one step less severe, plus one st
 
 #### Cold Resolve (mantle, cold) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 When a creature bearing your mantle is in an area of Cold of severity level 2 or higher, they gain a +3 circumstance bonus to saving throws against (and the skill DC to apply) anger effects, and to any Appraise, Intimidate, or Sense Motive checks made against the bearer of the mantle, +2 for each category above 2nd.
 
@@ -330,7 +330,7 @@ When a creature bearing your mantle is in an area of Precipitation of severity l
 
 #### Flustering Fever (mantle, heat) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 When a creature bearing your mantle is in an area of Heat of severity level 2 or higher, they gain a +3 circumstance bonus to Intimidate checks made to insult or pose a menace, +2 for each category above 2nd. If the bearer of the mantle is suffering from an anger condition, they treat the severity of Heat as being 1 higher for the purposes of determining this talent’s effects.
 
@@ -366,7 +366,7 @@ When a creature bearing your mantle is in an area of Aridity of severity level 3
 
 #### Petrichor (mantle, precipitation) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 When a creature bearing your mantle is in an area of Precipitation of severity level 2 or higher, they gain a +3 morale bonus to saving throws against (and the skill DC to apply) anger and disorientation effects, and to Intelligence-based skill checks, +2 for each category above 2nd.
 
@@ -384,7 +384,7 @@ Unlike the effects of other (mantle) talents, if a creature bearing your mantle 
 
 #### Shimmering Flurry (mantle, snow) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 When a creature bearing your mantle is in an area of Cold and Precipitation of severity 2 or higher, the creature bearing your mantle (as well as creature’s observing such a creature) gain a +3 circumstance bonus to saving throws against (and skill DCs to apply) effects that rely on visual components, Diplomacy checks, and checks made as an impressive display of skill, to create a diversion, or to entertain. This bonus increases by +2 per category above severity level 2.
 
@@ -392,7 +392,7 @@ This bonus is also applied as an equivalent penalty to skill checks made against
 
 #### Sleet Step (mantle, snow) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 When a creature bearing your mantle is in an area of Cold and Precipitation of severity 2 or higher, they can move across ice and snow without penalty, and do not need to attempt Acrobatics checks to run or charge on ice. Additionally, such creatures bearing your mantle gain a +10-foot circumstance bonus to their land speed on ice and snow, +5-feet for each category above light snow.
 
@@ -408,7 +408,7 @@ When a creature bearing your mantle is in an area of Precipitation and Wind seve
 
 #### Thundertongue (mantle, storm) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 When a creature bearing your mantle is in an area of Wind and Precipitation of severity level 3 or higher, they gain a +3 circumstance bonus to Intimidate and Perform checks, +2 for each category above 3rd. Additionally, creatures suffer no penalty to Perception checks to hear the voice of a creature bearing your mantle due to strong winds, effectively allowing it to be heard above any prevailing wind conditions (even if it would otherwise be impossible).
 

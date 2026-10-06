@@ -16,7 +16,7 @@ The oldest of desires is to counteract the fleeting nature of existence. The anc
 
 **Alignment:** Over a long period, this usually changes to neutral.
 
-**Defenses/Qualities:** Regeneration (see below);**Immune**ability damage, ability drain, disease, energy drain, paralysis, permanent wounds, petrification, poison, polymorph;**Weakness** (see below)
+**Defenses/Qualities:** Regeneration (see below); **Immune** ability damage, ability drain, disease, energy drain, paralysis, permanent wounds, petrification, poison, polymorph; **Weakness** (see below)
 
 **Special Abilities:** An eternal retains all the special abilities of the base creature, plus the special abilities as described below:
 

@@ -13,15 +13,15 @@ This giant looks like a thick, muscular human. It has frost-white skin and long,
 XP 19,200
 Pathfinder Roleplaying Game Bestiary
 CE Huge humanoid (cold, giant, mythic)
-**Init**–2;**Senses** low-light vision, snow visionMA; Perception +10
+**Init** –2; **Senses** low-light vision, snow visionMA; Perception +10
 **Aura** numbing sleetMA (10 ft., DC 24)
 
 #### Defense
 
-**AC**27,**touch**6,**flat-footed** 27 (+5 armor, –2 Dex, +16 natural, –2 size)
+**AC** 27, **touch** 6, **flat-footed** 27 (+5 armor, –2 Dex, +16 natural, –2 size)
 **hp** 193 (14d8+130)
-**Fort**+16,**Ref**+2,**Will** +6
-**Defensive Abilities**rock catching; DR 10/epic;**Immune** cold
+**Fort** +16, **Ref** +2, **Will** +6
+**Defensive Abilities** rock catching; DR 10/epic; **Immune** cold
 **Weaknesses** vulnerability to fire
 
 #### Offense
@@ -29,15 +29,15 @@ CE Huge humanoid (cold, giant, mythic)
 **Speed** 40 ft.
 **Melee** +1 greataxe +22/+17 (3d8+20 plus 4d6 cold) or 2 slams +21 (2d6+13 plus 4d6 cold)
 **Ranged** rock +7 (2d6+19 plus 4d6 cold)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** ground breakerMA, mythic power (4/day, surge +1d8), rime weaponsMA, rock throwing (120 ft.)
 
 #### Statistics
 
-**Str**37,**Dex**7,**Con**24,**Int**10,**Wis**14,**Cha** 11
-**Base Atk**+10;**CMB**+25 (+27 overrun and sunder);**CMD** 33 (35 vs. overrun and sunder)
+**Str** 37, **Dex** 7, **Con** 24, **Int** 10, **Wis** 14, **Cha** 11
+**Base Atk** +10; **CMB** +25 (+27 overrun and sunder); **CMD** 33 (35 vs. overrun and sunder)
 **Feats** CleaveMF, Great Cleave, Improved Overrun, Improved Sunder, Martial Weapon Proficiency (greataxe), Power AttackMF, Skill Focus (Stealth)
-**Skills**Climb +17, Craft (any one) +7, Intimidate +7, Perception +10, Stealth +2 (+6 in snow);**Racial Modifiers** +4 Stealth in snow
+**Skills** Climb +17, Craft (any one) +7, Intimidate +7, Perception +10, Stealth +2 (+6 in snow); **Racial Modifiers** +4 Stealth in snow
 **Languages** Common, Giant
 **SQ** icewalkerMA
 
@@ -63,4 +63,4 @@ CE Huge humanoid (cold, giant, mythic)
 
 #### Mythic Frost Giant
 
-Without the giant simple template, a mythic frost giant’s stats are as follows: **CR**11/**MR**4;**XP**12,800;**Size**Large;**Init**-1;**Aura**DC 22;**AC**26,**touch**8,**flat-footed**26;**hp**165;**Fort**+14,**Ref**+3;**Melee**+1 greataxe +21/+16 (3d6+17 plus 4d6 cold) or 2 slams +20 (1d8+11 plus 4d6 cold);**Ranged**rock +9 (1d8+16 plus 4d6 cold);**Space**10 ft.,**Reach**10 ft.;**Special Attacks**ground breaker (DC 28);**Str**33,**Dex**9,**Con**20;**CMB**+22 (+24 overrun and sunder);**CMD**31 (33 vs. overrun and sunder);**Skills** Climb +15, Stealth +7 (+11 in snow).
+Without the giant simple template, a mythic frost giant’s stats are as follows: **CR** 11/**MR** 4; **XP** 12,800; **Size** Large; **Init** -1; **Aura** DC 22; **AC** 26, **touch** 8, **flat-footed** 26; **hp** 165; **Fort** +14, **Ref** +3; **Melee** +1 greataxe +21/+16 (3d6+17 plus 4d6 cold) or 2 slams +20 (1d8+11 plus 4d6 cold); **Ranged** rock +9 (1d8+16 plus 4d6 cold); **Space** 10 ft., **Reach** 10 ft.; **Special Attacks** ground breaker (DC 28); **Str** 33, **Dex** 9, **Con** 20; **CMB** +22 (+24 overrun and sunder); **CMD** 31 (33 vs. overrun and sunder); **Skills** Climb +15, Stealth +7 (+11 in snow).

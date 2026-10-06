@@ -13,49 +13,49 @@ The Assassin is a first-level sample character for Champions of the Spheres, sui
 **The Assassin**
 Human [[Troubadour]] 1
 CN Medium humanoid (human)
-**Init**+3;**Perception** +4
+**Init** +3; **Perception** +4
 
 ## Defense
 
-**AC**13,**touch**13,**flat-footed** 10 (+3 Dex)
+**AC** 13, **touch** 13, **flat-footed** 10 (+3 Dex)
 **hp** 9 (1d8+1)
-**Fort**+1,**Ref**+5,**Will** +2
+**Fort** +1, **Ref** +5, **Will** +2
 
 ## Offense
 
 **Speed** 30 ft.
 **Melee** War Razor +3 (1d4+1/19-20)
 **Ranged** Hand Crossbow +3 (1d4+1/19-20)
-**Space**5ft.;**Reach** 5ft.
+**Space** 5ft.; **Reach** 5ft.
 
 ## Magic
 
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +4
-**Tradition**Blood Magic (Boons: Deathful Magic, Fortified Magic, Overcharge; Drawbacks: Draining Casting, Extended Casting, Somatic Casting (2), Verbal Casting, Limited Divination: Sense (Divination));**CAM** Cha
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +4
+**Tradition** Blood Magic (Boons: Deathful Magic, Fortified Magic, Overcharge; Drawbacks: Draining Casting, Extended Casting, Somatic Casting (2), Verbal Casting, Limited Divination: Sense (Divination)); **CAM** Cha
 **Spell Points** 4
-**Divination sphere**- DC 13,**Duration**concentration,**Range**Medium (110 ft.),**Talents** Dowsing, Witness The City
+**Divination sphere** - DC 13, **Duration** concentration, **Range** Medium (110 ft.), **Talents** Dowsing, Witness The City
 - divine (dowsing, magic; 1sp: witness the city)
 
 ## Martial
 
-**Tradition**Guild Training (Alchemy sphere (poison) package; Equipment sphere: Finesse Fighting, Rogue Weapon Training; Fencing sphere);**PAM** Cha
-**Alchemy sphere**- DC 13,**Packages** poison
+**Tradition** Guild Training (Alchemy sphere (poison) package; Equipment sphere: Finesse Fighting, Rogue Weapon Training; Fencing sphere); **PAM** Cha
+**Alchemy sphere** - DC 13, **Packages** poison
 - poison (fatigue)
-**Equipment sphere**- DC 13,**Talents** Finesse Fighting, Rogue Weapon Training
+**Equipment sphere** - DC 13, **Talents** Finesse Fighting, Rogue Weapon Training
 - discipline (proficient w/ blade boot, butterfly knife, garrote, hand crossbow, kukri, rapier, sap, short bow, short sword, starknife, switchblade knife, sword cane, war razor, and whip)
 - finesse fighting (may use Dex instead of Str for melee attack rolls)
 **Fencing sphere** - DC 13
 - fatal thrust (+1d6 precision damage)
-**Scout sphere**- DC 13,**Talents** Lurker
+**Scout sphere** - DC 13, **Talents** Lurker
 - lurker (extra-sensory senses still require a Perception check to detect)
 - scout (swift action, identify creature's weaknesses)
 
 ## Statistics
 
-**Str**13,**Dex**16,**Con**12,**Int**10,**Wis**10,**Cha** 16
-**Base Atk**+0;**CMB**+1;**CMD** 14
-**Feats**Extra Combat Talent (2);**Associated Feats** Lurker in Darkness, Weapon Finesse
-**Skills**Acrobatics +7, Bluff +7, Diplomacy +7, Disguise +7, Escape Artist +7, Perception +4, Sense Motive +4;**Associated Skills** Craft (alchemy) +4, Stealth +7
+**Str** 13, **Dex** 16, **Con** 12, **Int** 10, **Wis** 10, **Cha** 16
+**Base Atk** +0; **CMB** +1; **CMD** 14
+**Feats** Extra Combat Talent (2); **Associated Feats** Lurker in Darkness, Weapon Finesse
+**Skills** Acrobatics +7, Bluff +7, Diplomacy +7, Disguise +7, Escape Artist +7, Perception +4, Sense Motive +4; **Associated Skills** Craft (alchemy) +4, Stealth +7
 **Gear** hand crossbow, war razor, and 42 gp worth of other equipment
 
 ## Special Abilities

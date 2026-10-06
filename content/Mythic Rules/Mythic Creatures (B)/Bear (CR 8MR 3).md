@@ -13,28 +13,28 @@ Spittle drips from this feral bear’s roaring maw, and its matted fur is broken
 XP 4,800
 Pathfinder Roleplaying Game Bestiary
 N Large animal (mythic)
-**Init**+5;**Senses** low-light vision, scent; Perception +12
+**Init** +5; **Senses** low-light vision, scent; Perception +12
 
 #### Defense
 
-**AC**21,**touch**10,**flat-footed** 20 (+1 Dex, +11 natural, –1 size)
+**AC** 21, **touch** 10, **flat-footed** 20 (+1 Dex, +11 natural, –1 size)
 **hp** 119 (10d8+74)
-**Fort**+12,**Ref**+8,**Will** +4
+**Fort** +12, **Ref** +8, **Will** +4
 **Defensive Abilities** ferocityMA; DR 5/epic
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** 2 claws +14 (1d6+8 plus grab), bite +14 (1d8+8)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** crushing hugMA, focused furyMA, mythic power (3/ day, surge +1d6)
 
 #### Statistics
 
-**Str**27,**Dex**13,**Con**21,**Int**2,**Wis**12,**Cha** 10
-**Base Atk**+7;**CMB**+16 (+20 grapple);**CMD** 27 (31 vs. trip)
+**Str** 27, **Dex** 13, **Con** 21, **Int** 2, **Wis** 12, **Cha** 10
+**Base Atk** +7; **CMB** +16 (+20 grapple); **CMD** 27 (31 vs. trip)
 **Feats** Endurance, Improved Initiative, Iron WillMF, RunMF, Skill Focus (Perception)
-**Skills**Perception +12, Survival +8, Swim +16;**Racial Modifiers** +4 Swim
+**Skills** Perception +12, Survival +8, Swim +16; **Racial Modifiers** +4 Swim
 **SQ** unstoppableMA
 
 #### Ecology

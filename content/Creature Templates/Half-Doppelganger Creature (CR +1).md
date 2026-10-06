@@ -30,7 +30,7 @@ Half-doppelgangers appear normal until they reach puberty, at which point they b
 
 **Melee:** The half-doppelganger gains two slam attacks that deal damage as appropriate for a creature of its size.
 
-**Abilities:** Increase from the base creature as follows:**Con**+2,**Wis**+2,**Cha** +2.
+**Abilities:** Increase from the base creature as follows: **Con** +2, **Wis** +2, **Cha** +2.
 
 **Skills:** A half-doppelganger gains a +4 racial bonus on Bluff, Diplomacy, and Sense Motive checks and these skills are always considered class skills. When using its alternate form ability, a half-doppelganger gains a +10 circumstance bonus on Disguise checks.
 

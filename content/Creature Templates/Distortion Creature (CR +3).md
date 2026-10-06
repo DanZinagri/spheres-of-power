@@ -20,7 +20,7 @@ Some creatures hold the power to bend the rules of reality just by thinking abou
 
 **Armor Class:** Gains a +2 insight bonus and a +2 deflection bonus.
 
-**Special Defenses/Qualities:** Amphibious (they can distort the very water or air so that they can breathe it), Evasion (if the base creature is at least 9 HD this ability increases to Improved Evasion) Fast Healing 1 (if base creature possesses fast healing or regeneration double the listed amount instead), Uncanny Dodge (as barbarian equal to HD, if the base creature is at least 5 HD this ability increase to Improved Uncanny Dodge).**Weakness:** Vulnerability to spells and effects with the Force and Law descriptors. Creatures with Lawful subtype are immune to a distortion creature’s special abilities and spell like abilities as if they always succeeded on their saving throw and had infinite spell resistance.
+**Special Defenses/Qualities:** Amphibious (they can distort the very water or air so that they can breathe it), Evasion (if the base creature is at least 9 HD this ability increases to Improved Evasion) Fast Healing 1 (if base creature possesses fast healing or regeneration double the listed amount instead), Uncanny Dodge (as barbarian equal to HD, if the base creature is at least 5 HD this ability increase to Improved Uncanny Dodge). **Weakness:** Vulnerability to spells and effects with the Force and Law descriptors. Creatures with Lawful subtype are immune to a distortion creature’s special abilities and spell like abilities as if they always succeeded on their saving throw and had infinite spell resistance.
 
 **Speed:** Increase the speed of all movement types by 10 ft.
 
@@ -64,7 +64,7 @@ Some creatures hold the power to bend the rules of reality just by thinking abou
 | 17–18 | Foresight |
 | 19–20 | Time Stop |
 
-**Abilities:** Increase from the base creature as follows:**Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the creature’s Charisma-based DCs)
+**Abilities:** Increase from the base creature as follows: **Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the creature’s Charisma-based DCs)
 
 **Skills:** Distortion creatures gain a +8 racial bonus on Acrobatics and Disable Device checks.
 

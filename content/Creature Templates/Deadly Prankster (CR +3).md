@@ -38,6 +38,6 @@ The pit’s smooth, greased, stone walls have a Climb DC of 30 and a climber mus
 
 **Running into The Window (Su):** If a creature attempts to charge a deadly prankster creature, he hits an invisible wall of force that appears just as he enters the square when he would be able to make the attack. This arrests his forward movement, deals 1d6 points of non-lethal damage for every 10 ft. of movement the charging creature was attempting to make and knocks the creature prone. A successful Reflex save (DC 10 + ½ the deadly prankster creature’s HD + its Cha modifier) results in half damage and negates the knocked prone effect.
 
-**Abilities:** Increase from the base creature as follows:**Con**+6 (+3 hp per HD, +3 to Fort saves, +3 to any of the base creature’s Constitution-based DCs),**Cha** +8 (+4 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Con** +6 (+3 hp per HD, +3 to Fort saves, +3 to any of the base creature’s Constitution-based DCs), **Cha** +8 (+4 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to any of the base creature’s Charisma-based DCs).
 
 **Skills:** Deadly prankster creatures gain a +8 racial bonus on Craft (traps), Disable Device, and Bluff checks, these are always class skills for the base creature, and they can use them untrained.

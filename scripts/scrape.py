@@ -20,6 +20,7 @@ import concurrent.futures as cf
 import html
 import json
 import re
+from collections import Counter
 import shutil
 import sys
 import time
@@ -2025,14 +2026,103 @@ def flatten_table(table: Tag, soup_factory) -> None:
     table.replace_with(out)
 
 
+def unpad_bold(line: str) -> str:
+    """'** text **' -> ' **text** ' for each bold span of a line (markers paired in order)."""
+    parts = line.split("**")
+    if len(parts) < 3 or len(parts) % 2 == 0:  # no spans, or an unpaired marker: leave it
+        return line
+    out = parts[0]
+    for k in range(1, len(parts), 2):
+        inner, after = parts[k], parts[k + 1]
+        if not inner.strip():
+            out += f"**{inner}**{after}"
+            continue
+        lead = inner[:len(inner) - len(inner.lstrip(" \t"))]
+        trail = inner[len(inner.rstrip(" \t")):]
+        out += f"{lead}**{inner.strip(' \t')}**{trail}{after}"
+    return out
+
+
+SMALL_WORDS = {"a", "an", "and", "as", "at", "by", "for", "from", "in", "into", "of", "on", "or", "the",
+               "to", "vs", "with"}
+
+
+def _title_case(text: str) -> str:
+    words = text.lower().split(" ")
+    return " ".join(w if (i and w in SMALL_WORDS) else w[:1].upper() + w[1:] for i, w in enumerate(words))
+
+
+def normalize_formatting(md: str) -> str:
+    """Site-wide consistency fixes for formatting the source wiki applies unevenly:
+    - source credits as one italic line ("*Source: ...*"), not "**Source:** ...";
+    - heading text not wrapped whole in bold/italics, no trailing colon, no ALL CAPS;
+    - feat labels bold with the colon inside ("**Benefit:**")."""
+    md = re.sub(r"^\*\*Source:\*\*[ \t]*(.+?)[ \t]*$", lambda m: f"*Source: {m.group(1).strip('*')}*", md, flags=re.M)
+
+    def heading(m):
+        hashes, text = m.group(1), m.group(2).strip()
+        while (w := re.fullmatch(r"(\*\*|\*|__|_)(.+)\1", text)) and "*" not in w.group(2).replace("**", ""):
+            text = w.group(2).strip()
+        text = re.sub(r"[ \t]*:$", "", text)
+        letters = re.sub(r"\[[^\]]*\]|\([^)]*\)", "", text)
+        if sum(c.isalpha() for c in letters) > 4 and letters.isupper():
+            text = re.sub(r"[^\[(]+(?=[\[(]|$)", lambda p: _title_case(p.group(0)), text, count=1)
+        return f"{hashes} {text}"
+    md = re.sub(r"^(#{1,6}) (.+)$", heading, md, flags=re.M)
+    labels = r"Prerequisites?|Benefits?|Normal|Special|Requirements?"
+    # "**Combat Training (Ex)**: text" -> "**Combat Training (Ex):** text" (colon inside the bold)
+    md = re.sub(r"^(\s*(?:- )?)\*\*([^*\n]+?)\*\*:", r"\1**\2:**", md, flags=re.M)
+    md = re.sub(rf"^({labels}):[ \t]*", r"**\1:** ", md, flags=re.M)
+    return md
+
+
+def normalize_heading_levels() -> int:
+    """Pass over the written pages so the same kind of page uses the same heading sizes:
+    - a first heading that just repeats the page title (Quartz shows the title) goes;
+    - archetype pages: the top heading level (class features) becomes ##;
+    - feat and drawback pages: the entry level (the most common one) becomes ####.
+    Whole pages are shifted, so each page keeps its own hierarchy. Returns pages changed."""
+    norm = lambda s: re.sub(r"[^a-z0-9]+", " ", re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", s).lower()).strip()
+    changed = 0
+    for f in CONTENT.rglob("*.md"):
+        if ARCHIVE in f.relative_to(CONTENT).parts or f.name == "index.md":
+            continue
+        text = f.read_text(encoding="utf-8")
+        if GENERATED_MARK not in text:
+            continue
+        head, body = text.split(GENERATED_MARK, 1)
+        lines = body.split("\n")
+        title = re.search(r'^title: "?(.*?)"?$', head, re.M)
+        first = next((i for i, l in enumerate(lines) if l.strip() and not l.startswith("*Source:")), None)
+        if title and first is not None and (m := re.match(r"#{1,6} (.+)$", lines[first])) \
+                and norm(m.group(1)) == norm(title.group(1)):
+            del lines[first]
+        levels = [len(m.group(1)) for l in lines if (m := re.match(r"(#{1,6}) ", l))]
+        delta = 0
+        if levels and "Archetype" in f.stem:
+            delta = 2 - min(levels)
+        elif levels and re.search(r"(Feats|Drawbacks)$", f.stem):
+            delta = 4 - Counter(levels).most_common(1)[0][0]
+        if delta:
+            lines = [re.sub(r"^(#{1,6})(?= )", lambda m: "#" * min(6, max(1, len(m.group(1)) + delta)), l)
+                     for l in lines]
+        new = head + GENERATED_MARK + "\n".join(lines)
+        if new != text:
+            f.write_text(new, encoding="utf-8")
+            changed += 1
+    return changed
+
+
 def tidy(md: str) -> str:
     md = md.replace(" ", " ")
     md = re.sub(r"[ \t]+\n", "\n", md)
     md = re.sub(r"\n{3,}", "\n\n", md)
-    # markdownify emits "**  text**" when the bold had padding
-    md = re.sub(r"\*\*[ \t]+([^*\n]+?)[ \t]*\*\*", r"**\1**", md)
+    # markdownify emits "**  text**" when the bold had padding; pair the markers in order so the
+    # text *between* two bold spans ("**Str** +4, **Dex**") keeps its spaces
+    md = "\n".join(unpad_bold(l) for l in md.split("\n"))
     # "<strong>Prerequisites:</strong>Text" -> bold label must be followed by a space to render
-    md = re.sub(r"(\*\*[^*\n]*?[:.]\*\*)(?=[\w(\[])", r"\1 ", md)
+    md = re.sub(r"(\*\*[^*\n]*?[:.]\*\*)(?=[\w(\[+\-−–])", r"\1 ", md)
+    md = normalize_formatting(md)
     md = archetype_tables(md)
     md = set_column_counts(md)
     # the "U: Part of Ultimate Spheres of Power..." footnote repeated on ~490 pages
@@ -2493,6 +2583,8 @@ def convert(with_images: bool) -> None:
         chooser = "# Wild Magic Tables\n\n" + wild_magic_chooser(wm_core, wm_spheres)
         dest.write_text(out.rstrip("\n") + "\n\n---\n\n" + chooser + "\n", encoding="utf-8")
         print(f"Wild Magic chooser: {len(wm_core)} general + {len(wm_spheres)} sphere tables")
+
+    print(f"Heading levels normalized: {normalize_heading_levels()} pages")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

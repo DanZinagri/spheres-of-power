@@ -13,26 +13,26 @@ An immense centipede-like beast erupts from the snow, rows of chitinous plates o
 XP 6,400
 Pathfinder Roleplaying Game Bestiary
 N Gargantuan magical beast (mythic)
-**Init**+0;**Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +12
+**Init** +0; **Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +12
 
 #### Defense
 
-**AC**23,**touch**6,**flat-footed** 23 (+17 natural, –4 size)
+**AC** 23, **touch** 6, **flat-footed** 23 (+17 natural, –4 size)
 **hp** 142 (9d10+93)
-**Fort**+13,**Ref**+6,**Will** +4
-**Defensive Abilities**DR 5/epic;**Immune** cold, fire
+**Fort** +13, **Ref** +6, **Will** +4
+**Defensive Abilities** DR 5/epic; **Immune** cold, fire
 
 #### Offense
 
 **Speed** 30 ft., burrow 20 ft.
 **Melee** bite +14 (3d8+13 plus grab)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** fast swallowMA, feral savagery (full attack)MA, furnace flareMA, mythic power (3/day, surge +1d6), swallow whole (2d8+9 plus 8d6 fire damage, AC 18, 14 hp), tunnel wormMA
 
 #### Statistics
 
-**Str**28,**Dex**11,**Con**25,**Int**5,**Wis**12,**Cha** 10
-**Base Atk**+9;**CMB**+22 (+24 bull rush, +26 grapple);**CMD** 32 (34 vs. bull rush, can’t be tripped)
+**Str** 28, **Dex** 11, **Con** 25, **Int** 5, **Wis** 12, **Cha** 10
+**Base Atk** +9; **CMB** +22 (+24 bull rush, +26 grapple); **CMD** 32 (34 vs. bull rush, can’t be tripped)
 **Feats** Awesome Blow, CleaveMF, Great Cleave, Improved Bull Rush, Power AttackMF
 **Skills** Climb +13, Perception +12
 **Languages** Giant (can’t speak)
@@ -55,4 +55,4 @@ N Gargantuan magical beast (mythic)
 
 #### Mythic Remorhaz
 
-Without the giant simple template, a mythic remorhaz’s stats are as follows: **CR**8/**MR**3;**XP**4,800;**Size**Huge;**Init**+1;**AC**26,**touch**9,**flat-footed**25;**hp**124;**Fort**+11,**Ref**+7;**Melee**bite +14 (3d6+10 plus grab);**Space**15 ft.,**Reach**15 ft.;**Special Attacks**heat (DC 20);**Str**24,**Dex**13,**Con**21;**CMB**+18 (+20 bull rush, +22 grapple);**CMD**29 (31 vs. bull rush);**Skills** Climb +12.
+Without the giant simple template, a mythic remorhaz’s stats are as follows: **CR** 8/**MR** 3; **XP** 4,800; **Size** Huge; **Init** +1; **AC** 26, **touch** 9, **flat-footed** 25; **hp** 124; **Fort** +11, **Ref** +7; **Melee** bite +14 (3d6+10 plus grab); **Space** 15 ft., **Reach** 15 ft.; **Special Attacks** heat (DC 20); **Str** 24, **Dex** 13, **Con** 21; **CMB** +18 (+20 bull rush, +22 grapple); **CMD** 29 (31 vs. bull rush); **Skills** Climb +12.

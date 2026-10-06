@@ -13,21 +13,21 @@ Bright, shining copper scales run from the horn-crowned head to the ridged tail 
 XP 51,200
 Pathfinder Roleplaying Game Bestiary
 CG Large dragon (earth, mythic)
-**Init**+11MF;**Senses** dragon senses; Perception +22
+**Init** +11MF; **Senses** dragon senses; Perception +22
 **Aura** frightful presence (180 ft., DC 23)
 
 #### Defense
 
-**AC**35,**touch**10,**flat-footed** 34 (+1 Dex, +25 natural, –1 size)
+**AC** 35, **touch** 10, **flat-footed** 34 (+1 Dex, +25 natural, –1 size)
 **hp** 232 (15d12+135)
-**Fort**+14,**Ref**+10,**Will** +13
-**Defensive Abilities**draconic fortitudeMA, impervious emotionsMA, uncanny dodge; DR 10/epic and magic;**Immune**acid, emotion effects, fear, paralysis, sleep;**SR** 29
+**Fort** +14, **Ref** +10, **Will** +13
+**Defensive Abilities** draconic fortitudeMA, impervious emotionsMA, uncanny dodge; DR 10/epic and magic; **Immune** acid, emotion effects, fear, paralysis, sleep; **SR** 29
 
 #### Offense
 
 **Speed** 40 ft., fly 200 ft. (poor); climb stone
 **Melee** bite +22 (2d6+12/19–20), 2 claws +22 (1d8+8/19–20), 2 wings +17 (1d6+4), tail +17 (1d8+12)
-**Space**10 ft.;**Reach** 5 ft. (10 ft. with bite)
+**Space** 10 ft.; **Reach** 5 ft. (10 ft. with bite)
 **Special Attacks** breath weapon (80-ft. line, DC 22, 12d6 acid), greasy breathMA, joking banterMA, mythic power (6/day, surge +1d8), mythic spell-like abilitiesMA, slapstick propMA, slow breath
 
 **Spell-Like Abilities** (CL 15th; concentration +21)
@@ -41,8 +41,8 @@ At will—grease (DC 17), hideous laughter (DC 18), stone shape
 
 #### Statistics
 
-**Str**27,**Dex**12,**Con**21,**Int**18,**Wis**19,**Cha** 22
-**Base Atk**+16;**CMB**+24 (+31 trip);**CMD** 35 (40 vs. trip)
+**Str** 27, **Dex** 12, **Con** 21, **Int** 18, **Wis** 19, **Cha** 22
+**Base Atk** +16; **CMB** +24 (+31 trip); **CMD** 35 (40 vs. trip)
 **Feats** Combat ExpertiseMF, Greater Trip, Improved Critical (bite, claw), Improved InitiativeMF, Improved TripMF, Power Attack, Vital Strike
 **Skills** Bluff +24, Craft (traps) +28, Diplomacy +24, Disable Device +20, Fly +13, Perception +22, Perform (comedy) +15, Sense Motive +20, Spellcraft +20, Stealth +15, Use Magic Device +24
 **Languages** Common, Draconic, Elven, Gnome, Halfling

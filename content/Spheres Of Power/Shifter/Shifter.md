@@ -89,7 +89,7 @@ The shifter may choose to keep these traits when she assumes other forms, even i
 
 #### Accommodating Form [Apoc]
 
-**Source:** [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)
+*Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
 The shifter chooses one Alteration sphere talent (including the base talent that grants Blank Form) that she possesses that grants traits. When she applies a shapeshift to herself, she can choose one of the traits from that talent that does not cost an additional spell point to apply. That trait does not count towards her maximum amount of traits she may possess on a form. She may select this bestial trait once per every 4 shifter levels she possesses (minimum 1). Each time she does so she selects another talent.
 
@@ -175,7 +175,7 @@ You gain a bonus combat talent. This bestial trait may be taken more than once, 
 
 #### Defensive Shift [Apoc]
 
-**Source:** [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)
+*Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
 When the shifter applies a shapeshift to herself, she can enter total defense as part of that same action. At the beginning of her next turn, she is staggered for 1 round.
 
@@ -197,7 +197,7 @@ The shifter gains fast healing 1. The shifter may take this talent a second time
 
 #### Feinting Shift [Apoc]
 
-**Source:** [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)
+*Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
 When the shifter applies a shapeshift to herself, she may make a feint check as part of that same action.
 
@@ -343,7 +343,7 @@ The shifter’s reach increases by 5 feet. The shifter does not threaten this en
 
 #### Resistant Shift [Apoc]
 
-**Source:** [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)
+*Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
 When the shifter applies a shapeshift to herself and becomes a size category larger then she was before, she gains stalwart (if she makes a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely) for 1 round per 5 levels of shifter she possesses (minimum 1), or until she applies a new shapeshift to herself (whichever is shorter). When she applies a shapeshift to herself and becomes a size category smaller than she was before, she gains evasion (As the shifter bestial trait) for 1 round per 5 levels of shifter she possesses (minimum 1), or until she applies a new shapeshift to herself (whichever is shorter).
 
@@ -361,7 +361,7 @@ As a standard action the shifter may reshape one of her limbs capable of wieldin
 
 #### Shifting Style [Apoc]
 
-**Source:** [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)
+*Source: [The Apex Shifter](https://www.drivethrurpg.com/product/276206/Spheres-Apocrypha-Apex-Shifter?affiliate_id=549120)*
 
 **Requires:** At least 1 combat talent not from the Alchemy, Equipment, Tech, or Trap sphere; Knowledge of Many Shapes class feature
 
@@ -545,8 +545,8 @@ The following magical items are especially appropriate for shifters.
 
 #### Parsertongue [TS:WAT]
 
-**Aura**moderate Enhancement;**CL** 8th
-**Slot**head;**Price**3,000 gp;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th
+**Slot** head; **Price** 3,000 gp; **Weight** 2 lbs.
 
 This snakeskin mouthguard is tied around the head by string. When worn by a creature with the steal languages class feature, that creature can store a language they copied from a target into this snakeskin. Each parsertongue can store up to three languages at a time, and once a language has been added, any creature wearing this item can understand (but not speak) the languages stored. The creature who originally added the language to a parsertongue can also speak that language while wearing it. If this item has stored its maximum number of languages, a creature attempting to add a new one must select which existing language to remove.
 
@@ -555,8 +555,8 @@ Craft Apparatus, Enhancement sphere (Bestow Intelligence (enhance)), creator mus
 
 #### Shifter’s Shard [TS:WAT]
 
-**Aura**moderate Alteration;**CL** 6th
-**Slot**neck;**Price**10,000 gp;**Weight** 1/2 lbs.
+**Aura** moderate Alteration; **CL** 6th
+**Slot** neck; **Price** 10,000 gp; **Weight** 1/2 lbs.
 
 This shard of bone is taken from the corpse of a shapeshifting creature and wrapped in leather string to form a pendant. While worn by a creature with the bestial trait class feature, this pendant grants the user one additional bestial trait, chosen when the item is created. This item does not grant duplicates of a bestial trait the user already has (unless that trait can be taken multiple times and the user has not reached the maximum number of times they can take it), and this item cannot grant combat talents or additional natural weapons (such as the bite or claws bestial traits) through the bestial trait it provides. A creature cannot benefit from the effects of more than one shifter’s shard, and must wear this item for 24 hours before it begins working.
 
@@ -565,8 +565,8 @@ Craft Apparatus, Alteration sphere, creator must have the bestial trait class fe
 
 #### Uptake Gloves [TS:WAT]
 
-**Aura**moderate Enhancement;**CL** 6th
-**Slot**wrists;**Price**8,000 gp;**Weight** 1 lb.
+**Aura** moderate Enhancement; **CL** 6th
+**Slot** wrists; **Price** 8,000 gp; **Weight** 1 lb.
 
 These wooden wristguards are strangely durable, with vines that clutch a chunk of rare materials. When worn by a creature with the enhanced attacks class feature, these gloves grant the user’s natural attacks the properties of a single special material that can be used to make weapons, except for cold iron, silver, adamantine, and any other materials that grant the properties of those three materials. For example, if these gloves grant the effects of elysian bronzeUE, the wielder’s natural attacks gain a bonus on damage rolls made against magical beasts and monstrous humanoids.
 

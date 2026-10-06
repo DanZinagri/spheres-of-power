@@ -13,21 +13,21 @@ This creature stands nearly twice as tall as a human, although its lower torso t
 XP 9,600
 Pathfinder Roleplaying Game Bestiary
 CG Large outsider (air, extraplanar, mythic)
-**Init**+8;**Senses** darkvision 60 ft.; Perception +17
+**Init** +8; **Senses** darkvision 60 ft.; Perception +17
 
 #### Defense
 
-**AC**22,**touch**15,**flat-footed** 16 (+4 Dex, +2 dodge, +7 natural, –1 size)
+**AC** 22, **touch** 15, **flat-footed** 16 (+4 Dex, +2 dodge, +7 natural, –1 size)
 **hp** 95 (10d10+40)
-**Fort**+5,**Ref**+11,**Will** +9
-**Defensive Abilities**DR 5/epic;**Immune** acid
+**Fort** +5, **Ref** +11, **Will** +9
+**Defensive Abilities** DR 5/epic; **Immune** acid
 
 #### Offense
 
 **Speed** 20 ft., fly 60 ft. (perfect)
 **Melee** 2 slams +16 (1d8+7) or mwk scimitar +17/+12 (1d8+7/18–20)
 **Ranged** mwk composite longbow +16/+11 (3d6+5/x3)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** air mastery, mythic power (4/day, surge +1d8), undivertable strikerMA, whirlwind (1/10 minutes, 10–50 ft. tall, 1d8+5 damage, DC 18)
 
 **Spell-Like Abilities** (CL 9th, concentration +12)
@@ -37,8 +37,8 @@ At will—gust of wind (DC 15), invisibility (self only), plane shift (willing t
 
 #### Statistics
 
-**Str**25,**Dex**19,**Con**14,**Int**14,**Wis**15,**Cha** 17
-**Base Atk**+10;**CMB**+18;**CMD** 33
+**Str** 25, **Dex** 19, **Con** 14, **Int** 14, **Wis** 15, **Cha** 17
+**Base Atk** +10; **CMB** +18; **CMD** 33
 **Feats** Combat Casting, Combat ReflexesMF, DodgeMF, Improved InitiativeB, Wind Stance
 **Skills** Appraise +15, Craft (any one) +12, Fly +23, Knowledge (planes) +17, Perception +17, Sense Motive +17, Spellcraft +15, Stealth +10
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.

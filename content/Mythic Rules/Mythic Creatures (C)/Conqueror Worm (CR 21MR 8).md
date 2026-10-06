@@ -12,22 +12,22 @@ This gigantic eyeless worm is covered with a scarlet crust of oily, scabby flesh
 **Conqueror Worm (CR 21/MR 8)**
 XP 409,600
 CE Gargantuan outsider (mythic, native)
-**Init**+11;**Senses** blindsight 150 ft.; Perception +15
+**Init** +11; **Senses** blindsight 150 ft.; Perception +15
 **Aura** stench (DC 27, 10 rounds), unholy aura
 
 #### Defense
 
-**AC**41,**touch**9,**flat-footed** 41 (+4 deflection, –1 Dex, +32 natural, –4 size)
+**AC** 41, **touch** 9, **flat-footed** 41 (+4 deflection, –1 Dex, +32 natural, –4 size)
 **hp** 390 (23d10+264); fast healing 10 (20 in dim light or darkness)
-**Fort**+25,**Ref**+19,**Will** +11
-**Defensive Abilities**deathlessMA, fortificationMA (50%); DR 15/epic and magic;**Immune**acid, bleed, death effects, disease, mind-affecting effects, paralysis, poison, polymorph;**Resist**cold 20, electricity 20, fire 20;**SR** 36
+**Fort** +25, **Ref** +19, **Will** +11
+**Defensive Abilities** deathlessMA, fortificationMA (50%); DR 15/epic and magic; **Immune** acid, bleed, death effects, disease, mind-affecting effects, paralysis, poison, polymorph; **Resist** cold 20, electricity 20, fire 20; **SR** 36
 **Weaknesses** light blindness, vulnerable to sonic attacks
 
 #### Offense
 
 **Speed** 40 ft., burrow 40 ft., climb 40 ft., swim 40 ft.
 **Melee** bite +33 (5d8+13/19–20/x3 plus grab and scarlet slime), tail slam +33 (5d6+13 plus stunning blowMA)
-**Space**20 ft.;**Reach** 15 ft. (30 ft. with prehensile tongue)
+**Space** 20 ft.; **Reach** 15 ft. (30 ft. with prehensile tongue)
 **Special Attacks** breath weaponMA (120-ft. line, 20d6 half acid, half corruption plus slime, Reflex DC 29 for half, usable every 1d4 rounds), fast swallowMA, mythic power (8/day, surge +1d10), mythic magicMA (3/day), prehensile tongue, regurgitateMA, scarlet slimeMA, swallow whole (5d8+13 bludgeoning damage plus slime, AC 26, 39 hp)
 
 **Spell-Like Abilities** (CL 23rd; concentration +33)
@@ -50,8 +50,8 @@ At will—control undead (DC 28), deeper darkness, telekinesis (DC 25; uses a DC
 
 #### Statistics
 
-**Str**36,**Dex**8,**Con**26,**Int**7,**Wis**11,**Cha** 30
-**Base Atk**+23;**CMB**+40 (+44 grapple);**CMD** 49 (can’t be tripped)
+**Str** 36, **Dex** 8, **Con** 26, **Int** 7, **Wis** 11, **Cha** 30
+**Base Atk** +23; **CMB** +40 (+44 grapple); **CMD** 49 (can’t be tripped)
 **Feats** Awesome Blow, CleaveMF, Critical FocusMF, Great Cleave, Improved Critical (bite)MF, Improved InitiativeMF, Lightning Reflexes, Power Attack, Spell Focus (necromancy), Staggering Critical, Weapon Focus (bite), Weapon Focus (tail slam)
 **Skills** Bluff +18, Intimidate +29, Knowledge (arcana) +19, Knowledge (planes) +19, Knowledge (religion) +19, Perception +15, Sense Motive +10, Spellcraft +19, Stealth +8
 **Languages** Aklo, Undercommon

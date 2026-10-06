@@ -30,21 +30,21 @@ Players can select other types of dragons to form pacts with at the GM’s discr
 - **Form of the Dragon:** A form aspect dragon pact kineticist gains the kinetic fist form infusion as well as the following utility wild talent:
 
 > **Draconic Form**
-> **Element(s)**universal;**Type**utility (Su);**Level**1;**Burn** —
+> **Element(s)** universal; **Type** utility (Su); **Level** 1; **Burn** —
 >
 > Your features shift into those of a mighty dragon. You gain a bite attack that deals 1d6 damage. While your skin of the dragon is active, you also gain a pair of claw attacks that deal 1d6 damage. While making an attack with only your natural weapons, reduce the burn cost of the kinetic fist form infusion by 1.
 
 Both aspects of the dragon add the following form infusions to their list of available wild talents:
 
 > **Draconic Breath (Cone)**
-> **Element(s)**universal;**Type**form infusion;**Level**1;**Burn** 1
+> **Element(s)** universal; **Type** form infusion; **Level** 1; **Burn** 1
 > **Associated Blasts** any
 > **Saving Throw** Reflex half
 >
 > Your kinetic blast erupts from your mouth in a 15 foot cone, damaging all creatures inside of it. This infusion deals half your normal amount of blast damage (or full damage for energy blast). The saving throw DC is dexterity-based.
 
 > **Draconic Breath (Line)**
-> **Element(s)**universal;**Type**form infusion;**Level**1;**Burn** 1
+> **Element(s)** universal; **Type** form infusion; **Level** 1; **Burn** 1
 > **Associated Blasts** any
 > **Saving Throw** Reflex half
 >
@@ -57,7 +57,7 @@ This ability alters kinetic blast and replaces the 1st-level infusion.
 **Draconic Defense (Su):** At 2nd level, a dragon pact kineticist gains the following defensive wild talent:
 
 > **Skin of the Dragon**
-> **Element(s)**universal;**Type**defensive (Su);**Level**—;**Burn** 0
+> **Element(s)** universal; **Type** defensive (Su); **Level** —; **Burn** 0
 >
 > Your skin is as thick and resistant as a dragon’s hide. You gain resist 1 to your draconic pact element and a +1 enchancement bonus to your natural armor. This resistance increases by 1 for every 2 kineticist levels you possess past 2nd. By accepting 1 point of burn, you can increase this enchantment bonus by 1. For every 3 levels beyond 2nd, you can accept 1 additional point of burn to further increase this enchantment bonus by 1 (to a maximum of +7 at 20th level). Whenever you accept burn using a wild talent, your scales grow far more resistant, granting you immunity to your resisted element for 1 round. You can dismiss or restore this effect as an immediate action.
 
@@ -68,25 +68,25 @@ This ability replaces elemental defense.
 - **Breath of the Dragon:** A dragon pact kineticist can increase the burn cost of draconic breath (cone) or draconic breath (line) form infusions by 2 to increase their area of effect by either 15 feet for draconic breath (cone) or 30 feet for draconic breath (line). They also gain the following composite blast (if the dragon pact kineticist does not have a physical blast, they gain this composite blast if they later gain one):
 
 > **Brutal Breath**
-> **Element(s)**universal;**Type**composite blast (Sp);**Level**—;**Burn** 2
+> **Element(s)** universal; **Type** composite blast (Sp); **Level** —; **Burn** 2
 > **Prerequisite(s)** any physical blast, any draconic breath form infusion
-> **Blast Type**physical;**Damage** special (see text)
+> **Blast Type** physical; **Damage** special (see text)
 >
 > You can channel the power of your breath, even with a physical blast. Your physical blasts do full damage instead of half when using either draconic breath (cone) or draconic breath (line). At 15th level you can apply this to a composite blast by increasing the burn cost of the blast by 1.
 
 - **Form of the Dragon:** At 7th level, a pact bond kineticist gains the following utility wild talent:
 
 > **Tail of the Dragon**
-> **Element(s)**universal;**Type**utility (Sp);**Level**3;**Burn** 0
+> **Element(s)** universal; **Type** utility (Sp); **Level** 3; **Burn** 0
 >
 > While your skin of the dragon is active, you grow a tail that can be used to make a secondary tail slap that deals 1d6 damage. You can accept 1 point of burn to instead have your tail slap be treated as primary, as well as being able to be used as a prehensile tail.
 
 Both aspects of the dragon pact kineticist gain the following composite blast:
 
 > **Draconic Fusion**
-> **Element(s)**universal;**Type**composite blast (Sp);**Level**—;**Burn** 2
+> **Element(s)** universal; **Type** composite blast (Sp); **Level** —; **Burn** 2
 > **Prerequisite(s)** any simple blast, draconic aspect II
-> **Blast Type**special;**Damage** special (see text)
+> **Blast Type** special; **Damage** special (see text)
 >
 > You can draw from the power granted to you, dealing both the damage type of your simple blast and the energy type of your draconic pact. If your simple blast is physical, this is a physical blast; if it is energy, this is an energy blast.
 
@@ -95,7 +95,7 @@ This ability replaces the 7th-level expanded element.
 **Draconic Flight (Su):** At 8th level, a dragon pact kineticist gains the following utility wild talent:
 
 > **Wings of the Dragon**
-> **Element(s)**universal;**Type**utility (Su);**Level**4;**Burn** —
+> **Element(s)** universal; **Type** utility (Su); **Level** 4; **Burn** —
 >
 > You grow a set of majestic wings, granting you a flight speed of 60 with good maneuverability.
 

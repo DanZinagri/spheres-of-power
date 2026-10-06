@@ -11,12 +11,12 @@ The common ghoran is looked upon as a beauty of nature who provide food to those
 XP 200
 Wyrgrove Ghoran yamabushi (unchained monk) 1
 LN Medium plant
-**Init**+2;**Senses**low-light vision;**Perception** +7
+**Init** +2; **Senses** low-light vision; **Perception** +7
 
 **Defense**
-**AC**16,**touch**15,**flat-footed** 14 (+2 Dex, +1 natural, +3 Wis)
+**AC** 16, **touch** 15, **flat-footed** 14 (+2 Dex, +1 natural, +3 Wis)
 **hp** 13 (1d10+3)
-**Fort**+5,**Ref**+4,**Will** +3
+**Fort** +5, **Ref** +4, **Will** +3
 **Weakness** delicious, light dependency
 
 **Offense**
@@ -25,8 +25,8 @@ LN Medium plant
 flurry of blows +3/+3 (1d6+2/x2)
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +4
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +4
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 4
 
 **Alteration Sphere**
@@ -39,8 +39,8 @@ flurry of blows +3/+3 (1d6+2/x2)
 **Nature’s Carapace** (Barkskin, +1 natural armor, +1 Stealth in nature, 1 min, 1 sp)
 
 **Statistics**
-**Str**14,**Dex**14,**Con**16,**Int**5,**Wis**16,**Cha** 9
-**Base Atk**+1;**CMB**+3;**CMD** +18
+**Str** 14, **Dex** 14, **Con** 16, **Int** 5, **Wis** 16, **Cha** 9
+**Base Atk** +1; **CMB** +3; **CMD** +18
 **Feats** Extra Magic Talent
 **Skills** Intimidate +3
 **Languages** Common, Treant

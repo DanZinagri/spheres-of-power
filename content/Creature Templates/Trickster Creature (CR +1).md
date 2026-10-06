@@ -34,7 +34,7 @@ Also the trickster creature can render itself ethereal as an immediate action gr
 
 **Warp Weapon (Sp):** 3/day as a standard action a trickster creature can polymorph any non-cold iron weapon (as polymorph any object, CL equal to CR) into a harmless, humorous object Fort negates (DC 10 +1/2 the trickster creature’s HD + its Charisma Modifier). Favorites include a scary-looking rubber snake, a teddy bear, a spoon, a petunia, a carrot, a wet noodle, cow manure, or a rune stone with the rune for peace. If the Trickster’s CR is less than 15 this effect only lasts for one round per HD.
 
-**Abilities:** Increase from the base creature as follows:**Int**+4 (minimum 13, see skills),**Cha** +8 (minimum 13, +4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to the DC of Fascinating Gaze, Faraway Sway, Hide from the World, Warp Weapon, and any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Int** +4 (minimum 13, see skills), **Cha** +8 (minimum 13, +4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to the DC of Fascinating Gaze, Faraway Sway, Hide from the World, Warp Weapon, and any of the base creature’s Charisma-based DCs).
 
 **Feats:** Reselect any feats as appropriate.
 

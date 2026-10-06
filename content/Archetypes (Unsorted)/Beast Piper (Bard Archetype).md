@@ -11,11 +11,11 @@ With gentle and hypnotic melodies, the beast piper gathers the animals both smal
 
 This archetype requires [[Champion Bard (Bard Archetype)|champion bard]] (Expanded Options 2).
 
-### Bard’s Training
+## Bard’s Training
 
 A beast piper uses their casting ability modifier in place of their Charisma modifier for any bard class features (including bardic performance).
 
-### Pets, Beasts, and Companions (Ex)
+## Pets, Beasts, and Companions (Ex)
 
 At 1st level, the beast piper gains the [[Beastmastery]] sphere as a bonus talent and must choose the (handle animal) package. If he already possesses the Beastmastery sphere, but not the (handle animal) package, he gains Extra Beastmastery Package and must choose the (handle animal) package. The beast piper cannot select a drawback which removes the (handle animal) package or tame ability, and if he possesses a drawback which removes the (handle animal) package or tame ability, he must buy back that drawback with the bonus talent granted by this class feature.
 
@@ -23,13 +23,13 @@ At 3rd level and every 2 levels thereafter, the beast piper gains a Beastmastery
 
 This replaces bardic knowledge.
 
-### Undeterred Loyalty (Ex)
+## Undeterred Loyalty (Ex)
 
 At 2nd level, the beast piper and his animal allies become more resistant to outside influences. The beast piper and his animal allies gain a +2 bonus on saving throws made against mind-affecting effects; this bonus increases to +4 against effects which would compel the beast piper’s animal allies to act against the beast piper (such as an opposed Beastmastery sphere tame ability or the dominate animal spell).
 
 This replaces well-versed.
 
-### Wildsong Troubadour
+## Wildsong Troubadour
 
 At 2nd level, the beast piper may use his bonus in any Perform skill in place of his bonus in Handle Animal or Ride, as though he chose a versatile performance with Handle Animal and Ride as associated skills.
 
@@ -37,7 +37,7 @@ If the beast piper later gains a versatile performance with Handle Animal or Rid
 
 This replaces versatile performance; the beast piper is still treated as possessing the versatile performance class feature for the purposes of prerequisites and other abilities, but does not gain new versatile performance options.
 
-### Wildfriend Symphony (Su)
+## Wildfriend Symphony (Su)
 
 At 3rd level, the beast piper gains the wildfriend pastorale bardic masterpiece, even if the beast piper does not meet the prerequisites for this bardic masterpiece.
 
@@ -47,7 +47,7 @@ At 12th level, the beast piper may change the wildfriend pastorale bardic master
 
 At 17th level, the beast piper may use the wildfriend pastorale bardic masterpiece to call for magical beasts, even if he could not tame a magical beast.
 
-### Lead With A Tune (Su)
+## Lead With A Tune (Su)
 
 At 5th level, any creature the beast piper could tame with his Beastmastery sphere tame ability suffers a -1 penalty on saving throws made against the beast piper’s bardic performances or bardic masterpieces. This penalty increases by -1 at 10th level and every 5 levels thereafter.
 

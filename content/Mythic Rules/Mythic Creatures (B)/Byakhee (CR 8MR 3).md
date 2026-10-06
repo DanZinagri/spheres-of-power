@@ -12,14 +12,14 @@ Its wings rhythmically flapping, a hideous thing rears before you, its disjointe
 **Greater Byakhee (CR 8/MR 3)**
 XP 4,800
 CE Medium monstrous humanoid (mythic, mythos)
-**Init**+3;**Senses** darkvision 60 ft.; Perception +14
+**Init** +3; **Senses** darkvision 60 ft.; Perception +14
 
 #### Defense
 
-**AC**23,**touch**14,**flat-footed** 19 (+3 Dex, +1 dodge, +9 natural)
+**AC** 23, **touch** 14, **flat-footed** 19 (+3 Dex, +1 dodge, +9 natural)
 **hp** 105 (10d10+50)
-**Fort**+5,**Ref**+10,**Will** +9
-**Defensive Abilities**DR 5/epic;**Immune**disease, poison;**Resist** acid 20, cold 20
+**Fort** +5, **Ref** +10, **Will** +9
+**Defensive Abilities** DR 5/epic; **Immune** disease, poison; **Resist** acid 20, cold 20
 **Weaknesses** mythos minion
 
 #### Offense
@@ -30,8 +30,8 @@ CE Medium monstrous humanoid (mythic, mythos)
 
 #### Statistics
 
-**Str**19,**Dex**16,**Con**15,**Int**7,**Wis**14,**Cha** 10
-**Base Atk**+10;**CMB**+14;**CMD** 28
+**Str** 19, **Dex** 16, **Con** 15, **Int** 7, **Wis** 14, **Cha** 10
+**Base Atk** +10; **CMB** +14; **CMD** 28
 **Feats** Death from AboveMF, DodgeMF, Flyby Attack, Mobility, Wind Stance
 **Skills** Fly +14, Perception +14, Swim +10
 **Languages** Aklo
@@ -53,7 +53,7 @@ CE Medium monstrous humanoid (mythic, mythos)
 
 **Mythos Minion (Su)** Byakhee are called to serve many who follow the cults of the mythos, taking a -4 penalty on saving throws to avoid mind-affecting effects created by creatures or spells with the mythos descriptor, or by divine spellcasters that serve any of the Great Old Ones, including those described in Pathfinder Roleplaying Game Bestiary 4.
 
-**Poison (Ex)**Sting;**save**Fort DC 17;**frequency**1/round for 6 rounds;**effect**1d2 Wis;**cure** 1 save.
+**Poison (Ex)** Sting; **save** Fort DC 17; **frequency** 1/round for 6 rounds; **effect** 1d2 Wis; **cure** 1 save.
 
 **Starflight (Su)** Byakhee can survive in the void of outer space. It flies through space at an incredible speed. Although exact travel times vary, a trip within a single solar system should take 3d20 hours, while a trip beyond should take 3d20 days (or more, at the GM’s discretion)—provided the byakhee knows the way to its destination.
 

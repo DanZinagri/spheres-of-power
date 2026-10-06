@@ -13,21 +13,21 @@ This powerful humanoid floats in the air on a nimbus of pearly light. He grips a
 XP 204,800
 Pathfinder Roleplaying Game Bestiary 2
 LG Large outsider (archon, extraplanar, good, lawful, mythic)
-**Init**+17/–3MF, dual initiativeMA;**Senses** darkvision 60 ft., detect evil, low-light vision, true seeing; Perception +31
+**Init** +17/–3MF, dual initiativeMA; **Senses** darkvision 60 ft., detect evil, low-light vision, true seeing; Perception +31
 **Aura** aura of courage, aura of menace (DC 27), magic circle against evil
 
 #### Defense
 
-**AC**52,**touch**14,**flat-footed** 47 (+12 armor, +3 Dex, +2 dodge, +21 natural, +5 shield, –1 size; +2 deflection vs. evil)
+**AC** 52, **touch** 14, **flat-footed** 47 (+12 armor, +3 Dex, +2 dodge, +21 natural, +5 shield, –1 size; +2 deflection vs. evil)
 **hp** 403 (19d10+299); regeneration 10 (evil weapons and effects)
-**Fort**+22,**Ref**+17,**Will** +18; +4 vs. poison, second saveMA
-**Defensive Abilities**explosive rebirth; DR 10/epic and evil;**Immune**electricity, fire, charm, compulsion, fear, petrification;**SR** 39
+**Fort** +22, **Ref** +17, **Will** +18; +4 vs. poison, second saveMA
+**Defensive Abilities** explosive rebirth; DR 10/epic and evil; **Immune** electricity, fire, charm, compulsion, fear, petrification; **SR** 39
 
 #### Offense
 
-**Speed**40 ft.,**fly** 120 ft. (good)
+**Speed** 40 ft., **fly** 120 ft. (good)
 **Melee** +5 holy starknife +29/+24/+19/+14 (1d6+12/×3)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** comet knifeMA, heavenly hierophantMMA, heavenly tacticianMA, mythic power (9/day, surge +1d10), nova flameMA, orbiting starbladeMA, smite evil 1/day (+6 attack and AC, +19 damage), star streakMA
 
 **Spell-Like Abilities** (CL 19th; concentration +25)
@@ -46,12 +46,12 @@ At will─aid, continual flame, greater teleport (self plus 50 lbs. of objects o
 2nd─cure moderate wounds (4), eagle’s splendor, spiritual weaponD, status
 1st─cure light wounds (2), divine favor, entropic shield, faerie fireD, remove fear, sanctuary (DC 21), shield of faithMS
 0 (at will)─guidance, resistance, stabilize, virtue
-**D**Domain spell; Domains Light, Tactics;**MS** Mythic spell
+**D** Domain spell; Domains Light, Tactics; **MS** Mythic spell
 
 #### Statistics
 
-**Str**24,**Dex**19,**Con**33,**Int**20,**Wis**30,**Cha** 23
-**Base Atk**+19;**CMB**+27;**CMD** 42
+**Str** 24, **Dex** 19, **Con** 33, **Int** 20, **Wis** 30, **Cha** 23
+**Base Atk** +19; **CMB** +27; **CMD** 42
 **Feats** Cleave, Combat ReflexesMF, DodgeMF, Improved InitiativeMF, Intercept ChargeB, Iron Will, Lightning Reflexes, Mobility, Mythic Spell LoreMF, Power AttackMF, Shake It OffB, Stand Still, Wind Stance
 **Skills** Diplomacy +28, Fly +25, Heal +18, Intimidate +28, Knowledge (arcana, engineering) +14, Knowledge (history, nature) +18, Knowledge (religion) +24, Perception +32, Sense Motive +32, Spellcraft +24, Stealth +19, Survival +20
 **Languages** Celestial, Draconic, Infernal; truespeech

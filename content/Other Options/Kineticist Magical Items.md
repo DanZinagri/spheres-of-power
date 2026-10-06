@@ -14,8 +14,8 @@ The following are new magical items that are useful for Kineticists.
 
 #### Blaster’s Bearing
 
-**Aura**moderate evocation;**CL** 8th
-**Slot**none;**Price**940 gp;**Weight** —
+**Aura** moderate evocation; **CL** 8th
+**Slot** none; **Price** 940 gp; **Weight** —
 
 **Description**
 To the untrained eye this small, rough steel ball appears to be a normal +1 sling bullet, but tiny holes dotting its surface lead to a conductive crystal core that can hold elemental force indefinitely. A kineticist can infuse a blaster’s bearing with a simple energy kinetic blast and any one substance infusion up to 3rd level they know as an action that takes 1 minute. When fired with a ranged weapon, the bullet bursts and unleashes the infused blast, dealing an additional 1d6 damage per 3 damage dice of the blast infused into the bullet (minimum 1d6), using the blast’s damage type. This is reduced to d4s if the damage is force, sonic, or untyped. The DC of the substance infusion is treated as though the infusing kineticist had used it, and can only affect the target. Blaster’s bearings are highly volatile when infused; while they will not react with other sling bullets, if two of them are infused with blasts and directly touch one another, both will violently react, destroying both bullets in a burst of energy and dealing 2d6 nonlethal damage to any creatures in the square where they touched.
@@ -31,7 +31,7 @@ Craft Magic Arms and Armor, kinetic fist, kinetic blast and supercharge class fe
 
 #### Burn Resistance (Armor Quality)
 
-**Aura**moderate transmutation;**CL**7th;**Weight** —
+**Aura** moderate transmutation; **CL** 7th; **Weight** —
 **Price** +10,000 gp
 
 **Description**
@@ -42,7 +42,7 @@ Craft Magic Arms and Armor, creator must be a 7th level kineticist, burn resista
 
 #### Energizing (Armor Property)
 
-**Aura**moderate abjuration;**CL**7th;**Weight** —
+**Aura** moderate abjuration; **CL** 7th; **Weight** —
 **Price** +10,000 gp
 
 **Description**
@@ -57,8 +57,8 @@ Craft Magic Arms and Armor, internal buffer class feature; **Cost** 5,000 gp
 
 #### Pressuring
 
-**Aura**moderate necromancy;**CL** 6th
-**Slot**shield quality;**Price**normal (+1 bonus), improved (+2 bonus), greater (+3 bonus);**Weight** —
+**Aura** moderate necromancy; **CL** 6th
+**Slot** shield quality; **Price** normal (+1 bonus), improved (+2 bonus), greater (+3 bonus); **Weight** —
 
 **Description**
 A pressuring shield drains the energies fueling a creature’s mystical abilities. If the user is hit by a hostile extraordinary, spell-like, or supernatural ability which consumes a resource (such as ki, grit, rounds of rage, or burn) or has a certain number of uses per day (such as Stunning Fist or the alchemist’s bomb class feature), the attacker is forced to spend or accept 1 additional point of that resource or 1 additional use per day of that ability unless they succeed a Will save (DC = 10 + shield’s enhancement bonus). The DC of this check is increased by 5 for an improved pressuring shield, and by 10 for a greater pressuring shield. If this would reduce a resource or the uses per day of an ability below 0, it instead reduces it to 0. This functions even if an ability’s resource cost is 0 so long as the cost is defined, and the increase in cost from the pressuring quality occurs after adjustments from abilities which reduce a hostile ability’s cost. It does not, however, affect spells.
@@ -72,8 +72,8 @@ Craft Magic Arms and Armor, ki leech; **Cost** +1 to +3
 
 #### Body Wraps of Kinetic Fist
 
-**Aura**moderate transmutation;**CL** 6th
-**Slot**body;**Price**4,000 gp (normal), 6,000 gp (layering);**Weight** 4 lbs
+**Aura** moderate transmutation; **CL** 6th
+**Slot** body; **Price** 4,000 gp (normal), 6,000 gp (layering); **Weight** 4 lbs
 
 **Description**
 These long translucent wraps seem to contour to the wearer’s body, clinging to the form of their wearer. If the wearer of this robe possesses the kinetic fist form infusion, the burn cost for that wild talent is reduced by 1. A layering body wraps of kinetic fist can be worn over another body slot item and still provide its effect.
@@ -83,8 +83,8 @@ Craft Wondrous Item, creator must be a 6th level kineticist, kinetic fist; **Cos
 
 #### Robe of Elemental Resistance
 
-**Aura**strong transmutation;**CL** 15th
-**Slot**body;**Price**1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6);**Weight** 6 lbs
+**Aura** strong transmutation; **CL** 15th
+**Slot** body; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6); **Weight** 6 lbs
 
 **Description**
 Appearing to be a plain white robe at first, when worn by someone with kinetic powers, it fills with elemental runes matching that of its bearer. When worn by a creature who possesses the elemental overflow class feature, they gain a resistance bonus to all of their saving throws equal to the bonus to attack rolls they gain from that class feature while it is active. This bonus is limited by the strength of the robe, and versions exist that allow greater resistance bonuses to saving throws.
@@ -94,8 +94,8 @@ Craft Wondrous Item, creator must be a kineticist of a level at least three time
 
 #### Wraps of Suppressed Size
 
-**Aura**strong transmutation;**CL** 12th
-**Slot**body;**Cost**32,000 gp (regular), 76,000 gp (surging);**Weight** 1 lb.
+**Aura** strong transmutation; **CL** 12th
+**Slot** body; **Cost** 32,000 gp (regular), 76,000 gp (surging); **Weight** 1 lb.
 
 **Description**
 This length of fabric is wrapped around the wearer’s abdomen or chest. On most wearers it appears as a simple roll of gauze, but when a creature wearing it can access elemental powers, it appears as a white satin ribbon edged in a bluish silver. While the wearer is under the effects of the kinetic form wild talent, they gain all of its benefits as normal from changing size to Large, but take up the same space as they ordinarily would, and are treated as if their size has not been changed for the purpose of other effects that alter size, such as the enlarge person spell. This only affects a creature using kinetic form if it’s used to increase size to Large. A surging wraps of suppressed size provides the same benefits, but also provides its benefits to a creature that has used kinetic form to increase its size to Huge. For the purpose of determining the effects on a creature due to change in size, effects that would alter its size stack (for example, a Medium creature wearing wraps of suppressed size and affected by both kinetic form and enlarge person would become a Large creature and have its ability scores adjusted as such, but would be considered a Huge creature to determine reach, penalty to AC and attack rolls, effective weapon size and damage, and so on).
@@ -109,8 +109,8 @@ Craft Wondrous Item, kinetic form, kineticist level 12th (16th for surging); Cos
 
 #### Robe of Burn Conversion
 
-**Aura**strong transmutation;**CL** 15th
-**Slot**chest;**Price**30,000 gp;**Weight** 10 lbs.
+**Aura** strong transmutation; **CL** 15th
+**Slot** chest; **Price** 30,000 gp; **Weight** 10 lbs.
 
 **Description**
 This nondescript white robe hangs low on the wearer, appearing ordinary and a bit plain. The garment only shows its true nature upon the wearer accepting burn, flashing a deep vibrant red before fading back into its plain white hue. If the wearer accepts burn, they are instantly granted temporary hit points equal to ½ the amount of damage they suffered from accepting burn (minimum 1). Temporary hit points from this item stack with those gained from itself and wild talents and last for 24 hours or until lost, whichever comes first.
@@ -120,8 +120,8 @@ Craft Wondrous Item, crafter must be a 15th level kineticist, force ward; **Pric
 
 #### Vest of Elemental Defense
 
-**Aura**strong transmutation;**CL** 15th
-**Slot**chest;**Price**2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), 50,000 gp (+5), 72,000 gp (+6);**Weight** 4 lbs
+**Aura** strong transmutation; **CL** 15th
+**Slot** chest; **Price** 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), 50,000 gp (+5), 72,000 gp (+6); **Weight** 4 lbs
 
 **Description**
 This ornate vest is littered with elemental runes across the front of it, the back portraying a myriad of symbols relating to each element. When worn by a creature who possesses the elemental overflow class feature, they gain a deflection bonus to their Armor Class equal to the bonus to attack rolls they gain from that class feature while it is active. This bonus is limited by the strength of the vest.
@@ -135,8 +135,8 @@ Craft Wondrous Item, creator must be a kineticist of a level at least three time
 
 #### Conduit Glove
 
-**Aura**moderate transmutation;**CL** 6th
-**Slot**hands;**Price**1,000 gp;**Weight** —
+**Aura** moderate transmutation; **CL** 6th
+**Slot** hands; **Price** 1,000 gp; **Weight** —
 
 **Description**
 This plain black fingerless glove has a white line along the bottom of it that seems to glow with energy when used. A creature who wears a conduit glove considers their gloved hand free while using the gather power class feature, even while holding something in that hand.
@@ -148,8 +148,8 @@ Craft Wondrous Item, creator must be a 6th level kineticist; **Cost** 500 gp
 
 #### Focusing Glove
 
-**Aura**moderate transmutation;**CL** 5th
-**Slot**hands;**Price**4,000 gp (+1), 16,000 gp (+2);**Weight** —
+**Aura** moderate transmutation; **CL** 5th
+**Slot** hands; **Price** 4,000 gp (+1), 16,000 gp (+2); **Weight** —
 
 **Description**
 This light white glove seems to shine in a prism whenever used, flashing brilliantly in a rainbow of colors before dulling once again. A focusing glove is made with a special ability (such as distance or frost) that may be applied to the user’s kinetic blast as though it was a weapon. Using a focusing glove requires the wearer to increase the total burn cost of their blast by an amount equal to the bonus of the special ability being applied to the blast. Any additional damage the special ability would do is the same as the type done by the kinetic blast unless the special ability specifies a damage type. A focusing glove may only have one special ability from the following list:
@@ -166,8 +166,8 @@ Craft Wondrous Item, creator must be an 8th level kineticist; **Cost** 2,000 gp 
 
 #### Kinetic Blademaster Glove
 
-**Aura**moderate transmutation;**CL** 6th
-**Slot**hands;**Price**4,000 gp (normal), 10,000 gp (enduring), 10,000 gp (focused);**Weight** —
+**Aura** moderate transmutation; **CL** 6th
+**Slot** hands; **Price** 4,000 gp (normal), 10,000 gp (enduring), 10,000 gp (focused); **Weight** —
 
 **Description**
 This well-worn grey fingerless glove appears unassuming at first, glowing with power in the hand of a kineticist. If the wearer possesses the kinetic blade form infusion, the burn cost for that wild talent is reduced by 1. Some kinetic blademaster gloves are imbued with the power of a focusing glove as well, possessing 1 of the +1 special abilities listed for that item (except for distance, seeking, sniping, or veering). A focused kinetic blademaster glove follows all the normal rules of using that special ability as stated in the focusing glove description.
@@ -184,8 +184,8 @@ Craft Wondrous Item, creator must be a 6th level kineticist; **Cost** 2,000 gp (
 
 #### Crown of Focused Power
 
-**Aura**moderate transmutation;**CL** 9th
-**Slot**head;**Price**7,000 gp (normal), 20,000 gp (greater);**Weight** 3 lbs
+**Aura** moderate transmutation; **CL** 9th
+**Slot** head; **Price** 7,000 gp (normal), 20,000 gp (greater); **Weight** 3 lbs
 
 **Description**
 This ornate silver crown seems to have a streak of gold that runs through the length of it, and a four pointed gem adorning the front of it that glows when charged. When its wearer uses the gather power class feature, they can choose to store that power inside of the crown of focused power for up to 24 hours. While the crown is charged, the kineticist increases the bonus to attack from elemental overflow by 2, although they cannot use their gather power class feature. As a free action while making an attack with their kinetic blast, the wearer can discharge the crown’s power, reducing the total burn cost of their blast by 1.
@@ -200,8 +200,8 @@ Craft Wondrous Item, creator must be a 9th level kineticist; **Cost** 3,500 gp (
 
 #### Ring of Condensing Explosions
 
-**Aura**strong conjuration;**CL** 10th
-**Slot**ring;**Price**8,500 gp (normal), 13,000 gp (alchemical), 13,000 gp (kinetic);**Weight** —
+**Aura** strong conjuration; **CL** 10th
+**Slot** ring; **Price** 8,500 gp (normal), 13,000 gp (alchemical), 13,000 gp (kinetic); **Weight** —
 
 **Description**
 Those who wear this ring can use a weak telekinetic force to draw the fragments of a splash weapon back toward their point of origin. While wearing it, you can apply the effects of the Concentrated Splash feat to all splash weapons (including alchemists’ bombs) 3 times per day, but no more often than once every 2 hours. There are two forms of the ring of condensing explosions: the alchemical and kinetic.
@@ -213,8 +213,8 @@ Forge Ring, Concentrated Splash, bomb class feature or kinetic bomb infusion, te
 
 #### Ring of Elemental Strength
 
-**Aura**moderate transmutation;**CL** 10th
-**Slot**ring;**Price**5,000 gp (simple), 10,000 gp (composite);**Weight** —
+**Aura** moderate transmutation; **CL** 10th
+**Slot** ring; **Price** 5,000 gp (simple), 10,000 gp (composite); **Weight** —
 
 **Description**
 This simple pale stone sits atop a plain steel band, flickering every so often with unknown power. When worn by a creature who possesses a kinetic blast, add 1 damage to each damage die their simple blast deals. Stronger versions can also augment a creature’s composite blast as well as their simple blast.
@@ -228,8 +228,8 @@ Forge Ring, creator must be a 10th level kineticist; **Cost** 2,500 gp (simple),
 
 #### Bracers of Elemental Conversion
 
-**Aura**moderate transmutation;**CL** 10th
-**Slot**wrists;**Price**12,000 gp;**Weight** 2 lbs
+**Aura** moderate transmutation; **CL** 10th
+**Slot** wrists; **Price** 12,000 gp; **Weight** 2 lbs
 
 **Description**
 These bracers appear to be tarnished silver until activated, each one glowing a different color once activated mirroring the converted elements. If the wearer has both the burn and kinetic blast class feature, they can accept 1 point of burn to convert any simple energy blast they possess into another energy type (acid, cold, electric, fire, negative, or sonic) for 10 minutes, although the damage of their blast is reduced by 1 step (2 steps if they choose sonic). While converted, the wearer cannot apply non-universal substance infusions to their blast. The wearer can still use any composite blast they possess, although the damage from it will match their new energy type (if the wearer possessed the fire blast and converted it into cold energy, their magma blast would deal half cold, half bludgeoning). The wearer can suppress this effect as a free action, although time that the bracers are suppressed still counts against their duration.
@@ -239,8 +239,8 @@ Craft Wondrous Item, creator must be a 10th level kineticist, any simple energy 
 
 #### Vambraces of Overflowing Power
 
-**Aura**moderate abjuration;**CL** 6th
-**Slot**wrists;**Price**1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6);**Weight** 2 lbs.
+**Aura** moderate abjuration; **CL** 6th
+**Slot** wrists; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6); **Weight** 2 lbs.
 
 **Description**
 These bracers are made of a highly flexible metallic substance, covering the wearer’s forearms and the tops of their hands. Glass globes line the length of them, the one over the hand being the largest, and decreasing in size up to where the vambraces end at the elbows. If the wearer is under the effects of the elemental overflow, overwhelming power, or cerebral overflow class feature, rather than visually displaying their abilities as they normally would (such as an aerokineticist having wind and lightning around them, or water weeping from a hydrokineticist’s pores), the glass globes brightly glow with a color or range of colors associated with the kineticist’s elemental powers. This glow sheds light as a torch, and the effect may be suppressed in the same manner as elemental overflow could be. In addition, the wearer may apply their bonus to damage rolls granted by elemental overflow, overwhelming power, or cerebral overflow to attacks made with blasts modified by kinetic blade, kinetic fist, kinetic whip, devastating infusion, and to any other blast that would normally be denied this bonus. The amount of bonus that can be applied is limited by the strength of the vambraces.
@@ -254,8 +254,8 @@ Craft Wondrous Item, creator must have either elemental overflow, overwhelming p
 
 #### Burn Fragment
 
-**Aura**faint conjuration;**CL** 1st
-**Slot**none;**Price**500 gp (basic), 2,000 gp (standard), 5,000 gp (grand);**Weight** 1 lb.
+**Aura** faint conjuration; **CL** 1st
+**Slot** none; **Price** 500 gp (basic), 2,000 gp (standard), 5,000 gp (grand); **Weight** 1 lb.
 
 **Description**
 This small stone lacks any identifying feature except for a pale glow inside of it, feeling warm to the touch. When held, it allows the holder to reduce the burn cost of a wild talent of 3rd level or lower by 1, to a minimum of 0. After it is used, the burn fragment is instantly destroyed. A standard burn fragment can be used with a wild talent of 6th level or lower, while a greater burn fragment can be used with a wild talent of 9th level or lower.
@@ -265,8 +265,8 @@ Craft Wondrous Item, crafter must be a 1st level kineticist; **Price** 250 gp (b
 
 #### Burn Shard
 
-**Aura**moderate transmutation;**CL** 8th
-**Slot**none;**Price**8,000 gp (lesser), 32,000 gp (greater);**Weight** —
+**Aura** moderate transmutation; **CL** 8th
+**Slot** none; **Price** 8,000 gp (lesser), 32,000 gp (greater); **Weight** —
 
 **Description**
 This small sliver of crystal is completely translucent, although when attuned it flickers with a weak glow. A creature must attune themselves to a burn shard over 24 hours to use it. After a burn shard has been attuned, once per day it can accept 1 point of burn in place of its owner. A greater burn shard can instead accept 2 points of burn per day.
@@ -277,8 +277,8 @@ Craft Wondrous Item, creator must be an 8th level kineticist; **Cost** 4,000 gp 
 
 #### Crystal of Elemental Knowledge
 
-**Aura**strong transmutation;**CL** 15th
-**Slot**none;**Price**1,000 gp (1st), 4,000 gp (2nd), 9,000 gp (3rd), 16,000 gp (4th), 25,000 gp (5th), 36,000 gp (6th), 49,000 gp (7th), 64,000 gp (8th), 81,000 gp (9th);**Weight** —
+**Aura** strong transmutation; **CL** 15th
+**Slot** none; **Price** 1,000 gp (1st), 4,000 gp (2nd), 9,000 gp (3rd), 16,000 gp (4th), 25,000 gp (5th), 36,000 gp (6th), 49,000 gp (7th), 64,000 gp (8th), 81,000 gp (9th); **Weight** —
 
 **Description**
 This small crystal is the size of a child’s fist covered in eldritch runes, glowing in different shades depending on the element held within. Each crystal of elemental knowledge contains knowledge of one spell-like utility wild talent (such as wings of air or quenching infusion) which can be determined by examining the crystal for 1 minute with a successful DC 15 Spellcraft check. If a creature with the utility wild talent class feature spends 24 hours attuning themselves to a crystal, they can use the contained utility wild talent as long as they would normally be able to select it (this item will not let a 1st level pyrokineticist learn kinetic healer or eruption).
@@ -292,8 +292,8 @@ Craft Wondrous Item, creator must be a kineticist with the contained utility wil
 
 #### Disc of Rainbow Tears
 
-**Aura**strong evocation;**CL** 15th
-**Slot**none;**Price**18,400 gp;**Weight** 7 lbs.
+**Aura** strong evocation; **CL** 15th
+**Slot** none; **Price** 18,400 gp; **Weight** 7 lbs.
 
 **Description**
 Kineticists seldom utilize shields, as they tend to interfere with their ability to unleash their blasts, but this +2 impervious rebounding buckler is built to not only allow them to freely use their abilities, but enhance them. The shield has three slots on its inner surface designed to hold teardrop ioun stones (but cannot hold other ioun stones) and a port in the center through which a kineticist can fire their kinetic blast. They must take a full action to open this port, fire a blast through it, and close it once again, but doing so allows the blast to draw energy from the ioun stones set into it simultaneously, benefiting from all of the ones matching the blast’s elements. In addition, a portion of the shield bonus to AC from a disc of rainbow tears stacks with that provided by a wild talent, up to +1 per ioun stone set into the shield, so long as at least one of the ioun stones enhances the same element as that of the wild talent that provides their shield bonus.
@@ -303,8 +303,8 @@ Craft Magic Arms and Armor, kineticist of 15th level; **Cost** 9,200 gp
 
 #### Leviathan Cross
 
-**Aura**strong conjuration;**CL**12th;**Weight** 9 lbs.
-**Slot**none;**Cost** 12,335 gp
+**Aura** strong conjuration; **CL** 12th; **Weight** 9 lbs.
+**Slot** none; **Cost** 12,335 gp
 
 **Description**
 This +1 conductive light crossbow is designed with kinetic powers in mind. It is a solid steel blue weapon with thin conduits carved along the stock; these conduits glow brightly as a kineticist pours their kinetic power into it, usually in a color matching with the blast’s elements. If the weapon’s conductive property is used to deliver a kinetic blast, the bolt fired can twist and turn along its trajectory as if it was a kinetic blast affected by the snake infusion, except using the weapon’s range. This affects the crossbow bolt, not the blast, and the kineticist can still apply form infusions as normal.
@@ -314,8 +314,8 @@ Craft Magic Arms and Armor, snake infusion; **Cost** 6,335 gp
 
 #### Planar Gates Tattoo
 
-**Aura:** faint evocation;**CL**3rd;**Weight** —
-**Slot**none;**Cost** 1,300 gp
+**Aura:** faint evocation; **CL** 3rd; **Weight** —
+**Slot** none; **Cost** 1,300 gp
 
 **Description**
 Thin lines on the face cross vertically over the bearer’s eyes, branching out to surround them in intricate swirls. When a kineticist bears this tattoo, the ink glows faintly with their elemental power, and their eyes take on an unsettling shine which flares up to a brilliant light moments before unleashing a kinetic blast. The bearer of this tattoo can use an energy kinetic blast they know by firing their kinetic power through their eyes, allowing them to use them without free hands. Kinetic blasts fired this way are treated as rays for the purpose of effects which affect rays.
@@ -325,8 +325,8 @@ Inscribe Magical Tattoo, kinetic blast class feature; **Cost** 650 gp
 
 #### Teardrop Ioun Stone
 
-**Aura**strong evocation;**CL** 12th
-**Slot**none;**Cost**280 gp (cracked), 7500 gp (flawed), 10,400 gp (normal);**Weight** —
+**Aura** strong evocation; **CL** 12th
+**Slot** none; **Cost** 280 gp (cracked), 7500 gp (flawed), 10,400 gp (normal); **Weight** —
 
 **Description**
 This stone is capable of increasing the damage dealt by a kineticist’s kinetic blast wild talents, with the enhanced element depending upon the color as noted below. The normal variant treats the kineticist as two levels higher for the purpose of using kinetic blasts of the stone’s associated element, stacking with other effects that would increase effective kineticist levels for this purpose.
@@ -363,7 +363,7 @@ Craft Wondrous item, kinetic blast; **Cost** 140 gp (cracked), 3750 gp (flawed),
 
 #### Elemental Heart (Minor Artifact)
 
-**Slot**none;**Aura**overwhelming (conjuration);**CL**20th;**Weight** 2 lbs.
+**Slot** none; **Aura** overwhelming (conjuration); **CL** 20th; **Weight** 2 lbs.
 
 **Description**
 This pulsing heart seems to beat with all of the elements in sync, flaring up with different elements depending on its wielder. The bright core of the heart always seems to swirl with unearthly power, a weak heat emanating from the heart when held by someone in tune with the elements. When held by a kineticist, they gain a +2 to attack and damage rolls with their kinetic blast, a +3 to the DC of all wild talents, and no longer take damage from accepting burn, instead channeling it into the elemental heart. A hand holding an elemental heart is considered free for the purpose of gathering energy and other kineticist class abilities. Once the elemental heart has taken 300 damage in this way, it glows black and will not provide any benefit to that kineticist for 1 year.

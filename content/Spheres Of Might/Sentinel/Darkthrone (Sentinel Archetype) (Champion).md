@@ -41,7 +41,7 @@ Once created, the monument of night’s effective reach is treated as the darkth
 
 The darkthrone may leave the monument of night’s effective reach once it has been created (such as using the Swift Guardian talent to create the monument as a standard action then move to a new position near the monument to threaten normally and also continue to threaten the monument of night’s area).
 
-#### Monument of Night
+## Monument of Night
 
 The monument of night is created in a single square and does not move if the square would move (unless a sufficiently large vehicle or object, subject to GM discretion). The monument of night does not block line of sight or impede movement but may be modified by (zone) talents, granted (darkness) or (blot) options, and so on.
 

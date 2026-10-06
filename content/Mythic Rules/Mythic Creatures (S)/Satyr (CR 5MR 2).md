@@ -13,13 +13,13 @@ This handsome, grinning man has the furry legs of a goat and a set of curling ra
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 CN Medium fey (mythic)
-**Init**+2;**Senses** low-light vision; Perception +18
+**Init** +2; **Senses** low-light vision; Perception +18
 
 #### Defense
 
-**AC**20,**touch**13,**flat-footed** 17 (+2 Dex, +1 dodge, +7 natural)
+**AC** 20, **touch** 13, **flat-footed** 17 (+2 Dex, +1 dodge, +7 natural)
 **hp** 56 (8d6+28)
-**Fort**+4,**Ref**+8,**Will** +8
+**Fort** +4, **Ref** +8, **Will** +8
 **Defensive Abilities** DR 5/cold iron and epic
 
 #### Offense
@@ -35,10 +35,10 @@ At will—charm person (DC 16), dancing lights, delusional pride (DC 16), ghost 
 
 #### Statistics
 
-**Str**14,**Dex**15,**Con**15,**Int**12,**Wis**14,**Cha** 21
-**Base Atk**+4;**CMB**+6;**CMD** 19
+**Str** 14, **Dex** 15, **Con** 15, **Int** 12, **Wis** 14, **Cha** 21
+**Base Atk** +4; **CMB** +6; **CMD** 19
 **Feats** Ability Focus (pipes), Dodge, Extra Mythic PowerMF, Mobility, Skill Focus (Perception)
-**Skills**Bluff +16, Diplomacy +16, Disguise +10, Intimidate +10, Knowledge (nature) +10, Perception +18, Perform (wind instruments) +22, Stealth +17, Survival +7;**Racial Modifiers** +4 Perception, +4 Perform, +4 Stealth
+**Skills** Bluff +16, Diplomacy +16, Disguise +10, Intimidate +10, Knowledge (nature) +10, Perception +18, Perform (wind instruments) +22, Stealth +17, Survival +7; **Racial Modifiers** +4 Perception, +4 Perform, +4 Stealth
 **Languages** Common, Sylvan
 **SQ** eldritch archerMA, wanton lustMA
 

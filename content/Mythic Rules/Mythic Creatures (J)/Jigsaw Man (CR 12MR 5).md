@@ -12,15 +12,15 @@ This humanoid’s dismembered limbs and head float independently from its emacia
 **Jigsaw Man (CR 12/ MR 5)**
 XP 19,200
 NE Medium undead (mythic)
-**Init**+15MF;**Senses** darkvision 60 ft.; Perception +16
+**Init** +15MF; **Senses** darkvision 60 ft.; Perception +16
 **Aura** frightful presence (30 ft., DC 22, 5d6 rounds)
 
 #### Defense
 
-**AC**31,**touch**20,**flat-footed** 24 (+6 Dex, +1 dodge, +15 natural)
+**AC** 31, **touch** 20, **flat-footed** 24 (+6 Dex, +1 dodge, +15 natural)
 **hp** 182 (15d8+115)
-**Fort**+10,**Ref**+11,**Will** +12
-**Defensive Abilities**channel resistance +5, fortification (50%), quartered anatomyMA; DR 10/epic and magic;**Immune**undead traits;**SR** 23
+**Fort** +10, **Ref** +11, **Will** +12
+**Defensive Abilities** channel resistance +5, fortification (50%), quartered anatomyMA; DR 10/epic and magic; **Immune** undead traits; **SR** 23
 
 #### Offense
 
@@ -30,8 +30,8 @@ NE Medium undead (mythic)
 
 #### Statistics
 
-**Str**17,**Dex**23,**Con**−,**Int**11,**Wis**16,**Cha** 20
-**Base Atk**+11;**CMB**+14;**CMD** 30
+**Str** 17, **Dex** 23, **Con** −, **Int** 11, **Wis** 16, **Cha** 20
+**Base Atk** +11; **CMB** +14; **CMD** 30
 **Feats** Dodge, Improved Critical (jigsaw)MF, Improved InitiativeMF, Mobility, Skill Focus (Stealth), Stealthy, Step Up, Weapon FinesseMF, Weapon Focus (jigsaw)
 **Skills** Acrobatics +17, Escape Artist +21, Fly +19, Intimidate +23, Perception +16, Stealth +30
 **Languages** Common

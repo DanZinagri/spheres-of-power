@@ -93,7 +93,7 @@ This replaces mercy or cruelty.
 
 #### Cannibalize Magic (requires antimage 9) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Whenever the antimage’s spell resistance would successfully negate a spell originating from a hostile source, she heals a number of hit points equal to the caster level of the effect. This increases to 3 × the caster level of the effect if the originator of the effect is affected by her smite magic.
 
@@ -107,7 +107,7 @@ The antimage can use the Counterspell feat as a free action once per turn, as lo
 
 #### Diminishing Disruption (requires antimage 6) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Whenever the antimage would fail an MSB check made using the Counsterspell feat against a magical effect, as long as the attempt did not fail by 3 or more, the effect’s caster level is halved. This is still treated as a failed attempt for all other purposes.
 
@@ -127,7 +127,7 @@ At 11th level, the antimage can spend an additional point of nullmagic when usin
 
 #### Nullmagic Overflow [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Allies within 10 feet of the antimage gains a +1 competence bonus to their MSB and MSD—if the antimage has spent a point of nullmagic within the last round, this bonus increases to +2 until the start of the antimage’s next turn.
 

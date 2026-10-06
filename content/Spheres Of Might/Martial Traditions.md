@@ -316,7 +316,7 @@ Free runners treat the world as their gymnasium, practicing wild acrobatics, run
 **Bonus Talents:**
 
 - **Equipment:** none
-- **Athletics sphere**(run) package,**Expanded Training**(leap) and one other package,**Wall Stunt**
+- **Athletics sphere** (run) package, **Expanded Training** (leap) and one other package, **Wall Stunt**
 - **Variable:** Free runners gain a talent of their choice from the Athletics sphere.
 
 ### Gearhead [Inv. HB]
@@ -585,7 +585,7 @@ Ruin delving requires quick wits and even quicker reflexes. With a backpack full
 **Bonus Talents:**
 
 - **Equipment:** Toolkit Training
-- **Athletics sphere**(Climb) package,**Rope Swing**
+- **Athletics sphere** (Climb) package, **Rope Swing**
 - **Variable:** Ruin delvers gain a talent of their choice from the Equipment sphere.
 
 ### Sergeant

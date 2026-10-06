@@ -11,27 +11,27 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Disappearance
+#### Disappearance
 
 You cannot create illusions or tricks, except to make suppressions. You must select the Suppression talent as your bonus talent for this drawback.
 
 **Incompatible:** Theme Fixation
 
-## Glamered Brew
+#### Glamered Brew
 
 You must select the Instill Glamer talent with the bonus talent granted by this drawback, and you can only use your Illusion sphere abilities through this talent. You must possess the Obscura Mage drawback to select this one.
 
 **Incompatible:** Personal Illusion, Theme Fixation
 
-## Limited Sensation
+#### Limited Sensation
 
 You may not take additional (sensory) talents from the Illusion sphere. Your illusions lose the sight descriptor granted by the base Illusion sphere. You must take a (sensory) talent as the bonus talent granted by this drawback. If you select Illusionary Touch as the bonus talent granted by this drawback you are not prohibited from taking it a second time.
 
-## Obscura Mage
+#### Obscura Mage
 
 You may not create figments with your tricks and illusions. You must select a (glamer) talent as your bonus talent for this drawback, unless you possess the Disappearance drawback in which case you must select a (sensory) talent.
 
-## Personal Illusion
+#### Personal Illusion
 
 Your illusions are directly connected to your body. You can only apply glamers to yourself, and the range of your figments and tricks that target an area is reduced to 0 feet; you may only target squares that you currently occupy and must spend an immediate action any time your location changes to direct all figments and tricks you are currently maintaining to move with you.
 
@@ -39,7 +39,7 @@ To use tricks that target unwilling creatures or objects you must first make a s
 
 **Incompatible:** Glamered Brew
 
-## Theme Fixation
+#### Theme Fixation
 
 You may only create figments and glamers within a specific and narrow theme such as dragons, cubes, insects, cards, weapons, hands, etc.
 
@@ -47,6 +47,6 @@ The exact nature of this concept should be worked out with the GM, but as a rule
 
 **Incompatible:** Disappearance, Glamered Brew
 
-## Tricksters Grudge
+#### Tricksters Grudge
 
 Your illusions only work on one specific type of creature. When you select this drawback you must select a creature type. If you select humanoid or outsider you must also select a subtype. All other creature types automatically disbelieve your illusions and any non-shadow effects that would persist even if disbelieved have no effect on them.

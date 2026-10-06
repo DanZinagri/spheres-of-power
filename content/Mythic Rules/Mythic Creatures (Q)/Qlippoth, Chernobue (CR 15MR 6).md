@@ -11,22 +11,22 @@ parent: "[[Mythic Creatures (Q)]]"
 XP 51,200
 Pathfinder Roleplaying Game Bestiary 2
 CE Large outsider (chaotic, evil, extraplanar, mythic, qlippoth)
-**Init**+4;**Senses** darkvision 60 ft., scent; Perception +18
+**Init** +4; **Senses** darkvision 60 ft., scent; Perception +18
 **Aura** misery (30 ft.)MA
 
 #### Defense
 
-**AC**33,**touch**13,**flat-footed** 29 (+4 Dex, +20 natural, –1 size)
+**AC** 33, **touch** 13, **flat-footed** 29 (+4 Dex, +20 natural, –1 size)
 **hp** 234 (12d10+168)
-**Fort**+17,**Ref**+10,**Will** +11
-**Defensive Abilities**poisonous blood (chernobue milt)MA; DR 10/epic and lawful;**Immune**cold, mind-affecting effects, poison;**Resist**acid 10, electricity 10, fire 10;**SR** 26
+**Fort** +17, **Ref** +10, **Will** +11
+**Defensive Abilities** poisonous blood (chernobue milt)MA; DR 10/epic and lawful; **Immune** cold, mind-affecting effects, poison; **Resist** acid 10, electricity 10, fire 10; **SR** 26
 **Weaknesses** light vulnerability
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** 2 slams +19 (1d6+8/19–20/x3 plus 1 Con damage), bite +19 (2d6+8 plus chernobue filth), 2 tentacles +14 (1d6+4 plus grabMA)
-**Space**10 ft.;**Reach** 5 ft. (10 ft. with slams and tentacles)
+**Space** 10 ft.; **Reach** 5 ft. (10 ft. with slams and tentacles)
 **Special Attacks** constrict (1d6+4)MA, horrific appearance (DC 21), mythic power (6/day, surge +1d8), mythic spell-like abilitiesMA, strangle
 
 **Spell-Like Abilities** (CL 12th; concentration +17)
@@ -37,8 +37,8 @@ At will—chaos hammer (DC 19), darkness
 
 #### Statistics
 
-**Str**26,**Dex**18,**Con**28,**Int**13,**Wis**17,**Cha** 21
-**Base Atk**+12;**CMB**+21 (+25 grapple);**CMD** 35 (39 vs. trip)
+**Str** 26, **Dex** 18, **Con** 28, **Int** 13, **Wis** 17, **Cha** 21
+**Base Atk** +12; **CMB** +21 (+25 grapple); **CMD** 35 (39 vs. trip)
 **Feats** Blind-FightMF, Improved Critical (slam)MF, Lightning Reflexes, Power AttackMF, Quicken Spell-Like Ability (darkness), Vital Strike
 **Skills** Acrobatics +19 (+23 jump), Escape Artist +19, Intimidate +20, Knowledge (planes) +16, Perception +18, Sense Motive +18, Stealth +15
 **Languages** Abyssal; telepathy 100 ft.
@@ -55,7 +55,7 @@ At will—chaos hammer (DC 19), darkness
 
 In addition, as an immediate action, a mythic chernobue can force a creature within 30 feet that is affected by its aura of misery to reroll any single d20 roll that the creature has just made. The creature must take the result of the reroll, even if it’s worse than the original roll. The mythic chernobue can target the same creature again but it must then expend one use of its mythic power each time it does so.
 
-**Chernobue Milt (Su)**Bite—contact;**save**Fort DC 25;**frequency**1/round for 6 rounds;**effect**1d4 Con drain;**cure** 1 save. The thick, orange poison injected by a mythic chernobue is semi-alive. As soon as the poisoned victim is cured of the poison (by making a save, being targeted with an effect like neutralize poison, or enduring the full duration of the poison), the orange fluid bursts from the victim’s body, causing 1d6 Charisma damage and rendering the victim unconscious for 2d6 rounds unless he succeeds at a DC 25 Fortitude save. In addition, any creatures within 10 feet of the victim when this happens must succeed at a DC 25 Fortitude save or contract the poison. The save DCs are Constitution-based.
+**Chernobue Milt (Su)** Bite—contact; **save** Fort DC 25; **frequency** 1/round for 6 rounds; **effect** 1d4 Con drain; **cure** 1 save. The thick, orange poison injected by a mythic chernobue is semi-alive. As soon as the poisoned victim is cured of the poison (by making a save, being targeted with an effect like neutralize poison, or enduring the full duration of the poison), the orange fluid bursts from the victim’s body, causing 1d6 Charisma damage and rendering the victim unconscious for 2d6 rounds unless he succeeds at a DC 25 Fortitude save. In addition, any creatures within 10 feet of the victim when this happens must succeed at a DC 25 Fortitude save or contract the poison. The save DCs are Constitution-based.
 
 If the victim is not cured of the poison and dies, the fluid fertilizes its corpse which spawns a bloom of 2-12 cythnigots over the course of the following 24 hours. The corpse gains the energy immunity and resistances of the qlippoth subtype during this time. A remove disease spell (or similar effect; DC 25), however, destroys the growing spores, neutralizes the poison, and renders the fluid inert. Alternatively, the growing spores can be cut out one at a time with DC 30 Heal checks (each attempt takes 10 minutes). If a check fails, the healer can try again, but each attempt (successful or not) exposes the healer to the poison. If the cythnigot spores reach maturity, they fly off in search of host bodies and the fluid becomes inert.
 

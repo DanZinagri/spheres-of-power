@@ -13,21 +13,21 @@ A crest of horns sweeps back from the head of this dragon, leading to a long nec
 XP 6,400
 Pathfinder Roleplaying Game Bestiary
 CG Large dragon (fire, mythic)
-**Init**+8MF;**Senses** blindsense 60 ft., dragon senses; Perception +14
+**Init** +8MF; **Senses** blindsense 60 ft., dragon senses; Perception +14
 
 #### Defense
 
-**AC**25,**touch**10,**flat-footed** 24 (+1 Dex, +15 natural, -1 size)
+**AC** 25, **touch** 10, **flat-footed** 24 (+1 Dex, +15 natural, -1 size)
 **hp** 122 (8d12+70)
-**Fort**+11,**Ref**+7,**Will** +7
-**Defensive Abilities**DR 5/epic;**Immune** fire, paralysis, sleep
+**Fort** +11, **Ref** +7, **Will** +7
+**Defensive Abilities** DR 5/epic; **Immune** fire, paralysis, sleep
 **Weakness** vulnerability to cold
 
 #### Offense
 
 **Speed** 60 ft., burrow 30 ft., fly 150 ft. (average); sand glideMA
 **Melee** bite +13 (2d6+9), 2 claws +13 (1d8+6), 2 wings +11 (1d6+3), tail slap +11 (1d8+9)
-**Space**10 ft.;**Reach** 10 ft. (15 ft. with bite)
+**Space** 10 ft.; **Reach** 10 ft. (15 ft. with bite)
 **Special Attacks** breath weapon (80-ft. line, DC 21, 6d4 fire), captivating voiceMA, mythic power (3/day, surge +1d6), sand in the eyesMA, sleep breath
 
 **Spell-Like Abilities** (CL 8th; concentration +10)
@@ -39,8 +39,8 @@ At will—speak with animals
 
 #### Statistics
 
-**Str**23,**Dex**12,**Con**21,**Int**12,**Wis**13,**Cha** 14
-**Base Atk**+8;**CMB**+15;**CMD** 26 (30 vs. trip)
+**Str** 23, **Dex** 12, **Con** 21, **Int** 12, **Wis** 13, **Cha** 14
+**Base Atk** +8; **CMB** +15; **CMD** 26 (30 vs. trip)
 **Feats** Ability Focus (breath weapon), Hover, Improved InitiativeMF, Multiattack, WingstormMF
 **Skills** Bluff +13, Diplomacy +13, Fly +10, Heal +12, Linguistics +12, Perception +12, Sense Motive +12
 **Languages** Common, Draconic plus any 8 others
@@ -68,4 +68,4 @@ At will—speak with animals
 
 #### Mythic Young Brass Dragon
 
-Without the giant simple template, a mythic young brass dragon’s stats are as follows: **CR**8/**MR**3;**XP**4,800;**Size**Medium;**Init**+9;**AC**24,**touch**12,**flat-footed**22;**hp**106;**Fort**+9,**Ref**+8;**Melee**bite +12 (1d8+6), 2 claws +12 (1d6+4), 2 wings +10 (1d4+2);**Space**5 ft.,**Reach**5 ft. (10 ft. with bite);**Special Attacks**breath weapon (60-foot line, DC 19);**Str**19,**Dex**14,**Con**17;**CMB**+12;**CMD**24 (28 vs. trip);**Feats**replace WingstormMF with Suppress VulnerabilityMF;**Skills** Fly +13.
+Without the giant simple template, a mythic young brass dragon’s stats are as follows: **CR** 8/**MR** 3; **XP** 4,800; **Size** Medium; **Init** +9; **AC** 24, **touch** 12, **flat-footed** 22; **hp** 106; **Fort** +9, **Ref** +8; **Melee** bite +12 (1d8+6), 2 claws +12 (1d6+4), 2 wings +10 (1d4+2); **Space** 5 ft., **Reach** 5 ft. (10 ft. with bite); **Special Attacks** breath weapon (60-foot line, DC 19); **Str** 19, **Dex** 14, **Con** 17; **CMB** +12; **CMD** 24 (28 vs. trip); **Feats** replace WingstormMF with Suppress VulnerabilityMF; **Skills** Fly +13.

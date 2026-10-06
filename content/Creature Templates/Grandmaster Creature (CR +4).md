@@ -50,7 +50,7 @@ A rare few creatures embrace the ethos of competition and rivalry to such an ext
 
 **Disparaging Word (Sp):** As a swift action, the grand master can speak a disparaging word to a creature within 60 feet. That creature receives a -2 morale penalty on attack rolls, skill checks, ability checks, and saving throws for a number of rounds equal to 1/2 the grandmaster’s HD (minimum 1). She can use this power a number of times per day equal to 3 + her Wisdom modifier. This is a language-dependent, mind-affecting effect.
 
-**Ability Scores:** **Int**+10 (add 4 bonus languages, add 4 skill points per HD, +5 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks, +5 to any of the base creature’s Intelligence-based DCs),**Wis**+10 (+5 to Will saves, +5 to Heal, Perception, Profession, Sense Motive and Survival checks, add +5 to any of the base creature’s Wisdom-based DCs),**Cha** +10 (+5 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +5 to any of the base creature’s Charisma- based DCs).
+**Ability Scores:** **Int** +10 (add 4 bonus languages, add 4 skill points per HD, +5 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks, +5 to any of the base creature’s Intelligence-based DCs), **Wis** +10 (+5 to Will saves, +5 to Heal, Perception, Profession, Sense Motive and Survival checks, add +5 to any of the base creature’s Wisdom-based DCs), **Cha** +10 (+5 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +5 to any of the base creature’s Charisma- based DCs).
 
 **Feats:** Gains Leadership as a bonus feat.
 

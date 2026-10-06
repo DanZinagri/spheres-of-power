@@ -883,11 +883,11 @@ Some of the abilities a monster gains do not conform to the normal ability point
 
 ### Air Subtype (1 AP)
 
-**Prerequisites:** none; This subtype is usually used for outsiders with a connection to the Elemental Plane of Air.**Benefit:** Creatures with the air subtype gain a fly speed equal to their base speed and perfect maneuverability. Air creatures treat Fly as a class skill.
+**Prerequisites:** none; This subtype is usually used for outsiders with a connection to the Elemental Plane of Air. **Benefit:** Creatures with the air subtype gain a fly speed equal to their base speed and perfect maneuverability. Air creatures treat Fly as a class skill.
 
 ### Angel Subtype (8 AP)
 
-**Prerequisite:** outsider (good); Angels are a race of celestials, or good outsiders, native to the good-aligned outer planes.**Benefit:**
+**Prerequisite:** outsider (good); Angels are a race of celestials, or good outsiders, native to the good-aligned outer planes. **Benefit:**
 
 - Darkvision 60 feet and low-light vision.
 - Immunity to acid, cold, and petrification.
@@ -898,11 +898,11 @@ Some of the abilities a monster gains do not conform to the normal ability point
 
 ### Aquatic Subtype (1 AP)
 
-**Prerequisite**none;**Benefit:** An aquatic creature gains a swim speed equal to its base speed and can move in water without making Swim skill checks. An aquatic creature can breathe water. It cannot breathe air unless it has the amphibious special quality. Aquatic creatures always treat Swim as a class skill.
+**Prerequisite** none; **Benefit:** An aquatic creature gains a swim speed equal to its base speed and can move in water without making Swim skill checks. An aquatic creature can breathe water. It cannot breathe air unless it has the amphibious special quality. Aquatic creatures always treat Swim as a class skill.
 
 ### Archon Subtype (5 AP)
 
-Prerequisite: outsider (good, lawful); Archons are a race of celestials, or good outsiders, native to lawful goodaligned outer planes. **Benefit:**
+**Prerequisite:** outsider (good, lawful); Archons are a race of celestials, or good outsiders, native to lawful goodaligned outer planes. **Benefit:**
 
 - Darkvision 60 feet and low-light vision.
 - **Aura of Menace (Su)** A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon must succeed on a Will save (DC 12 + ½ the archon’s HD + archon’s Cha modifier) to resist its effects. Those who fail take a –2 penalty on attacks, AC, and saves for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted or broken the effect cannot be affected again by the same archon’s aura for 24 hours.
@@ -913,11 +913,11 @@ Prerequisite: outsider (good, lawful); Archons are a race of celestials, or good
 
 ### Augmented Subtype (0 AP)
 
-**Prerequisite:** none; A creature receives this subtype when something (usually a template) changes its original type. Some creatures (those with an inherited template) are born with this subtype; others acquire it when they take on an acquired template. The augmented subtype is always paired with the creature’s original type.**Benefit:** none
+**Prerequisite:** none; A creature receives this subtype when something (usually a template) changes its original type. Some creatures (those with an inherited template) are born with this subtype; others acquire it when they take on an acquired template. The augmented subtype is always paired with the creature’s original type. **Benefit:** none
 
 ### Azata Subtype (4 AP)
 
-**Prerequisite:** outsider (chaotic, good); Azatas are a race of celestials, or good outsiders, native to chaotic good-aligned outer planes.**Benefit:**
+**Prerequisite:** outsider (chaotic, good); Azatas are a race of celestials, or good outsiders, native to chaotic good-aligned outer planes. **Benefit:**
 
 - Darkvision 60 feet and low-light vision.
 - Immunity to electricity and petrification.
@@ -926,7 +926,7 @@ Prerequisite: outsider (good, lawful); Archons are a race of celestials, or good
 
 ### Chaotic Subtype (0 AP)
 
-**Prerequisite:** none; This subtype is usually applied to outsiders native to the chaotically aligned outer planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype.**Benefit:** Any effect that depends on alignment affects a creature with this subtype as if the creature had a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes damage reduction as if its natural weapons and any weapons it wields are chaotically aligned.
+**Prerequisite:** none; This subtype is usually applied to outsiders native to the chaotically aligned outer planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. **Benefit:** Any effect that depends on alignment affects a creature with this subtype as if the creature had a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes damage reduction as if its natural weapons and any weapons it wields are chaotically aligned.
 
 ### Cold Subtype (0 AP)
 
@@ -934,7 +934,7 @@ Prerequisite: outsider (good, lawful); Archons are a race of celestials, or good
 
 ### Daemon Subtype (5 AP)
 
-**Prerequisite:** outsider (evil); Daemons are neutral evil outsiders that eat souls and thrive on disaster and ruin.**Benefit:**
+**Prerequisite:** outsider (evil); Daemons are neutral evil outsiders that eat souls and thrive on disaster and ruin. **Benefit:**
 
 - Immunity to acid, death effects, disease, and poison.
 - Resistance to cold 10, electricity 10, and fire 10.
@@ -943,11 +943,11 @@ Prerequisite: outsider (good, lawful); Archons are a race of celestials, or good
 
 ### Dark Folk Subtype (0 AP)
 
-**Prerequisite:** humanoid; Dark folk are reclusive subterranean humanoids with an aversion to light.**Benefit:** none.
+**Prerequisite:** humanoid; Dark folk are reclusive subterranean humanoids with an aversion to light. **Benefit:** none.
 
 ### Demon Subtype (5 AP)
 
-**Prerequisite:** outsider (chaotic, evil); Demons are chaotic evil outsiders that call the Abyss their home.**Benefit:**
+**Prerequisite:** outsider (chaotic, evil); Demons are chaotic evil outsiders that call the Abyss their home. **Benefit:**
 
 - Immunity to electricity and poison.
 - Resistance to acid 10, cold 10, and fire 10.
@@ -956,7 +956,7 @@ Prerequisite: outsider (good, lawful); Archons are a race of celestials, or good
 
 ### Derro Subtype (0 AP)
 
-**Prerequisite:** humanoid or fey; This subtype is applied to derro and creatures related to derro.**Benefit:** Creatures with the derro subtype gain the following abilities:
+**Prerequisite:** humanoid or fey; This subtype is applied to derro and creatures related to derro. **Benefit:** Creatures with the derro subtype gain the following abilities:
 
 - Darkvision 60 ft.
 - **Madness (Ex)** See humanoid abilities.
@@ -964,7 +964,7 @@ Prerequisite: outsider (good, lawful); Archons are a race of celestials, or good
 
 ### Devil Subtype (5 AP)
 
-**Prerequisite:** outsider (evil, lawful); Devils are lawful evil outsiders that hail from the plane of Hell.**Benefit:**
+**Prerequisite:** outsider (evil, lawful); Devils are lawful evil outsiders that hail from the plane of Hell. **Benefit:**
 
 - Immunity to fire and poison.
 - Resistance to acid 10 and cold 10.
@@ -1003,7 +1003,7 @@ Prerequisite: outsider (good, lawful); Archons are a race of celestials, or good
 
 ### Fire Subtype (0 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with the fire subtype has immunity to fire and vulnerability to cold.
+**Prerequisite:** none; **Benefit:** A creature with the fire subtype has immunity to fire and vulnerability to cold.
 
 ### Giant Subtype (0 AP)
 
@@ -1097,7 +1097,7 @@ All rakshasas are native to the Material Plane, and have the following traits.
 
 **Prerequisite:** humanoid; These creatures are scaly and usually cold-blooded. The reptilian subtype is only used to describe a set of humanoid races, not all animals and monsters that are true reptiles.
 
-### Shapechanger Subtype (0 AP):
+### Shapechanger Subtype (0 AP)
 
 **Prerequisite:** none; A shapechanger has the supernatural ability to assume one or more alternate forms, and gains 1 AP to spend on change shape or similar abilities. Many magical effects allow some kind of shapeshifting, and not every creature that can change shapes has the shapechanger subtype.
 
@@ -1307,7 +1307,7 @@ The names of abilities in the following section follow a standard template consi
 
 ### Ability Damage (EX Or SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** Select one attack type or ability (such as a breath weapon or gaze) to cause ability damage, reducing the designated ability score by the listed amount. Ability damage can be healed naturally. The base ability deals 1d4 ability damage to any non-Constitution ability score chosen when the ability is taken. The creature must make a melee attack to deal the ability damage. The victim is allowed a Fortitude saving throw with a DC equal to 10 + ½ the creature’s HD + creature’s Con modifier. If the ability damage is tied to a separate ability that allows a save to negate or for partial effect, then the creature only makes a single save based on the parent ability, and on a successful save the ability damage is negated.
+**Prerequisite:** none; **Benefit:** Select one attack type or ability (such as a breath weapon or gaze) to cause ability damage, reducing the designated ability score by the listed amount. Ability damage can be healed naturally. The base ability deals 1d4 ability damage to any non-Constitution ability score chosen when the ability is taken. The creature must make a melee attack to deal the ability damage. The victim is allowed a Fortitude saving throw with a DC equal to 10 + ½ the creature’s HD + creature’s Con modifier. If the ability damage is tied to a separate ability that allows a save to negate or for partial effect, then the creature only makes a single save based on the parent ability, and on a successful save the ability damage is negated.
 
 Ability damage must be purchased separately for each attack type or ability that delivers the damage. Some abilities (such as disease or poison) deal ability damage, and are handled differently. Ability damage dealt by creatures with the undead type is usually a negative energy effect.
 
@@ -1328,39 +1328,39 @@ Ability damage must be purchased separately for each attack type or ability that
 - The creature can only deal ability damage under certain restricted conditions (1 AP).
 - On a successful save, the target is immune to further ability damage from this ability for 24 hours. The ability damage must offer a save (1 AP).
 
-**Format:** 1d4 Str drain;**Location:** Special Attacks or individual attacks
+**Format:** 1d4 Str drain; **Location:** Special Attacks or individual attacks
 
 ### All-Around Vision (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** The creature sees in all directions at once. It cannot be flanked.
+**Prerequisite:** none; **Benefit:** The creature sees in all directions at once. It cannot be flanked.
 
-**Format:** all-around vision;**Location:** Defensive Abilities.
+**Format:** all-around vision; **Location:** Defensive Abilities.
 
 ### Amorphous (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** The creature’s body is malleable and shapeless. It is immune to precision damage (like sneak attacks) and critical hits.
+**Prerequisite:** none; **Benefit:** The creature’s body is malleable and shapeless. It is immune to precision damage (like sneak attacks) and critical hits.
 
-**Format:** amorphous;**Location:** Defensive Abilities.
+**Format:** amorphous; **Location:** Defensive Abilities.
 
 ### Amphibious (EX, 0 AP)
 
-**Prerequisite:** aquatic subtype;**Benefit:** Creatures with this special quality can survive indefinitely on land.
+**Prerequisite:** aquatic subtype; **Benefit:** Creatures with this special quality can survive indefinitely on land.
 
-**Format:** amphibious;**Location:** SQ.
+**Format:** amphibious; **Location:** SQ.
 
 ### Attach (EX, 2 AP)
 
-**Prerequisite:** natural attack;**Benefit:** Select one natural attack type. The creature automatically latches onto its target when it successfully hits with the natural attack. The creature is considered grappling, but the target is not. The target can attack or grapple the creature as normal, or break the attachment with a successful grapple or Escape Artist check. The AP cost is paid separately for each natural attack the ability can be applied to.
+**Prerequisite:** natural attack; **Benefit:** Select one natural attack type. The creature automatically latches onto its target when it successfully hits with the natural attack. The creature is considered grappling, but the target is not. The target can attack or grapple the creature as normal, or break the attachment with a successful grapple or Escape Artist check. The AP cost is paid separately for each natural attack the ability can be applied to.
 
 **Enhancements**
 
 - The creature gains a +2 racial bonus to maintain a grapple initiated with the attach ability for each additional +1 AP spent.
 
-**Format:** attach;**Location:** individual attacks.
+**Format:** attach; **Location:** individual attacks.
 
 ### Bleed (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** Select one type of attack, which may be a natural or weapon attack. The creature with this ability causes wounds with the selected attack type that continue to bleed, inflicting additional damage each round at the start of the affected creature’s turn. This bleeding can be stopped by a successful DC 15 Heal skill check or through the application of any magical healing. The base damage for bleed is 1d4 per round.
+**Prerequisite:** none; **Benefit:** Select one type of attack, which may be a natural or weapon attack. The creature with this ability causes wounds with the selected attack type that continue to bleed, inflicting additional damage each round at the start of the affected creature’s turn. This bleeding can be stopped by a successful DC 15 Heal skill check or through the application of any magical healing. The base damage for bleed is 1d4 per round.
 
 **Enhancements**
 
@@ -1372,21 +1372,21 @@ Ability damage must be purchased separately for each attack type or ability that
 
 - The bleed damage is decreased to 2 (1 AP) or 1 (2 AP).
 
-**Format:** bleed (2d6);**Location:** Special Attacks and individual attacks.
+**Format:** bleed (2d6); **Location:** Special Attacks and individual attacks.
 
 ### Blindsense (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** Using nonvisual senses, such as acute smell or hearing, a creature with blindsense notices things it cannot see up to a range of 30 feet. The creature usually does not need to make Perception checks to pinpoint the location of a creature within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent the creature cannot see still has total concealment against the creature with blindsense, and the creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
+**Prerequisite:** none; **Benefit:** Using nonvisual senses, such as acute smell or hearing, a creature with blindsense notices things it cannot see up to a range of 30 feet. The creature usually does not need to make Perception checks to pinpoint the location of a creature within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent the creature cannot see still has total concealment against the creature with blindsense, and the creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
 
 **Enhancements**
 
 - The range of the creature’s blindsense is increased to 40 feet for an additional +1 AP, 60 feet for +2 AP, 120 feet for +3 AP, or 300 feet for +4 AP.
 
-**Format:** blindsense 60 ft.;**Location:** Senses.
+**Format:** blindsense 60 ft.; **Location:** Senses.
 
 ### Blindsight (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** This ability is similar to blindsense, but is far more discerning. Using nonvisual senses, such as sensitivity to vibrations, keen smell, acute hearing, or echolocation, a creature with blindsight maneuvers and fights as well as a sighted creature. Invisibility, darkness, and most kinds of concealment are irrelevant, though the creature must have line of effect to a creature or object to discern that creature or object up to a range of 30 feet. The creature usually does not need to make Perception checks to notice creatures within range of its blindsight ability.
+**Prerequisite:** none; **Benefit:** This ability is similar to blindsense, but is far more discerning. Using nonvisual senses, such as sensitivity to vibrations, keen smell, acute hearing, or echolocation, a creature with blindsight maneuvers and fights as well as a sighted creature. Invisibility, darkness, and most kinds of concealment are irrelevant, though the creature must have line of effect to a creature or object to discern that creature or object up to a range of 30 feet. The creature usually does not need to make Perception checks to notice creatures within range of its blindsight ability.
 
 **Enhancements**
 
@@ -1396,11 +1396,11 @@ Ability damage must be purchased separately for each attack type or ability that
 
 - The creature’s blindsight must be triggered as a free action and it only gains the benefits of blindsight during its turn (1 AP).
 
-**Format:** blindsight 60 ft.;**Location:** Senses.
+**Format:** blindsight 60 ft.; **Location:** Senses.
 
 ### Blood Drain (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** The creature drains blood at the end of its turn if it grapples a foe, inflicting Constitution damage. The base damage is 1d4 Constitution and the creature receives no save to resist.
+**Prerequisite:** none; **Benefit:** The creature drains blood at the end of its turn if it grapples a foe, inflicting Constitution damage. The base damage is 1d4 Constitution and the creature receives no save to resist.
 
 **Enhancements**
 
@@ -1412,11 +1412,11 @@ Ability damage must be purchased separately for each attack type or ability that
 - The ability damage is decreased to 1d3 (1 AP).
 - The ability damage is decreased to 1 (2 AP).
 
-**Format:** blood drain (1d2 Constitution);**Location:** Special Attacks.
+**Format:** blood drain (1d2 Constitution); **Location:** Special Attacks.
 
 ### Blood Rage (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** When the creature takes damage in combat, on its next turn it can fly into a rage as a free action. It gains +2 Constitution and +2 Strength, but takes a –2 penalty to its AC. The rage lasts for duration of the battle or 1 minute, whichever is shorter. It cannot end its rage voluntarily. While in blood rage, the creature cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration.
+**Prerequisite:** none; **Benefit:** When the creature takes damage in combat, on its next turn it can fly into a rage as a free action. It gains +2 Constitution and +2 Strength, but takes a –2 penalty to its AC. The rage lasts for duration of the battle or 1 minute, whichever is shorter. It cannot end its rage voluntarily. While in blood rage, the creature cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration.
 
 **Enhancements**
 
@@ -1428,11 +1428,11 @@ Ability damage must be purchased separately for each attack type or ability that
 
 - The creature is fatigued for 1 minute after blood rage ends and cannot enter blood rage when fatigued or exhausted (1 AP).
 
-**Format:** blood rage (+4 Strength and Constitution, free action);**Location:** Special Attacks.
+**Format:** blood rage (+4 Strength and Constitution, free action); **Location:** Special Attacks.
 
 ### Bonus Feat (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** The creature gains a feat as a bonus feat, but it must meet all prerequisites for the feat. This ability may be taken multiple times, and the cost does not stack to determine the maximum AP points a creature may spend per CR.
+**Prerequisite:** none; **Benefit:** The creature gains a feat as a bonus feat, but it must meet all prerequisites for the feat. This ability may be taken multiple times, and the cost does not stack to determine the maximum AP points a creature may spend per CR.
 
 **Enhancements**
 
@@ -1440,7 +1440,7 @@ Ability damage must be purchased separately for each attack type or ability that
 
 ### Breath Weapon (SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** Some creatures can exhale a cone, line, cloud of energy, or other magical effects. A base breath weapon deals 2d6 acid, cold, electricity, or fire damage in a 30-foot line, 15-foot cone, or 10- foot cube cloud (chosen when the ability is taken). Breath weapons allow a Reflex save for half damage (DC 10+ 1/2 creature’s racial HD + creature’s Con modifier). A creature is immune to its own breath weapon. Using a breath weapon is a standard action.
+**Prerequisite:** none; **Benefit:** Some creatures can exhale a cone, line, cloud of energy, or other magical effects. A base breath weapon deals 2d6 acid, cold, electricity, or fire damage in a 30-foot line, 15-foot cone, or 10- foot cube cloud (chosen when the ability is taken). Breath weapons allow a Reflex save for half damage (DC 10+ 1/2 creature’s racial HD + creature’s Con modifier). A creature is immune to its own breath weapon. Using a breath weapon is a standard action.
 
 While multiple breath weapons may be purchased separately, no breath weapon a creature possesses can be used more than every 1d4 rounds.
 
@@ -1464,11 +1464,11 @@ While multiple breath weapons may be purchased separately, no breath weapon a cr
 - The delay before the breath weapon can be used again is +1 round, for a total of 1d4+1 rounds (1 AP).
 - The creature is not immune to its own breath weapon (0 AP).
 
-**Format:** breath weapon (60-ft. cone, 8d6 fire damage, Reflex DC 20 for half, usable every 1d4 rounds);**Location:** Special Attacks; if the breath is more complicated than damage, it also appears under Special Abilities with its own entry.
+**Format:** breath weapon (60-ft. cone, 8d6 fire damage, Reflex DC 20 for half, usable every 1d4 rounds); **Location:** Special Attacks; if the breath is more complicated than damage, it also appears under Special Abilities with its own entry.
 
 ### Burn (EX, 3 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with the burn special attack deals 1d6 elemental damage (acid, cold, electricity, or fire) in addition to damage dealt on a successful hit in melee and each round it grapples. Metallic melee weapons wielded by the creature also conduct this damage.
+**Prerequisite:** none; **Benefit:** A creature with the burn special attack deals 1d6 elemental damage (acid, cold, electricity, or fire) in addition to damage dealt on a successful hit in melee and each round it grapples. Metallic melee weapons wielded by the creature also conduct this damage.
 
 **Enhancements**
 
@@ -1485,35 +1485,35 @@ While multiple breath weapons may be purchased separately, no breath weapon a cr
 - The damage is decreased to 1d4 (1 AP) or 1 (2 AP).
 - Creatures (or weapons) receive a Reflex save with a DC equal to 10 + ½ the creature’s HD + the creature’s Constitution modifier for half damage (1 AP).
 
-**Format:** burn (2d6, DC 15);**Location:** Special Attacks and individual attacks.
-**Format:** burn (20 ft., 4d6 fire, DC 25);**Location:** Aura.
+**Format:** burn (2d6, DC 15); **Location:** Special Attacks and individual attacks.
+**Format:** burn (20 ft., 4d6 fire, DC 25); **Location:** Aura.
 
 ### Burrow Speed (EX Or SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability gains a burrow speed equal to ½ the creature’s base speed. It can use this speed to move through dirt, clay, sand, and earth. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to burrow for as long as the antimagic effect persists. If a creature reduces its base speed from the normal base speed for a creature of its size, use the creature’s original base speed for calculating burrow speed. Tunnels are not created when burrowing, and the earth fills in immediately behind the creature.
+**Prerequisite:** none; **Benefit:** A creature with this ability gains a burrow speed equal to ½ the creature’s base speed. It can use this speed to move through dirt, clay, sand, and earth. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to burrow for as long as the antimagic effect persists. If a creature reduces its base speed from the normal base speed for a creature of its size, use the creature’s original base speed for calculating burrow speed. Tunnels are not created when burrowing, and the earth fills in immediately behind the creature.
 
 **Enhancements**
 
 - The creature’s burrow speed is increased to its base speed for an additional +1 AP, base speed x1.5 for +2 AP, base speed x2 +3 AP, base speed x4 for +4 AP, and base speed x6 for +5 AP.
 - The creature leaves behind holes or tunnels when burrowing for an additional +2 AP.
 
-**Format:** burrow 30 ft.;**Location:** Speed.
+**Format:** burrow 30 ft.; **Location:** Speed.
 
 ### Camouflage (EX, 3 AP)
 
-**Prerequisites:** none;**Benefit:** The creature can use Stealth to hide in any sort of natural terrain, even if the terrain doesn’t grant cover or concealment.
+**Prerequisites:** none; **Benefit:** The creature can use Stealth to hide in any sort of natural terrain, even if the terrain doesn’t grant cover or concealment.
 
-**Format:** camouflage;**Location:** SQ
+**Format:** camouflage; **Location:** SQ
 
 ### Capsize (EX, 3 AP)
 
-**Prerequisite:** Huge size or larger;**Benefit:** A creature with this special quality can attempt to capsize a boat or a ship by ramming it as a charge attack and making a combat maneuver check. The DC of this check is 25, or the result of the captain’s Profession (sailor) check, whichever is higher. For each size category the ship is larger than the creature attempting to capsize it, the creature attempting to capsize the ship takes a cumulative –10 penalty on its combat maneuver check.
+**Prerequisite:** Huge size or larger; **Benefit:** A creature with this special quality can attempt to capsize a boat or a ship by ramming it as a charge attack and making a combat maneuver check. The DC of this check is 25, or the result of the captain’s Profession (sailor) check, whichever is higher. For each size category the ship is larger than the creature attempting to capsize it, the creature attempting to capsize the ship takes a cumulative –10 penalty on its combat maneuver check.
 
-**Format:** capsize;**Location:** special attacks.
+**Format:** capsize; **Location:** special attacks.
 
 ### Change Shape (SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this special quality has the ability to assume the appearance of a specific humanoid subtype (chosen when the ability is taken). The creature retains most of its own physical qualities. A creature cannot change shape to a form more than one size category smaller or larger than its original form, but may alter any other details of the creature’s appearance as they choose. This ability functions as an alter self spell, but the creature does not adjust its ability scores (although it gains any other abilities of the creature it mimics). Unless otherwise stated, it can remain in an alternate form indefinitely. Use of this ability grants a +10 circumstance bonus on all Disguise skill checks.
+**Prerequisite:** none; **Benefit:** A creature with this special quality has the ability to assume the appearance of a specific humanoid subtype (chosen when the ability is taken). The creature retains most of its own physical qualities. A creature cannot change shape to a form more than one size category smaller or larger than its original form, but may alter any other details of the creature’s appearance as they choose. This ability functions as an alter self spell, but the creature does not adjust its ability scores (although it gains any other abilities of the creature it mimics). Unless otherwise stated, it can remain in an alternate form indefinitely. Use of this ability grants a +10 circumstance bonus on all Disguise skill checks.
 
 **Enhancements**
 
@@ -1535,33 +1535,33 @@ While multiple breath weapons may be purchased separately, no breath weapon a cr
 - The creature can only transform into one specific form, chosen when this ability is taken (3 AP).
 - The creature’s ability to change shape is situational or requires some material component (1 AP).
 
-**Format:** change shape (wolf, beast form I);**Location:** SQ, and in special abilities for creatures with a unique listing.
+**Format:** change shape (wolf, beast form I); **Location:** SQ, and in special abilities for creatures with a unique listing.
 
 ### Class Ability (EX, VARIES)
 
-**Prerequisite:** none;**Benefit:** The creature with this ability gains a single character class ability with a maximum equivalent level equal to the creature’s CR. The creature counts as a having the equivalent level in the class for the purposes of the class ability, but does not gain any other benefits of the class. This ability costs ½ the equivalent level taken, in AP (round up). The available class abilities are bardic performance (bard), channel energy (cleric), smite evil (paladin), smite good (antipaladin), or sneak attack (rogue).
+**Prerequisite:** none; **Benefit:** The creature with this ability gains a single character class ability with a maximum equivalent level equal to the creature’s CR. The creature counts as a having the equivalent level in the class for the purposes of the class ability, but does not gain any other benefits of the class. This ability costs ½ the equivalent level taken, in AP (round up). The available class abilities are bardic performance (bard), channel energy (cleric), smite evil (paladin), smite good (antipaladin), or sneak attack (rogue).
 
-**Format:** bardic performance (20 rounds/day);**Location:** Special Attacks.
+**Format:** bardic performance (20 rounds/day); **Location:** Special Attacks.
 
 ### Climb Speed (EX Or SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability gains a climb speed equal to the 1/2 creature’s base speed and a +8 racial bonus on Climb checks. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to swim for as long as the antimagic effect persists.
+**Prerequisite:** none; **Benefit:** A creature with this ability gains a climb speed equal to the 1/2 creature’s base speed and a +8 racial bonus on Climb checks. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to swim for as long as the antimagic effect persists.
 
 **Enhancements**
 
 - The creature’s climb speed is increased to its base speed for an additional +1 AP.
 
-**Format:** climb 30 ft.;**Location:** Speed.
+**Format:** climb 30 ft.; **Location:** Speed.
 
 ### Compression (EX, 0 AP)
 
-**Prerequisite:** none;**Benefit:** The creature can move through an area as small as one-quarter its space without squeezing or one-eighth its space when squeezing.
+**Prerequisite:** none; **Benefit:** The creature can move through an area as small as one-quarter its space without squeezing or one-eighth its space when squeezing.
 
-**Format:** compression;**Location:** Special Qualities.
+**Format:** compression; **Location:** Special Qualities.
 
 ### Constrict (EX, 1 AP)
 
-**Prerequisite:** grab;**Benefit:** A creature with this special attack can crush an opponent, dealing bludgeoning damage, when it makes a successful grapple check (in addition to any other effects caused by a successful check, including additional damage). The amount of damage is equal to the amount of damage caused by the creature’s melee attack used to grab.
+**Prerequisite:** grab; **Benefit:** A creature with this special attack can crush an opponent, dealing bludgeoning damage, when it makes a successful grapple check (in addition to any other effects caused by a successful check, including additional damage). The amount of damage is equal to the amount of damage caused by the creature’s melee attack used to grab.
 
 **Enhancements**
 
@@ -1569,21 +1569,21 @@ While multiple breath weapons may be purchased separately, no breath weapon a cr
 - The creature adds an additional die of damage (that is the same type as the base damage) for an additional +1 AP.
 - A creature that takes damage from constrict must succeed at on a Fortitude save (DC 10 + ½ the creature’s HD + creature’s Str modifier) or lose consciousness for 1 round for an additional +4 AP, 1d4 rounds for +8 AP, or 1d8 rounds for +12 AP.
 
-**Format:** constrict (1d8+6);**Location:** Special Attacks.
+**Format:** constrict (1d8+6); **Location:** Special Attacks.
 
 ### Crush (EX, 5 AP)
 
-**Prerequisites:** Huge size or larger;**Benefit:** When flying, or jumping, the creature can land on foes as a standard action, using its whole body to crush them. Crush attacks are effective only against opponents three or more size categories smaller. A crush attack affects as many targets as fit in the creature’s space. Targets in the affected area must succeed on a Reflex save (DC 10 + ½ creature’s HD + creature’s Con modifier) or be pinned, automatically taking bludgeoning damage during the next round unless the creature moves off them. If the crushing creature chooses to maintain the pin, it must succeed at a combat maneuver check as normal. Pinned foes take damage from the crush each round if they don’t escape. A crush attack deals slam damage for the creature’s size plus 1-1/2 times the creature’s Strength bonus.
+**Prerequisites:** Huge size or larger; **Benefit:** When flying, or jumping, the creature can land on foes as a standard action, using its whole body to crush them. Crush attacks are effective only against opponents three or more size categories smaller. A crush attack affects as many targets as fit in the creature’s space. Targets in the affected area must succeed on a Reflex save (DC 10 + ½ creature’s HD + creature’s Con modifier) or be pinned, automatically taking bludgeoning damage during the next round unless the creature moves off them. If the crushing creature chooses to maintain the pin, it must succeed at a combat maneuver check as normal. Pinned foes take damage from the crush each round if they don’t escape. A crush attack deals slam damage for the creature’s size plus 1-1/2 times the creature’s Strength bonus.
 
 **Enhancements**
 
 - The creature may crush targets that are two size categories smaller for an additional +2 AP or one size category smaller for an additional +4 AP.
 
-**Format:** crush;**Location:** Special Attacks
+**Format:** crush; **Location:** Special Attacks
 
 ### Curse (SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability bestows a curse upon its enemies. A base curse inflicts a –2 penalty to AC, ability checks, attack rolls, saving throws, or skill checks (chosen when the ability is taken) to a foe within 30 feet that the creature possesses line of sight to. The curse allows a Will save (DC 10 + 1/2 cursing creature’s racial HD + creature’s Cha modifier), lasts for 1 minute, and can be removed through remove curse and similar effects. A curse that duplicates a witch hex (see below) has a save DC equal to 10 + ½ the creature’s HD + the creature’s Int modifier.
+**Prerequisite:** none; **Benefit:** A creature with this ability bestows a curse upon its enemies. A base curse inflicts a –2 penalty to AC, ability checks, attack rolls, saving throws, or skill checks (chosen when the ability is taken) to a foe within 30 feet that the creature possesses line of sight to. The curse allows a Will save (DC 10 + 1/2 cursing creature’s racial HD + creature’s Cha modifier), lasts for 1 minute, and can be removed through remove curse and similar effects. A curse that duplicates a witch hex (see below) has a save DC equal to 10 + ½ the creature’s HD + the creature’s Int modifier.
 
 **Enhancements**
 
@@ -1594,11 +1594,11 @@ While multiple breath weapons may be purchased separately, no breath weapon a cr
 - Instead of the normal effects, the curse instead mimics the effects of the agony, nightmares, retribution, or waxen image witch major hexes for an additional +6 AP. Multiple hex effect curses must be purchased separately.
 - Instead of the normal effects, the curse instead mimics the effects of the death curse or eternal slumber witch grand hexes for an additional +12 AP. Multiple hex effect curses must be purchased separately.
 
-**Format:** curse name;**Location:** Special Attacks.
+**Format:** curse name; **Location:** Special Attacks.
 
 ### Damage Reduction (EX Or SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this special quality ignores damage from most weapons and natural attacks. Wounds heal immediately, or the weapon bounces off harmlessly (in either case, the opponent knows the attack was ineffective). The creature takes normal damage from energy attacks (even nonmagical ones), spells, spell-like abilities, and supernatural abilities.
+**Prerequisite:** none; **Benefit:** A creature with this special quality ignores damage from most weapons and natural attacks. Wounds heal immediately, or the weapon bounces off harmlessly (in either case, the opponent knows the attack was ineffective). The creature takes normal damage from energy attacks (even nonmagical ones), spells, spell-like abilities, and supernatural abilities.
 
 A certain kind of weapon can sometimes damage the creature normally, as noted below. Some monsters are vulnerable to magic weapons (any weapon with at least a +1 enhancement bonus), different types of damage (piercing, bludgeoning, or slashing), certain materials (adamantine, alchemical silver, or cold-forged iron), epic weapons (mythic weapons, weapons with at least a +6 enhancement bonus, or artifacts), or weapons aligned to certain alignments (good, evil, chaotic, or law). Attacks from weapons that are not of the correct type or made of the correct material have their damage reduced. When a damage reduction entry has a dash (—) after the slash, no weapon negates the damage reduction.
 
@@ -1614,22 +1614,22 @@ Base damage reduction is 5/(bludgeoning, magic, piercing, or slashing), 2/(adama
 
 - Add a weapon type that can also penetrate the creature’s damage reduction (1 AP).
 
-**Format:** DR 5/silver;**Location:** Defensive Abilities.
+**Format:** DR 5/silver; **Location:** Defensive Abilities.
 
 ### Darkvision (EX Or SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** Darkvision is the ability to see with no light source at all, out to a range of 60 feet. Darkvision is black and white only (colors cannot be discerned). It does not allow creatures to see anything that they could not see otherwise — invisible objects are still invisible and illusions are still visible as what they seem to be. Likewise, darkvision subjects a creature to gaze attacks normally. The presence of light does not spoil darkvision.
+**Prerequisite:** none; **Benefit:** Darkvision is the ability to see with no light source at all, out to a range of 60 feet. Darkvision is black and white only (colors cannot be discerned). It does not allow creatures to see anything that they could not see otherwise — invisible objects are still invisible and illusions are still visible as what they seem to be. Likewise, darkvision subjects a creature to gaze attacks normally. The presence of light does not spoil darkvision.
 
 **Enhancements**
 
 - The range of the creature’s darkvision increases to 90 feet for an additional +1 AP or 120 feet for +2 AP.
 - The creature can see perfectly in darkness of any kind, including darkness created by the deeper darkness spell for an additional +2 AP. This is noted as “see in darkness” in the creature’s senses.
 
-**Format:** darkvision 60 ft., see in darkness;**Location:** Senses.
+**Format:** darkvision 60 ft., see in darkness; **Location:** Senses.
 
 ### Death Throes (SU, 2 AP)
 
-**Prerequisites:** none;**Benefit:** When the creature is slain, its body explodes damaging anything around it. Anything within a 10-foot radius burst takes 1d6 points of physical (bludgeoning, slashing, piercing) or elemental (acid, cold, electricity, fire) damage per CR of the creature. A Reflex or Fortitude save (DC 10 + ½ the creature’s HD + creature’s Con modifier) halves the damage. The type of damage and save is chosen when the ability is purchased.
+**Prerequisites:** none; **Benefit:** When the creature is slain, its body explodes damaging anything around it. Anything within a 10-foot radius burst takes 1d6 points of physical (bludgeoning, slashing, piercing) or elemental (acid, cold, electricity, fire) damage per CR of the creature. A Reflex or Fortitude save (DC 10 + ½ the creature’s HD + creature’s Con modifier) halves the damage. The type of damage and save is chosen when the ability is purchased.
 
 **Enhancements**
 
@@ -1644,11 +1644,11 @@ Base damage reduction is 5/(bludgeoning, magic, piercing, or slashing), 2/(adama
 
 - The death throes affect only the creature that strikes the death blow (1 AP).
 
-**Format:** death throes;**Location:** Special Attacks
+**Format:** death throes; **Location:** Special Attacks
 
 ### Disease (EX Or SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability spreads diseases to other creatures. A disease may infect through contact, inhalation, injury, or may be inherited (chosen when the ability is taken). The disease deals 1d4 ability damage to any non-Constitution ability score (chosen when the ability is taken), has an onset time of 1 day, a frequency of 1/day, and requires one successful save to cure. The Fortitude saving throw to resist or cure infection is DC 10 + ½ infecting creature’s racial HD + the creature’s Con modifier. Diseases can be removed through remove disease and similar effects.
+**Prerequisite:** none; **Benefit:** A creature with this ability spreads diseases to other creatures. A disease may infect through contact, inhalation, injury, or may be inherited (chosen when the ability is taken). The disease deals 1d4 ability damage to any non-Constitution ability score (chosen when the ability is taken), has an onset time of 1 day, a frequency of 1/day, and requires one successful save to cure. The Fortitude saving throw to resist or cure infection is DC 10 + ½ infecting creature’s racial HD + the creature’s Con modifier. Diseases can be removed through remove disease and similar effects.
 
 **Enhancements**
 
@@ -1668,27 +1668,27 @@ Base damage reduction is 5/(bludgeoning, magic, piercing, or slashing), 2/(adama
 - The disease frequency is increased to 1d4 or 3 days (1 AP), 1-week, 1-month, or 1-year (2 AP).
 - The disease onset time is increased to 1d6 days (1 AP) or 1d3 weeks or 1d3 months (2 AP).
 
-**Format:** Disease Name (Ex) Bite—injury; save Fort DC 15, onset 1d3 days, frequency 1 day, effect 1 Con damage, cure 2 consecutive saves;**Location:** Special Attacks and individual attacks.
+**Format:** Disease Name (Ex) Bite—injury; save Fort DC 15, onset 1d3 days, frequency 1 day, effect 1 Con damage, cure 2 consecutive saves; **Location:** Special Attacks and individual attacks.
 
 ### Distraction (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability can nauseate the creatures that it damages. Any living creature that takes damage from a creature with the distraction ability is nauseated for 1 round; a Fortitude save (DC 10 + 1/2 creature’s HD + creature’s Con modifier) negates the effect.
+**Prerequisite:** none; **Benefit:** A creature with this ability can nauseate the creatures that it damages. Any living creature that takes damage from a creature with the distraction ability is nauseated for 1 round; a Fortitude save (DC 10 + 1/2 creature’s HD + creature’s Con modifier) negates the effect.
 
-**Format:** distraction (DC 14);**Location:** Special Attacks.
+**Format:** distraction (DC 14); **Location:** Special Attacks.
 
 ### Earth Glide (EX, 2 AP)
 
-**Prerequisite:** earth subtype, burrow speed;**Benefit:** When the creature burrows, it can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. If protected against fire damage, it can even glide through lava. Burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A move earth spell cast on an area containing the burrowing creature flings it back 30 feet, stunning it for 1 round unless it succeeds on a DC 15 Fortitude save.
+**Prerequisite:** earth subtype, burrow speed; **Benefit:** When the creature burrows, it can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. If protected against fire damage, it can even glide through lava. Burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A move earth spell cast on an area containing the burrowing creature flings it back 30 feet, stunning it for 1 round unless it succeeds on a DC 15 Fortitude save.
 
 **Enhancements**
 
 - The creature can burrow through stone, dirt, crystal, or metal for an additional +1 AP.
 
-**Format:** earth glide;**Location:** Speed.
+**Format:** earth glide; **Location:** Speed.
 
 ### Energy Drain (SU, 2 AP)
 
-**Prerequisite:** none;**Benefit:** This attack saps a living opponent’s vital energy and happens automatically when a melee or ranged attack hits. Each successful energy drain bestows one negative level. If an attack that includes an energy drain scores a critical hit, it bestows twice the listed number of negative levels. A draining creature gains 5 temporary hit points for each negative level it bestows on an opponent. These temporary hit points last for a maximum of 1 hour. Negative levels remain until 24 hours have passed or until they are removed with a spell, such as restoration.
+**Prerequisite:** none; **Benefit:** This attack saps a living opponent’s vital energy and happens automatically when a melee or ranged attack hits. Each successful energy drain bestows one negative level. If an attack that includes an energy drain scores a critical hit, it bestows twice the listed number of negative levels. A draining creature gains 5 temporary hit points for each negative level it bestows on an opponent. These temporary hit points last for a maximum of 1 hour. Negative levels remain until 24 hours have passed or until they are removed with a spell, such as restoration.
 
 If a negative level is not removed before 24 hours have passed, the affected creature must attempt a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + creature’s Cha modifier). On a success, the negative level goes away with no harm to the creature. On a failure, the negative level becomes permanent. A separate saving throw is required for each negative level.
 
@@ -1701,17 +1701,17 @@ If a negative level is not removed before 24 hours have passed, the affected cre
 - The creature does not gain temporary hit points from energy drain (1 AP).
 - The victim must be grappled before the creature can inflict a negative level (1 AP).
 
-**Format:** energy drain (2 levels, DC 18);**Location:** Special Attacks and individual attacks.
+**Format:** energy drain (2 levels, DC 18); **Location:** Special Attacks and individual attacks.
 
 ### Engulf (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** The creature can engulf creatures in its path as part of a standard action. It cannot make other attacks during a round in which it engulfs. The creature merely has to move over its opponents, affecting as many as it can cover. Targeted creatures can make attacks of opportunity against the creature, but if they do so, they are not entitled to a saving throw against the engulf attack. Those who do not attempt attacks of opportunity can attempt a Reflex save (DC 10 + ½ the engulfing creature’s HD + creature’s Str modifier) to avoid being engulfed—on a success, they are pushed back or aside (target’s choice) as the creature moves forward. Engulfed opponents gain the pinned condition, are in danger of suffocating, are trapped within the creature’s body until they are no longer pinned, and may be subject to other special attacks from the creature.
+**Prerequisite:** none; **Benefit:** The creature can engulf creatures in its path as part of a standard action. It cannot make other attacks during a round in which it engulfs. The creature merely has to move over its opponents, affecting as many as it can cover. Targeted creatures can make attacks of opportunity against the creature, but if they do so, they are not entitled to a saving throw against the engulf attack. Those who do not attempt attacks of opportunity can attempt a Reflex save (DC 10 + ½ the engulfing creature’s HD + creature’s Str modifier) to avoid being engulfed—on a success, they are pushed back or aside (target’s choice) as the creature moves forward. Engulfed opponents gain the pinned condition, are in danger of suffocating, are trapped within the creature’s body until they are no longer pinned, and may be subject to other special attacks from the creature.
 
-**Format:** engulf (DC 12, 1d6 acid and paralysis);**Location:** Special Attacks.
+**Format:** engulf (DC 12, 1d6 acid and paralysis); **Location:** Special Attacks.
 
 ### Entrap (EX Or SU, 2 AP)
 
-**Prerequisite:** none;**Benefit:** The creature has a ranged touch attack that restricts another creature’s movement, usually with a physical effect such as ice, mud, lava, or webs. The target of an entrap attack must make a Fortitude save (DC 10 + ½ entrapping creature’s HD + entrapping creature’s Constitution modifier) or become entangled for 1 minute. If a target is already entangled by this ability, a second entrap attack means the target must make a Fortitude save or become helpless for 1 minute. A target made helpless by this ability is conscious but can take no physical actions (except attempting to break free) until the entrapping material is removed. The target can use spells with only verbal components or spell-like abilities if it can make a DC 20 concentration check. An entangled creature can make a Strength check (at the same DC as the entrap saving throw DC) as a full-round action to break free; the DC for a helpless creature is +5 greater than the base saving throw DC. Entrap attacks have a base range of 30 feet.
+**Prerequisite:** none; **Benefit:** The creature has a ranged touch attack that restricts another creature’s movement, usually with a physical effect such as ice, mud, lava, or webs. The target of an entrap attack must make a Fortitude save (DC 10 + ½ entrapping creature’s HD + entrapping creature’s Constitution modifier) or become entangled for 1 minute. If a target is already entangled by this ability, a second entrap attack means the target must make a Fortitude save or become helpless for 1 minute. A target made helpless by this ability is conscious but can take no physical actions (except attempting to break free) until the entrapping material is removed. The target can use spells with only verbal components or spell-like abilities if it can make a DC 20 concentration check. An entangled creature can make a Strength check (at the same DC as the entrap saving throw DC) as a full-round action to break free; the DC for a helpless creature is +5 greater than the base saving throw DC. Entrap attacks have a base range of 30 feet.
 
 Destroying the entrapping material frees the creature. A base entrapping material has hardness 5 and 10 hit points.
 
@@ -1727,21 +1727,21 @@ Destroying the entrapping material frees the creature. A base entrapping materia
 - The entrapping material has no hardness (1 AP).
 - The entrap ability can only be used as part of a melee touch attack (1 AP) or melee attack (2 AP).
 
-**Format:** entrap (DC 13, 1d10 minutes, hardness 5, hp 10);**Location:** special attacks and individual attacks.
+**Format:** entrap (DC 13, 1d10 minutes, hardness 5, hp 10); **Location:** special attacks and individual attacks.
 
 ### Evasion (EX, 4 AP)
 
-**Prerequisite:** none;**Benefit:** The creature has evasion, as the rogue ability of the same name.
+**Prerequisite:** none; **Benefit:** The creature has evasion, as the rogue ability of the same name.
 
 **Enhancements**
 
 - The creature gains improved evasion, as the advanced rogue talent of the same name for an additional +4 AP.
 
-**Format:** evasion;**Location:** Defensive Abilities.
+**Format:** evasion; **Location:** Defensive Abilities.
 
 ### Fast Healing (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with the fast healing special quality regains 1 hit point per round. Except where noted here, fast healing is just like natural healing. Fast healing does not restore hit points lost from starvation, thirst, or suffocation, nor does it allow a creature to regrow lost body parts. It does not allow lost body parts to be reattached. Fast healing continues to function (even at negative hit points) until a creature dies, at which point the effects of fast healing end immediately.
+**Prerequisite:** none; **Benefit:** A creature with the fast healing special quality regains 1 hit point per round. Except where noted here, fast healing is just like natural healing. Fast healing does not restore hit points lost from starvation, thirst, or suffocation, nor does it allow a creature to regrow lost body parts. It does not allow lost body parts to be reattached. Fast healing continues to function (even at negative hit points) until a creature dies, at which point the effects of fast healing end immediately.
 
 **Enhancements**
 
@@ -1752,11 +1752,11 @@ Destroying the entrapping material frees the creature. A base entrapping materia
 
 - The creature’s fast healing only operates under certain conditions, such as when the creature is submerged in water or within 30 feet of a creature suffering from a fear effect (1 AP).
 
-**Format:** fast healing 5;**Location:** hp.
+**Format:** fast healing 5; **Location:** hp.
 
 ### Fear (SU Or SP, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with the fear ability possesses a fear attack, fear cone, or fear ray (chosen when the ability is taken). Fear causes creatures affected to make a Will save (DC 10 + 1/2 fearsome creature’s racial HD + creature’s Cha modifier) or become shaken for 1 round.
+**Prerequisite:** none; **Benefit:** A creature with the fear ability possesses a fear attack, fear cone, or fear ray (chosen when the ability is taken). Fear causes creatures affected to make a Will save (DC 10 + 1/2 fearsome creature’s racial HD + creature’s Cha modifier) or become shaken for 1 round.
 
 A fear attack affects any creature hit with the attack type. A fear cone affects all creatures in a 30-foot-cone. A fear ray affects a creature hit with a ranged touch attack. A fear cone or ray requires a standard action to use. This is a mind-affecting fear effect.
 
@@ -1768,13 +1768,13 @@ A fear attack affects any creature hit with the attack type. A fear cone affects
 - Creatures that fail their save against the fear effect are paralyzed for the duration for an additional +6 AP.
 - The fear effect is a 20-foot-radius aura instead of an attack, cone, or ray for an additional +1 AP. The range of the fear effect (aura) is increased to 30-feet for +2 AP, 50-feet for +3 AP, or 100-feet for +4 AP.
 
-**Format:** fear aura (30 ft., DC 17);**Location:** Aura.
-**Format:** fear cone (50 ft., DC 19);**Location:** Special Attacks.
-**Format:** fear;**Location:** Individual Attacks.
+**Format:** fear aura (30 ft., DC 17); **Location:** Aura.
+**Format:** fear cone (50 ft., DC 19); **Location:** Special Attacks.
+**Format:** fear; **Location:** Individual Attacks.
 
 ### Ferocity (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with ferocity remains conscious and can continue fighting even if its hit point total is below 0. The creature is still staggered and loses 1 hit point each round. A creature with ferocity still dies when its hit point total reaches a negative amount equal to its Constitution score. Creatures that do not possess a Constitution score may not possess the ferocity ability.
+**Prerequisite:** none; **Benefit:** A creature with ferocity remains conscious and can continue fighting even if its hit point total is below 0. The creature is still staggered and loses 1 hit point each round. A creature with ferocity still dies when its hit point total reaches a negative amount equal to its Constitution score. Creatures that do not possess a Constitution score may not possess the ferocity ability.
 
 **Enhancements**
 
@@ -1782,11 +1782,11 @@ A fear attack affects any creature hit with the attack type. A fear cone affects
 - The creature is not staggered when reduced to negative hit points for an additional +2 AP.
 - The creature remains alive and can continue to act for 1 round after any effect or damage results in its death for an additional +2 AP. It is not staggered for this final round of action.
 
-**Format:** ferocity;**Location:** Defensive Abilities.
+**Format:** ferocity; **Location:** Defensive Abilities.
 
 ### Flight (EX Or SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability can cease or resume flight as a free action. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to fly for as long as the antimagic effect persists. A creature has a base fly speed equal to its base speed and average maneuverability. A creature with a fly speed gains the Fly skill as a class skill.
+**Prerequisite:** none; **Benefit:** A creature with this ability can cease or resume flight as a free action. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to fly for as long as the antimagic effect persists. A creature has a base fly speed equal to its base speed and average maneuverability. A creature with a fly speed gains the Fly skill as a class skill.
 
 **Enhancements**
 
@@ -1797,27 +1797,27 @@ A fear attack affects any creature hit with the attack type. A fear cone affects
 
 - The creature has poor maneuverability (1 AP) or clumsy maneuverability (2 AP).
 
-**Format:** fly 30 ft. (average);**Location:** Speed.
+**Format:** fly 30 ft. (average); **Location:** Speed.
 
 ### Freeze (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** The creature can hold itself so still it appears to be inanimate and unthreatening (a statue, patch of fungus, etc.). The creature can take 20 on its Stealth check to hide in plain sight as this kind of inanimate object. Appropriate skill checks (such as Knowledge [nature] or Survival) may be optionally used to notice the creature.
+**Prerequisite:** none; **Benefit:** The creature can hold itself so still it appears to be inanimate and unthreatening (a statue, patch of fungus, etc.). The creature can take 20 on its Stealth check to hide in plain sight as this kind of inanimate object. Appropriate skill checks (such as Knowledge [nature] or Survival) may be optionally used to notice the creature.
 
-**Format:** freeze (Knowledge [nature]);**Location:** Special Qualities.
+**Format:** freeze (Knowledge [nature]); **Location:** Special Qualities.
 
 ### Frightful Presence (EX, 2)
 
-Prerequisite: none; Benefit: This special quality makes a creature’s very presence unsettling to foes. Activating this ability is a free action that is usually part of an attack or charge. Opponents within range who witness the action may become shaken. The base range is 30-feet, and the duration is 5d6 rounds. This ability affects only opponents with fewer Hit Dice or levels than the creature. An affected opponent can resist the effects with a successful Will save (DC 10 + 1/2 frightful creature’s racial HD + creature’s Cha modifier). An opponent that succeeds on the saving throw is immune to that same creature’s frightful presence for 24 hours. On a failed save, the opponent is shaken, or panicked if they have 4 HD or fewer. Frightful presence is a mind-affecting fear effect.
+**Prerequisite:** none; Benefit: This special quality makes a creature’s very presence unsettling to foes. Activating this ability is a free action that is usually part of an attack or charge. Opponents within range who witness the action may become shaken. The base range is 30-feet, and the duration is 5d6 rounds. This ability affects only opponents with fewer Hit Dice or levels than the creature. An affected opponent can resist the effects with a successful Will save (DC 10 + 1/2 frightful creature’s racial HD + creature’s Cha modifier). An opponent that succeeds on the saving throw is immune to that same creature’s frightful presence for 24 hours. On a failed save, the opponent is shaken, or panicked if they have 4 HD or fewer. Frightful presence is a mind-affecting fear effect.
 
 **Enhancements**
 
 - The range of the frightening presence is increased to 60-feet for an additional +1 AP, 100-feet for +2 AP, 200-feet for +3 AP, or 300-feet for +4 AP.
 
-**Format:** frightful presence (60 ft., DC 21);**Location:** Aura.
+**Format:** frightful presence (60 ft., DC 21); **Location:** Aura.
 
 ### Gaze (SU, VARIES)
 
-**Prerequisite:** none;**Benefit:** A gaze special attack takes effect when foes look at the creature. The effects of the gaze must mirror some non-beneficial targeted spell effect such as charm person or flesh to stone, and has a caster level equal to the creature’s HD. The gaze attack costs a number of APs equal to the equivalent spell-level of the effect. If the proposed gaze attack does not mimic an existing spell-effect, then assign it an equivalent spell-level for the purposes of AP cost.
+**Prerequisite:** none; **Benefit:** A gaze special attack takes effect when foes look at the creature. The effects of the gaze must mirror some non-beneficial targeted spell effect such as charm person or flesh to stone, and has a caster level equal to the creature’s HD. The gaze attack costs a number of APs equal to the equivalent spell-level of the effect. If the proposed gaze attack does not mimic an existing spell-effect, then assign it an equivalent spell-level for the purposes of AP cost.
 
 The effect operates out to a range of 30-feet and creatures are allowed a save per the spell description (DC 10 + 1/2 gazing creature’s racial HD + creature’s Cha modifier). If the spell does not normally allow a saving throw, the targets are allowed a Fortitude save. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order. Only looking directly at a creature with a gaze attack leaves an opponent vulnerable. Opponents can avoid the need to make the saving throw by not looking at the creature, in one of two ways.
 
@@ -1836,11 +1836,11 @@ Gaze attacks can affect ethereal opponents. A creature is immune to gaze attacks
 - The creature is not immune to its own gaze attack or the gaze attack of creatures of its kind. If it looks upon itself in a reflection, it is subject to its own gaze attack, but always counts as averting its eyes (2 AP).
 - The negative effects of the creature’s gaze can be removed by exposing the affected creature to some specific, but relatively common curative. The curative sometimes incorporates portions of the gazing creature’s body (1 AP).
 
-**Format:** gaze;**Location:** Special Attacks.
+**Format:** gaze; **Location:** Special Attacks.
 
 ### Grab (EX, 1 AP)
 
-**Prerequisite:** natural attack;**Benefit:** Select one natural attack type. If a creature with this special attack hits with the indicated attack, it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity. Grab can only be used against targets of a size equal to or smaller than the creature with this ability. The creature has the option to conduct the grapple normally, or simply use the part of its body it used in the grab to hold the opponent. If it chooses to do the latter, it takes a –20 penalty on its CMB check to make and maintain the grapple, but does not gain the grappled condition itself.
+**Prerequisite:** natural attack; **Benefit:** Select one natural attack type. If a creature with this special attack hits with the indicated attack, it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity. Grab can only be used against targets of a size equal to or smaller than the creature with this ability. The creature has the option to conduct the grapple normally, or simply use the part of its body it used in the grab to hold the opponent. If it chooses to do the latter, it takes a –20 penalty on its CMB check to make and maintain the grapple, but does not gain the grappled condition itself.
 
 A successful hold does not deal any extra damage unless the creature also has the constrict special attack. If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage indicated for the attack that established the hold. Otherwise, it deals constriction damage as well (the amount is given in the creature’s descriptive text). Creatures with the grab special attack receive a +4 bonus on combat maneuver checks made to start and maintain a grapple.
 
@@ -1849,11 +1849,11 @@ A successful hold does not deal any extra damage unless the creature also has th
 - The creature may attempt to grab creatures that are one size category larger for an additional +1 AP, or any size for +2 AP.
 - The creature does not gain the grapple condition when it grapples a foe at no penalty for an additional +5 AP.
 
-**Format:** grab;**Location:** individual attacks.
+**Format:** grab; **Location:** individual attacks.
 
 ### Hatred (EX, 1 AP)
 
-**Prerequisites:** none;**Benefit:** The creature receives a +1 bonus on attack rolls against two creature subtypes, chosen when the ability is taken.
+**Prerequisites:** none; **Benefit:** The creature receives a +1 bonus on attack rolls against two creature subtypes, chosen when the ability is taken.
 
 **Enhancements**
 
@@ -1865,17 +1865,17 @@ A successful hold does not deal any extra damage unless the creature also has th
 
 - The creature only gains the hatred bonus against a single creature subtype (1 AP).
 
-**Format:** hatred;**Location:** Special Attacks
+**Format:** hatred; **Location:** Special Attacks
 
 ### Hold Breath (EX, 0 AP)
 
-**Prerequisite:** none;**Benefit:** The creature can hold its breath for a number of minutes equal to 6 times its Constitution score before it risks drowning.
+**Prerequisite:** none; **Benefit:** The creature can hold its breath for a number of minutes equal to 6 times its Constitution score before it risks drowning.
 
-**Format:** hold breath;**Location:** Special Qualities.
+**Format:** hold breath; **Location:** Special Qualities.
 
 ### Immunity (EX Or SU, 5 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with immunities takes no damage from listed sources. The base cost of immunity assumes broad or reaching scope such as elemental damage (acid, cold, electricity, or fire), effects that allow a Fortitude save, any mind-affecting effect, or a school of magic. A creature that is immune does not suffer from these effects, or any secondary effects that are triggered due to an immune effect. Each time the immunity ability is taken, it applies to a separate source.
+**Prerequisite:** none; **Benefit:** A creature with immunities takes no damage from listed sources. The base cost of immunity assumes broad or reaching scope such as elemental damage (acid, cold, electricity, or fire), effects that allow a Fortitude save, any mind-affecting effect, or a school of magic. A creature that is immune does not suffer from these effects, or any secondary effects that are triggered due to an immune effect. Each time the immunity ability is taken, it applies to a separate source.
 
 **Enhancements**
 
@@ -1886,11 +1886,11 @@ A successful hold does not deal any extra damage unless the creature also has th
 - The immunity is rarely encountered, such as (but not limited to) a school of magic, poison, sonic damage, or force affects (2 AP).
 - The immunity is extremely rare or from a relatively unthreatening effect, such as (but not limited to) a single spell or subschool of magic, disease, fear, or sleep effects (4 AP).
 
-**Format:** Immune acid, fire, paralysis;**Location:** Defensive Abilities.
+**Format:** Immune acid, fire, paralysis; **Location:** Defensive Abilities.
 
 ### Improved Ability Score (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** Some creatures have higher ability scores than their role might suggest. Increase any one of the creature’s ability scores by +2. This increase has no modifier type and simply modifies the base ability score of the creature. This ability may be taken multiple times, but each time applies to a different ability score.
+**Prerequisite:** none; **Benefit:** Some creatures have higher ability scores than their role might suggest. Increase any one of the creature’s ability scores by +2. This increase has no modifier type and simply modifies the base ability score of the creature. This ability may be taken multiple times, but each time applies to a different ability score.
 
 When designing creatures with the Talented Bestiary, try to avoid the temptation to alter statistics unless it is necessary. Gross adjustments could cause the monster to have disproportional statistics for a given CR.
 
@@ -1901,13 +1901,13 @@ When designing creatures with the Talented Bestiary, try to avoid the temptation
 
 ### Improved Tracking (EX, 1 AP)
 
-**Prerequisites:** none;**Benefit:** The creature takes no penalty to Survival checks when tracking and moving at any speed.
+**Prerequisites:** none; **Benefit:** The creature takes no penalty to Survival checks when tracking and moving at any speed.
 
-**Format:** improved tracking;**Location:** SQ.
+**Format:** improved tracking; **Location:** SQ.
 
 ### Incorporeal (EX, 0 AP)
 
-**Prerequisite:** incorporeal subtype;**Benefit:** A creature with the incorporeal subtype automatically gains the incorporeal ability, a fly speed equal to its base speed, and loses its base speed. The fly speed begins with good maneuverability, and enhancements/flaws can be applied to it as normal. An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spelllike abilities, or supernatural abilities. It is immune to all nonmagical attack forms. Even when hit by spells or magic weapons, it takes only half damage from a corporeal source (except for channel energy). Although it is not a magical attack, holy water can affect incorporeal undead. Corporeal spells and effects that do not cause damage only have a 50% chance of affecting an incorporeal creature. Force spells and effects, such as from a magic missile, affect an incorporeal creature normally.
+**Prerequisite:** incorporeal subtype; **Benefit:** A creature with the incorporeal subtype automatically gains the incorporeal ability, a fly speed equal to its base speed, and loses its base speed. The fly speed begins with good maneuverability, and enhancements/flaws can be applied to it as normal. An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spelllike abilities, or supernatural abilities. It is immune to all nonmagical attack forms. Even when hit by spells or magic weapons, it takes only half damage from a corporeal source (except for channel energy). Although it is not a magical attack, holy water can affect incorporeal undead. Corporeal spells and effects that do not cause damage only have a 50% chance of affecting an incorporeal creature. Force spells and effects, such as from a magic missile, affect an incorporeal creature normally.
 
 An incorporeal creature has no natural armor bonus but has a deflection bonus equal to its Charisma bonus (always at least +1, even if the creature’s Charisma score does not normally provide a bonus).
 
@@ -1917,43 +1917,43 @@ An incorporeal creature’s attacks pass through (ignore) natural armor, armor, 
 
 An incorporeal creature moves silently and cannot be heard with Perception checks if it doesn’t wish to be. It has no Strength score, so its Dexterity modifier applies to its melee attacks, ranged attacks, and CMB. Nonvisual senses, such as scent and blindsight, are either ineffective or only partly effective with regard to incorporeal creatures. Incorporeal creatures have an innate sense of direction and can move at full speed even when they cannot see.
 
-**Format:** incorporeal;**Location:** Defensive Abilities.
+**Format:** incorporeal; **Location:** Defensive Abilities.
 
 ### Jet (EX, 1 AP)
 
-**Prerequisite:** swim speed;**Benefit:** The creature can swim as a full-round action at its base swim speed plus 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
+**Prerequisite:** swim speed; **Benefit:** The creature can swim as a full-round action at its base swim speed plus 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
 
-**Format:** jet 200 ft.;**Location:** Speed.
+**Format:** jet 200 ft.; **Location:** Speed.
 
 ### Lifesense (SU, 2 AP)
 
-**Prerequisite:** none;**Benefit:** The creature notices and locates living creatures within 60-feet, just as if it possessed the blindsight ability.
+**Prerequisite:** none; **Benefit:** The creature notices and locates living creatures within 60-feet, just as if it possessed the blindsight ability.
 
 **Enhancements**
 
 - The range of the creature’s lifesense is increased to 120 feet for an additional +1 AP, or 300 feet for +2 AP.
 
-**Format:** lifesense;**Location:** Senses.
+**Format:** lifesense; **Location:** Senses.
 
 ### Low-Light Vision (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with low-light vision can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of dim light. It retains the ability to distinguish color and detail under these conditions.
+**Prerequisite:** none; **Benefit:** A creature with low-light vision can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of dim light. It retains the ability to distinguish color and detail under these conditions.
 
-**Format:** low-light vision;**Location:** Senses.
+**Format:** low-light vision; **Location:** Senses.
 
 ### Multiweapon Mastery (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** The creature never takes penalties on its attack rolls when fighting with multiple weapons.
+**Prerequisite:** none; **Benefit:** The creature never takes penalties on its attack rolls when fighting with multiple weapons.
 
 **Enhancements**
 
 - The creature can use a natural attack it possesses as a primary attack in addition to making a full attack with multiple weapons for +1 AP.
 
-**Format:** multiweapon mastery;**Location:** Special Attacks.
+**Format:** multiweapon mastery; **Location:** Special Attacks.
 
 ### Natural Attacks (0 AP)
 
-**Prerequisite:** none;**Benefit:** Most creatures possess one or more natural attacks (attacks made without a weapon). These attacks fall into one of two categories, primary and secondary attacks. Primary attacks are made using the creature’s full base attack bonus and add the creature’s full Strength bonus on damage rolls.
+**Prerequisite:** none; **Benefit:** Most creatures possess one or more natural attacks (attacks made without a weapon). These attacks fall into one of two categories, primary and secondary attacks. Primary attacks are made using the creature’s full base attack bonus and add the creature’s full Strength bonus on damage rolls.
 
 Secondary attacks are made using the creature’s base attack bonus –5 and add only 1/2 the creature’s Strength bonus on damage rolls. If a creature has only one natural attack, it is always made using the creature’s full base attack bonus and adds 1-1/2 the creature’s Strength bonus on damage rolls. This increase does not apply if the creature has multiple attacks but only takes one. If a creature has only one type of attack, but has multiple attacks per round, that attack is treated as a primary attack, regardless of its type. Table: Natural Attack Base Damage by Size lists some of the most common types of natural attacks and their classifications.
 
@@ -1994,23 +1994,23 @@ Note a creature may take any number of attacks with the same attack type, which 
 - The creature’s primary attack is treated as a secondary attack (1 AP).
 - The creature’s attack type does damage as a creature of one or more size categories smaller (1 AP).
 
-**Format:** bite +5 (1d6+1), 2 claws +5 (1d4+2), 4 tentacles +0 (1d4+1);**Location:** Melee and Ranged.
+**Format:** bite +5 (1d6+1), 2 claws +5 (1d4+2), 4 tentacles +0 (1d4+1); **Location:** Melee and Ranged.
 
 ### Natural Invisibility (EX Or SU, 5 AP)
 
-**Prerequisite:** none;**Benefit:** This ability is constant — the creature remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the invisibility purge spell. Against foes that cannot pinpoint it, the creature gains a +20 bonus on Stealth checks when moving, or +40 when standing still.
+**Prerequisite:** none; **Benefit:** This ability is constant — the creature remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the invisibility purge spell. Against foes that cannot pinpoint it, the creature gains a +20 bonus on Stealth checks when moving, or +40 when standing still.
 
-**Format:** natural invisibility;**Location:** Defensive Abilities.
+**Format:** natural invisibility; **Location:** Defensive Abilities.
 
-### Negative Energy Affinity (EX, 0 AP):
+### Negative Energy Affinity (EX, 0 AP)
 
-**Prerequisite:** none;**Benefit:** The creature is alive but is healed by negative energy and harmed by positive energy, as if it were an undead creature.
+**Prerequisite:** none; **Benefit:** The creature is alive but is healed by negative energy and harmed by positive energy, as if it were an undead creature.
 
-**Format:** negative energy affinity;**Location:** Defensive Abilities
+**Format:** negative energy affinity; **Location:** Defensive Abilities
 
 ### Paralysis (EX Or SU, 4 AP)
 
-**Prerequisite:** natural attack;**Benefit:** One of the creature’s natural attacks can render creature’s hit immobile. Paralyzed creatures cannot move, speak, or take any physical actions. The creature is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can resist it with a Fortitude saving throw (DC 10 + 1/2 paralyzing creature’s racial HD + creature’s Con modifier). Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air at the time that it is can’t swim and may drown. The base duration of the paralysis is 1 round.
+**Prerequisite:** natural attack; **Benefit:** One of the creature’s natural attacks can render creature’s hit immobile. Paralyzed creatures cannot move, speak, or take any physical actions. The creature is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can resist it with a Fortitude saving throw (DC 10 + 1/2 paralyzing creature’s racial HD + creature’s Con modifier). Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air at the time that it is can’t swim and may drown. The base duration of the paralysis is 1 round.
 
 **Enhancements**
 
@@ -2023,7 +2023,7 @@ Note a creature may take any number of attacks with the same attack type, which 
 - Creatures affected by the paralysis may attempt a new save each round to end the effect (1 AP).
 - Paralyzation requires the creature to be grappled (1 AP).
 
-**Format:** paralysis (1d4+1 rounds, DC 18);**Location:** Special Attacks and individual attacks.
+**Format:** paralysis (1d4+1 rounds, DC 18); **Location:** Special Attacks and individual attacks.
 
 #### Note on Discretion
 
@@ -2033,7 +2033,7 @@ Paralysis is an excellent case example on how this system can be used to create 
 
 ### Poison (EX Or SU, 2 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability can poison those it attacks. A poison can affect creatures through injury and deals 1d4 ability damage to any non-Constitution ability score (chosen when the ability is taken), has an immediate onset, a frequency of 1/round for 2 rounds, and requires 1 save to cure. The saving throw to resist the poison is a Fortitude save (DC 10 + 1/2 poisoning creature’s racial HD + creature’s Con modifier).
+**Prerequisite:** none; **Benefit:** A creature with this ability can poison those it attacks. A poison can affect creatures through injury and deals 1d4 ability damage to any non-Constitution ability score (chosen when the ability is taken), has an immediate onset, a frequency of 1/round for 2 rounds, and requires 1 save to cure. The saving throw to resist the poison is a Fortitude save (DC 10 + 1/2 poisoning creature’s racial HD + creature’s Con modifier).
 
 Poisons can be removed through neutralize poison and similar effects. The creature may possess multiple methods for delivering a poison (such as purchasing it as both an inhaled for a breath weapon and injury for a bite) for no additional cost.
 
@@ -2057,74 +2057,74 @@ Poisons can be removed through neutralize poison and similar effects. The creatu
 - An injury poison’s frequency is increased from rounds to minutes (1 AP).
 - The poison’s frequency is 1 round (1 AP).
 
-**Format:** Poison Name (Ex) Sting—injury; save Fort DC 22, frequency 1/round for 6 rounds, effect 1d4 Con, cure 2 consecutive saves;**Location:** Special Attacks and individual attacks.
+**Format:** Poison Name (Ex) Sting—injury; save Fort DC 22, frequency 1/round for 6 rounds, effect 1d4 Con, cure 2 consecutive saves; **Location:** Special Attacks and individual attacks.
 
 ### Pounce (EX, 4 AP)
 
-**Prerequisite:** none;**Benefit:** When a creature with this special attack makes a charge, it can make a full attack (including rake attacks if the creature also has the rake ability).
+**Prerequisite:** none; **Benefit:** When a creature with this special attack makes a charge, it can make a full attack (including rake attacks if the creature also has the rake ability).
 
-**Format:** pounce;**Location:** Special Attacks.
+**Format:** pounce; **Location:** Special Attacks.
 
 ### Powerful Charge (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** Select one of the creature’s natural attacks. Whenever the creature charges, it deals twice the number of damage dice with the selected natural attack plus 1-1/2 times its Strength bonus.
+**Prerequisite:** none; **Benefit:** Select one of the creature’s natural attacks. Whenever the creature charges, it deals twice the number of damage dice with the selected natural attack plus 1-1/2 times its Strength bonus.
 
 **Enhancement**
 
 - The creature deals twice its Strength bonus in damage when using powerful charge for an additional +1 AP.
 
-**Format:** powerful charge (gore, 4d8+24);**Location:** Special Attacks.
+**Format:** powerful charge (gore, 4d8+24); **Location:** Special Attacks.
 
 ### Pull (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability can choose to make a free combat maneuver check with a successful attack. If successful, this check pulls a creature 5 feet plus 5 feet for every 5 that the creature exceeds the target’s CMD. This ability only works on creatures of a size equal to or smaller than the pulling creature. Creatures pulled in this way do not provoke attacks of opportunity and stop if the pull would move them into a solid object or creature. This ability must be tied to one of the creature’s natural attacks or abilities that require an attack roll.
+**Prerequisite:** none; **Benefit:** A creature with this ability can choose to make a free combat maneuver check with a successful attack. If successful, this check pulls a creature 5 feet plus 5 feet for every 5 that the creature exceeds the target’s CMD. This ability only works on creatures of a size equal to or smaller than the pulling creature. Creatures pulled in this way do not provoke attacks of opportunity and stop if the pull would move them into a solid object or creature. This ability must be tied to one of the creature’s natural attacks or abilities that require an attack roll.
 
 **Enhancements**
 
 - The creature can pull creatures of any size for an additional +1 AP.
 - The creature pulls targets 10 feet plus 10 feet for every 5 the creature exceeds the target’s CMD for an additional +2 AP.
 
-**Format:** pull (tentacle, 10 ft.);**Location:** Special Attacks and individual attacks.
+**Format:** pull (tentacle, 10 ft.); **Location:** Special Attacks and individual attacks.
 
 ### Push (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with the push ability can choose to make a free combat maneuver check with a successful attack (often a slam attack). If successful, this check pushes a creature directly away 5 feet plus 5 feet for every 5 that the creature exceeds the target’s CMD, as with a bull rush. This ability only works on creatures of a size equal to or smaller than the pushing creature. Creatures pushed in this way do not provoke attacks of opportunity and stop if the push would move them into a solid object or creature.
+**Prerequisite:** none; **Benefit:** A creature with the push ability can choose to make a free combat maneuver check with a successful attack (often a slam attack). If successful, this check pushes a creature directly away 5 feet plus 5 feet for every 5 that the creature exceeds the target’s CMD, as with a bull rush. This ability only works on creatures of a size equal to or smaller than the pushing creature. Creatures pushed in this way do not provoke attacks of opportunity and stop if the push would move them into a solid object or creature.
 
 **Enhancements**
 
 - The creature can push creatures of any size for an additional +1 AP.
 - The creature can push targets 10 feet plus 10 feet for every 5 that the creature exceeds the target’s CMD for an additional +2 AP.
 
-**Format:** push (slam, 10 feet);**Location:** Special Attacks and individual attacks.
+**Format:** push (slam, 10 feet); **Location:** Special Attacks and individual attacks.
 
 ### Quadruped (EX, 0 AP)
 
-**Prerequisite:** none;**Benefit:** The creature has four legs. This gives it a +4 bonus to CMD to resist trip attacks and increases its base speed (see Speed universal monster ability). However, creature’s larger than Medium size have their reach decreased by 5 feet for a creature of their size (a Colossal-sized creature’s reach is decreased by 10 feet).
+**Prerequisite:** none; **Benefit:** The creature has four legs. This gives it a +4 bonus to CMD to resist trip attacks and increases its base speed (see Speed universal monster ability). However, creature’s larger than Medium size have their reach decreased by 5 feet for a creature of their size (a Colossal-sized creature’s reach is decreased by 10 feet).
 
 **Enhancements**
 
 - The creature possesses six (or more) legs and the bonus to resist trip attacks increases by +2 for each additional +1 AP spent.
 - The creature’s reach is not decreased for an additional +1 AP.
 
-**Format:** 10 (14 vs. trip);**Location:** CMD
+**Format:** 10 (14 vs. trip); **Location:** CMD
 
 ### Racial Save DC (EX, 1 AP)
 
-**Prerequisites:** none;**Benefit:** One of the creature’s abilities that offers a saving throw gains a +1 racial bonus to the save DC. This ability can be taken multiple times, each time it adds an additional +1 bonus to one saving throw DC. When designing creatures with the Talented Bestiary, try to avoid the temptation to alter save DCs unless it is necessary. Gross adjustments could cause the monster to have disproportional statistics for a given CR.
+**Prerequisites:** none; **Benefit:** One of the creature’s abilities that offers a saving throw gains a +1 racial bonus to the save DC. This ability can be taken multiple times, each time it adds an additional +1 bonus to one saving throw DC. When designing creatures with the Talented Bestiary, try to avoid the temptation to alter save DCs unless it is necessary. Gross adjustments could cause the monster to have disproportional statistics for a given CR.
 
 ### Racial Skill Modifier (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** The creature receives a +2 racial bonus to any one skill. If this ability is taken so that the skill bonus only applies in conditional situations, then the bonus improves to +4. Craft, Knowledge, and Profession are purchased for specific type and grant a +4 bonus. This ability may be taken multiple times. The AP limit by CR applies for each individual skill bonus, not for the total of all racial skill modifiers. Creatures with the skilled focus pay ½ cost for racial skill modifiers (minimum 1 AP).
+**Prerequisite:** none; **Benefit:** The creature receives a +2 racial bonus to any one skill. If this ability is taken so that the skill bonus only applies in conditional situations, then the bonus improves to +4. Craft, Knowledge, and Profession are purchased for specific type and grant a +4 bonus. This ability may be taken multiple times. The AP limit by CR applies for each individual skill bonus, not for the total of all racial skill modifiers. Creatures with the skilled focus pay ½ cost for racial skill modifiers (minimum 1 AP).
 
 **Enhancements**
 
 - The creature applies a different ability score modifier to the skill than normal in certain situations for an additional +1 AP. For example, applying Strength modifiers to Acrobatics checks made to jump. For an additional +2 AP the alternative ability score applies to all ability checks with the skill.
 
-**Format:**+16 Acrobatics when jumping;**Location:** Racial Modifiers
+**Format:** +16 Acrobatics when jumping; **Location:** Racial Modifiers
 
 ### Rake (EX, 3 AP)
 
-**Prerequisite:** quadruped;**Benefit:** A creature with this special attack gains extra natural attacks when it grapples its foe. In addition to the options available to all grapplers, a monster with the rake ability gains two free natural attacks that it can use only against a grappled foe. The bonus and damage caused by these attacks are normal for a creature of its size. A monster with the rake ability must begin its turn already grappling to use its rake — it can’t begin a grapple and rake in the same turn.
+**Prerequisite:** quadruped; **Benefit:** A creature with this special attack gains extra natural attacks when it grapples its foe. In addition to the options available to all grapplers, a monster with the rake ability gains two free natural attacks that it can use only against a grappled foe. The bonus and damage caused by these attacks are normal for a creature of its size. A monster with the rake ability must begin its turn already grappling to use its rake — it can’t begin a grapple and rake in the same turn.
 
 **Enhancements**
 
@@ -2135,17 +2135,17 @@ Poisons can be removed through neutralize poison and similar effects. The creatu
 - The additional attack damage is for a creature of one size category smaller (1 AP) or two size categories smaller (2 AP).
 - The additional attacks are treated as secondary attacks regardless of the form they take (1 AP).
 
-**Format:** rake (2 claws +8, 1d4+2);**Location:** Special Attacks.
+**Format:** rake (2 claws +8, 1d4+2); **Location:** Special Attacks.
 
 ### Reach (EX, 2 AP)
 
-**Prerequisite:** none;**Benefit:** One of the creature’s natural attacks is capable of extending or reaching further than normal for a creature of its size. The natural attack has its reach extended by 5 feet per 2 AP spent. If the creature is Colossal in size, it can increase both space and reach by 5 feet for every 2 AP spent, or just space for every 1 AP spent.
+**Prerequisite:** none; **Benefit:** One of the creature’s natural attacks is capable of extending or reaching further than normal for a creature of its size. The natural attack has its reach extended by 5 feet per 2 AP spent. If the creature is Colossal in size, it can increase both space and reach by 5 feet for every 2 AP spent, or just space for every 1 AP spent.
 
-**Format:** 0 ft. (5 ft. with tail);**Location:** Reach
+**Format:** 0 ft. (5 ft. with tail); **Location:** Reach
 
 ### Regeneration (EX, 3 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability is difficult to kill. Creatures with regeneration heal 1 hit point of damage per round, as with fast healing, but they cannot die so long as their regeneration is still functioning (although creatures with regeneration still fall unconscious when their hit points are below 0). Fire and acid cause a creature’s regeneration to stop functioning on the round following the attack. During this round, the creature does not heal any damage and can die normally.
+**Prerequisite:** none; **Benefit:** A creature with this ability is difficult to kill. Creatures with regeneration heal 1 hit point of damage per round, as with fast healing, but they cannot die so long as their regeneration is still functioning (although creatures with regeneration still fall unconscious when their hit points are below 0). Fire and acid cause a creature’s regeneration to stop functioning on the round following the attack. During this round, the creature does not heal any damage and can die normally.
 
 Attack forms that don’t deal hit point damage are not healed by regeneration. Regeneration also does not restore hit points lost from starvation, thirst, or suffocation. Regenerating creatures can regrow lost portions of their bodies and can reattach severed limbs or body parts if they are brought together within 1 hour of severing. Severed parts that are not reattached wither and die normally.
 
@@ -2161,17 +2161,17 @@ A creature must have a Constitution score to have the regeneration ability.
 
 - The creature gains an additional weakness that nullifies regeneration (1 AP).
 
-**Format:** regeneration 5 (fire, acid);**Location:** hp.
+**Format:** regeneration 5 (fire, acid); **Location:** hp.
 
 ### Rend (EX, 5 AP)
 
 **Prerequisite:** two or more natural attacks; Benefit: If the creature hits with two or more natural attacks in 1 round, the creature can deal additional damage, but no more than once per round. The additional damage is equal to the damage caused by one of the attacks plus 1-1/2 the creature’s Strength bonus.
 
-**Format:** rend (2 claws, 1d8+9);**Location:** Special Attacks.
+**Format:** rend (2 claws, 1d8+9); **Location:** Special Attacks.
 
 ### Resistance (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this special quality ignores 5 points of damage of the indicated type each time it takes damage of that kind (acid, cold, electricity, or fire).
+**Prerequisite:** none; **Benefit:** A creature with this special quality ignores 5 points of damage of the indicated type each time it takes damage of that kind (acid, cold, electricity, or fire).
 
 **Enhancements**
 
@@ -2181,31 +2181,31 @@ A creature must have a Constitution score to have the regeneration ability.
 
 - The creature’s resistance is an energy type that is more rarely encountered, such as sonic or negative energy (1 AP).
 
-**Format:** Resist acid 10;**Location:** Defensive Abilities.
+**Format:** Resist acid 10; **Location:** Defensive Abilities.
 
 ### Rock Catching (EX, 1 AP)
 
-**Prerequisite:** Large size or larger, rock throwing;**Benefit:** The creature can catch Small, Medium, or Large rocks (or projectiles of similar shape). Once per round, a creature that would normally be hit by a rock can make a Reflex save to catch it as a free action. The DC is 15 for a Small rock, 20 for a Medium one, and 25 for a Large one. (If the projectile provides a magical bonus on attack rolls, the DC increases by that amount.) The creature must be aware of the attack to make a rock catching attempt.
+**Prerequisite:** Large size or larger, rock throwing; **Benefit:** The creature can catch Small, Medium, or Large rocks (or projectiles of similar shape). Once per round, a creature that would normally be hit by a rock can make a Reflex save to catch it as a free action. The DC is 15 for a Small rock, 20 for a Medium one, and 25 for a Large one. (If the projectile provides a magical bonus on attack rolls, the DC increases by that amount.) The creature must be aware of the attack to make a rock catching attempt.
 
 **Enhancements**
 
 - The creature gains a +4 racial bonus on its Reflex save when catching a rock with rock catching for an additional +1 AP.
 
-**Format:** rock catching;**Location:** Defensive Abilities.
+**Format:** rock catching; **Location:** Defensive Abilities.
 
 ### Rock Throwing (EX, 3 AP)
 
-**Prerequisite:** slam attack;**Benefit:** This creature is an accomplished rock thrower and has a +1 racial bonus on attack rolls with thrown rocks. A creature can hurl rocks up to two categories smaller than its size; for example, a Large hill giant can hurl Small rocks. A “rock” is any large, bulky, and relatively regularly shaped object made of any material with a hardness of at least 5. The creature can hurl the rock up to five range increments. Damage from a thrown rock is twice the creature’s base slam damage plus 1-1/2 its Strength bonus. The base range of a thrown rock is 30 feet for a Medium-sized or smaller creature or 100 feet for a Large-sized or larger creature.
+**Prerequisite:** slam attack; **Benefit:** This creature is an accomplished rock thrower and has a +1 racial bonus on attack rolls with thrown rocks. A creature can hurl rocks up to two categories smaller than its size; for example, a Large hill giant can hurl Small rocks. A “rock” is any large, bulky, and relatively regularly shaped object made of any material with a hardness of at least 5. The creature can hurl the rock up to five range increments. Damage from a thrown rock is twice the creature’s base slam damage plus 1-1/2 its Strength bonus. The base range of a thrown rock is 30 feet for a Medium-sized or smaller creature or 100 feet for a Large-sized or larger creature.
 
 **Enhancements**
 
 - The range of the thrown rock is increased by 40 feet per +1 AP spent.
 
-**Format:** rock throwing (140 ft.);**Location:** Special Attacks (damage is listed in Ranged attack).
+**Format:** rock throwing (140 ft.); **Location:** Special Attacks (damage is listed in Ranged attack).
 
 ### Scent (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** This special quality allows a creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell. Creatures with the scent ability can identify familiar odors just as humans do familiar sights. The creature can detect opponents within 30 feet by sense of smell. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range.
+**Prerequisite:** none; **Benefit:** This special quality allows a creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell. Creatures with the scent ability can identify familiar odors just as humans do familiar sights. The creature can detect opponents within 30 feet by sense of smell. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range.
 
 When a creature detects a scent, the exact location of the source is not revealed — only its presence somewhere within range. The creature can take a move action to note the direction of the scent. When the creature is within 5 feet of the source, it pinpoints the source’s location.
 
@@ -2219,27 +2219,27 @@ A creature with the scent ability can follow tracks by smell, making a Wisdom (o
 
 - The creature’s scent is only effective against a single type of source, such as metal or blood (2 AP).
 
-**Format:** scent;**Location:** Senses.
+**Format:** scent; **Location:** Senses.
 
 ### Serpentine (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** The creature has a snake-like body and method of locomotion, or otherwise moves without requiring legs. This reduces the creature’s base speed by 10 feet, but makes it immune to trip attacks. Creature’s larger than Medium size have their reach decreased by 5 feet for a creature of their size (a Colossal-sized creature’s reach is decreased by 10 feet).
+**Prerequisite:** none; **Benefit:** The creature has a snake-like body and method of locomotion, or otherwise moves without requiring legs. This reduces the creature’s base speed by 10 feet, but makes it immune to trip attacks. Creature’s larger than Medium size have their reach decreased by 5 feet for a creature of their size (a Colossal-sized creature’s reach is decreased by 10 feet).
 
 **Enhancements**
 
 - The creature’s reach is not decreased for an additional +1 AP.
 
-**Format:** 10 (can’t be tripped);**Location:** CMD
+**Format:** 10 (can’t be tripped); **Location:** CMD
 
 ### Sound Mimicry (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** The creature perfectly imitates certain sounds or even specific voices. The creature makes a Bluff check opposed by the listener’s Sense Motive check to recognize the mimicry, although if the listener isn’t familiar with the person or type of creatures mimicked, it takes a –8 penalty on its Sense Motive check. The creature has a +8 racial bonus on its Bluff check to mimic sounds (including accents and speech patterns, if a voice mimic) it has listened to for at least 10 minutes. The creature cannot duplicate the effects of magical abilities (such as bardic performance or a harpy’s captivating song), though it may be able to mimic the sound of those abilities. This ability does not allow the creature to speak or understand languages it doesn’t know.
+**Prerequisite:** none; **Benefit:** The creature perfectly imitates certain sounds or even specific voices. The creature makes a Bluff check opposed by the listener’s Sense Motive check to recognize the mimicry, although if the listener isn’t familiar with the person or type of creatures mimicked, it takes a –8 penalty on its Sense Motive check. The creature has a +8 racial bonus on its Bluff check to mimic sounds (including accents and speech patterns, if a voice mimic) it has listened to for at least 10 minutes. The creature cannot duplicate the effects of magical abilities (such as bardic performance or a harpy’s captivating song), though it may be able to mimic the sound of those abilities. This ability does not allow the creature to speak or understand languages it doesn’t know.
 
-**Format:** sound mimicry (voices);**Location:** Special Qualities.
+**Format:** sound mimicry (voices); **Location:** Special Qualities.
 
 ### Speed (EX, 0 AP)
 
-**Prerequisite:** none;**Benefit:** A Medium sized or larger biped has a base speed of 30 feet. A Medium sized or larger quadruped has a base speed of 40 feet. Small-sized and smaller creatures have a base speed of 20 feet, or 30 feet for quadrupeds.
+**Prerequisite:** none; **Benefit:** A Medium sized or larger biped has a base speed of 30 feet. A Medium sized or larger quadruped has a base speed of 40 feet. Small-sized and smaller creatures have a base speed of 20 feet, or 30 feet for quadrupeds.
 
 **Enhancements**
 
@@ -2251,7 +2251,7 @@ A creature with the scent ability can follow tracks by smell, making a Wisdom (o
 
 ### Spell-Like Abilities (SP, VARIES)
 
-**Prerequisite:** none;**Benefit:** Spell-like abilities are magical and work just like spells (though they are not spells and so have no verbal, somatic, focus, or material components). They are suppressed in an antimagic field and are subject to spell resistance if the spell the ability is based on would be subject to spell resistance.
+**Prerequisite:** none; **Benefit:** Spell-like abilities are magical and work just like spells (though they are not spells and so have no verbal, somatic, focus, or material components). They are suppressed in an antimagic field and are subject to spell resistance if the spell the ability is based on would be subject to spell resistance.
 
 Spell-like abilities can be purchased for 1 AP per spell-level (0-level spells cost 0 AP before enhancements). The base limit on how often the spell-like ability can be used is 3/day. Using the spell-like ability is a standard action and doing so provokes attacks of opportunity. It is possible to make a concentration check to use a spell-like ability defensively and avoid provoking an attack of opportunity, just as when casting a spell. A spell-like ability can be disrupted just as a spell can be. Spelllike abilities cannot be used to counterspell, nor can they be counterspelled.
 
@@ -2279,7 +2279,7 @@ A creature’s maximum AP per ability per CR applies to each individual spell-li
 - The spell-like ability is only available when two or more (2 AP) or three or more (4 AP) creatures with the spell-like ability with this restriction are within 10 feet of each other and contribute an action to the spellcasting. If a suite of spelllike abilities is purchased with this flaw, the discount is applied to each. Use the minimum caster level and ability score modifier to cast any of the spell-like abilities included, or the highest caster level and ability score modifier of the creatures contributing.
 - The spell-like ability can only be used if certain conditions are met, such as (but not limited to) being used only at the request of another creature or when the caster has access to fuel sources (or material components) (1 AP).
 
-**Format:** At will—burning hands (DC 13);**Location:** Spell-Like Abilities.
+**Format:** At will—burning hands (DC 13); **Location:** Spell-Like Abilities.
 
 #### Hag Covens
 
@@ -2287,7 +2287,7 @@ Hag covens are one of the more complex examples of monster spell-like abilities.
 
 ### Spellcasting (SP, VARIES)
 
-**Prerequisites:** spellcaster focus (arcane or divine);**Benefit:** The spellcaster gains a number of known spells and spells per day as a spellcasting character class with a maximum level equal to the creature’s CR. The creature gains no other benefits of the spellcasting class unless a class feature is necessary for spellcasting (such as a witch’s familiar or a wizard’s spellbook). The creature uses whatever casting ability is appropriate for the spellcasting class as their casting ability (for the purposes of maximum spell-level that can be cast and spell DCs). The spellcasting classes available for this ability are alchemist, bard, cleric, druid, inquisitor, magus, oracle, paladin, ranger, sorcerer, summoner, witch, and wizard, but a creature must have the spellcasting (arcane) focus to cast spells as an arcane spellcasting class or the spellcasting (divine) focus to cast spells as a divine spellcasting class.
+**Prerequisites:** spellcaster focus (arcane or divine); **Benefit:** The spellcaster gains a number of known spells and spells per day as a spellcasting character class with a maximum level equal to the creature’s CR. The creature gains no other benefits of the spellcasting class unless a class feature is necessary for spellcasting (such as a witch’s familiar or a wizard’s spellbook). The creature uses whatever casting ability is appropriate for the spellcasting class as their casting ability (for the purposes of maximum spell-level that can be cast and spell DCs). The spellcasting classes available for this ability are alchemist, bard, cleric, druid, inquisitor, magus, oracle, paladin, ranger, sorcerer, summoner, witch, and wizard, but a creature must have the spellcasting (arcane) focus to cast spells as an arcane spellcasting class or the spellcasting (divine) focus to cast spells as a divine spellcasting class.
 
 Spellcasting costs ½ the level of the equivalent spellcasting character class in AP (after any enhancements or flaws). The spellcasting ability may not be taken multiple times.
 
@@ -2302,7 +2302,7 @@ Spellcasting costs ½ the level of the equivalent spellcasting character class i
 - The creature only gains spellcasting from one of the following classes: paladin or ranger (2 AP). The creature must have a divine spellcasting focus.
 - The creature only gains spellcasting from one of the following classes: alchemist (extracts), bard, inquisitor, magus, or summoner (1 AP)
 
-**Format:** 1st—bless (2);**Location:** Spells Prepared or Spells Known
+**Format:** 1st—bless (2); **Location:** Spells Prepared or Spells Known
 
 #### Note On Spells
 
@@ -2310,7 +2310,7 @@ There are a lot of spells available for a monster to cast, but many of them are 
 
 ### Spell Resistance (EX, 3 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with spell resistance can avoid the effects of spells and spell-like abilities that directly affect it. A creature’s spell resistance is equal to 11 + the creature’s CR. To determine if a spell or spell-like ability works against a creature with spell resistance, the caster must make a caster level check (1d20 + caster level). If the result equals or exceeds the creature’s spell resistance, the spell works normally, although the creature is still allowed a saving throw.
+**Prerequisite:** none; **Benefit:** A creature with spell resistance can avoid the effects of spells and spell-like abilities that directly affect it. A creature’s spell resistance is equal to 11 + the creature’s CR. To determine if a spell or spell-like ability works against a creature with spell resistance, the caster must make a caster level check (1d20 + caster level). If the result equals or exceeds the creature’s spell resistance, the spell works normally, although the creature is still allowed a saving throw.
 
 **Enhancements**
 
@@ -2320,11 +2320,11 @@ There are a lot of spells available for a monster to cast, but many of them are 
 
 - The creature’s spell resistance is equal to 6+ the creature’s CR (2 AP).
 
-**Format:** SR 18;**Location:** Defensive Abilities.
+**Format:** SR 18; **Location:** Defensive Abilities.
 
 ### Split (EX, 7 AP)
 
-**Prerequisite:** none;**Benefit:** The creature splits into two identical copies of itself if subject to one of the following attacks or effects: bludgeoning damage, elemental damage (acid, cold, electricity, or fire), piercing damage, or slashing damage. The creature is immune to the damage type. Each copy has half the original’s current hit points (rounded down). A creature reduced below 10 hit points cannot be further split and can be killed normally.
+**Prerequisite:** none; **Benefit:** The creature splits into two identical copies of itself if subject to one of the following attacks or effects: bludgeoning damage, elemental damage (acid, cold, electricity, or fire), piercing damage, or slashing damage. The creature is immune to the damage type. Each copy has half the original’s current hit points (rounded down). A creature reduced below 10 hit points cannot be further split and can be killed normally.
 
 **Enhancements**
 
@@ -2334,11 +2334,11 @@ There are a lot of spells available for a monster to cast, but many of them are 
 
 - The creature must sustain damage from a single attack or effect of the appropriate type equal to at least ¼ its maximum hit points (1 AP) or ½ its maximum hit points (2 AP) in order to split.
 
-**Format:** split (piercing and slashing);**Location:** Defensive Abilities.
+**Format:** split (piercing and slashing); **Location:** Defensive Abilities.
 
 ### Stench (EX, 3 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with the stench special ability secretes an oily chemical that nearly every other creature finds offensive. All living creatures (except those with the stench special ability) within 30 feet must succeed on a Fortitude save (DC 10 + 1/2 stench creature’s racial HD + creature’s Con modifier) or be sickened for 1 round.
+**Prerequisite:** none; **Benefit:** A creature with the stench special ability secretes an oily chemical that nearly every other creature finds offensive. All living creatures (except those with the stench special ability) within 30 feet must succeed on a Fortitude save (DC 10 + 1/2 stench creature’s racial HD + creature’s Con modifier) or be sickened for 1 round.
 
 Creatures that successfully save cannot be affected by the same creature’s stench for 24 hours. A delay poison or neutralize poison spell removes the effect from the sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws.
 
@@ -2347,17 +2347,17 @@ Creatures that successfully save cannot be affected by the same creature’s ste
 - The duration of the stench is increased to 10 rounds for an additional +1 AP, or 10 minutes for an additional +2 AP.
 - The stench causes creatures to become nauseated instead of sickened for an additional +5 AP, or the stench causes creatures to become nauseated on a failed save and sickened on a successful save for an additional +8 AP.
 
-**Format:** stench (DC 15, 10 rounds);**Location:** Aura.
+**Format:** stench (DC 15, 10 rounds); **Location:** Aura.
 
 ### Strangle (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** An opponent grappled by the creature cannot speak or cast spells with verbal components.
+**Prerequisite:** none; **Benefit:** An opponent grappled by the creature cannot speak or cast spells with verbal components.
 
-**Format:** strangle;**Location:** Special Attacks.
+**Format:** strangle; **Location:** Special Attacks.
 
 ### Stun (EX Or SU, 5 AP)
 
-**Prerequisites:** none;**Benefit:** The creature can deliver powerful stunning blows. A creature struck by the selected attack must make a Fortitude save (DC 10 + ½ the creature’s HD + creature’s Strength modifier) or be stunned for 1 round.
+**Prerequisites:** none; **Benefit:** The creature can deliver powerful stunning blows. A creature struck by the selected attack must make a Fortitude save (DC 10 + ½ the creature’s HD + creature’s Strength modifier) or be stunned for 1 round.
 
 **Enhancements**
 
@@ -2370,7 +2370,7 @@ Creatures that successfully save cannot be affected by the same creature’s ste
 
 ### Swallow Whole (EX Or SU, 2 AP)
 
-**Prerequisite:** grab;**Benefit:** If a creature with this special attack begins its turn with an opponent grappled (see grab), it can attempt a new combat maneuver check (as though attempting to pin the opponent). If it succeeds, it swallows its prey, and the opponent takes damage equal to the grab attack type. The opponent can be up to one size category smaller than the swallowing creature. Being swallowed causes a creature to take 1d6 acid damage each round. A swallowed creature keeps the grappled condition, while the creature that did the swallowing does not. A swallowed creature can try to cut its way free with any light slashing or piercing weapon (the amount of cutting damage required to get free is equal to 1/10 the creature’s total hit points), or it can just try to escape the grapple. The Armor Class of the interior of a creature that swallows whole is 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If a swallowed creature cuts its way out, the swallowing creature cannot use swallow whole again until the damage is healed. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again.
+**Prerequisite:** grab; **Benefit:** If a creature with this special attack begins its turn with an opponent grappled (see grab), it can attempt a new combat maneuver check (as though attempting to pin the opponent). If it succeeds, it swallows its prey, and the opponent takes damage equal to the grab attack type. The opponent can be up to one size category smaller than the swallowing creature. Being swallowed causes a creature to take 1d6 acid damage each round. A swallowed creature keeps the grappled condition, while the creature that did the swallowing does not. A swallowed creature can try to cut its way free with any light slashing or piercing weapon (the amount of cutting damage required to get free is equal to 1/10 the creature’s total hit points), or it can just try to escape the grapple. The Armor Class of the interior of a creature that swallows whole is 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If a swallowed creature cuts its way out, the swallowing creature cannot use swallow whole again until the damage is healed. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again.
 
 **Enhancements**
 
@@ -2388,60 +2388,60 @@ Creatures that successfully save cannot be affected by the same creature’s ste
 - The creature’s stomach deals no acid damage (1 AP).
 - Swallowed creatures do not keep the grappled condition (1 AP).
 
-**Format:** fast swallow, swallow whole (5d6 acid damage, AC 15, 18 hp);**Location:** Special Attacks.
+**Format:** fast swallow, swallow whole (5d6 acid damage, AC 15, 18 hp); **Location:** Special Attacks.
 
 ### Swim Speed (EX Or SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this ability gains a swim speed equal to ½ the creature’s base speed and a +8 racial bonus on Swim checks. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to swim for as long as the antimagic effect persists. If a creature reduces its base speed from the normal base speed for a creature of its size, use the creature’s original base speed for calculating swim speed.
+**Prerequisite:** none; **Benefit:** A creature with this ability gains a swim speed equal to ½ the creature’s base speed and a +8 racial bonus on Swim checks. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to swim for as long as the antimagic effect persists. If a creature reduces its base speed from the normal base speed for a creature of its size, use the creature’s original base speed for calculating swim speed.
 
 **Enhancements**
 
 - The creature’s swim speed is increased to its base speed for an additional +1 AP, base speed x1.5 for +2 AP, base speed x2 +3 AP, base speed x4 for +4 AP, and base speed x6 for +5 AP.
 
-**Format:** swim 30 ft.;**Location:** Speed.
+**Format:** swim 30 ft.; **Location:** Speed.
 
 ### Telepathy (SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** The creature can mentally communicate with any other creature within 60 feet that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as simultaneously speaking and listening to multiple people at the same time.
+**Prerequisite:** none; **Benefit:** The creature can mentally communicate with any other creature within 60 feet that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as simultaneously speaking and listening to multiple people at the same time.
 
 **Enhancements**
 
 - The range of the creature’s telepathy increases to 100 feet for +1 AP or 300 feet for +2 AP.
 
-**Format:** telepathy 100 ft.;**Location:** Languages.
+**Format:** telepathy 100 ft.; **Location:** Languages.
 
 ### Terrain Stride (EX, 1 AP)
 
-**Prerequisites:** none;**Benefit:** The creature can move through one type of natural difficult terrain (cold, desert, forest, jungle, mountain, plains, swamp, underground, urban, or water) at its normal speed. Magically altered terrain affects the creature normally. This ability can be taken multiple times, each time it applies to a new type of terrain.
+**Prerequisites:** none; **Benefit:** The creature can move through one type of natural difficult terrain (cold, desert, forest, jungle, mountain, plains, swamp, underground, urban, or water) at its normal speed. Magically altered terrain affects the creature normally. This ability can be taken multiple times, each time it applies to a new type of terrain.
 
 **Enhancements**
 
 - The creature does not leave a trail in its chosen terrain and cannot be tracked for an additional +1 AP. The creature can leave a trail, if it so desires.
 
-**Format:** swamp stride;**Location:** SQ
+**Format:** swamp stride; **Location:** SQ
 
 ### Timeless (EX, 2 AP)
 
-**Prerequisites:** none;**Benefit:** The creature does not age, or need to drink, eat, breathe, or sleep. It may drink, eat, breathe, or sleep if it chooses to do so.
+**Prerequisites:** none; **Benefit:** The creature does not age, or need to drink, eat, breathe, or sleep. It may drink, eat, breathe, or sleep if it chooses to do so.
 
 **Flaws**
 
 - The creature either doesn’t age, drink, eat, breathe, or sleep, select one (1 AP).
 - The creature may not drink, eat, breathe, or sleep (1 AP).
 
-**Format:** timeless;**Location:** Special Qualities.
+**Format:** timeless; **Location:** Special Qualities.
 
 ### Trample (EX, 1 AP)
 
-**Prerequisite:** natural attack;**Benefit:** As a full-round action, a creature with the trample ability can attempt to overrun any creature that is at least one size category smaller than itself. This works just like the overrun combat maneuver, but the trampling creature does not need to make a check, it merely has to move over opponents in its path. Targets of a trample take an amount of damage equal to one of the creature’s natural attacks + 1-1/2 times its Str modifier. Targets of a trample can make an attack of opportunity, but at a –4 penalty. If targets forgo an attack of opportunity, they can attempt to avoid the trampling creature and receive a Reflex save to take half damage.
+**Prerequisite:** natural attack; **Benefit:** As a full-round action, a creature with the trample ability can attempt to overrun any creature that is at least one size category smaller than itself. This works just like the overrun combat maneuver, but the trampling creature does not need to make a check, it merely has to move over opponents in its path. Targets of a trample take an amount of damage equal to one of the creature’s natural attacks + 1-1/2 times its Str modifier. Targets of a trample can make an attack of opportunity, but at a –4 penalty. If targets forgo an attack of opportunity, they can attempt to avoid the trampling creature and receive a Reflex save to take half damage.
 
 The save DC against a creature’s trample attack is 10 + 1/2 creature’s HD + creature’s Str modifier. A trampling creature can only deal trampling damage to each target once per round, no matter how many times its movement takes it over a target creature.
 
-**Format:** trample (2d6+9, DC 20);**Location:** Special Attacks.
+**Format:** trample (2d6+9, DC 20); **Location:** Special Attacks.
 
 ### Traps (EX, 0 AP)
 
-**Prerequisites:** none;**Benefit:** The creature is adept at creating traps. Craft (trapmaking) becomes a class skill.
+**Prerequisites:** none; **Benefit:** The creature is adept at creating traps. Craft (trapmaking) becomes a class skill.
 
 **Enhancements**
 
@@ -2450,61 +2450,61 @@ The save DC against a creature’s trample attack is 10 + 1/2 creature’s HD + 
 
 ### Tremorsense (Ex, 1 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with tremorsense is sensitive to vibrations in the ground and can automatically pinpoint the location of anything that is in contact with the ground within 30 feet. Aquatic creatures with tremorsense can also sense the location of creatures moving through water.
+**Prerequisite:** none; **Benefit:** A creature with tremorsense is sensitive to vibrations in the ground and can automatically pinpoint the location of anything that is in contact with the ground within 30 feet. Aquatic creatures with tremorsense can also sense the location of creatures moving through water.
 
 **Enhancements**
 
 - The range of the creature’s tremorsense is increased to 60 feet for an additional +1 AP, 120 feet for +2 AP, and 300 feet for +3 AP.
 
-**Format:** tremorsense 60 ft.;**Location:** Senses.
+**Format:** tremorsense 60 ft.; **Location:** Senses.
 
 ### Trip (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** Select one of the creature’s natural or weapon attacks. A creature with the trip special attack can attempt to trip its opponent as a free action without provoking an attack of opportunity if it hits with the specified attack. If the attempt fails, the creature is not tripped in return.
+**Prerequisite:** none; **Benefit:** Select one of the creature’s natural or weapon attacks. A creature with the trip special attack can attempt to trip its opponent as a free action without provoking an attack of opportunity if it hits with the specified attack. If the attempt fails, the creature is not tripped in return.
 
-**Format:** trip (bite);**Location:** individual attacks.
+**Format:** trip (bite); **Location:** individual attacks.
 
 ### Uncanny Dodge (EX, 2 AP)
 
-**Prerequisites:** none;**Benefit:** This ability functions identically to the rogue ability. If the creature gains uncanny dodge from a class level, it instead gains improved uncanny dodge.
+**Prerequisites:** none; **Benefit:** This ability functions identically to the rogue ability. If the creature gains uncanny dodge from a class level, it instead gains improved uncanny dodge.
 
 **Enhancement**
 
 - The creature gains improved uncanny dodge for an additional +4 AP.
 
-**Format:** uncanny dodge;**Location:** Defensive Abilities
+**Format:** uncanny dodge; **Location:** Defensive Abilities
 
 ### Unnatural Aura (SU, 1 AP)
 
-**Prerequisite:** none;**Benefit:** Animals, whether wild or domesticated, can sense the unnatural presence of the creature at a distance of 30 feet. They do not willingly approach nearer than that and panic if forced to do so unless a master succeeds at a DC 25 Handle Animal, Ride, or wild empathy check. A panicked animal remains so long as it’s within 30 feet of the creature.
+**Prerequisite:** none; **Benefit:** Animals, whether wild or domesticated, can sense the unnatural presence of the creature at a distance of 30 feet. They do not willingly approach nearer than that and panic if forced to do so unless a master succeeds at a DC 25 Handle Animal, Ride, or wild empathy check. A panicked animal remains so long as it’s within 30 feet of the creature.
 
-**Format:** unnatural aura (30 ft.);**Location:** Aura.
+**Format:** unnatural aura (30 ft.); **Location:** Aura.
 
 ### Water Breathing (EX, 0 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this special ability can breathe underwater indefinitely. It can freely use any breath weapon, spells, or other abilities while submerged.
+**Prerequisite:** none; **Benefit:** A creature with this special ability can breathe underwater indefinitely. It can freely use any breath weapon, spells, or other abilities while submerged.
 
-**Format:** water breathing;**Location:** SQ.
+**Format:** water breathing; **Location:** SQ.
 
 ### Weapon Mastery (EX, 1 AP)
 
-**Prerequisites:** none;**Benefit:** The creature treats any single weapon as a light weapon for the purposes of two-weapon fighting, and may freely deal lethal or non-lethal damage with the weapon regardless of its type. This ability may be taken multiple times, each time it applies to a different weapon.
+**Prerequisites:** none; **Benefit:** The creature treats any single weapon as a light weapon for the purposes of two-weapon fighting, and may freely deal lethal or non-lethal damage with the weapon regardless of its type. This ability may be taken multiple times, each time it applies to a different weapon.
 
-**Format:** whip mastery;**Location:** SQ
+**Format:** whip mastery; **Location:** SQ
 
 ### Web (EX, 1 AP)
 
-**Prerequisite:** none;**Benefit:** Creatures with the web ability can use webs to support themselves and up to one additional creature of the same size. In addition, such creatures can throw a web up to eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets up to one size category larger than the web spinner. An entangled creature can escape with a successful Escape Artist check or burst the web with a Strength check. Both are standard actions with a DC equal to 10 + 1/2 creature’s HD + creature’s Con modifier. Attempts to burst a web by those caught in it suffer a –4 penalty. Webs have a number of hit points equal to the Hit Dice of the creature that created it.
+**Prerequisite:** none; **Benefit:** Creatures with the web ability can use webs to support themselves and up to one additional creature of the same size. In addition, such creatures can throw a web up to eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets up to one size category larger than the web spinner. An entangled creature can escape with a successful Escape Artist check or burst the web with a Strength check. Both are standard actions with a DC equal to 10 + 1/2 creature’s HD + creature’s Con modifier. Attempts to burst a web by those caught in it suffer a –4 penalty. Webs have a number of hit points equal to the Hit Dice of the creature that created it.
 
 Web spinners can create sheets of sticky webbing up to three times their size. They usually position these sheets to snare flying creatures but can also try to trap prey on the ground. Approaching creatures must succeed on a DC 20 Perception check to notice a web; otherwise they stumble into it and become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot-square section of web has a number of hit points equal to the Hit Dice of the creature that created it and DR 5/—.
 
 A creature can move across its own web at its climb speed and can pinpoint the location of any creature touching its web.
 
-**Format:** web (+8 ranged, DC 16, 5 hp);**Location:** Special Attacks.
+**Format:** web (+8 ranged, DC 16, 5 hp); **Location:** Special Attacks.
 
 ### Whirlwind (SU, 3 AP)
 
-**Prerequisite:** none;**Benefit:** Some creatures can transform themselves into whirlwinds and remain in that form for up to 1 round for every 2 HD they have. If the creature has a fly speed, it can continue to fly at that same speed while in whirlwind form, otherwise it gains a fly speed equal to its base land speed (average maneuverability) while in whirlwind form.
+**Prerequisite:** none; **Benefit:** Some creatures can transform themselves into whirlwinds and remain in that form for up to 1 round for every 2 HD they have. If the creature has a fly speed, it can continue to fly at that same speed while in whirlwind form, otherwise it gains a fly speed equal to its base land speed (average maneuverability) while in whirlwind form.
 
 The whirlwind created has a base height of 10-20 feet and counts as Small-sized. Larger sized creatures can increase the size of the whirlwind by purchasing the increased size modifier (see below).
 
@@ -2524,11 +2524,11 @@ If the whirlwind’s base touches the ground, it creates a swirling cloud of deb
 
 - The creature can only use whirlwind when under water (2 AP).
 
-**Format:** whirlwind (3 rounds/day, 10–30 ft. high, 1d6+6 damage, DC 15);**Location:** Special Attacks.
+**Format:** whirlwind (3 rounds/day, 10–30 ft. high, 1d6+6 damage, DC 15); **Location:** Special Attacks.
 
 ### Wild Empathy (SU, 2 AP)
 
-**Prerequisites:** none;**Benefit:** This works like the druid’s wild empathy class feature. The creature’s effective druid level is equal to its HD for determining the total modifier to the check.
+**Prerequisites:** none; **Benefit:** This works like the druid’s wild empathy class feature. The creature’s effective druid level is equal to its HD for determining the total modifier to the check.
 
 **Enhancements**
 
@@ -2539,7 +2539,7 @@ If the whirlwind’s base touches the ground, it creates a swirling cloud of deb
 
 - The creature’s wild empathy only functions on a specific type of creature (1 AP).
 
-**Format:** wild empathy;**Location:** SQ
+**Format:** wild empathy; **Location:** SQ
 
 ---
 
@@ -2567,65 +2567,65 @@ Every monster of any creature type has the option of taking weaknesses to gain b
 
 ### Ability Score (EX, +1 AP)
 
-**Prerequisite:** none;**Weakness:** The creature gains +1 additional AP for every 2 points a physical ability score (Strength, Dexterity, or Constitution) is reduced or every 4 points a mental ability score (Intelligence, Wisdom, or Charisma) is reduced. No ability score may be reduced to 0 or less in this manner. When designing creatures with the Talented Bestiary, try to avoid the temptation to alter statistics unless it is necessary. Gross adjustments could cause the monster to have disproportional statistics for a given CR.
+**Prerequisite:** none; **Weakness:** The creature gains +1 additional AP for every 2 points a physical ability score (Strength, Dexterity, or Constitution) is reduced or every 4 points a mental ability score (Intelligence, Wisdom, or Charisma) is reduced. No ability score may be reduced to 0 or less in this manner. When designing creatures with the Talented Bestiary, try to avoid the temptation to alter statistics unless it is necessary. Gross adjustments could cause the monster to have disproportional statistics for a given CR.
 
-**Format:** Str 8;**Location:** Ability Scores.
+**Format:** Str 8; **Location:** Ability Scores.
 
 ### Armored (EX, +1 AP)
 
 The creature wears armor or something that functions as the equivalent of armor instead of possessing a body with natural protection. The creature may swap any natural armor bonus to AC it possesses for an equivalent armor bonus to AC. The armor worn by the creature can be the target of attacks or abilities as normal for armor of the type worn (or its equivalent). If the armored and shielded weaknesses are both selected, the creature on gains 1 bonus AP (not 2). The creature sometimes suffers speed reduction and armor check penalties due to the armor worn.
 
-**Format:** AC 12 (+2 armor);**Location:** AC
+**Format:** AC 12 (+2 armor); **Location:** AC
 
 ### Berserk (EX, +2 AP)
 
-**Prerequisite:** construct, immunity to magic;**Weakness:** When the golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. This chance resets to 0% after one minute of inactivity. A berserk golem attacks the nearest living creature or smashes some object smaller than itself if no creature is within reach. The golem’s creator, if within 60 feet, can try to regain control by speaking firmly and persuasively to the golem, which requires a DC 19 Charisma check.
+**Prerequisite:** construct, immunity to magic; **Weakness:** When the golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. This chance resets to 0% after one minute of inactivity. A berserk golem attacks the nearest living creature or smashes some object smaller than itself if no creature is within reach. The golem’s creator, if within 60 feet, can try to regain control by speaking firmly and persuasively to the golem, which requires a DC 19 Charisma check.
 
 It takes 1 minute of inactivity by the golem to reset the golem’s berserk chance to 0%. If control cannot be reestablished, then this weakness grants +3 AP.
 
-**Format:** berserk;**Location:** Special Attacks.
+**Format:** berserk; **Location:** Special Attacks.
 
 ### Dependent (SU, +3 AP)
 
-**Prerequisite:** none;**Weakness:** The creature is bonded to a single object, location, or creature and must never stray more than 300 yards from it. If the creature moves 300 yards away from the bonded object, location, or creature immediately becomes sickened. Every hour thereafter, they must make a DC 15 Fortitude save to resist becoming nauseated for an hour. If the creature is out of range of the bonded object, location, or creature for 24 hours, then they take 1d6 points of Constitution damage (or Charisma damage if they have no Constitution score) every day that follows. When their Constitution (or Charisma) reaches 0, the creature dies or is destroyed. If the creature can establish a new dependent creature, location, or object then this weakness grants only +2 AP. This requires a ritual taking no less than 24-hours and potentially other appropriate steps.
+**Prerequisite:** none; **Weakness:** The creature is bonded to a single object, location, or creature and must never stray more than 300 yards from it. If the creature moves 300 yards away from the bonded object, location, or creature immediately becomes sickened. Every hour thereafter, they must make a DC 15 Fortitude save to resist becoming nauseated for an hour. If the creature is out of range of the bonded object, location, or creature for 24 hours, then they take 1d6 points of Constitution damage (or Charisma damage if they have no Constitution score) every day that follows. When their Constitution (or Charisma) reaches 0, the creature dies or is destroyed. If the creature can establish a new dependent creature, location, or object then this weakness grants only +2 AP. This requires a ritual taking no less than 24-hours and potentially other appropriate steps.
 
-**Format:** dependent;**Location:** Weaknesses.
+**Format:** dependent; **Location:** Weaknesses.
 
 ### Immobile (EX, +1 AP)
 
-**Prerequisite:** none;**Weakness:** The creature possesses a slower base speed than normal (at least ½ normal base speed). If the creature is completely immobile (base speed 0 feet) then this weakness grants +2 AP. A creature with this weakness may not have any alternative movement types (burrow, climb, or flight).
+**Prerequisite:** none; **Weakness:** The creature possesses a slower base speed than normal (at least ½ normal base speed). If the creature is completely immobile (base speed 0 feet) then this weakness grants +2 AP. A creature with this weakness may not have any alternative movement types (burrow, climb, or flight).
 
-**Format:** Speed 0 ft.;**Location:** Weaknesses.
+**Format:** Speed 0 ft.; **Location:** Weaknesses.
 
 ### Lethargy (EX, +1 AP)
 
-**Prerequisite:** immunity (acid, cold, electricity, or fire);**Weakness:** Although the creature is immune to a type of elemental damage, when it is exposed to the elemental effect it becomes slowed (as the slow spell) for 1 round. During this time, it loses access to all other special abilities. If the duration of the slow effect is increased to 1d4 rounds, this weakness grants +2 AP.
+**Prerequisite:** immunity (acid, cold, electricity, or fire); **Weakness:** Although the creature is immune to a type of elemental damage, when it is exposed to the elemental effect it becomes slowed (as the slow spell) for 1 round. During this time, it loses access to all other special abilities. If the duration of the slow effect is increased to 1d4 rounds, this weakness grants +2 AP.
 
-**Format:** lethargy;**Location:** Weaknesses.
+**Format:** lethargy; **Location:** Weaknesses.
 
 ### Light Blindness (EX, +2 AP)
 
-**Prerequisite:** none;**Weakness:** Creatures with light blindness are blinded for 1 round if exposed to bright light, such as sunlight or the daylight spell. Such creatures are dazzled so long as they remain in areas of bright light.
+**Prerequisite:** none; **Weakness:** Creatures with light blindness are blinded for 1 round if exposed to bright light, such as sunlight or the daylight spell. Such creatures are dazzled so long as they remain in areas of bright light.
 
-**Format:** light blindness;**Location:** Weaknesses.
+**Format:** light blindness; **Location:** Weaknesses.
 
 ### Light Sensitivity (EX, +1 AP)
 
-**Prerequisite:** none;**Weakness:** Creatures with light sensitivity are dazzled in areas of bright sunlight or within the radius of a daylight spell.
+**Prerequisite:** none; **Weakness:** Creatures with light sensitivity are dazzled in areas of bright sunlight or within the radius of a daylight spell.
 
-**Format:** light sensitivity;**Location:** Weaknesses.
+**Format:** light sensitivity; **Location:** Weaknesses.
 
 ### Mindless (EX, +0 AP)
 
-**Prerequisite:** none;**Weakness:** The creature has an Intelligence score of — and a Charisma score of 1. They are incapable of communication, planning, critical thinking, or proactive action. At best, they can follow orders robotically or act purely on instinct. The creature is immune to all mindaffecting effects (charms, compulsions, phantasms, patterns, and morale effects). If the creature is already immune to mind-affecting effects from some other source, then this flaw grants +4 AP.
+**Prerequisite:** none; **Weakness:** The creature has an Intelligence score of — and a Charisma score of 1. They are incapable of communication, planning, critical thinking, or proactive action. At best, they can follow orders robotically or act purely on instinct. The creature is immune to all mindaffecting effects (charms, compulsions, phantasms, patterns, and morale effects). If the creature is already immune to mind-affecting effects from some other source, then this flaw grants +4 AP.
 
-**Format:** Immune mind-affecting effects;**Location:** Immunities.
+**Format:** Immune mind-affecting effects; **Location:** Immunities.
 
 ### Shielded (EX, +1 AP)
 
 The creature uses a shield or something that functions as the equivalent of a shield instead of possessing a body with natural protection. The creature may swap any natural armor bonus to AC it possesses for an equivalent shield bonus to AC. The shield used by the creature can be the target of attacks or abilities as normal for a shield of the type worn (or its equivalent). If the armored and shielded weaknesses are both selected, the creature only gains +1 bonus AP (not +2).
 
-**Format:** AC 12 (+2 shield);**Location:** AC
+**Format:** AC 12 (+2 shield); **Location:** AC
 
 ### Staggered (EX, +1 AP)
 
@@ -2633,21 +2633,21 @@ The creature has poor reflexes and can only perform a single move or standard ac
 
 ### Sunlight Powerlessness (EX, +3 AP)
 
-**Prerequisite:** none;**Weakness:** The creature is utterly powerless in bright light or natural sunlight and flees from it. A creature with sunlight powerlessness caught in such light cannot attack and can take only a single move or standard action.
+**Prerequisite:** none; **Weakness:** The creature is utterly powerless in bright light or natural sunlight and flees from it. A creature with sunlight powerlessness caught in such light cannot attack and can take only a single move or standard action.
 
-**Format:** sunlight powerlessness;**Location:** Weaknesses.
+**Format:** sunlight powerlessness; **Location:** Weaknesses.
 
 ### Undersized Weapons (EX, +1 AP)
 
-**Prerequisite:** none;**Weakness:** The creature uses manufactured weapons as if it were one size category smaller than the creature’s actual size. Creatures that do not use manufactured weapons may not take this weakness.
+**Prerequisite:** none; **Weakness:** The creature uses manufactured weapons as if it were one size category smaller than the creature’s actual size. Creatures that do not use manufactured weapons may not take this weakness.
 
-**Format:** undersized weapons;**Location:** Special Qualities.
+**Format:** undersized weapons; **Location:** Special Qualities.
 
 ### Vulnerability (EX Or SU, +4 AP)
 
-**Prerequisite:** none;**Weakness:** A creature with vulnerabilities takes half again as much damage (+50%) from a specific energy type, regardless of whether a saving throw is allowed or if the save is a success or failure. Creatures with a vulnerability that is not an energy type instead take a –4 penalty on saves against spells and effects that cause or use the listed vulnerability (such as spells with the light descriptor). Other options for vulnerabilities can include certain specific spells or effects instantly causing the creature’s destruction or the creature being affected as a summoned creature for the purposes of certain spells or effects. The specific effects and potential for vulnerabilities is endless, but typically the more common the effect, the weaker the impact. The more difficult to arrange or use, the more severe the effect on the creature.
+**Prerequisite:** none; **Weakness:** A creature with vulnerabilities takes half again as much damage (+50%) from a specific energy type, regardless of whether a saving throw is allowed or if the save is a success or failure. Creatures with a vulnerability that is not an energy type instead take a –4 penalty on saves against spells and effects that cause or use the listed vulnerability (such as spells with the light descriptor). Other options for vulnerabilities can include certain specific spells or effects instantly causing the creature’s destruction or the creature being affected as a summoned creature for the purposes of certain spells or effects. The specific effects and potential for vulnerabilities is endless, but typically the more common the effect, the weaker the impact. The more difficult to arrange or use, the more severe the effect on the creature.
 
-**Format:** vulnerability to fire;**Location:** Weaknesses.
+**Format:** vulnerability to fire; **Location:** Weaknesses.
 
 ---
 
@@ -2880,7 +2880,7 @@ You should take the prerequisites as only a suggestion. Like most rules in the T
 
 ### Acid (EX, 4 AP)
 
-**Prerequisites:** ooze;**Benefit:** The ooze deals an additional 1d6 acid damage with slam and constrict attacks. Armor or clothing worn by a creature grappled by the ooze takes the same amount of acid damage unless the wearer succeeds on a Reflex save (DC 10 +1/2 the ooze’s HD + ooze’s Con modifier). Weapons that strike the ooze take 1d6 acid damage unless the weapon’s wielder succeeds on a Reflex save. The ooze’s touch deals 12 points of damage to objects per round, but the ooze must remain in contact with the material for 1 full round to deal this damage.
+**Prerequisites:** ooze; **Benefit:** The ooze deals an additional 1d6 acid damage with slam and constrict attacks. Armor or clothing worn by a creature grappled by the ooze takes the same amount of acid damage unless the wearer succeeds on a Reflex save (DC 10 +1/2 the ooze’s HD + ooze’s Con modifier). Weapons that strike the ooze take 1d6 acid damage unless the weapon’s wielder succeeds on a Reflex save. The ooze’s touch deals 12 points of damage to objects per round, but the ooze must remain in contact with the material for 1 full round to deal this damage.
 
 **Enhancements**
 
@@ -2893,22 +2893,22 @@ You should take the prerequisites as only a suggestion. Like most rules in the T
 - The acid only harms one type of material, such as (but not limited to) flesh, metal, or stone (2 AP).
 - Damage decreases to 1d4 acid and 8 to objects (1 AP), 1d2 acid and 5 to objects (2 AP), or 1 acid and no damage to objects (3 AP).
 
-**Format:** slam +2 (1d6 plus 1d6 acid);**Location:** Melee
+**Format:** slam +2 (1d6 plus 1d6 acid); **Location:** Melee
 
 ### Acid Pool (SU, 5 AP)
 
-**Prerequisites:** dragon or earth subtype, breath weapon (acid);**Benefit:** The dragon can use its breath weapon to create an acid pool as a standard action. When an acid pool is created, anyone inside its area takes an amount of damage equal to the dragon’s breath weapon. Creatures affected may make a Reflex save for half (DC 10 + ½ the dragon’s HD + dragon’s Con modifier). Any creature that starts its turn touching this pool takes damage, but can make a Reflex save for half. Each round, the total damage dice of the pool is halved until the result would be less than 1d6. The acid pool floats on water, and deals damage to anything on the surface.
+**Prerequisites:** dragon or earth subtype, breath weapon (acid); **Benefit:** The dragon can use its breath weapon to create an acid pool as a standard action. When an acid pool is created, anyone inside its area takes an amount of damage equal to the dragon’s breath weapon. Creatures affected may make a Reflex save for half (DC 10 + ½ the dragon’s HD + dragon’s Con modifier). Any creature that starts its turn touching this pool takes damage, but can make a Reflex save for half. Each round, the total damage dice of the pool is halved until the result would be less than 1d6. The acid pool floats on water, and deals damage to anything on the surface.
 
 **Enhancements**
 
 - The total damage dice of the acid pool is halved every other round for an additional +1 AP, every minute for +2 AP, every hour for +3 AP, or the acid pool is permanent for +4 AP.
 - The radius of the acid pool increases by 5 feet for each additional +1 AP spent.
 
-**Format:** acid pool;**Location:** Special Attacks
+**Format:** acid pool; **Location:** Special Attacks
 
 ### Acidic Spit (EX, 5 AP)
 
-**Prerequisites:** magical beast, bite attack;**Benefit:** The monster’s gains a bite attack appropriate for its size that deals an additional 1d4 acid damage. Once every 6 hours, the magical beast can spit a 30-foot line of acid. Creatures struck by this acid take the magical beast’s CR+1 in d4s of acid damage with a Reflex save (DC 10 +1/2 the magical beast’s HD + magical beast’s Con modifier) for half damage. After spitting acid, the magical beast’s bite attack does not deal acid any additional acid damage for 6 hours.
+**Prerequisites:** magical beast, bite attack; **Benefit:** The monster’s gains a bite attack appropriate for its size that deals an additional 1d4 acid damage. Once every 6 hours, the magical beast can spit a 30-foot line of acid. Creatures struck by this acid take the magical beast’s CR+1 in d4s of acid damage with a Reflex save (DC 10 +1/2 the magical beast’s HD + magical beast’s Con modifier) for half damage. After spitting acid, the magical beast’s bite attack does not deal acid any additional acid damage for 6 hours.
 
 **Enhancements**
 
@@ -2916,11 +2916,11 @@ You should take the prerequisites as only a suggestion. Like most rules in the T
 - The acid damage of the bite attack improves by one step on the following progression for each additional +1 AP spent: 1d4, 1d6, 2d4, 2d6, 2d8.
 - The acid damage dealt by the creature’s spit increases by one die type on the following progression for each +1 AP spent: d4, d6, d8, d10, or d12.
 
-**Format:** acidic spit;**Location:** Special Attacks
+**Format:** acidic spit; **Location:** Special Attacks
 
 ### Adhesive (EX, 7 AP)
 
-**Prerequisites:** aberration;**Benefit:** The aberration exudes a thick slime that acts as a powerful adhesive, holding fast any creatures or items that touch it. An adhesive-covered aberration automatically grapples any creature it hits with a natural attack. Opponents so grappled cannot get free while the aberration is alive without removing the adhesive first.
+**Prerequisites:** aberration; **Benefit:** The aberration exudes a thick slime that acts as a powerful adhesive, holding fast any creatures or items that touch it. An adhesive-covered aberration automatically grapples any creature it hits with a natural attack. Opponents so grappled cannot get free while the aberration is alive without removing the adhesive first.
 
 A weapon that strikes an adhesive-coated aberration is stuck fast unless the wielder succeeds on a Reflex save (DC 10+ ½ the aberration’s HD + aberration’s Con modifier). A successful CMB check at the same DC is needed to pry off a stuck weapon. An aberration can dissolve its adhesive at will, and the substance breaks down 5 rounds after the creature dies. Adhesive countsas the grab ability for the purposes of prerequisites.
 
@@ -2928,11 +2928,11 @@ A weapon that strikes an adhesive-coated aberration is stuck fast unless the wie
 
 - Strong alcohol or universal solvent dissolves the adhesive, but the aberration can still grapple normally (2 AP)
 
-**Format:** slam +10 (1d8+6 plus adhesive);**Location:** Melee
+**Format:** slam +10 (1d8+6 plus adhesive); **Location:** Melee
 
 ### Allergic Reaction (EX, 2 AP)
 
-**Prerequisites:** animal or magical beast;**Benefit:** The animal’s dander is highly irritating to all creatures save those with a specific creature subtype chosen when this ability is taken. Any other creature damaged by the animal’s bite, who deals damage to the animal with a natural weapon or unarmed attack, or who otherwise comes into contact with the animals (including attempts to grapple or ride the creature) must make a Fortitude save (DC 10 +1/2 the animal’s HD + animal’s Con modifier) or break out in an itching rash. A creature affected by this rash takes a –2 penalty to Dexterity and Charisma for 1 day (multiple allergic reactions do not stack). Remove disease or any magical healing removes the rash instantly. This is a disease effect.
+**Prerequisites:** animal or magical beast; **Benefit:** The animal’s dander is highly irritating to all creatures save those with a specific creature subtype chosen when this ability is taken. Any other creature damaged by the animal’s bite, who deals damage to the animal with a natural weapon or unarmed attack, or who otherwise comes into contact with the animals (including attempts to grapple or ride the creature) must make a Fortitude save (DC 10 +1/2 the animal’s HD + animal’s Con modifier) or break out in an itching rash. A creature affected by this rash takes a –2 penalty to Dexterity and Charisma for 1 day (multiple allergic reactions do not stack). Remove disease or any magical healing removes the rash instantly. This is a disease effect.
 
 **Enhancements**
 
@@ -2940,54 +2940,54 @@ A weapon that strikes an adhesive-coated aberration is stuck fast unless the wie
 - The duration of the allergic reaction is increased to 1d4 days for an additional +1 AP, or 2d6 days for +2 AP.
 - Allergic reaction does not affect a specific creature type instead of subtype for an additional +1 AP. It does not affect any number of specific creature types and subtypes (or only affects a specific creature type or subtype) for an additional +2 AP.
 
-**Format:** bite +2 (1d6+3 plus allergic reaction);**Location:** Melee
+**Format:** bite +2 (1d6+3 plus allergic reaction); **Location:** Melee
 
 ### Animate Plant (SP, 6 AP)
 
-**Prerequisites:** plant;**Benefit:** The plant can animate any plants or trees within 180 feet at will, controlling up to two plants at a time. It takes 1 full round for a plant to uproot itself, after which it moves at a speed of 10 feet. It fights with the same base statistics as the animating plant, but no other abilities. The animated plant only ever possesses one attack and gains a vulnerability to fire. If the plant that animated it terminates the animation, moves out of range, or is incapacitated, the animated plant immediately takes root wherever it is and returns to its normal state.
+**Prerequisites:** plant; **Benefit:** The plant can animate any plants or trees within 180 feet at will, controlling up to two plants at a time. It takes 1 full round for a plant to uproot itself, after which it moves at a speed of 10 feet. It fights with the same base statistics as the animating plant, but no other abilities. The animated plant only ever possesses one attack and gains a vulnerability to fire. If the plant that animated it terminates the animation, moves out of range, or is incapacitated, the animated plant immediately takes root wherever it is and returns to its normal state.
 
 **Enhancements**
 
 - The plant deals double damage against an object or structure when it makes a full attack for an additional +1 AP.
 
-**Format:** animate plant;**Location:** SQ
+**Format:** animate plant; **Location:** SQ
 
 ### Awaken Treants (SU, 8 AP)
 
-**Prerequisites:** dragon or fey;**Benefit:** The dragon can animate a number of trees as treants to protect it. The treants can be called from any Huge or larger living tree. The dragon can create a single treant as a standard action 3/day. These treants remain animated for up to 1 hour, at which time they revert to being ordinary trees.
+**Prerequisites:** dragon or fey; **Benefit:** The dragon can animate a number of trees as treants to protect it. The treants can be called from any Huge or larger living tree. The dragon can create a single treant as a standard action 3/day. These treants remain animated for up to 1 hour, at which time they revert to being ordinary trees.
 
 **Enhancements**
 
 - The number of treants that can be animated each day is increased by one for an additional +2 AP. This enhancement may be taken multiple times.
 - The treants remain animated for 24-hours for an additional +2 AP, or are permanently animated for +4 AP.
 
-**Format:** awaken treants;**Location:** SQ
+**Format:** awaken treants; **Location:** SQ
 
 ### Barbed Defense (SU, 4 AP)
 
-**Prerequisites:** outsider;**Benefit:** A creature that strikes the outsider with a melee weapon, an unarmed strike, or a natural weapon takes appropriate damage for a gore natural attack for a creature of the outsider’s size from barbed spikes. Melee weapons with reach do not endanger a user in this way. The outsider can add any natural attack enhancements to this ability.
+**Prerequisites:** outsider; **Benefit:** A creature that strikes the outsider with a melee weapon, an unarmed strike, or a natural weapon takes appropriate damage for a gore natural attack for a creature of the outsider’s size from barbed spikes. Melee weapons with reach do not endanger a user in this way. The outsider can add any natural attack enhancements to this ability.
 
-**Format:** barbed defense;**Location:** Defensive Abilities
+**Format:** barbed defense; **Location:** Defensive Abilities
 
 ### Bay (SU, 5 AP)
 
-**Prerequisites:** outsider (evil);**Benefit:** When the outsider howls, all creatures except other evil outsiders within a 300-foot spread must succeed on a Will save (DC 10 + ½ the outsider’s HD + outsider’s Cha modifier) or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same outsider’s bay for 24 hours.
+**Prerequisites:** outsider (evil); **Benefit:** When the outsider howls, all creatures except other evil outsiders within a 300-foot spread must succeed on a Will save (DC 10 + ½ the outsider’s HD + outsider’s Cha modifier) or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same outsider’s bay for 24 hours.
 
-**Format:** bay;**Location:** Special Attacks
+**Format:** bay; **Location:** Special Attacks
 
 ### Blizzard (SU, 7 AP)
 
-**Prerequisites:** dragon or cold subtype, breath weapon (cold);**Benefit:** The dragon can use its breath weapon to create a blizzard in the area around it as a standard action. This creates heavy snow conditions in a 50-foot radius for 1 minute, centered on the dragon. This snow slows movement (4 squares of movement per square entered) and limits vision as fog does.
+**Prerequisites:** dragon or cold subtype, breath weapon (cold); **Benefit:** The dragon can use its breath weapon to create a blizzard in the area around it as a standard action. This creates heavy snow conditions in a 50-foot radius for 1 minute, centered on the dragon. This snow slows movement (4 squares of movement per square entered) and limits vision as fog does.
 
 **Enhancements**
 
 - The radius of the blizzard is increased to 100 feet for an additional +1 AP, 200 feet for +2 AP, or 300 feet for +3 AP.
 
-**Format:** blizzard;**Location:** Special Attacks
+**Format:** blizzard; **Location:** Special Attacks
 
 ### Body Thief (SU, 3 AP)
 
-**Prerequisites:** aberration;**Benefit:** As a full-round action that provokes an attack of opportunity, the aberration can burrow into the skull and brain of a helpless or dead creature that is at least one size category larger.
+**Prerequisites:** aberration; **Benefit:** As a full-round action that provokes an attack of opportunity, the aberration can burrow into the skull and brain of a helpless or dead creature that is at least one size category larger.
 
 This is a coup de grace attack that deals damage as an automatic critical hit with one of the aberration’s natural attacks. If the victim is slain (or already dead), the aberration usurps control of the body and may use it as its own, as if it controlled the target via a dominate monster spell. The aberration has full access to all the host’s defensive and offensive abilities save for spellcasting and spell-like abilities (although the aberration can still use its own spelllike abilities, if any). A host body may not have been dead for longer than 1 day for this ability to function, and even successfully inhabited bodies decay to uselessness in 7 days (unless this time is extended via gentle repose). As long as the aberration occupies the body, it knows (and can speak) the languages known by the victim and basic information about the victim’s identity and personality, yet has none of the victim’s specific memories or knowledge. Damage done to a host body does not harm the aberration, and if the host body is slain, the aberration emerges and is dazed for 1 round. Raise dead cannot restore a victim of body theft, but resurrection or more powerful magic can.
 
@@ -3003,17 +3003,17 @@ This is a coup de grace attack that deals damage as an automatic critical hit wi
 
 - The aberration gains no access to hosts defensive and offensive abilities, and treats the host as a zombie or skeleton reanimated through the animate dead spell (2 AP).
 
-**Format:** body thief;**Location:** Special Attacks
+**Format:** body thief; **Location:** Special Attacks
 
 ### Bonus Feat (EX, 1 AP)
 
-**Prerequisites:** humanoid;**Benefit:** As the universal monster ability, except at the reduced cost as shown.
+**Prerequisites:** humanoid; **Benefit:** As the universal monster ability, except at the reduced cost as shown.
 
-**Format:** Improved InitiativeB;**Location:** Feats
+**Format:** Improved InitiativeB; **Location:** Feats
 
 ### Burst (SU, 4 AP)
 
-**Prerequisites:** construct;**Benefit:** As a free action once every 1d4 +1 rounds, the construct can launch a barrage from its body in a 20-foot radius burst. All creatures caught in this area take 1d6 damage per CR of the construct. Any creature is allowed a Reflex save (DC 10 +1/2 the construct’s HD + construct’s Con modifier) for half damage. The damage type is chosen when the ability is taken and may be any of the following: acid, bludgeoning, cold, electricity, fire, piercing, or slashing.
+**Prerequisites:** construct; **Benefit:** As a free action once every 1d4 +1 rounds, the construct can launch a barrage from its body in a 20-foot radius burst. All creatures caught in this area take 1d6 damage per CR of the construct. Any creature is allowed a Reflex save (DC 10 +1/2 the construct’s HD + construct’s Con modifier) for half damage. The damage type is chosen when the ability is taken and may be any of the following: acid, bludgeoning, cold, electricity, fire, piercing, or slashing.
 
 **Enhancements**
 
@@ -3021,22 +3021,22 @@ This is a coup de grace attack that deals damage as an automatic critical hit wi
 - The damage for burst increases to 1d8 per CR for an additional +2 AP or 1d10 per CR for +4 AP.
 - The construct can use burst at will, but it requires a standard action for an additional +2 AP. It can burst at will as a free action for +6 AP.
 
-**Format:** burst;**Location:** Special Attacks
+**Format:** burst; **Location:** Special Attacks
 
 ### Cacophony (SU, 2 AP)
 
-**Prerequisites:** aberration or ooze;**Benefit:** As a free action, the aberration can emit a cacophony of maddening sound. All creatures without this ability within 60 feet must succeed on a Will save (DC 10 + ½ the aberration’s HD + aberration’s Cha modifier) or be confused for 1 round (as the confusion spell). This is a sonic mind-affecting compulsion insanity effect. A creature that saves cannot be affected by the same aberration’s cacophony for 24 hours.
+**Prerequisites:** aberration or ooze; **Benefit:** As a free action, the aberration can emit a cacophony of maddening sound. All creatures without this ability within 60 feet must succeed on a Will save (DC 10 + ½ the aberration’s HD + aberration’s Cha modifier) or be confused for 1 round (as the confusion spell). This is a sonic mind-affecting compulsion insanity effect. A creature that saves cannot be affected by the same aberration’s cacophony for 24 hours.
 
 **Enhancements**
 
 - The duration of the confusion increases to 1d4 rounds for an additional +2 AP or 1d6 rounds for +3 AP.
 - Affected creatures take 1 point of Wisdom damage for an additional +2 AP, 1d4 Wisdom damage for +4 AP, or 1d6 Wisdom damage for +6 AP.
 
-**Format:** cacophony;**Location:** special attacks
+**Format:** cacophony; **Location:** special attacks
 
 ### Captivating Song (SU, 3 AP)
 
-**Prerequisites:** monstrous humanoid;**Benefit:** The monstrous humanoid can draw creatures to its side through song as a standard action. All creatures within a 100-foot spread that do not possess this ability must succeed on a Will save (DC 10 + ½ the monstrous humanoid’s HD + monstrous humanoid’s Cha modifier) or become captivated. A creature that successfully saves is not subject to the same monstrous humanoid’s song for 24 hours.
+**Prerequisites:** monstrous humanoid; **Benefit:** The monstrous humanoid can draw creatures to its side through song as a standard action. All creatures within a 100-foot spread that do not possess this ability must succeed on a Will save (DC 10 + ½ the monstrous humanoid’s HD + monstrous humanoid’s Cha modifier) or become captivated. A creature that successfully saves is not subject to the same monstrous humanoid’s song for 24 hours.
 
 A victim under the effects of the captivating song moves toward the monstrous humanoid using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. Captivated creatures can take no actions other than to defend themselves. A victim within 5 feet of the monstrous humanoid simply stands and offers no resistance to the monstrous humanoid’s attacks. This effect continues for as long as the monstrous humanoid sings and for 1 round thereafter. This is a sonic mind-affecting charm effect.
 
@@ -3046,31 +3046,31 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The creature receives no second saving throw for danger for an additional +4 AP.
 - The effect persists for an additional round for every additional +1 AP spent.
 
-**Format:** captivating song;**Location:** Special Attacks
+**Format:** captivating song; **Location:** Special Attacks
 
 ### Carapace (SU, 13 AP)
 
-**Prerequisites:** magical beast;**Benefit:** The magical beast’s body deflects cones, lines, rays, and magic missile spells, rendering the magical beast immune to such effects.
+**Prerequisites:** magical beast; **Benefit:** The magical beast’s body deflects cones, lines, rays, and magic missile spells, rendering the magical beast immune to such effects.
 
 **Enhancements**
 
 - The magical beast deflects effects back in full force at the caster 30% of the time for an additional +2 AP, 60% of the time for +4 AP, or 100% of the time for +6 AP.
 
-**Format:** carapace;**Location:** SQ
+**Format:** carapace; **Location:** SQ
 
 ### Channel Resistance (EX, 1 AP)
 
-**Prerequisite:** undead or negative energy affinity;**Benefit:** A creature with this special quality is less easily affected by the channel ability of clerics or paladins. A creature with channel resistance adds a +2 bonus to saves made to resist the effects of channel energy, including effects that rely on the use of channel energy (such as the Command Undead feat).
+**Prerequisite:** undead or negative energy affinity; **Benefit:** A creature with this special quality is less easily affected by the channel ability of clerics or paladins. A creature with channel resistance adds a +2 bonus to saves made to resist the effects of channel energy, including effects that rely on the use of channel energy (such as the Command Undead feat).
 
 **Enhancements**
 
 - The creature’s channel resistance bonus increases to +4 for an additional +1 AP and +6 for an additional +2 AP.
 
-**Format:** channel resistance +4;**Location:** Defensive Abilities.
+**Format:** channel resistance +4; **Location:** Defensive Abilities.
 
 ### Children of the Night (SU, 4 AP)
 
-**Prerequisites:** undead;**Benefit:** Once per day, the undead can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or 2d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the undead for up to 1 hour.
+**Prerequisites:** undead; **Benefit:** Once per day, the undead can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or 2d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the undead for up to 1 hour.
 
 **Enhancements**
 
@@ -3078,41 +3078,41 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The creatures arrive within 1d6 rounds for an additional +1 AP, or are summoned immediately for +2 AP.
 - The creatures serve 24 hours for an additional +1 AP.
 
-**Format:** children of the night;**Location:** Special Attacks
+**Format:** children of the night; **Location:** Special Attacks
 
 ### Cling (EX, 4 AP)
 
-**Prerequisites:** vermin (swarm);**Benefit:** If a creature leaves a vermin swarm’s square, the swarm suffers 1d6 points of damage to reflect the loss of its numbers. A creature with the members of the swarm clinging to him takes the swarm’s damage at the end of his turn each round. As a full-round action, he can remove the clinging swarm with a Reflex save (DC 10 +½ the vermin swarm’s HD + swarm’s Dex modifier). High wind or any amount of damage from an area effect destroys all clinging swarm vermin.
+**Prerequisites:** vermin (swarm); **Benefit:** If a creature leaves a vermin swarm’s square, the swarm suffers 1d6 points of damage to reflect the loss of its numbers. A creature with the members of the swarm clinging to him takes the swarm’s damage at the end of his turn each round. As a full-round action, he can remove the clinging swarm with a Reflex save (DC 10 +½ the vermin swarm’s HD + swarm’s Dex modifier). High wind or any amount of damage from an area effect destroys all clinging swarm vermin.
 
-**Format:** cling;**Location:** Special Attacks
+**Format:** cling; **Location:** Special Attacks
 
 ### Cloudwalking (SU, 1 AP)
 
-**Prerequisites:** dragon or air subtype;**Benefit:** The dragon can tread on clouds or fog as though on solid ground.
+**Prerequisites:** dragon or air subtype; **Benefit:** The dragon can tread on clouds or fog as though on solid ground.
 
-**Format:** cloudwalking;**Location:** Speed
+**Format:** cloudwalking; **Location:** Speed
 
 ### Consume (EX, 5 AP)
 
-**Prerequisites:** vermin (swarm);**Benefit:** The vermin swarm can rapidly consume any creature it swarms over. Against helpless or nauseated targets, the vermin swarm deals double its normal damage.
+**Prerequisites:** vermin (swarm); **Benefit:** The vermin swarm can rapidly consume any creature it swarms over. Against helpless or nauseated targets, the vermin swarm deals double its normal damage.
 
-**Format:** consume;**Location:** Special Attacks
+**Format:** consume; **Location:** Special Attacks
 
 ### Corrupt Water (SP, 1 AP)
 
-**Prerequisites:** dragon or evil subtype;**Benefit:** Once per day the dragon can stagnate 10 cubic feet of still water, making it foul and unable to support water-breathing life. The ability spoils liquids containing water. Liquid-based magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC 10 + ½ the dragon’s HD + dragon’s Cha modifier) or become ruined. This ability is the equivalent of a 1st-level spell. Its range is equal to that of the dragon’s frightful presence or 30 feet, whichever is higher.
+**Prerequisites:** dragon or evil subtype; **Benefit:** Once per day the dragon can stagnate 10 cubic feet of still water, making it foul and unable to support water-breathing life. The ability spoils liquids containing water. Liquid-based magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC 10 + ½ the dragon’s HD + dragon’s Cha modifier) or become ruined. This ability is the equivalent of a 1st-level spell. Its range is equal to that of the dragon’s frightful presence or 30 feet, whichever is higher.
 
-**Format:** corrupt water;**Location:** Special Attacks
+**Format:** corrupt water; **Location:** Special Attacks
 
 ### Corrupting Touch (SU, 4 AP)
 
-**Prerequisites:** undead, incorporeal subtype;**Benefit:** The undead gains an incorporeal touch attack. By passing part of its incorporeal body through a foe’s body as a standard action, the undead inflicts a number of d6s equal to its CR in damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save (DC 10 + ½ the undead’s HD + undead’s Cha modifier) halves the damage inflicted.
+**Prerequisites:** undead, incorporeal subtype; **Benefit:** The undead gains an incorporeal touch attack. By passing part of its incorporeal body through a foe’s body as a standard action, the undead inflicts a number of d6s equal to its CR in damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save (DC 10 + ½ the undead’s HD + undead’s Cha modifier) halves the damage inflicted.
 
-**Format:** corrupting touch +6 (7d6, Fort. DC 18 half);**Location:** Melee
+**Format:** corrupting touch +6 (7d6, Fort. DC 18 half); **Location:** Melee
 
 ### Create Plant Zombie (SU, 5 AP)
 
-**Prerequisites:** plant;**Benefit:** As a full-round action, the plant can bore tendrils or roots into the brain of a helpless creature within reach. This attack inflicts 1d4 points of Intelligence damage per round. When a creature is reduced to 0 Intelligence, it dies, and the tendrils break off inside its brain. One hour later, the creature animates with the zombie template, except that the zombie possesses the plant creature type instead of the undead type and are treated as plants for the resolution of magical effects and spells.
+**Prerequisites:** plant; **Benefit:** As a full-round action, the plant can bore tendrils or roots into the brain of a helpless creature within reach. This attack inflicts 1d4 points of Intelligence damage per round. When a creature is reduced to 0 Intelligence, it dies, and the tendrils break off inside its brain. One hour later, the creature animates with the zombie template, except that the zombie possesses the plant creature type instead of the undead type and are treated as plants for the resolution of magical effects and spells.
 
 **Enhancements**
 
@@ -3120,11 +3120,11 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The Intelligence damage becomes drain for an additional +2 AP.
 - The Intelligence damage dealt increases to 1d6 for an additional +1 AP, 1d8 for +2 AP, 2d4 for +3 AP, 2d6 for +4 AP, or 2d8 for +5 AP.
 
-**Format:** create plant zombie;**Location:** Special Attacks
+**Format:** create plant zombie; **Location:** Special Attacks
 
 ### Create Spawn (SU, 2 AP)
 
-**Prerequisites:** undead or evil subtype;**Benefit:** Creatures killed by the undead arise as creatures of the same type and CR as the undead, provided that the creature is within one size category of the undead. Spawn created in this manner are under the absolute command of the undead that created them. The spawn created arise in 1d4 days.
+**Prerequisites:** undead or evil subtype; **Benefit:** Creatures killed by the undead arise as creatures of the same type and CR as the undead, provided that the creature is within one size category of the undead. Spawn created in this manner are under the absolute command of the undead that created them. The spawn created arise in 1d4 days.
 
 **Enhancements**
 
@@ -3139,11 +3139,11 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The undead may have Hit Dice of enslaved spawn totaling no more than twice its own HD; any spawn it creates that exceed this limit become free-willed. The undead may free an enslaved spawn in order to enslave a new spawn, but once freed the spawn cannot be enslaved again (1 AP).
 - The undead has no control over spawn it creates (2 AP).
 
-**Format:** create spawn;**Location:** Special Attacks
+**Format:** create spawn; **Location:** Special Attacks
 
 ### Cursed Wound (EX, 4 AP)
 
-**Prerequisites:** construct;**Benefit:** The damage the construct deals with a single natural attack type doesn’t heal naturally and resists magical healing. A character attempting to use magical healing on a creature damaged by the construct must succeed on a caster level check (DC 10 + construct’s HD), or the healing has no effect on the injured creature.
+**Prerequisites:** construct; **Benefit:** The damage the construct deals with a single natural attack type doesn’t heal naturally and resists magical healing. A character attempting to use magical healing on a creature damaged by the construct must succeed on a caster level check (DC 10 + construct’s HD), or the healing has no effect on the injured creature.
 
 **Enhancements**
 
@@ -3153,39 +3153,39 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 
 - The subject’s wounds heal naturally, and only resist magical healing (1 AP).
 
-**Format:** 2 slams +19 (2d10+7 plus cursed wound);**Location:** Melee
+**Format:** 2 slams +19 (2d10+7 plus cursed wound); **Location:** Melee
 
 ### Damage Objects (EX, 2 AP)
 
-**Prerequisites:** plant;**Benefit:** The plant deals double damage against an object or structure when it makes a full attack.
+**Prerequisites:** plant; **Benefit:** The plant deals double damage against an object or structure when it makes a full attack.
 
-**Format:** damage objects;**Location:** SQ
+**Format:** damage objects; **Location:** SQ
 
 ### Dance of Ruin (SU, 8 AP)
 
-**Prerequisites:** outsider;**Benefit:** The outsider can dance and chant as a full-round action—at the end of 3 rounds, a crackling wave of energy explodes from the outsider, dealing 1d6 + ½ the outsider’s CR points of electricity damage to all creatures within 100 feet. A Reflex save (DC 10 + ½ the outsider’s HD + outsider’s Cha modifier) halves this damage. For each additional outsider with this ability that joins the dance, the damage is additive and the DC to avoid the effect increases by +1 to the highest DC of any outsiders with this ability (to a maximum of 20d6). The dance immediately ends and must start anew if any of the participating outsiders are slain, stunned, or otherwise prevented from dancing.
+**Prerequisites:** outsider; **Benefit:** The outsider can dance and chant as a full-round action—at the end of 3 rounds, a crackling wave of energy explodes from the outsider, dealing 1d6 + ½ the outsider’s CR points of electricity damage to all creatures within 100 feet. A Reflex save (DC 10 + ½ the outsider’s HD + outsider’s Cha modifier) halves this damage. For each additional outsider with this ability that joins the dance, the damage is additive and the DC to avoid the effect increases by +1 to the highest DC of any outsiders with this ability (to a maximum of 20d6). The dance immediately ends and must start anew if any of the participating outsiders are slain, stunned, or otherwise prevented from dancing.
 
-**Format:** dance of ruin;**Location:** Special Attacks
+**Format:** dance of ruin; **Location:** Special Attacks
 
 ### Dancing Chains (SU, 5 AP)
 
-**Prerequisites:** outsider (kyton);**Benefit:** The kyton can control up to four chains within 20 feet as a standard action, making the chains dance or move as it wishes. In addition, the kyton can increase these chains’ length by up to 15 feet and cause them to sprout razor-edged barbs. These chains attack as effectively as the kyton itself. If a chain is in another creature’s possession, the creature can attempt a Will save (DC 10 + ½ the HD of the kyton + kyton’s Cha modifier) to break the kyton’s power over that chain. If the save is successful, the kyton cannot attempt to control that particular chain again for 24 hours or until the chain leaves the creature’s possession. A kyton can climb chains it controls at its normal speed without making Climb checks.
+**Prerequisites:** outsider (kyton); **Benefit:** The kyton can control up to four chains within 20 feet as a standard action, making the chains dance or move as it wishes. In addition, the kyton can increase these chains’ length by up to 15 feet and cause them to sprout razor-edged barbs. These chains attack as effectively as the kyton itself. If a chain is in another creature’s possession, the creature can attempt a Will save (DC 10 + ½ the HD of the kyton + kyton’s Cha modifier) to break the kyton’s power over that chain. If the save is successful, the kyton cannot attempt to control that particular chain again for 24 hours or until the chain leaves the creature’s possession. A kyton can climb chains it controls at its normal speed without making Climb checks.
 
-**Format:** dancing chains;**Location:** Special Attacks
+**Format:** dancing chains; **Location:** Special Attacks
 
 ### Death Roll (EX, 2 AP)
 
-**Prerequisites:** animal or magical beast;**Benefit:** When grappling a foe of its size or smaller, the animal can perform a death roll upon making a successful grapple check. As it clings to its foe, it tucks in its legs and rolls rapidly, twisting and wrenching its victim. The animal inflicts its bite damage with Strength x1.5 and knocks the creature prone. If successful, the animal maintains its grapple.
+**Prerequisites:** animal or magical beast; **Benefit:** When grappling a foe of its size or smaller, the animal can perform a death roll upon making a successful grapple check. As it clings to its foe, it tucks in its legs and rolls rapidly, twisting and wrenching its victim. The animal inflicts its bite damage with Strength x1.5 and knocks the creature prone. If successful, the animal maintains its grapple.
 
 **Enhancements**
 
 - The animal can perform a death roll on creatures of any size for an additional +2 AP.
 
-**Format:** death roll (1d8+6 plus trip);**Location:** Special Attacks
+**Format:** death roll (1d8+6 plus trip); **Location:** Special Attacks
 
 ### Death-Stealing Gaze (SU, 5 AP)
 
-**Prerequisites:** outsider (evil);**Benefit:** As a free action once per day, the outsider can activate its death-stealing gaze for a full round. All living creatures within 30 feet must succeed on a Fortitude save (DC 10 + ½ the outsider’s HD + outsider’s Cha modifier) or gain a negative level. A humanoid slain in this manner immediately transforms into a ghoul under the outsider’s control. The outsider’s gaze can only create one ghoul per round—if multiple humans perish from the gaze in a round, the outsider picks which human becomes a ghoul.
+**Prerequisites:** outsider (evil); **Benefit:** As a free action once per day, the outsider can activate its death-stealing gaze for a full round. All living creatures within 30 feet must succeed on a Fortitude save (DC 10 + ½ the outsider’s HD + outsider’s Cha modifier) or gain a negative level. A humanoid slain in this manner immediately transforms into a ghoul under the outsider’s control. The outsider’s gaze can only create one ghoul per round—if multiple humans perish from the gaze in a round, the outsider picks which human becomes a ghoul.
 
 **Enhancements**
 
@@ -3193,17 +3193,17 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The outsider can create any number of ghouls per round for an additional +2 AP.
 - When an outsider creates a ghoul with death-stealing gaze, it gains a growth point for an additional +7 AP. It gains a bonus equal to its growth point total on attack rolls, CMB rolls, saving throws, caster level checks, and skill checks. Its maximum hit points increase by 10 for each growth point, its caster level for spell-like abilities increases by 1, and it gains an additional use of death-stealing gaze. For every 2 growth points, its natural armor bonus, SR (if any), and CR increase by 1. Every time it gains a growth point it makes a DC 30 caster level check—success indicates it matures. It loses all growth points and its statistics improve by +1 CR within its focus. The outsider can have a maximum of 20 growth points—it automatically matures if it has not done so already when it reaches 20 growth points. It may repeat this process to continually grow in power.
 
-**Format:** death-stealing gaze;**Location:** Special Attacks
+**Format:** death-stealing gaze; **Location:** Special Attacks
 
 ### Devil Shaping (SU, 5 AP)
 
-**Prerequisites:** outsider (devil);**Benefit:** Three times per day, the devil can spend a minute to transform nearby lemures into other lesser devils. The devil can transform one lemure for every Hit Die the devil possesses. It can then reshape these lemures into a number of Hit Dice’s worth of lesser devils equal to the number of lemures affected. Lemures to be reshaped must be within 50 feet of the devil, becoming stationary and unable to move once the shaping begins. After a minute passes, the lemures reform into the shape of a new lesser devil (with a CR no higher than the devil with devil shaping) ready to follow the orders of the devil.
+**Prerequisites:** outsider (devil); **Benefit:** Three times per day, the devil can spend a minute to transform nearby lemures into other lesser devils. The devil can transform one lemure for every Hit Die the devil possesses. It can then reshape these lemures into a number of Hit Dice’s worth of lesser devils equal to the number of lemures affected. Lemures to be reshaped must be within 50 feet of the devil, becoming stationary and unable to move once the shaping begins. After a minute passes, the lemures reform into the shape of a new lesser devil (with a CR no higher than the devil with devil shaping) ready to follow the orders of the devil.
 
-**Format:** devil shaping;**Location:** Special Attacks
+**Format:** devil shaping; **Location:** Special Attacks
 
 ### Devour Soul (SU, 8 AP)
 
-**Prerequisites:** undead;**Benefit:** By making a touch attack as a standard action, the undead can deliver a slay living spell (caster level of the undead’s HD, Fortitude save DC 15 + undead’s Cha modifier). The soul of a creature slain by this attack becomes trapped with the undead. The creature cannot be brought back to life until the undead’s destruction. The undead may only hold one soul in this manner. This is equal to a 5th-level spell.
+**Prerequisites:** undead; **Benefit:** By making a touch attack as a standard action, the undead can deliver a slay living spell (caster level of the undead’s HD, Fortitude save DC 15 + undead’s Cha modifier). The soul of a creature slain by this attack becomes trapped with the undead. The creature cannot be brought back to life until the undead’s destruction. The undead may only hold one soul in this manner. This is equal to a 5th-level spell.
 
 **Enhancements**
 
@@ -3214,29 +3214,29 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 
 - Bonus AP gained from this flaw may only be spent on spell-like abilities and do not reduce the cost of the devour soul ability. The undead requires trapped souls to cast any spell-like abilities it possesses (8 AP). The soul provides 5 essence points for each Hit Die. The undead must expend essence points when it uses a spell-like ability equal to the spell’s level. The trapped essence gains one permanent negative level for every 5 points of essence drained — these negative levels remain if the creature is brought back to life (but do not stack with any negative levels imparted by being raised). A soul that is completely consumed may only be restored to life by a miracle or wish.
 
-**Format:** devour soul;**Location:** Special Attacks
+**Format:** devour soul; **Location:** Special Attacks
 
 ### Dismantle Armor (EX, 6 AP)
 
-**Prerequisites:** outsider;**Benefit:** If the outsider hits a foe with two attacks, it can attempt to peel away the target’s armor and shield as a free action by making a CMB check. If the outsider is successful, the target’s armor and shield are torn from his body and dismantled, falling to the ground. Armor subjected to this attack loses half its hit points and gains the broken condition if the target fails a Reflex save (DC 10 + ½ the outsider’s HD + outsider’s Str modifier).
+**Prerequisites:** outsider; **Benefit:** If the outsider hits a foe with two attacks, it can attempt to peel away the target’s armor and shield as a free action by making a CMB check. If the outsider is successful, the target’s armor and shield are torn from his body and dismantled, falling to the ground. Armor subjected to this attack loses half its hit points and gains the broken condition if the target fails a Reflex save (DC 10 + ½ the outsider’s HD + outsider’s Str modifier).
 
-**Format:** dismantle armor;**Location:** Special Attacks
+**Format:** dismantle armor; **Location:** Special Attacks
 
 ### Dragon Senses (EX, 2 AP)
 
-**Prerequisites:** dragon;**Benefit:** The dragon gains darkvision 120 feet and blindsense 60 feet. It sees four times as well as a human in dim light and twice as well in normal light.
+**Prerequisites:** dragon; **Benefit:** The dragon gains darkvision 120 feet and blindsense 60 feet. It sees four times as well as a human in dim light and twice as well in normal light.
 
-**Format:** Senses darkvision 120 ft.; blindsense 60 ft.;**Location:** Senses
+**Format:** Senses darkvision 120 ft.; blindsense 60 ft.; **Location:** Senses
 
 ### Drench (EX, 1 AP)
 
-**Prerequisites:** outsider (water) or aquatic subtype,**Benefit:** The outsider’s touch puts out nonmagical flames of Large size or smaller. The creature can dispel magical fire it touches as dispel magic (caster level equals the outsider’s HD).
+**Prerequisites:** outsider (water) or aquatic subtype, **Benefit:** The outsider’s touch puts out nonmagical flames of Large size or smaller. The creature can dispel magical fire it touches as dispel magic (caster level equals the outsider’s HD).
 
-**Format:** drench;**Location:** Special Attacks
+**Format:** drench; **Location:** Special Attacks
 
 ### Electricity (EX, 3 AP)
 
-**Prerequisites:** animal, magical beast, or air subtype;**Benefit:** The animal can produce a powerful jolt of 1d6 electricity damage, delivering the jolt with a successful touch attack. On a critical hit, the creature struck must make a Fortitude save (10 +1/2 the animal’s HD + animal’s Con modifier) or be stunned for 1 round.
+**Prerequisites:** animal, magical beast, or air subtype; **Benefit:** The animal can produce a powerful jolt of 1d6 electricity damage, delivering the jolt with a successful touch attack. On a critical hit, the creature struck must make a Fortitude save (10 +1/2 the animal’s HD + animal’s Con modifier) or be stunned for 1 round.
 
 **Enhancements**
 
@@ -3244,32 +3244,32 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - Targets must save against the stun effect on any successful hit for an additional +4 AP.
 - The electricity damage is increased to 2d6 for an additional +1 AP, 3d6 for +2 AP, 4d6 for +3 AP, or 5d6 for +4 AP.
 
-**Format:** tail -2 touch (1d6 electricity);**Location:** Melee
+**Format:** tail -2 touch (1d6 electricity); **Location:** Melee
 
 ### Elemental Endurance (EX, 1 AP)
 
-**Prerequisites:** outsider (native);**Benefit:** The outsider can remain on the Planes of Air, Earth, Fire, or Water unharmed by the nature of the plane for up to 48 hours at a time. Failure to return to the Material Plane before that time expires causes the outsider to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
+**Prerequisites:** outsider (native); **Benefit:** The outsider can remain on the Planes of Air, Earth, Fire, or Water unharmed by the nature of the plane for up to 48 hours at a time. Failure to return to the Material Plane before that time expires causes the outsider to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
 
 **Enhancements**
 
 - The outsider may remain on a plane indefinitely for an additional +1 AP.
 - The outsider can ignore the negative effects of any plane (such as the Negative or Positive Energy Planes) for an additional +1 AP.
 
-**Format:** elemental endurance;**Location:** SQ
+**Format:** elemental endurance; **Location:** SQ
 
 ### Elemental Mastery (EX, 0 AP)
 
-**Prerequisites:** air, earth, fire, or water subtype;**Benefit:** Either the creature gains a +1 bonus on attack and damage rolls or other creatures suffer a -1 penalty to attack and damage rolls when both creatures are primarily in contact with the chosen element (flying, on the ground, within fire, or swimming, respectively for air, earth, fire, or water). If the outsider is disconnected from the element attuned to its planar affinity, it takes a -4 penalty on attack and damage rolls.
+**Prerequisites:** air, earth, fire, or water subtype; **Benefit:** Either the creature gains a +1 bonus on attack and damage rolls or other creatures suffer a -1 penalty to attack and damage rolls when both creatures are primarily in contact with the chosen element (flying, on the ground, within fire, or swimming, respectively for air, earth, fire, or water). If the outsider is disconnected from the element attuned to its planar affinity, it takes a -4 penalty on attack and damage rolls.
 
 **Enhancements**
 
 - The outsider does not suffer penalties for being disconnected from the element for an additional +2 AP.
 
-**Format:** water mastery;**Location:** Special Attacks
+**Format:** water mastery; **Location:** Special Attacks
 
 ### Elemental Rays (SU, 2 AP)
 
-**Prerequisites:** construct;**Benefit:** The construct can produce magical rays with a range of 100 feet. Each round, it can fire one ray as a free action. A specific ray is usable only once every 4 rounds. The construct can fire an elemental ray in the same round that it makes physical attacks- firing an elemental ray does not provoke attacks of opportunity. The save DCs are equal to 10 + ½ the construct’s HD + construct’s Con modifier. This ability may be purchased multiple times, each time it adds an additional ray.
+**Prerequisites:** construct; **Benefit:** The construct can produce magical rays with a range of 100 feet. Each round, it can fire one ray as a free action. A specific ray is usable only once every 4 rounds. The construct can fire an elemental ray in the same round that it makes physical attacks- firing an elemental ray does not provoke attacks of opportunity. The save DCs are equal to 10 + ½ the construct’s HD + construct’s Con modifier. This ability may be purchased multiple times, each time it adds an additional ray.
 
 - **Acid:** Deals 1d6 acid damage plus an additional 1d6 damage per CR of the construct (Reflex half).
 - **Cold:** 1d6 cold damage plus an additional 1d6 damage per CR of the construct (Reflex half).
@@ -3277,46 +3277,46 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - **Fire:** Deals 1d6 fire damage plus an additional 1d6 damage per CR of the construct (Reflex half).
 - **Petrification:** Target must succeed on a Fortitude save or turn to stone permanently.
 
-**Format:** rays (+16 ranged touch);**Location:** Special Attacks
+**Format:** rays (+16 ranged touch); **Location:** Special Attacks
 
 ### Elemental Sense (EX, 1 AP)
 
-**Prerequisites:** magical beast or elemental subtype;**Benefit:** The magical beast automatically senses any single elemental effect (acid, cold, electricity, or fire) within 100 feet (select one).
+**Prerequisites:** magical beast or elemental subtype; **Benefit:** The magical beast automatically senses any single elemental effect (acid, cold, electricity, or fire) within 100 feet (select one).
 
-**Format:** Senses fire;**Location:** Senses
+**Format:** Senses fire; **Location:** Senses
 
 ### Elusive (SU, 2 AP)
 
-**Prerequisites:** magical beast;**Benefit:** As a full-round action the magical beast can move up to its run speed without leaving any trace of its passing (identical in effect to a pass without trace spell). This spell effect has a caster level of 20 and cannot be dispelled. The magical beast gains a +10 circumstance bonus to its Stealth checks while moving.
+**Prerequisites:** magical beast; **Benefit:** As a full-round action the magical beast can move up to its run speed without leaving any trace of its passing (identical in effect to a pass without trace spell). This spell effect has a caster level of 20 and cannot be dispelled. The magical beast gains a +10 circumstance bonus to its Stealth checks while moving.
 
 **Enhancements**
 
 - The bonus to Stealth checks increases to +20 for an additional +1 AP, +30 for +2 AP, or +40 for +3 AP.
 - Except when in combat, the magical beast is considered to be under the effects of a nondetection spell for an additional +4 AP. This spell effect has a caster level of 20 and cannot be dispelled.
 
-**Format:** elusive;**Location:** Defensive Abilities
+**Format:** elusive; **Location:** Defensive Abilities
 
 ### Engulf (EX, 1 AP)
 
-**Prerequisites:** ooze;**Benefit:** As the universal monster ability, but at the reduced base cost.
+**Prerequisites:** ooze; **Benefit:** As the universal monster ability, but at the reduced base cost.
 
-**Format:** engulf;**Location:** Special Attacks
+**Format:** engulf; **Location:** Special Attacks
 
 ### Entangle (EX, 3 AP)
 
-**Prerequisites:** outsider;**Benefit:** The outsider may use ropes, whips, or some equivalent to entangle creatures that are at least one size category smaller. If the outsider successfully hits, it can immediately attempt a grapple check without provoking an attack of opportunity. If the outsider wins the check, it draws the foe into an adjacent square.
+**Prerequisites:** outsider; **Benefit:** The outsider may use ropes, whips, or some equivalent to entangle creatures that are at least one size category smaller. If the outsider successfully hits, it can immediately attempt a grapple check without provoking an attack of opportunity. If the outsider wins the check, it draws the foe into an adjacent square.
 
-**Format:**+1 whip +10 (1d4+3 and entangle);**Location:** Melee
+**Format:** +1 whip +10 (1d4+3 and entangle); **Location:** Melee
 
 ### Ethereal Ambush (EX, 4 AP)
 
-**Prerequisites:** magical beast, ethereal jaunt;**Benefit:** A magical beast that attacks foes on the Material Plane in a surprise round can take a full round of actions if it begins the combat by phasing into the Material Plane from the Ethereal Plane.
+**Prerequisites:** magical beast, ethereal jaunt; **Benefit:** A magical beast that attacks foes on the Material Plane in a surprise round can take a full round of actions if it begins the combat by phasing into the Material Plane from the Ethereal Plane.
 
-**Format:** ethereal ambush;**Location:** Special Attacks
+**Format:** ethereal ambush; **Location:** Special Attacks
 
 ### Ethereal Jaunt (SU, 6 AP)
 
-**Prerequisites:** magical beast or outsider;**Benefit:** The magical beast can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action (or as part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
+**Prerequisites:** magical beast or outsider; **Benefit:** The magical beast can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action (or as part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
 
 **Enhancements**
 
@@ -3326,112 +3326,112 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 
 - Shifting from the Ethereal Plane to the Material Plane is a move action and shifting from the Material Plane to the Ethereal Plane takes 2 consecutive full-round actions (2 AP). While shifting from the Material to the Ethereal Plane, the magical beast becomes harder to hit: opponents have a 20% miss chance in the first round and a 50% miss chance in the second.
 
-**Format:** ethereal jaunt;**Location:** Defensive Abilities
+**Format:** ethereal jaunt; **Location:** Defensive Abilities
 
 ### Expert Climber (EX, 2 AP)
 
-**Prerequisites:** monstrous humanoid;**Benefit:** The monstrous humanoid can cling to walls and even ceilings as long as the surface has hand- and footholds. In effect, the monstrous humanoid is treated as constantly being under a nonmagical version of the spider climb spell, save it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to Climb checks normally afforded creatures with a climb speed to a +16 racial bonus.
+**Prerequisites:** monstrous humanoid; **Benefit:** The monstrous humanoid can cling to walls and even ceilings as long as the surface has hand- and footholds. In effect, the monstrous humanoid is treated as constantly being under a nonmagical version of the spider climb spell, save it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to Climb checks normally afforded creatures with a climb speed to a +16 racial bonus.
 
-**Format:** expert climber;**Location:** SQ
+**Format:** expert climber; **Location:** SQ
 
 ### Evil Eye (SU, 5 AP)
 
-**Prerequisites:** monstrous humanoid;**Benefit:** Three times per day, the monstrous humanoid can cast a dire gaze upon any single creature within 30 feet. The target must succeed on a Will save (DC 10+ ½ the monstrous humanoid’s HD + monstrous humanoid’s Cha modifier) or be staggered as strange nebulous distress and a gnawing sense of impending doom plagues the victim. If the monstrous humanoid uses the evil eye on someone already afflicted by this curse, the victim must make a Fortitude save or be overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the comatose victim must make a Fortitude save or perish. The evil eye is a mind-affecting fear effect.
+**Prerequisites:** monstrous humanoid; **Benefit:** Three times per day, the monstrous humanoid can cast a dire gaze upon any single creature within 30 feet. The target must succeed on a Will save (DC 10+ ½ the monstrous humanoid’s HD + monstrous humanoid’s Cha modifier) or be staggered as strange nebulous distress and a gnawing sense of impending doom plagues the victim. If the monstrous humanoid uses the evil eye on someone already afflicted by this curse, the victim must make a Fortitude save or be overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the comatose victim must make a Fortitude save or perish. The evil eye is a mind-affecting fear effect.
 
 **Enhancements**
 
 - Evil eye becomes usable at will for an additional +2 AP.
 - The range of evil eye increases by 30 feet for each additional +1 AP spent.
 
-**Format:** evil eye;**Location:** Special Attacks
+**Format:** evil eye; **Location:** Special Attacks
 
 ### Feed (SU, 5 AP)
 
-**Prerequisites:** outsider (evil);**Benefit:** Once per month, the outsider can devour a nonevil humanoid’s corpse as a full-round action to gain a growth point. It gains a bonus equal to its growth point total on attack rolls, CMB rolls, saving throws, and skill checks. Its maximum hit points increase by 5 for each growth point it gains. For every 2 growth points, the outsider’s caster level for its spell-like abilities and its CR increase by +1. When the outsider reaches 4 growth points, it loses all growth points and permanently improves by +1 CR according to its focus. The creature gains AP to spend on new abilities once its CR permanently increases, and can even change abilities it already possesses to afford new ones. It may repeat this process to continually grow in power.
+**Prerequisites:** outsider (evil); **Benefit:** Once per month, the outsider can devour a nonevil humanoid’s corpse as a full-round action to gain a growth point. It gains a bonus equal to its growth point total on attack rolls, CMB rolls, saving throws, and skill checks. Its maximum hit points increase by 5 for each growth point it gains. For every 2 growth points, the outsider’s caster level for its spell-like abilities and its CR increase by +1. When the outsider reaches 4 growth points, it loses all growth points and permanently improves by +1 CR according to its focus. The creature gains AP to spend on new abilities once its CR permanently increases, and can even change abilities it already possesses to afford new ones. It may repeat this process to continually grow in power.
 
-**Format:** feed;**Location:** Special Attacks
+**Format:** feed; **Location:** Special Attacks
 
 ### Filament (EX, 1 AP)
 
-**Prerequisites:** vermin or magical beast;**Benefit:** The vermin can fire a thin filament of sticky silk as a standard action. This touch attack has a range of 60 feet and no range increment. A creature struck by the vermin’s filament becomes attached to the sticky thread and can be pulled towards the vermin (see the pull universal monster ability) 10 feet plus 10 feet for every 5 that the vermin exceeds the target’s CMD. As a standard action, a creature can rip the filament free with a DC 20 Strength check. A caught creature can also attempt to escape a filament by making a DC 25 Escape Artist check. A filament is AC 14 (touch 12), has 5 hit points, and has DR 15/slashing. An application of liquid with high alcohol content (or a dose of universal solvent) dissolves the adhesive and releases the creature caught by the filament. The vermin can have only one filament active at a time.
+**Prerequisites:** vermin or magical beast; **Benefit:** The vermin can fire a thin filament of sticky silk as a standard action. This touch attack has a range of 60 feet and no range increment. A creature struck by the vermin’s filament becomes attached to the sticky thread and can be pulled towards the vermin (see the pull universal monster ability) 10 feet plus 10 feet for every 5 that the vermin exceeds the target’s CMD. As a standard action, a creature can rip the filament free with a DC 20 Strength check. A caught creature can also attempt to escape a filament by making a DC 25 Escape Artist check. A filament is AC 14 (touch 12), has 5 hit points, and has DR 15/slashing. An application of liquid with high alcohol content (or a dose of universal solvent) dissolves the adhesive and releases the creature caught by the filament. The vermin can have only one filament active at a time.
 
-**Format:** pull (filament, 10 feet);**Location:** Special Attacks
+**Format:** pull (filament, 10 feet); **Location:** Special Attacks
 
 ### Find Master (SU, 1 AP)
 
-**Prerequisites:** construct;**Benefit:** So long as the construct and its creator are on the same plane, the construct can locate its creator.
+**Prerequisites:** construct; **Benefit:** So long as the construct and its creator are on the same plane, the construct can locate its creator.
 
-**Format:** find master;**Location:** SQ
+**Format:** find master; **Location:** SQ
 
 ### Find Target (SU, 2 AP)
 
-**Prerequisites:** construct;**Benefit:** Once per day the construct’s creator can order it to find and kill a specific creature within 1 mile, which it locates as if guided by discern location. The creator must have seen or be holding an item from the specific creature for this order to function.
+**Prerequisites:** construct; **Benefit:** Once per day the construct’s creator can order it to find and kill a specific creature within 1 mile, which it locates as if guided by discern location. The creator must have seen or be holding an item from the specific creature for this order to function.
 
-**Format:** find target;**Location:** SQ
+**Format:** find target; **Location:** SQ
 
 ### Flash of Insight (SU, 6 AP)
 
-**Prerequisites:** humanoid or monstrous humanoid;**Benefit:** Once per day as an immediate action, the humanoid can peer into an occluded visual spectrum of possible futures, gaining insight that allows it to select the exact result of one die roll before the roll is made. This effect can alter an action taken by the humanoid only, and cannot be applied to the rolls of others.
+**Prerequisites:** humanoid or monstrous humanoid; **Benefit:** Once per day as an immediate action, the humanoid can peer into an occluded visual spectrum of possible futures, gaining insight that allows it to select the exact result of one die roll before the roll is made. This effect can alter an action taken by the humanoid only, and cannot be applied to the rolls of others.
 
 **Enhancements**
 
 - The humanoid gains an additional use of flash of insight for each additional +3 AP spent.
 
-**Format:** flash of insight;**Location:** SQ
+**Format:** flash of insight; **Location:** SQ
 
 ### Fog Vision (EX, 1 AP)
 
-**Prerequisites:** dragon or air subtype;**Benefit:** The dragon can see perfectly well in fog and clouds.
+**Prerequisites:** dragon or air subtype; **Benefit:** The dragon can see perfectly well in fog and clouds.
 
-**Format:** fog vision;**Location:** Senses
+**Format:** fog vision; **Location:** Senses
 
 ### Fortitude (EX, 3 AP)
 
-**Prerequisites:** plant, immunity (acid, cold, electricity, and fire);**Benefit:** Any elemental attack used against the plant that the plant possesses an immunity to temporarily increases its Constitution score by 1d4 points. The plant loses these temporary points at the rate of 1 per hour. Temporary Constitution gained through fortitude does not stack.
+**Prerequisites:** plant, immunity (acid, cold, electricity, and fire); **Benefit:** Any elemental attack used against the plant that the plant possesses an immunity to temporarily increases its Constitution score by 1d4 points. The plant loses these temporary points at the rate of 1 per hour. Temporary Constitution gained through fortitude does not stack.
 
 **Enhancements**
 
 - The temporary increase to Constitution becomes 1d6 points for an additional +1 AP, 1d8 for +2 AP, 2d4 for +3 AP, or 2d6 for +4 AP.
 
-**Format:** electric fortitude;**Location:** SQ
+**Format:** electric fortitude; **Location:** SQ
 
 ### Freezing Fog (SP, 5 AP)
 
-**Prerequisites:** dragon or cold subtype, breath weapon (cold);**Benefit:** The dragon can use this ability three times per day. It is similar to an acid fog spell but deals cold damage instead of acid damage. It also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a grease spell. This ability is the equivalent of a 6th-level spell.
+**Prerequisites:** dragon or cold subtype, breath weapon (cold); **Benefit:** The dragon can use this ability three times per day. It is similar to an acid fog spell but deals cold damage instead of acid damage. It also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a grease spell. This ability is the equivalent of a 6th-level spell.
 
-**Format:** freezing fog;**Location:** Special Attacks
+**Format:** freezing fog; **Location:** Special Attacks
 
 ### Gestalt (SU, 4 AP)
 
-**Prerequisites:** outsider, size Small or smaller;**Benefit:** As a full-round action, nine outsiders with this ability can fuse together to create a much larger and more powerful creature. The outsiders become a single creature of Large sized and gain all of the powers and abilities of any single type of Large elemental (as the elemental body III spell). The outsiders retain all the abilities of the base creature. The outsiders can remain in this form for 2d4 rounds. When the gestalt separates back into individual outsiders, its remaining hit points are divided evenly among them. If it had less than 9 hit points, some of the component outsiders die when the gestalt ends. The type of elemental created by the gestalt must be chosen when this ability is taken.
+**Prerequisites:** outsider, size Small or smaller; **Benefit:** As a full-round action, nine outsiders with this ability can fuse together to create a much larger and more powerful creature. The outsiders become a single creature of Large sized and gain all of the powers and abilities of any single type of Large elemental (as the elemental body III spell). The outsiders retain all the abilities of the base creature. The outsiders can remain in this form for 2d4 rounds. When the gestalt separates back into individual outsiders, its remaining hit points are divided evenly among them. If it had less than 9 hit points, some of the component outsiders die when the gestalt ends. The type of elemental created by the gestalt must be chosen when this ability is taken.
 
 **Enhancements**
 
 - The gestalt produces a Huge elemental for an additional +1 AP, greater elemental for +2 AP, or elder elemental for +3 AP.
 
-**Format:** gestalt;**Location:** SQ
+**Format:** gestalt; **Location:** SQ
 
 ### Ground Manipulation (SU, 2 AP)
 
-**Prerequisites:** aberration or earth subtype;**Benefit:** At will as a standard action, the aberration can cause stone and earth under its body to grow soft and muddy. The ground remains muddy for 1 minute after the aberration moves off the location. An aberration can move through these areas with ease, but other creatures treat them as difficult terrain.
+**Prerequisites:** aberration or earth subtype; **Benefit:** At will as a standard action, the aberration can cause stone and earth under its body to grow soft and muddy. The ground remains muddy for 1 minute after the aberration moves off the location. An aberration can move through these areas with ease, but other creatures treat them as difficult terrain.
 
-**Format:** ground manipulation;**Location:** Special Attacks
+**Format:** ground manipulation; **Location:** Special Attacks
 
 ### Guarded Thoughts (EX, 1 AP)
 
-**Prerequisites:** aberration;**Benefit:** The aberration is immune to any form of mind reading, such as that granted by detect thoughts. This ability also grants a +2 racial bonus on all saves against charm effects.
+**Prerequisites:** aberration; **Benefit:** The aberration is immune to any form of mind reading, such as that granted by detect thoughts. This ability also grants a +2 racial bonus on all saves against charm effects.
 
-**Format:** guarded thoughts;**Location:** Defensive Abilities
+**Format:** guarded thoughts; **Location:** Defensive Abilities
 
 ### Guard (EX, 3 AP)
 
-**Prerequisites:** construct;**Benefit:** If ordered to do so, the construct moves to defend its creator. All attacks against the creator take a –2 penalty when the construct is adjacent to its master.
+**Prerequisites:** construct; **Benefit:** If ordered to do so, the construct moves to defend its creator. All attacks against the creator take a –2 penalty when the construct is adjacent to its master.
 
-**Format:** guard;**Location:** SQ
+**Format:** guard; **Location:** SQ
 
 ### Hallucination Cloud (EX, 6 AP)
 
-**Prerequisites:** plant;**Benefit:** As a standard action once per minute, the plant can release a cloud of invisible spores in a 20-foot radius. All creatures within the area must succeed on a Fortitude save (DC 10 +½ the plant’s HD + plant’s Con modifier) or be affected by powerful hallucinations as long as they remain in the cloud plus 1d4 rounds after leaving the area. A new save must be made each round a creature remains within the affected area. A hallucination cloud persists for 5 rounds before dispersing—a strong wind causes it to disperse immediately. To determine what hallucination is suffered each round, roll 1d6 and consult the following table.
+**Prerequisites:** plant; **Benefit:** As a standard action once per minute, the plant can release a cloud of invisible spores in a 20-foot radius. All creatures within the area must succeed on a Fortitude save (DC 10 +½ the plant’s HD + plant’s Con modifier) or be affected by powerful hallucinations as long as they remain in the cloud plus 1d4 rounds after leaving the area. A new save must be made each round a creature remains within the affected area. A hallucination cloud persists for 5 rounds before dispersing—a strong wind causes it to disperse immediately. To determine what hallucination is suffered each round, roll 1d6 and consult the following table.
 
 | d6 | Hallucination |
 | --- | --- |
@@ -3447,22 +3447,22 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The radius of the spores is increased by 20 feet for each additional +1 AP spent.
 - The hallucination cloud persists for an additional 2 rounds for each additional +1 AP spent.
 
-**Format:** hallucination cloud;**Location:** Special Attacks
+**Format:** hallucination cloud; **Location:** Special Attacks
 
 ### Haste (SU, 2 AP)
 
-**Prerequisites:** construct;**Benefit:** After it has engaged in at least 1 round of combat, the construct can haste itself (as the spell) once per day as a free action. The effect lasts 1 round.
+**Prerequisites:** construct; **Benefit:** After it has engaged in at least 1 round of combat, the construct can haste itself (as the spell) once per day as a free action. The effect lasts 1 round.
 
 **Enhancements**
 
 - The benefits of haste persist for 3 rounds for an additional +2 AP, or the full duration of the spell (CL equal to the construct’s HD) for +4 AP.
 - The construct can use the haste ability 3/day for an additional +1 AP, or at will for +2 AP.
 
-**Format:** haste;**Location:** Special Attacks
+**Format:** haste; **Location:** Special Attacks
 
 ### Heartstone (SU, 8 AP)
 
-**Prerequisites:** outsider (evil);**Benefit:** The outsider possesses a heartstone—a special gemstone worth at least 1,800 gp that is worn as a periapt. A heartstone’s magic is fueled by the outsider’s spirit and proximity—once separated from its owner (or upon the outsider’s death), a heartstone retains its magic for only 24 hours before becoming a nonmagical gem again. The heartstone instantly cures any disease contracted by the holder. In addition, a heartstone provides a +2 resistance bonus on all saving throws and grants the etherealness and soul bind spells as spell-like abilities usable at will. An outsider that loses this charm loses these abilities until it finds an appropriate replacement.
+**Prerequisites:** outsider (evil); **Benefit:** The outsider possesses a heartstone—a special gemstone worth at least 1,800 gp that is worn as a periapt. A heartstone’s magic is fueled by the outsider’s spirit and proximity—once separated from its owner (or upon the outsider’s death), a heartstone retains its magic for only 24 hours before becoming a nonmagical gem again. The heartstone instantly cures any disease contracted by the holder. In addition, a heartstone provides a +2 resistance bonus on all saving throws and grants the etherealness and soul bind spells as spell-like abilities usable at will. An outsider that loses this charm loses these abilities until it finds an appropriate replacement.
 
 **Enhancements**
 
@@ -3473,11 +3473,11 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 
 - The heartstone only provides a +1 resistance bonus to saves (1 AP).
 
-**Format:** heartstone;**Location:** SQ
+**Format:** heartstone; **Location:** SQ
 
 ### Horrific Appearance (SU, 5 AP)
 
-**Prerequisites:** monstrous humanoid;**Benefit:** The sight of the monstrous humanoid is so revolting that anyone within 60 feet (other than another monstrous humanoid with this ability) who sets eyes upon one must succeed on Fortitude save (DC 10 + ½ the monstrous humanoid’s HD + monstrous humanoid’s Cha modifier) or instantly be weakened, taking 1d6 points of Strength damage. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same monstrous humanoid’s horrific appearance for 24 hours. This is a mind-affecting effect.
+**Prerequisites:** monstrous humanoid; **Benefit:** The sight of the monstrous humanoid is so revolting that anyone within 60 feet (other than another monstrous humanoid with this ability) who sets eyes upon one must succeed on Fortitude save (DC 10 + ½ the monstrous humanoid’s HD + monstrous humanoid’s Cha modifier) or instantly be weakened, taking 1d6 points of Strength damage. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same monstrous humanoid’s horrific appearance for 24 hours. This is a mind-affecting effect.
 
 **Enhancements**
 
@@ -3487,23 +3487,23 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 
 - The Strength damage is decreased to 1d4 (1 AP), 2 (2 AP), or 1 (3 AP).
 
-**Format:** horrific appearance (60 ft.);**Location:** Aura
+**Format:** horrific appearance (60 ft.); **Location:** Aura
 
 ### Icewalking (EX, 1 AP)
 
-**Prerequisites:** dragon or cold subtype;**Benefit:** This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+**Prerequisites:** dragon or cold subtype; **Benefit:** This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
 
-**Format:** icewalking;**Location:** Speed
+**Format:** icewalking; **Location:** Speed
 
 ### Ice Shape (SU, 3 AP)
 
-**Prerequisites:** dragon or cold subtype;**Benefit:** The dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A dragon’s caster level for this effect is equal to its Hit Dice.
+**Prerequisites:** dragon or cold subtype; **Benefit:** The dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A dragon’s caster level for this effect is equal to its Hit Dice.
 
-**Format:** ice shape;**Location:** SQ
+**Format:** ice shape; **Location:** SQ
 
 ### Immunity to Magic (EX, 3 AP)
 
-**Prerequisites:** construct;**Benefit:** The construct is immune to any spell or spell-like ability that allows spell resistance. Constructs with this ability are typically created by binding an elemental spirit into the construct and are known as golems.
+**Prerequisites:** construct; **Benefit:** The construct is immune to any spell or spell-like ability that allows spell resistance. Constructs with this ability are typically created by binding an elemental spirit into the construct and are known as golems.
 
 **Enhancements**
 
@@ -3516,17 +3516,17 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - A single spell (with negative effects) affects the construct normally or the construct is negatively affected in some unique fashion when it is the target of the spell (1 AP)
 - The construct is slowed (as the slow spell) by one type of elemental damage (acid, cold, electricity, or fire) or one spell for 1 round (1 AP), 1d6 rounds (2 AP), or 2d6 rounds (3 AP). This flaw may be taken multiple times, each time it applies to a different elemental damage type.
 
-**Format:** Immune magic;**Location:** Immune
+**Format:** Immune magic; **Location:** Immune
 
 ### Incinerate (SU, 6 AP)
 
-**Prerequisites:** dragon or fire subtype, breath weapon (fire);**Benefit:** The dragon can incinerate creatures with fire. A creature reduced to fewer than 0 hit points by its breath weapon must make a Fortitude save (using the breath weapon’s DC). Failure indicates that the creature is reduced to ash. Creatures destroyed in this way can only be restored to life through true resurrection or similar magic.
+**Prerequisites:** dragon or fire subtype, breath weapon (fire); **Benefit:** The dragon can incinerate creatures with fire. A creature reduced to fewer than 0 hit points by its breath weapon must make a Fortitude save (using the breath weapon’s DC). Failure indicates that the creature is reduced to ash. Creatures destroyed in this way can only be restored to life through true resurrection or similar magic.
 
-**Format:** incinerate;**Location:** Special Attacks
+**Format:** incinerate; **Location:** Special Attacks
 
 ### Ink Cloud (EX, 2 AP)
 
-**Prerequisites:** animal or magical beast;**Benefit:** The animal can emit a 5-footradius sphere of ink while in water once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute.
+**Prerequisites:** animal or magical beast; **Benefit:** The animal can emit a 5-footradius sphere of ink while in water once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute.
 
 **Enhancements**
 
@@ -3534,22 +3534,22 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The ink can be used every 1d4 rounds for an additional +2 AP.
 - The ink cloud carries a contact poison that affects any creature caught within it for an additional +1 AP. The poison must be purchased separately.
 
-**Format:** ink cloud;**Location:** Special Attacks
+**Format:** ink cloud; **Location:** Special Attacks
 
 ### Inspiration (SU, 4 AP)
 
-**Prerequisites:** fey;**Benefit:** The fey can choose an intelligent creature to inspire and serve as a muse by giving that creature some token of her affection. As long as the fey retains her favor for this creature, and as long as the creature carries the fey’s token, the creature gains a +4 insight bonus on all Will saving throws, Craft checks, and Perform checks. A bard who has the fey for a muse in this way can use his bardic performance for an additional number of rounds per day equal to the fey’s Charisma modifier. The fey retains a link to her token and its carrier as if she had cast a status spell on the carrier. The fey can end this effect at any time as a free action. A single fey may only inspire one creature at a time in this manner.
+**Prerequisites:** fey; **Benefit:** The fey can choose an intelligent creature to inspire and serve as a muse by giving that creature some token of her affection. As long as the fey retains her favor for this creature, and as long as the creature carries the fey’s token, the creature gains a +4 insight bonus on all Will saving throws, Craft checks, and Perform checks. A bard who has the fey for a muse in this way can use his bardic performance for an additional number of rounds per day equal to the fey’s Charisma modifier. The fey retains a link to her token and its carrier as if she had cast a status spell on the carrier. The fey can end this effect at any time as a free action. A single fey may only inspire one creature at a time in this manner.
 
 **Enhancements**
 
 - The bonuses provided by inspiration increase by +2 for each additional +1 AP spent.
 - The fey can inspire an additional creature for each additional +3 AP spent.
 
-**Format:** inspiration;**Location:** SQ
+**Format:** inspiration; **Location:** SQ
 
 ### Intimidating Charge (EX, 1 AP)
 
-**Prerequisites:** animal or magical beast;**Benefit:** When the animal charges, its base speed is increased by 20 feet. In addition to the normal effects of a charge, the creature charged must make a Will save (DC 10+ ½ the animal’s HD + animal’s Cha modifier) or be shaken for 1 rounds. This is a fear effect.
+**Prerequisites:** animal or magical beast; **Benefit:** When the animal charges, its base speed is increased by 20 feet. In addition to the normal effects of a charge, the creature charged must make a Will save (DC 10+ ½ the animal’s HD + animal’s Cha modifier) or be shaken for 1 rounds. This is a fear effect.
 
 **Enhancements**
 
@@ -3557,21 +3557,21 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The duration of the fear effect increases to 1d4 rounds for an additional +1 AP, or 1d6 rounds for +2 AP.
 - The creature charged is frightened on a failed save for an additional +2 AP, or panicked for +4 AP
 
-**Format:** intimidating charge;**Location:** Special Attacks
+**Format:** intimidating charge; **Location:** Special Attacks
 
 ### Jump Attack (EX, 1 AP)
 
-**Prerequisites:** monstrous humanoid;**Benefit:** As a standard action, the monstrous humanoid may make a single attack during a jump. It can make this attack at any point along the course of the jump- at the start, the end, or while in mid-air. While jumping, the monstrous humanoid does not provoke attacks of opportunity for leaving a threatened square.
+**Prerequisites:** monstrous humanoid; **Benefit:** As a standard action, the monstrous humanoid may make a single attack during a jump. It can make this attack at any point along the course of the jump- at the start, the end, or while in mid-air. While jumping, the monstrous humanoid does not provoke attacks of opportunity for leaving a threatened square.
 
 **Enhancements**
 
 - The monstrous humanoid may make a full attack during a leap attack as a full round action for an additional +3 AP.
 
-**Format:** jump attack;**Location:** Special Attacks
+**Format:** jump attack; **Location:** Special Attacks
 
 ### Kiss (SU, 5 AP)
 
-**Prerequisites:** outsider (evil);**Benefit:** The outsider can kiss a target with a successful melee touch attack that provokes an attack of opportunity. The kissed opponent must succeed on a Fortitude save (DC 10 +½ the outsider’s HD + outsider’s Con modifier) or begin a terrible transformation. After 1d6 hours, all the victim’s hair falls out. After another 1d6 hours, the ears grow into leathery wings, tentacles sprout on their chin and scalp, and the teeth become long, pointed fangs. During the next 1d6 hours, the victim takes Intelligence drain and Charisma drain equal to 1 point per hour (to a minimum of 3). The transformation completes 1d6 hours thereafter, when the victim’s head breaks free of the body (which promptly dies) and is remade as a Combat (barbaric) Focus outsider (evil) with this ability and a CR equal to the creature with this ability -2 (minimum 1). The creature loses all other racial and class abilities. Stopping the transformation requires remove disease or a similar effect. The transformation is a disease effect.
+**Prerequisites:** outsider (evil); **Benefit:** The outsider can kiss a target with a successful melee touch attack that provokes an attack of opportunity. The kissed opponent must succeed on a Fortitude save (DC 10 +½ the outsider’s HD + outsider’s Con modifier) or begin a terrible transformation. After 1d6 hours, all the victim’s hair falls out. After another 1d6 hours, the ears grow into leathery wings, tentacles sprout on their chin and scalp, and the teeth become long, pointed fangs. During the next 1d6 hours, the victim takes Intelligence drain and Charisma drain equal to 1 point per hour (to a minimum of 3). The transformation completes 1d6 hours thereafter, when the victim’s head breaks free of the body (which promptly dies) and is remade as a Combat (barbaric) Focus outsider (evil) with this ability and a CR equal to the creature with this ability -2 (minimum 1). The creature loses all other racial and class abilities. Stopping the transformation requires remove disease or a similar effect. The transformation is a disease effect.
 
 **Enhancements**
 
@@ -3584,38 +3584,38 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The target must be helpless (2 AP).
 - The transformation’s progress is paused by sunlight or any light spell of 3rd level or higher (1 AP).
 
-**Format:** kiss;**Location:** Special Attacks
+**Format:** kiss; **Location:** Special Attacks
 
 ### Leap (EX, 3 AP)
 
-**Prerequisites:** magical beast;**Benefit:** The magical beast can perform a special kind of pounce attack by jumping into combat. When the magical beast charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can attack with any natural attacks.
+**Prerequisites:** magical beast; **Benefit:** The magical beast can perform a special kind of pounce attack by jumping into combat. When the magical beast charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can attack with any natural attacks.
 
 **Flaws**
 
 - One of the creature’s natural attack types does not function when leaping (1 AP).
 
-**Format:** leap;**Location:** Special Attacks
+**Format:** leap; **Location:** Special Attacks
 
 ### Light Form (SU, 5 AP)
 
-**Prerequisites:** outsider (good);**Benefit:** The outsider can shift between its solid body and one made of light as a standard action. In light form, it gains a fly speed equal to three times its base speed (perfect maneuverability) and the incorporeal quality. This ability otherwise functions similar to the wind form ability. The outsider can use spell-like abilities or abilities that do not require physical contact, but can’t make physical attacks or cast spells.
+**Prerequisites:** outsider (good); **Benefit:** The outsider can shift between its solid body and one made of light as a standard action. In light form, it gains a fly speed equal to three times its base speed (perfect maneuverability) and the incorporeal quality. This ability otherwise functions similar to the wind form ability. The outsider can use spell-like abilities or abilities that do not require physical contact, but can’t make physical attacks or cast spells.
 
-**Format:** light form;**Location:** SQ
+**Format:** light form; **Location:** SQ
 
 ### Light Ray (EX, 4 AP)
 
-**Prerequisites:** outsider (good);**Benefit:** The outsider can fire two beams of light to deal 1d6 damage foes as a full-attack action or one ray as a standard-attack action. These light rays have a maximum range of 30 feet and overcome damage reduction of any type.
+**Prerequisites:** outsider (good); **Benefit:** The outsider can fire two beams of light to deal 1d6 damage foes as a full-attack action or one ray as a standard-attack action. These light rays have a maximum range of 30 feet and overcome damage reduction of any type.
 
 **Enhancements**
 
 - The damage increases to 1d12 for an additional +1 AP or 2d12 for +2 AP.
 - The maximum range of the light rays increases to 100 feet for an additional +1 AP or 300 feet for +2 AP.
 
-**Format:** 2 light rays +14 ranged touch (2d12);**Location:** Ranged
+**Format:** 2 light rays +14 ranged touch (2d12); **Location:** Ranged
 
 ### Luck (SP, 1 AP)
 
-**Prerequisites:** dragon or fey;**Benefit:** Once per day the dragon can touch a gem and enspell it to bring good luck. So long as the dragon carries the gem, it and every creature that shares at least one aspect of its alignment (chaotic, evil, good, lawful, or neutral) within a 10-foot radius receives a +1 luck bonus on all saving throws. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours. This ability is the equivalent of a 2nd-level spell.
+**Prerequisites:** dragon or fey; **Benefit:** Once per day the dragon can touch a gem and enspell it to bring good luck. So long as the dragon carries the gem, it and every creature that shares at least one aspect of its alignment (chaotic, evil, good, lawful, or neutral) within a 10-foot radius receives a +1 luck bonus on all saving throws. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours. This ability is the equivalent of a 2nd-level spell.
 
 **Enhancements**
 
@@ -3623,98 +3623,98 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The radius affected increases by 10 feet for each additional +1 AP spent.
 - The effect lasts 24 hours for an additional +2 AP.
 
-**Format:** luck;**Location:** SQ
+**Format:** luck; **Location:** SQ
 
 ### Luminescence (EX, 0 AP)
 
-**Prerequisites:** vermin, animal, or magical beasts;**Benefit:** The vermin possesses glowing glands that provide light in a 10-foot radius. A vermin’s luminescent glands continue to glow for 1d6 days after its death.
+**Prerequisites:** vermin, animal, or magical beasts; **Benefit:** The vermin possesses glowing glands that provide light in a 10-foot radius. A vermin’s luminescent glands continue to glow for 1d6 days after its death.
 
-**Format:** luminescence;**Location:** SQ
+**Format:** luminescence; **Location:** SQ
 
 ### Lunge (EX, 3 AP)
 
-**Prerequisites:** vermin, animal, or magical beast;**Benefit:** The vermin’s limbs are capable of reaching much farther than normal for a creature of its size. As a full-attack action, it can make a single attack at double its normal reach. When the vermin attacks in this manner, it gains a +4 bonus on its attack roll. The vermin cannot make attacks of opportunity with its lunge.
+**Prerequisites:** vermin, animal, or magical beast; **Benefit:** The vermin’s limbs are capable of reaching much farther than normal for a creature of its size. As a full-attack action, it can make a single attack at double its normal reach. When the vermin attacks in this manner, it gains a +4 bonus on its attack roll. The vermin cannot make attacks of opportunity with its lunge.
 
-**Format:** lunge;**Location:** Special Attacks
+**Format:** lunge; **Location:** Special Attacks
 
 ### Madness (EX, 1 AP)
 
-**Prerequisites:** aberration or humanoid;**Benefit:** The humanoid uses their Charisma modifier on Will saves instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a miracle or wish can remove the madness. If this occurs, the humanoid gains 6 points of Wisdom and loses 6 points of Charisma.
+**Prerequisites:** aberration or humanoid; **Benefit:** The humanoid uses their Charisma modifier on Will saves instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a miracle or wish can remove the madness. If this occurs, the humanoid gains 6 points of Wisdom and loses 6 points of Charisma.
 
-**Format:** madness;**Location:** SQ
+**Format:** madness; **Location:** SQ
 
 ### Malleable (EX, 1 AP)
 
-**Prerequisites:** vermin;**Benefit:** The vermin’s body is very malleable, allowing it to fit into narrow areas with ease. The vermin takes no penalty to its speed or checks when squeezing in an area that is one size category smaller than its actual size. The vermin can squeeze normally through an area two size categories smaller than its actual size.
+**Prerequisites:** vermin; **Benefit:** The vermin’s body is very malleable, allowing it to fit into narrow areas with ease. The vermin takes no penalty to its speed or checks when squeezing in an area that is one size category smaller than its actual size. The vermin can squeeze normally through an area two size categories smaller than its actual size.
 
-**Format:** malleable;**Location:** SQ
+**Format:** malleable; **Location:** SQ
 
 ### Manipulate Flames (SU, 6 AP)
 
-**Prerequisites:** dragon or fire subtype;**Benefit:** The dragon can control any fire spell within 10 feet as a standard action. This ability allows it to move any fire effect in the area, as if it were the caster. This ability also allows it to reposition a stationary fire effect, although the new placement must be one allowed by the spell. Finally, for 1 round following the use of this ability, the dragon can control any new fire spell cast within its area of control, as if it were the caster. It can make all decisions allowed to the caster, including canceling the spell if it so desires.
+**Prerequisites:** dragon or fire subtype; **Benefit:** The dragon can control any fire spell within 10 feet as a standard action. This ability allows it to move any fire effect in the area, as if it were the caster. This ability also allows it to reposition a stationary fire effect, although the new placement must be one allowed by the spell. Finally, for 1 round following the use of this ability, the dragon can control any new fire spell cast within its area of control, as if it were the caster. It can make all decisions allowed to the caster, including canceling the spell if it so desires.
 
 **Enhancements**
 
 - The radius affected increases by 10 feet for each additional +1 AP spent.
 
-**Format:** manipulate flames;**Location:** SQ
+**Format:** manipulate flames; **Location:** SQ
 
 ### Mass Laughter (SP, 4 AP)
 
-**Prerequisites:** dragon or fey;**Benefit:** The dragon can tell a fantastic joke once per day as a standard action. All creatures within 10 feet must make a Will save or laugh for 1 round, as if affected by hideous laughter. The save DC is Charisma-based. This ability is the equivalent of a 6th-level spell.
+**Prerequisites:** dragon or fey; **Benefit:** The dragon can tell a fantastic joke once per day as a standard action. All creatures within 10 feet must make a Will save or laugh for 1 round, as if affected by hideous laughter. The save DC is Charisma-based. This ability is the equivalent of a 6th-level spell.
 
 **Enhancements**
 
 - The radius affected increases by 10 feet for each additional +1 AP spent.
 - The duration of the effect lasts for 1d6 rounds for an additional +1 AP, or a number of rounds equal to the dragon’s HD for +2 AP.
 
-**Format:** mass laughter;**Location:** Special Attacks
+**Format:** mass laughter; **Location:** Special Attacks
 
 ### Melt Stone (SU, 9 AP)
 
-**Prerequisites:** dragon or fire subtype, breath weapon (fire);**Benefit:** The dragon can use its breath weapon to melt rock or similar material at the breath weapon’s range, affecting a 10-foot-radius area. The area becomes lava to a depth of 1 foot. Any creature in contact with the lava takes 20d6 points of fire damage on the first round, 10d6 on the second, and none thereafter as the lava hardens and cools. If used on a wall or ceiling, treat this ability as an avalanche that deals fire damage.
+**Prerequisites:** dragon or fire subtype, breath weapon (fire); **Benefit:** The dragon can use its breath weapon to melt rock or similar material at the breath weapon’s range, affecting a 10-foot-radius area. The area becomes lava to a depth of 1 foot. Any creature in contact with the lava takes 20d6 points of fire damage on the first round, 10d6 on the second, and none thereafter as the lava hardens and cools. If used on a wall or ceiling, treat this ability as an avalanche that deals fire damage.
 
 **Enhancements**
 
 - The radius affected increases by 10 feet for each additional +1 AP spent.
 
-**Format:** melt stone;**Location:** Special Attacks
+**Format:** melt stone; **Location:** Special Attacks
 
 ### Metalmorph (SU, 5 AP)
 
-**Prerequisites:** outsider (earth);**Benefit:** As a standard action, the outsider may touch a single metal object of no more than 10 pounds and transform it into any other metal for 1 day.
+**Prerequisites:** outsider (earth); **Benefit:** As a standard action, the outsider may touch a single metal object of no more than 10 pounds and transform it into any other metal for 1 day.
 
 **Enhancements**
 
 - The metal object may weigh up to 100 pounds for an additional +1 AP, or 1,000 pounds for +2 AP.
 
-**Format:** metalmorph;**Location:** Special Attacks
+**Format:** metalmorph; **Location:** Special Attacks
 
 ### Miasma (SU, 5 AP)
 
-**Prerequisites:** dragon or earth subtype, breath weapon (acid);**Benefit:** The dragon can use its breath weapon to create a cloud of acid as a standard action that deals damage to any creature inside it. The cloud moves with the dragon and has a radius of 20 feet. When it’s created, anyone inside this area takes an amount of damage equal to half the dragon’s breath weapon, with a Reflex save for half damage. The number of damage dice rolled is halved each round until the result would be less than 1d6. Any creature that starts its turn inside the cloud takes damage, but can make a Reflex save for half. A strong wind, such as that created by a gust of wind, disperses the cloud in 1 round.
+**Prerequisites:** dragon or earth subtype, breath weapon (acid); **Benefit:** The dragon can use its breath weapon to create a cloud of acid as a standard action that deals damage to any creature inside it. The cloud moves with the dragon and has a radius of 20 feet. When it’s created, anyone inside this area takes an amount of damage equal to half the dragon’s breath weapon, with a Reflex save for half damage. The number of damage dice rolled is halved each round until the result would be less than 1d6. Any creature that starts its turn inside the cloud takes damage, but can make a Reflex save for half. A strong wind, such as that created by a gust of wind, disperses the cloud in 1 round.
 
-**Format:** miasma;**Location:** Special Attacks
+**Format:** miasma; **Location:** Special Attacks
 
 ### Mimic Object (EX, 1 AP)
 
-**Prerequisites:** aberration or shapechanger subtype;**Benefit:** The aberration can assume the general shape of any object that is roughly the same equivalent size. The aberration’s body is hard and has a rough texture, no matter what appearance it might present. The aberration gains a +20 racial bonus on Disguise checks when imitating an object in this manner. Disguise is always a class skill for an aberration with this ability.
+**Prerequisites:** aberration or shapechanger subtype; **Benefit:** The aberration can assume the general shape of any object that is roughly the same equivalent size. The aberration’s body is hard and has a rough texture, no matter what appearance it might present. The aberration gains a +20 racial bonus on Disguise checks when imitating an object in this manner. Disguise is always a class skill for an aberration with this ability.
 
 **Enhancements**
 
 - The object can be one size category large or smaller for +1 AP, two size categories larger or smaller for +2 AP, or any size category for +4 AP.
 
-**Format:** mimic object;**Location:** SQ
+**Format:** mimic object; **Location:** SQ
 
 ### Mimicry (EX, 3 AP)
 
-**Prerequisites:** monstrous humanoid;**Benefit:** The monstrous humanoid is proficient in all weapons, armor, and shields. In addition, the monstrous humanoid can use any spell trigger or spell completion item as if the spells were on its spell list. Its caster level is equal to its racial Hit Dice.
+**Prerequisites:** monstrous humanoid; **Benefit:** The monstrous humanoid is proficient in all weapons, armor, and shields. In addition, the monstrous humanoid can use any spell trigger or spell completion item as if the spells were on its spell list. Its caster level is equal to its racial Hit Dice.
 
-**Format:** mimicry;**Location:** SQ
+**Format:** mimicry; **Location:** SQ
 
 ### Mind Thrust (SU, 2 AP)
 
-**Prerequisites:** aberration;**Benefit:** As a standard action, up to once a day, the aberration can deliver a massive blast of mental energy at any one target within 30 feet, inflicting 1d6 points of damage per CR. A successful DC Will save (DC 10 +1/2 the aberration’s HD + aberration’s Charisma modifier) negates the effect. This effect can only harm creatures with Intelligence scores. This is a mind-affecting effect.
+**Prerequisites:** aberration; **Benefit:** As a standard action, up to once a day, the aberration can deliver a massive blast of mental energy at any one target within 30 feet, inflicting 1d6 points of damage per CR. A successful DC Will save (DC 10 +1/2 the aberration’s HD + aberration’s Charisma modifier) negates the effect. This effect can only harm creatures with Intelligence scores. This is a mind-affecting effect.
 
 **Enhancements**
 
@@ -3723,17 +3723,17 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 - The range increases to 60 feet for an additional +1 AP, 90 feet for +2 AP, or 120 feet for +3 AP.
 - Mind thrust affects all targets in a cone for +3 AP.
 
-**Format:** mind thrust;**Location:** special attacks
+**Format:** mind thrust; **Location:** special attacks
 
 ### Mirage (SU, 4 AP)
 
-**Prerequisites:** dragon or fey;**Benefit:** The dragon can make itself appear to be in two places at once as a free action for a number of rounds per day equal to its Hit Dice. This ability functions as project image but the dragon can use any breath weapon it possesses through the mirage.
+**Prerequisites:** dragon or fey; **Benefit:** The dragon can make itself appear to be in two places at once as a free action for a number of rounds per day equal to its Hit Dice. This ability functions as project image but the dragon can use any breath weapon it possesses through the mirage.
 
-**Format:** mirage;**Location:** Defensive Abilities
+**Format:** mirage; **Location:** Defensive Abilities
 
 ### Moan (EX, 2 AP)
 
-**Prerequisites:** aberration;**Benefit:** The aberration can emit an infrasonic moan as a standard action, with one of four effects (chosen when the ability is taken). The save DCs are equal to 10 + ½ the aberration’s HD + aberration’s Cha modifier. This ability may be taken multiple times (maximum 4), each time adding a new effect that can be caused by the moan.
+**Prerequisites:** aberration; **Benefit:** The aberration can emit an infrasonic moan as a standard action, with one of four effects (chosen when the ability is taken). The save DCs are equal to 10 + ½ the aberration’s HD + aberration’s Cha modifier. This ability may be taken multiple times (maximum 4), each time adding a new effect that can be caused by the moan.
 
 - **Fear:** All creatures in a 30-foot spread must save (Will negates) or become panicked for 2 rounds.
 - **Nausea:** All creatures in a 30-foot cone must save (Fortitude negates) or fall prone and be nauseated for 1d4+1 rounds.
@@ -3742,11 +3742,11 @@ A victim under the effects of the captivating song moves toward the monstrous hu
 
 The aberration is immune to these sonic, mindaffecting attacks. A creature that successfully saves against the aberration’s fear, nausea, or unnerve moans cannot be affected by that same moan effect from that aberration for 24 hours.
 
-**Format:** moan;**Location:** special attacks
+**Format:** moan; **Location:** special attacks
 
 ### Mucus Cloud (EX, 2 AP)
 
-**Prerequisites:** aberration and aquatic subtype;**Benefit:** While underwater, the aberration exudes a cloud of transparent slime. All creatures adjacent to the aberration must succeed on a Fortitude save (DC 10 +1/2 the aberration’s HD + aberration’s Con modifier) each round or lose the ability to breathe air (but gain the ability to breathe water) for 3 hours. Renewed contact with the aberration’s mucus cloud and failing another save extends the effect for another 3 hours.
+**Prerequisites:** aberration and aquatic subtype; **Benefit:** While underwater, the aberration exudes a cloud of transparent slime. All creatures adjacent to the aberration must succeed on a Fortitude save (DC 10 +1/2 the aberration’s HD + aberration’s Con modifier) each round or lose the ability to breathe air (but gain the ability to breathe water) for 3 hours. Renewed contact with the aberration’s mucus cloud and failing another save extends the effect for another 3 hours.
 
 **Enhancements**
 
@@ -3756,50 +3756,50 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - The effects of mucus cloud can be removed by either the remove curse or neutralize poison spells (1 AP).
 
-**Format:** mucus cloud (5 feet);**Location:** Aura
+**Format:** mucus cloud (5 feet); **Location:** Aura
 
 ### Musical Manipulation (SU, 1 AP)
 
-**Prerequisites:** fey;**Benefit:** When the fey plays music, all creatures within a 30-foot radius must make a Will save (DC 10 + ½ the fey’s HD + fey’s Cha modifier) or be affected by a single enchantment spell-like ability possessed by the fey (chosen when this ability is taken). A creature that successfully saves against any of the music’s effects cannot be affected by the same fey’s musical manipulation for 24 hours, but can still be affected by the fey’s normal spell-like abilities as normal. Use of this ability does not count against the fey’s daily usage of any spell-like abilities. The save DC is Charisma-based.
+**Prerequisites:** fey; **Benefit:** When the fey plays music, all creatures within a 30-foot radius must make a Will save (DC 10 + ½ the fey’s HD + fey’s Cha modifier) or be affected by a single enchantment spell-like ability possessed by the fey (chosen when this ability is taken). A creature that successfully saves against any of the music’s effects cannot be affected by the same fey’s musical manipulation for 24 hours, but can still be affected by the fey’s normal spell-like abilities as normal. Use of this ability does not count against the fey’s daily usage of any spell-like abilities. The save DC is Charisma-based.
 
 **Enhancements**
 
 - The creature adds an additional enchantment spell-like ability usable with musical manipulation for an additional +1 AP per spell added.
 - The range affected by musical manipulation increases to 60 feet for an additional +1 AP, 90 feet for +2 AP, or 120 feet for +3 AP.
 
-**Format:** musical manipulation;**Location:** Special Attacks
+**Format:** musical manipulation; **Location:** Special Attacks
 
 ### Natural Cunning (EX, 3 AP)
 
-**Prerequisites:** monstrous humanoid;**Benefit:** The monstrous humanoid possesses innate cunning and logical ability. The monstrous humanoid can never be caught flat-footed, and is immune to maze spells.
+**Prerequisites:** monstrous humanoid; **Benefit:** The monstrous humanoid possesses innate cunning and logical ability. The monstrous humanoid can never be caught flat-footed, and is immune to maze spells.
 
-**Format:** natural cunning;**Location:** Defensive Abilities
+**Format:** natural cunning; **Location:** Defensive Abilities
 
 ### Nausea (EX, 8 AP)
 
-**Prerequisites:** aberration or outsider (evil);**Benefit:** The noxious vapors and foul fluids that constantly weep and seethe from the outsider’s body are particularly heinous to those the creature grapples. Each round a creature grappled by the outsider must make a Fortitude save (DC 10 + ½ the outsider’s HD + outsider’s Con modifier) or become nauseated. A creature nauseated in this manner remains nauseated until he succeeds on a Fortitude save, or until a minute has passed during which he is not grappled by the outsider, whichever condition comes first.
+**Prerequisites:** aberration or outsider (evil); **Benefit:** The noxious vapors and foul fluids that constantly weep and seethe from the outsider’s body are particularly heinous to those the creature grapples. Each round a creature grappled by the outsider must make a Fortitude save (DC 10 + ½ the outsider’s HD + outsider’s Con modifier) or become nauseated. A creature nauseated in this manner remains nauseated until he succeeds on a Fortitude save, or until a minute has passed during which he is not grappled by the outsider, whichever condition comes first.
 
-**Format:** nausea;**Location:** Special Attacks
+**Format:** nausea; **Location:** Special Attacks
 
 ### Numb (SU, 3 AP)
 
-**Prerequisites:** outsider;**Benefit:** A hit from the outsider causes the target to become numb due to cold or some other effect. The opponent must succeed on a Fortitude save (DC 10 +½ the outsider’s HD +outsiders Con modifier) or be affected as though by a slow spell for 1 round. This effect can be transferred through weapons wielded by the outsider.
+**Prerequisites:** outsider; **Benefit:** A hit from the outsider causes the target to become numb due to cold or some other effect. The opponent must succeed on a Fortitude save (DC 10 +½ the outsider’s HD +outsiders Con modifier) or be affected as though by a slow spell for 1 round. This effect can be transferred through weapons wielded by the outsider.
 
 **Enhancements**
 
 - The slow effect persists for 1d4 rounds for an additional +1 AP, or 1d6 rounds for +2 AP.
 
-**Format:**+1 spear +11 (2d6+4 plus numb);**Location:** Melee
+**Format:** +1 spear +11 (2d6+4 plus numb); **Location:** Melee
 
 ### Paralysis (EX, 2 AP)
 
-**Prerequisites:** aberration or ooze;**Benefit:** as the universal monster ability, except at the reduced cost as shown.
+**Prerequisites:** aberration or ooze; **Benefit:** as the universal monster ability, except at the reduced cost as shown.
 
-**Format:** paralysis (1d4+1 rounds, DC 18);**Location:** Special Attacks and individual attacks.
+**Format:** paralysis (1d4+1 rounds, DC 18); **Location:** Special Attacks and individual attacks.
 
 ### Petrification (SU, 5 AP)
 
-**Prerequisites:** magical beast or earth subtype;**Benefit:** One of the magical beast’s natural attacks can cause living creatures to fossilize into stone. Each time the creature is damaged by the magical beast’s attack, it must succeed on a Fortitude save (DC 10 + ½ the magical beast’s HD + magical beast’s Con modifier) or take 1d4 points of Dexterity damage as its flesh and bones stiffen and harden (this does not alter the creature’s natural armor). A creature reduced to 0 Dexterity immediately turns completely to stone as if petrified by a flesh to stone. Every day, a creature petrified in this manner can attempt a new Fortitude save to recover from the petrification, at which point the victim returns to flesh with 1 Dexterity (and thereafter can be restored to fill Dexterity by natural healing or magic as normal), but after a petrified creature fails three of these Fortitude saves in a row, the petrified state becomes permanent. A creature restored to flesh via magic has its Dexterity damage caused by this ability removed, but not any existing Dexterity damage from other sources. The magical beast is immune to this ability, but other petrification attacks affect it normally.
+**Prerequisites:** magical beast or earth subtype; **Benefit:** One of the magical beast’s natural attacks can cause living creatures to fossilize into stone. Each time the creature is damaged by the magical beast’s attack, it must succeed on a Fortitude save (DC 10 + ½ the magical beast’s HD + magical beast’s Con modifier) or take 1d4 points of Dexterity damage as its flesh and bones stiffen and harden (this does not alter the creature’s natural armor). A creature reduced to 0 Dexterity immediately turns completely to stone as if petrified by a flesh to stone. Every day, a creature petrified in this manner can attempt a new Fortitude save to recover from the petrification, at which point the victim returns to flesh with 1 Dexterity (and thereafter can be restored to fill Dexterity by natural healing or magic as normal), but after a petrified creature fails three of these Fortitude saves in a row, the petrified state becomes permanent. A creature restored to flesh via magic has its Dexterity damage caused by this ability removed, but not any existing Dexterity damage from other sources. The magical beast is immune to this ability, but other petrification attacks affect it normally.
 
 **Enhancements**
 
@@ -3807,39 +3807,39 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 - The damage increases to 1d6 for an additional +1 AP, 1d8 for +2 AP, 2d4 for +3 AP, 2d6 for +4 AP, and 2d8 for +5 AP.
 - The attack that deals Dexterity damage is a touch attack for an additional +2 AP.
 
-**Format:** bite +9 (1d4-2 plus petrification);**Location:** Melee
+**Format:** bite +9 (1d4-2 plus petrification); **Location:** Melee
 
 ### Poison Reservoir (EX, 1 AP)
 
-**Prerequisites:** construct;**Benefit:** The construct has a poison injector that can be filled by its creator manually. The reservoir holds enough poison for 3 successful attacks, after which the attack is no longer poisoned until it can be refilled. Refilling the reservoir takes 5 rounds and provokes attacks of opportunity. The creator can fill the reservoir with any injury based poison, though acid, alchemical substances, and even stranger liquids can be used. Any poison added to the creature must be purchased separately.
+**Prerequisites:** construct; **Benefit:** The construct has a poison injector that can be filled by its creator manually. The reservoir holds enough poison for 3 successful attacks, after which the attack is no longer poisoned until it can be refilled. Refilling the reservoir takes 5 rounds and provokes attacks of opportunity. The creator can fill the reservoir with any injury based poison, though acid, alchemical substances, and even stranger liquids can be used. Any poison added to the creature must be purchased separately.
 
 **Enhancements**
 
 - The construct naturally produces poison and the reservoir does not need to be refilled for an additional +1 AP.
 
-**Format:** bite +3 (1d6+1 plus poison);**Location:** Melee
+**Format:** bite +3 (1d6+1 plus poison); **Location:** Melee
 
 ### Poison Use (EX, 1 AP)
 
-**Prerequisites:** humanoid or monstrous humanoid;**Benefit:** The humanoid is skilled in the use of poison and never risks accidentally poisoning themselves. Any poisons possessed by the humanoid must be purchased separately.
+**Prerequisites:** humanoid or monstrous humanoid; **Benefit:** The humanoid is skilled in the use of poison and never risks accidentally poisoning themselves. Any poisons possessed by the humanoid must be purchased separately.
 
-**Format:** poison use;**Location:** SQ
+**Format:** poison use; **Location:** SQ
 
 ### Pollen Spray (EX, 5 AP)
 
-**Prerequisites:** plant;**Benefit:** As a standard action, the plant can spray a cloud of pollen at a single creature within 30 feet. It must make a ranged touch attack to strike the target, who must then succeed on a Will save (DC 10 + ½ the plant’s HD + plant’s Con modifier) or be entranced for 1d6 rounds. An entranced creature can take no action other than to move at its normal speed into a space within the plant’s reach, at which point an entranced creature remains motionless and counts as helpless.
+**Prerequisites:** plant; **Benefit:** As a standard action, the plant can spray a cloud of pollen at a single creature within 30 feet. It must make a ranged touch attack to strike the target, who must then succeed on a Will save (DC 10 + ½ the plant’s HD + plant’s Con modifier) or be entranced for 1d6 rounds. An entranced creature can take no action other than to move at its normal speed into a space within the plant’s reach, at which point an entranced creature remains motionless and counts as helpless.
 
 **Enhancements**
 
 - The range of pollen spray increases by 30 feet for each additional +1 AP spent.
 
-**Format:** pollen spray;**Location:** Special attacks
+**Format:** pollen spray; **Location:** Special attacks
 
 ### Possession (SU, 6 AP)
 
-**Prerequisites:** undead or outsider (evil) and incorporeal subtype;**Benefit:** The undead can merge its body with a creature on the Material Plane. This ability is similar to a magic jar spell (caster level 10th or the undead’s Hit Dice, whichever is higher), except it does not require a receptacle. To use this ability, the undead must be adjacent to the target. The target can resist the attack with a successful Will save. A creature that successfully saves is immune to that same undead’s possession for 24 hours.
+**Prerequisites:** undead or outsider (evil) and incorporeal subtype; **Benefit:** The undead can merge its body with a creature on the Material Plane. This ability is similar to a magic jar spell (caster level 10th or the undead’s Hit Dice, whichever is higher), except it does not require a receptacle. To use this ability, the undead must be adjacent to the target. The target can resist the attack with a successful Will save. A creature that successfully saves is immune to that same undead’s possession for 24 hours.
 
-**Format:** possession;**Location:** Special Attacks
+**Format:** possession; **Location:** Special Attacks
 
 ### Profane Gift (SU, 5 AP)
 
@@ -3853,11 +3853,11 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - Select another spell that can remove the profane gift such as dispel chaos or dispel law (1 AP).
 
-**Format:** profane gift;**Location:** Special Attacks
+**Format:** profane gift; **Location:** Special Attacks
 
 ### Psychic Crush (SU, 6 AP)
 
-**Prerequisites:** aberration;**Benefit:** As a standard action once per day, the aberration can attempt to crush the mind of a single creature within 30 feet. The target must make a Will save (DC 10 +1/2 the aberration’s HD + aberration’s Cha modifier) or collapse, becoming unconscious and dying at –1 hit points. If the target succeeds on the save, it takes 1d6 points of damage for every 3 HD the aberration possesses and is sickened for 1 round. This is a mind-affecting effect.
+**Prerequisites:** aberration; **Benefit:** As a standard action once per day, the aberration can attempt to crush the mind of a single creature within 30 feet. The target must make a Will save (DC 10 +1/2 the aberration’s HD + aberration’s Cha modifier) or collapse, becoming unconscious and dying at –1 hit points. If the target succeeds on the save, it takes 1d6 points of damage for every 3 HD the aberration possesses and is sickened for 1 round. This is a mind-affecting effect.
 
 **Enhancements**
 
@@ -3866,41 +3866,41 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 - The range increases to 60 feet for an additional +1 AP, 90 feet for +2 AP, or 120 feet for +3 AP.
 - Psychic crush affects all targets in a cone for +6 AP.
 
-**Format:** psychic crush;**Location:** Special Attacks
+**Format:** psychic crush; **Location:** Special Attacks
 
 ### Quickness (SU, 4 AP)
 
-**Prerequisites:** aberration or vermin;**Benefit:** The aberration is extremely quick. It can take an extra move action during its turn each round.
+**Prerequisites:** aberration or vermin; **Benefit:** The aberration is extremely quick. It can take an extra move action during its turn each round.
 
-**Format:** quickness;**Location:** SQ
+**Format:** quickness; **Location:** SQ
 
 ### Reflective Scales (SU, 8 AP)
 
-**Prerequisites:** dragon, spell resistance;**Benefit:** Any spell that fails to penetrate the dragon’s spell resistance might be reflected. If the caster level check to penetrate the dragon’s spell resistance is failed by 5 or more, the spell is reflected. If the check fails by 4 or less, the spell is merely wasted. This otherwise functions as spell turning.
+**Prerequisites:** dragon, spell resistance; **Benefit:** Any spell that fails to penetrate the dragon’s spell resistance might be reflected. If the caster level check to penetrate the dragon’s spell resistance is failed by 5 or more, the spell is reflected. If the check fails by 4 or less, the spell is merely wasted. This otherwise functions as spell turning.
 
-**Format:** reflective scales;**Location:** Defensive Abilities
+**Format:** reflective scales; **Location:** Defensive Abilities
 
 ### Rejuvenation (SU, 6 AP)
 
-**Prerequisites:** undead;**Benefit:** When the undead is destroyed, its body or form immediately begins to rebuild. The process takes 2d4 or 1d10 days (chosen when the ability is taken). If the undead is corporeal, it must be tied to a physical object and reforms near to the physical object. If the object is destroyed, or otherwise unavailable, the undead cannot reform. If the reforming undead’s body is destroyed before it can fully rejuvenate, it immediately starts the process anew. After the full time has passed, the undead wakens fully healed (albeit without any gear left behind on the destroyed form). An incorporeal undead can typically only be permanently killed by specific circumstances as determined by the GM.
+**Prerequisites:** undead; **Benefit:** When the undead is destroyed, its body or form immediately begins to rebuild. The process takes 2d4 or 1d10 days (chosen when the ability is taken). If the undead is corporeal, it must be tied to a physical object and reforms near to the physical object. If the object is destroyed, or otherwise unavailable, the undead cannot reform. If the reforming undead’s body is destroyed before it can fully rejuvenate, it immediately starts the process anew. After the full time has passed, the undead wakens fully healed (albeit without any gear left behind on the destroyed form). An incorporeal undead can typically only be permanently killed by specific circumstances as determined by the GM.
 
-**Format:** rejuvenation;**Location:** Defensive Abilities
+**Format:** rejuvenation; **Location:** Defensive Abilities
 
 ### Relentless (SU, VARIES)
 
-**Prerequisites:** construct;**Benefit:** The construct is constantly under the effects of a single personal or touch range spell. The ability cannot be dispelled. The ability costs 1 AP per level of the spell. This ability may be taken multiple times.
+**Prerequisites:** construct; **Benefit:** The construct is constantly under the effects of a single personal or touch range spell. The ability cannot be dispelled. The ability costs 1 AP per level of the spell. This ability may be taken multiple times.
 
-**Format:** relentless;**Location:** SQ
+**Format:** relentless; **Location:** SQ
 
 ### Rend Ship (EX, 6 AP)
 
-**Prerequisites:** magical beast or aquatic subtype, grab, Gargantuan size or larger;**Benefit:** As a full-round action, the magical beast can attempt to grapple a ship of its size or smaller. It makes a CMB check opposed by the ship’s captain’s Profession (sailor) check, but the magical beast gets a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the magical beast grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship, but can only attack foes on deck. Each round it maintains its hold on the ship, it automatically inflicts constrict damage on the ship’s hull.
+**Prerequisites:** magical beast or aquatic subtype, grab, Gargantuan size or larger; **Benefit:** As a full-round action, the magical beast can attempt to grapple a ship of its size or smaller. It makes a CMB check opposed by the ship’s captain’s Profession (sailor) check, but the magical beast gets a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the magical beast grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship, but can only attack foes on deck. Each round it maintains its hold on the ship, it automatically inflicts constrict damage on the ship’s hull.
 
-**Format:** rend ship;**Location:** Special Attacks
+**Format:** rend ship; **Location:** Special Attacks
 
 ### Rot (SU, 5 AP)
 
-**Prerequisites:** outsider (evil), plant, or undead;**Benefit:** One of the creature’s attacks causes a horrible withering and rotting of flesh. It begins on the round the victim is injured and continues for another round thereafter (2 rounds total). Each round the rot persists, the target must succeed on a Fortitude save (DC 10+ ½ the creature’s HD + creature’s Con modifier) or take 2 points of Constitution damage. If the target makes two consecutive saves in a row, the effect is cured. Heal can also halt the rot effect.
+**Prerequisites:** outsider (evil), plant, or undead; **Benefit:** One of the creature’s attacks causes a horrible withering and rotting of flesh. It begins on the round the victim is injured and continues for another round thereafter (2 rounds total). Each round the rot persists, the target must succeed on a Fortitude save (DC 10+ ½ the creature’s HD + creature’s Con modifier) or take 2 points of Constitution damage. If the target makes two consecutive saves in a row, the effect is cured. Heal can also halt the rot effect.
 
 **Enhancements**
 
@@ -3913,11 +3913,11 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - The rot counts as a poison effect (1 AP).
 
-**Format:** bite +19 (2d6+9 plus rot);**Location:** Melee
+**Format:** bite +19 (2d6+9 plus rot); **Location:** Melee
 
 ### Rust (SU, 5 AP)
 
-**Prerequisites:** aberration;**Benefit:** The aberration gains a primary touch attack that causes any metal object touched to swiftly rust and corrode. The object touched takes half its maximum hit points in damage and gains the broken condition—a second hit destroys the item. The aberration never provokes attacks of opportunity by attempting to strike a weapon with this touch attack. Against creatures made of metal, the aberration deals 1d6 damage per CR, plus the aberration’s HD. An attended object, any magic object, or a metal creature can attempt a Reflex save (DC 10 +1/2 the aberration’s HD + aberration’s Con modifier) to negate this effect.
+**Prerequisites:** aberration; **Benefit:** The aberration gains a primary touch attack that causes any metal object touched to swiftly rust and corrode. The object touched takes half its maximum hit points in damage and gains the broken condition—a second hit destroys the item. The aberration never provokes attacks of opportunity by attempting to strike a weapon with this touch attack. Against creatures made of metal, the aberration deals 1d6 damage per CR, plus the aberration’s HD. An attended object, any magic object, or a metal creature can attempt a Reflex save (DC 10 +1/2 the aberration’s HD + aberration’s Con modifier) to negate this effect.
 
 **Enhancements**
 
@@ -3929,21 +3929,21 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 - Rust requires an attack against the creature’s full AC, and not a touch attack (2 AP).
 - Rust provokes an attack of opportunity (2 AP).
 
-**Format:** antennae +6 touch (rust);**Location:** Melee
+**Format:** antennae +6 touch (rust); **Location:** Melee
 
 ### Sandstorm (SU, 7 AP)
 
-**Prerequisites:** dragon or earth subtype;**Benefit:** The dragon can create a powerful dust or sandstorm once per day as a full-round action. This storm has a radius of 1 mile and lasts for 1 minute. This functions as a sandstorm (Pathfinder Roleplaying Game Core Rulebook), except that it is also accompanied by windstorm-level winds.
+**Prerequisites:** dragon or earth subtype; **Benefit:** The dragon can create a powerful dust or sandstorm once per day as a full-round action. This storm has a radius of 1 mile and lasts for 1 minute. This functions as a sandstorm (Pathfinder Roleplaying Game Core Rulebook), except that it is also accompanied by windstorm-level winds.
 
 **Enhancements**
 
 - The duration of the sandstorm increases by 1 minute for each additional +1 AP spent.
 
-**Format:** sandstorm;**Location:** Special Attacks
+**Format:** sandstorm; **Location:** Special Attacks
 
 ### Self-Resurrection (SU, 12 AP)
 
-**Prerequisites:** magical beast;**Benefit:** The magical beast only remains dead for 1d4 rounds unless its body is completely destroyed by an effect such as disintegrate. Otherwise, it will become fully healed and alive 1d4 rounds after death, as if brought back to life via resurrection. The magical beast gains 1 permanent negative level when this occurs. The magical beast brought back to life through other means never gains negative levels as a result.
+**Prerequisites:** magical beast; **Benefit:** The magical beast only remains dead for 1d4 rounds unless its body is completely destroyed by an effect such as disintegrate. Otherwise, it will become fully healed and alive 1d4 rounds after death, as if brought back to life via resurrection. The magical beast gains 1 permanent negative level when this occurs. The magical beast brought back to life through other means never gains negative levels as a result.
 
 **Enhancements**
 
@@ -3957,33 +3957,33 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 - The magical beast remains dead for 1d4 minutes (1 AP), 1d4 hours (2 AP), or 1d4 days (3 AP).
 - The negative level gained from self-resurrection can never be restored or removed (2 AP).
 
-**Format:** self-resurrection;**Location:** Defensive Abilities
+**Format:** self-resurrection; **Location:** Defensive Abilities
 
 ### Shadow Blend (SU, 4 AP)
 
-**Prerequisites:** outsider or undead;**Benefit:** During any condition, other than bright light, the outsider can disappear into the shadows as a move-equivalent action, effectively becoming invisible. Artificial illumination or light spells of 2nd level or lower do not negate this ability.
+**Prerequisites:** outsider or undead; **Benefit:** During any condition, other than bright light, the outsider can disappear into the shadows as a move-equivalent action, effectively becoming invisible. Artificial illumination or light spells of 2nd level or lower do not negate this ability.
 
 **Flaws**
 
 - Any artificial illumination or any spell with the light descriptor negates the ability (1 AP).
 
-**Format:** shadow blend;**Location:** Special Attacks
+**Format:** shadow blend; **Location:** Special Attacks
 
 ### Shield Other (SP, 2 AP)
 
-**Prerequisites:** construct;**Benefit:** The creator of the construct can activate this defensive ability as a standard action if within 100 feet of the construct. Just as the spell of the same name, this ability transfers to the construct half the damage that would be dealt to the creator (note that the ability does not provide the spell’s AC or save bonuses). Damage transferred in this manner bypasses any defensive abilities (such as immunity or damage reduction) the construct possesses.
+**Prerequisites:** construct; **Benefit:** The creator of the construct can activate this defensive ability as a standard action if within 100 feet of the construct. Just as the spell of the same name, this ability transfers to the construct half the damage that would be dealt to the creator (note that the ability does not provide the spell’s AC or save bonuses). Damage transferred in this manner bypasses any defensive abilities (such as immunity or damage reduction) the construct possesses.
 
-**Format:** shield other;**Location:** SQ
+**Format:** shield other; **Location:** SQ
 
 ### Shock (EX Or SU, 2 AP)
 
-**Prerequisites:** magical beast;**Benefit:** The magical beast can deliver an electrical shock to a single opponent within 5 feet. This attack deals 1d8 points of nonlethal electricity damage to living opponents with a Reflex save for half. If two or more magical beasts with this ability are within 20 feet of each other, they can create a lethal shock once every 1d4 rounds with a radius of 20 feet, centered on any one contributing beast. All creatures within the area take 2d8 lethal electricity damage for each animal contributing, to a maximum of 12d8. A Reflex (DC 10 + number of animal contributing) save halves the damage.
+**Prerequisites:** magical beast; **Benefit:** The magical beast can deliver an electrical shock to a single opponent within 5 feet. This attack deals 1d8 points of nonlethal electricity damage to living opponents with a Reflex save for half. If two or more magical beasts with this ability are within 20 feet of each other, they can create a lethal shock once every 1d4 rounds with a radius of 20 feet, centered on any one contributing beast. All creatures within the area take 2d8 lethal electricity damage for each animal contributing, to a maximum of 12d8. A Reflex (DC 10 + number of animal contributing) save halves the damage.
 
-**Format:** shock;**Location:** Special Attacks
+**Format:** shock; **Location:** Special Attacks
 
 ### Shriek (SU, 4 AP)
 
-**Prerequisites:** outsider;**Benefit:** The outsider can shriek as a standard action. Creatures without this ability within 30 feet must succeed on a Fortitude save (DC 10 + ½ the outsider’s HD + outsider’s Con modifier) or be stunned for 1 round. A creature that successfully saves cannot be affected again by the same outsider’s shriek for 24 hours.
+**Prerequisites:** outsider; **Benefit:** The outsider can shriek as a standard action. Creatures without this ability within 30 feet must succeed on a Fortitude save (DC 10 + ½ the outsider’s HD + outsider’s Con modifier) or be stunned for 1 round. A creature that successfully saves cannot be affected again by the same outsider’s shriek for 24 hours.
 
 **Enhancements**
 
@@ -3996,13 +3996,13 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - The effect ends as soon as the outsider attacks the victim, goes out of range, or leaves their sight (2 AP).
 
-**Format:** shriek;**Location:** Special Attacks
+**Format:** shriek; **Location:** Special Attacks
 
 ### Skilled (EX, 1 AP)
 
-**Prerequisites:** humanoid or monstrous humanoid;**Benefit:** The humanoid gains a +2 racial bonus to any two skills. Whatever skill or skills receive the bonus always count as class skills for the humanoid. This ability may be taken multiple times, and each time either adds to the racial bonus gained or applies to new skills.
+**Prerequisites:** humanoid or monstrous humanoid; **Benefit:** The humanoid gains a +2 racial bonus to any two skills. Whatever skill or skills receive the bonus always count as class skills for the humanoid. This ability may be taken multiple times, and each time either adds to the racial bonus gained or applies to new skills.
 
-**Format:**+4 Stealth in mountains;**Location:** Racial Modifiers
+**Format:** +4 Stealth in mountains; **Location:** Racial Modifiers
 
 ### Slaying Arrow (SU, 11 AP)
 
@@ -4012,11 +4012,11 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - Arrows created count as greater slaying arrow for an additional +3 AP.
 
-**Format:**+5 composite longbow (+9 Str bonus) +31/+26/+21/+16 (2d6+14 plus slaying arrow);**Location:** Melee
+**Format:** +5 composite longbow (+9 Str bonus) +31/+26/+21/+16 (2d6+14 plus slaying arrow); **Location:** Melee
 
 ### Slime (EX, 4 AP)
 
-**Prerequisites:** aberration or aquatic subtype;**Benefit:** A creature hit by one of the aberration’s natural attacks must succeed on a Fortitude save (DC 10 +1/2 the aberration’s HD + aberration’s Con modifier) or his skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature’s new “flesh” is soft and tender, reducing its Constitution score by 4 as long as it persists. If the creature’s flesh isn’t kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. Remove disease and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack.
+**Prerequisites:** aberration or aquatic subtype; **Benefit:** A creature hit by one of the aberration’s natural attacks must succeed on a Fortitude save (DC 10 +1/2 the aberration’s HD + aberration’s Con modifier) or his skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature’s new “flesh” is soft and tender, reducing its Constitution score by 4 as long as it persists. If the creature’s flesh isn’t kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. Remove disease and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack.
 
 **Enhancements**
 
@@ -4024,11 +4024,11 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 - The target’s Constitution score is reduced by 6 for an additional +2 AP.
 - The creature takes damage every 1 minute for an additional +1 AP, or every round for +3 AP.
 
-**Format:** 4 tentacles +10 (1d6+5 plus slime);**Location:** Melee
+**Format:** 4 tentacles +10 (1d6+5 plus slime); **Location:** Melee
 
 ### Slow (SU, 4 AP)
 
-**Prerequisites:** construct;**Benefit:** The construct can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet in a burst centered on the construct and a duration of ½ the construct’s HD in rounds, requiring a Will save (DC 10 +1/2 the construct’s HD + construct’s Con modifier) to negate.
+**Prerequisites:** construct; **Benefit:** The construct can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet in a burst centered on the construct and a duration of ½ the construct’s HD in rounds, requiring a Will save (DC 10 +1/2 the construct’s HD + construct’s Con modifier) to negate.
 
 **Enhancements**
 
@@ -4039,45 +4039,45 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - The slow effect requires a move action (1 AP), or standard action (2 AP) to activate.
 
-**Format:** slow;**Location:** Special Attacks
+**Format:** slow; **Location:** Special Attacks
 
 ### Slow Aura (SU, 7 AP)
 
-**Prerequisites:** dragon;**Benefit:** The dragon is surrounded by an aura of slowness. All creatures within 5 feet of the dragon must make a Will save (DC 10 + ½ the dragon’s HD + the dragon’s Con modifier) or be affected as per slow for 1 round. The DC of this save is equal to the dragon’s breath weapon. The dragon can suppress or activate this aura at will as a free action.
+**Prerequisites:** dragon; **Benefit:** The dragon is surrounded by an aura of slowness. All creatures within 5 feet of the dragon must make a Will save (DC 10 + ½ the dragon’s HD + the dragon’s Con modifier) or be affected as per slow for 1 round. The DC of this save is equal to the dragon’s breath weapon. The dragon can suppress or activate this aura at will as a free action.
 
 **Enhancements**
 
 - The radius of the aura is increased by 5 feet for each additional +1 AP spent.
 - The duration of the slow effect is increased to 1d4 rounds for an additional +1 AP.
 
-**Format:** slow (5 feet);**Location:** Aura
+**Format:** slow (5 feet); **Location:** Aura
 
 ### Smoke (SU, 6 AP)
 
-**Prerequisites:** outsider;**Benefit:** The outsider exhales smoke that chokes and blinds in a 15-foot cone each round as a free action. Anyone in the cone must succeed on a Fortitude save (DC 10 +½ the outsider’s HD + outsider’s Con modifier) or become sickened until 1d6 minutes after leaving the area. This smoke acts as obscuring mist for the purposes of concealment. The smoke persists for 1 round.
+**Prerequisites:** outsider; **Benefit:** The outsider exhales smoke that chokes and blinds in a 15-foot cone each round as a free action. Anyone in the cone must succeed on a Fortitude save (DC 10 +½ the outsider’s HD + outsider’s Con modifier) or become sickened until 1d6 minutes after leaving the area. This smoke acts as obscuring mist for the purposes of concealment. The smoke persists for 1 round.
 
 **Enhancements**
 
 - The range of the cone increases by 15 feet for each additional +1 AP spent.
 - Creatures become nauseated for 1d6 rounds and then sickened for 1d6 minutes for an additional +4 AP.
 
-**Format:** smoke;**Location:** Special Attacks
+**Format:** smoke; **Location:** Special Attacks
 
 ### Smoke Vision (EX, 1 AP)
 
-**Prerequisites:** dragon or fire subtype;**Benefit:** The dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+**Prerequisites:** dragon or fire subtype; **Benefit:** The dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
 
-**Format:** smoke vision;**Location:** Senses
+**Format:** smoke vision; **Location:** Senses
 
 ### Snow Vision (EX, 1 AP)
 
-**Prerequisites:** dragon or cold subtype;**Benefit:** The dragon learns to see perfectly well in snowy conditions. The dragon does not suffer any penalties to Perception checks while in snow.
+**Prerequisites:** dragon or cold subtype; **Benefit:** The dragon learns to see perfectly well in snowy conditions. The dragon does not suffer any penalties to Perception checks while in snow.
 
-**Format:** snow vision;**Location:** Senses
+**Format:** snow vision; **Location:** Senses
 
-### Speak With Animals (SU, 2 AP):
+### Speak With Animals (SU, 2 AP)
 
-**Prerequisites:** fey or monstrous humanoid;**Benefit:** The monstrous humanoid can communicate telepathically with animals up to a distance of 150 feet. This communication is limited to simple concepts, such as “come here,” “defend me,” or “attack this target.”
+**Prerequisites:** fey or monstrous humanoid; **Benefit:** The monstrous humanoid can communicate telepathically with animals up to a distance of 150 feet. This communication is limited to simple concepts, such as “come here,” “defend me,” or “attack this target.”
 
 **Enhancements**
 
@@ -4088,21 +4088,21 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - The monstrous humanoid can only communicate telepathically with a specific type of animal like wolves or sharks (1 AP).
 
-**Format:** speak with sharks;**Location:** Languages
+**Format:** speak with sharks; **Location:** Languages
 
 ### Special Arrows (SU, 5 AP)
 
-**Prerequisites:** fey;**Benefit:** When the fey fires an arrow from any bow, it can decide to change the arrow’s properties. Doing so is a free action as long as the fey is the one who fires the arrow. The fey can generate a number of magical arrows equal to its Charisma score each day. Providing an arrow is altered in this way, it does not inflict damage when it hits—it only causes its new effect. The fey can choose any one of the following three effects when dusting an arrow. Save DCs are equal to 10 + ½ the fey’s HD + fey’s Cha modifier.
+**Prerequisites:** fey; **Benefit:** When the fey fires an arrow from any bow, it can decide to change the arrow’s properties. Doing so is a free action as long as the fey is the one who fires the arrow. The fey can generate a number of magical arrows equal to its Charisma score each day. Providing an arrow is altered in this way, it does not inflict damage when it hits—it only causes its new effect. The fey can choose any one of the following three effects when dusting an arrow. Save DCs are equal to 10 + ½ the fey’s HD + fey’s Cha modifier.
 
 - **Charm:** The target must succeed on a Will save or be affected as though by a charm monster spell for 10 minutes.
 - **Memory Loss:** The target must succeed on a Will save or be affected by a modify memory spell (this effect can only eliminate the previous 5 minutes of memory.
 - **Sleep:** The target must succeed on a Will save or fall asleep for 5 minutes.
 
-**Format:** special arrows;**Location:** Special Attacks
+**Format:** special arrows; **Location:** Special Attacks
 
 ### Spell Storing (SP, 4 AP)
 
-**Prerequisites:** construct;**Benefit:** The construct can store one spell of 4th level or lower that is cast into it by another creature. It “casts” this spell when commanded to do so or when a predefined situation arises. Once this spell is used, the construct can store another spell (or the same spell again).
+**Prerequisites:** construct; **Benefit:** The construct can store one spell of 4th level or lower that is cast into it by another creature. It “casts” this spell when commanded to do so or when a predefined situation arises. Once this spell is used, the construct can store another spell (or the same spell again).
 
 **Enhancements**
 
@@ -4113,11 +4113,11 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - The construct can only store spells of 3rd level or lower (1 AP), 2nd level or lower (2 AP), or 1st level or lower (3 AP).
 
-**Format:** spell storing;**Location:** SQ
+**Format:** spell storing; **Location:** SQ
 
 ### Spikes (EX, 3 AP)
 
-**Prerequisites:** magical beast;**Benefit:** The magical beast can launch four spikes or spines as a standard action (make an attack roll for each spike). The spikes have a maximum range of 120 feet with no range increments. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period. The damage for the spikes is 1d4 plus the ½ creature’s Strength modifier. Spikes may have any enhancement or flaw added as a natural weapon.
+**Prerequisites:** magical beast; **Benefit:** The magical beast can launch four spikes or spines as a standard action (make an attack roll for each spike). The spikes have a maximum range of 120 feet with no range increments. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period. The damage for the spikes is 1d4 plus the ½ creature’s Strength modifier. Spikes may have any enhancement or flaw added as a natural weapon.
 
 **Enhancements**
 
@@ -4134,28 +4134,28 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 - The magical beast can only fire three spikes (1 AP), two spikes (2 AP), or one spike (3 AP), at a time.
 - Firing the spikes requires a full-round action (1 AP).
 
-**Format:** 6 spikes +25 (2d10+15);**Location:** ranged
+**Format:** 6 spikes +25 (2d10+15); **Location:** ranged
 
 ### Spit (EX, 3 AP)
 
-**Prerequisites:** aberration;**Benefit:** The aberration can spit contact, inhalation, or injury poison up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Creatures hit by the attack must save against the poison. The poison must be purchased separately.
+**Prerequisites:** aberration; **Benefit:** The aberration can spit contact, inhalation, or injury poison up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Creatures hit by the attack must save against the poison. The poison must be purchased separately.
 
 **Enhancements**
 
 - On a successful attack, the target is blinded for 1d4 rounds unless they succeed on a Fortitude save (DC 10 + ½ the aberration’s HD + aberration’s Con modifier) for an additional +1 AP if the spit carries no poison, or +2 AP if the target must save against both the blind effect and a poison.
 - The aberration may spit each round as a move action for an additional +1 AP, or free action for +2 AP.
 
-**Format:** spit (+6 ranged touch);**Location:** Special Attacks
+**Format:** spit (+6 ranged touch); **Location:** Special Attacks
 
 ### Split (EX, 2 AP)
 
-**Prerequisites:** ooze;**Benefit:** As the universal monster ability, but at the reduced cost.
+**Prerequisites:** ooze; **Benefit:** As the universal monster ability, but at the reduced cost.
 
-**Format:** split;**Location:** Defensive Abilities
+**Format:** split; **Location:** Defensive Abilities
 
 ### Spores (EX, 9 AP)
 
-**Prerequisites:** outsider (evil) or plant;**Benefit:** The creature can release a cloud of spores from its body once every 3 rounds as a free action. Adjacent creatures take 1d8 points of damage from the spores, plus 1d4 points of damage per round for 10 rounds as the spores grow into thick green vines. Although ugly, the vines are harmless and wither away in 1d4 days if not shaved off sooner. This attack can also be halted by effects that remove or provide immunity to disease.
+**Prerequisites:** outsider (evil) or plant; **Benefit:** The creature can release a cloud of spores from its body once every 3 rounds as a free action. Adjacent creatures take 1d8 points of damage from the spores, plus 1d4 points of damage per round for 10 rounds as the spores grow into thick green vines. Although ugly, the vines are harmless and wither away in 1d4 days if not shaved off sooner. This attack can also be halted by effects that remove or provide immunity to disease.
 
 **Enhancements**
 
@@ -4168,39 +4168,39 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 - Spore damage only persists for 5 rounds (1 AP).
 - The spores can be destroyed by casting bless on the affected creatures or by sprinkling them with holy water (1 AP).
 
-**Format:** spores;**Location:** Special Attacks
+**Format:** spores; **Location:** Special Attacks
 
 ### Sprint (EX, 1 AP)
 
-**Prerequisites:** animal or magical beast;**Benefit:** The animal chooses one of the following options: once per hour the animal can move at 10 times its normal speed with one movement type when making a charge or once per minute the animal may increase its speed by +20 feet for 1 round. This ability may be purchased multiple times, each time it applies to a different movement type.
+**Prerequisites:** animal or magical beast; **Benefit:** The animal chooses one of the following options: once per hour the animal can move at 10 times its normal speed with one movement type when making a charge or once per minute the animal may increase its speed by +20 feet for 1 round. This ability may be purchased multiple times, each time it applies to a different movement type.
 
-**Format:** Speed 20 ft., swim 30ft.; sprint;**Location:** Speed
+**Format:** Speed 20 ft., swim 30ft.; sprint; **Location:** Speed
 
 ### Stampede (EX, 1 AP)
 
-**Prerequisites:** animal or magical beast, trample;**Benefit:** A stampede occurs if three or more animals with stampede make a trample attack while remaining adjacent to each other. While stampeding, the animals can trample foes of their size or smaller, and the trample’s save DC increases by +2.
+**Prerequisites:** animal or magical beast, trample; **Benefit:** A stampede occurs if three or more animals with stampede make a trample attack while remaining adjacent to each other. While stampeding, the animals can trample foes of their size or smaller, and the trample’s save DC increases by +2.
 
-**Format:** stampede;**Location:** Special Attacks
+**Format:** stampede; **Location:** Special Attacks
 
 ### Sticky Tongue (EX, 1 AP)
 
-**Prerequisites:** humanoid or monstrous humanoid;**Benefit:** The humanoid gains a natural tongue attack. Creatures struck by the tongue attack cannot move more than 10 feet away from the humanoid and take a -2 penalty to AC providing the tongue is attached (this penalty does not stack if multiple tongues are attached). The tongue can be removed by making an opposed Strength check as a standard action or by dealing 2 points of slashing damage to the tongue (AC 11, damage does not deplete the humanoid’s actual hit points). The humanoid cannot move more than 10 feet away from the target, but the humanoid can release its tongue as a free action. The humanoid cannot pull targets toward it with its tongue.
+**Prerequisites:** humanoid or monstrous humanoid; **Benefit:** The humanoid gains a natural tongue attack. Creatures struck by the tongue attack cannot move more than 10 feet away from the humanoid and take a -2 penalty to AC providing the tongue is attached (this penalty does not stack if multiple tongues are attached). The tongue can be removed by making an opposed Strength check as a standard action or by dealing 2 points of slashing damage to the tongue (AC 11, damage does not deplete the humanoid’s actual hit points). The humanoid cannot move more than 10 feet away from the target, but the humanoid can release its tongue as a free action. The humanoid cannot pull targets toward it with its tongue.
 
-**Format:** tongue -1 touch (sticky tongue);**Location:** Melee
+**Format:** tongue -1 touch (sticky tongue); **Location:** Melee
 
 ### Stone Curse (SU, 4 AP)
 
-**Prerequisites:** outsider (earth);**Benefit:** If the outsider wins a bull rush check by 5 or more and pushes its target into a stone barrier, the target must make a Reflex save (DC 10 +½ the outsider’s HD + outsider’s Str modifier) or be forced into the barrier as if the target had cast meld into stone until the victim makes a successful Fortitude save as a full-round action to exit the stone.
+**Prerequisites:** outsider (earth); **Benefit:** If the outsider wins a bull rush check by 5 or more and pushes its target into a stone barrier, the target must make a Reflex save (DC 10 +½ the outsider’s HD + outsider’s Str modifier) or be forced into the barrier as if the target had cast meld into stone until the victim makes a successful Fortitude save as a full-round action to exit the stone.
 
 **Enhancements**
 
 - The creature cannot escape the barrier, as if the outsider had cast imprisonment for an additional +6 AP.
 
-**Format:** stone curse;**Location:** Special Attacks
+**Format:** stone curse; **Location:** Special Attacks
 
 ### Strands (EX, 4 AP)
 
-**Prerequisites:** aberration;**Benefit:** The aberration can extend thin stick strands from its body, attacking with them with 10 feet of reach. It gains one strand per 2 HD and resolves attacks with strands as ranged touch attacks. These strands are quite strong, but can be severed by any amount of slashing damage (a strand is AC 20). A creature struck by a strand is numbed and weakened by the strange material and must make a Fortitude save (DC 10 +1/2 the aberration’s HD + aberration’s Con modifier) or take 1 point of Strength damage.
+**Prerequisites:** aberration; **Benefit:** The aberration can extend thin stick strands from its body, attacking with them with 10 feet of reach. It gains one strand per 2 HD and resolves attacks with strands as ranged touch attacks. These strands are quite strong, but can be severed by any amount of slashing damage (a strand is AC 20). A creature struck by a strand is numbed and weakened by the strange material and must make a Fortitude save (DC 10 +1/2 the aberration’s HD + aberration’s Con modifier) or take 1 point of Strength damage.
 
 **Enhancements**
 
@@ -4212,39 +4212,39 @@ The aberration is immune to these sonic, mindaffecting attacks. A creature that 
 
 - The creature gains one strand per 4 HD (1 AP) or only a single strand (2 AP).
 
-**Format:** 6 strands +10 touch (1d6 Strength);**Location:** Ranged
+**Format:** 6 strands +10 touch (1d6 Strength); **Location:** Ranged
 
 ### Storm Breath (SU, 7 AP)
 
-**Prerequisites:** dragon or air subtype, breath weapon (electricity);**Benefit:** The dragon can use its breath weapon to create a storm of lightning. This functions as call lightning storm spell, but the damage is equal to the dragon’s breath weapon. The dragon can call down 1 bolt per round as a free action for 1d6 rounds. The save DC is equal to the dragon’s breath weapon DC. Additional uses of this ability extend the duration by an additional 1d6 rounds.
+**Prerequisites:** dragon or air subtype, breath weapon (electricity); **Benefit:** The dragon can use its breath weapon to create a storm of lightning. This functions as call lightning storm spell, but the damage is equal to the dragon’s breath weapon. The dragon can call down 1 bolt per round as a free action for 1d6 rounds. The save DC is equal to the dragon’s breath weapon DC. Additional uses of this ability extend the duration by an additional 1d6 rounds.
 
-**Format:** storm breath;**Location:** Special Attacks
+**Format:** storm breath; **Location:** Special Attacks
 
 ### Stunning Glance (SU, 5 AP)
 
-**Prerequisites:** fey;**Benefit:** As a standard action, the fey can stun a creature within 30 feet with a look. The target must succeed on a Fortitude save (DC 10 + ½ HD + fey’s Cha modifier) or be stunned for 1 round.
+**Prerequisites:** fey; **Benefit:** As a standard action, the fey can stun a creature within 30 feet with a look. The target must succeed on a Fortitude save (DC 10 + ½ HD + fey’s Cha modifier) or be stunned for 1 round.
 
 **Enhancements**
 
 - The duration of the stunned effect increase to 1d4 rounds for an additional +1 AP, or 2d4 rounds for +2 AP.
 
-**Format:** stunning glance;**Location:** Special Attacks
+**Format:** stunning glance; **Location:** Special Attacks
 
 ### Suction (EX, 2 AP)
 
-**Prerequisites:** ooze;**Benefit:** The ooze can create powerful suction against any surface as it climbs, allowing it to cling to inverted surfaces with ease. The ooze can establish or release suction as a swift action, and so long as it is using suction, it moves at half speed. If suction is active, the ooze gains a +10 circumstance bonus to resist bull rush, awesome blow, and other attacks and effects that attempt to physically move it from its location.
+**Prerequisites:** ooze; **Benefit:** The ooze can create powerful suction against any surface as it climbs, allowing it to cling to inverted surfaces with ease. The ooze can establish or release suction as a swift action, and so long as it is using suction, it moves at half speed. If suction is active, the ooze gains a +10 circumstance bonus to resist bull rush, awesome blow, and other attacks and effects that attempt to physically move it from its location.
 
-**Format:** suction;**Location:** SQ
+**Format:** suction; **Location:** SQ
 
 ### Sudden Strike (EX, 5 AP)
 
-**Prerequisites:** vermin;**Benefit:** The vermin is particularly adept at moving quickly when its foes are surprised. During a surprise round, the vermin may act as if it had a full round to act, rather than just one standard action.
+**Prerequisites:** vermin; **Benefit:** The vermin is particularly adept at moving quickly when its foes are surprised. During a surprise round, the vermin may act as if it had a full round to act, rather than just one standard action.
 
-**Format:** sudden strike;**Location:** Special Attacks
+**Format:** sudden strike; **Location:** Special Attacks
 
 ### Summon (SP, 4 AP)
 
-**Prerequisite:** outsider;**Benefit:** An outsider with the summon ability can summon another creature identical to itself much as though casting a summon monster spell, with a 50% chance of success, 1/day. On a failure, no creature answers the summons. Summoned creatures automatically return whence they came after 1 hour.
+**Prerequisite:** outsider; **Benefit:** An outsider with the summon ability can summon another creature identical to itself much as though casting a summon monster spell, with a 50% chance of success, 1/day. On a failure, no creature answers the summons. Summoned creatures automatically return whence they came after 1 hour.
 
 A creature summoned in this way cannot use any spells or spell-like abilities that require material components costing more than 1 gp unless those components are supplied, nor can it use its own summon ability for 1 hour. The level of the spell for the purposes of Will saves and concentration checks is equal to ½ the CR of the summoned creature (maximum 9). No experience points are awarded for defeating summoned monsters. The caster level of the summon ability is equal to the summoning creature’s HD.
 
@@ -4261,29 +4261,29 @@ This ability may be purchased multiple times with varying modifiers in order to 
 
 - The percentage chance of a successful summoning is reduced to 40% (1 AP), 30% (2 AP), or 20% (3 AP).
 
-**Format:** 1/day—summon (level 4, 1 hezrou 35%);**Location:** Spell-Like Abilities.
+**Format:** 1/day—summon (level 4, 1 hezrou 35%); **Location:** Spell-Like Abilities.
 
 ### Superior Two-Weapon Fighting (EX, 5 AP)
 
-**Prerequisites:** humanoid;**Benefit:** The humanoid fights perfectly with two weapons in each hand. The humanoid does not take a penalty on attack or damage rolls for attacking with two weapons. The humanoid may make a full attack with weapons in each hand.
+**Prerequisites:** humanoid; **Benefit:** The humanoid fights perfectly with two weapons in each hand. The humanoid does not take a penalty on attack or damage rolls for attacking with two weapons. The humanoid may make a full attack with weapons in each hand.
 
-**Format:** superior two-weapon fighting;**Location:** SQ
+**Format:** superior two-weapon fighting; **Location:** SQ
 
 ### Swarming (EX, 2 AP)
 
-**Prerequisites:** monstrous humanoid;**Benefit:** Twice the normal number of monstrous humanoids with this ability can occupy the same space (so two Medium sized monstrous humanoids in one square) at the same time. If multiple monstrous humanoids with this ability attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
+**Prerequisites:** monstrous humanoid; **Benefit:** Twice the normal number of monstrous humanoids with this ability can occupy the same space (so two Medium sized monstrous humanoids in one square) at the same time. If multiple monstrous humanoids with this ability attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
 
-**Format:** swarming;**Location:** Special Attacks
+**Format:** swarming; **Location:** Special Attacks
 
 ### Tail Sweep (EX, 6 AP)
 
-**Prerequisites:** dragon, Gargantuan size or larger;**Benefit:** The dragon can sweep with its tail as a standard action. The sweep affects a halfcircle with a radius of 30 feet (or 40 feet for a Colossal dragon), extending from an intersection on the edge of the dragon’s space in any direction. Creatures within the swept area are affected if they are four or more size categories smaller than the dragon. A tail sweep automatically deals damage tail damage for a creature of the dragon’s size plus 1-1/2 times the dragon’s Strength bonus. Affected creatures can attempt Reflex saves to take half damage (DC 10 + ½ the dragon’s HD + dragon’s Con modifier).
+**Prerequisites:** dragon, Gargantuan size or larger; **Benefit:** The dragon can sweep with its tail as a standard action. The sweep affects a halfcircle with a radius of 30 feet (or 40 feet for a Colossal dragon), extending from an intersection on the edge of the dragon’s space in any direction. Creatures within the swept area are affected if they are four or more size categories smaller than the dragon. A tail sweep automatically deals damage tail damage for a creature of the dragon’s size plus 1-1/2 times the dragon’s Strength bonus. Affected creatures can attempt Reflex saves to take half damage (DC 10 + ½ the dragon’s HD + dragon’s Con modifier).
 
-**Format:** tail sweep;**Location:** Special Attacks
+**Format:** tail sweep; **Location:** Special Attacks
 
 ### Talisman (SU, 2 AP)
 
-**Prerequisites:** outsider;**Benefit:** The outsider possesses a seemingly ordinary object that can become a weapon as a free action, or the outsider can form a weapon from some materially commonly at hand (such as fire or darkness). The weapon possesses a +1 magical enhancement bonus. The talisman becomes useless when removed from the outsider’s possession. If the talisman is a ranged weapon, it never requires ammunition.
+**Prerequisites:** outsider; **Benefit:** The outsider possesses a seemingly ordinary object that can become a weapon as a free action, or the outsider can form a weapon from some materially commonly at hand (such as fire or darkness). The weapon possesses a +1 magical enhancement bonus. The talisman becomes useless when removed from the outsider’s possession. If the talisman is a ranged weapon, it never requires ammunition.
 
 The outsider can use its talisman to release a paralyzing blast for an additional +4 AP (6 AP total). All creatures that do not share the outsider’s subtypes within 30 feet of the blast must succeed on a Fortitude save (DC 10 + ½ outsider’s HD + outsider’s Cha modifier) or be paralyzed for 1 round.
 
@@ -4293,32 +4293,32 @@ The outsider can use its talisman to release a paralyzing blast for an additiona
 - The area affected by the paralyzing blast increases to 60 feet for +1 AP, 80 feet for +2 AP, 100 feet for +3 AP, or 120 feet for +4 AP.
 - The duration of the paralyzing blast effect is increased to 1d4 rounds for +2 AP.
 
-**Format:** talisman;**Location:** Special Attacks
+**Format:** talisman; **Location:** Special Attacks
 
 ### Telekinesis (SU, 5 AP)
 
-**Prerequisites:** undead, outsider (evil), incorporeal;**Benefit:** The undead can use telekinesis as a standard action once every 1d4 rounds (caster level 12th or equal to the undead’s HD, whichever is higher).
+**Prerequisites:** undead, outsider (evil), incorporeal; **Benefit:** The undead can use telekinesis as a standard action once every 1d4 rounds (caster level 12th or equal to the undead’s HD, whichever is higher).
 
 **Enhancements**
 
 - Telekinesis is usable every round for an additional +1 AP.
 - Using telekinesis is a move action for +2 AP, or a swift action for +4 AP.
 
-**Format:** telekinesis;**Location:** Special Attacks
+**Format:** telekinesis; **Location:** Special Attacks
 
 ### Telepathic Link (SU, 1 AP)
 
-**Prerequisites:** construct;**Benefit:** The construct is linked telepathically with its creator. The construct knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet.
+**Prerequisites:** construct; **Benefit:** The construct is linked telepathically with its creator. The construct knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet.
 
 **Enhancements**
 
 - The construct can communicate and convey information to its master at any range, so long as they are on the same plane, for an additional +2 AP.
 
-**Format:** telepathic link;**Location:** Languages
+**Format:** telepathic link; **Location:** Languages
 
 ### Terrifying Sound (SU, 1 AP)
 
-**Prerequisites:** humanoid or monstrous humanoid;**Benefit:** Once per hour, the humanoid can, as a standard action, emit a loud and horrifying sound. Any creature without this ability within 30 feet of the humanoid must make a Will save (DC 10 + ½ the humanoid’s HD + humanoid’s Cha modifier) or become shaken for 1 round. Creatures that succeed at this save cannot be affected again by the same humanoid’s sound for 24 hours. Creatures that are already shaken become frightened for 1d4 rounds instead.
+**Prerequisites:** humanoid or monstrous humanoid; **Benefit:** Once per hour, the humanoid can, as a standard action, emit a loud and horrifying sound. Any creature without this ability within 30 feet of the humanoid must make a Will save (DC 10 + ½ the humanoid’s HD + humanoid’s Cha modifier) or become shaken for 1 round. Creatures that succeed at this save cannot be affected again by the same humanoid’s sound for 24 hours. Creatures that are already shaken become frightened for 1d4 rounds instead.
 
 **Enhancements**
 
@@ -4326,29 +4326,29 @@ The outsider can use its talisman to release a paralyzing blast for an additiona
 - Creatures become frightened on a failed save for an additional +3 AP. Creatures that are already frightened become panicked.
 - Creatures are affected if within 60 feet for an additional +1 AP, 90 feet for +2 AP, or 120 feet for +3 AP.
 
-**Format:** terrifying sound;**Location:** Special Attacks
+**Format:** terrifying sound; **Location:** Special Attacks
 
 ### Thirst (SU, 3 AP)
 
-**Prerequisites:** dragon or water subtype;**Benefit:** The dragon can cast create water at will (CL equals its HD). It can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC 10+ ½ the dragon’s HD + dragon’s Cha modifier) or be destroyed.
+**Prerequisites:** dragon or water subtype; **Benefit:** The dragon can cast create water at will (CL equals its HD). It can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC 10+ ½ the dragon’s HD + dragon’s Cha modifier) or be destroyed.
 
-**Format:** thirst (DC 21);**Location:** Special Attacks
+**Format:** thirst (DC 21); **Location:** Special Attacks
 
 ### Tidal Wave (SU, 6 AP)
 
-**Prerequisites:** dragon or water subtype;**Benefit:** The dragon can cause the sea to rise up and crush his enemies once per day as a standard action. This affects an area of coastline 120 feet in length and targets all creatures within 40 feet of the shore—treat the targets as if struck by an avalanche (Pathfinder Roleplaying Game Core Rulebook). Treat all creatures as if they were in the bury zone. The save DC to halve this damage is equal to 10 + ½ the dragon’s HD + dragon’s Con modifier. Those who fail their saves take full damage and are drawn 60 feet off shore and deposited 20 feet under the surface on the round after the wave hits.
+**Prerequisites:** dragon or water subtype; **Benefit:** The dragon can cause the sea to rise up and crush his enemies once per day as a standard action. This affects an area of coastline 120 feet in length and targets all creatures within 40 feet of the shore—treat the targets as if struck by an avalanche (Pathfinder Roleplaying Game Core Rulebook). Treat all creatures as if they were in the bury zone. The save DC to halve this damage is equal to 10 + ½ the dragon’s HD + dragon’s Con modifier. Those who fail their saves take full damage and are drawn 60 feet off shore and deposited 20 feet under the surface on the round after the wave hits.
 
-**Format:** tidal wave;**Location:** Special Attacks
+**Format:** tidal wave; **Location:** Special Attacks
 
 ### Tongue (EX, 2 AP)
 
-**Prerequisites:** animal or magical beast;**Benefit:** The animal’s tongue is a primary attack with reach equal to three times the animal’s normal reach. The animal’s tongue deals no damage on a hit, but can be used to grab. The animal does not gain the grappled condition while using its tongue in this manner.
+**Prerequisites:** animal or magical beast; **Benefit:** The animal’s tongue is a primary attack with reach equal to three times the animal’s normal reach. The animal’s tongue deals no damage on a hit, but can be used to grab. The animal does not gain the grappled condition while using its tongue in this manner.
 
-**Format:** pull (tongue, 5 feet);**Location:** Special Attacks
+**Format:** pull (tongue, 5 feet); **Location:** Special Attacks
 
 ### Trace Teleport (EX, 1 AP)
 
-**Prerequisites:** aberration;**Benefit:** The aberration telepathically and reflexively learns the mental coordinates of the destination for all creatures that teleport within 30 feet of it, gaining an awareness of the location equivalent to “seen casually.” This knowledge fades and is lost after 1 minute. This power does not grant any environmental information about the conditions of the destination.
+**Prerequisites:** aberration; **Benefit:** The aberration telepathically and reflexively learns the mental coordinates of the destination for all creatures that teleport within 30 feet of it, gaining an awareness of the location equivalent to “seen casually.” This knowledge fades and is lost after 1 minute. This power does not grant any environmental information about the conditions of the destination.
 
 **Enhancements**
 
@@ -4356,93 +4356,93 @@ The outsider can use its talisman to release a paralyzing blast for an additiona
 - The aberration learns environmental information on the location as if it had scryed upon it (as the scry spell) for an additional +2 AP.
 - The range of trace teleport is increased to 60 feet for an additional +1 AP, 90 feet for +2 AP, or 120 feet for +3 AP.
 
-**Format:** trace teleport 60 ft.;**Location:** Senses
+**Format:** trace teleport 60 ft.; **Location:** Senses
 
 ### Transparent (EX, 1 AP)
 
-**Prerequisites:** ooze;**Benefit:** The ooze lacks coloration and is difficult to discern. A DC 15 Perception check is required to notice it when motionless. Any creature that fails to notice the ooze and walks into it is automatically engulfed.
+**Prerequisites:** ooze; **Benefit:** The ooze lacks coloration and is difficult to discern. A DC 15 Perception check is required to notice it when motionless. Any creature that fails to notice the ooze and walks into it is automatically engulfed.
 
-**Format:** transparent;**Location:** SQ
+**Format:** transparent; **Location:** SQ
 
 ### Tree Meld (SU, 2 AP)
 
-**Prerequisites:** fey or plant;**Benefit:** The fey can meld with any tree, similar to how the spell meld with stone functions. She can remain melded with a tree as long as she wishes.
+**Prerequisites:** fey or plant; **Benefit:** The fey can meld with any tree, similar to how the spell meld with stone functions. She can remain melded with a tree as long as she wishes.
 
-**Format:** tree meld;**Location:** SQ
+**Format:** tree meld; **Location:** SQ
 
 ### Unearthly Grace (SU, 2 AP)
 
-**Prerequisites:** fey;**Benefit:** The fey adds her Charisma modifier as a racial bonus on all her saving throws, and as a deflection bonus to her Armor Class. Any deflection bonus to AC gained from this ability lowers the fey’s base natural armor by an equivalent amount (to a minimum of 0).
+**Prerequisites:** fey; **Benefit:** The fey adds her Charisma modifier as a racial bonus on all her saving throws, and as a deflection bonus to her Armor Class. Any deflection bonus to AC gained from this ability lowers the fey’s base natural armor by an equivalent amount (to a minimum of 0).
 
-**Format:** unearthly grace;**Location:** SQ
+**Format:** unearthly grace; **Location:** SQ
 
 ### Unholy Nimbus (SU, 4 AP)
 
-**Prerequisites:** aberration or outsider (evil);**Benefit:** Once per day as a free action the outsider can create a nimbus of sickening writhing color to play around its body. One round later, the light bursts in a 60-foot radius. Any creature that does not share all the creature’s types and /or subtypes must succeed on a Will save (DC 10 +½ the outsider’s HD + outsider’s Cha modifier) or be dazed for 1d10 rounds as visions of madness hound it.
+**Prerequisites:** aberration or outsider (evil); **Benefit:** Once per day as a free action the outsider can create a nimbus of sickening writhing color to play around its body. One round later, the light bursts in a 60-foot radius. Any creature that does not share all the creature’s types and /or subtypes must succeed on a Will save (DC 10 +½ the outsider’s HD + outsider’s Cha modifier) or be dazed for 1d10 rounds as visions of madness hound it.
 
 **Enhancements**
 
 - Unholy nimbus is usable 3/day for +4 AP or at will for an additional +8 AP.
 
-**Format:** unholy nimbus;**Location:** Special Attacks
+**Format:** unholy nimbus; **Location:** Special Attacks
 
 ### Vorpal Strike (SU, 14 AP)
 
-**Prerequisites:** outsider;**Benefit:** Any slashing weapon the outsider wields or a single natural attack gains the vorpal weapon quality. Melee weapons retain this quality for one hour after the demon releases the weapon, but after this the weapon reverts to its standard magical qualities, if any.
+**Prerequisites:** outsider; **Benefit:** Any slashing weapon the outsider wields or a single natural attack gains the vorpal weapon quality. Melee weapons retain this quality for one hour after the demon releases the weapon, but after this the weapon reverts to its standard magical qualities, if any.
 
-**Format:** vorpal strike;**Location:** SQ
+**Format:** vorpal strike; **Location:** SQ
 
 ### Vortex (EX, 3 AP)
 
-**Prerequisites:** dragon or water subtype;**Benefit:** Once per day, the dragon can create a vortex (size equal to the dragon’s size) as a standard action. This otherwise works as the whirlwind ability, except it can only function under water. The dragon can maintain this vortex for 1 round.
+**Prerequisites:** dragon or water subtype; **Benefit:** Once per day, the dragon can create a vortex (size equal to the dragon’s size) as a standard action. This otherwise works as the whirlwind ability, except it can only function under water. The dragon can maintain this vortex for 1 round.
 
 **Enhancements**
 
 - The duration of the vortex lasts for an extra round per additional +1 AP spent.
 
-**Format:** vortex;**Location:** Special Attacks
+**Format:** vortex; **Location:** Special Attacks
 
 ### Water’s Fury (SU, 2 AP)
 
-**Prerequisites:** outsider (water) or aquatic subtype;**Benefit:** As a standard action, the outsider can release a jet of water in a 60- foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. A Reflex save (DC 10 +½ the outsider’s HD + outsider’s Con modifier) reduces the damage by half and negates the blinding effect.
+**Prerequisites:** outsider (water) or aquatic subtype; **Benefit:** As a standard action, the outsider can release a jet of water in a 60- foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. A Reflex save (DC 10 +½ the outsider’s HD + outsider’s Con modifier) reduces the damage by half and negates the blinding effect.
 
-**Format:** water’s fury;**Location:** Special Attacks
+**Format:** water’s fury; **Location:** Special Attacks
 
 ### Wave Mastery (SU, 2 AP)
 
-**Prerequisites:** dragon or water subtype;**Benefit:** For 10 minutes the dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
+**Prerequisites:** dragon or water subtype; **Benefit:** For 10 minutes the dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
 
 **Enhancements**
 
 - The duration increases by 10 minutes for each additional +1 AP spent.
 
-**Format:** wave mastery;**Location:** SQ
+**Format:** wave mastery; **Location:** SQ
 
 ### Wind (SU, 2 AP)
 
-**Prerequisites:** dragon or air subtype;**Benefit:** The dragon can call up the wind to serve him at will. This functions as gust of wind.
+**Prerequisites:** dragon or air subtype; **Benefit:** The dragon can call up the wind to serve him at will. This functions as gust of wind.
 
 **Enhancements**
 
 - Any target caught in the path of the wind must make a Fortitude save (DC 10 + ½ the creature’s HD + creature’s Con modifier) or be blinded for 1d4 rounds by sand or dirt.
 
-**Format:** wind;**Location:** Special Attacks
+**Format:** wind; **Location:** Special Attacks
 
 ### Wind Form (SU, 5 AP)
 
-**Prerequisites:** outsider (air);**Benefit:** The outsider can shift between its normal body and a body made of wind and mist as a standard action. In wind form, it functions as if under the effects of a wind walk spell. It can make slam attacks and use spell-like abilities in either form. The outsider remains in one form until it chooses to assume its other form. A change in form cannot be dispelled, nor does the outsider revert to any particular form when killed (both shapes are its true form). A true seeing spell reveals both forms simultaneously.
+**Prerequisites:** outsider (air); **Benefit:** The outsider can shift between its normal body and a body made of wind and mist as a standard action. In wind form, it functions as if under the effects of a wind walk spell. It can make slam attacks and use spell-like abilities in either form. The outsider remains in one form until it chooses to assume its other form. A change in form cannot be dispelled, nor does the outsider revert to any particular form when killed (both shapes are its true form). A true seeing spell reveals both forms simultaneously.
 
 **Enhancements**
 
 - When in wind form, the outsider can attack with a scouring blast of wind for an additional +2 AP. The wind deals 3d6 points of damage in a 20-foot line with a Reflex save (DC 10 + ½ the outsider’s HD + outsider’s Con modifier) for half.
 
-**Format:** wind form;**Location:** SQ
+**Format:** wind form; **Location:** SQ
 
 ### Woodcraft (EX, 1 AP)
 
-**Prerequisites:** fey;**Benefit:** The fey has a +6 racial bonus to Craft checks involving wood, and is always treated as if she had masterwork artisan’s woodworking tools when making such checks.
+**Prerequisites:** fey; **Benefit:** The fey has a +6 racial bonus to Craft checks involving wood, and is always treated as if she had masterwork artisan’s woodworking tools when making such checks.
 
-**Format:** woodcraft;**Location:** SQ
+**Format:** woodcraft; **Location:** SQ
 
 ---
 
@@ -4522,7 +4522,7 @@ See the mythic subtype section below for details. The mythic subtype costs 5 AP,
 
 #### Mythic Subtype (5 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this subtype is infused with mythic power and is capable of terrible and awe-inspiring feats. Creatures with the mythic subtype gain the following abilities.
+**Prerequisite:** none; **Benefit:** A creature with this subtype is infused with mythic power and is capable of terrible and awe-inspiring feats. Creatures with the mythic subtype gain the following abilities.
 
 **Damage Reduction (Ex):** A mythic creature with 5 to 10 Hit Dice gains DR 5/epic. A creature with 11 or more Hit Dice gains DR 10/epic. If the creature purchases the damage reduction ability, it adds epic to the qualities needed to bypass that reduction at no additional charge.
 
@@ -4710,30 +4710,30 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 
 ### Absolute Readiness (Ex, 2 AP)
 
-**Prerequisites:** Mythic Improved Initiative feat, mythic power;**Benefit:** The creature is never surprised or flat-footed. It can act in the surprise round as if it were a normal round.
+**Prerequisites:** Mythic Improved Initiative feat, mythic power; **Benefit:** The creature is never surprised or flat-footed. It can act in the surprise round as if it were a normal round.
 
-**Format:** absolute readiness;**Location:** Defensive Abilities.
+**Format:** absolute readiness; **Location:** Defensive Abilities.
 
 ### Accurate Strikes (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature’s attacks ignore the AC bonus granted to targets by any cover less than total cover, and the miss chance granted to targets by any concealment less than total concealment.
+**Prerequisites:** mythic power; **Benefit:** The creature’s attacks ignore the AC bonus granted to targets by any cover less than total cover, and the miss chance granted to targets by any concealment less than total concealment.
 
-**Format:** accurate strikes;**Location:** Special Attacks.
+**Format:** accurate strikes; **Location:** Special Attacks.
 
 ### Aligned Aura (Su, 4 AP)
 
-**Prerequisites:** alignment, mythic power;**Benefit:** Any outsider with alignment subtypes equivalent to all aspects of the creature’s alignment (and alignment subtypes, if any) with 15 or more Hit Dice within 60 feet of the mythic creature gains a +10 enhancement bonus to Strength and Charisma, and its spell resistance (if any) increases by 5. If an affected creature does not already possess spell resistance, it gains spell resistance 11 + its CR.
+**Prerequisites:** alignment, mythic power; **Benefit:** Any outsider with alignment subtypes equivalent to all aspects of the creature’s alignment (and alignment subtypes, if any) with 15 or more Hit Dice within 60 feet of the mythic creature gains a +10 enhancement bonus to Strength and Charisma, and its spell resistance (if any) increases by 5. If an affected creature does not already possess spell resistance, it gains spell resistance 11 + its CR.
 
 **Enhancements**
 
 - Applicable creatures with 10 or more Hit Dice are affected for +2 AP, or 5 or more Hit Dice for +4 AP.
 - The range of the effect is increased to 90 feet for +1 AP or 120 feet for +2 AP.
 
-**Format:** aligned aura (60 ft.);**Location:** Aura.
+**Format:** aligned aura (60 ft.); **Location:** Aura.
 
 ### Alternate Form (Ex, 2 AP)
 
-**Prerequisites:** Gargantuan-sized or larger, mythic power;**Benefit:** As a full-round action the creature can assume the shape of an inanimate structure such as a monument, mansion, or fortress. While in this form, the creature cannot move or take attacks, but it can use any spell-like or supernatural abilities, and retains its Dexterity bonus to AC. It can resume its base form as a full-round action. The type of structure the creature can become is selected when this ability is gained and cannot be changed thereafter.
+**Prerequisites:** Gargantuan-sized or larger, mythic power; **Benefit:** As a full-round action the creature can assume the shape of an inanimate structure such as a monument, mansion, or fortress. While in this form, the creature cannot move or take attacks, but it can use any spell-like or supernatural abilities, and retains its Dexterity bonus to AC. It can resume its base form as a full-round action. The type of structure the creature can become is selected when this ability is gained and cannot be changed thereafter.
 
 **Enhancements**
 
@@ -4743,21 +4743,21 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 - The creature gains fast healing 10 while in its alternate form for an additional +2 AP.
 - The creature can make superficial alterations to its alternate form each time the ability is used (such as a mansion changing its architecture, layout, or furnishings) for an additional +1 AP.
 
-**Format:** alternate form;**Location:** SQ.
+**Format:** alternate form; **Location:** SQ.
 
 ### Amazing Initiative (Ex, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature has a bonus on initiative checks equal to its mythic rank.
+**Prerequisites:** mythic power; **Benefit:** The creature has a bonus on initiative checks equal to its mythic rank.
 
 **Enhancements**
 
 - As a free action on its turn, it can expend one use of mythic power to take an additional standard action during that turn for an additional +1 AP. This additional standard action can’t be used to cast a spell. It can’t gain an extra action in this way more than once per round.
 
-**Format:** amazing initiative;**Location:** Special Attacks.
+**Format:** amazing initiative; **Location:** Special Attacks.
 
 ### Apocalyptic Wound (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** When the mythic creature takes damage, it can expend one use of its mythic power as an immediate action to inundate its attacker’s mind with dire prophetic visions for 1d6 rounds. A Will save (DC 10 + ½ the mythic creature’s HD + creature’s Constitution modifier) negates this effect. These visions cause the attacker to become dazzled and to take a 20% miss chance on all its attacks. This is a mind-affecting divination effect.
+**Prerequisites:** mythic power; **Benefit:** When the mythic creature takes damage, it can expend one use of its mythic power as an immediate action to inundate its attacker’s mind with dire prophetic visions for 1d6 rounds. A Will save (DC 10 + ½ the mythic creature’s HD + creature’s Constitution modifier) negates this effect. These visions cause the attacker to become dazzled and to take a 20% miss chance on all its attacks. This is a mind-affecting divination effect.
 
 **Enhancements**
 
@@ -4768,21 +4768,21 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 
 - The creature must expend two uses of mythic power to use this ability (1 AP).
 
-**Format:** apocalyptic wound;**Location:** Defensive Abilities.
+**Format:** apocalyptic wound; **Location:** Defensive Abilities.
 
 ### Archive (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** By concentrating for 1 minute without interruption, the mythic creature can conjure the door to a personal extradimensional library. This functions in a similar manner to an archmage’s sanctum but is 2,000 cubic feet in size. By spending one use of its mythic power as a full-round action, the mythic creature can instantly record a number of nonmagical writings (books, scrolls, carvings, and so on) equal to its mythic rank within tomes in the archive, provided it is touching or carrying the items it wishes to record.
+**Prerequisites:** mythic power; **Benefit:** By concentrating for 1 minute without interruption, the mythic creature can conjure the door to a personal extradimensional library. This functions in a similar manner to an archmage’s sanctum but is 2,000 cubic feet in size. By spending one use of its mythic power as a full-round action, the mythic creature can instantly record a number of nonmagical writings (books, scrolls, carvings, and so on) equal to its mythic rank within tomes in the archive, provided it is touching or carrying the items it wishes to record.
 
 **Enhancements**
 
 - If the mythic creature is killed or rendered unconscious, its body and any items it is carrying are immediately transported to its archive for an additional +2 AP. A mythic creature with this ability can conjure the door to the archive of a slain mythic creature with this ability at the location of the slain creature’s death.
 
-**Format:** archive;**Location:** SQ.
+**Format:** archive; **Location:** SQ.
 
 ### Bestow Knowledge (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can touch a target with an Intelligence of 3 or higher and bestow temporary knowledge and understanding. Choose one of the mythic creature’s skills; for the next 24 hours, the target of this ability uses the mythic creature’s skill ranks in place of its own, even if this is more than its maximum number of ranks. A creature can’t benefit from this ability more than once at the same time. If the mythic creature uses this ability on a target that is currently the target of bestow knowledge (from itself or another creature with this ability), the new bestow knowledge effect replaces the older one.
+**Prerequisites:** mythic power; **Benefit:** The creature can touch a target with an Intelligence of 3 or higher and bestow temporary knowledge and understanding. Choose one of the mythic creature’s skills; for the next 24 hours, the target of this ability uses the mythic creature’s skill ranks in place of its own, even if this is more than its maximum number of ranks. A creature can’t benefit from this ability more than once at the same time. If the mythic creature uses this ability on a target that is currently the target of bestow knowledge (from itself or another creature with this ability), the new bestow knowledge effect replaces the older one.
 
 **Enhancements**
 
@@ -4792,11 +4792,11 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 
 - The creature must expend two uses of mythic power to use this ability (1 AP).
 
-**Format:** bestow knowledge;**Location:** SQ.
+**Format:** bestow knowledge; **Location:** SQ.
 
 ### Birth Spawn (Ex, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a full-round action, the mythic creature can give birth to a number spawn less than or equal to its mythic rank, which are any creatures that are at least one size category smaller than the mythic creature. Each day the mythic creature can produce any number of creatures whose combined total base CR does not exceed 3 + its Constitution modifier. The mythic creature does have any control or influence over spawn created in this manner.
+**Prerequisites:** mythic power; **Benefit:** As a full-round action, the mythic creature can give birth to a number spawn less than or equal to its mythic rank, which are any creatures that are at least one size category smaller than the mythic creature. Each day the mythic creature can produce any number of creatures whose combined total base CR does not exceed 3 + its Constitution modifier. The mythic creature does have any control or influence over spawn created in this manner.
 
 **Enhancements**
 
@@ -4812,7 +4812,7 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 - The creature must expend a use of mythic power to birth spawn (2 AP).
 - The creature must expend two uses of mythic power to birth spawn (3 AP).
 
-**Format:** birth spawn;**Location:** SQ.
+**Format:** birth spawn; **Location:** SQ.
 
 #### Mutation
 
@@ -4834,65 +4834,65 @@ The following table can be used to represent random mutations from the birth spa
 
 ### Block Attacks (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per round, when the creature is hit by a melee or ranged attack, it can attempt a melee attack using its highest attack bonus. If this result exceeds the result from the attack against it, the creature is unaffected by the attack (as if the attack had missed).
+**Prerequisites:** mythic power; **Benefit:** Once per round, when the creature is hit by a melee or ranged attack, it can attempt a melee attack using its highest attack bonus. If this result exceeds the result from the attack against it, the creature is unaffected by the attack (as if the attack had missed).
 
 **Enhancements**
 
 - The creature can use the block attacks ability more than once per round for an additional +2 AP. Each use of the block attacks ability beyond the first requires the creature expend one use of mythic power.
 
-**Format:** block attacks;**Location:** Defensive Abilities.
+**Format:** block attacks; **Location:** Defensive Abilities.
 
 ### Bone Eruption (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a standard action, the creature can expend two uses of mythic power to call to the bones of all enemies within a 20-foot-radius burst. The bones shudder and twist within each creature, dealing a number of d6s of damage equal to the creature’s Hit Dice and giving each creature the sickened condition for 1d6 rounds. A successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier) halves the damage and negates the sickened condition.
+**Prerequisites:** mythic power; **Benefit:** As a standard action, the creature can expend two uses of mythic power to call to the bones of all enemies within a 20-foot-radius burst. The bones shudder and twist within each creature, dealing a number of d6s of damage equal to the creature’s Hit Dice and giving each creature the sickened condition for 1d6 rounds. A successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier) halves the damage and negates the sickened condition.
 
 **Enhancements**
 
 - If this damage kills a creature, some of its bones tear free from its body and fuse with the mythic creature, healing it for 1d6 points of damage per Hit Die of the slain creature for an additional +2 AP. Creatures immune to critical hits are immune to this ability.
 - The ability requires the expenditure of only one use of mythic power for an additional +2 AP.
 
-**Format:** bone eruption;**Location:** Special Attacks.
+**Format:** bone eruption; **Location:** Special Attacks.
 
 ### Brutal Surge (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** When the creature expends mythic power to add a surge die to an attack roll, it also adds a surge die to that attack’s damage roll. This is not an action and does not require the expenditure of any additional uses of mythic power to use this ability.
+**Prerequisites:** mythic power; **Benefit:** When the creature expends mythic power to add a surge die to an attack roll, it also adds a surge die to that attack’s damage roll. This is not an action and does not require the expenditure of any additional uses of mythic power to use this ability.
 
-**Format:** brutal surge;**Location:** Special Attacks.
+**Format:** brutal surge; **Location:** Special Attacks.
 
 ### Cantrips/Orisons (Su, 1 AP)
 
-**Prerequisites:** mythic power, spellcaster;**Benefit:** The creature automatically knows all cantrips (for arcane spells) or orisons (for divine spells) for its equivalent spellcasting class and can cast them at will.
+**Prerequisites:** mythic power, spellcaster; **Benefit:** The creature automatically knows all cantrips (for arcane spells) or orisons (for divine spells) for its equivalent spellcasting class and can cast them at will.
 
 **Enhancements**
 
 - Any cantrip/orison cast functions as a potent version of the spell (increase save DC by 2 and gain a +2 bonus on caster level checks to overcome spell resistance) with no additional expenditure of mythic power for an additional +1 AP.
 
-**Format:** cantrips/orisons;**Location:** SQ.
+**Format:** cantrips/orisons; **Location:** SQ.
 
 ### Contemptuous Toss (Ex, 2 AP)
 
-**Prerequisites:** Awesome Blow feat, mythic power;**Benefit:** When the creature uses Awesome Blow and expends a use of mythic power, its target flies up to 60 additional feet and takes 1d6 points of damage for every additional 20 feet traveled.
+**Prerequisites:** Awesome Blow feat, mythic power; **Benefit:** When the creature uses Awesome Blow and expends a use of mythic power, its target flies up to 60 additional feet and takes 1d6 points of damage for every additional 20 feet traveled.
 
 **Enhancements**
 
 - The creature selects one type of attack. When using the selected attack, it can hurl the target up to 60 feet upward instead of sideways for an additional +1 AP.
 
-**Format:** contemptuous toss;**Location:** Special Attacks.
+**Format:** contemptuous toss; **Location:** Special Attacks.
 
 ### Destruction (Su, 3 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Any opponent killed by the mythic creature is entirely destroyed, leaving behind only a trace of fine ash. The creature’s magical equipment is unaffected.
+**Prerequisites:** mythic power; **Benefit:** Any opponent killed by the mythic creature is entirely destroyed, leaving behind only a trace of fine ash. The creature’s magical equipment is unaffected.
 
 **Flaws**
 
 - The opponent is only entirely destroyed if killed by a specific attack or special ability possessed by the mythic creature (1 AP).
 - The opponent’s non-mythic magical equipment is destroyed if its caster level is less than or equal to the creature’s mythic tier (1 AP)
 
-**Format:** destruction;**Location:** Special Attacks.
+**Format:** destruction; **Location:** Special Attacks.
 
 ### Devastator (Su, 4 AP)
 
-**Prerequisites:** Vital Strike feat, mythic power;**Benefit:** As a full-round action, the creature can make a single attack at its highest base attack bonus with a natural attack or manufactured weapon. This attack counts as a Vital Strike despite not using an attack action. On a successful hit, this attack bypasses all damage reduction and hardness.
+**Prerequisites:** Vital Strike feat, mythic power; **Benefit:** As a full-round action, the creature can make a single attack at its highest base attack bonus with a natural attack or manufactured weapon. This attack counts as a Vital Strike despite not using an attack action. On a successful hit, this attack bypasses all damage reduction and hardness.
 
 **Enhancements**
 
@@ -4903,7 +4903,7 @@ The following table can be used to represent random mutations from the birth spa
 - The creature must expend a use of mythic power to use this ability (2 AP).
 - The creature must expend two uses of mythic power to use this ability (3 AP).
 
-**Format:** devastator;**Location:** Special Attacks.
+**Format:** devastator; **Location:** Special Attacks.
 
 ### Devolution (Su, 6 AP)
 
@@ -4918,33 +4918,33 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 - The creature must expend a use of mythic power to use this ability (2 AP).
 - The creature must expend two uses of mythic power to use this ability (3 AP).
 
-**Format:** devolution;**Location:** Special Attacks.
+**Format:** devolution; **Location:** Special Attacks.
 
 ### Dual Initiative (Ex, 6 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster gets two turns each round, one on its initiative count and another on its initiative count – 20. For example, if the monster’s initiative is 23, for its first turn it could make a full attack (and take a 5 foot step) at initiative 23, and for its second turn at initiative 3 it could take a move action and cast a spell. This allows the monster to perform two actions per round that normally take an entire round, such as using a summon monster spell. For the purposes of spells and effects that have a duration of a round or longer or trigger at the beginning of the creature’s round or the start of its turn such as saving throws against ongoing effects or taking bleed damage), only the monster’s first turn each round counts toward such durations.
+**Prerequisites:** mythic power; **Benefit:** The monster gets two turns each round, one on its initiative count and another on its initiative count – 20. For example, if the monster’s initiative is 23, for its first turn it could make a full attack (and take a 5 foot step) at initiative 23, and for its second turn at initiative 3 it could take a move action and cast a spell. This allows the monster to perform two actions per round that normally take an entire round, such as using a summon monster spell. For the purposes of spells and effects that have a duration of a round or longer or trigger at the beginning of the creature’s round or the start of its turn such as saving throws against ongoing effects or taking bleed damage), only the monster’s first turn each round counts toward such durations.
 
 **Flaws**
 
 - The creature must expend a use of mythic power as a free action during its first turn to gain a second turn (2 AP).
 - The creature must expend two uses of mythic power as a free action during its first turn to gain a second turn (3 AP).
 
-**Format:**+21/+1;**Location:** Initiative.
+**Format:** +21/+1; **Location:** Initiative.
 
 ### Earthquake (Su, 5 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can hit the ground and expend two uses of mythic power to cause an earthquake (as the spell). Creatures with this ability are not affected by the earthquake.
+**Prerequisites:** mythic power; **Benefit:** The creature can hit the ground and expend two uses of mythic power to cause an earthquake (as the spell). Creatures with this ability are not affected by the earthquake.
 
 **Enhancements**
 
 - The creature adds its mythic rank to the earthquake effect save DCs for an additional +1 AP.
 - Activating this ability only requires expending one use of mythic power for an additional +2 AP.
 
-**Format:** earthquake;**Location:** Special Attacks.
+**Format:** earthquake; **Location:** Special Attacks.
 
 ### Eclipse (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to blot out the sun in a 1-mile radius. This entire area is affected by the darkness spell for 1 hour.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to blot out the sun in a 1-mile radius. This entire area is affected by the darkness spell for 1 hour.
 
 **Enhancements**
 
@@ -4956,11 +4956,11 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** eclipse;**Location:** Special Attacks.
+**Format:** eclipse; **Location:** Special Attacks.
 
 ### Elemental Blood (Su, 2 AP)
 
-**Prerequisites:** breath weapon, mythic power;**Benefit:** The mythic creature’s blood and other fluids are infused with acid, cold, electricity, or fire, matching its breath weapon energy type. Every time the creature is damaged by a piercing or slashing weapon, the attacking creature takes energy damage according to the table below (or double damage if the attack is a critical hit). Using a reach weapon does not endanger the attacker in this way. If the creature has the swallow whole ability, it adds this damage to its swallow whole damage.
+**Prerequisites:** breath weapon, mythic power; **Benefit:** The mythic creature’s blood and other fluids are infused with acid, cold, electricity, or fire, matching its breath weapon energy type. Every time the creature is damaged by a piercing or slashing weapon, the attacking creature takes energy damage according to the table below (or double damage if the attack is a critical hit). Using a reach weapon does not endanger the attacker in this way. If the creature has the swallow whole ability, it adds this damage to its swallow whole damage.
 
 | Creature Size | Points of Energy Damage |
 | --- | --- |
@@ -4974,27 +4974,27 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 
 - The creature’s elemental blood ability functions as if it was a creature of one size category larger for an additional +1 AP, or two size categories larger for +2 AP.
 
-**Format:** elemental blood (2d6 fire);**Location:** Defensive Abilities.
+**Format:** elemental blood (2d6 fire); **Location:** Defensive Abilities.
 
 ### Elemental Fury (Su, 2 AP)
 
-**Prerequisites:** breath weapon, elemental blood, mythic power, natural weapon;**Benefit:** If the mythic creature confirms a critical hit with a natural weapon, it adds its elemental blood damage to the damage dealt by the natural attack.
+**Prerequisites:** breath weapon, elemental blood, mythic power, natural weapon; **Benefit:** If the mythic creature confirms a critical hit with a natural weapon, it adds its elemental blood damage to the damage dealt by the natural attack.
 
-**Format:** elemental fury (1d6 fire);**Location:** Special Attacks.
+**Format:** elemental fury (1d6 fire); **Location:** Special Attacks.
 
 ### Elemental Inferno (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power as an immediate action to cause any acid, cold, electricity, or fire (select one) damage it deals ignore resistance and immunity for 1 round.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power as an immediate action to cause any acid, cold, electricity, or fire (select one) damage it deals ignore resistance and immunity for 1 round.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** elemental inferno;**Location:** Special Attacks.
+**Format:** elemental inferno; **Location:** Special Attacks.
 
 ### Flash of Brutality (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per day as a swift action, the creature can gain a burst of savage inspiration. When it does, it doubles the threat range of any attack it takes until the start of its next turn. This does not stack with feats or abilities that increase an attack or weapon’s threat range.
+**Prerequisites:** mythic power; **Benefit:** Once per day as a swift action, the creature can gain a burst of savage inspiration. When it does, it doubles the threat range of any attack it takes until the start of its next turn. This does not stack with feats or abilities that increase an attack or weapon’s threat range.
 
 **Enhancements**
 
@@ -5006,17 +5006,17 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 - The creature must expend a use of mythic power to activate this ability (2 AP).
 - The creature must expend two uses of mythic power to activate this ability (3 AP).
 
-**Format:** flash of brutality;**Location:** Special Attacks.
+**Format:** flash of brutality; **Location:** Special Attacks.
 
 ### Feral Savagery (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Select a set of circumstances that must involve the creature making a melee attack. For example, the creature making a full attack, rend attack, or using the pounce ability. When performing the selected action, the creature can immediately attempt an additional attack against an opponent. This attack is made using the creature’s full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn’t stack with similar means of gaining additional attacks, such as the haste spell or a speed weapon. This ability doesn’t grant an extra action, so the creature can’t use it to cast a second spell or otherwise take an extra action in the round.
+**Prerequisites:** mythic power; **Benefit:** Select a set of circumstances that must involve the creature making a melee attack. For example, the creature making a full attack, rend attack, or using the pounce ability. When performing the selected action, the creature can immediately attempt an additional attack against an opponent. This attack is made using the creature’s full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn’t stack with similar means of gaining additional attacks, such as the haste spell or a speed weapon. This ability doesn’t grant an extra action, so the creature can’t use it to cast a second spell or otherwise take an extra action in the round.
 
-**Format:** feral savagery (full attack);**Location:** Special Attacks.
+**Format:** feral savagery (full attack); **Location:** Special Attacks.
 
 ### Fire Vortex (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to create a vortex of fire within 30 feet. The vortex is 5 feet wide at its base, 15 feet wide at the top, and 30 feet tall. Any creature starting its turn adjacent to the vortex takes a number of d6s of fire damage equal to the creature’s mythic rank. Any creature passing through the vortex takes a number of d6s of fire damage equal to the mythic creature’s Hit Dice. A successful Reflex save (DC 10 + mythic creature’s HD + creature’s Constitution modifier) halves this damage. The mythic creature can move the vortex up to 20 feet as a move action. If the vortex moves through a creature, that creature must succeed on the saving throw against the vortex to avoid taking damage. The vortex lasts for a number of rounds equal to the creature’s mythic rank.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to create a vortex of fire within 30 feet. The vortex is 5 feet wide at its base, 15 feet wide at the top, and 30 feet tall. Any creature starting its turn adjacent to the vortex takes a number of d6s of fire damage equal to the creature’s mythic rank. Any creature passing through the vortex takes a number of d6s of fire damage equal to the mythic creature’s Hit Dice. A successful Reflex save (DC 10 + mythic creature’s HD + creature’s Constitution modifier) halves this damage. The mythic creature can move the vortex up to 20 feet as a move action. If the vortex moves through a creature, that creature must succeed on the saving throw against the vortex to avoid taking damage. The vortex lasts for a number of rounds equal to the creature’s mythic rank.
 
 **Enhancements**
 
@@ -5028,37 +5028,37 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** fire vortex;**Location:** Special Attacks.
+**Format:** fire vortex; **Location:** Special Attacks.
 
 ### Fortification (Ex, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster has a 50% chance to treat any critical hit or sneak attack as a normal hit, as if wearing moderate fortification armor.
+**Prerequisites:** mythic power; **Benefit:** The monster has a 50% chance to treat any critical hit or sneak attack as a normal hit, as if wearing moderate fortification armor.
 
 **Enhancements**
 
 - The creature treats any critical hit or sneak attack as a normal hit for an additional +1 AP.
 
-**Format:** fortification (50%);**Location:** Defensive Abilities.
+**Format:** fortification (50%); **Location:** Defensive Abilities.
 
 ### Gestation Aura (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature’s aura pulses with developing life. All poisons or diseases active within 30 feet have an onset of 1 round and a frequency of 1/minute. Impregnated creatures within 30 feet gestate in 2d4 rounds. Any creature born within this aura gains a mutation (see Mutation sidebar).
+**Prerequisites:** mythic power; **Benefit:** The creature’s aura pulses with developing life. All poisons or diseases active within 30 feet have an onset of 1 round and a frequency of 1/minute. Impregnated creatures within 30 feet gestate in 2d4 rounds. Any creature born within this aura gains a mutation (see Mutation sidebar).
 
-**Format:** gestation aura (30 ft.);**Location:** Aura.
+**Format:** gestation aura (30 ft.); **Location:** Aura.
 
 ### Greensight (Su, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster can see through thick plant matter as though it were transparent, with a range of 60 feet. Leaves, vines, greenery, and undergrowth offer no concealment to the monster’s sight, though solid wood still blocks its line of sight.
+**Prerequisites:** mythic power; **Benefit:** The monster can see through thick plant matter as though it were transparent, with a range of 60 feet. Leaves, vines, greenery, and undergrowth offer no concealment to the monster’s sight, though solid wood still blocks its line of sight.
 
 **Enhancements**
 
 - The creature can see through plant matter up to the limits of its normal vision for an additional +1 AP.
 
-**Format:** greensight 60 ft.;**Location:** Senses.
+**Format:** greensight 60 ft.; **Location:** Senses.
 
 ### Ground Pound (Ex, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a standard action, the creature can expend one use of mythic power and hit the ground with a bludgeoning weapon or natural attack that deals bludgeoning damage. Choose one intersection within reach; creatures touching the ground within a 20-foot burst centered on that intersection take the damage normally dealt by that bludgeoning weapon or natural attack. A successful Reflex save (DC 10 + 1/2 mythic creature’s HD + creature’s Strength modifier) halves the damage. Creatures that fail their saves are knocked prone and moved 5 feet directly away from chosen intersection. This ability has no effect on creatures with the ground pound ability.
+**Prerequisites:** mythic power; **Benefit:** As a standard action, the creature can expend one use of mythic power and hit the ground with a bludgeoning weapon or natural attack that deals bludgeoning damage. Choose one intersection within reach; creatures touching the ground within a 20-foot burst centered on that intersection take the damage normally dealt by that bludgeoning weapon or natural attack. A successful Reflex save (DC 10 + 1/2 mythic creature’s HD + creature’s Strength modifier) halves the damage. Creatures that fail their saves are knocked prone and moved 5 feet directly away from chosen intersection. This ability has no effect on creatures with the ground pound ability.
 
 **Enhancements**
 
@@ -5069,43 +5069,43 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** ground pound;**Location:** Special Attacks.
+**Format:** ground pound; **Location:** Special Attacks.
 
 ### Gruesome Dismemberment (Ex, 6 AP)
 
-**Prerequisites:** grab, mythic power, natural attack;**Benefit:** When the mythic creature successfully holds a grappled creature, it may expend one use of mythic power to attempt to dismember that creature. The mythic creature attempts a grapple check; if successful, the target takes double the normal damage from one of the mythic creature’s natural attacks and the attack pulls off one of the target’s legs or arms. The target is sickened until it receives magical healing (or until it recovers to full hit points by natural means), and takes 2d6 points of bleed damage each round. A creature with only one an arm cannot perform actions requiring two arms or two hands. A bipedal creature with one leg missing cannot walk or run; it can crawl or hop, but is denied its Dexterity bonus against all opponents. A quadrupedal creature with one leg missing is reduced to half normal speed. At the GM’s discretion, creatures with more than four legs affected by this attack may be able to move at normal speed.
+**Prerequisites:** grab, mythic power, natural attack; **Benefit:** When the mythic creature successfully holds a grappled creature, it may expend one use of mythic power to attempt to dismember that creature. The mythic creature attempts a grapple check; if successful, the target takes double the normal damage from one of the mythic creature’s natural attacks and the attack pulls off one of the target’s legs or arms. The target is sickened until it receives magical healing (or until it recovers to full hit points by natural means), and takes 2d6 points of bleed damage each round. A creature with only one an arm cannot perform actions requiring two arms or two hands. A bipedal creature with one leg missing cannot walk or run; it can crawl or hop, but is denied its Dexterity bonus against all opponents. A quadrupedal creature with one leg missing is reduced to half normal speed. At the GM’s discretion, creatures with more than four legs affected by this attack may be able to move at normal speed.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 - The target can negate the dismemberment and halve the bleed damage (but not the natural attack damage) with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Strength modifier) (1 AP).
 
-**Format:** gruesome dismemberment;**Location:** Special Attacks.
+**Format:** gruesome dismemberment; **Location:** Special Attacks.
 
 ### Heroic Challenge (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per day, the mythic creature can give a nonmythic creature the agile, arcane, divine, invincible, or savage mythic template (see Pathfinder RPG Mythic Adventures for details). The mythic creature must expend a number of uses of mythic power equal to the amount the target creature’s CR increases. The target isn’t under the mythic creature’s control, but won’t willingly attack the mythic creature unless magically forced to do so. The target retains the template for 1 round per mythic rank of the mythic creature.
+**Prerequisites:** mythic power; **Benefit:** Once per day, the mythic creature can give a nonmythic creature the agile, arcane, divine, invincible, or savage mythic template (see Pathfinder RPG Mythic Adventures for details). The mythic creature must expend a number of uses of mythic power equal to the amount the target creature’s CR increases. The target isn’t under the mythic creature’s control, but won’t willingly attack the mythic creature unless magically forced to do so. The target retains the template for 1 round per mythic rank of the mythic creature.
 
 **Enhancements**
 
 - The mythic creature can use this ability any number of times per day for an additional +2 AP. Each use requires expending the required mythic power.
 - The duration of the template is 1 minute per mythic rank for an additional +2 AP or 1 hour per mythic rank for an additional +4 AP.
 
-**Format:** heroic challenge;**Location:** SQ.
+**Format:** heroic challenge; **Location:** SQ.
 
 ### Immediate Counterspell (Ex, 2 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** The creature can expend one use of mythic power as an immediate action to attempt to counter a spell. The mythic creature must use a spell, spell slot, or dispel magic to counterspell as normal. This ability allows the mythic creature to counterspell without first readying an action.
+**Prerequisites:** mythic power, spellcasting; **Benefit:** The creature can expend one use of mythic power as an immediate action to attempt to counter a spell. The mythic creature must use a spell, spell slot, or dispel magic to counterspell as normal. This ability allows the mythic creature to counterspell without first readying an action.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** immediate counterspell;**Location:** SQ.
+**Format:** immediate counterspell; **Location:** SQ.
 
 ### Impregnate Surrogate (Su, 4 AP)
 
-**Prerequisites:** birth spawn, mythic power;**Benefit:** The mythic creature can disgorge a monstrous embryo into the mouth of a living, corporeal creature that is pinned or helpless. The creature makes a grapple combat maneuver check, and if successful it impregnates that creature regardless of its gender. A mythic character must succeed at a Fortitude saving throw (DC 10 + 1/2 the impregnating creature’s HD + creature’s Constitution modifier) to avoid being impregnated; a non-mythic character is impregnated automatically.
+**Prerequisites:** birth spawn, mythic power; **Benefit:** The mythic creature can disgorge a monstrous embryo into the mouth of a living, corporeal creature that is pinned or helpless. The creature makes a grapple combat maneuver check, and if successful it impregnates that creature regardless of its gender. A mythic character must succeed at a Fortitude saving throw (DC 10 + 1/2 the impregnating creature’s HD + creature’s Constitution modifier) to avoid being impregnated; a non-mythic character is impregnated automatically.
 
 An impregnated creature’s pregnancy lasts for 2d4 rounds. During this pregnancy, the victim is nauseated until the monster bursts forth from the victim’s abdomen, which deals 1d6 points of damage per mythic rank to the pregnant creature and applies the broken condition to any armor it is wearing.
 
@@ -5113,27 +5113,27 @@ A remove disease spell (DC equals monster’s final CR) eliminates the unnatural
 
 The creature spawned by means of this impregnation is any creature of the mythic creature’s choice that is at least one size category smaller than the creature impregnated. These spawn count against the mythic creature’s daily CR allowance for the birth spawn ability. This otherwise functions as the birth spawn ability.
 
-**Format:** impregnate surrogate (DC 24);**Location:** Special Attacks.
+**Format:** impregnate surrogate (DC 24); **Location:** Special Attacks.
 
 ### Infuse Arms and Armor (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Any improvised weapon the creature wields is treated as a comparable normal weapon. Any normal weapon the creature wields is treated as a masterwork weapon. Any masterwork weapon it wields is treated as a weapon with a magical +1 enhancement bonus. Any weapon with a magical enhancement bonus it wields is treated as though its enhancement bonus were 1 higher than its actual value (to a maximum of +6). This ability also applies to armor and shields (normal is treated as masterwork, masterwork is treated as +1, and +1 or higher is treated as 1 higher than actual).
+**Prerequisites:** mythic power; **Benefit:** Any improvised weapon the creature wields is treated as a comparable normal weapon. Any normal weapon the creature wields is treated as a masterwork weapon. Any masterwork weapon it wields is treated as a weapon with a magical +1 enhancement bonus. Any weapon with a magical enhancement bonus it wields is treated as though its enhancement bonus were 1 higher than its actual value (to a maximum of +6). This ability also applies to armor and shields (normal is treated as masterwork, masterwork is treated as +1, and +1 or higher is treated as 1 higher than actual).
 
-**Format:** infuse arms and armor;**Location:** SQ.
+**Format:** infuse arms and armor; **Location:** SQ.
 
 ### Invulnerable Soul (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** By expending one use of mythic power as a standard action, or automatically at no cost anytime it is reduced to fewer than 0 hit points, the mythic creature assumes the shape of a miniscule valuable object, such as a ring, pearl, or gem. The mythic creature retains awareness of its environment, but otherwise is treated as if it had the petrified condition. The creature’s form cannot be damaged in any way or affected by most spells or abilities, but the mythic creature can be forced to return to normal form by a miracle or wish spell. While in its object form, the mythic creature heals naturally, and it automatically returns to its normal form when it is fully healed.
+**Prerequisites:** mythic power; **Benefit:** By expending one use of mythic power as a standard action, or automatically at no cost anytime it is reduced to fewer than 0 hit points, the mythic creature assumes the shape of a miniscule valuable object, such as a ring, pearl, or gem. The mythic creature retains awareness of its environment, but otherwise is treated as if it had the petrified condition. The creature’s form cannot be damaged in any way or affected by most spells or abilities, but the mythic creature can be forced to return to normal form by a miracle or wish spell. While in its object form, the mythic creature heals naturally, and it automatically returns to its normal form when it is fully healed.
 
 **Flaws**
 
 - The creature’s object form is not immune to damage, but has hardness equal to its mythic rank or damage reduction (whichever is higher), and hit points equal to its maximum hit point total (2 AP).
 
-**Format:** invulnerable soul;**Location:** Defensive Abilities.
+**Format:** invulnerable soul; **Location:** Defensive Abilities.
 
 ### Iron Resilience (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per round, the creature can ignore an attack (whether it required an attack roll, was a targeted spell, or was an area attack, and regardless of whether it would specifically cause hit point damage or not) that would reduce it to negative hit points or kill it. The creature takes no damage from the attack. The creature can choose to use this ability after the result of any attack roll, caster level check to overcome spell resistance, saving throw, or other pertinent check is revealed.
+**Prerequisites:** mythic power; **Benefit:** Once per round, the creature can ignore an attack (whether it required an attack roll, was a targeted spell, or was an area attack, and regardless of whether it would specifically cause hit point damage or not) that would reduce it to negative hit points or kill it. The creature takes no damage from the attack. The creature can choose to use this ability after the result of any attack roll, caster level check to overcome spell resistance, saving throw, or other pertinent check is revealed.
 
 **Enhancements**
 
@@ -5146,11 +5146,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend one use of mythic power to use this ability (2 AP).
 - The creature must expend two uses of mythic power to use this ability (3 AP).
 
-**Format:** iron resilience;**Location:** Defensive Abilities.
+**Format:** iron resilience; **Location:** Defensive Abilities.
 
 ### Lair Mastery (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can designate an area no greater than 100 feet on a side (typically a maze, underground dungeon, or other confusing structure) as its personal lair. As a move action, the creature can teleport (as the greater teleport spell) from one point in its lair to any other point in its lair. The creature can change its lair once per week and can share its lair with other creatures (including other creatures with this ability) without interfering with this ability.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can designate an area no greater than 100 feet on a side (typically a maze, underground dungeon, or other confusing structure) as its personal lair. As a move action, the creature can teleport (as the greater teleport spell) from one point in its lair to any other point in its lair. The creature can change its lair once per week and can share its lair with other creatures (including other creatures with this ability) without interfering with this ability.
 
 **Enhancements**
 
@@ -5161,38 +5161,38 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend a use of mythic power to teleport (2 AP).
 - The creature must expend two uses of mythic power to teleport (3 AP).
 
-**Format:** lair mastery;**Location:** SQ.
+**Format:** lair mastery; **Location:** SQ.
 
 ### Limitless Vision (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature takes no distance penalties on Perception checks.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature takes no distance penalties on Perception checks.
 
-**Format:** limitless vision;**Location:** Senses.
+**Format:** limitless vision; **Location:** Senses.
 
 ### Mark of Restraint (Su, 4 AP)
 
-**Prerequisites:** mythic power, natural attack;**Benefit:** If the mythic creature successfully hits an opponent with a designated natural attack it can spend one use of its mythic power as a free action to mark that opponent with a restraining effect. This effect functions like a mark of justice (caster level equal creature’s Hit Dice) that triggers if the opponent attacks the mythic creature; the opponent is instantly aware of this condition. If the opponent attacks the mythic creature, the mark’s curse is activated and imposes a permanent –4 penalty on the opponent’s attack rolls, saving throws, ability checks, and skill checks.
+**Prerequisites:** mythic power, natural attack; **Benefit:** If the mythic creature successfully hits an opponent with a designated natural attack it can spend one use of its mythic power as a free action to mark that opponent with a restraining effect. This effect functions like a mark of justice (caster level equal creature’s Hit Dice) that triggers if the opponent attacks the mythic creature; the opponent is instantly aware of this condition. If the opponent attacks the mythic creature, the mark’s curse is activated and imposes a permanent –4 penalty on the opponent’s attack rolls, saving throws, ability checks, and skill checks.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 - The creature is permitted a Will save (DC 10 + ½ the mythic creature’s HD + creature’s Charisma modifier) to negate this effect (2 AP).
 
-**Format:** mark of restraint;**Location:** Special Attacks.
+**Format:** mark of restraint; **Location:** Special Attacks.
 
 ### Mistsight (Ex, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster can see through fog, mist, and murky water as if they were perfectly clear, ignoring the miss chance for these obstructions, with a range of 60 feet.
+**Prerequisites:** mythic power; **Benefit:** The monster can see through fog, mist, and murky water as if they were perfectly clear, ignoring the miss chance for these obstructions, with a range of 60 feet.
 
 **Enhancements**
 
 - The creature can see through plant matter up to the limits of its normal vision for an additional +1 AP.
 
-**Format:** mistsight;**Location:** Senses.
+**Format:** mistsight; **Location:** Senses.
 
 ### Modify Memory (Su, 3 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power as a swift action to modify the memory of a creature within 60 feet (as the modify memory spell). The target can negate this effect with a successful Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Charisma modifier).
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power as a swift action to modify the memory of a creature within 60 feet (as the modify memory spell). The target can negate this effect with a successful Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Charisma modifier).
 
 **Flaws**
 
@@ -5202,21 +5202,21 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** modify memory;**Location:** Special Attacks.
+**Format:** modify memory; **Location:** Special Attacks.
 
 ### Mythic Brawler (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to attempt any single combat maneuver as a swift action with no attack of opportunity for the attempt.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to attempt any single combat maneuver as a swift action with no attack of opportunity for the attempt.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** mythic brawler;**Location:** Special Attacks.
+**Format:** mythic brawler; **Location:** Special Attacks.
 
 ### Mythic Immortality (Su, 10 AP)
 
-**Prerequisites:** mythic power;**Benefit:** If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that recharge with rest until it next rests. This ability doesn’t apply if it is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is mythic rank 10, it can be killed only by a coup de grace or critical hit made with an artifact.
+**Prerequisites:** mythic power; **Benefit:** If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that recharge with rest until it next rests. This ability doesn’t apply if it is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is mythic rank 10, it can be killed only by a coup de grace or critical hit made with an artifact.
 
 **Enhancements**
 
@@ -5229,27 +5229,27 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature can be also permanently killed by a rare but not unique condition, creature, or item type (2 AP).
 - The creature can be also permanently killed by a common condition, creature, or item type (3 AP).
 
-**Format:** mythic immortality;**Location:** SQ.
+**Format:** mythic immortality; **Location:** SQ.
 
 ### Mythic Magic (Su, 2 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** Once per day, when the creature casts a spell, it can cast the mythic version instead (as with all mythic spells, the creature must expend mythic power to cast a mythic spell in this way). This ability cannot be used to cast the mythic version of spell-like abilities (see the mythic spell-like ability enhancement for details).
+**Prerequisites:** mythic power, spellcasting; **Benefit:** Once per day, when the creature casts a spell, it can cast the mythic version instead (as with all mythic spells, the creature must expend mythic power to cast a mythic spell in this way). This ability cannot be used to cast the mythic version of spell-like abilities (see the mythic spell-like ability enhancement for details).
 
 **Enhancements**
 
 - The creature can use the mythic magic ability (with an expenditure of mythic power) an additional time per day per +1 AP spent. The creature cannot spend more APs on this ability than its mythic rank.
 
-**Format:** mythic magic 3/day;**Location:** Special Attacks.
+**Format:** mythic magic 3/day; **Location:** Special Attacks.
 
 ### Mythic Path (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature selects a mythic path (archmage, champion, guardian, hierophant, marshal, or trickster; see Pathfinder Roleplaying Game: Mythic Adventures for details). The creature gains one of the base abilities associated with the mythic path (archmage arcana, champion’s strike, guardian’s call, divine surge, marshal’s order, or trickster’s attack), using its mythic rank as its mythic tier. The creature can select this ability up to three times, gaining all of the associated mythic path base abilities. The creature cannot gain mythic path abilities from more than one mythic path.
+**Prerequisites:** mythic power; **Benefit:** The creature selects a mythic path (archmage, champion, guardian, hierophant, marshal, or trickster; see Pathfinder Roleplaying Game: Mythic Adventures for details). The creature gains one of the base abilities associated with the mythic path (archmage arcana, champion’s strike, guardian’s call, divine surge, marshal’s order, or trickster’s attack), using its mythic rank as its mythic tier. The creature can select this ability up to three times, gaining all of the associated mythic path base abilities. The creature cannot gain mythic path abilities from more than one mythic path.
 
-**Format:** marshal’s order (advance);**Location:** SQ.
+**Format:** marshal’s order (advance); **Location:** SQ.
 
 ### Mythic Path Ability (Ex, 2 AP)
 
-**Prerequisites:** mythic path, mythic power;**Benefit:** The creature gains any 1st-tier mythic path ability associated with the path selected with the mythic path ability (see Pathfinder Roleplaying Game: Mythic Adventures for details). This ability (and the universal path ability) can be selected up to once per mythic tier, each time gaining a new mythic path ability. The cost does not stack to determine the maximum AP points a creature may spend per CR.
+**Prerequisites:** mythic path, mythic power; **Benefit:** The creature gains any 1st-tier mythic path ability associated with the path selected with the mythic path ability (see Pathfinder Roleplaying Game: Mythic Adventures for details). This ability (and the universal path ability) can be selected up to once per mythic tier, each time gaining a new mythic path ability. The cost does not stack to determine the maximum AP points a creature may spend per CR.
 
 **Enhancements**
 
@@ -5257,17 +5257,17 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - If the creature has a mythic rank of 3 or higher, it can select a 3rd-tier mythic path ability for an additional +2 AP.
 - If the creature has a mythic rank of 6 or higher, it can select a 6th-tier mythic path ability for an additional +4 AP.
 
-**Format:** eldritch breach;**Location:** SQ.
+**Format:** eldritch breach; **Location:** SQ.
 
 ### Mythic Path Mastery (Ex, 8 AP)
 
-**Prerequisites:** mythic path, mythic rank 10, mythic power;**Benefit:** The creature gains the 10th tier ability associated with the path selected with the mythic path ability (true archmage, legendary champion, true defender, divine vessel, visionary commander, or supreme trickster; see Pathfinder Roleplaying Game: Mythic Adventures for details).
+**Prerequisites:** mythic path, mythic rank 10, mythic power; **Benefit:** The creature gains the 10th tier ability associated with the path selected with the mythic path ability (true archmage, legendary champion, true defender, divine vessel, visionary commander, or supreme trickster; see Pathfinder Roleplaying Game: Mythic Adventures for details).
 
-**Format:** true archmage;**Location:** SQ.
+**Format:** true archmage; **Location:** SQ.
 
 ### Oubliette (Su, 4 AP)
 
-**Prerequisites:** mythic power, powerful charge;**Benefit:** Whenever the creature hits an opponent with a natural attack as part of a powerful charge, the target must succeed on a Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Wisdom modifier) or be sent into an extradimensional prison, as the maze spell, except the effect only lasts for 1d4+1 rounds.
+**Prerequisites:** mythic power, powerful charge; **Benefit:** Whenever the creature hits an opponent with a natural attack as part of a powerful charge, the target must succeed on a Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Wisdom modifier) or be sent into an extradimensional prison, as the maze spell, except the effect only lasts for 1d4+1 rounds.
 
 **Enhancements**
 
@@ -5278,11 +5278,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend a use of mythic power to send the opponent into the maze (2 AP).
 - The creature must expend two uses of mythic power to send the opponent into the maze (3 AP).
 
-**Format:** oubliette; Location:**Special Attacks.**
+**Format:** oubliette; Location: **Special Attacks.**
 
 ### Opportunistic Movement (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can rapidly move to take advantage of an opponent’s weakened defenses. When an opponent within a distance equal to or less than the distance the mythic creature can cover with a single move action takes an action that provokes an attack of opportunity, as an immediate action the creature can expend one use of mythic power to move up to its speed. The mythic creature must end its movement next to the creature that provoked the attack of opportunity and can then make an attack of opportunity against that creature.
+**Prerequisites:** mythic power; **Benefit:** The creature can rapidly move to take advantage of an opponent’s weakened defenses. When an opponent within a distance equal to or less than the distance the mythic creature can cover with a single move action takes an action that provokes an attack of opportunity, as an immediate action the creature can expend one use of mythic power to move up to its speed. The mythic creature must end its movement next to the creature that provoked the attack of opportunity and can then make an attack of opportunity against that creature.
 
 **Enhancements**
 
@@ -5292,11 +5292,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** opportunistic movement;**Location:** Special Attacks.
+**Format:** opportunistic movement; **Location:** Special Attacks.
 
 ### Pain Blast (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per round as a standard action, the creature can stimulate extreme pain in one opponent within its reach. The creature takes a –4 penalty on attack rolls, skill checks, and ability checks until the start of the mythic creature’s next turn or until it moves at least 60 feet away from the mythic creature.
+**Prerequisites:** mythic power; **Benefit:** Once per round as a standard action, the creature can stimulate extreme pain in one opponent within its reach. The creature takes a –4 penalty on attack rolls, skill checks, and ability checks until the start of the mythic creature’s next turn or until it moves at least 60 feet away from the mythic creature.
 
 **Enhancements**
 
@@ -5311,32 +5311,32 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend a use of mythic power to activate this ability (2 AP).
 - The creature must expend two uses of mythic power to activate this ability (3 AP).
 
-**Format:** pain blast;**Location:** Special Attacks
+**Format:** pain blast; **Location:** Special Attacks
 
 ### Petrify (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** If the mythic creature hits a target with a selected natural attack type, it can expend two uses of mythic power to permanently turn that target to stone (as the flesh to stone spell). The creature negates this effect with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + mythic creature’s Constitution modifier).
+**Prerequisites:** mythic power; **Benefit:** If the mythic creature hits a target with a selected natural attack type, it can expend two uses of mythic power to permanently turn that target to stone (as the flesh to stone spell). The creature negates this effect with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + mythic creature’s Constitution modifier).
 
 **Enhancements**
 
 - If the target succeeds on the saving throw, it is slowed (as the slow spell) for 1d6 rounds for an additional +2 AP.
 - The ability only requires expending one use of mythic power for +2 AP.
 
-**Format:** petrify;**Location:** Special Attacks.
+**Format:** petrify; **Location:** Special Attacks.
 
 ### Plantbringer (Su, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** All plants within a 1-mile radius of the creature grow at double their normal rate and don’t suffer from any diseases or maladies.
+**Prerequisites:** mythic power; **Benefit:** All plants within a 1-mile radius of the creature grow at double their normal rate and don’t suffer from any diseases or maladies.
 
 **Enhancements**
 
 - Allied plant creatures within 30 feet of the creature gain fast healing equal to the creature’s mythic rank for an additional +3 AP. If the creature uses the plant shape spells or wild shape to take the form of a plant, it gains this fast healing in plant form. However, a plant creature does not gain this fast healing and should instead take the fast healing ability separately. The range of the creature’s ability to grant fast healing increases by +10 feet per +1 AP spent.
 
-**Format:** plantbringer;**Location:** SQ.
+**Format:** plantbringer; **Location:** SQ.
 
 ### Possess Statue (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to possess and animate a Medium-sized or smaller stone statue within 100 feet. The possessed statue functions as a non-mythic animated object of its size and lasts so long as the statue is in range and the mythic creature concentrates. When using this ability, the mythic creature’s actual body is immobile and helpless. It can stop using this ability as a move action. If the statue is destroyed, the mythic creature’s life force returns to its own body.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to possess and animate a Medium-sized or smaller stone statue within 100 feet. The possessed statue functions as a non-mythic animated object of its size and lasts so long as the statue is in range and the mythic creature concentrates. When using this ability, the mythic creature’s actual body is immobile and helpless. It can stop using this ability as a move action. If the statue is destroyed, the mythic creature’s life force returns to its own body.
 
 **Enhancements**
 
@@ -5348,11 +5348,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** possess statue;**Location:** SQ
+**Format:** possess statue; **Location:** SQ
 
 ### Pressure Wave (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to create a 60-foot-radius burst of pressurized water. Creatures in the area must attempt a Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier). Success means the creature is sickened for 1 round; failure means the creature is nauseated for 1 round and sickened for 1 round after that. Creatures with the aquatic or water subtypes are immune to this ability.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to create a 60-foot-radius burst of pressurized water. Creatures in the area must attempt a Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier). Success means the creature is sickened for 1 round; failure means the creature is nauseated for 1 round and sickened for 1 round after that. Creatures with the aquatic or water subtypes are immune to this ability.
 
 **Enhancements**
 
@@ -5363,21 +5363,21 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** pressure wave;**Location:** Special Attacks.
+**Format:** pressure wave; **Location:** Special Attacks.
 
 ### Recuperation (Ex, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature is restored to full hit points after 8 hours of rest so long as it isn’t dead.
+**Prerequisites:** mythic power; **Benefit:** The creature is restored to full hit points after 8 hours of rest so long as it isn’t dead.
 
 **Enhancements**
 
 - By expending one use of mythic power and resting for 1 hour, the creature regains a number of hit points equal to half its full hit points (up to a maximum of its full hit points) and regain the use of any class features that are limited to a certain number of uses per day (such as barbarian rage, bardic performance, spells per day, and so on) for an additional +3 AP. This rest is treated as 8 hours of sleep for such abilities. This rest doesn’t refresh uses of mythic power or any mythic abilities that are limited to a number of times per day.
 
-**Format:** recuperation;**Location:** SQ.
+**Format:** recuperation; **Location:** SQ.
 
 ### Reveler’s Rapture (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature emits a bacchanalian aura of euphoria to a range of 30 feet. Creatures that enter the aura’s area engage their wild side, with an effect equivalent to irresistible dance. A successful Will save (DC 10 + ½ the mythic creature’s HD + creature’s Charisma modifier) renders the subject immune to effect and that mythic creature’s aura for 24 hours. The creature can exclude any targets it wishes from her aura’s effects.
+**Prerequisites:** mythic power; **Benefit:** The creature emits a bacchanalian aura of euphoria to a range of 30 feet. Creatures that enter the aura’s area engage their wild side, with an effect equivalent to irresistible dance. A successful Will save (DC 10 + ½ the mythic creature’s HD + creature’s Charisma modifier) renders the subject immune to effect and that mythic creature’s aura for 24 hours. The creature can exclude any targets it wishes from her aura’s effects.
 
 **Enhancements**
 
@@ -5387,11 +5387,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - A creature under the effect of reveler’s rapture can attempt a new save at the end of each turn after the first to end the effect and become immune to the aura (2 AP).
 
-**Format:** reveler’s rapture (DC 20, 30 ft.);**Location:** Aura.
+**Format:** reveler’s rapture (DC 20, 30 ft.); **Location:** Aura.
 
 ### Riddle (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to ask a riddle of a creature within 100 feet. If the creature fails a Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Charisma modifier) it is compelled to give an answer within 1 minute (a creature in combat when the mythic creature uses this ability gain a +4 bonus on the saving throw). The mythic creature gets a +4 bonus on attack rolls, damage rolls, and saving throws against any creature that refuses to answer (via a successful saving throw), can’t answer (including if it’s in an area affected by a silence spell), answers incorrectly, or flees the mythic creature instead of answering. The bonuses from failing to solve the riddle last for 24 hours. The need to answer is a compulsion, mind-affecting, language-dependent enchantment effect.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to ask a riddle of a creature within 100 feet. If the creature fails a Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Charisma modifier) it is compelled to give an answer within 1 minute (a creature in combat when the mythic creature uses this ability gain a +4 bonus on the saving throw). The mythic creature gets a +4 bonus on attack rolls, damage rolls, and saving throws against any creature that refuses to answer (via a successful saving throw), can’t answer (including if it’s in an area affected by a silence spell), answers incorrectly, or flees the mythic creature instead of answering. The bonuses from failing to solve the riddle last for 24 hours. The need to answer is a compulsion, mind-affecting, language-dependent enchantment effect.
 
 **Enhancements**
 
@@ -5401,11 +5401,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** riddle;**Location:** Special Attack.
+**Format:** riddle; **Location:** Special Attack.
 
 ### Rising Fury (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Each time the creature takes damage, it gains a +1 morale bonus on damage rolls until the end of its next turn. This bonus increases by +1 each time the creature takes damage, up to a maximum of +5. At the end of the mythic creature’s turn, this damage bonus resets to +0.
+**Prerequisites:** mythic power; **Benefit:** Each time the creature takes damage, it gains a +1 morale bonus on damage rolls until the end of its next turn. This bonus increases by +1 each time the creature takes damage, up to a maximum of +5. At the end of the mythic creature’s turn, this damage bonus resets to +0.
 
 **Enhancements**
 
@@ -5416,21 +5416,21 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature takes a –1 cumulative penalty to Armor Class each time it gains a bonus to damage. This penalty persists for as long as the damage bonus remains (2 AP).
 
-**Format:** rising fury;**Location:** Special Attacks.
+**Format:** rising fury; **Location:** Special Attacks.
 
 ### Second Save (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Whenever the creature fails a saving throw against an effect with a duration greater than 1 round, it can keep trying to shake off the effect. At the start of its turn, if it’s still affected, it can attempt the save one more time as a free action. If this save succeeds, the effect affects the creature as if it had succeeded at its initial saving throw. If the effect already allows another saving throw on a later turn to break the effect (such as for hold monster), this ability is in addition to the extra saving throw from the effect.
+**Prerequisites:** mythic power; **Benefit:** Whenever the creature fails a saving throw against an effect with a duration greater than 1 round, it can keep trying to shake off the effect. At the start of its turn, if it’s still affected, it can attempt the save one more time as a free action. If this save succeeds, the effect affects the creature as if it had succeeded at its initial saving throw. If the effect already allows another saving throw on a later turn to break the effect (such as for hold monster), this ability is in addition to the extra saving throw from the effect.
 
 **Enhancements**
 
 - By expending one use of mythic power as a free action the creature can attempt an additional save against an effect with a duration greater than 1 round to shake off the effect for an additional +2 AP. This is only necessary after the creature has failed the previous saves granted by the second save ability, but the creature can make additional saves once per round thereafter by expending mythic power.
 
-**Format:** second save;**Location:** after saving throws.
+**Format:** second save; **Location:** after saving throws.
 
 ### Secret Knowledge (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** By expending one use of mythic power as a free action, the creature learns one weakness, vulnerability, or special defense of an opponent within reach.
+**Prerequisites:** mythic power; **Benefit:** By expending one use of mythic power as a free action, the creature learns one weakness, vulnerability, or special defense of an opponent within reach.
 
 **Enhancements**
 
@@ -5441,11 +5441,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** secret knowledge;**Location:** Senses.
+**Format:** secret knowledge; **Location:** Senses.
 
 ### Secret Lair (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can spend 1 hour concentrating to create a labyrinthine extradimensional lair. This functions like greater create demiplane (see Pathfinder RPG Ultimate Magic for details) and creates a demiplane with the morphic, portal, shape, and structure properties. The demiplane is approximately a 500-foot-diameter sphere. The demiplane’s portal is connected to the location where the mythic creature created it. The mythic creature can have only one demiplane active at a time, and the demiplane dissolves 10d10 minutes after the mythic creature leaves.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can spend 1 hour concentrating to create a labyrinthine extradimensional lair. This functions like greater create demiplane (see Pathfinder RPG Ultimate Magic for details) and creates a demiplane with the morphic, portal, shape, and structure properties. The demiplane is approximately a 500-foot-diameter sphere. The demiplane’s portal is connected to the location where the mythic creature created it. The mythic creature can have only one demiplane active at a time, and the demiplane dissolves 10d10 minutes after the mythic creature leaves.
 
 **Enhancements**
 
@@ -5457,21 +5457,21 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend one use of mythic power to activate this ability (1 AP).
 - The creature must expend two uses of mythic power to activate this ability (2 AP).
 
-**Format:** secret lair;**Location:** SQ.
+**Format:** secret lair; **Location:** SQ.
 
 ### Smother (Ex, 2 AP)
 
-**Prerequisites:** grapple, mythic power;**Benefit:** If the creature’s grappled opponent is holding its breath, the monster can force that opponent to expel or consume some of its breath, or can otherwise reduce the time remaining until the target must attempt checks to avoid suffocation.
+**Prerequisites:** grapple, mythic power; **Benefit:** If the creature’s grappled opponent is holding its breath, the monster can force that opponent to expel or consume some of its breath, or can otherwise reduce the time remaining until the target must attempt checks to avoid suffocation.
 
 If the monster succeeds at a grapple check against the opponent, the remaining duration for which the opponent can hold its breath decreases by 1d6 rounds. If this reduces the remaining time that the creature can hold its breath to 0 rounds or fewer, the DCs of its suffocation checks increase by 5. For example, if the monster is grappling a creature that has 10 rounds remaining before it must attempt suffocation checks, a successful grapple check reduces that duration by 1d6 rounds.
 
 If the monster has another ability (such as constrict) that harms the opponent when it succeeds at a grapple check, it can automatically use the smother ability when it succeeds at the grapple check to use the other ability.
 
-**Format:** smother;**Location:** Special Attacks.
+**Format:** smother; **Location:** Special Attacks.
 
 ### Spell Blessing (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can enhance the magic of a willing humanoid spellcaster by touching him for 1 full round. The blessing allows the target to recall a number of spell levels each day equal to twice the mythic creature’s mythic rank. This recalling works like a pearl of power, except it works for spellcasters of any class (spontaneous casters recover spent spell slots). The mythic creature can only grant this blessing to a single creature at any one time, but can end this blessing as a standard action at any range.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can enhance the magic of a willing humanoid spellcaster by touching him for 1 full round. The blessing allows the target to recall a number of spell levels each day equal to twice the mythic creature’s mythic rank. This recalling works like a pearl of power, except it works for spellcasters of any class (spontaneous casters recover spent spell slots). The mythic creature can only grant this blessing to a single creature at any one time, but can end this blessing as a standard action at any range.
 
 **Enhancements**
 
@@ -5482,17 +5482,17 @@ If the monster has another ability (such as constrict) that harms the opponent w
 
 - The creature must expend one use of mythic power to activate this ability (1 AP). This use of mythic power cannot be recovered until the spell blessing is ended.
 
-**Format:** spell blessing;**Location:** SQ.
+**Format:** spell blessing; **Location:** SQ.
 
 ### Spell Perception (Su, 2 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** The creature automatically notices spellcasting within 60 feet. The mythic creature automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.
+**Prerequisites:** mythic power, spellcasting; **Benefit:** The creature automatically notices spellcasting within 60 feet. The mythic creature automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.
 
-**Format:** spell perception;**Location:** Senses.
+**Format:** spell perception; **Location:** Senses.
 
 ### Steal Soul (Su, 6 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a ranged attack, the mythic creature can pelt an opponent with a ritually prepared, soul-stealing object, such as a gem, skull, or carved wooden likeness. If the object strikes its target, she must succeed at a Will saving throw (DC 10 + 1/2 the mythic creature’s HD + creature’s Wisdom modifier) to prevent it from ripping her soul from her body. If the victim fails the saving throw, the object temporarily devours her soul, leaving her vulnerable to the commands of whoever holds the object. Thereafter, the object’s possessor can use it to command the victim, as the dominate person spell. The soul remains stolen until the possessor chooses to release the victim or the object is destroyed. While the mythic creature can carry multiple objects, it can only manipulate single soul at one time. The soul remains trapped within the object for one day per mythic rank.
+**Prerequisites:** mythic power; **Benefit:** As a ranged attack, the mythic creature can pelt an opponent with a ritually prepared, soul-stealing object, such as a gem, skull, or carved wooden likeness. If the object strikes its target, she must succeed at a Will saving throw (DC 10 + 1/2 the mythic creature’s HD + creature’s Wisdom modifier) to prevent it from ripping her soul from her body. If the victim fails the saving throw, the object temporarily devours her soul, leaving her vulnerable to the commands of whoever holds the object. Thereafter, the object’s possessor can use it to command the victim, as the dominate person spell. The soul remains stolen until the possessor chooses to release the victim or the object is destroyed. While the mythic creature can carry multiple objects, it can only manipulate single soul at one time. The soul remains trapped within the object for one day per mythic rank.
 
 **Enhancements**
 
@@ -5504,22 +5504,22 @@ If the monster has another ability (such as constrict) that harms the opponent w
 - The creature must expend one use of mythic power to both trap a soul and command the victim (2 AP).
 - The creature must expend two uses of mythic power to both trap a soul and command the victim (3 AP).
 
-**Format:** steal soul;**Location:** Special Attacks.
+**Format:** steal soul; **Location:** Special Attacks.
 
 ### Stone Armor (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Any weapon that strikes the creature takes 1d6 points of damage that bypasses the weapon’s hardness.
+**Prerequisites:** mythic power; **Benefit:** Any weapon that strikes the creature takes 1d6 points of damage that bypasses the weapon’s hardness.
 
 **Enhancements**
 
 - The damage is increase to 1d8 for an additional +1 AP, 2d4 for +2 AP, 2d6 for +3 AP, 2d8 for +4 AP, or 2d10 for +5 AP.
 - Any creature attacking with natural weapons or unarmed strikes takes damage as a weapon for an additional +2 AP.
 
-**Format:** stone armor (1d6);**Location:** Defensive Abilities.
+**Format:** stone armor (1d6); **Location:** Defensive Abilities.
 
 ### Terrain Control (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can expend one use of mythic power to create difficult terrain in a 100-foot-radius burst; the type of difficult terrain is appropriate to the area (mud in plains, rubble in mountains, and so on). The effects of this ability persist so long as the mythic creature remains within 10 miles of the affected area.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can expend one use of mythic power to create difficult terrain in a 100-foot-radius burst; the type of difficult terrain is appropriate to the area (mud in plains, rubble in mountains, and so on). The effects of this ability persist so long as the mythic creature remains within 10 miles of the affected area.
 
 **Enhancements**
 
@@ -5531,82 +5531,82 @@ If the monster has another ability (such as constrict) that harms the opponent w
 
 - The creature must expend two uses of mythic power to activate the ability (1 AP).
 
-**Format:** terrain control (100 ft.);**Location:** SQ.
+**Format:** terrain control (100 ft.); **Location:** SQ.
 
 ### Touch of Chaos/Evil/Good/Law (Su, 2 AP)
 
-**Prerequisites:** alignment, mythic power;**Benefit:** This functions as the 1st-level Chaos, Evil, Good, or Law cleric domain abilities, except the creature can expend one use of mythic power as a free action to use this ability when it hits with an attack. The ability lasts for a number of rounds equal to the creature’s mythic tier. The creature must possess an alignment equal to the domain ability selected.
+**Prerequisites:** alignment, mythic power; **Benefit:** This functions as the 1st-level Chaos, Evil, Good, or Law cleric domain abilities, except the creature can expend one use of mythic power as a free action to use this ability when it hits with an attack. The ability lasts for a number of rounds equal to the creature’s mythic tier. The creature must possess an alignment equal to the domain ability selected.
 
-**Format:** touch of chaos;**Location:** Special Attacks.
+**Format:** touch of chaos; **Location:** Special Attacks.
 
 ### Trap Weapon (Ex, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature’s body traps manufactured weapons that damage it. A manufactured weapon that deals hit point damage to the creature (after subtracting any DR) is stuck fast unless the wielder succeeds at a Reflex save (DC 10 + 1/2 the mythic creature’s HD + creature’s Strength modifier). A creature can spend a standard action to attempt a Strength check at the same DC to remove a stuck weapon. Weapons that deal only bludgeoning damage are immune to this ability. The mythic creature can release any number of stuck weapons as a free action.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature’s body traps manufactured weapons that damage it. A manufactured weapon that deals hit point damage to the creature (after subtracting any DR) is stuck fast unless the wielder succeeds at a Reflex save (DC 10 + 1/2 the mythic creature’s HD + creature’s Strength modifier). A creature can spend a standard action to attempt a Strength check at the same DC to remove a stuck weapon. Weapons that deal only bludgeoning damage are immune to this ability. The mythic creature can release any number of stuck weapons as a free action.
 
 **Flaws**
 
 - The creature must expend a use of mythic power as an immediate action to trap a weapon (2 AP).
 - The creature must expend two uses of mythic power as an immediate action to trap a weapon (3 AP).
 
-**Format:** trap weapon;**Location:** Defensive Abilities.
+**Format:** trap weapon; **Location:** Defensive Abilities.
 
 ### Uncanny Flight (Su, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power as an immediate action to gain a fly speed equal to its base speed (perfect maneuverability). When it activates this ability, the creature chooses whether to manifest wings or to float unnaturally.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power as an immediate action to gain a fly speed equal to its base speed (perfect maneuverability). When it activates this ability, the creature chooses whether to manifest wings or to float unnaturally.
 
 **Enhancements**
 
 - If the creature manifests wings, it gains a bonus on Intimidation equal to its mythic rank for an additional +1 AP.
 - If the creature floats unnaturally, it gains a bonus on Stealth equal to its mythic rank for an additional +1 AP.
 
-**Format:** fly 60 ft. (perfect);**Location:** Speed.
+**Format:** fly 60 ft. (perfect); **Location:** Speed.
 
 ### Universal Path Ability (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature gains any 1st-tier universal path ability (see Pathfinder Roleplaying Game: Mythic Adventures for details). This ability (and the mythic path ability) can be selected up to once per mythic tier, each time gaining a new mythic path ability. The cost does not stack to determine the maximum AP points a creature may spend per CR.
+**Prerequisites:** mythic power; **Benefit:** The creature gains any 1st-tier universal path ability (see Pathfinder Roleplaying Game: Mythic Adventures for details). This ability (and the mythic path ability) can be selected up to once per mythic tier, each time gaining a new mythic path ability. The cost does not stack to determine the maximum AP points a creature may spend per CR.
 
 **Enhancements**
 
 - If the creature has a mythic rank of 3 or higher, it can select a 3rd-tier universal path ability for an additional +2 AP.
 - If the creature has a mythic rank of 6 or higher, it can select a 6th-tier universal path ability for an additional +4 AP.
 
-**Format:** display of strength;**Location:** SQ.
+**Format:** display of strength; **Location:** SQ.
 
 ### Unstoppable (Ex, 3 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power as a free action to immediately end any one of the following conditions currently affecting it: bleed, blind, confused, cowering, dazed, dazzled, deafened, entangled, exhausted, fascinated, fatigued, frightened, nauseated, panicked, paralyzed, shaken, sickened, staggered, or stunned. All other conditions and effects remain, even those resulting from the same spell or effect that caused the selected condition. It can use this ability at the start of its turn even if a condition would prevent it from acting.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power as a free action to immediately end any one of the following conditions currently affecting it: bleed, blind, confused, cowering, dazed, dazzled, deafened, entangled, exhausted, fascinated, fatigued, frightened, nauseated, panicked, paralyzed, shaken, sickened, staggered, or stunned. All other conditions and effects remain, even those resulting from the same spell or effect that caused the selected condition. It can use this ability at the start of its turn even if a condition would prevent it from acting.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** unstoppable;**Location** Defensive Abilities.
+**Format:** unstoppable; **Location** Defensive Abilities.
 
 ### Uplift (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a full-round action, the mythic creature can impart incredible capacity for thought and understanding to a creature it touches. The creature must have an Intelligence score of 3 or less to be affected by this ability. This affect is identical to awaken, except that it works on creatures of the animal, plant, humanoid, magical beast, and monstrous humanoid types. Creatures affected by uplift don’t change creature type (with the exception of animals, which become magical beasts), nor does the affected creature have any inherent affinity toward the mythic creature. The effect of uplift is permanent and is passed on to any progeny the uplifted creature produces.
+**Prerequisites:** mythic power; **Benefit:** As a full-round action, the mythic creature can impart incredible capacity for thought and understanding to a creature it touches. The creature must have an Intelligence score of 3 or less to be affected by this ability. This affect is identical to awaken, except that it works on creatures of the animal, plant, humanoid, magical beast, and monstrous humanoid types. Creatures affected by uplift don’t change creature type (with the exception of animals, which become magical beasts), nor does the affected creature have any inherent affinity toward the mythic creature. The effect of uplift is permanent and is passed on to any progeny the uplifted creature produces.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** uplift;**Location:** SQ.
+**Format:** uplift; **Location:** SQ.
 
 ### Vengeful Seeker (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can relentless pursue creatures that wrong it. It gains the swift tracker and quarry abilities of a ranger when tracking or hunting any creature that has confirmed a critical hit against it, penetrated its spell resistance (if any), or taken anything belonging to it. Any divination spell or spell-like ability the mythic creature uses to locate the target counts as the mythic version of the spell, if appropriate.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can relentless pursue creatures that wrong it. It gains the swift tracker and quarry abilities of a ranger when tracking or hunting any creature that has confirmed a critical hit against it, penetrated its spell resistance (if any), or taken anything belonging to it. Any divination spell or spell-like ability the mythic creature uses to locate the target counts as the mythic version of the spell, if appropriate.
 
-**Format:** vengeful seeker;**Location:** SQ.
+**Format:** vengeful seeker; **Location:** SQ.
 
 ### X-Ray Vision (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster can see through solid matter as if wearing a ring of x-ray vision. This is as exhausting as if the monster were actually using the ring.
+**Prerequisites:** mythic power; **Benefit:** The monster can see through solid matter as if wearing a ring of x-ray vision. This is as exhausting as if the monster were actually using the ring.
 
 **Enhancements**
 
 - Using x-ray vision does not cause Constitution damage for an additional +2 AP.
 
-**Format:** x-ray vision;**Location:** Senses.
+**Format:** x-ray vision; **Location:** Senses.
 
 # Mythic Enhancements
 
@@ -5711,159 +5711,159 @@ Mythic creatures are limited by the mythic power resource. This can serve as a b
 
 ### Absorb Magic (Su, +2 AP)
 
-**Prerequisites:** mythic power, spell resistance;**Benefit:** See spell resistance for details on the base ability. Select a spell subschool. Whenever the creature is affected by a spell or effect of that subschool that fails to penetrate its spell resistance, the entire spell or effect is negated. For an additional +2 AP, the mythic creature also gains 5 temporary hit points per spell level of the spell absorbed that lasts for 1 hour. For an additional +2 AP, the mythic creature can choose an entire school of magic, or for an additional +6 AP any spell that fails to penetrate its spell resistance is affected.
+**Prerequisites:** mythic power, spell resistance; **Benefit:** See spell resistance for details on the base ability. Select a spell subschool. Whenever the creature is affected by a spell or effect of that subschool that fails to penetrate its spell resistance, the entire spell or effect is negated. For an additional +2 AP, the mythic creature also gains 5 temporary hit points per spell level of the spell absorbed that lasts for 1 hour. For an additional +2 AP, the mythic creature can choose an entire school of magic, or for an additional +6 AP any spell that fails to penetrate its spell resistance is affected.
 
 ### Accursed Brand (Su, +4 AP)
 
-**Prerequisites:** evil alignment, breath weapon, mythic power;**Benefit:** See breath weapon for details on the base ability. Whenever a victim fails its save against the mythic creature’s breath weapon, unholy energy burns an accursed brand into his flesh. For the next 24 hours, the branded victim is subjected to auditory hallucinations of foul desires and sinful deeds. The hallucinations cause lawful and good victims to become tainted; good-aligned clerics, druids, paladins, and even lawful monks are treated as though they’ve temporarily broken their codes of conduct.
+**Prerequisites:** evil alignment, breath weapon, mythic power; **Benefit:** See breath weapon for details on the base ability. Whenever a victim fails its save against the mythic creature’s breath weapon, unholy energy burns an accursed brand into his flesh. For the next 24 hours, the branded victim is subjected to auditory hallucinations of foul desires and sinful deeds. The hallucinations cause lawful and good victims to become tainted; good-aligned clerics, druids, paladins, and even lawful monks are treated as though they’ve temporarily broken their codes of conduct.
 
 Any character marked by the accursed brand who has a class that’s restricted to a good alignment or lawful alignment is treated as an ex-member of that class for 24 hours; an atonement spell can end this effect.
 
 ### Agonizing Venom (Ex, +4 AP)
 
-**Prerequisites:** mythic power, poison;**Benefit:** See poison for details on the base ability. Any creature failing its saving throw against mythic creature’s poison is sickened for 1 minute due to pain. Failing further saving throws against the poison causes the pain to worsen. A second, third, and fourth failed saving throw mean the creature is also staggered for 1 minute, nauseated for 1 minute, and helpless for 1 minute, respectively. This effect immediately ends if the poison is cured. This is a pain effect.
+**Prerequisites:** mythic power, poison; **Benefit:** See poison for details on the base ability. Any creature failing its saving throw against mythic creature’s poison is sickened for 1 minute due to pain. Failing further saving throws against the poison causes the pain to worsen. A second, third, and fourth failed saving throw mean the creature is also staggered for 1 minute, nauseated for 1 minute, and helpless for 1 minute, respectively. This effect immediately ends if the poison is cured. This is a pain effect.
 
 ### Animate Trees (Ex, +2 AP)
 
-**Prerequisites:** animate plant, mythic power;**Benefit:** See animate plant for details on the base ability. If the mythic creature expends one use of mythic power when it animates a plant or tree, it remains animated and under the mythic creature’s control up to a range of 1 mile, and it doesn’t count toward the mythic creature’s limit of controlling up to two trees at a time.
+**Prerequisites:** animate plant, mythic power; **Benefit:** See animate plant for details on the base ability. If the mythic creature expends one use of mythic power when it animates a plant or tree, it remains animated and under the mythic creature’s control up to a range of 1 mile, and it doesn’t count toward the mythic creature’s limit of controlling up to two trees at a time.
 
 ### Antimagic Aura (Su, +6 AP)
 
-**Prerequisites:** immunity to magic, mythic power;**Benefit:** See immunity to magic for details on the base ability. The area within 20 feet of the mythic creature is affected by the equivalent of an antimagic field spell. The creature can select a single spell school or subschool that functions normally within the area. For an additional +2 AP, the area of effect increases to 30 feet.
+**Prerequisites:** immunity to magic, mythic power; **Benefit:** See immunity to magic for details on the base ability. The area within 20 feet of the mythic creature is affected by the equivalent of an antimagic field spell. The creature can select a single spell school or subschool that functions normally within the area. For an additional +2 AP, the area of effect increases to 30 feet.
 
 ### Bane (Ex, +4 AP)
 
-**Prerequisites:** mythic power, regeneration;**Benefit:** The mythic creature’s regeneration is only suppressed in specific circumstances, and otherwise always function. For example, a mythic creature with a connection to the earth might only have its regeneration suppressed when it is no longer in contact with the ground.
+**Prerequisites:** mythic power, regeneration; **Benefit:** The mythic creature’s regeneration is only suppressed in specific circumstances, and otherwise always function. For example, a mythic creature with a connection to the earth might only have its regeneration suppressed when it is no longer in contact with the ground.
 
 ### Blood Omen (Su, +4 AP)
 
-**Prerequisites:** blood drain, mythic power;**Benefit:** See blood drain for details on the base ability. The creature can expend two uses of mythic power as a standard action to drain blood from all creatures within 30 feet. Each creature must succeed at a Fortitude saving throw (DC 10 +1/2 the mythic creature’s HD + creature’s Charisma modifier) or be affected by the blood drain ability. The mythic creature gains any benefits associated with draining blood from all blood drained in this manner.
+**Prerequisites:** blood drain, mythic power; **Benefit:** See blood drain for details on the base ability. The creature can expend two uses of mythic power as a standard action to drain blood from all creatures within 30 feet. Each creature must succeed at a Fortitude saving throw (DC 10 +1/2 the mythic creature’s HD + creature’s Charisma modifier) or be affected by the blood drain ability. The mythic creature gains any benefits associated with draining blood from all blood drained in this manner.
 
 ### Bonus Mythic Feat (Ex, +1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** See bonus feat for details on the base ability. The creature gains a mythic feat as a bonus feat. It must meet all prerequisites for the feat. As with the base ability, this ability may be taken multiple times, and the cost does not stack to determine the maximum AP points a creature may spend per CR. However, the creature cannot spend additional APs to take a mythic bonus feat without meeting all prerequisites.
+**Prerequisites:** mythic power; **Benefit:** See bonus feat for details on the base ability. The creature gains a mythic feat as a bonus feat. It must meet all prerequisites for the feat. As with the base ability, this ability may be taken multiple times, and the cost does not stack to determine the maximum AP points a creature may spend per CR. However, the creature cannot spend additional APs to take a mythic bonus feat without meeting all prerequisites.
 
 ### Breath Weapon (Su, +0 AP)
 
-**Prerequisites:** breath weapon (spell effect), mythic power;**Benefit:** See breath weapon for details on the base ability. The mythic creature’s breath weapon can inflict damage in addition to the spell-effect enhancement at no additional cost (normally having a cost of +2 AP) if the breath weapon requires the creature to expend one use of mythic power.
+**Prerequisites:** breath weapon (spell effect), mythic power; **Benefit:** See breath weapon for details on the base ability. The mythic creature’s breath weapon can inflict damage in addition to the spell-effect enhancement at no additional cost (normally having a cost of +2 AP) if the breath weapon requires the creature to expend one use of mythic power.
 
 ### Channel Energy (Su, +2 AP)
 
-**Prerequisites:** class ability (channel energy), mythic power;**Benefit:** See class ability for details on the base ability. When channeling positive or negative energy, the mythic creature can expend one use of mythic power to maximize the damage healed or dealt.
+**Prerequisites:** class ability (channel energy), mythic power; **Benefit:** See class ability for details on the base ability. When channeling positive or negative energy, the mythic creature can expend one use of mythic power to maximize the damage healed or dealt.
 
 ### Children of the Eclipse (Su, +4 AP)
 
-**Prerequisites:** children of the night, mythic power;**Benefit:** See children of the night for details on the base ability. The creature can use children of the night to call forth 2d6 ghouls or 1d6+1 shadows. For an additional +6 AP, the creature can use children of the night to call forth 1d6 wraiths or mohrgs.
+**Prerequisites:** children of the night, mythic power; **Benefit:** See children of the night for details on the base ability. The creature can use children of the night to call forth 2d6 ghouls or 1d6+1 shadows. For an additional +6 AP, the creature can use children of the night to call forth 1d6 wraiths or mohrgs.
 
 ### Confounding Coils (Su, +2 AP)
 
-**Prerequisites:** constrict, mythic power;**Benefit:** See constrict for details on the base ability. Mythic creatures grappled by the mythic creature must succeed on a Will save (DC 10 + ½ the mythic creature’s HD + creature’s Wisdom modifier) each round or be affected as if by the mythic severance spell.
+**Prerequisites:** constrict, mythic power; **Benefit:** See constrict for details on the base ability. Mythic creatures grappled by the mythic creature must succeed on a Will save (DC 10 + ½ the mythic creature’s HD + creature’s Wisdom modifier) each round or be affected as if by the mythic severance spell.
 
 ### Create Rocks (Ex, +2 AP)
 
-**Prerequisites:** mythic power, rock throwing;**Benefit:** See rock throwing for details on the base ability. As a move action, the mythic creature can scoop up earth or rubble from an unoccupied square within its reach and compact it into a solid mass appropriate for use with its rock throwing ability. When it does so, the square from which the material is gathered becomes difficult terrain. No square may be used in this fashion more than once.
+**Prerequisites:** mythic power, rock throwing; **Benefit:** See rock throwing for details on the base ability. As a move action, the mythic creature can scoop up earth or rubble from an unoccupied square within its reach and compact it into a solid mass appropriate for use with its rock throwing ability. When it does so, the square from which the material is gathered becomes difficult terrain. No square may be used in this fashion more than once.
 
 ### Create Vacuum (Ex, +4 AP)
 
-**Prerequisites:** mythic power, whirlwind;**Benefit:** See whirlwind for details on the base ability. As a standard action, the creature can suck the air out of lungs of creatures that are trapped in its whirlwind. Creatures trapped in the whirlwind must succeed on Constitution checks each round as if they had run out of breath for as long as they remain within the whirlwind. An affected creature can’t speak, use breath weapons, cast spells with verbal components, or do anything else that requires breathing. A trapped creature must succeed at a concentration check to cast spells. The mythic creature can maintain this vacuum as a move action. If it stops, the trapped creatures can breathe again.
+**Prerequisites:** mythic power, whirlwind; **Benefit:** See whirlwind for details on the base ability. As a standard action, the creature can suck the air out of lungs of creatures that are trapped in its whirlwind. Creatures trapped in the whirlwind must succeed on Constitution checks each round as if they had run out of breath for as long as they remain within the whirlwind. An affected creature can’t speak, use breath weapons, cast spells with verbal components, or do anything else that requires breathing. A trapped creature must succeed at a concentration check to cast spells. The mythic creature can maintain this vacuum as a move action. If it stops, the trapped creatures can breathe again.
 
 ### Creeping Paralysis (Su, +4 AP)
 
-**Prerequisites:** mythic power, paralysis;**Benefit:** See paralysis for details on the base ability. An opponent that strikes the creature with a natural weapon, unarmed strike, or non-reach manufactured weapon, or otherwise touches the mythic creature must save or be affected by the creature’s paralysis ability. This triggers only once per round per creature.
+**Prerequisites:** mythic power, paralysis; **Benefit:** See paralysis for details on the base ability. An opponent that strikes the creature with a natural weapon, unarmed strike, or non-reach manufactured weapon, or otherwise touches the mythic creature must save or be affected by the creature’s paralysis ability. This triggers only once per round per creature.
 
 ### Disorienting Pounce (Ex, +4 AP)
 
-**Prerequisites:** mythic power, pounce;**Benefit:** See pounce for details on the base ability. An opponent that the creature hits when using its pounce ability is automatically staggered for 1 round. The cost of this enhancement is reduced to +2 AP if it requires the creature to expend one use of mythic power when using pounce.
+**Prerequisites:** mythic power, pounce; **Benefit:** See pounce for details on the base ability. An opponent that the creature hits when using its pounce ability is automatically staggered for 1 round. The cost of this enhancement is reduced to +2 AP if it requires the creature to expend one use of mythic power when using pounce.
 
 ### Drag Along (Ex, +2 AP)
 
-**Prerequisites:** grab, mythic power;**Benefit:** See grab for details on the base ability. If the mythic creature grapples a target and does not possess the grappled condition itself, it can move itself and its target at full speed without making additional grapple checks.
+**Prerequisites:** grab, mythic power; **Benefit:** See grab for details on the base ability. If the mythic creature grapples a target and does not possess the grappled condition itself, it can move itself and its target at full speed without making additional grapple checks.
 
 ### Elemental Bleed (Ex, +0 AP)
 
-**Prerequisites:** bleed, mythic power;**Benefit:** See bleed for details on the base ability. The creature’s bleed ability deals elemental energy damage (acid, cold, electricity, or fire). If a bleeding creature is dealt 5 or more hit points of damage by the opposite elemental energy damage (cold/fire or acid/electricity), it automatically ends the bleeding.
+**Prerequisites:** bleed, mythic power; **Benefit:** See bleed for details on the base ability. The creature’s bleed ability deals elemental energy damage (acid, cold, electricity, or fire). If a bleeding creature is dealt 5 or more hit points of damage by the opposite elemental energy damage (cold/fire or acid/electricity), it automatically ends the bleeding.
 
 ### Elemental Bond (Ex, +4 AP)
 
-**Prerequisites:** elemental mastery, mythic power;**Benefit:** See elemental mastery for details on the base ability. As a standard action, if the creature is in contact with its chosen element it can expend one use of mythic power to rejuvenate itself, gaining the benefits of cure critical wounds and restoration.
+**Prerequisites:** elemental mastery, mythic power; **Benefit:** See elemental mastery for details on the base ability. As a standard action, if the creature is in contact with its chosen element it can expend one use of mythic power to rejuvenate itself, gaining the benefits of cure critical wounds and restoration.
 
 ### Elevated Ejection (Ex, +2 AP)
 
-**Prerequisites:** mythic power, whirlwind;**Benefit:** See whirlwind for details on the base ability. When the creature in whirlwind form ejects a trapped opponent, it can do so from any point up to the whirlwind’s current height, dropping the opponent into the whirlwind’s space or within the mythic creature’s normal reach. The opponent takes falling damage as normal. For an additional +3 AP, if the mythic creature expends one use of mythic power, it can instead throw a trapped creature as if using the uncanny grapple path ability with no grapple check needed.
+**Prerequisites:** mythic power, whirlwind; **Benefit:** See whirlwind for details on the base ability. When the creature in whirlwind form ejects a trapped opponent, it can do so from any point up to the whirlwind’s current height, dropping the opponent into the whirlwind’s space or within the mythic creature’s normal reach. The opponent takes falling damage as normal. For an additional +3 AP, if the mythic creature expends one use of mythic power, it can instead throw a trapped creature as if using the uncanny grapple path ability with no grapple check needed.
 
 ### Enhanced Spellcasting (Su, +4 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** See spellcasting for details on the base ability. The creature gains the ability to treat its 1st-level spells like cantrips or orisons. If the mythic creature is a spontaneous caster, its 1st-level spells known don’t consume spell slots and can be used again. If the mythic creature prepares spells, its 1st-level spell slots aren’t expended when cast and can be used again. Using metamagic feats or other abilities that alter the spell slot of a spell aren’t affected by this ability (for example, a quickened magic missile uses a 5th-level spell slot and is expended when cast).
+**Prerequisites:** mythic power, spellcasting; **Benefit:** See spellcasting for details on the base ability. The creature gains the ability to treat its 1st-level spells like cantrips or orisons. If the mythic creature is a spontaneous caster, its 1st-level spells known don’t consume spell slots and can be used again. If the mythic creature prepares spells, its 1st-level spell slots aren’t expended when cast and can be used again. Using metamagic feats or other abilities that alter the spell slot of a spell aren’t affected by this ability (for example, a quickened magic missile uses a 5th-level spell slot and is expended when cast).
 
 ### Entrapping Vines (Ex, +2 AP)
 
-**Prerequisites:** mythic power, spores;**Benefit:** See spores for details on the base ability. When using the spores ability, the creature can expend one use of mythic power as a swift action to cause affected creatures to become entrapped by the growing vines. The creature can attempt to break free with a Strength or Escape Artist check as a move action. The DC is equal to 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier). The vines are hardness 5 and have 10 hit points.
+**Prerequisites:** mythic power, spores; **Benefit:** See spores for details on the base ability. When using the spores ability, the creature can expend one use of mythic power as a swift action to cause affected creatures to become entrapped by the growing vines. The creature can attempt to break free with a Strength or Escape Artist check as a move action. The DC is equal to 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier). The vines are hardness 5 and have 10 hit points.
 
 ### Eye Gouge (Ex, +2 AP)
 
-**Prerequisites:** grab or rend, mythic power;**Benefit:** See the grab or rend abilities for details on the base abilities (this enhancement can apply to either). If the mythic creature rends or pins an opponent, as a swift action it can attempt a dirty trick maneuver to blind the target. If its combat maneuver check exceeds the DC by 10 or more, the opponent is permanently blinded.
+**Prerequisites:** grab or rend, mythic power; **Benefit:** See the grab or rend abilities for details on the base abilities (this enhancement can apply to either). If the mythic creature rends or pins an opponent, as a swift action it can attempt a dirty trick maneuver to blind the target. If its combat maneuver check exceeds the DC by 10 or more, the opponent is permanently blinded.
 
 ### Formidable Spells (Su, +4 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** See spellcasting for details on the base ability. Any opponent attempting a dispel check against a spell cast by the mythic creature rolls twice and uses the lower result. Anytime the mythic creature attempts a dispel check, it rolls twice and uses the higher result.
+**Prerequisites:** mythic power, spellcasting; **Benefit:** See spellcasting for details on the base ability. Any opponent attempting a dispel check against a spell cast by the mythic creature rolls twice and uses the lower result. Anytime the mythic creature attempts a dispel check, it rolls twice and uses the higher result.
 
 ### Infuse Weapon (Ex, +2 AP)
 
-**Prerequisites:** mythic power, talisman;**Benefit:** See talisman for details on the base ability. The creature can expend a use of mythic power as a standard action to add a weapon enhancement (or combination of enhancements) to its talisman with a total equivalent bonus equal to or less than half its mythic rank (minimum +1). The effect lasts for a number of rounds equal to half the creature’s mythic rank (minimum 1 round). For an additional +2 AP, the effect lasts for a number of rounds equal to the creature’s mythic rank.
+**Prerequisites:** mythic power, talisman; **Benefit:** See talisman for details on the base ability. The creature can expend a use of mythic power as a standard action to add a weapon enhancement (or combination of enhancements) to its talisman with a total equivalent bonus equal to or less than half its mythic rank (minimum +1). The effect lasts for a number of rounds equal to half the creature’s mythic rank (minimum 1 round). For an additional +2 AP, the effect lasts for a number of rounds equal to the creature’s mythic rank.
 
 ### Infuse Weapon, Greater (Ex, +2 AP)
 
-**Prerequisites:** infuse weapon, mythic power, talisman;**Benefit:** See talisman for details on the base ability. The creature can expend two uses of mythic power as an immediate action to add a weapon enhancement (or combination of enhancements) with a total equivalent bonus equal to or less than half its mythic rank (minimum +1) to all manufactured weapon it wields. For an additional +2 AP, the effect lasts for a number of rounds equal to the creature’s mythic rank.
+**Prerequisites:** infuse weapon, mythic power, talisman; **Benefit:** See talisman for details on the base ability. The creature can expend two uses of mythic power as an immediate action to add a weapon enhancement (or combination of enhancements) with a total equivalent bonus equal to or less than half its mythic rank (minimum +1) to all manufactured weapon it wields. For an additional +2 AP, the effect lasts for a number of rounds equal to the creature’s mythic rank.
 
 ### Innate Magic (varies)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** See spellcasting for details on the base ability. A creature with this ability can expend mythic power to cast any single spell from the spell list selected for the spellcaster ability using the creature’s caster level. The spell does not need to be known or prepared to be cast in this manner, but the creature cannot cast the mythic version of the spell in combination with this ability. If the creature is casting a spell with a spell level equal to the highest level spell it can cast, or one spell level lower than the highest level spell it can cast, it must expend two uses of mythic power. Any lower level spell only requires the creature to expend one use of mythic power. This enhancement doubles the cost of the spellcaster ability.
+**Prerequisites:** mythic power, spellcasting; **Benefit:** See spellcasting for details on the base ability. A creature with this ability can expend mythic power to cast any single spell from the spell list selected for the spellcaster ability using the creature’s caster level. The spell does not need to be known or prepared to be cast in this manner, but the creature cannot cast the mythic version of the spell in combination with this ability. If the creature is casting a spell with a spell level equal to the highest level spell it can cast, or one spell level lower than the highest level spell it can cast, it must expend two uses of mythic power. Any lower level spell only requires the creature to expend one use of mythic power. This enhancement doubles the cost of the spellcaster ability.
 
 ### Invulnerable (Ex or Su, +2 AP)
 
-**Prerequisites:** mythic power, vulnerability;**Benefit:** See vulnerability for details on the base weakness. The creature can expend one use of mythic power to ignore its vulnerability weakness for 1 round. This version of the vulnerability weakness only provides +2 bonus AP.
+**Prerequisites:** mythic power, vulnerability; **Benefit:** See vulnerability for details on the base weakness. The creature can expend one use of mythic power to ignore its vulnerability weakness for 1 round. This version of the vulnerability weakness only provides +2 bonus AP.
 
-**Format:** ice burrowing;**Location:** Speed.
+**Format:** ice burrowing; **Location:** Speed.
 
 ### Life Drain (Su, +2 AP)
 
-**Prerequisites:** inspiration, mythic power;**Benefit:** See inspiration for details on the base ability. The mythic creature immediately knows when a creature benefits from its inspiration ability. As a standard action, at any range, it can expend one use of mythic power to drain 1 point of Constitution from that creature. The mythic creature heals 5 hit points or gains 5 temporary hit points for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points) each time this ability is used.
+**Prerequisites:** inspiration, mythic power; **Benefit:** See inspiration for details on the base ability. The mythic creature immediately knows when a creature benefits from its inspiration ability. As a standard action, at any range, it can expend one use of mythic power to drain 1 point of Constitution from that creature. The mythic creature heals 5 hit points or gains 5 temporary hit points for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points) each time this ability is used.
 
 ### Lingering Breath (Su, +2 AP)
 
-**Prerequisites:** breath weapon, mythic power;**Benefit:** See breath weapon for details on the base ability. The creature can expend one use of mythic power as a free action when it uses its breath weapon to make the area radiate energy damage (of the same type as the breath weapon) for 1 round. Any creature in, entering, or passing through the breath weapon’s area during this duration takes the breath weapon damage.
+**Prerequisites:** breath weapon, mythic power; **Benefit:** See breath weapon for details on the base ability. The creature can expend one use of mythic power as a free action when it uses its breath weapon to make the area radiate energy damage (of the same type as the breath weapon) for 1 round. Any creature in, entering, or passing through the breath weapon’s area during this duration takes the breath weapon damage.
 
 This ability has no effect on breath weapons that do not deal energy damage. For an additional +2 AP, the area radiates energy damage equivalent to the breath weapon for 1 round per mythic rank.
 
-**Format:** lingering breath (2d6 fire, 5 rounds);**Location:** Special Attacks.
+**Format:** lingering breath (2d6 fire, 5 rounds); **Location:** Special Attacks.
 
 ### Manic Dance of Ruin (Su, +2 AP)
 
-**Prerequisites:** dance of ruin, mythic power;**Benefit:** See dance of ruin ability for details on the base ability. The creature can expend one use of mythic power to use the dance of ruin ability as a full-round action.
+**Prerequisites:** dance of ruin, mythic power; **Benefit:** See dance of ruin ability for details on the base ability. The creature can expend one use of mythic power to use the dance of ruin ability as a full-round action.
 
 ### Monarch (Su, +1 AP)
 
-**Prerequisites:** class ability (bardic performance), mythic power;**Benefit:** See class ability for details on the base ability. The creature selects a specific creature type, such as worgs or owlbears. When using the inspire courage or inspire competence bardic performance abilities, this creature type gains double the normal bonuses. For an additional +1 AP, the creature can instead select any creature subtype. For an additional +3 AP, the creature can instead select any creature type. This ability may be selected multiple times, each time applying to a new category of creature.
+**Prerequisites:** class ability (bardic performance), mythic power; **Benefit:** See class ability for details on the base ability. The creature selects a specific creature type, such as worgs or owlbears. When using the inspire courage or inspire competence bardic performance abilities, this creature type gains double the normal bonuses. For an additional +1 AP, the creature can instead select any creature subtype. For an additional +3 AP, the creature can instead select any creature type. This ability may be selected multiple times, each time applying to a new category of creature.
 
 ### Morphic Body (Ex, +2 AP)
 
-**Prerequisites:** change shape, mythic power;**Benefit:** See change shape for details on the base ability. The mythic creature can assume the appearance of any creature within one size category of itself (other than creatures with the elemental, incorporeal, or swarm subtypes—the body assumed must be solid). The mythic creature’s type doesn’t change in this new form, and it gains none of the mimicked creature’s special abilities; the transformation is cosmetic only. In these other forms, the creature retains all of its normal statistics and abilities as noted above, though it does take the appropriate bonuses and penalties based on its new size. Though this ability affects only the creature’s outward appearance, it is a transmutation effect. For an additional +2 AP, the mythic creature can become any size.
+**Prerequisites:** change shape, mythic power; **Benefit:** See change shape for details on the base ability. The mythic creature can assume the appearance of any creature within one size category of itself (other than creatures with the elemental, incorporeal, or swarm subtypes—the body assumed must be solid). The mythic creature’s type doesn’t change in this new form, and it gains none of the mimicked creature’s special abilities; the transformation is cosmetic only. In these other forms, the creature retains all of its normal statistics and abilities as noted above, though it does take the appropriate bonuses and penalties based on its new size. Though this ability affects only the creature’s outward appearance, it is a transmutation effect. For an additional +2 AP, the mythic creature can become any size.
 
 ### Mucus Mist (Ex, +2 AP)
 
-**Prerequisites:** mucus cloud, mythic power;**Benefit:** See mucus cloud for details on the base ability. When exposed to the air, the creature can release its mucus as a fine mist. This obscures vision like the obscuring mist spell and has the same properties as its mucus cloud. Creatures that breathe water are able to breathe normally while within the cloud. The mist moves with the creature.
+**Prerequisites:** mucus cloud, mythic power; **Benefit:** See mucus cloud for details on the base ability. When exposed to the air, the creature can release its mucus as a fine mist. This obscures vision like the obscuring mist spell and has the same properties as its mucus cloud. Creatures that breathe water are able to breathe normally while within the cloud. The mist moves with the creature.
 
 ### Mythic Spawn (Su, +4 AP)
 
-**Prerequisites:** create spawn, mythic power;**Benefit:** See create spawn for details on the base ability. When creating spawn, the mythic creature can expend two uses of mythic power to create a mythic version of the spawn.
+**Prerequisites:** create spawn, mythic power; **Benefit:** See create spawn for details on the base ability. When creating spawn, the mythic creature can expend two uses of mythic power to create a mythic version of the spawn.
 
 ### Mythic Spell-Like Ability (Sp, +3 AP)
 
-**Prerequisites:** mythic power, spell-like ability;**Benefit:** See spell-like ability for details on the base ability. When the creature uses the spell-like ability, it can expend a use of mythic power to cast the equivalent mythic version of the spell (see Pathfinder Roleplaying Game: Mythic Adventures for details). This enhancement must be purchased separately for each spell-like ability that can be cast as a mythic spell. The creature can cast the augmented version of the mythic spell, but have a mythic rank equal to the minimum mythic tier and expend additional uses of mythic power as indicated in the individual mythic spell entry.
+**Prerequisites:** mythic power, spell-like ability; **Benefit:** See spell-like ability for details on the base ability. When the creature uses the spell-like ability, it can expend a use of mythic power to cast the equivalent mythic version of the spell (see Pathfinder Roleplaying Game: Mythic Adventures for details). This enhancement must be purchased separately for each spell-like ability that can be cast as a mythic spell. The creature can cast the augmented version of the mythic spell, but have a mythic rank equal to the minimum mythic tier and expend additional uses of mythic power as indicated in the individual mythic spell entry.
 
 ### Penetrating Poison (Ex, +2 AP)
 
-**Prerequisites:** mythic power, poison;**Benefit:** See poison for details on the base ability. The mythic creature can expend one use of mythic power when poisoning a creature to overcome any poison immunity the target has.
+**Prerequisites:** mythic power, poison; **Benefit:** See poison for details on the base ability. The mythic creature can expend one use of mythic power when poisoning a creature to overcome any poison immunity the target has.
 
 ### Petrification Aura (Su, +4 AP)
 
@@ -5871,7 +5871,7 @@ This ability has no effect on breath weapons that do not deal energy damage. For
 
 ### Poisoned Weapons (Ex, +1 AP)
 
-**Prerequisites:** mythic power, poison use;**Benefit:** See poison use for details on the base ability. The creature can apply poison to a manufactured weapon it is wielding as a swift action.
+**Prerequisites:** mythic power, poison use; **Benefit:** See poison use for details on the base ability. The creature can apply poison to a manufactured weapon it is wielding as a swift action.
 
 ### Poisonous Blood (Ex, +2 AP)
 
@@ -5880,58 +5880,58 @@ way.) The poison uses the poison’s normal DC.
 
 ### Powerful Flight (Ex, +2 AP)
 
-**Prerequisites:** flight, mythic power;**Benefit:** See flight for details on the base ability. The creature can expend one use of mythic power to withdraw as a move action (instead of a full-round action), moving up to its speed instead of double. It can even move straight up. If it’s grappling an opponent, the mythic creature can bring the grappled creature with it. For example, the creature can grab a target, withdraw, and drop the opponent all in the same round.
+**Prerequisites:** flight, mythic power; **Benefit:** See flight for details on the base ability. The creature can expend one use of mythic power to withdraw as a move action (instead of a full-round action), moving up to its speed instead of double. It can even move straight up. If it’s grappling an opponent, the mythic creature can bring the grappled creature with it. For example, the creature can grab a target, withdraw, and drop the opponent all in the same round.
 
 ### Primal Vigor (Ex, +4 AP)
 
-**Prerequisites:** mythic power, regeneration;**Benefit:** See regeneration for details on the base ability. If the creature takes damage during a round, its regeneration increases by an amount equal to its base regeneration at the start of its next turn, to a maximum of five times its base regeneration. If the creature is at full hit points at the start of its turn, its regeneration decreases by an amount equal to its base regeneration, to a minimum of its base regeneration. For an additional +2 AP, damaging the creature with a method that suppresses its regeneration on partially reduces its healing. On its turn following this damage, the mythic creature regenerates only half the normal number of hit points and can die normally on that round.
+**Prerequisites:** mythic power, regeneration; **Benefit:** See regeneration for details on the base ability. If the creature takes damage during a round, its regeneration increases by an amount equal to its base regeneration at the start of its next turn, to a maximum of five times its base regeneration. If the creature is at full hit points at the start of its turn, its regeneration decreases by an amount equal to its base regeneration, to a minimum of its base regeneration. For an additional +2 AP, damaging the creature with a method that suppresses its regeneration on partially reduces its healing. On its turn following this damage, the mythic creature regenerates only half the normal number of hit points and can die normally on that round.
 
 ### Shriek, Greater (Su, +4 AP)
 
-**Prerequisites:** mythic power, shriek;**Benefit:** See shriek for details on the base ability. Once per hour when using the shriek ability, the creature can expend one use of mythic power to cause any creature failing its save to become staggered for 1d6 rounds after the stun effect ends. For an additional +2 AP, this ability is usable whenever the creature performs a shriek.
+**Prerequisites:** mythic power, shriek; **Benefit:** See shriek for details on the base ability. Once per hour when using the shriek ability, the creature can expend one use of mythic power to cause any creature failing its save to become staggered for 1d6 rounds after the stun effect ends. For an additional +2 AP, this ability is usable whenever the creature performs a shriek.
 
 ### Simple Spellcasting (varies)
 
-**Prerequisites:** mythic power;**Benefit:** See spellcasting for details on the base ability. The mythic creature can take the spellcasting ability without having the spellcasting focus. However, the ability is far more limited that a true spellcaster creature focus.
+**Prerequisites:** mythic power; **Benefit:** See spellcasting for details on the base ability. The mythic creature can take the spellcasting ability without having the spellcasting focus. However, the ability is far more limited that a true spellcaster creature focus.
 
 The creature selects either the cleric, druid, or sorcerer/wizard spell list, and may spend a number of APs on this version of the spellcasting ability up to its final CR. It gains a number of spell levels in spells from the selected list equal to twice the APs spent. No spell for this ability should have a level higher than 1 + 1/2 the creature’s CR. A 0-level spell counts as 1/2 spell level toward this total. The creature can cast each of these spells (as a spellcaster) once per day. Its caster level is equal to its Hit Dice. If the spells are selected from the cleric or druid spell lists, the creature uses its Wisdom or Charisma (whichever is higher) to determine its spell DCs. If the spells are selected from the sorcerer/wizard spell lists, the creature uses its Intelligence or Charisma (whichever is higher) to determine its spell DCs.
 
 ### Skewer (Ex, +4 AP)
 
-**Prerequisites:** mythic power, spikes;**Benefit:** See spikes for details on the base ability. If the creature confirms a critical hit with a spike, the spike pins the target to the ground or a nearby surface. If the target is using winged flight, the spike snares its wings. The target is considered grappled by the mythic creature (though the mythic creature is not considered to be grappling) and must escape the grapple to move from its square. A flying creature must escape on its turn or plummet to the ground. For an additional +2 AP, as a swift action, the mythic creature can expend one use of mythic power to skewer all targets hit by its spikes that turn, even if the attacks weren’t critical hits.
+**Prerequisites:** mythic power, spikes; **Benefit:** See spikes for details on the base ability. If the creature confirms a critical hit with a spike, the spike pins the target to the ground or a nearby surface. If the target is using winged flight, the spike snares its wings. The target is considered grappled by the mythic creature (though the mythic creature is not considered to be grappling) and must escape the grapple to move from its square. A flying creature must escape on its turn or plummet to the ground. For an additional +2 AP, as a swift action, the mythic creature can expend one use of mythic power to skewer all targets hit by its spikes that turn, even if the attacks weren’t critical hits.
 
 ### Skill Blessing (Su, +2 AP)
 
-**Prerequisites:** inspiration, mythic power;**Benefit:** See inspiration for details on the base ability. The mythic creature may grant tokens and inspiration to a number of creatures equal to its mythic rank.
+**Prerequisites:** inspiration, mythic power; **Benefit:** See inspiration for details on the base ability. The mythic creature may grant tokens and inspiration to a number of creatures equal to its mythic rank.
 
 ### Slime Armor (Ex, +2 AP)
 
-**Prerequisites:** mythic power, slime;**Benefit:** See slime for details on the base ability. The creature can spend 1 minute to create an armorlike carapace from hardened slime. This gives it a +4 armor bonus. The creature can dissolve the armor as a full-round action. If the creature has a swim speed, it loses its swim speed while this ability is active. If it does not possess a land speed greater than its swim speed, it gains a land speed equal to its swim speed. For an additional +2 AP, the creature can also expend one use of mythic power to activate this ability as a fullround action or dissolve the armor as a swift action.
+**Prerequisites:** mythic power, slime; **Benefit:** See slime for details on the base ability. The creature can spend 1 minute to create an armorlike carapace from hardened slime. This gives it a +4 armor bonus. The creature can dissolve the armor as a full-round action. If the creature has a swim speed, it loses its swim speed while this ability is active. If it does not possess a land speed greater than its swim speed, it gains a land speed equal to its swim speed. For an additional +2 AP, the creature can also expend one use of mythic power to activate this ability as a fullround action or dissolve the armor as a swift action.
 
 ### Spell Turning (Su, +2 AP)
 
-**Prerequisites:** mythic power, spell resistance;**Benefit:** See spell resistance for details on the base ability. Select one subschool of magic (charm, death, polymorph, etc.). When a spell with the selected subschool targeting the creature fails to penetrate the creature’s spell resistance, it can expend one use of mythic power as an immediate action to turn that effect upon its source, as if using the spell turning spell. For an additional +2 AP, the creature can select a school of magic (enchantment, necromancy, transmutation, etc.).
+**Prerequisites:** mythic power, spell resistance; **Benefit:** See spell resistance for details on the base ability. Select one subschool of magic (charm, death, polymorph, etc.). When a spell with the selected subschool targeting the creature fails to penetrate the creature’s spell resistance, it can expend one use of mythic power as an immediate action to turn that effect upon its source, as if using the spell turning spell. For an additional +2 AP, the creature can select a school of magic (enchantment, necromancy, transmutation, etc.).
 
 ### Thundering Trample (Ex, +2 AP)
 
-**Prerequisites:** mythic power, trample;**Benefit:** See trample for details on the base ability. The mythic creature can expend one use of its mythic power when using its trample attack to make a single combat maneuver check and apply the result as a bull rush maneuver against the CMD of each creature that fails to save against its trample. These combat maneuvers do not provoke attacks of opportunity.
+**Prerequisites:** mythic power, trample; **Benefit:** See trample for details on the base ability. The mythic creature can expend one use of its mythic power when using its trample attack to make a single combat maneuver check and apply the result as a bull rush maneuver against the CMD of each creature that fails to save against its trample. These combat maneuvers do not provoke attacks of opportunity.
 
 ### Torment (Su, +2 AP)
 
-**Prerequisites:** mythic power, poison;**Benefit:** See poison for details on the base ability. The mythic creature’s poison torments its victims with wracking pain. A victim of the creature’s poison also takes a –2 penalty on attack rolls, skill checks, and ability checks. The effects of torment last until the poison is cured. This is a pain effect. For an additional +2 AP, the penalty is increased to –4.
+**Prerequisites:** mythic power, poison; **Benefit:** See poison for details on the base ability. The mythic creature’s poison torments its victims with wracking pain. A victim of the creature’s poison also takes a –2 penalty on attack rolls, skill checks, and ability checks. The effects of torment last until the poison is cured. This is a pain effect. For an additional +2 AP, the penalty is increased to –4.
 
 ### Unpetrify (Su, +4 AP)
 
-**Prerequisites:** any ability to petrify (as the flesh to stone spell), mythic power;**Benefit:** The creature can expend one use of mythic power to return a petrified creature to life (as if using the stone to flesh spell) for 1 minute. The creature is under the mythic creature’s control (as if using dominate monster) and reverts to a statue at the end of this time. Alternately, the mythic creature can expend one use of mythic power to return the creature to flesh permanently, though the mythic creature retains no control over the individual. For an additional +2 AP, the mythic creature can expend three uses of mythic power for the creature to remain unpetrified and dominated for 24 hours instead of 1 minute.
+**Prerequisites:** any ability to petrify (as the flesh to stone spell), mythic power; **Benefit:** The creature can expend one use of mythic power to return a petrified creature to life (as if using the stone to flesh spell) for 1 minute. The creature is under the mythic creature’s control (as if using dominate monster) and reverts to a statue at the end of this time. Alternately, the mythic creature can expend one use of mythic power to return the creature to flesh permanently, though the mythic creature retains no control over the individual. For an additional +2 AP, the mythic creature can expend three uses of mythic power for the creature to remain unpetrified and dominated for 24 hours instead of 1 minute.
 
 ### Variable Resistance (Ex, +2 AP)
 
-**Prerequisites:** mythic power, resistance (acid, cold, electricity, or fire);**Benefit:** See resistance for details on the base ability. The creature can perform a ritual for 1 minute once per day that alters its resistance to a different energy type (either acid, cold, electricity, or fire). For an additional +4 AP, the mythic creature can expend one use of mythic power to alter their resistance as an immediate action.
+**Prerequisites:** mythic power, resistance (acid, cold, electricity, or fire); **Benefit:** See resistance for details on the base ability. The creature can perform a ritual for 1 minute once per day that alters its resistance to a different energy type (either acid, cold, electricity, or fire). For an additional +4 AP, the mythic creature can expend one use of mythic power to alter their resistance as an immediate action.
 
 ### Versatile Hatred (Ex, +4 AP)
 
-**Prerequisites:** hatred, mythic power;**Benefit:** See hatred for details on the base ability. The creature can expend one use of mythic power to change the creature type or subtype it gains bonuses against with the hatred ability for 1 hour.
+**Prerequisites:** hatred, mythic power; **Benefit:** See hatred for details on the base ability. The creature can expend one use of mythic power to change the creature type or subtype it gains bonuses against with the hatred ability for 1 hour.
 
 ### Vorpal Attack (Su, +12 AP)
 
-**Prerequisites:** mythic power, natural attack;**Benefit:** See natural attacks for details on the base ability. When the creature confirms a critical hit against a non-mythic opponent with the specific natural attack, it can expend one use of mythic power as a free action to remove the opponent’s head, instantly killing creatures that require a head to survive. The opponent may negate this effect with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier).
+**Prerequisites:** mythic power, natural attack; **Benefit:** See natural attacks for details on the base ability. When the creature confirms a critical hit against a non-mythic opponent with the specific natural attack, it can expend one use of mythic power as a free action to remove the opponent’s head, instantly killing creatures that require a head to survive. The opponent may negate this effect with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier).

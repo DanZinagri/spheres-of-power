@@ -10,25 +10,25 @@ Wyrgrove treants, like other treants are shepherds of the forest, but with their
 **Treant, Wyrgrove (CR 10)**
 XP 9,600
 NG Huge plant
-**Init**-1;**Senses**low-light vision;**Perception** +20
+**Init** -1; **Senses** low-light vision; **Perception** +20
 
 **Defense**
-**AC**24,**touch**10,**flat-footed** 24 (+3 deflection, -1 Dex, +14 natural, -2 size)
+**AC** 24, **touch** 10, **flat-footed** 24 (+3 deflection, -1 Dex, +14 natural, -2 size)
 **hp** 142 (15d8+75)
-**Fort**+14,**Ref**+4,**Will** +10
-**Defensive Abilities**plant traits;**DR** 10/slashing
+**Fort** +14, **Ref** +4, **Will** +10
+**Defensive Abilities** plant traits; **DR** 10/slashing
 **Weaknesses** vulnerability to fire
 
 **Offense**
 **Speed** 30 ft.
 **Melee** 2 slams +19 (2d6+9/19-20)
 **Ranged** rock +8 (2d6+13)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** rock throwing (180 ft.), trample (2d6+13, DC 26)
 
 **Magic**
-**Caster Level**7;**MSB**+15,**MSD**26,**Concentration** +18
-**Tradition**Natural;**CAM** Wis
+**Caster Level** 7; **MSB** +15, **MSD** 26, **Concentration** +18
+**Tradition** Natural; **CAM** Wis
 **Spell Points** 18
 
 **Nature Sphere:** Deep Nature; (geomancing) Create Nature (Grow Plants), Elevated Nature, Plant (Entangle, Harvest, Pummel); (spirit) Nature’s Carapace (Barkskin), Nature Sight (Plantsight), Rejuvenation
@@ -40,10 +40,10 @@ NG Huge plant
 • Rejuvenation (heal 3 hit points per round up to 1/2 maximum, concentration, 7 min with 1 sp)
 
 **Statistics**
-**Str**29,**Dex**8,**Con**21,**Int**12,**Wis**16,**Cha** 13
-**Base Atk**+11;**CMB**+22;**CMD** 31
+**Str** 29, **Dex** 8, **Con** 21, **Int** 12, **Wis** 16, **Cha** 13
+**Base Atk** +11; **CMB** +22; **CMD** 31
 **Feats** Alertness, Intimidating Prowess, Improved Critical (slam), Improved Sunder, Iron Will, Power Attack, Skill Focus (Perception), Weapon Focus (slam)
-**Skills**Diplomacy +10, Intimidate +20, Knowledge (nature) +10, Perception +20, Sense Motive +12, Stealth -5 (+12 in forests);**Racial Modifiers** +17 Stealth in forests
+**Skills** Diplomacy +10, Intimidate +20, Knowledge (nature) +10, Perception +20, Sense Motive +12, Stealth -5 (+12 in forests); **Racial Modifiers** +17 Stealth in forests
 **Languages** Common, Sylvan, Treant
 **SQ** double damage against objects, spheres and talents, treespeak, tree warden
 

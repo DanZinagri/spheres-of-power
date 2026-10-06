@@ -97,7 +97,7 @@ At 6th level, the archwizard gains information 2 rounds earlier.
 
 A 4th-level archwizard holds on to some of the arcane energy in a cast spell. Once per day for every two archwizard levels, the archwizard can treat a spell as if it were cast with the Echoing Spell metamagic, with no increase in casting time or spell point cost.
 
-**Echoing Spell:** When you cast an echoing spell, its energy does not disappear entirely, and you can cast it one additional time during that day without spending any spell points. No other effect that allows you to reprepare or recast a spell can affect the echoed spell.**Spell Point Cost:** +3
+**Echoing Spell:** When you cast an echoing spell, its energy does not disappear entirely, and you can cast it one additional time during that day without spending any spell points. No other effect that allows you to reprepare or recast a spell can affect the echoed spell. **Spell Point Cost:** +3
 
 ## Sphere-Like Ability (Sp)
 

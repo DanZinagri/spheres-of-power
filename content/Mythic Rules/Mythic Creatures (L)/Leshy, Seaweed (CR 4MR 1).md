@@ -10,13 +10,13 @@ parent: "[[Mythic Creatures (L)]]"
 **Mythic Leshy, Seaweed (CR 4/MR 1)**
 XP 1,200
 N Small plant (aquatic, leshy, mythic, shapechanger)
-**Init**+1;**Senses** low-light vision; Perception +7
+**Init** +1; **Senses** low-light vision; Perception +7
 
 #### Defense
 
-**AC**16,**touch**12,**flat-footed** 15 (+1 armor, +1 Dex, +3 natural, +1 size)
+**AC** 16, **touch** 12, **flat-footed** 15 (+1 armor, +1 Dex, +3 natural, +1 size)
 **hp** 38 (4d8+20)
-**Fort**+6,**Ref**+2,**Will** +3
+**Fort** +6, **Ref** +2, **Will** +3
 **Immune** electricity, sonic, plant traits
 
 #### Offense
@@ -32,8 +32,8 @@ Constant—pass without trace
 
 #### Statistics
 
-**Str**10,**Dex**13,**Con**14,**Int**9,**Wis**15,**Cha** 12
-**Base Atk**+3;**CMB**+2;**CMD** 13
+**Str** 10, **Dex** 13, **Con** 14, **Int** 9, **Wis** 15, **Cha** 12
+**Base Atk** +3; **CMB** +2; **CMD** 13
 **Feats** Ability Focus (water jet), ToughnessMF
 **Skills** Perception +7, Stealth +9 (+13 in water), Survival +3 (+7 in water), Swim +8; Racial Modifiers +4 Stealth in water, +4 Survival in water
 **Languages** Druidic, Sylvan, plantspeech (seaweed) SQ air cyst, amphibious, change shape (Small seaweed; tree shape), seaweed striderMA, verdant burst
@@ -66,8 +66,8 @@ Constant—pass without trace
 
 A mythic seaweed leshy can be grown in seawater, knitted together from strands of kelp and sea grass treated with algae and bone ash every day. A mythic seaweed leshy quickly constructs its armor from driftwood, shells, and stones without need for a skill check, taking one day of labor. Only a mythic creature can create a mythic seaweed leshy, expending one use of mythic power per day spent on the ritual.
 
-**CL**10th;**Price** 6,750 gp
+**CL** 10th; **Price** 6,750 gp
 
 #### Ritual
 
-**Requirements**1st mythic tier, Knowledge (nature) 5 ranks, plant growth, summon nature’s ally III, water breathing;**Skill**Knowledge (nature) DC 16;**Cost** 3,375 gp
+**Requirements** 1st mythic tier, Knowledge (nature) 5 ranks, plant growth, summon nature’s ally III, water breathing; **Skill** Knowledge (nature) DC 16; **Cost** 3,375 gp

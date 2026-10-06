@@ -8,33 +8,33 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Casting
+## Casting
 
 At 1st level, the geosurveyor may combine spheres and talents to create magical effects. The geosurveyor is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces both the favored enemy and spells class features.
 
-### Spell Pool
+## Spell Pool
 
 The geosurveyor gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his class level + his casting ability modifier. This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A geosurveyor gains a magic talent at 2nd level and every 2 levels thereafter.
 
-### Geomancer
+## Geomancer
 
 A geosurveyor gains the Nature sphere as a bonus sphere at first level.
 
 This replaces the wild empathy class feature.
 
-### Favored Package (Su)
+## Favored Package (Su)
 
 At 3rd level, a geosurveyor chooses one of the packages from the Nature sphere and gains a +2 bonus to his caster level with that package. At 9th level, this bonus improves by an additional +2, and he may choose another package to gain a +2 bonus with. At 15th level, all previously chosen packages increase his caster level by another +2, and the geosurveyor may choose a third package to gain a +2 bonus. These bonuses stack with other class features with the same name.
 
 This replaces the hunter’s bond class feature.
 
-### Master of All Lands (Su)
+## Master of All Lands (Su)
 
 20th level, the geosurveyor becomes familiar with and comfortable in all possible terrains. His terrain bonus in all favored terrains increases by +2, and he treats all other terrains as if they were favored terrains (+2 bonus). If a naturally occurring condition of temperature or weather requires a check or saving throw, he automatically succeeds. All allies within 60 feet of him gain a +2 bonus on these checks and saves.
 

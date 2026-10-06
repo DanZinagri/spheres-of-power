@@ -11,37 +11,37 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Directional Control
+#### Directional Control
 
 Choose either directly towards you or directly away from you. When you affect targets with telekinesis, you can only move them in the selected direction. You cannot affect yourself and you cannot perform actions such as lifting targets or creating sustained forces unless the movement is entirely in the selected direction. You must choose Acceleration as the talent gained from this drawback.
 
 **Incompatible:** Flight, Gravity, Orbit
 
-## Flight
+#### Flight
 
 You can only use telekinesis to lift creatures. You must select the Flight talent with the bonus talent gained from this drawback, and cannot use telekinesis unless it also uses that talent.
 
 **Incompatible:** Directional Control, Gravity, Limited Telekinesis, Orbit
 
-## Gravity
+#### Gravity
 
 You have power over gravity. You can only gain Telekinesis talents that affect gravity such as Gravity Shift, Gravity Ward, or Gravity Well, and must choose one such talent as the bonus talent gained from this drawback. You cannot use telekinesis except through one of those talents.
 
 **Incompatible:** Directional Control, Limited Telekinesis, Flight, Orbit
 
-## Limited Telekinesis
+#### Limited Telekinesis
 
 You may only use your telekinesis on one type of material (water, metal, stone, etc.) chosen when you gain this drawback. If you are an armorist, you may select weapons or equipment you have made with your bound equipment and summon equipment class features as your ‘material type’. If you possess the Blood sphere and have selected ‘blood’ as your material, you may use your telekinesis abilities on creatures under the effects of your blood control.
 
 **Incompatible:** Flight, Gravity
 
-## Orbit
+#### Orbit
 
 You must choose Orbit as the bonus talent gained from this drawback. You may only use telekinesis to place objects in, remove them from, or use objects contained within your orbit.
 
 **Incompatible:** Directional Control, Flight, Gravity, Passive Telekinesis
 
-## Passive Telekinesis
+#### Passive Telekinesis
 
 You possess the ability to maneuver your telekinesis in delicate ways, but find direct force difficult. You cannot use your telekinesis to perform a Bludgeon attack. You must select Telekinetic Tools as the bonus talent gained from this drawback.
 

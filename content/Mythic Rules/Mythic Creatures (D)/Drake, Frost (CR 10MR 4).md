@@ -13,27 +13,27 @@ This two-legged dragon has dull blue scales tinged with bright blue ice. A freez
 XP 9,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Huge dragon (cold, mythic)
-**Init**+4;**Senses** darkvision 60 ft., low-light vision, snow vision; Perception +10
+**Init** +4; **Senses** darkvision 60 ft., low-light vision, snow vision; Perception +10
 
 #### Defense
 
-**AC**25,**touch**8,**flat-footed** 25 (+17 natural, –2 size)
+**AC** 25, **touch** 8, **flat-footed** 25 (+17 natural, –2 size)
 **hp** 140 (8d12+88)
-**Fort**+12,**Ref**+6,**Will** +5
-**Defensive Abilities**DR 5/epic;**Immune** cold, dragon traits, paralysis and sleep
+**Fort** +12, **Ref** +6, **Will** +5
+**Defensive Abilities** DR 5/epic; **Immune** cold, dragon traits, paralysis and sleep
 **Weaknesses** vulnerable to fire
 
 #### Offense
 
 **Speed** 20 ft., burrow 20 ft., fly 60 ft. (average); icewalking
 **Melee** bite +16 (2d6+10), tail slap +11 (2d6+5)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** blizzard breathMA, freezing mist breath, hypothermic mistMA, icy prisonMA, lingering breathMA (2d8 cold, 4 rounds), mythic power (4/day, surge 1d8)
 
 #### Statistics
 
-**Str**30,**Dex**11,**Con**22,**Int**8,**Wis**9,**Cha** 13
-**Base Atk**+8;**CMB**+20;**CMD** 30
+**Str** 30, **Dex** 11, **Con** 22, **Int** 8, **Wis** 9, **Cha** 13
+**Base Atk** +8; **CMB** +20; **CMD** 30
 **Feats** Flyby Attack, Improved Initiative, Power AttackMF, Vital StrikeMF
 **Skills** Climb +21, Fly +7, Intimidate +12, Perception +10, Stealth +3
 **Languages** Draconic

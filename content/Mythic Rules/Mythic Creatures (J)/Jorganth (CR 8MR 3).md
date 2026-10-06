@@ -12,21 +12,21 @@ This hulking serpentine eel is a mass of feelers, tentacles, segmented coils, an
 **Jorganth (CR 8/MR 3)**
 XP 4,800
 CE Large aberration (aquatic, mythic)
-**Init**+6;**Senses** darkvision 60 ft., keen scent, tremorsense 60 ft.; Perception +14
+**Init** +6; **Senses** darkvision 60 ft., keen scent, tremorsense 60 ft.; Perception +14
 **Aura** frightful presence (60 ft., DC 15)
 
 #### Defense
 
-**AC**24,**touch**12,**flat-footed** 21 (+2 Dex, +1 dodge, +12 natural, –1 size)
+**AC** 24, **touch** 12, **flat-footed** 21 (+2 Dex, +1 dodge, +12 natural, –1 size)
 **hp** 100 (9d8+60)
-**Fort**+7,**Ref**+5,**Will** +8
-**Defensive Abilities**DR 5/epic;**Immune**electricity, pressure damage from deep water;**Resist** cold 10
+**Fort** +7, **Ref** +5, **Will** +8
+**Defensive Abilities** DR 5/epic; **Immune** electricity, pressure damage from deep water; **Resist** cold 10
 
 #### Offense
 
 **Speed** 10 ft., swim 60 ft.
 **Melee** bite +11 (2d6+6/x3 plus 1d6 electricity), 2 tentacle +11 (1d6+6 plus 1d6 electricity and grab), tail slap +6 (1d8+3 plus 1d6 electricity)
-**Space**10 ft.;**Reach** 5 ft. (10 ft. with tentacles)
+**Space** 10 ft.; **Reach** 5 ft. (10 ft. with tentacles)
 **Special Attacks** electric fieldMA, electric shock, hyper beamMA, mythic power (3/day, surge 1d6), rake (2 claws +6 (1d6+3 plus 1d6 electricity)), reflexive lashMA, will-o’-the-deep
 
 **Spell-Like Abilities** (CL 9th; concentration +10)
@@ -34,8 +34,8 @@ At will—dancing lights
 
 #### Statistics
 
-**Str**22,**Dex**15,**Con**19,**Int**11,**Wis**14,**Cha** 13
-**Base Atk**+6;**CMB**+13 (+17 grapple);**CMD** 26 (can’t be tripped)
+**Str** 22, **Dex** 15, **Con** 19, **Int** 11, **Wis** 14, **Cha** 13
+**Base Atk** +6; **CMB** +13 (+17 grapple); **CMD** 26 (can’t be tripped)
 **Feats** Blind-FightMF, Dodge, Improved Initiative, Power AttackMF, Wind Stance
 **Skills** Acrobatics +10, Knowledge (dungeoneering) +5, Perception +14, Stealth +10, Survival +10, Swim +20
 **Languages** Aklo, Aquan

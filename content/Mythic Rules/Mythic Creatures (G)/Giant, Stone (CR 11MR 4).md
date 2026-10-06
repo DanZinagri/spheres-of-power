@@ -13,13 +13,13 @@ This giant has chiseled, muscular features and a flat, forward-sloping head, loo
 XP 12,800
 Pathfinder Roleplaying Game Bestiary
 N Large humanoid (giant, mythic)
-**Init**+2;**Senses** darkvision 60 ft., low-light vision; Perception +12
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; Perception +12
 
 #### Defense
 
-**AC**26,**touch**11,**flat-footed** 24 (+2 Dex, +15 natural, –1 size)
+**AC** 26, **touch** 11, **flat-footed** 24 (+2 Dex, +15 natural, –1 size)
 **hp** 134 (12d8+80)
-**Fort**+12,**Ref**+6,**Will** +7
+**Fort** +12, **Ref** +6, **Will** +7
 **Defensive Abilities** fortification (50%)MA, improved rock catching, rock rootMA; DR 10/epic
 
 #### Offense
@@ -27,7 +27,7 @@ N Large humanoid (giant, mythic)
 **Speed** 40 ft.
 **Melee** greatclub +18/+13 (2d8+15) or 2 slams +18 (1d8+10)
 **Ranged** rock +11/+6 (1d8+15)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** mythic power (4/day, surge +1d8), rock throwing (180 ft.), unstoppable shotMA
 
 **Spell-Like Abilities** (CL 10th)
@@ -35,10 +35,10 @@ N Large humanoid (giant, mythic)
 
 #### Statistics
 
-**Str**31,**Dex**15,**Con**19,**Int**10,**Wis**12,**Cha** 15
-**Base Atk**+9;**CMB**+20;**CMD** 32
+**Str** 31, **Dex** 15, **Con** 19, **Int** 10, **Wis** 12, **Cha** 15
+**Base Atk** +9; **CMB** +20; **CMD** 32
 **Feats** Iron WillMF, Martial Weapon Proficiency (greatclub), Point-Blank Shot, Power AttackMF, Precise Shot, Quick Draw
-**Skills**Climb +14, Intimidate +14, Perception +12, Stealth +4 (+12 in rocky terrain);**Racial Modifiers** +8 Stealth in rocky terrain
+**Skills** Climb +14, Intimidate +14, Perception +12, Stealth +4 (+12 in rocky terrain); **Racial Modifiers** +8 Stealth in rocky terrain
 **Languages** Common, Giant
 **SQ** earth bondMA, stone titanMA
 

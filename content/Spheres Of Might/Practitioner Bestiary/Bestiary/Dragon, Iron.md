@@ -8,10 +8,10 @@ parent: "[[Practitioner Bestiary]]"
 N dragon
 
 **Base Statistics**
-**CR**5;**Size**Small;**Hit Dice** 6d12
+**CR** 5; **Size** Small; **Hit Dice** 6d12
 **Speed** 40 ft.
-**Natural Armor**+5;**Breath Weapon** cone, 2d10 fire
-**Str**14,**Dex**14,**Con**14,**Int**10,**Wis**11,**Cha** 10
+**Natural Armor** +5; **Breath Weapon** cone, 2d10 fire
+**Str** 14, **Dex** 14, **Con** 14, **Int** 10, **Wis** 11, **Cha** 10
 
 **Special Abilities**
 **Bestial Training** A very young iron dragon gains Unarmed Training from the Equipment sphere
@@ -64,12 +64,12 @@ While iron dragons are intelligent and cunning and loathe to enter a fight they 
 
 XP 1,600
 N Small Dragon
-**Init**+2;**Senses**dragon senses;**Perception** +9
+**Init** +2; **Senses** dragon senses; **Perception** +9
 
 **Defense**
-**AC**18,**touch**13,**flat-footed** 16 (+2 Dex, +5 natural, +1 size)
+**AC** 18, **touch** 13, **flat-footed** 16 (+2 Dex, +5 natural, +1 size)
 **hp** 41 (6d12+12)
-**Fort**+7,**Ref**+7,**Will** +5
+**Fort** +7, **Ref** +7, **Will** +5
 **Immune** paralysis, sleep
 
 **Offense**
@@ -78,10 +78,10 @@ N Small Dragon
 **Special Attacks** breath weapon (20-ft. cone, DC 15, 2d10 fire), brutal strike (+12), shove +9 touch (2)
 
 **Statistics**
-**Str**14,**Dex**14,**Con**14,**Int**10,**Wis**11,**Cha** 10
-**Base Atk**+6;**CMB**+6;**CMD** 18 (22 vs. trip)
+**Str** 14, **Dex** 14, **Con** 14, **Int** 10, **Wis** 11, **Cha** 10
+**Base Atk** +6; **CMB** +6; **CMD** 18 (22 vs. trip)
 **Feats** Flyby Attack, Hover
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 13
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 13
 **Talents** Berserker, Brute
 **Skills** Bluff +9, Fly +13, Intimidate +9, Knowledge (local) +9, Perception +9, Stealth +15
 **Languages** Draconic
@@ -92,12 +92,12 @@ N Small Dragon
 
 XP 3,200
 N Medium Dragon
-**Init**+1;**Senses**dragon senses;**Perception** +11
+**Init** +1; **Senses** dragon senses; **Perception** +11
 
 **Defense**
-**AC**19,**touch**11,**flat-footed** 18 (+1 Dex, +8 natural)
+**AC** 19, **touch** 11, **flat-footed** 18 (+1 Dex, +8 natural)
 **hp** 66 (8d12+24)
-**Fort**+9,**Ref**+7,**Will** +7
+**Fort** +9, **Ref** +7, **Will** +7
 **Immune** paralysis, sleep
 
 **Offense**
@@ -106,10 +106,10 @@ N Medium Dragon
 **Special Attacks** breath weapon (30-ft. cone, DC 17, 4d10 fire), brutal strike (+16), shove +12 touch (4)
 
 **Statistics**
-**Str**18,**Dex**12,**Con**16,**Int**12,**Wis**13,**Cha** 12
-**Base Atk**+8;**CMB**+10;**CMD** 21 (25 vs. trip)
+**Str** 18, **Dex** 12, **Con** 16, **Int** 12, **Wis** 13, **Cha** 12
+**Base Atk** +8; **CMB** +10; **CMD** 21 (25 vs. trip)
 **Feats** Flyby Attack, Hover, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 15
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 15
 **Talents** Berserker, Brute, Equipment (Unarmed Training)
 **Skills** Bluff +11, Fly +13, Intimidate +11, Knowledge (history) +11, Knowledge (local) +11, Perception +11, Stealth +13
 **Languages** Common, Draconic
@@ -120,25 +120,25 @@ N Medium Dragon
 
 XP 6,400
 N Large Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 
 **Defense**
-**AC**21,**touch**10,**flat-footed** 20 (+1 Dex, +11 natural, -1 size)
+**AC** 21, **touch** 10, **flat-footed** 20 (+1 Dex, +11 natural, -1 size)
 **hp** 105 (10d12+40)
-**Fort**+11,**Ref**+10,**Will** +8
+**Fort** +11, **Ref** +10, **Will** +8
 **Immune** paralysis, sleep
 
 **Offense**
 **Speed** 40 ft., fly 200 ft. (poor)
 **Melee** bite +15 (2d6+9), 2 claws +15 (1d8+6), gore +15 (1d8+6), 2 wings +10 (1d6+3), tail slap +10 (1d8+3)
-**Space**10 ft.;**Reach** 5 ft. (10 ft. with bite)
+**Space** 10 ft.; **Reach** 5 ft. (10 ft. with bite)
 **Special Attacks** breath weapon (40-ft. cone, DC 19, 6d10 fire), brutal strike (+20), shove +15 touch (6)
 
 **Statistics**
-**Str**22,**Dex**12,**Con**18,**Int**12,**Wis**13,**Cha** 12
-**Base Atk**+10;**CMB**+17;**CMD** 28 (32 vs. trip)
+**Str** 22, **Dex** 12, **Con** 18, **Int** 12, **Wis** 13, **Cha** 12
+**Base Atk** +10; **CMB** +17; **CMD** 28 (32 vs. trip)
 **Feats** Flyby Attack, Hover, Lightning Reflexes, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 16
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 16
 **Talents** Berserker (Deathless, Rending Claws), Brute (Wing Buffet), Equipment (Unarmed Training)
 **Skills** Bluff +13, Fly +8, Intimidate +13, Knowledge (history) +13, Knowledge (local) +13, Perception +13, Stealth +11
 **Languages** Common, Draconic
@@ -149,26 +149,26 @@ N Large Dragon
 
 XP 9,600
 N Large Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (120 ft., DC 18)
 
 **Defense**
-**AC**26,**touch**12,**flat-footed** 25 (+1 Dex, +14 natural, +2 shield, -1 size)
+**AC** 26, **touch** 12, **flat-footed** 25 (+1 Dex, +14 natural, +2 shield, -1 size)
 **hp** 138 (12d12+60)
-**Fort**+13,**Ref**+11,**Will** +10
-**Defensive Abilities**active defense (+5), evasion;**Immune** paralysis, sleep
+**Fort** +13, **Ref** +11, **Will** +10
+**Defensive Abilities** active defense (+5), evasion; **Immune** paralysis, sleep
 
 **Offense**
 **Speed** 40 ft., fly 200 ft. (poor)
 **Melee** bite +18 (2d6+10), 2 claws +18 (1d8+7), gore +18 (1d8+7), 2 wings +13 (1d6+3), tail slap +13 (1d8+3)
-**Space**10 ft.;**Reach** 5 ft. (10 ft. with bite)
+**Space** 10 ft.; **Reach** 5 ft. (10 ft. with bite)
 **Special Attacks** breath weapon (40-ft. cone, DC 21, 8d10 fire), brutal strike (+24), shove +18 touch (7)
 
 **Statistics**
-**Str**24,**Dex**12,**Con**20,**Int**14,**Wis**15,**Cha** 14
-**Base Atk**+12;**CMB**+20;**CMD** 31 (35 vs. trip)
+**Str** 24, **Dex** 12, **Con** 20, **Int** 14, **Wis** 15, **Cha** 14
+**Base Atk** +12; **CMB** +20; **CMD** 31 (35 vs. trip)
 **Feats** Flyby Attack, Hover, Lightning Reflexes, Muscular Reflexes, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 18
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 18
 **Talents** Berserker (Deathless, Rending Claws), Brute (Wing Buffet), Equipment (Unarmed Training), Shield (Protective Tail)
 **Skills** Bluff +16, Fly +10, Intimidate +16, Knowledge (history) +16, Knowledge (local) +16, Perception +16, Stealth +13, Swim +22
 **Languages** Common, Draconic, Elvish
@@ -179,26 +179,26 @@ N Large Dragon
 
 XP 19,200
 N Huge Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (150 ft., DC 19)
 
 **Defense**
-**AC**27,**touch**10,**flat-footed** 27 (+17 natural, +2 shield, -2 size)
+**AC** 27, **touch** 10, **flat-footed** 27 (+17 natural, +2 shield, -2 size)
 **hp** 161 (14d12+70)
-**Fort**+14,**Ref**+11,**Will** +11
-**Defensive Abilities**active defense +5, evasion;**DR**5/magic;**Immune**paralysis, sleep;**SR** 23
+**Fort** +14, **Ref** +11, **Will** +11
+**Defensive Abilities** active defense +5, evasion; **DR** 5/magic; **Immune** paralysis, sleep; **SR** 23
 
 **Offense**
 **Speed** 40 ft., fly 200 ft. (poor)
 **Melee** bite +20 (2d8+12), 2 claws +20 (2d6+8), gore +20 (2d6+8), 2 wings +15 (1d8+4), tail slap +15 (2d6+4)
-**Space**15 ft.;**Reach** 10 ft. (15 ft. with bite)
+**Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
 **Special Attacks** breath weapon (50-ft. cone, DC 22, 10d10 fire), brutal strike (+28), crush (Small creatures, DC 22, 2d8+12), shove +20 touch (8)
 
 **Statistics**
-**Str**26,**Dex**10,**Con**20,**Int**14,**Wis**15,**Cha** 14
-**Base Atk**+14;**CMB**+24;**CMD** 34 (38 vs. trip)
+**Str** 26, **Dex** 10, **Con** 20, **Int** 14, **Wis** 15, **Cha** 14
+**Base Atk** +14; **CMB** +24; **CMD** 34 (38 vs. trip)
 **Feats** Flyby Attack, Hover, Improved Vital Strike, Lightning Reflexes, Muscular Reflexes, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 19
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 19
 **Talents** Berserker (Deathless, Rending Claws), Brute (Wing Buffet), Equipment (Unarmed Training), Shield (Deflecting Shield, Flexible Cover, Protective Tail)
 **Skills** Bluff +18, Fly +9, Intimidate +18, Knowledge (history) +18, Knowledge (local) +18, Perception +18, Stealth +14, Swim +25
 **Languages** Common, Draconic, Elvish
@@ -209,26 +209,26 @@ N Huge Dragon
 
 XP 25,600
 N Huge Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (180 ft., DC 21)
 
 **Defense**
-**AC**30,**touch**10,**flat-footed** 30 (+20 natural, +2 shield, -2 size)
+**AC** 30, **touch** 10, **flat-footed** 30 (+20 natural, +2 shield, -2 size)
 **hp** 200 (16d12+96)
-**Fort**+16,**Ref**+12,**Will** +13
-**Defensive Abilities**active defense (+6), evasion;**DR**5/magic;**Immune**paralysis, sleep;**SR** 24
+**Fort** +16, **Ref** +12, **Will** +13
+**Defensive Abilities** active defense (+6), evasion; **DR** 5/magic; **Immune** paralysis, sleep; **SR** 24
 
 **Offense**
 **Speed** 40 ft., fly 200 ft. (average)
 **Melee** bite +23 (2d8+13), 2 claws +23 (2d6+9), gore +23 (2d6+9), 2 wings +18 (1d8+4), tail slap +18 (2d6+4)
-**Space**15 ft.;**Reach** 10 ft. (15 ft. with bite)
+**Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
 **Special Attacks** breath weapon (50-ft. cone, DC 24, 12d10 fire), brutal strike (+32), crush (Small creatures, DC 24, 2d8+13), shove +23 touch (9)
 
 **Statistics**
-**Str**28,**Dex**10,**Con**22,**Int**16,**Wis**17,**Cha** 16
-**Base Atk**+16;**CMB**+27;**CMD** 37 (41 vs. trip)
+**Str** 28, **Dex** 10, **Con** 22, **Int** 16, **Wis** 17, **Cha** 16
+**Base Atk** +16; **CMB** +27; **CMD** 37 (41 vs. trip)
 **Feats** Flyby Attack, Hover, Improved Vital Strike, Lightning Reflexes, Muscular Reflexes, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 21
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 21
 **Talents** Berserker (Deathless, Rending Claws), Brute (Stampede, Unstoppable, Wing Buffet), Equipment (Unarmed Training), Shield (Deflecting Shield, Flexible Cover, Protective Tail)
 **Skills** Bluff +21, Fly +15, Intimidate +21, Knowledge (history) +21, Knowledge (local) +21, Perception +21, Stealth +16, Survival +21, Swim +28
 **Languages** Common, Draconic, Dwarven, Elvish
@@ -239,26 +239,26 @@ N Huge Dragon
 
 XP 38,400
 N Huge Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (210 ft., DC 22)
 
 **Defense**
-**AC**33,**touch**10,**flat-footed** 33 (+23 natural, +2 shield, -2 size)
+**AC** 33, **touch** 10, **flat-footed** 33 (+23 natural, +2 shield, -2 size)
 **hp** 225 (18d12+108)
-**Fort**+17,**Ref**+13,**Will** +14
-**Defensive Abilities**active defense (+6), evasion;**DR**10/magic;**Immune**paralysis, sleep;**SR** 25
+**Fort** +17, **Ref** +13, **Will** +14
+**Defensive Abilities** active defense (+6), evasion; **DR** 10/magic; **Immune** paralysis, sleep; **SR** 25
 
 **Offense**
 **Speed** 40 ft., fly 200 ft. (average)
 **Melee** bite +26 (2d8+15), 2 claws +26 (2d6+10), gore +26 (2d6+10), 2 wings +24 (1d8+5), tail slap +24 (2d6+5)
-**Space**15 ft.;**Reach** 10 ft. (15 ft. with bite)
+**Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
 **Special Attacks** breath weapon (50-ft. cone, DC 25, 14d10 fire), brutal strike (+36), crush (Small creatures, DC 25, 2d8+15), shove +26 (10)
 
 **Statistics**
-**Str**30,**Dex**10,**Con**22,**Int**16,**Wis**17,**Cha** 16
-**Base Atk**+18;**CMB**+30;**CMD** 40 (44 vs. trip)
+**Str** 30, **Dex** 10, **Con** 22, **Int** 16, **Wis** 17, **Cha** 16
+**Base Atk** +18; **CMB** +30; **CMD** 40 (44 vs. trip)
 **Feats** Flyby Attack, Greater Vital Strike, Hover, Improved Vital Strike, Lightning Reflexes, Muscular Reflexes, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 22
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 22
 **Talents** Berserker (Deathless, Rending Claws), Brute (Focused Might, Follow-Through, Stampede, Unstoppable, Wing Buffet), Equipment (Unarmed Training), Shield (Deflecting Shield, Flexible Cover, Protective Tail)
 **Skills** Bluff +23, Fly +17, Intimidate +23, Knowledge (history) +23, Knowledge (local) +23, Perception +23, Stealth +18, Survival +23, Swim +31
 **Languages** Common, Draconic, Dwarven, Elvish
@@ -269,26 +269,26 @@ N Huge Dragon
 
 XP 76,800
 N Gargantuan Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (240 ft., DC 24)
 
 **Defense**
-**AC**33,**touch**7,**flat-footed** 33 (-1 Dex, +26 natural, +2 shield, -4 size)
+**AC** 33, **touch** 7, **flat-footed** 33 (-1 Dex, +26 natural, +2 shield, -4 size)
 **hp** 270 (20d12+140)
-**Fort**+19,**Ref**+13,**Will** +16
-**Defensive Abilities**active defense (+7), improved evasion;**DR**10/magic;**Immune**paralysis, sleep;**SR** 27
+**Fort** +19, **Ref** +13, **Will** +16
+**Defensive Abilities** active defense (+7), improved evasion; **DR** 10/magic; **Immune** paralysis, sleep; **SR** 27
 
 **Offense**
 **Speed** 40 ft., fly 250 ft. (poor)
 **Melee** bite +27 (4d6+16), 2 claws +27 (2d8+11), gore +27 (2d8+11), 2 wings +23 (2d6+5), tail slap +23 (2d8+5)
-**Space**20 ft.;**Reach** 15 ft. (20 ft. with bite)
+**Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)
 **Special Attacks** breath weapon (60-ft. cone, DC 27, 16d10 fire), brutal strike (+40), crush (Medium creatures, DC 27, 4d6+16), earthquake stomp (15-ft. radius), shove +27 (11), tail sweep (Small creatures, DC 27, 2d6+16)
 
 **Statistics**
-**Str**32,**Dex**8,**Con**24,**Int**18,**Wis**19,**Cha** 18
-**Base Atk**+20;**CMB**+35;**CMD** 44 (48 vs. trip)
+**Str** 32, **Dex** 8, **Con** 24, **Int** 18, **Wis** 19, **Cha** 18
+**Base Atk** +20; **CMB** +35; **CMD** 44 (48 vs. trip)
 **Feats** Extra Combat Talent, Flyby Attack, Greater Vital Strike, Hover, Improved Vital Strike, Lightning Reflexes, Muscular Reflexes, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 24
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 24
 **Talents** Berserker (Bone-Breaker, Deathless, Rending Claws, Shieldbreaker), Brute (Earthquake Stomp, Focused Might, Follow-Through, Stampede, Unstoppable, Wing Buffet), Equipment (Unarmed Training), Shield (Deflecting Shield, Flexible Cover, Protective Tail)
 **Skills** Bluff +26, Fly +12, Intimidate +26, Knowledge (history) +26, Knowledge (local) +26, Perception +26, Stealth +15, Survival +26, Swim +34, Use Magic Device +26
 **Languages** Common, Draconic, Dwarven, Elvish, Undercommon
@@ -299,26 +299,26 @@ N Gargantuan Dragon
 
 XP 102,400
 N Gargantuan Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (270 ft., DC 25)
 
 **Defense**
-**AC**36,**touch**7,**flat-footed** 36 (-1 Dex, +29 natural, +2 shield, -4 size)
+**AC** 36, **touch** 7, **flat-footed** 36 (-1 Dex, +29 natural, +2 shield, -4 size)
 **hp** 297 (22d12+154)
-**Fort**+20,**Ref**+14,**Will** +17
-**Defensive Abilities**active defense (+7), improved evasion;**DR**15/magic;**Immune**paralysis, sleep;**SR** 28
+**Fort** +20, **Ref** +14, **Will** +17
+**Defensive Abilities** active defense (+7), improved evasion; **DR** 15/magic; **Immune** paralysis, sleep; **SR** 28
 
 **Offense**
 **Speed** 40 ft., fly 250 ft. (poor)
 **Melee** bite +30 (4d6+18), 2 claws +30 (2d8+12), gore +30 (2d8+12), 2 wings +25 (2d6+6), tail slap +25 (2d8+6)
-**Space**20 ft.;**Reach** 15 ft. (20 ft. with bite)
+**Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)
 **Special Attacks** breath weapon (60-ft. cone, DC 28, 18d10 fire), brutal strike (+44), crush (Medium creatures, DC 28, 4d6+18), earthquake stomp (15-ft. radius), shove +30 touch (12), tail sweep (Small creatures, DC 28, 2d6+18)
 
 **Statistics**
-**Str**34,**Dex**8,**Con**24,**Int**18,**Wis**19,**Cha** 18
-**Base Atk**+22;**CMB**+38;**CMD** 47 (51 vs. trip)
+**Str** 34, **Dex** 8, **Con** 24, **Int** 18, **Wis** 19, **Cha** 18
+**Base Atk** +22; **CMB** +38; **CMD** 47 (51 vs. trip)
 **Feats** Extra Combat Talent x2, Flyby Attack, Greater Vital Strike, Hover, Improved Vital Strike, Lightning Reflexes, Muscular Reflexes, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 25
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 25
 **Talents** Berserker (Beat Down, Bone-Breaker, Deathless, Leg-Smasher, Rending Claws, Shieldbreaker), Brute (Earthquake Stomp, Focused Might, Follow-Through, Stampede, Unstoppable, Wing Buffet), Equipment (Unarmed Training), Shield (Deflecting Shield, Flexible Cover, Protective Tail, Redirecting Shield)
 **Skills** Bluff +28, Fly +14, Intimidate +28, Knowledge (history) +28, Knowledge (local) +28, Perception +28, Stealth +17, Survival +28, Swim +37, Use Magic Device +28
 **Languages** Common, Draconic, Dwarven, Elvish, Undercommon
@@ -329,26 +329,26 @@ N Gargantuan Dragon
 
 XP 153,600
 N Gargantuan Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (300 ft., DC 27)
 
 **Defense**
-**AC**39,**touch**7,**flat-footed** 39 (-1 Dex, +32 natural, +2 shield, -4 size)
+**AC** 39, **touch** 7, **flat-footed** 39 (-1 Dex, +32 natural, +2 shield, -4 size)
 **hp** 348 (24d12+192)
-**Fort**+22,**Ref**+15,**Will** +19
-**Defensive Abilities**active defense (+8), improved evasion;**DR**15/magic;**Immune**paralysis, sleep;**SR** 29
+**Fort** +22, **Ref** +15, **Will** +19
+**Defensive Abilities** active defense (+8), improved evasion; **DR** 15/magic; **Immune** paralysis, sleep; **SR** 29
 
 **Offense**
 **Speed** 40 ft., fly 250 ft. (average)
 **Melee** bite +33 (4d6+19), 2 claws +33 (2d8+13), gore +33 (2d8+13), 2 wings +28 (2d6+6), tail slap +28 (2d8+6)
-**Space**20 ft.;**Reach** 15 ft. (20 ft. with bite)
+**Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)
 **Special Attacks** breath weapon (60-ft. cone, DC 30, 20d10 fire), brutal strike (+48), crush (Medium creatures, DC 30, 4d6+19), earthquake stomp (15-ft. radius), shove +33 touch (25), tail sweep (Small creatures, DC 30, 2d6+19), sweep +31
 
 **Statistics**
-**Str**36,**Dex**8,**Con**26,**Int**20,**Wis**21,**Cha** 20
-**Base Atk**+24;**CMB**+41;**CMD** 50 (54 vs. trip)
+**Str** 36, **Dex** 8, **Con** 26, **Int** 20, **Wis** 21, **Cha** 20
+**Base Atk** +24; **CMB** +41; **CMD** 50 (54 vs. trip)
 **Feats** Extra Combat Talent x2, Flyby Attack, Greater Vital Strike, Hover, Improved Vital Strike, Lightning Reflexes, Muscular Reflexes, Power Attack, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 27
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 27
 **Talents** Berserker (Beat Down, Bone-Breaker, Deathless, Leg-Smasher, Rending Claws, Shieldbreaker), Brute (Earthquake Stomp, Focused Might, Follow-Through, Greater Shove, Stampede, Unstoppable, Wing Buffet), Equipment (Unarmed Training), Open Hand, Shield (Deflecting Shield, Flexible Cover, Protective Tail, Redirecting Shield)
 **Skills** Bluff +31, Fly +20, Intimidate +31, Knowledge (history) +31, Knowledge (local) +31, Perception +31, Stealth +20, Sense Motive +31, Survival +31, Swim +41, Use Magic Device +31
 **Languages** Common, Draconic, Dwarven, Elvish, Giant, Undercommon
@@ -359,26 +359,26 @@ N Gargantuan Dragon
 
 XP 204,800
 N Gargantuan Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (330 ft., DC 28)
 
 **Defense**
-**AC**41,**touch**6,**flat-footed** 41 (-2 Dex, +35 natural, +2 shield, -4 size)
+**AC** 41, **touch** 6, **flat-footed** 41 (-2 Dex, +35 natural, +2 shield, -4 size)
 **hp** 377(26d12+208)
-**Fort**+23,**Ref**+15,**Will** +20
-**Defensive Abilities**active defense (+8), improved evasion;**DR**20/magic;**Immune**paralysis, sleep;**SR** 30
+**Fort** +23, **Ref** +15, **Will** +20
+**Defensive Abilities** active defense (+8), improved evasion; **DR** 20/magic; **Immune** paralysis, sleep; **SR** 30
 
 **Offense**
 **Speed** 40 ft., fly 250 ft. (average)
 **Melee** bite +36 (4d6+21), 2 claws +36 (2d8+14), gore +36 (2d8+14), 2 wings +31 (2d6+7), tail slap +31 (2d8+7)
-**Space**20 ft.;**Reach** 15 ft. (20 ft. with bite)
+**Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)
 **Special Attacks** breath weapon (60-ft. cone, DC 31, 22d10 fire), brutal strike (+52), crush (Medium creatures, DC 31, 4d6+21), earthquake stomp (15-ft. radius), impale, shove +36 touch (27), tail sweep (Small creatures, DC 31, 2d6+21), sweep +34
 
 **Statistics**
-**Str**38,**Dex**6,**Con**26,**Int**20,**Wis**21,**Cha** 20
-**Base Atk**+26;**CMB**+44;**CMD** 52 (56 vs. trip)
+**Str** 38, **Dex** 6, **Con** 26, **Int** 20, **Wis** 21, **Cha** 20
+**Base Atk** +26; **CMB** +44; **CMD** 52 (56 vs. trip)
 **Feats** Extra Combat Talent x2, Flyby Attack, Greater Vital Strike, Hover, Improved Vital Strike, Lightning Reflexes, Muscular Reflexes, Power Attack, Skill Focus (Stealth), Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 28
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 28
 **Talents** Berserker (Beat Down, Bone-Breaker, Deathless, Leg-Smasher, Rending Claws, Shieldbreaker), Brute (Earthquake Stomp, Focused Might, Follow-Through, Greater Shove, Stampede, Unstoppable, Wing Buffet), Equipment (Unarmed Training), Lancer (Gore Toss), Open Hand, Shield (Deflecting Shield, Flexible Cover, Protective Tail, Redirecting Shield)
 **Skills** Bluff +33, Fly +21, Intimidate +33, Knowledge (history) +33, Kowledge (local) +33, Perception +33, Stealth +28, Sense Motive +33, Survival +33, Swim +44, Use Magic Device +33
 **Languages** Common, Draconic, Dwarven, Elvish, Giant, Undercommon
@@ -389,26 +389,26 @@ N Gargantuan Dragon
 
 XP 409,600
 N Colossal Dragon
-**Init**+6;**Senses**dragon senses;**Perception** +9
+**Init** +6; **Senses** dragon senses; **Perception** +9
 **Aura** frightful presence (360 ft., DC 30)
 
 **Defense**
-**AC**41,**touch**3,**flat-footed** 41 (-1 Dex, +38 natural, +2 shield, -8 size)
+**AC** 41, **touch** 3, **flat-footed** 41 (-1 Dex, +38 natural, +2 shield, -8 size)
 **hp** 490 (28d12+280+28 toughness)
-**Fort**+26,**Ref**+17,**Will** +23
-**Defensive Abilities**active defense (+9), improved evasion;**DR**20/magic;**Immune**paralysis, sleep;**SR** 32
+**Fort** +26, **Ref** +17, **Will** +23
+**Defensive Abilities** active defense (+9), improved evasion; **DR** 20/magic; **Immune** paralysis, sleep; **SR** 32
 
 **Offense**
 **Speed** 40 ft., fly 250 ft. (average)
 **Melee** bite +36 (4d8+24), 2 claws +36 (4d6+16), gore +36 (4d6+16), 2 wings +31 (2d8+8), tail slap +31 (4d6+8)
-**Space**30 ft.;**Reach** 20 ft. (30 ft. with bite)
+**Space** 30 ft.; **Reach** 20 ft. (30 ft. with bite)
 **Special Attacks** breath weapon (70-ft. cone, DC 34, 24d10 fire), brutal strike (+56), crush (Large creatures, DC 34, 4d8+24), earthquake stomp (15-ft. radius), impale, shove +36 touch (30), tail sweep (Medium creatures, DC 34, 2d8+24), sweep +34
 
 **Statistics**
-**Str**42,**Dex**8,**Con**30,**Int**24,**Wis**25,**Cha** 24
-**Base Atk**+28;**CMB**+52 (+60 sunder, bull rush, overrun, pull, reposition);**CMD** 61 (65 vs. trip, 69 vs. sunder, bull rush, overrun, pull, reposition)
+**Str** 42, **Dex** 8, **Con** 30, **Int** 24, **Wis** 25, **Cha** 24
+**Base Atk** +28; **CMB** +52 (+60 sunder, bull rush, overrun, pull, reposition); **CMD** 61 (65 vs. trip, 69 vs. sunder, bull rush, overrun, pull, reposition)
 **Feats** Extra Combat Talent x2, Flyby Attack, Greater Vital Strike, Hover, Improved Vital Strike, Lightning Reflexes, Muscular Reflexes, Power Attack, Skill Focus (Stealth), Toughness, Vital Strike
-**Martial Tradition**Dragon,**PAM**Cha,**DC** 31
+**Martial Tradition** Dragon, **PAM** Cha, **DC** 31
 **Talents** Berserker (Beat Down, Bone-Breaker, Deathless,Greater Sunder, Leg-Smasher, Rending Claws, Shieldbreaker), Brute (Earthquake Stomp, Focused Might, Follow-Through, Greater Brute, Greater Shove, Stampede, Unstoppable, Wing Buffet), Equipment (Unarmed Training), Lancer (Gore Toss), Open Hand, Shield (Deflecting Shield, Flexible Cover, Protective Tail, Redirecting Shield)
 **Skills** Bluff +37, Diplomacy +37), Fly +22, Intimidate +37, Knowledge (history) +37, Knowledge (local) +37, Perception +37, Stealth +29, Sense Motive +37, Survival +37, Swim +48, Use Magic Device +37
 **Languages** Common, Cyclops, Draconic, Dwarven, Elvish, Giant, Goblin, Halfling, Undercommon

@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (B)]]"
 XP 1,600
 Pathfinder Roleplaying Game Bestiary (herd animal, bison)
 N Large animal (mythic)
-**Init**+0;**Senses** low-light vision, scent; Perception +8
+**Init** +0; **Senses** low-light vision, scent; Perception +8
 
 #### Defense
 
-**AC**19,**touch**9,**flat-footed** 19 (+10 natural, –1 size)
+**AC** 19, **touch** 9, **flat-footed** 19 (+10 natural, –1 size)
 **hp** 58 (5d8+36)
-**Fort**+8,**Ref**+4,**Will** +1
-**Defensive Abilities**DR 5/epic;**Resist** cold 10
+**Fort** +8, **Ref** +4, **Will** +1
+**Defensive Abilities** DR 5/epic; **Resist** cold 10
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** gore +11 (2d6+13)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (2/day, surge 1d6), spirit stampedeMA, stampede, trample (2d6+13, DC 21)
 
 #### Statistics
 
-**Str**29,**Dex**10,**Con**19,**Int**2,**Wis**11,**Cha** 4
-**Base Atk**+3;**CMB**+13 (+16 bull rush);**CMD** 23 (26 vs. bull rush, 27 vs. trip)
+**Str** 29, **Dex** 10, **Con** 19, **Int** 2, **Wis** 11, **Cha** 4
+**Base Atk** +3; **CMB** +13 (+16 bull rush); **CMD** 23 (26 vs. bull rush, 27 vs. trip)
 **Feats** Endurance, Improved Bull RushMF, Power Attack
 **Skills** Perception +8
 **SQ** rolloverMA, shaggy coatMA

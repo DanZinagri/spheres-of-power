@@ -407,8 +407,8 @@ The following magical items are especially appropriate for soul weavers.
 
 #### Blessing Of The Departed [TS:WAT]
 
-**Aura**moderate Fate;**CL** 8th
-**Slot**none;**Price**15,000 gp;**Weight** 3 lbs.
+**Aura** moderate Fate; **CL** 8th
+**Slot** none; **Price** 15,000 gp; **Weight** 3 lbs.
 
 This holy symbol is traditionally carved from the bones of the creator’s ancestors. While often stylized after a deity’s symbol, it can also be a symbol of personal importance to the user. When a creature within medium range who’s under the effects of the bearer’s blessing class feature attempts a saving throw, the bearer can expend one use of channel energy to consume the blessing and let that creature roll twice on that saving throw and take the higher result. The creature retains the normal effects of the blessing until after the saving throw is resolved. This effect can work on any number of qualifying creatures that need to attempt saving throws against the same attack. For example, if an enemy creature attacks the bearer’s allies with a cone-shaped attack, the bearer would still only need to expend one use of channeled energy to let those allies roll twice and take the higher result. You may decide to use this item after seeing the result of the first saving throw(s).
 
@@ -417,8 +417,8 @@ Craft Marvelous Item, Fate sphere (Bless (word)), creator must have the blessing
 
 #### Blighted Destiny [TS:WAT]
 
-**Aura**moderate Fate;**CL** 8th
-**Slot**none;**Price**15,000 gp;**Weight** 3 lbs.
+**Aura** moderate Fate; **CL** 8th
+**Slot** none; **Price** 15,000 gp; **Weight** 3 lbs.
 
 This cruel-looking symbol pulses slightly, as if anticipating its next use. When the bearer uses the blight class feature, they may expend one additional use of channel energy to force the target to roll twice and take the worse result on their saving throw against the blight. The bearer must decide to use this effect before the target attempts their saving throw.
 
@@ -427,8 +427,8 @@ Craft Marvelous Item, Fate sphere (Curse (word)), creator must have the blight c
 
 #### Soulcage [TS:WAT]
 
-**Aura**moderate Death;**CL** 6th
-**Slot**none;**Price**7,000 gp;**Weight** 1 lb.
+**Aura** moderate Death; **CL** 6th
+**Slot** none; **Price** 7,000 gp; **Weight** 1 lb.
 
 This hand-sized cage is made of a strangely twisted, dark metal that always seems slightly colder than the air around it. A creature with the bound nexus class feature can store one of their souls within a soulcage they are holding. While stored this way, a soul is always visible and can be carried any distance from the soul weaver, who may use that soul to activate an appropriate bound nexus ability on the creature carrying the soulcage.
 
@@ -447,21 +447,21 @@ The following creatures are summonable by the Soul Weaver class, and are include
 
 XP 600
 LE Medium undead (incorporeal)
-**Init**+1;**Senses**darkvision 60 ft.;**Perception** +9
+**Init** +1; **Senses** darkvision 60 ft.; **Perception** +9
 
 **Defense**
-**AC**12,**touch**12,**flat-footed** 11 (+1 deflection, +1 Dex)
+**AC** 12, **touch** 12, **flat-footed** 11 (+1 deflection, +1 Dex)
 **hp** 16 (3d8+3)
-**Fort**+2,**Ref**+2,**Will** +4
-**Defensive Abilities**incorporeal, natural invisibility, rejuvenation;**Immune** undead traits
+**Fort** +2, **Ref** +2, **Will** +4
+**Defensive Abilities** incorporeal, natural invisibility, rejuvenation; **Immune** undead traits
 
 **Offense**
 **Speed** fly 20 ft. (perfect)
 **Special Attacks** frightener, telekinesis
 
 **Statistics**
-**Str**—,**Dex**13,**Con**—,**Int**5,**Wis**12,**Cha** 12
-**Base Atk**+2;**CMB**3;**CMD** 14
+**Str** —, **Dex** 13, **Con** —, **Int** 5, **Wis** 12, **Cha** 12
+**Base Atk** +2; **CMB** 3; **CMD** 14
 **Feats** Ability Focus (fear), Alertness
 **Skills** Fly +9, Perception +9, Sense Motive +3
 **Languages** Common
@@ -480,13 +480,13 @@ LE Medium undead (incorporeal)
 
 XP 800
 CE Medium undead(incorporeal)
-**Init**+2;**Senses**darkvision 60 ft.;**Perception** +8
+**Init** +2; **Senses** darkvision 60 ft.; **Perception** +8
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 12 (+2 deflection, +2 Dex, +1 dodge)
+**AC** 15, **touch** 15, **flat-footed** 12 (+2 deflection, +2 Dex, +1 dodge)
 **hp** 19 (3d8+6)
-**Fort**+3,**Ref**+3,**Will** +4
-**Defensive Abilities**incorporeal, channel resistance +2;**Immune** undead traits
+**Fort** +3, **Ref** +3, **Will** +4
+**Defensive Abilities** incorporeal, channel resistance +2; **Immune** undead traits
 
 **Offense**
 **Speed** fly 40 ft. (good)
@@ -494,10 +494,10 @@ CE Medium undead(incorporeal)
 **Special Attacks** create spawn
 
 **Statistics**
-**Str**—,**Dex**14,**Con**—,**Int**6,**Wis**12,**Cha** 15
-**Base Atk**+2;**CMB**+4;**CMD** 17
+**Str** —, **Dex** 14, **Con** —, **Int** 6, **Wis** 12, **Cha** 15
+**Base Atk** +2; **CMB** +4; **CMD** 17
 **Feats** Dodge, Skill Focus (Perception)
-**Skills**Fly +11, Perception +8, Stealth +8 (+12 in dim light, +4 in bright light);**Racial Modifiers** +4 Stealth in dim light (–4 in bright light)
+**Skills** Fly +11, Perception +8, Stealth +8 (+12 in dim light, +4 in bright light); **Racial Modifiers** +4 Stealth in dim light (–4 in bright light)
 **Languages** Common (unofficial errata)
 
 **Special Abilities**
@@ -509,13 +509,13 @@ CE Medium undead(incorporeal)
 
 XP 4,800
 CE Medium undead (incorporeal)
-**Init**+5;**Senses**darkvision 60 ft.;**Perception** +13
+**Init** +5; **Senses** darkvision 60 ft.; **Perception** +13
 
 **Defense**
-**AC**18,**touch**18,**flat-footed** 12 (+2 deflection, +5 Dex, +1 dodge)
+**AC** 18, **touch** 18, **flat-footed** 12 (+2 deflection, +5 Dex, +1 dodge)
 **hp** 58 (9d8+18)
-**Fort**+5,**Ref**+8,**Will** +7
-**Defensive Abilities**incorporeal, channel resistance +2;**Immune** undead traits
+**Fort** +5, **Ref** +8, **Will** +7
+**Defensive Abilities** incorporeal, channel resistance +2; **Immune** undead traits
 
 **Offense**
 **Speed** fly 40 ft. (good)
@@ -523,10 +523,10 @@ CE Medium undead (incorporeal)
 **Special Attacks** create spawn (as per shadow), strength damage
 
 **Statistics**
-**Str**—,**Dex**20,**Con**—,**Int**6,**Wis**12,**Cha** 15
-**Base Atk**+6;**CMB**+11;**CMD** 24
+**Str** —, **Dex** 20, **Con** —, **Int** 6, **Wis** 12, **Cha** 15
+**Base Atk** +6; **CMB** +11; **CMD** 24
 **Feats** Dodge, Flyby Attack, Mobility, Skill Focus (Perception, Stealth)
-**Skills**Fly +15, Perception +13, Stealth +20 (+24 in dim light, +16 in bright light);**Racial Modifiers** +4 Stealth in dim light (–4 in bright light)
+**Skills** Fly +15, Perception +13, Stealth +20 (+24 in dim light, +16 in bright light); **Racial Modifiers** +4 Stealth in dim light (–4 in bright light)
 **Languages** Common (unofficial errata)
 
 **Special Abilities**
@@ -536,14 +536,14 @@ CE Medium undead (incorporeal)
 
 XP 1,600
 LE Medium undead (incorporeal)
-**Init**+7;**Senses**darkvision 60 ft., lifesense;**Perception** +10
+**Init** +7; **Senses** darkvision 60 ft., lifesense; **Perception** +10
 **Aura** unnatural aura (30 ft.)
 
 **Defense**
-**AC**18,**touch**18,**flat-footed** 15 (+5 deflection, +3 Dex)
+**AC** 18, **touch** 18, **flat-footed** 15 (+5 deflection, +3 Dex)
 **hp** 47 (5d8+25)
-**Fort**+6,**Ref**+4,**Will** +6
-**Defensive Abilities**channel resistance +2, incorporeal;**Immune** undead traits
+**Fort** +6, **Ref** +4, **Will** +6
+**Defensive Abilities** channel resistance +2, incorporeal; **Immune** undead traits
 **Weaknesses** sunlight powerlessness
 
 **Offense**
@@ -552,8 +552,8 @@ LE Medium undead (incorporeal)
 **Special Attacks** create spawn
 
 **Statistics**
-**Str**—,**Dex**16,**Con**—,**Int**14,**Wis**14,**Cha** 21
-**Base Atk**+3;**CMB**+6;**CMD** 21
+**Str** —, **Dex** 16, **Con** —, **Int** 14, **Wis** 14, **Cha** 21
+**Base Atk** +3; **CMB** +6; **CMD** 21
 **Feats** Blind-Fight, Combat Reflexes, Improved Initiative
 **Skills** Diplomacy +10, Fly +7, Intimidate +13, Knowledge (planes) +7, Perception +10, Sense Motive +10, Stealth +11
 **Languages** Common, Infernal
@@ -573,24 +573,24 @@ LE Medium undead (incorporeal)
 
 XP 25,600
 LE Large undead (incorporeal)
-**Init**+13;**Senses**darkvision 60 ft., lifesense 60 ft.;**Perception**+28;**Aura** unnatural aura (30 ft.)
+**Init** +13; **Senses** darkvision 60 ft., lifesense 60 ft.; **Perception** +28; **Aura** unnatural aura (30 ft.)
 
 **Defense**
-**AC**26,**touch**26,**flat-footed** 16 (+7 deflection, +9 Dex, +1 dodge, –1 size)
+**AC** 26, **touch** 26, **flat-footed** 16 (+7 deflection, +9 Dex, +1 dodge, –1 size)
 **hp** 184 (16d8+112)
-**Fort**+12,**Ref**+14,**Will** +15
-**Defensive Abilities**channel resistance +4; incorporeal;**Immune** undead traits
+**Fort** +12, **Ref** +14, **Will** +15
+**Defensive Abilities** channel resistance +4; incorporeal; **Immune** undead traits
 **Weaknesses** sunlight powerlessness
 
 **Offense**
 **Speed** fly 60 ft. (good)
 **Melee** incorporeal touch +20 (3d6 negative energy plus 1d8 Con drain [Fort DC 23])
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** create spawn
 
 **Statistics**
-**Str**—,**Dex**28,**Con**—,**Int**14,**Wis**20,**Cha** 25
-**Base Atk**+12;**CMB**+22;**CMD** 40
+**Str** —, **Dex** 28, **Con** —, **Int** 14, **Wis** 20, **Cha** 25
+**Base Atk** +12; **CMB** +22; **CMD** 40
 **Feats** Alertness, Blind-Fight, Combat Reflexes, Dodge, Improved Initiative, Improved Natural Attack (incorporeal touch), Mobility, Spring Attack
 **Skills** Diplomacy +18, Fly +24, Intimidate +26, Knowledge (planes) +13, Perception +28, Sense Motive +28, Stealth +24
 **Languages** Common, Infernal, Skald
@@ -599,13 +599,13 @@ LE Large undead (incorporeal)
 
 XP 25,600
 CE Medium undead (incorporeal)
-**Init**+15;**Senses**darkvision 60 ft., hear heartbeat;**Perception** +31
+**Init** +15; **Senses** darkvision 60 ft., hear heartbeat; **Perception** +31
 
 **Defense**
-**AC**26,**touch**26,**flat-footed** 14 (+4 deflection, +11 Dex, +1 dodge)
+**AC** 26, **touch** 26, **flat-footed** 14 (+4 deflection, +11 Dex, +1 dodge)
 **hp** 161 (19d8+76)
-**Fort**+10,**Ref**+19,**Will** +18
-**Defensive Abilities**incorporeal;**Immune** undead traits
+**Fort** +10, **Ref** +19, **Will** +18
+**Defensive Abilities** incorporeal; **Immune** undead traits
 **Weaknesses** sunlight powerlessness
 
 **Offense**
@@ -614,8 +614,8 @@ CE Medium undead (incorporeal)
 **Special Attacks** wail
 
 **Statistics**
-**Str**—,**Dex**32,**Con**—,**Int**5,**Wis**20,**Cha** 19
-**Base Atk**+14;**CMB**+25;**CMD** 40
+**Str** —, **Dex** 32, **Con** —, **Int** 5, **Wis** 20, **Cha** 19
+**Base Atk** +14; **CMB** +25; **CMD** 40
 **Feats** Alertness, Combat Reflexes, Dodge, Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Step Up, Weapon Focus (touch), Wind Stance
 **Skills** Fly +19, Perception +31, Sense Motive +7
 **Languages** Common, Elven

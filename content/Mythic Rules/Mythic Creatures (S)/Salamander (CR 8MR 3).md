@@ -11,29 +11,29 @@ parent: "[[Mythic Creatures (S)]]"
 XP 3,200
 Pathfinder Roleplaying Game Bestiary
 CE Medium outsider (extraplanar, fire, mythic)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +17
+**Init** +1; **Senses** darkvision 60 ft.; Perception +17
 
 #### Defense
 
-**AC**21,**touch**11,**flat-footed** 20 (+1 Dex, +10 natural)
+**AC** 21, **touch** 11, **flat-footed** 20 (+1 Dex, +10 natural)
 **hp** 106 (8d10+62)
-**Fort**+10,**Ref**+7,**Will** +7
-**Defensive Abilities**DR 10/epic and magic, regeneration 10 (see ironic invulnerability);**Immune** fire
+**Fort** +10, **Ref** +7, **Will** +7
+**Defensive Abilities** DR 10/epic and magic, regeneration 10 (see ironic invulnerability); **Immune** fire
 **Weaknesses** vulnerability to cold
 
 #### Offense
 
 **Speed** 20 ft.
 **Melee** spear +13/+8 (1d8+5/x3 plus 1d6 fire), tail slap +7 (2d6+2 plus 1d6 fire and grab)
-**Space**5 ft.;**Reach** 5 ft. (10 ft. with tail)
+**Space** 5 ft.; **Reach** 5 ft. (10 ft. with tail)
 **Special Attacks** conflagrationMA, constrict (2d6+4 plus 1d6 fire), heat, mythic power (3/day, surge +1d6)
 
 #### Statistics
 
-**Str**18,**Dex**13,**Con**18,**Int**14,**Wis**15,**Cha** 13
-**Base Atk**+8;**CMB**+12 (+16 grapple);**CMD** 23 (can’t be tripped)
+**Str** 18, **Dex** 13, **Con** 18, **Int** 14, **Wis** 15, **Cha** 13
+**Base Atk** +8; **CMB** +12 (+16 grapple); **CMD** 23 (can’t be tripped)
 **Feats** CleaveM, Iron Will, Power AttackM, Skill Focus (Perception)
-**Skills**Acrobatics +12, Bluff +12, Craft (weaponsmithing) +17, Intimidate +12, Knowledge (planes) +13, Perception +17, Sense Motive +14, Stealth +12;**Racial Modifiers** +4 Craft (armorsmithing, blacksmithing, and weaponsmithing)
+**Skills** Acrobatics +12, Bluff +12, Craft (weaponsmithing) +17, Intimidate +12, Knowledge (planes) +13, Perception +17, Sense Motive +14, Stealth +12; **Racial Modifiers** +4 Craft (armorsmithing, blacksmithing, and weaponsmithing)
 **Languages** Common, Ignan
 **SQ** superheated weaponsMA
 

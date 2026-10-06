@@ -13,14 +13,14 @@ This shambling fungus creature bears a strong resemblance to a rotund human, but
 XP 1,600
 Pathfinder Roleplaying Game Bestiary 3
 NE Medium plant (mythic)
-**Init**+6MF;**Senses** darkvision 60 ft., low-light vision, scent, taste emotionMA; Perception +6
+**Init** +6MF; **Senses** darkvision 60 ft., low-light vision, scent, taste emotionMA; Perception +6
 
 #### Defense
 
-**AC**18,**touch**10,**flat-footed** 18 (+8 natural)
+**AC** 18, **touch** 10, **flat-footed** 18 (+8 natural)
 **hp** 58 (5d8+36)
-**Fort**+8,**Ref**+1,**Will** +4
-**Defensive Abilities**DR 5/epic and slashing;**Immune**plant traits;**Resist** cold 10, fire 10, sonic 10
+**Fort** +8, **Ref** +1, **Will** +4
+**Defensive Abilities** DR 5/epic and slashing; **Immune** plant traits; **Resist** cold 10, fire 10, sonic 10
 **Weaknesses** vulnerable to electricity
 
 #### Offense
@@ -34,10 +34,10 @@ NE Medium plant (mythic)
 
 #### Statistics
 
-**Str**17,**Dex**11,**Con**18,**Int**9,**Wis**12,**Cha** 10
-**Base Atk**+3;**CMB**+6;**CMD** 16
+**Str** 17, **Dex** 11, **Con** 18, **Int** 9, **Wis** 12, **Cha** 10
+**Base Atk** +3; **CMB** +6; **CMD** 16
 **Feats** Improved InitiativeMF, Iron Will, Skill Focus (Stealth)
-**Skills**Perception +6, Sense Motive +5, Stealth +9, Survival +5;**Racial Modifiers** +4 Sense Motive, +4 Survival
+**Skills** Perception +6, Sense Motive +5, Stealth +9, Survival +5; **Racial Modifiers** +4 Sense Motive, +4 Survival
 **Languages** Undercommon; telepathy 60 ft. (myceloids, fungi, and purple pox sufferers only)
 **SQ** fungal rapportMA
 
@@ -49,7 +49,7 @@ NE Medium plant (mythic)
 
 #### Special Abilities
 
-**Disease (Su)** *Purple Pox:* inhaled or injury; **save**Fort DC 16;**onset**1 minute;**frequency**1/day;**effect**1d2 Wis and 1d2 Con damage;**cure** 2 consecutive saves. A creature that dies of the purple pox becomes bloated over the course of 24 hours, after which its body bursts open, releasing a fully grown myceloid. Additionally, as long as a creature takes at least 7 points of Wisdom damage from the purple pox, it must make a DC 16 Will save each day to avoid becoming affected by a lesser geas (no HD limit) that compels the afflicted character to seek out the nearest myceloid colony in order to offer itself up for spore domination. The save DCs are Constitution-based.
+**Disease (Su)** *Purple Pox:* inhaled or injury; **save** Fort DC 16; **onset** 1 minute; **frequency** 1/day; **effect** 1d2 Wis and 1d2 Con damage; **cure** 2 consecutive saves. A creature that dies of the purple pox becomes bloated over the course of 24 hours, after which its body bursts open, releasing a fully grown myceloid. Additionally, as long as a creature takes at least 7 points of Wisdom damage from the purple pox, it must make a DC 16 Will save each day to avoid becoming affected by a lesser geas (no HD limit) that compels the afflicted character to seek out the nearest myceloid colony in order to offer itself up for spore domination. The save DCs are Constitution-based.
 
 **Fungal Rapport (Su)** A mythic myceloid’s telepathy allows it to communicate with all fungi and fungal creatures, as if using continuous speak with plants but affecting only molds, slimes, and fungi. A mythic myceloid can spend one use of its mythic power to use clairaudience/clairvoyance (caster level 5th) on any location within range where mold, slime, or fungus is present.
 

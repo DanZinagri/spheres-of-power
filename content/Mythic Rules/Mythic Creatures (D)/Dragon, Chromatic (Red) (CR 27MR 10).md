@@ -18,17 +18,17 @@ CE Colossal dragon (fire)
 
 #### Defense
 
-**AC**51,**touch**-1,**flat-footed** 51 (–3 Dex, +52 natural, –8 size)
+**AC** 51, **touch** -1, **flat-footed** 51 (–3 Dex, +52 natural, –8 size)
 **hp** 694 (29d12+506)
-**Fort**+30,**Ref**+13,**Will** +22
-**Defensive Abilities**draconic fortitudeMA, dragon blood (4d6 fire)MA; DR 20/epic and magic;**Immune** dragon traits, fire, magic paralysis and sleep
+**Fort** +30, **Ref** +13, **Will** +22
+**Defensive Abilities** draconic fortitudeMA, dragon blood (4d6 fire)MA; DR 20/epic and magic; **Immune** dragon traits, fire, magic paralysis and sleep
 **Weaknesses** vulnerable to cold
 
 #### Offense
 
 **Speed** 40 ft., fly 250 ft. (clumsy)
 **Melee** bite +41 (8d6+30/19–20 plus grab and swallow whole), 2 claws +41 (8d6+20/19–20 plus grab), 2 wings +39 (4d6+10), tail slap +39 (4d8+30)
-**Space**30 ft.;**Reach** 40 ft. (50 ft. with bite)
+**Space** 30 ft.; **Reach** 40 ft. (50 ft. with bite)
 **Special Attacks** breath weapon (80-ft. cone, 24d10 fire damage, Reflex half DC 40, usable every 1d4 rounds), burn for meMA (DC 30), crush (Huge creatures, DC 34, 8d6+30), fast swallowMA, imperious glareMA, incinerate, manipulate flames, melt stone, mythic power (10/day, 1d12), searing smokeMA, swallow wholeMA (2d6 bludgeoning and 6d6 fire damage, AC 36, hp 69), tail sweep (30 feet, Large creatures, DC 34, 4d6+30)
 
 **Spell-Like Abilities** (CL 27th; concentration +33)
@@ -49,8 +49,8 @@ At will—detect magic, discern location, find the path, pyrotechnics (DC 18), s
 
 #### Statistics
 
-**Str**51,**Dex**4,**Con**39,**Int**22,**Wis**23,**Cha** 22
-**Base Atk**+29;**CMB**+57 (+61 grapple);**CMD** 64 (68 vs. trip)
+**Str** 51, **Dex** 4, **Con** 39, **Int** 22, **Wis** 23, **Cha** 22
+**Base Atk** +29; **CMB** +57 (+61 grapple); **CMD** 64 (68 vs. trip)
 **Feats** Ability Focus (breath weapon), CleaveMF, Critical FocusMF, Flyby Attack, Great Cleave, Improved Critical (bite), Improved Critical (claws), Improved InitiativeMF, Improved Natural Attack (claws), Inescapable GraspMF, Multiattack, Mythic Spell LoreMF, Power Attack, Quicken Spell, Snatch, Staggering Critical, Stunning Critical
 **Skills** Acrobatics +26, Appraise +20, Bluff +38, Craft (traps) +20, Disguise +20, Fly +13, Intimidate +38, Knowledge (arcana) +20, Knowledge (engineering) +20, Knowledge (history) +20, Knowledge (nobility) +20, Linguistics +16, Perception +38, Sense Motive +30, Spellcraft +38, Stealth +10, Survival +20, Use Magic Device +38
 **Languages** Abyssal, Aklo, Auran, Common, Draconic, Dwarven, Elven, Giant, Goblin, Ignan, Infernal, Orc, Terran, Undercommon

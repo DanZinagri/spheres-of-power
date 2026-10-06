@@ -13,14 +13,14 @@ This metallic creature has pincer-tipped arms and a single red eye–it flies wi
 XP 307,200
 Pathfinder Campaign Setting: Inner Sea Bestiary
 N Gargantuan construct (mythic, robot)
-**Init**+7/-13, dual initiativeMA;**Senses** darkvision 120 ft., low-light vision, tremorsense 60 ft.; Perception +24
+**Init** +7/-13, dual initiativeMA; **Senses** darkvision 120 ft., low-light vision, tremorsense 60 ft.; Perception +24
 
 #### Defense
 
-**AC**40,**touch**10,**flat-footed** 36 (+3 Dex, +1 dodge, +30 natural, -4 size)
+**AC** 40, **touch** 10, **flat-footed** 36 (+3 Dex, +1 dodge, +30 natural, -4 size)
 **hp** 350 (20d10+140 plus 100 hp force field)
-**Fort**+12,**Ref**+12,**Will** +11; legendaryMA
-**Defensive Abilities**field boostMA, fortification (50%)MA, hardness 10, unfetteredMA; DR 10/epic;**Immune**cold, construct traits;**Resist** electricity 30, fire 30
+**Fort** +12, **Ref** +12, **Will** +11; legendaryMA
+**Defensive Abilities** field boostMA, fortification (50%)MA, hardness 10, unfetteredMA; DR 10/epic; **Immune** cold, construct traits; **Resist** electricity 30, fire 30
 **Weaknesses** vulnerable to critical hits, vulnerable to electricity
 
 #### Offense
@@ -28,13 +28,13 @@ N Gargantuan construct (mythic, robot)
 **Speed** 50 ft., climb 30 ft.; booster jets
 **Melee** 2 adamantine claws +31 (2d6+15/19-20)
 **Ranged** 2 integrated chain guns +21 (8d6/×4)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** combined arms, keeningMA, mythic power (8/day, surge +1d10), plasma lance, plasma overloadMA, suppressing fire, targeting computerMA
 
 #### Statistics
 
-**Str**40,**Dex**17,**Con**—,**Int**14,**Wis**13,**Cha** 1
-**Base Atk**+20;**CMB**+39;**CMD** 57 (65 vs. trip)
+**Str** 40, **Dex** 17, **Con** —, **Int** 14, **Wis** 13, **Cha** 1
+**Base Atk** +20; **CMB** +39; **CMD** 57 (65 vs. trip)
 **Feats** Combat ExpertiseMF, Combat ReflexesMF, Deadly AimMF, Dodge, Great Fortitude, Improved Critical (claw), Improved Initiative, Mobility, Skill Focus (Acrobatics), Weapon Focus (chain gun)MF
 **Skills** Acrobatics +29 (+37 when jumping), Climb +23, Intimidate +15, Perception +24, Sense Motive +24
 **Languages** Common

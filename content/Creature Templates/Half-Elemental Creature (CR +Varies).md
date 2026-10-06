@@ -16,7 +16,7 @@ Each of the four kinds of half-elementals has its own abilities and limitations.
 
 ---
 
-### CREATING A HALF-AIR ELEMENTAL
+### Creating a Half-air Elemental
 
 “Half-elemental (air)” is a template that can be added to any corporeal creature (hereafter referred to as the “base creature”). It uses all the base creature’s statistics and special abilities except as noted here.
 
@@ -42,13 +42,13 @@ Each of the four kinds of half-elementals has its own abilities and limitations.
 | 16-18 | control weather |
 | 19+ | whirlwind |
 
-**Abilities:** Increase from the base creature as follows:**Dexterity**+4 and**Constitution** +2.
+**Abilities:** Increase from the base creature as follows: **Dexterity** +4 and **Constitution** +2.
 
 **Feats:** Half-air elementals gain Flyby Attack as a bonus feat.
 
 ---
 
-### CREATING A HALF-EARTH ELEMENTAL
+### Creating a Half-earth Elemental
 
 “Half-elemental (earth)” is a template that can be added to any corporeal creature (hereafter referred to as the “base creature”). It uses all the base creature’s statistics and special abilities except as noted here.
 
@@ -76,13 +76,13 @@ Each of the four kinds of half-elementals has its own abilities and limitations.
 
 - **Push (Ex):** A half-earth elemental can start a bullrush without provoking an attack of opportunity.
 
-**Abilities:** Increase from the base creature as follows:**Strength**+4 and**Constitution** +2.
+**Abilities:** Increase from the base creature as follows: **Strength** +4 and **Constitution** +2.
 
 **Feats:** Half-earth elementals gain Power Attack as a bonus feat.
 
 ---
 
-### CREATING A HALF-FIRE ELEMENTAL
+### Creating a Half-fire Elemental
 
 “Half-fire elemental” is a template that can be added to any corporeal creature (hereafter referred to as the “base creature”). It uses all the base creature’s statistics and special abilities except as noted here.
 
@@ -110,13 +110,13 @@ Each of the four kinds of half-elementals has its own abilities and limitations.
 
 - **Fire Touch (Su):** A half-fire elemental deals an additional 1d6 fire damage with any melee attack.
 
-**Abilities:** Increase from the base creature as follows:**Dexterity**+4 and**Constitution** +2.
+**Abilities:** Increase from the base creature as follows: **Dexterity** +4 and **Constitution** +2.
 
 **Feats:** Half-fire elementals gain Improved Initiative as a bonus feat.
 
 ---
 
-### CREATING A HALF-WATER ELEMENTAL
+### Creating a Half-water Elemental
 
 “Half-elemental (water)” is a template that can be added to any corporeal creature (hereafter referred to as the “base creature”). It uses all the base creature’s statistics and special abilities except as noted here.
 
@@ -145,6 +145,6 @@ Each of the four kinds of half-elementals has its own abilities and limitations.
 
 - **Drench (Ex):** A half-water elemental can extinguish mundane fires of up to bonfire size with a touch. The half-elemental’s touch affects magical fires as if casting greater dispel magic as a sorcerer of the half-elemental’s level or hit dice.
 
-**Abilities:** Increase from the base creature as follows:**Strength**+2,**Dexterity**+2, and**Constitution** +2.
+**Abilities:** Increase from the base creature as follows: **Strength** +2, **Dexterity** +2, and **Constitution** +2.
 
 **Feats:** Half-water elementals gain Cleave as a bonus feat.

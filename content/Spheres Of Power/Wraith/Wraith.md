@@ -400,7 +400,7 @@ A despoiler feeds on pestilence and decay.
 
 **Improved Path Possession:** The despoiler may possess swarms of the vermin type, ignoring their subtype-based immunity to mind-affecting abilities. By spending 1 minute attracting local vermin, the despoiler can create a swarm to actively possess. This swarm disperses when the possession ends. To create the swarm, use the statistics of a Conjuration sphere companion summoned with a caster level equal to the despoiler’s class level (this stacks with caster levels gained from other sources) and the following base form:
 
-**Speed**20 ft., Climb 20 ft.;**AC**+2 natural armor;**Fort**(good),**Ref**(good),**Will**(bad);**Attack**N/A;**Str**12,**Dex**16,**Con**13,**Int**-,**Wis**10,**Cha** 11.
+**Speed** 20 ft., Climb 20 ft.; **AC** +2 natural armor; **Fort** (good), **Ref** (good), **Will** (bad); **Attack** N/A; **Str** 12, **Dex** 16, **Con** 13, **Int** -, **Wis** 10, **Cha** 11.
 
 The swarm has the swarm subtype, with constituent members of Tiny size and a 10-foot space. Its swarm damage is 1d6 + 1d6 per 3 Hit Dice and has a distraction DC of 10 + 1/2 Hit Dice + the despoiler’s casting ability modifier. The appearance of the constituent members of the swarm formed will be based on the GM’s discretion given the environment. If the despoiler is of at least 5th level, he may spend an additional spell point as part of beginning the possession to grant the swarm a fly speed of 20 feet (perfect).
 
@@ -452,7 +452,7 @@ A poltergeist is adept at moving creatures and objects as well as possessing and
 
 ### Path of the Presence [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Known to reveal secrets and lost knowledge, a presence attempts to reveal what is lost.
 
@@ -468,7 +468,7 @@ Known to reveal secrets and lost knowledge, a presence attempts to reveal what i
 
 ### Path of the Revenant [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Angry and consumed, revenants are hateful spirits that are fuelled by death and revenge.
 
@@ -498,7 +498,7 @@ A shadow lurks in darkness, seizing those foolish enough to enter their penumbra
 
 ### Path of the Soul [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 The soul heals and repairs the spirit of those they influence.
 
@@ -530,7 +530,7 @@ When attempting to possess a creature with one of these conditions, the spook ma
 
 ### Path of the Wisp [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Bringers of pale light and hope, wisps lead the way and guide the lost.
 
@@ -542,9 +542,9 @@ If the wisp actively possesses a light source, he can change the light level and
 
 If the light source is extinguished, the possession ends.
 
-**Path Skill**: Knowledge (nature) (Int)
+**Path Skill:** Knowledge (nature) (Int)
 
-**Improved Path Possession**: A creature the wisp is possessing gains the benefits of one (light) or (lens) talent the wisp possesses for the duration of the possession—if he is possessing a light source, he can add one (light) talent to it for the duration of the possession. The cost of activating the associated talent is reduced by 1 spell point, with its effects being lost when the possession ends.
+**Improved Path Possession:** A creature the wisp is possessing gains the benefits of one (light) or (lens) talent the wisp possesses for the duration of the possession—if he is possessing a light source, he can add one (light) talent to it for the duration of the possession. The cost of activating the associated talent is reduced by 1 spell point, with its effects being lost when the possession ends.
 
 **Greater Path Possession:** The wisp may now activate two (light), two (lens), or one (light) and one (lens) talent as part of possessing a creature (or light source); the spell point reduction applies separately to each.
 
@@ -630,8 +630,8 @@ The following magical items are especially appropriate for wraiths.
 
 #### Haunting Doll [TS:WAT]
 
-**Aura**moderate Death;**CL** 7th
-**Slot**none;**Price**15,000 gp;**Weight** 3 lbs.
+**Aura** moderate Death; **CL** 7th
+**Slot** none; **Price** 15,000 gp; **Weight** 3 lbs.
 
 This cloth doll’s eyes seem to follow anyone who can see them. When carried by a creature with the wraith haunt class feature, that creature gains knowledge of one additional wraith haunt, chosen when this item is created. A creature cannot benefit from the effects of more than one haunting doll at a time and must meet any prerequisites for the wraith haunt.
 
@@ -642,8 +642,8 @@ Craft Apparatus, Death sphere, creator must have the wraith haunt class feature;
 
 #### Wraith Dust [TS:WAT]
 
-**Aura**moderate Death;**CL** 8th
-**Slot**none;**Price**25,000 gp;**Weight** 1 lb.
+**Aura** moderate Death; **CL** 8th
+**Slot** none; **Price** 25,000 gp; **Weight** 1 lb.
 
 This slender box is filled with a seemingly endless amount of translucent powder, though creatures can only remove a small amount at a time. A creature with the wraith form class feature can sprinkle this dust over themselves as a standard action to activate their wraith form ability for five rounds, without it counting against the normal number of rounds per day. A creature cannot benefit from wraith dust more than three times per day.
 

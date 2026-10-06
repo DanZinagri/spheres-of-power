@@ -13,14 +13,14 @@ Devoid of a head, or any features at all save for four short, clawed legs, this 
 XP 9,600
 Pathfinder Roleplaying Game Bestiary
 CE Small aberration (alien, mythic)
-**Init**+15/–5, dual initiative;**Senses** blindsight 60 ft., detect magic; Perception +19
+**Init** +15/–5, dual initiative; **Senses** blindsight 60 ft., detect magic; Perception +19
 
 #### Defense
 
-**AC**27,**touch**18,**flat-footed** 20 (+7 Dex, +9 natural, +1 size)
+**AC** 27, **touch** 18, **flat-footed** 20 (+7 Dex, +9 natural, +1 size)
 **hp** 116 (8d8+80)
-**Fort**+7,**Ref**+9,**Will** +8
-**Defensive Abilities**extraordinary agilityMA; DR 10/adamantine, epic, and magic;**Immune**fire, mind-affecting effects;**Resist**cold 20, electricity 20, sonic 20;**SR** 27
+**Fort** +7, **Ref** +9, **Will** +8
+**Defensive Abilities** extraordinary agilityMA; DR 10/adamantine, epic, and magic; **Immune** fire, mind-affecting effects; **Resist** cold 20, electricity 20, sonic 20; **SR** 27
 **Weaknesses** vulnerability to protection from evil
 
 #### Offense
@@ -36,10 +36,10 @@ At will—confusion (DC 18, single target only), daze monster (DC 16, no HD limi
 
 #### Statistics
 
-**Str**12,**Dex**25,**Con**21,**Int**16,**Wis**10,**Cha** 19
-**Base Atk**+6;**CMB**+6;**CMD** 23 (27 vs. trip)
+**Str** 12, **Dex** 25, **Con** 21, **Int** 16, **Wis** 10, **Cha** 19
+**Base Atk** +6; **CMB** +6; **CMD** 23 (27 vs. trip)
 **Feats** Improved InitiativeMF, Iron Will, Toughness, Weapon FinesseMF
-**Skills**Acrobatics +7, Bluff +20, Disguise +12, Knowledge (local) +14, Perception +19, Sense Motive +8, Stealth +30, Use Magic Device +11;**Racial Modifiers** +8 Bluff, +8 Perception, +8 Stealth
+**Skills** Acrobatics +7, Bluff +20, Disguise +12, Knowledge (local) +14, Perception +19, Sense Motive +8, Stealth +30, Use Magic Device +11; **Racial Modifiers** +8 Bluff, +8 Perception, +8 Stealth
 **Languages** Undercommon (cannot speak); telepathy 100 ft.
 
 #### Ecology

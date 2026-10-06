@@ -12,7 +12,7 @@ Catfolk display much of their mood through purring – affection, calming, comfo
 
 Purring feats are not exclusive to catfolk and may be taken by creatures of any race or type. Non-catfolk could hum, lullaby, or produce any number of other similar mannerisms to produce the effects of a purring feat.
 
-#### Purring Feat Mechanics
+##### Purring Feat Mechanics
 
 A character with a purring feat gains the ability to purr, granting certain effects depending on the purring being used. Purring is an extraordinary ability which does not provoke attacks of opportunity.
 
@@ -20,7 +20,7 @@ Purring is a physical action and may be performed so long as the character is no
 
 A character with a purring feat may begin purring as a swift action, and may maintain their purring each round as a free action. Switching to a new purring requires a new swift action, including switching to the same purring but with a different selection. Only a single purring effect may be used at a time. There is no limit to how long a character can purr each day. While purring, the purring character gains an aura with a 5-foot radius, granting the benefits of each purring feat in use to each valid creature, including the purring character.
 
-#### Powerful Purring
+##### Powerful Purring
 
 As a character gains additional purring feats, the character’s ability to purr increases:
 
@@ -29,31 +29,31 @@ As a character gains additional purring feats, the character’s ability to purr
 
 Some purring feats gain additional effects if you possess 4 or more purring feats, denoted as “Powerful Purring” as part of their entry.
 
-#### Qualifying for Purring Feats
+##### Qualifying for Purring Feats
 
 Purring feats may be freely selected by creatures with 2 or less Intelligence (such as an animal companion). Creatures with higher intelligence may also select purring feats as long as they meet any other requirements.
 
-#### Selecting Purring Feats with Class Features
+##### Selecting Purring Feats with Class Features
 
 Many classes may select a purring feat with their appropriate class features (subject to GM discretion). Suggestions of appropriate class features include but are not limited to alchemist discoveries, armorist arsenal tricks, blacksmith smithing insights, hedgewitch secrets, investigator talents, magus arcana, rogue talents, shaman and witch hexes, wraith haunts, etc.
 
 ---
 
-# Purring Feats
+## Purring Feats
 
-### Calming (Purring)
+#### Calming (Purring)
 
 **Benefits:** While using the calming purr, you and allies within your purring aura gain a +2 bonus on saving throws against mind-affecting effects and to the DC to Intimidate them. Each creature benefiting from the calming purr may spend a move action to lessen the severity of any fear effect they are subject to (panicked to frightened to shaken to unaffected). Each creature may only benefit from this feat to lessen a fear effect once per round; a creature may take an action to lessen a fear effect even if they would be required to run from the source of their fear first.
 
 **Powerful Purring:** Creatures benefiting from the calming purring may lessen the severity of a fear effect as a free action and may reduce cowering to panicked. A creature benefiting from the calming purring rolls twice and takes the better result when attempting a saving throw which the calming purr grants a bonus against.
 
-### Charming (Purring)
+#### Charming (Purring)
 
 **Benefits:** While using the charming purr, enemies within your purring aura suffer a -1 penalty on saving throws made against charm and compulsion effects you create. In addition, you gain a +2 bonus on skill checks made to improve the attitude of a creature within your purring aura (such as using Diplomacy or Intimidate).
 
 **Powerful Purring:** The charming purr’s penalty and bonus increase to -2 and +6 respectively.
 
-### Cooperating (Purring)
+#### Cooperating (Purring)
 
 **Prerequisite:** Any one teamwork feat.
 
@@ -61,7 +61,7 @@ Many classes may select a purring feat with their appropriate class features (su
 
 **Powerful Purring:** Whenever you begin using the cooperating purr, instead of choosing a teamwork feat you possess, you may instead use any teamwork feat you meet the prerequisites for, temporarily gaining that teamwork feat as a bonus feat and granting it to allies which begin their turn within your purring aura. You may choose a different teamwork feat to temporarily gain each time you begin using the cooperating purr.
 
-### Distracting (Purring)
+#### Distracting (Purring)
 
 **Prerequisite:** Bluff 3 ranks.
 
@@ -69,13 +69,13 @@ Many classes may select a purring feat with their appropriate class features (su
 
 **Powerful Purring:** Allies within your purring aura also gain the benefits of your distracting purr against enemies.
 
-### Helping (Purring)
+#### Helping (Purring)
 
 **Benefits:** While using the helping purr, whenever an ally within your purring aura would perform an attack roll or skill check, you may use the aid another action to improve that ally’s attack roll or skill check as a free action that can be taken even when it is not your turn. You may only use the aid another action this way once per round and may aid a creature this way even if you normally could not (such as not threatening the attacking creature, etc.).
 
 **Powerful Purring:** While using the helping purr, whenever you use the aid another action, you grant the assisted creature a number of temporary hit points equal to 1/2 your character level which last for 1 minute.
 
-### Improving (Purring)
+#### Improving (Purring)
 
 **Prerequisite:** Enhancement sphere.
 
@@ -85,7 +85,7 @@ If the chosen enhance sphere effect would target a piece of equipment, that ally
 
 **Powerful Purring:** Whenever a creature benefits from the improving purr, that creature retains the benefits of the chosen enhance talent for an additional round.
 
-### Rumbling (Purring)
+#### Rumbling (Purring)
 
 Not fueled by some independent emotion or habit, the cat simply purrs harder. Somehow.
 
@@ -95,13 +95,13 @@ Not fueled by some independent emotion or habit, the cat simply purrs harder. So
 
 **Special:** This feat may be selected multiple times.
 
-### Soothing (Purring)
+#### Soothing (Purring)
 
 **Benefits:** While using the soothing purr, you and allies within your purring aura gain a +2 bonus on saving throws made against pain effects. This bonus also applies on skill checks, saving throws, and ability checks made against an ongoing effect, but not the initial check to avoid the effect (such as a saving throw to stop being on fire or a Strength check to break out of an icy prison spell).
 
 **Powerful Purring:** Whenever a creature benefiting from the soothing purr would receive healing, increase the healing received by half your character level. This increased healing has no effect on effects such as fast healing, regeneration, and other similar effects.
 
-### Stalking (Purring)
+#### Stalking (Purring)
 
 **Benefit:** While using stalking purr, you and your allies gain the benefits of partial cover while adjacent to another creature. In addition, while using the stalking purr, an ally who begins their turn in your purring aura may move at full speed using the Stealth skill without penalty.
 
@@ -109,13 +109,13 @@ Not fueled by some independent emotion or habit, the cat simply purrs harder. So
 
 **Author's Note:** The benefits of partial cover granted by this purring ability only grants the +2 bonus to AC and +1 bonus to Reflex saving throws. The partial cover granted by this purring does not grant the ability to make Stealth checks or avoid provoking attacks of opportunity.
 
-### Warming (Purring)
+#### Warming (Purring)
 
 **Benefits:** While using the warming purr, you and allies within your purring aura gain 5 cold resistance. In addition, each creature benefiting from the warming purr deals an additional +1d6 fire damage on their first successful attack made each round. This attack must be one made with a manufactured weapon, natural attack, or unarmed strike.
 
 **Powerful Purring:** The cold resistance granted by the warming purring increases to 15 and the additional fire damage increases to +2d6.
 
-### Wiggling (Purring)
+#### Wiggling (Purring)
 
 **Benefits:** While using the wiggling purr, you and allies within your purring aura gain a +2 dodge bonus to AC against attacks of opportunity and Escape Artist checks. Whenever an enemy’s attack of opportunity misses a creature benefiting from the wiggling purr, that enemy provokes an attack of opportunity from you. Each enemy may only provoke an attack of opportunity this way once per round.
 

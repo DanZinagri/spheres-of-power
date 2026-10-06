@@ -12,20 +12,20 @@ A nearly invisible shimmering hum undulates through the air, which seems to bend
 **Sonic Slime (CR 11/MR 4)**
 XP 12,800
 N Large ooze (incorporeal, mythic)
-**Init**+5;**Senses** blindsense 300 ft., blindsight 120 ft., tremorsense 60 ft.; Perception +0
+**Init** +5; **Senses** blindsense 300 ft., blindsight 120 ft., tremorsense 60 ft.; Perception +0
 
 #### Defense
 
-**AC**22,**touch**18,**flat-footed** 17 (+4 deflection, +5 Dex, +4 natural, –1 size)
+**AC** 22, **touch** 18, **flat-footed** 17 (+4 deflection, +5 Dex, +4 natural, –1 size)
 **hp** 157 (10d8+112)
-**Fort**+11,**Ref**+8,**Will** +3
-**Defensive Abilities**incorporeal; DR 5/epic;**Immune** acid, sonic, ooze traits
+**Fort** +11, **Ref** +8, **Will** +3
+**Defensive Abilities** incorporeal; DR 5/epic; **Immune** acid, sonic, ooze traits
 
 #### Offense
 
 **Speed** fly 60 ft. (good), swim 30 ft.
 **Melee** slam +11 (4d6 sonic plus disruptive harmonics)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** cacaphonous tideMA, disruptive harmonics, doppler dragMA, thunderlance, mythic power (4/day, surge 1d8), trample (4d6 sonic, DC 23)
 
 **Spell-Like Abilities** (CL 10th; concentration +18; save DCs are Con-based)
@@ -33,8 +33,8 @@ At will—shatter (DC 20), sympathetic vibration
 
 #### Statistics
 
-**Str**—,**Dex**21,**Con**27,**Int**—,**Wis**10,**Cha** 1
-**Base Atk**+7;**CMB**+13;**CMD** 27 (can’t be tripped)
+**Str** —, **Dex** 21, **Con** 27, **Int** —, **Wis** 10, **Cha** 1
+**Base Atk** +7; **CMB** +13; **CMD** 27 (can’t be tripped)
 **Feats** Extra Mythic PowerMF, Potent SurgeMF
 **Skills** Fly +7, Swim +8
 **SQ** compression, reverberating residueMA, sonic disruptionMA, sonic suppression, transparency, wake up the echoesMA
@@ -49,7 +49,7 @@ At will—shatter (DC 20), sympathetic vibration
 
 **Cacophonous Tide (Su)** Whenever a sonic slime moves during a round, generates a rising wave of sound that causes any creature adjacent to it at the end of its turn to become deafened and nauseated (DC 23 Will negates) for as long as they remain adjacent to the sonic slime. Creatures that move away can attempt a new saving throw each round at the beginning of their turn to remove these effects. A sonic slime can spend one use of its mythic power as a move action to affect all creatures in a 30-foot-radius spread centered on itself, lasting until the beginning of its next turn. It can continue the effect in subsequent rounds by spending one use of mythic power per round.
 
-**Disruptive Harmonics (Ex)**A sonic slime creates a harmonic vibratory resonance in creatures it damages with its slam attack. The target gains one of the following conditions each time it takes damage from a sonic slime’s attack (DC 23 Fortitude negates); determine this effect by rolling 1d6 with each attack:** 1**, deafened 24 hours; **2**, fatigued; **3**, nauseated 1d4 rounds; **4**, sickened 1d4 minutes; **5**, staggered 1d6 rounds; **6**, stunned 1 round. These conditions stack; if a target would be affected by the same effect again, the duration is increased but not the severity of the effect.
+**Disruptive Harmonics (Ex)** A sonic slime creates a harmonic vibratory resonance in creatures it damages with its slam attack. The target gains one of the following conditions each time it takes damage from a sonic slime’s attack (DC 23 Fortitude negates); determine this effect by rolling 1d6 with each attack: **1**, deafened 24 hours; **2**, fatigued; **3**, nauseated 1d4 rounds; **4**, sickened 1d4 minutes; **5**, staggered 1d6 rounds; **6**, stunned 1 round. These conditions stack; if a target would be affected by the same effect again, the duration is increased but not the severity of the effect.
 
 **Doppler Drag (Ex)** A sonic slime gains the trample special attack. In addition, whenever a creature fails its save against the sonic slime’s trample it can attempt a combat maneuver check to drag that creature along behind it. A creature successfully dragged by a mythic sonic slime is also affected by its cacophonous tide ability.
 

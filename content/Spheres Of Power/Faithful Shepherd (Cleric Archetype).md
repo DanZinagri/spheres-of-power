@@ -10,117 +10,117 @@ parent: "[[Spheres Of Power]]"
 
 The faithful shepherd believes that to get others to follow them, she must be in front. She puts herself in harm’s way so that she can tend to her flock. As a master of healing and protecting magic, she is well equipped to protect herself even without her martial skills, but her strongest ability is the strength that sustains her allies.
 
-### Casting
+#### Casting
 
 The faithful shepherd may combine spheres and talents to create magical effects. The faithful shepherd is considered a Mid-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-### Spell Pool
+#### Spell Pool
 
 The faithful shepherd gains a small reservoir of energy she can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to her level + her casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+#### Magic Talents
 
 A faithful shepherd gains 3/4ths of a magic talent every level (the same progression as she gains caster levels).
 
-### Keep the Flock
+#### Keep the Flock
 
 The faithful shepherd gains the Life and Protection spheres as bonus magic talents.
 
 This replaces domain bonus spells.
 
-### Positive Channeling
+#### Positive Channeling
 
 A faithful shepherd must choose positive energy as the energy she channels with her channel energy class feature. The faithful shepherd uses her casting ability modifier in place of Charisma to determine uses per day, saving throw DC, and all other effects when channeling energy.
 
 This alters channel energy.
 
-### Divine Works
+#### Divine Works
 
 The faithful shepherd has been gifted by her deity with minor miracles she can use to protect and heal her allies - and to spread the good word. The faithful shepherd gains 1 divine work at 1st level, and an additional divine work every odd level after the 1st, for a total of 10 at 19th level. Each divine work may be chosen once only. She may choose from the following works:
 
-#### Aid the Faithful (Ex)
+##### Aid the Faithful (Ex)
 
 Whenever the faithful shepherd uses an ability that heals an ally within the area of one of her wards, that ally gains additional hit points equal to the faithful shepherd’s casting ability modifier. This cannot add more healing than the original ability healed, and does not apply to abilities that grant fast healing or regeneration.
 
-#### Ask for a Sign (Su) (requires faithful shepherd 3)
+##### Ask for a Sign (Su) (requires faithful shepherd 3)
 
 As a standard action, the faithful shepherd may spend a use of her channel energy ability to create a sign. The sign appears in the air over the shepherd, and remains in one location, active for a number of rounds equal to her casting ability modifier. The sign duplicates the effect of one of the exorcist hedgewitch’s sanctions, chosen when the sign is created, as if the shepherd were a hedgewitch of equal level. She may only have one sign active at a time; using this ability ends any previous sign, and she may not use a sign that would affect herself.
 
-#### Condemn the Unholy (Su) (requires faithful shepherd 7)
+##### Condemn the Unholy (Su) (requires faithful shepherd 7)
 
 As a standard action, the faithful shepherd may spend a use of her channel energy ability to force an extraplanar creature within 30 feet back to its proper plane of existence if it fails a Will save versus a DC equal to 10 + 1/2 the faithful shepherd’s class level + her casting ability modifier. If the effect is successful, the creature is instantly teleported away to its native plane of existence.
 
-#### Divine Guidance (Ex)
+##### Divine Guidance (Ex)
 
 With her deity’s favored weapon, the faithful shepherd can use her casting ability modifier instead of her Strength or Dexterity modifier on attack rolls.
 
-#### Divine Inspiration (Ex)
+##### Divine Inspiration (Ex)
 
 By communing with her deity, the faithful shepherd gains access to expanded knowledge. As a standard action, she may spend a use of her channel energy ability to gain an insight bonus to a Knowledge skill of her choice equal to 1/2 her class level. This bonus lasts until she rests and regains the uses of her channel energy ability. She may use this ability multiple times, each time choosing a different Knowledge skill.
 
-#### Give Heart (Su)
+##### Give Heart (Su)
 
 Whenever the faithful shepherd creates a ward, she may invigorate every ally within the area of the ward as a free action. This is considered only one use of the invigorate ability, regardless of the number of allies affected.
 
-#### Grant Protection (Ex) (requires faithful shepherd 5)
+##### Grant Protection (Ex) (requires faithful shepherd 5)
 
 The faithful shepherd gains a talent from the Protection sphere that she qualifies for. Whenever she rests for 8 hours and regains spell points, she may change which Protection sphere talent she gains from this work.
 
-#### Hand of the Gods (Ex) (requires faithful shepherd 5)
+##### Hand of the Gods (Ex) (requires faithful shepherd 5)
 
 The faithful shepherd gains a channeling feat that she qualifies for. Whenever she rests for 8 hours and regains spell points, she may change which channeling feat she gains from this work.
 
-#### Heal the Sick (Su)
+##### Heal the Sick (Su)
 
 When the faithful shepherd heals with her channel energy ability, she may include any ally with an aegis she created in the effect of her channel energy, as long as they are within line of sight.
 
-#### Holy Presence (Ex)
+##### Holy Presence (Ex)
 
 The faithful shepherd may choose a (consecration) talent from the Fate sphere. She may create a ward that duplicates the effects of that consecration within its boundary. This ward is a Protection sphere talent, and uses the faithful shepherd’s Protection caster level to determine effects. If creating the consecration would normally require a spell point to be spent, she must still spend that spell point.
 
-#### Instill Virtue (Su) (requires faithful shepherd 3)
+##### Instill Virtue (Su) (requires faithful shepherd 3)
 
 The weapons of any ally under the effect of any aegis the faithful shepherd created are considered aligned (with the faithful shepherd’s alignment) for the purposes of overcoming damage reduction.
 
-#### Keep the Faith (Su) (requires faithful shepherd 3)
+##### Keep the Faith (Su) (requires faithful shepherd 3)
 
 The faithful shepherd may spend a standard action to create a 30-foot aura that gives special protection to herself and any allies within range. When she creates this aura, she chooses a (ward) talent she possesses other than the base sphere barrier ability: she and all allies within are protected as if they were within a ward of this type cast by the faithful shepherd. The aura is not a true ward and can not trigger effects related to wards, and enemies are not affected by the aura. The aura remains until the faithful shepherd chooses a different (ward) talent to create an aura with or until she dies, and can last indefinitely. Only one aura may be in effect at any given time.
 
-#### Minister to the Faithful (Su) (requires faithful shepherd 9)
+##### Minister to the Faithful (Su) (requires faithful shepherd 9)
 
 Any ally within a 30-foot radius of the faithful shepherd or inside one of her wards may, as a standard action, use one of the faithful shepherd’s Life or Protection sphere abilities on herself. The sphere effect must have a casting time of one standard action or less. The sphere effect is cast as if the faithful shepherd had herself cast it, and is considered her effect. Any spell points used are lost by the faithful shepherd. This sphere effect may only target the ally and can not be combined with abilities that allow sphere abilities to target multiple creatures. The faithful shepherd must be willing to allow this to happen, but does not need to be conscious or aware.
 
-#### Omniscience (Ex) (requires faithful shepherd 7)
+##### Omniscience (Ex) (requires faithful shepherd 7)
 
 As a standard action, the faithful shepherd may spend a use of her channel energy ability to grant herself the benefit of any one magic talent or channeling feat she does not possess. This effect lasts for 1 minute. She must meet all of the feat’s prerequisites, or if gaining a magic talent other than a base sphere, she must possess that talent’s base sphere. Multiple uses of this ability do not stack. If she uses this ability again before the previous duration has expired, it replaces the previous use.
 
-#### Pray for a Miracle (Ex)
+##### Pray for a Miracle (Ex)
 
 The faithful shepherd can use any (succor) talent she possesses on any ally within 30 feet or the range of her Protection abilities (whichever is farther) without sacrificing an aegis. She must instead spend a spell point.
 
-#### Punish the Unfaithful (Ex)
+##### Punish the Unfaithful (Ex)
 
 The faithful shepherd gains a circumstance bonus to damage equal to her casting ability modifier with all melee attacks made on enemies within a ward she created.
 
-#### Purify the Sinners (Ex)
+##### Purify the Sinners (Ex)
 
 The faithful shepherd may choose a (totem) talent from the War sphere. She may create a ward that duplicates the effects of that totem within its boundary. This ward is a Protection sphere talent, and uses the faithful shepherd’s Protection caster level to determine effects. If creating the totem would normally require a spell point to be spent, she must still spend that spell point.
 
-#### Serve Life (Ex) (requires faithful shepherd 5)
+##### Serve Life (Ex) (requires faithful shepherd 5)
 
 The faithful shepherd gains a talent from the Life sphere that she qualifies for. Whenever she rests for 8 hours and regains spell points, she may change which Life sphere talent she gains from this work.
 
-#### Show Mercy (Su)
+##### Show Mercy (Su)
 
 When the faithful shepherd channels energy, she uses d8s instead of d6s to determine the effect.
 
-#### Take on Suffering (Su)
+##### Take on Suffering (Su)
 
 As an immediate action, the faithful shepherd may spend a spell point to redirect a ranged attack or ranged ability targeting an ally within 30 feet to herself. This decision may be made after it is determined if the attack hits the ally.
 
-#### Tireless Devotion (Ex) (requires faithful shepherd 9)
+##### Tireless Devotion (Ex) (requires faithful shepherd 9)
 
 The faithful shepherd may use Protection and Life sphere abilities even while dazed, nauseated, or stunned. Whenever she is under any of these effects, she may still take a standard action in order to use a sphere ability. If the character is nauseated, this standard action is in place of the move action usually allowed. She must spend an extra spell point to do this, in addition to the normal costs of the ability.
 
@@ -128,27 +128,27 @@ This replaces spontaneous casting.
 
 ---
 
-# New Feats
+## New Feats
 
-#### Extra Divine Works
+##### Extra Divine Works
 
 **Prerequisite:** Divine works class feature.
 
 **Benefit:** You may choose an additional option from the list of possible divine works class features. You may choose this feat multiple times. Each time, choose another divine work.
 
-#### Extra Magic Talent
+##### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-#### Extra Spell Points
+##### Extra Spell Points
 
 **Prerequisite:** Spell pool.
 
 **Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
 
-#### Sphere Focus
+##### Sphere Focus
 
 **Prerequisite:** Casting class feature.
 

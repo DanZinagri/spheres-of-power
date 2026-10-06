@@ -11,23 +11,23 @@ A devouring hole is void given form and transformed into a construct. A devourin
 This circle of pitch-black fabric hides an extradimensional space sized to fit a dozen bodies.
 XP 4,800
 N Large construct
-**Init**+0**Senses**darkvision 60 ft., low-light vision;**Perception** +0
+**Init** +0 **Senses** darkvision 60 ft., low-light vision; **Perception** +0
 
 **Defenses**
-**AC**18,**touch**14,**flat-footed** 14 (+4 Dex, +4 natural)
+**AC** 18, **touch** 14, **flat-footed** 14 (+4 Dex, +4 natural)
 **hp** 75 (10d10+20)
-**Fort**+2**Ref**+6**Will** +2
-**Defensive Abilities**DR 5/magic;**Immune** construct traits, magic
+**Fort** +2 **Ref** +6 **Will** +2
+**Defensive Abilities** DR 5/magic; **Immune** construct traits, magic
 
 **Offense**
 **Speed** 20 ft.
 **Melee** bite (1d6+7 plus devouring darkness and grab)
-**Space**10 ft.;**Reach** 5 ft.;
+**Space** 10 ft.; **Reach** 5 ft.;
 **Special Attack** extradimensional gullet (1d6+7 plus devouring darkness), devouring darkness
 
 **Statistics**
-**Str**20**Dex**18**Con**—**Int**—**Wis**10**Cha** 14
-**Base Atk**+10;**CMB**+15 (+23 grapple);**CMD** +30 (cannot be tripped)
+**Str** 20 **Dex** 18 **Con** — **Int** — **Wis** 10 **Cha** 14
+**Base Atk** +10; **CMB** +15 (+23 grapple); **CMD** +30 (cannot be tripped)
 **SQ** compression, nothing to see here
 
 **Special Abilities**
@@ -45,5 +45,5 @@ N Large construct
 **Construction**
 A devouring hole is created from a normal portable hole given animation and purpose through an elaborate ritual requiring rare reagents. The crafting cost assumes the creator must purchase a portable hole at market price. Adjust the cost down if the creator can supply one by other means or craft one herself.
 
-**CL**12th;**Price** 50,000 gp
-Forge Construct, Dark sphere (Hungry Darkness), Enhancement sphere (Animate Object), Warp sphere (Extradimensional Storage); **Special**creator must have MSB 12;**Skill**Craft (cloth) DC 15;**Cost** 25,000 gp
+**CL** 12th; **Price** 50,000 gp
+Forge Construct, Dark sphere (Hungry Darkness), Enhancement sphere (Animate Object), Warp sphere (Extradimensional Storage); **Special** creator must have MSB 12; **Skill** Craft (cloth) DC 15; **Cost** 25,000 gp

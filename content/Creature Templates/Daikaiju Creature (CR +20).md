@@ -116,7 +116,7 @@ Giant strange creatures that often seem to assault cities, island explorers, and
 
 - **Tsunami (Ex):** As a standard action a daikaiju can generate a tsunami (see the Pathfinder Roleplaying Game: Advanced Player’s Guide), as a 30th level caster.
 
-**Ability Scores:** **Str**becomes 44,**Dex**becomes 20,**Con**becomes 40,**Int**becomes 3,**Wis**+10,**Cha** +10
+**Ability Scores:** **Str** becomes 44, **Dex** becomes 20, **Con** becomes 40, **Int** becomes 3, **Wis** +10, **Cha** +10
 
 **Organization** solitary (unique)
 
@@ -128,13 +128,13 @@ Giant strange creatures that often seem to assault cities, island explorers, and
 
 ### Encase in Ice
 
-**School:** Evocation [Cold];**Level:** Sorcerer/Wizard 8
+**School:** Evocation [Cold]; **Level:** Sorcerer/Wizard 8
 **Casting Time:** 1 standard action
 **Components:** V, S, M (a handful of ice shavings)
 **Range:** Medium (100 ft. + 10 ft./level)
 **Target:** One creature of Large size or smaller
 **Duration:** Instantaneous
-**Saving Throw:** None;**Spell Resistance:** Yes
+**Saving Throw:** None; **Spell Resistance:** Yes
 
 You form a large block of ice around the target creature, trapping the creature inside. The ice is one inch thick per caster level (maximum 25 inches) extending outward from the target. While trapped inside the ice, the victim is helpless (though luckily for her it is difficult to perform a coup de grace); she cannot move or speak but is aware of her surroundings and can engage in purely mental activities.
 

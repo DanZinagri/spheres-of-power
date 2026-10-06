@@ -12,13 +12,13 @@ This burly dog is fitted with a small saddle. A low, menacing growl rumbles up f
 **Mythic Riding Dog (CR 1/MR 1)**
 XP 400
 N Medium animal (mythic)
-**Init**+2;**Senses** low-light vision, scent; Perception +8
+**Init** +2; **Senses** low-light vision, scent; Perception +8
 
 #### Defense
 
-**AC**14,**touch**12,**flat-footed** 12 (+2 Dex, +2 natural)
+**AC** 14, **touch** 12, **flat-footed** 12 (+2 Dex, +2 natural)
 **hp** 21 (2d8+12)
-**Fort**+5,**Ref**+5,**Will** +1
+**Fort** +5, **Ref** +5, **Will** +1
 **Defensive Abilities** piteous whineMA
 
 #### Offense
@@ -28,10 +28,10 @@ N Medium animal (mythic)
 **Special Attacks** mythic power (1/day, surge 1d6), trip, tuggerMA
 
 Statistics
-**Str**15,**Dex**15,**Con**15,**Int**2,**Wis**12,**Cha** 6
-**Base Atk**+1;**CMB**+3;**CMD** 15 (19 vs. trip)
+**Str** 15, **Dex** 15, **Con** 15, **Int** 2, **Wis** 12, **Cha** 6
+**Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip)
 **Feats** Skill Focus (Perception)MF
-**Skills**Acrobatics +6 (+14 when jumping), Perception +8, Survival +1 (+5 when tracking by scent);**Racial Modifiers** +4 Acrobatics when jumping, +4 Survival when tracking by scent
+**Skills** Acrobatics +6 (+14 when jumping), Perception +8, Survival +1 (+5 when tracking by scent); **Racial Modifiers** +4 Acrobatics when jumping, +4 Survival when tracking by scent
 
 #### Ecology
 
@@ -50,13 +50,13 @@ Statistics
 **Mythic Advanced Riding Dog (CR 5/MR 2)**
 XP 1600
 N Medium animal (mythic)
-**Init**+4;**Senses** low-light vision, scent; Perception +10
+**Init** +4; **Senses** low-light vision, scent; Perception +10
 
 #### Defense
 
-**AC**19,**touch**14,**flat-footed** 15 (+4 Dex, +5 natural)
+**AC** 19, **touch** 14, **flat-footed** 15 (+4 Dex, +5 natural)
 **hp** 58 (5d8+36)
-**Fort**+8,**Ref**+8,**Will** +4
+**Fort** +8, **Ref** +8, **Will** +4
 **Defensive Abilities** piteous whineMA; DR 5/epic
 
 #### Offense
@@ -67,10 +67,10 @@ N Medium animal (mythic)
 
 #### Statistics
 
-**Str**22,**Dex**19,**Con**19,**Int**2,**Wis**16,**Cha** 10
-**Base Atk**+3;**CMB**+9;**CMD** 23 (27 vs. trip)
+**Str** 22, **Dex** 19, **Con** 19, **Int** 2, **Wis** 16, **Cha** 10
+**Base Atk** +3; **CMB** +9; **CMD** 23 (27 vs. trip)
 **Feats** Skill Focus (Perception)MF, Step Up, Weapon Focus (bite)
-**Skills**Acrobatics +8 (+16 when jumping), Perception +10, Stealth +8, Survival +4 (+8 scent tracking), Swim +9;**Racial Modifiers** +4 Acrobatics when jumping, +4 Survival when tracking by scent
+**Skills** Acrobatics +8 (+16 when jumping), Perception +10, Stealth +8, Survival +4 (+8 scent tracking), Swim +9; **Racial Modifiers** +4 Acrobatics when jumping, +4 Survival when tracking by scent
 **SQ** lick woundsMA
 
 #### Ecology

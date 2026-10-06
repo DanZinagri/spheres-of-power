@@ -14,36 +14,36 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Alcoholic
+#### Alcoholic
 
 You do not gain the brutal breaker ability. You cannot possess both this and the Teetotaler drawback. You gain Double Chug with this drawback.
 
-## Bar Regular (Utility Start) [LotS]
+#### Bar Regular (Utility Start) [LotS]
 
 You do not gain the brutal breaker ability. You gain one of Boozehound, Charming Drunk, or Drunken Insight as a bonus talent.
 
-## Broken Arms [SA:MD]
+#### Broken Arms [SA:MD]
 
 You do not gain the hard drinker ability, and cannot gain the drunk status or select (drunk) talents. You gain Perfect Break with this drawback.
 
 **Incompatible:** Alcoholic, Gourmand, Perpetual Drunk, Teetotaler.
 
-## Gourmand [High. HB]
+#### Gourmand [High. HB]
 
 You do not gain the brutal breaker ability. You cannot possess this drawback if you have already traded away your brutal breaker or hard drinker abilities with other sphere-specific drawbacks. You gain Postprandial Maudlin with this drawback.
 
-## Guarded Brawler [SA:MD2]
+#### Guarded Brawler [SA:MD2]
 
 You do not gain the hard drinker ability, and cannot gain the drunk status or select (drunk) talents. You gain Improvised Shield with this drawback.
 
 **Incompatible:** Alcoholic, Broken Arms, Gourmand, Perpetual Drunk, Teetotaler.
 
-## Perpetual Drunk [SA:MD]
+#### Perpetual Drunk [SA:MD]
 
 You do not gain the brutal breaker ability. You gain High On Fumes with this drawback.
 
 **Incompatible:** Alcoholic, Broken Arms, Gourmand, Teetotaler.
 
-## Teetotaler
+#### Teetotaler
 
 You do not gain the hard drinker ability, and cannot gain the drunk status nor select (drunk) talents. You cannot possess both this and the Alcoholic drawback. You gain Barroom Expert with this drawback.

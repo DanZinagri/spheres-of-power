@@ -12,27 +12,27 @@ A slithering globule of shining silvery metal slides with uncanny speed, flowing
 **Quicksilver Ooze (CR 12/MR 5)**
 XP 19,200
 N Large ooze (mythic)
-**Init**+5;**Senses** Perception +0
+**Init** +5; **Senses** Perception +0
 
 #### Defense
 
-**AC**29,**touch**15,**flat-footed** 23 (+5 Dex, +1 dodge, +14 natural, –1 size)
+**AC** 29, **touch** 15, **flat-footed** 23 (+5 Dex, +1 dodge, +14 natural, –1 size)
 **hp** 187 (14d8+124)
-**Fort**+10,**Ref**+11,**Will** +4
-**Defensive Abilities**block attacksMA, improved evasion; DR 10/epic;**Immune** electricity, fire, ooze traits
+**Fort** +10, **Ref** +11, **Will** +4
+**Defensive Abilities** block attacksMA, improved evasion; DR 10/epic; **Immune** electricity, fire, ooze traits
 **Weaknesses** torpor
 
 #### Offense
 
 **Speed** 60 ft., climb 30 ft.
 **Melee** 2 slams +15 (3d6+6/19–20/x3 plus mercuric poison)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** augmented criticalMA, fluid accelerationMA, melt metal, metallic malleability, mythic power (5/day, surge +1d8+1), mercuric poison
 
 #### Statistics
 
-**Str**23,**Dex**21,**Con**22,**Int**—,**Wis**10,**Cha** 1
-**Base Atk**+10;**CMB**+17;**CMD** 33 (can’t be tripped)
+**Str** 23, **Dex** 21, **Con** 22, **Int** —, **Wis** 10, **Cha** 1
+**Base Atk** +10; **CMB** +17; **CMD** 33 (can’t be tripped)
 **Feats** Extra Mythic PowerMF, Lightning ReflexesMF, B, Potent SurgeMF
 **Skills** Climb +14
 **SQ** compression, mimetic magicMA, thermoelectric diffusionMA
@@ -55,7 +55,7 @@ N Large ooze (mythic)
 
 Metal weapons that strike a quicksilver ooze likewise lose 1 point of hardness and take 1d6 points of damage (bypassing hardness) with each attack that strikes the ooze’s touch Armor Class (DC 23 Reflex negates), even if they do not hit its normal Armor Class or do not overcome its damage reduction. This ability has no effect on artifacts, epic magic items, or items made of gold, silver, or Elysian bronze, but constructs made of metal are affected as if they were objects. The save DC is Constitution-based.
 
-**Mercuric Poison (Ex)**Slam-injury;**save**Fort DC 23;**frequency**1/ round for 6 rounds;**effect**1d4 Dex and sickened for 1 minute;**cure** 2 consecutive saves.
+**Mercuric Poison (Ex)** Slam-injury; **save** Fort DC 23; **frequency** 1/ round for 6 rounds; **effect** 1d4 Dex and sickened for 1 minute; **cure** 2 consecutive saves.
 
 **Metallic Malleability (Ex)** A quicksilver ooze’s natural attacks deal bludgeoning, piercing, and slashing damage and are considered adamantine, cold iron, epic, and silver for the purpose of overcoming damage reduction.
 

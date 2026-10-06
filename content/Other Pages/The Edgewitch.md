@@ -15,13 +15,13 @@ Unlike most sample builds, the Edgewitch uses slightly different rules - includi
 **The Edgewitch**
 Male Oni-spawn tiefling hedgewitch (martial hedgewitch) 1 (Pathfinder Player Companion: Blood of Fiends 22, Pathfinder RPG Bestiary 264)
 CN Medium outsider (native)
-**Init**+3;**Senses**darkvision 60 ft.;**Perception** +4
+**Init** +3; **Senses** darkvision 60 ft.; **Perception** +4
 
 ## Defense
 
-**AC**14,**touch**11,**flat-footed** 13 (+3 armor, +1 Dex)
+**AC** 14, **touch** 11, **flat-footed** 13 (+3 armor, +1 Dex)
 **hp** 11 (1d8+3)
-**Fort**+2,**Ref**+1,**Will** +5; +2 trait bonus vs. curses
+**Fort** +2, **Ref** +1, **Will** +5; +2 trait bonus vs. curses
 **Resist** cold 5, electricity 5, fire 5
 **Weaknesses** magical signs, mental focus, reclusive (black magic curse), strenuous, verbal casting
 
@@ -34,8 +34,8 @@ CN Medium outsider (native)
 
 ## Statistics
 
-**Str**18,**Dex**12,**Con**14,**Int**10,**Wis**16,**Cha** 6
-**Base Atk**+0;**CMB**+6 (+2 Racial);**CMD** 15
+**Str** 18, **Dex** 12, **Con** 14, **Int** 10, **Wis** 16, **Cha** 6
+**Base Atk** +0; **CMB** +6 (+2 Racial); **CMD** 15
 **Feats** Spell Attack
 **Traits** born damned, reactionary
 **Skills** Climb +7, Disguise +0, Intimidate +4, Perception +4, Sense Motive +7, Stealth +4, Survival +4; Racial Modifiers +2 Disguise, +2 Intimidate
@@ -137,9 +137,9 @@ When using Energy Blade, Cryptic Strike, Time Strike, or Exsanguinating Strike a
 
 # Suggested Growth
 
-For martial talents, take **Whirlwind Draw (disarm)**and**Iai Slash (bleed)** from the Duelist sphere. Once you have these, you an regularly disarm enemies, then re-draw your weapon on the next turn to hit with an Iai slash for more bleed damage.
+For martial talents, take **Whirlwind Draw (disarm)** and **Iai Slash (bleed)** from the Duelist sphere. Once you have these, you an regularly disarm enemies, then re-draw your weapon on the next turn to hit with an Iai slash for more bleed damage.
 
-For magic talents, take **Hemorrhage**and**Eye Bleed**. Since you have Exsanguinating Strike and Spell Attack, you'll be able to apply even more bleed damage to foes, as well as further blind and limit them. Combined with your disarms, this will significantly weaken many enemies you might face. In campaigns heavy on non-bleeding enemies, consider other talents.
+For magic talents, take **Hemorrhage** and **Eye Bleed**. Since you have Exsanguinating Strike and Spell Attack, you'll be able to apply even more bleed damage to foes, as well as further blind and limit them. Combined with your disarms, this will significantly weaken many enemies you might face. In campaigns heavy on non-bleeding enemies, consider other talents.
 
 Consider taking the Life Sphere and the Revitalize talent for self-healing, since your defense *is* a bit on the low side.
 
@@ -149,6 +149,6 @@ The Edgewitch focuses on dealing bleed damage to enemies. Your main attack is Ex
 
 You can (and should) spend your spell points freely to keep the magical bleeding going, especially on any enemy likely to live more than a round or two. The Edgewitch has several drawbacks that will quickly increase their spell points per day, and this is your only main use of spell points anyway, so don't be shy about using them on stronger foes.
 
-You should two-hand your katana when wielding it. However, if you want to improve your defense, you can take the **Duelist's Grip**and**Balanced Defense** talents from the Equipment sphere.
+You should two-hand your katana when wielding it. However, if you want to improve your defense, you can take the **Duelist's Grip** and **Balanced Defense** talents from the Equipment sphere.
 
 This character is also heavily built around its theme, and we encourage roleplaying to that.

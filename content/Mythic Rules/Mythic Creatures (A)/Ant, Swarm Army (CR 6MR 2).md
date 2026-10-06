@@ -13,28 +13,28 @@ A seething mass of angry arthropods swarms over everything in its path.
 XP 2,400
 Pathfinder Roleplaying Game Bestiary
 N Fine vermin (mythic, swarm)
-**Init**+3;**Senses** darkvision 60 ft., scent; Perception +4
+**Init** +3; **Senses** darkvision 60 ft., scent; Perception +4
 
 #### Defense
 
-**AC**23,**touch**21,**flat-footed** 20 (+3 Dex, +2 natural, +8 size)
+**AC** 23, **touch** 21, **flat-footed** 20 (+3 Dex, +2 natural, +8 size)
 **hp** 76 (11d8+27)
-**Fort**+7,**Ref**+6,**Will** +3
-**Defensive Abilities**dispersalMA, swarm traits;**Immune** weapon damage
+**Fort** +7, **Ref** +6, **Will** +3
+**Defensive Abilities** dispersalMA, swarm traits; **Immune** weapon damage
 
 #### Offense
 
 **Speed** 30 ft., climb 30 ft.
 **Melee** swarm (3d6)
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** chokeMA, clingMA, consume, distraction (DC 18), mythic power (2/day, surge +1d6)
 
 #### Statistics
 
-**Str**1,**Dex**17,**Con**10,**Int**—,**Wis**10,**Cha** 2
-**Base Atk**+8;**CMB**—;**CMD** —
+**Str** 1, **Dex** 17, **Con** 10, **Int** —, **Wis** 10, **Cha** 2
+**Base Atk** +8; **CMB** —; **CMD** —
 **Feats** Toughness
-**Skills**Climb +10, Perception +4;**Racial Modifiers** +4 Perception
+**Skills** Climb +10, Perception +4; **Racial Modifiers** +4 Perception
 
 #### Ecology
 

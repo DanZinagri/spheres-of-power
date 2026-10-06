@@ -41,7 +41,7 @@ Practitioners who train in certain spheres focused on unarmed combat, such as Bo
 
 #### Armored Momentum [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 When you perform a charge attack while wearing heavy armor, increase the bonus to attack rolls gained from charging by +2. In addition, if you are wearing heavy armor, you may expend martial focus as part of the charge to ignore the additional damage from a weapon with brace special feature readied against your charge.
 
@@ -71,7 +71,7 @@ When applying a (manhandle) talent, you may expend your martial focus to apply a
 
 #### Destabilizing Charge [Apoc]
 
-**Source:** [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)
+*Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
 When you perform a charge and successfully hit a creature, the creature loses their Dexterity bonus to their AC against the next attack roll made against them before the end of your next turn.
 
@@ -115,7 +115,7 @@ When you shove a target, that target suffers additional damage equal to 1/2 your
 
 #### Hammer
 
-As long as you have martial focus, whenever you would bull rush, drag, or reposition a creature into a space occupied by a wall, creature, or object no more than one size smaller than the creature, the target of the maneuver stops its movement in the adjacent space and both the creature and the wall, other creature, or object suffer bludgeoning damage. The amount of damage dealt is determined by the size of the creature being bull rushed, dragged, or repositioned, as indicated on the list below: **Fine**1d2,**Diminutive**1d3,**Tiny**1d4,**Small**1d6,**Medium**1d8,**Large**1d10,**Huge**2d6,**Gargantuan**2d8,**Colossal** 3d6. This damage is increased by the listed amount again for every 5-ft. square the creature would have traveled beyond the wall, other creature, or object.
+As long as you have martial focus, whenever you would bull rush, drag, or reposition a creature into a space occupied by a wall, creature, or object no more than one size smaller than the creature, the target of the maneuver stops its movement in the adjacent space and both the creature and the wall, other creature, or object suffer bludgeoning damage. The amount of damage dealt is determined by the size of the creature being bull rushed, dragged, or repositioned, as indicated on the list below: **Fine** 1d2, **Diminutive** 1d3, **Tiny** 1d4, **Small** 1d6, **Medium** 1d8, **Large** 1d10, **Huge** 2d6, **Gargantuan** 2d8, **Colossal** 3d6. This damage is increased by the listed amount again for every 5-ft. square the creature would have traveled beyond the wall, other creature, or object.
 
 You may take this talent a second time. If you do, you no longer require martial focus to apply its effects. In addition, all creatures are considered to be two sizes larger for the purpose of determining damage dealt by this talent, to a maximum of Colossal. [Alienist HB]
 
@@ -143,7 +143,7 @@ At +10 base attack bonus, whenever you perform a bull rush, drag, or reposition 
 
 #### Rugged Brutality [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 Whenever you successfully bull rush, drag, or reposition a creature through difficult terrain, the creature suffers 1d4 points of damage for every 5 feet they are forced to move this way (this damage is combined before applying damage reduction), in addition to any other damage the difficult terrain may cause due to moving through it–this damage is either bludgeoning, piercing, or slashing damage depending on the nature of the terrain (up to GMs discretion). This difficult terrain must be physical in nature (such as underbrush, rubble, etc.), and not caused by ‘visual’, mental, or illusory forms of difficult terrain (such as the Disorienting Patterns Light sphere talent).
 
@@ -179,7 +179,7 @@ When you perform a charge, you do not provoke attacks of opportunity when making
 
 #### Underfoot Trample [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When you make an overrun attempt while you have martial focus, you may forgo the combat maneuver check to instead allow the target a Reflex save. On a failure, the target is treated as if you had successfully overrun them. Creatures you would be unable to target with an overrun combat maneuver automatically succeed at this saving throw.
 
@@ -269,7 +269,7 @@ If you possess the Tombstone Burial legendary Wrestling sphere talent, you incre
 
 #### Momentous Force [3PP]
 
-**Source:** [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)
+*Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*
 
 **Prerequisites:** Brute Sphere (Quick Force), base attack bonus +10
 

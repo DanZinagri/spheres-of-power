@@ -12,30 +12,30 @@ A slight tremor in the man’s face heralds the arrival of a ghastly horror. Wha
 **Qomok (CR 14/MR 5)**
 XP 38,400
 CE Large aberration (alien, mythic, shapechanger)
-**Init**+11;**Senses** all-around vision, blindsight 60 ft., scent; Perception +23
+**Init** +11; **Senses** all-around vision, blindsight 60 ft., scent; Perception +23
 **Aura** frightful presence (30 ft., DC 22), unnatural aura (30 ft.)
 
 #### Defense
 
-**AC**25,**touch**11,**flat-footed** 23 (+2 Dex, +14 natural, -1 size)
+**AC** 25, **touch** 11, **flat-footed** 23 (+2 Dex, +14 natural, -1 size)
 **hp** 264 (16d8+152); regeneration 10 (acid, electricity, or fire; ceases during hibernation)
-**Fort**+19,**Ref**+14,**Will** +18
-**Defensive Abilities**hard to killMA, split (acid, electricity, or fire; 10 hp); DR 10/epic;**Immune** ability damage, ability drain, bleed, cold, death effects, disease, mind-affecting effects, ooze traits, petrification, sonic attacks
+**Fort** +19, **Ref** +14, **Will** +18
+**Defensive Abilities** hard to killMA, split (acid, electricity, or fire; 10 hp); DR 10/epic; **Immune** ability damage, ability drain, bleed, cold, death effects, disease, mind-affecting effects, ooze traits, petrification, sonic attacks
 **Weaknesses** vulnerable to acid, electricity, and fire
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** 2 extremities +20 (1d8+7/19-20/×3 plus grab), bite +19 (2d6+10) or feeding tendril +14 (1d3 plus attach, blood drain, and infection)
-**Space**10 ft.;**Reach** 10 ft. (20 ft. with feeding tendril)
+**Space** 10 ft.; **Reach** 10 ft. (20 ft. with feeding tendril)
 **Special Attacks** blood drain (1d3 Con), infectionMA (DC 25), mythic power (5/day, surge +1d8)
 
 #### Statistics
 
-**Str**25,**Dex**14,**Con**24,**Int**24,**Wis**18,**Cha** 18
-**Base Atk**+12;**CMB**+20;**CMD** 32 (can’t be tripped)
+**Str** 25, **Dex** 14, **Con** 24, **Int** 24, **Wis** 18, **Cha** 18
+**Base Atk** +12; **CMB** +20; **CMD** 32 (can’t be tripped)
 **Feats** CleaveMF, Great Fortitude, Improved Critical (extremities)MF, Improved InitiativeMF, Lightning Reflexes, Power Attack, Weapon Focus (extremities)
-**Skills**Acrobatics +21, Bluff +28, Climb +17, Diplomacy +20, Disguise +28, Intimidate +23, Knowledge (dungeoneering) +31, Knowledge (nature) +31, Perception +23, Sense Motive +20, Stealth +29, Swim +26;**Racial Modifiers** +8 Bluff, +8 Disguise, +8 Stealth, +16 all Knowledge skills
+**Skills** Acrobatics +21, Bluff +28, Climb +17, Diplomacy +20, Disguise +28, Intimidate +23, Knowledge (dungeoneering) +31, Knowledge (nature) +31, Perception +23, Sense Motive +20, Stealth +29, Swim +26; **Racial Modifiers** +8 Bluff, +8 Disguise, +8 Stealth, +16 all Knowledge skills
 **Languages** Elder Thing (can’t speak); telepathy (only with other qomoks, 100 ft.)
 **SQ** alter shapeMA, assimiliateMA, assimilated knowledge, compression, hibernation, no breath
 
@@ -79,7 +79,7 @@ However, if a qomok kills a creature with its feeding tendril and is prevented f
 
 **Infection (Ex)** When a creature takes Con damage from a qomok’s blood drain attack (and does not die) or a creature makes a successful bite attack against a qomok, it must succeed on a DC 25 Fortitude save or contract an exceptionally virulent alien infection that eventually transforms the creature into a qomok. This is a disease effect. After an infected creature transforms into a qomok, it can only be restored to life using miracle, true resurrection, or wish. A qomok can also expend two uses of mythic power as a free action to expose a creature to its alien infection with a mere touch (delivered either as part of a natural attack, as a separate melee attack using the qomok’s highest base attack bonus, or as an out-of-combat action to touch an unsuspecting creature).
 
-*Alien Infection:* Blood drain, successful bite attack against the qomok, or qomok’s touch—injury or contact; **save**Fortitude DC 25;**onset**immediate;**frequency**1/minute;**effect**victim transforms into a qomok after failing 3 Fortitude saves;**cure** 3 consecutive saves. The save DC is Constitution-based.
+*Alien Infection:* Blood drain, successful bite attack against the qomok, or qomok’s touch—injury or contact; **save** Fortitude DC 25; **onset** immediate; **frequency** 1/minute; **effect** victim transforms into a qomok after failing 3 Fortitude saves; **cure** 3 consecutive saves. The save DC is Constitution-based.
 
 The alien infection works insidiously, with the victim often feeling and showing no signs of discomfort. Anyone who examines the victim and succeeds on a DC 44 Heal check identifies the alien infection. When the infection transforms a creature into a qomok, the transformation is extremely subtle as well. Creatures observing the victim as he or she transforms must succeed on a DC 30 Sense Motive check to notice something is amiss. Infected creatures that die before transforming into a qomok rise as a qomok 1d6 minutes after death. Creatures killed and reduced to sludge by a qomok’s blood drain attack—even those normally immune to diseases—are automatically infected and transform into a qomok 2d6 rounds after death if the qomok does not assimilate the creature’s body before that time elapses.
 

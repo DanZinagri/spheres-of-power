@@ -14,19 +14,19 @@ Some plague feats grant you access to customized diseases, or the ability to enh
 
 When you first gain the Virulent Ailment feat, you can create a generic disease called the blight, which has the following statistics:
 
-#### Blight
+##### Blight
 
-**Onset:** Immediate;**Frequency:** 1/round,**Cure:** 1 save**Effect:** 1d6 damage that cannot be healed until the disease is cured
+**Onset:** Immediate; **Frequency:** 1/round, **Cure:** 1 save **Effect:** 1d6 damage that cannot be healed until the disease is cured
 
 ---
 
-### Encompassing Illness (Plague)
+#### Encompassing Illness (Plague)
 
 **Prerequisites:** Blood sphere and 5th caster level; or Death sphere and 5th caster level; or Duelist sphere and base attack bonus +5; or Alchemy sphere and base attack bonus +5; Virulent Ailment, character level 9th.
 
 **Benefit:** Diseases you create through Plague feats become incredibly infectious. Created diseases can affect creatures that have immunity to diseases or Fortitude saves, although such creatures gain a +4 bonus to the saving throw (+8 if they possess no Constitution score). This allows your diseases to even infect constructs and other non-living creatures, although they cannot infect anything that does not have at least one Hit Dice.
 
-### Pathological Host (Plague)
+#### Pathological Host (Plague)
 
 **Prerequisites:** Blood sphere and 5th caster level; or Death sphere and 5th caster level; or Duelist sphere and base attack bonus +5; or Alchemy sphere and base attack bonus +5; Virulent Ailment, character level 7th.
 
@@ -36,7 +36,7 @@ Afterwards, you become infected with the disease, but suffer none of its negativ
 
 **Special:** Abilities that primarily use your blood as a weapon (such as the Gory Armaments (blood art) talent), or otherwise affect a creature using your blood may additionally cause a saving throw against the hosted disease, subject to GM discretion.
 
-### Pathology (Plague)
+#### Pathology (Plague)
 
 **Prerequisites:** Blood sphere and 5th caster level; or Death sphere and 5th caster level; or Duelist sphere and base attack bonus +5; or Alchemy sphere and base attack bonus +5; Virulent Ailment.
 
@@ -46,7 +46,7 @@ You may create these diseases and use them with your other plague feats. The ons
 
 **Special:** This feat may be selected multiple times, selecting two more diseases each time.
 
-### Rotten Hordes (Necrosis, Plague)
+#### Rotten Hordes (Necrosis, Plague)
 
 **Prerequisites:** Blood sphere and 5th caster level; or Death sphere and 5th caster level; or Duelist sphere and base attack bonus +5; or Alchemy sphere and base attack bonus +5; Death sphere (Shroud), Virulent Ailment.
 
@@ -54,7 +54,7 @@ You may create these diseases and use them with your other plague feats. The ons
 
 **Four Necrosis Feats:** When you reanimate a creature you marked through the use of this feat, the undead created is afflicted with a single disease made with your plague feats that it suffered from at the time of its death (if the creature suffered from multiple diseases, pick one). Whenever that undead strikes with a natural attack, the victim must succeed at a saving throw against the disease or suffer from it as normal. You may mark creatures afflicted with a disease this way, as per the Shroud talent.
 
-### Virulent Ailment (Plague)
+#### Virulent Ailment (Plague)
 
 **Prerequisites:** Blood sphere and 5th caster level; or Death sphere and 5th caster level; or Duelist sphere and base attack bonus +5; or Alchemy sphere and base attack bonus +5.
 

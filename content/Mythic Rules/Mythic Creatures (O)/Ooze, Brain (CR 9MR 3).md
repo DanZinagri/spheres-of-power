@@ -11,21 +11,21 @@ parent: "[[Mythic Creatures (O)]]"
 XP 6,400
 Pathfinder Roleplaying Game Bestiary 3
 NE Tiny ooze (mythic)
-**Init**+7;**Senses** blindsight 60 ft.; Perception +11
+**Init** +7; **Senses** blindsight 60 ft.; Perception +11
 **Aura** psychic noise (10 ft., DC 19, 1d4 rounds)
 
 #### Defense
 
-**AC**27,**touch**20,**flat-footed** 21 (+4 armor, +4 Dex, +2 dodge, +2 insight, +3 natural, +2 size)
+**AC** 27, **touch** 20, **flat-footed** 21 (+4 armor, +4 Dex, +2 dodge, +2 insight, +3 natural, +2 size)
 **hp** 109 (10d8+64)
-**Fort**+7,**Ref**+9,**Will** +6
-**Defensive Abilities**evasion, prescience; DR 5/epic;**Immune** ooze traits
+**Fort** +7, **Ref** +9, **Will** +6
+**Defensive Abilities** evasion, prescience; DR 5/epic; **Immune** ooze traits
 
 #### Offense
 
 **Speed** 5 ft., fly 60 ft. (good)
 **Melee** 2 tentacles +13 touch (1d6 electricity plus neural pulse)
-**Space**2 1/2 ft.;**Reach** 5 ft.
+**Space** 2 1/2 ft.; **Reach** 5 ft.
 **Special Attacks** brain drainMA, mythic power (3/day, surge 1d6)
 
 **Spell-Like Abilities** (CL 10th; concentration +14)
@@ -35,8 +35,8 @@ At will—augury, charm monster (DC 18), dominate animal (DC 17), dominate perso
 
 #### Statistics
 
-**Str**4,**Dex**19,**Con**18,**Int**15,**Wis**12,**Cha** 19
-**Base Atk**+7;**CMB**+9;**CMD** 23 (can’t be tripped)
+**Str** 4, **Dex** 19, **Con** 18, **Int** 15, **Wis** 12, **Cha** 19
+**Base Atk** +7; **CMB** +9; **CMD** 23 (can’t be tripped)
 **Feats** Defensive Combat Training, DodgeMF, Iron Will, Mobility, Weapon FinesseMF
 **Skills** Bluff +10, Diplomacy +5, Fly +23, Perception +11, Sense Motive +11, Stealth +17
 **Languages** Aklo (can’t speak); telepathy 100 ft

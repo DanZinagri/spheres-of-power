@@ -13,29 +13,29 @@ This three-legged freak is mostly mouth. Three tentacles, two tipped with barbs 
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 N Large aberration (mythic)
-**Init**+0;**Senses** darkvision 60 ft., scent; Perception +10
+**Init** +0; **Senses** darkvision 60 ft., scent; Perception +10
 **Aura** stenchMA (DC 14, 10 rounds)
 
 #### Defense
 
-**AC**19,**touch**9,**flat-footed** 19 (+10 natural, –1 size)
+**AC** 19, **touch** 9, **flat-footed** 19 (+10 natural, –1 size)
 **hp** 55 (6d8+28)
-**Fort**+3,**Ref**+2,**Will** +6
+**Fort** +3, **Ref** +2, **Will** +6
 **Defensive Abilities** **Immune** disease
 
 #### Offense
 
 **Speed** 20 ft.
 **Melee** bite +8 (1d8+5 plus disease), 2 tentacles +6 (1d6+7 plus grab)
-**Space**10 ft.;**Reach** 10 ft. (15 ft. with tentacle)
+**Space** 10 ft.; **Reach** 10 ft. (15 ft. with tentacle)
 **Special Attacks** constrict (tentacle, 1d6+7), garbage gulletMA, mythic power (2/day, surge +1d6)
 
 #### Statistics
 
-**Str**20,**Dex**10,**Con**13,**Int**5,**Wis**13,**Cha** 6
-**Base Atk**+4;**CMB**+10 (+14 grapple);**CMD** 20 (22 vs. trip)
+**Str** 20, **Dex** 10, **Con** 13, **Int** 5, **Wis** 13, **Cha** 6
+**Base Atk** +4; **CMB** +10 (+14 grapple); **CMD** 20 (22 vs. trip)
 **Feats** Multiattack, Skill Focus (Perception), Toughness
-**Skills**Perception +10, Stealth +2 (+10 in lair);**Racial Modifiers** +8 Stealth in lair
+**Skills** Perception +10, Stealth +2 (+10 in lair); **Racial Modifiers** +8 Stealth in lair
 **Languages** Common
 **SQ** powerful blowsMA (tentacle)
 
@@ -47,7 +47,7 @@ N Large aberration (mythic)
 
 #### Special Abilities
 
-**Disease (Ex)** *Filth fever:* Bite—injury; **save**Fortitude DC 14;**onset**1d3 days;**frequency**1/day;**effect**1d3 Dex damage and 1d3 Con damage;**cure** 2 consecutive saves. The save DC is Constitution-based.
+**Disease (Ex)** *Filth fever:* Bite—injury; **save** Fortitude DC 14; **onset** 1d3 days; **frequency** 1/day; **effect** 1d3 Dex damage and 1d3 Con damage; **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 **Garbage Gullet (Ex)** A mythic otyugh’s maw is a fetid pit of corruption and filth unimaginable, and it constantly absorbs and exudes putrescence from every pore. A creature constricted by a mythic otyugh or failing its save against the otyugh’s bite attack becomes sickened for 1d4 rounds. On a critical hit, this effect lasts 1d4 minutes, and the onset of disease is immediate on a failed save.
 

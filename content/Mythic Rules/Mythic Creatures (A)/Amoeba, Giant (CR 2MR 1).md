@@ -11,13 +11,13 @@ parent: "[[Mythic Creatures (A)]]"
 XP 600
 Pathfinder Roleplaying Game Bestiary 2
 N Small ooze (aquatic, mythic)
-**Init**–5;**Senses** blindsight 30 ft.; Perception –5
+**Init** –5; **Senses** blindsight 30 ft.; Perception –5
 
 #### Defense
 
-**AC**7,**touch**6,**flat-footed** 7 (–5 Dex, +1 natural, +1 size)
+**AC** 7, **touch** 6, **flat-footed** 7 (–5 Dex, +1 natural, +1 size)
 **hp** 23 (2d8+14)
-**Fort**+3,**Ref**–5,**Will** –5
+**Fort** +3, **Ref** –5, **Will** –5
 **Defensive Abilities** **Immune** ooze traits
 
 #### Offense
@@ -28,8 +28,8 @@ N Small ooze (aquatic, mythic)
 
 #### Statistics
 
-**Str**12,**Dex**1,**Con**16,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+1;**CMB**+1 (+5 grapple);**CMD** 6 (can’t be tripped)
+**Str** 12, **Dex** 1, **Con** 16, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +1; **CMB** +1 (+5 grapple); **CMD** 6 (can’t be tripped)
 **Feats** Extra Mythic PowerMF
 **Skills** Climb +9, Swim +9
 **SQ** amphibious, fissile filthMA, symbiotic grapplerMA

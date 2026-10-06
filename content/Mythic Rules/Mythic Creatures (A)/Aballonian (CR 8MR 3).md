@@ -13,14 +13,14 @@ This insectile construct skitters around on metallic legs, its manipulators clac
 XP 4,800
 Pathfinder Roleplaying Game campaign setting products
 N Medium construct (alien, mythic)
-**Init**+2;**Senses** darkvision 60 ft., low-light vision; Perception +10
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; Perception +10
 
 #### Defense
 
-**AC**25,**touch**14,**flat-footed** 23 (+2 deflection, +2 Dex, +11 natural)
+**AC** 25, **touch** 14, **flat-footed** 23 (+2 deflection, +2 Dex, +11 natural)
 **hp** 105 (10d10+50)
-**Fort**+3,**Ref**+7,**Will** +5; +2 against bursts, rays, and line-shaped effects
-**Defensive Abilities**deflector screenMA; DR 5/adamantine and epic;**Immune** construct traits
+**Fort** +3, **Ref** +7, **Will** +5; +2 against bursts, rays, and line-shaped effects
+**Defensive Abilities** deflector screenMA; DR 5/adamantine and epic; **Immune** construct traits
 **Weaknesses** sunlight dependency
 
 #### Offense
@@ -32,8 +32,8 @@ N Medium construct (alien, mythic)
 
 #### Statistics
 
-**Str**21,**Dex**14,**Con**—,**Int**17,**Wis**10,**Cha** 11
-**Base Atk**+10;**CMB**+15 (+19 grapple);**CMD** 29
+**Str** 21, **Dex** 14, **Con** —, **Int** 17, **Wis** 10, **Cha** 11
+**Base Atk** +10; **CMB** +15 (+19 grapple); **CMD** 29
 **Feats** Improved CriticalMF (claw), Iron Will, Lightning Reflexes, Power AttackMF, Weapon Focus (claw)
 **Skills** Acrobatics +12 (+16 when jumping), Climb +23, Knowledge (engineering) +13, Perception +10, Stealth +12
 **Languages** Common; shortwave 100 ft.

@@ -13,14 +13,14 @@ Some calamity has befallen this angelic warrior. Wings stained black shear the a
 XP 9,600
 Pathfinder Roleplaying Game Bestiary
 LE Medium outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+8;**Senses** darkvision 60 ft., see in darkness, true seeing; Perception +16
+**Init** +8; **Senses** darkvision 60 ft., see in darkness, true seeing; Perception +16
 
 #### Defense
 
-**AC**29,**touch**19,**flat-footed** 20 (+8 Dex, +1 dodge, +10 natural)
+**AC** 29, **touch** 19, **flat-footed** 20 (+8 Dex, +1 dodge, +10 natural)
 **hp** 134 (9d10+85)
-**Fort**+11,**Ref**+14,**Will** +7
-**Defensive Abilities**DR 5/epic and good;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 23
+**Fort** +11, **Ref** +14, **Will** +7
+**Defensive Abilities** DR 5/epic and good; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 23
 
 #### Offense
 
@@ -36,8 +36,8 @@ At will—fear (single target, DC 19), greater teleport (self plus 50 lbs. of ob
 
 #### Statistics
 
-**Str**20,**Dex**27,**Con**21,**Int**14,**Wis**18,**Cha** 21
-**Base Atk**+9;**CMB**+14;**CMD** 33
+**Str** 20, **Dex** 27, **Con** 21, **Int** 14, **Wis** 18, **Cha** 21
+**Base Atk** +9; **CMB** +14; **CMD** 33
 **Feats** Combat Reflexes, DodgeB, MobilityB, Point-Blank ShotMF, Precise Shot, Rapid ShotMF, Shot on the Run
 **Skills** Acrobatics +20, Bluff +17, Diplomacy +14, Escape Artist +14, Fly +21, Intimidate +17, Knowledge (planes) +8, Knowledge (religion) +8, Perception +16, Sense Motive +10, Stealth +17
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.

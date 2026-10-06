@@ -113,7 +113,7 @@ Whenever you attempt a Perception check to oppose a creature’s Disguise or Ste
 
 #### Niche Research [plan] [utility] [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You can spend 1 hour (or a full-round action as a plan) researching a niche topic of knowledge. At the end of this time, choose a Lore skill. You temporarily gain the chosen Lore skill as an associated skill, gaining additional skill ranks as normal. This lasts for 1 day or until used again, whichever comes first.
 
@@ -135,7 +135,7 @@ You can outwit the creature as a cost to instead gain one notion for every 5 by 
 
 #### Tome Raider [utility] [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 You gain a +4 bonus to saving throws against written magical effects, ‘symbol’ effects, and similar effects (such as explosive runes, glyph of warding, symbol of death, etc), as well as any effects that may originate from reading a book, inscription, scroll, or any form of writing (such as a curse), but not from effects cast from such forms of writing (such as a scroll of fireball). You gain an automatic Perception check to notice such effects that you come 10 feet within, although this is made in secret by the GM.
 
@@ -216,7 +216,7 @@ This research can gain notions in the following ways:
 
 #### Build a Case (research, theory) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 As long as your research topic is of a creature, event, or group, you can begin to speculate about its activities or history. You can spend 1 minute in deep contemplation upon learning a new piece of information or about a creature that appears to have a connection to the subject of your research topic, learning if the piece of information is inconsequential to it.
 If the research topic has at least 3 notions, whenever you enter a new location, you immediately notice something or someone of particular interest or out of the ordinary (or otherwise, if there is nothing of interest) that is relevant to your research topic.
@@ -344,7 +344,7 @@ This research can gain notions in the following ways:
 
 #### Triangulate Teleportation (research, theory) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 As long as your research topic is about teleportation spells or the planes, you can provide more stability or potency to teleportation attempts. This research begins with one notion if your research topic requires a Knowledge (geography) or Knowledge (planes) check.
 
@@ -365,7 +365,7 @@ This theory can gain notions in the following ways:
 
 #### Trigonometric Angling (research, theory) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 As long as your research topic is about ranged or siege weapons or physics, you can work out a way of mitigating any extraneous circumstances. You reduce any penalties to ranged attack rolls you may suffer due to wind (or similar weather conditions, such as rain) by an amount equal to the number of notions this research has.
 
@@ -450,7 +450,7 @@ If the roll fails, you gain no information from this ability, while a roll of 91
 
 #### Lexical Obfuscation (Su) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisites:** Study sphere.
 
@@ -463,7 +463,7 @@ A detect magic spell reveals dim magic on the page in question but does not reve
 
 #### Retrocognition [utility] (Su) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisites:** Study sphere, Knowledge (any) ranks 10.
 

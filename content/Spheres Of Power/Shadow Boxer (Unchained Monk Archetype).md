@@ -8,15 +8,15 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Alignment
+## Alignment
 
 Any
 
-### Class Skills
+## Class Skills
 
 The shadow boxer loses Knowledge (religion) (Int) as a class skill and gains Knowledge (planes) (Int) and Bluff (Cha) as class skills.
 
-### Shadow Boxing (Su)
+## Shadow Boxing (Su)
 
 The shadow boxer may use his casting ability modifier in place of his Wisdom modifier for all class features.
 
@@ -28,13 +28,13 @@ A shadow boxer’s shadow has a reach of 10 feet at 1st level. At 5th level and 
 
 This ability replaces stunning fist and fast movement.
 
-### Tenebrous Mysticism
+## Tenebrous Mysticism
 
 At 1st level the shadow boxer gains Basic Magic Training as a bonus feat, but must select the Dark sphere. At 2nd level he gains Advanced Magic Training as a bonus feat or Extra Magic Talent if he already possesses it. He may take Extra Magic Talent as a monk bonus feat, but may only select talents from the Dark sphere when he does so.
 
 This replaces the bonus feats gained at first and second level.
 
-### Dark Ki (Su)
+## Dark Ki (Su)
 
 At 3rd level, a shadow boxer gains a pool of dark ki points, supernatural energy supplemented with the subtle influence of his shadow self. The number of points in a shadow boxer’s dark ki pool is equal to 1/2 his shadow boxer level + his casting ability modifier.
 

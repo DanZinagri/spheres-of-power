@@ -18,7 +18,7 @@ Sometimes when a phrenic scourge’s (see Psionic Bestiary by Dreamscarred Press
 
 **Size and Type:** The creature’s type changes to aberration with the augmented subtype. Do not recalculate HD, base attack bonuses, saves, or skill points. Size is unchanged.
 
-**Defensive Abilities:** Regeneration (equal to its Constitution modifier, fire), Split (slashing, half its unwounded hit point total), not subject to critical hits or flanking. Does not take additional damage from precision-based attacks, such as sneak attack.**Immune** poison, sleep effects, paralysis, polymorph, stunning.
+**Defensive Abilities:** Regeneration (equal to its Constitution modifier, fire), Split (slashing, half its unwounded hit point total), not subject to critical hits or flanking. Does not take additional damage from precision-based attacks, such as sneak attack. **Immune** poison, sleep effects, paralysis, polymorph, stunning.
 
 **Special Abilities:** A phrenic spawn creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -37,6 +37,6 @@ Creatures who witness a spawn reveal its horrific form for the first time, or sp
 
 This is treated as a polymorph disguise (including the +10 circumstance bonus to Disguise checks). This ability does not work on construct creatures; attempts to duplicate an undead creature cause it to become a living duplicate.
 
-**Abilities:** Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength and CMB checks, +2 to CMD),**Con**+4 (+2 hp per HD, +2 to Fortitude saves and any of the base creature’s Constitution-based DCs),**Int**+4 (add 2 bonus languages, add 2 skill points per HD, +2 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks, +2 to any of the base creature’s Intelligence-based DCs),**Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks, +3 to attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength and CMB checks, +2 to CMD), **Con** +4 (+2 hp per HD, +2 to Fortitude saves and any of the base creature’s Constitution-based DCs), **Int** +4 (add 2 bonus languages, add 2 skill points per HD, +2 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks, +2 to any of the base creature’s Intelligence-based DCs), **Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks, +3 to attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs).
 
 **Skills:** The base creature gains Bluff and Disguise as class skills, the bonus ranks usually gained from increased Intelligence are usually assigned to the Bluff and Disguise skills so it can maintain its facade.

@@ -11,31 +11,31 @@ Some people believe that rules do not apply to them. Others realize that rules d
 
 This archetype requires [[Sphere Bard|sphere bard]] or [[Champion Bard (Bard Archetype)|champion bard]].
 
-### Fool’s Play (Su)
+## Fool’s Play (Su)
 
 The knave can engage in a form of combat performance, in which he can effectively fight his enemies while also making them look (and feel) foolish. A combination of taunting, feinting, and inflicting minor (but embarrassing) injuries demoralize the opponent, while the performance increases the knave’s martial skill. While performing the fool’s play performance, the knave receives a +2 competence bonus on all melee attack and damage rolls, and a +2 dodge bonus to AC. Each of these bonuses increases by +1 every 4 class levels after the 1st to a maximum of +6 at 17th level. In addition, whenever the knave hits an opponent who can understand and hear what he is saying, he may use a free action to taunt them. A taunted enemy gets a -2 penalty to AC and attack rolls and can not benefit from any morale bonuses for 1 round.
 
 This replaces countersong.
 
-### Quiet Lullaby (Su)
+## Quiet Lullaby (Su)
 
 At 1st level, a knave learns a performance that helps disguise his true intentions. When he uses this form of performance, he may attempt a Perform check. Any attempt to detect the knave’s use of supernatural, spell-like, or sphere abilities by observing him must succeed in a Perception check against the knave’s Perform check. This includes the use of the lullaby itself. The effects of a disguised ability are not hidden.
 
 This replaces distraction.
 
-### A Knave of All Trades (Ex)
+## A Knave of All Trades (Ex)
 
 The knave knows more than he lets on, and can prepare a few tricks even seasoned wizards do not know. At 2nd level, whenever the knave rests and regains spell points, he may choose a sphere he possesses. He may use his class level as his caster level with that sphere. This stacks normally with caster levels gained from other sources.
 
 This replaces well-versed.
 
-### Peak Performance (Su)
+## Peak Performance (Su)
 
 At 12th level, the knave may play a song that extends the effect of his sphere abilities. Whenever he uses a sphere ability, any ally within 60 feet who can see or hear him is considered within range, and he may spend a spell point when using a sphere ability to affect any number of allies within 60 feet.
 
 This replaces soothing song.
 
-### Inspire Aggravation (Su)
+## Inspire Aggravation (Su)
 
 At 15th level, a knave learns to counter magical effects with his performance. When an enemy within 60 feet of the knave attempts to use a sphere ability while this song is in effect, it must succeed at a magical skill check against the knave’s MSD. If its tradition has the verbal components drawback or its spherecasting otherwise requires it to speak, it has a -4 penalty to this roll. If it fails, it may not use that sphere that turn, but do not lose its action or expend any spell points.
 

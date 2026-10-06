@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (T)]]"
 XP 2,400
 Pathfinder Roleplaying Game Bestiary 3
 N Medium outsider (extraplanar, mythic, water)
-**Init**+1;**Senses** all-around vision, darkvision 60 ft.; Perception +14, tremorsenseMA
+**Init** +1; **Senses** all-around vision, darkvision 60 ft.; Perception +14, tremorsenseMA
 
 #### Defense
 
-**AC**24,**touch**13,**flat-footed** 21 (+1 Dex, +2 dodge, +11 natural)
+**AC** 24, **touch** 13, **flat-footed** 21 (+1 Dex, +2 dodge, +11 natural)
 **hp** 77 (6d10+44)
-**Fort**+9,**Ref**+6,**Will** +3
-**Defensive Abilities**block attacksMA; DR 5/epic;**Resist** electricity 10, fire 10
+**Fort** +9, **Ref** +6, **Will** +3
+**Defensive Abilities** block attacksMA; DR 5/epic; **Resist** electricity 10, fire 10
 
 #### Offense
 
@@ -28,10 +28,10 @@ N Medium outsider (extraplanar, mythic, water)
 
 #### Statistics
 
-**Str**16,**Dex**13,**Con**19,**Int**10,**Wis**12,**Cha** 9
-**Base Atk**+6;**CMB**+9;**CMD** 21 (29 vs. trip)
+**Str** 16, **Dex** 13, **Con** 19, **Int** 10, **Wis** 12, **Cha** 9
+**Base Atk** +6; **CMB** +9; **CMD** 21 (29 vs. trip)
 **Feats** Blind-Fight, DodgeMF, Power Attack
-**Skills**Bluff +5, Escape Artist +10, Knowledge (planes) +9, Perception +14, Perform (act) +5, Sense Motive +10, Stealth +7, Survival +7, Swim +11;**Racial Modifiers** +4 Perception
+**Skills** Bluff +5, Escape Artist +10, Knowledge (planes) +9, Perception +14, Perform (act) +5, Sense Motive +10, Stealth +7, Survival +7, Swim +11; **Racial Modifiers** +4 Perception
 **Languages** Aquan
 
 #### Special Abilities

@@ -1,7 +1,7 @@
 <!-- extras: drs-feats | merge | DRS Feats -->
 
 ### Organization Obedience
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Prerequisites:** Knowledge (any) 3 ranks; membership in an organization.
 

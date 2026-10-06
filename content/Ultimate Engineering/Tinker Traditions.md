@@ -8,7 +8,6 @@ parent: "[[Ultimate Engineering]]"
 
 *Source: [Ultimate Engineering](https://www.drivethrurpg.com/product/472038/Ulimate-Engineering?affiliate_id=549120)*
 
-# Tinker Traditions
 
 Tinker sphere and its gizmos are minimalistic by design to allow it to be as setting neutral as possible. For some games, where the distinctions and worldbuilding implications are not as impactful, this works “well enough” for both the GM and their players. Players can describe how their gizmos work, fitting it to their character, backstory, etc., and the GM can focus on their own setting and running their game.
 
@@ -48,13 +47,13 @@ Subject to GM discretion, a character may be required to identify the gizmo in q
 
 A tinker tradition is composed of the following:
 
-**Tinker Drawbacks, Boons, and Associated Skill**: Each Tinker tradition is made up of Tinker drawbacks, boons, and an associated skill. Together, these change how a gizmo crafted by a Tinker practitioner functions, and may change aspects of the Tinker sphere itself. When designing a Tinker tradition, any number of Tinker drawbacks may be selected, and boons may be selected by “purchasing” them by having a sufficient number of drawbacks.
+**Tinker Drawbacks, Boons, and Associated Skill:** Each Tinker tradition is made up of Tinker drawbacks, boons, and an associated skill. Together, these change how a gizmo crafted by a Tinker practitioner functions, and may change aspects of the Tinker sphere itself. When designing a Tinker tradition, any number of Tinker drawbacks may be selected, and boons may be selected by “purchasing” them by having a sufficient number of drawbacks.
 
 By default, a Tinker tradition’s associated skill is Craft (mechanical), as the most applicable skill to creating gizmos and the general field of “inventioneering”. Choosing a new associated skill is made at the GM’s discretion, and should generally not be a universally useful skill such as Perception or most Knowledge skills, but instead some other tertiary skill that allows for crafting, expression, or customization (such as any Craft, Profession, or Perform).
 
-**Package Bans**: A Tinker tradition may restrict access to certain packages. The tradition suggests which packages be banned to practitioners of said type of tech. This is not a hard mechanical limit with any benefits, but just suggestions. It is also very possible for the GM to ban individual talents if they do not feel that a gizmo would fit their image of a world even if the rest of the package does, such as allowing computer programs, but not AI.
+**Package Bans:** A Tinker tradition may restrict access to certain packages. The tradition suggests which packages be banned to practitioners of said type of tech. This is not a hard mechanical limit with any benefits, but just suggestions. It is also very possible for the GM to ban individual talents if they do not feel that a gizmo would fit their image of a world even if the rest of the package does, such as allowing computer programs, but not AI.
 
-**Sphere Drawbacks**: Sphere-specific drawbacks for the Tinker sphere, while thematic or appropriate to a tradition, are not imposed by the Tinker tradition itself. A Tinker tradition broadly tells you how that tradition’s technology works. A sphere-specific drawback in the Tinker sphere (see **4.3: Player Options, Martial Traditions**) offers individual flaws or customizations that would still be individually chosen or learned by the practitioner. The sample traditions in this section do not suggest sphere-specific drawbacks, but GMs should feel free to include them if they feel it is a necessary or common limitation to technology subject to that Tinker tradition (for example, clockwork *mechanoids* being required to have the clockwork construct template). If there are any conflicts between a Tinker tradition drawback and a sphere-specific Tinker drawback, the GM should decide which takes precedent.
+**Sphere Drawbacks:** Sphere-specific drawbacks for the Tinker sphere, while thematic or appropriate to a tradition, are not imposed by the Tinker tradition itself. A Tinker tradition broadly tells you how that tradition’s technology works. A sphere-specific drawback in the Tinker sphere (see **4.3: Player Options, Martial Traditions**) offers individual flaws or customizations that would still be individually chosen or learned by the practitioner. The sample traditions in this section do not suggest sphere-specific drawbacks, but GMs should feel free to include them if they feel it is a necessary or common limitation to technology subject to that Tinker tradition (for example, clockwork *mechanoids* being required to have the clockwork construct template). If there are any conflicts between a Tinker tradition drawback and a sphere-specific Tinker drawback, the GM should decide which takes precedent.
 
 ## Tinker Drawbacks
 
@@ -76,7 +75,7 @@ Choose one damage type. Your gizmos gain vulnerability against the chosen damage
 
 A *mechanoid* crafted using this Tinker tradition drawback gains vulnerability against the chosen damage type.
 
-**Note**: The damage types are physical (bludgeoning, piercing, slashing) or energy (acid, cold, electricity, fire, force, sonic). Force and sonic damage are rarer, compared to other damage types, and should infrequently be the chosen damage type. In certain cases, a specific source of damage may also be appropriate (i.e. damage from cold iron weapons).
+**Note:** The damage types are physical (bludgeoning, piercing, slashing) or energy (acid, cold, electricity, fire, force, sonic). Force and sonic damage are rarer, compared to other damage types, and should infrequently be the chosen damage type. In certain cases, a specific source of damage may also be appropriate (i.e. damage from cold iron weapons).
 
 For the purposes of this drawback, “inflicts the chosen damage type” does not include ordinary weapons or natural attacks (such as crafting a dagger or a claw attack on a *prosthetic*).
 
@@ -94,7 +93,7 @@ Gizmos the Tinker practitioner crafts do not innately gain hardness and do not t
 
 A *mechanoid* crafted using this Tinker tradition drawback instead receives -1 hit points per Hit Dice.
 
-**Normal**: Objects take half damage from energy damage and ranged weapon attacks, unless the energy damage would be effective against an object of that kind (i.e. fire damage to a gizmo made of paper) or a ranged weapon intended to harm objects (i.e. siege weapons).
+**Normal:** Objects take half damage from energy damage and ranged weapon attacks, unless the energy damage would be effective against an object of that kind (i.e. fire damage to a gizmo made of paper) or a ranged weapon intended to harm objects (i.e. siege weapons).
 
 ### Double Major
 
@@ -104,9 +103,9 @@ Choose 1 skill other than the Tradition’s associated skill (the “secondary c
 
 The Tinker sphere grants bonus ranks in the associated skill, as it normally does, but does not grant bonus ranks in the secondary chosen skill.
 
-**Note**: Because a Tinker tradition’s associated skill is already subject to GM discretion, a “second” associated skill does not always need to be as restrictive, such as an on-theme Knowledge, but should still avoid generically useful skills such as Perception.
+**Note:** Because a Tinker tradition’s associated skill is already subject to GM discretion, a “second” associated skill does not always need to be as restrictive, such as an on-theme Knowledge, but should still avoid generically useful skills such as Perception.
 
-**Example**: A Tinker tradition has the double major Tinker drawback for Profession (glassmaker) and has the default associated skill for Craft (mechanical). The Tinker practitioner’s effects would rely on whichever skill has less ranks when using the Tinker sphere. If the practitioner has 10 ranks in Craft (mechanical) and 7 ranks in Profession (glassmaker), the practitioner’s effects would rely on the 7 ranks when determining abilities and effects.
+**Example:** A Tinker tradition has the double major Tinker drawback for Profession (glassmaker) and has the default associated skill for Craft (mechanical). The Tinker practitioner’s effects would rely on whichever skill has less ranks when using the Tinker sphere. If the practitioner has 10 ranks in Craft (mechanical) and 7 ranks in Profession (glassmaker), the practitioner’s effects would rely on the 7 ranks when determining abilities and effects.
 
 ### Energized Feedback
 
@@ -114,7 +113,7 @@ The Tinker sphere grants bonus ranks in the associated skill, as it normally doe
 
 Choose one energy type (acid, cold, electricity, fire). Whenever your gizmos become depleted or the user activates a battery use ability, the user takes damage (of the chosen energy type) equal to 1/2 the gizmo’s gizmo level (minimum 1). This damage only occurs once (i.e. depleting a battery to activate a battery use ability only inflicts damage once).
 
-**Note - Explosive Instability**: If a Tinker tradition possesses both this drawback and the Explosive Instability drawback, the chosen energy type should be the same (subject to GM discretion).
+**Note - Explosive Instability:** If a Tinker tradition possesses both this drawback and the Explosive Instability drawback, the chosen energy type should be the same (subject to GM discretion).
 
 ### Environmental Dependency
 
@@ -124,7 +123,7 @@ Choose one or more environmental factors (see the Environmental Vulnerability Ti
 
 A *mechanoid* crafted using this Tinker tradition drawback instead suffers a -1 penalty to all d20 rolls when not exposed to its environmental dependency.
 
-**Example**: A Tinker tradition specializing in aquatic machinery might require being submerged, partially or wholly, in water. If not in that condition, gizmos subject to that tradition are less functional.
+**Example:** A Tinker tradition specializing in aquatic machinery might require being submerged, partially or wholly, in water. If not in that condition, gizmos subject to that tradition are less functional.
 
 ### Environmental Vulnerability
 
@@ -138,7 +137,7 @@ If a gizmo fails its saving throw against an environmental vulnerability, the gi
 
 Environmental vulnerabilities that are ongoing (such as rain or a sandstorm) require the gizmo to attempt a new saving throw every 10 minutes of continuous exposure after the initial saving throw.
 
-**Note**: An environmental condition that is rare or specific (i.e. “electromagnetic waves”) should only be allowed if the setting has that environmental condition with enough regularity.
+**Note:** An environmental condition that is rare or specific (i.e. “electromagnetic waves”) should only be allowed if the setting has that environmental condition with enough regularity.
 
 If using *Spheres of Power*, environmental vulnerabilities created by the [[Weather|Weather sphere]] generally require a saving throw when at severity 3 or higher, subject to GM discretion.
 
@@ -162,9 +161,9 @@ Gizmos that are destroyed as part of their regular use, such as arsenal gizmo am
 
 A gizmo crafted with this Tinker drawback may also be primed as a standard action, exploding at the end of your turn. If the gizmo is small enough to be thrown, the gizmo may be thrown as a splash weapon with a range increment of 10 feet.
 
-**Note - Energized Feedback**: If a Tinker tradition possesses both this drawback and the Energized Feedback drawback, the chosen energy type should be the same (subject to GM discretion).
+**Note - Energized Feedback:** If a Tinker tradition possesses both this drawback and the Energized Feedback drawback, the chosen energy type should be the same (subject to GM discretion).
 
-**Normal**: When a gizmo that is part of a combined gizmo would be destroyed, other gizmos remain functional and are damaged separately.
+**Normal:** When a gizmo that is part of a combined gizmo would be destroyed, other gizmos remain functional and are damaged separately.
 
 ### Hand-Cranked
 
@@ -176,12 +175,12 @@ Battery gizmos you craft are attached to other gizmos 2 steps slower (as a stand
 
 Gizmos you craft require a free hand to activate or use their functions (or otherwise a hand directly holding, wielding, and/or operating the gizmo or attached object). Your gizmos cannot benefit from abilities that would allow them to be activated or used without requiring a free hand (such the Sensory Set voice controls ability, etc.).
 
-**Normal**: Activating or using a gizmo is a physical action (unless otherwise stated) requiring the user to be capable of physical actions (i.e. not paralyzed, stunned, etc.), but does not require a free or empty hand.
+**Normal:** Activating or using a gizmo is a physical action (unless otherwise stated) requiring the user to be capable of physical actions (i.e. not paralyzed, stunned, etc.), but does not require a free or empty hand.
 
 ### Highest Quality Materials [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
-**Prerequisite**: Expensive Craft
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
+**Prerequisite:** Expensive Craft
 
 Instead of the normal effects of expensive craft, gizmos you craft require 1 gold piece (1 gp) of expensive materials per gizmo level of the crafted gizmo. This cost is only incurred when the gizmo is first crafted (and not when maintained, unlike expensive craft). When adjusting a gizmo to have a higher gizmo level, you must pay the difference in cost. When a gizmo is destroyed, it must be fully recrafted (paying the gp costs again) and cannot be repaired through standard maintenance.
 
@@ -189,7 +188,7 @@ Projects still require 25% increased material costs that must be paid for normal
 
 ### Implant Requisite [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 Your non-project, non-battery gizmos must be implanted to be activated or use their effects.
 
 Your battery gizmos may only be used to power implanted gizmos (or projects, as normal). Additional functions and options added to a battery gizmo (such as certain accommodations or other abilities) do not function unless the battery gizmo is implanted.
@@ -202,7 +201,7 @@ Your *routines* must be installed in implanted gizmos (and do not function other
 
 Any creature attempting to activate or use the battery use ability of a gizmo you crafted must succeed at a proficiency check (including the Tinker practitioner); you cannot instruct others (or yourself) on how to activate or use gizmos you craft. This proficiency check is not required if the gizmo’s function would already require a successful proficiency check.
 
-**Note**: Proficiency checks are infrequently required; a proficiency check’s DC is an associated skill check equal to the gizmo’s gizmo DC. Ordinarily, a Tinker practitioner always understands how to use their gizmos and may teach others how to use gizmos they craft (granting them a +5 circumstance bonus to their proficiency check). This drawback prevents a Tinker practitioner from teaching others (or themselves) how to use their gizmos and denies others the +5 circumstance bonus from being taught.
+**Note:** Proficiency checks are infrequently required; a proficiency check’s DC is an associated skill check equal to the gizmo’s gizmo DC. Ordinarily, a Tinker practitioner always understands how to use their gizmos and may teach others how to use gizmos they craft (granting them a +5 circumstance bonus to their proficiency check). This drawback prevents a Tinker practitioner from teaching others (or themselves) how to use their gizmos and denies others the +5 circumstance bonus from being taught.
 
 ### Living Gizmos
 
@@ -217,7 +216,7 @@ Gizmos you craft are considered to be living creatures and objects, simultaneous
 - A living gizmo suffering from ability damage or ability drain reduces their effective gizmo level by 1 (while afflicted, minimum 1). Negative levels reduce a living gizmo’s effective level (instead of imposing the normal penalties of a negative level); while a gizmo is suffering from negative levels equaling or exceeding the gizmo’s gizmo level, the gizmo becomes deactivated (activating again once its total negative levels are less than its gizmo level). If a living gizmo would be subject to a condition that would prevent it from taking a standard or move action (such as being staggered, stunned, dazed, etc.), the gizmo is deactivated until that condition is removed (activating again once removed).
 - Living gizmos do not have a creature type or subtype (unless you also possess the Adapted Biology boon).
 
-**Example**: A gizmo subject to this Tinker drawback could be slain by a *power word kill* spell, despite being an object, but could not be affected by a healing effect that only targets living creatures because they are only treated as a living creature for detrimental or disadvantageous interactions that would not normally affect an object. The gizmo may be unable to be targeted by otherwise beneficial effects because it is not a living creature when beneficial (such as being unable to cast a *death ward* spell on a gizmo because the spell cannot normally affect objects).
+**Example:** A gizmo subject to this Tinker drawback could be slain by a *power word kill* spell, despite being an object, but could not be affected by a healing effect that only targets living creatures because they are only treated as a living creature for detrimental or disadvantageous interactions that would not normally affect an object. The gizmo may be unable to be targeted by otherwise beneficial effects because it is not a living creature when beneficial (such as being unable to cast a *death ward* spell on a gizmo because the spell cannot normally affect objects).
 
 ### Mana Engineering
 
@@ -254,7 +253,7 @@ Choose one of the following conditions: darkness or bright light, a specific ter
 
 ### Passive Draw [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 Your non-battery gizmos must have an attached, active battery gizmo to be activated or otherwise used. If a gizmo would no longer have an attached battery, or its attached battery is depleted for a battery use ability, the gizmo immediately deactivates (or deactivates after the battery use ability ends).
 
@@ -272,9 +271,9 @@ A Tinker practitioner may use another Tinker practitioner’s production facilit
 
 Crafting and maintaining your gizmos twice as long (at base, 1 hour, or 30 minutes if you have access to an engineering kit or sufficient tools). Crafting a project always takes a minimum of 1 hour.
 
-**Normal**: Tinker gizmos can be crafted in 30 minutes, or 15 minutes if you have access to an engineering kit or sufficient tools.
+**Normal:** Tinker gizmos can be crafted in 30 minutes, or 15 minutes if you have access to an engineering kit or sufficient tools.
 
-**Note**: If the Tinker practitioner possesses an ability which would increase the speed at which they craft and maintain their gizmos, that time reduction instead allows the Tinker practitioner to craft and maintain their gizmos normally.
+**Note:** If the Tinker practitioner possesses an ability which would increase the speed at which they craft and maintain their gizmos, that time reduction instead allows the Tinker practitioner to craft and maintain their gizmos normally.
 
 ## Tinker Boons
 
@@ -306,15 +305,15 @@ Choose one creature type. If choosing humanoid or outsider, you must additionall
 
 This ability does not allow your gizmos to be awakened, modified like a normal construct (i.e. construct modifications, construct templates, etc.), or other similar permanent alterations.
 
-**Note**: When determining the defensive abilities Adapted Biology may grant to a gizmo, generally speaking, the gizmos gain the creature type’s resistance and immunity to damage types or effects. If a subtype grants other unique abilities (such as an aeon’s void form, archon’s aura of menace, an agathion’s lay on hands, or more general things like fast healing, regeneration, or spell resistance), these abilities are not granted. GMs should be the final arbiter of what is appropriate; creature types with no innate benefits may be granted additional effects by GM discretion.
+**Note:** When determining the defensive abilities Adapted Biology may grant to a gizmo, generally speaking, the gizmos gain the creature type’s resistance and immunity to damage types or effects. If a subtype grants other unique abilities (such as an aeon’s void form, archon’s aura of menace, an agathion’s lay on hands, or more general things like fast healing, regeneration, or spell resistance), these abilities are not granted. GMs should be the final arbiter of what is appropriate; creature types with no innate benefits may be granted additional effects by GM discretion.
 
-**Example**: A practitioner with Adapted Biology (plant) would have gizmos that possess the immunities of the plant creature type, but are now also susceptible to effects that harm such creatures (such as the horrid wilting spell, and similar).
+**Example:** A practitioner with Adapted Biology (plant) would have gizmos that possess the immunities of the plant creature type, but are now also susceptible to effects that harm such creatures (such as the horrid wilting spell, and similar).
 
 ### Bionic Expert [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
-**Prerequisite**: Implant Requisite drawback.
+**Prerequisite:** Implant Requisite drawback.
 
 You gain Tinker Savvy as a bonus talent.
 
@@ -356,9 +355,9 @@ The nature of the mechanism lends itself to faster production. A Tinker practiti
 
 ### Graduated With Honors [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 *You worked hard for your double major in civil engineering and applied psychology.*
-**Prerequisites**: Double Major drawback.
+**Prerequisites:** Double Major drawback.
 
 Choose one non-Tinker sphere whose associated skill matches your Double Major’s secondary associated skill. Talents in the chosen secondary sphere are treated as Tinker sphere talents when determining your gizmo limit.
 
@@ -372,7 +371,7 @@ You do not require an engineering kit or sufficient tools to craft gizmos. You o
 
 When an immaterial gizmo is abandoned or destroyed, the gizmo dematerializes and ceases to exist. Projects still need materials for their construction, but these materials may represent things other than physical parts, such as reagents to summon the gizmo or chemicals and reagents to grow them. An immaterial gizmo *mechanoid* does not leave behind a body when destroyed, but is otherwise normally noticeable.
 
-**Note**: Effects that are otherwise beneficial to the gizmo’s user, such as the Sniper sphere’s Hindering Shot (snipe) talent, or an effect that causes a gizmo to leave behind a field of caltrop-like shrapnel, still occur (and instead dematerialize when the effect would end).
+**Note:** Effects that are otherwise beneficial to the gizmo’s user, such as the Sniper sphere’s Hindering Shot (snipe) talent, or an effect that causes a gizmo to leave behind a field of caltrop-like shrapnel, still occur (and instead dematerialize when the effect would end).
 
 ### Reinforced
 
@@ -394,10 +393,10 @@ The sample traditions in this section are separated into “common” and “exo
 
 *Biofloramachinery can mimic many forms of technology, from roots and vines that constrict and retract to simulate a belt or lever, to a specialized plant designed to mimic a detector that releases spores when it detects the presence of certain substances.*
 
-**Drawbacks**: Double Major (Knowledge (nature)), Living Gizmos (plant), Production Facilities (a specialized garden), Slow Craft.
-**Boons**: Adapted Biology (plant); +1 gizmo limit, +1 gizmo limit per 3 ranks in the associated skill.
-**Associated Skill**: Profession (gardener or herbalist); secondary skill Knowledge (nature).
-**Suggested Package Bans**: None.
+**Drawbacks:** Double Major (Knowledge (nature)), Living Gizmos (plant), Production Facilities (a specialized garden), Slow Craft.
+**Boons:** Adapted Biology (plant); +1 gizmo limit, +1 gizmo limit per 3 ranks in the associated skill.
+**Associated Skill:** Profession (gardener or herbalist); secondary skill Knowledge (nature).
+**Suggested Package Bans:** None.
 
 #### Clockwork
 
@@ -405,19 +404,19 @@ The sample traditions in this section are separated into “common” and “exo
 
 *Clockwork is often pronounced by how much it sounds, and behaves, like a clock - working constantly, and consistently. Clockwork may take the form of kinetic exoskeletons, powered by springs and cogs, powders and lenses that respond to stimulus, and punch-entry cards for programs and storage of data.*
 
-**Drawbacks**: Delicate, Environmental Vulnerability (sand & grit), Expensive Crafting (clockwork components).
-**Boons**: Expeditious Construction; +1 gizmo limit, +1 gizmo limit per 6 ranks in the associated skill.
-**Associated Skill**: Craft (clockwork).
-**Suggested Package Bans**: (transmission) package. Clockwork constructions tend to rely on kinetic motion, and not wavelengths or other modes of communication. A device similar to one that sends and receives morse code, through physical “tapping” or similar, could help integrate this package into clockwork.
+**Drawbacks:** Delicate, Environmental Vulnerability (sand & grit), Expensive Crafting (clockwork components).
+**Boons:** Expeditious Construction; +1 gizmo limit, +1 gizmo limit per 6 ranks in the associated skill.
+**Associated Skill:** Craft (clockwork).
+**Suggested Package Bans:** (transmission) package. Clockwork constructions tend to rely on kinetic motion, and not wavelengths or other modes of communication. A device similar to one that sends and receives morse code, through physical “tapping” or similar, could help integrate this package into clockwork.
 
 #### Cyberware
 
 *Your standard fare in the cyber-concrete jungle, this highly advanced technological equipment is exceedingly versatile and reliable, but relies on expensive and specialized material-science and facilities to create and maintain. - Contributed in part by Zephyrm, DDS Community.*
 
-**Drawbacks**: Damage Vulnerability (electric), Double Major (Knowledge (engineering), Expensive Craft (electronics-grade metals), Explosive Instability (electric).
-**Boons**: +1 gizmo limit, +1.5 gizmo limit per rank in the associated skill.
-**Associated Skill**: Craft (electronics).
-**Suggested Package Bans**: None.
+**Drawbacks:** Damage Vulnerability (electric), Double Major (Knowledge (engineering), Expensive Craft (electronics-grade metals), Explosive Instability (electric).
+**Boons:** +1 gizmo limit, +1.5 gizmo limit per rank in the associated skill.
+**Associated Skill:** Craft (electronics).
+**Suggested Package Bans:** None.
 
 #### Magitech
 
@@ -425,12 +424,12 @@ The sample traditions in this section are separated into “common” and “exo
 
 *Magitech can take many forms and shapes, from higher science fiction to “the tea pot works because I drew the symbol for fire on it” using ancient magic runes. The “how and why” of magictech is, consequently, far more open compared to other gizmos that try to more rationally explain their effects.*
 
-**Drawbacks**: Environmental Vulnerability (choose one), Expensive Craft, Mana Engineering, Slow Craft.
-**Boons**: +1 gizmo limit, +1.5 gizmo limit per rank in the associated skill.
-**Associated Skill**: Craft (mechanical).
-**Suggested Package Bans**: None.
+**Drawbacks:** Environmental Vulnerability (choose one), Expensive Craft, Mana Engineering, Slow Craft.
+**Boons:** +1 gizmo limit, +1.5 gizmo limit per rank in the associated skill.
+**Associated Skill:** Craft (mechanical).
+**Suggested Package Bans:** None.
 
-**Note**: The magitech Tinker tradition can be expensive to either etch or paint the magic, or create mana-capable circuits, or condense aether from the environment, etc. The environmental vulnerability should represent how that craftsmanship can be disrupted, either by scouring the metal etchings or washing away the specially treated magic dyes, short circuiting the wiring with electricity, etc.
+**Note:** The magitech Tinker tradition can be expensive to either etch or paint the magic, or create mana-capable circuits, or condense aether from the environment, etc. The environmental vulnerability should represent how that craftsmanship can be disrupted, either by scouring the metal etchings or washing away the specially treated magic dyes, short circuiting the wiring with electricity, etc.
 
 #### Reactortech
 
@@ -438,10 +437,10 @@ The sample traditions in this section are separated into “common” and “exo
 
 *Reactortech takes on an otherwise ordinary appearance to most inventioneering, but any need for kinetic energy is heavily lessened. A firearm can be triggered through electrical signals and a flashlight merely “turned on”, but the crackling energy beneath the globes of lightning that adorn each piece of craftsmanship leave no question as to the how and why. The primary boon of reactor tech, that makes up for its instability, is that the individual reactors can always be cannibalized as a power source for other inventions.*
 
-**Drawbacks**: Environmental Vulnerability (electricity), Explosive Instability (electricity), Hand-Cranked, Mechanical Signs (glowing reactors).
-**Boons**: Conservation Of Energy; +1 gizmo limit, +1 gizmo limit per 3 ranks in the associated skill.
-**Associated Skill**: Craft (mechanical).
-**Suggested Package Bans**: None.
+**Drawbacks:** Environmental Vulnerability (electricity), Explosive Instability (electricity), Hand-Cranked, Mechanical Signs (glowing reactors).
+**Boons:** Conservation Of Energy; +1 gizmo limit, +1 gizmo limit per 3 ranks in the associated skill.
+**Associated Skill:** Craft (mechanical).
+**Suggested Package Bans:** None.
 
 #### Steampowered
 
@@ -449,10 +448,10 @@ The sample traditions in this section are separated into “common” and “exo
 
 *Steampowered gizmos are characterized by their fluids and hydraulics. Steampowered gizmos may take any number of shapes and forms, but will have some form of boiler and compressor where the liquid can supply the necessary power, or where that can be refilled.*
 
-**Drawbacks**: Environmental Vulnerability (cold), Particular Workspace (a source of water), Slow Craft.
-**Boons**: +1 gizmo limit per odd rank in the associated skill.
-**Associated Skill**: Craft (mechanical).
-**Suggested Package Bans**: (computation) package, (transmission) package. Steampowered constructions may have difficulty facilitating effects that would wirelessly transfer between gizmos or that store information. Steampowered constructions are largely facilitated by their power source, and may have less intrinsic mechanisms compared to other means of crafting.
+**Drawbacks:** Environmental Vulnerability (cold), Particular Workspace (a source of water), Slow Craft.
+**Boons:** +1 gizmo limit per odd rank in the associated skill.
+**Associated Skill:** Craft (mechanical).
+**Suggested Package Bans:** (computation) package, (transmission) package. Steampowered constructions may have difficulty facilitating effects that would wirelessly transfer between gizmos or that store information. Steampowered constructions are largely facilitated by their power source, and may have less intrinsic mechanisms compared to other means of crafting.
 
 ### Exotic Tinker Traditions
 
@@ -462,13 +461,13 @@ A so-called “exotic” Tinker tradition is a design space to break rules, in e
 
 #### Cybernetic Punk [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 *In a dystopian technological future, access to high quality and expensive technological implants give access to living stronger, better, and faster. Installing these implants is a highly technical process, with the best doctors performing for the elite, and the average man needing to rely on shady cybernetic clinics.*
 
 **Drawbacks:** Expensive Craft, Highest Quality Materials, Implant Requisite, Particular Workspace (cybernetic doctor), Slow Craft.
 **Boons:** Reinforced; +1 gizmo limit, +1 gizmo limit per 3 ranks in the associated skill.
-**Associated Skill**: Craft (mechanical).
+**Associated Skill:** Craft (mechanical).
 **Suggested Package Bans:** None. A cybernetic punk has access to high end technology if they have the funds.
 
 **Special - Particular Workspace (Cybernetic Doctor):** This tradition is unique in that characters cannot craft gizmos subject to the tradition and are instead “assisted” by a cybernetic doctor, who helps craft and implant the gizmos, or any other character able to perform implantation surgery with a suitable workspace. The Highest Quality Materials drawback represents the money paid to the cybernetic doctor for their services.
@@ -479,12 +478,12 @@ Characters can maintain their gizmos and do not need the Particular Workspace to
 
 *Mechanical in function but daemon in form, ritual binders have learnt to sculpt the flesh of the abyss into tools. Through ritually prepared vessels and immense precision, wayward souls of daemons are bound and grafted into mechanical form, but held here only by the ritualist’s binding stone.*
 
-**Drawbacks**: Anchored Craftsmanship (Binding Stone), Damage Vulnerability (good-aligned), Living Gizmos, Mana Engineering (conjuration), Particular Workspace (prepared ritual chamber).
-**Boons**: Adapted Biology (daemon), Immaterial Construction; +1 gizmo limit, +1 gizmo limit per 6 ranks in the associated skill.
-**Associated Skill**: Profession (cleric) or Lore (daemons).
-**Suggested Package Bans**: None.
+**Drawbacks:** Anchored Craftsmanship (Binding Stone), Damage Vulnerability (good-aligned), Living Gizmos, Mana Engineering (conjuration), Particular Workspace (prepared ritual chamber).
+**Boons:** Adapted Biology (daemon), Immaterial Construction; +1 gizmo limit, +1 gizmo limit per 6 ranks in the associated skill.
+**Associated Skill:** Profession (cleric) or Lore (daemons).
+**Suggested Package Bans:** None.
 
-**Note**: The Daemon Ex Machina Tinker tradition is an example of bending the restrictions of the Tinker drawbacks or boons. Damage that is good-aligned (i.e. from a holy weapon, etc.) would normally not be an appropriate damage type for vulnerable gizmos, but may be allowed under circumstances where good and evil are prevalent enough for this restriction to matter.
+**Note:** The Daemon Ex Machina Tinker tradition is an example of bending the restrictions of the Tinker drawbacks or boons. Damage that is good-aligned (i.e. from a holy weapon, etc.) would normally not be an appropriate damage type for vulnerable gizmos, but may be allowed under circumstances where good and evil are prevalent enough for this restriction to matter.
 
 #### Mad Science
 
@@ -492,23 +491,23 @@ Characters can maintain their gizmos and do not need the Particular Workspace to
 
 *Gizmos created by mad science are near impossible for the uninitiated to understand, seeming to work like magic, and often lead to explosive results for those who tamper with what they do not understand. These gizmos often look like fusions of several unrelated machines, festooned with dials, buttons, gauges, and similar accessories with seemingly no purpose.*
 
-**Drawbacks**: Explosive Instability (random),Incomplete Understanding, Production Facility.
-**Boons**: Confounding Design; +1 gizmo limit, +1 gizmo limit per 6 ranks in the associated skill.
-**Associated Skill**: Craft (technological).
-**Suggested Package Bans**: None. Mad science creations cover a massive scope of inventions and technological purpose. While it might be dangerous to use, or pose risks to the user, mad science creations are dangerously competent.
+**Drawbacks:** Explosive Instability (random),Incomplete Understanding, Production Facility.
+**Boons:** Confounding Design; +1 gizmo limit, +1 gizmo limit per 6 ranks in the associated skill.
+**Associated Skill:** Craft (technological).
+**Suggested Package Bans:** None. Mad science creations cover a massive scope of inventions and technological purpose. While it might be dangerous to use, or pose risks to the user, mad science creations are dangerously competent.
 
 #### Planar Attuned [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 *Devices tuned to the planar cosmos, pulling energy but also susceptible to their opposites.*
 
 **Drawbacks:** Damage Vulnerability (chosen plane), Double Major, Energized Feedback (chosen plane), Environmental Vulnerability (chosen plane), Explosive Instability (chosen plane), Mana Engineering (conjuration).
 **Boons:** Conservation of Energy; +1, +1 per 1.5 ranks in the associated skill.
-**Associated Skill**: Craft (mechanical); secondary skill Knowledge (planes).
+**Associated Skill:** Craft (mechanical); secondary skill Knowledge (planes).
 **Suggested Package Bans:** None. Planar energy is easily molded to suit the needs of the maker.
 
-**Special - Chosen Plane:** The practitioner chooses a single elemental aligned plane, between air, earth, fire, and water. This tradition’s drawbacks (Energized Feedback, Environmental Vulnerability, and Explosive Instability) behave based on**Table: Planar Attuned** below.
+**Special - Chosen Plane:** The practitioner chooses a single elemental aligned plane, between air, earth, fire, and water. This tradition’s drawbacks (Energized Feedback, Environmental Vulnerability, and Explosive Instability) behave based on **Table: Planar Attuned** below.
 
 **Table: Planar Attuned**
 
@@ -522,13 +521,13 @@ Characters can maintain their gizmos and do not need the Particular Workspace to
 
 #### Technologic Wonder [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 *Miraculously perfect crystals power technology, from the everyday to the fantastic. These technologic cores astound, but are deadly when disturbed. These cores are of a mysterious origin, but were quickly replicated by genius inventors and promulgated across the nation to benefit its people.*
 
 **Drawbacks:** Expensive Craft, Explosive Instability (electricity, see below), Highest Quality Materials, Mana Engineering.
 **Boons:** Reinforced; +1 gizmo limit, +1 gizmo limit per 1.5 ranks in the associated skill.
-**Associated Skill**: Craft (mechanical).
+**Associated Skill:** Craft (mechanical).
 **Suggested Package Bans:** None. The technologic cores are a miraculous solution to technological inventorship.
 
 **Special - Explosive Instability (Technologic Core):** Gizmos crafted subject to this Tinker tradition are not explosive, only the battery gizmos are (“technologic cores”). Technologic cores do not benefit from hardness, as a normal gizmo, and add the crafter’s practitioner modifier to the explosive instability’s explosion damage (1d6 + gizmo level + practitioner modifier; this additional damage only applies when the battery is damaged and destroyed, not when detonated intentionally).

@@ -40,8 +40,8 @@ Infusion wild talents are marked with a dagger (†); all other wild talents lis
 
 #### Mental Blast
 
-**Element(s)**mind;**Type**simple blast (Sp);**Level**—;**Burn** 0
-**Blast Type**energy;**Damage** untyped
+**Element(s)** mind; **Type** simple blast (Sp); **Level** —; **Burn** 0
+**Blast Type** energy; **Damage** untyped
 
 You assault your foe with pure psionic energy.
 
@@ -49,17 +49,17 @@ You assault your foe with pure psionic energy.
 
 #### Cerebral Empowerment
 
-**Element(s)**mind;**Type**composite blast (Sp);**Level**—;**Burn** 2
+**Element(s)** mind; **Type** composite blast (Sp); **Level** —; **Burn** 2
 **Prerequisite(s)** mental blast, expanded element (any)
-**Blast Type**special;**Damage** see text
+**Blast Type** special; **Damage** see text
 
 You enhance your concentration on a simple blast simple blast, increasing its damage die by 1 step; it otherwise deals damage as per the simple blast. At 15th level, you can also focus a composite blast in this way, though to do so you must accept 1 additional point of burn.
 
 #### Encephalon Blast
 
-**Element(s)**mind;**Type**composite blast (Sp);**Level**—;**Burn** 2
+**Element(s)** mind; **Type** composite blast (Sp); **Level** —; **Burn** 2
 **Prerequisite** elemental focus (mind), expanded focus (mind)
-**Blast Type**energy;**Damage** untyped
+**Blast Type** energy; **Damage** untyped
 
 You can exert greater control over a creature’s mind.
 
@@ -67,7 +67,7 @@ You can exert greater control over a creature’s mind.
 
 #### Numbness
 
-**Element(s)**mind;**Type**defense (Sp);**Level**—;**Burn** 0
+**Element(s)** mind; **Type** defense (Sp); **Level** —; **Burn** 0
 
 Your body grows numb to pain, allowing you to stand incredible pain. You can treat up to 2 points of lethal damage you take each round as nonlethal damage and gain a 5% chance to ignore critical hits or sneak attacks. At 4th level and every 4 levels thereafter, you can treat 2 more points of lethal damage as nonlethal damage. You can accept 1 point of burn to increase the amount of lethal damage you can treat as nonlethal damage by 2 and increase your chance of ignoring critical hits or sneak attacks by 5%, up to 100%. The chance of ignoring critical hits and sneak attacks granted by this wild talent stacks with the chance granted by elemental overflow and other wild talents to a maximum of 100%.
 
@@ -79,7 +79,7 @@ Whenever you accept 1 or more points of burn when using a mind wild talent, you 
 
 #### Amnesia Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -87,7 +87,7 @@ Your blast can wipe a foe’s memory clean. A foe dealt damage by this infusion 
 
 #### Aphasia Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** mind; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -95,7 +95,7 @@ You scramble a foe’s ability to understand any communication. A foe dealt dama
 
 #### Cupid Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -103,7 +103,7 @@ Your blast can fill a target with lust. A foe dealt damage by this infusion is m
 
 #### Disabling Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** mind; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -111,7 +111,7 @@ Your blast can sever a target’s mental connection with their senses. A foe dea
 
 #### Dizzying Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** mind; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -119,7 +119,7 @@ You know how to overstimulate your foe’s senses. A foe dealt damage by this in
 
 #### Dominating Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**8;**Burn** 4
+**Element(s)** mind; **Type** substance infusion; **Level** 8; **Burn** 4
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -127,7 +127,7 @@ Your blast completely overrides a foe’s thoughts. A foe damaged by this infusi
 
 #### Doubting Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** mind; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -135,7 +135,7 @@ Your blast causes doubt within a foe, making them less adept at dealing damage. 
 
 #### Empathetic Surge
 
-**Element(s)**mind;**Type**form infusion;**Level**3;**Burn** 2
+**Element(s)** mind; **Type** form infusion; **Level** 3; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will half
 
@@ -143,7 +143,7 @@ Your blast can damage those around your foe. Select one foe within 30 ft.; all c
 
 #### Empathetic Surge, Improved
 
-**Element(s)**mind;**Type**form infusion;**Level**5;**Burn** 3
+**Element(s)** mind; **Type** form infusion; **Level** 5; **Burn** 3
 **Prerequisite(s)** empathetic surge, extended rangeOA
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will half
@@ -152,7 +152,7 @@ Your blast causes an even larger area of mental damage. Treat this as empathetic
 
 #### Empathetic Surge, Greater
 
-**Element(s)**mind;**Type**form infusion;**Level**7;**Burn** 4
+**Element(s)** mind; **Type** form infusion; **Level** 7; **Burn** 4
 **Prerequisite(s)** improved empathetic surge
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will half
@@ -161,7 +161,7 @@ Your blast creatures a massive area of mental damage. Treat this as improved emp
 
 #### Gorgon Gaze
 
-**Element(s)**mind;**Type**form infusion;**Level**6;**Burn** 4
+**Element(s)** mind; **Type** form infusion; **Level** 6; **Burn** 4
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -169,7 +169,7 @@ You can concentrate your blast through a piercing gaze. You gain a gaze attack f
 
 #### Lobotomizing Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**9;**Burn** 5
+**Element(s)** mind; **Type** substance infusion; **Level** 9; **Burn** 5
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will partial (see text)
 
@@ -177,7 +177,7 @@ Your blast bores through an enemy’s brain, effectively destroying it. Those af
 
 #### Lock Up Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** mind; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -185,7 +185,7 @@ Your blast overloads a target’s mind, causing them to seize up. A foe dealt da
 
 #### Overtaxing Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -193,7 +193,7 @@ Your blast overloads a foe’s mind, leaving them unable to focus. A foe dealt d
 
 #### Pacifying Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** mind; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -201,7 +201,7 @@ Your blast can remove the aggression from a foe. A foe dealt damage by this infu
 
 #### Paranoia Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -209,7 +209,7 @@ You sow the seeds of doubt into a foe’s mind. A foe dealt damage by this infus
 
 #### Psychic Connection
 
-**Element(s)**mind;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** mind; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -217,7 +217,7 @@ Your blast can forge a connection between your mind and others. A foe dealt dama
 
 #### Psychic Connection, Improved
 
-**Element(s)**mind;**Type**substance infusion;**Level**8;**Burn** 4
+**Element(s)** mind; **Type** substance infusion; **Level** 8; **Burn** 4
 **Prerequisite(s)** psychic connection
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
@@ -226,7 +226,7 @@ Treat this as the psychic connection infusion, except the effect lasts until the
 
 #### Reifying Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** mind; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** encephalon, mental
 **Saving Throw** none
 
@@ -234,7 +234,7 @@ Your blast is made tangible enough to effect mindless creatures. Mindless creatu
 
 #### Scrambling Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -242,7 +242,7 @@ Your blast can scramble the signals in a foe’s brain. A foe dealt damage by th
 
 #### Slumber Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** mind; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -250,7 +250,7 @@ Your blast can shut down a foe’s body. A foe dealt damage by this infusion fal
 
 #### Spellbane Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -258,7 +258,7 @@ Your blast eliminates magical knowledge from a foe. A spellcasting foe dealt dam
 
 #### Stumbling Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -266,7 +266,7 @@ Your blast can cut off the connection between a foe’s brain and their body. A 
 
 #### Stupefying Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** mind; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -274,7 +274,7 @@ Your blast are capable of mentally damaging a target. A foe dealt damage by this
 
 #### Stupefying Infusion, Improved
 
-**Element(s)**mind;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** mind; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -282,7 +282,7 @@ Your blast can mentally cripple others more easily. Treat this as stupefying inf
 
 #### Synaptic Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** mind; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -290,7 +290,7 @@ You cause the synapses in the target’s mind to fire rapidly, making it hard fo
 
 #### Synaptic Infusion, Improved
 
-**Element(s)**mind;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** mind; **Type** substance infusion; **Level** 7; **Burn** 4
 **Prerequisite(s)** synaptic infusion
 **Associated blasts** encephalon, mental
 **Saving Throw** Will negates
@@ -299,7 +299,7 @@ Treat this as synaptic infusion, except it lasts for 1 hour per kineticist level
 
 #### Wrathful Infusion
 
-**Element(s)**mind;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
 
@@ -307,7 +307,7 @@ Your blast fills the target with fury. Those affected by this infusion fall unde
 
 #### Wrathful Infusion, Improved
 
-**Element(s)**mind;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** mind; **Type** substance infusion; **Level** 3; **Burn** 2
 **Prerequisite(s)** wrathful infusion
 **Associated Blasts** encephalon, mental
 **Saving Throw** Will negates
@@ -320,57 +320,57 @@ Your blast can fill creatures with an unquenchable thirst for blood. Treat this 
 
 #### Accelerated Cognition
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 0
 
 You can force your mind to work at incredible speeds as a full-round action, treating yourself as though under the effect of a *haste* spell as well as granting you a competence bonus to perception checks equal to ½ your kineticist level for 1 round per 3 kineticist levels you possess. You can accept 1 point of burn to use this ability as a swift action.
 
 #### Additional Allies
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 0
 **Prerequisite** psychic persuasion or smooth negotiator
 
 You know how to keep more than one foe under your control, being able to have 1 additional creatures affected by your psychic persuasion or smooth negotiator wild talent per 6 kineticist levels you possess.
 
 #### All In Your Head
 
-**Element(s)**mind;**Level**2;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 2; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** mindlink
 
 You can increase the burn cost of a mind kinetic blast by 1 to feed its effects directly into its targets’ minds. The blast appears directly in the targeted space rather than traveling to it, its visual or audio effects cannot be perceived by those unaffected by it other than yourself, and it is considered an illusion (phantasm), allowing a Will save to disbelieve equal to the blast’s normal DC (10 + Constitution mod + ½ kineticist level). If a creature makes their save to disbelieve the phantasm, they are unaffected by the kinetic blast.
 
 #### Basic Neurokinesis
 
-**Element(s)**mind;**Level**1;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 1; **Type** utility (Sp); **Burn** 0
 
 You have learned the basics of neurokinesis, gaining telepathy with a range of 5 ft. as well as the ability to grant yourself a +2 bonus on any Intelligence-based skill check as a move action. You are also always aware of if a creature has failed a save against one of your mind wild talents.
 
 #### Blinded Mind’s Eye
 
-**Element(s)**mind;**Level**2;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 2; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You can hide your presence from 1 creature per 2 kineticist levels you possess as per hidden presenceUI.
 
 #### Cerebral Manipulation
 
-**Element(s)**mind;**Level**2;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 2; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You can remove or implant memories into a creature’s mind as per false beliefUI.
 
 #### Cerebral Manipulation, Improved
 
-**Element(s)**mind;**Level**5;**Type**utility (Sp);**Burn** 1
+**Element(s)** mind; **Level** 5; **Type** utility (Sp); **Burn** 1
 **Prerequisite(s)** cerebral manipulation
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Treat this talent as cerebral manipulation except that it is now treated as *modify memory*.
 
 #### Cerebral Manipulation, Greater
 
-**Element(s)**mind;**Level**9;**Type**utility (Sp);**Burn** 2
+**Element(s)** mind; **Level** 9; **Type** utility (Sp); **Burn** 2
 **Prerequisite(s)** improved cerebral manipulation
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Treat this as cerebral manipulation except that it takes 1 hour to use and allows you to enter the mind of a target, learning everything the target knows. While inside of their mind, you can manipulate the target’s mind in the following ways:
 
@@ -382,141 +382,141 @@ Treat this as cerebral manipulation except that it takes 1 hour to use and allow
 
 #### Combat Traitor
 
-**Element(s)**mind;**Level**2;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 2; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** psychic persuasion
 
 You can increase the burn cost of psychic persuasion by 1 to use it as a swift or immediate action, and creatures do not gain a +5 to their saves if they are being threatened or attacked by you or your allies.
 
 #### Dyslexia
 
-**Element(s)**mind;**Level**2;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 2; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 The target creature’s mind muddles written language. For the next 24 hours, the affected creature cannot read written language (this prevents spellcasters which rely on a spellbook from being able to prepare spells). By accepting an additional point of burn, you can make this effect permanent. This effect can be ended if the affected creature gains any ranks in Linguistics, and creatures under the effects of read magic (or similar effects) can make an Intelligence check against this wild talent’s DC to ignore the effects of this ability for 1 minute; otherwise it can be removed by remove curse or similar effects.
 
 #### Eclectic Knowledge
 
-**Element(s)**mind;**Level**2;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 2; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** esoteric knowledge
 
 You receive one additional skill rank whenever you gain a kineticist level; skill ranks gained through this talent can only be placed in skills associated with a mental score. Skill ranks are granted retroactively upon taking this wild talent.
 
 #### Enduring Control
 
-**Element(s)**mind;**Level**4;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 4; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** psychic persuasion
 
 Whenever the duration of your psychic persuasion ends, any creature who would no longer be under its effect must make a will save with a +2 bonus. Failing this save extends the duration of the ability by 10 minutes per 2 kineticist levels you possess. You can accept 1 point of burn when a creature fails their save as an immediate action to instead extend the duration of the ability by 1 hour per 2 kineticist levels you possess, and you are always aware when your psychic persuasion is ending. Each time a creature would make a save against this effect, they gain a +1 bonus for each save it previously failed. You cannot use this ability when the duration of your psychic persuasion would end due to using it against another creature.
 
 #### Esoteric Knowledge
 
-**Element(s)**mind;**Level**1;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 1; **Type** utility (Su); **Burn** —
 
 Select one Knowledge skill; you are treated as though you had a number of ranks in that Knowledge skill equal to your kineticist level you possess. You can accept 1 point of burn to change your selected Knowledge skill to a different Knowledge skill. If you do so, you can switch your selected Knowledge skill and your original Knowledge skill as a swift action until you recover burn, returning to your initial Knowledge skill at that time. You can select this talent a second time at 10th level.
 
 #### Eternal Domination
 
-**Element(s)**mind;**Level**9;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 9; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** psychic enslavement
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Your mental domination has reached its pinnacle. Select one creature affected by your psychic persuasion. The duration of that ability is now permanent and works even if you and the target are on different planes, requiring a wish or miracle spell to end its effect. You can end this effect as a full-round action, severing any mental control you have over the target. This effect is treated as extraordinary for the purpose of working inside areas where magic does not function. This is a compulsion effect.
 
 #### Expanded Telepathy
 
-**Element(s)**mind;**Level**1;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 1; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** basic neurokinesis
 
 Your mind can link with those further away, increasing the range of your telepathy by 10 ft. per 2 kineticist levels you possess.
 
 #### Flash of Amnesia
 
-**Element(s)**mind;**Level**2;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 2; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You know how to alter the short term memory of others as a full-round action, allowing you to erase up to the last minute of memories from a creature.
 
 #### Flood Psyche
 
-**Element(s)**mind;**Level**5;**Type**utility (Sp);**Burn** 1
-**Saving Throw**Will disbelief;**Spell Resistance** yes
+**Element(s)** mind; **Level** 5; **Type** utility (Sp); **Burn** 1
+**Saving Throw** Will disbelief; **Spell Resistance** yes
 
 You can flood the surrounding area with a wash of psychic energy, treating it as mind fog.
 
 #### Grant Sentience
 
-**Element(s)**mind;**Level**8;**Type**utility (Sp);**Burn** 1
-**Saving Throw**Will negates (harmless);**Spell Resistance** yes
+**Element(s)** mind; **Level** 8; **Type** utility (Sp); **Burn** 1
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
 You can imbue non-sentient beings with a mind, affecting the target as if with an *awaken* spell. This ability can affect only plants, animals, and vermin with an Intelligence score of 2 or lower, and can affect them even if they are mindless. This ability ignores immunity to mind-affecting effects.
 
 #### Habitual Liar
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You force a creature to lie whenever it speaks for 10 minutes per kineticist level you possess as per the compulsive liarUI spell. You can accept 1 point of burn to also treat the target as though under the effects of deceitful veneerUI. This is a compulsion effect.
 
 #### Haphephobia
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Your targets become incredibly scared of physical contact. For 1 minute per 2 kineticist levels you possess, they cannot deliver effects or abilities by touching or making touch attacks (such as the paladin’s lay on hands or the chill touch spell) or perform unarmed strikes or natural attacks unless they first succeed a Will save with this talent’s DC to allow them to do so that round, and harmless effects and abilities targeting them that require a touch must pass their touch AC as if made as a melee touch attack, or have no effect. This doesn’t affect touch attacks delivered without making direct contact (such as ranged touch attacks, or melee touch attacks made with a conductiveUE weapon). You can accept 1 point of burn to increase the duration to 1 day per kineticist level. This ability is a fear effect.
 
 #### Historical Erasure
 
-**Element(s)**mind;**Level**9;**Type**utility (Sp);**Burn** 1
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 9; **Type** utility (Sp); **Burn** 1
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You can wipe all memory of an individual or event from the minds of others. This functions as damnation of memoryISR except you can choose a number of creatures up to your Constitution modifier to be unaffected, and the memories are stored within your own mind (being returned to affected creatures only if you die). Only one use of this ability can be in effect at a time; if you use this wild talent again, all memories lost from the previous use of the ability will return to each affected target within 1d4 hours.
 
 #### Hivemind
 
-**Element(s)**mind;**Level**3;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 3; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** basic neurokinesis
 
 All creatures within the range of your telepathy also gain telepathy with the same range as your own. Whenever a creature enters the range of your telepathy, you can choose to exclude them from this effect.
 
 #### Hivemind, Improved
 
-**Element(s)**mind;**Level**4;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 4; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** hivemind
 
 You have access to all teamwork feats possessed by allies affected by your hivemind as if you possessed those feats. You can accept 1 point of burn and choose one teamwork feat you possess (including those known through this ability) plus an additional one per 5 kineticist levels you possess; for one minute, any allies affected by your hivemind can access the feat(s) you chose as if they possessed them.
 
 #### Hivemind, Greater
 
-**Element(s)**mind;**Level**6;**Type**utility (Su);**Burn** 1
+**Element(s)** mind; **Level** 6; **Type** utility (Su); **Burn** 1
 **Prerequisite(s)** improved hivemind
 
 Until the next time you recover burn, you have access to all teamwork feats possessed by every non-mindless creature within range of your telepathy (even those excluded from your hivemind), and can share those feats with your allies with improved hivemind. In addition, those who have gained telepathy through your hivemind are treated as having the hivemind wild talent as well.
 
 #### Hypochondria
 
-**Element(s)**mind;**Level**5;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 5; **Type** utility (Su); **Burn** —
 **Requirement(s)** haphephobia
 
 Victims of your haphephobia wild talent are sickened for 1 round whenever they successfully use or are affected by an action that would trigger haphephobia. If they were already sickened when they successfully use an action that would trigger haphephobia, you can accept 1 point of burn as an immediate action to intensify their phobia, causing them to become nauseated for a number of rounds equal to ½ your Constitution modifier (minimum 1) and sickened for the same duration once the nauseated condition is removed. This is a fear effect.
 
 #### Implant Dream
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 1
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 1
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You are capable of subconscious implanting a thought into a creature’s dreams. You can implant up to 25 words into a creature’s subconscious which it will hear the next time it sleep. The way it hears and interprets these words is up to the target, as you have no control over how these words will manifest in their dream.
 
 #### Implant Dream, Improved
 
-**Element(s)**mind;**Level**5;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 5; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** implant dream
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 This works as implant dream, except you can make the target entirely aware of the intent behind your words, choosing a form for them to see that will speak your message in clear terms. You can also create it as a nightmare, forcing the target to make a will save or gain no benefit from resting for the next 24 hours. If used in this way, this ability is a fear effect.
 
 #### Life After Undeath
 
-**Element(s)**aether or mind;**Level**1;**Type**utility (Su);**Burn** —
+**Element(s)** aether or mind; **Level** 1; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** undead type with humanoid shape
 
 Your kinetic power awakened just a little bit later than it does in most. You count as humanoid with a subtype of your choice or as outsider (native) for the purpose of how spells and abilities affect you (though options are at GM discretion) and can change your alignment to any one of your choosing at the time this wild talent is gained, but retain your undead type (as well as any decomposition you suffered during your undeath) permanently, being treated as a positive energy powered undead. You lose all of your undead traits except for immunity to bleed, disease, and sleep, and you do not need to breathe, eat, or sleep. You are healed by both positive and negative energy. If you had no Intelligence score before taking this wild talent, you gain 2d6+6 Intelligence. You do not gain a Constitution score if you didn’t have one, instead using your Charisma in its place to calculate your hit points, Fortitude save, and any abilities to which Constitution would normally apply (such as kinetic blast damage); if you did have a Constitution score, you still use it as normal.
@@ -525,237 +525,237 @@ You can choose to gain this wild talent in place of basic neurokinesis or basic 
 
 #### Lingering Energy
 
-**Element(s)**aether, air, fire, mind, void, or water;**Level**5;**Type**utility (Sp);**Burn** 1
+**Element(s)** aether, air, fire, mind, void, or water; **Level** 5; **Type** utility (Sp); **Burn** 1
 **Prerequisite(s)** any energy blast
 
 As an immediate action when you reduce a creature’s hit points to 0 or lower with an energy kinetic blast, you can have your blast’s energy linger around them until the end of your next turn. During that time, the next creature that touches it is treated as if it was hit by the same kinetic blast (without form infusions applied), receiving a Reflex save to avoid the blast outright as well as a +5 bonus to saves against any infusions that were applied to that blast if it hits them. This wild talent can only affect one creature at a time.
 
 #### Mania/Phobia
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 0
 **Saving Throw** will negates
 
 You know how to trigger intense fear or fascination inside of a creature’s mind. Select a single substance or object such as but not limited to fire, water, blood, acid, darkness, insects and spiders, incorporeal creatures, or nature to become the object of the target’s mania or phobia as per the madness affliction mania/phobiaGMG. This mania or phobia last until cured normally, and you can accept 1 burn while using this ability to replace the normal will save for a mania or phobia with the will save for this wild talent. If you select phobia for this, this ability is treated as a fear effect.
 
 #### Mental Erasure
 
-**Element(s)**mind;**Level**4;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 4; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You’re capable of burning away a target’s mind as per the mindwipeOA spell, although you can only apply a maximum number of negative levels to a creature equal to ½ your kineticist level with this ability.
 
 #### Mesmerizing Suggestion
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 1
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 1
 
 When you select this wild talent, select 1 mesmerist trickOA. Whenever you use this ability, you gain a number of uses of this mesmerist trick equal to your Constitution modifier (minimum 1), being able apply it to yourself as if using the mesmerist tricks class feature. Use your kineticist levels and Constitution modifier in place of mesmerist levels and Charisma modifier to determine the DCs for and effects of tricks. You can not implant this trick into another creature.
 
 #### Mesmerizing Suggestion, Improved
 
-**Element(s)**mind;**Level**5;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 5; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** mesmerizing suggestion
 
 You learn 1 additional mesmerist trick which you can implant through mesmerizing suggestion. You can also implant a number of tricks into other creatures as per the mesmerist tricks class feature, and can activate them if those creatures are within range of your telepathy. Each time you use mesmerizing suggestion, you can implant 1 additional trick per 4 kineticist levels you possess.
 
 #### Mesmerizing Suggestion, Greater
 
-**Element(s)**mind;**Level**7;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 7; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** improved mesmerizing suggestion
 
 You gain one additional mesmerist trick and one masterful trickOA which you can implant through mesmerizing suggestion. In addition, you can accept an additional 1 point of burn when implanting a trick to allow it to remain implanted even when activated, lasting until you next recover burn; this increases to 2 points of burn if this is used with a masterful trick, and cannot be used with a trick that grants temporary hit points or heals damage.
 
 #### Mindlink
 
-**Element(s)**mind;**Level**1;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 1; **Type** utility (Su); **Burn** —
 
 You can detect the emotional state of those around you. You treat any creature within 100 ft. as if they had the a familiar’s empathic link ability, except they cannot sense your emotions in return. Any creature made aware of this effect can attempt a Will save (DC = 10 + ½ your kineticist level + your Con modifier) once per round as a swift action that requires concentration to break the link for 24 hours.
 
 #### Mindscape Architect
 
-**Element(s)**mind;**Level**5;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will disbelief;**Spell Resistance** yes
+**Element(s)** mind; **Level** 5; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will disbelief; **Spell Resistance** yes
 
 You know how to create your own mindscape, as per the create mindscapeOA spell, and can use the mindscape doorOA spell inside of any mindscape you create. You can accept 1 burn to use mindscape door inside of a mindscape created by another creature.
 
 #### Mindscape Architect, Improved
 
-**Element(s)**mind;**Level**8;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 8; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** mindscape architect
 
 You can now treat this ability as create greater mindscapeOA and do not need to accept burn to use mindscape door inside of a mindscape created by another creature. You can also maintain one permanent mindscape of your own creation. If this permanent mindscape is dispelled, you can recreate it as a standard action.
 
 #### Mind Break
 
-**Element(s)**mind;**Level**7;**Type**utility (Sp);**Burn** 1
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 7; **Type** utility (Sp); **Burn** 1
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Your psychic powers can destroy a creature’s mind as per the insanity spell.
 
 #### Mind Over Matter
 
-**Element(s)**mind;**Level**8;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 8; **Type** utility (Sp); **Burn** 0
 
 You can select one object within 60 ft. of yourself, treating yourself as though under the effects of a subjective realityOO spell in regards to it.
 
 #### Mind's Eye
 
-**Element(s)**mind;**Level**4;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 4; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** basic neurokinesis
 
 As a move action, you gain blindsense equal to the distance of your telepathy for 1 round per 2 kineticist levels you possess. You can accept 1 point of burn to increase the duration to 1 minute per 2 kineticist levels you possess. This blindsense cannot detect creatures without an intelligence score or those immune to mind-affecting effects.
 
 #### Mind’s Eye, Improved
 
-**Element(s)**mind;**Level**6;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 6; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** expanded telepathy, mind’s eyes
 
 As a move action, you gain blindsight equal to the distance of your telepathy for 1 round per 2 kineticist levels you possess, closing your eyes to do so. You can accept 1 point of burn to increase the duration to 1 minute per 2 kineticist levels you possess. This blindsight cannot detect creatures without an intelligence score or those immune to mind-affecting effects.
 
 #### Mind Reader
 
-**Element(s)**mind;**Level**2;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 2; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** basic neurokinesis
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You can delve into the mind of a single creature within the range of your telepathy, otherwise acting as per the detect thoughts spell. At 6th level and every 4 levels after, you can detect the thoughts of an additional creature.
 
 #### Mind Reader, Improved
 
-**Element(s)**mind;**Level**4;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 4; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** mind reader
 
 Your mind reader talent can also be used as detect anxietiesUI and detect desiresUI and detect the thoughts of 1 additional creature.
 
 #### No Filter
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates (see text);**Spell Resistance** yes
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates (see text); **Spell Resistance** yes
 
 As long as you maintain concentration on a target within 120 ft. and they remain within line of effect, they become unable to hold their thoughts in. They automatically fail any Bluff, Diplomacy, or Sleight of Hand attempt they make to deceive or hide the truth from another creature unless they also succeed a Will save (DC = 10 + your kineticist level). If you possess the mindlink wild talent, you can accept 1 point of burn as a swift action when you sense negative emotions toward another creature to compel the affected creature to blurt out those thoughts unless they succeed an additional Will save (DC = 20 + your kineticist level). Creatures that have taken a vow of silence receive a +10 circumstance bonus to these saves, and this ability cannot affect creatures with animal intelligence.
 
 #### Perfect Disguise
 
-**Element(s)**mind;**Level**2;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 2; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You are capable of drawing out the memories of a creature to create a disguise as per the assumed likenessISI spell. You can accept 1 burn to increase the duration of this ability to 1 hour per kineticist level you possess or to double the effects of your chosen emotion. This is a phantasm effect.
 
 #### Piercing Thoughts
 
-**Element(s)**mind;**Level**3;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 3; **Type** utility (Su); **Burn** —
 
 You are adept at breaking through barriers to someone’s mind. If a creature receives any bonuses to their Will save which specifically protect against mind-affecting effects (such as mind blank or the bonus provided by reifying infusion), ignore an amount of the sum of those bonuses equal to 1 per 3 kineticist levels you possess (minimum 1) when affecting a creature with a mind wild talent (ex: a 9th level kineticist could treat a creature under the effects of mind blank as receiving a +5 bonus to mind-affecting spells and effects).
 
 #### Predicted Maneuvers
 
-**Element(s)**mind;**Level**1;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 1; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** basic neurokinesis
 
 When you ready any mind wild talent against a specific type of attack action or combat maneuver, increase its DC by +1. This bonus increases by +1 at 5th level and every 5 levels thereafter. If a kinetic blast or an attack using a kinetic blast is readied this way, you can apply this bonus to its attack roll(s) instead.
 
 #### Psychic Duelist
 
-**Element(s)**mind;**Level**2;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 2; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You know how to draw people into mental combat as per the instigate psychic duelOA spell.
 
 #### Psychic Enslavement
 
-**Element(s)**mind;**Level**6;**Type**utility (Sp);**Burn** —
+**Element(s)** mind; **Level** 6; **Type** utility (Sp); **Burn** —
 **Prerequisite(s)** psychic persuasion
 
 Treat this as psychic persuasion except it can now function as as dominate person or dominate animal with a duration of 10 minutes per kineticist level you possess. At 18th level, you can instead treat it as dominate monster. You can accept 1 point of burn to increase the duration to 2 hours per kineticist level you possess. This is a compulsion effect.
 
 #### Psychic Hotline
 
-**Element(s)**mind;**Level**7;**Type**utility (Sp);**Burn** 1
+**Element(s)** mind; **Level** 7; **Type** utility (Sp); **Burn** 1
 **Prerequisite(s)** psychic connection
 
 As a full-round action, you can treat a creature affected by your psychic connection as the source of a mind wild talent you use as part of this ability. You are not required to accept additional burn to have a wild talent used in this way affect creatures other than the one affected by your psychic connection.
 
 #### Psychic Network
 
-**Element(s)**mind;**Level**5;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 5; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** psychic connection
 
 You can affect one additional creature with your psychic connection per 6 kineticist levels you possess. When you target one of these creatures with a mind wild talent through psychic connection, you can accept 1 point of burn at will to have that talent affect an additional creature affected by your psychic connection. Burn accepted this way to use a kinetic blast cannot be reduced through gather power.
 
 #### Psychic Persuasion
 
-**Element(s)**mind;**Level**1;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 1; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You know how to persuade others as per *charm person* or *charm animal*, although the duration is reduced to 10 minutes per kineticist level you possess. At 6th level you can instead treat this as charm monster. You can accept 1 point of burn to increase the duration to 1 hour per kineticist level you possess, and can end this effect as a free action. You can only have one creature affected by this ability at a time; attempting to use it on another creature while this ability is in effect instantly ends the effect on the previously charmed creature. This is a charm effect.
 
 #### Psychological Healing
 
-**Element(s)**mind;**Level**6;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 6; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** kinetic healer
-**Saving Throw**Will negates (harmless);**Spell Resistance** yes
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
 Your kinetic healerOA wild talent can also remove mind-affecting effects from a creature, being treated as greater restoration for this purpose.
 
 #### Psychosomatic Malady
 
-**Element(s)**mind;**Level**4;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 4; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You know how to trick the mind into believing the body is affected with some debilitating condition as per phantasmal afflictionUI. You can only affect 1 creature at a time with this ability, and afflicting a new creature removes the condition from the previously afflicted creature. This is a phantasm effect.
 
 #### Psychosomatic Calamity
 
-**Element(s)**mind;**Level**7;**Type**utility (Sp);**Burn** 1
+**Element(s)** mind; **Level** 7; **Type** utility (Sp); **Burn** 1
 **Prerequisite(s)** psychosomatic malady
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Treat this as psychosomatic malady except that afflicting a new creature no longer removes the condition from previously afflicted creatures, and you can affect 1 additional creature per 2 kineticist levels simultaneously.
 
 #### Psycho Crusher
 
-**Element(s)**mind;**Level**7;**Type**utility (Sp);**Burn** 1
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 7; **Type** utility (Sp); **Burn** 1
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You know how to mentally cripple a foe, breaking their mind as per the feeblemind spell.
 
 #### Sleepwalker
 
-**Element(s)**mind;**Level**6;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Element(s)** mind; **Level** 6; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You trick a creature’s mind into believing it is dreaming as per dream realityISI.
 
 #### Smooth Negotiator
 
-**Element(s)**mind;**Level**1;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will partial;**Spell Resistance** yes
+**Element(s)** mind; **Level** 1; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will partial; **Spell Resistance** yes
 
 You’re skilled at making a creature’s goals coincide with your own as per the implant urgeISI spell except the duration is 10 minutes per kineticist level you possess. You can accept 1 point of burn to increase the duration to 1 hour per kineticist level you possess, and you can only affect one creature with this ability at a time; targeting another creature with this ability ends the previous effect. This is a compulsion effect.
 
 #### Smooth Negotiator, Improved
 
-**Element(s)**mind;**Level**4;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 4; **Type** utility (Sp); **Burn** 0
 **Prerequisite(s)** smooth negotiator
-**Saving Throw**Will partial;**Spell Resistance** yes
+**Saving Throw** Will partial; **Spell Resistance** yes
 
 Treat this as smooth negotiator except that it is now treated as inveigle personISI. At 14th level, you can instead treat this as inveigle monsterISI.
 
 #### Spellthief
 
-**Element(s)**mind;**Level**3;**Type**utility (Sp);**Burn** 0
+**Element(s)** mind; **Level** 3; **Type** utility (Sp); **Burn** 0
 
 As an immediate action, you can attempt a disarm combat maneuver against a creature attempting to deliver a spell against you with a melee touch or weapon attack, allowing you to immediately deliver its effects to a new target (which can be the original caster) with a free touch attack as if they’d cast it against that target. If no creature is within your natural reach, the charge is immediately dispelled harmlessly instead.
 
 #### Spellthief, Improved
 
-**Element(s)**mind;**Level**5;**Type**utility (Sp);**Burn** —
+**Element(s)** mind; **Level** 5; **Type** utility (Sp); **Burn** —
 **Prerequisite(s)** spellthief
 
 You can accept 1 point of burn when you use spellthief to hold the charge yourself rather than immediately delivering it, and can use spellthief as a standard action to steal a charge that a creature is holding even if they do not attempt to deliver it. In addition, you can use your kineticist level in place of the original user’s caster level if it is higher, and can use your Con modifier in place of any mental score they would normally have applied to it when you deliver the stolen charge to determine its effects.
 
 #### Stimulated Intellect
 
-**Element(s)**mind;**Level**1;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 1; **Type** utility (Su); **Burn** —
 
 Your kinetic powers stimulate your mind more than your intellect. When making an Intelligence check, you can replace your Intelligence modifier with your Constitution modifier, and you treat all Knowledge skills as class skills.
 
@@ -763,30 +763,30 @@ You can select this wild talent in place of basic neurokinesis.
 
 #### Telepuppet, Passive
 
-**Element(s)**mind;**Level**4;**Type**utility (Sp);**Burn** 0
-**Saving Throw**Will negates (harmless, see text);**Spell Resistance** yes
+**Element(s)** mind; **Level** 4; **Type** utility (Sp); **Burn** 0
+**Saving Throw** Will negates (harmless, see text); **Spell Resistance** yes
 
 You know how to invade the senses of others. You can use the senses of a willing creature up to a distance of 1 mile, being able to see, hear, feel, taste, and smell as though you were them for 1 hour per kineticist level you possess. While using this ability, you are staggered for its duration, although you can end this effect anytime as a swift action. You are returned to your own body if the target dies while you are still inside of their mind, ending the effect instantly. If you possess the psychic persuasion wild talent, you can attempt to use passive telepuppet on anyone affected by that talent, and you can accept 1 point of burn to remove the will save from this ability against those under the effects of your psychic persuasion.
 
 #### Telepuppet, Active
 
-**Element(s)**mind;**Level**6;**Type**utility (Sp);**Burn** 1
+**Element(s)** mind; **Level** 6; **Type** utility (Sp); **Burn** 1
 **Prerequisite(s)** passive telepuppet
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 Treat this as passive telepuppet except it now functions as the possessionUI spell, although you are unable to take a standard for full round action while this ability is active instead of appearing dead and the range is treated as 1 mile per kineticist level you possess. This is a compulsion effect.
 
 #### Thought Shield
 
-**Element(s)**mind;**Level**2;**Type**utility (Su);**Burn** —
+**Element(s)** mind; **Level** 2; **Type** utility (Su); **Burn** —
 **Prerequisite(s)** numbness
 
 While your numbness defensive wild talent is active, you gain a +1 morale bonus to will saves. This bonus increases by 1 for every 2 points of burn you possess. If you possess 6 or more burn, your mind appears blank to anyone attempting to scan it with abilities such as detect thoughts.
 
 #### True Amnesia
 
-**Element(s)**mind;**Level**8;**Type**utility (Sp);**Burn** 2
+**Element(s)** mind; **Level** 8; **Type** utility (Sp); **Burn** 2
 **Prerequisite(s)** flash of amnesia
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 
 You wipe a creature’s mind clean as per the madness affliction amnesiaGMG. This affliction is permanent until otherwise cured.

@@ -10,7 +10,7 @@ parent: "[[Spheres Of Power]]"
 
 A spirit-wielder is a fighter who communes with the spirit of his weapons, bringing out their souls and awakening their secret minds.
 
-### Coax The Weapon-Spirit (Su)
+## Coax The Weapon-Spirit (Su)
 
 A spirit-wielder of at least 2nd level may spend 8 hours ritually awakening the spirit of one of his weapons. The weapon becomes an intelligent weapon (if it was not previously). The weapon begins with an Intelligence, Wisdom, and Charisma of 10. At 6th level and every 4 levels thereafter, increase each of its mental ability scores by +2. The weapon shares the spirit-wielder’s alignment and always begins friendly toward the spirit-wielder. The sword gains telepathy (but only with its wielder), and understands all languages its wielder does. It is aware of everything around it like a creature that can see and hear, and can be blinded and deafened as if it were a creature. The weapon uses the spirit-wielder’s saving throws as its own.
 
@@ -18,7 +18,7 @@ A spirit-wielder may only have one awakened weapon at any given time; while bein
 
 This ability replaces bravery.
 
-### Kindle the Weapon-Spirit (Su)
+## Kindle the Weapon-Spirit (Su)
 
 At 3rd level, a spirit-wielder’s awakened weapon gains the Enhancement sphere, with a spell pool equal to its Charisma modifier. It is treated as a Low-Caster with a level equal to the spirit-wielder’s class level. The weapon gains an additional magic talent of the spirit-wielder’s choice at 7th, 11th, and 15th level, and can even branch out to different spheres if desired. An awakened weapon may select a casting tradition - if the tradition possesses a drawback the awakened weapon cannot satisfy on its own (such as Somatic Casting), it must have its wielder fulfill it instead (usually a free action).
 
@@ -26,19 +26,19 @@ An awakened weapon can target its wielder with magical effects, even when the ef
 
 This ability replaces armor training 1, 2, 3, and 4.
 
-### Hone the Weapon-Spirit (Su)
+## Hone the Weapon-Spirit (Su)
 
 At 5th level, the spirit-wielder’s awakened weapons begin to become hardened and refined past mortal craftsmanship. Awakened weapons have their hardness increased by 2 and their hit points increased by 10 at 5th level, and again every 4 levels thereafter. At 9th level, an awakened weapon may bypass damage reduction as if it were made of cold iron; at 13th level, an awakened weapon may bypass damage reduction as if it were made of silver. At 17th level, an awakened weapon may bypass damage reduction and hardness as if it were made of adamantine.
 
 This ability replaces weapon training 1, 2, 3, and 4.
 
-### Temper the Weapon-Spirit (Su)
+## Temper the Weapon-Spirit (Su)
 
 At 19th level, a spirit-wielder’s awakened weapons are practically indestructible. Double the benefits of hone the weapon-spirit; an awakened weapon may now ignore hardness less than its own.
 
 This ability replaces armor mastery.
 
-### Steel Legend (Ex)
+## Steel Legend (Ex)
 
 At 20th level, a spirit-wielder’s awakened weapons are considered part of his body for the purposes of resurrection. In addition, the spirit-wielder cannot be disarmed of his awakened weapons, and may take 10 on an attack roll made with it once per round.
 

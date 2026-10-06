@@ -105,7 +105,7 @@ The blacksmith and his allies gain a +2 bonus to all damage rolls made with manu
 
 #### Swarm Proofing
 
-**Source:** [The Highlander's Handbook](https://www.drivethrurpg.com/product/284514/The-Highlanders-Handbook?affiliate_id=549120)
+*Source: [The Highlander's Handbook](https://www.drivethrurpg.com/product/284514/The-Highlanders-Handbook?affiliate_id=549120)*
 
 The blacksmith sews durable, yet flexible material into the gaps of the clothing and armor; all creatures affected by this maintenance gain DR 2/- against swarms of any size; at 5th level and every 5 levels thereafter the DR increases by 2.
 
@@ -127,7 +127,7 @@ The blacksmith’s expertise in crafting and maintaining weapons and equipment h
 
 #### Alchemical Maintenance [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 You gain the Alchemy sphere for the (formulae) package and must select the Armor Maintenance Kit talent with the free (formulae) talent granted by that package.
 
@@ -203,7 +203,7 @@ The blacksmith’s shieldcraft has reached its pinnacle, allowing him to craft s
 
 #### Painful Shred [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 For a number of rounds equal to 1/2 the blacksmith's level after giving a creature’s armor the broken condition or reducing a creature’s natural armor bonus to 0, the creature is battered and takes an amount of damage equal to the 1/2 the blacksmith’s level + the blacksmith’s practitioner modifier whenever it moves more than 5 feet. This damage is of the same type as the weapon the blacksmith used to sunder the armor or natural armor and bypasses damage reduction in the same way.
 
@@ -279,11 +279,11 @@ At 20th level the blacksmith reaches the pinnacle of his craft. Throughout his c
 
 # Blacksmith Alternate Class Features
 
-**Skilled Tinkerer (Ex) [SUE]**: At 2nd level, any of the blacksmith class abilities that use Profession (blacksmith) instead use the blacksmith’s Tinker sphere associated skill (including blacksmith smithing insights, favored class bonuses, etc.).
+**Skilled Tinkerer (Ex) [SUE]:** At 2nd level, any of the blacksmith class abilities that use Profession (blacksmith) instead use the blacksmith’s Tinker sphere associated skill (including blacksmith smithing insights, favored class bonuses, etc.).
 
 This ability alters skilled craftsman.
 
-**Special**: The blacksmith may choose to retrain the skilled craftsman ability into this ability immediately upon first gaining the Tinker sphere.
+**Special:** The blacksmith may choose to retrain the skilled craftsman ability into this ability immediately upon first gaining the Tinker sphere.
 
 ---
 
@@ -327,11 +327,11 @@ The following magical items are especially appropriate for blacksmiths.
 
 The forging hammer is a practical-looking smithing tool that is equally useful on the battlefield. In addition to its other properties, it always functions as a fire-forged steelUE light hammer.
 
-**Power Level:** Heirloom,**Focuses:** Powerful (Blacksmith 6), Trained (Profession (blacksmith))**Shape** Light hammer
+**Power Level:** Heirloom, **Focuses:** Powerful (Blacksmith 6), Trained (Profession (blacksmith)) **Shape** Light hammer
 
-**Base Power:** As a standard action, the forging hammer can be used to ignite a Medium-sized fire, suitable for use as a forge, or quench a fire of Medium size or smaller; treat this as the Create Fire ability of the Nature sphere DC 10 + 1/2 user’s CL + user’s CAM.**Increases** none
+**Base Power:** As a standard action, the forging hammer can be used to ignite a Medium-sized fire, suitable for use as a forge, or quench a fire of Medium size or smaller; treat this as the Create Fire ability of the Nature sphere DC 10 + 1/2 user’s CL + user’s CAM. **Increases** none
 
-**5th Level:** The forging hammer becomes a +1 fire-forged steel light hammer.**Increases** At 6th level, the forging hammer becomes a +1 igniting fire-forged steel light hammer. At 10th level, the forging hammer becomes a +1 burning igniting fire-forged steel light hammer. At 12th level, the forging hammer becomes a +2 burning igniting fire-forged steel light hammer. At 14th level, the forging hammer becomes a +3 burning igniting fire-forged steel light hammer.
+**5th Level:** The forging hammer becomes a +1 fire-forged steel light hammer. **Increases** At 6th level, the forging hammer becomes a +1 igniting fire-forged steel light hammer. At 10th level, the forging hammer becomes a +1 burning igniting fire-forged steel light hammer. At 12th level, the forging hammer becomes a +2 burning igniting fire-forged steel light hammer. At 14th level, the forging hammer becomes a +3 burning igniting fire-forged steel light hammer.
 
 **10th Level:** By spending five minutes concentrating, the wielder of the forging hammer can summon a complete forge in an open 15-foot cube of space on top of a solid surface. This forge is fully equipped with all the tools and equipment required to forge items, assuming the user has the raw materials.
 
@@ -343,8 +343,8 @@ The forge vanishes one minute after the summoner leaves it, and any components t
 
 #### Professional Repair Kit [TS:WAT]
 
-**Aura**faint Creation;**CL** 5th
-**Slot**none;**Price**15,000 gp;**Weight** 15 lbs.
+**Aura** faint Creation; **CL** 5th
+**Slot** none; **Price** 15,000 gp; **Weight** 15 lbs.
 
 This kit is full of various specialized tools. In addition to counting as a masterwork set of tools for blacksmithing (providing a +2 circumstance bonus on all Profession (blacksmith) checks), a creature who uses the skilled craftsman class feature to repair an item may repair an additional hit point per blacksmith level. In addition, a creature with the skilled craftsman ability counts as two levels higher when determining what items they can repair.
 
@@ -353,8 +353,8 @@ Craft Apparatus, Creation sphere (Potent Alteration), creator must have the skil
 
 #### Resonant Striker [TS:WAT]
 
-**Aura**faint Destruction;**CL** 4th
-**Slot**special, see text;**Price**18,000 gp;**Weight** 5 lbs.
+**Aura** faint Destruction; **CL** 4th
+**Slot** special, see text; **Price** 18,000 gp; **Weight** 5 lbs.
 
 This heavy weight can be attached to a weapon and seems to vibrate at unusual frequencies when the weapon strikes certain types of targets. When a creature with the thunderous blows class feature sunders a target’s natural armor, any creature attempting to remove the penalty must first use a move action to steady the creature with the penalty and stop the resonance.
 

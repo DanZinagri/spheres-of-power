@@ -8,27 +8,27 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Casting
+## Casting
 
 The eclectic researcher may combine spheres and talents to produce wondrous effects. He is considered to be a High-Caster. (Note: All casters gain 2 bonus talents, and a casting tradition, upon first gaining the casting class feature.)
 
 This replaces the spells class feature.
 
-### Spell Pool
+## Spell Pool
 
 The eclectic researcher gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 An eclectic researcher gains 2 magic talents at every odd level and 1 at every even level. If he does not already possess it, one of the magic talents he selects at 1st level must be the Enhancement sphere.
 
-### Researcher’s Notebook (Ex)
+## Researcher’s Notebook (Ex)
 
 An eclectic researcher gains the Spellbook Mastery and Spellcrafting feats as bonus feats at 1st level. The eclectic researcher also gains the effects of the Focus Casting drawback, but not the benefits, treating his spell books as his focus. This cannot be combined with the Focus Casting drawback. Once per day, an eclectic researcher may reduce the complexity of a spell cast from his notebook by 1 (minimum 0); this reduction increases to 2 at 10th level, and 3 at 18th level.
 
 This ability replaces the arcane bond class feature and the Scribe Scroll bonus feat.
 
-### Name-Bound Spells (Ex)
+## Name-Bound Spells (Ex)
 
 Starting at 1st level, an eclectic researcher may incorporate his identity into any spell he crafts; this involves personalized imagery and symbolism. Once he completes a spell developed through this method, he must name the spell after himself – any attempt at modesty or subtlety in the spell’s name renders the entire spell useless.
 

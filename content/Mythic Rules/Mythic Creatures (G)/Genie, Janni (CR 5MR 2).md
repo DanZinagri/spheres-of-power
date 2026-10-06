@@ -13,14 +13,14 @@ This regal figure looks like a tall, well-proportioned human, save that its eyes
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 N Medium outsider (mythic, native)
-**Init**+6;**Senses** darkvision 60 ft.; Perception +11
+**Init** +6; **Senses** darkvision 60 ft.; Perception +11
 
 #### Defense
 
-**AC**22,**touch**13,**flat-footed** 19 (+6 armor, +2 Dex, +1 dodge, +3 natural)
+**AC** 22, **touch** 13, **flat-footed** 19 (+6 armor, +2 Dex, +1 dodge, +3 natural)
 **hp** 59 (6d10+26)
-**Fort**+6,**Ref**+7,**Will** +4
-**Defensive Abilities**DR 5/epic;**Resist** fire 10
+**Fort** +6, **Ref** +7, **Will** +4
+**Defensive Abilities** DR 5/epic; **Resist** fire 10
 
 #### Offense
 
@@ -35,8 +35,8 @@ N Medium outsider (mythic, native)
 
 #### Statistics
 
-**Str**18,**Dex**15,**Con**12,**Int**14,**Wis**15,**Cha** 13
-**Base Atk**+6;**CMB**+10;**CMD** 23
+**Str** 18, **Dex** 15, **Con** 12, **Int** 14, **Wis** 15, **Cha** 13
+**Base Atk** +6; **CMB** +10; **CMD** 23
 **Feats** Combat ReflexesMF, Dodge, Improved InitiativeB, Mobility Skills Appraise +11, Craft (any one—usually weaponsmith) +11, Fly +14, Perception +11, Ride +6, Sense Motive +11, Spellcraft +11, Stealth +6
 **Languages** Common, one elemental language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal); telepathy 100 ft.
 **SQ** elemental endurance, elemental fungibilityMA, elemental insightMA, elemental summoningMA

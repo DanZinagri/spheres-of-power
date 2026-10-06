@@ -11,7 +11,7 @@ parent: "[[Spheres Of Power]]"
 
 While no-one will deny that ghosts are terrifying beings, they also possess abilities that many thieves envy greatly. They can turn invisible, walk through walls, be silent as the grave, and are invulnerable to all but the most potent of weapons and hazards. Many rogues find these powers so desirable that they turn their every effort to acquiring them. Those who succeed, whether through pacts with otherworldly powers or through their own arcane efforts, are commonly called spectral infiltrators, and they are nightmares to anyone who do not take the most extravagant of precautions against them.
 
-### Ghostwalk (Su)
+## Ghostwalk (Su)
 
 As a move action, a spectral infiltrator can partially shift his body, allowing him to move with wraith-like silence. While using this ability, his body and equipment becomes incorporeal for most purposes (although he still suffers half damage from non-magical corporeal sources), though he cannot fly or pass through solid objects or creatures. However, he can move at his normal speed along any surface, including horizontal and vertical surfaces and liquids, and is never slowed by difficult terrain, and gains a bonus equal to his class level to sound-based Stealth checks. Effects originating from corporeal sources that do not deal damage have a 20% chance to fail against the wraith instead of the normal 50%. Force effect are not subject to this failure chance.
 
@@ -23,43 +23,43 @@ At 14th level, the spectral infiltrator gains a fly speed of 30 feet (perfect) w
 
 This ability replaces trap sense/danger sense and the rogue talents gained at 2nd, 6th, and 14th level.
 
-### Rogue Talents
+## Rogue Talents
 
 The spectral infiltrator gains exclusive access to the following rogue talents:
 
-#### Extra Ghostwalk (Su)
+### Extra Ghostwalk (Su)
 
 You can use your ghostwalk ability for 4 additional rounds per day. In addition, you can spend a spell point as a free action to recover 2 rounds of your ghostwalk ability (up to your normal daily maximum). You may select this talent multiple times; each time you do, you gain 4 additional rounds of your ghostwalk ability per day.
 
-#### Madness (Su)
+### Madness (Su)
 
 You gain a +2 bonus to your Will saves against mind-affecting effects. If you succeed on a saving throw against a thought detection, mind control, or telepathic effect, your foe makes direct contact with your tortured mind and takes 1d4 points of Wisdom damage (no save).
 
-#### Possess Trap (Su)
+### Possess Trap (Su)
 
 When you successfully disarm a magic trap, you may change its trigger - such as from touch to visual, from one triggering location to another, etc. You must be at least 8th level and possess the trapfinding class feature (or a similar feature that allows you to disarm magic traps) to select this talent.
 
-#### Touch of Corruption (Su)
+### Touch of Corruption (Su)
 
 While using your ghostwalk ability, you can deliver touch talents and effects as if making an incorporeal touch attack. In addition, by spending 1 round of your ghostwalk ability, you can pass a part of your incorporeal body through a foe’s body as a standard action to inflict 1d6 damage per class level. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save halves the damage inflicted (DC 10 + 1/2 class level + Intelligence modifier).
 
-### Advanced Rogue Talents
+## Advanced Rogue Talents
 
 A spectral infiltrator can choose from the following advanced rogue talents in addition to those available to all rogues:
 
-#### Bewildering Strike (Su)
+### Bewildering Strike (Su)
 
 A spectral infiltrator with this ability can sneak attack opponents with such precision that his blows weaken and hamper them. An opponent damaged by one of his sneak attacks while the spectral infiltrator is incorporeal also takes a -2 penalty to Intelligence, Wisdom, or Charisma (spectral infiltrator’s choice) for 1 minute. This penalty stacks with itself but as usual cannot decrease a creature’s ability score to less than 1.
 
-#### Haunted Walls (Su)
+### Haunted Walls (Su)
 
 While incorporeal and completely inside an object, you can still make sneak attacks against foes, despite them having total concealment from you. You must be at least 14th level to select this talent.
 
-#### Mists of Confusion (Su)
+### Mists of Confusion (Su)
 
 If you share a square with an ally while using your ghostwalk ability, that ally gains concealment. If you share a square with an opponent, that opponent treats all targets as if they had concealment.
 
-### Spectral Strike (Su)
+## Spectral Strike (Su)
 
 At 20th level, a spectral infiltrator is able to breach the defenses of his foe’s minds in addition to their physical bastions. Once per round, when the spectral infiltrator deals sneak attack damage while incorporeal, he can force the target to succeed at a Will save or be possessed (as if by the Possession advanced talent).
 

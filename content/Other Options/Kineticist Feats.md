@@ -523,7 +523,7 @@ The following are new feats that can be taken by kineticists.
 **Benefit:** You gain the following form infusion; this infusion can be applied to your kinetic blast regardless of the normal limitations of your archetype:
 
 > **Ranged Blast**
-> **Element(s)**universal;**Type**form infusion;**Level**1;**Burn** 1
+> **Element(s)** universal; **Type** form infusion; **Level** 1; **Burn** 1
 > **Associated Blasts** any
 > **Saving Throw** none
 >

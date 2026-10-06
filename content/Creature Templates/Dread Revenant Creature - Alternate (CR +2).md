@@ -27,7 +27,7 @@ Dread revenants appear much as they did in life. Some appear as horrific undead,
 
 **Hit Dice:** Change all racial Hit Dice to d8s. Class Hit Dice are unaffected. As undead, dread revenants use their Charisma modifier to determine bonus hit points (instead of Constitution).
 
-**Defensive Abilities:** A dread revenant has channel resistance+4, fast healing (equal to the dread revenant’s Charisma score); DR 5/slashing (increase to 10/ magic and slashing if the base creature’s CR is 10 or higher, increase to 15/magic, good and slashing if its CR is 15 or higher);**Immune**cold, undead traits; SR 11 + the dread revenant’s CR.** Weakness:** Self-loathing (see below).
+**Defensive Abilities:** A dread revenant has channel resistance+4, fast healing (equal to the dread revenant’s Charisma score); DR 5/slashing (increase to 10/ magic and slashing if the base creature’s CR is 10 or higher, increase to 15/magic, good and slashing if its CR is 15 or higher); **Immune** cold, undead traits; SR 11 + the dread revenant’s CR. **Weakness:** Self-loathing (see below).
 
 **Melee:** A dread revenant gains a slam attack based on its size (Medium 1d6) if it does not already have one.
 
@@ -47,4 +47,4 @@ Dread revenants appear much as they did in life. Some appear as horrific undead,
 
 **Unnatural Aura (Su):** Animals, whether wild or domesticated, can sense the unnatural presence of the dread revenant at a distance of 30 feet. They do not willingly approach nearer than that and panic if forced to do so unless a master succeeds at a DC 25 Handle Animal, Ride, or wild empathy check. A panicked animal remains so as long as it is within 30 feet of the dread revenant.
 
-**Abilities**Increase the creature's abilities as follows:** Str**+6,**Cha** +6. As an undead creature, a dread revenant has no Constitution score.
+**Abilities** Increase the creature's abilities as follows: **Str** +6, **Cha** +6. As an undead creature, a dread revenant has no Constitution score.

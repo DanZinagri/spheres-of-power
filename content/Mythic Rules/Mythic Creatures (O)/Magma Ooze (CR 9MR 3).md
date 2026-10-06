@@ -13,28 +13,28 @@ This seething mass of bubbling molten rock churns and moves of its own hungry ac
 XP 6,400
 Pathfinder Roleplaying Game Bestiary 2
 N Large ooze (fire, mythic)
-**Init**–5;**Senses** blindsight 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 60 ft.; Perception –5
 **Aura** burning auraMA (5 ft., DC 19)
 
 #### Defense
 
-**AC**7,**touch**4,**flat-footed** 7 (–5 Dex, +3 natural, –1 size)
+**AC** 7, **touch** 4, **flat-footed** 7 (–5 Dex, +3 natural, –1 size)
 **hp** 109 (9d8+69)
-**Fort**+8,**Ref**–2,**Will** –2
-**Defensive Abilities**split (cold and slashing, 8 hp); DR 5/epic;**Immune** fire, ooze traits
+**Fort** +8, **Ref** –2, **Will** –2
+**Defensive Abilities** split (cold and slashing, 8 hp); DR 5/epic; **Immune** fire, ooze traits
 **Weaknesses** vulnerability to cold, vulnerability to water
 
 #### Offense
 
 **Speed** 10 ft., climb 10 ft.
 **Melee** slam +15 (2d6+15 plus burn and grab)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** burn (2d10, DC 19), constrict (2d6+15 plus 2d6 fire plus burn), lava bombMA (+0 ranged touch), mythic power (5/day, surge 1d6+1), searing heatMA
 
 #### Statistics
 
-**Str**30,**Dex**1,**Con**21,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+6;**CMB**+17 (+21 grapple);**CMD** 22 (can’t be tripped)
+**Str** 30, **Dex** 1, **Con** 21, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +6; **CMB** +17 (+21 grapple); **CMD** 22 (can’t be tripped)
 **Feats** Extra Mythic PowerMF, Potent SurgeMF
 **Skills** Climb +18
 **SQ** lava body, pyroclastic fissionMA

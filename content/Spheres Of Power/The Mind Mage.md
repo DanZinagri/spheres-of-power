@@ -10,13 +10,13 @@ parent: "[[Spheres Of Power]]"
 **The Mind Mage**
 Male/Female human eliciter 1
 CG Medium humanoid (human)
-**Init**+8;**Senses** Perception +2
+**Init** +8; **Senses** Perception +2
 
 ## Defense
 
-**AC**14,**touch**12,**flat-footed** 12 (+2 armor, +2 Dex)
+**AC** 14, **touch** 12, **flat-footed** 12 (+2 armor, +2 Dex)
 **hp** 9 (1d8+1)
-**Fort**+0,**Ref**+2,**Will** +3 (+2 vs charm and compulsion effects)
+**Fort** +0, **Ref** +2, **Will** +3 (+2 vs charm and compulsion effects)
 **Weaknesses** verbal casting
 
 ## Offense
@@ -25,13 +25,13 @@ CG Medium humanoid (human)
 
 ## Magic
 
-**Caster Level**0 (1);**MSB**+1;**MSD** 12; Concentration +5
-**Tradition**Verbal Casting;**CAM** Cha
+**Caster Level** 0 (1); **MSB** +1; **MSD** 12; Concentration +5
+**Tradition** Verbal Casting; **CAM** Cha
 **Spell Points** 6
-**Mind Sphere**-**DC**17;**Duration**None;**Range**Close (25 ft);**Talents**Enthrall;**Drawbacks** None
+**Mind Sphere** - **DC** 17; **Duration** None; **Range** Close (25 ft); **Talents** Enthrall; **Drawbacks** None
 - *Enthrall* (Lesser, Greater)
 - *Suggestion* (Lesser, Greater)
-**Telekinesis Sphere**-**DC**15;**Duration**Concentration;**Range**Close (25 ft);**Talents**None;**Drawbacks** None
+**Telekinesis Sphere** - **DC** 15; **Duration** Concentration; **Range** Close (25 ft); **Talents** None; **Drawbacks** None
 - *Bludgeon*
 - *Catch*
 - *Hostile Lift*
@@ -39,8 +39,8 @@ CG Medium humanoid (human)
 
 ## Statistics
 
-**Str**11,**Dex**14,**Con**10,**Int**12,**Wis**12,**Cha** 18
-**Base Atk**+0;**CMB**+0;**CMD** 12
+**Str** 11, **Dex** 14, **Con** 10, **Int** 12, **Wis** 12, **Cha** 18
+**Base Atk** +0; **CMB** +0; **CMD** 12
 **Feats** Improved Initiative, Sphere Focus
 **Traits** reactionary
 **Skills** Bluff +10, Diplomacy +10, Intimidate +10, Perception +2, Sense Motive +7, Spellcraft +5
@@ -68,21 +68,21 @@ Languages Common, Elven
 
 ---
 
-# THEME
+# Theme
 
 The master of mental powers.
 
-# BUILD RULES
+# Build Rules
 
 20 point buy.
 
-# SUGGESTED GROWTH
+# Suggested Growth
 
 -Get Expanded Charm as soon as you can, because it's absolutely vital to your character.
 
 -Mind is your thing, but don't totally neglect Telekinesis. Immunity to mind-affecting powers is a relatively common defense, and it's important to have a backup strategy.
 
-# NOTES
+# Notes
 
 -As an Eliciter, the DCs for your Mind powers are high. Your Sphere Focus (Mind) feat here raises them even higher, so you should succeed most of the time.
 

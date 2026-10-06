@@ -13,26 +13,26 @@ This vile predator has a hide as thick and tough as leather. Wicked ebony quills
 XP 1,200
 Pathfinder Roleplaying Game Bestiary 2
 CE Large outsider (chaotic, evil, extraplanar, mythic)
-**Init**+7MF;**Senses** darkvision 60 ft.; Perception+13
+**Init** +7MF; **Senses** darkvision 60 ft.; Perception+13
 
 #### Defense
 
-**AC**16,**touch**11,**flat-footed** 14 (+2 Dex, +5 natural, –1 size)
+**AC** 16, **touch** 11, **flat-footed** 14 (+2 Dex, +5 natural, –1 size)
 **hp** 47 (5d10+20)
-**Fort**+6,**Ref**+6,**Will** +3
+**Fort** +6, **Ref** +6, **Will** +3
 **Defensive Abilities** quill defense; DR 5/epic
 
 #### Offense
 
 **Speed** 60 ft.
 **Melee** bite +8 (1d8+4), quills +3 (1d4+2 plus pain)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** howl (DC 14), maddening quillsMA (DC 14), pain (DC 14), sanity vampireMA
 
 #### Statistics
 
-**Str**18,**Dex**15,**Con**15,**Int**6,**Wis**14,**Cha** 11
-**Base Atk**+5;**CMB**+10;**CMD** 22
+**Str** 18, **Dex** 15, **Con** 15, **Int** 6, **Wis** 14, **Cha** 11
+**Base Atk** +5; **CMB** +10; **CMD** 22
 **Feats** Combat Reflexes, Improved InitiativeMF, Skill Focus (Perception)
 **Skills** Acrobatics +10 (+22 jump), Climb +12, Perception +13, Stealth +6
 **Languages** Abyssal
@@ -47,7 +47,7 @@ CE Large outsider (chaotic, evil, extraplanar, mythic)
 
 **Howl (Su)** A mythic howler’s constant howling is a grating, exhausting baying that can drive listeners insane. All beings other than outsiders within 120 feet of a howling mythic howler must succeed on a DC 14 Will save or become cursed by the creature’s howl. Once a creature becomes cursed in this way, she takes no additional penalty for being exposed to additional howlers’ howls until the current howler curse is lifted. This is a sonic mind-affecting effect. The save DC is Charisma-based and includes a +2 racial bonus.
 
-*Howler Howl:* Curse—howl; **save**Will DC 14 negates;**frequency**1/hour;**effect**1 Wis damage;**cure** 1 save.
+*Howler Howl:* Curse—howl; **save** Will DC 14 negates; **frequency** 1/hour; **effect** 1 Wis damage; **cure** 1 save.
 
 **Maddening Quills (Su)** Each round a mythic howler’s quill remains inside a victim, the victim must succeed on a DC 14 Will save or take 2 points of Wisdom damage. A victim impaled by multiple quills must make a separate save for each quill. This is a mind-affecting insanity effect. The save DC is Charisma-based and includes a +2 racial bonus.
 

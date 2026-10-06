@@ -13,13 +13,13 @@ This sleek canine has a coarse, tawny coat, pointed ears, and pale eyes. A faint
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 LG Medium magical beast (mythic)
-**Init**+2;**Senses** darkvision 60 ft., low-light vision, scent; Perception +7
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, scent; Perception +7
 
 #### Defense
 
-**AC**15,**touch**12,**flat-footed** 13 (+2 Dex, +3 natural)
+**AC** 15, **touch** 12, **flat-footed** 13 (+2 Dex, +3 natural)
 **hp** 32 (3d10+16)
-**Fort**+5,**Ref**+5,**Will** +4
+**Fort** +5, **Ref** +5, **Will** +4
 **Defensive Abilities** wink outMA
 
 #### Offense
@@ -34,8 +34,8 @@ At will—quickened dimension door (self only)
 
 #### Statistics
 
-**Str**12,**Dex**15,**Con**14,**Int**10,**Wis**13,**Cha** 11
-**Base Atk**+3;**CMB**+4;**CMD** 16 (20 vs. trip)
+**Str** 12, **Dex** 15, **Con** 14, **Int** 10, **Wis** 13, **Cha** 11
+**Base Atk** +3; **CMB** +4; **CMD** 16 (20 vs. trip)
 **Feats** Combat ReflexesMF, Iron Will
 **Skills** Perception +7, Stealth +7, Survival +2 (+6 scent tracking)
 **Languages** Sylvan

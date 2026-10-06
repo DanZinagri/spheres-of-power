@@ -13,27 +13,27 @@ This repulsive, hunchbacked crone has skin the color of a fresh bruise. Despite 
 XP 3,200
 Pathfinder Roleplaying Game Bestiary 3
 CE Large monstrous humanoid (mythic)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +13
+**Init** +1; **Senses** darkvision 60 ft.; Perception +13
 
 #### Defense
 
-**AC**23,**touch**10,**flat-footed** 22 (+1 Dex, +13 natural, –1 size)
+**AC** 23, **touch** 10, **flat-footed** 22 (+1 Dex, +13 natural, –1 size)
 **hp** 96 (7d10+58)
-**Fort**+8,**Ref**+6,**Will** +6
-**Defensive Abilities**steelskinMA; DR 5/bludgeoning and epic;**SR** 20
+**Fort** +8, **Ref** +6, **Will** +6
+**Defensive Abilities** steelskinMA; DR 5/bludgeoning and epic; **SR** 20
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** bite +14 (1d6+8), 2 claws +14 (1d6+8 plus grab)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** fearful strengthMA, grisly grapplerMA, irongripMA, mythic power (3/day, surge +1d6), rend (2 claws, 2d6+12)
 **Spell-Like Abilities** (CL 7th; concentration +7) 3/day—alter self, fog cloud
 
 #### Statistics
 
-**Str**27,**Dex**12,**Con**18,**Int**13,**Wis**13,**Cha** 10
-**Base Atk**+7;**CMB**+16 (+20 grapple);**CMD** 27
+**Str** 27, **Dex** 12, **Con** 18, **Int** 13, **Wis** 13, **Cha** 10
+**Base Atk** +7; **CMB** +16 (+20 grapple); **CMD** 27
 **Feats** Alertness, Blind-FightMF, Great FortitudeMF, Intimidating Prowess
 **Skills** Bluff +7, Diplomacy +7, Intimidate +18, Perception +13, Sense Motive +3, Stealth +7
 **Languages** Common, Giant

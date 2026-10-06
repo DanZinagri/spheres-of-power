@@ -12,19 +12,19 @@ Companion feats can be taken either by a Conjuration sphere companion or by a ca
 
 The feat may not be reassigned to a different companion for as long as the chosen companion is in your service. The effects do not stack unless noted, each time one is taken it applies to a different companion. If taken by a companion, they may only be taken once unless noted. Any caster level prerequisite must be met by the caster.
 
-### Armory (Companion)
+#### Armory (Companion)
 
 **Prerequisites:** Conjuration sphere (Battle Creature (form)).
 
 **Benefit:** A companion that possesses the Battle Creature (form) talent appears with one additional weapon, +1 per 4 caster levels. These weapons function like the original ones.
 
-### Companion Concentration (Companion)
+#### Companion Concentration (Companion)
 
 **Prerequisite:** Conjuration sphere.
 
 **Benefit:** When you choose to concentrate on a sphere effect, as a swift action you may pass concentration on that sphere effect to your companion within close range (based on your Conjuration caster level). You must have line of effect to the companion to do so. As long as the companion remains within close range, you may resume concentrating on the effect at any time as a swift action. A companion may not concentrate to maintain the effect that summoned it, nor on any effect to which it lacks line of effect. If the companion leaves close range, it may continue to concentrate on the effect, but you may not resume concentrating on it yourself. A mindless companion may not assume concentration of a sphere effect. Treat the companion’s Hit Dice as levels in a caster class for determining its bonus on concentration checks. If the companion does not have a casting ability modifier, use its Charisma to determine its concentration check bonus.
 
-### Greater Earth Creature (Companion)
+#### Greater Earth Creature (Companion)
 
 **Prerequisites:** Conjuration sphere (Earth Creature (form)), caster level 5th.
 
@@ -32,39 +32,39 @@ The feat may not be reassigned to a different companion for as long as the chose
 
 **Earth Glide (Ex):** When the creature burrows, it can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. If protected against fire damage, it can even glide through lava. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A move earth spell or the Forge Earth ability of the Nature spherecast on an area containing the burrowing creature flings it back 30 feet, stunning it for 1 round unless it succeeds on a DC 15 Fortitude save.
 
-### Hungry (Combat, Companion)
+#### Hungry (Combat, Companion)
 
 **Prerequisites:** Ravenous Companion, caster level 10th.
 
 **Benefit:** When your companion is grappling a creature, it may attempt to use its swallow whole ability as a free action. It gains a +2 competence bonus to CMB and CMD to make and resist grapple checks relating to the swallow whole ability.
 
-### Manifestation (Companion)
+#### Manifestation (Companion)
 
 **Prerequisites:** Conjuration sphere (Shadow Creature (form)).
 
 **Benefit:** Your companion may manifest itself as a move action. While manifested, your companion takes full damage from attacks and magic originating from corporeal creatures and deals full damage with its attacks and magic against corporeal creatures. This does not affect your companion’s ability to deal damage to and receive damage from incorporeal creatures. Your companion may end this effect as a move action.
 
-### Spell Channel (Companion) [Apoc]
+#### Spell Channel (Companion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 **Prerequisites:** Conjuration sphere (Spell Conduit).
 
 **Benefit:** Your ability to channel spells through your companion is expanded. While your companion is within range of your Spell Conduit ability, you can treat it as the point of origin for any spell that you cast.
 
-### Variable Armaments (Companion)
+#### Variable Armaments (Companion)
 
 **Prerequisites:** Conjuration sphere (Battle Creature (form) or Shield Bearer (form)), companion with 6 or more Hit Dice.
 
 **Benefit:** A companion that possesses Battle Creature or Shield Bearer may substitute the enhancement bonus to its weapons and shields granted by those talents for weapon and shield special abilities available per the armorist bound equipment table. The weapon or shield must maintain at least a +1 enhancement bonus. Changing the selected special abilities requires an 8 hour ritual.
 
-### Variable Size (Companion)
+#### Variable Size (Companion)
 
 **Prerequisites:** Conjuration sphere (Altered Size (form)).
 
 **Benefit:** As a standard action, you may suppress your companion’s Altered Size talent and Greater Altered Size advanced talent. The talent remains suppressed until you end this effect as a free action. Your companion must be within close range to begin or end this effect.
 
-### Venomous Blood (Companion)
+#### Venomous Blood (Companion)
 
 **Prerequisites:** Conjuration sphere (Monstrous Attacks (form) with poison option).
 
@@ -72,25 +72,25 @@ The feat may not be reassigned to a different companion for as long as the chose
 
 Additionally, your companion can apply its poison to a weapon or natural attack by dipping it in its own blood as a swift action. This requires dealing 1d4 damage to itself as part of the swift action unless the companion suffers from an ongoing bleed effect or is below half its maximum hit points.
 
-### Venomous Focus (Companion)
+#### Venomous Focus (Companion)
 
 **Prerequisites:** Conjuration sphere (Monstrous Attacks (form) with poison option).
 
 **Benefit:** Your companion gains a +1 bonus to the DC of its poison, increasing by +1 at 5 Hit Dice and every 5 Hit Dice thereafter, and the cure now requires an additional save.
 
-### Venomous Spit (Companion)
+#### Venomous Spit (Companion)
 
 **Prerequisites:** Conjuration sphere (Monstrous Attacks (form) with poison option).
 
 **Benefit:** Your companion may spit its poison as a ranged touch attack with a range of 20 feet. Treat the poison as a contact poison for this feat.
 
-### Watchful Companion (Companion)
+#### Watchful Companion (Companion)
 
 **Prerequisites:** Conjuration sphere (Greater Summoning, Lingering Companion (form)).
 
 **Benefit:** When summoned for 1 day, your companion does not disappear when you rest to regain spell points. When the 1 day duration is complete, you may pay the summoning cost again even when unconscious to renew the duration of the summon without your companion disappearing. Your companion may choose to wake you up as a free action as long as it is within long range.
 
-### Web Exemplar (Companion)
+#### Web Exemplar (Companion)
 
 **Prerequisites:** Conjuration sphere (Web Spinner (form)).
 

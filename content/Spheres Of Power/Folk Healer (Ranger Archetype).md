@@ -10,29 +10,29 @@ parent: "[[Spheres Of Power]]"
 
 All healing begins with empathy for the sick and injured. From there, it is merely a question of finding the right tools. Everything a healer needs is all around them, they just need to develop the skills to seek them out. A folk healer has learned to use common ingredients to heal common injuries. They cannot raise the dead, but more often than not, they do not need to. What they can do is treat the most common ailments in almost any circumstances - whether that be in the city temples or the far off wilderness.
 
-### Weapons and Armor Proficiency
+## Weapons and Armor Proficiency
 
 The folk healer is not proficient with shields.
 
 This alters armor proficiencies.
 
-### Casting
+## Casting
 
 The folk healer may combine spheres and talents to create magical effects. The folk healer is considered a Low- Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-### Spell Pool
+## Spell Pool
 
 The folk healer gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his class level + his casting ability modifier. This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A folk healer gains the Life sphere at 1st level. He gains an additional magic talent at 3rd level and every 2 levels thereafter.
 
 This replaces wild empathy and endurance.
 
-### Skilled Healer (Ex)
+## Skilled Healer (Ex)
 
 The folk healer gains the Studied Healing feat as a bonus feat. At 3rd level, the folk healer gains a +2 insight bonus to his Heal checks. This bonus increases by +1 for every odd level after the 3rd, and he does not suffer a penalty to his Heal skill for not having a healer’s kit. He can also provide long term care to himself.
 
@@ -40,7 +40,7 @@ In addition, he gains the skill unlocks for the Heal skill as appropriate for hi
 
 This replaces favored terrain.
 
-### Folk Remedy
+## Folk Remedy
 
 By drawing on his training in medicine, the folk healer can prepare special herbal remedies to aid in the healing process. The folk healer can brew potions that use the Life sphere, even if he does not have the Distill Compound feat. If he possesses this feat, he gains a +5 bonus to all checks made to brew Life sphere potions. Furthermore, when he creates a Life sphere potion, he may increase the DC of his Craft check by +5 per talent to include a Life talent he does not possess. He may also use his Heal skill to attempt the Craft check.
 
@@ -48,7 +48,7 @@ At 8th level, the folk healer becomes especially skilled at making his remedies,
 
 This replaces track and swift tracker.
 
-### Read the Land
+## Read the Land
 
 At 7th level, as a full-round action, the folk healer may spend a spell point to tap into the ambient life force of a region, expanding his consciousness and giving him special insight into its nature. This area must be a continuous area smaller than 1 square mile, and it ends at any point the terrain changes significantly (such as moving from forest to prairie, or moving underground). While in the land he has read, the folk healer gains an insight bonus equal to +2 to Knowledge (geography), Perception, Stealth, and Survival checks as well as initiative.
 

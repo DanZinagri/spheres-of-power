@@ -8,12 +8,12 @@ parent: "[[Practitioner Bestiary]]"
 XP 200
 Hobgoblin conscript 1
 LE Medium humanoid (goblinoid)
-**Init**+2;**Senses**darkvision 60 ft.;**Perception** +5
+**Init** +2; **Senses** darkvision 60 ft.; **Perception** +5
 
 **Defense**
-**AC**16,**touch**13,**flat-footed** 14 (+3 armor, +2 Dex, +1 shield)
+**AC** 16, **touch** 13, **flat-footed** 14 (+3 armor, +2 Dex, +1 shield)
 **hp** 16 (1d10+6)
-**Fort**+5,**Ref**+4,**Will** +1
+**Fort** +5, **Ref** +4, **Will** +1
 **Defensive Abilities** active defense (+2)
 
 **Offense**
@@ -28,12 +28,12 @@ Hobgoblin phalanx fighters work best in units of two or more, and are rarely enc
 Hobgoblin phalanx fighters will begin the Aggressive Flanking tactic granted by the Warleader sphere as soon as possible; once one phalanx fighter has enabled the tactic, any others benefiting from it will focus on protecting the tactician while taking turns using Fierce Shout to boost their group’s damage.
 
 **Statistics**
-**Str**15,**Dex**15,**Con**16,**Int**10,**Wis**12,**Cha** 8
-**Base Atk**+1;**CMB**+3;**CMD** 15
+**Str** 15, **Dex** 15, **Con** 16, **Int** 10, **Wis** 12, **Cha** 8
+**Base Atk** +1; **CMB** +3; **CMD** 15
 **Feats** Combat Reflexes, Toughness
-**Martial Tradition**Phalanx Soldier,**PAM**Wis,**DC** 11
+**Martial Tradition** Phalanx Soldier, **PAM** Wis, **DC** 11
 **Talents** Equipment (Shield Training, Spear Dancer), Shield (Cover Ally, Deflecting Shield), Warleader
-**Skills**Acrobatics +4, Diplomacy +0, Perception +5, Sense Motive +5, Stealth +8;**Racial Modifiers** +4 Stealth
+**Skills** Acrobatics +4, Diplomacy +0, Perception +5, Sense Motive +5, Stealth +8; **Racial Modifiers** +4 Stealth
 **Languages** Common, Goblin
 
 **Ecology**

@@ -10,13 +10,13 @@ parent: "[[Spheres Of Might]]"
 
 The true test of faith is not accomplishment, but the ability to sacrifice. For some devout followers of their gods, being faithful means showing strength in the face of death, and bringing the rightness of their cause to those who would be destroyed by it.
 
-### Weapon and Armor Proficiencies
+## Weapon and Armor Proficiencies
 
 A bastion of conviction is proficient with all simple weapons, as well as the favored weapon of his deity, and with light armor and bucklers. If the bastion of conviction worships a deity with unarmed strike as its favored weapon, he gains Improved Unarmed Strike as a bonus feat. In addition, if this is the character’s first level in any class, he may select a martial tradition of his choice.
 
 This alters weapon and armor proficiencies.
 
-### Combat Training (Ex)
+## Combat Training (Ex)
 
 A bastion of conviction is considered a Proficient practitioner, gaining spheres and talents as appropriate. A bastion of conviction uses his casting ability modifier as his practitioner modifier.
 
@@ -24,11 +24,11 @@ A bastion of conviction may use his class level as his base attack bonus to dete
 
 This replaces the bonus feats gained at 3rd, 6th, 12th, 15th, and 18th levels.
 
-### Militant Extremist
+## Militant Extremist
 
 A bastion of conviction counts his class levels as fighter levels for the purpose of qualifying for feats that have a minimum number of fighter levels as a prerequisite.
 
-### Energetic Focus
+## Energetic Focus
 
 At 9th level, whenever the bastion of conviction uses a positive or negative energy ability, he regains martial focus.
 

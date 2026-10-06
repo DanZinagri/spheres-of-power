@@ -10,21 +10,21 @@ parent: "[[Mythic Creatures (D)]]"
 **Mythic Warmonger Devil (Levaloch) (CR 9/MR 3)**
 XP 6,400
 LE Large outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+7;**Senses** darkvision 60 ft., see in darkness; Perception +14
+**Init** +7; **Senses** darkvision 60 ft., see in darkness; Perception +14
 
 #### Defense
 
-**AC**25,**touch**12,**flat-footed** 22 (+3 Dex, +13 natural, –1 size)
+**AC** 25, **touch** 12, **flat-footed** 22 (+3 Dex, +13 natural, –1 size)
 **hp** 114 (8d10+70)
-**Fort**+10,**Ref**+9,**Will** +5
-**Defensive Abilities**construct form, mythic spell resistanceMA; DR 5/epic and good;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 20
+**Fort** +10, **Ref** +9, **Will** +5
+**Defensive Abilities** construct form, mythic spell resistanceMA; DR 5/epic and good; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 20
 
 #### Offense
 
 **Speed** 40 ft., climb 40 ft.
 **Melee** mwk trident +14/+9 (2d6+9) and 2 legs +8 (1d8+3); mwk net +14/+9 touch (entangle and 1d6 bleed) and 2 legs +8 (1d8+3); or 2 claws +13 (1d6+6) and 2 legs +8 (1d8+3)
 **Ranged** mwk trident +11 (2d6+9), mwk net +11 touch (entangle and 1d6 bleed)
-**Space**10 ft.;**Reach** 10 ft. (20 ft. with net)
+**Space** 10 ft.; **Reach** 10 ft. (20 ft. with net)
 **Special Attacks** cordon of chainsMA, infernal netMA, master tacticianMA, merciless blow, mythic power (3/day, surge 1d6), trample (1d8+7, DC 20)
 
 **Spell-Like Abilities** (CL 12th; concentration +14)
@@ -33,8 +33,8 @@ At will—greater teleport (self plus 50 lbs. of objects only)
 
 #### Statistics
 
-**Str**22,**Dex**17,**Con**19,**Int**14,**Wis**16,**Cha** 15
-**Base Atk**+8;**CMB**+15;**CMD** 28 (32 vs. bull rush, 40 vs. trip)
+**Str** 22, **Dex** 17, **Con** 19, **Int** 14, **Wis** 16, **Cha** 15
+**Base Atk** +8; **CMB** +15; **CMD** 28 (32 vs. bull rush, 40 vs. trip)
 **Feats** Combat ReflexesMF, Improved Initiative, Power AttackMF, Net AdeptB, Precise StrikeB, Toughness
 **Skills** Acrobatics +14 (+18 when jumping), Bluff +13, Climb +18, Craft (weapons) +9, Intimidate +13, Knowledge (dungeoneering) +9, Knowledge (engineering) +9, Knowledge (planes) +13, Perception +14, Stealth +10
 **Languages** Celestial, Draconic, Infernal; telepathy 100 ft

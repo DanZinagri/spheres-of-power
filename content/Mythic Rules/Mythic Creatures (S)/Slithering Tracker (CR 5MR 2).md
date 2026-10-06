@@ -11,13 +11,13 @@ parent: "[[Mythic Creatures (S)]]"
 XP 1,600
 Pathfinder Roleplaying Game Bestiary 2
 N Small ooze (mythic)
-**Init**+5;**Senses** blindsense 60 ft.; Perception +7
+**Init** +5; **Senses** blindsense 60 ft.; Perception +7
 
 #### Defense
 
-**AC**18,**touch**16,**flat-footed** 13 (+5 Dex, +2 natural, +1 size)
+**AC** 18, **touch** 16, **flat-footed** 13 (+5 Dex, +2 natural, +1 size)
 **hp** 58 (4d8+40)
-**Fort**+7,**Ref**+6,**Will** +1
+**Fort** +7, **Ref** +6, **Will** +1
 **Defensive Abilities** **Immune** mind-affecting effects, ooze traits
 
 #### Offense
@@ -28,10 +28,10 @@ N Small ooze (mythic)
 
 #### Statistics
 
-**Str**16,**Dex**20,**Con**23,**Int**11,**Wis**10,**Cha** 1
-**Base Atk**+3;**CMB**+5 (+9 grapple);**CMD** 20 (can’t be tripped)
+**Str** 16, **Dex** 20, **Con** 23, **Int** 11, **Wis** 10, **Cha** 1
+**Base Atk** +3; **CMB** +5 (+9 grapple); **CMD** 20 (can’t be tripped)
 **Feats** Skill Focus (Perception), Skill Focus (Stealth)MF
-**Skills**Climb +11, Perception +7, Stealth +21;**Racial Modifiers** +8 Stealth
+**Skills** Climb +11, Perception +7, Stealth +21; **Racial Modifiers** +8 Stealth
 **Languages** Undercommon (can’t speak)
 **SQ** absorptive camouflageMA, blood bloatMA, trackerMA
 

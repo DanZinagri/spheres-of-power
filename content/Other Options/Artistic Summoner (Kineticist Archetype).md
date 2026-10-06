@@ -35,9 +35,9 @@ This ability replaces the infusion gained at 7th level.
 **Artistic Composition (Ex):** At 11th level, the artistic summoner can increase the burn cost of a water or wood blast by 2 to deal damage as a composite blast. In addition, they gain access to the following composite blast:
 
 > **Sculpture Blast**
-> **Element(s)**universal;**Type**composite blast (Sp);**Level**—;**Burn** 2
+> **Element(s)** universal; **Type** composite blast (Sp); **Level** —; **Burn** 2
 > **Prerequisite(s)** water blast and wood blast
-> **Blast Type**physical;**Damage** bludgeoning
+> **Blast Type** physical; **Damage** bludgeoning
 >
 > When a creature is hit by this blast, you can produce a duplicate of the target in a space adjacent to the target. This duplicate is a lesser simulacrumUM of the target, except that it remains for 1 minute per kineticist level and is loyal only to you.
 >

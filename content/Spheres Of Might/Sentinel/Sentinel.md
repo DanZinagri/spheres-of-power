@@ -193,8 +193,8 @@ The following magical items are especially appropriate for sentinels.
 
 #### Bracers Of Vigilance [TS:WAT]
 
-**Aura**moderate Protection;**CL** 6th
-**Slot**wrists;**Price**8,000 gp;**Weight** 2 lbs.
+**Aura** moderate Protection; **CL** 6th
+**Slot** wrists; **Price** 8,000 gp; **Weight** 2 lbs.
 
 These metal bracers seem to guide the user’s hands. While worn by a creature with the guard wall class feature, allies within that creature’s reach also gain the benefits of their guard wall. This item’s effects never stack with itself. A creature cannot benefit from more than one guard wall class feature’s bonuses at a time.
 
@@ -203,8 +203,8 @@ Craft Apparatus, Protection sphere, creator must have the guard wall class featu
 
 #### Sash Of Everlasting Passion [TS:WAT]
 
-**Aura**moderate Life;**CL** 6th
-**Slot**body;**Price**20,000;**Weight** 3 lbs.
+**Aura** moderate Life; **CL** 6th
+**Slot** body; **Price** 20,000; **Weight** 3 lbs.
 
 This colorful sash is easy to wear around the body, over or under the wearer’s armor. A creature with the second wind class feature who is wearing this item can spend two reserve points as a swift action to heal 1d6 hit points per 2 levels they have in the class granting the second wind class feature. The user also heals an additional 50% of the healing rolled and regains martial focus when healing in that way. This does not allow a creature to regain martial focus more often than they normally could.
 
@@ -213,8 +213,8 @@ Craft Apparatus, Life sphere, creator must have the second wind class feature; *
 
 #### Shield Expander [TS:WAT]
 
-**Aura**moderate Light;**CL** 5th
-**Slot**special, see text;**Price**20,000 gp;**Weight** 1 lb.
+**Aura** moderate Light; **CL** 5th
+**Slot** special, see text; **Price** 20,000 gp; **Weight** 1 lb.
 
 This gleaming white crystal can be set into any shield except a buckler as a full-round action, or removed with the same action. While functioning, it projects an aura around the shield to visibly increase its size (although this does not change the shield’s category or weight, aside from this item’s own weight). This increased size gives the user partial cover against attacks from one direction (chosen at the end of the wielder’s round). When a creature wielding a shield enhanced with a shield expander uses the Perfect Redirection legendary Shield talent, they may also deflect massive weapons like ballista bolts, boulders, and siege weapons. However, such attacks can only be redirected to targets within 5 feet.
 

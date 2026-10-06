@@ -20,7 +20,7 @@ Sometimes the greed and avaricious nature of a being, such as a dragon, becomes 
 
 **Hit Points:** Treasure hoardling creatures gain bonus hit points as a construct based on its size (see the Pathfinder Roleplaying Game Bestiary).
 
-**Defensive Abilities:** Fast healing 1, hardness 10 (15 if CR 10 or higher, or 20 if CR 15 or higher);**Immune** construct traits.
+**Defensive Abilities:** Fast healing 1, hardness 10 (15 if CR 10 or higher, or 20 if CR 15 or higher); **Immune** construct traits.
 
 **Special Abilities:** A treasure hoardling creature retains all the special abilities of the base creature, and gains the special abilities as described below.
 
@@ -34,7 +34,7 @@ Sometimes the greed and avaricious nature of a being, such as a dragon, becomes 
 
 **Selfish Shield (Su):** If a weapon valued at more than 1 gp touches a treasure hoardling creature, the weapon is absorbed as per the covetous strike ability, upon a failed save, this ability is not limited to only working once per round.
 
-**Abilities:** Adjust the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength and CMB checks, +2 to CMD),**Wis**-4 (minimum 1; -2 to Will saves, -2 to Heal, Perception, Profession, Sense Motive and Survival checks, -2 to any of the base creature’s Wisdom-based DCs),**Cha** -4 (minimum 1; -2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks; -2 to attempts to influence others, and Channel Energy DCs, and -2 to any of the base creature’s Charisma-based DCs). As a construct, a treasure hoardling creature has no Constitution or Intelligence scores.
+**Abilities:** Adjust the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength and CMB checks, +2 to CMD), **Wis** -4 (minimum 1; -2 to Will saves, -2 to Heal, Perception, Profession, Sense Motive and Survival checks, -2 to any of the base creature’s Wisdom-based DCs), **Cha** -4 (minimum 1; -2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks; -2 to attempts to influence others, and Channel Energy DCs, and -2 to any of the base creature’s Charisma-based DCs). As a construct, a treasure hoardling creature has no Constitution or Intelligence scores.
 
 **Feats:** As an unintelligent construct, a treasure hoardling creature has no feats
 

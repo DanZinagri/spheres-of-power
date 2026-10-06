@@ -13,14 +13,14 @@ Shrouded in tattered leather robes, this strange humanoid looks more alien and h
 XP 9,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium outsider (chaotic, evil, extraplanar, mythic, mythos)
-**Init**+25/+5, dual initiativeMA;**Senses** darkvision 60 ft.; Perception +16
+**Init** +25/+5, dual initiativeMA; **Senses** darkvision 60 ft.; Perception +16
 
 #### Defense
 
-**AC**27,**touch**17,**flat-footed** 20 (+5 Dex, +2 dodge, +10 natural)
+**AC** 27, **touch** 17, **flat-footed** 20 (+5 Dex, +2 dodge, +10 natural)
 **hp** 145 (10d10+90); planar fast healing 5
-**Fort**+12,**Ref**+12,**Will** +6
-**Defensive Abilities**alien circulationMA, unusual anatomy; DR 5/ epic;**Immune**poison;**Resist**cold 30, electricity 30;**SR** 21
+**Fort** +12, **Ref** +12, **Will** +6
+**Defensive Abilities** alien circulationMA, unusual anatomy; DR 5/ epic; **Immune** poison; **Resist** cold 30, electricity 30; **SR** 21
 
 #### Offense
 
@@ -35,10 +35,10 @@ Constant—tongues
 
 #### Statistics
 
-**Str**14,**Dex**20,**Con**21,**Int**18,**Wis**17,**Cha** 21
-**Base Atk**+10;**CMB**+12;**CMD** 28
+**Str** 14, **Dex** 20, **Con** 21, **Int** 18, **Wis** 17, **Cha** 21
+**Base Atk** +10; **CMB** +12; **CMD** 28
 **Feats** Deceitful, DodgeMF, Mobility, Persuasive, Weapon FinesseMF
-**Skills**Bluff +22, Diplomacy +7, Disable Device +15, Disguise +12 (+16 when disguised as a Medium humanoid), Intimidate +12, Knowledge (any one) +17, Perception +16, Profession (sailor) +8, Sense Motive +16, Sleight of Hand +18, Spellcraft +12, Stealth +18, Use Magic Device +18;**Racial Modifiers** +4 Disguise when disguised as a Medium humanoid
+**Skills** Bluff +22, Diplomacy +7, Disable Device +15, Disguise +12 (+16 when disguised as a Medium humanoid), Intimidate +12, Knowledge (any one) +17, Perception +16, Profession (sailor) +8, Sense Motive +16, Sleight of Hand +18, Spellcraft +12, Stealth +18, Use Magic Device +18; **Racial Modifiers** +4 Disguise when disguised as a Medium humanoid
 **Languages** Aklo; tongues
 **SQ** discern fateMA, no breath
 
@@ -52,7 +52,7 @@ Constant—tongues
 
 **Alien Circulation (Ex)** A mythic denizen of Leng’s bloodstream operates in defiance of conventional physiology and physics. Whenever it would take bleed damage (whether hit point damage or ability damage or drain), that bleed effect is negated as their blood instead flows through open air back into a different blood vessel elsewhere on the denizen’s body. However, this bizarre hemolytic diversion sprays adjacent creatures with toxic alien blood until the end of the denizen’s next turn. A similar blood spray occurs when a creature confirms a critical hit with a piercing or slashing weapon against a mythic denizen of Leng in melee; this blood spray occurs even if a confirmed critical hit is negated by the mythic denizen of Leng’s unusual anatomy.
 
-*Toxic Bloodspray*—contact; **save**Fort DC 20,**frequency**1/round for 6 rounds,**effect**1d4 Str,**cure** 2 consecutive saves. The save DC is Constitution-based.
+*Toxic Bloodspray*—contact; **save** Fort DC 20, **frequency** 1/round for 6 rounds, **effect** 1d4 Str, **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 **Dexterity Drain (Su)** The otherworldly teeth and tongues of a denizen of Leng deal 1d6 points of Dexterity drain with a bite. Constructs, elementals, and other creatures that do not possess flesh are immune to this effect. A successful DC 20 Fortitude save reduces the Dexterity drain to 1 point. The save DC is Constitution- based.
 

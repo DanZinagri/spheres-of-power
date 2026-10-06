@@ -17,9 +17,9 @@ Init +3; Senses low-light vision, scent; Perception +8
 
 #### Defense
 
-**AC**21,**touch**15,**flat-footed** 16 (+3 armor, +3 Dex, +2 dodge, +3 natural)
+**AC** 21, **touch** 15, **flat-footed** 16 (+3 armor, +3 Dex, +2 dodge, +3 natural)
 **hp** 28 (2d8+16); regeneration 1 (silver)
-**Fort**+3,**Ref**+6,**Will** +3
+**Fort** +3, **Ref** +6, **Will** +3
 **Defensive Abilities** evasion; DR 10/silver
 
 #### Offense
@@ -31,8 +31,8 @@ Init +3; Senses low-light vision, scent; Perception +8
 
 #### Statistics
 
-**Str**15,**Dex**17,**Con**16,**Int**10,**Wis**16,**Cha** 6
-**Base Atk**+1;**CMB**+3;**CMD** 17
+**Str** 15, **Dex** 17, **Con** 16, **Int** 10, **Wis** 16, **Cha** 6
+**Base Atk** +1; **CMB** +3; **CMD** 17
 **Feats** DodgeMF, Weapon Finesse
 **Skills** Acrobatics +8, Bluff +3, Diplomacy +2 (+7 with rats), Climb +7, Intimidate +3, Knowledge (local) +5, Perception +8, Sense Motive +8, Stealth +8, Swim +6
 **Languages** Common, skintalker
@@ -46,20 +46,20 @@ Init +3; Senses low-light vision, scent; Perception +8
 
 #### Special Abilities
 
-**Disease (Ex)** *Filth Fever:* Bite-injury; **save**Fort DC 14;**onset**1d3 days;**frequency**1/day;**effect**1d3 Dex damage and 1d3 Con damage;**cure** 2 consecutive saves. The save DC is Constitution-based.
+**Disease (Ex)** *Filth Fever:* Bite-injury; **save** Fort DC 14; **onset** 1d3 days; **frequency** 1/day; **effect** 1d3 Dex damage and 1d3 Con damage; **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 ---
 
 **Mythic Wererat Fighter 6 (Hybrid Form) (CR 7/MR 3)**
 XP 3,200
 LE Medium humanoid (human, mythic, shapechanger)
-**Init**+8;**Senses** bloodscent, low-light vision, scent; Perception +6
+**Init** +8; **Senses** bloodscent, low-light vision, scent; Perception +6
 
 #### Defense
 
-**AC**26,**touch**14,**flat-footed** 22 (+7 armor, +4 Dex, +5 natural)
+**AC** 26, **touch** 14, **flat-footed** 22 (+7 armor, +4 Dex, +5 natural)
 **hp** 84 (6d10+48); regeneration 3 (silver)
-**Fort**+8,**Ref**+8,**Will** +4; (+2 vs. fear)
+**Fort** +8, **Ref** +8, **Will** +4; (+2 vs. fear)
 **Defensive Abilities** DR 10/epic and silver
 
 #### Offense
@@ -71,8 +71,8 @@ LE Medium humanoid (human, mythic, shapechanger)
 
 #### Statistics
 
-**Str**14,**Dex**19,**Con**16,**Int**10,**Wis**11,**Cha** 8
-**Base Atk**+6;**CMB**+8;**CMD** 22
+**Str** 14, **Dex** 19, **Con** 16, **Int** 10, **Wis** 11, **Cha** 8
+**Base Atk** +6; **CMB** +8; **CMD** 22
 **Feats** Double SliceB, Improved Initiative, Improved Two-Weapon FightingB, Iron WillMF, Weapon Focus (shortsword)B, Weapon Specialization (shortsword)B, Two-Weapon Fighting, Weapon FinesseMF
 **Skills** Climb +6, Diplomacy +3 (+10 with rats), Perception +6, Stealth +4, Swim +10
 **Languages** Common, skintalker

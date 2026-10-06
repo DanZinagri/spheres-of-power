@@ -75,7 +75,7 @@ When a Justicar level is gained, the character gains new spells per day as if he
 
 A Justicar gains a celestial falcon — the holy animal of the goddess of truth — as a companion per the druid animal companion rules (see “Druid” in Chapter 3 of the Pathfinder Roleplaying Game). The Justicar’s effective druid level is equal to her Justicar plus paladin levels.
 
-**Starting Statistics:** **Size**Small;**Speed**10 ft., fly 80 ft. (average);**AC**+1 natural armor;**Attack**bite (1d4), 2 talons (1d4);**Ability Scores**Str 10, Dex 17, Con 12, Int 2, Wis 14, Cha 10;**Special Attacks**smite evil 1/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against evil foes; smite persists until the target is dead or the celestial falcon rests);**Special Qualities**darkvision 60 ft., low-light vision, DR and energy resistance per Pathfinder Roleplaying Game Bestiary “Celestial Creature”,**SR** equal to class level +5
+**Starting Statistics:** **Size** Small; **Speed** 10 ft., fly 80 ft. (average); **AC** +1 natural armor; **Attack** bite (1d4), 2 talons (1d4); **Ability Scores** Str 10, Dex 17, Con 12, Int 2, Wis 14, Cha 10; **Special Attacks** smite evil 1/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against evil foes; smite persists until the target is dead or the celestial falcon rests); **Special Qualities** darkvision 60 ft., low-light vision, DR and energy resistance per Pathfinder Roleplaying Game Bestiary “Celestial Creature”, **SR** equal to class level +5
 
 **4th-Level Advancement:** Ability Scores Str +2, Con +2.
 

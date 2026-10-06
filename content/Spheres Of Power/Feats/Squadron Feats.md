@@ -14,51 +14,51 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 **Author's Note:** Unless noted otherwise, you must have line of sight to use Squadron feats (and members must generally have line of sight to benefit each other). This means that you can use them over things like scrying and that their range is otherwise unlimited, but obstacles like opaque clouds can stop them.
 
-### All Together Now (Squadron) [LotS]
+#### All Together Now (Squadron) [LotS]
 
 **Prerequisites:** Communication sphere, Posse Commander.
 
 **Benefit:** Whenever a squadron member assumes an approach, other squadron members may assume that approach for as long as the first member maintains it. This does not allow characters to exceed the number of approaches they could normally assume at a time.
 
-### Battlefield Tactics (Squadron)
+#### Battlefield Tactics (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** You may give your actions to members of your squadron. The type of action required to do this is equal to the type of action given: swift, move, standard, full-round, or attack of opportunity. If you give an attack of opportunity action to another squadron member, they must use it to attack the target that provoked the attack of opportunity from you. A character can not receive more than one extra action per round this way, regardless of how many squadrons they might be a member of.
 
-### Close Formation (Squadron)
+#### Close Formation (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** When members of your squadron use the aid another action on other squadron members, they grant their ally an additional +2 bonus.
 
-### Collective Intensity (Combat, Squadron) [3PP]
+#### Collective Intensity (Combat, Squadron) [3PP]
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
 **Prerequisites:** tension pool, Communication Sphere, Posse Commander; War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefits:** As an immediate action, you may allow an ally in your squadron to use your tension pool and any abilities which involve spending tension as if they also had them until the end of the current turn. The tension cost of any ability used in this way increases by 1. A character cannot use both another squadron member’s tension and their own during the same turn.
 
-### Coordinated Plot (Squadron) [LotS]
+#### Coordinated Plot (Squadron) [LotS]
 
 **Prerequisites:** Communication sphere, Posse Commander.
 
 **Benefit:** Whenever a squadron member reveals a plan, they may choose another member of the squadron to gain its benefits in place of them.
 
-### Focused Fire Tactics (Squadron)
+#### Focused Fire Tactics (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** As a swift action, you may spend a spell point or expend your martial focus and designate a target. Until the beginning of your next turn, whenever a member of your squadron hits that target, all members of your squadron receive an additional +1 circumstance bonus to attack rolls and damage against that target. Members with iterative attacks can benefit from bonuses generated earlier in the same turn. This bonus stacks with itself, up to a maximum equal to your War caster level or your ranks in Diplomacy, whichever is higher.
 
-### Hive Mind (Squadron) [Alienist HB]
+#### Hive Mind (Squadron) [Alienist HB]
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander; caster level 5th or 5 ranks in Diplomacy.
 
 **Benefit:** You gain the ability to communicate telepathically with all members of your squadron regardless of range, allowing you to send messages and for them to send their own. In addition, you do not need to touch members of your squadron in order to renew your bond with them; they need only be in telepathic contact with you when you take a minute to renew your bond. So long as at least one member of your squadron is aware of a threat, all members are aware of the threat and cannot be flanked by threats that others are aware of. Such awareness can spread along a “chain” of creatures under appropriate circumstances, potentially alerting distant creatures.
 
-### Infantry Formation (Squadron) [High. HB]
+#### Infantry Formation (Squadron) [High. HB]
 
 **Prerequisite:** Squadron Commander or Troop Commander.
 
@@ -70,61 +70,61 @@ Similar to the Mana sphere, many Squadron feats offer potent supportive abilitie
 
 The first ally to move must move adjacent to at least one other squad member, the second ally to move must be adjacent to at least two other squad members, and any additional allies must either move adjacent to at least three other squad members, or move to be adjacent to an ally already adjacent to at least three other squad members.
 
-### Instructive Command (Squadron)
+#### Instructive Command (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** Choose a skill you are trained in. All members of your squadron are treated as having at least as many ranks in that skill as you. If you possess the skill unlock for that skill, members of your squadron may use the skill unlock powers made available by your number of ranks in the skill. Whenever you rest for 8 hours, you may change the skill you have chosen to share.
 
-### Lightning Tactics (Squadron)
+#### Lightning Tactics (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander; character level 10th.
 
 **Benefit:** After you roll initiative, you may spend a spell point or expend your martial focus. If you do, squadron members may use your natural d20 roll in place of their own roll. They keep their own modifiers.
 
-### Mass Command (Squadron)
+#### Mass Command (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander, casting class feature.
 
 **Benefit:** When using a sphere ability on a single creature in your squadron other than yourself, you may spend an additional spell point to target any number of creatures in your squadron. All squadron members must be within the range of the sphere ability. You must have line of sight and line of effect to affect them, and you may include yourself as a target. This cannot be used with sphere effects that do not have the option of being augmented by a (mass) talent. If the sphere ability has a duration greater than 1 hour, it is reduced to 1 hour.
 
-### Middle Man (Squadron) [LotS]
+#### Middle Man (Squadron) [LotS]
 
 **Prerequisites:** Communication sphere, Faction sphere, Posse Commander.
 
 **Benefit:** When you would gain the benefits of your requisition from the Faction sphere, you may have a member of your squadron gain the benefits in place of you. Members of your squadron may requisition using your talents and resource budgets.
 
-### Mixed Formation (Squadron)
+#### Mixed Formation (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** Members of your squadron do not provide cover to enemies, and members do not take penalties for shooting into melee against enemies in melee exclusively with other squadron members.
 
-### Mobile Tactics (Squadron)
+#### Mobile Tactics (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** Squadron members may use a swift action to move a squadron member who is in a square adjacent to them to another square that is also adjacent to them. This movement does not provoke attacks of opportunity.
 
-### Phalanx Formation (Squadron)
+#### Phalanx Formation (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** While a member of your squadron is adjacent to another member of your squadron, they receive a +2 circumstance bonus to AC and melee attack rolls. This bonus increases by +1 for every additional member adjacent after the first.
 
-### Pincer Formation (Squadron)
+#### Pincer Formation (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** When two or more members of your squadron flank an enemy, their flanking bonus applies to damage rolls as well as attack rolls.
 
-### Platoon Commander (Squadron)
+#### Platoon Commander (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** The number of members of your squadron increases. Your squadron includes yourself and 4 allies plus an additional ally for every 2 caster levels or ranks in Diplomacy (whichever is higher) you possess. You may add troop or crew creatures to your squadron, with each counting as 4 creatures.
 
-### Posse Commander (Squadron) [LotS]
+#### Posse Commander (Squadron) [LotS]
 
 **Prerequisite:** Communication sphere.
 
@@ -142,37 +142,37 @@ For the purpose of determining how many additional allies you may have in a squa
 
 **Addendum:** For the purpose of determining how many additional allies you may have in a squadron, this feat does not stack with Squadron Commander or Troop Commander, but this feat counts as either Squadron Commander or Troop Commander and either the War or Warleader sphere for the purpose of feats and other elements with Squadron Commander as a prerequisite. Similarly, these feats and their respective spheres may be used in place of the Communication sphere and this feat for the purpose of meeting prerequisites for other squadron feats. You may reveal a plan as a free action in place of spending martial focus or a spell point when using a squadron feat.
 
-### Ranged Command (Squadron)
+#### Ranged Command (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander; casting class feature.
 
 **Benefit:** You may choose to have your sphere talents or abilities which target a willing creature have a range of close rather than touch when targeting members of your squadron.
 
-### Rehearsed Performance (Squadron) [LotS]
+#### Rehearsed Performance (Squadron) [LotS]
 
 **Prerequisites:** Communication sphere; one of Performance sphere ((dance) package), bardic performance, psionics, or raging song; Posse Commander.
 
 **Benefit:** Whenever you start a dance, bardic performance, psionics, or raging song, you may reveal a plan to allow all allies in your posse to benefit from the effects regardless of range or line of sight.
 
-### Requested Command (Squadron)
+#### Requested Command (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** Any member of your squadron may expend a standard action requesting assistance. You may immediately respond by using a sphere ability that targets them (and only them, not an area around them) as a free action. You must be in range, and you must be able to use the sphere ability. Using the sphere ability draws attacks of opportunity normally.
 
-### Scouting Tactics (Squadron)
+#### Scouting Tactics (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** As a swift action, you may spend a spell point or expend your martial focus to mentally communicate with the rest of your squadron the location of an enemy you have successfully damaged that turn. Until the beginning of your next turn, the target does not benefit from concealment or any form of stealth.
 
-### Shielded Formation (Squadron)
+#### Shielded Formation (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** Whenever a member of your squadron leaves a square adjacent to another member of your squadron, they do not provoke attacks of opportunity from adjacent enemies.
 
-### Squad Triangulation (Squadron) [Alienist HB]
+#### Squad Triangulation (Squadron) [Alienist HB]
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
@@ -180,7 +180,7 @@ For the purpose of determining how many additional allies you may have in a squa
 
 **Author's Note:** The ability to ignore line of sight and targeting restrictions only extends to other squadron feat abilities, and not to other abilities.
 
-### Squadron Commander (Squadron)
+#### Squadron Commander (Squadron)
 
 **Prerequisite:** War sphere.
 
@@ -192,13 +192,13 @@ Alternatively, instead of allies, your squadron may consist of yourself and one 
 
 Members of your squadron gain increased bonuses from your totems. If a totem grants a bonus to any d20 roll or any number that is the target of a d20 roll (such as AC, attack rolls, saving throws, CMB, CMD, ability checks, skill checks, concentration checks, or spell penetration checks), that bonus increases by +1, and an additional +1 for every 10 War caster levels you possess.
 
-### Squadron Network (Squadron) [Alienist HB]
+#### Squadron Network (Squadron) [Alienist HB]
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander; character level 10th.
 
 **Benefit:** If a creature is a member of the squadron of one of your squadron members, you may treat that creature as a member of your squadron.
 
-### Troop Commander (Squadron) [High. HB]
+#### Troop Commander (Squadron) [High. HB]
 
 **Prerequisite:** Warleader sphere.
 
@@ -210,7 +210,7 @@ Members of your squadron gain increased bonuses from your tactics. If a tactic g
 
 For the purpose of determining how many additional allies you may have in a squadron, this feat doesn’t stack with Squadron Commander, but this feat counts as Squadron Commander for the purpose of feats and other elements with Squadron Commander as a prerequisite.
 
-### Vigilant Command (Squadron)
+#### Vigilant Command (Squadron)
 
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 

@@ -13,29 +13,29 @@ This immense white worm has a single circular eye in the center of its head. Wis
 XP 51,200
 Pathfinder Roleplaying Game Bestiary 2
 N Huge magical beast (cold, mythic)
-**Init**+7;**Senses** darkvision 60 ft., low-light vision, tremorsenseMA 60 ft.; Perception +17
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, tremorsenseMA 60 ft.; Perception +17
 
 #### Defense
 
-**AC**34,**touch**12,**flat-footed** 30 (+4 Dex, +22 natural, –2 size)
+**AC** 34, **touch** 12, **flat-footed** 30 (+4 Dex, +22 natural, –2 size)
 **hp** 228 (16d10+140)
-**Fort**+15,**Ref**+14,**Will** +10
-**Defensive Abilities**DR 10/epic;**Immune** cold
+**Fort** +15, **Ref** +14, **Will** +10
+**Defensive Abilities** DR 10/epic; **Immune** cold
 **Weaknesses** vulnerable to fire
 
 #### Offense
 
 **Speed** 30 ft., burrow 10 ft.; ice glideMA
 **Melee** bite +28 (4d10+18 plus 4d6 cold)
-**Space**15 ft.;**Reach** 10 ft.
+**Space** 15 ft.; **Reach** 10 ft.
 **Special Attacks** breath weapon (60-ft. cone, 15d6 cold damage, Reflex DC 23 half, usable once per hour), call avalancheMA, death throes, hypersonic trillMA, icy sprayMA, mythic power (6/day, surge +1d8), trampleMA (4d8+18 plus 1d6 cold, DC 32)
 
 #### Statistics
 
-**Str**35,**Dex**18,**Con**21,**Int**2,**Wis**16,**Cha** 11
-**Base Atk**+16;**CMB**+30;**CMD** 44 (can’t be tripped)
+**Str** 35, **Dex** 18, **Con** 21, **Int** 2, **Wis** 16, **Cha** 11
+**Base Atk** +16; **CMB** +30; **CMD** 44 (can’t be tripped)
 **Feats** CleaveMF, Combat ReflexesMF, Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Stand Still, Weapon FocusMF (bite)
-**Skills**Perception +17, Stealth +7 (+15 in ice and snow);**Racial Modifiers** +8 Stealth in ice and snow
+**Skills** Perception +17, Stealth +7 (+15 in ice and snow); **Racial Modifiers** +8 Stealth in ice and snow
 **SQ** coldMA
 
 #### Ecology

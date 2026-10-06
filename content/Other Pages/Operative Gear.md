@@ -154,7 +154,7 @@ The following tools are used by operatives with the Artifice sphere.
 
 **Repair Kit [DRS]:** This assortment of treatments, thread, and small segments of cloth and metal provides a +4 circumstance bonus to Craft checks made to repair an object, and allows you to repair such an object with no raw material cost. A repair kit is exhausted after 10 uses.
 
-**Seasoning Kit [DRS]**: This vast collection of exotic spices, flavor enhancers, condiments and other luxuries provides a +2 circumstance bonus to Profession (cook) checks and similar checks made to prepare food.
+**Seasoning Kit [DRS]:** This vast collection of exotic spices, flavor enhancers, condiments and other luxuries provides a +2 circumstance bonus to Profession (cook) checks and similar checks made to prepare food.
 
 If this kit is used as part of preparing a meal, a creature that consumes it gains a number of temporary hit points equal to 1d4 + their Constitution modifier that lasts for 4 hours—if such a meal can only feed a certain number of creatures, it can feed +50% additional number of creatures (for example, a meal that would normally feed 6 creatures instead feeds 9 creatures). This kit can also be used to enrich a pre-existing piece of food as a standard action. A seasoning kit is exhausted after 10 uses.
 

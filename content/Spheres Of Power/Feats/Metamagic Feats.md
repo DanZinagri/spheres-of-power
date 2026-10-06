@@ -18,13 +18,13 @@ If the effect of a metamagic feat is determined by spell level, treat the sphere
 
 **Note:** Most of the metamagic feats on this page have been updated for compatibility with Spheres of Power, via Treasures of the Spheres. While some are similar to their original versions, others are significantly different.
 
-#### Metamagic Apparatuses
+##### Metamagic Apparatuses
 
 Spherecasters should not use the original metamagic rods published for the Pathfinder Roleplaying Game. Instead, use the [[Metamagic Apparatuses]]. Note that these items function somewhat differently from normal metamagic rods, too, so read their rules carefully before using them.
 
 ---
 
-### Align Spell (Metamagic)
+#### Align Spell (Metamagic)
 
 **Benefit:** When you select this feat, choose a non-neutral component of your alignment. When you prepare (if you are a prepared caster) or cast (if you are a spontaneous caster or spherecaster) an aligned spell, choose weal or woe. If you choose weal, all variable, numeric effects of the spell are decreased by half (including bonuses to those dice rolls) for creatures of that alignment and increased by half (including bonuses to those dice rolls) for creatures of the opposite alignment.
 
@@ -36,19 +36,19 @@ If you choose woe, the increase and decrease are the other way around. If the sp
 
 If you change alignment such that you no longer have the alignment component you chose for this feat, you may immediately choose a different component of your alignment (or true neutral if that is your new alignment) to use it with. If you already have already taken this feat for the only non-neutral component of your new alignment (or for true neutral if that is your new alignment) you may immediately retrain this feat at no cost to one you qualify for. Atonement reverses this retraining and restores this feat. See the “Retraining” section of Chapter 3 in Ultimate Campaign for more information on retraining.
 
-### Aquatic Spell (Metamagic)
+#### Aquatic Spell (Metamagic)
 
 **Benefit:** An aquatic talent functions normally underwater and requires no magic skill check to cast, even if it has the fire descriptor. In addition, the talent can be cast from the surface into water and still be effective.
 
 **Cost:** +1 spell point
 
-### Bouncing Spell (Metamagic)
+#### Bouncing Spell (Metamagic)
 
 **Benefit:** Whenever a bouncing talent targeting a single creature has no effect on its intended target (whether due to spell resistance or a successful saving throw) you may, as a swift action, redirect it to target another eligible creature within range. The redirected talent behaves in all ways as if its new target were the original target for the talent. Talents that affect a target in any way (including a lesser effect from a successful saving throw) may not be redirected in this manner.
 
 **Cost:** +1 spell point
 
-### Brisk Spell (Metamagic)
+#### Brisk Spell (Metamagic)
 
 **Prerequisite:** Dex 13.
 
@@ -56,13 +56,13 @@ If you change alignment such that you no longer have the alignment component you
 
 **Cost:** +0 spell points
 
-### Burning Spell (Metamagic)
+#### Burning Spell (Metamagic)
 
 **Benefit:** The acid or fire effects of the affected talent adhere to the affected creature(s), causing more damage the next round. When a creature takes acid or fire damage from the affected talent, that creature takes damage equal to the talent’s caster level at the start of its next turn. The damage is acid or fire, as determined by the spell’s descriptor. If a burning talent has both the fire and acid descriptor, the caster chooses what kind of damage is dealt by the burning talent effect.
 
 **Cost:** +2 spell points
 
-### Burrowing Magic (Metamagic)
+#### Burrowing Magic (Metamagic)
 
 **Prerequisite:** Warp sphere.
 
@@ -70,13 +70,13 @@ If you change alignment such that you no longer have the alignment component you
 
 **Cost:** +3 spell points.
 
-### Cascade Spell (Metamagic)
+#### Cascade Spell (Metamagic)
 
 **Benefit:** Only talents that target only you and have a duration of at least 1 round can be cast as cascade spells; you must either spend spell points to let each cascading effect persist without concentration or have an effect that allows them to linger without concentration. You can prepare multiple talents as a single cascade talent (treat this as if you were casting multiple sphere effects with the same action), as long as all talents are CL 7th or lower, and the total caster level does not exceed CL 9th. The duration of all the cascade talents is equal to the shortest duration for all the talents. A cascade talent has a casting time equal to the longest casting time of all the talents in the cascade.
 
 **Cost:** +2 spell points
 
-### Coaxing Spell (Metamagic)
+#### Coaxing Spell (Metamagic)
 
 **Prerequisites:** Knowledge (Dungeoneering) 6 ranks, Sphere Focus (Mind).
 
@@ -84,13 +84,13 @@ If you change alignment such that you no longer have the alignment component you
 
 **Cost:** +2 spell points
 
-### Concussive Spell (Metamagic)
+#### Concussive Spell (Metamagic)
 
 **Benefit:** With sonic damage comes a concussive wave of energy that rattles creatures affected by the talent. A concussive talent causes creatures that take damage from a talent that has the sonic descriptor to take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks for a number of rounds equal to half the caster level of the spell (rounded down, minimum 1). This only affects talents with the sonic descriptor.
 
 **Cost:** +2 spell points
 
-### Conditional Spell (Metamagic)
+#### Conditional Spell (Metamagic)
 
 **Benefit:** You must cast a conditional talent immediately before casting another talent on the same creature, eliciting a promise or warning against a behavior and binding the target to the paired talent. If you do not cast a paired talent, the conditional talent has no effect. The paired talent must be from the Alteration, Enhancement, Fate, Life, Mind, Nature, or Protection spheres and must be cast on a willing creature. If the talent’s recipient violates the oath or prohibition while the conditional talent remains in effect, the paired talent is undone as if never cast. If the talent was a healing talent, the hit point damage or condition you removed returns immediately, even if the subject has enjoyed subsequent rest or healing. Poisons, diseases, curses, restored ability damage, and negative levels removed by the paired talent return as well.
 
@@ -100,13 +100,13 @@ The subject of the talent intuitively knows beforehand whether an action will ca
 
 **Cost:** +1 spell point
 
-### Consecrate Spell (Metamagic)
+#### Consecrate Spell (Metamagic)
 
 **Benefit:** A consecrated talent is treated as a maximized talent against evil creatures and creatures with the evil subtype. Against all other creatures, this feat does not modify the spell in any way (for example, a consecrated destructive blast acts as a normal destructive blast against neutral or good creatures). This feat does not stack with Maximize Spell.
 
 **Cost:** +2 spell points
 
-### Contagious Spell (Metamagic)
+#### Contagious Spell (Metamagic)
 
 **Benefit:** You can apply this effect only to targeted talents that are harmful to their target and do not have a range of personal; a contagious talent never spreads to someone who would benefit from being the target of the talent.
 
@@ -114,7 +114,7 @@ A magic skill check to dispel or remove a contagious talent that fails by 5 or m
 
 **Cost:** +2 spell points
 
-### Contingent Spell (Metamagic)
+#### Contingent Spell (Metamagic)
 
 **Prerequisite:** Life sphere.
 
@@ -122,7 +122,7 @@ A magic skill check to dispel or remove a contagious talent that fails by 5 or m
 
 **Cost:** +2 spell points
 
-### Dazing Spell (Metamagic)
+#### Dazing Spell (Metamagic)
 
 **Benefit:** You can modify a talent to daze a creature damaged by it. When a creature takes damage from this spell, they become dazed for a number of rounds equal to half the caster level of the talent (minimum 1). If the talent allows a saving throw, a successful save negates the daze effect.
 
@@ -130,25 +130,25 @@ If the talent does not allow a save, the target can attempt a Will save to negat
 
 **Cost:** +3 spell points
 
-### Delayed Magic (Metamagic)
+#### Delayed Magic (Metamagic)
 
 **Benefit:** You delay the effect of a sphere ability for up to 5 rounds after you use it, +1 round per caster level. You must select the amount of delay when using the effect. The area or target to be affected must be within range when the ability is used, but need not remain in your range (you or it may move) before the effect activates.
 
 **Cost:** +1 spell point
 
-### Disruptive Spell (Metamagic)
+#### Disruptive Spell (Metamagic)
 
 **Benefit:** Targets affected by a disruptive spell must attempt concentration checks when using talents or sphere-like abilities (DC equals the save DC of the disruptive spell plus 1/2 the caster level of the talent being cast (minimum 1)) for 1 round. Targets that avoid the talent’s effects avoid the effect of this metamagic as well.
 
 **Cost:** +1 spell point
 
-### Ectoplasmic Spell (Metamagic)
+#### Ectoplasmic Spell (Metamagic)
 
 **Benefit:** An ectoplasmic talent has full effect against incorporeal or ethereal creatures.
 
 **Cost:** +1 spell point
 
-### Elemental Spell (Metamagic)
+#### Elemental Spell (Metamagic)
 
 **Benefit:** Choose one of the following energy types when gaining this feat: acid, cold, electricity, or fire. You may replace a talent’s normal damage with that energy type or split the talent’s damage, so that half is of that energy type and half is of its normal type.
 
@@ -156,13 +156,13 @@ If the talent does not allow a save, the target can attempt a Will save to negat
 
 **Special:** You may gain this feat multiple times. Each time you do, select a different energy type to use with it.
 
-### Empower Spell (Metamagic)
+#### Empower Spell (Metamagic)
 
 **Benefit:** All variable, numeric effects of an empowered talent are increased by half, including bonuses to those dice rolls. Saving throws and opposed rolls are not affected, nor are talents without random variables.
 
 **Cost:** +2 spell points
 
-### Encouraging Spell (Metamagic)
+#### Encouraging Spell (Metamagic)
 
 **Prerequisites:** Cha 13, Diplomacy 6 ranks.
 
@@ -170,7 +170,7 @@ If the talent does not allow a save, the target can attempt a Will save to negat
 
 **Cost:** +1 spell point
 
-### Enlarging Spell (Metamagic)
+#### Enlarging Spell (Metamagic)
 
 **Benefit:** You can alter a talent with a range of close, medium, or long to increase its range by 100%. An enlarged talent with a range of close now has a range of 50 feet + 5 feet/level, while medium-range spells have a range of 200 feet + 20 feet/level and long-range spells have a range of 800 feet + 80 feet/level. Talents whose ranges are not defined by distance, as well as talents whose ranges are not close, medium, or long, do not benefit from this effect.
 
@@ -178,19 +178,19 @@ Note: This refers only to the targeting range, not the effect range.
 
 **Cost:** +1 spell point
 
-### Extend Spell (Metamagic)
+#### Extend Spell (Metamagic)
 
 **Benefit:** An extended talent lasts twice as long as normal. A talent with a duration of concentration, instantaneous, or permanent is not affected by this effect, but you may choose to activate this metamagic effect when spending a spell point to make a talent you are concentrating on last without concentration, rather than when you initially cast the sphere effect.
 
 **Cost:** +1 spell point
 
-### Fearsome Spell (Metamagic)
+#### Fearsome Spell (Metamagic)
 
 **Benefit:** When a creature takes hit point damage from a fearsome talent, if that creature fails its save against the talent, it becomes shaken for a number of rounds equal to 1/2 the talent’s caster level (minimum 1 round). If the talent does not allow a save, creatures harmed by it can attempt a Will save (against the same DC the talent would have if it did allow a save) to negate the shaken effect. If the talent already causes creatures to become shaken, on a failed save, add the duration of this metamagic effect to the duration of the shaken condition imposed by the talent. A fearsome talent cannot cause a creature to become frightened, even if that creature is already shaken.
 
 **Cost:** +2 spell points
 
-### Finishing Spell (Metamagic) [DbH]
+#### Finishing Spell (Metamagic) [DbH]
 
 Your magic is not troubled by the endeavors of the weak.
 
@@ -200,33 +200,33 @@ Your magic is not troubled by the endeavors of the weak.
 
 **Cost:** +2 spell points
 
-### Flaring Spell (Metamagic)
+#### Flaring Spell (Metamagic)
 
 **Benefit:** The electricity, fire, or light effects of the affected talent create a flaring light that dazzles creatures that take damage from the talent. A flaring talent causes a creature that takes fire or electricity damage from the affected talent to become dazzled for a number of rounds equal 1/2 the caster level of the spell (minimum 1 round). A flaring metamagic effect only affects talents with a fire, light, or electricity descriptor that deal damage.
 
 **Cost:** +1 spell point
 
-### Fleeting Spell (Metamagic)
+#### Fleeting Spell (Metamagic)
 
 **Benefit:** A fleeting talent’s duration becomes dismissible, if it is not already. You can dismiss your own fleeting talent as a swift action. When you dismiss a fleeting talent, its lingering aura cannot be detected by magic unless the caster succeeds at a magic skill check against a DC equal to 11 + 1/2 your caster level (minimum 1). The DC of checks to counter a fleeting spell is reduced by 2, and once active, counterspell removes a fleeting spell without a magic skill check. A fleeting talent has half its normal duration (with an extended fleeting talent, these duration adjustments cancel out). Only talents with a duration of at least 2 rounds can be made fleeting, and instantaneous or permanent talents cannot be fleeting talents. Time spent concentrating on a talent does not count against a fleeting talent’s time limit, and you may choose to activate this metamagic when spending a spell point to make a talent you are concentrating on last without concentration.
 
 **Cost:** +0 spell points
 
-### Focusing Spell (Metamagic)
+#### Focusing Spell (Metamagic)
 
 **Benefit:** When casting a talent that affects or targets more than one creature, you can choose one target or creature within the talent’s effect. That creature’s saving throw DC to resist the talent is increased by +2. You must choose which target to focus the talent on before casting the talent.
 
 **Cost:** +1 spell point
 
-### Furious Spell (Metamagic)
+#### Furious Spell (Metamagic)
 
 **Benefit:** A furious talent that deals hit point damage adds the talent’s caster level to the amount of damage dealt by the talent. Talents that affect multiple targets deal the extra damage once to each target, regardless of whether the talent deals its damage all at once or in multiple hits (in the latter case, add the extra damage to the first hit against each target). In addition, a furious talent can be cast while the caster is enraged, including during a barbarian rage or while affected by a rage talent. Even a furious talent that requires an emotion component (as required by the Emotional Casting drawback) can be cast while enraged. The caster gains a +2 circumstance bonus on concentration checks and magic skill checks related to casting a furious talent if she is enraged.
 
 **Cost:** +1 spell point
 
-### Habit Forming (Drawback, Metamagic) [Apoc]
+#### Habit Forming (Drawback, Metamagic) [Apoc]
 
-**Source:** [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)*
 
 **Benefit:** Creatures affected by your sphere effects can develop an addiction to receiving your magic. Whenever a creature fails a saving throw (or accepts an effect willingly) against a sphere effect that is also affected by this feat, it must make a Fortitude saving throw (DC is identical to the saving throw for the sphere effect itself), or develop dependance to your magic, as if they possessed the Addictive Casting drawback, except instead of having to make Fortitude saves against addiction whenever they spend a spell point (or do not spend a spell point), they instead must make Fortitude saves whenever they are affected by one of your sphere effects that spends one or more spell points. This dependance may be cured as dependance is cured, the addiction DC resets itself to 10 once more if they are subjected to this feat again.
 
@@ -234,13 +234,13 @@ Your magic is not troubled by the endeavors of the weak.
 
 **Special:** You may only take this feat as a drawback feat if you possess the Addictive Casting drawback.
 
-### Horrifying Imagination (Metamagic)
+#### Horrifying Imagination (Metamagic)
 
 **Benefit:** For one additional spell point, anyone targeted by your spells or sphere effects, attempting a save against them, or within their area becomes shaken for 1d4+1 rounds unless they succeed at a Will saving throw using the same DC as the original spell. For two additional spell points, they instead become frightened for 1d4+1 rounds unless they succeed at a Will saving throw using the same DC as the original spell. On a successful save, they instead become shaken for 1d4+1 rounds. This is a mind-affecting fear effect. Characters must only save against this effect once per spell or sphere effect it is applied to even if the modified spell requires additional saves.
 
 **Cost:** +1 or +2 spell points
 
-### Impossible Spell (Metamagic) [Alienist HB]
+#### Impossible Spell (Metamagic) [Alienist HB]
 
 **Benefit:** Impossible spells can be applied to any magic effect which allows a Will save. Creatures that fail their Will saving throw against the effect take 1d3 strain damage. This die sizes increases by 1 (1d3->1d4->1d6->1d8->1d10->2d6) for every 4 caster levels you possess.
 
@@ -248,37 +248,37 @@ Your magic is not troubled by the endeavors of the weak.
 
 **Note:** This spell uses the strain system introduced in *Horror Adventures* and expanded upon in *The Cataclysm Handbook* and *The Aberration Bestiary*. Games that do not use this system should not incorporate this feat.
 
-### Intuitive Spell (Metamagic)
+#### Intuitive Spell (Metamagic)
 
 **Benefit:** An intuitive talent can be cast with no mental focus (as required by the Mental Focus drawback). Talents that do not normally require mental focus are not affected.
 
 **Cost:** +1 spell point
 
-### Lingering Spell (Metamagic)
+#### Lingering Spell (Metamagic)
 
 **Benefit:** You may cause an instantaneous talent that affects an area to persist until the beginning of your next turn. Those already in the area suffer no additional harm, but other creatures or objects entering the area are subject to its effects. A lingering talent with a visual manifestation obscures vision, providing concealment (20% miss chance) beyond 5 feet and total concealment (50% miss chance) beyond 20 feet.
 
 **Cost:** +1 spell point
 
-### Logical Spell (Metamagic)
+#### Logical Spell (Metamagic)
 
 **Benefit:** A logical talent can be cast without emotion components (as required by the Emotional Casting drawback). Talents that do not require emotion components are not affected.
 
 **Cost:** +1 spell point
 
-### Maximize Spell (Metamagic)
+#### Maximize Spell (Metamagic)
 
 **Benefit:** All variable, numeric effects of a talent modified by this metamagic are maximized. Saving throws and opposed rolls are not affected, nor are talents without random variables. An empowered, maximized talent gains the separate benefits of each feat: the maximum result plus half the normally rolled result.
 
 **Cost:** +3 spell points
 
-### Merciful Spell (Metamagic)
+#### Merciful Spell (Metamagic)
 
 **Benefit:** You can alter talents that inflict damage to inflict nonlethal damage instead. Talents that inflict damage of a particular type (such as fire) inflict nonlethal damage of that same type.
 
 **Cost:** +0 spell points
 
-### Opportune Spell (Metamagic) [DbH]
+#### Opportune Spell (Metamagic) [DbH]
 
 Incredible power waits to strike any who would cross you.
 
@@ -288,25 +288,25 @@ Incredible power waits to strike any who would cross you.
 
 **Cost:** +4 spell points
 
-### Persistent Spell (Metamagic)
+#### Persistent Spell (Metamagic)
 
 **Benefit:** Whenever a creature targeted by a persistent talent or within its area succeeds at its saving throw against the talent, it must attempt another saving throw against the effect. If a creature fails this second saving throw, it suffers the full effects of the talent, as if it had failed its first saving throw. Talents that do not require a saving throw to resist or lessen the talent’s effect do not benefit from this feat.
 
 **Cost:** +2 spell points
 
-### Piercing Spell (Metamagic)
+#### Piercing Spell (Metamagic)
 
 **Benefit:** When you cast a piercing talent against a target with spell resistance, it treats the spell resistance of the target as 5 lower than its actual spell resistance.
 
 **Cost:** +1 spell point
 
-### Quicken Spell (Metamagic)
+#### Quicken Spell (Metamagic)
 
 **Benefit:** Activating this metamagic decreases the casting time of a talent by 2 steps (to a minimum of one swift action). Like most metamagic effects, a caster cannot apply Quicken Spell multiple times to the same casting.
 
 **Cost:** +4 spell points
 
-### Reach Spell (Metamagic)
+#### Reach Spell (Metamagic)
 
 **Benefit:** You can alter a spell with a range of touch, close, or medium to increase its range to a higher range category, using the following order: touch, close, medium, and long. Unlike most metamagic effects, you may activate this metamagic multiple times for the same casting to increase its range.
 
@@ -314,31 +314,31 @@ Note: This refers only to the targeting range, not the effect range.
 
 **Cost:** +2 spell points
 
-### Rime Spell (Metamagic)
+#### Rime Spell (Metamagic)
 
 **Benefit:** The frost of your cold talent clings to the target, impeding it for a short time. A rime talent causes creatures that take cold damage from the talent to become entangled for a number of rounds equal to 1/2 the caster level of the talent (minimum 1). This feat only affects talent with the cold descriptor that deal damage.
 
 **Cost:** +1 spell point
 
-### Scarring Spell (Metamagic)
+#### Scarring Spell (Metamagic)
 
 **Benefit:** When a creature fails a saving throw against a scarring talent, for the next 24 hours that creature takes a -2 penalty on saving throws against emotion and fear effects you create, and a -1 penalty on saving throws against other emotion and fear effects. Penalties from multiple scarring talents do not stack. This metamagic can be activated only for talents with the emotion or fear descriptor.
 
 **Cost:** +1 spell point
 
-### Seeking Spell (Metamagic)
+#### Seeking Spell (Metamagic)
 
 **Benefit:** A seeking talent’s range can bend around obstacles to reach the intended target. You can define the route yourself or unambiguously identify a target and allow the talent to determine its own path. However, the talent fails if it would have to travel farther than its maximum range to reach the identified target. A ranged attack roll made to deliver a seeking talent is not subject to cover or concealment. In order to benefit from this effect, the selected talent must have a range greater than touch and target one or more creatures, or it must require the caster to make a ranged touch attack.
 
 **Cost:** +2 spell points
 
-### Selective Spell (Metamagic)
+#### Selective Spell (Metamagic)
 
 **Benefit:** When casting a selective talent with an area effect and a duration of instantaneous, you can choose a number of targets in the area equal to your casting ability score modifier. These targets are excluded from the effects of your talent.
 
 **Cost:** +1 spell point
 
-### Shadow Grasp (Metamagic)
+#### Shadow Grasp (Metamagic)
 
 **Prerequisites:** Tenebrous Spell, Umbral Spell.
 
@@ -346,43 +346,43 @@ Note: This refers only to the targeting range, not the effect range.
 
 **Cost:** +1 spell point
 
-### Sickening Spell (Metamagic)
+#### Sickening Spell (Metamagic)
 
 **Benefit:** You can modify a talent to sicken a creature damaged by the talent. When a creature takes damage from this talent, they become sickened for a number of rounds equal 1/2 the caster level of the spell (minimum 1 round). If the talent allows a saving throw, a successful save negates the sickening effect. If the talent does not allow a save, the target can attempt a Fortitude save to negate the sickening effect. If the talent effect also causes the creature to become sickened, the duration of this metamagic effect is added on to the duration of the talent. Talents that do not inflict damage do not benefit from this effect.
 
 **Cost:** +2 spell points
 
-### Silent Spell (Metamagic)
+#### Silent Spell (Metamagic)
 
 **Benefit:** A silent talent can be cast with no verbal components (as required by the Verbal Casting drawback). Talents without verbal components are not affected.
 
 **Cost:** +1 spell point
 
-### Snuffing Spell (Metamagic)
+#### Snuffing Spell (Metamagic)
 
 **Benefit:** You can modify a talent to extinguish magical and non-magical light sources that the target has. The first time a creature takes damage from or fails a saving throw against a snuffing talent, any non-magical light sources it has are immediately extinguished and you can attempt to dispel any active sphere effects with the light descriptor that are affecting the target as if you had also cast the targeted version of Counterspell (as the feat). Talents that do not target creatures cannot be snuffing talents.
 
 **Cost:** +2 spell points
 
-### Solar Spell (Metamagic)
+#### Solar Spell (Metamagic)
 
 **Benefit:** Any talent you cast with the light descriptor that deals damage (including the Light sphere’s Searing Light talent and any blast type in the Destruction sphere’s Light blast type group) is fortified with the cleansing energies of the sun. If the talent creates an area of light, all creatures are dazzled for as long as they remain within the light’s area. Oozes, fungal creatures, creatures from the Shadow Plane, and undead must also succeed at a Will save (normal DC for your talent) or take a –2 penalty on attack rolls, damage rolls, saving throws, skill checks, and ability checks for as long as they remain within the light’s area. If the talent normally dazzles or blinds affected creatures with a duration other than instantaneous or permanent, the duration of that effect is increased by a number of rounds equal to 1/2 the talent’s caster level (minimum 1 round). Saving throws to remove the effect early still apply and can bypass this increase. If the talent deals more damage against oozes, fungal creatures, creatures from the Shadow Plane, or undead with a specific vulnerability to sunlight, the talent deals 1 additional point of damage per die against such creatures. If the damaging effect does not deal damage based on dice, it instead deals 1 additional point of damage per caster level.
 
 **Cost:** +1 spell point
 
-### Still Spell (Metamagic)
+#### Still Spell (Metamagic)
 
 **Benefit:** A stilled talent can be cast with no somatic components (as required by the Somatic Casting drawback). Talents without somatic components are not affected.
 
 **Cost:** +1 spell point
 
-### Studied Spell (Metamagic)
+#### Studied Spell (Metamagic)
 
 **Benefit:** When casting a studied talent, designate one target affected by the spell. Attempt an appropriate Knowledge check based on that target’s creature type as you cast the talent. The DC for this check is equal to 20 + the creature’s CR based on its race and not including any class levels or templates (a creature that is defined by class levels has an effective CR of 0 for this ability). If you succeed, your studied talent ignores any energy resistance or damage reduction the target has because of its race as well as any bonuses on saving throws against the talent granted by the target’s race (such as the bonus from a dwarf’s hardy ability or a halfling’s halfling luck ability). Your studied talent does not ignore energy resistance, damage reduction, or saving throw bonuses granted by other talents and effects. If you fail the Knowledge check, the talent still has its normal effects.
 
 **Cost:** +2 spell points
 
-### Suppressed Spell (Metamagic)
+#### Suppressed Spell (Metamagic)
 
 **Prerequisites:** Illusion sphere (Suppression (glamer)).
 
@@ -392,25 +392,25 @@ Note: This refers only to the targeting range, not the effect range.
 
 **Cost:** +2 spell points
 
-### Tempest-Tossed Spell (Metamagic) [Alienist HB]
+#### Tempest-Tossed Spell (Metamagic) [Alienist HB]
 
 **Benefit:** A tempest-tossed spell does not require one to attempt a concentration check for casting in vigorous motion, violent motion, or violent weather.
 
 **Cost:** +1 spell point
 
-### Tenacious Spell (Metamagic)
+#### Tenacious Spell (Metamagic)
 
 **Benefit:** Increase the DC of magic skill checks to counter or dispel a tenacious talent by 2. If a tenacious talent is dispelled or dismissed, it lasts for 1d4 further rounds (to a maximum of the talents normal duration) before ending (this does not occur if an antimagic field or a similar talent or effect suppresses or ends the talent’s effect without dispelling or dismissing it). The lingering auras of tenacious talents detectable with detect magic last for twice as long as usual after the talent ends.
 
 **Cost:** +1 spell point
 
-### Tenebrous Spell (Metamagic)
+#### Tenebrous Spell (Metamagic)
 
 **Benefit:** When you cast a tenebrous talent in darkness or dim light, the spell’s effective caster level is increased by 2 and any associated save DCs are increased by 1. Any attempts at dispelling a tenebrous talent in darkness or dim light take a –2 penalty on the check. Casting a tenebrous talent in bright light is difficult, and requires a concentration check (DC 15 + the tenebrous talent’s effective caster level). Attempts to dispel a tenebrous talent in bright light gain a +4 bonus on the check. You cannot use this effect on talents with the light descriptor.
 
 **Cost:** +1 spell point
 
-### Thanatopic Spell (Metamagic)
+#### Thanatopic Spell (Metamagic)
 
 **Benefit:** A thanatopic talent pierces defenses and immunities that protect against death effects, negative levels, and energy drain, affecting the target as if the protective barrier did not exist. For example, you could cast a thanatopic Vampiric Strike on a target under the effects of Deathless, and the target would suffer the normal effect of the talent. Saving throws and spell resistance (if any) still apply. Undead are susceptible to talents augmented by this feat, as it retunes the negative energy to be harmful to them.
 
@@ -418,25 +418,25 @@ A thanatopic talent that would kill a living creature (such as by giving it nega
 
 **Cost:** +2 spell points
 
-### Threnodic Spell (Metamagic)
+#### Threnodic Spell (Metamagic)
 
 **Benefit:** This effect only works on mind-affecting talents. A threnodic talents affects undead creatures (even mindless undead) as if they were not immune to mind-affecting effects, but has no effect on living creatures. This metamagic does not give you the effects of the Mind sphere’s Expanded Charm talent.
 
 **Cost:** +2 spell points
 
-### Thundering Spell (Metamagic)
+#### Thundering Spell (Metamagic)
 
 **Benefit:** You can modify a talent to deafen a creature damaged by the talent. When a creature takes damage from this talent, it becomes deafened for a number of rounds equal to 1/2 the caster level of the spell (minimum 1 round). If the talent allows a saving throw, a successful save negates the deafening effect. If the talent does not allow a save, the target can attempt a Fortitude save to negate the deafening effect. If the talent effect also causes the creature to become deafened, the duration of this metamagic effect is added to the duration of the talent. Talents that do not inflict damage do not benefit from this metamagic.
 
 **Cost:** +2 spell points
 
-### Toppling Spell (Metamagic)
+#### Toppling Spell (Metamagic)
 
 **Benefit:** The impact of your force talent is strong enough to knock the target prone. If the target takes damage, fails its saving throw, or is moved by your force talent, make a trip check against the target, using your caster level plus your casting ability modifier. This does not provoke an attack of opportunity. If the check fails, the target cannot attempt to trip you or the force effect in response. This metamagic only affects talents with the force descriptor.
 
 **Cost:** +1 spell point
 
-### Toxic Spell (Metamagic)
+#### Toxic Spell (Metamagic)
 
 **Benefit:** You can use 1 dose of contact, ingested, inhaled, or injury poison as an additional material component for a talent you cast. This talent gains the poison descriptor. Select a single creature affected by the talent. If that creature fails its saving throw against the talent, it must also attempt a saving throw against the poison used as a material component. If the target fails the save against the poison, the poison takes effect immediately, ignoring any onset time.
 
@@ -444,19 +444,19 @@ The poison uses its save DC (rather than the save DC of the talent), but is modi
 
 **Cost:** +1 spell point
 
-### Traumatic Spell (Metamagic)
+#### Traumatic Spell (Metamagic)
 
 **Benefit:** A traumatic talent causes lingering memories of pain and suffering in creatures harmed by it. When a creature fails a saving throw against a traumatic talent, the next time it sleeps it must succeed at a Will save with a DC equal to the original talent’s DC or be affected as if by nightmare (as the spell). Each time the target fails its save, it must save again the following night or be affected by another nightmare, though the save DC decreases by 2 each night after the first. This metamagic effect can be applied only to talents with the emotion or fear descriptor.
 
 **Cost:** +2 spell points
 
-### Trick Spell (Metamagic)
+#### Trick Spell (Metamagic)
 
 **Benefit:** Only Mind talents (or talents that also include an effect from the Mind sphere, such as some spellcrafted or dual sphere effects) that affect a single target and can be negated with a successful Will save can be trick talents. If the target fails its Will save against a trick talent, in addition to the talent’s normal effects, the target also clumsily hinders itself. Immediately attempt a special combat maneuver check (1d20 + your caster level + your Charisma bonus) to perform a dirty trick combat maneuver against the target. Any feats you have that apply to dirty trick maneuvers (such as Greater Dirty Trick) also apply to this check. This combat maneuver check never provokes attacks of opportunity.
 
 **Cost:** +1 spell point
 
-### Umbral Spell (Metamagic)
+#### Umbral Spell (Metamagic)
 
 **Benefit:** An umbral talent gains the darkness descriptor. As long as the talent is in effect, the creature or object affected radiates darkness in a 10-foot radius, reducing illumination similar to the effects of the basic effect of the Dark sphere. Nonmagical sources of light, such as torches or lanterns, do not increase the light level in this area.
 
@@ -464,7 +464,7 @@ Magical light sources only increase the light level in an area affected by an um
 
 **Cost:** +2 spell points
 
-### Widen Spell (Metamagic)
+#### Widen Spell (Metamagic)
 
 **Benefit:** You can alter a burst, emanation, or spread-shaped spell to increase its area. Any numeric measurements of the spell’s area increase by 100%. Spells that do not have an area of one of these sorts are not affected by this feat. (Cones, lines, and spheres are emanations.)
 

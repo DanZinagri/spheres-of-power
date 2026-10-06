@@ -13,21 +13,21 @@ The terrain shudders and shifts from forest to ocean to arid desert in quick suc
 XP 409,600
 Pathfinder Roleplaying Game Bestiary 2
 CN Large outsider (chaotic, extraplanar, protean, mythic, shapechanger)
-**Init**+13/-7MF, dual initiativeMA;**Senses** blindsense 60 ft., darkvision 60 ft., detect law; Perception +33
+**Init** +13/-7MF, dual initiativeMA; **Senses** blindsense 60 ft., darkvision 60 ft., detect law; Perception +33
 **Aura** spatial riptide (30 ft.)
 
 #### Defense
 
-**AC**40,**touch**14,**flat-footed** 35 (+5 Dex, +26 natural, –1 size; +2 deflection vs. law)
+**AC** 40, **touch** 14, **flat-footed** 35 (+5 Dex, +26 natural, –1 size; +2 deflection vs. law)
 **hp** 413 (23d10+287); fast healing 10
-**Fort**+24,**Ref**+14,**Will** +22; +2 resistance vs. law, second saveMA
-**Defensive Abilities**amorphous anatomy, entropic sphereMMA, freedom of movement; DR 15/epic and lawful;**Immune**acid, polymorph;**Resist**electricity 10, sonic 10;**SR** 36
+**Fort** +24, **Ref** +14, **Will** +22; +2 resistance vs. law, second saveMA
+**Defensive Abilities** amorphous anatomy, entropic sphereMMA, freedom of movement; DR 15/epic and lawful; **Immune** acid, polymorph; **Resist** electricity 10, sonic 10; **SR** 36
 
 #### Offense
 
 **Speed** 40 ft., fly 40 ft. (perfect), swim 40 ft.
 **Melee** bite +31 (4d8+9 plus warpwave), 2 claws +31 (2d6+9 plus warpwave), tail slap +31 (2d8+9 plus grab)
-**Space**10 ft.;**Reach** 10 ft. (15 ft. with tail slap)
+**Space** 10 ft.; **Reach** 10 ft. (15 ft. with tail slap)
 **Special Attacks** constrict 1d8+9, mythic power (8/day, surge +1d10), mythic spell-like abilitiesMA, supraspatial serpentMA, unraveling ruptureMMA
 
 **Spell-Like Abilities** (CL 17th; concentration +26)
@@ -38,8 +38,8 @@ At will—chaos hammer (DC 23), fabricate, greater dispel magic, greater telepor
 
 #### Statistics
 
-**Str**29,**Dex**21,**Con**28,**Int**20,**Wis**25,**Cha** 28
-**Base Atk**+23;**CMB**+33 (+37 grapple);**CMD** 48 (can’t be tripped)
+**Str** 29, **Dex** 21, **Con** 28, **Int** 20, **Wis** 25, **Cha** 28
+**Base Atk** +23; **CMB** +33 (+37 grapple); **CMD** 48 (can’t be tripped)
 **Feats** Combat Reflexes, Craft Wondrous Item, Empower Spell-Like Ability (chaos hammer), Flyby Attack, Great Fortitude, Improved InitiativeMF, Iron Will, Lightning Reflexes, Mythic CrafterMF, Power AttackMF, Quicken Spell-Like Ability (confusion),
 **Spell** PenetrationMF, Vital Strike
 **Skills** Acrobatics +31, Bluff +35, Craft (any one) +28, Diplomacy +35, Fly +11, Intimidate +35, Knowledge (arcana, planes) +31, Knowledge (any one) +28, Perception +33, Spellcraft +27, Stealth +27, Swim +21

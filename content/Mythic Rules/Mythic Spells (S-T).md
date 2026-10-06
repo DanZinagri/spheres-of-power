@@ -1094,7 +1094,7 @@ Your spiritual ally adds one-half your mythic tier on its attack and damage roll
 
 #### Spit Venom
 
-If you hit the target with your mythic spit venom, the target is blinded for 1 round and dazzled for a number of rounds equal to your mythic tier. In addition, the statistics for your mythic spit venom are as follows: **type**poison (injury);**save**Fortitude DC = spell DC;**frequency**1/round for 6 rounds + 1 round per 2 mythic tiers;**effect**1d2 Con damage plus blindness until the poison is cured;**cure** 2 saves.
+If you hit the target with your mythic spit venom, the target is blinded for 1 round and dazzled for a number of rounds equal to your mythic tier. In addition, the statistics for your mythic spit venom are as follows: **type** poison (injury); **save** Fortitude DC = spell DC; **frequency** 1/round for 6 rounds + 1 round per 2 mythic tiers; **effect** 1d2 Con damage plus blindness until the poison is cured; **cure** 2 saves.
 
 Alternatively, you may spit venom in a 10-foot cone-shaped burst or a 20-foot line rather than as a ranged touch attack. Creatures in the area are dazzled for 1 round, and those that fail their saves are blinded for 1 round and poisoned by black adder venom, using the spell’s save DC in place of the poison’s normal save DC.
 

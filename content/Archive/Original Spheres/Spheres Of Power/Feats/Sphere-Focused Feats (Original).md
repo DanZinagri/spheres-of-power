@@ -657,7 +657,7 @@ At caster level 9th the wall can also affect weapons with a +1 enhancement bonus
 
 **Prerequisites:** Destruction sphere, 5th caster level or higher
 
-Benefit: You may accept 2 or more points of Constitution burn as a free action. Doing so grants 1 temporary spell point per 2 points of burn that expires at the end of your turn. Half the damage of any destructive blast these temporary spell points are spent on becomes untyped damage and the blast bypasses spell resistance. The number of spell points granted per 2 points of burn increases by +1 every ten character levels. You cannot use this ability if doing so would reduce your constitution to 0.
+**Benefit:** You may accept 2 or more points of Constitution burn as a free action. Doing so grants 1 temporary spell point per 2 points of burn that expires at the end of your turn. Half the damage of any destructive blast these temporary spell points are spent on becomes untyped damage and the blast bypasses spell resistance. The number of spell points granted per 2 points of burn increases by +1 every ten character levels. You cannot use this ability if doing so would reduce your constitution to 0.
 
 #### Tether Adept
 

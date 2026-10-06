@@ -13,26 +13,26 @@ A screeching cawing whirlwind of buffeting wings, clawing talons and pecking bea
 XP 1,200
 Pathfinder Adventure Path #33: The Varnhold Vanishing
 N Tiny animal (mythic, swarm)
-**Init**+6;**Senses** low-light vision, scent; Perception +11
+**Init** +6; **Senses** low-light vision, scent; Perception +11
 
 #### Defense
 
-**AC**15,**touch**14,**flat-footed** 13 (+2 Dex, +1 natural, +2 size)
+**AC** 15, **touch** 14, **flat-footed** 13 (+2 Dex, +1 natural, +2 size)
 **hp** 35 (6d8+8)
-**Fort**+5,**Ref**+9,**Will** +4
-**Defensive Abilities**disperseMA, half damage from slashing and piercing weapons; DR 5/epic;**Immune** swarm traits
+**Fort** +5, **Ref** +9, **Will** +4
+**Defensive Abilities** disperseMA, half damage from slashing and piercing weapons; DR 5/epic; **Immune** swarm traits
 
 #### Offense
 
 **Speed** 5 ft., fly 40 ft. (average)
 **Melee** swarm (2d6 plus eye rake)
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** distraction (DC 13), expandMA, mythic power (1/day, surge +1d6)
 
 #### Statistics
 
-**Str**1,**Dex**15,**Con**10,**Int**2,**Wis**14,**Cha** 6
-**Base Atk**+4;**CMB**—;**CMD** —
+**Str** 1, **Dex** 15, **Con** 10, **Int** 2, **Wis** 14, **Cha** 6
+**Base Atk** +4; **CMB** —; **CMD** —
 **Feats** Improved Initiative, Lightning ReflexesMF, Skill Focus (Perception)
 **Skills** Fly +12, Perception +11, Stealth +0
 

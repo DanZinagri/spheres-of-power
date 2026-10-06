@@ -102,8 +102,8 @@ Presented below are a number of origin traditions created using the above rules.
 No particular origin defines your person or abilities.
 
 **Generation Tradition:** Mortal
-**Size:** Small or Medium;**Type:** Humanoid (any)
-**Speed:** 30 feet;**Limbs:** 2 arms, 2 legs
+**Size:** Small or Medium; **Type:** Humanoid (any)
+**Speed:** 30 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Aptitude:** Expansive Training (any one), Specialized Training (any one)
@@ -113,8 +113,8 @@ No particular origin defines your person or abilities.
 You are a powerful being of scale, claw, insight, and magic.
 
 **Generation Tradition:** Hidden Domain Citizen
-**Size:** Small or Medium;**Type:** Dragon or magical beast
-**Speed:** 40 feet;**Limbs:** 4 legs (somatic components and item manipulation possible)
+**Size:** Small or Medium; **Type:** Dragon or magical beast
+**Speed:** 40 feet; **Limbs:** 4 legs (somatic components and item manipulation possible)
 
 **Potent Talents**
 **Form:** Extra Legs
@@ -135,8 +135,8 @@ You are a powerful being of scale, claw, insight, and magic.
 You are a hardy and steadfast denizen of the mountains.
 
 **Generation Tradition:** Hidden Domain Citizen
-**Size:** Medium;**Type:** Humanoid (dwarf)
-**Speed:** 20 feetV;**Limbs:** 2 arms, 2 legs
+**Size:** Medium; **Type:** Humanoid (dwarf)
+**Speed:** 20 feetV; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Form:** Spellhardy
@@ -155,8 +155,8 @@ You are a hardy and steadfast denizen of the mountains.
 You are an ancient, long-lived being innately attuned to magic.
 
 **Generation Tradition:** Hidden Domain Citizen or Primordial Child
-**Size:** Medium;**Type:** Fey or humanoid (elf)
-**Speed:** 30 feet;**Limbs:** 2 arms, 2 legs
+**Size:** Medium; **Type:** Fey or humanoid (elf)
+**Speed:** 30 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Aptitude:** Specialized Training (Spell Penetration)
@@ -173,8 +173,8 @@ You are an ancient, long-lived being innately attuned to magic.
 You are a diminutive but magically gifted stranger with a connection to the unknown.
 
 **Generation Tradition:** Wanderer
-**Size:** Small;**Type:** Fey or humanoid (gnome)
-**Speed:** 20 feet;**Limbs:** 2 arms, 2 legs
+**Size:** Small; **Type:** Fey or humanoid (gnome)
+**Speed:** 20 feet; **Limbs:** 2 arms, 2 legs
 
 **Auxiliary Talents**
 **Aptitude:** Defensive Training (humanoids (giant)), Longtime Foe (humanoids (goblin or reptilian))
@@ -194,8 +194,8 @@ You are a diminutive but magically gifted stranger with a connection to the unkn
 You are a small creature accustomed to eking out an existence in the shadows.
 
 **Generation Tradition:** Shunned
-**Size:** Small;**Type:** Humanoid (goblin)
-**Speed:** 30 feet;**Limbs:** 2 arms, 2 legs
+**Size:** Small; **Type:** Humanoid (goblin)
+**Speed:** 30 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Aptitude:** Extreme Specialization
@@ -211,8 +211,8 @@ You are a small creature accustomed to eking out an existence in the shadows.
 Subtlety shapes your technique as surely as comfort shapes your sentiment.
 
 **Generation Tradition:** Hidden Domain Citizen
-**Size:** Small;**Type:** Humanoid (halfling)
-**Speed:** 20 feetV;**Limbs:** 2 arms, 2 legs
+**Size:** Small; **Type:** Humanoid (halfling)
+**Speed:** 20 feetV; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Essence:** Gift Of Fortune
@@ -233,8 +233,8 @@ Subtlety shapes your technique as surely as comfort shapes your sentiment.
 A history of contending with dark magic has hardened your physical resolve.
 
 **Generation Tradition:** Shunned
-**Size:** Medium;**Type:** Humanoid (orc)
-**Speed:** 30 feet;**Limbs:** 2 arms, 2 legs
+**Size:** Medium; **Type:** Humanoid (orc)
+**Speed:** 30 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Form:** Ferocity
@@ -252,8 +252,8 @@ A history of contending with dark magic has hardened your physical resolve.
 
 High society has taught you much about refinement and duplicity.
 **Generation Tradition:** any
-**Size:** any;**Type:** Humanoid (any)
-**Speed:** 30 feet;**Limbs:** 2 arms, 2 legs
+**Size:** any; **Type:** Humanoid (any)
+**Speed:** 30 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Aptitude:** Specialized Training (Noble Scion)
@@ -269,8 +269,8 @@ High society has taught you much about refinement and duplicity.
 The wilderness has taught you a great deal.
 
 **Generation Tradition:** Mortal or Shunned
-**Size:** Medium or Small;**Type:** Humanoid (any)
-**Speed:** 30 feet;**Limbs:** 2 arms, 2 legs
+**Size:** Medium or Small; **Type:** Humanoid (any)
+**Speed:** 30 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Aptitude:** Specialized Training (any one)
@@ -292,7 +292,7 @@ Much of your life has been spent studying magical mysteries in a remote locale.
 
 **Generation Tradition:** Hidden Domain Citizen
 **Size:** Small or Medium; Type: Aberration, fey, or humanoid (any)
-**Speed:** 30 feet;**Limbs:** 2 arms, 2 legs
+**Speed:** 30 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Essence:** Augmented Essence (any one)
@@ -309,8 +309,8 @@ Much of your life has been spent studying magical mysteries in a remote locale.
 Your magic essence is tied to an alien realm of magic.
 
 **Generation Tradition:** Mortal or Primordial Child
-**Size:** Medium;**Type:** Humanoid (any) or outsider (native)
-**Speed:** 30 feet;**Limbs:** 2 arms, 2 legs
+**Size:** Medium; **Type:** Humanoid (any) or outsider (native)
+**Speed:** 30 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Essence:** Augmented Essence (any one)
@@ -327,8 +327,8 @@ Your magic essence is tied to an alien realm of magic.
 You were created for conflict, your defenses forged into your body.
 
 **Generation Tradition:** Fabricated Soldier
-**Size:** Medium;**Type:** Construct
-**Speed:** 20 feet;**Limbs:** 2 arms, 2 legs
+**Size:** Medium; **Type:** Construct
+**Speed:** 20 feet; **Limbs:** 2 arms, 2 legs
 
 **Potent Talents**
 **Essence:** Artificial Soul
@@ -347,8 +347,8 @@ You were created for conflict, your defenses forged into your body.
 You’ve learned to harness your bug-like traits for a variety of advantages
 
 **Generation Tradition:** any
-**Size:** any;**Type:** Humanoid (any) or Monstrous Humanoid
-**Speed:** 30 feet;**Limbs:** 4 arms (2 as Convenient Appendages), 2 legs
+**Size:** any; **Type:** Humanoid (any) or Monstrous Humanoid
+**Speed:** 30 feet; **Limbs:** 4 arms (2 as Convenient Appendages), 2 legs
 
 **Auxiliary Talents**
 **Form:** Convenient Appendage x2, Natural Attack (bite), Thick-Skinned
@@ -361,7 +361,7 @@ You’ve learned to harness your bug-like traits for a variety of advantages
 Circumstance has gifted your bestial shape with a cunning mind
 
 **Generation Tradition:** any
-**Size:** any;**Type:** Magical Beast
+**Size:** any; **Type:** Magical Beast
 **Speed:** 40 feet; Limbs: 4 legs
 
 **Potent Talents**
@@ -1385,11 +1385,11 @@ Components can be fully repaired in a process that takes 1 hour (if any are brok
 
 For every assistive device your character incorporates, you gain one of the talents listed alongside the device to reflect either an advantage conferred by the device or special training used in conjunction with the device. You only receive the benefits of this talent when your assistive device is not broken or destroyed.
 
-- **Arms:** Arm components include artificial hands, arms, prehensile tails, limb extensions, and other appendages for manipulation. If an arm component becomes broken, you take a -4 penalty on any attack roll or skill check which involves that arm alongside a -4 penalty to concentration checks. If an arm component is destroyed, the concentration penalty increases to -8 and you cannot use the arm for any purpose until it is repaired.**Associated Talents:** Hidden Storage, Steadfast (disarm, grapple, steal, or reposition only).
-- **Body:** Body components include breathing apparati, exoskeletons, environment suits, or artificial organs with some sort of external component. Although you take penalties as if the body component were destroyed whenever you are not wearing the integrated equipment. While a body component is broken, you gain the fatigued condition which cannot be removed or ignored unless the body component is repaired. While a body component is destroyed, you gain the exhausted condition which cannot be removed or ignored unless the body component is repaired. Both of these effects ignore any immunity to fatigue or exhaustion you may possess.**Associated Talents:** Altitude Acclimation, Developed Tolerance, Hidden Storage, Steady Trek.
-- **Hearing:** Hearing components include hearing aids, ear implants, artificial ears, and other tools which allow a character to hear more effectively. If a hearing component becomes broken, you take a -4 penalty on Perception checks involving hearing and on initiative checks (this can alter a creature’s place in the initiative order mid-combat). If a hearing component becomes destroyed, these penalties increase to -8.**Associated Talents:** Developed Tolerance, Utility Training.
-- **Mobility:** Mobility components cover legs, wings, fins, wheels, canes, and other tools which are used for movement. Even if they constitute multiple limbs or sections, all mobility components which affect a specific movement speed are considered to be a single item for the purpose of being targeted. If a mobility component is broken, you are considered entangled for as long as the component remains broken (this penalty cannot be removed except by repairing the component). If a mobility component is destroyed, any associated movement speed is reduced to 5 feet.**Associated Talents:** Hidden Storage, Steadfast (bull rush, drag, reposition, or trip only), Steady Trek (with associated movement speed only), Utility Training.
-- **Sight:** Sight components cover glasses, artificial eyes, and other tools which allow a creature to effectively see. If a sight component becomes broken, you take a -5 penalty on Perception checks involving sight and treat all targets as having partial concealment. If a sight component is destroyed, you take a -20 penalty on Perception checks involving sight and treat any target more than 5 feet away from you as having total concealment rather than partial concealment.**Associated Talents:** Developed Tolerance, Utility Training.
+- **Arms:** Arm components include artificial hands, arms, prehensile tails, limb extensions, and other appendages for manipulation. If an arm component becomes broken, you take a -4 penalty on any attack roll or skill check which involves that arm alongside a -4 penalty to concentration checks. If an arm component is destroyed, the concentration penalty increases to -8 and you cannot use the arm for any purpose until it is repaired. **Associated Talents:** Hidden Storage, Steadfast (disarm, grapple, steal, or reposition only).
+- **Body:** Body components include breathing apparati, exoskeletons, environment suits, or artificial organs with some sort of external component. Although you take penalties as if the body component were destroyed whenever you are not wearing the integrated equipment. While a body component is broken, you gain the fatigued condition which cannot be removed or ignored unless the body component is repaired. While a body component is destroyed, you gain the exhausted condition which cannot be removed or ignored unless the body component is repaired. Both of these effects ignore any immunity to fatigue or exhaustion you may possess. **Associated Talents:** Altitude Acclimation, Developed Tolerance, Hidden Storage, Steady Trek.
+- **Hearing:** Hearing components include hearing aids, ear implants, artificial ears, and other tools which allow a character to hear more effectively. If a hearing component becomes broken, you take a -4 penalty on Perception checks involving hearing and on initiative checks (this can alter a creature’s place in the initiative order mid-combat). If a hearing component becomes destroyed, these penalties increase to -8. **Associated Talents:** Developed Tolerance, Utility Training.
+- **Mobility:** Mobility components cover legs, wings, fins, wheels, canes, and other tools which are used for movement. Even if they constitute multiple limbs or sections, all mobility components which affect a specific movement speed are considered to be a single item for the purpose of being targeted. If a mobility component is broken, you are considered entangled for as long as the component remains broken (this penalty cannot be removed except by repairing the component). If a mobility component is destroyed, any associated movement speed is reduced to 5 feet. **Associated Talents:** Hidden Storage, Steadfast (bull rush, drag, reposition, or trip only), Steady Trek (with associated movement speed only), Utility Training.
+- **Sight:** Sight components cover glasses, artificial eyes, and other tools which allow a creature to effectively see. If a sight component becomes broken, you take a -5 penalty on Perception checks involving sight and treat all targets as having partial concealment. If a sight component is destroyed, you take a -20 penalty on Perception checks involving sight and treat any target more than 5 feet away from you as having total concealment rather than partial concealment. **Associated Talents:** Developed Tolerance, Utility Training.
 
 #### Awkward Flight
 
@@ -1558,9 +1558,9 @@ A character who selects the Improved Animal Companion legendary talent may creat
 #### Sample Custom Animal Base
 
 **Gorgonopsid Companion**
-**Size:** Medium;**Type:** Animal
+**Size:** Medium; **Type:** Animal
 **Senses:** low-light vision
-**Ability Scores:** **Str**16,**Dex**12,**Con**15,**Int**2,**Wis**13,**Cha** 6
+**Ability Scores:** **Str** 16, **Dex** 12, **Con** 15, **Int** 2, **Wis** 13, **Cha** 6
 **Starting Origin Talents**
 
 - Aptitude sphere (Scent x2)
@@ -1613,7 +1613,7 @@ A character who gains an Improved Familiar through a feat, talent, or class feat
 
 **Tiny Dog Familiar**
 **Size:** Tiny
-**Ability Scores:** **Str**7,**Dex**15,**Con**14,**Int**2,**Wis**13,**Cha** 6
+**Ability Scores:** **Str** 7, **Dex** 15, **Con** 14, **Int** 2, **Wis** 13, **Cha** 6
 **Starting Origin Talents**
 
 - Aptitude sphere (Keen Senses, Scent x2)

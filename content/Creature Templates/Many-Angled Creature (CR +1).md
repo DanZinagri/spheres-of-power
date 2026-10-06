@@ -42,4 +42,4 @@ Some creatures exist outside the laws of reality, their very being is a defiance
 | 11-15 | 2d6 | Nauseated |
 | 16+ | 3d6 | Stunned |
 
-**Abilities:** Increase the base creature as follows:**Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase the base creature as follows: **Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs).

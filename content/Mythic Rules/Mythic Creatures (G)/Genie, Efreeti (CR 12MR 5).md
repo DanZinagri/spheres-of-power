@@ -13,21 +13,21 @@ This muscular giant has crimson skin, smoldering eyes, and small black horns. Sm
 XP 19,200
 Pathfinder Roleplaying Game Bestiary
 LE Large outsider (extraplanar, fire, mythic)
-**Init**+11MF;**Senses** darkvision 60 ft., detect magic, eyes of fireMA; Perception +18
+**Init** +11MF; **Senses** darkvision 60 ft., detect magic, eyes of fireMA; Perception +18
 
 #### Defense
 
-**AC**25,**touch**13,**flat-footed** 21 (+3 Dex, +1 dodge, +12 natural, –1 size)
+**AC** 25, **touch** 13, **flat-footed** 21 (+3 Dex, +1 dodge, +12 natural, –1 size)
 **hp** 160 (13d10+89)
-**Fort**+10,**Ref**+11,**Will** +10
-**Defensive Abilities**DR 10/epic;**Immune** fire
+**Fort** +10, **Ref** +11, **Will** +10
+**Defensive Abilities** DR 10/epic; **Immune** fire
 **Weaknesses** vulnerable to cold
 
 #### Offense
 
 **Speed** 20 ft., fly 40 ft. (perfect)
 **Melee** 2 slams +20 (1d8+8 plus 1d6 fire) or +1 flaming burst falchion +21/+16 (2d6+13/18–20 plus 1d6 fire)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** change size, conflagrationMA, ember cloudMA, flaming falchionMA, heat (1d6 fire), mythic power (5/day, surge +1d8), mythic spell-like abilitiesMA
 
 **Spell-Like Abilities** (CL 15th, concentration +17)
@@ -38,8 +38,8 @@ At Will—blistering invective (DC 15), plane shift (willing targets to elementa
 
 #### Statistics
 
-**Str**27,**Dex**17,**Con**18,**Int**12,**Wis**14,**Cha** 15
-**Base Atk**+13;**CMB**+22;**CMD** 36
+**Str** 27, **Dex** 17, **Con** 18, **Int** 12, **Wis** 14, **Cha** 15
+**Base Atk** +13; **CMB** +22; **CMD** 36
 **Feats** Blind-FightMF, Combat Casting, Combat Reflexes, Deceitful, Dodge, Extra Mythic PowerMF, Great Fortitude, Improved InitiativeB, MF, Quicken Spell-Like Ability (scorching ray)
 **Skills** Bluff +22, Craft (any one) +14, Disguise +13, Fly +13, Intimidate +18 (+26 vs. non-mythic creatures), Perception +18, Sense Motive +18, Spellcraft +14, Stealth +11
 **Languages** Auran, Aquan, Common, Ignan, Terran; telepathy 100 ft.

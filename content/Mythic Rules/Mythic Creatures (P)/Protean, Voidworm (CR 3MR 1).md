@@ -13,20 +13,20 @@ This tiny, iridescent serpent slithers through empty space, the air around it di
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 CN Tiny outsider (chaotic, extraplanar, mythic, protean, shapechanger)
-**Init**+3;**Senses** blindsense 30 ft., darkvision 30 ft., detect law; Perception +8
+**Init** +3; **Senses** blindsense 30 ft., darkvision 30 ft., detect law; Perception +8
 
 #### Defense
 
-**AC**16,**touch**15,**flat-footed** 13 (+3 Dex, +1 natural, +2 size)
+**AC** 16, **touch** 15, **flat-footed** 13 (+3 Dex, +1 natural, +2 size)
 **hp** 26 (3d10+10); fast healing 2
-**Fort**+1,**Ref**+6,**Will** +2
-**Defensive Abilities**amorphous anatomy, freedom of movement;**Immune**acid;**Resist** electricity 10, sonic 10
+**Fort** +1, **Ref** +6, **Will** +2
+**Defensive Abilities** amorphous anatomy, freedom of movement; **Immune** acid; **Resist** electricity 10, sonic 10
 
 #### Offense
 
 **Speed** 20 ft., fly 50 ft. (perfect)
 **Melee** bite +8 (1d3+3), tail slap +3 (1d3+3 plus confusion)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Spell-Like Abilities** (CL 6th; concentration +7)
 Constant—detect law
@@ -36,8 +36,8 @@ At will—dancing lights, ghost sound (DC 11), prestidigitation
 
 #### Statistics
 
-**Str**7,**Dex**17,**Con**10,**Int**8,**Wis**8,**Cha** 13
-**Base Atk**+3;**CMB**+4;**CMD** 12 (can’t be tripped)
+**Str** 7, **Dex** 17, **Con** 10, **Int** 8, **Wis** 8, **Cha** 13
+**Base Atk** +3; **CMB** +4; **CMD** 12 (can’t be tripped)
 **Feats** Skill Focus (Perception), Weapon FinesseMF
 **Skills** Acrobatics +9 (+5 jump), Bluff +7, Escape Artist +7, Fly +19, Knowledge (arcana) +5, Perception +8, Stealth +15
 **Languages** Common, Protean

@@ -13,14 +13,14 @@ This humanoid creature has long, sharp teeth, and its pallid flesh is stretched 
 XP 600
 Pathfinder Roleplaying Game Bestiary
 CE Medium undead (mythic)
-**Init**+2;**Senses** darkvision 60 ft.; Perception +7
+**Init** +2; **Senses** darkvision 60 ft.; Perception +7
 **Aura** paralyticMA (DC 15, 30 ft.)
 
 #### Defense
 
-**AC**15,**touch**12,**flat-footed** 13 (+2 Dex, +3 natural)
+**AC** 15, **touch** 12, **flat-footed** 13 (+2 Dex, +3 natural)
 **hp** 21 (2d8+12)
-**Fort**+2,**Ref**+2,**Will** +5
+**Fort** +2, **Ref** +2, **Will** +5
 **Defensive Abilities** channel resistance +2
 
 #### Offense
@@ -31,8 +31,8 @@ CE Medium undead (mythic)
 
 #### Statistics
 
-**Str**13,**Dex**15,**Con**—,**Int**13,**Wis**14,**Cha** 14
-**Base Atk**+1;**CMB**+2;**CMD** 14
+**Str** 13, **Dex** 15, **Con** —, **Int** 13, **Wis** 14, **Cha** 14
+**Base Atk** +1; **CMB** +2; **CMD** 14
 **Feats** Extra Mythic PowerMF, Weapon Finesse
 **Skills** Acrobatics +4, Climb +6, Perception +7, Stealth +7, Swim +3
 **Languages** Common
@@ -45,7 +45,7 @@ CE Medium undead (mythic)
 
 #### Special Abilities
 
-**Disease (Su)**Ghoul Fever: Bite—injury;**save**Fort DC 13;**onset**1 day;**frequency**1/day;**effect**1d3 Con and 1d3 Dex damage;**cure** 2 consecutive saves.
+**Disease (Su)** Ghoul Fever: Bite—injury; **save** Fort DC 13; **onset** 1 day; **frequency** 1/day; **effect** 1d3 Con and 1d3 Dex damage; **cure** 2 consecutive saves.
 
 **Murderous Expertise (Ex)** A mythic ghoul can expend one use of mythic power to deliver a coup de grace attack against a helpless creature as a standard action that does not provoke an attack of opportunity.
 

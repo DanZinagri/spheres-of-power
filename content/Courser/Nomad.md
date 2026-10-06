@@ -30,7 +30,7 @@ The nomad gains the following unique courser ventures.
 
 #### Cooperative Harry [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 The nomad gains the Collaborative Understanding Study talent as a bonus talent. As a breakthrough that only the nomad's allies can use, they can spend 2 notions as a swift action whenever they damage the subject of their theory to apply one of the nomad's harrying assault options to the damaged creature; they can instead spend 3 notions to use this as a free action.
 

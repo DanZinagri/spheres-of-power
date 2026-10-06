@@ -13,25 +13,25 @@ This vaguely humanoid creature is about the size of a cat but looks more like a 
 XP 600
 Pathfinder Roleplaying Game Bestiary
 Any alignment (same as creator) Tiny construct
-**Init**+2;**Senses** darkvision 60 ft., low-light vision; Perception +3
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; Perception +3
 
 #### Defense
 
-**AC**15,**touch**14,**flat-footed** 13 (+2 Dex, +1 natural, +2 size)
+**AC** 15, **touch** 14, **flat-footed** 13 (+2 Dex, +1 natural, +2 size)
 **hp** 21 (2d10+10)
-**Fort**+0,**Ref**+4,**Will** +1
+**Fort** +0, **Ref** +4, **Will** +1
 **Defensive Abilities** construct traits, evasionMA
 
 #### Offense
 
 **Speed** 20 ft., fly 50 ft. (good)
 **Melee** 1 bite +3 (1d4–1 plus poison)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 #### Statistics
 
-**Str**8,**Dex**15,**Con**—,**Int**10,**Wis**12,**Cha** 7
-**Base Atk**+2;**CMB**+2;**CMD** 11
+**Str** 8, **Dex** 15, **Con** —, **Int** 10, **Wis** 12, **Cha** 7
+**Base Atk** +2; **CMB** +2; **CMD** 11
 **Feats** Lightning ReflexesMF
 **Skills** Fly +10, Perception +3, Stealth +12
 **Languages** Common (cannot speak); telepathic link
@@ -47,7 +47,7 @@ Any alignment (same as creator) Tiny construct
 
 **Evasion (Ex)** A mythic homunculus gains the evasion ability. In addition, it can expend one use of its mythic power as a swift or immediate action to gain improved evasion for 1 minute.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 13;**frequency**1/minute for 60 minutes;**effect**sleep for 1 minute;**cure** 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (Ex)** Bite—injury; **save** Fort DC 13; **frequency** 1/minute for 60 minutes; **effect** sleep for 1 minute; **cure** 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 
 **Spell Storer (Su)** A spellcaster with the mythic Improved Familiar feat can create a mythic homunculus and bind it as a familiar. If this is done, the mythic homunculus’ master can store one or more spells which he can cast within the homunculus. This functions similarly to imbue with spell ability, but you can imbue a total number of spell levels equal to your mythic tier, though the level of the stored spell(s) cannot exceed one-third your mythic tier (minimum 1st). Its master can store spells of any school or spellcasting class. The mythic homunculus can use the stored spells in several ways:
 
@@ -67,7 +67,7 @@ The person whose blood is used to form a homunculus’s body becomes its master;
 
 #### Mythic Homonculus
 
-**CL**7th;**Price** 2,050 gp
+**CL** 7th; **Price** 2,050 gp
 
 **Construction Requirements**
 Craft Construct, Mythic Crafter, arcane eye, mirror image, mending; Skill Craft (leather) or Craft (sculptures) DC 12; **Cost** 1,050 gp.

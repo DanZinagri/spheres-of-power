@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (J)]]"
 XP 2,400
 Pathfinder Roleplaying Game Bestiary
 N Large ooze (mythic)
-**Init**–5;**Senses** blindsight 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 60 ft.; Perception –5
 
 #### Defense
 
-**AC**6,**touch**4,**flat-footed** 6 (–5 Dex, +2 natural, –1 size)
+**AC** 6, **touch** 4, **flat-footed** 6 (–5 Dex, +2 natural, –1 size)
 **hp** 85 (6d8+58)
-**Fort**+9,**Ref**–3,**Will** –3
-**Defensive Abilities**split (piercing, slashing, and electricity, 10 hp); DR 5/epic;**Immune** electricity, mind-affecting effects, slashing and piercing damage, ooze traits
+**Fort** +9, **Ref** –3, **Will** –3
+**Defensive Abilities** split (piercing, slashing, and electricity, 10 hp); DR 5/epic; **Immune** electricity, mind-affecting effects, slashing and piercing damage, ooze traits
 
 #### Offense
 
 **Speed** 10 ft., climb 10 ft.
 **Melee** slam +5 (2d4+3 plus 1d4 acid, grab, and primordial poison)
-**Space**10 ft.;**Reach** 5 ft. (10 ft. with toxic tendril)
+**Space** 10 ft.; **Reach** 5 ft. (10 ft. with toxic tendril)
 **Special Attacks** constrict (2d4+3 plus 1d4 acid), flesh leachingMA, mythic power (4/day, surge 1d6), toxic tendrilMA (+5 melee touch, 1d4 acid plus poison)
 
 #### Statistics
 
-**Str**14,**Dex**1,**Con**24,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+4;**CMB**+7 (+11 grapple);**CMD** 12 (can’t be tripped)
+**Str** 14, **Dex** 1, **Con** 24, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +4; **CMB** +7 (+11 grapple); **CMD** 12 (can’t be tripped)
 **Feats** Extra Mythic Power
 **Skills** Climb +10
 **SQ** noxious fumesMA
@@ -45,4 +45,4 @@ N Large ooze (mythic)
 
 **Toxic Tendril (Ex)** As a standard action, a mythic ochre jelly can extrude a tendril with 10-foot reach and use it to make a melee touch attack. This attack deals acid damage but no slam damage, and in addition delivers a dose of the jelly’s poison. If a mythic ochre jelly begins its turn grappling a target, it can attack that target with its toxic tendril as a swift action.
 
-*Poison* - contact; **save**Fort DC 20;**frequency**1/ round for 6 rounds;**effect**sickened 1 minute and 1d3 Con;**cure** 2 consecutive saves. The save DC is Constitution-based.
+*Poison* - contact; **save** Fort DC 20; **frequency** 1/ round for 6 rounds; **effect** sickened 1 minute and 1d3 Con; **cure** 2 consecutive saves. The save DC is Constitution-based.

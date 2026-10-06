@@ -13,20 +13,20 @@ This eerie horse-like creature’s skin is an inky blackness. Fire spurts from i
 XP 2,400
 Pathfinder Roleplaying Game Bestiary
 NE Large outsider (evil, extraplanar, mythic)
-**Init**+8MF;**Senses** darkvision 60 ft.; Perception +10
+**Init** +8MF; **Senses** darkvision 60 ft.; Perception +10
 
 #### Defense
 
-**AC**21,**touch**11,**flat-footed** 19 (+2 Dex, +10 natural, –1 size)
+**AC** 21, **touch** 11, **flat-footed** 19 (+2 Dex, +10 natural, –1 size)
 **hp** 77 (6d10+44)
-**Fort**+9,**Ref**+7,**Will** +3
+**Fort** +9, **Ref** +7, **Will** +3
 **Defensive Abilities** DR 5/epic
 
 #### Offense
 
 **Speed** 40 ft., fly 90 ft. (good)
 **Melee** bite +9 (1d4+4), 2 hooves +7 (1d6+2 plus 1d4 fire)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** death’s rideMA, dream smokeMA, mythic power (2/ day, surge 1d6), smoke, trampleMA (1d6+6 plus 2d4 fire, DC 17)
 
 **Spell-Like Abilities** (CL 6th; concentration +7)
@@ -34,8 +34,8 @@ NE Large outsider (evil, extraplanar, mythic)
 
 #### Statistics
 
-**Str**18,**Dex**15,**Con**18,**Int**13,**Wis**13,**Cha** 12
-**Base Atk**+6;**CMB**+11;**CMD** 23 (27 vs. trip)
+**Str** 18, **Dex** 15, **Con** 18, **Int** 13, **Wis** 13, **Cha** 12
+**Base Atk** +6; **CMB** +11; **CMD** 23 (27 vs. trip)
 **Feats** Improved InitiativeMF, Multiattack, Run
 **Skills** Fly +13, Intimidate +10, Knowledge (planes) +10, Perception +10, Sense Motive +10, Stealth +7, Survival +10
 **Languages** Abyssal, Infernal

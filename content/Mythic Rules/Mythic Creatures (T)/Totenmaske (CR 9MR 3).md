@@ -10,14 +10,14 @@ parent: "[[Mythic Creatures (T)]]"
 **Totenmaske, Mythic (CR 9/MR 3)**
 XP 6,400
 NE Medium undead (mythic, shapechanger)
-**Init**+13/-7MF, dual initiativeMA;**Senses** darkvision 60 ft.; Perception +15
+**Init** +13/-7MF, dual initiativeMA; **Senses** darkvision 60 ft.; Perception +15
 
 #### Defense
 
-**AC**23,**touch**16,**flat-footed** 17 (+6 Dex, +7 natural)
+**AC** 23, **touch** 16, **flat-footed** 17 (+6 Dex, +7 natural)
 **hp** 125 (10d8+80)
-**Fort**+8,**Ref**+9,**Will** +9
-**Defensive Abilities**DR 5/epic;**Immune**undead traits;**Resist** cold 20
+**Fort** +8, **Ref** +9, **Will** +9
+**Defensive Abilities** DR 5/epic; **Immune** undead traits; **Resist** cold 20
 
 #### Offense
 
@@ -27,8 +27,8 @@ NE Medium undead (mythic, shapechanger)
 
 #### Statistics
 
-**Str**18,**Dex**23,**Con**—,**Int**16,**Wis**15,**Cha** 21
-**Base Atk**+7;**CMB**+11;**CMD** 27
+**Str** 18, **Dex** 23, **Con** —, **Int** 16, **Wis** 15, **Cha** 21
+**Base Atk** +7; **CMB** +11; **CMD** 27
 **Feats** Ability Focus (Charisma drain), Combat ExpertiseMF, Combat Reflexes, Improved InitiativeMF, Weapon Finesse
 **Skills** Acrobatics +16 (+24 jump), Bluff +15, Diplomacy +15, Disguise +18, Perception +15, Sense Motive +15, Stealth +19
 **Languages** Abyssal, Celestial, Common, Infernal

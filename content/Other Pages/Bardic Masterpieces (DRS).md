@@ -9,7 +9,7 @@ updated: 2025-04-02
 
 Bardic masterpieces are special uses of the bardic performance ability, initially introduced in *Ultimate Magic*. Only bards or skalds can learn a bardic masterpiece (a skald can learn “sagas”, which function nearly identically) and must meet the associated cost to learn it. Each bardic masterpiece has an effect, use, and action required. Bardic masterpieces are supernatural unless otherwise stated and an unwilling creature may attempt a Will save against the effects of a masterpiece (DC equal to 10 + 1/2 the bard’s level + the bard’s Charisma modifier).
 
-**Bardic Masterpieces and Spheres of Power**: Bards, skalds, and other classes with access to bardic masterpieces can exchange a magic talent granted by their class levels for a bardic masterpiece or skald saga as though sacrificing a spell known. Determine the effective spell level of a magic talent exchanged this way by dividing the character’s caster level by 2, and round down.
+**Bardic Masterpieces and Spheres of Power:** Bards, skalds, and other classes with access to bardic masterpieces can exchange a magic talent granted by their class levels for a bardic masterpiece or skald saga as though sacrificing a spell known. Determine the effective spell level of a magic talent exchanged this way by dividing the character’s caster level by 2, and round down.
 
 A character with spherecasting may use their casting ability modifier instead of their Charisma modifier when determining the save DC and other effects of masterpieces.
 
@@ -19,13 +19,13 @@ A character with spherecasting may use their casting ability modifier instead of
 
 **Author’s Note:** If using Perform (strings), this bardic masterpiece should be referred to as the Shadow Whisper Sonata. The sonata is played with instruments, and the cantata is sung.
 
-**Prerequisites**: Perform (sing) or Perform (strings) 3 ranks.
-**Cost**: Feat or 1st-level bard spell known.
-**Effect**: This bardic masterpiece functions as a Dark sphere *gloom* with the evocative darkness option and intense emotions augment; use the bard’s class level as their caster level for this *gloom*. This *gloom* lasts for as long as the bard continues to maintain this masterpiece, +1 round per 2 bard levels after the bard ceases performing. Abilities that extend the duration of a bardic performance, such as Lingering Performance, affect this masterpiece.
+**Prerequisites:** Perform (sing) or Perform (strings) 3 ranks.
+**Cost:** Feat or 1st-level bard spell known.
+**Effect:** This bardic masterpiece functions as a Dark sphere *gloom* with the evocative darkness option and intense emotions augment; use the bard’s class level as their caster level for this *gloom*. This *gloom* lasts for as long as the bard continues to maintain this masterpiece, +1 round per 2 bard levels after the bard ceases performing. Abilities that extend the duration of a bardic performance, such as Lingering Performance, affect this masterpiece.
 
 While maintaining this masterpiece, the bard may spend a move action to adjust the *gloom*’s light level, reselect the chosen emotion, or move the *gloom* up to 30 feet.
 
-**Use**: 1 round of bardic performance per round.
+**Use:** 1 round of bardic performance per round.
 
-**Action**: 1 standard action.
+**Action:** 1 standard action.
 

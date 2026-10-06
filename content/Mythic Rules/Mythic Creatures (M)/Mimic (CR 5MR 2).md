@@ -13,14 +13,14 @@ What appeared to be a chest filled with treasure comes to life as it grows long,
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 N Medium aberration (mythic, shapechanger)
-**Init**+7/–13, dual initiativeMA;**Senses** darkvision 60 ft.; Perception +11
+**Init** +7/–13, dual initiativeMA; **Senses** darkvision 60 ft.; Perception +11
 
 #### Defense
 
-**AC**18,**touch**11,**flat-footed** 17 (+1 Dex, +7 natural)
+**AC** 18, **touch** 11, **flat-footed** 17 (+1 Dex, +7 natural)
 **hp** 68 (7d8+37)
-**Fort**+5,**Ref**+5,**Will** +6
-**Defensive Abilities**DR 5/epic;**Immune** acid
+**Fort** +5, **Ref** +5, **Will** +6
+**Defensive Abilities** DR 5/epic; **Immune** acid
 
 #### Offense
 
@@ -30,10 +30,10 @@ N Medium aberration (mythic, shapechanger)
 
 #### Statistics
 
-**Str**21,**Dex**12,**Con**17,**Int**10,**Wis**13,**Cha** 10
-**Base Atk**+5;**CMB**+10;**CMD** 21 (can’t be tripped)
+**Str** 21, **Dex** 12, **Con** 17, **Int** 10, **Wis** 13, **Cha** 10
+**Base Atk** +5; **CMB** +10; **CMD** 21 (can’t be tripped)
 **Feats** Improved InitiativeMF, Lightning Reflexes, Skill Focus (Perception), Weapon Focus (slam)
-**Skills**Climb +15, Disguise +10 (+30 when mimicking objects), Knowledge (dungeoneering) +10, Perception +14;**Racial Modifiers** +20 Disguise when mimicking objects
+**Skills** Climb +15, Disguise +10 (+30 when mimicking objects), Knowledge (dungeoneering) +10, Perception +14; **Racial Modifiers** +20 Disguise when mimicking objects
 **Languages** Common
 **SQ** mimic object
 

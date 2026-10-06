@@ -158,7 +158,7 @@ This net is made from a fine mesh of linked chains. This modification may be add
 
 #### Scabbard, Oiler
 
-**Price**20 gp;**Weight** +1 lb.
+**Price** 20 gp; **Weight** +1 lb.
 
 This scabbard modification consists of a refillable bladder large enough to hold the contents of a single weapon blanche, potion, or oil and grooves for distributing the bladder’s contents over the surface of the stored weapon. The weapon’s wielder may empty the contents of the bladder onto the weapon as a swift action, thus applying the potion, oil, or other magical or alchemical fluid designed to be applied to a weapon. Filling the bladder requires a full-round action that provokes an attack of opportunity.
 

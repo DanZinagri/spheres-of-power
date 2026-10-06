@@ -13,21 +13,21 @@ This winged fiend’s horned head and fanged visage present the perfection of th
 XP 1,638,400
 Pathfinder Roleplaying Game Bestiary
 CE Large outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**+21/+1MF, dual initiativeMA;**Senses** darkvision 60 ft., fiery hunterMA, low-light vision, true seeing; Perception +38
+**Init** +21/+1MF, dual initiativeMA; **Senses** darkvision 60 ft., fiery hunterMA, low-light vision, true seeing; Perception +38
 **Aura** shadow and flame (DC 34), unholy aura (DC 27)
 
 #### Defense
 
-**AC**46,**touch**20,**flat-footed** 39 (+4 deflection, +7 Dex, +26 natural, –1 size)
+**AC** 46, **touch** 20, **flat-footed** 39 (+4 deflection, +7 Dex, +26 natural, –1 size)
 **hp** 490 (20d10+380); fast healing 5
-**Fort**+30,**Ref**+17,**Will** +25
-**Defensive Abilities**block attacksMA, fortification (50%)MA; DR 15/cold iron and epic and good;**Immune**fire, electricity, poison;**Resist**acid 10, cold 10;**SR** 36
+**Fort** +30, **Ref** +17, **Will** +25
+**Defensive Abilities** block attacksMA, fortification (50%)MA; DR 15/cold iron and epic and good; **Immune** fire, electricity, poison; **Resist** acid 10, cold 10; **SR** 36
 
 #### Offense
 
 **Speed** 40 ft., fly 90 ft. (good)
 **Melee+**1 vorpal unholy longsword +36/+31/+26/+21 (2d6+15/19–20 plus 1d6 bleed and 2d6 unholy), +1 vorpal flaming whip +29/+24/+19/+14 (1d4+8 plus 1d6 bleed and 1d6 fire and entangle) or 2 slams +33 (1d10+14 plus 1d6 fire)
-**Space**10 ft.;**Reach** 10 ft. (20 ft. with whip)
+**Space** 10 ft.; **Reach** 10 ft. (20 ft. with whip)
 **Special Attacks** conflagrating roarMA (DC 34), dragging lashMA, dread oppressorMA (DC 29), feral savagery (full attack)MA, mythic power (10/day, surge 1d12)
 
 **Spell-Like Abilities** (CL 20th; concentration +29)
@@ -38,10 +38,10 @@ At will—dominate monster (DC 28), greater dispel magic, greater teleport (self
 
 #### Statistics
 
-**Str**39,**Dex**25,**Con**38,**Int**26,**Wis**24,**Cha** 29
-**Base Atk**+20;**CMB**+35;**CMD** 56
+**Str** 39, **Dex** 25, **Con** 38, **Int** 26, **Wis** 24, **Cha** 29
+**Base Atk** +20; **CMB** +35; **CMD** 56
 **Feats** CleaveMF, Combat ReflexesMF, Greater Two-Weapon Fighting, Improved InitiativeMF, Improved Two-Weapon Fighting, Iron Will, Power AttackMF, Quicken Spell-Like Ability (telekinesis), Two-Weapon Fighting, Weapon Focus (longsword)MF
-**Skills**Acrobatics +27, Bluff +32, Diplomacy +32, Fly +32, Intimidate +32, Knowledge (arcana) +18, Knowledge (history) +28, Knowledge (nobility) +28, Knowledge (planes) +31, Knowledge (religion) +28, Perception +38, Sense Motive +30, Spellcraft +18, Stealth +26, Use Magic Device +32;**Racial Modifiers** +8 Perception
+**Skills** Acrobatics +27, Bluff +32, Diplomacy +32, Fly +32, Intimidate +32, Knowledge (arcana) +18, Knowledge (history) +28, Knowledge (nobility) +28, Knowledge (planes) +31, Knowledge (religion) +28, Perception +38, Sense Motive +30, Spellcraft +18, Stealth +26, Use Magic Device +32; **Racial Modifiers** +8 Perception
 **Languages** Abyssal, Aklo, Auran, Celestial, Draconic, Ignan, Infernal, Terran; telepathy 100 ft.
 **SQ** death throesMA (DC 33), incinerateMA, shadow and flameMA (DC 34), vorpal strike, whip mastery
 

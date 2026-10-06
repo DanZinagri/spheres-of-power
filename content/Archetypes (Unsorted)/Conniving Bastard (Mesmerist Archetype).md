@@ -11,13 +11,13 @@ His mind is his first weapon. He looks deeply into others, tricking them, influe
 
 This archetype requires [[Sphere Mesmerist|sphere mesmerist]] or [[Champion Mesmerist (Champion Archetype)|champion mesmerist]]. The mass charmer class feature may be replaced as if it were mental potency, just as rule minds can be replaced as the class feature of the same name.
 
-### Painful Strike
+## Painful Strike
 
 If a conniving bastard can catch an opponent when he is unable to defend himself effectively, he can use his mental abilities to enhance his combat abilities. Whenever the conniving bastard hits an enemy within 30 feet with a weapon attack against a creature that is denied its Dexterity bonus, he may apply the effects of his painful stare to the attack. The target does not need to be under the effect of the conniving bastard’s hypnotic stare, and this does not count against the usage limit of the conniving bastard’s painful stare. The attack can not trigger a second application of the painful stare ability.
 
 This replaces touch treatment and alters painful stare.
 
-### Mental Advantage
+## Mental Advantage
 
 At 5th level, whenever an enemy fails a Will save versus one of the conniving bastard’s sphere abilities, it becomes unable to perceive him effectively for a short time. It may still attack, but is unable to defend itself effectively. Until the end of his next turn, that enemy is denied its Dexterity bonus against his attacks.
 

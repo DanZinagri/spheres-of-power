@@ -17,7 +17,7 @@ When you first gain the Vocation sphere, choose one Vocation talent of your choi
 
 #### Specialty Talents [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Some talents have the (specialty) tag. When you gain a (specialty) talent, you choose one of the listed specialty skills—you unlock skill leverage with the skill and gain ranks in the skill equal to your total Hit Dice, plus an additional rank whenever you gain a permanent Hit Die (generally when you gain a level).
 
@@ -47,7 +47,7 @@ Additionally, the bonus granted to Artistry, Craft, and Profession skills for be
 
 #### Crowd Pleaser [plan] [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 When gathering a crowd (new skill use), you can do so as a plan. Additionally, you can increase the size of your crowd to 1d4 x your check result, instead of 1d3, increasing by one die size for every 5 ranks you possess in the used Perform skill you possess (1d4, 1d6, 1d8, 1d10, 1d12). Lastly, a crowd gathered lingers for up to 8 hours, although they must still remain engaged (although interruptions of 5 minutes every 30 minutes is generally acceptable).
 
@@ -73,7 +73,7 @@ If you are using the Downtime rules (Pathfinder Roleplaying Game: Ultimate Campa
 
 #### Influential Management [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Note:** This talent requires you to be running the Downtime rules (*Pathfinder Roleplaying Game: Ultimate Campaign*) to be taken.
 
@@ -83,7 +83,7 @@ When a room you own becomes broken, you can repair it for half the normal cost (
 
 #### Nifty Repurposing [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Whenever you use a tool that grants a bonus to an ability check or skill check (excluding artisan’s tools), the bonus that it grants increases by +2, +1 per 6 character levels you possess.
 
@@ -91,7 +91,7 @@ You can spend 1 hour with a kit that has limited uses (such as a disguise kit or
 
 #### Risk Management [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Note:** This talent requires you to be running the Downtime or Kingdom Building rules (*Pathfinder Roleplaying Game: Ultimate Campaign*) to be taken.
 
@@ -101,7 +101,7 @@ For example, your Inn suffers from the Bad Weather event, and you fail the Survi
 
 In the case of downtime, this only affects businesses or organizations you own, and can only be done once per week. In the case of a kingdom turn, you must have a leadership role within a kingdom to benefit from this talent.
 
-**Associated Feats**: Fortunate Manager and Fortunate Ruler (*Quests and Campaigns*).
+**Associated Feats:** Fortunate Manager and Fortunate Ruler (*Quests and Campaigns*).
 
 #### Skill Acuity
 
@@ -123,7 +123,7 @@ You may select this talent multiple times, each time selecting two new skills.
 
 #### Skill Temerity [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can use any ability score of your choice in place of the normal ability score used to determine the DC of skill checks made against you by non-allied creatures, as long as you demonstrate the ability score used to resist such an attempt—if such a DC involves two ability scores, you only replace one of your choice. This includes skill DCs determined by a skill modifier (such as a feint attempt) and even other statistics such as CMD when relevant (such as against Acrobatics checks).
 
@@ -143,7 +143,7 @@ You may select this talent multiple times, each time selecting an additional ski
 
 #### Specialized Worker [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Note:** This talent requires you to be running the Downtime rules (*Pathfinder Roleplaying Game: Ultimate Campaign*) to be taken.
 
@@ -155,7 +155,7 @@ Additionally, you can purchase the chosen type of capital at 75% of its normal c
 
 You can take this talent multiple times. Each time you do, choose another type of capital.
 
-**Associated Feats**: Focused Overseer and Focused Worker (*Quests and Campaigns*), Secret Capital (*Andoran, Birthplace of Freedom*).
+**Associated Feats:** Focused Overseer and Focused Worker (*Quests and Campaigns*), Secret Capital (*Andoran, Birthplace of Freedom*).
 
 #### Teacher [utility]
 
@@ -205,7 +205,7 @@ You can take this talent multiple times—each time you do, choose another speci
 
 #### Adept Assistant (specialty) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Specialty Skills:** Profession (courtesan, librarian, shepherd)
 
@@ -229,7 +229,7 @@ You can take this talent multiple times—each time you do, choose another speci
 
 #### Adept Botanist (specialty) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Specialty Skills:** Profession (herbalist, midwife, miller).
 
@@ -263,7 +263,7 @@ You gain an ability depending on the chosen specialty skill:
 
 You can take this talent multiple times—each time you do, choose another specialty skill.
 
-**Associated Feats**: Cannon Master (*Inner Sea Combat*), Siege Commander and Siege Engineer (*Ultimate Combat*) (Profession (siege engineer) option).
+**Associated Feats:** Cannon Master (*Inner Sea Combat*), Siege Commander and Siege Engineer (*Ultimate Combat*) (Profession (siege engineer) option).
 
 #### Adept Culinarian (specialty)
 
@@ -322,7 +322,7 @@ You can take this talent multiple times—each time you do, choose another speci
 
 #### Adept Laborer (specialty) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Specialty Skills:** Profession (any).
 
@@ -332,7 +332,7 @@ You also no longer become staggered due to nonlethal damage, and you recover non
 
 #### Adept Socialite (specialty) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Specialty Skills:** Profession (courtesan, innkeeper, gambler).
 
@@ -368,7 +368,7 @@ You can take this talent multiple times—each time you do, choose another speci
 
 #### Expert Adventurer [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Adventurer), Profession (adventurer, monster slayer, or soldier) 5 ranks.
 
@@ -382,7 +382,7 @@ If you successfully identify such a creature, this bonus increases by +1, +1 per
 
 #### Expert Builder [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Builder (specialty)), Profession (architect, dungeoneer, engineer, or siege engineer) 5 ranks.
 
@@ -402,7 +402,7 @@ You cannot gain any more assessment points for a building for 1 day after situat
 
 #### Expert Culinarian [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Culinarian (specialty)), Profession (baker, brewer, or cook) 5 ranks.
 
@@ -416,7 +416,7 @@ You gain an ability depending on the specialty skill(s) chosen with the Adept Cu
 
 #### Expert Trader [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Trader (specialty)), Profession (driver, merchant, pilot, porter, or sailor) 5 ranks.
 
@@ -430,7 +430,7 @@ You gain an ability depending on the specialty skill(s) chosen with the Adept Tr
 
 #### Intermediate Daredevil (specialty) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Profession (driver, gambler, pilot, sailor, or soldier) 5 ranks.
 
@@ -450,7 +450,7 @@ You can take this talent multiple times—each time you do, choose another speci
 
 #### Intermediate Industrialist (specialty) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Profession (architect, blacksmith, or porter) 5 ranks.
 
@@ -530,7 +530,7 @@ You gain Acrobatics, Escape Artist, Sleight of Hand, and Stealth as class skills
 
 #### Dazzler (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Bluff, Fly, Knowledge (nobility), and Stealth as class skills. You can use your Charisma modifier in place of your Dexterity modifier when attempting Fly or Stealth checks, chosen when you take this talent.
 
@@ -610,7 +610,7 @@ You gain Appraise, Bluff, Sense Motive, and Sleight of Hand as class skills. You
 
 #### Geometer (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Knowledge (arcana), Knowledge (engineering), Knowledge (geography), and Use Magic Device as class skills. You can use your Charisma modifier in place of your Intelligence modifier when attempting two of Knowledge (arcana), Knowledge (engineering), and Knowledge (geography), chosen when you take this talent.
 
@@ -624,7 +624,7 @@ You gain Heal, Knowledge (geography), Knowledge (nature), and Survival as class 
 
 #### Guard (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Diplomacy, Intimidate, Knowledge (local), and Sense Motive as class skills. Whenever a creature attempts an Appraise, Heal or Sense Motive skill check against you, or a skill use that would cause a condition or change your degree of alertness, you can choose to have the DC of the check be equal to 10 + your Intimidate bonus.
 
@@ -646,7 +646,7 @@ You gain Bluff, Diplomacy, Linguistics, and Sense Motive as class skills. You ma
 
 #### Intuiter (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Appraise, Knowledge (arcana), Linguistics, and Spellcraft as class skills. You can use your Wisdom modifier in place of your Intelligence modifier when attempting one of the listed skills, chosen when you take this talent.
 
@@ -658,7 +658,7 @@ You gain Handle Animal, Intimidate, Knowledge (nobility), and Ride as class skil
 
 #### Loner (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Bluff, Heal, Intimidate, and Survival as class skills. You can use your Constitution modifier instead of the normal ability modifier when attempting one of the skills gained as class skills with this talent, chosen when you take this talent.
 
@@ -682,7 +682,7 @@ You gain Appraise, Escape Artist, Knowledge (dungeoneering), and Knowledge (engi
 
 #### Minstrel (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Acrobatics, Diplomacy, Knowledge (local), and Sleight of Hand as class skills. You can use any Perform skill to accompany a Diplomacy, Intimidate, or Perform check (although the DC is 20 in these cases), and you can accompany all creatures within 20 feet of you at once (although you must choose what kind of check to benefit when doing so). Additionally, whenever you earn income using Perform, you reroll any 1s or 2s when determining how much you earn.
 
@@ -720,7 +720,7 @@ You gain Knowledge (planes), Knowledge (religion), Sense Motive, and Spellcraft 
 
 #### Quicksilver (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Acrobatics, Appraise, Escape Artist, and Sense Motive as class skills. You can use your Intelligence or Wisdom modifier in place of your Dexterity modifier when attempting Acrobatics or Escape Artist checks, chosen when you take this talent.
 
@@ -732,7 +732,7 @@ You gain Fly, Handle Animal, Ride, and Swim as class skills. All of your movemen
 
 #### Reliquarian (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Knowledge (planes), Knowledge (religion), Sleight of Hand, and Stealth as class skills. You can use your Intelligence or Wisdom modifier in place of your Dexterity modifier when attempting Stealth or Sleight of Hand checks, chosen when you take this talent.
 
@@ -772,7 +772,7 @@ You gain Acrobatics, Fly, Knowledge (geography), and Survival as class skills. Y
 
 #### Sleuth (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Appraise, Linguistics, Sense Motive, and Survival as class skills. You can use your Intelligence modifier in place of your Wisdom modifier when attempting Survival checks.
 
@@ -790,7 +790,7 @@ You gain Disguise, Escape Artist, Sense Motive, and Stealth as class skills. Whe
 
 #### Squire (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Appraise, Handle Animal, Heal, and Knowledge (nobility) as class skills. You can determine the hardness and hit points of an item even when untrained in the appropriate Craft skill.
 
@@ -800,7 +800,7 @@ You gain Diplomacy, Knowledge (history), Knowledge (local), and Knowledge (nobil
 
 #### Strongarm (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Diplomacy, Escape Artist, Fly, and Ride as class skills. You can use the better of your Constitution or Strength modifier instead of the normal ability modifier when attempting one of the listed skill checks (chosen when you take this talent).
 
@@ -830,7 +830,7 @@ You gain Intimidate, Knowledge (religion), Knowledge (planes), and Survival as c
 
 #### Veterinarian (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Handle Animal, Heal, Knowledge (local), and Ride as class skills. You can use your Intelligence in place of the normal ability score modifier when attempting a Handle Animal or Ride check, chosen when you take this talent.
 
@@ -842,7 +842,7 @@ You gain Disguise, Knowledge (history), Knowledge (nobility), and Linguistics as
 
 #### Wildsoul (trade) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You gain Diplomacy, Knowledge (local), Knowledge (nature), and Survival as class skills. You can use your Charisma modifier in place of the normal ability score modifier used when attempting a Knowledge (nature) or Survival check, chosen when you take this talent.
 
@@ -870,7 +870,7 @@ If you are using the Downtime rules (Pathfinder Roleplaying Game: Ultimate Campa
 
 #### Expert Administrator [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Administrator (specialty)), Profession (barrister, clerk, scribe, or librarian) 5 ranks.
 
@@ -891,7 +891,7 @@ Additionally, you can spend 1 use of skill leverage as a standard action and tou
 
 #### Expert Gatherer [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Gatherer (specialty)), Profession (farmer, gardener, miner, tanner, woodcutter) 5 ranks.
 
@@ -905,11 +905,11 @@ You also gain an ability depending on the specialty skill(s) chosen with the Ade
 
 **Leather Expertise—Profession (tanner):** This talent’s insight bonus applies to animals, magical beasts, monstrous humanoids, or humanoids with natural armor or wearing hide or leather armor. Additionally, you increase the armor bonus of any hide or leather armor you wear by +1, +1 per 10 associated ranks.
 
-**Associated Feat**: Focused Plant Expertise (*Monster Hunter's Handbook*) (Profession (farmer, gardener, or woodcutter) option).
+**Associated Feat:** Focused Plant Expertise (*Monster Hunter's Handbook*) (Profession (farmer, gardener, or woodcutter) option).
 
 #### Expert Handler [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Handler (specialty)), Profession (farmer, shepherd, or stablemaster) 5 ranks.
 
@@ -921,11 +921,11 @@ Also, you can use wild empathy as a full-round action—this can be used to calm
 
 If this is used against an animal companion or a creature under magical compulsion, the DC increases by +5. An animal companion applies the bonus to Will saves from the devotion ability to this DC, and attacking the creature’s master also causes them to become hostile once more.
 
-**Associated Feats**: Greater Wild Empathy (*Ultimate Magic*) and Pacify Animal (*Monster Hunter’s Handbook*).
+**Associated Feats:** Greater Wild Empathy (*Ultimate Magic*) and Pacify Animal (*Monster Hunter’s Handbook*).
 
 #### Expert Hunter [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Hunter (specialty)), Profession (butcher, fisherman, or trapper) 5 ranks.
 You gain an ability depending on the specialty skill(s) chosen with the Adept Hunter talent:
@@ -942,7 +942,7 @@ Additionally, the distance of the tremorsense granted by angler’s acumen incre
 
 #### Expert Socialite [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Socialite (specialty)), Profession (courtesan, innkeeper, or gambler) 5 ranks.
 
@@ -960,7 +960,7 @@ This is a charm effect.
 
 #### Master Administrator [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Administrator (specialty), Expert Administrator), Profession (barrister, clerk, scribe, or librarian) 10 ranks
 
@@ -974,7 +974,7 @@ Lastly, whenever you restore a damaged text using this talent, it becomes an ins
 
 #### Master Adventurer [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Adventurer (specialty), Expert Adventurer), Profession (adventurer, monster slayer, or soldier) 10 ranks.
 
@@ -988,7 +988,7 @@ You gain an ability depending on the specialty skill(s) chosen with the Adept Ad
 
 #### Master Builder [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Builder (specialty), Expert Builder), Profession (architect, dungeoneer, engineer, or siege engineer) 10 ranks.
 
@@ -1015,7 +1015,7 @@ The building is otherwise furnished however you wish (within the same limitation
 
 #### Master Culinarian [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Culinarian (specialty), Expert Culinarian), Profession (baker, brewer, or cook) 10 ranks.
 You gain an ability depending on the specialty skill(s) chosen with the Adept Culinarian talent:
@@ -1026,7 +1026,7 @@ You gain an ability depending on the specialty skill(s) chosen with the Adept Cu
 
 #### Master Gatherer [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Gatherer (specialty), Expert Gatherer), Profession (farmer, gardener, miner, tanner, woodcutter) 10 ranks.
 
@@ -1046,7 +1046,7 @@ You are also immune to difficult terrain caused by plant-life, and can cause suc
 
 #### Master Handler [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Handler (specialty), Expert Handler), Profession (farmer, shepherd, or stable master) 10 ranks.
 
@@ -1056,7 +1056,7 @@ Additionally, you can use wild empathy as a standard action, and can communicate
 
 #### Master Hunter [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Hunter (specialty), Expert Hunter), Profession (butcher, fisherman, or trapper) 10 ranks.
 
@@ -1074,7 +1074,7 @@ Additionally, the trap increases its damage die by +1 die step (for example, a b
 
 #### Master Socialite [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Vocation sphere (Adept Socialite (specialty), Expert Socialite), Profession (courtesan, innkeeper, or gambler) 10 ranks.
 
@@ -1090,25 +1090,25 @@ Additionally, an ingratiated business will ignore and/or pardon majorly-impactfu
 
 #### Master Trader [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Prerequisites**: Vocation sphere (Adept Trader), Profession (driver, pilot, porter, sailor, or merchant) 10 ranks.
+**Prerequisites:** Vocation sphere (Adept Trader), Profession (driver, pilot, porter, sailor, or merchant) 10 ranks.
 
 **Specialty Skills:** Profession (driver, pilot, porter, sailor, or merchant)
 
 You gain an ability depending on the specialty skill(s) chosen with the Adept Trader talent:
 
-**Driving Ace—Profession (driver, pilot, or sailor)**: You can attempt any driving action one step faster (standard > move > swift). Also, when you are driving a vehicle, you grant it a +2 competence bonus to its AC and Reflex saves, +1 per 5 associated ranks beyond 10 you possess.
+**Driving Ace—Profession (driver, pilot, or sailor):** You can attempt any driving action one step faster (standard > move > swift). Also, when you are driving a vehicle, you grant it a +2 competence bonus to its AC and Reflex saves, +1 per 5 associated ranks beyond 10 you possess.
 
-**Reserved Inventory—Profession (merchant)**: You have no limit to your 90% discount. You also gain an extra 25% to the gp value gained when selling treasure (normally 50% of the item’s original value); you cannot gain more gp this way than the treasure’s original value. At 15 associated ranks, this additional gp value increases by +25%.
+**Reserved Inventory—Profession (merchant):** You have no limit to your 90% discount. You also gain an extra 25% to the gp value gained when selling treasure (normally 50% of the item’s original value); you cannot gain more gp this way than the treasure’s original value. At 15 associated ranks, this additional gp value increases by +25%.
 
-**Strong Back—Profession (porter)**: Your encumbrance no longer causes certain class features or abilities (such as the monk’s AC bonus class feature) to cease functioning. Also, you reduce any nonlethal damage you suffer by 2, +1 per 4 associated ranks. Lastly, whenever you become fatigued or exhausted, you can spend 1 use of skill leverage as a free action to ignore the condition for 1 hour.
+**Strong Back—Profession (porter):** Your encumbrance no longer causes certain class features or abilities (such as the monk’s AC bonus class feature) to cease functioning. Also, you reduce any nonlethal damage you suffer by 2, +1 per 4 associated ranks. Lastly, whenever you become fatigued or exhausted, you can spend 1 use of skill leverage as a free action to ignore the condition for 1 hour.
 
 #### Skill Constancy [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Prerequisites**: 5 ranks in the chosen skills.
+**Prerequisites:** 5 ranks in the chosen skills.
 
 Whenever you roll a skill check that you have unlocked skill leverage in and you roll a 9 or lower, you can spend 1 use of skill leverage to instead treat the roll as if you had taken 10 on the check.
 

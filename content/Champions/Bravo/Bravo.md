@@ -533,7 +533,7 @@ At 20th level, whenever the bravo would start his turn and apply a scrutiny die 
 
 ### Showmanship [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Who doesn’t love a good show?
 
@@ -573,21 +573,21 @@ At 20th level, whenever the bravo avoids an attack using his cunning celerity ab
 
 #### Prowess [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 The bravo gains a dodge pool that contains a number of dodge points equal to 1 + 1/2 his bravo level. At 7th level, he gains +1 dodge point to his dodge pool. This functions as cunning celerity for all purposes, except that he can use dodge points in the following ways:
 
-- **Cunning Celerity**: The bravo can expend an attack of opportunity and spend 1 dodge point to gain a 20% miss chance against an attack he is aware of. If the bravo had moved at least 10 feet on his turn, the bravo can spend 2 dodge points when using this ability to instead gain a 50% miss chance. If the attack still hits, he recovers half as many dodge points spent (or if he only spent 1, he gains 1 temporary dodge point for 1 round).
-- **Dynamic Dodge**: At 7th level, the bravo can expend his martial focus as a free action to gain a miss chance until the start of his next turn as though he was using his cunning celerity class feature, although he spends double the dodge points when doing so (for example, he could gain a 50% miss chance by spending 4 dodge points).
-- **Capricious**: At 13th level, whenever the bravo attempts a Reflex saving throw, he can spend up to 4 dodge points, gaining a cumulative 25% chance to avoid the effect entirely.
+- **Cunning Celerity:** The bravo can expend an attack of opportunity and spend 1 dodge point to gain a 20% miss chance against an attack he is aware of. If the bravo had moved at least 10 feet on his turn, the bravo can spend 2 dodge points when using this ability to instead gain a 50% miss chance. If the attack still hits, he recovers half as many dodge points spent (or if he only spent 1, he gains 1 temporary dodge point for 1 round).
+- **Dynamic Dodge:** At 7th level, the bravo can expend his martial focus as a free action to gain a miss chance until the start of his next turn as though he was using his cunning celerity class feature, although he spends double the dodge points when doing so (for example, he could gain a 50% miss chance by spending 4 dodge points).
+- **Capricious:** At 13th level, whenever the bravo attempts a Reflex saving throw, he can spend up to 4 dodge points, gaining a cumulative 25% chance to avoid the effect entirely.
 - **Unfettered Alacrity:** The bravo only loses 1 dodge point for every 2 effects that the bravo ignores per round—if the bravo is affected by only 1 effect in a round, he still loses 1 dodge point.
-- **Skirt Death**: The bravo must have at least 1 dodge point to spend from his dodge pool for this ability to trigger.
+- **Skirt Death:** The bravo must have at least 1 dodge point to spend from his dodge pool for this ability to trigger.
 
 For the purposes of any other class features that rely on dodge pool, 1 dodge point is equivalent to 20% to 25% dodge pool—anything less than this should grant 1 temporary dodge point that lasts for 1 round. For example, his unfettered alacrity class feature is active for as long as he has 6 dodge points within his dodge pool.
 
-**Special—Tracer Archetype**: If the bravo takes the tracer archetype, his dodge pool instead has a number of dodge points equal to 2 + 1 per bravo level.
+**Special—Tracer Archetype:** If the bravo takes the tracer archetype, his dodge pool instead has a number of dodge points equal to 2 + 1 per bravo level.
 
-**Special—Dreadnought Archetype**: If the bravo takes the dreadnought archetype, it functions normally except that he gains endurance points.
+**Special—Dreadnought Archetype:** If the bravo takes the dreadnought archetype, it functions normally except that he gains endurance points.
 
 This alters cunning celerity, dynamic dodge, capricious, quicksilver celerity, unfettered alacrity, and skirt death.
 
@@ -599,14 +599,14 @@ The following feats are particularly appropriate or useful for bravos.
 
 #### Awesome Stunt (Combat) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Incredible stunt class feature.
 **Benefit:** Whenever you use an incredible stunt, its effects last for an additional round. Additionally, you are not fatigued (or have the condition worsen) when the incredible stunt ends.
 
 #### Cunning Accuracy (Combat) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Cunning celerity class feature.
 **Benefit:** Whenever an attack you attempt is subject to a miss chance, you can expend an attack of opportunity and reduce your dodge pool in increments of 5% to reduce the miss chance affecting the attack by the same amount. If the miss chance still causes the attack to miss, your dodge pool replenishes half the expended amount from the attack (or the entire amount if you possess an ability that would normally allow you to replenish the entire amount from an attack).

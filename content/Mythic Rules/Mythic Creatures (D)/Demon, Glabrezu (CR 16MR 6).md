@@ -13,20 +13,20 @@ Four arms grace the torso of this towering monstrosity. The monster’s eyes shi
 XP 76,800
 Pathfinder Roleplaying Game Bestiary
 CE Huge outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**+0/-20, dual initiativeMA;**Senses** darkvision 60 ft., true seeing; Perception +26
+**Init** +0/-20, dual initiativeMA; **Senses** darkvision 60 ft., true seeing; Perception +26
 
 #### Defense
 
-**AC**34,**touch**8,**flat-footed** 34 (+26 natural, –2 size)
+**AC** 34, **touch** 8, **flat-footed** 34 (+26 natural, –2 size)
 **hp** 258 (12d10+192)
-**Fort**+19,**Ref**+4,**Will** +11
-**Defensive Abilities**DR 10/epic and good;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 27
+**Fort** +19, **Ref** +4, **Will** +11
+**Defensive Abilities** DR 10/epic and good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 27
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** 2 vorpal pincers +21 (2d8+11/19–20/x3 plus 1d6 bleed), 2 claws +21 (1d6+11), bite +21 (1d8+11)
-**Space**15 ft.;**Reach** 15 ft. (20 ft. with pincers)
+**Space** 15 ft.; **Reach** 15 ft. (20 ft. with pincers)
 **Special Attacks** ensnaring eyeMA (DC 24), mythic spell-like abilitiesMA, mythic power (6/day, surge 1d8), rend (2 pincers, 2d8+16), traitor’s whisperMA (DC 24), vorpal pincersMMA
 
 **Spell-Like Abilities** (CL 14th; concentration +20)
@@ -38,10 +38,10 @@ At will—chaos hammer (DC 20), confusion (DC 20), detect thoughts (DC 18), disp
 
 #### Statistics
 
-**Str**33,**Dex**11,**Con**33,**Int**16,**Wis**16,**Cha** 22
-**Base Atk**+12;**CMB**+25;**CMD** 35
+**Str** 33, **Dex** 11, **Con** 33, **Int** 16, **Wis** 16, **Cha** 22
+**Base Atk** +12; **CMB** +25; **CMD** 35
 **Feats** CleaveMF, Great Cleave, Improved Critical (pincers)MF, PersuasiveMF, Power AttackMF, Quicken Spell-like Ability (dispel magic)
-**Skills**Bluff +29, Diplomacy +25, Intimidate +25, Knowledge (history) +18, Knowledge (local) +18, Perception +26, Sense Motive +18, Stealth +7, Use Magic Device +18;**Racial Modifiers** +8 Bluff, +8 Perception
+**Skills** Bluff +29, Diplomacy +25, Intimidate +25, Knowledge (history) +18, Knowledge (local) +18, Perception +26, Sense Motive +18, Stealth +7, Use Magic Device +18; **Racial Modifiers** +8 Bluff, +8 Perception
 **Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.
 **SQ** master of secretsMA
 

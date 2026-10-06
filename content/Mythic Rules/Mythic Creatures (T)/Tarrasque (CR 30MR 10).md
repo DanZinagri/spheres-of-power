@@ -13,30 +13,30 @@ This immense reptilian beast towers over the surroundings like a dinosaur, all t
 XP 9,830,400
 Pathfinder Roleplaying Game Bestiary (plus expanded abilities in campaign setting bestiary)
 N Colossal magical beast (mythic)
-**Init**+2;**Senses** low-light vision, scent, vengeful eyeMA; Perception +40
+**Init** +2; **Senses** low-light vision, scent, vengeful eyeMA; Perception +40
 **Aura** frightful presence (300 ft., DC 27)
 
 #### Defense
 
-**AC**52,**touch**4,**flat-footed** 50 (+2 Dex, +48 natural, –8 size)
+**AC** 52, **touch** 4, **flat-footed** 50 (+2 Dex, +48 natural, –8 size)
 **hp** 715 (30d10+550); regeneration 40
-**Fort**+31,**Ref**+19,**Will** +12
-**Defensive Abilities**immortal spawnMA, impenetrable hideMA; DR 20/—;**Immune**ability damage, acid, aging effects, bleed, death effects, disease, energy drain, fear, fire, mind-affecting effects, negative energy, paralysis, permanent wounds, petrification, poison, polymorph;**SR** 46
+**Fort** +31, **Ref** +19, **Will** +12
+**Defensive Abilities** immortal spawnMA, impenetrable hideMA; DR 20/—; **Immune** ability damage, acid, aging effects, bleed, death effects, disease, energy drain, fear, fire, mind-affecting effects, negative energy, paralysis, permanent wounds, petrification, poison, polymorph; **SR** 46
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** bite +44 (8d6+22/19–20 plus grab), 2 claws +44 (3d6+22/19–20), 2 gores +44 (2d8+22), tail slap +39 (6d6+11)
 **Ranged** 6 spines +24 (4d8+22/x3)
-**Space**40 ft.;**Reach** 40 ft. (80 ft. with tail slap)
+**Space** 40 ft.; **Reach** 40 ft. (80 ft. with tail slap)
 **Special Attacks** aerial assaultMA, fast swallowMA, fragmentation spinesMA, mythic power (10/day, surge +1d12), pounceMA, rush, spell sunderMA, spines, swallow whole (6d6+33 plus 6d6 acid damage, AC 34, 71 hp), thunderous trampleMA (8d6+33, DC 47)
 
 #### Statistics
 
-**Str**55,**Dex**14,**Con**38,**Int**3,**Wis**15,**Cha** 14
-**Base Atk**+30;**CMB**+62 (+66 grapple, +66 sunder);**CMD** 74
+**Str** 55, **Dex** 14, **Con** 38, **Int** 3, **Wis** 15, **Cha** 14
+**Base Atk** +30; **CMB** +62 (+66 grapple, +66 sunder); **CMD** 74
 **Feats** Bleeding Critical, Blind-Fight, CleaveMF, Combat ReflexesMF, Critical FocusMF, Great Cleave, Greater Sunder, Improved Critical (bite), Improved Critical (claws), Improved Sunder, Inescapable GraspMA, Power AttackMA, Staggering Critical, Stunning Critical, Stunning AssaultAPG, Toughness
-**Skills**Acrobatics +6 (+54 when jumping), Climb +26, Perception +40, Swim +26;**Racial Modifiers** +48 Acrobatics when jumping, +8 Perception
+**Skills** Acrobatics +6 (+54 when jumping), Climb +26, Perception +40, Swim +26; **Racial Modifiers** +48 Acrobatics when jumping, +8 Perception
 **Languages** Aklo (can’t speak)
 **SQ** carapace, hibernation, incredible hulkMA, powerful leaper, unstoppable force
 

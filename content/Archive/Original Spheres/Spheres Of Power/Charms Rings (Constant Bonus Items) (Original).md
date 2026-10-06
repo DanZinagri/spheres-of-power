@@ -17,19 +17,19 @@ Charms were previously described as Rings in Spheres of Power, but have since be
 
 #### Academy Uniform
 
-**Price**10 gp;**Slot**body;**CL** 1st;
-**Weight**—;**Aura**faint Creation and Divination;**Scaling** bauble
+**Price** 10 gp; **Slot** body; **CL** 1st;
+**Weight** —; **Aura** faint Creation and Divination; **Scaling** bauble
 This woolen scholar’s outfit is true blue in color, and shifts in length and shape depending upon who attempts to don it so to best accommodate the creature’s anatomy. For example, a fenghaung may find it transform into a vest of sorts that will not impede its flight, whereas if an awakened serpent were to don the outfit, it would become a form fitting tube. As the outfit becomes attuned to the wearer over the passage of time, the outfit begins to make slight alterations such as changing the robe’s color, texture, etc. to better match the form and disposition of its owner.
 **5th Level – 525 gp:** While wearing the outfit, the creature gains a +2 competence bonus to all Spellcraft checks, and a +1 competence bonus to any End of Week Test (and any other appropriate event at GM’s discretion).
 **9th Level – 2,300 gp:** While wearing the outfit, the creature also gains a +2 competence bonus to all Knowledge checks and may make any Knowledge check untrained.
 **13th Level – 7,000 gp:** The competence bonus to Spellcraft checks increases to +4, and the competence bonus to any End of Week Test increase to +3.
-**17th Level – 20,500 gp:** The competence bonus to Knowledge checks increases to +6, and the wearer may take 10 on any Knowledge check even if stress and distractions would normally prevent the creature from doing so.**Construction Requirements**
-**Cost**10,250 gp;**Feats**Forge Charm;**Spells** Creation sphere, Divination sphere, Discern Individual
+**17th Level – 20,500 gp:** The competence bonus to Knowledge checks increases to +6, and the wearer may take 10 on any Knowledge check even if stress and distractions would normally prevent the creature from doing so. **Construction Requirements**
+**Cost** 10,250 gp; **Feats** Forge Charm; **Spells** Creation sphere, Divination sphere, Discern Individual
 
 #### Alabaster Gloves
 
-**Aura**strong Life;**Caster Level** 12th
-**Slot**Hands;**Price**40,000 gp;**Weight** —
+**Aura** strong Life; **Caster Level** 12th
+**Slot** Hands; **Price** 40,000 gp; **Weight** —
 **Description**
 These white gloves channel and focus positive energy along strands of gold weaved into them. Whenever the wearer uses a sphere ability or supernatural ability that manipulates positive energy and either heals hit points or does damage, the amount of hit points or damage is increased by +10.
 **Construction Requirements**
@@ -37,7 +37,7 @@ Forge Ring, Life sphere; Cost 20,000 gp
 
 #### Amulet of Emotional Weather
 
-**Aura**Moderate weather;**CL**10th;**Slot**neck;**Price**45,000 gp;**Weight** 1 lbs.
+**Aura** Moderate weather; **CL** 10th; **Slot** neck; **Price** 45,000 gp; **Weight** 1 lbs.
 **Description**
 The amulet of emotional weather is a beautiful piece crafted from clear diamonds of multiple sizes. However, depending on the wearer’s mood, they can change color to blue (sad), red (angry), green (happy), or yellow (scared). The amulet of emotional weather is considered a cursed item, and cannot be taken off except with the aid of magic such as the Break Enchantment talent from the Life sphere.
 
@@ -53,8 +53,8 @@ Forge Ring, Weather sphere, Severe Weather; Cost 22,500 gp
 
 #### Clear Gem
 
-**Aura**moderate Life;**Caster Level** 8th
-**Slot**Slotless;**Price**75,000 gp;**Weight** —
+**Aura** moderate Life; **Caster Level** 8th
+**Slot** Slotless; **Price** 75,000 gp; **Weight** —
 **Description**
 This small, oval gem fits easily into a pocket, and refracts light as if it were a diamond. Whenever a positive energy healing effect occurs within 60 ft. of the bearer, they benefit as if they had been targeted by an identical effect. The original targets of the healing effect still benefit. It has been suggested by some that powerful undead may create a corresponding opaque gem which would give the same effect for negative energy.
 **Construction Requirements**
@@ -62,8 +62,8 @@ Forge Ring, Life sphere; Cost 37,500 gp
 
 #### Collar of Impressment
 
-**Aura**faint Mind;**Caster Level** 5th
-**Slot**neck;**Price**20,000 gp;**Weight** 1 lb.
+**Aura** faint Mind; **Caster Level** 5th
+**Slot** neck; **Price** 20,000 gp; **Weight** 1 lb.
 
 **Description**
 This collar was originally a mistake, an attempt at boosting morale that resulted in cursed mind-control. Those without scruples found uses for such a thing, and the collar of impressment was copied and refined into its current form.
@@ -77,16 +77,16 @@ Forge Ring, Mind sphere and Command or Leadership sphere and Draft; **Cost** 10,
 
 #### Constellation Belt
 
-**Aura**Faint transmutation;**CL** 5th
-**Slot**Belt;**Price**2,000 gp;**Weight** 1 lb
+**Aura** Faint transmutation; **CL** 5th
+**Slot** Belt; **Price** 2,000 gp; **Weight** 1 lb
 When you wear this belt, you store inanimate objects in the air, where they slowly orbit around you until you pick them up again. When you drop an item you are holding you may choose to store it in orbit around you. You may retrieve an object in orbit as a free action. You may only store one object of Small size or smaller in orbit, or a number of smaller objects whose total size category is Small or less. If you possess the Orbit talent the capacity of your Orbit increases by one small sized object.
 **Construction Requirements**
 Forge Ring, Telekinesis Sphere, Orbit
 
 #### Dimlight Veil
 
-**Aura**faint evocation;**CL** 5th
-**Slot**head;**Price**1,500;**Weight** -
+**Aura** faint evocation; **CL** 5th
+**Slot** head; **Price** 1,500; **Weight** -
 **Description**
 A dimlight veil cuts the glare of light and the sun, shielding the eyes. The wearer is immune the dazzled condition, and suffer no ill-effects from light sensitivity. In addition, the wearer gains a +2 bonus on saving throws against light effects.
 **Construction Requirements**
@@ -94,8 +94,8 @@ Forge Ring, Light Sphere; Cost 750 gp
 
 #### Forger’s Gloves
 
-**Aura**moderate Creation;**CL** 10th
-**Slot**hands;**Price**75,000 gp;**Weight** -
+**Aura** moderate Creation; **CL** 10th
+**Slot** hands; **Price** 75,000 gp; **Weight** -
 **Description**
 These leather workman gloves perpetually look dirty, no matter how well they’re cleaned. While worn, these gloves provide the wearer with the ability to forge metal with a touch, as the Forge creation talent. The target also gains a +10 competence bonus to all Craft checks made involving metal objects.
 **Construction Requirements**
@@ -103,8 +103,8 @@ Forge Ring, Craft Rod, Creation Sphere; Cost 37,500 gp
 
 #### Gloves of Air Mastery
 
-**Aura**faint Destruction;**CL** 5th;
-**Slot**hands;**Price**4,000 gp (lesser), 16,000 (greater);**Weight** —
+**Aura** faint Destruction; **CL** 5th;
+**Slot** hands; **Price** 4,000 gp (lesser), 16,000 (greater); **Weight** —
 **Description**
 The wearer is treated as having the Improved Bullrush (lesser) or the Improved Bull Rush and Greater Bull Rush (greater) feats for the purposes of using the air blast talent. Both gloves must be worn for the magic to be effective. The feat’s bonus to CMD applies continuously while the gloves are worn.
 **Construction Requirements**
@@ -112,16 +112,16 @@ Forge Ring, Destruction sphere, Air Blast talent; Cost 2,000 gp (lesser), 8,000 
 
 #### Gloves of Unseen Grip
 
-**Aura**Moderate transmutation;**CL** 8th
-**Slot**Hands;**Price**8,000 gp;**Weight** 1 lb
+**Aura** Moderate transmutation; **CL** 8th
+**Slot** Hands; **Price** 8,000 gp; **Weight** 1 lb
 The wearer of these gloves improves the strength and grip of their telekinesis. Add a +2 bonus on their CMB and CMD checks when they use the Telekinetic Maneuver or Steal talents.
 **Construction Requirements**
 Forge Ring, Telekinesis Sphere, Forceful Telekinesis, Telekinetic Maneuver
 
 #### Intensifying Gloves
 
-**Aura**faint Destruction;**CL** 5th;
-**Slot**hands;**Price**4,000 gp (lesser), 16,000 (greater);**Weight** —
+**Aura** faint Destruction; **CL** 5th;
+**Slot** hands; **Price** 4,000 gp (lesser), 16,000 (greater); **Weight** —
 **Description**
 Each pair of intensifying gloves are attuned to a single energy type, either acid, cold, fire, electric, negative energy, or sonic damage. The wearer’s destructive blasts ignore either 5 points (lesser) or 10 points (greater) of energy resistance to that type. Both gloves must be worn for the magic to be effective.
 **Construction Requirements**
@@ -129,8 +129,8 @@ Forge Ring, Destruction sphere, blast type talent matching the chosen energy typ
 
 #### Ironside Ring
 
-**Aura**moderate Enhancement, Alteration;**CL** 8th
-**Slot**ring;**Price**40,000 gp;**Weight** -
+**Aura** moderate Enhancement, Alteration; **CL** 8th
+**Slot** ring; **Price** 40,000 gp; **Weight** -
 **Description**
 This ring is carved from cold iron, and gives its wearer a sense of unbreakable stability. The wearer of the ring gains a +4 enhancement bonus to their Constitution, a +2 natural armor bonus, and a +4 enhancement bonus to their CMD.
 **Construction Requirements**
@@ -138,8 +138,8 @@ Forge Ring, Enhancement Sphere, Alteration Sphere, Cost 20,000 gp
 
 #### Messenger Whistle
 
-**Aura**faint Mind;**Caster Level** 3rd
-**Slot**neck;**Price**5,000 gp;**Weight** -
+**Aura** faint Mind; **Caster Level** 3rd
+**Slot** neck; **Price** 5,000 gp; **Weight** -
 
 **Description**
 This golden whistle is finely crafted and includes a chain for wearing it around one’s neck, but produces no audible note. A creature that possesses the Messengers talent may attune this item by wearing it for 8 hours. Afterwards, any time it is blown as a move action, any messengers serving that creature can perceive it if they are within 1 mile. No information is inherently conveyed, but codes may be established to convey particular orders.
@@ -149,7 +149,7 @@ Forge Ring, Mind sphere and Project Thoughts; **Cost** 2,500 gp
 
 #### Moorland Runner Ghillies [High. HB]
 
-**Price**150 gp;**Slot**feet;**CL**2nd;**Weight**2 lbs.;**Aura**moderate Nature;**Scaling** prize
+**Price** 150 gp; **Slot** feet; **CL** 2nd; **Weight** 2 lbs.; **Aura** moderate Nature; **Scaling** prize
 
 These leather highland dancing shoes allow those wearing them to pass through swamp terrain without leaving a trail, making tracking impossible (though they may leave a trail if they so choose).
 
@@ -158,12 +158,12 @@ These leather highland dancing shoes allow those wearing them to pass through sw
 - **13th Level – 21,000 gp:** The competence bonus increases to +6. In addition, a character wearing the moorland runner ghillies gain a +2 bonus on saving throws against poison and disease.
 - **18th Level – 79,500 gp:** The competence bonus increases to +8. In addition, a character wearing the moorland runner ghillies gain immunity to poison and disease, and are no longer impeded by magical difficult terrain in swamps.
 
-**Cost**39,750 gp;**Feats**Forge Charm;**Spells** Nature sphere, creator must have the favored terrain class feature
+**Cost** 39,750 gp; **Feats** Forge Charm; **Spells** Nature sphere, creator must have the favored terrain class feature
 
 #### Remnant of Courage
 
-**Aura**faint War;**CL** 10;
-**Slot**slotless;**Price**2,250 gp;**Weight** .1 pounds
+**Aura** faint War; **CL** 10;
+**Slot** slotless; **Price** 2,250 gp; **Weight** .1 pounds
 **Description**
 Each remnant is small piece of metal or fabric fastened to the neck, shirt or wrist. Each has its own history, and many pieces are debris from the armor and uniforms of fallen heroes. Each remnant has an associated rally, which the wearer can use on an ally within 30 ft., but not on their self. A single user can not activate more than one remnant in a single 24 hour period, and each remnant can only be used once per 24 hour period.
 **Construction Requirements**
@@ -171,8 +171,8 @@ Forge Ring, War sphere; Cost 1,175 gp
 
 #### Ring of Clarity
 
-**Aura**faint Mind;**CL** 5
-**Slot**ring;**Price**2,500 gp;**Weight** -
+**Aura** faint Mind; **CL** 5
+**Slot** ring; **Price** 2,500 gp; **Weight** -
 **Description**
 This crystal ring is actually somewhat difficult to see. A DC 20 Perception check is required to notice it on someone’s finger. Once per day, it allows the wearer to take 10 on a concentration check, even if they are threatened. When used, the ring turns opaque grey-pink until it is ready to be used again.
 **Construction Requirements**
@@ -180,8 +180,8 @@ Forge Charm; Cost 1,250 gp
 
 #### Ring of Force Armor
 
-**Aura**faint Protection;**CL** 4th
-**Slot**Ring;**Price**6,400 gp;**Weight** -
+**Aura** faint Protection; **CL** 4th
+**Slot** Ring; **Price** 6,400 gp; **Weight** -
 **Description**
 Twice per day, this ring may be activated to create a suit of armor made of force on the wearer. The suit remains for 4 hours per activation. The wearer must, as part of activation of the ring, make a Craft (armor) skill check, DC 10 + AC bonus of the armor (maximum +9). Armor created with this ring functions as standard armor (possessing the same armor check penalty and maximum Dexterity bonus) except that its AC bonus also applies against attacks made by incorporeal creatures. Failing the skill check results in the daily usage being wasted with no effect. Source: The Abjurer's Handbook
 **Construction Requirements**
@@ -189,8 +189,8 @@ Craft Wondrous Item, Protection sphere, Cost 3,200 gp
 
 #### Ring of Potential Realized
 
-**Aura**strong Fate;**CL** 12
-**Slot**ring;**Price**75,000 gp;**Weight** -
+**Aura** strong Fate; **CL** 12
+**Slot** ring; **Price** 75,000 gp; **Weight** -
 **Description**
 This ring looks like a simple piece of common iron until slipped onto the finger. Once there, it transmutes to a beautiful ring of precious metal with rare stones that reflect light in impossible ways. its appearance changing depending on who is wearing it.
 
@@ -202,8 +202,8 @@ Forge Charm; Cost 37,500 gp
 
 #### Ring of Skilled Casting
 
-**Aura**faint Fate;**CL** 8
-**Slot**ring;**Price**30,000 gp;**Weight** -
+**Aura** faint Fate; **CL** 8
+**Slot** ring; **Price** 30,000 gp; **Weight** -
 **Description**
 This heavy brass ring is usually worn on the creature’s middle (or largest) finger. Whenever the wearer casts a spell that uses a metamagic feat, they may reduce the cost of one metamagic feat by 1 spell point (minimum 0). Other metamagic cost-reducing abilities do not stack with this one.
 **Construction Requirements**
@@ -211,16 +211,16 @@ Forge Charm; Cost 15,000 gp
 
 #### Skimmer
 
-**Aura**Moderate transmutation;**CL** 11th
-**Slot**-;**Price**8,000 gp;**Weight** 5 lbs
+**Aura** Moderate transmutation; **CL** 11th
+**Slot** -; **Price** 8,000 gp; **Weight** 5 lbs
 This oval disc is just large enough for a Medium size creature to stand on comfortably, and hovers above the ground when its command word is spoken. While standing on a skimmer you can move at your normal land speed, but may hover up to 5 ft above the ground. You ignore difficult terrain and can also move over liquid surfaces as if they were solid while hovering. In addition, you may make a DC 20 Acrobatics check when you move with a skimmer to improve your move speed by 10 ft. Failure by five or more means you fall off the skimmer and are prone. A skimmer can only support a Medium sized load or smaller - it will not hover when loaded heavier.
 **Construction Requirements**
 Forge Ring, Telekinesis Sphere
 
 #### Targeting Monocle
 
-**Aura**faint Destruction;**CL** 5th;
-**Slot**eyes;**Price**8,000 gp (lesser)**Weight** —
+**Aura** faint Destruction; **CL** 5th;
+**Slot** eyes; **Price** 8,000 gp (lesser) **Weight** —
 **Description**
 This monocle is worn over one eye, magically analyzing and highlighting the weaknesses of the wearer’s enemies. The wearer’s destructive blasts gain the benefit of the keen weapon property.
 **Construction Requirements**
@@ -228,15 +228,15 @@ Forge Ring, Destruction sphere, deadly targeting or improved critical feat; Cost
 
 #### Taskmind
 
-**Aura**Moderate transmutation;**CL** 11th
-**Slot**Headband;**Price**16,000 gp;**Weight** -
+**Aura** Moderate transmutation; **CL** 11th
+**Slot** Headband; **Price** 16,000 gp; **Weight** -
 A taskmind can take many different forms, but generally provides a structure seated around the head that amplifies mental powers and allows the wearer to multitask more effectively. A wearer with the Divided Mind talent gains a +4 bonus to caster level when determining the number of items she can lift at once and the combined size she can simultaneously lift (though this does not increase the maximum sized object you can lift: a taskmind might allow you to lift two medium objects, but not one Large object).
 **Construction Requirements**
 Forge Ring, Telekinesis Sphere, Divided Mind
 
 #### Umbral Mantle
 
-**Price**1,500 gp;**Slot**shoulders;**CL**3rd;**Weight**1/2 lb.;**Aura**moderate Dark;**Scaling** wonder
+**Price** 1,500 gp; **Slot** shoulders; **CL** 3rd; **Weight** 1/2 lb.; **Aura** moderate Dark; **Scaling** wonder
 This silk cloak seems to fade in and out of the light and grants the wearer a +1 resistance bonus to saving throws.
 **5th Level – 3,500 gp:** The wearer may, as a move action, activate the umbral mantle to enshroud himself in darkness, gaining concealment (20% miss chance) for a single round. The wearer may activate the umbral mantle as an immediate action by spending a spell point, in which case the effects last for 1 minute. Creatures capable of seeing in pure darkness (such as from the Clearsight (meld) talent from the Dark sphere, or with the see in darkness ability) are not subject to this miss chance.
 **7th Level – 7,000 gp:** The umbral mantle now grants a +2 resistance bonus to saving throws.
@@ -246,12 +246,12 @@ This silk cloak seems to fade in and out of the light and grants the wearer a +1
 **11th Level – 22,000 gp:** The umbral mantle now grants a +4 resistance bonus to saving throws.
 **12th Level – 32,500 gp:** The umbral mantle now grants a +5 resistance bonus to saving throws. When the umbral mantle is activated, it instead grants total concealment (50% miss chance) for a single round.
 **Construction Requirements**
-**Cost**16,250 gp;**Feats**Forge Charm;**Spells** Dark sphere
+**Cost** 16,250 gp; **Feats** Forge Charm; **Spells** Dark sphere
 
 #### Vest of Shape Stabilization
 
-**Aura**moderate alteration;**CL** 6th
-**Slot**body;**Price**8,000 gp**Weight** 1 lb.
+**Aura** moderate alteration; **CL** 6th
+**Slot** body; **Price** 8,000 gp **Weight** 1 lb.
 **Description**
 Each vest is attuned to one form talent when created. Any shapeshift effect applying that form talent to the wearer lasts an additional two rounds without concentration and gains a +2 bonus to MSD versus dispelling effects.
 **Construction Requirements**
@@ -267,8 +267,8 @@ A tattoo is a slotless, weightless item, but a single creature can possess no mo
 
 #### Dancing Tattoo
 
-**Aura**moderate Evocation;**CL** 6th;
-**Slot**none;**Price**7,000 gp;**Weight** -
+**Aura** moderate Evocation; **CL** 6th;
+**Slot** none; **Price** 7,000 gp; **Weight** -
 **Description**
 Often worn by performers, a dancing tattoo normally takes some sinuous shape like a snake or ribbon, and is often multicolored. As part of making a Perform (act) or Perform (dance) check, you may hypnotise anyone in the primary radius of your light who can also see your performance, causing them to gain the fascinated condition for the duration of the performance. Performing this way takes a full-round action each round it lasts. Affected creatures do nothing but sit quietly and watch your performance, and take a -4 penalty to Perception checks. Each creature affected by this may make a Will save (DC 10 + 1/2 your ranks in perform + Cha modifier) on each of their turns to throw off this effect. Obvious threats and hostile actions automatically breaks the effect. A successful save provides immunity to your dancing tattoo for 24 hours.
 **Construction Requirements**
@@ -276,8 +276,8 @@ Forge Ring, Light sphere, Hypnotic Pattern; Cost 3,500 gp
 
 #### Icon Tattoo
 
-**Aura**moderate Evocation;**CL** 10th;
-**Slot**none;**Price**10,000 gp;**Weight** -
+**Aura** moderate Evocation; **CL** 10th;
+**Slot** none; **Price** 10,000 gp; **Weight** -
 **Description**
 An icon tattoo often takes the form of a holy symbol or religious imagery, with coloration appropriate to the image or deity. This tattoo can be designed to count as a holy symbol and divine focus for characters that require one (such as characters with the Focus Casting drawback). In addition, all allies within the primary radius of your light gain a +1 morale bonus on all saving throws.
 **Construction Requirements**
@@ -285,8 +285,8 @@ Forge Ring, Light sphere, Beacon of Hope; Cost 5,000 gp
 
 #### Inquiry Tattoo
 
-**Aura**faint Evocation;**CL** 5th;
-**Slot**none;**Price**3,000 gp;**Weight** -
+**Aura** faint Evocation; **CL** 5th;
+**Slot** none; **Price** 3,000 gp; **Weight** -
 **Description**
 Inquiry tattoos are most commonly eyes, and stark shades of white and black are frequently used for the light they cast. The light of an inquiry tattoo casts unusual shadows whose movements give clues as to how a creature is feeling and what it is thinking. You gain +4 circumstance bonus on Sense Motive checks against any creature in the primary radius of your light.
 **Construction Requirements**
@@ -294,8 +294,8 @@ Forge Ring, Divination sphere, Light sphere; Cost 1,500 gp
 
 #### Lantern Tattoo
 
-**Aura**faint Evocation;**CL** 1st;
-**Slot**none;**Price**1,500 gp;**Weight** -
+**Aura** faint Evocation; **CL** 1st;
+**Slot** none; **Price** 1,500 gp; **Weight** -
 **Description**
 A lantern tattoo is frequently of celestial objects such as the sun, moon or stars, or sometimes of torches or lighthouses. All shades of yellow and white are normally selected for its coloration and glow. A lantern tattoo grants you greater control over the light it sheds, allowing you to focus it into a cone of up to 40 ft., or a line of up to 80 ft. as a free action instead of shedding light in all directions.
 **Construction Requirements**
@@ -303,8 +303,8 @@ Forge Ring, Light sphere, Beam, Illuminate; Cost 750 gp
 
 #### Sanguine Tattoo
 
-**Aura**moderate Evocation;**CL** 8th;
-**Slot**none;**Price**9,000 gp;**Weight** -
+**Aura** moderate Evocation; **CL** 8th;
+**Slot** none; **Price** 9,000 gp; **Weight** -
 **Description**
 A sanguine tattoo generally depicts scenes of battle and conquest, or of blood and bones; often its light is a shade of red, or sometimes ivory or gray. It grants you a +4 competence bonus to Intimidate checks so long as the tattoo is shedding any amount of light. In addition, you may attempt to demoralize an enemy within the primary radius of your light as a move action.
 **Construction Requirements**
@@ -312,8 +312,8 @@ Forge Ring, Light sphere; Cost 4,500 gp
 
 #### Serene Tattoo
 
-**Aura**moderate Evocation;**CL** 10th;
-**Slot**none;**Price**24,000 gp;**Weight** -
+**Aura** moderate Evocation; **CL** 10th;
+**Slot** none; **Price** 24,000 gp; **Weight** -
 **Description**
 A serene tattoo typically uses imagery of water or nature, favoring soft blues and greens in its coloring. So long as your serene tattoo sheds any amount of light, it grants you a +4 competence bonus to Diplomacy checks. In addition, allies in the primary radius of your light have any fear, confusion, or rage conditions suppressed so long as they remain in the primary radius of your light.
 **Construction Requirements**
@@ -327,8 +327,8 @@ The following items were created by the Wiki or by members of the community usin
 
 #### Aegis Ring [Wiki]
 
-**Aura**faint (+1), moderate (+2/+3), or strong (+4/+5) Protection;**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**ring;**Price**2,000 gp (+1), 8,000gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5);**Weight** -
+**Aura** faint (+1), moderate (+2/+3), or strong (+4/+5) Protection; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** ring; **Price** 2,000 gp (+1), 8,000gp (+2), 18,000 (+3), 32,000 (+4), or 50,000 (+5); **Weight** -
 **Description**
 Extremely popular among adventurers for its protective qualities, this smooth iron ring is decorated with the symbol of a suit of armor on one side and a shield on the other. When worn, an Aegis Ring provides a +1 to +5 deflection bonus to AC.
 **Construction Requirements**
@@ -336,8 +336,8 @@ Forge Ring, Protection Sphere, **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (
 
 #### Belt of Avian Speed +2 [Wiki]
 
-**Aura**weak Enhancement;**CL** 4th
-**Slot**belt;**Price**4,000;**Weight** 2 lbs.
+**Aura** weak Enhancement; **CL** 4th
+**Slot** belt; **Price** 4,000; **Weight** 2 lbs.
 **Description**
 This leather belt is decorated with symbols of swift birds. While worn, it grants a +2 enhancement bonus to Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -345,8 +345,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 2,000 gp
 
 #### Belt of Avian Speed +4 [Wiki]
 
-**Aura**moderate Enhancement;**CL** 8th
-**Slot**belt;**Price**16,000;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th
+**Slot** belt; **Price** 16,000; **Weight** 2 lbs.
 **Description**
 This iron chain belt is decorated with symbols of swift birds. While worn, it grants a +4 enhancement bonus to Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -354,8 +354,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 8,000 gp
 
 #### Belt of Avian Speed +6 [Wiki]
 
-**Aura**strong Enhancement;**CL** 12th
-**Slot**belt;**Price**36,000;**Weight** 2 lbs.
+**Aura** strong Enhancement; **CL** 12th
+**Slot** belt; **Price** 36,000; **Weight** 2 lbs.
 **Description**
 This belt made of woven threads of starmetal is decorated with symbols of swift birds. While worn, it grants a +6 enhancement bonus to Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -363,8 +363,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 18,000 g
 
 #### Belt of Mountains +2 [Wiki]
 
-**Aura**weak Enhancement;**CL** 4th
-**Slot**belt;**Price**4,000;**Weight** 2 lbs.
+**Aura** weak Enhancement; **CL** 4th
+**Slot** belt; **Price** 4,000; **Weight** 2 lbs.
 **Description**
 This leather belt is decorated with symbols of mountains. While worn, it grants a +2 enhancement bonus to Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -372,8 +372,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 2,000 gp
 
 #### Belt of Mountains +4 [Wiki]
 
-**Aura**moderate Enhancement;**CL** 8th
-**Slot**belt;**Price**16,000;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th
+**Slot** belt; **Price** 16,000; **Weight** 2 lbs.
 **Description**
 This iron chain belt is decorated with symbols of city walls. While worn, it grants a +4 enhancement bonus to Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -381,8 +381,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 8,000 gp
 
 #### Belt of Mountains +6 [Wiki]
 
-**Aura**strong Enhancement;**CL** 12th
-**Slot**belt;**Price**36,000;**Weight** 2 lbs.
+**Aura** strong Enhancement; **CL** 12th
+**Slot** belt; **Price** 36,000; **Weight** 2 lbs.
 **Description**
 This belt made of woven threads of starmetal is decorated with symbols of mountains. While worn, it grants a +6 enhancement bonus to Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -390,8 +390,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 18,000 g
 
 #### Belt of Wild Might +2 [Wiki]
 
-**Aura**weak Enhancement;**CL** 4th
-**Slot**belt;**Price**4,000;**Weight** 2 lbs.
+**Aura** weak Enhancement; **CL** 4th
+**Slot** belt; **Price** 4,000; **Weight** 2 lbs.
 **Description**
 This leather belt is decorated with symbols of powerful beasts. While worn, it grants a +2 enhancement bonus to Strength. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -399,8 +399,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 2,000 gp
 
 #### Belt of Wild Might +4 [Wiki]
 
-**Aura**moderate Enhancement;**CL** 8th
-**Slot**belt;**Price**16,000;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th
+**Slot** belt; **Price** 16,000; **Weight** 2 lbs.
 **Description**
 This iron chain belt is decorated with symbols of powerful beasts. While worn, it grants a +4 enhancement bonus to Strength. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -408,8 +408,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 8,000 gp
 
 #### Belt of Wild Might +6 [Wiki]
 
-**Aura**strong Enhancement;**CL** 12th
-**Slot**belt;**Price**36,000;**Weight** 2 lbs.
+**Aura** strong Enhancement; **CL** 12th
+**Slot** belt; **Price** 36,000; **Weight** 2 lbs.
 **Description**
 This belt made of woven threads of starmetal is decorated with symbols of powerful beasts. While worn, it grants a +6 enhancement bonus to Strength. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -417,8 +417,8 @@ Forge Ring, Enhancement Sphere, Physical Enhancement (enhance) **Cost** 18,000 g
 
 #### Cape of Resistance [Wiki]
 
-**Aura**faint Protection (+1), moderate Protection (+2/+3), or strong Protection (+4/+5) ;**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
-**Slot**shoulders;**Price**1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5);**Weight** 1 lb.
+**Aura** faint Protection (+1), moderate Protection (+2/+3), or strong Protection (+4/+5) ; **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), or 15th (+5)
+**Slot** shoulders; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), or 25,000 gp (+5); **Weight** 1 lb.
 **Description**
 This well-made cape offers a +1 to +5 Resistance Bonus to all saving throws, chosen when the cape is woven. While simple in design, their protective qualities make them a favored garment among adventurers.
 **Construction Requirements**
@@ -426,8 +426,8 @@ Forge Ring, Protection Sphere, Resistance (aegis) **Cost** 500 gp (+1), 2,000 gp
 
 #### Energy Resisting Ring, Minor [Wiki]
 
-**Aura**faint Protection;**CL** 1st
-**Slot**ring;**Price**5,000 gp;**Weight** -
+**Aura** faint Protection; **CL** 1st
+**Slot** ring; **Price** 5,000 gp; **Weight** -
 **Description**
 Despite their simplicity, these iron rings are favored by people traveling into dangerous environments or who know they'll be fighting certain types of foes. While worn, this metal ring grants Resist 10 to Fire, Cold, Electricity, Acid, or Sonic damage, with the type of damage it resists chosen when the ring is forged.
 **Construction Requirements**
@@ -435,8 +435,8 @@ Forge Ring, Protection Sphere, Energy Resistance (ward, aegis) **Cost** 2,500 gp
 
 #### Energy Resisting Ring, Moderate [Wiki]
 
-**Aura**moderate Protection;**CL** 10th
-**Slot**ring;**Price**20,000;**Weight** -
+**Aura** moderate Protection; **CL** 10th
+**Slot** ring; **Price** 20,000; **Weight** -
 **Description**
 Somewhat rarer than the Minor Energy Resisting Ring, this decorated iron ring faintly pulses with power. While worn, this ring grants Resist 20 to Fire, Cold, Electricity, Acid, or Sonic damage, with the type of damage it resists chosen when the ring is forged.
 **Construction Requirements**
@@ -444,8 +444,8 @@ Forge Ring, Protection Sphere, Energy Resistance (ward, aegis) **Cost** 10,000 g
 
 #### Energy Resisting Ring, Major [Wiki]
 
-**Aura**strong Protection;**CL** 20th
-**Slot**ring;**Price**45,000;**Weight** -
+**Aura** strong Protection; **CL** 20th
+**Slot** ring; **Price** 45,000; **Weight** -
 **Description**
 These ornate, exquisitely decorated metal rings offer protection from all but the most dangerous spells and environments - and are much rarer than either the minor or moderate versions. While worn, a Major Energy Resisting Ring grants Resist 30 to Fire, Cold, Electricity, Acid, or Sonic damage, with the type of damage it resists chosen when the ring is forged.
 **Construction Requirements**
@@ -453,8 +453,8 @@ Forge Ring, Protection Sphere, Energy Resistance (ward, aegis) **Cost** 22,500 g
 
 #### Headband of Alluring Magnetism +2 [Wiki]
 
-**Aura**weak Enhancement;**CL** 4th
-**Slot**headband;**Price**4,000;**Weight** 2 lbs.
+**Aura** weak Enhancement; **CL** 4th
+**Slot** headband; **Price** 4,000; **Weight** 2 lbs.
 **Description**
 This cloth headband is designed to rest comfortably around the head. While worn, it grants a +2 enhancement bonus to Charisma. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 **Construction Requirements**
@@ -462,8 +462,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 2,000 gp
 
 #### Headband of Alluring Magnetism +4 [Wiki]
 
-**Aura**moderate Enhancement;**CL** 8th
-**Slot**headband;**Price**16,000;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th
+**Slot** headband; **Price** 16,000; **Weight** 2 lbs.
 **Description**
 This silver circlet is exquisitely made. While worn, it grants a +4 enhancement bonus to Charisma. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 **Construction Requirements**
@@ -471,8 +471,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 8,000 gp
 
 #### Headband of Alluring Magnetism +6 [Wiki]
 
-**Aura**strong Enhancement;**CL** 12th
-**Slot**headband;**Price**36,000;**Weight** 2 lbs.
+**Aura** strong Enhancement; **CL** 12th
+**Slot** headband; **Price** 36,000; **Weight** 2 lbs.
 **Description**
 This golden circlet is a work of art in its own right. While worn, it grants a +6 enhancement bonus to Charisma. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -480,8 +480,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 18,000 gp
 
 #### Headband of Genius +2 [Wiki]
 
-**Aura**weak Enhancement;**CL** 4th
-**Slot**headband;**Price**4,000;**Weight** 2 lbs.
+**Aura** weak Enhancement; **CL** 4th
+**Slot** headband; **Price** 4,000; **Weight** 2 lbs.
 **Description**
 This cloth headband is designed to rest comfortably around the head. While worn, it grants a +2 enhancement bonus to Intelligence. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 **Construction Requirements**
@@ -489,8 +489,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 2,000 gp
 
 #### Headband of Genius +4 [Wiki]
 
-**Aura**moderate Enhancement;**CL** 8th
-**Slot**headband;**Price**16,000;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th
+**Slot** headband; **Price** 16,000; **Weight** 2 lbs.
 **Description**
 This silver circlet fits well on any head, seeming to adjust itself to the wearer. While worn, it grants a +4 enhancement bonus to Intelligence. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 **Construction Requirements**
@@ -498,8 +498,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 8,000 gp
 
 #### Headband of Genius +6 [Wiki]
 
-**Aura**strong Enhancement;**CL** 12th
-**Slot**headband;**Price**36,000;**Weight** 2 lbs.
+**Aura** strong Enhancement; **CL** 12th
+**Slot** headband; **Price** 36,000; **Weight** 2 lbs.
 **Description**
 This golden circlet is decorated with gems that help to channel its power. While worn, it grants a +6 enhancement bonus to Intelligence. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -507,8 +507,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 18,000 gp
 
 #### Headband of Sages +2 [Wiki]
 
-**Aura**weak Enhancement;**CL** 4th
-**Slot**headband;**Price**4,000;**Weight** 2 lbs.
+**Aura** weak Enhancement; **CL** 4th
+**Slot** headband; **Price** 4,000; **Weight** 2 lbs.
 **Description**
 This cloth headband is designed to rest comfortably around the head. While worn, it grants a +2 enhancement bonus to Wisdom. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 **Construction Requirements**
@@ -516,8 +516,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 2,000 gp
 
 #### Headband of Sages +4 [Wiki]
 
-**Aura**moderate Enhancement;**CL** 8th
-**Slot**headband;**Price**16,000;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th
+**Slot** headband; **Price** 16,000; **Weight** 2 lbs.
 **Description**
 This cloth headband is woven of finer thread than its lesser version. While worn, it grants a +4 enhancement bonus to Wisdom. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 **Construction Requirements**
@@ -525,8 +525,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 8,000 gp
 
 #### Headband of Sages +6 [Wiki]
 
-**Aura**strong Enhancement;**CL** 12th
-**Slot**headband;**Price**36,000;**Weight** 2 lbs.
+**Aura** strong Enhancement; **CL** 12th
+**Slot** headband; **Price** 36,000; **Weight** 2 lbs.
 **Description**
 This headband is woven with golden threads and rests comfortably on any head. While worn, it grants a +6 enhancement bonus to Wisdom. Treat this as a temporary ability bonus for the first 24 hours the belt is worn.
 **Construction Requirements**
@@ -534,8 +534,8 @@ Forge Ring, Enhancement Sphere, Mental Enhancement (enhance) **Cost** 18,000 gp
 
 #### Talisman of Spell Resistance [Wiki]
 
-**Aura**faint Protection;**CL** 5th
-**Slot**neck;**Price**30,000;**Weight** 2 lbs.
+**Aura** faint Protection; **CL** 5th
+**Slot** neck; **Price** 30,000; **Weight** 2 lbs.
 **Description**
 This talisman features a five-pointed silver star surrounded by a circle of gold. In the center of the star is one of many magic runes. While worn, this talisman gives the wearer Spell Resistance 15. The Talisman of Spell Resistance sheds light as a torch for one round whenever it successfully blocks a spell; the wearer can prevent it from doing so by speaking a command word, and it will not light up through this effect until the command word is spoken again. The user may speak a different command word to cause the talisman to shed (or stop shedding) light as a candle.
 **Construction Requirements**

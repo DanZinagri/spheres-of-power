@@ -29,7 +29,7 @@ This replaces unarmed strikes.
 
 This replaces brawler’s flurry.
 
-**Technical Combination (Ex)**: At 4th level, whenever the mechanized brawler makes an attack action or attack of opportunity using a prosthetic limb (or a weapon attached to their prosthetic arsenal), the target becomes “marked” until the end of their next turn. This mark is applied regardless of whether the attack was successful. Marking a target again removes the prior mark.
+**Technical Combination (Ex):** At 4th level, whenever the mechanized brawler makes an attack action or attack of opportunity using a prosthetic limb (or a weapon attached to their prosthetic arsenal), the target becomes “marked” until the end of their next turn. This mark is applied regardless of whether the attack was successful. Marking a target again removes the prior mark.
 
 The mechanized brawler’s ranged attacks against a marked target do not provoke attacks of opportunity and take no penalty for attacks made for firing into melee.
 

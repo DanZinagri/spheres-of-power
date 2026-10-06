@@ -25,7 +25,7 @@ This ability replaces the 3rd-level infusion and the deliver touch spells abilit
 A hex kineticist also gains the following substance infusion:
 
 > **Hex Synthesis**
-> **Element(s)**universal;**Type**substance infusion;**Level**3;**Burn** 2
+> **Element(s)** universal; **Type** substance infusion; **Level** 3; **Burn** 2
 > **Associated Blast** any
 > **Saving Throw** see text
 >

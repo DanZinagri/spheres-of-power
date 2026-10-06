@@ -13,14 +13,14 @@ This wolverine’s eyes possess the unmistakable glint of intelligence, and its 
 XP 1,200
 Pathfinder Campaign Setting: Lands of the Linnorm Kings
 CN Medium fey (augmented animal)
-**Init**+4;**Senses** darkvision 60 ft., low-light vision, scent; Perception +8
+**Init** +4; **Senses** darkvision 60 ft., low-light vision, scent; Perception +8
 
 #### Defense
 
-**AC**18,**touch**14,**flat-footed** 14 (+4 Dex, +4 natural)
+**AC** 18, **touch** 14, **flat-footed** 14 (+4 Dex, +4 natural)
 **hp** 30 (3d8+17); regeneration 2 (cold iron or fire)
-**Fort**+5,**Ref**+7,**Will** +3
-**Defensive Abilities**healing factorMA; DR 5/cold iron;**SR** 15
+**Fort** +5, **Ref** +7, **Will** +3
+**Defensive Abilities** healing factorMA; DR 5/cold iron; **SR** 15
 
 #### Offense
 
@@ -33,8 +33,8 @@ CN Medium fey (augmented animal)
 
 #### Statistics
 
-**Str**15,**Dex**19,**Con**15,**Int**12,**Wis**14,**Cha** 14
-**Base Atk**+2;**CMB**+4;**CMD** 18 (22 vs. trip)
+**Str** 15, **Dex** 19, **Con** 15, **Int** 12, **Wis** 14, **Cha** 14
+**Base Atk** +2; **CMB** +4; **CMD** 18 (22 vs. trip)
 **Feats** Extra Mythic PowerMF, Skill Focus (Bluff), Toughness
 **Skills** Acrobatics +10, Bluff +12, Climb +16, Knowledge (nature) +7, Perception +8, Sense Motive +8, Stealth +14
 **Languages** Sylvan, Viking

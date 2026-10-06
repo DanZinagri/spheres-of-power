@@ -14,42 +14,42 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Extended Vigilance (Utility Start) [LotS]
+#### Extended Vigilance (Utility Start) [LotS]
 
 You do not gain the scout ability and cannot select talents that rely on the scout ability. You gain one of Identify Structural Hazards, Sense And Resist Scrying, or Track The Scene with this drawback.
 
-## Hidden Eyes
+#### Hidden Eyes
 
 You do not gain the scout ability of the Scout sphere. You cannot take talents which rely on the Scout ability. You must take Active Camouflage as the bonus talent gained from taking this drawback.
 
-## Hunter’s Eye [SA:MD]
+#### Hunter’s Eye [SA:MD]
 
 Your scout ability cannot be used to identify a creature’s weaknesses, though you may still use it to activate any talents that rely on it. You gain Discern Condition with this drawback.
 
 **Incompatible:** Hidden Eyes.
 
-## People Watcher (Utility Start) [LotS]
+#### People Watcher (Utility Start) [LotS]
 
 You do not gain ranks in Stealth from the base sphere and cannot select talents that rely on or improve the Stealth skill. You gain Discern Tells with this drawback.
 
-## Sentry [SA:MD]
+#### Sentry [SA:MD]
 
 You do not gain ranks in Stealth from the base sphere and cannot select talents that rely on or improve the Stealth skill. You gain Somnambulance with this drawback.
 
 **Incompatible:** Hidden Eyes, Veteran Warrior.
 
-## Tracker [SA:MD2]
+#### Tracker [SA:MD2]
 
 You do not gain ranks in Stealth from the base sphere and cannot select talents that rely on or improve the Stealth skill. You gain Track The Scene with this drawback.
 
 **Incompatible:** Sentry, Veiled, Veteran Warrior.
 
-## Veiled [SA:MD2]
+#### Veiled [SA:MD2]
 
 You do not gain the scout ability and cannot select talents that rely on the scout ability. You gain Hidden Appearance with this drawback.
 
 **Incompatible:** Hidden Eyes, Hunter’s Eye, Sentry, Tracker
 
-## Veteran Warrior [Youxia HB]
+#### Veteran Warrior [Youxia HB]
 
 You do not gain ranks in Stealth from the base sphere and cannot select talents that rely on or improve the Stealth skill. You gain Study Technique with this drawback. **Incompatible:** Hidden Eyes

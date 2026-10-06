@@ -13,26 +13,26 @@ This proud horse thunders across the grassy plain with fluid grace, wind tugging
 XP 2,400
 Pathfinder Roleplaying Game Bestiary (horse)
 N Large animal (mythic)
-**Init**+4;**Senses** low-light vision, scent; Perception +9
+**Init** +4; **Senses** low-light vision, scent; Perception +9
 
 #### Defense
 
-**AC**17,**touch**13,**flat-footed** 13 (+4 Dex, +4 natural, –1 size)
+**AC** 17, **touch** 13, **flat-footed** 13 (+4 Dex, +4 natural, –1 size)
 **hp** 81 (6d8+54)
-**Fort**+12,**Ref**+9,**Will** +5
+**Fort** +12, **Ref** +9, **Will** +5
 **Defensive Abilities** DR 5/epic
 
 #### Offense
 
 **Speed** 50 ft.
 **Melee** 2 hooves +8 (1d6+5), bite +8 (1d4+5)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** kickbackMA, mythic power (2/day, surge 1d6)
 
 #### Statistics
 
-**Str**20,**Dex**18,**Con**21,**Int**3,**Wis**17,**Cha** 11
-**Base Atk**+4;**CMB**+10;**CMD** 24 (28 vs. trip)
+**Str** 20, **Dex** 18, **Con** 21, **Int** 3, **Wis** 17, **Cha** 11
+**Base Atk** +4; **CMB** +10; **CMD** 24 (28 vs. trip)
 **Feats** DiehardB, Endurance, Great Fortitude, Heavy Armor ProficiencyB, Light Armor ProficiencyB, Medium Armor ProficiencyB, RunB, ToughnessMF
 **Skills** Acrobatics +8 (+16 when jumping), Perception +9, Swim +9
 **Languages** Common (can’t speak)
@@ -58,26 +58,26 @@ N Large animal (mythic)
 XP 600
 Pathfinder Roleplaying Game Bestiary (horse)
 N Large animal (mythic)
-**Init**+4;**Senses** low-light vision, scent; Perception +8
+**Init** +4; **Senses** low-light vision, scent; Perception +8
 
 #### Defense
 
-**AC**16,**touch**13,**flat-footed** 12 (+4 Dex, +3 natural, –1 size)
+**AC** 16, **touch** 13, **flat-footed** 12 (+4 Dex, +3 natural, –1 size)
 **hp** 46 (4d8+28)
-**Fort**+9,**Ref**+10,**Will** +4
+**Fort** +9, **Ref** +10, **Will** +4
 **Defensive Abilities** evasionMA
 
 #### Offense
 
 **Speed** 80 ft.
 **Melee** 2 hooves +2 (1d4+2)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (1/day, surge +1d6)
 
 #### Statistics
 
-**Str**20,**Dex**18,**Con**21,**Int**2,**Wis**17,**Cha** 11
-**Base Atk**+3;**CMB**+9;**CMD** 23 (27 vs. trip)
+**Str** 20, **Dex** 18, **Con** 21, **Int** 2, **Wis** 17, **Cha** 11
+**Base Atk** +3; **CMB** +9; **CMD** 23 (27 vs. trip)
 **Feats** Endurance, Lightning ReflexesMF, RunB
 **Skills** Acrobatics +8 (+16 when jumping), Perception +8, Swim +9
 **SQ** docile, run like the windMA
@@ -100,13 +100,13 @@ N Large animal (mythic)
 XP 600
 Pathfinder Roleplaying Game Bestiary (horse, pony)
 N Medium animal (mythic)
-**Init**+4;**Senses** low-light vision, scent; Perception +7
+**Init** +4; **Senses** low-light vision, scent; Perception +7
 
 #### Defense
 
-**AC**17,**touch**14,**flat-footed** 13 (+4 Dex, +3 natural)
+**AC** 17, **touch** 14, **flat-footed** 13 (+4 Dex, +3 natural)
 **hp** 42 (4d8+24)
-**Fort**+8,**Ref**+8,**Will** +5
+**Fort** +8, **Ref** +8, **Will** +5
 
 #### Offense
 
@@ -116,8 +116,8 @@ N Medium animal (mythic)
 
 #### Statistics
 
-**Str**17,**Dex**18,**Con**18,**Int**2,**Wis**15,**Cha** 8
-**Base Atk**+3;**CMB**+6;**CMD** 20 (24 vs. trip)
+**Str** 17, **Dex** 18, **Con** 18, **Int** 2, **Wis** 15, **Cha** 8
+**Base Atk** +3; **CMB** +6; **CMD** 20 (24 vs. trip)
 **Feats** Endurance, Iron WillMF, RunB
 **Skills** Acrobatics +9 (+17 when jumping), Perception +7
 **SQ** beast of burdenMA, docile, inexplicable survivalMA

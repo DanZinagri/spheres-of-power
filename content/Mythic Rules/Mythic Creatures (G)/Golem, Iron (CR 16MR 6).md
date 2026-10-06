@@ -13,26 +13,26 @@ This iron automaton stands twice as tall as a normal human. Its heavy footfalls 
 XP 76,800
 Pathfinder Roleplaying Game Bestiary
 N Large construct (mythic)
-**Init**–1;**Senses** darkvision 60 ft., low-light vision, mistsightMA; Perception +18
+**Init** –1; **Senses** darkvision 60 ft., low-light vision, mistsightMA; Perception +18
 
 #### Defense
 
-**AC**34,**touch**8,**flat-footed** 34 (–1 Dex, +26 natural, –1 size)
+**AC** 34, **touch** 8, **flat-footed** 34 (–1 Dex, +26 natural, –1 size)
 **hp** 189 (18d10+90)
-**Fort**+6,**Ref**+5,**Will** +6
-**Defensive Abilities**invincible guardianMA; DR 15/adamantine and epic;**Immune** construct traits, magic
+**Fort** +6, **Ref** +5, **Will** +6
+**Defensive Abilities** invincible guardianMA; DR 15/adamantine and epic; **Immune** construct traits, magic
 
 #### Offense
 
 **Speed** 20 ft.
 **Melee** 2 slams +31 (2d10+21/17–20/×3)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** breath weaponMA, destroyerMA, mythic power (6/day, surge +1d8), powerful blows, sweeping strikeMA
 
 #### Statistics
 
-**Str**38,**Dex**9,**Con**—,**Int**6,**Wis**11,**Cha** 1
-**Base Atk**+18;**CMB**+33 (+37 sunder);**CMD** 42 (44 vs. sunder)
+**Str** 38, **Dex** 9, **Con** —, **Int** 6, **Wis** 11, **Cha** 1
+**Base Atk** +18; **CMB** +33 (+37 sunder); **CMD** 42 (44 vs. sunder)
 **Feats** Critical FocusMF, Greater Sunder, Improved Critical (slam)MF, Improved Sunder, Power AttackMF, Sundering Strike, Staggering Critical, Stunning Critical
 **Skills** Perception +18
 **Languages** Common (cannot speak)
@@ -70,4 +70,4 @@ A mythic iron golem is affected normally by mythic rust attacks, such as those o
 
 #### Giant Mythic Iron Golem
 
-With the giant simple template, a mythic iron golem’s stats are as follows: **CR**16/**MR**6;**XP**102,400;**Size**Huge;**Init**-2;**AC**35,**touch**6,**flat-footed**35;**hp**199 (18d10+100);**Ref**+4;**Melee**2 slams +32 (4d8+24/17-20/x3);**Space**15 ft.,**Reach**15 ft.;**Str**42,**Dex**7;**CMB**+36 (+40 sunder);**CMD** 44 (46 vs. sunder).
+With the giant simple template, a mythic iron golem’s stats are as follows: **CR** 16/**MR** 6; **XP** 102,400; **Size** Huge; **Init** -2; **AC** 35, **touch** 6, **flat-footed** 35; **hp** 199 (18d10+100); **Ref** +4; **Melee** 2 slams +32 (4d8+24/17-20/x3); **Space** 15 ft., **Reach** 15 ft.; **Str** 42, **Dex** 7; **CMB** +36 (+40 sunder); **CMD** 44 (46 vs. sunder).

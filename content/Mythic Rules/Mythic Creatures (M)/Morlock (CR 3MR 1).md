@@ -13,13 +13,13 @@ Skin pale as a slug’s belly, eyes huge and bulging, this thing crawls down the
 XP 800
 Pathfinder Roleplaying Game Bestiary
 CE Medium monstrous humanoid (mythic, mythos)
-**Init**+8;**Senses** darkvision 120 ft.; Perception +2
+**Init** +8; **Senses** darkvision 120 ft.; Perception +2
 
 #### Defense
 
-**AC**16,**touch**14,**flat-footed** 12 (+4 Dex, +2 natural)
+**AC** 16, **touch** 14, **flat-footed** 12 (+4 Dex, +2 natural)
 **hp** 32 (3d10+16)
-**Fort**+3,**Ref**+9,**Will** +5
+**Fort** +3, **Ref** +9, **Will** +5
 **Immune** disease, poison
 **Weaknesses** light blindness
 
@@ -32,10 +32,10 @@ CE Medium monstrous humanoid (mythic, mythos)
 
 #### Statistics
 
-**Str**14,**Dex**19,**Con**15,**Int**5,**Wis**14,**Cha** 6
-**Base Atk**+3;**CMB**+5;**CMD** 19
+**Str** 14, **Dex** 19, **Con** 15, **Int** 5, **Wis** 14, **Cha** 6
+**Base Atk** +3; **CMB** +5; **CMD** 19
 **Feats** Improved Initiative, Lightning ReflexesMF, Net AdeptB
-**Skills**Acrobatics +13 (+17 when jumping), Climb +22, Stealth +8 (+12 in caverns);**Racial Modifiers** +8 Acrobatics, +16 Climb, +4 Stealth in caverns
+**Skills** Acrobatics +13 (+17 when jumping), Climb +22, Stealth +8 (+12 in caverns); **Racial Modifiers** +8 Acrobatics, +16 Climb, +4 Stealth in caverns
 **Languages** Undercommon
 **SQ** expert climber
 

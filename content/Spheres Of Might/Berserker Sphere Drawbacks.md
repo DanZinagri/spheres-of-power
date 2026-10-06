@@ -14,40 +14,40 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Adrenaline Junkie [Conq. HB]
+#### Adrenaline Junkie [Conq. HB]
 
 You do not gain the brutal strike ability. You must take an (adrenaline) talent with this drawback.
 
 **Incompatible:** Unbattered, Weakling.
 
-## Fatal Strike [SA:MD]
+#### Fatal Strike [SA:MD]
 
 You do not gain the brutal strike ability and cannot select (exertion) talents or other talents that rely on brutal strike. You gain Decapitate with this drawback.
 
 **Incompatible:** Adrenaline Junkie, Unbattered, Weakling.
 
-## Ruinous Rage [SA:MD2]
+#### Ruinous Rage [SA:MD2]
 
 You do not gain the brutal strike ability and cannot select (exertion) talents or other talents that rely on brutal strike. You gain Greater Sunder with this drawback.
 
 **Incompatible:** Adrenaline Junkie, Fatal Strike, Unbattered, Weakling.
 
-## Savage Offense [SA:MD2]
+#### Savage Offense [SA:MD2]
 
 You do not gain the berserking ability and cannot select (adrenaline) talents or other talents that rely on berserk. You gain Savage with this drawback.
 
 **Incompatible:** Adrenaline Junkie, Undying.
 
-## Unbattered
+#### Unbattered
 
 Your brutal strikes do not inflict the battered conditions on foes. You gain Sanguine Invigoration with this drawback.
 
-## Undying [SA:MD]
+#### Undying [SA:MD]
 
 You do not gain the berserking ability and cannot select (adrenaline) talents or other talents that rely on berserking. You gain Deathless with this drawback.
 
 **Incompatible:** Adrenaline Junkie.
 
-## Weakling
+#### Weakling
 
 You cannot expend focus to increase the damage of your brutal strikes. You gain Extended Exertion with this drawback.

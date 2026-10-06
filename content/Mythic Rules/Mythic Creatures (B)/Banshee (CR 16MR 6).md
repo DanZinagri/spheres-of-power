@@ -13,15 +13,15 @@ This beautiful, ghostly elven woman glides through the air, her long hair flowin
 XP 76,800
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium undead (incorporeal, mythic)
-**Init**+21MF;**Senses** darkvision 60 ft., hear heartbeat 60 ft.; Perception +26
+**Init** +21MF; **Senses** darkvision 60 ft., hear heartbeat 60 ft.; Perception +26
 **Aura** aura of cowardiceMA (30 ft.)
 
 #### Defense
 
-**AC**35,**touch**35,**flat-footed** 23 (+13 deflection, +11 Dex, +1 dodge)
+**AC** 35, **touch** 35, **flat-footed** 23 (+13 deflection, +11 Dex, +1 dodge)
 **hp** 266 (19d8+181)
-**Fort**+13,**Ref**+19,**Will** +18
-**Defensive Abilities**incorporeal; DR 10/epic;**Immune**undead traits;**SR** 27MA
+**Fort** +13, **Ref** +19, **Will** +18
+**Defensive Abilities** incorporeal; DR 10/epic; **Immune** undead traits; **SR** 27MA
 **Weaknesses** sunlight powerlessness
 
 #### Offense
@@ -35,8 +35,8 @@ At will—shout (DC 21)
 
 #### Statistics
 
-**Str**—,**Dex**32,**Con**—,**Int**5,**Wis**20,**Cha** 25
-**Base Atk**+14;**CMB**+25;**CMD** 49
+**Str** —, **Dex** 32, **Con** —, **Int** 5, **Wis** 20, **Cha** 25
+**Base Atk** +14; **CMB** +25; **CMD** 49
 **Feats** DodgeMF, Flyby Attack, Following StepAPG, Improved InitiativeMF, Iron Will, Lightning Reflexes, MobilityMF, Step Up, Step Up and StrikeAPG, Wind Stance
 **Skills** Fly +23, Perception +26
 **Languages** Common, Elven

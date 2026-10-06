@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (B)]]"
 XP 2,400
 N Medium plant (mythic)
 Pathfinder Roleplaying Game Bestiary
-**Init**+1;**Senses** low-light vision, scent, tremorsense 30 ft.; Perception +0
+**Init** +1; **Senses** low-light vision, scent, tremorsense 30 ft.; Perception +0
 
 #### Defense
 
-**AC**20,**touch**11,**flat-footed** 19 (+1 Dex, +9 natural)
+**AC** 20, **touch** 11, **flat-footed** 19 (+1 Dex, +9 natural)
 **hp** 68 (7d8+37)
-**Fort**+8,**Ref**+3,**Will** +2
-**Defensive Abilities**DR 5/epic;**Immune** cold, plant traits
+**Fort** +8, **Ref** +3, **Will** +2
+**Defensive Abilities** DR 5/epic; **Immune** cold, plant traits
 **Weaknesses** cold lethargy
 
 #### Offense
@@ -29,8 +29,8 @@ Pathfinder Roleplaying Game Bestiary
 
 #### Statistics
 
-**Str**22,**Dex**13,**Con**16,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+5;**CMB**+11;**CMD** 22 (26 vs. trip)
+**Str** 22, **Dex** 13, **Con** 16, **Int** —, **Wis** 11, **Cha** 1
+**Base Atk** +5; **CMB** +11; **CMD** 22 (26 vs. trip)
 **Feats** Extra Mythic Power
 **SQ** poisonous bloodMA (insanity mist)
 
@@ -55,6 +55,6 @@ Pathfinder Roleplaying Game Bestiary
 
 **Spores (Ex)** Any creature struck by a basidirond’s slam attack is coated with spores. The creature struck must make a DC 16 Fortitude save or these spores take root in his flesh, and particularly in his lungs. The save DC is Constitution-based.
 
-*Basidirond Spores:* Disease—inhaled; **save**Fort DC 16;**frequency**1/round for 6 rounds;**effect**1d2 Con damage;**cure** 1 save.
+*Basidirond Spores:* Disease—inhaled; **save** Fort DC 16; **frequency** 1/round for 6 rounds; **effect** 1d2 Con damage; **cure** 1 save.
 
 **Sweet Nectar (Ex)** A mythic basidirond can emit an attractant aroma that causes creatures of a particular type (or subtype) to be filled with an uncontrollable urge to approach the basidirond. Its nectar can attract only one type (or subtype) at a time, but such creatures are affected as a sympathy spell (DC 16 Will negates), and if they are adjacent to the basidirond they become fascinated. If they are attacked or threatened, they gain a new saving throw with a +2 bonus to break free of the fascinate effect. This is a mind-affecting disease effect.

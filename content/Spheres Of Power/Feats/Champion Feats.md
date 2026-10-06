@@ -12,7 +12,7 @@ These new general and extra feats were introduced in Champions of the Spheres an
 
 #### Biochemical Brews [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Alchemy sphere ((toxin) package)); either the Barroom sphere or Nature sphere.
 
@@ -88,7 +88,7 @@ When dealing damage with a sphere effect or when a hostile creature fails a savi
 
 #### Arcane Venin [Apoc]
 
-**Source:** [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Alchemy Poisons 2](https://www.drivethrurpg.com/product/320796/Spheres-Apocrypha-Alchemy-Poisons-2?affiliate_id=549120)*
 
 You can create magical poisons that vex their target with your hexes when the poison hits their biological complexes.
 
@@ -120,7 +120,7 @@ If an ingested poison would be applied to a target without them ingesting it (i.
 
 #### Battlebard [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Performance sphere, ability to maintain martial focus.
 
@@ -272,7 +272,7 @@ While within the area of your pathing, you can maintain this tactic as a free ac
 
 #### Furious Flare (Champion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 **Prerequisites:** Berserker sphere, Destruction sphere (any (blast type) talent).
 
@@ -346,7 +346,7 @@ A grappled creature takes a -2 penalty on all attack rolls and combat maneuver c
 
 #### Harnessed Virtue (Champion, Combat) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 **Prerequisites:** Imbued Strike, ability to gain martial focus, casting class feature, caster level 1st, non-neutral alignment.
 
@@ -354,7 +354,7 @@ A grappled creature takes a -2 penalty on all attack rolls and combat maneuver c
 
 #### Harrying Hospitaler (Champion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 **Prerequisites:** Guardian sphere (Defend Other), Life sphere (Empathic Healing).
 
@@ -402,7 +402,7 @@ If you possess the Circle Casting feat, you may maintain that feat’s effects o
 
 #### I Will Save You (Champion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 **Prerequisites:** Guardian sphere (Defend Other, I Will Hear, I Will Come), Life sphere (Empathic Healing), Harrying Hospitaler, base attack bonus +10, caster level 10th.
 
@@ -428,7 +428,7 @@ If you reduce a creature to 0 hp or less with a weapon attack or natural attack,
 
 #### Light’s Lasting Fury (Champion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 Deep from within, there is a light that fills you, and you show the world that death is owed nothing.
 
@@ -440,7 +440,7 @@ While you are below 0 hit points and acting as disabled, you do not take damage 
 
 #### Magical Terrorizer (champion) [SA:BG]
 
-**Source:** [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)*
 
 **Prerequisites:** Gladiator sphere (Hear Their Screams), casting class feature, character level 5th.
 
@@ -492,7 +492,7 @@ Whenever you use a magical sphere effect as a standard action, you may spend 1 s
 
 #### Otherworldly Host (Champion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 **Prerequisites:** Alteration sphere (Outsider Body), Guardian sphere.
 
@@ -646,7 +646,7 @@ In addition, you gain the following (quicken) and (still) effects:
 
 #### Sword Of Omens (Champion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 **Prerequisites:** Fate sphere, Guardian sphere, base attack bonus +5.
 
@@ -676,7 +676,7 @@ If you possess the Emergency Teleport talent, when a creature attacks you during
 
 #### Through The Long Night (Combat) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 The night is hard and the night is long, but you know deep down, you can brave it.
 
@@ -751,7 +751,7 @@ If you possess the Admixture or Greater Admixture talents, you may spend additio
 
 #### Wardlord (Champion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 **Prerequisites:** Protection sphere, Warleader sphere.
 
@@ -775,7 +775,7 @@ Only one dual sphere feat can be applied as part of using a sphere ability (i.e.
 
 #### Animist (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisite:** Survival 3 ranks, Survivalism sphere; Nature sphere or Trap sphere.
 
@@ -791,7 +791,7 @@ Only one dual sphere feat can be applied as part of using a sphere ability (i.e.
 
 #### Bard of Booze (Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Barroom sphere and Performance sphere.
 
@@ -807,7 +807,7 @@ Additionally, you gain an additional benefit depending on which Performance sphe
 
 #### Fey Melodies (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisite:** Fallen Fey sphere (Enchanting Music (fey-blessing)), Performance sphere (instrumental) package.
 
@@ -815,7 +815,7 @@ Additionally, you gain an additional benefit depending on which Performance sphe
 
 #### Horticulturist (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisite:** Associated ranks 3, Herbalism sphere ((herbal) package); either the Alchemy sphere ((poison) package) or Creation sphere.
 
@@ -840,7 +840,7 @@ If you possess the Pre-emptive Preparation Herbalism talent, you can reveal the 
 
 #### Mechanized Magnificence (Champion, Dual Sphere, Gizmo) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You blend metal and music into one another.
 
@@ -868,7 +868,7 @@ An audio magnifier’s battery use ability is otherwise unchanged, except that i
 
 #### Natural Sciences (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisite:** Associated ranks 3, Herbalism sphere ((herbal) package); either the Alchemy sphere ((formulae) package) or Nature sphere.
 
@@ -898,9 +898,9 @@ A concoction can only have one such benefit applied to it at one time.
 
 #### Organic Spirits (Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Prerequisites**: Barroom sphere plus one other sphere: Nature sphere or Herbalism sphere.
+**Prerequisites:** Barroom sphere plus one other sphere: Nature sphere or Herbalism sphere.
 
 **Benefit:** You gain the following benefits, depending on the spheres (and packages) you possess:
 
@@ -921,7 +921,7 @@ A concoction can only have one such benefit applied to it at one time.
 
 #### Primal Dancer (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisite:** Perform (dance) 3 ranks, Performance sphere ((dance) package); either the Berserker sphere or Destruction sphere (one (blast type) talent that deals energy damage or Energy Aura talent).
 
@@ -934,7 +934,7 @@ A concoction can only have one such benefit applied to it at one time.
 
 #### Graveborn Expression (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisite:** Death sphere, Performance sphere.
 
@@ -954,7 +954,7 @@ If it is a discouraging lyric, any number of undead within your dominion range (
 
 #### Guarded Fane (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisite:** Guardian sphere ((patrol) package), any magical sphere (see text).
 
@@ -964,7 +964,7 @@ You must pay any costs associated with the sphere ability used, and it lasts unt
 
 #### Strategic Terrain (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisite:** Survivalism sphere ((dredge) package), Warleader sphere.
 
@@ -972,7 +972,7 @@ You must pay any costs associated with the sphere ability used, and it lasts unt
 
 #### Vicious Performer (Champion, Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisite:** Performance sphere; either the Gladiator sphere or War sphere.
 

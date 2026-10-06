@@ -150,7 +150,7 @@ When granting a creature both a combat training progression and a spherecasting 
 
 ## Unchained Monster Creation Rules [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 Presented below are a number of new options for creating monsters using the simple monster creation rules outlined in Pathfinder Unchained
 
@@ -398,24 +398,24 @@ The requirements to select a long cat or small cat as an improved familiar are r
 This sleek-coated feline seems to stretch and wiggle through obstacles and around corners. When held aloft, their lower body remains on the ground, stretching oddly.
 XP 600
 N Tiny magical beast
-**Init**+3;**Senses** darkvision 60 ft., low-light vision; Perception +9
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; Perception +9
 
 **Defense**
-**AC**17,**touch**15,**flat-footed** 14 (+3 Dex, +2 natural, +2 size)
+**AC** 17, **touch** 15, **flat-footed** 14 (+3 Dex, +2 natural, +2 size)
 **hp** 28 (4d10+8)
-**Fort**+6,**Ref**+7,**Will** +3
+**Fort** +6, **Ref** +7, **Will** +3
 **Defensive Abilities** Noodlin’
 
 **Offense**
 **Speed** 40 ft.
 **Melee** 2 claws +9 (1d2+1 plus 1 bleed)
-**Space**2.5 ft.;**Reach** 0 ft. (20 ft. with claw)
+**Space** 2.5 ft.; **Reach** 0 ft. (20 ft. with claw)
 
 **Statistics**
-**Str**13,**Dex**17,**Con**14,**Int**2,**Wis**15,**Cha** 12
-**Base Atk**+4;**CMB**+3;**CMD** +16 (20 vs. trip)
+**Str** 13, **Dex** 17, **Con** 14, **Int** 2, **Wis** 15, **Cha** 12
+**Base Atk** +4; **CMB** +3; **CMD** +16 (20 vs. trip)
 **Feats** Stealthy, Weapon Finesse
-**Skills**Acrobatics +11, Climb +5, Escape Artist +5, Perception +9, Stealth +17;**Racial Modifiers** +8 Acrobatics, +4 Climb, +4 Stealth
+**Skills** Acrobatics +11, Climb +5, Escape Artist +5, Perception +9, Stealth +17; **Racial Modifiers** +8 Acrobatics, +4 Climb, +4 Stealth
 **SQ** compression, very long
 
 **Special Abilities**
@@ -454,24 +454,24 @@ The properties of a long cat are unique but are occasionally found amongst other
 This seemingly normal house cat can be observed seamlessly shifting between a lap cat and massive predator, reaching places other smaller cats might be incapable of.
 XP 600
 N Tiny magical beast
-**Init**+3;**Senses** darkvision 60 ft., low-light vision; Perception +7
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; Perception +7
 
 **Defense**
-**AC**18,**touch**15,**flat-footed** 15 (+3 Dex, +3 natural, +2 size)
+**AC** 18, **touch** 15, **flat-footed** 15 (+3 Dex, +3 natural, +2 size)
 **hp** 21 (3d10+6)
-**Fort**+5,**Ref**+7,**Will** +2
+**Fort** +5, **Ref** +7, **Will** +2
 
 **Offense**
 **Speed** 40 ft.
 **Melee** 2 claws +8 (1d2-2)
-**Space**2.5 ft.;**Reach** 0 ft.
+**Space** 2.5 ft.; **Reach** 0 ft.
 **Special Attacks** pounce
 
 **Statistics**
-**Str**7,**Dex**17,**Con**14,**Int**2,**Wis**13,**Cha** 7
-**Base Atk**+3;**CMB**-1;**CMD** +12 (+16 vs. trip)
+**Str** 7, **Dex** 17, **Con** 14, **Int** 2, **Wis** 13, **Cha** 7
+**Base Atk** +3; **CMB** -1; **CMD** +12 (+16 vs. trip)
 **Feats** Skill Focus (Acrobatics), Weapon Finesse
-**Skills**Acrobatics +18, Climb +2, Perception +8, Stealth +15;**Racial Modifiers** +8 Acrobatics, +4 Climb, +4 Stealth
+**Skills** Acrobatics +18, Climb +2, Perception +8, Stealth +15; **Racial Modifiers** +8 Acrobatics, +4 Climb, +4 Stealth
 
 **Special Abilities**
 **Not So Small (Su):** The small cat, despite its name, is a fierce and skilled size changer. As a standard action, the small cat may change sizes. A small cat’s normal resting size is Tiny, but it may enlarge itself to a maximum of size Large. For each size larger than Tiny a small cat becomes, it gains a +2 size bonus to its Strength score and DR 2/slashing. This ability is a polymorph effect.

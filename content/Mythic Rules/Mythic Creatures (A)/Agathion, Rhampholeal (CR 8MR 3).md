@@ -12,14 +12,14 @@ This diminutive chameleon lizard wears a light, loose tunic and has numerous kni
 **Agathion, Rhampholeal (CR 8/MR 3)**
 XP 4,800
 NG Small outsider (agathion, extraplanar, good, mythic)
-**Init**+6;**Senses** darkvision 60 ft., low-light vision, see invisibility; Perception +14
+**Init** +6; **Senses** darkvision 60 ft., low-light vision, see invisibility; Perception +14
 
 #### Defense
 
-**AC**25,**touch**17,**flat-footed** 19 (+6 Dex, +8 natural, +1 size)
+**AC** 25, **touch** 17, **flat-footed** 19 (+6 Dex, +8 natural, +1 size)
 **hp** 96 (7d10+58)
-**Fort**+6,**Ref**+11,**Will** +6; +4 vs. poison
-**Defensive Abilities**all-around vision, mirror dodgeMA, titan’s baneMA, DR 5/epic and evil or silver;**Immune**electricity, petrification;**Resist**cold 10, sonic 10;**SR** 21
+**Fort** +6, **Ref** +11, **Will** +6; +4 vs. poison
+**Defensive Abilities** all-around vision, mirror dodgeMA, titan’s baneMA, DR 5/epic and evil or silver; **Immune** electricity, petrification; **Resist** cold 10, sonic 10; **SR** 21
 
 #### Offense
 
@@ -27,7 +27,7 @@ NG Small outsider (agathion, extraplanar, good, mythic)
 **Melee** +1 demon-bane dagger +15/+10 (1d3+6/19–20 plus poison);
 demon-bane bite +12 (1d6+6 plus poison) or demon-bane tongue +12/+7 touch (grab plus poison))
 **Ranged** +1 demon-bane dagger +15/+10 (1d3+3/19–20 plus poison)
-**Space**5 ft.;**Reach** 5 ft. (10 ft. with tongue)
+**Space** 5 ft.; **Reach** 5 ft. (10 ft. with tongue)
 **Special Attacks** bardic performance 17 rounds/day (countersong, distraction, fascinate [DC 16], inspire competence +2, inspire courage +2, suggestion [DC 16]), demon-baneMA, grab (Medium), poison, pull (tongue, 5 ft.), sneak attack +3d6, tongue
 
 **Spell-Like Abilities** (CL 7th; concentration +10)
@@ -36,10 +36,10 @@ Constant—protection from evil, see invisibility, speak with animals At will—
 
 #### Statistics
 
-**Str**15,**Dex**23,**Con**18,**Int**15,**Wis**12,**Cha** 16
-**Base Atk**+7;**CMB**+8 (+12 grapple);**CMD** 24
+**Str** 15, **Dex** 23, **Con** 18, **Int** 15, **Wis** 12, **Cha** 16
+**Base Atk** +7; **CMB** +8 (+12 grapple); **CMD** 24
 **Feats** AntagonizeMF, Multiattack, Weapon FinesseMF, Weapon Focus (bite)
-**Skills**Acrobatics +10, Climb +10, Diplomacy +13, Intimidate +13, Knowledge (geography) +9, Knowledge (planes) +12, Perception +15, Perform (oratory) +12, Sense Motive +11, Stealth +24 (+32 when still);**Racial Modifiers** +4 Perception, +4 Stealth (+12 when still)
+**Skills** Acrobatics +10, Climb +10, Diplomacy +13, Intimidate +13, Knowledge (geography) +9, Knowledge (planes) +12, Perception +15, Perform (oratory) +12, Sense Motive +11, Stealth +24 (+32 when still); **Racial Modifiers** +4 Perception, +4 Stealth (+12 when still)
 **Languages** Celestial, Draconic, Infernal; speak with animals; truespeech
 **SQ** lay on hands (3d6, 6/day, as a 7th-level paladin), mindworm tongue, supreme stealthMA
 
@@ -57,7 +57,7 @@ Constant—protection from evil, see invisibility, speak with animals At will—
 
 **Mirror Dodge (Su)** This functions as the trickster path ability, as described in Pathfinder Roleplaying Game Mythic Adventures.
 
-**Poison (Ex)**A rhampholeal’s poison glands are in its mouth, and constantly apply poison to its bite and tongue attack. When preparing for combat, it can apply this poison to a dagger as a swift move or action. Rhampholeal poison: Bite, tongue, or weapon— contact or injury;**save**Fort DC 17;**frequency**1/round for 6 rounds;**effect**1d2 Dex;**cure** 2 consecutive saves.
+**Poison (Ex)** A rhampholeal’s poison glands are in its mouth, and constantly apply poison to its bite and tongue attack. When preparing for combat, it can apply this poison to a dagger as a swift move or action. Rhampholeal poison: Bite, tongue, or weapon— contact or injury; **save** Fort DC 17; **frequency** 1/round for 6 rounds; **effect** 1d2 Dex; **cure** 2 consecutive saves.
 
 **Supreme Stealth (Ex)** Creatures cannot detect a rhampholeal using scent and must make normal Perception checks to do so. In addition, a rhampholeal can expend one use of its mythic power as a swift action to make itself undetectable to blindsight (including blindsense) or tremorsense for 3 minutes.
 

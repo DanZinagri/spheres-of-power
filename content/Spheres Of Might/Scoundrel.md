@@ -46,7 +46,7 @@ Whenever you successfully perform a dirty trick or steal combat maneuver as an a
 
 #### Combat Hustle [Apoc]
 
-**Source:** [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)
+*Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
 So long as you have martial focus, when you attempt a dirty trick or steal combat maneuver against an enemy threatened by at least 1 ally, you gain a +2 circumstance bonus for each ally threatening that enemy. This does not provoke attacks of opportunity.
 
@@ -92,7 +92,7 @@ You gain a +1 competence bonus to your dirty trick and steal combat maneuver che
 
 #### Lingering Slight [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 Whenever you successfully perform a dirty trick combat maneuver against a creature that is currently not affected by a condition inflicted by a previous dirty trick (whether your own or another creature’s), you may expend your martial focus to cause the condition caused by the maneuver remain for 1 additional round after it would be removed.
 
@@ -178,7 +178,7 @@ Whenever you successfully perform a steal or dirty trick combat maneuver, you ca
 
 #### Flustering Antics (trick) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 Whenever you successfully perform a steal or dirty trick combat maneuver the target must succeed at a Will save or lose their martial focus. On a failed save, you may regain your martial focus as an immediate action.
 
@@ -192,7 +192,7 @@ As long as you have martial focus, you may attempt a dirty trick combat maneuver
 
 #### Savage Tricks (trick) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 Whenever you successfully perform a dirty trick combat maneuver, you may also inflict the battered or fatigued conditions to a creature when selecting a condition to apply to the affected creature.
 
@@ -211,7 +211,7 @@ At 5 ranks in Sleight of Hand, you may expend your martial focus as a free actio
 
 #### Swipe (trick) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 When you successfully perform a steal combat maneuver against a target, you can expend your martial focus as an immediate action to use the stolen object (if possible). This generally involves drinking a stolen potion, applying a stolen oil or poison to a weapon, throwing a splash weapon, etc., but only as long as it could be used as a standard action or faster.
 
@@ -239,7 +239,7 @@ A grapple combat maneuver performed and maintained using this talent is unique; 
 
 #### Devastating Tricks (trick) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 **Prerequisites:** Sleight of Hand 10 ranks, Scoundrel sphere (Savage Tricks (trick))
 

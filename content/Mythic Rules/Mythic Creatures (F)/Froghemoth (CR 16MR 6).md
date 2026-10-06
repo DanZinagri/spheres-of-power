@@ -13,29 +13,29 @@ This immense, three-eyed frog-like creature rears up on powerful hind legs. In p
 XP 76,800
 Pathfinder Roleplaying Game Bestiary
 N Huge aberration (alien, mythic)
-**Init**+11/-9MF, dual initiativeMA;**Senses** all-around vision, blindsight 30 ft., darkvision 60 ft.; Perception +16
+**Init** +11/-9MF, dual initiativeMA; **Senses** all-around vision, blindsight 30 ft., darkvision 60 ft.; Perception +16
 
 #### Defense
 
-**AC**34,**touch**9,**flat-footed** 33 (+1 Dex, +25 natural, –2 size)
+**AC** 34, **touch** 9, **flat-footed** 33 (+1 Dex, +25 natural, –2 size)
 **hp** 248 (16d8+176)
-**Fort**+13,**Ref**+8,**Will** +11
-**Defensive Abilities**DR 10/epic;**Immune**electricity (partial);**Resist** fire 10
+**Fort** +13, **Ref** +8, **Will** +11
+**Defensive Abilities** DR 10/epic; **Immune** electricity (partial); **Resist** fire 10
 **Weaknesses** slowed by electricity
 
 #### Offense
 
 **Speed** 20 ft., swim 30 ft.
 **Melee** bite +22 (2d6+12/19–20 plus grab), 4 tentacles +20 (1d8+18 plus grab), tongue +20 (1d4+6 plus grab)
-**Space**15 ft.;**Reach** 15 ft. (30 ft. with tongue)
+**Space** 15 ft.; **Reach** 15 ft. (30 ft. with tongue)
 **Special Attacks** constrict (tentacle, 1d8+18), mythic power (6/day, surge +1d8), pounceMA, sloshing gulletMA, swallow whole (3d6+12 damage, AC 22, hp 24), tenacious grappleMA, tentacle tossMA, tongue tuggerMA
 
 #### Statistics
 
-**Str**34,**Dex**13,**Con**26,**Int**2,**Wis**13,**Cha** 11
-**Base Atk**+12;**CMB**+26 (+30 grapple);**CMD** 37
+**Str** 34, **Dex** 13, **Con** 26, **Int** 2, **Wis** 13, **Cha** 11
+**Base Atk** +12; **CMB** +26 (+30 grapple); **CMD** 37
 **Feats** Arms of the DeepMF, Cleave, Improved Critical (bite), Improved InitiativeMF, Inescapable GraspMF, Lightning Reflexes, Lunge, Multiattack, Power Attack, Skill Focus (Stealth)
-**Skills**Perception +16, Stealth +14 (+22 in marshes), Swim +20;**Racial Modifiers** +8 Perception, +8 Stealth in marshes
+**Skills** Perception +16, Stealth +14 (+22 in marshes), Swim +20; **Racial Modifiers** +8 Perception, +8 Stealth in marshes
 **SQ** powerful blowsMA (tentacle)
 
 #### Ecology

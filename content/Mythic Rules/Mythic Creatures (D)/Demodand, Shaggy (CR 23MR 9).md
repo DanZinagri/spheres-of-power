@@ -13,15 +13,15 @@ This toad-faced humanoid is bloated and swollen, with folds of obsidian skin han
 XP 819,200
 Pathfinder Roleplaying Game Bestiary 3
 CE Medium outsider (chaotic, demodand, evil, extraplanar, mythic)
-**Init**+20M/+0, dual initiativeMA;**Senses** blindsense 30 ft., darkvision 60 ft., detect good, detect magic, faith senseMA, see invisibility; Perception +36
+**Init** +20M/+0, dual initiativeMA; **Senses** blindsense 30 ft., darkvision 60 ft., detect good, detect magic, faith senseMA, see invisibility; Perception +36
 **Aura** channel blocking (50 ft., DC )
 
 #### Defense
 
-**AC**41,**touch**17,**flat-footed** 34 (+7 Dex, +24 natural)
+**AC** 41, **touch** 17, **flat-footed** 34 (+7 Dex, +24 natural)
 **hp** 352 (25d10+215)
-**Fort**+19,**Ref**+17,**Will** +18; +8 vs. divine spells; second saveMA
-**Defensive Abilities**block attacksMA; DR 15/epic, good and magic;**Immune**acid, poison;**Resist**cold 10, fire 10;**SR** 34
+**Fort** +19, **Ref** +17, **Will** +18; +8 vs. divine spells; second saveMA
+**Defensive Abilities** block attacksMA; DR 15/epic, good and magic; **Immune** acid, poison; **Resist** cold 10, fire 10; **SR** 34
 
 #### Offense
 
@@ -37,8 +37,8 @@ At will—detect thoughts (DC 19), fear (DC 21), gaseous form, greater dispel ma
 
 #### Statistics
 
-**Str**33,**Dex**24,**Con**21,**Int**19,**Wis**18,**Cha** 24
-**Base Atk**+25;**CMB**+36;**CMD** 53
+**Str** 33, **Dex** 24, **Con** 21, **Int** 19, **Wis** 18, **Cha** 24
+**Base Atk** +25; **CMB** +36; **CMD** 53
 **Feats** Alertness, CleaveMF, Combat Casting, Combat ReflexesMF, Empower Spell-Like Ability (cloudkill), Flyby Attack, Great Cleave, Improved InitiativeMF, Intimidating ProwessMF, Lightning Reflexes, Multiattack, Power AttackMF, Quicken Spell-Like Ability (ray of enfeeblement)
 **Skills** Acrobatics +35 (+39 when jumping), Bluff +30, Diplomacy +30, Fly +35, Intimidate +46M, Knowledge (arcana) +26, Knowledge (planes) +15, Knowledge (religion) +15, Perception +36, Sense Motive +36, Spellcraft +29, Use Magic Device +32
 **Languages** Abyssal, Celestial, Common

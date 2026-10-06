@@ -372,7 +372,7 @@ Contest (target)
 **Frequency** 1 minute
 
 **COMPLETION**
-**Points**21 accumulated;**Scoring Event** Whenever a team fails a skill check to block, set, or strike, that team loses 1 point.
+**Points** 21 accumulated; **Scoring Event** Whenever a team fails a skill check to block, set, or strike, that team loses 1 point.
 
 **Foul** When a contestant commits a foul, their opposition scores 1 point.
 
@@ -401,7 +401,7 @@ Contest (striking/fielding)
 **Scoring Interval** 9 innings (1 cycle per team per inning)
 
 **COMPLETION**
-**Points**highest accumulated;**Scoring Event** Whenever a contestant manages to run from home plate to first plate, then from first plate to second plate, then second plate to third plate, and finally from third plate back to home plate, that contestant’s team scores 1 point. This doesn’t need to occur in a single cycle.
+**Points** highest accumulated; **Scoring Event** Whenever a contestant manages to run from home plate to first plate, then from first plate to second plate, then second plate to third plate, and finally from third plate back to home plate, that contestant’s team scores 1 point. This doesn’t need to occur in a single cycle.
 
 **SQ** block (ranged attack DC 18), catch (ranged attack DC 18), critical success (hit is an automatic home run; see initial play), dogpile, fake out (Acrobatics, Bluff, or Sleight of Hand), pass (ranged attack DC 18), strike (melee or ranged attack against the target player’s AC)
 
@@ -438,7 +438,7 @@ Contest (imperfect deterministic strategy)
 **Frequency** 1 minute
 
 **COMPLETION**
-**Points**7 casualties;**Scoring Event** Whenever a team’s siege engine is wrecked, that team loses 1 point.
+**Points** 7 casualties; **Scoring Event** Whenever a team’s siege engine is wrecked, that team loses 1 point.
 
 **DESCRIPTION**
 **Basic** In catapult, each team takes one set of 12-inch by 12-inch game boards, a divider, 7 siege engine miniatures (2 canons, 2 ballistae, 2 light catapults, and 1 heavy catapult), grid paper, a pencil, and a small container of boulder tokens. One game board is placed on the table, with the dividers placed between both teams’ boards to prevent cheating. The other game board is held in a contestant’s hand and is used (along with the grid paper and pencil) to keep track of the contestant’s guesses.
@@ -465,7 +465,7 @@ Contest (perfect stochastic strategy)
 **Scoring Period** 1 minute
 
 **COMPLETION**
-**Points**39 casualties;**Scoring Event** Whenever one of a team’s pieces is captured, the team loses points. The team loses 1 point when a pawn is captured, 3 points when a bishop or knight is captured, 5 points when a rook is captured, 9 points when the queen is captured, or 39 points when the king is captured.
+**Points** 39 casualties; **Scoring Event** Whenever one of a team’s pieces is captured, the team loses points. The team loses 1 point when a pawn is captured, 3 points when a bishop or knight is captured, 5 points when a rook is captured, 9 points when the queen is captured, or 39 points when the king is captured.
 
 **DESCRIPTION**
 **Basic** In chess, each team takes one set of colored chess pieces consisting of 16 pawns, 2 bishops, 2 knights, 2 rooks, a queen, and a king. The pieces are lined up on opposing sides of the chess board, arranged with the bishops, knights, rooks, queen, and king on the backmost lines and two rows of pawns in front of them. Teams take turns moving their pieces across the chess board, capturing each other’s pieces as they go by placing their piece into the same square as their opponent’s piece, at which point the piece’s owner removes it from play, losing points in the process.
@@ -491,7 +491,7 @@ Contest (judgment)
 **Scoring Interval** 4 phases (1 or more cycles per phase)
 
 **COMPLETION**
-**Completion**highest accumulated;**Scoring Event** Whenever a team attempts a skill check to earn completion, they score 1 point, plus 1 point for every 5 by which their skill check’s result exceeds its DC.
+**Completion** highest accumulated; **Scoring Event** Whenever a team attempts a skill check to earn completion, they score 1 point, plus 1 point for every 5 by which their skill check’s result exceeds its DC.
 **SQ** mishap (4d6 points); if using ingredients that she has never cooked with before, a contestant adds +10 to the DCs of all Perception, Profession [cook], and Survival checks made to earn completion during the skill challenge
 
 **DESCRIPTION**
@@ -529,7 +529,7 @@ Contest (target)
 **Frequency** 1 minute
 
 **COMPLETION**
-**Points**21 accumulated;**Scoring Event** At the end of each cycle, the team who managed to get a horseshoe closest to the peg scores 1 point, or 3 points if the closest horseshoe was a ringer.
+**Points** 21 accumulated; **Scoring Event** At the end of each cycle, the team who managed to get a horseshoe closest to the peg scores 1 point, or 3 points if the closest horseshoe was a ringer.
 **SQ** critical success (3 points)
 
 **DESCRIPTION**
@@ -557,7 +557,7 @@ Contest (grapple)
 **Scoring Interval** 10 cycles per contestant
 
 **COMPLETION**
-**Points**1 accumulated;**Scoring Event** The team with the contestant who pins the pig in the fewest number of cycles scores 1 point.
+**Points** 1 accumulated; **Scoring Event** The team with the contestant who pins the pig in the fewest number of cycles scores 1 point.
 **SQ** critical fumble (The pig escapes the contestant’s grasp, causing it to lose the grappled condition)
 
 **DESCRIPTION**
@@ -580,7 +580,7 @@ Contest (imperfect stochastic strategy)
 **Scoring Interval** 1 hand (5 betting cycles and 1 showdown cycle)
 
 **COMPLETION**
-**Points**highest accumulated;**Scoring Event** Contestants begin the game with a predetermined number of points, and earn points whenever they win a hand of poker.
+**Points** highest accumulated; **Scoring Event** Contestants begin the game with a predetermined number of points, and earn points whenever they win a hand of poker.
 **SQ** match (unlimited)
 
 **DESCRIPTION**
@@ -611,7 +611,7 @@ Contest (momentum)
 **Scoring Intervals** 4 events (10 cycles per event)
 
 **COMPLETION**
-**Points**highest accumulated;**Scoring Event** Whenever a team succeeds at a skill check to earn completion, that team scores 1 point, plus 1 point for every 5 by which the result of the check exceeded the check’s DC.
+**Points** highest accumulated; **Scoring Event** Whenever a team succeeds at a skill check to earn completion, that team scores 1 point, plus 1 point for every 5 by which the result of the check exceeded the check’s DC.
 **SQ** backlash (1 point), critical success (1d6 points), critical fumble (1d6 points); Contestants gain one play reaction per event during the skill challenge. If a contestant has the Combat Reflexes feat, they gain an additional number of play reactions per event equal to their Dexterity modifier. Contestants may still use the push self special action to make additional play reactions during an event.
 
 **DESCRIPTION**
@@ -638,7 +638,7 @@ Contest (recollection)
 **Scoring Intervals** 25 questions (1 question per team)
 
 **COMPLETION**
-**Points**highest accumulated;**Scoring Event** Whenever a team succeeds at a skill check to earn completion, that team scores 1 point.
+**Points** highest accumulated; **Scoring Event** Whenever a team succeeds at a skill check to earn completion, that team scores 1 point.
 
 **DESCRIPTION**
 **Basic** In trivia, teams take turns answering questions about a variety of topics ranging from historical events and local trivia to complex questions regarding science, philosophy, and magical studies. Contestants act as a team, with all contestants acting simultaneously in order to increase their team’s chances at success. Answering questions correctly causes teams to score points, and the team with the most points after all questions have been asked wins the contest.

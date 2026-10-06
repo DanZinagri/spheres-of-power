@@ -13,28 +13,28 @@ An eerie radiance, a glow unlike anything else, suddenly suffuses the area, brin
 XP 19,200
 Pathfinder Roleplaying Game Bestiary 4
 CN Huge ooze (alien, incorporeal, mythic, mythos)
-**Init**+12;**Senses** blindsense 120 ft.; Perception +18
+**Init** +12; **Senses** blindsense 120 ft.; Perception +18
 **Aura** confusing lassitudeMA (300 ft., DC 23)
 
 #### Defense
 
-**AC**29,**touch**29,**flat-footed** 19 (+11 deflection, +8 Dex, +2 dodge, –2 size)
+**AC** 29, **touch** 29, **flat-footed** 19 (+11 deflection, +8 Dex, +2 dodge, –2 size)
 **hp** 178 (12d8+124)
-**Fort**+11,**Ref**+14,**Will** +10
-**Defensive Abilities**amorphous, evasionMA, incorporeal; DR 10/epic;**Immune**acid, cold, fire, mind-affecting effects, ooze traits, poison, sonic;**SR** 26
+**Fort** +11, **Ref** +14, **Will** +10
+**Defensive Abilities** amorphous, evasionMA, incorporeal; DR 10/epic; **Immune** acid, cold, fire, mind-affecting effects, ooze traits, poison, sonic; **SR** 26
 **Weaknesses** susceptible to force effectsMA
 
 #### Offense
 
 **Speed** 30 ft., fly 50 ft. (perfect)
 **Melee** 2 disintegrating touchesMA +15 touch (8d6 plus staggered; DC 23)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** disintegrating flowMA, feedMA, mythic power (5/day, surge +1d8)
 
 #### Statistics
 
-**Str**—,**Dex**26,**Con**24,**Int**19,**Wis**23,**Cha** 25
-**Base Atk**+9;**CMB**+19;**CMD** 36 (can’t be tripped)
+**Str** —, **Dex** 26, **Con** 24, **Int** 19, **Wis** 23, **Cha** 25
+**Base Atk** +9; **CMB** +19; **CMD** 36 (can’t be tripped)
 **Feats** DodgeMF, Improved Initiative, Lightning Reflexes, MobilityMF, Spring AttackMF, Weapon Finesse
 **Skills** Fly +27, Knowledge (geography, nature, planes) +16, Perception +18, Stealth +12
 **Languages** Aklo (can’t speak)

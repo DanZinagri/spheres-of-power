@@ -13,14 +13,14 @@ This woman has frostbitten skin, white hair, and staff of ice decorated with bon
 XP 4,800
 Pathfinder Role Playing Game Bestiary 4
 CE Medium monstrous humanoid (cold, mythic)
-**Init**+1;**Senses** darkvision 60 ft., see invisibility, snow vision; Perception +18
+**Init** +1; **Senses** darkvision 60 ft., see invisibility, snow vision; Perception +18
 
 #### Defense
 
-**AC**23,**touch**11,**flat-footed** 22 (+1 Dex, +12 natural)
+**AC** 23, **touch** 11, **flat-footed** 22 (+1 Dex, +12 natural)
 **hp** 115 (10d10+60)
-**Fort**+8,**Ref**+8,**Will** +8
-**Defensive Abilities**DR 10/epic and magic;**Immune**cold;**SR** 21
+**Fort** +8, **Ref** +8, **Will** +8
+**Defensive Abilities** DR 10/epic and magic; **Immune** cold; **SR** 21
 **Weaknesses** vulnerable to fire
 
 #### Offense
@@ -37,10 +37,10 @@ At will—chill metal (DC 17), detect magic, fog cloud, frostbite, whispering wi
 
 #### Statistics
 
-**Str**17,**Dex**13,**Con**16,**Int**16,**Wis**13,**Cha** 20
-**Base Atk**+10;**CMB**+13;**CMD** 24
+**Str** 17, **Dex** 13, **Con** 16, **Int** 16, **Wis** 13, **Cha** 20
+**Base Atk** +10; **CMB** +13; **CMD** 24
 **Feats** Alertness, Blind-Fight, Combat Casting, Deceitful, Extra Mythic Power, Great FortitudeMF
-**Skills**Bluff +19, Craft (alchemy) +11, Diplomacy +10, Disguise +12, Intimidate +18, Knowledge (arcana) +8, Perception +18, Ride +9, Sense Motive +8, Spellcraft +8, Stealth +9 (+13 in snow);**Racial Modifiers** +4 Stealth in snow
+**Skills** Bluff +19, Craft (alchemy) +11, Diplomacy +10, Disguise +12, Intimidate +18, Knowledge (arcana) +8, Perception +18, Ride +9, Sense Motive +8, Spellcraft +8, Stealth +9 (+13 in snow); **Racial Modifiers** +4 Stealth in snow
 **Languages** Aklo, Common, Giant
 **SQ** ice staff, icewalking
 

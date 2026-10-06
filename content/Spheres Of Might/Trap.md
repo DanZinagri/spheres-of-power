@@ -50,7 +50,7 @@ A creature that fails its save against a tripwire snare falls prone. Once knocke
 
 #### Aerial Trigger [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 You can give your traps a trigger that extends to the air to affect flying creatures. Creatures up to 10 feet per rank in Craft (traps) over the area occupied by your traps can trigger them as normal.
 
@@ -58,7 +58,7 @@ If your trap would knock the flying creature prone, it is instead battered until
 
 #### Aimed Dart [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 Increase the range of your dart traps to medium (100 feet + 10 feet per rank of Craft (traps) you possess). In addition, you may augment your darts with one Sniper sphere (snipe) talent you possess.
 
@@ -72,13 +72,13 @@ You may increase the time required to place a trap by 2 steps (a move becomes a 
 
 #### Crowd Pleaser [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 Whenever an enemy triggers one of your placed traps within your line of sight, you may make an Intimidate check to demoralize them as an immediate action. If you possess the Gladiator sphere, you may perform a boast instead as a free action that may be taken even when it is not your turn.
 
 #### Dirty Traps [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 You may expend martial focus as an immediate action in order to place a Trap sphere trap in a viable square as part of a steal or dirty trick combat maneuver. You must be able to create the trap as part of the same action required to perform the maneuver in question and must still succeed on the check DC to set it up.
 
@@ -124,13 +124,13 @@ In addition you can expend your martial focus when placing a trap to not have th
 
 #### Sneaky Trapper [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 You know how to place traps in a discreet manner. When a creature has line of sight to and is within 30 feet of a trap you are placing, you may perform a Sleight of Hand check with a DC equal to 11 + the observer’s Perception modifier in order to place it without automatically making the observers aware of the trap’s existence, or granting them bonuses to locate or avoid the trap. If there are multiple observers within 30 feet, use the highest DC among them. If there are no creatures within 30 feet of the trap, you automatically succeed on this check.
 
 #### Stop Drop And Control [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 You can place a trap as part of a withdraw action. The trap must be one that requires no more than a standard action to place, and must be placed in an unoccupied space you moved through. You do not provoke any attacks of opportunity when placing this trap.
 
@@ -160,7 +160,7 @@ You can use Disable Device to disarm magic traps. In addition, you gain a +1 com
 
 #### Trap Launcher [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 You’re capable of setting traps at a distance. When placing a trap with a creation time of a standard action or less, you may increase the DC to create the trap by 10 in order to place the trap within the first range increment of a ranged weapon you are wielding. This is considered a ranged attack and as such provokes attacks of opportunity and is subject to conditions that affect ranged attacks (such as wind).
 
@@ -176,7 +176,7 @@ A snare trap may be employed against any creature within your natural reach and 
 
 #### Trapped Shield [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 You may place Trap sphere dart traps onto any shield (except a buckler) you’re wielding using a normal placement action. Whenever you are missed by a melee attack, you may trigger the trap as an immediate action, making the trap’s attack against the attacking creature. If you possess the Shield sphere, you may instead trigger the trap as a (deflect) ability.
 
@@ -202,13 +202,13 @@ You may reveal a plan to announce that a dart or snare trap was placed somewhere
 
 #### Barbed Dart (dart) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 This dart deals 1 point of bleed damage per die rolled to the target. This bleed damage cannot be healed unless the dart is removed as a full-round action. The creature can remove the dart as a swift action, but doing so deals 1d6 points of bleed damage.
 
 #### Blunt Dart (dart) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 This thick dart deals nonlethal bludgeoning damage and increases the dart’s damage dice by one step.
 
@@ -242,25 +242,25 @@ Rather than producing an effect on the triggering creature, this trap instead cr
 
 #### Bamboozling Trap (snare) [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 A creature that fails its Reflex save to avoid this snare is treated as if it was successfully affected by a feint. This counts as you performing the feint for the purposes of Fencing sphere talents that depend on feinting a target. Non-humanoids with an Intelligence score of 1 or 2 get a +4 bonus to Reflex saves against this trap and mindless creatures are still immune. If you possess the Unlikely Feint Fencing sphere talent, reduce the bonus to saves non-humanoids with an Intelligence score of 1 or 2 get to their saves to +2 and mindless creatures are vulnerable to this trap but gain a +4 bonus to their Reflex save.
 
 #### Bear Trap (snare) [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 A creature that fails its Reflex save to avoid this snare may not move from its current location unless it succeeds on a Strength or Escape Artist check against the trap’s DC or destroys the trap via damage. The affected creature also takes 1 bleed damage for every 8 ranks in Craft (traps) you possess (minimum 1). Treat this as an attack action performed by you for the purposes of Duelist sphere talents, such as dealing extra bleed damage, or determining which creatures are affected by this bleed (including (bleed) talents when applicable).
 
 #### Brutal Traps (snare) [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 A creature that fails its Reflex save to avoid this snare is subject to a bull rush as if the trap successfully beat their CMD by 1 +1 for every 2 ranks in Craft (traps) you possess. This counts as you performing the bull rush as a standard action for the purposes of Brute sphere abilities (a trap deals 1d4 damage with a Strength bonus of +0 for talents such as Smash). Creatures targeted by this trap get a +1 circumstance bonus on their saving throw for each size category they are larger than Medium.
 
 #### Disarming Traps (snare) [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 A creature that fails its Reflex save to avoid this snare is subject to a disarm maneuver as if the trap successfully beat their CMD. This counts as you performing the disarm maneuver for the purposes of Duelist sphere abilities that depend on you triggering the disarm. Creatures targeted by this trap get a +1 circumstance bonus on their saving throw for each size category they are larger than Medium.
 
@@ -318,7 +318,7 @@ The duration of the trap also decreases by 5 rounds each time it is triggered. O
 
 #### Terrain Trap (snare) [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 When a creature fails its Reflex save to avoid this snare, the snare creates an area of difficult terrain in a 10-foot + 5 feet per 5 ranks in Craft (trap) radius centered on one corner of one of the squares it occupies, as determined when this snare is set. You can choose to create such an effect even without creating a trap (treating this as a trap that’s immediately triggered).
 
@@ -328,7 +328,7 @@ You and allies you warn of this trap get a +5 to Reflex saves to avoid its effec
 
 #### Tricky Traps (snare) [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 A creature that fails its Reflex save to avoid this snare is subject to a dirty trick maneuver as if the trap successfully beat their CMD. This counts as you performing the dirty trick for the purposes of Scoundrel sphere abilities that depend on you triggering the dirty trick. Creatures targeted by this trap get a +1 circumstance bonus on their saving throw for each size category they are larger than Medium.
 
@@ -346,7 +346,7 @@ If you possess the Bee Keeper Beastmastery talent, you may expend martial focus 
 
 #### All Part Of The Plan [Apoc]
 
-**Source:** [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)
+*Source: [SA: Tricks & Traps](https://www.drivethrurpg.com/product/284083/Spheres-Apocrypha-Tricks-and-Traps?affiliate_id=549120)*
 
 **Prerequisites:** Craft (traps) 5 ranks, Trap sphere (Rapid Placement).
 

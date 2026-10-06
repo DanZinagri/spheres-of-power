@@ -13,20 +13,20 @@ This six-legged horror has a spider’s face and a fibrous stalk growing out of 
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 CE Tiny outsider (chaotic, evil, extraplanar, mythic, qlippoth)
-**Init**+1;**Senses** darkvision 60 ft., detect law, detect magic; Perception +5
+**Init** +1; **Senses** darkvision 60 ft., detect law, detect magic; Perception +5
 
 #### Defense
 
-**AC**15,**touch**13,**flat-footed** 14 (+1 Dex, +2 natural, +2 size)
+**AC** 15, **touch** 13, **flat-footed** 14 (+1 Dex, +2 natural, +2 size)
 **hp** 26 (3d10+10)
-**Fort**+1,**Ref**+6,**Will** +2
-**Defensive Abilities**DR 5/cold iron or lawful;**Immune**cold, mind-affecting effects, poison;**Resist** acid 10, electricity 10, fire 10
+**Fort** +1, **Ref** +6, **Will** +2
+**Defensive Abilities** DR 5/cold iron or lawful; **Immune** cold, mind-affecting effects, poison; **Resist** acid 10, electricity 10, fire 10
 
 #### Offense
 
 **Speed** 40 ft., fly 60 ft. (good)
 **Melee** bite +6 (1d6+1 plus 1d3 bleedMA and entrapping sporesMA)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** horrific appearance (10 feet, DC 9), mythic power (3/day, surge +1d6)
 
 **Spell-Like Abilities** (CL 6th, concentration +4)
@@ -36,8 +36,8 @@ Constant—detect law, detect magic, fly
 
 #### Statistics
 
-**Str**12,**Dex**12,**Con**11,**Int**11,**Wis**8,**Cha** 7
-**Base Atk**+3;**CMB**+2;**CMD** 13 (21 vs. trip)
+**Str** 12, **Dex** 12, **Con** 11, **Int** 11, **Wis** 8, **Cha** 7
+**Base Atk** +3; **CMB** +2; **CMD** 13 (21 vs. trip)
 **Feats** Extra Mythic PowerMF, Lightning Reflexes, Weapon Finesse
 **Skills** Acrobatics +7 (+11 jump), Fly +15, Knowledge (nature) +6, Knowledge (planes) +6, Perception +5, Stealth +15
 **Languages** Abyssal; telepathy (touch)

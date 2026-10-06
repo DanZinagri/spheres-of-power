@@ -13,26 +13,26 @@ This sleek-scaled draconic creature looks both regal and intelligent. A leather 
 XP 12,800
 Pathfinder Roleplaying Game campaign setting products
 LN Large dragon (alien, mythic)
-**Init**+2;**Senses** darkvision 60 ft., low-light vision, scent; Perception +14
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, scent; Perception +14
 
 #### Defense
 
-**AC**27,**touch**11,**flat-footed** 25 (+2 Dex, +16 natural, –1 size)
+**AC** 27, **touch** 11, **flat-footed** 25 (+2 Dex, +16 natural, –1 size)
 **hp** 165 (10d12+100)
-**Fort**+13,**Ref**+9,**Will** +8
-**Defensive Abilities**DR 5/epic;**Immune** dragon traits, fire, paralysis, sleep
+**Fort** +13, **Ref** +9, **Will** +8
+**Defensive Abilities** DR 5/epic; **Immune** dragon traits, fire, paralysis, sleep
 
 #### Offense
 
 **Speed** 40 ft., fly 120 ft. (average)
 **Melee** mwk glaive +17/+12 (2d8+10/x3), bite +17 (1d8+7) or bite +17 (1d8+7), 2 claws +16 (1d6+7)
-**Space**10 ft.;**Reach** 10 ft. (15 ft. with glaive)
+**Space** 10 ft.; **Reach** 10 ft. (15 ft. with glaive)
 **Special Attacks** breath weapon (30-ft. cone, 9d6 fire damage, Reflex DC 21 half, usable every 1d4 rounds), dragon bloodMA (1d6 fire), dragon furyMA (1d6 fire), mythic power (3/day, surge +1d8)
 
 #### Statistics
 
-**Str**24,**Dex**15,**Con**22,**Int**11,**Wis**12,**Cha** 17
-**Base Atk**+10;**CMB**+18;**CMD** 30
+**Str** 24, **Dex** 15, **Con** 22, **Int** 11, **Wis** 12, **Cha** 17
+**Base Atk** +10; **CMB** +18; **CMD** 30
 **Feats** Combat ReflexesMF, Flyby Attack, Power Attack, Vital StrikeMF, Weapon Focus (bite)
 **Skills** Bluff +16, Fly +17, Intimidate +16, Perception +14, Stealth +11, Survival +14
 **Languages** Common, Draconic

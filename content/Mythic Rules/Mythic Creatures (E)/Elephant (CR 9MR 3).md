@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (E)]]"
 XP 6,400
 Pathfinder Roleplaying Game Bestiary
 N Huge animal (mythic)
-**Init**+0;**Senses** low-light vision, scent; Perception +20
+**Init** +0; **Senses** low-light vision, scent; Perception +20
 
 #### Defense
 
-**AC**20,**touch**8,**flat-footed** 20 (+12 natural, –2 size)
+**AC** 20, **touch** 8, **flat-footed** 20 (+12 natural, –2 size)
 **hp** 128 (11d8+79)
-**Fort**+14,**Ref**+7,**Will** +6
+**Fort** +14, **Ref** +7, **Will** +6
 **Defensive Abilities** DR 10/epic
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** gore +16 (2d8+10 plus toss), slam +16 (2d6+10 plus grab)
-**Space**15 ft.;**Reach** 10 ft.
+**Space** 15 ft.; **Reach** 10 ft.
 **Special Attacks** mythic power (3/day, surge 1d6), thrashing trunkMA, tossMA, trample (2d8+15, DC 25)
 
 #### Statistics
 
-**Str**30,**Dex**10,**Con**21,**Int**2,**Wis**13,**Cha** 7
-**Base Atk**+8;**CMB**+20 (+22 bull rush, +24 grapple);**CMD** 30 (32 vs. bull rush, 34 vs. trip)
+**Str** 30, **Dex** 10, **Con** 21, **Int** 2, **Wis** 13, **Cha** 7
+**Base Atk** +8; **CMB** +20 (+22 bull rush, +24 grapple); **CMD** 30 (32 vs. bull rush, 34 vs. trip)
 **Feats** Endurance, Great FortitudeMF, Improved Bull Rush, Iron Will, Power AttackMF, Skill Focus (Perception)
 **Skills** Perception +20, Swim +14
 **SQ** jungle marchMA

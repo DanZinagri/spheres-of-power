@@ -455,8 +455,8 @@ The following magical items are especially appropriate for mageknights.
 
 #### Mystic Stone [TS:WAT]
 
-**Aura**faint Mana;**CL** 5th
-**Slot**slotless;**Price**15,000 gp;**Weight** 2 lbs.
+**Aura** faint Mana; **CL** 5th
+**Slot** slotless; **Price** 15,000 gp; **Weight** 2 lbs.
 
 This stone crackles with magical energies. When carried by a creature with the mystic combat class feature, a mystic stone provides the benefits of one mageknight mystic combat, chosen when this item is created. A creature can only benefit from one mystic stone at a time, and does not benefit from any mystic combats they do not meet the prerequisites for. Changing which mystic stone grants power to the user requires eight hours.
 
@@ -465,8 +465,8 @@ Craft Apparatus, Mana sphere, creator must know the mystic combat being used; **
 
 #### Permanent Indicator [TS:WAT]
 
-**Aura**moderate Illusion;**CL** 6th
-**Slot**none;**Price**18,000 gp;**Weight** 1/2 lbs.
+**Aura** moderate Illusion; **CL** 6th
+**Slot** none; **Price** 18,000 gp; **Weight** 1/2 lbs.
 
 This slender tube has an enchantment on one end, allowing it to be used for writing like a quill (except that it does not require ink). A creature can hold and use the permanent indicator while using the marked class feature; if they do so, they may expend one additional spell point when using marked to increase the duration of their mark to one hour. Taking out this item, using it, and putting it away again can be done as part of using the marked class feature as long as a creature is carrying it in a reasonably accessible location.
 
@@ -475,8 +475,8 @@ Craft Apparatus, Illusion sphere, creator must have the marked class feature; **
 
 #### Talisman Of Defiance [TS:WAT]
 
-**Aura**moderate Protection;**CL** 8th
-**Slot**neck;**Price**20,000 gp;**Weight** 1 lb.
+**Aura** moderate Protection; **CL** 8th
+**Slot** neck; **Price** 20,000 gp; **Weight** 1 lb.
 
 This slender talisman features a five-pointed star that represents five basic elements of magic surrounded by a circle representing the power of mortal will. When a creature wearing this talisman attempts a saving throw that would benefit from the resist magic class feature, they may spend an immediate action to double the bonus granted by the resist magic class feature after seeing their roll. Doing so reduces the benefit of the resist magic class feature to 0 for 1 minute; this also disables any other abilities that rely on resist magic, such as some mystic combats, until the ability regains its strength. A creature cannot benefit from more than one of these talismans at a time.
 

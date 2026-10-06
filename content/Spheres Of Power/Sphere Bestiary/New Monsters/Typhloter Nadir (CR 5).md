@@ -10,13 +10,13 @@ The typhloter nadir has a starfish like appearance with 6 appendages covered in 
 **Typhloter Nadir (CR 5)**
 XP 1,600
 CN Medium aberration
-**Init**+6;**Senses**darkvision 60 ft., detect scrying (40 ft.);**Perception** +17
+**Init** +6; **Senses** darkvision 60 ft., detect scrying (40 ft.); **Perception** +17
 
 **Defense**
-**AC**18,**touch**18,**flat-footed** 16 (+6 Cha, +2 Dex)
+**AC** 18, **touch** 18, **flat-footed** 16 (+6 Cha, +2 Dex)
 **hp** 45 (7d8+14)
-**Fort**+4,**Ref**+10,**Will** +7
-**Defensive Abilities**no breath, non-euclidean;**Immune**gaze attacks;**Resist** cold 15, fire 15
+**Fort** +4, **Ref** +10, **Will** +7
+**Defensive Abilities** no breath, non-euclidean; **Immune** gaze attacks; **Resist** cold 15, fire 15
 
 **Offense**
 **Speed** 30 ft., fly 60 ft. (average), swim 30 ft.
@@ -24,8 +24,8 @@ CN Medium aberration
 **Ranged** radiation blast +7 (1d6 fire, 1d6 untyped damage/x2), low radiation (poison) (Fortitude save, DC 18)
 
 **Magic**
-**Caster Level**3 (4 with Fire blast types);**MSB**+7,**MSD**18,**Concentration** +13
-**Tradition**none;**CAM** Cha
+**Caster Level** 3 (4 with Fire blast types); **MSB** +7, **MSD** 18, **Concentration** +13
+**Tradition** none; **CAM** Cha
 **Spell Points** 13
 
 **Destruction Sphere:** (blast type) Radiation Blast, Searing Blast
@@ -34,8 +34,8 @@ CN Medium aberration
 ◊ Searing Blast (d8 fire damage)
 
 **Statistics**
-**Str**14,**Dex**14,**Con**14,**Int**16,**Wis**14,**Cha** 22
-**Base Atk**+5;**CMB**+7;**CMD** 19
+**Str** 14, **Dex** 14, **Con** 14, **Int** 16, **Wis** 14, **Cha** 22
+**Base Atk** +5; **CMB** +7; **CMD** 19
 **Feats** Alertness, Focused Blast Type Group (Fire), Improved Initiative, Skill Focus (Perception)
 **Skills** Bluff +16, Fly +12, Intimidate +16, Knowledge (arcana) +13, Perception +17, Sense Motive +14, Spellcraft +13
 **Languages** Aklo; telepathy 60 ft.

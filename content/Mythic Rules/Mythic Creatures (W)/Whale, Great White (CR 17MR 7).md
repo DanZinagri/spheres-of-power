@@ -12,26 +12,26 @@ This immense whale has an enormous, box-shaped head over a massive, toothy maw. 
 **Mythic Great White Whale (CR 17/MR 7)**
 XP 102,400
 N Colossal magical beast (mythic)
-**Init**–2;**Senses**blindsight 120 ft., darkvision 60 ft., low-light vision;**Perception** +13
+**Init** –2; **Senses** blindsight 120 ft., darkvision 60 ft., low-light vision; **Perception** +13
 
 #### Defense
 
-**AC**35,**touch**0,**flat-footed** 35 (–2 Dex, +35 natural, –8 size)
+**AC** 35, **touch** 0, **flat-footed** 35 (–2 Dex, +35 natural, –8 size)
 **hp** 353 (18d10+254)
-**Fort**+24,**Ref**+9,**Will** +8; second saveMA
-**Defensive Abilities**DR 10/epic;**SR** 28MA
+**Fort** +24, **Ref** +9, **Will** +8; second saveMA
+**Defensive Abilities** DR 10/epic; **SR** 28MA
 
 #### Offense
 
 **Speed** swim 40 ft.
 **Melee** bite +30 (6d6+20/19–20/x3 plus grabMA), tail slap +25 (3d6+30)
-**Space**30 ft.;**Reach** 30 ft.
+**Space** 30 ft.; **Reach** 30 ft.
 **Special Attacks** capsize, fast swallowMA, smashing breach, swallow wholeMA (3d6+20 damage, AC 27, 35 hp)
 
 #### Statistics
 
-**Str**50,**Dex**6,**Con**33,**Int**10,**Wis**11,**Cha** 8
-**Base Atk**+18;**CMB**+46 (+48 bull rush);**CMD** 54 (can’t be tripped)
+**Str** 50, **Dex** 6, **Con** 33, **Int** 10, **Wis** 11, **Cha** 8
+**Base Atk** +18; **CMB** +46 (+48 bull rush); **CMD** 54 (can’t be tripped)
 **Feats** Breaching LeapMF, Critical FocusMF, Diehard, Great Fortitude, Improved Bull Rush, Improved Critical (bite)MF, Iron Will, Power AttackMF, Staggering Critical, Stunning Critical
 **Skills** Perception +13, Stealth +0, Swim +39
 **Languages** Aquan

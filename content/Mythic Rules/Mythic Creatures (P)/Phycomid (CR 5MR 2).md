@@ -11,15 +11,15 @@ parent: "[[Mythic Creatures (P)]]"
 XP 1,600
 Pathfinder Roleplaying Game Bestiary 2
 N Small plant (mythic)
-**Init**+1;**Senses** low-light vision, tremorsense 30 ft.; Perception +0
+**Init** +1; **Senses** low-light vision, tremorsense 30 ft.; Perception +0
 **Aura** acrid vaporMA (5 ft. DC 15)
 
 #### Defense
 
-**AC**20,**touch**12,**flat-footed** 19 (+1 Dex, +8 natural, +1 size)
+**AC** 20, **touch** 12, **flat-footed** 19 (+1 Dex, +8 natural, +1 size)
 **hp** 55 (6d8+28)
-**Fort**+7,**Ref**+3,**Will** +2
-**Defensive Abilities**DR 5/epic;**Immune** acid, plant traits
+**Fort** +7, **Ref** +3, **Will** +2
+**Defensive Abilities** DR 5/epic; **Immune** acid, plant traits
 
 #### Offense
 
@@ -30,8 +30,8 @@ N Small plant (mythic)
 
 #### Statistics
 
-**Str**5,**Dex**12,**Con**15,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+4;**CMB**+0;**CMD** 11 (can’t be tripped)
+**Str** 5, **Dex** 12, **Con** 15, **Int** —, **Wis** 11, **Cha** 1
+**Base Atk** +4; **CMB** +0; **CMD** 11 (can’t be tripped)
 **Feats** Rapid ShotMF, B
 
 #### Ecology
@@ -52,4 +52,4 @@ N Small plant (mythic)
 
 **Spores (Ex)** Any creature that takes damage from a phycomid’s acid pellet (or consumes even a small portion of the fungus) becomes exposed to the fungus’s spores. These spores grow quickly in living creatures. This affliction is a disease effect, although its course runs much faster than most diseases and is more poison-like in its speed, and like a poison, the spores “burn out” after a short period. A creature that is slain by a phycomid spore infestation bursts open in 1d4 rounds as a fully grown new phycomid emerges.
 
-*Phycomid Spores:* Disease—injury or ingested; **save**Fort DC 15;**frequency**1/round for 6 rounds;**effect**1d2 Con damage;**cure** 1 save. The save DC is Constitution-based.
+*Phycomid Spores:* Disease—injury or ingested; **save** Fort DC 15; **frequency** 1/round for 6 rounds; **effect** 1d2 Con damage; **cure** 1 save. The save DC is Constitution-based.

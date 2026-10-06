@@ -10,22 +10,22 @@ Peaceful island dwellers, menehune are seldom violent unless pressed. When threa
 **Menehune (CR 1/2)**
 XP 200
 NG Small fey
-**Init**+3;**Senses**low-light vision;**Perception** +5
+**Init** +3; **Senses** low-light vision; **Perception** +5
 
 **Defense**
-**AC**14,**touch**13,**flat-footed** 11 (+3 Dex, +1 size)
+**AC** 14, **touch** 13, **flat-footed** 11 (+3 Dex, +1 size)
 **hp** 5 (1d6+2)
-**Fort**+2,**Ref**+6,**Will** +2; +2 vs. illusions
+**Fort** +2, **Ref** +6, **Will** +2; +2 vs. illusions
 
 **Offense**
 **Speed** 30 ft.
 **Melee** dagger +3 (1d3+1/19–20)
 **Ranged** shortbow +3 (1d4)
-**Space**5 ft.,**Reach** 5 ft.
+**Space** 5 ft., **Reach** 5 ft.
 
 **Statistics**
-**Str**15,**Dex**16,**Con**15,**Int**12,**Wis**12,**Cha** 15
-**Base Atk**+0;**CMB**+1;**CMD** 14
+**Str** 15, **Dex** 16, **Con** 15, **Int** 12, **Wis** 12, **Cha** 15
+**Base Atk** +0; **CMB** +1; **CMD** 14
 **Feats** Point-Blank Shot
 **Skills** Acrobatics +7, Craft (carpentry) +5, Knowledge (engineering) +2, Perception +5, Perform (dance) +6, Perform (sing) +6, Stealth +15
 **Languages** Common, Sylvan

@@ -26,23 +26,23 @@ Whenever you take the withdraw action, you regain your martial focus.
 
 #### Climb
 
-You retain your Dexterity bonus to AC while climbing and may climb at half your base speed instead of one-quarter and may move at your full speed instead of half speed when taking a -5 penalty. **Associated Movement Mode:** Climbing.**Associated Skill:** Climb.
+You retain your Dexterity bonus to AC while climbing and may climb at half your base speed instead of one-quarter and may move at your full speed instead of half speed when taking a -5 penalty. **Associated Movement Mode:** Climbing. **Associated Skill:** Climb.
 
 #### Fly
 
-You do not need to make a Fly check to remain flying when moving less than half your speed on your turn and count as being one size larger when determining the effects of wind on you while flying. This does not give you the ability to fly; it simply augments your movement abilities if you possess a means of flight. You may gain ranks in the Fly skill even if you do not possess a means of flight. **Associated Movement Mode:** Flying.**Associated Skill:** Fly.
+You do not need to make a Fly check to remain flying when moving less than half your speed on your turn and count as being one size larger when determining the effects of wind on you while flying. This does not give you the ability to fly; it simply augments your movement abilities if you possess a means of flight. You may gain ranks in the Fly skill even if you do not possess a means of flight. **Associated Movement Mode:** Flying. **Associated Skill:** Fly.
 
 #### Leap
 
-You may reduce the effective height of any fall by 20 ft. on a successful DC 15 Acrobatics check rather than 10. In addition, the fall is reduced by an additional 10 ft. for every 10 points this check exceeds the target DC. **Associated Movement Mode:** Jumping.**Associated Skill:** Acrobatics.
+You may reduce the effective height of any fall by 20 ft. on a successful DC 15 Acrobatics check rather than 10. In addition, the fall is reduced by an additional 10 ft. for every 10 points this check exceeds the target DC. **Associated Movement Mode:** Jumping. **Associated Skill:** Acrobatics.
 
 #### Run
 
-You move five times your normal speed while running if wearing medium, light, or no armor and carrying no more than a medium load, or four times your speed if wearing heavy armor or carrying a heavy load. If you make a jump after a running start (see Acrobatics), you gain a +4 bonus on your check. You retain your Dexterity bonus to your Armor Class while running. **Associated Movement Mode:** Ground.**Associated Skill:** Acrobatics.**Associated Feat:** Run.
+You move five times your normal speed while running if wearing medium, light, or no armor and carrying no more than a medium load, or four times your speed if wearing heavy armor or carrying a heavy load. If you make a jump after a running start (see Acrobatics), you gain a +4 bonus on your check. You retain your Dexterity bonus to your Armor Class while running. **Associated Movement Mode:** Ground. **Associated Skill:** Acrobatics. **Associated Feat:** Run.
 
 #### Swim
 
-You may perform the charge and withdraw actions while swimming, and can make standard actions and attack actions without decreasing the duration for which you can hold your breath. A successful Swim check means you may move up to your base land speed as a full-round action (as opposed to 1/2 your base land speed) or 1/2 your base land speed as a move action (as opposed to 1/4th your base land speed). **Associated Movement Mode:** Swimming.**Associated Skill:** Swim.
+You may perform the charge and withdraw actions while swimming, and can make standard actions and attack actions without decreasing the duration for which you can hold your breath. A successful Swim check means you may move up to your base land speed as a full-round action (as opposed to 1/2 your base land speed) or 1/2 your base land speed as a move action (as opposed to 1/4th your base land speed). **Associated Movement Mode:** Swimming. **Associated Skill:** Swim.
 
 ---
 
@@ -62,7 +62,7 @@ Some talents have the (motion) tag. You cannot apply more than one talent with t
 
 You gain 5 ranks in the Profession (pilot) skill, plus 5 ranks per additional talent spent in the Athletics sphere (maximum ranks equal to your total Hit Dice). If you already have ranks in the Profession (pilot) skill you may immediately retrain them, but you do not get to retrain when only temporarily gaining talents, such as through the armiger’s customized weapons class feature. When piloting a vehicle, you may benefit from Athletics sphere abilities you possess, substituting your Profession (pilot) skill for any skill checks called for by those abilities. The piloted vehicle must still possess movements modes appropriate to the packages you possess.
 
-**Addendum [SUE]**: A manually-piloted *mechanoid* is treated as a piloted vehicle for the purposes of this talent.
+**Addendum [SUE]:** A manually-piloted *mechanoid* is treated as a piloted vehicle for the purposes of this talent.
 
 #### Acrocatics [Catgirl HB]
 
@@ -99,7 +99,7 @@ Unusually massive ranged weapons (such as a boulder or ballista bolts) and range
 
 #### Desperate Dive [Apoc]
 
-**Source:** [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)
+*Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
 When you would attempt a Reflex save that would affect both you and an adjacent ally, you can expend your martial focus to take the result of your die roll or that of your ally. If you take your ally’s result, you are knocked prone (or staggered on your next turn, if you are already prone or cannot be knocked prone). **Associated Feat:** Duck and Cover.
 
@@ -125,7 +125,7 @@ You can take 20 on any checks made to teach or aid creature’s using those skil
 
 #### Hasty Retreat [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When you use the Withdraw action, you may move up to four times your movement speed. If you spend martial focus when using the Withdraw action, you may move a distance equal to the amount that you would if you had used the Run action (you are limited to direction as normal for running). You do not regain martial focus for using the Withdraw action if you spent martial focus in this way.
 
@@ -159,7 +159,7 @@ You may ready an action to move up to your speed using a movement mode correspon
 
 #### Redirect Strike [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can expend your martial focus as an immediate action whenever a creature misses a melee attack against you to redirect the attack to another creature within the attacker’s reach (excluding the original attacker), using their original attack roll result when determining if the attack hits.
 
@@ -189,7 +189,7 @@ Whenever you succeed at an Acrobatics check to move through an opponent’s thre
 
 #### Stable Positioning (stance) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 As long as you remain in this stance, the total penalty to AC which you impose on yourself through actions (such as from charging, berserking, or using the Lunge feat) are reduced by 2. This reduction increases by 1 for every 5 ranks you possess in one of your associated skills. No such penalty can be reduced below 0. **Associated Feat:** Nimble Striker
 
@@ -271,7 +271,7 @@ If you are flying or swimming, whenever you make a successful attack action agai
 
 #### Armored Drop (leap) [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 While wearing medium or heavy armor, you may divert any damage taken from falling to your armor. Damage you redirect this way ignores your armor’s hardness, and you are still knocked prone if you would have taken fall damage without this talent. You suffer any damage in excess of your armor’s hit points. **Associated Feat:** Cushioning Armor
 
@@ -325,7 +325,7 @@ If you also possess the (climb) package, you may attempt to cling to the wall at
 
 #### Bewildering Blow (motion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 As long as you have martial focus, whenever you would successfully make an Acrobatics check to avoid provoking an attack of opportunity from an enemy when you move through its threatened area or its space, the enemy must succeed on a Will save or become battered for 1 round. If you move more than half your base speed, the battered condition lasts for 1 additional round for every 5 ranks in the skill associated with the package you possess.
 
@@ -347,7 +347,7 @@ When you successfully make an Acrobatics check to avoid provoking an attack of o
 
 #### Lightfoot (motion) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 You may move up to your full speed when making Acrobatics checks to move through a threatened square without increasing the DC. In addition, you may make Stealth checks at no penalty when moving up to your full speed.
 
@@ -479,7 +479,7 @@ You may ascend or descend up to 45 degrees as part of this movement, though asce
 
 #### Armored Apocalypse [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 **Prerequisites:** Acrobatics 10 ranks, Athletics sphere (Armored Drop x2, Debris, Titan’s Fall).
 
@@ -497,7 +497,7 @@ If you are carrying an ‘improved’ splash weapon created via the Alchemy sphe
 
 #### Debris [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 **Prerequisites:** Acrobatics 5 ranks, Athletics sphere (Armored Drop x2, Titan’s Fall).
 
@@ -519,7 +519,7 @@ Your fly speed increases to become equal to your base speed, and your maneuverab
 
 #### Earthswimmer (swim) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Athletics Sphere (swim package, terrain glide), Swim 5 ranks
 
@@ -591,7 +591,7 @@ If you possess the Strong Lungs talent, you can replace its usual bonus to round
 
 #### Stoneswimmer (swim) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Athletics Sphere (swim package, earthswimmer, terrain glide), Swim 10 ranks
 
@@ -599,7 +599,7 @@ As long as you have martial focus, you are treated as having the earth glide uni
 
 #### Surface Strider (run) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Athletics sphere
 
@@ -617,7 +617,7 @@ This talent does not grant the ability to see through earth nor to breathe witho
 
 #### Titan’s Fall [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents 2](https://www.drivethrurpg.com/product/374214/Spheres-Apocrypha-Armor-Talents-2?affiliate_id=549120)*
 
 **Prerequisites:** Acrobatics 5 ranks, Athletics sphere (Armored Drop x2).
 

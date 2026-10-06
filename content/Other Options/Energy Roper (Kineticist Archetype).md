@@ -11,7 +11,7 @@ Many kineticists have a preferred form for their kinetic blasts: some enjoy thro
 **Kinetic Tendril (Su):** At 1st level, the energy roper gains Kinetic Pin as a bonus feat, ignoring its prerequisites. By accepting the cost of a composite blast, they can use its damage in place of their simple blast’s damage when using this feat. In addition, they receive the following form infusion:
 
 > **Kinetic Tendril**
-> **Element(s)**universal;**Type**form infusion;**Level**1;**Burn** 0
+> **Element(s)** universal; **Type** form infusion; **Level** 1; **Burn** 0
 > **Associated blasts** any
 >
 > You form a lash out of elemental matter or energy and whip it toward your foe as a melee attack. Your blast’s damage die size is reduced by 1 step and its critical threat range is 19-20. It has a reach equal to your natural reach; this increases by 5 ft. at 4th level and every 4 levels thereafter (adding up to 25 ft. at 20th level). A kinetic tendril vanishes at the end of your turn unless it is being used to grapple a target. Kinetic tendril is considered a light weapon for the purposes of all feats, and as the kinetic blade infusion for Kinetic Proficiency, Improved Kinetic Proficiency, Defensive Kinetic Proficiency, and Kinetic Clutches. Telekinetic blasts used with this infusion cannot be used to throw objects or creatures.

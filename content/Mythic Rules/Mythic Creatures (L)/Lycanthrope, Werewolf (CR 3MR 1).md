@@ -13,13 +13,13 @@ This muscular creature has a man’s body but the snarling head and fur coat of 
 XP 800
 Pathfinder Roleplaying Game Bestiary
 CE Medium humanoid (human, mythic, shapechanger)
-**Init**+5;**Senses** low-light vision, scent; Perception +4
+**Init** +5; **Senses** low-light vision, scent; Perception +4
 
 #### Defense
 
-**AC**24,**touch**12,**flat-footed** 22 (+6 armor, +2 Dex, +5 natural, +1 shield)
+**AC** 24, **touch** 12, **flat-footed** 22 (+6 armor, +2 Dex, +5 natural, +1 shield)
 **hp** 31 (2d10+16); regeneration 1 (silver)
-**Fort**+6,**Ref**+2,**Will** +2 (+3 vs. fear)
+**Fort** +6, **Ref** +2, **Will** +2 (+3 vs. fear)
 **Defensive Abilities** bravery +1; DR 10/silver
 
 #### Offense
@@ -31,8 +31,8 @@ CE Medium humanoid (human, mythic, shapechanger)
 
 #### Statistics
 
-**Str**19,**Dex**15,**Con**17,**Int**8,**Wis**14,**Cha** 8
-**Base Atk**+2;**CMB**+6;**CMD** 18
+**Str** 19, **Dex** 15, **Con** 17, **Int** 8, **Wis** 14, **Cha** 8
+**Base Atk** +2; **CMB** +6; **CMD** 18
 **Feats** CleaveMF, Combat Reflexes, Improved Initiative, Power Attack
 **Skills** Climb +3, Diplomacy ─1 (+4 with wolves), Intimidate +4, Perception +4
 **Languages** Common, skintalker
@@ -50,13 +50,13 @@ CE Medium humanoid (human, mythic, shapechanger)
 XP 6,400
 Male human natural werewolf ranger 8
 CE Medium humanoid (human, shapechanger)
-**Init**+3 (+7 in forest);**Senses** bloodscent, low-light vision, scent; Perception +12 (+16 in forest)
+**Init** +3 (+7 in forest); **Senses** bloodscent, low-light vision, scent; Perception +12 (+16 in forest)
 
 #### Defense
 
-**AC**26,**touch**13,**flat-footed** 23 (+5 armor, +3 Dex, +8 natural)
+**AC** 26, **touch** 13, **flat-footed** 23 (+5 armor, +3 Dex, +8 natural)
 **hp** 136 (8d10+88); regeneration 4 (silver)
-**Fort**+13,**Ref**+11,**Will** +7
+**Fort** +13, **Ref** +11, **Will** +7
 **Defensive Abilities** fortification (25%), sovereign skin; DR 10/epic and silver
 
 #### Offense
@@ -72,10 +72,10 @@ CE Medium humanoid (human, shapechanger)
 
 #### Statistics
 
-**Str**16,**Dex**17,**Con**21,**Int**10,**Wis**12,**Cha** 10
-**Base Atk**+8;**CMB**+11;**CMD** 24
+**Str** 16, **Dex** 17, **Con** 21, **Int** 10, **Wis** 12, **Cha** 10
+**Base Atk** +8; **CMB** +11; **CMD** 24
 **Feats** Double Slice, EnduranceB, Exotic Weapon Proficiency (bastard sword), Improved Two-Weapon Fighting, Iron WillMF, Power AttackMF, Two-Weapon Fighting, Weapon Focus (bastard sword)
 **Skills** Climb +13, Diplomacy +0 (+8 with wolves), Intimidate +11, Knowledge (geography) +7 (+11 in forest), Knowledge (local) +4, Knowledge (nature) +7, Perception +12 (+16 in forest), Spellcraft +7, Stealth +13 (+17 in forest), Survival +12 (+16 in forest)
 **Languages** Common, skintalker
 **SQ** change shape (human, hybrid, and wolf; polymorph), favored terrain (forest +4, mountain +2), hunter’s bond (companions), lycanthropic empathy (wolves and dire wolves), swift tracker, track +4, wild empathy +8, woodland stride
-**Combat Gear**potion of cure serious wounds, silversheen (4);**Other Gear** +1 mithral chain shirt, +1 bastard sword, masterwork dagger, masterwork composite longbow (+3 Str) and 20 arrows, cloak of resistance +2, 163 gp.
+**Combat Gear** potion of cure serious wounds, silversheen (4); **Other Gear** +1 mithral chain shirt, +1 bastard sword, masterwork dagger, masterwork composite longbow (+3 Str) and 20 arrows, cloak of resistance +2, 163 gp.

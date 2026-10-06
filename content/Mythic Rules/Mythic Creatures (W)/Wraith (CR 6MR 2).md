@@ -13,15 +13,15 @@ This ghostly creature is little more than a dark shape with two flickering pinpo
 XP 2,400
 Pathfinder Roleplaying Game Bestiary
 LE Medium undead (incorporeal, mythic)
-**Init**+9MF;**Senses** darkvision 60 ft., lifesense; Perception +10
+**Init** +9MF; **Senses** darkvision 60 ft., lifesense; Perception +10
 **Aura** unnatural aura (30 ft.)
 
 #### Defense
 
-**AC**20,**touch**20,**flat-footed** 17 (+7 deflection, +3 Dex)
+**AC** 20, **touch** 20, **flat-footed** 17 (+7 deflection, +3 Dex)
 **hp** 68 (5d8+46)
-**Fort**+7,**Ref**+4,**Will** +6
-**Defensive Abilities**channel resistance +2, incorporeal; DR 5/epic;**Immune** undead traits
+**Fort** +7, **Ref** +4, **Will** +6
+**Defensive Abilities** channel resistance +2, incorporeal; DR 5/epic; **Immune** undead traits
 **Weaknesses** sunlight powerlessness
 
 #### Offense
@@ -32,8 +32,8 @@ LE Medium undead (incorporeal, mythic)
 
 #### Statistics
 
-**Str**—,**Dex**16,**Con**—,**Int**14,**Wis**14,**Cha** 23
-**Base Atk**+3;**CMB**+6;**CMD** 21
+**Str** —, **Dex** 16, **Con** —, **Int** 14, **Wis** 14, **Cha** 23
+**Base Atk** +3; **CMB** +6; **CMD** 21
 **Feats** Blind-Fight, Combat Reflexes, Improved InitiativeMF
 **Skills** Diplomacy +11, Fly +7, Intimidate +14, Knowledge (planes) +7, Perception +10, Sense Motive +10, Stealth +11
 **Languages** Common, Infernal

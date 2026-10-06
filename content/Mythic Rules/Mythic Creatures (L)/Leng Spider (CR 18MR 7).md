@@ -11,22 +11,22 @@ parent: "[[Mythic Creatures (L)]]"
 XP 153,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Huge magical beast (extraplanar, mythic)
-**Init**+40/+20MF, dual initiativeMA;**Senses** arcane sight, darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +21
+**Init** +40/+20MF, dual initiativeMA; **Senses** arcane sight, darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +21
 **Aura** frightful presenceMA (30 ft., DC 24, 5d6 rounds)
 
 #### Defense
 
-**AC**36,**touch**17,**flat-footed** 27 (+9 Dex, +19 natural, –2 size)
+**AC** 36, **touch** 17, **flat-footed** 27 (+9 Dex, +19 natural, –2 size)
 **hp** 302 (15d10+220); fast healing 10
-**Fort**+19,**Ref**+18,**Will** +10
-**Defensive Abilities**DR 10/epic;**Immune**cold, confusion and insanity effects, poison, sonic;**SR** 29
+**Fort** +19, **Ref** +18, **Will** +10
+**Defensive Abilities** DR 10/epic; **Immune** cold, confusion and insanity effects, poison, sonic; **SR** 29
 
 #### Offense
 
 **Speed** 40 ft., climb 40 ft.
 **Melee** mwk flail +22/+17/+12 (3d6+8), bite +16 (2d6+4 plus poison)
 **Ranged** mwk bolas +23 (1d8+8/x2), web strandMA +22 touch (entrap and pull)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** entrapMA (DC 27, 1d10 minutes, hardness 10, hp 30), mythic power (7/day, surge +1d10), mythic spell-like abilitiesMA, pullMA (web strand, 30 feet), transdimensional perceptionMA, web (+22 ranged, DC 27, 15 hp), web strandMA, web weaponry
 
 **Spell-Like Abilities** (CL 15th; concentration +22)
@@ -37,8 +37,8 @@ At will—dispel magic, fabricate (webs only)
 
 #### Statistics
 
-**Str**26,**Dex**29,**Con**30,**Int**21,**Wis**17,**Cha** 24
-**Base Atk**+15;**CMB**+25 (+27 trip);**CMD** 44 (56 vs. trip)
+**Str** 26, **Dex** 29, **Con** 30, **Int** 21, **Wis** 17, **Cha** 24
+**Base Atk** +15; **CMB** +25 (+27 trip); **CMD** 44 (56 vs. trip)
 **Feats** Combat Expertise, Combat ReflexesMF, Improved InitiativeMF, Improved TripMF, Iron WillMF, Point-Blank Shot, Precise Shot, Vital Strike
 **Skills** Acrobatics +27 (+31 when jumping), Climb +34, Craft (traps) +20, Knowledge (any one) +20, Perception +21, Spellcraft +20, Use Magic Device +21
 **Languages** Aklo; tongues
@@ -54,7 +54,7 @@ At will—dispel magic, fabricate (webs only)
 
 **Mythic Spell-Like Abilities (Su)** Three times per day when a mythic Leng spider uses a spell-like ability, it can expend one or more uses of its mythic power to duplicate the mythic version of that spell. It treats its mythic rank as its mythic tier for the purpose of augmenting spell-like abilities.
 
-**Poison (Su)**Bite—injury;**save**Fort DC 27;**frequency**1/round for 6 rounds;**effect**1d4 Con plus confusion for 1 round;**cure** 2 consecutive saves. A Leng spider’s venom causes flesh to blister and rot away and the mind to experience vivid and horrific hallucinations— these visions cause the poisoned creature to react in an unpredictable manner, as if confused. The hallucination element of this poison is mind-affecting. The save DC is Constitution-based.
+**Poison (Su)** Bite—injury; **save** Fort DC 27; **frequency** 1/round for 6 rounds; **effect** 1d4 Con plus confusion for 1 round; **cure** 2 consecutive saves. A Leng spider’s venom causes flesh to blister and rot away and the mind to experience vivid and horrific hallucinations— these visions cause the poisoned creature to react in an unpredictable manner, as if confused. The hallucination element of this poison is mind-affecting. The save DC is Constitution-based.
 
 **Slimy Webbing (Ex)** By expending one use of its mythic power as a swift or immediate action, a mythic Leng spider can alter the composition of the webs created by their web and web strand special abilities. Such webs have DR 15/–, 30 hp, and are immune to fire damage. This ability lasts 1 round, but the webs created by the mythic Leng spider during that round retain these properties for 24 hours.
 

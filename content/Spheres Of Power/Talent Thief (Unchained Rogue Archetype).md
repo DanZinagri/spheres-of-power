@@ -8,21 +8,21 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Class Skills
+## Class Skills
 
 The talent thief loses Knowledge (dungeoneering) (Int) and Perform (Cha) as class skills and gains Knowledge (arcana) (Int) and Spellcraft (Int) as class skills.
 
-### Casting
+## Casting
 
 At first level a talent thief may combine spheres and talents to create magical effects. A talent thief is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature).
 
 This replaces rogue’s edge.
 
-### Spell Pool
+## Spell Pool
 
 At first level a talent thief gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his class level + his casting ability modifier (minimum 1).
 
-### Shadow Theft
+## Shadow Theft
 
 At 4th level, whenever the talent thief confirms a critical hit on a melee attack that qualifies for sneak attack damage, he may forgo all sneak attack damage in order to steal the target’s shadow. He gains 1 temporary spell point for each die of his sneak attack. These temporary spell points do not stack with temporary spell points from other instances of this ability or any other source and expire after 1 round per caster level of the talent thief. The target becomes immune to all abilities that target its shadow until it returns, including additional uses of this ability. If the target has items in a shadow stash, they are inaccessible until the shadow returns. The target’s shadow returns when the temporary spell points are spent or expire. The talent thief may not gain more temporary spell points than the target has Hit Dice.
 
@@ -32,7 +32,7 @@ A creature that has had its shadow stolen cannot be the target of this ability a
 
 This replaces debilitating injury.
 
-### Arcane Larceny
+## Arcane Larceny
 
 At 10th level, when a talent thief steals a target’s shadow, he can opt to examine target’s repertoire of magic talents and temporarily steal one sphere possessed by the target and one sphere talent for every four sneak attack damage dice he possesses instead of gaining temporary spell points. The stolen sphere and talents last for 1 round per caster level, during which time the talent thief may spend his own spell points to use these talents as if he possessed them. The talent thief must meet any prerequisites to use stolen talents. The target loses access to the stolen talents, but not the basic ability of the stolen sphere, until the effect expires. If the target has the ability to shuffle magic talents, such as the Spiritualism hedgewitch tradition, arcane larceny does not prevent them from swapping stolen talents for new ones.
 

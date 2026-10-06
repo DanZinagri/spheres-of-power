@@ -84,7 +84,7 @@ When applying a shapeshift, you may spend 2 spell points to change your shapeshi
 
 **Prerequisites:** Alteration sphere, Size Change, 15th CL
 
-When using the Size Change talent, you may spend an additional spell point to increase the granted size to Gargantuan or decrease it to Fine. At CL 20, you may instead spend two additional spell points to increase the granted size to Colossal. See **Table: Enlarge**and**Table: Reduce** below for cumulative statistic changes:
+When using the Size Change talent, you may spend an additional spell point to increase the granted size to Gargantuan or decrease it to Fine. At CL 20, you may instead spend two additional spell points to increase the granted size to Colossal. See **Table: Enlarge** and **Table: Reduce** below for cumulative statistic changes:
 
 **Table: Enlarge**
 

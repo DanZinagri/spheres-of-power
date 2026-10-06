@@ -14,21 +14,21 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Ablative Fire [SA:MD2]
+#### Ablative Fire [SA:MD2]
 
 You do not gain the deadly shot ability and cannot select (snipe) talents or other talents that rely on deadly shot. You gain Targeted Assault with this drawback.
 
 **Incompatible:** Close Quarters Shooter
 
-## Close Quarters Shooter
+#### Close Quarters Shooter
 
 You may only perform a deadly shot within the first range increment of your ranged weapons, and treat the range increment of any ranged weapon used when making a deadly shot as 30 ft., unless it would normally be lower. You must take Push Shot with the bonus talent granted by this drawback.
 
-## Collateral Damage [SA:MD]
+#### Collateral Damage [SA:MD]
 
 You do not ignore the usual -4 penalty to shoot or throw ranged weapons at a creature engaged in melee. You do not treat Precise Shot as an associated feat, and cannot select this drawback if you gained the Sniper sphere instead of gaining Precise Shot. You gain Breaking Blast with this drawback.
 
-## Selective Targeting [SA:MD2]
+#### Selective Targeting [SA:MD2]
 
 You do not ignore the usual -4 penalty to shoot or throw ranged weapons at a creature engaged in melee. You do not treat Precise Shot as an associated feat, and cannot select this drawback if you gained the Sniper sphere instead of gaining Precise Shot. You gain Trap Technician with this drawback.
 

@@ -17,16 +17,16 @@ NE Gargantuan aberration (alien, mythic, mythos)
 
 #### Defense
 
-**AC**33,**touch**8,**flat-footed** 31 (+2 Dex, +25 natural, –4 size)
+**AC** 33, **touch** 8, **flat-footed** 31 (+2 Dex, +25 natural, –4 size)
 **hp** 279 (14d8+216)
-**Fort**+16,**Ref**+8,**Will** +12
-**Defensive Abilities**DR 15/epic and slashing;**Immune** acid, confusion, electricity, fire, insanity, poison
+**Fort** +16, **Ref** +8, **Will** +12
+**Defensive Abilities** DR 15/epic and slashing; **Immune** acid, confusion, electricity, fire, insanity, poison
 
 #### Offense
 
 **Speed** 50 ft., climb 30 ft.
 **Melee** 4 tentacles +19 (2d6+12/19–20/x3 plus grab), 4 bites +16 (2d6+6 plus poison)
-**Space**20 ft.;**Reach** 20 ft. (10 ft. with bites)
+**Space** 20 ft.; **Reach** 20 ft. (10 ft. with bites)
 **Special Attacks** aberrant vomitus, constrict (2d6+12), mythic power (8/day, surge +1d8), psychotic paralysis, trample (2d6+18, DC 29)
 
 **Spell-Like Abilities** (CL 14th; concentration +19)
@@ -37,10 +37,10 @@ At will—air walk, blight, diminish plants, meld into stone, soften earth and s
 
 #### Statistics
 
-**Str**34,**Dex**15,**Con**34,**Int**16,**Wis**17,**Cha** 21
-**Base Atk**+10;**CMB**+26 (+30 grapple);**CMD** 38 (can’t be tripped)
+**Str** 34, **Dex** 15, **Con** 34, **Int** 16, **Wis** 17, **Cha** 21
+**Base Atk** +10; **CMB** +26 (+30 grapple); **CMD** 38 (can’t be tripped)
 **Feats** Combat Reflexes, Extra Mythic PowerMF, Improved CriticalMF (tentacle), Improved InitiativeMF, Lightning Reflexes, Multiattack, Power Attack, Weapon Focus (tentacle)
-**Skills**Climb +20, Knowledge (dungeoneering, nature, religion) +17, Perception +20, Sense Motive +17, Spellcraft +20, Stealth +7 (+15 in forests);**Racial Modifiers** +8 Stealth in forests
+**Skills** Climb +20, Knowledge (dungeoneering, nature, religion) +17, Perception +20, Sense Motive +17, Spellcraft +20, Stealth +7 (+15 in forests); **Racial Modifiers** +8 Stealth in forests
 **Languages** Aklo
 **SQ** blackgate brandMA, communion of the Black GateMMA, divine disruptionMA, hibernation, seductive compulsionsMA, under the darkling moonMA
 
@@ -81,7 +81,7 @@ Creatures drawn into a Black Gate, even for a single round, receive a blackgate 
 
 **Hibernation (Ex)** A blackgate behemoth can enter a state of hibernation at will; doing so takes 1 minute. While in this state, it can take no actions and is effectively helpless, as if it were in a deep sleep. However, the duration of its Black Gate and any spell-like ability it has used on itself are extended as long as it remains hibernating, as if no time is passing. A behemoth can remain in hibernation for as long as it wishes—while in this state, it does not need to eat or drink, nor does it age. Time effectively stands still for a hibernating behemoth. If it is jostled or damaged while hibernating, or if a creature touches its Black Gate or attempts to decipher the writing on it, the behemoth can attempt a DC 20 Will save. If it succeeds, it awakens in 2d4 rounds. Otherwise, it takes 1d4 days to awaken from hibernation. A blackgate behemoth can set the length of its hibernation when it first enters this state, so that it can awaken after a set amount of time has passed. When awakening at a set time in this manner, a behemoth needs only 1d3 rounds to rouse itself, with no Will saving throw necessary.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 29;**frequency**1/round for 10 rounds;**effect**1d4 Dex drain (1 Dex damage on a successful save);**cure** 2 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; **save** Fort DC 29; **frequency** 1/round for 10 rounds; **effect** 1d4 Dex drain (1 Dex damage on a successful save); **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 **Psychotic Paralysis (Ex)** A creature reduced to 0 Dexterity by a blackgate behemoth’s poison is driven mad as the neurotoxic effluents of its bite attack its brain. Each day or fraction thereof that a creature remains unconscious at 0 Dexterity, it must succeed on a DC 29 Will save or gain a random form of insanity (see Sanity and Madness in Pathfinder Roleplaying Game GameMastery Guide).
 

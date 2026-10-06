@@ -38,4 +38,4 @@ Cultural customs and taboos hold immense power in fantasy worlds. The ancient gu
 
 **Path of Vengeance (Su):** A ritefury knows the exact direction to travel to reach a creature bearing its baleful mark.
 
-**Abilities:** Increase from the base creature as follows:**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the creature’s Constitution-based DCs),**Cha** +8 (+4 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to the DC of the creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the creature’s Constitution-based DCs), **Cha** +8 (+4 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to the DC of the creature’s Charisma-based DCs).

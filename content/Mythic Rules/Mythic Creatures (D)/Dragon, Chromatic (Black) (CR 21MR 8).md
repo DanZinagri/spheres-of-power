@@ -13,21 +13,21 @@ Hissing green acid drips from the fanged maw of this black-scaled, horned dragon
 XP 409,600
 Pathfinder Roleplaying Game Bestiary
 CE Gargantuan dragon (mythic, water)
-**Init**+0;**Senses** blindsense 60 ft., darkvision 120 ft., low-light vision, mistsightMA; Perception +30
+**Init** +0; **Senses** blindsense 60 ft., darkvision 120 ft., low-light vision, mistsightMA; Perception +30
 **Aura** acrid stenchMA (10 ft., 2d6 acid plus sickened, DC 29) , frightful presence (300 ft., DC 25)
 
 #### Defense
 
-**AC**44,**touch**6,**flat-footed** 44 (+38 natural, –4 size)
+**AC** 44, **touch** 6, **flat-footed** 44 (+38 natural, –4 size)
 **hp** 399 (22d12+256)
-**Fort**+21,**Ref**+13,**Will** +18
-**Defensive Abilities**DR 15/epic and magic;**Immune**acid, disease, dragon traits, nauseated, paralysis, poison, sickened, and sleep;**SR** 35
+**Fort** +21, **Ref** +13, **Will** +18
+**Defensive Abilities** DR 15/epic and magic; **Immune** acid, disease, dragon traits, nauseated, paralysis, poison, sickened, and sleep; **SR** 35
 
 #### Offense
 
 **Speed** 60 ft., fly 250 ft. (clumsy), swim 60 ft.
 **Melee** bite +33 (4d6+21/19–20 plus 4d6 acid and disease), 2 claws +32 (4d6+14/19–20), 2 wings +30 (2d6+7), tail slap +30 (2d8+21), gore +32 (2d8+14)
-**Space**20 ft.;**Reach** 20 ft. (30 ft. with bite)
+**Space** 20 ft.; **Reach** 20 ft. (30 ft. with bite)
 **Special Attacks** breath weapon (120-ft. line, 20d6 acid damage, Reflex half DC 31, usable every 1d4 rounds), caustic sputumMA, corrupt water, deadly spinesMA, fast swallowMA, jaws of decayMA, mythic power (8/day, 1d10), serpent servantsMA, swallow wholeMA (2d6+21 bludgeoning and 2d6 acid damage plus disease, AC 25, 39 hp)
 
 **Spell-Like Abilities** (CL 22nd; concentration +26)
@@ -43,10 +43,10 @@ Sorcerer Spells Known (caster level 11th; concentration +19)
 
 #### Statistics
 
-**Str**39,**Dex**10,**Con**27,**Int**18,**Wis**21,**Cha** 18
-**Base Atk**+22;**CMB**+40;**CMD** 50 (54 vs. trip)
+**Str** 39, **Dex** 10, **Con** 27, **Int** 18, **Wis** 21, **Cha** 18
+**Base Atk** +22; **CMB** +40; **CMD** 50 (54 vs. trip)
 **Feats** Ability Focus (breath weapon), Blinding Critical, Critical FocusMF, Devastating BreathMF, Improved Critical (bite), Improved Critical (claws), Improved Natural Attack (claws), Inescapable GraspMF, Jaws of DeathMF, Multiattack, Power Attack, Sickening Critical, Snatch, Weapon Focus (bite)
-**Skills**Acrobatics +25 (+37 when jumping), Climb +20, Fly +11, Intimidate +29, Knowledge (dungeoneering) +20, Knowledge (nature) +20, Perception +30, Sense Motive +30, Spellcraft +17, Stealth +13 (+17 in water or swamps), Survival +30, Swim +30, Use Magic Device +29;**Racial Modifiers** +12 Acrobatics when jumping, +4 Stealth in water or swamps
+**Skills** Acrobatics +25 (+37 when jumping), Climb +20, Fly +11, Intimidate +29, Knowledge (dungeoneering) +20, Knowledge (nature) +20, Perception +30, Sense Motive +30, Spellcraft +17, Stealth +13 (+17 in water or swamps), Survival +30, Swim +30, Use Magic Device +29; **Racial Modifiers** +12 Acrobatics when jumping, +4 Stealth in water or swamps
 **Languages** Aquan, Common, Draconic
 **SQ** intestinal fortitudeMA, speak with reptiles, swamp stride, water breathing
 
@@ -68,7 +68,7 @@ Sorcerer Spells Known (caster level 11th; concentration +19)
 
 **Deadly Spines (Ex)** A mythic ancient black dragon’s body, wings, and tail are covered in razor-sharp spines, allowing its wings and tail to deal both piercing and bludgeoning damage. In addition, its spiraling horns grant the dragon a gore attack as a secondary natural weapon. Creatures striking the dragon with a melee attack take 2d6 points of piercing damage unless using a reach weapon to attack. Creatures damaged by these spines also take 1 point of bleed damage, and as long as they are bleeding take a -2 penalty on saving throws against disease and effects that would cause them to become sickened or nauseated.
 
-**Disease (Su)**Bite—Injury;**save**Fort DC 29;**onset**immediate;**frequency**1 day;**effect**1d3 Str, 1d3 Dex, and 1d3 Con damage;**cure** 2 consecutive saves.
+**Disease (Su)** Bite—Injury; **save** Fort DC 29; **onset** immediate; **frequency** 1 day; **effect** 1d3 Str, 1d3 Dex, and 1d3 Con damage; **cure** 2 consecutive saves.
 
 **Intestinal Fortitude (Ex)** A mythic ancient black dragon is immune to disease, poison, and effects that would cause it to become nauseated or sickened.
 

@@ -8,21 +8,21 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Weapon and Armor Proficiency
+## Weapon and Armor Proficiency
 
 Time stalkers do not gain proficiency with shields of any type.
 
-### Rapid Study (Su)
+## Rapid Study (Su)
 
 From 1st level on, a time stalker may choose to take 1 point of Constitution damage when using his studied target ability to process information at a supernaturally rapid pace, reducing the time needed to use studied target by one step (move to swift, swift to free, immediate to a free action that can be taken even when it is not his turn).
 
-### Time Stalker (Su)
+## Time Stalker (Su)
 
 From 13th level on, the time stalker becomes completely immune to the negative effects of temporal magic. He cannot be slowed by the Time sphere’s Slow effect, the slow spell, or similar effects, nor can he be magically aged. Any other effect created by the Time sphere only affects the time stalker if he so chooses. Whenever a creature within 100 feet of the time stalker uses an ability such as Time Freeze from the Time sphere or the time stop spell, he may act freely during rounds of frozen time; he can damage the caster of the spell and the caster of the spell may damage him, but all other restrictions applicable to the caster of the effect apply to the time stalker as well.
 
 This replaces the instance of slayer’s advance gained at 13th level; the time stalker may use slayer’s advance 1/day at 17th level instead.
 
-### Erase From Time (Su)
+## Erase From Time (Su)
 
 Upon reaching 20th level, the time stalker gains the ability to erase his targets from the timeline, undoing their recent deeds and preventing them from being returned to life. As a standard action, the time stalker may make a single attack at his full attack bonus against a studied target; on a successful attack, the target must succeed at a Fortitude saving throw (DC 10 + the time stalker’s Intelligence modifier + 1/2 his class level) or be erased completely from the timeline.
 

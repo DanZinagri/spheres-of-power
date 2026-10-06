@@ -14,21 +14,21 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Bloody Slasher
+#### Bloody Slasher
 
 You do not gain the ability to perform disarm maneuvers without provoking attacks of opportunity against bleeding targets. You may not take (disarm) talents. You must take Long Cuts as the bonus talent gained from taking this drawback. You cannot have both this and the Disarming Duelist drawback.
 
-## Disarming Duelist
+#### Disarming Duelist
 
 You do not gain the ability to deal bleed damage with attacks and disarm attempts from the Duelist base sphere. You cannot take talents with the (bleed) descriptor. You must take Bind Weapon as the bonus talent gained from taking this drawback.
 
-## Scarred Duelist [SA:MD]
+#### Scarred Duelist [SA:MD]
 
 You do not gain the blooded strike ability. You cannot select (bleed) talents. You gain Scar Tissue with this drawback.
 
 **Incompatible:** Bloody Slasher, Disarming Duelist.
 
-## Sense Weakness [SA:MD2]
+#### Sense Weakness [SA:MD2]
 
 You do not gain the ability to perform disarm maneuvers without provoking attacks of opportunity against bleeding targets. You cannot select (disarm) talents. You gain Blooded Skeptic with this drawback.
 

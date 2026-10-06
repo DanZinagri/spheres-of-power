@@ -10,19 +10,19 @@ parent: "[[Feats]]"
 
 Combat feats are combat-related options, and most notably, they can be selected as bonus feats by a number of different classes.
 
-### Aligned Attacks (Combat)
+#### Aligned Attacks (Combat)
 
 **Prerequisites:** Non-neutral alignment, caster level 5th.
 
 **Benefit:** Choose one alignment you possess. Your natural attacks count as that alignment for the purposes of overcoming damage reduction. If your alignment changes, you may select a new non-neutral alignment that you possess in place of the originally chosen alignment. If you cease to possess a non-neutral alignment, you lose the benefits of this feat until you gain a non-neutral alignment. This is an extraordinary (Ex) ability.
 
-### Arcane Grip (Combat, Counterspell)
+#### Arcane Grip (Combat, Counterspell)
 
 **Prerequisites:** Counterspell, Improved Grapple.
 
 **Benefit:** When initiating a grapple, you may use the Counterspell feat as a free action. Resolve the counterspell attempt prior to applying the effects of freedom of movement, the Freedom word of the Fate sphere, and similar effects. Additionally, you are always entitled to attempt a Spellcraft check to identify such an effect on a creature within your reach as a free action.
 
-### Arcing Strike (Combat)
+#### Arcing Strike (Combat)
 
 **Prerequisites:** Destruction sphere (Guided Strike (blast shape)), caster level 11th.
 
@@ -30,19 +30,19 @@ You may spend a spell point to make your destructive blast fly in an erratic pat
 
 **Special:** If you possess the Divination sphere Viewing talent, you can use Arcing Strike to strike any target that you can see that is within range of both your destructive blast and your divination, as long as it is not inside a completely enclosed space (GM’s discretion).
 
-### Armored Casting (Combat)
+#### Armored Casting (Combat)
 
 **Prerequisite:** Light Armor Proficiency.
 
 **Benefit:** You may add the armor bonus from any armor you are wearing (but not armor enhancement bonus or natural armor bonus) to concentration checks made to cast defensively or while grappled. You must be proficient with the armor in question.
 
-### Augur Of Combat (Combat)
+#### Augur Of Combat (Combat)
 
 **Prerequisite:** Int 13.
 
 **Benefit:** As long as you are last in the initiative count, use your Intelligence modifier for attack rolls in place of the ability modifier that you would normally use.
 
-### Calculated Shot (Combat)
+#### Calculated Shot (Combat)
 
 Attack smarter, not harder.
 
@@ -50,31 +50,31 @@ Attack smarter, not harder.
 
 **Benefit:** You may use Focused Shot with any ranged weapon, not just bows or crossbows. You gain a +2 bonus to attack and damage rolls when using Focused Shot. If using Spheres of Might, this counts as a special attack action.
 
-### Champion’s Strike (Combat)
+#### Champion’s Strike (Combat)
 
 **Prerequisite:** Arcane Strike or Imbued Strike.
 
 **Benefit:** Your arcane strike or imbued strike is in effect at all times without you needing to take an action to activate it. In addition, when you use this ability with an attack action that only affects one target and has only one attack roll, the bonus on damage rolls for your strike is increased 100% for every +5 base attack bonus you possess.
 
-### Counterspelling Strike (Combat, Counterspell)
+#### Counterspelling Strike (Combat, Counterspell)
 
 **Prerequisites:** Counterspell, casting class feature, magic skill bonus +5.
 
 **Benefit:** Whenever you strike a target with a weapon attack, you may spend a spell point as an immediate action to attempt to dispel an existing magical effect on the target using your Counterspell ability, or multiple effects with your Improved or Greater Counterspell ability.
 
-### Deadly Targeting (Combat)
+#### Deadly Targeting (Combat)
 
 **Prerequisite:** Destruction sphere.
 
 **Benefit:** The base critical threat range of your destructive blast increases to 19-20.
 
-### Desensitized (Combat) [Cata. HB]
+#### Desensitized (Combat) [Cata. HB]
 
 Your experience with the horrific dulls the impact of atrocities.
 
 **Benefits:** Whenever you would take strain damage, that strain damage is reduced by 1 for every lesser severance you possess and by 3 for every greater severance you possess. This cannot reduce strain damage taken below 1.
 
-### Destructive Counter (Combat)
+#### Destructive Counter (Combat)
 
 **Prerequisites:** Creation sphere (any (material) talent).
 
@@ -82,13 +82,13 @@ Your experience with the horrific dulls the impact of atrocities.
 
 You must succeed at a magic skill check against the caster in question. If you succeed then the targeted effect is damaged. Reduce the damage the spell effect would deal by 1d6 per caster level (increasing to 1d8 per caster level plus your casting ability modifier if you possess Potent Alteration). If this would reduce the spell’s damage to 0, the effect ends when it reaches your square. If the targeted spell deals no damage, instead lower any save DC it might have by your casting ability modifier. If this would reduce the save DC to 9 or lower, the effect ends when it reaches your square. Any effect that would occur in or beyond your square is negated while any square the effect passed through prior to yours is affected normally.
 
-### Devourer (Combat)
+#### Devourer (Combat)
 
 **Prerequisites:** Alteration sphere (Serpentine Transformation (transformation)) or swallow whole ability, character level 10th.
 
 **Benefit:** When you are grappling a creature, once per round you may attempt to use your swallow whole ability as a free action. You gain a +2 competence bonus to CMB and CMD to make and resist grapple checks relating to the swallow whole ability. This is an extraordinary ability.
 
-### Disarming Transformation (Combat)
+#### Disarming Transformation (Combat)
 
 **Prerequisites:** Alteration sphere (Transform Object).
 
@@ -100,23 +100,23 @@ Alternatively, you may spend a spell point as a standard action to shapeshift a 
 
 The wielder cannot willingly reduce or deal nonlethal damage with this attack. Once the damage has been dealt, the effect is discharged. If you spend an additional spell point, the effect persists for 1 round per caster level, each attack after the first granting a Will save to end the effect.
 
-### Dodging Rally (Combat)
+#### Dodging Rally (Combat)
 
 **Benefit:** Whenever you are rallied, you receive a +4 dodge bonus to AC until the end of your next turn.
 
-### Elicit Strike (Combat)
+#### Elicit Strike (Combat)
 
 **Prerequisite:** Emotion class feature.
 
 **Benefit:** If you make a successful melee attack against an opponent, in addition to dealing your weapon damage, you can spend a swift action to deliver the effects of an emotion power delivered by touch.
 
-### Energy Snake (Combat)
+#### Energy Snake (Combat)
 
 **Prerequisites:** Destruction sphere (Energy Sphere (blast shape)).
 
 **Benefit:** When using the Energy Sphere blast shape, you may spend 2 spell points instead of 1 to form the energy sphere into a serpent, which grows with every target it damages. Whenever the energy sphere successfully deals damage to a target, its size increases by 1 5-foot square. When moving the energy sphere each round, its squares must be arranged contiguously in an arrangement that follows the movement of the ‘head’ of the serpent.
 
-### Extradimensional Gullet (Combat) [Alienist HB]
+#### Extradimensional Gullet (Combat) [Alienist HB]
 
 **Prerequisites:** Swallow whole, Alteration sphere (Serpentine Transformation (transformation)), or Death sphere (Tomb Of Flesh); Warp sphere (Extradimensional Room (space)).
 
@@ -126,25 +126,25 @@ You can continue to use swallow whole even after a creature cuts its way out. Wh
 
 If you die, the extradimensional space contracts, disgorging any swallowed creature into your corpse’s space.
 
-### Fear And Flame (Combat)
+#### Fear And Flame (Combat)
 
 **Prerequisites:** Destruction sphere (Fire Blast (blast type, fire)).
 
 **Benefit:** When a creature is set on fire by your destructive blast, they must succeed at a Will save each round they remain on fire or become shaken. If shaken, they become frightened. If frightened, they become panicked. A successful save reduces the severity by one step and ending the on fire condition ends the effects of this feat, though not fear conditions from other sources.
 
-### Frozen To The Bone (Combat)
+#### Frozen To The Bone (Combat)
 
 **Prerequisites:** Destruction sphere (at least one (blast type) talent that deals cold damage).
 
 **Benefit:** When using a destructive blast blast shape that allows a Reflex save with a blast type that deals cold damage, you may replace the Reflex save with a Fortitude save.
 
-### Gritting Teeth (Combat)
+#### Gritting Teeth (Combat)
 
 **Prerequisite:** Combat Stamina.
 
 **Benefit:** You can prepare yourself for harm if you have advance warning. As a swift action, you may spend 3 stamina points to give yourself resistance to one type of energy damage (acid, cold, electricity, fire, or sonic). This resistance is equal to your character level + your highest mental attribute modifier and lasts 1 minute. You may use this ability multiple times to give yourself resistance against different energy types.
 
-### Hardened Psyche (Combat) [Cata. HB]
+#### Hardened Psyche (Combat) [Cata. HB]
 
 Your experience with violence renders you resistant to mental stress.
 
@@ -152,19 +152,19 @@ Your experience with violence renders you resistant to mental stress.
 
 **Making Strain More Manageable:** The system of strain and severances is somewhat notorious for its brutality, especially against martial characters. If a GM feels that the strain mechanics are problematically punishing as they are written, they may grant characters the Hardened Psyche feat for free either to all characters or to non-spellcaster characters (the reasoning being that exposure to the unnatural makes your mind more vulnerable). Alternatively or perhaps in addition, all characters may be granted the Desensitized feat as a bonus feat, reflecting how experience makes them less vulnerable to horrific events.
 
-### Heavy Hand (Combat)
+#### Heavy Hand (Combat)
 
 **Prerequisites:** Destruction sphere (at least one (blast type) talent that deals nonlethal damage).
 
 **Benefit:** When using a destructive blast blast type that deals nonlethal damage, you may instead deal lethal bludgeoning damage, but your die size is reduced one step. Additionally, you gain a +1 insight bonus to attack rolls and save DCs with destructive blasts that deal nonlethal damage.
 
-### Imbued Strike (Combat)
+#### Imbued Strike (Combat)
 
 **Prerequisites:** Casting class feature, caster level 1st.
 
 **Benefit:** As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every +5 magic skill bonus you possess, this bonus increases by +1, to a maximum of +5. This ability counts as Arcane Strike for the purposes of qualifying or using feats, items, and abilities, and the bonus from this ability does not stack with the bonus from Arcane Strike. Any feat, item, or ability referencing the caster level of Arcane Strike instead uses the magic skill bonus. In addition, you are considered an arcane caster for the purpose of qualifying for feats that require Arcane Strike as a prerequisite.
 
-### Improved Assistance (Champion, Combat) [S&P]
+#### Improved Assistance (Champion, Combat) [S&P]
 
 You add a bit of extra aid when coordinating a technique.
 
@@ -174,7 +174,7 @@ You add a bit of extra aid when coordinating a technique.
 
 If you possess the Circle Casting feat, you may maintain that feat’s effects on the target so long as you are within range of the technique (rather than 30 feet).
 
-### Improved Chain Blast (Combat) [DbH]
+#### Improved Chain Blast (Combat) [DbH]
 
 The energy at your fingertips hungers for mass ruin.
 
@@ -182,13 +182,13 @@ The energy at your fingertips hungers for mass ruin.
 
 **Benefit:** The number of targets you may select with Chain Blast improves to 1 + your caster level (minimum 3). You may spend an additional spell point when using Chain Blast to force targets to make a Reflex save for half damage rather than making an attack roll against them. The chain stops as normal if a target takes no damage.
 
-### Improved Energy Leap (Combat)
+#### Improved Energy Leap (Combat)
 
 **Prerequisites:** Destruction sphere (Energy Leap (blast shape), Explosive Orb (blast shape)).
 
 **Benefit:** When you end your movement when using Energy Leap, you may choose to also deal your destructive blast damage in a burst centered on your square with a 5-foot radius, + 5 feet per 10 caster levels. Creatures that take damage from your energy leap do not suffer additional damage from the burst.
 
-### Improved Energy Wall (Combat)
+#### Improved Energy Wall (Combat)
 
 **Prerequisites:** Destruction sphere (Energy Wall (blast shape)).
 
@@ -196,7 +196,7 @@ The energy at your fingertips hungers for mass ruin.
 
 **Special:** If you possess the Demolition talent or apply a (blast type) talent that ignores hardness and deals full damage to objects, such as Shattering Blast or Disintegrate, treat the wall’s caster level as 3 higher for determining the effects of this feat.
 
-### Improved Spell Combat (Combat)
+#### Improved Spell Combat (Combat)
 
 **Prerequisites:** Casting class feature; any talent with the strike descriptor.
 
@@ -204,13 +204,13 @@ The energy at your fingertips hungers for mass ruin.
 
 **Author's Note:** "Instead" means if the spell effect is delivered with the first normal attack of your full attack action and not with the strike's "normal" attack; a spell delivered this way otherwise follows all the normal rules for a talent with the [strike] descriptor. This means that the Improved Spell Combat feat is not compatible with the Spell Attack champion feat.
 
-### Martial Aegis (Combat)
+#### Martial Aegis (Combat)
 
 **Prerequisites:** Protection sphere, base attack bonus +1.
 
 **Benefit:** When you create an aegis on yourself, you may use your base attack bonus as your caster level for the purpose of effect (but not duration). If you use a (succor) talent on this aegis, you may also use your base attack bonus as your caster level for the succor.
 
-### Martial Presence (Combat)
+#### Martial Presence (Combat)
 
 **Prerequisites:** Combat Stamina, base attack bonus +1.
 
@@ -220,25 +220,25 @@ For the purposes of the totem ability, use your base attack bonus in place of yo
 
 This is an extraordinary ability.
 
-### Martial Reflexes (Combat)
+#### Martial Reflexes (Combat)
 
 **Prerequisites:** Combat Stamina or a grit pool, ki pool, luck pool, or panache class feature; base attack bonus +1.
 
 **Benefit:** Choose a basic (rally) talent. You may rally yourself with this talent at any time by spending either 5 stamina points or one grit, ki, luck, or panache point for every spell point you would normally need to spend. If you do so, the rally is considered an extraordinary ability, and may be used within areas where magic does not function. For the purposes of this rally, you use your base attack bonus as your caster level and your highest mental ability for your casting ability, if you do not already possess a casting tradition. This ability is not a true rally and does not interact with other abilities that affect rallies.
 
-### Martial Totem (Combat)
+#### Martial Totem (Combat)
 
 **Prerequisites:** War sphere, base attack bonus +1.
 
 **Benefit:** When you create a totem, you may use your base attack bonus as your War caster level for purposes of effect (but not size or duration).
 
-### Melee Caster (Combat)
+#### Melee Caster (Combat)
 
 **Prerequisite:** Combat Casting.
 
 **Benefit:** When using a magic sphere effect as (or as part of) a melee attack or melee touch attack, the casting does not provoke an attack of opportunity.
 
-### Militant Animation (Combat)
+#### Militant Animation (Combat)
 
 **Prerequisites:** Enhancement sphere (Animate Object (enhance)), base attack bonus +1.
 
@@ -246,7 +246,7 @@ This is an extraordinary ability.
 
 **Normal:** Animated objects are mindless, and do not possess any feats.
 
-### Mind Over Matter (Combat)
+#### Mind Over Matter (Combat)
 
 **Prerequisites:** Mind sphere, caster level 5th.
 
@@ -256,7 +256,7 @@ In addition, by spending a spell point as a standard action, you may will your m
 
 This is treated as a supernatural ability. Any delayed damage can be taken at a point prior to the expiration of the delay by dismissing the effect, as if dismissing a spell. Healing received while damage is delayed can preemptively negate the damage before the effect ends if you wish. If an attack’s damage is negated entirely, secondary effects of the damage are also negated if the secondary effect would be negated through damage reduction.
 
-### Mystic Assault (Combat)
+#### Mystic Assault (Combat)
 
 **Prerequisites:** Casting class feature, base attack bonus +6.
 
@@ -264,49 +264,49 @@ This is treated as a supernatural ability. Any delayed damage can be taken at a 
 
 Using the sphere or supernatural ability provokes an attack of opportunity if it normally would, and if the ability is disrupted, the associated attack is lost but the remaining iterative attacks are not. You may decide after you have used your sphere or supernatural ability whether to spend the spell point and continue with your full-round attack or if you wish to take a move action instead.
 
-### Mystic Assault, Improved (Combat)
+#### Mystic Assault, Improved (Combat)
 
 **Prerequisite:** Mystic Assault.
 
 **Benefit:** You do not need to spend a spell point to use mystic assault.
 
-### Perpetual Sphere (Combat)
+#### Perpetual Sphere (Combat)
 
 **Prerequisites:** Destruction sphere (Energy Sphere (blast shape)).
 
 **Benefit:** Whenever you successfully deal damage to a target with your energy sphere, increase its duration by 1 round. You can only extend the sphere’s duration by up to a number of rounds equal to your Destruction caster level.
 
-### Pierce The Veil (Combat)
+#### Pierce The Veil (Combat)
 
 **Prerequisites:** Wis 13, base attack bonus +2.
 
 **Benefit:** When attacking a target with a miss chance granted from a spell, sphere effect, supernatural or spell-like ability, you may take a penalty to your attack roll to reduce the miss chance for that attack. Each -1 penalty to the attack roll you take reduces the miss chance by 10%. You cannot use this feat to take a penalty greater than half of your base attack bonus (rounded up).
 
-### Precision Bombardment (Combat)
+#### Precision Bombardment (Combat)
 
 **Prerequisites:** Creation sphere (Created Momentum).
 
 **Benefit:** When using create to drop objects on a target or attack them with Created Momentum and are doing so in a way that targets normal AC, you may treat the attack as a weapon attack roll for all purposes; you may apply feats to your attack as you could with any ranged weapon, and may treat creating and dropping a single object on a target as a standard action as an attack action. Dropping the object has its range increment increased to 40 feet just as when using it as a weapon. Additional damage from feats or talents such as Deadly Aim or Vital Strike is not multiplied based on hardness or falling distance.
 
-### Precogniscent Protection (Combat)
+#### Precogniscent Protection (Combat)
 
 **Prerequisites:** Divination sphere (one or more (sense) talents or abilities).
 
 **Benefit:** You gain an insight bonus to armor class equal to the number of senses from the Divination sphere you have active (maximum 1 + 1 per 5 Hit Dice). In addition, you may as an immediate action spend a spell point and dismiss a sense you have active to cause a critical hit against you to become a regular hit instead.
 
-### Precogniscent Resistance (Combat)
+#### Precogniscent Resistance (Combat)
 
 **Prerequisites:** Divination sphere (one or more (sense) talents or abilities).
 
 **Benefit:** You gain a resistance bonus to saves equal to the number of senses from the Divination sphere you have active (maximum 1 + 1 per 4 Hit Dice). In addition, you may as an immediate action spend a spell point and dismiss a sense you have active to reroll a saving throw you have failed.
 
-### Precogniscent Smite (Combat)
+#### Precogniscent Smite (Combat)
 
 **Prerequisites:** Divination sphere (one or more (sense) talents or abilities).
 
 **Benefit:** You gain an insight bonus to attack and damage equal to the number of senses from the Divination sphere you currently have active (maximum 1 + 1 per 5 Hit Dice). You may as an immediate action spend a spell point and dismiss a sense you have active to ignore a percentage of miss chance (maximum 5% + 5% per 5 Hit Dice) for 1 round.
 
-### Portal Combat (Combat) [DbH]
+#### Portal Combat (Combat) [DbH]
 
 Magical gateways are tools you can weaponize.
 
@@ -320,19 +320,19 @@ Magical gateways are tools you can weaponize.
 
 **Note: Moving Portals:** For any circumstance in which a portal would be moving (in a manner similar to that outline with Throw Portal), creatures in the way are allowed a Reflex save against your Warp sphere DC to avoid passing through the portal.
 
-### Pressure Point Proficiency (Combat)
+#### Pressure Point Proficiency (Combat)
 
 **Prerequisites:** Mind sphere, Improved Unarmed Strike.
 
 **Benefit:** By studying precisely where and how to strike your enemies, you can interrupt the biological processes that contribute to mental stability. If you make a successful unarmed strike against an opponent, it takes a -1 penalty to all Will saves until the end of your next turn. Multiple strikes you make against the same target do not stack, and the penalty to Will saves can apply to mind-affecting effects channeled through the strike.
 
-### Pressure Point Pugilist (Combat)
+#### Pressure Point Pugilist (Combat)
 
 **Prerequisites:** Mind sphere, Improved Unarmed Strike, Pressure Point Proficiency, character level 5th.
 
 **Benefit:** The penalty from Pressure Point Proficiency increases to -2 if you successfully hit the target a second time in the same round.
 
-### Rage Of The Grave (Combat)
+#### Rage Of The Grave (Combat)
 
 Your revenant-like anger fuels you even in death, granting you one last chance to take down your killers.
 
@@ -344,13 +344,13 @@ When the duration expires (assuming you were not destroyed while a fast zombie),
 
 You must have at least one round of rage remaining to use this ability, and you can only use this ability once per day.
 
-### Reach Blade (Combat)
+#### Reach Blade (Combat)
 
 **Prerequisites:** Destruction sphere, destructive blade class feature.
 
 **Benefit:** Your destructive blade may be shaped with the reach property. This property can be added or removed each time you shape the blade.
 
-### Ready Initiation (Champion, Combat, Teamwork) [S&P]
+#### Ready Initiation (Champion, Combat, Teamwork) [S&P]
 
 When one of your allies primes a technique, you respond immediately.
 
@@ -358,31 +358,31 @@ When one of your allies primes a technique, you respond immediately.
 
 **Benefit:** When multiple characters with this feat work together to initiate a multi-character technique, the technique is performed on the highest of the participants’ initiative counts rather than the lowest. All participants have their actions for the turn moved up to the initiative count where the technique is performed.
 
-### Rebuff, Improved (Combat)
+#### Rebuff, Improved (Combat)
 
 **Prerequisites:** Destruction sphere (Rebuff (blast shape)).
 
 **Benefit:** Whenever a creature within range is the target of a ranged attack, you may spend a spell point as an immediate action to target the projectile with a destructive blast. Make an opposed attack roll using your caster level in place of your base attack bonus to destroy the projectile and negate the attack. Unusually massive projectiles (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects are not affected by this ability.
 
-### Rebuff, Superior (Combat)
+#### Rebuff, Superior (Combat)
 
 **Prerequisites:** Destruction sphere (Rebuff (blast shape)), Improved Rebuff, improved evasion class feature.
 
 **Benefit:** When using the Rebuff talent to provide cover to allies, you also grant them the benefits of improved evasion.
 
-### Resolute Expertise (Combat) [Alienist HB]
+#### Resolute Expertise (Combat) [Alienist HB]
 
 **Prerequisite:** Combat Expertise.
 
 **Benefit:** Whenever you are benefiting from a dodge bonus to AC from Combat Expertise, you also gain a +1 competence bonus to saving throws. When your base attack bonus reaches +8, and every +8 thereafter, this bonus increases by +1.
 
-### Shape Expert (Combat)
+#### Shape Expert (Combat)
 
 **Prerequisites:** Destruction sphere (Energy Wall (blast shape) or Explosive Orb (blast shape)).
 
 **Benefit:** When using the Energy Wall (blast shape) talent without a spell point, increase the wall’s size to a 10-foot-by-10-foot wall, plus an additional 10 feet per 10 caster levels. When using the Explosive Orb (blast shape) talent without a spell point, the radius becomes 5 feet + 5 feet per 10 caster levels.
 
-### Skeletal Contortionist (Combat)
+#### Skeletal Contortionist (Combat)
 
 You have extreme control over your bones and joints, allowing you to respond to a variety of physical threats.
 
@@ -394,13 +394,13 @@ You have extreme control over your bones and joints, allowing you to respond to 
 - Add your casting ability modifier as an insight bonus to your CMB and CMD until the start of your next turn.
 - Ignore all penalties to attack rolls, AC, and movement for being prone until the start of your next turn.
 
-### Shifting Style (Combat) [Alienist HB]
+#### Shifting Style (Combat) [Alienist HB]
 
 **Prerequisites:** Transformation, customized weapons class feature.
 
 **Benefit:** You may assign each form you can take (including your base form) to a specific customized weapon you possess. You may reassign these forms whenever you gain an additional customized weapon, a new instance of the Transformation feat, or a feat with Transformation as a prerequisite. When you swap to that specific customized weapon, you may swap to the corresponding form as part of the same action. This does not require the form you are currently in to be able to draw or use the customized weapon you are swapping to.
 
-### Spell Absorption (Combat, Counterspell) [DbH]
+#### Spell Absorption (Combat, Counterspell) [DbH]
 
 You may bind yourself to an oncoming spell at great risk.
 
@@ -408,43 +408,43 @@ You may bind yourself to an oncoming spell at great risk.
 
 **Benefit:** When counterspelling an effect that would affect you and only you, you may roll twice and take the higher result on the magic skill check to counterspell. If you fail, you take a -2 penalty on your AC, spell resistance, and saving throws against the effect. When using Defend Other to redirect a spell from an ally to yourself, you may spend 2 spell points to attempt to Counterspell the effect as part of the action to use Defend Other.
 
-### Sunlight Strike (Combat)
+#### Sunlight Strike (Combat)
 
 **Prerequisites:** Light sphere; Arcane Strike or Imbued Strike.
 
 **Benefit:** Whenever you successfully hit an enemy that is vulnerable to light (such as by the light blindness, light sensitivity, or sunlight powerlessness universal monster rules) with a melee weapon you have imbued with your Arcane Strike or Imbued Strike feat, you deal an additional 1d6 points of damage to the target of your attack. The struck creature must also succeed at a Fortitude saving throw (DC 10 + 1/2 your character level + your Strength modifier) or become staggered for 1 round. This bypasses the immunity to Fortitude saves usually granted by some creature types.
 
-### Swarm Coordination (Combat)
+#### Swarm Coordination (Combat)
 
 **Prerequisites:** Alteration sphere (Swarm Shape).
 
 **Benefit:** When under the effects of the Swarm Shape talent, you may perform combat maneuvers in place of dealing swarm damage. You may choose individually to deal damage or perform a maneuver against each creature that would receive swarm damage and may perform different maneuvers against each creature. These maneuvers provoke attacks of opportunity as normal. You may also hold and carry objects while in swarm form, though may not wield weapons or activate magic items. You count as a Small creature for determining your size bonus on these maneuvers and for carrying capacity, increasing by one size per 5 caster levels. Additionally, you threaten the squares you occupy while in swarm form, but still may not deal swarm damage as an attack of opportunity.
 
-### Swarming Strike (Combat)
+#### Swarming Strike (Combat)
 
 **Prerequisites:** Coordination class feature, psionics class feature.
 
 **Benefit:** When using the coordination class feature, you may receive the bonus to damage from a number of allies equal to your casting ability modifier. This expends 3 rounds of your daily uses of psionic effects for the day.
 
-### Swift Warrior (Combat)
+#### Swift Warrior (Combat)
 
 **Prerequisite:** Time sphere.
 
 **Benefit:** When targeting yourself and only yourself with an alter time effect, you gain a +1 bonus to your caster level, increasing by +1 at 5 Hit Dice and every 4 Hit Dice thereafter (9, 13, 17). This bonus cannot cause your caster level to exceed your Hit Dice.
 
-### Tactical Aid (Combat) [S&P]
+#### Tactical Aid (Combat) [S&P]
 
 Your aid fortifies your ally’s martial capabilities.
 
 **Benefit:** Whenever you use the aid another action, you may choose to increase the target’s base attack bonus by 2 for the duration of the aid another action rather than providing the normal benefit. This ability cannot be affected by effects which would increase the benefit granted from aid another.
 
-### Technique Crafting (Combat) [S&P]
+#### Technique Crafting (Combat) [S&P]
 
 You have learned how to create elaborate and unique actions.
 
 **Benefit:** You gain the ability to create techniques, as per the technique rules.
 
-### Tether Adept (Combat)
+#### Tether Adept (Combat)
 
 **Prerequisites:** Destruction sphere (Energy Tether (blast shape)).
 
@@ -452,21 +452,21 @@ You have learned how to create elaborate and unique actions.
 
 You must have a free hand to use this ability. Blast types that carry a spell point cost do not incur that cost when using this feat. The anchoring object receives no damage nor other effects of your destructive blast.
 
-### Totem Tactics (Combat)
+#### Totem Tactics (Combat)
 
 **Prerequisite:** War sphere.
 
 **Benefit:** Allies inside any of your totems or sharing a mandate with you are treated as if they possessed the same teamwork feats as you for the purpose of determining whether you receive a bonus from those feats. Your allies do not receive any bonuses from these feats unless they actually possess the feats themselves. The allies’ positioning and actions must still meet the prerequisites listed in the teamwork feat for you to receive the listed bonus.
 
-### Totemic Stamina (Combat)
+#### Totemic Stamina (Combat)
 
 **Prerequisites:** War sphere, Combat Stamina.
 
 **Benefit:** When you create a totem or mandate, you may spend a stamina point each round to maintain it as a free action. You are still considered concentrating and can have your concentration disrupted as usual. You may maintain multiple effects this way. You can not recover the stamina points spent while the totem or mandate maintained this way remains in effect.
 
-### Two-Handed Fighting (Combat) [DRS]
+#### Two-Handed Fighting (Combat) [DRS]
 
-**Source:** Diamond Classes: Renowned Warrior and the Peach Tree Oath
+*Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
 **Prerequisites:** Str 15, Power Attack, base attack bonus +3.
 
@@ -478,9 +478,9 @@ In addition, you gain the ability to make a sweeping strike:
 
 **Example:** Chandou the Greatspear makes a single, mighty sweep against a foe within his threatened area. Chandou possesses the Two-Handed Fighting feat and chooses to make a sweeping strike against the enemies flanking him. Chandou makes a single attack roll, including any bonuses against their original target, and compares it against his original target but also his enemies in the other square. The original target is struck and takes damage normally, including increased damage from Chandou’s Strength modifier being doubled by the Two-Handed Fighting feat. The additional target only takes damage equal to Chandou’s Strength modifier and not his normal weapon damage, or increased Strength multiplier from this feat. If Chandou were fighting with a magic, flaming spear and had other miscellaneous bonuses to damage (such as from weapon training, favored enemy, etc.), those bonuses would not apply to secondary targets damaged by the sweeping strike.
 
-### Two-Handed Fighting, Improved (Combat) [DRS]
+#### Two-Handed Fighting, Improved (Combat) [DRS]
 
-**Source:** Diamond Classes: Renowned Warrior and the Peach Tree Oath
+*Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
 **Prerequisite:** Str 17, Power Attack, Two-Handed Fighting, base attack bonus +6.
 
@@ -488,9 +488,9 @@ In addition, you gain the ability to make a sweeping strike:
 
 In addition, whenever you make a sweeping strike, you may choose up to 2 spaces (instead of just 1). When dealing damage with a sweeping strike, you now also add your weapon’s enhancement bonus to the damage dealt (instead of only your Strength modifier).
 
-### Two-Handed Fighting, Greater (Combat) [DRS]
+#### Two-Handed Fighting, Greater (Combat) [DRS]
 
-**Source:** Diamond Classes: Renowned Warrior and the Peach Tree Oath
+*Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
 **Prerequisite:** Str 19, Power Attack, Two-Handed Fighting, Improved Two-Handed Fighting, base attack bonus +11.
 
@@ -500,9 +500,9 @@ In addition, whenever you make a sweeping strike, you may choose up to 3 spaces.
 
 **Example:** Chandou the Greatspear has the weapon training class feature and the favored enemy class feature. When making a sweeping strike, Chandou would add his weapon training bonus to the damage dealt with a sweeping strike and would add his favored enemy bonus as bonus damage against creatures which his favored enemy class feature would apply against.
 
-### Two-Handed Fighting, Perfect (Combat) [DRS]
+#### Two-Handed Fighting, Perfect (Combat) [DRS]
 
-**Source:** Diamond Classes: Renowned Warrior and the Peach Tree Oath
+*Source: Diamond Classes: Renowned Warrior and the Peach Tree Oath*
 
 **Prerequisite:** Str 23, Power Attack, Two-Handed Fighting, Improved Two-Handed Fighting, Greater Two-Handed Fighting, base attack bonus +21.
 
@@ -512,25 +512,25 @@ In addition, whenever you make a sweeping strike, you may choose up to 4 spaces.
 
 **Example:** Chandou the Greatspear is an epic-level warrior. Now that Chandou has the entire Two-Handed Fighting feat chain, his +3 holy flaming weapon’s enhancement bonus, as well as bonus damage from spells, class features, and miscellaneous sources, and from the flaming special weapon ability would apply to any targets struck by a sweeping strike. If a struck target would be susceptible to the bonus damage from the holy special weapon ability, that damage would also be dealt to the target.
 
-### Two-Headed Adept (Combat)
+#### Two-Headed Adept (Combat)
 
 **Prerequisites:** Alteration sphere (Additional Limbs) or multiple heads.
 
 **Benefit:** When you have more than one head you do not take two-weapon fighting penalties.
 
-### Two-Headed Sight (Combat)
+#### Two-Headed Sight (Combat)
 
 **Prerequisites:** Alteration sphere (Additional Limbs) or multiple heads.
 
 **Benefit:** When you have more than one head you are immune to flanking.
 
-### Venom Spitter (Combat)
+#### Venom Spitter (Combat)
 
 **Prerequisites:** Alteration sphere (Serpentine Transformation (transformation) or Vermin Transformation (transformation)), poison bestial trait, or racial poison ability.
 
 **Benefit:** You may spit your poison as a ranged touch attack with a range of 20 feet. Treat the poison as a contact poison for this feat. This is an extraordinary (Ex) ability.
 
-### Venomous Ichor (Combat)
+#### Venomous Ichor (Combat)
 
 **Prerequisites:** Alteration sphere (Serpentine Transformation (transformation) or Vermin Transformation (transformation)), poison bestial trait, or racial poison ability.
 
@@ -538,19 +538,19 @@ In addition, whenever you make a sweeping strike, you may choose up to 4 spaces.
 
 Additionally, you can apply your poison to a weapon or natural attack by dipping it in your own blood as a swift action. This requires dealing 1d4 damage to yourself as part of the swift action unless you suffer from an ongoing bleed effect or are below half your maximum hit points. This is an extraordinary (Ex) ability.
 
-### Venomous Soul (Combat)
+#### Venomous Soul (Combat)
 
 **Prerequisites:** Alteration sphere (Serpentine Transformation (transformation) or Vermin Transformation (transformation)), poison bestial trait, or racial poison ability.
 
 **Benefit:** You gain a +2 bonus to the DC of the poison granted by your bestial trait, shapeshift, or race and the cure now requires an additional save. This is an extraordinary (Ex) ability.
 
-### Warded Step (Combat)
+#### Warded Step (Combat)
 
 **Prerequisite:** Casting class feature.
 
 **Benefit:** Your sphere effects that cover an area (including darknesses, totems, and wards) are especially easy for you to move through. The area inside one of your sphere effects is never difficult terrain for you, and you receive a +4 circumstance bonus to AC vs. attacks of opportunity caused by moving through any square of a sphere effect you created.
 
-### Warrior-Disciple (Combat) [S&P]
+#### Warrior-Disciple (Combat) [S&P]
 
 In spite of your diverse magical training, your armed discipline still remains.
 
@@ -560,7 +560,7 @@ In spite of your diverse magical training, your armed discipline still remains.
 
 For example, a mageknight 10/forest lord 3 could take this feat choosing mageknight as its advanced casting class at its forest lord levels, causing the forest lord Hit Dice to become d10s, for the forest lord to grant full base attack bonus progression rather than normal 1/2 base attack bonus progression, and for the forest lord’s caster level progression to advance at 1/2 class level as per a mageknight.
 
-### Web Mastery (Combat)
+#### Web Mastery (Combat)
 
 **Prerequisites:** Alteration sphere (Vermin Transformation (transformation)) or web bestial trait.
 
@@ -568,7 +568,7 @@ For example, a mageknight 10/forest lord 3 could take this feat choosing magekni
 
 Additionally, as a full-round action, you may render a creature that is entangled by your web and within your reach helpless. Such a creature counts as being tied up, increasing the DC to escape to 20 + 1/2 of your Hit Dice + Constitution modifier. The helpless creature may still attempt Strength and Escape Artist checks to free themselves as normal.
 
-### Weird Assault (Combat)
+#### Weird Assault (Combat)
 
 **Prerequisites:** Illusion sphere (Decoy (glamer), Mage Feint), base attack bonus +3.
 
@@ -576,13 +576,13 @@ Additionally, as a full-round action, you may render a creature that is entangle
 
 **Special:** If you possess the Weird Defense feat, you may end its effect instead of suppressing two decoys to use the Mage Feint talent as a swift action
 
-### Weird Defense (Combat)
+#### Weird Defense (Combat)
 
 **Prerequisites:** Illusion sphere (Blur (glamer), Decoy (glamer)).
 
 **Benefit:** As a swift action, you may grant yourself a miss chance equal to 10% + 5% per 2 caster levels (maximum 95%) until the start of your next turn or until an attack misses due to this feat. Effects that ignore concealment only reduce this miss chance by half (rounded down). This is a spell-like ability. For abilities that allow for re-rolls for attacks that miss due to concealment such as the Blind-Fight feat, instead calculate the miss chance as 10% + 5% per 3 caster levels and reroll on a miss as per normal for the ability.
 
-### Weird Motion (Combat)
+#### Weird Motion (Combat)
 
 **Prerequisites:** Illusion sphere (Mage Feint), base attack bonus +3.
 

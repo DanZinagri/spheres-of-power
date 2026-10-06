@@ -13,13 +13,13 @@ In combat, omnimentals prefer to skirmish, weakening their enemy with blasts fro
 
 XP 600
 N Small outsider (elemental, extraplanar)
-**Init**+1;**Senses**darkvision 60 ft.;**Perception** +4
+**Init** +1; **Senses** darkvision 60 ft.; **Perception** +4
 
 **Defense**
-**AC**15,**touch**12,**flat-footed** 14 (+1 Dex, +3 natural, +1 size)
+**AC** 15, **touch** 12, **flat-footed** 14 (+1 Dex, +3 natural, +1 size)
 **hp** 11 (2d10)
-**Fort**+3,**Ref**+4,**Will** +0
-**Immune**elemental traits;**Resist** acid 5, cold 5, electricity 5, fire 5
+**Fort** +3, **Ref** +4, **Will** +0
+**Immune** elemental traits; **Resist** acid 5, cold 5, electricity 5, fire 5
 
 **Offense**
 **Speed** 30 ft., burrow 20 ft., swim 30 ft., fly 20 ft. (perfect)
@@ -28,8 +28,8 @@ N Small outsider (elemental, extraplanar)
 **Special Attacks** admixture (1), detonation (DC 11), natural destroyer
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +1
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +1
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 2
 
 **Destruction Sphere:** Admixture; (blast shape) Energy Strike; (blast type) Air Blast, Fire Blast, Frost Blast, Stone Blast
@@ -42,8 +42,8 @@ N Small outsider (elemental, extraplanar)
 ◊ Stone Blast (bludgeoning, ignores SR)
 
 **Statistics**
-**Str**10,**Dex**13,**Con**10,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+2;**CMB**+1;**CMD** 13
+**Str** 10, **Dex** 13, **Con** 10, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +2; **CMB** +1; **CMD** 13
 **Feats** Point-Blank Shot, Sphere Focus (Destruction), Weapon Finesse
 **Skills** Acrobatics +5, Climb +4, Escape Artist +5, Intimidate +4, Knowledge (planes) +1, Perception +4
 **Languages** Aquan, Auran, Ignan, Terran
@@ -64,13 +64,13 @@ N Small outsider (elemental, extraplanar)
 
 XP 1,200
 N Medium outsider (elemental, extraplanar)
-**Init**+3;**Senses**darkvision 60 ft.;**Perception** +7
+**Init** +3; **Senses** darkvision 60 ft.; **Perception** +7
 
 **Defense**
-**AC**16,**touch**13,**flat-footed** 13 (+3 Dex, +3 natural)
+**AC** 16, **touch** 13, **flat-footed** 13 (+3 Dex, +3 natural)
 **hp** 30 (4d10+8)
-**Fort**+6,**Ref**+7,**Will** +3
-**Immune**elemental traits;**Resist** acid 5, cold 5, electricity 5, fire 5
+**Fort** +6, **Ref** +7, **Will** +3
+**Immune** elemental traits; **Resist** acid 5, cold 5, electricity 5, fire 5
 
 **Offense**
 **Speed** 30 ft., burrow 20 ft., swim 30 ft., fly 20 ft. (perfect)
@@ -79,8 +79,8 @@ N Medium outsider (elemental, extraplanar)
 **Special Attacks** admixture (2), detonation (DC 13), natural destroyer
 
 **Magic**
-**Caster Level**2;**MSB**+4,**MSD**16,**Concentration** +5
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 2; **MSB** +4, **MSD** 16, **Concentration** +5
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 5
 
 **Destruction Sphere:** Admixture; (blast shape) Energy Leap, Energy Strike; (blast type) Air Blast, Fire Blast, Frost Blast, Stone Blast
@@ -94,8 +94,8 @@ N Medium outsider (elemental, extraplanar)
 ◊ Stone Blast (bludgeoning, ignores SR)
 
 **Statistics**
-**Str**10,**Dex**17,**Con**14,**Int**4,**Wis**11,**Cha** 13
-**Base Atk**+4;**CMB**+5;**CMD** 19
+**Str** 10, **Dex** 17, **Con** 14, **Int** 4, **Wis** 11, **Cha** 13
+**Base Atk** +4; **CMB** +5; **CMD** 19
 **Feats** Point-Blank Shot, Precise Shot, Sphere Focus (Destruction), Weapon Finesse
 **Skills** Acrobatics +8, Climb +5, Escape Artist +8, Intimidate +5, Knowledge (planes) +1, Perception +7
 **Languages** Aquan, Auran, Ignan, Terran
@@ -111,13 +111,13 @@ N Medium outsider (elemental, extraplanar)
 
 XP 2,400
 N Large outsider (elemental, extraplanar)
-**Init**+5;**Senses**darkvision 60 ft.;**Perception** +11
+**Init** +5; **Senses** darkvision 60 ft.; **Perception** +11
 
 **Defense**
-**AC**18,**touch**14,**flat-footed** 13 (+5 Dex, +4 natural, -1 size)
+**AC** 18, **touch** 14, **flat-footed** 13 (+5 Dex, +4 natural, -1 size)
 **hp** 60 (8d10+16)
-**Fort**+8,**Ref**+11,**Will** +4
-**DR**5/—,**Immune**elemental traits;**Resist** acid 5, cold 5, electricity 5, fire 5
+**Fort** +8, **Ref** +11, **Will** +4
+**DR** 5/—, **Immune** elemental traits; **Resist** acid 5, cold 5, electricity 5, fire 5
 
 **Offense**
 **Speed** 30 ft., burrow 20 ft., swim 30 ft., fly 20 ft. (perfect)
@@ -126,8 +126,8 @@ N Large outsider (elemental, extraplanar)
 **Special Attacks** admixture (4), detonation (DC 14), natural destroyer
 
 **Magic**
-**Caster Level**4;**MSB**+8,**MSD**19,**Concentration** +10
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 4; **MSB** +8, **MSD** 19, **Concentration** +10
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 12
 
 **Destruction Sphere:** Admixture, Extended Range; (blast shape) Energy Leap, Energy Strike; (blast type) Air Blast, Fire Blast, Frost Blast, Stone Blast
@@ -141,8 +141,8 @@ N Large outsider (elemental, extraplanar)
 ◊ Stone Blast (bludgeoning, ignores SR)
 
 **Statistics**
-**Str**14,**Dex**21,**Con**14,**Int**6,**Wis**11,**Cha** 15
-**Base Atk**+8;**CMB**+11;**CMD** 27
+**Str** 14, **Dex** 21, **Con** 14, **Int** 6, **Wis** 11, **Cha** 15
+**Base Atk** +8; **CMB** +11; **CMD** 27
 **Feats** Point-Blank Shot, Precise Shot, Extra Spell Pool, Improved Spell Combat, Sphere Focus (Destruction)B, Weapon FinesseB
 **Skills** Acrobatics +14, Climb +9, Escape Artist +12, Intimidate +9, Knowledge (planes) +5, Perception +11
 **Languages** Aquan, Auran, Ignan, Terran
@@ -158,13 +158,13 @@ N Large outsider (elemental, extraplanar)
 
 XP 4,800
 N Huge outsider (elemental, extraplanar)
-**Init**+5;**Senses**darkvision 60 ft.;**Perception** +7
+**Init** +5; **Senses** darkvision 60 ft.; **Perception** +7
 
 **Defense**
 **AC** 20, touch 15, flat-footed 13 (+7 Dex, +1 dodge, +5 natural, -2 size)
 **hp** 85 (10d10+30)
-**Fort**+10,**Ref**+14,**Will** +5
-**DR**5/—;**Immune**elemental traits;**Resist** acid 5, cold 5, electricity 5, fire 5
+**Fort** +10, **Ref** +14, **Will** +5
+**DR** 5/—; **Immune** elemental traits; **Resist** acid 5, cold 5, electricity 5, fire 5
 
 **Offense**
 **Speed** 40 ft., burrow 30 ft., swim 40 ft., fly 30 ft. (perfect)
@@ -173,8 +173,8 @@ N Huge outsider (elemental, extraplanar)
 **Special Attacks** admixture (5), detonation (DC 15), natural destroyer
 
 **Magic**
-**Caster Level**5;**MSB**+10,**MSD**21,**Concentration** +13
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 5; **MSB** +10, **MSD** 21, **Concentration** +13
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 15
 
 **Destruction Sphere:** Admixture, Extended Range; (blast shape) Energy Leap, Energy Strike, Explosive Orb; (blast type) Air Blast, Fire Blast, Frost Blast, Stone Blast
@@ -189,8 +189,8 @@ N Huge outsider (elemental, extraplanar)
 ◊ Stone Blast (bludgeoning, ignores SR)
 
 **Statistics**
-**Str**18,**Dex**25,**Con**16,**Int**6,**Wis**11,**Cha** 17
-**Base Atk**+10;**CMB**+16;**CMD** 34
+**Str** 18, **Dex** 25, **Con** 16, **Int** 6, **Wis** 11, **Cha** 17
+**Base Atk** +10; **CMB** +16; **CMD** 34
 **Feats** Point-Blank Shot, Precise Shot, Extra Spell Pool, Improved Spell Combat, Empower Spell, Sphere Focus (Destruction)B, Weapon FinesseB
 **Skills** Acrobatics +14, Climb +9, Escape Artist +12, Intimidate +9, Knowledge (planes) +5, Perception +11
 **Languages** Aquan, Auran, Ignan, Terran
@@ -206,13 +206,13 @@ N Huge outsider (elemental, extraplanar)
 
 XP 9,600
 N Huge outsider (elemental, extraplanar)
-**Init**+5;**Senses**darkvision 60 ft.;**Perception** +7
+**Init** +5; **Senses** darkvision 60 ft.; **Perception** +7
 
 **Defense**
-**AC**22,**touch**16,**flat-footed** 14 (+8 Dex, +6 natural, -2 size)
+**AC** 22, **touch** 16, **flat-footed** 14 (+8 Dex, +6 natural, -2 size)
 **hp** 123 (13d10+52)
-**Fort**+12,**Ref**+16,**Will** +6
-**DR**10/—;**Immune**elemental traits;**Resist** acid 5, cold 5, electricity 5, fire 5
+**Fort** +12, **Ref** +16, **Will** +6
+**DR** 10/—; **Immune** elemental traits; **Resist** acid 5, cold 5, electricity 5, fire 5
 
 **Offense**
 **Speed** 40 ft., burrow 30 ft., swim 40 ft., fly 30 ft. (perfect)
@@ -221,8 +221,8 @@ N Huge outsider (elemental, extraplanar)
 **Special Attacks** admixture (6), detonation (DC 21), natural destroyer
 
 **Magic**
-**Caster Level**6;**MSB**+13,**MSD**24,**Concentration** +18
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 6; **MSB** +13, **MSD** 24, **Concentration** +18
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 20
 
 **Destruction Sphere:** Admixture, Extended Range; (blast shape) Energy Leap, Energy Strike, Energy Wall; Explosive Orb; (blast type) Air Blast, Acid Blast, Electric Blast, Fire Blast, Frost Blast, Stone Blast, Thunder Blast)
@@ -241,8 +241,8 @@ N Huge outsider (elemental, extraplanar)
 ◊ Thunder Blast (sonic damage, deafened, Fortitude negates)
 
 **Statistics**
-**Str**24,**Dex**27,**Con**18,**Int**8,**Wis**11,**Cha** 21
-**Base Atk**+10;**CMB**+16;**CMD** 34
+**Str** 24, **Dex** 27, **Con** 18, **Int** 8, **Wis** 11, **Cha** 21
+**Base Atk** +10; **CMB** +16; **CMD** 34
 **Feats** Point-Blank Shot, Precise Shot, Extra Spell Pool, Improved Spell Combat, Empower Spell, Sphere Focus (Destruction), Weapon Finesse
 **Skills** Acrobatics +23, Climb +20, Escape Artist +21, Intimidate +15, Knowledge (planes) +10, Perception +16
 **Languages** Aquan, Auran, Ignan, Terran
@@ -258,13 +258,13 @@ N Huge outsider (elemental, extraplanar)
 
 XP 19,200
 N Huge outsider (elemental, extraplanar, air, earth, fire, water)
-**Init**+9;**Senses**darkvision 60 ft.;**Perception** +19
+**Init** +9; **Senses** darkvision 60 ft.; **Perception** +19
 
 **Defense**
-**AC**25,**touch**17,**flat-footed** 16 (+9 Dex, +8 natural, -2 size)
+**AC** 25, **touch** 17, **flat-footed** 16 (+9 Dex, +8 natural, -2 size)
 **hp** 152 (16d10+64)
-**Fort**+14,**Ref**+19,**Will** +9
-**DR**10/—;**Immune**elemental traits,**Resist** acid 5, cold 5, electricity 5, fire 5
+**Fort** +14, **Ref** +19, **Will** +9
+**DR** 10/—; **Immune** elemental traits, **Resist** acid 5, cold 5, electricity 5, fire 5
 
 **Offense**
 **Speed** 40 ft., burrow 30 ft., swim 40 ft., fly 30 ft. (perfect)
@@ -273,8 +273,8 @@ N Huge outsider (elemental, extraplanar, air, earth, fire, water)
 **Special Attacks** admixture (8), detonation (DC 24), natural destroyer
 
 **Magic**
-**Caster Level**8;**MSB**+16,**MSD**27,**Concentration** +22
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 8; **MSB** +16, **MSD** 27, **Concentration** +22
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 24
 
 **Destruction Sphere:** Admixture, Extended Range; (blast shape) Energy Leap, Energy Strike, Energy Tether, Energy Wall; Explosive Orb; (blast type) Air Blast, Acid Blast, Crystal Blast Electric Blast, Fire Blast, Frost Blast, Stone Blast, Thunder Blast)
@@ -295,8 +295,8 @@ N Huge outsider (elemental, extraplanar, air, earth, fire, water)
 ◊ Thunder Blast (sonic damage, deafened, Fortitude negates)
 
 **Statistics**
-**Str**26,**Dex**29,**Con**18,**Int**10,**Wis**11,**Cha** 23
-**Base Atk**+16;**CMB**+16;**CMD** 34
+**Str** 26, **Dex** 29, **Con** 18, **Int** 10, **Wis** 11, **Cha** 23
+**Base Atk** +16; **CMB** +16; **CMD** 34
 **Feats** Point-Blank Shot, Precise Shot, Extra Spell Pool, Improved Spell Combat, Empower Spell, Quicken Spell, Iron Will, Tether Adept, Sphere Focus (Destruction), Weapon Finesse
 **Skills** Acrobatics +28, Climb +27, Escape Artist +28, Intimidate +19, Knowledge (planes) +19, Perception +19
 **Languages** Aquan, Auran, Ignan, Terran

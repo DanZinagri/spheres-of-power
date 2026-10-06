@@ -13,21 +13,21 @@ With scales the color of the desert sky, this large, serpentine dragon moves wit
 XP 25,600
 Pathfinder Roleplaying Game Bestiary
 LE Huge dragon (earth, mythic)
-**Init**+4;**Senses** blindsight 60 ft., darkvision 120 ft., low-light vision, dragon senses; Perception +17
+**Init** +4; **Senses** blindsight 60 ft., darkvision 120 ft., low-light vision, dragon senses; Perception +17
 **Aura** frightful presence (120 ft., DC 18)
 
 #### Defense
 
-**AC**30,**touch**8,**flat-footed** 30 (+22 natural, –2 size)
+**AC** 30, **touch** 8, **flat-footed** 30 (+22 natural, –2 size)
 **hp** 200 (12d12+122)
-**Fort**+14,**Ref**+8,**Will** +10
-**Defensive Abilities**DR 10/epic;**Immune** dragon traits, electricity, paralysis and sleep
+**Fort** +14, **Ref** +8, **Will** +10
+**Defensive Abilities** DR 10/epic; **Immune** dragon traits, electricity, paralysis and sleep
 
 #### Offense
 
 **Speed** 40 ft., burrow 20 ft., fly 200 ft. (poor)
 **Melee** bite +21 (2d8+15), 2 claws +20 (2d6+10), 2 wings +18 (1d8+5), tail slap +18 (2d6+15)
-**Space**15 ft.;**Reach** 15 ft. (20 ft. with bite)
+**Space** 15 ft.; **Reach** 15 ft. (20 ft. with bite)
 **Special Attacks** bend boltMA, breath weapon (100-ft. line, 8d8 electricity damage, Reflex DC 22 for half, usable every 1d4 rounds), crush (2d8+12, DC 22), desert thirst, hissing sandMA, mythic power (5/day, surge 1d8), sand slumberMA, thunderous chargeMA
 
 **Spell-Like Abilities** (CL 12th; concentration +14)
@@ -39,8 +39,8 @@ At will—create water, ghost sound (DC 12), minor image (DC 14)
 
 #### Statistics
 
-**Str**31,**Dex**10,**Con**23,**Int**14,**Wis**15,**Cha** 14
-**Base Atk**+12;**CMB**+24;**CMD** 34 (38 vs. trip)
+**Str** 31, **Dex** 10, **Con** 23, **Int** 14, **Wis** 15, **Cha** 14
+**Base Atk** +12; **CMB** +24; **CMD** 34 (38 vs. trip)
 **Feats** Dazzling DisplayMF, HoverMF, Improved Initiative, Multiattack, Roaring BreathMF, Shatter Defenses, Weapon Focus (bite)
 **Skills** Appraise +7, Bluff +17, Fly +7, Intimidate +17, Knowledge (dungeoneering) +7, Knowledge (geography) +7, Knowledge (local) +7, Knowledge (nature) +7, Perception +17, Spellcraft +17, Stealth +7, Survival +7, Use Magic Device +17
 **Languages** Common, Draconic, Terran

@@ -98,7 +98,7 @@ The following magical armors have unique powers when worn by mythic characters.
 #### Cloudcloth Armor
 
 **Price** 29,205 gp
-**Slot**armor;**CL**10th;**Weight** ─
+**Slot** armor; **CL** 10th; **Weight** ─
 **Aura** moderate transmutation
 
 This +3 padded armor is quilted from soft white quilted cloth. The wearer gains mistsight and is always shrouded in a faint mist and gains a +5 bonus on Stealth checks in areas of mist, cloud, or fog. The wearer can assume gaseous form for a total of 10 minutes per day. Entering or leaving gaseous form is normally a move action; however, if the wearer falls more than 5 feet she automatically assumes gaseous form. A mythic wearer can assume mythic gaseous form by expending one use of mythic power when triggering this ability; this effect persists until the wearer resumes her normal form.
@@ -115,7 +115,7 @@ The wearer of cloudcloth armor can use this ability to force a creature in gaseo
 #### Cuirass of Miracles
 
 **Price** 77,750 gp
-**Slot**armor;**CL**13th;**Weight** 30 lbs.
+**Slot** armor; **CL** 13th; **Weight** 30 lbs.
 **Aura** strong evocation
 
 This +1 bolstering deathless determination breastplate is crafted of Elysian bronze, granting DR 2/─ against the natural weapons and unarmed strikes of monstrous humanoids and magical beasts. When worn by a mythic creature, the competence bonus granted by its bolstering property and the energy resistance and chance to ignore negative levels from its deathless property are doubled. When the armor’s determination ability is triggered, a mythic wearer adds her mythic rank or tier to the armor’s caster level to determine the healing granted by the breath of life effect, and the wearer can expend one use of mythic power to gain the benefit of mythic breath of life instead. If an ally within 30 feet is reduced below 0 hit points, the wearer can expend one use of her mythic power to transfer the armor’s determination ability to that ally, as long as the wearer can reach that ally within a number of rounds equal to one-half the wearer’s mythic tier (minimum 1 round) and touches that ally as a swift or move action. If the wearer expends two uses of mythic power, she instead grants the ally the effect of mythic breath of life.
@@ -128,7 +128,7 @@ Cuirass of miracles can also be used to store a reservoir of mythic power. The w
 #### Dragonmail
 
 **Price** 64,500 gp
-**Slot**armor;**CL**8th;**Weight** ─
+**Slot** armor; **CL** 8th; **Weight** ─
 **Aura** moderate abjuration
 
 This +3 dragon-defiant energy resistance banded mail is crafted from the hide of a mythic dragon. The armor’s dragon-defiant property applies against all dragons, though the specific type of energy resistance granted by the dragonmail is determined by the damage dealt by the breath weapon of the dragon from whose hide it was made. This energy resistance can apply to unusual damage types, such as negative energy damage, as long as they deal hit point damage, but it does not apply against negative levels or other harmful conditions or effects caused by breath weapons.
@@ -141,7 +141,7 @@ A mythic wearer adds his mythic rank or tier to the energy resistance granted by
 #### Earthenport Plate
 
 **Price** 70,350 gp
-**Slot**ring;**CL**18th;**Weight** ─
+**Slot** ring; **CL** 18th; **Weight** ─
 **Aura** strong abjuration
 
 This hulking suit of oversized armor is +3 stoneplate crafted of shining stone engraved with dwarven runes and effigies in relief. Activating the full power of the armor requires deciphering the runic engravings in Dwarven and Terran, requiring fluency in those languages as well as a DC 25 Linguistics check. Mythic creatures may add their rank or tier to this check, and dwarves may add twice their mythic rank or tier. Once these checks are made, the wearer can expend one use of mythic power while chanting for 1 minute to imbue the armor with either the invulnerability, titanic, or wild armor property for 24 hours. This ritual can be repeated at any time to switch the armor’s special ability to a different one of those listed. If the armor is taken off and another creature puts it on, the ability is lost unless the ritual is repeated by the new wearer.
@@ -162,7 +162,7 @@ The following magical weapons have unique powers when wielded by mythic characte
 #### Blade-Eating Battleaxe
 
 **Price** 21,010 gp
-**Slot**none;**CL**18th;**Weight** 6 lbs.
+**Slot** none; **CL** 18th; **Weight** 6 lbs.
 **Aura** strong abjuration
 
 This +1 adamantine battleaxe allows its wielder to make combat maneuver checks to sunder the weapons (or similar wielded objects) of two adjacent creatures as a standard action, making a separate combat maneuver check against each target. A mythic wielder can expend one use of mythic power to use a mythic surge, applying the result of the surge die to both sunder checks. A mythic wielder of 3rd tier or above can expend two uses of mythic power as a full-round action to attempt a sunder combat maneuver against the weapon of every creature he threatens. If he expends an additional use of mythic power, he can take a 5-foot step in the middle of his turn, making some of these sunder maneuvers before and some after the 5-foot step.
@@ -175,7 +175,7 @@ When an opponent attempts a combat maneuver check to disarm or sunder a blade-ea
 #### Kinslayer ’s Knife
 
 **Price** 46,308 gp
-**Slot**none;**CL**10th;**Weight** 2 lbs.
+**Slot** none; **CL** 10th; **Weight** 2 lbs.
 **Aura** moderate conjuration and transmutation
 
 This +2 keen kinslayerQC kukri shows the name of its current (or most recent) wielder written in blood on its black blade. Once per day, the wielder can use blood biographyAPG to learn information about the creature most recently wounded with the kinslayer’s knife. Once this ability is used, that creature’s name also appears written in blood on the knife’s blade. As long as that creature’s name is on the blade of the kinslayer’s knife, its kinslayer property also applies to blood relatives of that creature.
@@ -188,7 +188,7 @@ When a mythic wielder wounds a creature with a kinslayer’s knife, as a swift a
 #### Redflame Trollblade
 
 **Price** 56,335 gp
-**Slot**none;**CL**12th;**Weight** 6 lbs.
+**Slot** none; **CL** 12th; **Weight** 6 lbs.
 **Aura** strong conjuration and evocation
 
 This +1 flaming burst humanoid (giant) bane bastard sword is inlaid with red copper like licking flames down its blade. Its bane property is especially effective against trolls, increasing its enhancement bonus by +3 and adding 3d6 points of damage on each hit rather than the normal bane bonuses. A redflame trollblade glows yellow when orcs are within 120 feet, orange when giants are within 120 feet, and bright red when trolls are within 120 feet.
@@ -203,9 +203,9 @@ A redflame trollblade sends out an empathic call to trolls within 1 mile. They c
 #### Silverspark Longbow
 
 **Price** 71,500 gp
-**Slot**none;**CL**10th;**Weight** 3 lbs.
+**Slot** none; **CL** 10th; **Weight** 3 lbs.
 **Aura** moderate evocation
-**Int**10,**Wis**10,**Cha**10,**Ego**10,**AL:** NG.
+**Int** 10, **Wis** 10, **Cha** 10, **Ego** 10, **AL:** NG.
 
 A silverspark longbow possesses blindsense in a 30-foot radius and communicates by empathy. Each was crafted with the special purpose to slay evil arcane spellcasters (including evil creatures that possess spell-like abilities) and can sense the presence of such creatures within 60 feet, alerting its wielder to their presence.
 
@@ -225,7 +225,7 @@ The following magical rings have unique powers when worn by mythic characters.
 #### Gauss Ring
 
 **Price** 60,000 gp
-**Slot**ring;**CL**7th;**Weight** ─
+**Slot** ring; **CL** 7th; **Weight** ─
 **Aura** moderate evocation
 
 This ring of braided copper and crystal wire is typically unadorned with any stones. The wearer gains electricity resistance 20, and electricity damage prevented by this resistance is absorbed by the gauss ring, up to a maximum of 60 points per day. Each round as a swift action, the wearer can charge her melee attacks with stored electrical damage. While her melee attacks are charged in this way, she gains a +3 bonus on melee attack rolls against targets made of metal or that are wearing metal armor. If a charged melee attack hits, it deals an extra 1d6 points of electricity damage to the target, dissipating that charge. This electricity is dissipated without effect if she does not hit with a melee attack before the beginning of her next turn. If the wearer does not use this swift action while she has electricity stored in her gauss ring, she can discharge 1d6 points of electricity damage as an immediate action when she is struck with a natural weapon, unarmed strike, touch attack, or a melee attack with a metal weapon, dealing that damage to her attacker.
@@ -244,7 +244,7 @@ In addition, as a standard action, a mythic wearer can choose to discharge elect
 #### Ring of Returning
 
 **Price** 25,000 gp
-**Slot**ring;**CL**13th;**Weight** ─
+**Slot** ring; **CL** 13th; **Weight** ─
 **Aura** strong conjuration
 
 This ring is crafted from overlapping bands of several different precious metals. Once per day when the wearer uses a teleportation effect, he can attune the ring of returning to his point of origin. At any point within one minute of leaving that location by teleportation, the wearer can return to his point of origin as if he had cast the same teleportation effect he used to leave it, with no chance of error or arriving in a different location. The ring of returning only returns the wearer to his point of origin; other creatures that traveled there by teleportation do not return with him. A familiar, animal companion, or similar creature with the share spells ability may accompany the wearer when he returns, as long as it is touching the wearer. If 1 minute passes without activating the ring of returning, the attunement fades and its power cannot be used.
@@ -259,7 +259,7 @@ A ring of returning must be worn for 24 hours before its power can be used.
 #### Ring of Truth
 
 **Price** 50,000 gp
-**Slot**ring;**CL**7th;**Weight** ─
+**Slot** ring; **CL** 7th; **Weight** ─
 **Aura** moderate divination
 
 This ring of pure silver is usually unadorned or else set with small white stones. The wearer gains a +5 competence bonus on Sense Motive checks, Diplomacy checks to gather information, Linguistics checks to spot forgeries, and Perception checks made to oppose Disguise or Sleight of Hand checks.
@@ -276,7 +276,7 @@ Non-mythic creatures take a penalty on their saving throws equal to the wearer�
 #### Ring of Warmth
 
 **Price** 40,000 gp
-**Slot**ring;**CL**7th;**Weight** ─
+**Slot** ring; **CL** 7th; **Weight** ─
 **Aura** moderate abjuration
 
 The ring’s warmth flows through the wielder, granting her cold resistance 10, and whenever the wearer takes cold damage she begins healing 1 point of lethal and 1 point of nonlethal cold damage per round. This effect only heals cold damage taken while the ring of warmth was worn. Creatures adjacent to the wearer gain cold resistance 5 and gain the benefits of endure elements against cold environments only. Once per day, the wearer can dispel (as dispel magic) a spell with the cold descriptor by touch.
@@ -297,7 +297,7 @@ The following magical rods have unique powers when wielded by mythic characters.
 #### Gnarlthorn Rod
 
 **Price** 52,000 gp
-**Slot**─;**CL**11th;**Weight** 5 lbs.
+**Slot** ─; **CL** 11th; **Weight** 5 lbs.
 **Aura** moderate conjuration
 
 This gnarled rod of twisted bramble vines is topped with an enormous thistle, surrounded by writhing nettles and thorns.
@@ -312,7 +312,7 @@ In addition to its use as a weapon, the wielder of a gnarlthorn rod can use burs
 #### Pyroclastic Rod
 
 **Price** 46,000 gp
-**Slot**─;**CL**8th;**Weight** 4 lbs.
+**Slot** ─; **CL** 8th; **Weight** 4 lbs.
 **Aura** moderate evocation
 
 This hexagonal rod of black basalt is shot through with tiny cracks glowing with orange light and radiates intense heat that burns any non-mythic creature wielding it for 1d4 points of fire damage per round. The rod can be wielded as a +1 flaming light mace, and the wielder can dispel spells with the cold descriptor once per day (as per dispel magic) by touching the rod to the spell effect.A mythic wielder can use this ability more than once per day by expending one use of her mythic power per use after the first, and may also expend two uses of her mythic power as an immediate action to use this ability to counterspell a spell with the cold descriptor.
@@ -327,7 +327,7 @@ In addition, once per day when the wielder creates a fire effect while wielding 
 #### Rod of Spell Focusing
 
 **Price** 22,000 gp
-**Slot**─;**CL**6th;**Weight** 3 lbs.
+**Slot** ─; **CL** 6th; **Weight** 3 lbs.
 **Aura** moderate universal
 
 This crystalline rod is graven with magical runes representing the eight schools of magic and the four primal energy types of acid, cold, electricity, and fire, and it aids in focusing magical energies of the school or energy to which it is attuned. Attuning the rod is a full-round action that requires expending one use of mythic power and casting any spell of the desired school, causing the rune corresponding to its school of magic or type of energy to glow faintly. The spell is absorbed by the rod of spell focusing and has no other effect, but the wielder of the rod is treated as if she possessed either the Elemental Focus feat for that type of energy or the Spell Focus feat for that school of magic. This choice is made when the spell is cast into the rod and cannot be changed later, though a new spell can be cast into the rod of spell focusing at any time. If the wielder is a mythic creature and possesses the same Elemental Focus or Spell Focus feat, she instead is treated as if she had the Mythic Elemental Focus or Mythic Spell Focus feat, as appropriate.
@@ -340,7 +340,7 @@ The wielder can use detect magic at will, though this detects only magic of the 
 #### Rod of Defoliation
 
 **Price** 35,000 gp
-**Slot**─;**CL**7th;**Weight** 12 lbs.
+**Slot** ─; **CL** 7th; **Weight** 12 lbs.
 **Aura** moderate necromancy
 
 This gnarled and blighted cudgel seems ready to flake away at a touch, yet it is surprisingly stout and heavy, never cracking despite its superficial rot. A rod of defoliation can be wielded as a +1 plant bane greatclub, but a wielder using the total defense action can instead wield it as a +1 plant defiant heavy wooden shield.
@@ -363,7 +363,7 @@ The following magical items have unique powers when worn or wielded by mythic ch
 #### Arcanamach’s Vambrace
 
 **Price** 16,000 gp
-**Slot**wrists;**CL**5th;**Weight** 1 lb.
+**Slot** wrists; **CL** 5th; **Weight** 1 lb.
 **Aura** faint transmutation
 
 This bracer of leather is embossed with mithral plates and links of mithral wire. The wearer can cast magic vestment once per day, and if the wearer targets a suit of armor or shield she is wearing or wielding, it is treated as mithral for the purpose of arcane spell failure and its armor check penalty for as long as the magic vestment effect lasts. In addition, an arcanamach’s vambrace grants a spellcaster with the Arcane Strike feat a number of benefits. When activating her Arcane Strike feat, she may choose to add the feat’s bonus to combat maneuver checks or to her CMD instead of as a bonus to damage. In addition, if she uses the aid another action to improve an ally’s Armor Class while using Arcane Strike, her ally adds the wearer’s Arcane Strike bonus as a deflection bonus to its AC until the beginning of the wearer’s next turn.
@@ -378,7 +378,7 @@ A mythic wearer can activate the Arcane Strike feat once per round as a free act
 #### Book of the Banned
 
 **Price** 14,000 gp
-**Slot**none;**CL**5th;**Weight** 3 lbs.
+**Slot** none; **CL** 5th; **Weight** 3 lbs.
 **Aura** faint illusion and transmutation
 
 This spellbook is coated in iridescent leather that changes color depending on the direction from which it is seen. A book of the banned can be commanded to create a secret page once per day by a character who knows the proper command word. A second command word can alter the book’s appearance, similar to a suit of armor with the glamered property, though the book must always appear as some sort of written work and its actual size and weight do not change.
@@ -391,7 +391,7 @@ When a mythic wizard uses the book’s secret page power, he can inscribe a spel
 #### Bullroarer’s Bugle
 
 **Price** 16,000 gp
-**Slot**none;**CL**1st;**Weight** 1 lb.
+**Slot** none; **CL** 1st; **Weight** 1 lb.
 **Aura** faint evocation
 
 First crafted ages ago for a halfling war hero, a bullroarer’s horn can be used to sound a call as horn of pursuitUM once per day, and allies of the horn-sounder are affected as bless while enemies of the sounder are affected as bane (DC 11), with each effect centered on the horn.
@@ -406,7 +406,7 @@ If the sounder of a bullroarer’s bugle is a mythic creature, allies hearing it
 #### Crown of Iron Sorcery
 
 **Price** 88,000 gp
-**Slot**head;**CL**10th;**Weight** 3 lbs.
+**Slot** head; **CL** 10th; **Weight** 3 lbs.
 **Aura** moderate evocation
 
 This battered circlet resembles a twisted serpent with two heads, clutching a blackened crystal between their jaws. The wearer’s arcane spell failure chance from wearing metal armor or wielding a metal shield is decreased by 10%; this applies separately to armor and shield. In addition, if the wearer is wearing magical metal armor or wielding a magical metal shield, he gains DR/cold iron equal to the combined enhancement bonus of his armor and shield. This property of a crown of iron sorcery does not apply when wearing mithral armor or wielding a mithral shield.
@@ -423,7 +423,7 @@ A mythic wearer reduces arcane spell failure from metal armor and shields by an 
 #### Diamond of Everwinter
 
 **Price** 60,000 gp
-**Slot**neck;**CL**9th;**Weight** 1 lb.
+**Slot** neck; **CL** 9th; **Weight** 1 lb.
 **Aura** moderate abjuration and evocation
 
 This icy blue-white diamond is cold to the touch and mounted on a mithral chain. Crafted by an ancient cabal of winter witches and frost wizards, a diamond of everwinter protects its wearer from extremes of temperature as endure elements and allows the wearer to go without food and water as a ring of sustenance, and icy or snowy terrain do not impede the wearers movement; he moves at full speed in icy and sn. owy terrain, and the terrain does not impose penalties on Acrobatics or Climb checks.
@@ -442,7 +442,7 @@ Each time a creature gains a new mythic tier while possessing a diamond of everw
 #### Errant’s Gage
 
 **Price** 12,000 gp
-**Slot**hands;**CL**7th;**Weight** 2 lbs.
+**Slot** hands; **CL** 7th; **Weight** 2 lbs.
 **Aura** moderate enchantment
 
 This leather gauntlet is sewn with a light steel mesh, but when worn with armor it adapts to match the appearance of the wearer’s armor and any other glove worn. When the wearer activates an ability that designates a specific creature that she threatens as the target of the wearer’s wrath, such as a cavalier’s challenge, paladin’s smite evil, or ranger’s quarry, she can make an unarmed strike with the errant’s gage against that creature as part of the action used to activate that ability. The hand wearing the errant’s gage must be free to make this attack, which is made using the wielder’s highest attack bonus and without penalties for two-weapon fighting. A blow with the errant’s gage is considered magical for the purpose of overcoming damage reduction.
@@ -457,7 +457,7 @@ If the wearer is a mythic creature, attacks made with the errant’s gage are co
 #### Felonious Fingerless Gloves
 
 **Price** 20,000 gp
-**Slot**hands;**CL**3rd;**Weight** 1 lb.
+**Slot** hands; **CL** 3rd; **Weight** 1 lb.
 **Aura** faint transmutation
 
 These fingerless gloves of grayish silk disappear entirely when worn, or can be commanded as a swift action to change their appearance to look like any kind of handwear similar to glamered armor. The wearer gains a +5 bonus on Disable Device and Sleight of Hand checks, and she also treats her rogue level as 4 levels higher for the purpose of trap sense, trapfinding, and any rogue talent that scales directly with level, including her caster level for spell-like abilities gained through the minor or major magic rogue talents. Felonious fingerless gloves do not affect sneak attack damage per se; however, rogue talents whose effects are based on sneak attack, such as bleeding attack, do function as though the wearer were 4 levels higher in terms of sneak attack damage.
@@ -470,7 +470,7 @@ A mythic creature wearing felonious fingerless gloves can spend a use of mythic 
 #### Foamfollower’s Jack
 
 **Price** 20,000 gp
-**Slot**chest;**CL**6th;**Weight** 2 lbs.
+**Slot** chest; **CL** 6th; **Weight** 2 lbs.
 **Aura** moderate transmutation
 
 This sapphire-blue naval jacket sewn with silver pearls grants the wearer a +5 competence bonus on Profession (sailor) checks and allows the wearer to water walk up to one hour per day. This duration need not be continuous but must be expended in 1-minute increments. The wearer can share this duration with adjacent allies by expending 1 additional minute of the effect’s duration each time she grants the effect to an ally; this minute of duration is lost. The wearer can alter windsAPG at will, though can only have one such spell in effect at a time. If the wearer is aboard a ship, the effects of the altered wind apply to the entire ship and move with it.
@@ -485,7 +485,7 @@ The wearer can expend a mythic surge to add one-half the result of his surge die
 #### Force Shield Pin
 
 **Price** 7,000 gp
-**Slot**see text;**CL**5th;**Weight** ─
+**Slot** see text; **CL** 5th; **Weight** ─
 **Aura** faint abjuration and evocation
 
 This silver stick-pin is crafted in the shape of a curved kite shield and can be attached to a normal or magical cloak, hat, headband, or garment in the chest slot; it does not take up an item slot of its own but it must be worn in order to function.
@@ -499,9 +499,9 @@ The wearer can command the pin to create a shield once per day, and can expend m
 
 #### Midnight Beacon Price (Major Artifact)
 
-**Slot**none;**CL**7th;**Weight** 20 lbs.
+**Slot** none; **CL** 7th; **Weight** 20 lbs.
 **Aura** moderate evocation and necromancy
-**Int**10,**Wis**12,**Cha**20,**Ego**23,**AL:** NE.
+**Int** 10, **Wis** 12, **Cha** 20, **Ego** 23, **AL:** NE.
 
 The midnight beacon possesses darkvision and ordinary senses with a range of 60 feet and can speak Common. It possesses 10 ranks of Intimidate and can cast detect undead 3/day and desecrate and animate dead 1/day each. The beacon has the special purpose of defending and protecting the undead, and it grants continuous death ward to its wielder as long as it is working to further that goal. The midnight beacon can cast death ward at will on an adjacent evil creature as a standard action. It can use this ability as often as desired; however, this effect persists only as long as that creature remains within 20 feet of the midnight beacon. The midnight beacon can dismiss any or all death ward effects it has created as a standard action. Its legendary surges can modify Intelligence, Wisdom, and Charisma-based skill checks, and it has the adroit (Intimidate), eternal bond, everlasting, intelligent, powerful, and unyielding legendary abilities.
 
@@ -517,7 +517,7 @@ In the hands of an evil mythic wielder, the midnight beacon also reveals its gre
 #### Orb of the Seventh Star
 
 **Price** 62,000 gp
-**Slot**none;**CL**7th;**Weight** 2 lbs.
+**Slot** none; **CL** 7th; **Weight** 2 lbs.
 **Aura** moderate divination, evocation, and transmutation
 
 This melon-sized clear crystal sphere contains seven small winking points of light, which shed light as a candle. The wielder of the orb can use it to create dancing lights and detect magic once per day each for any wielder, but in the hands of an arcane spellcaster it can create dancing lights and detect magic at will and can detect thoughts (DC 13) 1/day. An arcane spellcaster can also launch a total of seven sparkling motes of light per day, each striking as a single magic missile. The wielder can launch all seven notes at once or may allocate them in smaller groups as desired. Launching these magic missiles is usually a standard action; however,
@@ -534,7 +534,7 @@ When a mythic wielder uses any of the orb’s powers or creates a magic missile 
 #### Razor Couters
 
 **Price** 36,000 gp
-**Slot**wrists;**CL**5th;**Weight** 1 lb.
+**Slot** wrists; **CL** 5th; **Weight** 1 lb.
 **Aura** faint transmutation
 
 These steel bracers are studded with jagged flanges of metal that sweep backwards, guarding her elbows and serving as a deadly adjunct to her attacks. When the wearer hits with an unarmed strike or shield bash attack, or when she succeeds on a combat maneuver check, she can spend a swift action to slash the same target with the razor couters, dealing 1d4 points of slashing damage plus 1 point of bleed damage. If the wearer is fighting defensively or using Combat Expertise, she increases the dodge bonus to AC she gains by 1, and if she is struck by an attack from a creature she threatens she can use a immediate action to deal 1d4 points of slashing damage and 1 point of bleed damage to her attacker.
@@ -549,7 +549,7 @@ If the wearer is a mythic creature, the wearer adds her mythic tier to the Heal 
 #### Robe of Tongues and Teeth
 
 **Price** 60,000 gp
-**Slot**body;**CL**11th;**Weight** 1 lb.
+**Slot** body; **CL** 11th; **Weight** 1 lb.
 **Aura** moderate conjuration and evocation
 
 This simple robe is covered with images of fanged maws, which animate into jaws of force that deal 2d4 points of force damage per round at the end of the wearer’s turn to creatures grappling or grappled by the wearer. This damage is doubled if the wearer is engulfed, pinned, or swallowed whole.
@@ -564,7 +564,7 @@ A mythic wearer can create multiple tongues, up to 3 plus one-half the wearer’
 #### Scorpion Cloak
 
 **Price** 20,000 gp
-**Slot**shoulders;**CL**6th;**Weight** 2 lbs.
+**Slot** shoulders; **CL** 6th; **Weight** 2 lbs.
 **Aura** moderate transmutation
 
 This speckled sandy-brown cloak grants the wearer a +5 competence bonus on Acrobatics and Stealth checks in desert terrain, and the wearer can move without impediment through soft or shifting sand. The wearer gains a +2 luck bonus on saving throws against poison from scorpions and also gains a +4 bonus to his CMD against grapple combat maneuvers. This bonus also applies on grapple or Escape Artist checks made to escape a grapple. During any round in which the wearer does not move, he gains tremorsense in a 10-foot radius, or 20 feet if the wearer is prone. The radius of this tremorsense increases by 5 feet (10 feet if the wearer is prone) each round that the wearer remains motionless, up to a maximum of 30 feet (or 60 feet).
@@ -581,7 +581,7 @@ A mythic wearer can communicate with scorpions as if using speak with animals to
 #### Serpentiginous Gloves
 
 **Price** 18,000 gp
-**Slot**hands;**CL**5th;**Weight** 1 lb.
+**Slot** hands; **CL** 5th; **Weight** 1 lb.
 **Aura** faint necromancy
 
 These supple snakeskin gloves are decorated in fang-like patterns of multicolored jade scales. The wearer gains immunity to contact poison and poisonous traps that would affect his hands, such as poisoned needle traps in the lock of a door or chest. The wearer is not otherwise protected from poison. The gloves can be worn individually or as a set. One glove allows the wearer to use pernicious poison by touch once per day. The other glove allows the use of accelerate poison (DC 13 Fortitude negates) by touch. The wearer can make a melee touch attack with either glove to deliver one of these effects as an attack action or as part of a full attack action in place of one of her normal attacks, or can deliver the same effect through a light or one-handed melee weapon held in the same hand as the glove as part of a melee attack with that weapon. The wearer also can activate one or both gloves as a standard action without attacking. The wearer can hold the charge on either or both effects for up to 1 minute or until a successful attack is made.
@@ -596,7 +596,7 @@ A mythic creature wearing serpentiginous gloves can expend one use of its mythic
 #### Slippers of Star-Striding
 
 **Price** 46,000 gp
-**Slot**feet;**CL**9th;**Weight** 1 lb.
+**Slot** feet; **CL** 9th; **Weight** 1 lb.
 **Aura** moderate conjuration and evocation
 
 This soft-soled calf-high boots of black velvet are embedded with tiny glowing and swirling stars and galaxies, shedding light as a candle unless the wearer suppresses their radiance as a standard action. As long as the slippers are alight, the wearer can cause any one 5-foot square of a surface she travels across during her turn to glow as a light spell for 1d4 rounds. The wearer can also create dancing lights at will as a standard action, and once per day when the wearer succeeds on an overrun combat maneuver or confirms a critical hit with an unarmed strike she can create wandering star motesAPG (DC 16) around the target as a free action.

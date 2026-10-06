@@ -7,13 +7,13 @@ parent: "[[Conjuration]]"
 
 **Note:** Companion feats can be taken either by a Conjuration sphere companion or by a caster with the Conjuration sphere. If taken by the caster, the feat only applies to a single companion that qualifies for it, but may be taken multiple times. The feat may not be reassigned to a different companion for as long as the chosen companion is in your service. The effects do not stack unless noted, each time one is taken it applies to a different companion. If taken by a companion, they may only be taken once unless noted. Any caster level prerequisite must be met by the caster.
 
-## Ability Channel [Alienist HB]
+#### Ability Channel [Alienist HB]
 
 **Prerequisites:** Conjuration sphere (Spell Conduit), Spell Channel.
 
 **Benefit:** While your companion is within range of your Spell Conduit ability, you can treat it as the point of origin for any class ability that requires a melee or ranged attack (such as a fey adept’s shadowmark or an eliciter’s emotions).
 
-## Advanced Circles
+#### Advanced Circles
 
 **Prerequisites:** Conjuration sphere (Diagram).
 
@@ -23,27 +23,27 @@ If you possess the charm ability of the Mind sphere, you may cast a charm, payin
 
 If you possess the ward ability of the Protection sphere, you may integrate a barrier into your circle, paying 1 spell point plus any additional cost for improving the ward. Doing so prevents the circle from being broken until you choose to end the ward or the barrier is destroyed.
 
-## Altered Summons [Dual Sphere] [3PP]
+#### Altered Summons [Dual Sphere] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Alteration Sphere, Conjuration Sphere
 
 **Benefit:** Whenever you summon a companion, you may spend one spell point to shapeshift them as part of the same action. If you do so, the shapeshift lasts for the full duration of the summoning effect.
 
-## Armory (Companion)
+#### Armory (Companion)
 
 **Prerequisites:** Conjuration sphere (Battle Creature (form)).
 
 **Benefit:** A companion that possesses the Battle Creature (form) talent appears with one additional weapon, +1 per 4 caster levels. These weapons function like the original ones.
 
-## Companion Concentration (Companion)
+#### Companion Concentration (Companion)
 
 **Prerequisite:** Conjuration sphere.
 
 **Benefit:** When you choose to concentrate on a sphere effect, as a swift action you may pass concentration on that sphere effect to your companion within close range (based on your Conjuration caster level). You must have line of effect to the companion to do so. As long as the companion remains within close range, you may resume concentrating on the effect at any time as a swift action. A companion may not concentrate to maintain the effect that summoned it, nor on any effect to which it lacks line of effect. If the companion leaves close range, it may continue to concentrate on the effect, but you may not resume concentrating on it yourself. A mindless companion may not assume concentration of a sphere effect. Treat the companion’s Hit Dice as levels in a caster class for determining its bonus on concentration checks. If the companion does not have a casting ability modifier, use its Charisma to determine its concentration check bonus.
 
-## Deadcaller [Gravecaller's HB]
+#### Deadcaller [Gravecaller's HB]
 
 The otherworldly are called like the departed, for little distinguishes the transient soul.
 
@@ -53,27 +53,27 @@ The otherworldly are called like the departed, for little distinguishes the tran
 
 If you possess the Conjuration sphere Call The Departed talent, you may reduce the spell point cost to use call the departed by 1 (minimum 0) by using a recently slain corpse within your Conjuration sphere summon range as an additional material component. A corpse used this way must be one that was recently slain (usually within one hour) and has a CR greater than or equal to 1/2 your Conjuration sphere caster level. When a corpse is used as a material component with this feat, the corpse becomes a drained husk that cannot be reanimated or used as a material component to re-summon your companion again with this feat.
 
-## Destructive Companion (Dual Sphere)
+#### Destructive Companion (Dual Sphere)
 
 **Prerequisites:** Conjuration sphere (Explosive Companion (form)), Destruction sphere.
 
 **Benefit:** When you summon a companion that possesses the Explosive Companion (form) talent, you may apply a single (blast type) talent that you possess to that companion. When the explosive companion detonates, it uses the die size and damage type of the (blast type) talent and applies its additional effects as if it were a destructive blast. Any additional spell point costs associated with the chosen (blast type) talent must be paid as part of casting summon.
 
-## Exceptional Ally (Dual Sphere)
+#### Exceptional Ally (Dual Sphere)
 
 **Prerequisites:** Conjuration sphere, Enhancement sphere (at least one (enhance) talent).
 
 **Benefit:** Whenever you summon a companion, you may spend one spell point to enhance them as part of the same standard action. If you do so, the enhancement lasts for the full duration of the summoning effect.
 
-## Fated Summons (Dual Sphere) [3PP]
+#### Fated Summons (Dual Sphere) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Conjuration Sphere, Fate Sphere
 
 **Benefit:** Whenever you summon a companion, you may spend one spell point to apply a word or motif to them as part of the same standard action. If you do so, the word or motif lasts for its normal duration.
 
-## Focusing Direction
+#### Focusing Direction
 
 **Prerequisite:** Conjuration sphere.
 
@@ -81,13 +81,13 @@ If you possess the Conjuration sphere Call The Departed talent, you may reduce t
 
 If directing a companion with the puppet companion archetype, you may apply the benefits of this feat to that companion as part of directing that companion with a move, standard, or full-round action.
 
-## Formed Construct (Dual Sphere)
+#### Formed Construct (Dual Sphere)
 
 **Prerequisites:** Blood sphere (Extract Blood Construct), Conjuration sphere.
 
 **Benefit:** When you create a blood construct, you grant it one (form) talent from the Conjuration sphere that you possess.
 
-## Greater Earth Creature (Companion)
+#### Greater Earth Creature (Companion)
 
 **Prerequisites:** Conjuration sphere (Earth Creature (form)), caster level 5th.
 
@@ -95,19 +95,19 @@ If directing a companion with the puppet companion archetype, you may apply the 
 
 **Earth Glide (Ex):** When the creature burrows, it can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. If protected against fire damage, it can even glide through lava. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A move earth spell or the Forge Earth ability of the Nature spherecast on an area containing the burrowing creature flings it back 30 feet, stunning it for 1 round unless it succeeds on a DC 15 Fortitude save.
 
-## Greater Link
+#### Greater Link
 
 **Prerequisites:** Conjuration sphere (Link).
 
 **Benefit:** You may choose to receive full sensory input from one of your companions. This requires a full-round action and renders you flat-footed until the start of your next turn. You do not benefit from any magical effects you are under nor any extraordinary senses you possess, but do benefit from effects and extraordinary senses your companion possesses. You use your own Perception modifier for any Perception checks made while receiving sensory input this way. Your companion’s senses are not inhibited by this ability. This full-round action counts as concentrating on the summon.
 
-## Heroic Companion
+#### Heroic Companion
 
 **Prerequisite:** Beastmastery sphere, Conjuration sphere, animal companion, familiar, or eidolon.
 
 **Benefit:** Your animal companion, animal allies, familiar, eidolon, and Conjuration companions can spend your hero points as if they were their own.
 
-## Homogenous Companions [BaP]
+#### Homogenous Companions [BaP]
 
 **Prerequisites:** Conjuration sphere (Extra Companion, any (form) or (type) talent).
 
@@ -117,13 +117,13 @@ Whenever you rest and regain spell points, you may change the (form) or (type) t
 
 **Special:** This feat can be taken once at 1st level, and again at 10th and 20th.
 
-## Hungry (Combat, Companion)
+#### Hungry (Combat, Companion)
 
 **Prerequisites:** Ravenous Companion, caster level 10th.
 
 **Benefit:** When your companion is grappling a creature, it may attempt to use its swallow whole ability as a free action. It gains a +2 competence bonus to CMB and CMD to make and resist grapple checks relating to the swallow whole ability.
 
-## Improved Explosive Companion [3PP]
+#### Improved Explosive Companion [3PP]
 
 **Prerequisites:** Conjuration sphere (Explosive Companion)
 
@@ -131,9 +131,9 @@ Whenever you rest and regain spell points, you may change the (form) or (type) t
 
 If you possess the Destructive Companion feat, you may apply the Admixture, Damage Control, and Greater Admixture talents as well as any Admixture feats to the companion’s explosion as if it were a destructive blast, increasing casting time and/or spell point cost as normal.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
-## Invisible Friend (Dual Sphere)
+#### Invisible Friend (Dual Sphere)
 
 **Prerequisites:** Illusion sphere (Suppression (glamer)), Conjuration sphere (Shadow Creature (form)).
 
@@ -141,7 +141,7 @@ If you possess the Destructive Companion feat, you may apply the Admixture, Dama
 
 As a free action, you may spend a spell point to allow your shadow companion to fully manifest itself. Your companion loses the Shadow Creature talent and gains one other (form) talent of your choosing in its place for one minute per caster level.
 
-## Linked Equipment
+#### Linked Equipment
 
 **Prerequisite:** Conjuration sphere.
 
@@ -149,55 +149,55 @@ As a free action, you may spend a spell point to allow your shadow companion to 
 
 You regain the benefits of the selected items when the summon ends. You still count as possessing the item for the purpose of items that require an attunement period. You may not assign cursed items to the companion.
 
-## Manifestation (Companion)
+#### Manifestation (Companion)
 
 **Prerequisites:** Conjuration sphere (Shadow Creature (form)).
 
 **Benefit:** Your companion may manifest itself as a move action. While manifested, your companion takes full damage from attacks and magic originating from corporeal creatures and deals full damage with its attacks and magic against corporeal creatures. This does not affect your companion’s ability to deal damage to and receive damage from incorporeal creatures. Your companion may end this effect as a move action.
 
-## Merged Summons (Dual Sphere) [3PP]
+#### Merged Summons (Dual Sphere) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Alteration Sphere (Fusion), Conjuration Sphere (Extra Companion)
 
 **Benefit:** Whenever you summon a companion, you may use fusion targeting both the companion and either yourself or another companion already summoned as part of the action to summon.
 
-## Mind Over Manners
+#### Mind Over Manners
 
 **Prerequisites:** Conjuration sphere (Call Planar Creature).
 
 **Benefit:** You may use your casting ability modifier in place of your Charisma modifier when determining the DCs for Charisma checks made by called creatures and for attempting opposed Charisma checks against called creatures when using the Call Planar Creature advanced talent.
 
-## Spell Channel (Companion) [Apoc]
+#### Spell Channel (Companion) [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 **Prerequisites:** Conjuration sphere (Spell Conduit).
 
 **Benefit:** Your ability to channel spells through your companion is expanded. While your companion is within range of your Spell Conduit ability, you can treat it as the point of origin for any spell that you cast.
 
-## Technical Companion (Companion) [3PP]
+#### Technical Companion (Companion) [3PP]
 
 **Prerequisites:** Conjuration Sphere, Technique Crafting
 
 **Benefits:** The companion chosen with this feat or who possesses this feat is treated as having all of the talents and feats you possess, but only for the purpose of performing techniques that you know. When using a technique through this feat, the companion cannot contribute more than one spell point to the effect’s complexity cost.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
-## Variable Armaments (Companion)
+#### Variable Armaments (Companion)
 
 **Prerequisites:** Conjuration sphere (Battle Creature (form) or Shield Bearer (form)), companion with 6 or more Hit Dice.
 
 **Benefit:** A companion that possesses Battle Creature or Shield Bearer may substitute the enhancement bonus to its weapons and shields granted by those talents for weapon and shield special abilities available per the armorist bound equipment table. The weapon or shield must maintain at least a +1 enhancement bonus. Changing the selected special abilities requires an 8 hour ritual.
 
-## Variable Size (Companion)
+#### Variable Size (Companion)
 
 **Prerequisites:** Conjuration sphere (Altered Size (form)).
 
 **Benefit:** As a standard action, you may suppress your companion’s Altered Size talent and Greater Altered Size advanced talent. The talent remains suppressed until you end this effect as a free action. Your companion must be within close range to begin or end this effect.
 
-## Venomous Blood (Companion)
+#### Venomous Blood (Companion)
 
 **Prerequisites:** Conjuration sphere (Monstrous Attacks (form) with poison option).
 
@@ -205,25 +205,25 @@ You regain the benefits of the selected items when the summon ends. You still co
 
 Additionally, your companion can apply its poison to a weapon or natural attack by dipping it in its own blood as a swift action. This requires dealing 1d4 damage to itself as part of the swift action unless the companion suffers from an ongoing bleed effect or is below half its maximum hit points.
 
-## Venomous Focus (Companion)
+#### Venomous Focus (Companion)
 
 **Prerequisites:** Conjuration sphere (Monstrous Attacks (form) with poison option).
 
 **Benefit:** Your companion gains a +1 bonus to the DC of its poison, increasing by +1 at 5 Hit Dice and every 5 Hit Dice thereafter, and the cure now requires an additional save.
 
-## Venomous Spit (Companion)
+#### Venomous Spit (Companion)
 
 **Prerequisites:** Conjuration sphere (Monstrous Attacks (form) with poison option).
 
 **Benefit:** Your companion may spit its poison as a ranged touch attack with a range of 20 feet. Treat the poison as a contact poison for this feat.
 
-## Watchful Companion (Companion)
+#### Watchful Companion (Companion)
 
 **Prerequisites:** Conjuration sphere (Greater Summoning, Lingering Companion (form)).
 
 **Benefit:** When summoned for 1 day, your companion does not disappear when you rest to regain spell points. When the 1 day duration is complete, you may pay the summoning cost again even when unconscious to renew the duration of the summon without your companion disappearing. Your companion may choose to wake you up as a free action as long as it is within long range.
 
-## Web Exemplar (Companion)
+#### Web Exemplar (Companion)
 
 **Prerequisites:** Conjuration sphere (Web Spinner (form)).
 

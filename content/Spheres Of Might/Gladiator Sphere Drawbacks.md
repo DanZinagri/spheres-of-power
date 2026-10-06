@@ -14,44 +14,44 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Braggart
+#### Braggart
 
 You do not gain ranks in Intimidate from the base sphere, do not gain the demoralization ability nor the Strike Fear demoralization and cannot select (demoralization) talents. You gain Self Confidence with this drawback. You may not possess both this and the Humble Combatant drawback.
 
-## Dazzling Icon [SA:MD]
+#### Dazzling Icon [SA:MD]
 
 You do not gain the demoralization ability nor the Strike Fear demoralization and cannot select (demoralization) talents. You gain Distracting Display with this drawback.
 
 **Incompatible:** Braggart, Focused Menace, Humble Combatant.
 
-## Distant Icon [SA:MD2]
+#### Distant Icon [SA:MD2]
 
 You do not gain the demoralization ability nor the Strike Fear demoralization and cannot select (demoralization) talents. You gain Theatrical Boast with this drawback.
 
 **Incompatible:** Braggart, Dazzling Icon, Focused Menace, Humble Combatant.
 
-## Entertainer [Warden]
+#### Entertainer [Warden]
 
 Whenever this sphere uses or grants ranks in Intimidate or calls for an Intimidate check, you instead gain or use ranks in Perform or attempt a Perform check, with the specific Perform skill chosen at the time of gaining this drawback. This drawback does not grant a bonus talent; removing this drawback does not require spending a talent, but requires GM permission. You use Perform ranks in place of Intimidate ranks for prerequisites for feats and talents that require the Gladiator sphere.
 
-## Focused Menace [Youxia HB]
+#### Focused Menace [Youxia HB]
 
 You do not gain the Strike Fear demoralization. You gain Duel Of Wills with this drawback. **Incompatible:** Braggart
 
-## Huge Personality [LotS]
+#### Huge Personality [LotS]
 
 You do not gain the Prowess (boast) and cannot use the boast ability if you have no (boast) talents. You gain Awesome Impression as a bonus talent.
 
-## Humble Combatant
+#### Humble Combatant
 
 You do not gain the boast ability nor the Prowess boast and cannot select (boast) talents. You gain Uncowed with this drawback. You may not possess both this and the Braggart drawback.
 
-## Retort [SA:MD]
+#### Retort [SA:MD]
 
 You do not gain the ability to perform a boast after confirming a critical hit, reducing an enemy to 0 or fewer hit points, or succeeding on a combat maneuver. You gain Fan Favorite with this drawback.
 
 **Incompatible:** Humble Combatant.
 
-## Showboater [LotS]
+#### Showboater [LotS]
 
 You do not gain the strike fear ability. You gain either Distracting Display or Performance Fighter as a bonus talent. If you also select the Huge Personality drawback, you can take the Gladiator sphere using a [utility] talent slot as if both drawbacks had the [utility start] tag.

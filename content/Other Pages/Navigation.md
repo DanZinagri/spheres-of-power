@@ -168,7 +168,7 @@ When using the exploration rules (Pathfinder Roleplaying Game: Ultimate Wilderne
 
 #### Rudimentary Training [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 The base acclimation granted by your Navigation sphere packages do not count towards the maximum number of acclimations a creature can benefit from at a time, and functions as if your effective associated ranks were 2 higher for determining its effects.
 
@@ -198,7 +198,7 @@ Additionally, you can have up to two instances of the pathing ability active at 
 
 #### Aeronautical Adaptation (acclimation) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You may select the following acclimation benefits:
 
@@ -211,7 +211,7 @@ You may select the following acclimation benefits:
 
 #### Community Awareness (acclimation) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You may select the following acclimation benefits:
 
@@ -238,7 +238,7 @@ You may select the following acclimation benefits:
 
 #### Maritime Acclimatization (acclimation) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You may select the following acclimation benefits:
 
@@ -282,7 +282,7 @@ You may select the following acclimation benefits:
 
 #### Wild Wit (acclimation) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You may select the following acclimation benefits:
 
@@ -345,7 +345,7 @@ Allies within your *pathing* gain a +2 dodge bonus to AC against attacks of oppo
 
 #### Stable Footing (pathing) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 Allies within the area of your *pathing* reduce any forced movement they are subject to from physical sources (such as a bull rush combat maneuver) by 5 feet + 5 feet per 10 associated ranks.
 

@@ -9,21 +9,21 @@ updated: 2020-10-11
 
 For some warriors, the pinnacle of martial power comes from allowing the mind and body to operate separately. They train their minds in arcane mysteries, while they hone their bodies with weapons practice. In time, they perfect a style of fighting that incorporates a wide range of magical techniques.
 
-### Casting
+## Casting
 
 The arcane weaponeer may combine spheres and talents to create magical effects. The arcane weaponeer is considered a High-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-### Spell Pool
+## Spell Pool
 
 The arcane weaponeer gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 An arcane weaponeer gains a magic talent at 2nd level and every 2 levels thereafter.
 
-### Arcane Pool
+## Arcane Pool
 
 At 4th level, the arcane weaponeer can use his arcane pool to grant an enhancement bonus to his armor or shield equal to the bonus he could grant to a weapon. He must pay the arcane pool cost separately for each, and each enhancement is a separate action.
 
@@ -31,7 +31,7 @@ At 5th level, he can add the following special abilities to his armor: balanced,
 
 This alters arcane pool and replaces spell recall. The arcane weaponeer may still take other archetypes that modify the number of points in his arcane pool.
 
-### Spell Combat (Ex)
+## Spell Combat (Ex)
 
 An arcane weaponeer learns to cast spells and wield his weapons at the same time. When he makes a full-round attack using only melee weapons, he can also use any sphere ability with a casting time of 1 standard action or less as a free action at any point during the attack. Rather than casting a new sphere effect, an arcane weaponeer may use spell combat to maintain a sphere effect with a duration of ‘concentration’.
 
@@ -43,7 +43,7 @@ The arcane weaponeer has learned to use his magic powers near his enemies. He do
 
 This replaces spell combat.
 
-### Spellstrike (Su)
+## Spellstrike (Su)
 
 At 2nd level, whenever an arcane weaponeer uses a sphere ability that requires a touch attack, he can deliver the spell through any melee weapon he is wielding as part of an attack. Instead of the free touch attack normally allowed to deliver the sphere ability, an arcane weaponeer can make one free melee attack with his weapon (at his highest base attack bonus) as part of casting. If successful, this melee attack deals its normal damage as well as the effects of the sphere ability.
 
@@ -51,7 +51,7 @@ If the attack is made in concert with spell combat, this melee attack takes all 
 
 This replaces spellstrike.
 
-### Expanded Knowledge (Su)
+## Expanded Knowledge (Su)
 
 At 7th level, as a move action, the arcane weaponeer may grant himself the benefit of any one magic talent he meets the prerequisites for other than a base sphere. This effect lasts for 1 minute. He may use this ability a number of times per day equal to 1/2 his class level, rounded up. Multiple uses of this ability do not stack; if he uses this ability again before the previous duration has expired, it replaces the previous use.
 
@@ -61,37 +61,37 @@ At 19th level, the arcane weaponeer can use this ability as a free action.
 
 This replaces medium armor, heavy armor, and greater spell access.
 
-### Bonus Feats
+## Bonus Feats
 
 The arcane weaponeer may select combat feats, item creation feats, magic talents, or metamagic feats for his bonus feats.
 
 This alters the arcane weaponeer’s bonus feats.
 
-### Spell Advancing
+## Spell Advancing
 
 At 8th level, when the arcane weaponeer uses spell combat, he may elect to not take the iterative attacks he receives after his first attack (those attacks with a penalty to base attack bonus). If he does, he may move his speed before or after spell combat. This decision is made when spell combat is declared. He still receives any bonus attacks he gets from effects such as the Improved Haste Time talent.
 
 This replaces improved spell combat.
 
-### Stalwart (Ex)
+## Stalwart (Ex)
 
 At 11th level, the arcane weaponeer gains the mageknight’s stalwart class feature.
 
 This replaces knowledge pool.
 
-### Rapid Enchantment (Su)
+## Rapid Enchantment (Su)
 
 At 11th level, the arcane weaponeer may enhance his weapons, armor and shield using his arcane pool using only one swift action. All costs must be paid separately.
 
 This replaces improved spell recall.
 
-### Spell Manipulation
+## Spell Manipulation
 
 At 14th level, when the arcane weaponeer uses spell combat, he may enhance his spherecasting with any number of metamagic abilities without increasing the casting time.
 
 This replaces greater spell combat.
 
-### True Weaponeer
+## True Weaponeer
 
 At 20th level, whenever the arcane weaponeer uses spell combat, he may elect to not take his iterative attacks or use his spell advancing ability. This decision is made when spell combat is declared.
 

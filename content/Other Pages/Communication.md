@@ -45,7 +45,7 @@ Some Communication talents have the (rapport) tag described below.
 
 #### Assist [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Some talents possess the (assist) tag, granting you expanded options when you use the aid another action. Whenever you use the aid another action as a standard, move, swift, or immediate action, you can apply any amount of applicable (assist) talents to the action. Such talents may have greater benefits if used on a creature that shares your rapport.
 
@@ -67,7 +67,7 @@ You can communicate and understand simple concepts with any animal, magical beas
 
 #### Briber [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever you bribe a creature, you treat their level as being 2 lower for determining how many gold pieces they expect (see bribes). You can spend 1 use of skill leverage when attempting to bribe a creature to treat their level as being 1 additional lower, plus 1 per 5 ranks in the sphere’s associated skill you possess.
 
@@ -79,7 +79,7 @@ Additionally, the first time a specific creature refuses a bribe that you offer,
 
 #### Candid Disclosure [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You can outwit a creature by baring your soul to them (new skill use) with a major motivation or comparable secret that they are unaware of (subject to GM discretion), although the creature receives a Will saving throw to negate the outwit attempt unless the revealed motivation closely aligns with one of their own major motivations. On a successful save, the action or ability used to outwit functions without the additional benefit due to outwitting (as long as it can function, otherwise the action is wasted).
 
@@ -207,7 +207,7 @@ These benefits increase by 1 for every 6 ranks you possess in the sphere’s ass
 
 #### Brief Help (assist) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You can aid another as a move or swift action. At 5 ranks in this sphere’s associated skill, you can aid another as an immediate action. At 10 ranks in this sphere’s associated skill, you can aid another as a free action once per round; an aid another performed this way may benefit from (assist) talents.
 
@@ -219,15 +219,15 @@ You can coordinate a collaborative project as flawlessly as if the collaborators
 
 #### Combat Courtesy (rapport) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever a creature who shares your *rapport* rolls initiative, before enemies’ initiative is revealed, they can trade the results of their own die roll (not including modifiers) with another creature under your rapport (if both creatures are willing). Additionally, if two creatures who share your *rapport* are adjacent to one another, when one of them takes an action on the first round of combat, the other creature loses the flat-footed condition from having not acted.
 
-**Associated Feat**: Trade Initiative.
+**Associated Feat:** Trade Initiative.
 
 #### Collaborative Research (assist) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever a creature attempts a Knowledge or Lore check, you can use the aid another action to improve the check as a free action usable outside of your turn–you must be aware of the ally’s check to attempt to aid it, and doing so requires them to be able to perceive you.
 
@@ -253,7 +253,7 @@ In addition, if a creature who shares your *rapport* fails on a skill check that
 
 #### Defensive Blockade (assist) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever you improve an ally’s AC using aid another, the bonus granted increases to +3. This increases by 1 per 10 ranks in the associated skill you possess.
 
@@ -266,7 +266,7 @@ If you improve an ally’s AC using aid another, the aided ally also gains one o
 
 #### Distant Aid (assist) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You can use the aid another action to assist a creature within close range, instead of needing to be adjacent to that creature. Using aid another this way is an auditory, language-dependent effect. If using aid another to assist an attack roll, you must attempt an associated skill check instead of an attack roll; if you have a ranged weapon, you may use the ranged weapon’s range instead of close range (applying any penalties to a ranged attack, such as distance-based penalties, wind and weather, etc.).
 
@@ -290,7 +290,7 @@ Each creature that shares your *rapport* (including you) instinctively knows how
 
 #### No One Left Behind (rapport) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Creatures that share your *rapport* that would be encumbered due to carrying another creature within the *rapport* ignore the speed penalty for doing so (as long as the carried creature is no more than one size category larger than the creature carrying them).
 
@@ -306,7 +306,7 @@ Whenever a creature that shares your *rapport* attempts a skill check with which
 
 #### Recall Support (assist) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever you use the aid another action to benefit a creature’s ability check or skill check, you can delay its effects so that it can be drawn upon when the creature needs it most. For the next day, the aided creature can spend an immediate action to ponder your words, gaining the benefits of the delayed aid immediately. An individual creature can only benefit from a single delayed aid at one time.
 
@@ -314,13 +314,13 @@ If the creature shares your *rapport*, the aided creature can instead ponder you
 
 #### Relevant Guidance (assist) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 When you use the aid another action as a standard action, you can confer its benefits to 1 additional creature, plus 1 creature per 6 ranks in the associated skill you possess. Such additional allies still must be within your aid another range. The aid can apply to different benefits (AC, attack rolls, etc) if you wish, but still applies against a single opponent (if relevant).
 
 #### Tactical Preparation (assist) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 When you move during your turn, you may use the aid another action at any point during your movement, spending actions to do so as normal.
 
@@ -332,7 +332,7 @@ If the aided creature shares your *rapport*, this damage bonus/reduction increas
 
 #### Tandem Motorics (rapport) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Creatures that share *rapport* can throw an object to one another as a move action, as long as they are within close range. If such a creature misses an attack with a splash weapon or thrown weapon, a creature that shares your *rapport* can catch the object as a free action usable outside of their turn as long as both creatures can trace a line between any part of their spaces so that the line passes through the attacked creature’s space (or in the case of a splash weapon, would land in a square occupied or adjacent to the creature). After catching the object, the creature can throw it at the target of the original attack or to another creature that shares your *rapport* as an immediate action.
 
@@ -344,17 +344,17 @@ Additionally, whenever a creature that shares your *rapport* is within your natu
 
 #### Tandem Positioning (rapport) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Creatures that share your rapport can share their space with another creature within the rapport. If two such creatures are threatening the same creature, they are considered to be flanking the creature as if they were in two opposing squares.
 
 You are also considered to possess the swarming racial trait for the purposes of determining the prerequisites of feats.
 
-**Associated Feat**: Cooperative Swarmer (*Blood of the Beast*).
+**Associated Feat:** Cooperative Swarmer (*Blood of the Beast*).
 
 #### Trip Up (assist) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever you improve an ally’s attack roll using aid another, the bonus granted increases to +3. This increases by 1 per 10 ranks in the associated skill you possess. If you do, you allow the aided ally to ignore any shield bonuses or dodge bonuses (chosen when you aid) that the opponent is benefitting from for as long as the ally is benefitting from the aid.
 
@@ -426,7 +426,7 @@ At 15 ranks, this motivation is a major one.
 
 #### Joint Project (assist, rapport) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisites:** Communication sphere.
 
@@ -450,7 +450,7 @@ As a standard action, you can make a request without attempting a Diplomacy chec
 
 #### Sequestered Support (Su) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisites:** Associated 5 ranks, Communication sphere (Recall Support).
 

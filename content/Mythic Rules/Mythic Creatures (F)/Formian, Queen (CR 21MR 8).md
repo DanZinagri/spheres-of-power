@@ -13,20 +13,20 @@ This large and majestic creature is nearly immobile, her massive abdomen swollen
 XP 307,200
 Pathfinder Roleplaying Game Bestiary 4
 LN Large monstrous humanoid (mythic)
-**Init**+14MF (+18 with hive mind);**Senses** blindsense 30 ft., darkvision 60 ft., hive mind, tremorsense 60 ft.; Perception +31 (+35 with hive mind)
+**Init** +14MF (+18 with hive mind); **Senses** blindsense 30 ft., darkvision 60 ft., hive mind, tremorsense 60 ft.; Perception +31 (+35 with hive mind)
 
 #### Defense
 
-**AC**40,**touch**6,**flat-footed** 40 (–3 Dex, +34 natural, –1 size)
+**AC** 40, **touch** 6, **flat-footed** 40 (–3 Dex, +34 natural, –1 size)
 **hp** 452 (24d10+320); fast healing 10
-**Fort**+18,**Ref**+13,**Will** +20
-**Defensive Abilities**DR 20/—;**Immune**exhaustion, fatigue, sleep;**Resist** sonic 10
+**Fort** +18, **Ref** +13, **Will** +20
+**Defensive Abilities** DR 20/—; **Immune** exhaustion, fatigue, sleep; **Resist** sonic 10
 
 #### Offense
 
 **Speed** 5 ft.
 **Melee** 2 claws +33 (4d8+10)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** mythic power (8/day, +1d10 surge), mythic spell-like abilitiesMA, stasis touchMA, telepathic feedback
 
 **Spell-Like Abilities** (CL 17th; concentration +25)
@@ -37,8 +37,8 @@ Constant—planetary adaptation (self only)
 
 #### Statistics
 
-**Str**30,**Dex**5,**Con**26,**Int**19,**Wis**18,**Cha** 27
-**Base Atk**+24;**CMB**+35;**CMD** 42 (50 vs. trip)
+**Str** 30, **Dex** 5, **Con** 26, **Int** 19, **Wis** 18, **Cha** 27
+**Base Atk** +24; **CMB** +35; **CMD** 42 (50 vs. trip)
 **Feats** Blind-Fight, Combat Casting, Craft Wondrous Item, Empower Spell-Like Ability (cone of cold), Great Fortitude, Greater Spell Penetration, Impenetrable Damage ReductionMF, Improved InitiativeMF, Iron Will, Lightning Reflexes, Quicken Spell-Like Ability (magic missile), Spell PenetrationMF, ToughnessMF
 **Skills** Diplomacy +32, Intimidate +35, Knowledge (arcana, nature) +28, Knowledge (dungeoneering, engineering, geography, local, planes) +12, Perception +31 (+35 with hive mind), Sense Motive +10, Spellcraft +28
 **Languages** Common, Dwarven, Terran, Undercommon; telepathy 200 ft.

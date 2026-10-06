@@ -13,28 +13,28 @@ This immense black wolf is the size of a horse, its fangs as large and sharp as 
 XP 1,200
 Pathfinder Roleplaying Game Bestiary
 N Large animal (mythic)
-**Init**+2;**Senses** low-light vision, scent; Perception +10
+**Init** +2; **Senses** low-light vision, scent; Perception +10
 
 #### Defense
 
-**AC**15,**touch**11,**flat-footed** 13 (+2 Dex, +4 natural, –1 size)
+**AC** 15, **touch** 11, **flat-footed** 13 (+2 Dex, +4 natural, –1 size)
 **hp** 45 (5d8+23)
-**Fort**+7,**Ref**+6,**Will** +2
+**Fort** +7, **Ref** +6, **Will** +2
 **Defensive Abilities** DR 5/epic
 
 #### Offense
 
 **Speed** 50 ft.
 **Melee** bite +8 (1d8+6 plus trip)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (1/day, surge +1d6), shake preyMA
 
 #### Statistics
 
-**Str**19,**Dex**15,**Con**17,**Int**2,**Wis**12,**Cha** 10
-**Base Atk**+3;**CMB**+8;**CMD** 20 (24 vs. trip)
+**Str** 19, **Dex** 15, **Con** 17, **Int** 2, **Wis** 12, **Cha** 10
+**Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip)
 **Feats** Pack AttackB, Run, Skill Focus (Perception), Weapon Focus (bite)MF
-**Skills**Perception +10, Stealth +3, Survival +1 (+5 scent tracking);**Racial Modifiers** +4 Survival when tracking by scent
+**Skills** Perception +10, Stealth +3, Survival +1 (+5 scent tracking); **Racial Modifiers** +4 Survival when tracking by scent
 **SQ** pack leaderMA
 
 #### Ecology

@@ -155,7 +155,7 @@ If a nuance requires a saving throw, it is equal to 10 + 1/2 her dissident level
 
 #### Alternate Form (requires dissident 6) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 The dissident gains the Transformation and Improved Transformation feats as bonus feats, except she cannot willingly transform. When the dissident gains this nuance, she chooses one side of her struggle.
 
@@ -165,7 +165,7 @@ Whenever the dissident becomes strongly attuned to the chosen side of her strugg
 
 #### Balanced Armament (requires manifest equilibrium) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 When she uses manifest equilibrium, the weapon gains the special weapon qualities associated with either side of her struggle as well (for example, if the dissident was balanced between defiance and harmony, her manifested weapon would gain the furyborn, peaceful, and exhaustion special weapon qualities).
 
@@ -344,7 +344,7 @@ The dissident can choose this nuance an additional time at 12th level, choosing 
 
 #### Decisive Focus (requires dissident 6) (Ex) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 The dissident no longer loses her wrathful or harmonic focus (see strife dedication) if she becomes balanced in her struggle. While the dissident is balanced in her struggle, she can establish wrathful or harmonic focus, albeit they function differently. If she establishes wrathful focus while balanced, her sacred weapon’s damage type becomes nonlethal. If she establishes harmonic focus while balanced, she does not gain the movement speed increase.
 
@@ -358,7 +358,7 @@ While moderately attuned to a side of her struggle, she can spend an additional 
 
 #### Still Mind, Swift Blade (Ex) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 As long as the dissident is attuned to defiance, she gains the benefits of the Diehard feat. If the dissident is completely attuned to defiance and scores a critical hit, she ignores any damage reduction the target possesses; if the target has regeneration that can be suppressed, it loses regeneration on the round following the critical hit, and can die normally during that time.
 
@@ -528,7 +528,7 @@ Additionally, the bonus granted to an imbued object that she summons using manif
 
 #### Murky Morality (requires dissident 9) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 While the dissident is balanced in her struggle, any effect that targets her that is dependent on alignment automatically fails (unless she wishes for it to affect her). Effects and abilities she is currently being affected by are suppressed for as long as she remains balanced. Time spent while balanced counts against the duration for such effects.
 
@@ -738,7 +738,7 @@ Additionally, the bonus granted to an imbued object that she summons using manif
 
 #### Dichotomous Togetherness [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 The dissident can dismiss all blessings of unity she has granted as an immediate action to gain one step towards independence. Alternatively, she can attempt to aid another as an immediate action to gain one step towards unity.
 
@@ -782,7 +782,7 @@ Also, the dissident can declare an isolated duel between an ally within 30 feet 
 
 #### Dichotomous Strife [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 The dissident’s strife is not like a normal strife; whereas a dissident typically flits between both sides of her struggle where it best fits, the dissident’s struggle is an active and desperate one.
 

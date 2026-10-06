@@ -14,38 +14,38 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Clever Dodge [SA:MD2]
+#### Clever Dodge [SA:MD2]
 
 You do not gain the swift hands or marked target abilities. You gain Misdirected Attack with this drawback.
 
 **Incompatible:** Hidden Scoundrel, Natural Rogue, Thuggish Theft.
 
-## Hidden Scoundrel [SA:MD]
+#### Hidden Scoundrel [SA:MD]
 
 You do not gain the swift hands or marked target abilities. You gain Bob And Weave with this drawback.
 
 **Incompatible:** Natural Rogue, Opportunist
 
-## Natural Rogue
+#### Natural Rogue
 
 You do not gain the swift hands ability. You gain Master Thief with this drawback.
 
-## Opportunist [SA:MD]
+#### Opportunist [SA:MD]
 
 You do not gain the marked target ability. You gain Filthy Distraction with this drawback.
 
 **Incompatible:** Hidden Scoundrel.
 
-## Soft Touch (Utility Start) [LotS]
+#### Soft Touch (Utility Start) [LotS]
 
 Your marked target ability does not cause the battered condition. You gain Meddling Mark as a bonus talent.
 
-## Thuggish Theft [SA:MD2]
+#### Thuggish Theft [SA:MD2]
 
 You do not gain the swift hands ability. You gain Counter Theft with this drawback.
 
 **Incompatible:** Clever Dodge, Hidden Scoundrel, Natural Rogue.
 
-## Unrefined Thievery (Utility Start) [LotS]
+#### Unrefined Thievery (Utility Start) [LotS]
 
 You do not gain the swift hands ability. You gain Brazen Snatcher as a bonus talent.

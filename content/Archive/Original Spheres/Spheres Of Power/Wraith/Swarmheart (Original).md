@@ -38,7 +38,7 @@ While in swarm form, the swarmheart gains a +4 bonus on saves against effects th
 
 #### Poison (Ex)
 
-Your swarm attack poisons targets in addition to dealing damage. **Poison:** Injury,**DC**10 + 1/2 class level + Constitution modifier,**frequency**1/round for 6 rounds,**damage**1d2 Constitution damage,**cure** 1 save.
+Your swarm attack poisons targets in addition to dealing damage. **Poison:** Injury, **DC** 10 + 1/2 class level + Constitution modifier, **frequency** 1/round for 6 rounds, **damage** 1d2 Constitution damage, **cure** 1 save.
 
 #### Shrink Swarm (Requires wraith 10)
 

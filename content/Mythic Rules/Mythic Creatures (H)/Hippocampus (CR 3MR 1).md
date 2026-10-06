@@ -13,25 +13,25 @@ This creature has the foreparts of a horse and the hindquarters of a fish. Its f
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 N Large magical beast (aquatic, mythic)
-**Init**+1;**Senses** darkvision 60 ft., low-light vision, scent; Perception +8
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, scent; Perception +8
 
 #### Defense
 
-**AC**17,**touch**10,**flat-footed** 16 (+1 Dex, +7 natural, –1 size)
+**AC** 17, **touch** 10, **flat-footed** 16 (+1 Dex, +7 natural, –1 size)
 **hp** 41 (3d10+25)
-**Fort**+7,**Ref**+4,**Will** +4
+**Fort** +7, **Ref** +4, **Will** +4
 
 #### Offense
 
 **Speed** 5 ft., swim 60 ft.
 **Melee** bite +7 (1d4+5), tail slap +2 (1d4+2)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (1/day, surge 1d6), splashMA
 
 #### Statistics
 
-**Str**20,**Dex**13,**Con**19,**Int**2,**Wis**16,**Cha** 15
-**Base Atk**+3;**CMB**+9;**CMD** 20
+**Str** 20, **Dex** 13, **Con** 19, **Int** 2, **Wis** 16, **Cha** 15
+**Base Atk** +3; **CMB** +9; **CMD** 20
 **Feats** Share BreathMF, Skill Focus (Swim), Toughness
 **Skills** Perception +8, Swim +16
 **SQ** sea stallionMA, water dependency

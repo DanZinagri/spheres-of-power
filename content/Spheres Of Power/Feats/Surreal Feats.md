@@ -14,7 +14,7 @@ The first time you gain a surreal feat you also gain a shadow pool as the fey ad
 
 **Wiki Note:** Many surreal feats require the shadowmark class feature. The Surreal Strike (surreal) feat grants this feature.
 
-### Emulation Expert (Surreal)
+#### Emulation Expert (Surreal)
 
 **Prerequisites:** Illusion sphere (Manipulate Aura (sensory, magic)); Illusion sphere (Shadow Infusion) or shadow pool; Shadow Magic or create reality class feature.
 
@@ -22,19 +22,19 @@ The first time you gain a surreal feat you also gain a shadow pool as the fey ad
 
 This feat does not allow you to apply the caster level bonus from staves for two different spheres. For example, when using create reality or Shadow Magic to produce a destructive blast, you may apply Destruction talents you possess and apply the caster level bonus from either a staff of Destruction or Illusion, apply bonus damage from elementalist energy specialization class feature and treat both your fey adept and elementalist levels as full caster levels for calculating the caster level.
 
-### Gather Shadowstuff (Surreal)
+#### Gather Shadowstuff (Surreal)
 
 **Prerequisite:** Shadowmark class feature.
 
 **Benefit:** In place of spending a shadow point you may use shadowmark as a full-round action.
 
-### Greater Shadowmark (Surreal)
+#### Greater Shadowmark (Surreal)
 
 **Prerequisite:** Shadowmark 1d6.
 
 **Benefit:** Your shadowmark deals d8s for damage instead of d6s.
 
-### Shadow Magic (Surreal)
+#### Shadow Magic (Surreal)
 
 **Prerequisites:** Illusion sphere (Shadow Infusion) or shadow pool.
 
@@ -44,37 +44,37 @@ Any sphere talents or abilities gained from this feat are treated as if they wer
 
 The effective caster level of effects created using this feat is equal to your caster level in the Illusion sphere -2 (minimum 1). You may not have more than one sphere effect active at a time from the spheres granted from this feat. A second use of this feat immediately ends the duration of the previous use.
 
-### Shadow Shield (Surreal)
+#### Shadow Shield (Surreal)
 
 **Benefit:** You may, as a swift action, spend a shadow point to create a protective layer of shadowstuff around a creature or object within 25 feet + 5 feet per 2 character level. This grants 1d4 temporary hit points for every character level you possess. Any creature that has at least 1 temporary hit point granted by your shadow shield also gains damage reduction 1/-. This damage reduction improves by an additional 1 per 5 character levels you possess. These temporary hit points last 1 minute.
 
-### Shadow Shield, Improved (Surreal)
+#### Shadow Shield, Improved (Surreal)
 
 **Prerequisite:** Shadow Shield.
 
 **Benefit:** Improve the temporary hit points granted by your shadow shield to 1d4+1 per character level. Instead of providing DR/-, the shadow shield reduces all hit point damage from all sources by the same amount.
 
-### Shadowblast (Surreal)
+#### Shadowblast (Surreal)
 
 **Prerequisite:** Shadowmark class feature.
 
 **Benefit:** When using your shadowmark, you may spend an extra shadow point to change the effect from a ranged touch attack into a close-ranged cone. All creatures within this area are allowed a Reflex save for half damage. If they succeed at this Reflex save, they do not suffer the penalty to Will saves.
 
-### Shadowstuff Armament (Surreal)
+#### Shadowstuff Armament (Surreal)
 
 **Benefit:** As a move action or a free action with the expenditure of a shadow point, you may create and instantaneously equip a non-magical version of a weapon, piece of ammunition, light armor, or light shield you are proficient with out of stable shadowstuff. In the case of exotic weapons, you must have studied a pre-existing version of the weapon for at least 1 week. This object dissipates one round after you are no longer in contact with it or if you use this feat a second time. Creating ammunition using this feat may be done as part of the same action required to load a weapon instead of a move action without having to spend a shadow point.
 
 **Special:** You may create an additional simultaneous object with a single use of this feat per 5 character levels.
 
-### Shadowy Slay (Surreal)
+#### Shadowy Slay (Surreal)
 
 **Benefit:** Any time you deal damage to a creature from an illusion source you may spend a shadow point to allow the creature to be briefly attacked through its shadow. Any attack made against the target may resolve as a touch attack. This effect lasts 1 minute or until the creature is hit by a touch attack.
 
-### Surreal Strike (Surreal)
+#### Surreal Strike (Surreal)
 
 **Benefit:** You gain shadowmark as the fey adept class feature, but use your character level -4 (minimum 1) as your fey adept level for the purposes of determining damage and Will save penalties.
 
-### Violent Shadow (Surreal)
+#### Violent Shadow (Surreal)
 
 **Prerequisites:** Shadowmark 3d6, shadow pool.
 

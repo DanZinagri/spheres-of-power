@@ -138,7 +138,7 @@ At 2nd level, and every 4 levels thereafter, the frostweaver gains one blessing 
 
 #### Alone in the Cold (spellrime) (requires frostweaver 6, Weather sphere) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 The frostweaver may use this spellrime when casting a sphere effect that affects only one creature. The affected creature is subject to one (mantle) or (shroud) talent you possess for 1 minute per frostweaver level, or until the frost mote-augmented sphere effect ends, whichever comes first.
 
@@ -150,7 +150,7 @@ The frostweaver gains Extra Frost Motes as a bonus feat. The frostweaver may sel
 
 #### Frigid Tempering (spellrime) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 The frostweaver may use this spellrime when casting a sphere effect that affects one or more creatures. Choose one affected creature—one of their held weapons or natural attacks (including unarmed) becomes imbued with a deep chill for 1 minute per frostweaver level, or until the frost mote-augmented sphere effect ends, whichever comes first. While imbued this way, the weapon is treated as cold iron for the purposes of damage reduction, and deals an additional amount of cold damage equal to half his frostweaver level (minimum 1), or the number of frost motes the frostweaver possesses (before augmenting the sphere effect), whichever is higher.
 
@@ -169,13 +169,13 @@ Winter mystery published in Pathfinder Player Companion: People of the North, ©
 
 #### Glaciate Arcana (requires frostweaver 6) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Whenever you successfully freeze a magical sphere effect using freeze magic, the effect becomes solid, as per the Substantial Magic drawback—if the effect would already be subject to the drawback, it has a hardness of 0.
 
 #### Heimal Squall (spellrime) (requires frostweaver 6) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 The frostweaver may use this spellrime when casting a sphere effect that affects one or more creatures, or affects an area. If the effect affects an area, the area becomes slick ice (as per the Freeze geomancing ability). If the effect affects a creature, choose one such creature to gain a cloak of frost. Whenever such a creature moves, the square(s) they leave become slick ice (as per the Freeze geomancing ability); if the creature is an ally, they can choose which squares become slick (if any). This effect lasts until the frost mote-augmented sphere effect ends, or 1 minute per frostweaver level, whichever comes first.
 

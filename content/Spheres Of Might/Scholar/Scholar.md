@@ -457,8 +457,8 @@ The following magical items are especially appropriate for scholars.
 
 #### Advanced Study Guide [TS:WAT]
 
-**Aura**moderate Divination;**CL** 8th
-**Slot**none;**Price**40,000 gp;**Weight** 3 lbs.
+**Aura** moderate Divination; **CL** 8th
+**Slot** none; **Price** 40,000 gp; **Weight** 3 lbs.
 
 This thick book is too technical for any but the most well-read individuals to parse. When read for one hour by a creature with the scholar’s knack class feature, that creature gains knowledge of one additional scholar’s knack, chosen when this item is made. This knowledge remains until the creature rests for 8 hours (or the equivalent, if they do not need to rest normally), or for 24 hours, whichever comes first. A creature cannot benefit from more than one advanced study guide at a time, and reading a different guide replaces the effects of the previous one. Any ongoing effects immediately end whenever the reader loses access to the knack.
 
@@ -467,8 +467,8 @@ Craft Apparatus, Divination sphere, creator must have the scholar’s knack bein
 
 #### Explosive Chemicals Kit [TS:WAT]
 
-**Aura**faint Destruction;**CL** 6th
-**Slot**none;**Price**3,000 gp;**Weight** 2 lbs.
+**Aura** faint Destruction; **CL** 6th
+**Slot** none; **Price** 3,000 gp; **Weight** 2 lbs.
 
 This metal kit contains additional materials that are useful for enhancing certain types of chemical explosives. When used to create a flashbang through the scholar class feature, this kit expands the target of the flashbang’s effect to a 5-foot cube if the flashbang’s attack roll is successful. This allows the flashbang to affect swarms and similar creatures (including those larger than a 5-foot cube), although it does not automatically bypass any other special defenses such creatures may have (unless another appropriate effect would allow that).
 
@@ -477,8 +477,8 @@ Smith Magical Weapons And Armor, Destruction sphere (Explosive Orb (blast shape)
 
 #### Hazsit Tools [TS:WAT]
 
-**Aura**moderate Life;**CL** 7th
-**Slot**none;**Price**8,000 gp;**Weight** 15 lbs.
+**Aura** moderate Life; **CL** 7th
+**Slot** none; **Price** 8,000 gp; **Weight** 15 lbs.
 
 This heavy set of medical tools for hazardous situations folds into a relatively small bundle when not in use. A creature with the medical training class feature can use these tools while attempting a Heal check (including to activate their medical training ability) to take 10 on the check, even if they are threatened or in a hazardous situation.
 

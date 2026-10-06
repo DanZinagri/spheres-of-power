@@ -11,29 +11,29 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Cruoromancy [BaP]
+#### Cruoromancy [BaP]
 
 You cannot use blood control. You must select any (blood art) talent with the bonus talent from this drawback.
 
 **Incompatible:** Hemokinetic, Limited Acceleration, Self-Controlled.
 
-## Hemokinetic
+#### Hemokinetic
 
 You cannot use blood control. You must select the Hemokinesis talent with the bonus talent from this drawback. You may use the blood arc option on creatures within blood control range (and may take the Improved Range talent) even when they are not under your blood control. You may use the Hemokinesis options dependant on the Manipulate Alchemy and Manipulate Health talents, but only when the necessary ability has been used by another creature.
 
 **Incompatible:** Limited Acceleration, Self-controlled
 
-## Humors
+#### Humors
 
 You must select the Instill Blood Control talent with the bonus talent granted by this drawback, and you can only use your Blood sphere abilities through this talent.
 
-## Limited Acceleration
+#### Limited Acceleration
 
 Choose either (quicken) or (still). You can only use this ability and cannot use abilities of the other type.
 
 **Incompatible:** Hemokinetic
 
-## Self-Controlled
+#### Self-Controlled
 
 You may only target yourself with blood control. You must select the Self Control talent with the bonus talent from this drawback.
 

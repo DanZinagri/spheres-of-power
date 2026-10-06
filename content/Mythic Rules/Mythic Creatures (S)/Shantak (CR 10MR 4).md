@@ -11,28 +11,28 @@ parent: "[[Mythic Creatures (S)]]"
 XP 9,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Huge magical beast (mythic)
-**Init**+3;**Senses** darkvision 60 ft., low-light vision; Perception +3
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; Perception +3
 
 #### Defense
 
-**AC**29,**touch**15,**flat-footed** 26 (+3 Dex, +4 deflection, +14 natural, –2 size)
+**AC** 29, **touch** 15, **flat-footed** 26 (+3 Dex, +4 deflection, +14 natural, –2 size)
 **hp** 155 (11d10+95)
-**Fort**+12,**Ref**+10,**Will** +6; second saveMA
-**Defensive Abilities**slippery slimeMA; DR 10/epic;**Immune** cold, disease, fire
+**Fort** +12, **Ref** +10, **Will** +6; second saveMA
+**Defensive Abilities** slippery slimeMA; DR 10/epic; **Immune** cold, disease, fire
 
 #### Offense
 
 **Speed** 20 ft., fly 80 ft. (average)
 **Melee** bite +18 (2d6+9), 2 talons +18 (1d8+9/18–20 plus grab)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** channel the voidMA (DC 20), deadly talonsMA, disemboweling flybyMA (DC 24), mythic power (4/ day, surge +1d8)
 
 #### Statistics
 
-**Str**28,**Dex**17,**Con**21,**Int**8,**Wis**17,**Cha** 10
-**Base Atk**+11;**CMB**+22 (+26 bull rush, +26 grapple);**CMD** 35 (39 vs. bull rush, 43 vs. grapple)
+**Str** 28, **Dex** 17, **Con** 21, **Int** 8, **Wis** 17, **Cha** 10
+**Base Atk** +11; **CMB** +22 (+26 bull rush, +26 grapple); **CMD** 35 (39 vs. bull rush, 43 vs. grapple)
 **Feats** Awesome Blow, Flyby Attack, Hover, Improved Bull RushMF, Power AttackMF, SnatchB, Wingover
-**Skills**Escape Artist +11, Fly +13, Knowledge (arcana) +6, Knowledge (dungeoneering) +6, Knowledge (planes) +6;**Racial Modifiers** +8 Escape Artist
+**Skills** Escape Artist +11, Fly +13, Knowledge (arcana) +6, Knowledge (dungeoneering) +6, Knowledge (planes) +6; **Racial Modifiers** +8 Escape Artist
 **Languages** Aklo
 **SQ** no breath, share defenses, starflight
 

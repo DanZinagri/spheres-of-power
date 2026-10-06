@@ -16,7 +16,7 @@ There is always a Chosen One, be it the Messiah, or a Demon, but destiny always 
 
 **Armor Class:** the base creature gains a +2 insight bonus to AC.
 
-**Defenses/Qualities:** A protector creature gains DR X/- where X is equal to half the base creatures hit dices, is**immune**to compulsion and charm effects, and gains**resistance** 5 to all energy types (this increases to 10 at 10 HD and 20 at 15 HD). The base creature loses all weakness and vulnerabilities as well. If the creature is undead or a construct it ignores all commands given to harm or allow harm to befall its protectee.
+**Defenses/Qualities:** A protector creature gains DR X/- where X is equal to half the base creatures hit dices, is **immune** to compulsion and charm effects, and gains **resistance** 5 to all energy types (this increases to 10 at 10 HD and 20 at 15 HD). The base creature loses all weakness and vulnerabilities as well. If the creature is undead or a construct it ignores all commands given to harm or allow harm to befall its protectee.
 
 **Special Abilities:** A protector gains the following special abilities.
 
@@ -36,7 +36,7 @@ There is always a Chosen One, be it the Messiah, or a Demon, but destiny always 
 
 **Shield of Destiny (Su):** An attack that would reduce a protector creature below 0 hp, killing or destroy it, is magically negated unless the protector is using Harm’s Way or performing some other time of heroic sacrifice to defend its protectee (Subject to DM Adjudication).
 
-**Abilities:** Increase from the base creature as follows:**Con**+10 (+5 hp per HD, +5 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Wis** +4 (+2 to Will saves, +2 to Heal, Perception, Profession, Sense Motive and Survival checks, add +2 to any of the creature’s Wisdom-based DCs)
+**Abilities:** Increase from the base creature as follows: **Con** +10 (+5 hp per HD, +5 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Wis** +4 (+2 to Will saves, +2 to Heal, Perception, Profession, Sense Motive and Survival checks, add +2 to any of the creature’s Wisdom-based DCs)
 
 **Skills:** The base creature gains Perception and Sense Motive as class skills. It also gains a number of bonus ranks equal to its HD in these two skills.
 

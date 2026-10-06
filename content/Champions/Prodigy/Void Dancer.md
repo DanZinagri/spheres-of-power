@@ -20,15 +20,15 @@ At 2nd level, the void dancer does not gain the Imbued Sequence options with the
 
 In addition, the void dancer gains the following unique (opener)s, (link)s, and (finish)ers:
 
-- **Marked for Death (opener)**: As a move action, the void dancer makes a melee touch attack against a creature within reach. Successfully performing this touch attack completes this opener; if the void dancer or their avatar makes another successful attack against the target before the start of their next turn, that attack deals an additional +1d6 damage, +1d6 per 4 void dancer levels (this additional damage is of the same type as the original attack’s).
+- **Marked for Death (opener):** As a move action, the void dancer makes a melee touch attack against a creature within reach. Successfully performing this touch attack completes this opener; if the void dancer or their avatar makes another successful attack against the target before the start of their next turn, that attack deals an additional +1d6 damage, +1d6 per 4 void dancer levels (this additional damage is of the same type as the original attack’s).
 
-- **Gibbet and Gallows (link)**: As a swift action, the void dancer makes a single attack with a -5 penalty. If this attack is successful, it completes this link.
+- **Gibbet and Gallows (link):** As a swift action, the void dancer makes a single attack with a -5 penalty. If this attack is successful, it completes this link.
 
-- **The End (finish)**: As a 3-link finisher, as full-round action, the void dancer makes a single weapon attack, creating a close-range burst centered on a primary target within their reach. Make a single attack roll and compare the results of the attack roll to the AC of each creature within the burst’s radius (the void dancer may exclude any number of creatures, at their discretion). Use the same damage roll for each target. For each link in the sequence past 3, this attack deals an additional +2d6 damage (this additional damage is of the same type as the original attack’s). If the sequence is at least 7 links, the void dancer may teleport into any square within the burst’s radius after completing the attack.
+- **The End (finish):** As a 3-link finisher, as full-round action, the void dancer makes a single weapon attack, creating a close-range burst centered on a primary target within their reach. Make a single attack roll and compare the results of the attack roll to the AC of each creature within the burst’s radius (the void dancer may exclude any number of creatures, at their discretion). Use the same damage roll for each target. For each link in the sequence past 3, this attack deals an additional +2d6 damage (this additional damage is of the same type as the original attack’s). If the sequence is at least 7 links, the void dancer may teleport into any square within the burst’s radius after completing the attack.
 
 This modifies imbue sequence.
 
-**Note**: The voidborne sequence ability allows many of the void dancer’s attacks to be performed by their avatar, but only if those attacks would qualify as an (opener), (link), or (finish). This may lead to portions of the void dancer’s combat routine to be performed by the avatar, but any actions the void dancer takes that do not qualify to build more links in the void dancer’s sequence cannot not be performed by the avatar.
+**Note:** The voidborne sequence ability allows many of the void dancer’s attacks to be performed by their avatar, but only if those attacks would qualify as an (opener), (link), or (finish). This may lead to portions of the void dancer’s combat routine to be performed by the avatar, but any actions the void dancer takes that do not qualify to build more links in the void dancer’s sequence cannot not be performed by the avatar.
 
 ## Stained in Shadow (Ex)
 

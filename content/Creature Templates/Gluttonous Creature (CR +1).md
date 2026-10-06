@@ -36,7 +36,7 @@ Gluttony is the most savory, the most sweet, the most delicious of all the sins.
 
 **Swallow Whole (Ex):** The gluttonous creature gains the swallow whole special attack, but only for its great maw. The creature to be swallowed can be no more than one size category larger than the gluttonous creature. Each round inside the stomach deals 3d6 + Constitution modifier damage, half of which is bludgeoning and the other half acid. For every size category the gluttonous creature is beyond Medium, this damage increases by 1d6. See Insatiable Hunger for details on how to escape.
 
-**Abilities:** Increase the creature's abilities as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD, add +2 to any of the base creature’s Strength-based DCs),**Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs).
+**Abilities:** Increase the creature's abilities as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD, add +2 to any of the base creature’s Strength-based DCs), **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs).
 
 **Feats:** Gain Inescapable Grip as a bonus feat (see below).
 

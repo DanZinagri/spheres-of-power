@@ -16,8 +16,8 @@ parent: "[[Spheres Of Power]]"
 
 ### Alfur Vendi [TS]
 
-**Aura**strong Nature;**CL** 12th
-**Slot**none;**Price**80,320 gp;**Weight** 3 lbs.
+**Aura** strong Nature; **CL** 12th
+**Slot** none; **Price** 80,320 gp; **Weight** 3 lbs.
 
 This +3 fey-forged wooden dueling sword is difficult to master, but also a popular choice among agile and charismatic magic warriors who have the traits required for getting the most from it. It’s particularly popular among elite elven warriors, who often carve the sword by hand as part of the long process of making it. Unlike regular dueling swords, the alfur vendi deals bludgeoning damage due to the difficulty of properly sharpening its edge. In addition to its regular weapon traits, this weapon is a +4 Nature implement that helps spherecasters gather and control their powers.
 
@@ -26,8 +26,8 @@ Smith Magical Weapons And Armor, Craft Implement Of Power, Enhancement sphere (M
 
 ### Banishing Blade [TS]
 
-**Aura**faint Protection;**CL** 5th
-**Slot**none;**Price**18,315 gp;**Weight** 3 lbs.
+**Aura** faint Protection; **CL** 5th
+**Slot** none; **Price** 18,315 gp; **Weight** 3 lbs.
 
 Light and easy to handle, these +1 decisive gladiuses are often used to help repel extraplanar creatures in cases where outright defeating them would take more time and be more dangerous.
 
@@ -36,8 +36,8 @@ Smith Magical Weapons And Armor, Protection sphere, **Cost** 9,157.5 gp
 
 ### Banishing Blade, Greater [TS]
 
-**Aura**faint Protection and strong Enhancement;**CL** 12th
-**Slot**none;**Cost**86,315 gp;**Weight** 3 lbs.
+**Aura** faint Protection and strong Enhancement; **CL** 12th
+**Slot** none; **Cost** 86,315 gp; **Weight** 3 lbs.
 
 More expensive but also noticeably more powerful than their lesser cousins, these +3 decisive gladiuses also bestow a +6 enhancement bonus to Charisma upon their wielders, helping to maximize the chance of banishing extraplanar creatures away from the material realm. Rumors exist of banishing blades that also have the keen enchantment, though most people who specialize in using this weapon prefer to focus their training on achieving critical hits without needing to rely on weapon enchantments.
 
@@ -46,12 +46,12 @@ Smith Magical Weapons And Armor, Forge Charm, Enhancement sphere (Mental Enhance
 
 ### Banner of the Saints [TS]
 
-**Aura**moderate Protection;**CL** 5th
-**Slot**none;**Cost**28,505 gp;**Weight** 9 lbs.
+**Aura** moderate Protection; **CL** 5th
+**Slot** none; **Cost** 28,505 gp; **Weight** 9 lbs.
 
 This +1 holy mithral longspear has a gleaming banner tied to its end. Once per day, as an immediate action, a creature can activate the banner of the saints to create a ward that repels magic. This functions as the Spell Ward (aegis, ward) talent of the Protection sphere, but instead of attempting a check against your MSD, creatures must attempt a check against a DC of 10 + your character level. This ward remains for one round per caster level of this item.
 
-**Flask Shard Effect:** Increase the CL of this item to the next increment of 5, increase its enhancement bonus by +1, increase the number of times the Spell Ward can be used each day by 1, and increase the DC to overcome the spell ward by 2. At +2, this item becomes a minor artifact.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the CL of this item to the next increment of 5, increase its enhancement bonus by +1, increase the number of times the Spell Ward can be used each day by 1, and increase the DC to overcome the spell ward by 2. At +2, this item becomes a minor artifact. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Align Object (word)), Protection sphere (Spell Ward (aegis, ward)); **Cost** 14,252.5 gp
@@ -59,8 +59,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Align Object
 ### Barbarian’s Furry [Jester's HB]
 
 “Oho? What’s this?” -Yarsgall, the Furred King
-**Aura**faint Alteration;**CL** 6th
-**Slot**weapon;**Price**18,500 gp;**Weight** 10 lbs.
+**Aura** faint Alteration; **CL** 6th
+**Slot** weapon; **Price** 18,500 gp; **Weight** 10 lbs.
 
 Barbarian’s furry is a +2 battleaxe adorned in furs and skulls which brings out the inner beast of its victims. Twice per day, when the wielder of barbarian’s furry deals damage to a creature with an attack action, the wielder can choose to activate its secondary effect. The target must succeed at a DC 13 Will save or be affected by a shapeshift, gaining the Animalistic Transformation and Bestial Mind trait, and must succeed at an additional DC 13 Will save or be affected by the Bestial Mind trait. This shapeshift lasts 6 minutes. The barbarian’s furry’s ability cannot be used alongside other strike talents.
 
@@ -69,10 +69,10 @@ Smith Magical Weapons and Armor, Craft Marvelous Item, Alteration sphere (Animal
 
 ### Bard-King’s Tongue [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Destruction and Mind —**CL**8th —**Scaling** wonder
-**Slot**weapon —**Price**9,900 gp —**Weight** 2 lbs.
+**Aura** moderate Destruction and Mind — **CL** 8th — **Scaling** wonder
+**Slot** weapon — **Price** 9,900 gp — **Weight** 2 lbs.
 
 **Description**
 The bard-king’s tongue is a +1 resonant rapier that also functions as a masterwork flute. The wielder gains an enhancement bonus to Perform (wind) checks equal to twice the bard-king’s tongue’s total enhancement bonus.
@@ -86,8 +86,8 @@ Smith Magical Arms and Armor, Destruction sphere (any (blast type) talent from t
 
 ### Blade of the Inspiring Herald
 
-**Aura**strong Mind;**CL** 14th
-**Slot**none;**Price**98,000 gp;**Weight** 4 lbs.
+**Aura** strong Mind; **CL** 14th
+**Slot** none; **Price** 98,000 gp; **Weight** 4 lbs.
 
 **Description**
 A fine steel blade with gold filigree inlaid at the handle bearing a crest from a noble house, the blade of the inspiring herald is a +1 courageous rapier that also grants its user a +5 enhancement bonus to caster level with the Mind sphere.
@@ -97,8 +97,8 @@ Smith Magical Weapons And Armor, Craft Implement Of Power, Mind sphere; **Cost**
 
 ### Blasting Stick [TS]
 
-**Aura**faint Destruction;**CL** 5th
-**Slot**none;**Price**9,300 gp;**Weight** 3 lbs.
+**Aura** faint Destruction; **CL** 5th
+**Slot** none; **Price** 9,300 gp; **Weight** 3 lbs.
 
 This long, thin +1 destructive focus elysian bronze club has ornate runes carved down its length that glow and smolder when the wielder casts a spell. Casters with the Destruction sphere may upgrade this weapon’s enhancement bonus or improve its special ability to the greater destructive focus ability as if they possessed the Smith Magical Weapons And Armor feat, but their base caster level (not counting any bonuses, such as from implements or class abilities) must be at least 3x the total enhancement bonus. This cannot be bypassed by raising the DC of the Spellcraft check to finish crafting. Casters must also provide the appropriate amount of additional crafting materials to upgrade this item; this item counts as half its total value in crafting materials and may be used normally throughout the crafting process. (For example, upgrading the blasting stick to a +2 weapon, which gives it +3 total bonus, changes its base cost from 9,300 gp to 19,300 gp and requires an additional 5,000 gp in materials, a caster level of 9, and 10 days of crafting to complete.)
 
@@ -107,8 +107,8 @@ Smith Magical Weapons And Armor, Destruction sphere; **Cost** 4,650 gp
 
 ### Bow of Order [TS]
 
-**Aura**moderate Fate;**CL** 9th
-**Slot**none;**Price**35,100 gp;**Weight** 3 lbs.
+**Aura** moderate Fate; **CL** 9th
+**Slot** none; **Price** 35,100 gp; **Weight** 3 lbs.
 
 This +1 axiomatic composite longbow (Str +5) is a favored tool of lawmen who hunt chaotic individuals or outsiders, and many pay to enhance it further. Three times per day, when you or one of your allies within 45 feet is making an attack roll, skill check, ability score check, or saving throw, you may activate the bow of order as an immediate action to allow them to make the roll twice and take the highest roll. You must activate this effect before the roll in question is made. You may only activate the bow of order’s reroll effect if your alignment is lawful.
 
@@ -117,10 +117,10 @@ Smith Magical Weapons And Armor, Fate sphere (Bless (word)); **Cost** 17,550 gp
 
 ### Burrower’s Spade [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Creation —**CL** 6th
-**Slot**weapon —**Price**24,000 gp —**Weight** 14 lbs.
+**Aura** moderate Creation — **CL** 6th
+**Slot** weapon — **Price** 24,000 gp — **Weight** 14 lbs.
 
 **Description**
 This +1/+1 grounding monk’s spade looks rough and well-used, with a thin layer of dirt and grime on its shovel side. Twice per day, the wielder can use the Survivalism sphere dredge ability with the Disrupt Terrain (ground) talent (using the wielder's Hit Dice as their associated ranks in the sphere to determine its effects).
@@ -132,8 +132,8 @@ Smith Magical Arms and Armor, Creation or Nature sphere — **Cost** 12,000 gp
 
 ### Cat o’ Nine [Catgirl HB]
 
-**Aura**moderate Enhancement and Fallen Fey;**CL** 7th
-**Slot**none;**Price**39,000 gp;**Weight** 2 lbs.
+**Aura** moderate Enhancement and Fallen Fey; **CL** 7th
+**Slot** none; **Price** 39,000 gp; **Weight** 2 lbs.
 
 **Description**
 Cat o’ Nine is a +1 fey-forged wounding cat-o’-nine-tails is a saltwarped whip cursed by a vengeful bakemono which would cruelly bleed out its prey. Each end of this whip is adorned with sharp, hook-like fangs which shred flesh. Whenever the cat o’ nine’s wounding special weapon ability would cause a creature to suffer bleed damage, this bleed damage is increased by +1 for every 4 by which your attack roll exceeds the opponent’s AC (maximum 9 bleed).
@@ -143,8 +143,8 @@ Smith Magical Weapons and Armor, Enhancement (Ragged Edges (enhance)), Fallen Fe
 
 ### Chainblade [TS]
 
-**Aura**moderate Destruction;**CL** 4th
-**Slot**none;**Price**25,700 gp;**Weight** 10 lbs.
+**Aura** moderate Destruction; **CL** 4th
+**Slot** none; **Price** 25,700 gp; **Weight** 10 lbs.
 
 One of the most fiendishly complex (and intimidating) weapons, the chainblade is a +1 blast vessel tenebrous chainsawInv. HB in the shape of a two-handed sword that can hold three charges that let it run for up to one hour each, and they can be recharged by spending 15 minutes with it. In addition to their ability to be stored in shadows and channel destructive energies, chainblades also contain sockets to attach up to three chainblade spell engines (although only one can power the blast vessel effect at once). The price of this item includes one of these spell engines. The blast vessel effect of this weapon is inactive unless the chainblade is running, but immediately takes effect (if it has been applied that day) whenever the wielder begins running it.
 
@@ -153,8 +153,8 @@ Smith Magical Weapons And Armor, Craft Spell Engine, Destruction sphere (any (bl
 
 ### Chainblade Spell Engine [TS]
 
-**Aura**faint Destruction;**CL** 2nd
-**Slot**special;**Price**1,000 gp;**Weight** 2 lbs.
+**Aura** faint Destruction; **CL** 2nd
+**Slot** special; **Price** 1,000 gp; **Weight** 2 lbs.
 
 Chainblade spell engines are small, disc-shaped spell engines of the Destruction sphere that contain a single (blast type) talent. However, these items can only be used to activate the blast vessel special weapon ability on a weapon designed to use them and cannot be used to cast effects independently. Using a chainblade spell engine requires a DC 20 Use Magic Device check unless the user has the Destruction sphere.
 
@@ -163,8 +163,8 @@ Craft Spell Engine, Destruction sphere (any (blast type) talent); **Cost** 500 g
 
 ### Claw of Chaos [TS]
 
-**Aura**moderate Fate;**CL** 9th
-**Slot**none;**Price**25,502 gp;**Weight** 3 lbs.
+**Aura** moderate Fate; **CL** 9th
+**Slot** none; **Price** 25,502 gp; **Weight** 3 lbs.
 
 This +1 anarchic tekko-kagiUE is a flexible piece of equipment favored by warriors who have erratic combat styles. Three times per day, when a creature within 45 feet succeeds at a saving throw, skill check, or ability check, or hits with an attack, you may activate the claw of chaos as an immediate action to force them to reroll the saving throw, skill check, ability check, or attack roll. However, starting after the reroll, they gain a +4 bonus to that category of roll until they succeed at another such saving throw or check or, if they reroll an attack roll, until they hit with another attack. Succeeding on the rerolled saving throw or check or hitting with the rerolled attack does not end this effect. You may only activate the claw of chaos’s reroll effect if your alignment is chaotic.
 
@@ -173,8 +173,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Align Object
 
 ### Commander’s Blade [TS]
 
-**Aura**faint War;**CL** 3rd
-**Slot**none;**Price**18,322.5 gp;**Weight** 3 lbs.
+**Aura** faint War; **CL** 3rd
+**Slot** none; **Price** 18,322.5 gp; **Weight** 3 lbs.
 
 This +1 adamantine gladius has ornate gold decorations covering its broader sides, making it as much a work of art as a weapon of war. Three times per day, when an enemy misses an ally within 520 feet (including yourself) with a melee attack, you may spend an immediate action to allow that ally to make an attack with a natural or manufactured weapon against the enemy that missed them. If the attack hits, the ally gains a +4 dodge bonus against that enemy until the end of their next turn. If the ally was flat-footed against the enemy, they are no longer flat-footed, unless they are somehow immobilized or the attacker successfully feints after the counterattack.
 
@@ -183,8 +183,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, War sphere (Counterattack
 
 ### Cosmic Axe [TS:WAT]
 
-**Aura**faint Warp;**CL** 3rd
-**Slot**none;**Price**11,906 gp;**Weight** 3 lbs.
+**Aura** faint Warp; **CL** 3rd
+**Slot** none; **Price** 11,906 gp; **Weight** 3 lbs.
 
 The +1 ghost touch handaxe has a head that lets you look through daylight, cloud cover, and all physical objects to show the view of space through it, allowing one to check constellations and other stellar phenomena even during the day, and through the entire planet if need be. A thin, opaque metal band surrounds the axe head and provides its cutting edge. As a standard action the user can take once per day, the wielder of the cosmic axe can summon a transparent image of the cosmos around them. This functions as the Illusion sphere’s Blur (glamer) applied to the user, granting a miss chance of 35% to all attacks made against them for 3 minutes.
 
@@ -195,8 +195,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Illusion sphere (Blur (gl
 
 ### Cremator, The [TS:WAT]
 
-**Aura**moderate Creation;**CL** 10th
-**Slot**none;**Price**38,310 gp;**Weight** 0.4 lbs.
+**Aura** moderate Creation; **CL** 10th
+**Slot** none; **Price** 38,310 gp; **Weight** 0.4 lbs.
 
 This +1 plasma blade dagger allows the user to activate or deactivate its blade by speaking a command word. However, what sets this dagger apart from most others is that creatures slain by it are turned to ashes, as if subjected to a disintegration effect. Each time this weapon turns a Small (or larger) creature to ashes, it gains one charge of ashes, to a maximum of five charges stored. As a standard action, the wielder of this blade can use five charges of ashes to envelop a 50-foot sphere in heavy ash, as the severity level 4 effect of the Weather sphere. This weather condition persists for 5 minutes, but does not affect or hinder the wielder of the cremator.
 
@@ -207,8 +207,8 @@ Smith Magical Weapons And Armor, Creation sphere (Plasma Production (material)),
 
 ### Crystal Laser Axe [TS]
 
-**Aura**moderate Light;**CL** 6th
-**Slot**none;**Price**33,810 gp;**Weight** 6 lbs.
+**Aura** moderate Light; **CL** 6th
+**Slot** none; **Price** 33,810 gp; **Weight** 6 lbs.
 
 This +2 radiant edge blood crystalUE battleaxe can project deadly light in combat, allowing its wielder to reach foes who are farther away. When bleeding foes are struck this way, the blood crystal at the weapon’s core draws the target’s blood up through the light, creating bright red lines in its radiant edge and briefly increasing the intensity of its glow when the blood reaches the crystal. The wielder may activate or deactivate the radiant edge effect as a free action during their turn.
 
@@ -217,12 +217,12 @@ Smith Magical Weapons And Armor, Light sphere; **Cost** 16,905 gp
 
 ### Crystalspawn Mace [TS:WAT]
 
-**Aura**moderate Destruction;**CL**6th;**SP** 1
-**Slot**none;**Price**17,304 gp;**Weight** 6 lbs.
+**Aura** moderate Destruction; **CL** 6th; **SP** 1
+**Slot** none; **Price** 17,304 gp; **Weight** 6 lbs.
 
 This +2 obsidianUE morningstar slowly heals any damage done to it, as if it were made of living steelUE. When the wielder strikes an enemy with a standard action attack, or when making an attack with this weapon as a special attack action if the wielder has the Spell Attack feat, the enemy takes an additional 1d4 piercing damage per caster level and must succeed at a Reflex save or be entangled (as the effects of the Destruction sphere’s Crystal Blast (blast type, crystal) talent). This effect does not activate if the user is already applying a strike talent to their attack. The DC of this effect equals 10 + 1/2 this effect’s caster level. This effect’s caster level starts at 6, and the wielder may spend a spell point from this weapon to increase the DC of the Reflex save for this effect by their casting ability modifier (or by their highest mental ability score modifier if they do not have a casting ability modifier). This does not work if the wielder can already apply their casting ability modifier to the saving throw for this effect. The additional piercing damage and entangling effect have a separate caster level from the item’s regular caster level and do not improve if the user increases this item’s enhancement bonus. A creature who has the Destruction sphere may recharge this item’s spell points as if it were a spell engine.
 
-**Flask Shard Effect:** Increase the caster level of this item’s Crystal Blast effect to the next increment of 4, and increase the maximum number of spell points it contains by 1 (at +1) or by 2 (at +2, +3, and +4). The item immediately gains the new spell points when a flask shard is added to it. Adding a flask shard increases the value of this item as if it were a spell engine.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item’s Crystal Blast effect to the next increment of 4, and increase the maximum number of spell points it contains by 1 (at +1) or by 2 (at +2, +3, and +4). The item immediately gains the new spell points when a flask shard is added to it. Adding a flask shard increases the value of this item as if it were a spell engine. **Flask Shard Limit:** +4
 
 **Awakening Effect:** The crystalspawn mace becomes a +5 impactUE phase lockingUE obsidian morningstar, and its flask shard effect immediately increases to +4 (if it is below that level).
 
@@ -231,8 +231,8 @@ Smith Magical Weapons And Armor, Craft Spell Engine, Destruction sphere (Crystal
 
 ### Devouring Axe [TS]
 
-**Aura**faint Alteration And Blood;**CL** 5th
-**Slot**none;**Price**18,310 gp;**Weight** 6 lbs.
+**Aura** faint Alteration And Blood; **CL** 5th
+**Slot** none; **Price** 18,310 gp; **Weight** 6 lbs.
 
 This +1 hungry thirsty battleaxe actively tries to devour enemies in combat, greedily tearing at their flesh and drinking their blood. It often acts much tamer around masters who feed it regularly, and while most casters swear it is not actually intelligent (or alive), wielders often treat it like a pet.
 
@@ -241,8 +241,8 @@ Smith Magical Weapons And Armor, Alteration sphere (Object Transformation (trans
 
 ### Dragonbone Pistol
 
-**Aura**moderate Enhancement;**CL** 10th
-**Slot**weapon;**Price**33,300 gp;**Weight** 4 lbs.
+**Aura** moderate Enhancement; **CL** 10th
+**Slot** weapon; **Price** 33,300 gp; **Weight** 4 lbs.
 
 **Description**
 A dragonbone pistol is a +1 flaming pistol that appears to be mostly carved from a single piece of bone, with small pieces made of other bone fragments. Draconic runes are inscribed along its barrel, and a DC 20 Heal check will reveal that it is alive. In fact, if damaged or even destroyed, the weapon will regenerate in 1d6 hours.
@@ -258,8 +258,8 @@ Smith Magical Weapons And Armor, Craft Implement Of Power, Destruction sphere (F
 
 ### Dream Of The Wild [TS:WAT]
 
-**Aura**moderate Divination and Telekinesis;**CL** 6th
-**Slot**none;**Price**38,750 gp;**Weight** 1 lb.
+**Aura** moderate Divination and Telekinesis; **CL** 6th
+**Slot** none; **Price** 38,750 gp; **Weight** 1 lb.
 
 This +2 arcing seeking darkwood shortbow is favored by martially-inclined druids and others who hunt in the wilderness. The grip of this elaborately-decorated weapon is marked with the symbol of a unicorn, while each of the limbs is patterned after an outstretched wing. In addition to functioning as a weapon, this bow provides the benefits of a pair of timeshifting glovesTS, allowing the wielder to fire more rapidly when needed.
 
@@ -270,8 +270,8 @@ Smith Magical Weapons And Armor, Divination sphere, Telekinesis sphere, Time sph
 
 ### Duelist’s Rapier [TS]
 
-**Aura**faint Protection;**CL** 5th
-**Slot**none;**Price**32,320 gp;**Weight** 2 lbs.
+**Aura** faint Protection; **CL** 5th
+**Slot** none; **Price** 32,320 gp; **Weight** 2 lbs.
 
 Normally used only by the wealthiest duelists, this +3 preventative rapier helps defend its bearer after striking a foe, and that can make all the difference in a serious duel between two nearly-matched competitors. Lesser (+1/18,320 gp) and greater (+5/72,320 gp) versions exist, though the weaker effect of lesser versions makes them less popular and the sheer cost of greater versions often keeps them out of reach.
 
@@ -280,8 +280,8 @@ Smith Magical Weapons And Armor, Protection sphere; **Cost** 16,160 gp
 
 ### Elemental Blade [TS]
 
-**Aura**faint Destruction;**CL** 5th
-**Slot**none;**Price**53,018 gp;**Weight** 4 lbs.
+**Aura** faint Destruction; **CL** 5th
+**Slot** none; **Price** 53,018 gp; **Weight** 4 lbs.
 
 While they take extensive training to use, these +1 corrosive flaming frost shock adamantine falcata can strike foes with a barrage of elemental damage to pinpoint their weakness. As each element can be disabled separately, users are rarely at risk of benefiting their foes.
 
@@ -290,8 +290,8 @@ Smith Magical Weapons And Armor, Destruction sphere (any four (blast type) talen
 
 ### Elemental Blade, Greater [TS]
 
-**Aura**strong Destruction;**CL** 12th
-**Slot**none;**Price**203,018 gp;**Weight** 4 lbs.
+**Aura** strong Destruction; **CL** 12th
+**Slot** none; **Price** 203,018 gp; **Weight** 4 lbs.
 
 Usually spoken of only in reverent whispers, greater elemental blades are +1 corrosive burst flaming burst icy burst shocking burst thundering adamantine falcata. While they act like their lesser cousins most of the times, critical hits trigger a titanic explosion of elemental damage matched by few other weapons in reality (2d10 each of acid, cold, electricity, and fire damage, 2d8 sonic damage, and the chance to deafen foes, all on top of their regular elemental damage). Only a few greater elemental blades are known to exist, and it takes a true specialist to maximize their potential.
 
@@ -301,16 +301,16 @@ Smith Magical Weapons And Armor, Destruction sphere (any five (blast type) talen
 ### Energy Sword
 
 **Cost** 12,000 gp
-**Type**one-handed melee;**Proficiency**exotic;**Weight** 1 lbs.
-**Damage**1d8 (Small), 1d10 (Medium);**Damage Type**E and F;**Critical** 19-20/x3
-**Range**—;**Capacity**10;**Usage** 1 charge/10 minutes
+**Type** one-handed melee; **Proficiency** exotic; **Weight** 1 lbs.
+**Damage** 1d8 (Small), 1d10 (Medium); **Damage Type** E and F; **Critical** 19-20/x3
+**Range** —; **Capacity** 10; **Usage** 1 charge/10 minutes
 
 **Description**
 When activated, an energy sword’s ornate handle projects a quantum field that contains energized plasma in a 2- to 3-ft.-long “blade.” Attacks made with an energy blade resolve as touch attacks. Half the damage it deals is electricity and the other half is fire. This damage bypasses resistance to fire and electricity, but not immunity. Creatures which are immune to fire or electricity take half damage from an energy sword and creatures immune to both take no damage. When the wielder attacks an object, damage from an energy sword ignores the first 20 points of hardness and its damage is not halved (even though energy damage is usually halved when applied to objects). Thanks to its quantum containment, an energy sword deals half damage against incorporeal creatures, despite not being a magical weapon.
 
 ### Eternal Blade [High. HB]
 
-**Price**450 gp;**Slot**none;**CL**3rd;**Weight**varies; see text;**Aura**moderate Creation and Nature;**Scaling** prize
+**Price** 450 gp; **Slot** none; **CL** 3rd; **Weight** varies; see text; **Aura** moderate Creation and Nature; **Scaling** prize
 
 The life of a highlander’s sword is not an easy one, especially for the eternal blade.
 
@@ -322,12 +322,12 @@ Whenever you would score a critical threat against an opponent using the eternal
 - **8th Level – 4,900 gp:** The eternal blade in all its forms turns a shade of green as it becomes made of the living steel special material. Being made of living steel causes the eternal blade to regain 2 hit points each day (or 1 hit point each day if it is in dagger form and with the broken condition). Each day that the eternal blade begins the morning with full hit points, it returns 1 step closer to its original form as a greatsword.
 - **10th Level – 9,300 gp:** The eternal blade in all its forms gains the impervious weapon special ability, which makes it immune to rust, doubles the normal bonus to its hardness and hit points for each point of its enhancement bonus, and gain a +2 bonus to the eternal blade’s break DC and the wielder’s combat maneuver defense against sunder maneuvers.
 
-**Cost**4,650 gp;**Feats** Smith Magical Weapons and Armor; Spells Creation sphere (Expanded Materials), or Nature sphere (Living Steel).
+**Cost** 4,650 gp; **Feats** Smith Magical Weapons and Armor; Spells Creation sphere (Expanded Materials), or Nature sphere (Living Steel).
 
 ### Flamebelcher Rifle [TS:WAT]
 
-**Aura**moderate Destruction;**CL** 6th
-**Slot**none;**Price**83,300 gp;**Weight** 12 lbs.
+**Aura** moderate Destruction; **CL** 6th
+**Slot** none; **Price** 83,300 gp; **Weight** 12 lbs.
 
 This +2 nimble shotUE rifleUE is covered with scorch marks. The muzzle is a little heavier than usual thanks to a box crudely clamped on its end. Whenever a creature fires this rifle, it belches a blast of flames into the first square the bullet moves into after leaving the user’s square. This flame deals 2d6 fire damage (Reflex DC 13 halves) to all creatures in that square. This is an area-of-effect blast and is effective against swarms and similar creatures.
 
@@ -338,8 +338,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Destruction sphere (Explo
 
 ### Frost Drake’s Maw [TS:WAT]
 
-**Aura**moderate Destruction;**CL** 6th
-**Slot**none;**Price**39,010 gp;**Weight** 6 lbs.
+**Aura** moderate Destruction; **CL** 6th
+**Slot** none; **Price** 39,010 gp; **Weight** 6 lbs.
 
 This one-headed +2 icy burst frost-forged steelUE battleaxe is decorated like a dragon’s head. In addition, this weapon provides the effects of a thunderbolt ringTS, except that it deals cold damage instead of electricity damage, strikes creatures in a close-ranged cone (25 feet + 5 feet per 2 caster levels) instead of a line, and does not gain a bonus effect based on the target’s armor. Creatures within the cone may attempt a Reflex save (DC 10 + 1/2 this item’s caster level, initially DC 13) to halve the damage. Rumors claim that similar axes that deal fire, acid, or electricity damage exist.
 
@@ -350,7 +350,7 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Destruction sphere (Frost
 
 ### Gáe Bulg [High. HB]
 
-**Price**2360 gp;**Slot**none;**CL**4th;**Weight**9 lbs.;**Aura**moderate Blood and Death;**Scaling** wonder
+**Price** 2360 gp; **Slot** none; **CL** 4th; **Weight** 9 lbs.; **Aura** moderate Blood and Death; **Scaling** wonder
 
 The gáe bulg is a weapon from the spear weapon group (such as a javelin or longspear) with a +1 enhancement bonus.
 
@@ -360,12 +360,12 @@ The gáe bulg is a weapon from the spear weapon group (such as a javelin or long
 - **12th Level** – 32,400 gp: In addition to its other enhancements and abilities, the gáe bulg gains the bloodsong weapon special ability.
 - **14th Level** – 55,500 gp: In addition to its other enhancements and abilities, the gáe bulg gains the heartseeker weapon special ability.
 
-**Cost**27,750 gp;**Feats**Smith Magical Weapons and Armor;**Spells** Blood, Death, and Mind sphere
+**Cost** 27,750 gp; **Feats** Smith Magical Weapons and Armor; **Spells** Blood, Death, and Mind sphere
 
 ### Ghost Grip Gauntlets
 
-**Aura**moderate Death;**CL** 10th
-**Price**30,304 gp;**Weight** 1 lb.
+**Aura** moderate Death; **CL** 10th
+**Price** 30,304 gp; **Weight** 1 lb.
 
 **Description**
 These +1 cold iron ghost touch gauntlets allow the wearer to ignore the immunity to tripping and grappling granted by the incorporeal property. The wearer may treat attacks made with these gloves as unarmed strikes if beneficial.
@@ -375,8 +375,8 @@ Smith Magical Weapons And Armor, Warp sphere; **Cost** 15,304 gp
 
 ### Hammer of Expulsion [TS]
 
-**Aura**faint Creation;**CL** 3rd
-**Slot**none;**Price**4,812 gp;**Weight** 5 lbs.
+**Aura** faint Creation; **CL** 3rd
+**Slot** none; **Price** 4,812 gp; **Weight** 5 lbs.
 
 This +1 warhammer has a large quartz orb embedded into its side. Whenever the user would use their thunderous blows feature to sunder a creature’s natural armor or natural weapons, they may instead attempt to reduce a creature’s deflection bonus to armor class (as if sundering natural armor) or enhancement bonuses (as if sundering natural weapons), subject to the same limits on reductions described in the thunderous blows feature.
 
@@ -385,8 +385,8 @@ Smith Magical Weapons And Armor, Creation sphere; **Cost** 2,406 gp
 
 ### Horror’s Ruin
 
-**Aura**moderate Fate;**CL**3rd;**Scaling** wonder
-**Slot**none;**Price**1,375 gp;**Weight** 20 lbs.
+**Aura** moderate Fate; **CL** 3rd; **Scaling** wonder
+**Slot** none; **Price** 1,375 gp; **Weight** 20 lbs.
 
 **Description**
 This articulately made cane unsheathes a masterwork sword cane pistol made of mithril.
@@ -407,8 +407,8 @@ Smith Magical Weapons And Armor, Enhancement sphere, Fate sphere; **Cost** 51,81
 
 ### Hungering Pistol [TS]
 
-**Aura**faint Death and Telekinesis;**CL** 5th
-**Slot**none;**Price**17,700 gp;**Weight** 4 lbs.
+**Aura** faint Death and Telekinesis; **CL** 5th
+**Slot** none; **Price** 17,700 gp; **Weight** 4 lbs.
 
 This +1 arcing revolver is excellent at striking foes behind cover, making it a favored tool of gunslingers who often find themselves fighting foes in cramped, complex areas. However, these pistols also carry the effects of a vampiric maw (see [[Marvelous Items Wondrous Items|Marvelous Items]]), allowing gunslingers in tight quarters to harm some of their enemies while restoring their own health.
 
@@ -417,12 +417,12 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Death sphere (Greater Gho
 
 ### Hydrargyrum Hammer [TS:WAT]
 
-**Aura**faint Creation;**CL** 3rd
-**Slot**none;**Price**17,812 gp;**Weight** 5 lbs.
+**Aura** faint Creation; **CL** 3rd
+**Slot** none; **Price** 17,812 gp; **Weight** 5 lbs.
 
 This +1 virulentMCodex living mercury warhammer occasionally ripples somewhat and always seems perpetually on the verge of losing its shape and draining into the ground. Treat living mercury as living steelUE, except that it is silvery-white in color and is not affected by anything that specifically affects steel. In addition, as a standard action, this hammer’s wielder can use it to create any poison they know of whose cost is equal to or less than the gp amount for this item’s caster level, as detailed in the Creation sphere’s Alchemical Creation (material) talent. This poison is immediately applied to the hydrargyrum hammer and cannot be extracted or used for other purposes. This poison remains until used or overwritten by another poison. The wielder is never at risk of being poisoned by any poison this weapon contains.
 
-**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4. At base, this effect is worth 9,000 gp. At +1, this effect is worth 12,000 gp, and its value increases by another 12,000 gp for each increase thereafter. This effect is different from, and not changed by, the item’s regular enhancement bonus.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4. At base, this effect is worth 9,000 gp. At +1, this effect is worth 12,000 gp, and its value increases by another 12,000 gp for each increase thereafter. This effect is different from, and not changed by, the item’s regular enhancement bonus. **Flask Shard Limit:** +4
 
 **Awakening Effect:** The hydrargyrum hammer becomes a +5 toxicPPC:AoE virulentMCodex living mercury warhammer, and the flask shard effect immediately upgrades to +4 if it is below this level. In addition, while it is held, this weapon creates a field of mercury that hovers around the wielder and automatically intercepts attacks. This has the same effects as the wielder wearing a suit of living steel armor if the opponent rolls a natural 1 on their attacks, and the field of mercury has the same properties as the poison currently infused in the hammer. Any creature that makes physical contact with the mercury field (such as through an unarmed strike or natural attack) is exposed to the poison.
 
@@ -431,9 +431,9 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Creation sphere (Alchemic
 
 ### Inferno Blade [TS]
 
-**Aura**moderate Creation and strong Destruction;**CL** 20th
-**Slot**none;**Price**690,975 gp;**Weight** 1.6 lbs.
-**SP**10;**Range** as weapon
+**Aura** moderate Creation and strong Destruction; **CL** 20th
+**Slot** none; **Price** 690,975 gp; **Weight** 1.6 lbs.
+**SP** 10; **Range** as weapon
 
 “Craftsman, I fear you may have misunderstood me. I did not say I wanted this sword enchanted with some fire. I said I wanted it enchanted with ALL the fire. The funds you need will be in your account this evening.”
 
@@ -450,8 +450,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Craft Spell Engine, Creat
 
 ### Invisible Gun [TS]
 
-**Aura**moderate Illusion;**CL** 8th
-**Slot**none;**Price**50,487.5 gp;**Weight** 1 lb.
+**Aura** moderate Illusion; **CL** 8th
+**Slot** none; **Price** 50,487.5 gp; **Weight** 1 lb.
 
 This +1 invisible coat pistol is easy to conceal on the body, but its real value comes from the fact that most creatures besides the wielder cannot see it. More than a few adventurers have ‘pretended’ to be holding a weapon in order to trick foes into letting their guard down.
 
@@ -460,8 +460,8 @@ Smith Magical Weapons And Armor, Illusion sphere (Suppression (glamer)); **Cost*
 
 ### Iron Wall [TS]
 
-**Aura**moderate Enhancement;**CL** 7th
-**Slot**none and belt;**Price**14,340 gp;**Weight** 14 lbs.
+**Aura** moderate Enhancement; **CL** 7th
+**Slot** none and belt; **Price** 14,340 gp; **Weight** 14 lbs.
 
 The sheer size of this +1 avalanche earth breaker’s hammer head evokes images of being smashed by something more akin to a wall than a weapon. Particularly prized by iron mage hedgewitches who have the Fortified Casting boon as part of their casting tradition, the iron wall also provides the benefits of a +2 belt of mountains, improving both the wielder’s offense with this weapon and their ability to endure blows.
 
@@ -470,14 +470,14 @@ Smith Magical Weapons And Armor, Forge Charm, Enhancement sphere (Physical Enhan
 
 ### Knife Wife [TS]
 
-**Aura**moderate Life;**CL** 9th
-**Slot**none;**Price**47,902 gp;**Weight** 2 lbs.
+**Aura** moderate Life; **CL** 9th
+**Slot** none; **Price** 47,902 gp; **Weight** 2 lbs.
 
 This healing shiv (see [[Marvelous Items Wondrous Items|Marvelous Items]]) is a +3 attendant living steelUE dagger. However, it is also an intelligent item, motivated to be owned by people who are eager to use it on both themselves and others. This item can be rather clingy and jealous, and it often activates its attendant power to fly towards its current owner anytime they start to get too far away from it. This knife is known to use its diplomatic prowess to convince potential owners to pick it up and start using it… or to interject in conversations and convince potential challengers to go away.
 
 **Statistics**
 **Alignment** chaotic neutral (accepts any good, chaotic, or true neutral owners)
-**Int**10,**Wis**10,**Cha**20,**Ego** 9
+**Int** 10, **Wis** 10, **Cha** 20, **Ego** 9
 **Senses** 120 ft., read languages, read magic
 **Languages** Common
 **Abilities** The knife wife has a +10 bonus to Diplomacy (total +15).
@@ -487,8 +487,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Life sphere (Clarified St
 
 ### Lasso of Honesty [TS]
 
-**Aura**moderate Fate;**CL** 9th
-**Slot**none;**Price**54,300.15 gp;**Weight** 5 lbs.
+**Aura** moderate Fate; **CL** 9th
+**Slot** none; **Price** 54,300.15 gp; **Weight** 5 lbs.
 
 This +3 lasso generates light with a strobe effect whenever the wielder successfully entangles a foe with it, causing it to generate light as a torch until the start of your next turn. As part of making a successful entanglement with the lasso of honesty, or as a standard action against an entangled creature, the wielder can also force the target to speak honestly as the Truth word of the Fate sphere (Will DC 13 negates). This effect may be used an unlimited number of times per day and lasts for six minutes when successful.
 
@@ -497,8 +497,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Shrieking St
 
 ### Lucky Pistol [TS]
 
-**Aura**faint Divination and Telekinesis;**CL** 5th
-**Slot**none;**Price**10,085 gp;**Weight** 1 lb.
+**Aura** faint Divination and Telekinesis; **CL** 5th
+**Slot** none; **Price** 10,085 gp; **Weight** 1 lb.
 
 These +1 arcing dagger pistols also function as lucky charms for their owner (see [[Marvelous Items Wondrous Items|Marvelous Items]]), granting the ability to improve the chance of hitting a foe hidden behind cover when it is needed most.
 
@@ -507,8 +507,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Divination sphere (Divine
 
 ### Magebane [TS]
 
-**Aura**moderate Fate;**CL** 6th
-**Slot**none;**Price**32,375 gp;**Weight** 8 lbs.
+**Aura** moderate Fate; **CL** 6th
+**Slot** none; **Price** 32,375 gp; **Weight** 8 lbs.
 
 Magebanes are +2 keen wild critical falchions often carried by warriors who face a lot of spellcasters and want to disrupt their spellcasting. Magebanes have a +2 bonus to critical hit confirmation rolls.
 
@@ -517,20 +517,20 @@ Smith Magical Weapons And Armor, Enhancement sphere (Deadly Weapon (enhance)), F
 
 ### Phasing Glaive [TS]
 
-**Aura**faint Warp;**CL** 5th
-**Slot**none;**Price**38,308 gp;**Weight** 10 lbs.
+**Aura** faint Warp; **CL** 5th
+**Slot** none; **Price** 38,308 gp; **Weight** 10 lbs.
 
 Phasing glaives are +1 phasic glaives, endowed with the ability to strike foes straight through their cover. Twice per day, on a successful hit, a creature wielding a phasing glaive can teleport the struck creature (as the Warp sphere effect) to any location within close range (25 feet + 5 feet per 2 caster levels of this item). A Will save negates this teleport. Creatures teleported this way suffer 1d6 damage per 2 caster levels; this damage bypasses hardness, damage reduction, and energy resistance. While often considered something of a specialty weapon, warriors occasionally use these to teleport foes into prepared traps.
 
-**Flask Shard Effect:** Increase this item’s caster level to the next increment of 5 and increase the number of times it can teleport a creature each day by 1. This weapon is already considered a +1 item for the purpose of flask shards, and therefore can only start its upgrade process with a +2 shard.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase this item’s caster level to the next increment of 5 and increase the number of times it can teleport a creature each day by 1. This weapon is already considered a +1 item for the purpose of flask shards, and therefore can only start its upgrade process with a +2 shard. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Warp sphere (Splinter, Unwilling Teleport, Warping Strike [strike]); **Cost** 19,154 gp
 
 ### Pole of Unlife
 
-**Aura**moderate Death and Fate;**CL** 6th
-**Slot**none;**Price**32,100 gp;**Weight** 4 lbs.
+**Aura** moderate Death and Fate; **CL** 6th
+**Slot** none; **Price** 32,100 gp; **Weight** 4 lbs.
 
 **Description**
 This quarterstaff is topped with a multitude of what appear to be burning wax candles, except these candles never burn out, and are as hard as steel when used in combat.
@@ -542,8 +542,8 @@ Smith Magical Weapons And Armor, Craft Spell Engine, Death sphere, Fate sphere, 
 
 ### Pouch of Many Stars
 
-**Aura**faint Enhancement and Warp;**CL**1st;**Scaling** prize
-**Slot**none;**Price**100 gp;**Weight** 1 lb.
+**Aura** faint Enhancement and Warp; **CL** 1st; **Scaling** prize
+**Slot** none; **Price** 100 gp; **Weight** 1 lb.
 
 **Description**
 This pouch which is usually strapped to the waist or thigh has two flaps that open from the top, which each hold a set of 5 masterwork shuriken, which may be drawn as a free action. If any of these 10 shuriken strike a target or the ground (such as on a miss), become damaged, or move more than 400 feet from the pouch, those shuriken rematerialize instantaneously inside the pouch undamaged.
@@ -558,8 +558,8 @@ Smith Magical Weapons And Armor, Enhancement sphere, Warp sphere; **Cost** 5,000
 
 ### Pulsemage’s Glove of Channeling [Mana HB]
 
-**Aura**strong Mana;**CL** 3rd;
-**Slot**None;**Price**2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), 50,000 gp (+5), 72,000 gp (+6), 128,000 gp (+8), 162,000 gp (+9), 200,000 gp (+10)**Weight** 1lb.
+**Aura** strong Mana; **CL** 3rd;
+**Slot** None; **Price** 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), 50,000 gp (+5), 72,000 gp (+6), 128,000 gp (+8), 162,000 gp (+9), 200,000 gp (+10) **Weight** 1lb.
 
 **Description**
 This special, mithral and silver laced glove allows a creature to create pulse shots, as a 1st-level arcanopulser. The glove is worn over one hand and pulse shots can only be created in the hand it is worn on.
@@ -573,8 +573,8 @@ Smith Magical Weapons and Armor, Mana sphere; **Cost** 1,000 gp (+1), 4,000 gp (
 
 ### Pulsemage’s Glove of Protection [Mana HB]
 
-**Aura**strong Mana;**CL** 8th;
-**Slot**None;**Price**1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6), 64,000 gp (+8), 81,000 gp (+9), 100,000 gp (+10)**Weight** 1lb.
+**Aura** strong Mana; **CL** 8th;
+**Slot** None; **Price** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6), 64,000 gp (+8), 81,000 gp (+9), 100,000 gp (+10) **Weight** 1lb.
 
 **Description**
 This thick, adamantine-lined glove allows a creature to create pulse shields, as a 3rd-level arcanopulser. The glove is worn over one hand and pulse shields can only be created in the hand it is worn on.
@@ -588,31 +588,31 @@ Smith Magical Weapons and Armor, Mana sphere; **Cost** 500 gp (+1), 2,000 gp (+2
 
 ### Razorquill Scarf [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Aura**faint Destruction —**CL**4th —**Scaling** wonder
-**Price**3,000 gp —**Weight** 2 lbs.
+**Aura** faint Destruction — **CL** 4th — **Scaling** wonder
+**Price** 3,000 gp — **Weight** 2 lbs.
 
 **Description**
 This +1 bladed scarf is almost more blade than scarf—that of which is dyed a deep crimson.
 
 While maintaining a Performance sphere dance, the wielder deals 1d6 slashing damage to enemies that start their turn within the wearer’s threatened area—if the wielder’s dance has the Belligerent Choreography talent applied to it, the wielder deals slashing damage instead of bludgeoning damage with it, as well as increasing the number of damage dice by +1 and the damage die by +1 step (d6 > d8 > d10).
 
-**8th Level — 9,000 gp**: The razorquill scarf gains the keen special weapon quality.
+**8th Level — 9,000 gp:** The razorquill scarf gains the keen special weapon quality.
 
-**12th Level — 35,000 gp**: The razorquill scarf gains the sharding special weapon quality, although the range increment of such a ranged attack is 40 feet instead of 10 feet. Whenever the wielder successfully confirms a critical hit with the razorquill scarf, they can make a special ranged attack (as though using the sharding quality) at their highest base attack bonus – 5 against a different target.
+**12th Level — 35,000 gp:** The razorquill scarf gains the sharding special weapon quality, although the range increment of such a ranged attack is 40 feet instead of 10 feet. Whenever the wielder successfully confirms a critical hit with the razorquill scarf, they can make a special ranged attack (as though using the sharding quality) at their highest base attack bonus – 5 against a different target.
 
-**14th Level — 56,500 gp**: The razorquill scarf increases its enhancement bonus by +1, and increases its critical multiplier to ×3. On a successful critical hit, the wielder makes two sharding attacks instead of one—each one must target a different creature.
+**14th Level — 56,500 gp:** The razorquill scarf increases its enhancement bonus by +1, and increases its critical multiplier to ×3. On a successful critical hit, the wielder makes two sharding attacks instead of one—each one must target a different creature.
 
-**16th Level — 100,000 gp**: The razorquill scarf gains the wounding special weapon quality.
+**16th Level — 100,000 gp:** The razorquill scarf gains the wounding special weapon quality.
 
 **Construction Requirements**
 Smith Magical Arms and Armor, Destruction sphere (any (blast type) talent from the crystal blast type group) — Cost 1,500 gp
 
 ### Returning Javelin [TS]
 
-**Aura**faint Telekinesis;**CL** 5th
-**Slot**none;**Price**3,301 gp;**Weight** 2 lbs.
+**Aura** faint Telekinesis; **CL** 5th
+**Slot** none; **Price** 3,301 gp; **Weight** 2 lbs.
 
 Favored by warriors and hunters of intermediate skill, this +1 attendant javelin can be hurled, summoned back, and hurled again to help take down distant foes.
 
@@ -621,8 +621,8 @@ Smith Magical Weapons And Armor, Telekinesis sphere; **Cost** 1,650.5 gp
 
 ### Shadow Axe [TS]
 
-**Aura**faint Illusion and Light;**CL** 5th
-**Slot**none;**Price**17,920 gp;**Weight** 12 lbs.
+**Aura** faint Illusion and Light; **CL** 5th
+**Slot** none; **Price** 17,920 gp; **Weight** 12 lbs.
 
 This +1 shadow wake greataxe has a black, slightly transparent blade, as if it is not quite real. In addition to its regular effects, this weapon also has the benefits of an invisible edge (see the chapter on Marvelous Items), granting its wielder the ability to strike harder, and at foes further away, when calling upon its power.
 
@@ -631,8 +631,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Illusion sphere, Light sp
 
 ### Scimitar Of The Sultan [TS:WAT]
 
-**Aura**moderate Destruction;**CL** 6th
-**Slot**none;**Price**29,100 gp;**Weight** 10 lbs.
+**Aura** moderate Destruction; **CL** 6th
+**Slot** none; **Price** 29,100 gp; **Weight** 10 lbs.
 
 This +2 adamantine two-bladed scimitarSoM pulses with a faint warmth in battle and leaves a trail of flames in the air when swung. However, it is most notable for the effect it can have on foes during battle. Once per day, as a standard action, this weapon’s wielder may create an aura that causes all foes in 30 feet to become shaken (no save) as long as they remain within the aura. This aura functions as the War sphere’s Totem Of Doom (totem) talent, lasts for five minutes, and moves with the wielder. By spending one minute focusing when part of a large battle, the wielder can instead cause this effect to cover an entire battlefield and last for five hours.
 
@@ -643,8 +643,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, War sphere (Totemic Aura,
 
 ### Shark Spear [TS:WAT]
 
-**Aura**faint Blood and Divination;**CL** 3rd
-**Slot**none;**Price**20,305 gp;**Weight** 9 lbs.
+**Aura** faint Blood and Divination; **CL** 3rd
+**Slot** none; **Price** 20,305 gp; **Weight** 9 lbs.
 
 This +1 wounding longspear is decorated like a shark, with two rows of teeth instead of a traditional spear head. As a standard action, the wielder may use the shark spear to search for bleeding creatures in the area, as the Divination sphere’s Divine Bleeding alternate divination, and with its caster level equal to this item’s caster level. The range of this search effect is increased to long against any creature whose bleeding was caused by the shark spear. This weapon’s caster level is always at least 3x its normal enhancement bonus.
 
@@ -655,8 +655,8 @@ Smith Magical Weapons And Armor, Blood sphere, Divination sphere; **Cost** 10,15
 
 ### Shrapnel Glove [TS]
 
-**Aura**moderate Destruction;**CL** 10th
-**Slot**hands;**Price**34,302 gp;**Weight** 1 lb.
+**Aura** moderate Destruction; **CL** 10th
+**Slot** hands; **Price** 34,302 gp; **Weight** 1 lb.
 
 Popular with many mageknights who like to brawl in close combat, this +1 blast vessel gauntlet is excellent at channeling destructive energies. Once per day, as part of making an attack with a shrapnel glove as a standard action (or when making an attack action, if you possess the Spell Attack feat), you may trigger the shrapnel glove’s additional effect and deal an additional 10d4 slashing damage and 5 bleed damage to the creature you attacked as a barrage of tiny blades shoot out of the front of the glove. This effect ignores spell resistance, spell turning, and can penetrate a globe of invulnerability, antimagic field, or other forms of antimagic, and is not treated as a spell or as magical for the purpose of bypassing damage reduction, damaging incorporeal creatures, or for creatures or classes that gain a bonus to saving throws against magic. If you did not strike the creature with your original attack, they avoid the additional burst of blades from the shrapnel glove.
 
@@ -665,8 +665,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Destruction sphere (Energ
 
 ### Swallow-Slaying Sword [TS]
 
-**Aura**faint Warp;**CL** 5th
-**Slot**none;**Price**75,050 gp;**Weight** 6 lbs.
+**Aura** faint Warp; **CL** 5th
+**Slot** none; **Price** 75,050 gp; **Weight** 6 lbs.
 
 The swallow-slaying sword is a +3 dimensional mithril katana with ornate decorations on both the hilt and the blade. They are especially popular with warriors who often face crowds of foes and want to cut them down more efficiently.
 
@@ -675,8 +675,8 @@ Smith Magical Weapons And Armor, Warp sphere (Quick Teleport); **Cost** 37,525 g
 
 ### Sword Of Oaths [TS:WAT]
 
-**Aura**moderate Fate;**CL** 10th
-**Slot**none;**Price**89,157.5 gp;**Weight** 4 lbs.
+**Aura** moderate Fate; **CL** 10th
+**Slot** none; **Price** 89,157.5 gp; **Weight** 4 lbs.
 
 Although not an artifact, this blade is too expensive and difficult for any regular crafter to create, so only a few have ever been made. While wielded by a creature, the sword of oaths emits a blue glow that sheds light as a torch, although any magical darkness effect can suppress this power. It also functions as a +3 longsword. Its true power, and value, lies outside of its use as a weapon. Each sword of oaths is attuned to a particular code, edict, or similar set of tenets chosen when it is created. While the exact oaths vary, they may resemble a paladin’s code of conduct, the edicts of a samurai order, or a set of monk vows. A creature who has sworn to follow the oaths of one of these blades can use it to cast a binding compulsion on anyone who swears the same oaths in the blade’s presence. This functions as the Fate sphere’s Geas (advanced, word) talent augmented by the Greater Geas and Mark Of Judgment advanced talents, except that it is a permanent effect and is no longer a curse. Swearing oaths this way creates a permanent, visible symbol on the oathtaker’s body that thematically represents the oaths themselves. As long as they uphold the oaths, this symbol appears vivid and new. If they ever break their oaths, the symbol becomes faded. This symbol can be covered, but cannot be changed or hidden by illusion magic.
 
@@ -687,8 +687,8 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphere (Geas (advanc
 
 ### Sword Of The Storm [TS]
 
-**Aura**strong Creation and Weather;**CL** 15th
-**Slot**none;**Price**92,515 gp;**Weight** 4 lbs.
+**Aura** strong Creation and Weather; **CL** 15th
+**Slot** none; **Price** 92,515 gp; **Weight** 4 lbs.
 
 The sword of the storm is a +3 crackling howling windblast longsword. However, it only shows its true powers in the hands of a weather mage, because it is also a +1 Weather implement with the Greater Weather talent, though it can only be used to affect both Precipitation and Wind at the same time. Once per day, you may call upon the sword of the storm to control both Precipitation and Wind, then allow the changing weather to last for 15 minutes without concentration (without spending any spell points for these effects).
 
@@ -697,8 +697,8 @@ Smith Magical Weapons And Armor, Craft Implement Of Power, Weather sphere (Great
 
 ### System Scepter [TS:WAT]
 
-**Aura**moderate Light;**CL** 4th
-**Slot**none;**Price**36,012 gp;**Weight** 8 lbs.
+**Aura** moderate Light; **CL** 4th
+**Slot** none; **Price** 36,012 gp; **Weight** 8 lbs.
 
 This +1 arcsilverUSoP heavy mace is also an accurate orrery of the solar system of the world it was created on, showing the relative position of the sun and all major planets and moons (albeit not with the true distances). Despite the apparent delicacy of the rings, they strike as hard as any solid weapon. When the wielder strikes an enemy with a standard action attack, or as part of an attack action if the wielder has the Spell Attack feat, they can create an area of bright light centered on the system scepter and moving with it, as the basic effects of the Light sphere and with its caster level equal to this weapon’s caster level. This bright light reveals all invisible creatures and objects within its range and lasts for 1 round per caster level. The wielder may also activate this effect as a standard action by holding the system scepter up.
 
@@ -709,8 +709,8 @@ Smith Magical Weapons And Armor, Light sphere (Revealing Light (light), Solar St
 
 ### The Shiniest of Spears [TS]
 
-**Aura**strong Mind;**CL** 20th
-**Slot**none;**Price**40,310 gp;**Weight** 3 lbs.
+**Aura** strong Mind; **CL** 20th
+**Slot** none; **Price** 40,310 gp; **Weight** 3 lbs.
 
 This javelin made of solid goldUC is a poor weapon (and strangely light for its size), but it is rarely used as such anyway. Rather, its true power lies in the +20 competence bonus to diplomacy it offers to any creature who carries it, courtesy of the undeniable allure of so much gold. How the small tribe that first created this weapon managed to do so is unknown, but their leader was certainly able to inspire fanatical loyalty in their followers.
 
@@ -719,8 +719,8 @@ Smith Magical Weapons And Armor, Forge Charm, Mind sphere; **Cost** 20,155 gp
 
 ### Thunderstrike [TS:WAT]
 
-**Aura**moderate Nature;**CL** 6th
-**Slot**none;**Price**45,950 gp;**Weight** 8 lbs.
+**Aura** moderate Nature; **CL** 6th
+**Slot** none; **Price** 45,950 gp; **Weight** 8 lbs.
 
 This +2 imperviousUE shocking burst elysian bronzeUE greatsword constantly crackles with electrical power and is decorated with sigils of stormclouds moving up and down its sides. It also functions as a thunderbolt ringTS, allowing the wielder to unleash a line of electrical wrath upon their foes.
 
@@ -731,10 +731,10 @@ Smith Magical Weapons And Armor, Craft Marvelous Item, Destruction sphere (Elect
 
 ### Unerring Blade [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Divination —**CL**8th —**Scaling** wonder
-**Slot**weapon —**Price**9,900 gp —**Weight** 1 lb.
+**Aura** moderate Divination — **CL** 8th — **Scaling** wonder
+**Slot** weapon — **Price** 9,900 gp — **Weight** 1 lb.
 
 **Description**
 The unerring blade is a +1 heartseeker dagger. At the start of each day, the wielder can choose to have the unerring blade gain one of the following benefits for 1 day:
@@ -752,8 +752,8 @@ Smith Magical Arms and Armor, Divination sphere — **Cost** 4,950 gp
 
 ### Whip of Command [TS]
 
-**Aura**moderate Mind;**CL**10th;**SP** 6
-**Slot**none;**Price**30,707.5 gp;**Weight** 2 lbs.
+**Aura** moderate Mind; **CL** 10th; **SP** 6
+**Slot** none; **Price** 30,707.5 gp; **Weight** 2 lbs.
 
 A favored weapon of wealthy slavers, the whip of command is a +1 blood crystalUE scorpion whipAdv.Arm. with cruel, jagged edges. Aside from its value as a weapon, this item is a spell engine for the Mind sphere with the Charming Strike, Expanded Charm, and Powerful Charm talents, as well as five additional spell points. It also possesses the Blatant Side-Effects, Empath (Command (charm)), Lost In Translation, and Tactile Charm drawbacks, which together mean that its effects on creatures are very obvious and can only be delivered through weapon strikes.
 
@@ -768,26 +768,26 @@ Smith Magical Weapons And Armor, Craft Spell Engine, Mind sphere (Charming Strik
 
 ### Arrow, Vial
 
-**Price**5 gp;**Weight** 0.3 lb.
+**Price** 5 gp; **Weight** 0.3 lb.
 
 This arrow carries a small vial, large enough to carry a single dose of a contact poison, inhaled poison, formulae, liquid alchemical item, potion, oil, or dust. The vial is designed to shatter upon impact, releasing its content on or centered on the target. A vial arrow deals no weapon damage, and on a miss calculate the new center as with a splash weapon. Filling the vial requires a full-round action. This type of ammunition targets touch AC.
 
 ### Bolt, Vial
 
-**Price**5 gp;**Weight** 0.3 lb.
+**Price** 5 gp; **Weight** 0.3 lb.
 
 This crossbow bolt carries a small vial, large enough to carry a single dose of a contact poison, inhaled poison, formulae, liquid alchemical item, potion, oil, or dust. The vial is designed to shatter upon impact, releasing its content on or centered on the target. A vial bolt deals no weapon damage. Filling the vial requires a full-round action. This type of ammunition targets touch AC.
 
 ### Injector Shot
 
-**Price**15 gp;**Weight** 0.1 lbs.
+**Price** 15 gp; **Weight** 0.1 lbs.
 
 An injector shot is a special kind of alchemical cartridge often used by bounty hunters and others who wish to subdue targets while keeping them alive. An injector shot is designed to hold a dose of injury poison, and while most injury poisons can simply be applied to a shot like any other type of ammunition, an injector shot is designed to deliver the poison through injection; an injector shot deals nonlethal damage instead of lethal damage in addition to delivering the poison. Filling an injector shot requires a full-round action.
 
 ### Living Crystal Bullet
 
-**Aura**moderate Destruction;**CL** 9th
-**Slot**none;**Price**160 gp;**Weight** —
+**Aura** moderate Destruction; **CL** 9th
+**Slot** none; **Price** 160 gp; **Weight** —
 
 **Description**
 This +1 firearm bullet deals normal damage, but when it hits a creature or object, it spreads quickly, covering the target in crystal. The target must succeed at a DC 14 Reflex save or be entangled and immobilized as by a caster level 9th crystal blast.
@@ -797,13 +797,13 @@ Smith Magical Weapons And Armor, Destruction sphere (Crystal Blast (blast type, 
 
 ### Shatter Shot
 
-**Price**15 gp;**Weight** 0.1 lbs.
+**Price** 15 gp; **Weight** 0.1 lbs.
 
 A shatter shot is a special type of alchemical cartridge designed to hold a single dose of a contact poison, inhaled poison, formulae, liquid alchemical item, potion, oil, or dust. The shatter shot is designed to shatter upon impact, releasing its content on or centered on the target. A shatter shot deals no weapon damage. Filling the vial requires a full-round action. This type of ammunition targets touch AC.
 
 ### Splatter Shot
 
-**Price**25 gp;**Weight** -
+**Price** 25 gp; **Weight** -
 
 A splatter shot is a special type of alchemical cartridge designed for firearms with the scatter weapon quality. A splatter shot is designed to hold 2 doses of a contact or injury poison; if only loaded with one dose or a dose from 2 different poisons, it is ineffective. When fired, every target damaged by the scatter shot are also affected by the included poison. Filling a splatter shot requires a full-round action. This type of ammunition targets touch AC.
 
@@ -813,8 +813,8 @@ A splatter shot is a special type of alchemical cartridge designed for firearms 
 
 ### Eclipse Blade (Major Artifact) [TS:WAT]
 
-**Aura**overwhelming Dark, Illusion, and Light;**CL** 22nd
-**Slot**none;**Price**-;**Weight** 8 lbs.
+**Aura** overwhelming Dark, Illusion, and Light; **CL** 22nd
+**Slot** none; **Price** -; **Weight** 8 lbs.
 
 This greatsword has different powers, composition, and names depending on the time of day. During the daytime, the solar eclipse blade is a +5 brilliant energy gloriousUE greatsword that can still harm undead, constructs, and objects. Whenever the user makes an attack action with the solar eclipse blade, they may create a bright light that binds the target; this functions identically to the effects of the Light sphere’s Bound Light (light) talent applied through the Solar Strike strike talent and the Spell Attack feat, but does not apply if the user is already applying a strike talent to their attack. During the night, the lunar eclipse blade is a +5 shadowstrike shadow wake umbralUI adamantine greatsword. Whenever the user makes an attack action with the lunar eclipse blade, they may create a blot in all of the struck creature’s squares. This blot functions as the Dark sphere Hungry Darkness (blot, darkness) talent and lasts for one minute. The user cannot activate this effect if they are using a strike talent. During the 30 minutes of dawn and dusk, the user may change this weapon between the solar eclipse blade and the lunar eclipse blade as a free action at any time, even when it is not their turn.
 
@@ -826,8 +826,8 @@ The eclipse blade can only be destroyed if a deity of darkness uses it to kill a
 ### Expawlibur (Minor Artifact) [Catgirl HB]
 
 This legendary blade and the tales of Meowlin are known through all catkind as Meowlin who guided this fated hero to free this blade from its fey-forged prison in the petrified forest. Wielded by a legendary long cat of great renown, this blade was raised to defend the defenseless kittens and drive back many ferocious foes to eventually establish a peaceful kingdom in which catkind prospered comfortably.
-**Aura**strong Alteration;**CL** 15th
-**Slot**None;**Weight** 3 lbs.
+**Aura** strong Alteration; **CL** 15th
+**Slot** None; **Weight** 3 lbs.
 
 **Description**
 This +4 advancing greater transformative impervious mithral longsword is also known as the sword of the feline lords. This blade may only be wielded by a chosen few, and is treated as a non-magical masterwork longsword to anyone whom Expawlibur deems unworthy. Expawlibur may determine the worthiness of its wielders in many ways, such as by being pulled out from an ancient stone or tree, or by being gifted the blade by a noble cat spirit of the lake from the island kingdoms.
@@ -844,13 +844,13 @@ If Expawlibur would be destroyed, the blade’s “soul” lays dormant, resurfa
 
 ### Finis (Major Artifact)
 
-**Aura**overwhelming Destruction;**CL** 20th
-**Slot**none;**Weight** 8 lbs.
+**Aura** overwhelming Destruction; **CL** 20th
+**Slot** none; **Weight** 8 lbs.
 
 **Statistics**
-**Alignment**neutral;**Ego** 20
+**Alignment** neutral; **Ego** 20
 **Senses** 60 ft.
-**Int**6,**Wis**10,**Cha** 22
+**Int** 6, **Wis** 10, **Cha** 22
 **Communication** telepathy (all languages)
 
 **Description**
@@ -863,8 +863,8 @@ A wielder of a good alignment must bear Finis for 50 years without drawing it, a
 
 ### Holy King’s Blade (Minor Artifact) [TS]
 
-**Aura**strong Creation and Illusion;**CL** 20th
-**Slot**none;**Price**-;**Weight** 4 lbs.
+**Aura** strong Creation and Illusion; **CL** 20th
+**Slot** none; **Price** -; **Weight** 4 lbs.
 
 The holy king’s blade is a +5 attendant holy longsword with the unusual ability to switch between two different modes. Normally, it has the invisible weapon special ability while held, making it difficult for foes to see and excellent at piercing their defenses. However, by speaking a command word as a free action during their turn, a wielder can remove the invisible weapon special ability and replace it with the plasma blade weapon special ability, allowing it to deal both electricity and fire damage (and bypassing resistance, but not immunity, to both elements). Repeating the command word restores the invisible special ability and removes the plasma blade special ability. As a standard action that can be made three times per day, though only while the plasma blade special ability is active, the wielder can unleash a blast of destructive light taking the form of either a line or a cone in close (75 feet) or medium (300 feet) range. This blast deals 20d6 sacred damage to creatures and objects, increasing to d8’s against evil undead and evil outsiders, but dealing no damage to good-aligned creatures. This blast deals its full damage to incorporeal targets (rather than being halved, as many attacks against incorporeal targets are) and bypasses all hardness. Effects that hide or change alignments must either have a higher caster level than the holy king’s blade or be mythic abilities to fool it.
 
@@ -873,8 +873,8 @@ The holy king’s blade cannot be destroyed, but it can be reclaimed from mortal
 
 ### The Canceller (Minor Artifact) [TS]
 
-**Aura**overwhelming Mana;**CL** 22nd
-**Slot**none;**Price**-;**Weight** 2 lbs.
+**Aura** overwhelming Mana; **CL** 22nd
+**Slot** none; **Price** -; **Weight** 2 lbs.
 
 This dagger is made of an unknown metal and looks a little like an exaggerated lightning bolt with unreadable runes carved into the sides. The canceller normally acts as a +1 keen dagger; its enhancement bonus increases for higher-level characters by +1 at 4th level and every 4 levels thereafter (to a maximum of +5 at 16th level). In addition, the canceller is capable of negating magical effects it comes into physical contact with; this includes all effects that are subject to (counterspell) feats, as well as all effects that can be removed by break enchantment, remove curse, miracle, or wish. The wielder may choose to not negate specific magical effects, but they must be aware of those effects to exclude them from this artifact’s powers.
 
@@ -885,8 +885,8 @@ The canceller can only be destroyed by using it as part of a ritual designed by 
 
 ### White Scythe (Minor Artifact) [TS]
 
-**Aura**overwhelming Destruction;**CL** 22nd
-**Slot**none;**Price**-;**Weight** 10 lbs.
+**Aura** overwhelming Destruction; **CL** 22nd
+**Slot** none; **Price** -; **Weight** 10 lbs.
 
 This scythe looks organic in origin, as if it was made from the limb of an enormous spider that had developed a mantis’ claw on the end of one leg. Treat the white scythe as a +5 vorpal adamantine scythe (though it is made of organic materials instead of metal). If you make a single attack with this weapon as a standard action, or as a special attack action if you have the Spell Attack feat, this scythe deals an additional 20d6 untyped damage and may reduce objects or creatures to dust (as described in the Disintegrate advanced Destruction talent).
 
@@ -901,8 +901,8 @@ The white scythe can only be destroyed by striking it with an attack that does a
 
 ### Light Of Destruction [MCS]
 
-**Aura**strong Destruction;**CL** 14th
-**Slot**none;**Price**96,775 gp;**Weight** 3 lbs.
+**Aura** strong Destruction; **CL** 14th
+**Slot** none; **Price** 96,775 gp; **Weight** 3 lbs.
 
 This +3 longbow is covered in ancient sigils of fire and light. As a standard action, the wielder of this bow can use it to launch a blast of deadly energy anywhere within the bow’s range. This acts like a destructive blast dealing 1d6 fire/untyped damage per caster level with the Destruction sphere Radiation Blast (blast type) and Calamity (blast shape) advanced talents, though the shape is always a close-range burst centered where the arrow hits. The user may choose to attack less than the maximum radius. In the hands of most creatures, this attack has a saving throw DC of 17. Mythic creatures may instead use their normal casting DC (or their DC for the Destruction sphere, if higher), and add their tier to the DC. In addition, this weapon increases in caster level to match a mythic user’s character level if they are level 15 or higher, and in the hands of such a creature, it also becomes a +4 weapon at 16th level and a +5 weapon at 18th level. These increases for mythic users immediately end when they are no longer wielding the weapon.
 
@@ -919,13 +919,13 @@ This special ability may only be applied to ranged weapons.
 
 You may alter the trajectory of your attack once when making a ranged attack with an arcing weapon. Rather than having your attack travel in a straight line, you may have it make a single turn of up to 90 degrees, and determine the effects of cover from the square in which your attack turns. You may even use this to attack a target that would normally be behind total cover. However, you still determine line of sight from your own square, suffering concealment normally.
 
-**Aura**faint Telekinesis;**CL**5th; Smith Magical Weapons And Armor, Telekinesis sphere;**Price** +1 bonus
+**Aura** faint Telekinesis; **CL** 5th; Smith Magical Weapons And Armor, Telekinesis sphere; **Price** +1 bonus
 
 ### Attendant
 
 This special ability may only be applied to any handheld magic item, including weapons, shields, or implements. An attendant item springs to hand when you send for it. As a swift action you can call for an attendant item, and if it is within 50 feet it attempts to leaps to your hand. If it is currently held by another creature or trapped or bound in some way it fails to arrive, though it can extricate itself from a backpack or sheathe. You must possess an attendant item for at least 24 hours before you can use this function, and only one creature can have the ability to use this function at a time.
 
-**Aura**faint Telekinesis;**CL**5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly);**Cost** +500 gp
+**Aura** faint Telekinesis; **CL** 5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly); **Cost** +500 gp
 
 ### Avalanche
 
@@ -935,13 +935,13 @@ Like the avalanche of a mountain, avalanche weapons apply the power of momentum 
 
 This modifier to damage is not increased for two-handed weapons, but is still reduced for off-hand weapons.
 
-**Aura**moderate Enhancement;**CL**7th; Smith Magical Weapons And Armor, Enhancement sphere (Physical Enhancement);**Price** +1 bonus
+**Aura** moderate Enhancement; **CL** 7th; Smith Magical Weapons And Armor, Enhancement sphere (Physical Enhancement); **Price** +1 bonus
 
 ### Blast Vessel
 
 A blast vessel weapon may be imbued with a (blast type) talent that the wielder possesses as a standard action. Once imbued, it deals 1 die of bonus damage, with die size, damage type, and additional effects as appropriate to the blast type. The weapon keeps this blast type for 24 hours or until another blast type is imbued. The save DC of any additional effects are equal to that of the creature imbuing the weapon. Blast type talents that carry an SP cost cannot be imbued.
 
-**Aura**moderate Destruction;**CL**10th; Smith Magical Weapons And Armor, Destruction sphere;**Price** +2 bonus
+**Aura** moderate Destruction; **CL** 10th; Smith Magical Weapons And Armor, Destruction sphere; **Price** +2 bonus
 
 ### Blood Dowsing
 
@@ -951,7 +951,7 @@ Whenever a blood dowsing weapon is used to deal damage to a creature, as a free 
 
 Any creature that wields the weapon becomes aware of the creature type and age of any attuned creatures as well as how long ago they were attuned, but not any further information.
 
-**Aura**faint Divination;**CL**5th; Smith Magical Weapons And Armor, Divination sphere (Dowsing (divine));**Price** +6,000 gp
+**Aura** faint Divination; **CL** 5th; Smith Magical Weapons And Armor, Divination sphere (Dowsing (divine)); **Price** +6,000 gp
 
 ### Bloodsong [High. HB]
 
@@ -959,13 +959,13 @@ This special ability can be placed only on slashing or piercing melee weapons. W
 
 **Construction Requirements**
 Smith Magical Weapons and Armor, Mind sphere, creator must have the raging song class feature
-**Price**+1 bonus,**Aura**moderate Mind,**CL**6th,**Weight** -
+**Price** +1 bonus, **Aura** moderate Mind, **CL** 6th, **Weight** -
 
 ### Conscription
 
 A conscription weapon forces enemies to become allies, often turning the tide of battle in wars where such weapons are common. Creatures who take damage from conscription weapons must attempt a DC 17 Will save. Failure means that the creature must cease attacking the weapon’s wielder or known allies of the weapon’s wielder. The creature is then under the influence of the Command powerful charm, as if cast by the wielder of the sword. This control lasts for 12 rounds, but the creature may attempt a saving throw at the end of its turn every round to try and shake off the effect. Similarly, if the sword leaves the wielder’s possession, the effect immediately ends. When the weapon successfully conscripts a creature in this fashion, the weapon’s power cannot be used again for 1d6+1 rounds.
 
-**Aura**moderate Mind;**CL**9th; Smith Magical Weapons And Armor, Mind sphere (Command (charm), Powerful Charm);**Price** +3 bonus
+**Aura** moderate Mind; **CL** 9th; Smith Magical Weapons And Armor, Mind sphere (Command (charm), Powerful Charm); **Price** +3 bonus
 
 ### Cord-Cutting [Alienist HB]
 
@@ -975,7 +975,7 @@ A cord-cutting weapon can be used to attack the invisible silver cord which ties
 
 If a weapon possesses both the cord-cutting and vorpal special abilities, successfully sundering a target’s silver cord destroys the cord, killing the target as normal and ending their astral projection rather than returning their astral projection.
 
-**Aura**moderate Enhancement;**CL**10th; Smith Magical Weapons And Armor, Enhancement sphere (Spectral Enhancement (enhance));**Price** +40,000 gp
+**Aura** moderate Enhancement; **CL** 10th; Smith Magical Weapons And Armor, Enhancement sphere (Spectral Enhancement (enhance)); **Price** +40,000 gp
 
 ### Courageous
 
@@ -983,13 +983,13 @@ This special ability may only be applied to melee weapons.
 
 A courageous weapon fortifies the wielder’s courage and morale in battle. The wielder gains a morale bonus on saving throws against fear equal to the weapon’s enhancement bonus. In addition, any morale bonus on saving throws against fear the wielder gains from any other source is increased by half the weapon’s enhancement bonus (minimum 1).
 
-**Aura**faint Mind;**CL**3rd; Smith Magical Weapons And Armor, Mind sphere;**Price** +1 bonus
+**Aura** faint Mind; **CL** 3rd; Smith Magical Weapons And Armor, Mind sphere; **Price** +1 bonus
 
 ### Crackling
 
 While wielding a crackling weapon in Precipitation of severity level 4 or higher, the wielder may hold it aloft as a full-round action, causing the weapon to be struck by lightning. For 1 round per enhancement bonus, attacks with the weapon deal an extra 1d6 electricity damage per severity level above 3, to a maximum of 1d6 per +1 enhancement bonus the weapon has.
 
-**Aura**faint Weather;**CL**5th; Smith Magical Weapons And Armor, Weather sphere (Storm Lord);**Price** +2,500 gp
+**Aura** faint Weather; **CL** 5th; Smith Magical Weapons And Armor, Weather sphere (Storm Lord); **Price** +2,500 gp
 
 ### Decisive
 
@@ -997,31 +997,31 @@ This special ability may only be applied to melee weapons.
 
 As a standard action, the wielder of this weapon may make an attack on a creature not native to the current plane of existence. If the attack hits, in addition to normal damage, the outsider must attempt a Will saving throw against a DC equal to 10 + 1/2 the Hit Dice of the attacker + their Charisma modifier. If they fail, they are forced to return to their home plane of existence. If the attack is a critical hit, they must save against this ability twice.
 
-**Aura**moderate Protection;**CL**5th; Smith Magical Weapons And Armor, Protection sphere;**Price** +2 bonus
+**Aura** moderate Protection; **CL** 5th; Smith Magical Weapons And Armor, Protection sphere; **Price** +2 bonus
 
 ### Destructive Focus
 
 A destructive focus weapon allows the wielder to transfer the weapon’s enhancement bonus to the destructive blasts of the wielder. As a free action, at the start of her turn before using her weapon, the wielder chooses how to allocate her weapon’s enhancement bonus, either to his attack with the weapon or his destructive blast. The bonus to the destructive blast lasts until the weapon’s wielder’s next turn. The enhancement bonus from the weapon applies to attack rolls and damage of the destructive blast.
 
-**Aura**faint Destruction;**CL**5th; Smith Magical Weapons And Armor, Destruction sphere;**Price** +1 bonus
+**Aura** faint Destruction; **CL** 5th; Smith Magical Weapons And Armor, Destruction sphere; **Price** +1 bonus
 
 ### Destructive Focus, Greater
 
 A greater destructive focus functions as a destructive focus weapon, but half of the transferred enhancement bonus also applies to save DCs of the destructive blast.
 
-**Aura**moderate Destruction;**CL**10th; Smith Magical Weapons And Armor, Destruction sphere;**Price** +2 bonus
+**Aura** moderate Destruction; **CL** 10th; Smith Magical Weapons And Armor, Destruction sphere; **Price** +2 bonus
 
 ### Dimensional
 
 A dimensional weapon warps space, allowing it to slash through two places at once. Whenever a dimensional weapon is used to make an attack action, it can issue the same attack against another creature standing within 5 feet of the intended target; attack rolls are applied to both targets, though damage is rolled separately.
 
-**Aura**faint Warp;**CL**5th; Smith Magical Weapons And Armor, Warp sphere (Quick Teleport);**Price** +4 bonus
+**Aura** faint Warp; **CL** 5th; Smith Magical Weapons And Armor, Warp sphere (Quick Teleport); **Price** +4 bonus
 
 ### Dispelling
 
 The wielder of a dispelling weapon may store a spell point or dispel magic spell into the weapon, as if using a spell storing weapon. Just as with a spell storing weapon, the wielder may expend the spell or spell point to perform a targeted dispel against a target damaged by the weapon. However, the magical skill check to dispel gains an additional bonus equal to the weapon’s enhancement bonus. This bonus also applies to a magus’s dispelling strike arcana or a barbarian’s spell sunder or sunder enchantment combat maneuver check.
 
-**Aura**faint Life;**CL**5th; Smith Magical Weapons And Armor, Life sphere;**Price** +1 bonus
+**Aura** faint Life; **CL** 5th; Smith Magical Weapons And Armor, Life sphere; **Price** +1 bonus
 
 ### Dispelling Burst
 
@@ -1029,19 +1029,19 @@ A dispelling burst weapon functions like a dispelling weapon but may store great
 
 If a dispelling burst weapon confirms a critical hit while it is not currently storing a spell point or dispel magic or greater dispel magic spell, yet if the wielder has the Counterspell feat or either spell prepared (or is a spontaneous caster able to cast either spell), she may cast either spell into the weapon as a swift action or place 1 or 2 spell points into the weapon as a swift action, and then immediately discharge it into the target as a free action.
 
-**Aura**moderate Life;**CL**10th; Smith Magical Weapons And Armor, Life sphere;**Price** +2 bonus
+**Aura** moderate Life; **CL** 10th; Smith Magical Weapons And Armor, Life sphere; **Price** +2 bonus
 
 ### Entangling
 
 When a weapon with this special ability scores a critical hit on a target, it also bestows the entangled condition to that target. A creature entangled by this special ability may, on its turn, attempt to break free as a move action, attempting a Strength or Escape Artist check against a DC equal to 15 + twice the weapon’s enhancement bonus. The entangled condition ends on its own after 1 minute.
 
-**Aura**faint Nature;**CL**5th; Smith Magical Weapons And Armor, Nature sphere ((plant) package);**Price** +1 bonus.
+**Aura** faint Nature; **CL** 5th; Smith Magical Weapons And Armor, Nature sphere ((plant) package); **Price** +1 bonus.
 
 ### Fey-Forged
 
 This special ability may only be applied to a light or one-handed melee weapon. A wielder of a fey-forged weapon can choose to apply her Charisma modifier to damage rolls with the weapon in place of her Strength modifier. This modifier to damage is not increased for two-handed light weapons nor reduced for off-hand weapons. If a fey-forged weapon is used to attack a creature with the fey creature type, the attacker suffers a -2 penalty to attack rolls and damage rolls.
 
-**Aura**moderate Mind;**CL**7th; Smith Magical Weapons And Armor, Enhancement sphere (Mental Enhancement);**Price** +1 bonus.
+**Aura** moderate Mind; **CL** 7th; Smith Magical Weapons And Armor, Enhancement sphere (Mental Enhancement); **Price** +1 bonus.
 
 ### Heartseeker [High. HB]
 
@@ -1049,13 +1049,13 @@ This special ability can only be placed on melee weapons. A heartseeker weapon i
 
 **Construction Requirements**
 Smith Magical Weapons and Armor, Death sphere, Killing Curse
-**Price**+1 bonus,**Aura**moderate Death,**CL**7th,**Weight** -
+**Price** +1 bonus, **Aura** moderate Death, **CL** 7th, **Weight** -
 
 ### Howling
 
 While wielding a howling weapon in Wind of severity level 3 or higher, the wielder may hold it aloft as a full-round action. All creatures within 10 feet + 10 feet per Wind severity level above 3 must succeed at a saving throw against a DC of 10 + 1/2 the wielder’s Hit Dice + the Wind severity level or become frightened for 1 round.
 
-**Aura**faint Weather;**CL**5th; Smith Magical Weapons And Armor, Weather sphere (Wind Lord (advanced));**Price** +1 bonus
+**Aura** faint Weather; **CL** 5th; Smith Magical Weapons And Armor, Weather sphere (Wind Lord (advanced)); **Price** +1 bonus
 
 ### Hungry
 
@@ -1063,20 +1063,20 @@ This special ability may only be applied to a melee weapon or a piece of ammunit
 
 A hungry weapon has been enchanted with a mouth; when this weapon strikes a target, the weapon bites and tears its flesh. A hungry weapon deals bludgeoning, piercing, and slashing damage. Additionally, the hungry weapon can roar and snarl, granting the wielder of the hungry weapon a circumstance bonus to Intimidate checks equal to the enhancement bonus of the hungry weapon.
 
-**Aura**faint Alteration;**CL**5th; Smith Magical Weapons And Armor, Alteration sphere (Object Transformation (transformation));**Price** +1 bonus
+**Aura** faint Alteration; **CL** 5th; Smith Magical Weapons And Armor, Alteration sphere (Object Transformation (transformation)); **Price** +1 bonus
 
 ### Hypochondriac
 
 Injuries made by this weapon seem worse than they actually are. Creatures damaged by this weapon take nonlethal bleed damage equal to twice the weapon’s enhancement bonus. Unlike normal bleed damage, this can only be ended if the creature succeeds at a Will save DC 15 + the weapon’s enhancement bonus. Afflicted creatures are allowed a save every time they take damage from this effect. This is a mind-affecting effect.
 
-**Aura**faint Illusion or faint Mind;**CL**5th; Smith Magical Weapons And Armor, Illusion sphere or Mind sphere;**Price** +1 bonus
+**Aura** faint Illusion or faint Mind; **CL** 5th; Smith Magical Weapons And Armor, Illusion sphere or Mind sphere; **Price** +1 bonus
 
 ### Informing [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**faint Divination —**CL** 6th
-**Slot**any, see text —**Price** +1 bonus
+**Aura** faint Divination — **CL** 6th
+**Slot** any, see text — **Price** +1 bonus
 
 This special ability can be applied to a suit of armor, weapon, shield, or implement.
 
@@ -1093,7 +1093,7 @@ Requirements Craft Implement Of Power or Smith Magical Weapons And Armor, Divina
 
 Invisible weapons can only be seen by creatures making physical contact with the weapon, or if no creature is making physical contact with the weapon. Being stowed in a worn pocket, bag, sheath or similar arrangement counts as physical contact for the purpose of this special ability. The first attack each round made with an invisible weapon denies the target their Dexterity bonus to AC. This special ability interacts with spells and sphere effects as the glamer version of Suppression when cast upon an object. Creatures with Uncanny Dodge (or similar effects) do not lose their Dex bonus to AC against a weapon with the invisible special ability.
 
-**Aura**moderate Illusion (concealed aura MSD 19);**CL**8th; Smith Magical Weapons And Armor, Illusion sphere (Manipulate Aura (sensory, magic), Suppression (glamer));**Price** +3 bonus (+4 for firearms)
+**Aura** moderate Illusion (concealed aura MSD 19); **CL** 8th; Smith Magical Weapons And Armor, Illusion sphere (Manipulate Aura (sensory, magic), Suppression (glamer)); **Price** +3 bonus (+4 for firearms)
 
 ### Leaping
 
@@ -1101,25 +1101,25 @@ This special ability may only be applied to thrown weapons.
 
 When you make a full attack, you may direct a leaping weapon to perform as many of those attacks as you desire. A leaping weapon can focus all of your attacks on a single target, or may move up to its range increment between each attack. At the end of your full-attack action it drops in the square it made its last attack in.
 
-**Aura**faint Telekinesis;**CL**5th; Smith Magical Weapons And Armor, Telekinesis sphere (Dancing Weapon, Mobile Bludgeon);**Price** +1 bonus
+**Aura** faint Telekinesis; **CL** 5th; Smith Magical Weapons And Armor, Telekinesis sphere (Dancing Weapon, Mobile Bludgeon); **Price** +1 bonus
 
 ### Phasic
 
 A weapon with this special ability can bend its way through space, bypassing barriers between itself and its target. Attacks from this weapon bypass all cover. If the attacker cannot see the target on the other side of the cover, then the attack suffers a 50% miss chance as if the target were invisible. Only a single object that provides cover can be bypassed by a weapon with this special ability, with a thickness of no more than 2 feet (thus, while a bow with this enhancement could fire through a wall to hit a target on the other side, it could not bypass an entire house, which contains several walls).
 
-**Aura**faint Warp;**CL**5th; Smith Magical Weapons And Armor, Warp sphere;**Price** +2 bonus
+**Aura** faint Warp; **CL** 5th; Smith Magical Weapons And Armor, Warp sphere; **Price** +2 bonus
 
 ### Plasma Blade
 
 A plasma blade weapon has its significant portion transformed into magical energy, this reduces the weight of the weapon by 80% and the weapon deals half electric and half fire damage though it uses the base weapon’s damage dice, critical threat range, and critical multiplier. Treat this damage as an energy sword’s, bypassing electric and fire resistance but not immunity.
 
-**Aura**moderate Creation;**CL**9th; Smith Magical Weapons And Armor, Creation sphere (Plasma Production (materials));**Price** +3 bonus
+**Aura** moderate Creation; **CL** 9th; Smith Magical Weapons And Armor, Creation sphere (Plasma Production (materials)); **Price** +3 bonus
 
 ### Preventative
 
 Whenever you hit a creature with this weapon, you receive a circumstance bonus to your AC against that creature equal to this weapon’s enhancement bonus for 1 minute or until you strike a different creature with this weapon.
 
-**Aura**faint Protection;**CL**5th; Smith Magical Weapons And Armor, Protection sphere;**Price** +1 bonus
+**Aura** faint Protection; **CL** 5th; Smith Magical Weapons And Armor, Protection sphere; **Price** +1 bonus
 
 ### Radiant Edge
 
@@ -1129,14 +1129,14 @@ A radiant edge weapon projects deadly light from its edge when wielded correctly
 
 In addition, you can use a radiant edge weapon much like a torch. It sheds normal light in a 20-foot radius and increases the light level for an additional 20 feet by one step, up to normal light. You may turn this light on or off as a free action.
 
-**Aura**faint Light;**CL**5th; Smith Magical Weapons And Armor, Light sphere;**Price** +2 bonus
+**Aura** faint Light; **CL** 5th; Smith Magical Weapons And Armor, Light sphere; **Price** +2 bonus
 
 ### Resonant [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 Aura faint Destruction — **CL** 6th
-**Slot**weapon quality —**Price** +1 bonus
+**Slot** weapon quality — **Price** +1 bonus
 
 Whenever the wielder of a resonant weapon uses an ability that is reliant on auditory components, the weapon deals +1d6 points of sonic damage on a successful hit for 2 rounds.
 
@@ -1149,31 +1149,31 @@ Requirements Smith Magical Weapons and Armor, Destruction sphere (any one (blast
 
 This special ability makes siege weapon ammunition more effective against sails and rigging, creating a burst of flame upon striking its target to ignite what it does not tear apart. This special ability may be applied to a single piece of siege weapon ammunition. Upon striking a target the ammunition releases a burst of flame, which deals 3d6 fire damage in a 15-foot burst. Any creature or object that takes damage must succeed at a DC 12 Reflex save or catch fire, taking 1d6 fire damage per round. This fire damage ignores the hardness of normal sails and rigging.
 
-**Aura**faint Destruction;**CL**5th; Distill Compound, Destruction sphere (Explosive Orb (blast shape), Fire Blast (blast type, fire));**Price** +500 gp
+**Aura** faint Destruction; **CL** 5th; Distill Compound, Destruction sphere (Explosive Orb (blast shape), Fire Blast (blast type, fire)); **Price** +500 gp
 
 ### Shade-Hexed
 
 A shade-hexed weapon feeds on darkness and is more powerful when wielded inside it, but is weaker when in areas of illumination. When in areas of darkness, shade-hexed weapons gain a +1 to their enhancement bonus (maximum +5), but they suffer a -1 to their enhancement bonus when wielded in areas of bright light. In areas of dim light or normal light their enhancement bonus is unchanged. A shade-hexed weapon with an effective enhancement bonus of 0 no longer counts as a magic weapon for bypassing damage reduction, but retains its +1 bonus to hit as a masterwork weapon.
 
-**Aura**faint Dark;**CL**5th; Smith Magical Weapons And Armor, Dark sphere;**Price** +5,000 gp
+**Aura** faint Dark; **CL** 5th; Smith Magical Weapons And Armor, Dark sphere; **Price** +5,000 gp
 
 ### Shadowstrike
 
 Shadowstrike weapons allow you to assail unaware targets through their shadows. Attacks against flanked targets or targets denied their Dexterity bonus to AC resolve as touch attacks. Any creature damaged by such an attack becomes immune to this weapon special ability regardless of source for 1d4 rounds.
 
-**Aura**moderate Illusion or moderate Dark;**CL**8th; Smith Magical Weapons And Armor, Dark sphere;**Price** +2 bonus (melee weapon) or +3 bonus (ranged weapon or ammunition)
+**Aura** moderate Illusion or moderate Dark; **CL** 8th; Smith Magical Weapons And Armor, Dark sphere; **Price** +2 bonus (melee weapon) or +3 bonus (ranged weapon or ammunition)
 
 ### Shadow Wake
 
 Shadow wake weapons leave a short-lived trail of unstable shadowstuff when used in an attack. This quasi-real energy deals an additional 1d6 nonlethal damage. If an attack with a shadow wake weapon misses but would have hit the touch AC of the target the target still takes 1d6 nonlethal damage.
 
-**Aura**faint Illusion;**CL**5th; Smith Magical Weapons and Armor, Divination sphere (Dowsing (divine));**Price** +1 bonus
+**Aura** faint Illusion; **CL** 5th; Smith Magical Weapons and Armor, Divination sphere (Dowsing (divine)); **Price** +1 bonus
 
 ### Skeptical
 
 Skeptical weapons help their wielder combat magical trickery. The wielder adds the weapon’s enhancement bonus to Will saves and MSD against illusions as well as opposed skill checks against skills augmented by illusion magic. Attacks made with a skeptical weapon also attempt to attempt a dispel check against against all illusions within 10 feet of the target with an MSB equal to 5 + twice the weapon’s enhancement bonus.
 
-**Aura**moderate Divination;**CL**8th; Smith Magical Weapons and Armor, Divination sphere;**Price** +1 bonus
+**Aura** moderate Divination; **CL** 8th; Smith Magical Weapons and Armor, Divination sphere; **Price** +1 bonus
 
 ### Spell Stealing
 
@@ -1181,7 +1181,7 @@ This special ability may only be applied to melee weapons.
 
 A spell stealing weapon allows its wielder to siphon protective magic from a target and transfer it to herself. When the wielder rolls a critical threat against a target, she can forgo confirming the critical hit and instead automatically learn which magical effects are active upon the target. The wielder may then attempt a magic skill check to steal her choice of one of those effects, using the spell stealing weapon’s caster level plus its enhancement bonus against the effect’s MSD. If the check succeeds, the target immediately loses the benefits of that effect and the wielder gains the effect for 1 minute (or until the effect expires, whichever comes first). If the spell stealing weapon has a critical multiplier greater than x2, the wielder may attempt to steal one additional effect per additional multiple beyond x2 (two effects for x3, and so on).
 
-**Aura**moderate Destruction;**CL**9th; Smith Magical Weapons And Armor, Destruction sphere;**Price** +3 bonus
+**Aura** moderate Destruction; **CL** 9th; Smith Magical Weapons And Armor, Destruction sphere; **Price** +3 bonus
 
 ### Spell Storing
 
@@ -1189,13 +1189,13 @@ This special ability may only be applied to melee weapons.
 
 A spell storing weapon allows a caster to store a single targeted sphere effect that does not cost a spell point, or a spell of up to 3rd level, in the weapon itself. (The spell or sphere effect must have a casting time of 1 standard action.) Anytime the weapon strikes a creature and the creature takes damage from it, the weapon can immediately use the sphere effect or cast the spell on that creature as a free action if the wielder desires. (This special ability is an exception to the general rule that creating a magical effect from an item takes at least as long as creating the magical effect normally.) Once the spell or sphere effect has been cast from the weapon, a caster can cast another targeted spell or sphere effect into it that fits the criteria listed above. The weapon magically imparts to the wielder the name and nature of the spell or effect currently stored within it. A randomly rolled spell storing weapon has a 50% chance of having a magic effect stored in it already.
 
-**Aura**faint Destruction + aura of any spell or sphere effect currently stored;**CL**5th; Smith Magical Weapons And Armor, Destruction sphere;**Price** +1 bonus
+**Aura** faint Destruction + aura of any spell or sphere effect currently stored; **CL** 5th; Smith Magical Weapons And Armor, Destruction sphere; **Price** +1 bonus
 
 ### Tenebrous
 
 A tenebrous weapon can be stored in your shadow as if you possessed the Shadow Stash talent. It may be stored and retrieved at any time at the same action cost as drawing the weapon normally. If you already possess the Shadow Stash talent, you may store or retrieve it as a free action. Weapons with the tenebrous special ability can be used to make disarm or sunder attempts against items stored in a shadow stash.
 
-**Aura**faint Dark;**CL**5th; Smith Magical Weapons And Armor, Dark sphere (Shadow Stash);**Price** +4,000 gp
+**Aura** faint Dark; **CL** 5th; Smith Magical Weapons And Armor, Dark sphere (Shadow Stash); **Price** +4,000 gp
 
 ### Thirsty
 
@@ -1203,25 +1203,25 @@ This special ability may only be applied to any melee weapon that deals piercing
 
 When confirming a critical hit with a thirsty weapon against a creature that is not immune to bleed damage, the wielder may cause the weapon to absorb a portion of the creature’s blood as a free action. The wielder may instead expend a blood point from the Reservoir feat to fill the weapon as a full-round action. This stored blood counts as having a blood point as per the Reservoir feat and may be spent per that feat. A thirsty weapon may store a number of blood points equal to its enhancement bonus. Blood points stored in the weapon last indefinitely.
 
-**Aura**faint Blood;**CL**5th; Smith Magical Weapons And Armor, Blood sphere;**Price** +1 bonus
+**Aura** faint Blood; **CL** 5th; Smith Magical Weapons And Armor, Blood sphere; **Price** +1 bonus
 
 ### Umbral Edged
 
 An umbral edged weapon’s blade is particularly effective at severing a target’s shadow. A creature using an umbral edged weapon only has to threaten a critical hit in order to activate the talent thief’s shadow theft ability (unchained rogue archetype) rather than successfully confirm a critical threat.
 
-**Aura**faint Dark;**CL**5th; Smith Magical Weapons And Armor, Dark sphere;**Price** +1 bonus
+**Aura** faint Dark; **CL** 5th; Smith Magical Weapons And Armor, Dark sphere; **Price** +1 bonus
 
 ### Wild Critical [WM]
 
 A confirmed critical hit with a wild critical weapon increases the target’s [[Wild Magic|wild magic]] chance by 100% for a number of rounds equal to its enhancement bonus.
 
-**Aura**faint Fate;**CL**5th; Smith Magical Weapons And Armor, Fate sphere;**Price** +1 bonus
+**Aura** faint Fate; **CL** 5th; Smith Magical Weapons And Armor, Fate sphere; **Price** +1 bonus
 
 ### Wild Fang
 
 Weapons with this special ability usually appear to have claw, horn, or antler worked into their hilts or shafts. The bearer of a weapon with this special ability may apply any enhancement bonus or other magic special abilities of this weapon to a single natural weapon while in a wild shape or under the effects of the Alteration sphere’s shapeshift and the chosen natural weapon can bypass material-based damage reduction as if it were made of the same material as the weapon. While the bearer is in a wild shape or shapeshift, the weapon cannot be seen. Ranged weapon special abilities do not apply to melee natural attacks and melee weapon special abilities do not apply to ranged natural attacks.
 
-**Aura**faint Alteration;**CL**5th; Smith Magical Weapons And Armor, Alteration sphere or baleful polymorph;**Price** +1 bonus
+**Aura** faint Alteration; **CL** 5th; Smith Magical Weapons And Armor, Alteration sphere or baleful polymorph; **Price** +1 bonus
 
 ### Windblast
 
@@ -1229,7 +1229,7 @@ This special ability may only be applied to melee weapons.
 
 On a successful critical hit with a windblast weapon, the wielder may make a bull rush attempt as a free action against the target and every creature in a 15-foot cone originating from the wielder that includes the target. This bull rush is made at range, does not provoke an attack of opportunity, nor can the wielder move with the target. The weapon’s enhancement bonus, along with any feats or talents the wielder has that modify bull rushes, applies to the bull rush.
 
-**Aura**faint Weather;**CL**5th; Smith Magical Weapons And Armor, Weather sphere (Squamish (shroud, wind));**Price** +2 bonus
+**Aura** faint Weather; **CL** 5th; Smith Magical Weapons And Armor, Weather sphere (Squamish (shroud, wind)); **Price** +2 bonus
 
 ---
 

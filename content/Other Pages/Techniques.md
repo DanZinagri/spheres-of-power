@@ -166,7 +166,7 @@ If a character possesses all of a technique’s prerequisite spheres and talents
 **Range** close (25 feet + 5 feet per 2 levels)
 **Target** 1 creature, see text
 **Duration** instantaneous
-**Saving Throw**Reflex half, see text;**Spell Resistance** yes
+**Saving Throw** Reflex half, see text; **Spell Resistance** yes
 **Prerequisites** Card Casting, Destruction sphere (Explosive Orb)
 **Description**
 You grant the target a surge of magical power which runs an immense risk of harming them. A target who fails their saving throw takes 1d6 points of piercing, slashing, and bludgeoning damage per caster level and draws 7 cards from their deck (if they possess a deck). On a successful saving throw, a target who takes damage still draws 3 cards.
@@ -179,7 +179,7 @@ You grant the target a surge of magical power which runs an immense risk of harm
 **Range** see text
 **Target** see text
 **Duration** see text
-**Saving Throw**none;**Spell Resistance** yes
+**Saving Throw** none; **Spell Resistance** yes
 **Prerequisites** Barrage sphere (any one (blitz) talent), Destruction sphere (any one (blast type) talent)
 **Description**
 You unleash a flurry of powerful magical shots. When you use this technique, you perform a barrage action using your destructive blast in place of a ranged weapon on each attack. You may apply (blitz) talents to the barrage as normal and (blast type) talents to the destructive blasts, and may spend a spell point to increase the damage of any of your destructive blasts as normal.
@@ -192,7 +192,7 @@ You unleash a flurry of powerful magical shots. When you use this technique, you
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** 1 creature or object
 **Duration** instantaneous
-**Saving Throw**none;**Spell Resistance** yes
+**Saving Throw** none; **Spell Resistance** yes
 **Prerequisites** Fencing sphere, Destruction sphere
 **Description**
 You strike out against a distant target using a melee weapon. You may make an attack action with a melee weapon against one target within close range as if it were within your reach. This does not grant the additional damage of a destructive blast. If you possess the Extended Range talent, you may use it to increase the range of this technique as if it were your destructive blast.
@@ -205,7 +205,7 @@ You strike out against a distant target using a melee weapon. You may make an at
 **Range** see text
 **Target** see text
 **Duration** instantaneous
-**Saving Throw**Reflex partial (see text);**Spell Resistance** yes (see text)
+**Saving Throw** Reflex partial (see text); **Spell Resistance** yes (see text)
 **Prerequisites** Brute sphere (Unstoppable), Destruction sphere (Energy Strike, Fire Blast)
 **Description**
 You surround yourself in a corona of fire before charging at the target, leaving a path of flame in your wake. Make a charge attack or charging shove against a creature you are capable of charging. You may charge over difficult terrain. This movement still costs twice as much as normal. When making this charge, you may attempt to overrun a creature in the path of the charge or to attempt a Strength check to break an unattended object such as a door or wall that is in your way, as a free action that does not provoke an attack of opportunity. If the check is successful, you may complete the charge. If the check is unsuccessful, the charge ends in the space directly in front of that creature or object. Any object you break or creature you overrun catches on fire, taking 1d6 points of fire damage per round. Each round the target may attempt a Reflex save to attempt to extinguish the flames. Rolling on the ground or using a blanket to smother the flames (a full-round action) grants the target a +4 bonus to that round’s saving throw.
@@ -221,7 +221,7 @@ If the charge or shove strikes its target, the target takes additional fire dama
 **Range** see text
 **Target** see text
 **Duration** 1 round
-**Saving Throw**none;**Spell Resistance** no
+**Saving Throw** none; **Spell Resistance** no
 **Prerequisites** Boxing sphere, Brute sphere (Quick Force)
 **Description**
 You prepare an attack that will blow your target away. You ready an action to perform a counterpunch, and may perform a shove in place of the counterpunch when the counterpunch is triggered. This shove deals additional damage as your counterpunch would. If the shove is successful, you may perform a bull rush, drag, or reposition combat maneuver as part of the shove.
@@ -245,7 +245,7 @@ You unleash a lethal curse that ravages mind and body. Any creature that fails t
 **Range** see text
 **Target** 1 creature
 **Duration** instantaneous
-**Saving Throw**none;**Spell Resistance** no
+**Saving Throw** none; **Spell Resistance** no
 **Prerequisites** Barrage sphere, Sniper sphere (any (snipe) talent)
 **Description**
 You slip in an immensely deadly shot amidst a flurry of projectiles. You make a barrage attack, adding your damage from deadly shot to a single attack made as part of the barrage. You may also apply a single (snipe) talent to this attack.
@@ -258,7 +258,7 @@ You slip in an immensely deadly shot amidst a flurry of projectiles. You make a 
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** one creature, see text
 **Duration** instantaneous
-**Saving Throw**none;**Spell Resistance** no
+**Saving Throw** none; **Spell Resistance** no
 **Prerequisites** Berserker sphere (Advancing Carnage), Warp sphere (Pouncing Teleport, Quick Teleport)
 **Description**
 You teleport around the battlefield rapidly, delivering strikes to multiple creatures. You teleport into melee attacking range of a creature within close range and make a single melee attack against it, taking a -2 penalty to the attack roll. If you are successful, you may teleport to another creature which is within close range of your new position and make a melee attack against it at the same -2 penalty. You may teleport and attack again every time you hit a target, to a maximum number of attacks beyond the first equal to 1/2 your caster level or 1/2 your base attack bonus (whichever is higher). You cannot attack the same creature multiple times with this ability.
@@ -270,9 +270,9 @@ You teleport around the battlefield rapidly, delivering strikes to multiple crea
 **Range** see text
 **Target** see text
 **Duration** see text
-**Saving Throw**see text;**Spell Resistance** see text
+**Saving Throw** see text; **Spell Resistance** see text
 **Prerequisites** Card Casting
-**Description **
+**Description** 
 You search your deck for a single card which costs 4 or fewer spell points and immediately play it
 
 ---
@@ -349,7 +349,7 @@ When one of your allies primes a technique, you respond immediately.
 
 #### Signature Technique [3PP]
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
 **Prerequisites:** Technique Crafting
 
@@ -373,7 +373,7 @@ Your martial skills enable incredible technique usage.
 
 #### Technique Skimmer (Combat) [3PP]
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
 **Prerequisites:** Knowledge of at least one technique or spell
 

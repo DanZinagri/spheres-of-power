@@ -87,7 +87,7 @@ R Sense Motive and Knowledge (geography) in place of redundant Disable Device an
 
 ### Astronomer [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Automatic Trade Talents:** Scout, Sleuth
 
@@ -103,7 +103,7 @@ R Knowledge (nature) in place of redundant Survival.
 
 R Spellcraft in place of redundant Knowledge (planes), * increased class skill bonus to Linguistics and Stealth checks.
 
-**Adroit Bonus Skill Talent**: Study sphere or Foretell (Occultism sphere).
+**Adroit Bonus Skill Talent:** Study sphere or Foretell (Occultism sphere).
 
 ### Buccaneer
 
@@ -122,55 +122,55 @@ R Climb in place of redundant Acrobatics skill, * increased class skill bonus to
 
 ### Cantor [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Automatic Trade Talents**: Priest, Minstrel.
+**Automatic Trade Talents:** Priest, Minstrel.
 
 *Trade Talent Class Skills*: Acrobatics, Diplomacy R, Knowledge (local), Knowledge (planes), Knowledge (religion) R/*, Sense Motive, Sleight of Hand, and Spellcraft.
 
-**Automatic Skill Sphere**: Performance sphere ((lyric) package) or Crowd Pleaser (Vocation sphere).
+**Automatic Skill Sphere:** Performance sphere ((lyric) package) or Crowd Pleaser (Vocation sphere).
 
-**Adroit Trade Talents**: Faith Healer, Sea Cultist.
+**Adroit Trade Talents:** Faith Healer, Sea Cultist.
 
 *Trade Talent Class Skills*: Appraise, Bluff, Heal, Knowledge (dungeoneering), Knowledge (history) Swim, and Use Magic Device
 R Appraise and Knowledge (history) in place of redundant Diplomacy and Knowledge (religion), * increased class skill bonus to Knowledge (religion) checks.
 
-**Adroit Bonus Skill Talent**: Occultism sphere or Rallying Tune (Performance sphere).
+**Adroit Bonus Skill Talent:** Occultism sphere or Rallying Tune (Performance sphere).
 
 ### Carpenter [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Automatic Trade Talents**: Artisan, Squire
+**Automatic Trade Talents:** Artisan, Squire
 
 *Trade Talent Class Skills:* Appraise, Disable Device, Disguise, Handle Animal, Heal, Knowledge (engineering), Knowledge (nobility), Sleight of Hand.
 
-**Automatic Skill Sphere**: Adept Gatherer (Vocation sphere) or Artifice sphere.
+**Automatic Skill Sphere:** Adept Gatherer (Vocation sphere) or Artifice sphere.
 
-**Adroit Trade Talents**: Greenskeeper, Intuiter
+**Adroit Trade Talents:** Greenskeeper, Intuiter
 
 *Trade Talent Class Skills:* Knowledge (arcana), Knowledge (nature), Knowledge (geography), Linguistics, Spellcraft, and Survival.
 R Climb and Knowledge (local) in place of redundant Appraise and Heal.
 
-**Adroit Bonus Skill Talent**: Adept Laborer (Vocation sphere) or Reinforce Material (Artifice sphere).
+**Adroit Bonus Skill Talent:** Adept Laborer (Vocation sphere) or Reinforce Material (Artifice sphere).
 
 ### Charmer [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Automatic Trade Talents**: Dazzler, Gossip.
+**Automatic Trade Talents:** Dazzler, Gossip.
 
 *Trade Talent Class Skills:* Bluff, Diplomacy *, Fly, Knowledge (local) R, Knowledge (nobility) R/*, Sense Motive, and Stealth.
 R Stealth in place of redundant Knowledge (nobility).
 
-**Automatic Skill Sphere**: Adept Socialite (Vocation sphere) or Communication sphere.
+**Automatic Skill Sphere:** Adept Socialite (Vocation sphere) or Communication sphere.
 
-**Adroit Trade Talents**: Entertainer, Storyteller.
+**Adroit Trade Talents:** Entertainer, Storyteller.
 
 *Trade Talent Class Skills:* Acrobatics, Disguise, Escape Artist, Knowledge (history), Sleight of Hand.
 R Linguistics in place of redundant Knowledge (local), * increased class skill bonus to Diplomacy and Knowledge (nobility) checks.
 
-**Adroit Bonus Skill Talent**: Adept Assistant (Vocation sphere) or Performance sphere ((act) or (lyric) package).
+**Adroit Bonus Skill Talent:** Adept Assistant (Vocation sphere) or Performance sphere ((act) or (lyric) package).
 
 ### Charming Actor
 
@@ -190,21 +190,21 @@ R Stealth in place of redundant Knowledge (history), * increased class skill bon
 
 ### Chef [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Automatic Trade Talents**: Scrounger, Storyteller
+**Automatic Trade Talents:** Scrounger, Storyteller
 
 *Trade Talent Class Skills:* Diplomacy, Knowledge (history), Knowledge (local), Knowledge (nobility) * R, Sleight of Hand, Survival, Swim.
 R Knowledge (geography) in place of redundant Knowledge (local).
 
-**Automatic Skill Sphere**: Survivalism sphere (Hunter drawback, choosing the Meat (harvest) talent) or Vocation sphere (Adept Culinarian).
+**Automatic Skill Sphere:** Survivalism sphere (Hunter drawback, choosing the Meat (harvest) talent) or Vocation sphere (Adept Culinarian).
 
-**Adroit Trade Talents**: Farmer, Servant
+**Adroit Trade Talents:** Farmer, Servant
 
 *Trade Talent Class Skills:* Appraise, Handle Animal R, Heal, Knowledge (nature), Ride, Stealth.
 R Bluff in place of redundant Handle Animal, * increased class skill bonus to Knowledge (nobility) checks.
 
-**Adroit Bonus Skill Talent**: Herbalism sphere ((herbal) package (Unconventional Practices [Profession (cook)]) or Vocation sphere (Industrious Worker).
+**Adroit Bonus Skill Talent:** Herbalism sphere ((herbal) package (Unconventional Practices [Profession (cook)]) or Vocation sphere (Industrious Worker).
 
 ### Detective
 
@@ -223,39 +223,39 @@ R Knowledge (local) in place of redundant Knowledge (history), * increased class
 
 ### Ensouled Muscle [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Automatic Trade Talents**: Loner, Greenskeeper.
+**Automatic Trade Talents:** Loner, Greenskeeper.
 
 *Trade Talent Class Skills*: Bluff, Heal *, Intimidate, Knowledge (geography), Knowledge (nature), Spellcraft, Survival R.
 R Spellcraft in place of redundant Survival, * increased class skill bonus to Heal checks.
 
-**Automatic Skill Sphere**: Occultism sphere.
+**Automatic Skill Sphere:** Occultism sphere.
 
-**Adroit Trade Talents**: Quicksilver, Strongarm.
+**Adroit Trade Talents:** Quicksilver, Strongarm.
 
 *Trade Talent Class Skills*: Acrobatics, Appraise, Diplomacy, Escape Artist R, Fly, Knowledge (religion), Ride, and Sense Motive.
 
 R Knowledge (religion) in place of redundant Escape Artist.
 
-**Adroit Bonus Skill Talent**: Body Control sphere or Envessel (Occultism sphere).
+**Adroit Bonus Skill Talent:** Body Control sphere or Envessel (Occultism sphere).
 
 ### Fixer [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Automatic Trade Talents**: Engineer, Quicksilver
+**Automatic Trade Talents:** Engineer, Quicksilver
 
 *Trade Talent Class Skills:* Acrobatics, Appraise R, Disable Device, Escape Artist, Knowledge (dungeoneering), Knowledge (engineering), and Sense Motive.
 R Stealth in place of redundant Appraise.
 
-**Automatic Skill Sphere**: Infiltration sphere or Adept Administrator (Vocation sphere)
+**Automatic Skill Sphere:** Infiltration sphere or Adept Administrator (Vocation sphere)
 
-**Adroit Trade Talents**: Con Artist, Medium
+**Adroit Trade Talents:** Con Artist, Medium
 
 *Trade Talent Class Skills:* Bluff, Diplomacy, Disguise, Fly, Knowledge (local), Knowledge (planes), Knowledge (religion), Linguistics
 
-**Adroit Bonus Skill Talent**: Communication sphere or Case the Joint (Infiltration sphere)
+**Adroit Bonus Skill Talent:** Communication sphere or Case the Joint (Infiltration sphere)
 
 ### Keeper
 
@@ -401,23 +401,23 @@ R Knowledge (local) in place of redundant Heal skill.
 
 ### Rural Doctor [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Automatic Trade Talents**: Doctor, Veterinarian.
+**Automatic Trade Talents:** Doctor, Veterinarian.
 
 *Trade Talent Class Skills*: Handle Animal, Heal R, Knowledge (local), Knowledge (nature), Knowledge (religion) R, Ride, Spellcraft, and Survival.
 
 R Survival in place of redundant Heal.
 
-**Automatic Skill Sphere**: Herbalism sphere ((remedy) package) or Adept Handler (Vocation sphere).
+**Automatic Skill Sphere:** Herbalism sphere ((remedy) package) or Adept Handler (Vocation sphere).
 
-**Adroit Trade Talents**: Gambler, Medium.
+**Adroit Trade Talents:** Gambler, Medium.
 
 *Trade Talent Class Skills*: Appraise, Bluff, Diplomacy, Fly, Knowledge (history), Knowledge (planes), Sense Motive, and Sleight of Hand.
 
 R Knowledge (history) in place of redundant Knowledge (religion).
 
-**Adroit Bonus Skill Talent**: Inoculative Treatment (Herbalism sphere) or Communication sphere.
+**Adroit Bonus Skill Talent:** Inoculative Treatment (Herbalism sphere) or Communication sphere.
 
 ### Schemer
 
@@ -437,20 +437,20 @@ R Diplomacy in place of redundant Disguise skill.
 
 ### Sentry [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Automatic Trade Talents**: Guard, Scout
+**Automatic Trade Talents:** Guard, Scout
 
 *Trade Talent Class Skills:* Acrobatics, Diplomacy, Intimidate *, Knowledge (geography), Knowledge (local) *, Sense Motive, Stealth R, and Survival R.
 
-**Automatic Skill Sphere**: Investigation sphere or Vocation sphere (Adept Adventurer).
+**Automatic Skill Sphere:** Investigation sphere or Vocation sphere (Adept Adventurer).
 
-**Adroit Trade Talents**: Loner, Thug
+**Adroit Trade Talents:** Loner, Thug
 
 *Trade Talent Class Skills:* Bluff, Disguise, Heal.
 R Appraise and Climb in place of redundant Survival and Stealth, * increased class skill bonus to Intimidate and Knowledge (local) checks.
 
-**Adroit Bonus Skill Talent**: Acute Senses (Investigation sphere) or Navigation sphere.
+**Adroit Bonus Skill Talent:** Acute Senses (Investigation sphere) or Navigation sphere.
 
 ### Scholar
 
@@ -565,7 +565,7 @@ R Knowledge (local) in place of redundant Stealth.
 
 ### Voice of the Land [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Automatic Trade Talents:** Geometer, Wildsoul.
 

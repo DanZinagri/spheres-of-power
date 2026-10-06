@@ -11,23 +11,23 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Altered Time
+#### Altered Time
 
 Choose either Haste or Slow. You lose this ability. You may take this drawback twice, losing both Haste and Slow.
 
-## Personal Time
+#### Personal Time
 
 You may only affect yourself when using alter time abilities that affect creatures. You cannot gain the Ranged Time or Mass Time talents. You must select a (time) talent or Improved Haste with the bonus talent gained from this drawback.
 
 **Incompatible:** Temporal Blade
 
-## Temporal Blade
+#### Temporal Blade
 
 You must select the Time Strike talent with the bonus talent gained from this drawback. You cannot use any alter time ability except through the use of the Time Strike talent.
 
 **Incompatible:** Personal Time, Temporal Brew
 
-## Temporal Brew
+#### Temporal Brew
 
 You must select the Instill Time talent with the bonus talent granted by this drawback, and you can only use your Time sphere abilities through this talent.
 

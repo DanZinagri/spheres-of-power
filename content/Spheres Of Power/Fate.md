@@ -108,7 +108,7 @@ An instilled liquid remains potent until you rest to regain spell points. If you
 
 #### Lingering Fate [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When you use a consecration or word ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating.
 
@@ -130,7 +130,7 @@ You may deliver words via a melee touch attack. As a standard action, you may ma
 
 #### Bind Wyrd (consecration) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You create a consecration that anchors fate and destiny. Choose confine or ward.
 
@@ -295,13 +295,13 @@ The damage transferred is empathic in nature and cannot be further reduced, divi
 
 #### The King (motif) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 You assert the target’s authority over magic and others. The target gains a +1 insight bonus on concentration checks. This bonus increases by +1 for every 10 caster levels. The target may discharge this effect as an immediate action to transfer a magic effect currently affecting themself to a creature within close range (so long as they are conscious, the original target may transfer the effect even if they are incapable of taking actions). Unwilling targets of this transfer are allowed a Will save to negate this transfer, in which case the effect remains on the original target. This cannot transfer an effect to a target that could not have been initially targeted (for example, attempting to transfer an enlarge person spell to a dragon would fail).
 
 #### The Knight (motif) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 You emphasize the target’s drive and eagerness for action. The target ignores any penalties they would suffer to initiative rolls as a result of conditions such as deafened, entangled, or exhausted. The target may discharge this effect as an immediate action to apply a metamagic feat they have to a sphere effect without altering its casting time (but paying additional spell points as normal). At caster level 10, they may discharge this motif as a free action usable outside of their turn (instead of an immediate action).
 
@@ -325,13 +325,13 @@ The target may discharge this effect when they are the target of a mind-affectin
 
 #### The Page (motif) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 Your power exacerbates the target’s excitement and ambition. Any morale bonus on the target has its duration extended by 1 round, plus an additional round for every 10 caster levels. The target may discharge this effect as an immediate action to double any morale bonuses affecting them for a single die roll. After this round, the bonuses return to their normal values.
 
 #### The Queen (motif) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 The target’s calm and clarity shields them in time of distress. The duration of any fear effect on the target is reduced by 2 rounds, to a minimum of 1. This reduction in duration increases by 1 round for every 5 caster levels.
 The target may discharge this effect as an immediate action when they are damaged to treat the damage roll as having rolled the minimum possible result or to cause a critical hit against them to become a normal hit. In addition, you reduce any damage you would take from the triggering attack by 1 for every 2 caster levels (minimum 1 reduced damage). This can reduce an attack’s damage to 0, causing that attack to be treated as a miss.
@@ -439,7 +439,7 @@ When an ally within range fails a saving throw, you may spend a spell point as a
 
 The target cannot take immediate actions or attacks of opportunity (Will negates). This effect lasts as long as you concentrate, but you may always spend a spell point as a free action to allow this word to continue for 1 round per caster level without concentration.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Curse (word) [curse]
 
@@ -595,7 +595,7 @@ You may grant a motif that allows a target to preserve and, ultimately, change t
 
 #### Declare Fate (word) [curse] [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 **Prerequisites:** Fate sphere, caster level 15th.
 
@@ -629,7 +629,7 @@ You must concentrate to maintain this consecration, but you may spend an additio
 
 Whenever the target would roll a d20, they roll a d16 instead. The target threatens a critical hit on a 16 when making attack rolls. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Execration
 
@@ -653,7 +653,7 @@ This effect lasts as long as you concentrate, but you may always spend a spell p
 
 You place a curse on the target that amplifies their failures (Will negates). Whenever the target misses with an attack, that attack is automatically a critical fumble threat. The target must confirm the critical fumble as normal. This effect lasts as long as you concentrate, but you may always spend a spell point to allow the effect to endure for 1 minute per caster level without concentration. Whenever the target confirms a critical fumble threat, they are allowed a new Will save to end this effect.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Geas (word) [curse] [utility]
 
@@ -669,7 +669,7 @@ A geas cannot be dispelled, but it may be broken through the Break Enchantment L
 
 #### Get a Word In [3PP]
 
-**Source:** [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)
+*Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*
 
 **Prerequisites:** Fate Sphere
 
@@ -725,7 +725,7 @@ If the same (arcana) is attached to one motif multiple times, that (arcana)’s 
 
 You may spend a spell point to apply this word to a weapon. Whenever this weapon deals damage to a subordinate, called creature, summoned creature, or creature animated by a magic effect (such as a zombie or animated object), any excess damage beyond the amount needed to reduce the creature to 0 hit points is instead applied to the subordinate’s master or the caster of the animating, calling, or summoning spell. Such a master is allowed a Will save to negate this damage. This movement of damage may only be applied once per subordinate or summoned/called/animated creature.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 ---
 

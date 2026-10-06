@@ -17,17 +17,17 @@ Sometimes a kineticist’s powers come from a source so obscure that they never 
 At 1st level, a nihilicist gains the following kinetic blast:
 
 > **Empty Blast**
-> **Element(s)**none;**Type**simple blast (Sp);**Level**—;**Burn** 0
-> **Blast Type**special;**Damage** untyped
+> **Element(s)** none; **Type** simple blast (Sp); **Level** —; **Burn** 0
+> **Blast Type** special; **Damage** untyped
 >
 > You drain a small portion of your target’s existence away from it, dealing nihil damage. You can decide if this is an energy or physical blast each time you use this blast.
 
 At 7th level, a nihilicist gains the following kinetic blast:
 
 > **Zero Blast**
-> **Element(s)**none;**Type**composite blast (Sp);**Level**—;**Burn** 2
+> **Element(s)** none; **Type** composite blast (Sp); **Level** —; **Burn** 2
 > **Prerequisite(s)** empty blast
-> **Blast Type**special;**Damage** untyped
+> **Blast Type** special; **Damage** untyped
 >
 > You leave those affected by your blast with gaping holes of nothingness within them, dealing nihil damage. You can decide if this is an energy or physical blast each time you use this blast.
 

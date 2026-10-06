@@ -16,7 +16,7 @@ Envy is a sin, and the dark and fell fiends of damnation have ever rewarded sin.
 
 **Alignment:** Changes to any Evil.
 
-**Defenses/Qualities:** DR 5/special (see driven by envy below, increase to 10 if the envious creature’s CR is 10 or higher, increase to 15 if the envious creature’s CR is 15 or higher);**Resist**5 special (see below, increase to 10 if the envious creature’s CR is 10 or higher, increase to 20 if the envious creature’s CR is 15 or higher);**Immune** mind-affecting; SR 12 + CR (see driven by envy).
+**Defenses/Qualities:** DR 5/special (see driven by envy below, increase to 10 if the envious creature’s CR is 10 or higher, increase to 15 if the envious creature’s CR is 15 or higher); **Resist** 5 special (see below, increase to 10 if the envious creature’s CR is 10 or higher, increase to 20 if the envious creature’s CR is 15 or higher); **Immune** mind-affecting; SR 12 + CR (see driven by envy).
 
 **Special Abilities:** An envious creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -34,6 +34,6 @@ While under the effects of protection from evil or a similar spell, the subject 
 
 **Spiteful Strike (Su):** Envious creatures often believe if they cannot possess something, then no one should. Once per day as a free action, if the envious creature attacks the target of his desire that attack automatically threatens a critical; if the attack does not require an attack roll, then the envious creature may add +4 to the DC of the effect or increase the amount of damage it would deal by 50% (it’s choice).
 
-**Abilities:** Increase from the base creature as follows:**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Int**+4 (add 2 bonus languages, add 2 skill points per HD, +2 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks, +2 to any of the base creature’s Intelligence-based DCs),**Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Int** +4 (add 2 bonus languages, add 2 skill points per HD, +2 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks, +2 to any of the base creature’s Intelligence-based DCs), **Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs).
 
 **Skills:** Envious creatures gain a +8 racial bonus on Bluff and Disguise checks; both of these skills are always considered class skills for envious creatures.

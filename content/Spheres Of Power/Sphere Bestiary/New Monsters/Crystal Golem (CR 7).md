@@ -12,23 +12,23 @@ A crystal golem cannot speak, although it can emit crashing and grinding noise. 
 **Crystal Golem (CR 7)**
 XP 3,200
 N Large construct
-**Init**–1;**Senses**darkvision 60 ft., low-light vision;**Perception** +0
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; **Perception** +0
 
 **Defense**
-**AC**20,**touch**8,**flat-footed** 20; (–1 Dex, +12 natural, –1 size)
+**AC** 20, **touch** 8, **flat-footed** 20; (–1 Dex, +12 natural, –1 size)
 **hp** 79 (9d10+30)
-**Fort**+3,**Ref**+2,**Will** +3
-**DR**5/bludgeoning;**Immune** construct traits, magic
+**Fort** +3, **Ref** +2, **Will** +3
+**DR** 5/bludgeoning; **Immune** construct traits, magic
 
 **Offense**
 **Speed** 30 ft.
 **Melee** 2 claws +13 (2d8+5)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** crystal growth
 
 **Statistics**
-**Str**20,**Dex**9,**Con**—,**Int**—,**Wis**11,**Cha** 11
-**Base Atk**+9;**CMB**+15;**CMD** 24
+**Str** 20, **Dex** 9, **Con** —, **Int** —, **Wis** 11, **Cha** 11
+**Base Atk** +9; **CMB** +15; **CMD** 24
 **Languages** none
 
 **Special Abilities**
@@ -47,6 +47,6 @@ N Large construct
 **Crystal Golem Construction**
 A crystal golem is assembled from a collection of rare crystals, imbued with powerful dweomers and held together by golden filaments until the growth begins properly.
 
-**CL**8th;**Price** 20,500 gp
+**CL** 8th; **Price** 20,500 gp
 **Construction Requirements**
-Forge Construct, Destruction sphere (Crystal Blast); **Special**creator must have MSB 8;**Skill**Craft (jewelry) or Appraise DC 13;**Cost** 10,500 gp
+Forge Construct, Destruction sphere (Crystal Blast); **Special** creator must have MSB 8; **Skill** Craft (jewelry) or Appraise DC 13; **Cost** 10,500 gp

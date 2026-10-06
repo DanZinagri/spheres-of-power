@@ -13,20 +13,20 @@ This being resembles a towering human with skin of polished stone and glittering
 XP 76,800
 Pathfinder Roleplaying Game Bestiary
 LN Large outsider (earth, extraplanar, mythic)
-**Init**+5;**Senses** darkvision 60 ft., see through stoneMA, tremorsense 60 ft.; Perception +23
+**Init** +5; **Senses** darkvision 60 ft., see through stoneMA, tremorsense 60 ft.; Perception +23
 
 #### Defense
 
-**AC**23,**touch**10,**flat-footed** 22 (+1 Dex, +13 natural, –1 size)
+**AC** 23, **touch** 10, **flat-footed** 22 (+1 Dex, +13 natural, –1 size)
 **hp** 192 (18d10+93)
-**Fort**+15,**Ref**+7,**Will** +13
-**Defensive Abilities**DR 10/epic,**Immune** electricity
+**Fort** +15, **Ref** +7, **Will** +13
+**Defensive Abilities** DR 10/epic, **Immune** electricity
 
 #### Offense
 
 **Speed** 20 ft., burrow 60 ft., climb 20 ft.
 **Melee** 2 slams +25 (2d6+8 plus earthquake slam) or mwk falchion +26/+21 (2d6+11/18–20)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** down to earthMA, earth mastery, earthquake slamMA, metalmorph, mythic power (6/day, surge +1d8), shatterstoneMA, stone curse
 
 **Spell-Like Abilities** (CL 18th)
@@ -36,8 +36,8 @@ At will—keen edge, lead blades, magic weapon, meld into stone, plane shift (wi
 
 #### Statistics
 
-**Str**26,**Dex**13,**Con**19,**Int**14,**Wis**14,**Cha** 15
-**Base Atk**+18;**CMB**+27 (+34 bull rush);**CMD** 38 (43 vs. bull rush)
+**Str** 26, **Dex** 13, **Con** 19, **Int** 14, **Wis** 14, **Cha** 15
+**Base Atk** +18; **CMB** +27 (+34 bull rush); **CMD** 38 (43 vs. bull rush)
 **Feats** Awesome Blow, CleaveMF, Cleaving Finish, Combat Casting, Great Cleave, Improved Bull RushMF, Improved InitiativeB, Greater Bull Rush, Power AttackMF, Quicken Spell-Like Ability (glitterdust)
 **Skills** Appraise +23, Bluff +23, Climb +37, Craft (gemcutting) +23, Knowledge (engineering) +23, Perception +23, Sense Motive +23, Spellcraft +23
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.

@@ -10,43 +10,43 @@ The following are new deeds of renown any swashbuckler may take.
 
 #### Charming Motion (Ex) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 Whenever the swashbuckler uses a (motion) talent from the Athletics sphere, she may spend a panache point to regain martial focus as an immediate action. This replaces derring-do.
 
 #### Graceful Rush (Ex) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 At times, a swashbuckler just wants to hit a bit harder. When she hits an enemy with a brutal strike from the Berserker sphere, as long as the swashbuckler has at least 1 panache point, she may perform a bull rush as a free action that does not provoke an attack of opportunity. In addition, the swashbuckler may spend a panache point to apply two (exertion) talents she possesses to the attack. This cannot be combined with Extended Exertion. This replaces opportune parry and riposte, and one other 1st level deed.
 
 #### Daring Patrol (Ex) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 At 3rd level, whenever the swashbuckler puts up a patrol with the Guardian sphere and she has at least one panache point, she may add 5 feet of reach to any light or one-handed piercing weapon for the purpose of the patrol’s area. This replaces kip-up.
 
 #### Inspired Gladiator (Ex) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 At 3rd level, whenever the swashbuckler hits an opponent with a light or one-handed piercing melee weapon with an attack action, she may spend a panache point to perform a boast she knows from the Gladiator sphere as a swift action. This replaces menacing swordplay.
 
 #### Exploitative Charm (Ex) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 At 7th level, the swashbuckler has learned to better take advantage of enemy weak points. If the swashbuckler performs an attack action or attack of opportunity that doesn’t qualify for a fatal thrust, the charming fencer may spend a panache point to make the attack count as a fatal thrust as an immediate action. This replaces superior feint.
 
 #### Opportunistic Duelist (Ex) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 At 7th level, whenever the swashbuckler deals bleed damage to a creature using the blooded strike ability of the Duelist sphere, she may spend a panache point as a swift action to ‘mark’ that creature for rounds equal to her Charisma modifier. Effects that end the bleed also remove this mark. So long as she is using a light or one-handed piercing weapon, the swashbuckler gets a bonus to her CMB against that creature equal to the amount of bonus bleed damage granted to her by blooded strike. This replaces targeted strike.
 
 #### Provoking Ruse (Ex) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 At 7th level, the swashbuckler may spend a panache point to feint a target that she has challenged with the Guardian sphere as a swift action. This replaces a 7th level deed you know.
 

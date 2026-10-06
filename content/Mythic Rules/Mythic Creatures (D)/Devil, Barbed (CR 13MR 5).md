@@ -13,14 +13,14 @@ From the tip of its lashing tail to the serrated features of its fang-filled vis
 XP 25,600
 Pathfinder Roleplaying Game Bestiary
 LE Medium outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+6;**Senses** darkvision 60 ft., see in darkness; Perception +21
+**Init** +6; **Senses** darkvision 60 ft., see in darkness; Perception +21
 
 #### Defense
 
-**AC**31,**touch**16,**flat-footed** 25 (+6 Dex, +15 natural)
+**AC** 31, **touch** 16, **flat-footed** 25 (+6 Dex, +15 natural)
 **hp** 188 (12d10+122)
-**Fort**+14,**Ref**+14,**Will** +8
-**Defensive Abilities**mythic barbed defenseMA; DR 10/epic and good;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 27
+**Fort** +14, **Ref** +14, **Will** +8
+**Defensive Abilities** mythic barbed defenseMA; DR 10/epic and good; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 27
 
 #### Offense
 
@@ -34,8 +34,8 @@ At will—greater teleport (self plus 50 lbs. of objects only), hold person (DC 
 
 #### Statistics
 
-**Str**27,**Dex**23,**Con**22,**Int**12,**Wis**15,**Cha** 18
-**Base Atk**+12;**CMB**+20 (+24 grapple);**CMD** 36
+**Str** 27, **Dex** 23, **Con** 22, **Int** 12, **Wis** 15, **Cha** 18
+**Base Atk** +12; **CMB** +20 (+24 grapple); **CMD** 36
 **Feats** Alertness, Cleave, Combat ReflexesMF, Improved Critical (claws)MF, Iron WillMF, Power Attack
 **Skills** Acrobatics +15, Diplomacy +13, Intimidate +19, Knowledge (planes) +16, Perception +21, Sense Motive +21, Spellcraft +12, Stealth +13, Survival +14
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.

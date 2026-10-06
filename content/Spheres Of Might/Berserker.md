@@ -144,7 +144,7 @@ You close in on foes with an unnerving alacrity. You must expend martial focus e
 
 #### Agonizing Bruise (exertion) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 For as long as the creature damaged by your brutal strike remains battered, the creature gains a weakness against the same damage type of the weapon that dealt the brutal strike (or one of them if it dealt multiple types of damage, chosen when you use this ability) equal to 2 + 1 per 3 points of base attack bonus you possess. This is a pain effect.
 
@@ -209,7 +209,7 @@ When using the Shatter Earth talent, if you deal enough damage to reduce the gro
 
 #### Atavism (adrenaline) [Apoc]
 
-**Source:** [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)
+*Source: [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)*
 
 **Errata:** Originally printed in The Conqueror’s Handbook, the Atavism (adrenaline) allows characters to channel their latent primordial or primal heritage. This release updates the Atavism (adrenaline) by introducing heritages, a creature type with associated benefits when using this talent, while adjusting some of the interactions the talent originally offered. The new text for the Atavism talent reads as follows:
 

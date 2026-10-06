@@ -14,26 +14,26 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Powerless [SUE]
+#### Powerless [SUE]
 
 You and gizmos you craft cannot deplete batteries or benefit from battery use abilities (or similar resources that behave like batteries, such as the Biofuel feat’s biofuel charges).
 
-## Specialized Inventorship [SUE]
+#### Specialized Inventorship [SUE]
 
 You do not gain a Tinker package. You gain any Tinker sphere talent that does not require a package.
 
-**Note**: You may not take the Expanded Tinkering talent while you possess this drawback, you must “buy back” this drawback to gain your first Tinker package.
+**Note:** You may not take the Expanded Tinkering talent while you possess this drawback, you must “buy back” this drawback to gain your first Tinker package.
 
-## Specific Mechanoids [SUE]
+#### Specific Mechanoids [SUE]
 
 When you first gain the (transportation) Tinker package, choose one of the templates offered by the Advanced Transportation legendary talent. All mechanoids you craft must have that template, and if you selected the biological construct template, you must choose a single creature type for all of your mechanoids to possess with that template.
 
 This drawback does not grant a bonus talent.
 
-**Note**: This Tinker sphere drawback grants the benefits of a legendary talent to enable certain thematic options. GMs should approve this drawback the same as they would individually approve a legendary talent.
+**Note:** This Tinker sphere drawback grants the benefits of a legendary talent to enable certain thematic options. GMs should approve this drawback the same as they would individually approve a legendary talent.
 
-## Tinker Tradition [SUE]
+#### Tinker Tradition [SUE]
 
 You gain a Tinker tradition (see **Section 4.4: Gamemaster’s Toolkit, Tinker Traditions** for more).
 
-**Special**: Unlike a normal sphere drawback, gaining a Tinker tradition grants you 1 bonus Tinker talent per 2 Tinker tradition drawbacks your Tinker tradition possesses.
+**Special:** Unlike a normal sphere drawback, gaining a Tinker tradition grants you 1 bonus Tinker talent per 2 Tinker tradition drawbacks your Tinker tradition possesses.

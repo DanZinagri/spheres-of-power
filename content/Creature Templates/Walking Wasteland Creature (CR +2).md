@@ -16,7 +16,7 @@ This toxic nature almost always affects a creature’s appearance making it some
 
 **CR:** +2.
 
-**Defensive Abilities:** ferocity, poisonous blood (poison cloud);**Immune**ability damage, ability drain, bleed, death effects, disease, exhaustion, fatigue, paralysis, mind-affecting, poison, nonlethal damage, sleep, stun;**Resist** cold, fire 10
+**Defensive Abilities:** ferocity, poisonous blood (poison cloud); **Immune** ability damage, ability drain, bleed, death effects, disease, exhaustion, fatigue, paralysis, mind-affecting, poison, nonlethal damage, sleep, stun; **Resist** cold, fire 10
 
 **Special Abilities:** A walking wasteland creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -38,4 +38,4 @@ This even affects the ground a walking wasteland travels upon and as such it is 
 
 **Shattering Aura (Su):** Within the area of the walking wasteland’s degeneration aura, non-magical objects of crystal, glass, ceramic, or porcelain are ruined. All such unattended objects are smashed into dozens of pieces by this effect. Objects weighing more than 1 pound per HD of the walking wasteland creature are not affected, but all other objects of the appropriate composition are shattered.
 
-**Ability Scores:** Increase the base creature's abilities as follows:**Con** +8 (+4 hp per HD, +4 to Fortitude saves, and any of the base creature’s Constitution-based DCs).
+**Ability Scores:** Increase the base creature's abilities as follows: **Con** +8 (+4 hp per HD, +4 to Fortitude saves, and any of the base creature’s Constitution-based DCs).

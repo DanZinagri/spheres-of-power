@@ -13,28 +13,28 @@ This towering menace has a horrible, vertically aligned mouth and arms that spli
 XP 19,200
 Pathfinder Roleplaying Game Bestiary 2
 CE Large aberration (mythic, mythos)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +27
+**Init** +1; **Senses** darkvision 60 ft.; Perception +27
 
 #### Defense
 
-**AC**29,**touch**10,**flat-footed** 28 (+1 Dex, +19 natural, –1 size)
+**AC** 29, **touch** 10, **flat-footed** 28 (+1 Dex, +19 natural, –1 size)
 **hp** 182 (15d8+115)
-**Fort**+10,**Ref**+6,**Will** +12
-**Defensive Abilities**DR 10/epic, fortification (50%)MA;**Immune** disease, poison
+**Fort** +10, **Ref** +6, **Will** +12
+**Defensive Abilities** DR 10/epic, fortification (50%)MA; **Immune** disease, poison
 
 #### Offense
 
 **Speed** 40 ft., climb 20 ft.
 **Melee** bite +18 (1d8+8), 4 claws +18 (1d6+8)
-**Space**10 ft.;**Reach** 15 ft.
+**Space** 10 ft.; **Reach** 15 ft.
 **Special Attacks** entangling eviscerationMA, eviscerating rendMMA (2 claws, 1d6+10), mythic power (5/day, surge +1d8), sneak attackMA +4d6
 
 #### Statistics
 
-**Str**27,**Dex**12,**Con**20,**Int**11,**Wis**16,**Cha** 11
-**Base Atk**+11;**CMB**+20 (+24 bull rush);**CMD** 31 (33 vs. bull rush)
+**Str** 27, **Dex** 12, **Con** 20, **Int** 11, **Wis** 16, **Cha** 11
+**Base Atk** +11; **CMB** +20 (+24 bull rush); **CMD** 31 (33 vs. bull rush)
 **Feats** Awesome Blow, Blind-FightMF, Combat ReflexesMF, Greater Bull Rush, Improved Bull Rush, Lunge, Power AttackM, Skill Focus (Perception)
-**Skills**Climb +16, Escape Artist +19, Knowledge (dungeoneering) +13, Perception +27, Stealth +9, Survival +21;**Racial Modifiers** +8 Climb, +4 Escape Artist
+**Skills** Climb +16, Escape Artist +19, Knowledge (dungeoneering) +13, Perception +27, Stealth +9, Survival +21; **Racial Modifiers** +8 Climb, +4 Escape Artist
 **Languages** Undercommon
 **SQ** compression, earth glideMA
 

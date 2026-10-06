@@ -90,7 +90,7 @@ You automatically pinpoint the location of any incorporeal, invisible, or hidden
 
 If you are maintaining the attuned approach, invisible creatures only gain concealment against your attacks, rather than total concealment (although such creatures can still gain total concealment from other methods, like from cover or the Stealth skill). Such creatures do not gain a bonus to attack rolls against you, and you retain your Dexterity bonus to AC against attacks originating from invisible creatures. Additionally, once per round as a free action you can attempt a Perception check to pinpoint the location of all ethereal, incorporeal, and hidden creatures within 15 feet of you, plus 5 feet per 4 associated ranks you possess.
 
-**Associated Feats**: Eerie Sense (*Inner Sea Gods*), Incorporeal Intuition (*Horror Adventures*), Spirit Sight (*Adventurer’s Guide*).
+**Associated Feats:** Eerie Sense (*Inner Sea Gods*), Incorporeal Intuition (*Horror Adventures*), Spirit Sight (*Adventurer’s Guide*).
 
 #### Repurposed Power
 
@@ -106,7 +106,7 @@ You can center a ceremony's ritual area on a square in close range, instead of o
 
 You can also improve any ritual using ritual power in the following ways:
 
-- **1 Ritual Power**: The radius of a ceremony’s ritual area increases by 5 feet. This can be applied multiple times.
+- **1 Ritual Power:** The radius of a ceremony’s ritual area increases by 5 feet. This can be applied multiple times.
 
 #### Spirit Reaver
 
@@ -116,7 +116,7 @@ While you are maintaining the attuned approach, any weapon you are wielding func
 
 **Special**—If you have the Preternatural Intuition talent, you can spend 1 use of skill leverage when you adopt the attuned approach to also have any weapon you are wielding functions as a limningUE weapon for as long as you are holding it, although its effects only function against invisible creatures.
 
-**Associated Feats**: Ghostslayer and Soulblade (*Haunted Heroes Handbook*).
+**Associated Feats:** Ghostslayer and Soulblade (*Haunted Heroes Handbook*).
 
 #### Sympathetic Bond
 
@@ -134,7 +134,7 @@ You can also use the exorcise creature skill use to diminish other forms of cont
 
 You can spend 1 use of skill leverage when attempting to exorcise such a creature to actively unravel a creature’s hold over the undead, called, or summoned creature. If your attempt is successful, the creature (or its controller, whichever is higher) must succeed at a Will save or have the control over them become relinquished for as long as they are vulnerable—during this time, they are compelled to seek out and attack its former controller until the control is regained.
 
-**Associated Feat**: Shatter Control (*Horror Adventures*)
+**Associated Feat:** Shatter Control (*Horror Adventures*)
 
 #### Unveil Phenomena [utility]
 
@@ -152,64 +152,64 @@ Whenever you are affected by a compulsion or possession effect or are confused, 
 
 On a successful save, you can act normally for 1 round. On a failed save, you cannot attempt to regain control for 1 minute.
 
-**Associated Feat**: Spiritual Training (*Haunted Heroes Handbook*).
+**Associated Feat:** Spiritual Training (*Haunted Heroes Handbook*).
 
 ## Ritual Talents
 
 #### Alleviate (ritual)
 
-**Ceremony**: This functions as the faith healing occult skill unlock (ignoring the normal daily limit), except that its effects are granted to all creatures that remain within the ritual area for the entirety of the ceremony—each creature must gain the same faith healing option. You still attempt a skill check as normal, comparing the check result to each affected creature.
+**Ceremony:** This functions as the faith healing occult skill unlock (ignoring the normal daily limit), except that its effects are granted to all creatures that remain within the ritual area for the entirety of the ceremony—each creature must gain the same faith healing option. You still attempt a skill check as normal, comparing the check result to each affected creature.
 
 You also gain a new option you can choose whenever you perform faith healing using this ceremony: psychic healing. This functions as the treat deadly wounds Heal skill use (including any abilities you possess that improve it), but also grants the healed creature a number of temporary hit points equal to the amount of damage healed, which last for 1 hour. This still counts towards the creature's daily limit for treat deadly wounds, and does not require a healer’s kit.
 
-**Rite**: You choose 1 creature within rite range, healing them an amount of hit points equal to 3 × your associated ranks, as well as granting them a +2 circumstance bonus to saving throws against death and negative energy effects for 1 minute—this is a positive energy effect, but has no effect on creatures harmed by positive energy.
+**Rite:** You choose 1 creature within rite range, healing them an amount of hit points equal to 3 × your associated ranks, as well as granting them a +2 circumstance bonus to saving throws against death and negative energy effects for 1 minute—this is a positive energy effect, but has no effect on creatures harmed by positive energy.
 
-- **1 Ritual Power**: The next time within the next minute that the affected creature receives magical healing (excluding fast healing), they heal an additional number of hit points equal to the caster level of the effect.
-- **1 Ritual Power**: If the creature affected by this rite is fatigued, shaken, sickened, or staggered, those conditions are removed. If you spend 2 ritual power, it also removes the dazed, exhausted, frightened, and nauseated conditions. If you spend 3 ritual power, it also removes the blinded, deafened, paralyzed, and stunned conditions.
-- **1-3 Ritual Power**: The amount healed increases by your associated ranks × the amount of ritual power you spend on this empowerment.
-- **3 Ritual Power**: Instead of affecting 1 creature, this rite affects any number of creatures within a 10-ft radius centered on you, increasing by 5 feet per 4 associated ranks you possess.
+- **1 Ritual Power:** The next time within the next minute that the affected creature receives magical healing (excluding fast healing), they heal an additional number of hit points equal to the caster level of the effect.
+- **1 Ritual Power:** If the creature affected by this rite is fatigued, shaken, sickened, or staggered, those conditions are removed. If you spend 2 ritual power, it also removes the dazed, exhausted, frightened, and nauseated conditions. If you spend 3 ritual power, it also removes the blinded, deafened, paralyzed, and stunned conditions.
+- **1-3 Ritual Power:** The amount healed increases by your associated ranks × the amount of ritual power you spend on this empowerment.
+- **3 Ritual Power:** Instead of affecting 1 creature, this rite affects any number of creatures within a 10-ft radius centered on you, increasing by 5 feet per 4 associated ranks you possess.
 
 *Variant Channeling*—If you wish, you can choose one variant channeling ability (Ultimate Magic) when you first gain this talent. Whenever you use this rite, you may apply the effects of variant channeling, including any modifications to the healing done. You use your associated ranks in place of your cleric level for determining your effective channel bonus, if relevant. The rite gains the following empowerment:
 
-- **1 Ritual Power**: The healing is no longer reduced due to variant channeling.
+- **1 Ritual Power:** The healing is no longer reduced due to variant channeling.
 
 **Special**—If you have the Herbalism sphere ((remedy) package), this talent is treated as a (remedy) talent.
 
-**Associated Feat**: Psychic Healing (*Occult Adventures*).
+**Associated Feat:** Psychic Healing (*Occult Adventures*).
 
 #### Anoint (ritual)
 
-**Ceremony**: The ritual’s area wards against spirits and external manipulation. Creatures within the area are immune to possession and compulsion effects. If such a creature is already affected by such an effect, they gain a new saving throw against the effect. On a success, the effect is suppressed for as long as they remain within the area, pausing its duration (if any). Otherwise, the effect continues to function as normal.
+**Ceremony:** The ritual’s area wards against spirits and external manipulation. Creatures within the area are immune to possession and compulsion effects. If such a creature is already affected by such an effect, they gain a new saving throw against the effect. On a success, the effect is suppressed for as long as they remain within the area, pausing its duration (if any). Otherwise, the effect continues to function as normal.
 
-- **1 Ritual Power**: If a creature within the area is possessed, the possessing entity must succeed at a Will saving throw or be forcibly ejected from their host. If an incorporeal creature attempts to enter the area, they must succeed at a Will saving throw or be unable to enter the area for 1 round and suffer 1d6 force damage, +1d6 per 4 associated ranks. If a possessing entity is ejected within the area, they automatically fail this saving throw and are shunted out to the nearest valid square.
+- **1 Ritual Power:** If a creature within the area is possessed, the possessing entity must succeed at a Will saving throw or be forcibly ejected from their host. If an incorporeal creature attempts to enter the area, they must succeed at a Will saving throw or be unable to enter the area for 1 round and suffer 1d6 force damage, +1d6 per 4 associated ranks. If a possessing entity is ejected within the area, they automatically fail this saving throw and are shunted out to the nearest valid square.
 
-**Rite**: You choose 1 set of armor, shield, or weapon (or a bundle of up to 50 pieces of ammunition) within rite range, blessing it for 1 hour. While blessed, the object gains the ghost touch special armor or weapon quality. A weapon blessed this way can be used to deal precision damage to incorporeal creatures, as well as dealing +1d6 positive energy damage against undead creatures and haunts.
+**Rite:** You choose 1 set of armor, shield, or weapon (or a bundle of up to 50 pieces of ammunition) within rite range, blessing it for 1 hour. While blessed, the object gains the ghost touch special armor or weapon quality. A weapon blessed this way can be used to deal precision damage to incorporeal creatures, as well as dealing +1d6 positive energy damage against undead creatures and haunts.
 
-- **1-3 Ritual Power**: The blessed object gains one of the following special qualities, chosen when you use this rite: defiant (aberrations, undead, or chaotic, evil, good, or lawful outsider only), champion, dastard, or deathless.
+- **1-3 Ritual Power:** The blessed object gains one of the following special qualities, chosen when you use this rite: defiant (aberrations, undead, or chaotic, evil, good, or lawful outsider only), champion, dastard, or deathless.
 
 If you spend 2 ritual power and have at least 5 associated ranks, you add the decisive, disruption, ghost spike, lifesurge, radiant, and rallying qualities to the list of special qualities you can add.
 If you spend 3 ritual power and have at least 5 associated ranks, you add the anarchic, axiomatic, bane (aberrations, undead, or chaotic, evil, good, or lawful outsider only), holy, and unholy qualities to the list of special qualities you can add to the blessed weapon. At 10 associated ranks, you add the righteous, unbound, unrighteous, and vigilant qualities to the list of special qualities you can add.
 
-**Associated Feats**: Align Equipment and Bless Equipment (*Undead Slayer's Handbook*).
+**Associated Feats:** Align Equipment and Bless Equipment (*Undead Slayer's Handbook*).
 
 #### Aura Reading (ritual) [utility]
 
 This ritual allows you to perform the read aura occult skill unlock in various ways. When performed as a ritual, its use does not count towards the normal daily limit for occult skill unlocks.
 
-- **1 Ritual Power**: If you read a creature’s health aura, you learn the creature’s exact hit point total rounded to the nearest 10, or their exact hit point total if you exceed the DC required to do so by 5 or more. You also learn any conditions the creature is suffering from.
-- **1 Ritual Power**: If you read a creature’s emotion aura, you learn if the creature is suffering from an emotion or mind-affecting effect. If an emotion effect was caused by a creature that you can see, you are aware of its source.
-- **1 Ritual Power**: You gain a +4 bonus to checks to read auras, and a +8 bonus to Perception checks to detect invisible creatures or objects or pierce magical disguises (both illusory ones and those provided by the change shape ability or polymorph magic).
+- **1 Ritual Power:** If you read a creature’s health aura, you learn the creature’s exact hit point total rounded to the nearest 10, or their exact hit point total if you exceed the DC required to do so by 5 or more. You also learn any conditions the creature is suffering from.
+- **1 Ritual Power:** If you read a creature’s emotion aura, you learn if the creature is suffering from an emotion or mind-affecting effect. If an emotion effect was caused by a creature that you can see, you are aware of its source.
+- **1 Ritual Power:** You gain a +4 bonus to checks to read auras, and a +8 bonus to Perception checks to detect invisible creatures or objects or pierce magical disguises (both illusory ones and those provided by the change shape ability or polymorph magic).
 
-**Ceremony**: All creatures that remained within the ritual area for the entirety of the ceremony gain the ability to see auras for 1 hour. Such creatures only need 1 minute to read a creature’s aura (as the read aura occult skill unlock), instead of 10 minutes.
+**Ceremony:** All creatures that remained within the ritual area for the entirety of the ceremony gain the ability to see auras for 1 hour. Such creatures only need 1 minute to read a creature’s aura (as the read aura occult skill unlock), instead of 10 minutes.
 
-**Rite**: For 10 minutes, you can read a creature’s aura (as the read aura occult skill unlock) as a full-round action. You can read a creature’s aura as part of the action spent to perform this rite.
-**Associated Feats**: Empath and Third Eye (*Occult Adventures*).
+**Rite:** For 10 minutes, you can read a creature’s aura (as the read aura occult skill unlock) as a full-round action. You can read a creature’s aura as part of the action spent to perform this rite.
+**Associated Feats:** Empath and Third Eye (*Occult Adventures*).
 
 #### Bind (ritual)
 
 This is a curse effect.
 
-**Ceremony**: If a creature remains within the ritual area for at least 1 minute, they must succeed at a Will saving throw or become bound to the ritual area for 24 hours (this persists after the ceremony’s duration would have elapsed), receiving a new saving throw every hour to break the effect.
+**Ceremony:** If a creature remains within the ritual area for at least 1 minute, they must succeed at a Will saving throw or become bound to the ritual area for 24 hours (this persists after the ceremony’s duration would have elapsed), receiving a new saving throw every hour to break the effect.
 
 While bound, a creature cannot leave the ritual area by any means, including forced movement. This also includes teleportation and planar travel unless the caster of such an effect succeeds at a magic skill check against 11 + your associated ranks—failing this check results in subsequent attempts made within the next hour to automatically fail.
 
@@ -217,58 +217,58 @@ You become immediately aware whenever a creature breaks free of this effect or a
 
 Additionally, the ritual area is magically impeded, causing the area to be treated as difficult terrain (except for creatures designated as above).
 
-- **1-3 Ritual Power**: The ritual area becomes further impeded. Creatures that begin their turn within the area must succeed at a Will saving throw or be treated as though they were carrying a medium load for 1 round. If you spend 2 ritual power, this increases to a heavy load, whereas if you spend 3 ritual power, the creature becomes overloaded (their maximum Dexterity bonus is reduced to +0, and they can only move 5 feet per round as a full-round action, which provokes attacks of opportunity as normal).
-- **2 Ritual Power**: As long as a creature has been bound in the ritual area, the area has a scrying sensor bound to it (although it fails to function if there is lead in between you and the sensor). You can transfer your senses to the scrying sensor as a free action. The sensor cannot move, but you may rotate it as though you were standing where your sensor is located. The sensor can be detected (Perception DC 20 + your associated ranks) and dispelled as normal.
+- **1-3 Ritual Power:** The ritual area becomes further impeded. Creatures that begin their turn within the area must succeed at a Will saving throw or be treated as though they were carrying a medium load for 1 round. If you spend 2 ritual power, this increases to a heavy load, whereas if you spend 3 ritual power, the creature becomes overloaded (their maximum Dexterity bonus is reduced to +0, and they can only move 5 feet per round as a full-round action, which provokes attacks of opportunity as normal).
+- **2 Ritual Power:** As long as a creature has been bound in the ritual area, the area has a scrying sensor bound to it (although it fails to function if there is lead in between you and the sensor). You can transfer your senses to the scrying sensor as a free action. The sensor cannot move, but you may rotate it as though you were standing where your sensor is located. The sensor can be detected (Perception DC 20 + your associated ranks) and dispelled as normal.
 
-**Rite**: You choose 1 creature within close range, forcing them to attempt a Will saving throw. On a successful save, the creature is entangled for 1 round. On a failed save, the creature is dazed for 1 round, and entangled for 1 minute—they receive a new saving throw against this effect at the end of each round.
+**Rite:** You choose 1 creature within close range, forcing them to attempt a Will saving throw. On a successful save, the creature is entangled for 1 round. On a failed save, the creature is dazed for 1 round, and entangled for 1 minute—they receive a new saving throw against this effect at the end of each round.
 
-- **1+ Ritual Power**: The dazed (or paralyzed/stunned) condition lasts for 1 additional round for each ritual power spent on this option. The creature still receives a new saving throw against this effect at the end of each round.
-- **2 or 3 Ritual Power**: Instead of being dazed, the creature becomes stunned. If you spend 3 ritual power, the creature instead becomes paralyzed.
+- **1+ Ritual Power:** The dazed (or paralyzed/stunned) condition lasts for 1 additional round for each ritual power spent on this option. The creature still receives a new saving throw against this effect at the end of each round.
+- **2 or 3 Ritual Power:** Instead of being dazed, the creature becomes stunned. If you spend 3 ritual power, the creature instead becomes paralyzed.
 
 #### Coalesce (ritual)
 
-**Ceremony**: The ritual area causes incorporeal creatures to become partially corporeal for as long as they remain within the ritual area. This causes the creature to become corporeal for all purposes, except that they still retain their deflection bonus to AC and their ability to fly. They also resolve any touch attacks they possess as melee attacks (adding their Charisma modifier to such attacks), and use their Charisma score as their Strength score when picking up or manipulating physical objects.
+**Ceremony:** The ritual area causes incorporeal creatures to become partially corporeal for as long as they remain within the ritual area. This causes the creature to become corporeal for all purposes, except that they still retain their deflection bonus to AC and their ability to fly. They also resolve any touch attacks they possess as melee attacks (adding their Charisma modifier to such attacks), and use their Charisma score as their Strength score when picking up or manipulating physical objects.
 
-- **1 Ritual Power**: Incorporeal creatures cannot leave the ritual area, as though it were a force effect.
+- **1 Ritual Power:** Incorporeal creatures cannot leave the ritual area, as though it were a force effect.
 
-**Rite**: You choose 1 creature within rite range, granting them a +3 circumstance bonus against compulsion, curse, and possession effects for 1 hour, increasing by 1 per 4 associated ranks. If the creature is possessed when you use this rite, the possessing entity must succeed at a Will saving throw or be forcibly ejected from their host.
+**Rite:** You choose 1 creature within rite range, granting them a +3 circumstance bonus against compulsion, curse, and possession effects for 1 hour, increasing by 1 per 4 associated ranks. If the creature is possessed when you use this rite, the possessing entity must succeed at a Will saving throw or be forcibly ejected from their host.
 
 Even on a successful save, the possessing entity is still staggered for 1 round, and any creatures attacking the possessed creature can choose to divert half of the damage dealt to the possessing entity for the remainder of the rite's duration—if a creature could already do so (such as if the attacked creature was exorcised, as the skill use), they can divert the full amount of damage to the possessing entity.
 
-- **1 Ritual Power**: The possessing entity is staggered for 1 round on a failed save, or dazed for 1 round on a successful save.
-- **1 Ritual Power**: If a possession effect would be ended due to this rite, the possessing entity cannot attempt to possess the same creature for 1 day.
-- **2 Ritual Power**: Any possessing entity is subject to this rite’s effects every round for the next minute, instead of only once.
+- **1 Ritual Power:** The possessing entity is staggered for 1 round on a failed save, or dazed for 1 round on a successful save.
+- **1 Ritual Power:** If a possession effect would be ended due to this rite, the possessing entity cannot attempt to possess the same creature for 1 day.
+- **2 Ritual Power:** Any possessing entity is subject to this rite’s effects every round for the next minute, instead of only once.
 
 #### Desecrate (ritual)
 
-**Ceremony**: The ritual area becomes deeply suffused with negative energy. Any creatures normally healed by negative energy gain a +3 circumstance bonus to saving throws against positive energy effects, +1 per 5 associated ranks you possess.
+**Ceremony:** The ritual area becomes deeply suffused with negative energy. Any creatures normally healed by negative energy gain a +3 circumstance bonus to saving throws against positive energy effects, +1 per 5 associated ranks you possess.
 
 If a creature that is harmed by negative energy enters or begins their turn within the ritual area (and has not yet been subject to its effects this round), they suffer negative energy damage equal to your associated ranks + your operative modifier (minimum 1) and become staggered for 1 round. A successful Will save halves this damage and negates the staggered condition. This is a negative energy and channeled energy effect.
 
-- **1 Ritual Power**: You can choose any number of creatures as a free action to be immune to the negative effects of this ritual. You can change this designation as a free action.
-- **1 or 4 Ritual Power**: The ritual area’s light level is reduced by 2 steps (bright light > normal light > dim light > darkness), to a maximum of darkness. If you spend 4 ritual power, the area’s light level is reduced by 3 steps, to a maximum of magical darkness.
+- **1 Ritual Power:** You can choose any number of creatures as a free action to be immune to the negative effects of this ritual. You can change this designation as a free action.
+- **1 or 4 Ritual Power:** The ritual area’s light level is reduced by 2 steps (bright light > normal light > dim light > darkness), to a maximum of darkness. If you spend 4 ritual power, the area’s light level is reduced by 3 steps, to a maximum of magical darkness.
 
-**Rite**: You attempt a melee or ranged touch attack against a creature within rite range, dealing 1d6 negative energy damage per associated rank you possess to it (Will halves). This heals undead and similar creatures healed by negative energy as normal. This is a negative energy and channeled energy effect.
+**Rite:** You attempt a melee or ranged touch attack against a creature within rite range, dealing 1d6 negative energy damage per associated rank you possess to it (Will halves). This heals undead and similar creatures healed by negative energy as normal. This is a negative energy and channeled energy effect.
 
-- **1 Ritual Power**: Choose a damage type. The affected creature(s) gains weakness equal to 1/2 your associated ranks (minimum 1) against the chosen damage type for 1 round on a successful save, or 1d4+1 rounds on a failed save. This is a curse effect.
-- **2 Ritual Power**: The damage die increases to d8s.
-- **3 Ritual Power**: Instead of affecting 1 creature, this rite affects any number of creatures within a 10-ft radius centered on you, increasing by 5 feet per 4 associated ranks you possess.
+- **1 Ritual Power:** Choose a damage type. The affected creature(s) gains weakness equal to 1/2 your associated ranks (minimum 1) against the chosen damage type for 1 round on a successful save, or 1d4+1 rounds on a failed save. This is a curse effect.
+- **2 Ritual Power:** The damage die increases to d8s.
+- **3 Ritual Power:** Instead of affecting 1 creature, this rite affects any number of creatures within a 10-ft radius centered on you, increasing by 5 feet per 4 associated ranks you possess.
 
 *Variant Channeling*—If you wish, you can choose one variant channeling ability (*Ultimate Magic*) when you first gain this talent. Whenever you use this rite, you may apply the effects of variant channeling, including any modifications to the damage dealt. You use your associated ranks in place of your cleric level for determining your effective channel bonus, if relevant. The rite gains the following empowerment:
 
-- **1 Ritual Power**: The damage dealt is no longer reduced due to variant channeling.
+- **1 Ritual Power:** The damage dealt is no longer reduced due to variant channeling.
 
 #### Entrance (ritual) [utility]
 
 This functions as the hypnotism occult skill unlock (ignoring the daily limit), although when used to implant a suggestion, you can do so to a creature that is unfriendly (but not hostile), and the DC to do so is not increased if they are unwilling.
 
-- **2 Ritual Power**: When the suggestion ends, the hypnotized creature does not recall their actions and events surrounding the implanted suggestion. These memories can be restored through break enchantment or similar effects (such as the greater or powerful Inception Mind sphere charm).
+- **2 Ritual Power:** When the suggestion ends, the hypnotized creature does not recall their actions and events surrounding the implanted suggestion. These memories can be restored through break enchantment or similar effects (such as the greater or powerful Inception Mind sphere charm).
 
-**Ceremony**: When you first implant a suggestion, you can specify +1 additional activity (+1 per 4 associated ranks) that the creature must perform after they complete the previous activity. The suggestion still fades after the normal duration.
+**Ceremony:** When you first implant a suggestion, you can specify +1 additional activity (+1 per 4 associated ranks) that the creature must perform after they complete the previous activity. The suggestion still fades after the normal duration.
 
 When used to recall a memory, the hypnotism also restores any lost or altered memories that the subject may have (as though affected by break enchantment, using your associated ranks as your effective caster level).
 
-**Rite**: When you implant a suggestion, you can choose to either have its effects be immediate, or have the creature be fascinated for up to 1 minute (although you must spend a swift action every round to maintain the trance, otherwise they are no longer fascinated); the creature must be able to see or hear you during this time for them to be fascinated.
+**Rite:** When you implant a suggestion, you can choose to either have its effects be immediate, or have the creature be fascinated for up to 1 minute (although you must spend a swift action every round to maintain the trance, otherwise they are no longer fascinated); the creature must be able to see or hear you during this time for them to be fascinated.
 
 #### Envessel (ritual)
 
@@ -276,120 +276,120 @@ You invite a spirit to inhabit your body, soul, and mind. This spirit lasts for 
 
 While a spirit inhabits you this way, you suffer a -2 penalty to Will saving throws, and the spirit grants you ranks equal to your associated ranks to a single skill of your choice—you unlock skill leverage with the skill and consider it a class skill during this time. This cannot cause your ranks in the skill to exceed your Hit Dice. While inhabited this way, your personality may be influenced. This is a possession effect.
 
-- **1 Ritual Power**: You can choose a second skill that the inhabiting spirit benefits. You also gain 1 temporary use of skill leverage—this cannot be used to enact ritual.
-- **2 Ritual Power**: When you perform the ritual, choose a single ability score. You gain a +2 enhancement bonus to the chosen ability score, and a -2 penalty to the corresponding ability score (Strength > Intelligence, Dexterity > Wisdom, Constitution > Charisma). You can spend +3 ritual power to either increase this bonus to +4 or have the granted enhancement bonus become an insight bonus.
+- **1 Ritual Power:** You can choose a second skill that the inhabiting spirit benefits. You also gain 1 temporary use of skill leverage—this cannot be used to enact ritual.
+- **2 Ritual Power:** When you perform the ritual, choose a single ability score. You gain a +2 enhancement bonus to the chosen ability score, and a -2 penalty to the corresponding ability score (Strength > Intelligence, Dexterity > Wisdom, Constitution > Charisma). You can spend +3 ritual power to either increase this bonus to +4 or have the granted enhancement bonus become an insight bonus.
 
-**Utility Option**: This talent can be taken as a [utility] talent. If you do, you can only choose a background skill to gain ranks in, and you cannot use the ritual power option to gain an enhancement bonus to an ability score.
+**Utility Option:** This talent can be taken as a [utility] talent. If you do, you can only choose a background skill to gain ranks in, and you cannot use the ritual power option to gain an enhancement bonus to an ability score.
 
-**Associated Feats**: Channel Spirit and Spirit Ridden (*Haunted Heroes Handbook*).
+**Associated Feats:** Channel Spirit and Spirit Ridden (*Haunted Heroes Handbook*).
 
 #### Foretell (ritual)
 
-**Ceremony**: This functions as the automatic writing occult skill unlock (ignoring the normal weekly limit), except that the augury pertains to an event up to 1 hour per associated rank in the future.
+**Ceremony:** This functions as the automatic writing occult skill unlock (ignoring the normal weekly limit), except that the augury pertains to an event up to 1 hour per associated rank in the future.
 
-- **2 Ritual Power**: The augury instead pertains to an event up to 1 day per associated rank in the future.
-- **4 Ritual Power (10 associated ranks)**: If you successfully decipher the meaning of the automatic writing, you gain information as through a commune, using your associated ranks for determining your caster level for the effect.
+- **2 Ritual Power:** The augury instead pertains to an event up to 1 day per associated rank in the future.
+- **4 Ritual Power (10 associated ranks):** If you successfully decipher the meaning of the automatic writing, you gain information as through a commune, using your associated ranks for determining your caster level for the effect.
 
-**Rite**: You choose 1 creature within rite range, granting them selective, brief flickers into the future between themselves and another creature. For the next 10 minutes, the creature benefitting from this rite can designate a creature as a free action once per round to focus on their combined futures—they receive a +2 insight bonus to saving throws and skill checks made against the designated creature, as well as to their AC against their attacks. This bonus increases by 1 per 6 associated ranks you possess. The creature can only have one creature designated at a time.
+**Rite:** You choose 1 creature within rite range, granting them selective, brief flickers into the future between themselves and another creature. For the next 10 minutes, the creature benefitting from this rite can designate a creature as a free action once per round to focus on their combined futures—they receive a +2 insight bonus to saving throws and skill checks made against the designated creature, as well as to their AC against their attacks. This bonus increases by 1 per 6 associated ranks you possess. The creature can only have one creature designated at a time.
 
-- **1 Ritual Power**: The creature benefitting from this rite can have up to two creatures designated at one time, and can designate two creatures at once as a swift action.
-- **1 Ritual Power**: The insight bonus applies to attack rolls.
+- **1 Ritual Power:** The creature benefitting from this rite can have up to two creatures designated at one time, and can designate two creatures at once as a swift action.
+- **1 Ritual Power:** The insight bonus applies to attack rolls.
 
-**Utility Option**: This talent can be chosen as a utility talent. If you do, the rite can only benefit skill checks.
+**Utility Option:** This talent can be chosen as a utility talent. If you do, the rite can only benefit skill checks.
 
 #### Jinx (ritual)
 
 This ritual can cause creatures to become jinxed. While jinxed, affected creature suffers a -1 penalty to their AC and saving throws, as well as suppressing any luck bonuses (or similar effects, such as access to a kismet pool) they are benefitting from for the duration. This is a curse effect
 
-- **1 Ritual Power**: A jinxed creature also suffers a -2 penalty to Dexterity, plus +2 per 4 associated ranks. Additionally, whenever the jinxed creature attempts to move more than 5 feet on their turn, they must succeed at an Acrobatics check or fall prone, with a DC equal to 10 + your associated skill modifier.
+- **1 Ritual Power:** A jinxed creature also suffers a -2 penalty to Dexterity, plus +2 per 4 associated ranks. Additionally, whenever the jinxed creature attempts to move more than 5 feet on their turn, they must succeed at an Acrobatics check or fall prone, with a DC equal to 10 + your associated skill modifier.
 
 **Ceremony:** Whenever an enemy starts their turn within the ritual area, they must succeed at a Will saving throw or be jinxed for 1 round.
 
 **Rite:** You choose 1 creature within close range, forcing them to attempt a Will saving throw. On a failed save, the creature becomes jinxed for 1 minute, whereas on a successful save, they are jinxed for 1 round.
 
-- **1 Ritual Power**: Whenever the jinxed creature would roll to deal damage with an attack or spell, or use or benefit from a beneficial variable effect (such as a Life sphere cure), they must succeed at a Will saving throw or have the attack or effect result in the minimum possible amount.
+- **1 Ritual Power:** Whenever the jinxed creature would roll to deal damage with an attack or spell, or use or benefit from a beneficial variable effect (such as a Life sphere cure), they must succeed at a Will saving throw or have the attack or effect result in the minimum possible amount.
 
 #### Reveal (ritual) [utility]
 
-**Ceremony**: This functions as the prognostication occult skill unlock (ignoring the normal daily limit), and you reduce the DC to do so by 5.
+**Ceremony:** This functions as the prognostication occult skill unlock (ignoring the normal daily limit), and you reduce the DC to do so by 5.
 
 You also increase the chance to successfully interpret a meaningful reading this way by 20%, and if the attempt is successful, you also learn a major motivation, a minor motivation, and a goal about the creature.
 
-- **1 Ritual Power**: You gain a +2 insight bonus to Diplomacy and Sense Motive checks, Bluff checks made to lie, and Intimidate checks made to coerce the creature for the next hour. This increases by +1 per 3 associated ranks you possess.
-- **1 Ritual Power**: You can target +1 creature with your prognostication, +1 per 3 associated ranks you possess.
+- **1 Ritual Power:** You gain a +2 insight bonus to Diplomacy and Sense Motive checks, Bluff checks made to lie, and Intimidate checks made to coerce the creature for the next hour. This increases by +1 per 3 associated ranks you possess.
+- **1 Ritual Power:** You can target +1 creature with your prognostication, +1 per 3 associated ranks you possess.
 
-**Rite**: You choose 1 creature within rite range, forcing them to attempt a Will saving throw. You learn a major motivation and a minor motivation from the creature, although on a successful save, one of them is wildly inaccurate (up to the GMs discretion).
+**Rite:** You choose 1 creature within rite range, forcing them to attempt a Will saving throw. You learn a major motivation and a minor motivation from the creature, although on a successful save, one of them is wildly inaccurate (up to the GMs discretion).
 
-- **1+ Ritual Power**: The affected creature cannot willingly tell a lie to the next question they are asked within the next minute, regardless of their saving throw result. The creature is not compelled to answer and can remain quiet for the minute if they wish, but doing so allows you to ask another question and extends this effect by 1 minute. You can apply this multiple times–each time you do, it applies to +1 question and this effect lasts for +1 minute. This is a curse effect.
-- **1 Ritual Power**: Any illusions (and similar magical cosmetic changes) on the creature become disrupted for 1 hour—or for 1 minute on a successful save against the rite. While disrupted, the effect is not suppressed, but the creature’s original form becomes apparent in some form—this could be their unaltered form bleeding through the disguise, parts of their disguise disappearing and reappearing intermittently, etc.
+- **1+ Ritual Power:** The affected creature cannot willingly tell a lie to the next question they are asked within the next minute, regardless of their saving throw result. The creature is not compelled to answer and can remain quiet for the minute if they wish, but doing so allows you to ask another question and extends this effect by 1 minute. You can apply this multiple times–each time you do, it applies to +1 question and this effect lasts for +1 minute. This is a curse effect.
+- **1 Ritual Power:** Any illusions (and similar magical cosmetic changes) on the creature become disrupted for 1 hour—or for 1 minute on a successful save against the rite. While disrupted, the effect is not suppressed, but the creature’s original form becomes apparent in some form—this could be their unaltered form bleeding through the disguise, parts of their disguise disappearing and reappearing intermittently, etc.
 
 #### Seance (ritual) [utility]
 
-**Ceremony**: You invite a spirit that has ties to the ritual area to inhabit your body. If you do not specify a specific creature (or a creature with a specific characteristic, such as creature type, faction, etc.) or such a creature is unwilling, this ritual calls forth a spirit with the most intense connection to the area (such as being their place of death).
+**Ceremony:** You invite a spirit that has ties to the ritual area to inhabit your body. If you do not specify a specific creature (or a creature with a specific characteristic, such as creature type, faction, etc.) or such a creature is unwilling, this ritual calls forth a spirit with the most intense connection to the area (such as being their place of death).
 
 The spirit inhabits your body for up to 1 minute, where other creatures can ask up to 1 question + 1 question per 4 associated ranks you possess. The spirit can only speak about what it knew in life, but uses your languages to speak. Depending on the nature or alignment of the spirit, its answers may be cryptic or deceptive.
 
-**Rite**: You can touch a haunt or an incorporeal creature in the process of rejuvenation to ask 1 question + 1 question per 4 associated ranks you possess.
+**Rite:** You can touch a haunt or an incorporeal creature in the process of rejuvenation to ask 1 question + 1 question per 4 associated ranks you possess.
 
 The haunt can only speak about what it knew in life (and does so using languages it can speak) and the circumstances by which it became a haunt, and cannot answer questions pertaining to events that occurred after its creation. A haunt will often understand what triggers it and how it can be laid to rest, but depending on the nature or alignment of the haunt, its answers may be cryptic, emotional, or even deceptive (using a Bluff modifier equal to its CR unless the GM determines otherwise).
 
-- **1 Ritual Power**: You can use this rite on a corpse.
+- **1 Ritual Power:** You can use this rite on a corpse.
 
 #### Search (ritual) [utility]
 
 **Ceremony:** This functions as the dowsing occult skill unlock (ignoring the normal daily limit), except that it can be used without a dowsing rod (in which case, the direction is understood mentally), and lasts for 1 hour. Additionally, whenever you dowse this way, you can choose to target any object that you can clearly visualize or are well-aware of—attempting to search for general items locates the nearest of its kind if multiple are within range. If the object is moving, you know which direction it is moving (if any). This is a divination effect.
 
-- **1 Ritual Power**: You can dowse for creatures when choosing a target. Similar to objects, you must be able to clearly visualize (or be aware of) such a creature. You also know which direction the creature is moving (if any).
-- **1–2 Ritual Power**: The range of your dowsing is doubled. If you spend 2 ritual power, it instead increases to 1 mile.
+- **1 Ritual Power:** You can dowse for creatures when choosing a target. Similar to objects, you must be able to clearly visualize (or be aware of) such a creature. You also know which direction the creature is moving (if any).
+- **1–2 Ritual Power:** The range of your dowsing is doubled. If you spend 2 ritual power, it instead increases to 1 mile.
 
-**Rite**: You choose 1 creature within rite range, blessing their vision for 1 minute. During this time, the creature gains a +2 insight bonus to Perception and Survival checks (+1 per 5 associated ranks), as well as suffering no penalties or DC increases to such checks due to weather, poor conditions or visibility, or distance. This bonus is doubled if the check is made to reconstruct an event, intentionally search for stimulus, or follow tracks.
+**Rite:** You choose 1 creature within rite range, blessing their vision for 1 minute. During this time, the creature gains a +2 insight bonus to Perception and Survival checks (+1 per 5 associated ranks), as well as suffering no penalties or DC increases to such checks due to weather, poor conditions or visibility, or distance. This bonus is doubled if the check is made to reconstruct an event, intentionally search for stimulus, or follow tracks.
 
 Also, the creature can substitute their ranks in Perception or Survival with your ranks in this sphere’s associated skills if they choose.
 
 These benefits only apply to visual-based checks attempted within close range.
 
-- **1 Ritual Power**: If the creature is (or becomes) blinded, the condition is suppressed for the rite’s duration. This does not function on creatures that do not possess the ability to normally see.
-- **1 Ritual Power**: The rite’s duration increases to 10 minutes.
-- **2–3 Ritual Power**: You double the range that this rite is effective for. If you spend 3 ritual power, you instead increase the range that this rite is effective for to medium range.
+- **1 Ritual Power:** If the creature is (or becomes) blinded, the condition is suppressed for the rite’s duration. This does not function on creatures that do not possess the ability to normally see.
+- **1 Ritual Power:** The rite’s duration increases to 10 minutes.
+- **2–3 Ritual Power:** You double the range that this rite is effective for. If you spend 3 ritual power, you instead increase the range that this rite is effective for to medium range.
 
 #### Sympathy (ritual)
 
-**Ceremony**: You create an effigy bound to a creature of your choice. The effigy is often a Diminutive object, and lasts for 8 hours—after this time, the effigy loses its power.
+**Ceremony:** You create an effigy bound to a creature of your choice. The effigy is often a Diminutive object, and lasts for 8 hours—after this time, the effigy loses its power.
 
 A creature holding the effigy can use an effigy action as a standard action as long as the bound creature is within close range of the effigy (which does not require line of sight or line of effect). Once an effigy action is used, the duration of the effigy is reduced to 1 minute. The following effigy actions can be used:
 
-- **Contort**: You attempt a bull rush, disarm, or trip combat maneuver against the bound creature, using your associated ranks + your operative modifier as your effective combat maneuver bonus. If the target has a bonus to saving throws against curse effects, it is added to their CMD against this effect.
-- **Twist**: You deal 2d6 nonlethal damage to the creature (Fortitude halves), +1d6 per 2 associated ranks you possess.
-- **Wring**: You cause the creature to become battered, entangled, fatigued, or sickened, for 1d4+1 rounds. A successful Fortitude save reduces this to 1 round.
+- **Contort:** You attempt a bull rush, disarm, or trip combat maneuver against the bound creature, using your associated ranks + your operative modifier as your effective combat maneuver bonus. If the target has a bonus to saving throws against curse effects, it is added to their CMD against this effect.
+- **Twist:** You deal 2d6 nonlethal damage to the creature (Fortitude halves), +1d6 per 2 associated ranks you possess.
+- **Wring:** You cause the creature to become battered, entangled, fatigued, or sickened, for 1d4+1 rounds. A successful Fortitude save reduces this to 1 round.
 
 An effigy action is a curse effect. A creature can only be affected by an effigy action (including other effigies) once per round.
 
-- **1 Ritual Power**: If the user of an effigy is within line of sight to the bound creature, it suffers a -2 penalty to its saving throws against effigy actions.
-- **1 Ritual Power**: The first time each day that the effigy would lose its power, its duration resets to 1 hour. When this occurs, you can change the creature that the effigy is bound to.
+- **1 Ritual Power:** If the user of an effigy is within line of sight to the bound creature, it suffers a -2 penalty to its saving throws against effigy actions.
+- **1 Ritual Power:** The first time each day that the effigy would lose its power, its duration resets to 1 hour. When this occurs, you can change the creature that the effigy is bound to.
 
-**Rite**: You choose 1 creature within close range and designate a single square you can see as the creature’s ‘bound square’ for 1 minute—if the creature is unwilling, this is a curse effect, and they gain a Will saving throw to reduce its duration to 1 round.
+**Rite:** You choose 1 creature within close range and designate a single square you can see as the creature’s ‘bound square’ for 1 minute—if the creature is unwilling, this is a curse effect, and they gain a Will saving throw to reduce its duration to 1 round.
 
 The creature is treated as though they were within the bound square as well as their own occupied square(s) for the purposes of area-based effects and attacks. If such an effect would normally grant a saving throw (and they are not within the original area), they instead get a Will saving throw against the original DC.
 
 Whenever such a creature suffers damage due to this effect, they receive a new saving throw against it, ending this rite’s effects on a successful save.
 
-- **1 Ritual Power**: The creature is also treated as though they were within the bound square for the purposes of attacks and other effects that target a creature.
+- **1 Ritual Power:** The creature is also treated as though they were within the bound square for the purposes of attacks and other effects that target a creature.
 
 #### Vitalize (ritual)
 
-**Ceremony**: The ritual area becomes deeply suffused with positive energy. While this does not heal living creatures, any creatures normally healed by positive energy gain a +3 circumstance bonus to saving throws against death and negative energy effects, as well as effects generated by haunts and undead creatures, increasing by 1 per 5 associated ranks you possess.
+**Ceremony:** The ritual area becomes deeply suffused with positive energy. While this does not heal living creatures, any creatures normally healed by positive energy gain a +3 circumstance bonus to saving throws against death and negative energy effects, as well as effects generated by haunts and undead creatures, increasing by 1 per 5 associated ranks you possess.
 
 If a creature that is harmed by positive energy enters or begins their turn within the ritual area (and has not yet been subject to its effects this round), they suffer an amount of positive energy damage equal to your associated ranks + your operative modifier (minimum 1) and become staggered for 1 round (ignoring any immunities due to their creature type they may possess). A successful Will save halves this damage and negates the staggered condition. This is a positive energy and channeled energy effect.
 
-- **1 Ritual Power**: Any undead within the area that would become staggered by the ceremony also become shaken for as long as they remain within the area—if its Hit Dice is below your associated ranks, they instead begin to flee (as if panicked) for 1 minute; intelligent undead receive a new saving throw each round to end this effect.
-- **1 or 3 Ritual Power**: The area sheds bright light within the ceremony area, and increases the light level by one step (darkness > dim light > normal > bright light) for an additional amount equal to the radius of the ceremony area. If you spend 3 ritual power, the bright light is considered to be daylight for the purposes of creatures that are damaged or destroyed by such light.
+- **1 Ritual Power:** Any undead within the area that would become staggered by the ceremony also become shaken for as long as they remain within the area—if its Hit Dice is below your associated ranks, they instead begin to flee (as if panicked) for 1 minute; intelligent undead receive a new saving throw each round to end this effect.
+- **1 or 3 Ritual Power:** The area sheds bright light within the ceremony area, and increases the light level by one step (darkness > dim light > normal > bright light) for an additional amount equal to the radius of the ceremony area. If you spend 3 ritual power, the bright light is considered to be daylight for the purposes of creatures that are damaged or destroyed by such light.
 
-**Rite**: You attempt a melee or ranged touch attack against an undead creature or haunt within rite range, dealing 1d6 positive energy damage per associated rank you possess to it. A successful Will save halves this damage, whereas a failed save causes it to be unable to be healed via negative energy for 1 minute. This is a positive energy and channeled energy effect.
+**Rite:** You attempt a melee or ranged touch attack against an undead creature or haunt within rite range, dealing 1d6 positive energy damage per associated rank you possess to it. A successful Will save halves this damage, whereas a failed save causes it to be unable to be healed via negative energy for 1 minute. This is a positive energy and channeled energy effect.
 
-- **2 Ritual Power**: The damage die increases to d8s.
-- **1-2 Ritual Power**: The target gains positive energy weakness equal to your operative modifier for 1d4+1 rounds on a failed save, or 1 round on a successful save. If you spend 2 ritual power, this instead causes vulnerability to positive energy damage for the same duration.
+- **2 Ritual Power:** The damage die increases to d8s.
+- **1-2 Ritual Power:** The target gains positive energy weakness equal to your operative modifier for 1d4+1 rounds on a failed save, or 1 round on a successful save. If you spend 2 ritual power, this instead causes vulnerability to positive energy damage for the same duration.
 
-**Associated Feats**: Spirit Rebuke (*Adventurer’s Guide*), Turn Undead.
+**Associated Feats:** Spirit Rebuke (*Adventurer’s Guide*), Turn Undead.
 
 ---
 
@@ -397,13 +397,13 @@ If a creature that is harmed by positive energy enters or begins their turn with
 
 #### Greater Sympathy
 
-**Prerequisites**: Occultism sphere (Sympathy (ritual)), associated ranks 5.
+**Prerequisites:** Occultism sphere (Sympathy (ritual)), associated ranks 5.
 
 When you use a Sympathy ceremony, you can perform effigy actions as a swift action. You also gain the following effigy actions that require a standard action to use (which have ritual power costs listed):
 
-- **Choke (2 Ritual Power)**: You cause the creature to be unable to breathe or speak. A creature holding the effigy can spend a free action to ‘maintain’ this action, reducing the number of rounds the creature can hold their breath for by your operative modifier.
-- **Deliver (2 Ritual Power)**: You can deliver a spell or magical effect with a range of touch through the effigy as part of the standard action spend to use this effigy action. This spell or effect must have an action cost of a standard action or shorter. An unwilling creature attempts a Will save (instead of Fortitude) to negate its effects.
-- **Snap (2 or 4 Ritual Power)**: You damage a creature’s limb or organ, as per a called shot (*Ultimate Combat*). Any saving throws made against a called shot made this way become Fortitude saves against your Occultism sphere DC. If you spend 4 ritual power, the creature suffers the effects of a critical called shot.
+- **Choke (2 Ritual Power):** You cause the creature to be unable to breathe or speak. A creature holding the effigy can spend a free action to ‘maintain’ this action, reducing the number of rounds the creature can hold their breath for by your operative modifier.
+- **Deliver (2 Ritual Power):** You can deliver a spell or magical effect with a range of touch through the effigy as part of the standard action spend to use this effigy action. This spell or effect must have an action cost of a standard action or shorter. An unwilling creature attempts a Will save (instead of Fortitude) to negate its effects.
+- **Snap (2 or 4 Ritual Power):** You damage a creature’s limb or organ, as per a called shot (*Ultimate Combat*). Any saving throws made against a called shot made this way become Fortitude saves against your Occultism sphere DC. If you spend 4 ritual power, the creature suffers the effects of a critical called shot.
 
 Also, the ritual power use that allows you to reset its duration the first time each day can be applied multiple times, with each additional ritual power spent granting an additional time per day that the duration resets.
 

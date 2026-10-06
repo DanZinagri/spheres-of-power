@@ -13,13 +13,13 @@ Although shaped like a dog, this muscular creature has a coat that drinks up the
 XP 2,400
 Pathfinder Roleplaying Game Bestiary 3
 NE Medium outsider (evil, extraplanar, mythic)
-**Init**+8MF;**Senses** darkvision 60 ft.; Perception +10
+**Init** +8MF; **Senses** darkvision 60 ft.; Perception +10
 
 #### Defense
 
-**AC**20,**touch**12,**flat-footed** 18 (+2 Dex, +8 natural)
+**AC** 20, **touch** 12, **flat-footed** 18 (+2 Dex, +8 natural)
 **hp** 71 (6d10+38)
-**Fort**+8,**Ref**+7,**Will** +5
+**Fort** +8, **Ref** +7, **Will** +5
 **Defensive Abilities** DR 5/epic; shadow blend, shadowstuffMA
 
 #### Offense
@@ -30,8 +30,8 @@ NE Medium outsider (evil, extraplanar, mythic)
 
 #### Statistics
 
-**Str**21,**Dex**15,**Con**17,**Int**4,**Wis**12,**Cha** 13
-**Base Atk**+6;**CMB**+11;**CMD** 23 (27 vs. trip)
+**Str** 21, **Dex** 15, **Con** 17, **Int** 4, **Wis** 12, **Cha** 13
+**Base Atk** +6; **CMB** +11; **CMD** 23 (27 vs. trip)
 **Feats** Improved InitiativeMF, Iron Will, Power Attack
 **Skills** Perception +10, Stealth +11, Survival +10
 **Languages** Common (can’t speak)

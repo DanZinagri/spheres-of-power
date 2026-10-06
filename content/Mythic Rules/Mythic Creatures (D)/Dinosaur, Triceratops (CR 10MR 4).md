@@ -13,26 +13,26 @@ This beast’s armored head has three sharp horns decorating its face and a larg
 XP 9,600
 Pathfinder Roleplaying Game Bestiary (dinosaur, triceratops)
 N Huge animal (mythic)
-**Init**–1;**Senses** low-light vision, scent; Perception +24
+**Init** –1; **Senses** low-light vision, scent; Perception +24
 
 #### Defense
 
-**AC**25,**touch**7,**flat-footed** 25 (–1 Dex, +18 natural, –2 size)
+**AC** 25, **touch** 7, **flat-footed** 25 (–1 Dex, +18 natural, –2 size)
 **hp** 151 (14d8+88)
-**Fort**+15,**Ref**+8,**Will** +5
+**Fort** +15, **Ref** +8, **Will** +5
 **Defensive Abilities** protective crestMA; DR 10/epic
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** gore +19 (2d10+15/19–20/x3)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** battering smashMA, impalerMA, mythic power (4/day, surge 1d8), powerful charge (gore, 4d10+22), ramming chargeMA, tramp of doomMA, trample (1d8+15, DC 27)
 
 #### Statistics
 
-**Str**30,**Dex**9,**Con**19,**Int**2,**Wis**12,**Cha** 7
-**Base Atk**+10;**CMB**+22 (+26 bull rush);**CMD** 31 (33 vs. bull rush, 35 vs. trip)
+**Str** 30, **Dex** 9, **Con** 19, **Int** 2, **Wis** 12, **Cha** 7
+**Base Atk** +10; **CMB** +22 (+26 bull rush); **CMD** 31 (33 vs. bull rush, 35 vs. trip)
 **Feats** Deflect ArrowsB, Great Fortitude, Greater Bull Rush, Improved Bull Rush, Improved Critical (gore)MF, Power AttackMF, Skill Focus (Perception), Weapon Focus (gore)
 **Skills** Perception +24
 

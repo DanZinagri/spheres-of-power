@@ -19,8 +19,8 @@ Spell engines are normally made with the Craft Spell Engine feat, but can also b
 
 ### Apprentice’s First Wand [TS]
 
-**Aura**faint Destruction;**CL**2nd;**SP** 1
-**Slot**none;**Price**1,000 gp;**Weight** 2 lbs.
+**Aura** faint Destruction; **CL** 2nd; **SP** 1
+**Slot** none; **Price** 1,000 gp; **Weight** 2 lbs.
 **Damage** 1d6 (2d6) nonlethal
 
 This slender wooden spell engine contains the Destruction sphere and the Gale Blast talent, as well as the Energy Focus (air) drawback. This spell engine is often given to apprentices to help them practice their magic and control; since it only deals nonlethal damage and can trip targets, it is frequently the weapon of choice in amateur spell duels. While it normally deals 1d6 nonlethal damage, the user can spend the single spell point it can hold to increase this damage to 2d6 nonlethal.
@@ -30,8 +30,8 @@ Craft Spell Engine, Destruction sphere (Gale Blast (blast type)); **Cost** 500 g
 
 ### Basic Wand [TS]
 
-**Aura**faint any;**CL**2nd;**SP** 1
-**Slot**none;**Price**1,000 gp;**Weight** 2 lbs.
+**Aura** faint any; **CL** 2nd; **SP** 1
+**Slot** none; **Price** 1,000 gp; **Weight** 2 lbs.
 
 Basic wands are among the simplest forms of spell engine available and grant access to any one sphere at CL 2nd; spheres with package choices only have one of these packages. Most of these spell engines are referred to by the sphere they contain, such as basic destruction wand, but shopkeepers have been known to give them fancier names (like “Boomstick” or “Wallhopper”) in an effort to help them sell better. While still a little too expensive for most first-time adventurers, these are often put up on display for people who come in with pockets flush from their first big haul of treasure. Basic Destruction, Protection, Telekinesis, and Warp spell engines are particularly popular. Spell engines normally require knowledge of the base sphere to use, and anyone who knows a basic sphere probably does not need this item, so activating a basic wand typically requires a DC 20 Use Magic Device check.
 
@@ -40,9 +40,9 @@ Craft Spell Engine, any one sphere; **Cost** 500 gp
 
 ### Cadaver Converter [TS]
 
-**Aura**moderate Death;**CL**10th;**SP** 1
-**Slot**none;**Price**25,000 gp;**Weight** 2 lbs.
-**Damage**5d6 (SP: 10d6) + other effects;**Range** close (50 ft.), then 20-ft. burst
+**Aura** moderate Death; **CL** 10th; **SP** 1
+**Slot** none; **Price** 25,000 gp; **Weight** 2 lbs.
+**Damage** 5d6 (SP: 10d6) + other effects; **Range** close (50 ft.), then 20-ft. burst
 
 Cadaver converters are limited spell engines that cannot use the basic effects of either the Death or Destruction spheres, despite their contributions to the creation of this item. Instead, when used, the cadaver converter can target one corpse in range that is capable of being made into a skeleton or a zombie (or is a corporeal mindless undead under your control) and make it explode, dealing the effect of the (blast type) talent contained within this spell engine to all creatures within 20 feet of the targeted corpse. If the talent does not allow for another saving throw, creatures may attempt a DC 15 Reflex save to avoid this explosion. Cadaver converters can be made with any (blast type) talent that does not cost a spell point, and any corpse destroyed in this manner cannot be reanimated again or targeted by another corpse-exploding effect.
 
@@ -51,8 +51,8 @@ Craft Spell Engine, Corpse Explosion (dual sphere), Death sphere (Corpse Bomb), 
 
 ### Chattergem [TS]
 
-**Aura**faint Mind;**CL** 2nd
-**Slot**head;**Price**1,000 gp (normal), 4,000 gp (greater);**Weight** 1/10 lb.
+**Aura** faint Mind; **CL** 2nd
+**Slot** head; **Price** 1,000 gp (normal), 4,000 gp (greater); **Weight** 1/10 lb.
 
 Chattergems are Mind spell engines with the Project Thoughts charm and the Empath drawback, and they often take the form of simple half-circles with a gem in the center designed to be worn on one ear. These tools are especially popular among thieves who, while not magically- inclined, often know enough about using magic items to activate them consistently. Regular chattergems have a range of 30 feet, but greater chattergems exist (at a price of 4,000 gp) and can reach 140 feet instead, making them more popular for groups who need to coordinate over longer distances.
 
@@ -61,9 +61,9 @@ Craft Spell Engine, Mind sphere (Project Thoughts (charm)); **Cost** 500 gp (nor
 
 ### Corpse Party [TS]
 
-**Aura**moderate Death;**CL**6th;**SP** 2
-**Slot**none;**Price**9,000 gp;**Weight** 2 lbs.
-**Range**close (40 ft.),**Duration** 6 minutes
+**Aura** moderate Death; **CL** 6th; **SP** 2
+**Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
+**Range** close (40 ft.), **Duration** 6 minutes
 
 The corpse party is a popular tool among new necromancers, giving them the ability to instantly reanimate up to 12 Hit Dice worth of creatures in close range. Though only usable once before it needs to be recharged, it offers emergency help in a pinch for a necromancer who is otherwise low on minions. This wand does not provide any ghost strikes.
 
@@ -72,9 +72,9 @@ Craft Spell Engine, Death sphere (Greater Reanimate, Mass Reanimate [mass]), Nec
 
 ### Corpse Party, Greater [TS]
 
-**Aura**moderate Death;**CL**8th;**SP** 2
-**Slot**none;**Price**16,000 gp;**Weight** 2 lbs.
-**Range**close (45 ft.),**Duration** 8 hours
+**Aura** moderate Death; **CL** 8th; **SP** 2
+**Slot** none; **Price** 16,000 gp; **Weight** 2 lbs.
+**Range** close (45 ft.), **Duration** 8 hours
 
 The greater corpse party is a more powerful version of the lesser version often used by apprentices. In addition to being able to raise up to 16 Hit Dice of undead in one sweeping motion, this wand also allows the undead to linger for up to 8 hours, making for a far more useful set of minions. This wand does not provide any ghost strikes.
 
@@ -83,8 +83,8 @@ Craft Spell Engine, Death sphere (Greater Reanimate, Lingering Necromancy, Mass 
 
 ### Dungeoneer’s Box
 
-**Aura**faint Divination;**CL**8th;**SP** 2
-**Slot**none;**Price**16,000 gp;**Weight** 0.5 lbs.
+**Aura** faint Divination; **CL** 8th; **SP** 2
+**Slot** none; **Price** 16,000 gp; **Weight** 0.5 lbs.
 
 **Description**
 This peculiar box has a small screen with a mechanical dial, which is powered by magic. This device may be activated by spending one of its two spell points, which will grant one of the following benefits, each of which have a duration of eight hours:
@@ -98,8 +98,8 @@ Craft Spell Engine, Divination sphere (See Hazard (sense), Trapfinding (sense));
 
 ### Firefighter’s Wand [TS]
 
-**Aura**faint Dark;**CL**4th;**SP** 1
-**Slot**none;**Price**4,000 gp;**Weight** 2 lbs.
+**Aura** faint Dark; **CL** 4th; **SP** 1
+**Slot** none; **Price** 4,000 gp; **Weight** 2 lbs.
 **Range** up to a 20-ft. sphere centered within 140 ft.
 
 Firefighter’s wands are usually made of a fire-resistant metal and have instructions carefully carved into the side. These spell engines possess the Dark sphere and the Extinguish talent. When used, a firefighter’s wand can put out any nonmagical light sources within its area of effect, including fires and many chemical reactions. While too expensive for most small settlements, larger cities often stock several of these spell engines and have firefighting crews use them to create rolling, overlapping areas of darkness and quickly extinguish even large fires.
@@ -111,8 +111,8 @@ Craft Spell Engine, Dark sphere (Extinguish); **Cost** 2,000 gp
 
 ### Horn of the Fallen Bastion
 
-**Aura**moderate Destruction;**CL** 8th
-**Slot**none;**Price**16,000 gp;**Weight** 5 lb.
+**Aura** moderate Destruction; **CL** 8th
+**Slot** none; **Price** 16,000 gp; **Weight** 5 lb.
 
 **Description**
 A curled ram’s horn fitted with a mouthpiece, inlaid in silver with a scene of a crumbling castle as it is overrun. Sounding the horn creates a wave of destruction, pulverizing anything in its way. The horn functions as a caster level 6th spell engine of Destruction with the Shattering Blast and Sculpt Blast talents as well as the Energy Focus (sonic) drawback and a spell point capacity of 2.
@@ -122,8 +122,8 @@ Craft Spell Engine, Destruction sphere (Sculpt Blast (blast shape), Shattering B
 
 ### Lightening Wand [TS]
 
-**Aura**moderate Enhancement;**CL**6th;**SP** 2
-**Slot**none;**Price**9,000 gp;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 6th; **SP** 2
+**Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
 **Range** 40 ft.
 
 Lightening wands are popular with construction crews and wealthy individuals who like how easy they make redecorating. These spell engines contain the Enhancement sphere and the Lighten (enhance) talent, and allow users to float objects up to Small size, make Medium items weightless, and halve the weight of Large items as long as the user concentrates. Lightening wands have two charges that can be expended to let an object remain lightened for up to six minutes without concentration. Lightening wands can also be used to provide a +2 enhancement to weapons; while most owners have no need of this effect, construction crews occasionally enhance tools like pickaxes to make them harder and less likely to blunt during use.
@@ -133,8 +133,8 @@ Craft Spell Engine, Enhancement sphere (Lighten (enhance)); **Cost** 4,500 gp
 
 ### Pocket Dimension [TS]
 
-**Aura**moderate Warp;**CL**6th;**SP** 1
-**Slot**none;**Price**9,000 gp;**Weight** 2 lbs.
+**Aura** moderate Warp; **CL** 6th; **SP** 1
+**Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
 **Capacity** 150 lbs.
 
 Pocket dimensions are small spell engines that come in various shapes, which are often paired together with portable rooms. Each of these items provides access to a small extradimensional space capable of holding up to 150 pounds of non-living material from which the user can place or withdraw objects as a move action, or as a swift action by expending the single spell point these wands normally have.
@@ -144,8 +144,8 @@ Craft Spell Engine, Warp sphere (Extradimensional Storage (space) x2); **Cost** 
 
 ### Pocket Dimension, Greater [TS]
 
-**Aura**strong Warp;**CL**12th;**SP** 4
-**Slot**none;**Price**36,000 gp;**Weight** 2 lbs.
+**Aura** strong Warp; **CL** 12th; **SP** 4
+**Slot** none; **Price** 36,000 gp; **Weight** 2 lbs.
 **Capacity** 300 lbs.
 
 Greater pocket dimensions are like regular pocket dimensions, but can hold up to 300 pounds of non-living material. These items are relatively rare because most people find it more cost-effective to just buy two of the regular versions instead, so owners of these greater versions either do not care about the cost or need to store something that weighs more than 150 pounds. More than one adventurer has accidentally crushed something they care about by blindly emptying a greater pocket dimension.
@@ -155,9 +155,9 @@ Craft Spell Engine, Warp sphere (Extradimensional Storage (space) x2); **Cost** 
 
 ### Portable Room [TS]
 
-**Aura**moderate Warp;**CL**6th;**SP** 1
-**Slot**none;**Price**9,000 gp;**Weight** 2 lbs.
-**Size**six 10-ft. cubes,**DC** 13
+**Aura** moderate Warp; **CL** 6th; **SP** 1
+**Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
+**Size** six 10-ft. cubes, **DC** 13
 
 Portable rooms are attuned to objects known as keys, though these keys can take any form and paranoid crafters often make them from items nobody else would think of checking. When these keys are activated, they create a door beyond which is an interior made of six 10-foot cubes (usually in a 3x2 grid, although other formations exist, with the design chosen when the portable room is made), and the room remains without the need for concentration as long as the key bearer holds the key and remains inside the room. The key bearer may also spend a spell point to make it last for 6 rounds without concentration. Unlike their more-famous hole-shaped cousins, portable rooms do not continue holding items once finished, but enterprising owners often pair them with pocket dimensions that can hold bedrolls, food, and other supplies. Owners who have access to Extradimensional Storage (often through said pocket dimensions) may withdraw any number of items from that Extradimensional Storage and place them on any stable surface in the room when it is created, and may return those items to the Extradimensional Storage when the room expires or is dispelled. Finally, portable rooms produce enough air and water to support the creatures inside, and can maintain one tiny-sized fire without fuel. Waste material (such as wastewater from bathing or smoke from cooking) dissipates through the sides of the portable room to maintain a safe environment.
 
@@ -168,9 +168,9 @@ Craft Spell Engine, World In Miniature, Nature sphere (Limited Nature drawback),
 
 ### Railway Gun [TS]
 
-**Aura**strong Destruction;**CL**20th;**SP** 9
-**Slot**none;**Price**170,000 gp;**Weight** 1,350 tons
-**Damage**10d4 (SP: 20d4) sonic;**Range** special (25,000 ft.)
+**Aura** strong Destruction; **CL** 20th; **SP** 9
+**Slot** none; **Price** 170,000 gp; **Weight** 1,350 tons
+**Damage** 10d4 (SP: 20d4) sonic; **Range** special (25,000 ft.)
 
 The railway gun is an enormous metal structure, about 155 feet long, 23 feet wide, and 38 feet high, from which extends a long, movable metal barrel. The railway gun can travel along pre-laid tracks (such as those suitable for trains) at 120 feet per round, or overland at 24 miles per hour. Some are built to move off of tracks. This weapon requires the presence of magic to move, but does not otherwise require fuel. As a Destruction spell engine, the railway gun possesses the Calamity (blast shape), Explosive Orb (blast shape), Extended Range (2x), Extreme Range, Gather Energy, and Shattering Blast (blast type) talents, as well as the Extended Casting (2x), Energy Focus (sonic), and Shape Focus (Explosive Orb) drawbacks.
 
@@ -181,9 +181,9 @@ Craft Spell Engine, Destruction sphere (Calamity (advanced, blast shape), Explos
 
 ### Shattering Wand [TS]
 
-**Aura**faint Destruction;**CL**6th;**SP** 3
-**Slot**none;**Price**9,000 gp;**Weight** 2 lbs.
-**Damage**3d4 (SP: 6d4) sonic;**Range** close (40 ft.)
+**Aura** faint Destruction; **CL** 6th; **SP** 3
+**Slot** none; **Price** 9,000 gp; **Weight** 2 lbs.
+**Damage** 3d4 (SP: 6d4) sonic; **Range** close (40 ft.)
 
 This spell engine looks like a flute at first glance, but when wielded, it unleashes a dangerous blast of sonic energy. Shattering wands contain the Destruction sphere, the Shattering Blast talent, and the Energy Focus (Shattering Blast) drawback. Its blast does full damage to objects and ignores up to 3 hardness. Determined users often use Shattering wands to blow through thin walls and other barriers.
 
@@ -192,8 +192,8 @@ Craft Spell Engine, Destruction sphere (Shattering Blast (blast type)); **Cost**
 
 ### Talisman of the Ancestor’s Might [TS]
 
-**Aura**moderate Enhancement;**CL**8th;**SP** 3
-**Slot**none;**Price**16,000 gp;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th; **SP** 3
+**Slot** none; **Price** 16,000 gp; **Weight** 2 lbs.
 **Range** 45 ft.
 
 This bone talisman is usually carved from the skull of an ancestor and is worn around the neck, though it must be held when used. The talisman of the ancestor’s might acts as a spell engine of Enhancement with the Deep Enhancement, Mass Enhancement, and Physical Enhancement (enhance) talents, as well as the Bodily Enhancement drawback. Though capable of bestowing the blessing of the ancestors upon any target to improve some aspect of their physical abilities for as long as the user concentrates, the real power of this talisman comes in its ability to simultaneously bless up to 5 creatures for 80 minutes by expending all three of the spell points contained within. It must be recharged over three days after to regain its full potency, but that’s something most users are willing to accept. It can also be used for lesser effect by either targeting fewer creatures or targeting a large group while maintaining concentration. Any creature enhanced by the talisman of the ancestor’s might is surrounded by ghostly forms faintly recognizable as their ancestors (or, for creatures without ancestors, the ancestors of the caster).
@@ -205,8 +205,8 @@ Craft Spell Engine, Enhancement sphere (Deep Enhancement, Mass Enhancement [mass
 
 ### Talisman of the Ancestor’s Will [TS]
 
-**Aura**moderate Enhancement;**CL**8th;**SP** 3
-**Slot**none;**Price**16,000 gp;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th; **SP** 3
+**Slot** none; **Price** 16,000 gp; **Weight** 2 lbs.
 **Range** 45 ft.
 
 As the talisman of the ancestor’s might, but with Mental Enhancement (enhance) instead of Physical Enhancement (enhance). These talismans are usually created by more intellectual and magic-focused tribes.
@@ -216,8 +216,8 @@ Craft Spell Engine, Enhancement sphere (Deep Enhancement, Mass Enhancement [mass
 
 ### Totem Wand [TS]
 
-**Aura**faint War;**CL**4th;**SP** 1
-**Slot**none;**Price**4,000 gp;**Weight** 2 lbs.
+**Aura** faint War; **CL** 4th; **SP** 1
+**Slot** none; **Price** 4,000 gp; **Weight** 2 lbs.
 **Range** 60-ft. radius, centered on caster
 
 Totem wands contain the War sphere and one additional (totem) talent, chosen when the spell engine is made. While these spell engines are not especially powerful, relaxed casters occasionally use these in lieu of actually casting their spells as a way of supporting their allies.
@@ -228,8 +228,8 @@ Craft Spell Engine, War sphere (any (totem) talent); **Cost** 2,000 gp
 ### Wand of Cantrips
 
 The handle of this mahogany wand has the words “fortune favors the bold” engraved in sylvan.
-**Aura**faint Fallen Fey;**CL** 1st
-**Slot**none;**Price**500 gp;**Weight** 0.5 lbs.
+**Aura** faint Fallen Fey; **CL** 1st
+**Slot** none; **Price** 500 gp; **Weight** 0.5 lbs.
 
 **Description**
 This spell engine creates random minor magical effects each time it is used, utilizing the Cantrips Wild Magic table from *Wild Magic* (or casts a random level 0 spell of the GM’s choice). Alternatively, the wand’s wielder may choose to spend 1 spell point from the spell engine to cast any level 0 spell (from any spell list).
@@ -239,8 +239,8 @@ Craft Spell Engine, Cantrips; **Cost** 250 gp
 
 ### Wand of Capacity
 
-**Aura**faint Divination;**CL**1st;**Scaling** wonder
-**Slot**none;**Price**100 gp;**Weight** 0.5 lbs.
+**Aura** faint Divination; **CL** 1st; **Scaling** wonder
+**Slot** none; **Price** 100 gp; **Weight** 0.5 lbs.
 
 **Description**
 This peculiar wand has no base sphere, but may still store 1 spell point. Once the wand has become attuned to a character (which is performed by the user expending the spell engine's spell pool completely at the rate of 1 spell point per standard action spent) of sufficient level, new abilities may unlock. A single individual may only be attuned to a single wand of capacity per 24-hour period. Wands of capacity count as spell engines and may be refilled as other spell engines created using the Spheres of Power crafting system.
@@ -259,8 +259,8 @@ Craft Spell Engine, Divination sphere (Detect Spellcaster (divine)); **Cost** 10
 
 ### Wand of Counterspelling
 
-**Aura**faint universal;**CL**5th;**Scaling** wonder
-**Slot**none;**Price**3000 gp;**Weight** 0.5 lbs.
+**Aura** faint universal; **CL** 5th; **Scaling** wonder
+**Slot** none; **Price** 3000 gp; **Weight** 0.5 lbs.
 
 **Description**
 Instead of having a base sphere, this rowan wand grants its wielder the benefits of the Counterspell feat and has stored within it 2 spell points. Only spell points from the wand may be used to counter or dispel magical effects with the granted feats. In addition, when using the wand to counter or dispel magic, the wand attempts magic skill checks as if the wielder possesses a MSB of +5 (even if the wielder’s MSB would normally be higher or lower). Wands of counterspelling count as spell engines and may be refilled as other spell engines created using the Spheres of Power crafting system.
@@ -274,8 +274,8 @@ Craft Spell Engine, Counterspell, Counterspell Mastery, Greater Counterspell, Im
 
 ### Wand of Mana Siphoning
 
-**Aura**faint Destruction;**CL** 2nd
-**Slot**none;**Price**1,000 gp;**Weight** 0.5 lbs.
+**Aura** faint Destruction; **CL** 2nd
+**Slot** none; **Price** 1,000 gp; **Weight** 0.5 lbs.
 
 **Description**
 This elmwood wand has dwarven runes carved into the handle which translate to “mage anathema”. This wand of Destruction lacks the base destructive blast ability of the Destruction sphere, but is enchanted with the Mana Siphon (blast type) talent which allows wielders of the wand to make a ranged touch attack dealing 1d4 nonlethal damage. Those hit with the ray must succeed at a DC 11 Fortitude save or lose 1 spell point. Any spell points drained from a creature in this fashion are granted to the wand as temporary spell points which last for 2 rounds. Alternatively, the wand’s wielder may choose to spend 1 spell point (or a temporary spell point) from the wand to increase the nonlethal damage from 1d4 to 2d4 damage.
@@ -285,8 +285,8 @@ Craft Spell Engine, Destruction sphere (Mana Siphon (blast type, force)); **Cost
 
 ### Wand of Troll’s Vigor
 
-**Aura**moderate Life;**CL** 8th
-**Slot**none;**Price**16,000 gp;**Weight** 0.5 lbs.
+**Aura** moderate Life; **CL** 8th
+**Slot** none; **Price** 16,000 gp; **Weight** 0.5 lbs.
 
 **Description**
 This ash wand is stained in troll’s blood, which never seems to completely dry. This spell engine of Life lacks the restore ability of the Life sphere, but wielders of the wand may spend one of its four spell points to either instantaneously heal a touched target 1d8+8 hit points or grant a touched target fast healing 1 for eight minutes. Alternatively, the wand may grant a target 8 temporary hit points (which may not exceed their maximum) for 1 hour; using the wand this way does not expend a spell point.
@@ -296,8 +296,8 @@ Craft Spell Engine, Life sphere (Revitalize); **Cost** 8,000 gp
 
 ### Wand of Unerring Boulder
 
-**Aura**moderate Destruction;**CL** 6th
-**Slot**none;**Price**9,000 gp;**Weight** 0.5 lbs.
+**Aura** moderate Destruction; **CL** 6th
+**Slot** none; **Price** 9,000 gp; **Weight** 0.5 lbs.
 
 **Description**
 This oak wand lacquered in xorn fat is adorned with a quartz handle, which glows as a candle while possessing a charge. This spell engine of Destruction deals 3d6 bludgeoning damage as a melee or ranged touch attack. The wand is also enchanted with the Guided Strike (blast shape) and Stone Blast (blast type) talents, and holds a single spell point any of which may be used to augment the destructive blast.
@@ -307,9 +307,9 @@ Craft Spell Engine, Destruction sphere (Guided Strike (blast shape), Stone Blast
 
 ### Wand of Truthtelling [TS]
 
-**Aura**faint Fate;**CL**2nd;**SP** 1
-**Slot**none;**Price**1,000 gp;**Weight** 2 lbs.
-**Damage**1d4+1 nonlethal;**Range** 30 ft.
+**Aura** faint Fate; **CL** 2nd; **SP** 1
+**Slot** none; **Price** 1,000 gp; **Weight** 2 lbs.
+**Damage** 1d4+1 nonlethal; **Range** 30 ft.
 
 Wands of truthtelling are popular with interrogators, guards, and courts. These spell engines contain the Fate sphere and the Pain (word, curse) and Truth (word, curse) talents, as well as the Neutrality and Tongue Of Ages drawbacks. While mostly used to lay a magical curse on subjects to ensure they are telling the truth - and casters know if the spell does not take hold, though they can usually try again until it does - these spell engines are also capable of punishing those who try to lie by inflicting nonlethal damage.
 
@@ -318,8 +318,8 @@ Craft Spell Engine, Fate sphere (Pain (word, curse), Truth (word, curse)), Neutr
 
 ### Wands of Search and Rescue [TS]
 
-**Aura**faint Divination and moderate Warp;**CL**2nd (Divination) and 10th (Warp);**SP** 1 (Divination), 2 (Warp)
-**Slot**none;**Price**26,000 gp;**Weight** 2 lbs.
+**Aura** faint Divination and moderate Warp; **CL** 2nd (Divination) and 10th (Warp); **SP** 1 (Divination), 2 (Warp)
+**Slot** none; **Price** 26,000 gp; **Weight** 2 lbs.
 **Range** sense 30 ft., teleport 50 ft.
 
 This spell engine is actually two spell engines chained together, one of which can be held in each hand during use. The search spell engine is usually colored bright orange to make it easy to spot almost under any conditions and contains the Divination sphere with the Tremorsense and Widen Sight talents, as well as the Limited Divination (sense) and Hidden Magic drawbacks. The tremorsense lasts up to 2 hours. The rescue spell engine is usually colored bright green and contains the Warp sphere with the Mass Teleport, Ranged Warp, and Unseeing Teleport talents.
@@ -335,16 +335,16 @@ Craft Spell Engine, Divination sphere (Expansive Vision (advanced), Tremorsense 
 
 ### Immovable Wand [MCS]
 
-**Aura**strong Telekinesis;**CL**18th;**SP** 6
-**Slot**none;**Price**81,000 gp;**Weight** 2 lbs.
+**Aura** strong Telekinesis; **CL** 18th; **SP** 6
+**Slot** none; **Price** 81,000 gp; **Weight** 2 lbs.
 This slender wand is colorless and nearly transparent, though harder than most metals. While held, it functions as a Telekinesis spell engine with the Affix, Effortless Telekinesis, and Idle Concentration talents. A mythic creature who uses this wand may use their casting DC for the Telekinesis sphere (if it is higher) and may expend one use of mythic power when using the Affix talent through this spell engine to mystically bind a creature in place by increasing the magic skill check or Strength check required to break a creature free by their tier. In addition to its other effects, this wand functions as an immovable rodUE.
 **Construction Requirements**
 Craft Spell Engine, Mythic Crafter, Telekinesis sphere (Affix (advanced), Effortless Telekinesis (advanced), Idle Concentration); **Cost** 40,500 gp
 
 ### Infernal Queen’s Contract [MCS]
 
-**Aura**strong Conjuration;**CL**16th;**SP** 8
-**Slot**none;**Price**64,000 gp;**Weight** 1/10 lbs.
+**Aura** strong Conjuration; **CL** 16th; **SP** 8
+**Slot** none; **Price** 64,000 gp; **Weight** 1/10 lbs.
 This roll of parchment paper seems abnormally tough and resistant to damage, and is immune to all fire damage. Unlike most spell engines, activating the infernal queen’s contract takes ten minutes; however, once activated, it allows for the use of the Conjuration sphere Call Planar Creature advanced talent and can summon a wide variety of lawful evil outsiders (exclusively as allies; it does not summon hostile creatures). Rumors suggest that similar items capable of calling creatures from other planes also exist. Once per day, a mythic creature can expend one use of mythic power when activating an infernal queen’s contract to reduce its activation time to a standard action. Beings summoned by this contract charge half as much as usual if the summoner is lawful neutral, lawful evil, or neutral evil, but charge all other creatures twice as much for tasks.
 **Construction Requirements**
 Craft Spell Engine, Mythic Crafter, Conjuration sphere (Call Planar Creature (advanced)); **Cost** 32,000 gp

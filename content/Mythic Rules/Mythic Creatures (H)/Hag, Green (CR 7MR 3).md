@@ -13,14 +13,14 @@ Knots of dark, moldering hair spill over the features of this sickly, thin, gree
 XP 3,200
 Pathfinder Roleplaying Game Bestiary
 CE Medium monstrous humanoid (mythic)
-**Init**+1;**Senses** darkvision 90 ft., insatiable stalkerMA; Perception +19
+**Init** +1; **Senses** darkvision 90 ft., insatiable stalkerMA; Perception +19
 
 #### Defense
 
-**AC**22,**touch**11,**flat-footed** 21 (+1 Dex, +11 natural)
+**AC** 22, **touch** 11, **flat-footed** 21 (+1 Dex, +11 natural)
 **hp** 88 (9d10+39)
-**Fort**+6,**Ref**+7,**Will** +7
-**Defensive Abilities**DR 5/epic;**SR** 19
+**Fort** +6, **Ref** +7, **Will** +7
+**Defensive Abilities** DR 5/epic; **SR** 19
 
 #### Offense
 
@@ -34,10 +34,10 @@ At will—alter self, dancing lights, ghost sound (DC 13), invisibility, pyrotec
 
 #### Statistics
 
-**Str**19,**Dex**12,**Con**12,**Int**15,**Wis**13,**Cha** 16
-**Base Atk**+9;**CMB**+13;**CMD** 24
+**Str** 19, **Dex** 12, **Con** 12, **Int** 15, **Wis** 13, **Cha** 16
+**Base Atk** +9; **CMB** +13; **CMD** 24
 **Feats** AlertnessMF, Blind-Fight, Combat Casting, Deceitful, Great FortitudeMF
-**Skills**Bluff +14, Disguise +14, Knowledge (arcana) +11, Perception +19 (+27 when following tracks), Sense Motive +9, Stealth +13, Swim +18;**Racial Modifiers** +4 Perception
+**Skills** Bluff +14, Disguise +14, Knowledge (arcana) +11, Perception +19 (+27 when following tracks), Sense Motive +9, Stealth +13, Swim +18; **Racial Modifiers** +4 Perception
 **Languages** Aklo, Common, Giant
 **SQ** insatiable stalkerMA, mimicry
 

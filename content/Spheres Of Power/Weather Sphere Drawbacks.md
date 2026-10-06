@@ -11,29 +11,29 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Atmospheric Brew
+#### Atmospheric Brew
 
 You must select the Instill Weather talent with the bonus talent granted by this drawback, and you can only use your Weather sphere abilities through this talent. You must possess the Localized Weather drawback to select this one.
 
 **Incompatible:** Limited Weather, Small Weather
 
-## Limited Weather
+#### Limited Weather
 
 You may only affect one weather category: Aridity, Ash, Cold, Heat, Precipitation, Vog, or Wind. If you choose Aridity you may lower the severity of Precipitation but cannot increase it. If you choose Cold you may lower the severity of Heat but cannot increase it. If you choose Heat you may lower the severity of Cold but cannot increase it. If you choose Precipitation you may lower the severity of Aridity but cannot increase it. You cannot take talents that alter an aspect of weather you cannot affect. If the chosen category requires an additional talent to be used, you must select the appropriate talent as the bonus talent, otherwise you must select Severe Weather with the talent gained from this drawback.
 
 **Incompatible:** Atmospheric Brew, Localized Weather.
 
-## Localized Weather
+#### Localized Weather
 
 You do not gain the ability to control weather and you cannot take talents that improve this ability. You must select a (shroud) or (mantle) talent with the bonus talent gained from this drawback.
 
 **Incompatible:** Limited Weather, Small Weather
 
-## Personal Mantle
+#### Personal Mantle
 
 You cannot place your mantle on other creatures. When you take this drawback, you do not gain an additional talent. Instead, you gain the Mantled Caster feat, even if you do not meet its prerequisites.
 
-## Small Weather
+#### Small Weather
 
 The size of your weather is very limited; the maximum size area you can control weather has a close range-sized radius. You must select Focused Weather with the talent gained from this drawback.
 **Incompatible:** Atmospheric Brew, Localized Weather

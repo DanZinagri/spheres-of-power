@@ -215,13 +215,13 @@ When you use a geomancing or spirit ability that requires concentration, the abi
 
 #### Elemental Strike [Strike] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 As a standard action, you may make a single weapon attack in conjunction with using a geomancing effect which can target a creature or object. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the geomancing. If using a scatter weapon, the geomancing only applies to a single target, chosen at the time of attack. If you possess the Grant Spirit talent, you may affect the target with a spirit effect which requires an attack roll or combat maneuver (such as destroy element) in place of a geomancing effect.
 
 #### Environmental Presence [Mass] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When using a geomancing or spirit effect which targets a creature or object, you may spend an additional spell point to affect an additional 1 target per 2 caster levels (minimum 1) at the same time. Each target must be within range and must be affected by the same geomancing or spirit effect.
 
@@ -452,7 +452,7 @@ When using Harvest, you may produce 2 magical berries per caster level, along wi
 
 #### Primordial Branches (plant, geomancing) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 When you use the Pummel geomancing ability, you can add one of the following additional effects depending on what other packages you possess.
 
@@ -518,7 +518,7 @@ As a concentration effect, you may use a limited form of Reforge that can even a
 
 #### Repress Element (geomancing) [Apoc]
 
-**Source:** [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
 As a concentration effect, you may temporarily obliterate an element within a 5-foot radius + 5 feet per 5 caster levels area within range. Creatures of a subtype corresponding to a repressed element are nauseated for the duration of the repression unless they succeed at a Fortitude save (this saving throw is made as soon as they enter the area of repression).
 

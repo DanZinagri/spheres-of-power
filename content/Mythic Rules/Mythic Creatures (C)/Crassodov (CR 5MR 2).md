@@ -12,13 +12,13 @@ This lean lupine humanoid rises from a crouch on back-bending knees up to a towe
 **Crassodov (CR 5/MR 2)**
 XP 1,600
 CN Medium monstrous humanoid (mythic)
-**Init**+2;**Senses** darkvision 60 ft., scent; Perception +11
+**Init** +2; **Senses** darkvision 60 ft., scent; Perception +11
 
 #### Defense
 
-**AC**22,**touch**12,**flat-footed** 20 (+6 armor, +2 Dex, +4 natural)
+**AC** 22, **touch** 12, **flat-footed** 20 (+6 armor, +2 Dex, +4 natural)
 **hp** 71 (6d10+38)
-**Fort**+5,**Ref**+7,**Will** +7
+**Fort** +5, **Ref** +7, **Will** +7
 **Defensive Abilities** DR 5/epic
 
 #### Offense
@@ -30,8 +30,8 @@ CN Medium monstrous humanoid (mythic)
 
 #### Statistics
 
-**Str**19,**Dex**15,**Con**17,**Int**11,**Wis**14,**Cha** 13
-**Base Atk**+6;**CMB**+10;**CMD** 22
+**Str** 19, **Dex** 15, **Con** 17, **Int** 11, **Wis** 14, **Cha** 13
+**Base Atk** +6; **CMB** +10; **CMD** 22
 **Feats** CleaveMF, Furious Focus, Power Attack
 **Skills** Climb +10, Intimidate +6 (+10 vs. dwarves), Perception +11 (+15 vs. dwarves), Stealth +10, Survival +10 (+14 vs. dwarves), Swim +7
 **Languages** Dwarven, Elven, Urruti

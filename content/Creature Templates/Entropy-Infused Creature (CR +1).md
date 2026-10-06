@@ -16,14 +16,14 @@ Dark gods and the fiendish lords of negative energy sometimes grant their agents
 
 **Type:** the creature gains the subtype of the element that infuses it vacuum (air), dust (earth), ash (cold), or salt (water).
 
-**Defenses/Qualities:** Lifesense 60ft.;**immune**to necromancy (as magic immunity), negative energy, energy drain, ability drain;**vulnerability** to positive energy (see undead affinity below); no longer breaths, eats, or sleeps.
+**Defenses/Qualities:** Lifesense 60ft.; **immune** to necromancy (as magic immunity), negative energy, energy drain, ability drain; **vulnerability** to positive energy (see undead affinity below); no longer breaths, eats, or sleeps.
 
 An entropy-infused creature gains additional defenses according to the element that infuses it, as below:
 
-- **Ash:** **immune**to cold, electricity, and sonic,**vulnerability** to fire
-- **Dust:** **immune**to acid, cold, and fire,**vulnerability** to lightning and sonic
-- **Salt:** **immune**to cold, electricity, fire, and sonic,**vulnerability** to acid
-- **Vacuum:** **immune**to cold, electricity, fire, and sonic,**vulnerability** to acid
+- **Ash:** **immune** to cold, electricity, and sonic, **vulnerability** to fire
+- **Dust:** **immune** to acid, cold, and fire, **vulnerability** to lightning and sonic
+- **Salt:** **immune** to cold, electricity, fire, and sonic, **vulnerability** to acid
+- **Vacuum:** **immune** to cold, electricity, fire, and sonic, **vulnerability** to acid
 
 **Speed:** An entropy-infused creature retains the base creature’s speeds and gains a new speed according to the element that infuses it, as given in the following sections. If the base creature already possessed the mode of movement that the element would grant, the entropy-infused creature adopts the higher of the two speeds.
 
@@ -48,7 +48,7 @@ Once per day elemental possession adds a number of temporary hit points per HD e
 - **Desiccate (Su):** Once every 1d4 rounds, as a standard action, a salt-infused creature may draw in all moisture from the area surrounding it. All living creatures within a 30’ radius of the salt-infused creature suffer 1d6 points of damage per HD the salt infused creature possesses. A successful Fort save (DC 10 + ½ the slat-infused creature’s HD + its Constitution modifier or Charisma modifier if the creature does not have a Constitution score) halves this damage. The damage dice is increased d8s when dealing damage to Water elementals and plant creatures.
 - **Vacuum (Su):** The vacuum-infused creature lacks any breathable air in any space it occupies and in a 10’ radius around it. Living, breathing creatures in the area must make a Fortitude save (DC 10 + ½ the vacuum-infused creature’s HD + its Constitution modifier or Charisma modifier if the creature does not have a Constitution score) or begin to suffocate. Creatures that successfully save begin holding their breath, and may remain in the vacuum infused creature’s area as long as they are able to continue holding their breath.
 
-**Abilities:** Increase from the base creature as follows:**Con** +4 (+2 to Fort, +2 hp per HD, and the entropy-infused creature’s Constitution-based DCs) if the base creature has a constitution score. An entropy-infused creature’s ability scores also change from the base creature’s according to the element that infuses it, as given below:
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 to Fort, +2 hp per HD, and the entropy-infused creature’s Constitution-based DCs) if the base creature has a constitution score. An entropy-infused creature’s ability scores also change from the base creature’s according to the element that infuses it, as given below:
 
 - **Dust or Salt:** **Str** +6 (+3 to melee attack and damage rolls (and thrown weapon damage rolls), Climb and Swim checks, CMB, CMD, strength checks, and any of the base creature’s Strength-based DCs)
 - **Ash or Vacuum:** **Dex** +6 (+3 to Ranged attack rolls; AC and touch AC, and Ref saves. +3 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks.)

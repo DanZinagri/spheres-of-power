@@ -16,7 +16,7 @@ Envy is the most selfish, the most personal, and often the most self-destructive
 
 **Alignment:** Neutral Evil
 
-**Defensive Abilities:** DR 5/good (if the envious creature is CR 6 or higher this becomes DR 10/good, if CR 12 or higher this becomes DR 15/good);**Immune**acid, death effects, disease, mind-affecting effects, poison, petrification;**Resist** cold, electricity, fire 10; SR 11 + CR
+**Defensive Abilities:** DR 5/good (if the envious creature is CR 6 or higher this becomes DR 10/good, if CR 12 or higher this becomes DR 15/good); **Immune** acid, death effects, disease, mind-affecting effects, poison, petrification; **Resist** cold, electricity, fire 10; SR 11 + CR
 
 **Special Abilities:** An envious creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -36,7 +36,7 @@ Envy is the most selfish, the most personal, and often the most self-destructive
 
 **No One Can (Su):** If denied what it covets, an envious creature can choose to explode as an immediate action in a blinding flash of fire that deals 10 points of damage per CR (half fire, half unholy damage) to anything within 10 feet per CR; a successful Reflex save (DC 10 + 1/2 the envious creature’s HD + its Con modifier) results in half damage. This results in the envious creature’s death, and usually the death or destruction of what it covets or the “possessor” of what it covets.
 
-**Abilities:** Increase from the base creature as follows:**Dex**+4 (+2 to ranged attack rolls; AC and touch AC, Initiative, and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs),**Con**+4 (+2 hp per HD, +2 to Fortitude saves and any of the base creature’s Constitution-based DCs),**Cha** +8 (+4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device, attempts to influence others, and Channel Energy DCs, +4 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Dex** +4 (+2 to ranged attack rolls; AC and touch AC, Initiative, and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs), **Con** +4 (+2 hp per HD, +2 to Fortitude saves and any of the base creature’s Constitution-based DCs), **Cha** +8 (+4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device, attempts to influence others, and Channel Energy DCs, +4 to any of the base creature’s Charisma-based DCs).
 
 **Feats:** An envious creature gains Deceitful, Greater Steal, and Improved Steal as bonus feats even if it does not meet the prerequisites.
 

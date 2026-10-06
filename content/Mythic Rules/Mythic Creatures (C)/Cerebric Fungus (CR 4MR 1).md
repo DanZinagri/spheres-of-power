@@ -11,22 +11,22 @@ parent: "[[Mythic Creatures (C)]]"
 XP 1,200
 Pathfinder Roleplaying Game Bestiary 3
 N Medium plant (mythic)
-**Init**+4;**Senses** darkvision 60 ft., low-light vision; Perception +12
+**Init** +4; **Senses** darkvision 60 ft., low-light vision; Perception +12
 **Aura** unsettling appearance (60 ft., DC 14)
 
 #### Defense
 
-**AC**16,**touch**10,**flat-footed** 16 (+6 natural)
+**AC** 16, **touch** 10, **flat-footed** 16 (+6 natural)
 **hp** 38 (4d8+20); fast healing 2
-**Fort**+7,**Ref**+1,**Will** +6
-**Defensive Abilities**mucus of terrible visionsMA, otherworldly mind;**Immune**plant traits,**Resist** cold 5
+**Fort** +7, **Ref** +1, **Will** +6
+**Defensive Abilities** mucus of terrible visionsMA, otherworldly mind; **Immune** plant traits, **Resist** cold 5
 **Weaknesses** vulnerable to sonic
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** bite +5 (1d6+2), 2 tendrils +3 (1d4+1 plus pull)
-**Space**5 ft.;**Reach** 5 ft. (15 ft. with tendrils)
+**Space** 5 ft.; **Reach** 5 ft. (15 ft. with tendrils)
 **Special Attacks** pull (tendril, 5 ft.), mythic power (3/day, surge +1d6), seductive compulsionMA, star-shriek
 
 **Spell-Like Abilities** (CL 4th; concentration +6)
@@ -36,8 +36,8 @@ At will—touch of madness (DC 14)
 
 #### Statistics
 
-**Str**14,**Dex**11,**Con**16,**Int**15,**Wis**20,**Cha** 15
-**Base Atk**+3;**CMB**+5;**CMD** 15 (21 vs. trip)
+**Str** 14, **Dex** 11, **Con** 16, **Int** 15, **Wis** 20, **Cha** 15
+**Base Atk** +3; **CMB** +5; **CMD** 15 (21 vs. trip)
 **Feats** Extra Mythic PowerMF, Improved Initiative, Multiattack
 **Skills** Bluff +6, Diplomacy +6, Perception +12, Stealth +7
 **Languages** telepathy 100 ft.

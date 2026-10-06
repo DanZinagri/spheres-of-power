@@ -13,21 +13,21 @@ The dry rasping of spidery legs brings this hideous monstrosity into view—a ni
 XP 4,800
 Pathfinder Roleplaying Game Bestiary
 CE Large aberration (mythic)
-**Init**+2;**Senses** darkvision 120 ft., detect good, detect law, detect magic; Perception +15
+**Init** +2; **Senses** darkvision 120 ft., detect good, detect law, detect magic; Perception +15
 
 #### Defense
 
-**AC**24,**touch**13,**flat-footed** 20 (+2 Dex, +2 dodge, +11 natural, –1 size)
+**AC** 24, **touch** 13, **flat-footed** 20 (+2 Dex, +2 dodge, +11 natural, –1 size)
 **hp** 100 (9d8+60)
-**Fort**+7,**Ref**+5,**Will** +9
-**Defensive Abilities**DR 5/epic;**Immune**poisonMA, sleep;**SR** 21
+**Fort** +7, **Ref** +5, **Will** +9
+**Defensive Abilities** DR 5/epic; **Immune** poisonMA, sleep; **SR** 21
 
 #### Offense
 
 **Speed** 30 ft., climb 20 ft.
 **Melee** mwk heavy mace +9/+4 (1d8+3), bite +4 (1d4+1 plus fleshwarp curseMA and poison)
 **Ranged** mwk composite longbow +8/+3 (1d8+2/x3)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (3/day, surge +1d6), vomit spider swarmMA, web (+7 ranged, DC 18, hp 9)
 
 **Spell-Like Abilities** (CL 9th; concentration +13)
@@ -43,10 +43,10 @@ At will—dancing lights, darkness, faerie fire
 
 #### Statistics
 
-**Str**15,**Dex**15,**Con**18,**Int**15,**Wis**16,**Cha** 18
-**Base Atk**+6;**CMB**+9;**CMD** 22 (34 vs. trip)
+**Str** 15, **Dex** 15, **Con** 18, **Int** 15, **Wis** 16, **Cha** 18
+**Base Atk** +6; **CMB** +9; **CMD** 22 (34 vs. trip)
 **Feats** Blind-Fight, Combat Casting, DodgeMF, Weapon FocusMF (bite), Weapon Focus (mace)
-**Skills**Climb +22, Intimidate +16, Knowledge (arcana) +14, Perception +15, Spellcraft +14, Stealth +14;**Racial Modifiers** +4 Stealth
+**Skills** Climb +22, Intimidate +16, Knowledge (arcana) +14, Perception +15, Spellcraft +14, Stealth +14; **Racial Modifiers** +4 Stealth
 **SQ** spider droverMA, undersized weapons
 
 #### Ecology
@@ -57,9 +57,9 @@ At will—dancing lights, darkness, faerie fire
 
 #### Special Abilities
 
-**Fleshwarp Curse (Su)**Bite—injury;**save**Will DC 18;**frequency**1/day;**effect** 1d4 Con damage and 1d4 Cha drain. If a drow victim reaches 0 Cha, it becomes a drider. The save DC is Charisma-based. If a mythic drider expends one use of mythic power as a swift action when it inflicts this curse, a non-drow victim that reaches 0 Cha becomes a drider.
+**Fleshwarp Curse (Su)** Bite—injury; **save** Will DC 18; **frequency** 1/day; **effect** 1d4 Con damage and 1d4 Cha drain. If a drow victim reaches 0 Cha, it becomes a drider. The save DC is Charisma-based. If a mythic drider expends one use of mythic power as a swift action when it inflicts this curse, a non-drow victim that reaches 0 Cha becomes a drider.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 18;**frequency**1/round for 6 rounds;**effect**1d2 Str;**cure** 1 save. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; **save** Fort DC 18; **frequency** 1/round for 6 rounds; **effect** 1d2 Str; **cure** 1 save. The save DC is Constitution-based.
 
 **Spells** A drider casts spells as a 6th-level cleric, sorcerer, or wizard, but does not gain any other class abilities.
 

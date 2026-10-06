@@ -8,13 +8,13 @@ parent: "[[Feats]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-# Magic Item Creation
+## Magic Item Creation
 
 For the rules on creating magic items in Spheres of Power, see the [[Magical Items]] page.
 
 ---
 
-### Capture Spell (replaces Scribe Scroll) (Item Creation)
+#### Capture Spell (replaces Scribe Scroll) (Item Creation)
 
 **Prerequisites:** Caster level 1st.
 
@@ -22,7 +22,7 @@ For the rules on creating magic items in Spheres of Power, see the [[Magical Ite
 
 A scroll has a base cost of 25 gp x caster level x complexity.
 
-### Craft Apparatus (replaces Craft Rod) (Item Creation)
+#### Craft Apparatus (replaces Craft Rod) (Item Creation)
 
 **Prerequisites:** Caster level 1st.
 
@@ -32,7 +32,7 @@ Creating an apparatus costs 2,000 gp x caster level x complexity. An item must h
 
 **Continual Life Sphere Effects:** Creating an apparatus that grants what is normally an instantaneous effect, such as Life sphere effects, has a base complexity of 6. If crafting an apparatus that grants a continual cure, the effect becomes instead fast healing 1 (+1 per additional +1 in complexity). If an apparatus grants a continual restore, it instead grants immunity to one effect (+1 per additional +1 in complexity; a creature cannot gain immunity to effects that require a magic skill check to remove or are unaffected by the Life sphere). Temporary hit points cannot be made into a continual effect.
 
-### Craft Implement Of Power (replaces Craft Staff) (Item Creation)
+#### Craft Implement Of Power (replaces Craft Staff) (Item Creation)
 
 **Prerequisites:** Magic skill bonus +3.
 
@@ -46,11 +46,11 @@ An implement uses the crafter’s MSB rather than their caster level when determ
 
 **Note:** Implements cannot be used to meet caster level prerequisites. If a talent has prerequisites, the user or the staff must have access to all prerequisites to use that talent. Implements can be either slotted items or handheld items, like staves or weapons. They can be combined with other magic items as normal.
 
-#### Implements and Automatic Bonus Progression
+##### Implements and Automatic Bonus Progression
 
 In games making use of the automatic bonus progression rules (Pathfinder Unchained), treat implements that grant an enhancement bonus to caster level as weapons for the purpose of attunement bonuses.
 
-### Craft Magical Traps (Item Creation) [HMH]
+#### Craft Magical Traps (Item Creation) [HMH]
 
 **Prerequisites:** Contingency; Craft Apparatus or Craft Marvelous Item.
 
@@ -58,7 +58,7 @@ In games making use of the automatic bonus progression rules (Pathfinder Unchain
 
 GM discretion is advised in the creation of magic traps. A magic trap is considered to have the Area Bound drawback even if you do not have that crafting drawback and only functions within 100 feet of the space in which it was created.
 
-### Craft Marvelous Item (replaces Craft Wondrous Item) (Item Creation)
+#### Craft Marvelous Item (replaces Craft Wondrous Item) (Item Creation)
 
 **Prerequisites:** Caster level 1st.
 
@@ -70,13 +70,13 @@ A marvelous item can be used once per day by default, and costs 400 gp x caster 
 
 **Limited Uses:** If a marvelous item can be used at will but only a maximum of 50 times before it loses all of its magic, multiply its cost by 2.5.
 
-### Craft Rituals (Item Creation)
+#### Craft Rituals (Item Creation)
 
 **Prerequisite:** Ritual Caster, casting class feature.
 
 **Benefits:** You may research rituals. See Advanced Magic for more information on researching rituals.
 
-### Craft Spell Engine (replaces Craft Wand) (Item Creation)
+#### Craft Spell Engine (replaces Craft Wand) (Item Creation)
 
 **Prerequisites:** Caster level 1st.
 
@@ -109,7 +109,7 @@ A spell engine’s pricing is determined by comparing it to Table: Spell Engine 
 | 18 | 8 | 81,000 |
 | 20 | 9 | 100,000 |
 
-### Develop Spellzone (Item Creation) [HMH]
+#### Develop Spellzone (Item Creation) [HMH]
 
 **Prerequisite:** Caster level 5th.
 
@@ -117,7 +117,7 @@ A spell engine’s pricing is determined by comparing it to Table: Spell Engine 
 
 **Special:** Spellzones have the capacity to dramatically affect a setting due to their immense versatility and power. As a result, this feat is only available with GM permission. Furthermore, spellzones are exempt from the usual rule requiring effects to have a caster level equal to or greater than their complexity.
 
-### Distill Compound (replaces Brew Potion) (Item Creation)
+#### Distill Compound (replaces Brew Potion) (Item Creation)
 
 **Prerequisites:** Caster level 1st.
 
@@ -130,7 +130,7 @@ A spell engine’s pricing is determined by comparing it to Table: Spell Engine 
 
 A compound has a base cost of 50 gp x caster level x complexity. If a compound requires a saving throw, the DC is equal to 10 + 1/2 its caster level.
 
-### Eldritch Craft (Item Creation) [Cata. HB]
+#### Eldritch Craft (Item Creation) [Cata. HB]
 
 Your strange magics bleed into the devices you forge.
 
@@ -138,13 +138,13 @@ Your strange magics bleed into the devices you forge.
 
 **Benefit:** Any magic items that you craft share the benefits of boons that you possess. For example, you possess the Alien Source boon, creatures take penalties to counterspell the item and spell resistance against the item’s effects. Similarly, the item’s caster level would increase in specific weather conditions if you possess the Atmoturgy boon or when at least three creatures are already affected by the item if you possess the Draw Magic boon. Boons which apply negative conditions (such as Overcharge) or which are dependent upon certain factors of the user (such as Deathful Magic) consider the state of the creature using the effect rather than the item to determine effects. This feat cannot be used in conjunction with boons that require a specific drawback such as Fortified Casting.
 
-### Etch Schematic (Item Creation) [HMH]
+#### Etch Schematic (Item Creation) [HMH]
 
 **Prerequisite:** Caster level 1st.
 
 **Benefit:** You may create and modify [[Schematics|schematics]].
 
-### Forge Charm (replaces Forge Ring) (Item Creation)
+#### Forge Charm (replaces Forge Ring) (Item Creation)
 
 **Prerequisites:** Magic skill bonus +1.
 
@@ -171,13 +171,13 @@ A charm uses the crafter’s MSB rather than their caster level when determining
 
 1: While uncommon, it is possible to have magic items that grant luck, insight, profane, or sacred bonuses to AC or saving throws, morale bonuses to saving throws, or other bonuses. When applying such benefits through a charm, morale bonuses have Mind as a base sphere, insight bonuses have Divination as a base sphere, and luck, profane, and sacred bonuses have Fate as a base sphere.
 
-### Forge Construct (replaces Craft Construct) (Item Creation)
+#### Forge Construct (replaces Craft Construct) (Item Creation)
 
 **Prerequisites:** Any two of the following feats: Craft Apparatus, Craft Marvelous Item, Forge Charm, Smith Magical Weapons And Armor; magic skill bonus +5.
 
 This feat is functionally identical to Craft Construct.
 
-### Smith Magical Weapons And Armor (replaces Craft Magical Arms or Armor) (Item Creation)
+#### Smith Magical Weapons And Armor (replaces Craft Magical Arms or Armor) (Item Creation)
 
 **Prerequisites:** Magic skill bonus +3.
 
@@ -200,7 +200,7 @@ Magical weapons and armor use the crafter’s MSB rather than their caster level
 | +9 | 162,000 | +9 | 81,000 |
 | +10 | 200,000 | +10 | 100,000 |
 
-### Versatile Crafter
+#### Versatile Crafter
 
 **Prerequisite:** Any item creation feat.
 

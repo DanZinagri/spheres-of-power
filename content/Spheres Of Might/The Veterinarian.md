@@ -14,40 +14,40 @@ The Veterinarian is a first-level sample character for Spheres of Might, suitabl
 **The Veterinarian**
 Human scholar 1
 NG Medium humanoid (human)
-**Init**+2;**Perception** +4
+**Init** +2; **Perception** +4
 
 ## Defense
 
-**AC**12,**touch**12,**flat-footed** 10 (+2 Dex)
+**AC** 12, **touch** 12, **flat-footed** 10 (+2 Dex)
 **hp** 7 (1d6+1)
-**Fort**+1,**Ref**+4,**Will** +2
+**Fort** +1, **Ref** +4, **Will** +2
 
 ## Offense
 
 **Speed** 30 ft.
 **Melee** Mancatcher -1 touch (1d2-1/x2, plus grappled)
 **Ranged** Net -1 ranged touch (entangled)
-**Space**5 ft.;**Reach** 5 ft. (10 ft. w/ mancatcher)
+**Space** 5 ft.; **Reach** 5 ft. (10 ft. w/ mancatcher)
 
 ## Martial
 
-**Tradition**Animal Trainer (Beastmastery sphere (handle animal) package: Animal Empathy, Greater Trainer; Equipment sphere: Bounty Hunter Tools);**PAM** Int
-**Alchemy sphere**- DC 14,**Packages**formulae,**Talents** Panacea, Salve
+**Tradition** Animal Trainer (Beastmastery sphere (handle animal) package: Animal Empathy, Greater Trainer; Equipment sphere: Bounty Hunter Tools); **PAM** Int
+**Alchemy sphere** - DC 14, **Packages** formulae, **Talents** Panacea, Salve
 - formulae (panacea, salve)
-**Beastmastery sphere**- DC 14,**Packages**handle animal,**Talents** Animal Empathy, Greater Trainer
+**Beastmastery sphere** - DC 14, **Packages** handle animal, **Talents** Animal Empathy, Greater Trainer
 - animal empathy (1 minute, improve the attitude of an animal w/ handle animal)
 - tame (2 HD worth of animals)
-**Equipment sphere**- DC 14,**Talents** Bounty Hunter Tools
+**Equipment sphere** - DC 14, **Talents** Bounty Hunter Tools
 - discipline (proficient w/ bola, garrote, grappling hook, harpoon, kyoketsu shogi, lasso, mancatcher, net, net launcher, sap, and whip)
 **Scout sphere** - DC 14
 - scout (swift action, identify creature's weaknesses)
 
 ## Statistics
 
-**Str**8,**Dex**14,**Con**12,**Int**18,**Wis**10,**Cha** 14
-**Base Atk**+0;**CMB**-1;**CMD** 11
+**Str** 8, **Dex** 14, **Con** 12, **Int** 18, **Wis** 10, **Cha** 14
+**Base Atk** +0; **CMB** -1; **CMD** 11
 **Feats** Extra Combat Talent (2)
-**Skills**Appraise +8, Bluff +6, Heal +8, Intimidate +6, Knowledge (geography) +8, Knowledge (nature) +8, Perception +4, Profession (veterinarian) +4, Sense Motive +4, Sleight of Hand +6, Spellcraft +8, Survival +4, Use Magic Device +6;**Associated Skills** Craft (alchemy) +8, Handle Animal +6, Stealth +6
+**Skills** Appraise +8, Bluff +6, Heal +8, Intimidate +6, Knowledge (geography) +8, Knowledge (nature) +8, Perception +4, Profession (veterinarian) +4, Sense Motive +4, Sleight of Hand +6, Spellcraft +8, Survival +4, Use Magic Device +6; **Associated Skills** Craft (alchemy) +8, Handle Animal +6, Stealth +6
 **Gear** mancatcher, net, owl, skunk, and 95 gp worth of other equipment.
 
 ## Special Abilities
@@ -64,7 +64,7 @@ Any creature affected by splash damage from an improved formulae is entitled to 
 
 Because formulae are more unstable than standard alchemical items, they expire and no longer work after 24 hours; it is relatively easy (DC 10 Appraise) to recognize the unstable and impermanent nature of these items so typically they have no monetary value; a potential buyer who fails their Appraise check assumes they are a standard item of their type (if applicable), or as a mundane item worth no more than 10 gp. In addition, the overly refined and unstable nature of formulae means that they cannot be further refined or enhanced by items such as focusing flasks or hybridization funnels. You cannot fail to craft an alchemical item you know the formulae for; failure to meet the DC instead means you create the item but at its minimum potency, without additional effects or benefits for having additional Craft (alchemy) ranks or having increased the crafting DC. When you first gain this package, you may learn any one (formulae) talent you qualify for.
 
-**Alchemy: Panacea**You create a vial of liquid that can be used as a potion, removing a single negative condition the drinker is currently suffering from. The conditions that a panacea can remove are determined by the Craft DC used for its creation:** DC 20:**Deafened, fatigued, shaken, sickened.** DC 30:**Diseased, exhausted, nauseated, poisoned, staggered.** DC 40:** Frightened, blinded, deafened, paralyzed, stunned.
+**Alchemy: Panacea** You create a vial of liquid that can be used as a potion, removing a single negative condition the drinker is currently suffering from. The conditions that a panacea can remove are determined by the Craft DC used for its creation: **DC 20:** Deafened, fatigued, shaken, sickened. **DC 30:** Diseased, exhausted, nauseated, poisoned, staggered. **DC 40:** Frightened, blinded, deafened, paralyzed, stunned.
 
 **Alchemy: Salve** Craft DC: 15. You create a poultice that can be used as a standard action to heal yourself or a target within your natural reach for 1d8 points of damage per 2 ranks in Craft (alchemy) you possess (minimum 1d8) plus your practitioner modifier. You can only attempt to heal a particular creature with this ability a number of times per day equal to 1/2 the number of ranks you possess in the Craft (alchemy) skill (minimum 1) plus your practitioner modifier.
 
@@ -76,7 +76,7 @@ Unlike most other spheres which rest squarely on the related core rules, talents
 
 Animal Allies: Some talents and abilities reference animal allies; your animal companions, familiars, tame creatures, and any creature actively serving as your mount with an Intelligence score of 2 or less are considered your animal allies. Animal allies always act on your initiative.
 
-Special: Animal companions, Conjuration sphere companions, drake companions, eidolons, and familiars cannot gain this sphere or talents from this sphere.
+**Special:** Animal companions, Conjuration sphere companions, drake companions, eidolons, and familiars cannot gain this sphere or talents from this sphere.
 
 When you first take the Beastmastery sphere, choose one of the following packages: Handle Animal or Ride. (Chosen: Handle Animal)
 
@@ -121,26 +121,26 @@ All practitioners of the Scout sphere gain the following ability: Scout.
 # Skunk
 
 N Tiny animal
-**Init**+2;**Senses** low-light vision, Perception +5
+**Init** +2; **Senses** low-light vision, Perception +5
 
 ## Defense
 
-**AC**14,**touch**14,**flat-footed** 12 (+2 Dex, +2 size)
+**AC** 14, **touch** 14, **flat-footed** 12 (+2 Dex, +2 size)
 **hp** 3 (1d8-1)
-**Fort**+1,**Ref**+4,**Will** +1
+**Fort** +1, **Ref** +4, **Will** +1
 
 ## Offense
 
 **Speed** 30 ft.
 **Melee** bite +4 (1d3-4), 2 claws +4 (1d2-4)
 **Ranged** spray +4 ranged touch (musk)
-**Space**2-1/2 ft.;**Reach** 2-1/2 ft.
+**Space** 2-1/2 ft.; **Reach** 2-1/2 ft.
 **Special Attacks** musk
 
 ## Statistics
 
-**Str**3,**Dex**15,**Con**9,**Int**2,**Wis**12,**Cha** 6
-**Base Atk**+0;**CMB**+0;**CMD** 6
+**Str** 3, **Dex** 15, **Con** 9, **Int** 2, **Wis** 12, **Cha** 6
+**Base Atk** +0; **CMB** +0; **CMD** 6
 **Feats** Weapon Finesse
 **Skills** Perception +5
 
@@ -158,26 +158,26 @@ N Tiny animal
 # Owl
 
 N Tiny animal
-**Init**+3;**Senses**low-light vision,**Perception** +10
+**Init** +3; **Senses** low-light vision, **Perception** +10
 
 ## Defense
 
-**AC**15,**touch**15,**flat-footed** 12 (+3 Dex, +2 size)
+**AC** 15, **touch** 15, **flat-footed** 12 (+3 Dex, +2 size)
 **hp** 4 (1d8)
-**Fort**+2,**Ref**+5,**Will** +2
+**Fort** +2, **Ref** +5, **Will** +2
 
 ## Offense
 
 **Speed** 10 ft., fly 60 ft. (average)
 **Melee** 2 talons +5 (1d4-2)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 ## Statistics
 
-**Str**6,**Dex**17,**Con**11,**Int**2,**Wis**15,**Cha** 6
-**Base Atk**+0;**CMB**+1;**CMD** +9
+**Str** 6, **Dex** 17, **Con** 11, **Int** 2, **Wis** 15, **Cha** 6
+**Base Atk** +0; **CMB** +1; **CMD** +9
 **Feats** Weapon Finesse
-**Skills**Fly +7, Perception +10, Stealth +15,**Racial Modifiers** +4 Perception, +4 Stealth
+**Skills** Fly +7, Perception +10, Stealth +15, **Racial Modifiers** +4 Perception, +4 Stealth
 
 ## Ecology
 

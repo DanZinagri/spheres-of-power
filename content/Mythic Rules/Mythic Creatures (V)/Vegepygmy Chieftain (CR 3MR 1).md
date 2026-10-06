@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (V)]]"
 XP 800
 Pathfinder Roleplaying Game Bestiary
 N Small plant (mythic)
-**Init**+4;**Senses** darkvision 60 ft., greensightMA, low-light vision; Perception +8
+**Init** +4; **Senses** darkvision 60 ft., greensightMA, low-light vision; Perception +8
 
 #### Defense
 
-**AC**21,**touch**15,**flat-footed** 17 (+4 Dex, +6 natural, +1 size)
+**AC** 21, **touch** 15, **flat-footed** 17 (+4 Dex, +6 natural, +1 size)
 **hp** 46 (4d8+28)
-**Fort**+6,**Ref**+4,**Will** +2
-**Defensive Abilities**DR 5/slashing or bludgeoning;**Immune** electricity, plant traits
+**Fort** +6, **Ref** +4, **Will** +2
+**Defensive Abilities** DR 5/slashing or bludgeoning; **Immune** electricity, plant traits
 
 #### Offense
 
@@ -29,10 +29,10 @@ N Small plant (mythic)
 
 #### Statistics
 
-**Str**16,**Dex**18,**Con**16,**Int**12,**Wis**15,**Cha** 15
-**Base Atk**+3;**CMB**+4;**CMD** 18
+**Str** 16, **Dex** 18, **Con** 16, **Int** 12, **Wis** 15, **Cha** 15
+**Base Atk** +3; **CMB** +4; **CMD** 18
 **Feats** Power Attack, ToughnessMF
-**Skills**Perception +8, Stealth +19 (+27 in vegetation), Survival +8;**Racial Modifiers** +4 Stealth (+12 in vegetation)
+**Skills** Perception +8, Stealth +19 (+27 in vegetation), Survival +8; **Racial Modifiers** +4 Stealth (+12 in vegetation)
 **Languages** Common, Undercommon, Vegepygmy (can’t speak)
 **SQ** fungal synthesisMA, woodland stride
 

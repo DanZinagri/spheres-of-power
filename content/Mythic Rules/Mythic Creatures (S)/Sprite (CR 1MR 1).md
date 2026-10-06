@@ -13,13 +13,13 @@ This lithe, diminutive creature looks like a humanoid with wispy, moth-like wing
 XP 400
 Pathfinder RPG Bestiary 3
 CN Diminutive fey (mythic)
-**Init**+3;**Senses** detect evil, detect good, low-light vision; Perception +6
+**Init** +3; **Senses** detect evil, detect good, low-light vision; Perception +6
 
 #### Defense
 
-**AC**18,**touch**17,**flat-footed** 15 (+3 Dex, +1 natural, +4 size)
+**AC** 18, **touch** 17, **flat-footed** 15 (+3 Dex, +1 natural, +4 size)
 **hp** 9 (1d6+6)
-**Fort**+0,**Ref**+5,**Will** +2
+**Fort** +0, **Ref** +5, **Will** +2
 **Defensive Abilities** DR 2/cold iron and epic
 
 #### Offense
@@ -27,7 +27,7 @@ CN Diminutive fey (mythic)
 **Speed** 15 ft., fly 60 ft. (perfect)
 **Melee** shortsword +0 (1d2−4/19-20)
 **Ranged** shortbow +7 (1d2−4/×3)
-**Space**1 ft.;**Reach** 0 ft.
+**Space** 1 ft.; **Reach** 0 ft.
 **Special Attacks** blinding burstMA, mythic power (3/day, surge +1d6)
 
 **Spell-Like Abilities** (CL 5th; concentration +5)
@@ -37,10 +37,10 @@ At will—dancing lights, daze (DC 10)
 
 #### Statistics
 
-**Str**3,**Dex**17,**Con**10,**Int**6,**Wis**11,**Cha** 10
-**Base Atk**+0;**CMB**−1;**CMD** 5
+**Str** 3, **Dex** 17, **Con** 10, **Int** 6, **Wis** 11, **Cha** 10
+**Base Atk** +0; **CMB** −1; **CMD** 5
 **Feats** Alertness, Extra Mythic PowerMF
-**Skills**Escape Artist +15, Fly +21, Perception +6, Sense Motive +2, Stealth +19;**Racial Modifiers** +8 Escape Artist
+**Skills** Escape Artist +15, Fly +21, Perception +6, Sense Motive +2, Stealth +19; **Racial Modifiers** +8 Escape Artist
 **Languages** Common, Sylvan
 **SQ** luminousMA
 

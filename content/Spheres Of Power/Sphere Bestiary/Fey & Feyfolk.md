@@ -14,30 +14,30 @@ Initially, this fey resembles a fox or small dog, but it swiftly changes shape.
 
 **XP** 1,200
 CN Tiny fey (shapeshifter)
-**Init**+3;**Senses**low-light vision;**Perception** +10
+**Init** +3; **Senses** low-light vision; **Perception** +10
 
 **Defense**
-**AC**16,**touch**16,**flat-footed** 12 (+3 Dex, +1 dodge, +2 size)
+**AC** 16, **touch** 16, **flat-footed** 12 (+3 Dex, +1 dodge, +2 size)
 **hp** 39 (6d6+18)
-**Fort**+5,**Ref**+8,**Will** +6
+**Fort** +5, **Ref** +8, **Will** +6
 **DR** 3/cold iron
 
 **Offense**
 **Speed** 20 ft.
 **Melee** bite +8 (1d3-2)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Magic**
-**Caster Level**6;**MSB**+6,**MSD**17,**Concentration** +8
-**Tradition**Natural (Lycanthropic);**CAM** Cha
+**Caster Level** 6; **MSB** +6, **MSD** 17, **Concentration** +8
+**Tradition** Natural (Lycanthropic); **CAM** Cha
 **Spell Points** 8
-**Alteration Sphere**–**Talents** Greater Changes, Perfect Imitation, Size Change; (transformation) Animalistic Transformation, Anthropomorphic Transformation, Aquan Transformation, Avian Transformation, Dragon Transformation, Plant Transformation
+**Alteration Sphere** – **Talents** Greater Changes, Perfect Imitation, Size Change; (transformation) Animalistic Transformation, Anthropomorphic Transformation, Aquan Transformation, Avian Transformation, Dragon Transformation, Plant Transformation
 
 - shapeshift, touch, DC 15; Greater Changes (3 traits), concentration, 6 hours with 1 sp
 
 **Statistics**
-**Str**6,**Dex**17,**Con**16,**Int**12,**Wis**13,**Cha** 15
-**Base Atk**+3;**CMB**+4;**CMD** 13
+**Str** 6, **Dex** 17, **Con** 16, **Int** 12, **Wis** 13, **Cha** 15
+**Base Atk** +3; **CMB** +4; **CMD** 13
 **Feats** Dodge, Extra Magic Talent, Weapon Finesse
 **Skills** Acrobatics +12, Bluff +11, Disguise +11, Escape Artist +12, Intimidate +8, Perception +10, Stealth +20
 **Languages** Aklo, Common, Sylvan
@@ -63,13 +63,13 @@ In faerie realms, bakemono use their powerful shapeshifting skills to survive, a
 This lithe, almost humanoid figure’s soft cloak billows in the wind, their next steps vanished.
 XP 51,200
 CN Small fey
-**Init**+10;**Senses**low-light vision;**Perception** +33
+**Init** +10; **Senses** low-light vision; **Perception** +33
 
 **Defense**
-**AC**29,**touch**17,**flat-footed** 23 (+6 Dex, +12 natural, +1 size)
+**AC** 29, **touch** 17, **flat-footed** 23 (+6 Dex, +12 natural, +1 size)
 **hp** 210 (20d6+140); fast healing 5
-**Fort**+12,**Ref**+18,**Will** +18
-**DR**10/cold iron;**Resist** acid 30, cold 30, electricity 30
+**Fort** +12, **Ref** +18, **Will** +18
+**DR** 10/cold iron; **Resist** acid 30, cold 30, electricity 30
 
 **Offense**
 **Speed** 30 ft.
@@ -77,28 +77,28 @@ CN Small fey
 **Special Attacks** possession (DC 26)
 
 **Magic**
-**Caster Level**20;**MSB**+20,**MSD**31,**Concentration** +26
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 20; **MSB** +20, **MSD** 31, **Concentration** +26
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 26
-**Alteration Sphere**–**Talents** Animal Mind, Ranged Alteration, Size Change; (transformation) Animalistic Transformation, Anthropomorphic Transformation, Aquan Transformation, Avian Transformation, Dragon Transformation, Plant Transformation
+**Alteration Sphere** – **Talents** Animal Mind, Ranged Alteration, Size Change; (transformation) Animalistic Transformation, Anthropomorphic Transformation, Aquan Transformation, Avian Transformation, Dragon Transformation, Plant Transformation
 
 - shapeshift, close (75 ft.), DC 27; 5 traits, concentration, 20 minutes with 1 sp
 
-**Illusion Sphere**–**Talents** Enlarged Illusion, Focused Imagination, Ranged Illusion, Suppression; (sensory) Illusionary Odor, Illusionary Sound, Illusionary Touch
+**Illusion Sphere** – **Talents** Enlarged Illusion, Focused Imagination, Ranged Illusion, Suppression; (sensory) Illusionary Odor, Illusionary Sound, Illusionary Touch
 
 - illusion, close (75 ft.), maximum size Colossal++++ (150-ft. cube), **DC** 27; concentration, 1 sp, sight, smell, sound, touch
   - Focused Imagination; illusions persist for 2 rounds after concentration ends, and can concentrate for 50 minutes
 - trick, close (75 ft.), DC 27, 3 minutes, sight, smell, sound, touch
 
-**Weather Sphere**–**Talents** Climate, Greater Size, Lengthened Weather
+**Weather Sphere** – **Talents** Climate, Greater Size, Lengthened Weather
 
 - control weather, maximum severity 5, long (1200 ft.), **DC** 26; concentration, 20 minutes with 1 sp
   - Climate; 2 miles, +1 sp
   - Lengthened Weather; 20 hours, +1 sp
 
 **Statistics**
-**Str**12,**Dex**23,**Con**23,**Int**18,**Wis**19,**Cha** 22
-**Base Atk**+10;**CMB**+10;**CMD** 26
+**Str** 12, **Dex** 23, **Con** 23, **Int** 18, **Wis** 19, **Cha** 22
+**Base Atk** +10; **CMB** +10; **CMD** 26
 **Feats** Counterspell, Counterspell Mastery, Greater Counterspell, Improved Counterspell, Improved Initiative, Iron Will, Sphere Focus (Alteration sphere), Sphere Focus (Illusion sphere), Toughness, Weapon Finesse
 **Skills** Bluff +29, Disguise +29, Escape Artist +29, Knowledge (geography) +14, Knowledge (nature) +27, Perception +27, Perform (oratory) +29, Perform (sing) +29, Sense Motive +27, Spellcraft +17, Stealth +33
 **Languages** Aklo, Common, Elven, Sylvan
@@ -124,25 +124,25 @@ Coyote spirits are mighty tricksters, delighting in all manner of deception and 
 This small fey is clad in leaves and has flame-red hair streaked with orange, so bright that you almost miss its backwards feet.
 XP 800
 CN Small fey
-**Init**+7;**Senses**low-light vision;**Perception** +9
+**Init** +7; **Senses** low-light vision; **Perception** +9
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 11 (+3 Dex, +1 dodge, +1 size)
+**AC** 15, **touch** 15, **flat-footed** 11 (+3 Dex, +1 dodge, +1 size)
 **hp** 27 (5d6+10)
-**Fort**+3,**Ref**+7,**Will** +5
+**Fort** +3, **Ref** +7, **Will** +5
 **DR** 3/cold iron
 
 **Offense**
 **Speed** 20 ft., climb 20 ft.
 **Melee** dagger +5 (1d3-2)
 **Ranged** blowgun +5 (1)
-**Space**5 ft.,**Reach** 5 ft.
+**Space** 5 ft., **Reach** 5 ft.
 
 **Magic**
-**Caster Level**5;**MSB**+5,**MSD**16,**Concentration** +7
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 5; **MSB** +5, **MSD** 16, **Concentration** +7
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 7
-**Illusion Sphere**–**Talents** Complex Illusion, Focused Imagination, Suppression; (sensory) Illusionary Odor, Illusionary Sound, Illusionary Touch
+**Illusion Sphere** – **Talents** Complex Illusion, Focused Imagination, Suppression; (sensory) Illusionary Odor, Illusionary Sound, Illusionary Touch
 
 - illusion, close (35 ft.), maximum size Huge (15-ft. cube), DC 14; concentration, 1 sp, sight, smell, sound, touch
   - Complex Illusion; split illusions into separate components, 1 sp
@@ -151,10 +151,10 @@ CN Small fey
 - trick, close (35 ft.), **DC** 14; 5 minutes, sight, smell, sound, touch
 
 **Statistics**
-**Str**6,**Dex**17,**Con**15,**Int**12,**Wis**12,**Cha** 15
-**Base Atk**+3;**CMB**-1;**CMD** 12
+**Str** 6, **Dex** 17, **Con** 15, **Int** 12, **Wis** 12, **Cha** 15
+**Base Atk** +3; **CMB** -1; **CMD** 12
 **Feats** Dodge, Improved Initiative, Weapon Finesse
-**Skills**Acrobatics +11, Bluff +10, Disguise +10, Escape Artist +11, Handle Animal +7, Perception +9, Stealth +19 (+23 in forest)**Racial Bonuses** +4 Stealth in forest
+**Skills** Acrobatics +11, Bluff +10, Disguise +10, Escape Artist +11, Handle Animal +7, Perception +9, Stealth +19 (+23 in forest) **Racial Bonuses** +4 Stealth in forest
 **Languages** Common, Sylvan
 
 **Special Abilities**
@@ -181,29 +181,29 @@ This hated gremlin has jagged teeth and a maw as wide as its head, tattered ribb
 
 XP 800
 CE Tiny fey
-**Init**+3;**Senses**darkvision 120 ft., low-light vision;**Perception** +9
+**Init** +3; **Senses** darkvision 120 ft., low-light vision; **Perception** +9
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 12 (+3 Dex, +2 size)
+**AC** 15, **touch** 15, **flat-footed** 12 (+3 Dex, +2 size)
 **hp** 32 (5d6+15)
-**Fort**+4,**Ref**+7,**Will** +5
-**DR**5/cold iron;**SR** 14
+**Fort** +4, **Ref** +7, **Will** +5
+**DR** 5/cold iron; **SR** 14
 
 **Offense**
 **Speed** 30 ft., climb 20 ft.
 **Melee** bite +7 (1d3-1)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Combat**
-**Martial Tradition**Fey Hooligan (Athletics x2, Scoundrel x2);**PAM** Cha
-**Athletics Sphere**–**Packages**climb, leap, run;**Talents** Close Quarters Training, Expanded Training, Scale Foe, Unwilling Boost
+**Martial Tradition** Fey Hooligan (Athletics x2, Scoundrel x2); **PAM** Cha
+**Athletics Sphere** – **Packages** climb, leap, run; **Talents** Close Quarters Training, Expanded Training, Scale Foe, Unwilling Boost
 
 - Close Quarters Training; can occupy space with another creature with a successful Acrobatics check
 - coordinated movement (withdraw action, regain martial focus)
 - scale foe (climb) (can attempt Climb check vs. CMD to climb, and gain bonuses while on top of target)
 - Unwilling Boost; move action (or expend focus when missed), provoke AoO using Acrobatics to jump in place of AC, +attacker’s Strength score to jump check
 
-**Scoundrel Sphere**–**Talents** Broke And Broken, Improved Grifting, Playing Dirty
+**Scoundrel Sphere** – **Talents** Broke And Broken, Improved Grifting, Playing Dirty
 
 - marked target (swift action, melee touch attack, battered and -2 Perception for 1 round)
 - Playing Dirty; while maintaining martial focus; dirty trick requires standard action to remove
@@ -211,8 +211,8 @@ CE Tiny fey
   - Broke And Broken (trick); after a dirty trick, may attempt steal against same target
 
 **Statistics**
-**Str**8,**Dex**17,**Con**16,**Int**12,**Wis**13,**Cha** 15
-**Base Atk**+2;**CMB**+3 (+10 Dirty Trick and Steal);**CMD** 12 (+14 Dirty Trick and Steal)
+**Str** 8, **Dex** 17, **Con** 16, **Int** 12, **Wis** 13, **Cha** 15
+**Base Atk** +2; **CMB** +3 (+10 Dirty Trick and Steal); **CMD** 12 (+14 Dirty Trick and Steal)
 **Feats** Skill Focus (Use Magic Device)B, Weapon FinesseB (trade 3 feats for martial tradition)
 **Skills** Acrobatics +11, Appraise +6, Climb +19, Escape Artist +11, Perception +9, Sleight of Hand +11, Stealth +19, Use Magic Device +13
 **Languages** Aklo, Undercommon
@@ -237,37 +237,37 @@ This gremlin emerges from the shadows, needle teeth displayed in a rigid grin. O
 
 XP 1,600
 CE Tiny fey
-**Init**+3;**Senses**darkvision 120 ft., low-light vision;**Perception** +9
+**Init** +3; **Senses** darkvision 120 ft., low-light vision; **Perception** +9
 **Aura** fear aura (30 ft.)
 
 **Defense**
-**AC**21,**touch**15,**flat-footed** 18 (+3 Dex, +5 natural, +1 shield, +2 size)
+**AC** 21, **touch** 15, **flat-footed** 18 (+3 Dex, +5 natural, +1 shield, +2 size)
 **hp** 52 (8d6+24)
-**Fort**+5,**Ref**+9,**Will** +7
-**DR**5/cold iron;**SR** 16
+**Fort** +5, **Ref** +9, **Will** +7
+**DR** 5/cold iron; **SR** 16
 
 **Offense**
 **Speed** 30 ft., climb 20 ft.
 **Melee** claw +9 (1d4-1), bite +9 (1d3-1)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Combat**
-**Martial Tradition**Gladiator (Equipment x2, Gladiator 2x);**PAM** Cha
-**Gladiator Sphere**–**Talents** Master Of Fear; (demoralization) Frightful
+**Martial Tradition** Gladiator (Equipment x2, Gladiator 2x); **PAM** Cha
+**Gladiator Sphere** – **Talents** Master Of Fear; (demoralization) Frightful
 
 - boast (immediate action, roll next attack twice and take better)
 - strike fear (standard action, demoralize 30-ft. radius); Master Of Fear (strike fear can be used as a standard action, no longer costs martial focus)
   - Frightful (demoralization); may add +10 to DC to make frightened instead of shaken, +20 for panicked
 
-**Shield Sphere**–**Talents** Bashing Shield, Smashing Counter
+**Shield Sphere** – **Talents** Bashing Shield, Smashing Counter
 
 - bashing shield (using shield to shield bash does not remove shield AC bonus)
 - active defense (AoO, grant self +3 AC plus (deflect) on miss)
   - Smashing Counter (deflect); make shield bash against attacker
 
 **Statistics**
-**Str**8,**Dex**17,**Con**16,**Int**9,**Wis**12,**Cha** 17
-**Base Atk**+4;**CMB**+5;**CMD** 14
+**Str** 8, **Dex** 17, **Con** 16, **Int** 9, **Wis** 12, **Cha** 17
+**Base Atk** +4; **CMB** +5; **CMD** 14
 **Feats** Muscular Reflexes, Weapon FinesseB (Trade 3 feats for martial tradition)
 **Skills** Acrobatics +13, Climb +21, Escape Artist +13, Intimidate +11, Perception +12, Stealth +21
 **Languages** Aklo, Undercommon
@@ -288,33 +288,33 @@ These gremlins delight in the fear of others, treating many other creatures as p
 
 **Small**
 **Init** +2
-**AC**20,**touch**13,**flat-footed** 18 (+2 Dex, +5 natural, +2 shield, +1 size)
+**AC** 20, **touch** 13, **flat-footed** 18 (+2 Dex, +5 natural, +2 shield, +1 size)
 **Ref** +8
 **Melee** claw +7 (1d6+1), bite +7 (1d4+1)
-**Space**5 ft.,**Reach** 5 ft.
-**Str**12,**Dex** 15
-**CMB**+4**CMD** +16
+**Space** 5 ft., **Reach** 5 ft.
+**Str** 12, **Dex** 15
+**CMB** +4 **CMD** +16
 **Skills** Acrobatics +12, Climb +19, Escape Artist +12, Stealth +16
 
 **Medium**
 **Init** +1
-**AC**18,**touch**11,**flat-footed** 17 (+1 Dex, +5 natural, +2 shield)
+**AC** 18, **touch** 11, **flat-footed** 17 (+1 Dex, +5 natural, +2 shield)
 **Ref** +7
 **Melee** claw +6 (1d8+2), bite +6 (1d6+2)
-**Space**5 ft.,**Reach** 5 ft.
-**Str**14,**Dex** 13
-**CMB**+6**CMD** +17
+**Space** 5 ft., **Reach** 5 ft.
+**Str** 14, **Dex** 13
+**CMB** +6 **CMD** +17
 **Skills** Acrobatics +11, Climb +20, Escape Artist +11, Stealth +11
 
 **Large**
 **Init** +0
-**AC**16,**touch**9,**flat-footed** 16 (+5 natural, +2 shield, -1 size)
+**AC** 16, **touch** 9, **flat-footed** 16 (+5 natural, +2 shield, -1 size)
 **hp** 60 (8d6+32)
-**Fort**+6**Ref** +6
+**Fort** +6 **Ref** +6
 **Melee** claw +7 (2d6+4), bite +7 (1d8+4)
-**Space**10 ft.,**Reach** 10 ft.
-**Str**18,**Dex**11,**Con** 18
-**CMB**+9**CMD** +19
+**Space** 10 ft., **Reach** 10 ft.
+**Str** 18, **Dex** 11, **Con** 18
+**CMB** +9 **CMD** +19
 **Skills** Acrobatics +10, Climb +22, Escape Artist +10, Stealth +6
 
 #### Gremlin, Night-stalker (CR 3) [SB:F&F]
@@ -323,25 +323,25 @@ Shrouded in perpetual shadow, this gremlin’s features are difficult to discern
 
 XP 800
 CE Tiny fey
-**Init**+3;**Senses**darkvision 120 ft., low-light vision;**Perception** +9
+**Init** +3; **Senses** darkvision 120 ft., low-light vision; **Perception** +9
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 12 (+3 Dex, +2 size)
+**AC** 15, **touch** 15, **flat-footed** 12 (+3 Dex, +2 size)
 **hp** 37 (5d6+20)
-**Fort**+4,**Ref**+7,**Will** +5
-**DR**5/cold iron;**SR** 14
+**Fort** +4, **Ref** +7, **Will** +5
+**DR** 5/cold iron; **SR** 14
 
 **Offense**
 **Speed** 30 ft., climb 20 ft.
 **Melee** dagger +8 (1d2-1)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 **Special Attacks** sneak attack 3d6
 
 **Magic**
-**Caster Level**5;**MSB**+5,**MSD**16,**Concentration** +7
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 5; **MSB** +5, **MSD** 16, **Concentration** +7
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 9
-**Dark Sphere**–**Talents** Lingering Darkness, Wall Of Darkness; (darkness) Thick Darkness; (meld) Clearsight, Hide In Darkness, Step Through Darkness
+**Dark Sphere** – **Talents** Lingering Darkness, Wall Of Darkness; (darkness) Thick Darkness; (meld) Clearsight, Hide In Darkness, Step Through Darkness
 * darkness, medium (150 ft.), **DC** 14; 20-ft. radius becomes dim light, concentration, 5 min. with 1 sp
 * Lingering Darkness; +2 rounds after dropping concentration
 * Thick Darkness (darkness); darkness becomes difficult terrain, imposes -1 penalty on weapon and damage rolls
@@ -354,8 +354,8 @@ CE Tiny fey
   - Step Through Darkness (meld); teleport 30 ft. from darkness to darkness as move action, 1 sp
 
 **Statistics**
-**Str**8,**Dex**17,**Con**16,**Int**9,**Wis**12,**Cha** 15
-**Base Atk**+2;**CMB**+3;**CMD** 10
+**Str** 8, **Dex** 17, **Con** 16, **Int** 9, **Wis** 12, **Cha** 15
+**Base Atk** +2; **CMB** +3; **CMD** 10
 **Feats** Extra Spell Points, Toughness, Weapon Focus (dagger), Weapon FinesseB
 **Skills** Acrobatics +11, Intimidate +7, Perception +9, Sleight of Hand +11, Stealth +19
 **Languages** Aklo, Undercommon
@@ -377,30 +377,30 @@ Night-stalker gremlins are frightful creatures, bringing darkness with them wher
 Squinty eyes pear at you from behind the glasses clearly made for a larger creature. There is a faint, high chuckle from its throat. It gestures upwards as it pulls a string…
 XP 1,200
 CE Tiny fey
-**Init**+3;**Senses**darkvision 120 ft., low-light vision;**Perception** +10
+**Init** +3; **Senses** darkvision 120 ft., low-light vision; **Perception** +10
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 12 (+3 Dex, +2 size)
+**AC** 15, **touch** 15, **flat-footed** 12 (+3 Dex, +2 size)
 **hp** 39 (6d6+18)
-**Fort**+4,**Ref**+7,**Will** +5
-**DR**5/cold iron;**SR** 15
+**Fort** +4, **Ref** +7, **Will** +5
+**DR** 5/cold iron; **SR** 15
 
 **Offense**
 **Speed** 30 ft., climb 15 ft.
 **Melee** bite +8 (1d3-1)
 **Ranged** dart +8 (1d2-1)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Combat**
-**Martial Tradition**Alchemical Trapper (Alchemy x2, Trap x2);**PAM** Int
-**Alchemy Sphere**–**Packages**formulae;**Talents** Snap Toss; (formulae) Improved Acid Flask, Improved Flash Powder
+**Martial Tradition** Alchemical Trapper (Alchemy x2, Trap x2); **PAM** Int
+**Alchemy Sphere** – **Packages** formulae; **Talents** Snap Toss; (formulae) Improved Acid Flask, Improved Flash Powder
 
 - formulae, DC 15; use Craft (alchemy) +14; can prepare up to 3 (formulae)
   - Improved Acid Flask (formulae); standard action, 3d6 acid damage, half damage to 5-ft. radius, 3 damage to 10-ft. radius, half damage following round
   - Improved Flash Powder (formulae); standard action, 10-ft. radius, Fort save or blind 1 round
 - snap toss (swift action, expend focus to use formulae)
 
-**Trap Sphere**–**Talents** Opportunist, Persistent Trap, Trap Wielder; (dart) Deadly Dart; (snare) Skunk Smoke
+**Trap Sphere** – **Talents** Opportunist, Persistent Trap, Trap Wielder; (dart) Deadly Dart; (snare) Skunk Smoke
 
 - dart, full-round action (standard action while maintaining focus), ranged attack, 40 ft. line, 3d6; or ranged touch w/o base damage using alchemical item or formulae
   - Deadly Dart (dart); dart deals slashing and piercing, 3d8 instead of 3d6, 19–20x3 critical threat piercing
@@ -412,8 +412,8 @@ CE Tiny fey
   - Trap Wielder; can attempt to apply trap directly to target
 
 **Statistics**
-**Str**8,**Dex**17,**Con**16,**Int**15,**Wis**12,**Cha** 9
-**Base Atk**+3;**CMB**+0;**CMD** 11
+**Str** 8, **Dex** 17, **Con** 16, **Int** 15, **Wis** 12, **Cha** 9
+**Base Atk** +3; **CMB** +0; **CMD** 11
 **Feats** Combat Reflexes, Skill Focus (Craft (alchemy)), Skill Focus (Craft (trap)), Weapon FinesseB
 **Skills** Acrobatics +12, Appraise +8, Climb +20, Craft (alchemy) +14, Craft (trap) +14, Escape Artist +12, Perception +10, Sense Motive +10, Sleight of Hand +12, Stealth +20
 **Languages** Aklo, Undercommon
@@ -431,30 +431,30 @@ An ugly creature hangs down from a branch, waving. It has an ugly, wrinkled face
 
 XP 400
 CE Tiny fey
-**Init**+1;**Senses**darkvision 120 ft., low-light vision;**Perception** +5
+**Init** +1; **Senses** darkvision 120 ft., low-light vision; **Perception** +5
 
 **Defense**
-**AC**15,**touch**13,**flat-footed** 14 (+1 Dex, +2 natural, +2 size)
+**AC** 15, **touch** 13, **flat-footed** 14 (+1 Dex, +2 natural, +2 size)
 **hp** 8 (1d6+5)
-**Fort**+2,**Ref**+3,**Will** +3
-**DR**5/cold iron;**SR** 12
+**Fort** +2, **Ref** +3, **Will** +3
+**DR** 5/cold iron; **SR** 12
 
 **Offense**
 **Speed** 20 ft., climb 20 ft.
 **Melee** bite +3 (1d3-2)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Combat**
-**Martial Tradition**Fey Hooligan (Athletics x2, Scoundrel x2);**PAM** Wis
-**Athletics Sphere**–**Packages**run;**Talents** Close Quarters Training
+**Martial Tradition** Fey Hooligan (Athletics x2, Scoundrel x2); **PAM** Wis
+**Athletics Sphere** – **Packages** run; **Talents** Close Quarters Training
 
 - Close Quarters Training; can occupy space with another creature with a successful Acrobatics check Scoundrel Sphere – Talents Playing Dirty
 - marked target (swift action, melee touch attack, battered and -1 Perception for 1 round)
 - Playing Dirty; while maintaining martial focus; dirty trick requires standard action to remove
 
 **Statistics**
-**Str**6,**Dex**13,**Con**14,**Int**12,**Wis**13,**Cha** 11
-**Base Atk**+0;**CMB**-1 (+2 Dirty Trick and Steal);**CMD** 7
+**Str** 6, **Dex** 13, **Con** 14, **Int** 12, **Wis** 13, **Cha** 11
+**Base Atk** +0; **CMB** -1 (+2 Dirty Trick and Steal); **CMD** 7
 **Feats** Skill Focus (Acrobatics), ToughnessB, Weapon FinesseB
 **Skills** Acrobatics +8, Appraise +2, Climb +13, Escape Artist +5, Perception +5, Sleight of Hand +5, Stealth +13, Use Magic Device +4
 **Languages** Aklo, Undercommon
@@ -478,23 +478,23 @@ Tunneler gremlins delight in chaos and destruction, but have more patience than 
 **Gremlin, Tunneler (CR 1)**
 XP 400
 CE Tiny fey
-**Init**+0;**Senses**darkvision 120 ft., low-light vision;**Perception** +5
+**Init** +0; **Senses** darkvision 120 ft., low-light vision; **Perception** +5
 
 **Defense**
-**AC**12,**touch**12,**flat-footed** 12 (+2 size)
+**AC** 12, **touch** 12, **flat-footed** 12 (+2 size)
 **hp** 8 (1d6+5)
-**Fort**+2,**Ref**+2,**Will** +3
-**DR**3/cold iron;**SR** 11
+**Fort** +2, **Ref** +2, **Will** +3
+**DR** 3/cold iron; **SR** 11
 
 **Offense**
 **Speed** 20 ft., burrow 20 ft.
 **Melee** shovel +4 (1d8+3/×3)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 **Special Attacks** break ground, undermine
 
 **Statistics**
-**Str**14,**Dex**11,**Con**14,**Int**11,**Wis**12,**Cha** 11
-**Base Atk**+0;**CMB**+0;**CMD** 10
+**Str** 14, **Dex** 11, **Con** 14, **Int** 11, **Wis** 12, **Cha** 11
+**Base Atk** +0; **CMB** +0; **CMD** 10
 **Feats** Skill Focus (Knowledge (engineering)), Toughness
 **Skills** Climb +6, Craft (traps) +4, Knowledge (engineering) +4, Knowledge (geography) +4, Perception +5, Stealth +12
 **Languages** Aklo, Undercommon
@@ -539,24 +539,24 @@ A small fey dressed in simple skins. He is tossing an improbably large rock to o
 
 XP 800
 CN Small fey
-**Init**+8;**Senses** low-light vision; Perception +9
+**Init** +8; **Senses** low-light vision; Perception +9
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 11 (+4 Dex, +1 size)
+**AC** 15, **touch** 15, **flat-footed** 11 (+4 Dex, +1 size)
 **hp** 32 (5d6+15)
-**Fort**+6,**Ref**+8,**Will** +5
-**Defensive Abilities**rock catching;**DR** 3/cold iron
+**Fort** +6, **Ref** +8, **Will** +5
+**Defensive Abilities** rock catching; **DR** 3/cold iron
 
 **Offense**
 **Speed** 30 ft.
 **Melee** greataxe +5 (1d10+3)
 **Ranged** rock throw +7 (3d6+2)
-**Space**5 ft.,**Reach** 5 ft.
+**Space** 5 ft., **Reach** 5 ft.
 **Special Attacks** rock throwing (60 ft.)
 
 **Statistics**
-**Str**14,**Dex**18,**Con**17,**Int**7,**Wis**12,**Cha** 11
-**Base Atk**+2;**CMB**+3;**CMD** 17
+**Str** 14, **Dex** 18, **Con** 17, **Int** 7, **Wis** 12, **Cha** 11
+**Base Atk** +2; **CMB** +3; **CMD** 17
 **Feats** Great Fortitude, Improved Initiative, Weapon Finesse
 **Skills** Acrobatics +12, Perception +9, Perform (percussion) +10, Stealth +16
 **Languages** Common, Sylvan
@@ -577,23 +577,23 @@ This fey sits, contemplating the crops in a small field planted in a clearing, l
 
 XP 200
 CG Small fey
-**Init**+4;**Senses** low-light vision; Perception +6
+**Init** +4; **Senses** low-light vision; Perception +6
 
 **Defense**
-**AC**11,**touch**15,**flat-footed** 11 (+1 size)
+**AC** 11, **touch** 15, **flat-footed** 11 (+1 size)
 **hp** 9 (2d6+2)
-**Fort**+1,**Ref**+3,**Will** +4
+**Fort** +1, **Ref** +3, **Will** +4
 **DR** 1/cold iron
 
 **Offense**
 **Speed** 30 ft.
 **Melee** dagger +2 (1d3-2)
 **Ranged** shortbow +2 (1d4-2)
-**Space**5 ft.,**Reach** 5 ft.
+**Space** 5 ft., **Reach** 5 ft.
 
 **Statistics**
-**Str**6,**Dex**11,**Con**12,**Int**11,**Wis**12,**Cha** 11
-**Base Atk**+1;**CMB**-2;**CMD** 8
+**Str** 6, **Dex** 11, **Con** 12, **Int** 11, **Wis** 12, **Cha** 11
+**Base Atk** +1; **CMB** -2; **CMD** 8
 **Feats** Improved Initiative
 **Skills** Acrobatics +5, Diplomacy +5, Handle Animal +2, Perception +6, Perform (Percussion) +5, Stealth +9
 **Languages** Common, Sylvan
@@ -620,25 +620,25 @@ More martial than its cousins, the ohdow jogoah holds its bow ready as it examin
 
 XP 800
 NG Small fey
-**Init**+8;**Senses** low-light vision; Perception +9
+**Init** +8; **Senses** low-light vision; Perception +9
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 11 (+4 Dex, +1 size)
+**AC** 15, **touch** 15, **flat-footed** 11 (+4 Dex, +1 size)
 **hp** 27 (5d6+10)
-**Fort**+2,**Ref**+7,**Will** +5
+**Fort** +2, **Ref** +7, **Will** +5
 **DR** 3/cold iron
 
 **Offense**
 **Speed** 30 ft.
 **Melee** greataxe +5 (1d10+3)
 **Ranged** shortbow +7 (1d4)
-**Space**5 ft.,**Reach** 5 ft.
+**Space** 5 ft., **Reach** 5 ft.
 
 **Magic**
-**Caster Level**5;**MSB**+5,**MSD**16,**Concentration** +7
-**Martial Tradition**Natural (none);**CAM** Cha
+**Caster Level** 5; **MSB** +5, **MSD** 16, **Concentration** +7
+**Martial Tradition** Natural (none); **CAM** Cha
 **Spell Points** 11
-**Divination Sphere**–**Talents** (divine) Dowsing; (sense) Ghost Sight, Sense Magic
+**Divination Sphere** – **Talents** (divine) Dowsing; (sense) Ghost Sight, Sense Magic
 • divine, medium (150 ft.), DC 14; (gain information about Magic auras within 150 ft.)
 ◊ Alternate Divinations
 • Fate (Divine Alignment); divine nearby alignment (chosen)
@@ -655,17 +655,17 @@ NG Small fey
 ◊ Serendipity (consecration); +1 luck bonus, concentration, 5 rounds with 1 sp
 • word, close (35 ft.), DC 14
 ◊ Hallow (word); provide protections against opposite alignment, 5 minutes with 1 sp
-**Life Sphere**–**Talents** (cure) Restore Health
+**Life Sphere** – **Talents** (cure) Restore Health
 • cure, touch, DC 14; 1d8+10, 1 sp
 • invigorate, touch, DC 14; 5 temporary hp
 • restore, touch, DC 14; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
 ◊ Restore Health (cure); when restoring body, completely remove exhausted and nauseated; can attempt Magic skill check to remove poison or disease
 
 **Statistics**
-**Str**14,**Dex**18,**Con**17,**Int**12,**Wis**13,**Cha** 15
-**Base Atk**+2;**CMB**+3;**CMD** 17
+**Str** 14, **Dex** 18, **Con** 17, **Int** 12, **Wis** 13, **Cha** 15
+**Base Atk** +2; **CMB** +3; **CMD** 17
 **Feats** Extra Spell Points x2, Improved Initiative
-**Skills**Knowledge (arcana) +6, Knowledge (planes) +6, Knowledge (religion) +6, Perception +9, Perform (percussion) +8, Stealth +16, Survival +9**Racial Modifiers** +8 Survival when tracking aberrations, evil outsiders, and undead.
+**Skills** Knowledge (arcana) +6, Knowledge (planes) +6, Knowledge (religion) +6, Perception +9, Perform (percussion) +8, Stealth +16, Survival +9 **Racial Modifiers** +8 Survival when tracking aberrations, evil outsiders, and undead.
 **Languages** Common, Sylvan
 
 **Special Abilities**
@@ -684,28 +684,28 @@ This green-skinned, turtle-like humanoid has a peculiar, water-filled dish forma
 
 XP 1,600
 CN Small fey (water)
-**Init**+5;**Senses** low-light vision; Perception +14
+**Init** +5; **Senses** low-light vision; Perception +14
 
 **Defense**
-**AC**20,**touch**17,**flat-footed** 19 (+5 Armor, +1 Dex, +3 natural, +1 size)
+**AC** 20, **touch** 17, **flat-footed** 19 (+5 Armor, +1 Dex, +3 natural, +1 size)
 **hp** 60 (8d6+32)
-**Fort**+6,**Ref**+7,**Will** +9
-**Defensive Abilities**unarmored training +5;**DR** 5/cold iron
+**Fort** +6, **Ref** +7, **Will** +9
+**Defensive Abilities** unarmored training +5; **DR** 5/cold iron
 
 **Offense**
 **Speed** 20 ft., Swim 30 ft.
 **Melee** bite +9 (1d4+4), 2 claws +9 (1d4+4)
-**Space**5 ft.,**Reach** 5 ft.
+**Space** 5 ft., **Reach** 5 ft.
 
 **Combat**
-**Martial Tradition**Professional Wrestler (Equipment x1, Gladiator x1, Wrestling x2);**PAM** Wis
-**Gladiator Sphere**–**Talents** Master Of Fear; (demoralization) Coward’s Bane
+**Martial Tradition** Professional Wrestler (Equipment x1, Gladiator x1, Wrestling x2); **PAM** Wis
+**Gladiator Sphere** – **Talents** Master Of Fear; (demoralization) Coward’s Bane
 
 - boast (immediate action, roll next attack twice and take better)
 - strike fear (standard action, demoralize 30-ft. radius; apply (demoralization) to enemies shaken); Master Of Fear (strike fear can be used as a standard action, no longer costs martial focus)
   - Coward’s Bane (demoralization); roll twice vs. demoralized enemies
 
-**Wrestling Sphere**–**Talents** Choke Hold, Greater Grapple, Ground Game, Iron Grip, Shoulder Throw, Talented Tie-up; (slam) Hard Whip
+**Wrestling Sphere** – **Talents** Choke Hold, Greater Grapple, Ground Game, Iron Grip, Shoulder Throw, Talented Tie-up; (slam) Hard Whip
 
 - Choke Hold; grappled enemies are unable to breathe and may begin suffocating
 - Greater Grapple; move action, make grapple attempt
@@ -717,8 +717,8 @@ CN Small fey (water)
 - Talented Tie-Up; DC 14; can grapple at the end of a charge; grappled target must succeed on Reflex or fall prone
 
 **Statistics**
-**Str**19,**Dex**13,**Con**19,**Int**10,**Wis**16,**Cha** 10
-**Base Atk**+4;**CMB**+7 (+10 grapple);**CMD** 18 (21 vs. grapple)
+**Str** 19, **Dex** 13, **Con** 19, **Int** 10, **Wis** 16, **Cha** 10
+**Base Atk** +4; **CMB** +7 (+10 grapple); **CMD** 18 (21 vs. grapple)
 **Feats** Heroic Resolve, Improved Initiative, Muscular Reflexes, Power Attack
 **Skills** Acrobatics +12, Escape Artist +12, Intimidate +8, Knowledge (nature) +11, Perception +14, Stealth +12, Swim +23
 **Languages** Aklo, Common, Sylvan
@@ -742,29 +742,29 @@ Six inches tall, covered in woad and wearing a kilt, with a shock of red hair an
 
 XP 400
 CN Tiny fey
-**Init**+3;**Senses** low-light vision; Perception +5
+**Init** +3; **Senses** low-light vision; Perception +5
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 12 (+3 Dex, +2 size)
+**AC** 15, **touch** 15, **flat-footed** 12 (+3 Dex, +2 size)
 **hp** 8 (1d6+5)
-**Fort**+2,**Ref**+5,**Will** +2; +2 vs. illusions
+**Fort** +2, **Ref** +5, **Will** +2; +2 vs. illusions
 
 **Offense**
 **Speed** 40 ft.
 **Melee** greatsword +6 (1d8+2/19–20), unarmed strike +6 (1d3+4)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Combat**
-**Martial Tradition**Fey Hooligan (Athletics x2, Scoundrel x2);**PAM** Wis
-**Athletics Sphere**–**Packages**run;**Talents** Close Quarters Training
+**Martial Tradition** Fey Hooligan (Athletics x2, Scoundrel x2); **PAM** Wis
+**Athletics Sphere** – **Packages** run; **Talents** Close Quarters Training
 • Close Quarters Training; can occupy space with another creature with a successful Acrobatics check
-**Scoundrel Sphere**–**Talents** Playing Dirty
+**Scoundrel Sphere** – **Talents** Playing Dirty
 • marked target (swift action, melee touch attack, battered and -1 Perception for 1 round)
 • Playing Dirty; while maintaining martial focus; dirty trick requires standard action to remove
 
 **Statistics**
-**Str**18,**Dex**16,**Con**15,**Int**8,**Wis**13,**Cha** 9
-**Base Atk**+0;**CMB**+4 (+5 dirty trick & steal);**CMD** 17
+**Str** 18, **Dex** 16, **Con** 15, **Int** 8, **Wis** 13, **Cha** 9
+**Base Atk** +0; **CMB** +4 (+5 dirty trick & steal); **CMD** 17
 **Feats** Toughness
 **Skills** Acrobatics +7, Escape Artist +7, Perception +5, Sleight of Hand +7, Stealth +15
 **Languages** Common, Sylvan
@@ -793,22 +793,22 @@ A nod, “One hundred years and a day of peace.”
 
 XP 3,200
 LE Medium fey (troop)
-**Init**+5;**Senses** darkvision 120 ft.; low-light vision, Perception +17
+**Init** +5; **Senses** darkvision 120 ft.; low-light vision, Perception +17
 
 **Defense**
-**AC**18,**touch**16,**flat-footed** 12 (+5 Dex, +1 dodge, +2 natural)
+**AC** 18, **touch** 16, **flat-footed** 12 (+5 Dex, +1 dodge, +2 natural)
 **hp** 90 (12d6+48)
-**Fort**+9,**Ref**+13,**Will** +12; +4 saves vs. mind-affecting
-**Defensive Abilities**troop traits;**DR**5/cold iron;**Resist** cold and electricity 10
+**Fort** +9, **Ref** +13, **Will** +12; +4 saves vs. mind-affecting
+**Defensive Abilities** troop traits; **DR** 5/cold iron; **Resist** cold and electricity 10
 
 **Offense**
 **Speed** 40 ft., fly 30 ft. (perfect)
 **Melee** troop (3d6+3)
-**Space**15 ft.,**Reach** 5 ft.
+**Space** 15 ft., **Reach** 5 ft.
 
 **Statistics**
-**Str**17,**Dex**21,**Con**16,**Int**11,**Wis**14,**Cha** 10
-**Base Atk**+6;**CMB**+9;**CMD** 25
+**Str** 17, **Dex** 21, **Con** 16, **Int** 11, **Wis** 14, **Cha** 10
+**Base Atk** +6; **CMB** +9; **CMD** 25
 **Feats** Acrobatic, Dodge, Great Fortitude, Iron Will, Mobility, Toughness
 **Skills** Acrobatics +24, Fly +32, Heal +14, Intimidate +12, Perception +17, Stealth +20
 **Languages** Aklo, Infernal, Sylvan
@@ -855,39 +855,39 @@ Spirit trees have the following abilities:
 
 XP 1,600
 N Huge plant
-**Init**+4;**Senses** low-light vision, plantsight, tremorsense 180 ft.; Perception+16
+**Init** +4; **Senses** low-light vision, plantsight, tremorsense 180 ft.; Perception+16
 
 **Defense**
-**AC**17,**touch**8,**flat-footed** 17 (+9 natural, -2 size)
+**AC** 17, **touch** 8, **flat-footed** 17 (+9 natural, -2 size)
 **hp** 51 (6d8+24)
-**Fort**+9,**Ref**+2,**Will** +5
-**Defensive Abilities**all-around vision;**DR**5/cold iron and slashing;**Immune**plant traits;**Resist** acid, cold, electricity, and force 10
+**Fort** +9, **Ref** +2, **Will** +5
+**Defensive Abilities** all-around vision; **DR** 5/cold iron and slashing; **Immune** plant traits; **Resist** acid, cold, electricity, and force 10
 
 **Offense**
 **Speed** 0 ft.
 **Melee** slam +6 (2d6+6)
-**Space**15 ft.,**Reach** 30 ft.
+**Space** 15 ft., **Reach** 30 ft.
 
 **Magic**
-**Caster Level**6;**MSB**+6,**MSD**17,**Concentration** +9
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 6; **MSB** +6, **MSD** 17, **Concentration** +9
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 11
-**Life Sphere**–**Talents** (cure) Restore Health
+**Life Sphere** – **Talents** (cure) Restore Health
 • cure, touch, DC 16; 1d8+12, 1 sp
 • invigorate, touch, DC 16; 6 temporary hp
 • restore, touch, DC 16; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
 ◊ Restore Health (cure); when restoring body, completely remove exhausted and nauseated; can attempt a magic skill check to remove poison or disease
-**Nature Sphere**–**Packages**plant;**Talents** (geomancing) Create Nature
+**Nature Sphere** – **Packages** plant; **Talents** (geomancing) Create Nature
 • geomancing, close (40 ft.), DC 16, concentration or 6 rounds w/ 1 sp
 ◊ Plant (Entangle, Harvest, Pummel)
 ◊ Create Nature (create one Large-sized tree or fields of plants with 10-ft. radius (including edible food), 1 sp)
-**Weather Sphere**–**Talents** Cold Lord, Heat Lord, Rain Lord, Storm Lord x2, Wind Lord
+**Weather Sphere** – **Talents** Cold Lord, Heat Lord, Rain Lord, Storm Lord x2, Wind Lord
 • control weather, maximum severity 4 (except Aridity, 3), medium (160 ft.), up to 80-ft. radius safe zone (except for Aridity), DC 16; concentration, 6 minutes with 1 sp
 ◊ Storm Lord (control lightning bolt once per round)
 
 **Statistics**
-**Str**19,**Dex**-,**Con**19,**Int**16,**Wis**16,**Cha** 11
-**Base Atk**+4;**CMB**+10;**CMD** 20 (30 against any movement, cannot be tripped)
+**Str** 19, **Dex** -, **Con** 19, **Int** 16, **Wis** 16, **Cha** 11
+**Base Atk** +4; **CMB** +10; **CMD** 20 (30 against any movement, cannot be tripped)
 **Feats** Combat Casting, Extra Spell Points, Improved Initiative Skills Diplomacy +6, Knowledge (geography) +6, Knowledge (nature) +6, Perception +16, Sense Motive +9. Spirit trees gain a +10 circumstance bonus to disguise themselves as regular trees.
 **Languages** Sylvan, speak with plants
 **SQ** spirit tree traits
@@ -896,41 +896,41 @@ N Huge plant
 
 XP 3,200
 N Gargantuan plant
-**Init**+4;**Senses** low-light vision, plantsight, tremorsense 180 ft.; Perception +18
+**Init** +4; **Senses** low-light vision, plantsight, tremorsense 180 ft.; Perception +18
 
 **Defense**
-**AC**15,**touch**6,**flat-footed** 15 (+9 natural, -4 size)
+**AC** 15, **touch** 6, **flat-footed** 15 (+9 natural, -4 size)
 **hp** 76 (8d8+40)
-**Fort**+10,**Ref**+2,**Will** +5
-**Defensive Abilities**all-around vision;**DR**5/cold iron and slashing;**Immune**plant traits;**Resist** acid, cold, electricity, and force 10
+**Fort** +10, **Ref** +2, **Will** +5
+**Defensive Abilities** all-around vision; **DR** 5/cold iron and slashing; **Immune** plant traits; **Resist** acid, cold, electricity, and force 10
 
 **Offense**
 **Speed** 0 ft.
 **Melee** slam +8 (3d6+9)
-**Space**20 ft.,**Reach** 40 ft.
+**Space** 20 ft., **Reach** 40 ft.
 
 **Magic**
-**Caster Level**8;**MSB**+8,**MSD**19,**Concentration** +11
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 8; **MSB** +8, **MSD** 19, **Concentration** +11
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 13
-**Life Sphere**–**Talents** Mass Healing, Ranged Healing; (cure) Restore Health
+**Life Sphere** – **Talents** Mass Healing, Ranged Healing; (cure) Restore Health
 Mass Healing; 1 sp, increase number of targets by 4
 • cure, close (45 ft.), DC 17; 1d8+16, 1 sp
 • invigorate, close (45 ft.), DC 17; 8 temporary hp
 • restore, touch, DC 17; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
 ◊ Restore Health (cure); when restoring body, completely remove exhausted and nauseated; can attempt a magic skill check to remove poison or disease
-**Nature Sphere**–**Packages**plant;**Talents** (geomancing) Create Nature
+**Nature Sphere** – **Packages** plant; **Talents** (geomancing) Create Nature
 • geomancing, close (40 ft.), DC 17, concentration or 8 rounds w/ 1 sp
 ◊ Plant (Entangle, Harvest, Pummel)
 ◊ Create Nature (create one Large-sized tree or fields of plants with 10-ft. radius (including edible food), 1 sp)
-**Weather Sphere**–**Talents** Cold Lord, Heat Lord, Rain Lord, Storm Lord x2, Wind Lord
+**Weather Sphere** – **Talents** Cold Lord, Heat Lord, Rain Lord, Storm Lord x2, Wind Lord
 • control weather, maximum severity 5 (Aridity 4), medium (180 ft.), up to 80-ft. radius safe zone (except for Aridity), DC 17; concentration, 8 minutes with 1 sp
 ◊ Severe Weather (increase severity by 1, 1 sp)
 ◊ Storm Lord (control lightning bolt once per round)
 
 **Statistics**
-**Str**23,**Dex**-,**Con**19,**Int**17,**Wis**16,**Cha** 14
-**Base Atk**+6;**CMB**+16;**CMD** 26 (36 against any movement, cannot be tripped)
+**Str** 23, **Dex** -, **Con** 19, **Int** 17, **Wis** 16, **Cha** 14
+**Base Atk** +6; **CMB** +16; **CMD** 26 (36 against any movement, cannot be tripped)
 **Feats** Combat Casting, Extra Spell Points, Improved Initiative, Toughness
 **Skills** Diplomacy +10, Knowledge (geography) +11, Knowledge (nature) +11, Perception +18, Sense Motive +11. Spirit trees gain a +10 circumstance bonus to disguise themselves as regular trees.
 **Languages** Aklo, Common, Elven, Sylvan, speak with plants
@@ -940,40 +940,40 @@ Mass Healing; 1 sp, increase number of targets by 4
 
 XP 6,400
 N Colossal plant
-**Init**+4;**Senses** low-light vision, plantsight, tremorsense 180 ft.; Perception +20
+**Init** +4; **Senses** low-light vision, plantsight, tremorsense 180 ft.; Perception +20
 
 **Defense**
-**AC**11,**touch**2,**flat-footed** 11 (+9 natural, -8 size)
+**AC** 11, **touch** 2, **flat-footed** 11 (+9 natural, -8 size)
 **hp** 115 (10d6+70)
-**Fort**+13,**Ref**+3,**Will** +6
-**Defensive Abilities**all-around vision;**DR**5/cold iron and slashing;**Immune**plant traits;**Resist** acid, cold, electricity, and force 10
+**Fort** +13, **Ref** +3, **Will** +6
+**Defensive Abilities** all-around vision; **DR** 5/cold iron and slashing; **Immune** plant traits; **Resist** acid, cold, electricity, and force 10
 
 **Offense**
 **Speed** 0 ft.
 **Melee** slam +7 (4d6+12)
-**Space**25 ft.,**Reach** 50 ft.
+**Space** 25 ft., **Reach** 50 ft.
 
 **Magic**
-**Caster Level**10;**MSB**+10,**MSD**21,**Concentration** +13
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 10; **MSB** +10, **MSD** 21, **Concentration** +13
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 17
-**Life Sphere**–**Talents** Mass Healing, Ranged Healing; (cure) Restore Health, Restore Spirit
+**Life Sphere** – **Talents** Mass Healing, Ranged Healing; (cure) Restore Health, Restore Spirit
 Mass Healing; 1 sp, increase number of targets by 5
 • cure, close (50 ft.), DC 18; 1d8+30, 1 sp
 • invigorate, close (50 ft), DC 18; 10 temporary hp
 • restore, close (50 ft.), DC 18; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
 ◊ Restore Health (cure); when restoring body, completely remove exhausted and nauseated; can attempt a magic skill check to remove poison or disease
 ◊ Restore Spirit (cure); when restoring soul, completely remove all ability damage and drain to 1 ability score and cure 3 temporary negative levels or suppress 3 permanent negative levels
-**Nature Sphere**–**Packages**plant;**Talents** Ranged Geomancy; (geomancing) Create Nature, Elevated Nature
+**Nature Sphere** – **Packages** plant; **Talents** Ranged Geomancy; (geomancing) Create Nature, Elevated Nature
 • geomancing, medium (200 ft.), DC 18, concentration or 10 rounds w/ 1 sp
 ◊ Plant (Entangle, Harvest, Pummel)
 ◊ Create Nature (create one Huge-sized tree or fields of plants with 15-ft. radius (including edible food), 1 sp)
-**Weather Sphere**–**Talents** Cold Lord, Heat Lord, Rain Lord, Severe Weather, Storm Lord x2, Wind Lord
+**Weather Sphere** – **Talents** Cold Lord, Heat Lord, Rain Lord, Severe Weather, Storm Lord x2, Wind Lord
 • control weather, maximum severity 5 (Aridity 4), medium (200 ft.), up to 80-ft. radius safe zone (except for Aridity), DC 18; concentration, 10 minutes with 1 sp
 
 **Statistics**
-**Str**27,**Dex**-,**Con**23,**Int**18,**Wis**17,**Cha** 14
-**Base Atk**+7;**CMB**+23;**CMD** 33 (43 against any movement, cannot be tripped)
+**Str** 27, **Dex** -, **Con** 23, **Int** 18, **Wis** 17, **Cha** 14
+**Base Atk** +7; **CMB** +23; **CMD** 33 (43 against any movement, cannot be tripped)
 **Feats** Combat Casting, Extra Spell Points x2, Improved Initiative, Toughness
 **Skills** Diplomacy +12, Knowledge (geography) +14, Knowledge (history) +14, Knowledge (nature) +14, Perception +20, Sense Motive +13. Spirit trees gain a +10 circumstance bonus to disguise themselves as regular trees.
 **Languages** Aklo, Common, Elven, Gnome, Sylvan, speak with plants
@@ -983,24 +983,24 @@ Mass Healing; 1 sp, increase number of targets by 5
 
 XP 38,400
 N Colossal plant
-**Init**+4;**Senses** low-light vision, plantsight, tremorsense 180 ft.; Perception +32
+**Init** +4; **Senses** low-light vision, plantsight, tremorsense 180 ft.; Perception +32
 
 **Defense**
-**AC**11,**touch**2,**flat-footed** 11 (+9 natural, -8 size)
+**AC** 11, **touch** 2, **flat-footed** 11 (+9 natural, -8 size)
 **hp** 172 (15d6+105)
-**Fort**+17,**Ref**+5,**Will** +9
-**Defensive Abilities**all-around vision;**DR**5/cold iron and slashing;**Immune**plant traits;**Resist** acid, cold, electricity, and force 10
+**Fort** +17, **Ref** +5, **Will** +9
+**Defensive Abilities** all-around vision; **DR** 5/cold iron and slashing; **Immune** plant traits; **Resist** acid, cold, electricity, and force 10
 
 **Offense**
 **Speed** 0 ft.
 **Melee** slam +13 (4d6+15)
-**Space**30 ft.,**Reach** 60 ft.
+**Space** 30 ft., **Reach** 60 ft.
 
 **Magic**
-**Caster Level**15;**MSB**+15,**MSD**26,**Concentration** +19
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 15; **MSB** +15, **MSD** 26, **Concentration** +19
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 25
-**Life Sphere**–**Talents** Break Enchantment, Mass Healing, Ranged Healing, Resurrection, Resuscitate; (cure) Restore Capacity, Restore Health, Restore Senses, Restore Spirit Mass Healing; 1 sp, increase number of targets by 7
+**Life Sphere** – **Talents** Break Enchantment, Mass Healing, Ranged Healing, Resurrection, Resuscitate; (cure) Restore Capacity, Restore Health, Restore Senses, Restore Spirit Mass Healing; 1 sp, increase number of targets by 7
 • cure, close (60 ft.), DC 21; 1d8+75, 1 sp
 ◊ Resuscitate; dead creatures can be healed within 1 round
 • invigorate, close (60 ft), DC 21; 15 temporary hp
@@ -1010,20 +1010,20 @@ N Colossal plant
 ◊ Restore Senses (cure); when restoring mind, remove confused and frightened and panicked as well as all temporary or a magical removal of senses; if using sanity, heal 1d4 sanity damage
 ◊ Restore Spirit (cure); when restoring soul, completely remove all ability damage and drain to 1 ability score and cure 4 temporary negative levels or suppress 4 permanent negative levels
 ◊ Resurrection (1 minute, restore target to life, 3 sp)
-**Nature Sphere**–**Packages**plant;**Talents** Ranged Geomancy; (geomancing) Create Nature, Elevated Nature, Rapid Growth
+**Nature Sphere** – **Packages** plant; **Talents** Ranged Geomancy; (geomancing) Create Nature, Elevated Nature, Rapid Growth
 • geomancing, medium (250 ft.), DC 21, concentration or 15 rounds w/ 1 sp
 ◊ Plant (Entangle, Harvest, Pummel)
 ◊ Create Nature (create one Gargantuan-sized tree or fields of plants with 20-ft. radius (including edible food), 1 sp)
 ◊ Rapid Growth (1/2 mile radius, change terrain, improve forest, improve yield, 3 sp)
-**Weather Sphere**–**Talents** Climate, Cold Lord, Greater Size, Heat Lord, Rain Lord, Storm Lord x2, Wind Lord
+**Weather Sphere** – **Talents** Climate, Cold Lord, Greater Size, Heat Lord, Rain Lord, Storm Lord x2, Wind Lord
 • control weather, maximum severity 5 (Aridity 4), long (1000 ft.), up to 80-ft. radius safe zone (except for Aridity), DC 21; concentration, 15 minutes with 1 sp
 ◊ Climate (2 miles, 1 sp)
 ◊ Severe Weather (increase severity by 1, 1 sp)
 ◊ Storm Lord (control lightning bolt once per round)
 
 **Statistics**
-**Str**30,**Dex**-,**Con**23,**Int**19,**Wis**19,**Cha** 14
-**Base Atk**+11;**CMB**+29;**CMD** 39 (49 against any movement, cannot be tripped)
+**Str** 30, **Dex** -, **Con** 23, **Int** 19, **Wis** 19, **Cha** 14
+**Base Atk** +11; **CMB** +29; **CMD** 39 (49 against any movement, cannot be tripped)
 **Feats** Combat Casting, Extra Spell Points x3, Great Fortitude, Improved Initiative, Skill Focus (Perception), Toughness
 **Skills** Diplomacy +17, Knowledge (geography) +19, Knowledge (history) +19, Knowledge (nature) +19, Perception +32, Sense Motive +19. Spirit trees gain a +10 circumstance bonus to disguise themselves as regular trees.
 **Languages** Aklo, Common, Elven, Gnome, Sylvan, speak with plants
@@ -1042,32 +1042,32 @@ What appeared to be a lost girl suddenly vanishes, reappearing as a tall creatur
 
 XP 2,400
 CE Large fey (augmented humanoid, giant)
-**Init**+4;**Senses** darkvision 60 ft., low-light vision, scent; Perception +8
+**Init** +4; **Senses** darkvision 60 ft., low-light vision, scent; Perception +8
 
 **Defense**
-**AC**17,**touch**13,**flat-footed** 13 (+4 Dex, +4 natural, -1 size)
+**AC** 17, **touch** 13, **flat-footed** 13 (+4 Dex, +4 natural, -1 size)
 **hp** 63 (6d8+36); regeneration 5 (acid or fire)
-**Fort**+11,**Ref**+4,**Will** +1; +4 saves vs. mind-affecting
-**DR**5/cold iron;**Resist** cold and electricity 10
+**Fort** +11, **Ref** +4, **Will** +1; +4 saves vs. mind-affecting
+**DR** 5/cold iron; **Resist** cold and electricity 10
 
 **Offense**
 **Speed** 30 ft., 45 ft. fly (good)
 **Melee** bite +7 (1d8+4), 2 claws +7 (1d6+4)
-**Space**10 ft.,**Reach** 10 ft.
+**Space** 10 ft., **Reach** 10 ft.
 **Special Attacks** rend (2 claws, 1d6+6)
 
 **Magic**
-**Caster Level**3;**MSB**+6,**MSD**17,**Concentration** +6
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 3; **MSB** +6, **MSD** 17, **Concentration** +6
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 6
-**Illusion Sphere**–**Talents** Suppression; (sensory) Illusory Odor, Illusionary Sound, Illusionary Touch
+**Illusion Sphere** – **Talents** Suppression; (sensory) Illusory Odor, Illusionary Sound, Illusionary Touch
 • illusion, close (30 ft.), maximum size Large (10-ft. cube), DC 11; concentration, 1 sp, sight, sound, touch
 ◊ Suppression (glamer); choose one sense (sight) +3 circumstance bonus to Stealth when observed, no armor check penalty to Stealth; (sound) sniping penalty reduced by 3; (touch) targets of melee attacks need to pass DC 13 - points of damage dealt to notice attacks, +3 circumstance bonus to pick pockets; (smell) targets tracking by scent take -3 on Perception and Survival
 • trick, close (30 ft.), DC 11, 3 minutes, sight, smell, sound, touch
 
 **Combat**
-**Martial Tradition**Butcher (Berserker x3, Lancer x1);**PAM** Con
-**Berserker Sphere**–**Talents** Bloody Counter, Rending Claws
+**Martial Tradition** Butcher (Berserker x3, Lancer x1); **PAM** Con
+**Berserker Sphere** – **Talents** Bloody Counter, Rending Claws
 • berserking (free action, -2 AC to gain +7 temporary hit points for 1 round)
 • bloody claws (immediate action, allow an attack to automatically hit you to make a free attack)
 • brutal strike (special attack, hit targets are battered for 4 rounds; expend martial focus +12 damage)
@@ -1076,8 +1076,8 @@ CE Large fey (augmented humanoid, giant)
 • impale (attack action w/ -2 penalty; battered, and hinders spellcasting; ending impale inflicts 1d6 bleed damage)
 
 **Statistics**
-**Str**19,**Dex**18,**Con**23,**Int**10,**Wis**9,**Cha** 10
-**Base Atk**+4;**CMB**+9;**CMD** 21
+**Str** 19, **Dex** 18, **Con** 23, **Int** 10, **Wis** 9, **Cha** 10
+**Base Atk** +4; **CMB** +9; **CMD** 21
 **Feats** 3 feats traded for martial tradition
 **Skills** Acrobatics +13, Bluff +9, Disguise +9, Fly +15, Perception +8, Stealth +9
 **Languages** Aklo, Giant
@@ -1097,48 +1097,48 @@ As you approach the nymph queen’s picnic, the squirrels and rabbits suddenly b
 
 XP 1,600
 N Medium fey (augmented human) Conscript 5
-**Init**+5;**Senses** low-light vision; Perception +8
+**Init** +5; **Senses** low-light vision; Perception +8
 
 **Defense**
-**AC**21,**touch**19,**flat-footed** 16 (+4 armor, +5 Dex, +2 shield)
+**AC** 21, **touch** 19, **flat-footed** 16 (+4 armor, +5 Dex, +2 shield)
 **hp** 32 (5d10+5)
-**Fort**+5,**Ref**+9,**Will** +3
-**Defensive Abilities**unarmored training +4;**DR**5/cold iron;**Resist** cold and electricity 10, +4 saves vs. mind-affecting
+**Fort** +5, **Ref** +9, **Will** +3
+**Defensive Abilities** unarmored training +4; **DR** 5/cold iron; **Resist** cold and electricity 10, +4 saves vs. mind-affecting
 
 **Offense**
 **Speed** 40 ft., 60 ft. fly (good)
 **Melee** long spear +11 1d8+5
-**Space**5 ft.,**Reach** 10 ft. (20 with patrol)
+**Space** 5 ft., **Reach** 10 ft. (20 with patrol)
 
 **Magic**
-**Caster Level**2;**MSB**+5,**MSD**16,**Concentration** +6
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 2; **MSB** +5, **MSD** 16, **Concentration** +6
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 3
-**Fallen Fey Sphere**–**Talents** Greater Fey-Link; (fey-blessing) Fade, Unthreatening Form
+**Fallen Fey Sphere** – **Talents** Greater Fey-Link; (fey-blessing) Fade, Unthreatening Form
 • fey-link, self, DC 12; (count as fey, 20 minutes, 2 hours with 1 sp)
 ◊ Fade (fey-blessing); concealment from opponents you flank, expend for Stealth check while observed, 1 sp
 ◊ Unthreatening Form (fey-blessing); take the shape of a diminutive or tiny animal, ends on attack or casting, 1 sp
 
 **Combat**
-**Martial Tradition**Phalanx Soldier (Equipment x3, Shield x1);**PAM** Cha
-**Equipment Sphere**-**Talents** Finesse Fighting, Shield Training, Spear Dancer, Unarmored Training
+**Martial Tradition** Phalanx Soldier (Equipment x3, Shield x1); **PAM** Cha
+**Equipment Sphere** - **Talents** Finesse Fighting, Shield Training, Spear Dancer, Unarmored Training
 • Finesse Fighting; use Dexterity in place of Strength for light & finesse weapons
 • Spear Dancer; spears and polearms are finesse and 1-handed)
-**Guardian Sphere**-**Packages**challenge, patrol;**Talents** Cold Iron Call, Defend Other, Expanded Guardian, Iron Wall, Swift Guardian
+**Guardian Sphere** - **Packages** challenge, patrol; **Talents** Cold Iron Call, Defend Other, Expanded Guardian, Iron Wall, Swift Guardian
 • challenge (swift, 5 rounds, target takes -3 att & 20% miss vs. others, +2 vs. you)
 ◊ Cold Iron Call; challenged target’s spell effects take challenge penalty on DC if not targeting you
 ◊ Defend Other; immediate, move up to half speed and ally gets +2 AC
 • delay damage (no action, delay 15 damage or 15 caster levels of spell effects until end of next turn)
 ◊ Cold Iron Call; can delay spell effects, damage equal to caster level of effect
 • patrol (standard, +10 reach until start of next turn, may move up to 1/2 speed to make AOO, attacks against allies other than self take 20% miss chance (50% is also target of challenge))
-**Shield Sphere**-**Talents** Cover Ally, Sacrificial Shield
+**Shield Sphere** - **Talents** Cover Ally, Sacrificial Shield
 • active defense (AOO, gain +3 AC against attack)
 ◊ Cover Ally; can use active defense on ally within reach
 • Sacrificial Shield; immediate, successful attack against you deals damage to shield
 
 **Statistics**
-**Str**13,**Dex**20,**Con**13,**Int**10,**Wis**10,**Cha** 13
-**Base Atk**+5;**CMB**+6;**CMD** 21
+**Str** 13, **Dex** 20, **Con** 13, **Int** 10, **Wis** 10, **Cha** 13
+**Base Atk** +5; **CMB** +6; **CMD** 21
 **Feats** Combat Reflexes, Extra Combat Talent, Iron Will
 **Skills** Acrobatics +13, Fly +17, Perception +8, Sense Motive +8
 **Languages** Aklo, Sylvan

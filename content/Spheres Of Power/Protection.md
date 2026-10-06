@@ -86,7 +86,7 @@ When you spend a spell point to make a ward last without concentration, it lasts
 
 You may apply an aegis or succor to an object as if it were a creature. If you possess the magic sink talent, you may apply an aegis to a non-instantaneous magical effect which is not targeting a creature or object (such as a Protection sphere barrier, a Warp sphere looped space, or a Destruction sphere energy sphere) as if it were a creature.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Glyph
 
@@ -128,11 +128,11 @@ When using an aegis, you may spend an additional spell point to affect an additi
 
 Whenever you use a (succor) talent that sacrifices an aegis, you may instead spend two spell points in place of sacrificing the aegis.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Reactive Barrier [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 When you create a barrier, you may spend a spell point or increase the casting time by one step (usually from a standard to a full-round action) to allow the barrier to react to damage.
 
@@ -350,7 +350,7 @@ As an immediate action, you may dismiss an aegis on a target to allow them to re
 
 When a creature with an aegis you created becomes the target of an attack or sphere effect, you may spend a spell point and sacrifice an aegis they are bearing as an immediate action to attempt to counterspell an effect on the attacker. You attempt a magical skill check against the magical skill defense of whatever created the magical effect, ending the effect on a success. You may end an effect you have identified, otherwise the ended effect is determined randomly.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Punishment (succor)
 
@@ -388,7 +388,7 @@ When creating a Spell Ward, you may spend an additional spell point to improve t
 
 Whenever you create an item using a magic sphere effect (or when you create any sphere effect, if you possess the Magic Sink talent), you may spend an additional spell point to apply an aegis to that effect as part of creating it.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Complex Glyph
 
@@ -408,7 +408,7 @@ A complex glyph uses your caster level with the sphere of the sphere ability to 
 
 When you attempt a magic skill check using negation, you may dispel one additional effect for every 5 caster levels you possess.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Mobile Ward [Alienist HB]
 
@@ -424,7 +424,7 @@ When you move, you may have any ward that you have cast move so that it remains 
 
 When you create a glyph, you may place multiple glyphs in the same location as part of a single casting, paying the spell points necessary for all of them (to a maximum number of glyphs equal to 2 + 1 per 5 caster levels you possess in a single casting). No more than one of these glyphs may be activated on a single turn.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Permanent Ward
 
@@ -442,7 +442,7 @@ The glyph always has an initiative equal to its caster level and does not roll a
 
 When you use Spell Selectivity to affect one or more specific spheres or schools of magic (rather than nullify all except a chosen number of spheres), you may select individual talents or feats which require casting in place of spheres. If a specific talent is affected, all talents and feats which require that talent as a prerequisite are also affected
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Planar Refuge (aegis, ward) [RW HB]
 
@@ -466,7 +466,7 @@ You may grant the target an aegis that makes them immune to ability damage and a
 
 You may create a glyph as a standard action rather than using the normal casting time.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Spell-Eater (aegis) [3PP]
 
@@ -474,7 +474,7 @@ You may create a glyph as a standard action rather than using the normal casting
 
 You may spend 3 spell points to create an aegis that absorbs magic effects on attackers. Whenever a creature attacks a target bearing this aegis, the attacker has one effect on it counterspelled as if by the negation succor (you still attempt a magic skill check as normal). The attacker chooses the effect to be dispelled. This effect can only apply once per creature per round and is not affected by Improved Negation.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Spell Selectivity [DbH]
 

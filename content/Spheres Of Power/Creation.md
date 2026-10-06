@@ -219,7 +219,7 @@ Additionally, you may create non-harmful objects directly on a creature. An unwi
 
 #### Transmuting Strike [strike] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 As a standard action, you may make a single weapon attack in conjunction with using an alter effect. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the alter. If using a scatter weapon, the alter only applies to a single target, chosen at the time of attack.
 
@@ -235,7 +235,7 @@ You may spend a spell point to alter an object, changing its composition from on
 
 #### Crack (alter) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 You may spend a spell point to disrupt the ground around you. This is an instantaneous effect, and cannot be dispelled once finished. You can only affect materials you can create (i.e., you must possess the Expanded Materials talent to work with materials other than vegetable matter). You cause terrain in a 10-foot radius to suddenly crack and break, making the squares difficult terrain. This radius increases by 5 feet per 5 caster levels. A square can be cleared as a standard action, which provokes an attack of opportunity, or repaired with a spell or effect such as the Repair ability of the Creation sphere to no longer be difficult terrain. If a square would be made of a mineral (stone, metals, gems, etc.), the radius you may affect is reduced by half.
 
@@ -483,7 +483,7 @@ When you use the Duplicate talent to create a duplicate of a creature, you may c
 
 #### Internal Creation [Apoc]
 
-**Source:** [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
 **Prerequisites:** Creation sphere (Distant Creation [range], Potent Alteration).
 

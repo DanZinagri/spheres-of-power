@@ -12,21 +12,21 @@ This titanic sea serpent is impossibly long, with endless coils covered in fins 
 **Midgard Serpent (CR 30/MR 10)**
 XP 9,830,400
 N Colossal dragon (aquatic, kaiju, mythic)
-**Init**+3/–17, dual initiativeMA;**Senses** blindsight 60 ft., darkvision 600 ft., keen scent, low-light vision, mistsightMA, scent, true seeing; Perception +50
+**Init** +3/–17, dual initiativeMA; **Senses** blindsight 60 ft., darkvision 600 ft., keen scent, low-light vision, mistsightMA, scent, true seeing; Perception +50
 **Aura** frightful presence (300 ft., DC 35, 10 rounds)
 
 #### Defense
 
-**AC**47,**touch**6,**flat-footed** 43 (+3 Dex, +1 dodge, +41 natural, –8 size)
+**AC** 47, **touch** 6, **flat-footed** 43 (+3 Dex, +1 dodge, +41 natural, –8 size)
 **hp** 884 (32d12+676); fast healing 30
-**Fort**+36,**Ref**+23,**Will** +25
-**Defensive Abilities**eater of magicMA, ferocity, freedom of movement; DR 20/epic;**Immune**ability damage, ability drain, acid, cold, death effects, disease, energy drain, fear, paralysis, poison, and sleep, kaiju traits;**Resist**electricity 30, fire 30, negative energy 30, sonic 30;**SR** 46
+**Fort** +36, **Ref** +23, **Will** +25
+**Defensive Abilities** eater of magicMA, ferocity, freedom of movement; DR 20/epic; **Immune** ability damage, ability drain, acid, cold, death effects, disease, energy drain, fear, paralysis, poison, and sleep, kaiju traits; **Resist** electricity 30, fire 30, negative energy 30, sonic 30; **SR** 46
 
 #### Offense
 
 **Speed** swim 100 ft.
 **Melee** bite +40 (8d6+16/19–20 plus grab and poison), tail slap +35 (6d6+24/19–20 plus constricting coils)
-**Space**60 ft.;**Reach** 60 ft. (120 ft. with tail slap)
+**Space** 60 ft.; **Reach** 60 ft. (120 ft. with tail slap)
 **Special Attacks** breath weapon (60-ft. cone, 10d8 acid damage and 10d8 cold damage plus poison, Reflex DC 44 for half, usable every 1d4 rounds), capsize, constrict (tail, 8d6+28), constricting coils, crushing coils, death curse, fast swallow, feast of minnowsMA, god-eaterMA, hurl foe, lingering breathMA (4d6 acid and 4d6 cold, 10 rounds), shipwrecker, stormy seasMA, swallow whole (8d6+16 plus 3d6 acid damage, 3d6 cold damage, and poison, AC 30, 88 hp), tail sweep, twilight of doomMA, virulent venomMA
 
 **Spell-Like Abilities** (CL 30th; concentration +34)
@@ -36,10 +36,10 @@ Constant—freedom of movement, true seeing
 
 #### Statistics
 
-**Str**43,**Dex**16,**Con**46,**Int**3,**Wis**24,**Cha** 29
-**Base Atk**+32;**CMB**+58 (+62 grapple);**CMD** 71 (can’t be tripped)
+**Str** 43, **Dex** 16, **Con** 46, **Int** 3, **Wis** 24, **Cha** 29
+**Base Atk** +32; **CMB** +58 (+62 grapple); **CMD** 71 (can’t be tripped)
 **Feats** Blinding Critical, CleaveMF, Combat ReflexesMF, Critical Focus, Dodge, Great Cleave, Greater Vital Strike, Improved Critical (bite), Improved Critical (tail slap), Improved Vital Strike, Inescapable GraspMF, Lightning Reflexes, Mobility, Power AttackMF, Sickening Critical, Swim-By Attack, Vital StrikeMF
-**Skills**Perception +50, Stealth +21, Swim +28;**Racial Modifiers** +8 Perception
+**Skills** Perception +50, Stealth +21, Swim +28; **Racial Modifiers** +8 Perception
 **Languages** Aquan, Giant (can’t speak)
 **SQ** elusive, massive, noxious breathMA, poisonous bloodMA, recovery
 
@@ -61,7 +61,7 @@ If the check succeeds, the target is grappled as above and takes automatic damag
 
 **Death Curse (Su)** When a creature slays the Midgard Serpent, all creatures that have harmed the Midgard Serpent within the previous minute are affected by the curse of doom.
 
-*Curse of Doom:* **save**Will DC 35;**effect** creature is affected as prediction of failureUM and can no longer be affected by healing spells nor heal damage naturally from rest. The save DC is Charisma-based.
+*Curse of Doom:* **save** Will DC 35; **effect** creature is affected as prediction of failureUM and can no longer be affected by healing spells nor heal damage naturally from rest. The save DC is Charisma-based.
 
 **Eater of Magic (Su)** When the Midgard Serpent fails a saving throw against a spell, supernatural ability, or spell-like ability, it can reroll the saving throw against the effect (this is not an action). If it succeeds at the second saving throw, it is not affected by the spell, supernatural ability, or spell-like ability and gains a number of temporary hit points equal to the effect’s caster level (in the case of spell or spell-like abilities) or the CR of the effect’s creator (in the case of supernatural abilities). These temporary hit points last for 1 minute. The Midgard Serpent can use this ability once per day, and may gain additional uses per day by spending one use of its mythic power each time it activates this ability.
 
@@ -71,7 +71,7 @@ If the check succeeds, the target is grappled as above and takes automatic damag
 
 **Noxious Breath (Su)** Creatures damaged by the Midgard Serpent’s breath weapon (including its lingering breath) are also exposed to its poison, though the diffusion of its poison in its breath reduces the save DC by 10 (or by 20 for creatures that do not need to breathe). Creatures swallowed by the Midgard Serpent are also exposed to its poison each round they remain within its gullet.
 
-**Poison (Ex)**Bite─injury;**save**Fort DC 44;**frequency**1/round for 10 rounds;**effect**3d6 acid damage and 3d6 cold damage and 2d4 Con drain;**cure** 3 consecutive saves.
+**Poison (Ex)** Bite─injury; **save** Fort DC 44; **frequency** 1/round for 10 rounds; **effect** 3d6 acid damage and 3d6 cold damage and 2d4 Con drain; **cure** 3 consecutive saves.
 
 **Shipwrecker (Ex)** The Midgard Serpent deals double damage to inanimate objects with its attacks.
 

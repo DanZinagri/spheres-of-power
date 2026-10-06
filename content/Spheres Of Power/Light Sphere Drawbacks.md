@@ -11,49 +11,49 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Flexible Lens
+#### Flexible Lens
 
 You cannot create a Telescope lens. You must choose a (lens) talent with the bonus talent gained from this drawback.
 
 **Incompatible:** Light Focus
 
-## Glowing Brew
+#### Glowing Brew
 
 You must select the Instill Glow talent with the bonus talent granted by this drawback, and you can only use your Light sphere abilities through this talent.
 
 **Incompatible:** Nimbus Focus, Roving Glow, Touch Of Light
 
-## Lens Focus
+#### Lens Focus
 
 You cannot create glow effects.
 
 **Incompatible:** Light Focus, Nimbus Focus, Roving Glow, Subtle Light, Touch Of Light
 
-## Light Focus
+#### Light Focus
 
 You cannot create lenses.
 
 **Incompatible:** Flexible Lens, Lens Focus
 
-## Nimbus Focus
+#### Nimbus Focus
 
 You may only cause your glows to shed light in a specific shape. You must select a (nimbus) talent with the bonus talent granted by this drawback, and must always apply that (nimbus) talent to your glows. You may not select any other (nimbus) talents.
 
 **Incompatible:** Glowing Brew, Lens Focus
 
-## Roving Glow
+#### Roving Glow
 
 You cannot place glow effects on objects or creatures. You must select the Dancing Lights talent with the bonus talent gained from this drawback.
 
 **Incompatible:** Glowing Brew, Lens Focus, Touch Of Light
 
-## Subtle Light
+#### Subtle Light
 
 You must select the Black Light talent as the bonus talent gained from this drawback, and must use this talent on every glow you create.
 
 **Incompatible:** Lens Focus
 
-## Touch Of Light
+#### Touch Of Light
 
 You cannot cause objects or creatures to glow as a ranged touch attack, nor create lenses at a range greater than touch. You cannot take Ranged Light, and you may only apply Solar Strike to melee attacks.
 

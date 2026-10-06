@@ -202,7 +202,7 @@ An envoy can choose one of the following fortes at 1st level. It grants a skill 
 
 ### Allure [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 These envoys are often found to be the ‘queen bee’ of a group, acting as a source of inspiration in many forms to those around them.
 
@@ -632,7 +632,7 @@ The envoy chooses a single Charisma-, Intelligence-, or Wisdom-based skill when 
 
 #### Fragment Consciousness (Su) [3PP]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 Whenever the envoy gains influence over a creature, he can choose to forge a fragment of his own personality within the influenced creature’s mind. A successful Will save negates this (although the creature is unaware of the attempt), and makes them immune against subsequent attempts made by the envoy for the next 24 hours, although he can spend 1 use of skill leverage to ignore this limit when using this ability.
 
@@ -664,7 +664,7 @@ The envoy can spend a standard action to allow a single creature within 60 feet 
 
 #### Established Fragment (requires fragment consciousness) (Su) [3PP]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 When the envoy concentrates on a fragment, he can also telepathically communicate with the creature, as well as form a visible construct that only the creature can see. The appearance of the construct can vary to the envoy’s whims, but must remain within one size category of him. The construct otherwise functions as an illusion, which can be ‘disbelieved’ (against his forte sphere DC) to force the construct away and making the envoy unable to concentrate on that creature’s fragment for 1 hour. The construct can only be detected through means that read the creature’s thoughts.
 
@@ -694,7 +694,7 @@ The envoy can spend 1 use of skill leverage when gaining influence over a creatu
 
 #### Razor-Sharp Wit (requires the Rapid Retort flair) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 The envoy is considered to be armed as long as he can speak, although he must use his dispiriting words class feature for attacks of opportunity attempted this way. The envoy can apply a [phrase] to this use of dispiriting words by outwitting the creature as a cost or expending his influence over the creature.
 
@@ -734,7 +734,7 @@ The following flairs require you to be 15th level in the envoy class.
 
 #### Echo Made Reality (requires established fragment, fragment consciousness) (Su) [3PP]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 Whenever the envoy has a visible construct active within a creature’s mind, they can remove the fragment of consciousness as a standard action to teleport to the same space that the construct is located within (as long as it is on the same plane as the envoy). For 1 minute thereafter, the envoy can choose to return to the square he was in before he teleported as a standard action.
 
@@ -744,7 +744,7 @@ Whenever the envoy has a visible construct active within a creature’s mind, th
 
 #### Inspiriting Words [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Sometimes, an envoy prefers to encourage and incite their allies, instead of disparaging their enemies. This functions as dispiriting words, except that it makes a creature inspirited for 1 minute; changing the penalties usually granted to an equal bonus to checks using the chosen ability score (and to the DC to affect them with skills of the chosen ability score).
 

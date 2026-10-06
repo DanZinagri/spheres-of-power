@@ -11,13 +11,13 @@ parent: "[[Mythic Creatures (O)]]"
 XP 1,600
 Pathfinder Roleplaying Game Bestiary (gray ooze)
 N Medium ooze (mythic)
-**Init**–5;**Senses** blindsight 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 60 ft.; Perception –5
 
 #### Defense
 
-**AC**7,**touch**5,**flat-footed** 7 (–5 Dex, +2 natural)
+**AC** 7, **touch** 5, **flat-footed** 7 (–5 Dex, +2 natural)
 **hp** 70 (4d8+52)
-**Fort**+10,**Ref**–4,**Will** –4
+**Fort** +10, **Ref** –4, **Will** –4
 **Defensive Abilities** **Immune** cold, fire, ooze traits
 
 #### Offense
@@ -28,8 +28,8 @@ N Medium ooze (mythic)
 
 #### Statistics
 
-**Str**16,**Dex**1,**Con**28,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+3;**CMB**+6 (+10 grapple);**CMD** 11 (can’t be tripped)
+**Str** 16, **Dex** 1, **Con** 28, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +3; **CMB** +6 (+10 grapple); **CMD** 11 (can’t be tripped)
 **Feats** Extra Mythic Power
 **SQ** absorptive camouflageMA, caustic trailMA, transparent
 

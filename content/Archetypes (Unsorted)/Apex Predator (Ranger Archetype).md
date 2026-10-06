@@ -9,33 +9,33 @@ updated: 2020-07-08
 
 The apex predator may be close to nature, but he also dominates it, through his use of tools and weapons. He understands nature, but the wilds are a skill set, and do not define him.
 
-### Proficiencies
+## Proficiencies
 
 An apex predator is proficient with simple weapons, as well as light armor and bucklers. In addition, if this is the character’s first level in any class, he selects a martial tradition of his choice.
 
 This alters weapon and armor proficiencies.
 
-### Casting
+## Casting
 
 An apex predator may combine spheres and talents to create magical effects. An apex predator is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature, wild empathy, and endurance.
 
-### Spell Pool
+## Spell Pool
 
 The apex predator gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his class level + his casting ability modifier. This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 An apex predator gains a magic talent at 2nd level and every 2 levels thereafter.
 
-### Combat Training (Ex)
+## Combat Training (Ex)
 
 The apex predator is considered a Proficient practitioner, gaining spheres and talents as appropriate. Apex predators use Wisdom as their practitioner modifier.
 
 This replaces all combat style feats.
 
-### Wilderness Scout
+## Wilderness Scout
 
 At 1st level, the apex predator gains the Scout sphere as a bonus sphere, or a talent from that sphere if he possesses it already. When using his scout ability, he may substitute a Survival check for the appropriate Knowledge check at a -5 penalty. At 8th level, he no longer takes a -5 penalty.
 

@@ -30,6 +30,6 @@ This penal facility is usually guarded by boundfuries. If so, then the creature 
 
 **Subdue (Su):** If dealing nonlethal damage a boundfury’s attacks (including special attacks) deal an additional +2d6 points of non-lethal damage.
 
-**Abilities:** Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD),**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Wis**+4 (+2 to Will saves, +2 to Heal, Perception, Profession, Sense Motive and Survival checks),**Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to the DC of Pain and any of the base creature’s Strength-based DCs )
+**Abilities:** Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD), **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Wis** +4 (+2 to Will saves, +2 to Heal, Perception, Profession, Sense Motive and Survival checks), **Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to the DC of Pain and any of the base creature’s Strength-based DCs )
 
 **Skills:** +10 insight bonus to Heal checks

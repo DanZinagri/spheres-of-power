@@ -104,7 +104,7 @@ In addition, you may forgo selecting an additional trigger in favor of self defe
 
 #### Prizefighter [Apoc]
 
-**Source:** [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
 When you ready a counter punch, you can decide on an additional trigger for your prepared attack.
 
@@ -163,7 +163,7 @@ Whenever you successfully attack with your counter punch, you may attempt to gra
 
 #### Disarming Jab (counter) [Apoc]
 
-**Source:** [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
 Whenever you successfully attack with your counter punch, you can make a disarm attempt against the target as a free action which does not provoke attacks of opportunity. If you successfully disarm the target, you may automatically pick up the item dropped if you have an empty hand, even if you used a weapon to disarm the target.
 
@@ -176,7 +176,7 @@ In addition, you gain the following new triggers to choose from when you ready a
 
 #### Dizzying Maul (counter) [Apoc]
 
-**Source:** [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
 Whenever you successfully attack with your counter punch, you throw the target off balance. If the target attempts to move greater than half its speed during its next turn, the target must succeed at an Acrobatics check with a DC equal to your Boxing sphere DC or fall prone.
 

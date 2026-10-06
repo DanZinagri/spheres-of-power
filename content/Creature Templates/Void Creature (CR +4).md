@@ -20,7 +20,7 @@ Some monsters possess the power of darkness, projecting it like light, creating 
 
 **AC:** The void creature gains a deflection bonus equal to its Charisma modifier (if positive). It loses the base creature’s natural armor bonus, as well as all armor and shield bonuses not from force effects or ghost touch items (which are difficult to hold, see disintegrating touch).
 
-**Defensive Abilities:** A void creature retains all of the defensive abilities of the base creature save those that rely on a corporeal form to function. It gains elemental traits, fast healing 1, and incorporeal;**Immune**bleed, critical hits, disintegrate, paralysis, poison, sleep effects, sneak attack, stunning;**Resist** acid, cold, electricity, fire, sonic 10 (increases to 20 at CR 7, and 30 at CR 11); SR 11 + CR
+**Defensive Abilities:** A void creature retains all of the defensive abilities of the base creature save those that rely on a corporeal form to function. It gains elemental traits, fast healing 1, and incorporeal; **Immune** bleed, critical hits, disintegrate, paralysis, poison, sleep effects, sneak attack, stunning; **Resist** acid, cold, electricity, fire, sonic 10 (increases to 20 at CR 7, and 30 at CR 11); SR 11 + CR
 
 **Speed:** Void creatures lose their previous speeds and gain a fly speed of 30 feet (perfect), unless the base creature has a higher fly speed.
 
@@ -38,6 +38,6 @@ All creatures in the area of effect can hold their breath as a free action at th
 
 Freedom of movement has no affect against a vortex as this is normal movement, and movement caused by the vortex does not provoke attacks of opportunity.
 
-**Abilities:** Increase the base creature's abilities as follows:**Dex**+4 (+2 to ranged attacks; AC and touch AC, initiative, and Ref saves, +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs),**Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs); as an incorporeal creature, a void creature has no Strength score.
+**Abilities:** Increase the base creature's abilities as follows: **Dex** +4 (+2 to ranged attacks; AC and touch AC, initiative, and Ref saves, +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs), **Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs); as an incorporeal creature, a void creature has no Strength score.
 
 **Skills:** Fly becomes a class skill and the void creature gains a number of bonus skill ranks in Fly equal to its HD.

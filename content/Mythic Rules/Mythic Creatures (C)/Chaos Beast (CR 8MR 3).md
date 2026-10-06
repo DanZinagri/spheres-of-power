@@ -13,26 +13,26 @@ This thing is a horrid mass of barbed tentacles, glaring eyes, and gnashing teet
 XP 4,800
 Pathfinder Roleplaying Game Bestiary 2
 CN Medium outsider (chaotic, extraplanar, mythic)
-**Init**+6;**Senses** darkvision 60 ft.; Perception +13
+**Init** +6; **Senses** darkvision 60 ft.; Perception +13
 
 #### Defense
 
-**AC**22,**touch**12,**flat-footed** 20 (+2 Dex, +10 natural)
+**AC** 22, **touch** 12, **flat-footed** 20 (+2 Dex, +10 natural)
 **hp** 106 (9d10+57)
-**Fort**+9,**Ref**+8,**Will** +4
-**Defensive Abilities**amorphous, resistant to transformation; DR 5/ epic;**SR** 21
+**Fort** +9, **Ref** +8, **Will** +4
+**Defensive Abilities** amorphous, resistant to transformation; DR 5/ epic; **SR** 21
 
 #### Offense
 
 **Speed** 20 ft.
 **Melee** 4 claws +15 (1d6+4/17-20/×3 plus corporeal instability)
-**Space**5 ft.;**Reach** 10 ft.
+**Space** 5 ft.; **Reach** 10 ft.
 **Special Attacks** awful appendagesMA, mythic power (3/day, surge +1d6), rendMA (2 claws, 1d6+6)
 
 #### Statistics
 
-**Str**19,**Dex**15,**Con**16,**Int**10,**Wis**12,**Cha** 11
-**Base Atk**+9;**CMB**+12;**CMD** 25 (can’t be tripped)
+**Str** 19, **Dex** 15, **Con** 16, **Int** 10, **Wis** 12, **Cha** 11
+**Base Atk** +9; **CMB** +12; **CMD** 25 (can’t be tripped)
 **Feats** Combat Reflexes, Improved Critical (claw)MF, Improved Initiative, Power Attack, Weapon Focus (claw)MF
 **Skills** Acrobatics +14 (+10 jump), Climb +16, Escape Artist +14, Perception +13, Stealth +14, Swim +16
 
@@ -46,7 +46,7 @@ CN Medium outsider (chaotic, extraplanar, mythic)
 
 **Awful Appendages (Ex)** A mythic chaos beast has more control over its natural weaponry than its non-mythic counterparts. It has natural reach of 10 feet and can select a different damage type—bludgeoning, piercing, or slashing—for any claw as a free action. Each claw threatens a critical on a 19 or 20.
 
-**Corporeal Instability (Su)**Claw—contact (curse);**save**Fort DC 19;**effect**amorphous body and 1 Wisdom and Charisma drain per round (see below);**cure** 3 consecutive saves.
+**Corporeal Instability (Su)** Claw—contact (curse); **save** Fort DC 19; **effect** amorphous body and 1 Wisdom and Charisma drain per round (see below); **cure** 3 consecutive saves.
 
 A creature cursed with an amorphous body becomes a spongy, shapeless mass. Unless the victim manages to control the effect (see below), its shape constantly melts, flows, writhes, and boils. An affected creature is unable to hold or use any item. Clothing, armor, helmets, and rings become useless. Large items worn or carried—armor, backpacks, even shirts—hamper more than help, reducing the victim’s Dexterity score by 4. Speed is reduced to 10 feet or one-quarter normal, whichever is less. The victim gains the amorphous quality, but cannot cast spells or use magic items, and it attacks blindly, unable to distinguish friend from foe (–4 penalty on attack rolls and a 50% miss chance, regardless of the attack roll).
 

@@ -9,27 +9,27 @@ updated: 2020-01-30
 
 When a heart full of rage meets blood filled with magic, a mystic scion is created. Rage is their weapon of choice, and magic makes them stronger.
 
-### Casting
+## Casting
 
 The mystic scion may combine spheres and talents to create magical effects. The mystic scion is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature, bloodline spells, and the Eschew Materials bonus feat.
 
-### Spell Pool
+## Spell Pool
 
 A mystic scion gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talent
+## Magic Talent
 
 A mystic scion gains one magic talent at 4th level and every 2 levels thereafter.
 
-### Fast Movement
+## Fast Movement
 
 The mystic scion does not gain this ability until 2nd level.
 
 This alters fast movement.
 
-### Bloodrage
+## Bloodrage
 
 At 1st level, the mystic scion gains the unchained barbarian’s rage ability. This counts as the unchained barbarian’s rage class features for the purpose of feat prerequisites, feat abilities, magic item abilities, and spell effects.
 
@@ -37,7 +37,7 @@ If the mystic scion would acquire a rage power via any means, he may choose an u
 
 This alters bloodrage.
 
-### Ragespell
+## Ragespell
 
 At 2nd level, the mystic scion begins to harness the destructive magics within them. He gains the Destruction sphere with the Energy Focus drawback (which grants him a bonus (blast type) talent). If he possesses this sphere from another source, he gains another Destruction talent of his choice.
 
@@ -45,25 +45,25 @@ The mystic scion chooses a damage type. Whenever he uses a Destruction sphere ab
 
 This replaces uncanny dodge and improved uncanny dodge.
 
-### Blood Casting
+## Blood Casting
 
 At 4th level, the mystic scion gains the ability to use sphere abilities even while bloodraging. He can also cast these sphere abilities defensively and can attempt concentration checks while bloodraging.
 
 This alters blood casting.
 
-### Greater Bloodrage
+## Greater Bloodrage
 
 At 11th level, the mystic scion gains the unchained barbarian’s greater rage ability. In addition, upon entering a bloodrage, the mystic scion can use a sphere ability on himself as a free action. The sphere ability affects only the mystic scion or his equipment. If the sphere ability can be maintained with concentration, the mystic scion does not need to begin concentration until his bloodrage ends. The mystic scion must pay the normal spell point costs of the ability.
 
 This alters greater bloodrage.
 
-### Tireless Bloodrage
+## Tireless Bloodrage
 
 At 17th level, the mystic scion gains the unchained barbarian’s tireless rage ability.
 
 This alters tireless bloodrage.
 
-### Mighty Bloodrage
+## Mighty Bloodrage
 
 At 20th level, the mystic scion gains the unchained barbarian’s mighty rage ability. In addition, upon entering a bloodrage, the mystic scion can use two sphere abilities on himself.
 

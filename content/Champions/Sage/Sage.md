@@ -520,8 +520,8 @@ The following magical items are especially appropriate for sages.
 
 #### Law Of Averages [TS:WAT]
 
-**Aura**faint Fate;**CL** 4th
-**Slot**none;**Price**8,000 gp;**Weight** 1 lb.
+**Aura** faint Fate; **CL** 4th
+**Slot** none; **Price** 8,000 gp; **Weight** 1 lb.
 
 This light metal disc bears an icon of a balanced scale. When held by a creature with the meditation class feature, that creature may choose to spend one of their meditation dice to add 3 to any roll they could use meditation dice on instead of rolling the dice to determine the bonus. Creatures with similar class features (such as the investigator’s inspiration class feature) may benefit from this item as if it were worded to apply to their class feature. If the class feature uses a dice greater than a d6, this item’s effect changes to add the average of that dice (rounded down) instead of adding 3. For example, a d8 meditation-type effect would result in adding 4.
 
@@ -530,8 +530,8 @@ Craft Apparatus, Fate sphere (Temperance (motif)); **Cost** 4,000 gp
 
 #### Scroll Of Wisdom [TS:WAT]
 
-**Aura**moderate Mana;**CL** 10th
-**Slot**none;**Price**10,000 gp;**Weight** 3 lbs.
+**Aura** moderate Mana; **CL** 10th
+**Slot** none; **Price** 10,000 gp; **Weight** 3 lbs.
 
 This heavy scroll is capped by two metal discs on the end. When studied by a creature with the esotery class feature for one hour, that creature gains the benefits of one ki power from the unchained monk list, treating their levels in the class that gave them the esotery class feature as their monk level for all purposes. This scroll cannot teach any ki power the user does not meet the prerequisites for. The ki power taught by a scroll of wisdom must be determined when the item is crafted, and the user retains knowledge of it until the next time they regain spell points normally. A creature cannot benefit from more than one scroll of wisdom at a time, and studying a new scroll replaces the effects of the previous one. Classes that gain ki powers (such as the unchained monk, but not classes that can spend options like rogue talents to acquire ki powers from another class) can also use this item.
 
@@ -540,8 +540,8 @@ Craft Apparatus, Mana sphere, each of the ki powers added to the scroll, creator
 
 #### Straps Of The Sage [TS:WAT]
 
-**Aura**faint Mana;**CL** 3rd
-**Slot**hands;**Price**12,000 gp;**Weight** 2 lbs.
+**Aura** faint Mana; **CL** 3rd
+**Slot** hands; **Price** 12,000 gp; **Weight** 2 lbs.
 
 These cloth straps are embroidered with words of wisdom from the text of a great sage. While worn around the hands, the straps of the sage allow a creature to apply metamagic effects to the chi gong class feature, as if the chi gong was a sphere effect. With this item, the sage may use metamagic apparatusesTS or similar magical items, class abilities, and other effects that provide metamagic on their chi gong, not just metamagic feats.
 

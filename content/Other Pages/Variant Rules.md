@@ -35,7 +35,7 @@ A quick way to build a champion class from a standard class with the combat trai
 
 ## Optional System—Comfort [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Elements of survival, recuperation, and personal maintenance can be difficult to bring to life at a standard table without unique mechanics bogging down gameplay or such systems being far too niche or circumstantial to be relevant. The Comfort system has been designed as a lightweight, unintrusive ruleset that integrates with the preexisting rules for natural healing and rest with minimal alterations.
 
@@ -286,28 +286,28 @@ A Champion is a skilled but unremarkable 3rd-level character of a class (or comb
 
 **Initiate**
 **Earnings** gp, Influence, or Magic +4
-**Create**2 Goods, 2 Influence, 2 Labor, 4 Magic (540 gp);**Time** 3 days
+**Create** 2 Goods, 2 Influence, 2 Labor, 4 Magic (540 gp); **Time** 3 days
 **Size** 1 person
 **Upgrades** To Champion, Spherecaster
 An Initiate is a newly-trained spherecaster with basic understanding of magic, serviceable for a variety of tasks. An Initiate is typically a 1st-level character of any class that possesses a casting tradition. They possess 50 gp worth of equipment.
 
 **Martial Adept**
 **Earnings** gp, Influence, or Labor +7
-**Create**5 Goods, 4 Influence, 8 Labor (380 gp);**Time** 6 days
+**Create** 5 Goods, 4 Influence, 8 Labor (380 gp); **Time** 6 days
 **Size** 3 people
 **Upgrades** From Recruits
 A Martial Adepts team consists of 3rd-level characters of any class (or combination of classes) that grants a martial tradition (but not a casting tradition). They possess 200 gp worth of weapons and armor.
 
 **Recruits**
 **Earnings** gp, Influence, or Labor +5
-**Create**2 Goods, 2 Influence, 5 Labor (200 gp);**Time** 2 days
+**Create** 2 Goods, 2 Influence, 5 Labor (200 gp); **Time** 2 days
 **Size** 3 people
 **Upgrades** To Martial Adepts
 Recruits are trained in a variety of martial disciplines and may serve as guards, foot soldiers, or any other duties which require basic combat training. They are typically 1st-level characters of any class that grants a martial tradition (but not a casting tradition) and possess 100 gp worth of weapons and armor.
 
 **Spherecaster**
 **Earnings** gp, Influence, or Magic +7
-**Create**3 Goods, 3 Influence, 2 Labor, 8 Magic (990 gp);**Time** 7 days
+**Create** 3 Goods, 3 Influence, 2 Labor, 8 Magic (990 gp); **Time** 7 days
 **Size** 1 person
 **Upgrades** From Apprentice
 A Spherecaster is a 3rd-level character of a class (or combination of classes) that possesses a casting tradition. They possess 100 gp worth of equipment.
@@ -353,7 +353,7 @@ Table: Wealth by Level in New Currencies details the amount of Arcus or Nobile t
 
 ## Inspired Deckbuilding [3PP]
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
 In a game where GMs or players are more interested in improvising their abilities rather than preparing them ahead of time, characters with the Card Casting drawback may lose the ability to create spell cards when regaining spell or stamina points to instead gain Sparking Printer as a bonus feat. A character using this rule has no minimum deck size and may remove cards created through Sparking Printer from their deck whenever they rest to regain spell or stamina points.
 
@@ -585,7 +585,7 @@ Researchers of the ancient phenomenon known as ley lines have, over the course o
 #### Ley Line, Genesis
 
 The caster shapes planar energies and imprints these energies with their own subconscious. Upon completion, the resulting ley line is formed, bonding to the terrain.
-**Sphere**Creation and Mana;**Ritual Level** 9
+**Sphere** Creation and Mana; **Ritual Level** 9
 **Casting Time** 2 days
 **Components** S, M (refined, high-grade quartz worth 80,000 gp)
 **Description** This ritual permanently creates a ley line. The ritual’s caster is automatically attuned to this ley line and cannot have their connection severed or dispelled except by deific intervention.
@@ -598,7 +598,7 @@ The caster may cast this ritual again to increase the ley line’s caster level 
 
 #### Ley Line, Locate
 
-**Sphere**Divination;**Ritual Level** 3
+**Sphere** Divination; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** S, M (refined quartz worth 25 gp)
 **Description** This ritual manifests an ephemeral wisp of each ley line within 10 miles whose location is not warded against divination effects. Each wisp is visually similar to the visual characteristics of the ley line it represents. Each wisp lasts for 1 hour, lingering in the location the ritual was cast. Upon examination, each wisp reveals the general direction, distance, and characteristics of the ley line it represents.
@@ -609,7 +609,7 @@ This ritual can be cast at higher levels, increasing the range of this ritual by
 
 #### Ley Line, Suppress
 
-**Sphere**Mana;**Ritual Level** 8
+**Sphere** Mana; **Ritual Level** 8
 **Casting Time** 1 day
 **Components** S, M (refined quartz worth 1,000 gp)
 **Target** 1 ley line
@@ -623,7 +623,7 @@ A suppressed ley line behaves in all ways similar to a ley line that is dispelle
 
 #### Ley Line, Traverse
 
-**Sphere**Warp;**Ritual Level** 4
+**Sphere** Warp; **Ritual Level** 4
 **Casting Time** 1 hour
 **Components** S, M (refined, high-grade quartz worth 150 gp)
 **Target** 1 ley line accessible node.
@@ -800,7 +800,7 @@ The gameplay and mechanical implications of this variant rule are relatively min
 
 ## Skill Talent Exchange [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 If the GM wishes to run a game that encourages the use of skill-based abilities while retaining a focus on combat (or simply wishes to allow more flexibility with skill talents), they can allow a character with a utility talent progression to exchange it for more standard talents.
 
@@ -808,7 +808,7 @@ A character with a skill talent progression can choose to remove their utility t
 
 ## Simple Trade Traditions [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Certain classes are better with skills than others, and although Spheres of Guile was initially intended to maintain this delineation, some GMs may want to use trade traditions as a way of ‘closing the gap’ even more.
 
@@ -853,7 +853,7 @@ The following options are designed to be used in conjunction with sphere fields.
 
 The implement provides an enhancement bonus to all spheres of a specific sphere family, chosen when this special ability is gained.
 
-**Aura**as all spheres within the sphere family;**CL**10th; Craft Implement Of Power, the crafter must have access to all of the spheres to be enhanced;**Cost:** +3 bonus
+**Aura** as all spheres within the sphere family; **CL** 10th; Craft Implement Of Power, the crafter must have access to all of the spheres to be enhanced; **Cost:** +3 bonus
 
 #### Sample Sphere Fields
 
@@ -921,7 +921,7 @@ Certain classes may not be appropriate for this enhanced talent progression if t
 
 ## Utility Talent Exchange [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 If a GM wants to run a more social-leaning game, they can allow a character to exchange standard talents for more utility talents.
 
@@ -929,7 +929,7 @@ A character with a talent progression can exchange 1 standard talent with 2 util
 
 ## Widespread Techniques [3PP]
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
 Certain GMs may wish to encourage players in constructing their own techniques by making the system widespread and easily accessible rather than gating it behind feats. When using Widespread Techniques as a variant rule, the following changes should be made:
 

@@ -10,25 +10,25 @@ parent: "[[Mythic Creatures (I)]]"
 **Incutilis, Mythic (CR 3/MR 1)**
 XP 800
 LE Tiny aberration (aquatic, mythic)
-**Init**+6;**Senses** darkvision 60 ft.; Perception +8
+**Init** +6; **Senses** darkvision 60 ft.; Perception +8
 
 #### Defense
 
-**AC**18,**touch**14,**flat-footed** 16 (+2 Dex, +4 natural, +2 size)
+**AC** 18, **touch** 14, **flat-footed** 16 (+2 Dex, +4 natural, +2 size)
 **hp** 26 (4d8+8)
-**Fort**+1,**Ref**+3,**Will** +5
+**Fort** +1, **Ref** +3, **Will** +5
 
 #### Offense
 
 **Speed** 5 ft., climb 5 ft., swim 60 ft.
 **Melee** 2 tentacles +2 (1d4+2 plus grab)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** ghoulmaster, mythic power (3/day, surge +1d6), paralyzing tendrils
 
 #### Statistics
 
-**Str**15,**Dex**15,**Con**11,**Int**12,**Wis**13,**Cha** 8
-**Base Atk**+3;**CMB**+3 (+7 grapple);**CMD** 15 (can’t be tripped)
+**Str** 15, **Dex** 15, **Con** 11, **Int** 12, **Wis** 13, **Cha** 8
+**Base Atk** +3; **CMB** +3 (+7 grapple); **CMD** 15 (can’t be tripped)
 **Feats** Extra Mythic PowerMF, Improved Initiative, Step Up
 **Skills** Bluff +3, Climb +10, Disguise +3, Perception +8, Stealth +17, Swim +17
 **Languages** Aklo, Aquan; telepathy 30 ft.

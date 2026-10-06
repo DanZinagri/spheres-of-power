@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (D)]]"
 XP 9,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium undead (extraplanar, mythic)
-**Init**+10MF;**Senses** darkvision 60 ft.; Perception +14
+**Init** +10MF; **Senses** darkvision 60 ft.; Perception +14
 
 #### Defense
 
-**AC**25,**touch**13,**flat-footed** 22 (+2 Dex, +1 dodge, +12 natural)
+**AC** 25, **touch** 13, **flat-footed** 22 (+2 Dex, +1 dodge, +12 natural)
 **hp** 155 (10d10+100); fast healing 5
-**Fort**+8,**Ref**+7,**Will** +8
-**Defensive Abilities**DR 10/cold iron and epic;**Immune**electricity, undead traits;**Resist** acid 10, fire 10
+**Fort** +8, **Ref** +7, **Will** +8
+**Defensive Abilities** DR 10/cold iron and epic; **Immune** electricity, undead traits; **Resist** acid 10, fire 10
 **Weaknesses** vulnerable to sunlightMA
 
 #### Offense
@@ -29,10 +29,10 @@ CE Medium undead (extraplanar, mythic)
 
 #### Statistics
 
-**Str**13,**Dex**15,**Con**—,**Int**6,**Wis**13,**Cha** 20
-**Base Atk**+7;**CMB**+8;**CMD** 21
+**Str** 13, **Dex** 15, **Con** —, **Int** 6, **Wis** 13, **Cha** 20
+**Base Atk** +7; **CMB** +8; **CMD** 21
 **Feats** Dodge, Improved InitiativeMF, Lightning ReflexesB, MobilityMF, Toughness, Weapon Focus (slams)
-**Skills**Intimidate +13, Perception +14, Stealth +18;**Racial Modifiers** +8 Stealth
+**Skills** Intimidate +13, Perception +14, Stealth +18; **Racial Modifiers** +8 Stealth
 **Languages** Abyssal, Common
 **SQ** fiendish alacrityMA
 

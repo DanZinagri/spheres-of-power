@@ -7,43 +7,43 @@ updated: 2020-01-31
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Weapon and Armor Proficiency
+## Weapon and Armor Proficiency
 
 Temporal trappers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is his first level in any class, he may select a martial tradition of his choice.
 
 This alters the ranger’s normal weapon and armor proficiencies.
 
-### Blended Training
+## Blended Training
 
 From 1st level on, the temporal trapper gains a talent every two levels. This talent may be spent on either magic talents or combat talents. The temporal trapper is considered a Low-Caster. This counts as the casting class feature. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces wild empathy and the spellcasting rangers normally gain at 4th level.
 
-### Spell Pool
+## Spell Pool
 
 A temporal trapper gains a small reservoir of magical energy he can use to create truly wondrous effects, called a spell pool. This pool contains a number of points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Temporal Trapping
+## Temporal Trapping
 
 The temporal trapper gains the Time sphere and Trap sphere (presented in Spheres of Might) as bonus talents at 1st level.
 
-### Charged Trap (Su)
+## Charged Trap (Su)
 
 From 2nd level on, whenever the temporal trapper places a snare using the Trap sphere, he may spend 1 additional spell point to add an alter time effect to the trap. Any creature who triggers the snare activates the alter time effect; if it is normally a targeted ability, the creature is immediately affected by that ability, though they are allowed a saving throw if appropriate (though they use the Trap sphere DC instead of the Time sphere DC as normal). If the alter time effect normally creates an area effect, the square itself is used as the center of that effect (even if it would normally be centered on the caster) and all creatures within the area are immediately affected by the ability, attempting saves as normal if appropriate. Any alter time effect with a duration longer than instantaneous lasts for 1 round per caster level, regardless of its normal duration, though the temporal trapper may dismiss it on his turn as a free action. If the temporal trapper knows the Temporal Trap talent from the Time sphere, he does not need to spend a spell point when using this ability, though he must pay all other costs of the alter time effect as normal.
 
 This replaces the combat style feat normally gained at 2nd level.
 
-### Charged Dart (Su)
+## Charged Dart (Su)
 
 Whenever the temporal trapper successfully damages an opponent with a dart made using the Trap sphere, he may, as an immediate action, use a single alter time effect against the creature, paying any spell point costs as normal.
 
 This replaces woodland stride.
 
-### Temporal Trapping
+## Temporal Trapping
 
 Beginning at 6th level, whenever the temporal trapper chooses a combat style feat, he may instead choose any talent from the Time or Trap spheres.
 
-### Imprisoning Trap (Su)
+## Imprisoning Trap (Su)
 
 At 20th level, the temporal trapper may spend 5 spell points when placing a snare created with the Trap sphere to imbue it with magical energy capable of imprisoning the creature outside of time itself. Any creature who fails their Reflex saving throw against the snare must immediately succeed at a Will saving throw (DC 10 + 1/2 the temporal trapper’s class level + his Wisdom modifier) or be banished outside the flow of time, placed in a state of eternal temporal stasis. For the creature, time ceases to flow, and its condition becomes fixed. The creature does not grow older. Its body functions virtually cease, and no force or effect can harm it. The creature cannot return to reality under its own power, and can only be restored by another creature returning it to existence with a miracle, wish, Reclamation or a similar effect.
 

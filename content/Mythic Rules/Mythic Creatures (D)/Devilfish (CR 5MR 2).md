@@ -10,26 +10,26 @@ parent: "[[Mythic Creatures (D)]]"
 **Devilfish, Mythic (CR 5/MR 2)**
 XP 1,600
 NE Large magical beast (aquatic, mythic)
-**Init**+3;**Senses** low-light vision, see in darkness; Perception +5
+**Init** +3; **Senses** low-light vision, see in darkness; Perception +5
 
 #### Defense
 
-**AC**19,**touch**12,**flat-footed** 16 (+3 Dex, +7 natural, –1 size)
+**AC** 19, **touch** 12, **flat-footed** 16 (+3 Dex, +7 natural, –1 size)
 **hp** 67 (5d10+40)
-**Fort**+8,**Ref**+7,**Will** +2
-**Defensive Abilities**DR 5/epic;**Resist** cold 10
+**Fort** +8, **Ref** +7, **Will** +2
+**Defensive Abilities** DR 5/epic; **Resist** cold 10
 
 #### Offense
 
 **Speed** 10 ft., swim 40 ft.; jet (240 ft.)
 **Melee** tentacles +7 (3d6+4 plus grab)
-**Space**10 ft.;**Reach** 15 ft.
+**Space** 10 ft.; **Reach** 15 ft.
 **Special Attacks** constrict (3d6+4), mythic power (2/day, surge +1d6), savage bite (+7 melee, 2d6+4/18–20 plus weakening poison), vile blood
 
 #### Statistics
 
-**Str**17,**Dex**17,**Con**18,**Int**3,**Wis**12,**Cha** 8
-**Base Atk**+5;**CMB**+9 (+13 grapple);**CMD** 22 (can’t be tripped)
+**Str** 17, **Dex** 17, **Con** 18, **Int** 3, **Wis** 12, **Cha** 8
+**Base Atk** +5; **CMB** +9 (+13 grapple); **CMD** 22 (can’t be tripped)
 **Feats** Cleave, Combat Reflexes, Power AttackMF
 **Skills** Escape Artist +5, Perception +5, Stealth +3, Swim +16
 **Languages** Abyssal, Aquan, Common
@@ -49,4 +49,4 @@ NE Large magical beast (aquatic, mythic)
 
 **Water Dependency (Ex)** A mythic devilfish can survive out of the water for 1 hour, after which it becomes fatigued. After 2 hours, the mythic devilfish becomes exhausted and begins to suffocate (as described in the Pathfinder Roleplaying Game Core Rulebook).
 
-**Weakening Poison (Ex)**Savage bite—injury;**save**Fort DC 18;**frequency**1/round for 6 rounds;**effect**1d2 Str and staggered for 1 round;**cure** 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.
+**Weakening Poison (Ex)** Savage bite—injury; **save** Fort DC 18; **frequency** 1/round for 6 rounds; **effect** 1d2 Str and staggered for 1 round; **cure** 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.

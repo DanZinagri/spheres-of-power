@@ -227,7 +227,7 @@ At 11th level, the advisor can apply an additional acclimation to creatures that
 
 ### Occultism [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Base of Operations:** The base of operations is lined with special mixtures and wards. Choose a creature type (or subtype in the case of humanoids and outsiders). Creatures of the chosen type as well as undead and outsiders with an alignment subtype suffer a -1 penalty to attack rolls, damage rolls, and saving throws for as long as they remain within your base of operations (or -2 at 11th level). For as long as such a creature is within the base of operations, certain objects and materials begin to glow to denote their presence—this is enough to gauge the rough direction and distance of such a creature, but not any specific location.
 
@@ -346,7 +346,7 @@ The advisor gains the Monitor Movements Communication sphere talent as a bonus t
 
 #### Coordinated Plans [plan] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 An ally can reveal plans on the advisor’s behalf as long as the ally was present when he prepared his plans (and the advisor is willing). The ally can spend any relevant resources of the advisor’s as part of doing so (such as herbs with Pre-emptive Preparation, or Faction sphere authorizations), and can modify the plan with their own abilities.
 

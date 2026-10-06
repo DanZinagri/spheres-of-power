@@ -13,27 +13,27 @@ This amorphous blob of violet energy ripples like a globe of floating liquid. It
 XP 307,200
 Pathfinder Roleplaying Game Bestiary 3 (plasma ooze)
 N Gargantuan ooze (alien, mythic)
-**Init**+2;**Senses** blindsight 60 ft., x-ray visionMA; Perception –5
+**Init** +2; **Senses** blindsight 60 ft., x-ray visionMA; Perception –5
 
 #### Defense
 
-**AC**16,**touch**8,**flat-footed** 14 (+2 Dex, +8 natural, –4 size)
+**AC** 16, **touch** 8, **flat-footed** 14 (+2 Dex, +8 natural, –4 size)
 **hp** 347 (21d8+253)
-**Fort**+15,**Ref**+9,**Will** +2
-**Defensive Abilities**split (slashing or sonic, 46 hp); DR 20/-MA;**Immune**acid, electricity, bludgeoning and piercing damage, ooze traits;**Resist** cold 30
+**Fort** +15, **Ref** +9, **Will** +2
+**Defensive Abilities** split (slashing or sonic, 46 hp); DR 20/-MA; **Immune** acid, electricity, bludgeoning and piercing damage, ooze traits; **Resist** cold 30
 
 #### Offense
 
 **Speed** fly 30 ft. (perfect)
 **Melee** slam +25 (4d6+21 plus 4d6 electricity, 4d6 fire, and grab)
 **Ranged** 1d4 plasma rays +13 (4d6 electricity plus 4d6 fire/19–20/x3MA)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** constrict (4d6+21 plus 4d6 electricity and 4d6 fire), engulf (DC 34, 4d6 electricity and 4d6 fire), focus beamMA, magnetic pulse, magnetic repulsionMA, mythic power (10/day, surge 1d10+1), plasma furnaceMA, power surgeMA
 
 #### Statistics
 
-**Str**38,**Dex**15,**Con**26,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+15;**CMB**+33 (+37 grapple);**CMD** 45
+**Str** 38, **Dex** 15, **Con** 26, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +15; **CMB** +33 (+37 grapple); **CMD** 45
 **Feats** Critical FocusMA, MF, Extra Mythic PowerMF, Potent SurgeMF, ToughnessMA, MF
 **Skills** Fly +4
 **SQ** no breath

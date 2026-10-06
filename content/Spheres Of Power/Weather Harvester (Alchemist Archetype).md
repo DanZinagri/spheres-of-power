@@ -12,13 +12,13 @@ A weather harvester is a researcher into the magical arts who has learned how to
 
 This archetype requires [[Sphere Alchemist|sphere alchemist]].
 
-### Storm-fed
+## Storm-fed
 
 At 1st level, the weather harvester gains Weather as a bonus sphere, or a Weather talent if he already has the Weather sphere, and treats his class level as his caster level for this sphere. This stacks normally with caster levels gained from other sources.
 
 This ability replaces mutagen.
 
-### Create Harvester (Ex)
+## Create Harvester (Ex)
 
 At 1st level a weather harvester gains the unique ability to create devices that channel the awe-inspiring power of weather to create other magical effects. Harvesters are magic items that use the talent-based system and function once per day. The weather harvester need not have the prerequisite base spheres or talents to make the harvester.
 

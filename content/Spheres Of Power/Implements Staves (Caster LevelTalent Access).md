@@ -66,8 +66,8 @@ The following are sample implements that you can use in your games. Players with
 
 ### The Balladeer [TS:WAT]
 
-**Aura**moderate Mind;**CL** 6th
-**Slot**none;**Price**56,000 gp;**Weight** 12 lbs.
+**Aura** moderate Mind; **CL** 6th
+**Slot** none; **Price** 56,000 gp; **Weight** 12 lbs.
 
 This ornate, handheld harp is decorated with carvings of fey creatures singing, and creatures up to 100 feet away can always hear it clearly regardless of other sounds. When first picked up by a creature with experience playing instruments, it may shapeshift into an instrument with their preferred shape and size. In addition to acting as a masterwork tool (granting a +2 circumstance bonus to relevant Perform checks), the balladeer is a +2 Mind implement that grants the Mind sphere Inspiration (charm) talent. As a standard action, a creature holding this item can give allies the effects of the Mind sphere RecommendJHB (charm)’s greater version at caster level 4. This effect lasts for 4 minutes.
 
@@ -78,8 +78,8 @@ Craft Implement Of Power, Craft Marvelous Item, Mind sphere (Inspiration (charm)
 
 ### Battle Banner [TS]
 
-**Aura**faint War;**CL** 3rd
-**Slot**chest;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint War; **CL** 3rd
+**Slot** chest; **Price** 18,000 gp; **Weight** 1 lb.
 
 Battle banners are chest wraps that hold a large banner that sticks out from a pole. These +1 War implements have a single (totem) talent, often one that matches the ideals or fighting style of the group that ordered the banner. Casters in well-equipped military groups often carry these to benefit the soldiers in their squad.
 
@@ -88,8 +88,8 @@ Craft Implement Of Power, War sphere (the (totem) talent used); **Cost** 9,000 g
 
 ### Blaster’s Bracers
 
-**Aura**moderate Destruction;**CL** 6th
-**Slot**wrists;**Price**8,000 gp;**Weight** 1 lb.
+**Aura** moderate Destruction; **CL** 6th
+**Slot** wrists; **Price** 8,000 gp; **Weight** 1 lb.
 
 **Description**
 Each pair of blaster’s bracers are a +1 Destruction implement and are imbued with one (blast shape) talent when created. The wearer may treat this talent as a talent known while wearing the bracers. Both bracers must be worn to have any effect and they require a 24 hours attunement period before use.
@@ -99,8 +99,8 @@ Craft Implement Of Power, Destruction sphere, creator must possess the talent to
 
 ### Cleric’s Ward [TS]
 
-**Aura**faint Fate;**CL** 3rd
-**Slot**none;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Fate; **CL** 3rd
+**Slot** none; **Price** 18,000 gp; **Weight** 1 lb.
 
 Cleric’s wards are sacred relics often used by churches in dangerous regions. These +1 Fate implements have the Undo Harm (consecration) talent, and churches often have acolytes or priests hold and use them to continually support warriors fighting on the front lines. Many cleric’s wards are also holy symbols. While not as favored among experienced adventurers, who take and deal far more damage than a cleric’s ward can handle, many new adventurers and local guards have been saved by these wards more than once.
 
@@ -109,8 +109,8 @@ Craft Implement Of Power, Fate sphere (Undo Harm (consecration)); **Cost** 9,000
 
 ### Cursebreaker [TS]
 
-**Aura**faint Life;**CL** 3rd
-**Slot**varies;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Life; **CL** 3rd
+**Slot** varies; **Price** 18,000 gp; **Weight** 1 lb.
 
 Cursebreakers take many forms, including holy books, bells, and the favored weapon of a deity. These +1 Life implements include the Break Enchantment talent, allowing them to suppress or remove curses and many magical effects that have a duration. Churches in areas plagued by curses often have at least one of these tools in their back room, while adventurers occasionally bring them out on trips to help protect their friends. Cursebreakers rarely have more than a +1 enhancement because only the caster’s actual skill can help break curses, rather than their power with the Life sphere.
 
@@ -119,8 +119,8 @@ Craft Implement Of Power, Life sphere (Break Enchantment); **Cost** 9,000 gp
 
 ### Dimensional Blocker [TS]
 
-**Aura**faint Warp;**CL** 3rd
-**Slot**neck;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Warp; **CL** 3rd
+**Slot** neck; **Price** 18,000 gp; **Weight** 1 lb.
 
 Dimensional blockers are +1 Warp implements with the Plane Manipulator (space) talent, often brought to situations where people suspect interference by outsiders or other creatures capable of teleporting away. Such creatures can be difficult to eradicate if not pinned in place by magic, so groups planning to attack such creatures often give dimensional blockers to their most powerful casters.
 
@@ -129,8 +129,8 @@ Craft Implement Of Power, Warp sphere (Plane Manipulator (space)); **Cost** 9,00
 
 ### Doublet of the Elementalist
 
-**Aura**moderate Destruction and Nature;**CL** 8th
-**Slot**chest;**Price**38,400 gp;**Weight** —
+**Aura** moderate Destruction and Nature; **CL** 8th
+**Slot** chest; **Price** 38,400 gp; **Weight** —
 
 **Description**
 This doublet is crafted from brown/grey wool, with mountain scenery embroidered on its back. It grants the wearer a +3 enhancement bonus to their caster level with both the Nature sphere and the Destruction sphere. Additionally, once per day the wearer can transform themselves into a tree; they can become up to 1 size larger or smaller and lose the ability to take any physical actions but can still think and observe the world around them. They gain hardness 5 and take half damage from energy attacks but gain no increased hit points. They can remain a tree for up to 8 hours at a time, but can return to their normal form as a move action; being a tree for 8 hours counts as resting for the purpose of regaining spell points and other benefits, although the tree-character remains conscious the entire time.
@@ -140,8 +140,8 @@ Craft Implement Of Power, Craft Marvelous Item, Destruction sphere, Nature spher
 
 ### Elemental Attuners [TS]
 
-**Aura**faint Destruction;**CL** 3rd
-**Slot**hands;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Destruction; **CL** 3rd
+**Slot** hands; **Price** 18,000 gp; **Weight** 1 lb.
 
 Elemental attuners are +1 Destruction implements imbued with a single blast type talent, often taking the shape of gloves or gauntlets with a symbol depicting the talent they contain. Each is designed to offer quick and easy access to different blast types for situational needs. Popular choices include Fire Blast, Frost Blast, and Thorn Blast.
 
@@ -150,8 +150,8 @@ Craft Implement Of Power, Destruction sphere (the talent to be granted); **Cost*
 
 ### Ejector [TS]
 
-**Aura**moderate Time;**CL** 12th
-**Slot**none;**Price**128,000 gp;**Weight** 3 lbs.
+**Aura** moderate Time; **CL** 12th
+**Slot** none; **Price** 128,000 gp; **Weight** 3 lbs.
 
 Ejectors are rare and extremely powerful +2 Time implements that include the Mass Time and Ranged Time talents, as well as the Eject (time) talent. Together, these effects grant the ability to instantaneously eject multiple creatures from time and remove them from deadly battles. Some crafters create lesser versions of ejectors that lack the Mass Time talent (reducing its price to 72,000 gp).
 
@@ -160,8 +160,8 @@ Craft Implement Of Power, Time sphere (Eject (time), Mass Time, Ranged Time [ran
 
 ### Energy Grapple
 
-**Aura**moderate Destruction;**CL** 9th
-**Slot**wrists;**Price**16,000 gp;**Weight** 1 lb.
+**Aura** moderate Destruction; **CL** 9th
+**Slot** wrists; **Price** 16,000 gp; **Weight** 1 lb.
 
 **Description**
 These bracers have a projection point just under the wearer’s palms, allowing them to grab strands of coherent energy. While wearing the energy grapple, the wearer gains access to the Energy Tether (blast shape) talent and the Tether Adept feat.
@@ -173,8 +173,8 @@ Craft Implement Of Power, Destruction sphere (Energy Tether (blast shape)), Teth
 
 ### Ghost Staff
 
-**Aura**moderate Death;**CL** 10th
-**Slot**none;**Price**50,000 gp;**Weight** 5 lbs.
+**Aura** moderate Death; **CL** 10th
+**Slot** none; **Price** 50,000 gp; **Weight** 5 lbs.
 
 **Description**
 This long pale staff is a +3 Death implement that also contains the Project Spirit advanced Death talent.
@@ -184,8 +184,8 @@ Craft Implement Of Power, Death sphere (Project Spirit (advanced)); **Cost** 25,
 
 ### Gloves of the Trickster
 
-**Aura**faint Illusion and Telekinesis;**CL** 8th
-**Slot**hands;**Price**20,000 gp;**Weight** —
+**Aura** faint Illusion and Telekinesis; **CL** 8th
+**Slot** hands; **Price** 20,000 gp; **Weight** —
 
 **Description**
 These fingerless white leather gloves are usually form fitting, and slip on with ease. While worn separately, they grant the wearer either a +1 enhancement bonus to caster level with the Illusion or Telekinesis spheres (chosen at random each time they put the glove on). If both are worn by the same creature however, they grant a +2 enhancement bonus to caster level with both the Illusion and Telekinesis spheres. Gloves of the trickster are crafted as a set, and are thus only bought and sold in pairs.
@@ -195,8 +195,8 @@ Craft Implement Of Power, Illusion sphere, Telekinesis sphere; **Cost** 10,000 g
 
 ### Grimoire Of The Tentacult [TS:WAT]
 
-**Aura**moderate Alteration;**CL**6th;**SP** 1
-**Slot**none;**Price**17,000 gp;**Weight** 2 lbs.
+**Aura** moderate Alteration; **CL** 6th; **SP** 1
+**Slot** none; **Price** 17,000 gp; **Weight** 2 lbs.
 
 This dark indigo book is covered in a strange, somewhat squishy material. This grimoire functions as a +2 Alteration implement that also works as a spell engine containing the Telekinesis sphere and the Divided Mind and Powerful Telekinesis talents. The telekinesis effects from this grimoire take the visual appearance of thick purple tendrils coming out of portals to grasp and move things. The implement and spell engine effects of this item must be upgraded separately and do not share a caster level.
 
@@ -207,8 +207,8 @@ Craft Implement Of Power, Craft Spell Engine, Alteration sphere, Telekinesis sph
 
 ### Healer’s Staff [TS]
 
-**Aura**faint Life;**CL** 3rd
-**Slot**none;**Price**7,800 gp;**Weight** 4 lbs.
+**Aura** faint Life; **CL** 3rd
+**Slot** none; **Price** 7,800 gp; **Weight** 4 lbs.
 
 This +1 Life implement looks like a giant tube with a plunger on one side and a sharp needle on the other. In addition to its functions as an implement, the healer’s staff also functions as a flask of the dawn (see [[Marvelous Items Wondrous Items|Marvelous Items]]), except that it can directly inject the healing serum into targets if the wielder makes a successful melee attack with the healer’s staff (this does no damage to the target).
 
@@ -217,8 +217,8 @@ Craft Implement Of Power, Craft Marvelous Item, Life sphere (Deeper Healing); **
 
 ### Hidden Blade
 
-**Aura**moderate Illusion;**CL** 10th
-**Slot**none;**Price**49,000 gp;**Weight** 5 lbs.
+**Aura** moderate Illusion; **CL** 10th
+**Slot** none; **Price** 49,000 gp; **Weight** 5 lbs.
 
 **Description**
 This +3 glamered longsword also functions as a +3 Illusion implement.
@@ -228,8 +228,8 @@ Craft Implement Of Power, Smith Magical Weapons and Armor, Craft Apparatus, Illu
 
 ### Liquid Courage [TS]
 
-**Aura**faint Mind;**CL** 5th
-**Slot**none;**Price**50,000 gp;**Weight** 3 lbs.
+**Aura** faint Mind; **CL** 5th
+**Slot** none; **Price** 50,000 gp; **Weight** 3 lbs.
 
 This clear glass-like container is suspiciously sturdy and is filled with what looks like alcohol, but there’s no stopper or way to actually drink the contents that give it power. Nevertheless, these +1 Mind implements provide the Courage (charm) and the Mass Charm talents, enabling them to fortify the bravery of large groups.
 
@@ -238,8 +238,8 @@ Craft Implement Of Power, Mind sphere (Courage (charm)); **Cost** 25,000 gp
 
 ### Mass Appeal [TS]
 
-**Aura**faint variable;**CL** 3rd
-**Slot**any;**Price**18,000 gp;**Weight** 2 lbs.
+**Aura** faint variable; **CL** 3rd
+**Slot** any; **Price** 18,000 gp; **Weight** 2 lbs.
 
 Mass appeals come in various shapes and sizes, but share one thing in common: They are all +1 implements with a mass talent for their associated sphere, giving bearers the ability to use powers on more targets at the same time. Though a bit expensive, casters mindful of the limits of their knowledge occasionally craft or acquire several of these and wear them across their body to augment their abilities.
 
@@ -248,8 +248,8 @@ Craft Implement Of Power, any sphere that has a mass talent, the mass talent for
 
 ### Master of Creative Arts
 
-**Aura**strong Creation;**CL** 15th
-**Slot**hands;**Price**50,000 gp;**Weight** 0.5 lbs.
+**Aura** strong Creation; **CL** 15th
+**Slot** hands; **Price** 50,000 gp; **Weight** 0.5 lbs.
 
 **Description**
 The master of creative arts is a metallic glove-like object that covers the fingers with several rings attached to each other by chains. When worn, the glove functions as a +1 Creation implement, and grants the wearer the Exquisite Detail and Forge talents.
@@ -259,8 +259,8 @@ Craft Implement Of Power, Creation sphere (Exquisite Detail, Forge (alter)); **C
 
 ### Menhir
 
-**Aura**depends on granted sphere and granted bonus;**CL** 3x the granted bonus
-**Slot**none;**Price**5,000 gp (+1), 20,000 gp (+2), 45,000 gp (+3), 80,000 gp (+4), 125,000 gp (+5);**Weight** see below
+**Aura** depends on granted sphere and granted bonus; **CL** 3x the granted bonus
+**Slot** none; **Price** 5,000 gp (+1), 20,000 gp (+2), 45,000 gp (+3), 80,000 gp (+4), 125,000 gp (+5); **Weight** see below
 
 **Description**
 These Large-sized and larger, upright standing stones mark areas of great importance and are commonly enchanted by members of the nature community such as druids, nymphs, shamans and treants. Like implements, every standing stone is associated with a base sphere, which the crafter must possess in order to create the standing stone, either on their own or through another caster. The standing stone usually has an enhancement bonus ranging from +1 to +5.
@@ -280,8 +280,8 @@ Craft Implement Of Power, any base sphere; **Cost** 2,500 gp (+1), 10,000 gp (+2
 
 ### Murderer’s Wand [TS]
 
-**Aura**strong Death;**CL** 15th
-**Slot**slotless;**Price**98,000 gp;**Weight** 1 lb.
+**Aura** strong Death; **CL** 15th
+**Slot** slotless; **Price** 98,000 gp; **Weight** 1 lb.
 
 The murderer’s wand is a slender stick usually made of bone and must be held to be used. This +5 Death implement includes the Killing Curse talent, imbuing the user’s ghost strikes with the ability to outright kill foes who fail too many saves against them. Murderer’s wands are illegal in most regions, though the fact that it is usually only extremely powerful necromancers who craft them means local authorities often have a hard time preventing people from using them.
 
@@ -290,8 +290,8 @@ Craft Implement Of Power, Death sphere (Killing Curse); **Cost** 49,000 gp
 
 ### Negater [TS]
 
-**Aura**faint Protection;**CL** 3rd
-**Slot**slotless;**Price**18,000 gp;**Weight** 3 lbs.
+**Aura** faint Protection; **CL** 3rd
+**Slot** slotless; **Price** 18,000 gp; **Weight** 3 lbs.
 
 Negaters are usually simple black spheres carved with runes that help repel magic. When held, these +1 Protection implements grant access to the Spell Ward (aegis, ward) talent, allowing the user an opportunity to repress magic in an area or grant spell resistance to an ally.
 
@@ -300,8 +300,8 @@ Craft Implement Of Power, Protection sphere (Spell Ward (aegis, ward)); **Cost**
 
 ### Rainbows Bright [TS]
 
-**Aura**faint Light;**CL** 3rd
-**Slot**slotless;**Price**18,000 gp;**Weight** 3 lbs.
+**Aura** faint Light; **CL** 3rd
+**Slot** slotless; **Price** 18,000 gp; **Weight** 3 lbs.
 
 Rainbow’s bright are long cylinders, usually made of wood or metal, with a circular glass on one side revealing a hollow interior and a faintly glowing object inside. When held, these +1 Light implements give the holder the Disorienting Patterns (light) talent, allowing them to cover terrain in horrifyingly confusing colors and patterns.
 
@@ -310,8 +310,8 @@ Craft Implement Of Power, Light sphere (Disorienting Patterns (light)); **Cost**
 
 ### Reanimator’s Shawl [TS]
 
-**Aura**faint Death;**CL** 3rd
-**Slot**shoulders;**Price**18,000 gp;**Weight** 3 lbs.
+**Aura** faint Death; **CL** 3rd
+**Slot** shoulders; **Price** 18,000 gp; **Weight** 3 lbs.
 
 Reanimator’s shawls often take the form of torn or ragged cloaks designed to be wrapped around the shoulders. Despite their unassuming appearance, these +1 Death implements include the Greater Reanimate talent, improving the total Hit Dice a creature can reanimate by 1 per caster level. This item does not allow you to exceed the limit on the number of times you may take Greater Reanimate. Rumors exist of greater versions of these shawls that can grant even an apprentice necromancer the power to raise far more undead than these shawls do.
 
@@ -320,8 +320,8 @@ Craft Implement Of Power, Death sphere (Greater Reanimate); **Cost** 9,000 gp
 
 ### Runewrap [TS]
 
-**Aura**faint Enhancement;**CL** 6th
-**Slot**wrists;**Price**32,000 gp;**Weight** 1 lb.
+**Aura** faint Enhancement; **CL** 6th
+**Slot** wrists; **Price** 32,000 gp; **Weight** 1 lb.
 
 Runewraps are +2 Enhancement implements with the Energy Weapon (enhance) talent, allowing their bearers to fortify weapons with the corrosive, flaming, frost, or shock special weapon abilities and deal an additional point of damage for every two caster levels the caster has. While moderately expensive, some adventuring parties prize these tools for the flexibility they offer in facing foes that are only weak to certain elements.
 
@@ -330,8 +330,8 @@ Craft Implement Of Power, Enhancement sphere (Energy Weapon (enhance)); **Cost**
 
 ### Searchglobe [TS]
 
-**Aura**faint Divination;**CL** 3rd
-**Slot**slotless;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Divination; **CL** 3rd
+**Slot** slotless; **Price** 18,000 gp; **Weight** 1 lb.
 
 Searchglobes are +1 Divination implements that look much like crystal balls, but contain three Alternate Divinations. Many searchglobes are highly thematic and contain a trio of related divinations, such as lifeglobes that have Divine Bleeding, Divine Undead, and Divine Life or natureglobes that have Detect Faetouched, Divine Elements, and Divine Weather.
 
@@ -340,8 +340,8 @@ Craft Implement Of Power, Divination sphere (Expanded Divinations); **Cost** 9,0
 
 ### Staff of Annihilation [TS]
 
-**Aura**moderate Destruction and strong All;**CL** 9th (Destruction), 15th (All)
-**Slot**none;**Price**135,000 gp;**Weight** 5 lbs.
+**Aura** moderate Destruction and strong All; **CL** 9th (Destruction), 15th (All)
+**Slot** none; **Price** 135,000 gp; **Weight** 5 lbs.
 
 This +3 Destruction implement contains the Sculpt Blast (blast shape) talent, allowing its wielder a significant measure of control over the space they attack. However, these implements get their name from the fact that they are also a greater maximizing metamagic apparatus, making it easier to unleash the most powerful blasts possible.
 
@@ -350,8 +350,8 @@ Craft Implement Of Power, Craft Apparatus, Maximize Spell, Destruction sphere (S
 
 ### Staff of Boldness [TS]
 
-**Aura**moderate Mind and Untyped;**CL** 10th
-**Slot**none;**Price**33,000 gp;**Weight** 4 lbs.
+**Aura** moderate Mind and Untyped; **CL** 10th
+**Slot** none; **Price** 33,000 gp; **Weight** 4 lbs.
 
 A favored tool of casters who use the Hostility and Mind Shield charms, this +3 Mind implement is also a normal encouraging metamagic apparatus, making it capable of improving the power of morale effects several times a day.
 
@@ -360,8 +360,8 @@ Craft Implement Of Power, Craft Apparatus, Mind sphere; **Cost** 16,500 gp
 
 ### Staff of Great Control
 
-**Aura**faint Conjuration and Death;**CL** 12th
-**Slot**none;**Price**32,000 gp;**Weight** -
+**Aura** faint Conjuration and Death; **CL** 12th
+**Slot** none; **Price** 32,000 gp; **Weight** -
 
 **Description**
 The staff of great control is carved from cherrywood and is adorned with a perfectly-preserved human skull at the top. This implement grants the user a +2 enhancement bonus to caster level with the Conjuration and Death spheres, as well as a +2 bonus to the saving throws and damage rolls of the bearer’s controlled undead and companions.
@@ -371,8 +371,8 @@ Craft Implement Of Power, Conjuration sphere, Death sphere; **Cost** 16,000 gp
 
 ### Staff Of Prismatic Light [TS:WAT]
 
-**Aura**moderate Illusion and Light;**CL** 6th
-**Slot**none;**Price**37,000 gp;**Weight** 3 lbs.
+**Aura** moderate Illusion and Light; **CL** 6th
+**Slot** none; **Price** 37,000 gp; **Weight** 3 lbs.
 
 This +2 Illusion and Light implement looks like a white crystal staff surrounded by a perpetual aura of prismatic colors, and it increases the light level in the wielder’s square(s) by one step, to a maximum of normal light, while held. This implement also functions as a normal solar metamagic apparatusTS, and effects cast when using that effect have a distinctive prismatic shine to them.
 
@@ -383,8 +383,8 @@ Craft Implement Of Power, Craft Apparatus, Solar Spell, Illusion sphere, Light s
 
 ### Staff of Sands and Storms
 
-**Aura**strong Weather;**CL** 20th
-**Slot**none;**Price**200,000 gp;**Weight** 100 lbs.
+**Aura** strong Weather; **CL** 20th
+**Slot** none; **Price** 200,000 gp; **Weight** 100 lbs.
 
 **Description**
 This staff is carved from ancient wood, petrified with age until it is almost stone. The staff itself is supernaturally heavy; simply holding it and carrying it can be incredibly difficult. For those who can bear its weight and speak its command word, however, they find that an entire world's worth of energy appears to be stored within it.
@@ -400,8 +400,8 @@ Craft Implement Of Power, Weather sphere (Cold Lord (advanced), Heat Lord (advan
 
 ### Staff of the Snide Servant
 
-**Aura**moderate Conjuration;**CL** 9th
-**Slot**none;**Price**18,000 gp;**Weight** 5 lbs.
+**Aura** moderate Conjuration; **CL** 9th
+**Slot** none; **Price** 18,000 gp; **Weight** 5 lbs.
 
 **Description**
 This +1 Conjuration implement contains a single invisible servant inside it that can be summoned as a standard action. This servant has an indefinite duration, and can be called and dismissed (also a standard action) as much as desired. The servant is a companion from the Conjuration sphere with no (form) talents and indeed cannot gain any. The invisible servant will perform services for the wielder of the staff, but it refuses to fight and will dismiss itself if ever asked to perform any dangerous task (fighting, stealing, or other such behaviors).
@@ -413,8 +413,8 @@ Craft Implement Of Power, Conjuration sphere, Illusion sphere (Suppression (glam
 
 ### Unseen Reacher [TS]
 
-**Aura**faint Telekinesis;**CL** 3rd
-**Slot**ring;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Telekinesis; **CL** 3rd
+**Slot** ring; **Price** 18,000 gp; **Weight** 1 lb.
 
 Unseen reachers are +1 Telekinesis implements with the Increased Range talent, often crafted into subtle, unassuming forms like rings or bracelets that their bearers can simply put on and use. Many a telekinetic has been underwhelmed upon finding these, only to realize later how much more flexible their powers are with the improved reach.
 
@@ -423,8 +423,8 @@ Craft Implement Of Power, Telekinesis sphere (Increased Range [range]); **Cost**
 
 ### Warmage’s Staff [TS]
 
-**Aura**strong War;**CL** 12th
-**Slot**none;**Price**98,000 gp;**Weight** 8 lbs.
+**Aura** strong War; **CL** 12th
+**Slot** none; **Price** 98,000 gp; **Weight** 8 lbs.
 
 The warmage’s staff is a long, heavy metal pole suitable for use as a club. When held, it functions as a +4 aggressive watchful War implement. Some wealthy generals enchant these staves with a rally talent they want to use.
 
@@ -433,8 +433,8 @@ Craft Implement Of Power, War sphere; **Cost** 49,000 gp
 
 ### Weather Vane, Greater [TS]
 
-**Aura**faint Weather;**CL** 3rd
-**Slot**slotless;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Weather; **CL** 3rd
+**Slot** slotless; **Price** 18,000 gp; **Weight** 1 lb.
 
 Originally created as a joke with the form of a weather vane indicating the direction wind was traveling, greater weather vanes are +1 Weather implements with the Greater Size talent, allowing them to affect all of the weather within long range of the caster. Many weather casters expecting to oppose large groups use these to gain more control of the battlefield.
 
@@ -443,8 +443,8 @@ Craft Implement Of Power, Weather sphere (Greater Size [range]); **Cost** 9,000 
 
 ### Windowmakers [TS]
 
-**Aura**faint Creation;**CL** 3rd
-**Slot**ring;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Creation; **CL** 3rd
+**Slot** ring; **Price** 18,000 gp; **Weight** 1 lb.
 
 Windowmakers are +1 Creation implements with the Transparency (alter) talent, often used to discreetly open windows into secure areas so users can scout them out. While popular for crime, some cities get a windowmaker for emergency responders or law enforcement to let them look into locked areas without disturbing the contents.
 
@@ -453,8 +453,8 @@ Craft Implement Of Power, Creation sphere (Transparency (alter)); **Cost** 9,000
 
 ### Wizard’s Foe [TS]
 
-**Aura**strong Mana;**CL** 9th
-**Slot**none;**Price**50,000 gp;**Weight** 2 lbs.
+**Aura** strong Mana; **CL** 9th
+**Slot** none; **Price** 50,000 gp; **Weight** 2 lbs.
 
 Wizard’s foes are +3 Mana implements with the Ignition (expunge) talent, which allows their users to both damage their foes and destroy their spell points. These implements are rarely seen with a lower enhancement bonus because +3 is the minimum to guarantee improved damage with the Ignition talent… and, of course, users normally want to maximize their chances of burning off a foe’s power. A wizard’s foe must be held to be used.
 
@@ -463,8 +463,8 @@ Craft Implement Of Power, Mana sphere (Ignition (expunge)); **Cost** 25,000 gp
 
 ### Wizard’s Foe, Greater [TS]
 
-**Aura**strong Mana and Untyped;**CL** 15th
-**Slot**none;**Price**218,000 gp;**Weight** 2 lbs.
+**Aura** strong Mana and Untyped; **CL** 15th
+**Slot** none; **Price** 218,000 gp; **Weight** 2 lbs.
 
 Greater wizard’s foes are +5 aiming Mana implements with the Ignition (expunge) talent, as well as the effects of a greater maximizing metamagic apparatus. The aiming special ability applies this implement’s enhancement bonus to attack and damage rolls made with talents of the Mana sphere. A greater wizard’s foe must be held to be used.
 
@@ -479,8 +479,8 @@ Craft Implement Of Power, Mana sphere (Ignition (expunge)); **Cost** 109,000 gp
 
 Long ago, a powerful demon forged this staff with a portion of its being, hoping to convert their servants in their image. The staff worked too well, as the demon found themselves placed under the staff ’s own magics before the staff was lost to great wars and strife. The legend of the staff warns that the four-legged fiend stalks the shadows in search of this item, seeking to break its influence.
 
-**Aura**overwhelming Alteration;**CL** 23rd
-**Slot**none;**Weight** 4 lbs.
+**Aura** overwhelming Alteration; **CL** 23rd
+**Slot** none; **Weight** 4 lbs.
 
 **Description**
 This staff is laden with numerous runes written in the abyssal-dialect of Nyanspeak, each amplifying the wielder’s transformative magics. This staff functions as a +5 capacitance Alteration sphere implement; the capacitance implement special ability may only be used to store Alteration sphere effects.
@@ -500,16 +500,16 @@ If reunited with the staff, the demon will speak an ancient word of power, causi
 
 ### Paradoxes For Commoners [MCS]
 
-**Aura**moderate Mind;**CL** 12th
-**Slot**none;**Price**128,000 gp;**Weight** 4 lbs.
+**Aura** moderate Mind; **CL** 12th
+**Slot** none; **Price** 128,000 gp; **Weight** 4 lbs.
 This brightly-covered, friendly-looking book contains a series of mind-shattering paradoxes that can threaten the intellects of any who read them and start thinking about them. In addition to offering delightful bedtime reading material, this tome functions as a +4 Mind implement with the Mind sphere Confusion (charm) and Insanity (mind) talents. A mythic creature using this implement may expend one use of mythic power while activating the Insanity (mind) talent, or as a standard action, to suppress all negative mind-affecting effects on allies within 60 feet for 1 round per tier; if this requires a magic skill check, the caster may add double their tier to their MSB when attempting this check. Time spent suppressed counts against the duration of effects that only work for a set amount of time, while otherwise-permanent effects are removed as if by a miracle or wish spell.
 **Construction Requirements**
 Craft Implement Of Power, Mythic Crafter, Mind sphere (Confusion (charm), Insanity (advanced, mind)); **Cost** 64,000 gp
 
 ### Rules Of Mana [MCS]
 
-**Aura**strong Mana;**CL** 20th
-**Slot**none;**Price**200,000 gp;**Weight** 6 lbs.
+**Aura** strong Mana; **CL** 20th
+**Slot** none; **Price** 200,000 gp; **Weight** 6 lbs.
 This long, crystalline staff pulses slightly whenever it is used. In addition to functioning as a +4 Mana implement, the rules of mana contains the Mana sphere Gift Of Knowledge, Knowledge Drain, and Manathief (expunge) talents. A mythic creature wielding this staff may store an extra talent with Knowledge Drain at 1st, 3rd, and 6th tiers, and may pay one mythic power per extra talent stored to retain knowledge of drained talents for an additional 24 hours (rather than paying spell points, as is normal). When talents are held with mythic power, this staff also counts as an implement of its regular bonus for any sphere those talents are a part of.
 **Construction Requirements**
 Craft Implement Of Power, Mythic Crafter, Mana sphere (Gift Of Knowledge (manipulation), Knowledge Drain (advanced), Manathief (advanced, expunge)); **Cost** 100,000 gp
@@ -524,7 +524,7 @@ The following special abilities can be applied to implements.
 
 While wielding this implement, the caster may spend a spell point as an immediate action to grant spell resistance to himself and all friendly creatures within 30 feet against a single spell or sphere ability. The resistance then ends. The value of this spell resistance is equal to the Protection caster level of the wielder + 10.
 
-**Aura**moderate Protection;**CL**10th; Craft Implement Of Power, Protection sphere;**Cost** +3 bonus
+**Aura** moderate Protection; **CL** 10th; Craft Implement Of Power, Protection sphere; **Cost** +3 bonus
 
 ### Aggressive
 
@@ -532,13 +532,13 @@ This special ability may only be applied to implements which give a caster level
 
 The bearer and all allies within 30 feet gain an insight bonus to initiative equal to the implement’s enhancement bonus.
 
-**Aura**moderate War;**CL**8th; Craft Implement Of Power, War sphere;**Cost** +1 bonus
+**Aura** moderate War; **CL** 8th; Craft Implement Of Power, War sphere; **Cost** +1 bonus
 
 ### Aiming
 
 When using a sphere effect from a sphere to which this implement grants its enhancement bonus, you may apply the implement’s enhancement bonus to any attack and damage rolls granted by the sphere effect. This includes indirect attack rolls, such as hitting something with a Bludgeon through telekinesis or dropping a created object on something.
 
-**Aura**faint Divination;**CL**5th; Craft Implement Of Power, Divination sphere;**Cost** +1 bonus
+**Aura** faint Divination; **CL** 5th; Craft Implement Of Power, Divination sphere; **Cost** +1 bonus
 
 ### Alerting
 
@@ -546,13 +546,13 @@ This special ability may only be applied to implements which give a caster level
 
 Whenever you roll initiative, you may spend a spell point to allow allies within 30 feet to use your initiative count (if it is higher than their own). You still act before them, and others use their original initiative order to settle the tie.
 
-**Aura**strong War;**CL**15th; Craft Implement Of Power, War sphere;**Cost** +3 bonus
+**Aura** strong War; **CL** 15th; Craft Implement Of Power, War sphere; **Cost** +3 bonus
 
 ### Attendant
 
 This special ability may only be applied to any handheld magic item, including weapons, shields, or implements. An attendant item springs to hand when you send for it. As a swift action you can call for an attendant item, and if it is within 50 feet it attempts to leaps to your hand. If it is currently held by another creature or trapped or bound in some way it fails to arrive, though it can extricate itself from a backpack or sheathe. You must possess an attendant item for at least 24 hours before you can use this function, and only one creature can have the ability to use this function at a time.
 
-**Aura**faint Telekinesis;**CL**5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly);**Cost** +500 gp
+**Aura** faint Telekinesis; **CL** 5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly); **Cost** +500 gp
 
 ### Bloodhound [Gravecaller's HB]
 
@@ -560,13 +560,13 @@ This special ability may only be applied to a Blood sphere implement.
 
 The wielder of a bloodhound implement gains blindsense with a range of 10 times the bloodhound implement’s enhancement bonus. The blindsense granted by a bloodhound implement only allows the wielder to detect creatures under the effects of the wielder’s blood control or suffering from bleed damage.
 
-**Aura**moderate Blood;**CL**10th; Craft Implement Of Power, Blood sphere;**Cost** +2 bonus
+**Aura** moderate Blood; **CL** 10th; Craft Implement Of Power, Blood sphere; **Cost** +2 bonus
 
 ### Capacitance
 
 You may cast sphere effects into this implement, storing them for a short time before discharging them simultaneously. This casting spends any spell points required at the time it is performed. You may cast sphere effects into the implement with total spell point cost not exceeding the implement’s enhancement bonus and total caster level not exceed three times your caster level (use the highest caster level for the effects stored if you have multiple caster levels). Once an effect is cast into the implement, it dissipates harmlessly after 1 minute. All stored effects may be released as a 1 round action, choosing targets for each stored effect individually within the parameters of that effect.
 
-**Aura**faint Time;**CL**5th; Craft Implement Of Power, Time sphere;**Cost** +2 bonus
+**Aura** faint Time; **CL** 5th; Craft Implement Of Power, Time sphere; **Cost** +2 bonus
 
 ### Carved
 
@@ -574,7 +574,7 @@ This special ability may only be applied to implements which give a caster level
 
 This implement has been enchanted to conduct primal energies through channels engraved in it. The caster may use a swift action to move any totem they own within long range so that it is centered at their current location.
 
-**Aura**moderate War;**CL**6th; Craft Implement Of Power, War sphere;**Cost** +1 bonus
+**Aura** moderate War; **CL** 6th; Craft Implement Of Power, War sphere; **Cost** +1 bonus
 
 ### Equitable
 
@@ -582,7 +582,7 @@ This special ability may only be applied to an implement that grants a bonus to 
 
 This implement can be used to remove a condition that the bearer can not normally restore, provided a basic Life talent exists that can perform the function. The implement may be used this way a maximum number of times per day equal to the caster level bonus it grants. The bearer must still pay the spell point cost of the ability.
 
-**Aura**moderate Life;**CL**6th; Craft Implement Of Power, Life sphere;**Cost** +1 bonus
+**Aura** moderate Life; **CL** 6th; Craft Implement Of Power, Life sphere; **Cost** +1 bonus
 
 ### Erudite
 
@@ -618,32 +618,32 @@ The skills affected (by sphere) are:
 | Warp | Knowledge (geography) and Knowledge (planes) |
 | Weather | Fly and Knowledge (nature) |
 
-**Aura**faint Divination;**CL**5th; Craft Implement Of Power, Divination sphere;**Cost** +2,000 gp
+**Aura** faint Divination; **CL** 5th; Craft Implement Of Power, Divination sphere; **Cost** +2,000 gp
 
 ### Exacting
 
 If this implement is used to cast a spell which is a ranged attack or ranged touch attack from a sphere to which it applies its enhancement bonus, the caster does not take the standard -4 penalty for attacking an opponent engaged in melee.
 
-**Aura**faint Divination;**CL**5th; Craft Implement Of Power, Divination sphere;**Cost** +6,000 gp
+**Aura** faint Divination; **CL** 5th; Craft Implement Of Power, Divination sphere; **Cost** +6,000 gp
 
 ### Extra Sphere
 
 The implement provides an enhancement bonus to a sphere other than its base sphere, chosen when this special ability is gained. This benefit may be taken up to 5 times. The effects stack.
 
-**Aura**as sphere;**CL**5th; Craft Implement Of Power, the crafter must have access to the sphere to be enhanced, either on their own or through another caster;**Cost:** +1 bonus
+**Aura** as sphere; **CL** 5th; Craft Implement Of Power, the crafter must have access to the sphere to be enhanced, either on their own or through another caster; **Cost:** +1 bonus
 
 ### Girding
 
 This Protection implement gives its wielder a circumstance bonus to AC equal to its enhancement bonus while it is being held.
 
-**Aura**faint Protection;**CL**10th; Craft Implement Of Power, Protection sphere;**Cost** +2 bonus
+**Aura** faint Protection; **CL** 10th; Craft Implement Of Power, Protection sphere; **Cost** +2 bonus
 
 ### Informing [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**faint Divination —**CL** 6th
-**Slot**any, see text —**Price** +1 bonus
+**Aura** faint Divination — **CL** 6th
+**Slot** any, see text — **Price** +1 bonus
 
 This special ability can be applied to a suit of armor, weapon, shield, or implement.
 
@@ -662,7 +662,7 @@ This special ability may only be applied to a Death sphere implement.
 
 When the wielder of a macabre implement reanimates a creature, it gains a number of temporary hit points equal to three times the macabre implement’s enhancement bonus. These temporary hit points last until lost.
 
-**Aura**faint Death;**CL**4th; Craft Implement Of Power, Death sphere (Necrotic Feeding (ghost strike));**Cost** +1 bonus
+**Aura** faint Death; **CL** 4th; Craft Implement Of Power, Death sphere (Necrotic Feeding (ghost strike)); **Cost** +1 bonus
 
 ### Magic Talent
 
@@ -670,7 +670,7 @@ Any caster wielding the implement gains access to a magic talent contained withi
 
 **Author's Note:** This implement ability can grant base spheres as a bonus talent. A base sphere granted this way does not include any drawbacks. A base sphere granted this way does not grant someone the ability to cast sphere effects if they could not already.
 
-**Aura**as sphere;**CL**5th; Craft Implement Of Power, see below;**Cost:** +2 bonus
+**Aura** as sphere; **CL** 5th; Craft Implement Of Power, see below; **Cost:** +2 bonus
 
 The crafter must have access to the magic talent to be included, either on their own or through another caster. The talent must belong to the implement’s base sphere. A caster wielding the implement counts as possessing that magic talent when meeting the prerequisites for creating other magic items.
 
@@ -678,7 +678,7 @@ The crafter must have access to the magic talent to be included, either on their
 
 When casting a spell or sphere effect to which the implement’s enhancement bonus applies, the wielder adds twice the implement’s enhancement bonus as an enhancement bonus to concentration checks relating to that spell or sphere effect.
 
-**Aura**faint Mind;**CL**5th; Craft Implement Of Power, Mind sphere (Powerful Charm);**Cost** +1,000 gp
+**Aura** faint Mind; **CL** 5th; Craft Implement Of Power, Mind sphere (Powerful Charm); **Cost** +1,000 gp
 
 ### Mesmerism
 
@@ -688,7 +688,7 @@ At first this gaze attack does nothing apart from making others who meet your ga
 
 Shifting the gaze attack to a greater charm costs 1 spell point, and the effect lasts for 1 round per point of casting ability modifier (at which point the wielder must either pay another spell point, shift to a different ability, or end the ability as a free action).
 
-**Aura**faint Mind;**CL**9th; Craft Implement Of Power, Mind sphere (Mass Charm, Project Thoughts (charm));**Cost** +3 bonus
+**Aura** faint Mind; **CL** 9th; Craft Implement Of Power, Mind sphere (Mass Charm, Project Thoughts (charm)); **Cost** +3 bonus
 
 ### Reaving [Gravecaller's HB]
 
@@ -698,7 +698,7 @@ When casting a ghost strike sphere effect, the wielder of a reaving implement ma
 
 The negative energy damage caused by a greater reaving implement festers as cursed wounds that resist natural and magical healing. This damage cannot be healed except by magical healing and the caster or source of the healing must succeed at a magic skill check with a DC equal to 10 + 3 times the greater reaving implement’s enhancement bonus or the healing has no effect on the injured creature. Add up and combine the damage from a greater reaving implement and treat it as a single cursed wound when attempting to heal and remove the damage.
 
-**Aura**faint Death;**CL**6th (normal), 11th (greater); Craft Implement Of Power, Death sphere (Killing Curse);**Cost** +1 bonus (normal), +3 bonus (greater)
+**Aura** faint Death; **CL** 6th (normal), 11th (greater); Craft Implement Of Power, Death sphere (Killing Curse); **Cost** +1 bonus (normal), +3 bonus (greater)
 
 ### Sanguine [Gravecaller's HB]
 
@@ -708,7 +708,7 @@ The wielder of a sanguine implement gains an insight bonus on all Charisma-based
 
 In addition, whenever the wielder of a sanguine implement fails a Diplomacy check to influence a creature’s attitude, that creature’s attitude does not decrease by one step towards the wielder. This ability only prevents a creature’s attitude from decreasing once every 24 hours.
 
-**Aura**moderate Blood;**CL**10th; Craft Implement Of Power, Blood sphere;**Cost** +1 bonus
+**Aura** moderate Blood; **CL** 10th; Craft Implement Of Power, Blood sphere; **Cost** +1 bonus
 
 ### Specialized [Alienist HB]
 
@@ -716,7 +716,7 @@ A specialized implement is more powerful against a specific category of targets.
 
 Any class feature which could apply the bane special ability to a weapon can also apply the specialized special ability to an implement provided that the ability can be used to target implements.
 
-**Aura**moderate Divination;**CL**6th; Craft Implement Of Power, Divination sphere (Divine Information (divine));**Cost** +1 bonus
+**Aura** moderate Divination; **CL** 6th; Craft Implement Of Power, Divination sphere (Divine Information (divine)); **Cost** +1 bonus
 
 ### Sunset
 
@@ -726,7 +726,7 @@ When the wielder of an implement with this special ability causes one of their g
 
 If the wielder of this implement also possesses the Lingering Glow talent, the effects stack, allowing bright light to persist for three rounds after they stop concentrating on it.
 
-**Aura**faint Light;**CL**4th; Craft Implement Of Power, Light sphere (Lingering Glow);**Cost** +1 bonus
+**Aura** faint Light; **CL** 4th; Craft Implement Of Power, Light sphere (Lingering Glow); **Cost** +1 bonus
 
 ### Sustaining
 
@@ -734,7 +734,7 @@ This special ability may only be applied to an implement of the Telekinesis sphe
 
 You may delegate a telekinetic effect to a sustaining implement. This effect works like the Sustained Force use of telekinesis, except that you do not need to spend a spell point, and your implement may only sustain a single effect at a time. If you delegate concentration to your implement while it is already sustaining a telekinetic effect, the previous effect ceases and all lifted objects are released.
 
-**Aura**moderate Telekinesis;**CL**8th; Craft Implement Of Power, Telekinesis sphere;**Cost** +2 bonus
+**Aura** moderate Telekinesis; **CL** 8th; Craft Implement Of Power, Telekinesis sphere; **Cost** +2 bonus
 
 ### Vital
 
@@ -742,13 +742,13 @@ This special ability may only be applied to an implement that grants a bonus to 
 
 The bearer of this implement and all creatures within 60 feet receive a bonus to their saving throws equal to its enhancement bonus against the Death sphere, negative energy, and death effects. The bearer of this implement gain the benefits of the Counterspell feat, which may only be used to counter or dispel Death sphere abilities. Those wielding the implement may add the implements enhancement bonus to their magic skill bonus when using the implement this way.
 
-**Aura**faint Life and universal;**CL**4th; Craft Implement Of Power, Life sphere, Counterspell;**Cost** +2 bonus
+**Aura** faint Life and universal; **CL** 4th; Craft Implement Of Power, Life sphere, Counterspell; **Cost** +2 bonus
 
 ### Wand Chambered
 
 This implement may absorb a single wand of a sphere to which its enhancement bonus applies as a standard action. The wand may also be removed as a standard action. While absorbed, the implement’s wielder is treated as wielding this wand and the implement’s enhancement bonus applies to the wand’s caster level. This only applies to implements that are wielded; pieces of equipment or slotless items given implement special abilities cannot gain this benefit.
 
-**Aura**faint Enhancement;**CL**5th; Craft Implement Of Power, Enhancement sphere;**Cost** +500 gp
+**Aura** faint Enhancement; **CL** 5th; Craft Implement Of Power, Enhancement sphere; **Cost** +500 gp
 
 ### Watchful
 
@@ -756,7 +756,7 @@ This special ability may only be applied to implements which give a caster level
 
 With this implement, you may rally an ally (but not yourself) as a free action once per round. You may take this action even when it is not your turn, but not if you are unable to use immediate actions. You must pay the normal spell point costs required by the rally.
 
-**Aura**moderate War;**CL**10th; Craft Implement Of Power, War sphere;**Cost** +2 bonus
+**Aura** moderate War; **CL** 10th; Craft Implement Of Power, War sphere; **Cost** +2 bonus
 
 ### Wellspring
 
@@ -764,7 +764,7 @@ This special ability may only be applied to an implement that grants a bonus to 
 
 When the bearer of this implement uses a cure effect, they may tap into the reserve of this implement and add extra hit points to the cure. A maximum of 20 hit points per +1 caster level bonus of the implement per day can be provided by the implement, and can be delivered in any combination of cure effects. These extra hit points return over night.
 
-**Aura**moderate Life;**CL**8th; Craft Implement Of Power, Life sphere (Fount Of Life);**Cost** +1 bonus
+**Aura** moderate Life; **CL** 8th; Craft Implement Of Power, Life sphere (Fount Of Life); **Cost** +1 bonus
 
 ---
 

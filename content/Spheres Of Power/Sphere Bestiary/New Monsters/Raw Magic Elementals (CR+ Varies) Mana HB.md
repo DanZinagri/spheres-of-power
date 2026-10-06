@@ -25,21 +25,21 @@ Manipulation effects from the Mana sphere bolster the elemental, negating the ef
 
 XP 400
 N Small outsider (elemental, native)
-**Init**+6**Senses**darkvision 60 ft.;**Perception** +5
+**Init** +6 **Senses** darkvision 60 ft.; **Perception** +5
 
 **Defense**
-**AC**16,**touch**14,**flat-footed** 13 (+2 Dex, +3 natural, +1 size)
+**AC** 16, **touch** 14, **flat-footed** 13 (+2 Dex, +3 natural, +1 size)
 **hp** 13 (2d10+2)
-**Fort**+1**Ref**+5**Will** +3
-**Defensive Abilities**immunity to magic;**Immune** elemental traits
+**Fort** +1 **Ref** +5 **Will** +3
+**Defensive Abilities** immunity to magic; **Immune** elemental traits
 
 **Offense**
 **Speed** 20 ft., fly 30 ft.
 **Melee** slam +4 (1d4+1)
 
 **Statistics**
-**Str**12,**Dex**15,**Con**12,**Int**14,**Wis**11,**Cha** 10
-**Base Atk**+2;**CMB**+2;**CMD** 15
+**Str** 12, **Dex** 15, **Con** 12, **Int** 14, **Wis** 11, **Cha** 10
+**Base Atk** +2; **CMB** +2; **CMD** 15
 **Feats** Improved Initiative
 **Skills** Acrobatics +4, Fly +16, Knowledge (arcana) +7, Knowledge (planes) +7, Perception +5, Sense Motive +5, Spellcraft +7, Stealth +10, Use Magic Device +5
 **Languages** Common
@@ -51,13 +51,13 @@ A small raw magic elemental may be taken as a familiar with the Improved Familia
 
 XP 800
 N Medium outsider (elemental, native)
-**Init**+5**Senses**darkvision 60 ft.;**Perception** +7
+**Init** +5 **Senses** darkvision 60 ft.; **Perception** +7
 
 **Defense**
-**AC**15,**touch**12,**flat-footed** 13 (+1 Dex, +1 dodge, +3 natural)
+**AC** 15, **touch** 12, **flat-footed** 13 (+1 Dex, +1 dodge, +3 natural)
 **hp** 26 (4d10+4)
-**Fort**+2**Ref**+5**Will** +4
-**Defensive Abilities**immunity to magic, mana fueled;**Immune** elemental traits
+**Fort** +2 **Ref** +5 **Will** +4
+**Defensive Abilities** immunity to magic, mana fueled; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., fly 30 ft.
@@ -65,8 +65,8 @@ N Medium outsider (elemental, native)
 **Special Attacks** bond happy
 
 **Statistics**
-**Str**14,**Dex**13,**Con**12,**Int**14,**Wis**11,**Cha** 11
-**Base Atk**+4;**CMB**+6;**CMD** 17
+**Str** 14, **Dex** 13, **Con** 12, **Int** 14, **Wis** 11, **Cha** 11
+**Base Atk** +4; **CMB** +6; **CMD** 17
 **Feats** Dodge, Improved Initiative
 **Skills** Acrobatics +5, Fly +15, Knowledge (arcana) +9, Knowledge (planes) +9, Perception +7, Sense Motive +7, Spellcraft +9, Stealth +7, Use Magic Device +7
 **Languages** Common
@@ -75,23 +75,23 @@ N Medium outsider (elemental, native)
 
 XP 1,600
 N Large outsider (elemental, native)
-**Init**+4**Senses**darkvision 60 ft.;**Perception** +11
+**Init** +4 **Senses** darkvision 60 ft.; **Perception** +11
 
 **Defense**
-**AC**15,**touch**9,**flat-footed** 14 (+5 natural, -1 size, +1 dodge)
+**AC** 15, **touch** 9, **flat-footed** 14 (+5 natural, -1 size, +1 dodge)
 **hp** 68 (8d10+24)
-**Fort**+6**Ref**+6**Will** +8
-**DR**5/—;**Defensive Abilities**immunity to magic, mana fueled;**Immune** elemental traits
+**Fort** +6 **Ref** +6 **Will** +8
+**DR** 5/—; **Defensive Abilities** immunity to magic, mana fueled; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., fly 30 ft.
 **Melee** 2 slams +12 (1d8+6)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** bond happy
 
 **Statistics**
-**Str**22,**Dex**11,**Con**16,**Int**14,**Wis**11,**Cha** 11
-**Base Atk**+8;**CMB**+15;**CMD** 25
+**Str** 22, **Dex** 11, **Con** 16, **Int** 14, **Wis** 11, **Cha** 11
+**Base Atk** +8; **CMB** +15; **CMD** 25
 **Feats** Dodge, Improved Initiative, Iron Will, Muscular Reflexes
 **Skills** Acrobatics +8, Fly +15, Knowledge (arcana) +13, Knowledge (planes) +13, Perception +11, Sense Motive +11, Spellcraft +13, Stealth +11, Use Magic Device +11
 **Languages** Common
@@ -100,23 +100,23 @@ N Large outsider (elemental, native)
 
 XP 3,200
 N Huge outsider (elemental, native)
-**Init**+3**Senses**darkvision 60 ft.;**Perception** +18
+**Init** +3 **Senses** darkvision 60 ft.; **Perception** +18
 
 **Defense**
-**AC**16,**touch**8,**flat-footed** 16 (-1 Dex, +8 natural, -2 size, +1 dodge)
+**AC** 16, **touch** 8, **flat-footed** 16 (-1 Dex, +8 natural, -2 size, +1 dodge)
 **hp** 130 (13d10+65)
-**Fort**+9**Ref**+7**Will** +10
-**DR**5/—;**Defensive Abilities**immunity to magic, mana fueled;**Immune** elemental traits
+**Fort** +9 **Ref** +7 **Will** +10
+**DR** 5/—; **Defensive Abilities** immunity to magic, mana fueled; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., fly 30 ft.
 **Melee** slam +23 (2d6+15)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** bond happy
 
 **Statistics**
-**Str**30,**Dex**9,**Con**20,**Int**14,**Wis**11,**Cha** 11
-**Base Atk**+13;**CMB**+25;**CMD** 34
+**Str** 30, **Dex** 9, **Con** 20, **Int** 14, **Wis** 11, **Cha** 11
+**Base Atk** +13; **CMB** +25; **CMD** 34
 **Feats** Blind-Fight, Dodge, Improved Initiative, Iron Will, Mobility, Muscular Reflexes, Power Attack
 **Skills** Acrobatics +12, Fly +15, Knowledge (arcana) +18, Knowledge (planes) +18, Perception +18, Sense Motive +18, Spellcraft +18, Stealth +7, Use Magic Device +16
 **Languages** Common
@@ -125,23 +125,23 @@ N Huge outsider (elemental, native)
 
 XP 6,400
 N Huge outsider (elemental, native)
-**Init**+5**Senses**darkvision 60 ft.;**Perception** +21
+**Init** +5 **Senses** darkvision 60 ft.; **Perception** +21
 
 **Defense**
-**AC**20,**touch**10,**flat-footed** 18 (+1 Dex, +10 natural, -2 size, +1 dodge)
+**AC** 20, **touch** 10, **flat-footed** 18 (+1 Dex, +10 natural, -2 size, +1 dodge)
 **hp** 192 (16d10+112)
-**Fort**+11**Ref**+9**Will** +12
-**DR**10/—;**Defensive Abilities**immunity to magic, mana fueled;**Immune** elemental traits
+**Fort** +11 **Ref** +9 **Will** +12
+**DR** 10/—; **Defensive Abilities** immunity to magic, mana fueled; **Immune** elemental traits
 
 **Offense**
 **Speed** 30 ft., fly 30 ft.
 **Melee** slam +28 (2d6+16)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** bond happy
 
 **Statistics**
-**Str**34,**Dex**13,**Con**24,**Int**18,**Wis**15,**Cha** 15
-**Base Atk**+16;**CMB**+31;**CMD** 41
+**Str** 34, **Dex** 13, **Con** 24, **Int** 18, **Wis** 15, **Cha** 15
+**Base Atk** +16; **CMB** +31; **CMD** 41
 **Feats** Blind-Fight, Dodge, Improved Blind-Fight, Improved Initiative, Iron Will, Mobility, Muscular Reflexes, Power Attack
 **Skills** Acrobatics +15, Fly +18, Knowledge (arcana) +21, Knowledge (planes) +21, Perception +21, Sense Motive +21, Spellcraft +21, Stealth +10, Use Magic Device +19
 **Languages** Common

@@ -112,7 +112,7 @@ When striking a target twice with the same barrage, the target has their initiat
 
 #### Herding Fusillade (blitz) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can replace one additional attack in your barrage to instead cause your target to become harried until the start of your next turn. While harried, you always threaten the square(s) that the target is occupying for as long as they remain within your weapon’s first range increment. You may only make attacks of opportunity against a target threatened in this way with ranged weapons.
 
@@ -130,7 +130,7 @@ When performing a barrage, you may make 2 extra attacks instead of one, but must
 
 #### Warning Shot (blitz) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can replace one additional attack in your barrage to instead make an Intimidate check to demoralize the attacked creature or pose a menace before making any other attacks as part of the barrage. If such a demoralize attempt is successful, the creature must also succeed at a Will saving throw or have their speed reduced to 0 until the end of their next turn—this is a fear effect.
 

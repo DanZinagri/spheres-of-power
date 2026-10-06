@@ -10,7 +10,7 @@ parent: "[[Spheres Of Power]]"
 
 Curses are truly terrible things, and even those who somehow manage to rid themselves of such unnatural afflictions are sometimes the worse off for it. Cursed strangers are gunslingers who are afflicted by a powerful curse, but are able to suppress it within themselves. These methods are not entirely perfect, and the curse still “leaks out” in small ways - bringing woe and ruin to all who are struck by their cursed bullets.
 
-### Jinxed Hands (Su)
+## Jinxed Hands (Su)
 
 As a subject of a powerful curse, a cursed stranger must learn to feed off of misfortune and shift the worst effects of the affliction to her foes.
 
@@ -20,29 +20,29 @@ Any time she misfires a weapon, she regains a point of grit, but misfiring while
 
 This alters the grit and gunsmith class features.
 
-### Deeds
+## Deeds
 
 A cursed stranger swaps some deeds for the following.
 
-#### Cursed Bullets (Su) [curse]
+### Cursed Bullets (Su) [curse]
 
 Whenever the cursed stranger makes an attack with a firearm, she may spend a point of grit to infuse the attack with a portion of the malignant curse that affects her. Whenever the cursed stranger strikes a target with a cursed bullet, the target must succeed at a Fortitude save (DC 10 + 1/2 her cursed stranger level + her modifier used for her grit pool) or suffer a -2 penalty to attack rolls, damage rolls, saves, ability checks, and skill checks for 1 minute. This is a curse effect and cannot be removed early except with the Break Enchantment Life talent (or similar effects), upon the cursed stranger’s death, or by her choice as a free action. Penalties from multiple cursed bullets do not stack.
 
 This replaces the quick clear deed.
 
-#### Cursed Grave
+### Cursed Grave
 
 At 3rd level, whenever a creature suffering from a cursed bullet is killed or the attack made with a cursed bullet kills the target, the cursed stranger can spend a point of grit as an immediate action to reanimate it (as the Death sphere ability), using the cursed stranger’s class level as her caster level and the modifier used for her grit pool as her casting ability modifier.
 
 This replaces the gunslinger initiative deed.
 
-#### Cursed Bullets, Improved (Su)
+### Cursed Bullets, Improved (Su)
 
 At 11th level, the penalty inflicted by the cursed stranger’s cursed bullets doubles to -4.
 
 This replaces the expert loading deed.
 
-### Bonus Feats
+## Bonus Feats
 
 The cursed stranger can choose and gain any Death sphere talent that augments reanimate as a bonus feat, in addition to combat feats and grit feats.
 

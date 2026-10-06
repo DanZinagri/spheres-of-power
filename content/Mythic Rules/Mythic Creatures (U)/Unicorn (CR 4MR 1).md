@@ -13,21 +13,21 @@ This magnificent beast looks like a white horse, but with a goat’s beard and a
 XP 1,200
 Pathfinder Roleplaying Game Bestiary
 CG Large magical beast (mythic)
-**Init**+3;**Senses** darkvision 60 ft., low-light vision, scent; Perception +10
+**Init** +3; **Senses** darkvision 60 ft., low-light vision, scent; Perception +10
 **Aura** purityMA
 
 #### Defense
 
-**AC**16,**touch**12,**flat-footed** 13; (+3 Dex, +4 natural, –1 size; +4 deflection vs. evil)
+**AC** 16, **touch** 12, **flat-footed** 13; (+3 Dex, +4 natural, –1 size; +4 deflection vs. evil)
 **hp** 44 (4d10+22)
-**Fort**+7,**Ref**+7,**Will** +6; +4 resistance vs. evil
+**Fort** +7, **Ref** +7, **Will** +6; +4 resistance vs. evil
 **Immune** charm, compulsion, poison
 
 #### Offense
 
 **Speed** 60 ft.
 **Melee** gore +8 (1d8+4), 2 hooves +5 (1d3+2)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (3/day, surge +1d6), powerful charge (gore, 2d8+8)
 
 **Spell-Like Abilities** (CL 9th)
@@ -37,10 +37,10 @@ At will—detect evil (as free action), light
 
 #### Statistics
 
-**Str**18,**Dex**17,**Con**16,**Int**11,**Wis**21,**Cha** 24
-**Base Atk**+4;**CMB**+9;**CMD** 22 (26 vs. trip)
+**Str** 18, **Dex** 17, **Con** 16, **Int** 11, **Wis** 21, **Cha** 24
+**Base Atk** +4; **CMB** +9; **CMD** 22 (26 vs. trip)
 **Feats** Extra Mythic PowerMF, Multiattack, Weapon Focus (horn)
-**Skills**Acrobatics +8, Perception +10, Stealth +8, Survival +7 (+10 in forests);**Racial Modifiers** +3 Survival in forests, +4 Stealth
+**Skills** Acrobatics +8, Perception +10, Stealth +8, Survival +7 (+10 in forests); **Racial Modifiers** +3 Survival in forests, +4 Stealth
 **Languages** Common, Sylvan
 **SQ** magical strike, soothing hornMA, wild empathy +17
 

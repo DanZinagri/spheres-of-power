@@ -13,14 +13,14 @@ Tiny horns, bat-like wings, and a sinuous tail betray the demonic nature of this
 XP 4,800
 Pathfinder Roleplaying Game Bestiary
 CE Medium outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**+3;**Senses** darkvision 60 ft., detect good; Perception +21
+**Init** +3; **Senses** darkvision 60 ft., detect good; Perception +21
 
 #### Defense
 
-**AC**23,**touch**13,**flat-footed** 20 (+3 Dex, +10 natural)
+**AC** 23, **touch** 13, **flat-footed** 20 (+3 Dex, +10 natural)
 **hp** 114 (8d10+70)
-**Fort**+7,**Ref**+9,**Will** +10
-**Defensive Abilities**DR 10/cold iron and epic and good;**Immune**fire, electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 19
+**Fort** +7, **Ref** +9, **Will** +10
+**Defensive Abilities** DR 10/cold iron and epic and good; **Immune** fire, electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 19
 
 #### Offense
 
@@ -35,10 +35,10 @@ At will—charm monster (DC 26), detect thoughts (DC 21), ethereal jaunt (self p
 
 #### Statistics
 
-**Str**13,**Dex**17,**Con**20,**Int**18,**Wis**14,**Cha** 29
-**Base Atk**+8;**CMB**+9;**CMD** 22
+**Str** 13, **Dex** 17, **Con** 20, **Int** 18, **Wis** 14, **Cha** 29
+**Base Atk** +8; **CMB** +9; **CMD** 22
 **Feats** Combat Reflexes, Iron WillMF, Spell Focus (enchantment)MF, Weapon Finesse
-**Skills**Bluff +28, Diplomacy +20, Disguise +20, Escape Artist +14, Fly +14, Intimidate +17, Knowledge (local) +15, Perception +21, Sense Motive +13, Stealth +14;**Racial Modifiers** +8 Bluff, +8 Perception
+**Skills** Bluff +28, Diplomacy +20, Disguise +20, Escape Artist +14, Fly +14, Intimidate +17, Knowledge (local) +15, Perception +21, Sense Motive +13, Stealth +14; **Racial Modifiers** +8 Bluff, +8 Perception
 **Languages** Abyssal, Celestial, Common, Draconic, tongues; telepathy 100 ft
 **SQ** change shape (alter self; Small or Medium humanoid)
 

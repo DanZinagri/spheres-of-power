@@ -13,14 +13,14 @@ As this humanoid automaton levels his spear, energy courses down its length.
 XP 1,600
 Pathfinder Campaign Setting: Inner Sea Bestiary
 N Medium construct (mythic, robot)
-**Init**+2;**Senses** darkvision 60 ft., low-light vision; Perception +8
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; Perception +8
 
 #### Defense
 
-**AC**23,**touch**12,**flat-footed** 21 (+2 Dex, +11 natural); +2 dodge against foes engaged with adaptive tactics
+**AC** 23, **touch** 12, **flat-footed** 21 (+2 Dex, +11 natural); +2 dodge against foes engaged with adaptive tactics
 **hp** 62 (4d10+40)
-**Fort**+1;**Ref**+3;**Will** +2
-**Defensive Abilities**hardness 10;**Immune** construct traits
+**Fort** +1; **Ref** +3; **Will** +2
+**Defensive Abilities** hardness 10; **Immune** construct traits
 **Weaknesses** vulnerable to critical hits, vulnerable to electricity
 
 #### Offense
@@ -32,8 +32,8 @@ N Medium construct (mythic, robot)
 
 #### Statistics
 
-**Str**20,**Dex**15,**Con**—;**Int**10;**Wis**13;**Cha** 1
-**Base Atk**+4;**CMB**+9;**CMD** 21
+**Str** 20, **Dex** 15, **Con** —; **Int** 10; **Wis** 13; **Cha** 1
+**Base Atk** +4; **CMB** +9; **CMD** 21
 **Feats** Combat Reflexes, Power AttackMF
 **Skills** Craft (any one) +8, Disable Device +9, Perception +8, Profession (any one) +7, Sense Motive +8
 **Languages** Common

@@ -7,29 +7,29 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 51,200
 N Large ooze
-**Init**+0;**Senses**blindsight 180 ft.,**Perception** -5
+**Init** +0; **Senses** blindsight 180 ft., **Perception** -5
 
 **Defense**
-**AC**9,**touch**9,**flat-footed** 9 (-1 size)
+**AC** 9, **touch** 9, **flat-footed** 9 (-1 size)
 **hp** 230 (20d8+140)
-**Fort**+13,**Ref**+6,**Will** +1
-**Defensive Abilities**split (slashing or fire, 46 hp);**Immune** cold, ooze traits
+**Fort** +13, **Ref** +6, **Will** +1
+**Defensive Abilities** split (slashing or fire, 46 hp); **Immune** cold, ooze traits
 **Weakness** vulnerable to fire
 
 **Offense**
 **Speed** 20 ft., climb 20 ft.
 **Melee** slam +23 (1d8+13 plus grab and gunpowder residue)
 **Ranged** blast +14 touch (4d6+7 plus gunpowder residue)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** combust, constrict (1d8+13)
 
 **Tactics**
 Like all oozes, gunpowder oozes are mindless and therefore not prone to tactics. However, it will still make liberal use of its focusing formulae and Cluster Toss and Snap Toss talents to augment its own blast in ranged combat, covering targets in gunpowder residue before lighting them on fire with its alchemical weapons. In melee, it uses its alchemy poison as often as possible.
 
 **Statistics**
-**Str**28,**Dex**11,**Con**24,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+15;**CMB**+25 (+29 grapple);**CMD** 35 (39 vs. grapple, can’t be tripped)
-**Tradition**None,**PAM**Con,**DC** 22
+**Str** 28, **Dex** 11, **Con** 24, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +15; **CMB** +25 (+29 grapple); **CMD** 35 (39 vs. grapple, can’t be tripped)
+**Tradition** None, **PAM** Con, **DC** 22
 **Talents** Alchemy (formulae and poison packages, Cluster Toss, Focusing Formulae, Improved Alchemist Fire, Improved Flash Powder, Improved Tanglefoot Bag, Painful Venin, Panacea, Skilled Applicator, Snap Toss)
 **Skills** Climb +17, Craft (traps) +20
 

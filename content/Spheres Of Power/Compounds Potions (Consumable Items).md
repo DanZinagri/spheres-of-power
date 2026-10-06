@@ -69,8 +69,8 @@ Sneakster's packs include several compounds geared towards scouts and rogues, em
 ### Acceleration Dust [CoP]
 
 A cotton or satin pouch containing an electric blue powder.
-**Aura**faint Time;**CL** 1st (minor), 2nd (superior)
-**Slot**none;**Price**50 gp (minor), 200 gp (superior);**Weight** 0.1 lbs.
+**Aura** faint Time; **CL** 1st (minor), 2nd (superior)
+**Slot** none; **Price** 50 gp (minor), 200 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 As a standard action, you may make a ranged touch attack against a square within 30 feet, affecting all creatures within 10 feet of the affected area. Alternatively, as a standard action, you may choose to pour the dust over a single creature.
@@ -83,8 +83,8 @@ Distill Compound, Time sphere (Improved Haste); **Cost** 25 gp (minor), 100 gp (
 
 ### Acorn of Pummeling Branches [CoP]
 
-**Aura**faint Nature;**CL** 2nd (Small), 3rd (Medium), 6th (Large), 12th (Huge), 18th (Gargantuan), 24th (Colossal)
-**Slot**none;**Price**300 gp (Small), 450 gp (Medium), 900 gp (Large), 1,800 gp (Huge), 2,700 gp (Gargantuan), 3,600 gp (Colossal);**Weight** -
+**Aura** faint Nature; **CL** 2nd (Small), 3rd (Medium), 6th (Large), 12th (Huge), 18th (Gargantuan), 24th (Colossal)
+**Slot** none; **Price** 300 gp (Small), 450 gp (Medium), 900 gp (Large), 1,800 gp (Huge), 2,700 gp (Gargantuan), 3,600 gp (Colossal); **Weight** -
 
 **Description**
 This single acorn, when struck against a hard surface, will activate, instantaneously growing an oak tree, whose size is based on the caster level of the item. The oak tree, once grown, will proceed to attack any enemies of its creator as if under the effects of the Nature sphere ability Pummel from the (plant) package for 3 rounds.
@@ -106,8 +106,8 @@ Distill Compound, Nature sphere ((plant) package, Create Nature (geomancing)); *
 ### Anathema Poison [CoP]
 
 This ruby vial contains what appears to be a rat skull brimming in essential oil.
-**Aura**strong Death;**CL** 15th
-**Slot**none;**Price**2250 gp;**Weight** 0.1 lbs.
+**Aura** strong Death; **CL** 15th
+**Slot** none; **Price** 2250 gp; **Weight** 0.1 lbs.
 
 **Description**
 When a creature drinks anathema poison (either willingly or when eating or drinking something secretly containing the potion), they must succeed a DC 17 Will save or be permanently cursed. The exact nature of the curse is never predetermined, but almost always seems to poetically match those who fall subject to it. GMs should reference the Curse (ghost strike) talent for suitable examples. Curses bestowed by this poison may be removed with the Break Enchantment talent from the Life sphere, or with a wish ritual or spell (or similar effect), but otherwise cannot be dispelled.
@@ -117,8 +117,8 @@ Distill Compound, Death sphere (Curse (ghost strike)); **Cost** 1125 gp
 
 ### Animate Object Oil [CoP]
 
-**Aura**faint Enhancement;**CL** 2nd (very weak), 4th (weak), 6th (mild), 8th (mediocre), 12th (strong), 16th (very strong), 22th (perfect)
-**Slot**none;**Price**300 gp (very weak), 600 gp (weak), 900 gp (mild), 1,200 gp (mediocre), 1,800 gp (strong), 2,400 gp (very strong), 3,200 gp (perfect);**Weight** 0.1 lbs.
+**Aura** faint Enhancement; **CL** 2nd (very weak), 4th (weak), 6th (mild), 8th (mediocre), 12th (strong), 16th (very strong), 22th (perfect)
+**Slot** none; **Price** 300 gp (very weak), 600 gp (weak), 900 gp (mild), 1,200 gp (mediocre), 1,800 gp (strong), 2,400 gp (very strong), 3,200 gp (perfect); **Weight** 0.1 lbs.
 
 **Description**
 Rubbing this oil into an object for 1 minute will animate it, creating a construct under your control for an amount of time.
@@ -141,8 +141,8 @@ Distill Compound, Enhancement sphere (Animate Object (enhance)); **Cost** 150 gp
 ### Armored Magic Potion [CoP]
 
 A sturdy vial filled with a viscous blue liquid, usually sold with a lid or stopper embossed with a shield.
-**Aura**faint Protection;**CL** 1st (lesser), 5th (common), 10th (uncommon), 15th (rare), 20th (legendary)
-**Slot**none;**Price**150 gp (lesser), 750 gp (common), 1,500 gp (uncommon), 2250 gp (rare), 3,000 gp (legendary);**Weight** 0.1 lbs.
+**Aura** faint Protection; **CL** 1st (lesser), 5th (common), 10th (uncommon), 15th (rare), 20th (legendary)
+**Slot** none; **Price** 150 gp (lesser), 750 gp (common), 1,500 gp (uncommon), 2250 gp (rare), 3,000 gp (legendary); **Weight** 0.1 lbs.
 
 **Description**
 Most commonly purchased or brewed for and by adventurers, this potion grants protective armor for a limited time, based on the potion’s quality. This does not stack with other armor or shield bonuses, but does apply against attacks made by incorporeal creatures.
@@ -159,8 +159,8 @@ Distill Compound, Protection sphere (Armored Magic (aegis)); **Cost** 75 gp (les
 ### Barkskin Elixir [CoP]
 
 Stored in a maplewood container, this sappy substance is sometimes mistaken for syrup.
-**Aura**moderate Nature;**CL** 3rd
-**Slot**none;**Price**150 gp;**Weight** 0.1 lbs.
+**Aura** moderate Nature; **CL** 3rd
+**Slot** none; **Price** 150 gp; **Weight** 0.1 lbs.
 
 **Description**
 Drinking this elixir will grant a creature a +1 enhancement bonus to natural armor, and a +1 circumstance bonus to Stealth checks in natural terrain for 3 minutes. The creature temporarily loses the bonus to Stealth checks during any round that they moves more than 5 feet.
@@ -170,8 +170,8 @@ Distill Compound, Nature sphere ((plant) package, Nature’s Carapace (spirit));
 
 ### Battle Blessing [TS]
 
-**Aura**faint War;**CL** 3rd
-**Weight**1/10 lbs.;**Price** 450 gp
+**Aura** faint War; **CL** 3rd
+**Weight** 1/10 lbs.; **Price** 450 gp
 
 Battle blessings contain a single (totem) talent of the War sphere that does not cost a spell point to use. When activated as a standard action, this consumable blessing creates the totem it contains in a 55-foot radius for 3 minutes. This totem is fixed in place once created and does not move. Caster level 4 Battle blessings cost 600 gp (300 gp to craft), while caster level 5 Battle blessings cost 750 gp (375 gp to craft). Common totems include the totem of speed (at caster level 5), the haunting totem, and the scourging totem (at caster level 4). Thoughtful adventurers often give these to companions or hirelings that can activate them at the start of a battle.
 
@@ -181,8 +181,8 @@ Distill Compound, War sphere (any (totem) talent); **Cost** 225 gp
 ### Beast Warden Flask [CoP]
 
 A flask made from a wild gnome’s skull and emblazoned with the symbol of the Beast Wardens.
-**Aura**faint Alteration;**CL** 6th
-**Slot**none;**Price**1800 gp;**Weight** 0.1 lbs.
+**Aura** faint Alteration; **CL** 6th
+**Slot** none; **Price** 1800 gp; **Weight** 0.1 lbs.
 
 **Description**
 A beast warden flask is poison to creatures not possessing the Lycanthrope casting tradition or the shapeshifter subtype. Otherwise, when consumed as a potion, it grants the drinker a powerful animalistic transformation.
@@ -198,8 +198,8 @@ Distill Compound, Alteration sphere (Animalistic Transformation (transformation)
 
 ### Blessed Stick [TS]
 
-**Aura**faint Fate;**CL** 3rd
-**Weight**1/10 lbs.;**Price** 450 gp
+**Aura** faint Fate; **CL** 3rd
+**Weight** 1/10 lbs.; **Price** 450 gp
 
 When you or one of your allies within 35 feet is making an attack roll, skill check, ability score check, or saving throw, you may snap this stick as an immediate action to allow them to make the roll twice and take the highest roll. You must use this item before the roll in question is made.
 
@@ -209,8 +209,8 @@ Distill Compound, Fate sphere (Bless (word)); **Cost** 225 gp
 ### Blindfold Poison [CoP]
 
 This glass vial contains an inky black liquid that smells of tar and pitch.
-**Aura**moderate Dark;**CL** 4th
-**Slot**none;**Price**800 gp;**Weight** 0.1 lbs.
+**Aura** moderate Dark; **CL** 4th
+**Slot** none; **Price** 800 gp; **Weight** 0.1 lbs.
 
 **Description**
 When a creature drinks blindfold poison (either willingly or when eating or drinking something secretly containing the potion), they must succeed a DC 12 Will save or be blinded. At the end of each hour, the creature receives a new Will save to end the effect. After four hours, the effects of blindfold poison ends, regardless of their saving throws.
@@ -220,8 +220,8 @@ Distill Compound, Dark sphere (Imbue Shadow (shadow)); **Cost** 400 gp
 
 ### Break Enchantment Potion [TS]
 
-**Aura**faint Life;**CL** 3rd
-**Weight**1/10 lbs.;**Price** 450 gp
+**Aura** faint Life; **CL** 3rd
+**Weight** 1/10 lbs.; **Price** 450 gp
 
 This potion cures effects as a restore from the Life sphere. In addition, you may roll 1d20+3 vs. the MSD of all magic effects with a duration affecting the drinker. On a success, the effects are dispelled. Roll once per effect. You may exclude certain effects if you know about them. This counts as break enchantment and remove curse for effects that require those spells to remove. You can pour the potion onto a cursed item, which suppresses the curse long enough to remove it.
 
@@ -230,8 +230,8 @@ Distill Compound, Life sphere (Break Enchantment); **Cost** 225 gp
 
 ### Brew of Battle Reflexes [TS]
 
-**Aura**faint Enhancement;**CL** 5th
-**Weight**1/10 lbs.;**Price** 500 gp
+**Aura** faint Enhancement; **CL** 5th
+**Weight** 1/10 lbs.; **Price** 500 gp
 
 When consumed, this blood-red potion allows the drinker to make 2 additional attacks of opportunity each round, and to make attacks of opportunity while flat-footed, for 5 rounds. It also increases their initiative by 2 for the duration of the effect. These potions are especially popular with patrolling sentinels who expect to face large groups of enemies.
 
@@ -240,8 +240,8 @@ Distill Compound, Enhancement sphere (Superior Reflexes (enhance)); **Cost** 250
 
 ### Brew of the Dungeoneer
 
-**Aura**faint Divination;**CL** 4th
-**Slot**none;**Price**800 gp;**Weight** -
+**Aura** faint Divination; **CL** 4th
+**Slot** none; **Price** 800 gp; **Weight** -
 
 **Description**
 This milky grey substance has a musky smell and a taste of dirt and grime. Those that drink the potion gain a bonus of +2 to Disable Device and Perception checks related to traps, and the ability to disarm magic traps as if they possessed the trapfinding rogue class feature. The effects of the potion have a duration of 4 hours.
@@ -251,8 +251,8 @@ Distill Compound, Divination sphere (See Hazard (sense), Trapfinding (advanced, 
 
 ### Catfolk Guise Potion [CoP]
 
-**Aura**faint Alteration;**CL** 1st (minor), 5th (moderate), 10th (superior)
-**Slot**none;**Price**100 gp (minor), 500 gp (moderate), 2,000 gp (superior);**Weight** 0.1 lbs.
+**Aura** faint Alteration; **CL** 1st (minor), 5th (moderate), 10th (superior)
+**Slot** none; **Price** 100 gp (minor), 500 gp (moderate), 2,000 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 You shapeshift, gaining qualities of a catfolk for 1 minute. Mechanically, you gain the effects of Blank Transformation gaining claws as a natural attack. This is a polymorph effect.
@@ -266,8 +266,8 @@ Distill Compound, Alteration sphere (Powerful Limbs (superior only)); **Cost** 5
 
 ### Clean Air Incense [CoP]
 
-**Aura**moderate Nature;**CL** 5th
-**Slot**none;**Price**850 gp;**Weight** 0.1 lbs.
+**Aura** moderate Nature; **CL** 5th
+**Slot** none; **Price** 850 gp; **Weight** 0.1 lbs.
 
 **Description**
 Once lit (normally a full-round action, or a standard action with a tindertwig), this incense will continue to smoke in a 10-foot radius for 5 hours. Creatures who spend at least 5 minutes inside the smoke will find that any polluted or unbreathable gas or vapor inside the cloud converted into clean breathable air. This has no effect on supernatural or other magically created clouds (such as a vampire’s gaseous form or a cloudkill spell).
@@ -277,8 +277,8 @@ Distill Compound, Nature sphere ((air) package); **Cost** 425 gp
 
 ### Cleansing Potion
 
-**Aura**faint Life;**CL** 1st
-**Slot**none;**Price**50 gp;**Weight** 0.1 lbs.
+**Aura** faint Life; **CL** 1st
+**Slot** none; **Price** 50 gp; **Weight** 0.1 lbs.
 
 **Description**
 Made from blessed water, a cleansing potion removes the fatigued, sickened, and battered conditions, and lessens exhausted and nauseated by one step. If the status conditions healed or lessened are part of an ongoing effect, it only suppresses or reduces the effect for 1 round.
@@ -288,8 +288,8 @@ Distill Compound, Life sphere; **Cost** 25 gp
 
 ### Cleansing Potion, Greater
 
-**Aura**faint Life;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lbs.
+**Aura** faint Life; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lbs.
 
 **Description**
 Made from blessed water touched by a feather from an angelic being, this potion restores the same effects as the cleansing potion as well as completely removing the exhausted and nauseated conditions, and makes check with a +2 bonus against the DC of any poison or disease the target is suffering from, removing the poison or disease if successful.
@@ -299,8 +299,8 @@ Distill Compound, Life sphere (Restore Health (cure)); **Cost** 100 gp
 
 ### Clear Skies Incense [CoP]
 
-**Aura**faint Weather;**CL** 10th
-**Slot**none;**Price**650 gp;**Weight** 0.1 lbs.
+**Aura** faint Weather; **CL** 10th
+**Slot** none; **Price** 650 gp; **Weight** 0.1 lbs.
 
 **Description**
 Once lit (normally a full-round action, or a standard action with a tindertwig), this incense will continue to smoke in a 10-foot square for 10 hours. Creatures who spend at least 10 minutes inside the cloud of smoke treat weather outside the smoke 2 steps less severe.
@@ -310,8 +310,8 @@ Distill Compound, Weather sphere (Clear Skies (mantle, all)); **Cost** 375 gp
 
 ### Clearsight Dust [CoP]
 
-**Aura**faint Dark;**CL** 3rd
-**Slot**none;**Price**450 gp;**Weight** 0.1 lbs.
+**Aura** faint Dark; **CL** 3rd
+**Slot** none; **Price** 450 gp; **Weight** 0.1 lbs.
 
 **Description**
 As a standard action, you may make a ranged touch attack against a square within 30 feet. All creatures within 10 feet of the hit square becomes immune to all negative effects of any areas of darkness you create for 30 minutes. This does not grant affected creatures the ability to see in your darkness if they do not already possess a way to do so, but it does allow creatures with darkvision to see in pure darkness. Alternatively, you may choose to pour the powder over a single creature; if you do the effect will instead linger for 3 hours.
@@ -321,8 +321,8 @@ Distill Compound, Dark sphere (Clearsight (meld)); **Cost** 225 gp
 
 ### Common Cure
 
-**Aura**faint Life;**CL** 1st
-**Slot**none;**Price**50 gp;**Weight** 0.1 lbs.
+**Aura** faint Life; **CL** 1st
+**Slot** none; **Price** 50 gp; **Weight** 0.1 lbs.
 
 **Description**
 The most common of healing items, this simple vial full of enchanted water tends to be the main tool of low-level adventurers trying to stave off death. A single potion heals 1d8+1 hit points.
@@ -333,8 +333,8 @@ Distill Compound, Life sphere; **Cost** 25 gp
 ### Contingent Energy Resistance Potion [CoP]
 
 A glass flask containing fluid that continuously shifts colour, usually sold with a lid or stopper embossed with a pentacle with 5 different colored points.
-**Aura**faint Protection;**CL** 1st (minor), 5th (moderate), 15th (superior)
-**Slot**none;**Price**100 gp (minor), 500 gp (moderate), 1,500 gp (superior);**Weight** 0.1 lbs.
+**Aura** faint Protection; **CL** 1st (minor), 5th (moderate), 15th (superior)
+**Slot** none; **Price** 100 gp (minor), 500 gp (moderate), 1,500 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 The effects of this potion stay dormant until the first time the drinker would take energy damage, at which time the drinker gains energy resistance vs. that energy type for a limited time. If the potion does not trigger during its dormant period after use, the potion is wasted.
@@ -348,8 +348,8 @@ Distill Compound, Protection sphere (Energy Resistance (aegis, ward)); **Cost** 
 
 ### Crystal Grenade [CoP]
 
-**Aura**faint Destruction;**CL** 1st (minor), 11th (moderate), 21th (superior)
-**Slot**none;**Price**150 gp (minor), 1,650 gp (moderate), 3,150 gp (superior);**Weight** 0.1 lbs.
+**Aura** faint Destruction; **CL** 1st (minor), 11th (moderate), 21th (superior)
+**Slot** none; **Price** 150 gp (minor), 1,650 gp (moderate), 3,150 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 This grenade is considered a thrown splash weapon. It deals piercing damage in a radius burst centered on the target. Any creature receiving damage must succeed at a Reflex save or become entangled and unable to move. The affected area becomes overgrown with crystal and counts as difficult terrain. Breaking free of the entangled condition is a move action, requiring either a Strength check or an Escape Artist check against the grenade’s save DC. A target may also destroy the crystal on a square or creature by dealing damage to the crystal. This removes the entangled condition from the creature and destroys the difficult terrain. The crystal disappears after 1 minute.
@@ -365,8 +365,8 @@ Distill Compound, Destruction sphere (Crystal Blast (blast type, crystal), Explo
 
 ### Current Events Incense [CoP]
 
-**Aura**faint Divination;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lbs.
+**Aura** faint Divination; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lbs.
 
 **Description**
 Once lit (normally a full-round action, or a standard action with a tindertwig), this incense will continue to smoke in a 5-foot square for 1 minute. Any creature that spends at least 1 round inside the cloud of smoke may make a single Diplomacy check to gather information as though you had spent 1d4 hours talking to local people, without having to use an action to do so. An individual may not make more than one gather information check this way. Attempting multiple Diplomacy checks made by multiple creatures to gather information on the same topic always grants the same information as the first check.
@@ -376,8 +376,8 @@ Distill Compound, Divination sphere (Witness The City (divine)); **Cost** 100 gp
 
 ### Cursed Stick [TS]
 
-**Aura**faint Fate;**CL** 3rd
-**Weight**1/10 lbs.;**Price** 450 gp
+**Aura** faint Fate; **CL** 3rd
+**Weight** 1/10 lbs.; **Price** 450 gp
 
 When an enemy within 35 feet is making an attack roll, skill check, ability score check, or saving throw, you may snap the stick as an immediate action to force that target to make the roll twice and take the lower result. You must use this item before the roll in question is made. This is a curse effect. A creature can only be affected by a cursed stick once per day.
 
@@ -386,8 +386,8 @@ Distill Compound, Fate sphere (Curse (word)); **Cost** 225 gp
 
 ### Dark Sacrifice Potion [CoP]
 
-**Aura**faint Death;**CL** 3rd (minor), 5th (moderate), 12th (superior)
-**Slot**none;**Price**450 gp (minor), 1,000 gp (moderate), 3,000 gp (superior);**Weight** 0.1 lbs.
+**Aura** faint Death; **CL** 3rd (minor), 5th (moderate), 12th (superior)
+**Slot** none; **Price** 450 gp (minor), 1,000 gp (moderate), 3,000 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 This potion is usually only used by necromancers who believe that their end is nigh, but need just a few more seconds to accomplish their task. After imbibing this potion, if at any time during the potion’s duration, the drinker would take hit point damage that would reduce them to 0 hit points or less, they can as an immediate action sacrifice a mindless undead under their control within range, destroying it instantly; reduce the damage that the drinker would take by the sacrificed undead’s current hit points (to a minimum of 0). After sacrificing an undead, the potion’s duration immediately ends.
@@ -401,8 +401,8 @@ Distill Compound, Death sphere (Dark Sacrifice); **Cost** 225 gp (minor), 500 gp
 
 ### Deathlessness Potion
 
-**Aura**faint Protection;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** -
+**Aura** faint Protection; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** -
 
 **Description**
 This liquid has a barely visible pink hue when held to the light, and smells like earth after rainfall. The drinker of this potion gains the benefit of the Deathless aegis for 2 hours.
@@ -412,8 +412,8 @@ Distill Compound, Protection sphere (Deathless (aegis)); **Cost** 100 gp
 
 ### Disposable Magic Sword [TS]
 
-**Aura**strong Destruction;**CL** 20th
-**Weight**3 lbs.;**Price** 5,000 gp
+**Aura** strong Destruction; **CL** 20th
+**Weight** 3 lbs.; **Price** 5,000 gp
 
 Incredibly illegal in most areas and kept from wider circulation through a combination of the expense per use and difficulty of crafting them, disposable magic swords look like red-bladed longswords at first glance (although they make poor weapons and can only be used as improvised weapons if swung as one). However, when swung overhead as a standard action, they deal 20d4 sonic damage to all targets (including objects) in a 75-foot cone or a 300-foot line (Reflex DC 20 for half). This blast deals full damage to objects and ignores up to 10 points of hardness. As the name implies, disposable magic swords crumble after unleashing this magic blast.
 
@@ -423,8 +423,8 @@ Distill Compound, Destruction sphere (Sculpt Blast (blast shape), Shattering Bla
 ### Dissolution Oil [CoP]
 
 This oily pitch smells of rotten eggs and is almost always stored in vials of glass or dense resin.
-**Aura**moderate Creation;**CL** 6th
-**Slot**none;**Price**1,800 gp;**Weight** 0.1 lbs.
+**Aura** moderate Creation; **CL** 6th
+**Slot** none; **Price** 1,800 gp; **Weight** 0.1 lbs.
 
 **Description**
 As a standard action, you may make a ranged touch attack against a creature within 30 feet, targeting an attended non-magical object, magical object, or creature. Any target struck by the oil must succeed a DC 13 Fortitude saving throw or take 12d6 points of damage that bypassess all hardness, resistances, and damage reduction. Successfully making the saving throw reduces the damage taken to a mere 1d6+6 damage.
@@ -436,8 +436,8 @@ Distill Compound, Creation sphere (Dissolution (advanced, alter), Potent Alterat
 
 ### Electric Oil [CoP]
 
-**Aura**faint Destruction;**CL** 2nd (minor), 5th (moderate), 10th (superior)
-**Slot**none;**Price**300 gp (minor), 750 gp (moderate), 1,500 gp (superior);**Weight** 0.1 lbs.
+**Aura** faint Destruction; **CL** 2nd (minor), 5th (moderate), 10th (superior)
+**Slot** none; **Price** 300 gp (minor), 750 gp (moderate), 1,500 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 This oil may be applied to a weapon as a poison. If used to successfully strike a creature before 1 round passes, the weapon explodes with a burst of lightning, dealing an additional electricity damage to the target, based on the oil’s quality. If a weapon coated in this oil is used to attack a target made from metal or wearing metal armor, the attack is made with a +3 bonus.
@@ -451,8 +451,8 @@ Distill Compound, Destruction sphere (Electric Blast (blast type, electricity));
 
 ### Elemental Oil [TS]
 
-**Aura**faint Enhancement;**CL** 4th
-**Weight**1/10 lbs.;**Price** 800 gp
+**Aura** faint Enhancement; **CL** 4th
+**Weight** 1/10 lbs.; **Price** 800 gp
 
 The affected weapon deals 1d6+2 points of acid, fire, cold, or electricity damage on a successful hit, in addition to normal weapon damage, chosen when it is used. This does not stack with the corrosive, flaming, frost, or shock weapon special abilities. The effect lasts 4 minutes.
 
@@ -461,8 +461,8 @@ Distill Compound, Enhancement sphere (Energy Enhancement (enhance)); **Cost** 40
 
 ### Elixir of Lifegiving [TS]
 
-**Aura**strong Life;**CL** 20th
-**Weight**1/10 lbs.;**Price** 25,000 gp
+**Aura** strong Life; **CL** 20th
+**Weight** 1/10 lbs.; **Price** 25,000 gp
 
 An extraordinarily rare drink, and often sold for much more than the cost to create it, the elixir of lifegiving can bring a target back to life as long as they have been dead for less than 200 years and there is at least a small bit of their body to pour the elixir on (such as a pinch of ashes or a single finger). The target revives with full health, but one permanent negative level (or suffers -2 to their Constitution if they only have one Hit Dice; treat this as ability drain). The target does not suffer from any other ailments that may have afflicted them before dying, such as curses, diseases, or poisons. Elixirs of lifegiving do not work on creatures that have died of old age.
 
@@ -472,8 +472,8 @@ Distill Compound, Life sphere (Break Enchantment, Make Whole (advanced), Restore
 ### Embalming Oil [CoP]
 
 This palm and myrrh oil is generally stored in bone flask and is used by healers and necromancers alike.
-**Aura**faint Death and Life;**CL** 10th
-**Slot**none;**Price**1,000 gp;**Weight** 0.1 lbs.
+**Aura** faint Death and Life; **CL** 10th
+**Slot** none; **Price** 1,000 gp; **Weight** 0.1 lbs.
 
 **Description**
 Pouring this oil on a corpse or limb, will preserve the remains for upto 10 days. Doing so effectively extends the time limit on raising the creature from the dead. Days spent under the influence of this oil do not count against the time limit. Additionally, this makes transporting a slain (and thus decaying) comrade less unpleasant.
@@ -483,8 +483,8 @@ Distill Compound, Death sphere (Corpse Manipulation); **Cost** 500 gp
 
 ### Extract Blood Construct Oil [CoP]
 
-**Aura**faint Blood;**CL** 3rd (very weak), 6th (weak), 9th (mild), 15th (mediocre), 18th (strong), 21th (very strong), 24th (perfect)
-**Slot**none; Price 450 gp (very weak), 900 gp (weak), 1,350 gp (mild), 2,250 gp (mediocre), 2,700 gp (strong), 3,150 gp (very strong), 3,600 gp (perfect);**Weight** 0.1 lbs.
+**Aura** faint Blood; **CL** 3rd (very weak), 6th (weak), 9th (mild), 15th (mediocre), 18th (strong), 21th (very strong), 24th (perfect)
+**Slot** none; Price 450 gp (very weak), 900 gp (weak), 1,350 gp (mild), 2,250 gp (mediocre), 2,700 gp (strong), 3,150 gp (very strong), 3,600 gp (perfect); **Weight** 0.1 lbs.
 
 **Description**
 Pouring this oil on the corpse of a creature will draw out and animate the blood of the creature, creating a blood construct under your control for an amount of time. The size and time which the creature may not been dead yet depend on the oil quality.
@@ -506,8 +506,8 @@ Distill Compound, Blood sphere (Extract Blood Construct); **Cost** 225 gp (very 
 
 ### Faerie Flight Dust [CoP]
 
-**Aura**faint Fallen Fey or Telekinesis;**CL** 7th
-**Slot**none;**Price**350 gp;**Weight** 0.1 lbs.
+**Aura** faint Fallen Fey or Telekinesis; **CL** 7th
+**Slot** none; **Price** 350 gp; **Weight** 0.1 lbs.
 
 **Description**
 As a standard action, you may make a ranged touch attack against a square within 30 feet. All creatures within 10 feet of the affected area gain supernatural flight, with a fly speed of 30 feet with maneuverability (poor) for 1 round. Alternatively, you may choose to pour the dust over a single creature, if you do, the effect of the dust lingers for 1 minute, granting and instead grants a fly speed of 30 feet with maneuverability (perfect) for the duration.
@@ -518,8 +518,8 @@ Distill Compound, Fallen Fey sphere (Fairy Flight (fey-blessing)) or Telekinesis
 ### Fire Poison [CoP]
 
 This vial contains a fiery red liquid that bubbles in its container.
-**Aura**moderate Destruction;**CL** 3rd (minor), 7th (moderate), 21st (superior)
-**Slot**none;**Price**300 gp (minor), 700 gp (moderate), 2,100 gp (superior);**Weight** 0.1 lbs.
+**Aura** moderate Destruction; **CL** 3rd (minor), 7th (moderate), 21st (superior)
+**Slot** none; **Price** 300 gp (minor), 700 gp (moderate), 2,100 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 When a creature drinks fire poison (either willingly or when eating or drinking something secretly containing the potion), they suffer an amount of fire damage, based on the quality of the poison, and catch fire, suffering 1d6 damage per round until the fire is extinguished. A successful Fortitude save halves the damage and stops the target from catching fire.
@@ -534,8 +534,8 @@ Distill Compound, Destruction sphere (any (blast type) talent from the fire blas
 ### Flash Step Dust [CoP]
 
 This appears to be a lead jar filled with finely shaved shards of blue glass.
-**Aura**faint Warp;**CL** 1st
-**Slot**none;**Price**50 gp;**Weight** 0.1 lbs.
+**Aura** faint Warp; **CL** 1st
+**Slot** none; **Price** 50 gp; **Weight** 0.1 lbs.
 
 **Description**
 A favorite among troubadours and vigilantes who like to exit a scene with style. As a standard action, you may make a ranged touch attack against a square within 30 feet. All visible, conscious, and willing creatures within 10 feet of the affected area are teleported 25 feet in a direction of their choosing.
@@ -547,8 +547,8 @@ Distill Compound, Warp sphere; **Cost** 25 gp
 
 ### Force Bubble Grenade [CoP]
 
-**Aura**faint Protection;**CL** 5th
-**Slot**none;**Price**500 gp;**Weight** 0.1 lbs.
+**Aura** faint Protection; **CL** 5th
+**Slot** none; **Price** 500 gp; **Weight** 0.1 lbs.
 
 **Description**
 This grenade is thrown as a thrown splash weapon. Instead of dealing damage, it creates a 35-foot radius field of force centered on the target. Creatures within 5 feet of the field’s boundary are shunted to the nearest empty space, and must succeed a DC 12 Reflex save or take 3d6 force damage. The field of force has 9 hit points, a Break DC of 17, and remains in place for 5 rounds or until destroyed, whichever comes first. In all other respects, the field of force is treated as a barrier created with the Protection sphere.
@@ -559,8 +559,8 @@ Distill Compound, Protection sphere (Distant Protection); **Cost** 250 gp
 ### Form Breaker Oil [CoP]
 
 A sticky concoction of colloidal silver, wolfsbane, and cold iron.
-**Aura**moderate Alteration;**CL** 5th (lesser), 10th (greater)
-**Slot**none;**Price**250 gp (lesser), 1,500 gp (greater);**Weight** 0.1 lbs.
+**Aura** moderate Alteration; **CL** 5th (lesser), 10th (greater)
+**Slot** none; **Price** 250 gp (lesser), 1,500 gp (greater); **Weight** 0.1 lbs.
 
 **Description**
 Vials of form breaker oil may be thrown as splash weapons. You may attempt a magic skill check to dispel any Alteration sphere or polymorph effects on affected creatures. A creature that sustain a direct hit and has an effect dispelled cannot be affected by polymorph effects for the duration or until it scrapes the residue off.
@@ -573,8 +573,8 @@ Distill Compound; Counterspell or Form-Breaker mystic combat; **Cost** 125 gp (l
 
 ### Gem of Energy Ward [TS]
 
-**Aura**faint Protection;**CL** 4th
-**Weight**1/10 lbs.;**Price** 800 gp
+**Aura** faint Protection; **CL** 4th
+**Weight** 1/10 lbs.; **Price** 800 gp
 
 Crushing this gem creates a 30-foot radius spherical area that dampens a certain energy type. All damage of one of the following types dealt in the area is reduced by 14: Acid, cold, electricity, fire, sonic. The element is determined when the gem is created. This defense lasts 4 minutes.
 
@@ -583,8 +583,8 @@ Distill Compound, Protection sphere (Energy Resistance (aegis, ward)); **Cost** 
 
 ### Ghost Sight Potion [CoP]
 
-**Aura**faint Divination;**CL** 2nd (lesser), 4th (moderate), 8th (greater)
-**Slot**none;**Price**200 gp (lesser), 600 gp (moderate), 1,600 gp (greater);**Weight** 0.1 lbs.
+**Aura** faint Divination; **CL** 2nd (lesser), 4th (moderate), 8th (greater)
+**Slot** none; **Price** 200 gp (lesser), 600 gp (moderate), 1,600 gp (greater); **Weight** 0.1 lbs.
 
 **Description**
 You gain a special sense that grants you a bonus to Perception checks made to notice invisible or ethereal creatures. If you succeed at this check, the creature’s outline becomes visible to you. This negates both the usual penalties you would suffer attacking an invisible creature, and the bonuses the creature would normally gain against you. This continues until you lose line of sight to the creature, in which case you must succeed at a new Perception check to see them.
@@ -599,8 +599,8 @@ Distill Compound, Divination sphere (Ghost Sight (sense)); **Cost** 100 gp (less
 ### Gourmand Dust [CoP]
 
 This appears to be a grainy white powder with a strong aroma of cinnamon, cloves, and nutmeg, stored within a spice shaker.
-**Aura**faint Divination;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lbs.
+**Aura** faint Divination; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lbs.
 
 **Description**
 While primarily used by cooks and gourmands, it is also commonly found in the possession of the paranoid adventurer or noble. As a standard action, you may make a ranged touch attack against a square within 30 feet. All visible meals and drinks within 10 feet of the affected area radiate for 1 round if they contain a disease, drug, or poison. Food or drink that naturally contain a disease, drug, or poison, such as wine which has the drug alcohol, always glow and do not make such a distinction.
@@ -612,8 +612,8 @@ Distill Compound, Divination sphere; **Cost** 100 gp
 
 ### Halfling Black Bread
 
-**Aura**faint Life;**CL** 2nd
-**Slot**none;**Price**100 gp;**Weight** 1 lb.
+**Aura** faint Life; **CL** 2nd
+**Slot** none; **Price** 100 gp; **Weight** 1 lb.
 
 **Description**
 This bread is originally an invention of halflings who made it ‘with love’. Halfling love turned out to be a powerful combination of fermented herbs. A single slice of this bread is enough to grant the eater fast healing 1 for 2 minutes, and counts as a full meal for anyone that eats it.
@@ -623,8 +623,8 @@ Distill Compound, Life sphere, creator must be a halfling; **Cost** 50 gp
 
 ### Hallow Word Oil [CoP]
 
-**Aura**faint Fate;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lb.
+**Aura** faint Fate; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lb.
 
 **Description**
 Applying this oil to a creature bestows the effects of the Hallow word for 2 minutes. Mechanically, they gain a +1 sacred bonus to attack rolls, AC, and saving throws made by evil creatures. For the duration, they also gain immunity to any spell or effect that possesses or exercises mental control over them (including enchantment charm effects and enchantment compulsion effects), so long as the effect originates from an evil alignment. If already possessed, they instead gain a new save against the possession.
@@ -634,8 +634,8 @@ Distill Compound, Fate sphere; **Cost** 100 gp
 
 ### Healing Potion, Standard [TS]
 
-**Aura**faint Life;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Life; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 Instantly heals 2d8+2 hit points. This is a positive energy effect, and thus harms undead rather than healing them. You may apply the potion to an undead creature with a melee touch attack, and they receive a Will save (DC 11) to halve the damage.
 
@@ -644,8 +644,8 @@ Distill Compound, Life sphere (any 1 (cure) talent); **Cost** 100 gp
 
 ### Healing Potion, Improved [TS]
 
-**Aura**faint Life;**CL** 3rd
-**Weight**1/10 lbs.;**Price** 450 gp
+**Aura** faint Life; **CL** 3rd
+**Weight** 1/10 lbs.; **Price** 450 gp
 
 Instantly heals 3d8+3 hit points. This is a positive energy effect, and thus harms undead rather than healing them. You may apply the potion to an undead creature with a melee touch attack, and they receive a Will save (DC 11) to halve the damage.
 
@@ -654,8 +654,8 @@ Distill Compound, Life sphere (any 2 (cure) talents); **Cost** 225 gp
 
 ### Healing Potion, Greater [TS]
 
-**Aura**faint Life;**CL** 4th
-**Weight**1/10 lbs.;**Price** 800 gp
+**Aura** faint Life; **CL** 4th
+**Weight** 1/10 lbs.; **Price** 800 gp
 
 This potion instantly heals 4d8+4 hit points. This is a positive energy effect, and thus harms undead rather than healing them. You may apply the potion to an undead creature with a melee touch attack, and they receive a Will save (DC 12) to halve the damage.
 
@@ -665,8 +665,8 @@ Distill Compound, Life sphere (any 3 (cure) talents); **Cost** 400 gp
 ### Hemorrhage Poison [CoP]
 
 This glass vial contains burgundy liquid that smells of garlic.
-**Aura**moderate Blood;**CL** 1st (lesser), 5th (greater)
-**Slot**none;**Price**50 gp (lesser), 500 gp (greater);**Weight** 0.1 lbs.
+**Aura** moderate Blood; **CL** 1st (lesser), 5th (greater)
+**Slot** none; **Price** 50 gp (lesser), 500 gp (greater); **Weight** 0.1 lbs.
 
 **Description**
 When a creature drinks hemorrhage poison (either willingly or when eating or drinking something secretly containing the potion), they must succeed a Fortitude save or begin to take bleed damage for the duration, based on the quality of the poison. Creatures who are at half their maximum hit points (wounded) or currently taking bleed damage take a -4 penalty to the save. A creature poisoned, may stop further bleed damage with a DC 15 Heal check or any amount of magical healing.
@@ -679,8 +679,8 @@ Distill Compound, Blood sphere (Hemorrhage (greater only)); **Cost** 25 gp (less
 
 ### Incendiary Grenade
 
-**Aura**faint Destruction;**CL** 5th
-**Slot**none;**Price**1,000 gp;**Weight** -
+**Aura** faint Destruction; **CL** 5th
+**Slot** none; **Price** 1,000 gp; **Weight** -
 
 **Description**
 This grenade is thrown as a thrown splash weapon. It deals 5d6 fire damage in a 15-foot radius burst centered on the target. Any target or object that takes damage must succeed on a DC 12 Reflex save or catch on fire, taking 1d6 fire damage per round until extinguished or takes no damage for 2 consecutive rounds. Each round the target may attempt another Reflex save to extinguish the flames. Rolling on the ground or using a blanket to smother the flames (a full-round action) grants the target a +4 bonus to that round’s saving throw.
@@ -691,8 +691,8 @@ Distill Compound, Destruction sphere (Explosive Orb (blast shape), Fire Blast (b
 ### Infiltration Potion [CoP]
 
 This thick, mud-like slop is odorless and tasteless until prepared for consumption, which is done by adding a sample of a specific individual (usually a hair clipping). After adding the creature sample, the brew begins to bubble forth odors like unto the creature.
-**Aura**moderate Alteration;**CL** 6th (lesser, greater)
-**Slot**none;**Price**900 gp (lesser), 1,500 gp (greater);**Weight** 0.1 lb.
+**Aura** moderate Alteration; **CL** 6th (lesser, greater)
+**Slot** none; **Price** 900 gp (lesser), 1,500 gp (greater); **Weight** 0.1 lb.
 
 **Description**
 Those that drink this potion will find themselves under the effects of the Alteration shapeshift ability for 1 hour. The form and traits of the shapeshift are dependant both on the added sample and the strength of the potion.
@@ -705,8 +705,8 @@ Distill Compound, Alteration sphere (Greater Transformation (greater only), Perf
 
 ### Infravision Lenses [TS]
 
-**Aura**weak light;**CL** 5th
-**Slot**eyes;**Weight**1/10 lbs.;**Price** 500 gp
+**Aura** weak light; **CL** 5th
+**Slot** eyes; **Weight** 1/10 lbs.; **Price** 500 gp
 
 These disposable goggles contain special liquid between the lenses, and when activated the liquids mix and activate, granting the user infravision for 50 minutes.
 
@@ -718,8 +718,8 @@ Distill Compound, Light sphere (Infravision (lens)); **Cost** 250 gp
 ### Judge Mint [Jester's HB]
 
 “The taste of judgement is bittersweet. And refreshing.” -Judge-King Sandalphon
-**Aura**faint Fate;**CL** 3rd
-**Slot**none;**Price**600 gp;**Weight** 0.1 lbs.
+**Aura** faint Fate; **CL** 3rd
+**Slot** none; **Price** 600 gp; **Weight** 0.1 lbs.
 
 Judge mints can be consumed to grant the benefits of one consecration centered on the target with a 20-foot radius for 1 minute. If the consecration has conditions or decisions which are normally made when cast, they are made when the judge mint is consumed (such as choosing an alignment for the Divine Pressure consecration). These mints are oddly refreshing, but can make the consumer feel odd things such as a heightened sense of purpose, guilt, or responsibility.
 
@@ -728,8 +728,8 @@ Distill Compound, Fate sphere (any (consecration) talent); **Cost** 300 gp
 
 ### Light of True Magic
 
-**Aura**faint Protection;**CL** 5th
-**Slot**none;**Price**2,500 gp;**Weight** 0.1 lbs.
+**Aura** faint Protection; **CL** 5th
+**Slot** none; **Price** 2,500 gp; **Weight** 0.1 lbs.
 
 **Description**
 This gemstone glows faintly with ethereal light. It is made of pure magic, which reacts violently with anti-magical effects. When brought into a Spell Ward, antimagic field or similar effect, it immediately evaporates, and its energy fills the void the effect creates. No damage is done, but the effect is destroyed, or suppressed for 1d4 minutes if it is a permanent effect or a magic item. The gem does not need to be deliberately used - a character need merely have it in their possession and enter a magic suppressing field for it to function. A character with multiple gemstones will find that they all evaporate upon entering a field. The exception is extradimensional spaces - a light of true magic in a bag of holding or another extradimensional space will not activate if the bag is brought into an antimagic field or similar, as it is not truly in the field. Pulling a light of true magic out of such an extradimensional space, however, which are rendered inaccessible within antimagic fields, can be its own ordeal.
@@ -739,8 +739,8 @@ Distill Compound, Protection sphere (Spell Ward (aegis, ward)); **Cost** 1,250 g
 
 ### Love Everlasting Potion
 
-**Aura**moderate Mind;**CL** 10th
-**Slot**none;**Price**4,000 gp;**Weight** .5 lbs.
+**Aura** moderate Mind; **CL** 10th
+**Slot** none; **Price** 4,000 gp; **Weight** .5 lbs.
 
 **Description**
 This potion causes any creature who drinks it to fall madly in love with the first creature he or she perceives. The drinker’s attitude toward that creature becomes helpful. If a romantic attraction is possible toward the first person viewed, the drinker falls in love with that person. Otherwise, the drinker’s love is a platonic adoration. The effects of this potion are permanent unless removed by the Counterspell feat, the Break Enchantment talent, or through some similar means.
@@ -750,8 +750,8 @@ Distill Compound, Mind sphere; **Cost** 2,000 gp
 
 ### Magic Detection Incense [CoP]
 
-**Aura**faint Divination;**CL** 1st
-**Slot**none;**Price**50 gp;**Weight** 0.1 lbs.
+**Aura** faint Divination; **CL** 1st
+**Slot** none; **Price** 50 gp; **Weight** 0.1 lbs.
 
 **Description**
 Once lit (normally a full-round action, or a standard action with a tindertwig), this incense will continue to smoke in a 5-foot square for 5 minutes. Every minute that a creature spends inside the cloud of smoke, they can divine and identify magical auras of one creature, object, or phenomena as if using detect magic.
@@ -761,8 +761,8 @@ Distill Compound, Divination sphere; **Cost** 25 gp
 
 ### Magical Competence Dust
 
-**Aura**faint Divination;**CL** 1st
-**Slot**none;**Price**50 gp;**Weight** -
+**Aura** faint Divination; **CL** 1st
+**Slot** none; **Price** 50 gp; **Weight** -
 
 **Description**
 This silvery dust which is normally kept in small black velvet pouches are most often used by wizards and inquisitors. While wizards use this powder on guild applicants before allowing apprenticeship, inquisitors utilize this item as evidence, misleading or not, of witchcraft. As a standard action, you may make a ranged touch attack against a square within 30 feet. All visible creatures within 10 feet of the affected area radiate as if under the effects of Detect Spellcaster for 1 round.
@@ -774,8 +774,8 @@ Distill Compound, Divination sphere (Detect Spellcaster (divine)); **Cost** 25 g
 
 ### Mana Nail [TS]
 
-**Aura**moderate Mana;**CL** 7th
-**Slot**none;**Price**25,000 gp;**Weight** 0.05 lbs.
+**Aura** moderate Mana; **CL** 7th
+**Slot** none; **Price** 25,000 gp; **Weight** 0.05 lbs.
 
 These two-inch nails appear to be made out of metal, but are strangely translucent at the same time. By pressing a mana nail into their skin as a standard action, the user gains a pool of charges equal to their casting ability modifier.
 
@@ -791,8 +791,8 @@ Distill Compound, Mana sphere; **Cost** 12,500 gp
 ### Manipulation Poison [CoP]
 
 When opened a soft lavender mist rises from the glass vial.
-**Aura**moderate Mind;**CL** 11th
-**Slot**none;**Price**550 gp;**Weight** 0.1 lbs.
+**Aura** moderate Mind; **CL** 11th
+**Slot** none; **Price** 550 gp; **Weight** 0.1 lbs.
 
 **Description**
 When a creature drinks manipulation poison (either willingly or when eating or drinking something secretly containing the potion), they must succeed a Will save or be compelled to obey the first valid request given it. Very simple requests allow for a DC 17 Will save, while basic requests all for a DC 15 Will save. The creature will not be compelled to do anything it would not normally do. Once a valid request is given, the creature performs the suggested action until it finishes, or for 11 hours, whichever comes first. If you choose, you can instead specify conditions the creature should look for, (i.e., “you should search the next person who enters this room, looking for weapons”). If the condition is not met before this duration expires, the activity is not performed. This is an enchantment compulsion mind-affecting ability.
@@ -802,8 +802,8 @@ Distill Compound, Mind sphere; **Cost** 275 gp
 
 ### Monstrous Transformation Potion
 
-**Aura**moderate Alteration;**CL** 5th
-**Slot**none;**Price**750 gp;**Weight** .5 lbs.
+**Aura** moderate Alteration; **CL** 5th
+**Slot** none; **Price** 750 gp; **Weight** .5 lbs.
 
 **Description**
 This potion transforms the drinker into a ferocious monster, granting them a bite attack and 2 claw attacks for 5 minutes.
@@ -813,8 +813,8 @@ Distill Compound, Alteration sphere; **Cost** 375 gp
 
 ### Mother’s Mercy
 
-**Aura**faint Life;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lbs.
+**Aura** faint Life; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lbs.
 
 **Description**
 Originally passed off as nothing more than snake oil due to its difficulty in use, this small bottle of seven secret ingredients has life-saving properties. Once imbibed, it restores 1d8+2 hit points. If poured down the throat of a creature that has died in the previous round, it restores the same number of hit points, and if the target’s new hit point total is greater than the negative of its Constitution score, then it comes back to life and stabilizes at its new hit point total. Otherwise, the creature remains dead. Creatures brought back to life in this manner gain a temporary negative level.
@@ -825,8 +825,8 @@ Distill Compound, Life sphere (Resuscitate); **Cost** 100 gp
 ### Object Repair Oil [CoP]
 
 This oily liquid releases fumes in the open air that cause some to become light-headed.
-**Aura**faint Creation;**CL** 1st (lesser), 4th (greater)
-**Slot**none;**Price**50 gp (lesser), 800 gp (greater);**Weight** 0.1 lbs.
+**Aura** faint Creation; **CL** 1st (lesser), 4th (greater)
+**Slot** none; **Price** 50 gp (lesser), 800 gp (greater); **Weight** 0.1 lbs.
 
 **Description**
 You may repair a damaged object, restoring a number of hit points based upon the quality of the oil. If the object has the broken condition, this condition is removed if the object is restored to at least half its original hit points. This ability cannot restore warped or transmuted items, but it can still repair damage done to such items.
@@ -839,8 +839,8 @@ Distill Compound, Creation sphere (Potent Alteration (greater only)); **Cost** 2
 
 ### Oil of Bleeding Serum [TS]
 
-**Aura**faint Enhancement;**CL** 4th
-**Weight**1/10 lbs.;**Price** 800 gp
+**Aura** faint Enhancement; **CL** 4th
+**Weight** 1/10 lbs.; **Price** 800 gp
 
 The affected weapon deals 2 points of bleed damage on a successful hit in addition to normal weapon damage. This effect lasts 4 minutes.
 
@@ -849,8 +849,8 @@ Distill Compound, Enhancement sphere (Ragged Edges (enhance)); **Cost** 400 gp
 
 ### Oil of Carthus Rouge [TS]
 
-**Aura**faint Enhancement;**CL** 5th
-**Weight**1/10 lbs.;**Price** 1,250 gp
+**Aura** faint Enhancement; **CL** 5th
+**Weight** 1/10 lbs.; **Price** 1,250 gp
 
 The affected weapon deals 5 points of bleed damage on a successful hit in addition to its normal weapon damage. This effect lasts 5 minutes.
 
@@ -859,8 +859,8 @@ Distill Compound, Enhancement sphere (Ragged Edges (enhance)); **Cost** 625 gp
 
 ### Oil of Enhancement [TS]
 
-**Aura**faint (+1/+2), moderate (+3), or strong (+4/+5) Enhancement;**CL** 2nd (+1), 5th (+2), 10th (+3), 15th (+4), or 20th (+5)
-**Weight**1/10 lbs.;**Price** 200 gp (+1), 500 gp (+2/+3), 750 gp (+4), or 1,000 gp (+5)
+**Aura** faint (+1/+2), moderate (+3), or strong (+4/+5) Enhancement; **CL** 2nd (+1), 5th (+2), 10th (+3), 15th (+4), or 20th (+5)
+**Weight** 1/10 lbs.; **Price** 200 gp (+1), 500 gp (+2/+3), 750 gp (+4), or 1,000 gp (+5)
 
 The affected weapon, suit of armor, or shield gains a +1 to +5 enhancement bonus for 2 minutes (+1), 5 minutes (+2), 1 minute (+3), 1 and a half minutes (+4), or 2 minutes (+5). This overlaps (and therefore does not stack with) any enhancement bonus already possessed by the item. The duration of the +3 to +5 oils can be multiplied by 10 by doubling their cost.
 
@@ -869,8 +869,8 @@ Distill Compound, Enhancement sphere; **Cost** 100 gp (+1), 250 gp (+2/+3), 375 
 
 ### Oil of Forged Reach [TS]
 
-**Aura**faint Nature;**CL** 4th
-**Weight**1/10 lbs.;**Price** 800 gp
+**Aura** faint Nature; **CL** 4th
+**Weight** 1/10 lbs.; **Price** 800 gp
 
 The affected metal weapon has its reach extended by 5 feet for 4 minutes.
 
@@ -879,8 +879,8 @@ Distill Compound, Nature sphere ((metal) package, Forged Reach); **Cost** 400 gp
 
 ### Oil of Freedom [TS]
 
-**Aura**faint Fate;**CL** 5th
-**Weight**1/10 lbs.;**Price** 1,250 gp
+**Aura** faint Fate; **CL** 5th
+**Weight** 1/10 lbs.; **Price** 1,250 gp
 
 The oiled target may move and attack normally, unaffected by magical or mundane effects that would impede its action. This includes paralysis, slow effects, entanglement, etc. All combat maneuver checks made to grapple the target automatically fail, and the subject automatically succeeds at any combat maneuver checks and Escape Artist checks made to escape a grapple or a pin. The subject may even move and attack normally while underwater, provided that the weapon is wielded in the hand rather than hurled. This does not, however, grant waterbreathing. This effect lasts 5 minutes.
 
@@ -889,8 +889,8 @@ Distill Compound, Fate sphere (Freedom (word)); **Cost** 625 gp
 
 ### Oil of Keen Edge [TS]
 
-**Aura**faint Enhancement;**CL** 4th
-**Weight**1/10 lbs.;**Price** 800 gp
+**Aura** faint Enhancement; **CL** 4th
+**Weight** 1/10 lbs.; **Price** 800 gp
 
 The affected slashing or piercing weapon’s critical threat range doubles. This does not stack with any other effect that doubles a weapon’s crit range. It also gains a +1 bonus to critical confirmation rolls. This enhancement lasts 4 minutes.
 
@@ -900,8 +900,8 @@ Distill Compound, Enhancement sphere (Deadly Weapon (enhance)); **Cost** 400 gp
 ### Past Sight Dust [CoP]
 
 This amber dust which is normally kept in small gilded leather pouches and are most often used by inquisitors and investigators.
-**Aura**faint Divination and Time;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lbs.
+**Aura** faint Divination and Time; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lbs.
 
 **Description**
 While inquisitors use this item as a way to track the movement of criminals, investigators utilize this powder to better understand the crime scene. As a standard action, you may make a ranged touch attack against a square within 30 feet. A 15-foot radius burst centered on the affected area radiate as if under the effects of Divine Time for 1 minute, allowing you to examine past events that took place no more than 2 hours ago. Once each round, you may fast forward or rewind the divination to specific moment during those 2 hours.
@@ -911,8 +911,8 @@ Distill Compound, Divination sphere, Time sphere; **Cost** 100 gp
 
 ### Physician’s Dust
 
-**Aura**faint Divination;**CL** 1st
-**Slot**none;**Price**50 gp;**Weight** -
+**Aura** faint Divination; **CL** 1st
+**Slot** none; **Price** 50 gp; **Weight** -
 
 **Description**
 As a standard action, you may make a ranged touch attack against a square within 30 feet. All visible living creatures within 10 feet of the affected area have their afflictions and wounds glow as if under the effects of Divine Life for 1 round and they stabilize if dying. Alternatively, you may choose to pour the dust over a single living creature, if you do, the effects of the dust linger for 1 minute, granting fast healing 1 for the duration.
@@ -922,8 +922,8 @@ Distill Compound, Divination sphere, Life sphere (Revitalize); **Cost** 25 gp
 
 ### Potion of Agility [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 7th (+4), or 14th (+6)
-**Weight**1/10 lbs.;**Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 7th (+4), or 14th (+6)
+**Weight** 1/10 lbs.; **Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
 
 This bright yellow potion provides a +2/+4/+6 enhancement bonus to Dexterity for 4/7/14 rounds when consumed.
 
@@ -932,8 +932,8 @@ Distill Compound, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 
 
 ### Potion of the Amphibian [TS]
 
-**Aura**faint (lesser), moderate (greater/superior) Alteration;**CL** 5th (lesser), 6th (greater), 8th (superior)
-**Weight**1/10 lbs.;**Price** 1,000 gp (lesser), 1,800 gp (greater), or 3,200 gp (superior)
+**Aura** faint (lesser), moderate (greater/superior) Alteration; **CL** 5th (lesser), 6th (greater), 8th (superior)
+**Weight** 1/10 lbs.; **Price** 1,000 gp (lesser), 1,800 gp (greater), or 3,200 gp (superior)
 
 You gain the amphibious subtype, the ability to breathe water, and a 40 feet swim speed for 5 minutes (lesser), 1 hour (greater), or 8 hours (superior). This is a shapeshift and does not stack with other polymorph effects.
 
@@ -942,8 +942,8 @@ Distill Compound, Alteration sphere (Aquan Transformation (transformation)); **C
 
 ### Potion of Breathlessness [TS]
 
-**Aura**faint Protection;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Protection; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 For the next 2 minutes, you no longer need to breathe to survive. You become immune to effects that require breathing (such as inhaled poison), can survive underwater, or even in a vacuum. This does not give immunity to cloud or gas attacks that do not require breathing.
 
@@ -952,8 +952,8 @@ Distill Compound, Protection sphere (Breathless (aegis)); **Cost** 100 gp
 
 ### Potion of Cognition [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 7th (+4), or 14th (+6)
-**Weight**1/10 lbs.;**Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 7th (+4), or 14th (+6)
+**Weight** 1/10 lbs.; **Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
 
 This bright white potion potion provides a +2/+4/+6 enhancement bonus to Intelligence for 4/7/14 rounds when consumed.
 
@@ -962,8 +962,8 @@ Distill Compound, Enhancement sphere (Mental Enhancement (enhance)); **Cost** 20
 
 ### Potion of Confidence [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 7th (+4), or 14th (+6)
-**Weight**1/10 lbs.;**Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 7th (+4), or 14th (+6)
+**Weight** 1/10 lbs.; **Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
 
 This bright pink potion provides a +2/+4/+6 enhancement bonus to Charisma for 4/7/14 rounds when consumed.
 
@@ -972,8 +972,8 @@ Distill Compound, Enhancement sphere (Mental Enhancement (enhance)); **Cost** 20
 
 ### Potion of Darkvision [TS]
 
-**Aura**faint Dark;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Dark; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 You gain darkvision 60 feet for 2 hours.
 
@@ -982,8 +982,8 @@ Distill Compound, Dark sphere (Darkvision (meld)); **Cost** 100 gp
 
 ### Potion of Durability [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 7th (+4), or 14th (+6)
-**Weight**1/10 lbs.;**Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 7th (+4), or 14th (+6)
+**Weight** 1/10 lbs.; **Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
 
 This bright green potion provides a +2/+4/+6 enhancement bonus to Constitution for 4/7/14 rounds when consumed.
 
@@ -992,8 +992,8 @@ Distill Compound, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 
 
 ### Potion of Energy Resistance [TS]
 
-**Aura**faint Protection;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Protection; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 You gain energy resistance 12 to one of the following for 2 minutes: acid, cold, electricity, fire, sonic. The element is determined at the time this item is created.
 
@@ -1002,8 +1002,8 @@ Distill Compound, Protection sphere (Energy Resistance (aegis, ward)); **Cost** 
 
 ### Potion of Enlargement/Reduction [TS]
 
-**Aura**faint Alteration;**CL** 4th (lesser) or 5th (greater)
-**Weight**1/10 lbs.;**Price** 800 gp (lesser) or 1,000 gp (greater)
+**Aura** faint Alteration; **CL** 4th (lesser) or 5th (greater)
+**Weight** 1/10 lbs.; **Price** 800 gp (lesser) or 1,000 gp (greater)
 
 You grow or shrink by one size category (lesser) or two size categories (greater), with the appropriate changes to your attacks, ability scores, skills, space, and reach. This lasts for 4 minutes (lesser) or 5 minutes (greater), and cannot increase you above large size or below tiny size. This is a shapeshift and does not stack with other polymorph effects.
 
@@ -1012,8 +1012,8 @@ Distill Compound, Alteration sphere (Size Change); **Cost** 400 gp (lesser) or 5
 
 ### Potion of Hide In Darkness [TS]
 
-**Aura**faint Dark;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Dark; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 You gain the hide in plain sight ability, though it only functions in dim light or darkness. This effect lasts 2 hours.
 
@@ -1022,8 +1022,8 @@ Distill Compound, Dark sphere (Hide In Darkness (meld)); **Cost** 100 gp
 
 ### Potion of Insight [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 7th (+4), or 14th (+6)
-**Weight**1/10 lbs.;**Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 7th (+4), or 14th (+6)
+**Weight** 1/10 lbs.; **Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
 
 This bright golden potion provides a +2/+4/+6 enhancement bonus to Wisdom for 4/7/14 rounds when consumed.
 
@@ -1032,8 +1032,8 @@ Distill Compound, Enhancement sphere (Mental Enhancement (enhance)); **Cost** 20
 
 ### Potion of Might [TS]
 
-**Aura**faint (+2), moderate (+4), or strong (+6) Enhancement;**CL** 4th (+2), 7th (+4), or 14th (+6)
-**Weight**1/10 lbs.;**Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
+**Aura** faint (+2), moderate (+4), or strong (+6) Enhancement; **CL** 4th (+2), 7th (+4), or 14th (+6)
+**Weight** 1/10 lbs.; **Price** 400 gp (+2), 700 gp (+4), or 1,400 gp (+6)
 
 This bright red potion provides a +2/+4/+6 enhancement bonus to Strength for 4/7/14 rounds when consumed.
 
@@ -1042,8 +1042,8 @@ Distill Compound, Enhancement sphere (Physical Enhancement (enhance)); **Cost** 
 
 ### Potion of Powerful Courage [TS]
 
-**Aura**faint Mind;**CL** 5th
-**Weight**1/10 lbs.;**Price** 1,250 gp
+**Aura** faint Mind; **CL** 5th
+**Weight** 1/10 lbs.; **Price** 1,250 gp
 
 You gain a +2 morale bonus to attack rolls, saving throws, skill checks, and ability checks for 5 minutes. You are also immune to fear and gain 5 temporary hit points for the duration of the potion.
 
@@ -1052,8 +1052,8 @@ Distill Compound, Mind sphere (Courage (charm), Powerful Charm); **Cost** 625 gp
 
 ### Potion of Waterwalking [TS]
 
-**Aura**faint Nature;**CL** 5th
-**Weight**1/10 lbs.;**Price** 1,250 gp
+**Aura** faint Nature; **CL** 5th
+**Weight** 1/10 lbs.; **Price** 1,250 gp
 
 You can walk on water for the next 5 minutes. Water and all other liquid becomes solid to you, allowing you to move over it as if it were normal ground. Especially turbulent water (such as during a storm) may count as difficult terrain. You may always choose to sink into the water and swim if you so desire, in which case you are considered to have a swim speed equal to your land speed, granting you all the usual benefits of a swim speed, including a racial +8 bonus to Swim checks. This does not, however, grant you the ability to breathe underwater.
 
@@ -1062,8 +1062,8 @@ Distill Compound, Nature sphere ((water) package), Nature’s Movement (spirit))
 
 ### Potion of Winged Flight [TS]
 
-**Aura**faint (lesser) or moderate (greater/superior) Alteration;**CL** 5th (lesser), 6th (greater), or 8th (superior)
-**Weight**1/10 lbs.;**Price** 1,000 gp (lesser), 1,800 gp (greater), or 3,200 gp (superior)
+**Aura** faint (lesser) or moderate (greater/superior) Alteration; **CL** 5th (lesser), 6th (greater), or 8th (superior)
+**Weight** 1/10 lbs.; **Price** 1,000 gp (lesser), 1,800 gp (greater), or 3,200 gp (superior)
 
 You grow a pair of wings, and gain a fly speed of 30 feet with poor maneuverability and 2 secondary wing attacks (1d4, 1d3 small). This transformation lasts 5 minutes (lesser), 1 hour (greater), or 8 hours (superior). This is a shapeshift and does not stack with other polymorph effects.
 
@@ -1072,10 +1072,10 @@ Distill Compound, Alteration sphere (Avian Transformation (transformation)); **C
 
 ### Preserver’s Salt [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**faint abjuration —**CL** 6th
-**Price**10 gp —**Weight** 1 lbs.
+**Aura** faint abjuration — **CL** 6th
+**Price** 10 gp — **Weight** 1 lbs.
 
 **Description**
 This fine gray salt can be incorporated into a Survivalism sphere component as part of refining it, allowing it to last for 3 days instead of 24 hours—if you possess the Efficient Preparation talent, a component prepared to occupy two component slots only occupies one, and lasts for 1 week instead of 3 days.
@@ -1086,8 +1086,8 @@ Distill Compound, Death, Nature or Protection sphere — **Cost** 5 gp
 ### Protection Potion [CoP]
 
 This off-white creamy fluid smells like flowers and has a slightly sweet taste.
-**Aura**faint Protection;**CL** 1st (lesser), 5th (common), 10th (uncommon), 15th (rare), 20th (legendary)
-**Slot**none;**Price**50 gp (lesser), 250 gp (common), 500 gp (uncommon), 750 gp (rare), 1,000 gp (legendary);**Weight** 0.1 lbs.
+**Aura** faint Protection; **CL** 1st (lesser), 5th (common), 10th (uncommon), 15th (rare), 20th (legendary)
+**Slot** none; **Price** 50 gp (lesser), 250 gp (common), 500 gp (uncommon), 750 gp (rare), 1,000 gp (legendary); **Weight** 0.1 lbs.
 
 **Description**
 When imbibed, the potion gives the drinker a deflection bonus to their armor class for an amount of time based on the quality of the potion.
@@ -1103,8 +1103,8 @@ Distill Compound, Protection sphere; **Cost** 25 gp (lesser), 125 gp (common), 2
 
 ### Quintessential Oil
 
-**Aura**faint Enhancement;**CL** 1st
-**Slot**none;**Price**500 gp;**Weight** -
+**Aura** faint Enhancement; **CL** 1st
+**Slot** none; **Price** 500 gp; **Weight** -
 
 **Description**
 This is a thick, clear-ish oil that takes on a color when imbued with a sphere ability. Any sphere caster can imbue this oil with a sphere ability that affects a single creature. Doing so uses any spell points required. The next creature to touch the oil becomes subject to that effect. Imbuing the oil takes as long as using the sphere ability, and once imbued, the oil remains effective for 4 hours; if not used on a target before the time expires, the oil congeals and becomes useless.
@@ -1116,8 +1116,8 @@ Distill Compound; **Cost** 250 gp
 
 ### Relic Blessing Oil [CoP]
 
-**Aura**faint Fate;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lbs.
+**Aura** faint Fate; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lbs.
 
 **Description**
 This oil sanctifies an object temporarily with divine power, allowing the object to be treated as a universal divine focus for all purposes. Additionally, if the object annointed is a weapon, it becomes chaotic, evil, good, or lawful, as you choose. As an aligned object, it overcomes that type of damage reduction, and deals an additional 2d6 damage to creatures of the opposite chosen alignment. These benefits last 2 minutes after anointing.
@@ -1127,8 +1127,8 @@ Distill Compound, Fate sphere (Align Object (word)); **Cost** 100 gp
 
 ### Renewal Elixir
 
-**Aura**faint Enhancement and Life;**CL** 1st
-**Slot**none;**Price**250 gp;**Weight** -
+**Aura** faint Enhancement and Life; **CL** 1st
+**Slot** none; **Price** 250 gp; **Weight** -
 
 **Description**
 This potion is much sought after not because of its power, but because of its legendary sweet taste which leaves the drinker euphoric afterward. Its low combustion temperature makes it unsuitable for use in baking, but it is often used to flavor the drinks of the very rich.
@@ -1140,8 +1140,8 @@ Distill Compound, Enhancement sphere, Life sphere; **Cost** 125 gp
 
 ### Restoration Potion, Body [TS]
 
-**Aura**faint Life;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Life; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 Removes the battered, exhausted, fatigued, nauseated, and sickened conditions. The drinker can also attempt a magic skill check (using the level of the potion’s creator as their own) to remove any diseases or poisons.
 
@@ -1150,8 +1150,8 @@ Distill Compound, Life sphere (Restore Health (cure)); Cost 100 gp
 
 ### Restoration Potion, Mind [TS]
 
-**Aura**faint Life;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Life; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 Removes the confused, dazed, dazzled, frightened, panicked, shaken, and staggered conditions, as well as temporary or magical removal of senses (including senses like tremorsense).
 
@@ -1160,8 +1160,8 @@ Distill Compound, Life sphere (Restore Senses (cure)); Cost 100 gp
 
 ### Restoration Potion, Soul [TS]
 
-**Aura**faint Life;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Life; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 Cures all ability damage and ability drain, as well as 1d4 points of sanity damage (if using the sanity rules).
 
@@ -1171,8 +1171,8 @@ Distill Compound, Life sphere (Restore Spirit (cure)); **Cost** 100 gp
 ### Revealing Dust [CoP]
 
 A wool or silk pouch containing a metallic golden powder.
-**Aura**faint Light;**CL** 6th (minor), 12th (moderate), 24th (superior)
-**Slot**none;**Price**600 gp (minor), 1,800 gp (moderate), 3,600 gp (superior);**Weight** 0.1 lbs.
+**Aura** faint Light; **CL** 6th (minor), 12th (moderate), 24th (superior)
+**Slot** none; **Price** 600 gp (minor), 1,800 gp (moderate), 3,600 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 As a standard action, you may make a ranged touch attack against a square within 30 feet, affecting all creatures within 10 feet of the affected area. Alternatively, as a standard action, you may choose to pour the dust over a single creature.
@@ -1187,8 +1187,8 @@ Distill Compound, Light sphere (Revealing Light (superior only)); **Cost** 300 g
 ### Reveal Alignment Consecration Oil [CoP]
 
 Normally stowed in a clay bottle, this oil carries an aroma of rosemary.
-**Aura**faint Fate;**CL** 3rd
-**Slot**none;**Price**450 gp;**Weight** 0.1 lbs.
+**Aura** faint Fate; **CL** 3rd
+**Slot** none; **Price** 450 gp; **Weight** 0.1 lbs.
 
 **Description**
 You may as a standard action pour this oil over a single creature revealing the creature’s alignment for all to be seen. The exact manifestation is unique to each observer—some might see a good creature with a halo and an evil creature with horns, while others might hear musical themes and chords evoking an alignment—but however it does the interpretation is unambiguous in the observer’s mind. (A GM may provide only the alignment, leaving the exact signs each PC perceives up to their players.) An observer must still be able to sense a creature in order to discern its alignment, usually with sight but also with senses like blindsense. The effect of this consecration last for 30 minutes. This oil may be filled into an aspergillum as a splash weapon, imparting the compound's effects as a splash effect instead of inflicting splash damage.
@@ -1198,8 +1198,8 @@ Distill Compound, Fate sphere (Reveal Alignment (consecration)); **Cost** 225 gp
 
 ### Revitalization Potion, Minor [TS]
 
-**Aura**faint Life;**CL** 2nd
-**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Life; **CL** 2nd
+**Weight** 1/10 lbs.; **Price** 200 gp
 
 This shimmering green potion grants fast healing 1 for 2 minutes (20 hit points total).
 
@@ -1208,8 +1208,8 @@ Distill Compound, Life sphere (Revitalize); **Cost** 100 gp
 
 ### Revitalization Potion, Standard [TS]
 
-**Aura**faint Life;**CL** 3rd
-**Weight**1/10 lbs.;**Price** 450 gp
+**Aura** faint Life; **CL** 3rd
+**Weight** 1/10 lbs.; **Price** 450 gp
 
 This shimmering green potion grants fast healing 2 for 3 minutes (60 hit points total).
 
@@ -1218,8 +1218,8 @@ Distill Compound, Life sphere (any (cure) talent, Revitalize); **Cost** 225 gp
 
 ### Revitalization Potion, Improved [TS]
 
-**Aura**faint Life;**CL** 4th
-**Weight**1/10 lbs.;**Price** 800 gp
+**Aura** faint Life; **CL** 4th
+**Weight** 1/10 lbs.; **Price** 800 gp
 
 This shimmering green potion grants fast healing 3 for 4 minutes (120 hit points total).
 
@@ -1228,8 +1228,8 @@ Distill Compound, Life sphere (any (cure) talent x2, Revitalize); **Cost** 400 g
 
 ### Revitalization Potion, Greater [TS]
 
-**Aura**faint Life;**Caster Level** 5th
-**Weight**1/10 lbs.;**Price** 1,250 gp
+**Aura** faint Life; **Caster Level** 5th
+**Weight** 1/10 lbs.; **Price** 1,250 gp
 
 This shimmering green potion grants fast healing 4 for 5 minutes (200 hit points total).
 
@@ -1238,8 +1238,8 @@ Distill Compound, Life sphere (any (cure) talent x3, Revitalize); **Cost** 625 g
 
 ### Revitalization Potion, Superior [TS]
 
-**Aura**moderate Life;**CL** 6th
-**Weight**1/10 lbs.;**Price** 1,800 gp
+**Aura** moderate Life; **CL** 6th
+**Weight** 1/10 lbs.; **Price** 1,800 gp
 
 This shimmering green potion grants fast healing 5 for 6 minutes (300 hit points total).
 
@@ -1249,8 +1249,8 @@ Distill Compound, Life sphere (any (cure) talent x4, Revitalize); **Cost** 900 g
 ### Runesight Potion [CoP]
 
 This potion smells of patchouli, and can often be found in satchels of arcane adepts and apprentices.
-**Aura**faint Divination;**CL** 1st
-**Slot**none;**Price**50 gp;**Weight** 0.1 lbs.
+**Aura** faint Divination; **CL** 1st
+**Slot** none; **Price** 50 gp; **Weight** 0.1 lbs.
 
 **Description**
 After drinking this potion, the creature’s vision distorts allowing them to read magical writing, but making it impossible to read anything else for the potion’s duration. The effects last for 1 hour.
@@ -1260,8 +1260,8 @@ Distill Compound, Divination sphere; **Cost** 25 gp
 
 ### Saving Stone
 
-**Aura**faint Protection;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lbs.
+**Aura** faint Protection; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lbs.
 
 **Description**
 This small, glass-like sphere can be thrown as an improvised weapon, but the target of its effect is always the environment, not whomever might be present when it breaks. Once broken, it creates a ward, chosen at the time of creation. The ward has a duration of 2 minutes.
@@ -1271,8 +1271,8 @@ Distill Compound, Protection sphere, creator must possess the talent to be grant
 
 ### Scrying Incense [CoP]
 
-**Aura**moderate Divination;**CL** 5th (lesser), 10th (greater)
-**Slot**none;**Price**750 gp (lesser), 2,500 gp (greater);**Weight** 0.1 lbs.
+**Aura** moderate Divination; **CL** 5th (lesser), 10th (greater)
+**Slot** none; **Price** 750 gp (lesser), 2,500 gp (greater); **Weight** 0.1 lbs.
 
 **Description**
 Once lit (normally a full-round action, or a standard action with a tindertwig), this incense will continue to smoke in a 5-foot square for 1 hour. Any creature that spends at least 1 minute inside the cloud of smoke may, as a full-round action, create a single scrying sensor within range on the same plane, transferring their point of view to that point. They do not need light of sight or line of effect, but the desired target must be known—a place or object familiar to them, or an obvious one such as a distance and direction. Once the sensor has been placed, they may see and hear anything within 10 feet of the location of the sensor. A creature inside the cloud of smoke may only create and control a single scrying sensor at a time. If a scrying sensor is dispelled by another creature, the incense immediately stops smoking and the effect ends.
@@ -1285,8 +1285,8 @@ Distill Compound, Divination sphere (Greater Divine (greater only), Scrying (adv
 
 ### See Hazard Potion [CoP]
 
-**Aura**faint Divination;**CL** 4th (lesser), 8th (greater)
-**Slot**none;**Price**800 gp (lesser), 3,200 gp (greater);**Weight** 0.1 lbs.
+**Aura** faint Divination; **CL** 4th (lesser), 8th (greater)
+**Slot** none; **Price** 800 gp (lesser), 3,200 gp (greater); **Weight** 0.1 lbs.
 
 **Description**
 You gain a special sense that grants you a free Perception check to notice traps and hazards within 10 feet of you, be they mechanical (trip wires, dart throwers, etc.), magical (rune spells, sigils, etc.), or natural (quicksand, pit falls, etc.).
@@ -1299,8 +1299,8 @@ Distill Compound, Divination sphere (Divine Future (divine) (greater only), See 
 
 ### Seed of Life
 
-**Aura**moderate Life;**CL** 10th
-**Slot**none;**Price**5,000 gp;**Weight** 0.1 lbs.
+**Aura** moderate Life; **CL** 10th
+**Slot** none; **Price** 5,000 gp; **Weight** 0.1 lbs.
 
 **Description**
 This seed (harvested from a dryad’s tree) is attuned to the forces of life, and if carefully prepared and planted inside the heart of a creature that died within 24 hours, can even return them to life. The seed quickly grows into a tree that consumes the target’s body, but produces a large seed pod after 24 hours that produces a complete copy of that body, returned to life (if the target’s soul is willing to return). A body returned to life in this fashion suffers no negative levels, but is inflicted with weakness as their body returns to normal; they gain the sickened condition for 1 week which nothing, not even magic, can remove. A target can be returned to life only once with a seed of life; if a second seed is used on the same creature, the second, plant-born body cannot fully nourish a tree of life, causing the seed to die. This restriction ends after 1 year.
@@ -1311,8 +1311,8 @@ Distill Compound, Life sphere (Resurrection (advanced), Resuscitate), creator mu
 ### Serendipity Consecration Oil [CoP]
 
 Normally stowed in a clay bottle, this oil carries an aroma of frankincense.
-**Aura**faint Fate;**CL** 2nd
-**Slot**none;**Price**200 gp;**Weight** 0.1 lbs.
+**Aura** faint Fate; **CL** 2nd
+**Slot** none; **Price** 200 gp; **Weight** 0.1 lbs.
 
 **Description**
 You may as a standard action pour this oil over a single creature granting a +1 luck bonus to attack rolls, skill checks, ability checks, and saving throws. The effect of this consecration last for 20 minutes. This oil may be filled into an aspergillum as a splash weapon, imparting the compound's effects as a splash effect instead of inflicting splash damage.
@@ -1322,8 +1322,8 @@ Distill Compound, Fate sphere; **Cost** 100 gp
 
 ### Shinigami’s Cloth [Gravecaller's HB]
 
-**Aura**faint Enhancement;**CL** 3rd
-**Slot**none;**Price**300 gp;**Weight** 0 lb.
+**Aura** faint Enhancement; **CL** 3rd
+**Slot** none; **Price** 300 gp; **Weight** 0 lb.
 
 **Description**
 This elegant cloth, often woven as a handkerchief, glows faintly in the moonlight.
@@ -1337,8 +1337,8 @@ Distill Compound, Enhancement (Spectral Enhancement (enhance)); **Cost** 150 gp
 
 ### Sidhe Visage Potion [CoP]
 
-**Aura**faint Fallen Fey;**CL** 5th
-**Slot**none;**Price**1,000 gp;**Weight** 0.1 lbs.
+**Aura** faint Fallen Fey; **CL** 5th
+**Slot** none; **Price** 1,000 gp; **Weight** 0.1 lbs.
 
 **Description**
 You are treated as a fey and no longer count as your previous creature type for all purposes including spells, magic items, etc., but you do not gain any of the benefits of the fey type or lose the benefits of your previous creature type, and still possess any subtypes you previously possessed (thus, an elf using this ability would be treated as a fey with the elf subtype). In addition, you gain a +2 bonus to all Charisma-based skill and ability checks. These effects last for 5 hours.
@@ -1348,8 +1348,8 @@ Distill Compound, Fallen Fey sphere (Fey Beauty); **Cost** 500 gp
 
 ### Size Increase Potion [CoP]
 
-**Aura**faint Alteration;**CL** 2nd
-**Slot**none;**Price**100 gp;**Weight** 0.1 lbs.
+**Aura** faint Alteration; **CL** 2nd
+**Slot** none; **Price** 100 gp; **Weight** 0.1 lbs.
 
 **Description**
 The drinker of this potion increase their size category by 1 step (maximum Large) for 2 minutes. This is a polymorph effect.
@@ -1359,8 +1359,8 @@ Distill Compound, Alteration sphere (Size Change); **Cost** 50 gp
 
 ### Size Reduction Potion [CoP]
 
-**Aura**faint Alteration;**CL** 2nd
-**Slot**none;**Price**100 gp;**Weight** 0.1 lbs.
+**Aura** faint Alteration; **CL** 2nd
+**Slot** none; **Price** 100 gp; **Weight** 0.1 lbs.
 
 **Description**
 The drinker of this potion decreases their size category by 1 step (minimum Tiny) for 2 minutes. This is a polymorph effect.
@@ -1370,8 +1370,8 @@ Distill Compound, Alteration sphere (Size Change); **Cost** 50 gp
 
 ### Sneakster’s Brew [TS]
 
-**Aura**faint Illusion;**Caster Level** 2nd
-**Slot**None;**Weight**1/10 lbs.;**Price** 200 gp
+**Aura** faint Illusion; **Caster Level** 2nd
+**Slot** None; **Weight** 1/10 lbs.; **Price** 200 gp
 
 This weaker and simpler invisibility potion is used for quick getaways and fast attacks. The imbiber can attempt Stealth checks to hide even while being observed and gains a +2 circumstance bonus to Stealth checks. This does not grant the invisible condition, but counts as invisibility for effects that interact with it (such as spells that negate it), and therefore does not stack with the invisibility spell or other, similar effects. If undetected by a creature, the imbiber gains total concealment against it, as well as a +2 bonus to attack rolls against it, and ignores its Dexterity bonus to armor class. This effect lasts for 2 rounds before wearing off.
 
@@ -1380,8 +1380,8 @@ Distill Compound, Illusion sphere (Suppression (glamer)); **Cost** 100 gp
 
 ### Spell Cleansing Elixir, Lesser
 
-**Aura**faint Life;**CL** 5th
-**Slot**none;**Price**250 gp;**Weight** -
+**Aura** faint Life; **CL** 5th
+**Slot** none; **Price** 250 gp; **Weight** -
 
 **Description**
 An emergency tool for removing enchantments in a hurry. When a person drinks the elixir, he may choose a single ongoing magical effect affecting him. The elixir attempts a magic skill check with an MSB of +5 to dispel the effect, as the Counterspell feat.
@@ -1391,8 +1391,8 @@ Distill Compound, Life sphere (Break Enchantment); **Cost** 175 gp
 
 ### Spell Cleansing Elixir, Greater
 
-**Aura**moderate Life;**CL** 10th
-**Slot**none;**Price**1,000 gp;**Weight** -
+**Aura** moderate Life; **CL** 10th
+**Slot** none; **Price** 1,000 gp; **Weight** -
 
 **Description**
 An emergency tool for removing enchantments in a hurry. When a person drinks the elixir, he may choose up to 3 ongoing magical effects affecting him. The elixir attempts a magic skill check with an MSB of +10 to dispel the effects, as the Improved Counterspell feat.
@@ -1402,8 +1402,8 @@ Distill Compound, Life sphere (Break Enchantment); **Cost** 500 gp
 
 ### Sphere Focus Stimulant
 
-**Aura**faint Enhancement, moderate other (depends on the affected sphere);**CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), 15th (+5)
-**Slot**none;**Price**100 gp (+1), 400 gp (+2), 900 gp (+3), 1,200 gp (+4), 1,500 gp (+5);**Weight** -
+**Aura** faint Enhancement, moderate other (depends on the affected sphere); **CL** 3rd (+1), 6th (+2), 9th (+3), 12th (+4), 15th (+5)
+**Slot** none; **Price** 100 gp (+1), 400 gp (+2), 900 gp (+3), 1,200 gp (+4), 1,500 gp (+5); **Weight** -
 
 **Description**
 This thick, opaque brew comes in different swirling colors, the combination of which represents the specific sphere that it affects. The stimulant grants the drinker an enhancement bonus to the caster level of a specific sphere for one minute. The crafter must possess a caster level of at least 3x the enhancement bonus granted, and cannot exceed an enhancement bonus of +5.
@@ -1413,8 +1413,8 @@ Distill Compound; **Cost** 50 gp (+1), 200 gp (+2), 450 gp (+3), 600 gp (+4), 75
 
 ### Splinter Orb
 
-**Aura**faint Death;**CL** 1st
-**Slot**none;**Price**150 gp;**Weight** —
+**Aura** faint Death; **CL** 1st
+**Slot** none; **Price** 150 gp; **Weight** —
 
 **Description**
 Splinter orbs (sometimes called “bone balls”) are roughly the size of an apple consisting of hundreds of shards of bone worked into a sphere. To use it one simply smashes the orb, which immediately reforms into a Medium-sized skeleton, ready for reanimation. These skeletons are most commonly human (or whatever race the creator belong to), but the bones of more exotic creatures are certainly usable, provided such a corpse is available during creation. Necromancers who want readily available minions but are for whatever reason unable to bring them out in the open sometimes coat these balls with a thin layer of clay which is then decorated further to disguise them, and sometimes even incorporated into other things like clothing. Since these items use a single corpse, the bodies of specific individuals can be broken down for ease of transport and then remade at a later date.
@@ -1425,8 +1425,8 @@ Distill Compound, Death sphere (Corpse Manipulation), one dead body; **Cost** 75
 ### Stoneskin Elixir [CoP]
 
 Stored in a ceramic container, this chalky substance is sometimes mistaken for wet cement.
-**Aura**moderate Nature;**CL** 4th
-**Slot**none;**Price**400 gp;**Weight** 0.1 lbs.
+**Aura** moderate Nature; **CL** 4th
+**Slot** none; **Price** 400 gp; **Weight** 0.1 lbs.
 
 **Description**
 Drinking this elixir will grant a creature DR 2/adamantine for 4 minutes. Once the damage reduction has reduced 40 damage the elixir’s effects immediately end, even if its duration has not expired.
@@ -1437,8 +1437,8 @@ Distill Compound, Nature sphere ((earth) package, Nature’s Carapace (spirit));
 ### Stricture Consecration Oil [CoP]
 
 Normally stowed in a clay bottle, this oil carries an aroma of lemongrass.
-**Aura**faint Fate;**CL** 5th
-**Slot**none;**Price**750 gp;**Weight** 0.1 lbs.
+**Aura** faint Fate; **CL** 5th
+**Slot** none; **Price** 750 gp; **Weight** 0.1 lbs.
 
 **Description**
 You may as a standard action pour this oil over a single creature declaring a course of action that is at most one sentence long and whether this action is to be avoided or emulated. Example strictures include “No one can attack”, “everyone must trade fairly”, etc. If your stricture would cause a creature to attack itself or perform another obviously suicidal action, they are immune to that stricture. The creature is allowed a DC 12 Will save to negate this requirement and allow itself to act normally.
@@ -1450,8 +1450,8 @@ Distill Compound, Fate sphere (Stricture (consecration)); **Cost** 375 gp
 
 ### Troll’s Claret
 
-**Aura**moderate Life;**CL** 10th
-**Slot**none;**Price**1,500 gp;**Weight** 0.1 lbs.
+**Aura** moderate Life; **CL** 10th
+**Slot** none; **Price** 1,500 gp; **Weight** 0.1 lbs.
 
 **Description**
 Typically found in red mason jars and not to be used by the squeamish, this combination of troll’s blood, root of a living tree, and several other alchemical reagents is a powerful salve when used correctly. When applied on the target, troll’s claret grants the target fast healing 1 for 10 minutes, and they are healed of all broken bones, severed body parts (fingers, toes, hands, feet, arms, legs, tails, or even heads of multi-headed creatures), and ruined organs. This also restores sight, hearing, and other permanent loss of senses. If body parts to be reattached are not present, they require 2d10 rounds to regrow. This cannot bring a creature back from the dead nor function on a creature that is already dead.
@@ -1461,8 +1461,8 @@ Distill Compound, Life sphere (Break Enchantment, Make Whole, Restore Senses (cu
 
 ### Truth Serum [TS]
 
-**Aura**faint Fate;**Caster Level** 5th
-**Weight**1/10 lbs.;**Price** 1,250 gp
+**Aura** faint Fate; **Caster Level** 5th
+**Weight** 1/10 lbs.; **Price** 1,250 gp
 
 The creature drinking this liquid must succeed at a DC 12 Will save or be unable to deliberately or intentionally lie for 5 minutes. This is a curse effect.
 
@@ -1472,8 +1472,8 @@ Distill Compound, Fate sphere (Truth (word)); **Cost** 625 gp
 ### Vanishing Dust [CoP]
 
 A wool or silk pouch containing a metallic silver powder.
-**Aura**faint Illusion;**CL** 6th (minor), 12th (moderate), 24th (superior)
-**Slot**none;**Price**600 gp (minor), 1,800 gp (moderate), 3,600 gp (superior);**Weight** 0.1 lbs.
+**Aura** faint Illusion; **CL** 6th (minor), 12th (moderate), 24th (superior)
+**Slot** none; **Price** 600 gp (minor), 1,800 gp (moderate), 3,600 gp (superior); **Weight** 0.1 lbs.
 
 **Description**
 As a standard action, you may make a ranged touch attack against a square within 30 feet, affecting all creatures within 10 feet of the affected area. Alternatively, as a standard action, you may choose to pour the dust over a single creature.
@@ -1487,8 +1487,8 @@ Distill Compound, Illusion sphere (Suppression (glamer), Advanced Invisibility (
 
 ### Vitalist’s Secret Tonic
 
-**Aura**faint Life;**CL** 5th
-**Slot**none;**Price**1,250 gp;**Weight** 0.1 lbs.
+**Aura** faint Life; **CL** 5th
+**Slot** none; **Price** 1,250 gp; **Weight** 0.1 lbs.
 
 **Description**
 The formula for this varies wildly, as it has been discovered and rediscovered numerous times over the years. Drinking this can heal many conditions, provided those conditions have not been allowed to linger for more than 24 hours. It heals dazzled, shaken, staggered, battered, fatigued, sickened, and heals 1d4 points of ability damage to the most damaged ability score. It also lessens panicked, frightened, exhausted, and nauseated by one step.
@@ -1499,8 +1499,8 @@ Distill Compound, Life sphere; **Cost** 625 gp
 ### Wellspring Bucket [CoP]
 
 Most commonly made with wood that is associated with the element of water (such as alder, birch, or willow), these 1-gallon buckets come with a tight sealed lid. On its outer side, a wellspring bucket portrays scenes with beaches, rivers, waterfalls, and rain.
-**Aura**faint Nature ((water) package);**CL** 1st
-**Slot**none;**Price**150 gp;**Weight** 2 lbs.
+**Aura** faint Nature ((water) package); **CL** 1st
+**Slot** none; **Price** 150 gp; **Weight** 2 lbs.
 
 **Description**
 When used, the wellspring bucket will create fresh pure water as an instantaneous effect. This magical item may be activated in one of two ways, chosen at the time of use.
@@ -1517,8 +1517,8 @@ Distill Compound, Nature sphere ((water) package, Create Nature (geomancing)); *
 ### Whetstone Of Honed Edges [CoP]
 
 A whetstone that when held up in the light glows faintly.
-**Aura**faint Enhancement;**CL** 2nd (lesser), 6th (moderate), 12th (strong), 18th (overwhelming)
-**Slot**none;**Price**200 gp (lesser), 600 gp (moderate), 1,200 gp (strong), 1,800 gp (overwhelming);**Weight** 0.1 lbs.
+**Aura** faint Enhancement; **CL** 2nd (lesser), 6th (moderate), 12th (strong), 18th (overwhelming)
+**Slot** none; **Price** 200 gp (lesser), 600 gp (moderate), 1,200 gp (strong), 1,800 gp (overwhelming); **Weight** 0.1 lbs.
 
 **Description**
 When used for 1 consecutive minute to sharpen a slashing or piercing melee weapon, the whetstone crumbles to dust but bestows to the melee weapon improved critical hit probability for a time determined by the quality of whetstone.
@@ -1539,8 +1539,8 @@ Transformation potions are drinks that shift the user into a different form for 
 
 ### Transformation Potion of Arachnophilia [TS]
 
-**Aura**moderate Alteration;**CL** 6th
-**Weight**1/10 lbs.;**Price** 1,800 gp
+**Aura** moderate Alteration; **CL** 6th
+**Weight** 1/10 lbs.; **Price** 1,800 gp
 
 This potion transforms the drinker into a spider of the same size, as the base Vermin Transformation (transformation) talent. The drinker also gains a poison effect for their bite attack and the ability to create webs, as described in the Vermin Transformation talent.
 
@@ -1549,8 +1549,8 @@ Distill Compound, Alteration sphere (Permanent Transformation (advanced), Vermin
 
 ### Transformation Potion of Arachnophilia, Enlarging [TS]
 
-**Aura**moderate Alteration;**CL** 8th
-**Weight**1/10 lbs.;**Price** 3,200 gp
+**Aura** moderate Alteration; **CL** 8th
+**Weight** 1/10 lbs.; **Price** 3,200 gp
 
 This potion transforms the drinker into a spider one size category larger (maximum Huge), as the base Vermin Transformation (transformation) talent. The drinker also gains a poison effect for their bite attack and the ability to create webs, as described in the Vermin Transformation talent.
 
@@ -1563,8 +1563,8 @@ You can easily convert the /arachnophilia potions into drinks that allow for man
 
 ### Transformation Potion of Colossal Form [TS]
 
-**Aura**moderate Alteration;**CL** 6th
-**Weight**1/10 lbs.;**Price** 1,800 gp
+**Aura** moderate Alteration; **CL** 6th
+**Weight** 1/10 lbs.; **Price** 1,800 gp
 
 This potion increases (or, more rarely, decreases) the creature to Large size, changing their ability scores as described in the Size Change talent. Although dreamt of by many scrawny young warriors who want to bulk up into heroes, experienced heroes recognize that being permanently Large is often troublesome when trying to enter buildings designed for smaller creatures or traveling through tight underground passageways where such bulk could prevent movement entirely, and such individuals often get temporary size-changing potions instead. Orc tribal leaders are known to be fond of these.
 
@@ -1573,8 +1573,8 @@ Distill Compound, Alteration sphere (Permanent Transformation (advanced), Size C
 
 ### Transformation Potion of Construct Form [TS]
 
-**Aura**moderate Alteration;**CL** 6th
-**Weight**1/10 lbs.;**Price** 1,800 gp
+**Aura** moderate Alteration; **CL** 6th
+**Weight** 1/10 lbs.; **Price** 1,800 gp
 
 This potion gives the drinker the form of a bipedal construct, as the effects of the Object Transformation (transformation) talent. The drinker also gains DR 3/adamantine and 2 slam attacks (primary, 1d4 Medium, 1d3 Small) on their arms.
 
@@ -1583,8 +1583,8 @@ Distill Compound, Alteration sphere (Object Transformation (transformation), Per
 
 ### Transformation Potion of Dragonoid Form [TS]
 
-**Aura**moderate Alteration;**CL** 10th
-**Weight**1/10 lbs.;**Price** 3,000 gp
+**Aura** moderate Alteration; **CL** 10th
+**Weight** 1/10 lbs.; **Price** 3,000 gp
 
 This potion grants the drinker the powers of a dragon. While it does not change their basic form, it does provide a +4 natural armor bonus and a breath weapon of one type available through the Dragon Transformation (transformation) talent, including doubled size. These potions often include additional (and sometimes multiple) cosmetic changes, such as providing the appearance of scales, a tail, or a dragon’s face, though these provide no additional mechanical benefits. Rumors exist of greater versions of this potion that also grant wings and the ability to fly.
 
@@ -1593,8 +1593,8 @@ Distill Compound, Alteration sphere (Dragon Transformation (transformation), Per
 
 ### Transformation Potion of Fey Form [TS]
 
-**Aura**strong Alteration and Fallen Fey;**CL** 15th
-**Weight**1/10 lbs.;**Price** 9,000 gp
+**Aura** strong Alteration and Fallen Fey; **CL** 15th
+**Weight** 1/10 lbs.; **Price** 9,000 gp
 
 This potion transforms the drinker into a fey creature. This changes their creature type to fey (without otherwise changing their statistics) and grants a fly speed of 70 feet with maneuverability (average) thanks to the new wings sprouting out of their back. This potion also provides a cosmetic appearance suitable to the new fey form.
 
@@ -1603,8 +1603,8 @@ Distill Compound, Alteration sphere (Avian Transformation (transformation), Perm
 
 ### Transformation Potion of Fey Form, Shrinking [TS]
 
-**Aura**strong Alteration and Fallen Fey;**CL** 15th
-**Weight**1/10 lbs.;**Price** 9,750 gp
+**Aura** strong Alteration and Fallen Fey; **CL** 15th
+**Weight** 1/10 lbs.; **Price** 9,750 gp
 
 This potion transforms the drinker into a Tiny-sized fey creature. This changes their creature type to fey (without otherwise changing their statistics) and grants a fly speed of 70 feet with maneuverability (average) thanks to the new wings sprouting out of their back. This potion also provides a cosmetic appearance suitable to the new fey form.
 
@@ -1613,8 +1613,8 @@ Distill Compound, Alteration sphere (Avian Transformation (transformation), Perm
 
 ### Transformation Potion of Flight [TS]
 
-**Aura**moderate (lesser/improved) or strong (greater/superior) Alteration;**CL** 6th (lesser), 10th (improved), 15th (greater), or 20th (superior)
-**Weight**1/10 lbs.;**Price** 1,800 gp (lesser), 3,000 gp (improved), 4,500 gp (greater), or 6,000 gp (superior)
+**Aura** moderate (lesser/improved) or strong (greater/superior) Alteration; **CL** 6th (lesser), 10th (improved), 15th (greater), or 20th (superior)
+**Weight** 1/10 lbs.; **Price** 1,800 gp (lesser), 3,000 gp (improved), 4,500 gp (greater), or 6,000 gp (superior)
 
 This potion grants wings to the drinker. Lesser potions grant a 30 feet fly speed and maneuverability (clumsy). Improved potions grant a 50 feet fly speed and maneuverability (poor). Greater potions grant a 70 feet fly speed and maneuverability (average). Superior potions grant a 90 feet fly speed and maneuverability (good). This potion does not otherwise change the drinker’s form, but also does not stack with other transformation potions unless brewed as part of them. Though relatively inexpensive, the extensive technical skill required for brewing these potions means only the lesser versions are commonly found in stores.
 
@@ -1623,8 +1623,8 @@ Distill Compound, Alteration sphere (Avian Transformation (transformation), Perm
 
 ### Transformation Potion of Humanoid Form [TS]
 
-**Aura**moderate Alteration;**CL** 6th
-**Weight**1/10 lbs.;**Price** 1,800 gp
+**Aura** moderate Alteration; **CL** 6th
+**Weight** 1/10 lbs.; **Price** 1,800 gp
 
 This potion gives the drinker the form of a humanoid creature, such as a human or an elf, as the effects of the Anthropomorphic Transformation (transformation) talent. The drinker retains their natural attacks, special abilities, and movement types, and sometimes resembles the appearance of their original form (such as ears, a tail, skin color, or other distinguishing features).
 
@@ -1633,8 +1633,8 @@ Distill Compound, Alteration sphere (Anthropomorphic Transformation (transformat
 
 ### Transformation Potion of Humanoid Form, Precise [TS]
 
-**Aura**moderate Alteration;**CL** 9th
-**Weight**1/10 lbs.;**Price** 4,050 gp
+**Aura** moderate Alteration; **CL** 9th
+**Weight** 1/10 lbs.; **Price** 4,050 gp
 
 This potion gives the drinker the form of a specific humanoid creature, chosen when the potion is brewed, and otherwise uses the effects of the Anthropomorphic Transformation (transformation) talent. The drinker retains their natural attacks, special abilities, and movement types.
 
@@ -1643,8 +1643,8 @@ Distill Compound, Alteration sphere (Anthropomorphic Transformation (transformat
 
 ### Transformation Potion of Lamia Form [TS]
 
-**Aura**moderate Alteration;**CL** 9th
-**Weight**1/10 lbs.;**Price** 4,050 gp
+**Aura** moderate Alteration; **CL** 9th
+**Weight** 1/10 lbs.; **Price** 4,050 gp
 
 This potion transforms a bipedal drinker’s legs into a single long tail that provides a 40 feet land speed and a 20 feet climb speed. This tail may also function as a stinger, a tail slap, or a prehensile tail, which is determined when this potion is brewed; these function as described in the Additional Limbs talent.
 
@@ -1653,8 +1653,8 @@ Distill Compound, Alteration sphere (Additional Limbs, Anthropomorphic Transform
 
 ### Transformation Potion of Therianthropy [TS]
 
-**Aura**faint Alteration;**CL** 5th
-**Weight**1/10 lbs.;**Price** 1,250 gp
+**Aura** faint Alteration; **CL** 5th
+**Weight** 1/10 lbs.; **Price** 1,250 gp
 
 This potion grants the drinker the cosmetic traits of a specific animal, chosen when the potion is made. For example, it may give the user modified ears and a tail, cause them to sprout fur, or gain other visual traits associated with that particular creature. This potion can provide multiple cosmetic alterations. This transformation potion also grants darkvision 60 feet.
 
@@ -1663,8 +1663,8 @@ Distill Compound, Alteration sphere (Permanent Transformation (advanced)); **Cos
 
 ### Transformation Potion of Undead Form [TS]
 
-**Aura**moderate Alteration;**CL** 8th
-**Weight**1/10 lbs.;**Price** 3,200 gp
+**Aura** moderate Alteration; **CL** 8th
+**Weight** 1/10 lbs.; **Price** 3,200 gp
 
 This potion gives the drinker the appearance of an undead creature of their species, often a zombie or skeleton. The drinker counts as undead when determining the effects of positive and negative energy, gains a +2 racial bonus against death effects, disease, mind-affecting effects, paralysis, poison, sleep, and stunning, and DR 5/slashing (if more fleshy than skeletal) or DR 5/bludgeoning (if more skeletal than fleshy). While not a true undead transformation, most people are unlikely to know the difference, and this potion is often illegal as a result.
 
@@ -1673,8 +1673,8 @@ Distill Compound, Alteration sphere (Permanent Transformation (advanced), Undead
 
 ### Reversal Potion [TS]
 
-**Aura**faint Alteration;**CL** 5th
-**Weight**1/10 lbs.;**Price** 1,250 gp
+**Aura** faint Alteration; **CL** 5th
+**Weight** 1/10 lbs.; **Price** 1,250 gp
 
 This potion reverses all shapeshifts on a creature, returning them to their original and unaltered form. This does not apply to shapeshifts that are treated as a natural part of the creature’s body, such as transformations provided by the Form Of Power mythic boon. As a general rule, most shapeshifts are not considered natural parts of a creature’s body and can be reversed by this potion.
 

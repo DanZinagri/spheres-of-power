@@ -25,6 +25,6 @@ Scholars have spent years debating just how medusas procreate, given that every 
 - **Half-Medusa Poison (Ex):** *Type* poison (injury); *Save* Fortitude DC (10+1/2 hit dice+Con mod); *Frequency* 1/ round for 6 rounds; *Effect* 1d2 temporary Strength damage; *Cure* 1 save.
 - **Stunning Gaze (Su):** Stun for 1d4 rounds, 30 foot range. Fortitude save DC (10+1/2 hit dice+Cha mod).
 
-**Abilities:** Increase from the base creature as follows:**Dexterity**+2,**Charisma** +2.
+**Abilities:** Increase from the base creature as follows: **Dexterity** +2, **Charisma** +2.
 
 **Feats:** A half-medusa gains Weapon Finesse as a bonus feat.

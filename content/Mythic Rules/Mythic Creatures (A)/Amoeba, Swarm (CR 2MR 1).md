@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (A)]]"
 XP 600
 Pathfinder Roleplaying Game Bestiary 2
 N Fine ooze (aquatic, mythic, swarm)
-**Init**–5;**Senses** blindsight 30 ft.; Perception –5
+**Init** –5; **Senses** blindsight 30 ft.; Perception –5
 
 #### Defense
 
-**AC**14,**touch**13,**flat-footed** 14 (–5 Dex, +1 natural, +8 size)
+**AC** 14, **touch** 13, **flat-footed** 14 (–5 Dex, +1 natural, +8 size)
 **hp** 17 (2d8+8)
-**Fort**+0,**Ref**–5,**Will** –5
+**Fort** +0, **Ref** –5, **Will** –5
 **Defensive Abilities** **Immune** ooze and swarm traits
 
 #### Offense
 
 **Speed** 10 ft., climb 10 ft., swim 20 ft.
 **Melee** swarm (1d6 acid plus distraction)
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** clingMA, distraction (DC 11), mythic power (3/day, surge 1d6)
 
 #### Statistics
 
-**Str**1,**Dex**1,**Con**10,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+1;**CMB**—;**CMD** —
+**Str** 1, **Dex** 1, **Con** 10, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +1; **CMB** —; **CMD** —
 **Feats** Extra Mythic PowerMF
 **Skills** Climb +3, Swim +3
 **SQ** amphibious, fusionMA

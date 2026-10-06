@@ -13,7 +13,7 @@ updated: 2020-01-30
 
 Walls are small hindrance to those that can step between realms.
 
-### Wraith Form (Su)
+## Wraith Form (Su)
 
 At 1st level, the ghost stepper gains the wraith form ability as a wraith of her level. Additionally, the ghost stepper uses d4 for sneak attack dice. While in wraith form, the ghost stepper can deliver her sneak attack damage as an incorporeal touch attack made in place of a normal attack, dealing cold or negative energy damage (chosen when this ability is gained). If negative energy is chosen, creatures healed by negative energy are not affected by this attack.
 
@@ -21,15 +21,15 @@ For ninjas and (unchained) rogues, this alters sneak attack and replaces the (un
 
 For slayers, this alters sneak attack and replaces track and the slayer talents gained at 2nd, 8th, and 14th levels.
 
-### Ghostly Talent
+## Ghostly Talent
 
 The ghost stepper may take wraith haunts in place of rogue talents, slayer talents, or ninja tricks. The ghost stepper treats her class level as wraith levels for using and qualifying for wraith haunts. These levels stack with those gained from other sources. The ghost stepper may choose any mental ability score for her casting ability modifier for determining the effects of her wraith haunts, unless she already possesses a casting tradition.
 
-### Ghost Stepper Haunt
+## Ghost Stepper Haunt
 
 The ghost stepper gains exclusive access to the following ninja trick/rogue talent/unchained rogue talent/slayer talent:
 
-#### Spell Pool
+### Spell Pool
 
 The ghost stepper gains a pool of spell points equal to her casting ability modifier (as selected for the ghostly talent ability). If she already possesses a spell point pool or gains it later, this ability is automatically exchanged for the Extra Spell Points feat.
 

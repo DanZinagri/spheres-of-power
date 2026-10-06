@@ -12,7 +12,7 @@ The divine heretic is considered a villain by some, but knows his way is the tru
 
 This archetype requires [[Sphere Warpriest|sphere warpriest]] or [[Champion Warpriest (Warpriest Archetype)|champion warpriest]].
 
-### Domain Spheres
+## Domain Spheres
 
 At 1st level, the divine heretic gains two spheres as his domain spheres. The first of these spheres is the War sphere. A divine heretic gains the War sphere and Totemic Aura as bonus talents, as well as the Personal Conflict drawback.
 
@@ -22,13 +22,13 @@ The second domain sphere may be any sphere of the divine heretic’s choice. A d
 
 This replaces blessings.
 
-### Domain Mastery (Su)
+## Domain Mastery (Su)
 
 At 10th level, the divine heretic can expend two uses of his fervor to add any one magic talent from his domain spheres that he qualifies for to his list of talents known for the purposes of a single use of a sphere ability. He may use this ability with his fervor class ability without needing to spend additional fervor.
 
 This replaces channel energy.
 
-### Endless Fervor (Su)
+## Endless Fervor (Su)
 
 At 20th level, once per day as a swift action, the heretic may connect with the cosmic source of all their power, unhindered by the interference of the divine. During this action, he may use an unlimited number of sphere abilities from his domain spheres that target himself or his equipment. He must pay spell point costs normally.
 

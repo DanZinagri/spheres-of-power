@@ -20,7 +20,7 @@ A "Havenfury" is an acquired template that can be added to any creature (referre
 
 **Armor Class:** Natural armor bonus becomes equal to 1/2 its base attack bonus and its deflection bonus becomes equal to 1/2 its base attack bonus.
 
-**Defenses/Qualities:** Gains darkvision 60 feet;**Weakness** Vulnerability to Havenwards (suffer +50% damage from a havenward creature’s attacks, and suffer a -4 penalty to saves against spell or effects controlled by a havenward creature.)
+**Defenses/Qualities:** Gains darkvision 60 feet; **Weakness** Vulnerability to Havenwards (suffer +50% damage from a havenward creature’s attacks, and suffer a -4 penalty to saves against spell or effects controlled by a havenward creature.)
 
 **Melee:** A havenfury has a touch attack that it can use once per round as a natural weapon. A haven armed with other natural weapons or manufactured weapons uses its weapons normally, and can use its touch attack as a secondary natural weapon. Select an energy type acid, cold, electricity, fire, or sonic. This melee touch attack deals 1/2 HD d6 of the selected damage type, thus a 6 HD havenfury creature would deal 3d6 points of acid damage. A successful Fortitude save (DC 10 + 1/2 the havenfury’s HD + the havenfury’s Charisma modifier) halves this damage.
 

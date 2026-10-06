@@ -14,13 +14,13 @@ The Culinary Specialist is a first-level sample character for Spheres of Might, 
 **The Culinary Specialist**
 Halfling blacksmith (iron chef) 1
 CG Small humanoid (halfling)
-**Init**+2;**Perception** +6
+**Init** +2; **Perception** +6
 
 ## Defense
 
-**AC**16,**touch**16,**flat-footed** 14 (+3 armor, +2 Dex, +1 size)
+**AC** 16, **touch** 16, **flat-footed** 14 (+3 armor, +2 Dex, +1 size)
 **hp** 13 (1d10+3)
-**Fort**+6,**Ref**+3,**Will** +3 (+2 saves vs Fear)
+**Fort** +6, **Ref** +3, **Will** +3 (+2 saves vs Fear)
 **Defensive Abilities** improvised shield (+1, +2, or +4 shield bonus to AC)
 
 ## Offense
@@ -28,30 +28,30 @@ CG Small humanoid (halfling)
 **Speed** 20 ft.
 **Melee** small-sized improvised weapon +3 (1d8+3/19-20) or tiny-sized improvised weapon +3 (1d6+2/19-20) or diminutive-sized improvised weapon +3 (1d4+2/19-20)
 **Ranged** sling +3 (1d3+2)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** thunderous blows +1d6
 
 ## Martial
 
-**Tradition**Chemist (Alchemy sphere (formulae) package: Salve; Barroom sphere: Barroom Expert; Equipment sphere: Fast Draw);**PAM** Con
-**Alchemy sphere**- DC 13,**Packages**formulae,**Talents** Salve
+**Tradition** Chemist (Alchemy sphere (formulae) package: Salve; Barroom sphere: Barroom Expert; Equipment sphere: Fast Draw); **PAM** Con
+**Alchemy sphere** - DC 13, **Packages** formulae, **Talents** Salve
 - formulae (salve)
-**Barroom sphere**- DC 13,**Talents** Barroom Expert, Improvised Shield
+**Barroom sphere** - DC 13, **Talents** Barroom Expert, Improvised Shield
 - barroom expert (free action, grant an improvised weapon one of the following: blocking, brace, deadly, disarm, distracting, double, grapple, nonlethal, performance, reach, sunder, or trip)
 - brutal breaker (don't suffer penalties w/ improvised weapons)
 - hard drinker (move action, retrieve and drink an elixir, potion, or beverage; if alcoholic gain drunk status for 3 rounds)
 - improvised shield (may decrease damage die by 2 steps to count as a shield based on size)
-**Equipment sphere**- DC 13,**Talents** Fast Draw, Toolkit Training, Unarmored Training
+**Equipment sphere** - DC 13, **Talents** Fast Draw, Toolkit Training, Unarmored Training
 - discipline (proficient w/ battle ladder, battle stein, battle wrench, climbing pick, fishing tackle, garrote, grappling hook, iron brush, machete, net, ten foot pole, torch, and whip)
 - fast draw (draw a weapon as part of the action used to attack with it)
 - unarmored training (gain +3 armor bonus to AC while unarmored)
 
 ## Statistics
 
-**Str**14,**Dex**14,**Con**16,**Int**10,**Wis**10,**Cha** 10
-**Base Atk**+1;**CMB**+2;**CMD** 14
-**Feats**Extra Combat Talent;**Associated Feats** Improved Weapon Mastery, Quick Draw
-**Skills**Acrobatics +5, Climb +8, Perception +6, Profession (cook) +4;**Associated Skills** Craft (alchemy) +4; Racial Modifiers +2 Acrobatics, +2 Climb, +2 Perception
+**Str** 14, **Dex** 14, **Con** 16, **Int** 10, **Wis** 10, **Cha** 10
+**Base Atk** +1; **CMB** +2; **CMD** 14
+**Feats** Extra Combat Talent; **Associated Feats** Improved Weapon Mastery, Quick Draw
+**Skills** Acrobatics +5, Climb +8, Perception +6, Profession (cook) +4; **Associated Skills** Craft (alchemy) +4; Racial Modifiers +2 Acrobatics, +2 Climb, +2 Perception
 **Languages** common, halfling
 **Gear** skillet (tiny-sized), spatula (diminutive-sized), sling (w/ 20 bullets), portable alchemist lab
 

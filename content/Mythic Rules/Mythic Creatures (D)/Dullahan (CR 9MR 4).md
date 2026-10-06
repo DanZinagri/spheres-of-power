@@ -13,15 +13,15 @@ Clad in ragged black robes and tarnished armor, this grim, headless rider is sur
 XP 6,400
 Pathfinder Roleplaying Game Bestiary 2
 LE Medium undead (mythic)
-**Init**+2;**Senses** blindsight 60 ft.; Perception +16
+**Init** +2; **Senses** blindsight 60 ft.; Perception +16
 **Aura** frightful presence (30 ft., DC 20)
 
 #### Defense
 
-**AC**26,**touch**11,**flat-footed** 25 (+11 armor, +1 Dex, +4 natural)
+**AC** 26, **touch** 11, **flat-footed** 25 (+11 armor, +1 Dex, +4 natural)
 **hp** 127 (10d8+82); fast healing 5
-**Fort**+8,**Ref**+5,**Will** +12
-**Defensive Abilities**channel resistance +4; DR 5/epic;**Immune**undead traits;**SR** 20
+**Fort** +8, **Ref** +5, **Will** +12
+**Defensive Abilities** channel resistance +4; DR 5/epic; **Immune** undead traits; **SR** 20
 
 #### Offense
 
@@ -31,8 +31,8 @@ LE Medium undead (mythic)
 
 #### Statistics
 
-**Str**22,**Dex**14,**Con**—,**Int**14,**Wis**16,**Cha** 20
-**Base Atk**+7;**CMB**+13;**CMD** 25
+**Str** 22, **Dex** 14, **Con** —, **Int** 14, **Wis** 16, **Cha** 20
+**Base Atk** +7; **CMB** +13; **CMD** 25
 **Feats** Iron Will, Mounted CombatMF, Ride-By Attack, Trample, Weapon Focus (longsword)MF
 **Skills** Handle Animal +15, Intimidate +18, Perception +16, Ride +7, Spellcraft +15, Stealth +10
 **Languages** Common, Infernal, Sylvan

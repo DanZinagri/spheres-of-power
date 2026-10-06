@@ -15,7 +15,7 @@ The powers of the kineticist are known to those in power among the heavens, and 
 **Kinetic Smite (Sp):** At 1st level, a divine conduit gains the following utility wild talent:
 
 > **Kinetic Smite**
-> **Element(s)**universal;**Type**utility (Sp);**Level**1;**Burn** 1
+> **Element(s)** universal; **Type** utility (Sp); **Level** 1; **Burn** 1
 >
 > As a swift action, choose 1 creature within 60 ft; you are treated as having selected that creature as the target of smite evil as per the paladin class feature. You can add ½ of your Constitution modifier in place of your Charisma modifier to determine attack bonuses and deflection bonuses to AC from your smite.
 
@@ -24,7 +24,7 @@ This ability replaces the 1st-level infusion.
 **Divine Defense (Su):** At 2nd level, a divine conduit gains the following elemental defense:
 
 > **Adamant Faith**
-> **Element(s)**universal;**Type**defense (Su);**Level**—;**Burn** 0
+> **Element(s)** universal; **Type** defense (Su); **Level** —; **Burn** 0
 >
 > Your body is suffused with raw divine power. You gain DR 1/evil. This DR increases by 1 for every 2 kineticist levels you possess beyond 2nd. By accepting 1 point of burn, you can increase the DR by 1 until the next time your burn is removed, to a maximum DR equal to your kineticist level. Whenever you accept burn while using a wild talent, the energy surging through you spills into your adjacent allies, granting them DR against evil equal to your own for 1 round.
 >
@@ -43,7 +43,7 @@ This ability replaces the 4th-level utility wild talent.
 **Glorious Steed (Sp):** At 8th level, a divine conduit can select the following utility wild talent:
 
 > **Divine Mount**
-> **Element(s)**universal;**Type**utility (Sp);**Level**4;**Burn** 0
+> **Element(s)** universal; **Type** utility (Sp); **Level** 4; **Burn** 0
 >
 > You gain the ability to conjure a mount, as per the phantom steed spell. This steed is composed of raw elemental power and divine energy, and treats your caster level as your kineticist level, although it cannot be dispelled. You can accept 1 point of burn to increase the mount’s hit points to ½ of your maximum total until it is dismissed. If your divine mount is destroyed, you cannot use this utility wild talent for 1 week.
 

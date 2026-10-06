@@ -35,9 +35,9 @@ Instead, see the following pages for specific examples of items that aren't Wond
 
 ### Alabaster Marquise Ioun Stone [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**strong abjuration —**CL** 12th
+**Aura** strong abjuration — **CL** 12th
 **Price** 14,000 gp
 
 **Description**
@@ -58,8 +58,8 @@ Craft Marvelous Item, Enhancement sphere, creator must be 12th level — **Cost*
 
 ### Amulet of Primal Protection
 
-**Aura**faint Enhancement and Protection;**CL**5th;**Scaling** wonder
-**Slot**neck;**Price**3,150 gp;**Weight** 0.1 lbs.
+**Aura** faint Enhancement and Protection; **CL** 5th; **Scaling** wonder
+**Slot** neck; **Price** 3,150 gp; **Weight** 0.1 lbs.
 
 **Description**
 This amulet appears to be small shield made of teeth, and is often found in the possession of the holy warriors of the primal world. The wearer gains the benefit of the Improved Unarmed Strike feat.
@@ -84,8 +84,8 @@ Craft Marvelous Item, Enhancement sphere (Natural Enhancement), Protection spher
 
 ### Amulet of the Revealing Eye
 
-**Aura**faint Divination and Light;**CL** 3rd
-**Slot**neck;**Price**10,800 gp;**Weight** -
+**Aura** faint Divination and Light; **CL** 3rd
+**Slot** neck; **Price** 10,800 gp; **Weight** -
 
 **Description**
 Three times per day, you may activate this amulet as a standard action. Doing so produces a 60-foot cone of bright light for 3 rounds that reveals all hidden creatures and objects as well as anything expressly designed to be hidden. Creatures and objects lose all the benefits of invisibility for as long as they are within the area of bright light. Hidden objects include secret doors, hidden caches, and secret compartments. Not only does this detect the presence of such secrets, but it also gives you knowledge of their trigger mechanisms. This only detects doors, passages, and openings specifically designed to avoid detection. The orientation of the cone may be changed once per turn as a free action.
@@ -95,7 +95,7 @@ Craft Marvelous Item, Light sphere, Divination sphere (Detect Secrets (divine));
 
 ### Aspect Talisman [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate transmutation (Alteration) — **CL** 8th
 **Slot** none; **Price** 8,000 gp; **Weight** —
@@ -112,8 +112,8 @@ The wearer gains Aspect of the Beast as a bonus feat. Whenever the wearer rests 
 
 ### Banner of the Warlord
 
-**Aura**moderate War;**CL** 10th
-**Slot**none;**Price**30,000 gp;**Weight** 0.1 lbs.
+**Aura** moderate War; **CL** 10th
+**Slot** none; **Price** 30,000 gp; **Weight** 0.1 lbs.
 
 **Description**
 This ornate strip of cloth is small enough to tie around a weapon but colorful enough to be seen easily from a distance. Although worn and frayed around the edges, the cloth is magically clean and its colors never run. It has 10 hit points but, impossibly, has a hardness of 30.
@@ -129,8 +129,8 @@ Craft Marvelous Item, War sphere, totem to be imbued; **Cost** 15,000 gp
 
 ### Banner of the Warlord, Major
 
-**Aura**strong War;**CL** 20th
-**Slot**none;**Price**60,000 gp;**Weight** 0.1 lbs.
+**Aura** strong War; **CL** 20th
+**Slot** none; **Price** 60,000 gp; **Weight** 0.1 lbs.
 
 **Description**
 This is the same as a banner of the warlord, but its effective caster level is 20.
@@ -140,8 +140,8 @@ Craft Marvelous Item, War sphere, totem to be imbued; **Cost** 30,000 gp
 
 ### Banner of the Warlord, Minor
 
-**Aura**moderate War;**CL** 5th
-**Slot**none;**Price**15,000 gp;**Weight** 0.1 lbs.
+**Aura** moderate War; **CL** 5th
+**Slot** none; **Price** 15,000 gp; **Weight** 0.1 lbs.
 
 **Description**
 This is the same as a banner of the warlord, but its effective caster level is 5.
@@ -151,7 +151,7 @@ Craft Marvelous Item, War sphere, totem to be imbued; **Cost** 7,500 gp
 
 ### Blanching Quiver [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint conjuration (Creation) — **CL** 4th
 **Slot** slotless; **Price** 2,400 gp; **Weight** 2 lbs.
@@ -166,20 +166,20 @@ This banded metal quiver features an assortment of assorted metal bands.
 
 ### Bloody Mess [TS]
 
-**Aura**faint Death;**CL** 3rd
-**Slot**any;**Price**3,600 gp;**Weight** 2 lbs.
+**Aura** faint Death; **CL** 3rd
+**Slot** any; **Price** 3,600 gp; **Weight** 2 lbs.
 
 Bloody messes often look like a heart and must be squeezed hard to activate, after which they reform themselves in the user’s hand. Most crafters believe this is a little gratuitous, but they have a hard time denying the effectiveness of this item. Once per day, as a standard action, a creature can use a bloody mess to make a ranged touch attack dealing 1 bleed damage per caster level to one creature in close range (25 feet + 5 feet per 2 caster levels); this has no save if it hits, but it is a negative energy death effect and will not harm undead and certain similar creatures. This damage occurs on the round they are hit, and on each additional round until the bleeding stops (normally by using the Heal skill or any magical healing).
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, which increases the range and how much bleed damage you do. At +1, you may attack all creatures in a close-range cone when using the bloody mess instead of a single target (make one ranged touch attack roll for all of them). At +2, this item can be used an additional time per day and deals 2 bleed damage per caster level. At +4, this item can be used an additional time per day.**Flask Shard Limit:** +4.
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, which increases the range and how much bleed damage you do. At +1, you may attack all creatures in a close-range cone when using the bloody mess instead of a single target (make one ranged touch attack roll for all of them). At +2, this item can be used an additional time per day and deals 2 bleed damage per caster level. At +4, this item can be used an additional time per day. **Flask Shard Limit:** +4.
 
 **Construction Requirements**
 Craft Marvelous Item, Death sphere (Bleeding Wounds (ghost strike), Greater Ghost Strike); **Cost** 1,800 gp
 
 ### Boots of Polymorphous Alacrity [BaP]
 
-**Aura**faint Alteration;**CL** 5th
-**Slot**feet;**Price**6,500 gp;**Weight** 1 lb.
+**Aura** faint Alteration; **CL** 5th
+**Slot** feet; **Price** 6,500 gp; **Weight** 1 lb.
 
 **Description**
 These oddly comfortable boots grant the wearer a +10 enhancement bonus to their base land speed and to any movement speed granted to the wearer by a shapeshift or other polymorph effect.
@@ -191,8 +191,8 @@ Craft Marvelous Item, Alteration sphere (Agile); **Cost** 3,250 gp
 
 ### Boots of Toe Beans [Catgirl HB]
 
-**Aura**faint Enhancement;**CL** 5th
-**Slot**body;**Price**6,500 gp;**Weight** 1 lbs.
+**Aura** faint Enhancement; **CL** 5th
+**Slot** body; **Price** 6,500 gp; **Weight** 1 lbs.
 
 **Description**
 These luxurious thigh-high boots sport a number of gleaming buckles and paw-like motifs. While worn, the wearer may speak a command word to cause the boots meld with the wearer’s body, transforming the wearer’s legs from the thigh down into feline-like legs. While the boots are worn this way, the wearer gains a +5 competence bonus to Acrobatics and Stealth. This command word may be used to return the boots and the wearer’s legs to their normal form.
@@ -204,8 +204,8 @@ Craft Marvelous Item, Enhancement sphere (Alter Movement (enhance), Enhance Focu
 
 ### Charms of the Spirit Lords [Conq. HB]
 
-**Aura**moderate Alteration;**CL** 10th
-**Slot**none;**Price**26,000 gp;**Weight** 0.3 lbs.
+**Aura** moderate Alteration; **CL** 10th
+**Slot** none; **Price** 26,000 gp; **Weight** 0.3 lbs.
 
 **Description**
 This string of ornate, carved charms sport depictions of strange and mystical creatures and can be wrapped around a wrist or used to adorn a piece of clothing or weapon. Each set of charms has a single Alteration talent that grants traits stored inside. The carvings on the charms share a common theme bearing the appearance and characteristics of the Alteration talent stored. For example, a set of charms with the Bestial Spirit talent will have more animalistic features, whereas a set of charms with the Fey Body talent will be more delicate and lithe.
@@ -217,7 +217,7 @@ Craft Marvelous Item, Alteration sphere (Greater Changes); **Cost** 13,000 gp
 
 ### Clockwinder Gloves [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate transmutation (Time) — **CL** 6th
 **Slot** hands; **Price** 6,000 gp; **Weight** —
@@ -237,7 +237,7 @@ Twice per day as a swift action, the wearer of a pair of *clockwinder gloves* ma
 
 ### Cloudcalling Focus [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong transmutation (Weather) — **CL** 12th
 **Slot** neck; **Price** 15,000 gp; **Weight** —
@@ -254,7 +254,7 @@ The wearer treats the weather severity as being 1 higher (for each category) for
 
 ### Cloying Brooch [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint evocation (Dark) — **CL** 5th
 **Slot** none; **Price** 6,000 gp; **Weight** —
@@ -273,7 +273,7 @@ The shadow limb is partially-immaterial and allows the wearer to use the shadow 
 
 ### Coin of Weighted Fortune [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate divination (Fate) — **CL** 8th
 **Slot** slotless; **Price** 9,000 gp; **Weight** —
@@ -295,8 +295,8 @@ This coin may only be flipped during moments of stress, action, or adrenaline. A
 
 ### Conforming Mountlord’s Saddle [BTH]
 
-**Aura**faint Alteration and Warp;**CL** 6th (normal), 10th (greater)
-**Slot**none;**Price** 5,000 gp (normal), 12,000 gp (greater);
+**Aura** faint Alteration and Warp; **CL** 6th (normal), 10th (greater)
+**Slot** none; **Price** 5,000 gp (normal), 12,000 gp (greater);
 **Weight** 2 lbs.
 
 **Description**
@@ -313,8 +313,8 @@ Craft Marvelous Item, Alteration sphere (Agile), Warp sphere (Distort Size); **C
 
 ### Contrast Spectacles
 
-**Aura**faint Divination;**CL** 3rd
-**Slot**eyes;**Price** 2,000 gp
+**Aura** faint Divination; **CL** 3rd
+**Slot** eyes; **Price** 2,000 gp
 
 **Description**
 The light pair of wire-rimmed lenses reveal natural levels of illumination from unnatural, even in conditions where the wearer can not otherwise see. Contrast spectacles instantly reveal the location and boundaries of all areas of darkness, blot, and glow, even if they do not change the ambient lighting conditions. As a swift action the wearer may attempt a Spellcraft check to identify any active (darkness), (blot), (glow), and (nimbus) talents. This does not grant low-light vision or darkvision, nor does it allow the wearer to notice magical lighting conditions through physical barrier to vision. The Obfuscation talent thwarts the effects of contrast spectacles.
@@ -324,7 +324,7 @@ Craft Marvelous Item, Divination sphere; **Cost** 1,000 gp
 
 ### Creature Caller's Phial [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate conjuration (Conjuration) — **CL** 9th
 **Slot** slotless; **Price** 9,000 gp (standard), 22,000 (greater); **Weight** —
@@ -345,8 +345,8 @@ A *greater creature caller's phial* instead grants the chosen (type) talent as t
 
 ### Crusader’s Insignia [Conq. HB]
 
-**Aura**moderate Enhancement;**CL** 7th
-**Slot**none;**Price**3,000 gp;**Weight** -
+**Aura** moderate Enhancement; **CL** 7th
+**Slot** none; **Price** 3,000 gp; **Weight** -
 
 **Description**
 These ornate insignias bear iconography of a deity or cause, and usually take the form of bright sashes, medals, or other pieces of finery which can be brightly displayed. So long as the bearer of the insignia displays it prominently on their person, such as attached to their armor or adorned on their weapon, they may spend 1 panache to gain the use of a specific ability associated with the insignia.
@@ -362,8 +362,8 @@ Craft Marvelous Item, Enhancement sphere; **Cost** 1,500 gp
 
 ### Cryptkeeper’s Coffin [Gravecaller's HB]
 
-**Aura**moderate Death;**CL** 5th
-**Slot**none;**Price**8,000 gp;**Weight** 50 lbs.
+**Aura** moderate Death; **CL** 5th
+**Slot** none; **Price** 8,000 gp; **Weight** 50 lbs.
 
 **Description**
 This ornately-carved, wooden coffin features a heavy lock and, at first-glance, can fit the body of an average Medium humanoid. A cryptkeeper’s coffin opens into an extradimensional space sufficiently large to hold up to 12 Medium humanoid bodies (or any combination thereof, a Large body being the same size as 2 Medium bodies, and so on).
@@ -381,20 +381,20 @@ Craft Marvelous Item, Death (Corpse Manipulation, Tomb Of Flesh); **Cost** 4,000
 
 ### Cursed Sign [TS]
 
-**Aura**faint Mana;**CL** 2nd
-**Slot**none;**Price**1,600 gp;**Weight** 2 lbs.
+**Aura** faint Mana; **CL** 2nd
+**Slot** none; **Price** 1,600 gp; **Weight** 2 lbs.
 
 Once per day, when brandished in one hand as a standard action, a cursed sign can give one creature in close range (25 feet + 5 feet per 2 caster levels) the Painful Magic casting drawback unless they succeed at a Will save (DC 10 + 1/2 this item’s caster level). If successful, this effect lasts for 24 hours.
 
-**Flask Shard Effect:** Increase this item’s caster level by 5 and increase its uses per day by 1. At +1, the cursed sign also gives a target the Draining Casting drawback. At +2, the cursed sign also gives a target the Variant Wild Magic drawback. At +3, the cursed sign also gives a target the Center Of Power drawback.**Flask Shard Limit:** +3
+**Flask Shard Effect:** Increase this item’s caster level by 5 and increase its uses per day by 1. At +1, the cursed sign also gives a target the Draining Casting drawback. At +2, the cursed sign also gives a target the Variant Wild Magic drawback. At +3, the cursed sign also gives a target the Center Of Power drawback. **Flask Shard Limit:** +3
 
 **Construction Requirements**
 Craft Marvelous Item, Mana sphere (Mark Of Incompetency (expunge)); **Cost** 800 gp
 
 ### Dagger of False Death [TS]
 
-**Aura**faint Alteration;**CL** 3rd
-**Slot**weapon;**Price**3,602 gp;**Weight** 1 lb.
+**Aura** faint Alteration; **CL** 3rd
+**Slot** weapon; **Price** 3,602 gp; **Weight** 1 lb.
 
 A surprisingly popular tool among certain groups of bodyguards and assassins, this item appears to be a regular dagger. However, once per day, a wielder can shapeshift a creature they strike when making a ranged or melee attack as a standard action using this weapon. When shapeshifted (Will negates), the target gains a +10 bonus to Disguise checks to appear dead (although the specifics can vary from appearing to have all the water sucked out of their body to simply turning pale and bleeding out). This shapeshift lasts for up to 30 minutes and hides small movements such as breathing or twitches. Greater daggers of false death cost 13,602 gp, but provide an additional +10 circumstance bonus to Disguise checks while stabbed into someone.
 
@@ -403,8 +403,8 @@ Craft Marvelous Item, Alteration sphere (Lingering Transformation, Transforming 
 
 ### Dashing Cloak
 
-**Aura**faint Warp;**CL** 5th
-**Slot**shoulders;**Price**5,200 gp;**Weight** 1 lb.
+**Aura** faint Warp; **CL** 5th
+**Slot** shoulders; **Price** 5,200 gp; **Weight** 1 lb.
 
 **Description**
 The silver embroidery on this fine purple cloak seems to twist and shift in the light. A dashing cloak has five charges which are renewed each day at dawn, represented by five symbols in the embroidery. Spending 1 or more charges causes one of the symbols to grow still and allows the wearer to teleport to any place they have line of effect and line of sight to, up to a maximum range of 30 feet. The action it takes to teleport depends on how many charges are spent.
@@ -418,8 +418,8 @@ Craft Marvelous Item, Warp sphere (Quick Teleport); **Cost** 2,600 gp
 
 ### Dowsing Rods
 
-**Aura**moderate Divination;**CL** 11th
-**Slot**none;**Price**1,000 gp;**Weight** 0.1 lbs.
+**Aura** moderate Divination; **CL** 11th
+**Slot** none; **Price** 1,000 gp; **Weight** 0.1 lbs.
 
 **Description**
 This pair of rods is used in divining the location of various objects, such as gems, metals or even water. Dowsing rods are made with a specific purpose upon its creation - see the table below for examples of available dowsing rods.
@@ -456,8 +456,8 @@ Craft Marvelous Item, Divination sphere (Dowsing (divine)); **Cost** 500 gp
 
 ### Earth Warrior’s Boots
 
-**Aura**faint Life;**CL** 2nd
-**Slot**feet;**Price**4,000 gp;**Weight** —
+**Aura** faint Life; **CL** 2nd
+**Slot** feet; **Price** 4,000 gp; **Weight** —
 
 **Description**
 These sturdy leather boots are prized by mercenaries who may not have healers available when they most need them. When standing upright on solid soil or stone, slamming the heel of either boot into the ground (a free action) will grant the wearer fast healing 1 for 2 minutes. Each boot can be used once per day, and can be used at the same time or separately (the effect stacks with itself). Both boots must be worn for the magic to be effective. The boots also grant DR 5/magic vs. anything harmful that the wearer steps on that are environmental in nature, or traps that attack from beneath the wearer.
@@ -467,8 +467,8 @@ Craft Marvelous Item, Life sphere (Revitalize); **Cost** 2,000 gp
 
 ### Ebony Marquise Ioun Stone [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
-**Aura**strong abjuration —**CL** 12th
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
+**Aura** strong abjuration — **CL** 12th
 **Price** 14,000 gp
 
 **Description**
@@ -489,10 +489,10 @@ Craft Marvelous Item, Dark or Divination sphere, creator must be 12th level — 
 
 ### Electric Lute [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate destruction —**CL** 6th — Scaling wonder
-**Slot**none —**Price**2,400 gp —**Weight** 3 lbs.
+**Aura** moderate destruction — **CL** 6th — Scaling wonder
+**Slot** none — **Price** 2,400 gp — **Weight** 3 lbs.
 
 **Description**
 This brilliant silver lute sparks with electricity when strummed, resonating with each note played. Up to three times per day, the user can play the instrument as part of speaking the command word to deal 2d8 points of electricity damage to a creature within 30 feet they can see (a DC 13 Reflex save halves this damage).
@@ -508,20 +508,20 @@ Craft Marvelous Item, Destruction sphere, any talent from the Electric blast typ
 
 ### Elemental Ward [TS]
 
-**Aura**faint Protection;**CL** 4th
-**Slot**wrists;**Price**6,400 gp;**Weight** 1 lb.
+**Aura** faint Protection; **CL** 4th
+**Slot** wrists; **Price** 6,400 gp; **Weight** 1 lb.
 
 Elemental wards are golden bracelets decorated with gems of various colors that bearers can clasp onto their wrists. Once per day, as a standard action, a creature can activate these bracelets to create an aegis on 1 ally + 1 additional ally per 2 caster levels who are within close range (25 feet + 5 feet per 2 caster levels) for 1 minute per caster level. This aegis grants energy resistance 10 + this item’s caster level to one of the following elements, chosen when the item is activated and applying to all creatures that benefit from the aegis: acid, cold, electricity, fire, or sonic damage. This only absorbs damage and may not protect from other side-effects. The elemental ward starts with the ability to affect three allies within 35 feet, grants energy resistance 14, and lasts for 4 minutes. The energy resistance granted by this item overlaps (and does not stack with) any existing energy resistance.
 
-**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4 and increase its uses per day by 1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4 and increase its uses per day by 1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Protection sphere (Distant Protection [range], Elemental Resistance (aegis, ward), Mass Aegis [mass]); **Cost** 3,200 gp
 
 ### Emergency Exit [TS]
 
-**Aura**moderate Warp;**CL** 7th
-**Slot**none;**Price**19,600 gp;**Weight** 4 lbs.
+**Aura** moderate Warp; **CL** 7th
+**Slot** none; **Price** 19,600 gp; **Weight** 4 lbs.
 
 Once per day, as a standard action, you may use the emergency exit to create a magical teleport beacon on a touched spot. At any point during the next seven hours, you may use another standard action to activate the emergency exit and teleport yourself and up to three other willing creatures who are within 40 feet of you back to that teleport beacon, regardless of your distance from the beacon (as long as it is on the same plane). A creature can only benefit from an emergency exit once per day.
 
@@ -536,20 +536,20 @@ If you need to make a more powerful version to accommodate a larger party, you o
 
 ### Energy Converter [TS]
 
-**Aura**faint Mana;**CL** 1st
-**Slot**hands;**Price**400 gp;**Weight** 2 lbs.
+**Aura** faint Mana; **CL** 1st
+**Slot** hands; **Price** 400 gp; **Weight** 2 lbs.
 
 These ornate gauntlets seem to be made of metal thin enough to be woven into threads, but durable enough to withstand the rigors of combat, making them more like gloves than gauntlets. Once per day, as a standard action, a wearer can activate an energy converter to create an immobile spherical field with a radius of 10 feet + 5 feet per 10 caster levels and select one energy type from the following list: acid, cold, electricity, or fire. For one round, all damage from magical or supernatural sources that’s of the damage types on that list and that passes through or affects anything within the field becomes the type of damage selected.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase its number of uses per day by 1. At +1, increase its duration to 1 round per caster level. At +2, add sonic to the list of elements the energy converter affects. At +3, add force to the list of elements the energy converter affects. At +4, add positive energy and negative energy to the list of elements the energy converter affects.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase its number of uses per day by 1. At +1, increase its duration to 1 round per caster level. At +2, add sonic to the list of elements the energy converter affects. At +3, add force to the list of elements the energy converter affects. At +4, add positive energy and negative energy to the list of elements the energy converter affects. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Mana sphere; **Cost** 200 gp
 
 ### Entropic Gloves
 
-**Aura**moderate Destruction;**CL** 12th
-**Slot**hands;**Price**60,000 gp;**Weight** -
+**Aura** moderate Destruction; **CL** 12th
+**Slot** hands; **Price** 60,000 gp; **Weight** -
 
 **Description**
 Once per round, when you use a sphere ability that deals hit point damage, you do an extra point of damage per caster level.
@@ -559,10 +559,10 @@ Craft Marvelous Item, Destruction sphere; **Cost** 30,000 gp
 
 ### Ever-Verdant Terrarium [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Nature —**CL** 4th
-**Slot**none —**Price**4,000 gp —**Weight** 5 lbs.
+**Aura** moderate Nature — **CL** 4th
+**Slot** none — **Price** 4,000 gp — **Weight** 5 lbs.
 
 **Description**
 This glass sphere is filled with a deep brown dirt and vibrant moss, releasing a pleasant natural aroma into the vicinity. At the start of each day, roll 2d8; the ever-verdant terrarium produces a single Herbalism sphere herb depending on each d8 result: 1—bitter, 2—bland, 3—cool, 4—dry, 5—spicy, 6—sweet, 7—intense, 8—sour. The effective ranks of the produced herbs is equal to the ever-verdant terrarium’s caster level, or the user’s Profession (herbalist) ranks, whichever is higher.
@@ -576,8 +576,8 @@ Craft Marvelous Item, Nature sphere (Create Nature) — **Cost** 2,000 gp
 
 ### Feline Fineries [Catgirl HB]
 
-**Aura**faint Illusion;**CL** 4th
-**Slot**body;**Price**150 gp;**Weight** 1 lbs.
+**Aura** faint Illusion; **CL** 4th
+**Slot** body; **Price** 150 gp; **Weight** 1 lbs.
 
 **Description**
 This fine silk vest is embroidered with small cat paws along the seams and stitchings. The feline fineries are a popular choice amongst noble households to clothe their servants in trim butler or frilly maid uniforms, but also find themselves in the hands of adventurers who simply wish to have a convenient set of presentable formalwear.
@@ -593,32 +593,32 @@ Craft Marvelous Item, Illusion sphere (Illusory Disguise); **Cost** 75 gp
 
 ### Flame Bearer’s Mask [TS]
 
-**Aura**faint Bear;**CL** 5th
-**Slot**head;**Price**10,000 gp;**Weight** 3 lbs.
+**Aura** faint Bear; **CL** 5th
+**Slot** head; **Price** 10,000 gp; **Weight** 3 lbs.
 
 This wooden mask is carved into the shape of a bear’s head and seems a bit charred around the mouth. Once per day, the wearer can activate the flame bearer’s mask to channel a bear spirit. While channeling this spirit, the user gains the ability to exhale a cone of flames in close range (25 feet + 5 feet per 2 caster levels) as a standard action. This cone does 1d8 fire damage per two caster levels of this item, and creatures within its area of effect may attempt a Reflex save for half damage. This flame breath must recharge for 1d4 rounds after each use. This bear spirit only lasts for one minute, regardless of this item’s caster level.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase the number of times it can be activated per day by 1.**Flask Shard Limit:** +3
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase the number of times it can be activated per day by 1. **Flask Shard Limit:** +3
 
 **Construction Requirements**
 Craft Marvelous Item, Bear sphere (Bearbaque (bearacteristic)); **Cost** 5,000 gp
 
 ### Flask of the Dawn [TS]
 
-**Aura**faint Life;**CL** 2nd
-**Slot**none;**Price**4,800 gp;**Weight** 2 lbs.
+**Aura** faint Life; **CL** 2nd
+**Slot** none; **Price** 4,800 gp; **Weight** 2 lbs.
 
 A much-beloved item among newer adventurers who do not have a friendly cleric around to heal them, and originally said to have been gifted to the world by a kind goddess for whom it is named, the flask of the dawn fills with three uses of a life-giving drink each morning and restores 2d8+2 hit points to anyone who drinks from it (as a standard action). This drink only heals and cannot be used to damage creatures vulnerable to positive energy. Rumors exist of flasks that work exclusively on undead, although whether this represents mercy from a goddess or a cruel joke by dark powers remains to be seen…
 
-**Flask Shard Effect:** Increase the uses per day by 1, increase the dice rolled by 1, and increase the caster level of this item and the fixed healing to the next increment of 5 (thus, the first improvement gives 3d8+5 healing, then 4d8+10, etc.).**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the uses per day by 1, increase the dice rolled by 1, and increase the caster level of this item and the fixed healing to the next increment of 5 (thus, the first improvement gives 3d8+5 healing, then 4d8+10, etc.). **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Life sphere (Deeper Healing); **Cost** 2,400 gp
 
 ### Focus of the Diviner
 
-**Aura**faint Divination;**CL**2nd;**Scaling** prize
-**Slot**none;**Price**150 gp;**Weight** 1 lb.
+**Aura** faint Divination; **CL** 2nd; **Scaling** prize
+**Slot** none; **Price** 150 gp; **Weight** 1 lb.
 
 **Description**
 This particular focus is made and sold in various different shapes, the most common of which is a wooden box containing either a complete deck of harrow cards or set of runes. If any of the harrow cards or runes move more than 400 feet from the box or becomes damaged those cards or runes rematerialize inside the box undamaged.
@@ -637,19 +637,19 @@ Craft Marvelous Item, Divination sphere, Enhancement sphere; **Cost** 66,000 gp
 
 ### Foodmaker [TS]
 
-**Aura**faint Nature;**CL** 2nd
-**Slot**none;**Price**1,600 gp;**Weight** -
+**Aura** faint Nature; **CL** 2nd
+**Slot** none; **Price** 1,600 gp; **Weight** -
 
 Despised the world over by arcane masters confident they could come up with a much better name - but who have been continually rebuffed by commoners who refuse to call it anything else - the foodmaker is a popular choice among caravaners and travelers who expect to travel a long distance and do not know how much food they can find or carry along the way. Foodmakers look like boxes containing seeds that refresh each morning; once per day, you can toss these seeds onto the ground in a 5-foot radius, +5 feet per 2 caster levels. Immediately after, one of these plants per caster level sprouts enough common food (such as corn or berries) to feed three Medium-sized creatures or one horse for a day.
 
-**Flask Shard Effect:** Increase the caster level to the next increment of 5, which increases the number of plants that can be harvested and the radius of ground where plants will grow.**Flask Shard Limit:** +2
+**Flask Shard Effect:** Increase the caster level to the next increment of 5, which increases the number of plants that can be harvested and the radius of ground where plants will grow. **Flask Shard Limit:** +2
 
 **Construction Requirements**
 Craft Marvelous Item, Nature sphere ((plant) package, Create Nature (geomancing)); **Cost** 800 gp
 
 ### Gale Lord's Cloak [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate transmutation (Weather) — **CL** 8th
 **Slot** shoulders; **Price** 13,000 gp; **Weight** 1 lb.
@@ -666,7 +666,7 @@ While concentrating on the Weather *control weather* sphere effect to adjust the
 
 ### Glowcaster [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint evocation (Light) — **CL** 4th
 **Slot** slotless; **Price** 2,500 gp; **Weight** 0.5 lbs.
@@ -685,8 +685,8 @@ When a *glowcaster* is shedding light, the user may coax this light from its ves
 
 ### Goggles of Magic Sight
 
-**Aura**faint Divination;**CL** 1th
-**Slot**eyes;**Price**1,200 gp;**Weight** 1 lb.
+**Aura** faint Divination; **CL** 1th
+**Slot** eyes; **Price** 1,200 gp; **Weight** 1 lb.
 
 **Description**
 These goggles look like simple goggles used by fliers, but closer inspection reveals that the glasses can be rotated. Moving both glasses to the right position provides the effects of the standard divine effect of the Divination sphere. The effect persists until the user ceases concentration, after which both glasses snap back to their original position. These goggles can be used 3 times per day.
@@ -696,7 +696,7 @@ Craft Marvelous Item, Divination sphere; **Cost** 600 gp
 
 ### Gravewhisperer Veil [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate necromancy (Death) — **CL** 9th
 **Slot** head; **Price** 9,000 gp; **Weight** —
@@ -715,8 +715,8 @@ Only a single fragment can be stored this way, and while stored, the veil's gray
 
 ### Gravity Regulator [RW HB]
 
-**Aura**faint Telekinesis;**CL** 6th
-**Slot**chest;**Price**2,000 gp (personal), 8,000 gp (prime), 12,000 gp (vessel);**Weight** 2 lbs.
+**Aura** faint Telekinesis; **CL** 6th
+**Slot** chest; **Price** 2,000 gp (personal), 8,000 gp (prime), 12,000 gp (vessel); **Weight** 2 lbs.
 
 A gravity regulator is a feat of magic and technology, using minor gravity alteration to normalize ambient gravity and assist against many of the regular hazards of gravity. The gravity regulator is frequently created as a vest but may also be available for the feet, shoulder, or wrist item slot.
 
@@ -738,20 +738,20 @@ Craft Marvelous Item, Telekinesis sphere; **Cost** 1,000 gp (normal), 4,000 (pri
 
 ### Growing Can [TS]
 
-**Aura**faint Nature;**CL** 2nd
-**Slot**none;**Price**1,600 gp;**Weight** -
+**Aura** faint Nature; **CL** 2nd
+**Slot** none; **Price** 1,600 gp; **Weight** -
 
 Once per day, you can pour out the water in a growing can to create a field of ivy, vines, and general plant cover on the ground. This field has a radius of 5 feet + 5 feet per 2 caster levels. This is an instantaneous effect and the plants remain on the ground, but may die quickly if the terrain is unsuitable for supporting them. The can refills itself each morning and the water never spills out unless intentionally poured.
 
-**Flask Shard Effect:** Increase the caster level to the next increment of 5, which increases the radius of ground where plants will grow, and increase the number of uses per day by 1.**Flask Shard Limit:** +2
+**Flask Shard Effect:** Increase the caster level to the next increment of 5, which increases the radius of ground where plants will grow, and increase the number of uses per day by 1. **Flask Shard Limit:** +2
 
 **Construction Requirements**
 Craft Marvelous Item, Nature sphere ((plant) package, Create Nature (geomancing)); **Cost** 800 gp
 
 ### Headband of Ill Fortune
 
-**Aura**faint Fate;**CL** 5th
-**Slot**headband;**Price**10,000 gp;**Weight** -
+**Aura** faint Fate; **CL** 5th
+**Slot** headband; **Price** 10,000 gp; **Weight** -
 
 **Description**
 When a creature wears this headband, once per day they may look at a creature within close range and curse them as an immediate action, forcing them to roll an attack roll, skill check, ability check, or saving throw twice and take the lower result.
@@ -761,44 +761,44 @@ Craft Marvelous Item, Fate sphere; **Cost** 5,000 gp
 
 ### Healing Shiv [TS]
 
-**Aura**faint Life;**CL** 3rd
-**Slot**weapon;**Price**3,602 gp;**Weight** 1 lb.
+**Aura** faint Life; **CL** 3rd
+**Slot** weapon; **Price** 3,602 gp; **Weight** 1 lb.
 
 This dagger has a rough, jagged edge and a cobbled-together grip that looks like something put together in a prison. Once per day, as part of making an attack as a standard action using this weapon, the wielder can heal the target struck by the attack for 2d8 + this item’s caster level in hit points (the target still takes damage from the attack first). This is a positive energy effect and can damage creatures who are vulnerable to positive energy (a Will save halves the positive energy damage). If the user has the Spell Attack feat, this weapon can be used and activated as part of a special attack action.
 
-**Flask Shard Effect:** Increase this item’s caster level to the next increment of 5, increase the number of dice healed by 1, and increase the number of uses per day by 1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase this item’s caster level to the next increment of 5, increase the number of dice healed by 1, and increase the number of uses per day by 1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Life sphere (Clarified Strike [strike], Deeper Healing); **Cost** 1,801 gp
 
 ### Inspiring Crest [TS]
 
-**Aura**faint Mind;**CL** 2nd
-**Slot**any;**Price**1,600 gp;**Weight** -
+**Aura** faint Mind; **CL** 2nd
+**Slot** any; **Price** 1,600 gp; **Weight** -
 
 Inspiring crests are enchanted works of art often affixed to the insides of shields, the bottoms of gauntlets, or other areas where they can be quickly glanced at during battle. Once per day, as an immediate action, you can look at the inspiring crest to gain a +2 competence bonus to a skill check or an attack roll you have already made. This can change the result, but must be done after rolling and before the result is revealed.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase the number of uses per day by 1. At +1, the bonus becomes +2d4. At +3, the bonus becomes +2d4 +1 per 2 caster levels.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase the number of uses per day by 1. At +1, the bonus becomes +2d4. At +3, the bonus becomes +2d4 +1 per 2 caster levels. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Mind sphere (Inspiration (charm), Powerful Charm); **Cost** 800 gp
 
 ### Invisible Edge [TS]
 
-**Aura**faint Light;**CL** 4th
-**Slot**hands;**Price**6,400 gp;**Weight** 3 lbs.
+**Aura** faint Light; **CL** 4th
+**Slot** hands; **Price** 6,400 gp; **Weight** 3 lbs.
 
 Once per day, as a standard action, a creature can activate an invisible edge to gain an aura of non-visible light for one minute per caster level of this item. This effect functions in magical darkness and does not interact with or hinder the functions of magical darkness. While a creature possesses this aura, they deal damage and gain reach as if they were one size category larger. This effect stacks with any actual size changes, such as using the Alteration sphere to grow larger, but does not stack with any other effective size changes.
 
-**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4 and increase its uses per day by 1. At +2 and +4, creatures using this item act as if they were an additional size category larger.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4 and increase its uses per day by 1. At +2 and +4, creatures using this item act as if they were an additional size category larger. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Light sphere (Black Light, Encompassing Light (light)); **Cost** 3,200 gp
 
 ### Last Musicbox
 
-**Aura**moderate Fate;**CL** 10th
-**Slot**none;**Price**20,000 gp;**Weight** 2 lbs.
+**Aura** moderate Fate; **CL** 10th
+**Slot** none; **Price** 20,000 gp; **Weight** 2 lbs.
 
 **Description**
 This small mechanical box plays a haunting melody when opened, and is decorated with images of angels and demons locked in combat. Whenever a creature within 50 feet of the music box hears the melody for at least one uninterrupted minute, one of the following happens:
@@ -816,17 +816,17 @@ Craft Marvelous Item, Fate sphere; **Cost** 10,000 gp
 
 ### Left-Handed Gauntlet [Youxia HB]
 
-**Aura**faint transmutation;**CL** 15th
-**Slot**hands;**Price**5,000 gp;**Weight** 3 lbs.
+**Aura** faint transmutation; **CL** 15th
+**Slot** hands; **Price** 5,000 gp; **Weight** 3 lbs.
 
 **Description**
 This plain looking silver gauntlet is attuned to the first creature to wear it, bonding with them permanently until destroyed. When it is first donned, the creature gains temporary hit points equal to half of their total hit points (if their total hit points increase while wearing it, they gain additional temporary hit points); these hit points are restored at the rate of 1 per hour as long as the wearer has at least 1 temporary hit point from this item. In addition, the wearer takes a penalty on attack and damage rolls equal to 1/2 their base attack bonus (minimum 1, and if the wearer’s base attack bonus increases while wearing this gauntlet, they can choose to increase this penalty); this penalty is only active during combat after rolling initiative. While wearing this gauntlet, the wearer is unable to use any spells or spell-like abilities. Once all temporary hit points are lost, this item breaks, granting the wearer DR X/- for 10 minutes, with X being equal to the penalty they took on attack and damage rolls.
 **Construction Requirements**
-**Feats**Craft Marvelous Item, Life sphere, Nature sphere (Nature’s Carapace (spirit)),**Cost** 2,500 gp
+**Feats** Craft Marvelous Item, Life sphere, Nature sphere (Nature’s Carapace (spirit)), **Cost** 2,500 gp
 
 ### Lenses of Focused Insight [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint divination (Divination) — **CL** 5th
 **Slot** eyes; **Price** 6,000 gp; **Weight** —
@@ -841,8 +841,8 @@ The range of Divination *sense* abilities (whose ranges are measured in feet) af
 
 ### Ley Line Taprod [RW HB]
 
-**Aura**faint Mana;**CL** 3rd
-**Slot**none;**Price**1,500 gp (normal), 4,000 gp (greater);**Weight** 1 lb.
+**Aura** faint Mana; **CL** 3rd
+**Slot** none; **Price** 1,500 gp (normal), 4,000 gp (greater); **Weight** 1 lb.
 
 A ley line taprod is a device similar to a dowsing rod inlaid with quartz which is used as an aide when attuning to a ley line. A ley line taprod grants a +5 competence bonus on Spellcraft checks made to attune to a ley line.
 
@@ -853,8 +853,8 @@ Craft Marvelous Item, Mana sphere; **Cost** 750 gp (normal), 2,000 (greater)
 
 ### Leylantern [RW HB]
 
-**Aura**faint Light and Mana;**CL** 5th
-**Slot**none;**Price**3,500 gp (normal), 4,000 gp (attendant);**Weight** 3 lbs.
+**Aura** faint Light and Mana; **CL** 5th
+**Slot** none; **Price** 3,500 gp (normal), 4,000 gp (attendant); **Weight** 3 lbs.
 
 This well-crafted lantern is made of wrought iron or other metal with simple glass panes with a single chunk of quartz in the middle where a candle or fuel source would sit. The leylantern functions as a hooded lantern and does not require oil or fuel to function, instead being lit or snuffed with a command word, causing the quartz chunk to shed light.
 
@@ -869,7 +869,7 @@ Craft Marvelous Item, Light sphere, Mana sphere; **Cost** 1,750 gp (normal), 2,0
 
 ### Lifebinder Chalice [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate conjuration (Life) — **CL** 8th
 **Slot** slotless; **Price** 8,500 gp; **Weight** 1 lb.
@@ -886,8 +886,8 @@ While held in hand, whenever the user receives healing in excess of their maximu
 
 ### Light of Iris
 
-**Aura**moderate Light and Fate;**CL** 8th
-**Slot**hand;**Price**32,000 gp;**Weight** 0.5 lbs.
+**Aura** moderate Light and Fate; **CL** 8th
+**Slot** hand; **Price** 32,000 gp; **Weight** 0.5 lbs.
 
 **Description**
 The light of iris is a silver eye that is worn like a glove so that the eye is over the person’s palm. When different creatures are within 100 feet of the one wearing the light of iris, the eye glows dimly in a variety of colors. If multiple creatures are within range, it will alternate its glow every second between the different types that are within range. If the wearer chooses he may consciously exclude a creature he can see from those the light of iris detects (such as his party members). Excluding or re-including a creature in this manner is a standard action.
@@ -909,31 +909,31 @@ Craft Wondrous Item, Light sphere (Style), Fate sphere (Bless); **Cost** 16,000 
 
 ### Lucky Charm [TS]
 
-**Aura**faint Divination;**CL** 2nd
-**Slot**any;**Price**1,600 gp;**Weight** 0.5 lbs.
+**Aura** faint Divination; **CL** 2nd
+**Slot** any; **Price** 1,600 gp; **Weight** 0.5 lbs.
 
 Instilled with a suspiciously high amount of luck, these charms are often made with simple materials and prayed over by people who care for the individual it is being made for. Once per day, as a free action that can be taken even when it is not your turn, you may add 1d4 to one attack roll, skill check, saving throw, ability check (including Initiative rolls), or combat maneuver roll you are about to make. As an immediate action, you may instead grant this effect to an ally who can see and hear you. You may only use this effect once per roll and must do so before rolling the dice.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, add a +1 bonus to the result of the roll, and increase the number of daily uses by 1. Also, once per day for each flask shard used on this item, the user can meditate for one minute with this item to regain all daily uses of its effect. (This means a +1 lucky charm has a real maximum of 4 uses/day, a +2 has a real maximum of 9 uses/day, etc.)**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, add a +1 bonus to the result of the roll, and increase the number of daily uses by 1. Also, once per day for each flask shard used on this item, the user can meditate for one minute with this item to regain all daily uses of its effect. (This means a +1 lucky charm has a real maximum of 4 uses/day, a +2 has a real maximum of 9 uses/day, etc.) **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Divination sphere (Divine Future); **Cost** 800 gp
 
 ### Magic-Shielding Tattoo [TS]
 
-**Aura**faint Enhancement;**CL** 4th
-**Slot**any;**Price**6,400 gp;**Weight** 0.5 lbs.
+**Aura** faint Enhancement; **CL** 4th
+**Slot** any; **Price** 6,400 gp; **Weight** 0.5 lbs.
 
 This tattoo comes stored in a vial and can be poured onto a creature’s body, whereupon it covers their skin to reveal its intended form. This tattoo covers one magic item slot and only functions as long as a creature is not wearing any other items in that slot. Once a day, as a standard action, a creature can activate a magic-shielding tattoo to create a layer of magical energy that protects them from counterspelling and dispel attempts, as the Magic Sink (enhance) talent of the Enhancement sphere. Treat this magic sink as having an effective MSD to pass of 11 + this item’s caster level. This barrier lasts for 1 minute per caster level.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 4. At +1 and +3, this item can be activated an additional time per day. At +2, this item can be activated as an immediate action in response to an enemy’s counterspell or dispel attempt, but this reduces its duration to 1 round.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 4. At +1 and +3, this item can be activated an additional time per day. At +2, this item can be activated as an immediate action in response to an enemy’s counterspell or dispel attempt, but this reduces its duration to 1 round. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere (Magic Sink (enhance)); **Cost** 3,200 gp
 
 ### Manaleech Choker [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong universal (Mana) — **CL** 15th
 **Slot** neck; **Price** 24,000 gp; **Weight** 1 lbs.
@@ -950,8 +950,8 @@ The *manaleech choker* may only attempt to steal magic if the struck creature sp
 
 ### Matrix of Order [WM]
 
-**Aura**faint protection;**CL** 6th;
-**Slot**neck;**Price**8,000 gp**Weight** 1 lb.
+**Aura** faint protection; **CL** 6th;
+**Slot** neck; **Price** 8,000 gp **Weight** 1 lb.
 
 **Description**
 This necklace appears to hold a modestly sized crystal, but closer inspection reveals the crystal to be an impossible complex lattice of smaller crystal filaments designed to trap and hold the excess energy of a wild magic event. Once per day, when the wearer of a matrix of order triggers a wild magic event (but not a major event), as a free action that may be taken even when it is not his turn, he may choose to negate the event. This decision must be made before the roll is made on the wild magic table. Once used, the matrix sheds light as a torch for 1 hour, then as a candle for 6 hours as it bleeds away the trapped magical energies. A matrix of order must be worn for 24 hours to be attuned.
@@ -961,7 +961,7 @@ Craft Marvelous Item, Protection sphere; **Cost** 4,000 gp
 
 ### Metalheart Bracers [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint transmutation (Enhancement) — **CL** 3rd
 **Slot** wrists; **Price** 1,200 gp; **Weight** 0.5 lbs.
@@ -978,19 +978,19 @@ Any weapon wielded by the wearer is treated as a masterwork weapon (if not alrea
 
 ### Mind-Shielding Ring [TS]
 
-**Aura**faint Mind;**CL** 2nd
-**Slot**ring;**Price**1,800 gp;**Weight** 0.5 lbs.
+**Aura** faint Mind; **CL** 2nd
+**Slot** ring; **Price** 1,800 gp; **Weight** 0.5 lbs.
 
 These rings are often worn by those expecting to go into mentally difficult situations. Once per day, you can activate this ring as a standard action to gain a morale bonus to saving throws made against mind-affecting effects equal to 1 + 1/2 this item’s caster level. This bonus lasts for up to this item’s caster level in rounds, but ends as soon as you attempt a saving throw against such an effect, regardless of the success.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, which increases its bonus and duration, and increase the uses per day by 1. At +1, this item instead grants a morale bonus equal to its caster level for all Will saves against mind-affecting effects, but the bonus is halved (rounding down) with each Will save made. At +2, this item can be activated as an immediate action, but doing so reduces its duration to 1 round. You can still activate it as a standard action to get its normal duration. At +3, this item instead grants immunity to mind-affecting effects that allow Will saves for its duration (and is no longer halved in duration with each save); this can be bypassed by attempting a magic skill check against 11 + your character level, as well as through some other special abilities. If the immunity is bypassed, you instead gain a bonus to your Will save equaling this item’s caster level against that effect.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, which increases its bonus and duration, and increase the uses per day by 1. At +1, this item instead grants a morale bonus equal to its caster level for all Will saves against mind-affecting effects, but the bonus is halved (rounding down) with each Will save made. At +2, this item can be activated as an immediate action, but doing so reduces its duration to 1 round. You can still activate it as a standard action to get its normal duration. At +3, this item instead grants immunity to mind-affecting effects that allow Will saves for its duration (and is no longer halved in duration with each save); this can be bypassed by attempting a magic skill check against 11 + your character level, as well as through some other special abilities. If the immunity is bypassed, you instead gain a bonus to your Will save equaling this item’s caster level against that effect. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Mind sphere (Mind Shield (charm), Powerful Charm); **Cost** 800 gp
 
 ### Mirrormagic Coat [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong illusion (Illusion) — **CL** 12th
 **Slot** body; **Price** 15,000 gp; **Weight** 4 lbs.
@@ -1009,8 +1009,8 @@ In addition, the wearer gains a +3 bonus on Bluff and Sleight of Hand checks.
 
 ### Necklace of the Healed Soul
 
-**Aura**faint Fate and Life;**CL**3rd;**Scaling** prize
-**Slot**neck;**Price**400 gp;**Weight** 1/2 lbs.
+**Aura** faint Fate and Life; **CL** 3rd; **Scaling** prize
+**Slot** neck; **Price** 400 gp; **Weight** 1/2 lbs.
 
 **Description**
 This necklace, is a thin platinum chain interwoven with small diamonds with a single charge that refreshes each day. The wearer as a standard action, may use the restore Life sphere ability by spending a single charge. When using sphere talents or abilities from the necklace they are considered to have CL 1st.
@@ -1031,8 +1031,8 @@ Craft Marvelous Item, Craft Apparatus, Life sphere (Break Enchantment, Restore H
 
 ### Necrotic Marionette
 
-**Aura**strong Death;**CL** varies
-**Slot**none;**Price**varies;**Weight** 100 lbs.
+**Aura** strong Death; **CL** varies
+**Slot** none; **Price** varies; **Weight** 100 lbs.
 
 **Description**
 A creation of necromancers unwilling or unable to secure bodies for reanimation, a necrotic marionette is a puppet that functions as a corpse for the purposes of any Death talent - it can be reanimated, absorbed by Tomb Of Flesh, detonated by Corpse Bomb, repaired by Corpse Manipulation, and so on. Necrotic marionettes count as twice their Hit Dice against the total amount you may have reanimated at once.
@@ -1071,8 +1071,8 @@ Craft Marvelous Item, Death sphere, creator must have a CL equal to or greater t
 
 ### Obdurate Douter
 
-**Aura**moderate Dark;**CL** 7th
-**Slot**none;**Price**5,000 gp;**Weight** 2 lbs.
+**Aura** moderate Dark; **CL** 7th
+**Slot** none; **Price** 5,000 gp; **Weight** 2 lbs.
 
 **Description**
 The soot-stained bell of this ornate silver candle snuffer seems immune to cleaning, but closer examination reveals that the metal has somehow been contaminated with darkness. As a standard action, an obdurate douter can be used to snuff out any source of non-magical light or fire within 40 feet as per the Extinguish talent. For diffuse light sources and conflagrations, it can extinguish up to one 5-foot square per turn. Magical fires with a duration longer than instantaneous can be extinguished with a successful magical skill check with a +7 modifier. If the obdurate douter is plunged directly into the magical flame the magical skill check is made with a +10 modifier, but the wielder takes damage from the magical fire should the attempt fail.
@@ -1082,8 +1082,8 @@ Craft Marvelous Item, Dark sphere (Extinguish); **Cost** 2,500 gp
 
 ### Obsidian Key
 
-**Aura**weak Dark;**CL** 5th
-**Slot**neck;**Price**3,000 gp;**Weight** -
+**Aura** weak Dark; **CL** 5th
+**Slot** neck; **Price** 3,000 gp; **Weight** -
 
 **Description**
 This faceted key is carved from volcanic glass and hangs around the wearer’s neck on thread of spider silk. Each obsidian key must be attuned to a particular Dark sphere user in a ritual using a small sample of the caster’s blood, hair, or similar token piece of her body. Once attuned, a creature donning the obsidian key is treated as having the Clearsight and Darkvision melds with respect to the attuned Dark sphere user’s areas of darkness or blot. As a swift action, the wearer may immediately dispel all ongoing darkness, blot, or shadow effects within medium range that were created by the attuned caster, at which time the obsidian key becomes non-magical.
@@ -1093,20 +1093,20 @@ Craft Marvelous Item, Dark sphere (Clearsight (meld)); **Cost** 1,500 gp
 
 ### Obstructing Shield [TS]
 
-**Aura**faint Protection;**CL** 2nd
-**Slot**any;**Price**1,600 gp,**Weight** 2 lbs.
+**Aura** faint Protection; **CL** 2nd
+**Slot** any; **Price** 1,600 gp, **Weight** 2 lbs.
 
 Obstructing shields are small medallions shaped to look like the insignia of particular organizations, though they are occasionally crafted in other forms. Once per day, as a standard action, you can activate the obstructing shield to gain an aegis that grants DR /- equal to half the caster level of this item for one minute per caster level. This aegis ends when it has absorbed damage equal to 10x this item’s caster level or the duration expires, whichever comes first.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, and increase the number of uses per day by 1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, and increase the number of uses per day by 1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Protection sphere (Obstruction (aegis)); **Cost** 800 gp
 
 ### Origami Charm
 
-**Aura**faint Enhancement;**CL** 1st
-**Slot**none;**Price**75 gp;**Weight** -
+**Aura** faint Enhancement; **CL** 1st
+**Slot** none; **Price** 75 gp; **Weight** -
 
 **Description**
 A sheet of parchment of assorted colors that requires a Craft (art) check DC 15 to use as a full-round action. If successful, the crafted origami becomes an awakened Diminutive animated object for 1 hour, utilizing the stat-block provided below. If the Craft check was unsuccessful or the animated object is destroyed before the duration expires, the wondrous item is consumed and drained of all magical power becoming nothing more than a pile of paper confetti. If the duration expires before the animated object is destroyed, the origami reverts back to a sheet of parchment and may be used again.
@@ -1120,23 +1120,23 @@ Craft Marvelous Item, Enhancement sphere; **Cost** 37.5 gp
 
 XP 50
 N Diminutive construct
-**Init**+3,**Senses**darkvision 60 ft., low-light vision;**Perception** +0
+**Init** +3, **Senses** darkvision 60 ft., low-light vision; **Perception** +0
 
 **Defense**
-**AC**19,**touch**17,**flat-footed** 12 (+3 Dex, +2 natural, +4 size)
+**AC** 19, **touch** 17, **flat-footed** 12 (+3 Dex, +2 natural, +4 size)
 **hp** 2 (1d10)
-**Fort**+0,**Ref**+3,**Will** +0
+**Fort** +0, **Ref** +3, **Will** +0
 **Defensive Abilities** hardness 0, Immune construct traits
 **Weakness** fire vulnerability
 
 **Offense**
 **Speed** 10 ft.
 **Melee** slam (1d1-3)
-**Space**1 ft.,**Reach** 0 ft
+**Space** 1 ft., **Reach** 0 ft
 
 **Statistics**
-**Str**4,**Dex**16,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+1,**CMB**-6,**CMD** 7
+**Str** 4, **Dex** 16, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +1, **CMB** -6, **CMD** 7
 **Languages** Common
 **SQ** 3 construction points (+2 from flaws)
 
@@ -1151,7 +1151,7 @@ If the origami charm is a familiar, it may change out its construction points by
 
 ### Pact Talisman [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint conjuration (Conjuration) — **CL** 5th
 **Slot** neck; **Price** 7,000 gp (+1), 11,000 gp (+2), 21,000 gp (+3); **Weight** —
@@ -1172,24 +1172,24 @@ The *pact talisman* continues to glow while the summon effect persists, and may 
 
 ### Performer’s Edge [TS]
 
-**Aura**faint Enhancement;**CL** 2nd
-**Slot**none;**Price**1,600 gp;**Weight** 3 lbs.
+**Aura** faint Enhancement; **CL** 2nd
+**Slot** none; **Price** 1,600 gp; **Weight** 3 lbs.
 
 This bottle contains a faintly shimmering lime-green liquid that occasionally switches to another bright color for a moment. When consumed as a standard action, this liquid grants a +5 enhancement bonus to 1 skill of the drinker’s choice for one round per caster level. The bottle refills itself once each day, usually sometime late in the afternoon. Rumors exist of greater versions of this item that last for minutes per caster level, as well as a superior bottle with a permanent extend spell effect applied on top of that.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 4, increase its uses per day by 1, and increase the enhancement bonus it provides by +1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 4, increase its uses per day by 1, and increase the enhancement bonus it provides by +1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere (Enhance Focus (enhance)); **Cost** 800 gp
 
 ### Pixie Partner [TS]
 
-**Aura**faint Conjuration;**CL** 5th
-**Slot**none;**Price**10,000 gp;**Weight** 1 lb.
+**Aura** faint Conjuration; **CL** 5th
+**Slot** none; **Price** 10,000 gp; **Weight** 1 lb.
 
 The pixie partner is a small golden leaf pin. Once per day, it can summon a 5th-level biped companion with the following statistics; this pixie companion remains for one round per caster level of this item and follows any commands given to it. Though mischievous by nature and likely to creatively interpret orders in a way that can provide amusement, pixie companions appreciate being given gifts of sweets or baubles and are generally nicer when summoned by mortals that care for them. If injured, pixie companions are restored to full hit points after seven straight days of not being summoned.
 
-**Flask Shard Effect:** The pixie gains an additional (form) talent, chosen by the creature upgrading this item. At +1, the summoned pixie can remain for up to one hour per caster level. At +3, it can remain indefinitely, and can be summoned and dismissed at-will.**Flask Shard Limit:** +4
+**Flask Shard Effect:** The pixie gains an additional (form) talent, chosen by the creature upgrading this item. At +1, the summoned pixie can remain for up to one hour per caster level. At +3, it can remain indefinitely, and can be summoned and dismissed at-will. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Conjuration sphere (Altered Size (form), Avian Creature (form), Fey Companion (type), Sage Companion (form)); **Cost** 5,000 gp
@@ -1198,22 +1198,22 @@ Craft Marvelous Item, Conjuration sphere (Altered Size (form), Avian Creature (f
 
 Bipedal companion
 N Tiny outsider
-**Init**+3;**Senses** Perception +4
+**Init** +3; **Senses** Perception +4
 
 **Defense**
-**AC**19,**touch**15,**flat-footed** 16 (+3 Dex, +4 natural, +2 size)
+**AC** 19, **touch** 15, **flat-footed** 16 (+3 Dex, +4 natural, +2 size)
 **hp** 28 (4d10+4)
-**Fort**+5,**Ref**+4,**Will** +4
+**Fort** +5, **Ref** +4, **Will** +4
 **Defensive Abilities** DR 2/cold iron, evasion, +1 to saves vs. charm and sleep effects
 
 **Offense**
 **Speed** 30 ft., fly 50 ft. (average)
 **Melee** 2 slams +6 (1d2)
-**Space**20 ft.;**Reach** 0 ft.
+**Space** 20 ft.; **Reach** 0 ft.
 
 **Statistics**
-**Str**10,**Dex**16,**Con**13,**Int**12,**Wis**10,**Cha** 11
-**Base Atk**+4;**CMB**+5;**CMD** 15
+**Str** 10, **Dex** 16, **Con** 13, **Int** 12, **Wis** 10, **Cha** 11
+**Base Atk** +4; **CMB** +5; **CMD** 15
 **Feats** Go UnnoticedAPG, Stealthy
 **Skills** Escape Artist +5, Fly +13, Perception +4, Stealth +20
 **SQ** altered size x2, avian creature, fey companion, skillful companion
@@ -1227,20 +1227,20 @@ N Tiny outsider
 
 ### Portable Shell [TS]
 
-**Aura**faint Protection;**CL** 3rd
-**Slot**any;**Price**3,600 gp;**Weight** 2 lbs.
+**Aura** faint Protection; **CL** 3rd
+**Slot** any; **Price** 3,600 gp; **Weight** 2 lbs.
 
 This charm comes in many forms, though creators often use symbols of turtle shells or shields when making them to give a clue to their function. Once per day, a portable shell can create an immobile ward with a 10-foot radius that reduces the damage of all projectiles that pass through its edge by 7 points. (This includes projectile weapons, thrown rocks, projectile-like rays such as Stone Blasts, falling debris, and anything the GM decides is sufficiently similar to these examples.) This dome lasts for 1 minute per caster level (normally 3 minutes).
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, which increases the amount of damage reduced to 5 + caster level and increases the amount of time the ward remains. At +2 and +4, portable shells can be used an additional time each day.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, which increases the amount of damage reduced to 5 + caster level and increases the amount of time the ward remains. At +2 and +4, portable shells can be used an additional time each day. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Protection sphere (Enduring Protection, Missile Shield (ward)); **Cost** 1,800 gp
 
 ### Power Charm of the Elementalist
 
-**Aura**faint Destruction;**CL** 5th
-**Slot**none;**Price**2,000 gp;**Weight** —
+**Aura** faint Destruction; **CL** 5th
+**Slot** none; **Price** 2,000 gp; **Weight** —
 
 **Description**
 The wearer treats his elementalist level as 4 higher for the purposes of determining the bonus damage from the favored element class feature. This bonus does not grant early access to increased multipliers.
@@ -1251,8 +1251,8 @@ For information on power charms, see Steelforge by Dreamscarred Press.
 
 ### Purrsian Carpet [Catgirl HB]
 
-**Aura**moderate Enhancement;**CL** 8th
-**Slot**none;**Price**34,000 gp;**Weight** 20 lbs.
+**Aura** moderate Enhancement; **CL** 8th
+**Slot** none; **Price** 34,000 gp; **Weight** 20 lbs.
 
 **Description**
 Originally developed as a means for the rich to traverse long distances in comfort, due to their unnatural behaviour such carpets ended up becoming more like pets and protectors to said people than just vehicles. It is not rare to see a wealthy lord or lady keeping a pair of these beside them to offer company and protection in lieu of guards. After all, they’re friendly to their owner and ferocious to said person’s enemies.
@@ -1272,22 +1272,22 @@ Craft Marvelous Item, Enhancement sphere (Animate Object, Alter Movement); **Cos
 
 XP 1,600
 N Large construct
-**Init**-1;**Senses** darkvision 60; Perception -5
+**Init** -1; **Senses** darkvision 60; Perception -5
 
 **Defense**
-**AC**14,**touch**8,**flat-footed** 14 (-1 Dex, +6 natural, -1 size)
+**AC** 14, **touch** 8, **flat-footed** 14 (-1 Dex, +6 natural, -1 size)
 **hp** 67 (4d10+15+30 size)
-**Fort**+1,**Ref**+0,**Will** -4
-**Defensive Abilities**hardness 5;**Immune** construct traits
+**Fort** +1, **Ref** +0, **Will** -4
+**Defensive Abilities** hardness 5; **Immune** construct traits
 
 **Offense**
 **Speed** 40 ft., fly 50 ft. (good)
 **Melee** slam +9 (1d6+9)
 
 **Statistics**
-**Str**22,**Dex**8,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+4**CMB**+11**CMD** 20 (24 vs. trip)
-**Skills**+9 Fly;**Racial Modifiers** +10 Fly
+**Str** 22, **Dex** 8, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +4 **CMB** +11 **CMD** 20 (24 vs. trip)
+**Skills** +9 Fly; **Racial Modifiers** +10 Fly
 **SQ** 3 construction points (additional movement [fly], durable, faster [land]), show you the world
 
 **Special Abilities**
@@ -1295,8 +1295,8 @@ N Large construct
 
 ### Quickdraw Scabbard [TS]
 
-**Aura**faint Time;**CL** 3rd
-**Slot**none;**Price**3,600 gp;**Weight** 3 lbs.
+**Aura** faint Time; **CL** 3rd
+**Slot** none; **Price** 3,600 gp; **Weight** 3 lbs.
 
 This scabbard automatically reshapes itself to fit any weapon that the wearer attempts to fit into it. Twice per day, as a free action, the wearer can press a button to accelerate the weapon out of the sheath and draw the weapon as part of making an attack with it. This can be used with splash weapons, but not with non-weapons like potions and spell engines.
 
@@ -1305,10 +1305,10 @@ Craft Marvelous Item, Time sphere, Quick Draw feat or Equipment (Fast Draw) tale
 
 ### Researcher’s Robes [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Divination —**CL** 10th
-**Slot**body —**Price**8,000 gp —**Weight** 12 lbs.
+**Aura** moderate Divination — **CL** 10th
+**Slot** body — **Price** 8,000 gp — **Weight** 12 lbs.
 
 **Description**
 *These thin robes appear to be made of parchment; the appearance of which appears to differ depending on who wears it: vicious scrawls and a torn appearance could reflect an evil or less scrupulous individual, whereas organized notes with the occasional coffee stains could reflect a more organized, structured one.*
@@ -1325,8 +1325,8 @@ Craft Marvelous Item, Divination sphere, creator must have at least 5 ranks in L
 ### Ring of Vitaelity [Jester's HB]
 
 This bloodstained ring pulses with life when those around it bleed.
-**Aura**moderate Life;**CL** 8th
-**Slot**ring;**Price**17,000 gp;**Weight** 0.1 lbs.
+**Aura** moderate Life; **CL** 8th
+**Slot** ring; **Price** 17,000 gp; **Weight** 0.1 lbs.
 
 This worn, steel ring is coated in a heavy patina. The wearer of this ring reduces any bleed damage taken by 3.
 
@@ -1337,8 +1337,8 @@ Craft Marvelous Item, Life sphere (any (vitality) talent); **Cost** 8,500 gp
 
 ### Robes of Gentle Snowfall [BaP]
 
-**Aura**moderate Nature;**CL** 10th
-**Slot**body;**Price**14,000 gp;**Weight** 2 lbs.
+**Aura** moderate Nature; **CL** 10th
+**Slot** body; **Price** 14,000 gp; **Weight** 2 lbs.
 
 **Description**
 These soft robes are inlaid with small, twinkling crystals that seem to shimmer and sway like falling snow on the fabric. If the wearer of these robes is an incanter with the frostweaver archetype (or otherwise possesses the frost motes class feature), wearing these robes increases the maximum number of frost motes the wearer may possess by 1 and the wearer treats their incanter level as 4 higher than normal when determining the effects of the wearer’s ice charms and any blessings of winter the wearer possess. This does not grant the wearer access to ice charms or blessings of winter earlier, it simply increases the effect of ice charms and blessings of winter that you have access to.
@@ -1352,8 +1352,8 @@ Craft Marvelous Item, Nature sphere (Create Nature); **Cost** 7,000 gp
 
 ### Runic Vambraces [Conq. HB]
 
-**Aura**moderate Destruction;**CL** 9th
-**Slot**wrists;**Price**16,000 gp;**Weight** 1 lb.
+**Aura** moderate Destruction; **CL** 9th
+**Slot** wrists; **Price** 16,000 gp; **Weight** 1 lb.
 
 **Description**
 This pair of arm guards are emblazoned with dozens of softly glowing runewords, with an attuned rune more prominently featured as the motifs of the vambrace’s embellishments, chosen from the runes available to the fighter runesinger archetype’s runes class ability. A pair of runic vambraces attuned to the smoke rune might have billowing clouds around the base, while attunement to the pain rune might show faces of anguish.
@@ -1367,10 +1367,10 @@ Craft Marvelous Item, Destruction sphere; **Cost** 8,000 gp
 
 ### Sandals of the Clay Dancer [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate nature —**CL** 6th
-**Slot**feet —**Price**6,000 gp —**Weight** 6 lbs.
+**Aura** moderate nature — **CL** 6th
+**Slot** feet — **Price** 6,000 gp — **Weight** 6 lbs.
 
 **Description**
 *These darkwood sandals have many terracotta plates woven into the bottom of them, causing a loud clack whenever the wearer moves.*
@@ -1387,7 +1387,7 @@ Craft Marvelous Item, Nature sphere — **Cost** 3,000 gp
 
 ### Sanguinis Coil [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong necromancy (Blood) — **CL** 13th
 **Slot** wrist; **Price** 19,000 gp; **Weight** —
@@ -1408,7 +1408,7 @@ The wearer may use this ability so long as they are capable of taking mental act
 
 ### Sash of Earthly Illumination [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate divination and evocation (Divination and Light) — **CL** 7th
 **Slot** chest; **Price** 13,000 gp; **Weight** 1 lb.
@@ -1425,8 +1425,8 @@ The wearer gains tremorsense with a range of 20 feet.
 
 ### Shadow-Dipping Gloves
 
-**Aura**weak Dark;**CL** 5th
-**Slot**hands;**Price** 5,000 gp
+**Aura** weak Dark; **CL** 5th
+**Slot** hands; **Price** 5,000 gp
 
 **Description**
 These skin-tight kid gloves look more like a coating of liquid pitch than a typical article of clothing. Donning a pair of shadow-dipping gloves allows the wearer to attempt Sleight of Hand checks and Steal combat maneuvers in order to take items stored in another person’s shadow stash or to surreptitiously deposit items into it. The gloves grant the wearer the ability to use her own shadow as a shadow stash with a caster level of 5th, even if she does not have access to the Dark sphere and Shadow Stash talent. If she has the Shadow Stash talent, she is treated as if she has taken it a second time. If she has taken the Shadow Stash talent twice, shadow-dipping gloves provide no benefit.
@@ -1436,7 +1436,7 @@ Craft Marvelous Item, Dark sphere (Shadow Stash); **Cost** 2,500 gp
 
 ### Shadowcatcher Bangles [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint evocation (Dark) — **CL** 4th
 **Slot** wrist; **Price** 1,500 gp; **Weight** —
@@ -1453,19 +1453,19 @@ For example, upon exiting a Polished Dark *gloom*, the wearer would be treated a
 
 ### Sharpening Stone [TS]
 
-**Aura**faint Enhancement;**CL** 1st
-**Slot**none;**Price**400 gp;**Weight** 1 lb.
+**Aura** faint Enhancement; **CL** 1st
+**Slot** none; **Price** 400 gp; **Weight** 1 lb.
 
 This grey stone is supernaturally effective at honing power of various weapons - including, oddly, blunt weapons like hammers that do not have an edge to sharpen. Once per day, as a standard action, a creature can use a sharpening stone to give a weapon a +1 enhancement bonus for one round per caster level. This overlaps (and does not stack with) any existing enhancement bonus on an item. Calculate the duration of this effect starting from the end of the user’s turn (so the enhancement, at the base level, wears off at the end of the character’s next round, ensuring at least one round of use).
 
-**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4, increase its uses per day by 1, and increase the enhancement bonus by +1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4, increase its uses per day by 1, and increase the enhancement bonus by +1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere; **Cost** 200 gp
 
 ### Shine Lenses [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate evocation (Light) — **CL** 11th
 **Slot** eyes; **Price** 12,000 gp; **Weight** —
@@ -1482,8 +1482,8 @@ The wearer gains a +4 competence bonus on Perception checks. This bonus increase
 
 ### Skeletal Palanquin [Gravecaller's HB]
 
-**Aura**faint Death;**CL** 7th
-**Slot**none;**Price**8,000 gp (normal), 11,000 gp (greater);**Weight** 40 lb.
+**Aura** faint Death; **CL** 7th
+**Slot** none; **Price** 8,000 gp (normal), 11,000 gp (greater); **Weight** 40 lb.
 
 **Description**
 This palanquin consists of a luxurious, almost throne-like chair with two ivory poles.
@@ -1501,28 +1501,28 @@ Craft Marvelous Item, Enhancement (Animate Object), Death; **Cost** 4,000 gp (no
 
 XP 1,600
 N Large undead
-**Init**-1;**Senses**darkvision 60;**Perception** -5
+**Init** -1; **Senses** darkvision 60; **Perception** -5
 
 **Defense**
-**AC**16,**touch**8,**flat-footed** 16 (-1 Dex, +8 natural, -1 size)
+**AC** 16, **touch** 8, **flat-footed** 16 (-1 Dex, +8 natural, -1 size)
 **hp** 76 (4d10+54)
-**Fort**+7,**Ref**+0,**Will** -4
-**DR**10/bludgeoning;**Immune** undead traits
+**Fort** +7, **Ref** +0, **Will** -4
+**DR** 10/bludgeoning; **Immune** undead traits
 
 **Offense**
 **Speed** 50 ft.
 
 **Statistics**
-**Str**22,**Dex**8,**Con**-,**Int**-,**Wis**1,**Cha** 22
-**Base Atk**+4;**CMB**+11;**CMD** 20 (24 vs. trip)
+**Str** 22, **Dex** 8, **Con** -, **Int** -, **Wis** 1, **Cha** 22
+**Base Atk** +4; **CMB** +11; **CMD** 20 (24 vs. trip)
 **SQ** 2 construction flaws (noncombatant, undead), 3 construction points (faster x2, metal)
 
 ### Soulswell Gown [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Mind and Nature —**CL** 9th
-**Slot**body —**Price**8,000 gp —**Weight** 4 lbs.
+**Aura** moderate Mind and Nature — **CL** 9th
+**Slot** body — **Price** 8,000 gp — **Weight** 4 lbs.
 
 **Description**
 *This flowing, loose-fitting gown begins as a deep sea blue at its shoulders, and ends in a bright seafoam. The gown itself ebbs and flows as if they were slowly cresting waves.*
@@ -1536,32 +1536,32 @@ Craft Marvelous Item, Nature sphere ((water) package) — **Cost** 4,000 gp
 
 ### Space-Linking Gloves [TS]
 
-**Aura**faint Warp;**CL** 3rd
-**Slot**hands;**Price**3,600 gp;**Weight** 2 lbs.
+**Aura** faint Warp; **CL** 3rd
+**Slot** hands; **Price** 3,600 gp; **Weight** 2 lbs.
 
 These comfortable cloth gloves are dyed dark blue and have threads of gold woven throughout, creating elaborate symbols and patterns on the underside. Once per day, as a standard action, you can touch a 5-foot square and link it to another 5-foot square in close range (25 feet + 5 feet per caster level) that you have both line of sight and line of effect to. Anyone may choose to use 5 feet of their movement to travel in a straight line between two linked squares as if they were adjacent (though they are not treated as adjacent for any other purpose). This linked space lasts for 1 round per caster level, although you may use a free action on your turn to end it early. The link between squares is clearly visible from both sides and a DC 5 Knowledge (arcana) check reveals its nature to any observer.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5. At +2, this item can be used one additional time per day and can link squares in medium range (100 feet + 10 feet per caster level). At +4, this item can be used an additional time per day and can link squares in long range (400 feet + 40 feet per caster level).**Flask Shard Limit:** +4.
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5. At +2, this item can be used one additional time per day and can link squares in medium range (100 feet + 10 feet per caster level). At +4, this item can be used an additional time per day and can link squares in long range (400 feet + 40 feet per caster level). **Flask Shard Limit:** +4.
 
 **Construction Requirements**
 Craft Marvelous Item, Warp sphere (Ranged Warp [range], Wormhole (space)); **Cost** 1,800 gp
 
 ### Staunching Wraps [TS]
 
-**Aura**faint Enhancement;**CL** 2nd
-**Slot**chest;**Price**1,600 gp;**Weight** 2 lbs.
+**Aura** faint Enhancement; **CL** 2nd
+**Slot** chest; **Price** 1,600 gp; **Weight** 2 lbs.
 
 These linen wraps are covered in arcane marks. Once per day, as a standard action, a creature can activate the staunching wraps to gain a +2 untyped bonus to a saving throw of their choice. This bonus lasts for one round per caster level.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, increase uses per day by 1, and increase the bonus to saving throws by +1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, increase uses per day by 1, and increase the bonus to saving throws by +1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere (Staunch Resistance (enhance)); **Cost** 800 gp
 
 ### Stone Hemispheres
 
-**Aura**strong War;**CL** 15th
-**Slot**none;**Price**27,500 gp (per pair);**Weight** 0.5 lbs. each
+**Aura** strong War; **CL** 15th
+**Slot** none; **Price** 27,500 gp (per pair); **Weight** 0.5 lbs. each
 
 **Description**
 Each of these stones starts out as a smooth sphere engraved with geometric patterns that has been splintered into two pieces. When the stones are carried by two separate individuals, they benefit from a specific mandate, determined when the stone was created. There is no range limit on how far apart the stones can be and still function, provided both stones are still on the same plane of existence.
@@ -1571,8 +1571,8 @@ Craft Marvelous Item, War sphere, the mandate to be granted; **Cost** 13,750 gp 
 
 ### Striking Ribbon [TS]
 
-**Aura**faint Variable (see text);**CL** 3rd
-**Slot**special (see text);**Price**3,600 gp;**Weight** 0.2 lbs.
+**Aura** faint Variable (see text); **CL** 3rd
+**Slot** special (see text); **Price** 3,600 gp; **Weight** 0.2 lbs.
 
 Striking ribbons are long strips of cloth that can be tied around the end of a weapon. Each striking ribbon contains two talents: a strike talent and an associated talent from the same sphere that can be used with that strike talent.
 
@@ -1587,27 +1587,27 @@ Once per day, a creature wielding a weapon augmented by a striking ribbon can ac
 - **Time:** Age (time), Broken Time (time), Slow, Steal Time (time)
 - **Warp:** Blink (space) [Flask shards improve caster level to the next increment of 3 instead of 5, Limit +4]
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase the daily uses by 1. Some Striking ribbons upgrade at other rates, as determined by the talents they contain.**Flask Shard Limit:** +4.
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase the daily uses by 1. Some Striking ribbons upgrade at other rates, as determined by the talents they contain. **Flask Shard Limit:** +4.
 
 **Construction Requirements**
 Craft Marvelous Item, any sphere with a strike talent, one applicable talent from that sphere, the strike talent from that sphere; **Cost** 1,800 gp
 
 ### Tattoo of Potion Storing [TS]
 
-**Aura**faint Life;**CL** 3rd
-**Slot**any;**Price**3,600 gp;**Weight** -
+**Aura** faint Life; **CL** 3rd
+**Slot** any; **Price** 3,600 gp; **Weight** -
 
 These tattoos come in a variety of shapes and styles and are often customized by the user and their tattoo artist. As a standard action, the bearer can store one potion or alchemical formulae within the tattoo, which captures the power within and retains it indefinitely. At the GM’s discretion, this tattoo may also store similar effects. If storing a formulae, the formulae stored within the tattoo no longer counts against the user’s maximum number of formulae prepared at one time. If another potion or formulae is added when the tattoo of potion storing is already full, the old item’s effect is lost and the new one replaces it. As a swift action, the bearer can mentally activate the tattoo to consume the potion or formulae and gain its effects; the effects only apply to the bearer of the tattoo, even if they could normally be spread to other allies. After activating this tattoo, the user must rest for 8 hours before another potion or formulae can be added; the tattoo needs time to cleanse itself of lingering energies. A character may have up to two of these tattoos inked into their skin, which take up one magic item slot each but can be disabled (without losing any stored effects) by equipping another magic item in that slot. The tattoo appears bright and colorful while it contains a potion or formulae, but dull and faded when nothing is contained within.
 
-**Flask Shard Effect:** Increase the number times the tattoo can be activated each day by 1. (This does not allow storing more than one potion or formulae per tattoo, but does allow bearers to use it multiple times before it needs to recover.)**Flask Shard Limit:** +2
+**Flask Shard Effect:** Increase the number times the tattoo can be activated each day by 1. (This does not allow storing more than one potion or formulae per tattoo, but does allow bearers to use it multiple times before it needs to recover.) **Flask Shard Limit:** +2
 
 **Construction Requirements**
 Craft Marvelous Item, Life sphere (Fount Of Life, Self-Renewal); **Cost** 1,800 gp
 
 ### The Northern Star [BaP]
 
-**Aura**moderate Nature;**CL** 9th
-**Slot**none;**Price**10,500 gp;**Weight** -
+**Aura** moderate Nature; **CL** 9th
+**Slot** none; **Price** 10,500 gp; **Weight** -
 
 **Description**
 This ornately carved jewel, inlaid into an ornate, wearable brooch, is actually a piece of enchanted glacial ice which has a unique connection to the coldest oceans of the Plane of Water. This brooch may be used as a focus component for a Nature sphere (water) package geomancing effect, as though the caster possessed the Focus Casting casting tradition. If the bearer does, they may treat this amulet as a source of water for the Nature sphere (water) package (such as rain, mist, or at least 5 cubic feet of water).
@@ -1617,12 +1617,12 @@ Craft Marvelous Item, Nature sphere ((water) package, Create Nature); **Cost** 5
 
 ### Thunderbolt Ring [TS]
 
-**Aura**faint Destruction;**CL** 4th
-**Slot**ring;**Price**6,400 gp;**Weight** 0.5 lbs.
+**Aura** faint Destruction; **CL** 4th
+**Slot** ring; **Price** 6,400 gp; **Weight** 0.5 lbs.
 
 This ring is etched with a symbol of lightning that glows faintly during storms. Once per day, as a standard action, a user can call upon the ring and hurl an enormous spear of lightning, dealing 1d6 electricity damage per caster level of this item to all foes in a 5-foot wide medium-ranged line (100 feet + 10 feet per caster level). Targets within the line may attempt a Reflex save (DC 10 + 1/2 this item’s caster level) to halve the damage, but foes wearing metal armor or that are primarily composed of metal take a -3 penalty to their saving throw. The thunderbolt ring starts with 4d6 electricity damage and has a range of 140 feet with a DC 12 save.
 
-**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4 and increase its uses per day by 1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase this item’s caster level to the next increment of 4 and increase its uses per day by 1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Destruction sphere (Electric Blast (blast type), Sculpt Blast (blast shape)); **Cost** 3,200 gp
@@ -1633,22 +1633,22 @@ You can change the attack area of the thunderbolt ring to a growing radius or a 
 
 ### Timeshifting Gloves [TS]
 
-**Aura**faint Time;**CL** 4th
-**Slot**hands;**Price**6,400 gp;**Weight** 2 lbs.
+**Aura** faint Time; **CL** 4th
+**Slot** hands; **Price** 6,400 gp; **Weight** 2 lbs.
 
 These elegant gloves have strange, translucent crystals woven into them that rumors say are solidified fragments of time itself. Once per day, as a standard action, you can activate the time gloves to grant one creature in close range (25 feet + 5 feet per 2 caster levels) the ability to immediately take a standard, move, or swift action. These gloves only require a swift action to activate if you are using them on yourself, or a free action if you are gaining a swift action for yourself. You may only activate these gloves once per turn.
 
 **Errata:** A creature who gains an action from this item loses that action on their next turn. (For example, if you use the timeshifting gloves to gain a standard action, you lose your standard action on your next turn.)
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 4 and increase the number of times per day you can use it by 1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 4 and increase the number of times per day you can use it by 1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Time sphere (Ranged Time [range], Shift Time (time)); **Cost** 3,200 gp
 
 ### Token of Fey Affection
 
-**Aura**moderate Warp;**CL** 10th
-**Slot**neck;**Price**20,000 gp;**Weight** -
+**Aura** moderate Warp; **CL** 10th
+**Slot** neck; **Price** 20,000 gp; **Weight** -
 
 **Description**
 This small necklace contains a single, small gemstone, and is often given by Fey creatures to their mortal lovers or champions. Once per day, when the wearer of the token is reduced to 0 hit points or fewer (or, when the wearer simply desires it), they are instantly teleported to the creature who gave them the token, provided they are on the same plane of existence.
@@ -1660,20 +1660,20 @@ Craft Marvelous Item, Warp sphere (Teleport Beacon (space)); **Cost** 10,000 gp
 
 ### Troll Hunter’s Friend [TS]
 
-**Aura**faint Enhancement;**CL** 4th
-**Slot**none;**Price**6,400 gp;**Weight** 3 lbs.
+**Aura** faint Enhancement; **CL** 4th
+**Slot** none; **Price** 6,400 gp; **Weight** 3 lbs.
 
 This wand-shaped item is useful for hunting much more than trolls, but it is most popular among martially-oriented groups who need a way to stop the regeneration of their foes for long enough to kill them and the name stuck. Once per day, when activated as a standard action, a troll hunter’s friend can enhance multiple weapons in close range (25 feet + 5 feet per 2 caster levels), up to 1 weapon + 1 per 2 caster levels. Each of these weapons gains the corrosive, flaming, frost, or shock special ability (chosen when this item is used) and deals 1 extra point of damage of the chosen type per 2 caster levels for 1 round per caster level. All weapons receive the same enhancement, but this item cannot raise the effective total bonus of a weapon beyond +10. The troll hunter’s friend starts with a range of 35 feet, provides the enhancement and 2 additional points of damage, and lasts for 4 rounds.
 
-**Flask Shard Effect:** Increase the caster level to the next increment of 4, and increase the number of uses per day by 1. At +2, the troll hunter’s friend can instead apply the keen special ability and grant a +1 bonus to critical hit confirmation rolls for every 3 caster levels.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level to the next increment of 4, and increase the number of uses per day by 1. At +2, the troll hunter’s friend can instead apply the keen special ability and grant a +1 bonus to critical hit confirmation rolls for every 3 caster levels. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Enhancement sphere (Deadly Weapon (enhance), Energy Enhancement (enhance), Mass Enhancement [mass]); **Cost** 3,200 gp
 
 ### Twin Caskets
 
-**Aura**moderate Warp;**CL** 6th
-**Slot**none;**Price**6,000 (for a pair) gp;**Weight** 15 lbs. (each).
+**Aura** moderate Warp; **CL** 6th
+**Slot** none; **Price** 6,000 (for a pair) gp; **Weight** 15 lbs. (each).
 
 **Description**
 Made in pairs, these caskets are spatially linked. So long as a set of caskets are on the same plane, the contents of the caskets can be swapped by speaking a command word. Only inanimate objects can be transferred this way. Each casket can be used once per day.
@@ -1695,20 +1695,20 @@ Not many player characters, honestly. While there are a few scenarios where some
 
 ### Vampiric Maw [TS]
 
-**Aura**faint Death;**CL** 3rd
-**Slot**none;**Price**3,600 gp;**Weight** 2 lbs.
+**Aura** faint Death; **CL** 3rd
+**Slot** none; **Price** 3,600 gp; **Weight** 2 lbs.
 
 Vampiric maws come in many shapes, but are usually silver disks or rune-carved skulls. While unimpressive at first, their upgrades grant substantial power, making them much-prized by those who realize their hidden potential. Once per day, as a standard action, a creature can use a vampiric maw to make a ranged touch attack dealing 1d6 damage per two caster levels to one creature in close range (25 feet + 5 feet per 2 caster levels); this is a negative energy death effect and will not harm undead and similar creatures. A Fortitude save (DC 10 + 1/2 this item’s caster level) halves this damage. The vampiric maw’s user gains temporary hit points equal to the damage dealt for up to 1 minute per caster level. You cannot gain more hit points from the target than their current hit points + their Constitution score. The vampiric maw begins with a 30 feet range, deals 1d6 damage, and provides the hit points for up to 3 minutes.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, which increases the range, the save DC, how much damage you do, the maximum number of hit points you can acquire, and how long the hit points last, as described above. At +1, you may attack all creatures in a close-range cone when using the vampiric maw instead of a single target (make one ranged touch attack roll for all of them), and this item provides a maximum of 3 hit points per caster level (rather than being limited by the target’s health). This effect keeps the Fortitude save and does not grant a Reflex save to avoid it. At +3, this item can be used one additional time per day.**Flask Shard Limit:** +4.
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, which increases the range, the save DC, how much damage you do, the maximum number of hit points you can acquire, and how long the hit points last, as described above. At +1, you may attack all creatures in a close-range cone when using the vampiric maw instead of a single target (make one ranged touch attack roll for all of them), and this item provides a maximum of 3 hit points per caster level (rather than being limited by the target’s health). This effect keeps the Fortitude save and does not grant a Reflex save to avoid it. At +3, this item can be used one additional time per day. **Flask Shard Limit:** +4.
 
 **Construction Requirements**
 Craft Marvelous Item, Death sphere (Greater Ghost Strike, Vampiric Strike (ghost strike)); **Cost** 1,800 gp
 
 ### Vanishing Vest [TS]
 
-**Aura**moderate Time;**CL** 10th
-**Slot**chest;**Price**8,000 gp;**Weight** 2 lbs.
+**Aura** moderate Time; **CL** 10th
+**Slot** chest; **Price** 8,000 gp; **Weight** 2 lbs.
 
 Once per day, as a standard action, a creature wearing this threadbare vest can eject itself from time itself for 10 rounds. The creature disappears completely and cannot be the target of any damage or effect while it is vanished. When the effect ends, the creature returns to the exact spot it disappeared from (or the closest unoccupied square). From the target’s perspective no time has passed, and any effect already on the target with a duration (such as magic or poison) continues as if the time spent ejected simply had not happened. An ejected creature can attempt a new saving throw each round as a full-round action to end this effect early.
 
@@ -1717,8 +1717,8 @@ Craft Marvelous Item, Time sphere (Eject (time)); **Cost** 4,000 gp
 
 ### Wall Slat
 
-**Aura**faint Creation;**CL** 4th
-**Slot**none;**Price**320 gp;**Weight** 1 lb.
+**Aura** faint Creation; **CL** 4th
+**Slot** none; **Price** 320 gp; **Weight** 1 lb.
 
 **Description**
 This deceptively simple trinket was supposedly developed by a thieves guild, giving them a quick and easy means of securing an escape route. It consists of a thin, flat 7 inch long piece of black wood with glyphs covering the length of it and one short end a lighter shade than the rest. To activate it, the user snaps up the lighter end and places it on the ground (a move action). The following round the slat expands into a 10-foot-by-10-foot stone wall that is 2 inches thick, growing in the same directions that the slat is placed. This wall lasts for 4 minutes and is a single-use item. Stronger and longer-lasting versions of this item exist, but this is the most commonly found type.
@@ -1728,20 +1728,20 @@ Craft Marvelous Item, Creation sphere (Expanded Materials (material)); **Cost** 
 
 ### War Drum [TS]
 
-**Aura**faint War;**CL** 2nd
-**Slot**none;**Price**1,600 gp;**Weight** 3 lbs.
+**Aura** faint War; **CL** 2nd
+**Slot** none; **Price** 1,600 gp; **Weight** 3 lbs.
 
 War drums are small, highly portable drums often created by militaristic societies. Once per day, you can play a war drum as a standard action to activate the totem effect it contains. This creates a stationary effect with a radius of 50 feet + 5 feet per 2 caster levels that lasts for 1 round per caster level. Totems of War are the most common type of war drum (and only cost 800 gp to buy, or 400 gp to craft), providing a +2 circumstance bonus to all weapon damage rolls from you and your allies, but many other types of war drums exist.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, and increase its daily uses by 1. Some war drums level up at other rates due to the talents they contain. At +1, you may create the totem anywhere within close range (25 feet + 5 feet per 2 caster levels). At +3, you may activate this item as a move action.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5, and increase its daily uses by 1. Some war drums level up at other rates due to the talents they contain. At +1, you may create the totem anywhere within close range (25 feet + 5 feet per 2 caster levels). At +3, you may activate this item as a move action. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, War sphere (Call To Arms, Ranged Totem [range], the (totem) talent used for this item); **Cost** 800 gp
 
 ### Ward and Peace [TS]
 
-**Aura**moderate Fate and War;**CL** 7th
-**Slot**none;**Price**5,000 gp;**Weight** 4 lbs.
+**Aura** moderate Fate and War; **CL** 7th
+**Slot** none; **Price** 5,000 gp; **Weight** 4 lbs.
 
 When activated as a standard action, this wooden idol can project a totem in a circle up to 75 feet across for up to 7 minutes. Within this circle, any creature who willingly accepts its effects can only deal nonlethal damage (this applies to all powers and abilities they have, including spells). Creatures cannot be mind-controlled or otherwise artificially compelled to accept the effects of the ward and peace. A visible mark hovers above any creature who has accepted the effects of this item, clearly distinguishing them from all other creatures in the area, and another illusion hovers over the idol to clearly indicate how long it will be before the effect shuts off.
 
@@ -1750,8 +1750,8 @@ Craft Marvelous Item, Merciful Spell, Fate sphere (Mercy), War sphere; **Cost** 
 
 ### Ward and Peace, Improved [TS]
 
-**Aura**moderate Fate and War;**CL** 7th
-**Slot**none;**Price**10,000 gp;**Weight** 4 lbs.
+**Aura** moderate Fate and War; **CL** 7th
+**Slot** none; **Price** 10,000 gp; **Weight** 4 lbs.
 
 As ward and peace, but it creates a circular totem up to 300 feet across.
 
@@ -1760,19 +1760,19 @@ Craft Marvelous Item, Merciful Spell, Fate sphere (Mercy), War sphere; **Cost** 
 
 ### Warrior’s Blessing [TS]
 
-**Aura**faint Time;**CL** 3rd
-**Slot**any;**Price**2,400 gp;**Weight** 2 lbs.
+**Aura** faint Time; **CL** 3rd
+**Slot** any; **Price** 2,400 gp; **Weight** 2 lbs.
 
 This blessed mark can be crafted onto something and worn in any slot, and warriors often call upon it immediately before they go into battle. Once per day, as a standard action, a creature can activate the warrior’s blessing to gain a +10 enhancement bonus to all forms of movement, a +1 bonus to attack rolls, a +1 dodge bonus to armor class and Reflex saves, and either an extra attack at their highest base attack bonus when making a full attack or an additional attack of opportunity (this can be chosen each round). This bonus lasts for 1 round per caster level (normally 3 rounds) and does not stack with similar effects (such as speed weapons).
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5. This increases the speed bonus by +10 and provides +1 attacks of opportunity at each level, as well as an extended duration as described above. At +2 and +4, warrior’s blessings can be used an additional time each day and provide an additional +1 to attack rolls, armor class, and Reflex saves.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5. This increases the speed bonus by +10 and provides +1 attacks of opportunity at each level, as well as an extended duration as described above. At +2 and +4, warrior’s blessings can be used an additional time each day and provide an additional +1 to attack rolls, armor class, and Reflex saves. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Time sphere (Improved Haste); **Cost** 1,200 gp
 
 ### Whispercoin [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint enchantment (Mind) — **CL** 5th
 **Slot** slotless; **Price** 2,000 gp; **Weight** —
@@ -1789,8 +1789,8 @@ When the user flips the coin, they may also make a Sleight of Hand check. Any cr
 
 ### White Lotus Seal
 
-**Aura**faint Death;**CL** 2nd
-**Slot**none;**Price**1,600 gp;**Weight** -
+**Aura** faint Death; **CL** 2nd
+**Slot** none; **Price** 1,600 gp; **Weight** -
 
 **Description**
 This strip of parchment has transcribed on it various verses of scripture laid out in pentacle form. The white lotus seal has been alchemically treated to work equally well against incorporeal as well as corporeal undead. In place of an attack, the character may make a melee touch attack against an undead creature placing the white lotus seal upon them. Undead who have the seal attached to them must attempt a Will save (DC 11 + the user’s Wisdom modifier). Undead who fail their save become helpless until attacked or the seal is removed as a move action.
@@ -1800,12 +1800,12 @@ Craft Marvelous Item, Death sphere (Command Undead (ghost strike)); **Cost** 800
 
 ### Wild Magic Generator [TS]
 
-**Aura**faint Universal;**CL** 3rd
-**Slot**none;**Price**3,600 gp;**Weight** 2 lbs.
+**Aura** faint Universal; **CL** 3rd
+**Slot** none; **Price** 3,600 gp; **Weight** 2 lbs.
 
 Once per day, as a swift action, a creature can activate a wild magic generator to create a spherical region with a 50-foot radius. This region goes around corners and through small holes, but does not go through force effects (such as barriers from the Protection sphere) and does not function in anti-magic fields. Any time a creature within the region casts a sphere effect (including by activating magic items such as other marvelous items and spell engines), that effect has a 15% chance of triggering a wild magic effect for the appropriate sphere; if the effect involves two or more spheres, or is an effect not associated with a particular sphere, it triggers a universal wild magic effect instead. See Wild Magic by Drop Dead Studios for the wild magic effects. This item creates an effect on space, not on creatures, and is triggered by the magic that creatures cast, so it applies to all creatures within its range and cannot be blocked by spell resistance. This region lasts for 1 round per caster level, but you can shut it off early as a free action you may only take during your turn by pressing a button on the wild magic generator. The region itself is visibly discolored and obviously present to any creature that can see it.
 
-**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase the number of times it can be used each day by 1.**Optional:** At +3, this field can instead be set to trigger major wild magic events.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level of this item to the next increment of 5 and increase the number of times it can be used each day by 1. **Optional:** At +3, this field can instead be set to trigger major wild magic events. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, the creator must have some way to trigger wild magic; **Cost** 1,800 gp
@@ -1816,8 +1816,8 @@ While regular wild magic is unpredictable as it is, major events are a lot like 
 
 ### Wizard’s Cube of Gaming
 
-**Aura**strong Creation;**CL** 12th
-**Slot**none;**Price**20,500 gp;**Weight** 1 lb.
+**Aura** strong Creation; **CL** 12th
+**Slot** none; **Price** 20,500 gp; **Weight** 1 lb.
 
 **Description**
 This small ebony box looks like a beautiful, if simple, container for a deck of cards, the holy symbol of a deity of luck being the only design on the exterior of the lid. When the lid is opened and the command word spoken a table grows out of the box and expands or shrinks as necessary with an appropriate number of chairs around it. The table can expand to support up to 8 players sitting comfortably, or be small enough for just one. While the table exists, the true nature of the box can be revealed by the one who spoke the command word. By focusing on the box and speaking aloud the name any type of board, card, or dice game that they know the rules of, they can cause the table to alter its form to suit the game and conjure all of the relevant pieces to play in their starting positions. These pieces are physically real and can be made of any common wood, stone, metal, or mineral depending on the specific box in question, and they may be moved conventionally or verbally commanded and move autonomously, but regardless of material each piece is very fragile and destroyed by any amount of damage or by moving more than 10 feet away from the box at any time. Destroyed pieces reform when a new game is declared. Sliding the lid closed dismisses the table and any extant pieces.
@@ -1833,8 +1833,8 @@ Craft Marvelous Item, Creation sphere, Fate sphere; **Cost** 10,250 gp
 
 ### Wizard’s Cube of Gaming, Greater
 
-**Aura**strong Creation;**CL** 17th
-**Slot**none;**Price**85,000 gp;**Weight** 1 lb.
+**Aura** strong Creation; **CL** 17th
+**Slot** none; **Price** 85,000 gp; **Weight** 1 lb.
 
 **Description**
 A greater wizard’s cube of gaming functions as a wizard’s cube of gaming except that the game has a +8 bonus to Intelligence-, Wisdom-, and Charisma-based checks, the bonus for winning and penalty for intentionally losing increases to +2 and -2 respectively.
@@ -1846,8 +1846,8 @@ Craft Marvelous Item, Creation sphere, Fate sphere (Geas (advanced, word), Great
 
 ### Wizard’s Cube of Gaming, Lesser
 
-**Aura**moderate Creation;**CL** 7th
-**Slot**none;**Price**500 gp;**Weight** 1 lb.
+**Aura** moderate Creation; **CL** 7th
+**Slot** none; **Price** 500 gp; **Weight** 1 lb.
 
 **Description**
 A lesser wizard’s cube of gaming functions as a wizard’s cube of gaming except that the game only has a +3 bonus to Intelligence- and Wisdom-based checks, and winning only provides a +1 bonus to the skill or ability check used to win the game (or a +1 luck bonus to all ability checks if the game is won with luck).
@@ -2115,8 +2115,8 @@ The original elemental augmentations included in the Elemental Master’s Handbo
 
 ### Chimewing [RW HB]
 
-**Aura**faint Weather;**CL** 4th
-**Slot**none;**Price**2,500 gp (normal), 3,500 gp (perfect);**Weight** –
+**Aura** faint Weather; **CL** 4th
+**Slot** none; **Price** 2,500 gp (normal), 3,500 gp (perfect); **Weight** –
 
 This slender, wing-like arm and hand has a number of holes down the forelimb and the hand itself. The air which passes through these holes are infused with the passing breezes of an air-aligned plane.
 
@@ -2131,8 +2131,8 @@ Craft Marvelous Item, Nature ((air) package), Weather; **Cost** 1,250 gp (normal
 
 ### Entropic Grip [RW HB]
 
-**Aura**moderate Death;**CL** 10th
-**Slot**none;**Price**9,000 gp (normal), 12,000 gp (perfect);**Weight** –
+**Aura** moderate Death; **CL** 10th
+**Slot** none; **Price** 9,000 gp (normal), 12,000 gp (perfect); **Weight** –
 
 The coiling blackness of this solid-energy prosthetic coils and twists like smoke, seething energy found from a distant negative energy-aligned plane.
 
@@ -2149,8 +2149,8 @@ Craft Marvelous Item, Death, Destruction (Gloom Blast (blast type)); **Cost** 4,
 
 ### Radiant Skingraft [RW HB]
 
-**Aura**moderate Light and Nature;**CL** 6th
-**Slot**none;**Price**5,000 gp (normal), 8,500 gp (perfect);**Weight** –
+**Aura** moderate Light and Nature; **CL** 6th
+**Slot** none; **Price** 5,000 gp (normal), 8,500 gp (perfect); **Weight** –
 
 The gleaming scales of this smooth, flat cloth seamlessly merges with skin, infusing the target with the radiant sunlight found at the intersections of positive and fire-aligned planes.
 
@@ -2171,8 +2171,8 @@ Craft Marvelous Item, Light (Beacon Of Hope (light), Halo (lens)), Nature (Resis
 
 ### Stonelord’s Girdle [RW HB]
 
-**Aura**moderate Alteration and Nature;**CL** 7th
-**Slot**none;**Price**4,000 gp (normal), 6,000 gp (perfect);**Weight** –
+**Aura** moderate Alteration and Nature; **CL** 7th
+**Slot** none; **Price** 4,000 gp (normal), 6,000 gp (perfect); **Weight** –
 
 The creature’s waistband is a heavy band of carven, fine stone, the power of great quarries of earthen realms.
 
@@ -2187,8 +2187,8 @@ Craft Marvelous Item, Nature ((earth) package); Cost 2,000 gp (normal), 3,000 gp
 
 ### Swellrunners [RW HB]
 
-**Aura**moderate Alteration and Nature;**CL** 11th
-**Slot**none;**Price**12,000 gp (normal), 18,000 gp (perfect);**Weight** –
+**Aura** moderate Alteration and Nature; **CL** 11th
+**Slot** none; **Price** 12,000 gp (normal), 18,000 gp (perfect); **Weight** –
 
 The surface of these cerulean blue leg prosthetics ebb and flow, like great waves in a stormy sea.
 
@@ -2203,8 +2203,8 @@ Craft Marvelous Item, Nature ((water) package, Nature’s Movement (spirit)); **
 
 ### Tongue of D’hool [RW HB]
 
-**Aura**moderate Creation and Nature;**CL** 6th
-**Slot**none;**Price**2,000 gp (normal), 3,000 gp (perfect);**Weight** –
+**Aura** moderate Creation and Nature; **CL** 6th
+**Slot** none; **Price** 2,000 gp (normal), 3,000 gp (perfect); **Weight** –
 
 This strange, snake-like tongue is weaved together with energies from the intersection of a negative and earth-aligned plane of vast and endless dust, desiccating with the slightest touch.
 
@@ -2225,8 +2225,8 @@ Shards are magical items that can instantly empower items that are described as 
 
 ### Flask Shard (Minor Artifact) [TS]
 
-**Aura**strong Universal;**CL** 20th
-**Slot**none;**Price**none;**Weight** -
+**Aura** strong Universal; **CL** 20th
+**Slot** none; **Price** none; **Weight** -
 
 Named for their association with flasks of the dawn, which are their most popular place of use, flask shards are items whose form of creation has long been lost. When dropped onto certain items described as benefiting from this item (typically marvelous items, but sometimes magic weapons and other gear), flask shards instantly and permanently enhance those items; the flask shard is consumed in this process. Flask shards come in various levels of quality, usually referred to as +1, +2, and so on, and items must be powered up using flask shards of the correct power level in sequential order. Thus, you must use a +1 shard on an item before using a +2 shard, and so on. If a flask shard increases an item’s uses per day to 5 or more, that item only has that number of uses per day (rather than switching to unlimited uses). Flask shards of +5 and higher are extremely rare, as are the items that use them. If an item has multiple effects that could be powered up by a flask shard (such as a cursed sign that is also an inspiring crest), each flask shard only improves one of those effects. Items upgradable with flask shards cannot be upgraded through other methods unless this is specified in their description.
 
@@ -2236,8 +2236,8 @@ Effects that increase the effective caster level of an item that uses flask shar
 
 ### Metamagic Shard (Minor Artifact) [TS]
 
-**Aura**strong Universal;**CL** 20th
-**Slot**none;**Price**none;**Weight** -
+**Aura** strong Universal; **CL** 20th
+**Slot** none; **Price** none; **Weight** -
 
 Metamagic shards are especially rare versions of flask shards. Rather than improving the normal effect of a marvelous item, metamagic shards permanently apply the effects of a metamagic compatible with spherecasting to that item. (This includes all metamagic effects available as metamagic apparatuses, which are described of the [[Metamagic Apparatuses|Apparatuses, Metamagic]] page, as well as all other compatible metamagic effects.)
 
@@ -2273,8 +2273,8 @@ In general, pre-improved items should use this calculation, rather than the cost
 
 ### Blood Bath (Minor Artifact)
 
-**Aura**moderate Alteration;**CL** 10th
-**Slot**none;**Weight** 300 lbs.
+**Aura** moderate Alteration; **CL** 10th
+**Slot** none; **Weight** 300 lbs.
 
 **Description**
 The blood bath is a minor artifact used by evil creatures to steal the youth of their victims. Sized to fit a Medium or smaller creature, the blood bath must to primed by filling it with the blood of creatures of no older than the young adult age category.
@@ -2286,16 +2286,16 @@ The blood bath shatters if filled with the bones of an intelligent humanoid that
 
 ### Cloak Of The Stormlord (Minor Artifact) [MCS]
 
-**Aura**strong Weather;**CL** 15th
-**Slot**shoulders;**Price**-;**Weight** 2 lbs.
+**Aura** strong Weather; **CL** 15th
+**Slot** shoulders; **Price** -; **Weight** 2 lbs.
 This ankle-length gray cloak seems to be woven from strands of solidified cloudstuff and sewn with lightning that occasionally flashes across it. While worn, this cloak acts as a +5 Weather implement that also grants access to all Weather talents with the word “Lord” in their name, including advanced talents. A mythic creature wearing this cloak gains a fly speed of 10 feet per round per tier with perfect maneuverability as long as they are within an area of weather they are controlling.
 **Destruction**
 The cloak of the stormlord can be destroyed by cutting it in half with a granite weapon inside the house of the leader of the largest city of the elemental plane of earth.
 
 ### Crystal of the Hero (Minor Artifact) [TS]
 
-**Aura**strong Universal;**CL** 20th
-**Slot**ring;**Price**-;**Weight** 3 lbs.
+**Aura** strong Universal; **CL** 20th
+**Slot** ring; **Price** -; **Weight** 3 lbs.
 The crystal of the hero is a rare artifact supposedly created by the god of self-improvement, appearing as a clear gem set into a gold band. The first time a creature equips the crystal of the hero, they instantly lose all of their current class levels and replace them with levels in another class of their choice, as if they had retrained their class levels.
 
 At this point, the gem changes its color to something suiting the new class; for example, selecting Druid often turns it green. If the user selects a prestige class, they replace as many of their levels as possible even if they do not meet the prerequisites for the class, but cannot gain more levels in that prestige class than would normally be possible at their character level. (This means that a character at 6th level cannot usually gain more than 1 level in a prestige class, since most can only be taken starting at 6th level.) A creature wearing a crystal of the hero may reassign their skill points to the new class in any way they like, but wearing a crystal of the hero does not change the user’s ability scores, non-class feats known, or favored class bonuses. Any other changes (such as determining hit points) are up to the GM. Crystals of the hero bond to their user and cannot be used by anyone else while their user lives.
@@ -2305,8 +2305,8 @@ A crystal of the hero can be destroyed if a 20th-level character who does not ha
 
 ### Deck Of Fates (Minor Artifact) [TS]
 
-**Aura**strong Fate;**CL** 20th
-**Slot**none;**Price**-;**Weight** 2 lbs
+**Aura** strong Fate; **CL** 20th
+**Slot** none; **Price** -; **Weight** 2 lbs
 
 This deck is made up of 20 cards, each with a distinct design on one side and a neutral backing on the other. As a standard action, a character can draw up to three cards from the deck of fates, each one corresponding to a motif talent of the Fate sphere. Once drawn, the user may cast those effects (at caster level 20) on one target each. No creature may have more than one effect granted by the deck of fates at any one time. After these effects are cast, the cards return to the deck and the deck cannot be used again for one hour per card that was drawn.
 
@@ -2332,8 +2332,8 @@ The deck of fates can only be destroyed by drawing all 20 different cards in 20 
 
 ### Fey Court’s Blessing (Minor Artifact) [SB:F&F]
 
-**Aura**moderate Alteration;**CL** 15th
-**Slot**none;**Weight** 1 lbs.
+**Aura** moderate Alteration; **CL** 15th
+**Slot** none; **Weight** 1 lbs.
 
 **Description**
 The fey court’s blessing takes many forms, a budding flower, an ornate silver broach, a comically small saber. The shape varies depending on the fey court granting the blessing, but the size is generally no larger than a small riverstone. When a fey court grants a fey court’s blessing to a creature, no other creature may hold or possess it, and the blessed creature cannot rid themselves of the item. Should the blessed creature attempt to rid themselves of a fey court’s blessing, it reappears on their person within an hour.
@@ -2355,8 +2355,8 @@ A fey court’s blessing immediately crumbles to dust should the fey court that 
 
 ### Lucy's Pyre (Minor Artifact) [Wiki]
 
-**Aura**moderate Conjuration;**CL** 6th
-**Slot**none;**Weight** 6 tons
+**Aura** moderate Conjuration; **CL** 6th
+**Slot** none; **Weight** 6 tons
 
 **Description**
 Sometimes called "the altar of the weak man", this stone altar is etched with inscriptions in no language known to mortals. A creature with 5 or fewer hit dice can sacrifice one meal's worth of common food in their area (such as some poultry, potatoes, and beer) on the altar to summon an imp that will faithfully perform one minor and non-dangerous task for them before returning to its infernal home. A creature cannot summon an imp with this altar more than once per week.
@@ -2366,8 +2366,8 @@ Lucy's Pyre can be destroyed by melting gold onto it worth more than the value o
 
 ### Ring of Multiple Personalities (Minor Artifact)
 
-**Aura**strong Mind and Time;**CL** 15th
-**Slot**ring;**Weight** -
+**Aura** strong Mind and Time; **CL** 15th
+**Slot** ring; **Weight** -
 
 **Description**
 Originally invented by a wizard hoping to double his magic, this ring is considered a cursed ring, and cannot be removed without the aid of magic such as the Break Enchantment talent from the Life sphere. When a creature puts on the ring of multiple personalities they gain a second personality. This personality is considered a separate character with the same current hit points, attribute scores, equipment, and class levels as the character wearing the ring, but with its own alignment, skill ranks, feats, and variable class features, such as rogue talents or magic talents; the 2nd personality possesses a separate spell point pool from the main personality, and any other limited-use abilities it possesses such as alchemist bombs are tracked separately for each personality. Magic that reads minds or communicates telepathically reveals both minds, and can even allow them to communicate with each other, and the suppressed personality is aware of what happens while it is not in control. The GM may create this character as they see fit, but may use the following guidelines if they are beneficial:
@@ -2385,8 +2385,8 @@ If the wearer of the ring of multiple personalities commits suicide, their body 
 
 ### Scroll of the Ancients (Minor Artifact) [TS]
 
-**Aura**overwhelming All;**CL** 25th
-**Slot**none;**Price**-;**Weight** -
+**Aura** overwhelming All; **CL** 25th
+**Slot** none; **Price** -; **Weight** -
 
 It’s not known who scribed the scrolls of the ancients. Some scholars theorize that reality itself created them, while others loudly proclaim that such theories are rubbish and there must be some kind of reasonable explanation. Either way, activating one of these scrolls requires a DC 35 Use Magic Device check as a standard action that, if successful, can create any effect that is possible with a wish or miracle spell (including effects requiring expensive material components). Unlike most scrolls, the scrolls of the ancients do not fade away once used up. Instead, they require one week to regain their energy; this is judged by the passage of time in the material plane, and the scrolls seem immune to trickery like placing them in a demiplane where time is drastically sped up. Each time a character successfully reads from a scroll of the ancients, there is a cumulative 20% chance that they gain a permanent oracle curse selected by the GM that they do not already have, treating their total character level as their class level for determining the effects of the curse. Characters only receive the negative aspects of such a curse and do not benefit from any improvements or useful traits the curse has. The chance of acquiring a curse in this way resets to 0% each time a character gains such a curse. Effects that allow characters to bypass or ignore the effects of curses do not work on curses given by a scroll of the ancients.
 
@@ -2395,8 +2395,8 @@ A scroll of the ancients can only be destroyed by using its power and asking it 
 
 ### Shard of Secrets (Minor Artifact) [TS]
 
-**Aura**none;**CL** Unknown
-**Slot**any;**Price**-;**Weight** 2 lbs.
+**Aura** none; **CL** Unknown
+**Slot** any; **Price** -; **Weight** 2 lbs.
 The shard of secrets is a slender vertical crystal that can be tied to any magic item slot. The item itself is utterly impervious to all forms of mortal divination, both direct and indirect, and cannot be spotted or located through any magical means (including spells such as wish and miracle). The carrier is likewise shielded from all divinations, which treat the wearer as if they do not exist. Broader divinations, such as those scanning for an area instead of a person, do not provide any information on the wearer. Gods are not affected by the shard of secrets.
 
 **Destruction**
@@ -2404,8 +2404,8 @@ The shard of secrets can only be destroyed if its bearer learns and whispers the
 
 ### Spike of Affixion (Minor Artifact)
 
-**Aura**strong Dark;**CL** 15th
-**Slot**none;**Weight** 0.5 lbs.
+**Aura** strong Dark; **CL** 15th
+**Slot** none; **Weight** 0.5 lbs.
 
 **Description**
 When a creature’s shadow passes over it, this rusty, gnarled iron nail sinks into the earth and spikes the shadow in place, anchoring the creature that casts the shadow to the spot. The victim is powerless to remove the nail, but anyone else can pluck it from the earth with a DC 20 Strength check. A spiked creature can not move more than 5 feet away from its location while the nail is affixed. A creature can not be spiked if it is not in contact with its own shadow, such as when flying. A spiked creature can not fly, jump, or otherwise lose contact with its shadow.
@@ -2419,16 +2419,16 @@ To destroy a spike of affixion, it must be hammered into a beam of light from th
 
 ### Staff Of Nature’s Wrath (Minor Artifact) [MCS]
 
-**Aura**strong Nature;**CL** 20th
-**Slot**none;**Price**-;**Weight** 5 lbs.
+**Aura** strong Nature; **CL** 20th
+**Slot** none; **Price** -; **Weight** 5 lbs.
 Several tiny spheres of elemental power orbit the head of this gnarled wooden staff, which functions as a +5 aiming attendant Nature and Weather implement. Once per day, as a standard action, the bearer of a staff of nature’s wrath may use it to cast the Nature sphere Cyclone (air, geomancing), Earthquake (earth, geomancing), Freezing Geyser (fire, water, geomancing), Rapid Growth (plant, geomancing), Tsunami (water, geomancing), Volcano (fire, geomancing), or Wildfire (fire) advanced talents as if they knew those talents. These effects manifest at caster level 20, although the user may lower the caster level if they desire. The user may also use their own caster level with the nature sphere for these effects if their caster level is higher. A mythic creature may expend three uses of mythic power to activate these natural disasters without it counting against this staff’s normal daily limit. When they do so, they may add their tier to the caster level of the effect.
 **Destruction**
 A staff of nature’s wrath can only be destroyed if a creature uses all seven of its abilities over the course of one week and targets an entirely artificial structure, but fails to deal any damage to that structure.
 
 ### Tablet Of Heroes (Minor Artifact) [MCS]
 
-**Aura**strong Time;**CL** 15th
-**Slot**none;**Price**- gp;**Weight** 98 tons
+**Aura** strong Time; **CL** 15th
+**Slot** none; **Price** - gp; **Weight** 98 tons
 This enormous stone tablet is about fifteen feet high, fifteen feet wide, and five feet deep. Most of its surface is covered in writing detailing the heroics of people of every class. The legends recorded are never quite the same from day to day. Once per day, a creature can touch the tablet of heroes for one minute to commune with the spirits that inhabit it; the stone glows with vivid, spiritual light during this process. Upon completing their communion with the spirits, the creature who touched the stone may immediately retrain any and all class levels they possess. This functions as the Time sphere Reversion advanced talent, augmented by the Complete Reversion talent. There are usually far more people who want to use these items than the number of uses it possesses, so governments often take control of these items and restrict access, instituting fees, challenges, or competitions to determine who may use it. Most leave these tablets in place not by choice, but because even budging them out of place is incredibly difficult for all but the most well-prepared.
 
 In addition to, or separate from, changing the class of people who touch it, a tablet of heroes occasionally bestows active or latent mythic powers upon a creature. There does not seem to be any pattern to this, nor any way to control it, regardless of the method. Similarly, the tablet of heroes occasionally gives people class levels other than the ones they intended to get, or even gives them levels in NPC classes. Levels given by a tablet of heroes cannot be retrained or changed by any method except using a tablet of heroes again, and records indicate it is significantly more likely to give a ‘bad’ result to someone who uses it more than once.
@@ -2437,8 +2437,8 @@ The tablet of heroes can only be destroyed by being struck simultaneously by nin
 
 ### Transmogrifier (Minor Artifact)
 
-**Aura**moderate Alteration;**CL** 10th
-**Slot**none;**Weight** 25 lbs.
+**Aura** moderate Alteration; **CL** 10th
+**Slot** none; **Weight** 25 lbs.
 
 **Description**
 The transmogrifier is a thin, unassuming wooden box that collapses flat for transport, which can be set-up or taken down as a full-round action. The plain appearance belies its true power. The small dial set into the box’s side can be turned to select any creature imaginable as a move action. Once selected, a creature may enter the box as a standard action. Exiting the box is a move action. The creature gains the benefits of the Transformation and Improved Transformation feats, but may not choose to dismiss their transformation form nor suppress the granted traits. This effect is instantaneous, though the transmogrifier may be used to return the creature to its original state. The transmogrifier is normally just large enough for 1 Medium-sized creature, but will automatically resize to accommodate creatures of greater than Medium size.
@@ -2448,8 +2448,8 @@ The transmogrifier loses all power if willingly cast away by a child who has use
 
 ### Wishing Stones (Minor Artifact) [TS]
 
-**Aura**overwhelming Fate;**CL** 23rd
-**Slot**none;**Price**none;**Weight** 4 lbs. (each)
+**Aura** overwhelming Fate; **CL** 23rd
+**Slot** none; **Price** none; **Weight** 4 lbs. (each)
 
 Wishing stones are spherical crystals about eight inches across, largely amber-colored but each containing a crimson symbol on the inside. When all wishing stones in a set are brought together (sets typically contain a prime number of stones, such as 3, 7, or 13), a creature can use a special incantation as a full-round action to activate them and gain the effects of one wish. The actual effects may be anything possible to get from a wish spell, including effects that normally require expensive material components. After granting a wish, wishing stones turn into gray stone and scatter across the planet (or plane) they are on and cannot be used again for one year, at which point they return to looking like crystals instead of rocks.
 
@@ -2460,8 +2460,8 @@ A set of wishing stones can be destroyed by smashing all of its components with 
 
 ### Divine Notebook (Major Artifact)
 
-**Aura**overwhelming Creation and Enhancement;**CL** 22th
-**Slot**none;**Weight** 8 lbs.
+**Aura** overwhelming Creation and Enhancement; **CL** 22th
+**Slot** none; **Weight** 8 lbs.
 
 **Description**
 The divine notebook is an artist’s sketchbook of unremarkable appearance, but upon close inspection it is revealed to be of unsurpassed quality. It stands 3 feet by 2 feet in size with hundreds of pages, which replenish themselves if removed. The divine notebook is unknown to most, and even fewer believe it to truly exist; it has a long and sordid history which is kept closely guarded by many bardic colleges that wish to keep its true history unknown to the world, for fear it might fall into hands other than their own. For those who know what to look for, however, the notebook appears over and over again throughout the ages as it passed from one creator to another.
@@ -2509,8 +2509,8 @@ The divine notebook is destroyed if it is used to successfully draw a portrait o
 ### Eye of the Sky Monarch (Major Artifact) [Conq. HB]
 
 This foot-wide jade-green orb is decorated with intricate carvings which wrap around, seemingly endlessly, with motifs of wings. It radiates a soft aura that seems to acknowledge those near it, as though it could sense their presence.
-**Aura**strong Divination;**CL** 20th
-**Slot**none;**Price**—;**Weight** 10 lbs.
+**Aura** strong Divination; **CL** 20th
+**Slot** none; **Price** —; **Weight** 10 lbs.
 
 **Description**
 When held and concentrated on as a full-round action, the user’s vision melds with the orb’s infinite sight, giving them a view of the surrounding land within a 30 mile radius as though they were flying above it. The user can see with perfect clarity, and may focus on any point they can see, including inside structures and through barriers. The sight granted by the eye of the sky monarch bypasses any immunity to divination effects that would otherwise ward an individual.
@@ -2531,23 +2531,23 @@ This massive, feathered serpent gracefully moves through the sky or jungle, its 
 
 Female sphere incarnation (divination) giant anaconda incanter 20 (Pathfinder Bestiary 2 pg. 252)
 N Gargantuan magical beast (augmented, shapechanger)
-**Init**+28 plus Forewarned;**Senses**darkvision 60 ft., keen scent 4300 ft., lifesense 1720 ft., low-light vision, scent, see in darkness, sense magic 1720 ft., spiritsense 1720 ft., thoughtsense 1720 ft., touchsight 1720 ft., tremorsense 1720 ft., true seeing 120 ft., unobscured vision 1720 ft.;**Perception** +57 (+32 to locate invisible or ethereal creatures, +16 to locate traps, +16 to disbelieve illusions)
+**Init** +28 plus Forewarned; **Senses** darkvision 60 ft., keen scent 4300 ft., lifesense 1720 ft., low-light vision, scent, see in darkness, sense magic 1720 ft., spiritsense 1720 ft., thoughtsense 1720 ft., touchsight 1720 ft., tremorsense 1720 ft., true seeing 120 ft., unobscured vision 1720 ft.; **Perception** +57 (+32 to locate invisible or ethereal creatures, +16 to locate traps, +16 to disbelieve illusions)
 
 **Defense**
-**AC**57,**touch**38,**flat-footed** 49 (+4 Dex, +5 dodge, +7 insight, +16 natural, +16 sacred, –4 size)
+**AC** 57, **touch** 38, **flat-footed** 49 (+4 Dex, +5 dodge, +7 insight, +16 natural, +16 sacred, –4 size)
 **hp** 488 (12d10+20d6+352)
-**Fort**+34,**Ref**+35,**Will** +41; +16 vs. disbelieving illusions
-**Defensive Abilities**battlefield sense, blindfolded oracle, detect scrying, discern individual (+16 to identify), foreshadow, freedom of movement, ghost sight, nature sense, see hazard, storm vision, sphere chrysalis, unhooded sight; DR 15/—; Immune ability damage, ability drain, charm effects, compulsion effects, disease, death effects, energy drain, petrification, poison;**SR** 39
+**Fort** +34, **Ref** +35, **Will** +41; +16 vs. disbelieving illusions
+**Defensive Abilities** battlefield sense, blindfolded oracle, detect scrying, discern individual (+16 to identify), foreshadow, freedom of movement, ghost sight, nature sense, see hazard, storm vision, sphere chrysalis, unhooded sight; DR 15/—; Immune ability damage, ability drain, charm effects, compulsion effects, disease, death effects, energy drain, petrification, poison; **SR** 39
 
 **Offense**
 **Speed** 20 ft., climb 20 ft., fly 40 ft. (good), swim 20 ft.
 **Melee** bite +40 (4d6+30/19–20 plus grab plus serpent’s fang)
-**Space**20 ft.,**Reach** 20 ft.
+**Space** 20 ft., **Reach** 20 ft.
 **Special Attacks** attuned sphere (divination), constrict (4d6+30), den of vipers (1/day, creeping doom (DC 36)), incarnation conduit (divination), prescience (+26 insight), scaled soul (alter self or beast shape III), sniper’s eye, sphere blessing (divination)
 
 **Magic**
-**Caster Level**20 (33 with Divination sphere);**MSB**+20 (+33 with Divination sphere),**MSD**31 (+44 with Divination sphere),**Concentration** +36 (+49 with Divination sphere)
-**Tradition**Divine’s Will (Somatic Casting (2), Witchmarked (distortions));**Tradition Boons**Easy Focus, Overwhelming Power;**CAM** Wis
+**Caster Level** 20 (33 with Divination sphere); **MSB** +20 (+33 with Divination sphere), **MSD** 31 (+44 with Divination sphere), **Concentration** +36 (+49 with Divination sphere)
+**Tradition** Divine’s Will (Somatic Casting (2), Witchmarked (distortions)); **Tradition Boons** Easy Focus, Overwhelming Power; **CAM** Wis
 **Spell Points** 42
 **Destruction sphere:** Crystal Cocoon; (blast shape) Calamity, Energy Strike, Explosive Orb; (blast type) Crystal Blast; Energy Focus (crystal) drawback
 
@@ -2572,8 +2572,8 @@ N Gargantuan magical beast (augmented, shapechanger)
 - teleport, close (75 ft.), long (1200 ft.) 1 sp; Distant Teleport; Planeshift; True Teleport; Unseeing Teleport
 
 **Statistics**
-**Str**44,**Dex**22,**Con**33,**Int**26,**Wis**43,**Cha** 26
-**Base Atk**+22;**CMB**+40 (+44 grapple);**CMD** 67 (cannot be tripped)
+**Str** 44, **Dex** 22, **Con** 33, **Int** 26, **Wis** 43, **Cha** 26
+**Base Atk** +22; **CMB** +40 (+44 grapple); **CMD** 67 (cannot be tripped)
 **Feats** Counterspell, Counterspell Mastery, Defensive Combat Training, Dodge, Greater Counterspell, Improved Counterspell, Improved Critical (bite), Improved Initiative, Power Attack, Precognicient Protection, Precognicient Resistance, Precognicient Smite, Quicken Spell Metamagic, Skill Focus (Perception), Tabulated Mind, Weapon Focus (bite)
 **Skills** Acrobatics +37, Climb +29, Disable Device +18, Fly +34, Knowledge (arcana, history) +43, Knowledge (nature) +50, Perception +57, Sense Motive +51, Spellcraft +43, Survival +58, Swim +29, Use Magic Device +40
 **Languages** Speak with Animals (reptilians), Truespeech SQ Divination specialization (diviner’s fortune +10 (19/day), foretell (20 rounds/day), forewarned), serpentine bloodline (den of vipers (1/day), serpent’s fang (at will), serpent friend (viper familiar), scaled soul, snakeskin), sphere incarnation traits
@@ -2586,7 +2586,7 @@ N Gargantuan magical beast (augmented, shapechanger)
 **Special Abilities**
 **Eye’s Bearer (Su):** The incarnation of the sky monarch was created by the unparalleled dormant magic of the eye of the sky monarch. The incarnation of the sky monarch can use any of the abilities of the eye of the sky monarch as if it were her own. When the incarnation of the sky monarch is slain, the eye of the sky monarch returns to the jungle, as indicated in its “Destruction” section.
 
-**Serpent’s Fang (Ex):** Bite—injury;**save**Fort DC 36;**frequency**1/round for 6 rounds;**effect**1d4 Con damage;**cure** 2 saves. In addition, the incarnation of the sky monarch’s fangs are considered magical for the purpose of overcoming damage reduction.
+**Serpent’s Fang (Ex):** Bite—injury; **save** Fort DC 36; **frequency** 1/round for 6 rounds; **effect** 1d4 Con damage; **cure** 2 saves. In addition, the incarnation of the sky monarch’s fangs are considered magical for the purpose of overcoming damage reduction.
 
 **Description**
 The incarnation of the sky monarch is the manifestation of the eye of the sky monarch’s power, giving physical form to a long-dormant primordial which commanded the omniscient powers of the Divination sphere. Born from the artifact’s power, the incarnation of the sky monarch is an inherently nonviolent being, taking to aiding people who have worshiped the primordial for centuries. When manifested, she acts as an oracle for those worshipers, providing prophecy and fortune to those who leave sufficient offerings of pleasing foods, fine jewels, and intricate pieces of artistry.
@@ -2595,8 +2595,8 @@ While it is rare for the incarnation of the sky monarch to do battle, she is sti
 
 ### Key of Azathoth (Major Artifact) [TS]
 
-**Aura**overwhelming Conjuration;**CL** 25th
-**Slot**none;**Price**none;**Weight** 2 lbs.
+**Aura** overwhelming Conjuration; **CL** 25th
+**Slot** none; **Price** none; **Weight** 2 lbs.
 
 This silver key contains inscriptions too complex for the eye to follow; indeed, they seem to shift so that their pattern can never be traced to its conclusion. Three times per day, as a standard action, a creature can point the key of azathoth at a target they can see and call upon its powers. This creates a magic-dead zone similar to an antimagic field that automatically dispels all non-instantaneous magical effects, banishes all summoned creatures, and otherwise negates all spells, spell-like abilities, and supernatural abilities within its area of effect, including effects that normally protect against antimagic, dispels, and similar effects unless those effects were created by a creature with more mythic tiers than this artifact’s user. The magic-dead zone does not affect deities or artifacts. The zone takes the form of a sphere that must have at least a 10-foot radius, but at the user’s discretion, the zone can be up to 50 feet across. This zone lasts for 24 hours, but can be removed by any effect capable of eliminating an antimagic field, such as the Greater Counterspell feat (if the caster succeeds at a check against this item).
 
@@ -2609,8 +2609,8 @@ The key of azathoth can only be destroyed if the Gate is also destroyed. Unfortu
 
 ### Shrieking Skull of Hez’ba’eth (Major Artifact) [SB:UatIF]
 
-**Aura**overwhelming Death;**CL** 26
-**Slot**none;**Weight** 5 lbs.
+**Aura** overwhelming Death; **CL** 26
+**Slot** none; **Weight** 5 lbs.
 **Description**
 This ebony-black metal quarterstaff is enchanted as a +5 weapon and +5 Death sphere implement on the same side. Any creature struck by the shrieking skull of hez’ba’eth that is not undead takes an additional 5d6 points of negative energy damage and must succeed at a DC 28 Fortitude saving throw or be paralyzed, as though struck by a lich’s paralyzing touch special attack.
 
@@ -2625,8 +2625,8 @@ The shrieking skull of hez’ba’eth can only be destroyed if Hez’ba’eth is
 
 ### The Third Law (Major Artifact) [MCS]
 
-**Aura**overwhelming Universal and Tech;**CL** none
-**Slot**none;**Price**-;**Weight** 2 lbs.
+**Aura** overwhelming Universal and Tech; **CL** none
+**Slot** none; **Price** -; **Weight** 2 lbs.
 The third law is a large book that contains densely written information about magic and technology of various levels of development. The holder of this book has access to all talents of the Mana and Tech spheres. In addition, by speaking a command word and expending one use of mythic power as a standard action, the holder of this tome can create a 300-foot spherical space that alters the rules of reality within it for 24 hours. Within this space, any creature can spend charges or batteries from the Tech sphere instead of spell points (and vice versa) on effects that require either. In addition, effects that specifically target magic or technology can work on both magical effects and technological gadgets, although at the GM’s discretion, the effects may manifest in a more appropriate way depending on the exact effects involved. For example, dispelling a lock (a piece of mundane technology) may unlock it, while a Knowledge (engineering) check could identify magic in place of a Spellcraft check. It is impossible to predict or list every possible combination of effects, so the GM has the final say on whether or not specific combinations do work, and if so, how they should manifest. Magical and Tech sphere items crafted entirely within the altered rules of reality created by this item may use charges or spell points instead of what they would normally use. For example, you could create a gadget powered by spell points, allowing any spherecaster to power the item.
 **Destruction**
 The third law can be destroyed by simultaneously striking it with at least 100 points of fire damage each from two separate sources. One source must be entirely magical, the other entirely mundane.
@@ -2634,8 +2634,8 @@ The third law can be destroyed by simultaneously striking it with at least 100 p
 ### Twelve-Tribes Scepter (Major Artifact) [Conq. HB]
 
 This heavy, engraved scepter bears twelve distinct iconographies inlaid on the weathered, wooden haft. An intricate silver crown sits atop the scepter’s heavy metal head.
-**Aura**strong War;**CL** 20th
-**Slot**none;**Price**—;**Weight** 6 lbs.
+**Aura** strong War; **CL** 20th
+**Slot** none; **Price** —; **Weight** 6 lbs.
 
 **Description**
 The twelve-tribes scepter is a +5 axiomatic sacred conductive light mace. A creature wielding the scepter may utter prayers to the scepter’s benefactor deity as a standard action, choosing any War sphere (totem) to manifest on the scepter, as though targeting it with the Totemic Aura talent, using the twelve-tribes scepter’s caster level to determine its radius and effects. The scepter can create (totem) effects that cost spell points without needing to spend a spell points. This effect lasts indefinitely, until the bearer of the scepter utters another prayer to choose a new (totem) to attach, or until the bearer of the scepter deactivates the (totem) as a free action. Any allies benefiting from a totem cast from the twelve-tribes scepter also gains a +2 sacred bonus on all attack rolls, saving throws, and skill checks, as though guided by its divine providence. Once per day, the twelve-tribes scepter can be used to cast wish.
@@ -2649,8 +2649,8 @@ The twelve-tribes scepter is a relic of a family of twelve ancestors, who each f
 ### Wreath of the Immortal Prelate (Major Artifact) [Conq. HB]
 
 This wreath of soft gold and silver metal leaves holds an air of long-held tradition, wisdom, and nobility.
-**Aura**strong Mind and Enhancement;**CL** 20th
-**Slot**head;**Price**—;**Weight** 1 lbs.
+**Aura** strong Mind and Enhancement; **CL** 20th
+**Slot** head; **Price** —; **Weight** 1 lbs.
 
 **Description**
 This unique circlet of persuasionUE grants a +3 competence bonus on all Intelligence and Wisdom-based checks in addition to its regular effects. Any time the wearer attempts an Intelligence, Wisdom, or Charisma-based check, they can choose to assume the roll resulted in a natural 20.
@@ -2671,8 +2671,8 @@ The wreath of the immortal prelate is a relic of a vast, rich empire. It has bee
 
 ### Astral Tome [MCS]
 
-**Aura**strong Death;**CL** 15th
-**Slot**none;**Price**60,000 gp;**Weight** 8 lbs.
+**Aura** strong Death; **CL** 15th
+**Slot** none; **Price** 60,000 gp; **Weight** 8 lbs.
 This thick, heavily-secured book has a dark cover with an image of a silver humanoid connected to something unseen by a silvery thread. The interior of the book contains detailed written descriptions of every place any user of the book has visited through its powers. Once per day, a creature can read from this book to let themselves and up to seven additional willing creatures travel through the Astral Plane and connected areas, as the effects of the Death sphere Astral Travel advanced talent.
 
 Once per day, a mythic creature can expend one use of mythic power to transport themselves and up to seven other willing creatures to any destination described in the book, even if that destination is cut off from the Astral Plane; this planar movement always brings the user to the closest safe space to their intended destination. This movement cannot go through antimagic fields, wards against planar travel, or defenses created by deities.
@@ -2682,81 +2682,81 @@ Craft Wondrous Item, Mythic Crafter, Death sphere (Astral Projection (advanced),
 
 ### Battlefield [MCS]
 
-**Aura**moderate Creation and Enhancement;**CL** 6th
-**Slot**none;**Price**14,400 gp;**Weight** 4 lbs.
+**Aura** moderate Creation and Enhancement; **CL** 6th
+**Slot** none; **Price** 14,400 gp; **Weight** 4 lbs.
 This medallion has dozens of unique weapons stamped around the outside. Once per day, as a standard action, a user can activate the battlefield to summon countless weapons within close range (25 feet + 5 feet per 2 caster levels). This functions as the first-level armory arena ability of the lingchi warriorUSoP archetype except as modified here.
 
 If the user expends one use of mythic power when activating the battlefield, all of the weapons come with +2 enhancement bonuses. The weapons created by this item last for one minute per caster level, but may be dismissed by the user as a free action.
 
-**Flask Shard Effect:** Increase the caster level to the next increment of 4, increase the enhancement bonus on the weapons when expending mythic power by +1, and increase the number of uses per day by 1.**Flask Shard Limit:** +3
+**Flask Shard Effect:** Increase the caster level to the next increment of 4, increase the enhancement bonus on the weapons when expending mythic power by +1, and increase the number of uses per day by 1. **Flask Shard Limit:** +3
 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Enhanced Creation (dual sphere), Creation sphere (Divided Creation, Larger Creation), Enhancement sphere; **Cost** 7,200 gp
 
 ### Blooddrinker [MCS]
 
-**Aura**moderate Blood;**CL** 6th
-**Slot**none;**Price**14,400 gp;**Weight** 4 lbs.
+**Aura** moderate Blood; **CL** 6th
+**Slot** none; **Price** 14,400 gp; **Weight** 4 lbs.
 This slender needle looks like a wand at first glance, but tapers to a much finer point. Once per day, a creature holding a blooddrinker may use it to drain the life of their enemies. This acts as the Blood sphere Drain Lifeblood advanced talent, and requires establishing and maintaining blood control on the targets (which is done through this item). A blooddrinker can target 1 creature, plus one additional creature per 2 caster levels, and all targets must be within close range (25 feet + 5 feet per 2 caster levels).
 
 A mythic creature may expend one use of mythic power when activating a blooddrinker to use their own casting DC (if it is higher than this item’s DC) and add their tier to the item’s DC. Mythic creatures who activate a blooddrinker this way regain 5 hit points per point of Constitution bleed they inflict with this item.
 
-**Flask Shard Effect:** Increase the caster level to the next increment of 4, and increase the number of uses per day by 1.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the caster level to the next increment of 4, and increase the number of uses per day by 1. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Blood sphere (Drain Lifeblood (advanced), Mass Control [mass]); **Cost** 7,200 gp
 
 ### Chronosphere [MCS]
 
-**Aura**strong Time;**CL** 15th
-**Slot**none;**Price**36,000 gp;**Weight** 2 lbs.
+**Aura** strong Time; **CL** 15th
+**Slot** none; **Price** 36,000 gp; **Weight** 2 lbs.
 Chronospheres are golden spheres etched with powerful runes. Once per day, a creature may activate a chronosphere to envelop themselves or a creature they touch in a bubble that freezes the passage of time. This functions as the Time sphere Temporal Stasis advanced talent. A chronosphere becomes the bubble of frozen time while functioning; when the stasis ends, either because it was dispelled or met the conditions to shut off on its own, it reverts back into item form. It returns to being an item even if enveloped in something like an antimagic field, though it could not be used again until brought out of such an area. Chronospheres must recharge for at least 24 hours between uses, regardless of how long they functioned.
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Time sphere (Temporal Stasis (advanced)); **Cost** 18,000 gp
 
 ### Cry Of Condemnation [MCS]
 
-**Aura**strong Death;**CL** 15th
-**Slot**none;**Price**30,000 gp;**Weight** 2 lbs.
+**Aura** strong Death; **CL** 15th
+**Slot** none; **Price** 30,000 gp; **Weight** 2 lbs.
 Once per day, as a standard action, a creature can squeeze this dried husk of a plant and curse one enemy in range (as the Death sphere Curse (ghost strike) talent). If successful, this curse is always vulnerability to a type of energy damage.
 
 While this normally has a DC 17 Will saving throw to negate, a mythic creature can expend one use of mythic power when activating the cry of condemnation to instead target up to seven creatures in close range (60 feet) and use their save DC for the Death sphere (if higher), adding their tier to the normal save DC.
 
-**Flask Shard Effect:** Increase the number of uses per day by 1.**Flask Shard Limit:** +2
+**Flask Shard Effect:** Increase the number of uses per day by 1. **Flask Shard Limit:** +2
 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Death sphere (Curse, Greater Curse (advanced)); **Cost** 15,000 gp
 
 ### Dark And Darker [MCS]
 
-**Aura**moderate Dark;**CL** 10th
-**Slot**hands;**Price**36,000 gp;**Weight** 3 lbs.
+**Aura** moderate Dark; **CL** 10th
+**Slot** hands; **Price** 36,000 gp; **Weight** 3 lbs.
 This pitch-black glove has even darker runes etched into the fabric, although the entire glove is so black to begin with that they are nearly impossible for creatures to make out. Once per day, by shouting this item’s name as a standard action, a creature wearing this item can transform into darkness (as the Dark sphere One With The Void advanced talent) for 1 minute per caster level. Creatures that attack you while you are in an area of darkness must roll twice and take the worse result. This effect can be ended as a swift action, as described in that talent.
 
 A mythic creature can expend one use of mythic power while activating this item to also apply the effects of the Dark sphere Edge Of NightJHB talent to their shadowy form.
 
-**Flask Shard Effect:** Increase the caster level to the next increment of 4, and increase the number of uses per day by 1.**Flask Shard Limit:** +2
+**Flask Shard Effect:** Increase the caster level to the next increment of 4, and increase the number of uses per day by 1. **Flask Shard Limit:** +2
 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Dark sphere (Edge Of Night (darkness), One With The Void (advanced), Step Through Darkness (meld)); **Cost** 18,000 gp
 
 ### Forward Momentum [MCS]
 
-**Aura**weak War;**CL** 2nd
-**Slot**feet;**Price**1,600 gp;**Weight** 6 lbs.
+**Aura** weak War; **CL** 2nd
+**Slot** feet; **Price** 1,600 gp; **Weight** 6 lbs.
 This set of durable shoes is emblazoned with marks denoting the glories of combat. Once a day, as a standard action, a creature can activate these boots to create a momentum pool with the effects of the War sphere Aggressive Momentum (momentum) talent. This pool’s size is equal to the forward momentum’s caster level plus its effective casting ability modifier (which is 1/2 its caster level), starting with three points. This momentum pool lasts for one hour per caster level and can only be refilled by reusing this item; creatures cannot spend spell points to refill it.
 
 A mythic creature may expend one use of mythic power when activating the forward momentum to increase the maximum size of this momentum pool by their tier.
 
-**Flask Shard Effect:** Increase the item’s caster level to the next increment of 5 and increase the number of uses per day by 1. Additional uses while the momentum pool is in effect raise it to its normal cap; any extra points are lost. At +2, this momentum pool also offers the effects of the War sphere Cooperative Momentum (momentum) talent (from The Warden by Drop Dead Studios). At +3, this momentum pool also offers the effects of the Damaging Momentum (momentum) talent. At +4, this momentum pool also offers the effects of the Marauding Momentum (momentum) talent.**Flask Shard Limit:** +4
+**Flask Shard Effect:** Increase the item’s caster level to the next increment of 5 and increase the number of uses per day by 1. Additional uses while the momentum pool is in effect raise it to its normal cap; any extra points are lost. At +2, this momentum pool also offers the effects of the War sphere Cooperative Momentum (momentum) talent (from The Warden by Drop Dead Studios). At +3, this momentum pool also offers the effects of the Damaging Momentum (momentum) talent. At +4, this momentum pool also offers the effects of the Marauding Momentum (momentum) talent. **Flask Shard Limit:** +4
 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, War sphere (Aggressive Momentum (momentum), Cooperative Momentum (momentum), Damaging Momentum (momentum), Marauding Momentum (momentum)); **Cost** 800 gp
 
 ### Fusion Rings [MCS]
 
-**Aura**moderate Alteration;**CL** 8th
-**Slot**ring;**Price**25,600 gp;**Weight** 4 lbs.
+**Aura** moderate Alteration; **CL** 8th
+**Slot** ring; **Price** 25,600 gp; **Weight** 4 lbs.
 These rings come in a variety of shapes and styles, but always come in pairs and must be worn by two different creatures. If the wearers of a pair of fusion rings are adjacent to each other and activate them at the same time (either with one creature using a readied action and the other creature using a standard action, or both creatures using readied actions together), they can fuse for eight minutes as the Alteration sphere Fusion advanced talent. Both creatures must be actively willing to use these items; if either creature is under the control of a mind-affecting talent or does not otherwise genuinely want to fuse with the other creature, the fusion rings automatically fail. If fusion rings are used by two mythic creatures, they may choose to average out their mythic power at the end of the fusion so that each of them end up with the same amount of power (if any power would be leftover, it is lost).
 
 **Construction Requirements**
@@ -2764,8 +2764,8 @@ Craft Marvelous Item, Mythic Crafter, Alteration sphere (Fusion (advanced), Mass
 
 ### Gatestone [MCS]
 
-**Aura**overwhelming Warp;**CL** 21st
-**Slot**none;**Price**176,400 gp;**Weight** 3 lbs.
+**Aura** overwhelming Warp; **CL** 21st
+**Slot** none; **Price** 176,400 gp; **Weight** 3 lbs.
 This carved crystal appears to have a circular hole in the middle that goes deeper than its size could possibly allow, regardless of which angle the viewer looks at it from. Once per day a creature can use a gatestone to create a portal (as the Warp sphere Portal advanced talent) leading to any destination not protected from planar travel. The user must have some idea of their destination, as described in the Warp sphere True Teleport advanced talent (and augmented by the Universal Teleport advanced talent for its accuracy), but this destination can otherwise be on any plane. The portal created remains for 21 hours unless dispelled or otherwise negated.
 
 A mythic creature can expend one use of mythic power while activating a gatestone to restrict travel such that it can only move one direction. Anything that goes even partially through such a one-way portal is sucked entirely through; anything too large to fit through the portal does not cross through at all.
@@ -2775,8 +2775,8 @@ Craft Marvelous Item, Mythic Crafter, Warp sphere (Distant Teleport, Enduring Po
 
 ### Marks Of Command [MCS]
 
-**Aura**faint Mana;**CL** 15th
-**Slot**hands;**Price**75,000 gp;**Weight** -
+**Aura** faint Mana; **CL** 15th
+**Slot** hands; **Price** 75,000 gp; **Weight** -
 These marks appear as three colored tattoos on the back of the user’s hand, often in a design unique to the bearer. As an action whose type is determined by the effect used, a creature with the marks of command can activate them to grant one of the following effects to an ally within close range (25 feet + 5 feet per two character levels):
 
 - Increase their next attack roll by three times the user’s tier (standard action)
@@ -2795,23 +2795,23 @@ Inscribe Magical Tattoo, Mythic Crafter, Life sphere, Mana sphere, Time sphere, 
 
 ### Modifying Grip [MCS]
 
-**Aura**strong Creation;**CL** 15th
-**Slot**special, see text;**Price**36,000 gp;**Weight** 1 lb.
+**Aura** strong Creation; **CL** 15th
+**Slot** special, see text; **Price** 36,000 gp; **Weight** 1 lb.
 This item can be attached to the grip of any weapon, such as the end of a spear or the inside of a gauntlet. Once per day, as a standard action, a creature can activate a modifying grip to envelop the weapon it’s attached to with adamantine, cold iron, or silver for 15 rounds. This functionally replaces the normal material the weapon is made out of.
 
 A mythic creature may expend one use of mythic power when activating this item to instead envelop the weapon in planar energies matching their alignment (except neutral; see below), although this reduces the duration to 5 rounds. For example, if a chaotic good creature uses this effect, their weapon would be enveloped in the powers of chaos and good. This transforms all of the damage the weapon would deal into energy of that type (and this is applied after all other modifiers), or half of each type if the weapon has two types of damage. These planar energies deal 50% more damage to creatures of the opposite alignment, regular damage to creatures in-between, and 50% less damage to creatures with the same alignment. The user may replace any neutral component in their alignment with acid, cold, electricity, fire, or sonic damage. For example, a lawful neutral character could envelop their weapon in lawful and acid energies, doing half of each type. These changes never harm the weapon or the user.
 
 A creature cannot use the foe-biting effect on any attack made with a modifying grip, nor any other effects similar to foe-biting.
 
-**Flask Shard Effect:** Increase the number of uses per day by 1.**Flask Shard Limit:** +2
+**Flask Shard Effect:** Increase the number of uses per day by 1. **Flask Shard Limit:** +2
 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Creation sphere (Change Material (alter), Expanded Materials (material), Mythical Material Maker (advanced, material)); **Cost** 18,000 gp
 
 ### Resurrection Sphere [MCS]
 
-**Aura**strong Life;**CL** 20th
-**Slot**none;**Price**720,000 gp;**Weight** 3 lbs.
+**Aura** strong Life; **CL** 20th
+**Slot** none; **Price** 720,000 gp; **Weight** 3 lbs.
 Resurrection spheres are among the most-prized magical items in existence. Although not actually artifacts, the sheer time and cost of creating them keeps them out of the hands of all but the wealthiest and most well-connected individuals. By spending one minute to activate it, the holder of a resurrection sphere can use it to bring one creature within 75 feet back to life, as the effects of the Life sphere Resurrection and Supreme Resurrection advanced talents. This counts as using miracle or wish for the purpose of effects that require using those spells to revive a creature. By expending five uses of mythic power and one minute to activate the resurrection sphere, a mythic user can instead revive up to 20 creatures within 75 feet.
 
 **Construction Requirements**
@@ -2819,39 +2819,39 @@ Craft Marvelous Item, Mythic Crafter, Life sphere (Break Enchantment, Greater Re
 
 ### Seed Of Life [MCS]
 
-**Aura**moderate Nature;**CL** 10th
-**Slot**none;**Price**28,000 gp;**Weight** 1/10 lb.
+**Aura** moderate Nature; **CL** 10th
+**Slot** none; **Price** 28,000 gp; **Weight** 1/10 lb.
 This tiny seed contains a truly enormous amount of natural energies. Once a day, as a standard action, a creature can place a seed of life within a sufficiently-large area of natural elements and create an elemental from it. This functions as the Nature sphere Zoetic Geomancy advanced talent. The seed of life is aware of the user’s intent and will always use the correct element it is in contact with. The seed is not consumed when creating an elemental and can be retrieved afterward. A mythic creature can expend one use of mythic power while activating this item to combine two elements when creating a geomancy- born elemental. Elementals created this way can change between being of either element as a swift action, which may change their statistics (except for their hit points, which should stay as whatever is determined by the form they started in).
 
-**Flask Shard Effect:** Increase the number of uses per day by 1.**Flask Shard Limit:** +2
+**Flask Shard Effect:** Increase the number of uses per day by 1. **Flask Shard Limit:** +2
 
 **Construction Requirements**
 Craft Wondrous Item, Mythic Crafter, Nature sphere (Deep Nature, Zoetic Geomancy); **Cost** 14,000 gp
 
 ### Wand Of False Reality [MCS]
 
-**Aura**moderate Illusion;**CL** 6th
-**Slot**none;**Price**14,400 gp;**Weight** 2 lbs.
+**Aura** moderate Illusion; **CL** 6th
+**Slot** none; **Price** 14,400 gp; **Weight** 2 lbs.
 This slender wand occasionally changes shape, appearing to be made of different materials, a different design, or even a different length from the last time somebody looked at it. Once per day, as a standard action, a creature can activate a wand of false reality to create a blur in reality that wards off attacks and effects by imposing a 50% miss chance on anything that passes through it. This functions as using the Illusion sphere Blur (glamer) talent to create a 5-foot cube of affected space within close range (25 feet + 5 feet per 2 caster levels), with the additional effect of the Spell Disruption advanced talent. The blur in reality lasts for 1 round per caster level.
 
 A mythic creature can expend one use of mythic power when activating this item to affect one additional 5-foot cube of space per tier. All affected spaces must be connected and within close range, but can otherwise take any shape. When a creature expends mythic power this way, the maximum miss chance of this item increases to 75% (and improves as described in the Blur (glamer) talent).
 
-**Flask Shard Effect:** Increase the caster level to the next increment of 5, and increase the uses per day by 1. A wand of false reality cannot create more than one blur in reality at a time, and using it while an existing effect exists will erase the previous one.**Flask Shard Limit:** +3
+**Flask Shard Effect:** Increase the caster level to the next increment of 5, and increase the uses per day by 1. A wand of false reality cannot create more than one blur in reality at a time, and using it while an existing effect exists will erase the previous one. **Flask Shard Limit:** +3
 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Illusion sphere (Blur (glamer), Manipulate Aura (sensory, magic), Spell Disruption (advanced)); **Cost** 7,200 gp
 
 ### White Dwarf [MCS]
 
-**Aura**moderate Light;**CL** 10th
-**Slot**none;**Price**36,000 gp;**Weight** 4 lbs.
+**Aura** moderate Light; **CL** 10th
+**Slot** none; **Price** 36,000 gp; **Weight** 4 lbs.
 This hooded iron lantern seems drab and dull at first. However, once per day, a creature can activate the lantern as a standard action and create a tiny star within it. This sheds bright light in a radius of 55 feet that qualifies as daylight for all purposes, including damaging or destroying creatures harmed by daylight. In addition, it sheds regular bright light for another 55 feet (totaling 110 feet of bright light), and normal light for another 110 feet beyond that. The star remains for 10 minutes before snuffing itself out.
 
 A mythic creature may expend one use of mythic power when activating a white dwarf to have it shed daylight in a two mile radius for one round, after which it sheds light as normal while activated. Any creature (except the user) looking towards a white dwarf when it is activated with mythic power must succeed at a Reflex save (DC 10 + 1/2 the user’s character level + the user’s highest mental ability modifier + the user’s tier) or be permanently blinded. This is a visual effect and does not work on any creature that cannot see. Any effect with the darkness descriptor (including all effects of the Dark sphere) in range of this enhanced light is automatically dispelled unless its caster level is higher than the user’s caster level plus their mythic tier. Darkness effects created by mythic creatures add their creator’s tier to their caster level to determine if they are dispelled by this effect.
 
 In addition to its primary effects, a user may have a white dwarf shed normal light in a radius of 30 feet by speaking a command word; repeating the command word turns it off, but this light can otherwise last indefinitely.
 
-**Flask Shard Effect:** Increase the number of uses per day by 1.**Flask Shard Limit:** +2
+**Flask Shard Effect:** Increase the number of uses per day by 1. **Flask Shard Limit:** +2
 
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Light sphere (Intensity Control, Star Genesis (advanced)); **Cost** 18,000 gp

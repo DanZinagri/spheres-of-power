@@ -58,7 +58,7 @@ You may target food but not an already-magical item, such as a potion. All spell
 
 #### Lingering Time [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When you use a time ability that requires concentration, the ability continues to maintain itself for 2 rounds after you stop concentrating.
 
@@ -267,7 +267,7 @@ If you possess the Fate sphere and the Declare Fate talent, you may spend 2 addi
 | Standard Action | d8 |
 | Full-Round Action | d10 |
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Improved Eject (time)
 
@@ -325,7 +325,7 @@ We also encourage players planning to use this ability on themselves to choose a
 
 You adjust a target’s readiness to act. The target must succeed on a Will save or reroll their initiative, acting on this new initiative count on any future combat rounds this encounter (this does not affect their position in initiative during the current combat round). If you spend a spell point, the target must roll twice on initiative and take the lower result.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Temporal Haste
 

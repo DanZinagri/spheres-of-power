@@ -12,21 +12,21 @@ Golden scales cover the body of this majestic dragon, and a regal crest of horns
 **Mythic Great Wyrm Gold Dragon (CR 28/MR 10)**
 XP 4,915,200
 LG Colossal dragon (fire, mythic)
-**Init**–2/–22, dual initiativeMA;**Senses** dragon senses; Perception +43
+**Init** –2/–22, dual initiativeMA; **Senses** dragon senses; Perception +43
 **Aura** fire (10 ft., 2d6 fire), frightful presence (360 ft., DC 33)
 
 #### Defense
 
-**AC**50,**touch**0,**flat-footed** 50 (–2 Dex, +50 natural, –8 size)
+**AC** 50, **touch** 0, **flat-footed** 50 (–2 Dex, +50 natural, –8 size)
 **hp** 655 (30d12+460)
-**Fort**+29,**Ref**+15,**Will** +27, second saveMA
-**Defensive Abilities**draconic fortitudeMA, glittering scalesMA, impenetrable scalesMA, indomitable willMA; DR 25/—;**Immune**fire, paralysis, sleep;**SR** 44
+**Fort** +29, **Ref** +15, **Will** +27, second saveMA
+**Defensive Abilities** draconic fortitudeMA, glittering scalesMA, impenetrable scalesMA, indomitable willMA; DR 25/—; **Immune** fire, paralysis, sleep; **SR** 44
 
 #### Offense
 
 **Speed** 60 ft., fly 300 ft. (clumsy), swim 60 ft.
 **Melee** bite +40 (4d8+27/19–20), 2 claws +40 (4d6+18/19–20), 2 wings +38 (2d8+9/19-20), tail +38 (4d6+27)
-**Space**30 ft.;**Reach** 20 ft. (30 ft. with bite)
+**Space** 30 ft.; **Reach** 20 ft. (30 ft. with bite)
 **Special Attacks** breath weapon (70-ft. cone, DC 37, 24d10 fire), crush (DC 37, 4d8+27), debilitating breathMA, fires of heavenMA, mythic drainMA, mythic power (10/day, surge +1d12) , tail sweep (DC 36, 2d8+27), weakening breath
 
 **Spell-Like Abilities** (CL 30th; concentration +38)
@@ -46,8 +46,8 @@ At will—bless, daylight, detect evil, foresight, geas/quest, sunburst (DC 26)
 
 #### Statistics
 
-**Str**47,**Dex**6,**Con**35,**Int**26,**Wis**27,**Cha** 26
-**Base Atk**+30;**CMB**+56;**CMD** 64 (68 vs. trip)
+**Str** 47, **Dex** 6, **Con** 35, **Int** 26, **Wis** 27, **Cha** 26
+**Base Atk** +30; **CMB** +56; **CMD** 64 (68 vs. trip)
 **Feats** Alertness, Critical FocusMF, Dazing Spell, Extend Spell, Improved Critical (bite, claw, wing), Iron Will, Multiattack, Mythic Spell LoreMF, Negation BreathMF, Persistent Spell, Power AttackMF, Quicken Spell, Staggering Critical, Stunning Critical, Suppress VulnerabilityMF, Vital Strike
 **Skills** Diplomacy +41, Fly +15, Heal +41, Knowledge (arcana, geography, history, local, nobility, planes, religion) +41, Perception +45, Sense Motive +45, Spellcraft +41, Swim +57
 **Languages** Abyssal, Celestial, Common, Draconic, Dwarven, Elven, Giant, Infernal

@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (G)]]"
 XP 25,600
 Pathfinder Roleplaying Game Bestiary (variant gelatinous cube)
 N Large ooze (mythic)
-**Init**+4MF;**Senses** blindsight 60 ft.; Perception +1
+**Init** +4MF; **Senses** blindsight 60 ft.; Perception +1
 
 #### Defense
 
-**AC**13,**touch**4,**flat-footed** 13 (+4 armor, –5 Dex, +5 natural, –1 size)
+**AC** 13, **touch** 4, **flat-footed** 13 (+4 armor, –5 Dex, +5 natural, –1 size)
 **hp** 238 (13d8+180)
-**Fort**+14,**Ref**–1,**Will** +10; ; +4 vs. petrification, polymorph, and transmutation effects
-**Defensive Abilities** **Immune**electricity, ooze traits;**Resist**acid 10;**SR** 24
+**Fort** +14, **Ref** –1, **Will** +10; ; +4 vs. petrification, polymorph, and transmutation effects
+**Defensive Abilities** **Immune** electricity, ooze traits; **Resist** acid 10; **SR** 24
 
 #### Offense
 
 **Speed** 10 ft.
 **Melee** slam +8 (1d6+1 plus 1d6 acid and paralysis)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** command oozesMA, engulf (DC 18, 1d6 acid and paralysis), mind meldMA, mythic power (7/day, surge 1d8), paralysis (3d6 rounds, DC 28)
 
 **Bloodline Spell-Like Abilities** (CL 10th; concentration +18)
@@ -42,8 +42,8 @@ At will—reality wrinkle (10 rounds per day)
 
 #### Statistics
 
-**Str**13,**Dex**1,**Con**30,**Int**12,**Wis**12,**Cha** 26
-**Base Atk**+8;**CMB**+10;**CMD** 15
+**Str** 13, **Dex** 1, **Con** 30, **Int** 12, **Wis** 12, **Cha** 26
+**Base Atk** +8; **CMB** +10; **CMD** 15
 **Feats** Ability Focus (paralysis), Arcane StrikeMF, Eschew Materials, Extra Mythic Power, Improved InitiativeMF, Intensify Spell, Lunge, Silent Spell, Still Spell, ToughnessB
 **Skills** Fly +5, Knowledge (arcana) +10, Knowledge (dungeoneering) +5, Knowledge (planes) +5, Linguistics +3, Spellcraft +14, Use Magic Device +18
 **Languages** Aklo, Common, Protean (can’t speak)

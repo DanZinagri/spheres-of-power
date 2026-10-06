@@ -42,7 +42,7 @@ Many bloodline arcanas do not function correctly when using the Spheres of Power
 
 #### Bloodline Armaments [Apoc]
 
-**Source:** [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)
+*Source: [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)*
 
 **Prerequisite:** Sorcerer bloodline class feature.
 
@@ -52,7 +52,7 @@ In addition, while using any sorcerer bloodline power that would grant natural a
 
 #### Bloodline Prowess [Apoc]
 
-**Source:** [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)
+*Source: [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)*
 
 **Prerequisite:** Sorcerer bloodline class feature.
 

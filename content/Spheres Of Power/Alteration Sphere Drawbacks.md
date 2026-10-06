@@ -11,32 +11,32 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Beast Soul
+#### Beast Soul
 
 You cannot bestow the Blank Transformation, including through the Anthropomorphic Transformation talent. You must select a (transformation) talent with the bonus talent gained from this drawback.
 
-## Fleshwarper
+#### Fleshwarper
 
 You may not target yourself with shapeshift.
 
 **Incompatible:** Lycanthropic
 
-## Lycanthropic
+#### Lycanthropic
 
 You can only target yourself with your shapeshift ability. You cannot gain the Mass Alteration nor Ranged Alteration talents.
 
 **Incompatible:** Fleshwarper, Rebound
 
-## Rebound
+#### Rebound
 
 If an unwilling creature succeeds on a save to resist your shapeshift effect, you must save against the same effect at the same DC. On a failed save, you receive all the traits and forms you would have granted the target. This effect lasts for 1d4 rounds. You must select Animal Mind or Twisted Shapeshift with the bonus talent gained from this drawback.
 
 **Incompatible:** Lycanthropic
 
-## Transformative Brew
+#### Transformative Brew
 
 You must select the Instill Shapeshift talent with the bonus talent granted by this drawback, and you can only use your Alteration sphere abilities through this talent.
 
-## Unnatural Transformation
+#### Unnatural Transformation
 
 Creatures under the effect of your shapeshift bear irrepressible signs (coloration, visual aura, glowing sigil or similar) of their true identity. Your shapeshift never grants a bonus to Disguise checks due to the obviously unnatural nature of the transformation. When touched by silver (such as being hit with a silver weapon or even touched by a silver piece) a creature under the effect of your shapeshift must attempt a Will save with a DC equal 5 + any damage dealt or have the shapeshift end immediately.

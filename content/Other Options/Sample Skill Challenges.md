@@ -129,19 +129,19 @@ XP 1,200
 
 **OBSTACLES**
 **1 Square+** The bridge sways irregularly in the unchecked breeze, threatening to topple the PCs over.
-**Type**hazard;**Notice** Survival (easy, DC 15)
+**Type** hazard; **Notice** Survival (easy, DC 15)
 **Bypass Skills** Acrobatics (easy, DC 15)
 **SQ** specific skills
 **Effect** difficult terrain and target falls prone; DC 20 Reflex avoids the prone condition
 
 **5 Squares** The bridge’s planks are unstable, and threaten to give out under the PCs as they make their way across.
-**Type**peril;**Notice** Craft (carpentry) (easy, DC 15), Knowledge (engineering) (easy, DC 15), Perception (average, DC 20), Profession (architect) (easy, DC 15)
+**Type** peril; **Notice** Craft (carpentry) (easy, DC 15), Knowledge (engineering) (easy, DC 15), Perception (average, DC 20), Profession (architect) (easy, DC 15)
 **Bypass Skills** Craft (carpentry) (average, DC 20), Knowledge (engineering) (average, DC 20); Secondary Skills (challenging, DC 22)
 **SQ** individual completion, trap-like
 **Effect** 80-ft.-deep pit (8d6 damage); DC 20 Reflex avoids; multiple targets (all targets with a square count of 1)
 
 **10 Squares** The bridge’s planks are unstable, and threaten to give out under the PCs as they make their way across.
-**Type**peril;**Notice** Craft (carpentry) (easy, DC 15), Knowledge (engineering) (easy, DC 15), Perception (average, DC 20), Profession (architect) (easy, DC 15)
+**Type** peril; **Notice** Craft (carpentry) (easy, DC 15), Knowledge (engineering) (easy, DC 15), Perception (average, DC 20), Profession (architect) (easy, DC 15)
 **Bypass Skills** Craft (carpentry) (average, DC 20), Knowledge (engineering) (average, DC 20); Secondary Skills (challenging, DC 25)
 **SQ** individual completion, trap-like
 **Effect** 80-ft.-deep pit (8d6 damage); DC 20 Reflex avoids; multiple targets (all targets with a square count of 1)
@@ -222,24 +222,24 @@ XP 4,800
 
 **OBSTACLES**
 **1 Square+** The maze that the PCs are traversing is alive, and must be outwitted at every turn..
-**Type**hazard;**Notice** Knowledge (arcana) (challenging, DC 27), Knowledge (geography) (average, DC 25), Perception (difficult, DC 30)
-**Bypass Skills**Knowledge (arcana) (challenging, DC 27), Knowledge (geography) (average, DC 25), Perception (difficult, DC 30);**Secondary Skills** very difficult, DC 32
+**Type** hazard; **Notice** Knowledge (arcana) (challenging, DC 27), Knowledge (geography) (average, DC 25), Perception (difficult, DC 30)
+**Bypass Skills** Knowledge (arcana) (challenging, DC 27), Knowledge (geography) (average, DC 25), Perception (difficult, DC 30); **Secondary Skills** very difficult, DC 32
 **SQ** critical fumble
 **Effect** Failure indicates that the character does not earn any squares towards clearing the skill challenge this cycle.
 
 **10 Squares** The maze rips an interdimensional hole in itself to whisk the PCs back to the beginning of the maze.
-**Type**peril;**Notice** Knowledge (arcana) (challenging, DC 27), Perception (difficult, DC 30), Spellcraft (average, DC 25)
+**Type** peril; **Notice** Knowledge (arcana) (challenging, DC 27), Perception (difficult, DC 30), Spellcraft (average, DC 25)
 **Bypass Skills** Knowledge (arcana) (challenging, DC 27), Knowledge (geography) (average, DC 25), Perception (difficult, DC 30); Secondary Skills very difficult, DC 32
 **SQ** limited occurrence (1)
 **Effect** Spell (plane shift, CL 12th); DC 16 Will avoids; multiple targets (all targets with a square count of 10); characters that fail their saving throw have their square count reduced to 0.
 
 **15 Squares** The maze creates stone guardians to attempt to stop the PCs from advancing any further.
-**Type**peril;**Notice** Knowledge (arcana) (challenging, DC 27), Perception (difficult, DC 30), Spellcraft (average, DC 25)
+**Type** peril; **Notice** Knowledge (arcana) (challenging, DC 27), Perception (difficult, DC 30), Spellcraft (average, DC 25)
 **SQ** limited occurrence (1), unavoidable
 **Effect** Creature (1 huge earth elemental; Pathfinder Roleplaying Game: Bestiary 1) The elemental automatically succeeds on all skill checks to bypass obstacles and gain advantage, and attempts to knock the PCs unconscious so it can drag them back to square count 0.
 
 **18 Squares** The maze seals its exit with a massive stone wall.
-**Type**obstruction;**Notice** Knowledge (arcana) (challenging, DC 27), Perception (difficult, DC 30), Spellcraft (average, DC 25)
+**Type** obstruction; **Notice** Knowledge (arcana) (challenging, DC 27), Perception (difficult, DC 30), Spellcraft (average, DC 25)
 **Bypass Skills** Climb (average, DC 25); Secondary Skills challenging, DC 27
 **Effect** Blockade (hardness 8, 90 hp, 2 successes to bypass)
 
@@ -354,30 +354,30 @@ XP 25,600
 **Effect** hazard; The obstacle acts as a CR 7 avalanche (see the mountainous terrain section of Chapter 13 in Pathfinder Roleplaying Game: Core Rulebook). Characters with a square count of 1 or higher are in the slide zone, while characters who have a square count of 0 are in the bury zone. Failing to bypass the obstacle forces characters to attempt the DC 15 Reflex save to reduce or avoid the damage dealt by the avalanche, and such characters may become buried. Characters who aren’t buried can dig out their allies as a full-cycle action if using only their hands, or a cycle action if using an appropriate tool, such as a pick, crowbar, or shovel. A buried character can also spend a half-cycle action to free herself with a DC 25 Strength check.
 
 **10 Squares** The jingushigami uses its control plants spell-like ability to temporarily command a number of plant creatures in the area to impede the PCs.
-**Type**peril;**Notice** Knowledge (nature) (easy, DC 28),
+**Type** peril; **Notice** Knowledge (nature) (easy, DC 28),
 **Spellcraft** (easy, DC 28)
 **SQ** limited occurrence (3)
 **Bypass Skills** Acrobatics (average, DC 33), Knowledge (nature) (average, DC 33), Perception (challenging, DC 35), Survival (challenging, DC 35)
 **Effect** Spell (entangle; CL 13th, Reflex DC 19)
 
 **45 Squares+** Frustrated by their advances, the jinushigami uses its manipulate terrain ability to make the mountain more difficult to traverse.
-**Type**hazard;**Notice** Knowledge (nature) (easy, DC 28)
+**Type** hazard; **Notice** Knowledge (nature) (easy, DC 28)
 **SQ** unavoidable
 **Effect** The skill challenge’s frequency increases to 10 minutes for the remainder of the skill challenge. In addition, characters using Survival to gain an advantage take a –10 penalty on their skill checks.
 
 **65 Squares+** Desperate to keep the PCs from reaching the top of the mountain, the jinushigami uses its merge with ward ability to help guide the avalanche.
-**Type**hazard;**Notice** Knowledge (nature) (easy, DC 28)
+**Type** hazard; **Notice** Knowledge (nature) (easy, DC 28)
 **SQ** unavoidable
 **Effect** The Reflex DC to reduce or avoid being buried by the avalanche (see square count 1) increases to DC 21.
 
 **85 Squares** Enraged, the jinushigami uses its earthquake spell-like ability to attempt to halt the PCs’ progress.
-**Type**peril;**Notice** Knowledge (nature) (easy, DC 28), Spellcraft (easy, DC 28)
+**Type** peril; **Notice** Knowledge (nature) (easy, DC 28), Spellcraft (easy, DC 28)
 **Bypass Skills** Acrobatics (average, DC 33), Knowledge (nature) (average, DC 33), Perception (challenging, DC 35), Survival (challenging, DC 35)
 **SQ** limited occurrence (3)
 **Effect** Spell (earthquake; CL 28th, Reflex DC 19)
 
 **99 Squares** Mere feet away from the shrine, the jinushigami emerges to confront the PCs.
-**Type**obstacle;**Notice** Sense Motive (easy, DC 28)
+**Type** obstacle; **Notice** Sense Motive (easy, DC 28)
 **Bypass Skills** Bluff (difficult, DC 38), Diplomacy (challenging, DC 35), Intimidate (very difficult, DC 40), Knowledge (history) (challenging, DC 35), Knowledge (local) (challenging, DC 35), or Knowledge (planes) (challenging, DC 35).
 **SQ** creature (one jinushigami), limited completion (1 primary participant, any number of assistants), limited occurrence (1)
 

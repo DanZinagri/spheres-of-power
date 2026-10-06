@@ -13,13 +13,13 @@ This hulking, roughly humanoid creature of dirt and stone explodes up from the e
 XP 600
 Pathfinder Roleplaying Game Bestiary
 N Small outsider (earth, elemental, extraplanar, mythic)
-**Init**–1;**Senses** darkvision 60 ft., tremorsense 60 ft.; Perception +4
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; Perception +4
 
 #### Defense
 
-**AC**18,**touch**10,**flat-footed** 18 (–1 Dex, +8 natural, +1 size)
+**AC** 18, **touch** 10, **flat-footed** 18 (–1 Dex, +8 natural, +1 size)
 **hp** 23 (2d10+12)
-**Fort**+4,**Ref**–1,**Will** +3
+**Fort** +4, **Ref** –1, **Will** +3
 **Immune** elemental traits
 
 #### Offense
@@ -30,8 +30,8 @@ N Small outsider (earth, elemental, extraplanar, mythic)
 
 #### Statistics
 
-**Str**16,**Dex**8,**Con**13,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+2;**CMB**+4 (+6 bull rush);**CMD** 13 (15 vs. bull rush)
+**Str** 16, **Dex** 8, **Con** 13, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +2; **CMB** +4 (+6 bull rush); **CMD** 13 (15 vs. bull rush)
 **Feats** Improved Bull RushB, Power AttackMF
 **Skills** Appraise +1, Climb +7, Knowledge (dungeoneering) +1, Knowledge (planes) +1, Perception +4, Stealth +7
 **Languages** Terran

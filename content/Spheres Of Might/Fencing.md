@@ -102,7 +102,7 @@ When dealing your Fencing sphere precision damage to a creature, you may expend 
 
 #### Substituting Feint [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Whenever you succeed at a feint against a creature, instead of denying them their Dexterity bonus to AC, you can either plant an item on the creature or trick the creature into accepting a one-handed object you are holding (as long as they have a free hand) as a free action.
 

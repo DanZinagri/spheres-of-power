@@ -20,8 +20,8 @@ It is possible to bundle multiple schematics into a single magic item known as a
 
 ### Ballad of the Lost Hero
 
-**Aura**moderate Protection;**CL** 5th
-**Slot**none;**Cost**11,402 gp;**Weight** 1 lb.
+**Aura** moderate Protection; **CL** 5th
+**Slot** none; **Cost** 11,402 gp; **Weight** 1 lb.
 
 This poem has spread across many nations and is often memorized by schoolchildren as an element of their heritage. Magical transcriptions of the ballad of the lost hero allow the user to craft a banner of the saints a single time.
 
@@ -30,8 +30,8 @@ Etch Schematic, Smith Magical Weapons And Armor, Craft Marvelous Item, Fate sphe
 
 ### Darubi’s Dimensional Construction Manual
 
-**Aura**strong Warp**CL** 12th;
-**Slot**none;**Price**108,000 gp;**Weight** 2 lbs.
+**Aura** strong Warp **CL** 12th;
+**Slot** none; **Price** 108,000 gp; **Weight** 2 lbs.
 
 These valuable tomes are often sold to wealthy patrons wishing to erect magical fortresses, providing guidance on how to create a variety of permanent extradimensional spaces. Darubi’s dimensional construction manual allows the user to craft a pocket dimension, greater pocket dimension, or portable room any number of times.
 

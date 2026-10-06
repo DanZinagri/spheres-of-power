@@ -13,20 +13,20 @@ A pair of brightly colored butterfly wings sprouts from the back of this miniatu
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 CG Tiny dragon (mythic)
-**Init**+3;**Senses** darkvision 60 ft., low-light vision; Perception +8
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; Perception +8
 
 #### Defense
 
-**AC**19,**touch**16,**flat-footed** 15 (+3 Dex, +1 dodge, +3 natural, +2 size)
+**AC** 19, **touch** 16, **flat-footed** 15 (+3 Dex, +1 dodge, +3 natural, +2 size)
 **hp** 32 (3d12+13)
-**Fort**+4,**Ref**+6,**Will** +5
-**Defensive Abilities** **Immune**paralysis, sleep;**SR** 14
+**Fort** +4, **Ref** +6, **Will** +5
+**Defensive Abilities** **Immune** paralysis, sleep; **SR** 14
 
 #### Offense
 
 **Speed** 10 ft., fly 60 ft. (perfect), swim 30 ft.
 **Melee** bite +4 (1d3–1 plus euphoriaMA)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** breath weapon (5-ft. cone, euphoria, Fort DC 12 negates, usable every 1d4 rounds), mythic magicMA (3/day), mythic power (3/day, surge +1d6)
 
 **Spell-Like Abilities** (CL 3rd; concentration +6)
@@ -38,8 +38,8 @@ CG Tiny dragon (mythic)
 
 #### Statistics
 
-**Str**9,**Dex**17,**Con**13,**Int**16,**Wis**14,**Cha** 16
-**Base Atk**+3;**CMB**+4;**CMD** 14 (18 vs. trip)
+**Str** 9, **Dex** 17, **Con** 13, **Int** 16, **Wis** 14, **Cha** 16
+**Base Atk** +3; **CMB** +4; **CMD** 14 (18 vs. trip)
 **Feats** Acrobatic, Dodge, Extra Mythic PowerMF
 **Skills** Acrobatics +8 (+0 when jumping), Bluff +9, Diplomacy +9, Fly +23, Perception +8, Sense Motive +8, Stealth +17, Swim +13, Use Magic Device +9
 **Languages** Common, Draconic, Elven, Sylvan; telepathy 100 ft.

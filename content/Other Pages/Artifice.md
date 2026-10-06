@@ -170,7 +170,7 @@ You can reveal a plan as a standard action to treat your familiarity with an obj
 
 #### Fundamental Expertise [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 The first function you apply to a trinket that is replicating an object from the same package does not count towards the total number of functions that can be applied to it. Additionally, it only takes 2 hours for you to add (or replace) a flourish to an object.
 
@@ -192,7 +192,7 @@ You use your ranks in the associated skill as your caster level for the purposes
 
 #### Meticulous Upkeep [plan] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 As a plan revealed as an immediate action, you can reveal that you had provided maintenance to a flourish.
 
@@ -246,7 +246,7 @@ You can take this talent an additional time for every 10 ranks you possess in th
 
 #### Abstract Design (artwork, flourish) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You gain the following *artworks*:
 
@@ -258,7 +258,7 @@ On a successful save, such d% rolls they are subject to are subtracted by 10% (m
 
 #### Aesthetic Artifice (artwork, flourish) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You unlock skill leverage with one of the skills listed below. Additionally, you gain the following benefits if you have unlocked skill leverage with the appropriate skill (as listed below):
 
@@ -292,7 +292,7 @@ If you have the (gear) package, this flourish does not count towards the total n
 
 #### Armament Modder (flourish, gear) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You can apply armor and weapon modifications as flourishes at no additional cost (*Adventurer’s Armory 2*). Weapons and armor granted a modification with this talent are no longer treated as being one category more difficult to wield and do not impart penalties to the wearer (for weapon and armor modifications respectively).
 
@@ -332,7 +332,7 @@ If the object already has a range increment (such as a splash weapon), you must 
 
 #### Emotive Styles (artwork, flourish) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You gain the following *artworks*:
 
@@ -359,7 +359,7 @@ If you have the Tug The Heartstrings feat, creatures that engage with the artwor
 
 #### Functional Artifice (fabrication, flourish, gear) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You unlock skill leverage with one of the skills listed below. Additionally, you gain access to the following flourishes if you have unlocked skill leverage with the appropriate Craft skill.
 
@@ -408,7 +408,7 @@ The artwork loses 1 stored use of skill leverage every 24 hours. If it does not 
 
 #### Martial Artifice (flourish, gear) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You unlock skill leverage with one of the Craft skills listed below. Additionally, you gain access to the following flourishes if you have unlocked skill leverage with the appropriate Craft skill.
 
@@ -436,7 +436,7 @@ If this flourish receives special maintenance, whenever the wearer is subject to
 
 #### Precious Material Refinement (flourish, gear) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 As a flourish, you improve a special material that the item is primarily made of. If a benefit relies on a ‘weight category’ of a weapon, shield, or set of armor, use the following categories: light armor, buckler, light shield, light weapon > medium armor, heavy shield, one-handed weapon > heavy armor, tower shield, two-handed weapon. The weight category of an object is not affected by effects that change how heavy or light it is (mithral full plate is still considered heavy armor for this talent's benefits).
 
@@ -490,7 +490,7 @@ Additionally, if such a material has an ability that requires a saving throw, us
 
 #### Refined Arms (flourish, gear) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You gain the following *flourishes*:
 
@@ -536,7 +536,7 @@ You can augment items that store or reinforce things. Choose from one of the fol
 
 #### Vehicle Improvements (fabrication, flourish) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You gain the following flourishes that can be applied to vehicles (*Ultimate Combat*).
 
@@ -581,7 +581,7 @@ If this is added to a trinket replicating an alchemical weapon, the chosen optio
 
 #### Clear Interpretations (artwork, function) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You gain the following function:
 
@@ -634,7 +634,7 @@ You can also choose to make the weapon fragile (Pathfinder Roleplaying Game: Ult
 
 #### Integrity Shifter (fabrication, function) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 You gain the following function:
 
@@ -675,7 +675,7 @@ Additionally, you can grant one of the following additions to the cover, plus on
 
 #### Alchemical Replication (function, gear) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Artifice sphere ((gear) package).
 
@@ -691,7 +691,7 @@ When applying this function, you can choose to reduce the light it produces, as 
 
 #### Artistic Transportation (artwork, flourish) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Artifice sphere, Craft (books, carpentry, cloth, glass, jewelry, paintings, pottery, sculptures, or stonemasonry) 10 ranks.
 
@@ -705,7 +705,7 @@ You can choose this talent a second time–if you do, you can choose a location 
 
 #### Bizarre Artistry (artwork) (Su) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Associated skill 5 ranks, Artifice sphere ((artwork) package).
 
@@ -746,7 +746,7 @@ At 12 ranks in the associated skill, the time required to craft a magical item i
 
 #### Marvelous Material Refinement [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Associated skill 10 ranks, Artifice sphere (Precious Material Refinement).
 
@@ -808,7 +808,7 @@ You also do not increase the craft DC of a trinket due to its size.
 
 #### Natural Artifice (flourish) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Craft (carpentry, cloth, glass, leather, or stonemasonry) 5 ranks, Artifice sphere.
 
@@ -879,7 +879,7 @@ You gain an item creation feat you qualify for which you may only use with the M
 
 #### Symbologist (artwork, flourish) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Artistry (literature) or Craft (books, calligraphy, or tattoos) 5 ranks, Artifice sphere.
 

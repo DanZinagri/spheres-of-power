@@ -14,13 +14,13 @@ The Sniper is a first-level sample character for Spheres of Might - created by a
 **The Sniper**
 Human [[Conscript|conscript]] 1
 N Medium humanoid (human)
-**Init**+6;**Senses** Perception +6
+**Init** +6; **Senses** Perception +6
 
 ## Defense
 
-**AC**18,**touch**15,**flat-footed** 13 (+5 Dex, +3 armor)
+**AC** 18, **touch** 15, **flat-footed** 13 (+5 Dex, +3 armor)
 **hp** 11 (1d10+1)
-**Fort**+3,**Ref**+7,**Will** +2
+**Fort** +3, **Ref** +7, **Will** +2
 
 ## Offense
 
@@ -33,8 +33,8 @@ N Medium humanoid (human)
 
 ## Statistics
 
-**Str**8,**Dex**20,**Con**12,**Int**10,**Wis**14,**Cha** 8
-**Base Atk**+1;**CMB**+0;**CMD** 15
+**Str** 8, **Dex** 20, **Con** 12, **Int** 10, **Wis** 14, **Cha** 8
+**Base Atk** +1; **CMB** +0; **CMD** 15
 **Feats** Crossbow Mastery, Extra Combat Talent, Weapon Focus (heavy crossbow)
 **Traits** Ambush Training, Armor Master
 **Skills** Climb +3, Disable Device +9, Knowledge (local) +4, Knowledge (nature) +4, Perception +6, Stealth +9, Survival +6 [Disable Device, Knowledge (nature), and Stealth were chosen as additional class skills]
@@ -54,7 +54,7 @@ Some talents are marked (blitz). You may apply a maximum of one (blitz) per extr
 
 **Combat Training (Ex)** A conscript may combine combat spheres and talents to create powerful martial techniques. Conscripts are considered Adept combatants, and in this Wisdom is chosen as your practitioner modifier. Characters with combat talents can gain martial focus. They can expend this focus as part of making a roll to “take 13” on any Fortitude or Reflex save. You can also expend martial focus to use Deadly Shot (see below). Focus can always be regained by taking the total defense action; you can (and usually will) also use Focusing Reload to regain focus (see below).
 
-**Equipment: Expert Reloading**and**Crossbow Mastery** You may reload any type of crossbow as a free action, and do not provoke attacks of opportunity when reloading any crossbow. The feat prerequisites for the Crossbow Mastery feat are met by the Barrage sphere and Expert Reloading. Associated Feat: Rapid Reload.
+**Equipment: Expert Reloading** and **Crossbow Mastery** You may reload any type of crossbow as a free action, and do not provoke attacks of opportunity when reloading any crossbow. The feat prerequisites for the Crossbow Mastery feat are met by the Barrage sphere and Expert Reloading. Associated Feat: Rapid Reload.
 
 **Equipment: Huntsman Training** You gain proficiency with the atlatl, bolas, boomerang, handaxe, harpoon, longbow, net, shortbow, throwing axe, and tube arrow shooter. In addition, you only suffer a –1 penalty per full range increment between you and your target when using a ranged weapon. Associated Feat: Far Shot.
 

@@ -11,13 +11,13 @@ The first rule of the greenrunner is to never stop moving. Death is a state of b
 
 This archetype requires [[Sphere Hunter|sphere hunter]].
 
-### Combat Training (Ex)
+## Combat Training (Ex)
 
 A greenrunner is considered an Adept practitioner, gaining spheres and talents as appropriate. A greenrunner uses her casting ability modifier as her practitioner modifier.
 
 This replaces teamwork feats and hunter tactics.
 
-### Animal Companion (Ex)
+## Animal Companion (Ex)
 
 At 1st level, the greenrunner gains the Beastmastery sphere as a bonus sphere. She must select the (handle animal) package. If she already possesses the Beastmastery sphere, but not the (handle animal) package, she gains that package, and if that package is already possessed, she gains a talent from that sphere as a bonus talent. The greenrunner uses her class level as her base attack bonus with this sphere to determine its effects, but not for attack rolls.
 
@@ -25,13 +25,13 @@ The greenrunner also gains the animal companion talent of the Beastmastery spher
 
 A greenrunner may teach her companion hunter’s tricks from the skirmisher ranger archetype as a standard hunter can. This alters the animal companion class feature.
 
-### Handler
+## Handler
 
 At 1st level, the greenrunner gains Animal Empathy from the Beastmastery sphere as a bonus talent.
 
 This replaces wild empathy.
 
-### Shared Magic (Ex)
+## Shared Magic (Ex)
 
 At 2nd level, as long as her animal companion is within line of sight, the greenrunner may treat them as being in range of any of her sphere abilities that target one creature. In addition, whenever the greenrunner uses such an ability on herself, she may spend a spell point as a free action to have it affect her animal companion as well.
 

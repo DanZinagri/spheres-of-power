@@ -13,15 +13,15 @@ This elegantly armored sentinel stands alert, her eyes radiating divine light an
 XP 76,800
 Pathfinder Roleplaying Game Bestiary
 CG Medium outsider (azata, chaotic, extraplanar, good, mythic, shapechanger)
-**Init**+5;**Senses** darkvision 60 ft., detect evil, low-light vision, see invisibility; Perception +21
+**Init** +5; **Senses** darkvision 60 ft., detect evil, low-light vision, see invisibility; Perception +21
 **Aura** beacon of hopeMA, holy aura (DC 23)
 
 #### Defense
 
 **AC** 34, touch 16, flat-footed 32 (+4 deflection, +1 Dex, +1 dodge, +18 natural)
 **hp** 196 (13d10+125)
-**Fort**+17,**Ref**+11,**Will** +17
-**Defensive Abilities**DR 10/cold iron, epic, and evil;**Immune**electricity, petrification;**Resist**cold 10, fire 10;**SR** 31
+**Fort** +17, **Ref** +11, **Will** +17
+**Defensive Abilities** DR 10/cold iron, epic, and evil; **Immune** electricity, petrification; **Resist** cold 10, fire 10; **SR** 31
 
 #### Offense
 
@@ -49,8 +49,8 @@ D: Domain spell; Domains(MA) Azata(APG), Liberation; MS: Mythic Spell
 
 #### Statistics
 
-**Str**25,**Dex**12,**Con**20,**Int**16,**Wis**21,**Cha** 21
-**Base Atk**+13;**CMB**+20 (+25 disarm or trip);**CMD** 31 (36 vs. disarm or trip)
+**Str** 25, **Dex** 12, **Con** 20, **Int** 16, **Wis** 21, **Cha** 21
+**Base Atk** +13; **CMB** +20 (+25 disarm or trip); **CMD** 31 (36 vs. disarm or trip)
 **Feats** Combat Casting, Combat Expertise, Dodge, Improved DisarmMF, Improved Initiative, Improved TripMF, Lightning Reflexes, Mythic Spell LoreMF
 **Skills** Diplomacy +21, Escape Artist +17, Fly +25, Handle Animal +21, Knowledge (nature) +16, Knowledge (planes) +19, Perception +21, Sense Motive +21, Stealth +17
 **Languages** Celestial, Draconic, Infernal; truespeech

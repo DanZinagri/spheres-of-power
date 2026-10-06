@@ -10,13 +10,13 @@ There are told tales of a beauty so great that those who behold her may be struc
 **Nymph, Wyrgrove (CR 5)**
 XP 1,600
 CG Medium fey
-**Init**+5;**Senses**low-light vision;**Perception** +12
+**Init** +5; **Senses** low-light vision; **Perception** +12
 **Aura** Blinding Beauty (30 ft., DC 20)
 
 **Defense**
-**AC**22,**touch**22,**flat-footed** 17 (+7 deflection, +5 Dex)
+**AC** 22, **touch** 22, **flat-footed** 17 (+7 deflection, +5 Dex)
 **hp** 45 (6d6+24)
-**Fort**+13,**Ref**+17,**Will** +15
+**Fort** +13, **Ref** +17, **Will** +15
 **DR** 10/cold iron
 
 **Offense**
@@ -26,8 +26,8 @@ CG Medium fey
 **Special Attacks** stunning glance
 
 **Magic**
-**Caster Level**6;**MSB**+6,**MSD**17,**Concentration** +13
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 6; **MSB** +6, **MSD** 17, **Concentration** +13
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 13
 
 **Destruction Sphere**
@@ -48,8 +48,8 @@ CG Medium fey
 • teleport, close (40 ft.), medium (160 ft.) 1 sp
 
 **Statistics**
-**Str**10,**Dex**20,**Con**18,**Int**16,**Wis**17,**Cha** 25
-**Base Atk**+3;**CMB**+8;**CMD** +25
+**Str** 10, **Dex** 20, **Con** 18, **Int** 16, **Wis** 17, **Cha** 25
+**Base Atk** +3; **CMB** +8; **CMD** +25
 **Feats** Agile Maneuvers, Combat Casting, Weapon Finesse
 **Skills** Diplomacy +16, Escape Artist +14, Handle Animal +13, Heal +9, Knowledge (nature) +12, Perception +12, Sense Motive +12, Stealth +14, Swim +17
 **Languages** Common, Sylvan, Elven, Treant

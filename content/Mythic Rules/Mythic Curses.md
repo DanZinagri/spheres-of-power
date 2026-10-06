@@ -10,7 +10,7 @@ Mythic magic is generally seen as a boon to those that use it, but one of the gr
 
 #### Anoris Curse
 
-**Type**curse, spellblight [major];**Save** Fortitude DC 16 or as major spellblight
+**Type** curse, spellblight [major]; **Save** Fortitude DC 16 or as major spellblight
 **Frequency** immediate and 1/day; see text
 
 The anoris curse causes the flesh of the victim’s mouth to knit together and seal itself shut. The victim can breathe through its nostrils or similar orifices but cannot speak or use a bite attack. The victim is unable to eat or drink unless a system of drip tubes is devised and used to deliver liquefied nutrition, requiring successful DC 20 Craft (metalworking) and Knowledge (engineering) checks to create the system and one hour of care and a successful DC 20 Heal check once per day to deliver the nutrition.
@@ -23,7 +23,7 @@ The anoris curse has no effect against creatures without flesh (or bones, for no
 
 #### Cruciatic Sympathy
 
-**Type**curse;**Save** Will DC 17
+**Type** curse; **Save** Will DC 17
 **Frequency** immediate
 
 Cruciatic sympathy causes the target to feel the pain and suffering it inflicts on others. Whenever the accursed deals damage to a living creature, it takes 1d6 points of nonlethal damage, and as long as the victim has this nonlethal damage it is fatigued with pain. If the victim confirms a critical hit on an adjacent creature, this damage is multiplied by the attack’s critical multiplier and the target becomes sickened with pain for 1 minute as well. If the victim deals damage to multiple creatures with the same attack or effect, it takes 1d6 points of nonlethal damage + 1 point per creature after the first. If the victim deals bleed damage or other continuing damage to another creature, the victim takes 1d6 points of nonlethal damage for the initial attack, + 1 point per round after the first that the target continues taking damage.
@@ -32,7 +32,7 @@ In addition to the above, if the victim successfully affects another creature wi
 
 #### Polypollex Curse
 
-**Type**curse, spellblight [major];**Save** DC 18 Fortitude or DC 18 Reflex (see text) or as major spellblight
+**Type** curse, spellblight [major]; **Save** DC 18 Fortitude or DC 18 Reflex (see text) or as major spellblight
 **Frequency** immediate
 
 The polypollex curse causes all of the victim’s digits to become thumbs. This radically decreases the victim’s manual dexterity when using its hands, resulting in a ─10 penalty on Climb, Craft, Disable Device, Linguistics (when used to create forgeries), Perform (keyboard, string, wind), Profession (GM’s discretion), and Sleight of Hand checks. The victim also takes a ─10 penalty to its CMD against disarm checks and a ─5 penalty on its CMB when making disarm, drag, grapple, or steal combat maneuvers. It is very difficult for the target to maintain its grip on objects, and if it does not spend a move action each round securing its grip it must succeed at a DC 18 Reflex save or drop an item it is holding. Any action it takes to draw or retrieve an item (including weapons, ammunition, and material or focus components for spells) takes longer, increasing its action type by one step as follows: free, swift (or immediate), move, standard, full-round. If the target is a spellcaster, it has a 50% chance of spell failure when casting any spell with a somatic component. The polypollex curse is considered a polymorph effect and can be negated with break enchantment, limited wish, miracle, or wish.
@@ -41,7 +41,7 @@ If the victim uses a polymorph effect to assume a different shape, the effects o
 
 #### Regressive Rejuvenation
 
-**Type**curse [major];**Save** Fortitude DC 17
+**Type** curse [major]; **Save** Fortitude DC 17
 **Frequency** immediate and 1/day
 
 The victim begins to age in reverse at an accelerated rate. The immediate effect functions as lesser age resistanceUM, but the victim does not retain age-related bonuses to Intelligence, Wisdom, or Charisma. In addition to this initial effect, with each failed save the victim grows 1d6 years younger and takes 1 point of Intelligence, Wisdom, or Charisma drain (determine randomly).
@@ -54,7 +54,7 @@ If the curse is removed, the victim begins rapidly aging back to its former age,
 
 #### Sectum Sanguinum
 
-**Type**spellblight [major];**Save** as major spellblight
+**Type** spellblight [major]; **Save** as major spellblight
 **Frequency** immediate
 
 This spellblight functions similarly to skinscription (see below), but when a spellcaster with this spellblight casts a spell its description does not begin glowing; instead, it starts bleeding. This deals bleed damage equal to 1 plus one-half the spell’s level, for a maximum number of rounds equal to the spell’s level. This bleed damage does not interfere with the casting of the spell that triggers the bleeding, but it is considered continuous damage for the purpose of requiring concentration checks when casting other spells. The bleeding letters revealed by this spell are visible on the surface of any armor or clothing worn and are visible in bright or normal light, and are not hidden by magical glamers. Thus, the bleeding runes clearly revealing the location of an invisible creature. The bloody letters are not visible in dim light or darkness, except to creatures with darkvision or blindsight.
@@ -63,7 +63,7 @@ Creatures able to see the bleeding runes form can identify the spell being cast,
 
 #### Skinscription
 
-**Type**spellblight;**Save** as minor spellblight
+**Type** spellblight; **Save** as minor spellblight
 **Frequency** immediate
 
 Each time a spellcaster with this spellblight prepares a spell, or meditates to recover spells if a spontaneous caster, a detailed description of each magical spell she is able to cast that day is inscribed on her skin like a tattoo. This does not apply to spells cast by other creatures or spell effects created by magic items.

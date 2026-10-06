@@ -54,7 +54,7 @@ At 1st level, as a standard action, the hive may spend a spell point to create a
 
 Use the statistics of a Conjuration sphere companion summoned with a caster level equal to the hive’s character level and the following base form:
 
-- **Speed**20 ft., Climb 20 ft.;**AC**+2 natural armor;**Saves**Fort (good), Ref (good), Will (bad);**Attack**none;**Ability Scores** Str 12, Dex 16, Con 13, Int -, Wis 10, Cha 11. The swarm has the swarm subtype, with constituent members of Tiny size and occupies a 10-foot by 10-foot space. Its swarm damage is 1d6 + 1d6 per 3 Hit Dice and has a distraction DC of 10 + Hit Dice/2 + the hive’s casting ability modifier. The swarm is a mindless creature of the vermin type.
+- **Speed** 20 ft., Climb 20 ft.; **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** none; **Ability Scores** Str 12, Dex 16, Con 13, Int -, Wis 10, Cha 11. The swarm has the swarm subtype, with constituent members of Tiny size and occupies a 10-foot by 10-foot space. Its swarm damage is 1d6 + 1d6 per 3 Hit Dice and has a distraction DC of 10 + Hit Dice/2 + the hive’s casting ability modifier. The swarm is a mindless creature of the vermin type.
 
 ## Enhance Swarm
 

@@ -14,13 +14,13 @@ The Master of Illusions is a first-level sample character for Spheres of Power, 
 **The Master of Illusions**
 Half-elf fey adept 1
 CN Medium humanoid (elf, human)
-**Init**+2;**Senses**low-light vision;**Perception** +6
+**Init** +2; **Senses** low-light vision; **Perception** +6
 
 ## Defense
 
-**AC**13,**touch**13,**flat-footed** 10 (+2 Dex)
+**AC** 13, **touch** 13, **flat-footed** 10 (+2 Dex)
 **hp** 9 (1d8+1)
-**Fort**+1,**Ref**+3,**Will** +2; +2 vs. enchantments
+**Fort** +1, **Ref** +3, **Will** +2; +2 vs. enchantments
 **Immune** sleep
 **Weaknesses** energy focus, focus casting, mental focus
 
@@ -34,23 +34,23 @@ CN Medium humanoid (elf, human)
 
 ## Magic
 
-**Caster Level**1;**MSB**+1;**MSD**12;**Concentration** +5
-**Tradition**None (Drawbacks: Focus Casting - Ring (DC 20), Mental Focus (DC 20));**CAM** Cha
+**Caster Level** 1; **MSB** +1; **MSD** 12; **Concentration** +5
+**Tradition** None (Drawbacks: Focus Casting - Ring (DC 20), Mental Focus (DC 20)); **CAM** Cha
 **Spell Points** 6
-**Destruction Sphere**-**DC**14;**Duration**Instantaneous or 1d4 rounds (Tenebrous Blast);**Range**25 feet;**Talents**Tenebrous Blast;**Drawbacks** Energy Focus (Negative)
+**Destruction Sphere** - **DC** 14; **Duration** Instantaneous or 1d4 rounds (Tenebrous Blast); **Range** 25 feet; **Talents** Tenebrous Blast; **Drawbacks** Energy Focus (Negative)
 - *Destructive Blast* (Tenebrous Blast)
-**Illusion Sphere**-**DC**14;**Duration**Concentration (max 1 minute/CL) or 1 minute/level (Tricks);**Range**25 feet;**Talents**Complex Illusion, Illusionary Touch;**Drawbacks** None
+**Illusion Sphere** - **DC** 14; **Duration** Concentration (max 1 minute/CL) or 1 minute/level (Tricks); **Range** 25 feet; **Talents** Complex Illusion, Illusionary Touch; **Drawbacks** None
 - *Illusion* (Complex Illusion, Illusionary Touch)
 - *Trick: Alter*
 - *Trick: Effects*
 
 ## Statistics
 
-**Str**8,**Dex**16,**Con**12,**Int**10,**Wis**10,**Cha** 18
-**Base Atk**+0;**CMB**-1;**CMD** 12
+**Str** 8, **Dex** 16, **Con** 12, **Int** 10, **Wis** 10, **Cha** 18
+**Base Atk** +0; **CMB** -1; **CMD** 12
 **Feats** Extra Shadowstuff, Skill Focus (Bluff)
 **Traits** minor bioluminescence
-**Skills**Bluff +11 (+12 when Minor Bioluminescence is on), Perception +6, Sense Motive +4, Stealth +7;**Racial Modifiers** +2 Perception
+**Skills** Bluff +11 (+12 when Minor Bioluminescence is on), Perception +6, Sense Motive +4, Stealth +7; **Racial Modifiers** +2 Perception
 **Languages** Common, Elven
 **SQ** alter, casting, complex illusion, destructive blast, effects, elf blood, fey magic, illusion, illusionary touch, master illusionist, shadowstuff, tenebrous blast
 **Other Gear** 150 gp
@@ -99,21 +99,21 @@ CN Medium humanoid (elf, human)
 
 ---
 
-# THEME
+# Theme
 
 A master of illusions and fooling enemies.
 
-# BUILD RULES
+# Build Rules
 
 20 point buy. If higher, raise Dexterity. If lower, reduce Constitution. This character only has one trait, so you can add a non-Racial trait (or Campaign Trait) to fit your game.
 
-# SUGGESTED GROWTH
+# Suggested Growth
 
 The Master of Illusions is all about indirect power - making people believe things that aren't true. As a Fey Adept, you are naturally proficient with illusions and should take several more talents to make your illusions more convincing.
 
 You may want to dip into the Protection sphere to increase your defenses (Fey Adepts are not proficient with any armor) at 2nd level. If you plan to make Destructive Blasts on a regular basis, get a boost to your Dexterity as early as possible.
 
-# NOTES
+# Notes
 
 The Master of Illusions is focused on creating illusions. This requires more creativity than most classes, since in many cases, the only real limit to what you can do is the size of your illusions and your creativity. You have the Destruction Sphere for all-day damage (drop the Energy Focus drawback and Tenebrous Blast in an undead-heavy campaign), but at just +3, it's not especially accurate and can't be relied on until you have a few more points for accuracy.
 

@@ -13,13 +13,13 @@ This pale, jellyfish-like creature floats gently in the air, two long eyestalks 
 XP 400
 Pathfinder Roleplaying Game Bestiary 3
 LG Small aberration (alien, mythic)
-**Init**+3;**Senses** cosmic awarenessMA, darkvision 60 ft.; Perception +7
+**Init** +3; **Senses** cosmic awarenessMA, darkvision 60 ft.; Perception +7
 
 #### Defense
 
-**AC**19,**touch**14,**flat-footed** 16 (+3 Dex, +5 natural, +1 size)
+**AC** 19, **touch** 14, **flat-footed** 16 (+3 Dex, +5 natural, +1 size)
 **hp** 17 (2d8+8)
-**Fort**+0,**Ref**+3,**Will** +5
+**Fort** +0, **Ref** +3, **Will** +5
 
 #### Offense
 
@@ -35,8 +35,8 @@ At will—detect aberration
 
 #### Statistics
 
-**Str**10,**Dex**16,**Con**11,**Int**10,**Wis**14,**Cha** 10
-**Base Atk**+1;**CMB**+0;**CMD** 13
+**Str** 10, **Dex** 16, **Con** 11, **Int** 10, **Wis** 14, **Cha** 10
+**Base Atk** +1; **CMB** +0; **CMD** 13
 **Feats** Extra Mythic PowerMF, Weapon Finesse
 **Skills** Diplomacy +2, Fly +18, Perception +7, Sense Motive +3, Stealth +11
 **Languages** Aklo, Common

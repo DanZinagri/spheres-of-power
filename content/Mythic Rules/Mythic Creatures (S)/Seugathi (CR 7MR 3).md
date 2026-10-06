@@ -13,21 +13,21 @@ This worm-like monster has a hideous face of eyes and hooked jaws. It wields a w
 XP 3,200
 Pathfinder Roleplaying Game Bestiary 2
 CE Large aberration (mythic)
-**Init**+9;**Senses** darkvision 120 ft., detect thoughts, tremorsense 30 ft.; Perception +15
+**Init** +9; **Senses** darkvision 120 ft., detect thoughts, tremorsense 30 ft.; Perception +15
 **Aura** mythic madnessMA (30 ft.)
 
 #### Defense
 
-**AC**22,**touch**14,**flat-footed** 17 (+4 armor, +5 Dex, +4 natural, –1 size)
+**AC** 22, **touch** 14, **flat-footed** 17 (+4 armor, +5 Dex, +4 natural, –1 size)
 **hp** 91 (9d8+51); fast healing 5
-**Fort**+6,**Ref**+8,**Will** +9
-**Defensive Abilities**DR 10/epic plus piercing or slashing;**Immune**mind-affecting effects, poison;**SR** 20
+**Fort** +6, **Ref** +8, **Will** +9
+**Defensive Abilities** DR 10/epic plus piercing or slashing; **Immune** mind-affecting effects, poison; **SR** 20
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** +1 rapier +11/+6 (1d8+4/18–20), bite +5 (1d8+1 plus poison)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** breath weaponMA (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), confusion command, infectious insanityMA, mythic power (5/day, surge +1d6), mythic spell-like abilitiesMA
 
 **Spell-Like Abilities** (CL 6th; concentration +11)
@@ -38,8 +38,8 @@ At will—detect thoughts (DC 17), levitate
 
 #### Statistics
 
-**Str**16,**Dex**20,**Con**17,**Int**14,**Wis**17,**Cha** 21
-**Base Atk**+6;**CMB**+10;**CMD** 25 (can’t be tripped)
+**Str** 16, **Dex** 20, **Con** 17, **Int** 14, **Wis** 17, **Cha** 21
+**Base Atk** +6; **CMB** +10; **CMD** 25 (can’t be tripped)
 **Feats** Ability Focus (aura of mythic madness), Ability Focus (poison), Combat Casting, Combat Reflexes, Extra Mythic Power, Improved Initiative, Weapon Finesse
 **Skills** Escape Artist +17, Knowledge (religion) +14, Perception +15, Sense Motive +12, Stealth +13, Use Magic Device +17
 **Languages** Aklo, Undercommon; telepathy 100 ft.
@@ -65,4 +65,4 @@ In addition, if a mythic seugathi expends one use of its mythic power as a swift
 
 **Item Use (Ex)** A seugathi can utilize spell trigger devices as if it were a spellcaster of the appropriate class. As a free action by touch, it can identify all spell trigger properties an item has. Use Magic Device is a class skill for seugathis.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 19;**frequency**1/round for 6 rounds;**effect**1d2 Wis and deafness;**cure** 2 consecutive saves. Deafness persists as long as the ability damage caused by the poison lasts. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; **save** Fort DC 19; **frequency** 1/round for 6 rounds; **effect** 1d2 Wis and deafness; **cure** 2 consecutive saves. Deafness persists as long as the ability damage caused by the poison lasts. The save DC is Constitution-based.

@@ -48,7 +48,7 @@ According to some dark myths, it is possible to assume some of the power of a ti
 | 17-18 | etherealness |
 | 19+ | fire storm |
 
-**Abilities:** Increase from the base creature as follows:**Strength**+14,**Constitution**+6,**Intelligence**+4,**Wisdom**+4,**Charisma** +2.
+**Abilities:** Increase from the base creature as follows: **Strength** +14, **Constitution** +6, **Intelligence** +4, **Wisdom** +4, **Charisma** +2.
 
 **Skills:** A titanblooded gains skill points for an outsider of its racial hit die.
 

@@ -20,7 +20,7 @@ Sublime is a template that can be added to any living creature. The creature is 
 
 **Speed:** Increase all the base creature's natural speeds by 10 ft.
 
-**Defense/Qualities:** fast healing (equal to Charisma modifier);**Immune**aging, disease, positive energy damage;**Resist** Negative Energy 10, increase the base creature's Cold and Electricity resistance by 10.
+**Defense/Qualities:** fast healing (equal to Charisma modifier); **Immune** aging, disease, positive energy damage; **Resist** Negative Energy 10, increase the base creature's Cold and Electricity resistance by 10.
 
 **Special Abilities:** The sublime creature gains the following special abilities.
 
@@ -32,7 +32,7 @@ Sublime is a template that can be added to any living creature. The creature is 
 
 **Strong Life-force:** In addition to its Constitution modifier, the sublime creature also adds its Charisma modifier to its HD when determining hit points.
 
-**Abilities:** Increase from the base creature as follows:**Strength**+2 (+1 to attack and damage, +1 to Climb and Swim checks, +1 to Strength, and CMB checks, +1 to CMD, +1 to any of the base creature’s Strengthbased DCs);**Dexterity**+2 (+1 to Init, Ranged attack rolls, AC, touch AC, and Ref saves; +1 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks; add +1 to any of the base creature’s Dexterity-based DCs);**Constitution**+8 (+4 hp per HD, +4 to Fortitude saves, and any of the base creature’s Constitution-based DCs);**Intelligence**+4 (+2 extra skill points per HD; +2 to Appraise, Craft, Knowledge, Linguistics and Spellcraft checks; +4 to any of the base creature's other Intelligence-based DCs);**Charisma** +8 (+4 hp per HD, +4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; +4 to Channel Positive Energy DCs; +4 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Strength** +2 (+1 to attack and damage, +1 to Climb and Swim checks, +1 to Strength, and CMB checks, +1 to CMD, +1 to any of the base creature’s Strengthbased DCs); **Dexterity** +2 (+1 to Init, Ranged attack rolls, AC, touch AC, and Ref saves; +1 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks; add +1 to any of the base creature’s Dexterity-based DCs); **Constitution** +8 (+4 hp per HD, +4 to Fortitude saves, and any of the base creature’s Constitution-based DCs); **Intelligence** +4 (+2 extra skill points per HD; +2 to Appraise, Craft, Knowledge, Linguistics and Spellcraft checks; +4 to any of the base creature's other Intelligence-based DCs); **Charisma** +8 (+4 hp per HD, +4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; +4 to Channel Positive Energy DCs; +4 to any of the base creature’s Charisma-based DCs).
 
 **Feats:** Gain Toughness as a feat.
 

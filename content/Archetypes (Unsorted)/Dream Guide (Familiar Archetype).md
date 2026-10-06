@@ -9,13 +9,13 @@ updated: 2021-02-16
 
 The dream guide is often a reflection of its master’s own spirit, ethics, and subconscious. Unlike a figment familiar, which eventually learns to manifest these properties in the waking realm, the dream guide joins its master in the dream, serving as a guide and aide.
 
-### Dreamer (Ex)
+## Dreamer (Ex)
 
 At 1st level, while a dream guide is within arm’s reach, the dream guide’s master gains the Dreamspace feat (Ultimate Spheres of Power pg. 505) even if he does not meet the normal requirements.
 
 This replaces alertness.
 
-### Dream With You (Su)
+## Dream With You (Su)
 
 At 3rd level, a dream guide may join its master in his dreamspace provided by the Dreamspace feat. While in its master’s dreamspace, a dream guide’s form may shift and adjust to its master’s subconscious, changing colors, shapes, and taking on surreal properties as it accompanies its master’s dreamspace. These changes are cosmetic and do not grant the dream guide any additional abilities or properties. For example, if the dream guide’s master is worried, the dream guide may appear to be made of sad rainclouds.
 
@@ -25,7 +25,7 @@ After 8 hours of sleep, the dream guide’s master may change the familiar speci
 
 This replaces deliver touch spells.
 
-### Lead The Dream (Su)
+## Lead The Dream (Su)
 
 At 7th level, the dream guide may assist its master by providing great insight and knowledge. Once per week, while the dream guide and its master are in the dreamspace, the dream guide may answer one question from its master. This functions as the Divination sphere Read Omens (divine) advanced talent with a caster level equal to its master’s level. An answer or advice provided by this ability should be a cryptic omen or rhyme when able.
 

@@ -13,20 +13,20 @@ This magnificent horse has great bird-like wings upon its back and moves with a 
 XP 1,200
 Pathfinder Roleplaying Game Bestiary
 CG Large magical beast (mythic)
-**Init**+2;**Senses** darkvision 60 ft., detect evil, detect good, low-light vision, scent; Perception +11
+**Init** +2; **Senses** darkvision 60 ft., detect evil, detect good, low-light vision, scent; Perception +11
 
 #### Defense
 
-**AC**15,**touch**11,**flat-footed** 13 (+2 Dex, +4 natural, –1 size)
+**AC** 15, **touch** 11, **flat-footed** 13 (+2 Dex, +4 natural, –1 size)
 **hp** 44 (4d10+22)
-**Fort**+7,**Ref**+6,**Will** +4
+**Fort** +7, **Ref** +6, **Will** +4
 **Defensive Abilities** aerobaticsMA, unbridled gloryMA
 
 #### Offense
 
 **Speed** 60 ft., fly 120 ft. (average)
 **Melee** bite +7 (1d3+4), 2 hooves +2 (1d6+2)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (1/day, surge 1d6)
 
 **Spell-Like Abilities** (CL 4th; concentration +5)
@@ -34,10 +34,10 @@ Constant—detect evil (60-ft. radius), detect good (60-ft. radius)
 
 #### Statistics
 
-**Str**18,**Dex**15,**Con**16,**Int**10,**Wis**13,**Cha** 13
-**Base Atk**+4;**CMB**+9;**CMD** 21 (25 vs. trip)
+**Str** 18, **Dex** 15, **Con** 16, **Int** 10, **Wis** 13, **Cha** 13
+**Base Atk** +4; **CMB** +9; **CMD** 21 (25 vs. trip)
 **Feats** Flyby Attack, Iron WillMF
-**Skills**Fly +5, Perception +11, Sense Motive +7;**Racial Modifiers** +4 Perception
+**Skills** Fly +5, Perception +11, Sense Motive +7; **Racial Modifiers** +4 Perception
 **Languages** Common (can’t speak)
 
 #### Ecology

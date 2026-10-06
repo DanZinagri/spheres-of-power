@@ -12,27 +12,27 @@ A transparent, gelatinous mass distends and distorts as it floats through the ai
 **Zyoselak (CR 12/MR 5)**
 XP 19,200
 NE Large aberration (alien, mythic, swarm)
-**Init**+10/−10MF, dual initiativeMA;**Senses** blindsight 60 ft., darkvision 60 ft.; Perception +22
+**Init** +10/−10MF, dual initiativeMA; **Senses** blindsight 60 ft., darkvision 60 ft.; Perception +22
 
 #### Defense
 
-**AC**20,**touch**15,**flat-footed** 14 (+6 Dex, +5 natural, -1 size)
+**AC** 20, **touch** 15, **flat-footed** 14 (+6 Dex, +5 natural, -1 size)
 **hp** 160 (16d8+88) plus 50 gelatinous shield
-**Fort**+8,**Ref**+11,**Will** +13; +5 vs. mind-affecting effects
-**Defensive Abilities**gelatinous shield, mythic saving throwsMA, swarm traits; DR 10/epic;**Immune**acid, cold, electricity, ooze traits;**SR** 26
+**Fort** +8, **Ref** +11, **Will** +13; +5 vs. mind-affecting effects
+**Defensive Abilities** gelatinous shield, mythic saving throwsMA, swarm traits; DR 10/epic; **Immune** acid, cold, electricity, ooze traits; **SR** 26
 **Weaknesses** vulnerability to sonic
 
 #### Offense
 
 **Speed** fly 30 ft. (perfect)
 **Melee** 4 slams +17 (1d6+6/19-20/×3 plus 1d6 acid and paralysis), swarm (4d6 plus mind ablationMA)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** distraction (DC 21), engulf (DC 21, 1d6 acid plus paralysis), mythic power (5/day, surge +1d8)
 
 #### Statistics
 
-**Str**13,**Dex**23,**Con**16,**Int**23,**Wis**16,**Cha** 13
-**Base Atk**+12;**CMB**+14;**CMD** 30
+**Str** 13, **Dex** 23, **Con** 16, **Int** 23, **Wis** 16, **Cha** 13
+**Base Atk** +12; **CMB** +14; **CMD** 30
 **Feats** Ability Focus (engulf), Combat Reflexes, Critical FocusMF, Flyby Attack, Improved Critical (slam)MF, Improved Initiative, Power Attack, Weapon FinesseMF
 **Skills** Acrobatics +25, Bluff +17, Fly +31, Intimidate +20, Knowledge (dungeoneering) +22, Knowledge (planes) +25, Knowledge (religion) +22, Perception +22, Sense Motive +19, Stealth +21
 **Languages** Aklo, Daemonic (cannot speak); telepathy (within swarm’s area)
@@ -64,7 +64,7 @@ A fully-formed, undamaged gelatinous shield has 50 hit points. Damage to a zyose
 
 **Separate (Ex)** If a zyoselak moves outside of its gelatinous shield, the gelatinous shield liquefies and falls harmlessly to the ground. If a zyoselak spends one use of mythic power as a swift action, however, the gelatinous shield’s integrity and current position are maintained, and the zyoselak can move out. Without the zyoselak configuring its shape from within, the gelatinous shield becomes a sphere. As a standard action, the zyoselak can telekinetically move the sphere up to 30 feet.
 
-Outside of a gelatinous shield, a zyoselak functions as a true swarm; its statistics change as follows: CE Fine aberration (alien, mythic, swarm); **Init**+12;**AC**31,**touch**26,**flat-footed**23;**Ref**+13;**Defensive Abilities**swarm traits;**Immune**acid, cold, ooze traits;**Speed**fly 60 ft. (perfect);**Melee**swarm (4d6 plus mind ablationMA);**Special Attacks**distraction (DC 21), mythic power (5/day, surge +1d8);**Reach**0 ft.;**Str**1,**Dex**27;**CMB**—;**CMD**—;**Skills** Acrobatics +27, Fly +43, Stealth +43.
+Outside of a gelatinous shield, a zyoselak functions as a true swarm; its statistics change as follows: CE Fine aberration (alien, mythic, swarm); **Init** +12; **AC** 31, **touch** 26, **flat-footed** 23; **Ref** +13; **Defensive Abilities** swarm traits; **Immune** acid, cold, ooze traits; **Speed** fly 60 ft. (perfect); **Melee** swarm (4d6 plus mind ablationMA); **Special Attacks** distraction (DC 21), mythic power (5/day, surge +1d8); **Reach** 0 ft.; **Str** 1, **Dex** 27; **CMB** —; **CMD** —; **Skills** Acrobatics +27, Fly +43, Stealth +43.
 
 If the zyoselak does not move back into the gelatinous shield within 1 round per mythic rank, moves farther than 80 feet away from it, or otherwise wills it as a free action, the shield liquefies and collapses. A zyoselak can only maintain one gelatinous shield at a time. Transparency Control (Ex) A zyoselak can change the transparency and color of a gelatinous shield that it is touching as a free action.
 

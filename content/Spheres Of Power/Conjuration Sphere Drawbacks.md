@@ -11,43 +11,43 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Caller
+#### Caller
 
 You do not gain the summon ability of the Conjuration sphere. You must select the Call Planar Creature advanced talent with the bonus talent gained from this drawback. This drawback may not be selected if the Call Planar Creature advanced talent is not permitted in your campaign.
 
 **Incompatible:** Any Conjuration drawback that affects the summon ability or companions granted by it.
 
-## Constant Link
+#### Constant Link
 
 Maintaining your companion’s presence requires concentration. You may not spend a spell point to continue the duration of summon without concentration nor take any talents that would allow you to maintain the summon without concentration.
 
-## Divided Soul
+#### Divided Soul
 
 Your Conjuration sphere companions share a single pool of Hit Dice. The Hit Dice of all your companions combined is equal to your caster level (with a minimum of 1 Hit Die per companion). When you gain a caster level, you may choose which companion gains the additional Hit Die, but no single companion can have Hit Dice exceeding 2/3 your caster level. If this calculation would result in companions with less than 1 Hit Die, such a companion instead has 1 Hit Die, but has their hit points reduced by half and takes a -1 penalty on all d20 rolls. Calculate the companion’s Hit Dice prior to applying the effects of any companion template. You must take Extra Companion with the bonus talent gained from this drawback.
 
-## Elongated Summoning
+#### Elongated Summoning
 
 Summoning a creature requires 1 minute of concentrated effort, rather than only a standard action.
 
-## Figment Companion
+#### Figment Companion
 
 Your companions are only semi-real projections. The first time each round a creature is affected by an effect originating from your companions, such as attacks or sphere effects, it may attempt a Will save versus your Conjuration sphere DC to negate the effect and any others originating from your companion before the start of the creature’s next turn. Succeeding on this save grants a +2 bonus on future saves made against that same companion for the next 24 hours. (As usual, this bonus does not stack with itself.)
 
-## Life Merger [Alienist HB]
+#### Life Merger [Alienist HB]
 
 Your companions are tied directly to your own life force. Whenever one of your Conjuration companions would take damage, you suffer an equal amount of damage. This damage cannot be reduced or redirected.
 
-## Limited Range [Apoc]
+#### Limited Range [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 Your companions must remain at a close proximity with you or lose effectiveness. Your companions must remain within 5 feet + 5 feet per 5 points of magic skill bonus you possess, and cannot move beyond this distance without being dismissed. If your moving would cause your companion to be beyond this range, your companion may take a movement action outside of their turn (which provokes attacks of opportunity as normal) to try to end up back in the area. If successful the companion is not dismissed and is staggered on their next turn.
 
-## Material Weakness
+#### Material Weakness
 
 Choose cold iron, silver, or wood (or another special material with GM’s explicit approval). When touched by an object primarily composed of the chosen material, your companion must attempt a Will save with a DC equal to 10 + any damage dealt by the object or be dismissed from the plane. The companion may not be summoned again for 1 hour.
 
-## Object Bound
+#### Object Bound
 
 Choose an object you possess for each companion you gain (for example: a small oil lamp, a ring, or a sword). Such objects count as magic items of the Conjuration sphere using your caster level for the item’s caster level, though you may still enchant them with other effects normally. If enchanted separately, the other effects on the item may be suppressed using dispel effects separately from the magic property granted by this drawback, using the caster level of those enchantments for determining the MSD of those effects.
 

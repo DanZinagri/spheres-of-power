@@ -14,13 +14,13 @@ The Mountain is a first-level sample character for Spheres of Power, suitable fo
 **The Mountain**
 Human armorist 1
 N Medium humanoid (human)
-**Init**+6;**Senses** Perception +3
+**Init** +6; **Senses** Perception +3
 
 ## Defense
 
-**AC**15,**touch**10,**flat-footed** 15 (+5 armor)
+**AC** 15, **touch** 10, **flat-footed** 15 (+5 armor)
 **hp** 13 (1d10+3)
-**Fort**+5,**Ref**+0,**Will** +2
+**Fort** +5, **Ref** +0, **Will** +2
 **Weaknesses** magical signs, personal magics
 
 ## Offense
@@ -31,16 +31,16 @@ N Medium humanoid (human)
 
 ## Magic
 
-**Caster Level**0 (1);**MSB**+1;**MSD**12;**Concentration** +3
-**Tradition**None (Drawback: Magical Signs);**CAM** Wis
+**Caster Level** 0 (1); **MSB** +1; **MSD** 12; **Concentration** +3
+**Tradition** None (Drawback: Magical Signs); **CAM** Wis
 **Spell Points** 4
-**Enhancement Sphere**-**DC**12;**Duration**Concentration or 1 minute;**Range**Self;**Talents**Dual Enhancement, Physical Enhancement +2;**Drawbacks** Personal Magics
+**Enhancement Sphere** - **DC** 12; **Duration** Concentration or 1 minute; **Range** Self; **Talents** Dual Enhancement, Physical Enhancement +2; **Drawbacks** Personal Magics
 - *Enhance* (Dual Enhancement, Enhance Equipment +1, Physical Enhancement +2)
 
 ## Statistics
 
-**Str**16,**Dex**10,**Con**16,**Int**10,**Wis**14,**Cha** 10
-**Base Atk**+1;**CMB**+4;**CMD** 14
+**Str** 16, **Dex** 10, **Con** 16, **Int** 10, **Wis** 14, **Cha** 10
+**Base Atk** +1; **CMB** +4; **CMD** 14
 **Feats** Improved Initiative, Power Attack
 **Traits** reactionary
 **Skills** Acrobatics -4 (-8 to jump), Climb +3, Perception +3, Spellcraft +4, Use Magic Device +4
@@ -62,15 +62,15 @@ N Medium humanoid (human)
 
 ---
 
-# THEME
+# Theme
 
 A tough, gear-summoning warrior who can enhance their own gear.
 
-# BUILD RULES
+# Build Rules
 
 20 point buy. If higher, raise Strength or Wisdom. If lower, reduce Constitution or Wisdom. This character only has one trait, so you can add a non-Combat trait (or Campaign Trait) to fit your game. The Mountain naturally progresses towards heavy armor, so don't worry about your Dexterity.
 
-# SUGGESTED GROWTH
+# Suggested Growth
 
 The Mountain is all about making themselves stronger with magic. Effects that raise your Caster Level in the Enhancement sphere are valuable (especially if they put you over the edge for Physical Enhancement's growth). As an Armorist, you don't really need to enhance your own equipment, so look for other effects.
 
@@ -80,7 +80,7 @@ Take Deep Enhancement as soon as you can, especially if your game tends to have 
 
 When you have the chance, grab a Headband that boosts your Wisdom score. You're already enhancing your physical stats with magic, so you don't need to buy an item for that.
 
-# NOTES
+# Notes
 
 This is a simple, straightforward character designed to hit enemies fast and hard. If this is your first time using Spheres of Power and you've focused on playing martial characters in the past, The Mountain should feel familiar and easy to play. Its more-complicated options only start coming online in a few levels, at which point you'll be much more familiar with this system.
 

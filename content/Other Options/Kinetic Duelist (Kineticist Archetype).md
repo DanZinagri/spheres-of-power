@@ -19,7 +19,7 @@ This ability alters kinetic blast.
 **Ranged Blast (Ex):** At 1st level and beyond, a kinetic duelist can select the following infusion:
 
 > **Ranged Blast**
-> **Element(s)**universal;**Type**form infusion;**Level**1;**Burn** 1
+> **Element(s)** universal; **Type** form infusion; **Level** 1; **Burn** 1
 > **Associated Blasts** any
 > **Saving Throw** none
 >
@@ -28,7 +28,7 @@ This ability alters kinetic blast.
 **Kinetic Whip Mastery (Ex):** At 10th level, a kinetic duelist can select the following utility wild talent:
 
 > **Kinetic Whip Mastery**
-> **Element(s)**universal;**Type**utility (Sp)**Level**5;**Burn** 1
+> **Element(s)** universal; **Type** utility (Sp) **Level** 5; **Burn** 1
 > **Prerequisite(s)** kinetic whip
 >
 > Until the next time you recover burn, your kinetic blade mastery class feature is treated as though you were using the kinetic whip infusion instead of kinetic blade.
@@ -40,7 +40,7 @@ This ability replaces supercharge.
 **Kinetic Assault (Su):** At 13th level, a kinetic duelist gains the following infusion:
 
 > **Kinetic Assault**
-> **Element(s)**universal;**Type**form infusion;**Level**6;**Burn** 4
+> **Element(s)** universal; **Type** form infusion; **Level** 6; **Burn** 4
 > **Prerequisite(s)** kinetic blade
 > **Associated Blast** any
 > **Saving Throw** none
@@ -52,7 +52,7 @@ This ability replaces metakinesis (quicken)
 **Dual Blades (Su):** At 17th level, a kinetic duelist gains the following infusion:
 
 > **Dual Blades**
-> **Element(s)**universal;**Type**form infusion;**Level**8;**Burn** 4
+> **Element(s)** universal; **Type** form infusion; **Level** 8; **Burn** 4
 > **Prerequisite(s)** kinetic blade
 > **Associated Blast** any
 > **Saving Throw** none

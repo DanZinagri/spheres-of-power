@@ -13,28 +13,28 @@ A mass of tangled vines and dripping slime rises on two trunk-like legs, reeking
 XP 4,800
 Pathfinder Roleplaying Game Bestiary
 N Huge plant (mythic)
-**Init**-1;**Senses** darkvision 60 ft., low-light vision; Perception +11
+**Init** -1; **Senses** darkvision 60 ft., low-light vision; Perception +11
 
 #### Defense
 
-**AC**23,**touch**7,**flat-footed** 23 (–1 Dex, +16 natural, –2 size)
+**AC** 23, **touch** 7, **flat-footed** 23 (–1 Dex, +16 natural, –2 size)
 **hp** 109 (9d8+69)
-**Fort**+11,**Ref**+2,**Will** +3
-**Defensive Abilities**plant traits, splitMA; DR 10/epic and slashing;**Immune**electricity;**Resist** fire 10
+**Fort** +11, **Ref** +2, **Will** +3
+**Defensive Abilities** plant traits, splitMA; DR 10/epic and slashing; **Immune** electricity; **Resist** fire 10
 
 #### Offense
 
 **Speed** 20 ft., swim 20 ft., earth glide
 **Melee** 2 slams +12 (2d8+8 plus grab), 2 vine whips +7 (1d8+4)
-**Space**15 ft.;**Reach** 15 ft. (25 ft. with vine whips)
+**Space** 15 ft.; **Reach** 15 ft. (25 ft. with vine whips)
 **Special Attacks** constrict (2d8+12), mythic power (3/day, surge +1d6), verdant vinesMA
 
 #### Statistics
 
-**Str**27,**Dex**8,**Con**21,**Int**7,**Wis**10,**Cha** 9
-**Base Atk**+6;**CMB**+15 (+19 grapple);**CMD** 24
+**Str** 27, **Dex** 8, **Con** 21, **Int** 7, **Wis** 10, **Cha** 9
+**Base Atk** +6; **CMB** +15 (+19 grapple); **CMD** 24
 **Feats** Cleave, Combat ReflexesMF, Power AttackMF, Shambling Monolith, Suffocating Strangulation
-**Skills**Perception +11, Stealth +3 (+11 in swamps or forest), Swim +16;**Racial Modifiers** +10 Escape Artist, +4 Stealth (+12 in swamps or forests), +4 Perception
+**Skills** Perception +11, Stealth +3 (+11 in swamps or forest), Swim +16; **Racial Modifiers** +10 Escape Artist, +4 Stealth (+12 in swamps or forests), +4 Perception
 **Languages** Common, Sylvan (cannot speak)
 **SQ** compressible formMA, electric fortitude, sink into the mireMA
 
@@ -64,4 +64,4 @@ Triggering this massive plant growth requires the mythic shambling mound to shed
 
 #### Mythic Shambling Mound
 
-Without the giant simple template, a mythic shambling mound’s stats are as follows: **CR**7/**MR**3;**XP**3,600;**Size**Large;**Init**+0;**AC**22,**touch**9,**flat-footed**22;**hp**91;**Fort**+9,**Ref**+3;**Melee**2 slams +12 (2d6+6 plus grab), 2 vine whips +6 (1d6+3);**Space**10 ft.;**Reach**10 ft. (20 ft. with vine whips);**Special Attacks**constrict (2d6+9);**Str**23,**Dex**10,**Con**17;**CMB**+13 (+17 grapple);**CMD**23;**Skills** Swim +14.
+Without the giant simple template, a mythic shambling mound’s stats are as follows: **CR** 7/**MR** 3; **XP** 3,600; **Size** Large; **Init** +0; **AC** 22, **touch** 9, **flat-footed** 22; **hp** 91; **Fort** +9, **Ref** +3; **Melee** 2 slams +12 (2d6+6 plus grab), 2 vine whips +6 (1d6+3); **Space** 10 ft.; **Reach** 10 ft. (20 ft. with vine whips); **Special Attacks** constrict (2d6+9); **Str** 23, **Dex** 10, **Con** 17; **CMB** +13 (+17 grapple); **CMD** 23; **Skills** Swim +14.

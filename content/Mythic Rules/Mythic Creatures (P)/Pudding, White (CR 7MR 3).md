@@ -13,26 +13,26 @@ A glistening white sheet of snow and ice moves across the area.
 XP 3,200
 Pathfinder Roleplaying Game Bestiary (black pudding variant), Tome of Horrors Complete (white pudding)
 N Huge ooze (mythic)
-**Init**–5;**Senses** blindsight 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 60 ft.; Perception –5
 
 #### Defense
 
-**AC**6,**touch**3,**flat-footed** 6 (–5 Dex, +3 natural, –2 size)
+**AC** 6, **touch** 3, **flat-footed** 6 (–5 Dex, +3 natural, –2 size)
 **hp** 129 (10d8+84)
-**Fort**+9,**Ref**–2,**Will** –2
-**Defensive Abilities**split (piercing and slashing, 10 hp); DR 5/epic;**Immune**ooze traits;**Resist** cold 5
+**Fort** +9, **Ref** –2, **Will** –2
+**Defensive Abilities** split (piercing and slashing, 10 hp); DR 5/epic; **Immune** ooze traits; **Resist** cold 5
 
 #### Offense
 
 **Speed** 20 ft., burrow 20 ft. (snow and ice only), climb 20 ft.
-**Melee**slam +9 (2d6+6 plus 1d6 acid and 1d6 cold plus grab)**or** 2 slams +9/+9 (2d6+4 plus 1d6 acid and 1d6 cold plus grab)
-**Space**15 ft.;**Reach** 10 ft. (5 ft. with 2 slams; see amorphous attacks)
+**Melee** slam +9 (2d6+6 plus 1d6 acid and 1d6 cold plus grab) **or** 2 slams +9/+9 (2d6+4 plus 1d6 acid and 1d6 cold plus grab)
+**Space** 15 ft.; **Reach** 10 ft. (5 ft. with 2 slams; see amorphous attacks)
 **Special Attacks** amorphous attacksMA, avalancheMA, caustic chill, constrict (2d6+6 plus 1d6 acid and 1d6 cold), corrosion, engulfMA (DC 19, 2d6+9 plus 1d6 acid and 1d6 cold), mythic power (5/day, surge +1d6+1)
 
 #### Statistics
 
-**Str**18,**Dex**1,**Con**22,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+7;**CMB**+13 (+17 grapple);**CMD** 18 (28 vs. bull rush, drag, and reposition; can’t be tripped)
+**Str** 18, **Dex** 1, **Con** 22, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +7; **CMB** +13 (+17 grapple); **CMD** 18 (28 vs. bull rush, drag, and reposition; can’t be tripped)
 **Feats** Extra Mythic PowerMF, Potent SurgeMF
 **SQ** camouflage, flocculent fountainMA, suction
 

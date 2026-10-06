@@ -357,7 +357,7 @@ Contest (verbal duel)
 **Time Pressure** 6 cycles
 
 **COMPLETION**
-**Audience**Medium crowd of mostly adult humans, as well as a minority of adults from other common races;**Audience Bias** positive (emotional appeal, logic)
+**Audience** Medium crowd of mostly adult humans, as well as a minority of adults from other common races; **Audience Bias** positive (emotional appeal, logic)
 **Benefit** The criminal is found guilty, resulting in his imprisonment and ending his reign of terror on the city streets. For their services, the city’s governor grants the PCs a stipend worth 4,000 gp.
 **Penalty** The criminal is found not guilty, resulting in his release. Citizens fear to leave their homes after dark, and the criminal will be looking to settle the score with the PCs.
 

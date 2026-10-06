@@ -36,15 +36,15 @@ Certain *prosthetics* may alter how the body part functions by granting new or h
 
 *Prosthetics* may be sundered and targeted as any other gizmo. A *prosthetic* that is destroyed ceases to function as an appropriate body part for that creature and must be repaired. If using the optional called shots rules (*Ultimate Combat*), an internally implanted *prosthetic* may be targeted (such as making a called shot to the head or heart).
 
-**Secondary Functions**: Secondary functions are additional abilities or functionality granted to a *prosthetic*. Whenever you craft a *prosthetic*, you may grant it a single secondary function. If a *prosthetic* could be made as a matching pair (or a matching set), the matching pair must be used together, and the matching pair have the same qualities (secondary functions, etc.). Secondary functions belonging to paired *prosthetics* are considered a “single” secondary function (i.e. one set of wheels, but also a single storage capacity, or only a single innate gizmo, etc.) that is considered part of both of the *prosthetics*.
+**Secondary Functions:** Secondary functions are additional abilities or functionality granted to a *prosthetic*. Whenever you craft a *prosthetic*, you may grant it a single secondary function. If a *prosthetic* could be made as a matching pair (or a matching set), the matching pair must be used together, and the matching pair have the same qualities (secondary functions, etc.). Secondary functions belonging to paired *prosthetics* are considered a “single” secondary function (i.e. one set of wheels, but also a single storage capacity, or only a single innate gizmo, etc.) that is considered part of both of the *prosthetics*.
 
 Some secondary functions may conflict with the original *prosthetic’s* abilities (or another secondary function, if the prosthetic would have multiple); the user may use either the *prosthetic’s* normal abilities or the secondary function, but not both at the same time (such as a leg *prosthetic* with the wheels secondary function could be used as legs or wheels, but not as both simultaneously).
 
 Some secondary functions grant the user innate gizmos (see **Section 4.1: Mastering Gizmos, Innate Gizmos**).
 
-**Implanted and Internal Prosthetics**: While any gizmo can be implanted, a *prosthetic* of an internal organ must be implanted (see **Section 1.1: Introduction & Sphere Basics, Implanted Gizmos** for more).
+**Implanted and Internal Prosthetics:** While any gizmo can be implanted, a *prosthetic* of an internal organ must be implanted (see **Section 1.1: Introduction & Sphere Basics, Implanted Gizmos** for more).
 
-**Prosthetics and Batteries**: Batteries are attached to a *prosthetic* the same as any other gizmo. Implanted *prosthetics* may include a “port” or similar means of accessing the outside of the user’s body, to which a battery may be attached normally.
+**Prosthetics and Batteries:** Batteries are attached to a *prosthetic* the same as any other gizmo. Implanted *prosthetics* may include a “port” or similar means of accessing the outside of the user’s body, to which a battery may be attached normally.
 
 #### Natural Prosthetics
 
@@ -52,9 +52,9 @@ Some abilities may allow a crafted prosthetic to add new body parts to a creatur
 
 When a creature gains a body part they did not previously possess because of a prosthetic, the basic effects of that *prosthetic* are as follows:
 
-- **Arm (or Pair of Arms)**: The arms granted by the prosthetic may be used as a normal limb for all purposes. The arm may end in a hand or other prehensile feature.
-- **Head (including Senses)**: The head granted by the prosthetic grants the user normal vision, hearing, sense of smell, taste, and the ability to speak. The crafter may choose to exclude any sense or functionality. By default, a natural head *prosthetic* grants normal vision (and no special senses, such as low-light vision or darkvision) - despite senses that would normally be available to a creature with that creature type.
-- **Leg (or Pair of Legs)**: The legs granted by the prosthetic grant a 30-feet base land speed.
+- **Arm (or Pair of Arms):** The arms granted by the prosthetic may be used as a normal limb for all purposes. The arm may end in a hand or other prehensile feature.
+- **Head (including Senses):** The head granted by the prosthetic grants the user normal vision, hearing, sense of smell, taste, and the ability to speak. The crafter may choose to exclude any sense or functionality. By default, a natural head *prosthetic* grants normal vision (and no special senses, such as low-light vision or darkvision) - despite senses that would normally be available to a creature with that creature type.
+- **Leg (or Pair of Legs):** The legs granted by the prosthetic grant a 30-feet base land speed.
 
 For *prosthetics* which grant a body part, limb, or organ a creature does not already possess, the creature gains the benefits of the appropriate supplemental prosthetic (as granted by the Tinker sphere Prosthetics Mastery talent). If a creature later gains body parts, limbs, or organs which they also possess from a natural *prosthetic*, the *prosthetic* are treated as supplemental *prosthetic* (and lose any benefits as a natural *prosthetic* while the creature would have other fully functional body parts, limbs, or organs of that kind).
 
@@ -66,9 +66,9 @@ A *routine* is crafted and installed directly into an existing gizmo that you cr
 
 *Routines* grant their benefits and effects to the host gizmo’s user while the host gizmo is active.
 
-**Author's Note**: A battery can be used as a "blank" gizmo to insert a *routine* or accommodation into, however, any installed *routines* or other functions do not work if the battery is depleted due to the gizmo being turned off (just like a normal depleted, destroyed, or otherwise inactive gizmo).
+**Author's Note:** A battery can be used as a "blank" gizmo to insert a *routine* or accommodation into, however, any installed *routines* or other functions do not work if the battery is depleted due to the gizmo being turned off (just like a normal depleted, destroyed, or otherwise inactive gizmo).
 
-**Transferring Routines**: You can transfer an installed *routine* from one active gizmo you crafted to another gizmo you crafted within your reach as a swift action. This does not deactivate an active *routine* unless the gizmo it is installed into is deactivated. Transferring a *routine* whose battery use ability is active (and depleting a battery) ends that battery use ability upon transferring the *routine* (ending the battery use ability’s duration early). *Routines* can be transferred between deactivated gizmos.
+**Transferring Routines:** You can transfer an installed *routine* from one active gizmo you crafted to another gizmo you crafted within your reach as a swift action. This does not deactivate an active *routine* unless the gizmo it is installed into is deactivated. Transferring a *routine* whose battery use ability is active (and depleting a battery) ends that battery use ability upon transferring the *routine* (ending the battery use ability’s duration early). *Routines* can be transferred between deactivated gizmos.
 
 If a *routine* would store information (such as a storage routine, as granted by the (computation) package), stored information may also be transferred (usually to other *routines* of the same kind) as though transferring a *routine*.
 
@@ -80,25 +80,25 @@ If a *routine* would store information (such as a storage routine, as granted by
 
 #### Modified Object [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 A **modified object** is any object with an attached *modification*. Certain abilities and effects reference a modified object (a *modification* refers to its modified object as the attached object).
 
 ## Transmission
 
-**Signals**: Signals generated by gizmos are emanations that are blocked by sufficient barriers. A signal can penetrate, on average, 3 feet of wood or dirt, 1 foot of stone, 1 inch of common metal, or a thin sheet of lead or other signal-blocking material by GM discretion. The gizmo’s own materials do not block a signal it generates. Force effects and other obstructions made of pure magic do not block signals.
+**Signals:** Signals generated by gizmos are emanations that are blocked by sufficient barriers. A signal can penetrate, on average, 3 feet of wood or dirt, 1 foot of stone, 1 inch of common metal, or a thin sheet of lead or other signal-blocking material by GM discretion. The gizmo’s own materials do not block a signal it generates. Force effects and other obstructions made of pure magic do not block signals.
 
 ### Detector
 
 *Detectors* are used to gather information from its surroundings. Activating a *detector* requires spending 1 minute. A *detector* deactivates unless the user spends a full-round action every turn keeping it activated, rendering the user flat-footed. *Detectors* have a signal range of close range and reveal information about things within its signal range depending on the parameters it is designed to detect (i.e. mechanical information, alchemical, creature types, heat, etc.). An active *detector* constantly relays information to the user and can be relied upon as though it were an extraordinary sense. Some *detectors* allow the user to learn more information about what the *detector* senses, usually by attempting an appropriate Craft, Knowledge, or other similar check.
 
-**Pinpointing**: Some *detectors* may be able to designate the precise location of a detected subject. This detection allows the user to know exactly which square, how far, and in what direction the pinpointed subject is; this allows the user to bypass non-magical concealment the pinpointed subject might possess.
+**Pinpointing:** Some *detectors* may be able to designate the precise location of a detected subject. This detection allows the user to know exactly which square, how far, and in what direction the pinpointed subject is; this allows the user to bypass non-magical concealment the pinpointed subject might possess.
 
-**Specific Detection**: Any *detector* capable of detecting information which includes a large set of potential parameters (such as a mechanical sensor) may be adjusted as a standard action to sense a more limited subset of the options normally detected. For example, the mechanical sensor normally senses all mechanical items. A user could spend a standard action to tune the mechanical sensor’s parameters to only sense *prosthetics*, or even specific types of *prosthetics* (such as an arm *prosthetic*). Another example, the Detector Set talent’s ecology detector senses specific creature types. The ecology detector could be adjusted to search for only specific types of animals (such as cats only), or even a specific animal (such as a particular large mountain cat). The user must be aware of a creature (such as having succeeded at an appropriate Knowledge check or similar) to set a *detector’s* parameters to sense for a specific or unique piece of information. A *detector* cannot be adjusted to sense a specific object or creature unless you possess the Advanced Transmission legendary talent.
+**Specific Detection:** Any *detector* capable of detecting information which includes a large set of potential parameters (such as a mechanical sensor) may be adjusted as a standard action to sense a more limited subset of the options normally detected. For example, the mechanical sensor normally senses all mechanical items. A user could spend a standard action to tune the mechanical sensor’s parameters to only sense *prosthetics*, or even specific types of *prosthetics* (such as an arm *prosthetic*). Another example, the Detector Set talent’s ecology detector senses specific creature types. The ecology detector could be adjusted to search for only specific types of animals (such as cats only), or even a specific animal (such as a particular large mountain cat). The user must be aware of a creature (such as having succeeded at an appropriate Knowledge check or similar) to set a *detector’s* parameters to sense for a specific or unique piece of information. A *detector* cannot be adjusted to sense a specific object or creature unless you possess the Advanced Transmission legendary talent.
 
 All *detectors* have the following battery use:
 
-- **Battery Use**: The user may deplete 1 battery to activate the *detector* as a standard action (down from 1 minute).
+- **Battery Use:** The user may deplete 1 battery to activate the *detector* as a standard action (down from 1 minute).
 
 ### Transmitter
 
@@ -108,7 +108,7 @@ Non-Transmitter Gizmos and the (Transmission) Package: Any gizmo may be crafted 
 
 If a gizmo or other ability must be “within signal range”, the gizmo may be within the signal range of any *transmitter* the crafter could make (including the communicator accommodation). In essence, the crafter may adjust any *transmitter* to be able to function with gizmos or abilities which are activated, used, or must be within signal range, even if the *transmitter* would not normally produce that type of signal.
 
-**Special - (Computation) Package, Signals and Storage**: Storage routines (or other effects capable of storing information) may log, store, or track signals that its installed gizmo receives. Signals are generally short, specific messages (constituting 10 words or less), or may be longer or more complex, such as those from the communicator accommodation.
+**Special - (Computation) Package, Signals and Storage:** Storage routines (or other effects capable of storing information) may log, store, or track signals that its installed gizmo receives. Signals are generally short, specific messages (constituting 10 words or less), or may be longer or more complex, such as those from the communicator accommodation.
 
 # Projects
 
@@ -122,7 +122,7 @@ Unlike a normal gizmo, a project is a permanent construction and does not count 
 
 Projects are more permanent but can only be repaired by a crafter with the talents necessary to have built the project (and with the same Tinker tradition, if using Tinker traditions). While projects do not require maintenance like a normal gizmo, it is presumed some level of general maintenance is given to projects as they continue to function (whether by cleaning, general repairs for wear and tear, etc.).
 
-**“Project Materials” - Gathering and Preparing Materials for Projects**: As part of paying the cost of a project, the creator can scavenge, produce, or otherwise find the materials to continue the project. The creator can spend 4 hours gathering materials to attempt a DC 15 associated skill check generating 50 gp worth of materials + 50 gp for every 5 points the check exceeds the associated skill DC (always collecting a minimum of 50 gp of project materials, even if the associated skill check is failed). Project materials otherwise hold no value and follow the rule for selling gizmos if sold (see **Section 1.1: Introduction and Sphere Basics, Gizmos**).
+**“Project Materials” - Gathering and Preparing Materials for Projects:** As part of paying the cost of a project, the creator can scavenge, produce, or otherwise find the materials to continue the project. The creator can spend 4 hours gathering materials to attempt a DC 15 associated skill check generating 50 gp worth of materials + 50 gp for every 5 points the check exceeds the associated skill DC (always collecting a minimum of 50 gp of project materials, even if the associated skill check is failed). Project materials otherwise hold no value and follow the rule for selling gizmos if sold (see **Section 1.1: Introduction and Sphere Basics, Gizmos**).
 
 The time spent gathering project materials is also presumed to be time spent preparing the materials to be fabricated into the final product (i.e. forging the plates of a *mechanoid’s* chassis, preparing the copper wiring for an energy cable, mixing the cement for pipes, etc.).
 
@@ -130,7 +130,7 @@ When gathering project materials, the character must decide which project the ga
 
 Project materials can also be purchased for their gp cost while in a settlement.
 
-**Recycling and Recovering Project Materials**: Whenever a project is destroyed (either by willingly dismantling it, as part of maintaining your gizmos, or by other means), 25% of the total gold spent on the project can be recovered as project material (this includes spent project material). The amount of project material you can recover is increased if you possess the Redundant Systems talent.
+**Recycling and Recovering Project Materials:** Whenever a project is destroyed (either by willingly dismantling it, as part of maintaining your gizmos, or by other means), 25% of the total gold spent on the project can be recovered as project material (this includes spent project material). The amount of project material you can recover is increased if you possess the Redundant Systems talent.
 
 # Artificial Intelligence
 
@@ -154,65 +154,65 @@ A primary example is whether a gizmo can receive signals. A gizmo intentionally 
 
 This section includes the various tables that the (transmission) package *detectors* use to sense and display information. Each table notes the talent and detector name the table belongs to.
 
-### **Table: Mechanism Signature Strength**
+### Table: Mechanism Signature Strength
 
-| **Gizmo Level**|**Strength**|**Lingering Signature Duration** |
+| **Gizmo Level** | **Strength** | **Lingering Signature Duration** |
 | --- | --- | --- |
 | 1-5 | Weak | 1d6 rounds |
 | 6-11 | Considerate | 1d6 minutes |
 | 12-20 | Potent | 1d6 x 10 minutes |
 | 21+ | Astounding | 1d6 days |
 
-**Talent**: Base (transmission) package
-**Detector**: Mechanism Sensor
+**Talent:** Base (transmission) package
+**Detector:** Mechanism Sensor
 
-**Mechanism Signature Strength Notes**: Mechanical items leave behind signs of their influence even after being removed from the area or being destroyed (such as gunpowder residue from a firearm, or lingering fuel particles from a used battery). In such a case, detection reveals a signature strength of diluted (even weaker than a weak signature). How long the signature lingers at this diluted level depends on its original power.
+**Mechanism Signature Strength Notes:** Mechanical items leave behind signs of their influence even after being removed from the area or being destroyed (such as gunpowder residue from a firearm, or lingering fuel particles from a used battery). In such a case, detection reveals a signature strength of diluted (even weaker than a weak signature). How long the signature lingers at this diluted level depends on its original power.
 
-**Craft DCs and Signature Strength**: For non-sphere crafted items (mechanical items, alchemical items if using the alchemical sensor *detector*, etc.), use the object’s Craft DC as the relevant skill check DC to identify the item; if the detected item has no Craft DC, the DC to identify the item is subject to DM discretion.
+**Craft DCs and Signature Strength:** For non-sphere crafted items (mechanical items, alchemical items if using the alchemical sensor *detector*, etc.), use the object’s Craft DC as the relevant skill check DC to identify the item; if the detected item has no Craft DC, the DC to identify the item is subject to DM discretion.
 
-### **Table: Armament Signature Strength**
+### Table: Armament Signature Strength
 
 |  |  |
 | --- | --- |
-| **Type**|**Strength** |
+| **Type** | **Strength** |
 | Unremarkable | Diluted |
 | Masterwork | Weak |
 | 1-2 enchantment | Considerate |
 | 3-4 enchantment | Potent |
 | 5+ enchantment | Astounding |
 
-**Talent**: Detection Mastery
-**Detector**: Armament Sensor
+**Talent:** Detection Mastery
+**Detector:** Armament Sensor
 
-**Note**: The Craft DC to identify a detected object is equal to the detected object’s Craft DC. If there is no Craft DC associated with the detected object, treat the DC as 15 (or higher, subject to GM discretion).
+**Note:** The Craft DC to identify a detected object is equal to the detected object’s Craft DC. If there is no Craft DC associated with the detected object, treat the DC as 15 (or higher, subject to GM discretion).
 
 ### **Table**: Creature Signature Strength
 
-| **HD**|**Strength** |
+| **HD** | **Strength** |
 | --- | --- |
 | 1 or lower | Weak |
 | 2-4 | Considerate |
 | 5-10 | Potent |
 | 11+ | Astounding |
 
-**Talent**: Detection Mastery
-**Detector**: Ecology Sensor
+**Talent:** Detection Mastery
+**Detector:** Ecology Sensor
 
 ### **Table**: Density Signature Strength
 
-| **Density**|**Example**|**Signature Strength** |
+| **Density** | **Example** | **Signature Strength** |
 | --- | --- | --- |
 | Ultra light | Balsa wood, feathers, shredded paper | Weak |
 | Light | Charcoal, cork, darkwood, flour, hay, snow | Considerate |
 | Dense | Flesh, iron, mithral, sand, soil, stone, water, wood | Potent |
 | Superdense | Adamantine, gold, lead, silver | Astounding |
 
-**Talent**: Excavation Set
-**Detector**: Density Sensor
+**Talent:** Excavation Set
+**Detector:** Density Sensor
 
-### **Table: Radiation Effects**
+### Table: Radiation Effects
 
-| **Radiation Level**|**Fort Save**|**Primary Effect**|**Secondary Effect** |
+| **Radiation Level** | **Fort Save** | **Primary Effect** | **Secondary Effect** |
 | --- | --- | --- | --- |
 | None | – | – | – |
 | Low | 13 | 1 Con drain | 1 Str damage/day |
@@ -222,7 +222,7 @@ This section includes the various tables that the (transmission) package *detect
 
 ### **Talent**: Radiation Set
 
-**Detector**: Radiation Sensor
+**Detector:** Radiation Sensor
 
 The rules for radiation are reprinted for convenience from *Pathfinder Campaign Setting: Technology Guide*.
 
@@ -230,15 +230,15 @@ Radiation is a poison effect, whose primary effect causes Constitution drain and
 
 Radiation dangers are organized into four categories: low, medium, high, and severe.
 
-**Primary Effect**: Radiation initially deals Constitution drain unless the exposed character succeeds at a Fortitude saving throw. A new saving throw must be attempted to resist radiation’s initial damage each round a victim remains exposed to it.
+**Primary Effect:** Radiation initially deals Constitution drain unless the exposed character succeeds at a Fortitude saving throw. A new saving throw must be attempted to resist radiation’s initial damage each round a victim remains exposed to it.
 
-**Secondary Effect**: Secondary effects from radiation deal Strength damage at a much slower rate than most poisons. This secondary effect ends only after a character succeeds at two consecutive Fortitude saving throws to resist secondary radiation damage. If a character has Strength damage equal to his current Strength score, further damage dealt a secondary effect is instead Constitution damage.
+**Secondary Effect:** Secondary effects from radiation deal Strength damage at a much slower rate than most poisons. This secondary effect ends only after a character succeeds at two consecutive Fortitude saving throws to resist secondary radiation damage. If a character has Strength damage equal to his current Strength score, further damage dealt a secondary effect is instead Constitution damage.
 
-**Removing Radiation Effects**: All radiation damage is a poison effect, and as such it can be removed with any effect that neutralizes poison. Ability damage and drain caused by radiation damage can be healed normally.
+**Removing Radiation Effects:** All radiation damage is a poison effect, and as such it can be removed with any effect that neutralizes poison. Ability damage and drain caused by radiation damage can be healed normally.
 
 **Table: Relativistic Signals**
 
-| **Type**|**Strength** |
+| **Type** | **Strength** |
 | --- | --- |
 | Equal to the relative variable | Equivalent |
 | -3 or less of the relative variable | Diluted |
@@ -247,12 +247,12 @@ Radiation dangers are organized into four categories: low, medium, high, and sev
 | +2 or more of the relative variable | Potent |
 | +3 or more of the relative variable | Astounding |
 
-**Talent**: Detection Mastery
-**Detector**: Relativistic Signals (any)
+**Talent:** Detection Mastery
+**Detector:** Relativistic Signals (any)
 
-### **Table: Temperatures**
+### Table: Temperatures
 
-| **Temp (C/F)**|**Reference Point**|**Temp (C/F)**|**Reference Point** |
+| **Temp (C/F)** | **Reference Point** | **Temp (C/F)** | **Reference Point** |
 | --- | --- | --- | --- |
 | -273.15 / -459.67 | Absolute zero | 38 / 100 | Desert temperatures |
 | -30/-22 | Arctic temperatures | 100 / 212 | Water boils |
@@ -265,7 +265,7 @@ Radiation dangers are organized into four categories: low, medium, high, and sev
 
 1 This is the temperature of an average creature of its type/subtype, and variance within said type/subtype is to be assumed.
 
-**Note**: When using a heat sensor, GMs are encouraged to approximate an area’s temperatures. **Table: Temperatures** provides average temperatures of common environments, locations, and creatures as suggestions and points of comparison.
+**Note:** When using a heat sensor, GMs are encouraged to approximate an area’s temperatures. **Table: Temperatures** provides average temperatures of common environments, locations, and creatures as suggestions and points of comparison.
 
 ## Innate Gizmos
 
@@ -284,7 +284,7 @@ Occasionally, a Tinker practitioner may come across gizmos crafted by other gizm
 
 With a successful proficiency check (using the gizmo’s associated skill check), a Tinker practitioner can maintain a gizmo made by another crafter as though it were their own. A gizmo maintained this way cannot be altered or adjusted unless the crafter possesses the appropriate talents used to craft the gizmo, and their ranks in the associated skill equal or exceed the gizmo’s gizmo level; in effect, unless the Tinker practitioner could have built one themselves, they are only able to repair and maintain the gizmo in the state the crafter made it.
 
-**Adjusting Scavenged Prosthetics**: *Prosthetics* can be adjusted for a new wearer, even if the tinker practitioner could not alter or adjust the *prosthetic* normally, by succeeding at a proficiency check (using the *prosthetic’s* associated skill check). For example, adjusting a *prosthetic* arm designed for a massive draconid warrior to be worn by the human knight that bested it in combat.
+**Adjusting Scavenged Prosthetics:** *Prosthetics* can be adjusted for a new wearer, even if the tinker practitioner could not alter or adjust the *prosthetic* normally, by succeeding at a proficiency check (using the *prosthetic’s* associated skill check). For example, adjusting a *prosthetic* arm designed for a massive draconid warrior to be worn by the human knight that bested it in combat.
 
 ## Sources of Mobility
 
@@ -292,7 +292,7 @@ The Pathfinder core rules do not cover how a creature with multiple types of mov
 
 This book suggests the following, when considering the Tinker sphere granting numerous different movement modes of the same kind (such as treads for difficult terrain, wheels for flat surfaces, and so on):
 
-**Multiple Movement Modes**: You may gain or grant different kinds of mobility (such as legs, wheels, or treads), that each provide separate benefits if used as your primary method of mobility. Whenever you move, you decide which movement modes (of each kind) to use. If you use multiple movement modes of the same kind (i.e. a land speed with 20 feet (“A”) and a land speed of 30 feet “(B”)), you could move 15 feet using “A” and then the remaining 15 feet with “B”, but if you already moved 15 feet with “B”, could only move up to 5 feet with “A”.
+**Multiple Movement Modes:** You may gain or grant different kinds of mobility (such as legs, wheels, or treads), that each provide separate benefits if used as your primary method of mobility. Whenever you move, you decide which movement modes (of each kind) to use. If you use multiple movement modes of the same kind (i.e. a land speed with 20 feet (“A”) and a land speed of 30 feet “(B”)), you could move 15 feet using “A” and then the remaining 15 feet with “B”, but if you already moved 15 feet with “B”, could only move up to 5 feet with “A”.
 
 If you have multiple sources of legs, add all types of ‘legs’ together to determine if you are a quadruped for carrying capacity and bonuses against being tripped.
 

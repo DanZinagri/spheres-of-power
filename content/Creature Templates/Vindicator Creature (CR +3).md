@@ -14,7 +14,7 @@ Sometimes, rather than executing a creature, or simply killing it in battle, an 
 
 **CR:** +3.
 
-**Defensive Abilities:** Regeneration equal to Constitution score (acid and fire), DR 5/epic (if the vindicator creature is CR 10 or higher this becomes DR 10/epic, if CR 15 or higher this becomes DR 15/epic)**Immune:** acid, fire**Weakness:** Vulnerability to Warded Creature. (A vindicator creature suffers +50% damage from a warded creature’s attacks, and suffers a -4 penalty to saves against spell or effects controlled by a warded creature; its regeneration and damage reduction are also suppressed against attacks from a warded creature.)
+**Defensive Abilities:** Regeneration equal to Constitution score (acid and fire), DR 5/epic (if the vindicator creature is CR 10 or higher this becomes DR 10/epic, if CR 15 or higher this becomes DR 15/epic) **Immune:** acid, fire **Weakness:** Vulnerability to Warded Creature. (A vindicator creature suffers +50% damage from a warded creature’s attacks, and suffers a -4 penalty to saves against spell or effects controlled by a warded creature; its regeneration and damage reduction are also suppressed against attacks from a warded creature.)
 
 **Special Abilities:** A vindicator creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -26,7 +26,7 @@ Sometimes, rather than executing a creature, or simply killing it in battle, an 
 
 **Warded Creature (Ex):** When a vindicator creature appears, the violated race, sub-race or cultural background is granted the status of warded. A vindicator creature can sense the direction, distance (exact), emotional state, and status of all warded creatures within 1 mile per the vindicator’s CR. Warded creatures within 120 ft. of the vindicator creature gain the benefits of a greater heroism spell (does not affect himself).
 
-**Abilities:** Increase from the base creature as follows:**Str**+10 (+5 to melee attack and damage, +5 to Climb and Swim checks, +5 to Strength, and CMB checks, +5 to CMD),**Dex**+10 (+5 to ranged attack rolls, AC and touch AC, Initiative checks, and Reflex saves. +5 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, +5 to any of the base creature’s Dexterity-based DCs),**Con** +10 (+5 hp per HD, +5 to Fortitude saves, and any of the base creature’s Constitution- based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +10 (+5 to melee attack and damage, +5 to Climb and Swim checks, +5 to Strength, and CMB checks, +5 to CMD), **Dex** +10 (+5 to ranged attack rolls, AC and touch AC, Initiative checks, and Reflex saves. +5 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, +5 to any of the base creature’s Dexterity-based DCs), **Con** +10 (+5 hp per HD, +5 to Fortitude saves, and any of the base creature’s Constitution- based DCs).
 
 **Feats:** Vindicator creatures gain Bleeding Critical, Blinding Critical, Critical Focus, Staggering Critical, and Stunning Critical as bonus feats, if they meet the prerequisites.
 
@@ -36,7 +36,7 @@ Sometimes, rather than executing a creature, or simply killing it in battle, an 
 
 “May you suffer a vicious wound that will not heal!”
 
-**Type**curse;**Save** Will
+**Type** curse; **Save** Will
 
 **Effect** Damage caused by critical hits to the subject cannot be healed; this includes healing by conjuration (healing) spells, channeled positive energy, natural healing, regeneration, fast healing, etc.
 

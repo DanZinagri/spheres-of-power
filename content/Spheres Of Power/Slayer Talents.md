@@ -68,11 +68,11 @@ The slayer’s gizmo limit increases by +1.
 
 The slayer gains the following abilities based on the Tinker packages they possess:
 
-**Target Sharing (requires (computation) or (transportation) package)**: Whenever the slayer uses their studied target, the slayer may transfer their studied target benefits to an AI or *mechanoid* they crafted (the “co-combatant”) instead of gaining the ability’s normal benefits. The co-combatant must be able to see or hear the slayer, or the AI’s host gizmo is in the slayer’s possession. The co-combatant loses these benefits if the slayer uses studied combat again.
+**Target Sharing (requires (computation) or (transportation) package):** Whenever the slayer uses their studied target, the slayer may transfer their studied target benefits to an AI or *mechanoid* they crafted (the “co-combatant”) instead of gaining the ability’s normal benefits. The co-combatant must be able to see or hear the slayer, or the AI’s host gizmo is in the slayer’s possession. The co-combatant loses these benefits if the slayer uses studied combat again.
 
 If the slayer could study multiple targets, the slayer can reduce the number of targets they study by 1 to share the benefits of their studied target with a co-combatant (instead of transferring the benefits).
 
-**Tracking Target (requires (transmission) package, Arsenal Set)**: When the slayer uses their studied target ability, the slayer may target a creature with an attached tracking device they crafted as an additional studied target (this is in addition to any normal targets the slayer would study, but is not treated as an additional studied target for the purposes of other effects or abilities, such as the Focused Target feat). Alternatively, the slayer may use their studied target ability against a creature with an attached tracking device as a free action (but only to study that creature).
+**Tracking Target (requires (transmission) package, Arsenal Set):** When the slayer uses their studied target ability, the slayer may target a creature with an attached tracking device they crafted as an additional studied target (this is in addition to any normal targets the slayer would study, but is not treated as an additional studied target for the purposes of other effects or abilities, such as the Focused Target feat). Alternatively, the slayer may use their studied target ability against a creature with an attached tracking device as a free action (but only to study that creature).
 
 #### Slip Through (Su)
 

@@ -8,13 +8,13 @@ parent: "[[Practitioner Bestiary]]"
 XP 1,200
 Orc hunter (beastmaster) 5
 CE Medium humanoid (orc)
-**Init**+2;**Senses**darkvision 60 ft.;**Perception** +2
+**Init** +2; **Senses** darkvision 60 ft.; **Perception** +2
 **Weakness** light sensitivity
 
 **Defense**
-**AC**15,**touch**11,**flat-footed** 14 (+3 armor, +1 Dex, +1 shield)
+**AC** 15, **touch** 11, **flat-footed** 14 (+3 armor, +1 Dex, +1 shield)
 **hp** 27 (5d8+5)
-**Fort**+5,**Ref**+4,**Will** +0
+**Fort** +5, **Ref** +4, **Will** +0
 
 **Offense**
 **Speed** 30 ft.
@@ -25,10 +25,10 @@ CE Medium humanoid (orc)
 Orc wolflords fight with bestial cunning, emulating the pack tactics of the wolves they spend their lives with. Fights begin with skirmishing tactics, sending the dire wolves and wolf companion in to attack and withdraw using Mobile Skirmisher and their speed. One the enemy has been felt out, the orc wolflord will direct some of his companions to attempt to occupy the more dangerous foes while the others team up to kill the weaker ones. The orc wolflord himself will close at this time to take advantage of the openings created by his pack, shifting his shared teamwork feats and flanking using Pack Attack to maximize the chances of tripping enemies and generating attacks of opportunity from Double Team, trusting in Defensive Teamwork to protect his pack.
 
 **Statistics**
-**Str**18,**Dex**11,**Con**12,**Int**6,**Wis**8,**Cha** 7
-**Base Atk**+3;**CMB**+7;**CMD** 17
+**Str** 18, **Dex** 11, **Con** 12, **Int** 6, **Wis** 8, **Cha** 7
+**Base Atk** +3; **CMB** +7; **CMD** 17
 **Feats** Broken Wing Gambit, Dirty Fighting, Muscular Reflexes, Tandem Trip
-**Martial Tradition**Animal Trainer,**PAM**Wis,**DC** 10
+**Martial Tradition** Animal Trainer, **PAM** Wis, **DC** 10
 **Talents** Beastmastery (handle animal package, Animal Empathy, Defensive Teamwork, Double Team, Greater Trainer x3, Pack Attack), Equipment (Bounty Hunter’s Tools, Orc Heritage, Whip Fiend)
 **Skills** Bluff +3, Handle Animal +6, Knowledge (nature) +6, Perception +7, Sense Motive +5, Survival +7 (+3 when following tracks)
 **Languages** Common, Orc
@@ -46,12 +46,12 @@ Thorns, briars, and overgrown areas that are enchanted or magically manipulated 
 ## Wolf Animal Companion
 
 N Medium animal
-**Init**+2;**Senses**Low-Light Vision, Scent;**Perception** +2
+**Init** +2; **Senses** Low-Light Vision, Scent; **Perception** +2
 
 **Defense**
-**AC**18,**touch**13,**flat-footed** 15 (+3 armor, +3 Dex, +2 natural)
+**AC** 18, **touch** 13, **flat-footed** 15 (+3 armor, +3 Dex, +2 natural)
 **hp** 32 (5d8+10)
-**Fort**+6,**Ref**+7,**Will** +2
+**Fort** +6, **Ref** +7, **Will** +2
 **Defensive Abilities** Evasion
 
 **Offense**
@@ -59,10 +59,10 @@ N Medium animal
 **Melee** bite +8 (1d8+6/x3) + trip
 
 **Statistics**
-**Str**14,**Dex**16,**Con**15,**Int**2,**Wis**12,**Cha** 6
-**Base Atk**+3;**CMB**+5;**CMD** 18
+**Str** 14, **Dex** 16, **Con** 15, **Int** 2, **Wis** 12, **Cha** 6
+**Base Atk** +3; **CMB** +5; **CMD** 18
 **Feats** Light Armor Proficiency, trade 3 for Assassin martial monster tradition
-**Martial Tradition**Assassin,**PAM**Wis,**DC** 12
+**Martial Tradition** Assassin, **PAM** Wis, **DC** 12
 **Talents** Athletics (run package, Mobile Striker) Duelist (…And Stay Down!)
 **Skills** Acrobatics +11, Perception +8, Survival +5
 **SQ** link

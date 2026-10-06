@@ -10,19 +10,19 @@ parent: "[[Spheres Of Power]]"
 
 A hemetic philosopher learns to unlock the hidden potential of blood through the application of alchemy.
 
-### Class Skills
+## Class Skills
 
 The hemetic philosopher gains Knowledge (all) (Int) as class skills.
 
 This alters class skills.
 
-### Phlebotomy
+## Phlebotomy
 
 At 1st level, the hemetic philosopher gains the Blood sphere as a bonus magic talent, or a talent from that sphere if he already possesses it, and treats his class level as his caster level for this sphere. This stacks normally with caster levels gained from other sources.
 
 This replaces the throw anything class feature and bombs.
 
-### Crimson Vials
+## Crimson Vials
 
 Starting at 3rd level, the hemetic philosopher may spend one minute to create a temporary potion. If he spends a spell point he may reduce this to a full-round action that provokes attacks of opportunity. The potion may have a complexity of no higher than 1 per three class levels and lasts one hour per class level. A potion created in this way normally has a caster level equal to the hemetic philosopher’s blood sphere caster level, but he may choose to create a potion at a lower caster level. He may have a number of temporary potions in existence at a time equal to his casting ability modifier; creating one beyond this limit causes the oldest one to become inert and useless.
 

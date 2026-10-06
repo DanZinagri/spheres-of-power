@@ -1398,19 +1398,19 @@ The GM is free to put additional limitations on procedures as he sees fit to ena
 
 #### Beginner Jets
 
-**Gadget**Jet-boosters;**Blueprint Level** 2
+**Gadget** Jet-boosters; **Blueprint Level** 2
 **Description** This blueprint can be substituted for item creation purposes.
 
 #### Portal To Hell
 
-**Sphere**Warp;**Procedure Level** 9
+**Sphere** Warp; **Procedure Level** 9
 **Preparation Time:** 2 days
 **Components** A 9th level technological facility
 **Description** This functions as the gate spell, except it can only function as a means of interdimensional travel, and cannot be used to call creatures.
 
 #### Universal Translator
 
-**Sphere**Divination;**Procedure Level** 3
+**Sphere** Divination; **Procedure Level** 3
 **Preparation Time** 30 minutes
 **Components** Requires a tiny portable device to house a base translator unit worth 25 gp.
 **Description** This functions as the tongues spell.

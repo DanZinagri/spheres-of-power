@@ -11,22 +11,22 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Conservationist [Mana HB]
+#### Conservationist [Mana HB]
 
 You prize the value of mana, and hate to see it disappear. You cannot use the Spellburn option of the expunge ability. You may not utilize any ability from a talent that deals spell point damage. Abilities that transfer them (such as Manathief) are still able to be used. You must select an (expunge) talent when taking this drawback.
 
-## Incongruent [Mana HB]
+#### Incongruent [Mana HB]
 
 You lack a source of magical empathy. You cannot gain or use (manabond) talents or create manabonds, but you may still be targeted by manabonds created by other creatures.
 
 **Incompatible:** Selfish Caster
 
-## Selfish Caster [Mana HB]
+#### Selfish Caster [Mana HB]
 
 Your source of magic is unstable, and interacts poorly with the mana within other spellcasters. You may not use (manipulation) talents, and may not take talents that allow you to grant spell points or talents to other creatures.
 
 **Incompatible:** Incongruent
 
-## Weapon-bound [Mana HB]
+#### Weapon-bound [Mana HB]
 
 Your Mana sphere talents fizzle without a physical vessel to deliver them. You may only deliver an (expunge) or a (manipulation) through the use of the Manasurge Strike talent.

@@ -13,22 +13,22 @@ This giant’s skin is black and pitted, like roughly cast iron, and etched with
 XP 614,400
 Pathfinder Roleplaying Game Bestiary 2
 LE Gargantuan humanoid (giant, mythic)
-**Init**+0/–20, dual initiativeMA;**Senses** low-light vision, true seeing; Perception +29
+**Init** +0/–20, dual initiativeMA; **Senses** low-light vision, true seeing; Perception +29
 **Aura** maddening runesMA (30 ft., DC 25)
 
 #### Defense
 
-**AC**42,**touch**6,**flat-footed** 42 (+12 armor, +24 natural, –4 size)
+**AC** 42, **touch** 6, **flat-footed** 42 (+12 armor, +24 natural, –4 size)
 **hp** 362 (20d8+272)
-**Fort**+16,**Ref**+6,**Will** +20
-**Defensive Abilities**fortificationMA (50%), second saveMA, sword parryMA; DR 10/epic;**Immune**cold, electricity, fire;**SR** 37
+**Fort** +16, **Ref** +6, **Will** +20
+**Defensive Abilities** fortificationMA (50%), second saveMA, sword parryMA; DR 10/epic; **Immune** cold, electricity, fire; **SR** 37
 
 #### Offense
 
 **Speed** 35 ft. (50 ft. without armor); air walk
 **Melee** +3 adamantine longsword +31/+26/+21 (4d6+37/17–20/x3) or 2 slams +28 (2d6+17)
 **Ranged** mwk spear +12/+7/+2 (4d6+17/×3)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** command giantsMA, mythic power (9/day, surge +1d10), runesMA (DC 25), spark showerMA (DC 30)
 
 **Spell-Like Abilities** (CL 20th; concentration +25)
@@ -39,8 +39,8 @@ At will—charm person (DC 16), suggestion (DC 18)
 
 #### Statistics
 
-**Str**45,**Dex**11,**Con**30,**Int**14,**Wis**23,**Cha** 20
-**Base Atk**+15;**CMB**+36;**CMD** 46
+**Str** 45, **Dex** 11, **Con** 30, **Int** 14, **Wis** 23, **Cha** 20
+**Base Atk** +15; **CMB** +36; **CMD** 46
 **Feats** Awesome Blow, Critical FocusMF, Improved Bull Rush, Improved Critical (longsword)MF, Improved Vital Strike, Iron WillMF, Power AttackMF, Quick Draw, Staggering Critical, Vital StrikeMF
 **Skills** Acrobatics +15 (+23 to jump without armor), Craft (any one) +25, Knowledge (history) +12, Knowledge (nobility) +12, Perception +29
 **Languages** Common, Giant, Terran
@@ -67,4 +67,4 @@ At will—charm person (DC 16), suggestion (DC 18)
 
 #### Giant Mythic Rune Giant
 
-With the giant simple template, a mythic rune giant’s stats are as follows: **CR**23/**MR**9;**XP**819,200;**Size**Colossal;**Init**-1/-21;**AC**40,**touch**1,**flat-footed**40;**hp**402 (20d8+312);**Fort**+18,**Ref**+5;**SR**38;**Melee**+3 adamantine longsword +29/+24/+19 (4d8+41/17–20/x3) or 2 slams +26 (2d8+19);**Ranged**mwk spear +7/+2/-3 (4d8+19/×3);**Space**30 ft.,**Reach**30 ft.;**Str**49,**Dex**9,**Con**34;**CMB**+42;**CMD**51;**Skills** Acrobatics +14 (+22 jump).
+With the giant simple template, a mythic rune giant’s stats are as follows: **CR** 23/**MR** 9; **XP** 819,200; **Size** Colossal; **Init** -1/-21; **AC** 40, **touch** 1, **flat-footed** 40; **hp** 402 (20d8+312); **Fort** +18, **Ref** +5; **SR** 38; **Melee** +3 adamantine longsword +29/+24/+19 (4d8+41/17–20/x3) or 2 slams +26 (2d8+19); **Ranged** mwk spear +7/+2/-3 (4d8+19/×3); **Space** 30 ft., **Reach** 30 ft.; **Str** 49, **Dex** 9, **Con** 34; **CMB** +42; **CMD** 51; **Skills** Acrobatics +14 (+22 jump).

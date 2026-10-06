@@ -53,7 +53,7 @@ As an additional effect a blood magic creature can expend one blood point to mak
 ** Advanced Player’s Guide
 X See Below
 
-**Abilities:** Increase from the base creature as follows:**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), Int +4 (add 2 bonus languages, add 2 skill points per HD, +2 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks +2 to any of the base creature’s Intelligence-based DCs),**Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), Int +4 (add 2 bonus languages, add 2 skill points per HD, +2 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks +2 to any of the base creature’s Intelligence-based DCs), **Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs).
 
 ---
 
@@ -61,13 +61,13 @@ X See Below
 
 ### Blood Protectors
 
-**School:** Conjuration (Creation);**Level:** Clr 9
+**School:** Conjuration (Creation); **Level:** Clr 9
 **Casting Time:** 1 standard action
 **Components:** V, S, M/DF (your fresh blood)
 **Range:** Close (25 ft. + 5 ft./2 levels)
 **Effect:** One or more summoned creatures, no two of which can be more than 30 ft. apart
 **Duration:** 1 minute/level
-**Saving Throw:** None;**Spell Resistance:** No
+**Saving Throw:** None; **Spell Resistance:** No
 
 You channel divine energy into your own shed blood, transforming and expanding the drops of blood into a group of warriors. You can create one creature for every four levels (so, a 20th level cleric could spawn five of these creatures). Each blood protector created costs one hit point’s worth of shed blood.
 
@@ -75,13 +75,13 @@ Blood protectors appear humanoid but have no distinct features; their bodies are
 
 **Blood Protector**
 N Medium construct (water)
-**Init**+8;**Senses** darkvision 60 ft., low-light vision;
+**Init** +8; **Senses** darkvision 60 ft., low-light vision;
 **Perception** +0
 
 **Defense**
-**AC**26,**touch**14,**flat-footed** 22 (+4 Dex, +10 armor +2 shield)
+**AC** 26, **touch** 14, **flat-footed** 22 (+4 Dex, +10 armor +2 shield)
 **hp** 69 (9d10+20)
-**Fort**+4,**Ref**+8,**Will** +4
+**Fort** +4, **Ref** +8, **Will** +4
 **Immune** construct traits
 
 **Offense**
@@ -89,18 +89,18 @@ N Medium construct (water)
 **Melee** +5 shortsword or +5 shortspear +19/+14 (2d6+10)
 
 **Statistics**
-**Str**20,**Dex**18,**Con**—,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+9;**CMB**+14;**CMD** 18
+**Str** 20, **Dex** 18, **Con** —, **Int** —, **Wis** 11, **Cha** 1
+**Base Atk** +9; **CMB** +14; **CMD** 18
 
 ### Blood to Sap
 
-**School:** Transmutation;**Level:** Drd 5, Sor/Wiz 6
+**School:** Transmutation; **Level:** Drd 5, Sor/Wiz 6
 **Casting Time:** 1 standard action
 **Components:** V, S, M (a piece of amber)
 **Range:** Close (25 ft. + 5 ft./2 levels)
 **Target:** One creature
 **Duration:** 1 round/level
-**Saving Throw:** Fortitude partial; see text;**Spell Resistance:** Yes
+**Saving Throw:** Fortitude partial; see text; **Spell Resistance:** Yes
 
 This spell causes one target creature’s blood to thicken and slow in its veins. An affected creature suffers excruciating pain, taking an immediate 1d6 points of damage per caster level (maximum 15d6). In addition, it moves at half its normal speed and it takes a –4 circumstance penalty on Dexterity as its limbs stiffen.
 
@@ -108,25 +108,25 @@ At the same time, the creature’s skin hardens and becomes more resilient, impr
 
 ### Blood to Gold
 
-**School:** Transmutation;**Level:** Sor/Wiz 7
+**School:** Transmutation; **Level:** Sor/Wiz 7
 **Casting Time:** 1 standard action
 **Components:** V, S, M (10 gold pieces)
 **Range:** Close (25 ft. + 5 ft./2 levels)
 **Target:** One living creature; see text
 **Duration:** 1 round/level
-**Saving Throw:** Fortitude partial;**Spell Resistance:** Yes
+**Saving Throw:** Fortitude partial; **Spell Resistance:** Yes
 
 This spell transforms the blood of a living creature (one that has blood) to molten gold (10 gp worth). The target creature suffers 2 points of Constitution damage and 4d6 fire damage per round. A heal spell cast during this time saves the creature’s life, healing the damage and negating the spell. Creatures successful in their saving throws suffer only 4d6 points of fire damage and the spell ends.
 
 ### Call of the Bloodstone
 
-**School:** Enchantment (Compulsion);**Level:** Brd 6, Sor/Wiz 6
+**School:** Enchantment (Compulsion); **Level:** Brd 6, Sor/Wiz 6
 **Casting Time:** 1 round
 **Components:** V, S, M (a bloodstone worth 500 gp)
 **Range:** Unlimited
 **Target:** One creature
 **Duration:** See text
-**Saving Throw:** None;**Spell Resistance:** Yes
+**Saving Throw:** None; **Spell Resistance:** Yes
 
 A specific creature you name (a creature without a name is immune) must immediately attack the nearest creature it is aware of. After the subject attacks once, the spell ends (regardless of success). The subject may have to pass through dangerous areas (moving through a region covered by enemy archers) to get at the creature, or it may even have to break through a barrier. A barrier that requires more than 5 rounds to get through is considered impassable for the purposes of this spell. The spell ends immediately if the subject physically cannot reach the creature—including a situation forcing the subject to pass through an area that would, without a doubt, kill it. For example, a subject that breathes only in water but must cross land to reach its target is unaffected by the spell.
 

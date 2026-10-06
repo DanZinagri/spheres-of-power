@@ -22,40 +22,40 @@ parent: "[[Spheres Of Power]]"
 
 **Recommended Casting Tradition:** The classic feel of the medium can be recreated through taking the focused casting (harrow deck) and skilled casting: perform (seance) drawbacks. Alternatively, those with the Player’s Guide to Skybourne may desire to utilize the emotional and logical drawbacks which are equally appropriate.
 
-### Spherecaster Spirit
+## Spherecaster Spirit
 
-#### Spirit Bonus
+### Spirit Bonus
 
 When you channel a spherecaster, your spirit bonus applies to your caster level.
 
-#### Seance Boon
+### Seance Boon
 
 Gain a temporary spell point that lasts for 24 hours, or until you change spirits.
 
-#### Favored Locations
+### Favored Locations
 
 Areas of unusual magic, hallowed/unhallowed areas, and libraries.
 
-#### Influence Penalty
+### Influence Penalty
 
 Take a penalty to concentration checks equal to twice your spirit bonus.
 
-#### Taboos
+### Taboos
 
 Choose one: You must provide magical assistance whenever asked; you must use your own magical solution to a problem if you can, even if a mundane solution that would require fewer resources is available; you must decline magical aid from others at all times and you must make a Will saving throw against even harmless spells and abilities.
 
-##### Sphere Apprentice (Lesser, Su)
+#### Sphere Apprentice (Lesser, Su)
 
 Grant yourself the benefit of any one magic talent you don't possess. If you gain a magic talent other than a base sphere, you must possess that talent's base sphere.
 
-##### Sphere Surge (Intermediate, Su)
+#### Sphere Surge (Intermediate, Su)
 
 You may allow the spherecaster spirit to gain 1 point of influence over you to reduce the spell cost of a sphere talent or ability you use by 1.
 
-##### Sphere Adept (Greater, Su)
+#### Sphere Adept (Greater, Su)
 
 Grant yourself the benefit of any two magic talents you don't possess. If you gain magic talents other than base spheres, you must possess that talent's base sphere, although one of the two magic talents may be used as a prerequisite for the other.
 
-##### Sphere Master (Supreme, Su)
+#### Sphere Master (Supreme, Su)
 
 Once per day, you may cast any sphere talent or ability you know without spending any spell points.

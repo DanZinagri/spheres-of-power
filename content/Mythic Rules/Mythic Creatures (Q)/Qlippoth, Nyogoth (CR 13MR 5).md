@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (Q)]]"
 XP 25,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium outsider (chaotic, evil, extraplanar, mythic, qlippoth)
-**Init**+7/ 13, dual initiativeMA;**Senses** darkvision 60 ft.; Perception +17
+**Init** +7/ 13, dual initiativeMA; **Senses** darkvision 60 ft.; Perception +17
 
 #### Defense
 
-**AC**31,**touch**17,**flat-footed** 24 (+7 Dex, +14 natural)
+**AC** 31, **touch** 17, **flat-footed** 24 (+7 Dex, +14 natural)
 **hp** 175 (10d10+120)
-**Fort**+14,**Ref**+14,**Will** +7
-**Defensive Abilities**poisonous acid sprayMA; DR 10/epic and lawful;**Immune**acid, cold, poison, mind-affecting effects;**Resist** electricity 10, fire 10
+**Fort** +14, **Ref** +14, **Will** +7
+**Defensive Abilities** poisonous acid sprayMA; DR 10/epic and lawful; **Immune** acid, cold, poison, mind-affecting effects; **Resist** electricity 10, fire 10
 
 #### Offense
 
@@ -33,8 +33,8 @@ At will—acid arrow
 
 #### Statistics
 
-**Str**16,**Dex**25,**Con**24,**Int**9,**Wis**19,**Cha** 16
-**Base Atk**+10;**CMB**+17 (+25 grapple);**CMD** 30 (can’t be tripped)
+**Str** 16, **Dex** 25, **Con** 24, **Int** 9, **Wis** 19, **Cha** 16
+**Base Atk** +10; **CMB** +17 (+25 grapple); **CMD** 30 (can’t be tripped)
 **Feats** Agile ManeuversB, Combat Reflexes, Improved Critical (bite)MF, Power AttackMF, Vital Strike, Weapon FinesseMF
 **Skills** Fly +24, Intimidate +16, Knowledge (planes) +12, Perception +17, Stealth +20
 **Languages** Abyssal; telepathy 100 ft.

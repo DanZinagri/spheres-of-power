@@ -12,21 +12,21 @@ This tall, green-scaled humanoid is crowned with a spired diadem of gold and eme
 **Sakathan (CR 15/MR 6)**
 XP 25,600
 LE Medium undead (augmented humanoid, extraplanar, mythic, reptilian, shapechanger)
-**Init**+11MF;**Senses** darkvision 60 ft., mistsightMA; Perception +32
+**Init** +11MF; **Senses** darkvision 60 ft., mistsightMA; Perception +32
 
 #### Defense
 
-**AC**31,**touch**13,**flat-footed** 28 (+2 Dex, +1 dodge, +18 natural)
+**AC** 31, **touch** 13, **flat-footed** 28 (+2 Dex, +1 dodge, +18 natural)
 **hp** 237 (14d8+146); fast healing 5
-**Fort**+10,**Ref**+8,**Will** +14
-**Defensive Abilities**channel resistance +4; DR 10/epic, magic, and silver;**Immune**undead traits;**Resist**cold 10, electricity 10;**SR** 29
+**Fort** +10, **Ref** +8, **Will** +14
+**Defensive Abilities** channel resistance +4; DR 10/epic, magic, and silver; **Immune** undead traits; **Resist** cold 10, electricity 10; **SR** 29
 **Weaknesses** infernal regalia, stygian weaknesses, vulnerability to fire
 
 #### Offense
 
 **Speed** 30 ft., swim 20 ft.
 **Melee** +1 Large mythic bane trident +20/+15 (2d6+13/17–20/x3 plus energy drain), bite +13 (1d6+4 plus blood drain and energy drain)
-**Space**5 ft.;**Reach** 5 ft. (10 ft. with Large trident)
+**Space** 5 ft.; **Reach** 5 ft. (10 ft. with Large trident)
 **Special Attacks** create spawn, disjoining criticalMA, dominate (DC 25), energy drain (2 levels, DC 25), gaze of dominionMA, lizard king, mythic power (6/day, surge +1d8), power drainMMA, scaly servants, skewering trident
 
 **Spell-Like Abilities** (CL 14th; concentration +20)
@@ -44,10 +44,10 @@ At will—scrying (on spawn only), sending (to spawn only)
 
 #### Statistics
 
-**Str**26,**Dex**15,**Con**—,**Int**14,**Wis**20,**Cha** 27
-**Base Atk**+10;**CMB**+18;**CMD** 31
+**Str** 26, **Dex** 15, **Con** —, **Int** 14, **Wis** 20, **Cha** 27
+**Base Atk** +10; **CMB** +18; **CMD** 31
 **Feats** AlertnessB, Combat Casting, Combat ReflexesB, DodgeB, Empower Spell, Eschew MaterialsB, Improved Critical (trident), Improved InitiativeB,MF, Lingering PerformanceAPG, Lightning ReflexesB, Mythic Spell LoreMF, Power AttackMF, Quicken Spell, ToughnessB, Weapon Focus (trident)
-**Skills**Bluff +20, Climb +12, Diplomacy +12, Disguise +12, Fly +15, Intimidate +22, Knowledge (arcana) +10, Knowledge (nature) +10, Knowledge (religion) +10, Perception +34, Sense Motive +22, Spellcraft +10, Stealth +24, Swim +17;**Racial Modifiers** +8 Bluff, +8 Perception, +8 Sense Motive, +8 Stealth
+**Skills** Bluff +20, Climb +12, Diplomacy +12, Disguise +12, Fly +15, Intimidate +22, Knowledge (arcana) +10, Knowledge (nature) +10, Knowledge (religion) +10, Perception +34, Sense Motive +22, Spellcraft +10, Stealth +24, Swim +17; **Racial Modifiers** +8 Bluff, +8 Perception, +8 Sense Motive, +8 Stealth
 **Languages** Common, Draconic, Infernal
 **SQ** change shape (Tiny, Small, Medium, or Large reptilian animal or reptilian humanoid; alter self, beast shape II), divine source, gaseous form, secret scrier
 

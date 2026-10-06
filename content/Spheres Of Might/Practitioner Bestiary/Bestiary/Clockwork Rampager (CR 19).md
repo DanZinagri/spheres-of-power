@@ -7,30 +7,30 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 204,800
 N Gargantuan construct (clockwork)
-**Init**+9;**Senses**darkvision 60 ft., low-light vision;**Perception** +0
+**Init** +9; **Senses** darkvision 60 ft., low-light vision; **Perception** +0
 
 **Defense**
-**AC**33,**touch**13,**flat-footed** 26 (+5 Dex, +2 dodge, +20 natural, -4 size)
+**AC** 33, **touch** 13, **flat-footed** 26 (+5 Dex, +2 dodge, +20 natural, -4 size)
 **hp** 192 (24d10+60)
-**Fort**+8,**Ref**+15,**Will** +8
-**Defenses**DR 15/adamantine;**Immune** construct traits
+**Fort** +8, **Ref** +15, **Will** +8
+**Defenses** DR 15/adamantine; **Immune** construct traits
 **Weakness** vulnerable to electricity
 
 **Offense**
 **Speed** 40 ft.
 **Melee** 4 slams +37 (3d6+25)
 **Ranged** cannon +25/+20/+15/+10 (6d6/x4)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** deadly shot (+7d10), self-destruction, sweep +35, trample (3d6+25, DC 41)
 
 **Tactics**
 Rampagers try to begin each combat at a distance, using their cannons and the Sniper sphere for maximum damage. In close combat, they make use of their slam attacks, their sweep, and Sweeping kick to knock opponents down before tearing them apart.
 
 **Statistics**
-**Str**45,**Dex**20,**Con**—,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+24;**CMB**+45 (+52 trip);**CMD** 62 (69 vs trip)
+**Str** 45, **Dex** 20, **Con** —, **Int** —, **Wis** 11, **Cha** 1
+**Base Atk** +24; **CMB** +45 (+52 trip); **CMD** 62 (69 vs trip)
 **Feats** Improved InitiativeB, Lightning ReflexesB
-**Tradition**None,**PAM**Wis,**DC** 22
+**Tradition** None, **PAM** Wis, **DC** 22
 **Talents** Equipment (Expert Reloading, Unarmed Training), Open Hand (Axe Kick, Greater Trip, Mystic Fists (adamantine, cold iron, magic, neutral, silver), Sweeping Kick), Sniper (Bouncing Shot, Focusing Reload, Tangling Shot, Unblockable)
 **SQ** proficient practitioner, swift reactions, winding
 
@@ -42,10 +42,10 @@ Rampagers try to begin each combat at a distance, using their cannons and the Sn
 **Clockwork Rampager Construction**
 The clockwork rampager is one of the most difficult of its kind to create. The creator must start with crafted clockwork pieces worth 20,000 gp.
 
-**CL**18th;**Price** 320,000 gp
+**CL** 18th; **Price** 320,000 gp
 
 **Construction Requirements**
-Craft Construct, Gunsmithing (Ultimate Combat 103), animate objects, geas/quest, and limited wish, magic far, creator must be at least caster level 18th; **Skill**Craft (clockwork) DC 25;**Cost** 160,000 gp
+Craft Construct, Gunsmithing (Ultimate Combat 103), animate objects, geas/quest, and limited wish, magic far, creator must be at least caster level 18th; **Skill** Craft (clockwork) DC 25; **Cost** 160,000 gp
 
 **Ecology**
 **Environment** any

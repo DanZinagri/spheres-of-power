@@ -10,11 +10,11 @@ parent: "[[Spheres Of Power]]"
 
 A wandslinger uses magic instead of guns, but follows the same dangerous path.
 
-### Class Skills
+## Class Skills
 
 The wandslinger loses Knowledge (engineering) (Int) as a class skill and gains Spellcraft (Int) and Use Magic Device (Cha).
 
-### Tools of Destruction
+## Tools of Destruction
 
 The wandslinger may create and use wands keyed to the Destruction sphere as if she possessed that sphere, the Craft Spell Engine feat, and a caster level equal to her class level. She may not use this ability to create wands with a caster level higher than her class level. She may use the ability modifier she uses to determine grit capacity as her casting ability modifier if she does not already possess one, and adds her casting ability modifier to the DCs of any destructive blasts she casts from a wand. The wandslinger may add Destruction sphere talents that she does not possess to a wand she is crafting at no penalty.
 
@@ -24,19 +24,19 @@ For the purposes of all gunslinger class features, a wandslinger treats wands as
 
 This ability replaces gunsmith.
 
-### Gritty Activation (Ex)
+## Gritty Activation (Ex)
 
 A wandslinger may recharge wands by expending a grit point in place of a spell point. In addition, once per round when casting a destructive blast from a wand, a wandslinger may expend 1 grit point in place of one of the wand’s spell points. At 11th level she may use this ability twice per round.
 
 This ability replaces quick clear and expert loading.
 
-### Steady Aim (Ex)
+## Steady Aim (Ex)
 
 At 1st level, as long as a wandslinger has at least 1 grit point, she can take a move-equivalent action or spend a grit point to increase the accuracy of a wand of the Destruction sphere. When she does, she increases the range of the destructive blast by 5 feet per class level. This stacks with other abilities that increase her range increment.
 
 This replaces deadeye.
 
-### Wand Training (Ex)
+## Wand Training (Ex)
 
 Starting at 5th level, a wandslinger gains a bonus equal to her Dexterity modifier on damage rolls with destructive blasts cast from wands, and may use her class level in place of the wand’s caster level when determining the save DC of any destructive blast she casts from a wand.
 
@@ -44,13 +44,13 @@ At 9th level whenever the wandslinger casts a spell from a wand she may increase
 
 This ability replaces gun training.
 
-### Dead Blast (Ex)
+## Dead Blast (Ex)
 
 At 7th level a wandslinger gains the Destruction talent Gather Energy, even if she does not possess the Destruction sphere. She may apply this talent to destructive blasts cast from wands as if they contained that talent.
 
 This ability replaces dead shot.
 
-### Two-Wand Fighting (Ex)
+## Two-Wand Fighting (Ex)
 
 At 11th level a wandslinger may activate two wands as a full-round action, one in each hand, as long as their combined caster levels (before wand training) do not exceed her class level.
 

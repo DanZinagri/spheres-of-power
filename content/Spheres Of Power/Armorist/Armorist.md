@@ -582,8 +582,8 @@ The following magical items are especially appropriate for armorists.
 
 #### Armorist’s Toolkit [TS:WAT]
 
-**Aura**faint Creation;**CL** 5th
-**Slot**none;**Price**2,500 gp;**Weight** 4 lbs.
+**Aura** faint Creation; **CL** 5th
+**Slot** none; **Price** 2,500 gp; **Weight** 4 lbs.
 
 This large cloth bag looks superficially similar to a bag of holding, and can store up to one cubic foot of material in a normal space. A creature with the summon equipment ability can spend one spell point as a full-round action to use this bag to summon one non-edible, non-magical, and non-living piece of mundane equipment worth 5 gp or less, such as a ladder, a rope, or a set of dice, into their hand (or the square next to them).
 
@@ -594,8 +594,8 @@ Craft Apparatus, Creation sphere (Divided Creation [mass], Expanded Materials (m
 
 #### Expanded Arsenal [TS:WAT]
 
-**Aura**faint War;**CL** 5th
-**Slot**slotless;**Price**12,500 gp;**Weight** 2 lbs.
+**Aura** faint War; **CL** 5th
+**Slot** slotless; **Price** 12,500 gp; **Weight** 2 lbs.
 
 This dull iron medallion is easy to affix to almost any piece of gear, and teleports itself onto any piece of summoned armor in order to remain visible. While worn by a creature with the arsenal trick class feature, an expanded arsenal provides the benefits of one armorist arsenal trick, chosen when this item is created. A creature can only benefit from one expanded arsenal at a time, and does not benefit from any arsenal trick they do not meet the prerequisites for. Equipping an expanded arsenal requires a full-round action.
 

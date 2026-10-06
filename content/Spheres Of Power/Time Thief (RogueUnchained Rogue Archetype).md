@@ -13,7 +13,7 @@ Any thief can steal a bauble, and any bard can steal a heart, but it takes a mas
 
 **Author's Note:** The Time Thief uses Charisma as their casting ability modifier for the purposes of this archetype unless they possess a casting ability modifier from another source.
 
-### Steal Speed (Su)
+## Steal Speed (Su)
 
 Starting at 2nd level, the time thief gains the ability to steal a tiny fraction of his opponent’s speed and reaction time when making a sneak attack. Once per round when performing a sneak attack on an opponent, the time thief can sacrifice a number of his sneak attack damage dice to steal an action from his opponent, allowing the time thief to take that action and denying his opponent the ability to use that action until the start of the time thief’s next turn. An affected target is allowed a Will saving throw (DC 10 + 1/2 his time thief level + his casting ability modifier) to negate the effect. The actions the time thief can steal, and the amount of sneak attack dice he must sacrifice to steal them, are as follows:
 
@@ -25,13 +25,13 @@ Starting at 2nd level, the time thief gains the ability to steal a tiny fraction
 
 This replaces the rogue talent normally gained at 2nd level.
 
-### Steal Time (Su)
+## Steal Time (Su)
 
 From 10th level on, whenever the time thief reduces an opponent to 0 or fewer hit points with a sneak attack, he may spend an immediate action to instantly slay the opponent unless they succeed at a Fortitude saving throw (DC 10 + 1/2 his time thief level + his casting ability modifier). If the target fails their saving throw, the time thief absorbs a portion of the time the creature would have still had left, adding it to his own. The time thief increases his natural life span by a number of years equal to the creature’s CR; a creature whose CR is less than 1 provides no benefit. If the time thief is middle aged or older, he may subtract these years from his current age up to his minimum age for adulthood, removing any age-related penalties to physical ability scores while retaining any bonuses to mental ability scores; the time thief cannot gain bonuses for reaching a new age category more than once. In addition, each time the time thief successfully slays a creature whose CR is at least 1 with this ability, he gains a number of temporary hit points equal to twice his class level; these temporary hit points expire after one minute.
 
 This replaces the rogue talent normally gained at 10th level.
 
-### Stolen Eternity (Ex)
+## Stolen Eternity (Ex)
 
 Time thieves who reach 20th level have stolen so much time that it can no longer touch them. The time thief no longer suffers penalties to his physical ability scores due to age and cannot die due to old age, though he still accrues mental bonuses for aging as normal. He cannot be affected by any magical effect which alters his age unless he chooses to be, and any beneficial time effect cast on the time thief, such as a haste spell or alter time effect, automatically has its duration doubled; this extended duration applies only to the time thief and does not affect the duration of the spell for any other targets. In addition, the vast amounts of stolen time that imbue the time thief’s body can help his heal injuries much faster than normal, granting him fast healing 5.
 

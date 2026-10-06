@@ -47,7 +47,7 @@ A witch can use this hex to curse a creature within 30 feet, causing their wound
 You may spend a spell point as a swift action to create a frightening illusion that lasts momentarily. You may attempt an Intimidate check to demoralize all foes within 30 feet of the illusion.
 
 #### Grasped Conduit (Su) [DRS]
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 The witch selects a single implement special ability with the grasped quality (as found later in this book) and designates an object to function as the implement (such as a fetish, an existing wand or spellcasting object, or similar), referred to here as the "**grasped conduit**". The witch may reselect the implement special ability and the designated object for their grasped conduit each day when they rest and regain their resources. The grasped conduit must be wielded to confer its "grasped" bonuses, but otherwise may be used for its normal effects so long as the grasped conduit is on the witch's person.
 
@@ -78,7 +78,7 @@ Choose any eliciter emotion. You may use the first ability of the emotion using 
 The witch gains Circle Casting or a single proxy feat as a bonus feat. She must meet the prerequisites for the feat to select this major hex. This major hex may be selected multiple times. Each time, the witch selects another feat.
 
 #### Empowered Familiar [DRS]
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Prerequisite:** Familiar.
 
@@ -89,14 +89,14 @@ The witch gains the arcane bond amplification wizard arcane discovery. The witch
 ## Grand Hexes
 
 #### Hexes in Diamond Spheres: Magical Organizations
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 This section contains new witch hexes, available to both witches and shamans, as well as any class which could select from witch or shaman hexes.
 
 Major hexes and grand hexes in this section may only be selected by classes which regularly access hexes of these kinds, primarily witches, but potentially archetypes and other sources.
 
 #### Three Crones Aspect (Su) [DRS]
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 The witch has mastered the aspects of the Maiden, the Mother, and the Crone, the three aspects of the great crone. The witch becomes immune to magical aging and may no longer die of old age.
 

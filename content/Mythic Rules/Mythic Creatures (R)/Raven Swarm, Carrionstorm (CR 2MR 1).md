@@ -13,27 +13,27 @@ Bits of feather and flesh buzz around this swarm of rotting ravens like flies, c
 XP 600
 Pathfinder Adventure Path #2: The Skinsaw Murders
 NE Tiny undead (mythic, swarm)
-**Init**+4;**Senses** darkvision 60 ft.; Perception +6
+**Init** +4; **Senses** darkvision 60 ft.; Perception +6
 
 #### Defense
 
-**AC**13,**touch**12,**flat-footed** 13 (+1 natural, +2 size)
+**AC** 13, **touch** 12, **flat-footed** 13 (+1 natural, +2 size)
 **hp** 19 (2d8+10)
-**Fort**+1,**Ref**+0,**Will** +5
-**Defensive Abilities**swarm traits;**Immune** undead traits
+**Fort** +1, **Ref** +0, **Will** +5
+**Defensive Abilities** swarm traits; **Immune** undead traits
 **Weaknesses** vulnerable to channeled energy
 
 #### Offense
 
 **Speed** 10 ft., fly 40 ft. (good)
 **Melee** swarm (1d6 plus ghoul feverMA)
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** distraction (DC 12), mythic power (1/day, surge +1d6)
 
 #### Statistics
 
-**Str**1,**Dex**11,**Con**—,**Int**2,**Wis**14,**Cha** 13
-**Base Atk**+1;**CMB**—;**CMD** —
+**Str** 1, **Dex** 11, **Con** —, **Int** 2, **Wis** 14, **Cha** 13
+**Base Atk** +1; **CMB** —; **CMD** —
 **Feats** Improved Initiative, Lightning Reflexes
 **Skills** Fly +12, Perception +6
 **SQ** pallid bond, shield of wingsMA
@@ -46,7 +46,7 @@ NE Tiny undead (mythic, swarm)
 
 #### Special Abilities
 
-**Disease (Su)**Ghoul Fever: Bite—injury;**save**Fort DC 14;**onset**1 day;**frequency**1/day;**effect**1d3 Con and 1d3 Dex damage;**cure** 2 consecutive saves. The save DC is Charisma-based and includes a +2 racial bonus. A mythic carrionstorm that expends one use of its mythic power as a standard action forces all creature that are exposed to its disease until the start of its next turn to roll twice on their saving throw and take the lowest result.
+**Disease (Su)** Ghoul Fever: Bite—injury; **save** Fort DC 14; **onset** 1 day; **frequency** 1/day; **effect** 1d3 Con and 1d3 Dex damage; **cure** 2 consecutive saves. The save DC is Charisma-based and includes a +2 racial bonus. A mythic carrionstorm that expends one use of its mythic power as a standard action forces all creature that are exposed to its disease until the start of its next turn to roll twice on their saving throw and take the lowest result.
 
 **Pallid Bond (Ex)** A carrionstorm does not attack undead or creatures displaying the holy symbol of the goddess of the undead unless magically controlled, and deal only half damage to such creatures if compelled to attack.
 

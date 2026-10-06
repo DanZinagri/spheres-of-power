@@ -118,7 +118,7 @@ You can change your choice of spells or talents whenever you gain a level. You c
 
 #### Glitched Hack [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 Whenever you attempt to hack magic a target that you have already attempted to target within the last 24 hours, you can either spend 1 use of skill leverage or suffer 2 points of ability burn to your operative ability modifier to ignore the 24 hour limit for the next time they hack the effect or item.
 
@@ -146,7 +146,7 @@ You need no spellhacking instrument to hack magic as long as you have the abilit
 
 #### Invasive Hacking [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 Your control mishap ability can trigger from other creatures that fail to activate a magic item or lose a spell by failing a concentration check, as long as you can see the attempt and are within close range of the creature. If the creature is unwilling to this attempt, the DC to control mishap increases by 5 unless you outwit them as part of the attempt.
 
@@ -197,7 +197,7 @@ You can sense the magic linking a magic effect or item to its creator. If you ca
 
 #### Arcane Proliferation (hack) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Target:** A magical item, see text.
 
@@ -211,9 +211,9 @@ At 6 ranks in this sphere’s associated skill, magical ammunition that would no
 
 #### Arcane Reinforcement (hack) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Target**: A magic item.
+**Target:** A magic item.
 
 You spread the magic contained within an item across its surface area to reinforce it. The item gains +2 hardness and +10 bonus hit points, as well as gaining a +2 enhancement bonus to saving throws and uses your associated ranks instead of its caster level (if it's higher) for determining its saving throw bonuses (making it 2 + 1/2 your associated ranks). For every 2 ranks in the sphere’s associated skill you possess, the item’s hardness increases by 1, its hit points by 5, and its bonus to saving throws by 1.
 
@@ -221,7 +221,7 @@ Additionally, the object (but not the attending creature) gains spell resistance
 
 #### Burden Magic (hack) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Target:** A magical effect.
 
@@ -246,7 +246,7 @@ If you possess at least 10 ranks in the associated skill, you can take this tale
 
 #### Disrupt Aura (hack) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Target:** An object or magical effect.
 
@@ -266,7 +266,7 @@ You choose another (hack) talent you possess and implant it into the target. You
 
 #### Malfunction Dweomer (hack) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Target:** A magic item, or an ongoing magical effect.
 
@@ -279,7 +279,7 @@ You can outwit the user as an immediate action (as long as they are within hack 
 
 #### Minor Thaumaturgy (hack) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Target:** A magic item.
 
@@ -296,7 +296,7 @@ If you possess the Shift Enchantment talent, you gain the following option when 
 
 #### Monitor (hack) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Target:** A magic item.
 
@@ -380,7 +380,7 @@ You change the item’s bonus into a different one for 1 round per rank in the a
 
 #### Runic Overcharge (hack) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Target:** A magic suit of armor, implement, shield, or weapon.
 
@@ -402,7 +402,7 @@ You cannot use this talent to sabotage more items at once than your operative ab
 
 #### Shift Enchantment (hack) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Target:** A magic set of armor, implement, shield, or weapon.
 
@@ -494,7 +494,7 @@ With 15 ranks and caster level 15th, you can send and receive telepathic message
 
 #### Withdraw Discordance (mishap) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 The mishap spirals forth a discordant mess of arcana, creating a 30-foot radius circle that you can center on a point within close range (or the item) that lasts for 1 minute per rank in the associated skill you possess. Any creatures within the area suffer a 20% spell failure chance, plus 10% per 3 ranks in the associated skill you possess, although they receive a Will saving throw after this roll (regardless of the result) to become immune against this specific mishap’s effects for 1 round.
 
@@ -508,7 +508,7 @@ If you have at least 5 ranks in the associated skill and the source has a caster
 
 #### Biothaumic Hacking [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisites:** Spellhacking sphere.
 
@@ -538,7 +538,7 @@ When you activate a magic item that allows a saving throw and that has one of yo
 
 #### Preserve Remnants [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisites:** Spellhacking sphere.
 

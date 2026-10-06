@@ -13,21 +13,21 @@ A pair of gigantic, flame-seared wings and eyes smoldering like embers give this
 XP 1,638,400
 Pathfinder Roleplaying Game Bestiary
 LE Large outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+23/+3MF, dual initiativeMA;**Senses** darkvision 60 ft., see in darkness; Perception +33
+**Init** +23/+3MF, dual initiativeMA; **Senses** darkvision 60 ft., see in darkness; Perception +33
 **Aura** fear (20 ft., DC 24)
 
 #### Defense
 
-**AC**48,**touch**18,**flat-footed** 39 (+9 Dex, +30 natural, –1 size)
+**AC** 48, **touch** 18, **flat-footed** 39 (+9 Dex, +30 natural, –1 size)
 **hp** 470 (20d10+360); regeneration 5 (epic and good weapons, good spells)
-**Fort**+25,**Ref**+21,**Will** +18
-**Defensive Abilities**fortification (50%)MA, unholy bloodMA; DR 15/epic, good, and silver;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 36
+**Fort** +25, **Ref** +21, **Will** +18
+**Defensive Abilities** fortification (50%)MA, unholy bloodMA; DR 15/epic, good, and silver; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 36
 
 #### Offense
 
 **Speed** 40 ft., fly 60 ft. (average)
 **Melee** 2 claws +35 (2d8+16 plus 2d6 hellfireMA), 2 wings +33 (2d6+8 plus 2d6 hellfireMA), bite +35 (4d6+16 plus 2d6 hellfireMA, poison, and disease), tail slap +33 (2d8+9 plus 2d6 hellfireMA and grab)
-**Space**10 ft.,**Reach** 10 ft.
+**Space** 10 ft., **Reach** 10 ft.
 **Special Attacks** burn for meMA (DC 28), constrict (2d8+24 plus 2d6 hellfireMA), cremationMA, devil shaping, hellfireMA, feral savagery (full attack), ineffable damnationMA, infernal conflagrationMA (DC 33), mythic power (10/day, surge +1d12), mythic spell-like abilitiesMA, unholy perspicacityMA
 
 **Spell-Like Abilities** (CL 18th; concentration +27)
@@ -38,8 +38,8 @@ At will—blasphemy (DC 26), create undead, fireball (DC 22), greater dispel mag
 
 #### Statistics
 
-**Str**43,**Dex**29,**Con**37,**Int**26,**Wis**30,**Cha** 28
-**Base Atk**+20;**CMB**+37 (+41 grapple);**CMD** 56
+**Str** 43, **Dex** 29, **Con** 37, **Int** 26, **Wis** 30, **Cha** 28
+**Base Atk** +20; **CMB** +37 (+41 grapple); **CMD** 56
 **Feats** CleaveMF, Great Cleave, Improved InitiativeMF, Improved Iron Will, Improved Vital Strike, Iron WillMF, Multiattack, Power AttackMF, Quicken Spell-Like Ability (fireball), Vital StrikeMF
 **Skills** Appraise +17, Bluff +32, Diplomacy +32, Disguise +28, Fly +30, Intimidate +32, Knowledge (arcana) +28, Knowledge (planes) +31, Knowledge (religion) +31, Perception +33, Sense Motive +33, Spellcraft +31, Stealth +28, Survival +22, Use Magic Device +29
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.
@@ -56,7 +56,7 @@ At will—blasphemy (DC 26), create undead, fireball (DC 22), greater dispel mag
 
 **Devil Shaping (Su)** Three times per day, a mythic pit fiend can spend a minute to transform nearby lemures into other lesser devils. A mythic pit fiend can transform one lemure for every Hit Die the mythic pit fiend possesses. It can then reshape these lemures into a number of Hit Dice’s worth of devils equal to the number of lemures affected. For example, a typical 20 Hit Dice mythic pit fiend could transform 20 lemures into two bone devils (10 HD each), or three bearded devils (6 HD each, leaving two lemures unchanged), or any other combination of lesser devils. Lemures to be reshaped must be within 50 feet of the mythic pit fiend, becoming stationary and unable to move once the shaping begins. After a minute passes, the lemures reform into the shape of a new lesser devil ready to follow the orders of the mythic pit fiend. Although a mythic pit fiend can, technically, elevate a mass of 20 lemures into a new pit fiend, most are hesitant to do so since they have no special control over a devil created in this manner.
 
-**Disease (Su)**Devil Chills: Bite—injury;**save**Fort DC 33;**onset**immediate;**frequency**1/day;**effect**1d4 Str damage;**cure** 3 consecutive saves. The save DC is Constitution-based.
+**Disease (Su)** Devil Chills: Bite—injury; **save** Fort DC 33; **onset** immediate; **frequency** 1/day; **effect** 1d4 Str damage; **cure** 3 consecutive saves. The save DC is Constitution-based.
 
 **Hellfire (Su)** A mythic pit fiend burns with the ravenous fires of Hell. Each of its melee attacks and its constrict attack deal an additional 2d6 points of hellfire damage (half fire, half unholy), plus an additional 2d6 points of hellfire damage (half fire, half unholy) each subsequent round until the victim succeeds at a DC 33 Reflex save. The save DC is Constitution-based. Additionally, when a mythic pit fiend deals fire damage to an opponent with any of its attacks, special abilities, or spell-like abilities, it treats the target’s fire resistance as 15 points lower than normal (minimum 0).
 
@@ -64,7 +64,7 @@ At will—blasphemy (DC 26), create undead, fireball (DC 22), greater dispel mag
 
 **Infernal Conflagration (Su)** A mythic pit fiend can expend 1 use of mythic power as a standard action to create a fiery explosion up to 1,000 feet away that deals 20d6 points of hellfire damage (half fire, half unholy) to all creatures and unattended objects in a 30-foot radius, and 10d6 points of hellfire damage to targets past 30 feet but within 60 feet (DC 33 Reflex half ). The explosion leaves behind a 60-foot diameter cloud of searing brimstone and thick ash that lingers for 3d6 rounds and mimics the effects of incendiary cloud (DC 33 Reflex half ), though the cloud deals hellfire damage( half fire, half unholy). The save DCs are Constitution-based.
 
-**Poison (Ex)**Bite—injury or blood—contact;**save**Fort DC 33;**frequency**1/round for 10 rounds;**effect**1d6 Con damage;**cure** 3 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury or blood—contact; **save** Fort DC 33; **frequency** 1/round for 10 rounds; **effect** 1d6 Con damage; **cure** 3 consecutive saves. The save DC is Constitution-based.
 
 **Unholy Blood (Su)** A mythic pit fiend’s blood and other fluids are infused with hellfire and deadly poison. Each time a mythic pit fiend is damaged by a piercing or slashing weapon, the attacking creature and its weapon take 3d6 points of hellfire damage (which is doubled if the attack is a critical threat). The attacking creature is also sprayed with the mythic pit fiend’s poison. Using a reach weapon does not endanger the attacker in this way, though the attacker’s weapon is still affected.
 

@@ -61,7 +61,7 @@ This ability replaces omnikinesis.
 
 In addition, they gain the following bardic masterpiece:
 
-#### The Consequence of the Harmonious Convergence
+##### The Consequence of the Harmonious Convergence
 
 **Requirements:** Kinetic concert, soundweaver 20th
 
@@ -75,11 +75,11 @@ Any allies within 30 ft. who sit and listen to the whole song temporarily gain a
 
 ---
 
-# Kinetic Masterpieces
+## Kinetic Masterpieces
 
 Soundweavers add the following masterpieces to the list of those they can learn:
 
-#### The Gossamer Parapet
+##### The Gossamer Parapet
 
 **Requirements:** Perform (Keyboard Instrument) 10, kinetic concert
 
@@ -89,7 +89,7 @@ Soundweavers add the following masterpieces to the list of those they can learn:
 
 **Activation:** 1 full round
 
-#### Heart of the Planes
+##### Heart of the Planes
 
 **Requirements:** Perform (Percussion) 10, kinetic concert
 
@@ -99,7 +99,7 @@ Soundweavers add the following masterpieces to the list of those they can learn:
 
 **Activation:** 1 move action
 
-#### Elements Awaken
+##### Elements Awaken
 
 **Requirements:** Perform (Sing) 10, kinetic concert
 
@@ -109,7 +109,7 @@ Soundweavers add the following masterpieces to the list of those they can learn:
 
 **Activation:** 1 full round
 
-#### The Foolish Soul
+##### The Foolish Soul
 
 **Requirements:** Perform (Strings) 10, kinetic concert
 
@@ -119,7 +119,7 @@ Soundweavers add the following masterpieces to the list of those they can learn:
 
 **Activation:** 1 standard action
 
-#### Fey From Afar
+##### Fey From Afar
 
 **Requirements:** Perform (Wind) 10, kinetic concert
 
@@ -129,7 +129,7 @@ Soundweavers add the following masterpieces to the list of those they can learn:
 
 **Activation:** 1 standard action
 
-#### The Ghosts of Unrealized Power
+##### The Ghosts of Unrealized Power
 
 **Requirements:** Any three of the following: Perform (Keyboard Instruments) 10, Perform (Percussion) 10, Perform (Sing) 10, Perform (Strings) 10, or Perform (Wind) 10; kinetic concert
 

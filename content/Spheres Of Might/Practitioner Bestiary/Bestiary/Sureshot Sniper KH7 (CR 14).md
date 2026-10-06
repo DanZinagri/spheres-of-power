@@ -7,12 +7,12 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 38,400
 N Medium construct (robot)
-**Init**+6;**Senses**darkvision 60 ft., low-light vision, superior optics;**Perception** +17
+**Init** +6; **Senses** darkvision 60 ft., low-light vision, superior optics; **Perception** +17
 
 **Defense**
-**AC**33,**touch**28,**flat-footed** 23 (+8 armor, +10 Dex, +5 natural)
+**AC** 33, **touch** 28, **flat-footed** 23 (+8 armor, +10 Dex, +5 natural)
 **hp** 102 (15d10+40), force field (70 hp, fast healing 14)
-**Fort**+12,**Ref**+15,**Will** +12
+**Fort** +12, **Ref** +15, **Will** +12
 **Defensive Abilities** hardness 10, Immune cold, construct traits
 **Weaknesses** vulnerable to critical hits, vulnerable to electricity
 
@@ -28,10 +28,10 @@ The sureshot sniper KH7 is a master at stealth and combat, and possesses many sk
 The sureshot sniper KH7 tends to avoid melee if possible, keeping its enemies away with its Vigilant Sharpshooter talent, but can make deadly use of its Rending Claws if necessary.
 
 **Statistics**
-**Str**30,**Dex**30,**Con**—,**Int**12,**Wis**14,**Cha** 1
-**Base Atk**+15;**CMB**+25 (+29 grapple);**CMD** 35
+**Str** 30, **Dex** 30, **Con** —, **Int** 12, **Wis** 14, **Cha** 1
+**Base Atk** +15; **CMB** +25 (+29 grapple); **CMD** 35
 **Feats** Combat Reflexes, Flyby Attack, Great Fortitude, Hover, Improved Initiative, Improved Vital Strike, Skill Focus (Perception), Vital Strike
-**Martial Tradition**None,**PAM**Wis,**DC** 19
+**Martial Tradition** None, **PAM** Wis, **DC** 19
 **Talents** Athletics (run, leap, and fly packages, Expanded Training, Moving Target), Barrage (Blitz Focus, Distracting Shot, Mobile Focus, Spinning Shot, Suppressing Fire, Vigilant Sharpshooter (x2)), Berserker (Rending Claws), Equipment (Firearm Training, Unarmored Training), Scout (Active Camouflage, Deadly Strike, Find Gap, Hidden Focus, Reflexive Stealth), Sniper (Head Shot, Perfect Shot, Piercing Shot, Sniper Shot, Steady Shot, Targeted Assault, Trap Technician, Unblockable)
 **Skills** Acrobatics +32, Fly +33, Knowledge (engineering) +16, Perception +23, Stealth +25
 **Languages** Common

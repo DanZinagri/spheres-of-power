@@ -23,8 +23,8 @@ To qualify to become a kingking, a character must fulfill all the following crit
 **Class Skills**
 The kingking’s class skills are Appraise (Int), Diplomacy (Cha), Intimidate (Cha), Knowledge (local) (Int), Knowledge (nobility) (Int), and Perception (Wis).
 
-**Skill Points at each Level**: 6 + Int modifier.
-**Hit Die**: d8.
+**Skill Points at each Level:** 6 + Int modifier.
+**Hit Die:** d8.
 
 **Table: Kingking**
 
@@ -172,7 +172,7 @@ If the kingking dies, they immediately assume weapon form ability and become dor
 
 The following courtier is exclusively available to kingkings with the ancient weapon noble assent:
 
-##### **Sentient Blade**
+##### Sentient Blade
 
 *The very weapon itself thrums with life, it speaks to you and whispers to you of greatness and purpose.*
 
@@ -222,7 +222,7 @@ Each harmonized form offers the following effects: offense, defense, mobility, a
 
 The following courtiers are exclusively available to kingkings with the confluence noble assent:
 
-##### **Ascetics**
+##### Ascetics
 
 *Worldly influence guides worldly choices. The steady mind and decisive hand of the ascetic advises well towards tough times.*
 
@@ -238,7 +238,7 @@ In addition, the kingking may spend 1 ki point as an immediate action to change 
 
 In addition, the kingking also gains 1 ki power, plus 1 additional ki power at 6th and 10th level.
 
-##### **Cultivators**
+##### Cultivators
 
 *Power is built upon foundations. The foundations of a kingdom are no different from fostering one’s own worth.*
 
@@ -284,7 +284,7 @@ A kingking with the conquest noble assent gains the following abilities at the i
 
 The following courtiers are exclusively available to kingkings with the conquest noble assent:
 
-##### **Raiders**
+##### Raiders
 
 *Acquisition by force to line the coffers and pressure political allies. Simply turn a blind eye to what they do outside the halls of your court.*
 
@@ -340,7 +340,7 @@ The following are boons available to a kingking with the inheritance noble assen
 
 The following courtiers are exclusively available to kingkings with the inheritance noble assent:
 
-##### **Ancients**
+##### Ancients
 
 *The ancients speak and whisper to you of your lineage, of where you came from and of how you must seize it. The bloodline you come to inherit is fearsome for what it could do when wielded in competent and capable hands.*
 
@@ -355,7 +355,7 @@ The kingking may allocate spiritual quintessence to this ability (costing 2 spir
 
 If the kingking already possesses a bloodline through class levels (not through other sources, such as the [Eldritch Heritage](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eldritch%20Heritage) feat), they may select a different bloodline with this courtier. However, their total effective sorcerer bloodline level will be their sorcerer level plus 1/2 kingking level (i.e. a kingking may have two bloodlines and two arcana this way; a sorcerer 10 / kingking 8 would have an effective sorcerer level of 14, not 18).
 
-##### **Otherworldly Ancestors**
+##### Otherworldly Ancestors
 
 *Your inheritance goes beyond the mortal realm from which you came. Your legacy is from the planes, and your dynasty shall return to it*.
 
@@ -387,7 +387,7 @@ Once per round as as free action, the kingking may determine how their noble pre
 
 The following courtiers are exclusively available to kingkings with the self-assurance noble assent:
 
-##### **Expansive Presence (Su)**
+##### Expansive Presence (Su)
 
 *The kingking’s very right to rule asserts itself over the space immediately around the kingking. Their steps ripple despite no water, their words clear despite no volume–their presence, personified and felt.*
 
@@ -399,7 +399,7 @@ The kingking gains the grand-reaching personality ability:
   - *Ease*: The kingking’s allies treat the kingking as being 30 feet closer (and potentially adjacent) for the purposes of beneficial abilities and effects; this allows the kingking to affect an ally with a beneficial touch spell despite not truly being adjacent, benefit from certain teamwork feats, or allow an ally to aid the kingking in a similar way as though the ally and kingking were 30 feet closer.
   - *Impose*: Enemies affected by the kingking’s noble presence treat all other creatures not within their reach (or threatened area) as being 30 feet further away for the purposes of their abilities and effects. This may cause a target to be outside of that enemy’s range (such as for spell effect targeting, beneficial auras, and similar), but not further away from an ally or neutral party attempting to target and affect them.
 
-##### **Pretenders**
+##### Pretenders
 
 *The greatest courts are filled with greater pretenders, those who curry favor with the lord, deceive, and manipulate to be the very right hand of the world. At the grandest scale, a divine pretender.*
 
@@ -461,7 +461,7 @@ When the kingking meets one or more creatures for the first time, the kingking m
 
 The kingking’s dignified bearing inspires and empowers those who rally to him. Creatures whose attitude is friendly or helpful to the kingking gain a +1 nobility bonus on attack rolls and skill checks made while in the kingking’s presence (usually requiring line of sight, being in the same room, or otherwise a 60-foot radius). The kingking’s allies, controlled creatures, and subordinates are treated as being friendly or helpful to the kingking for the purposes of this ability (the kingking does not benefit from this bonus themselves).
 
-##### **Sidebar – Attitudes and Player Characters**
+##### Sidebar – Attitudes and Player Characters
 
 The king-hearted good king realm ability may benefit other player characters (and their controlled creatures, subordinates, cohorts and so on). However, Diplomacy and Intimidate cannot be used to alter a player character’s attitude – attitudes are a feature of non-player characters (“NPCs”). At GM discretion, an NPC kingking may still use these abilities on player characters, assuming their checks *would* have been successful, even if they could not alter a player character’s attitude (such as to inflict shaken on them, or confer the bonuses of kind-hearted good king to players).
 
@@ -704,7 +704,7 @@ Subject to GM discretion, a courtier’s background also stacks with a sufficien
 
 The kingking gains 1 additional skill point per class level.
 
-**Background: Any**: The kingking selects one class feature they possess from a non-prestige class. Just like other background abilities, the kingking’s class level stacks with levels of the selected feature’s class when determining that selected feature’s effects.
+**Background: Any:** The kingking selects one class feature they possess from a non-prestige class. Just like other background abilities, the kingking’s class level stacks with levels of the selected feature’s class when determining that selected feature’s effects.
 
 Subject to GM discretion, related class features may be obtained as part of a selected feature’s progression despite being technically distinct features (i.e. if selecting barbarian’s rage, the kingking’s effective class levels could allow the character to gain greater rage, tireless rage, and mighty rage as they level).
 
@@ -742,7 +742,7 @@ The kingking gains the ai-assisted skillset ability:
 
 The kingking retains this ability for 24 hours.
 
-**Query:** For Pathfinder 1st edition, please generate a single class feature with no more than 4 sentences of text. This class feature should be equivalent to class features gained at**10th**level or higher. The theme of this class feature should be**insert_here**.
+**Query:** For Pathfinder 1st edition, please generate a single class feature with no more than 4 sentences of text. This class feature should be equivalent to class features gained at **10th** level or higher. The theme of this class feature should be **insert_here**.
 
 **Special:** This courtier may be selected multiple times; each time this courtier is selected, the kingking may use ai-assisted skillset 1 additional time per day.
 
@@ -918,7 +918,7 @@ In addition, the kingking gains the cloaked mind ability:
 
 - *Cloaked Mind (Su)*: The kingking benefits from *[nondetection](https://aonprd.com/SpellDisplay.aspx?ItemName=Nondetection)* as a constant supernatural effect. At 5th level, this *nondetection* effect also blocks effects which would read the kingking’s thoughts (requiring such effects to roll a caster level check against the *nondetection*). At 10th level, the kingking also benefits from *[mind blank](https://www.aonprd.com/SpellDisplay.aspx?ItemName=mind%20blank)* as a constant supernatural effect.
 
-**Background: Vigilante**: The kingking gains the dual identity class feature and the renown vigilante social talent. The kingking treats their kingking level as their effective vigilante level when determining the effects of dual identity and vigilante social talents.
+**Background: Vigilante:** The kingking gains the dual identity class feature and the renown vigilante social talent. The kingking treats their kingking level as their effective vigilante level when determining the effects of dual identity and vigilante social talents.
 
 The kingking gains an additional vigilante social talent at 4th level and every 3 kingking levels thereafter.
 

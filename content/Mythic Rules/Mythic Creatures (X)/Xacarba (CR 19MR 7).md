@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (X)]]"
 XP 204,800
 Pathfinder Roleplaying Game Bestiary 2
 CE Gargantuan outsider (chaotic, evil, extraplanar, mythic)
-**Init**+16/–4MF, dual initiativeMA;**Senses** arcane sight, darkvision 120 ft., detect good, low-light vision, scent, true seeing; Perception +29
+**Init** +16/–4MF, dual initiativeMA; **Senses** arcane sight, darkvision 120 ft., detect good, low-light vision, scent, true seeing; Perception +29
 
 #### Defense
 
-**AC**38,**touch**12,**flat-footed** 32 (+5 Dex, +1 dodge, +26 natural, –4 size)
+**AC** 38, **touch** 12, **flat-footed** 32 (+5 Dex, +1 dodge, +26 natural, –4 size)
 **hp** 280 (20d10+170)
-**Fort**+18,**Ref**+13,**Will** +20
-**Defensive Abilities**DR 10/epic and good;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 30
+**Fort** +18, **Ref** +13, **Will** +20
+**Defensive Abilities** DR 10/epic and good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 30
 
 #### Offense
 
 **Speed** 40 ft., climb 20 ft.
 **Melee** bite +27 (3d8+11 plus poison admixtureMA), 3 tail slaps +22 (2d8+16 plus grabMA)
-**Space**20 ft.;**Reach** 15 ft.
+**Space** 20 ft.; **Reach** 15 ft.
 **Special Attacks** constrict (2d6+11), mythic power (7/day, surge +1d10), redirect spellMA, spray poisonMA
 
 **Spell-Like Abilities** (CL 18th; concentration +25)
@@ -35,8 +35,8 @@ At will—detect thoughts (DC 19), greater teleport (self plus 50 lbs. of object
 
 #### Statistics
 
-**Str**33,**Dex**21,**Con**23,**Int**26,**Wis**22,**Cha** 24
-**Base Atk**+20;**CMB**+35 (+39 grapple);**CMD** 51 (can’t be tripped)
+**Str** 33, **Dex** 21, **Con** 23, **Int** 26, **Wis** 22, **Cha** 24
+**Base Atk** +20; **CMB** +35 (+39 grapple); **CMD** 51 (can’t be tripped)
 **Feats** Combat Reflexes, Dodge, Improved InitiativeMF, Improved Iron Will, Improved Vital Strike, Iron Will, Lightning ReflexesMF, Mobility, Spring AttackMF, Vital StrikeMF
 **Skills** Acrobatics +25 (+29 jump), Bluff +30, Climb +19, Diplomacy +27, Disguise +27, Intimidate +27, Knowledge (arcana) +31, Knowledge (any two) +31, Linguistics +28, Perception +29, Sense Motive +29, Spellcraft +31, Stealth +16, Use Magic Device +27
 **Languages** Abyssal, Common, Draconic; telepathy 100 ft.
@@ -52,7 +52,7 @@ At will—detect thoughts (DC 19), greater teleport (self plus 50 lbs. of object
 
 **Controlling Grab (Ex)** If a mythic xacarba’s grapple check against a non-mythic opponent succeeds by 10 or more, the mythic xacarba can choose to avoid gaining the grappled condition from that grapple. A mythic xacarba can expend one use of mythic power to avoid gaining the grappled condition from any successful grapple, including against a mythic opponent.
 
-**Poison Admixture (Su)**Bite—injury or spray—contact;**save**Fort DC 28;**frequency**1/round for 6 rounds;**effect**two effects chosen by the xacarba from three options;**cure** 3 consecutive saves. The save DC is Constitution-based and has a +2 racial bonus.
+**Poison Admixture (Su)** Bite—injury or spray—contact; **save** Fort DC 28; **frequency** 1/round for 6 rounds; **effect** two effects chosen by the xacarba from three options; **cure** 3 consecutive saves. The save DC is Constitution-based and has a +2 racial bonus.
 
 - **Fiendish Bile:** effect 1d6 Str damage (good-aligned creatures also take 3d8 points of damage).
 - **Mysterious Blood:** effect 1d6 Dex and 1d6 Wis damage plus confusion for 1d3 rounds.

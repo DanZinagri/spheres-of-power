@@ -10,14 +10,14 @@ parent: "[[Mythic Creatures (G)]]"
 **Mythic Ghast (CR 4/MR 2)**
 XP 1,200
 CE Medium undead (mythic)
-**Init**+10;**Senses** darkvision 60 ft.; Perception +9
+**Init** +10; **Senses** darkvision 60 ft.; Perception +9
 **Aura** paralyticMA (30 ft., DC 18), stench (10 ft., DC 16, 1d6+4 minutes)
 
 #### Defense
 
-**AC**22,**touch**16,**flat-footed** 16 (+5 Dex, +6 natural)
+**AC** 22, **touch** 16, **flat-footed** 16 (+5 Dex, +6 natural)
 **hp** 50 (4d8+32)
-**Fort**+4,**Ref**+6,**Will** +7
+**Fort** +4, **Ref** +6, **Will** +7
 **Defensive Abilities** channel resistance +2
 
 #### Offense
@@ -28,8 +28,8 @@ CE Medium undead (mythic)
 
 #### Statistics
 
-**Str**17,**Dex**22,**Con**—,**Int**17,**Wis**18,**Cha** 18
-**Base Atk**+3;**CMB**+6;**CMD** 22
+**Str** 17, **Dex** 22, **Con** —, **Int** 17, **Wis** 18, **Cha** 18
+**Base Atk** +3; **CMB** +6; **CMD** 22
 **Feats** Extra Mythic PowerMF, Improved Initiative, Weapon Finesse Skills Acrobatics +9, Climb +10, Intimidate +11, Perception +9, Sense Motive +10, Stealth +12, Swim +6
 **Languages** Common
 
@@ -41,7 +41,7 @@ CE Medium undead (mythic)
 
 #### Special Abilities
 
-**Disease (Su)**Ghoul Fever: Bite—injury;**save**Fort DC 16;**onset**1 day;**frequency**1/day;**effect**1d3 Con and 1d3 Dex damage;**cure** 2 consecutive saves.
+**Disease (Su)** Ghoul Fever: Bite—injury; **save** Fort DC 16; **onset** 1 day; **frequency** 1/day; **effect** 1d3 Con and 1d3 Dex damage; **cure** 2 consecutive saves.
 
 **Ghastly Ripper (Ex)** Whenever a mythic ghast attacks a creature that is denied its Dexterity bonus to AC or that is flanked, its natural weapons have a critical threat range of 19-20 (18-20 against non-mythic creatures). In addition, when a mythic ghast confirms a critical hit it can make an Intimidate check to demoralize its target as a free action. If the target is successfully demoralized, the saving throw penalty for becoming shaken applies to its saving throw against the ghast’s disease and paralysis from that attack.
 

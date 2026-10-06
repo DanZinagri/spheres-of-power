@@ -78,7 +78,7 @@ As long as you have the drunk status, you gain a +2 competence bonus to Bluff, D
 
 #### Competitive Spirit [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can pose a menace or make an impressive display of skill using Diplomacy as part of consuming an alcoholic beverage, and can use your Constitution modifier instead of your Charisma modifier when doing so. You gain a +1 circumstance bonus to such checks for each alcoholic beverage beyond the first you have consumed within the last hour (to a maximum bonus equal to 1 + your practitioner modifier).
 
@@ -90,7 +90,7 @@ As a move action, you can draw and drink two non-magical alcoholic drinks or one
 
 #### Drinking Partners [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Whenever an ally you can see imbibes an alcoholic drink or potion (and does so as a move action or longer), you can retrieve or grab an alcoholic drink or potion within your natural reach and imbibe it as an immediate action (which does not provoke attacks of opportunity).
 
@@ -102,7 +102,7 @@ As long as you have the drunk status, you may deal lethal damage with your unarm
 
 #### Everything Is A Drink [Apoc]
 
-**Source:** [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
 You consider any beverage, alcoholic or not, to be an alcoholic beverage. This means that even water can potentially cause you to become drunk, and that potions, extracts and even alchemy formulae can grant you the drunk status, and that they may potentially sicken you from drinking too many.
 
@@ -148,13 +148,13 @@ Additionally, you gain a +2 circumstance bonus on Fortitude saves against poison
 
 #### Liquid Courage [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As long as you have the drunk status, you gain a +1 morale bonus to Dexterity-based skill checks and Bluff, Diplomacy, Intimidate, and Perform checks, increasing by +1 per 7 points of base attack bonus you possess.
 
 You can also expend your drunk status as a free action to increase any morale bonuses you are benefitting from (excluding bonuses to ability scores) by +1 for a number of rounds equal to your Constitution modifier (minimum 1). This includes the morale bonus granted by this talent.
 
-**Associated Feat**: Extreme Mood Swings (*Inner Sea Taverns*).
+**Associated Feat:** Extreme Mood Swings (*Inner Sea Taverns*).
 
 #### Perfect Break
 
@@ -182,7 +182,7 @@ Whenever you attack a target with a weapon they did not know about (a hidden wea
 
 #### Up, Down And… [Apoc]
 
-**Source:** [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
 While you have the drunk status, you eliminate the penalties to your armor class and melee attacks while prone. Additionally, if you strike an enemy while prone, and then attack them again within one round while standing (or vice versa), you can expend your martial focus to target their flat-footed armor class for the second attack.
 
@@ -190,17 +190,17 @@ While you have the drunk status, you eliminate the penalties to your armor class
 
 #### Tavernmonger [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Once you spend a cumulative 100 gp at a tavern, you receive a 25% discount on any food, drink, or services provided by the tavern. Additionally, you do not increase the Diplomacy DC to improve the attitude of a group—if you have the drunk status, the normal DC increase instead becomes an equivalent bonus to your check.
 
 While in a tavern (or similar establishment, up to GMs discretion), you can grant a gift to the entirety of the establishment, typically in the form of costless drinks to its patrons. This involves spending 10% of the heroic NPC wealth of the average level of NPC among the patrons (although you can alter this amount depending on your intended reach), and the attitude adjustment is granted to all patrons (to a maximum of friendly) for 1 day. During this time, you can gather information within the establishment in only 2d6 minutes (or 1d4 minutes if a majority of the patrons are at least friendly towards you).
 
-**Associated Feats**: Drunken Sing-Along and Tavern Regular (*Inner Sea Taverns*)
+**Associated Feats:** Drunken Sing-Along and Tavern Regular (*Inner Sea Taverns*)
 
 #### You Want Some? [Apoc]
 
-**Source:** [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
 If you have an alcoholic beverage (or other non-directly harmful liquid) in one hand when you make an attack action, you can force the target of the attack action to drink from it if you succeed on the attack action and the target is within your natural reach. Forcing a creature to drink an alcoholic beverage grants them a Reflex save to avoid drinking, and on failure makes that creature sickened for 1 round, and potentially other effects based off the drink (such as gaining the drunk condition).
 
@@ -212,7 +212,7 @@ Additionally, when you succeed on a check made to maintain a grapple, you can ch
 
 #### Bellowing Shanty (drunk) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As long as you have the drunk status, you gain an alchemical bonus to Perform (act, comedy, oratory, and sing) checks equal to 1/2 your base attack bonus.
 
@@ -224,13 +224,13 @@ You can reroll one Intelligence or Wisdom-based skill check as a free action, bu
 
 #### Dulled Senses (drunk) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 For a number of rounds equal to your practitioner modifier (minimum 1), you gain DR 3/piercing or slashing and ignore all disorientation and pain effects that you would suffer from, the effects’ duration elapsing normally during this time—this DR increases by 1 per 4 points of base attack bonus you possess.
 
 Additionally, at the beginning of your next turn, you can make a Fortitude save against a single disorientation or pain effect from which you are currently suffering against its original DC (or 10 + the source’s CR, if it did not have a DC), ending the effect on a successful save.
 
-**Associated Feat**: Implacable (*Inner Sea Taverns*).
+**Associated Feat:** Implacable (*Inner Sea Taverns*).
 
 #### False Courage (drunk)
 
@@ -262,7 +262,7 @@ Until the beginning of your next turn, any movement you make or combat maneuvers
 
 #### Seeing Double (drunk) [Apoc]
 
-**Source:** [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Dipsomania](https://www.drivethrurpg.com/product/299935/Spheres-Apocrypha-Dipsomania?affiliate_id=549120)*
 
 When you make an attack action, you can make an additional attack as a free action against the same target. This additional attack has a 50% chance to miss. At base attack bonus +10, it only has a 20% chance to miss.
 
@@ -270,7 +270,7 @@ When you make an attack action, you can make an additional attack as a free acti
 
 #### Stupored Drop (drunk) [Apoc]
 
-**Source:** [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Pugilists](https://www.drivethrurpg.com/product/320390/Spheres-Apocrypha-Pugilists?affiliate_id=549120)*
 
 As an immediate action, you fall prone and gain the benefits of the evasion ability until the start of your next turn. At the beginning of your next turn, if you have martial focus, you may stand up as a move action without provoking attacks of opportunity. At 10 base attack bonus, you may use this talent as a free action that can be taken even when it is not your turn and gain improved evasion.
 
@@ -280,19 +280,19 @@ As an immediate action, you fall prone and gain the benefits of the evasion abil
 
 #### Calamitous Coercion (smash) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can break a weapon as part of attempting a Bluff, Intimidate, or Perform check to gain a circumstance bonus to the attempt equal to the object’s hardness (minimum +1, maximum equal to 2 + your base attack bonus).
 
 Alternatively, you can break a weapon or attempt to break an object within your natural reach as a standard action. If you succeed, you can make an Intimidate check to demoralize all hostile creatures within 30 feet.
 
-**Associated Feats**: Dazzling Display, Destructive Persuasion (*Champions of Corruption*).
+**Associated Feats:** Dazzling Display, Destructive Persuasion (*Champions of Corruption*).
 
-**Utility Option**: This talent can be taken as a utility talent by having its benefits not apply to Intimidate checks made to demoralize or Bluff checks to feint.
+**Utility Option:** This talent can be taken as a utility talent by having its benefits not apply to Intimidate checks made to demoralize or Bluff checks to feint.
 
 #### Crude Shot (smash) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As part of performing an attack action, you can break a weapon to make a dirty trick combat maneuver against the target of your attack as an immediate action—if your original attack hits, you gain a +2 circumstance bonus to the dirty trick attempt (or a +4 circumstance bonus if the attack was a successful critical hit).
 
@@ -376,7 +376,7 @@ So long as you have the drunk status, any weapon you wield gains a +1 enhancemen
 
 #### Murky Brew (drunk) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Barroom sphere.
 

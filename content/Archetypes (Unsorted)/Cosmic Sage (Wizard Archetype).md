@@ -11,13 +11,13 @@ It is amazing how some people can consider themselves masters of magic when they
 
 This archetype requires [[Sphere Wizard|sphere wizard]].
 
-### Scribe Scroll
+## Scribe Scroll
 
 At 1st level, the cosmic sage gains the scribe scroll feat as a bonus feat. The cosmic sage may ignore the requirement to possess the base sphere when scribing or using a scroll, although scribing a scroll without the base sphere increases the DC of the Craft check by +5.
 
 This alters scribe scroll.
 
-### Sagacious Secrets
+## Sagacious Secrets
 
 Beginning at 2nd level, the cosmic sage begins to assemble magical secrets to aid in his spherecasting. He may create a book of notes and formulae that can help him assist in his spherecasting. Despite its contents, it is just a normal book, and if lost, can be replaced in about 8 hours - the book is only for quick reference.
 

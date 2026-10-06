@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (M)]]"
 XP 2,400
 Pathfinder Roleplaying Game Bestiary 2
 LN Large outsider (extraplanar, mythic)
-**Init**+2;**Senses** darkvision 60 ft.; Perception +12
+**Init** +2; **Senses** darkvision 60 ft.; Perception +12
 
 #### Defense
 
-**AC**19,**touch**13,**flat-footed** 15 (+2 Dex, +2 dodge, +6 natural, –1 size)
+**AC** 19, **touch** 13, **flat-footed** 15 (+2 Dex, +2 dodge, +6 natural, –1 size)
 **hp** 71 (6d10+38)
-**Fort**+8,**Ref**+4,**Will** +8
-**Defensive Abilities**DR 5/epic;**SR** 21
+**Fort** +8, **Ref** +4, **Will** +8
+**Defensive Abilities** DR 5/epic; **SR** 21
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** mwk falchion +8/+3 (2d6+3/18–20)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 
 **Spell-Like Abilities** (CL 9th; concentration +12)
 3/day—dimension door, invisibility (self only)
@@ -34,8 +34,8 @@ LN Large outsider (extraplanar, mythic)
 
 #### Statistics
 
-**Str**15,**Dex**14,**Con**16,**Int**20,**Wis**17,**Cha** 17
-**Base Atk**+6;**CMB**+9;**CMD** 22
+**Str** 15, **Dex** 14, **Con** 16, **Int** 20, **Wis** 17, **Cha** 17
+**Base Atk** +6; **CMB** +9; **CMD** 22
 **Feats** Combat Casting, Combat Expertise, DodgeMF
 **Skills** Appraise +14, Bluff +12, Diplomacy +9, Intimidate +9, Knowledge (arcana) +14, Knowledge (planes) +14, Perception +12, Profession (merchant) +9, Sense Motive +12, Sleight of Hand +11, Spellcraft +14
 **Languages** Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.

@@ -11,27 +11,27 @@ parent: "[[Mythic Creatures (V)]]"
 XP 1,200
 Pathfinder Roleplaying Game Bestiary
 N Medium plant (mythic)
-**Init**–1;**Senses** low-light vision; Perception +0
+**Init** –1; **Senses** low-light vision; Perception +0
 **Aura** stenchMA (DC 15, 1d6 rounds)
 
 #### Defense
 
-**AC**16,**touch**9,**flat-footed** 16 (–1 Dex, +7 natural)
+**AC** 16, **touch** 9, **flat-footed** 16 (–1 Dex, +7 natural)
 **hp** 38 (4d8+20)
-**Fort**+7,**Ref**+0,**Will** +1
+**Fort** +7, **Ref** +0, **Will** +1
 **Defensive Abilities** **Immune** plant traits
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** 4 tentacles +4 (1d4+1 plus rot)
-**Space**5 ft.;**Reach** 10 ft.
+**Space** 5 ft.; **Reach** 10 ft.
 **Special Attacks** barbed tentaclesMA, mythic power (3/day, surge 1d6), rot
 
 #### Statistics
 
-**Str**12,**Dex**8,**Con**16,**Int**—,**Wis**11,**Cha** 9
-**Base Atk**+3;**CMB**+4;**CMD** 13
+**Str** 12, **Dex** 8, **Con** 16, **Int** —, **Wis** 11, **Cha** 9
+**Base Atk** +3; **CMB** +4; **CMD** 13
 **Feats** Extra Mythic Power
 
 #### Special Abilities

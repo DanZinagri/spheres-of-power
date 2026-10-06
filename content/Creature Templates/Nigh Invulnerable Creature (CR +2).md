@@ -16,7 +16,7 @@ Some creatures cannot be killed simply. They have the truly nasty tendency to ei
 
 **Armor Class:** +20 natural armor
 
-**Defenses/Qualities:** regeneration (see below); DR 20/epic;**Immune**ability damage, ability drain, acid, blindness, cold, deafness, death effects, disease, electricity, energy drain, fire, mind-affecting effects, nausea, negative energy, paralysis, permanent wounds, petrification, poison, polymorph, stunning, sonic;**Weakness** vulnerable point (see below)
+**Defenses/Qualities:** regeneration (see below); DR 20/epic; **Immune** ability damage, ability drain, acid, blindness, cold, deafness, death effects, disease, electricity, energy drain, fire, mind-affecting effects, nausea, negative energy, paralysis, permanent wounds, petrification, poison, polymorph, stunning, sonic; **Weakness** vulnerable point (see below)
 
 **Special Abilities:** A nigh-invulnerable creature retains all the special abilities of the base creature, and gains the special abilities as described below.
 

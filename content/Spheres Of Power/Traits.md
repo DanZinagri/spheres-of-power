@@ -118,7 +118,7 @@ You assisted an undertaker, death priest, or rescuer. You can tell whether a cre
 
 #### Groundbreaker (Combat) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 Choose a single dredge option granted by a (ground) talent from the Survivalism sphere (even if you do not possess the sphere). You can use the dredge Survivalism sphere ability to dredge using the chosen option once per day.
 
@@ -210,7 +210,7 @@ You grew up alongside airships, possibly as a trader or a wealthy noble who enjo
 
 #### Specific Upgrades (Equipment) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 Choose a single flourish granted by a (flourish) talent from the Artifice sphere (even if you do not possess the sphere). You can apply (and maintain) the chosen flourish to one object.
 
@@ -264,7 +264,7 @@ You are a mystic wanderer, initiated into the mysteries of the path.
 
 #### Sacred Preparation (Faith) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 Choose a single (harvest) talent from the Survivalism sphere (even if you do not possess the sphere). You learn how to harvest and refine the component associated with the chosen (harvest) talent–this excludes any talisman or potency benefits the talent may normally grant.
 
@@ -484,7 +484,7 @@ You are more connected to dreams than others.
 
 #### Weird Virtuoso [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You can use Perform (dance) to subtly provide somatic components (as per the Sleight of Hand skill use) and Perform (oratory or sing) to whisper verbal components (as per the Spellcraft skill use). You gain a +1 trait bonus to Perform checks to subtly provide somatic components or to whisper verbal components.
 
@@ -524,7 +524,7 @@ You know how to say things so only locals understand your meaning. The DC for a 
 
 #### Guide (Region) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 Choose a single acclimation benefit from the Navigation sphere (even if you do not possess the sphere). You can use the acclimate Navigation sphere ability to grant the chosen acclimation benefit to yourself and 1 creature of your choice.
 
@@ -532,7 +532,7 @@ If you possess the chosen talent, you treat your associated ranks as being 1 hig
 
 #### Herbal Knowledge (Region) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Choose two herbs from the Herbalism sphere herbal lore ability—you learn to gather the chosen herbs (as per the herbal lore ability).
 

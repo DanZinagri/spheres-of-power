@@ -13,13 +13,13 @@ This creature has a stag’s body, a hawk’s wings and talons, and the head of 
 XP 1,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium magical beast (mythic)
-**Init**+7;**Senses** darkvision 60 ft., low-light vision; Perception +10
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; Perception +10
 
 #### Defense
 
-**AC**19,**touch**13,**flat-footed** 14 (+3 Dex, +6 natural)
+**AC** 19, **touch** 13, **flat-footed** 14 (+3 Dex, +6 natural)
 **hp** 62 (5d10+35)
-**Fort**+7,**Ref**+7,**Will** +3
+**Fort** +7, **Ref** +7, **Will** +3
 **Defensive Abilities** DR 5/epic and magic
 
 #### Offense
@@ -30,8 +30,8 @@ CE Medium magical beast (mythic)
 
 #### Statistics
 
-**Str**19,**Dex**16,**Con**17,**Int**11,**Wis**14,**Cha** 12
-**Base Atk**+5;**CMB**+9;**CMD** 22 (26 vs. trip)
+**Str** 19, **Dex** 16, **Con** 17, **Int** 11, **Wis** 14, **Cha** 12
+**Base Atk** +5; **CMB** +9; **CMD** 22 (26 vs. trip)
 **Feats** Flyby AttackMF, Improved Initiative, Weapon Focus (gore)
 **Skills** Fly +12, Perception +10, Stealth +9
 **Languages** Common

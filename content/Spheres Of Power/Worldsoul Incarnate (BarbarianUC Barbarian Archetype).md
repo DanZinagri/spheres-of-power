@@ -11,7 +11,7 @@ parent: "[[Spheres Of Power]]"
 
 Simple minds perceive the primal force of nature as an anger that destroys, but the enlightened know its true nature. Nature destroys without anger or hate - those are human failings. Destruction is just half of the cycle of life, the other is creation, and nature is the cycle. The worldsoul incarnate is the avatar of the cycle. She destroys without rage, while creating and re-creating herself.
 
-### Rapture
+## Rapture
 
 A worldsoul incarnate can tap into the forces of nature and channel them through her body, filling herself with euphoric rapture. At 1st level, a worldsoul incarnate can be enraptured for a number of rounds per day equal to 4 + her Constitution modifier, and she can be enraptured for 2 additional rounds per day per class level thereafter. Temporary increases to Constitution, such as from the Enhancement sphere, do not increase the total number of rounds that a worldsoul incarnate can be enraptured per day. The total number of rounds of rapture per day is renewed after resting for 8 hours, although these hours need not be consecutive.
 
@@ -23,73 +23,73 @@ Rapture counts as the rage ability for purposes of prerequisites, and may be aug
 
 This alters rage.
 
-### Primal Channeling (Su)
+## Primal Channeling (Su)
 
 While enraptured, the worldsoul incarnate may channel primal energy to create powerful supernatural effects. Whenever she spends a free action to enter or maintain rapture, she gains a number of vitality points equal to her class level. She may spend vitality points to achieve many different effects at once. At the end of her turn, she loses all unspent vitality points.
 
-#### Fight or Flight
+### Fight or Flight
 
 As a free action, the worldsoul incarnate may spend a vitality point to gain a +4 dodge bonus until the beginning of her next turn against an enemy of her choice that she can see. She may acquire this bonus against multiple targets in a single round, but not multiple times against the same target in the same round.
 
-#### Hurricane Strike
+### Hurricane Strike
 
 As a full-round action, the worldsoul incarnate may spend 14 vitality points to summon forth ghostly spirits that echo her physical form, each of which makes a single attack before disappearing. The worldsoul incarnate may make a single melee attack against every enemy within 20 feet she can see. These attacks are at her full base attack bonus.
 
-#### Life Force
+### Life Force
 
 The worldsoul incarnate may spend any number of vitality points as a free action to gain an equal number of temporary hit points. This ability can only be used if she is injured, and cannot raise her current hit points plus her temporary hit points to be higher than her maximum hit points. The temporary hit points last until the end of rapture, and stack with themselves and with temporary hit points from other sources.
 
-#### Mighty Blow
+### Mighty Blow
 
 The worldsoul incarnate may spend 1 vitality point as a free action to add a +2 circumstance bonus to any attack roll (including attack rolls to confirm critical hits) or damage roll made with a melee or thrown weapon, or to add a +2 circumstance bonus to any skill or attribute check that uses her Strength, Dexterity or Constitution, or to add +2 to a combat maneuver roll. The decision to use this ability is made after dice are rolled, but before the results are announced. Although this ability can be used multiple times per turn, it can only be used once per die roll.
 
-#### Primal Ascension
+### Primal Ascension
 
 The worldsoul incarnate may spend 20 vitality points as a standard action to benefit from the restore ability of the Life sphere, using her class level as her caster level. This removes all conditions, all attribute damage and drain, and removes all temporary negative levels.
 
-#### Restoring Force
+### Restoring Force
 
 The worldsoul incarnate may spend 11 vitality points as a swift action to benefit from the restore ability of the Life sphere, using her class level as her caster level.
 
-#### Sunder Magic
+### Sunder Magic
 
 As a swift action, the worldsoul incarnate may spend 17 vitality points to dispel any number of magical effects that currently afflict her.
 
-#### Surge of Movement
+### Surge of Movement
 
 The worldsoul incarnate may spend 2 vitality points as a free action to move 5 feet. This movement draws attacks of opportunity normally and ignores difficult terrain. She may do this multiple times in a turn.
 
-#### Vicious Cycle
+### Vicious Cycle
 
 The worldsoul incarnate may spend 8 vitality points as a free action to make an attack at her full base attack bonus against a target she has already successfully hit with an attack this turn.
 
-#### Vital Force
+### Vital Force
 
 The worldsoul incarnate may spend 5 vitality points as a free action to regain 1 hit point.
 
 This replaces fast movement, greater rage, indomitable will, tireless rage, and mighty rage.
 
-### Rapture Powers
+## Rapture Powers
 
 The worldsoul incarnate may choose any of the following powers in place of a rage power:
 
-#### Channel Energy
+### Channel Energy
 
 The worldsoul incarnate may release a massive wave of primal energy. She gains the channel energy ability as a cleric of equal level, using her casting ability to determine the saving throw DC of her channeled energy. She may only channel positive energy. The worldsoul incarnate must expend 4 rounds of her rapture to channel energy.
 
-#### Elation (requires worldsoul incarnate 10)
+### Elation (requires worldsoul incarnate 10)
 
 The worldsoul incarnate gains a fly speed equal to her base land speed with good maneuverability.
 
-#### Natural Grace (requires worldsoul incarnate 6)
+### Natural Grace (requires worldsoul incarnate 6)
 
 Whenever the worldsoul incarnate enters rapture, she may choose a combat feat for which she meets the prerequisites. She gains the use of this feat for the duration of the rapture. She may choose a different feat whenever she enters rapture, provided at least 1 minute has passed since she has last left rapture.
 
-#### Primal Aura (requires worldsoul incarnate 4)
+### Primal Aura (requires worldsoul incarnate 4)
 
 While she is enraptured, she may give off an aura of positive energy that causes her and all living and undead creatures within 20 feet to glow slightly, giving them a penalty on Stealth checks equal to her class level and negating all bonuses usually bestowed by invisibility, blink effects, darkness, or similar effects. While the aura is in effect, she gains a +5 circumstance bonus to Intimidate checks, and sheds bright light to a distance of 20 feet around her, and normal light another 20 feet beyond that. The light harms creatures vulnerable to natural sunlight as if it were natural sunlight.
 
-#### Primal Stamina (requires Combat Stamina)
+### Primal Stamina (requires Combat Stamina)
 
 During her turn, the worldsoul incarnate may spend vitality in place of stamina points. She must spend 2 vitality points in place of each stamina point she wishes to spend.
 

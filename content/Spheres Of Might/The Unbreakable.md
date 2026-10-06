@@ -14,7 +14,7 @@ The Unbreakable is a first-level sample character for Spheres of Might, suitable
 **The Unbreakable**
 Human [[Sentinel|sentinel]] 1
 N Medium humanoid (human)
-**Init**+3;**Senses** Perception +6
+**Init** +3; **Senses** Perception +6
 
 **Resources:**
 . Attacks of Opportunity: 3/3 (per round)
@@ -25,9 +25,9 @@ N Medium humanoid (human)
 
 ## Defense
 
-**AC**18,**touch**10,**flat-footed** 18 (+5 armor, +3 shield)
+**AC** 18, **touch** 10, **flat-footed** 18 (+5 armor, +3 shield)
 **hp** 17 (1d12+5)
-**Fort**+6,**Ref**+1,**Will** +4
+**Fort** +6, **Ref** +1, **Will** +4
 **Defensive Abilities** delayed damage pool (3), shield: active defense
 
 ## Offense
@@ -38,8 +38,8 @@ N Medium humanoid (human)
 
 ## Statistics
 
-**Str**14,**Dex**10,**Con**18,**Int**10,**Wis**14,**Cha** 10
-**Base Atk**+1;**CMB**+3;**CMD** 13
+**Str** 14, **Dex** 10, **Con** 18, **Int** 10, **Wis** 14, **Cha** 10
+**Base Atk** +1; **CMB** +3; **CMD** 13
 **Feats** Improved Shield Bash, Muscular Reflexes
 **Traits** artisan, reactionary
 **Skills** Acrobatics -6 (-10 to jump), Climb +0, Craft (armor) +8, Heal +6, Perception +6, Sense Motive +6
@@ -72,9 +72,9 @@ You gain a Delayed Damage Pool (see above). Should you lose access to the Guardi
 
 **Muscular Reflexes (+2 AoOs/Round)** You may make a number of additional attacks of opportunity per round equal to your Strength bonus. With this feat, you may also make attacks of opportunity while flat-footed.
 
-Normal: A character without this feat can make only one attack of opportunity per round and can’t make attacks of opportunity while flat-footed.
+**Normal:** A character without this feat can make only one attack of opportunity per round and can’t make attacks of opportunity while flat-footed.
 
-Special: The Muscular Reflexes feat does not allow a rogue to use her opportunist ability more than once per round. The attacks of opportunity from this feat do not stack with those granted by Combat Reflexes or similar feats, but Muscular Reflexes counts as Combat Reflexes when meeting the prerequisites for feats.
+**Special:** The Muscular Reflexes feat does not allow a rogue to use her opportunist ability more than once per round. The attacks of opportunity from this feat do not stack with those granted by Combat Reflexes or similar feats, but Muscular Reflexes counts as Combat Reflexes when meeting the prerequisites for feats.
 
 **Sentinel's Reserve (2/day, +4 Temp HP) (Ex)** Each day, a sentinel gains a number of reserve points equal to 1/2 her sentinel level + her Wisdom modifier (minimum 1). She can spend a reserve point as a swift action to gain an amount of temporary hit points equal to two times her base attack bonus + her Wisdom modifier; these temporary hit points last for 1 minute or until lost, whichever comes first. She regains reserve points after resting for 8 hours, although she may only regain reserve points once every 24 hours.
 
@@ -114,15 +114,15 @@ Versatile Shield is a sleeper ability gained as part of the Martial Tradition, a
 
 ### Future Abilities
 
-As a Shield-focused character, you're better with counters than you are with direct attacks, and Active Defense will quickly become your primary ability. You'll want to pick up **Redirecting Shield**(possibly trading out the Versatile Shield power for it), as well as**Greater Deflect**, **Shielded Focus**, and **Smashing Counter**, all from the Shield sphere. This will let you redirect people's attacks, then smash them in the face with your shield, essentially giving you two attacks against them every time they miss you. Shielded Focus will let you quickly regain your Martial Focus so you can do this each turn. **Interposing Shield** is handy, but can be left until later.
+As a Shield-focused character, you're better with counters than you are with direct attacks, and Active Defense will quickly become your primary ability. You'll want to pick up **Redirecting Shield** (possibly trading out the Versatile Shield power for it), as well as **Greater Deflect**, **Shielded Focus**, and **Smashing Counter**, all from the Shield sphere. This will let you redirect people's attacks, then smash them in the face with your shield, essentially giving you two attacks against them every time they miss you. Shielded Focus will let you quickly regain your Martial Focus so you can do this each turn. **Interposing Shield** is handy, but can be left until later.
 
 (You don't have to pick whether or not you're using Greater Deflect until you activate your Active Defense, so if Redirecting Shield isn't likely to work, you can save your focus and just do Smashing Counter.)
 
-If you face a lot of touch attacks from enemies, **Deflecting Shield**and**Perfect Redirection**will be handy. If you face Area of Effect attacks,**Blockade** is fantastic. These abilities are fairly game-dependent, though, so they're not a priority (and may not need to be taken at all) unless those effects have a big presence in your game.
+If you face a lot of touch attacks from enemies, **Deflecting Shield** and **Perfect Redirection** will be handy. If you face Area of Effect attacks, **Blockade** is fantastic. These abilities are fairly game-dependent, though, so they're not a priority (and may not need to be taken at all) unless those effects have a big presence in your game.
 
 As an alternative to shield powers, consider picking up at least the basic **Berserker sphere** as early as 2nd level. Its Berserking ability synergizes *extremely* well with the Guardian sphere's Delayed Damage Pool and you're defensive enough that you can accept the AC penalty.
 
-Guardian talents can be left until your basic defensive combo is complete. Once you can reliably deflect and punish, these talents can make you even harder to bring down. The exception to this is **Mass Challenge**, which will let you taunt multiple foes into coming after you (and that's good). Remember, you can only heal negative things into oblivion when your HP is full, so you should try to take as little damage as possible. If anyone in your party has the Life sphere's Painkiller talent, you can use the **Guardian sphere's Endure Pain talent**to take more nonlethal damage that they can easily cure. Consider investing in the**Basic Magical Training** feat for the Life sphere (with a Drawback to get Painkiller), and possibly the Advanced Magical Training feat if you don't want it take quite as long to recover at higher levels. Since you can take a lot of damage as nonlethal thanks to Endure Pain, this will significantly enhance your survival throughout the day.
+Guardian talents can be left until your basic defensive combo is complete. Once you can reliably deflect and punish, these talents can make you even harder to bring down. The exception to this is **Mass Challenge**, which will let you taunt multiple foes into coming after you (and that's good). Remember, you can only heal negative things into oblivion when your HP is full, so you should try to take as little damage as possible. If anyone in your party has the Life sphere's Painkiller talent, you can use the **Guardian sphere's Endure Pain talent** to take more nonlethal damage that they can easily cure. Consider investing in the **Basic Magical Training** feat for the Life sphere (with a Drawback to get Painkiller), and possibly the Advanced Magical Training feat if you don't want it take quite as long to recover at higher levels. Since you can take a lot of damage as nonlethal thanks to Endure Pain, this will significantly enhance your survival throughout the day.
 
 Your turns will mostly be spent moving into position and recharging your martial focus so you can use your active defense more effectively - your *real* impact will come from using Active Defense during your enemies' turns.
 

@@ -11,36 +11,36 @@ There is some debate about the origin of cloud sprites. Some maintain that they 
 A spot in the fog shimmers and coalesces into the shape of a tiny winged human, with a blue tunic and bluer skin.
 XP 600
 CN Tiny fey
-**Init**+4;**Senses**low-light vision, mistsight;**Perception** +8
+**Init** +4; **Senses** low-light vision, mistsight; **Perception** +8
 
 **Defense**
-**AC**18,**touch**16,**flat-footed** 14 (+4 Dex, +2 natural armor, +2 size)
+**AC** 18, **touch** 16, **flat-footed** 14 (+4 Dex, +2 natural armor, +2 size)
 **hp** 13 (3d6+3)
-**Fort**+2,**Ref**+7,**Will** +6
+**Fort** +2, **Ref** +7, **Will** +6
 **Immune** electricity
 
 **Offense**
 **Speed** fly 40 ft. (good)
-**Space**5 ft.;**Reach** 0 ft.
+**Space** 5 ft.; **Reach** 0 ft.
 
 **Magic**
-**Caster Level**3;**MSB**+3,**MSD**13,**Concentration** +8
-**Tradition**Natural;**CAM** Cha
+**Caster Level** 3; **MSB** +3, **MSD** 13, **Concentration** +8
+**Tradition** Natural; **CAM** Cha
 **Spell Points** 6
 
 **Destruction Sphere:** Extended Range; (blast type) Electric Blast; Energy Focus (electric) drawback
 • destructive blast, medium range touch (130 ft.), DC 18; Extended Range
 ◊ Electric Blast (3d6 electric, 1 round stun, Reflex negates)
 
-**Weather Sphere**: (mantle) Mist Form, Sodden, Zephyr’s Flight; Localized Weather drawback
+**Weather Sphere:** (mantle) Mist Form, Sodden, Zephyr’s Flight; Localized Weather drawback
 • mantle, Duration 3 hours, 1 sp
 ◊ Mist Form (Precipitation; concealment)
 ◊ Sodden (Precipitation; fire resistance)
 ◊ Zephyr’s Flight (Wind; movement speed)
 
 **Statistics**
-**Str**3,**Dex**18,**Con**12,**Int**11,**Wis**17,**Cha** 20
-**Base Atk**+1;**CMB**-5;**CMD** 7
+**Str** 3, **Dex** 18, **Con** 12, **Int** 11, **Wis** 17, **Cha** 20
+**Base Atk** +1; **CMB** -5; **CMD** 7
 **Feats** Mantled Caster, Sphere Focus (Destruction)
 **Skills** Acrobatics +10, Fly +18, Knowledge (nature) +6, Perception +8, Survival +5, Stealth +10
 **Languages** Common, Sylvan

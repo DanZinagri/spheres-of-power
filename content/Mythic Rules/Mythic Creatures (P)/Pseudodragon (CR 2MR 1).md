@@ -13,14 +13,14 @@ This housecat-sized miniature dragon has fine scales, sharp horns, wicked little
 XP 600
 Pathfinder Roleplaying Game Bestiary
 NG Tiny dragon (mythic)
-**Init**+2;**Senses** blindsense 60 ft., darkvision 60 ft., low-light vision; Perception +6
+**Init** +2; **Senses** blindsense 60 ft., darkvision 60 ft., low-light vision; Perception +6
 
 #### Defense
 
-**AC**17,**touch**14,**flat-footed** 15 (+2 Dex, +3 natural, +2 size)
+**AC** 17, **touch** 14, **flat-footed** 15 (+2 Dex, +3 natural, +2 size)
 **hp** 25 (2d12+12)
-**Fort**+4,**Ref**+5,**Will** +4
-**Defensive Abilities** **Immune**paralysis and sleep, dragon traits;**SR** 12
+**Fort** +4, **Ref** +5, **Will** +4
+**Defensive Abilities** **Immune** paralysis and sleep, dragon traits; **SR** 12
 
 #### Offense
 
@@ -31,10 +31,10 @@ NG Tiny dragon (mythic)
 
 #### Statistics
 
-**Str**7,**Dex**15,**Con**13,**Int**10,**Wis**12,**Cha** 10
-**Base Atk**+2;**CMB**+2;**CMD** 10 (14 vs. trip)
+**Str** 7, **Dex** 15, **Con** 13, **Int** 10, **Wis** 12, **Cha** 10
+**Base Atk** +2; **CMB** +2; **CMD** 10 (14 vs. trip)
 **Feats** Weapon FinesseMF
-**Skills**Diplomacy +5, Fly +15, Perception +6, Sense Motive +6, Stealth +19 (+23 in forests), Survival +6;**Racial Modifiers** +4 Stealth (+8 in forests)
+**Skills** Diplomacy +5, Fly +15, Perception +6, Sense Motive +6, Stealth +19 (+23 in forests), Survival +6; **Racial Modifiers** +4 Stealth (+8 in forests)
 **Languages** Draconic; telepathy 60 ft.
 **SQ** secret keeperMA
 
@@ -50,7 +50,7 @@ NG Tiny dragon (mythic)
 
 If the mythic pseudodragon is a familiar, its master gains this ability whenever the mythic pseudodragon is within arm’s reach and may also apply this bonus on caster level checks made against a dragon.
 
-**Poison (Ex)**Sting—injury;**save**Fort DC 14;**frequency**1/minute for 10 minutes;**effect**sleep for 1 minute;**cure** 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (Ex)** Sting—injury; **save** Fort DC 14; **frequency** 1/minute for 10 minutes; **effect** sleep for 1 minute; **cure** 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 
 **Secret Keeper (Ex)** A mythic pseudodragon is able to tap into the collective unconscious of dragonkind and vast wells of lore long forgotten by sages. A mythic pseudodragon can make untrained Knowledge skill checks with a bonus equal to its mythic rank (or its master’s mythic tier, if it is a familiar). If it has ranks in a Knowledge skill, it can always take 10 with that Knowledge skill and once per day can take 20 as a full-round action. It can spend one use of its mythic power to cast legend lore (caster level equal to its Hit Dice plus its mythic tier (or its master’s mythic rank, if it is a familiar)).
 

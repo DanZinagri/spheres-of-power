@@ -9,33 +9,33 @@ updated: 2020-01-31
 
 When a person lives with a spirit, they become acutely aware of their own essence, just beneath the surface of the skin. The psychomancer is interested not only with her bond to her spirit, but her own spiritual evolution, and seeks to unlock her soul from the prison of her flesh.
 
-### Weapon and Armor Proficiencies
+## Weapon and Armor Proficiencies
 
 The psychomancer is proficient with simple weapons and light armor only.
 
 This alters weapon and armor proficiencies.
 
-### Casting
+## Casting
 
 The psychomancer may combine spheres and talents to create magical effects. The psychomancer is considered a Mid-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-### Spell Pool
+## Spell Pool
 
 The psychomancer gains a small reservoir of energy she can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to her class level + her casting ability modifier. This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A psychomancer gains 3/4ths of a magic talent every level (the same progression as she gains caster levels).
 
-### Spirit Magic
+## Spirit Magic
 
 At 1st level, the psychomancer begins her quest to free her own spirit. She does so by choosing to specialize in one of three forms of magic. The psychomancer chooses either the Death, Life, or Mind sphere as her spirit sphere. She gains her spirit sphere as a bonus magic talent (or a talent from it if she possesses the base sphere already), and uses her class level as her caster level with that sphere. This stacks normally with caster levels gained from other sources. Once chosen, this decision can not be changed.
 
 This replaces calm spirits.
 
-### Spirit Sight (Su)
+## Spirit Sight (Su)
 
 At 5th level, she gains blindsight to a range of 10 feet. This ability only allows her to detect living creatures and undead creatures. This sight also tells her whether a creature is living or undead. Constructs and other creatures that are neither living nor undead cannot be seen with this ability. The range of this ability increases by 5 feet at 7th level, and by an additional 5 feet for every four levels beyond 7th to a maximum of 30 feet at 19th level.
 
@@ -43,7 +43,7 @@ As a move action, she may double the range of her spirit sense for 1 round.
 
 This replaces detect undead.
 
-### Spirit Walk (Su)
+## Spirit Walk (Su)
 
 At 9th level, the psychomancer gains the Project Spirit advanced talent of the Death sphere. When she uses this talent, she may use her class level as her caster level if it is higher.
 
@@ -51,7 +51,7 @@ The psychomancer’s phantom must remain within range of either her body or her 
 
 This replaces see invisible.
 
-### Spirit Form (Su)
+## Spirit Form (Su)
 
 At 16th level, the psychomancer becomes more adept at projecting her spirit. While she is spirit walking, the psychomancer can take on an incorporeal or ectoplasmic form just as her phantom can. While ectoplasmic, she gains the same damage reduction a phantom would. Changing from incorporeal to ectoplasmic form or the reverse requires a full-round action.
 

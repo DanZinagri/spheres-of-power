@@ -400,7 +400,7 @@ Once per day, the professional can roll two dice while attempting a Bluff, Diplo
 
 ### Connoisseur [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 The professional understands the deceptively intricate methodologies behind food and drink preparation, and may be a professional cook, bartender, or housekeeper.
 
@@ -556,7 +556,7 @@ If she has the (herbal) package, whenever the professional gathers a bunch of he
 - **Potent Sour Herb:** After consuming this herb, the user gains a +5 bonus to saving throws against poisons and diseases, and can roll such saving throws twice, taking the highest result. At any point during the herb’s duration, the user can retch as a swift action, removing the effects of any ingested poison they have imbibed within the last minute.
 - **Potent Spicy Herb:** After consuming this herb, the next 2d4 Strength-, Dexterity-, or Constitution-based ability checks or skill checks the user rolls within the next minute may be rolled twice, keeping the highest result.
 - **Potent Sweet Herb:** After consuming this herb, the user gains fast healing 5 for a number of rounds equal to the professional’s operative ability modifier.
-- **Potent Tainted Herb:** A potent tainted herb functions as a poison:**Potent Tainted Herb**: *Poison*—contact or ingested; **save**Fort (Herbalism DC);**onset**immediate;**frequency**1/round for the herb’s duration;**effect**1d3 Con damage;**cure** 2 consecutive saves.
+- **Potent Tainted Herb:** A potent tainted herb functions as a poison: **Potent Tainted Herb**: *Poison*—contact or ingested; **save** Fort (Herbalism DC); **onset** immediate; **frequency** 1/round for the herb’s duration; **effect** 1d3 Con damage; **cure** 2 consecutive saves.
 
 A creature can only benefit from a potent herb once per day. Consuming another potent herb within the same 24 hour period results in the user becoming nauseated for 1 minute unless they succeed at a Fortitude saving throw against the professional’s sphere DC and gaining no benefits from the herb.
 
@@ -698,7 +698,7 @@ The professional’s terrain bonus in all favored terrains increases by +2, and 
 
 ### Occultism [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 The professional is a practitioner of something occult or mystical. She might be a shaman, soothsayer, or witch.
 
@@ -800,7 +800,7 @@ The professional’s creative endeavors and extensive capabilities with theatric
 
 ### Sciences [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 The professional possesses a brilliant mind for alchemy and the physiological response, and is often an alchemist, apothecary, or physician.
 
@@ -865,7 +865,7 @@ When the professional successfully uses Expected Spell or Unsnarl Magic, she may
 
 ### Steward [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 The professional is dedicated to the assistance of others, and may be a maid, parent, valet, or a housekeeper.
 
@@ -1080,7 +1080,7 @@ The following feats are particularly appropriate or useful for professionals.
 
 #### Hybridized Specialty [3PP]
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
 **Prerequisites:** Sphere Specialization or Professional Method class feature
 

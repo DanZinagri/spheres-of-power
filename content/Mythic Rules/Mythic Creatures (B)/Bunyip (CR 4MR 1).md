@@ -10,13 +10,13 @@ parent: "[[Mythic Creatures (B)]]"
 **Bunyip, Mythic (CR 4/MR 1)**
 XP 1,200
 N Medium magical beast (aquatic, mythic)
-**Init**+3;**Senses** darkvision 60 ft., keen scent, low-light vision; Perception +8
+**Init** +3; **Senses** darkvision 60 ft., keen scent, low-light vision; Perception +8
 
 #### Defense
 
-**AC**16,**touch**13,**flat-footed** 13 (+3 Dex, +3 natural)
+**AC** 16, **touch** 13, **flat-footed** 13 (+3 Dex, +3 natural)
 **hp** 42 (5d10+15)
-**Fort**+5,**Ref**+7,**Will** +1
+**Fort** +5, **Ref** +7, **Will** +1
 **Defensive Abilities** DR 5/epic
 
 #### Offense
@@ -27,8 +27,8 @@ N Medium magical beast (aquatic, mythic)
 
 #### Statistics
 
-**Str**13,**Dex**16,**Con**13,**Int**2,**Wis**11,**Cha** 7
-**Base Atk**+5;**CMB**+6;**CMD** 19 (can’t be tripped)
+**Str** 13, **Dex** 16, **Con** 13, **Int** 2, **Wis** 11, **Cha** 7
+**Base Atk** +5; **CMB** +6; **CMD** 19 (can’t be tripped)
 **Feats** Extra Mythic PowerMF, Improved Critical (bite)B, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (bite)
 **Skills** Escape Artist +5, Perception +8, Stealth +10, Swim +9
 **SQ** amphibious

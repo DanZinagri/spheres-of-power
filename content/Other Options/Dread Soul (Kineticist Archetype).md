@@ -23,7 +23,7 @@ This ability replaces the infusion gained at 1st level.
 **Fiendish Form (Su):** At 2nd level, a dread soul gains the following elemental defense:
 
 > **Flesh of the Fallen**
-> **Element(s)**universal;**Type**defensive (Sp);**Level**—;**Burn** 0
+> **Element(s)** universal; **Type** defensive (Sp); **Level** —; **Burn** 0
 >
 > Your skin is as thick and sharp as a fiend’s hide. You gain a +1 enhancement bonus to your natural armor. Depending on your damned loyalty, you also gain energy resistance equal to 3 times the natural armor provided by this wild talent:
 >
@@ -48,7 +48,7 @@ This ability replaces internal buffer.
 A dread soul also gains the following infusion:
 
 > **Soul Burning Infusion**
-> **Element(s)**universal;**Type**substance infusion;**Level**3;**Burn** 2
+> **Element(s)** universal; **Type** substance infusion; **Level** 3; **Burn** 2
 > **Associated Blast** any
 > **Saving Throw** Will negates
 >
@@ -67,7 +67,7 @@ This ability replaces the utility wild talent gained at 10th level.
 **Soul Ravage (Sp):** At 15th level, a dread soul adds the following two infusions to the list of wild talents they can select, gaining one instantly:
 
 > **Soul Burning Infusion, Improved**
-> **Element(s)**universal;**Type**substance infusion;**Level**8;**Burn** 4
+> **Element(s)** universal; **Type** substance infusion; **Level** 8; **Burn** 4
 > **Prerequisite(s)** soul burning infusion
 > **Associated Blast** any
 > **Saving Throw** Will partial
@@ -75,10 +75,10 @@ This ability replaces the utility wild talent gained at 10th level.
 > This infusion is treated as soul burning infusion, except that the burn is always treated as lethal damage and cannot be removed through natural means, requiring greater restoration or stronger magic to recover from it.
 
 > **Soul Entrapment Infusion**
-> **Element(s)**universal;**Type**form infusion;**Level**8;**Burn** 4
+> **Element(s)** universal; **Type** form infusion; **Level** 8; **Burn** 4
 > **Prerequisite(s)** soul burning infusion
 > **Associated Blast** any
-> **Saving Throw**Will negates;**Spell Resistance** yes
+> **Saving Throw** Will negates; **Spell Resistance** yes
 >
 > Your blasts don’t simply scar souls, they steal them. If a foe’s hit points are reduced to 0 or lower by this blast, its body transforms into a soulstone (a soulstone is created even if the target is incorporeal) which immediately flies into your hand unless something obstructs its path. You can target a soulstone you’ve created with damning drain as if it was an intelligent, non-willing creature (using the trapped creature’s Will save), and the soulstone shatters once it receives 1 burn per 6 hit dice of the creature used to create it. This form infusion has no effect against objects, creatures with less than 3 Intelligence, or creatures with less than half your dread soul levels in HD. If you attempt to create another soulstone while you already have one in existence, the previous soulstone immediately shatters. Soulstones have no monetary value, hardness 10, and hit points equal to three times the HD of the creature used to create them, but otherwise act like soul gems created through the soul bind spell.
 

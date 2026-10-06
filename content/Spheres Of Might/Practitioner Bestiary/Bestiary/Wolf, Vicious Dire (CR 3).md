@@ -7,28 +7,28 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 800
 N Large animal
-**Init**+2; Senses low-light vision, scent;**Perception** +7
+**Init** +2; Senses low-light vision, scent; **Perception** +7
 
 **Defense**
-**AC**14,**touch**11,**flat-footed** 12 (+2 Dex, +3 natural, –1 size)
+**AC** 14, **touch** 11, **flat-footed** 12 (+2 Dex, +3 natural, –1 size)
 **hp** 37 (5d8+15)
-**Fort**+7,**Ref**+6,**Will** +2
+**Fort** +7, **Ref** +6, **Will** +2
 
 **Offense**
 **Speed** 50 ft.
 **Melee** bite +6 (1d8+6 plus trip plus 1 bleed)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 
 **Tactics**
 Vicious dire wolves usually operate in packs, using skirmishing tactics to weaken their foes before bringing them to the ground and finishing them off. Using their Mobile Striker to dart in and out of combat, vicious dire wolves will wait until they land a bite attack to engage, quickly using the trip ability of their bite to bring an opponent to the ground and using their …And Stay Down! talent to keep them there as long as possible.
 
 **Statistics**
-**Str**19,**Dex**15,**Con**17,**Int**2,**Wis**12,**Cha** 10
-**Base Atk**+3;**CMB**+8;**CMD** 20 (24 vs. trip)
+**Str** 19, **Dex** 15, **Con** 17, **Int** 2, **Wis** 12, **Cha** 10
+**Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip)
 **Feats** none
-**Martial Tradition**Assassin,**PAM**Wis,**DC** 12
+**Martial Tradition** Assassin, **PAM** Wis, **DC** 12
 **Talents** Athletics (run package, Mobile Striker), Duelist (…And Stay Down!)
-**Skills**Acrobatics +10, Perception +7, Stealth +3, Survival +1 (+5 scent tracking);**Racial Modifiers** +4 Survival when tracking by scent
+**Skills** Acrobatics +10, Perception +7, Stealth +3, Survival +1 (+5 scent tracking); **Racial Modifiers** +4 Survival when tracking by scent
 
 **Ecology**
 **Environment** cold or temperate forests

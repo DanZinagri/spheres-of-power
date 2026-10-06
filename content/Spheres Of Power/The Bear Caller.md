@@ -16,13 +16,13 @@ The Bear Caller is a first-level sample character for Spheres of Power, suitable
 **The Bear Caller**
 Human incanter 1
 N Medium humanoid (human)
-**Init**+4;**Senses** Perception +1
+**Init** +4; **Senses** Perception +1
 
 ## Defense
 
-**AC**12,**touch**12,**flat-footed** 10 (+2 Dex)
+**AC** 12, **touch** 12, **flat-footed** 10 (+2 Dex)
 **hp** 8 (1d6+2)
-**Fort**+1,**Ref**+2,**Will** +3
+**Fort** +1, **Ref** +2, **Will** +3
 **Weaknesses** elongated summoning, magical signs
 
 ## Offense
@@ -31,8 +31,8 @@ N Medium humanoid (human)
 
 ## Statistics
 
-**Str**11,**Dex**14,**Con**12,**Int**10,**Wis**12,**Cha** 18
-**Base Atk**+0;**CMB**+0;**CMD** 12
+**Str** 11, **Dex** 14, **Con** 12, **Int** 10, **Wis** 12, **Cha** 18
+**Base Atk** +0; **CMB** +0; **CMD** 12
 **Feats** Extra Magic Talent, Extra Magic Talent, Extra Magic Talent
 **Traits** reactionary
 **Skills** Intimidate +5, Knowledge (nature) +4, Survival +2
@@ -63,24 +63,24 @@ N Medium humanoid (human)
 **The Bear**
 Bipedal companion
 N Large outsider
-**Init**+1;**Senses** Perception +0
+**Init** +1; **Senses** Perception +0
 
 ## Defense
 
-**AC**14,**touch**10,**flat-footed** 13 (+2 armor, +1 Dex, +2 natural, -1 size)
+**AC** 14, **touch** 10, **flat-footed** 13 (+2 armor, +1 Dex, +2 natural, -1 size)
 **hp** 13 (1d10+3)
-**Fort**+5,**Ref**+1,**Will** +2
+**Fort** +5, **Ref** +1, **Will** +2
 
 ## Offense
 
 **Speed** 50 ft.
 **Melee** 2 slams +6 (1d6+6); PA: +5 (1d6+8)
-**Space**10 ft.;**Reach **10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 
 ## Statistics
 
-**Str**22,**Dex**12,**Con**17,**Int**7,**Wis**10,**Cha** 11
-**Base Atk**+1;**CMB**+8;**CMD** 19
+**Str** 22, **Dex** 12, **Con** 17, **Int** 7, **Wis** 10, **Cha** 11
+**Base Atk** +1; **CMB** +8; **CMD** 19
 **Feats** Power Attack
 **Skills** Acrobatics +1 (+9 to jump), Intimidate +1
 **SQ** altered size, animal creature, armored companion, fortified companion, lingering companion, powerful companion, quick companion
@@ -98,17 +98,17 @@ N Large outsider
 
 ---
 
-# THEME
+# Theme
 
 The Bear Caller is a summoning-focused Incanter with one goal: To make the most terrifying bear the world has ever seen. Thanks to multiple feats and the Incanter's high number of talents, this build starts off with a lot of abilities, most of which are dedicated to growing the Bear over time. A dip into the Life sphere allows you to heal your companion when it gets wounded in battle.
 
 Consider hopping on its back to ride it into battle, especially once you make it even bigger.
 
-# BUILD RULES
+# Build Rules
 
 20 point buy. If higher, raise Intelligence or Charisma. If lower, lower strength.
 
-# SUGGESTED GROWTH
+# Suggested Growth
 
 More Conjuration talents. A bit more Life can make it easier to sustain your companion, while the Enhancement sphere can make it even more powerful.
 

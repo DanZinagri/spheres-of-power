@@ -72,41 +72,41 @@ Every companion comes with one of the following base forms, chosen by the caster
 | 40th | 30 | +30 | 30 | 15 | +15 | +17 | +10 | - |
 
 **Avian**
-**Size**Medium;**Speed** 20 ft., Fly 15 ft*. (average); **AC**+2 natural armor;**Saves**Fort (good), Ref (good), Will (bad);**Attack**Bite (primary, 1d4 Medium, 1d3 Small), 2 talons (primary, 1d4 Medium, 1d3 Small, creature must be airborne to use);**Str**12,**Dex**16,**Con**13,**Int**7,**Wis**10,**Cha** 11
+**Size** Medium; **Speed** 20 ft., Fly 15 ft*. (average); **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** Bite (primary, 1d4 Medium, 1d3 Small), 2 talons (primary, 1d4 Medium, 1d3 Small, creature must be airborne to use); **Str** 12, **Dex** 16, **Con** 13, **Int** 7, **Wis** 10, **Cha** 11
 
 Avian creatures are birds and bird-like magical beasts and outsiders. An avian companion has a head, 2 legs, and 2 wings
 
 *This fly speed only functions on the companion’s turn. If the companion is not on a surface that can support it on the end of its turn, it glides to the ground, taking no falling damage. If the companion gains a natural fly speed from the Avian Creature (form) talent, increase the maneuverability of that speed by 1 step.
 
 **Biped**
-**Size**Medium;**Speed**30 ft.;**AC**+2 natural armor;**Saves**Fort (good), Ref (bad), Will (good);**Attack**2 slams (1d4);**Str**16,**Dex**12,**Con**13,**Int**7,**Wis**10,**Cha** 11
+**Size** Medium; **Speed** 30 ft.; **AC** +2 natural armor; **Saves** Fort (good), Ref (bad), Will (good); **Attack** 2 slams (1d4); **Str** 16, **Dex** 12, **Con** 13, **Int** 7, **Wis** 10, **Cha** 11
 
 Bipeds are usually humanoids, and begin with 2 legs, 2 arms, and a head.
 
 **Ooze**
-**Size**Medium;**Speed**20 ft.;**AC**+4 natural armor;**Saves**Fort (good), Ref (bad), Will (bad);**Attack**slam (primary, 1d6 Medium, 1d4 Small);**Str**16,**Dex**8,**Con**16,**Int**7,**Wis**12,**Cha** 11.
+**Size** Medium; **Speed** 20 ft.; **AC** +4 natural armor; **Saves** Fort (good), Ref (bad), Will (bad); **Attack** slam (primary, 1d6 Medium, 1d4 Small); **Str** 16, **Dex** 8, **Con** 16, **Int** 7, **Wis** 12, **Cha** 11.
 
 Ooze creatures are usually oozes, puddings, or other amorphous creatures and lack discernable limbs. An ooze companion may not be tripped unless gaining legs from another source.
 
 **Orb**
-**Size**Medium;**Speed**5 ft. Hover1, 30 ft. (average);**AC**+2 natural armor;**Saves**Fort (bad), Ref (good), Will (good);**Attack**bite or slam (choose 1) (1d6);**Str**7,**Dex**16,**Con**13,**Int**102,**Wis**12,**Cha** 11.
+**Size** Medium; **Speed** 5 ft. Hover1, 30 ft. (average); **AC** +2 natural armor; **Saves** Fort (bad), Ref (good), Will (good); **Attack** bite or slam (choose 1) (1d6); **Str** 7, **Dex** 16, **Con** 13, **Int** 102,**Wis** 12, **Cha** 11.
 
 Orb creatures are lantern archons, will-o-wisps, gibbering orbs, and other mystical fey, outsiders, constructs, or aberrations with a floating sphere-like appearance and supernatural movement. An orb lacks any limbs, but may treat its body as a head for the purpose of adding natural attacks. An orb companion may not be tripped unless gaining legs from another source.
 1: An orb may float up to 5 feet plus 5 feet per 5 Hit Dice above the ground, with a horizontal movement speed of 30 feet. When floating this way, Fly checks are not required to hover or change direction. When falling the orb may choose to descend at a slower rate to control its fall and to negate all falling damage it would take. Each round it descends 30 feet, and may move in another direction for 30 feet. It may choose to drift sideways, gliding forwards while descending, or down, safely increasing its rate of descent. It may even choose to drift ‘upwards’ to reduce its rate of descent, even allowing it to negate it entirely and hover midair (though cannot move horizontally if it begins its turn doing so). This is a supernatural ability.
 2: The Skillful Companion (form) talent increases Int to 13 if taken.
 
 **Quadruped**
-**Size**Medium;**Speed**40 ft.;**AC**+2 natural armor;**Saves**Fort (good), Ref (good), Will (bad);**Attack**bite (1d6);**Str**14,**Dex**14,**Con**13,**Int**7,**Wis**10,**Cha** 11
+**Size** Medium; **Speed** 40 ft.; **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** bite (1d6); **Str** 14, **Dex** 14, **Con** 13, **Int** 7, **Wis** 10, **Cha** 11
 
 Quadrupeds are usually beasts, and begin with 4 legs and a head.
 
 **Serpentine**
-**Size**Medium;**Speed**20 ft.;**AC**+4 natural armor;**Saves**Fort (bad), Ref (good), Will (good);**Attack**bite (1d6), tail slap (1d6);**Str**12,**Dex**16,**Con**13,**Int**7,**Wis**10,**Cha** 11
+**Size** Medium; **Speed** 20 ft.; **AC** +4 natural armor; **Saves** Fort (bad), Ref (good), Will (good); **Attack** bite (1d6), tail slap (1d6); **Str** 12, **Dex** 16, **Con** 13, **Int** 7, **Wis** 10, **Cha** 11
 
 Serpentine creatures are snakes, fish, and other elongated creatures. They begin with a head, but no arms or legs.
 
 **Vermin**
-**Size**Medium;**Speed**20 ft., Climb 20 ft.;**AC**+2 natural armor;**Saves**Fort (good), Ref (good), Will (bad);**Attack**bite (1d6);**Str**12,**Dex**16,**Con**13,**Int**7,**Wis**10,**Cha** 11
+**Size** Medium; **Speed** 20 ft., Climb 20 ft.; **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** bite (1d6); **Str** 12, **Dex** 16, **Con** 13, **Int** 7, **Wis** 10, **Cha** 11
 
 Vermin are usually insects or arachnids, and begin with either 6 or 8 legs and a head and gain a +6 bonus to CMD vs. trip attempts from its additional legs.
 
@@ -182,7 +182,7 @@ As a standard action, you may order a puppet companion to follow. Doing so cause
 
 #### Unwilling [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 Your Conjuration sphere companion serves you unwillingly. Whenever you summon the companion, the first time you or it rolls for initiative during a combat encounter, or whenever you are engaged in an activity that requires a skill check and more then 1 round to accomplish (such as crafting items, recuperating, or researching rituals), it must attempt a Will saving throw against your Conjuration sphere DC. If the companion fails the Will save, you establish control over the companion.
 
@@ -706,7 +706,7 @@ Your companion’s fast healing increases by +1 per 3 Hit Dice.
 
 #### Incursion Link [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Conjuration Sphere (Link, Otherworldly Audience, Spell Conduit x2, Spell-Linked Companion), caster level 15th.
 

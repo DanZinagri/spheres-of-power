@@ -11,13 +11,13 @@ parent: "[[Mythic Creatures (Y)]]"
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 N Large monstrous humanoid (cold, mythic)
-**Init**+1;**Senses** darkvision 60 ft., scent; Perception +10
+**Init** +1; **Senses** darkvision 60 ft., scent; Perception +10
 
 #### Defense
 
-**AC**19,**touch**10,**flat-footed** 18 (+1 Dex, +9 natural, –1 size)
+**AC** 19, **touch** 10, **flat-footed** 18 (+1 Dex, +9 natural, –1 size)
 **hp** 65 (6d10+32)
-**Fort**+6,**Ref**+6,**Will** +6
+**Fort** +6, **Ref** +6, **Will** +6
 **Defensive Abilities** **Immune** cold
 **Weaknesses** vulnerability to fire
 
@@ -26,15 +26,15 @@ N Large monstrous humanoid (cold, mythic)
 **Speed** 40 ft., climb 30 ft.
 **Melee** 2 claws +10 (1d6+5 plus 1d6 cold)
 **Ranged** rock +7 (2d6+7 plus 1d6 cold)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** frightful gaze, frozen boulderMA, hypothermic hugMA, mythic power (2/day, surge +1d6), rend (2 claws, 1d6+7 plus 1d6 cold and fatigue)
 
 #### Statistics
 
-**Str**21,**Dex**12,**Con**15,**Int**9,**Wis**12,**Cha** 10
-**Base Atk**+6;**CMB**+12;**CMD** 23
+**Str** 21, **Dex** 12, **Con** 15, **Int** 9, **Wis** 12, **Cha** 10
+**Base Atk** +6; **CMB** +12; **CMD** 23
 **Feats** Cleave, Great Fortitude, Power AttackMF
-**Skills**Climb +22, Intimidate +9, Perception +10, Stealth +1 (+9 in snow);**Racial Modifiers** +4 Stealth (+12 in snow)
+**Skills** Climb +22, Intimidate +9, Perception +10, Stealth +1 (+9 in snow); **Racial Modifiers** +4 Stealth (+12 in snow)
 **Languages** Aklo
 **SQ** snow skulkMA
 

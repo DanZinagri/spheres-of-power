@@ -10,23 +10,23 @@ parent: "[[Spheres Of Power]]"
 
 Treasure seekers use magic and any tool on hand to uncover forgotten secrets and escape alive.
 
-### Casting
+## Casting
 
 At 1st level, the treasure seeker may combine spheres and talents to create magical effects. A treasure seeker is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the trapfinding and danger sense class features.
 
-### Spell Pool
+## Spell Pool
 
 A treasure seeker gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A treasure seeker gains a magic talent at fifth level and every five levels thereafter.
 
 This replaces the rogue’s edge class feature.
 
-### Unseen Seer (Ex)
+## Unseen Seer (Ex)
 
 At 4th level, any divination effect (other than (sense) talents and abilities) reveals nothing about a treasure seeker or any of the treasure seeker’s gear, unless the origin of the effect succeeds on a magical skill check against the treasure seeker’s MSD + 5.
 

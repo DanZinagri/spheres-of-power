@@ -13,14 +13,14 @@ Tendrils formed into the shape of hands and feet writhe as a pressure forms insi
 9,600 XP
 Psionics Unleashed
 LE Medium aberration (mythic, psionic)
-**Init**+4;**Senses** telepathy 100 ft., unnatural vision
+**Init** +4; **Senses** telepathy 100 ft., unnatural vision
 
 #### Defense
 
-**AC**21,**14**touch,**17** flat-footed (+4 Dex, +7 natural)
+**AC** 21, **14** touch, **17** flat-footed (+4 Dex, +7 natural)
 **hp** 76 (8d8+40)
-**Fort**+3,**Ref**+6,**Will** +9; second saveMA
-**Defensive Abilities**fortification (50%)MA; DR 5/epic and bludgeoning or slashing,**PR** 29
+**Fort** +3, **Ref** +6, **Will** +9; second saveMA
+**Defensive Abilities** fortification (50%)MA; DR 5/epic and bludgeoning or slashing, **PR** 29
 
 #### Offense
 
@@ -33,8 +33,8 @@ At will—empathic connection (affects animal, fey, giant, magical beast, monstr
 
 #### Statistics
 
-**Str**10,**Dex**18,**Con**12,**Int**21,**Wis**17,**Cha** 15
-**Base Atk**+6;**CMB**+6;**CMD** 20
+**Str** 10, **Dex** 18, **Con** 12, **Int** 21, **Wis** 17, **Cha** 15
+**Base Atk** +6; **CMB** +6; **CMD** 20
 **Feats** Ability Focus (implant), Ability FocusMF (sap will), Alertness, Ascendant PsionicsMF, Weapon Finesse
 **Skills** Autohypnosis +6, Bluff +10, Climb +8, Diplomacy +10, Disguise +8 (+10 acting), Intimidate +7, Knowledge (psionics) +16, Perception +16 (+22 if unclothed), Sense Motive +10, Spellcraft +16, Stealth +15
 

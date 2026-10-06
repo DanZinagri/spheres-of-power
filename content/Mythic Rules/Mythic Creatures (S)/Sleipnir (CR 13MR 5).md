@@ -13,21 +13,21 @@ This mighty horse has eight powerful legs. Its hooves leave shimmering hoof prin
 XP 25,600
 Pathfinder Roleplaying Game Bestiary 3
 N Large magical beast (mythic)
-**Init**+4;**Senses** brilliant eyesMA, darkvision 60 ft., low-light vision; Perception +20
+**Init** +4; **Senses** brilliant eyesMA, darkvision 60 ft., low-light vision; Perception +20
 **Aura** imposing steedMA (60 ft., DC 18)
 
 #### Defense
 
-**AC**30,**touch**13,**flat-footed** 26 (+4 Dex, +17 natural, –1 size)
+**AC** 30, **touch** 13, **flat-footed** 26 (+4 Dex, +17 natural, –1 size)
 **hp** 197 (14d10+120)
-**Fort**+14,**Ref**+15,**Will** +9
-**Defensive Abilities**DR 10/epic;**Immune**electricity, blindness, dazzling;**Resist** cold 10
+**Fort** +14, **Ref** +15, **Will** +9
+**Defensive Abilities** DR 10/epic; **Immune** electricity, blindness, dazzling; **Resist** cold 10
 
 #### Offense
 
 **Speed** 80 ft.; air walk
 **Melee** bite +21 (1d8+8), 4 hooves +19 (1d8+12)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** breath weapon (DC 22), mythic power (5/day, surge 1d8), powerful blowsMA (hooves), powerful charge (hooves, 2d8+12), thunderous trampleMA, trample (1d8+12, DC 25)
 
 **Spell-Like Abilities** (CL 11th; concentration +12)
@@ -35,8 +35,8 @@ Constant—air walk
 
 #### Statistics
 
-**Str**26,**Dex**18,**Con**21,**Int**10,**Wis**17,**Cha** 13
-**Base Atk**+14;**CMB**+23;**CMD** 37 (49 vs. trip)
+**Str** 26, **Dex** 18, **Con** 21, **Int** 10, **Wis** 17, **Cha** 13
+**Base Atk** +14; **CMB** +23; **CMD** 37 (49 vs. trip)
 **Feats** Endurance, Flyby Attack, Iron WillMF, Lightning ReflexesMF, Multiattack, Power AttackMF, Run
 **Skills** Acrobatics +18 (+38 when jumping), Perception +20, Swim +14
 **Languages** Auran (can’t speak)

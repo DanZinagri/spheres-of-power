@@ -14,13 +14,13 @@ The Ice Knight is a first-level sample character for Spheres of Power, suitable 
 **The Ice Knight (Elemental-Focused Mageknight)**
 Elf mageknight 1
 CG Medium humanoid (elf)
-**Init**+3;**Senses**low-light vision,**Perception** +4
+**Init** +3; **Senses** low-light vision, **Perception** +4
 
 ## Defense
 
-**AC**14,**touch**13,**flat-footed** 11 (+1 armor, +3 Dex)
+**AC** 14, **touch** 13, **flat-footed** 11 (+1 armor, +3 Dex)
 **hp** 10 (1d10)
-**Fort**+2,**Ref**+3,**Will** +3; +2 racial bonus vs. enchantment spells and effects, +1 vs. magic, spells, spell-like abilities, and sphere effects.
+**Fort** +2, **Ref** +3, **Will** +3; +2 racial bonus vs. enchantment spells and effects, +1 vs. magic, spells, spell-like abilities, and sphere effects.
 **Immune** sleep
 
 ## Offense
@@ -31,19 +31,19 @@ CG Medium humanoid (elf)
 
 ## Magic
 
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +4
-**Tradition**Water-Magi (Boons: Easy Focus; Drawbacks: Somatic Casting x2);**CAM** Int
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +4
+**Tradition** Water-Magi (Boons: Easy Focus; Drawbacks: Somatic Casting x2); **CAM** Int
 **Spell Points** 4
-**Destruction Sphere**-**DC**13;**Duration**None;**Range**Close (25 ft), Touch;**Talents**Frost Blast, Energy Blade, Energy Sphere;**Drawbacks** Energy Focus (cold)
+**Destruction Sphere** - **DC** 13; **Duration** None; **Range** Close (25 ft), Touch; **Talents** Frost Blast, Energy Blade, Energy Sphere; **Drawbacks** Energy Focus (cold)
 - Destructive Blast (Frost Blast, Energy Blade, Energy Sphere)
-**Nature Sphere**-**DC**13;**Duration**1 round, concentration;**Range**Close (25 ft);**Talents**Chill Metal,**Drawbacks** Limited Nature
+**Nature Sphere** - **DC** 13; **Duration** 1 round, concentration; **Range** Close (25 ft); **Talents** Chill Metal, **Drawbacks** Limited Nature
 - freeze
 - chill metal
 
 ## Statistics
 
-**Str**10,**Dex**16,**Con**11,**Int**16,**Wis**12,**Cha** 14
-**Base Atk**+1;**CMB**+1;**CMD** 14
+**Str** 10, **Dex** 16, **Con** 11, **Int** 16, **Wis** 12, **Cha** 14
+**Base Atk** +1; **CMB** +1; **CMD** 14
 **Traits** Destructive Reservoir, Inspired
 **Feats** Weapon Focus (elven curve blade)
 **Skills** Acrobatics +7, Diplomacy +6, Knowledge (arcana) +7, Perception +4, Spellcraft +7/+9

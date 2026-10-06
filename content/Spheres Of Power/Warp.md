@@ -234,7 +234,7 @@ You may use Organ Detachment to safely remove a creature’s brain without harmi
 
 #### Brutalizing Shunt [Apoc]
 
-**Source:** [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
 **Prerequisites:** Warp sphere (Create Gap (space) or Unseeing Teleport).
 
@@ -286,7 +286,7 @@ You may spend 2 spell points to designate a 20-foot radius area centered within 
 
 #### Dimensional Tracery [3PP]
 
-**Source:** [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)
+*Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*
 
 **Prerequisites:** Warp Sphere (teleport beacon or warp link)
 
@@ -302,7 +302,7 @@ If you instead spend 2 spell points, the portal has a permanent duration and dis
 
 #### Extradimensional Capacity [utility] [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 **Prerequisites:** Warp sphere (Extradimensional Storage (space)).
 
@@ -310,7 +310,7 @@ You increase the maximum amount of material you can store at once using Extradim
 
 #### Extradimensional Torpor (space) [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 **Prerequisites:** Warp sphere (Extradimensional Storage (space)).
 
@@ -346,7 +346,7 @@ By spending 2 spell points, you may teleport any number of targets within your R
 
 #### Lethal Teleport [Apoc]
 
-**Source:** [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
 **Prerequisites:** Warp sphere (Unwilling Teleport), caster level 5th.
 
@@ -389,7 +389,7 @@ You may spend 2 additional spell points to teleport to an alternate dimension or
 
 #### Planting Warp [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Warp Sphere (Teleport Object, Unwilling Teleport)
 

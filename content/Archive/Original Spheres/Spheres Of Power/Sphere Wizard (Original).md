@@ -23,6 +23,6 @@ This replaces the spells class feature.
 
 This replaces the arcane school and arcane bond class features.
 
-**Note**: This ability does not stack with an Incanter specialization (per discussion with an author).
+**Note:** This ability does not stack with an Incanter specialization (per discussion with an author).
 
 **Recommended Casting Tradition:** The classic feel of the wizard can be recreated through selecting the traditional magic casting tradition.

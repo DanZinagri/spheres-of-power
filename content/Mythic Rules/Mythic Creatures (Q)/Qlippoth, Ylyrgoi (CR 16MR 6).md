@@ -12,21 +12,21 @@ This huge, hydra-like monster has four stinger-like heads on long necks and hund
 **Ylyrgoi (CR 16/MR 6)**
 XP 76,800
 CE Huge outsider (chaotic, evil, extraplanar, mythic, qlippoth)
-**Init**+7;**Senses** all-around vision, darkvision 60 ft., tremorsense 60 ft.; Perception +25
+**Init** +7; **Senses** all-around vision, darkvision 60 ft., tremorsense 60 ft.; Perception +25
 **Aura** gestation (30 ft.)MA
 
 #### Defense
 
-**AC**34,**touch**11,**flat-footed** 31 (+3 Dex, −2 size, +23 natural)
+**AC** 34, **touch** 11, **flat-footed** 31 (+3 Dex, −2 size, +23 natural)
 **hp** 248 (13d10+177); fast healing 8
-**Fort**+17,**Ref**+11,**Will** +9
-**Defensive Abilities**DR 10/epic and lawful;**Immune**cold, mind-affecting effects, poison;**Resist** acid 10, electricity 10, fire 10
+**Fort** +17, **Ref** +11, **Will** +9
+**Defensive Abilities** DR 10/epic and lawful; **Immune** cold, mind-affecting effects, poison; **Resist** acid 10, electricity 10, fire 10
 
 #### Offense
 
 **Speed** 40 ft., climb 20 ft., swim 40 ft.
 **Melee** 4 stings +20 (1d8+9/19-20/x3 plus implant), 4 tongues +15 touch (pull), tail slap +15 (2d6+4 plus grab)
-**Space**15 ft.;**Reach** 15 ft. (30 ft. with tongues)
+**Space** 15 ft.; **Reach** 15 ft. (30 ft. with tongues)
 **Special Attacks** constrict (2d6+9), draining maws, horrific appearance (DC 20), mythic power (6/day, surge +1d8), pounceMA, pull (tongueMA, 15 feet), stunning shriekMA
 
 **Spell-Like Abilities** (CL 13th; concentration +17)
@@ -36,8 +36,8 @@ At will—piercing shriek (DC 16)
 
 #### Statistics
 
-**Str**28,**Dex**16,**Con**28,**Int**11,**Wis**20,**Cha** 18
-**Base Atk**+13;**CMB**+24 (+28 grapple, +28 pull);**CMD** 37 (can’t be tripped)
+**Str** 28, **Dex** 16, **Con** 28, **Int** 11, **Wis** 20, **Cha** 18
+**Base Atk** +13; **CMB** +24 (+28 grapple, +28 pull); **CMD** 37 (can’t be tripped)
 **Feats** Combat Reflexes, Critical FocusMF, Improved Critical (sting)MF, Improved Initiative, Power AttackMF, Quicken Spell-Like Ability (piercing shriek), Staggering Critical
 **Skills** Acrobatics +19 (+23 jump), Climb +17, Escape Artist +19, Intimidate +20, Perception +25, Stealth +11, Swim +17, Use Magic Device +20
 **Languages** Abyssal; telepathy 100 ft.
@@ -63,7 +63,7 @@ At will—piercing shriek (DC 16)
 
 **Implant (Ex)** A mythic ylyrgoi’s stingers contain eggs that it can inject into Medium or larger creatures when it strikes with a sting attack. The target can resist being implanted with a successful DC 24 Fortitude save. If the save is unsuccessful, the egg gestates and becomes a fetal shoggti qlippoth that begins consuming its host after the onset period. When the host is reduced to 0 Con, a shoggti bursts from the host’s body in a shower of viscera and gore, as much a transformation of the host body as a destruction of it. Creatures killed in this fashion can only be restored to life by miracle, wish, or similar magic. The egg or fetal shoggti can be cut free of the host’s body with a successful DC 25 Heal check, which takes 1 hour and deals 3d6 points of slashing damage to the host creature regardless of success or failure. Remove disease (or any similar effect; DC 24) also kills an implanted egg or fetal shoggti.
 
-*Ylyrgoi Egg:* Infestation—injury; **save**Fort 24;**onset**1 day;**frequency**1/day;**effect** 1d4 Con damage until host dies, then a shoggti emerges. When the shoggti emerges from the host, it is stunned for 1 round. The save DC is Constitution-based.
+*Ylyrgoi Egg:* Infestation—injury; **save** Fort 24; **onset** 1 day; **frequency** 1/day; **effect** 1d4 Con damage until host dies, then a shoggti emerges. When the shoggti emerges from the host, it is stunned for 1 round. The save DC is Constitution-based.
 
 **Regenerate Stinger (Ex)** When a mythic ylyrgoi’s stinger is severed, two stingers regrow in 1d2 rounds. A mythic ylyrgoi cannot have more than twice its original number of stingers at any one time. To prevent new stingers from growing, at least 16 points of acid or fire damage must be dealt to the stump (a touch attack to hit) before they regrow. Attackers must overcome the mythic ylyrgoi’s resistance to these types of energy to inflict this damage. Acid or fire damage from area attacks can affect stumps and the body simultaneously. A mythic ylyrgoi doesn’t die from losing its stingers until all are cut off and the stumps seared by acid or fire. As an immediate action, a mythic ylyrgoi can expend one use of its mythic power to immediately regrow two stingers from a stump.
 

@@ -10,47 +10,47 @@ parent: "[[Spheres Of Power]]"
 
 The spirit mender is a devotee of nature, just as all druids are. But more than most, she is loved by nature in return, and the spirits of nature gather around her, ready to answer her call. She is in tune with the healing and nurturing powers of the worldsoul, rather than the feral and animalistic powers.
 
-### Casting
+## Casting
 
 The spirit mender may combine spheres and talents to create magical effects. The spirit mender is considered a High-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells and spontaneous casting class features.
 
-### Spell Pool
+## Spell Pool
 
 The spirit mender gains a small reservoir of energy she can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to her level + her casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A spirit mender gains 1 magic talent every level.
 
-### Class Skills
+## Class Skills
 
 The spirit mender removes Knowledge (geography) (Int) from her list of class skills and adds Knowledge (religion) (Int) to her list of class skills.
 
-### Nature Bond
+## Nature Bond
 
 If a spirit mender chooses to gain a domain as her nature bond, she gains its associated sphere and a bonus magic talent from that sphere at 5th, 9th, 13th, and 17th level, as the sphere cleric.
 
 This alters the nature bond class feature.
 
-### Base Attack Bonus
+## Base Attack Bonus
 
 The spirit mender’s base attack bonus is equal to half her level (rounded down).
 
-### Weapon and Armor Proficiency
+## Weapon and Armor Proficiency
 
 Spirit menders are proficient with the following weapons: club, dagger, dart, quarterstaff, scimitar, scythe, sickle, shortspear, sling, and spear. Spirit menders are not proficient with any form of armor or shield. A spirit mender who wears armor or uses a shield is unable to use her spiritual protection, attendant spirits, bound spirits, effortless stride or preserve the environment abilities while doing so and for 24 hours thereafter.
 
 This alters weapon and armor proficiency.
 
-### Spiritual Protection (Su)
+## Spiritual Protection (Su)
 
 The spirits protect the spirit mender as best they can, warning her of danger. While unarmored and not carrying a shield, the spirit mender may add her casting ability bonus (if any) to her AC and CMD. This does not stack with other abilities that would allow the spirit mender to apply her casting ability bonus (or any other mental ability score) to her AC or CMD. She gains an additional +1 bonus to her AC and CMD at 2nd level, and an additional +1 for every 4 class levels thereafter.
 
 This replaces the wild shape class feature.
 
-### Attendant Spirits (Su)
+## Attendant Spirits (Su)
 
 Small, invisible, intangible spirits live in a cloud around the spirit mender. They continually attend to her, removing stains and adjusting her possessions and clothes: a spirit mender’s clothing floats around her, and is strangely unaffected by wind or changes in gravity. Any common stain or residue left upon the body or clothing of the spirit mender disappears in a round, though more powerful chemicals (such as the tar from a tanglefoot bag) are too strong for the spirits to remove alone.
 
@@ -62,7 +62,7 @@ Whenever the spirit mender is restrained or placed in contact with anything her 
 
 The spirit mender receives the Cantrips feat for free, and any cantrip effect she can achieve that targets herself may be performed as a swift action. If she already has the Cantrips feat, she may choose any other feat she qualifies for instead.
 
-### Bound Spirits (Su)
+## Bound Spirits (Su)
 
 The spirit mender attracts more powerful nature spirits who do her bidding. She may possess a number of spirits at once equal to 3 + her casting ability modifier (minimum 1).
 
@@ -72,43 +72,43 @@ A spirit mender gains a number of abilities, each of which uses up a spirit’s 
 
 The spirit mender gains the following abilities:
 
-#### Aid the Living
+### Aid the Living
 
 At 1st level, the spirit mender may expend a spirit to bolster a humanoid, animal, magical beast, or plant, granting it a +1 sacred bonus to attack rolls and saving throws, which increases by 1 for every 5 levels the spirit mender possesses. The creature also gains 1 temporary hit point per level. These bonuses last 1 hour.
 
-#### Lovelorn Spirit
+### Lovelorn Spirit
 
 At 1st level, the spirit mender may expend a spirit to aid an ally who is at negative hit points, but not dead. The ally becomes stable and gains temporary hit points equal to twice the spirit mender’s class level for 1 minute.
 
-#### Open Arms
+### Open Arms
 
 At 1st level, The spirit mender can expend a spirit while using a Life ability to allow it to affect an additional number of allies in close range equal to half her spirit mender level, rounded up.
 
-#### Communing Spirit
+### Communing Spirit
 
 At 4th level, the spirit mender may expend one spirit to commune with nature on a much deeper level, gaining glimpses into the world beyond natural sight. This allows her to attempt a single Knowledge check with an insight bonus equal to her spirit mender level + her casting ability modifier. This may be used to reroll a Knowledge check the spirit mender had previously failed, but no more than once per question. If the spirit mender is touching a naturally occurring landmark such as a great tree, river, or stone formation, she may summon its natural spirit and speak with it, learning about whomever else has interacted or come near it in the past few days, and about any important events that occurred in proximity to it.
 
-#### Healing Mastery
+### Healing Mastery
 
 At 8th level, the spirit mender can expend a spirit as a free action to temporarily gain a Life talent she qualifies for. She may use this talent once before the end of her current turn.
 
-#### Healing Spirit
+### Healing Spirit
 
 At 8th level, the spirit mender can expend a spirit to heal herself or an adjacent ally 10 hit points per spirit mender level. If the creature died within the previous round, it is restored to life with at least 1 hit point.
 
-#### Blessed Spirit
+### Blessed Spirit
 
 At 8th level, the spirit mender may expend a spirit as an immediate action to allow the target to reroll a saving throw it just failed.
 
-#### Ghostpoint
+### Ghostpoint
 
 At 12th level, the spirit mender may, when using a spell, spell-like ability, sphere ability, or spirit mender ability, target the effect as if she were standing in the same square as one of her spirits. If the magic effect requires a touch attack, the spirit may make the touch attack for the spirit mender, using her bonuses. This expends the spirit.
 
-#### Total Healing
+### Total Healing
 
 At 16th level, the spirit mender may spend a spirit to remove all conditions currently affecting a living target. This also removes all ability damage and drain, all temporary negative levels, and up to one permanent negative level.
 
-#### Protected Spirit
+### Protected Spirit
 
 At 16th level, the spirit mender may use any of her bound spirits powers on herself as a swift action. She may do this even if helpless, unconscious or dead, as the spirits move to protect her by their own will.
 
@@ -116,13 +116,13 @@ The bound spirit ability counts as a soul weaver’s bound nexus ability for the
 
 For those feats, the spirit mender’s spirits are considered synonymous with the soul weaver’s souls.
 
-### Effortless Stride (Su)
+## Effortless Stride (Su)
 
 At 2nd level, attendant spirits help carry and lift the spirit mender, allowing her to move normally through difficult terrain, and causing her to move naturally silently. The spirit mender takes no Stealth penalties for moving.
 
 This alters woodland stride.
 
-### Preserve the Environment (Su)
+## Preserve the Environment (Su)
 
 At 3rd level, the spirit mender’s attendant spirits clean the environment around her as she moves. She leaves behind no scent, no tracks in the soil, no stains or fingerprints, and no physical indicator of her presence. She cannot be tracked.
 

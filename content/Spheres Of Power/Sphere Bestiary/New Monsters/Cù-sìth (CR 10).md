@@ -11,23 +11,23 @@ The cù-sìth (plural coin-sìth) is the psychopomp of Faerie. Tasked with ensur
 A great black dog seemingly tattooed with knots of phosphorescent green, this fey being raises its muzzle to the new moon and lets loose a chilling howl.
 XP 9,600
 N Large fey
-**Init**+4;**Senses**barrowsight, low-light vision;**Perception** +19
+**Init** +4; **Senses** barrowsight, low-light vision; **Perception** +19
 
 **Defense**
-**AC**22,**touch**14,**flat-footed** 17 (+4 Dex, +1 dodge, +8 natural, -1 size)
+**AC** 22, **touch** 14, **flat-footed** 17 (+4 Dex, +1 dodge, +8 natural, -1 size)
 **hp** 120 (16d6+64)
-**Fort**+9,**Ref**+14,**Will** +10
+**Fort** +9, **Ref** +14, **Will** +10
 **Defensive Abilities** DR 10/cold iron, ghostly
 
 **Offense**
 **Speed** 50 ft.
 **Melee** 1 bite +15 (2d6+23 plus trip) (includes bonuses and penalties from Power Attack)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** baleful howl, trip, psychopomp
 
 **Statistics**
-**Str**22,**Dex**19,**Con**18,**Int**11,**Wis**10,**Cha** 21
-**Base Atk**+8;**CMB**+15 (+4 trip);**CMD** 27 (+6 vs. trip)
+**Str** 22, **Dex** 19, **Con** 18, **Int** 11, **Wis** 10, **Cha** 21
+**Base Atk** +8; **CMB** +15 (+4 trip); **CMD** 27 (+6 vs. trip)
 **Feats** Blood Feast, Dirty Fighting, Dodge, Greater TripB, Improved Natural Attack (bite), Improved TripB, Mobility, Power Attack, Spring Attack, Weapon Focus (bite)
 **Skills** Intimidate +21, Knowledge (nature) +19, Knowledge (religion) +16, Perception +19, Stealth +23, Survival +16
 **Languages** Common, Sylvan

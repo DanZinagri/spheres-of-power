@@ -16,38 +16,38 @@ For the most part, the monstrous encounters described below are identical to the
 
 XP 800
 N Large magical beast
-**Init**+0;**Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +8
+**Init** +0; **Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +8
 
 **Defense**
-**AC**16,**touch**9,**flat-footed** 16 (+7 natural, –1 size)
+**AC** 16, **touch** 9, **flat-footed** 16 (+7 natural, –1 size)
 **hp** 28 (3d10+12)
-**Fort**+6,**Ref**+3,**Will** +2
+**Fort** +6, **Ref** +3, **Will** +2
 
 **Offense**
 **Speed** 30 ft., burrow 20 ft.
 **Melee** bite +5 (2d6+4 plus 1d4 acid and grab)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** spit acid
 
 **Combat**
-**Martial Tradition**Spider (Guardian x1, Trap x2, Wrestling x2);**PAM** Wis
-**Guardian Sphere**-**Packages**patrol;**Talents** (zone) Steel Hedge
+**Martial Tradition** Spider (Guardian x1, Trap x2, Wrestling x2); **PAM** Wis
+**Guardian Sphere** - **Packages** patrol; **Talents** (zone) Steel Hedge
 • patrol (full-round action, increase threatened area by 5 ft.)
 • Steel Hedge (zone); until patrol ends, threatened area counts as difficult terrain
-**Trap Sphere**-**Perception**DC 8;**Talents**(dart, snare) Net;**Drawback** Focused Trapper (dart)
+**Trap Sphere** - **Perception** DC 8; **Talents** (dart, snare) Net; **Drawback** Focused Trapper (dart)
 • snares (full-round action (standard action while maintaining focus), Reflex or trigger); (snare) DC 12
 ◊ Net (dart, snare); Reflex save to avoid being ensnared, forgo damage to attack touch AC
 ◊ Tripwire (snare); triggering creature falls prone
-**Wrestling Sphere**-**Talents** Greater Grapple, Iron Grip; (slam) Clinch Strike
+**Wrestling Sphere** - **Talents** Greater Grapple, Iron Grip; (slam) Clinch Strike
 • Clinch Strike (slam); do a normal melee attack, get additional +1d6 nonlethal damage
 • Greater Grapple; while martial focus is maintained, may grapple as a move action
 • snag +6 touch (swift action, snagged targets are considered battered)
 
 **Statistics**
-**Str**16,**Dex**10,**Con**17,**Int**1,**Wis**13,**Cha** 6
-**Base Atk**+3;**CMB**+7 (+11 grapple);**CMD**17 (25 vs. trip);**Psych DC** 14
+**Str** 16, **Dex** 10, **Con** 17, **Int** 1, **Wis** 13, **Cha** 6
+**Base Atk** +3; **CMB** +7 (+11 grapple); **CMD** 17 (25 vs. trip); **Psych DC** 14
 **Feats** Skill Focus (Perception), Toughness
-**Skills**Climb +8, Perception +8;**Associated Skills** Craft (traps) -2
+**Skills** Climb +8, Perception +8; **Associated Skills** Craft (traps) -2
 
 **Special Abilities**
 **Spit Acid (Ex)** Once every 6 hours, an ankheg can spit a 30-foot line of acid. Creatures struck by this acid take 4d4 points of acid damage (Reflex DC 14 half). Once an ankheg uses this attack, it must wait 6 hours before using it again. Additionally, during this time period, its bite attack does not inflict any additional acid damage. As a result, an ankheg does not use this ability unless it is desperate or frustrated, most often spitting acid when reduced to fewer than half its full normal hit points or when it cannot not successfully grab an opponent. The save DC is Constitution-based.
@@ -72,30 +72,30 @@ This pair of magical beasts will utilize traps to hinder their prey before movin
 
 XP 50
 N Diminutive animal
-**Init**+2;**Senses** blindsense 20 ft., low-light vision; Perception +6
+**Init** +2; **Senses** blindsense 20 ft., low-light vision; Perception +6
 
 **Defense**
-**AC**16,**touch**16,**flat-footed** 14 (+2 Dex, +4 size)
+**AC** 16, **touch** 16, **flat-footed** 14 (+2 Dex, +4 size)
 **hp** 2 (1d8–2)
-**Fort**+0,**Ref**+4,**Will** +2
+**Fort** +0, **Ref** +4, **Will** +2
 
 **Offense**
 **Speed** 5 ft., fly 40 ft. (good)
 **Melee** bite +6 (1d3-4)
-**Space**1 ft.;**Reach** 0 ft.
+**Space** 1 ft.; **Reach** 0 ft.
 
 **Combat**
-**Martial Tradition**Assassin (Athletics x2, Fencing x2);**PAM** Wis
-**Athletics Sphere**-**Packages**fly;**Talents** Mobile Striker
+**Martial Tradition** Assassin (Athletics x2, Fencing x2); **PAM** Wis
+**Athletics Sphere** - **Packages** fly; **Talents** Mobile Striker
 • Mobile Striker; full-round action, make a single attack while moving; movement does not provoke AoO
-**Fencing Sphere**-**Talents** Verbal Feint
+**Fencing Sphere** - **Talents** Verbal Feint
 • fatal thrust (+1d6 precision damage on attacks where target is flanked, flat-footed, or denied Dex)
 • Verbal Feint; can feint targets within 30 ft., as long as they can hear you
 
 **Statistics**
-**Str**1,**Dex**15,**Con**6,**Int**2,**Wis**14,**Cha** 5
-**Base Atk**+0;**CMB**-2;**CMD**3;**Psych DC** 13
-**Skills**Perception +6, Stealth +18;**Associated Skills**Bluff -2, Fly +16;**Racial Modifiers** +4 Perception
+**Str** 1, **Dex** 15, **Con** 6, **Int** 2, **Wis** 14, **Cha** 5
+**Base Atk** +0; **CMB** -2; **CMD** 3; **Psych DC** 13
+**Skills** Perception +6, Stealth +18; **Associated Skills** Bluff -2, Fly +16; **Racial Modifiers** +4 Perception
 
 **Ecology**
 **Environment** temperate and warm forests and deserts
@@ -114,26 +114,26 @@ These ten bats will flock around their prey, dividing themselves amongst all ava
 XP 200
 Male orc armorist 1
 LN Medium humanoid (orc)
-**Init**+1;**Senses** darkvision 60 ft., Perception +1
+**Init** +1; **Senses** darkvision 60 ft., Perception +1
 
 **Defense**
-**AC**15,**touch**11,**flat-footed** 14 (+4 armor, +1 Dex)
+**AC** 15, **touch** 11, **flat-footed** 14 (+4 armor, +1 Dex)
 **hp** 11 (1d10+1)
-**Fort**+3,**Ref**+1,**Will** +1
+**Fort** +3, **Ref** +1, **Will** +1
 **Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing)
 
 **Offense**
 **Speed** 20 ft.
 **Melee** bound greataxe +6 (1d12+6/x3)
 **Ranged** orc hornbow +2 (2d6+4/x3)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** summon equipment (1 sp)
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +2
-**Tradition**Mysticism (Boons: Empowered Abilities, Metamagic Expert; Drawbacks: Focus Casting, Magical Signs [a cold dark cloud of mist forms overhead], Verbal Casting, Wild Magic);**CAM** Wis
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +2
+**Tradition** Mysticism (Boons: Empowered Abilities, Metamagic Expert; Drawbacks: Focus Casting, Magical Signs [a cold dark cloud of mist forms overhead], Verbal Casting, Wild Magic); **CAM** Wis
 **Spell Points** 2
-**Creation Sphere**-**Talents**Greater Repair, Potent Alteration,**Drawbacks** Limited Creation (alter), Material Mimic
+**Creation Sphere** - **Talents** Greater Repair, Potent Alteration, **Drawbacks** Limited Creation (alter), Material Mimic
 • alter, touch; DC 11
 ◊ Destroy 1d6+1, touch
 • Potent Alteration; affect magic items, 1 sp
@@ -146,8 +146,8 @@ LN Medium humanoid (orc)
 ◊ Barrier (ward); 2 hp, Break DC 15, concentration, 1 round w/ 1 sp
 
 **Statistics**
-**Str**18,**Dex**13,**Con**12,**Int**8,**Wis**12,**Cha** 10
-**Base Atk**+1;**CMB**+5;**CMD**16;**Psych DC** 12
+**Str** 18, **Dex** 13, **Con** 12, **Int** 8, **Wis** 12, **Cha** 10
+**Base Atk** +1; **CMB** +5; **CMD** 16; **Psych DC** 12
 **Feats** Extend Spell
 **Skills** Profession (driver) +5
 **Languages** Common, Orc
@@ -175,39 +175,39 @@ the following spells in ritual form; **2nd**—make whole; **1st**—ant haul, e
 XP 200
 Female amet cherufe armiger 1
 LN Medium humanoid (reptilian)
-**Init**+1;**Senses** low-light vision, Perception +5
+**Init** +1; **Senses** low-light vision, Perception +5
 
 **Defense**
-**AC**14,**touch**11,**flat-footed** 13 (+3 armor, +1 Dex)
+**AC** 14, **touch** 11, **flat-footed** 13 (+3 armor, +1 Dex)
 **hp** 11 (1d10+1)
-**Fort**+3,**Ref**+3,**Will** +1
-**Special Defenses**eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing);**Resist** fire 5
+**Fort** +3, **Ref** +3, **Will** +1
+**Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing); **Resist** fire 5
 
 **Offense**
 **Speed** 40 ft., mounted 50 ft.
 **Ranged** blunderbuss +2 ranged touch (1d8/x2, scatter) or musket +2 ranged touch (1d12/x4) or 2 pistols -2/-2 ranged touch (1d8/x4)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** amet lava +2 ranged (5/day; 1d4/x2 plus 1d4 fire, 1d4 fire the following round)
 
 **Combat**
-**Martial Tradition**Janjaweed (Beastmastery x3, Equipment x1);**PAM** Cha
-**Barrage Sphere**-**Talents** (Customized Weapon: blunderbuss)
+**Martial Tradition** Janjaweed (Beastmastery x3, Equipment x1); **PAM** Cha
+**Barrage Sphere** - **Talents** (Customized Weapon: blunderbuss)
 • barrage (+0/+0 ranged touch, special attack action, 1d8/x2, scatter)
-**Beastmastery Sphere**-**Packages**handle animal, ride;**Talents** Extra Beastmastery Package; (handle animal) Broad Skills, Mindless Mastery
+**Beastmastery Sphere** - **Packages** handle animal, ride; **Talents** Extra Beastmastery Package; (handle animal) Broad Skills, Mindless Mastery
 • defensive rider (attack of opportunity, use Ride check instead of mount’s AC or Reflex save)
 • tame (1 HD, 8 hours); Broad Skills (handle animal), Mindless Mastery (handle animal) (tame non-animals with animal-like intelligence or lower with penalties), DC 11
-**Dual Wielding Sphere**-**Talents** (Customized Weapon: 2 pistols)
+**Dual Wielding Sphere** - **Talents** (Customized Weapon: 2 pistols)
 • dual attack (+0/+0 ranged touch, attack action, 1d8/x4)
-**Equipment Sphere**-**Talents** (discipline) Firearm Proficiency
+**Equipment Sphere** - **Talents** (discipline) Firearm Proficiency
 • Firearm Proficiency; proficient with all firearms
-**Sniper Sphere**-**Talents** (Customized Weapon: musket)
+**Sniper Sphere** - **Talents** (Customized Weapon: musket)
 • deadly shot (+2 ranged touch, special attack action, expend martial focus, 1d12/x4 plus 1d6)
 
 **Statistics**
-**Str**12,**Dex**13,**Con**12,**Int**12,**Wis**12,**Cha** 15
-**Base Atk**+1;**CMB**+2;**CMD**13;**Psych DC** 15
+**Str** 12, **Dex** 13, **Con** 12, **Int** 12, **Wis** 12, **Cha** 15
+**Base Atk** +1; **CMB** +2; **CMD** 13; **Psych DC** 15
 **Feats** Extra Combat Talent, Gunsmithing
-**Skills**Knowledge (geography) +5, Knowledge (local) +5, Perception +5, Sense Motive +5, Survival +5;**Associated Skills** Handle Animal +3, Ride +6
+**Skills** Knowledge (geography) +5, Knowledge (local) +5, Perception +5, Sense Motive +5, Survival +5; **Associated Skills** Handle Animal +3, Ride +6
 **Languages** Cheru, Common
 **SQ** jumper, rapid change
 **Other Gear** battered blunderbuss, battered musket, battered pistol x2, studded leather, adventurer’s sash (alchemical cartridge x6), eventide outfit, filter scarf, belt pouch (5 gp in assorted coins), military saddle, saddlebags (50-ft. hemp rope, alchemical cartridge x14, flint and steel, small tent, trail rations x10, verminbite kit, winter blanket), waterskin x2
@@ -233,22 +233,22 @@ The janjaweed usually makes a living escorting caravans from one location to ano
 #### Skeleton Camel
 
 N Large undead (augmented animal)
-**Init**+8;**Senses** darkvision 60 ft.; Perception +0
+**Init** +8; **Senses** darkvision 60 ft.; Perception +0
 
 **Defense**
-**AC**15,**touch**13,**flat-footed** 11 (+4 Dex, +2 natural, -1 size)
+**AC** 15, **touch** 13, **flat-footed** 11 (+4 Dex, +2 natural, -1 size)
 **hp** 9 (2d8+0)
-**Fort**+0,**Ref**+4,**Will** +1
-**DR**5/bludgeoning;**Immune** cold, undead traits
+**Fort** +0, **Ref** +4, **Will** +1
+**DR** 5/bludgeoning; **Immune** cold, undead traits
 
 **Offense**
 **Speed** 50 ft.
 **Melee** bite +4 (1d4+6)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 
 **Statistics**
-**Str**18,**Dex**18,**Con**-,**Int**-,**Wis**10,**Cha** 10
-**Base Atk**+1;**CMB**6;**CMD** 19 (23 vs. trip); Psych DC 12 (mindless)
+**Str** 18, **Dex** 18, **Con** -, **Int** -, **Wis** 10, **Cha** 10
+**Base Atk** +1; **CMB** 6; **CMD** 19 (23 vs. trip); Psych DC 12 (mindless)
 **Feats** Improved Initiative
 
 ### Caravan Traveller - Merchant - CR 1/2
@@ -256,29 +256,29 @@ N Large undead (augmented animal)
 XP 200
 Male fenghaung symbiat 1
 LN Medium fey (fenghuang)
-**Init**+2;**Senses** low-light vision, Perception +4
+**Init** +2; **Senses** low-light vision, Perception +4
 
 **Defense**
-**AC**14,**touch**14,**flat-footed** 12 (+2 Dex, +2 Int)
+**AC** 14, **touch** 14, **flat-footed** 12 (+2 Dex, +2 Int)
 **hp** 8 (1d8)
-**Fort**+0,**Ref**+4,**Will** +2
-**Special Defenses**eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing);**Resist** fire 5
+**Fort** +0, **Ref** +4, **Will** +2
+**Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing); **Resist** fire 5
 
 **Offense**
 **Speed** 30 ft., fly 30 ft. (clumsy)
 **Melee** 2 talons -3 (1d4+1/x2)
 **Ranged** bludgeon +2 (1d2/x2)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** psionics (DC 12, 6 rounds/day; battlefield relay, mind link, telekinetic manipulation)
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +3
-**Tradition**Mind (Drawbacks: Emotional Casting, Rigorous Concentration);**CAM** Int
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +3
+**Tradition** Mind (Drawbacks: Emotional Casting, Rigorous Concentration); **CAM** Int
 **Spell Points** 3
 **Illusion Sphere**
 • illusion, close (25 ft.), maximum size Medium (5-ft. cube), DC 12 (concentration, 1 sp, sight)
 • trick, close (25 ft.), DC 12 (1 minute, sight)
-**Mind Sphere**-**Talents**Expanded Charm,**Drawbacks** Lost In Translation
+**Mind Sphere** - **Talents** Expanded Charm, **Drawbacks** Lost In Translation
 • charm, close (25 ft.), DC 12 (1 sp greater (suggestion)); Expanded Charm (can affect all creature types without immunity)
 **Telekinesis Sphere**
 • telekinesis, close (25 ft.), DC 12 (max size Tiny, 16 AC, 9 CMD, move 20 ft./round, concentration)
@@ -286,15 +286,15 @@ LN Medium fey (fenghuang)
 ◊ Catch; negate projectile attack, attacker has Will negates
 ◊ Hostile Lift; lift unwilling target, target has Will negates initial + 1 per round, 1 sp
 ◊ Sustained Lift; free action to cease concentration, 1 minute, move action to give simple orders, 1 sp
-**Warp Sphere**-**Talents**(space) Extradimensional Storage,**Drawbacks** Bender
+**Warp Sphere** - **Talents** (space) Extradimensional Storage, **Drawbacks** Bender
 • bend space, touch, DC 12
 ◊ Extradimensional Storage; can store 10 pounds of non-living material
 
 **Statistics**
-**Str**13,**Dex**15,**Con**10,**Int**15,**Wis**10,**Cha** 12
-**Base Atk**+0;**CMB**+1;**CMD**15;**Psych DC** 14
+**Str** 13, **Dex** 15, **Con** 10, **Int** 15, **Wis** 10, **Cha** 12
+**Base Atk** +0; **CMB** +1; **CMD** 15; **Psych DC** 14
 **Feats** Ritual Caster
-**Skills**Appraise +3, Diplomacy +1 (+5 when gathering information), Linguistics +6, Knowledge (history) +4, Knowledge (local) +4, Perception +4, Profession (merchant) +4, Sense Motive +4, Spellcraft +6;**Racial Modifiers** +4 Diplomacy (when gathering information), +2 Knowledge (history), +2 Knowledge (local)
+**Skills** Appraise +3, Diplomacy +1 (+5 when gathering information), Linguistics +6, Knowledge (history) +4, Knowledge (local) +4, Perception +4, Profession (merchant) +4, Sense Motive +4, Spellcraft +6; **Racial Modifiers** +4 Diplomacy (when gathering information), +2 Knowledge (history), +2 Knowledge (local)
 **Languages** Abyssal, Cheru, Common, Gnoll, Orc, Sylvan, Tatulani
 **SQ** fingerless
 **Other Gear** eventide outfit, filter scarf, extradimensional storage (armored mage potion x3, assorted reagents, contingent energy resistance potion x2, eventide kit x2, healer’s kit x2, tanners kit, tradewind map, wellspring bucket x2), belt pouch (50 gp in assorted coins), ritual book, spell component pouch (keif reagent x1, phosphorus reagent x40, salt peter reagent x2, silver reagent x4), waterskin x2
@@ -302,7 +302,7 @@ LN Medium fey (fenghuang)
 **Special Abilities**
 **Combat Gear** The merchant’s combat gear is described below:
 
-- **Ritual book:** This merchant carries with him a book containing the following spells in ritual form;**2nd**—object readingOA; **1st**—alarm, charge objectOA, comprehend languages, endure elements, identify; **0th**—arcane mark, detect magic, detect psychic significanceOA, read magic
+- **Ritual book:** This merchant carries with him a book containing the following spells in ritual form; **2nd**—object readingOA; **1st**—alarm, charge objectOA, comprehend languages, endure elements, identify; **0th**—arcane mark, detect magic, detect psychic significanceOA, read magic
 
 **Fingerless** This merchant as a fenghaung possess two wings and two talons, but no hands or fingers. He can wear rings on their talons, and gloves become anklets automatically while he wears them. He may carry things in his talons, and their mouth can be used as a single hand for wielding a weapon or other tasks. This does not impede his ability to speak or use verbal components/abilities. He may substitute at least one talon and wing and beak movements for the somatic components of spells or rituals.
 
@@ -320,50 +320,50 @@ The merchant utilizes tricks from the Illusion sphere to produce a holographic d
 XP 200
 Female tiefling soulweaver 1
 LN Medium outsider (native)
-**Init**+1;**Senses** darkvision 60 ft., Perception +0
+**Init** +1; **Senses** darkvision 60 ft., Perception +0
 
 **Defense**
-**AC**11,**touch**11,**flat-footed** 10 (+1 Dex)
+**AC** 11, **touch** 11, **flat-footed** 10 (+1 Dex)
 **hp** 8 (1d8)
-**Fort**+0,**Ref**+1,**Will** +2
-**Special Defenses**eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing);**Resist** cold 5, electricity 5, fire 5
+**Fort** +0, **Ref** +1, **Will** +2
+**Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing); **Resist** cold 5, electricity 5, fire 5
 
 **Offense**
 **Speed** 30 ft.
 **Melee** scythe -5 (2d4-1/x4) or ghost strike -1 touch (fatigue or exhaustion w/ 1 sp)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** channel negative energy 6/day (DC 13, 1d6), bound nexus (DC 13, 110 ft., 4 souls. Bound nexus powers: aid the dead, lovelorn soul, siphon health)
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +4
-**Tradition**Blood, Demonology (Boons: Fortified Casting; Drawbacks: Draining Casting, Mental Focus);**CAM** Cha
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +4
+**Tradition** Blood, Demonology (Boons: Fortified Casting; Drawbacks: Draining Casting, Mental Focus); **CAM** Cha
 **Spell Points** 4
 **Dark Sphere**
 • darkness, medium (110 ft.), DC 13; 25-ft. radius becomes dim light, concentration, 1 minute w/ 1 sp
 • meld, touch, DC 13; 5 hours with 1 sp
 ◊ Darkvision (meld); 60 ft. darkvision or increase existing darkvision by 30 ft.
-**Death Sphere**-**Talents**Killing Curse, Mercy Killing,**Drawbacks** Deathful Touch, Necromantic Limit (ghost strike)
+**Death Sphere** - **Talents** Killing Curse, Mercy Killing, **Drawbacks** Deathful Touch, Necromantic Limit (ghost strike)
 • ghost strike, medium range touch (110 ft.), DC 13; apply the effects of one (ghost strike)
 ◊ Exhausting (ghost strike); fatigued for 1 round or exhausted for 1 minute (1 sp), Fortitude negates. On a successful save the target is still fatigued for 1 round.
 ◊ Killing Curse; target fails 3 saves against ghost strikes in 1 minute period, has to Fort save again or die
 • Mercy Killing; if a conscious creature willingly fails their saving throw vs. ghost strike, they die peacefully, but have their corpse preserved for 1 day)
-**Life Sphere**-**Talents** Restorative Cure, Resuscitate; (cure) Restore Spirit
+**Life Sphere** - **Talents** Restorative Cure, Resuscitate; (cure) Restore Spirit
 • cure, touch, 1d8+2, 1 sp, DC 13; Resuscitate (can heal dead targets within 1 round)
 • invigorate, touch, +1 temporary hp, DC 13
 • restore, touch, (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal all ability damage and ability drain to one ability score), 1 sp, DC 13 Restorative Cure; cure and restore with same action, 2 sp
 
 **Statistics**
-**Str**8,**Dex**12,**Con**10,**Int**12,**Wis**10,**Cha** 16
-**Base Atk**+0;**CMB**-1;**CMD**10;**Psych DC** 14
+**Str** 8, **Dex** 12, **Con** 10, **Int** 12, **Wis** 10, **Cha** 16
+**Base Atk** +0; **CMB** -1; **CMD** 10; **Psych DC** 14
 **Feats** Extra Magic Talent
-**Skills**Bluff +5, Heal +4, Knowledge (planes) +5, Sense Motive +4, Stealth +3;**Racial Modifiers** Bluff +2, Stealth +2
+**Skills** Bluff +5, Heal +4, Knowledge (planes) +5, Sense Motive +4, Stealth +3; **Racial Modifiers** Bluff +2, Stealth +2
 **Languages** Abyssal, Cheru, Common
 **Other Gear** scythe, eventide outfit, filter scarf, backpack (50-ft. hemp rope, flint and steel, small tent, trail rations x10, verminbite kit, winter blanket), belt pouch (5 gp in assorted coins), coffin x2 (Medium-sized humanoid corpse) ritual book, spell component pouch (blood price 4 HD, gold reagent x3, quicksilver reagent x4, salt reagent x24), waterskin x2
 
 **Special Abilities**
 **Combat Gear** The mortician’s combat gear is described below:
 
-- **Ritual book:** This mortician carries with her a book containing the following spells in ritual form;**2nd**—gentle repose; **1st**—curse water, deathwatch, infernal healingISWG; **0th**—create water, mending
+- **Ritual book:** This mortician carries with her a book containing the following spells in ritual form; **2nd**—gentle repose; **1st**—curse water, deathwatch, infernal healingISWG; **0th**—create water, mending
 - **Verminbite kit:** When someone is suffering poison delivered from a bite or sting attack of a vermin (or other insectoid creature, such as an ettercap), as a full-round action, the initiate healer can use this kit to gain a +4 circumstance bonus on the ongoing Fortitude saving throws against that poison. A verminbite kit is exhausted after 10 uses.
 
 **Ecology**
@@ -382,13 +382,13 @@ This caravan group consists of a coxswain, merchant, mortician, and 2 janjaweed 
 
 XP 600
 N Medium magical beast
-**Init**+0;**Senses** darkvision 60 ft., low-light vision; Perception +8
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; Perception +8
 
 **Defense**
-**AC**15,**touch**11,**flat-footed** 14 (+1 Dex, +4 natural)
+**AC** 15, **touch** 11, **flat-footed** 14 (+1 Dex, +4 natural)
 **hp** 17 (2d10+9); fast healing 3 (in fire)
-**Fort**+5,**Ref**+4,**Will** +1
-**Resist**fire 10;**Weaknesses** vulnerability to cold
+**Fort** +5, **Ref** +4, **Will** +1
+**Resist** fire 10; **Weaknesses** vulnerability to cold
 
 **Offense**
 **Speed** 50 ft.
@@ -396,20 +396,20 @@ N Medium magical beast
 **Special Attacks** Trip
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +3
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +3
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 1
-**Nature Sphere**–**Packages** fire
+**Nature Sphere** – **Packages** fire
 • geomancing, close (25 ft.), DC 11
 ◊ fire (Affect Fire, Create Fire, Manipulate Lava)
 
 **Combat**
-**Martial Tradition**Pack Hunter (Athletics x2, Guardian x1, Warleader x1);**PAM** Wis
-**Athletics Sphere**–**Packages**run;**Talents** Mobile Striker
+**Martial Tradition** Pack Hunter (Athletics x2, Guardian x1, Warleader x1); **PAM** Wis
+**Athletics Sphere** – **Packages** run; **Talents** Mobile Striker
 • Mobile Striker; mobile striker full-round action, make a single attack while moving; movement does not provoke AoO
-**Guardian Sphere**–**Packages** patrol
+**Guardian Sphere** – **Packages** patrol
 • patrol (full-round action, increase threatened area by 5 ft.)
-**Open Hand Sphere**–**Talents** Greater Trip
+**Open Hand Sphere** – **Talents** Greater Trip
 • sweep (move action, perform trip combat maneuver at -2 penalty)
 **Warleader Sphere**
 • shouts, 20-ft. radius, one round
@@ -418,10 +418,10 @@ N Medium magical beast
 ◊ Aggressive Flanking (tactic); threaten counts as flanking
 
 **Statistics**
-**Str**16,**Dex**10,**Con**17,**Int**1,**Wis**13,**Cha** 6
-**Base Atk**+2;**CMB**+5 (+9 grapple, +6 trip);**CMD**15 (24 vs. trip);**Psych DC** 13
+**Str** 16, **Dex** 10, **Con** 17, **Int** 1, **Wis** 13, **Cha** 6
+**Base Atk** +2; **CMB** +5 (+9 grapple, +6 trip); **CMD** 15 (24 vs. trip); **Psych DC** 13
 **Feats** Basic Magic Training, Skill Focus (Perception)
-**Skills**Climb +8, Perception +8;**Associated Skills** Acrobatics +5, Diplomacy +0
+**Skills** Climb +8, Perception +8; **Associated Skills** Acrobatics +5, Diplomacy +0
 
 **Special Abilities**
 **Fiery Body (Su)** A cinder wolf inflicts 1d4 points of fire damage when it bites a foe in addition to the normal bite damage. In any round that the cinder wolf resists at least one point of fire damage, it gains fast healing 3.
@@ -446,29 +446,29 @@ A pair of smoldering wolves charge in the party’s direction. Cinder wolves usu
 
 XP 135
 N Tiny animal
-**Init**+2;**Senses** low-light vision, scent, Perception +5
+**Init** +2; **Senses** low-light vision, scent, Perception +5
 
 **Defense**
-**AC**15,**touch**14,**flat-footed** 13 (+2 Dex, +1 natural, +2 size)
+**AC** 15, **touch** 14, **flat-footed** 13 (+2 Dex, +1 natural, +2 size)
 **hp** 4 (1d8)
-**Fort**+3,**Ref**+5,**Will** +1
+**Fort** +3, **Ref** +5, **Will** +1
 
 **Offense**
 **Speed** 10 ft., fly 30 ft. (average)
 **Melee** bite -2 (1d3-2 plus bleed 1 and poison)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Combat**
-**Martial Tradition**Assassin (Athletics x2, Duelist x2);**PAM** Wis
-**Athletics Sphere**–**Packages**fly;**Talents** Mobile Striker
+**Martial Tradition** Assassin (Athletics x2, Duelist x2); **PAM** Wis
+**Athletics Sphere** – **Packages** fly; **Talents** Mobile Striker
 • Mobile Striker; mobile striker full-round action, make a single attack while moving; movement does not provoke AoO
-**Duelist Sphere**–**Talents** Leg Cutter
+**Duelist Sphere** – **Talents** Leg Cutter
 • blooded strike (+1 bleed damage w/ attack actions, attacks of opportunity, and disarm attempts. Bleeding enemies are considered battered)
 • leg cutter (attack action w/ -2 atk, if successful target must attempt Fort save vs. falling prone, DC 11)
 
 **Statistics**
-**Str**6,**Dex**15,**Con**10,**Int**2,**Wis**13,**Cha** 12
-**Base Atk**+0;**CMB**-4;**CMD**10;**Psych DC** 13
+**Str** 6, **Dex** 15, **Con** 10, **Int** 2, **Wis** 13, **Cha** 12
+**Base Atk** +0; **CMB** -4; **CMD** 10; **Psych DC** 13
 **Feats** Flyby Attack
 **Skills** Fly +12, Perception +5, Stealth +12
 
@@ -478,32 +478,32 @@ N Tiny animal
 **Treasure** none
 
 **Special Abilities**
-**Poison (Ex):** **Type**injury;**Save**Fort DC 10;**Frequency**1/ round for 4 rounds;**Effect**1d2 Str;**Cure** 1 save.
+**Poison (Ex):** **Type** injury; **Save** Fort DC 10; **Frequency** 1/ round for 4 rounds; **Effect** 1d2 Str; **Cure** 1 save.
 
 ### Dinosaur, Troodon - CR 1
 
 XP 400
 N Medium animal
-**Init**+2;**Senses** low-light vision, scent; Perception +10
+**Init** +2; **Senses** low-light vision, scent; Perception +10
 
 **Defense**
-**AC**13,**touch**12,**flat-footed** 11 (+2 Dex, +1 natural)
+**AC** 13, **touch** 12, **flat-footed** 11 (+2 Dex, +1 natural)
 **hp** 13 (2d8+4)
-**Fort**+5,**Ref**+5,**Will** +2
+**Fort** +5, **Ref** +5, **Will** +2
 
 **Offense**
 **Speed** 40 ft.
 **Melee** bite +3 (1d6), 2 claws +3 (1d4)
 
 **Combat**
-**Martial Tradition**Pack Hunter (Guardian x1, Scout x2, Warleader x1);**PAM** Wis
-**Guardian Sphere**–**Packages**patrol;**Talents** Swift Reflexes
+**Martial Tradition** Pack Hunter (Guardian x1, Scout x2, Warleader x1); **PAM** Wis
+**Guardian Sphere** – **Packages** patrol; **Talents** Swift Reflexes
 • patrol (full-round action, increase threatened area by 5 ft.)
 • Swift Reflexes; +1 attack of opportunity each round while martial focus is maintained
-**Scout Sphere**–**Talents** Identify Rhythms
+**Scout Sphere** – **Talents** Identify Rhythms
 • Identify Rhythms; successful use of scout grants +1 dodge AC vs. target
 • scout (swift action, may identify a creature’s weaknesses with a Perception check, DC 15 + CR)
-**Warleader Sphere**–**Talents** (tactic) Coordinated Reflexes
+**Warleader Sphere** – **Talents** (tactic) Coordinated Reflexes
 • shouts, 20-ft. radius, one round
 ◊ Fierce Shout (shout); +2 morale bonus on first attack in turn
 • tactics, 20-ft. radius
@@ -511,10 +511,10 @@ N Medium animal
 ◊ Coordinated Reflexes; allies gain +1 morale bonus to Reflex saves due to area-targeting effects, may spend immediate action to reroll failed save
 
 **Statistics**
-**Str**11,**Dex**15,**Con**14,**Int**2,**Wis**14,**Cha** 13
-**Base Atk**+1;**CMB**+1;**CMD**13;**Psych DC** 14
+**Str** 11, **Dex** 15, **Con** 14, **Int** 2, **Wis** 14, **Cha** 13
+**Base Atk** +1; **CMB** +1; **CMD** 13; **Psych DC** 14
 **Feats** Weapon Finesse
-**Skills**Perception +10, Sense Motive +3;**Associated Skills**Diplomacy +0, Stealth +6;**Racial Modifiers** +4 Perception
+**Skills** Perception +10, Sense Motive +3; **Associated Skills** Diplomacy +0, Stealth +6; **Racial Modifiers** +4 Perception
 **SQ** easily trained
 
 **Special Abilities**
@@ -536,36 +536,36 @@ These two dinosaurs will generally scout out their prey before attacking. If and
 
 XP 1,200
 N Large aberration
-**Init**+4;**Senses** darkvision 60 ft., tremorsense 60 ft.; Perception +5
+**Init** +4; **Senses** darkvision 60 ft., tremorsense 60 ft.; Perception +5
 
 **Defense**
-**AC**16,**touch**9,**flat-footed** 16 (+7 natural, –1 size)
+**AC** 16, **touch** 9, **flat-footed** 16 (+7 natural, –1 size)
 **hp** 42 (5d8+20)
-**Fort**+5,**Ref**+1,**Will** +4
+**Fort** +5, **Ref** +1, **Will** +4
 
 **Offense**
 **Speed** 10 ft., burrow 20 ft.
 **Melee** bite +5 (1d8+3 plus grab), 5 tentacles +3 (1d4+1 plus grab)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** constrict (1d4+1), sinkhole, swallow whole (2d8+4 bludgeoning, AC 13, 4 hp)
 
 **Combat**
-**Martial Tradition**Octopus (Berserker x2, Wrestling x2);**PAM** Wis
-**Berserker Sphere**–**Talents** Ruinous Tread, Shatter Earth
+**Martial Tradition** Octopus (Berserker x2, Wrestling x2); **PAM** Wis
+**Berserker Sphere** – **Talents** Ruinous Tread, Shatter Earth
 • berserking (free action, -2 AC and +6 temp hp)
 • brutal strike +6 (1d8+3 plus battered)
 • Ruinous Tread; if moving through an area with hardness 3 or less, that area becomes difficult terrain
 • Shatter Earth brutal strike vs. ground, if damage exceeds hardness, create a 5-ft. radius, 10-ft. cone, or 15- ft. line of difficult terrain
-**Wrestling Sphere**–**Talents** Greater Grapple, Iron Grip, Tentacle Squeeze
+**Wrestling Sphere** – **Talents** Greater Grapple, Iron Grip, Tentacle Squeeze
 • Greater Grapple; while martial focus is maintained, may grapple as a move action
 • snag +6 touch (swift action, snagged targets are considered battered)
 • Tentacle Squeeze; any tentacle attacks can use constrict and grab special attacks
 
 **Statistics**
-**Str**17,**Dex**11,**Con**18,**Int**2,**Wis**11,**Cha** 10
-**Base Atk**+3;**CMB**+7 (+9 w/ Grapple);**CMD**17 (19 vs. Grapple);**Psych DC** 15
+**Str** 17, **Dex** 11, **Con** 18, **Int** 2, **Wis** 11, **Cha** 10
+**Base Atk** +3; **CMB** +7 (+9 w/ Grapple); **CMD** 17 (19 vs. Grapple); **Psych DC** 15
 **Feats** Improved Initiative, Multiattack, Skill Focus (Stealth)
-**Skills**Perception +5, Stealth +5 (+13 in ambush);**Racial Modifiers** +8 Stealth in ambush
+**Skills** Perception +5, Stealth +5 (+13 in ambush); **Racial Modifiers** +8 Stealth in ambush
 
 **Special Abilities**
 **Sinkhole (Ex)** A dust digger can burrow into sand, loose soil, or dirt to lie in ambush just under the surface. When it feels (via tremorsense) prey walk into a square it threatens, it can deflate its body as an immediate action, causing the sand and other loose soil above to shift and slide. All creatures who were standing in the dust digger’s reach must succeed at a DC 15 Reflex save or become entangled as long as they remain in the dust digger’s reach. All creatures who were standing at least partially in the dust digger’s actual space must succeed at a DC 15 Reflex save or become entangled and fall prone—if such a creature succeeds at this save, it immediately moves to the closest adjacent unoccupied square. If this results in more than a 5-foot move, the creature moves that distance and then falls prone. The save DC is Strength-based.
@@ -586,44 +586,44 @@ These two dust diggers utilize their sinkhole ability to manipulate the terrain 
 
 XP 1,200
 N Large outsider (air, cold, elemental, extraplanar, water)
-**Init**-1;**Senses** darkvision 60 ft., snow vision; Perception +7
+**Init** -1; **Senses** darkvision 60 ft., snow vision; Perception +7
 
 **Defense**
-**AC**16,**touch**8,**flat-footed** 16 (-1 Dex, +8 natural, -1 size)
+**AC** 16, **touch** 8, **flat-footed** 16 (-1 Dex, +8 natural, -1 size)
 **hp** 38 (4d10+16)
-**Fort**+8,**Ref**+3,**Will** +1
-**Immune**cold, elemental traits;**Weaknesses** vulnerable to fire
+**Fort** +8, **Ref** +3, **Will** +1
+**Immune** cold, elemental traits; **Weaknesses** vulnerable to fire
 
 **Offense**
 **Speed** 20 ft., burrow (ice and snow only) 20 ft., swim 60 ft.
 **Melee** slam +10 (1d8+8 plus 1d4 cold)
 **Ranged** destructive blast +3 ranged touch (1d6 cold or 2d6 cold w/ 1 sp, plus stagger)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** numbing cold (DC 16), stagger (Fort DC 15, 1 round)
 
 **Magic**
-**Caster Level**2;**MSB**+4,**MSD**15,**Concentration** +8
-**Tradition**Natural (Boons: Fortified Casting; Drawbacks: Draining Casting, Somatic Casting);**CAM** Con
+**Caster Level** 2; **MSB** +4, **MSD** 15, **Concentration** +8
+**Tradition** Natural (Boons: Fortified Casting; Drawbacks: Draining Casting, Somatic Casting); **CAM** Con
 **Spell Points** 4
-**Destruction Sphere**–**Talents**(blast type) Frost Blast,**Drawbacks** Energy Focus (Frost Blast)
+**Destruction Sphere** – **Talents** (blast type) Frost Blast, **Drawbacks** Energy Focus (Frost Blast)
 • destructive blast, close (30 ft.), DC 15, 1d6 or 2d6 w/ 1 sp bludgeoning damage
 ◊ Ray (default) (blast shape); melee touch +7 or ranged touch ray (30 ft.) +3
 ◊ Frost Blast (blast type); deal cold damage, targets taken damage need to succeed at Fort save or be staggered 1 round
 
 **Combat**
-**Martial Tradition**Eldritch Knight (Equipment x2; Bonus Feats: Advanced Magic Training, Basic Magic Training);**PAM** Con
-**Equipment Sphere**–**Talents** Crushing Thrower; (discipline) Rock Toss, Unarmed Training
+**Martial Tradition** Eldritch Knight (Equipment x2; Bonus Feats: Advanced Magic Training, Basic Magic Training); **PAM** Con
+**Equipment Sphere** – **Talents** Crushing Thrower; (discipline) Rock Toss, Unarmed Training
 • Crushing Thrower; make ranged attacks as if melee attack
 • Rock Toss (discipline); proficient with thrown rocks
 • Unarmed Training (discipline); can use weapons as unarmed strikes, proficient with the boot blade, brass knuckles, cestus, dan bong, emei piercer, gauntlet, katar, knuckle axe, punching dagger, rope gauntlet, sap, scizore, spiked gauntlet, and tekko-kagi
-**Lancer Sphere**–**Talents** Adamant Stalker; (impale) Ragdoll Swing
+**Lancer Sphere** – **Talents** Adamant Stalker; (impale) Ragdoll Swing
 • Adamant Stalker; immediate action, take a 5-ft. step
 • impale +8 (1d8+8 plus 1d4 cold, immobilize and batter the target; after-which the target takes 1d8 bleed)
 • Ragdoll Swing (impale); use impaled target as improvised weapon
 
 **Statistics**
-**Str**24,**Dex**8,**Con**19,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**4;**CMB**10;**CMD**19 (cannot be tripped);**Psych DC** 14
+**Str** 24, **Dex** 8, **Con** 19, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** 4; **CMB** 10; **CMD** 19 (cannot be tripped); **Psych DC** 14
 **Feats** Advanced Magic Training, Basic Magic Training, Cleave, Power Attack
 **Skills** Knowledge (planes) +4, Perception +7, Stealth +2, Swim +13
 **Languages** Aquan
@@ -649,50 +649,50 @@ A large glacial being with large icicle arms, dripping perspiration as it moves.
 
 XP 1,200
 N Medium outsider (air, elemental, extraplanar)
-**Init**+9;**Senses** darkvision 60 ft.; Perception +7
+**Init** +9; **Senses** darkvision 60 ft.; Perception +7
 
 **Defense**
-**AC**21,**touch**15,**flat-footed** 16 (+5 Dex, +4 natural, +2 shield)
+**AC** 21, **touch** 15, **flat-footed** 16 (+5 Dex, +4 natural, +2 shield)
 **hp** 55 (6d10+22)
-**Fort**+6,**Ref**+9,**Will** +1
+**Fort** +6, **Ref** +9, **Will** +1
 **Immune** electricity, elemental traits
 
 **Offense**
 **Speed** fly 100 ft. (perfect)
 **Melee** slam +10 (1d6+5 plus 1d4 electricity)
 **Ranged** destructive blast +10 ranged touch (2d6 electricity or 3d6 electricity w/ 1 sp)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** bull rush +5 CMB (knock prone and 1d6 bludgeoning + 1d6 per 5 exceeded CMD), metal mastery, spark leap
 
 **Magic**
-**Caster Level**3;**MSB**+6,**MSD**17,**Concentration** +8
-**Tradition**Natural (Boons: Fortified Casting; Drawbacks: Draining Casting, Somatic Casting);**CAM** Con
+**Caster Level** 3; **MSB** +6, **MSD** 17, **Concentration** +8
+**Tradition** Natural (Boons: Fortified Casting; Drawbacks: Draining Casting, Somatic Casting); **CAM** Con
 **Spell Points** 2
-**Destruction Sphere**–**Talents**Electric Blast,**Drawbacks** Energy Focus (Electric Blast)
+**Destruction Sphere** – **Talents** Electric Blast, **Drawbacks** Energy Focus (Electric Blast)
 • destructive blast, close (30 ft.), DC 13, 2d6 or 3d6 w/ 1 sp bludgeoning damage
 ◊ Ray (default) (blast shape); melee touch +7 or ranged touch ray (30 ft.) +10
 ◊ Electric Blast (blast type); deal electricity damage, targets wearing primarily metal take -2 to their AC and saves
-**Weather Sphere**–**Talents** Wind Lord
+**Weather Sphere** – **Talents** Wind Lord
 • control weather severity 3, 4 wind (Wind Lord)
 • control weather, maximum severity 3 (4 for Wind), medium (120 ft.), DC 13; concentration, 2 minutes with 1 sp
 ◊ Wind Lord; have up to 80-ft. diameter unaffected by Wind changes, control wind direction
 
 **Combat**
-**Martial Tradition**Eldritch Knight (Equipment x2; Bonus Feats: Advanced Magic Training, Basic Magic Training);**PAM** Con
-**Athletics Sphere**–**Packages**fly;**Talents** Mobile Striker, Whirlwind Flip; (motion) Moving Target
+**Martial Tradition** Eldritch Knight (Equipment x2; Bonus Feats: Advanced Magic Training, Basic Magic Training); **PAM** Con
+**Athletics Sphere** – **Packages** fly; **Talents** Mobile Striker, Whirlwind Flip; (motion) Moving Target
 • Mobile Striker; mobile striker full-round action, make a single attack while moving; movement does not provoke AoO
 • Moving Target (motion); gain 20% miss chance against ranged attacks when moving more than 5 ft. with associated package
 • Whirlwind Flip; regain martial focus by successfully using Acrobatics to move through enemy threatened area
-**Equipment Sphere**–**Talents** Balanced Defense, Finesse Fighting x2; (discipline) Unarmed Training
+**Equipment Sphere** – **Talents** Balanced Defense, Finesse Fighting x2; (discipline) Unarmed Training
 • Balanced Defense; +2 shield AC while attacking with only one natural weapon
 • Finesse Fighting; use Dex for attack instead of Str, +2 damage to melee attacks
 • Unarmed Training (discipline); can use weapons as unarmed strikes, proficient with the boot blade, brass knuckles, cestus, dan bong, emei piercer, gauntlet, katar, knuckle axe, punching dagger, rope gauntlet, sap, scizore, spiked gauntlet, and tekko-kagi
 
 **Statistics**
-**Str**14,**Dex**21,**Con**14,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+5;**CMB**+7;**CMD**23;**Psych DC** 19
+**Str** 14, **Dex** 21, **Con** 14, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +5; **CMB** +7; **CMD** 23; **Psych DC** 19
 **Feats** Advanced Magic Training, Basic Magic Training, Extra Magic Talent x2, Improved Initiative
-**Skills**Acrobatics +11, Escape Artist +9, Knowledge (planes) +1, Perception +7, Sense Motive +9, Stealth +10;**Associated Skills** Fly +17
+**Skills** Acrobatics +11, Escape Artist +9, Knowledge (planes) +1, Perception +7, Sense Motive +9, Stealth +10; **Associated Skills** Fly +17
 **Languages** Auran
 
 **Special Abilities**
@@ -711,46 +711,46 @@ A wispy humanoid, whose form appears to be made of a swirling storm cloud, dispe
 
 XP 1,200
 N Medium outsider (earth, elemental, extraplanar, fire)
-**Init**+7;**Senses** darkvision 60 ft.; Perception +7
+**Init** +7; **Senses** darkvision 60 ft.; Perception +7
 
 **Defense**
-**AC**19,**touch**14,**flat-footed** 15 (+3 Dex, +1 dodge, +3 natural, +2 shield)
+**AC** 19, **touch** 14, **flat-footed** 15 (+3 Dex, +1 dodge, +3 natural, +2 shield)
 **hp** 30 (4d10+8)
-**Fort**+6,**Ref**+7,**Will** +1
-**Immune**elemental traits, fire;**Weaknesses** vulnerability to cold
+**Fort** +6, **Ref** +7, **Will** +1
+**Immune** elemental traits, fire; **Weaknesses** vulnerability to cold
 
 **Offense**
 **Speed** 50 ft.
 **Melee** slam +7 (1d6+3 plus burn)
 **Ranged** destructive blast +7 ranged touch (1d6 fire or 2d6 fire w/ 1 sp, plus catch fire)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** burn (1d4, DC 12), catch fire (1d6 fire, Reflex DC 13), detonation (2d6 fire, 10-ft. radius, Reflex DC 14), lava puddle
 
 **Magic**
-**Caster Level**2;**MSB**+4,**MSD**15,**Concentration** +6
-**Tradition**Natural (Boons: Fortified Casting; Drawbacks: Draining Casting, Somatic Casting);**CAM** Con
+**Caster Level** 2; **MSB** +4, **MSD** 15, **Concentration** +6
+**Tradition** Natural (Boons: Fortified Casting; Drawbacks: Draining Casting, Somatic Casting); **CAM** Con
 **Spell Points** 2
-**Destruction Sphere**–**Talents**(blast type) Fire Blast,**Drawbacks** Energy Focus (Fire Blast)
+**Destruction Sphere** – **Talents** (blast type) Fire Blast, **Drawbacks** Energy Focus (Fire Blast)
 • destructive blast, close (30 ft.), DC 13, 1d6 or 2d6 w/ 1 sp bludgeoning damage
 ◊ Ray (default) (blast shape); melee touch +5 or ranged touch ray (30 ft.) +17
 ◊ Fire Blast (blast type); deal fire damage, targets taken damage need to succeed at Reflex save or be on fire for 1d6 damage per round
 
 **Combat**
-**Martial Tradition**Eldritch Knight (Equipment x2; Bonus Feats: Advanced Magic Training, Basic Magic Training);**PAM** Con
-**Athletics Sphere**–**Packages**run;**Talents** Dizzying Tumble, Mobile Striker, Mobility; (motion) Dizzying Tumble
+**Martial Tradition** Eldritch Knight (Equipment x2; Bonus Feats: Advanced Magic Training, Basic Magic Training); **PAM** Con
+**Athletics Sphere** – **Packages** run; **Talents** Dizzying Tumble, Mobile Striker, Mobility; (motion) Dizzying Tumble
 • Mobile Striker; mobile striker full-round action, make a single attack while moving; movement does not provoke AoO
 • Mobility; +3 dodge AC & CMD vs. attacks of opportunity caused by movement
 • Dizzying Tumble (motion); DC 14; passed creatures attempt Will save to avoid being sickened (nauseated when moving half speed) for 1 round when moving more than 5 ft. with associated package
-**Equipment Sphere**–**Talents** Balanced Defense, Finesse Fighting x2; (discipline) Unarmed Training
+**Equipment Sphere** – **Talents** Balanced Defense, Finesse Fighting x2; (discipline) Unarmed Training
 • Balanced Defense; +2 shield AC while attacking with only one natural weapon
 • Finesse Fighting; use Dex for attack instead of Str, +2 damage to melee attacks
 • Unarmed Training (discipline); can use weapons as unarmed strikes, proficient with the boot blade, brass knuckles, cestus, dan bong, emei piercer, gauntlet, katar, knuckle axe, punching dagger, rope gauntlet, sap, scizore, spiked gauntlet, and tekko-kagi
 
 **Statistics**
-**Str**12,**Dex**17,**Con**14,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+4;**CMB**+5;**CMD**19;**Psych DC** 17
+**Str** 12, **Dex** 17, **Con** 14, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +4; **CMB** +5; **CMD** 19; **Psych DC** 17
 **Feats** Advanced Magic Training, Basic Magic Training, Dodge, Improved Initiative
-**Skills**Climb +5, Escape Artist +8, Intimidate +5, Knowledge (planes) +1, Perception +7, Sense Motive +7;**Associated Skills** Acrobatics +8
+**Skills** Climb +5, Escape Artist +8, Intimidate +5, Knowledge (planes) +1, Perception +7, Sense Motive +7; **Associated Skills** Acrobatics +8
 **Languages** Ignan
 **SQ** earth glide
 
@@ -774,44 +774,44 @@ A humanoid whose form appears to be made of molten lava.
 
 XP 1,200
 N Large outsider (earth, elemental, extraplanar)
-**Init**-2;**Senses** darkvision 60 ft., tremorsense 30 ft.; Perception +7
+**Init** -2; **Senses** darkvision 60 ft., tremorsense 30 ft.; Perception +7
 
 **Defense**
-**AC**18,**touch**7,**flat-footed** 18 (-2 Dex, +11 natural, -1 size)
+**AC** 18, **touch** 7, **flat-footed** 18 (-2 Dex, +11 natural, -1 size)
 **hp** 42 (4d10+20)
-**Fort**+9,**Ref**-1,**Will** +4
+**Fort** +9, **Ref** -1, **Will** +4
 **Immune** acid, elemental traits
 
 **Offense**
 **Speed** 20 ft., burrow 20 ft., earth glide
 **Melee** slam +12 (2d6+13, plus entrap)
 **Ranged** rock toss +13 (1d8+13/x2, 30 ft.)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** entrap (DC 16, 10 minutes, hardness 5, hp 5), earth mastery
 
 **Magic**
-**Caster Level**2;**MSB**+4,**MSD**15,**Concentration** +7
-**Tradition**Natural (Boons: Fortified Casting; Drawbacks: Draining Casting, Somatic Casting);**CAM** Con
+**Caster Level** 2; **MSB** +4, **MSD** 15, **Concentration** +7
+**Tradition** Natural (Boons: Fortified Casting; Drawbacks: Draining Casting, Somatic Casting); **CAM** Con
 **Spell Points** 5
-**Nature Sphere**–**Packages** earth
+**Nature Sphere** – **Packages** earth
 • geomancing, close (30 ft.), DC 16, concentration or 2 rounds w/ 1 sp
 ◊ earth (Bury, Dust Storm, Tremor)
 
 **Combat**
-**Martial Tradition**Eldritch Knight (Equipment x2; Bonus Feats: Advanced Magic Training, Basic Magic Training);**PAM** Con
-**Brute Sphere**–**Talents** Greater Brute, Quick Force; (manhandle) Throw
+**Martial Tradition** Eldritch Knight (Equipment x2; Bonus Feats: Advanced Magic Training, Basic Magic Training); **PAM** Con
+**Brute Sphere** – **Talents** Greater Brute, Quick Force; (manhandle) Throw
 • Greater Brute; +2 CMB and CMD w/ bull rush, drag, overrun, and reposition
 • shove +13 touch (move action, move upto 10 ft., deal 9 damage and inflict the battered condition)
 • Quick Force; move action, perform a bull rush, drag, overrun, or reposition combat maneuver
 • Throw (manhandle); when succeeding on bull rush, drag, or reposition maneuver, you may expend your martial focus to throw the creature
-**Equipment Sphere**–**Talents** Crushing Thrower; (discipline) Rock Toss, Unarmed Training
+**Equipment Sphere** – **Talents** Crushing Thrower; (discipline) Rock Toss, Unarmed Training
 • Crushing Thrower; make ranged attacks as if melee attack
 • Rock Toss (discipline); proficient with thrown rocks
 • Unarmed Training (discipline); can use weapons as unarmed strikes, proficient with the boot blade, brass knuckles, cestus, dan bong, emei piercer, gauntlet, katar, knuckle axe, punching dagger, rope gauntlet, sap, scizore, spiked gauntlet, and tekko-kagi
 
 **Statistics**
-**Str**28,**Dex**6,**Con**21,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+4;**CMB**+12 (+14 w/ bull rush, drag, overrun, and reposition);**CMD**20 (22 vs. bull rush, drag, overrun, and reposition);**Psych DC** 14
+**Str** 28, **Dex** 6, **Con** 21, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +4; **CMB** +12 (+14 w/ bull rush, drag, overrun, and reposition); **CMD** 20 (22 vs. bull rush, drag, overrun, and reposition); **Psych DC** 14
 **Feats** Advanced Magic Training, Basic Magic Training, Cleave, Power Attack
 **Skills** Appraise +1, Climb +12, Knowledge (dungeoneering) +2, Knowledge (planes) +2, Perception +7, Stealth -2
 **Languages** Terran
@@ -837,35 +837,35 @@ This matching pair of elementals generally take turns between themselves at layi
 
 XP 135
 N Small vermin
-**Init**+0;**Senses** low-light vision; Perception +0
+**Init** +0; **Senses** low-light vision; Perception +0
 
 **Defense**
-**AC**13,**touch**11,**flat-footed** 13 (+1 natural, +1 shield, +1 size)
+**AC** 13, **touch** 11, **flat-footed** 13 (+1 natural, +1 shield, +1 size)
 **hp** 4 (1d8)
-**Fort**+2,**Ref**+0,**Will** +0
+**Fort** +2, **Ref** +0, **Will** +0
 **Immune** mind-affecting effects
 
 **Offense**
 **Speed** 30 ft., fly 30 ft. (poor)
 **Melee** bite +1 (1d4)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +3
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +3
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 1
 **Light Sphere**
 • glow, medium (110 ft.), DC 10 (1 minute, +0 touch or ranged touch (-20 Stealth checks, negate bonuses bestowed by invisibility, blink, darkness or similar effects))
 
 **Combat**
-**Martial Tradition**Eldritch Knight (Equipment x2;**Bonus Feats**Advanced Magic Training, Basic Magic Training);**PAM** Wis
-**Equipment Sphere**–**Talents** Balanced Defense; (discipline) Unarmed Training
+**Martial Tradition** Eldritch Knight (Equipment x2; **Bonus Feats** Advanced Magic Training, Basic Magic Training); **PAM** Wis
+**Equipment Sphere** – **Talents** Balanced Defense; (discipline) Unarmed Training
 • Balanced Defense; +1 shield AC while attacking with only one natural weapon
 • Unarmed Training (discipline); can use weapons as unarmed strikes, proficient with the boot blade, brass knuckles, cestus, dan bong, emei piercer, gauntlet, katar, knuckle axe, punching dagger, rope gauntlet, sap, scizore, spiked gauntlet, and tekko-kagi
 
 **Statistics**
-**Str**10,**Dex**11,**Con**11,**Int**—,**Wis**10,**Cha** 7
-**Base Atk**+0;**CMB**–1;**CMD** 9 (17 vs. trip); Psych DC 11 (mindless)
+**Str** 10, **Dex** 11, **Con** 11, **Int** —, **Wis** 10, **Cha** 7
+**Base Atk** +0; **CMB** –1; **CMD** 9 (17 vs. trip); Psych DC 11 (mindless)
 **Feats** Basic Magic Training, Advanced Magic Training
 **Skills** Fly –2
 **SQ** luminescence
@@ -891,41 +891,41 @@ If hungry or provoked, the three vermin have little or no recourse, but to attac
 
 XP 800
 N Large vermin
-**Init**+0;**Senses** darkvision 60 ft., tremorsense 60 ft.; Perception +4
+**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; Perception +4
 
 **Defense**
-**AC**16,**touch**9,**flat-footed** 16 (+7 armor, –1 size)
+**AC** 16, **touch** 9, **flat-footed** 16 (+7 armor, –1 size)
 **hp** 37 (5d8+15)
-**Fort**+7,**Ref**+1,**Will** +1
+**Fort** +7, **Ref** +1, **Will** +1
 **Immune** mind-affecting effects
 
 **Offense**
 **Speed** 50 ft.
 **Melee** 2 claws +6 (1d6+4 plus grab), sting +6 (1d6+4 plus poison)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** constrict (1d6+4)
 
 **Combat**
-**Martial Tradition**Butcher (Berserker x2, Lancer x2);**PAM** Wis
-**Berserker Sphere**–**Talents** Bloody Counter, Sanguine Invigoration
+**Martial Tradition** Butcher (Berserker x2, Lancer x2); **PAM** Wis
+**Berserker Sphere** – **Talents** Bloody Counter, Sanguine Invigoration
 • berserking (free action, -2 AC and +6 temp hp)
 • Bloody Counter; immediate action, allow self to be hit to perform brutal strike as free action
 • brutal strike +7 (1d6+4)
 • Sanguine Invigoration; while martial focus is maintained, reducing a foe to 0 hp or less grants 3 temp hp for 1 round
-**Lancer Sphere**–**Talents** Focusing Finale
+**Lancer Sphere** – **Talents** Focusing Finale
 • Focusing Finale; regain martial focus by removing impaling weapon
 • impale +5 (1d6+4 plus poison, immobile and battered)
-**Wrestling Sphere**–**Talents** Greater Grapple
+**Wrestling Sphere** – **Talents** Greater Grapple
 • Greater Grapple; while martial focus is maintained, may grapple as a move action
 • snag +7 touch (swift action, snagged targets are considered battered)
 
 **Statistics**
-**Str**19,**Dex**10,**Con**16,**Int**—,**Wis**10,**Cha** 2
-**Base Atk**+3;**CMB**+8 (+12 grapple);**CMD**18 (30 vs. trip);**Psych DC** 15 (mindless)
-**Skills**Climb +8, Perception +4, Stealth +0;**Racial Modifiers** +4 Climb, +4 Perception, +4 Stealth
+**Str** 19, **Dex** 10, **Con** 16, **Int** —, **Wis** 10, **Cha** 2
+**Base Atk** +3; **CMB** +8 (+12 grapple); **CMD** 18 (30 vs. trip); **Psych DC** 15 (mindless)
+**Skills** Climb +8, Perception +4, Stealth +0; **Racial Modifiers** +4 Climb, +4 Perception, +4 Stealth
 
 **Special Abilities**
-**Giant Scorpion Poison (Ex)** **Type**injury;**Save**Fort DC 17;**Frequency**1/round for 6 rounds;**Effect**1d2 Strength damage;**Cure** 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**Giant Scorpion Poison (Ex)** **Type** injury; **Save** Fort DC 17; **Frequency** 1/round for 6 rounds; **Effect** 1d2 Strength damage; **Cure** 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 
 **Ecology**
 **Environment** warm deserts
@@ -947,34 +947,34 @@ This pair of giant scorpions generally begin the surprise round buried before bu
 
 XP 400
 N Small vermin
-**Init**+2;**Senses** darkvision 60 ft.; Perception +4
+**Init** +2; **Senses** darkvision 60 ft.; Perception +4
 
 **Defense**
-**AC**14,**touch**13,**flat-footed** 12 (+2 Dex, +1 natural, +1 size)
+**AC** 14, **touch** 13, **flat-footed** 12 (+2 Dex, +1 natural, +1 size)
 **hp** 13 (2d8+4)
-**Fort**+5,**Ref**+2,**Will** +0
+**Fort** +5, **Ref** +2, **Will** +0
 **Immune** mind-affecting effects
 
 **Offense**
 **Speed** 50 ft., climb 30 ft.
 **Melee** bite +3 (1d6+1), 2 claws +3 (1d3+1)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** rend (2 claws, 1d3+1)
 
 **Combat**
-**Martial Tradition**Assassin (Athletics x2, Fencing x2);**PAM** Wis
-**Athletics Sphere**–**Packages**run;**Talents** Mobile Striker
+**Martial Tradition** Assassin (Athletics x2, Fencing x2); **PAM** Wis
+**Athletics Sphere** – **Packages** run; **Talents** Mobile Striker
 • Mobile Striker; mobile striker full-round action, make a single attack while moving; movement does not provoke AoO
-**Fencing Sphere**–**Talents** (exploit) Ankle Strike
+**Fencing Sphere** – **Talents** (exploit) Ankle Strike
 • Ankle Strike (exploit); attempt trip maneuver as free action with no AoO
 • fatal thrust (+1d6 precision damage on attacks where target is flanked, flat-footed, or denied Dex)
 **Wrestling Sphere**
 • snag +2 touch (swift action, snagged targets are considered battered)
 
 **Statistics**
-**Str**12,**Dex**15,**Con**15,**Int**—,**Wis**11,**Cha** 2
-**Base Atk**+1;**CMB**+1;**CMD**13 (25 vs. trip);**Psych DC** 12 (mindless)
-**Skills**Climb +9, Perception +4, Stealth +10;**Associated Skills**Acrobatics +5, Bluff -2;**Racial Modifiers** +8 Climb, +4 Perception, +4 Stealth
+**Str** 12, **Dex** 15, **Con** 15, **Int** —, **Wis** 11, **Cha** 2
+**Base Atk** +1; **CMB** +1; **CMD** 13 (25 vs. trip); **Psych DC** 12 (mindless)
+**Skills** Climb +9, Perception +4, Stealth +10; **Associated Skills** Acrobatics +5, Bluff -2; **Racial Modifiers** +8 Climb, +4 Perception, +4 Stealth
 
 **Ecology**
 **Environment** warm deserts
@@ -992,28 +992,28 @@ These two vermin prefer to lash out from hidden places, usually from under sand 
 
 XP 1,200
 N Large magical beast
-**Init**+7;**Senses** tremorsense 60 ft.; Perception +9
+**Init** +7; **Senses** tremorsense 60 ft.; Perception +9
 
 **Defense**
-**AC**16,**touch**13,**flat-footed** 13 (+3 Dex, +4 natural, -1 size)
+**AC** 16, **touch** 13, **flat-footed** 13 (+3 Dex, +4 natural, -1 size)
 **hp** 45 (6d10+12)
-**Fort**+7,**Ref**+8,**Will** +3
+**Fort** +7, **Ref** +8, **Will** +3
 
 **Offense**
 **Speed** 50 ft., burrow 30 ft.
 **Melee** bite +9 (1d8+6 plus drowsy venom plus Strength venom)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** attraction
 
 **Combat**
-**Martial Tradition**Assassin (Athletics x2, Fencing x2);**PAM** Wis
-**Alchemy Sphere**–**Packages**poison;**Talents** Virulent Sting, (toxin) Drowsy Venom
+**Martial Tradition** Assassin (Athletics x2, Fencing x2); **PAM** Wis
+**Alchemy Sphere** – **Packages** poison; **Talents** Virulent Sting, (toxin) Drowsy Venom
 • Drowsy Venom (toxin); failing two consecutive saves causes fatigue, three consecutive saves sleep, DC 14
 • Virulent Sting; apply toxin to racial poison ability
-**Athletics Sphere**–**Packages**leap;**Talents** Mobile Striker, Whirlwind Flip
+**Athletics Sphere** – **Packages** leap; **Talents** Mobile Striker, Whirlwind Flip
 • Mobile Striker; mobile striker full-round action, make a single attack while moving; movement does not provoke AoO
 • Whirlwind Flip; regain Martial Focus with successful Acrobatics check to move through threatened area
-**Fencing Sphere**–**Talents** Fast Feint, Feint Strike, Focusing Feint; (exploit) Ankle Strike
+**Fencing Sphere** – **Talents** Fast Feint, Feint Strike, Focusing Feint; (exploit) Ankle Strike
 • Ankle Strike (exploit); attempt trip maneuver as free action with no AoO
 • Fast Feint; move action, feint; expend martial focus, move up to base speed
 • fatal thrust (+2d6 precision damage on attacks where target is flanked, flat-footed, or denied Dex)
@@ -1021,19 +1021,19 @@ N Large magical beast
 • Focusing Feint; successful feint, regain martial focus as swift action
 
 **Statistics**
-**Str**19,**Dex**17,**Con**15,**Int**4,**Wis**12,**Cha** 2
-**Base Atk**+6;**CMB**+11;**CMD**24 (36 vs. trip);**Psych DC** 17
+**Str** 19, **Dex** 17, **Con** 15, **Int** 4, **Wis** 12, **Cha** 2
+**Base Atk** +6; **CMB** +11; **CMD** 24 (36 vs. trip); **Psych DC** 17
 **Feats** Improved Initiative, Skill Focus (Bluff, Perception)
-**Skills**Acrobatics +8 (+12 jump), Bluff +5, Climb +13, Craft (alchemy) +3, Perception +9, Stealth +11 (+15 in sandy environs);**Racial Modifiers** +4 Acrobatics to jump, +4 Stealth (+8 in sandy environs)
+**Skills** Acrobatics +8 (+12 jump), Bluff +5, Climb +13, Craft (alchemy) +3, Perception +9, Stealth +11 (+15 in sandy environs); **Racial Modifiers** +4 Acrobatics to jump, +4 Stealth (+8 in sandy environs)
 
 **Special Abilities**
 **Attraction (Ex)** The front four legs of a sand stalker are hollow. When a gust of air or wind blows across them, they create a hypnotic sound that can be heard by all creatures within a 100-foot spread. Those hearing this sound must succeed at a successful DC 15 Will save or become entranced. This is a sonic, mind-affecting effect. If the save is successful, that creature cannot be affected again by the same sand stalker’s attraction for one day. The save DC is Constitution-based.
 
 An entranced victim takes the most direct route possible, walking toward the sand stalker. If the path leads into a dangerous area, (fire, over a cliff, and so on), that creature gets a second saving throw. Entranced creatures can take no actions other than to defend themselves. A victim within 5 feet of the sand stalker stands there and offers no resistance to the monster’s attacks. The effect continues for as long as the sand stalker’s legs are subjected to wind. A bard’s countersong ability allows the entranced creature to attempt a new Will save.
 
-**Drowsy Venom (Ex)** **Type**injury;**Save**Fort DC 14;**Frequency**1 round;**Effect**fatigued, exhausted if already fatigued, unconscious if already exhausted;**Cure**none;**Duration** 1 minute. The save DC is Wisdom-based
+**Drowsy Venom (Ex)** **Type** injury; **Save** Fort DC 14; **Frequency** 1 round; **Effect** fatigued, exhausted if already fatigued, unconscious if already exhausted; **Cure** none; **Duration** 1 minute. The save DC is Wisdom-based
 
-**Strength Venom (Ex)** **Type**injury;**Save**Fort DC 18;**Frequency**1/round for 4 rounds;**Effect**paralysis and 1 Str;**Cure** 1 save. The save DC is Strength-based.
+**Strength Venom (Ex)** **Type** injury; **Save** Fort DC 18; **Frequency** 1/round for 4 rounds; **Effect** paralysis and 1 Str; **Cure** 1 save. The save DC is Strength-based.
 
 **Ecology**
 **Environment** warm deserts
@@ -1054,36 +1054,36 @@ This pair of magical beasts will lure prey to their location using the attractio
 
 XP 600
 N Medium ooze
-**Init**+3;**Senses** blindsight 60 ft., breach sense; Perception +2
+**Init** +3; **Senses** blindsight 60 ft., breach sense; Perception +2
 
 **Defense**
-**AC**13,**touch**13,**flat-footed** 10 (+3 Dex)
+**AC** 13, **touch** 13, **flat-footed** 10 (+3 Dex)
 **hp** 25 (3d8+12)
-**Fort**+5,**Ref**+4,**Will** –2
-**Immune**acid, ooze traits (except mindless);**Weaknesses** breach vulnerability
+**Fort** +5, **Ref** +4, **Will** –2
+**Immune** acid, ooze traits (except mindless); **Weaknesses** breach vulnerability
 
 **Offense**
 **Speed** 10 ft.
 **Melee** tentacle +5 (1d4+4, plus grab and pull)
-**Space**5 ft.;**Reach** 10 ft.
+**Space** 5 ft.; **Reach** 10 ft.
 **Special Attacks** constrict (1d4+4), grab, pit, pull (tentacle, 5 ft.)
 
 **Combat**
-**Martial Tradition**Octopus (Berserker x2, Wrestling x2);**PAM** Wis
-**Berserker Sphere**–**Talents** Sanguine Invigoration
+**Martial Tradition** Octopus (Berserker x2, Wrestling x2); **PAM** Wis
+**Berserker Sphere** – **Talents** Sanguine Invigoration
 • berserking (free action, -2 AC and +5 temp hp)
 • brutal strike +5 (1d4+4, plus battered)
 • Sanguine Invigoration; while martial focus is maintained, reducing a foe to 0 hp or less grants 2 temp hp for 1 round
-**Wrestling Sphere**–**Talents** Greater Grapple, Iron Grip, Tentacle Squeeze
+**Wrestling Sphere** – **Talents** Greater Grapple, Iron Grip, Tentacle Squeeze
 • Greater Grapple; while martial focus is maintained, may grapple as a move action
 • snag +5 touch (swift action, snagged targets are considered battered)
 • Tentacle Squeeze; any tentacle attacks can use constrict and grab special attacks
 
 **Statistics**
-**Str**16,**Dex**16,**Con**19,**Int**2,**Wis**5,**Cha** 1
-**Base Atk**+2;**CMB**+5 (+6 w/ grapple);**CMD**18;**Psych DC** 10
+**Str** 16, **Dex** 16, **Con** 19, **Int** 2, **Wis** 5, **Cha** 1
+**Base Atk** +2; **CMB** +5 (+6 w/ grapple); **CMD** 18; **Psych DC** 10
 **Feats** Skill Focus (Perception), Skill Focus (Stealth)
-**Skills**Perception +2, Stealth +15;**Racial Modifiers** +8 Stealth
+**Skills** Perception +2, Stealth +15; **Racial Modifiers** +8 Stealth
 **SQ** transparent
 
 **Special Abilities**
@@ -1122,19 +1122,19 @@ This pair of oozes will work independently of each other to hunt their prey; If 
 XP 200
 Male zavr cherufe striker 1
 CN Medium humanoid (reptilian)
-**Init**+2;**Senses** low-light vision, Perception +4
+**Init** +2; **Senses** low-light vision, Perception +4
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 13 (+2 Dex, +3 Con)
+**AC** 15, **touch** 15, **flat-footed** 13 (+2 Dex, +3 Con)
 **hp** 13 (1d10+3)
-**Fort**+5,**Ref**+4,**Will** +0
-**Special Defenses**eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing);**Resist** fire 5
+**Fort** +5, **Ref** +4, **Will** +0
+**Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing); **Resist** fire 5
 
 **Offense**
 **Speed** 40 ft.
 **Melee** mwk spear +4 (1d8+3/x3) and bite -2 (1d4+1/x2), or unarmed strike +3 (1d4+2/x2)
 **Ranged** mwk spear +5 (1d8+2/x3)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** tension (3 max; critical knuckles, expert guard, fiery offense, fiery offense, light step, perfect offense, rapid pummel, second chance, speed step, stalwart form, swift focus)
 
 **Combat**
@@ -1142,19 +1142,19 @@ CN Medium humanoid (reptilian)
 **PAM** Con
 **Brute Sphere**
 • shove +3 touch (move action, move upto 20 ft., deal 2 damage and inflict the battered condition)
-**Equipment Sphere**–**Talents** Spear Dancer; (discipline) Rogue Weapon Training
+**Equipment Sphere** – **Talents** Spear Dancer; (discipline) Rogue Weapon Training
 • Rogue Weapon Training; proficient with the blade boot, butterfly knife, garrote, hand crossbow, kukri, rapier, sap, short sword, shortbow, starknife, switchblade knife, sword cane, war razor, and whip
 • Spear Dancer; polearms and spears gain finesse special feature, and may wield them one-handed
 **Fencing Sphere**
 • fatal thrust (+1d6 precision damage on attacks where target is flanked, flat-footed, or denied Dex)
-**Scoundrel Sphere**–**Talents** (trick) Mug
+**Scoundrel Sphere** – **Talents** (trick) Mug
 • marked target (swift action, +3 melee touch (battered and -1 Perception for 1 round))
 • swift hands (use Dex instead of Str for dirty trick or steal maneuver; may use Sleight of Hand ranks instead of base attack bonus for dirty trick or steal maneuvers)
 • Mug (trick); after a successful steal combat maneuver, free action single attack; if target damages, target is battered for one round
 
 **Statistics**
-**Str**14,**Dex**15,**Con**16,**Int**10,**Wis**10,**Cha** 8
-**Base Atk**+1;**CMB**+3;**CMD**18;**Psych DC** 11
+**Str** 14, **Dex** 15, **Con** 16, **Int** 10, **Wis** 10, **Cha** 8
+**Base Atk** +1; **CMB** +3; **CMD** 18; **Psych DC** 11
 **Feats** Extra Combat Talent
 **Skills** Acrobatics +6, Perception +4, Stealth +6, Survival +4;
 **Associated Skills** Bluff +0, Sleight of Hand +6
@@ -1186,30 +1186,30 @@ The wasteland brigand preys upon caravans and travellers, and if appeased with 5
 XP 200
 Female cuazaj commander 1
 CE Small humanoid (draconic)
-**Init**+1;**Senses** Perception +4
+**Init** +1; **Senses** Perception +4
 
 **Defense**
-**AC**17,**touch**12,**flat-footed** 16 (+3 armor, +1 Dex, +2 natural, +1 size)
+**AC** 17, **touch** 12, **flat-footed** 16 (+3 armor, +1 Dex, +2 natural, +1 size)
 **hp** 9 (1d8+1)
-**Fort**+3,**Ref**+1,**Will** +2; +2 vs. disease, mind-affecting, poison, fatigue and exhaustion
-**Special Defenses**eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing);**Resist**acid 5, electricity 5;**Weaknesses** vulnerability to cold and sonic
+**Fort** +3, **Ref** +1, **Will** +2; +2 vs. disease, mind-affecting, poison, fatigue and exhaustion
+**Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing); **Resist** acid 5, electricity 5; **Weaknesses** vulnerability to cold and sonic
 
 **Offense**
 **Speed** 30 ft.
 **Melee** handaxe -1 (1d4-1/x3)
 **Ranged** mwk longbow +2 (1d6/x3) or mwk bola +2 (1d3-1/x2 nonlethal, or ranged trip)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** cuazaj lightning 1/day (1d6 electricity; Reflex DC 11)
 
 **Combat**
-**Martial Tradition**Cunning Leader (Equipment x1, Fencing x2, Warleader x1);**PAM** Cha
-**Equipment Sphere**–**Talents** (discipline) Huntsman Training
+**Martial Tradition** Cunning Leader (Equipment x1, Fencing x2, Warleader x1); **PAM** Cha
+**Equipment Sphere** – **Talents** (discipline) Huntsman Training
 • Huntsman Training; proficient with the atlatl, bolas, boomerang, handaxe, harpoon, longbow, net, shortbow, throwing axe, and tube arrow shooter
-**Fencing Sphere**–**Talents** Expert Feint, Verbal Feint
+**Fencing Sphere** – **Talents** Expert Feint, Verbal Feint
 • Expert Feint; successful feints cause target to lose Dex bonus to armor class against all attacks for 1 round
 • fatal thrust (attacks vs. flat-footed or flanked deal +1d6 precision damage)
 • Verbal Feint; can feint targets within 30 ft., as long as they can hear you
-**Warleader Sphere**–**Talents** (shout) Call Attention
+**Warleader Sphere** – **Talents** (shout) Call Attention
 • shouts, 10-ft. radius, one round
 ◊ Call Attention (shout); Cannot hide yourself for duration, allies can attempt Stealth checks even without cover or concealment
 ◊ Fierce Shout (shout); +2 morale bonus on first attack in turn
@@ -1217,10 +1217,10 @@ CE Small humanoid (draconic)
 ◊ Aggressive Flanking (tactic); threaten counts as flanking
 
 **Statistics**
-**Str**8,**Dex**12,**Con**12,**Int**14,**Wis**10,**Cha** 16
-**Base Atk**+0;**CMB**-2;**CMD**9;**Psych DC** 14
+**Str** 8, **Dex** 12, **Con** 12, **Int** 14, **Wis** 10, **Cha** 16
+**Base Atk** +0; **CMB** -2; **CMD** 9; **Psych DC** 14
 **Feats** Extra Combat Talent
-**Skills**Acrobatics +5, Fly +5, Intimidate +7, Knowledge (geography) +6, Knowledge (nobility) +6, Perception +4, Sense Motive +4, Survival +4;**Associated Skills** Bluff +7, Diplomacy +7
+**Skills** Acrobatics +5, Fly +5, Intimidate +7, Knowledge (geography) +6, Knowledge (nobility) +6, Perception +4, Sense Motive +4, Survival +4; **Associated Skills** Bluff +7, Diplomacy +7
 **Languages** Auran, Cheru, Common, Gnoll
 **SQ** breezeflight , wings
 **Other Gear** handaxe, masterwork bola, masterwork longbow (w/ 10 arrows), studded leather, eventide outfit, filter scarf, belt pouch (5 gp in assorted coins), backpack (50-ft. hemp rope, alchemist crafting kit, manacles x3, masterwork manacles x2), waterskin x2
@@ -1242,36 +1242,36 @@ Wasteland marauders organize the raids upon caravans and travellers. Should comb
 XP 200
 Female gnoll conscript 1
 CE Medium humanoid (gnoll)
-**Init**+1;**Senses**darkvision 60 ft.,**Perception** +6
+**Init** +1; **Senses** darkvision 60 ft., **Perception** +6
 
 **Defense**
-**AC**16,**touch**11,**flat-footed** 15 (+3 armor, +1 Dex, +2 natural)
+**AC** 16, **touch** 11, **flat-footed** 15 (+3 armor, +1 Dex, +2 natural)
 **hp** 12 (1d10+2)
-**Fort**+2,**Ref**+3,**Will** +2
+**Fort** +2, **Ref** +3, **Will** +2
 **Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing)
 
 **Offense**
 **Speed** 30 ft.
 **Melee** mwk mancatcher +5 touch (1d2+4/x2 or grapple)
 **Ranged** mwk net +3 ranged touch (entangle)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 
 **Combat**
-**Martial Tradition**Animal Trainer (Beastmastery x2, Equipment x2);**PAM** Wis
-**Alchemy Sphere**–**Packages**poison;**Talents** Drowsy Venom
+**Martial Tradition** Animal Trainer (Beastmastery x2, Equipment x2); **PAM** Wis
+**Alchemy Sphere** – **Packages** poison; **Talents** Drowsy Venom
 • Drowsy Venom (toxin); failing two consecutive saves causes fatigue, three consecutive saves sleep, DC 12
-**Beastmastery Sphere**–**Packages**handle animal;**Talents** (handle animal) Great Trainer
+**Beastmastery Sphere** – **Packages** handle animal; **Talents** (handle animal) Great Trainer
 • tame (2 HD, 8 hours); Great Trainer (handle animal) (double HD pool for taming), DC 12
-**Equipment Sphere**–**Talents** (discipline) Bounty Hunter Tools
+**Equipment Sphere** – **Talents** (discipline) Bounty Hunter Tools
 • Bounty Hunter Tools; proficient with the bola, garrote, grappling hook, harpoon, kyoketsu shogi, lasso, mancatcher, net, net launcher, sap, and whip. You may deal nonlethal damage with any of these weapons at no penalty and treat them all as having the grapple special feature.
 **Wrestling Sphere**
 • snag +4 touch (swift action, snagged targets are considered battered)
 
 **Statistics**
-**Str**16,**Dex**13,**Con**14,**Int**12,**Wis**14,**Cha** 8
-**Base Atk**+1;**CMB**+4;**CMD**15;**Psych DC** 16
+**Str** 16, **Dex** 13, **Con** 14, **Int** 12, **Wis** 14, **Cha** 8
+**Base Atk** +1; **CMB** +4; **CMD** 15; **Psych DC** 16
 **Feats** Extra Combat Talent x2
-**Skills**Perception +6, Profession (trafficking) +6, Sense Motive +6, Survival +6;**Associated Skills** Craft (alchemy) +5, Handle Animal +3
+**Skills** Perception +6, Profession (trafficking) +6, Sense Motive +6, Survival +6; **Associated Skills** Craft (alchemy) +5, Handle Animal +3
 **Languages** Cheru, Gnoll
 **SQ** Animal Trainer
 **Other Gear** masterwork mancatcher, masterwork net, studded leather, eventide outfit, filter scarf, belt pouch (5 gp in assorted coins), backpack (50-ft. hemp rope, alchemist crafting kit, manacles x3, masterwork manacles x2), waterskin x2
@@ -1293,23 +1293,23 @@ Wasteland slavers wander the eventide capturing humanoids through use of poisone
 ### Hyena
 
 N Medium animal
-**Init**+2;**Senses**low-light vision, scent;**Perception** +8
+**Init** +2; **Senses** low-light vision, scent; **Perception** +8
 
 **Defense**
-**AC**14,**touch**12,**flat-footed** 12 (+2 Dex, +2 natural)
+**AC** 14, **touch** 12, **flat-footed** 12 (+2 Dex, +2 natural)
 **hp** 13 (2d8+4)
-**Fort**+5,**Ref**+5,**Will** +1
+**Fort** +5, **Ref** +5, **Will** +1
 
 **Offense**
 **Speed** 50 ft.
 **Melee** bite +3 (1d6+3 plus trip)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 
 **Statistics**
-**Str**14,**Dex**15,**Con**15,**Int**2,**Wis**13,**Cha** 6
-**Base Atk**+1;**CMB**+3;**CMD**15 (19 vs. trip);**Psych DC** 13
+**Str** 14, **Dex** 15, **Con** 15, **Int** 2, **Wis** 13, **Cha** 6
+**Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip); **Psych DC** 13
 **Feats** Skill Focus (Perception)
-**Skills**Perception +8, Stealth +6 (+10 in tall grass);**Racial Modifiers** +4 Stealth in tall grass
+**Skills** Perception +8, Stealth +6 (+10 in tall grass); **Racial Modifiers** +4 Stealth in tall grass
 
 With 60 minutes work, and a successful DC 16 Survival check, the pelt of a dead hyena may be harvested. Decrease the time of harvesting by 10 minutes for every 5 that the check surpassed the DC (minimum harvest time 10 minutes). Failing the check by 4 or less means that the pelt is harvested, but is in poor condition and worth only 2 gp. Failing the check by 5 or more ruins the pelt altogether. Should a hyena pelt which was harvested successfully be used later in the creation of a gnoll disguise (or other similar humanoid), the initial Disguise check receives a +2 circumstance bonus. A hyena pelt is a rare commodity outside of their sphere of environment and can rarely be found for sale in settlements that are temperate or cold.
 
@@ -1325,26 +1325,26 @@ This group of wastelanders consist of a brigand, a marauder, and 2 slavers (each
 XP 400
 Female Aasimar Incanter 2
 NG Medium outsider (native)
-**Init**+1;**Senses** Perception +5
+**Init** +1; **Senses** Perception +5
 
 **Defense**
-**AC**11,**touch**11,**flat-footed** 10 (+1 Dex)
+**AC** 11, **touch** 11, **flat-footed** 10 (+1 Dex)
 **hp** 12 (2d6+3)
-**Fort**+1 (+2 w/ stabilization checks),**Ref**+1,**Will** +6; +1 vs. death effects
-**Special Defenses**eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing);**Resist** acid 5, cold 5, electricity 5
+**Fort** +1 (+2 w/ stabilization checks), **Ref** +1, **Will** +6; +1 vs. death effects
+**Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing); **Resist** acid 5, cold 5, electricity 5
 
 **Offense**
 **Speed** 30 ft.
 **Melee** mwk spear +2 (1d8+1/x3)
 **Ranged** disruption +2 ranged touch (3d6 nonlethal/daze)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** channel positive energy 6/day (DC 14, 1d6), steal essence 6/day (+1 touch, 1d4+1 nonlethal damage, gain temp hp equal to damage dealt for 1 minute)
 
 **Magic**
-**Caster Level**2 (3 w/ Life);**MSB**+2,**MSD**13,**Concentration** +5
-**Tradition**Divine Petitioner, Inquisitor (Drawbacks: Verbal Casting);**CAM** Wis
+**Caster Level** 2 (3 w/ Life); **MSB** +2, **MSD** 13, **Concentration** +5
+**Tradition** Divine Petitioner, Inquisitor (Drawbacks: Verbal Casting); **CAM** Wis
 **Spell Points** 6
-**Divination Sphere**-**Talents**Expanded Divinations,**Drawbacks** Limited Divination (divine)
+**Divination Sphere** - **Talents** Expanded Divinations, **Drawbacks** Limited Divination (divine)
 • divine, medium (110 ft.); DC 14; (gain information about magic auras within 110 ft.)
 ◊ Alternate Divinations
 • Death (Divine Undead); divine for undead creatures
@@ -1352,7 +1352,7 @@ NG Medium outsider (native)
 • Life (Divine Life); divine the wound thresholds and conditions of seen living creatures
 • Light (Ultravision); divine to give yourself an added level of perception, free Perception check with +2 circumstance bonus
 • Nature (Divine Elements [water]); divine
-**Life Sphere**-**Talents** Deeper Healing, Ranged Healing, Resuscitate, Sanctify
+**Life Sphere** - **Talents** Deeper Healing, Ranged Healing, Resuscitate, Sanctify
 • cure, close (30 ft.), 2d8+3, 1 sp, DC 14; Resuscitate (heal dead targets)
 • invigorate, close (30 ft.), 6 temporary hp, DC 14
 • restore, close (30 ft.), (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage) or (sanctify; inflict 1d2 temporary negative levels), 1 sp, DC 14
@@ -1360,10 +1360,10 @@ NG Medium outsider (native)
 • glow, medium (120 ft.), DC 14 (2 minutes, +1 touch or +2 ranged touch (-20 Stealth checks, negate bonuses bestowed by invisibility, blink, darkness or similar effects))
 
 **Statistics**
-**Str**10,**Dex**12,**Con**12,**Int**14,**Wis**16,**Cha** 13
-**Base Atk**+1;**CMB**+1;**CMD**12;**Psych DC** 15
+**Str** 10, **Dex** 12, **Con** 12, **Int** 14, **Wis** 16, **Cha** 13
+**Base Atk** +1; **CMB** +1; **CMD** 12; **Psych DC** 15
 **Feats** Extra Magic Talent, Selective Channeling
-**Skills**Diplomacy +3, Heal +5, Knowledge (planes) +7, Knowledge (religion) +7, Perception +5, Spellcraft +7;**Racial Modifiers** Diplomacy +2, Perception +2
+**Skills** Diplomacy +3, Heal +5, Knowledge (planes) +7, Knowledge (religion) +7, Perception +5, Spellcraft +7; **Racial Modifiers** Diplomacy +2, Perception +2
 **Languages** Celestial, Common, Dwarven, Sylvan
 **SQ** disruption, sphere specialization (Life)
 **Other Gear** masterwork spear, armored mage potion x2, eventide outfit, filter scarf, backpack (50-ft. hemp rope, flint and steel, small tent, trail rations x10, verminbite kit, winter blanket), belt pouch (5 gp in assorted coins), ritual book, spell component pouch (gold reagent x8, magnesium reagent x8, moondew reagent x4), waterskin x2
@@ -1372,7 +1372,7 @@ NG Medium outsider (native)
 **Combat Gear** The initiate healer’s combat gear is described below:
 
 - **Armored mage potion:** grants the drinker +3 armor and +1 shield bonus to armor class for 1 minute.
-- **Ritual book:** This white lotus inquisitor carries with her a book containing the following spells in ritual form;**2nd**—gentle repose; **1st**—bless water, celestial healingArcane Anthology; **0th**—create water, purify food and drink
+- **Ritual book:** This white lotus inquisitor carries with her a book containing the following spells in ritual form; **2nd**—gentle repose; **1st**—bless water, celestial healingArcane Anthology; **0th**—create water, purify food and drink
 - **Verminbite kit:** When someone is suffering poison delivered from a bite or sting attack of a vermin (or other insectoid creature, such as an ettercap), as a full-round action, the initiate healer can use this kit to gain a +4 circumstance bonus on the ongoing Fortitude saving throws against that poison. A verminbite kit is exhausted after 10 uses.
 
 **Steal Essence (Sp)** 6/day, the initiate healer’s touch can siphon off life from a creature to invigorate herself. As a melee touch attack, the initiate healer can inflict 1d4+1 nonlethal damage, gaining the damage dealt as temporary hit points for 1 minute.
@@ -1382,39 +1382,39 @@ NG Medium outsider (native)
 XP 200
 Male Dwarf Conscript 1
 NG Medium humanoid (dwarf)
-**Init**+0;**Senses**darkvision 60 ft.,**Perception** +5
+**Init** +0; **Senses** darkvision 60 ft., **Perception** +5
 
 **Defense**
-**AC**18,**touch**10,**flat-footed** 18 (+6 armor, +0 Dex, +2 shield)
+**AC** 18, **touch** 10, **flat-footed** 18 (+6 armor, +0 Dex, +2 shield)
 **hp** 12 (1d10+2)
-**Fort**+4,**Ref**+2,**Will** +1; +2 vs. poison, spells, and spell-like abilities
+**Fort** +4, **Ref** +2, **Will** +1; +2 vs. poison, spells, and spell-like abilities
 **Special Defenses** eventide outfit (+5 saves vs. cold weather and energy resistance vs. nonlethal cold 5, or +5 saves vs. hot weather and energy resistance vs. nonlethal fire 5); filter scarf (+1 resistance bonus to saves vs. inhaled poisons and airborne effects that require breathing)
 
 **Offense**
 **Speed** 20 ft.
 **Melee** mwk battleaxe +3 (1d8+1/x3)
 **Ranged** throwing axe +1 (1d6+1/x2)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 
 **Combat**
-**Martial Tradition**Shield Master (Equipment: Armor Training, Shield Training; Shield: Cover Ally);**PAM** Int
-**Equipment Sphere**–**Talents** Armor Training; (discipline) Dwarven Heritage, Shield Training
+**Martial Tradition** Shield Master (Equipment: Armor Training, Shield Training; Shield: Cover Ally); **PAM** Int
+**Equipment Sphere** – **Talents** Armor Training; (discipline) Dwarven Heritage, Shield Training
 • Armor Training; proficient with medium and heavy armor)
 • Dwarven Heritage (discipline), Shield Training (discipline); proficient with all shields, including tower shields, and are proficient with the battleaxe, dwarven boulder helmet, earthbreaker, greataxe, greatclub, hand axe, heavy pick, light hammer, light pick, pickaxe, shield bash, throwing axe, and warhammer
-**Guardian Sphere**–**Packages**patrol;**Talents** Swift Reflexes
+**Guardian Sphere** – **Packages** patrol; **Talents** Swift Reflexes
 • patrol (full-round action, increase threatened area by 5 ft.)
 • Swift Reflexes; +1 attack of opportunity each round while martial focus is maintained
-**Shield Sphere**–**Talents** Cover Ally, Extensive Defense, Shielded Focus
+**Shield Sphere** – **Talents** Cover Ally, Extensive Defense, Shielded Focus
 • active defense (spend attack of opportunity, increase shield AC by +2 vs. incoming attack)
 • Cover Ally; requires martial focus, may use active defense on behalf of allies within reach
 • Extensive Defense; expend focus, may use active defense vs. all attacks on all allies within reach for the round
 • Shielded Focus; move action, regain focus by fighting defensively; immediate action, regain focus by successfully using active defense
 
 **Statistics**
-**Str**13,**Dex**10,**Con**14,**Int**16,**Wis**12,**Cha** 8
-**Base Atk**+1;**CMB**+2;**CMD**12;**Psych DC** 15
+**Str** 13, **Dex** 10, **Con** 14, **Int** 16, **Wis** 12, **Cha** 8
+**Base Atk** +1; **CMB** +2; **CMD** 12; **Psych DC** 15
 **Feats** Extra Combat Training x2
-**Skills**Handle Animal +3, Heal +5, Knowledge (local) +7, Knowledge (religion) +7, Perception +5, Sense Motive +5, Survival +5;**Racial Modifiers** Appraise +2 (w/ metals and gemstones), Perception +2 (w/ unusual stonework)
+**Skills** Handle Animal +3, Heal +5, Knowledge (local) +7, Knowledge (religion) +7, Perception +5, Sense Motive +5, Survival +5; **Racial Modifiers** Appraise +2 (w/ metals and gemstones), Perception +2 (w/ unusual stonework)
 **Languages** Celestial, Common, Dwarven, Giant, Orc, Terran
 **Other Gear** masterwork battleaxe, throwing axe x5, chainmail, heavy steel shield, eventide outfit, filter scarf, backpack (50-ft. hemp rope, flint and steel, healer’s kit, small tent, trail rations x10, verminbite kit, winter blanket), belt pouch (5 gp in assorted coins), waterskin x2
 
@@ -1432,30 +1432,30 @@ This group consists of 2 initiate healers and 3 initiate shield-brothers. The sh
 
 XP 135
 N Diminutive magical beast
-**Init**+0;**Senses**arcanesense 30 ft., blindsight 10 ft.;**Perception** +4
+**Init** +0; **Senses** arcanesense 30 ft., blindsight 10 ft.; **Perception** +4
 
 **Defense**
-**AC**14,**touch**14,**flat-footed** 14 (+4 size)
+**AC** 14, **touch** 14, **flat-footed** 14 (+4 size)
 **hp** 5 (1d10)
-**Fort**+2,**Ref**+0,**Will** +0
+**Fort** +2, **Ref** +0, **Will** +0
 **Defensive Abilities** sealed mind, wind-tempered
 
 **Offense**
 **Speed** 5 ft.
 **Melee** bite +5 (1d2-5 plus attach)
-**Space**1 ft.;**Reach** 0 ft.
+**Space** 1 ft.; **Reach** 0 ft.
 **Special Attacks** mana siphon
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +1
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +1
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 1
-**Warp Sphere**–**DC**10;**Range**25 ft.;**Talents** Unseeing Teleport
+**Warp Sphere** – **DC** 10; **Range** 25 ft.; **Talents** Unseeing Teleport
 • teleport, touch, DC 10, 1 target, range is close (25 ft.) or medium (110 ft.) w/ 1 sp; Unseeing Teleport (does not need to see target location, +1 sp)
 
 **Combat**
-**Martial Tradition**Parasite (Boxing x1, Scout x2, Wrestling x1);**PAM** Wis
-**Boxing Sphere**–**DC** 10
+**Martial Tradition** Parasite (Boxing x1, Scout x2, Wrestling x1); **PAM** Wis
+**Boxing Sphere** – **DC** 10
 • counter punch (readied attack action w/ +2 damage) Scout Sphere – Talents Lurker
 • Lurker (unusual senses such as blindsight or tremorsense do not automatically foil your Stealth check)
 • scout (swift action, may identify a creature’s weaknesses with a Perception check, DC 15 + CR)
@@ -1466,10 +1466,10 @@ N Diminutive magical beast
 A wizard’s shackle attacks from ambush. Unlike most wizard’s shackles that tend to inhabit water, these inhabit the sandy desert letting themselves be pushed or buried by the wind until arcane spellcasters come within range of its arcanesense, at which time the wizard’s shackle utilizes the Warp sphere to teleport itself under the spellcaster’s protective clothing. A wizard’s shackle injects an anesthetic when it bites, so it is possible that its bite goes unnoticed (DC 12 Perception check to notice).
 
 **Statistics**
-**Str**1,**Dex**10,**Con**11,**Int**1,**Wis**11,**Cha** 2
-**Base Atk**+1;**CMB**-3 (+17 grapple when attached);**CMD**2 (22 vs. grapple when attached);**Psych DC** 11 (sealed mind)
+**Str** 1, **Dex** 10, **Con** 11, **Int** 1, **Wis** 11, **Cha** 2
+**Base Atk** +1; **CMB** -3 (+17 grapple when attached); **CMD** 2 (22 vs. grapple when attached); **Psych DC** 11 (sealed mind)
 **Feats** Weapon Finesse
-**Skills**Perception +4;**Associated Skills** Stealth +14
+**Skills** Perception +4; **Associated Skills** Stealth +14
 **SQ** sealed mind, wind-tempered
 
 **Special Abilities**
@@ -1503,34 +1503,34 @@ These three Diminutive magical beasts will generally wait silently and hidden un
 
 XP 200
 N Medium undead (augmented humanoid)
-**Init**+0;**Senses** darkvision 60 ft.; Perception +0
+**Init** +0; **Senses** darkvision 60 ft.; Perception +0
 
 **Defense**
-**AC**12,**touch**10,**flat-footed** 12 (+2 natural)
+**AC** 12, **touch** 10, **flat-footed** 12 (+2 natural)
 **hp** 12 (2d8+3)
-**Fort**+0,**Ref**+0,**Will** +2
-**DR**5/slashing;**Immune** undead traits
+**Fort** +0, **Ref** +0, **Will** +2
+**DR** 5/slashing; **Immune** undead traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +4 (1d6+4) or bite +0 (1d6+4)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 
 **Combat**
-**Martial Tradition**Drunken Brawler (Equipment x1, Barroom x2, Wrestling x1);**PAM** Cha
-**Barroom Sphere**–**Talents** Bloodsucker
+**Martial Tradition** Drunken Brawler (Equipment x1, Barroom x2, Wrestling x1); **PAM** Cha
+**Barroom Sphere** – **Talents** Bloodsucker
 • Bloodsucker; swift action, get drunk with successful bite attack
 • brutal breaker (proficient with improvised weapons)
 • hard drinker (gets drunk for 1 round, can drink as a move action)
-**Equipment Sphere**–**Talents** (discipline) Unarmed Training
+**Equipment Sphere** – **Talents** (discipline) Unarmed Training
 • Unarmed Training (discipline); can use weapons as unarmed strikes, proficient with the boot blade, brass knuckles, cestus, dan bong, emei piercer, gauntlet, katar, knuckle axe, punching dagger, rope gauntlet, sap, scizore, spiked gauntlet, and tekko-kagi
-**Wrestling Sphere**–**Talents** Powerslam
+**Wrestling Sphere** – **Talents** Powerslam
 • Powerslam; expend focus, may grapple instead of attack of opportunity; if successful, make a trip attack
 • snag** +4 touch (swift action, inflict battered condition)
 
 **Statistics**
-**Str**17,**Dex**10,**Con**—,**Int**—,**Wis**8,**Cha** 12
-**Base Atk**+1;**CMB**+4;**CMD**14;**Psych DC** 12 (mindless)
+**Str** 17, **Dex** 10, **Con** —, **Int** —, **Wis** 8, **Cha** 12
+**Base Atk** +1; **CMB** +4; **CMD** 14; **Psych DC** 12 (mindless)
 **Feats** Toughness
 **SQ** staggered
 
@@ -1557,7 +1557,7 @@ This trio of undead will shamble their way towards their target and take turns m
 ### Bad Air - Non-Flammable - CR 1
 
 XP 400
-**Type**environmental;**Survival DC** 25
+**Type** environmental; **Survival DC** 25
 
 **Description**
 The desert air feels thin and stretched, each step causes you to feel a bit more light-headed. In addition, you and your companions are having some difficulty keeping your eyes open or alert.
@@ -1570,7 +1570,7 @@ Nonmagical fires (such as lanterns or torches) must be relit each hour.
 ### Magnetized Ore - CR 2
 
 XP 600
-**Type**environmental;**Perception DC** 20
+**Type** environmental; **Perception DC** 20
 
 **Description**
 You begin to feel a slight tugging as you enter the area, some perhaps more than others. Within moments, some of you lose complete control over ferrous objects on your person as they are pulled forward by an invisible force.
@@ -1585,7 +1585,7 @@ Compasses (such as Wayfinders) instead grant their users a -4 penalty to navigat
 ### Misleading Path - CR 3
 
 XP 800
-**Type**environmental;**Survival DC** 25
+**Type** environmental; **Survival DC** 25
 
 **Description**
 Sand dunes shift and change as they are molded by the wind, revealing and obscuring curving pathways in multiple directions.
@@ -1600,7 +1600,7 @@ Survival checks made to avoid becoming lost take a -2d6 penalty.
 ### Plague of Flies - CR 2
 
 XP 600
-**Type**living;**Perception DC** 20
+**Type** living; **Perception DC** 20
 
 **Description**
 A black haze seems to drift in the wind. As it approaches, you are violently assaulted by thousands of biting flies as they swarm around you
@@ -1609,14 +1609,14 @@ A black haze seems to drift in the wind. As it approaches, you are violently ass
 Often harbingers of famine and decay, these swarms of flies spread disease and pestilence wherever their buzzing wings carry them. These insects typically form a cloud 20 feet across, made of tens of thousands of flies. This cloud moves at up to 10 feet per round, and obscures all sight (including darkvision) beyond 5 feet. Creatures 5 feet away have concealment (20% miss chance), and creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target). Moderate or stronger winds (Wind severity level 2 or higher) can temporarily disperse the cloud, but the flies reform 1d4+1 rounds later to continue their pursuit of carrion. Sphere talents and abilities that deal damage in an area (as opposed to a specific target), destroy the cloud of flies if they deal at least 10 points of damage. Creatures that spend at least 1 round in the cloud must succeed at a DC 13 Fortitude save or contract the shakes.
 
 **Shakes**
-**Type**disease, contact;**Save** Fortitude DC 13
-**Onset**1 day;**Frequency** 1/day
-**Effect**1d8 Dex damage;**Cure** 2 consecutive saves
+**Type** disease, contact; **Save** Fortitude DC 13
+**Onset** 1 day; **Frequency** 1/day
+**Effect** 1d8 Dex damage; **Cure** 2 consecutive saves
 
 ### Sand Pit - CR 1
 
 XP 400
-**Type**environmental;**Perception DC** 15
+**Type** environmental; **Perception DC** 15
 
 **Description**
 What appears to be a moderately sized, if not massive recess attached to a dune, suddenly shifts beneath your feet.
@@ -1627,7 +1627,7 @@ What appears to be a moderately sized, if not massive recess attached to a dune,
 ### Sand Pit, Spiked - CR 2
 
 XP 600
-**Type**environmental;**Perception DC** 15
+**Type** environmental; **Perception DC** 15
 
 **Description**
 A moderately sized recess of sand with obsidian boulders jutting out from beneath the surface, suddenly shifts beneath your feet, dragging you into the pit.
@@ -1637,7 +1637,7 @@ A moderately sized recess of sand with obsidian boulders jutting out from beneat
 
 ### Weather - Severity 3
 
-**Type**environmental;**Survival DC** 15
+**Type** environmental; **Survival DC** 15
 
 **Description**
 As is common in the eventide, the weather shifts making the trek a bit more inconvenient, if not hostile.
@@ -1659,7 +1659,7 @@ Fortitude save each hour (DC 15, +1 per previous check) or take 1d6 points of no
 
 ### Weather - Severity 4
 
-**Type**environmental;**Survival DC** 15
+**Type** environmental; **Survival DC** 15
 
 **Description**
 As is common in the eventide, the weather shifts making the trek moderately more hostile, if not dangerous.
@@ -1681,7 +1681,7 @@ Fortitude save each 10 minutes (DC 15, +1 per previous check) or take 1d6 points
 
 ### Weather - Severity 5
 
-**Type**environmental;**Survival DC** 15
+**Type** environmental; **Survival DC** 15
 
 **Description**
 As is common in the eventide, the weather shifts making the trek dramatically more dangerous, if not lethal
@@ -1704,7 +1704,7 @@ Powerful enough to bring down branches if not whole trees, windstorms automatica
 ### Witch Light - CR 1
 
 XP 400
-**Type**magical (illusion);**Perception** DC 10 (or DC 30 to reveal true nature as an illusion)
+**Type** magical (illusion); **Perception** DC 10 (or DC 30 to reveal true nature as an illusion)
 
 **Description**
 A flickering light about the size of a lantern or torch flame hovers in the distance, obviously in attempts of attracting attention. Whether the light’s intentions are for good or evil is unknown.

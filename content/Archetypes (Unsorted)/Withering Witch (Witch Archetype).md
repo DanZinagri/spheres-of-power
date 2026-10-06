@@ -9,7 +9,7 @@ updated: 2020-01-31
 
 The most core elements of the natural world are hunger and decay. The withering witch knows she is dying, like everyone else, but she does not deny the corruption of death. Instead, she harnesses it, imbuing everything with it.
 
-### Casting
+## Casting
 
 The withering witch may combine spheres and talents to create magical effects. The withering witch is considered a High-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
@@ -17,73 +17,73 @@ If the withering witch possesses a familiar, it works as a wizard’s familiar, 
 
 This replaces the spells class feature.
 
-### Spell Pool
+## Spell Pool
 
 The withering witch gains a small reservoir of energy she can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to her level + her casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A withering witch gains a magic talent each level.
 
-### Hexes
+## Hexes
 
 A withering witch’s hex DCs are equal to 10 + 1/2 class level + her casting ability modifier.
 
-### Corrupted Magic
+## Corrupted Magic
 
 The magic of the withering witch is different than the magic of others. The things she creates are darker and more twisted, and the effects she weaves more perverse and unholy. Whenever she uses a sphere ability or hex, she may corrupt it as a free action. This adds additional effects to the ability for the duration of the ability. She may use her corruption a number of times per day equal to 1/2 her class level + her casting ability modifier (minimum 1).
 
 A sphere ability or hex can receive any one of the following effects. No more than one corruption effect may be applied to a sphere ability.
 
-#### Brand
+### Brand
 
 The withering witch may corrupt a sphere ability or hex that causes a lasting effect on a willing subject. The sphere ability or hex takes the form of a blood brand on the allies forehead for its duration. Whenever a creature successfully hits the branded creature with a melee attack or combat maneuver, the corruption of the brand reaches out, and does fire damage to the attacking creature equal the withering witch’s casting ability modifier. A character may only have one brand at a time.
 
 At 11th level, the brand does damage to an attacker even if they fail in their attempt. This damage takes place before their attack can finish, and can cause the attack to fail (such as by killing the attacker).
 
-#### Contagion
+### Contagion
 
 The withering witch may corrupt a sphere ability or hex that requires a melee touch attack. On her next turn and each turn thereafter, the witch may make a ranged touch attack as a swift action to cause a corrupted sphere ability or hex to infect another creature adjacent to an affected creature. This may be a creature previously afflicted by the sphere ability. The new creature suffers from the affect as if they were an original target of the contagious ability. The withering witch may continue to do this for as long as there is at least one creature affected by the contagious ability. The duration of the sphere ability remains the same: when the original sphere ability would end, all creatures afflicted are cured.
 
 At 11th level, the withering witch may use this ability as an immediate action.
 
-#### Hunger
+### Hunger
 
 The withering witch may corrupt a sphere ability or hex that persists over an area, such as a darkness of the Dark sphere or a totem of the War sphere. The result is that the zone has a small amount of intelligence - just enough so that it can feel hunger. Whenever a creature with Hit Dice equal to or greater than half the caster level of the withering witch fails a saving throw or is reduced to 0 or fewer hit points against the hungry area, the zone grows by 5 feet (if it has a radius) or 2 squares (if it covers squares).
 
 At 11th level, whenever the hungry area grows, the DC to resist the zone’s effects increases by +1 to a maximum of +10.
 
-#### Mania
+### Mania
 
 The withering witch may corrupt a sphere ability or hex that has an ongoing mind-affecting effect. When a creature under the effect of that ability makes a d20 roll, she may expend an immediate action to glower at them. The creature takes a -2 penalty to that roll. She must have line of sight to the creature.
 
 At 11th level, the penalty increases to -4.
 
-#### Mutation
+### Mutation
 
 The withering witch may corrupt a sphere ability or hex that summons a creature (such as with the Conjuration or Death spheres) or polymorphs a creature (such as with the Alteration sphere). She can make it a more corrupted version of itself. It gains a +2 bonus to all physical attributes. This bonus increases by +2 every 6 levels, to a maximum of +8 at 19th level. The creature also receives a penalty to all mental attributes equal 1/2 the bonus to their physical attributes, rounded up. The witch may give a smaller bonus than the maximum bonus possible if desired.
 
-#### Ominous
+### Ominous
 
 The withering witch may corrupt a sphere ability or hex that creates a light or sound, such as a glow of the Light sphere or an illusion of the Illusion sphere. Enemies who see or hear the effect are shaken for 1 round the first time they are exposed to that effect.
 
 At 11th level, the shaken condition lasts 2 rounds.
 
-#### Parasitism
+### Parasitism
 
 The withering witch may corrupt a sphere ability or hex that causes ongoing bleed damage. While the bleed damage is in effect, she gains damage reduction equal to the bleed damage, up to a maximum equal to her class level. If the bleed damage is random, treat it as the maximum damage possible. Damage reduction from multiple enemies does not stack; only the highest value matters.
 
-#### Sadism
+### Sadism
 
 The withering witch may corrupt a sphere ability or hex that causes damage and has no duration beyond instantaneous, and can increase the pain and suffering caused. Those who are damaged by the ability or hex take an additional amount of nonlethal damage equal to twice the withering witch’s class level. This happens once, when the corrupted ability or hex takes initial effect. This extra damage can not exceed the damage done by the ability itself.
 
-#### Toxicity
+### Toxicity
 
 The withering witch may corrupt a sphere ability or hex that requires a touch attack. In addition to the normal effects of the attack, the target receives a -2 penalty to their saving throws for 1 minute.
 
 At 11th level, this penalty increases to -4. This takes effect after the sphere ability or hex that the melee touch attack delivered takes effect, and does not stack with itself.
 
-#### Venom
+### Venom
 
 The withering witch may corrupt a sphere ability or hex that creates non-living physical matter, such as with the Creation sphere, a barrier from the Protection sphere, or matter created by certain blast types of the Destruction sphere. It is innately poisonous, and any creature other than the witch that comes into contact with it must succeed at a Fortitude save with a DC equal to 10 + 1/2 her class level + her casting ability modifier or be poisoned. Treat this as a contact poison with instant onset that does 1d6 damage with a frequency period of 1 round and a duration in rounds equal to the withering witch’s casting ability modifier. A single successful Fortitude saving throw cures the poison. Although living matter cannot be corrupted with this ability, matter which has been made poisonous can still be animated by other means. For every 5 levels after the first, increase the damage the poison does by 1d6, to a maximum of 4d6 at 16th level.
 
@@ -91,39 +91,39 @@ This replaces patron spells.
 
 ---
 
-### Withering Hexes
+## Withering Hexes
 
 The withering witch gains exclusive access to the following witch hexes:
 
-#### Black Blood (Ex) (Major Hex)
+### Black Blood (Ex) (Major Hex)
 
 You are healed by negative energy, as if you were undead. This does not change how positive energy affects you.
 
-#### Corrupting Touch (Ex)
+### Corrupting Touch (Ex)
 
 You gain the touch of corruption ability of an antipaladin of equal level, and may heal undead with a touch. Each use of your touch of corruption ability expends a use of your corruption ability. If you are healed by negative energy, you may expend a swift action to heal yourself.
 
-#### Dark Anathema (Su)
+### Dark Anathema (Su)
 
 You gain the Anathema feat, even if you do not meet the prerequisites. You may use your anathema ability by expending uses of your corruption ability, but when you do, your anathema does negative energy damage, but only affects those with the good descriptor or with a good alignment. You qualify for other Anathema feats.
 
-#### Dripping Black (Ex)
+### Dripping Black (Ex)
 
 When you make an attack with a natural weapon, you may poison the creature. The poison works as if the target had made contact with an object corrupted with the venom corruption.
 
-#### Perversion (Su)
+### Perversion (Su)
 
 Whenever you damage a creature with your corruption, they must succeed at a Will save or their alignment moves step towards your alignment for 1 minute. This stacks with itself, but will not cause characters to lose class features (as it is only temporary) but can influence behavior that might cause them to lose class features. The movement is only along one axis (law-chaos or good-evil) and the withering witch may choose which axis takes precedence if there is a difference in alignment in both directions.
 
-#### Unholy Ritual (Ex)
+### Unholy Ritual (Ex)
 
 By spending one minute chanting, you may spend 1 spell point to regain a use of your corruption ability. You may do this multiple times, consecutively or separately.
 
-#### Wave of Darkness (Su)
+### Wave of Darkness (Su)
 
 You may expend 2 uses of your corruption to channel negative energy as a cleric of equal level. The DC for your channeling is determined by your casting ability modifier. You qualify for channeling feats.
 
-#### Whispered Word (Ex)
+### Whispered Word (Ex)
 
 When an adjacent ally uses a sphere ability, you may spend an immediate action to corrupt it. The corruption still uses your class level and casting ability modifier to determine its effects.
 

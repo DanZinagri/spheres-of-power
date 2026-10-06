@@ -35,7 +35,7 @@ This specific creature constantly and successfully betrays his apparent allegian
 
 **Unfriendly Fire (Ex):** Once per round upon a successful Reflex save, a betrayal creature can effectively use an adjacent creature that thinks the betrayer is its ally as a shield. The betrayer takes no damage from a single attack while the ally suffers full damage (no save).
 
-**Abilities:** Increase from the base creature as follows:**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs)
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +4 (+2 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs)
 
 **Skills:** The base creature gains a +8 racial bonus on Bluff and Diplomacy checks.
 

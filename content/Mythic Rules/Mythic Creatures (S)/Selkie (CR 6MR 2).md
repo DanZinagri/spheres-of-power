@@ -10,14 +10,14 @@ parent: "[[Mythic Creatures (S)]]"
 **Selkie, Mythic (CR 6/MR 2)**
 XP 2,400
 CN Medium monstrous humanoid (aquatic, mythic, shapechanger)
-**Init**+7;**Senses** darkvision 60 ft., scent; Perception +9
+**Init** +7; **Senses** darkvision 60 ft., scent; Perception +9
 
 #### Defense
 
-**AC**20,**touch**13,**flat-footed** 17 (+3 Dex, +7 natural)
+**AC** 20, **touch** 13, **flat-footed** 17 (+3 Dex, +7 natural)
 **hp** 65 (6d10+32)
-**Fort**+4,**Ref**+8,**Will** +5
-**Defensive Abilities**DR 5/epic;**Resist** cold 10
+**Fort** +4, **Ref** +8, **Will** +5
+**Defensive Abilities** DR 5/epic; **Resist** cold 10
 
 #### Offense
 
@@ -31,8 +31,8 @@ CN Medium monstrous humanoid (aquatic, mythic, shapechanger)
 
 #### Statistics
 
-**Str**18,**Dex**17,**Con**14,**Int**13,**Wis**10,**Cha** 21
-**Base Atk**+6;**CMB**+10;**CMD** 23 (can’t be tripped)
+**Str** 18, **Dex** 17, **Con** 14, **Int** 13, **Wis** 10, **Cha** 21
+**Base Atk** +6; **CMB** +10; **CMD** 23 (can’t be tripped)
 **Feats** Combat Reflexes, DeceitfulMF, Improved Critical (bite)B, Improved Initiative
 **Skills** Bluff +15, Disguise +13, Perception +9, Sense Motive +4, Stealth +10, Swim +21
 **Languages** Aquan, Common

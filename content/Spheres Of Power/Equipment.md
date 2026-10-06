@@ -14,7 +14,7 @@ This page includes basic equipment and gear, as well as packs and kits that char
 
 #### Kit, Academy
 
-**Price**30 gp;**Weight** 15 lbs
+**Price** 30 gp; **Weight** 15 lbs
 
 While not mandatory, most junior students receive in their acceptance letter a list of recommended items, most commonly referred to as the Academy Kit. GM’s are encouraged to include other additional options to the kit, as they deem fit. This kit includes ink, an inkpen, a spell component pouch, scholar’s outfit (3), parchment (50).
 
@@ -33,7 +33,7 @@ For an additional 10 gp, this kit may include any one of the following:
 
 #### Kit, Lycanthrope Hunter’s
 
-**Price**80 gp;**Weight** 4 lbs.
+**Price** 80 gp; **Weight** 4 lbs.
 
 This sturdy leather case straps to the waist or thigh, or can be slung over a shoulder. It consists of a leather pouch, 5 doses of wolfsbane, 5 doses of weapon blanche (silver), 1 dose of deodorizing agent, and an alchemical silver dagger.
 
@@ -43,13 +43,13 @@ This sturdy leather case straps to the waist or thigh, or can be slung over a sh
 
 #### Lightning Rod
 
-**Price**50 gp;**Weight** 2 lb.
+**Price** 50 gp; **Weight** 2 lb.
 
 A lightning rod protects a permanent structure anchored to the ground from lightning. The structure becomes completely immune to electricity damage and any lightning bolts (whether from natural or magical storms, but not directly from spells or sphere abilities such as lightning bolt or destructive blast) that would strike within 25 ft. of the structure have a 50% chance of instead striking the building and thus having no effect. Exceptionally large structures (larger than 60 ft. on any side) may require more than one lightning rod to protect them.
 
 #### Storm Shelter
 
-**Price**50 gp + the cost of excavating and furnishing the shelter;**Weight** –.
+**Price** 50 gp + the cost of excavating and furnishing the shelter; **Weight** –.
 
 A storm shelter is a below-ground space with special reinforcement and doors that protect the inhabitants of the surrounding building even if the entire structure is destroyed. The entire shelter must be below ground, there cannot be windows, and the door must be flush with the surface, but otherwise the inside may be as simple or elaborate as desired. The shelter and its door never take damage from weather effects.
 
@@ -67,7 +67,7 @@ A skyrider falls one altitude band every round if it is moving at a speed slower
 
 **Large Cloth Air Vehicle (aerodynamic, covered)**
 **Space** 1 vehicle space; Cost 740 gp
-**Size**1.5 Hardpoints;**Hull** 0.5 Hardpoint
+**Size** 1.5 Hardpoints; **Hull** 0.5 Hardpoint
 
 **Defense**
 **Sails** 8 AC (+5 Dodge, -1 Size); 30 hp, Hardness 0
@@ -75,14 +75,14 @@ A skyrider falls one altitude band every round if it is moving at a speed slower
 
 **Offense**
 **Attack** ram (3d8)
-**CMB**+1;**CMD** 11
+**CMB** +1; **CMD** 11
 **Speed** 5 (w/ wind: +1 per severity level)
 **Acceleration** 3
 **Maneuverability** Good
 
 **Drive**
 Propulsion Silk Sails (1 Hardpoint, 30 hp); Power 2 (w/ wind: +1/2 per severity level)
-**Mass**1/2 Hardpoint;**Weight** 0
+**Mass** 1/2 Hardpoint; **Weight** 0
 **Controlling Device** None
 **Driving Space** Any
 **Required Crew** 1 (pilot)
@@ -123,34 +123,34 @@ When a caster makes frequent use of planar power components as foci for their ma
 
 #### Brimstone Briquette [RW HB]
 
-**Price**60 gp;**Weight** –
+**Price** 60 gp; **Weight** –
 
 A compact cluster of the infernal, everburning stone has been extinguished and refined into a potent fuel source for both ovens and stoves as well as incendiary magics.
 
 **Power Component**
-**Doses**1 (60 gp);**Focus**10 (600 gp);**Spells** spells which cause targets to catch fire
+**Doses** 1 (60 gp); **Focus** 10 (600 gp); **Spells** spells which cause targets to catch fire
 
 **Effect** When you use a brimstone briquette as a material component or focus for a spell or sphere effect which causes affected targets to catch fire, increase the burning damage dealt each round to a burning target by +2 and the Reflex save to extinguish the flames by +1.
 
 #### Inversion Prism [RW HB]
 
-**Price**75 gp;**Weight** –
+**Price** 75 gp; **Weight** –
 
 This wavy, translucent prism of glass-like stone seems to block light coming in from one side, but not the other. Its energies like the sparse portals which exist between positive and negative- aligned planes.
 
 **Power Component**
-**Doses**1 (75 gp);**Focus**30 (2,250 gp);**Spells** dark or light spells
+**Doses** 1 (75 gp); **Focus** 30 (2,250 gp); **Spells** dark or light spells
 
 **Effect** When you use an inversion prism as a material component or focus for a spell or sphere effect with the dark or light descriptor, increase the DC of that spell or sphere effect’s saving throws by +1.
 
 #### Iridium Jellenate [RW HB]
 
-**Price**100 gp;**Weight** –
+**Price** 100 gp; **Weight** –
 
 Iridium jellenate is a condensed, metallised substance which, over time, hardens to be one of the most dense and sturdy materials on an earth-aligned plane. It is a popular but expensive material to line building foundations with to ensure they can survive seismic activity.
 
 **Power Component**
-**Doses**1 (100 gp);**Focus**10 (1,000 gp);**Spells** object-creating spells
+**Doses** 1 (100 gp); **Focus** 10 (1,000 gp); **Spells** object-creating spells
 
 **Effect** When you use iridium jellenate as a material component or focus for a spell or sphere effect which creates one or more objects with hit points (such as from the creation subschool or Creation sphere), increase the hardness of each created object by +1 (an object without hardness is treated as having hardness 0 for this purpose).
 
@@ -158,23 +158,23 @@ Iridium jellenate is a condensed, metallised substance which, over time, hardens
 
 #### Living Mossrock [RW HB]
 
-**Price**50 gp;**Weight** –
+**Price** 50 gp; **Weight** –
 
 A living mossrock is a strange, thrumming stone which seems to teem with vibrant, lush moss to the touch which are commonly found in areas with strong fey presence.
 
 **Power Component**
-**Doses**1 (50 gp);**Focus**20 (1,000 gp);**Spells** polymorph spells or Fallen Fey sphere effects
+**Doses** 1 (50 gp); **Focus** 20 (1,000 gp); **Spells** polymorph spells or Fallen Fey sphere effects
 
 **Effect** When you use a living mossrock as a material component or focus for a spell or sphere effect with the polymorph descriptor or a Fallen Fey sphere effect, treat the spell or sphere effect’s caster level as if it were 1 higher for the purposes of duration.
 
 #### Lodestone Geode [RW HB]
 
-**Price**50 gp;**Weight** –
+**Price** 50 gp; **Weight** –
 
 This geode is a lattice of ultra-dense magnetic minerals which forms in deep caverns found on earth-aligned planes.
 
 **Power Component**
-**Doses**1 (50 gp);**Focus**15 (750 gp);**Spells** spells which perform combat maneuvers
+**Doses** 1 (50 gp); **Focus** 15 (750 gp); **Spells** spells which perform combat maneuvers
 
 **Effect** When you use a lodestone geode as a material component or focus for a spell or sphere effect which performs a combat maneuver against affected targets, you gain a +2 bonus on that combat maneuver.
 
@@ -182,23 +182,23 @@ This geode is a lattice of ultra-dense magnetic minerals which forms in deep cav
 
 #### Mother Pearlite [RW HB]
 
-**Price**300 gp;**Weight** –
+**Price** 300 gp; **Weight** –
 
 Mother pearlite is a unique geological formation formed from the condensate shells which slowly break down at the bottom of water-aligned magic lakes, rivers, and seabeds.
 
 **Power Component**
-**Doses**1 (300 gp);**Focus**5 (1,500 gp);**Spells** any
+**Doses** 1 (300 gp); **Focus** 5 (1,500 gp); **Spells** any
 
 **Effect** When you use a mother pearlite as a material component or focus for any spell or sphere effect, that spell or sphere effect is affected as per the Aquatic Spell metamagic feat (this does not increase the spell slot or spell points required for that effect). However, the spell or sphere effect’s caster level is treated as 1 lower for the purposes of duration and range (minimum caster level 1).
 
 #### Warding Agate [RW HB]
 
-**Price**75 gp;**Weight** –
+**Price** 75 gp; **Weight** –
 
 The many twinkling layers of this gemstone mimics the great wards and barriers of illustrious mage citadels, a natural formation that mirrors magic innovations.
 
 **Power Component**
-**Doses**1 (75 gp);**Focus**15 (1,125 gp);**Spells** spells which grants an armor, deflection, natural armor, or shield bonus to AC
+**Doses** 1 (75 gp); **Focus** 15 (1,125 gp); **Spells** spells which grants an armor, deflection, natural armor, or shield bonus to AC
 
 **Effect** When you use a warding agate as a material component or focus for a spell or sphere effect that grants the target an armor, deflection, natural armor, or shield bonus to AC, each affected target gains 5 temporary hit points which last for the effect’s duration. A warding agate’s effects also apply to effects which indirectly improve the target’s armor, deflection, natural armor, or shield bonus to AC (such as using the Enhancement sphere enhance ability to improve a target’s armor enhancement bonus).
 

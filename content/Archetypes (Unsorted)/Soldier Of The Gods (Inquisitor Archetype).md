@@ -11,13 +11,13 @@ updated: 2020-01-30
 
 ---
 
-### Weapon and Armor Proficiencies
+## Weapon and Armor Proficiencies
 
 The soldier of the gods is proficient with simple weapons and the favored weapon of her deity, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters weapon and armor proficiencies.
 
-### Combat Training (Ex)
+## Combat Training (Ex)
 
 A soldier of the gods is considered an Adept practitioner, gaining spheres and talents as appropriate. A soldier of the gods uses her casting ability modifier as his practitioner modifier.
 

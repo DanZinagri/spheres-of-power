@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (G)]]"
 XP 2,400
 Pathfinder Roleplaying Game Bestiary 3
 CE Medium undead (mythic, shapechanger)
-**Init**+2;**Senses** darkvision 60 ft.; Perception +15
+**Init** +2; **Senses** darkvision 60 ft.; Perception +15
 
 #### Defense
 
-**AC**20,**touch**12,**flat-footed** 18 (+2 Dex, +8 natural)
+**AC** 20, **touch** 12, **flat-footed** 18 (+2 Dex, +8 natural)
 **hp** 67 (6d8+40)
-**Fort**+8,**Ref**+4,**Will** +7
-**Defensive Abilities**DR 5/good and epic;**Immune**undead traits;**Resist** fire 10
+**Fort** +8, **Ref** +4, **Will** +7
+**Defensive Abilities** DR 5/good and epic; **Immune** undead traits; **Resist** fire 10
 
 #### Offense
 
@@ -28,10 +28,10 @@ CE Medium undead (mythic, shapechanger)
 
 #### Statistics
 
-**Str**24,**Dex**15,**Con**—,**Int**14,**Wis**15,**Cha** 18
-**Base Atk**+4;**CMB**+10;**CMD** 22
+**Str** 24, **Dex** 15, **Con** —, **Int** 14, **Wis** 15, **Cha** 18
+**Base Atk** +4; **CMB** +10; **CMD** 22
 **Feats** Great Fortitude, Power AttackMF, Step Up
-**Skills**Bluff +10, Climb +19, Diplomacy +7, Disguise +11, Intimidate +11, Perception +15, Stealth +11, Survival +8 (+16 when following tracks);**Racial Modifiers** +4 Perception, +8 Survival when following tracks
+**Skills** Bluff +10, Climb +19, Diplomacy +7, Disguise +11, Intimidate +11, Perception +15, Stealth +11, Survival +8 (+16 when following tracks); **Racial Modifiers** +4 Perception, +8 Survival when following tracks
 **Languages** Common, one elemental language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal)
 **SQ** change shape (hyena or dire hyena; does not detect as undead in this form; beast shape II), clinging fogMA, genie-kin, pack leaderMA
 

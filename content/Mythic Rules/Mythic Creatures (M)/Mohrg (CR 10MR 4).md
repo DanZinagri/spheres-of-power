@@ -13,14 +13,14 @@ A thick tangle of discolored entrails clings to this lurching skeleton’s torso
 XP 9,600
 Pathfinder Roleplaying Game Bestiary
 CE Medium undead (mythic)
-**Init**+12MF;**Senses** darkvision 60 ft.; Perception +23
+**Init** +12MF; **Senses** darkvision 60 ft.; Perception +23
 
 #### Defense
 
-**AC**28,**touch**16,**flat-footed** 22 (+5 Dex, +1 dodge, +12 natural)
+**AC** 28, **touch** 16, **flat-footed** 22 (+5 Dex, +1 dodge, +12 natural)
 **hp** 123 (14d8+60)
-**Fort**+6,**Ref**+11,**Will** +9
-**Defensive Abilities**DR 10/epic;**Immune** undead traits
+**Fort** +6, **Ref** +11, **Will** +9
+**Defensive Abilities** DR 10/epic; **Immune** undead traits
 
 #### Offense
 
@@ -30,8 +30,8 @@ CE Medium undead (mythic)
 
 #### Statistics
 
-**Str**23,**Dex**21,**Con**—,**Int**11,**Wis**10,**Cha** 14
-**Base Atk**+10;**CMB**+16 (+20 grapple);**CMD** 32
+**Str** 23, **Dex** 21, **Con** —, **Int** 11, **Wis** 10, **Cha** 14
+**Base Atk** +10; **CMB** +16 (+20 grapple); **CMD** 32
 **Feats** Ability Focus (paralysis), Dodge, Improved InitiativeMF, Lightning Reflexes, Mobility, Skill Focus (Perception), Spring AttackMF
 **Skills** Climb +23, Perception +23, Stealth +22, Swim +20
 **SQ** gifted murdererMA

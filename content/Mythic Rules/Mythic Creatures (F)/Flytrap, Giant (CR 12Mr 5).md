@@ -13,28 +13,28 @@ This towering plant is a mass of vines and barbs. Several stalks are horribly mo
 XP 19,200
 Pathfinder Roleplaying Game Bestiary
 N Huge plant (mythic)
-**Init**+9;**Senses** low-light vision, tremorsense 60 ft.; Perception +10
+**Init** +9; **Senses** low-light vision, tremorsense 60 ft.; Perception +10
 
 #### Defense
 
-**AC**28,**touch**13,**flat-footed** 23 (+5 Dex, +15 natural, –2 size)
+**AC** 28, **touch** 13, **flat-footed** 23 (+5 Dex, +15 natural, –2 size)
 **hp** 189 (13d8+131)
-**Fort**+15,**Ref**+9,**Will** +5
-**Defensive Abilities**acidic sapMA; DR 10/epic;**Immune**plant traits;**Resist** acid 20
+**Fort** +15, **Ref** +9, **Will** +5
+**Defensive Abilities** acidic sapMA; DR 10/epic; **Immune** plant traits; **Resist** acid 20
 
 #### Offense
 
 **Speed** 10 ft.
 **Melee** 4 bites +16 (1d8+8 plus grab), 4 tentaclesMA +13 (1d6+4)
-**Space**15 ft.;**Reach** 15 ft. (20 ft. with tentacles)
+**Space** 15 ft.; **Reach** 15 ft. (20 ft. with tentacles)
 **Special Attacks** allureMA, engulf, feral savageryMA (Vital Strike), mythic power (5/day, surge +1d8)
 
 #### Statistics
 
-**Str**27,**Dex**20,**Con**25,**Int**1,**Wis**12,**Cha** 6
-**Base Atk**+9;**CMB**+19 (+23 grapple);**CMD** 34 (can’t be tripped)
+**Str** 27, **Dex** 20, **Con** 25, **Int** 1, **Wis** 12, **Cha** 6
+**Base Atk** +9; **CMB** +19 (+23 grapple); **CMD** 34 (can’t be tripped)
 **Feats** CleaveMF, Improved Initiative, Multiattack, Power AttackMF, Skill Focus (Stealth), Vital StrikeMF, Weapon Focus (bite)
-**Skills**Perception +10, Stealth +10 (+18 in undergrowth);**Racial Modifiers** +8 Stealth in undergrowth
+**Skills** Perception +10, Stealth +10 (+18 in undergrowth); **Racial Modifiers** +8 Stealth in undergrowth
 **SQ** camouflageMA, digestive sustenanceMA
 
 #### Ecology

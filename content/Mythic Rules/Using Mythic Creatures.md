@@ -117,7 +117,7 @@ A 5-foot patch of mythic green slime deals 1d8 points of Constitution damage per
 
 Creatures not native to underground regions where phosphorescent fungus is common are sensitive to the spore emissions given off by the fungus and are often fascinated by the eerily shifting patterns of light they see. Such creatures must succeed at a Fortitude save each day or portion thereof that they spend within 60 feet of mythic phosphorescent fungus or develop phosphor cataracts. Creatures native to such regions or that spend at least one week in them become acclimated to the mind-rotting effects of mythic phosphorescent fungus and do not need to make further saves unless they are already infected with phosphor cataracts; once the disease is cured, they are immune. Non-native creatures lose their immunity if they are away from the fungus for more than one week.
 
-*Phosphor cataracts:* Disease—inhaled; **save**Fort DC 12;**onset**1 day;**frequency**1/day;**effect**1d2 Wis damage and light sensitivity (or light blindness) if they already have light sensitivity);**cure** 2 consecutive saves.
+*Phosphor cataracts:* Disease—inhaled; **save** Fort DC 12; **onset** 1 day; **frequency** 1/day; **effect** 1d2 Wis damage and light sensitivity (or light blindness) if they already have light sensitivity); **cure** 2 consecutive saves.
 
 **Destruction:** 5 points of fire damage
 
@@ -209,7 +209,7 @@ When this resinous compound of myrrh, wormwood, musk, and herbs is burned (a ful
 
 If the user expends one use of mythic power, the radius of the incense’s effect is increased by 10 feet and the vapors persist for a number of minutes equal to 1 plus the user’s mythic tier.
 
-**Craft DC**22;**Time**1 hour;**Price** 120 gp
+**Craft DC** 22; **Time** 1 hour; **Price** 120 gp
 
 #### Powder of Abn Ghauzi
 
@@ -217,7 +217,7 @@ This mystical formulation of grave dust, amaranth, ivy, salt, and powdered lead 
 
 If the user expends one use of mythic power, the duration of the powder’s effect is increased by a number of rounds equal to his mythic tier, and any mythos creatures in the area when the powder is used become dazzled for the duration.
 
-**Craft DC**25;**Time**1 day;**Price** 180 gp
+**Craft DC** 25; **Time** 1 day; **Price** 180 gp
 
 #### Space Mead
 
@@ -225,7 +225,7 @@ This distilled draught must be brewed in copper and infused with tinctures of al
 
 If the user expends one use of mythic power when ingesting the space mead, its effects last for the duration of the creature’s spaceflight, regardless of how long it lasts.
 
-**Craft DC**30;**Time**1 day;**Price** 300 gp
+**Craft DC** 30; **Time** 1 day; **Price** 300 gp
 
 #### Unguent of Khefnis
 
@@ -235,7 +235,7 @@ If the user of unguent of Khefnis goes to sleep with a contact other plane, divi
 
 If the user expends one use of mythic power, he adds his mythic tier to the percentage chance of a successful divination, whether from the unguent itself or from sleeping with the spell prepared.
 
-**Craft DC**20;**Time**1 day;**Price** 75 gp
+**Craft DC** 20; **Time** 1 day; **Price** 75 gp
 
 ### Related Abilities
 
@@ -284,8 +284,8 @@ There are several ways in which an evil spellcaster can fully or partially overc
 
 #### Qlippoth Talismans
 
-**Aura**Moderate or strong conjuration (chaos, evil);**CL**varies;**Weight** —;
-**Price**varies:** Augnagar**130,000 gp;**Chernobue**110,000 gp;**Cythnigot**30,000 gp;**Gongorinan**100,000 gp;**Hydraggon**40,000 gp;**Iathovos**170,000 gp;**Nyogoth**80,000 gp;**Shoggti**60,000 gp;**Thulgant**150,000 gp;**Ylyrgoi** 120,000 gp
+**Aura** Moderate or strong conjuration (chaos, evil); **CL** varies; **Weight** —;
+**Price** varies: **Augnagar** 130,000 gp; **Chernobue** 110,000 gp; **Cythnigot** 30,000 gp; **Gongorinan** 100,000 gp; **Hydraggon** 40,000 gp; **Iathovos** 170,000 gp; **Nyogoth** 80,000 gp; **Shoggti** 60,000 gp; **Thulgant** 150,000 gp; **Ylyrgoi** 120,000 gp
 
 Each of the several kinds of qlippoth talisman is a tiny shard of stone several inches long upon which is inscribed a strange symbol that, with a successful DC 30 Knowledge (planes) or Linguistics check, can be recognized as being an ancient Abyssal rune associated with one type of qlippoth. When a talisman is held or worn, it provides advantages related to the conjuration and control of qlippoth, as well as other powers if the possessor makes certain sacrifices or willingly deforms her own body. A nonevil creature that holds, wears, or otherwise touches a qlippoth talisman is sickened for the duration.
 
@@ -333,7 +333,7 @@ The possessor of an ylyrgoi talisman adds the ylyrgoi to the list of creatures s
 
 #### Construction Requirements
 
-**Cost**varies:** Augnagar**65,000 gp;**Chernobue**55,000 gp;**Cythnigot**15,000 gp;**Gongorinan**50,000 gp;**Hydraggon**20,000 gp;**Iathovos**85,000 gp;**Nyogoth**40,000 gp;**Shoggti**30,000 gp;**Thulgant**75,000 gp;**Ylyrgoi**60,000 gp;**Craft Wondrous Item**, various spells (see text), creator must be evil
+**Cost** varies: **Augnagar** 65,000 gp; **Chernobue** 55,000 gp; **Cythnigot** 15,000 gp; **Gongorinan** 50,000 gp; **Hydraggon** 20,000 gp; **Iathovos** 85,000 gp; **Nyogoth** 40,000 gp; **Shoggti** 30,000 gp; **Thulgant** 75,000 gp; **Ylyrgoi** 60,000 gp; **Craft Wondrous Item**, various spells (see text), creator must be evil
 
 ---
 

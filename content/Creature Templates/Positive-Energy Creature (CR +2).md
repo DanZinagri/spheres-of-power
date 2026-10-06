@@ -18,7 +18,7 @@ Living creatures are inherently linked to the Positive Energy Plane, and this bo
 
 **Speed:** Each speed of a base creature is doubled when it acquires the positive-energy creature template.
 
-**Defenses/Qualities:** regeneration (equal to the positive-energy creatures Constitution modifier, negated by necromancy and cold);**Immune**to acid, electricity, fire, sonic, and temporary hit points;**Weakness** vulnerability to cold and necromancy
+**Defenses/Qualities:** regeneration (equal to the positive-energy creatures Constitution modifier, negated by necromancy and cold); **Immune** to acid, electricity, fire, sonic, and temporary hit points; **Weakness** vulnerability to cold and necromancy
 
 **Attacks:** Positive energy creature's attacks do not deal damage instead they heal their foes or, if the foe is fully healed, it gains temporary hit points.
 
@@ -32,7 +32,7 @@ Living creatures are inherently linked to the Positive Energy Plane, and this bo
 
 **Obscuring Energy (Su):** Brilliant positive energy plays about the body of a positive-energy creature, obscuring its form and providing it with concealment. Thus, attacks against it suffer a 20% miss chance.
 
-**Abilities:** Increase from the base creature as follows: Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +4 to CMD),**Dex**+4 ( +2 to Ranged attack rolls; AC and touch AC, Initiative, and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs),**Con** +8 (+4 hp per HD, +4 to Fortitude saves, fascinating aura, energy instill, and any of the base creature’s Constitution-based DCs).
+**Abilities:** Increase from the base creature as follows: Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +4 to CMD), **Dex** +4 ( +2 to Ranged attack rolls; AC and touch AC, Initiative, and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs), **Con** +8 (+4 hp per HD, +4 to Fortitude saves, fascinating aura, energy instill, and any of the base creature’s Constitution-based DCs).
 
 **Feats:** If a positive energy creature has the Channel Energy class feature it gains Extra Channel, Improved Channel, and Turn Undead, as bonus feats.
 

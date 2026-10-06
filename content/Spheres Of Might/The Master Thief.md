@@ -14,13 +14,13 @@ The Master Thief is a first-level sample character for Spheres of Might, suitabl
 **The Master Thief**
 Human [[Technician|technician]] 1
 N Medium humanoid (human)
-**Init**+5;**Senses** Perception +5 (+6 To Locate Traps)
+**Init** +5; **Senses** Perception +5 (+6 To Locate Traps)
 
 ## Defense
 
-**AC**16,**touch**13,**flat-footed** 13 (+3 armor, +3 Dex)
+**AC** 16, **touch** 13, **flat-footed** 13 (+3 armor, +3 Dex)
 **hp** 9 (1d8+1)
-**Fort**+1,**Ref**+5,**Will** +2
+**Fort** +1, **Ref** +5, **Will** +2
 
 ## Offense
 
@@ -33,8 +33,8 @@ N Medium humanoid (human)
 
 ## Statistics
 
-**Str**10,**Dex**16,**Con**12,**Int**18,**Wis**10,**Cha** 8
-**Base Atk**+0;**CMB**+0 (+3 Dirty Trick/Steal);**CMD** 13
+**Str** 10, **Dex** 16, **Con** 12, **Int** 18, **Wis** 10, **Cha** 8
+**Base Atk** +0; **CMB** +0 (+3 Dirty Trick/Steal); **CMD** 13
 **Feats** Extra Combat Talent (Barrage sphere), Extra Combat Talent (Equipment: Expert Reloading)
 **Traits** reactionary, seeker
 **Skills** Appraise +8, Bluff +3, Craft (traps) +8, Diplomacy +3, Disable Device +7, Knowledge (dungeoneering) +8, Knowledge (engineering) +8, Knowledge (geography) +8, Knowledge (local) +8, Perception +5 (+6 To Locate Traps), Profession (trapper) +4, Sense Motive +4, Sleight of Hand +6 (+8 to Conceal Weapon On Yourself), Stealth +6, Use Magic Device +3

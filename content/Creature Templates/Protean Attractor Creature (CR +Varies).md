@@ -18,7 +18,7 @@ Beings of pure chaos, the serpentine proteans slither about in the maelstrom of 
 
 **Alignment:** Chaotic Neutral. A protean attractor creature radiates a chaos aura as if it were a chaotic outsider.
 
-**Defensive Abilities:** freedom of movement (continuous, CL equal to HD); DR 5/lawful (if the protean attractor creature is CR 10 or higher this becomes DR 10/lawful, if CR 15 or higher this becomes DR 15/epic);**Immune**acid,**Resist**electricity 10 and sonic 10. SR 12 + CR.** Weakness** Vulnerability to Lawful (suffer +50% damage from a lawful aligned weapon or effect with the lawful descriptor)
+**Defensive Abilities:** freedom of movement (continuous, CL equal to HD); DR 5/lawful (if the protean attractor creature is CR 10 or higher this becomes DR 10/lawful, if CR 15 or higher this becomes DR 15/epic); **Immune** acid, **Resist** electricity 10 and sonic 10. SR 12 + CR. **Weakness** Vulnerability to Lawful (suffer +50% damage from a lawful aligned weapon or effect with the lawful descriptor)
 
 **Speed:** A protean attractor gains a fly speed equal to its base speed.
 

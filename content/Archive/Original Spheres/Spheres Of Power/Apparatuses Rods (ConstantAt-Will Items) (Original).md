@@ -15,8 +15,8 @@ Apparatuses are talent-based magic items that require no activation except to ho
 
 #### Arcane Orrery
 
-**Aura**moderate Illusion;**CL** 10
-**Slot**none;**Price**10,000 gp;**Weight** 5
+**Aura** moderate Illusion; **CL** 10
+**Slot** none; **Price** 10,000 gp; **Weight** 5
 **Description**
 This small leather case can be opened to reveal illusory floating spheres orbiting each other in an indiscernible pattern, tied together with magical texts flowing and shifting, describing their relationships to each other. Setting up the arcane orrery is a standard action. Using it while researching a new ritual or spellcrafting a new spell grants a +5 insight bonus on Spellcraft checks to create the ritual or spell.
 **Construction Requirements**
@@ -24,8 +24,8 @@ Craft Apparatus, Craft Ritual or Spellcrafting feats; **Cost** 5,000 gp.
 
 #### Animate Wand Bracers
 
-**Aura**faint Enhancement and Mind;**CL** 5
-**Slot**wrist;**Price**4,200 gp;**Weight** 1 lbs.
+**Aura** faint Enhancement and Mind; **CL** 5
+**Slot** wrist; **Price** 4,200 gp; **Weight** 1 lbs.
 **Description**
 While this appears to be a normal wand bracer, it has been animated to perform its duties automatically, responding to mental signals from their wearer. Drawing and stowing wands from this bracer is a free action that can be performed even when it is not your turn.
 **Construction Requirements**
@@ -33,8 +33,8 @@ Craft Apparatus, Enhancement sphere, Animate Object, Mind sphere, Read Mind; **C
 
 #### Bandolier of Grenades
 
-**Aura**faint Destruction;**CL**3rd;**Scaling** wonder
-**Slot**belt or chest;**Price**900 gp;**Weight** 1 lb.
+**Aura** faint Destruction; **CL** 3rd; **Scaling** wonder
+**Slot** belt or chest; **Price** 900 gp; **Weight** 1 lb.
 This seemingly common bandolier has 5 empty ‘slots’ which can each properly store a single alchemical creation (such as an acid flask or alchemist’s fire), magical dust, oil, or potion (or another similarly shaped object at the GM’s discretion). Objects stored in these slots may be retrieved as a move action.
 **6th Level – 4,800 gp:** A special additional slot forms which contains what seems to be an endless supply of grenade-like bombs, which may not be poured out, stored elsewhere, or passed to other creatures for later use (they explode 1 round after leaving the bandolier). A single bomb may be drawn, primed, and thrown as an attack made with a thrown splash weapon with a range increment of 20 feet. A direct hit deals 2d6 slashing, piercing, and bludgeoning damage, ignoring spell resistance, spell turning, and can penetrate a globe of invulnerability, anti-magic field, or antimagic circle, and is not treated as a spell or magical effect for creatures or classes that gain a bonus to saving throws against magic. Any creature or object within 5 ft. of the hit target or square takes 2 points of slashing, piercing, and bludgeoning splash damage affecting them in a similar fashion as if directly hit. These grenades may be used to make full attacks or other attack routines that allow for multiple attacks in a round.
 **11th Level – 24,000 gp:** The grenade-like bombs now deal 3d6 damage on a direct hit, with 3 splash damage. The bombs otherwise function as before.
@@ -45,8 +45,8 @@ Craft Apparatus, Destruction sphere (Energy Bomb (blast shape)); **Cost** 132,00
 
 #### Bludgeoner’s Rod
 
-**Aura**Strong Destruction;**CL** 15th
-**Slot**none;**Price**72,305 gp;**Weight** 5 lbs.
+**Aura** Strong Destruction; **CL** 15th
+**Slot** none; **Price** 72,305 gp; **Weight** 5 lbs.
 **Description**
 This rod functions as a +2 light mace, but also has a button that, when pressed (a move action), charges the mace head with magical force. The first attack made with this rod before the end of the wielder’s turn deals an extra 15d6 bludgeoning damage.
 **Construction Requirements**
@@ -54,8 +54,8 @@ Craft Rod, Craft Magical Arms and Armor, Conjuration Sphere, Mind Sphere; master
 
 #### Bonded Notebooks
 
-**Aura**faint Divination;**CL** 5
-**Slot**none;**Price**5,000 gp;**Weight** 2 lbs (set)
+**Aura** faint Divination; **CL** 5
+**Slot** none; **Price** 5,000 gp; **Weight** 2 lbs (set)
 **Description**
 A set of two identical leather-bound books of modest size, permanently linked to each other when created. Whatever is written in one book instantaneously appears on the corresponding page of the other, so long as they are on the same plane. Each page can hold up to 100 words and each book contains 50 pages. The backs and fronts of pages can be written on. A bonded notebook cannot be fitted with new pages; once the space inside has been used, the bonded notebooks become virtually worthless.
 **Construction Requirements**
@@ -63,8 +63,8 @@ Craft Apparatus; Divination sphere, **Cost** 2,500 gp
 
 #### Bonded Quills
 
-**Aura**faint Creation and Divination;**CL** 5
-**Slot**none;**Price**5,000 gp;**Weight** -
+**Aura** faint Creation and Divination; **CL** 5
+**Slot** none; **Price** 5,000 gp; **Weight** -
 **Description**
 These feather quills come in pairs. Each quill functions as a quill of endless ink. When both are held by a willing creature, any writing produced by one quill is instantly reproduced by the other, so long as both are on the same plane. A creature holding one quill is always aware if the other quill is being held by a willing creature, though no other information about that creature is gained. This cannot be used to create two copies at once of a scroll, spellbook, or other magical writing.
 **Construction Requirements**
@@ -72,8 +72,8 @@ Craft Apparatus, Creation sphere, Divination sphere; **Cost** 2,500 gp
 
 #### Bottomless Flask
 
-**Aura**faint Warp;**CL** 5th
-**Slot**—;**Price**1,000 gp;**Weight** 2 lbs.
+**Aura** faint Warp; **CL** 5th
+**Slot** —; **Price** 1,000 gp; **Weight** 2 lbs.
 **Description**
 This ornate and surprisingly weighty hip flask appears to be made out of silver, and its stopper is decorated with five small gems of different colors. It does not appear to be able to hold more than a pint, but the flask can open into five separate extradimensional spaces, each of which can hold up to 20 gallons. These spaces do not mix or overlap, so the contents are kept separate and uncontaminated; in addition, they can safely store volatile substances such as acid or alchemist’s fire. The different spaces can be accessed by twisting the stopper so that a different gem faces the front of the flask, which can be done as a swift action. The flask can pour out a maximum of one pint per round (or a single flask of an alchemical substance) into a square within the wielder’s reach. If broken, the flask is ruined and all contents are lost in extradimensional space.
 **Construction Requirements**
@@ -81,8 +81,8 @@ Craft Rod, Warp sphere, Extradimensional Storage; **Cost** 500 gp
 
 #### Compass of the Fey Walker
 
-**Aura**Divination;**CL** 3rd
-**Slot**None;**Price**6,000 gp;**Weight** 0.25 lbs
+**Aura** Divination; **CL** 3rd
+**Slot** None; **Price** 6,000 gp; **Weight** 0.25 lbs
 **Description**
 This silver compass’ needle wanders randomly while on any plane other than Faerie. Once in Faerie, the compass’s bearer may hold it up and concentrate on a destination on the material plane for 1 minute. The compass will point toward the nearest fairy ring, mound, or other similar passage between worlds that opens within 1d12 miles of that destination that is large enough to allow the bearer to pass. It continues to do so until it returns to the material plane, a new destination is selected, or it leaves the bearer’s possession.
 **Construction Requirements**
@@ -90,8 +90,8 @@ Craft Rod, Divination Sphere, Dowsing; Cost 3,000 gp
 
 #### Crimson Flask
 
-**Aura**Faint Blood;**CL** 5th
-**Slot**None;**Price**2,000 gp (least), 8,000 gp (lesser), 16,000 (greater);**Weight** 1 lb
+**Aura** Faint Blood; **CL** 5th
+**Slot** None; **Price** 2,000 gp (least), 8,000 gp (lesser), 16,000 (greater); **Weight** 1 lb
 **Description**
 Creatures with the Reservoir feat may spend a full-round action filling this flask with stolen blood, transferring blood points into the flask. The quality of the flask determines how many points it may hold: least - 2, lesser - 4, greater - 6. Reservoir points do not expire while in the crimson flask. A creature possessing the flask may open it as a move action. While holding an open flask, the holder may spend reservoir points as if those points were in its reserve.
 **Construction Requirements**
@@ -99,8 +99,8 @@ Craft Rod, Blood sphere
 
 #### Doom Cannon
 
-**Aura**moderate Destruction;**CL** 10th;
-**Slot**none;**Price**50,000 gp;**Weight** 4,500 lbs
+**Aura** moderate Destruction; **CL** 10th;
+**Slot** none; **Price** 50,000 gp; **Weight** 4,500 lbs
 **Description**
 A huge cylinder, protecting an array of magically treated focusing crystals, mounted on a wheeled carriage. The doom cannon may be moved, aimed, and fired as a mundane fiendsmouth cannon*, but requires no ammunition or loading. The cannon deals 10d6 untyped damage as per the Disintegration talent with a range of 200 ft with a x2 critical multiplier, or automatically destroys a 10 ft cube of nonliving matter. If a doom cannon with the broken condition experiences a misfire, the blast damage is dealt in a 20ft radius of the cannon and the weapon is destroyed.
 **Construction Requirements**
@@ -109,8 +109,8 @@ Craft Rod, Destruction sphere, Disintegration advanced talent; Cost 25,000 gp
 
 #### Field Researcher’s Lenses
 
-**Aura**faint Divination and Destruction;**CL** 10
-**Slot**eyes;**Price**15,000 gp;**Weight** -
+**Aura** faint Divination and Destruction; **CL** 10
+**Slot** eyes; **Price** 15,000 gp; **Weight** -
 **Description**
 These glasses are sturdier than they look, and stay unnaturally clean as grime slides off them. When worn by someone with the studied strike class feature (such as an investigator), the damage from his or her studied strike increases by 1d6. In addition, whenever they make a studied strike, they may spend a spell point to double the number of dice rolled.
 **Construction Requirements**
@@ -118,8 +118,8 @@ Craft Apparatus; **Cost** 7,500 gp
 
 #### Foldable Circle
 
-**Aura**moderate Conjuration;**CL** 6th;
-**Slot**none;**Price**Small 2,000 gp, Medium 4,000 gp, Large 8,000 gp, Huge 16,000 gp,**Weight** Small 1 lb., Medium 4 lbs, Large 16 lbs, Huge 64 lbs.
+**Aura** moderate Conjuration; **CL** 6th;
+**Slot** none; **Price** Small 2,000 gp, Medium 4,000 gp, Large 8,000 gp, Huge 16,000 gp, **Weight** Small 1 lb., Medium 4 lbs, Large 16 lbs, Huge 64 lbs.
 
 A heavy cloth mat with a binding circle worked in silver and cold iron threads. A Small circle may be deployed as a standard action (or two creatures performing move actions), a Medium or Large may be deployed as a full-round action (or two creatures performing standard actions or four creatures performing move actions), and a Huge deployed as a 1 round action (or two creatures performing full-round actions or four creatures performing standard actions) and may be gathered and stowed with the same actions. These actions provoke attacks of opportunity.
 
@@ -129,16 +129,16 @@ Craft Apparatus, Conjuration sphere, Diagram advanced talent; **Cost** Small 1,0
 
 #### Force Hook
 
-**Aura**Faint transmutation;**CL** 4th
-**Slot**-;**Price**1,000 gp;**Weight** 1 lb
+**Aura** Faint transmutation; **CL** 4th
+**Slot** -; **Price** 1,000 gp; **Weight** 1 lb
 This short metal rod fits well into the hand and is small enough that it is barely longer than a clenched fist. You may activate it as a move action and cause it to telekinetically hook on to a solid, inanimate surface within 200 feet, allowing it to act as if you had a rope securely linked between the rod and that surface. A second move action causes the hook to retract, drawing the rod and its wielder towards the surface at a rate of 50 feet per round. You may also use a free action to disconnect the hook from any surface it is attached to. The hook can support a load of up to Huge size.
 **Construction Requirements**
 Craft Rod, Telekinesis Sphere, Tether, Cost 500 GP
 
 #### Gleam Brush
 
-**Aura**Faint evocation;**CL** 3rd
-**Slot**—;**Price**200 gp;**Weight** —
+**Aura** Faint evocation; **CL** 3rd
+**Slot** —; **Price** 200 gp; **Weight** —
 A gleam brush takes the form of a handheld brush with a wooden handle decorated with colored whorls and spirals. This magic brush is considered a masterwork tool for appropriate Craft skills (such as calligraphy or painting) and creates ink of any color, changing to any color the user imagines as a free action; the ink glows, increasing the light level by one step 5 ft. around it. The ink created by a gleam brush is nonmagical and permanent, and may cleaned up or removed from surfaces as normal ink can. A gleam brush never runs out of ink.
 
 Different styles of brush can be found and produced, ranging from fine tipped ink brushes to wide, thick paintbrushes, but they are always small enough to be held in one hand.
@@ -147,8 +147,8 @@ Craft Rod, Light sphere; **Cost** 100 gp
 
 #### Gremlin Bells
 
-**Aura**Faint Fallen Fey & Protection;**CL** 3rd
-**Slot**None;**Price**1,000 gp;**Weight** 1 lb
+**Aura** Faint Fallen Fey & Protection; **CL** 3rd
+**Slot** None; **Price** 1,000 gp; **Weight** 1 lb
 **Description**
 These delicate bells, no more than an inch high each, are crafted from bronze, brass, or other semi-precious metals and strung up over doors, windows, or objects which the owner wishes to keep from gremlins. Gremlins that comes within 20 ft. of a set of bells affixed to an object are nauseated and prevented from using any supernatural or spell-like abilities.
 **Construction Requirements**
@@ -156,8 +156,8 @@ Craft Rod, Fallen Fey Sphere, Protection Sphere; Cost 500 gp
 
 #### Grig Fiddle
 
-**Aura**Faint Fallen Fey & Mind;**CL** 3rd
-**Slot**None;**Price**8,200 gp;**Weight** 2 lbs
+**Aura** Faint Fallen Fey & Mind; **CL** 3rd
+**Slot** None; **Price** 8,200 gp; **Weight** 2 lbs
 **Description**
 This exquisitely made fiddle bears fine carvings depicting fey and mortals cavorting joyously. In addition to being a masterwork stringed instrument, a skilled player can mimic the enchanting music of the grig, compelling those around them to dance. As a standard action, the bearer may play, forcing all creatures within a 20-ft. radius to dance and caper unless they succeed on a Will save with a DC equal to 10 + 1/2 the player’s rank in Perform (strings) + the player’s Charisma modifier. This effect lasts for as long as the creature remains within the area of effect. The bearer may continue to play as a standard action. Treat this effect as being staggered. Once a creature makes the save against a grig fiddle, it is immune to that fiddle for 24 hours. This is a sonic mind-affecting compulsion effect.
 **Construction Requirements**
@@ -165,8 +165,8 @@ Craft Rod, Fallen Fey Sphere, Mind Sphere; Cost 4,200 gp
 
 #### Keyhome
 
-**Aura**strong Warp;**CL** 15th
-**Slot**—;**Price**40,000 gp;**Weight** —
+**Aura** strong Warp; **CL** 15th
+**Slot** —; **Price** 40,000 gp; **Weight** —
 **Description**
 Though their shape and style can drastically differ, every keyhome takes the form of a key, typically attached to a chain or keyring. As a standard action the key can be turned as if in a lock to open a 10-ft. square doorway to an extradimensional space unique to that key. The extradimensional space has a volume of ten 10-ft. cubes arranged contiguously, with the exact layout being determined when the keyhome is made. Anything placed within the extradimensional space remains there even when the doorway is closed, and travels with the keyhome. The key can be used to close the doorway with a standard action.
 
@@ -178,8 +178,8 @@ Craft Rod, Warp sphere, Extradimensional Room (2), Extradimensional Storage; **C
 
 #### Lantern of Full Sight
 
-**Aura**moderate Light;**CL** 9th
-**Slot**none;**Price**54,000 gp;**Weight** 4 lbs.
+**Aura** moderate Light; **CL** 9th
+**Slot** none; **Price** 54,000 gp; **Weight** 4 lbs.
 **Description**
 This lantern creates bright light in a 70 ft radius, and raises the light level by one step to a maximum of normal light for 70 ft beyond this. Any invisible creature within this area of bright light becomes immediately visible, losing all benefits of invisibility.
 **Construction Requirements**
@@ -187,7 +187,7 @@ Craft Rod, Light Sphere; Cost 27,000 gp
 
 #### Medic Satchel
 
-**Price**250 gp;**Slot**belt or chest;**CL**2nd;**Weight**1 lb.;**Aura**faint Creation;**Scaling** wonder
+**Price** 250 gp; **Slot** belt or chest; **CL** 2nd; **Weight** 1 lb.; **Aura** faint Creation; **Scaling** wonder
 This white leather satchel is embossed with a healer’s insignia (usually the symbol of a deity with the healing domain). The bag has clasps that allow it to be easily attached to either the waist or the chest. Inside the satchel are various bandages normally found inside a healer’s kit. A medic satchel has enough bandages for 10 uses of a healer’s kit (called charges). Unlike the kit however, this satchel regains all charges at the beginning of each day, and can be fully recharged instantaneously by spending 1 spell point. Also like the healer’s kit, the medic satchel grants a +2 circumstance bonus to Heal checks, and counts as a healer’s kit for the purpose of skills, feats, or abilities.
 **3rd Level – 750 gp:** The medic satchel now grants a +4 circumstance bonus to Heal checks.
 **4th Level – 1,500 gp:** The medic satchel now regains its charges 8 hours after the first charge is used.
@@ -198,12 +198,12 @@ This white leather satchel is embossed with a healer’s insignia (usually the s
 **9th Level – 11,500 gp:** The medic satchel now grants a +10 circumstance bonus to Heal checks.
 **10th Level – 15,500 gp:** The medic satchel now has unlimited charges.
 **Construction Requirements**
-**Cost**7,750 gp;**Feats**Craft Apparatus;**Spells** Creation sphere
+**Cost** 7,750 gp; **Feats** Craft Apparatus; **Spells** Creation sphere
 
 #### Miniature Orrery
 
-**Aura**faint divination;**CL** 4th;
-**Slot**-;**Price**1,000 gp**Weight** 1 lb
+**Aura** faint divination; **CL** 4th;
+**Slot** -; **Price** 1,000 gp **Weight** 1 lb
 **Description**
 This small brass sphere fits easily into the hand, and with a command becomes transparent, revealing the motes of light moving within it. Each mote represents a celestial body, and put together the lights of a miniature orrery accurately depict their current positions in the sky. Using a miniature orrery you can always determine the precise time and which direction true north lies in relation to yourself. In addition, it grants a +4 circumstance bonus on Survival checks made to avoid getting lost, and with a DC 20 Knowledge (geography) check you can determine your approximate location in the world and the current date.
 **Construction Requirements**
@@ -211,8 +211,8 @@ Craft Rod, Divination sphere, Light sphere; Cost 500 gp
 
 #### Patch Hole
 
-**Aura**moderate Warp;**CL** 6th
-**Slot**—;**Price**7,500 gp;**Weight** —
+**Aura** moderate Warp; **CL** 6th
+**Slot** —; **Price** 7,500 gp; **Weight** —
 **Description**
 A patch hole is a black circle of cloth nearly identical in appearance to a portable hole. It is 6 ft. in diameter, can be folded as small a pocket handkerchief, and lightly adheres to surfaces it is spread against, allowing it to easily be placed on ceilings and walls. When fully spread on a surface it bends space, creating a cylindrical hole 10 ft. deep in whatever surface it was placed on. The created hole lasts for 1 minute before reverting to cloth, and may be activated three times per day as a standard action. A patch hole otherwise functions as Create Gap.
 **Construction Requirements**
@@ -220,8 +220,8 @@ Craft Rod, Warp sphere, Create Gap; **Cost** 3,750 gp
 
 #### Pocket of Holding
 
-**Aura**faint Warp;**CL** 3rd
-**Slot**—;**Price**200 gp;**Weight** 1/2 lb.
+**Aura** faint Warp; **CL** 3rd
+**Slot** —; **Price** 200 gp; **Weight** 1/2 lb.
 **Description**
 This small cloth bag easily fits in the hand, but opens into an extradimensional space that can store up to 1 cubic ft. of material or 10 pounds. They can also be designed as pockets and sewn into normal or magical clothing.
 **Construction Requirements**
@@ -229,8 +229,8 @@ Craft Rod, Warp sphere, Extradimensional Storage; **Cost** 100 gp
 
 #### Primordial Clay
 
-**Aura**faint Creation;**CL** 5
-**Slot**none;**Price**150 gp per pound;**Weight** 1 pound
+**Aura** faint Creation; **CL** 5
+**Slot** none; **Price** 150 gp per pound; **Weight** 1 pound
 **Description**
 This substance has a light gray color and is frequently found in hardened balls. Characters with the Creation sphere quickly recognize what it is. Primordial clay is extremely easy to manipulate with magic, and a sphere caster can use it in concert with their Creation sphere abilities. Whenever the sphere caster creates an object with weight equal to or less than the amount of primordial clay they possess (and wish to use), they may use the clay, forming it into whatever they wish to create.
 
@@ -240,8 +240,8 @@ Craft Apparatus; **Cost** 75 gp per pound
 
 #### Quill of Endless Ink
 
-**Aura**faint Creation;**CL** 1
-**Slot**none;**Price**80 gp;**Weight** -
+**Aura** faint Creation; **CL** 1
+**Slot** none; **Price** 80 gp; **Weight** -
 **Description**
 This feather quill is perpetually supplied with ink, creating enough to write continuously, though never dripping. The quill usually comes with a small metal carrying case capable of safely holding up to three quills. Some quills are creating with special inks; 5 vials of the special ink are consumed in the process of crafting a quill with a special ink. Each quill can only use one type of ink.
 **Construction Requirements**
@@ -249,8 +249,8 @@ Craft Apparatus, Creation sphere; **Cost** 40 gp
 
 #### Rod of Spell Disruption
 
-**Aura**faint universal;**CL** 5
-**Slot**none;**Price**10,000 gp;**Weight** 8 lbs.
+**Aura** faint universal; **CL** 5
+**Slot** none; **Price** 10,000 gp; **Weight** 8 lbs.
 **Description**
 The length of this cold iron rod is covered in intricate runes. The wielder of this rod may attempt to dispel an ongoing magical effect within 150 ft. as per the Counterspell feat. The rod possesses an MSB of +5. This rod may also be used as a readied action to counterspell an effect per the same feat. This rod may be improved, increasing its MSB by +1 for every 2,000 additional gp spent (1,000 gp additional cost when crafting), but its MSB cannot exceed that of the creature crafting or improving it.
 **Construction Requirements**
@@ -258,19 +258,19 @@ Craft Apparatus, Creation sphere; **Cost** 5,000 gp
 
 #### Seamstress Cuffs
 
-**Price**150 gp;**Slot**wrists;**CL**2nd;**Weight**1/2 lb.;**Aura**faint Creation;**Scaling** prize
+**Price** 150 gp; **Slot** wrists; **CL** 2nd; **Weight** 1/2 lb.; **Aura** faint Creation; **Scaling** prize
 These intricately made cuffs veil a collection of pearl-headed pins behind beautiful embroidery, and spare needles between the seams. If a pin or needle becomes damaged, or otherwise distances itself from the cuffs for more than 400 ft., the old pin or needle becomes destroyed, and a new one is instantaneously created on the cuff. Pulling on a single thread of the embroidery will cause it to slowly unravel itself until cut, although no more than 400 ft. of thread may be produced by the cuffs per day.
 **5th Level – 1,825 gp:** The wearer may as a standard action (or immediate action if he spends a spell point) activate the cuffs to create or modify a non-magical set of clothing whose total value cannot exceed that of 10 gp. The seamstress cuffs may only create or modify the clothing of a willing creature within range of touch. The created or modified clothing is permanent, but the seamstress cuffs can only have up to 2 suits of clothing created or modified in this manner at a time; creating or modifying a suit of clothing beyond this limit causes the oldest suit of clothing to return to disappear/return to its original state.
 **7th Level – 3,825 gp:** The seamstress cuffs can now create or modify clothing whose total value cannot exceed that of 50 gp, and may have up to 4 suits of created or modified clothing at a time.
 **9th Level – 6,225 gp:** The seamstress cuffs can now create or modify clothing whose total value cannot exceed that of 100 gp, and may have up to 6 suits of created or modified clothing at a time.
 **11th Level – 12,225 gp:** The seamstress cuffs can now create or modify clothing whose total value cannot exceed that of 500 gp, and may have up to 8 suits of created or modified clothing at a time.
 **Construction Requirements**
-**Cost**6,112 gp;**Feats**Craft Apparatus;**Spells** Creation sphere, Expanded Materials, Exquisite Detail
+**Cost** 6,112 gp; **Feats** Craft Apparatus; **Spells** Creation sphere, Expanded Materials, Exquisite Detail
 
 #### Shackles of the Unbroken Circle
 
-**Aura**moderate Mind;**CL** 10
-**Slot**none;**Price**4,015 gp;**Weight** 2 lbs.
+**Aura** moderate Mind; **CL** 10
+**Slot** none; **Price** 4,015 gp; **Weight** 2 lbs.
 **Description**
 These mithril manacles bear intricate, ever-shifting magical runes arranged into impossibly complex knot-work. While they can be used as mundane mithril manacles, their true value is far greater. When multiple creatures with sphere casting ability are cuffed together in a circle (requiring one set of shackles per individual) and at least one possesses the Circle Casting feat, all creatures in the circle are treated as having the Circle Casting feat until the circle is broken. All creatures wearing the shackles gain the entangled condition, though this entanglement does not apply to any checks made as part of casting. Any creature that does not have the Circle Casting feat only counts as half a creature for determining the caster level bonus available from the feat. Creatures without casting ability in the circle prevent its completion and no benefit is gained until they are removed. A creature may don or remove the shackles as a standard action. No creature can move more than 5 ft. from the creatures adjacent to it in the circle.
 **Construction Requirements**
@@ -278,7 +278,7 @@ Craft Apparatus, Circle Casting feat; **Cost** 3,015 gp
 
 #### Spell Warded Brace
 
-**Price**90 gp;**Slot**feet, neck, or wrists;**CL**20th;**Weight**1 lb.;**Aura**overwhelming Protection;**Scaling** wonder
+**Price** 90 gp; **Slot** feet, neck, or wrists; **CL** 20th; **Weight** 1 lb.; **Aura** overwhelming Protection; **Scaling** wonder
 This brace, while made primarily of adamantine, is also combined with a silver and cold iron alloy. If placed against a limb of a creature (a touch attack), the brace will go viscous and change size so to fit and latch onto that creature.
 
 The spell warded brace is considered a piece of cursed equipment, and may only be magically removed from a creature with a successful use of the Break Enchantment talent (or similar ability). Any spell or sphere ability attempting to remove the brace must succeed on a magic skill check beating a DC 20. The brace has no other effect unless it is attached to a creature of significant level or HD to unlock its other abilities. The brace, if brought into an anti-magic field (or similar effect), hardens and can be then removed by force or finesse. A successful Strength check DC 35 can break free (this does not damage the item), while a successful Escape Artist check DC 40 will allow the equipped creature to slip free of the brace.
@@ -288,12 +288,12 @@ The spell warded brace is considered a piece of cursed equipment, and may only b
 **16th level — 94,500 gp:** The magic skill check necessary to use magical abilities is increased to a DC 35.
 **20th level — 264,000 gp:** The magic skill check necessary to use magical abilities is increased to a DC 41.
 **Construction Requirements**
-**Cost**132,000 gp;**Feats**Craft Apparatus, Counterspell;**Spells** Protection sphere, Spell Ward
+**Cost** 132,000 gp; **Feats** Craft Apparatus, Counterspell; **Spells** Protection sphere, Spell Ward
 
 #### Steel Idol
 
-**Aura**faint Enhancement;**CL** 5
-**Slot**none;**Price**15,000 gp;**Weight** 1 lbs.
+**Aura** faint Enhancement; **CL** 5
+**Slot** none; **Price** 15,000 gp; **Weight** 1 lbs.
 **Description**
 This small, metal sculpture is about the same size as a holy symbol, and can be mistaken for such. Any caster who can create sphere effects that cover an area can attach the area of effect to the idol if he is touching it. The resulting area moves with the idol. The caster can not concentrate on an area attached to a steel idol, and an area of effect can not be attached to the idol while another area of effect ability is already attached to it.
 **Construction Requirements**
@@ -301,8 +301,8 @@ Craft Apparatus; Enhancement sphere; **Cost** 7,500 gp
 
 #### Storage Sphere
 
-**Aura**faint Warp;**CL** 15th
-**Slot**—;**Price**see below;**Weight** 1 lb.
+**Aura** faint Warp; **CL** 15th
+**Slot** —; **Price** see below; **Weight** 1 lb.
 **Description**
 This fist-sized sphere is made of cool, surprisingly sturdy glass, and is used to easily store vehicles and large structures.
 
@@ -323,8 +323,8 @@ Craft Rod, Warp sphere, Extradimensional Space, Store Structure; **Cost** 3,725 
 
 #### Talisman of Lead
 
-**Aura**faint Death;**CL** 5
-**Slot**none;**Price**6,000 gp;**Weight** -
+**Aura** faint Death; **CL** 5
+**Slot** none; **Price** 6,000 gp; **Weight** -
 **Description**
 The ashes of a great sage or wise man have been stored in this bauble, allowing a character with the bound nexus class feature to consult with the soul. As a full-round action, the character may telepathically speak to the soul within, and gain a +2 insight bonus to any Knowledge check made that round. In addition, the soul may be expended as any other soul in the character’s bound nexus. The soul becomes available again 24 hours later. During that time, the character can not consult with the soul (as it is absent).
 **Construction Requirements**
@@ -332,8 +332,8 @@ Craft Apparatus; **Cost** 3,000 gp
 
 #### Temporal Capacitor
 
-**Aura**faint Time;**CL** 4th;
-**Slot**chest;**Price**10,000 gp,**Weight** 5 lbs.,
+**Aura** faint Time; **CL** 4th;
+**Slot** chest; **Price** 10,000 gp, **Weight** 5 lbs.,
 **Description**
 This arcane apparatus grants the wearer the benefits of Store Time (see the [[Time]] sphere). The wearer may spend a charge to allow the stored action to remain for 3 rounds, as if spending a spell point. The capacitor possesses three charges per day; spell points may not be spent this way.
 
@@ -344,8 +344,8 @@ Craft Rod, Time sphere, Store Time talent; Cost 5,000 gp
 
 #### Thunder Culverin
 
-**Aura**faint Destruction;**CL** 5th;
-**Slot**none;**Price**24,000 gp;**Weight** 4,500 lbs
+**Aura** faint Destruction; **CL** 5th;
+**Slot** none; **Price** 24,000 gp; **Weight** 4,500 lbs
 **Description**
 A large cylinder, one end flared into a dish shape, mounted on a wheeled carriage. The thunder culverin may be moved, aimed, and fired as a mundane large cannon, but requires no ammunition or loading. The culverin deals 6d4 sonic damage as the shattering blast talent with a range of 160 ft at a x2 critical multiplier. If a thunder culverin with the broken condition experiences a misfire, the blast damage is dealt in a 20 ft radius of the thunder culverin and the weapon is destroyed.
 **Construction Requirements**
@@ -353,8 +353,8 @@ Craft Rod, Destruction sphere, Shattering Blast talent; Cost 12,000 gp
 
 #### Tower of Impregnable Defense
 
-**Aura**Strong Destruction, Protection;**CL** 15th
-**Slot**none;**Price**255,000;**Weight** 3 tons
+**Aura** Strong Destruction, Protection; **CL** 15th
+**Slot** none; **Price** 255,000; **Weight** 3 tons
 **Description**
 This magically-empowered tower generally sits near the entrance to a building, city, or other permanent encampment to defend it against undesirables.
 
@@ -366,8 +366,8 @@ Craft Rod, Destruction Sphere, Protection Sphere; Cost 127,500 gp.
 
 #### Warg Pelt
 
-**Aura**moderate alteration;**CL** 6th
-**Slot**shoulders;**Price**8,000 gp**Weight** 1 lb.
+**Aura** moderate alteration; **CL** 6th
+**Slot** shoulders; **Price** 8,000 gp **Weight** 1 lb.
 **Description**
 This cloak, made from the hide of a slain warg, grants the wearer the ability to assume its likeness. This item functions as a rod of Alteration with the Animalistic Transformation talent (limited to the shape of a warg) and grants darkvision 60 ft. as an additional trait.
 **Construction Requirements**
@@ -375,8 +375,8 @@ Craft Rod, Alteration Sphere, Animalistic Transformation; Cost 4,000 gp
 
 #### Waystone
 
-**Aura**strong Warp;**CL** 16th
-**Slot**—;**Price**20,000 gp;**Weight** 200 lbs.
+**Aura** strong Warp; **CL** 16th
+**Slot** —; **Price** 20,000 gp; **Weight** 200 lbs.
 **Description**
 A smooth, rounded stone engraved with glowing purple lines, a waystone is a useful tool for any practitioner of teleportation magic. As a standard action a spellcaster with the Warp sphere can invest a spell point into a touched waystone to gain access to its power. This invested spell point is spent and does not replenish so long as it is invested, though the spellcaster can end their investment with a standard action at any distance from the waystone, and an invested spell point only remains invested for up to a year before fading. A spellcaster with a spell point invested in a waystone can teleport themselves back to the waystone regardless of how far away it is, so long as it is on the same plane. Teleporting back to the waystone ends the spell point investment, allowing it to be recovered normally and requiring a new spell point to be invested to use the waystone again. Any number of spellcasters can invest a spell point in a waystone, and they are often installed in important locations.
 **Construction Requirements**
@@ -390,7 +390,7 @@ The following items were created by the Wiki or by members of the community usin
 
 #### Bangle of the Lamia Matriarch [Wiki]
 
-**Price**8,000 gp;**Slot**feet or wrists;**CL**2nd;**Weight**1/2 lb;**Aura** faint Alteration
+**Price** 8,000 gp; **Slot** feet or wrists; **CL** 2nd; **Weight** 1/2 lb; **Aura** faint Alteration
 
 As soon as you put on the bangle of the lamia matriarch, you gain the form of a serpentine echidna as a cursed polymorph effect.
 
@@ -410,7 +410,7 @@ Craft Apparatus; Alteration sphere, Extra Limbs, Serpentine Transformation; Beas
 
 #### Bracers of Excessive Strength, Lesser [Wiki]
 
-**Aura**Moderate Enhancement;**CL**9th;**Slot**Wrists;**Price**18,000 gp**Weight** 2 lbs.
+**Aura** Moderate Enhancement; **CL** 9th; **Slot** Wrists; **Price** 18,000 gp **Weight** 2 lbs.
 
 As the Bracers of Excessive Strength, but the lesser version of this item only provides the ability to wield weapons up to 2 sizes larger than normal *or* carry things as if they were two size categories larger. Which of these effects the bracers have is chosen when they're made and cannot be changed later.
 
@@ -419,7 +419,7 @@ Craft Rod, Enhancement Sphere, Improved Strength (enhance); **Cost** 9,000 gp
 
 #### Bracers of Excessive Strength [Wiki]
 
-**Aura**Moderate Enhancement;**CL**9th;**Slot**Wrists;**Price**36,000 gp**Weight** 2 lbs.
+**Aura** Moderate Enhancement; **CL** 9th; **Slot** Wrists; **Price** 36,000 gp **Weight** 2 lbs.
 
 These shiny golden bracers are emblazoned with symbols of might and strength. While worn, they allow the wearer to wield weapons up to two sizes larger than normal without penalty. They also allow creatures to carry significantly more than usual, as if they were two size categories larger. (This is typically 4x as much, going from Medium to Huge.)
 
@@ -428,7 +428,7 @@ Craft Rod, Enhancement Sphere, Improved Strength (enhance); **Cost** 18,000 gp
 
 #### Resizing Saddle [Wiki]
 
-**Aura**Moderate Alteration;**CL**9th;**Slot**None;**Price**18,000 gp**Weight** 5 lbs.
+**Aura** Moderate Alteration; **CL** 9th; **Slot** None; **Price** 18,000 gp **Weight** 5 lbs.
 
 Originally commissioned by a halfling dragonrider whose companion was growing too large to join her in dungeons, this saddle, when activated (at will as a standard action), will cause the creature wearing it to grow or shrink to be one size category closer to medium. This lasts until the saddle is deactivated (also as a standard action) or the saddle is removed. The creature receives all the bonuses and penalties to his ability scores caused by this change in size, as described in the Alteration Size Change talent. If the saddle is worn by a sentient creature (i.e. one with at least 3 Intelligence), the wearer activates it. Otherwise, the creature's rider takes the action to activate it.
 
@@ -437,7 +437,7 @@ Craft Rod, Alteration Sphere, Size Change; **Cost** 9000 gp
 
 #### Resizing Saddle, Greater [Wiki]
 
-**Aura**Moderate Alteration;**CL**10th;**Slot**None;**Price**20,000 gp;**Weight** 5 lbs.
+**Aura** Moderate Alteration; **CL** 10th; **Slot** None; **Price** 20,000 gp; **Weight** 5 lbs.
 
 As the Resizing Saddle, except that it moves its wearer two steps towards medium size.
 
@@ -446,8 +446,8 @@ Craft Rod, Alteration Sphere, Size Change; **Cost** 10,000 gp
 
 #### Rod of Fireballs [Wiki]
 
-**Aura**moderate Destruction;**CL** 9th
-**Slot**none;**Price**90,000 GP;**Weight** 4 lbs.
+**Aura** moderate Destruction; **CL** 9th
+**Slot** none; **Price** 90,000 GP; **Weight** 4 lbs.
 **Description**
 This dark red rod is hideously expensive and illegal in many countries, but that hasn't stopped some very dedicated casters from using it. As a standard action, the user of this rod creates a burst of fire centered within 45 feet with a radius of 10 to 15 feet (as the user chooses), dealing 9d6 fire damage (Reflex DC 14 halves) to all creatures and objects within the burst. Creatures who fail their Reflex save catch fire. A burning creature takes 1d6 damage the following round, plus 1d6 per round until the flames are extinguished. Each round the target may make another Reflex save to attempt to extinguish the flames. Rolling on the ground or using a blanket to smother the flames (a full-round action) grants the target a +4 bonus to that round’s saving throw.
 **Construction Requirements**
@@ -455,8 +455,8 @@ Craft Rod, Destruction Sphere, Explosive Orb (blast shape), Fire Blast (blast ty
 
 #### Rod of Lifegiving [Wiki]
 
-**Aura**moderate Life;**CL** 6th
-**Slot**none;**Price**72,000 gp;**Weight** 4 lbs.
+**Aura** moderate Life; **CL** 6th
+**Slot** none; **Price** 72,000 gp; **Weight** 4 lbs.
 **Description**
 This slender white rod is about three feet long and carved with symbols of life. Often dubbed "the healstick" by adventuring parties, it's far more expensive than most rookie groups can afford but held in high regard by adventuring parties who understand its true value. While held, the Rod of Lifegiving provides Fast Healing 1 to the holder.
 **Construction Requirements**
@@ -464,7 +464,7 @@ Craft Rod, Life Sphere, Revitalize; **Cost** 36,000 gp
 
 ### Metamagic Apparatuses [Wiki]
 
-Metamagic Apparatuses grant the ability to use a metamagic effect on a sphere effect three times per day, without needing to know the metamagic feat, increase the time spent casting, or spend additional spell points for the metamagic. This is done as part of casting the sphere effect and requires holding the apparatus in at least one hand (or otherwise wielding it as appropriate for its form). **Normal**Metamagic Apparatuses work on sphere effects up to CL 13.** Lesser**Metamagic Apparatuses work on sphere effects up to CL 7, but cost half as much as a normal Metamagic Apparatus.** Greater** Metamagic Apparatuses work on sphere effects of any CL, but cost twice as much as a normal Metamagic Apparatus. A Metamagic Apparatus normally costs 10,000 gp x Spell Level Adjustment or Maximum Spell Point Cost. Metamagic with an effective adjustment of +0 cost half as much.
+Metamagic Apparatuses grant the ability to use a metamagic effect on a sphere effect three times per day, without needing to know the metamagic feat, increase the time spent casting, or spend additional spell points for the metamagic. This is done as part of casting the sphere effect and requires holding the apparatus in at least one hand (or otherwise wielding it as appropriate for its form). **Normal** Metamagic Apparatuses work on sphere effects up to CL 13. **Lesser** Metamagic Apparatuses work on sphere effects up to CL 7, but cost half as much as a normal Metamagic Apparatus. **Greater** Metamagic Apparatuses work on sphere effects of any CL, but cost twice as much as a normal Metamagic Apparatus. A Metamagic Apparatus normally costs 10,000 gp x Spell Level Adjustment or Maximum Spell Point Cost. Metamagic with an effective adjustment of +0 cost half as much.
 
 Metamagic Apparatuses always have a faint untyped aura of magic for their lesser versions, a moderate untyped aura for their normal versions, and a strong untyped aura for their greater versions. They also have a CL of 5th for the lesser versions, 10th for the normal, and 15th for the greater.
 
@@ -481,7 +481,7 @@ A metamagic apparatus that's in the middle of being upgraded can still be used a
 
 #### Aligned Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When you craft this apparatus, choose a non-neutral component of your alignment. When you prepare (if you are a prepared caster) or cast (if you are a spontaneous caster or spherecaster) an aligned spell/talent, choose weal or woe. If you choose weal all variable, numeric effects of the spell are decreased by half (including bonuses to those dice rolls) for creatures of that alignment and increased by half (including bonuses to those dice rolls) for creatures of the opposite alignment. If the talent does not have variable, numeric effects, it instead has its saving throw DC and effective caster level decreased by 2 against creatures of the selected alignment and increased by 2 against creatures of the opposite alignment. If you choose woe, these effects are reversed. The spells effects do not change for creatures of neither alignment. Talents that neither do damage nor have a saving throw cannot be affected by Align Spell. If this apparatus is found as treasure, the GM determines which alignment (Good, Evil, Lawful, or Chaotic) it is attuned to.
 **Construction Requirements**
@@ -489,7 +489,7 @@ Craft Apparatus, Align Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20
 
 #### Aquatic Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 An aquatic talent functions normally underwater and requires no caster level check to cast, even if it has the fire descriptor. In addition, the talent can be cast from the surface into water and still be effective.
 **Construction Requirements**
@@ -497,7 +497,7 @@ Craft Apparatus, Aquatic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 #### Bouncing Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Whenever a bouncing talent targeting a single creature has no effect on its intended target (whether due to spell resistance or a successful saving throw) you may, as a swift action, redirect it to target another eligible creature within range. The redirected talent behaves in all ways as if its new target were the original target for the talent. Talents that affect a target in any way (including a lesser effect from a successful saving throw) may not be redirected in this manner.
 **Construction Requirements**
@@ -505,7 +505,7 @@ Craft Apparatus, Bouncing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 #### Brisk Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can alter talents that grant a creature a movement type it doesn’t normally have to increase the speed for that movement type by 10 feet.
 **Construction Requirements**
@@ -513,7 +513,7 @@ Craft Apparatus, Brisk Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 5,0
 
 #### Burning Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 The acid or fire effects of the affected talent adhere to the creature, causing more damage the next round. When a creature takes acid or fire damage from the affected talent, that creature takes damage equal to the talent’s caster level at the start of its next turn. The damage is acid or fire, as determined by the spell’s descriptor. If a burning talent has both the fire and acid descriptor, the caster chooses what kind of damage is dealt by the burning talent effect.
 **Construction Requirements**
@@ -521,7 +521,7 @@ Craft Apparatus, Burning Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 #### Cascading Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**20,000 gp (normal);**Weight** 5 lbs.
+**Slot** none; **Price** 20,000 gp (normal); **Weight** 5 lbs.
 **Description**
 Only talents that target only you and have a duration of at least 1 round can be cast as cascade spells; you must either spend spell points to let each cascading effect persist without concentration or have an effect that allows them to linger without concentration. You can prepare multiple talents as a single cascade talent, as long as all talents are CL 7 level or lower, and the total caster level does not exceed CL 9. The duration of all the cascade talents is equal to the shortest duration for all the talents. A cascade talent has a casting time equal to the longest casting time of all the talents in the cascade. Unlike most metamagic apparatuses, this apparatus only comes in one level.
 **Construction Requirements**
@@ -529,7 +529,7 @@ Craft Apparatus, Cascade Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 #### Chaining Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**20,000 gp (lesser), 40,000 gp (normal), 80,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 20,000 gp (lesser), 40,000 gp (normal), 80,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Only talents with an area or defined number of targets (including one creature), a range greater than touch, and a saving throw (for half damage, or to negate the full effect of the talent) may be cast as chained talents. A chain talent affects the primary target normally, then arcs to a number of secondary targets equal to your caster level. You choose the secondary targets as you like but they must all be within 30 feet of the primary target and no individual can be targeted more than once. You can choose fewer secondary targets than the maximum.
 
@@ -539,7 +539,7 @@ Craft Apparatus, Chain Spell; **Cost** 10,000 gp (lesser), 20,000 gp (normal), 4
 
 #### Coaxing Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 This apparatus only works with mind-affecting effects. A coaxing talent affects mindless oozes and vermin as if they weren’t mindless, but has no effect on other creature types. This apparatus does not provide the effects of the Mind sphere's Expanded Charm talent.
 **Construction Requirements**
@@ -547,7 +547,7 @@ Craft Apparatus, Coaxing Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 #### Combat Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Only talents that require an attack roll may be cast as combat talents. A combat talent does not use its normal attack roll, instead making a special combat maneuver check against target’s CMD. You use a bonus equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier (whichever is highest). If you meet or exceed the target’s CMD, in addition to the talent’s normal effect you can affect the target with a bull rush, disarm, sunder or trip. Even if you miss, the target cannot attempt to make a combat maneuver against you for your failed attempt.
 **Construction Requirements**
@@ -555,7 +555,7 @@ Craft Apparatus, Combat Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 2
 
 #### Concussive Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 With sonic damage comes a concussive wave of energy that rattles creatures affected by the talent. A concussive talent causes creatures that take damage from a talent that has the sonic descriptor to take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks for a number of rounds equal to half the caster level of the spell (rounded down, minimum 1). A concussive metamagic apparatus only affects talents with the sonic descriptor.
 **Construction Requirements**
@@ -563,7 +563,7 @@ Craft Apparatus, Concussive Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 #### Conditional Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You must cast this talent immediately before casting another talent on the same creature, eliciting a promise or warning against a behavior and binding the target to the paired talent. If you don’t cast a paired talent, the conditional talent has no effect. The paired talent must be from the Alteration, Enhancment, Fate, Life, Mind, Nature, or Protection spheres and must be cast on a willing creature. If the talent’s recipient violates the oath or prohibition while conditional favor remains in effect, the paired talent is undone as if never cast. If the talent was a healing talent, the hit point damage or condition you removed returns immediately, even if the subject has enjoyed subsequent rest or healing. Poisons, diseases, curses, restored ability damage, and negative levels removed by the paired talent return as well.
 
@@ -575,7 +575,7 @@ Craft Apparatus, Conditional Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal
 
 #### Consecrate Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A consecrated talent is treated as a maximized talent against evil creatures and creatures with the evil subtype. Against all other creatures, this feat does not modify the spell in any way (for example, a consecrated destructive blast acts as a normal destructive blast against neutral or good creatures). This feat does not stack with Maximize Spell.
 **Construction Requirements**
@@ -583,7 +583,7 @@ Craft Apparatus, Consecrate Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 #### Contagious Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can apply this apparatus only to targeted talents that are harmful to their target and don’t have a range of personal; a contagious talent never spreads to someone who would benefit from being the target of the talent.
 
@@ -593,7 +593,7 @@ Craft Apparatus, Contagious Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 #### Contingent Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A contingent talent infuses a target with a dormant healing or restorative talent that can trigger when the target needs it the most. This metamagic can be applied to only life talents or any harmless talent that can be used to remove ability score damage, ability score drain, or a negative condition or effect (such as the Life sphere's Restore Mind talent). When you cast a contingent talent, you must set a specific trigger that dictates under what circumstances the target is immediately subject to the spell’s effects (for instance, “When the target dies, Cure + Resuscitate takes effect”). The contingent talent’s effects can remain dormant within the target for up to 10 minutes per caster level you have. A creature can be infused with only one contingent talent at a time.
 **Construction Requirements**
@@ -601,7 +601,7 @@ Craft Apparatus, Contingent Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 #### Dazing Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can modify a talent to daze a creature damaged by the spell. When a creature takes damage from this spell, they become dazed for a number of rounds equal to the half the caster level of the talent (minimum 1). If the talent allows a saving throw, a successful save negates the daze effect. If the talent does not allow a save, the target can make a Will save to negate the daze effect. If the talent effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell.
 **Construction Requirements**
@@ -609,7 +609,7 @@ Craft Apparatus, Dazing Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal), 3
 
 #### Delayed Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You delay the effect of a sphere ability for up to 5 rounds after you use it. You must select the amount of delay when using the effect. The area or target to be affected must be within range when the ability is used, but need not remain in your range (you or it may move) before the effect activates.
 **Construction Requirements**
@@ -617,7 +617,7 @@ Craft Apparatus, Delayed Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 #### Disruptive Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Targets affected by a disruptive spell must make concentration checks when using talents or sphere-like abilities (DC equals the save DC of the disruptive spell plus 1/2 the caster level of the talent being cast (minimum 1)) for 1 round. Targets that avoid the talent’s effects avoid this apparatus’ effect as well.
 **Construction Requirements**
@@ -625,7 +625,7 @@ Craft Apparatus, Disruptive Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal)
 
 #### Ectoplasmic Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 An ectoplasmic talent has full effect against incorporeal or ethereal creatures.
 **Construction Requirements**
@@ -633,7 +633,7 @@ Craft Apparatus, Ectoplasmic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal
 
 #### Elemental Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Choose one energy type when crafting this apparatus: acid, cold, electricity, or fire. You may replace a talent’s normal damage with that energy type or split the talent’s damage, so that half is of that energy type and half is of its normal type. If this rod is found, not crafted, roll 1d4 to determine (in alphabetical order) which element this metamagic apparatus is attuned to. These apparatuses are usually named with their elemental affinity in front.
 **Construction Requirements**
@@ -641,7 +641,7 @@ Craft Apparatus, Elemental Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 #### Empowering Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 All variable, numeric effects of an empowered talent are increased by half, including bonuses to those dice rolls. Saving throws and opposed rolls are not affected, nor are talents without random variables.
 **Construction Requirements**
@@ -649,7 +649,7 @@ Craft Apparatus, Empower Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 #### Encouraging Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Any morale bonus granted by an encouraging talent is increased by 1. (Morale bonuses are usually granted by the Mind and War spheres.)
 **Construction Requirements**
@@ -657,7 +657,7 @@ Craft Apparatus, Encouraging Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal
 
 #### Enlarging Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can alter a talent with a range of close, medium, or long to increase its range by 100%. An enlarged talent with a range of close now has a range of 50 ft. + 5 ft./level, while medium-range spells have a range of 200 ft. + 20 ft./level and long-range spells have a range of 800 ft. + 80 ft./level. Talents whose ranges are not defined by distance, as well as talents whose ranges are not close, medium, or long, do not benefit from this effect.
 **Construction Requirements**
@@ -665,7 +665,7 @@ Craft Apparatus, Enlarging Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 #### Extending Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 An extended talent lasts twice as long as normal. A talent with a duration of concentration, instantaneous, or permanent is not affected by this apparatus, but you may choose to activate this apparatus when spending a spell point to make a talent you're concentrating on last without concentration.
 **Construction Requirements**
@@ -673,7 +673,7 @@ Craft Apparatus, Extend Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10
 
 #### Fearsome Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When a creature takes hit point damage from a fearsome talent, if that creature failed its save against the talent, it becomes shaken for a number of rounds equal to 1/2 the talent’s caster level (minimum 1 round). If the talent doesn’t allow a save, creatures harmed by it can attempt a Will save (against the same DC the talent would have if it did allow a save) to negate the shaken effect. If the talent already causes creatures to become shaken, on a failed save, add the duration of this metamagic effect to the duration of the shaken condition imposed by the talent. A fearsome talent can’t cause a creature to become frightened, even if that creature is already shaken.
 **Construction Requirements**
@@ -681,7 +681,7 @@ Craft Apparatus, Fearsome Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal),
 
 #### Flaring Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 The electricity, fire, or light effects of the affected talent create a flaring that dazzles creatures that take damage from the talent. A flaring talent causes a creature that takes fire or electricity damage from the affected talent to become dazzled for a number of rounds equal 1/2 the caster the spell (minimum 1 round). A flaring metamagic apparatus only affects talents with a fire, light, or electricity descriptor that deal damage.
 **Construction Requirements**
@@ -689,7 +689,7 @@ Craft Apparatus, Flaring Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 #### Fleeting Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A fleeting talent’s duration becomes dismissible, if it is not already. You can dismiss your own fleeting talent as a swift action. When you dismiss a fleeting talent, its lingering aura cannot be detected by magic unless the caster succeeds at a caster level check against a DC equal to 11 + 1/2 your caster level (minimum 1). The DC of dispel checks to counter a fleeting spell is reduced by 2, and once active, counterspell removes a fleeting spell without a caster level check. A fleeting talent has half its normal duration (with an extended fleeting talent, these duration adjustments cancel out). Only talents with a duration of at least 2 rounds can be made fleeting, and instantaneous or permanent talents cannot be fleeting talents. Time spent concentrating on a talent does not count against a fleeting talent's time limit, and you may choose to activate this apparatus when spending a spell point to make a talent you're concentrating on last without concentration.
 **Construction Requirements**
@@ -697,7 +697,7 @@ Craft Apparatus, Fleeting Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 
 
 #### Focusing Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When casting a talent that affects or targets more than one creature, you can choose one target or creature within the talent's effect. That creature’s saving throw DC to resist the talent is increased by +2. You must choose which target to focus the talent on before casting the talent.
 **Construction Requirements**
@@ -705,7 +705,7 @@ Craft Apparatus, Focusing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 #### Furious Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A furious talent that deals hit point damage adds the talent’s caster level to the amount of damage dealt by the talent. Talents that affect multiple targets deal the extra damage once to each target, regardless of whether the talent deals its damage all at once or in multiple hits (in the latter case, add the extra damage to the first hit against each target). In addition, a furious talent can be cast while the caster is enraged, including during a barbarian rage or while affected by a rage talent. Even a furious talent that requires an emotion component can be cast while enraged. The caster gains a +2 circumstance bonus on concentration checks and caster level checks related to casting a furious talent if she is enraged.
 **Construction Requirements**
@@ -713,7 +713,7 @@ Craft Apparatus, Furious Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 #### Intuitive Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 An intuitive talent can be cast with no mental focus (as required by the Mental Focus drawback). Talents that do not normally require mental focus are not affected.
 **Construction Requirements**
@@ -721,7 +721,7 @@ Craft Apparatus, Intuitive Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 #### Lingering Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You may cause an instantaneous talent that affects an area to persist until the beginning of your next turn. Those already in the area suffer no additional harm, but other creatures or objects entering the area are subject to its effects. A lingering talent with a visual manifestation obscures vision, providing concealment (20% miss chance) beyond 5 feet and total concealment (50% miss chance) beyond 20 feet.
 **Construction Requirements**
@@ -729,7 +729,7 @@ Craft Apparatus, Lingering Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 #### Logical Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A logical talent can be cast without emotion components (as required by the Emotional Casting drawback). Talents that don’t require emotion components are not affected.
 **Construction Requirements**
@@ -737,7 +737,7 @@ Craft Apparatus, Logical Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 #### Maximizing Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater); **Weight** 5 lbs.
 **Description**
 All variable, numeric effects of a talent modified by this apparatus are maximized. Saving throws and opposed rolls are not affected, nor are talents without random variables. An empowered, maximized talent gains the separate benefits of each feat: the maximum result plus half the normally rolled result.
 **Construction Requirements**
@@ -745,7 +745,7 @@ Craft Apparatus, Maximize Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal),
 
 #### Merciful Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can alter talents that inflict damage to inflict nonlethal damage instead. Talents that inflict damage of a particular type (such as fire) inflict nonlethal damage of that same type.
 **Construction Requirements**
@@ -753,7 +753,7 @@ Craft Apparatus, Merciful Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 
 
 #### Persistent Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Whenever a creature targeted by a persistent talent or within its area succeeds on its saving throw against the talent, it must make another saving throw against the effect. If a creature fails this second saving throw, it suffers the full effects of the talent, as if it had failed its first saving throw. Talents that do not require a saving throw to resist or lessen the talent’s effect do not benefit from this feat.
 **Construction Requirements**
@@ -761,7 +761,7 @@ Craft Apparatus, Persistent Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 #### Piercing Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When you cast a piercing talent against a target with spell resistance, it treats the spell resistance of the target as 5 lower than its actual SR.
 **Construction Requirements**
@@ -769,7 +769,7 @@ Craft Apparatus, Piercing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 #### Quickening Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**20,000 gp (lesser), 40,000 gp (normal), 80,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 20,000 gp (lesser), 40,000 gp (normal), 80,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Activating this metamagic apparatus decreases the casting time of a talent by 2 steps (to a minimum of one swift action). Like all metamagic effects, a caster cannot apply Quicken Spell multiple times to the same casting.
 **Construction Requirements**
@@ -777,7 +777,7 @@ Craft Apparatus, Quicken Spell; **Cost** 10,000 gp (lesser), 20,000 gp (normal),
 
 #### Reaching Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can alter a spell with a range of touch, close, or medium to increase its range to a higher range category, using the following order: touch, close, medium, and long. Unlike most metamagic apparatuses, you may activate this metamagic apparatus multiple times for the same casting to increase its range. A reaching metamagic apparatus has 5 charges per day instead of the usual 3.
 **Construction Requirements**
@@ -785,7 +785,7 @@ Craft Apparatus, Reach Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20
 
 #### Riming Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 The frost of your cold talent clings to the target, impeding it for a short time. A rime talent causes creatures that take cold damage from the talent to become entangled for a number of rounds equal to 1/2 the caster level of the talent (minimum 1). This feat only affects talent with the cold descriptor that deal damage.
 **Construction Requirements**
@@ -793,7 +793,7 @@ Craft Apparatus, Rime Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,0
 
 #### Scarring Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When a creature fails a saving throw against a scarring talent, for the next 24 hours that creature takes a —2 penalty on saving throws against emotion and fear effects you create, and a —1 penalty on saving throws against other emotion and fear effects. Penalties from multiple scarring talents don’t stack. This metamagic apparatus can be activated only for talents with the emotion or fear descriptor.
 **Construction Requirements**
@@ -801,7 +801,7 @@ Craft Apparatus, Scarring Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 #### Seeking Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A seeking talent’s range can bend around obstacles to reach the intended target. You can define the route yourself or unambiguously identify a target and allow the talent to determine its own path. However, the talent fails if it would have to travel farther than its maximum range to reach the identified target. A ranged attack roll made to deliver a seeking talent is not subject to cover or concealment. In order to benefit from this effect, the selected talent must have a range greater than touch and target one or more creatures, or it must require the caster to make a ranged touch attack.
 **Construction Requirements**
@@ -809,7 +809,7 @@ Craft Apparatus, Seeking Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 #### Selective Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When casting a selective talent with an area effect and a duration of instantaneous, you can choose a number of targets in the area equal to your casting ability score modifier. These targets are excluded from the effects of your talent.
 **Construction Requirements**
@@ -817,7 +817,7 @@ Craft Apparatus, Selective Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 #### Shadow Grasping Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When you cast a talent with the darkness descriptor that affects an area, creatures in the area are entangled. If the talent allows a saving throw, a successful save negates the entangle effect. If the talent does not normally allow a save, a creature can make a Reflex save (DC = the talent’s DC if it had a saving throw) to negate the effect. If the talent allows spell resistance, failing to overcome a creature’s spell resistance means it is not entangled. An entangled creature remains so as long as it is in the area of the talent and for 1 round after it leaves. A creature that leaves and reenters the area must make a new saving throw to avoid becoming entangled. Creatures that succeed at a save to resist being entangled do not have to make additional saves if they stay within the darkened area. You are never impeded by the effects of your talents modified by this feat.
 **Construction Requirements**
@@ -825,7 +825,7 @@ Craft Apparatus, Shadow Grasp; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10
 
 #### Sickening Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can modify a talent to sicken a creature damaged by the talent. When a creature takes damage from this talent, they become sickened for a number of rounds equal 1/2 the caster level of the spell (minimum 1 round). If the talent allows a saving throw, a successful save negates the sickening effect. If the talent does not allow a save, the target can make a Fortitude save to negate the sickening effect. If the talent effect also causes the creature to become sickened, the duration of this metamagic effect is added on to the duration of the talent. Talents that do not inflict damage do not benefit from this effect.
 **Construction Requirements**
@@ -833,7 +833,7 @@ Craft Apparatus, Sickening Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal)
 
 #### Silent Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A silent talent can be cast with no verbal components (as required by the Verbal Casting drawback). Talents without verbal components are not affected.
 **Construction Requirements**
@@ -841,7 +841,7 @@ Craft Apparatus, Silent Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10
 
 #### Snuffing Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can modify a talent to extinguish magical and non-magical light sources that the target has. The first time a creature takes damage from or fails a saving throw against a snuffing talent, any non-magical light sources it has are immediately extinguished and you can attempt to dispel any active sphere effects with the light descriptor that are affecting the target as if you had also cast the targeted version of Counterspell (as the feat). Talents that do not target creatures can’t be snuffing talents.
 **Construction Requirements**
@@ -849,7 +849,7 @@ Craft Apparatus, Snuffing Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal),
 
 #### Solar Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Any talent you cast with the [light] descriptor that deals damage (including the Light sphere's Searing light talent and any destructive blast type in the Light blast type group) is fortified with the cleansing energies of the sun. If the talent creates an area of light, all creatures are dazzled for as long as they remain within the light’s area. Oozes, fungal creatures, creatures from the Shadow Plane, and undead must also succeed at a Will save (normal DC for your talent) or take a –2 penalty on attack rolls, damage rolls, saving throws, skill checks, and ability checks for as long as they remain within the light's area. If the talent normally dazzles or blinds affected creatures with a duration other than instantaneous or permanent, the duration of that effect is increased by a number of rounds equal to 1/2 the talent's caster level (minimum 1 round). Saving throws to remove the effect early still apply and can bypass this increase. If the talent deals more damage against oozes, fungal creatures, creatures from the Shadow Plane, or undead with a specific vulnerability to sunlight, the talent deals 1 additional point of damage per die against such creatures.
 **Construction Requirements**
@@ -857,7 +857,7 @@ Craft Apparatus, Solar Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 #### Still Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A stilled talent can be cast with no somatic components (as required by the Somatic Casting drawback). Talents without somatic components are not affected. This metamagic apparatus does not need to be held or wielded to be used; it is activated mentally, so being carried or worn suffices.
 **Construction Requirements**
@@ -865,7 +865,7 @@ Craft Apparatus, Still Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 #### Studied Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When casting a studied talent, designate one target affected by the spell. Attempt an appropriate Knowledge check based on that target’s creature type as you cast the talent. The DC for this check is equal to 20 + the creature’s CR based on its race and not including any class levels or templates (a creature that is defined by class levels has an effective CR of 0 for this ability). If you succeed, your studied talent ignores any energy resistance or damage reduction the target has because of its race as well as any bonuses on saving throws against the talent granted by the target’s race (such as the bonus from a dwarf’s hardy ability or a halfling’s halfling luck ability). Your studied talent doesn’t ignore energy resistance, damage reduction, or saving throw bonuses granted by other talents and effects. If you fail the Knowledge check, the talent still has its normal effects.
 **Construction Requirements**
@@ -873,7 +873,7 @@ Craft Apparatus, Studied Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 #### Suppressing Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Talents affected by this feat have a reduced manifestation. Being subjected to the effect requires a Perception check (DC 15 + 1/2 your caster level) or the target does not perceive the presence and source of the effect. Special: For each (sensory) talent you possess, improve the Perception check DC by an additional +2 and hide sensation associated with that (sensory) talent. This has no effect on spells or sphere abilities that rely on a suppressed sensation(s) to function, but you may always forgo the +2 bonus to the Perception DC to allow the sensation of the effect to function normally.
 **Construction Requirements**
@@ -881,7 +881,7 @@ Craft Apparatus, Suppressed Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 #### Tenacious Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Increase the DC of caster level checks to counter or dispel a tenacious talent by 2. If a tenacious talent is dispelled or dismissed, it lasts for 1d4 further rounds (to a maximum of the talents normal duration) before ending (this does not occur if antimagic field or a similar talent or effect suppresses or ends the talent’s effect without dispelling or dismissing it). The lingering auras of tenacious talents detectable with detect magic last for twice as long as usual after the talent ends.
 **Construction Requirements**
@@ -889,7 +889,7 @@ Craft Apparatus, Still Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 #### Thanatopic Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A thanatopic talent pierces defenses and immunities that protect against death effects, negative levels, and energy drain, affecting the target as if the protective barrier did not exist. For example, you could cast a thanatopic ghost touch on a target under the effects of death ward, and the target would suffer the normal effect of the talent. Saving throws and SR (if any) still apply. Undead are susceptible to talents augmented by this feat, as it retunes the negative energy to be harmful to them. A thanatopic talent that would kill a living creature (such as by giving it negative levels equal to its Hit Dice) destroys an undead (though undead such as ghosts, liches, and vampires may reform as normal). Undead affected by thanatopic talents that give negative levels automatically make their saving throws to remove negative levels after 24 hours.
 **Construction Requirements**
@@ -897,7 +897,7 @@ Craft Apparatus, Thanatopic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 #### Tenebrous Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater); **Weight** 5 lbs.
 **Description**
 When you cast a tenebrous talent in darkness or dim light, the spell’s effective caster level is increased by 2 and any associated save DCs are increased by 1. Any attempts at dispelling a tenebrous talent in darkness or dim light take a –2 penalty on the dispel check. Casting a tenebrous talent in bright light is difficult, and requires a concentration check (DC 15 + the tenebrous talent's effective caster level). Attempts to dispel a tenebrous talent in bright light gain a +4 bonus on the dispel check. You cannot use this effect on talents with the light descriptor.
 **Construction Requirements**
@@ -905,7 +905,7 @@ Craft Apparatus, Tenebrous Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal),
 
 #### Threnodic Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 This effect only works on mind-affecting talents. A threnodic talents affects undead creatures (even mindless undead) as if they weren’t immune to mind-affecting effects, but has no effect on living creatures. This metamagic apparatus does not give you the effects of the Mind sphere's Expanded Charm talent.
 **Construction Requirements**
@@ -913,7 +913,7 @@ Craft Apparatus, Threnodic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal)
 
 #### Thundering Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can modify a talent to deafen a creature damaged by the talent. When a creature takes damage from this talent, it becomes deafened for a number of rounds equal to 1/2 the caster level of the spell (minimum 1 round). If the talent allows a saving throw, a successful save negates the deafening effect. If the talent does not allow a save, the target can make a Fortitude save to negate the deafening effect. If the talent effect also causes the creature to become deafened, the duration of this metamagic effect is added to the duration of the talent. Talents that do not inflict damage do not benefit from this apparatus.
 **Construction Requirements**
@@ -921,7 +921,7 @@ Craft Apparatus, Thundering Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 #### Toppling Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 The impact of your force talent is strong enough to knock the target prone. If the target takes damage, fails its saving throw, or is moved by your force talent, make a trip check against the target, using your caster level plus your casting ability modifier. This does not provoke an attack of opportunity. If the check fails, the target cannot attempt to trip you or the force effect in response. This apparatus only affects talents with the force descriptor.
 **Construction Requirements**
@@ -929,7 +929,7 @@ Craft Apparatus, Toppling Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 #### Toxic Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can use 1 dose of contact, ingested, inhaled, or injury poison as an additional material component for a talent you cast. This talent gains the poison descriptor. Select a single creature affected by the talent. If that creature fails its saving throw against the talent, it must also attempt a saving throw against the poison used as a material component. If the target fails the save against the poison, the poison takes effect immediately, ignoring any onset time. The poison uses its save DC (rather than the save DC of the talent), but is modified by any effects that increase the talent’s DC (such as Spell Focus). This effect works only with talents whose effects can be negated by a successful Fortitude save.
 **Construction Requirements**
@@ -937,7 +937,7 @@ Craft Apparatus, Toxic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 #### Traumatic Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 A traumatic talent causes lingering memories of pain and suffering in creatures harmed by it. When a creature fails a saving throw against a traumatic talent, the next time it sleeps it must succeed at a Will save with a DC equal to the original talent’s DC or be affected as if by *nightmare* (as the spell). Each time the target fails its save, it must save again the following night or be affected by another *nightmare*, though the save DC decreases by 2 each night after the first. This metamagic effect can be applied only to talents with the emotion or fear descriptor.
 **Construction Requirements**
@@ -945,7 +945,7 @@ Craft Apparatus, Traumatic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal)
 
 #### Tricking Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater); **Weight** 5 lbs.
 **Description**
 Only Mind talents (or talents that also include an effect from the Mind sphere, such as some spellcrafted or dual sphere effects) that affect a single target and can be negated with a successful Will save can be trick talents. If the target fails its Will save against a trick talent, in addition to the talent's normal effects, the target also clumsily hinders itself. Immediately attempt a special combat maneuver check (1d20 + your caster level + your Charisma bonus) to perform a dirty trick combat maneuver against the target. Any feats you have that apply to dirty trick maneuvers (such as Greater Dirty Trick) also apply to this check. This combat maneuver check never provokes attacks of opportunity.
 **Construction Requirements**
@@ -953,7 +953,7 @@ Craft Apparatus, Trick Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 #### Umbral Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.
 **Description**
 An umbral talent gains the darkness descriptor. As long as the talent is in effect, the creature or object affected radiates darkness in a 10-foot radius, reducing illumination similar to the effects of the basic effect of the Dark sphere. Nonmagical sources of light, such as torches or lanterns, do not increase the light level in this area. Magical light sources only increase the light level in an area affected by an umbral talent if they are of a higher level than the umbral talent’s caster level. This effect does not stack with itself or with any other effect that creates darkness.
 **Construction Requirements**
@@ -961,7 +961,7 @@ Craft Apparatus, Umbral Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 2
 
 #### Widening Metamagic Apparatus [Wiki]
 
-**Slot**none;**Price**15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater);**Weight** 5 lbs.
+**Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater); **Weight** 5 lbs.
 **Description**
 You can alter a burst, emanation, or spread-shaped spell to increase its area. Any numeric measurements of the spell’s area increase by 100%. Spells that do not have an area of one of these sorts are not affected by this feat. (Cones, lines, and spheres are emanations.)
 **Construction Requirements**

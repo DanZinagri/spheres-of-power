@@ -10,7 +10,7 @@ parent: "[[Spheres Of Might]]"
 
 ### Stretching
 
-**Aura**moderate Transmutation (or Enhancement);**CL**6th;**Price**2,000 gp,**Weight** -
+**Aura** moderate Transmutation (or Enhancement); **CL** 6th; **Price** 2,000 gp, **Weight** -
 
 This special ability may only be applied to weapons that can only be used against creatures of a particular size or range of sizes, such as a mancatcher or net. A stretching weapon is usable against creatures of any size category.
 
@@ -21,8 +21,8 @@ Craft Magic Arms and Armor, masterwork transformation or Enhancement sphere; **C
 
 ### Enhancement Infuser [SUE]
 
-**Aura**faint enchantment;**CL** 5th
-**Slot**none;**Price**200 gp (Weapon), 100 gp (Armor/Shield);**Weight** -
+**Aura** faint enchantment; **CL** 5th
+**Slot** none; **Price** 200 gp (Weapon), 100 gp (Armor/Shield); **Weight** -
 
 This device takes many forms depending on the technology of the setting. But usually a small lightweight device that can be easily attached to any kind of gizmo.
 
@@ -40,7 +40,7 @@ Smith Magical Weapons And Armor, Enhancement sphere, Tinker sphere; **Cost** Wea
 
 ### Spirit Snare Net
 
-**Aura**moderate Conjuration;**CL**9th;**Slot**none;**Price**10,330 gp,**Weight** 10 lbs.
+**Aura** moderate Conjuration; **CL** 9th; **Slot** none; **Price** 10,330 gp, **Weight** 10 lbs.
 
 This +1 ghost touch snag net may be used to entangle ethereal and incorporeal creatures. A creature so entangled cannot pass through solid matter until it is freed. While entangled in the net, such a creature is subject to trip and grapple attempts.
 

@@ -13,14 +13,14 @@ Short, thin, and muddy green and russet red, this small humanoid wields a spear.
 XP 400
 Pathfinder Roleplaying Game Bestiary
 N Small plant (mythic)
-**Init**+2;**Senses** darkvision 60 ft., greensightMA, low-light vision; Perception +4
+**Init** +2; **Senses** darkvision 60 ft., greensightMA, low-light vision; Perception +4
 
 #### Defense
 
-**AC**17,**touch**13,**flat-footed** 15 (+2 Dex, +4 natural, +1 size)
+**AC** 17, **touch** 13, **flat-footed** 15 (+2 Dex, +4 natural, +1 size)
 **hp** 16 (1d8+12)
-**Fort**+3,**Ref**+2,**Will** +0
-**Defensive Abilities**DR 5/slashing or bludgeoning;**Immune** electricity, plant traits
+**Fort** +3, **Ref** +2, **Will** +0
+**Defensive Abilities** DR 5/slashing or bludgeoning; **Immune** electricity, plant traits
 
 #### Offense
 
@@ -31,10 +31,10 @@ N Small plant (mythic)
 
 #### Statistics
 
-**Str**11,**Dex**14,**Con**12,**Int**8,**Wis**11,**Cha** 11
-**Base Atk**+0;**CMB**–1;**CMD** 11
+**Str** 11, **Dex** 14, **Con** 12, **Int** 8, **Wis** 11, **Cha** 11
+**Base Atk** +0; **CMB** –1; **CMD** 11
 **Feats** ToughnessMF
-**Skills**Perception +4, Stealth +10 (+18 in vegetation);**Racial Modifiers** +4 Stealth (+12 in vegetation)
+**Skills** Perception +4, Stealth +10 (+18 in vegetation); **Racial Modifiers** +4 Stealth (+12 in vegetation)
 **Languages** Undercommon, Vegepygmy (can’t speak)
 **SQ** fungal synthesisMA, woodland stride
 

@@ -118,7 +118,7 @@ Traps, poisons, and other potential perils have no alignment. Creatures with ali
 ^ Except for undead and outsider, which have their own entries on the table.
 ^^ Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.
 
-**Source:** Arcforge Players Compendium
+*Source: Arcforge Players Compendium*
 
 **Divine Fate:** You may divine the alignment auras of creatures you can see within range. Such creatures emit a colored aura depending upon what alignments or loyalties you share with them. Creatures that share the same moral alignment (good/neutral/evil) emit a red aura. Creatures that share the same ethical alignment (lawful/neutral/chaotic) emit a blue aura. Creatures that share a primary base loyalty (see Detect Loyalties) emit a yellow aura. Creatures that share multiple colors have their colors combined, i.e. a creature that shares the primary base loyalty of family and the ethical alignment of chaos will emit a green aura. Creatures that share all three primary colors (red, blue, and yellow) emit a glowing white aura. Refer to Table: Divine Fate below for more information on how colored auras combine. Creatures that do not share any alignment or loyalties do not emit any aura that you can see.
 
@@ -199,11 +199,11 @@ For example, divining about a specific criminal organization, both members of th
 
 ### Time
 
-**Source:** Arcforge Players Compendium
+*Source: Arcforge Players Compendium*
 
 **Divine Time:** You may divine the events that happened within range. You can only divine what occurred up to 1 hour per caster level in the past. When you divine time you are only given the following details: The number of creatures that were in the area, their size, how long they remained in the area, and any movements they made while in the area. In addition, if objects were left unattended or unattended objects were moved during this time, you learn the size and vague shape of such objects.
 
-**Source:** Arcforge Players Compendium
+*Source: Arcforge Players Compendium*
 
 ### War
 
@@ -213,7 +213,7 @@ For example, divining about a specific criminal organization, both members of th
 
 Alternatively, you may divine the timeline of origin for creatures you can perceive within range, learning which alternate timelines these targets originally come from using the same parameters as determining your current timeline. If you are not aware of the timeline that a target came from, this divination provides a new name and distinguishing detail for this new timeline.
 
-**Source:** Arcforge Players Compendium
+*Source: Arcforge Players Compendium*
 
 **Divine Warp:** You may divine the presence of portals, rifts (including extradimensional spaces), and teleportation circles, both active and inactive within range. If you perceived a target teleport within the last hour, this also reveals to you the general direction and distance of their teleportation. If the creature teleports to a different plane, you immediately learn this, but you do not learn to what plane the creature teleported unless your caster level is at least 10. Should you find yourself on that plane before the hour is up, you can divine their general direction and distance.
 
@@ -283,7 +283,7 @@ When you divine, the ability lasts 2 rounds after you stop concentrating.
 
 #### Revealing Strike [strike] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 As a standard action, you may make a single weapon attack in conjunction with using a [divine] or [sense] effect. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the [divine] or [sense]. An unwilling target is allowed a Will save to negate [divine] or [sense] if a saving throw is not normally allowed. If using a scatter weapon, the [divine] or [sense] only applies to a single target, chosen at the time of attack.
 In addition, when you successfully hit a target with a weapon attack made as a standard action, you may spend a spell point as an immediate action to divine the target. A divine effect cast using this talent must be one which gathers information about a creature, such as divining to gain information with the Divination sphere base sphere effect or (divine) talents such as Detect Spellcaster or Detect Thoughts.
@@ -350,7 +350,7 @@ You may spend a spell point to divine for information. This grants you the abili
 
 #### Divine Relationships (divine) [utility] [3PP]
 
-**Source:** Baron's Hallowed Archive
+*Source: Baron's Hallowed Archive*
 
 You can determine whether or not two or more creatures have any sort of relationship. The amount of information gleaned depends on how long you study a particular area or set of subjects.
 
@@ -599,7 +599,7 @@ You may spend an additional spell point to increase the range of a sense from cl
 
 You may create a scrying sensor which floats directly above you at any height within range and moves with you. You can see and hear from this location at the same time that you can see and hear from your normal location. When viewing through this scrying sensor, you do not take penalties to Perception checks for distance.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Eyes Of The Cabal [BaP]
 

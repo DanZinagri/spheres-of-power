@@ -13,28 +13,28 @@ This long-tailed aquatic beast resembles a massive snapping turtle with draconic
 XP 12,800
 Pathfinder Roleplaying Game Bestiary
 N dragon (aquatic, mythic)
-**Init**+4;**Senses** darkvision 60 ft., low-light vision, scent; Perception +16
+**Init** +4; **Senses** darkvision 60 ft., low-light vision, scent; Perception +16
 
 #### Defense
 
-**AC**27,**touch**8,**flat-footed** 27 (+19 natural, –2 size)
+**AC** 27, **touch** 8, **flat-footed** 27 (+19 natural, –2 size)
 **hp** 166 (12d12+88)
-**Fort**+12,**Ref**+8,**Will** +9
-**Defensive Abilities**iridescent shellMMA; DR 10/epic;**Immune** dragon traits, fire, paralysis and sleep
+**Fort** +12, **Ref** +8, **Will** +9
+**Defensive Abilities** iridescent shellMMA; DR 10/epic; **Immune** dragon traits, fire, paralysis and sleep
 
 #### Offense
 
 **Speed** 20 ft., swim 30 ft.
 **Melee** bite +20 (3d6+10), 2 claws +20 (2d6+10)
-**Space**15 ft.;**Reach** 10 ft.
+**Space** 15 ft.; **Reach** 10 ft.
 **Special Attacks** boiling breathMA, breaching rushMA, breath weapon (50-ft. cone, 16d6 fire, Reflex DC 20 for half, usable every 1d4 rounds), capsize, lingering breath (2d8 fire, 4 rounds)MA, mythic power (4/day, surge 1d8), seething saunaMA
 
 #### Statistics
 
-**Str**31,**Dex**10,**Con**19,**Int**12,**Wis**13,**Cha** 12
-**Base Atk**+12;**CMB**+24 (+28 bull rush);**CMD** 34 (38 vs. bull rush and trip)
+**Str** 31, **Dex** 10, **Con** 19, **Int** 12, **Wis** 13, **Cha** 12
+**Base Atk** +12; **CMB** +24 (+28 bull rush); **CMD** 34 (38 vs. bull rush and trip)
 **Feats** Awesome Blow, Blind-Fight, Cleave, Improved Bull RushMF, Improved Initiative, Power AttackMF
-**Skills**Diplomacy +16, Intimidate +16, Perception +16, Sense Motive +16, Stealth +7 (+15 in water), Survival +16, Swim +33;**Racial Modifiers** +8 Stealth in water
+**Skills** Diplomacy +16, Intimidate +16, Perception +16, Sense Motive +16, Stealth +7 (+15 in water), Survival +16, Swim +33; **Racial Modifiers** +8 Stealth in water
 **Languages** Aquan, Common, Draconic
 
 #### Ecology

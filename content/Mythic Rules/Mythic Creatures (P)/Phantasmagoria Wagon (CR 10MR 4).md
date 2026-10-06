@@ -12,20 +12,20 @@ This ramshackle peddler’s wagon is covered with strangely carved doors and cup
 **Phantasmagoria wagon (CR 10/MR 4)**
 XP 9,600
 NE Large construct (mythic)
-**Init**+8MF;**Senses** darkvision 60 ft., low-light vision; Perception +1
+**Init** +8MF; **Senses** darkvision 60 ft., low-light vision; Perception +1
 
 #### Defense
 
-**AC**26,**touch**12,**flat-footed** 26 (+3 deflection, +14 natural, –1 size)
+**AC** 26, **touch** 12, **flat-footed** 26 (+3 deflection, +14 natural, –1 size)
 **hp** 148 (12d10+82)
-**Fort**+4,**Ref**+4,**Will** +5
-**Defensive Abilities**hardness 5; DR 10/epic;**Immune**construct traits;**SR** 21
+**Fort** +4, **Ref** +4, **Will** +5
+**Defensive Abilities** hardness 5; DR 10/epic; **Immune** construct traits; **SR** 21
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** slam +17 (1d6+9)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** bedraggled bondageMA, grim coachman, mysterious musicMA (bardic performance, 30 rounds, DC 22, countersong, distraction, fascinate, suggestion, dirge of doom, inspire greatness), mythic power (4/day, surge 1d8), phantom zoneMA, trample (1d6+9, DC 22)
 
 **Spell-Like Abilities** (CL 12th; concentration +18 (+22 to cast defensively))
@@ -35,8 +35,8 @@ Constant—tongues
 
 #### Statistics
 
-**Str**22,**Dex**11,**Con**—,**Int**15,**Wis**12,**Cha** 23
-**Base Atk**+12;**CMB**+19;**CMD** 32 (can’t be tripped)
+**Str** 22, **Dex** 11, **Con** —, **Int** 15, **Wis** 12, **Cha** 23
+**Base Atk** +12; **CMB** +19; **CMD** 32 (can’t be tripped)
 **Feats** Combat Casting, Improved InitiativeMF, Intimidating Prowess, Lingering PerformanceAPG, Skill Focus (Intimidate), ToughnessMF
 **Skills** Bluff +10, Diplomacy +10, Intimidate +33, Knowledge (geography) +10, Knowledge (local) +10, Knowledge (nature) +10, Knowledge (planes) +10, Perform (keyboard instruments) +10, Perform (percussion) +10, Sense Motive +10
 **Languages** Common

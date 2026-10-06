@@ -21,8 +21,8 @@ Spell Engines were previously described simply as Wands in Spheres of Power, but
 
 ### Dungeoneer’s Box
 
-**Aura**faint Divination;**CL**8;**SP** 2
-**Slot**none;**Price**16,000 gp;**Weight** 0.5 lbs.
+**Aura** faint Divination; **CL** 8; **SP** 2
+**Slot** none; **Price** 16,000 gp; **Weight** 0.5 lbs.
 **Description**
 This peculiar box has a small screen with a mechanical dial, which is powered by magic. This device may be activated by spending one of its two spell points, which will grant one of the following benefits, each of which have a duration of eight hours:
 
@@ -35,7 +35,7 @@ Craft Wand, Divination sphere, See Hazard, Trapfinding; Cost 8,000 gp
 
 ### Four Winds Bagpipe [High. HB]
 
-**Price**150 gp;**Slot**none;**CL**2nd;**Weight**8 lbs.;**Aura**moderate Nature and Weather;**Scaling** prize
+**Price** 150 gp; **Slot** none; **CL** 2nd; **Weight** 8 lbs.; **Aura** moderate Nature and Weather; **Scaling** prize
 
 This great highland bagpipe has four reeds, each one dedicated to a different wind guardian or spirit. Such musical instruments are often found in the possession of highland bards and skalds, many with druidic traditions.
 
@@ -45,12 +45,12 @@ While the specific names or directions associated with each of these winds may d
 - **8th Level – 4,950 gp:** The four winds bagpipe may now instead be used 2/day as a standard or move action. Multiple uses of this item do not stack. If you use this item again before the previous duration has expired, it replaces the previous use.
 - **12th Level – 16,200 gp:** The four winds bagpipe may now be used 4/day as a standard, move, or swift action.
 
-**Cost**8,100 gp;**Feats**Craft Spell Engine;**Spells** Nature sphere, Expanded Nature, Weather sphere
+**Cost** 8,100 gp; **Feats** Craft Spell Engine; **Spells** Nature sphere, Expanded Nature, Weather sphere
 
 ### Horn of the Fallen Bastion
 
-**Aura**moderate Destruction;**CL**8th;**SP** 2
-**Slot**none;**Price**16,000 gp**Weight** 5 lb.
+**Aura** moderate Destruction; **CL** 8th; **SP** 2
+**Slot** none; **Price** 16,000 gp **Weight** 5 lb.
 **Description**
 A curled ram’s horn fitted with a mouthpiece, inlaid in silver with a scene of a crumbling castle as it is overrun. Sounding the horn creates a wave of destruction, pulverizing anything in its way. The horn functions as a caster level 6th wand of destruction with the Shattering Blast and Sculpt Blast talents as well as the Energy Focus (shattering blast) drawback and a spell point capacity of 2.
 **Construction Requirements**
@@ -59,8 +59,8 @@ Craft Wand, Destruction sphere, Shattering Blast, Sculpt Blast; Cost 8,000 gp
 ### Wand of Cantrips
 
 The handle of this mahogany wand has the words “fortune favors the bold” engraved in sylvan.
-**Aura**faint Fallen Fey;**CL**1st;**SP** 1
-**Slot**none;**Price**500 gp;**Weight** 0.5 lbs.
+**Aura** faint Fallen Fey; **CL** 1st; **SP** 1
+**Slot** none; **Price** 500 gp; **Weight** 0.5 lbs.
 **Description**
 This wand creates random minor magical effects each time it is used, utilizing the Cantrips Wild Magic table from Wild Magic (or casts a random level 0 spell of the GM’s choice). Alternatively, the wand’s wielder may choose to spend 1 spell point from the wand to cast any level 0 spell (from any spell list).
 **Construction Requirements**
@@ -68,8 +68,8 @@ Craft Wand, Cantrips feat; Cost 250 gp
 
 ### Wand of Capacity
 
-**Price**100 gp;**Slot**none;**CL**1st;**SP** 1+
-**Weight**0.5 lbs.;**Aura**faint Divination;**Scaling** wonder
+**Price** 100 gp; **Slot** none; **CL** 1st; **SP** 1+
+**Weight** 0.5 lbs.; **Aura** faint Divination; **Scaling** wonder
 This peculiar wand has no base sphere, but may still store 1 spell point. Once the wand has become attuned to a character (which is performed by the user expending the wand's spell pool completely at the rate of 1 spell point per standard action spent) of sufficient level, new abilities may unlock. A single individual may only be attuned to a single wand of capacity per 24-hour period. Wands of capacity count as wands and may be refilled as other wands created using the Spheres of Power crafting system.
 **3rd Level — 1,000 gp:** Choose a specific sphere you possess. You may draw spell points from this wand to use the chosen sphere’s abilities as if drawing from your own spell pool. However, your caster level when using such abilities may be no higher than 3rd. When you rest to regain spell points, you may change the chosen sphere.
 **5th Level — 4,000 gp:** The wand’s spell pool increases to be able to store a maximum of 2 spell points. However, your caster level when drawing spell points from the wand instead of your own spell pool may be no higher than 5th.
@@ -81,25 +81,25 @@ This peculiar wand has no base sphere, but may still store 1 spell point. Once t
 **17th Level — 120,000 gp:** You may choose up to five spheres you possess. You may draw spell points from this wand to use the chosen spheres’ abilities as if drawing from your own spell pool. The wand’s spell pool increases to store a maximum of 6 spell points. However, your caster level with sphere talents or abilities which the wand provides spell points for may be no higher than 17th. When you rest to regain spell points, you may change the chosen spheres.
 **19th Level — 200,000 gp:** You may now draw spell points from this wand to use any sphere you possess, not just the five chosen. The wand’s spell pool increases to store a maximum of 10 spell points. However, your caster level with sphere talents or abilities which the wand provided spell points for may be no higher than 19th.
 **Construction Requirements**
-**Cost**100,000 gp;**Feats**Craft Spell Engine;**Spells** Divination sphere, Detect Spellcaster
+**Cost** 100,000 gp; **Feats** Craft Spell Engine; **Spells** Divination sphere, Detect Spellcaster
 
 ### Wand of Counterspelling
 
-**Price**3000 gp;**Slot**none;**CL**5th;**SP** 2+
-**Weight**0.5 lbs.;**Aura**faint Protection;**Scaling** wonder
+**Price** 3000 gp; **Slot** none; **CL** 5th; **SP** 2+
+**Weight** 0.5 lbs.; **Aura** faint Protection; **Scaling** wonder
 Instead of having a base sphere, this rowan wand grants its wielder the benefits of the Counterspell feat and has stored within it 2 spell points. Only spell points from the wand may be used to counter or dispel magical effects with the granted feats. In addition, when using the wand to counter or dispel magic, the wand makes magic skill checks as if the wielder possesses a MSB of +5 (even if the wielder’s MSB would normally be higher or lower). Wands of counterspelling count as wands and may be refilled as other wands created using the Spheres of Power crafting system.
 **7th Level — 7,000 gp:** The wand now also grants its wielder the benefits of the Counterspell Mastery feat. The wand makes magic skill checks as if the wielder possesses a MSB of +9 (base +7 plus an additional +2 because of Counterspell Mastery). The number of spell points the wand has stored within it increases to 3.
 **10th Level — 18,600 gp:** The wand now also grants its wielder the benefits of the Improved Counterspell feat. The wand makes magic skill checks as if the wielder possesses a MSB of +12 (base +10 plus an additional +2 because of Counterspell Mastery). The number of spell points the wand has stored within it increases to 5.
 **15th Level — 72,000 gp:** The wand now also grants its wielder the benefits of the Greater Counterspell feat. The wand makes magic skill checks as if the wielder possesses a MSB of +17 (base +15 plus an additional +2 because of Counterspell Mastery). The number of spell points the wand has stored within it increases to 7.
 **20th Level — 250,000 gp:** The wand makes magic skill checks as if the wielder possesses a MSB of +22 (base +20 plus an additional +2 because of Counterspell Mastery) or the wielder’s own MSB, whichever is higher. The number of spell points the wand has stored within it increases to 10.
 **Construction Requirements**
-**Cost**125,000 gp;**Feats**Craft Wand;**Spells** Protection sphere, Neutralization
+**Cost** 125,000 gp; **Feats** Craft Wand; **Spells** Protection sphere, Neutralization
 
 ### Wand of Mana Siphoning
 
 This elmwood wand has dwarven runes carved into the handle which translate to “mage anathema”.
-**Aura**faint Destruction;**CL**2nd;**SP** 1
-**Slot**none;**Price**1,000 gp;**Weight** 0.5 lbs.
+**Aura** faint Destruction; **CL** 2nd; **SP** 1
+**Slot** none; **Price** 1,000 gp; **Weight** 0.5 lbs.
 **Description**
 This wand of Destruction lacks the base destructive blast ability of the Destruction sphere, but is enchanted with the Mana Siphon (blast type) talent which allows wielders of the wand to make a ranged touch attack dealing 1d4 nonlethal damage. Those hit with the ray must make a DC 11 Fortitude save or lose 1 spell point. Any spell points drained from a creature in this fashion are granted to the wand as temporary spell points which last for 2 rounds. Alternatively, the wand’s wielder may choose to spend 1 spell point (or a temporary spell point) from the wand to increase the nonlethal damage from 1d4 to 2d4 damage.
 **Construction Requirements**
@@ -108,8 +108,8 @@ Craft Wand, Destruction sphere, Mana Siphon; Cost 500 gp
 ### Wand of Troll’s Vigor
 
 This ash wand is stained in troll’s blood, which never seems to completely dry.
-**Aura**moderate Life;**CL**8th;**SP** 4
-**Slot**none;**Price**16,000 gp;**Weight** 0.5 lbs.
+**Aura** moderate Life; **CL** 8th; **SP** 4
+**Slot** none; **Price** 16,000 gp; **Weight** 0.5 lbs.
 **Description**
 This wand of Life lacks the restore ability of the Life sphere, but wielders of the wand may spend one of its four spell points to either instantaneously heal a touched target 1d8+8 hit points or grant a touched target fast healing 1 for eight minutes. Alternatively, the wand may grant a target 8 temporary hit points (which may not exceed their maximum) for 1 hour; using the wand this way does not expend a spell point.
 **Construction Requirements**
@@ -118,8 +118,8 @@ Craft Wand, Life sphere, Revitalize; Cost 8,000 gp
 ### Wand of Unerring Boulder
 
 This oak wand lacquered in xorn fat is adorned with a quartz handle, which glows as a candle while possessing a charge.
-**Aura**moderate Destruction;**CL**6th;**SP** 1
-**Slot**none;**Price**9,000 gp;**Weight** 0.5 lbs.
+**Aura** moderate Destruction; **CL** 6th; **SP** 1
+**Slot** none; **Price** 9,000 gp; **Weight** 0.5 lbs.
 **Description**
 This wand of Destruction deals 3d6 bludgeoning damage as a melee or ranged touch attack. The wand is also enchanted with the Guided Strike (blast shape) and Stone Blast (blast type) talents, and holds a single spell point any of which may be used to augment the destructive blast.
 **Construction Requirements**
@@ -133,8 +133,8 @@ The following items were created by the Wiki or by members of community using th
 
 ### Apprentice's First Wand [Wiki]
 
-**Aura**faint Destruction;**CL**2nd;**SP** 1
-**Slot**none;**Price**1,000 gp**Weight** 2 lbs.
+**Aura** faint Destruction; **CL** 2nd; **SP** 1
+**Slot** none; **Price** 1,000 gp **Weight** 2 lbs.
 **Damage** 1d6 (2d6) nonlethal
 **Description**
 This slender wooden wand contains the Destruction sphere and the Gale Blast talent, as well as the Energy Focus (Gale Blast) drawback. This wand is often given to apprentices to help them practice their magic and control; since it only deals nonlethal damage and can trip targets, it's frequently the weapon of choice in amateur spell duels. While it normally deals 1d6 nonlethal damage, the user can spend the single spell point it can hold to increase this damage to 2d6 nonlethal.
@@ -143,8 +143,8 @@ Craft Wand, Destruction sphere, Gale Blast (blast type); **Cost** 500 gp
 
 ### Basic Wand [Wiki]
 
-**Aura**faint any;**CL**2nd;**SP** 1
-**Slot**none;**Price**1,000 gp**Weight** 2 lbs.
+**Aura** faint any; **CL** 2nd; **SP** 1
+**Slot** none; **Price** 1,000 gp **Weight** 2 lbs.
 **Description**
 Basic Wands are among the simplest forms of wand available and grant access to any single sphere at CL 2; spheres with package choices, such as the Nature sphere, only have one of these packages. Most of these wands are usually referred to by the sphere they contain, such as "Basic Destruction Wand", but shopkeepers have been known to give them fancier names in an effort to help them sell better. While still a little too expensive for most first-time adventurers, these are often put up on display for people who come in with pockets flush from their first big haul of treasure. Basic Destruction, Protection, Telekinesis, and Warp wands are particularly popular (often with monikers like "Boomstick" or "Wallhopper"). Wands normally require knowledge of the base sphere to use, so activating a Basic Wand typically requires a DC 20 Use Magic Device check.
 **Construction Requirements**
@@ -152,8 +152,8 @@ Craft Wand, any one Sphere; **Cost** 500 gp
 
 ### Chewstick [Wiki]
 
-**Aura**faint Nature;**CL**2nd;**SP** 1
-**Slot**none;**Price**1,000 gp**Weight** 2 lbs.
+**Aura** faint Nature; **CL** 2nd; **SP** 1
+**Slot** none; **Price** 1,000 gp **Weight** 2 lbs.
 **Description**
 Chewsticks are basic Nature (Plantlife) wands that are often used to sprout food from plants during long journeys. Capable of providing food for up to 6 medium-sized creatures per day, they handily solve food problems in areas that have food-growing plants. That said, they're less useful in deserts or arctic areas, so wise adventurers do not rely solely on these wands. Chewsticks can also Entangle or Pummel foes (as the Plantlife package abilities), making them a flexible and affordable choice for the cost-conscious buyer.
 **Construction Requirements**
@@ -161,8 +161,8 @@ Craft Wand, Nature Sphere; **Cost** 500 gp
 
 ### Firefighter's Wand [Wiki]
 
-**Aura**faint Dark;**CL**4th;**SP** 1
-**Slot**none;**Price**4,000 gp**Weight** 2 lbs.
+**Aura** faint Dark; **CL** 4th; **SP** 1
+**Slot** none; **Price** 4,000 gp **Weight** 2 lbs.
 **Range** up to a 20 foot sphere centered within 140 feet
 **Description**
 Firefighter's Wands are usually made of a fire-resistant metal and have instructions carefully carved into the side. These wands possess the Dark Sphere and the Extinguish talent. When used, a Firefighter's Wand can put out any nonmagical light sources within its area of effect, including fires and many chemical reactions. While too expensive for most small settlements, larger cities often stock several of these wands and have firefighting crews use them to create rolling, overlapping areas of darkness and quickly extinguish even large fires. Adventurers occasionally buy or borrow these wands to put out fires in enemy campsites before sneaking up on them. Firefighters rarely concentrate to maintain the effect, preferring instead of create new areas of darkness and help extinguish fires as quickly as possible.
@@ -171,8 +171,8 @@ Craft Wand, Dark sphere, Extinguish; **Cost** 2,000 gp
 
 ### Lightening Wand [Wiki]
 
-**Aura**moderate Enhancement;**CL**6th;**SP** 3
-**Slot**none;**Price**9,000 gp**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 6th; **SP** 3
+**Slot** none; **Price** 9,000 gp **Weight** 2 lbs.
 **Range** 40 feet
 **Description**
 Lightening Wands are popular with construction crews and wealthy individuals who like how easy they make redecorating. These wands contain the Enhancement sphere and the Lighten (enhance) talent, as well as the Obvious Enhancements drawback (which creates an obviously magical field of light around any object enhanced or lightened). These wands allow users to float objects up to small size, make medium items weightless, and halve the weight of large items as long as the user concentrates. Lightening Wands have three charges that can be expended to let an object remain lightened for up to six minutes without concentration. Lightening Wands can also be used to provide a +2 enhancement to weapons; while most owners have no need of this effect, construction crews occasionally enhance tools like pickaxes to make them harder and less likely to blunt during use.
@@ -181,8 +181,8 @@ Craft Wand, Enhancement sphere, Lighten (enhance), Obvious Enhancements (drawbac
 
 ### Shattering Wand [Wiki]
 
-**Aura**faint Destruction;**CL**6th;**SP** 3
-**Slot**none;**Price**9,000 gp**Weight** 2 lbs.
+**Aura** faint Destruction; **CL** 6th; **SP** 3
+**Slot** none; **Price** 9,000 gp **Weight** 2 lbs.
 **Damage** 3d4 (SP: 6d4) sonic
 **Description**
 This wand looks like a flute at first glance, but when wielded, it unleashes a dangerous blast of sonic energy. Shattering Wands contain the Destruction Sphere, the Shattering Blast talent, and the Energy Focus (Shattering Blast) drawback. Its blast does full damage to objects and ignores up to 3 hardness. Determined users often use Shattering Wands to blow through thin walls and other barriers.
@@ -191,8 +191,8 @@ Craft Wand, Destruction sphere, Shattering Blast (blast type); **Cost** 4,500 gp
 
 ### Talisman of the Ancestor's Might [Wiki]
 
-**Aura**moderate Enhancement;**CL**8th;**SP** 3
-**Slot**none;**Price**16,000 gp**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th; **SP** 3
+**Slot** none; **Price** 16,000 gp **Weight** 2 lbs.
 **Range** 45 feet
 **Description**
 This bone talisman is usually carved from the skull of an ancestor and is worn around the neck, though it must be held when used. The Talisman of the Ancestor's Might acts as a Wand of Enhancement with the Deep Enhancement, Mass Enhancement, and Physical Enhancement (enhance) talents, as well as the Bodily Enhancement and Obvious Enhancements drawbacks. Though capable of bestowing the blessing of the ancestors upon any target to improve some aspect of their physical abilities for as long as the user concentrates, the real power of this talisman comes in its ability to simultaneously bless up to 5 creatures for 80 minutes by expending all three of the spell points contained within. It must be recharged over three days after to regain its full potency, but that's something most users are willing to accept. It can also be used for lesser effect by either targeting fewer creatures or targeting a large group while maintaining concentration. Any creature enhanced by the Talisman of the Ancestor's Might is surrounded by ghostly forms faintly recognizable as their ancestors (or, for creatures without ancestors, the ancestors of the caster).
@@ -203,8 +203,8 @@ Craft Wand, Enhancement sphere, Deep Enhancement, Mass Enhancement, Physical Enh
 
 ### Talisman of the Ancestor's Will [Wiki]
 
-**Aura**moderate Enhancement;**CL**8th;;**SP** 1
-**Slot**none;**Price**16,000 gp**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 8th;; **SP** 1
+**Slot** none; **Price** 16,000 gp **Weight** 2 lbs.
 **Range** 45 feet
 **Description**
 As the Talisman of the Ancestor's Might, but with Mental Enhancement (enhance) instead of Physical Enhancement (enhance). These talismans are usually created by more intellectual and magic-focused tribes.
@@ -213,8 +213,8 @@ Craft Wand, Enhancement sphere, Deep Enhancement, Mass Enhancement, Mental Enhan
 
 ### The Bomb Box [Wiki]
 
-**Aura**moderate Destruction;**CL**8th;**SP** 3
-**Slot**none;**Price**16,000 gp**Weight** 2 lbs.
+**Aura** moderate Destruction; **CL** 8th; **SP** 3
+**Slot** none; **Price** 16,000 gp **Weight** 2 lbs.
 
 This small black box covered in silver-colored magical runes is a 4” cube. Opening the box reveals that the top and bottom are mostly filled with a round depression in the middle, about the size of a large marble. Opening or closing the box is a move action. As a full-round action, a person with the Destruction sphere (or a successful DC 20 Use Magic Device check) may concentrate and speak a command word while holding the closed box. This creates a crystal marble inside the box, which fits perfectly on the pillow inside. This marble can be used immediately or taken out and passed to other creatures for later use. Creating a marble uses 1 spell point from the box's total, and the box can hold 3 charges.
 
@@ -225,12 +225,12 @@ Variants of this box exist, replacing Crystal Blast with a different blast type.
 This functions as a Destruction spell engine with Energy Bomb, Gather Energy, and Crystal Blast talents, and the Shape Focus (Energy Bomb) and Energy Focus (crystal) drawbacks.
 
 **Construction Requirements**
-**Craft**Spell Engine (or Craft Wand), Destruction sphere, Energy Bomb talent, Gather Energy talent, and Crystal Blast talent;**Cost** 8,000 gp
+**Craft** Spell Engine (or Craft Wand), Destruction sphere, Energy Bomb talent, Gather Energy talent, and Crystal Blast talent; **Cost** 8,000 gp
 
 ### Totem Wand [Wiki]
 
-**Aura**faint War;**CL**4th;**SP** 1
-**Slot**none;**Price**4,000 gp**Weight** 2 lbs.
+**Aura** faint War; **CL** 4th; **SP** 1
+**Slot** none; **Price** 4,000 gp **Weight** 2 lbs.
 **Range** 60 foot radius, centered on caster
 **Description**
 Totem Wands contain the War sphere and one additional (totem) talent, chosen when the wand is made. While these wands are not especially powerful, relaxed casters occasionally use these in lieu of actually casting their spells as a way of supporting their allies.
@@ -239,9 +239,9 @@ Craft Wand, War sphere, any (totem) talent; **Cost** 2,000 gp
 
 ### Wand of Truthtelling [Wiki]
 
-**Aura**faint Fate;**CL**2nd;**SP** 1
-**Slot**none;**Price**1,000 gp**Weight** 2 lbs.
-**Damage**1d4+1 nonlethal**Range** 30 feet
+**Aura** faint Fate; **CL** 2nd; **SP** 1
+**Slot** none; **Price** 1,000 gp **Weight** 2 lbs.
+**Damage** 1d4+1 nonlethal **Range** 30 feet
 **Description**
 Wands of Truthtelling are popular with interrogators, guards, and courts. These wands contain the Fate sphere and the Pain (word, curse) and Truth (word, curse) talents, as well as the Neutrality and Tongue of Ages drawbacks. While mostly used to lay a magical curse on subjects to ensure they're telling the truth - and casters know if the spell doesn't take hold, though they can usually try again until it does - these wands are also capable of punishing those who try to lie by inflicting nonlethal damage.
 **Construction Requirements**
@@ -249,10 +249,10 @@ Craft Wand, Fate sphere, Truth (word, curse), Neutrality (drawback), Tongue of A
 
 ### Wands of Search and Rescue [Wiki]
 
-**Aura**faint Divination and moderate Warp;**CL**2nd (Div) and 10th (Warp);**SP** 1 (Div), 2 (Warp)
-**Slot**none;**Price**26,000 gp**Weight** 2 lbs.
+**Aura** faint Divination and moderate Warp; **CL** 2nd (Div) and 10th (Warp); **SP** 1 (Div), 2 (Warp)
+**Slot** none; **Price** 26,000 gp **Weight** 2 lbs.
 **Range** sense 30 feet, warp 50 feet
 **Description**
-This wand is actually two wands chained together, one of which can be held in each hand during use. The **Search**wand is usually colored bright orange to make it easy to spot almost under any conditions and contains the Divination sphere with the Tremorsense and Widen Sight talents, as well as the Limited Divination (divine forbidden) and Hidden Magic drawbacks. The Tremorsense lasts up to 2 hours. The**Rescue** wand is usually colored bright green and contains the Warp sphere with the Group Teleport, Ranged Teleport, and Unseeing Teleport talents. Typical use involves activating the Search wand to help locate people trapped in fallen buildings, then using the Rescue wand to teleport out anyone who can't be reached normally. Rescue wands can teleport up to 6 people at once, but must use their very limited spell points to reach people who can't be seen normally. These wands are often used as magical blueprints to create Scrolls of Search and Rescue, which can't be recharged but are more affordable to make. Wands of Search and Rescue are usually owned by cities and used as part of emergency rescue efforts.
+This wand is actually two wands chained together, one of which can be held in each hand during use. The **Search** wand is usually colored bright orange to make it easy to spot almost under any conditions and contains the Divination sphere with the Tremorsense and Widen Sight talents, as well as the Limited Divination (divine forbidden) and Hidden Magic drawbacks. The Tremorsense lasts up to 2 hours. The **Rescue** wand is usually colored bright green and contains the Warp sphere with the Group Teleport, Ranged Teleport, and Unseeing Teleport talents. Typical use involves activating the Search wand to help locate people trapped in fallen buildings, then using the Rescue wand to teleport out anyone who can't be reached normally. Rescue wands can teleport up to 6 people at once, but must use their very limited spell points to reach people who can't be seen normally. These wands are often used as magical blueprints to create Scrolls of Search and Rescue, which can't be recharged but are more affordable to make. Wands of Search and Rescue are usually owned by cities and used as part of emergency rescue efforts.
 **Construction Requirements**
 Craft Wand, Divination sphere, Tremorsense, Widen Sight, Warp sphere, Group Teleport, Ranged Teleport, Unseeing Teleport; **Cost** 13,000 gp

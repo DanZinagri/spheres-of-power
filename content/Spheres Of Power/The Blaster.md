@@ -14,13 +14,13 @@ The Blaster is a first-level sample character for Spheres of Power, suitable for
 **The Blaster**
 Human elementalist 1
 N Medium humanoid (human)
-**Init**+3;**Senses** Perception +4
+**Init** +3; **Senses** Perception +4
 
 ## Defense
 
-**AC**17,**touch**13,**flat-footed** 14 (+3 Dex, +4 armor)
+**AC** 17, **touch** 13, **flat-footed** 14 (+3 Dex, +4 armor)
 **hp** 10 (1d8+2)
-**Fort**+3,**Ref**+5,**Will** +2
+**Fort** +3, **Ref** +5, **Will** +2
 **Weaknesses** somatic casting, verbal casting
 
 ## Offense
@@ -38,20 +38,20 @@ N Medium humanoid (human)
 
 ## Magic
 
-**Caster Level**1;**MSB**+1;**MSD**12;**Concentration** +5
+**Caster Level** 1; **MSB** +1; **MSD** 12; **Concentration** +5
 **Tradition** Warmage (Verbal, Somatic); +1 spell point, +1 per three levels gained in a spellcasting class)
 **CAM** Cha
 **Spell Points** 5
-**Destruction Sphere**- DC 15;**Duration**None;**Range**Close (25 ft), Touch;**Talents**Adhesive Blast, Explosive Orb;**Drawbacks** None
+**Destruction Sphere** - DC 15; **Duration** None; **Range** Close (25 ft), Touch; **Talents** Adhesive Blast, Explosive Orb; **Drawbacks** None
 - Destructive Blast (Adhesive Blast, Explosive Orb)
-**Protection Sphere**- DC 14;**Duration**Aegis (1 Hour), Ward (Concentration; 1 Round);**Range**Aegis (Touch), Ward (Up to 15 ft);**Talents**None;**Drawbacks** None
+**Protection Sphere** - DC 14; **Duration** Aegis (1 Hour), Ward (Concentration; 1 Round); **Range** Aegis (Touch), Ward (Up to 15 ft); **Talents** None; **Drawbacks** None
 - Aegis (Deflection)
 - Ward (Barrier)
 
 ## Statistics
 
-**Str**8,**Dex**16,**Con**12,**Int**10,**Wis**10,**Cha** 18
-**Base Atk**+1;**CMB**+4;**CMD** 16 (20 vs. bull rush or trip)
+**Str** 8, **Dex** 16, **Con** 12, **Int** 10, **Wis** 10, **Cha** 18
+**Base Atk** +1; **CMB** +4; **CMD** 16 (20 vs. bull rush or trip)
 **Feats** Extra Magical Talent. Sphere Focus (Destruction)
 **Traits** Destructive Talent, Practiced Aim
 **Skills** Acrobatics +5, Intimidate +8, Knowledge (arcana) +4, Perception +4, Spellcraft +4

@@ -14,34 +14,34 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Attentive Assistant (requires patrol package) [SA:MD2]
+#### Attentive Assistant (requires patrol package) [SA:MD2]
 
 You do not gain a delayed damage pool and may not select any talent which relies on the delayed damage pool. You gain Assist with this drawback.
 
 **Incompatible:** Indifferent Defender, Victorious Challenger, Without Delay.
 
-## Bodyguard [SA:MD]
+#### Bodyguard [SA:MD]
 
 You do not gain a Guardian package. You gain Defend Other with this drawback.
 
 **Incompatible:** Indifferent Defender.
 
-## Indifferent Defender
+#### Indifferent Defender
 
 You do not get to select a Guardian package. You gain Greater Delayed Damage with this drawback. You may not possess both this and the Without Delay drawback.
 
-## Opportunist [SA:MD2]
+#### Opportunist [SA:MD2]
 
 You do not gain a Guardian package. You gain Swift Reflexes with this drawback.
 
 **Incompatible:** Bodyguard, Indifferent Defender.
 
-## Victorious Challenger [SA:MD]
+#### Victorious Challenger [SA:MD]
 
 You do not gain a delayed damage pool and may not select any talent which relies on the delayed damage pool. You gain Flush Of Victory with this drawback.
 
 **Incompatible:** Indifferent Defender, Without Delay.
 
-## Without Delay
+#### Without Delay
 
 You do not gain a delayed damage pool and may not select any talent which relies on the delayed damage pool. You must take Swift Guardian with this drawback. You may not possess both this and the Indifferent Defender drawback.

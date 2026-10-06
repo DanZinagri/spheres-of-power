@@ -14,7 +14,7 @@ Some creatures you cannot bind, fetter, or subjugate. They can transport people 
 
 **CR:** +2
 
-**Defenses/Qualities:** evasion (if the base creature is at least 9 HD this ability increases to improved evasion);**Immune** to poison and disease (able to innately teleport poisons and other organisms outside its body).
+**Defenses/Qualities:** evasion (if the base creature is at least 9 HD this ability increases to improved evasion); **Immune** to poison and disease (able to innately teleport poisons and other organisms outside its body).
 
 **Special Abilities:** A jaunting creature gains the following special abilities.
 
@@ -36,12 +36,12 @@ Some creatures you cannot bind, fetter, or subjugate. They can transport people 
 ---
 
 **Teleport Attack**
-**School:** Conjuration (teleportation);**Level:** Sor/Wiz 7
+**School:** Conjuration (teleportation); **Level:** Sor/Wiz 7
 **Casting Time:** 1 Standard action
 **Components:** V, S
 **Range:** Touch
 **Target:** One creature or object touched, weighing no more than 50 lbs./level
 **Duration:** Instantaneous
-**Saving Throw:** Fortitude negates;**Spell Resistance:** Yes
+**Saving Throw:** Fortitude negates; **Spell Resistance:** Yes
 
 You teleport a target creature or object into a solid surface or object that you can see within close range (25 feet + 5 feet/two levels). If the spell succeeds, the subject suffers 2d6 points of temporary Constitution damage + 1 point of Constitution damage per round until freed and is helpless. It becomes half imbedded in the surface or object.

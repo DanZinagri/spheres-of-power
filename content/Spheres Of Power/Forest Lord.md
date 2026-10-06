@@ -217,25 +217,25 @@ This area is strongly associated with evil, and appears dead and full of a malig
 
 #### Wizards’ Lair
 
-**Strength**weak;**Manifestation** acid
+**Strength** weak; **Manifestation** acid
 
 After a wizard was forced to abandon his magical study, they left many valuable magical tools behind, which were quickly consumed by the forest and gave birth to a small cryptwood. The small ruined hut at the center contains 30,000 gp in raw magical materials that can still be repurposed for use in magic item creation, but so far the hut has remained undetected, as the cryptwood’s acid makes it difficult to approach.
 
 #### Chapel of Evil
 
-**Strength**powerful;**Manifestation** evil, fire
+**Strength** powerful; **Manifestation** evil, fire
 
 Once, many centuries ago, the Chapel of Evil had been home to a small but powerful group of infernal cultists. The temple was abandoned and would have floundered in obscurity, but the forest unearthed this ancient site and transformed the surrounding area into a cryptwood. The ruins now sit near the center of the cryptwood, buried underground except for a hole in the roof opened by a tree root, and containing an unknown amount of ancient wealth and magic items for whoever can overcome its many trials.
 
 #### The Forest of Illusions
 
-**Strength**overwhelming;**Manifestation** sentience, illusion, necromancy
+**Strength** overwhelming; **Manifestation** sentience, illusion, necromancy
 
 The Forest of Illusions is one of the world’s great mysteries, as no one truly knows what its power source is nor why it behaves the way that it does. The Forest of Illusions is ruled by someone or something; either an intelligence inside of the forest or a creature who commands the cryptwood to do its bidding. The isle contains several Lawful settlements and sends merchants to trade with outside cities, but accepts no unsolicited visitors. The cryptwood, it seems, does not bother those who have permission to enter so long as they obey all rules, but visitors who enter without permission or delve too deeply into the isle’s secrets are soon found dead or driven insane by horrors both real and imagined.
 
 #### The Heart
 
-**Strength**overwhelming;**Manifestation** sentience, gravity, healing
+**Strength** overwhelming; **Manifestation** sentience, gravity, healing
 
 The Heart is the cryptwood that has grown up around the birthplace of the forest itself. Visible from miles around for its trees (at over 1,000 ft. high, they are giants even by forest standards), the Heart is held by druids who allow none but their own arch druids to enter the cryptwood’s central grove.
 

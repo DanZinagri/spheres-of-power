@@ -11,32 +11,32 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Bodily Enhancement
+#### Bodily Enhancement
 
 You cannot enhance equipment and objects, only creatures. You can only take talents which can affect creatures. You must choose an (enhance) talent or Natural Enhancement with the bonus talent gained by this drawback.
 
 **Incompatible:** Constructor
 
-## Constructor
+#### Constructor
 
 You cannot use any effect of the Enhancement sphere that does not create a creature or mind. You must use the bonus magic talent from this drawback to select either Animate Object or Bestow Intelligence.
 
 **Incompatible:** Bodily Enhancement, Personal Magics
 
-## Marking Enhancements
+#### Marking Enhancements
 
 A mark appears on any creature or object you enhance. This mark always appears on a body part or portion of the object where it is easily visible. The mark can be easily removed; it can be rubbed away as a standard action (which requires a touch attack and provokes an attack of opportunity if the creature is not willing), or fades away after being exposed to water or another solvent for one minute. Once the mark has been removed, the enhancement ends prematurely.
 
-## Personal Magics
+#### Personal Magics
 
 You may only enhance yourself and your own equipment. You cannot take the Ranged Enhancement talent, and any enhancement bestowed on an object ceases to function unless you are carrying, wearing, or wielding that object. You cannot take talents such as Bestow Intelligence or Animate Object that give life or minds to objects.
 
 **Incompatible:** Constructor
 
-## Power Leech [Alienist HB]
+#### Power Leech [Alienist HB]
 
 You must select Power Parasitism with this talent. You can only use your Enhancement sphere abilities when Power Parasitism is triggered.
 
-## Special Delivery
+#### Special Delivery
 
 You must choose the Instill Enhancement talent with the bonus talent gained from this drawback. You cannot create enhancements except by using Instill Enhancement.

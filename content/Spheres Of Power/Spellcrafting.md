@@ -117,7 +117,7 @@ The cleric’s notes are a collection of religious essays discussing esoteric co
 **Casting Time** full-round action
 **Range** touch
 **Duration** 10 minutes/level
-**Saving Throw**none;**Spell Resistance** yes
+**Saving Throw** none; **Spell Resistance** yes
 **Prerequisites** Life sphere, Protection sphere
 **Complexity** 2 (+2 Life sphere)
 **Crafting Time** 2 days
@@ -151,7 +151,7 @@ This robust tome is filled with scribblings that appear cryptic and mad at first
 **Casting Time** 1 round
 **Range** touch
 **Duration** concentration, or 1 SP for one minute per caster level
-**Saving Throw**Fortitude negates;**Spell Resistance** yes
+**Saving Throw** Fortitude negates; **Spell Resistance** yes
 **Prerequisites** Alteration sphere (Avian Transformation (transformation), Aquan Transformation (transformation), Extreme Adaptation, Extreme Changes, Greater Changes, Size Change, Size Mastery, Star-Spawn Body (body)), Quicken Spell feat
 **Complexity** +4 (+1 Quicken Spell, +2 Alternate Shapeshift)
 **Crafting Time** 10 days
@@ -168,7 +168,7 @@ An esoteric tome, the art of guidance is hotly pursued by those who practice the
 **Casting Time** full-round action
 **Range** close (25 feet + 5 feet per 2 caster levels)
 **Duration** concentration
-**Saving Throw**none;**Spell Resistance** yes (harmless)
+**Saving Throw** none; **Spell Resistance** yes (harmless)
 **Prerequisites** Time sphere (After Image (time), Improved Haste)
 **Complexity** 2 (+2 After Image)
 **Crafting Time** 3 days
@@ -181,7 +181,7 @@ An esoteric tome, the art of guidance is hotly pursued by those who practice the
 **Casting Time** full-round action
 **Range** 20-ft. radius, +5-ft. per 5 caster levels
 **Duration** concentration
-**Saving Throw**Fortitude partial (see text);**Spell Resistance** yes
+**Saving Throw** Fortitude partial (see text); **Spell Resistance** yes
 **Prerequisites** Fate sphere (Divine Pressure (consecration), Greater Serendipity)
 **Complexity** 2 (+2 Divine Pressure)
 **Crafting Time** 3 days
@@ -200,7 +200,7 @@ An esoteric tome, the art of guidance is hotly pursued by those who practice the
 **Target** 1 creature
 **Area** 5-ft. radius + 5 ft. per 5 caster levels
 **Duration** 1 minute/caster level
-**Saving Throw**Will negates (harmless), Reflex negates (see below);**SR** yes (harmless)
+**Saving Throw** Will negates (harmless), Reflex negates (see below); **SR** yes (harmless)
 **Prerequisites** Protection (Armored Magic), Nature ((plant) package, Create Nature)
 **Complexity** 1 (+2 Nature ((plantlife) package, -1 decreased duration)
 **Crafting Time** 4 days
@@ -218,7 +218,7 @@ If a creature is entangled in this fashion they cannot move, although they cease
 **Range** personal
 **Area** 20-ft. radius + 5 ft. per 5 caster levels emission from the caster
 **Duration** 1 round/level
-**Saving Throw**Fortitude partial (see text);**SR** Yes
+**Saving Throw** Fortitude partial (see text); **SR** Yes
 **Prerequisites** Fate sphere (Serendipity, Divine Pressure, Echoing Word, Pain), caster must have a good alignment
 **Complexity** 4 (+2 Pain, +2 Divine Pressure)
 **Crafting Time** 4 days
@@ -252,7 +252,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** touch
 **Target** 1 creature
 **Duration** 10 minutes/caster level
-**Saving Throw**Will negates (harmless);**SR** yes (harmless)
+**Saving Throw** Will negates (harmless); **SR** yes (harmless)
 **Prerequisites** Time sphere (Improved Haste), Protection sphere
 **Complexity** 1 (+2 Time, -1 switched aegis)
 **Crafting Time** 3 days
@@ -266,7 +266,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** 1 creature + 1 per 2 caster levels (minimum 2 creatures)
 **Duration** 10 minutes/caster level
-**Saving Throw**Will negates (harmless);**SR** yes (harmless)
+**Saving Throw** Will negates (harmless); **SR** yes (harmless)
 **Prerequisites** Protection sphere, Time sphere (Improved Haste, Mass Time, Ranged Time)
 **Crafting Time** 5 days
 **Complexity** 3 (+2 Time sphere, +1 Mass Time, +1 Ranged Time, -1 switched aegis)
@@ -280,7 +280,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** 1 creature
 **Duration** 1 round
-**Saving Throw**Will negates;**SR** yes
+**Saving Throw** Will negates; **SR** yes
 **Prerequisites** Mind sphere (Hostility), Fate sphere (Bless)
 **Complexity** 2 (+2 Fate sphere)
 **Crafting Time** 4 days
@@ -293,7 +293,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Casting Time** full-round action
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Duration** 1 hour/caster level
-**Saving Throw**none;**SR** no
+**Saving Throw** none; **SR** no
 **Prerequisites** Creation sphere (Expanded Materials, Forge, Create Materials, Fabricate, Fleshcraft), Enhancement sphere (Animate Object)
 **Complexity** 2 (+2 Enhancement sphere)
 **Crafting Time** 8 days
@@ -307,7 +307,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** 1 creature + 1 per 2 caster levels (must match the caster’s creature type)
 **Duration** 1 round/caster level
-**Saving Throw**Will partial (see text);**SR** yes
+**Saving Throw** Will partial (see text); **SR** yes
 **Prerequisites** Mind sphere (Cerebral Strike, Mass Charm, Paralyze)
 **Complexity** 2 (+2 Cerebral Strike)
 **Crafting Time** 4 days
@@ -321,7 +321,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** close
 **Area** 5-ft. radius + 5 ft. per 5 caster levels
 **Duration** concentration
-**Saving Throw**none;**SR** yes
+**Saving Throw** none; **SR** yes
 **Prerequisites** Nature sphere ((earth) package, Manipulate Nature), Telekinesis sphere
 **Complexity** 2 (+2 Telekinesis)
 **Crafting Time** 2 days
@@ -335,7 +335,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** one creature
 **Duration** concentration
-**Saving Throw**Reflex negates;**SR** no
+**Saving Throw** Reflex negates; **SR** no
 **Prerequisites** Creation sphere (Distant Creation, Expanded Materials), Enhancement sphere (Animate Object)
 **Complexity** 2 (+2 Enhancement sphere)
 **Crafting Time** 5 days
@@ -350,7 +350,7 @@ The golem created by this spell is an animated object and acts as you direct for
 **Casting Time** full-round action
 **Range** close
 **Duration** instantaneous
-**Saving Throw**Fortitude half;**SR** yes
+**Saving Throw** Fortitude half; **SR** yes
 **Prerequisites** Nature sphere ((water) package), Life sphere
 **Complexity** 1 (+2 Life sphere, -1 removing effect)
 **Crafting Time** 3 days
@@ -364,7 +364,7 @@ The golem created by this spell is an animated object and acts as you direct for
 **Range** medium (100 ft. + 10 ft. per caster level)
 **Area** 10-ft. radius sphere + 5 ft. per 5 caster levels
 **Duration** concentration
-**Saving Throw**Reflex half;**SR** yes
+**Saving Throw** Reflex half; **SR** yes
 **Prerequisites** Destruction sphere (Explosive Orb, Extended Range, Fire Blast), Nature sphere ((fire) package, Manipulate Nature)
 **Complexity** 2 (+2 Nature sphere)
 **Crafting Time** 6 days
@@ -380,7 +380,7 @@ Every round, you may move this sphere up to 10 feet per caster level in any dire
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** 1 creature
 **Duration** 1 hour/caster level
-**Saving Throw**Will negates;**SR** yes
+**Saving Throw** Will negates; **SR** yes
 **Prerequisites** Mind sphere (Candor), [Destruction sphere] (Fire Blast)
 **Complexity** 1 (+1 Fire Blast talent)
 **Crafting Time** 4 days
@@ -394,7 +394,7 @@ Every round, you may move this sphere up to 10 feet per caster level in any dire
 **Range** medium (100 ft. + 10 ft. per caster level)
 **Target** 1 + 1 per 2 caster levels (minimum 2) creatures
 **Duration** 1 minute/caster level
-**Saving Throw**Will half;**SR** yes
+**Saving Throw** Will half; **SR** yes
 **Prerequisites** Mind sphere (Confusion, Expanded Charm, Mass Charm, Ranged Mind), [Destruction sphere] (Frost Blast)
 **Complexity** 2 (+2 Destruction sphere)
 **Crafting Time** 7 days
@@ -408,7 +408,7 @@ Every round, you may move this sphere up to 10 feet per caster level in any dire
 **Range** touch
 **Target** one creature
 **Duration** concentration
-**Saving Throw**Will negates (harmless);**SR** yes (harmless)
+**Saving Throw** Will negates (harmless); **SR** yes (harmless)
 **Prerequisites** Protection sphere
 **Complexity** 0
 **Crafting Time** 1 day
@@ -421,7 +421,7 @@ Every round, you may move this sphere up to 10 feet per caster level in any dire
 **Casting Time** full-round action (+1 complexity)
 **Area** 10-ft. line + 5 ft. per 5 caster levels
 **Duration** instantaneous
-**Saving Throw**Reflex half;**SR** no
+**Saving Throw** Reflex half; **SR** no
 **Prerequisites** Nature sphere ((earth) package, (water) package, Manipulate Nature)
 **Complexity** 2 (+1 (earth) package, +1 exchanging non-damage effect with damage effect)
 **Crafting Time** 3 days
@@ -434,7 +434,7 @@ Every round, you may move this sphere up to 10 feet per caster level in any dire
 **Casting Time** full-round action (+1 complexity)
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Duration** concentration
-**Saving Throw**none;**SR** yes
+**Saving Throw** none; **SR** yes
 **Prerequisites** Nature sphere ((earth) package), Protection sphere
 **Complexity** 2 (+2 Protection sphere)
 **Crafting Time** 2 days
@@ -454,7 +454,7 @@ If you maintain your wall through concentration, its hit points is renewed each 
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** one creature
 **Duration** instantaneous
-**Saving Throw**Will (partial), Fortitude (partial);**SR** yes
+**Saving Throw** Will (partial), Fortitude (partial); **SR** yes
 **Prerequisites** Destruction sphere (Frost Blast, Nether Blast)
 **Complexity** 1 (+1 Nether Blast)
 **Crafting Time** 3 days
@@ -466,7 +466,7 @@ If you maintain your wall through concentration, its hit points is renewed each 
 **Cost** 2 spell points (+1 complexity, +1 full CL damage)
 **Casting Time** full-round action
 **Duration** concentration
-**Saving Throw**Reflex half;**SR** yes
+**Saving Throw** Reflex half; **SR** yes
 **Prerequisites** Nature sphere ((earth) package), Destruction sphere (Crystal Blast)
 **Complexity** 2 (+2 Destruction sphere)
 **Crafting Time** 3 days
@@ -478,7 +478,7 @@ If you maintain your wall through concentration, its hit points is renewed each 
 **Cost** 1 spell point (+1 Create Nature)
 **Casting Time** standard action
 **Duration** instantaneous
-**Saving Throw**none;**SR** no
+**Saving Throw** none; **SR** no
 **Prerequisites** Nature sphere ((plant) package, Create Nature, Elevating Nature)
 **Complexity** 0 (-1 exchanging attack effect with harmless effect)
 **Crafting Time** 3 days
@@ -492,7 +492,7 @@ If you maintain your wall through concentration, its hit points is renewed each 
 **Range** personal
 **Area** Either a 10-ft. radius + 5 ft. per caster level hemisphere, or a flat plane made up of 1 contiguous 10 ft. square per caster level, with no section reaching beyond 25 ft. + 5 ft. per 2 caster levels from the caster
 **Duration** 1 round per caster level
-**Saving Throw**Will partial (see text);**SR** No
+**Saving Throw** Will partial (see text); **SR** No
 **Prerequisites** Protection sphere (must have wards, Repel Evil/Good/Law/Chaos, Energy Resistance, Missile Shield, Greater Barrier)
 **Complexity** 4 (+2 Energy Resistance, +2 Missile Shield, +2 Repel Evil/Good/Law/Chaos, -2 limited effect)
 **Crafting Time** 5 days
@@ -506,7 +506,7 @@ If you maintain your wall through concentration, its hit points is renewed each 
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** 1 + 1 per 2 caster levels (minimum 2) creatures
 **Duration** instantaneous
-**Saving Throw**none;**SR** no
+**Saving Throw** none; **SR** no
 **Prerequisites** Destruction sphere (Air Blast), Fate sphere (Echoing Word)
 **Complexity** 1 (+1 Echoing Word talent)
 **Crafting Time** 4 days
@@ -519,7 +519,7 @@ If you maintain your wall through concentration, its hit points is renewed each 
 **Casting Time** full-round action
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Duration** concentration
-**Saving Throw**Reflex partial;**SR** no
+**Saving Throw** Reflex partial; **SR** no
 **Prerequisites** Nature sphere ((water) package, Create Nature, Manipulate Nature), Telekinesis sphere
 **Complexity** 2 (+2 Telekinesis sphere)
 **Crafting Time** 4 days

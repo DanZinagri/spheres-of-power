@@ -231,7 +231,7 @@ While rituals of levels 0-3 have the usual material requirements, rituals of lev
 
 #### Agreement
 
-**Spheres**Fate, Mind;**Ritual Level** 1
+**Spheres** Fate, Mind; **Ritual Level** 1
 **Casting Time** 5 minutes
 **Components** V, M (exotic candles lit by each participant that are used to light a final candle, collectively worth at least 5 gp)
 **Description** A simple ritual that forms a magically binding contract between two or more individuals, agreement creates a set of magical terms for all involved parties, though the conditions may vary for each participant. The agreement also includes penalties for failing to comply; a creature that violates the terms of the agreement is magically compelled to perform some task, action, or service agreed upon when the agreement was set into place. No save is allowed to avoid the repercussions upon breach of the agreement, and all parties are held to the terms of the ritual even if someone else breaks the agreement first. Parties who fulfill their end of the terms even after others breach the agreement face no such ill consequences.
@@ -242,35 +242,35 @@ When participating in the agreement ritual, an individual is only considered to 
 
 #### Animal Messenger
 
-**Sphere**Nature;**Ritual Level** 2
+**Sphere** Nature; **Ritual Level** 2
 **Casting Time** 10 minutes
 **Components** V, S, M (a morsel of food the animal likes, 10 gp in silver dust)
 **Description** This functions as the animal messenger spell.
 
 #### Animate Dead
 
-**Sphere**Death;**Ritual Level** 3
+**Sphere** Death; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)
 **Description** This functions as the animate dead spell, except undead created with this ritual count towards the caster’s Death sphere limit.
 
 #### Ant Haul
 
-**Sphere**Enhancement;**Ritual Level** 1
+**Sphere** Enhancement; **Ritual Level** 1
 **Casting Time** 5 minutes
 **Components** V, S, M (small pulley, 5 gp of silver dust)
 **Description** This functions as the ant haul spell.
 
 #### Arcane Mark
 
-**Sphere**Illusion;**Ritual Level** 0
+**Sphere** Illusion; **Ritual Level** 0
 **Casting Time** 1 minute
 **Components** V, S, M (treated ink worth 1 gp)
 **Description** This functions as the arcane mark spell.
 
 #### Arcane Rune
 
-**Sphere:** Protection;**Ritual Level:** 4
+**Sphere:** Protection; **Ritual Level:** 4
 **Casting Time:** 1 hour
 **Components:** S, M (high quality ink laced with powdered precious metals, worth 50 gp or more)
 **Target:** a page of text (magical or non-magical)
@@ -281,14 +281,14 @@ An arcane rune can be seen by effects that detect or sense magic, and can also b
 
 #### Astral Projection
 
-**Sphere**Death;**Ritual Level** 9
+**Sphere** Death; **Ritual Level** 9
 **Casting Time** 2 days
 **Components** V, S, M (3,500 gp jacinth)
 **Description** This functions as the astral projection spell.
 
 #### Autopsy
 
-**Sphere**Death or Divination;**Ritual Level** 4
+**Sphere** Death or Divination; **Ritual Level** 4
 **Casting Time** 1 hour
 **Components** V, M (healer’s kit worth 50 gp)
 **Target** 1 corpse
@@ -303,21 +303,21 @@ An arcane rune can be seen by effects that detect or sense magic, and can also b
 
 #### Baleful Polymorph
 
-**Sphere**Alteration;**Ritual Level** 5
+**Sphere** Alteration; **Ritual Level** 5
 **Casting Time** 2 hours
 **Components** V, S, M (100 gp in diamond dust)
 **Description** This functions as the baleful polymorph spell.
 
 #### Beacon Pillar
 
-**Sphere**Light;**Ritual Level** 0
+**Sphere** Light; **Ritual Level** 0
 **Casting Time** 1 minute
 **Components** S, M (any highly reflective or luminescent object worth at least 1 gp)
 **Description** This ritual alters the material component into a bubble of radiant magic which lasts for 24 hours before losing its power and collapsing into ash. At any time during that duration it can be thrown (treat it as a thrown weapon with a 10 ft. range increment) or crushed as a standard action, expending the bead and releasing the magic within. Using the bubble this way creates a column of bright light that has a 5 ft. radius and a height of 300 ft. that can be easily seen for miles. This column of light lasts for one minute.
 
 #### Call Spirit Curate
 
-**Sphere**Conjuration, Death, or Nature;**Ritual Level** 0
+**Sphere** Conjuration, Death, or Nature; **Ritual Level** 0
 **Casting Time** 1 minute
 **Duration** 24 hours
 **Components** V, S, M (1 gp’s worth of silver powder.)
@@ -325,21 +325,21 @@ An arcane rune can be seen by effects that detect or sense magic, and can also b
 
 #### Control Weather
 
-**Sphere**Weather;**Ritual Level** 7
+**Sphere** Weather; **Ritual Level** 7
 **Casting Time** 8 hours
 **Components** V, S, M (500 gp in rare herbs)
 **Description** This functions as the control weather spell.
 
 #### Create Mindscape
 
-**Sphere**Mind;**Ritual Level** 4
+**Sphere** Mind; **Ritual Level** 4
 **Casting Time** 1 hour
 **Components** V, S, M (alchemical sleeping draughts consumed by the caster and target, collectively worth 160 gp)
 **Description** This functions as the Create Mindscape spell.
 
 #### Detect Divinity
 
-**Sphere**Divination or Fate;**Ritual Level** 0
+**Sphere** Divination or Fate; **Ritual Level** 0
 **Casting Time** 1 minute
 **Components** V, S, or F (a Holy Symbol or Relic worth 1 or more gp)
 **Target** 1 creature or object
@@ -366,126 +366,126 @@ An arcane rune can be seen by effects that detect or sense magic, and can also b
 
 #### Divination
 
-**Sphere**Divination;**Ritual Level** 4
+**Sphere** Divination; **Ritual Level** 4
 **Casting Time** 1 hour
 **Components** V, S, M (incense and an appropriate offering worth 75 gp)
 **Description** This functions as the divination spell.
 
 #### Dreampath
 
-**Sphere**Mind;**Ritual Level** 4
+**Sphere** Mind; **Ritual Level** 4
 **Casting Time** 1 hour
 **Components** V, S, M (lighted incense, and pearls crushed into warm milk (collectively worth 50 gp plus an extra 10gp per individual included) consumed at the beginning of the ritual)
 **Description** At the conclusion of the ritual you (and up to one other creature per two caster levels) enter a trance and leave your physical body behind and enter either your own personal dreamscape or the dreamscape of another that you have either located or into which you have been welcomed. If you enter the dreamscape of another, the portion of their dreamscape that you observe may reshape to be more like your own personal dreamscape.
 
 #### Dreamquake
 
-**Sphere**Mind;**Ritual Level** 2
+**Sphere** Mind; **Ritual Level** 2
 **Casting Time** 10 minutes
 **Components** V, M (rare treatise on psychology, neural physiology, or nightmares worth 10 gp; the treatise must be on your physical person when you enter the dreamscape, and the dreamscape’s recreation of the treatise is acceptable while casting within the dreamscape, though the physical copy will turn to ash in the waking world just as it does in the dream)
 **Description** By reciting the phrases within the treatise and altering them as you speak, the knowledge of that which is as well as that which isn’t but should be reverberates throughout the dreamscape, focusing tremors on a specific point. One thought construct within the dreamscape, often one providing a specific bonus to the caster or effect on the environment, takes 1d12 points of damage per caster level and can be considered ruined or non-functional if it takes damage equal to ten times the casting ability modifier of the owner of dreamscape in question (if the owner of the dreamscape is not a caster, use the highest mental ability modifier to determine this). Such damage is repaired at a rate equal to its owner’s casting ability modifier per minute if the structure is not ruined; if it is ruined, it repairs at a rate equal to the owner’s casting ability modifier per day.
 
 #### Driving Force
 
-**Sphere**Telekinesis;**Ritual Level** 3
+**Sphere** Telekinesis; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** V, S, M (a magic attuned lodestone worth 25 gp)
 **Description** This ritual creates a stream of gentle telekinetic force that pushes towards a specific direction. A line with a length equal to 25 ft + 5 ft per 2 caster levels is centered on you, while the line itself is positioned towards the designated direction. Any creature (including you) that travels on the line towards the designated direction travels at double its normal overland speed, though its speed in tactical situations is unaffected. The effects of this ritual last for a full day.
 
 #### Earthquake
 
-**Sphere**Nature;**Ritual Level** 8
+**Sphere** Nature; **Ritual Level** 8
 **Casting Time** 1 day
 **Components** V, S, M (unworked gems or minerals worth 1,000 gp)
 **Description** This functions as the earthquake spell.
 
 #### Fairy Path
 
-**Sphere**Fallen Fey;**Ritual** Level 3
+**Sphere** Fallen Fey; **Ritual** Level 3
 **Casting Time** 30 minutes
 **Components** S, M (25 gp cold iron compass that is consumed at the end of the duration)
 **Description** This ritual causes the compass to point toward the fairy ring nearest a destination in Faerie specified during that casting of the ritual. The compass points the way for 24 hours, then disintegrates.
 
 #### Find Fairy Ring
 
-**Sphere**Fallen Fey;**Ritual** Level 1
+**Sphere** Fallen Fey; **Ritual** Level 1
 **Casting Time** 5 minutes
 **Components** S, M (5 gp in fungus native to Faerie)
 **Description** This ritual give you the direction to the nearest fairy ring that you are capable of passing through. It gives no information regarding distance.
 
 #### Floating Disk
 
-**Sphere**Creation;**Ritual Level** 1
+**Sphere** Creation; **Ritual Level** 1
 **Casting Time** 5 minutes
 **Components** V, S, M (silver dust worth 5 gp)
 **Description** This functions as the floating disk spell.
 
 #### Grant Metamagic Feat
 
-**Sphere**Mind;**Ritual Level** 3
+**Sphere** Mind; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** V, S, M (125 gp of burnt magical scrolls)
 **Description** The performer of the ritual gains knowledge of one metamagic feat for which he meets the prerequisites for 24 hours. Only one feat may be gained from this ritual at one time; additional castings remove the feats previously gained from this ritual.
 
 #### Hallow
 
-**Sphere**Fate;**Ritual Level** 5
+**Sphere** Fate; **Ritual Level** 5
 **Casting Time** 24 hours
 **Components** V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the ritual to be included in the hallowed area)
 **Description** This functions as the hallow spell.
 
 #### Heal
 
-**Sphere**Life;**Ritual Level** 6
+**Sphere** Life; **Ritual Level** 6
 **Casting Time** 4 hours
 **Components** V, S, M (250 gp in special ointment)
 **Description** This functions as the heal spell.
 
 #### Heroes’ Feast
 
-**Sphere**Creation;**Ritual Level** 6
+**Sphere** Creation; **Ritual Level** 6
 **Casting Time** 4 hours
 **Components** V, S, M (250 gp in rare herbs and spices)
 **Description** This functions as the heroes’ feast spell.
 
 #### Identify
 
-**Sphere**Divination;**Ritual Level** 1
+**Sphere** Divination; **Ritual Level** 1
 **Casting Time** 5 minutes
 **Components** V, S, M (bottle of fine wine worth 5 gp, stirred with an owl’s feather)
 **Description** This functions as the identify spell.
 
 #### Ill Wish [Curse] [High. HB]
 
-**Sphere**Fallen Fey or Fate;**Ritual** Level 0
+**Sphere** Fallen Fey or Fate; **Ritual** Level 0
 **Casting Time** 1 minute
 **Components** V, S, F (a wooden fetish worth 1 gp)
 **Description** This ritual creates a fetish that curses the womb of the first female humanoid who sleeps within 10 feet of the cursed object (Fortitude negates). An individual woman can only be affected by one ill wish at a time, regardless of how many fetishes she sleeps near. If the cursed woman does not have the curse removed before giving birth, she has a 5% chance of having their offspring dying in childbirth, a 5% of being born as a changeling (regardless of their parentage), and a 10% chance of being stolen away by fey. Once the cursed woman has given birth, the curse on the woman’s womb ends. If the humanoid does not give live birth, instead this affects the eggs or other offspring as appropriate to that race.
 
 #### Lifesblood Sacrifice
 
-**Sphere**Life;**Ritual** Level 4
+**Sphere** Life; **Ritual** Level 4
 **Casting Time** 30 minutes
 **Components** V, S, F (obsidian ritual knife worth 100 gp)
 **Description** You kill a willing or helpless creature to restore life to a dead creature. The sacrificed creature must either have more Hit Dice than the target to be revived or else be a blood relative of the target. The target is revived as per the raise dead spell. The sacrificed creature cannot be revived by any means short of wish or miracle until the raised target is slain.
 
 #### Mental Block
 
-**Sphere**Mind;**Ritual Level** 2
+**Sphere** Mind; **Ritual Level** 2
 **Casting Time** 10 minutes
 **Components** V, M (petals from a flower that only opens in the light of a moon, worth 10 gp)
 **Description** By meditating and intoning an ancient rhyme while breathing the scent of the flower petals as they burn, you fortify your dreamscape against unwanted intruders, granting your dreamscape a bonus equal to 2 + your casting ability modifier on its Will save to avoid detection through scrying or other similar means. You also gain this bonus on attacks against your mind that come directly from your own dreamscape, such as on Will saves made to resist enchantment effects cast at you by another when you are both in your dreamscape or on saves to resist the effects of attacks against your dreamscape directly. This bonus lasts for one day per caster level. During this duration, a thought construct of resilient durability (typically resembling a mausoleum, large safe, small fort, or other stocky, sturdy structure) appears within your dreamscape. If the thought construct is destroyed, removed, or made non-functional, you lose the bonuses offered by this ritual.
 
 #### Open Rift
 
-**Sphere**Warp;**Ritual Level** 3
+**Sphere** Warp; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** V, S, M (25 gp of preserved flesh from a creature with the elemental subtype)
 **Description** An elemental rift is opened at a point within 400 ft, creating an area with a 30 ft radius inside of which the planar traits (elemental and energy traits, gravity traits, and magic traits only) of one elemental plane override those of the plane on which this spell is cast. This effect lasts for 24 hours.
 
 #### Pact
 
-**Spheres**Fate, Mind;**Ritual Level** 3
+**Spheres** Fate, Mind; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** V, M (a scroll of gilded vellum worth 25 gp to be burned at the conclusion of the ritual, along with the proper tools for signing in expensive inks or blood)
 **Description** A potent agreement between people, usually those who do not trust each other or at least wish some strenuous assurance to be placed on the other. Those who sign the gilded vellum enter into a binding contract, one where failure to fulfill their side invites dire consequences. Such consequences may include:
@@ -504,21 +504,21 @@ A pact cannot be dispelled, but it may be broken through the Break Enchantment L
 
 #### Polymorph Any Object
 
-**Sphere**Creation;**Ritual Level** 8
+**Sphere** Creation; **Ritual Level** 8
 **Casting Time** 1 day
 **Components** V, S, M (Diamond dust worth 1,000 gp)
 **Description** This functions as the polymorph any object spell.
 
 #### Permanency
 
-**Sphere**Varies (see below);**Ritual Level** 5
+**Sphere** Varies (see below); **Ritual Level** 5
 **Casting Time** 2 hours
 **Components** V, S, M (2,500 in diamond dust per level of the affected ritual, see spell)
 **Description** This functions as the permanency spell.
 
 #### Preserve Organ
 
-**Sphere**Death or Life;**Ritual** 0
+**Sphere** Death or Life; **Ritual** 0
 **Casting Time** 1 minute
 **Components** V, S, M (a drop of Liquid Ice worth 1 gp)
 **Description** You may preserve a severed limb or harvested organ for 24 hours, during which time the limb or organ does not decompose or deteriorate in any way. When the duration of this ritual expires, the severed limb or harvested organ continues to decompose. This ritual is not sufficient to preserve a whole corpse for the purpose of raising the dead.
@@ -545,70 +545,70 @@ Successfully reattaching a limb without the use of regeneration doesn’t mean f
 
 #### Raise Dead
 
-**Sphere**Life;**Ritual Level** 5
+**Sphere** Life; **Ritual Level** 5
 **Casting Time** 2 hours
 **Components** V, S, M (100 gp in special ointment, diamond worth 5,000 gp)
 **Description** This functions as the raise dead spell.
 
 #### Reflection/Refraction
 
-**Sphere**Light;**Ritual Level** 2
+**Sphere** Light; **Ritual Level** 2
 **Casting Time** 10 minutes
 **Components** V, S, M (a well made glass prism worth 50 gp)
 **Description** You can alter the reflective and refractive properties of an inanimate object. You can change the coloration of an object, make its surface reflective, glossy, or dull, or even make it more or less translucent or transparent (though you cannot make an object invisible in this way, or remove invisibility). Your alteration does not have to be uniform, allowing you to simultaneously paint a wall and give it a clear window, or create other patterns, though you must make appropriate skill checks to create complex or artistic designs. This is an instantaneous effect as you are directly changing the properties of the object, so it does not have a duration and cannot be dispelled. This ritual can affect up to one 5 ft. cube of material.
 
 #### Scrying
 
-**Sphere**Divination;**Ritual Level** 4
+**Sphere** Divination; **Ritual Level** 4
 **Casting Time** 1 hour
 **Components** V, S, M (50 gp in silver dust), F (a pool of water, or a silver mirror worth 1000 gp)
 **Description** This functions as the scrying spell.
 
 #### Shrink Item
 
-**Sphere**Creation;**Ritual Level** 3
+**Sphere** Creation; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** V, S, M (25 gp of silver dust)
 **Description** This functions as the shrink item spell.
 
 #### Siege of Trees
 
-**Sphere**Nature;**Ritual Level** 7
+**Sphere** Nature; **Ritual Level** 7
 **Casting Time** 8 hours
 **Components** V, S, M (500 gp in rare herbs)
 **Description** This functions as the siege of trees spell.
 
 #### Sympathy
 
-**Sphere**Nature;**Ritual Level** 8
+**Sphere** Nature; **Ritual Level** 8
 **Casting Time** 1 day
 **Components** V, S, M (a drop of honey and crushed pearls worth 2,500 gp)
 **Description** This functions as the sympathy spell.
 
 #### Telekinetic Mule
 
-**Sphere**Telekinesis;**Ritual Level** 1
+**Sphere** Telekinesis; **Ritual Level** 1
 **Casting Time** 5 minutes
 **Components** V, S, M (ritual chalk worth 5 gp)
 **Description** For 24 hours, add your caster level plus your casting ability modifier to your Strength to determine your carrying capacity.
 
 #### Teleport
 
-**Sphere**Warp;**Ritual Level** 5
+**Sphere** Warp; **Ritual Level** 5
 **Casting Time** 2 hours
 **Components** V, M (100 gp in diamond dust)
 **Description** This functions as the teleport spell.
 
 #### Tongues
 
-**Sphere**Divination;**Ritual Level** 3
+**Sphere** Divination; **Ritual Level** 3
 **Casting Time** 30 minute
 **Components** V, M (silver dust worth 25 gp)
 **Description** This functions as the tongues spell.
 
 #### Tool for the Job
 
-**Sphere**Creation, Enhancement, or Nature;**Ritual Level** 1
+**Sphere** Creation, Enhancement, or Nature; **Ritual Level** 1
 **Casting Time** 5 minutes
 **Components** S, M (water, metal, stone, or wood; a common set of artisan tools worth 5 gp)
 **Duration** 1 hour per caster level
@@ -616,14 +616,14 @@ Successfully reattaching a limb without the use of regeneration doesn’t mean f
 
 #### Unseen Servant
 
-**Sphere**Telekinesis;**Ritual Level** 1
+**Sphere** Telekinesis; **Ritual Level** 1
 **Casting Time** 5 minutes
 **Components** V, S, M (ritual chalk worth 5 gp)
 **Description** This ritual functions as the unseen servant spell
 
 #### Unseen Servant, Bound
 
-**Sphere**Telekinesis;**Ritual Level** 3
+**Sphere** Telekinesis; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** V, S, M (ritual chalk worth 1000 gp)
 **Description** This ritual functions as the unseen servant spell, except the duration is permanent and the unseen servant is bound to a specific location rather than the caster. If the unseen servant is destroyed by taking damage, moving beyond its range, or is dispelled, it reforms after 24 hours.
@@ -632,28 +632,28 @@ An unseen servant created by this ritual can be set to obey the orders of others
 
 #### Water from Blood
 
-**Sphere**Blood;**Ritual Level** 0
+**Sphere** Blood; **Ritual Level** 0
 **Casting Time** 1 minute
 **Components** V, S, M (blood to be transmuted)
 **Description** You draw out the blood of one creature slain within the last hour and separate out the water. The creature must have been a valid target for blood control. A Medium creature yields 2 gallons of clean water; divide this volume by 4 for every size category smaller and multiply by 4 for every size category greater than Medium.
 
 #### Weld, Least
 
-**Sphere**Telekinesis;**Ritual Level** 0
+**Sphere** Telekinesis; **Ritual Level** 0
 **Casting Time** 1 minute
 **Components** V, S, M (a few drops of alchemical resin worth 1 gp)
 **Description** With this ritual you telekinetically bind a Diminutive sized or smaller object to another surface, fixing the two together indefinitely. The force that binds them is a relatively weak one however, and any creature may use a move action to pull them apart.
 
 #### Weld, Lesser
 
-**Sphere**Telekinesis;**Ritual Level** 1
+**Sphere** Telekinesis; **Ritual Level** 1
 **Casting Time** 5 minutes
 **Components** V, S, M (a vial of alchemical resin worth 5 gp)
 **Description** As the least weld ritual, except you may bind a Tiny sized or smaller object to a surface, and the bond between them is stronger. Attempting to pull the joined items apart requires a standard action and a successful Strength check (DC 11 + casting ability modifier).
 
 #### Weld, Greater
 
-**Sphere**Telekinesis;**Ritual Level** 3
+**Sphere** Telekinesis; **Ritual Level** 3
 **Casting Time** 30 minutes
 **Components** V, S, M (a flask of alchemical resin worth 10 gp)
 **Description** As the least weld ritual, except you may bind a Small sized or smaller object to a surface and the bond between them is substantial. Attempting to pull the joined items apart requires a standard action and a successful Strength check (DC 10 + half caster level + casting ability modifier).
@@ -669,8 +669,8 @@ While ritual books have a cost to create, rituals also have a cost to research. 
 
 #### Diary of a Conspiracy Theorist (Divination)
 
-**Aura**faint Divination;**CL** 4
-**Slot**none;**Price**240 gp;**Weight** 1.5 lb
+**Aura** faint Divination; **CL** 4
+**Slot** none; **Price** 240 gp; **Weight** 1.5 lb
 **Description**
 This tattered book has a cover made from a thin sheet of lead and contains the ramblings of a thaumaturge who went insane, insisting that an unknown entity was out to get them. A number of similar ritual books have turned up each written by a different hand telling their own personal fall and descent into madness.
 **Rituals**
@@ -682,8 +682,8 @@ Craft Rituals, Ritual Caster feat, Divination sphere; **Cost** 60 gp.
 
 #### Grimoire of Nature’s Wrath (Nature)
 
-**Aura**overwhelming Nature;**CL** 18
-**Slot**none;**Price**13,520 gp;**Weight** 2 lb
+**Aura** overwhelming Nature; **CL** 18
+**Slot** none; **Price** 13,520 gp; **Weight** 2 lb
 **Description**
 This ritual book is usually hidden away by a Grand Archdruid, only to be removed when nature beckons for a life reset. Each copy of this tome is described different from the others, so while one may be stone tablets bound with vines, another might be a book of inscribed leaves.
 **Rituals**
@@ -696,8 +696,8 @@ Craft Rituals, Ritual Caster feat, Nature sphere; **Cost** 3,380 gp.
 
 #### Novice Guide to Triage (Life)
 
-**Aura**faint Life;**CL** 2
-**Slot**none;**Price**140 gp;**Weight** 1 lb
+**Aura** faint Life; **CL** 2
+**Slot** none; **Price** 140 gp; **Weight** 1 lb
 **Description**
 These bone-white books contain medical expertise on how to accurately sort the wounded, treat for shock, and bind bleeding wounds. Initially, these were handed out to soldiers by members of the White Lotus Cult, but distribution was eventually put to an end. Ironically, more patients had died by untrained novices when they spent minutes searching the books instead of binding the injured wounds, than those saved.
 **Rituals**
@@ -708,8 +708,8 @@ Craft Rituals, Ritual Caster feat, Life sphere; **Cost** 35 gp.
 
 #### Primer of Catastrophic Weather (Weather)
 
-**Aura**overwhelming Weather;**CL** 18
-**Slot**none;**Price**14,840 gp;**Weight** 2 lb
+**Aura** overwhelming Weather; **CL** 18
+**Slot** none; **Price** 14,840 gp; **Weight** 2 lb
 **Description**
 Usually bound in a charred cover, this ritual book has been used in the past to demolish entire metropolises. While possible that a rare copy or two may be locked away in the forbidden archives of the Whitecloud Monastery organization, it is loudly proclaimed illegal on grounds of suspected terrorism to be in possession of such books without proper documentation and permits.
 **Rituals**
@@ -721,8 +721,8 @@ Craft Rituals, Ritual Caster feat, Weather sphere; **Cost** 3,710 gp.
 
 #### Rituals of Primordial Aspects (Nature)
 
-**Aura**overwhelming Nature;**CL** 18
-**Slot**none;**Price**9,720 gp;**Weight** 1 lb
+**Aura** overwhelming Nature; **CL** 18
+**Slot** none; **Price** 9,720 gp; **Weight** 1 lb
 **Description**
 This book’s cover appears to be made from the skins of different elemental humanoids including ifrit, oread, sylph, and undine. The contents of its pages gives a detailed synopsis of each of the primordial planes, the denizens within, and how to bring them into being.
 **Rituals**
@@ -732,8 +732,8 @@ Craft Rituals, Ritual Caster feat, Nature sphere; **Cost** 2,430 gp.
 
 #### Tome of Esoteric Research (Divination)
 
-**Aura**faint Divination;**CL** 2
-**Slot**none;**Price**80 gp;**Weight** 1 lb
+**Aura** faint Divination; **CL** 2
+**Slot** none; **Price** 80 gp; **Weight** 1 lb
 **Description**
 It is not uncommon for a library established by the Blue Cowl organization to find a copy of this ritual book on its shelves. The ritual book usually has a blue leather cover with silver or grey stitching and embroidered lettering.
 **Rituals**
@@ -744,8 +744,8 @@ Craft Rituals, Ritual Caster feat, Divination sphere; **Cost** 20 gp.
 
 #### Tome of Form Mastery (Alteration)
 
-**Aura**overwhelming Alteration;**CL** 18
-**Slot**none;**Price**17,400 gp;**Weight** 1 lb
+**Aura** overwhelming Alteration; **CL** 18
+**Slot** none; **Price** 17,400 gp; **Weight** 1 lb
 **Description**
 The cover of this ritual book is aberrant and appears to change color periodically. Inside, the tome contains and incanter’s notes on what she believes to be the ultimate transformation rituals.
 **Rituals**

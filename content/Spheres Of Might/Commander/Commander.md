@@ -282,8 +282,8 @@ The following magical items are especially appropriate for commanders.
 
 #### All-Terrain Armoire [TS:WAT]
 
-**Aura**faint Nature and Protection;**CL** 6th
-**Slot**none;**Price**20,000 gp;**Weight** 300 lbs.
+**Aura** faint Nature and Protection; **CL** 6th
+**Slot** none; **Price** 20,000 gp; **Weight** 300 lbs.
 
 This heavy, full-size wooden armoire is made of thick, durable wood that seems almost impervious to all temperature changes and can protect the contents within. While a creature with the battlefield specialist class feature is in one of their specialized terrains, that creature can use this armoire to outfit any number of allies over the course of ten minutes with special clothing appropriate to that terrain. This grants all such creatures a +5 circumstance bonus to Survival checks while in that terrain.
 
@@ -294,8 +294,8 @@ Craft Apparatus, Craft Marvelous Item, Nature sphere, Protection sphere, creator
 
 #### Amplifying Horn [TS:WAT]
 
-**Aura**moderate War;**CL** 7th
-**Slot**none;**Price**16,000 gp;**Weight** 3 lbs.
+**Aura** moderate War; **CL** 7th
+**Slot** none; **Price** 16,000 gp; **Weight** 3 lbs.
 
 This silvery horn excels at amplifying the user’s voice to let them be heard across the battlefield. When used by a creature with the lingering commands ability, this horn allows creatures benefiting from the lingering commands to leave the normal radius of a tactic and continue to receive its benefits until the lingering commands wear off (as long as they remain within line of sight to the commander).
 
@@ -304,8 +304,8 @@ Craft Apparatus, War sphere (Lingering Resentment), creator must have the linger
 
 #### Tactics Manual [TS:WAT]
 
-**Aura**faint War;**CL** 5th
-**Slot**none;**Price**15,500 gp;**Weight** 4 lbs.
+**Aura** faint War; **CL** 5th
+**Slot** none; **Price** 15,500 gp; **Weight** 4 lbs.
 
 This thick, metal-bound book contains a variety of tactics and strategies covering warfare in countless situations and circumstances, from individual combat to battles with tens of thousands of soldiers on each side. Although the author appears to view war as ultimately futile, carrying this tome grants a creature with the enhanced tactics class feature an additional enhanced tactic, chosen when the manual is written. In addition, twice per day, a creature with the enhanced tactics class feature can switch enhanced tactics as a free action twice per round instead of once per round. A creature can only benefit from one tactics manual at a time and must spend eight hours reading a different manual to change the one they receive benefits from.
 

@@ -157,7 +157,7 @@ As a move action, you may spend a spell point to surround yourself with an aura 
 
 #### Energy Beam (blast shape) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You can spend 1 spell point to channel a constant beam of destructive energy.
 
@@ -283,7 +283,7 @@ Your destructive blast deals fire damage. Any creature struck by the attack or t
 
 #### Corrosive Blast (blast type, acid) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You can spend 1 spell point to have your destructive blast deal acid damage. Any creature struck by the attack or that failed their Reflex saving throw (if one was required) must succeed at a Fortitude save or gain bludgeoning, piercing, and slashing weakness equal to 1/2 the number of damage dice of the destructive blast for 1d4 rounds. This weakness is only applied once in an individual attack (so a weapon that deals both piercing and bludgeoning damage only subjects the creature to the highest weakness they possess).
 
@@ -302,7 +302,7 @@ Your destructive blast becomes an explosion of crystal, growing where it strikes
 
 #### Drenching Blast (blast type, cold) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Your destructive blast deals bludgeoning damage. Any creature struck by the attack or that failed their Reflex saving throw (if one was required) gains cold and electricity weakness equal to 1/2 the number of damage dice of the destructive blast for 1 round.
 
@@ -333,7 +333,7 @@ You may spend a spell point to change the damage type of your destructive blast 
 
 #### Freezing Blast (blast type, cold) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Your destructive blast deals cold damage. Any creature struck by the attack or that failed their Reflex saving throw (if one was required) must succeed at a Fortitude save or gain bludgeoning and cold weakness equal to 1/2 the number of damage dice of the destructive blast for 1d4 rounds.
 
@@ -412,7 +412,7 @@ A charging or running creature must immediately stop if it fails this saving thr
 
 #### Resonating Blast (blast type, sonic) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You can spend 1 spell point to have your destructive blast deal sonic damage. A resonating blast uses d4s instead of d6s. The blast does full damage to objects, and causes any objects that are damaged by it to become resonant for 1d4+1 rounds. While resonant, the object’s hardness is reduced by your caster level, and it no longer halves energy damage dealt to it.
 
@@ -454,7 +454,7 @@ You may change the damage type of your destructive blast to slashing, piercing, 
 
 #### Sweltering Blast (blast type, fire) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Your destructive blast deals fire damage. Any creature struck by the attack or that failed their Reflex saving throw (if one was required) must succeed at a Fortitude save or gain fire and nonlethal weakness equal to 1/2 the number of damage dice of the destructive blast for 1d4 rounds.
 
@@ -477,7 +477,7 @@ You may change the damage type of your destructive blast to sonic. Targets who t
 
 #### Vacuum Blast (blast type, air) [Apoc]
 
-**Source:** [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Battlefield Manipulation Talents](https://www.drivethrurpg.com/product/350940/Spheres-Apocrypha-Battlefield-Manipulation-Talents?affiliate_id=549120)*
 
 Your destructive blast creates a pocket of empty space that pulls things in, dealing bludgeoning damage. You may make a drag combat maneuver as a free action at range against any creature struck by the attack or that failed their Reflex saving throw if one was required. Your CMB for this check is your caster level + your casting ability modifier, and all targets are dragged towards the point of origin of the effect. You do not move with the targets of your drag.
 
@@ -538,7 +538,7 @@ You may take this talent a second time, in which case you may select from an add
 | 13d6 | 1d100 | - |
 | 10d8 | 1d100 | - |
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Crystal Cocoon
 
@@ -593,7 +593,7 @@ For example, Astore is an elementalist with the Admixture talent. He creates the
 
 **Addendum: [3PP]** You may select 5, 7, 12, 14, 16, 24, or 30 blast type talents with your erratic blast, rolling dice appropriate to the number of talents chosen and abiding by the normal restrictions.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Extreme Range
 
@@ -617,7 +617,7 @@ When using the Admixture talent, you may spend an additional spell point to add 
 
 #### Magnifying Blast (blast type) [3PP]
 
-**Source:** [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)
+*Source: [Expanded Spheres: Weaves of War](https://www.drivethrurpg.com/en/product/482352/expanded-spheres-weaves-of-war=3028400)*
 
 **Prerequisites:** Destruction sphere (Energy Strike [strike])
 
@@ -689,7 +689,7 @@ Admixture feats grant new ways to utilize the Admixture talent (from the Destruc
 
 **Benefit:** When using Admixture, you may spend an additional spell point to center a ward or glyph (if you possess the rapid glyph talent) effect on the target’s square or another affected square or to affect a damaged target with an aegis. If you possess the Mass Aegis talent, you may apply the aegis effect to all targets damaged, up to your maximum targets from Mass Aegis
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Blood Wrack (Admixture)
 
@@ -711,7 +711,7 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to affect one target damaged by the destructive blast with the counterspell feat in place of a second blast type. If you possess the Improved Counterspell feat, you may pay an additional spell point to target one additional effect on the target per 5 caster levels or counterspell a single effect on each target damaged. If you possess the Greater Counterspell feat, you may pay two additional spell points to target all effects on each target damaged.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Enhancing Admixture (Admixture)
 
@@ -721,7 +721,7 @@ Ruinous and restorative power alike flow from your will.
 
 #### Faerie Admixture (Admixture) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Destruction sphere (Admixture), Fallen Fey Sphere (Share Link).
 
@@ -729,7 +729,7 @@ Ruinous and restorative power alike flow from your will.
 
 #### Generative Admixture (Admixture) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Destruction sphere (Admixture), Creation sphere.
 
@@ -749,7 +749,7 @@ Ruinous and restorative power alike flow from your will.
 
 #### Introductory Admixture (Admixture) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Destruction sphere (Admixture), Conjuration sphere.
 
@@ -757,7 +757,7 @@ Ruinous and restorative power alike flow from your will.
 
 #### Militant Admixture (Admixture) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Destruction sphere (Admixture), War sphere.
 
@@ -783,7 +783,7 @@ Ruinous and restorative power alike flow from your will.
 
 #### Primal Admixture (Admixture) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Destruction sphere (Admixture), Nature sphere.
 
@@ -791,7 +791,7 @@ Ruinous and restorative power alike flow from your will.
 
 #### Soft Admixture Specialty [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Destruction sphere (Admixture, Damage Control)
 
@@ -807,7 +807,7 @@ Ruinous and restorative power alike flow from your will.
 
 #### Spectacular Admixture (Admixture) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Destruction sphere (Admixture), Illusion sphere.
 
@@ -839,7 +839,7 @@ Ruinous and restorative power alike flow from your will.
 
 #### Unveiling Admixture (Admixture) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Destruction sphere (Admixture), Divination Sphere (Sensory Overload or Viewing).
 

@@ -11,13 +11,13 @@ parent: "[[Mythic Creatures (O)]]"
 XP 800
 Pathfinder Roleplaying Game Bestiary 3
 N Small ooze (mythic)
-**Init**+3;**Senses** blindsight 60 ft.; Perception –5
+**Init** +3; **Senses** blindsight 60 ft.; Perception –5
 
 #### Defense
 
-**AC**15,**touch**14,**flat-footed** 12 (+3 Dex, +1 natural, +1 size)
+**AC** 15, **touch** 14, **flat-footed** 12 (+3 Dex, +1 natural, +1 size)
 **hp** 27 (3d8+14)
-**Fort**+3,**Ref**+4,**Will** –4
+**Fort** +3, **Ref** +4, **Will** –4
 **Defensive Abilities** **Immune** acid, ooze traits
 
 #### Offense
@@ -28,8 +28,8 @@ N Small ooze (mythic)
 
 #### Statistics
 
-**Str**11,**Dex**16,**Con**15,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+2;**CMB**+1;**CMD** 14 (can’t be tripped)
+**Str** 11, **Dex** 16, **Con** 15, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +2; **CMB** +1; **CMD** 14 (can’t be tripped)
 **Feats** Extra Mythic PowerMF
 **Skills** Climb +8
 **SQ** camouflage

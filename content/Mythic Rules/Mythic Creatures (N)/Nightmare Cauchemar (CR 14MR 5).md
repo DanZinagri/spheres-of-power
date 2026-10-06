@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (N)]]"
 XP 38,400
 Pathfinder Roleplaying Game Bestiary
 NE Huge outsider (evil, extraplanar, mythic)
-**Init**+11MF;**Senses** darkvision 60 ft.; Perception +20
+**Init** +11MF; **Senses** darkvision 60 ft.; Perception +20
 
 #### Defense
 
-**AC**31,**touch**10,**flat-footed** 29 (+2 Dex, +21 natural, –2 size)
+**AC** 31, **touch** 10, **flat-footed** 29 (+2 Dex, +21 natural, –2 size)
 **hp** 225 (14d10+148)
-**Fort**+16,**Ref**+11,**Will** +7
+**Fort** +16, **Ref** +11, **Will** +7
 **Defensive Abilities** DR 10/epic
 
 #### Offense
 
 **Speed** 40 ft., fly 90 ft. (good)
 **Melee** bite +22 (2d6+10), 2 hooves +20 (2d6+5 plus 1d6)
-**Space**15 ft.;**Reach** 10 ft.
+**Space** 15 ft.; **Reach** 10 ft.
 **Special Attacks** death’s rideMA, dream smokeMA, flaming hoovesMA, hellfireMA, mythic power (5/day, surge 1d8), powerful trampleMA, smoke, trampleMA (2d6+15 plus 2d6 fire, DC 27)
 
 **Spell-Like Abilities** (CL 15th; concentration +16)
@@ -32,8 +32,8 @@ NE Huge outsider (evil, extraplanar, mythic)
 
 #### Statistics
 
-**Str**31,**Dex**15,**Con**25,**Int**16,**Wis**12,**Cha** 12
-**Base Atk**+14;**CMB**+26 (+32 overrun);**CMD** 38 (42 vs. overrun, 42 vs. trip)
+**Str** 31, **Dex** 15, **Con** 25, **Int** 16, **Wis** 12, **Cha** 12
+**Base Atk** +14; **CMB** +26 (+32 overrun); **CMD** 38 (42 vs. overrun, 42 vs. trip)
 **Feats** Greater Overrun, Improved InitiativeMF, Improved OverrunMF, Intimidating Prowess, Iron Will, Multiattack, Power AttackMF
 **Skills** Acrobatics +19 (+23 when jumping), Bluff +18, Fly +19, Intimidate +28, Knowledge (arcana) +20, Knowledge (planes) +20, Perception +20, Sense Motive +20, Stealth +11
 **Languages** Abyssal, Infernal

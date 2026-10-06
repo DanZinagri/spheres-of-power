@@ -636,7 +636,7 @@ The item is unwieldy, with misuse producing disastrous results. Whenever the cha
 
 **Items Affected:** Magical Weapons, Marvelous Items which require attack rolls
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Collective
 
@@ -696,7 +696,7 @@ Items with the Inhuman Use drawback are designed to be used by creatures with ab
 
 The item gets in your way as you attempt to perform tasks. Whenever you would roll an initiative check while holding or wearing this item, you roll a d16 rather than a d20.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Oath-Bound
 
@@ -770,7 +770,7 @@ The item has erratic and deadly effects when it strikes true. Whenever the chara
 
 **Items Affected:** Implements, Magical Weapons and Armor, Marvelous Items which require attack rolls
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Cheap
 

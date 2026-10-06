@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 #### Arcsilver
 
-**HP/Inch:** 40;**Hardness:** 10;**Cost:** Weapons and armor fashioned from arcsilver are always masterwork; the masterwork cost is included in the prices given below
+**HP/Inch:** 40; **Hardness:** 10; **Cost:** Weapons and armor fashioned from arcsilver are always masterwork; the masterwork cost is included in the prices given below
 
 This bright white metal has strange electrical properties and crackles with electricity when charged. By strategically incorporating coils of arcsilver into a weapon, suit of armor, or shield, this electricity can be discharged into enemies. Charging an item made of arcsilver is a move action that does not provoke an attack of opportunity, performed by slowly brandishing the weapon or brushing it against a surface.
 
@@ -32,7 +32,7 @@ Although, arcsilver is typically not used as the sole material of an item (in or
 
 #### Featherglass
 
-**HP/Inch:** 3;**Hardness:** 5;**Cost:** 15 gp per pound of the original item weight
+**HP/Inch:** 3; **Hardness:** 5; **Cost:** 15 gp per pound of the original item weight
 
 Featherglass is a rare material found in the high places of the world, a translucent substance that looks like hazy skyblue ice or glass and weighs little more than air.
 
@@ -40,7 +40,7 @@ Featherglass can be treated in a number of ways to make it either flexible or st
 
 #### Flowstone
 
-**HP/Inch:** 10;**Hardness:** 8;**Cost:** 10 gp per pound
+**HP/Inch:** 10; **Hardness:** 8; **Cost:** 10 gp per pound
 Other than being unusually smooth textured, flowstone appears to be normal dark gray stone, its special properties only becoming apparent when it is manipulated with telekinetic powers. While to hand and tool it is solid and rigid, it molds and shapes like clay under the direction of telekinesis.
 
 By using telekinesis you can shape flowstone instead of lifting it, affecting an amount of it equal to your normal size limit as a full round action. Any simple shape may be imposed on the flowstone this way, such as flattening a side or shaping it into a rough ball. For something more complicated or finely detailed, more time must be taken: with each full round action you may shape 1 cubic foot per caster level of your telekinesis effect, allowing you to create specific items or precise shapes, though a Craft check may be required to create anything complex, such as artistic shapes or moving parts. Changes imposed on flowstone in this way are permanent until changed through another use of telekinesis.

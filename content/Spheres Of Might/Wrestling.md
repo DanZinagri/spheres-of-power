@@ -39,13 +39,13 @@ Practitioners who train in certain spheres focused on unarmed combat, such as Bo
 
 #### Aggressive Grip [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 While you have a creature snagged, the DC required to affect the creature with the Intimidate skill is reduced by 2, +1 per 5 points of base attack bonus you possess, and a successful Intimidate check made against them causes the snag to last for an additional round.
 
 Additionally, when you successfully snag a creature, you can attempt an Intimidate check to demoralize the snagged creature or pose a menace as a move action.
 
-**Utility Option**: You can take this talent as a utility talent by having it not benefit Intimidate checks used to demoralize a creature.
+**Utility Option:** You can take this talent as a utility talent by having it not benefit Intimidate checks used to demoralize a creature.
 
 #### Choke Hold
 
@@ -148,7 +148,7 @@ If there is no unoccupied, safe space within your reach when attempting to move 
 
 #### Tackle [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 You may attempt a grapple at the end of a charge in place of the normally granted attack. If this grapple attempt is successful, the creature must succeed at a Reflex save or fall prone.
 
@@ -180,7 +180,7 @@ Those observing you using this talent can make a Perception check with a DC of 1
 
 #### Armbar (slam) [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 When you successfully maintain a grapple against a creature you have already pinned, you may expend your martial focus as an immediate action to attempt to damage one of the creatures limbs; the creature must succeed at a Fortitude save or have one of its limbs damaged by you (arms, legs, tentacles, or wings), ending the grapple. The penalties for a damaged limb are identical to the effects of a removed limb from the Limb Ripper talent except as follows:
 
@@ -192,7 +192,7 @@ When you successfully maintain a grapple against a creature you have already pin
 
 #### Chink In The Armor (slam) [Apoc]
 
-**Source:** [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Armor Talents](https://www.drivethrurpg.com/product/303193/Spheres-Apocrypha-Armor-Talents?affiliate_id=549120)*
 
 You may make a melee attack against the target that deals damage as normal, except that it ignores any armor and shield bonuses to armor class the target may have.
 

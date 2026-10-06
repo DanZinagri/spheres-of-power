@@ -14,29 +14,29 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Defensive Pugilist
+#### Defensive Pugilist
 
 You do not gain the counter punch ability from the Boxing sphere and cannot select (counter) talents. You must take Tight Guard with the bonus talent gained from this drawback.
 
-## Observant Fighter [SA:MD2]
+#### Observant Fighter [SA:MD2]
 
 You do not gain the counter punch ability and cannot select (counter) talents or other talents that rely on counter punch. You gain Read The Rhythm with this drawback.
 
 **Incompatible:** Defensive Pugilist, Wily Dodger.
 
-## Retaliator [Conq. HB]
+#### Retaliator [Conq. HB]
 
 You do not gain Improved Unarmed Strike from this sphere, nor do boxing talents count as unarmed sphere talents for the purpose of improving your unarmed strike dice damage. You cannot take this drawback if you gained the Boxing sphere through associated feat with Improved Unarmed Strike. You must take either Heavy Counter or Hair Trigger as your bonus talent with this drawback.
 
 **Incompatible:** Defensive Pugilist.
 
-## Shadowboxer [SA:MD]
+#### Shadowboxer [SA:MD]
 
 You do not gain the counter punch ability and cannot select (counter) talents or other talents that rely on counter punch. You gain Shadowboxing with this talent.
 
 **Incompatible:** Defensive Pugilist.
 
-## Wily Dodger [SA:MD2]
+#### Wily Dodger [SA:MD2]
 
 You do not gain the counter punch ability and cannot select (counter) talents or other talents that rely on counter punch. You gain Headfake with this drawback.
 

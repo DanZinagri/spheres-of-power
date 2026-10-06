@@ -12,13 +12,13 @@ This slavering brownish hound with huge-fanged jaws seems to waver and ripple be
 **Warpwolf (CR 5/MR 2)**
 XP 1,600
 CE Medium magical beast (mythic)
-**Init**+3;**Senses** darkvision 60 ft., low-light vision; Perception +8
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; Perception +8
 
 #### Defense
 
-**AC**20,**touch**14,**flat-footed** 16 (+3 Dex, +1 dodge, +6 natural)
+**AC** 20, **touch** 14, **flat-footed** 16 (+3 Dex, +1 dodge, +6 natural)
 **hp** 65 (6d10+32)
-**Fort**+7,**Ref**+8,**Will** +3
+**Fort** +7, **Ref** +8, **Will** +3
 **Defensive Abilities** gut-wrenchingMA, warp fugue; DR 5/epic
 
 #### Offense
@@ -34,10 +34,10 @@ At will—blink
 
 #### Statistics
 
-**Str**19,**Dex**17,**Con**14,**Int**8,**Wis**13,**Cha** 12
-**Base Atk**+6;**CMB**+10;**CMD** 24 (28 vs. trip)
+**Str** 19, **Dex** 17, **Con** 14, **Int** 8, **Wis** 13, **Cha** 12
+**Base Atk** +6; **CMB** +10; **CMD** 24 (28 vs. trip)
 **Feats** DodgeMF, Mobility, Precise StrikeB, Spring Attack
-**Skills**Acrobatics +7 (+11 when jumping), Perception +8, Stealth +7;**Racial Modifiers** +4 Acrobatics when jumping
+**Skills** Acrobatics +7 (+11 when jumping), Perception +8, Stealth +7; **Racial Modifiers** +4 Acrobatics when jumping
 **Languages** Aklo
 **SQ** pack of oneMA, transdimensional
 

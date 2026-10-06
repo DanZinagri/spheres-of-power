@@ -60,36 +60,36 @@ Every companion comes with one of the following base forms, chosen by the caster
 
 (Note: A companion does not gain power from temporary increases to caster level; i.e., from a thaumaturge’s forbidden lore ability or from certain boons.)
 
-***Avian:*** **Size**Medium;**Speed**20 ft., Fly1 15 ft. (average);**AC**+2 natural armor;**Saves**Fort (good), Ref (good), Will (bad);**Attack**Bite (primary, 1d4 Medium, 1d3 Small), 2 talons (primary, 1d4 Medium, 1d3 Small, creature must be airborne to use);**Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
+***Avian:*** **Size** Medium; **Speed** 20 ft., Fly1 15 ft. (average); **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** Bite (primary, 1d4 Medium, 1d3 Small), 2 talons (primary, 1d4 Medium, 1d3 Small, creature must be airborne to use); **Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
 
 Avian creatures are birds and bird-like magical beasts and outsiders. An avian companion has a head, 2 legs, and 2 wings.
 
 1: This fly speed only functions on the companion’s turn. If the companion is not on a surface that can support it on the end of its turn, it glides to the ground, taking no falling damage. If the companion gains a natural fly speed from the Avian Creature (form) talent, increase the maneuverability of that speed by 1 step.
 
-***Biped:*** **Size**Medium;**Speed**30 ft.;**AC**+2 natural armor;**Saves**Fort (good), Ref (bad), Will (good);**Attack**2 slams (1d4);**Ability Scores** Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11
+***Biped:*** **Size** Medium; **Speed** 30 ft.; **AC** +2 natural armor; **Saves** Fort (good), Ref (bad), Will (good); **Attack** 2 slams (1d4); **Ability Scores** Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11
 
 Bipeds are usually humanoids, and begin with 2 legs, 2 arms, and a head.
 
-***Ooze:*** **Size**Medium;**Speed**20 ft.;**AC**+4 natural armor;**Saves**Fort (good), Ref (bad), Will (bad);**Attack**slam (primary, 1d6 Medium, 1d4 Small);**Ability Scores** Str 16, Dex 8, Con 16, Int 7, Wis 12, Cha 11.
+***Ooze:*** **Size** Medium; **Speed** 20 ft.; **AC** +4 natural armor; **Saves** Fort (good), Ref (bad), Will (bad); **Attack** slam (primary, 1d6 Medium, 1d4 Small); **Ability Scores** Str 16, Dex 8, Con 16, Int 7, Wis 12, Cha 11.
 
 Ooze creatures are usually oozes, puddings, or other amorphous creatures and lack discernable limbs. An ooze companion may not be tripped unless gaining legs from another source.
 
-***Orb:*** **Size**Medium;**Speed**5 ft. Hover1 30 ft. (average);**AC**+2 natural armor;**Saves**Fort (bad), Ref (good), Will (good);**Attack**bite or slam (choose 1) (1d6);**Ability Scores** Str 7, Dex 16, Con 13, Int 102, Wis 12, Cha 11.
+***Orb:*** **Size** Medium; **Speed** 5 ft. Hover1 30 ft. (average); **AC** +2 natural armor; **Saves** Fort (bad), Ref (good), Will (good); **Attack** bite or slam (choose 1) (1d6); **Ability Scores** Str 7, Dex 16, Con 13, Int 102, Wis 12, Cha 11.
 
 Orb creatures are lantern archons, will-o-wisps, gibbering orbs, and other mystical fey, outsiders, constructs, or aberrations with a floating sphere-like appearance and supernatural movement. An orb lacks any limbs, but may treat its body as a head for the purpose of adding natural attacks. An orb companion may not be tripped unless gaining legs from another source.
 
 1: An orb may float up to 5 ft. plus 5 ft. per 5 Hit Dice above the ground, with a horizontal movement speed of 30 feet. When floating this way, fly checks are not required to hover or change direction. When falling the orb may choose to descend at a slower rate to control its fall and to negate all falling damage it would take. Each round it descends 30 ft., and may move in another direction for 30 feet. It may choose to drift sideways, gliding forwards while descending, or down, safely increasing its rate of descent. It may even choose to drift ‘upwards’ to reduce its rate of descent, even allowing it to negate it entirely and hover midair (though cannot move horizontally if it begins its turn doing so). This is a supernatural ability.
 2: The Skillful Companion (form) talent raises increases this to 13 if taken.
 
-***Quadruped:*** **Size**Medium;**Speed**40 ft.;**AC**+2 natural armor;**Saves**Fort (good), Ref (good), Will (bad);**Attack**bite (1d6);**Ability Scores** Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11
+***Quadruped:*** **Size** Medium; **Speed** 40 ft.; **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** bite (1d6); **Ability Scores** Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11
 
 Quadrupeds are usually beasts, and begin with 4 legs and a head.
 
-***Serpentine:*** **Size**Medium;**Speed**20 ft.;**AC**+4 natural armor;**Saves**Fort (bad), Ref (good), Will (good);**Attack**bite (1d6), tail slap (1d6);**Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
+***Serpentine:*** **Size** Medium; **Speed** 20 ft.; **AC** +4 natural armor; **Saves** Fort (bad), Ref (good), Will (good); **Attack** bite (1d6), tail slap (1d6); **Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
 
 Serpentine creatures are snakes, fish, and other elongated creatures. They begin with a head, but no arms or legs.
 
-***Vermin:*** **Size**Medium;**Speed**20 ft., Climb 20 ft.;**AC**+2 natural armor;**Saves**Fort (good), Ref (good), Will (bad);**Attack**bite (1d6);**Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
+***Vermin:*** **Size** Medium; **Speed** 20 ft., Climb 20 ft.; **AC** +2 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** bite (1d6); **Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
 
 Vermin are usually insects or arachnids, and begin with either 6 or 8 legs and a head and gain a +6 bonus to CMD verses trip attempts from its additional legs.
 
@@ -596,13 +596,13 @@ Generally, existing base forms, companion archetypes, and talents should be used
 
 As a more involved example, let’s say that a player wants to have a companion based on a marilith. Neither the biped not the serpentine base forms are quite right. While taking the serpentine base form and using the Additional Limbs talent from Spheres of Power would allow you to get there, doing so requires several talents, which may be beyond the investment reasonable at low level. Instead, we can make a new base form, starting from the serpentine base.
 
-***Serpentine:*** **Size**Medium;**Speed**20 ft.;**AC**+4 natural armor;**Saves**Fort (bad), Ref (good), Will (good);**Attack**bite (1d6), tail slap (1d6);**Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
+***Serpentine:*** **Size** Medium; **Speed** 20 ft.; **AC** +4 natural armor; **Saves** Fort (bad), Ref (good), Will (good); **Attack** bite (1d6), tail slap (1d6); **Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11
 
 Serpentine creatures are snakes, fish, and other elongated creatures. They begin with a head, but no arms or legs. Adding a pair of arms is worth about a talent, per Additional Limbs, so we will start by removing the bite attack and giving it a pair of arms. Now since this is a base form, granting three pairs of fully functional arms would be potentially problematic. However, we can still keep the appearance by allowing the form to have three pairs of arms, but treat them as one set mechanically. Base statistics can shuffled as well. As the marilith is stronger than it is dextrous, we will swap the Strength and Dexterity starting scores. We will also swap the good Will save for a good Fortitude save to better reflect the monster’s stat.
 
 That gets us pretty close. Down the road, the Additional Limbs talent can be used to make the extra arms function mechanically while other talents can fill in resistances, weapon proficiencies, and size, reflecting the increased power of the summoner’s connection with his companion. This should line up reasonably well with other base forms. You end up with:
 
-***Echidna:*** **Size**Medium;**Speed**20 ft.;**AC**+4 natural armor;**Saves**Fort (good), Ref (good), Will (bad);**Attack**tail slap (1d6);**Ability Scores** Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11
+***Echidna:*** **Size** Medium; **Speed** 20 ft.; **AC** +4 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** tail slap (1d6); **Ability Scores** Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11
 
 Echidna creatures are suitable for lamias, mariliths, merfolk, and other, similar creatures. An echidna creature begins with a head, a pair of arms, a tail, and no legs. An echidna creature has no legs and may not be tripped unless gaining legs from another source.
 

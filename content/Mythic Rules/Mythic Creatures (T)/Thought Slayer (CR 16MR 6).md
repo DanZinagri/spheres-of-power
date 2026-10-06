@@ -13,20 +13,20 @@ Towering over you, the creature has transparent skin that seems to flow away fro
 XP 76,800
 Psionics Unleashed
 CN Huge aberration (mythic, psionic)
-**Init**+11/-9MF, dual initiativeMA;**Senses** darkvision 60 ft., Perception +20
+**Init** +11/-9MF, dual initiativeMA; **Senses** darkvision 60 ft., Perception +20
 
 #### Defense
 
-**AC**29,**touch**9,**flat-footed** 28 (–2 size, +1 Dex, +20 natural)
+**AC** 29, **touch** 9, **flat-footed** 28 (–2 size, +1 Dex, +20 natural)
 **hp** 195 (14d8+132)
-**Fort**+12,**Ref**+5,**Will** +10; second saveMA
-**Defensive Abilities**block attacksMA, ethereal jaunt; DR 10/epic;**PR** 27
+**Fort** +12, **Ref** +5, **Will** +10; second saveMA
+**Defensive Abilities** block attacksMA, ethereal jaunt; DR 10/epic; **PR** 27
 
 #### Offense
 
 **Speed** 50 ft.
 **Melee** bite +16 (3d6+26 plus 2d4 power points)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** disorienting gazeMA, feral savagery (mind-consuming gaze)MA, mind-consuming gaze, mythic power (6/day, surge +1d8), psionic backlashMA, psionic leechMA
 
 **Psi-like Abilities** (ML 14th, concentration +17)
@@ -37,8 +37,8 @@ At will—brain lock (any nonmindless, DC 15*), chameleon, detect psionics, dist
 
 #### Statistics
 
-**Str**28,**Dex**13,**Con**23,**Int**7,**Wis**12,**Cha** 17
-**Base Atk**+10;**CMB**+20;**CMD** 31
+**Str** 28, **Dex** 13, **Con** 23, **Int** 7, **Wis** 12, **Cha** 17
+**Base Atk** +10; **CMB** +20; **CMD** 31
 **Feats** Alertness, Cleave, Great Cleave, Great Fortitude, Improved InitiativeMA, Power AttackMA, Weapon Focus (bite)MA
 **Skills** Climb +26, Perception +20
 

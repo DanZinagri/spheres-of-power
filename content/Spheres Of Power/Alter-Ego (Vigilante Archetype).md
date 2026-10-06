@@ -10,7 +10,7 @@ parent: "[[Spheres Of Power]]"
 
 All vigilantes maintain at least two identities throughout their careers, but there exists a rare few cases where one of the identities is not merely a disguise, it is an entirely different entity. Whether through a fluke of chance or a deliberate pact, these vigilantes have entered into a bond with an extra-planar creature who (usually) shares their alignment and views and aids them in their pursuits, lending them the use of their powers.
 
-### Tag Team
+## Tag Team
 
 At 1st level, the alter-ego does not gain a vigilante identity. Instead, the alter-ego trades places with an extra- planar ally until it is time to resume social activity.
 
@@ -24,7 +24,7 @@ When the alter-ego gains a vigilante talent, it instead applies only to his comp
 
 This replaces seamless guise and specialization and alters dual identity and vigilante talents. Archetypes that alter vigilante talents may be combined with the alter-ego; the alter- ego cannot gain a form talent in place of a vigilante talent that has been replaced or modified by another archetype.
 
-#### They go where?
+### They go where?
 
 The nature of the location the alter-ego goes when her companion is summoned is left deliberately vague. Some may be held in stasis in a mystic life-support pod orbiting the world, some may pass the time in an idyllic garden in a fast time plane, and others may be thrust into epic battles between cosmic forces. Ultimately, for the purposes of normal gameplay, the alter-ego ceases to exist while her companion is present, just as there are no concrete rules governing the activities of companions when they are not summoned.
 

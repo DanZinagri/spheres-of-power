@@ -81,7 +81,7 @@ See the mythic subtype section below for details. The mythic subtype costs 5 AP,
 
 #### Mythic Subtype (5 AP)
 
-**Prerequisite:** none;**Benefit:** A creature with this subtype is infused with mythic power and is capable of terrible and awe-inspiring feats. Creatures with the mythic subtype gain the following abilities.
+**Prerequisite:** none; **Benefit:** A creature with this subtype is infused with mythic power and is capable of terrible and awe-inspiring feats. Creatures with the mythic subtype gain the following abilities.
 
 **Damage Reduction (Ex):** A mythic creature with 5 to 10 Hit Dice gains DR 5/epic. A creature with 11 or more Hit Dice gains DR 10/epic. If the creature purchases the damage reduction ability, it adds epic to the qualities needed to bypass that reduction at no additional charge.
 
@@ -269,30 +269,30 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 
 ### Absolute Readiness (Ex, 2 AP)
 
-**Prerequisites:** Mythic Improved Initiative feat, mythic power;**Benefit:** The creature is never surprised or flat-footed. It can act in the surprise round as if it were a normal round.
+**Prerequisites:** Mythic Improved Initiative feat, mythic power; **Benefit:** The creature is never surprised or flat-footed. It can act in the surprise round as if it were a normal round.
 
-**Format:** absolute readiness;**Location:** Defensive Abilities.
+**Format:** absolute readiness; **Location:** Defensive Abilities.
 
 ### Accurate Strikes (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature’s attacks ignore the AC bonus granted to targets by any cover less than total cover, and the miss chance granted to targets by any concealment less than total concealment.
+**Prerequisites:** mythic power; **Benefit:** The creature’s attacks ignore the AC bonus granted to targets by any cover less than total cover, and the miss chance granted to targets by any concealment less than total concealment.
 
-**Format:** accurate strikes;**Location:** Special Attacks.
+**Format:** accurate strikes; **Location:** Special Attacks.
 
 ### Aligned Aura (Su, 4 AP)
 
-**Prerequisites:** alignment, mythic power;**Benefit:** Any outsider with alignment subtypes equivalent to all aspects of the creature’s alignment (and alignment subtypes, if any) with 15 or more Hit Dice within 60 feet of the mythic creature gains a +10 enhancement bonus to Strength and Charisma, and its spell resistance (if any) increases by 5. If an affected creature does not already possess spell resistance, it gains spell resistance 11 + its CR.
+**Prerequisites:** alignment, mythic power; **Benefit:** Any outsider with alignment subtypes equivalent to all aspects of the creature’s alignment (and alignment subtypes, if any) with 15 or more Hit Dice within 60 feet of the mythic creature gains a +10 enhancement bonus to Strength and Charisma, and its spell resistance (if any) increases by 5. If an affected creature does not already possess spell resistance, it gains spell resistance 11 + its CR.
 
 **Enhancements**
 
 - Applicable creatures with 10 or more Hit Dice are affected for +2 AP, or 5 or more Hit Dice for +4 AP.
 - The range of the effect is increased to 90 feet for +1 AP or 120 feet for +2 AP.
 
-**Format:** aligned aura (60 ft.);**Location:** Aura.
+**Format:** aligned aura (60 ft.); **Location:** Aura.
 
 ### Alternate Form (Ex, 2 AP)
 
-**Prerequisites:** Gargantuan-sized or larger, mythic power;**Benefit:** As a full-round action the creature can assume the shape of an inanimate structure such as a monument, mansion, or fortress. While in this form, the creature cannot move or take attacks, but it can use any spell-like or supernatural abilities, and retains its Dexterity bonus to AC. It can resume its base form as a full-round action. The type of structure the creature can become is selected when this ability is gained and cannot be changed thereafter.
+**Prerequisites:** Gargantuan-sized or larger, mythic power; **Benefit:** As a full-round action the creature can assume the shape of an inanimate structure such as a monument, mansion, or fortress. While in this form, the creature cannot move or take attacks, but it can use any spell-like or supernatural abilities, and retains its Dexterity bonus to AC. It can resume its base form as a full-round action. The type of structure the creature can become is selected when this ability is gained and cannot be changed thereafter.
 
 **Enhancements**
 
@@ -302,21 +302,21 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 - The creature gains fast healing 10 while in its alternate form for an additional +2 AP.
 - The creature can make superficial alterations to its alternate form each time the ability is used (such as a mansion changing its architecture, layout, or furnishings) for an additional +1 AP.
 
-**Format:** alternate form;**Location:** SQ.
+**Format:** alternate form; **Location:** SQ.
 
 ### Amazing Initiative (Ex, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature has a bonus on initiative checks equal to its mythic rank.
+**Prerequisites:** mythic power; **Benefit:** The creature has a bonus on initiative checks equal to its mythic rank.
 
 **Enhancements**
 
 - As a free action on its turn, it can expend one use of mythic power to take an additional standard action during that turn for an additional +1 AP. This additional standard action can’t be used to cast a spell. It can’t gain an extra action in this way more than once per round.
 
-**Format:** amazing initiative;**Location:** Special Attacks.
+**Format:** amazing initiative; **Location:** Special Attacks.
 
 ### Apocalyptic Wound (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** When the mythic creature takes damage, it can expend one use of its mythic power as an immediate action to inundate its attacker’s mind with dire prophetic visions for 1d6 rounds. A Will save (DC 10 + ½ the mythic creature’s HD + creature’s Constitution modifier) negates this effect. These visions cause the attacker to become dazzled and to take a 20% miss chance on all its attacks. This is a mind-affecting divination effect.
+**Prerequisites:** mythic power; **Benefit:** When the mythic creature takes damage, it can expend one use of its mythic power as an immediate action to inundate its attacker’s mind with dire prophetic visions for 1d6 rounds. A Will save (DC 10 + ½ the mythic creature’s HD + creature’s Constitution modifier) negates this effect. These visions cause the attacker to become dazzled and to take a 20% miss chance on all its attacks. This is a mind-affecting divination effect.
 
 **Enhancements**
 
@@ -327,21 +327,21 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 
 - The creature must expend two uses of mythic power to use this ability (1 AP).
 
-**Format:** apocalyptic wound;**Location:** Defensive Abilities.
+**Format:** apocalyptic wound; **Location:** Defensive Abilities.
 
 ### Archive (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** By concentrating for 1 minute without interruption, the mythic creature can conjure the door to a personal extradimensional library. This functions in a similar manner to an archmage’s sanctum but is 2,000 cubic feet in size. By spending one use of its mythic power as a full-round action, the mythic creature can instantly record a number of nonmagical writings (books, scrolls, carvings, and so on) equal to its mythic rank within tomes in the archive, provided it is touching or carrying the items it wishes to record.
+**Prerequisites:** mythic power; **Benefit:** By concentrating for 1 minute without interruption, the mythic creature can conjure the door to a personal extradimensional library. This functions in a similar manner to an archmage’s sanctum but is 2,000 cubic feet in size. By spending one use of its mythic power as a full-round action, the mythic creature can instantly record a number of nonmagical writings (books, scrolls, carvings, and so on) equal to its mythic rank within tomes in the archive, provided it is touching or carrying the items it wishes to record.
 
 **Enhancements**
 
 - If the mythic creature is killed or rendered unconscious, its body and any items it is carrying are immediately transported to its archive for an additional +2 AP. A mythic creature with this ability can conjure the door to the archive of a slain mythic creature with this ability at the location of the slain creature’s death.
 
-**Format:** archive;**Location:** SQ.
+**Format:** archive; **Location:** SQ.
 
 ### Bestow Knowledge (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can touch a target with an Intelligence of 3 or higher and bestow temporary knowledge and understanding. Choose one of the mythic creature’s skills; for the next 24 hours, the target of this ability uses the mythic creature’s skill ranks in place of its own, even if this is more than its maximum number of ranks. A creature can’t benefit from this ability more than once at the same time. If the mythic creature uses this ability on a target that is currently the target of bestow knowledge (from itself or another creature with this ability), the new bestow knowledge effect replaces the older one.
+**Prerequisites:** mythic power; **Benefit:** The creature can touch a target with an Intelligence of 3 or higher and bestow temporary knowledge and understanding. Choose one of the mythic creature’s skills; for the next 24 hours, the target of this ability uses the mythic creature’s skill ranks in place of its own, even if this is more than its maximum number of ranks. A creature can’t benefit from this ability more than once at the same time. If the mythic creature uses this ability on a target that is currently the target of bestow knowledge (from itself or another creature with this ability), the new bestow knowledge effect replaces the older one.
 
 **Enhancements**
 
@@ -351,11 +351,11 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 
 - The creature must expend two uses of mythic power to use this ability (1 AP).
 
-**Format:** bestow knowledge;**Location:** SQ.
+**Format:** bestow knowledge; **Location:** SQ.
 
 ### Birth Spawn (Ex, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a full-round action, the mythic creature can give birth to a number spawn less than or equal to its mythic rank, which are any creatures that are at least one size category smaller than the mythic creature. Each day the mythic creature can produce any number of creatures whose combined total base CR does not exceed 3 + its Constitution modifier. The mythic creature does have any control or influence over spawn created in this manner.
+**Prerequisites:** mythic power; **Benefit:** As a full-round action, the mythic creature can give birth to a number spawn less than or equal to its mythic rank, which are any creatures that are at least one size category smaller than the mythic creature. Each day the mythic creature can produce any number of creatures whose combined total base CR does not exceed 3 + its Constitution modifier. The mythic creature does have any control or influence over spawn created in this manner.
 
 **Enhancements**
 
@@ -371,7 +371,7 @@ The following section represents all abilities drawn from Pathfinder Roleplaying
 - The creature must expend a use of mythic power to birth spawn (2 AP).
 - The creature must expend two uses of mythic power to birth spawn (3 AP).
 
-**Format:** birth spawn;**Location:** SQ.
+**Format:** birth spawn; **Location:** SQ.
 
 #### Mutation
 
@@ -393,65 +393,65 @@ The following table can be used to represent random mutations from the birth spa
 
 ### Block Attacks (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per round, when the creature is hit by a melee or ranged attack, it can attempt a melee attack using its highest attack bonus. If this result exceeds the result from the attack against it, the creature is unaffected by the attack (as if the attack had missed).
+**Prerequisites:** mythic power; **Benefit:** Once per round, when the creature is hit by a melee or ranged attack, it can attempt a melee attack using its highest attack bonus. If this result exceeds the result from the attack against it, the creature is unaffected by the attack (as if the attack had missed).
 
 **Enhancements**
 
 - The creature can use the block attacks ability more than once per round for an additional +2 AP. Each use of the block attacks ability beyond the first requires the creature expend one use of mythic power.
 
-**Format:** block attacks;**Location:** Defensive Abilities.
+**Format:** block attacks; **Location:** Defensive Abilities.
 
 ### Bone Eruption (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a standard action, the creature can expend two uses of mythic power to call to the bones of all enemies within a 20-foot-radius burst. The bones shudder and twist within each creature, dealing a number of d6s of damage equal to the creature’s Hit Dice and giving each creature the sickened condition for 1d6 rounds. A successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier) halves the damage and negates the sickened condition.
+**Prerequisites:** mythic power; **Benefit:** As a standard action, the creature can expend two uses of mythic power to call to the bones of all enemies within a 20-foot-radius burst. The bones shudder and twist within each creature, dealing a number of d6s of damage equal to the creature’s Hit Dice and giving each creature the sickened condition for 1d6 rounds. A successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier) halves the damage and negates the sickened condition.
 
 **Enhancements**
 
 - If this damage kills a creature, some of its bones tear free from its body and fuse with the mythic creature, healing it for 1d6 points of damage per Hit Die of the slain creature for an additional +2 AP. Creatures immune to critical hits are immune to this ability.
 - The ability requires the expenditure of only one use of mythic power for an additional +2 AP.
 
-**Format:** bone eruption;**Location:** Special Attacks.
+**Format:** bone eruption; **Location:** Special Attacks.
 
 ### Brutal Surge (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** When the creature expends mythic power to add a surge die to an attack roll, it also adds a surge die to that attack’s damage roll. This is not an action and does not require the expenditure of any additional uses of mythic power to use this ability.
+**Prerequisites:** mythic power; **Benefit:** When the creature expends mythic power to add a surge die to an attack roll, it also adds a surge die to that attack’s damage roll. This is not an action and does not require the expenditure of any additional uses of mythic power to use this ability.
 
-**Format:** brutal surge;**Location:** Special Attacks.
+**Format:** brutal surge; **Location:** Special Attacks.
 
 ### Cantrips/Orisons (Su, 1 AP)
 
-**Prerequisites:** mythic power, spellcaster;**Benefit:** The creature automatically knows all cantrips (for arcane spells) or orisons (for divine spells) for its equivalent spellcasting class and can cast them at will.
+**Prerequisites:** mythic power, spellcaster; **Benefit:** The creature automatically knows all cantrips (for arcane spells) or orisons (for divine spells) for its equivalent spellcasting class and can cast them at will.
 
 **Enhancements**
 
 - Any cantrip/orison cast functions as a potent version of the spell (increase save DC by 2 and gain a +2 bonus on caster level checks to overcome spell resistance) with no additional expenditure of mythic power for an additional +1 AP.
 
-**Format:** cantrips/orisons;**Location:** SQ.
+**Format:** cantrips/orisons; **Location:** SQ.
 
 ### Contemptuous Toss (Ex, 2 AP)
 
-**Prerequisites:** Awesome Blow feat, mythic power;**Benefit:** When the creature uses Awesome Blow and expends a use of mythic power, its target flies up to 60 additional feet and takes 1d6 points of damage for every additional 20 feet traveled.
+**Prerequisites:** Awesome Blow feat, mythic power; **Benefit:** When the creature uses Awesome Blow and expends a use of mythic power, its target flies up to 60 additional feet and takes 1d6 points of damage for every additional 20 feet traveled.
 
 **Enhancements**
 
 - The creature selects one type of attack. When using the selected attack, it can hurl the target up to 60 feet upward instead of sideways for an additional +1 AP.
 
-**Format:** contemptuous toss;**Location:** Special Attacks.
+**Format:** contemptuous toss; **Location:** Special Attacks.
 
 ### Destruction (Su, 3 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Any opponent killed by the mythic creature is entirely destroyed, leaving behind only a trace of fine ash. The creature’s magical equipment is unaffected.
+**Prerequisites:** mythic power; **Benefit:** Any opponent killed by the mythic creature is entirely destroyed, leaving behind only a trace of fine ash. The creature’s magical equipment is unaffected.
 
 **Flaws**
 
 - The opponent is only entirely destroyed if killed by a specific attack or special ability possessed by the mythic creature (1 AP).
 - The opponent’s non-mythic magical equipment is destroyed if its caster level is less than or equal to the creature’s mythic tier (1 AP)
 
-**Format:** destruction;**Location:** Special Attacks.
+**Format:** destruction; **Location:** Special Attacks.
 
 ### Devastator (Su, 4 AP)
 
-**Prerequisites:** Vital Strike feat, mythic power;**Benefit:** As a full-round action, the creature can make a single attack at its highest base attack bonus with a natural attack or manufactured weapon. This attack counts as a Vital Strike despite not using an attack action. On a successful hit, this attack bypasses all damage reduction and hardness.
+**Prerequisites:** Vital Strike feat, mythic power; **Benefit:** As a full-round action, the creature can make a single attack at its highest base attack bonus with a natural attack or manufactured weapon. This attack counts as a Vital Strike despite not using an attack action. On a successful hit, this attack bypasses all damage reduction and hardness.
 
 **Enhancements**
 
@@ -462,7 +462,7 @@ The following table can be used to represent random mutations from the birth spa
 - The creature must expend a use of mythic power to use this ability (2 AP).
 - The creature must expend two uses of mythic power to use this ability (3 AP).
 
-**Format:** devastator;**Location:** Special Attacks.
+**Format:** devastator; **Location:** Special Attacks.
 
 ### Devolution (Su, 6 AP)
 
@@ -477,33 +477,33 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 - The creature must expend a use of mythic power to use this ability (2 AP).
 - The creature must expend two uses of mythic power to use this ability (3 AP).
 
-**Format:** devolution;**Location:** Special Attacks.
+**Format:** devolution; **Location:** Special Attacks.
 
 ### Dual Initiative (Ex, 6 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster gets two turns each round, one on its initiative count and another on its initiative count – 20. For example, if the monster’s initiative is 23, for its first turn it could make a full attack (and take a 5 foot step) at initiative 23, and for its second turn at initiative 3 it could take a move action and cast a spell. This allows the monster to perform two actions per round that normally take an entire round, such as using a summon monster spell. For the purposes of spells and effects that have a duration of a round or longer or trigger at the beginning of the creature’s round or the start of its turn such as saving throws against ongoing effects or taking bleed damage), only the monster’s first turn each round counts toward such durations.
+**Prerequisites:** mythic power; **Benefit:** The monster gets two turns each round, one on its initiative count and another on its initiative count – 20. For example, if the monster’s initiative is 23, for its first turn it could make a full attack (and take a 5 foot step) at initiative 23, and for its second turn at initiative 3 it could take a move action and cast a spell. This allows the monster to perform two actions per round that normally take an entire round, such as using a summon monster spell. For the purposes of spells and effects that have a duration of a round or longer or trigger at the beginning of the creature’s round or the start of its turn such as saving throws against ongoing effects or taking bleed damage), only the monster’s first turn each round counts toward such durations.
 
 **Flaws**
 
 - The creature must expend a use of mythic power as a free action during its first turn to gain a second turn (2 AP).
 - The creature must expend two uses of mythic power as a free action during its first turn to gain a second turn (3 AP).
 
-**Format:**+21/+1;**Location:** Initiative.
+**Format:** +21/+1; **Location:** Initiative.
 
 ### Earthquake (Su, 5 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can hit the ground and expend two uses of mythic power to cause an earthquake (as the spell). Creatures with this ability are not affected by the earthquake.
+**Prerequisites:** mythic power; **Benefit:** The creature can hit the ground and expend two uses of mythic power to cause an earthquake (as the spell). Creatures with this ability are not affected by the earthquake.
 
 **Enhancements**
 
 - The creature adds its mythic rank to the earthquake effect save DCs for an additional +1 AP.
 - Activating this ability only requires expending one use of mythic power for an additional +2 AP.
 
-**Format:** earthquake;**Location:** Special Attacks.
+**Format:** earthquake; **Location:** Special Attacks.
 
 ### Eclipse (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to blot out the sun in a 1-mile radius. This entire area is affected by the darkness spell for 1 hour.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to blot out the sun in a 1-mile radius. This entire area is affected by the darkness spell for 1 hour.
 
 **Enhancements**
 
@@ -515,11 +515,11 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** eclipse;**Location:** Special Attacks.
+**Format:** eclipse; **Location:** Special Attacks.
 
 ### Elemental Blood (Su, 2 AP)
 
-**Prerequisites:** breath weapon, mythic power;**Benefit:** The mythic creature’s blood and other fluids are infused with acid, cold, electricity, or fire, matching its breath weapon energy type. Every time the creature is damaged by a piercing or slashing weapon, the attacking creature takes energy damage according to the table below (or double damage if the attack is a critical hit). Using a reach weapon does not endanger the attacker in this way. If the creature has the swallow whole ability, it adds this damage to its swallow whole damage.
+**Prerequisites:** breath weapon, mythic power; **Benefit:** The mythic creature’s blood and other fluids are infused with acid, cold, electricity, or fire, matching its breath weapon energy type. Every time the creature is damaged by a piercing or slashing weapon, the attacking creature takes energy damage according to the table below (or double damage if the attack is a critical hit). Using a reach weapon does not endanger the attacker in this way. If the creature has the swallow whole ability, it adds this damage to its swallow whole damage.
 
 | Creature Size | Points of Energy Damage |
 | --- | --- |
@@ -533,27 +533,27 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 
 - The creature’s elemental blood ability functions as if it was a creature of one size category larger for an additional +1 AP, or two size categories larger for +2 AP.
 
-**Format:** elemental blood (2d6 fire);**Location:** Defensive Abilities.
+**Format:** elemental blood (2d6 fire); **Location:** Defensive Abilities.
 
 ### Elemental Fury (Su, 2 AP)
 
-**Prerequisites:** breath weapon, elemental blood, mythic power, natural weapon;**Benefit:** If the mythic creature confirms a critical hit with a natural weapon, it adds its elemental blood damage to the damage dealt by the natural attack.
+**Prerequisites:** breath weapon, elemental blood, mythic power, natural weapon; **Benefit:** If the mythic creature confirms a critical hit with a natural weapon, it adds its elemental blood damage to the damage dealt by the natural attack.
 
-**Format:** elemental fury (1d6 fire);**Location:** Special Attacks.
+**Format:** elemental fury (1d6 fire); **Location:** Special Attacks.
 
 ### Elemental Inferno (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power as an immediate action to cause any acid, cold, electricity, or fire (select one) damage it deals ignore resistance and immunity for 1 round.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power as an immediate action to cause any acid, cold, electricity, or fire (select one) damage it deals ignore resistance and immunity for 1 round.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** elemental inferno;**Location:** Special Attacks.
+**Format:** elemental inferno; **Location:** Special Attacks.
 
 ### Flash of Brutality (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per day as a swift action, the creature can gain a burst of savage inspiration. When it does, it doubles the threat range of any attack it takes until the start of its next turn. This does not stack with feats or abilities that increase an attack or weapon’s threat range.
+**Prerequisites:** mythic power; **Benefit:** Once per day as a swift action, the creature can gain a burst of savage inspiration. When it does, it doubles the threat range of any attack it takes until the start of its next turn. This does not stack with feats or abilities that increase an attack or weapon’s threat range.
 
 **Enhancements**
 
@@ -565,17 +565,17 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 - The creature must expend a use of mythic power to activate this ability (2 AP).
 - The creature must expend two uses of mythic power to activate this ability (3 AP).
 
-**Format:** flash of brutality;**Location:** Special Attacks.
+**Format:** flash of brutality; **Location:** Special Attacks.
 
 ### Feral Savagery (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Select a set of circumstances that must involve the creature making a melee attack. For example, the creature making a full attack, rend attack, or using the pounce ability. When performing the selected action, the creature can immediately attempt an additional attack against an opponent. This attack is made using the creature’s full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn’t stack with similar means of gaining additional attacks, such as the haste spell or a speed weapon. This ability doesn’t grant an extra action, so the creature can’t use it to cast a second spell or otherwise take an extra action in the round.
+**Prerequisites:** mythic power; **Benefit:** Select a set of circumstances that must involve the creature making a melee attack. For example, the creature making a full attack, rend attack, or using the pounce ability. When performing the selected action, the creature can immediately attempt an additional attack against an opponent. This attack is made using the creature’s full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn’t stack with similar means of gaining additional attacks, such as the haste spell or a speed weapon. This ability doesn’t grant an extra action, so the creature can’t use it to cast a second spell or otherwise take an extra action in the round.
 
-**Format:** feral savagery (full attack);**Location:** Special Attacks.
+**Format:** feral savagery (full attack); **Location:** Special Attacks.
 
 ### Fire Vortex (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to create a vortex of fire within 30 feet. The vortex is 5 feet wide at its base, 15 feet wide at the top, and 30 feet tall. Any creature starting its turn adjacent to the vortex takes a number of d6s of fire damage equal to the creature’s mythic rank. Any creature passing through the vortex takes a number of d6s of fire damage equal to the mythic creature’s Hit Dice. A successful Reflex save (DC 10 + mythic creature’s HD + creature’s Constitution modifier) halves this damage. The mythic creature can move the vortex up to 20 feet as a move action. If the vortex moves through a creature, that creature must succeed on the saving throw against the vortex to avoid taking damage. The vortex lasts for a number of rounds equal to the creature’s mythic rank.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to create a vortex of fire within 30 feet. The vortex is 5 feet wide at its base, 15 feet wide at the top, and 30 feet tall. Any creature starting its turn adjacent to the vortex takes a number of d6s of fire damage equal to the creature’s mythic rank. Any creature passing through the vortex takes a number of d6s of fire damage equal to the mythic creature’s Hit Dice. A successful Reflex save (DC 10 + mythic creature’s HD + creature’s Constitution modifier) halves this damage. The mythic creature can move the vortex up to 20 feet as a move action. If the vortex moves through a creature, that creature must succeed on the saving throw against the vortex to avoid taking damage. The vortex lasts for a number of rounds equal to the creature’s mythic rank.
 
 **Enhancements**
 
@@ -587,37 +587,37 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** fire vortex;**Location:** Special Attacks.
+**Format:** fire vortex; **Location:** Special Attacks.
 
 ### Fortification (Ex, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster has a 50% chance to treat any critical hit or sneak attack as a normal hit, as if wearing moderate fortification armor.
+**Prerequisites:** mythic power; **Benefit:** The monster has a 50% chance to treat any critical hit or sneak attack as a normal hit, as if wearing moderate fortification armor.
 
 **Enhancements**
 
 - The creature treats any critical hit or sneak attack as a normal hit for an additional +1 AP.
 
-**Format:** fortification (50%);**Location:** Defensive Abilities.
+**Format:** fortification (50%); **Location:** Defensive Abilities.
 
 ### Gestation Aura (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature’s aura pulses with developing life. All poisons or diseases active within 30 feet have an onset of 1 round and a frequency of 1/minute. Impregnated creatures within 30 feet gestate in 2d4 rounds. Any creature born within this aura gains a mutation (see Mutation sidebar).
+**Prerequisites:** mythic power; **Benefit:** The creature’s aura pulses with developing life. All poisons or diseases active within 30 feet have an onset of 1 round and a frequency of 1/minute. Impregnated creatures within 30 feet gestate in 2d4 rounds. Any creature born within this aura gains a mutation (see Mutation sidebar).
 
-**Format:** gestation aura (30 ft.);**Location:** Aura.
+**Format:** gestation aura (30 ft.); **Location:** Aura.
 
 ### Greensight (Su, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster can see through thick plant matter as though it were transparent, with a range of 60 feet. Leaves, vines, greenery, and undergrowth offer no concealment to the monster’s sight, though solid wood still blocks its line of sight.
+**Prerequisites:** mythic power; **Benefit:** The monster can see through thick plant matter as though it were transparent, with a range of 60 feet. Leaves, vines, greenery, and undergrowth offer no concealment to the monster’s sight, though solid wood still blocks its line of sight.
 
 **Enhancements**
 
 - The creature can see through plant matter up to the limits of its normal vision for an additional +1 AP.
 
-**Format:** greensight 60 ft.;**Location:** Senses.
+**Format:** greensight 60 ft.; **Location:** Senses.
 
 ### Ground Pound (Ex, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a standard action, the creature can expend one use of mythic power and hit the ground with a bludgeoning weapon or natural attack that deals bludgeoning damage. Choose one intersection within reach; creatures touching the ground within a 20-foot burst centered on that intersection take the damage normally dealt by that bludgeoning weapon or natural attack. A successful Reflex save (DC 10 + 1/2 mythic creature’s HD + creature’s Strength modifier) halves the damage. Creatures that fail their saves are knocked prone and moved 5 feet directly away from chosen intersection. This ability has no effect on creatures with the ground pound ability.
+**Prerequisites:** mythic power; **Benefit:** As a standard action, the creature can expend one use of mythic power and hit the ground with a bludgeoning weapon or natural attack that deals bludgeoning damage. Choose one intersection within reach; creatures touching the ground within a 20-foot burst centered on that intersection take the damage normally dealt by that bludgeoning weapon or natural attack. A successful Reflex save (DC 10 + 1/2 mythic creature’s HD + creature’s Strength modifier) halves the damage. Creatures that fail their saves are knocked prone and moved 5 feet directly away from chosen intersection. This ability has no effect on creatures with the ground pound ability.
 
 **Enhancements**
 
@@ -628,43 +628,43 @@ As a standard action, the mythic creature can touch a creature and cause it to p
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** ground pound;**Location:** Special Attacks.
+**Format:** ground pound; **Location:** Special Attacks.
 
 ### Gruesome Dismemberment (Ex, 6 AP)
 
-**Prerequisites:** grab, mythic power, natural attack;**Benefit:** When the mythic creature successfully holds a grappled creature, it may expend one use of mythic power to attempt to dismember that creature. The mythic creature attempts a grapple check; if successful, the target takes double the normal damage from one of the mythic creature’s natural attacks and the attack pulls off one of the target’s legs or arms. The target is sickened until it receives magical healing (or until it recovers to full hit points by natural means), and takes 2d6 points of bleed damage each round. A creature with only one an arm cannot perform actions requiring two arms or two hands. A bipedal creature with one leg missing cannot walk or run; it can crawl or hop, but is denied its Dexterity bonus against all opponents. A quadrupedal creature with one leg missing is reduced to half normal speed. At the GM’s discretion, creatures with more than four legs affected by this attack may be able to move at normal speed.
+**Prerequisites:** grab, mythic power, natural attack; **Benefit:** When the mythic creature successfully holds a grappled creature, it may expend one use of mythic power to attempt to dismember that creature. The mythic creature attempts a grapple check; if successful, the target takes double the normal damage from one of the mythic creature’s natural attacks and the attack pulls off one of the target’s legs or arms. The target is sickened until it receives magical healing (or until it recovers to full hit points by natural means), and takes 2d6 points of bleed damage each round. A creature with only one an arm cannot perform actions requiring two arms or two hands. A bipedal creature with one leg missing cannot walk or run; it can crawl or hop, but is denied its Dexterity bonus against all opponents. A quadrupedal creature with one leg missing is reduced to half normal speed. At the GM’s discretion, creatures with more than four legs affected by this attack may be able to move at normal speed.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 - The target can negate the dismemberment and halve the bleed damage (but not the natural attack damage) with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Strength modifier) (1 AP).
 
-**Format:** gruesome dismemberment;**Location:** Special Attacks.
+**Format:** gruesome dismemberment; **Location:** Special Attacks.
 
 ### Heroic Challenge (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per day, the mythic creature can give a nonmythic creature the agile, arcane, divine, invincible, or savage mythic template (see Pathfinder RPG Mythic Adventures for details). The mythic creature must expend a number of uses of mythic power equal to the amount the target creature’s CR increases. The target isn’t under the mythic creature’s control, but won’t willingly attack the mythic creature unless magically forced to do so. The target retains the template for 1 round per mythic rank of the mythic creature.
+**Prerequisites:** mythic power; **Benefit:** Once per day, the mythic creature can give a nonmythic creature the agile, arcane, divine, invincible, or savage mythic template (see Pathfinder RPG Mythic Adventures for details). The mythic creature must expend a number of uses of mythic power equal to the amount the target creature’s CR increases. The target isn’t under the mythic creature’s control, but won’t willingly attack the mythic creature unless magically forced to do so. The target retains the template for 1 round per mythic rank of the mythic creature.
 
 **Enhancements**
 
 - The mythic creature can use this ability any number of times per day for an additional +2 AP. Each use requires expending the required mythic power.
 - The duration of the template is 1 minute per mythic rank for an additional +2 AP or 1 hour per mythic rank for an additional +4 AP.
 
-**Format:** heroic challenge;**Location:** SQ.
+**Format:** heroic challenge; **Location:** SQ.
 
 ### Immediate Counterspell (Ex, 2 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** The creature can expend one use of mythic power as an immediate action to attempt to counter a spell. The mythic creature must use a spell, spell slot, or dispel magic to counterspell as normal. This ability allows the mythic creature to counterspell without first readying an action.
+**Prerequisites:** mythic power, spellcasting; **Benefit:** The creature can expend one use of mythic power as an immediate action to attempt to counter a spell. The mythic creature must use a spell, spell slot, or dispel magic to counterspell as normal. This ability allows the mythic creature to counterspell without first readying an action.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** immediate counterspell;**Location:** SQ.
+**Format:** immediate counterspell; **Location:** SQ.
 
 ### Impregnate Surrogate (Su, 4 AP)
 
-**Prerequisites:** birth spawn, mythic power;**Benefit:** The mythic creature can disgorge a monstrous embryo into the mouth of a living, corporeal creature that is pinned or helpless. The creature makes a grapple combat maneuver check, and if successful it impregnates that creature regardless of its gender. A mythic character must succeed at a Fortitude saving throw (DC 10 + 1/2 the impregnating creature’s HD + creature’s Constitution modifier) to avoid being impregnated; a non-mythic character is impregnated automatically.
+**Prerequisites:** birth spawn, mythic power; **Benefit:** The mythic creature can disgorge a monstrous embryo into the mouth of a living, corporeal creature that is pinned or helpless. The creature makes a grapple combat maneuver check, and if successful it impregnates that creature regardless of its gender. A mythic character must succeed at a Fortitude saving throw (DC 10 + 1/2 the impregnating creature’s HD + creature’s Constitution modifier) to avoid being impregnated; a non-mythic character is impregnated automatically.
 
 An impregnated creature’s pregnancy lasts for 2d4 rounds. During this pregnancy, the victim is nauseated until the monster bursts forth from the victim’s abdomen, which deals 1d6 points of damage per mythic rank to the pregnant creature and applies the broken condition to any armor it is wearing.
 
@@ -672,27 +672,27 @@ A remove disease spell (DC equals monster’s final CR) eliminates the unnatural
 
 The creature spawned by means of this impregnation is any creature of the mythic creature’s choice that is at least one size category smaller than the creature impregnated. These spawn count against the mythic creature’s daily CR allowance for the birth spawn ability. This otherwise functions as the birth spawn ability.
 
-**Format:** impregnate surrogate (DC 24);**Location:** Special Attacks.
+**Format:** impregnate surrogate (DC 24); **Location:** Special Attacks.
 
 ### Infuse Arms and Armor (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Any improvised weapon the creature wields is treated as a comparable normal weapon. Any normal weapon the creature wields is treated as a masterwork weapon. Any masterwork weapon it wields is treated as a weapon with a magical +1 enhancement bonus. Any weapon with a magical enhancement bonus it wields is treated as though its enhancement bonus were 1 higher than its actual value (to a maximum of +6). This ability also applies to armor and shields (normal is treated as masterwork, masterwork is treated as +1, and +1 or higher is treated as 1 higher than actual).
+**Prerequisites:** mythic power; **Benefit:** Any improvised weapon the creature wields is treated as a comparable normal weapon. Any normal weapon the creature wields is treated as a masterwork weapon. Any masterwork weapon it wields is treated as a weapon with a magical +1 enhancement bonus. Any weapon with a magical enhancement bonus it wields is treated as though its enhancement bonus were 1 higher than its actual value (to a maximum of +6). This ability also applies to armor and shields (normal is treated as masterwork, masterwork is treated as +1, and +1 or higher is treated as 1 higher than actual).
 
-**Format:** infuse arms and armor;**Location:** SQ.
+**Format:** infuse arms and armor; **Location:** SQ.
 
 ### Invulnerable Soul (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** By expending one use of mythic power as a standard action, or automatically at no cost anytime it is reduced to fewer than 0 hit points, the mythic creature assumes the shape of a miniscule valuable object, such as a ring, pearl, or gem. The mythic creature retains awareness of its environment, but otherwise is treated as if it had the petrified condition. The creature’s form cannot be damaged in any way or affected by most spells or abilities, but the mythic creature can be forced to return to normal form by a miracle or wish spell. While in its object form, the mythic creature heals naturally, and it automatically returns to its normal form when it is fully healed.
+**Prerequisites:** mythic power; **Benefit:** By expending one use of mythic power as a standard action, or automatically at no cost anytime it is reduced to fewer than 0 hit points, the mythic creature assumes the shape of a miniscule valuable object, such as a ring, pearl, or gem. The mythic creature retains awareness of its environment, but otherwise is treated as if it had the petrified condition. The creature’s form cannot be damaged in any way or affected by most spells or abilities, but the mythic creature can be forced to return to normal form by a miracle or wish spell. While in its object form, the mythic creature heals naturally, and it automatically returns to its normal form when it is fully healed.
 
 **Flaws**
 
 - The creature’s object form is not immune to damage, but has hardness equal to its mythic rank or damage reduction (whichever is higher), and hit points equal to its maximum hit point total (2 AP).
 
-**Format:** invulnerable soul;**Location:** Defensive Abilities.
+**Format:** invulnerable soul; **Location:** Defensive Abilities.
 
 ### Iron Resilience (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per round, the creature can ignore an attack (whether it required an attack roll, was a targeted spell, or was an area attack, and regardless of whether it would specifically cause hit point damage or not) that would reduce it to negative hit points or kill it. The creature takes no damage from the attack. The creature can choose to use this ability after the result of any attack roll, caster level check to overcome spell resistance, saving throw, or other pertinent check is revealed.
+**Prerequisites:** mythic power; **Benefit:** Once per round, the creature can ignore an attack (whether it required an attack roll, was a targeted spell, or was an area attack, and regardless of whether it would specifically cause hit point damage or not) that would reduce it to negative hit points or kill it. The creature takes no damage from the attack. The creature can choose to use this ability after the result of any attack roll, caster level check to overcome spell resistance, saving throw, or other pertinent check is revealed.
 
 **Enhancements**
 
@@ -705,11 +705,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend one use of mythic power to use this ability (2 AP).
 - The creature must expend two uses of mythic power to use this ability (3 AP).
 
-**Format:** iron resilience;**Location:** Defensive Abilities.
+**Format:** iron resilience; **Location:** Defensive Abilities.
 
 ### Lair Mastery (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can designate an area no greater than 100 feet on a side (typically a maze, underground dungeon, or other confusing structure) as its personal lair. As a move action, the creature can teleport (as the greater teleport spell) from one point in its lair to any other point in its lair. The creature can change its lair once per week and can share its lair with other creatures (including other creatures with this ability) without interfering with this ability.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can designate an area no greater than 100 feet on a side (typically a maze, underground dungeon, or other confusing structure) as its personal lair. As a move action, the creature can teleport (as the greater teleport spell) from one point in its lair to any other point in its lair. The creature can change its lair once per week and can share its lair with other creatures (including other creatures with this ability) without interfering with this ability.
 
 **Enhancements**
 
@@ -720,38 +720,38 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend a use of mythic power to teleport (2 AP).
 - The creature must expend two uses of mythic power to teleport (3 AP).
 
-**Format:** lair mastery;**Location:** SQ.
+**Format:** lair mastery; **Location:** SQ.
 
 ### Limitless Vision (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature takes no distance penalties on Perception checks.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature takes no distance penalties on Perception checks.
 
-**Format:** limitless vision;**Location:** Senses.
+**Format:** limitless vision; **Location:** Senses.
 
 ### Mark of Restraint (Su, 4 AP)
 
-**Prerequisites:** mythic power, natural attack;**Benefit:** If the mythic creature successfully hits an opponent with a designated natural attack it can spend one use of its mythic power as a free action to mark that opponent with a restraining effect. This effect functions like a mark of justice (caster level equal creature’s Hit Dice) that triggers if the opponent attacks the mythic creature; the opponent is instantly aware of this condition. If the opponent attacks the mythic creature, the mark’s curse is activated and imposes a permanent –4 penalty on the opponent’s attack rolls, saving throws, ability checks, and skill checks.
+**Prerequisites:** mythic power, natural attack; **Benefit:** If the mythic creature successfully hits an opponent with a designated natural attack it can spend one use of its mythic power as a free action to mark that opponent with a restraining effect. This effect functions like a mark of justice (caster level equal creature’s Hit Dice) that triggers if the opponent attacks the mythic creature; the opponent is instantly aware of this condition. If the opponent attacks the mythic creature, the mark’s curse is activated and imposes a permanent –4 penalty on the opponent’s attack rolls, saving throws, ability checks, and skill checks.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 - The creature is permitted a Will save (DC 10 + ½ the mythic creature’s HD + creature’s Charisma modifier) to negate this effect (2 AP).
 
-**Format:** mark of restraint;**Location:** Special Attacks.
+**Format:** mark of restraint; **Location:** Special Attacks.
 
 ### Mistsight (Ex, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster can see through fog, mist, and murky water as if they were perfectly clear, ignoring the miss chance for these obstructions, with a range of 60 feet.
+**Prerequisites:** mythic power; **Benefit:** The monster can see through fog, mist, and murky water as if they were perfectly clear, ignoring the miss chance for these obstructions, with a range of 60 feet.
 
 **Enhancements**
 
 - The creature can see through plant matter up to the limits of its normal vision for an additional +1 AP.
 
-**Format:** mistsight;**Location:** Senses.
+**Format:** mistsight; **Location:** Senses.
 
 ### Modify Memory (Su, 3 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power as a swift action to modify the memory of a creature within 60 feet (as the modify memory spell). The target can negate this effect with a successful Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Charisma modifier).
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power as a swift action to modify the memory of a creature within 60 feet (as the modify memory spell). The target can negate this effect with a successful Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Charisma modifier).
 
 **Flaws**
 
@@ -761,21 +761,21 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** modify memory;**Location:** Special Attacks.
+**Format:** modify memory; **Location:** Special Attacks.
 
 ### Mythic Brawler (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to attempt any single combat maneuver as a swift action with no attack of opportunity for the attempt.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to attempt any single combat maneuver as a swift action with no attack of opportunity for the attempt.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** mythic brawler;**Location:** Special Attacks.
+**Format:** mythic brawler; **Location:** Special Attacks.
 
 ### Mythic Immortality (Su, 10 AP)
 
-**Prerequisites:** mythic power;**Benefit:** If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that recharge with rest until it next rests. This ability doesn’t apply if it is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is mythic rank 10, it can be killed only by a coup de grace or critical hit made with an artifact.
+**Prerequisites:** mythic power; **Benefit:** If the creature is killed, it returns to life 24 hours later, regardless of the condition of its body or the means by which it was killed. When it returns to life, it isn’t treated as if it had rested, and doesn’t regain the use of abilities that recharge with rest until it next rests. This ability doesn’t apply if it is killed by a coup de grace or critical hit performed by either a mythic creature (or creature of even greater power) or a non-mythic creature wielding a weapon capable of bypassing epic damage reduction. If the creature is mythic rank 10, it can be killed only by a coup de grace or critical hit made with an artifact.
 
 **Enhancements**
 
@@ -788,27 +788,27 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature can be also permanently killed by a rare but not unique condition, creature, or item type (2 AP).
 - The creature can be also permanently killed by a common condition, creature, or item type (3 AP).
 
-**Format:** mythic immortality;**Location:** SQ.
+**Format:** mythic immortality; **Location:** SQ.
 
 ### Mythic Magic (Su, 2 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** Once per day, when the creature casts a spell, it can cast the mythic version instead (as with all mythic spells, the creature must expend mythic power to cast a mythic spell in this way). This ability cannot be used to cast the mythic version of spell-like abilities (see the mythic spell-like ability enhancement for details).
+**Prerequisites:** mythic power, spellcasting; **Benefit:** Once per day, when the creature casts a spell, it can cast the mythic version instead (as with all mythic spells, the creature must expend mythic power to cast a mythic spell in this way). This ability cannot be used to cast the mythic version of spell-like abilities (see the mythic spell-like ability enhancement for details).
 
 **Enhancements**
 
 - The creature can use the mythic magic ability (with an expenditure of mythic power) an additional time per day per +1 AP spent. The creature cannot spend more APs on this ability than its mythic rank.
 
-**Format:** mythic magic 3/day;**Location:** Special Attacks.
+**Format:** mythic magic 3/day; **Location:** Special Attacks.
 
 ### Mythic Path (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature selects a mythic path (archmage, champion, guardian, hierophant, marshal, or trickster; see Pathfinder Roleplaying Game: Mythic Adventures for details). The creature gains one of the base abilities associated with the mythic path (archmage arcana, champion’s strike, guardian’s call, divine surge, marshal’s order, or trickster’s attack), using its mythic rank as its mythic tier. The creature can select this ability up to three times, gaining all of the associated mythic path base abilities. The creature cannot gain mythic path abilities from more than one mythic path.
+**Prerequisites:** mythic power; **Benefit:** The creature selects a mythic path (archmage, champion, guardian, hierophant, marshal, or trickster; see Pathfinder Roleplaying Game: Mythic Adventures for details). The creature gains one of the base abilities associated with the mythic path (archmage arcana, champion’s strike, guardian’s call, divine surge, marshal’s order, or trickster’s attack), using its mythic rank as its mythic tier. The creature can select this ability up to three times, gaining all of the associated mythic path base abilities. The creature cannot gain mythic path abilities from more than one mythic path.
 
-**Format:** marshal’s order (advance);**Location:** SQ.
+**Format:** marshal’s order (advance); **Location:** SQ.
 
 ### Mythic Path Ability (Ex, 2 AP)
 
-**Prerequisites:** mythic path, mythic power;**Benefit:** The creature gains any 1st-tier mythic path ability associated with the path selected with the mythic path ability (see Pathfinder Roleplaying Game: Mythic Adventures for details). This ability (and the universal path ability) can be selected up to once per mythic tier, each time gaining a new mythic path ability. The cost does not stack to determine the maximum AP points a creature may spend per CR.
+**Prerequisites:** mythic path, mythic power; **Benefit:** The creature gains any 1st-tier mythic path ability associated with the path selected with the mythic path ability (see Pathfinder Roleplaying Game: Mythic Adventures for details). This ability (and the universal path ability) can be selected up to once per mythic tier, each time gaining a new mythic path ability. The cost does not stack to determine the maximum AP points a creature may spend per CR.
 
 **Enhancements**
 
@@ -816,17 +816,17 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - If the creature has a mythic rank of 3 or higher, it can select a 3rd-tier mythic path ability for an additional +2 AP.
 - If the creature has a mythic rank of 6 or higher, it can select a 6th-tier mythic path ability for an additional +4 AP.
 
-**Format:** eldritch breach;**Location:** SQ.
+**Format:** eldritch breach; **Location:** SQ.
 
 ### Mythic Path Mastery (Ex, 8 AP)
 
-**Prerequisites:** mythic path, mythic rank 10, mythic power;**Benefit:** The creature gains the 10th tier ability associated with the path selected with the mythic path ability (true archmage, legendary champion, true defender, divine vessel, visionary commander, or supreme trickster; see Pathfinder Roleplaying Game: Mythic Adventures for details).
+**Prerequisites:** mythic path, mythic rank 10, mythic power; **Benefit:** The creature gains the 10th tier ability associated with the path selected with the mythic path ability (true archmage, legendary champion, true defender, divine vessel, visionary commander, or supreme trickster; see Pathfinder Roleplaying Game: Mythic Adventures for details).
 
-**Format:** true archmage;**Location:** SQ.
+**Format:** true archmage; **Location:** SQ.
 
 ### Oubliette (Su, 4 AP)
 
-**Prerequisites:** mythic power, powerful charge;**Benefit:** Whenever the creature hits an opponent with a natural attack as part of a powerful charge, the target must succeed on a Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Wisdom modifier) or be sent into an extradimensional prison, as the maze spell, except the effect only lasts for 1d4+1 rounds.
+**Prerequisites:** mythic power, powerful charge; **Benefit:** Whenever the creature hits an opponent with a natural attack as part of a powerful charge, the target must succeed on a Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Wisdom modifier) or be sent into an extradimensional prison, as the maze spell, except the effect only lasts for 1d4+1 rounds.
 
 **Enhancements**
 
@@ -837,11 +837,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend a use of mythic power to send the opponent into the maze (2 AP).
 - The creature must expend two uses of mythic power to send the opponent into the maze (3 AP).
 
-**Format:** oubliette; Location:**Special Attacks.**
+**Format:** oubliette; Location: **Special Attacks.**
 
 ### Opportunistic Movement (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can rapidly move to take advantage of an opponent’s weakened defenses. When an opponent within a distance equal to or less than the distance the mythic creature can cover with a single move action takes an action that provokes an attack of opportunity, as an immediate action the creature can expend one use of mythic power to move up to its speed. The mythic creature must end its movement next to the creature that provoked the attack of opportunity and can then make an attack of opportunity against that creature.
+**Prerequisites:** mythic power; **Benefit:** The creature can rapidly move to take advantage of an opponent’s weakened defenses. When an opponent within a distance equal to or less than the distance the mythic creature can cover with a single move action takes an action that provokes an attack of opportunity, as an immediate action the creature can expend one use of mythic power to move up to its speed. The mythic creature must end its movement next to the creature that provoked the attack of opportunity and can then make an attack of opportunity against that creature.
 
 **Enhancements**
 
@@ -851,11 +851,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** opportunistic movement;**Location:** Special Attacks.
+**Format:** opportunistic movement; **Location:** Special Attacks.
 
 ### Pain Blast (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Once per round as a standard action, the creature can stimulate extreme pain in one opponent within its reach. The creature takes a –4 penalty on attack rolls, skill checks, and ability checks until the start of the mythic creature’s next turn or until it moves at least 60 feet away from the mythic creature.
+**Prerequisites:** mythic power; **Benefit:** Once per round as a standard action, the creature can stimulate extreme pain in one opponent within its reach. The creature takes a –4 penalty on attack rolls, skill checks, and ability checks until the start of the mythic creature’s next turn or until it moves at least 60 feet away from the mythic creature.
 
 **Enhancements**
 
@@ -870,32 +870,32 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend a use of mythic power to activate this ability (2 AP).
 - The creature must expend two uses of mythic power to activate this ability (3 AP).
 
-**Format:** pain blast;**Location:** Special Attacks
+**Format:** pain blast; **Location:** Special Attacks
 
 ### Petrify (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** If the mythic creature hits a target with a selected natural attack type, it can expend two uses of mythic power to permanently turn that target to stone (as the flesh to stone spell). The creature negates this effect with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + mythic creature’s Constitution modifier).
+**Prerequisites:** mythic power; **Benefit:** If the mythic creature hits a target with a selected natural attack type, it can expend two uses of mythic power to permanently turn that target to stone (as the flesh to stone spell). The creature negates this effect with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + mythic creature’s Constitution modifier).
 
 **Enhancements**
 
 - If the target succeeds on the saving throw, it is slowed (as the slow spell) for 1d6 rounds for an additional +2 AP.
 - The ability only requires expending one use of mythic power for +2 AP.
 
-**Format:** petrify;**Location:** Special Attacks.
+**Format:** petrify; **Location:** Special Attacks.
 
 ### Plantbringer (Su, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** All plants within a 1-mile radius of the creature grow at double their normal rate and don’t suffer from any diseases or maladies.
+**Prerequisites:** mythic power; **Benefit:** All plants within a 1-mile radius of the creature grow at double their normal rate and don’t suffer from any diseases or maladies.
 
 **Enhancements**
 
 - Allied plant creatures within 30 feet of the creature gain fast healing equal to the creature’s mythic rank for an additional +3 AP. If the creature uses the plant shape spells or wild shape to take the form of a plant, it gains this fast healing in plant form. However, a plant creature does not gain this fast healing and should instead take the fast healing ability separately. The range of the creature’s ability to grant fast healing increases by +10 feet per +1 AP spent.
 
-**Format:** plantbringer;**Location:** SQ.
+**Format:** plantbringer; **Location:** SQ.
 
 ### Possess Statue (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to possess and animate a Medium-sized or smaller stone statue within 100 feet. The possessed statue functions as a non-mythic animated object of its size and lasts so long as the statue is in range and the mythic creature concentrates. When using this ability, the mythic creature’s actual body is immobile and helpless. It can stop using this ability as a move action. If the statue is destroyed, the mythic creature’s life force returns to its own body.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to possess and animate a Medium-sized or smaller stone statue within 100 feet. The possessed statue functions as a non-mythic animated object of its size and lasts so long as the statue is in range and the mythic creature concentrates. When using this ability, the mythic creature’s actual body is immobile and helpless. It can stop using this ability as a move action. If the statue is destroyed, the mythic creature’s life force returns to its own body.
 
 **Enhancements**
 
@@ -907,11 +907,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** possess statue;**Location:** SQ
+**Format:** possess statue; **Location:** SQ
 
 ### Pressure Wave (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to create a 60-foot-radius burst of pressurized water. Creatures in the area must attempt a Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier). Success means the creature is sickened for 1 round; failure means the creature is nauseated for 1 round and sickened for 1 round after that. Creatures with the aquatic or water subtypes are immune to this ability.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to create a 60-foot-radius burst of pressurized water. Creatures in the area must attempt a Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier). Success means the creature is sickened for 1 round; failure means the creature is nauseated for 1 round and sickened for 1 round after that. Creatures with the aquatic or water subtypes are immune to this ability.
 
 **Enhancements**
 
@@ -922,21 +922,21 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** pressure wave;**Location:** Special Attacks.
+**Format:** pressure wave; **Location:** Special Attacks.
 
 ### Recuperation (Ex, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature is restored to full hit points after 8 hours of rest so long as it isn’t dead.
+**Prerequisites:** mythic power; **Benefit:** The creature is restored to full hit points after 8 hours of rest so long as it isn’t dead.
 
 **Enhancements**
 
 - By expending one use of mythic power and resting for 1 hour, the creature regains a number of hit points equal to half its full hit points (up to a maximum of its full hit points) and regain the use of any class features that are limited to a certain number of uses per day (such as barbarian rage, bardic performance, spells per day, and so on) for an additional +3 AP. This rest is treated as 8 hours of sleep for such abilities. This rest doesn’t refresh uses of mythic power or any mythic abilities that are limited to a number of times per day.
 
-**Format:** recuperation;**Location:** SQ.
+**Format:** recuperation; **Location:** SQ.
 
 ### Reveler’s Rapture (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature emits a bacchanalian aura of euphoria to a range of 30 feet. Creatures that enter the aura’s area engage their wild side, with an effect equivalent to irresistible dance. A successful Will save (DC 10 + ½ the mythic creature’s HD + creature’s Charisma modifier) renders the subject immune to effect and that mythic creature’s aura for 24 hours. The creature can exclude any targets it wishes from her aura’s effects.
+**Prerequisites:** mythic power; **Benefit:** The creature emits a bacchanalian aura of euphoria to a range of 30 feet. Creatures that enter the aura’s area engage their wild side, with an effect equivalent to irresistible dance. A successful Will save (DC 10 + ½ the mythic creature’s HD + creature’s Charisma modifier) renders the subject immune to effect and that mythic creature’s aura for 24 hours. The creature can exclude any targets it wishes from her aura’s effects.
 
 **Enhancements**
 
@@ -946,11 +946,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - A creature under the effect of reveler’s rapture can attempt a new save at the end of each turn after the first to end the effect and become immune to the aura (2 AP).
 
-**Format:** reveler’s rapture (DC 20, 30 ft.);**Location:** Aura.
+**Format:** reveler’s rapture (DC 20, 30 ft.); **Location:** Aura.
 
 ### Riddle (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power to ask a riddle of a creature within 100 feet. If the creature fails a Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Charisma modifier) it is compelled to give an answer within 1 minute (a creature in combat when the mythic creature uses this ability gain a +4 bonus on the saving throw). The mythic creature gets a +4 bonus on attack rolls, damage rolls, and saving throws against any creature that refuses to answer (via a successful saving throw), can’t answer (including if it’s in an area affected by a silence spell), answers incorrectly, or flees the mythic creature instead of answering. The bonuses from failing to solve the riddle last for 24 hours. The need to answer is a compulsion, mind-affecting, language-dependent enchantment effect.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power to ask a riddle of a creature within 100 feet. If the creature fails a Will save (DC 10 + 1/2 the mythic creature’s HD + creature’s Charisma modifier) it is compelled to give an answer within 1 minute (a creature in combat when the mythic creature uses this ability gain a +4 bonus on the saving throw). The mythic creature gets a +4 bonus on attack rolls, damage rolls, and saving throws against any creature that refuses to answer (via a successful saving throw), can’t answer (including if it’s in an area affected by a silence spell), answers incorrectly, or flees the mythic creature instead of answering. The bonuses from failing to solve the riddle last for 24 hours. The need to answer is a compulsion, mind-affecting, language-dependent enchantment effect.
 
 **Enhancements**
 
@@ -960,11 +960,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** riddle;**Location:** Special Attack.
+**Format:** riddle; **Location:** Special Attack.
 
 ### Rising Fury (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Each time the creature takes damage, it gains a +1 morale bonus on damage rolls until the end of its next turn. This bonus increases by +1 each time the creature takes damage, up to a maximum of +5. At the end of the mythic creature’s turn, this damage bonus resets to +0.
+**Prerequisites:** mythic power; **Benefit:** Each time the creature takes damage, it gains a +1 morale bonus on damage rolls until the end of its next turn. This bonus increases by +1 each time the creature takes damage, up to a maximum of +5. At the end of the mythic creature’s turn, this damage bonus resets to +0.
 
 **Enhancements**
 
@@ -975,21 +975,21 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature takes a –1 cumulative penalty to Armor Class each time it gains a bonus to damage. This penalty persists for as long as the damage bonus remains (2 AP).
 
-**Format:** rising fury;**Location:** Special Attacks.
+**Format:** rising fury; **Location:** Special Attacks.
 
 ### Second Save (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Whenever the creature fails a saving throw against an effect with a duration greater than 1 round, it can keep trying to shake off the effect. At the start of its turn, if it’s still affected, it can attempt the save one more time as a free action. If this save succeeds, the effect affects the creature as if it had succeeded at its initial saving throw. If the effect already allows another saving throw on a later turn to break the effect (such as for hold monster), this ability is in addition to the extra saving throw from the effect.
+**Prerequisites:** mythic power; **Benefit:** Whenever the creature fails a saving throw against an effect with a duration greater than 1 round, it can keep trying to shake off the effect. At the start of its turn, if it’s still affected, it can attempt the save one more time as a free action. If this save succeeds, the effect affects the creature as if it had succeeded at its initial saving throw. If the effect already allows another saving throw on a later turn to break the effect (such as for hold monster), this ability is in addition to the extra saving throw from the effect.
 
 **Enhancements**
 
 - By expending one use of mythic power as a free action the creature can attempt an additional save against an effect with a duration greater than 1 round to shake off the effect for an additional +2 AP. This is only necessary after the creature has failed the previous saves granted by the second save ability, but the creature can make additional saves once per round thereafter by expending mythic power.
 
-**Format:** second save;**Location:** after saving throws.
+**Format:** second save; **Location:** after saving throws.
 
 ### Secret Knowledge (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** By expending one use of mythic power as a free action, the creature learns one weakness, vulnerability, or special defense of an opponent within reach.
+**Prerequisites:** mythic power; **Benefit:** By expending one use of mythic power as a free action, the creature learns one weakness, vulnerability, or special defense of an opponent within reach.
 
 **Enhancements**
 
@@ -1000,11 +1000,11 @@ The creature spawned by means of this impregnation is any creature of the mythic
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** secret knowledge;**Location:** Senses.
+**Format:** secret knowledge; **Location:** Senses.
 
 ### Secret Lair (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can spend 1 hour concentrating to create a labyrinthine extradimensional lair. This functions like greater create demiplane (see Pathfinder RPG Ultimate Magic for details) and creates a demiplane with the morphic, portal, shape, and structure properties. The demiplane is approximately a 500-foot-diameter sphere. The demiplane’s portal is connected to the location where the mythic creature created it. The mythic creature can have only one demiplane active at a time, and the demiplane dissolves 10d10 minutes after the mythic creature leaves.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can spend 1 hour concentrating to create a labyrinthine extradimensional lair. This functions like greater create demiplane (see Pathfinder RPG Ultimate Magic for details) and creates a demiplane with the morphic, portal, shape, and structure properties. The demiplane is approximately a 500-foot-diameter sphere. The demiplane’s portal is connected to the location where the mythic creature created it. The mythic creature can have only one demiplane active at a time, and the demiplane dissolves 10d10 minutes after the mythic creature leaves.
 
 **Enhancements**
 
@@ -1016,21 +1016,21 @@ The creature spawned by means of this impregnation is any creature of the mythic
 - The creature must expend one use of mythic power to activate this ability (1 AP).
 - The creature must expend two uses of mythic power to activate this ability (2 AP).
 
-**Format:** secret lair;**Location:** SQ.
+**Format:** secret lair; **Location:** SQ.
 
 ### Smother (Ex, 2 AP)
 
-**Prerequisites:** grapple, mythic power;**Benefit:** If the creature’s grappled opponent is holding its breath, the monster can force that opponent to expel or consume some of its breath, or can otherwise reduce the time remaining until the target must attempt checks to avoid suffocation.
+**Prerequisites:** grapple, mythic power; **Benefit:** If the creature’s grappled opponent is holding its breath, the monster can force that opponent to expel or consume some of its breath, or can otherwise reduce the time remaining until the target must attempt checks to avoid suffocation.
 
 If the monster succeeds at a grapple check against the opponent, the remaining duration for which the opponent can hold its breath decreases by 1d6 rounds. If this reduces the remaining time that the creature can hold its breath to 0 rounds or fewer, the DCs of its suffocation checks increase by 5. For example, if the monster is grappling a creature that has 10 rounds remaining before it must attempt suffocation checks, a successful grapple check reduces that duration by 1d6 rounds.
 
 If the monster has another ability (such as constrict) that harms the opponent when it succeeds at a grapple check, it can automatically use the smother ability when it succeeds at the grapple check to use the other ability.
 
-**Format:** smother;**Location:** Special Attacks.
+**Format:** smother; **Location:** Special Attacks.
 
 ### Spell Blessing (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can enhance the magic of a willing humanoid spellcaster by touching him for 1 full round. The blessing allows the target to recall a number of spell levels each day equal to twice the mythic creature’s mythic rank. This recalling works like a pearl of power, except it works for spellcasters of any class (spontaneous casters recover spent spell slots). The mythic creature can only grant this blessing to a single creature at any one time, but can end this blessing as a standard action at any range.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can enhance the magic of a willing humanoid spellcaster by touching him for 1 full round. The blessing allows the target to recall a number of spell levels each day equal to twice the mythic creature’s mythic rank. This recalling works like a pearl of power, except it works for spellcasters of any class (spontaneous casters recover spent spell slots). The mythic creature can only grant this blessing to a single creature at any one time, but can end this blessing as a standard action at any range.
 
 **Enhancements**
 
@@ -1041,17 +1041,17 @@ If the monster has another ability (such as constrict) that harms the opponent w
 
 - The creature must expend one use of mythic power to activate this ability (1 AP). This use of mythic power cannot be recovered until the spell blessing is ended.
 
-**Format:** spell blessing;**Location:** SQ.
+**Format:** spell blessing; **Location:** SQ.
 
 ### Spell Perception (Su, 2 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** The creature automatically notices spellcasting within 60 feet. The mythic creature automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.
+**Prerequisites:** mythic power, spellcasting; **Benefit:** The creature automatically notices spellcasting within 60 feet. The mythic creature automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.
 
-**Format:** spell perception;**Location:** Senses.
+**Format:** spell perception; **Location:** Senses.
 
 ### Steal Soul (Su, 6 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a ranged attack, the mythic creature can pelt an opponent with a ritually prepared, soul-stealing object, such as a gem, skull, or carved wooden likeness. If the object strikes its target, she must succeed at a Will saving throw (DC 10 + 1/2 the mythic creature’s HD + creature’s Wisdom modifier) to prevent it from ripping her soul from her body. If the victim fails the saving throw, the object temporarily devours her soul, leaving her vulnerable to the commands of whoever holds the object. Thereafter, the object’s possessor can use it to command the victim, as the dominate person spell. The soul remains stolen until the possessor chooses to release the victim or the object is destroyed. While the mythic creature can carry multiple objects, it can only manipulate single soul at one time. The soul remains trapped within the object for one day per mythic rank.
+**Prerequisites:** mythic power; **Benefit:** As a ranged attack, the mythic creature can pelt an opponent with a ritually prepared, soul-stealing object, such as a gem, skull, or carved wooden likeness. If the object strikes its target, she must succeed at a Will saving throw (DC 10 + 1/2 the mythic creature’s HD + creature’s Wisdom modifier) to prevent it from ripping her soul from her body. If the victim fails the saving throw, the object temporarily devours her soul, leaving her vulnerable to the commands of whoever holds the object. Thereafter, the object’s possessor can use it to command the victim, as the dominate person spell. The soul remains stolen until the possessor chooses to release the victim or the object is destroyed. While the mythic creature can carry multiple objects, it can only manipulate single soul at one time. The soul remains trapped within the object for one day per mythic rank.
 
 **Enhancements**
 
@@ -1063,22 +1063,22 @@ If the monster has another ability (such as constrict) that harms the opponent w
 - The creature must expend one use of mythic power to both trap a soul and command the victim (2 AP).
 - The creature must expend two uses of mythic power to both trap a soul and command the victim (3 AP).
 
-**Format:** steal soul;**Location:** Special Attacks.
+**Format:** steal soul; **Location:** Special Attacks.
 
 ### Stone Armor (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** Any weapon that strikes the creature takes 1d6 points of damage that bypasses the weapon’s hardness.
+**Prerequisites:** mythic power; **Benefit:** Any weapon that strikes the creature takes 1d6 points of damage that bypasses the weapon’s hardness.
 
 **Enhancements**
 
 - The damage is increase to 1d8 for an additional +1 AP, 2d4 for +2 AP, 2d6 for +3 AP, 2d8 for +4 AP, or 2d10 for +5 AP.
 - Any creature attacking with natural weapons or unarmed strikes takes damage as a weapon for an additional +2 AP.
 
-**Format:** stone armor (1d6);**Location:** Defensive Abilities.
+**Format:** stone armor (1d6); **Location:** Defensive Abilities.
 
 ### Terrain Control (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can expend one use of mythic power to create difficult terrain in a 100-foot-radius burst; the type of difficult terrain is appropriate to the area (mud in plains, rubble in mountains, and so on). The effects of this ability persist so long as the mythic creature remains within 10 miles of the affected area.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can expend one use of mythic power to create difficult terrain in a 100-foot-radius burst; the type of difficult terrain is appropriate to the area (mud in plains, rubble in mountains, and so on). The effects of this ability persist so long as the mythic creature remains within 10 miles of the affected area.
 
 **Enhancements**
 
@@ -1090,82 +1090,82 @@ If the monster has another ability (such as constrict) that harms the opponent w
 
 - The creature must expend two uses of mythic power to activate the ability (1 AP).
 
-**Format:** terrain control (100 ft.);**Location:** SQ.
+**Format:** terrain control (100 ft.); **Location:** SQ.
 
 ### Touch of Chaos/Evil/Good/Law (Su, 2 AP)
 
-**Prerequisites:** alignment, mythic power;**Benefit:** This functions as the 1st-level Chaos, Evil, Good, or Law cleric domain abilities, except the creature can expend one use of mythic power as a free action to use this ability when it hits with an attack. The ability lasts for a number of rounds equal to the creature’s mythic tier. The creature must possess an alignment equal to the domain ability selected.
+**Prerequisites:** alignment, mythic power; **Benefit:** This functions as the 1st-level Chaos, Evil, Good, or Law cleric domain abilities, except the creature can expend one use of mythic power as a free action to use this ability when it hits with an attack. The ability lasts for a number of rounds equal to the creature’s mythic tier. The creature must possess an alignment equal to the domain ability selected.
 
-**Format:** touch of chaos;**Location:** Special Attacks.
+**Format:** touch of chaos; **Location:** Special Attacks.
 
 ### Trap Weapon (Ex, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature’s body traps manufactured weapons that damage it. A manufactured weapon that deals hit point damage to the creature (after subtracting any DR) is stuck fast unless the wielder succeeds at a Reflex save (DC 10 + 1/2 the mythic creature’s HD + creature’s Strength modifier). A creature can spend a standard action to attempt a Strength check at the same DC to remove a stuck weapon. Weapons that deal only bludgeoning damage are immune to this ability. The mythic creature can release any number of stuck weapons as a free action.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature’s body traps manufactured weapons that damage it. A manufactured weapon that deals hit point damage to the creature (after subtracting any DR) is stuck fast unless the wielder succeeds at a Reflex save (DC 10 + 1/2 the mythic creature’s HD + creature’s Strength modifier). A creature can spend a standard action to attempt a Strength check at the same DC to remove a stuck weapon. Weapons that deal only bludgeoning damage are immune to this ability. The mythic creature can release any number of stuck weapons as a free action.
 
 **Flaws**
 
 - The creature must expend a use of mythic power as an immediate action to trap a weapon (2 AP).
 - The creature must expend two uses of mythic power as an immediate action to trap a weapon (3 AP).
 
-**Format:** trap weapon;**Location:** Defensive Abilities.
+**Format:** trap weapon; **Location:** Defensive Abilities.
 
 ### Uncanny Flight (Su, 1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power as an immediate action to gain a fly speed equal to its base speed (perfect maneuverability). When it activates this ability, the creature chooses whether to manifest wings or to float unnaturally.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power as an immediate action to gain a fly speed equal to its base speed (perfect maneuverability). When it activates this ability, the creature chooses whether to manifest wings or to float unnaturally.
 
 **Enhancements**
 
 - If the creature manifests wings, it gains a bonus on Intimidation equal to its mythic rank for an additional +1 AP.
 - If the creature floats unnaturally, it gains a bonus on Stealth equal to its mythic rank for an additional +1 AP.
 
-**Format:** fly 60 ft. (perfect);**Location:** Speed.
+**Format:** fly 60 ft. (perfect); **Location:** Speed.
 
 ### Universal Path Ability (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature gains any 1st-tier universal path ability (see Pathfinder Roleplaying Game: Mythic Adventures for details). This ability (and the mythic path ability) can be selected up to once per mythic tier, each time gaining a new mythic path ability. The cost does not stack to determine the maximum AP points a creature may spend per CR.
+**Prerequisites:** mythic power; **Benefit:** The creature gains any 1st-tier universal path ability (see Pathfinder Roleplaying Game: Mythic Adventures for details). This ability (and the mythic path ability) can be selected up to once per mythic tier, each time gaining a new mythic path ability. The cost does not stack to determine the maximum AP points a creature may spend per CR.
 
 **Enhancements**
 
 - If the creature has a mythic rank of 3 or higher, it can select a 3rd-tier universal path ability for an additional +2 AP.
 - If the creature has a mythic rank of 6 or higher, it can select a 6th-tier universal path ability for an additional +4 AP.
 
-**Format:** display of strength;**Location:** SQ.
+**Format:** display of strength; **Location:** SQ.
 
 ### Unstoppable (Ex, 3 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The creature can expend one use of mythic power as a free action to immediately end any one of the following conditions currently affecting it: bleed, blind, confused, cowering, dazed, dazzled, deafened, entangled, exhausted, fascinated, fatigued, frightened, nauseated, panicked, paralyzed, shaken, sickened, staggered, or stunned. All other conditions and effects remain, even those resulting from the same spell or effect that caused the selected condition. It can use this ability at the start of its turn even if a condition would prevent it from acting.
+**Prerequisites:** mythic power; **Benefit:** The creature can expend one use of mythic power as a free action to immediately end any one of the following conditions currently affecting it: bleed, blind, confused, cowering, dazed, dazzled, deafened, entangled, exhausted, fascinated, fatigued, frightened, nauseated, panicked, paralyzed, shaken, sickened, staggered, or stunned. All other conditions and effects remain, even those resulting from the same spell or effect that caused the selected condition. It can use this ability at the start of its turn even if a condition would prevent it from acting.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** unstoppable;**Location** Defensive Abilities.
+**Format:** unstoppable; **Location** Defensive Abilities.
 
 ### Uplift (Su, 4 AP)
 
-**Prerequisites:** mythic power;**Benefit:** As a full-round action, the mythic creature can impart incredible capacity for thought and understanding to a creature it touches. The creature must have an Intelligence score of 3 or less to be affected by this ability. This affect is identical to awaken, except that it works on creatures of the animal, plant, humanoid, magical beast, and monstrous humanoid types. Creatures affected by uplift don’t change creature type (with the exception of animals, which become magical beasts), nor does the affected creature have any inherent affinity toward the mythic creature. The effect of uplift is permanent and is passed on to any progeny the uplifted creature produces.
+**Prerequisites:** mythic power; **Benefit:** As a full-round action, the mythic creature can impart incredible capacity for thought and understanding to a creature it touches. The creature must have an Intelligence score of 3 or less to be affected by this ability. This affect is identical to awaken, except that it works on creatures of the animal, plant, humanoid, magical beast, and monstrous humanoid types. Creatures affected by uplift don’t change creature type (with the exception of animals, which become magical beasts), nor does the affected creature have any inherent affinity toward the mythic creature. The effect of uplift is permanent and is passed on to any progeny the uplifted creature produces.
 
 **Flaws**
 
 - The creature must expend two uses of mythic power to activate this ability (1 AP).
 
-**Format:** uplift;**Location:** SQ.
+**Format:** uplift; **Location:** SQ.
 
 ### Vengeful Seeker (Ex, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The mythic creature can relentless pursue creatures that wrong it. It gains the swift tracker and quarry abilities of a ranger when tracking or hunting any creature that has confirmed a critical hit against it, penetrated its spell resistance (if any), or taken anything belonging to it. Any divination spell or spell-like ability the mythic creature uses to locate the target counts as the mythic version of the spell, if appropriate.
+**Prerequisites:** mythic power; **Benefit:** The mythic creature can relentless pursue creatures that wrong it. It gains the swift tracker and quarry abilities of a ranger when tracking or hunting any creature that has confirmed a critical hit against it, penetrated its spell resistance (if any), or taken anything belonging to it. Any divination spell or spell-like ability the mythic creature uses to locate the target counts as the mythic version of the spell, if appropriate.
 
-**Format:** vengeful seeker;**Location:** SQ.
+**Format:** vengeful seeker; **Location:** SQ.
 
 ### X-Ray Vision (Su, 2 AP)
 
-**Prerequisites:** mythic power;**Benefit:** The monster can see through solid matter as if wearing a ring of x-ray vision. This is as exhausting as if the monster were actually using the ring.
+**Prerequisites:** mythic power; **Benefit:** The monster can see through solid matter as if wearing a ring of x-ray vision. This is as exhausting as if the monster were actually using the ring.
 
 **Enhancements**
 
 - Using x-ray vision does not cause Constitution damage for an additional +2 AP.
 
-**Format:** x-ray vision;**Location:** Senses.
+**Format:** x-ray vision; **Location:** Senses.
 
 # Mythic Enhancements
 
@@ -1270,159 +1270,159 @@ Mythic creatures are limited by the mythic power resource. This can serve as a b
 
 ### Absorb Magic (Su, +2 AP)
 
-**Prerequisites:** mythic power, spell resistance;**Benefit:** See spell resistance for details on the base ability. Select a spell subschool. Whenever the creature is affected by a spell or effect of that subschool that fails to penetrate its spell resistance, the entire spell or effect is negated. For an additional +2 AP, the mythic creature also gains 5 temporary hit points per spell level of the spell absorbed that lasts for 1 hour. For an additional +2 AP, the mythic creature can choose an entire school of magic, or for an additional +6 AP any spell that fails to penetrate its spell resistance is affected.
+**Prerequisites:** mythic power, spell resistance; **Benefit:** See spell resistance for details on the base ability. Select a spell subschool. Whenever the creature is affected by a spell or effect of that subschool that fails to penetrate its spell resistance, the entire spell or effect is negated. For an additional +2 AP, the mythic creature also gains 5 temporary hit points per spell level of the spell absorbed that lasts for 1 hour. For an additional +2 AP, the mythic creature can choose an entire school of magic, or for an additional +6 AP any spell that fails to penetrate its spell resistance is affected.
 
 ### Accursed Brand (Su, +4 AP)
 
-**Prerequisites:** evil alignment, breath weapon, mythic power;**Benefit:** See breath weapon for details on the base ability. Whenever a victim fails its save against the mythic creature’s breath weapon, unholy energy burns an accursed brand into his flesh. For the next 24 hours, the branded victim is subjected to auditory hallucinations of foul desires and sinful deeds. The hallucinations cause lawful and good victims to become tainted; good-aligned clerics, druids, paladins, and even lawful monks are treated as though they’ve temporarily broken their codes of conduct.
+**Prerequisites:** evil alignment, breath weapon, mythic power; **Benefit:** See breath weapon for details on the base ability. Whenever a victim fails its save against the mythic creature’s breath weapon, unholy energy burns an accursed brand into his flesh. For the next 24 hours, the branded victim is subjected to auditory hallucinations of foul desires and sinful deeds. The hallucinations cause lawful and good victims to become tainted; good-aligned clerics, druids, paladins, and even lawful monks are treated as though they’ve temporarily broken their codes of conduct.
 
 Any character marked by the accursed brand who has a class that’s restricted to a good alignment or lawful alignment is treated as an ex-member of that class for 24 hours; an atonement spell can end this effect.
 
 ### Agonizing Venom (Ex, +4 AP)
 
-**Prerequisites:** mythic power, poison;**Benefit:** See poison for details on the base ability. Any creature failing its saving throw against mythic creature’s poison is sickened for 1 minute due to pain. Failing further saving throws against the poison causes the pain to worsen. A second, third, and fourth failed saving throw mean the creature is also staggered for 1 minute, nauseated for 1 minute, and helpless for 1 minute, respectively. This effect immediately ends if the poison is cured. This is a pain effect.
+**Prerequisites:** mythic power, poison; **Benefit:** See poison for details on the base ability. Any creature failing its saving throw against mythic creature’s poison is sickened for 1 minute due to pain. Failing further saving throws against the poison causes the pain to worsen. A second, third, and fourth failed saving throw mean the creature is also staggered for 1 minute, nauseated for 1 minute, and helpless for 1 minute, respectively. This effect immediately ends if the poison is cured. This is a pain effect.
 
 ### Animate Trees (Ex, +2 AP)
 
-**Prerequisites:** animate plant, mythic power;**Benefit:** See animate plant for details on the base ability. If the mythic creature expends one use of mythic power when it animates a plant or tree, it remains animated and under the mythic creature’s control up to a range of 1 mile, and it doesn’t count toward the mythic creature’s limit of controlling up to two trees at a time.
+**Prerequisites:** animate plant, mythic power; **Benefit:** See animate plant for details on the base ability. If the mythic creature expends one use of mythic power when it animates a plant or tree, it remains animated and under the mythic creature’s control up to a range of 1 mile, and it doesn’t count toward the mythic creature’s limit of controlling up to two trees at a time.
 
 ### Antimagic Aura (Su, +6 AP)
 
-**Prerequisites:** immunity to magic, mythic power;**Benefit:** See immunity to magic for details on the base ability. The area within 20 feet of the mythic creature is affected by the equivalent of an antimagic field spell. The creature can select a single spell school or subschool that functions normally within the area. For an additional +2 AP, the area of effect increases to 30 feet.
+**Prerequisites:** immunity to magic, mythic power; **Benefit:** See immunity to magic for details on the base ability. The area within 20 feet of the mythic creature is affected by the equivalent of an antimagic field spell. The creature can select a single spell school or subschool that functions normally within the area. For an additional +2 AP, the area of effect increases to 30 feet.
 
 ### Bane (Ex, +4 AP)
 
-**Prerequisites:** mythic power, regeneration;**Benefit:** The mythic creature’s regeneration is only suppressed in specific circumstances, and otherwise always function. For example, a mythic creature with a connection to the earth might only have its regeneration suppressed when it is no longer in contact with the ground.
+**Prerequisites:** mythic power, regeneration; **Benefit:** The mythic creature’s regeneration is only suppressed in specific circumstances, and otherwise always function. For example, a mythic creature with a connection to the earth might only have its regeneration suppressed when it is no longer in contact with the ground.
 
 ### Blood Omen (Su, +4 AP)
 
-**Prerequisites:** blood drain, mythic power;**Benefit:** See blood drain for details on the base ability. The creature can expend two uses of mythic power as a standard action to drain blood from all creatures within 30 feet. Each creature must succeed at a Fortitude saving throw (DC 10 +1/2 the mythic creature’s HD + creature’s Charisma modifier) or be affected by the blood drain ability. The mythic creature gains any benefits associated with draining blood from all blood drained in this manner.
+**Prerequisites:** blood drain, mythic power; **Benefit:** See blood drain for details on the base ability. The creature can expend two uses of mythic power as a standard action to drain blood from all creatures within 30 feet. Each creature must succeed at a Fortitude saving throw (DC 10 +1/2 the mythic creature’s HD + creature’s Charisma modifier) or be affected by the blood drain ability. The mythic creature gains any benefits associated with draining blood from all blood drained in this manner.
 
 ### Bonus Mythic Feat (Ex, +1 AP)
 
-**Prerequisites:** mythic power;**Benefit:** See bonus feat for details on the base ability. The creature gains a mythic feat as a bonus feat. It must meet all prerequisites for the feat. As with the base ability, this ability may be taken multiple times, and the cost does not stack to determine the maximum AP points a creature may spend per CR. However, the creature cannot spend additional APs to take a mythic bonus feat without meeting all prerequisites.
+**Prerequisites:** mythic power; **Benefit:** See bonus feat for details on the base ability. The creature gains a mythic feat as a bonus feat. It must meet all prerequisites for the feat. As with the base ability, this ability may be taken multiple times, and the cost does not stack to determine the maximum AP points a creature may spend per CR. However, the creature cannot spend additional APs to take a mythic bonus feat without meeting all prerequisites.
 
 ### Breath Weapon (Su, +0 AP)
 
-**Prerequisites:** breath weapon (spell effect), mythic power;**Benefit:** See breath weapon for details on the base ability. The mythic creature’s breath weapon can inflict damage in addition to the spell-effect enhancement at no additional cost (normally having a cost of +2 AP) if the breath weapon requires the creature to expend one use of mythic power.
+**Prerequisites:** breath weapon (spell effect), mythic power; **Benefit:** See breath weapon for details on the base ability. The mythic creature’s breath weapon can inflict damage in addition to the spell-effect enhancement at no additional cost (normally having a cost of +2 AP) if the breath weapon requires the creature to expend one use of mythic power.
 
 ### Channel Energy (Su, +2 AP)
 
-**Prerequisites:** class ability (channel energy), mythic power;**Benefit:** See class ability for details on the base ability. When channeling positive or negative energy, the mythic creature can expend one use of mythic power to maximize the damage healed or dealt.
+**Prerequisites:** class ability (channel energy), mythic power; **Benefit:** See class ability for details on the base ability. When channeling positive or negative energy, the mythic creature can expend one use of mythic power to maximize the damage healed or dealt.
 
 ### Children of the Eclipse (Su, +4 AP)
 
-**Prerequisites:** children of the night, mythic power;**Benefit:** See children of the night for details on the base ability. The creature can use children of the night to call forth 2d6 ghouls or 1d6+1 shadows. For an additional +6 AP, the creature can use children of the night to call forth 1d6 wraiths or mohrgs.
+**Prerequisites:** children of the night, mythic power; **Benefit:** See children of the night for details on the base ability. The creature can use children of the night to call forth 2d6 ghouls or 1d6+1 shadows. For an additional +6 AP, the creature can use children of the night to call forth 1d6 wraiths or mohrgs.
 
 ### Confounding Coils (Su, +2 AP)
 
-**Prerequisites:** constrict, mythic power;**Benefit:** See constrict for details on the base ability. Mythic creatures grappled by the mythic creature must succeed on a Will save (DC 10 + ½ the mythic creature’s HD + creature’s Wisdom modifier) each round or be affected as if by the mythic severance spell.
+**Prerequisites:** constrict, mythic power; **Benefit:** See constrict for details on the base ability. Mythic creatures grappled by the mythic creature must succeed on a Will save (DC 10 + ½ the mythic creature’s HD + creature’s Wisdom modifier) each round or be affected as if by the mythic severance spell.
 
 ### Create Rocks (Ex, +2 AP)
 
-**Prerequisites:** mythic power, rock throwing;**Benefit:** See rock throwing for details on the base ability. As a move action, the mythic creature can scoop up earth or rubble from an unoccupied square within its reach and compact it into a solid mass appropriate for use with its rock throwing ability. When it does so, the square from which the material is gathered becomes difficult terrain. No square may be used in this fashion more than once.
+**Prerequisites:** mythic power, rock throwing; **Benefit:** See rock throwing for details on the base ability. As a move action, the mythic creature can scoop up earth or rubble from an unoccupied square within its reach and compact it into a solid mass appropriate for use with its rock throwing ability. When it does so, the square from which the material is gathered becomes difficult terrain. No square may be used in this fashion more than once.
 
 ### Create Vacuum (Ex, +4 AP)
 
-**Prerequisites:** mythic power, whirlwind;**Benefit:** See whirlwind for details on the base ability. As a standard action, the creature can suck the air out of lungs of creatures that are trapped in its whirlwind. Creatures trapped in the whirlwind must succeed on Constitution checks each round as if they had run out of breath for as long as they remain within the whirlwind. An affected creature can’t speak, use breath weapons, cast spells with verbal components, or do anything else that requires breathing. A trapped creature must succeed at a concentration check to cast spells. The mythic creature can maintain this vacuum as a move action. If it stops, the trapped creatures can breathe again.
+**Prerequisites:** mythic power, whirlwind; **Benefit:** See whirlwind for details on the base ability. As a standard action, the creature can suck the air out of lungs of creatures that are trapped in its whirlwind. Creatures trapped in the whirlwind must succeed on Constitution checks each round as if they had run out of breath for as long as they remain within the whirlwind. An affected creature can’t speak, use breath weapons, cast spells with verbal components, or do anything else that requires breathing. A trapped creature must succeed at a concentration check to cast spells. The mythic creature can maintain this vacuum as a move action. If it stops, the trapped creatures can breathe again.
 
 ### Creeping Paralysis (Su, +4 AP)
 
-**Prerequisites:** mythic power, paralysis;**Benefit:** See paralysis for details on the base ability. An opponent that strikes the creature with a natural weapon, unarmed strike, or non-reach manufactured weapon, or otherwise touches the mythic creature must save or be affected by the creature’s paralysis ability. This triggers only once per round per creature.
+**Prerequisites:** mythic power, paralysis; **Benefit:** See paralysis for details on the base ability. An opponent that strikes the creature with a natural weapon, unarmed strike, or non-reach manufactured weapon, or otherwise touches the mythic creature must save or be affected by the creature’s paralysis ability. This triggers only once per round per creature.
 
 ### Disorienting Pounce (Ex, +4 AP)
 
-**Prerequisites:** mythic power, pounce;**Benefit:** See pounce for details on the base ability. An opponent that the creature hits when using its pounce ability is automatically staggered for 1 round. The cost of this enhancement is reduced to +2 AP if it requires the creature to expend one use of mythic power when using pounce.
+**Prerequisites:** mythic power, pounce; **Benefit:** See pounce for details on the base ability. An opponent that the creature hits when using its pounce ability is automatically staggered for 1 round. The cost of this enhancement is reduced to +2 AP if it requires the creature to expend one use of mythic power when using pounce.
 
 ### Drag Along (Ex, +2 AP)
 
-**Prerequisites:** grab, mythic power;**Benefit:** See grab for details on the base ability. If the mythic creature grapples a target and does not possess the grappled condition itself, it can move itself and its target at full speed without making additional grapple checks.
+**Prerequisites:** grab, mythic power; **Benefit:** See grab for details on the base ability. If the mythic creature grapples a target and does not possess the grappled condition itself, it can move itself and its target at full speed without making additional grapple checks.
 
 ### Elemental Bleed (Ex, +0 AP)
 
-**Prerequisites:** bleed, mythic power;**Benefit:** See bleed for details on the base ability. The creature’s bleed ability deals elemental energy damage (acid, cold, electricity, or fire). If a bleeding creature is dealt 5 or more hit points of damage by the opposite elemental energy damage (cold/fire or acid/electricity), it automatically ends the bleeding.
+**Prerequisites:** bleed, mythic power; **Benefit:** See bleed for details on the base ability. The creature’s bleed ability deals elemental energy damage (acid, cold, electricity, or fire). If a bleeding creature is dealt 5 or more hit points of damage by the opposite elemental energy damage (cold/fire or acid/electricity), it automatically ends the bleeding.
 
 ### Elemental Bond (Ex, +4 AP)
 
-**Prerequisites:** elemental mastery, mythic power;**Benefit:** See elemental mastery for details on the base ability. As a standard action, if the creature is in contact with its chosen element it can expend one use of mythic power to rejuvenate itself, gaining the benefits of cure critical wounds and restoration.
+**Prerequisites:** elemental mastery, mythic power; **Benefit:** See elemental mastery for details on the base ability. As a standard action, if the creature is in contact with its chosen element it can expend one use of mythic power to rejuvenate itself, gaining the benefits of cure critical wounds and restoration.
 
 ### Elevated Ejection (Ex, +2 AP)
 
-**Prerequisites:** mythic power, whirlwind;**Benefit:** See whirlwind for details on the base ability. When the creature in whirlwind form ejects a trapped opponent, it can do so from any point up to the whirlwind’s current height, dropping the opponent into the whirlwind’s space or within the mythic creature’s normal reach. The opponent takes falling damage as normal. For an additional +3 AP, if the mythic creature expends one use of mythic power, it can instead throw a trapped creature as if using the uncanny grapple path ability with no grapple check needed.
+**Prerequisites:** mythic power, whirlwind; **Benefit:** See whirlwind for details on the base ability. When the creature in whirlwind form ejects a trapped opponent, it can do so from any point up to the whirlwind’s current height, dropping the opponent into the whirlwind’s space or within the mythic creature’s normal reach. The opponent takes falling damage as normal. For an additional +3 AP, if the mythic creature expends one use of mythic power, it can instead throw a trapped creature as if using the uncanny grapple path ability with no grapple check needed.
 
 ### Enhanced Spellcasting (Su, +4 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** See spellcasting for details on the base ability. The creature gains the ability to treat its 1st-level spells like cantrips or orisons. If the mythic creature is a spontaneous caster, its 1st-level spells known don’t consume spell slots and can be used again. If the mythic creature prepares spells, its 1st-level spell slots aren’t expended when cast and can be used again. Using metamagic feats or other abilities that alter the spell slot of a spell aren’t affected by this ability (for example, a quickened magic missile uses a 5th-level spell slot and is expended when cast).
+**Prerequisites:** mythic power, spellcasting; **Benefit:** See spellcasting for details on the base ability. The creature gains the ability to treat its 1st-level spells like cantrips or orisons. If the mythic creature is a spontaneous caster, its 1st-level spells known don’t consume spell slots and can be used again. If the mythic creature prepares spells, its 1st-level spell slots aren’t expended when cast and can be used again. Using metamagic feats or other abilities that alter the spell slot of a spell aren’t affected by this ability (for example, a quickened magic missile uses a 5th-level spell slot and is expended when cast).
 
 ### Entrapping Vines (Ex, +2 AP)
 
-**Prerequisites:** mythic power, spores;**Benefit:** See spores for details on the base ability. When using the spores ability, the creature can expend one use of mythic power as a swift action to cause affected creatures to become entrapped by the growing vines. The creature can attempt to break free with a Strength or Escape Artist check as a move action. The DC is equal to 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier). The vines are hardness 5 and have 10 hit points.
+**Prerequisites:** mythic power, spores; **Benefit:** See spores for details on the base ability. When using the spores ability, the creature can expend one use of mythic power as a swift action to cause affected creatures to become entrapped by the growing vines. The creature can attempt to break free with a Strength or Escape Artist check as a move action. The DC is equal to 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier). The vines are hardness 5 and have 10 hit points.
 
 ### Eye Gouge (Ex, +2 AP)
 
-**Prerequisites:** grab or rend, mythic power;**Benefit:** See the grab or rend abilities for details on the base abilities (this enhancement can apply to either). If the mythic creature rends or pins an opponent, as a swift action it can attempt a dirty trick maneuver to blind the target. If its combat maneuver check exceeds the DC by 10 or more, the opponent is permanently blinded.
+**Prerequisites:** grab or rend, mythic power; **Benefit:** See the grab or rend abilities for details on the base abilities (this enhancement can apply to either). If the mythic creature rends or pins an opponent, as a swift action it can attempt a dirty trick maneuver to blind the target. If its combat maneuver check exceeds the DC by 10 or more, the opponent is permanently blinded.
 
 ### Formidable Spells (Su, +4 AP)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** See spellcasting for details on the base ability. Any opponent attempting a dispel check against a spell cast by the mythic creature rolls twice and uses the lower result. Anytime the mythic creature attempts a dispel check, it rolls twice and uses the higher result.
+**Prerequisites:** mythic power, spellcasting; **Benefit:** See spellcasting for details on the base ability. Any opponent attempting a dispel check against a spell cast by the mythic creature rolls twice and uses the lower result. Anytime the mythic creature attempts a dispel check, it rolls twice and uses the higher result.
 
 ### Infuse Weapon (Ex, +2 AP)
 
-**Prerequisites:** mythic power, talisman;**Benefit:** See talisman for details on the base ability. The creature can expend a use of mythic power as a standard action to add a weapon enhancement (or combination of enhancements) to its talisman with a total equivalent bonus equal to or less than half its mythic rank (minimum +1). The effect lasts for a number of rounds equal to half the creature’s mythic rank (minimum 1 round). For an additional +2 AP, the effect lasts for a number of rounds equal to the creature’s mythic rank.
+**Prerequisites:** mythic power, talisman; **Benefit:** See talisman for details on the base ability. The creature can expend a use of mythic power as a standard action to add a weapon enhancement (or combination of enhancements) to its talisman with a total equivalent bonus equal to or less than half its mythic rank (minimum +1). The effect lasts for a number of rounds equal to half the creature’s mythic rank (minimum 1 round). For an additional +2 AP, the effect lasts for a number of rounds equal to the creature’s mythic rank.
 
 ### Infuse Weapon, Greater (Ex, +2 AP)
 
-**Prerequisites:** infuse weapon, mythic power, talisman;**Benefit:** See talisman for details on the base ability. The creature can expend two uses of mythic power as an immediate action to add a weapon enhancement (or combination of enhancements) with a total equivalent bonus equal to or less than half its mythic rank (minimum +1) to all manufactured weapon it wields. For an additional +2 AP, the effect lasts for a number of rounds equal to the creature’s mythic rank.
+**Prerequisites:** infuse weapon, mythic power, talisman; **Benefit:** See talisman for details on the base ability. The creature can expend two uses of mythic power as an immediate action to add a weapon enhancement (or combination of enhancements) with a total equivalent bonus equal to or less than half its mythic rank (minimum +1) to all manufactured weapon it wields. For an additional +2 AP, the effect lasts for a number of rounds equal to the creature’s mythic rank.
 
 ### Innate Magic (varies)
 
-**Prerequisites:** mythic power, spellcasting;**Benefit:** See spellcasting for details on the base ability. A creature with this ability can expend mythic power to cast any single spell from the spell list selected for the spellcaster ability using the creature’s caster level. The spell does not need to be known or prepared to be cast in this manner, but the creature cannot cast the mythic version of the spell in combination with this ability. If the creature is casting a spell with a spell level equal to the highest level spell it can cast, or one spell level lower than the highest level spell it can cast, it must expend two uses of mythic power. Any lower level spell only requires the creature to expend one use of mythic power. This enhancement doubles the cost of the spellcaster ability.
+**Prerequisites:** mythic power, spellcasting; **Benefit:** See spellcasting for details on the base ability. A creature with this ability can expend mythic power to cast any single spell from the spell list selected for the spellcaster ability using the creature’s caster level. The spell does not need to be known or prepared to be cast in this manner, but the creature cannot cast the mythic version of the spell in combination with this ability. If the creature is casting a spell with a spell level equal to the highest level spell it can cast, or one spell level lower than the highest level spell it can cast, it must expend two uses of mythic power. Any lower level spell only requires the creature to expend one use of mythic power. This enhancement doubles the cost of the spellcaster ability.
 
 ### Invulnerable (Ex or Su, +2 AP)
 
-**Prerequisites:** mythic power, vulnerability;**Benefit:** See vulnerability for details on the base weakness. The creature can expend one use of mythic power to ignore its vulnerability weakness for 1 round. This version of the vulnerability weakness only provides +2 bonus AP.
+**Prerequisites:** mythic power, vulnerability; **Benefit:** See vulnerability for details on the base weakness. The creature can expend one use of mythic power to ignore its vulnerability weakness for 1 round. This version of the vulnerability weakness only provides +2 bonus AP.
 
-**Format:** ice burrowing;**Location:** Speed.
+**Format:** ice burrowing; **Location:** Speed.
 
 ### Life Drain (Su, +2 AP)
 
-**Prerequisites:** inspiration, mythic power;**Benefit:** See inspiration for details on the base ability. The mythic creature immediately knows when a creature benefits from its inspiration ability. As a standard action, at any range, it can expend one use of mythic power to drain 1 point of Constitution from that creature. The mythic creature heals 5 hit points or gains 5 temporary hit points for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points) each time this ability is used.
+**Prerequisites:** inspiration, mythic power; **Benefit:** See inspiration for details on the base ability. The mythic creature immediately knows when a creature benefits from its inspiration ability. As a standard action, at any range, it can expend one use of mythic power to drain 1 point of Constitution from that creature. The mythic creature heals 5 hit points or gains 5 temporary hit points for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points) each time this ability is used.
 
 ### Lingering Breath (Su, +2 AP)
 
-**Prerequisites:** breath weapon, mythic power;**Benefit:** See breath weapon for details on the base ability. The creature can expend one use of mythic power as a free action when it uses its breath weapon to make the area radiate energy damage (of the same type as the breath weapon) for 1 round. Any creature in, entering, or passing through the breath weapon’s area during this duration takes the breath weapon damage.
+**Prerequisites:** breath weapon, mythic power; **Benefit:** See breath weapon for details on the base ability. The creature can expend one use of mythic power as a free action when it uses its breath weapon to make the area radiate energy damage (of the same type as the breath weapon) for 1 round. Any creature in, entering, or passing through the breath weapon’s area during this duration takes the breath weapon damage.
 
 This ability has no effect on breath weapons that do not deal energy damage. For an additional +2 AP, the area radiates energy damage equivalent to the breath weapon for 1 round per mythic rank.
 
-**Format:** lingering breath (2d6 fire, 5 rounds);**Location:** Special Attacks.
+**Format:** lingering breath (2d6 fire, 5 rounds); **Location:** Special Attacks.
 
 ### Manic Dance of Ruin (Su, +2 AP)
 
-**Prerequisites:** dance of ruin, mythic power;**Benefit:** See dance of ruin ability for details on the base ability. The creature can expend one use of mythic power to use the dance of ruin ability as a full-round action.
+**Prerequisites:** dance of ruin, mythic power; **Benefit:** See dance of ruin ability for details on the base ability. The creature can expend one use of mythic power to use the dance of ruin ability as a full-round action.
 
 ### Monarch (Su, +1 AP)
 
-**Prerequisites:** class ability (bardic performance), mythic power;**Benefit:** See class ability for details on the base ability. The creature selects a specific creature type, such as worgs or owlbears. When using the inspire courage or inspire competence bardic performance abilities, this creature type gains double the normal bonuses. For an additional +1 AP, the creature can instead select any creature subtype. For an additional +3 AP, the creature can instead select any creature type. This ability may be selected multiple times, each time applying to a new category of creature.
+**Prerequisites:** class ability (bardic performance), mythic power; **Benefit:** See class ability for details on the base ability. The creature selects a specific creature type, such as worgs or owlbears. When using the inspire courage or inspire competence bardic performance abilities, this creature type gains double the normal bonuses. For an additional +1 AP, the creature can instead select any creature subtype. For an additional +3 AP, the creature can instead select any creature type. This ability may be selected multiple times, each time applying to a new category of creature.
 
 ### Morphic Body (Ex, +2 AP)
 
-**Prerequisites:** change shape, mythic power;**Benefit:** See change shape for details on the base ability. The mythic creature can assume the appearance of any creature within one size category of itself (other than creatures with the elemental, incorporeal, or swarm subtypes—the body assumed must be solid). The mythic creature’s type doesn’t change in this new form, and it gains none of the mimicked creature’s special abilities; the transformation is cosmetic only. In these other forms, the creature retains all of its normal statistics and abilities as noted above, though it does take the appropriate bonuses and penalties based on its new size. Though this ability affects only the creature’s outward appearance, it is a transmutation effect. For an additional +2 AP, the mythic creature can become any size.
+**Prerequisites:** change shape, mythic power; **Benefit:** See change shape for details on the base ability. The mythic creature can assume the appearance of any creature within one size category of itself (other than creatures with the elemental, incorporeal, or swarm subtypes—the body assumed must be solid). The mythic creature’s type doesn’t change in this new form, and it gains none of the mimicked creature’s special abilities; the transformation is cosmetic only. In these other forms, the creature retains all of its normal statistics and abilities as noted above, though it does take the appropriate bonuses and penalties based on its new size. Though this ability affects only the creature’s outward appearance, it is a transmutation effect. For an additional +2 AP, the mythic creature can become any size.
 
 ### Mucus Mist (Ex, +2 AP)
 
-**Prerequisites:** mucus cloud, mythic power;**Benefit:** See mucus cloud for details on the base ability. When exposed to the air, the creature can release its mucus as a fine mist. This obscures vision like the obscuring mist spell and has the same properties as its mucus cloud. Creatures that breathe water are able to breathe normally while within the cloud. The mist moves with the creature.
+**Prerequisites:** mucus cloud, mythic power; **Benefit:** See mucus cloud for details on the base ability. When exposed to the air, the creature can release its mucus as a fine mist. This obscures vision like the obscuring mist spell and has the same properties as its mucus cloud. Creatures that breathe water are able to breathe normally while within the cloud. The mist moves with the creature.
 
 ### Mythic Spawn (Su, +4 AP)
 
-**Prerequisites:** create spawn, mythic power;**Benefit:** See create spawn for details on the base ability. When creating spawn, the mythic creature can expend two uses of mythic power to create a mythic version of the spawn.
+**Prerequisites:** create spawn, mythic power; **Benefit:** See create spawn for details on the base ability. When creating spawn, the mythic creature can expend two uses of mythic power to create a mythic version of the spawn.
 
 ### Mythic Spell-Like Ability (Sp, +3 AP)
 
-**Prerequisites:** mythic power, spell-like ability;**Benefit:** See spell-like ability for details on the base ability. When the creature uses the spell-like ability, it can expend a use of mythic power to cast the equivalent mythic version of the spell (see Pathfinder Roleplaying Game: Mythic Adventures for details). This enhancement must be purchased separately for each spell-like ability that can be cast as a mythic spell. The creature can cast the augmented version of the mythic spell, but have a mythic rank equal to the minimum mythic tier and expend additional uses of mythic power as indicated in the individual mythic spell entry.
+**Prerequisites:** mythic power, spell-like ability; **Benefit:** See spell-like ability for details on the base ability. When the creature uses the spell-like ability, it can expend a use of mythic power to cast the equivalent mythic version of the spell (see Pathfinder Roleplaying Game: Mythic Adventures for details). This enhancement must be purchased separately for each spell-like ability that can be cast as a mythic spell. The creature can cast the augmented version of the mythic spell, but have a mythic rank equal to the minimum mythic tier and expend additional uses of mythic power as indicated in the individual mythic spell entry.
 
 ### Penetrating Poison (Ex, +2 AP)
 
-**Prerequisites:** mythic power, poison;**Benefit:** See poison for details on the base ability. The mythic creature can expend one use of mythic power when poisoning a creature to overcome any poison immunity the target has.
+**Prerequisites:** mythic power, poison; **Benefit:** See poison for details on the base ability. The mythic creature can expend one use of mythic power when poisoning a creature to overcome any poison immunity the target has.
 
 ### Petrification Aura (Su, +4 AP)
 
@@ -1430,7 +1430,7 @@ This ability has no effect on breath weapons that do not deal energy damage. For
 
 ### Poisoned Weapons (Ex, +1 AP)
 
-**Prerequisites:** mythic power, poison use;**Benefit:** See poison use for details on the base ability. The creature can apply poison to a manufactured weapon it is wielding as a swift action.
+**Prerequisites:** mythic power, poison use; **Benefit:** See poison use for details on the base ability. The creature can apply poison to a manufactured weapon it is wielding as a swift action.
 
 ### Poisonous Blood (Ex, +2 AP)
 
@@ -1439,58 +1439,58 @@ way.) The poison uses the poison’s normal DC.
 
 ### Powerful Flight (Ex, +2 AP)
 
-**Prerequisites:** flight, mythic power;**Benefit:** See flight for details on the base ability. The creature can expend one use of mythic power to withdraw as a move action (instead of a full-round action), moving up to its speed instead of double. It can even move straight up. If it’s grappling an opponent, the mythic creature can bring the grappled creature with it. For example, the creature can grab a target, withdraw, and drop the opponent all in the same round.
+**Prerequisites:** flight, mythic power; **Benefit:** See flight for details on the base ability. The creature can expend one use of mythic power to withdraw as a move action (instead of a full-round action), moving up to its speed instead of double. It can even move straight up. If it’s grappling an opponent, the mythic creature can bring the grappled creature with it. For example, the creature can grab a target, withdraw, and drop the opponent all in the same round.
 
 ### Primal Vigor (Ex, +4 AP)
 
-**Prerequisites:** mythic power, regeneration;**Benefit:** See regeneration for details on the base ability. If the creature takes damage during a round, its regeneration increases by an amount equal to its base regeneration at the start of its next turn, to a maximum of five times its base regeneration. If the creature is at full hit points at the start of its turn, its regeneration decreases by an amount equal to its base regeneration, to a minimum of its base regeneration. For an additional +2 AP, damaging the creature with a method that suppresses its regeneration on partially reduces its healing. On its turn following this damage, the mythic creature regenerates only half the normal number of hit points and can die normally on that round.
+**Prerequisites:** mythic power, regeneration; **Benefit:** See regeneration for details on the base ability. If the creature takes damage during a round, its regeneration increases by an amount equal to its base regeneration at the start of its next turn, to a maximum of five times its base regeneration. If the creature is at full hit points at the start of its turn, its regeneration decreases by an amount equal to its base regeneration, to a minimum of its base regeneration. For an additional +2 AP, damaging the creature with a method that suppresses its regeneration on partially reduces its healing. On its turn following this damage, the mythic creature regenerates only half the normal number of hit points and can die normally on that round.
 
 ### Shriek, Greater (Su, +4 AP)
 
-**Prerequisites:** mythic power, shriek;**Benefit:** See shriek for details on the base ability. Once per hour when using the shriek ability, the creature can expend one use of mythic power to cause any creature failing its save to become staggered for 1d6 rounds after the stun effect ends. For an additional +2 AP, this ability is usable whenever the creature performs a shriek.
+**Prerequisites:** mythic power, shriek; **Benefit:** See shriek for details on the base ability. Once per hour when using the shriek ability, the creature can expend one use of mythic power to cause any creature failing its save to become staggered for 1d6 rounds after the stun effect ends. For an additional +2 AP, this ability is usable whenever the creature performs a shriek.
 
 ### Simple Spellcasting (varies)
 
-**Prerequisites:** mythic power;**Benefit:** See spellcasting for details on the base ability. The mythic creature can take the spellcasting ability without having the spellcasting focus. However, the ability is far more limited that a true spellcaster creature focus.
+**Prerequisites:** mythic power; **Benefit:** See spellcasting for details on the base ability. The mythic creature can take the spellcasting ability without having the spellcasting focus. However, the ability is far more limited that a true spellcaster creature focus.
 
 The creature selects either the cleric, druid, or sorcerer/wizard spell list, and may spend a number of APs on this version of the spellcasting ability up to its final CR. It gains a number of spell levels in spells from the selected list equal to twice the APs spent. No spell for this ability should have a level higher than 1 + 1/2 the creature’s CR. A 0-level spell counts as 1/2 spell level toward this total. The creature can cast each of these spells (as a spellcaster) once per day. Its caster level is equal to its Hit Dice. If the spells are selected from the cleric or druid spell lists, the creature uses its Wisdom or Charisma (whichever is higher) to determine its spell DCs. If the spells are selected from the sorcerer/wizard spell lists, the creature uses its Intelligence or Charisma (whichever is higher) to determine its spell DCs.
 
 ### Skewer (Ex, +4 AP)
 
-**Prerequisites:** mythic power, spikes;**Benefit:** See spikes for details on the base ability. If the creature confirms a critical hit with a spike, the spike pins the target to the ground or a nearby surface. If the target is using winged flight, the spike snares its wings. The target is considered grappled by the mythic creature (though the mythic creature is not considered to be grappling) and must escape the grapple to move from its square. A flying creature must escape on its turn or plummet to the ground. For an additional +2 AP, as a swift action, the mythic creature can expend one use of mythic power to skewer all targets hit by its spikes that turn, even if the attacks weren’t critical hits.
+**Prerequisites:** mythic power, spikes; **Benefit:** See spikes for details on the base ability. If the creature confirms a critical hit with a spike, the spike pins the target to the ground or a nearby surface. If the target is using winged flight, the spike snares its wings. The target is considered grappled by the mythic creature (though the mythic creature is not considered to be grappling) and must escape the grapple to move from its square. A flying creature must escape on its turn or plummet to the ground. For an additional +2 AP, as a swift action, the mythic creature can expend one use of mythic power to skewer all targets hit by its spikes that turn, even if the attacks weren’t critical hits.
 
 ### Skill Blessing (Su, +2 AP)
 
-**Prerequisites:** inspiration, mythic power;**Benefit:** See inspiration for details on the base ability. The mythic creature may grant tokens and inspiration to a number of creatures equal to its mythic rank.
+**Prerequisites:** inspiration, mythic power; **Benefit:** See inspiration for details on the base ability. The mythic creature may grant tokens and inspiration to a number of creatures equal to its mythic rank.
 
 ### Slime Armor (Ex, +2 AP)
 
-**Prerequisites:** mythic power, slime;**Benefit:** See slime for details on the base ability. The creature can spend 1 minute to create an armorlike carapace from hardened slime. This gives it a +4 armor bonus. The creature can dissolve the armor as a full-round action. If the creature has a swim speed, it loses its swim speed while this ability is active. If it does not possess a land speed greater than its swim speed, it gains a land speed equal to its swim speed. For an additional +2 AP, the creature can also expend one use of mythic power to activate this ability as a fullround action or dissolve the armor as a swift action.
+**Prerequisites:** mythic power, slime; **Benefit:** See slime for details on the base ability. The creature can spend 1 minute to create an armorlike carapace from hardened slime. This gives it a +4 armor bonus. The creature can dissolve the armor as a full-round action. If the creature has a swim speed, it loses its swim speed while this ability is active. If it does not possess a land speed greater than its swim speed, it gains a land speed equal to its swim speed. For an additional +2 AP, the creature can also expend one use of mythic power to activate this ability as a fullround action or dissolve the armor as a swift action.
 
 ### Spell Turning (Su, +2 AP)
 
-**Prerequisites:** mythic power, spell resistance;**Benefit:** See spell resistance for details on the base ability. Select one subschool of magic (charm, death, polymorph, etc.). When a spell with the selected subschool targeting the creature fails to penetrate the creature’s spell resistance, it can expend one use of mythic power as an immediate action to turn that effect upon its source, as if using the spell turning spell. For an additional +2 AP, the creature can select a school of magic (enchantment, necromancy, transmutation, etc.).
+**Prerequisites:** mythic power, spell resistance; **Benefit:** See spell resistance for details on the base ability. Select one subschool of magic (charm, death, polymorph, etc.). When a spell with the selected subschool targeting the creature fails to penetrate the creature’s spell resistance, it can expend one use of mythic power as an immediate action to turn that effect upon its source, as if using the spell turning spell. For an additional +2 AP, the creature can select a school of magic (enchantment, necromancy, transmutation, etc.).
 
 ### Thundering Trample (Ex, +2 AP)
 
-**Prerequisites:** mythic power, trample;**Benefit:** See trample for details on the base ability. The mythic creature can expend one use of its mythic power when using its trample attack to make a single combat maneuver check and apply the result as a bull rush maneuver against the CMD of each creature that fails to save against its trample. These combat maneuvers do not provoke attacks of opportunity.
+**Prerequisites:** mythic power, trample; **Benefit:** See trample for details on the base ability. The mythic creature can expend one use of its mythic power when using its trample attack to make a single combat maneuver check and apply the result as a bull rush maneuver against the CMD of each creature that fails to save against its trample. These combat maneuvers do not provoke attacks of opportunity.
 
 ### Torment (Su, +2 AP)
 
-**Prerequisites:** mythic power, poison;**Benefit:** See poison for details on the base ability. The mythic creature’s poison torments its victims with wracking pain. A victim of the creature’s poison also takes a –2 penalty on attack rolls, skill checks, and ability checks. The effects of torment last until the poison is cured. This is a pain effect. For an additional +2 AP, the penalty is increased to –4.
+**Prerequisites:** mythic power, poison; **Benefit:** See poison for details on the base ability. The mythic creature’s poison torments its victims with wracking pain. A victim of the creature’s poison also takes a –2 penalty on attack rolls, skill checks, and ability checks. The effects of torment last until the poison is cured. This is a pain effect. For an additional +2 AP, the penalty is increased to –4.
 
 ### Unpetrify (Su, +4 AP)
 
-**Prerequisites:** any ability to petrify (as the flesh to stone spell), mythic power;**Benefit:** The creature can expend one use of mythic power to return a petrified creature to life (as if using the stone to flesh spell) for 1 minute. The creature is under the mythic creature’s control (as if using dominate monster) and reverts to a statue at the end of this time. Alternately, the mythic creature can expend one use of mythic power to return the creature to flesh permanently, though the mythic creature retains no control over the individual. For an additional +2 AP, the mythic creature can expend three uses of mythic power for the creature to remain unpetrified and dominated for 24 hours instead of 1 minute.
+**Prerequisites:** any ability to petrify (as the flesh to stone spell), mythic power; **Benefit:** The creature can expend one use of mythic power to return a petrified creature to life (as if using the stone to flesh spell) for 1 minute. The creature is under the mythic creature’s control (as if using dominate monster) and reverts to a statue at the end of this time. Alternately, the mythic creature can expend one use of mythic power to return the creature to flesh permanently, though the mythic creature retains no control over the individual. For an additional +2 AP, the mythic creature can expend three uses of mythic power for the creature to remain unpetrified and dominated for 24 hours instead of 1 minute.
 
 ### Variable Resistance (Ex, +2 AP)
 
-**Prerequisites:** mythic power, resistance (acid, cold, electricity, or fire);**Benefit:** See resistance for details on the base ability. The creature can perform a ritual for 1 minute once per day that alters its resistance to a different energy type (either acid, cold, electricity, or fire). For an additional +4 AP, the mythic creature can expend one use of mythic power to alter their resistance as an immediate action.
+**Prerequisites:** mythic power, resistance (acid, cold, electricity, or fire); **Benefit:** See resistance for details on the base ability. The creature can perform a ritual for 1 minute once per day that alters its resistance to a different energy type (either acid, cold, electricity, or fire). For an additional +4 AP, the mythic creature can expend one use of mythic power to alter their resistance as an immediate action.
 
 ### Versatile Hatred (Ex, +4 AP)
 
-**Prerequisites:** hatred, mythic power;**Benefit:** See hatred for details on the base ability. The creature can expend one use of mythic power to change the creature type or subtype it gains bonuses against with the hatred ability for 1 hour.
+**Prerequisites:** hatred, mythic power; **Benefit:** See hatred for details on the base ability. The creature can expend one use of mythic power to change the creature type or subtype it gains bonuses against with the hatred ability for 1 hour.
 
 ### Vorpal Attack (Su, +12 AP)
 
-**Prerequisites:** mythic power, natural attack;**Benefit:** See natural attacks for details on the base ability. When the creature confirms a critical hit against a non-mythic opponent with the specific natural attack, it can expend one use of mythic power as a free action to remove the opponent’s head, instantly killing creatures that require a head to survive. The opponent may negate this effect with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier).
+**Prerequisites:** mythic power, natural attack; **Benefit:** See natural attacks for details on the base ability. When the creature confirms a critical hit against a non-mythic opponent with the specific natural attack, it can expend one use of mythic power as a free action to remove the opponent’s head, instantly killing creatures that require a head to survive. The opponent may negate this effect with a successful Fortitude save (DC 10 + 1/2 the mythic creature’s HD + creature’s Constitution modifier).

@@ -13,14 +13,14 @@ This tiny, whimsical-looking humanoid darts about swiftly on wildly colored goss
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 NG Small fey (mythic)
-**Init**+5;**Senses** low-light vision; Perception +9
+**Init** +5; **Senses** low-light vision; Perception +9
 
 #### Defense
 
-**AC**20,**touch**17,**flat-footed** 14 (+5 Dex, +1 dodge, +3 natural, +1 size)
+**AC** 20, **touch** 17, **flat-footed** 14 (+5 Dex, +1 dodge, +3 natural, +1 size)
 **hp** 30 (4d6+16)
-**Fort**+2,**Ref**+9,**Will** +6
-**Defensive Abilities**invisibility; DR 10/cold iron;**SR** 16
+**Fort** +2, **Ref** +9, **Will** +6
+**Defensive Abilities** invisibility; DR 10/cold iron; **SR** 16
 
 #### Offense
 
@@ -35,8 +35,8 @@ Constant—detect chaos, detect evil, detect good, detect law
 
 #### Statistics
 
-**Str**7,**Dex**21,**Con**12,**Int**16,**Wis**15,**Cha** 18
-**Base Atk**+2;**CMB**–1;**CMD** 15
+**Str** 7, **Dex** 21, **Con** 12, **Int** 16, **Wis** 15, **Cha** 18
+**Base Atk** +2; **CMB** –1; **CMD** 15
 **Feats** Dodge, Weapon FinesseMF
 **Skills** Acrobatics +12, Bluff +11, Escape Artist +12, Fly +18, Knowledge (nature) +10, Perception +9, Sense Motive +9, Stealth +16, Use Magic Device +11
 **Languages** Common, Sylvan

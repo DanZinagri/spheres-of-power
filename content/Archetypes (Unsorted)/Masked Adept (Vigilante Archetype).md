@@ -9,27 +9,27 @@ updated: 2020-01-31
 
 Power has a price, and magic is no different. The masked adept has turned to sources of power that are less socially acceptable for someone of his kind. His powers are not evil, but using them is seen as unacceptable, so he has learned to hide his magic as well as he hides his identity.
 
-### Skills
+## Skills
 
 The masked adept adds Knowledge (arcana) (Int) and Spellcraft (Int) to his list of class skills, instead of Disable Device (Dex), Knowledge (engineering) (Int), and Survival (Wis). The masked adept gains a number of skill ranks equal to 4 + his Intelligence modifier at each level, instead of 6 + his Intelligence modifier skill ranks.
 
 This alters the vigilante’s class skills and skill ranks per level.
 
-### Casting
+## Casting
 
 The masked adept may combine spheres and talents to create magical effects. The masked adept is considered a Mid-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the vigilante talents gained at 4th, 8th, 10th, 14th, and 18th level.
 
-### Spell Pool
+## Spell Pool
 
 The masked adept gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A masked adept gains 3/4ths of a magic talent every level (the same progression as he gains caster levels).
 
-### Hidden Master
+## Hidden Master
 
 At 1st level, the masked adept chooses one magic sphere to be his hidden sphere. He receives this sphere as a bonus talent, and uses his class level as his caster level with this sphere. This stacks normally with caster levels gained from other sources.
 
@@ -37,7 +37,7 @@ At 2nd level, he begins to learn how to integrate the magic of his hidden sphere
 
 This replaces vigilante specialization.
 
-### Night’s True Menace
+## Night’s True Menace
 
 Whenever the masked adept gains a new vigilante talent, he may select from talents normally restricted to the stalker vigilante specialization, as long as he meets all other prerequisites. He can not take talents that alter the hidden strike ability.
 

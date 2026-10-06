@@ -12,14 +12,14 @@ This bald humanoid moves with a strange, calculated grace. Complex tattoos glow 
 **Mythic Android Rogue 2 (CR 2/MR 1)**
 XP 600
 N Medium humanoid (android)
-**Init**+3;**Senses** darkvision 60 ft., low-light vision; Perception +6
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; Perception +6
 
 #### Defense
 
-**AC**17,**touch**13,**flat-footed** 14 (+3 armor, +3 Dex, +1 natural)
+**AC** 17, **touch** 13, **flat-footed** 14 (+3 armor, +3 Dex, +1 natural)
 **hp** 23 (2d8+11)
-**Fort**+2,**Ref**+6,**Will** +0; +4 vs. mind-affecting, paralysis, poison, stunning
-**Defensive Abilities**constructed, evasion, fortificationMA (50%);**Immune** disease, emotion-based effects, exhaustion, fatigue, fear, sleep
+**Fort** +2, **Ref** +6, **Will** +0; +4 vs. mind-affecting, paralysis, poison, stunning
+**Defensive Abilities** constructed, evasion, fortificationMA (50%); **Immune** disease, emotion-based effects, exhaustion, fatigue, fear, sleep
 
 #### Offense
 
@@ -30,10 +30,10 @@ N Medium humanoid (android)
 
 #### Statistics
 
-**Str**13,**Dex**17,**Con**14,**Int**14,**Wis**10,**Cha** 6
-**Base Atk**+1;**CMB**+2;**CMD** 15
+**Str** 13, **Dex** 17, **Con** 14, **Int** 14, **Wis** 10, **Cha** 6
+**Base Atk** +1; **CMB** +2; **CMD** 15
 **Feats** Weapon FinesseMF
-**Skills**Acrobatics +8, Bluff +3, Climb +6, Disable Device +10, Escape Artist +7, Knowledge (dungeoneering) +7, Knowledge (engineering) +4, Knowledge (local) +7, Perception +7, Sleight of Hand +7, Stealth +8;**Racial Modifiers** +2 Perception, -4 Sense Motive
+**Skills** Acrobatics +8, Bluff +3, Climb +6, Disable Device +10, Escape Artist +7, Knowledge (dungeoneering) +7, Knowledge (engineering) +4, Knowledge (local) +7, Perception +7, Sleight of Hand +7, Stealth +8; **Racial Modifiers** +2 Perception, -4 Sense Motive
 **Languages** Common, Gypsy, Norse
 **SQ** emotionless, trapfinding +1
 

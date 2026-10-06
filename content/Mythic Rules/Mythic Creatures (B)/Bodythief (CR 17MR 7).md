@@ -13,28 +13,28 @@ This immense plant has jaws inside its central flower and vines that thresh the 
 XP 102,400
 Pathfinder Roleplaying Game Bestiary 4
 LE Gargantuan plant (mythic)
-**Init**+6MF;**Senses** low-light vision; Perception +30
+**Init** +6MF; **Senses** low-light vision; Perception +30
 
 #### Defense
 
-**AC**33,**touch**1,**flat-footed** 33 (–5 Dex, +32 natural, –4 size)
+**AC** 33, **touch** 1, **flat-footed** 33 (–5 Dex, +32 natural, –4 size)
 **hp** 306 (20d8+216)
-**Fort**+20,**Ref**+1,**Will** +11
-**Defensive Abilities**block attacksMA, vexing vines; DR 10/epic;**Immune**acidMA, plant traits, sonic;**Resist** cold 20
+**Fort** +20, **Ref** +1, **Will** +11
+**Defensive Abilities** block attacksMA, vexing vines; DR 10/epic; **Immune** acidMA, plant traits, sonic; **Resist** cold 20
 
 #### Offense
 
 **Speed** 5 ft.
 **Melee** bite +25 (2d8+14 plus grab), 4 tentacles +25 (1d8+21 plus grab)
-**Space**20 ft.;**Reach** 20 ft. (40 ft. with tentacles)
+**Space** 20 ft.; **Reach** 20 ft. (40 ft. with tentacles)
 **Special Attacks** breath weapon (80-ft. line, 12d6 acid damage, Reflex DC 27 half, usable every 1d4 rounds), fast swallowMA, lingering breathMA (4d6 acid, 7 rounds), mythic power (7/day, surge +1d10), powerful blowsMA (tentacle), screamMA, swallow whole (4d6 acid damage plus absorb essence; AC 26, 28 hp), swift transferMA
 
 #### Statistics
 
-**Str**38,**Dex**1,**Con**27,**Int**21,**Wis**16,**Cha** 14
-**Base Atk**+15;**CMB**+33 (+40 disarm, +37 grapple, +38 trip);**CMD** 40 (45 vs. disarm, can’t be tripped)
+**Str** 38, **Dex** 1, **Con** 27, **Int** 21, **Wis** 16, **Cha** 14
+**Base Atk** +15; **CMB** +33 (+40 disarm, +37 grapple, +38 trip); **CMD** 40 (45 vs. disarm, can’t be tripped)
 **Feats** Alertness, Combat Expertise, Greater Disarm, Improved DisarmMF, Improved InitiativeMF, Improved Iron Will, Improved TripMF, Iron Will, MultiattackMF, Skill Focus (Knowledge [nature])
-**Skills**Disguise +27, Knowledge (geography, history, local, nobility) +20, Knowledge (nature) +31, Perception +30, Sense Motive +27;**Racial Modifiers** +5 Disguise
+**Skills** Disguise +27, Knowledge (geography, history, local, nobility) +20, Knowledge (nature) +31, Perception +30, Sense Motive +27; **Racial Modifiers** +5 Disguise
 **Languages** Common, Dwarven, Elven, Orc, Sylvan (can’t speak any language); telepathy 1,000 ft. (with spawn only)
 **SQ** spawn pod paragonMA
 
@@ -63,14 +63,14 @@ LE Gargantuan plant (mythic)
 XP 6,400
 Pod-paragon human fighter 9
 LE Medium plant (augmented humanoid)
-**Init**+5 (+9 with collective consciousness);**Senses** collective consciousness, low-light vision; Perception +3 (+7 with collective consciousness)
+**Init** +5 (+9 with collective consciousness); **Senses** collective consciousness, low-light vision; Perception +3 (+7 with collective consciousness)
 
 #### Defense
 
-**AC**20,**touch**11,**flat-footed** 19 (+7 armor, +1 Dex, +2 shield)
+**AC** 20, **touch** 11, **flat-footed** 19 (+7 armor, +1 Dex, +2 shield)
 **hp** 108 (9d10+54)
-**Fort**+10,**Ref**+4,**Will** +4 (+2 vs. fear)
-**Defensive Abilities**bravery +2;**Immune** acid, plant traits, sonic
+**Fort** +10, **Ref** +4, **Will** +4 (+2 vs. fear)
+**Defensive Abilities** bravery +2; **Immune** acid, plant traits, sonic
 
 #### Offense
 
@@ -81,8 +81,8 @@ LE Medium plant (augmented humanoid)
 
 #### Statistics
 
-**Str**23,**Dex**13,**Con**18,**Int**10,**Wis**12,**Cha** 4
-**Base Atk**+9;**CMB**+15;**CMD** 26
+**Str** 23, **Dex** 13, **Con** 18, **Int** 10, **Wis** 12, **Cha** 4
+**Base Atk** +9; **CMB** +15; **CMD** 26
 **Feats** Alertness, Cleave, Great Cleave, Greater Weapon Focus (longsword), Improved Critical (longsword), Improved Initiative, Power Attack, Toughness, Vital Strike, Weapon Focus (longsword), Weapon Specialization (longsword)
 **Skills** Climb +15, Perception +3 (+7 with collective consciousness), Ride +10, Sense Motive +3, Swim +15
 **Languages** Common; telepathy 100 ft. (bodythieves and spawn only)
@@ -118,7 +118,7 @@ LE Medium plant (augmented humanoid)
 
 **Scream (Ex)** Once per minute, as a standard action, a pod-paragon can emit a high-pitched scream, which startles creatures in a 30-ft. radius spread into dropping their guard. Creatures in the area must make a successful Fortitude save (DC = 10 + 1/2 the pod-paragon’s HD + its Con modifier) or immediately provoke attacks of opportunity from foes that threaten them. This is a sonic attack.
 
-**Ability Scores:** **Str**+4,**Con**+4,**Cha** –4.
+**Ability Scores:** **Str** +4, **Con** +4, **Cha** –4.
 
 **Feats:** All feats are retained, even if the pod-paragon no longer qualifies for their prerequisites.
 

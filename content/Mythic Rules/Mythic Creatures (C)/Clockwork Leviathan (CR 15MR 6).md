@@ -10,29 +10,29 @@ parent: "[[Mythic Creatures (C)]]"
 **Clockwork Leviathan, Mythic (CR 15/MR 6)**
 XP 51,200
 N Huge construct (clockwork, mythic)
-**Init**+15MF;**Senses** darkvision 60 ft., low-light vision; Perception +0
+**Init** +15MF; **Senses** darkvision 60 ft., low-light vision; Perception +0
 
 #### Defense
 
-**AC**35,**touch**15,**flat-footed** 28 (+5 Dex, +2 dodge, +20 natural, –2 size)
+**AC** 35, **touch** 15, **flat-footed** 28 (+5 Dex, +2 dodge, +20 natural, –2 size)
 **hp** 188 (16d10+100)
-**Fort**+5,**Ref**+12,**Will** +5
-**Defensive Abilities**DR 10/adamantine and epic;**Immune** acid, fire, construct traits, immunity to magic (see orichalum alloy)
+**Fort** +5, **Ref** +12, **Will** +5
+**Defensive Abilities** DR 10/adamantine and epic; **Immune** acid, fire, construct traits, immunity to magic (see orichalum alloy)
 **Weaknesses** vulnerable to electricity
 
 #### Offense
 
 **Speed** 30 ft., swim 60 ft.
 **Melee** bite +27 (2d6+13), 2 slam +27 (1d8+13 plus grab)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** breath weapon (60-ft. line, 12d8 fire damage, Reflex DC 18 for half, usable every 1d4 rounds), mythic power (8/day, surge 1d8), swallow whole (2d8+19 slashing damage plus 2d6 fire damage, AC 20, 18 hp)
 
 #### Statistics
 
-**Str**37,**Dex**20,**Con**—,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+16;**CMB**+31 (+35 grapple);**CMD** 48 (54 vs. grapple, can’t be tripped)
+**Str** 37, **Dex** 20, **Con** —, **Int** —, **Wis** 11, **Cha** 1
+**Base Atk** +16; **CMB** +31 (+35 grapple); **CMD** 48 (54 vs. grapple, can’t be tripped)
 **Feats** Extra Mythic PowerMF, Improved InitiativeMF, Lightning ReflexesMF
-**Skills**Stealth +9 (+13 in water), Swim +21;**Racial Modifiers** +12 Stealth (+16 in water)
+**Skills** Stealth +9 (+13 in water), Swim +21; **Racial Modifiers** +12 Stealth (+16 in water)
 **SQ** electrical dampenersMA, fortificationMA, ionic meltdownMA, orichalum alloyMMA, perpetual motionMA, serpentine slitherMA, swift reactions
 
 #### Ecology

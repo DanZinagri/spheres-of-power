@@ -21,11 +21,11 @@ Your faction usually offers other benefits beyond what you have Faction sphere t
 
 **Faction Type:** Whatever your faction, it generally falls into one of the following categories. If a faction falls into multiple types, choose one to represent the elements of the faction that you have the most direct access to or work with your GM to mix and match elements to make a new faction type. The faction type determines what kind of resources it has available, although you can only requisition resources specifically granted by your Faction sphere package or talents.
 
-- **Arcane Faction: Equipment:** Spell foci, material components, texts, wizard spellbooks, alchemical tools or weapons;**Mundane Service:** sage, arcane trainer;**Spellcasting Service:** Sorcerer/wizard spell list (choose three schools of magic that are outside the faction’s focus of study; they aren’t generally available)
-- **Martial Faction: Equipment:** Weapons and armor, mounts, training texts, magus spellbooks (Pathfinder Roleplaying Game: Ultimate Magic), alchemical remedies or weapons, formula books;**Mundane Service:** coach cab, combat trainer, messenger, ship’s passage;**Spellcasting Service:** Adept, magus, or shaman spell list (Pathfinder Roleplaying Game: Advanced Class Guide)
-- **Religious Faction: Equipment:** Holy or unholy symbols, weapons and armor of traditional styles, texts and tools related to the faith and its attributes, the deity’s favored animal, alchemical remedies or weapons;**Mundane Service:** sage, religious trainer, healing skills;**Spellcasting Service:** Cleric spell list
-- **Skilled Faction: Equipment:** Tools used for the faction’s favored skills such as disguise kits for spies or artisan’s tools for a crafter’s guild, alchemist formula books (Pathfinder Roleplaying Game: Advanced Class Guide), anything manufactured by the guild, animals used by the guild, any alchemical item;**Mundane Service:** artist, coach cab, entertainer, messenger, ship’s passage, skilled trainer, medical services;**Spellcasting Service:** Bard spell list
-- **Wilderness Faction:** **Equipment:** Adventuring and travel gear, work animals, alchemical remedies and tools;**Mundane Service:** animal trainer, coach cab, messenger, ship’s passage, wilderness trainer;**Spellcasting Service:** Druid spell list
+- **Arcane Faction: Equipment:** Spell foci, material components, texts, wizard spellbooks, alchemical tools or weapons; **Mundane Service:** sage, arcane trainer; **Spellcasting Service:** Sorcerer/wizard spell list (choose three schools of magic that are outside the faction’s focus of study; they aren’t generally available)
+- **Martial Faction: Equipment:** Weapons and armor, mounts, training texts, magus spellbooks (Pathfinder Roleplaying Game: Ultimate Magic), alchemical remedies or weapons, formula books; **Mundane Service:** coach cab, combat trainer, messenger, ship’s passage; **Spellcasting Service:** Adept, magus, or shaman spell list (Pathfinder Roleplaying Game: Advanced Class Guide)
+- **Religious Faction: Equipment:** Holy or unholy symbols, weapons and armor of traditional styles, texts and tools related to the faith and its attributes, the deity’s favored animal, alchemical remedies or weapons; **Mundane Service:** sage, religious trainer, healing skills; **Spellcasting Service:** Cleric spell list
+- **Skilled Faction: Equipment:** Tools used for the faction’s favored skills such as disguise kits for spies or artisan’s tools for a crafter’s guild, alchemist formula books (Pathfinder Roleplaying Game: Advanced Class Guide), anything manufactured by the guild, animals used by the guild, any alchemical item; **Mundane Service:** artist, coach cab, entertainer, messenger, ship’s passage, skilled trainer, medical services; **Spellcasting Service:** Bard spell list
+- **Wilderness Faction:** **Equipment:** Adventuring and travel gear, work animals, alchemical remedies and tools; **Mundane Service:** animal trainer, coach cab, messenger, ship’s passage, wilderness trainer; **Spellcasting Service:** Druid spell list
 
 ## Requisition (Ex)
 
@@ -116,14 +116,14 @@ You know how to manage people and spot talent.
 - **Retainer (1+ Authorizations):** A retainer of a profession you choose assists you. Your variety of choices can be expanded by taking talents with the (retainer) tag. The authorization cost is determined by the retainer’s profession and role. You can only have one combatant retainer requisitioned at a time. You initially have access to the following retainer professions:
 
 **Courier**
-**Role 1 Authorization**deliver local messages, make purchases locally, haggle, and know about the local area (noncombatant),**2 Authorizations**deliver messages or items overland (noncombatant);**Skills** (2 primary, 3 secondary) Acrobatics, Appraise, Diplomacy, Knowledge (local), Profession (porter), Sense Motive;
+**Role 1 Authorization** deliver local messages, make purchases locally, haggle, and know about the local area (noncombatant), **2 Authorizations** deliver messages or items overland (noncombatant); **Skills** (2 primary, 3 secondary) Acrobatics, Appraise, Diplomacy, Knowledge (local), Profession (porter), Sense Motive;
 **Trade Tradition** adroit granting Communication;
-**Ability Scores**Str 10, Dex 10, Con 10, Int 14, Wis 13, Cha 12;**Hit Dice**d8 (5 hp per level);**Base Attack Bonus**medium;**Saves**Fort (poor), Ref (good), Will (poor);**Special**Couriers may take social talents from the vigilante class (Pathfinder Roleplaying Game: Ultimate Intrigue) in place of utility talents, and you need not have the social talents. They can requisition for you and take only 10 minutes to do so.** Equipment** parcel box with a good lock
+**Ability Scores** Str 10, Dex 10, Con 10, Int 14, Wis 13, Cha 12; **Hit Dice** d8 (5 hp per level); **Base Attack Bonus** medium; **Saves** Fort (poor), Ref (good), Will (poor); **Special** Couriers may take social talents from the vigilante class (Pathfinder Roleplaying Game: Ultimate Intrigue) in place of utility talents, and you need not have the social talents. They can requisition for you and take only 10 minutes to do so. **Equipment** parcel box with a good lock
 
 **Expert**
-**Role 1 Authorization**provide a skilled mundane service such as crafting or consultation (noncombatant);**Skills** (2 primary, 6 secondary) Appraise, Artistry (chosen individually), Craft (chosen individually), Handle Animal, Heal, Knowledge (chosen individually), Linguistics, Lore (chosen individually), Perform (chosen individually), Profession (chosen individually), or Sleight of Hand;
+**Role 1 Authorization** provide a skilled mundane service such as crafting or consultation (noncombatant); **Skills** (2 primary, 6 secondary) Appraise, Artistry (chosen individually), Craft (chosen individually), Handle Animal, Heal, Knowledge (chosen individually), Linguistics, Lore (chosen individually), Perform (chosen individually), Profession (chosen individually), or Sleight of Hand;
 **Trade Tradition** adroit granting one of Artifice, Herbalism, Performance, Study, or Survivalism plus a bonus talent from that sphere;
-**Ability Scores**15 in one, 10 in each of the rest;**Hit Dice**d8 (5 hp per level);**Base Attack Bonus**medium;**Saves**Fort (poor), Ref (poor), Will (good)**Equipment** Any tools to use their skills worth no more than your temporary resource budget
+**Ability Scores** 15 in one, 10 in each of the rest; **Hit Dice** d8 (5 hp per level); **Base Attack Bonus** medium; **Saves** Fort (poor), Ref (poor), Will (good) **Equipment** Any tools to use their skills worth no more than your temporary resource budget
 
 **Role:** A retainer's role indicates what they expect to do for you. Retainers generally require a successful Diplomacy check to persuade them to take on risky tasks that are not listed for their role. Dangerous or illegal work punishable by imprisonment has the +15 Diplomacy DC increase for the risk of punishment.
 
@@ -344,8 +344,8 @@ With GM permission, you can instead use the statistics (and for 2+ authorization
 If you have at least 4 ranks in the associated skill, fighter or ranger are also options using your usual Hit Dice maximum, and the maximum increases by 1 for aristocrats and warriors.
 
 **Warden**
-**Role 1 Authorization**Patrol somewhere not expecting trouble, discourage rowdy people in a public place, or find game (noncombatant with listed equipment),**2 Authorizations (requires (supply) package)**Defend a secure location, hunt specific game of a lower challenge rating (combatant with NPC equipment),**3 Authorizations (requires (supply) package)**Any other reasonably hazardous task (combatant with NPC equipment); Skills (2 primary, 3 secondary) Climb, Craft (traps), Handle Animal, Intimidate, Perception, Profession (hunter or trapper), Ride, Stealth, Survival, Swim;**Trade Tradition** adroit granting two of Herbalism, Navigation, and Survivalism;
-**Ability Scores**Str 11, Dex 15, Con 10, Int 9, Wis 12, Cha 8;**Hit Dice**d10 (6 hp per level);**Base Attack Bonus**good;**Saves**Fort (good), Ref (poor), Will (poor);**Special**The warden takes no penalty for dealing nonlethal damage with lethal weapons and can gain investigator or slayer talents (Pathfinder Roleplaying Game Advanced Class Guide) instead of feats.** Equipment** a javelin, a spear, a net, a sling and 10 rocks, either leather or hide armor
+**Role 1 Authorization** Patrol somewhere not expecting trouble, discourage rowdy people in a public place, or find game (noncombatant with listed equipment), **2 Authorizations (requires (supply) package)** Defend a secure location, hunt specific game of a lower challenge rating (combatant with NPC equipment), **3 Authorizations (requires (supply) package)** Any other reasonably hazardous task (combatant with NPC equipment); Skills (2 primary, 3 secondary) Climb, Craft (traps), Handle Animal, Intimidate, Perception, Profession (hunter or trapper), Ride, Stealth, Survival, Swim; **Trade Tradition** adroit granting two of Herbalism, Navigation, and Survivalism;
+**Ability Scores** Str 11, Dex 15, Con 10, Int 9, Wis 12, Cha 8; **Hit Dice** d10 (6 hp per level); **Base Attack Bonus** good; **Saves** Fort (good), Ref (poor), Will (poor); **Special** The warden takes no penalty for dealing nonlethal damage with lethal weapons and can gain investigator or slayer talents (Pathfinder Roleplaying Game Advanced Class Guide) instead of feats. **Equipment** a javelin, a spear, a net, a sling and 10 rocks, either leather or hide armor
 
 #### Dabbler Retainer (retainer) [LotS]
 
@@ -357,18 +357,18 @@ You can gain this talent a second time if you have at least 5 ranks in the assoc
 
 **Academician**
 **Role** 1 Authorization Provide advice on magical matters, identify magic items, cast spells (noncombatant)
-**Skills**(2 primary, 2 secondary) Knowledge (arcana), Knowledge (planes), Knowledge (religion), Linguistics, Spellcraft;**Skill Spheres** Spelhacking or Study;
-**Ability Scores**Str 8, Dex 10, Con 10, Int 15, Wis 12, Cha 11; Hit Dice d6 (4 hp per level);**Base Attack Bonus**poor;**Saves** Fort (poor), Ref (poor), Will (good)
+**Skills** (2 primary, 2 secondary) Knowledge (arcana), Knowledge (planes), Knowledge (religion), Linguistics, Spellcraft; **Skill Spheres** Spelhacking or Study;
+**Ability Scores** Str 8, Dex 10, Con 10, Int 15, Wis 12, Cha 11; Hit Dice d6 (4 hp per level); **Base Attack Bonus** poor; **Saves** Fort (poor), Ref (poor), Will (good)
 
 **Magician**
 **Role** 1 Authorization Perform with magic, identify magic items, cast spells (noncombatant)
-**Skills**(2 primary, 2 secondary) Bluff, Knowledge (arcana), Knowledge (planes), Perform, Spellcraft, Use Magic Device;**Skill Spheres** Bluster, Performance, or Spellhacking;
-**Ability Scores**Str 8, Dex 10, Con 10, Int 11, Wis 13, Cha 15; Hit Dice d6 (4 hp per level);**Base Attack Bonus**poor;**Saves** Fort (poor), Ref (poor), Will (good)
+**Skills** (2 primary, 2 secondary) Bluff, Knowledge (arcana), Knowledge (planes), Perform, Spellcraft, Use Magic Device; **Skill Spheres** Bluster, Performance, or Spellhacking;
+**Ability Scores** Str 8, Dex 10, Con 10, Int 11, Wis 13, Cha 15; Hit Dice d6 (4 hp per level); **Base Attack Bonus** poor; **Saves** Fort (poor), Ref (poor), Will (good)
 
 **Priest**
 **Role** 1 Authorization Provide advice on religious matters, perform ceremonies, identify magic items, cast spells (noncombatant);
-**Skills**(2 primary, 2 secondary) Heal, Knowledge (arcana), Knowledge (planes), Knowledge (religion), Sense Motive, Spellcraft;**Skill Spheres** Communication or Herbalism;
-**Ability Scores**Str 10, Dex 8, Con 10, Int 11, Wis 15, Cha 12; Hit Dice d6 (4 hp per level);**Base Attack Bonus**poor;**Saves** Fort (poor), Ref (poor), Will (good)
+**Skills** (2 primary, 2 secondary) Heal, Knowledge (arcana), Knowledge (planes), Knowledge (religion), Sense Motive, Spellcraft; **Skill Spheres** Communication or Herbalism;
+**Ability Scores** Str 10, Dex 8, Con 10, Int 11, Wis 15, Cha 12; Hit Dice d6 (4 hp per level); **Base Attack Bonus** poor; **Saves** Fort (poor), Ref (poor), Will (good)
 Equipment Any focus or spell components pouch required by casting tradition worth no more than your temporary resource maximum
 
 #### Faction Trainers (retainer)
@@ -386,16 +386,16 @@ You can requisition a spy, diplomat, con artist, interrogator, scout, guild thie
 You can requisition the stolen item by spending authorizations (multiplying the appropriate budget by the number of authorizations you spend), but you must turn it over to the faction to regain the authorizations (or use it up, if a temporary item).
 
 **Sneak**
-**Role 1 Authorization**Survey places the public is welcome for security vulnerabilities, keep watch anywhere they can reliably hide, tail a person in a public place, create a diversion in a public place, commit petty crimes you will bail them out of, or undertake other reasonable inconveniences (noncombatant),**2 Authorizations** Approach enemies to spy upon or sneak past them, travel, pick pockets in a lowrisk public place, commit substantial property crimes you will bail them out of, or creating a diversion in a private place (noncombatant);
+**Role 1 Authorization** Survey places the public is welcome for security vulnerabilities, keep watch anywhere they can reliably hide, tail a person in a public place, create a diversion in a public place, commit petty crimes you will bail them out of, or undertake other reasonable inconveniences (noncombatant), **2 Authorizations** Approach enemies to spy upon or sneak past them, travel, pick pockets in a lowrisk public place, commit substantial property crimes you will bail them out of, or creating a diversion in a private place (noncombatant);
 **Skills** (4 primary, 4 secondary) Acrobatics, Bluff, Climb, Disable Device, Escape Artist, Perception, Sleight of Hand, Stealth;
 **Trade Tradition** adroit Tracer;
-**Ability Scores**Str 8, Dex 15, Con 10, Int 11, Wis 10, Cha 12;**Hit Dice**d8 (5 hp per level);**Base Attack Bonus**medium;**Saves**Fort (poor), Ref (good), Will (poor);**Special**The sneak can gain rogue talents instead of feats.** Equipment** thieves’ tools
+**Ability Scores** Str 8, Dex 15, Con 10, Int 11, Wis 10, Cha 12; **Hit Dice** d8 (5 hp per level); **Base Attack Bonus** medium; **Saves** Fort (poor), Ref (good), Will (poor); **Special** The sneak can gain rogue talents instead of feats. **Equipment** thieves’ tools
 
 **Trickster**
-**Role 1 Authorization**Survey places the public is welcome for security vulnerabilities, keep watch anywhere they can blend in, tail a person in a low-risk public place, create a diversion in a safe public place, commit petty crimes you’ll bail them out of, travel, or undertake other reasonable inconveniences (noncombatant),**2 Authorizations** Approach enemies to spy upon or bluff past them, smuggle an item past a checkpoint, commit fraud you’ll bail them out of, or create a diversion in a private place they can blend in (noncombatant);
+**Role 1 Authorization** Survey places the public is welcome for security vulnerabilities, keep watch anywhere they can blend in, tail a person in a low-risk public place, create a diversion in a safe public place, commit petty crimes you’ll bail them out of, travel, or undertake other reasonable inconveniences (noncombatant), **2 Authorizations** Approach enemies to spy upon or bluff past them, smuggle an item past a checkpoint, commit fraud you’ll bail them out of, or create a diversion in a private place they can blend in (noncombatant);
 **Skills** (3 primary, 4 secondary) Bluff, Diplomacy, Disguise, Intimidate, Knowledge (local), Knowledge (nobility), Linguistics, Perception, Perform, Sense Motive, Sleight of Hand;
 **Trade Tradition** adroit granting two of Bluster, Subterfuge, and Investigation;
-**Ability Scores**Str 10, Dex 10, Con 8, Int 12, Wis 11, Cha 15;**Hit Dice**d8 (4 hp per level);**Base Attack Bonus**medium;**Saves**Fort (poor), Ref (good), Will (poor);**Special**The trickster can gain vigilante social talents (Pathfinder Roleplaying Game: Ultimate Intrigue) instead of shared utility talents, even social talents you do not possess.** Equipment** disguise kit, cards or dice, entertainer’s outfit
+**Ability Scores** Str 10, Dex 10, Con 8, Int 12, Wis 11, Cha 15; **Hit Dice** d8 (4 hp per level); **Base Attack Bonus** medium; **Saves** Fort (poor), Ref (good), Will (poor); **Special** The trickster can gain vigilante social talents (Pathfinder Roleplaying Game: Ultimate Intrigue) instead of shared utility talents, even social talents you do not possess. **Equipment** disguise kit, cards or dice, entertainer’s outfit
 
 #### Specialist Liaison (retainer) [utility]
 
@@ -422,10 +422,10 @@ You also gain the following requisition option.
 - **Transportation (1 Authorization):** Your faction provides a locally common vehicle for you and up to nine allies as a temporary resource if passage on it (including any tolls or other cost for your route) is within your budget. Your destination must be a landmark relevant to your faction's interests (for example, a druidic dolmen circle would be significant to a wilderness faction) or a settlement. If your destination is more than 1 day away and not a place where you could requisition, your transportation takes 8 hours to prepare for departure. Unless you go to another place where you could also requisition, you do not regain the authorization you spent until the transport returns to such a place. You also receive necessary paperwork like visas; hard-to-get ones might be forged (Linguistics DC to detect equals 20 + your ranks in your associated skill).
 
 **Driver**
-**Role** **1 Authorization**get you where you intend to go via a reasonably safe route, including transporting you away from unexpected danger as quickly as possible (noncombatant),**2 Authorizations** retrieve you and get you away from danger as quickly as possible (noncombatant);
+**Role** **1 Authorization** get you where you intend to go via a reasonably safe route, including transporting you away from unexpected danger as quickly as possible (noncombatant), **2 Authorizations** retrieve you and get you away from danger as quickly as possible (noncombatant);
 **Skills** (3 primary, 3 secondary) Craft (carpentry), Craft (ships), Handle Animal, Knowledge (geography), Knowledge (nature), Profession (driver), Profession (pilot), Profession (sailor), Ride;
 **Trade Tradition** adroit granting Navigation;
-**Ability Scores**15 in one, 10 in each of the rest;**Hit Dice**d8 (5 hp per level);**Base Attack Bonus**medium;**Saves**Fort (poor), Ref (poor), Will (good);**Special**The driver’s group’s overland movement is never slowed by more than half, regardless of terrain.** Equipment** Vehicle and any propulsion animals together worth up to your permanent resource budget times the number of authorizations spent.
+**Ability Scores** 15 in one, 10 in each of the rest; **Hit Dice** d8 (5 hp per level); **Base Attack Bonus** medium; **Saves** Fort (poor), Ref (poor), Will (good); **Special** The driver’s group’s overland movement is never slowed by more than half, regardless of terrain. **Equipment** Vehicle and any propulsion animals together worth up to your permanent resource budget times the number of authorizations spent.
 
 If you have at least 15 ranks in the associated skill and have the (retainer) package, you also gain the following option.
 
@@ -529,7 +529,7 @@ Your item requisition can be for any wondrous item available in your faction’s
 Your faction secures the service of an outsider to be your retainer through planar binding, planar ally, or similar magic.
 
 **Spirit Ally**
-**Role 1 Authorization**noncombatant,**3 Authorizations**defend an area (combatant),**5 Authorizations**any task that does not go against the creature’s nature or betray the faction (combatant);**Statistics** As an outsider from the summon monster list of a level equal to half the number of ranks in the associated skill you possess. When you permanently gain this talent, you can work with your GM to replace monsters on the list with different monsters of similar challenge rating as appropriate for your faction (for example, many religions allow clerics to replace monsters with the appropriate servitors of the religion’s deity).
+**Role 1 Authorization** noncombatant, **3 Authorizations** defend an area (combatant), **5 Authorizations** any task that does not go against the creature’s nature or betray the faction (combatant); **Statistics** As an outsider from the summon monster list of a level equal to half the number of ranks in the associated skill you possess. When you permanently gain this talent, you can work with your GM to replace monsters on the list with different monsters of similar challenge rating as appropriate for your faction (for example, many religions allow clerics to replace monsters with the appropriate servitors of the religion’s deity).
 
 #### Fey Retainer (retainer)
 
@@ -538,7 +538,7 @@ Your faction secures the service of an outsider to be your retainer through plan
 Your faction secures the service of a creature from the fey realm conjured through entice fey (Pathfinder Roleplaying Game: Ultimate Intrigue) or similar magic. Your faction retainer can be a conjured fey or giant.
 
 **Natural Ally**
-**Role 1 Authorization**noncombatant,**3 Authorizations**defend an area (combatant),**5 Authorizations**any task that does not go against the creature’s nature or betray the faction (combatant);**Statistics** As a fey or giant from the summon nature’s ally list of a level equal to half your ranks in the associated skill. When you permanently gain this talent, you can work with your GM to replace monsters on the list with different monsters of similar challenge rating as appropriate for your faction.
+**Role 1 Authorization** noncombatant, **3 Authorizations** defend an area (combatant), **5 Authorizations** any task that does not go against the creature’s nature or betray the faction (combatant); **Statistics** As a fey or giant from the summon nature’s ally list of a level equal to half your ranks in the associated skill. When you permanently gain this talent, you can work with your GM to replace monsters on the list with different monsters of similar challenge rating as appropriate for your faction.
 
 #### Inspector Retainer (retainer, supply)
 
@@ -547,8 +547,8 @@ Your faction secures the service of a creature from the fey realm conjured throu
 You can requisition an experienced detective, spy, or other broadly-skilled character as your faction retainer.
 
 **Inspector**
-**Role 1 Authorization**Approach enemies in disguise or hiding to spy upon or talk to them, question a prisoner that you are unlikely to be punished for detaining, gathering information where they must keep their faction affiliation a secret, find or remove evidence in a secure area that you have legitimate access to or are unlikely to be punished for trespassing on, quick infiltrations (noncombatant without equipment);**2 Authorizations**Prolonged infiltrations, sneak past alert enemies, rescue a hostage, finding or removing evidence at a guarded crime scene (noncombatant with equipment),**3 Authorizations** Track down someone, trick a foe into an ambush (combatant with equipment);
-**Skills**(5 primary, 5 secondary) Acrobatics, Bluff, Climb, Diplomacy, Disable Device, Disguise, Escape Artist, Intimidate, Knowledge (chosen individually), Linguistics, Perception, Sense Motive, Sleight of Hand, Stealth, Survival;**Statistics** As an NPC rogue or shadowdancer of character level up to your retainer Hit Dice maximum.
+**Role 1 Authorization** Approach enemies in disguise or hiding to spy upon or talk to them, question a prisoner that you are unlikely to be punished for detaining, gathering information where they must keep their faction affiliation a secret, find or remove evidence in a secure area that you have legitimate access to or are unlikely to be punished for trespassing on, quick infiltrations (noncombatant without equipment); **2 Authorizations** Prolonged infiltrations, sneak past alert enemies, rescue a hostage, finding or removing evidence at a guarded crime scene (noncombatant with equipment), **3 Authorizations** Track down someone, trick a foe into an ambush (combatant with equipment);
+**Skills** (5 primary, 5 secondary) Acrobatics, Bluff, Climb, Diplomacy, Disable Device, Disguise, Escape Artist, Intimidate, Knowledge (chosen individually), Linguistics, Perception, Sense Motive, Sleight of Hand, Stealth, Survival; **Statistics** As an NPC rogue or shadowdancer of character level up to your retainer Hit Dice maximum.
 
 #### Magical Mercenary Retainer (retainer, supply)
 
@@ -557,8 +557,8 @@ You can requisition an experienced detective, spy, or other broadly-skilled char
 You can requisition a war wizard or other magical mercenary as your retainer.
 
 **Magical Mercenary**
-**Role 1 Authorization**Cast up to to one spell per rank in the associated skill within 4 hours’ travel, avoiding hostile strongholds like dungeons (noncombatant without equipment),**2 Authorizations**Defend a defensible position or travel far overland to cast spells while avoiding dungeons or other hostile strongholds (combatant with equipment),**3 Authorizations** Fight in any other combat (without likely death or betraying the faction) (combatant with equipment);
-**Skills**(1 primary, 3 secondary) Knowledge (arcana, nature, planes, or religion, chosen individually), Spellcraft;**Statistics** The mercenary uses standard statistics and equipment for an NPC of a class suitable to provide the faction’s spellcasting services, with character level up to your retainer Hit Dice maximum.
+**Role 1 Authorization** Cast up to to one spell per rank in the associated skill within 4 hours’ travel, avoiding hostile strongholds like dungeons (noncombatant without equipment), **2 Authorizations** Defend a defensible position or travel far overland to cast spells while avoiding dungeons or other hostile strongholds (combatant with equipment), **3 Authorizations** Fight in any other combat (without likely death or betraying the faction) (combatant with equipment);
+**Skills** (1 primary, 3 secondary) Knowledge (arcana, nature, planes, or religion, chosen individually), Spellcraft; **Statistics** The mercenary uses standard statistics and equipment for an NPC of a class suitable to provide the faction’s spellcasting services, with character level up to your retainer Hit Dice maximum.
 
 #### Remote Requisition [utility] (Sp)
 
@@ -587,8 +587,8 @@ You can take this talent a second time. If you do, having two retainers does not
 You can choose an assassin, bounty hunter, or other skilled combatant as your faction retainer.
 
 **Skilled Mercenary**
-**Role 2 Authorizations**Defend a defensible position (combatant with equipment),**3 Authorizations** Fight in any other combat (without likely death or betraying the faction) (combatant with equipment);
-**Skills**(2 primary, 6 secondary) Acrobatics, Bluff, Climb, Diplomacy, Disable Device, Escape Artist, Heal, Intimidate, Knowledge (local or nature, chosen individually), Perception, Sense Motive, Sleight of Hand, Stealth, Survival, Swim;**Statistics** The mercenary otherwise uses standard statistics and equipment for an NPC assassin, bard, ninja, or rogue with character level up to your retainer Hit Dice maximum.
+**Role 2 Authorizations** Defend a defensible position (combatant with equipment), **3 Authorizations** Fight in any other combat (without likely death or betraying the faction) (combatant with equipment);
+**Skills** (2 primary, 6 secondary) Acrobatics, Bluff, Climb, Diplomacy, Disable Device, Escape Artist, Heal, Intimidate, Knowledge (local or nature, chosen individually), Perception, Sense Motive, Sleight of Hand, Stealth, Survival, Swim; **Statistics** The mercenary otherwise uses standard statistics and equipment for an NPC assassin, bard, ninja, or rogue with character level up to your retainer Hit Dice maximum.
 
 #### Survivalist Retainer (retainer, supply)
 
@@ -597,8 +597,8 @@ You can choose an assassin, bounty hunter, or other skilled combatant as your fa
 You can choose an explorer, skilled hunter, priest of nature, herbalist, or other wilderness traveler as your faction retainer.
 
 **Survivalist**
-**Role 2 Authorizations**Guide you and cooperate with you against wilderness hazards and enemies while traveling overland or transiting through settlements (combatant with equipment),**3 Authorizations** Enter dungeons, monster lairs, or other strongholds alongside you (combatant with equipment);
-**Skills**(2 primary, 4 secondary) Climb, Handle Animal, Heal, Knowledge (geography), Knowledge (nature), Profession (herbalist), Ride, Survival, Swim;**Statistics** As an NPC barbarian, druid, hunter, or ranger with character level up to your retainer Hit Dice maximum.
+**Role 2 Authorizations** Guide you and cooperate with you against wilderness hazards and enemies while traveling overland or transiting through settlements (combatant with equipment), **3 Authorizations** Enter dungeons, monster lairs, or other strongholds alongside you (combatant with equipment);
+**Skills** (2 primary, 4 secondary) Climb, Handle Animal, Heal, Knowledge (geography), Knowledge (nature), Profession (herbalist), Ride, Survival, Swim; **Statistics** As an NPC barbarian, druid, hunter, or ranger with character level up to your retainer Hit Dice maximum.
 
 ---
 

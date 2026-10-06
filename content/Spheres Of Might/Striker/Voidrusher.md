@@ -44,7 +44,7 @@ The voidrusher loses this bonus when they wear medium or heavy armor, use a shie
 
 This replaces AC bonus.
 
-**Note**: This ability is treated as the striker’s AC Bonus class feature. The voidrusher may take the armored striker striker art to wear medium or heavy armor and benefit from this class feature.
+**Note:** This ability is treated as the striker’s AC Bonus class feature. The voidrusher may take the armored striker striker art to wear medium or heavy armor and benefit from this class feature.
 
 ## Shadow of the Void (Su)
 
@@ -58,11 +58,11 @@ The voidrusher gains the following tension techniques:
 
 #### X Tension
 
-**Minor Breach**: As a standard action, the voidrusher may initiate an umbral tension technique (see below; excluding communio) that would make an attack roll. Treat this umbral tension technique as a special attack action. If the umbral tension technique would affect multiple creatures, the voidrusher chooses one of those creatures to be treated as the primary target for any effects the voidrusher could use on an attack action (similar to using a scatter weapon with an attack action). The umbral tension technique is otherwise treated as a normal attack against other targets. This tension technique costs an amount of tension equal to two-times the umbral tension technique’s umbral tension cost.
+**Minor Breach:** As a standard action, the voidrusher may initiate an umbral tension technique (see below; excluding communio) that would make an attack roll. Treat this umbral tension technique as a special attack action. If the umbral tension technique would affect multiple creatures, the voidrusher chooses one of those creatures to be treated as the primary target for any effects the voidrusher could use on an attack action (similar to using a scatter weapon with an attack action). The umbral tension technique is otherwise treated as a normal attack against other targets. This tension technique costs an amount of tension equal to two-times the umbral tension technique’s umbral tension cost.
 
 #### 2 Tension
 
-**Umbral Stalk**: The avatar briefly manifests to strike the voidrusher’s foe. As a swift action, the avatar performs a single melee attack; this attack is made with a -2 penalty.
+**Umbral Stalk:** The avatar briefly manifests to strike the voidrusher’s foe. As a swift action, the avatar performs a single melee attack; this attack is made with a -2 penalty.
 
 This replaces the rapid pummel tension technique. The umbral stalk tension technique counts as the rapid pummel tension technique for the purposes of prerequisites and striker arts.
 
@@ -70,7 +70,7 @@ This replaces the rapid pummel tension technique. The umbral stalk tension techn
 
 Through the connection to their bonded avatar, a voidrusher becomes able to coalesce the power they harvest through strife. At 1st level, the voidrusher, in addition to being able to gain tension, can gain a unique form of tension called umbral tension. Much like a striker’s normal tension, the voidrusher begins the day with no umbral tension, but can gain umbral tension the following way:
 
-**Tempered Soul**: At the start of the voidrusher’s turn, the voidrusher gains an amount of umbral tension equal to 1/2 the tension they spent since the start of their previous turn (rounded down).
+**Tempered Soul:** At the start of the voidrusher’s turn, the voidrusher gains an amount of umbral tension equal to 1/2 the tension they spent since the start of their previous turn (rounded down).
 
 The voidrusher’s umbral tension goes up and down throughout the day, but usually cannot go higher than 1/2 their maximum tension (rounded up). When the voidrusher would lose their tension for being out of combat, the voidrusher also loses any umbral tension they possess.
 
@@ -94,24 +94,24 @@ Umbral tension techniques are performed with any melee weapon the voidrusher is 
 
 #### Umbral Tension 0
 
-- **Ingress / Egress (0 umbral tension)**: The voidrusher teleports up to their base land speed + 10 feet per 4 voidrusher levels. This movement must either be directly towards or away from a creature. This is a teleportation effect.
-- **Void Reaping (0 umbral tension)**: The voidrusher makes a single attack which deals additional damage equal to the voidrusher’s casting ability modifier (minimum 0; maximum equal to the voidrusher’s level).
-- **Waxing Slice (0 umbral tension)**: The voidrusher makes a single attack. If this attack is successful, total the damage from all attacks the voidrusher makes this round against the struck target before applying damage reduction or hardness.
+- **Ingress / Egress (0 umbral tension):** The voidrusher teleports up to their base land speed + 10 feet per 4 voidrusher levels. This movement must either be directly towards or away from a creature. This is a teleportation effect.
+- **Void Reaping (0 umbral tension):** The voidrusher makes a single attack which deals additional damage equal to the voidrusher’s casting ability modifier (minimum 0; maximum equal to the voidrusher’s level).
+- **Waxing Slice (0 umbral tension):** The voidrusher makes a single attack. If this attack is successful, total the damage from all attacks the voidrusher makes this round against the struck target before applying damage reduction or hardness.
 
 #### Umbral Tension 1
 
-- **Regress (1 umbral tension)**: The voidrusher may teleport any distance to return to a space where they used the ingress / egress umbral tension technique during this enshroud. The voidrusher may optionally use this umbral tension technique as an immediate action; if the regress umbral tension technique is used to avoid an attack or area effect, the voidrusher gains evasion and a dodge bonus to AC and Reflex saves equal to half the voidrusher’s level (minimum 1). This is a teleportation effect.
-- **Grim Reaping (1 umbral tension)**: Create a cone whose size is equal to the voidrusher’s reach +10 feet (minimum 15 feet) originating from the voidrusher’s space. Attack all creatures inside this cone. Any creature struck by this attack must make a Reflex save or be pulled towards the voidrusher into the nearest unoccupied space inside of the cone (or stopping if there are no unoccupied spaces). The size of this cone increases by +5 feet for every 4 voidrusher levels they possess.
-- **Plentiful Harvest (1 umbral tension)**: Create a line whose size is equal to the voidrusher’s reach +5 feet (minimum 10 feet). Attack all creatures in this line, dealing +1d6 additional damage + 1d6 per 4 voidrusher levels. The size of this line increases by +5 feet for every 2 voidrusher levels they possess. The voidrusher may only use the plentiful harvest umbral tension technique once per round. If the voidrusher uses the plentiful harvest umbral tension technique when enshrouded, the voidrusher gains 1 additional umbral tension from the tempered soul ability at the start of their next turn.
-- **Whorl of Death (1 umbral tension)**: Attack all creatures within the voidrusher’s reach. The voidrusher can force any struck creature to move 5 feet in any direction (of the voidrusher’s choice) as long as this would not cause them to end their movement in dangerous terrain (provided they were not already in that dangerous terrain). The voidrusher’s effective reach when using this umbral tension technique increases by +5 feet for every 4 voidrusher levels they possess.
+- **Regress (1 umbral tension):** The voidrusher may teleport any distance to return to a space where they used the ingress / egress umbral tension technique during this enshroud. The voidrusher may optionally use this umbral tension technique as an immediate action; if the regress umbral tension technique is used to avoid an attack or area effect, the voidrusher gains evasion and a dodge bonus to AC and Reflex saves equal to half the voidrusher’s level (minimum 1). This is a teleportation effect.
+- **Grim Reaping (1 umbral tension):** Create a cone whose size is equal to the voidrusher’s reach +10 feet (minimum 15 feet) originating from the voidrusher’s space. Attack all creatures inside this cone. Any creature struck by this attack must make a Reflex save or be pulled towards the voidrusher into the nearest unoccupied space inside of the cone (or stopping if there are no unoccupied spaces). The size of this cone increases by +5 feet for every 4 voidrusher levels they possess.
+- **Plentiful Harvest (1 umbral tension):** Create a line whose size is equal to the voidrusher’s reach +5 feet (minimum 10 feet). Attack all creatures in this line, dealing +1d6 additional damage + 1d6 per 4 voidrusher levels. The size of this line increases by +5 feet for every 2 voidrusher levels they possess. The voidrusher may only use the plentiful harvest umbral tension technique once per round. If the voidrusher uses the plentiful harvest umbral tension technique when enshrouded, the voidrusher gains 1 additional umbral tension from the tempered soul ability at the start of their next turn.
+- **Whorl of Death (1 umbral tension):** Attack all creatures within the voidrusher’s reach. The voidrusher can force any struck creature to move 5 feet in any direction (of the voidrusher’s choice) as long as this would not cause them to end their movement in dangerous terrain (provided they were not already in that dangerous terrain). The voidrusher’s effective reach when using this umbral tension technique increases by +5 feet for every 4 voidrusher levels they possess.
 
 #### Umbral Tension 2
 
-- **Cross Reaping (2 umbral tension)**: Create two 15-ft. lines which are perpendicular to each other and intersect at their centers (like a cross) and center this cross within the voidrusher’s reach. Attack all creatures inside this cross, dealing +1d6 additional damage + 1d6 per 2 voidrusher levels. For every 4 voidrusher levels, increase the length of each line by +10 feet. The voidrusher may only use the cross reaping umbral tension technique once per round.
+- **Cross Reaping (2 umbral tension):** Create two 15-ft. lines which are perpendicular to each other and intersect at their centers (like a cross) and center this cross within the voidrusher’s reach. Attack all creatures inside this cross, dealing +1d6 additional damage + 1d6 per 2 voidrusher levels. For every 4 voidrusher levels, increase the length of each line by +10 feet. The voidrusher may only use the cross reaping umbral tension technique once per round.
 
 #### Umbral Tension 3
 
-- **Communio (3 umbral tension, special)**: Create a close range burst (25 feet + 5 feet per 2 levels) centered on a creature within close range. Attack all creatures in this burst, dealing +1d6 additional damage + 1d6 per 3 voidrusher levels. The communio umbral tension technique consumes all remaining umbral tension the voidrusher possesses (after paying the cost of this umbral tension technique), increasing the additional damage dealt by an +1d6 per umbral tension consumed this way. Enshroud’s duration immediately ends after using the communio umbral tension technique.
+- **Communio (3 umbral tension, special):** Create a close range burst (25 feet + 5 feet per 2 levels) centered on a creature within close range. Attack all creatures in this burst, dealing +1d6 additional damage + 1d6 per 3 voidrusher levels. The communio umbral tension technique consumes all remaining umbral tension the voidrusher possesses (after paying the cost of this umbral tension technique), increasing the additional damage dealt by an +1d6 per umbral tension consumed this way. Enshroud’s duration immediately ends after using the communio umbral tension technique.
 
 ## Void Stalk (Su)
 
@@ -131,7 +131,7 @@ The voidrusher learns how to manifest a greater portion of their avatar to direc
 
 At 10th level, the voidrusher gains the following tension technique:
 
-- **Manifest Shroud (2 tension)**: As a free action during the voidrusher’s turn, the voidrusher gains an insight bonus to their Strength, Dexterity, and Constitution equal to their avatar’s bonus to Strength, Dexterity, and Constitution from the otherworldly paragon avatar archetype ability (this bonus is not shared with the avatar through mirror of the master). This tension technique lasts for 1 round + 1 round per additional tension spent past 2; this ability’s duration immediately ends if the voidrusher uses enshroud.
+- **Manifest Shroud (2 tension):** As a free action during the voidrusher’s turn, the voidrusher gains an insight bonus to their Strength, Dexterity, and Constitution equal to their avatar’s bonus to Strength, Dexterity, and Constitution from the otherworldly paragon avatar archetype ability (this bonus is not shared with the avatar through mirror of the master). This tension technique lasts for 1 round + 1 round per additional tension spent past 2; this ability’s duration immediately ends if the voidrusher uses enshroud.
 
 For the duration of this tension technique, the avatar cannot take actions, make attacks, or be otherwise used by the voidrusher or the voidrusher’s class features. If the avatar was summoned by the voidrusher’s unbound capstone ability, the avatar is banished for the duration of this tension technique, and is resummoned adjacent to the voidrusher when the tension technique’s duration ends.
 
@@ -145,7 +145,7 @@ While the voidrusher’s avatar is summoned, both the voidrusher’s avatar may 
 
 In addition, the voidrusher gains the following tension technique:
 
-- **Desperate Grasp (4 tension)**: Whenever the voidrusher or their avatar would be reduced to 0 hit points (or be banished), the other creature not being reduced to 0 hit points (or banished) may spend 4 tension as a free action that can be taken even if its not their turn. If they do, their hit points are not reduced below 0 (instead remaining at 1 hit point) and the creature is not banished.
+- **Desperate Grasp (4 tension):** Whenever the voidrusher or their avatar would be reduced to 0 hit points (or be banished), the other creature not being reduced to 0 hit points (or banished) may spend 4 tension as a free action that can be taken even if its not their turn. If they do, their hit points are not reduced below 0 (instead remaining at 1 hit point) and the creature is not banished.
 
 This replaces Ultimate Tension.
 
@@ -167,7 +167,7 @@ The voidrusher gains the Conjuration sphere Battle Creature (form) talent, apply
 
 The avatar may wield a weapon as provided by the Battle Creature (form) talent or may use a copy of the voidrusher’s wielded weapon (the “mirrored weapon”) whenever they would make an attack. If the avatar uses any abilities the mirrored weapon possesses (e.g. effects with limited uses per day, expending a held spell in a spell storing weapon, etc.), that ability is expended from the mirrored weapon as normal.
 
-**Special**: If the voidrusher could summon their avatar (such as with the unbound class feature), the avatar must choose what weapon they are wielding when summoned (as per normal for the Battle Creature (form) talent) and may choose to have a mirrored weapon instead of the normal weapons provided by the Battle Creature (form) talent.
+**Special:** If the voidrusher could summon their avatar (such as with the unbound class feature), the avatar must choose what weapon they are wielding when summoned (as per normal for the Battle Creature (form) talent) and may choose to have a mirrored weapon instead of the normal weapons provided by the Battle Creature (form) talent.
 
 #### Transformative Breach (requires Alteration sphere)
 
@@ -183,25 +183,25 @@ The statistics of a Conjuration companion with the avatar archetype are as follo
 
 **Avatar**
 The avatar’s ability scores are as listed (this replaces the ability scores of the avatar’s base form):
-**Str**18,**Dex**18,**Con**16,**Int**8,**Wis**12,**Cha** 12
+**Str** 18, **Dex** 18, **Con** 16, **Int** 8, **Wis** 12, **Cha** 12
 
 The avatar gains the following special abilities:
 
-**Mirror of the Master (Ex)**: The avatar is a mirror of their caster, sharing in their strengths and weaknesses. While possessing the caster, the avatar gains the following benefits:
+**Mirror of the Master (Ex):** The avatar is a mirror of their caster, sharing in their strengths and weaknesses. While possessing the caster, the avatar gains the following benefits:
 
 - The avatar is affected by any non-instantaneous effects which affect its caster, both beneficial and detrimental. An effect applied to the avatar this way ignores all immunities the avatar possesses, and if the effect ends for the caster, it ends for the avatar.
 - Whenever the avatar’s caster would benefit from an effect that restores hit points or removes a condition or effect (such as ability damage, negative levels, etc.), the avatar also benefits from that effect.
 - The avatar shares the effects of any magic items the caster benefits from (with the exception of magic weapons, armor, shields, or which otherwise need to be wielded to function). The avatar does not need to possess the appropriate appendages to benefit from a magic item this way.
 
-**Example**: The avatar’s caster is benefitting from a bard’s inspire courage and has the sickened condition. The avatar would also benefit from the bard’s inspire courage and be penalized by the sickened condition for as long as the master is affected by those effects. If the caster was wearing a belt of giant’s strength +4, the avatar would also benefit from that belt’s effects.
+**Example:** The avatar’s caster is benefitting from a bard’s inspire courage and has the sickened condition. The avatar would also benefit from the bard’s inspire courage and be penalized by the sickened condition for as long as the master is affected by those effects. If the caster was wearing a belt of giant’s strength +4, the avatar would also benefit from that belt’s effects.
 
-**Otherworldly Paragon (Ex)**: The avatar’s Strength, Dexterity, and Constitution increase by +2 + 1 per 2 Hit Dice the avatar possesses; treat this ability as a (form) talent. The avatar cannot benefit from other (form) talents which grant an untyped bonus to their Strength, Dexterity, or Constitution (such as the Powerful Form (form) talent).
+**Otherworldly Paragon (Ex):** The avatar’s Strength, Dexterity, and Constitution increase by +2 + 1 per 2 Hit Dice the avatar possesses; treat this ability as a (form) talent. The avatar cannot benefit from other (form) talents which grant an untyped bonus to their Strength, Dexterity, or Constitution (such as the Powerful Form (form) talent).
 
-**Shredding Attacks (Ex)**: An avatar’s primary natural attacks deal their indicated damage plus 1-1/2 times the avatar’s Strength bonus (even if it would have more than one natural attack).
+**Shredding Attacks (Ex):** An avatar’s primary natural attacks deal their indicated damage plus 1-1/2 times the avatar’s Strength bonus (even if it would have more than one natural attack).
 
-**Sole Entity (Ex)**: An avatar is a singular possessive force. A caster can never gain more than one Conjuration companion with the avatar companion archetype. If the caster would gain an additional Conjuration companion with the avatar companion archetype, they instead gain a bonus (form) talent for their avatar Conjuration companion. Class features, abilities, and effects which would interact with the caster’s avatar always refer to this singular Conjuration companion, even if they would be abilities from different sources (such as a multiclassed character with an avatar from two sources would have a single avatar companion and use that companion for any of their abilities).
+**Sole Entity (Ex):** An avatar is a singular possessive force. A caster can never gain more than one Conjuration companion with the avatar companion archetype. If the caster would gain an additional Conjuration companion with the avatar companion archetype, they instead gain a bonus (form) talent for their avatar Conjuration companion. Class features, abilities, and effects which would interact with the caster’s avatar always refer to this singular Conjuration companion, even if they would be abilities from different sources (such as a multiclassed character with an avatar from two sources would have a single avatar companion and use that companion for any of their abilities).
 
-**Unbodied (Ex)**: An avatar is incapable of being summoned normally and instead constantly possesses the caster (as though passively possessing the caster using the wraith’s possession class feature). However, unlike a wraith’s possession, the avatar can never independently take actions (including mental actions) unless granted actions through the caster’s other abilities (most often from a class which grants an avatar companion); if a form talent would grant the avatar abilities that require spending an action or the ability to take an action, the caster must spend the equivalent action to activate that ability (such as the Conjuration sphere Aligned Creature (form) talent’s smite ability could be used if the caster expended the swift action for their avatar). Abilities or actions granted by feats, combat talents, and magic talents cannot be used this way. This possession ignores any immunity to possession effects (such as that granted by the (protection from evil spell).
+**Unbodied (Ex):** An avatar is incapable of being summoned normally and instead constantly possesses the caster (as though passively possessing the caster using the wraith’s possession class feature). However, unlike a wraith’s possession, the avatar can never independently take actions (including mental actions) unless granted actions through the caster’s other abilities (most often from a class which grants an avatar companion); if a form talent would grant the avatar abilities that require spending an action or the ability to take an action, the caster must spend the equivalent action to activate that ability (such as the Conjuration sphere Aligned Creature (form) talent’s smite ability could be used if the caster expended the swift action for their avatar). Abilities or actions granted by feats, combat talents, and magic talents cannot be used this way. This possession ignores any immunity to possession effects (such as that granted by the (protection from evil spell).
 
 If the avatar would have its possession effect interrupted (such as being exorcized, banished, etc.), the avatar is instead banished for 1d4 rounds. When this banish duration ends, the avatar is automatically resummoned and repossesses the summoner, bypassing any effect that would prevent a summoning or possession effect.
 
@@ -209,5 +209,5 @@ If the avatar would die (or be unsummoned due to reaching 0 hit points), it cann
 
 Whenever the avatar would be granted an action through its summoner’s class features, the avatar uses their summoner's occupied square(s) to determine the avatar’s reach, line of sight, etc. as though the avatar occupied the summoner’s space. The avatar determines their attack bonus for any attack made this way using their summoner’s base attack bonus and the avatar’s ability scores, feats, and other modifiers. Penalties to attack rolls are still incurred (such as attacking through cover or against concealment). If the avatar would be granted movement (such as being granted a move action or performing a bull rush combat maneuver), the avatar may have their summoner perform that movement, limited by the summoner’s total movement and movement modes. If the avatar makes an attack or uses an ability that could be maintained (such as a grapple, or grapple maintained by the grab universal monster ability), the summoner must spend any required actions to maintain that ability or action, and suffers any penalties associated with maintaining that action.
 
-**Unsummonable (Ex)**: The avatar cannot be summoned as a normal Conjuration companion (instead always passively possessing the summoner as detailed in unbodied) unless otherwise specified, such as by the unbodied avatar archetype ability. When the avatar’s summoner would bypass the avatar’s unsummonable ability (normally by summoning the avatar, or using an ability such as the void conduit’s merge with the void ability), the avatar is not banished for having its possession interrupted (and ceases possessing the summoner until the summon effect’s duration ends).
+**Unsummonable (Ex):** The avatar cannot be summoned as a normal Conjuration companion (instead always passively possessing the summoner as detailed in unbodied) unless otherwise specified, such as by the unbodied avatar archetype ability. When the avatar’s summoner would bypass the avatar’s unsummonable ability (normally by summoning the avatar, or using an ability such as the void conduit’s merge with the void ability), the avatar is not banished for having its possession interrupted (and ceases possessing the summoner until the summon effect’s duration ends).
 

@@ -13,26 +13,26 @@ This large spider-like monster has an eerie, humanoid face surrounded by a shagg
 XP 2,400
 Pathfinder Roleplaying Game Bestiary
 N Large magical beast (mythic)
-**Init**+9MF;**Senses** darkvision 60 ft., low-light vision; Perception +6
+**Init** +9MF; **Senses** darkvision 60 ft., low-light vision; Perception +6
 
 #### Defense
 
-**AC**19,**touch**12,**flat-footed** 16 (+3 Dex, +7 natural, –1 size)
+**AC** 19, **touch** 12, **flat-footed** 16 (+3 Dex, +7 natural, –1 size)
 **hp** 77 (6d10+44)
-**Fort**+9,**Ref**+8,**Will** +3
+**Fort** +9, **Ref** +8, **Will** +3
 **Defensive Abilities** ethereal jaunt; DR 5/epic
 
 #### Offense
 
 **Speed** 40 ft., climb 20 ft.
 **Melee** bite +10 (2d6+7 plus poison and grab)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** dimensional breachMA, ethereal ambush, ethereal strandingMA (+8 ranged touch, DC 17, 6 hp), mythic power (2/day, +1d6), virulent venomMA
 
 #### Statistics
 
-**Str**20,**Dex**17,**Con**18,**Int**7,**Wis**13,**Cha** 10
-**Base Atk**+6;**CMB**+12 (+16 grapple);**CMD** 25 (37 vs. trip)
+**Str** 20, **Dex** 17, **Con** 18, **Int** 7, **Wis** 13, **Cha** 10
+**Base Atk** +6; **CMB** +12 (+16 grapple); **CMD** 25 (37 vs. trip)
 **Feats** Ability Focus (poison), Improved InitiativeMF, Skill Focus (Stealth)
 **Skills** Climb +18, Perception +6, Stealth +7
 **Languages** Aklo
@@ -53,6 +53,6 @@ N Large magical beast (mythic)
 
 **Ethereal Stranding (Su)** Mythic phase spiders can spin threads of spun ether that function like the web special attack; however, its webs extend into both the Ethereal and Material Plane and affect creatures equally in both planes. Even incorporeal creatures can be trapped by its webs, though they gain a +5 bonus on Escape Artist checks to escape and are incapable of bursting the webs. If a mythic phase spider expends one use of its mythic power, a creature on the Material Plane entangled by its ethereal stranding is pulled into the Ethereal Plane (or vice versa) and is trapped there for as long as it remains entangled. Once it escapes or breaks free, a creature pulled into the Ethereal Plane can attempt a Fortitude save each round as a swift action to return to the Material Plane; the creature returns automatically after 1 minute. A creature made Ethereal in this way can move within the Ethereal Plane before returning to the Material Plane but cannot travel to other planes.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 20;**frequency**1/round for 9 rounds;**effect**1d2 Constitution damage;**cure** 2 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; **save** Fort DC 20; **frequency** 1/round for 9 rounds; **effect** 1d2 Constitution damage; **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 **Virulent Venom (Ex)** A mythic phase spider adds one-half its mythic rank to the DC and duration of its poison. In addition, if it bites a living creature that is immune to poison or has a saving throw bonus that applies specifically to poison, it can expend one use of its mythic power as a free action to bypass that immunity and negate that bonus until the end of its next turn.

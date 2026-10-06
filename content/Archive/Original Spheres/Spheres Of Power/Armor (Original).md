@@ -13,7 +13,7 @@ parent: "[[Original Spheres]]"
 
 #### Aegis of Sakura
 
-**Price**2,500 gp;**Slot**none;**CL**2nd;**Weight**20 lb.;**Aura**moderate Nature;**Scaling** wonder
+**Price** 2,500 gp; **Slot** none; **CL** 2nd; **Weight** 20 lb.; **Aura** moderate Nature; **Scaling** wonder
 This set of light armor appears to be a +1 greenwood leaf armor made from the animated living wood and leaves of the cherry tree. Each spring, the aegis of sakura becomes alive with beautiful cherry blossoms.
 **5th Level – 3,500 gp:** The armor also grants whoever wears it access to the Nature (plantlife) sphere (which the wearer may cast at CL 2). In addition, like a wand, the suit also provides a single temporary spell point which must be recharged. This spell point may only be used to power any sphere talents or abilities which the aegis of sakura provides.
 **7th Level – 6,500 gp:** Any sphere talent or ability which the aegis of sakura provides is now cast at CL 4. In addition to the Nature (plantlife) sphere, the wearer is also granted access to the *Barkskin talent.
@@ -24,14 +24,14 @@ This set of light armor appears to be a +1 greenwood leaf armor made from the an
 **18th Level – 146,500 gp:** The aegis of sakura becomes a +3 heavy fortification greenwood leaf armor. The armor grants access to the Alteration sphere, the Plant Transformation talent, the Nature (plantlife) sphere, Barkskin and Grow Plants talents (which the wearer may cast at CL 18). In addition, the armor now provides five temporary spell points which must be recharged.
 **20th Level – 238,250 gp:** The aegis of sakura becomes a +5 heavy fortification greenwood leaf armor. The armor grants access to the Alteration sphere, the Plant Transformation talent, the Nature (plantlife) sphere, Barkskin, Grow Plants, and Rejuvenation talents (which the wearer may cast at CL 20). The armor now provides five temporary spell points which must be recharged. In addition three times per day you may cast any of the sphere talents or abilities granted by the aegis of sakura as if they were extended as though using the Extend Spell feat. This does not increase the casting time or spell point expenditure.
 **Construction Requirements**
-**Cost**119,125 gp;**Feats**Smith Magical Weapons and Armor;**Spells** Alteration sphere, Nature sphere
+**Cost** 119,125 gp; **Feats** Smith Magical Weapons and Armor; **Spells** Alteration sphere, Nature sphere
 
 | Name | Cost | AC Bonus | Max Dex | ACP | Arcane Spell Failure Chance | Speed (30 ft) | Speed (20 ft) | Weight |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Leaf armor | 500 | +3 | +5 | 0 | 15% | 30 ft. | 20 ft. | 20 lbs. |
 
 **Special Material: Greenwood**
-**HP/inch**as wood;**Hardness**as wood;**Cost** To determine the price of a greenwood item, use the original weight but add 50 GP per pound to the price of a masterwork version of that item. Items made from darkwood cannot be made into greenwood.
+**HP/inch** as wood; **Hardness** as wood; **Cost** To determine the price of a greenwood item, use the original weight but add 50 GP per pound to the price of a masterwork version of that item. Items made from darkwood cannot be made into greenwood.
 **Description**
 The secret of greenwood lies in its harvesting. Each length is taken, with leaves still attached, from a tree animated by a treant and cut with care to avoid the death of the tree. A dryad then speaks to and shapes the wood, coaxing the living green of the leaves into the grain of the wood itself. The resulting wood remains alive as long as it is doused with at least one gallon of water (plus 1 gallon for every 10 pounds of the item's weight) once per week and allowed to rest for an hour in contact with fertile soil. Any wooden or mostly wooden item (such as a bow or spear) made from greenwood is considered a masterwork item. Items not normally made of wood or only partially of wood (such as a battleaxe or a mace) either cannot be made from greenwood or do not gain any special benefit from being made of greenwood.
 
@@ -41,8 +41,8 @@ Greenwood can be altered or enhanced with wood-shaping magic such as ironwood, s
 
 #### Armor of the Unstoppable Warrior
 
-**Slot**Armor;**Aura**faint Enhancement and Life;**CL** 6th;
-**Weight**50 lbs.;**Scaling**Prize;**Price** 2,650 gp
+**Slot** Armor; **Aura** faint Enhancement and Life; **CL** 6th;
+**Weight** 50 lbs.; **Scaling** Prize; **Price** 2,650 gp
 
 This +1 full plate is functional and plain. It bears no identifying marks, and resizes to fit any creature between Small and Large size categories. The armor itself is made of polished steel that never tarnishes, and when struck, it sheds light as a torch.
 
@@ -66,8 +66,8 @@ Craft Magic Arms and Armor, Craft Rod, Craft Wondrous Item, Enhancement sphere, 
 
 #### Doublet of the Elementalist
 
-**Aura**moderate Destruction and Nature;**CL**8th;**Slot** chest;
-**Price**38,400 gp;**Weight** —
+**Aura** moderate Destruction and Nature; **CL** 8th; **Slot** chest;
+**Price** 38,400 gp; **Weight** —
 **Description**
 This doublet is crafted from brown/grey wool, with mountain scenery embroidered on its back. It grants the wearer a +3 enhancement bonus to their caster level with both the Nature sphere and the Destruction sphere. Additionally, once per day the wearer can transform themselves into a tree; they can become up to 1 size larger or smaller and lose the ability to take any physical actions but can still think and observe the world around them. They gain hardness 5 and take half damage from energy attacks but gain no increased hit points. They can remain a tree for up to 8 hours at a time, but can return to their normal form as a move action; being a tree for 8 hours counts as resting for the purpose of regaining spell points and other benefits, although the tree-character remains conscious the entire time.
 **Construction Requirements**
@@ -75,7 +75,7 @@ Craft Implement of Power, Craft Marvelous Item, Destruction sphere, Nature spher
 
 #### Friendly Scarves
 
-**Aura**moderate enhancement;**CL**6th;**Slot**armor;**Price**18,300 gp;**Weight** 8 lbs.
+**Aura** moderate enhancement; **CL** 6th; **Slot** armor; **Price** 18,300 gp; **Weight** 8 lbs.
 **Description**
 This set of +2 dancing scarves have been animated in such a way that they seem to blow in the wind even when no wind is present, granting the wearer half their armor bonus even on rounds when the wearer has not moved at least 10 feet. They also add their enhancement bonus to Bluff checks made to feint in combat, which stacks with the circumstance bonus dancing scarves always grant.
 
@@ -86,9 +86,9 @@ Craft Apparatus, Smith Magical Weapons and Armor, Enhancement sphere, Animate Ob
 ##### Dancing Scarves
 
 Light Armor
-**Cost**150 GP;**Weight** 8 lbs.
-**Armor Bonus**See text;**Max Dex Bonus**-;**Armor Check Penalty** 0
-**Arcane Spell Failure Chance**-;**Speed** 30 ft/20 ft
+**Cost** 150 GP; **Weight** 8 lbs.
+**Armor Bonus** See text; **Max Dex Bonus** -; **Armor Check Penalty** 0
+**Arcane Spell Failure Chance** -; **Speed** 30 ft/20 ft
 
 This set of colorful scarves is made of heavy silk and reinforced with leather straps.
 
@@ -96,8 +96,8 @@ As you move, they flutter and flow, obscuring your shape and protecting against 
 
 #### Weeping Demon
 
-**Aura**strong Blood;**CL** 12
-**Slot**armor;**Price**76,180 gp;**Weight** 20 lbs.
+**Aura** strong Blood; **CL** 12
+**Slot** armor; **Price** 76,180 gp; **Weight** 20 lbs.
 **Description**
 The weeping demon is a +4 studded leather armor that bears the shape of a face on its front, as if the whole thing were crafted from the hide of an enormous demonic creature.
 
@@ -113,8 +113,8 @@ Smith Magical Weapons and Armor, Blood sphere, Eye Bleed; **Cost** 38,180 gp.
 
 #### Shield of Blessings and Curses
 
-**Aura**moderate Enhancement;**CL** 10
-**Slot**shield;**Price**2,659 gp;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 10
+**Slot** shield; **Price** 2,659 gp; **Weight** 2 lbs.
 **Description**
 The shield of blessings and curses is a +2 light steel shield that can resize itself for whatever creature is wearing it. Whenever the creature wearing the shield is missed by a physical attack by 3 or less (the AC bonus provided by the shield), the shield has blocked the attack and a random wild magic event happens.
 
@@ -126,8 +126,8 @@ Smith Magical Weapons and Armor, able to cast sphere effects with a wild magic c
 
 #### Shield of Close Calls
 
-**Slot**Shield;**Aura**faint Enhancement and Life;**CL** 5th;
-**Weight**5 lbs.;**Scaling**Prize;**Price** 1,575 gp
+**Slot** Shield; **Aura** faint Enhancement and Life; **CL** 5th;
+**Weight** 5 lbs.; **Scaling** Prize; **Price** 1,575 gp
 
 This +1 buckler is thin and light, and has a pair of bronze dice embossed on the front of it. As a move action, the shield of close calls can be changed into an equivalent heavy steel shield and vice versa.
 **6th Level - 2,400 gp:** Once per day as an immediate action, the shield restores 1d8+2 hp to the wearer in response to the wearer’s death. If the wearer’s new hit point total is at a negative amount greater than its Constitution score, then he comes back to life and stabilizes at his new hit point total. Otherwise the wearer remains dead. Creatures brought back to life in this manner gain a temporary negative level.
@@ -148,8 +148,8 @@ Craft Arms and Armor, Craft Rod, Craft Wondrous Item, Enhancement sphere, Life s
 
 #### Souleater
 
-**Aura**moderate Death;**CL** 10
-**Slot**shield;**Price**68,000 gp;**Weight** -
+**Aura** moderate Death; **CL** 10
+**Slot** shield; **Price** 68,000 gp; **Weight** -
 **Description**
 Souleater is a +3 heavy wooden shield with the ghost touch special ability; indeed, the shield itself is weightless and transparent and appears to be ethereal, although it can be touched by corporeal hands without issue.
 
@@ -161,8 +161,8 @@ Smith Magical Weapons and Armor, Creation sphere, Expanded Materials, Enhancemen
 
 #### Stopgap
 
-**Aura**moderate Creation and Enhancement;**CL** 10
-**Slot**shield;**Price**10,170 gp;**Weight** 5 lbs.
+**Aura** moderate Creation and Enhancement; **CL** 10
+**Slot** shield; **Price** 10,170 gp; **Weight** 5 lbs.
 **Description**
 Stopgap is a +2 heavy steel shield which can, upon command, grow to an increased size. The shield becomes a 10 ft. by 10 ft. wall that is 1 inch thick; if it is in a space where it cannot grow to its full size, then it grows to the largest size that it can, completely plugging the allotted space.
 
@@ -199,15 +199,15 @@ Faint protection; CL 5th; Craft Magic Arms and Armor, Protection sphere; Cost +1
 
 #### Collapsible
 
-**Aura**faint Warp;**CL**5th;**Price** +1,000 gp
+**Aura** faint Warp; **CL** 5th; **Price** +1,000 gp
 Armor with this enhancement uses a specialized extradimensional space that allows it to be collapsed down to a single piece with negligible weight, such as one gauntlet, a buckle, or a band of metal, chosen when the armor is enchanted. As a full-round action the wearer can touch their armor to collapse it or expand it to full size, either placing it in their square or causing it to appear on themselves as if they had donned it. If collapsible armor is dispelled or otherwise loses the collapsible special ability while it is collapsed, it immediately expands to its full size.
 **Construction Requirements**
 Craft Magic Arms and Armor; Warp sphere; Cost +500 gp
 
 #### Deflecting
 
-**Aura**moderate Protection;**CL** 10
-**Slot**shield;**Price**+1 bonus;**Weight** -
+**Aura** moderate Protection; **CL** 10
+**Slot** shield; **Price** +1 bonus; **Weight** -
 **Description**
 The shield’s shield bonus to AC now also applies against ranged touch attacks. This special ability must be applied to a shield.
 **Construction Requirements**
@@ -215,8 +215,8 @@ Smith Magical Weapons and Armor, Protection Sphere
 
 #### Focusing
 
-**Aura**moderate Mind;**CL** 10
-**Slot**armor;**Price**+4 bonus;**Weight** -
+**Aura** moderate Mind; **CL** 10
+**Slot** armor; **Price** +4 bonus; **Weight** -
 **Description**
 A suit of focusing armor is endowed with a semblance of a mind that connects to the mind of its wearer. When the wearer casts a magical effect with a duration of concentration, the suit of armor may concentrate on the magical effect in the wearer’s place on subsequent rounds. The armor can only concentrate for a total number of rounds equal to its enhancement bonus, after which the effect ends (the wearer cannot choose to concentrate on the effect again after giving it to the armor). Although the armor is doing the concentrating, the magic still originates from the wearer; damage taken requires the wearer to make a concentration check or the armor ceases to concentrate on the spell, just as if the wearer were still the one concentrating on the effect.
 **Construction Requirements**
@@ -242,8 +242,8 @@ Construction Requirements: Craft Magic Arms and Armor, Mind sphere, the Amnesia 
 
 #### Sacrificial
 
-**Aura**faint Destruction;**CL** 5
-**Slot**armor;**Price**+1 bonus;**Weight** -
+**Aura** faint Destruction; **CL** 5
+**Slot** armor; **Price** +1 bonus; **Weight** -
 **Description**
 A suit of sacrificial armor is tied to its wearer’s lifeforce; when its wearer is reduced to 0 hp or below, the armor explodes out with magical energy, dealing 1d6 force damage per point of enhancement bonus to all targets within 10 feet. This armor can only explode with magic in this fashion once per hour; if the wearer is healed to positive hit points and then reduced to negative hit points again before an hour has past, this enchantment produces no effect.
 **Construction Requirements**
@@ -280,8 +280,8 @@ Smith Magical Arms and Armor, Destruction Sphere; Cost +1 Bonus
 
 #### Wand Turret
 
-**Aura**moderate Enchantment;**CL** 10
-**Slot**armor;**Price**+2 bonus;**Weight** -
+**Aura** moderate Enchantment; **CL** 10
+**Slot** armor; **Price** +2 bonus; **Weight** -
 **Description**
 A Tiny animated object attaches itself to the shoulder of a suit of armor, it’s single limb able to hold a wand of any sphere that contains an ability that requires a ranged touch attack. A wand may be inserted into the wand turret as a standard action and removed as a move action. Once inserted, the armor’s wearer treats the wand as if it were wielded and may activate it as a swift action, but only for abilities that require a ranged touch attack (such as the destructive blast ability of the Destruction sphere when not applying a (blast shape) talent or the ghost strike ability of the Death sphere when not applying the Greater Ghost Strike talent). Any attack rolls made when activating the wand as a swift action take a -5 penalty. This special ability must be applied to a suit of armor.
 **Construction Requirements**

@@ -8,7 +8,7 @@ parent: "[[Technician]]"
 
 *Source: [Ultimate Engineering](https://www.drivethrurpg.com/product/472038/Ulimate-Engineering?affiliate_id=549120)*
 
-**Note - Alternate Class Features**: An innovator technician is recommended to take the tinker specialist and battery gadget alternate class features (which were made with this archetype in mind, but available to technicians generally).
+**Note - Alternate Class Features:** An innovator technician is recommended to take the tinker specialist and battery gadget alternate class features (which were made with this archetype in mind, but available to technicians generally).
 
 **Moldable Inventorship (Ex):** Starting at 1st level, the innovator gains 1 bonus Tinker sphere talent, plus an additional Tinker sphere talent at 5th level and every 4 levels thereafter. Tinker talents granted this way are referred to as “moldable Tinker talents”. Whenever the innovator rests and regains their resources (such as regaining their daily uses of gadgets, etc.), the innovator is able to change their moldable Tinker talents for other Tinker sphere talents, losing the previous ones and gaining the new ones in their place. Only the moldable Tinker talents granted by this feature can be changed this way.
 
@@ -16,7 +16,7 @@ Whenever the innovator would gain an additional invention, the innovator may ins
 
 This replaces the invention gained at 1st level.
 
-**Gizmo-master**: At 7th level, all uses of the Disable Device skill have their required time decreased by 2 steps instead of 1.
+**Gizmo-master:** At 7th level, all uses of the Disable Device skill have their required time decreased by 2 steps instead of 1.
 
 In addition, whenever an innovator succeeds at a Disable Device check against a gizmo they did not craft by 10 or more, the innovator may take control of that gizmo and treat it as a gizmo they crafted (including any installed *routines*, excluding AI). The innovator may adjust any of the gizmo’s set functions or parameters as part of succeeding at a Disable Device check performed this way.
 

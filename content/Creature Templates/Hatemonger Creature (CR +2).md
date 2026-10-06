@@ -43,6 +43,6 @@ No one knows where the hatemonger parasite originated—the most prevalent theor
 
 **Weapon of Might and Righteousness:** As a swift action, the hatemonger may summon an appropriate weapon to rally its thralls. Typically, this weapon takes the form of an axe or a sword. Any charmed creature in sight of the weapon gains a +2 morale bonus to its attack and damage rolls against its hated enemies. Meanwhile, the hatemonger’s weapon acts as a bane weapon against its enemies.
 
-**Abilities:** Increase from the base creature as follows:**Con**+4 (+2 to hit points per hit die and Fortitude saves) and**Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others; Channel Energy DCs; and any of the creature’s Charisma-based DCs). The hatemonger’s Int score is 10 or the base creature’s Int, whichever is higher.
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 to hit points per hit die and Fortitude saves) and **Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others; Channel Energy DCs; and any of the creature’s Charisma-based DCs). The hatemonger’s Int score is 10 or the base creature’s Int, whichever is higher.
 
 **Feats:** Gain Compelling Oratory, Iron Will and Persuasive as additional feats.

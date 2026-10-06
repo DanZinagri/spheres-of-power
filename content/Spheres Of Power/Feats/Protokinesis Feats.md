@@ -14,7 +14,7 @@ Unless noted otherwise, the benefit granted by any protokinesis feat is a spell-
 
 The effects of protokinesis feats last indefinitely unless otherwise noted, though they may be dismissed as a free action, or restarted as a standard action if they have been dispelled or dismissed.
 
-## Class Features
+### Class Features
 
 The classes in the following table may select a protokinesis feat as one of the following class features. As long as they have the casting class feature they need not have the Telekinesis sphere (but must meet all other prerequisites) and treat their class level as their caster level for the purpose of that feat. This stacks with caster levels from other sources normally. In addition, incanters, along with wizards and sorcerers who have an archetype that replaces spells with the casting class feature, may select protokinesis feats as bonus feats or bloodline feats and need not have the Telekinesis sphere to qualify.
 
@@ -38,9 +38,9 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 ---
 
-### Aggressive Mind Limb (combat, Protokinesis) [Apoc]
+#### Aggressive Mind Limb (combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, Mind Limb, base attack bonus +5.
 
@@ -48,49 +48,49 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Special:** If you also have Telekinetic Fist, your telekinetic limb’s reach increases by 5 feet.
 
-### Counterweight (Protokinesis)
+#### Counterweight (Protokinesis)
 
 **Prerequisites:** Acrobatics 3 ranks, Telekinesis sphere.
 
 **Benefit:** By applying your telekinetic powers to your own body you can stand on surfaces that could not normally support your weight, allowing you to balance on a single thread or walk across liquid, though you must still attempt Acrobatics checks to balance on narrow or difficult surfaces. You cannot walk on normal gaseous substances such as air or clouds, though you could balance on a solid fog spell. In addition, you may add your casting ability modifier as a bonus to Acrobatics checks.
 
-### Equal and Opposite (combat, Protokinesis) [Apoc]
+#### Equal and Opposite (combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, character level 5th.
 
 **Benefit:** When an enemy performs a combat maneuver against you, you may spend an immediate action to roll your own bull rush check opposing your opponent’s, using your caster level as your base attack bonus and adding your casting ability modifier instead of your Strength modifier but adding any other modifiers excluding size modifiers to bull rush checks you may have. This does not provoke an attack of opportunity. If your result is greater than the attacking creature’s result, the creature’s combat maneuver fails. If you beat it by at least 5, they instead are forced 5 feet directly away from you for every 5 by which your roll exceeds theirs. This movement counts as your bull rush for the purpose of determining whether the enemy provokes attacks of opportunity, but not for any other purposes.
 
-### Force Shield (Protokinesis)
+#### Force Shield (Protokinesis)
 
 **Prerequisite:** Telekinesis sphere.
 
 **Benefit:** By forming a thin field of telekinetic force with your hand as a swift action you can gain a +2 shield bonus to your armor class, +1 per 5 caster levels in Telekinesis. This counts as a shield, except it imposes no spell failure or armor check penalty. You must keep at least one hand free to maintain your force shield.
 
-### Force Shield, Improved (Combat, Protokinesis) [Apoc]
+#### Force Shield, Improved (Combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, Force Shield, character level 5th.
 
 **Benefit:** The shield bonus to armor class provided by your force shield increases to +3, +1 per 5 caster levels, and while benefiting from it you count as wielding a light shield when beneficial for the purposes of class features and other effects. It counts as having hardness equal to half your caster level and 10 hit points. If broken, you may reform it as a swift action (as if it had been dispelled). You may also make shield bash attacks with it as if it were a light shield.
 
-### Gravitic Anomaly (Protokinesis)
+#### Gravitic Anomaly (Protokinesis)
 
 **Prerequisites:** Telekinesis sphere, Counterweight.
 
 **Benefit:** Due to your control over your personal gravity, you can move on walls and ceilings and other surfaces as if they were the ground. If you are tripped or fall prone, the area’s normal gravity reasserts itself and you fall to the ground, taking falling damage as appropriate for your distance above the ground.
 
-### Kinetic Drift (Protokinesis)
+#### Kinetic Drift (Protokinesis)
 
 **Prerequisites:** Telekinesis sphere, Counterweight, character level 5th.
 
 **Benefit:** You can float above the ground instead of walking. You can hover up to 1 foot above the ground, allowing you to ignore difficult terrain. When falling you may choose to descend at a slower rate to control your fall and to negate all falling damage you would take. Each round you descend 30 feet, and may move in another direction for 30 feet. You may choose to drift sideways, gliding forwards while descending, or down, safely increasing your rate of descent. You may even choose to drift ‘upwards’ to reduce your rate of descent, even allowing you to negate it entirely and hover midair.
 
-### Kinetic Juggler (Protokinesis) [Apoc]
+#### Kinetic Juggler (Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, base attack bonus +1.
 
@@ -98,7 +98,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 **Special:** If you have the Quickdraw feat, as long as you have a free hand you may grab one of your floating weapons an immediate action.
 
-### Mind Limb (Protokinesis)
+#### Mind Limb (Protokinesis)
 
 **Prerequisite:** Telekinesis sphere.
 
@@ -106,9 +106,9 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 As a swift action you can use it to draw a sheathed or hidden weapon, ready a shield, retrieve a stored item, load a crossbow, open a door, pick up an unattended item, sheathe or store an item, or take other non-offensive actions involving manipulating objects. Your telekinetic limb cannot effectively wield weapons or shields or activate magic items, but can pass such items to another hand as part of any other action it takes.
 
-### Poltergeist’s Fingers (Protokinesis) [Apoc]
+#### Poltergeist’s Fingers (Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Sleight of Hand 3 ranks, Telekinesis sphere, Mind Limb.
 
@@ -116,9 +116,9 @@ As a swift action you can use it to draw a sheathed or hidden weapon, ready a sh
 
 **Special:** If you have the Aggressive Mind Limb feat, you may use your additional attack of opportunity with your mind limb to attempt a steal combat maneuver.
 
-### Remote Jostle (Combat, Protokinesis) [Apoc]
+#### Remote Jostle (Combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisite:** Telekinesis sphere.
 
@@ -128,7 +128,7 @@ As a swift action you can use it to draw a sheathed or hidden weapon, ready a sh
 - They take a -1 penalty on Acrobatics checks. For every 4 caster levels, this penalty increases by 1.
 - They must make a Reflex saving throw (DC 10 + 1/2 your caster level + your casting ability modifier) or lose one attack of opportunity. If they can only make one attack of opportunity per round, they cannot make an attack of opportunity until the end of your next turn.
 
-### Telekinetic Exoskeleton (Protokinesis)
+#### Telekinetic Exoskeleton (Protokinesis)
 
 **Prerequisites:** Telekinesis sphere, character level 3rd.
 
@@ -140,23 +140,23 @@ As a swift action you can use it to draw a sheathed or hidden weapon, ready a sh
 
 These benefits lasts indefinitely. If you activate one of these benefits while a previous benefit is still in effect, the first benefit ends immediately.
 
-### Telekinetic Fist (Combat, Protokinesis) [Apoc]
+#### Telekinetic Fist (Combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, Improved Unarmed Strike, base attack bonus +5.
 
 **Benefit:** On your turn, your reach with your unarmed strikes is increased by 5 feet.
 
-### Telekinetic Trigger (Protokinesis) [Apoc]
+#### Telekinetic Trigger (Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Use Magic Device 3 ranks, Telekinesis sphere, Mind Limb.
 
 **Benefit:** You can activate any command word, spell trigger, or spell completion magical item held in your telekinetic limb. This requires the same action normally required to activate the item and you are treated as having no base spheres except Telekinesis even if you possess them.
 
-### Telekineticat (Protokinesis) [Catgirl HB]
+#### Telekineticat (Protokinesis) [Catgirl HB]
 
 With all your cosmic power and wisdom, you decided to form your raw and potent telekinetic power into the shape of a cat.
 
@@ -166,7 +166,7 @@ With all your cosmic power and wisdom, you decided to form your raw and potent t
 
 Unlike other familiars, this familiar is directly manifested by your telekinetic magic, and as such, is limited to your Telekinesis sphere range. If your familiar leaves this range, it is immediately dismissed. If your familiar is dismissed (either by being dispelled, walking outside your Telekinesis sphere range, etc.), you may resummon your familiar by spending 1 minute in meditation. If your familiar is dead, you may resummon your familiar whenever you would rest and regain resources.
 
-### Touchsense (Protokinesis)
+#### Touchsense (Protokinesis)
 
 **Prerequisites:** Perception 5 ranks, Telekinesis sphere.
 

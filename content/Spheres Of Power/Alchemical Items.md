@@ -12,13 +12,13 @@ parent: "[[Spheres Of Power]]"
 
 ### Arcanis Venenum
 
-**Price**3,000 gp;**Weight** -
+**Price** 3,000 gp; **Weight** -
 During cell transport of imprisoned spellcasters, guards may force-feed or contaminate the prisoner’s food with this poison which, while odorless, tastes of mold spores and is the color of rust. In liquid, the substance dissolves leaving an oily residue that floats on its surface. Placing this toxin in steaming liquid such as hot tea or coffee will cause the toxin to lose its potency, having no effect if not ingested within 1 round of contaminating the hot beverage.
 
 Caster levels drained from this poison may be restored by the Restore Soul talent from the Life sphere (healing 1d2 caster levels per casting), or completely healed by any ability that removes energy drain (such as the Restore Mind and Body advanced talent from the Life sphere). Casters who have their caster level reduced to zero explicitly because of this poison are unable to cast any spells or use any sphere talents or abilities.
-**Type**poison, ingested;**Save**Fortitude**DC** 17
+**Type** poison, ingested; **Save** Fortitude **DC** 17
 **Frequency** 1/round for 6 rounds
-**Effect**1d6 caster levels drained;**Cure** 2 saves
+**Effect** 1d6 caster levels drained; **Cure** 2 saves
 
 **Alchemical Recipe**
 **Recipe** (1,500 Cold Iron + 500 Realgar + 300 Quicksilver)/ Sublimation
@@ -29,7 +29,7 @@ Caster levels drained from this poison may be restored by the Restore Soul talen
 
 ### Black Powder (20 doses)
 
-**Price**200 gp;**Weight** 1 lb.
+**Price** 200 gp; **Weight** 1 lb.
 Black powder is both an alchemical reagent and an important component for most firearms. Black powder, being an explosive, is dangerous in large quantities.
 
 **Alchemical Recipe**
@@ -43,8 +43,8 @@ Sulfur) / fermentation))
 
 ### Boomstone [TS]
 
-**Type**stable formulae;**Ranks**10;**Slot** none
-**Price**200 gp;**Weight** 1 lb.
+**Type** stable formulae; **Ranks** 10; **Slot** none
+**Price** 200 gp; **Weight** 1 lb.
 
 This rock can be thrown as a ranged attack with an increment of 10 feet. Whenever it strikes a hard surface or is struck hard, it creates a deafening sonic noise. All creatures within 10 feet of the boomstone must succeed at a DC 17 Fortitude save or be deafened for 1 hour. Aside from the normal effects, creatures deafened by a boomstone take a –4 penalty on initiative and have a 20% chance to miscast and lose any spell with a verbal component that they try to cast.
 
@@ -54,7 +54,7 @@ Brew Stable Formulae, Alchemy sphere (Improved Thunderstone (formulae)); **Cost*
 ### Cordial of Mother’s Endurance [Jester's HB]
 
 This soothing drink warms the coldest nights.
-**Price**10 gp;**Weight** —
+**Price** 10 gp; **Weight** —
 **Category** Alchemical Remedies
 
 This pungent drink warms the body and dull’s the mind. Commonly made from distilled and fermented potatoes, but occasionally grains. Consuming this cordial grants you a +2 alchemical bonus on saving throws against nonlethal cold damage or cold environments (such as Cold severity caused by the Weather sphere) for 4 hours. This cordial is also treated as an alcoholic drink for the purposes of the Barroom sphere. When crafting this cordial, the crafter may substitute ranks in Profession (brewer) (or a similar skill related to the creation of alcohol) when creating this item.
@@ -64,8 +64,8 @@ Craft (alchemy) DC 15
 
 ### Delayed Fireball [TS]
 
-**Type**stable formulae;**Ranks**9;**Slot** none
-**Price**360 gp;**Weight** 2 lbs.
+**Type** stable formulae; **Ranks** 9; **Slot** none
+**Price** 360 gp; **Weight** 2 lbs.
 
 A delayed fireball can be lit and thrown into any square within 60 feet that is unoccupied and capable of supporting an object (this does not require an attack roll). 1d3 rounds after being thrown, the delayed fireball detonates, dealing 5d6 bludgeoning and 5d6 fire damage in a 20 feet burst. A DC 16 Reflex save halves this damage. The GM should roll the time before detonation in secret. If two delayed fireballs and/or improved fuse grenades explode during the same round, creatures in the overlapped area suffer diminished results from every fuse grenade after the first one, dealing only 1d6 bludgeoning damage, +1d6 per 5 ranks in the item or formulae for each overlapping grenade.
 
@@ -74,7 +74,7 @@ Brew Stable Formulae, Alchemy sphere (Improved Fuse Grenade (formulae)); **Cost*
 
 ### Ethanol
 
-**Price**25 gp;**Weight** 1lb
+**Price** 25 gp; **Weight** 1lb
 A highly flammable substance often used as a propellent. May also be used as a very expensive alternative to oil as a fuel source for lanterns.
 
 **Alchemical Recipe**
@@ -86,7 +86,7 @@ A highly flammable substance often used as a propellent. May also be used as a v
 
 ### Fish Liver Grog
 
-**Price**50 gp;**Weight** —
+**Price** 50 gp; **Weight** —
 No one knows who thought trying to make a fermented beverage from fish guts was good idea, but it turned out to have some practical benefits. One round after drinking the grog, the drinker receives the benefits of a restore from the base Life sphere ability, but then immediately becomes nauseated for 2d6 rounds.
 
 **Alchemical Recipe**
@@ -99,8 +99,8 @@ No one knows who thought trying to make a fermented beverage from fish guts was 
 
 ### Holy Flask [TS]
 
-**Type**stable formulae;**Ranks**6;**Slot** none
-**Price**120 gp;**Weight** 1 lb.
+**Type** stable formulae; **Ranks** 6; **Slot** none
+**Price** 120 gp; **Weight** 1 lb.
 
 This glass vial can be thrown as a ranged touch attack with an increment of 10 feet. On a successful hit against a corporeal target, it breaks open and deals 5d4 points of damage to undead and evil outsiders. A holy flask can be poured on incorporeal foes, but the target must be within the user’s reach.
 
@@ -109,8 +109,8 @@ Brew Stable Formulae, Alchemy sphere (Aligned Liquid (formulae)); **Cost** 60 gp
 
 ### Kahvi [TS]
 
-**Type**stable formulae;**Ranks**1;**Slot** none
-**Price**20 gp;**Weight** 0.5 lbs.
+**Type** stable formulae; **Ranks** 1; **Slot** none
+**Price** 20 gp; **Weight** 0.5 lbs.
 
 When drunk as a move action, a bottle of kahvi restores the user’s martial focus. A creature cannot restore martial focus more than once per turn.
 
@@ -119,7 +119,7 @@ Brew Stable Formulae, Alchemy sphere (Focusing Formulae (formulae)); **Cost** 10
 
 ### Kuoki
 
-**Price**50 gp**Weight** —-
+**Price** 50 gp **Weight** —-
 This rice wine appears to have a golden glow, and gives off the same amount of light as a lit candle for 1 minute while exposed to the open air before fading. It is for this reason that kuoki is usually kept sealed in kegs or bottles until ready for use, and honest merchants will not buy or sell kuoki that has lost its glow. Those that drink this wine find themselves seeing spirits as if under the effect of the Divination talent Spirit Sense for 1 hour.
 
 **Alchemical Recipe**
@@ -132,7 +132,7 @@ This rice wine appears to have a golden glow, and gives off the same amount of l
 
 ### Liquid Life
 
-**Price**20 gp;**Weight** —
+**Price** 20 gp; **Weight** —
 The greatest invention of the alchemical world since transmuted bread, liquid life has what you need to perk yourself up when you’re knocked low. Liquid life gives the drinker 3d6 temporary hit points to the drinker and removes the fatigued condition. Liquid life can not grant more temporary hit points than the drinker currently has in damage. Temporary hit points granted by liquid life disappear after 1 hour. Some have reported mild addiction after prolonged use, or at least an inability to get out of bed in the morning without it.
 
 **Alchemical Recipe**
@@ -146,11 +146,11 @@ The greatest invention of the alchemical world since transmuted bread, liquid li
 ### Manaphage Poison
 
 More commonly used by witchhunters and inquisitors, this poison has a mercurial appearance and seems to glow an eerie blue.
-**Price**100 gp;**Weight** -
+**Price** 100 gp; **Weight** -
 Spell points lost explicitly from this poison recover at the same rate as ability damage, normally 1 spell point each day. Using sphere talents or abilities that heal or restore ability damage (such as the restore ability from the Life sphere) may also be used to recover spell points lost from this poison, recovering an equal number of spell points as ability damage that would be healed.
-**Type**poison, injury;**Save**Fortitude**DC** 13
+**Type** poison, injury; **Save** Fortitude **DC** 13
 **Frequency** 1/round for 4 rounds
-**Effect**1 spell point lost;**Cure** 1 save
+**Effect** 1 spell point lost; **Cure** 1 save
 
 **Alchemical Recipe**
 **Recipe** (55 Cold Iron + 50 Phosphorous + 50 Quicksilver)/Congelation
@@ -162,11 +162,11 @@ Spell points lost explicitly from this poison recover at the same rate as abilit
 ### Shifter’s Bane
 
 A bane of shapechangers, this toxin is often used by monster hunters and adventurers to weed out those with multiple forms.
-**Price**30 gp;**Weight** -
+**Price** 30 gp; **Weight** -
 Essentially harmless to those who are not shapechangers, this oily substance will disrupt a polymorph effect (such as a shapeshift ability from the Alteration sphere) as well as a lycanthrope’s ability to assume animal or hybrid forms, suppressing it for no longer than 1 minute, after which time the toxin will wear off and any remaining duration (if any) will continue as normal. While under the effects of the toxin, polymorphing and lycanthrope shapeshifting is impossible.
-**Type**poison, contact or ingested;**Save**Fortitude**DC** 15
+**Type** poison, contact or ingested; **Save** Fortitude **DC** 15
 **Frequency** 1/round for 1 minute.
-**Effect**suppress polymorph effect;**Cure** 2 saves
+**Effect** suppress polymorph effect; **Cure** 2 saves
 
 **Alchemical Recipe**
 **Recipe** (10 Cold Iron + 10 Silver + 10 Wolfsbane)/Distillation
@@ -178,7 +178,7 @@ Essentially harmless to those who are not shapechangers, this oily substance wil
 ### Trapped Lightning [TS]
 
 **Type** stable formulae; Ranks 10; Slot none
-**Price**200 gp;**Weight** 2 lbs.
+**Price** 200 gp; **Weight** 2 lbs.
 
 When opened as a standard action, this bottle unleashes a jolt of lightning that deals 6d8 lightning damage to a target within 20 feet. You must make a ranged touch attack to successfully hit the target. All creatures in a line between you and the target (including the target) take 11 points of sonic damage, whether or not you actually hit the target, from the loud boom the lightning generates.
 
@@ -188,7 +188,7 @@ Brew Stable Formulae, Alchemy sphere (Improved Bottled Lighting (formulae)), **C
 ### Vine-Tether Canister
 
 A small wooden vessel, often carved similar to a totem. When the lid is released via a latch mechanism, a tough sticky substance bursts outward, and then suddenly retracts.
-**Price**100 gp;**Weight** 1 lbs.
+**Price** 100 gp; **Weight** 1 lbs.
 
 This consumable alchemical device is often utilized for a variety of uses anywhere from tethering opponents to reaching hard to reach places. Those wielding the canister may activate it as a standard action, making a ranged touch attack against a target within 20 feet. If the target weighs significantly less than the wielder (creatures of smaller size or density), the target is dragged toward the canister 10 ft. the first round, and another 10 ft. in the second round. If the target weighs significantly more than the wielder (a greater size or density), those wielding the canister are pulled toward the target 10 ft. the first round, and another 10 ft. in the second round. If both the target and the wielder of the canister are of mostly similar weight (the same size category and density), then both are pulled toward each other 5 ft. the first round, and another 5 ft. in the second round. After two rounds, the tether hardens and crumbles into dust. The tether has a hardness of 0, hit points of 2, and if severed will stop pulling the target and/or wielders of the canister. Teleporting while tethered will immediately break the tether.
 
@@ -236,7 +236,7 @@ Catnip, also known as catswort, catmint, and other names, is a flowering species
 Catnip ordinarily affects felines as a stimulant, increasing mood, sensitivity and reaction time. Once the stimulant has worn off, the affected feline becomes sluggish and develops temporary immunity to the substance for a period of time. Addiction to catnip is rare, but possible, as some felines may become dependent on the stimulus catnip provides.
 
 **Details**
-**Type**ingested;**Addiction** minor, Fortitude DC 10
+**Type** ingested; **Addiction** minor, Fortitude DC 10
 
 **Effects**
 **Initial Effects** For 10 minutes, the user gains a +1 alchemical bonus on initiative checks, Reflex saves, and Acrobatics checks.

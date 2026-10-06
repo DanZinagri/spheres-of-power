@@ -12,22 +12,22 @@ This long-limbed humanoid is tall and emaciated, its black skin mottled with sca
 **Xotenga (CR 13/MR 5)**
 XP 25,600
 NE Large monstrous humanoid (mythic)
-**Init**+8/-12, dual initiativeMA;**Senses** blindsense 120 ft., darkvision 60 ft., low-light vision; Perception +15
+**Init** +8/-12, dual initiativeMA; **Senses** blindsense 120 ft., darkvision 60 ft., low-light vision; Perception +15
 **Aura** aura of famineMA (DC 20)
 
 #### Defense
 
-**AC**31,**touch**17,**flat-footed** 27 (+8 Dex, +14 natural,–1 size)
+**AC** 31, **touch** 17, **flat-footed** 27 (+8 Dex, +14 natural,–1 size)
 **hp** 173 (13d10+102)
-**Fort**+8,**Ref**+16,**Will** +11
-**Defensive Abilities**DR 10/epic;**Immune**exhaustion, fatigue, nonlethal damage, poison;**Resist** fire 30
+**Fort** +8, **Ref** +16, **Will** +11
+**Defensive Abilities** DR 10/epic; **Immune** exhaustion, fatigue, nonlethal damage, poison; **Resist** fire 30
 
 #### Offense
 
 **Speed** 20 ft., fly 60 ft. (average)
 **Melee** 2 claws +16 (1d6+4)
 **Ranged** mwk composite longbow +25/+20/+15 (2d6+8/19–20/x3) or bolas +20 (1d6+4 nonlethal)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** bitter quillMA, bowmaster, mythic power (5/day, surge +1d8), twin talonsMA
 
 **Spell-Like Abilities** (CL 13th; concentration +16)
@@ -37,8 +37,8 @@ At will—feast of ashesAPG (DC 15), festerAPG (DC 15), ray of enfeeblement (DC 
 
 #### Statistics
 
-**Str**18,**Dex**27,**Con**18,**Int**11,**Wis**16,**Cha** 9
-**Base Atk**+13;**CMB**+18;**CMD** 36
+**Str** 18, **Dex** 27, **Con** 18, **Int** 11, **Wis** 16, **Cha** 9
+**Base Atk** +13; **CMB** +18; **CMD** 36
 **Feats** Greater Weapon Focus (longbow), Greater Weapon Specialization (longbow), Improved Critical (longbow), ManyshotMF, Point Blank ShotB, Rapid ShotMF, Weapon FocusMF (longbow), Weapon Specialization (longbow)
 **Skills** Craft (bows) +10, Fly +22, Perception +15, Stealth +19, Survival +17
 **SQ** famine’s feastMA, improved evasionMA

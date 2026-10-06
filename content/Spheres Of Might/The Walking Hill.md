@@ -14,13 +14,13 @@ The Walking Hill is a first-level sample character for Spheres of Might, suitabl
 **The Walking Hill (Strong Man Striker)**
 Half-orc striker 1
 LG Medium humanoid (human, orc)
-**Init**+0;**Senses** darkvision 60 ft., Perception +1
+**Init** +0; **Senses** darkvision 60 ft., Perception +1
 
 ## Defense
 
-**AC**11,**touch**11,**flat-footed** 11 (+1 Constitution)
+**AC** 11, **touch** 11, **flat-footed** 11 (+1 Constitution)
 **hp** 12 (1d10+2)
-**Fort**+4,**Ref**+2,**Will** +1. +4 on Fort vs. nonlethal damage from hot or cold environments, or damage from suffocation
+**Fort** +4, **Ref** +2, **Will** +1. +4 on Fort vs. nonlethal damage from hot or cold environments, or damage from suffocation
 **Defensive Abilities** orc ferocity
 
 ## Offense
@@ -32,21 +32,21 @@ LG Medium humanoid (human, orc)
 
 ## Martial
 
-**Tradition**Giant (Equipment: Rock Toss, Critical Genius; Brute sphere: Muscular Surge);**PAM** Con
-**Beastmastery sphere**-**DC**12,**Talents**none,**Drawbacks** none
+**Tradition** Giant (Equipment: Rock Toss, Critical Genius; Brute sphere: Muscular Surge); **PAM** Con
+**Beastmastery sphere** - **DC** 12, **Talents** none, **Drawbacks** none
 - handle animal (tame: train an animal to readily obey your commands in and out of combat)
-**Brute sphere**-**DC**12,**Talents**Muscular Surge, Unstoppable,**Drawbacks** none
+**Brute sphere** - **DC** 12, **Talents** Muscular Surge, Unstoppable, **Drawbacks** none
 - shove (inflict the battered condition and bludgeoning damage through impact)
 - muscular surge (bonus +1 to jump and on Strength checks)
 - unstoppable (push your way through obstacles blocking your charging path)
-**Equipment sphere**-**DC**12,**Talents** Rock Toss, Critical Genius
+**Equipment sphere** - **DC** 12, **Talents** Rock Toss, Critical Genius
 - rock toss (catch and hurl rocks)
 - critical genius (deal additional damage with a critical hit with selected weapon)
 
 ## Statistics
 
-**Str**17,**Dex**10,**Con**14,**Int**12,**Wis**13,**Cha** 13
-**Base Atk**+1;**CMB**+4;**CMD** 15
+**Str** 17, **Dex** 10, **Con** 14, **Int** 12, **Wis** 13, **Cha** 13
+**Base Atk** +1; **CMB** +4; **CMD** 15
 **Traits** Iron Control, Steel Body
 **Feats** Endurance, Weapon Focus (unarmed strike)
 **Skills** Craft (wood) +5, Handle Animal +2, Intimidate +5, Knowledge (nature) +5, Ride +4, Survival +5
@@ -64,7 +64,7 @@ This bonus to AC applies even against touch attacks or when the striker is flat-
 
 Animal Allies: Some talents and abilities reference animal allies; your animal companions, familiars, tame creatures, and any creature actively serving as your mount with an Intelligence score of 2 or less are considered your animal allies. Animal allies always act on your initiative.
 
-Special: Animal companions, Conjuration sphere companions, drake companions, eidolons, and familiars cannot gain this sphere or talents from this sphere.
+**Special:** Animal companions, Conjuration sphere companions, drake companions, eidolons, and familiars cannot gain this sphere or talents from this sphere.
 
 When you first take the Beastmastery sphere, choose one of the following packages: Handle Animal or Ride.
 

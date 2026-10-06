@@ -11,13 +11,13 @@ parent: "[[Mythic Creatures (F)]]"
 XP 1,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium aberration (mythic, shapechanger)
-**Init**+7;**Senses** darkvision 60 ft.; Perception +2
+**Init** +7; **Senses** darkvision 60 ft.; Perception +2
 
 #### Defense
 
-**AC**19,**touch**13,**flat-footed** 16 (+3 Dex, +6 natural)
+**AC** 19, **touch** 13, **flat-footed** 16 (+3 Dex, +6 natural)
 **hp** 58 (5d8+36)
-**Fort**+5,**Ref**+4,**Will** +6
+**Fort** +5, **Ref** +4, **Will** +6
 **Defensive Abilities** DR 5/epic and piercing or slashing
 
 #### Offense
@@ -31,10 +31,10 @@ Constant—tongues
 
 #### Statistics
 
-**Str**20,**Dex**17,**Con**18,**Int**13,**Wis**15,**Cha** 16
-**Base Atk**+3;**CMB**+8 (+12 grapple);**CMD** 21
+**Str** 20, **Dex** 17, **Con** 18, **Int** 13, **Wis** 15, **Cha** 16
+**Base Atk** +3; **CMB** +8 (+12 grapple); **CMD** 21
 **Feats** Combat ReflexesMF, Deceitful, Improved Initiative
-**Skills**Bluff +10, Disguise +14 (+24 when using change shape), Escape Artist +19, Sleight of Hand +8, Stealth +11;**Racial Modifiers** +4 Disguise, +8 Escape Artist
+**Skills** Bluff +10, Disguise +14 (+24 when using change shape), Escape Artist +19, Sleight of Hand +8, Stealth +11; **Racial Modifiers** +4 Disguise, +8 Escape Artist
 **Languages** Aquan, Common; tongues
 **SQ** blood frenzyMA, change shape (medium humanoid; alter self), compression, faceless
 

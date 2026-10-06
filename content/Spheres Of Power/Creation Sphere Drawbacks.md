@@ -11,41 +11,41 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Counterfeit [DbH]
+#### Counterfeit [DbH]
 
 When you create an object, it must be of the same shape, size, and material of another object you can perceive. You must select Exquisite Detail with this drawback.
 
 **Incompatible:** Limited Creation (alter)
 
-## Down To Earth [Apoc]
+#### Down To Earth [Apoc]
 
-**Source:** [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*
 
 Your objects are all rooted to a surface and you cannot create objects in mid-air. All your creations must be created on a surface large enough to hold them. You gain the Created Momentum talent as the bonus talent from this drawback and may still create objects with momentum, but this does not allow the object to detach itself from a surface in the process of creation (meaning you can only target creatures that are on the surface where the created object is going to be).
 
 **Incompatible:** Limited Creation (alter)
 
-## Fission
+#### Fission
 
 When creating objects, you do so by splitting off part of your body: this inflicts 1d4 points of damage + 1d4 per size category of the object or objects above Small to be created. This damage bypasses temporary hit points, and cannot be healed as long as the object or objects exist. However, you may reabsorb the created object by touching it as a free action, causing you to heal damage equal to that expended to create it. If an object has the broken condition when it is reabsorbed you only gain 1/2 the hit points back. If the object is destroyed you cannot reabsorb it but may heal normally. You may dismiss any object created in this way regardless of distance. Doing so does not restore the lost hit points but allows you to recover normally as if the object was destroyed. Even through Distant Creation or other options, you cannot create objects further away from you than adjacent spaces. You must take either the Created Momentum, Exquisite Detail, or Practiced Creation talent with the bonus talent gained from this drawback.
 
 **Incompatible:** Limited Creation (alter)
 
-## Limited Creation
+#### Limited Creation
 
 Choose either alter or create. You can only use this ability.
 
-## Material Focus
+#### Material Focus
 
 You may only create or alter objects of a single, special substance such as wood, stone, bones, gas, etc. If the material in question would require a (material) talent to use, you must choose that (material) talent as the talent gained from this drawback. You cannot gain any other (material) talent. If you choose a material not available from 1st caster level (for example: iron or gold), this does not allow you to create or alter that material before your caster level is high enough.
 
 **Incompatible:** Water Wizard
 
-## Material Mimic
+#### Material Mimic
 
 In order to create or alter objects you must be in physical contact with another object that is composed of the material that will result from the effect and no more than three size categories smaller (e.g. to create a Medium iron object, you would need to be touching another iron object of Diminutive size or larger). If you possess Change Material then this restricts the materials you can change the targeted object into. You may not use your own body as a blueprint, but you may use other creatures, if applicable.
 
-## Water Wizard
+#### Water Wizard
 
 You may only create or alter water, ice, and steam. You lose the ability to create or alter vegetable matter and instead can create or alter water in its solid, liquid, or gaseous forms. You gain Gaseous Generation as the bonus talent gained from this drawback, but can only use it to affect steam. You cannot gain any other (material) talents.
 

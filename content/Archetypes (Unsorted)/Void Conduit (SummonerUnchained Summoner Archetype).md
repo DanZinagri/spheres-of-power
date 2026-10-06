@@ -12,7 +12,7 @@ This archetype requires [[Sphere Summoner (SummonerUnchained Summoner Archetype)
 
 *A direct conduit to a vestige of some greater power, godly or otherwise. The void conduit is a capable wielder of their otherworldly companion, capable of limited manifestations to create miracles, devastate their foes, and otherwise channel the elseworlds directly to their own space.*
 
-### Avatar
+## Avatar
 
 A void conduit gains the Conjuration sphere as a bonus talent and their conjuration companion gains the [[Voidrusher#Avatar (Conjuration Companion)|Avatar]] archetype. If the void conduit already possesses the Conjuration sphere, they must select the Extra Companion talent (or purchase back any drawbacks which remove the ability to summon a companion). The Conjuration sphere companion granted by this talent must be given the avatar companion archetype and is referred to by this class as the void conduit’s “avatar”. The void conduit uses their void conduit level as their caster level when determining the statistics and abilities of their avatar. This stacks normally with caster levels gained from other sources.
 
@@ -20,7 +20,7 @@ The void conduit’s avatar is always designated as the void conduit’s ‘eido
 
 This alters eidolon.
 
-### Commandment (Su)
+## Commandment (Su)
 
 The void conduit is connected to their power, and their power responds in kind.
 
@@ -32,7 +32,7 @@ At 8th level, the void conduit may spend 1 spell point as a free action to refre
 
 At 14th level, commandment may be used once every 1d3 rounds.
 
-### Avatar Mastery (Su)
+## Avatar Mastery (Su)
 
 The void conduit gains a bonus Conjuration (form) talent at 1st level and every odd level thereafter. This (form) talent must be applied to the void conduit’s avatar.
 
@@ -40,7 +40,7 @@ Whenever the void conduit rests to regain spell points, the void conduit may cho
 
 This replaces summon mastery from the sphere summoner archetype.
 
-### Conduit’s Visage (Su)
+## Conduit’s Visage (Su)
 
 At 1st level, whenever the void conduit rests to regain spell points, they may choose one (form) talent possessed by their avatar, gaining that (form) talent's benefits. Determine the benefits of any (form) talent gained this way using your void conduit level as your caster level or your Hit Dice as needed; any attribute bonuses granted this way are insight bonuses. If the void conduit chooses a (form) talent that requires a spell point, the void conduit must spend that spell point when choosing it this way. The void conduit may choose to suppress or resume any (form) talent chosen with this ability as a free action.
 
@@ -48,29 +48,29 @@ The void conduit may choose an additional (form) talent at 3rd level and every 2
 
 This replaces bond senses, aspect, and greater aspect.
 
-**Note**: The void conduit’s avatar’s mirror of the master ability does not “mirror” the effects of any (form) talents borrowed this way, as the avatar already benefits from this (form) talent. If the void conduit selects a (form) talent that would assign a specific ability score or alter saving throw progression (such as the Amorphous Creature (form) talent or the Skill Companion (form) talent), do not adjust the void conduit’s ability scores or saving throws.
+**Note:** The void conduit’s avatar’s mirror of the master ability does not “mirror” the effects of any (form) talents borrowed this way, as the avatar already benefits from this (form) talent. If the void conduit selects a (form) talent that would assign a specific ability score or alter saving throw progression (such as the Amorphous Creature (form) talent or the Skill Companion (form) talent), do not adjust the void conduit’s ability scores or saving throws.
 
-**Author’s Note**: This ability can grant the void conduit “permanent” access to certain magic effects, such as fast healing 1, flight and various movement modes, etc. Generally, (form) talents do not present such a large benefit as to need to restrict access to them (a normal summoner’s eidolon could also have this constantly); GMs that feel that a (form) talent is inappropriate should work with their player to restrict access to such effects.
+**Author’s Note:** This ability can grant the void conduit “permanent” access to certain magic effects, such as fast healing 1, flight and various movement modes, etc. Generally, (form) talents do not present such a large benefit as to need to restrict access to them (a normal summoner’s eidolon could also have this constantly); GMs that feel that a (form) talent is inappropriate should work with their player to restrict access to such effects.
 
-### Void’s Comfort (Su)
+## Void’s Comfort (Su)
 
 Whatever accompanies the conduit provides its strengths, and its protections.
 
 The void conduit gains the following abilities at the listed levels. These abilities continue to function even if the void conduit’s avatar is not summoned.
 
-**Otherworldly Shield**: At 2nd level, when unencumbered and conscious, the void conduit adds their casting ability modifier to their AC and CMD. If the void conduit wears armor or uses a shield, the void conduit instead adds half their casting ability modifier to their AC and CMD (minimum 0). In addition, the void conduit gains a +1 bonus to their AC and CMD at 4th level; this bonus increases by 1 for every 4 void conduit levels thereafter.
+**Otherworldly Shield:** At 2nd level, when unencumbered and conscious, the void conduit adds their casting ability modifier to their AC and CMD. If the void conduit wears armor or uses a shield, the void conduit instead adds half their casting ability modifier to their AC and CMD (minimum 0). In addition, the void conduit gains a +1 bonus to their AC and CMD at 4th level; this bonus increases by 1 for every 4 void conduit levels thereafter.
 
 These bonuses to AC apply even against touch attacks and when the void conduit is flatfooted. The void conduit loses these bonuses when they are immobilized or helpless. These bonuses do not stack with the monk AC bonus class feature.
 
-**Shared Pain**: At 4th level, whenever the void conduit would take hit point damage, the void conduit may transfer an amount of damage equal to their casting ability modifier to their avatar (if summoned). Damage transferred by this talent cannot be prevented, resisted, or otherwise redirected further.
+**Shared Pain:** At 4th level, whenever the void conduit would take hit point damage, the void conduit may transfer an amount of damage equal to their casting ability modifier to their avatar (if summoned). Damage transferred by this talent cannot be prevented, resisted, or otherwise redirected further.
 
-**Swirled Aether**: At 8th level, once per round, whenever the void conduit uses their commandment ability (or the void conduit’s avatar otherwise makes a successful attack or a creature fails its saving throw against one of the avatar’s abilities), the void conduit gains a number of temporary hit points equal to their void conduit level. These temporary hit points stack with themselves, to a maximum of 1/2 the void conduit’s maximum hit points. These temporary hit points last for 1 minute.
+**Swirled Aether:** At 8th level, once per round, whenever the void conduit uses their commandment ability (or the void conduit’s avatar otherwise makes a successful attack or a creature fails its saving throw against one of the avatar’s abilities), the void conduit gains a number of temporary hit points equal to their void conduit level. These temporary hit points stack with themselves, to a maximum of 1/2 the void conduit’s maximum hit points. These temporary hit points last for 1 minute.
 
 Attacks made against enemies with fewer Hit Dice than 1/2 the void conduit’s character level do not grant temporary hit points.
 
 This replaces life bond, life link, shield ally, and greater shield ally.
 
-### Form Surge (Su)
+## Form Surge (Su)
 
 At 5th level, once per day as a standard action, the void conduit may choose a single (form) talent, gaining that (form) talent for a number of minutes equal to the void conduit’s class level (as though applying the (form) talent to themselves with the conduit’s visage ability). If the void conduit chooses a (form) talent that requires a spell point, the void conduit must spend that spell point when choosing it this way.
 
@@ -78,13 +78,13 @@ The void conduit may use this an additional time at 9th level, and every 4 level
 
 At 18th level, the void conduit gains a (form) talent chosen with this ability for a number of hours equal to the void conduit’s class level (instead of minutes).
 
-### Step Through the Gap (Su)
+## Step Through the Gap (Su)
 
 At 6th level, the void conduit gains the Warp sphere as a bonus sphere. In addition, the void conduit gains a pool of points equal to their void conduit level. The void conduit may spend these points as though they were spell points on any (form) talent, including selecting (form) talents with conduit’s visage or form surge, as well as any Warp sphere effects. This pool refills whenever the void conduit rests and regains spell points.
 
 This replaces maker’s call and transposition.
 
-### Sense Gateways (Su)
+## Sense Gateways (Su)
 
 Whatever force accompanies the conduit calls out, and the conduit begins to notice the pathways.
 
@@ -92,19 +92,19 @@ At 10th level, the void conduit gains a unique sense, allowing the void conduit 
 
 At 20th level, the range of this sense is 1 mile per void conduit level.
 
-### Reflections (Su)
+## Reflections (Su)
 
 At 12th level, the void conduit may meditate and reignite their connection to their avatar. By spending 10 consecutive minutes, the void conduit may rechoose any number of (form) talents for the conduit’s visage ability, as though they had just rested and regained spell points. Any (form) talents chosen replace previously chosen (form) talents from the conduit’s visage ability.
 
 If a (form) talent has a daily use limitation (such as the Conjuration Aligned Form (form) talent), any uses of that (form) talent count toward that (form) talent’s daily limit. If a (form) talent would require a character to make a choice upon gaining the (form), such as the Capable Companion (form) bonus feat, or the Elemental Creature (form) energy type, those choices cannot be changed until the void conduit actually rests and regains their spell points (and chooses their (form) talents the first time for the day).
 
-### Merge with the Void (Su)
+## Merge with the Void (Su)
 
 At 16th level, the void conduit may use the merge forms ability normally, temporarily summoning their avatar to merge with it (bypassing the avatar’s unsummonable ability). While the void conduit is merged with their avatar, their avatar ceases possessing the void conduit (and immediately re-possesses the void conduit when the ability’s duration ends).
 
 This alters merge forms.
 
-### Manifest the Void (Su)
+## Manifest the Void (Su)
 
 At 20th level, the void conduit gains the Conjuration sphere Lingering Companion (form) talent as a bonus talent, granting this (form) talent to their avatar, and the void conduit may now summon their avatar as though it were a normal Conjuration companion (bypassing the avatar’s unsummonable ability). In addition, when choosing (form) talents with the conduit’s visage class feature after resting and regaining spell points, the void conduit may choose any number of (form) talents their avatar possesses.
 

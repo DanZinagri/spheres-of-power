@@ -8,7 +8,6 @@ parent: "[[Ultimate Engineering]]"
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
-# Cyborg
 
 *“What is a man but the sum of his parts? What are parts but the ways we live our life? Should we not make our parts better, so that our sum is higher?”*
 
@@ -20,9 +19,9 @@ To qualify to become a cyborg, a character must fulfill all the following criter
 - **Skills:** Tinker sphere associated skill (5 or more ranks)
 - **Talents:** Tinker sphere (any two talents)
 
-**Class Skills**: The cyborg’s class skills are Knowledge (engineering), plus additional skills as determined by their cybernetic path (see below).
-**Skill Points at each Level**: 4 + Int modifier.
-**Hit Die**: d8.
+**Class Skills:** The cyborg’s class skills are Knowledge (engineering), plus additional skills as determined by their cybernetic path (see below).
+**Skill Points at each Level:** 4 + Int modifier.
+**Hit Die:** d8.
 
 **Table: Cyborg**
 
@@ -35,9 +34,9 @@ To qualify to become a cyborg, a character must fulfill all the following criter
 | 4 | +4 | +2 | +1 | Mechanical resilience (+4, 50%), cyberware (4) | 2 |
 | 5 | +5 | +3 | +2 | Cybernetic ascension, cyberware (5) | 2 |
 
-**Combat Training:** A cyborg may combine combat spheres and talents to create powerful martial techniques. Cyborgs gain combat talents according to**Table: Cyborg**.
+**Combat Training:** A cyborg may combine combat spheres and talents to create powerful martial techniques. Cyborgs gain combat talents according to **Table: Cyborg**.
 
-**Cybernetic Path**: At 1st level, the cyborg chooses one of the following paths and gains its features. The cyborg’s cybernetic path determines their additional class skills, good saving throws, and one or more class features that the cyborg gains. A class feature granted this way stacks with other sources of that class feature.
+**Cybernetic Path:** At 1st level, the cyborg chooses one of the following paths and gains its features. The cyborg’s cybernetic path determines their additional class skills, good saving throws, and one or more class features that the cyborg gains. A class feature granted this way stacks with other sources of that class feature.
 
 For example, a gadgeteer cyborg gains the inspiration class feature and, if the cyborg possesses the inspiration class feature from a different source, their cyborg level would stack with investigator levels when determining the inspiration ability’s effects.
 
@@ -59,13 +58,13 @@ If the cyborg would possess feats, features, or options to further alter their g
 
 **Note - Cyborgs and Feat Prerequisites:** The cyborg is treated as possessing the (augmentation) package and any other Tinker sphere talents for the purposes of feat prerequisites (but only for feats that directly modify or provide options to *augmentations* or *prosthetics*, such as the Compounding Arsenal feat). Qualifying for feats this way is subject to GM discretion. Feats qualified for via this ability only benefit the cyborg’s cyberware.
 
-**Mechanical Resilience (Ex)**: At 2nd level, the cyborg gets +2 on all Fortitude saving throws against effects that can’t also affect objects, Will saves against mind-affecting effects, and a 25% chance to ignore critical hits and precision damage, which stacks with other chances to ignore critical hits and precision damage.
+**Mechanical Resilience (Ex):** At 2nd level, the cyborg gets +2 on all Fortitude saving throws against effects that can’t also affect objects, Will saves against mind-affecting effects, and a 25% chance to ignore critical hits and precision damage, which stacks with other chances to ignore critical hits and precision damage.
 
 At 4th level, the bonus to saving throws increases to +4 and the chance to ignore critical hits and precision damage increases to 50%.
 
 **Technical Expertise (Ex):** At 3rd level, the cyborg gains Skill Focus as a bonus feat, selecting their Tinker sphere associated skill.
 
-**Cybernetic Ascension (Ex)**: At 5th level, the cyborg chooses one of their cyberware, increasing its effective gizmo level by +5. The cyborg may change the selected cyberware each time they maintain their gizmos.
+**Cybernetic Ascension (Ex):** At 5th level, the cyborg chooses one of their cyberware, increasing its effective gizmo level by +5. The cyborg may change the selected cyberware each time they maintain their gizmos.
 
 ### Cybernetic Paths
 

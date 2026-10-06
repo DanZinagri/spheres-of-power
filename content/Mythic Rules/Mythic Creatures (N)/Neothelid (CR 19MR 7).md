@@ -13,20 +13,20 @@ Its slime-drenched length coiled upon itself in a shuddering mountain, this huge
 XP 204,800
 Pathfinder Roleplaying Game Bestiary
 CE Colossal aberration (mythic)
-**Init**+8MF (+15 underground), dual initiativeMA;**Senses** blindsight 100 ft., trace teleport 60 ft.; Perception +25 (+32 undergound)
+**Init** +8MF (+15 underground), dual initiativeMA; **Senses** blindsight 100 ft., trace teleport 60 ft.; Perception +25 (+32 undergound)
 
 #### Defense
 
-**AC**39,**touch**-1,**flat-footed** 39 (+4 armor, –3 Dex, +36 natural, –8 size)
+**AC** 39, **touch** -1, **flat-footed** 39 (+4 armor, –3 Dex, +36 natural, –8 size)
 **hp** 326 (20d8+236)
-**Fort**+17,**Ref**+3,**Will** +16
-**Defensive Abilities**energy conversionMA, DR 10/cold iron and epic, plus slashing or piercing;**SR** 33
+**Fort** +17, **Ref** +3, **Will** +16
+**Defensive Abilities** energy conversionMA, DR 10/cold iron and epic, plus slashing or piercing; **SR** 33
 
 #### Offense
 
 **Speed** 30 ft., fly 60 ft. (good)
 **Melee** 4 tongues +19 (3d8+12/19–20 plus 1d6 acid and grab)
-**Space**30 ft.;**Reach** 30 ft.
+**Space** 30 ft.; **Reach** 30 ft.
 **Special Attacks** breath weapon (50-ft. cone, 14d10 acid, Reflex DC 29 for half, usable every 1d4 rounds), caustic tonguesMA, fast swallowMA, mind thrust, mind-melting effluentMA, mythic power (7/day, surge +1d10), psychic crush, swallow whole (2d8+12 plus 2d6 acid damage, AC 28, 32 hp)
 
 **Spell-Like Abilities** (CL 20th; concentration +27)
@@ -37,8 +37,8 @@ At will—detect thoughts (DC 19), charm monster (DC 21), clairvoyance/clairaudi
 
 #### Statistics
 
-**Str**34,**Dex**5,**Con**28,**Int**18,**Wis**15,**Cha** 25
-**Base Atk**+15;**CMB**+35 (+39 grapple);**CMD** 42 (can’t be tripped)
+**Str** 34, **Dex** 5, **Con** 28, **Int** 18, **Wis** 15, **Cha** 25
+**Base Atk** +15; **CMB** +35 (+39 grapple); **CMD** 42 (can’t be tripped)
 **Feats** Cleave, Critical FocusMF, Great Cleave, Great Fortitude, Improved CriticalMF (tongue), Improved InitiativeMF, Iron Will, Power AttackMF, Quicken Spell-Like Ability (suggestion), Sickening Critical
 **Skills** Bluff +25, Climb +16, Diplomacy +25, Fly +10, Intimidate +28, Knowledge (arcana) +25, Knowledge (dungeoneering, engineering) +20 (+27 underground), Perception +25 (+32 underground), Spellcraft +26, Use Magic Device +18
 **Languages** Aklo, Terran, Undercommon; telepathy 100 ft.
@@ -74,7 +74,7 @@ At will—detect thoughts (DC 19), charm monster (DC 21), clairvoyance/clairaudi
 
 #### Mythic Neothelid
 
-Without the giant simple template, a mythic neothelid’s stats are as follows: **CR**18/**MR**7;**XP**102,400;**Size**Gargantuan;**Init**+9 (+16 underground);**AC**41,**touch**4,**flat-footed**41;**hp**286;**Fort**+15,**Ref**+4;**Melee**4 tongues +21 (3d6+10/19–20 plus 1d6 acid and grab);**Space**20 ft.,**Reach**20 ft.;**Special Attacks**breath weapon (DC 27), swallow whole (2d6+10 bludgeoning damage damage, AC 26, 28 hp);**Str**30,**Dex**7,**Con**24;**CMB**+29 (+33 grapple);**CMD**37;**Skills** Climb +14.
+Without the giant simple template, a mythic neothelid’s stats are as follows: **CR** 18/**MR** 7; **XP** 102,400; **Size** Gargantuan; **Init** +9 (+16 underground); **AC** 41, **touch** 4, **flat-footed** 41; **hp** 286; **Fort** +15, **Ref** +4; **Melee** 4 tongues +21 (3d6+10/19–20 plus 1d6 acid and grab); **Space** 20 ft., **Reach** 20 ft.; **Special Attacks** breath weapon (DC 27), swallow whole (2d6+10 bludgeoning damage damage, AC 26, 28 hp); **Str** 30, **Dex** 7, **Con** 24; **CMB** +29 (+33 grapple); **CMD** 37; **Skills** Climb +14.
 
 ---
 

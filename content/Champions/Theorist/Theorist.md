@@ -296,7 +296,7 @@ Magic advances the universe towards balanced, stable states, eventually correcti
 
 #### Foundational [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Magic is best understood when the basics are mastered first—one must understand the rules well before they begin to break them.
 
@@ -408,15 +408,15 @@ There may well be no reason to magic’s manifestation, and arcane forces might 
 
 #### Psychological [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 The mind—just like magic—is incredibly complex, and is informed by a plethora of external and internal factors.
 
-**Pattern**: Doubling values. If any hypothesis dice roll a value that is double that of another hypothesis dice (1 and 2, 2 and 4, 3 and 6), those dice may be assigned to the psychological model.
+**Pattern:** Doubling values. If any hypothesis dice roll a value that is double that of another hypothesis dice (1 and 2, 2 and 4, 3 and 6), those dice may be assigned to the psychological model.
 
-**Magical Underpinning**: Whenever the theorist perceives an ally succeed—or an enemy fail—a saving throw or skill check, they gain a +1 bonus to saving throws of that type or skill checks which use the triggering check’s ability score for 1 round. These bonuses increase by 1 at 6th level and every 6 levels thereafter.
+**Magical Underpinning:** Whenever the theorist perceives an ally succeed—or an enemy fail—a saving throw or skill check, they gain a +1 bonus to saving throws of that type or skill checks which use the triggering check’s ability score for 1 round. These bonuses increase by 1 at 6th level and every 6 levels thereafter.
 
-**Theory Bonus**: Whenever the theorist rolls a d20 and the result is equal to or less than their theory bonus, they can spend a hypothesis die to reroll the d20 roll and add half their theory bonus to the attempt. The theorist must take this new result, even if it is worse.
+**Theory Bonus:** Whenever the theorist rolls a d20 and the result is equal to or less than their theory bonus, they can spend a hypothesis die to reroll the d20 roll and add half their theory bonus to the attempt. The theorist must take this new result, even if it is worse.
 
 #### Relativist
 
@@ -450,7 +450,7 @@ The phenomenal is an extension of one’s own will upon the universe, and so res
 
 #### Superstition [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Some may see the unknowns of magic as a flaw, a problem to solve—you see these mysteries as a strength.
 

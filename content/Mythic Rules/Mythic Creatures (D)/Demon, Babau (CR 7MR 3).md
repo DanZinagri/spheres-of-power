@@ -13,20 +13,20 @@ This emaciated figure looks like a horned human skeleton smothered within a bone
 XP 3,200
 Pathfinder Roleplaying Game Bestiary
 CE Medium outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**+8MF;**Senses** darkvision 60 ft., see invisibility; Perception +19
+**Init** +8MF; **Senses** darkvision 60 ft., see invisibility; Perception +19
 
 #### Defense
 
-**AC**22,**touch**11,**flat-footed** 21 (+1 Dex, +11 natural)
+**AC** 22, **touch** 11, **flat-footed** 21 (+1 Dex, +11 natural)
 **hp** 103 (7d10+65)
-**Fort**+10,**Ref**+6,**Will** +5
-**Defensive Abilities**protective slimeMA (DC 18); DR 10/cold iron and epic and good;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 18
+**Fort** +10, **Ref** +6, **Will** +5
+**Defensive Abilities** protective slimeMA (DC 18); DR 10/cold iron and epic and good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 18
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** 2 claws +13 (1d6+6), bite +13 (1d6+6) or +1 unholy wounding longspear +14/+9 (1d8+10/x3), bite +8 (1d6+3)
-**Space**5 ft.;**Reach** 5 ft. (10 ft. with longspear)
+**Space** 5 ft.; **Reach** 5 ft. (10 ft. with longspear)
 **Special Attacks** mythic power (3/day, surge 1d6), sneak attack +4d6, vomit slimeMA (DC 18)
 
 **Spell-Like Abilities** (CL 7th; concentration +10)
@@ -36,10 +36,10 @@ At will—darkness, dispel magic, greater teleport (self plus 50 lbs. of objects
 
 #### Statistics
 
-**Str**23,**Dex**13,**Con**20,**Int**14,**Wis**13,**Cha** 16
-**Base Atk**+7;**CMB**+13;**CMD** 24
+**Str** 23, **Dex** 13, **Con** 20, **Int** 14, **Wis** 13, **Cha** 16
+**Base Atk** +7; **CMB** +13; **CMD** 24
 **Feats** Combat Reflexes, Improved InitiativeMF, Iron Will, Skill Focus (Stealth)MF
-**Skills**Acrobatics +11, Climb +13, Disable Device +11, Escape Artist +11, Perception +19, Sense Motive +11, Sleight of Hand +11, Stealth +22;**Racial Modifiers** +8 Perception, +8 Stealth
+**Skills** Acrobatics +11, Climb +13, Disable Device +11, Escape Artist +11, Perception +19, Sense Motive +11, Sleight of Hand +11, Stealth +22; **Racial Modifiers** +8 Perception, +8 Stealth
 **Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.
 **SQ** death throesMA (DC 18), fang of the AbyssMA
 

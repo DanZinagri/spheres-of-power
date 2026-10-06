@@ -14,29 +14,29 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Closed Hand [SA:MD2]
+#### Closed Hand [SA:MD2]
 
 You do not gain the sweep ability. You gain Shattering Palm with this drawback.
 
 **Incompatible:** Enlightened Focus, Hardened Palm, Savage Combatant, Soft Style.
 
-## Enlightened Focus [SA:MD]
+#### Enlightened Focus [SA:MD]
 
 You do not gain the sweep ability. You gain Mystic Fists with this drawback.
 
 **Incompatible:** Hardened Palm, Savage Combatant.
 
-## Hardened Palm [SA:MD]
+#### Hardened Palm [SA:MD]
 
 You do not gain the sweep ability. You gain Iron Fist with this drawback.
 
 **Incompatible:** Enlightened Focus, Savage Combatant.
 
-## Savage Combatant
+#### Savage Combatant
 
 You do not gain the sweep ability. You must take Tear Flesh as the bonus talent gained from taking this drawback.
 
-## Soft Style [SA:MD2]
+#### Soft Style [SA:MD2]
 
 The Open Hand sphere does not grant increased unarmed damage, confer the benefits of Improved Unarmed Strike, or count as a sphere focused on unarmed combat. You do not treat Improved Unarmed Strike as an associated feat, and cannot select this drawback if you gained the Open Hand sphere instead of gaining Improved Unarmed Strike. You gain Greater Trip with this drawback.
 

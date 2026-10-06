@@ -13,28 +13,28 @@ This large tiger grumbles a warning as it crouches. Two saber-like fangs jut dow
 XP 9,600
 Pathfinder Roleplaying Game Bestiary
 N Large animal (mythic)
-**Init**+11MF;**Senses** low-light vision, scent; Perception +12
+**Init** +11MF; **Senses** low-light vision, scent; Perception +12
 
 #### Defense
 
-**AC**22,**touch**12,**flat-footed** 19 (+3 Dex, +10 natural, –1 size)
+**AC** 22, **touch** 12, **flat-footed** 19 (+3 Dex, +10 natural, –1 size)
 **hp** 137 (14d8+74)
-**Fort**+12,**Ref**+12,**Will** +5
-**Defensive Abilities**evasionMA; DR 10/epic;**Immune** fearMA
+**Fort** +12, **Ref** +12, **Will** +5
+**Defensive Abilities** evasionMA; DR 10/epic; **Immune** fearMA
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** 2 claws +19 (2d4+9 plus grab), bite +19 (2d6+9/19–20 plus grab)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (4/day, surge +1d8), pounce, rake (2 claws +19, 2d4+9), tear limbMA
 
 #### Statistics
 
-**Str**29,**Dex**17,**Con**17,**Int**2,**Wis**12,**Cha** 10
-**Base Atk**+10;**CMB**+20 (+24 grapple);**CMD** 33 (37 vs. trip)
+**Str** 29, **Dex** 17, **Con** 17, **Int** 2, **Wis** 12, **Cha** 10
+**Base Atk** +10; **CMB** +20 (+24 grapple); **CMD** 33 (37 vs. trip)
 **Feats** Improved Critical (bite), Improved InitiativeMF, Run, Skill Focus (Perception), Skill FocusMF (Stealth), Weapon Focus (bite, claw)
-**Skills**Acrobatics +7 (+11 when jumping), Perception +12, Stealth +16 (+20 in tall grass), Swim +14;**Racial Modifiers** +4 Acrobatics, +4 Stealth (+8 in tall grass)
+**Skills** Acrobatics +7 (+11 when jumping), Perception +12, Stealth +16 (+20 in tall grass), Swim +14; **Racial Modifiers** +4 Acrobatics, +4 Stealth (+8 in tall grass)
 **SQ** hide in plain sightMA, stealthy chargerMA
 
 #### Ecology

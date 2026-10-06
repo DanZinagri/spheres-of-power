@@ -13,13 +13,13 @@ Like some miniscule, wicked old man, this snarling little humanoid wears metal b
 XP 3,200
 Pathfinder Roleplaying Game Bestiary 2
 NE Small fey (mythic)
-**Init**+8;**Senses** low-light vision; Perception +12
+**Init** +8; **Senses** low-light vision; Perception +12
 
 #### Defense
 
-**AC**23,**touch**15,**flat-footed** 19 (+2 armor, +4 Dex, +6 natural, +1 size)
+**AC** 23, **touch** 15, **flat-footed** 19 (+2 armor, +4 Dex, +6 natural, +1 size)
 **hp** 78 (8d6+50); fast healing 5
-**Fort**+6,**Ref**+10,**Will** +7
+**Fort** +6, **Ref** +10, **Will** +7
 **Defensive Abilities** DR 10/cold iron and epic
 **Weaknesses** irreligious outrageMA
 
@@ -31,8 +31,8 @@ NE Small fey (mythic)
 
 #### Statistics
 
-**Str**20,**Dex**19,**Con**18,**Int**16,**Wis**13,**Cha** 15
-**Base Atk**+4;**CMB**+8;**CMD** 22
+**Str** 20, **Dex** 19, **Con** 18, **Int** 16, **Wis** 13, **Cha** 15
+**Base Atk** +4; **CMB** +8; **CMD** 22
 **Feats** CleaveMF, Improved Initiative, Power AttackMF, Weapon Focus (scythe)
 **Skills** Acrobatics +15 (+27 jump), Bluff +13, Climb +16, Escape Artist +15, Intimidate +10, Knowledge (nature) +14, Perception +12, Sense Motive +12, Stealth +19
 **Languages** Aklo, Common, Giant, Sylvan

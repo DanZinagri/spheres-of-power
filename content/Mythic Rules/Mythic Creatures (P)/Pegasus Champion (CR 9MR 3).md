@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (P)]]"
 XP 6,400
 Pathfinder Roleplaying Game Bestiary (variant pegasus)
 CG Large magical beast (mythic)
-**Init**+6;**Senses** darkvision 60 ft., detect evil, detect good, low-light vision, scent; Perception +19
+**Init** +6; **Senses** darkvision 60 ft., detect evil, detect good, low-light vision, scent; Perception +19
 
 #### Defense
 
-**AC**24,**touch**16,**flat-footed** 17 (+6 Dex, +1 dodge, +8 natural, –1 size)
+**AC** 24, **touch** 16, **flat-footed** 17 (+6 Dex, +1 dodge, +8 natural, –1 size)
 **hp** 124 (9d10+75)
-**Fort**+11,**Ref**+12,**Will** +8; +4 vs. poison
-**Defensive Abilities**aerobaticsMA, unbridled gloryMA; DR 5/epic;**Immune**petrification;**Resist** fire 10
+**Fort** +11, **Ref** +12, **Will** +8; +4 vs. poison
+**Defensive Abilities** aerobaticsMA, unbridled gloryMA; DR 5/epic; **Immune** petrification; **Resist** fire 10
 
 #### Offense
 
 **Speed** 60 ft., fly 120 ft. (perfect)
 **Melee** bite +14 (1d3+6), 2 hooves +14 (1d6+6), 2 wing buffets +9 (1d4+3)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (3/day, surge 1d6), titanic smiteMA, whipping wingsMA
 
 **Spell-Like Abilities** (CL 9th; concentration +12)
@@ -32,10 +32,10 @@ Constant—detect evil (60-ft. radius), detect good (60-ft. radius)
 
 #### Statistics
 
-**Str**22,**Dex**22,**Con**20,**Int**14,**Wis**17,**Cha** 17
-**Base Atk**+9;**CMB**+16;**CMD** 32 (36 vs. trip)
+**Str** 22, **Dex** 22, **Con** 20, **Int** 14, **Wis** 17, **Cha** 17
+**Base Atk** +9; **CMB** +16; **CMD** 32 (36 vs. trip)
 **Feats** Dodge, Flyby Attack, Iron WillMF, MobilityMF, Wind Stance
-**Skills**Acrobatics +16 (+28 when jumping), Fly +22, Perception +19, Sense Motive +10, Stealth +10, Swim +10;**Racial Modifiers** +4 Perception
+**Skills** Acrobatics +16 (+28 when jumping), Fly +22, Perception +19, Sense Motive +10, Stealth +10, Swim +10; **Racial Modifiers** +4 Perception
 **Languages** Auran, Celestial, Common
 
 #### Ecology

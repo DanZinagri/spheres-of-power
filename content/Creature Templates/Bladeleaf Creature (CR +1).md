@@ -16,7 +16,7 @@ Plant creatures often suffer the axes and fire of humanoid creatures, even more 
 
 **Armor Class:** Natural armor improves by +10.
 
-**Defensive Abilities:** fast healing 5 (if the bladeleaf’s CR is 6 or higher increase to 10, if 12 or higher increase to 20, see living form); DR 5/slashing, magic, and cold iron (if the bladeleaf’s CR is 6 or higher increase to DR 10/slashing, magic, and cold iron, if 12 or higher increase to 15/ slashing, magic, and cold iron);**Immune** cold, electricity, fire.
+**Defensive Abilities:** fast healing 5 (if the bladeleaf’s CR is 6 or higher increase to 10, if 12 or higher increase to 20, see living form); DR 5/slashing, magic, and cold iron (if the bladeleaf’s CR is 6 or higher increase to DR 10/slashing, magic, and cold iron, if 12 or higher increase to 15/ slashing, magic, and cold iron); **Immune** cold, electricity, fire.
 
 **Special Abilities:** A bladeleaf creature retains all the special abilities of the base creature, plus the special abilities as described below.
 
@@ -29,25 +29,25 @@ Plant creatures often suffer the axes and fire of humanoid creatures, even more 
 ### Animated Leaves
 
 N Fine plant (swarm)
-**Init**+XX [As base creature];**Senses** low-light vision; Perception +XX [as base creature]
+**Init** +XX [As base creature]; **Senses** low-light vision; Perception +XX [as base creature]
 
 **DEFENSE**
-**AC**XX,**touch**XX,**flat-footed** XX (+XX Dex [As base creature], +XX natural armor [base creature’s natural armor -8], +8 size)
+**AC** XX, **touch** XX, **flat-footed** XX (+XX Dex [As base creature], +XX natural armor [base creature’s natural armor -8], +8 size)
 **hp** ½ base creature normal hp total
-**Fort**+XX,**Ref**+XX,**Will** +XX [All as base creature]
-**Defensive Abilities**plant and swarm traits;**Immune** cold, electricity, fire, plant traits, weapon damage [Plus any defensive abilities, resistance, immunities, weaknesses possessed by the base creature].
+**Fort** +XX, **Ref** +XX, **Will** +XX [All as base creature]
+**Defensive Abilities** plant and swarm traits; **Immune** cold, electricity, fire, plant traits, weapon damage [Plus any defensive abilities, resistance, immunities, weaknesses possessed by the base creature].
 
 **OFFENSE**
 **Speed** 90 ft. fly (perfect)
 **Melee** swarm (damage equal to creatures primary melee attack, plus bleed and distraction) [If the base creature’s natural attacks did extra damage, e. g. fire damage, energy drain, etc., the swarm attack does that extra damage as well.]
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** bleed (half swarm damage), distraction (DC 16), sundering storm
 
 **ABILITIES**
-**Str**1,**Dex**XX,**Con**XX,**Int**XX,**Wis**XX,**Cha** XX [Str become 1, all others are as base creature]
-**Base Atk**+XX;**CMB**-;**CMD** - [BAB as base creature, no CMB or CMD]
+**Str** 1, **Dex** XX, **Con** XX, **Int** XX, **Wis** XX, **Cha** XX [Str become 1, all others are as base creature]
+**Base Atk** +XX; **CMB** -; **CMD** - [BAB as base creature, no CMB or CMD]
 **Feats** As base creature
-**Skills**As base creature;**Racial Modifiers** +16 size modifier to steal, plus any racial modifiers possessed by base creature
+**Skills** As base creature; **Racial Modifiers** +16 size modifier to steal, plus any racial modifiers possessed by base creature
 **Languages** as base creature (understands but cannot speak)
 **SQ** Hive Mind
 

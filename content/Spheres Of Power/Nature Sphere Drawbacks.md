@@ -11,11 +11,11 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Holistic Brew
+#### Holistic Brew
 
 You must select the Instill Spirit talent with the bonus talent granted by this drawback, and you can only use your Nature sphere abilities through this talent. You must possess the Limited Nature talent twice to gain this drawback.
 
-## Limited Nature
+#### Limited Nature
 
 You gain only a single geomancing ability of your starting Nature package. For example, if you have the (plant) package, you gain only Entangle, Harvest, or Pummel. You must take a (geomancing) talent with the bonus talent gained from this drawback.
 

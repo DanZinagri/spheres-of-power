@@ -26,7 +26,7 @@ The fell powers of undeath rejoice when an exceptionally vile female monstrosity
 
 **Attack:** The witchfire loses all the base creature’s natural attacks, and its weapon and armor proficiencies. The witchfire gains a primary incorporeal touch attack and a witchflame bolt (see below). A witchfire uses its primary incorporeal touch attack when making an attack action. Because an incorporeal creature has no Strength score, its Dexterity modifier, rather than its Strength modifier applies to all its attack rolls. Both the witchfire’s incorporeal touch attack and ranged bolt deal a number of d6 damage equal to the witchfire’s challenge rating in fire damage (a CR 9 witchfire deals 9d6) plus its witchflame (see below). A bolt of witchflame has a range of 60 feet with no range increment.
 
-**Defenses/Qualities:** Channel resistance +4, incorporeal, undead traits;**Immune** fire
+**Defenses/Qualities:** Channel resistance +4, incorporeal, undead traits; **Immune** fire
 
 **Special Abilities:** A witchfire creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -49,4 +49,4 @@ The fell powers of undeath rejoice when an exceptionally vile female monstrosity
 | 17-18 | screen |
 | 19-20 | energy drain (3/day) |
 
-**Abilities:** Adjust from the base creature as follows:**Dex**+8 (+4 to Ranged attack rolls; AC and touch AC, Initiative, and Ref saves. +4 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +4 to any of the base creature’s Dexterity-based DCs),**Cha** +10 (+5 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +5 to any of the base creature’s Charisma-based DCs). As an incorporeal creature, a witchfire lacks a Strength score, and as an undead creature, it has no Constitution score.
+**Abilities:** Adjust from the base creature as follows: **Dex** +8 (+4 to Ranged attack rolls; AC and touch AC, Initiative, and Ref saves. +4 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +4 to any of the base creature’s Dexterity-based DCs), **Cha** +10 (+5 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +5 to any of the base creature’s Charisma-based DCs). As an incorporeal creature, a witchfire lacks a Strength score, and as an undead creature, it has no Constitution score.

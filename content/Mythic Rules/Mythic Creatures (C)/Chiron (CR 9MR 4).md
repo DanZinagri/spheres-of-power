@@ -12,21 +12,21 @@ This noble centaur carries an air of dignity and wisdom, with its silvery-white 
 **Chiron (CR 9/MR 4)**
 XP 6,400
 NG Large monstrous humanoid (mythic)
-**Init**+6;**Senses** darkvision 60 ft.; Perception +19
+**Init** +6; **Senses** darkvision 60 ft.; Perception +19
 
 #### Defense
 
-**AC**24,**touch**15,**flat-footed** 18 (+6 Dex, +8 natural, +1 shield, –1 size)
+**AC** 24, **touch** 15, **flat-footed** 18 (+6 Dex, +8 natural, +1 shield, –1 size)
 **hp** 133 (11d10+73)
-**Fort**+6,**Ref**+12,**Will** +12; +4 vs. death effects
-**Defensive Abilities**uncanny awarenessMA; DR 10/epic;**SR** 20
+**Fort** +6, **Ref** +12, **Will** +12; +4 vs. death effects
+**Defensive Abilities** uncanny awarenessMA; DR 10/epic; **SR** 20
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** 2 hooves +12 (1d6+2)
 **Ranged** +1 mythic bane composite longbow +17/+12/+7 (2d6+3/19–20/x3)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** bow of victoryMA, master mentor, mythic power (4/day, surge 1d8)
 
 **Spell-Like Abilities** (CL 11th; concentration +15)
@@ -36,8 +36,8 @@ At will—augury, bleed glory (DC 17), guidance, minor image (DC 16), restore my
 
 #### Statistics
 
-**Str**15,**Dex**23,**Con**16,**Int**17,**Wis**20,**Cha** 19
-**Base Atk**+11;**CMB**+14;**CMD** 30 (34 vs. trip)
+**Str** 15, **Dex** 23, **Con** 16, **Int** 17, **Wis** 20, **Cha** 19
+**Base Atk** +11; **CMB** +14; **CMD** 30 (34 vs. trip)
 **Feats** Deadly Aim, Improved Critical (composite longbow), ManyshotMF, Point-Blank Shot, Quicken Spell-Like Ability (true strike), Rapid ShotMF
 **Skills** Heal +10, Knowledge (arcana) +15, Knowledge (dungeoneering) +15, Knowledge (engineering) +15, Knowledge (geography) +15, Knowledge (history) +15, Knowledge (local) +15, Knowledge (nature) +15, Knowledge (nobility) +15, Knowledge (planes) +15, Knowledge (religion) +15, Perception +18, Perform (oratory) +10, Perform (sing) +10, Perform (string) +10, Survival +10, Use Magic Device +15
 **Languages** Aklo, Common, Sylvan

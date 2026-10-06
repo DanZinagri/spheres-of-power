@@ -14,7 +14,7 @@ parent: "[[Spheres Of Might]]"
 
 #### Battery, Galvanic Cell
 
-**Price**10 gp;**Weight** 1 lb.
+**Price** 10 gp; **Weight** 1 lb.
 
 This device is most commonly used by criminals in the fabrication of false coins through the process of electroplating; however, this device also contains sufficient energy to create a single charge that can be used to power gadgets from the Tech sphere and other technological devices.
 
@@ -27,7 +27,7 @@ This device is most commonly used by criminals in the fabrication of false coins
 
 #### Electric Box Fan
 
-**Price**120 gp;**Weight** 12 lbs.
+**Price** 120 gp; **Weight** 12 lbs.
 
 A Small-sized device capable of creating up to strong winds in a 15-ft. cone. Producing wind severity 1 requires a single charge per minute of use, producing wind severity 2 requires two charges per minute of use, and producing wind severity 3 requires four charges per minute of use (in 1 minute increments).
 
@@ -40,7 +40,7 @@ A Small-sized device capable of creating up to strong winds in a 15-ft. cone. Pr
 
 #### Electric Light
 
-**Price**2 gp;**Weight** 1 lb.
+**Price** 2 gp; **Weight** 1 lb.
 
 Shines light as a torch. Requires 1 charge per hour of use (in 1 hour increments).
 
@@ -53,7 +53,7 @@ Shines light as a torch. Requires 1 charge per hour of use (in 1 hour increments
 
 #### Firearm, Pipe Gun
 
-**Price**20 gp;**Weight** 12 lbs.
+**Price** 20 gp; **Weight** 12 lbs.
 
 This two-handed improvised firearm fires pellets or a bullet from its crude pipe barrel, making it adaptable to the situation. The pipe gun fires in a 15-ft. cone when firing pellets, and has a 10-ft. range increment when firing a bullet. A pipe gun uses a bullet or pellets and a single dose of black powder or a single alchemical cartridge as ammunition.
 
@@ -70,7 +70,7 @@ This two-handed improvised firearm fires pellets or a bullet from its crude pipe
 
 #### Grapple Gun
 
-**Price**50 gp;**Weight** 12 lbs.
+**Price** 50 gp; **Weight** 12 lbs.
 
 Instead of regular ammunition, this two-handed simple technological firearm fires only rope and grappling hooks, making it valuable tool to adventurers and vigilantes. If you attack and hit a creature whose size category is equal to or smaller than yourself, you may as a free action make a drag combat maneuver at range without provoking an attack of opportunity. You needn’t move with the target. The target cannot move further away than the length of the rope without first breaking it, or making a drag combat maneuver against you, pulling you along.
 
@@ -89,7 +89,7 @@ If you attack and hit a creature whose size category is larger than yourself, or
 
 #### Lock, Average Mechanical
 
-**Price**40 gp;**Weight** 1 lb.
+**Price** 40 gp; **Weight** 1 lb.
 
 Requires a DC 25 Disable Device check to open.
 
@@ -102,7 +102,7 @@ Requires a DC 25 Disable Device check to open.
 
 #### Lock, Good Mechanical
 
-**Price**80 gp;**Weight** 1 lb.
+**Price** 80 gp; **Weight** 1 lb.
 
 Requires a DC 30 Disable Device check to open.
 
@@ -115,7 +115,7 @@ Requires a DC 30 Disable Device check to open.
 
 #### Lock, Simple Electronic
 
-**Price**100 gp;**Weight** 1 lb.
+**Price** 100 gp; **Weight** 1 lb.
 
 With the Technologist feat (or similar ability), this lock requires a DC 20 Disable Device check to open. Without the Technologist feat (or similar ability), this lock requires a DC 35 Disable Device check to open.
 
@@ -128,7 +128,7 @@ With the Technologist feat (or similar ability), this lock requires a DC 20 Disa
 
 #### Lock, Simple Mechanical
 
-**Price**20 gp;**Weight** 1 lb.
+**Price** 20 gp; **Weight** 1 lb.
 
 Requires a DC 20 Disable Device check to open.
 
@@ -141,7 +141,7 @@ Requires a DC 20 Disable Device check to open.
 
 #### Lock, Superior Mechanical
 
-**Price**150 gp;**Weight** 1 lb.
+**Price** 150 gp; **Weight** 1 lb.
 
 Requires a DC 40 Disable Device check to open.
 
@@ -154,7 +154,7 @@ Requires a DC 40 Disable Device check to open.
 
 #### Parasol, Umbrella
 
-**Price**2 gp;**Weight** 3 lbs.
+**Price** 2 gp; **Weight** 3 lbs.
 
 Grants you or an adjacent creature (of your size or smaller) a +1 circumstance bonus on your hourly Fortitude saves against heat, and reduces the damage from a failed save by 1 hit point (minimum 1). In addition, the umbrella being waterproof, keeps the affected creature dry in the rain or snow. It provides insufficient protection in conditions of severe or greater heat categories. You must hold the umbrella in one hand to gain its benefits.
 
@@ -167,7 +167,7 @@ Grants you or an adjacent creature (of your size or smaller) a +1 circumstance b
 
 #### Steam-Carriage, Toy
 
-**Price**150 gp;**Weight** 10 lbs.
+**Price** 150 gp; **Weight** 10 lbs.
 
 A Tiny-sized mechanical construct in the shape of a carriage which spews forth steam or smoke when activated. Upon being activated as a move action, the toy will “Run” moving at x4 its movement speed of 30 ft. in a straight line for the round, at which time it will need to be refilled.
 

@@ -13,26 +13,26 @@ This terrible wolverine is as large as a bear, its jaws and claws oversized and 
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 N Large animal (mythic)
-**Init**+7;**Senses** low-light vision, scent; Perception +12
+**Init** +7; **Senses** low-light vision, scent; Perception +12
 
 #### Defense
 
-**AC**18,**touch**12,**flat-footed** 15 (+3 Dex, +6 natural, –1 size)
+**AC** 18, **touch** 12, **flat-footed** 15 (+3 Dex, +6 natural, –1 size)
 **hp** 68 (5d8+46)
-**Fort**+8,**Ref**+7,**Will** +2
+**Fort** +8, **Ref** +7, **Will** +2
 **Defensive Abilities** DR 5/epic
 
 #### Offense
 
 **Speed** 30 ft., climb 10 ft.
 **Melee** 2 claws +6 (1d8+4), bite +6 (1d6+4 plus 1d4 bleedMA)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** incapacitating muskMA, mythic power (2/day, surge +1d6), rageMA
 
 #### Statistics
 
-**Str**19,**Dex**17,**Con**19,**Int**2,**Wis**12,**Cha** 10
-**Base Atk**+3;**CMB**+8;**CMD** 21 (25 vs. trip)
+**Str** 19, **Dex** 17, **Con** 19, **Int** 2, **Wis** 12, **Cha** 10
+**Base Atk** +3; **CMB** +8; **CMD** 21 (25 vs. trip)
 **Feats** Improved Initiative, Skill Focus (Perception), ToughnessMF
 **Skills** Climb +12, Perception +12
 

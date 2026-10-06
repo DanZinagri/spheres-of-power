@@ -47,7 +47,7 @@ Some talents are marked (clarity), allowing you to trigger an effect whenever yo
 
 #### Contemplation [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Some talents are marked (contemplation), granting a meditate approach greater benefits the longer it has been maintained.
 
@@ -87,7 +87,7 @@ You may sleep in medium armor without becoming fatigued. If you sleep without ar
 
 #### Feign Weakness [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Whenever you succeed a saving throw against an effect originating from a hostile creature, you can choose to have the effect appear to affect you normally as a free action usable outside of your turn. This functions as though you were feigning a condition, although you can use an associated skill check in place of Bluff if it is opposed. The creator of the effect does not automatically know that you have succeeded at your saving throw (if they would, such as with magical effects), and must attempt to foil your feigned condition as normal.
 
@@ -95,7 +95,7 @@ For as long as you appear to be affected by the effect (or are feigning a condit
 
 #### Flexible Contemplation [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Whenever you have at least 8 hours of rest (or the equivalent of such), the first time you contemplate in the next hour allows you to instead contemplate a number of times equal to your operative modifier (minimum 1).
 
@@ -103,7 +103,7 @@ Alternatively, you can choose to contemplate as a standard action—if you do, y
 
 #### Guided Meditation [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Whenever you teach an Escape Artist skill use, you can do so in 10 minutes.
 
@@ -157,7 +157,7 @@ You can reveal and spend a plan as part of this action to ignore this restrictio
 
 #### Still Form [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 While meditating, you gain a circumstance bonus equal to 1/2 your associated ranks to Bluff checks made to feign a condition or lie, Disguise checks to disguise yourself as a stationary object, Stealth checks to hide while not moving, or any other skill check made related to remaining stationary or posing yourself precisely.
 
@@ -165,7 +165,7 @@ You can also choose to use your associated skill modifier in place of the normal
 
 #### Transcendent Meditation [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 When you abandon the meditate approach, you can do so as an immediate action to apply an additional (clarity) talent.
 
@@ -205,7 +205,7 @@ If you have the Physiological Mastery talent, your effective level of alertness 
 
 #### Detached (contemplation) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As a (contemplation) talent, you gain a number of temporary hit points equal to 1/2 your associated ranks + your operative modifier (minimum 1). This stacks with itself up to a maximum equal to 4 × your associated ranks.
 
@@ -227,7 +227,7 @@ As a (clarity) talent, you can abandon your meditate approach in response to bei
 
 #### Inexorable (clarity, control) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As a (control) talent, if you would become battered from a hostile source and the condition does not normally allow a saving throw to negate it, you gain a Fortitude saving throw to negate the condition, using the sphere DC that the sphere ability originates from (for example, the Berserker sphere save DC for a brutal strike). If this is not applicable, the GM determines what the DC is (usually 10 + 1/2 the source’s HD + a relevant ability score modifier).
 
@@ -245,7 +245,7 @@ In addition, as a (clarity) talent, until the start of your next turn you can ou
 
 #### Introspective (contemplation) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As a (contemplation) talent, you gain 2 points of introspection.
 
@@ -267,7 +267,7 @@ You can endure any failed ability check, skill check, or saving throw to avoid t
 
 #### Physiological Suspension (clarity) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can spend 1 minute in deep concentration to store a liquid consumable (such as a potion, ingested poison, Herbalism sphere concoction, etc.) within your body. The effects of the consumable are suspended during this time, although you can only have 1 such consumable suspended this way, +1 per 5 associated ranks—consumables that become inert after a certain amount of time, such as [instill] talents or Alchemy sphere formulae expire as normal.
 
@@ -319,7 +319,7 @@ In addition, as a (clarity) talent you may outwit a creature who you successfull
 
 #### Tune Out (clarity, contemplation, control) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As a (control) talent, you can endure auditory, sonic, language-dependent, and visual effects (including gaze attacks). Additionally, whenever you attempt a Perception check, you reduce the total penalty to the check (if any) by your associated ranks (minimum 1).
 
@@ -329,7 +329,7 @@ As a (clarity) talent, you can abandon your meditate approach as an immediate ac
 
 #### Unnerving Revelation (clarity, contemplation, control) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 As a (control) talent, you can endure failed Knowledge checks. Additionally, you can endure an Intelligence- or Wisdom-based skill check that succeeds against you (using the skill check DC for enduring)—this can cause the skill check to fail, but only against you (not other targets).
 
@@ -457,7 +457,7 @@ You can choose this talent a second time if you possess at least 10 ranks in the
 
 #### Vacuous Respiration [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Body Control sphere (Breath Control), associated skill 5 ranks.
 

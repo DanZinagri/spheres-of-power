@@ -11,27 +11,27 @@ parent: "[[Mythic Creatures (C)]]"
 XP 76,800
 Pathfinder Roleplaying Game Bestiary 2
 N Colossal ooze (mythic)
-**Init**+0;**Senses** blindsight 60 ft., tremorsense 120 ft.; Perception –5
+**Init** +0; **Senses** blindsight 60 ft., tremorsense 120 ft.; Perception –5
 
 #### Defense
 
-**AC**8,**touch**2,**flat-footed** 8 (+6 natural, –8 size)
+**AC** 8, **touch** 2, **flat-footed** 8 (+6 natural, –8 size)
 **hp** 264 (16d8+192)
-**Fort**+12,**Ref**+5,**Will** +0
-**Defensive Abilities**cold diffusionMA, reactive strike, split (sonic or slashing, 32 hp); DR 10/−;**Immune**acid, ooze traits;**Resist** electricity 30, fire 30
+**Fort** +12, **Ref** +5, **Will** +0
+**Defensive Abilities** cold diffusionMA, reactive strike, split (sonic or slashing, 32 hp); DR 10/−; **Immune** acid, ooze traits; **Resist** electricity 30, fire 30
 **Weaknesses** vulnerable to cold
 
 #### Offense
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 **Melee** slam +20 (8d6+24 plus grab) or 2-3 slams +20 (8d4+16 plus grab)
-**Space**30 ft.;**Reach** 30 ft. (20 ft. with 2 slams, 10 ft. with 3 slams; see amorphous attacks)
+**Space** 30 ft.; **Reach** 30 ft. (20 ft. with 2 slams, 10 ft. with 3 slams; see amorphous attacks)
 **Special Attacks** absorb flesh, amorphous attacksMA, constrict (8d6+19 plus 1d4 Con drain), engulfMA (DC 34, 8d6+24 plus 1d4 Con drain), mythic power (8/day, surge 1d8), skeletal liquefactionMA, spit globMA
 
 #### Statistics
 
-**Str**42,**Dex**11,**Con**24,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+12;**CMB**+36 (+40 grapple);**CMD** 46 (can’t be tripped)
+**Str** 42, **Dex** 11, **Con** 24, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +12; **CMB** +36 (+40 grapple); **CMD** 46 (can’t be tripped)
 **Feats** Extra Mythic Power, ToughnessMA, MF, Vital StrikeMA, MF
 **Skills** Climb +24, Swim +24
 

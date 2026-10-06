@@ -11,13 +11,13 @@ To truly master something requires a singular devotion to it. The devoted discip
 
 This archetype requires [[Sphere Warpriest|sphere warpriest]] or [[Champion Warpriest (Warpriest Archetype)|champion warpriest]].
 
-### Blessings
+## Blessings
 
 A devoted disciple only receives one blessing, not two. Whatever sphere is associated with his blessing (according to the same associations used by [[Sphere Cleric|sphere clerics]] for their domains) the devoted disciple receives as a bonus magic talent at 1st level, or a bonus talent from that sphere if he possesses it already. He uses his class level as his caster level for this sphere. This stacks normally with other caster level sources.
 
 This alters blessings.
 
-### Sacred Blood (Su)
+## Sacred Blood (Su)
 
 At 2nd level, the devoted disciple can channel his fervor ability to increase his combat ability. As a swift action, he can expend a use of his fervor ability to give himself greater combat ability. He may use his sacred blood offensively or defensively. When used offensively, he gains a +2 sacred or profane bonus (depending on whether he channels positive or negative energy, respectively) to his attack and damage rolls, while using his sacred blood defensively he gains this bonus to his saving throws and AC instead. This bonus increases by +1 for every 4 levels after the 2nd, to a maximum of +6 at 18th level. This bonus lasts for 1 minute. The devoted disciple may change his blood from being offensive to defense or vice-versa as a swift action. This does not alter the duration of the ability.
 

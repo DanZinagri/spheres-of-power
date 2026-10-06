@@ -14,22 +14,22 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Arrow Juggle [SA:MD]
+#### Arrow Juggle [SA:MD]
 
 You do not gain the dual attack ability and cannot select talents that rely on it. You gain Impossible Reload with this drawback.
 
 **Incompatible:** Guarded Shooter, Versatile Weapon Wielder.
 
-## Dancer [SA:MD2]
+#### Dancer [SA:MD2]
 
 You do not gain the dual attack ability and cannot select talents that rely on it. You gain Dancing Display with this drawback.
 
 **Incompatible:** Arrow Juggle, Guarded Shooter, Versatile Weapon-Wielder.
 
-## Guarded Shooter
+#### Guarded Shooter
 
 You do not gain the dual attack ability. You gain Mixed Assault with this drawback.
 
-## Versatile Weapon-Wielder
+#### Versatile Weapon-Wielder
 
 You do not gain the dual attack ability. You gain Paired Proficiency with this drawback.

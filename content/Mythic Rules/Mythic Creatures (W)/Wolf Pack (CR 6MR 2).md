@@ -10,13 +10,13 @@ parent: "[[Mythic Creatures (W)]]"
 **Mythic Wolf Pack (CR 6/MR 2)**
 XP 2,400
 N Medium animal (mythic, troop)
-**Init**+2;**Senses** low-light vision, scent; Perception +8
+**Init** +2; **Senses** low-light vision, scent; Perception +8
 
 #### Defense
 
-**AC**22,**touch**13,**flat-footed** 19 (+2 Dex, +1 dodge, +9 natural)
+**AC** 22, **touch** 13, **flat-footed** 19 (+2 Dex, +1 dodge, +9 natural)
 **hp** 84 (8d8+48)
-**Fort**+10,**Ref**+8,**Will** +5
+**Fort** +10, **Ref** +8, **Will** +5
 **Defensive Abilities** troop traits; DR 5/epic
 
 #### Offense
@@ -27,10 +27,10 @@ N Medium animal (mythic, troop)
 
 #### Statistics
 
-**Str**19,**Dex**15,**Con**19,**Int**2,**Wis**12,**Cha** 10
-**Base Atk**+6;**CMB**+10;**CMD** 22 (can’t be bull rushed or tripped)
+**Str** 19, **Dex** 15, **Con** 19, **Int** 2, **Wis** 12, **Cha** 10
+**Base Atk** +6; **CMB** +10; **CMD** 22 (can’t be bull rushed or tripped)
 **Feats** Dodge, Iron Will, MobilityMF, Skill Focus (Perception)
-**Skills**Acrobatics +6 (+14 when jumping), Perception +8, Stealth +10, Survival +2 (+6 tracking by scent);**Racial Modifiers** +4 Survival tracking by scent
+**Skills** Acrobatics +6 (+14 when jumping), Perception +8, Stealth +10, Survival +2 (+6 tracking by scent); **Racial Modifiers** +4 Survival tracking by scent
 **SQ** no escapeMA
 
 #### Ecology

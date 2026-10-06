@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (D)]]"
 XP 102,400
 Pathfinder Roleplaying Game Bestiary 2
 LE Medium outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+18/−2, dual initiative;**Senses** darkvision 60 ft., true seeing; Perception +23
+**Init** +18/−2, dual initiative; **Senses** darkvision 60 ft., true seeing; Perception +23
 
 #### Defense
 
-**AC**38,**touch**17,**flat-footed** 31 (+7 Dex, +21 natural)
+**AC** 38, **touch** 17, **flat-footed** 31 (+7 Dex, +21 natural)
 **hp** 257 (15d10+175)
-**Fort**+16,**Ref**+16,**Will** +10
-**Defensive Abilities**DR 10/epic and good;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 28
+**Fort** +16, **Ref** +16, **Will** +10
+**Defensive Abilities** DR 10/epic and good; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 28
 
 #### Offense
 
 **Speed** 40 ft., fly 60 ft. (average)
 **Melee** 2 claws +24 (2d8+9/19–20/×3), 4 tentacles +22 (1d6+4 plus grab)
-**Space**5 ft.;**Reach** 5 ft. (10 ft. with tentacle)
+**Space** 5 ft.; **Reach** 5 ft. (10 ft. with tentacle)
 **Special Attacks** blood drainMA (1d4 Con), constrictMA (1d6+4), mythic power (7/day, surge +1d10), rendMA (2 claws, 2d8+13), strangleMA, tentacle cage (4d8+18 bludgeoning plus blood drainMA, AC 20, 25 hp)
 
 **Spell-Like Abilities** (CL 17th; concentration +23)
@@ -35,8 +35,8 @@ At will—alter self, dispel good (DC 21), enthrall (DC 18), greater teleport (s
 
 #### Statistics
 
-**Str**28,**Dex**25,**Con**25,**Int**22,**Wis**21,**Cha** 22
-**Base Atk**+15;**CMB**+24 (+26 trip, +28 grapple);**CMD** 41 (can’t be tripped)
+**Str** 28, **Dex** 25, **Con** 25, **Int** 22, **Wis** 21, **Cha** 22
+**Base Atk** +15; **CMB** +24 (+26 trip, +28 grapple); **CMD** 41 (can’t be tripped)
 **Feats** Acrobatic Steps, Combat ExpertiseMF, Combat ReflexesMF, Improved InitiativeMF, Improved TripMF, Multiattack, Nimble Moves, Strike Back
 **Skills** Acrobatics +25 (+29 jump), Bluff +24, Diplomacy +24, Disguise +24, Escape Artist +22, Fly +14, Knowledge (arcana) +21, Knowledge (planes) +24, Perception +23, Perform (sing) +24, Sense Motive +23, Spellcraft +21, Stealth +25
 **Languages** Celestial, Common, Draconic, Infernal, telepathy 100 ft.

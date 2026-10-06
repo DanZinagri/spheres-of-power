@@ -13,29 +13,29 @@ This immense green-skinned brute wields a tree branch for a club and has nine he
 XP 153,600
 Pathfinder Roleplaying Game Bestiary 3
 CE Huge humanoid (giant, mythic)
-**Init**+10MF;**Senses** all-around vision, linnorm sightMA, low-light vision, scent; Perception +26
+**Init** +10MF; **Senses** all-around vision, linnorm sightMA, low-light vision, scent; Perception +26
 
 #### Defense
 
-**AC**37,**touch**7,**flat-footed** 37 (–1 Dex, +30 natural, –2 size)
+**AC** 37, **touch** 7, **flat-footed** 37 (–1 Dex, +30 natural, –2 size)
 **hp** 272 (16d8+200); regeneration 10 (acid or fire, see primal vigor)
-**Fort**+16,**Ref**+6,**Will** +13 (+17 vs. mind-affecting effects)
-**Defensive Abilities**ferocityMA, fortificationMA (50%), multiple minds, primal vigorMA; DR 10/epic;**Immune** coldMA, confusion, and insanity effects
+**Fort** +16, **Ref** +6, **Will** +13 (+17 vs. mind-affecting effects)
+**Defensive Abilities** ferocityMA, fortificationMA (50%), multiple minds, primal vigorMA; DR 10/epic; **Immune** coldMA, confusion, and insanity effects
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** greatclub +23/+18/+13 (3d8+13/19–20), bite +18 (2d6+6 plus grab), claw +18 (1d8+6 plus grab)
 **Ranged** rock +10 (2d8+19)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** all-seeing attacks, cacophonous roar, crushing cudgelMA, fast swallow, feral savageryMA (full attack), monstrous opportunistMA, mythic power (7/day, surge +1d10), rock throwing (120 ft.), swallow whole (4d6+19 bludgeoning, AC 25, 27 hp)
 
 #### Statistics
 
-**Str**37,**Dex**8,**Con**29,**Int**10,**Wis**17,**Cha** 6
-**Base Atk**+12;**CMB**+27 (+29 bull rush, +31 grapple);**CMD** 36 (38 vs. bull rush)
+**Str** 37, **Dex** 8, **Con** 29, **Int** 10, **Wis** 17, **Cha** 6
+**Base Atk** +12; **CMB** +27 (+29 bull rush, +31 grapple); **CMD** 36 (38 vs. bull rush)
 **Feats** Awesome Blow, Great Fortitude, Improved Bull Rush, Improved Critical (greatclub), Improved InitiativeMF, Lightning Reflexes, Power AttackMF, Quick Awesome BlowMF, Rolling RockMF, Vital Strike
-**Skills**Climb +32, Perception +26 (+36 vs. linnorms);**Racial Modifiers** +4 Perception
+**Skills** Climb +32, Perception +26 (+36 vs. linnorms); **Racial Modifiers** +4 Perception
 **Languages** Giant
 
 #### Ecology

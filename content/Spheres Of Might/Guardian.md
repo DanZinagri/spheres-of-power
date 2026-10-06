@@ -32,7 +32,7 @@ Talents with the (zone) tag grant additional effects to this ability. Each patro
 
 #### Braggadocious Repartee [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Your challenge also imposes an equal penalty to skill checks that do not include you as a target, and a +2 bonus to those that do—this includes skill checks made against objects that a creature may be attending (such as using Disable Device to sabotage). This does not affect skill checks that do not involve targeting a creature or their equipment (such as using Acrobatics to balance across a surface) or that targets an ally (such as the Heal skill).
 
@@ -124,7 +124,7 @@ When using your challenge ability, you may increase the required time by one ste
 
 #### Roaming Patrol [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 While patrolling, your base movement speed is treated as being 10 feet higher for determining the total movement you can make to bring a creature within your reach. For every 5 points of base attack bonus you possess, this increases by +5 feet.
 
@@ -132,7 +132,7 @@ If you possess the (challenge) package, this movement does not provoke attacks o
 
 #### Seeking Challenge [Apoc]
 
-**Source:** [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Radiant and Righteous](https://www.drivethrurpg.com/product/348126/Spheres-Apocrypha-Radiant-and-Righteous?affiliate_id=549120)*
 
 When a creature affected by your challenge is reduced to 0 or fewer hit points, you may issue a challenge to a creature you can see as a free action (even if it is not your turn). A creature challenged this way gains an additional +2 bonus on attack rolls against you until the end of its next turn.
 
@@ -172,7 +172,7 @@ Allies do not provoke attacks of opportunity from enemies for moving through the
 
 #### Mage Warden (zone) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Whenever an ally within the area of your patrol attempts a concentration check, you can spend an attack of opportunity to roll 1d20 + your base attack bonus + your Strength or Dexterity modifier (minimum 1). The ally can choose to use either their own concentration check result or the result of your d20 roll when determining if their concentration check is a success.
 

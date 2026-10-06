@@ -19,30 +19,30 @@ This section contains a large number of optional and variant rules for a GM to i
 **Mechanoid Companions**
 Certain campaign settings make it difficult or impossible to have an animal companion accompany a character in a meaningful manner (large urban environments, lack of infrastructure or resources to feed and care for an animal, etc.). For certain classes, the animal companion is a fundamental part of their identity and mechanics, without which they function far below par, including cavalier, druid, hunter, ranger and other classes which gain an animal companion in their various ways (domains, paladin divine bond, etc.). In these circumstances. Druids, rangers, hunters, cavaliers, certain paladins, and other classes are heavily associated with their animal companions in multiple ways. In these circumstances, it may be appropriate to replace the animal companion with a special *mechanoid* companion.
 
-**Rule**: Whenever a class would gain an animal companion creature through a class feature (such as an animal companion or mount, or granted through another source such as a domain, druid’s nature bond feature, oracle revelation, paladin’s divine bond, etc.), that character can instead elect to gain a *mechanoid* companion. The character gains the Tinker sphere with the (transportation) package (or Expanded Tinker talent, selecting the (transportation) package). A character that opted into the *mechanoid* companion rule may then designate 1 *mechanoid* they have crafted as their bonded machine as part of a 1-hour process that may only be done once per day. The character’s bonded machine is treated as that character’s animal companion for the purposes of any of their class features that would normally augment their animal companion (i.e. a paladin’s divine bond or a hunter’s hunter tactics feature). Any restrictions imposed by a class feature on the animal companion must also be observed by the bonded machine (such as being a suitable mount for a cavalier would require the bonded machine be able to support the crafter and be used as a vehicle by the crafter).
+**Rule:** Whenever a class would gain an animal companion creature through a class feature (such as an animal companion or mount, or granted through another source such as a domain, druid’s nature bond feature, oracle revelation, paladin’s divine bond, etc.), that character can instead elect to gain a *mechanoid* companion. The character gains the Tinker sphere with the (transportation) package (or Expanded Tinker talent, selecting the (transportation) package). A character that opted into the *mechanoid* companion rule may then designate 1 *mechanoid* they have crafted as their bonded machine as part of a 1-hour process that may only be done once per day. The character’s bonded machine is treated as that character’s animal companion for the purposes of any of their class features that would normally augment their animal companion (i.e. a paladin’s divine bond or a hunter’s hunter tactics feature). Any restrictions imposed by a class feature on the animal companion must also be observed by the bonded machine (such as being a suitable mount for a cavalier would require the bonded machine be able to support the crafter and be used as a vehicle by the crafter).
 
 A bonded machine gains an installed AI that does not count against the character’s maximum AI limit (even if the character does not have the (computation) package); this AI may only be installed in the character’s bonded machine and is either a Bestial or Drone-classification AI. If the character’s animal companion would normally be granted a base Intelligence score of 6 or higher, the character may select any AI classification of their choice. The AI granted to the character’s bonded machine is always the same AI and must be rebuilt (as normal for an AI) to change it.
 
-**Additional GM Discretion**: It may be appropriate for a class with magical talents that gains an animal companion (such as some clerics, oracles, etc.) to be able to select (transportation) tagged Tinker sphere talents to select additional upgrades for their bonded machine.
+**Additional GM Discretion:** It may be appropriate for a class with magical talents that gains an animal companion (such as some clerics, oracles, etc.) to be able to select (transportation) tagged Tinker sphere talents to select additional upgrades for their bonded machine.
 
 ### Common Technology
 
 In certain settings or campaigns, certain technology may be available (or advanced) to a degree where Tinker practitioners have access to more or more advanced options from an earlier point.
 
-**Rule**: The GM may designate certain talents to either be free or “tax free”.
+**Rule:** The GM may designate certain talents to either be free or “tax free”.
 A free talent is known by all characters with the Tinker sphere (as though granted that talent as a bonus talent).
 A “tax free” talent is known by all characters with the Tinker sphere if they meet certain prerequisites (as though granted that talent as a bonus talent). This may either be a specific talent, number of associated skill ranks, or other prerequisite such as affiliations with certain organizations or access to certain knowledge in setting.
 
-**Bypassing Prerequisites**: At GM discretion, a free or tax free talent may allow a character to bypass the talent’s normal prerequisites (or may still require the character meet the necessary prerequisites, but is granted once those prerequisites are met). For example, the common flight example below may grant the Advanced Aviation legendary talent to any character with the Aviation talent if the GM decides more advanced flight options should be available before the “Associated skill 5 ranks” prerequisite.
+**Bypassing Prerequisites:** At GM discretion, a free or tax free talent may allow a character to bypass the talent’s normal prerequisites (or may still require the character meet the necessary prerequisites, but is granted once those prerequisites are met). For example, the common flight example below may grant the Advanced Aviation legendary talent to any character with the Aviation talent if the GM decides more advanced flight options should be available before the “Associated skill 5 ranks” prerequisite.
 
-**Individual Abilities**: At GM discretion, individual abilities from a Tinker sphere talent may be granted as free or tax free (rather than an entire talent’s abilities). For example, armorers belonging to a lord’s army may have received knowledge and training to gain the Arsenal Set arsenal gizmo (and not other abilities belonging to that talent) to be able to quickly manufacture weapons and armor.
+**Individual Abilities:** At GM discretion, individual abilities from a Tinker sphere talent may be granted as free or tax free (rather than an entire talent’s abilities). For example, armorers belonging to a lord’s army may have received knowledge and training to gain the Arsenal Set arsenal gizmo (and not other abilities belonging to that talent) to be able to quickly manufacture weapons and armor.
 
 **Common Technology Examples:**
 
-- **Common Flight (Tax Free)**: In a setting where low-level or easily accessible flight is meant to be common (such as in the Skybourne campaign setting by Drop Dead Studios), the Advanced Movement legendary talent would be “tax free” for any Tinker practitioner with the Aviation talent.
-- **High-Range Signals (Tax Free)**: In a higher-technology setting where long-distance communication (cell phones, the internet, and so on) is common, *transmitters* gain improved range at the GM’s discretion (such as granting the signal range increases from the Transmission Mastery and Advanced Transmission talents for free, or at associated skill rank breakpoints such as 1, 6, and 11).
+- **Common Flight (Tax Free):** In a setting where low-level or easily accessible flight is meant to be common (such as in the Skybourne campaign setting by Drop Dead Studios), the Advanced Movement legendary talent would be “tax free” for any Tinker practitioner with the Aviation talent.
+- **High-Range Signals (Tax Free):** In a higher-technology setting where long-distance communication (cell phones, the internet, and so on) is common, *transmitters* gain improved range at the GM’s discretion (such as granting the signal range increases from the Transmission Mastery and Advanced Transmission talents for free, or at associated skill rank breakpoints such as 1, 6, and 11).
 
-**Special - Tinker Traditions**: The common technology optional rule is meant to generally be a setting-wide assumption of minimum technology, not technology owned by a certain faction. At GM discretion, specific Tinker traditions may offer free or tax free talents (representing their culture, society, or organization’s reliable access to certain knowledge or processes).
+**Special - Tinker Traditions:** The common technology optional rule is meant to generally be a setting-wide assumption of minimum technology, not technology owned by a certain faction. At GM discretion, specific Tinker traditions may offer free or tax free talents (representing their culture, society, or organization’s reliable access to certain knowledge or processes).
 
 ### Permanent Gizmos
 
@@ -61,17 +61,17 @@ When pricing a gizmo that grants a bonus, consider comparing the bonus granted a
 **Permanent Gizmo Pricing Suggestions by Type**
 Below are some suggested pricings for gizmos on a world-building level. GMs may adjust these prices as they see fit, based on scarcity or abundance, difficulty or ease to craft, rarity of Tinker practitioners, and other setting-based parameters.
 
-**Appliances**: Certain Tinker sphere talents can provide effects and abilities similar to simple appliances, or otherwise normal conveniences of modern living (outside of the game). Gizmos such as the climate controller, flashlight, and fire extinguisher at low gizmo levels could serve as luxury appliances (in a higher-scarcity setting) or as everyday conveniences (where Tinker is abundant). “Appliance-level” gizmos may potentially cost anywhere from 25 gp to 250 gp for a gizmo level 1 through 3 version of the item, and upwards from higher-skill craftspersons.
+**Appliances:** Certain Tinker sphere talents can provide effects and abilities similar to simple appliances, or otherwise normal conveniences of modern living (outside of the game). Gizmos such as the climate controller, flashlight, and fire extinguisher at low gizmo levels could serve as luxury appliances (in a higher-scarcity setting) or as everyday conveniences (where Tinker is abundant). “Appliance-level” gizmos may potentially cost anywhere from 25 gp to 250 gp for a gizmo level 1 through 3 version of the item, and upwards from higher-skill craftspersons.
 
-**Batteries**: Permanent batteries should be more available (and less expensive) as technological items become more available. A permanent battery requires maintenance once depleted, and can be considered more expensive (in terms of use and upkeep) than a comparable magic item. Permanent batteries may cost 20 gp x gizmo level, up to 1,000 gp x gizmo level, depending on availability (and are roughly comparable to a *pearl of power*).
+**Batteries:** Permanent batteries should be more available (and less expensive) as technological items become more available. A permanent battery requires maintenance once depleted, and can be considered more expensive (in terms of use and upkeep) than a comparable magic item. Permanent batteries may cost 20 gp x gizmo level, up to 1,000 gp x gizmo level, depending on availability (and are roughly comparable to a *pearl of power*).
 
 **Reminder** - A battery must be the same gizmo level or higher to be used by a gizmo, so more expensive batteries are required to use higher end gizmos.
 
-**Constructs and Vehicles**: The (transportation) package is able to create a wide variety of vehicles, constructs, robot bodies, and other things (broadly termed *mechanoids*). Pricing can be difficult, but compare against already-available modes of transportation (for bikes, cars, wagons, ships, etc.) and constructs (for robots, mech-suits, etc.). A construct or vehicle with an installed AI will also cost more, as appropriate (and depending on the quality of the AI and its functions).
+**Constructs and Vehicles:** The (transportation) package is able to create a wide variety of vehicles, constructs, robot bodies, and other things (broadly termed *mechanoids*). Pricing can be difficult, but compare against already-available modes of transportation (for bikes, cars, wagons, ships, etc.) and constructs (for robots, mech-suits, etc.). A construct or vehicle with an installed AI will also cost more, as appropriate (and depending on the quality of the AI and its functions).
 
-**Simple Prosthetics**: *Prosthetics* with no secondary function installed (functioning as only a limb/replacement for the creature) can vary between 1 and 200 gp, similar to purchasing clothes or jewelry, with more expensive “simple *prosthetic*” having their value represented by nice materials, high-end craftsmanship, and artistry (as the difference between a functional wooden leg and an obsidian and gold-filigree leg).
+**Simple Prosthetics:** *Prosthetics* with no secondary function installed (functioning as only a limb/replacement for the creature) can vary between 1 and 200 gp, similar to purchasing clothes or jewelry, with more expensive “simple *prosthetic*” having their value represented by nice materials, high-end craftsmanship, and artistry (as the difference between a functional wooden leg and an obsidian and gold-filigree leg).
 
-**Weapons**: Weapons crafted with the Tinker sphere either emulate existing weapons (and can be compared against the price of that existing weapon) or are unique to the Tinker sphere. Weapons unique to the Tinker sphere can have their price compared against the closest magic item (wand or staff, use-per-day magic item, or similar) based on the weapon’s effects. For example, a Tinker weapon that produces a 5d6 explosion a certain number of times per day is comparable to an item that casts *fireball*. Weapons crafted with the Tinker sphere may be less expensive than comparable options due to requiring batteries (as opposed to automatically having a use per day).
+**Weapons:** Weapons crafted with the Tinker sphere either emulate existing weapons (and can be compared against the price of that existing weapon) or are unique to the Tinker sphere. Weapons unique to the Tinker sphere can have their price compared against the closest magic item (wand or staff, use-per-day magic item, or similar) based on the weapon’s effects. For example, a Tinker weapon that produces a 5d6 explosion a certain number of times per day is comparable to an item that casts *fireball*. Weapons crafted with the Tinker sphere may be less expensive than comparable options due to requiring batteries (as opposed to automatically having a use per day).
 
 #### Crafting Permanent Gizmos
 
@@ -81,7 +81,7 @@ The base Craft DC to create a permanent gizmo is equal to 10 + the gizmo’s giz
 
 The creation cost to craft a permanent gizmo is half the price of the gizmo in gp.
 
-**Project Materials in Place of GP**: GMs may permit characters to supplement a gizmo’s crafting price with project materials. Project materials supplied this way must cover the full price of the gizmo (instead of half the price of the gizmo).
+**Project Materials in Place of GP:** GMs may permit characters to supplement a gizmo’s crafting price with project materials. Project materials supplied this way must cover the full price of the gizmo (instead of half the price of the gizmo).
 
 #### Maintaining Permanent Gizmos
 
@@ -95,13 +95,13 @@ In addition to specific Spheres of Guile compatible options inside of Tinker sph
 
 #### Tinker Utility Start
 
-**Rule**: When you first gain the Tinker sphere, if you select the (transmission) package as your first Tinker package, you can take the base Tinker sphere as a [utility] talent.
+**Rule:** When you first gain the Tinker sphere, if you select the (transmission) package as your first Tinker package, you can take the base Tinker sphere as a [utility] talent.
 
-**Note**: If you would select a Tinker sphere drawback that removes your first Tinker package, you cannot take the Tinker sphere as a [utility] talent this way.
+**Note:** If you would select a Tinker sphere drawback that removes your first Tinker package, you cannot take the Tinker sphere as a [utility] talent this way.
 
 #### Tinker Utility Talents
 
-**Rule**: The following Tinker sphere talents gain the [utility] tag and may be selected as [utility] talents:
+**Rule:** The following Tinker sphere talents gain the [utility] tag and may be selected as [utility] talents:
 
 - Disguised Gizmo [utility]
 - Security Measures [utility]
@@ -120,7 +120,7 @@ By GM discretion, other talents may be deemed to be utility talents. This may pr
 
 Many options of the Tinker sphere have strong social and utilitarian uses, fitting in with the design goals of Spheres of Guile.
 
-**Rule**: At GM discretion, the Tinker sphere may be treated as both a combat sphere (Spheres of Might) and a skill sphere (Spheres of Guile). If this optional rule is in place, the Tinker sphere may be selected as both a combat sphere or skill sphere (allocating combat or skill talents as appropriate). If the character is an operative and possesses skill leverage, talents that require a character to expend their martial focus instead cost 1 use of skill leverage.
+**Rule:** At GM discretion, the Tinker sphere may be treated as both a combat sphere (Spheres of Might) and a skill sphere (Spheres of Guile). If this optional rule is in place, the Tinker sphere may be selected as both a combat sphere or skill sphere (allocating combat or skill talents as appropriate). If the character is an operative and possesses skill leverage, talents that require a character to expend their martial focus instead cost 1 use of skill leverage.
 
 Selecting the Tinker sphere as a combat sphere does not make a character into an operative (and able to gain skill leverage, etc.), and selecting the Tinker sphere as a skill sphere does not make a character into a practitioner (able to maintain martial focus, etc.).
 
@@ -128,8 +128,8 @@ Selecting the Tinker sphere as a combat sphere does not make a character into an
 
 If using *Spheres of Guile*, AI may gain a trade tradition (exchanging their base class skills as normal) as well as an operative progression.
 
-- **Trade Tradition**: An AI may choose to gain a trade tradition. An AI’s trade rank is adroit. Certain AI-classifications with specialties may be required to select a specific skill sphere with their trade tradition (i.e. an Archivist selecting Investigation or Study, Pilot selecting Navigation, and Socialite selecting Communication or Performance).
-- **Operative Progression**: An AI may choose to exchange its proficient practitioner progression (1 combat talent per 2 Hit Dice) for a trained operative progression. If the AI would receive a higher talent count practitioner progression, the AI may exchange for a higher talent count operative progression as appropriate.
+- **Trade Tradition:** An AI may choose to gain a trade tradition. An AI’s trade rank is adroit. Certain AI-classifications with specialties may be required to select a specific skill sphere with their trade tradition (i.e. an Archivist selecting Investigation or Study, Pilot selecting Navigation, and Socialite selecting Communication or Performance).
+- **Operative Progression:** An AI may choose to exchange its proficient practitioner progression (1 combat talent per 2 Hit Dice) for a trained operative progression. If the AI would receive a higher talent count practitioner progression, the AI may exchange for a higher talent count operative progression as appropriate.
 
   At GM discretion, this may instead be a blended talent progression.
 
@@ -143,5 +143,5 @@ This optional rule is presented as a normal martial sphere drawback (see **4.3 P
 
 If a character possesses multiple Tinker traditions, bonus talents granted by this optional rule are only determined based on the character’s dominant tradition.
 
-**Rule**: Gaining a Tinker tradition grants 1 bonus Tinker talent per 2 Tinker tradition drawbacks your Tinker tradition possesses.
+**Rule:** Gaining a Tinker tradition grants 1 bonus Tinker talent per 2 Tinker tradition drawbacks your Tinker tradition possesses.
 

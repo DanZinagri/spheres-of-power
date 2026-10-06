@@ -34,8 +34,8 @@ This replaces discipline spells.
 
 At 3rd level, the esper gains the following ways she can use her phrenic pool:
 
-- **Cognizant Invocation**: The esper can spend three points from her phrenic pool whenever she uses enact ritual to have its use ignore the talent’s daily limit.
-- **Phrenic Empowerment**: The esper can spend up to three points from her phrenic pool whenever she uses enact ritual to add an equal number of ritual power to the ceremony or rite.
+- **Cognizant Invocation:** The esper can spend three points from her phrenic pool whenever she uses enact ritual to have its use ignore the talent’s daily limit.
+- **Phrenic Empowerment:** The esper can spend up to three points from her phrenic pool whenever she uses enact ritual to add an equal number of ritual power to the ceremony or rite.
 
 This replaces detect thoughts.
 

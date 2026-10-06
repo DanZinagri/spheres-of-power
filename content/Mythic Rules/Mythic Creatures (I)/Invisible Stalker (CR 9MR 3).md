@@ -13,14 +13,14 @@ No true form can be detected, yet a sense of force and hulking malevolence is un
 XP 4,800
 Pathfinder Roleplaying Game Bestiary
 N Medium outsider (air, elemental, extraplanar, mythic)
-**Init**+9;**Senses** darkvision 60 ft.; Perception +12
+**Init** +9; **Senses** darkvision 60 ft.; Perception +12
 
 #### Defense
 
-**AC**24,**touch**15,**flat-footed** 19 (+5 Dex, +9 natural)
+**AC** 24, **touch** 15, **flat-footed** 19 (+5 Dex, +9 natural)
 **hp** 110 (7d10+72)
-**Fort**+11,**Ref**+12,**Will** +4
-**Defensive Abilities**natural invisibility; DR 5/epic;**Immune** elemental traits
+**Fort** +11, **Ref** +12, **Will** +4
+**Defensive Abilities** natural invisibility; DR 5/epic; **Immune** elemental traits
 
 #### Offense
 
@@ -30,8 +30,8 @@ N Medium outsider (air, elemental, extraplanar, mythic)
 
 #### Statistics
 
-**Str**18,**Dex**21,**Con**22,**Int**14,**Wis**15,**Cha** 11
-**Base Atk**+7;**CMB**+11;**CMD** 26
+**Str** 18, **Dex** 21, **Con** 22, **Int** 14, **Wis** 15, **Cha** 11
+**Base Atk** +7; **CMB** +11; **CMD** 26
 **Feats** Combat Reflexes, Improved Initiative, Lightning ReflexesMF, Potent SurgeMF, Weapon Focus (slam)
 **Skills** Acrobatics +15, Bluff +10, Fly +23, Knowledge (planes) +12, Perception +12, Sense Motive +12, Stealth +15, Survival +12
 **Languages** Auran, Common

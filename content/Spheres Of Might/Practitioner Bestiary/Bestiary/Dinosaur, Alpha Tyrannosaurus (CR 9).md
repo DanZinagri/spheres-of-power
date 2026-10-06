@@ -7,29 +7,29 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 6,400
 N Gargantuan animal
-**Init**+1;**Senses**low-light vision, scent;**Perception** +37
+**Init** +1; **Senses** low-light vision, scent; **Perception** +37
 
 **Defense**
-**AC**21,**touch**7,**flat-footed** 20 (Dex +1, +14 natural, –4 size)
+**AC** 21, **touch** 7, **flat-footed** 20 (Dex +1, +14 natural, –4 size)
 **hp** 153 (18d8+72)
-**Fort**+15,**Ref**+12,**Will** +8
+**Fort** +15, **Ref** +12, **Will** +8
 
 **Offense**
 **Speed** 40 ft.
 **Melee** bite +20 (4d6+22/19-20 plus grab)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** brutal strike (+26), shove +20 touch (11)
 
 **Tactics**
 The alpha tyrannosaurus is a simple, deadly creature. In close combat it will shove its enemies and use its Heavy Swing talent to keep its opponent from acting. If cornered, it will use its Stampede and Smash talents to make overrun checks to escape, dealing its bite damage to each target it overruns.
 
 **Statistics**
-**Str**32,**Dex**13,**Con**19,**Int**2,**Wis**15,**Cha** 10
-**Base Atk**+13;**CMB**+28 (+32 grapple);**CMD** 39
+**Str** 32, **Dex** 13, **Con** 19, **Int** 2, **Wis** 15, **Cha** 10
+**Base Atk** +13; **CMB** +28 (+32 grapple); **CMD** 39
 **Feats** Extra Combat Talent x3, Improved Critical (bite), Skill Focus (Perception)
-**Martial Tradition**Behemoth**PAM**Wis,**DC** 18
+**Martial Tradition** Behemoth **PAM** Wis, **DC** 18
 **Talents** Berserker (Bloody Counter, Deathless, Heavy Swing), Brute (Focused Might, Smash, Stampede)
-**Skills**Perception +37;**Racial Modifiers** +8 Perception
+**Skills** Perception +37; **Racial Modifiers** +8 Perception
 **SQ** powerful bite
 
 **Special Abilities**

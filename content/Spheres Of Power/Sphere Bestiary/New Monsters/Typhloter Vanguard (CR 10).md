@@ -10,13 +10,13 @@ The typhloter vanguard is a gargantuan floating orb with barbed tendrils that ha
 **Typhloter Vanguard (CR 10)**
 XP 9,600
 CN Huge aberration
-**Init**+0;**Senses**darkvision 60 ft., detect scrying (60 ft.);**Perception** +27
+**Init** +0; **Senses** darkvision 60 ft., detect scrying (60 ft.); **Perception** +27
 
 **Defense**
-**AC**22,**touch**15,**flat-footed** 22 (+7 Cha, +7 natural, -2 size)
+**AC** 22, **touch** 15, **flat-footed** 22 (+7 Cha, +7 natural, -2 size)
 **hp** 162 (15d8+90)
-**Fort**+11,**Ref**+12,**Will** +11
-**Defensive Abilities**no breath, non-euclidean;**Immune** cold, fire, gaze attacks, poison
+**Fort** +11, **Ref** +12, **Will** +11
+**Defensive Abilities** no breath, non-euclidean; **Immune** cold, fire, gaze attacks, poison
 
 **Offense**
 **Speed** 30 ft., fly 120 ft. (average), swim 60 ft.
@@ -24,8 +24,8 @@ CN Huge aberration
 **Ranged** adhesive blast +11 (4d6 acid damage/x2), entangled 1 round (Reflex save, DC 20)
 
 **Magic**
-**Caster Level**7;**MSB**+15,**MSD**26,**Concentration** +22
-**Tradition**none;**CAM** Cha
+**Caster Level** 7; **MSB** +15, **MSD** 26, **Concentration** +22
+**Tradition** none; **CAM** Cha
 **Spell Points** 22
 
 **Destruction Sphere:** (blast type) Adhesive Blast
@@ -44,8 +44,8 @@ CN Huge aberration
 ◊ Plane Manipulator (dimensional anchor, 70 ft. radius, concentration or 7 min., 1 sp; banish extraplanar, Will negates, 1 sp)
 
 **Statistics**
-**Str**30,**Dex**10,**Con**22,**Int**16,**Wis**14,**Cha** 24
-**Base Atk**+11;**CMB**+44;**CMD** 56
+**Str** 30, **Dex** 10, **Con** 22, **Int** 16, **Wis** 14, **Cha** 24
+**Base Atk** +11; **CMB** +44; **CMD** 56
 **Feats** Awesome Blow, Cleave, Cleaving Finish, Great Cleave, Improved Bull Rush, Improved Cleaving Finish, Multiattack, Power Attack
 **Skills** Bluff +22, Fly +18, Intimidate +25, Knowledge (arcana) +21, Perception +20, Sense Motive +17, Spellcraft +21
 **Languages** Aklo; telepathy 60 ft.

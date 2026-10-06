@@ -16,7 +16,7 @@ parent: "[[Diamond Recreational Studios]]"
 **Benefit:** You add +2 to your MSB and MSD for the purposes of conflicting sphere abilities. When creating a sphere ability that will conflict with another effect (i.e. you are creating the effect and it will immediately conflict with another effect), you may spend +1 spell point to double this feat’s bonuses for the initial magic skill check made by the conflicting sphere effect (but not for future conflicts).
 
 ### Organization Obedience
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Prerequisites:** Knowledge (any) 3 ranks; membership in an organization.
 

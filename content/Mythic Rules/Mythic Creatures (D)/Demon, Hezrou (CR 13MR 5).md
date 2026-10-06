@@ -11,21 +11,21 @@ parent: "[[Mythic Creatures (D)]]"
 XP 25,600
 Pathfinder Roleplaying Game Bestiary
 CE Large outsider (aquatic, chaotic, demon, evil, extraplanar, mythic)
-**Init**+9MF;**Senses** darkvision 60 ft.; Perception +23
+**Init** +9MF; **Senses** darkvision 60 ft.; Perception +23
 **Aura** stench (DC 25, 10 rounds)
 
 #### Defense
 
-**AC**30,**touch**9,**flat-footed** 30 (+21 natural, –1 size)
+**AC** 30, **touch** 9, **flat-footed** 30 (+21 natural, –1 size)
 **hp** 205 (10d10+150); fast healingMA 5 (in water)
-**Fort**+17,**Ref**+3,**Will** +9
-**Defensive Abilities**DR 10/epic and good;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 24
+**Fort** +17, **Ref** +3, **Will** +9
+**Defensive Abilities** DR 10/epic and good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 24
 
 #### Offense
 
 **Speed** 30 ft., swim 30 ft.
 **Melee** bite +18 (4d4+18/18–20 plus grab), 2 claws +18 (1d8+9 plus grab)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** feral savagery (full attack)MA, inflict mutationMA (DC 25), mythic power (5/day, surge 1d8), nauseaMA (DC 27), quagmireMA (DC 25), savage biteMA
 
 **Spell-Like Abilities** (CL 14th; concentration +18)
@@ -35,10 +35,10 @@ At will—chaos hammer (DC 18), greater teleport (self plus 50 lbs. of objects o
 
 #### Statistics
 
-**Str**29,**Dex**11,**Con**31,**Int**14,**Wis**14,**Cha** 18
-**Base Atk**+10;**CMB**+20 (+24 grapple);**CMD** 30
+**Str** 29, **Dex** 11, **Con** 31, **Int** 14, **Wis** 14, **Cha** 18
+**Base Atk** +10; **CMB** +20 (+24 grapple); **CMD** 30
 **Feats** Blind-Fight, CleaveMF, Great CleaveMF, Improved InitiativeMF, Power AttackMF
-**Skills**Climb +22, Escape Artist +10, Intimidate +17, Knowledge (arcana) +15, Perception +23, Spellcraft +15, Stealth +9, Swim +30;**Racial Modifiers** +8 Perception
+**Skills** Climb +22, Escape Artist +10, Intimidate +17, Knowledge (arcana) +15, Perception +23, Spellcraft +15, Stealth +9, Swim +30; **Racial Modifiers** +8 Perception
 **Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.
 
 #### Ecology

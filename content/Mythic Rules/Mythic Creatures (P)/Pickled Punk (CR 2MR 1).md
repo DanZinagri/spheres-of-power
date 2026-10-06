@@ -10,28 +10,28 @@ parent: "[[Mythic Creatures (P)]]"
 **Pickled Punk, Mythic (CR 2/MR 1)**
 XP 600
 NE Tiny undead (mythic)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +1
+**Init** +1; **Senses** darkvision 60 ft.; Perception +1
 
 #### Defense
 
-**AC**14,**touch**13,**flat-footed** 13 (+1 Dex, +1 natural, +2 size)
+**AC** 14, **touch** 13, **flat-footed** 13 (+1 Dex, +1 natural, +2 size)
 **hp** 19 (2d8+10)
-**Fort**+1,**Ref**+1,**Will** +4
-**Defensive Abilities**stone-childMA; DR 5/bludgeoning and epic;**Immune** undead traits
+**Fort** +1, **Ref** +1, **Will** +4
+**Defensive Abilities** stone-childMA; DR 5/bludgeoning and epic; **Immune** undead traits
 
 #### Offense
 
 **Speed** 15 ft.
 **Melee** bite +4 (1d3+1 plus attach)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** attach, death throes, irritant, mythic power (1/day, surge +1d6)
 
 #### Statistics
 
-**Str**3,**Dex**13,**Con**—,**Int**4,**Wis**12,**Cha** 13
-**Base Atk**+1;**CMB**+0;**CMD** 6
+**Str** 3, **Dex** 13, **Con** —, **Int** 4, **Wis** 12, **Cha** 13
+**Base Atk** +1; **CMB** +0; **CMD** 6
 **Feats** Weapon FinesseMF
-**Skills**Bluff +2 (+10 when playing dead), Stealth +13;**Racial Modifiers** +8 Bluff when playing dead
+**Skills** Bluff +2 (+10 when playing dead), Stealth +13; **Racial Modifiers** +8 Bluff when playing dead
 **Languages** Common
 **SQ** create spawnMA, opportune
 

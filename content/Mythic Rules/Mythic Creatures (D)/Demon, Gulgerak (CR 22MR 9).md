@@ -12,22 +12,22 @@ This towering six-legged creature lumbers across the battlefield with a horde of
 **Demon, Gulgerak (CR 22/MR 9)**
 XP 614,400
 CE Colossal outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**–3/-23, dual initiativeMA;**Senses** blindsight 120 ft.; Perception +9
+**Init** –3/-23, dual initiativeMA; **Senses** blindsight 120 ft.; Perception +9
 **Aura** aura of slaughterMA (60 ft.)
 
 #### Defense
 
-**AC**37,**touch**3,**flat-footed** 37 (+4 deflection, –3 Dex, +34 natural, –8 size)
+**AC** 37, **touch** 3, **flat-footed** 37 (+4 deflection, –3 Dex, +34 natural, –8 size)
 **hp** 477 (25d10+340)
-**Fort**+26,**Ref**+5,**Will** +13; second saveMA
-**Defensive Abilities**major fortification (75%)MMA; DR 15/cold iron and epic;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 29
+**Fort** +26, **Ref** +5, **Will** +13; second saveMA
+**Defensive Abilities** major fortification (75%)MMA; DR 15/cold iron and epic; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 29
 **Weaknesses** vulnerable to sonic
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** 2 bites +35 (4d8+17 plus grab), 2 stomps +35 (4d8+17)
-**Space**30 ft.;**Reach** 20 ft. (30 ft. with bite)
+**Space** 30 ft.; **Reach** 20 ft. (30 ft. with bite)
 **Special Attacks** breath weapon (60-ft. cone, 20d8 acid or 20d8 force, Reflex DC 32 for half, usable every 1d4 rounds), feral savagery (full attack)MA, mythic power (9/day, surge 1d10), stompMA (DC 39), swallow wholeMA (8d8 acid damage, AC 27, 47 hp), trample (4d8+25, DC 39)
 
 **Spell-Like Abilities** (CL 25th; concentration +25)
@@ -37,8 +37,8 @@ At will—greater teleport
 
 #### Statistics
 
-**Str**44,**Dex**5,**Con**31,**Int**4,**Wis**9,**Cha** 10
-**Base Atk**+25;**CMB**+50 (+54 bull rush, +54 grapple);**CMD** 61 (63 vs. bull rush, 69 vs. trip)
+**Str** 44, **Dex** 5, **Con** 31, **Int** 4, **Wis** 9, **Cha** 10
+**Base Atk** +25; **CMB** +50 (+54 bull rush, +54 grapple); **CMD** 61 (63 vs. bull rush, 69 vs. trip)
 **Feats** Awesome BlowMF, Blind-Fight, CleaveMF, Critical FocusMF, Great Fortitude, Greater Bull Rush, Improved Bull RushMF, Lunge, Power AttackMF, Vital Strike, Weapon Focus (bite), Weapon Focus (stomp), Quick Bull Rush
 **Skills** Climb +26, Intimidate +28, Knowledge (engineering) +10, Knowledge (planes) +10, Perception +9, Sense Motive +13, Swim +26
 **Languages** Abyssal; telepathy 100 ft.

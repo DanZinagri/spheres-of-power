@@ -13,21 +13,21 @@ This giant is a towering, muscular human of heroic proportions, with bronze skin
 XP 102,400
 Pathfinder Roleplaying Game Bestiary
 CG Gargantuan humanoid (giant, mythic)
-**Init**+5;**Senses** low-light vision; Perception +27
+**Init** +5; **Senses** low-light vision; Perception +27
 
 #### Defense
 
-**AC**35,**touch**7,**flat-footed** 34 (+7 armor, +1 Dex, +21 natural, –4 size)
+**AC** 35, **touch** 7, **flat-footed** 34 (+7 armor, +1 Dex, +21 natural, –4 size)
 **hp** 304 (19d8+219)
-**Fort**+15,**Ref**+7,**Will** +18
-**Defensive Abilities**rock catching, thunderheadMA; DR 10/epic;**Immune** electricity, sonic
+**Fort** +15, **Ref** +7, **Will** +18
+**Defensive Abilities** rock catching, thunderheadMA; DR 10/epic; **Immune** electricity, sonic
 
 #### Offense
 
 **Speed** 50 ft., swim 40 ft.
 **Melee** +1 adamantine greatsword +29/+24/+19 (6d6+28/17–20)
 **Ranged** +1 composite longbow +12/+7/+2 (4d6+19/x3)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** mythic power (6/day, surge 1d8), ride the lightningMA, storm strikerMA, stormvoiceMA, thunderboltMA
 
 **Spell-Like Abilities** (CL 15th; concentration +17)
@@ -37,8 +37,8 @@ Constant—freedom of movement
 
 #### Statistics
 
-**Str**47,**Dex**12,**Con**29,**Int**16,**Wis**20,**Cha** 15
-**Base Atk**+14;**CMB**+36 (+40 sunder);**CMD** 49 (51 vs. sunder)
+**Str** 47, **Dex** 12, **Con** 29, **Int** 16, **Wis** 20, **Cha** 15
+**Base Atk** +14; **CMB** +36 (+40 sunder); **CMD** 49 (51 vs. sunder)
 **Feats** Breaching LeapMF, CleaveMF, Combat Reflexes, Greater Sunder, Improved Critical (greatsword), Improved Initiative, Improved Sunder, Improved Vital Strike, Iron Will, Power Attack, Vital StrikeMF
 **Skills** Acrobatics +18 (+26 when jumping), Climb +20, Craft (any one) +13, Handle Animal +15, Intimidate +20, Perception +27, Perform (sing) +12, Sense Motive +15, Swim +28
 **Languages** Auran, Common, Draconic, Giant

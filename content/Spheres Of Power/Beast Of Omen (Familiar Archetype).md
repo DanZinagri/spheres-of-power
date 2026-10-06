@@ -8,7 +8,7 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Shared Senses (Su)
+## Shared Senses (Su)
 
 Whenever the familiar’s master uses a Divination talent or ability granting himself a sense, he may also grant his familiar the sense.
 

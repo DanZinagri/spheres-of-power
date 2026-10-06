@@ -10,23 +10,23 @@ A humoral ooze is a special construct made of blood and bodily fluids that is so
 **Ooze, Humoral (CR 1/3)**
 XP 135
 N Tiny ooze
-**Init**-5;**Senses**blindsight 60 ft.;**Perception** -5
+**Init** -5; **Senses** blindsight 60 ft.; **Perception** -5
 
 **Defense**
-**AC**7,**touch**7,**flat-footed** 7 (-5 Dex, +2 size)
+**AC** 7, **touch** 7, **flat-footed** 7 (-5 Dex, +2 size)
 **hp** 7 (1d8+3)
-**Fort**+3,**Ref**-5,**Will** -5
-**Immune**ooze traits;**Resist** fire 5
+**Fort** +3, **Ref** -5, **Will** -5
+**Immune** ooze traits; **Resist** fire 5
 **Weaknesses** vulnerability to cold
 
 **Offense**
 **Speed** 10 ft., climb 10 ft., swim 10 ft.
 **Melee** Slam +3 (1d3+1)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Statistics**
-**Str**12,**Dex**1,**Con**16,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+0;**CMB**+1;**CMD** 6
+**Str** 12, **Dex** 1, **Con** 16, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +0; **CMB** +1; **CMD** 6
 
 **Special Abilities**
 **Emotional Touch (Su)** Humoral oozes impact the emotions of those in contact with them. This is a mind-affecting emotion ability and requires at least one round of contact and ends one round after contact ceases; brief contact such as from an unarmed strike is insufficient. Most casters that keep humoral oozes as familiars allow the ooze to ride on their shoulder, in a pocket, or another location that maintains contact.

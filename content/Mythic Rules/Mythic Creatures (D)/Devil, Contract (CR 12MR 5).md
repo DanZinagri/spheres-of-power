@@ -13,20 +13,20 @@ With rust-colored skin and a jutting crown of ridge-like horns, this muscular de
 XP 19,200
 Pathfinder Roleplaying Game Bestiary 3
 LE Medium outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+17MF;**Senses** darkvision 60 ft., see in darkness; Perception +27
+**Init** +17MF; **Senses** darkvision 60 ft., see in darkness; Perception +27
 
 #### Defense
 
-**AC**31,**touch**19,**flat-footed** 22 (+8 Dex, +1 dodge, +12 natural)
+**AC** 31, **touch** 19, **flat-footed** 22 (+8 Dex, +1 dodge, +12 natural)
 **hp** 186 (13d10+115)
-**Fort**+9,**Ref**+16,**Will** +17
-**Defensive Abilities**adjournMA; DR 10/epic and good;**Immune**fire, mind-affecting effects, poison;**Resist**acid 10, cold 10;**SR** 23
+**Fort** +9, **Ref** +16, **Will** +17
+**Defensive Abilities** adjournMA; DR 10/epic and good; **Immune** fire, mind-affecting effects, poison; **Resist** acid 10, cold 10; **SR** 23
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** binding contract (+2 unholy whip) +24/+19/+14 (1d4+10 plus 1d6 bleed plus 2d6 vs. good), gore +11 (2d6+3)
-**Space**5 ft.;**Reach** 5 ft. (15 ft. with binding contract)
+**Space** 5 ft.; **Reach** 5 ft. (15 ft. with binding contract)
 **Special Attacks** binding contractMMA, bleed (1d6), impale (2d8+4), mythic power (5/day, surge +1d8), mythic spell-like abilitiesMA
 
 **Spell-Like Abilities** (CL 13th; concentration +19)
@@ -37,8 +37,8 @@ At will—bestow curse (DC 20), detect thoughts (DC 18), dimension door, erase, 
 
 #### Statistics
 
-**Str**17,**Dex**27,**Con**20,**Int**24,**Wis**25,**Cha** 22
-**Base Atk**+13;**CMB**+17;**CMD** 35
+**Str** 17, **Dex** 27, **Con** 20, **Int** 24, **Wis** 25, **Cha** 22
+**Base Atk** +13; **CMB** +17; **CMD** 35
 **Feats** Alertness, Deceitful, Dodge, Improved InitiativeMF, Iron WillMF, Mobility, PersuasiveMF
 **Skills** Bluff +26, Diplomacy +26, Disguise +8, Intimidate +26, Knowledge (arcana) +23, Knowledge (nobility) +23, Knowledge (planes) +23, Knowledge (religion) +23, Linguistics +20, Perception +26, Profession (scribe) +19, Sense Motive +26, Sleight of Hand +20, Spellcraft +20
 **Languages** Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Gnoll, Halfling, Ignan, Infernal, Orc, Sylvan, Terran, Undercommon; telepathy 100 ft., tongues

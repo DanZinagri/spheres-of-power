@@ -12,13 +12,13 @@ This emaciated, hairless canine has a strange air of menace and cruelty about it
 **Mythic Yeth Hound (CR 4/MR 1)**
 XP 1,200
 NE Medium outsider (evil, extraplanar, mythic)
-**Init**+7;**Senses** darkvision 60 ft., scent; Perception +9
+**Init** +7; **Senses** darkvision 60 ft., scent; Perception +9
 
 #### Defense
 
-**AC**16,**touch**12,**flat-footed** 14 (+2 Dex, +4 natural)
+**AC** 16, **touch** 12, **flat-footed** 14 (+2 Dex, +4 natural)
 **hp** 40 (4d10+18)
-**Fort**+3,**Ref**+6,**Will** +6
+**Fort** +3, **Ref** +6, **Will** +6
 **Defensive Abilities** DR 5/epic and silver
 
 #### Offense
@@ -29,8 +29,8 @@ NE Medium outsider (evil, extraplanar, mythic)
 
 #### Statistics
 
-**Str**17,**Dex**15,**Con**15,**Int**6,**Wis**14,**Cha** 10
-**Base Atk**+4;**CMB**+7;**CMD** 19 (23 vs. trip)
+**Str** 17, **Dex** 15, **Con** 15, **Int** 6, **Wis** 14, **Cha** 10
+**Base Atk** +4; **CMB** +7; **CMD** 19 (23 vs. trip)
 **Feats** Extra Mythic Power, Improved Initiative, Skill Focus (Fly)
 **Skills** Fly +16, Perception +9, Stealth +9, Survival +9
 **Languages** Abyssal or Infernal (cannot speak)

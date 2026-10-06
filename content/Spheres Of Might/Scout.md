@@ -26,7 +26,7 @@ Whenever you move at least 10 ft. in a round and begin and end your turn in cove
 
 #### Advisory Scout [Apoc]
 
-**Source:** [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)
+*Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
 You may scout a creature as a standard action, simultaneously scouting the creature and informing your allies of what you found. Allies within 60 feet that can hear you or otherwise communicate with you gain the benefits of your scout ability against the scouted creature for 1 round, plus 1 additional round per 4 ranks in Perception.
 
@@ -101,7 +101,7 @@ As long as you have martial focus, whenever you have successfully used the scout
 
 You may use Perception in place of Knowledge (dungeoneering) to identify underground hazards, in place of Knowledge (engineering) to identify dangerous construction or determine a structure’s weakness, and in place of Knowledge (nature) to identify a natural hazard.
 
-**Addendum [SUE]**: You may use the *scout* ability on traps or other hazards to gain additional insight into their effects, features, and weaknesses by attempting a Disable Device check (DC 10 + the trap’s CR; DC 20 if the trap lacks a CR) and may substitute a Perception check at a -5 penalty. For every 5 points by which your check result exceeds the DC, you gain a useful piece of information about the trap (such as its trigger, effect, reset or other ways to disable it). *Scouted* traps count as creatures for the purposes of benefits gained against *scouted* creatures (such as extra damage or penalties to attack rolls).
+**Addendum [SUE]:** You may use the *scout* ability on traps or other hazards to gain additional insight into their effects, features, and weaknesses by attempting a Disable Device check (DC 10 + the trap’s CR; DC 20 if the trap lacks a CR) and may substitute a Perception check at a -5 penalty. For every 5 points by which your check result exceeds the DC, you gain a useful piece of information about the trap (such as its trigger, effect, reset or other ways to disable it). *Scouted* traps count as creatures for the purposes of benefits gained against *scouted* creatures (such as extra damage or penalties to attack rolls).
 
 #### Lurker
 

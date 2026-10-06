@@ -11,23 +11,23 @@ Mau are the mummified remains of a beloved housecat inhabited by a spirit of Law
 This mummified cat is wrapped in linen that has been covered in ancient glyphs of warding. Its eyes have been replaced with turquoise and it is bedecked with gold earrings, necklaces, and other adornments.
 XP 307,200
 LN Tiny outsider (lawful, native)
-**Init**+11;**Senses**darkvision 120 ft.;**Perception** +33
+**Init** +11; **Senses** darkvision 120 ft.; **Perception** +33
 
 **Defense**
-**AC**40,**touch**35,**flat-footed** 29 (+11 Dex, +5 natural, +4 size, +10 Wis)
+**AC** 40, **touch** 35, **flat-footed** 29 (+11 Dex, +5 natural, +4 size, +10 Wis)
 **hp** 253 (22d8+154)
-**Fort**+14,**Ref**+24,**Will** +23
+**Fort** +14, **Ref** +24, **Will** +23
 **Defensive Abilities** DR 15/chaotic, perfect order, raised to serve
 
 **Offense**
 **Speed** 40 ft.
 **Melee** 2 claws +33 (1d2, 19–20/x2), bite +31 (1d3)
-**Space**2-1/2 ft. ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft. ft.; **Reach** 0 ft.
 **Special Attacks** breath weapon
 
 **Magic**
-**Caster Level**16;**MSB**+16,**MSD**27,**Concentration** +26
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 16; **MSB** +16, **MSD** 27, **Concentration** +26
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 27
 
 **Death Sphere:** Greater Undead, Lingering Necromancy, Permanent Necromancy; (ghost strike) Command Undead, Curse, Drain, Vampiric Strike
@@ -56,8 +56,8 @@ LN Tiny outsider (lawful, native)
 ◊ Truth (compel target to speak truth)
 
 **Statistics**
-**Str**11,**Dex**33,**Con**28,**Int**15,**Wis**30,**Cha** 12
-**Base Atk**+22;**CMB**+20 (+24 grapple);**CMD** 45 (47 vs. grapple)
+**Str** 11, **Dex** 33, **Con** 28, **Int** 15, **Wis** 30, **Cha** 12
+**Base Atk** +22; **CMB** +20 (+24 grapple); **CMD** 45 (47 vs. grapple)
 **Feats** Align Spell (lawful), Dirty Fighting, Greater Grapple, Improved Critical (claws), Improved Grapple, Improved Mystic Assault, Multiattack, Mystic Assault, Quicken Spell, Weapon Finesse
 **Skills** Acrobatics +34, Climb +25, Diplomacy +24, Knowledge (planes) +25, Knowledge (religion) +25, Perception +33, Sense Motive +33, Stealth +34
 **Languages** Common, Necril, speak with animals (cats only)

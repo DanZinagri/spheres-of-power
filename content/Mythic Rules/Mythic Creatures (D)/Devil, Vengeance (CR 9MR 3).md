@@ -10,14 +10,14 @@ parent: "[[Mythic Creatures (D)]]"
 **Mythic Vengeance Devil (Salikotal) (CR 9/MR 3)**
 XP 6,400
 LE Medium outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+14;**Senses** darkvision 60 ft., low-light vision, see in darkness; Perception +4
+**Init** +14; **Senses** darkvision 60 ft., low-light vision, see in darkness; Perception +4
 
 #### Defense
 
-**AC**27,**touch**18,**flat-footed** 19 (+7 Dex, +1 dodge, +9 natural)
+**AC** 27, **touch** 18, **flat-footed** 19 (+7 Dex, +1 dodge, +9 natural)
 **hp** 106 (9d10+57)
-**Fort**+9,**Ref**+13,**Will** +7
-**Defensive Abilities**DR 5/epic and good;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 20
+**Fort** +9, **Ref** +13, **Will** +7
+**Defensive Abilities** DR 5/epic and good; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 20
 
 #### Offense
 
@@ -34,8 +34,8 @@ At will—greater teleport (self plus 50 pounds of objects only), locate creatur
 
 #### Statistics
 
-**Str**18,**Dex**24,**Con**17,**Int**15,**Wis**19,**Cha** 18
-**Base Atk**+9;**CMB**+13;**CMD** 31
+**Str** 18, **Dex** 24, **Con** 17, **Int** 15, **Wis** 19, **Cha** 18
+**Base Atk** +9; **CMB** +13; **CMD** 31
 **Feats** Dodge, Improved InitiativeMF, Mobility, Wind Stance, Weapon FinesseMF
 **Skills** Acrobatics +16, Disable Device +19, Disguise +16, Escape Artist +19, Knowledge (local) +11, Perception +4, Sense Motive +16, Sleight of Hand +19, Stealth +19
 **Languages** Celestial, Common, Infernal; telepathy 100 ft.

@@ -8,13 +8,13 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Blessing/Blight Mastery (Channeling)
+#### Blessing/Blight Mastery (Channeling)
 
 **Prerequisites:** Blessing/blight class feature, channel energy class feature.
 
 **Benefit:** When you channel energy, you may spend an additional use of channel energy to apply a blessing or blight to one creature that was affected by your channeling. This creature is allowed a saving throw as usual, if they would normally be granted one.
 
-### Blessing/Blight Versatility (Channeling)
+#### Blessing/Blight Versatility (Channeling)
 
 **Prerequisites:** Versatile Channeler, blessing/blight class feature, channel energy class feature.
 
@@ -22,7 +22,7 @@ parent: "[[Spheres Of Power]]"
 
 If you can apply blights to targets, you may now also apply blessing, treating your soul weaver level as being effectively 2 levels lower for this purpose.
 
-### Channel Destruction (Channeling)
+#### Channel Destruction (Channeling)
 
 **Prerequisites:** Destruction sphere, channel energy class feature.
 
@@ -32,25 +32,25 @@ If more than one blast type is known, a different blast type may be selected eac
 
 If the (blast type) talent chosen has additional spell point costs, an additional use of channel energy must be used in place of each spell point required. You may spend a spell point to increase the damage to one die per level in the class that grants channel energy that you possess.
 
-### Channel Life (Channeling)
+#### Channel Life (Channeling)
 
 **Prerequisites:** Life sphere, channel energy class feature.
 
 **Benefit:** You may channel energy and augment it with your Life sphere abilities. You must spend the normal spell point cost of the ability, but may target any creature that is affected by your channel energy, even if they would normally be out of range of your ability. If combined with Mass Healing, you may affect every creature affected by your channel energy.
 
-### Channel Luck (Chance, Channeling)
+#### Channel Luck (Chance, Channeling)
 
 **Prerequisite:** Channel energy.
 
 **Benefit:** When you channel energy, you may spend a kismet point to grant all creatures affected a luck bonus (if they were healed) or a luck penalty (if they were harmed and failed their save) to their next saving throw equal to the number of dice of your channel energy ability. This bonus lasts at most 1 minute for each die of your channel energy ability.
 
-### Channel Resolve (Channeling)
+#### Channel Resolve (Channeling)
 
 **Prerequisite:** Channel energy class feature.
 
 **Benefit:** When you channel energy, instead of its normal effects, you may instead grant those within range a single attack. These attacks are made immediately in initiative order. Each attack receives a bonus to damage equal to the number of dice you would have rolled for your channel energy.
 
-### Channeled Detonation (Channeling) [Gravecaller's HB]
+#### Channeled Detonation (Channeling) [Gravecaller's HB]
 
 You can overcharge your connection with your undead using your channel energy ability.
 
@@ -60,7 +60,7 @@ You can overcharge your connection with your undead using your channel energy ab
 
 If you possess the Master’s Presence (dominion) talent, you may use your dominion range when determining if an undead you control is within range for this feat.
 
-### Defiler’s Channel (Channeling, Defiler, Drawback) [Cata. HB]
+#### Defiler’s Channel (Channeling, Defiler, Drawback) [Cata. HB]
 
 You draw life energy directly from your environment.
 
@@ -70,7 +70,7 @@ You draw life energy directly from your environment.
 
 **Four Defiler Feats:** The number of dice increases by 4 rather than 2.
 
-### Energized Appeasement (Channeling) [DbH]
+#### Energized Appeasement (Channeling) [DbH]
 
 The powers of the beyond are sufficient to appease the bound force within.
 
@@ -78,7 +78,7 @@ The powers of the beyond are sufficient to appease the bound force within.
 
 **Benefit:** When your spirit would gain a point of influence over you, you may spend two uses of channel energy in place of allowing the spirit to gain that point of influence. In addition, when you would spend a use of channel energy, you may instead allow your spirit to gain a point of influence over you.
 
-### Totemic Channeling (Channeling)
+#### Totemic Channeling (Channeling)
 
 **Prerequisites:** War sphere, channel energy class feature.
 

@@ -13,28 +13,28 @@ This towering scorpion’s carapace is as black as coal, and its claws are each 
 XP 51,200
 Pathfinder Roleplaying Game Bestiary 2
 N Colossal vermin (mythic)
-**Init**+0;**Senses** darkvision 60 ft., tremorsense 60 ft.; Perception +4
+**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; Perception +4
 
 #### Defense
 
-**AC**37,**touch**2,**flat-footed** 37 (+35 natural, –8 size)
+**AC** 37, **touch** 2, **flat-footed** 37 (+35 natural, –8 size)
 **hp** 308 (24d8+200)
-**Fort**+20,**Ref**+8,**Will** +8
-**Defensive Abilities**heat sinkMA, poisonous bloodMA; DR 10/epic;**Immune** fire, mind-affecting effects
+**Fort** +20, **Ref** +8, **Will** +8
+**Defensive Abilities** heat sinkMA, poisonous bloodMA; DR 10/epic; **Immune** fire, mind-affecting effects
 
 #### Offense
 
 **Speed** 60 ft., sand glideMA
 **Melee** 2 claws +25 (2d8+15/19-20/×3 plus grab and 1d8 bleed), sting +25 (2d6+15 plus poison)
-**Space**30 ft.;**Reach** 30 ft.
+**Space** 30 ft.; **Reach** 30 ft.
 **Special Attacks** bloody blowsMA, constrict (2d8+22), crack shellMA, feral savagery (full attack)MA, mindless improved criticalMA, mythic power (7/day, surge +1d10), rapid stinging, rendMA (2 claws, 2d8+22)
 
 #### Statistics
 
-**Str**40,**Dex**10,**Con**22,**Int**—,**Wis**10,**Cha** 2
-**Base Atk**+18;**CMB**+41 (+45 grapple);**CMD** 51 (63 vs. trip)
+**Str** 40, **Dex** 10, **Con** 22, **Int** —, **Wis** 10, **Cha** 2
+**Base Atk** +18; **CMB** +41 (+45 grapple); **CMD** 51 (63 vs. trip)
 **Feats** Crippling GripMF, Devastating GripMF, Improved Critical (claws)B,MF, Savage GripMF, Staggering CriticalB, Stunning CriticalB
-**Skills**Climb +19, Perception +4, Stealth –12;**Racial Modifiers** +4 Climb, +4 Perception, +4 Stealth
+**Skills** Climb +19, Perception +4, Stealth –12; **Racial Modifiers** +4 Climb, +4 Perception, +4 Stealth
 
 #### Ecology
 
@@ -52,6 +52,6 @@ N Colossal vermin (mythic)
 
 **Mindless Improved Critical (Ex)** A mythic black scorpion gains Improved Critical (claws) as a bonus feat.
 
-**Poison (Ex)**Sting—injury or poisonous blood—contact;**save**Fort DC 28;**frequency**1/round for 6 rounds;**effect**1d4 Str, 1d4 Dex, and 1d4 Con;**cure** 3 saves.
+**Poison (Ex)** Sting—injury or poisonous blood—contact; **save** Fort DC 28; **frequency** 1/round for 6 rounds; **effect** 1d4 Str, 1d4 Dex, and 1d4 Con; **cure** 3 saves.
 
 **Rapid Stinging (Ex)** A black scorpion’s stinger strikes with astounding speed; it can make one additional attack in a round with its sting as a swift action.

@@ -237,7 +237,7 @@ When you stop a ranged attack with telekinetic Catch, you may immediately fling 
 
 #### Seizing Strike [Strike] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 As a standard action, you may make a single weapon attack in conjunction with using a lift. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by lift. If using a scatter weapon, the lift only applies to a single target, chosen at the time of attack. The target of your attack must be a legal target for your lift.
 
@@ -401,7 +401,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 #### Aggressive Mind Limb (combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, Mind Limb, base attack bonus +5.
 
@@ -417,7 +417,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 #### Equal and Opposite (combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, character level 5th.
 
@@ -431,7 +431,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 #### Force Shield, Improved (Combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, Force Shield, character level 5th.
 
@@ -451,7 +451,7 @@ The classes in the following table may select a protokinesis feat as one of the 
 
 #### Kinetic Juggler (Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, base attack bonus +1.
 
@@ -469,7 +469,7 @@ As a swift action you can use it to draw a sheathed or hidden weapon, ready a sh
 
 #### Poltergeist’s Fingers (Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Sleight of Hand 3 ranks, Telekinesis sphere, Mind Limb.
 
@@ -479,7 +479,7 @@ As a swift action you can use it to draw a sheathed or hidden weapon, ready a sh
 
 #### Remote Jostle (Combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisite:** Telekinesis sphere.
 
@@ -503,7 +503,7 @@ These benefits lasts indefinitely. If you activate one of these benefits while a
 
 #### Telekinetic Fist (Combat, Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Telekinesis sphere, Improved Unarmed Strike, base attack bonus +5.
 
@@ -511,7 +511,7 @@ These benefits lasts indefinitely. If you activate one of these benefits while a
 
 #### Telekinetic Trigger (Protokinesis) [Apoc]
 
-**Source:** [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Protokinesis Feats](https://www.drivethrurpg.com/product/288793/Spheres-Apocrypha-Protokinesis-Feats?affiliate_id=549120)*
 
 **Prerequisites:** Use Magic Device 3 ranks, Telekinesis sphere, Mind Limb.
 

@@ -421,7 +421,7 @@ A despoiler feeds on pestilence and decay.
 
 **Improved Path Possession:** The despoiler may possess swarms of the vermin type, ignoring their subtype based immunity to mind-affecting abilities. By spending 1 minute attracting local vermin, the despoiler can create a swarm to actively possess.This swarm disperses when the possession ends. To create the swarm, use the statistics of a Conjuration sphere companion summoned with a caster level equal to the despoiler’s class level and the following base form:
 
-**Speed**20 ft.,**Climb**20 ft.;**AC**+2 natural armor;**Fort**(good),**Ref**(good),**Will**(bad);**Attack**N/A;**Str**12,**Dex**16,**Con**13,**Int**-,**Wis**10,**Cha** 11.
+**Speed** 20 ft., **Climb** 20 ft.; **AC** +2 natural armor; **Fort** (good), **Ref** (good), **Will** (bad); **Attack** N/A; **Str** 12, **Dex** 16, **Con** 13, **Int** -, **Wis** 10, **Cha** 11.
 
 The swarm has the swarm subtype, with constituent members of Tiny size and a 10-ft. space. It’s swarm damage is 1d6 +1d6 per 3 Hit Dice and has a distraction DC of 10 + 1/2 Hit Dice + the despoiler’s casting ability modifier. The appearance of the constituent members of the swarm formed will be based on the GM’s discretion given the environment. If the despoiler is of at least 5th level, he may spend an additional spell point as part of beginning the possession to grant the swarm a fly speed of 20 ft. (perfect).
 

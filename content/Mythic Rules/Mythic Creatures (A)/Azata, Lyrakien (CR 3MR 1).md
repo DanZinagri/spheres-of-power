@@ -13,20 +13,20 @@ This tiny woman has a lithe form with delicate butterfly wings. She is surrounde
 XP 800
 Pathfinder RPG Bestiary 3
 CG Tiny outsider (azata, chaotic, extraplanar, good, mythic)
-**Init**+8;**Senses** darkvision 60 ft., detect evil, detect magic, greensightMA, low-light vision; Perception +9
+**Init** +8; **Senses** darkvision 60 ft., detect evil, detect magic, greensightMA, low-light vision; Perception +9
 
 #### Defense
 
-**AC**17,**touch**16,**flat-footed** 13 (+4 Dex, +1 natural, +2 size)
+**AC** 17, **touch** 16, **flat-footed** 13 (+4 Dex, +1 natural, +2 size)
 **hp** 29 (3d10+13)
-**Fort**+2,**Ref**+7,**Will** +6
-**Defensive Abilities**freedom of movement; DR 5/epic and evil;**Immune**electricity, petrification;**Resist** cold 10, fire 10
+**Fort** +2, **Ref** +7, **Will** +6
+**Defensive Abilities** freedom of movement; DR 5/epic and evil; **Immune** electricity, petrification; **Resist** cold 10, fire 10
 
 #### Offense
 
 **Speed** 30 ft., fly 80 ft. (perfect)
 **Melee** slam +2 (1d2–3)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** mythic power (1/day, surge +1d6), starlight blast
 
 **Spell-Like Abilities** (CL 3rd; concentration +8)
@@ -37,8 +37,8 @@ At will—dancing lights, daze (DC 15), summon instrument, ventriloquism (DC 16)
 
 #### Statistics
 
-**Str**5,**Dex**19,**Con**12,**Int**14,**Wis**17,**Cha** 20
-**Base Atk**+3;**CMB**+5;**CMD** 12
+**Str** 5, **Dex** 19, **Con** 12, **Int** 14, **Wis** 17, **Cha** 20
+**Base Atk** +3; **CMB** +5; **CMD** 12
 **Feats** Ability Focus (starlight blast), Agile Maneuvers, Improved Initiative
 **Skills** Acrobatics +10, Bluff +11, Diplomacy +11, Fly +16, Knowledge (any one) +8, Perception +9, Perform (any one) +11, Spellcraft +5, Stealth +18
 **Languages** Celestial, Draconic, Infernal; truespeech

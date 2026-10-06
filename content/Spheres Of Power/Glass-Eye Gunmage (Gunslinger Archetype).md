@@ -10,29 +10,29 @@ parent: "[[Spheres Of Power]]"
 
 A glass-eye gunmage has learned to use magic to change their powers of perception, keeping their enemies from escaping their gaze - and their gun.
 
-### Skills
+## Skills
 
 A glass-eye gunmage adds Knowledge (arcana) (Int) and Spellcraft (Int) to her list of class skills and removes Knowledge (local) (Int) and Sleight of Hand (Dex) from her list of class skills.
 
 This alters skills.
 
-### Deeds
+## Deeds
 
 A glass-eye gunmage swaps some deeds for the following. She may choose to swap out any deed she would normally gain from her class at the same level, as specified in the new deed descriptions.
 
-#### Lens Array (Su)
+### Lens Array (Su)
 
 At 1st level the glass-eye gunmage uses her magic to become more perceptive, enhancing her vision with magic lenses. As long as the glass-eye gunmage has at least 1 grit she gains a +2 bonus to Perception checks. In addition, the glass-eye gunmage can spend 1 grit point as an immediate action to reroll a Perception check. She must choose to reroll before the result of the original roll is known, and must take the result of the reroll even if it is worse than the original roll.
 
 This replaces any one deed gained at 1st level.
 
-#### Constant Vigilance (Ex)
+### Constant Vigilance (Ex)
 
 At 3rd level, the glass-eye gunmage is never caught off guard. As long as she has at least 1 grit, she ignores penalties to Perception checks for being distracted or asleep. In addition, she can spend 1 grit point at the beginning of a battle (even during a surprise round) to not be treated as flat-footed before she has had a chance to act.
 
 This replaces any one deed gained at 3rd level.
 
-### Lens Prodigy (Sp)
+## Lens Prodigy (Sp)
 
 At 4th level and every four levels thereafter, the glass-eye gunmage gains a single (lens) talent of her choice from the Light sphere. For the purposes of this talent her glass-eye gunmage levels are treated as casting class levels when determining MSB and MSD. She is treated as having a caster level equal to her glass-eye gunmage level and uses the ability that determines her grit points for her casting ability modifier. This stacks normally with caster levels gained from other sources. If a specific use of this talent would require one or more spell points, she may spend an equal number of grit points instead.
 

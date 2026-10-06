@@ -193,7 +193,7 @@ Mindless undead under your control are always considered willing targets of thes
 
 You gain the following abilities which allow you to reanimate incomplete corpses and individual corpse parts:
 
-**Reanimate Piecemeal Undead:** You can reanimate an individual part or parts of a corpse as a piecemeal undead, such as reanimating a corpse’s arm or skull or a torso with an arm. When reanimating piecemeal undead this way, use the statistics of an appropriately sized animated object (see the Enhancement sphere, Ultimate Spheres of Power pg. 288, 577) with the undead construction flaw and no other construction point abilities or construction flaws. Piecemeal undead otherwise count as an undead creature you reanimated, count against the total number of reanimated creatures you may have active at any one time normally, and obey your commands as normal for an undead you reanimated. A piecemeal undead will usually be anywhere from three sizes smaller to approximately the same size as the original corpse. See**Table: Piecemeal Undead** to determine the appropriate animated object size for a piecemeal undead.
+**Reanimate Piecemeal Undead:** You can reanimate an individual part or parts of a corpse as a piecemeal undead, such as reanimating a corpse’s arm or skull or a torso with an arm. When reanimating piecemeal undead this way, use the statistics of an appropriately sized animated object (see the Enhancement sphere, Ultimate Spheres of Power pg. 288, 577) with the undead construction flaw and no other construction point abilities or construction flaws. Piecemeal undead otherwise count as an undead creature you reanimated, count against the total number of reanimated creatures you may have active at any one time normally, and obey your commands as normal for an undead you reanimated. A piecemeal undead will usually be anywhere from three sizes smaller to approximately the same size as the original corpse. See **Table: Piecemeal Undead** to determine the appropriate animated object size for a piecemeal undead.
 
 A piecemeal undead is not a skeleton or zombie and cannot be modified by the Expanded Necromancy talent, except as described below. Piecemeal undead do not count as animated objects for the purposes of Enhancement sphere talents, feats, and other abilities.
 
@@ -278,7 +278,7 @@ Curses do not stack with themselves, but a target can be afflicted by multiple d
 - **Skill Blockage:** The target takes a penalty equal to 5 + 1/2 your caster level on all skill checks made using a chosen ability score.
 - **Twisted Fortune:** Whenever the target or their immediate allies roll a d% to determine the outcome of an event (such as a random encounter or a downtime event), they roll an additional time and the GM chooses the result from between the two, selecting whichever one they believe will be less desirable for the cursed target.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Drain (ghost strike)
 
@@ -328,7 +328,7 @@ You may make a ghost strike that causes the target to be sickened for 1 round pe
 
 #### Spectral Distortion (ghost strike) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 You may spend a spell point to make a ghost strike that disrupts the bonds between layered planes. An incorporeal creature hit by this ghost strike must succeed a Will saving throw or be considered corporeal for a number of rounds equal to your caster level (minimum 1). The creature can attempt another saving throw at the end of their turn to dismiss this effect.
 
@@ -369,7 +369,7 @@ When projecting yourself and/or your allies into the Astral Plane, you may spend
 You may spend 2 spell points to hemorrhage a target’s body to a specific point of capacity. A target who fails a Fortitude save is reduced to half of their maximum hp (rounded down). If a creature is already at or below half their hp, they are treated as having succeeded at their saving throw. On a successful saving throw, they instead take 1d6 points of damage per 2 caster levels.
 If you possess the life sphere, you may cause a creature who is below half their hp to instead be restored to half their maximum hp.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Corpse Forge (dominion) [Gravecaller's HB]
 
@@ -429,7 +429,7 @@ You may spend an additional spell point when using the Drain ghost strike to inc
 
 You may spend an additional spell point when using avasculation to cause the target to fall to 1 hp rather half their maximum hp on a failed Fortitude save.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
 #### Extended Command [DbH]
 

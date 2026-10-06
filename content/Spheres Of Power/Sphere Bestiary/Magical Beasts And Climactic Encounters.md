@@ -208,7 +208,7 @@ Each talent package lists the talents granted by the package, plus any other mis
 
 A blur of darting fang and claw, movement made with purpose.
 
-**Athletics Sphere**–**Package**(varies);**Talents** Mobile Striker, Mobility, Whirlwind Leap
+**Athletics Sphere** – **Package** (varies); **Talents** Mobile Striker, Mobility, Whirlwind Leap
 
 **Special:** The agile hunter gains one or more Athletics sphere packages appropriate to its primary form of movement, with others at GM discretion.
 
@@ -222,7 +222,7 @@ A blur of darting fang and claw, movement made with purpose.
 
 Heavy, club-like strikes batter and bruise those unfortunate enough to be caught.
 
-**Berserker Sphere**–**Talents** Beat Down, Bloody Counter; (exertion) Bone-Breaker
+**Berserker Sphere** – **Talents** Beat Down, Bloody Counter; (exertion) Bone-Breaker
 
 **Application:** The frenzicist hits hard using brutal strike modified by the Bone-Breaker (exertion), battering their opponents for a number of rounds equal to 1 + their practitioner modifier and causing that battered opponent to take a penalty on attack and damage rolls equal to -1 - 1 per 4 base attack bonus. The frenzicist may expend martial focus to deal additional damage equal to twice their base attack bonus, but does not have a way to restore martial focus during combat.
 
@@ -234,7 +234,7 @@ During combat, the frenzicist lowers their AC, gaining temporary hit points by b
 
 The pack leader snarls at the back of its pack, a commanding presence the others follow out of respect, fear, or ambition.
 
-**Warleader Sphere**–**Talents** Focusing Tactics, Persisting Influence, Triumph
+**Warleader Sphere** – **Talents** Focusing Tactics, Persisting Influence, Triumph
 
 **Skills:** A pack leader gains a number of ranks in Diplomacy equal to its Hit Dice, and gains Diplomacy as a class skill.
 
@@ -250,7 +250,7 @@ Additional talents improve the pack leader’s arsenal of options. Many (tactics
 
 With piercing bite and claw, the piercing fang strikes through defenses and exploits opportunities.
 
-**Fencing Sphere**–**Talents** Fast Feint, Focusing Feint; (exploit) Face Strike, Wide Open
+**Fencing Sphere** – **Talents** Fast Feint, Focusing Feint; (exploit) Face Strike, Wide Open
 
 **Special:** If the piercing fang possesses a ranged attack, it gains the Fencing sphere Verbal Feint and Death From Afar talent (Spheres Apocrypha: Martial Talents: Ranged).
 
@@ -281,22 +281,22 @@ Many of the stat blocks included with this bestiary use the “Creating Monsters
 The massive, imposing tortoise sports a dark, emerald-green shell with a subtle metallic sheen.
 XP 3,200
 N Huge magical beast
-**Init**+3;**Senses**darkvision 60 ft., low-light vision;**Perception** +13
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; **Perception** +13
 
 **Defense**
-**AC**25,**touch**7,**flat-footed** 25 (-1 Dex, +12 natural, +6 shield, -2 size)
+**AC** 25, **touch** 7, **flat-footed** 25 (-1 Dex, +12 natural, +6 shield, -2 size)
 **hp** 99 (9d10+54)
-**Fort**+12,**Ref**+5,**Will** +6
-**Defensive Abilities**delayed damage pool (45), shielding shell;**DR** 10/adamantine
+**Fort** +12, **Ref** +5, **Will** +6
+**Defensive Abilities** delayed damage pool (45), shielding shell; **DR** 10/adamantine
 
 **Offense**
 **Speed** 20 ft.
 **Melee** Bite +15 (2d6+13), shield bash +15 (1d6+8; see shielding shell)
-**Space**15 ft.;**Reach** 10 ft.
+**Space** 15 ft.; **Reach** 10 ft.
 
 **Might**
-**Martial Tradition**Great Defender (Guardian x2, Shield x2);**PAM** Wis
-**Guardian Sphere**–**Packages**patrol;**Talents** Cold Iron Call, Durable, Endure Pain, Greater Delayed Damage (2), Guardian’s Focus; (zone) Stand Still
+**Martial Tradition** Great Defender (Guardian x2, Shield x2); **PAM** Wis
+**Guardian Sphere** – **Packages** patrol; **Talents** Cold Iron Call, Durable, Endure Pain, Greater Delayed Damage (2), Guardian’s Focus; (zone) Stand Still
 • delayed damage pool (45 points)
 ◊ Cold Iron Call; delay spells
 ◊ Durable; delay extraordinary effects
@@ -305,7 +305,7 @@ N Huge magical beast
 • patrol (patrol as full-round action; +15-ft. reach plus (zone))
 ◊ Guardian’s Focus; regain martial focus as immediate on combat maneuver
 ◊ Stand Still (zone); attempt reposition as an attack of opportunity, if successful, enemy cannot move
-**Shield Sphere**–**Talents** Battering Defense, Shielded Focus; (deflect) Forced Rebound, Jarring Block
+**Shield Sphere** – **Talents** Battering Defense, Shielded Focus; (deflect) Forced Rebound, Jarring Block
 • Battering Defense; enemies who miss vs. active defense are battered when damaged that round
 • Shielded Focus; regain martial focus (move action) when fighting defensively, or (immediate action) on miss vs. active defense
 • active defense (+4 shield bonus to AC as an attack of opportunity plus (deflect) on miss)
@@ -313,8 +313,8 @@ N Huge magical beast
 ◊ Jarring Block (deflect); disarm (+19) vs. attacker on miss
 
 **Statistics**
-**Str**26,**Dex**8,**Con**22,**Int**8,**Wis**12,**Cha** 10
-**Base Atk**+9;**CMB**+19;**CMD** +28 (+34 vs. trip)
+**Str** 26, **Dex** 8, **Con** 22, **Int** 8, **Wis** 12, **Cha** 10
+**Base Atk** +9; **CMB** +19; **CMD** +28 (+34 vs. trip)
 **Feats** Great Focus, Improved Initiative, Iron Will, Muscular Reflexes, Vital Strike
 **Skills** Perception +13
 **SQ** buoyant
@@ -343,7 +343,7 @@ Due to reasons such as ecological pressure or evolution by necessity, some adama
 A bullheaded adamantortoise evolved in areas where its normally impenetrable defenses were not enough to protect itself or it found its territories encroached on by other adamantortoise, causing them to develop more alpha tendencies and aggressive-looking patterns on their shells.
 
 A bullheaded adamantortoise is a variant adamantortoise which exchanges talents (Guardian sphere (Guardian’s Focus, Stand Still, Shield sphere (Battering Defense)) for the following:
-**Berserker Sphere**–**Talents** (exertion) Heavy Swing, Leg-Smasher
+**Berserker Sphere** – **Talents** (exertion) Heavy Swing, Leg-Smasher
 • berserking (12 temporary hit points, -2 AC)
 • brutal strike (special attack action; battered plus (exertion); martial focus, +18 damage); (exertion) DC 15
 ◊ Heavy Swing (exertion); Fort save or staggered for 3 rounds, or dazed for 1 battered
@@ -356,15 +356,15 @@ The mystic-shell adamantortoise variant is more commonly found where leylines an
 A mystic-shell tortoise is a variant adamantortoise which exchanges talents (Guardian (Stand Still), Shield (Battering Defense, Jarring Block, Shielded Focus)) and exchanges the martial practitioner special quality for the following: **Alignment:** Lawful Neutral
 
 **Magic**
-**Caster Level**6;**MSB**+7;**MSD**18;**Concentration** +8
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 6; **MSB** +7; **MSD** 18; **Concentration** +8
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 11
-**Enhancement Sphere**–**Talents** Deep Enhancement; (enhance) Alter Movement, Emphasize Belief
+**Enhancement Sphere** – **Talents** Deep Enhancement; (enhance) Alter Movement, Emphasize Belief
 • enhance, close range (40 ft.), DC 15; (0 sp, boost the target’s capabilities)
 ◊ Deep Enhancement; linger 2 rounds after ending concentration; 10 minutes/CL duration with spell point
 ◊ Alter Movement (enhance); increase target’s speed +20 ft., and +4 to skill associated with movement
 ◊ Emphasize Belief (enhance); gain DR 2/chaotic, stacking with existing damage reduction
-**Protection Sphere**–**Talents**(aegis) Mystic Shell (succor) Healing Aegis;**Drawbacks** (Alternate Aegis)
+**Protection Sphere** – **Talents** (aegis) Mystic Shell (succor) Healing Aegis; **Drawbacks** (Alternate Aegis)
 • aegis, touch (1 sp, grant defensive effects for 1 hour/CL)
 ◊ Mystic Shell (aegis); 2 layers that are dispelled first, treated as separate aegis for succor effects
 • succor, close (immediate action dismiss an aegis, gain effects)
@@ -387,24 +387,24 @@ A mystic-shell tortoise is a variant adamantortoise which exchanges talents (Gua
 Long whiskers and a well -groomed tail, this seemingly average cat seems to sing a gentle lullaby which soothes the mind, yet there is a glint of great intelligence in its eyes.
 XP 800
 N Tiny magical beast
-**Init**+8;**Senses**darkvision 60 ft., low-light vision;**Perception** +7
+**Init** +8; **Senses** darkvision 60 ft., low-light vision; **Perception** +7
 
 **Defense**
-**AC**16,**touch**16,**flat-footed** 12 (+4 Dex, +2 size)
+**AC** 16, **touch** 16, **flat-footed** 12 (+4 Dex, +2 size)
 **hp** 18 (3d10+3)
-**Fort**+4,**Ref**+7,**Will** +2; +4 vs. mind-affecting
+**Fort** +4, **Ref** +7, **Will** +2; +4 vs. mind-affecting
 **DR** 10/cold iron
 **Weaknesses** feywild trickster
 
 **Offense**
 **Speed** 30 ft.
 **Melee** bite +9 (1d3-4), 2 claws +9 (1d3+4)
-**Space**2.5 ft.;**Reach** 0 ft.
+**Space** 2.5 ft.; **Reach** 0 ft.
 **Special Attacks** lullaby whispers (DC 16, -3 vs. (charm) sphere-like abilities)
 
 **Sphere-Like Abilities** (CL 3; MSB +3; MSD 14; concentration +6; CAM Cha)
 **At-Will**
-**Mind Sphere**–**Talents** Expanded Charm, Subtlety; (charm) Enthrall, Sleep; Special Whiskered Whispers (may only use each greater charm or powerful charm once per day)
+**Mind Sphere** – **Talents** Expanded Charm, Subtlety; (charm) Enthrall, Sleep; Special Whiskered Whispers (may only use each greater charm or powerful charm once per day)
 • charm, close (30 ft.), DC 14; place a (charm) on a target; a lesser charm may only target each creature 1/day
 ◊ Enthrall (charm); the target treats you as its friend, +5 on its saving throw if in combat with you
 • lesser charm (increase target’s disposition by 1 step for 3 minutes) (Will negates)
@@ -419,10 +419,10 @@ N Tiny magical beast
 ◊ Subtlety; if a target succeeds at a saving throw against your charms, they attempt another Will save. If they fail, they are unaware they were targeted by a (charm).
 
 **Statistics**
-**Str**5,**Dex**19,**Con**13,**Int**17,**Wis**12,**Cha** 17
-**Base Atk**+3;**CMB**-1;**CMD** +13
+**Str** 5, **Dex** 19, **Con** 13, **Int** 17, **Wis** 12, **Cha** 17
+**Base Atk** +3; **CMB** -1; **CMD** +13
 **Feats** Ability Focus (lullaby whispers), Improved Initiative
-**Skills**Bluff +10, Climb +6, Diplomacy +10, Perception +7, Sense Motive +8, Stealth +18;**Racial Modifiers** Bluff +4, Diplomacy +4, Sense Motive +4
+**Skills** Bluff +10, Climb +6, Diplomacy +10, Perception +7, Sense Motive +8, Stealth +18; **Racial Modifiers** Bluff +4, Diplomacy +4, Sense Motive +4
 **Languages** common, sylvan, truespeech
 **SQ** feywild trickster, wise aide, whiskered whispers
 
@@ -487,24 +487,24 @@ A 7th-level spellcaster of any alignment the Improved Familiar feat can gain a c
 This hulking, slithering reptile is adorned in brilliant scales, its head crowned by two prominent horns. Small flickers of lightning seem to spark between its scales.
 XP 6,400
 N Huge magical beast
-**Init**+1;**Senses**darkvision 60 ft., low-light vision, tremorsense 30 ft.;**Perception** +16
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, tremorsense 30 ft.; **Perception** +16
 
 **Defense**
-**AC**22,**touch**9,**flat-footed** 21 (+1 Dex, +13 natural, -2 size)
+**AC** 22, **touch** 9, **flat-footed** 21 (+1 Dex, +13 natural, -2 size)
 **hp** 121 (11d10+66)
-**Fort**+12,**Ref**+8,**Will** +5
-**Defensive Abilities**sparking barrier;**Immune** electricity
+**Fort** +12, **Ref** +8, **Will** +5
+**Defensive Abilities** sparking barrier; **Immune** electricity
 
 **Offense**
 **Speed** 50 ft., climb 20 ft.
 **Melee** bite +16 (2d6+7 plus 1d6 bleed), tail slap +16 (2d6+7 plus push)
 **Ranged** tesla scales +11 touch (Fort DC 20 or staggered; disrupts flying)
-**Space**15 ft.;**Reach** 10 ft.
+**Space** 15 ft.; **Reach** 10 ft.
 **Special Attacks** breath weapon (60-ft. line, 8d6 electricity damage, Ref DC 20 for half, useable every 1d4 rounds)
 
 **Might**
-**Martial Tradition**None;**PAM** Wis
-**Brute Sphere**–**Talents** Focused Might, Hammer, Hostile Movement, Shift Weight
+**Martial Tradition** None; **PAM** Wis
+**Brute Sphere** – **Talents** Focused Might, Hammer, Hostile Movement, Shift Weight
 • Hammer; while maintaining martial focus, bull rush, drag, or repositioned opponent suffers damage if movement would push into wall
 • Hostile Movement; can bull rush or drag diagonally, and can bull rush, drag, and reposition into dangerous space
 • Shift Weight; can expend martial focus as immediate action to bull rush, drag, or reposition a creature that misses you; can expend focus to perform bull rush or reposition as an attack of opportunity; ends creature’s movement if maneuver is made in response to movement
@@ -512,10 +512,10 @@ N Huge magical beast
 ◊ Focused Might; regain martial focus on successful shove
 
 **Statistics**
-**Str**25,**Dex**13,**Con**21,**Int**10,**Wis**15,**Cha** 11
-**Base Atk**+11;**CMB**+20 (+24 to bull rush);**CMD** +31 (cannot be tripped)
-**Feats**Muscular Reflexes, Power Attack, Toughness;**Special** Feat-to-Talent trade for Proficient combat sphere progression
-**Skills**Climb +19, Perception +16, Stealth +11;**Racial Modifiers** +4 Climb, +4 Stealth
+**Str** 25, **Dex** 13, **Con** 21, **Int** 10, **Wis** 15, **Cha** 11
+**Base Atk** +11; **CMB** +20 (+24 to bull rush); **CMD** +31 (cannot be tripped)
+**Feats** Muscular Reflexes, Power Attack, Toughness; **Special** Feat-to-Talent trade for Proficient combat sphere progression
+**Skills** Climb +19, Perception +16, Stealth +11; **Racial Modifiers** +4 Climb, +4 Stealth
 **Languages** Draconic
 **SQ** powerful tail
 
@@ -545,32 +545,32 @@ While the behir is territorial, it is not stupid nor inherently cruel, but rathe
 This massive frame of feather and fur features long crooked claws which seem to be made for reaching out and snatching prey.
 XP 1,600
 N Large magical beast
-**Init**+6;**Senses**darkvision 60 ft., low-light vision, scent;**Perception** +11
+**Init** +6; **Senses** darkvision 60 ft., low-light vision, scent; **Perception** +11
 
 **Defense**
-**AC**18,**touch**11,**flat-footed** 16 (+2 Dex, +7 natural, -1 size)
+**AC** 18, **touch** 11, **flat-footed** 16 (+2 Dex, +7 natural, -1 size)
 **hp** 54 (6d10+24)
-**Fort**+9,**Ref**+7,**Will** +4
+**Fort** +9, **Ref** +7, **Will** +4
 
 **Offense**
 **Speed** 30 ft., climb 10 ft.
 **Melee** bite +10 (1d8+5), 2 claws +10 (1d8+5 plus grab)
-**Space**10 ft.;**Reach** 10 ft. (15 ft. with claws)
+**Space** 10 ft.; **Reach** 10 ft. (15 ft. with claws)
 **Special Attacks** wide grip
 
 **Might**
-**Martial Tradition**Monstrous Combatant (Berserker x1, Gladiator x1, Wrestling x2);**PAM** Wis
-**Berserker Sphere**–**Talents** Bloody Counter
+**Martial Tradition** Monstrous Combatant (Berserker x1, Gladiator x1, Wrestling x2); **PAM** Wis
+**Berserker Sphere** – **Talents** Bloody Counter
 • berserking (12 temporary hit points, -2 AC)
 • brutal strike (special attack action; battered; martial focus, +12 damage)
 • Bloody Counter; immediate action, allow target to automatically strike you, make a brutal strike against target, go first if target battered
-**Gladiator Sphere**–**Talents** (boast) Bloodthirst, Menace
+**Gladiator Sphere** – **Talents** (boast) Bloodthirst, Menace
 • boast (immediate action after critical hit, reduce enemy to 0, or successful combat maneuver, apply (boast) in 40-ft. radius); (boast) DC 15
 ◊ Bloodthirst (boast); make an attack as part of the boast
 ◊ Menace (boast); enemies must succeed at a Will save or cannot come closer for 1 round
 ◊ Prowess (boast); roll next attack twice and take better
 • strike fear (full-round action, expend martial focus to demoralize 30-ft. radius; apply (demoralization) to enemies shaken)
-**Wrestling Sphere**–**Talents** Grandstanding Slam, Ground Game; (slam) Hard Whip, Power Bomb; Special Double Slam (make 2 slams on 2 separate grappled creatures as part of the same action)
+**Wrestling Sphere** – **Talents** Grandstanding Slam, Ground Game; (slam) Hard Whip, Power Bomb; Special Double Slam (make 2 slams on 2 separate grappled creatures as part of the same action)
 • Grandstanding Slam; after using a (slam), intimidate other nearby creatures with a +4 bonus
 • Ground Game; can trip creature when maintaining a grapple or on being grappled
 • slam (immediate action, end grapple and apply (slam); (slam) DC 15
@@ -579,10 +579,10 @@ N Large magical beast
 • snag (swift action, melee touch attack +10, battered until end of turn or as long as held)
 
 **Statistics**
-**Str**21,**Dex**15,**Con**18,**Int**2,**Wis**14,**Cha** 10
-**Base Atk**+6;**CMB**+12 (+18 grapple);**CMD** +24 (26 vs. grapple)
+**Str** 21, **Dex** 15, **Con** 18, **Int** 2, **Wis** 14, **Cha** 10
+**Base Atk** +6; **CMB** +12 (+18 grapple); **CMD** +24 (26 vs. grapple)
 **Feats** Dirty Fighting, Improved Grapple, Improved Initiative, Muscular Reflexes
-**Skills**Intimidate +12, Perception +11;**Racial Modifiers** Intimidate +6
+**Skills** Intimidate +12, Perception +11; **Racial Modifiers** Intimidate +6
 
 **Special Abilities**
 **Double Slam (Ex):** When a catchclaw owlbear uses a (slam) talent, it can choose to apply that (slam) talent to each creature it is currently grappling, ending the grapple and applying that (slam)’s effects to each creature normally (this allows a catchclaw owlbear to use a (slam) on each creature grappled in each of its two claws).
@@ -612,7 +612,7 @@ An rimecoat owlbear is a variant catchclaw owlbear which exchanges talents (Glad
 
 **Sphere-Like Abilities** (CL 5; MSB +5; MSD 16; concentration +6; CAM Cha)
 **Constant:**
-**Weather Sphere**–**Talents** (mantle) Gelid Body, Razor Ice
+**Weather Sphere** – **Talents** (mantle) Gelid Body, Razor Ice
 • mantle (gain (mantle) effects when in certain weather conditions)
 ◊ Gelid Body (mantle); (while in Cold 3 or higher) cold resist 5 and DR 5/bludgeoning, improving by 1 for each category above 3. Improves further at severity 5 and 7.
 ◊ Razor Ice (mantle); (while in Cold 4 or higher) +1 slashing damage on attacks and against attackers using unarmed or natural weapons, +2 per severity above 4
@@ -636,7 +636,7 @@ An umbradark owlbear is a variant catchclaw owlbear which exchanges talents (Ber
 
 **Sphere-Like Abilities** (CL 5; MSB +5; MSD 16; concentration +6; CAM Cha)
 **Constant:**
-**Dark Sphere**–**Talents** Greater Meld; (meld) Feed On Darkness (2), Step Through Darkness
+**Dark Sphere** – **Talents** Greater Meld; (meld) Feed On Darkness (2), Step Through Darkness
 • meld (bonuses while in an area of dim-light or darker)
 ◊ Feed On Darkness (meld); gain fast healing 2
 ◊ Greater Meld; (meld) talents work in any area of dim light or darkness
@@ -657,31 +657,31 @@ An umbradark owlbear is a variant catchclaw owlbear which exchanges talents (Ber
 Visually indistinguishable from an average songbird, save for its soft orange-brown colored plumage and the distinct smell of rare spices, this golden-brown plumed songbird cheerfully works at arranging its nest.
 XP 800
 N Tiny magical beast
-**Init**+8;**Senses**darkvision 60 ft., low-light vision;**Perception** +15
+**Init** +8; **Senses** darkvision 60 ft., low-light vision; **Perception** +15
 
 **Defense**
-**AC**16,**touch**16,**flat-footed** 12 (+4 Dex, +2 size)
+**AC** 16, **touch** 16, **flat-footed** 12 (+4 Dex, +2 size)
 **hp** 24 (4d10+4)
-**Fort**+5,**Ref**+8,**Will** +4
+**Fort** +5, **Ref** +8, **Will** +4
 **DR** 5/magic
 
 **Offense**
 **Speed** 10 ft., fl y 40 ft. (good)
 **Melee** Bite +4 (1d3-3)
-**Space**2.5 ft.;**Reach** 0 ft.
+**Space** 2.5 ft.; **Reach** 0 ft.
 
 **Sphere-Like Abilities** (CL 4; MSB +3; MSD 14; concentration +6; CAM Cha)
 **At will:**
-**Creation Sphere**–**Talents**Divided Creation, Distant Creation;**Special:** can only have one create effect at a time; if create is used again, any previous objects are immediately dismissed
+**Creation Sphere** – **Talents** Divided Creation, Distant Creation; **Special:** can only have one create effect at a time; if create is used again, any previous objects are immediately dismissed
 • create, close range (35 ft.), DC 15; create one object up to Large size (4 Small objects; vegetable matter only, 4 minutes)
 ◊ Divided Creation: can create multiple objects (total less than largest size possible)
 ◊ Spice Maker: 1/day, can permanently create 1 pound of rare spices worth up to 20 gp
 
 **Statistics**
-**Str**6,**Dex**18,**Con**13,**Int**10,**Wis**13,**Cha** 15
-**Base Atk**+4;**CMB**+0;**CMD** +14
+**Str** 6, **Dex** 18, **Con** 13, **Int** 10, **Wis** 13, **Cha** 15
+**Base Atk** +4; **CMB** +0; **CMD** +14
 **Feats** Improved Initiative, Iron Will, Sphere Focus (Creation)
-**Skills**Appraise +5, Fly +15, Perception +15, Stealth +12;**Racial Modifiers** +4 Appraise, +8 Perception
+**Skills** Appraise +5, Fly +15, Perception +15, Stealth +12; **Racial Modifiers** +4 Appraise, +8 Perception
 **SQ** crafter’s companion, spice maker
 
 **Special Abilities**
@@ -724,10 +724,10 @@ A minka bird is a variant cinnamon bird which exchanges abilities (Creation sphe
 ◊ Augury (divine); ask whether an action will bring good or bad results within the next 4 hours, 90% chance for a meaningful reply
 
 **Magic**
-**Caster Level**3;**MSB**+4;**MSD**15;**Concentration** +6
-**Tradition**Fortune’s Conduit (Verbal Casting, Witchmarked [glowing eyes]);**CAM** Cha
+**Caster Level** 3; **MSB** +4; **MSD** 15; **Concentration** +6
+**Tradition** Fortune’s Conduit (Verbal Casting, Witchmarked [glowing eyes]); **CAM** Cha
 **Spell Points** 8
-**Fate Sphere**–**Talents** Resounding Word; (word) Borrow Luck, Borrow Trouble, Mercy, Pain; Drawbacks (Neutrality, Tongue Of Ages)
+**Fate Sphere** – **Talents** Resounding Word; (word) Borrow Luck, Borrow Trouble, Mercy, Pain; Drawbacks (Neutrality, Tongue Of Ages)
 • word, medium range (130 ft.), DC 14; (effects of a (word) talent)
 ◊ Borrow Luck (word); immediate action, 1 sp, target rerolls a failed check and takes a -4 on that type of roll until they fail
 ◊ Borrow Trouble (word); immediate action, 1 sp, target rerolls a successful check and takes a +4 on that type of roll until they succeed
@@ -792,13 +792,13 @@ A climate creature should not have more (mantle) effects than twice its Hit Dice
 This large spider’s coat seems to consist of fine, shifting layers of sand which swirl in patterned bands.
 XP 1,600
 N Small magical beast (climate)
-**Init**+5;**Senses**darkvision 60 ft., low-light vision, tremorsense 40 ft.;**Perception** +12
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, tremorsense 40 ft.; **Perception** +12
 
 **Defense**
-**AC**20,**touch**16,**flat-footed** 15 (+5 Dex, +4 natural, +1 size)
+**AC** 20, **touch** 16, **flat-footed** 15 (+5 Dex, +4 natural, +1 size)
 **hp** 48 (6d10+18)
-**Fort**+8,**Ref**+10,**Will** +3
-**Defensive Abilities**fortification (50%); DR 5/slashing or 5/– against nonlethal;**Immune** weather (Wind, Aridity), mind-affecting
+**Fort** +8, **Ref** +10, **Will** +3
+**Defensive Abilities** fortification (50%); DR 5/slashing or 5/– against nonlethal; **Immune** weather (Wind, Aridity), mind-affecting
 
 **Offense**
 **Speed** 35 ft., burrow 35 ft., climb 35 ft., fl y 55 ft. (poor), swim 55 (sand only) ft.
@@ -813,16 +813,16 @@ N Small magical beast (climate)
 • Zephyr’s Flight (mantle, wind); increase all movement modes by +15 ft.
 
 **Statistics**
-**Str**13,**Dex**20,**Con**17,**Int**13,**Wis**8,**Cha** 13
-**Base Atk**+6;**CMB**+6;**CMD** +21 (+33 vs. trip)
+**Str** 13, **Dex** 20, **Con** 17, **Int** 13, **Wis** 8, **Cha** 13
+**Base Atk** +6; **CMB** +6; **CMD** +21 (+33 vs. trip)
 **Feats** Iron Will, Skill Focus (Stealth), Weapon Finesse
-**Skills**Acrobatics +14, Climb +17, Fly +3, Perception +12, Stealth +25, Swim +9;**Racial Modifiers** +8 Climb, +4 Perception, +4 Stealth
+**Skills** Acrobatics +14, Climb +17, Fly +3, Perception +12, Stealth +25, Swim +9; **Racial Modifiers** +8 Climb, +4 Perception, +4 Stealth
 **Languages** Terran (cannot speak)
 **SQ** weather attunement (Wind, Aridity)
 
 **Special Abilities**
 **Desiccating Web (Su):** A harmattan tarantula cannot spin webs like a normal spider, but can create silk to protect its burrow or slow down prey. This functions as the web universal monster ability, except the harmattan tarantula can use this ability an unlimited number of times per day, and can use desiccating silk as a swift action. The save DC is Constitution-based. A creature entangled by the harmattan tarantula’s webs is drained of moisture by the dehydrating strands. Whenever a creature fails to escape from a desiccating web, it suff ers 1d6 nonlethal damage (as the Desiccant (mantle) talent).
-**Drybone Venin (Ex):** Bite––injury;**save**Fort DC 16;**frequency**1/round for 6 rounds;**effect**1d6 nonlethal damage and whenever the poisoned creature would take a 5-foot step, they must succeed at a Reflex save or fall prone (DC 16);**cure** 2 consecutive saves. The save DC is Constitution-based.
+**Drybone Venin (Ex):** Bite––injury; **save** Fort DC 16; **frequency** 1/round for 6 rounds; **effect** 1d6 nonlethal damage and whenever the poisoned creature would take a 5-foot step, they must succeed at a Reflex save or fall prone (DC 16); **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 **Ecology**
 **Environment** warm deserts
@@ -843,29 +843,29 @@ Harmattan tarantulas prefer to lay in wait, camouflaging against the sands or cr
 This small , orange-red toad emits a soft , warm glow. Its cragg y, rough skin is nearly scorching to the touch and its hearty deep croak sounds like a small volcano.
 XP 400
 N Tiny magical beast (climate)
-**Init**+3;**Senses**darkvision 60 ft., low-light vision;**Perception** +6
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; **Perception** +6
 
 **Defense**
-**AC**15,**touch**15,**flat-footed** 12 (+3 Dex, +2 size)
+**AC** 15, **touch** 15, **flat-footed** 12 (+3 Dex, +2 size)
 **hp** 14 (2d10+4)
-**Fort**+5,**Ref**+6,**Will** +1; +2 vs. illusions (see Mirage Sight)
-**DR**5/slashing;**Immune**weather (Ash, Heat, Vog);**Resist** acid 10, fire 10
+**Fort** +5, **Ref** +6, **Will** +1; +2 vs. illusions (see Mirage Sight)
+**DR** 5/slashing; **Immune** weather (Ash, Heat, Vog); **Resist** acid 10, fire 10
 
 **Offense**
 **Speed** 20 ft., climb 10 ft.
 **Melee** bite +7 (1d3-4 plus 1d4 fire)
 
-**Space**2.5 ft.;**Reach** 0 ft.
+**Space** 2.5 ft.; **Reach** 0 ft.
 **Special Attacks** attuned mantles (severity 3; DC 13), lava pellet (1d6; DC 13)
 • Blazing Skin (mantle, heat); deal 1d4 fire damage to attacker when struck by most melee weapons (metal, natural, unarmed, touch); immediate action, 2 damage dice
 • High Energy (mantle, heat); gain 6 temporary hit points each round (double Heat severity)
 • Mirage Sight (mantle, heat); +2 on saving throws vs. illusions; at severity 5, roll twice vs. concealment
 
 **Statistics**
-**Str**5,**Dex**17,**Con**15,**Int**2,**Wis**13,**Cha** 14
-**Base Atk**+2;**CMB**-3;**CMD** +10
+**Str** 5, **Dex** 17, **Con** 15, **Int** 2, **Wis** 13, **Cha** 14
+**Base Atk** +2; **CMB** -3; **CMD** +10
 **Feats** Weapon Finesse
-**Skills**Climb +9, Survival +1, Perception +6;**Racial Modifiers** +4 Climb, +8 Survival (Volcanic terrains or any environment with Heat weather conditions severity 3 or higher)
+**Skills** Climb +9, Survival +1, Perception +6; **Racial Modifiers** +4 Climb, +8 Survival (Volcanic terrains or any environment with Heat weather conditions severity 3 or higher)
 **Languages** Ignan (cannot speak)
 **SQ** volcanic glow, weather attunement (Ash, Heat, Vog)
 
@@ -897,19 +897,19 @@ A lava toad elder increases in size to Small and possesses 2 additional Hit Dice
 The massive centipede-like beast tunnels through stone and snow, the segments between its heavy, chitinous plates glowing with an intense heat.
 XP 4,800
 N Huge magical beast
-**Init**+6;**Senses**darkvision 60 ft., low-light vision, tremorsense 60 ft.;**Perception** +20
+**Init** +6; **Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; **Perception** +20
 
 **Defense**
-**AC**21,**touch**12,**flat-footed** 19 (+2 Dex, +2 Frost Shield, +9 natural, -2 size)
+**AC** 21, **touch** 12, **flat-footed** 19 (+2 Dex, +2 Frost Shield, +9 natural, -2 size)
 **hp** 100 (10d10+50)
-**Fort**+12,**Ref**+9,**Will** +6; +6 vs. illusion (see Mirage Sight)
-**DR**7/bludgeoning;**Immune**weather (Cold, Heat);**Resist** cold 20, fire 20
+**Fort** +12, **Ref** +9, **Will** +6; +6 vs. illusion (see Mirage Sight)
+**DR** 7/bludgeoning; **Immune** weather (Cold, Heat); **Resist** cold 20, fire 20
 **Weaknesses** vulnerability to sonic
 
 **Offense**
 **Speed** 30 ft., burrow 30 ft.
 **Melee** bite +15 (3d6+7+3 slashing), tail slap +10 (2d6+3+3 slashing plus trip)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** attuned mantles (severity 5), rimefire breath (30-ft. cone, 6d6 fire plus flash frozen, DC 20)
 • Blazing Skin (mantle, heat); deal 1d8 fire damage to attacker when struck by most melee weapons (metal, natural, unarmed, touch); immediate action, 2 damage dice
 • Boreal Glare (mantle, cold); gain glare attack that deals 3d6 cold damage as a swift action against one target you can see (Fort half); ignore miss chance from snow and sleet
@@ -920,8 +920,8 @@ N Huge magical beast
 • Razor Ice (mantle, cold); unarmed and natural attacks deal +3 slashing damage; attacking creatures (unarmed, natural) also suffer this damage
 
 **Statistics**
-**Str**25,**Dex**15,**Con**21,**Int**6,**Wis**13,**Cha** 8
-**Base Atk**+10;**CMB**+19 (+23 trip);**CMD** +33 (cannot be tripped)
+**Str** 25, **Dex** 15, **Con** 21, **Int** 6, **Wis** 13, **Cha** 8
+**Base Atk** +10; **CMB** +19 (+23 trip); **CMD** +33 (cannot be tripped)
 **Feats** Improved Initiative, Iron Will, Muscular Reflexes, Run, Skill Focus (Perception)
 **Skills** Perception +20
 **Languages** Giant (cannot speak)
@@ -953,18 +953,18 @@ Unique to giant culture, specifically frost and mountain giants, remorhaz are re
 This enormous bird appears to carry rain and thunder itself across its impressive wingspan, each beat of its wings carrying the sound of thunder.
 XP 38,400
 N Huge magical beast (climate)
-**Init**+14;**Senses**darkvision 60 ft., low-light vision, mistsight;**Perception** +28
+**Init** +14; **Senses** darkvision 60 ft., low-light vision, mistsight; **Perception** +28
 
 **Defense**
-**AC**27,**touch**18,**flat-footed** 17 (+10 Dex, +9 natural, -2 size)
+**AC** 27, **touch** 18, **flat-footed** 17 (+10 Dex, +9 natural, -2 size)
 **hp** 189 (17d10+104)
-**Fort**+16,**Ref**+20,**Will** +19; +4 vs. lightning strikes
-**Defensive Abilities**improved evasion, mist form (40% concealment vs. attacks); DR 10/bludgeoning;**Immune**ability damage, ability drain, electricity, poison, weather (Precipitation, Storm, Wind);**Resist fire** 25
+**Fort** +16, **Ref** +20, **Will** +19; +4 vs. lightning strikes
+**Defensive Abilities** improved evasion, mist form (40% concealment vs. attacks); DR 10/bludgeoning; **Immune** ability damage, ability drain, electricity, poison, weather (Precipitation, Storm, Wind); **Resist fire** 25
 
 **Offense**
 **Speed** 35 ft., fl y 105 ft. (good)
 **Melee** 2 talons +29 (1d8+10 plus 4d4 electricity), 2 wings +24 (1d8+7 plus 4d4 electricity)
-**Space**15 ft.;**Reach** 20 ft.
+**Space** 15 ft.; **Reach** 20 ft.
 **Special Attacks** attuned mantles (severity 6), shape the skies, skylord’s wrath (vertical lightning bolt, 16d6 electricity to target and 8d6 within 30 ft., deafened, Ref DC 26, usable every 1d4+1 rounds)
 • Borne Aloft (mantle, wind); 80 ft. fly speed with poor maneuverability
 • Fluidity (mantle, precipitation); +11 Escape Artist, one size smaller for squeezing, +5 ft. reach
@@ -977,8 +977,8 @@ N Huge magical beast (climate)
 • Zephyr’s Flight (mantle, wind); increase all movement modes by +25 ft.
 
 **Statistics**
-**Str**22,**Dex**31,**Con**23,**Int**14,**Wis**27,**Cha** 15
-**Base Atk**+17;**CMB**+25;**CMD** +45
+**Str** 22, **Dex** 31, **Con** 23, **Int** 14, **Wis** 27, **Cha** 15
+**Base Atk** +17; **CMB** +25; **CMD** +45
 **Feats** Combat Refl exes, Flyby Attack, Hover, Improved Initiative, Improved Iron Will, Iron Will, Power Attack, Weapon Finesse, Wingover
 **Skills** Diplomacy +19, Escape Artist +21, Fly +30, Knowledge (nature) +19, Perception +28
 **Languages** Auran, Common
@@ -1037,30 +1037,30 @@ This lion’s metallic-gold coat gleams in the light, its toned, sculpted muscul
 XP 1,200
 Male indomitable creature lion
 N Large magical beast (augmented animal)
-**Init**+7;**Senses**darkvision 60 ft., low-light vision, scent;**Perception** +9
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, scent; **Perception** +9
 
 **Defense**
-**AC**17,**touch**12,**flat-footed** 14 (+3 Dex, +5 natural, -1 size)
+**AC** 17, **touch** 12, **flat-footed** 14 (+3 Dex, +5 natural, -1 size)
 **hp** 42 (5d8+20)
-**Fort**+8,**Ref**+7,**Will** +2
-**Defensive Abilities**guardian’s prowess, hardened, insuppressible;**DR** 5/–
+**Fort** +8, **Ref** +7, **Will** +2
+**Defensive Abilities** guardian’s prowess, hardened, insuppressible; **DR** 5/–
 
 **Offense**
 **Speed** 40 ft.
 **Melee** bite +8 (1d8+6 plus grab), 2 claws +8 (1d4+6)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** pounce, rake (2 claws +8, 1d4+6)
 
-**Guardian Sphere**–**Packages**(challenge);**Talents** Steel Hide
+**Guardian Sphere** – **Packages** (challenge); **Talents** Steel Hide
 • challenge (move action, or expend martial focus as a swift; target takes a -3 penalty on attack rolls against others and a +3 bonus on attack rolls against you for 4 rounds)
 ◊ Steel Hide; end your challenge to negate a critical hit against you from a challenged target
 • delayed damage pool (15 points)
 
 **Statistics**
-**Str**23,**Dex**17,**Con**19,**Int**3,**Wis**12,**Cha** 6
-**Base Atk**+3;**CMB**+10 (+14 grapple);**CMD** +23 (+27 vs. trip)
+**Str** 23, **Dex** 17, **Con** 19, **Int** 3, **Wis** 12, **Cha** 6
+**Base Atk** +3; **CMB** +10 (+14 grapple); **CMD** +23 (+27 vs. trip)
 **Feats** Extra Combat Talent (2), Improved Initiative, Run, Skill Focus (Perception)
-**Skills**Acrobatics +11, Perception +9, Stealth +8 (+12 in undergrowth);**Racial Modifiers** +4 Acrobatics, +4 Stealth (+8 in undergrowth)
+**Skills** Acrobatics +11, Perception +9, Stealth +8 (+12 in undergrowth); **Racial Modifiers** +4 Acrobatics, +4 Stealth (+8 in undergrowth)
 
 **Ecology**
 **Environment** any plains
@@ -1083,23 +1083,23 @@ A nemean lion knows when to pick its fights and will avoid confrontation with an
 This massive jellyfish-like creature’s brilliant blue hues crackle with energy, long tentacles gracefully trailing below its body, its head a brilliant finned crown.
 XP 9,600
 N Huge magical beast (aquatic)
-**Init**+4;**Senses**darkvision 60 ft., low-light vision, watersense 120 ft.;**Perception** +17
+**Init** +4; **Senses** darkvision 60 ft., low-light vision, watersense 120 ft.; **Perception** +17
 
 **Defense**
-**AC**23,**touch**12,**flat-footed** 19 (+4 Dex, +11 natural, -2 size)
+**AC** 23, **touch** 12, **flat-footed** 19 (+4 Dex, +11 natural, -2 size)
 **hp** 132 (12d10+72); regeneration 1 (acid)
-**Fort**+13,**Ref**+14,**Will** +6
-**Defensive Abilities**amorphous; DR 10/magic and piercing or slashing;**Immune** electricity, mind-affecting
+**Fort** +13, **Ref** +14, **Will** +6
+**Defensive Abilities** amorphous; DR 10/magic and piercing or slashing; **Immune** electricity, mind-affecting
 
 **Offense**
 **Speed** swim 30 ft.
 **Melee** tentacle +17 (1d8+9/19-20 plus bluevein poison)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** shipbreaker
 
 **Sphere-Like Abilities** (CL 10; MSB +10; MSD 21; concentration +11; CAM Cha)
 **At will:**
-**Destruction Sphere**–**Talents** (blast shape) Energy Satellite, Sculpt Blast; (blast type) Shock Blast
+**Destruction Sphere** – **Talents** (blast shape) Energy Satellite, Sculpt Blast; (blast type) Shock Blast
 • destructive blast, close range ray (50 ft.), DC 16; 5d6, +1 sp 10d6; use with (blast shape), inflict a (blast type); Special A man o’ war can increase the damage dealt by its spherelike abilities once every 1d3 rounds, as though it spent an additional spell point on the Destruction sphere effect
 ◊ (blast shape)
 • Energy Satellite (blast shape); create 1 orbiting sphere for 10 minutes, which can be fired as an immediate action at a creature within 10 ft.; Ref half. Can maintain 2 spheres; cannot spend sp to increase damage dice.
@@ -1108,15 +1108,15 @@ N Huge magical beast (aquatic)
 • Shock Blast (blast type); electricity damage, d4 instead of d6, creatures struck or fail Ref save must succeed at a Fort save or be dazed for 1 round electricity damage, DC 17
 
 **Statistics**
-**Str**22,**Dex**18,**Con**20,**Int**6,**Wis**14,**Cha** 12
-**Base Atk**+12;**CMB**+20;**CMD** +34 (can’t be tripped)
+**Str** 22, **Dex** 18, **Con** 20, **Int** 6, **Wis** 14, **Cha** 12
+**Base Atk** +12; **CMB** +20; **CMD** +34 (can’t be tripped)
 **Feats** Combat Reflexes, Elemental Focus (electricity), Improved Critical (tentacle), Lightning Refl exes, Toughness, Weapon Focus (tentacle)
 **Skills** Perception +17, Swim +14
 **Languages** Aquan (cannot speak)
 **SQ** compression
 
 **Special Abilities**
-**Bluevein Poison (Ex):** Tentacle–injury;**save**Fort DC 21;**frequency**1/round for 5 rounds;**effect**vulnerability to electricity and must roll twice and take the worse result on saving throws against electricity effects;**cure** 2 consecutive saves. The save DC is Constitution-based. If this poison’s duration ends without being cured (either with successful Fortitude saves or through other means), the creature must succeed at one additional saving throw against this poison’s save DC or be paralyzed for 1 minute. This poison’s virulence is short lived and becomes inert after 1 minute if not properly stored (DC 30 Craft (alchemy) or Knowledge (nature) check) or otherwise preserved with magic that could preserve a corpse or food.
+**Bluevein Poison (Ex):** Tentacle–injury; **save** Fort DC 21; **frequency** 1/round for 5 rounds; **effect** vulnerability to electricity and must roll twice and take the worse result on saving throws against electricity effects; **cure** 2 consecutive saves. The save DC is Constitution-based. If this poison’s duration ends without being cured (either with successful Fortitude saves or through other means), the creature must succeed at one additional saving throw against this poison’s save DC or be paralyzed for 1 minute. This poison’s virulence is short lived and becomes inert after 1 minute if not properly stored (DC 30 Craft (alchemy) or Knowledge (nature) check) or otherwise preserved with magic that could preserve a corpse or food.
 **Shipbreaker (Ex):** A man o’ war’s attacks ignore the hardness of and deal full damage to ships and other aquatic vessels.
 **Sphere-Like Abilities (Sp):** A man o’ war possesses spherelike abilities, as indicated in its stat block. The man o’ war’s caster level for these sphere-like abilities is equal to its CR.
 **Watersense (Ex):** The man o’ war possesses a blindsense with a range of 120 feet, except only allowing the man o’ war to detect anything in contact with the same body of water as it. Unique to the man o’ war’s watersense, the man o’ war can also detect any creature composed of liquid, even if they are not in contact with the same body of water (such as creatures with blood, susceptible to bleed damage, or with the water subtype). This allows a man o’ war to “see” creatures on solid ground or on a boat.
@@ -1142,28 +1142,28 @@ Man o’ war bluevein poison is a famously conductive toxin that is notoriously 
 Powerful wings of crimson and orange fl ame spread out from the magnificent plumes of this regal bird, a soothing heat radiating off its body, leaving a shimmering distortion in the wake of its fl ight.
 XP 12,800
 N Large magical beast
-**Init**+12;**Senses**darkvision 60 ft., low-light vision;**Perception** +18
+**Init** +12; **Senses** darkvision 60 ft., low-light vision; **Perception** +18
 
 **Defense**
-**AC**24,**touch**18,**flat-footed** 16 (+8 Dex, +1 dodge, +6 natural, -1 size)
+**AC** 24, **touch** 18, **flat-footed** 16 (+8 Dex, +1 dodge, +6 natural, -1 size)
 **hp** 96 (12d10+36)
-**Fort**+16,**Ref**+21,**Will** +14
-**Defensive Abilities**force of will, thick plumage; DR 5/ piercing;**Immune** fire
+**Fort** +16, **Ref** +21, **Will** +14
+**Defensive Abilities** force of will, thick plumage; DR 5/ piercing; **Immune** fire
 
 **Offense**
 **Speed** 20 ft., fly 50 ft. (good)
 **Melee** bite +15 (1d8+4), 2 wings +10 (1d8+2)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 
 **Magic**
-**Caster Level**12;**MSB**+12**MSD**23;**Concentration** +17
-**Tradition**Natural;**CAM** Cha
+**Caster Level** 12; **MSB** +12 **MSD** 23; **Concentration** +17
+**Tradition** Natural; **CAM** Cha
 **Spell Points** 17
 **Divination Sphere**
 • divine, 1 minute, DC 21; (gain information about magic auras within 210 ft.)
 ◊ Alternate Divinations
 ◊ Nature (fire); divine for the presence and strength of fires
-**Nature Sphere**–**Packages**fire;**Talents** Deep Nature, Ranged Nature; (geomancing) Create Nature, Fire Mastery; (spirit) Destroy Element, Nature’s Weapon, Nature Sight, Resist Elements, Phoenix Resurgence, Speak With The Elements, Wreath Of Elements
+**Nature Sphere** – **Packages** fire; **Talents** Deep Nature, Ranged Nature; (geomancing) Create Nature, Fire Mastery; (spirit) Destroy Element, Nature’s Weapon, Nature Sight, Resist Elements, Phoenix Resurgence, Speak With The Elements, Wreath Of Elements
 • Deep Nature; geomancing and (spirit) abilities continue for 2 rounds after concentration ends, or duration increases 1 step when spending a spell point to continue without concentration
 • Ranged Nature; increase geomancing range to medium
 • geomancing, medium range (220 ft.), DC 23; create effects based on packages
@@ -1193,8 +1193,8 @@ N Large magical beast
 • fire; 12 fire damage against target within reach (Ref half)
 
 **Statistics**
-**Str**18,**Dex**26,**Con**16,**Int**14,**Wis**16,**Cha** 20
-**Base Atk**+12;**CMB**+17;**CMD** +36
+**Str** 18, **Dex** 26, **Con** 16, **Int** 14, **Wis** 16, **Cha** 20
+**Base Atk** +12; **CMB** +17; **CMD** +36
 **Feats** Dodge, Elemental Focus (fire), Flyby Attack, Hover, Improved Initiative, Iron Will, Sphere Focus (Nature)
 **Skills** Diplomacy +17, Fly +27, Knowledge (arcana) +14, Perception +18
 **Languages** common, ignan
@@ -1230,7 +1230,7 @@ A garuda is a variant phoenix which exchanges the following talents (Nature sphe
 • Alternate Divinations
 ◊ Nature (air); presence of air, toxic gas, or vapor (or lack of)
 ◊ Weather (weather); divine naturally occurring weather within next 24 hours
-**Nature Sphere**–**Packages**air;**Talents** Deep Nature, Ranged Nature; (geomancing) Manipulate Nature, Purify Nature; (spirit) Nature Sight, Speak With The Elements
+**Nature Sphere** – **Packages** air; **Talents** Deep Nature, Ranged Nature; (geomancing) Manipulate Nature, Purify Nature; (spirit) Nature Sight, Speak With The Elements
 • Deep Nature; geomancing and (spirit) abilities continue for 2 rounds after concentration ends, or duration increases 1 step when spending a spell point to persist
 • Ranged Nature; increase geomancing range to medium
 • geomancing, medium range (220 ft.), DC 21; create effects based on packages, may spend 1 sp to continue effects without concentration for 1 minute per caster level
@@ -1271,7 +1271,7 @@ A hourglass jian crane is a variant phoenix which exchanges talents (Nature sphe
 **Divination Sphere**
 • Alternate Divinations
 ◊ Time (divine time); observe what occurred up to 11 hours in the past
-**Time Sphere**–**Talents** Improved Haste, Improved Slow, Mass Time, Ranged Time x2, Temporal Haste, Time Zone; (time) After Image, Eject, Retry, Time Bubble
+**Time Sphere** – **Talents** Improved Haste, Improved Slow, Mass Time, Ranged Time x2, Temporal Haste, Time Zone; (time) After Image, Eject, Retry, Time Bubble
 • alter time, medium range (210 ft.), DC 22; (apply a (time) effect on the target)
 ◊ After Image (time); 35% miss chance, concentration or 1 sp for 11 minutes
 ◊ Haste (time); target gains +30 ft. enhancement to all movement and +2 bonus to attack rolls and Ref saves and +2 dodge bonus to AC, concentration or 1 sp for 11 rounds
@@ -1302,21 +1302,21 @@ A hourglass jian crane is a variant phoenix which exchanges talents (Nature sphe
 This muscular feline sports a coiled, muscular body with a strange hybrid of scale and fur. With a tired and bored cat’s yawn, imposing snake fangs can be seen in its mouth.
 XP 4,800
 N Medium magical beast
-**Init**+10;**Senses**darkvision 60 ft., low-light vision, scent;**Perception** +16
+**Init** +10; **Senses** darkvision 60 ft., low-light vision, scent; **Perception** +16
 
 **Defense**
-**AC**23,**touch**16,**flat-footed** 17 (+6 Dex, +7 natural)
+**AC** 23, **touch** 16, **flat-footed** 17 (+6 Dex, +7 natural)
 **hp** 80 (10d10+30)
-**Fort**+10,**Ref**+13,**Will** +8
-**DR**5/slashing;**Immune** poison
+**Fort** +10, **Ref** +13, **Will** +8
+**DR** 5/slashing; **Immune** poison
 
 **Offense**
 **Speed** 50 ft., climb 30 ft.
 **Melee** bite +18 (2d6+4 plus hemorrhaging poison), 2 claws +18 (1d6+4)
 
 **Might**
-**Martial Tradition**None;**PAM** Wis
-**Lancer Sphere**–**Talents** Adamant Stalker (x2), Focusing Finale, Opportune Impalement; (impale) Bloody Rip
+**Martial Tradition** None; **PAM** Wis
+**Lancer Sphere** – **Talents** Adamant Stalker (x2), Focusing Finale, Opportune Impalement; (impale) Bloody Rip
 • Adamant Stalker; can take a 5-ft. step as immediate action to follow an opponent’s 5-ft. step. Opponent provokes an attack of opportunity.
 • impale (attack action; -2 penalty on attack roll; target is impaled; ending impale deals bleed equal to impaling weapon’s damage)
 ◊ Bloody Rip (impale); after attacking an impaled creature with the impaling weapon, can spend swift action to remove the weapon. Creature retains impale condition until the end of their next turn
@@ -1324,15 +1324,15 @@ N Medium magical beast
 ◊ Opportune Impalement; can expend martial focus to use impale with an attack of opportunity, taking no penalty to impale
 
 **Statistics**
-**Str**19,**Dex**23,**Con**16,**Int**4,**Wis**17,**Cha** 6
-**Base Atk**+10;**CMB**+14;**CMD** +30 (+34 vs. trip)
+**Str** 19, **Dex** 23, **Con** 16, **Int** 4, **Wis** 17, **Cha** 6
+**Base Atk** +10; **CMB** +14; **CMD** +30 (+34 vs. trip)
 **Feats** Combat Reflexes, Improved Initiative, Power Attack, Vital Strike, Weapon Finesse
 **Skills** Acrobatics +19, Climb +12, Perception +16, Stealth +19
 **SQ** predator
 
 **Special Abilities**
 **Massive Bite (Ex):** A serpopard’s vice-like jaw can crush through bone. A serpopard’s bite is two sizes larger.
-**Hemorrhaging Poison (Ex):** Bite – injury;**save**Fort DC 18;**frequency**1/round for 3 rounds;**effect** bleed effects on the poisoned creature do not end unless they receive at least 10 points of healing or a DC 25 Heal check is made, this otherwise functions as the Duelist sphere Long Cuts talent with an effective base attack bonus equal to the serpopard’s Hit Dice; cure 1 save.
+**Hemorrhaging Poison (Ex):** Bite – injury; **save** Fort DC 18; **frequency** 1/round for 3 rounds; **effect** bleed effects on the poisoned creature do not end unless they receive at least 10 points of healing or a DC 25 Heal check is made, this otherwise functions as the Duelist sphere Long Cuts talent with an effective base attack bonus equal to the serpopard’s Hit Dice; cure 1 save.
 **Predator (Ex):** Serpopard possesses above-average intelligence and above average hereditary instinct. The serpopard gains one free rank in Acrobatics and Stealth for each Hit Dice it possesses.
 
 **Ecology**
@@ -1358,21 +1358,21 @@ It is rare for serpopards to be tamed, as they are somewhat cold and emotionless
 The sound of scrabbling claws against stone follow this massive reptile’s darting movements.
 XP 6,400
 N Large magical beast
-**Init**+3;**Senses**darkvision 60 ft., low-light vision, scent, tremorsense 30 ft.;**Perception** +16
+**Init** +3; **Senses** darkvision 60 ft., low-light vision, scent, tremorsense 30 ft.; **Perception** +16
 
 **Defense**
-**AC**23,**touch**13,**flat-footed** 20 (+3 Dex, +1 dodge, +10 natural, -1 size)
+**AC** 23, **touch** 13, **flat-footed** 20 (+3 Dex, +1 dodge, +10 natural, -1 size)
 **hp** 108 (12d10+48)
-**Fort**+12,**Ref**+11,**Will** +5
+**Fort** +12, **Ref** +11, **Will** +5
 
 **Offense**
 **Speed** 50 ft., climb 30 ft.
 **Melee** Bite +17 (2d6+9/19-20/x3 plus trip)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 
 **Might**
-**Martial Tradition**Agile Predator (Athletics x2, Scout x2);**PAM** Wis
-**Athletics Sphere**–**Packages**climb, leap, run;**Talents** Expanded Training, Mighty Conditioning, Mobile Striker, Multiple Motion, Skillful Charge, Whirlwind Flip; (motion) Dizzying Tumble, Knockdown Tumble, Moving Target
+**Martial Tradition** Agile Predator (Athletics x2, Scout x2); **PAM** Wis
+**Athletics Sphere** – **Packages** climb, leap, run; **Talents** Expanded Training, Mighty Conditioning, Mobile Striker, Multiple Motion, Skillful Charge, Whirlwind Flip; (motion) Dizzying Tumble, Knockdown Tumble, Moving Target
 • Mobile Striker; full-round action, can move, attack action, and move
 • Skillful Charge; can make an attack action at the end of a charge
 • Whirlwind Flip; regain martial focus on a successful Acrobatics check to move through threatened area
@@ -1382,17 +1382,17 @@ N Large magical beast
 ◊ Moving Target (motion); gain 20% miss chance against ranged attacks, or expend martial focus after moving more than 20 ft. for 50% miss chance
 ◊ Multiple Motion; can expend martial focus to apply two (motion) talents
 
-**Scout Sphere**–**Talents** Find Gap, Lurker, Reflexive Stealth
+**Scout Sphere** – **Talents** Find Gap, Lurker, Reflexive Stealth
 • Lurker; can stealth against special senses (ex. blindsense, tremorsense)
 • Reflexive Stealth; can stealth after succeeding on Ref save against area of effect
 • scout (swift action; Perception check -5 vs. target to gain weaknesses)
 ◊ Find Gap; treat scouted target’s AC as 4 lower for 6 rounds
 
 **Statistics**
-**Str**23,**Dex**16,**Con**18,**Int**7,**Wis**12,**Cha** 16
-**Base Atk**+12;**CMB**+19;**CMD** +33 (+37 vs. trip)
+**Str** 23, **Dex** 16, **Con** 18, **Int** 7, **Wis** 12, **Cha** 16
+**Base Atk** +12; **CMB** +19; **CMD** +33 (+37 vs. trip)
 **Feats** Dodge, Great Focus, Improved Natural Attack (bite), Improved Vital Strike, Skill Focus (Acrobatics), Skill Focus (Stealth), Vital Strike
-**Skills**Acrobatics +36, Climb +32, Perception +16, Stealth +20;**Racial Modifiers** +8 Climb
+**Skills** Acrobatics +36, Climb +32, Perception +16, Stealth +20; **Racial Modifiers** +8 Climb
 **SQ** hunter
 
 **Special Abilities**
@@ -1422,18 +1422,18 @@ Some tremorlizards have undergone extreme changes when their underground habitat
 
 The festerbreath newt is a misnomer. Baby festerbreath newts will congregate near the mouth of the sinkhole their mother claims as their territory. Those child lizards were first spotted and mistaken for a regular-sized adult newt and the name stuck. Carrion feeders by nature, the festerbreath newt will make their territory sinkholes and caverns near graveyards or biodiverse areas with large predator populations and feed on marrow and rotting flesh.
 
-An festerbreath newt is a variant tremorlizard which exchanges talents (Athletics (Multiple Motion, Skillful Charge, Dizzying Tumble)), feats (Vital Strike, Improved Vital Strike), and the bite attack trip universal monster ability for the following: **Immune**death effects, negative energy,**Special Attacks** breath weapon (60-ft. cone, festerbreath, DC 20 Ref to negate, useable every 1d4 rounds)
+An festerbreath newt is a variant tremorlizard which exchanges talents (Athletics (Multiple Motion, Skillful Charge, Dizzying Tumble)), feats (Vital Strike, Improved Vital Strike), and the bite attack trip universal monster ability for the following: **Immune** death effects, negative energy, **Special Attacks** breath weapon (60-ft. cone, festerbreath, DC 20 Ref to negate, useable every 1d4 rounds)
 
 **Sphere-Like Abilities** (CL 9; MSB +9; MSD +20; concentration +12; CAM Cha)
 **At will:**
-**Death Sphere**–**Talents** Cryptic Strike; (ghost strike) Vampiric Strike, Weakening
+**Death Sphere** – **Talents** Cryptic Strike; (ghost strike) Vampiric Strike, Weakening
 • ghost strike, medium range touch (190 ft.), DC 18; apply the effects of one (ghost strike)
 ◊ Cryptic Strike; can use ghost strike ability as part of an attack (or attack action with Spell Strike feat)
 ◊ Exhausting Strike (ghost strike); fatigued for 9 rounds or exhausted for 9 minutes, Fort negates. On a successful save the target is still fatigued for 1 round.
 ◊ Vampiric Strike (ghost strike); deal 4d6 points of damage and gain as temporary hit points, if used as an AoE, cannot gain more than 27 temporary hit points
 ◊ Weakening (ghost strike); inflict 1d4+4 Strength or Dexterity penalty for 1 round per level, Fort for half
 **1/day:**
-**Death Sphere**–**Talents** Mass Reanimate, Ranged Death
+**Death Sphere** – **Talents** Mass Reanimate, Ranged Death
 • reanimate, close range (45 ft.); reanimate up to 18 Hit Dice in undead for 9 minutes
 **Feats** Spell Attack, Sphere Focus (Death)
 
@@ -1453,7 +1453,7 @@ A frostjaw snapper is a variant tremorlizard which exchanges talents (Scout (all
 
 **Sphere-Like Abilities** (CL 9; MSB +9; MSD 20; concentration +12 [+16 casting defensively]; CAM Cha)
 **At will:**
-**Destruction Sphere**–**Talents** (blast shape) Energy Aura, Energy Strike, Sculpt Blast; (blast type) Frost Blast
+**Destruction Sphere** – **Talents** (blast shape) Energy Aura, Energy Strike, Sculpt Blast; (blast type) Frost Blast
 • destructive blast, close range ray (45 ft.), 5d6 damage, DC 18; use with (blast shape), inflict a (blast type); **Special** A frostjaw snapper cannot increase the damage dealt by its sphere-like abilities by spending an additional spell point
 ◊ (blast shape)
 • Energy Aura (blast shape); 10-ft. radius, 5 cold damage, 3 rounds; Ref negates
@@ -1479,14 +1479,14 @@ A frostjaw snapper is a variant tremorlizard which exchanges talents (Scout (all
 This magnificent horse features a singular horn on its head which gleams with a shine of divinity.
 XP 1,200
 CG Large magical beast
-**Init**+3;**Senses**darkvision 60 ft., low-light vision, scent;**Perception** +12
+**Init** +3; **Senses** darkvision 60 ft., low-light vision, scent; **Perception** +12
 **Aura** fateful conduit (30-ft.)
 
 **Defense**
-**AC**15,**touch**12,**flat-footed** 12 (+3 Dex, +3 natural, -1 size) (+2 sacred vs. opposed alignments)
+**AC** 15, **touch** 12, **flat-footed** 12 (+3 Dex, +3 natural, -1 size) (+2 sacred vs. opposed alignments)
 **hp** 40 (5d10+15)
-**Fort**+7,**Ref**+7,**Will** +5; +2 sacred vs. opposed alignments
-**Immune**charm, compulsion, poison;**SR** 16
+**Fort** +7, **Ref** +7, **Will** +5; +2 sacred vs. opposed alignments
+**Immune** charm, compulsion, poison; **SR** 16
 
 **Offense**
 **Speed** 60 ft.
@@ -1496,7 +1496,7 @@ CG Large magical beast
 
 **Sphere-Like Abilities** (CL 4; MSB +4; MSD +15; concentration +10; CAM Cha)
 **3/day:**
-**Life Sphere**–**Talents** (cure) Restore Body
+**Life Sphere** – **Talents** (cure) Restore Body
 
 - cure, touch, DC 18; 1d8+8
 - invigorate, touch, DC 18; grant 4 temp hp, lasts for 1 hour
@@ -1504,8 +1504,8 @@ CG Large magical beast
   - Restore Health (cure); when restoring body, completely remove exhausted and nauseated; can attempt magic skill check to remove poison or disease
 
 **Statistics**
-**Str**18,**Dex**17,**Con**16,**Int**15,**Wis**19,**Cha** 23
-**Base Atk**+5;**CMB**+10;**CMD** +23 (+27 vs. trip)
+**Str** 18, **Dex** 17, **Con** 16, **Int** 15, **Wis** 19, **Cha** 23
+**Base Atk** +5; **CMB** +10; **CMD** +23 (+27 vs. trip)
 **Feats** Improved Natural Attack (gore), Iron Will, Run
 **Skills** Acrobatics +11, Knowledge (nature) +7, Perception +12, Survival +9
 **Languages** Common, Sylvan
@@ -1579,8 +1579,8 @@ GMs should be encouraged to homebrew their own similar items, taking an iconic p
 
 #### Adamantortoise-Shell Earring
 
-**Aura**faint Enhancement;**CL** 5th
-**Slot**none;**Price**4,500 gp;**Weight** 0 lb.
+**Aura** faint Enhancement; **CL** 5th
+**Slot** none; **Price** 4,500 gp; **Weight** 0 lb.
 
 **Description**
 This singular earring is fashioned from the shell of an adamantortoise, harvested from an ancient adamantortoise laid to rest or one poached by less peaceful means. The wearer of this earring gains DR 1/adamantine, which stacks with other sources of damage reduction the wearer may possess.
@@ -1592,7 +1592,7 @@ Craft Marvelous Item, Enhancement (Harden/Weaken (enhance)); Cost 2,250 gp
 
 #### Festerbreath Canister
 
-**Price**300 gp;**Weight** 1 lbs.
+**Price** 300 gp; **Weight** 1 lbs.
 **Category** Alchemical Weapons
 
 By either synthesizing or harvesting the endocrine excretions of a festerbreath newt, this canister is able to briefly mimic the creature’s breath weapon as a rapidly dispersed aerosol. The festerbreath canister can be primed as a move action; the canister releases its substances immediately after being thrown or 1 round after being dropped or unattended while primed. When the canister activates, the canister releases a brief wave of transparent gas in a 10-foot radius from the point of impact, causing each creature to be aff ected by a diluted festerbreath newt’s breath weapon (see below). The canister can be thrown as though it were a splash weapon with a range increment of 20 feet.
@@ -1603,7 +1603,7 @@ Craft (alchemy) DC 25
 
 #### Lava Toad Ointment
 
-**Price**150 gp;**Weight** 1 lbs.
+**Price** 150 gp; **Weight** 1 lbs.
 **Category** Alchemical Remedies
 
 This thick, syrup-like gel is made from the heat treated oils found on a lava toad’s skin. One container of this ointment contains three applications.
@@ -1638,73 +1638,73 @@ The following creatures can be selected as an improved animal companion. The imp
 
 **Prerequisite:** Survival 5 ranks or Swim 5 ranks.
 
-**Starting Statistics:** **Size**Medium;**Speed**20 ft.;**AC**+7 natural armor;**Attack**bite (1d6);**Ability Scores**Str 15, Dex 11, Con 17, Int 6, Wis 13, Cha 10;**Defensive Abilities**DR 5/adamantine;**Special Abilities**Shielding Shell (Ex): An adamantortoise gains a shield bonus to their AC equal to 1/2 their natural armor bonus. The adamantortoise treats its shell as though it were a shield and may use its shell for the Shield sphere. The adamantortoise does not lose its shield bonus to AC when making an attack with its shell, and can make shield bash attacks with its shell as if it were a light shield (1d4 Medium);**Special Qualities** darkvision 60 ft., low-light vision.
+**Starting Statistics:** **Size** Medium; **Speed** 20 ft.; **AC** +7 natural armor; **Attack** bite (1d6); **Ability Scores** Str 15, Dex 11, Con 17, Int 6, Wis 13, Cha 10; **Defensive Abilities** DR 5/adamantine; **Special Abilities** Shielding Shell (Ex): An adamantortoise gains a shield bonus to their AC equal to 1/2 their natural armor bonus. The adamantortoise treats its shell as though it were a shield and may use its shell for the Shield sphere. The adamantortoise does not lose its shield bonus to AC when making an attack with its shell, and can make shield bash attacks with its shell as if it were a light shield (1d4 Medium); **Special Qualities** darkvision 60 ft., low-light vision.
 
-**9th-Level Advancement:** **Size**Large;**AC**+5 natural armor;**Attack**bite (1d8), shell (1d6);**Ability Scores**+2 Str, +2 Con;**Feats** Extra Combat Talent for the Shield sphere.
+**9th-Level Advancement:** **Size** Large; **AC** +5 natural armor; **Attack** bite (1d8), shell (1d6); **Ability Scores** +2 Str, +2 Con; **Feats** Extra Combat Talent for the Shield sphere.
 
 **Mastery (11th-level):** **Variant** The adamantortoise gains one of the following variants:
 
-- **Adamantortoise, Greater:** **Ability Scores**+2 Str, +2 Con;**Defensive Abilities**DR 10/adamantine;**Feats** Extra Combat Talent (2) for the Shield sphere.
-- **Mystic-Shell Tortoise:** **Alignment**lawful neutral;**Ability Scores**+4 Cha;**Special Abilities**Mystic Defenses (Su): The mystic-shell tortoise can spend 10 minutes to cast an aegis on itself, reducing the spell point cost by 1 (minimum 0);**Special** the mystic-shell tortoise is considered to possess the casting class feature with no casting tradition (natural casting) and uses Charisma as its casting ability modifier. The mystic-shell tortoise gains a spell pool equal to 1/2 its Hit Dice + its Charisma modifier and is considered a Low-Caster with a caster level equal to 1/2 its Hit Dice. Instead of the 2 bonus magic talents most casters gain, the mystic-shell tortoise gains 2 bonus magic talents for the Protection sphere, and may select magic talents with its feats.
+- **Adamantortoise, Greater:** **Ability Scores** +2 Str, +2 Con; **Defensive Abilities** DR 10/adamantine; **Feats** Extra Combat Talent (2) for the Shield sphere.
+- **Mystic-Shell Tortoise:** **Alignment** lawful neutral; **Ability Scores** +4 Cha; **Special Abilities** Mystic Defenses (Su): The mystic-shell tortoise can spend 10 minutes to cast an aegis on itself, reducing the spell point cost by 1 (minimum 0); **Special** the mystic-shell tortoise is considered to possess the casting class feature with no casting tradition (natural casting) and uses Charisma as its casting ability modifier. The mystic-shell tortoise gains a spell pool equal to 1/2 its Hit Dice + its Charisma modifier and is considered a Low-Caster with a caster level equal to 1/2 its Hit Dice. Instead of the 2 bonus magic talents most casters gain, the mystic-shell tortoise gains 2 bonus magic talents for the Protection sphere, and may select magic talents with its feats.
 
 ### Behir (spheres)
 
 **Prerequisites:** Diplomacy or Intimidate 7 ranks; Knowledge (arcana) 7 ranks.
 
-**Starting Statistics:** **Size**Medium;**Speed**40 ft., climb 20 ft.;**AC**+6 natural armor; Attack bite (1d6), tail slap (1d6);**Ability Scores**Str 15, Dex 12, Con 16, Int 11, Wis 13, Cha 12;**Special Attacks**breath weapon (30-ft. line, 1d6 electricity damage per 2 Hit Dice, Ref half, usable every 1d4 rounds);**Special Qualities** darkvision 60 ft., low-light vision, electricity resistance 10.
+**Starting Statistics:** **Size** Medium; **Speed** 40 ft., climb 20 ft.; **AC** +6 natural armor; Attack bite (1d6), tail slap (1d6); **Ability Scores** Str 15, Dex 12, Con 16, Int 11, Wis 13, Cha 12; **Special Attacks** breath weapon (30-ft. line, 1d6 electricity damage per 2 Hit Dice, Ref half, usable every 1d4 rounds); **Special Qualities** darkvision 60 ft., low-light vision, electricity resistance 10.
 
-**Mastery (11th-level):** **Size**Large;**AC**+3 natural armor;**Attack**bite (1d8), tail slap (1d8);**Ability Scores**+4 Str, -2 Dex, +2 Con;**Special Qualities**immune to electricity.** Variant** In addition to the changes granted as part of the behir’s mastery, the behir gains one of the following variants:
+**Mastery (11th-level):** **Size** Large; **AC** +3 natural armor; **Attack** bite (1d8), tail slap (1d8); **Ability Scores** +4 Str, -2 Dex, +2 Con; **Special Qualities** immune to electricity. **Variant** In addition to the changes granted as part of the behir’s mastery, the behir gains one of the following variants:
 
-- **Brutal Behir:** **Attack**tail slap (1d8 and push);**Special Qualities**tremorsense 60 ft.;**Feats**Extra Combat Talent (3) for the Brute sphere;**Special** the brutal behir’s tail slap is treated as a primary natural attack for all purposes.
-- **Royal Behir:** Attack 2 claws (1d6);**Special**The royal behir’s creature type changes to dragon (augmented magical beast); do not recalculate the royal behir’s statistics except as follows:** Hit Dice**the royal behir’s Hit Dice changes to d12;**Base Attack Bonus**the royal behir’s base attack bonus becomes equal to its Hit Dice;**Saves**the royal behir has a good Will save (equal to its base Fortitude and Reflex saves);**Defensive Abilities** immune to magic sleep effects and paralysis, as per the immunities granted by the dragon type.
+- **Brutal Behir:** **Attack** tail slap (1d8 and push); **Special Qualities** tremorsense 60 ft.; **Feats** Extra Combat Talent (3) for the Brute sphere; **Special** the brutal behir’s tail slap is treated as a primary natural attack for all purposes.
+- **Royal Behir:** Attack 2 claws (1d6); **Special** The royal behir’s creature type changes to dragon (augmented magical beast); do not recalculate the royal behir’s statistics except as follows: **Hit Dice** the royal behir’s Hit Dice changes to d12; **Base Attack Bonus** the royal behir’s base attack bonus becomes equal to its Hit Dice; **Saves** the royal behir has a good Will save (equal to its base Fortitude and Reflex saves); **Defensive Abilities** immune to magic sleep effects and paralysis, as per the immunities granted by the dragon type.
 
 ### Owlbear
 
-**Starting Statistics:** **Size**Medium;**Speed**30 ft., climb 10 ft.;**AC**+4 natural armor;**Attack**bite (1d6), 2 claws (1d6 plus grab);**Ability Scores**Str 17, Dex 13, Con 15, Int 2, Wis 15, Cha 6;**Feats**Extra Combat Talent (2) for the Wrestling sphere;**Special Qualities** darkvision 60 ft., low-light vision.
+**Starting Statistics:** **Size** Medium; **Speed** 30 ft., climb 10 ft.; **AC** +4 natural armor; **Attack** bite (1d6), 2 claws (1d6 plus grab); **Ability Scores** Str 17, Dex 13, Con 15, Int 2, Wis 15, Cha 6; **Feats** Extra Combat Talent (2) for the Wrestling sphere; **Special Qualities** darkvision 60 ft., low-light vision.
 
-**9th-Level Advancement:** **Size**Large;**AC**+2 natural armor;**Ability Scores**+4 Str, +2 Con;**Special Abilities** Wide Claws (Ex): The owlbear does not gain the grappled condition if it grapples a foe using its claws.
+**9th-Level Advancement:** **Size** Large; **AC** +2 natural armor; **Ability Scores** +4 Str, +2 Con; **Special Abilities** Wide Claws (Ex): The owlbear does not gain the grappled condition if it grapples a foe using its claws.
 
-**Mastery (11th-level):** **Feats**Extra Combat Talent for the Wrestling sphere;**Variants** The owlbear gains one of the following variants:
+**Mastery (11th-level):** **Feats** Extra Combat Talent for the Wrestling sphere; **Variants** The owlbear gains one of the following variants:
 
 - **Catchclaw Owlbear:** **Attacks** The catchclaw owlbear’s natural reach with its claws increases by +5 ft. (to 15 ft.).
-- **Spirit-Eyed Owlbear:** **Special Abilities**Spiritsense (Su): The spirit-eyed owlbear notices, locates, and can distinguish between living and undead creatures within 60 ft., as though it had the blindsight ability;**Special Qualities** immune to death and negative energy effects.
+- **Spirit-Eyed Owlbear:** **Special Abilities** Spiritsense (Su): The spirit-eyed owlbear notices, locates, and can distinguish between living and undead creatures within 60 ft., as though it had the blindsight ability; **Special Qualities** immune to death and negative energy effects.
 
 ### Phoenix
 
 **Prerequisites:** Diplomacy 5 ranks; Knowledge (arcana) or Knowledge (religion) 5 ranks.
 
-**Starting Statistics:** **Size**Small;**Speed**10 ft., fly 40 ft. (good);**AC**+3 natural armor;**Attack**bite (1d4), 2 wings (1d4);**Ability Scores**Str 11, Dex 17, Con 13, Int 8, Wis 13, Cha 16;**Special Qualities**darkvision 60 ft., low-light vision, fire resistance 10;**Special** The phoenix is considered to possess the casting class feature with no casting tradition (natural casting) and uses Charisma as its casting ability modifier. The phoenix gains a spell pool equal to 1/2 its Hit Dice + its Charisma modifier and is considered a Low-Caster with a caster level equal to 1/2 its Hit Dice. Instead of the 2 bonus magic talents most casters gain, the phoenix gains 2 bonus magic talents for the Nature sphere and may select magic talents with its feats. The phoenix must choose the Nature sphere (fire) package with one of the bonus magic talents gained this way.
+**Starting Statistics:** **Size** Small; **Speed** 10 ft., fly 40 ft. (good); **AC** +3 natural armor; **Attack** bite (1d4), 2 wings (1d4); **Ability Scores** Str 11, Dex 17, Con 13, Int 8, Wis 13, Cha 16; **Special Qualities** darkvision 60 ft., low-light vision, fire resistance 10; **Special** The phoenix is considered to possess the casting class feature with no casting tradition (natural casting) and uses Charisma as its casting ability modifier. The phoenix gains a spell pool equal to 1/2 its Hit Dice + its Charisma modifier and is considered a Low-Caster with a caster level equal to 1/2 its Hit Dice. Instead of the 2 bonus magic talents most casters gain, the phoenix gains 2 bonus magic talents for the Nature sphere and may select magic talents with its feats. The phoenix must choose the Nature sphere (fire) package with one of the bonus magic talents gained this way.
 
-**9th-Level Advancement:** AC +1 natural armor; Speed fly 60 ft. (good);**Variants** The phoenix gains one of the following variants:
+**9th-Level Advancement:** AC +1 natural armor; Speed fly 60 ft. (good); **Variants** The phoenix gains one of the following variants:
 
-- **Blessed Flame:** **Ability Scores**+2 Dex, +4 Int, +2 Cha;**Feats**Extra Magic Talent for the Nature sphere;**Special Abilities** Glorious Flames (Su): When casting any sphere effect that deals fire damage, a blessed flame may instead heal any affected targets. The sphere effect deals no damage and living creatures affected by the sphere effect instead gain a number of hit points equal to 1/2 the fire damage the sphere effect would normally deal. This healing cannot restore a creature’s hit points above half their normal maximum; any healing in excess of half their normal maximum hit points are instead gained as temporary hit points, lasting 1 minute.
-- **Skyfire Avenger:** **Size**Large;**AC**+3 natural armor;**Attack**bite (1d8), 2 wings (1d8);**Ability Scores** +8 Str, +2 Con; Special the skyfire avenger can carry a rider while flying, but reduces its fly speed by half while doing so.
+- **Blessed Flame:** **Ability Scores** +2 Dex, +4 Int, +2 Cha; **Feats** Extra Magic Talent for the Nature sphere; **Special Abilities** Glorious Flames (Su): When casting any sphere effect that deals fire damage, a blessed flame may instead heal any affected targets. The sphere effect deals no damage and living creatures affected by the sphere effect instead gain a number of hit points equal to 1/2 the fire damage the sphere effect would normally deal. This healing cannot restore a creature’s hit points above half their normal maximum; any healing in excess of half their normal maximum hit points are instead gained as temporary hit points, lasting 1 minute.
+- **Skyfire Avenger:** **Size** Large; **AC** +3 natural armor; **Attack** bite (1d8), 2 wings (1d8); **Ability Scores** +8 Str, +2 Con; Special the skyfire avenger can carry a rider while flying, but reduces its fly speed by half while doing so.
 
-**Mastery (11th-level):** The phoenix gains the Nature sphere Phoenix Resurgence advanced talent as a bonus magic talent, even if it does not have any of the prerequisites normally required for this talent. The phoenix may use the Phoenix Resurgence talent once per day without spending spell points;**Feats**Extra Magic Talent (x2) for the Nature sphere;**Special Qualities** fire resistance 20.
+**Mastery (11th-level):** The phoenix gains the Nature sphere Phoenix Resurgence advanced talent as a bonus magic talent, even if it does not have any of the prerequisites normally required for this talent. The phoenix may use the Phoenix Resurgence talent once per day without spending spell points; **Feats** Extra Magic Talent (x2) for the Nature sphere; **Special Qualities** fire resistance 20.
 
 ### Serpopard
 
 **Prerequisite:** Acrobatics 5 ranks or Survival 5 ranks.
 
-**Starting Statistics:** **Size**Medium;**Speed**40 ft.;**AC**+4 natural armor;**Attack**bite (1d6), 2 claws (1d6);**Ability Scores**Str 15, Dex 18, Con 14, Int 4, Wis 15, Cha 6;**Feats** Extra Combat Talent (2) for the Lancer sphere; Special Qualities darkvision 60 ft., low-light vision.
+**Starting Statistics:** **Size** Medium; **Speed** 40 ft.; **AC** +4 natural armor; **Attack** bite (1d6), 2 claws (1d6); **Ability Scores** Str 15, Dex 18, Con 14, Int 4, Wis 15, Cha 6; **Feats** Extra Combat Talent (2) for the Lancer sphere; Special Qualities darkvision 60 ft., low-light vision.
 
-**9th-Level Advancement:** Speed 50 ft., climb 30 ft.;**AC**+1 natural armor;**Attack**bite (2d6);**Ability Scores**+2 Str, +4 Dex;**Special Abilities** Predator (Ex): The serpopard gains one free rank in Acrobatics and Stealth for each Hit Dice it possesses.
+**9th-Level Advancement:** Speed 50 ft., climb 30 ft.; **AC** +1 natural armor; **Attack** bite (2d6); **Ability Scores** +2 Str, +4 Dex; **Special Abilities** Predator (Ex): The serpopard gains one free rank in Acrobatics and Stealth for each Hit Dice it possesses.
 
-**Mastery (11th-level):** **Attack**bite (2d6 plus hemorrhaging poison);**Feats**Extra Combat Talent for the Lancer sphere;**Special Attacks**hemorrhaging poison (frequency 1 round [3];**effect** Duelist sphere Long Cuts [bleed damage cannot be cured unless sufficient healing or Heal check]; cure 1 save, Con-based DC).
+**Mastery (11th-level):** **Attack** bite (2d6 plus hemorrhaging poison); **Feats** Extra Combat Talent for the Lancer sphere; **Special Attacks** hemorrhaging poison (frequency 1 round [3]; **effect** Duelist sphere Long Cuts [bleed damage cannot be cured unless sufficient healing or Heal check]; cure 1 save, Con-based DC).
 
 ### Unicorn
 
 **Prerequisite:** Heal 5 ranks or Knowledge (nature) 5 ranks.
 
-**Starting Statistics:** **Alignment**choose one alignment (good, evil, lawful, chaotic). The unicorn’s alignment must be of that alignment (such as choosing good, the unicorn must be lawful good, neutral good, or chaotic good);**Size**Large;**Speed**50 ft.;**AC**+3 natural armor;**Attack**gore (1d6), 2 hooves (1d6);**Ability Scores** Str 15, Dex 14, Con 15, Int 10, Wis 13, Cha 15;
+**Starting Statistics:** **Alignment** choose one alignment (good, evil, lawful, chaotic). The unicorn’s alignment must be of that alignment (such as choosing good, the unicorn must be lawful good, neutral good, or chaotic good); **Size** Large; **Speed** 50 ft.; **AC** +3 natural armor; **Attack** gore (1d6), 2 hooves (1d6); **Ability Scores** Str 15, Dex 14, Con 15, Int 10, Wis 13, Cha 15;
 
-**Special Qualities**darkvision 60 ft., low-light vision, scent.** 7th-Level Advancement:**Speed 60 ft.;**Attacks**gore (2d6);**Variants** the unicorn gains one of the following variants:
+**Special Qualities** darkvision 60 ft., low-light vision, scent. **7th-Level Advancement:** Speed 60 ft.; **Attacks** gore (2d6); **Variants** the unicorn gains one of the following variants:
 
-- **Anemoi Pegasus:** Speed 60 ft. fly (good);**Special** the pegasus can carry a rider while flying, but reduces its fly speed by half while doing so.
+- **Anemoi Pegasus:** Speed 60 ft. fly (good); **Special** the pegasus can carry a rider while flying, but reduces its fly speed by half while doing so.
 - **Life Guardian:** **Special Abilities** Life Guardian (Su): Whenever an ally within 30 feet of the life guardian receives magical healing, the amount of healing received is increased by the life guardian’s Charisma modifier (minimum 1).
-- **Royal Hippocampus:** Speed 60 ft. swim;**Special Abilities**Undersea Guide (Su): Any friendly creature in physical contact with a hippocampus can breathe underwater normally (such as while mounted);**Special Qualities** aquatic.
+- **Royal Hippocampus:** Speed 60 ft. swim; **Special Abilities** Undersea Guide (Su): Any friendly creature in physical contact with a hippocampus can breathe underwater normally (such as while mounted); **Special Qualities** aquatic.
 
-**Mastery (11th-level):** **Ability Scores**+2 Cha;**Special Attacks**the unicorn’s natural attacks are treated as magic and aligned weapons (with alignments matching the unicorn’s alignment) for the purposes of damage reduction;**Special Qualities**immune to poison;**Special** The unicorn is considered to possess the casting class feature with no casting tradition (natural casting) and uses Charisma as its casting ability modifier. The unicorn gains a spell pool equal to 1/2 its Hit Dice + its Charisma modifier and is considered a Low-Caster with a caster level equal to 1/2 its Hit Dice. Instead of the 2 bonus magic talents most casters gain, the unicorn gains 2 bonus magic talents for the Life sphere, and may select magic talents with its feats.
+**Mastery (11th-level):** **Ability Scores** +2 Cha; **Special Attacks** the unicorn’s natural attacks are treated as magic and aligned weapons (with alignments matching the unicorn’s alignment) for the purposes of damage reduction; **Special Qualities** immune to poison; **Special** The unicorn is considered to possess the casting class feature with no casting tradition (natural casting) and uses Charisma as its casting ability modifier. The unicorn gains a spell pool equal to 1/2 its Hit Dice + its Charisma modifier and is considered a Low-Caster with a caster level equal to 1/2 its Hit Dice. Instead of the 2 bonus magic talents most casters gain, the unicorn gains 2 bonus magic talents for the Life sphere, and may select magic talents with its feats.
 
 ---
 
@@ -1724,7 +1724,7 @@ Your companion holds qualities similar to the great outsiders which champion the
 
 **Template:** The companion gains one template chosen between celestial, entropic, fiendish, resolute (Pathfinder RPG Bestiary), and counterpoised (Champions of Balance).
 
-**Template Adjustments:** **Alignment**The companion’s alignment shifts to the template’s thematic alignment;**Ability Scores** If the companion’s base Intelligence is less than 3, it increases to 3. If the companion’s base Charisma is less than 11, it increases to 11.
+**Template Adjustments:** **Alignment** The companion’s alignment shifts to the template’s thematic alignment; **Ability Scores** If the companion’s base Intelligence is less than 3, it increases to 3. If the companion’s base Charisma is less than 11, it increases to 11.
 
 **Mastery (11th level):** **Ability Scores** Str +2, Cha +2.
 
@@ -1750,7 +1750,7 @@ Your companion’s form shifts hues of gray, purple, and black, its power drawn 
 
 **Template Adjustments:** **Special Abilities** Shadow Blend (Su): In any condition of illumination other than bright light, the companion gains concealment (20% miss chance). The companion can suppress or resume this ability as a free action.
 
-**Mastery (11th level):** **Ability Scores**Dex +2; If the companion’s base Intelligence is less than 3, it increases to 3;**Skills** The companion gains a +4 racial bonus on Stealth checks.
+**Mastery (11th level):** **Ability Scores** Dex +2; If the companion’s base Intelligence is less than 3, it increases to 3; **Skills** The companion gains a +4 racial bonus on Stealth checks.
 
 #### Elemental
 
@@ -1772,9 +1772,9 @@ Your companion has ties to the faerie, whether cursed, gifted, or by chance.
 
 **Template:** The companion gains the fey-touched creature template (Heroes from the Fringe), but does not gain the change shape special quality.
 
-**Template Adjustments:** **Ability Scores**If the companion’s base Intelligence is less than 6, it is increased to 6; if the companion’s base Charisma is less than 11, it increases to 11.** Feats**The companion gains Transformation as a bonus feat and must choose Anthropomorphic Transformation (transformation) as its (transformation) talent;**Special** If the companion does not know a language, it gains one language its master can speak while transformed.
+**Template Adjustments:** **Ability Scores** If the companion’s base Intelligence is less than 6, it is increased to 6; if the companion’s base Charisma is less than 11, it increases to 11. **Feats** The companion gains Transformation as a bonus feat and must choose Anthropomorphic Transformation (transformation) as its (transformation) talent; **Special** If the companion does not know a language, it gains one language its master can speak while transformed.
 
-**Mastery (11th level):** **Ability Scores**Cha +4;**Special** The companion gains Bluff and Stealth as class skills and is treated as having the fey creature type in addition to its original creature type whenever it would be advantageous (such as being treated as a fey creature for the Fallen Fey sphere).
+**Mastery (11th level):** **Ability Scores** Cha +4; **Special** The companion gains Bluff and Stealth as class skills and is treated as having the fey creature type in addition to its original creature type whenever it would be advantageous (such as being treated as a fey creature for the Fallen Fey sphere).
 
 #### Giant
 
@@ -1798,7 +1798,7 @@ Your companion is not alone in its own mind as a spirit or long-passed personali
 
 **Template Adjustments:** **Special** Whenever the spirit possesses the companion, it remains in control for 10 minutes. In addition, choose any one language the companion’s master can speak. While the spirit is possessing the companion, the companion can speak and understand that language.
 
-**Mastery (11th level):** **Ability Scores**+2 Con;**Special** Spectral Prowess (Su): While the spirit is possessing the companion, the companion’s natural attacks gain the ghost touch special weapon ability and deal an additional 1d10 damage against creatures with the undead type or incorporeal subtype. In addition, once per day as a free action, the companion can choose to become possessed by the spirit.
+**Mastery (11th level):** **Ability Scores** +2 Con; **Special** Spectral Prowess (Su): While the spirit is possessing the companion, the companion’s natural attacks gain the ghost touch special weapon ability and deal an additional 1d10 damage against creatures with the undead type or incorporeal subtype. In addition, once per day as a free action, the companion can choose to become possessed by the spirit.
 
 #### Primordial
 
@@ -1808,9 +1808,9 @@ Your companion’s form is an echo of the past, drawing great strength from anci
 
 **Template:** The companion gains the primordial template (Monster Summoner’s Handbook), but does not gain the spell-like abilities.
 
-**Template Adjustments:** **Ability Scores**+2 to the companion’s casting ability modifier;**Feats** Advanced Magic Training, Basic Magic Training; the companion must select its primordial sphere with the talent gained from this feat. If the companion already possesses Basic Magic Training, the companion instead gains Extra Magic Talent, selecting a magic talent from its primordial sphere.
+**Template Adjustments:** **Ability Scores** +2 to the companion’s casting ability modifier; **Feats** Advanced Magic Training, Basic Magic Training; the companion must select its primordial sphere with the talent gained from this feat. If the companion already possesses Basic Magic Training, the companion instead gains Extra Magic Talent, selecting a magic talent from its primordial sphere.
 
-**Mastery (11th level):** **Ability Scores**+2 to the companion’s casting ability modifier;**Feats** Extra Magic Talent, selecting a magic talent from the companion’s primordial sphere.
+**Mastery (11th level):** **Ability Scores** +2 to the companion’s casting ability modifier; **Feats** Extra Magic Talent, selecting a magic talent from the companion’s primordial sphere.
 
 ## Appendix 1: Monsters By CR
 

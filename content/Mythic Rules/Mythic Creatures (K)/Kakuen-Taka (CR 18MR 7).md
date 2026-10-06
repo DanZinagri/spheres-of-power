@@ -10,28 +10,28 @@ parent: "[[Mythic Creatures (K)]]"
 **Mythic Kakuen-Taka CR 18/MR 7**
 XP 153,600
 CE Huge outsider (chaotic, evil, extraplanar, mythic, swarm)
-**Init**+17MF;**Senses** darkvision 60 ft.; Perception +31
+**Init** +17MF; **Senses** darkvision 60 ft.; Perception +31
 **Aura** maddening oculuxationMA (30 ft., DC 21)
 
 #### Defense
 
-**AC**24,**touch**16,**flat-footed** 16 (+6 Dex, +2 dodge, +8 natural, –2 size)
+**AC** 24, **touch** 16, **flat-footed** 16 (+6 Dex, +2 dodge, +8 natural, –2 size)
 **hp** 353 (21d10+238)
-**Fort**+20,**Ref**+20,**Will** +10
-**Defensive Abilities**fleshy shield; swarm traits; DR 10/epic;**Immune**poison;**Resist**acid 10, cold 10, electricity 10, fire 10;**SR** 29
+**Fort** +20, **Ref** +20, **Will** +10
+**Defensive Abilities** fleshy shield; swarm traits; DR 10/epic; **Immune** poison; **Resist** acid 10, cold 10, electricity 10, fire 10; **SR** 29
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** swarm (5d6 plus dimensional snare and distraction), 2 slams +19 (5d6)
 **Ranged** 1d6 soul splinters +25 (2d6 plus sickened)
-**Space**15 ft.;**Reach** 0 ft.
+**Space** 15 ft.; **Reach** 0 ft.
 **Special Attacks** blinding blightMA, consume flesh, create carrionstorm, dimensional snare, mythic power (7/day, surge 1d10), soul splintersMA, trample (5d6, DC 20), unleash the feast houndsMA, wildwrackMA
 
 #### Statistics
 
-**Str**10,**Dex**23,**Con**22,**Int**6,**Wis**13,**Cha** 13
-**Base Atk**+21;**CMB**+23;**CMD** 40 (can’t be tripped)
+**Str** 10, **Dex** 23, **Con** 22, **Int** 6, **Wis** 13, **Cha** 13
+**Base Atk** +21; **CMB** +23; **CMD** 40 (can’t be tripped)
 **Feats** Ability Focus (consume flesh), DodgeMF, Great FortitudeMF, Improved InitiativeMF, Improved Iron Will, Iron Will, Lightning Reflexes, Point-Blank Shot, Skill Focus (Perception), Step Up, ToughnessMF
 **Skills** Acrobatics +30, Intimidate +25, Perception +31, Stealth +12, Survival +11
 **Languages** Abyssal
@@ -53,13 +53,13 @@ CE Huge outsider (chaotic, evil, extraplanar, mythic, swarm)
 
 **Create Carrionstorm (Ex)** As a full-round action at sunrise, a mythic kakuen-taka (a bhoga swarm with a flesh mansion) can create 1d4 carrionstorms. These carrionstorms have a blinding poison in addition to their swarm attack. The carrionstorms are not under the control of the mythic kakuen-taka but instinctively follow it, attacking minor foes while the mythic kakuentaka destroys greater threats. If the flesh mansion is destroyed and the mythic kakuen-taka does not create another one within 24 hours, the carrionstorms are destroyed. Any carrionstorms in excess of four wander away from the mythic kakuen-taka and are automatically destroyed 24 hours later. These carrionstorms are immune to the mythic kakuen-taka’s blinding blight and maddening oculuxation abilities.
 
-- **Carrionstorm Poison (Ex)**Swarm—injury;**save**Fort DC 12,**frequency**1/round for 6 rounds,**effect**permanent blindness,**cure** 2 consecutive saves. The save DC is Constitution-based (using the carrionstorm’s Constitution).
+- **Carrionstorm Poison (Ex)** Swarm—injury; **save** Fort DC 12, **frequency** 1/round for 6 rounds, **effect** permanent blindness, **cure** 2 consecutive saves. The save DC is Constitution-based (using the carrionstorm’s Constitution).
 
 **Dimensional Snare (Su)** Any creature affected by the mythic kakuen-taka’s swarm attack must succeed at a DC 21 Will save or be affected by dimensional anchor for 1 round. This save is Charisma-based.
 
 **Flesh Mansion (Ex)** A mythic kakuen-taka’s bhoga swarm normally inhabits a hollowed-out reconfigured corpse called a flesh mansion, which it uses as a shelter, vehicle, and war machine. When the swarm wears a flesh mansion, it uses the above stat block (unlike a normal swarm, the flesh mansion’s slam attacks have reach and threaten squares within its reach). As a standard action, the swarm can abandon its flesh mansion (which falls inert in its square), inhabit an empty flesh mansion, hide within its flesh mansion (gaining cover against all opponents but still being able to use its swarm attack), or stop hiding within the flesh mansion. If the flesh mansion is destroyed, the swarm can create another by performing a ritual that requires 1 hour and the corpse of a Huge creature. The flesh mansion is not a separate creature, nor is it undead; it is merely a corpse the swarm manipulates.
 
-Without a flesh mansion, the bhoga swarm’s statistics are CE Diminutive outsider (chaotic, evil, extraplanar, swarm); **AC**22,**touch**21,**flat-footed**15;**Defensive Abilities**swarm traits;**Melee**swarm (5d6 plus dimensional snare and distraction);**Reach**0 ft.;**Str**1;**CMB**—;**CMD**— (can’t be tripped);**Stealth** +32.
+Without a flesh mansion, the bhoga swarm’s statistics are CE Diminutive outsider (chaotic, evil, extraplanar, swarm); **AC** 22, **touch** 21, **flat-footed** 15; **Defensive Abilities** swarm traits; **Melee** swarm (5d6 plus dimensional snare and distraction); **Reach** 0 ft.; **Str** 1; **CMB** —; **CMD** — (can’t be tripped); **Stealth** +32.
 
 **Fleshy Shield (Ex)** A newly created flesh mansion has 150 hit points. The swarm takes only half damage from all attacks that deal hit point damage, with the remainder taken by the flesh mansion. Because a swarm of Diminutive creatures is immune to all weapon damage, apply half of all weapon damage to the fleshy shield and ignore the half that would be applied to the swarm. When the flesh mansion reaches 0 hit points, it is destroyed and the swarm functions like a normal swarm (see Flesh Mansion above). A mythic kakuen-taka can repair a damaged flesh mansion by spending a full-round action grafting a corpse into it (restoring 5 hit points for a Small corpse, 10 for Medium, 20 for Large, 50 for Huge).
 

@@ -13,13 +13,13 @@ This creature has the sun-bronzed upper body of a seasoned warrior and the lower
 XP 1,200
 Pathfinder Roleplaying Game Bestiary
 N Large monstrous humanoid (mythic)
-**Init**+7MF;**Senses** darkvision 60 ft.; Perception +7
+**Init** +7MF; **Senses** darkvision 60 ft.; Perception +7
 
 #### Defense
 
-**AC**20,**touch**11,**flat-footed** 19 (+6 armor, +2 Dex, +2 natural, +1 shield, –1 size)
+**AC** 20, **touch** 11, **flat-footed** 19 (+6 armor, +2 Dex, +2 natural, +1 shield, –1 size)
 **hp** 40 (4d10+18)
-**Fort**+3,**Ref**+6,**Will** +6
+**Fort** +3, **Ref** +6, **Will** +6
 
 #### Offense
 
@@ -27,12 +27,12 @@ N Large monstrous humanoid (mythic)
 **Melee** mwk longsword +6 (1d8+2/19–20), 2 hooves +0 (1d6+1)
 **Ranged** mwk composite longbow +6 (1d8+2/×3) or spear +5 (1d8+2/×3)
 **Special Attacks** mythic power (1/day, surge +1d6), pounding hoovesMA, trample (1d6+3, DC 14)MA
-**Space**10 ft.,**Reach** 5 ft.
+**Space** 10 ft., **Reach** 5 ft.
 
 #### Statistics
 
-**Str**15,**Dex**14,**Con**15,**Int**11,**Wis**14,**Cha** 12
-**Base Atk**+4;**CMB**+7 (+9 overrun);**CMD** 19 (21 vs. overrun, 23 vs. trip)
+**Str** 15, **Dex** 14, **Con** 15, **Int** 11, **Wis** 14, **Cha** 12
+**Base Atk** +4; **CMB** +7 (+9 overrun); **CMD** 19 (21 vs. overrun, 23 vs. trip)
 **Feats** Improved InitiativeMF, Punishing KickB, Run
 **Skills** Diplomacy +5, Intimidate +6, Knowledge (nature) +4, Perception +7, Survival +9
 **Languages** Common, Elven, Sylvan

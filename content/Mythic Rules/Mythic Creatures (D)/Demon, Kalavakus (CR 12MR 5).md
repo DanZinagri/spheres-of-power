@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (D)]]"
 XP 19,200
 Pathfinder Roleplaying Game Bestiary 2
 CE Medium outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +24
+**Init** +1; **Senses** darkvision 60 ft.; Perception +24
 
 #### Defense
 
-**AC**30,**touch**11,**flat-footed** 29 (+1 Dex, +19 natural)
+**AC** 30, **touch** 11, **flat-footed** 29 (+1 Dex, +19 natural)
 **hp** 175 (10d10+120)
-**Fort**+14,**Ref**+4,**Will** +10
-**Defensive Abilities**DR 10/epic and good;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 23
+**Fort** +14, **Ref** +4, **Will** +10
+**Defensive Abilities** DR 10/epic and good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 23
 
 #### Offense
 
@@ -33,10 +33,10 @@ At will—command (DC 15), greater teleport (self plus 50 lbs. of objects only),
 
 #### Statistics
 
-**Str**24,**Dex**13,**Con**24,**Int**15,**Wis**17,**Cha** 18
-**Base Atk**+10;**CMB**+17 (+19 bull rush, +23 disarm, +19 trip);**CMD** 30 (32 vs. bull rush, 36 vs. disarm, 32 vs. trip)
+**Str** 24, **Dex** 13, **Con** 24, **Int** 15, **Wis** 17, **Cha** 18
+**Base Atk** +10; **CMB** +17 (+19 bull rush, +23 disarm, +19 trip); **CMD** 30 (32 vs. bull rush, 36 vs. disarm, 32 vs. trip)
 **Feats** Combat ExpertiseMF, Improved Bull Rush, Improved Disarm, Improved Trip, Power AttackMF, Extra Mythic PowerMF
-**Skills**Acrobatics +14, Climb +20, Intimidate +17, Knowledge (planes) +15, Perception +24, Sense Motive +16, Stealth +14, Use Magic Device +17;**Racial Modifiers** +8 Perception
+**Skills** Acrobatics +14, Climb +20, Intimidate +17, Knowledge (planes) +15, Perception +24, Sense Motive +16, Stealth +14, Use Magic Device +17; **Racial Modifiers** +8 Perception
 **Languages** Abyssal, Celestial, Common, Draconic; telepathy 100 ft
 **SQ** Mythic Spell-like Abilities
 

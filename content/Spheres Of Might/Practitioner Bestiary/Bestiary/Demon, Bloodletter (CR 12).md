@@ -7,31 +7,31 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 19,200
 CE Large outsider (chaotic, demon, evil, extraplanar)
-**Init**+5;**Senses**darkvision 60 ft.;**Perception** +23
+**Init** +5; **Senses** darkvision 60 ft.; **Perception** +23
 **Aura** bleed (DC 24, 10 rounds)
 
 **Defense**
-**AC**26,**touch**10,**flat-footed** 25 (+1 Dexterity, +16 natural, –1 size)
+**AC** 26, **touch** 10, **flat-footed** 25 (+1 Dexterity, +16 natural, –1 size)
 **hp** 184 (16d10+96)
-**Fort**+15,**Ref**+8,**Will** +14
-**DR**10/good;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 22
+**Fort** +15, **Ref** +8, **Will** +14
+**DR** 10/good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 22
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** elven branched spear +24 (2d6+12, x3 plus 5 bleed), 4 estocs +25 (2d6+8, 18-20x2)
-**Space**10 ft.;**Reach** 10 ft. (20 ft. w/ elven branched spear)
+**Space** 10 ft.; **Reach** 10 ft. (20 ft. w/ elven branched spear)
 **Special Attacks** brutal strike (+32), impale
 
 **Tactics**
 The bloodletter demon cares little for tactics, charging ahead and laying into its foes, using its multiple weapons to bind and disarm enemy weapons while freely using its own to pin foes to the ground.
 
 **Statistics**
-**Str**26,**Dex**13,**Con**20,**Int**12,**Wis**14,**Cha** 18
-**Base Atk**+16;**CMB**+25;**CMD** 36 (can’t be tripped)
+**Str** 26, **Dex** 13, **Con** 20, **Int** 12, **Wis** 14, **Cha** 18
+**Base Atk** +16; **CMB** +25; **CMD** 36 (can’t be tripped)
 **Feats** Dirty Fighting, Great Focus, Improved Initiative, Iron Will, Lightning Reflexes, Muscular Reflexes, Toughness, Weapon Focus (Estoc)
-**Martial Tradition**Butcher,**PAM**Cha,**DC** 22
+**Martial Tradition** Butcher, **PAM** Cha, **DC** 22
 **Talents** Berserker (Advancing Carnage, Bloody Counter, Reaper’s Momentum, Savage, Shatter Earth), Duelist (…And Stay Down!, Bind Weapon, Debilitating Injuries, Finger Cutter, Shattering Disarm, Traitorous Blade), Equipment (Dueling Training), Lancer (Adamant Stalker, Bloody Rip, Pinning Impale x2, Whirlwind Knockdown)
-**Skills**Acrobatics +20, Climb +27, Intimidate +24, Knowledge (planes) +20, Perception +30, Sense Motive +22, Stealth +16,**Racial Modifiers** +8 Perception
+**Skills** Acrobatics +20, Climb +27, Intimidate +24, Knowledge (planes) +20, Perception +30, Sense Motive +22, Stealth +16, **Racial Modifiers** +8 Perception
 **Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.
 **SQ** blood blade, multiweapon mastery
 

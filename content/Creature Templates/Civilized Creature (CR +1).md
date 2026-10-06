@@ -24,7 +24,7 @@ They can carry or move an object if they possess the strength score to do so, ev
 
 An object can be telekinetically manipulated as if with two hands or two objects with one hand. For example, a lever or rope can be pulled, a two handed sword wielded, pair of lock picks used, a key turned, an object rotated, and so on, if the force required is within the creatures weight limitation. It can also perform delicate activities such as untying a complicated knot. A civilized creature can also perform a bull rush, disarm, grapple (including pin), or trip. Resolve these attempts as normal.
 
-**Abilities:** Increase from the base creature as follows:**Int**+4 (minimum 13, see skills),**Cha** +4 (Minimum 13, +2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, Use Magic Device, attempts to influence others, and Channel Energy DCs; +2 to the DC of Tactile Telekinesis and any of the base creature’s Charisma-based DCs)
+**Abilities:** Increase from the base creature as follows: **Int** +4 (minimum 13, see skills), **Cha** +4 (Minimum 13, +2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, Use Magic Device, attempts to influence others, and Channel Energy DCs; +2 to the DC of Tactile Telekinesis and any of the base creature’s Charisma-based DCs)
 
 **Feats:** A civilized creature gains Simple Weapon Proficiency, and gains Exotic Weapon Proficiency (firearms) if they exist in the civilization the creature has joined as bonus feats
 

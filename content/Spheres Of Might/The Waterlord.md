@@ -14,13 +14,13 @@ The Waterlord is a first-level sample character for Spheres of Might, suitable f
 **The Waterlord (Pirate Commander)**
 Human commander 1
 LG Medium humanoid (human)/outsider (native)
-**Init**+0;**Senses** Perception +5
+**Init** +0; **Senses** Perception +5
 
 ## Defense
 
-**AC**13,**touch**10,**flat-footed** 13 (+2 armor, +1 shield)
+**AC** 13, **touch** 10, **flat-footed** 13 (+2 armor, +1 shield)
 **hp** 10 (1d8+2)
-**Fort**+4,**Ref**+0,**Will** +3
+**Fort** +4, **Ref** +0, **Will** +3
 
 ## Offense
 
@@ -30,22 +30,22 @@ LG Medium humanoid (human)/outsider (native)
 
 ## Martial
 
-**Tradition**Pirate (Equipment: Pirate Training, Unarmored Training; Fencing sphere; Athletics sphere, Swim package);**PAM** Int
-**Athletics Sphere**- DC 13,**Talents**none,**Drawbacks** none
+**Tradition** Pirate (Equipment: Pirate Training, Unarmored Training; Fencing sphere; Athletics sphere, Swim package); **PAM** Int
+**Athletics Sphere** - DC 13, **Talents** none, **Drawbacks** none
 - coordinated movement (whenever you take the withdraw action, you regain your martial focus)
 - swim package (swim and fight in water more easily and faster)
-**Equipment sphere**- DC 13,**Talents** Pirate Training, Unarmored Training
+**Equipment sphere** - DC 13, **Talents** Pirate Training, Unarmored Training
 - pirate training (discipline) (proficiency with boarding axe, boarding gaff, boarding pike, cat-o’-nine-tails, cutlass, duelist sword, grappling hook, pistol, rapier, and sea-knife. +2 competence bonus to Profession (sailor) checks made to sail a ship.)
 - unarmored training (bonus +3 on AC when unarmored, +1 for every 3 ranks in Acrobatics)
-**Fencing sphere**- DC 13,**Talents**none,**Drawbacks** none
+**Fencing sphere** - DC 13, **Talents** none, **Drawbacks** none
 - fatal thrust (deal +1d6 precision damage to a target that is flat-footed or has lost its Dex bonus to AC)
-**Warleader sphere**- DC 13,**Talents**Courier’s Dash,**Drawbacks** Meek Leader
+**Warleader sphere** - DC 13, **Talents** Courier’s Dash, **Drawbacks** Meek Leader
 - tactics (flanking: allied creatures are considered to be flanking as long as they both threaten the same creature; courier’s dash: allies that start their turn within the radius gain a +5 ft enhancement bonus to their base land speed)
 
 ## Statistics
 
-**Str**14,**Dex**10,**Con**14,**Int**16,**Wis**13,**Cha** 12
-**Base Atk**+0;**CMB**+2;**CMD** 12
+**Str** 14, **Dex** 10, **Con** 14, **Int** 16, **Wis** 13, **Cha** 12
+**Base Atk** +0; **CMB** +2; **CMD** 12
 **Traits** Touched by the Sea, Undine Loyalty
 **Feats** Aquatic Ancestry, Planar Heritage (Undine)
 **Skills** Bluff +5, Diplomacy +5, Handle Animal +5, Intimidate +5, Knowledge (engineering) +7, Knowledge (geography) +7, Knowledge (nature) +7, Perception +5, Profession (sailor) +5/+7, Sense Motive +5, Stealth +1, Survival +5, Swim +7

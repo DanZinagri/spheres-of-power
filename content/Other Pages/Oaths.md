@@ -343,7 +343,7 @@ You may select this boon multiple times, gaining a different marvelous item effe
 
 Given the variety of capabilities offered by this Oath boon, this Oath boon is available at GM discretion.
 
-**Source:** Card Casting Bonus Content
+*Source: Card Casting Bonus Content*
 
 ### Renewal (Su) (2 Oath points)
 

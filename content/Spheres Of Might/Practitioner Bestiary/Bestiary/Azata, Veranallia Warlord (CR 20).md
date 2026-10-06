@@ -7,18 +7,18 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 307,200
 CG Large outsider (azata, chaotic, extraplanar, good)
-**Init**+12;**Senses**darkvision 60 ft., low-light vision, tremorsense 60 ft.;**Perception** +39
+**Init** +12; **Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; **Perception** +39
 
 **Defense**
-**AC**36,**touch**17,**flat-footed** 28 (+8 Dex, +19 natural, –1 size)
+**AC** 36, **touch** 17, **flat-footed** 28 (+8 Dex, +19 natural, –1 size)
 **hp** 324 (24d10+192)
-**Fort**+21,**Ref**+16,**Will** +22
-**DR**15/cold iron and evil;**Immune**electricity, petrification;**Resist**cold 10, fire 10;**SR** 31
+**Fort** +21, **Ref** +16, **Will** +22
+**DR** 15/cold iron and evil; **Immune** electricity, petrification; **Resist** cold 10, fire 10; **SR** 31
 
 **Offense**
 **Speed** 50 ft.; transport via plants
 **Melee** +3 icy burst sickle +35/+30/+25/+20 (1d6+12/19–20 plus 1d6 cold), 4 vines +27 (1d8+4 plus grab)
-**Space**10 ft.;**Reach** 5 ft. (10 ft. with vines)
+**Space** 10 ft.; **Reach** 5 ft. (10 ft. with vines)
 **Special Attacks** autumnal embrace, brutal strike (+48), constrict (1d8+4), fencing (+5d6), shout (70 ft.), tactics (130 ft.), rebirth
 
 **Spell-Like Abilities** (CL 20th; concentration +29)
@@ -32,10 +32,10 @@ At will—blight, cure serious wounds, diminish plants, entangle (DC 20), plant 
 A veranallia warlord is at their best when they are leading teams, in which case they will spend their turns using shouts, feints, and tactics to empower their fellows. If caught on their own, they will use feints and the Skewer talent to make end their opponents quickly.
 
 **Statistics**
-**Str**28,**Dex**26,**Con**25,**Int**18,**Wis**27,**Cha** 29
-**Base Atk**+24;**CMB**+34 (+38 grapple);**CMD** 52 (56 vs. trip)
+**Str** 28, **Dex** 26, **Con** 25, **Int** 18, **Wis** 27, **Cha** 29
+**Base Atk** +24; **CMB** +34 (+38 grapple); **CMD** 52 (56 vs. trip)
 **Feats** Alertness, Combat Casting, Combat Reflexes, Critical Focus, Extra Combat Talent x2, Improved Critical (sickle), Improved Initiative, Improved Natural Attack (vine), Power Attack, Sickening Critical, Toughness
-**Tradition**Cunning Leader,**PAM**Cha,**DC** 31
+**Tradition** Cunning Leader, **PAM** Cha, **DC** 31
 **Talents** Berserker (Advancing Carnage), Equipment (Bounty Hunter’s Tools), Fencing (Chest Strike, Distracting Blades, Expert Feint, Face Strike, Fast Feint, Fatal Opening, Focusing Feint, Lunge, Skewer), Warleader (Breath Support, Coordinated Reflexes, Cry of Confrontation, Deadly Herdsman, Focusing Cry, Focusing Tactics, Fortifying Phalanx, Frightful Roar, Harangue, Preparation, Rousing Claxon, Verbal Commands)
 **Skills** Bluff +36, Climb +33, Escape Artist +35, Heal +35, Intimidate +36, Knowledge (nature) +31, Knowledge (planes) +31, Perception +39, Sense Motive +39, Stealth +31
 **Languages** Celestial, Draconic, Infernal; speak with plants; truespeech

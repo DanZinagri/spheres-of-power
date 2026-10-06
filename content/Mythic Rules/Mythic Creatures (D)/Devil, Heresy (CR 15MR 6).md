@@ -10,21 +10,21 @@ parent: "[[Mythic Creatures (D)]]"
 **Mythic Heresy Devil (Ayngavhaul) (CR 15/MR 6)**
 XP 51,200
 LE Huge outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+9MF;**Senses** darkvision 60 ft., see in darkness; Perception +21
+**Init** +9MF; **Senses** darkvision 60 ft., see in darkness; Perception +21
 
 #### Defense
 
-**AC**39,**touch**9,**flat-footed** 39 (+6 armor, –1 Dex, +2 profane, +24 natural, –2 size)
+**AC** 39, **touch** 9, **flat-footed** 39 (+6 armor, –1 Dex, +2 profane, +24 natural, –2 size)
 **hp** 248 (13d10+177); fast healing 5
-**Fort**+17,**Ref**+3,**Will** +13; second save
-**Defensive Abilities**fortification (50%); DR 10/epic and good;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 26 (36 vs. spells cast by a good-aligned divine spellcaster)
+**Fort** +17, **Ref** +3, **Will** +13; second save
+**Defensive Abilities** fortification (50%); DR 10/epic and good; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 26 (36 vs. spells cast by a good-aligned divine spellcaster)
 
 #### Offense
 
 **Speed** 10 ft., flyMA 40 ft. (perfect)
 **Melee** 2 slams +18 (2d8+7), bite +18 (2d6+7)
 **Ranged** 3 searing words +10 touch (3d6 half fire, half unholy)
-**Space**15 ft.;**Reach** 5 ft.
+**Space** 15 ft.; **Reach** 5 ft.
 **Special Attacks** blasphemous bileMA, lingering breathMA (2d8 half acid, half unholy; 6 rounds), mythic power (6/day, surge +1d8)
 
 **Spell-like Abilities** (CL 13th; concentration +20)
@@ -34,8 +34,8 @@ At will—deathwatch, greater teleport (self plus 50 lbs. of objects only), illu
 
 #### Statistics
 
-**Str**24,**Dex**8,**Con**26,**Int**22,**Wis**21,**Cha** 24
-**Base Atk**+13;**CMB**+18;**CMD** 37
+**Str** 24, **Dex** 8, **Con** 26, **Int** 22, **Wis** 21, **Cha** 24
+**Base Atk** +13; **CMB** +18; **CMD** 37
 **Feats** Diehard, Endurance, Great FortitudeMF, Improved InitiativeMF, PersuasiveMF, Toughness
 **Skills** Bluff +23, Diplomacy +29, Fly +14, Intimidate +26, Knowledge (arcana) +22, Knowledge (history) +19, Knowledge (planes) +22, Knowledge (religion) +22, Perception +21, Perform (oratory) +20, Profession (librarian) +10, Sense Motive +21, Spellcraft +22
 **Languages** Abyssal, Celestial, Draconic, Infernal
@@ -63,8 +63,8 @@ At will—deathwatch, greater teleport (self plus 50 lbs. of objects only), illu
 
 ## Robe Of Lead
 
-**Aura**strong varied;**CL** 14th
-**Slot**body;**Price**30,000 gp;**Weight** 900 lbs.
+**Aura** strong varied; **CL** 14th
+**Slot** body; **Price** 30,000 gp; **Weight** 900 lbs.
 
 **Description**
 The eldest ayngavhaul, as well as their mythic counterparts, garb themselves in a robe of lead, massive suits of armor imbued with diabolical runes and profane symbols. These hulking, blasphemous vestments do little to impede the corpulent fiends’ already encumbered movement, yet grant them significant defense against servants of the divine. Only an ayngavhaul can fully realize this potent magic item’s powers once the robe is donned. These powers are as follows:
@@ -76,4 +76,4 @@ The eldest ayngavhaul, as well as their mythic counterparts, garb themselves in 
 Any Huge creature can wear a robe of lead, but non-ayngavhauls must contend with the robe’s crushing, 900-pound weight. Any non-evil creature that attempts to wear a robe of lead gains one negative level until the vestments are removed.
 
 **Construction**
-**Requirements**Craft Wondrous Item, antimagic field, shield of faith, creator must be an aynghavaul devil;**Cost** 15,000 gp
+**Requirements** Craft Wondrous Item, antimagic field, shield of faith, creator must be an aynghavaul devil; **Cost** 15,000 gp

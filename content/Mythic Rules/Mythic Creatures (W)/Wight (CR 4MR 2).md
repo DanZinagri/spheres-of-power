@@ -10,14 +10,14 @@ parent: "[[Mythic Creatures (W)]]"
 **Wight, Mythic (CR 4/MR 2)**
 XP 1,200
 LE Medium undead (mythic)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +11
+**Init** +1; **Senses** darkvision 60 ft.; Perception +11
 **Aura** desecrationMA (60 ft.)
 
 #### Defense
 
-**AC**17,**touch**11,**flat-footed** 16 (+1 Dex, +6 natural)
+**AC** 17, **touch** 11, **flat-footed** 16 (+1 Dex, +6 natural)
 **hp** 46 (4d8+12+16)
-**Fort**+6,**Ref**+4,**Will** +7
+**Fort** +6, **Ref** +4, **Will** +7
 **Defensive Abilities** undead traits
 **Weaknesses** resurrection vulnerability
 
@@ -29,9 +29,9 @@ LE Medium undead (mythic)
 
 #### Statistics
 
-**Str**12,**Dex**12,**Con**—,**Int**11,**Wis**13,**Cha** 17
-**Base Atk**+3;**CMB**+4;**CMD** 15
-**Feats**Blind-Fight, Extra Mythic PowerMF, Skill Focus (Perception) Skills Intimidate +10, Knowledge (religion) +7, Perception +11, Stealth +16;**Racial Modifier** +8 Stealth
+**Str** 12, **Dex** 12, **Con** —, **Int** 11, **Wis** 13, **Cha** 17
+**Base Atk** +3; **CMB** +4; **CMD** 15
+**Feats** Blind-Fight, Extra Mythic PowerMF, Skill Focus (Perception) Skills Intimidate +10, Knowledge (religion) +7, Perception +11, Stealth +16; **Racial Modifier** +8 Stealth
 **Languages** Common
 
 #### Ecology

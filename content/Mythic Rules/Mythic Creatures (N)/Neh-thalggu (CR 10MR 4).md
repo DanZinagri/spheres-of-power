@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (N)]]"
 XP 9,600
 Pathfinder Roleplaying Game Bestiary 2
 CE Large aberration (mythic)
-**Init**+11/-9MF, dual initiativeMA;**Senses** darkvision 60 ft.; Perception +17
+**Init** +11/-9MF, dual initiativeMA; **Senses** darkvision 60 ft.; Perception +17
 
 #### Defense
 
-**AC**25,**touch**19,**flat-footed** 22 (+3 Dex, +7 insight, +6 natural, –1 size)
+**AC** 25, **touch** 19, **flat-footed** 22 (+3 Dex, +7 insight, +6 natural, –1 size)
 **hp** 147 (10d8+102)
-**Fort**+10,**Ref**+6,**Will** +11
-**Defensive Abilities**DR 10/epic and magic;**Immune**confusion effects;**SR** 21
+**Fort** +10, **Ref** +6, **Will** +11
+**Defensive Abilities** DR 10/epic and magic; **Immune** confusion effects; **SR** 21
 
 #### Offense
 
 **Speed** 10 ft., fly 40 ft. (perfect)
 **Melee** bite +13 (1d8+7 plus poison), 2 claws +13 (1d6+7)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** behold the horrorMA (DC 19), mythic power (4/day, surge +1d8), rend (2 claws, 2d6+7)
 
 **Sorcerer Spells Known** (CL 10th; concentration +24)
@@ -37,8 +37,8 @@ CE Large aberration (mythic)
 
 #### Statistics
 
-**Str**24,**Dex**16,**Con**25,**Int**19,**Wis**18,**Cha** 19
-**Base Atk**+7;**CMB**+15;**CMD** 35 (cannot be tripped)
+**Str** 24, **Dex** 16, **Con** 25, **Int** 19, **Wis** 18, **Cha** 19
+**Base Atk** +7; **CMB** +15; **CMD** 35 (cannot be tripped)
 **Feats** Arcane Strike, Combat Reflexes, Eschew MaterialsB, Extend Spell, Improved InitiativeMF, Mythic Spell LoreMF, Power Attack
 **Skills** Fly +15, Knowledge (arcana) +23, Knowledge (dungeoneering) +23, Knowledge (planes) +23, Perception +17, Sense Motive +17, Spellcraft +17, Stealth +12, Use Magic Device +17
 **Languages** Abyssal, Aklo, Common, Draconic, Protean, Undercommon; telepathy (100 ft.)
@@ -60,7 +60,7 @@ CE Large aberration (mythic)
 
 **Extradimensional Interloper (Su)** A mythic neh-thalggu’s alien physiology exists across multiple dimensions simultaneously. It functions as if under a constant blink effect, though this is not a spell and cannot be dispelled, and no miss chance applies to the mythic neh-thalggu’s attacks against other creatures. A mythic neh-thalggu may suppress or resume this ability as a swift action. While blinking, it can expend one use of its mythic power to use a quickened dimension door or two uses of its mythic power to use plane shift or greater teleport as a move action. These teleportation effects affect only the mythic neh-thalggu and what it carries. A mythic neh-thalggu automatically notes the presence of extradimensional spaces (or their apertures, such as the door of a magnificent mansion or the rope of a rope trick) within 60 feet, and as a standard action it may expend one use of its mythic power to dispel that effect as if using greater dispel magic. At the GM’s option, a successful caster level check to dispel could instead allow the mythic neh-thalggu to intrude into the extradimensional space and attack creatures within.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 22;**frequency**1/round for 6 rounds;**effect**1d2 Strength, Constitution, and Dexterity damage and staggered;**cure** 2 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; **save** Fort DC 22; **frequency** 1/round for 6 rounds; **effect** 1d2 Strength, Constitution, and Dexterity damage and staggered; **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 **Spells** A mythic neh-thalggu casts spells as a sorcerer whose level is equal to 3 plus the number of brains it has in storage (maximum 10th). A mythic neh-thalggu’s caster level is reduced by 1 for each negative level it acquires due to missing brains; however, unlike their non-mythic kin a mythic neh-thalggu with no collected brains can still cast spells, albeit at a reduced caster level.
 

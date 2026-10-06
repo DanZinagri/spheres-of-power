@@ -16,7 +16,7 @@ Most who encounter dragons see them soaring through the sky on mighty wings, and
 
 **Armor Class:** +2 natural armor
 
-**Defensive Abilities:** DR 5/adamantine (if the Deep Dragon creature is CR 10 or higher this becomes DR 10/adamantine, if CR 15 or higher this becomes DR 15/adamantine);**Immune**acid, fire;**Weakness** Light Blindness
+**Defensive Abilities:** DR 5/adamantine (if the Deep Dragon creature is CR 10 or higher this becomes DR 10/adamantine, if CR 15 or higher this becomes DR 15/adamantine); **Immune** acid, fire; **Weakness** Light Blindness
 
 **Speed:** Deep dragons gain Burrow at half their base speed; Deep dragon creatures cannot fly, they lose both their wings and this mode of movement.
 
@@ -44,4 +44,4 @@ Most who encounter dragons see them soaring through the sky on mighty wings, and
 
 **Shredding Stone (Su):** A deep dragon creature’s front claws are treated as if they are one size category larger than the base dragon. The deep dragon’s claws threaten a critical on a 19-20, and the dragon gains a +4 bonus to confirm critical hits with its claws.
 
-**Abilities:** Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength, and CMB checks, +2 to CMD),**Dex**+4 (+2 to ranged attack rolls, AC and touch AC, initiative checks and Reflex saves; +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks; add +2 to any of the base creature’s Dexterity-based DCs),**Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength, and CMB checks, +2 to CMD), **Dex** +4 (+2 to ranged attack rolls, AC and touch AC, initiative checks and Reflex saves; +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks; add +2 to any of the base creature’s Dexterity-based DCs), **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs).

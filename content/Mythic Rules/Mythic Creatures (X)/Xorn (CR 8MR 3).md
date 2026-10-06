@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (X)]]"
 XP 3,200
 Pathfinder Roleplaying Game Bestiary
 N Medium outsider (earth, extraplanar, mythic)
-**Init**+0;**Senses** all-around vision, darkvision 60 ft., tremorsense 60 ft., see through stoneMA; Perception +14
+**Init** +0; **Senses** all-around vision, darkvision 60 ft., tremorsense 60 ft., see through stoneMA; Perception +14
 
 #### Defense
 
-**AC**24,**touch**10,**flat-footed** 24 (+14 natural)
+**AC** 24, **touch** 10, **flat-footed** 24 (+14 natural)
 **hp** 103 (7d10+65)
-**Fort**+9,**Ref**+2,**Will** +5
-**Defensive Abilities**DR 5/bludgeoning and epic;**Immune**cold, fire, flanking;**Resist** electricity 10
+**Fort** +9, **Ref** +2, **Will** +5
+**Defensive Abilities** DR 5/bludgeoning and epic; **Immune** cold, fire, flanking; **Resist** electricity 10
 
 #### Offense
 
@@ -28,10 +28,10 @@ N Medium outsider (earth, extraplanar, mythic)
 
 #### Statistics
 
-**Str**17,**Dex**10,**Con**19,**Int**10,**Wis**11,**Cha** 10
-**Base Atk**+7;**CMB**+10;**CMD** 20 (22 vs. trip)
+**Str** 17, **Dex** 10, **Con** 19, **Int** 10, **Wis** 11, **Cha** 10
+**Base Atk** +7; **CMB** +10; **CMD** 20 (22 vs. trip)
 **Feats** CleaveMF, Improved Bull Rush, Power AttackMF, Toughness
-**Skills**Appraise +10, Intimidate +10, Knowledge (dungeoneering) +10, Perception +14, Stealth +10, Survival +10;**Racial Modifiers** +4 Perception
+**Skills** Appraise +10, Intimidate +10, Knowledge (dungeoneering) +10, Perception +14, Stealth +10, Survival +10; **Racial Modifiers** +4 Perception
 **Languages** Common, Terran
 
 #### Ecology

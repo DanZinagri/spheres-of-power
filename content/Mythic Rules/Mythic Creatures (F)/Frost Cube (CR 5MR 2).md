@@ -11,28 +11,28 @@ parent: "[[Mythic Creatures (F)]]"
 XP 1,600
 Pathfinder Roleplaying Game Bestiary (variant gelatinous cube)
 N Large ooze (mythic)
-**Init**–5;**Senses** blindsight 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 60 ft.; Perception –5
 **Aura** freezing sporesMA (5 ft.)
 
 #### Defense
 
-**AC**6,**touch**4,**flat-footed** 6 (–5 Dex, +2 natural, –1 size)
+**AC** 6, **touch** 4, **flat-footed** 6 (–5 Dex, +2 natural, –1 size)
 **hp** 70 (4d8+52)
-**Fort**+10,**Ref**–4,**Will** –4
-**Defensive Abilities**fast healing 3 (see freezing spores);**Immune**electricity, ooze traits;**Resist** fire 30
+**Fort** +10, **Ref** –4, **Will** –4
+**Defensive Abilities** fast healing 3 (see freezing spores); **Immune** electricity, ooze traits; **Resist** fire 30
 **Weaknesses** vulnerable to cold
 
 #### Offense
 
 **Speed** 10 ft.
 **Melee** slam +2 (1d6 plus 1d6 acid)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** engulf (DC 12, 1d6 acid, 3d6 nonlethal cold, and paralysis), mythic power (4/day, surge 1d6), paralysis (3d6 rounds, DC 21)
 
 #### Statistics
 
-**Str**10,**Dex**1,**Con**28,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+3;**CMB**+4;**CMD** 9 (can’t be tripped)
+**Str** 10, **Dex** 1, **Con** 28, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +3; **CMB** +4; **CMD** 9 (can’t be tripped)
 **Feats** Extra Mythic PowerMF
 **SQ** heat sinkMA, silent slithererMA, transparent
 

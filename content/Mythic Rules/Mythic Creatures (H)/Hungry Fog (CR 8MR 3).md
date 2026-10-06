@@ -11,22 +11,22 @@ parent: "[[Mythic Creatures (H)]]"
 XP 4,800
 Pathfinder Roleplaying Gamee Bestiary 3
 N Huge ooze (mythic)
-**Init**–3;**Senses** mistsightMA; Perception –5
+**Init** –3; **Senses** mistsightMA; Perception –5
 **Aura** bewitching brume (10 ft., DC 8, 1 round)
 
 #### Defense
 
-**AC**8,**touch**5,**flat-footed** 8 (–3 Dex, +3 natural, –2 size)
+**AC** 8, **touch** 5, **flat-footed** 8 (–3 Dex, +3 natural, –2 size)
 **hp** 90 (7d8+59)
-**Fort**+7,**Ref**–1,**Will** –3
-**Defensive Abilities**gaseous, negative energy affinity; DR 10/epic and magic;**Immune**acid, electricity, ooze traits, sonic;**Resist** cold 10
+**Fort** +7, **Ref** –1, **Will** –3
+**Defensive Abilities** gaseous, negative energy affinity; DR 10/epic and magic; **Immune** acid, electricity, ooze traits, sonic; **Resist** cold 10
 **Weaknesses** vulnerable to wind
 
 #### Offense
 
 **Speed** fly 15 ft. (perfect)
 **Melee** touch +5 (6d6 negative energy)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** enveloping mists (DC 18, 3d6 negative energy and staggered), fearsome phantomsMA, mythic power (5/day, surge 1d6+1), soul eaterMA
 
 **Spell-Like Abilities** (CL 7th; concentration +2)
@@ -34,8 +34,8 @@ At will—obscuring mist
 
 #### Statistics
 
-**Str**—,**Dex**4,**Con**20,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+5;**CMB**+7;**CMD** 14 (can’t be tripped)
+**Str** —, **Dex** 4, **Con** 20, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +5; **CMB** +7; **CMD** 14 (can’t be tripped)
 **Feats** Extra Mythic Power, Potent Surge
 **SQ** mistcallerMA
 

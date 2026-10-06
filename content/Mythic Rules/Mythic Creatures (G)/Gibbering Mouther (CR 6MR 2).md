@@ -13,14 +13,14 @@ This horrid mass of eyes, mouths, and formless flesh stares in all directions, i
 XP 2,400
 Pathfinder Roleplaying Game Bestiary
 N Medium aberration (mythic, mythos)
-**Init**+4;**Senses** all-around vision, darkvision 60 ft.; Perception +12
+**Init** +4; **Senses** all-around vision, darkvision 60 ft.; Perception +12
 
 #### Defense
 
-**AC**22,**touch**14,**flat-footed** 18 (+4 Dex, +8 natural)
+**AC** 22, **touch** 14, **flat-footed** 18 (+4 Dex, +8 natural)
 **hp** 62 (4d8+44)
-**Fort**+8,**Ref**+5,**Will** +5
-**Defensive Abilities**amorphous; DR 5/bludgeoning and epic;**Immune** critical hits, precision damage
+**Fort** +8, **Ref** +5, **Will** +5
+**Defensive Abilities** amorphous; DR 5/bludgeoning and epic; **Immune** critical hits, precision damage
 
 #### Offense
 
@@ -30,9 +30,9 @@ N Medium aberration (mythic, mythos)
 
 #### Statistics
 
-**Str**10,**Dex**19,**Con**24,**Int**4,**Wis**13,**Cha** 12
-**Base Atk**+3;**CMB**+3 (+7 grapple);**CMD** 17 (can’t be tripped)
-**Feats**Weapon FinesseMF, Weapon Focus (bite) Skills Perception +12, Swim +8;**Racial Modifiers** +4 Perception
+**Str** 10, **Dex** 19, **Con** 24, **Int** 4, **Wis** 13, **Cha** 12
+**Base Atk** +3; **CMB** +3 (+7 grapple); **CMD** 17 (can’t be tripped)
+**Feats** Weapon FinesseMF, Weapon Focus (bite) Skills Perception +12, Swim +8; **Racial Modifiers** +4 Perception
 **Language** Aklo
 
 #### Ecology

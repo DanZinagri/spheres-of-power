@@ -13,13 +13,13 @@ This creature looks like a living, mobile bonfire, tongues of flame reaching out
 XP 600
 Pathfinder Roleplaying Game Bestiary
 N Small outsider (elemental, extraplanar, fire, mythic)
-**Init**+5;**Senses** darkvision 60 ft.; Perception +4
+**Init** +5; **Senses** darkvision 60 ft.; Perception +4
 
 #### Defense
 
-**AC**17,**touch**13,**flat-footed** 15 (+1 Dex, +1 dodge, +4 natural, +1 size)
+**AC** 17, **touch** 13, **flat-footed** 15 (+1 Dex, +1 dodge, +4 natural, +1 size)
 **hp** 21 (2d10+10)
-**Fort**+3,**Ref**+4,**Will** +0
+**Fort** +3, **Ref** +4, **Will** +0
 **Immune** elemental traits, fire
 **Weaknesses** vulnerability to cold
 
@@ -31,8 +31,8 @@ N Small outsider (elemental, extraplanar, fire, mythic)
 
 #### Statistics
 
-**Str**10,**Dex**13,**Con**10,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+2;**CMB**+1;**CMD** 13
+**Str** 10, **Dex** 13, **Con** 10, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +2; **CMB** +1; **CMD** 13
 **Feats** DodgeMF, Improved InitiativeB, Weapon FinesseB
 **Skills** Acrobatics +5, Climb +4, Escape Artist +5, Intimidate +4, Knowledge (planes) +1, Perception +4
 **Languages** Ignan

@@ -14,7 +14,7 @@ Words have meaning, names have power, but nothing has more power than the writte
 
 **CR:** +2
 
-**Defenses/Qualities:** **Immune**to explosive runes, glyph and symbol spells;**Weakness** vulnerability to erase (this spell deals 10 point of damage per caster level to a rune-carved creature, a successful caster level check DC 15+CR also removes the benefits of this template for that creature.)
+**Defenses/Qualities:** **Immune** to explosive runes, glyph and symbol spells; **Weakness** vulnerability to erase (this spell deals 10 point of damage per caster level to a rune-carved creature, a successful caster level check DC 15+CR also removes the benefits of this template for that creature.)
 
 **Special Abilities:** A rune-carved retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -32,6 +32,6 @@ For example, a GM applies this template to the standard Balor Demon choosing the
 
 **Runic Dominance:** All the base creature’s abilities (including DCs) for its Extraordinary, supernatural, spells and spell-like abilities are changed to Intelligence based (for example a rune-carved sorcerer’s spell DCs and bonus spells would be adjusted by his Intelligence modifier rather than his Charisma modifier).
 
-**Abilities:** **Con**+4 (+2 hp per HD, +2 to Fortitude saves),**Int** +8 (add 4 bonus languages, add 4 skill points per HD, +4 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks; +4 to all of the creature’s DCs)
+**Abilities:** **Con** +4 (+2 hp per HD, +2 to Fortitude saves), **Int** +8 (add 4 bonus languages, add 4 skill points per HD, +4 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks; +4 to all of the creature’s DCs)
 
 **Skills:** Rune-carved gain a +8 racial bonus on Knowledge (arcana) and Linguistics checks in addition to gaining these two skills as class skills.

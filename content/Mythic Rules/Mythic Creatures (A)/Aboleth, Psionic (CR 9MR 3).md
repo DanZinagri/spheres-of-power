@@ -12,21 +12,21 @@ A foul mist surrounds this huge, three-eyed, tentacled fish creature, and plates
 **Mythic Psionic Aboleth (CR 9/MR 3)**
 XP 6,400
 LE Huge aberration (aquatic, mythic, psionic)
-**Init**+8/-12MF, dual initiativeMA;**Senses** darkvision 60 ft.; Perception +15
+**Init** +8/-12MF, dual initiativeMA; **Senses** darkvision 60 ft.; Perception +15
 **Aura** mucus cloud (5 feet)
 
 #### Defense
 
-**AC**23,**touch**9,**flat-footed** 22 (+1 Dex, +14 natural, –2 size)
+**AC** 23, **touch** 9, **flat-footed** 22 (+1 Dex, +14 natural, –2 size)
 **hp** 118 (9d8+78)
-**Fort**+9,**Ref**+6,**Will** +11
+**Fort** +9, **Ref** +6, **Will** +11
 **Defensive Abilities** DR 5/epic
 
 #### Offense
 
 **Speed** 10 ft., swim 60 ft.
 **Melee** 4 tentacles +11 (1d8+5 plus slime)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** mucus mistMA, mythic power (3/day, surge +1d6), mythic psi-like abilitiesMA
 
 **Psi-Like Abilities** (ML 16th, concentration +20)
@@ -37,8 +37,8 @@ At will—disable (55-ft. cone, 18 HD, DC 22*), false sensory input (six targets
 
 #### Statistics
 
-**Str**20,**Dex**12,**Con**22,**Int**15,**Wis**17,**Cha** 19
-**Base Atk**+6;**CMB**+13;**CMD** 24
+**Str** 20, **Dex** 12, **Con** 22, **Int** 15, **Wis** 17, **Cha** 19
+**Base Atk** +6; **CMB** +13; **CMD** 24
 **Feats** Combat Manifestation, Improved InitiativeMF, Iron WillMF, Lightning Reflexes, Weapon Focus (tentacle)
 **Skills** Bluff +13, Intimidate +16, Knowledge (any one) +14, Perception +15, Spellcraft +14, Swim +25
 **Languages** Aboleth, Aklo, Aquan, Undercommon

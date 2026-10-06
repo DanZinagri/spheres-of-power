@@ -420,7 +420,7 @@ You may also grant the following traits to your forms:
 You may grant the form of a specific elemental with your shapeshift (air, earth, fire, or water), chosen at the time this talent is gained.
 
 - **Limbs:** mutable
-- **Speech:** Yes;**Hands:** No
+- **Speech:** Yes; **Hands:** No
 - **Speed:** 30 ft. land speed
 - **Natural Weapons:** 2 slams (Primary, 1d6, 1d4 small)
 - **AC:** +2 natural armor bonus, +1 per 5 caster levels

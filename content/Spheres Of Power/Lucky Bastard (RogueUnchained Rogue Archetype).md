@@ -11,7 +11,7 @@ parent: "[[Spheres Of Power]]"
 
 Most rogues tempt Fate regularly, and more than occasionally he takes the bait. The lucky bastard’s risk-taking, on the other hand, seems to amuse Lady Luck, who rewards him with spectacular successes. When she fails him, however, his overreach causes disaster.
 
-### Kismet (Ex)
+## Kismet (Ex)
 
 Rather than trusting only his wits and guts, a lucky bastard relies on Lady Luck’s blessing in combat. Starting at 2nd level, he gains a pool of kismet points: a fluctuating measure of his ability to perform amazing actions in combat. At the start of each day, he gains a number of kismet points equal to his Charisma modifier (minimum 1). His kismet goes up or down throughout the day, but usually cannot go higher than his Charisma modifier (minimum 1), though feats and magic items can affect this maximum. A lucky bastard spends kismet to accomplish deeds (see below), and regains kismet in the following ways.
 
@@ -23,7 +23,7 @@ Attempting to manipulate or circumvent the definition of “genuinely hostile”
 
 This ability replaces evasion.
 
-### Deeds
+## Deeds
 
 Lucky bastards spend kismet points to accomplish deeds. Most deeds grant the lucky bastard a momentary bonus or effect, but some provide longer-lasting effects. Some deeds remain in effect while the lucky bastard has at least 1 kismet point, but do not require expending kismet to be maintained.
 
@@ -35,23 +35,23 @@ At 18th level the he gains the swashbuckler’s cheat death deed. These deeds us
 
 In addition, he gains the following deeds at the indicated levels.
 
-#### Turnabout (Ex)
+### Turnabout (Ex)
 
 At 2nd level, when an enemy makes an attack of opportunity against the lucky bastard for moving through one of its threatened squares the lucky bastard may spend a kismet point to attempt an Acrobatics check as a free action, even if it is not his turn, against a DC of the enemy’s combat maneuver defense. If he succeeds, the enemy’s attack of opportunity is wasted with no effect, the enemy can make no further attacks of opportunity against his until the end of his next turn, and he may make his own attack of opportunity against the enemy. If he fails, the attack of opportunity is resolved normally and if it hits the lucky bastard falls prone.
 
-#### Deceptive Tumbling (Ex)
+### Deceptive Tumbling (Ex)
 
 At 4th level, as long as the lucky bastard has at least one kismet point remaining, when he uses Acrobatics to move through threatened squares or as part of the turnabout deed, instead of attempting his check against a DC of his opponent’s CMD, he may choose to attempt his check against a DC of 10 + his opponent’s base attack bonus + his opponent’s Wisdom modifier. If his opponent is trained in Perception, the DC is instead equal to 10 + his opponent’s Perception bonus, if higher. The opponent gains a +5 bonus to their check if the lucky bastard attempts to move through their space. He may only use this ability as part of the turnabout deed if he has at least one kismet point remaining after spending turnabout’s cost.
 
-#### Dicey Thrust (Ex)
+### Dicey Thrust (Ex)
 
 At 4th level, the lucky bastard may, as a standard action, spend a kismet point to make a single attack with a weapon he has selected with finesse training. The target loses its Dexterity bonus against this attack and the attack deals 1d4 extra damage per two unchained rogue levels, but if it misses the lucky bastard drops the weapon he used to make the attack. If the lucky bastard could not drop the weapon (such as if he made it with a natural weapon), he is instead staggered for one round.
 
-#### Acrobatic Assault (Ex)
+### Acrobatic Assault (Ex)
 
 At 12th level, the lucky bastard may spend a kismet point and take a full-round action to move up to twice his speed, making one attack against each enemy he moves past with a weapon he has selected with finesse training. Any ability or effect that would specifically allow his to prevent attacks of opportunity (such as the turnabout deed) is suppressed during this movement, but he may use Acrobatics and the deceptive tumbling deed as normal. If he is struck by an attack of opportunity during his movement, he immediately stops and until the start of his next turn is flat-footed against attacks made by the enemy who successfully attacked his and any he attacked during this movement (regardless of whether his attacks hit).
 
-#### Felicitous Footwork (Ex)
+### Felicitous Footwork (Ex)
 
 At 18th level, the lucky bastard may spend a kismet point as a standard action to apply the turnabout deed to all attacks made against his before the beginning of his next turn. He also gains a bonus on Acrobatics checks equal to twice the current size of his kismet pool; if the size of his kismet pool decreases, so does this bonus.
 
@@ -59,7 +59,7 @@ This ability replaces the rogue talents gained at 2nd, 4th, 12th, and 18th level
 
 ---
 
-### Kismet
+## Kismet
 
 Kismet counts as luck for the purpose of qualifying for and activating feats, but not for other purposes, such as being spent in place of grit or panache. If a character has a kismet ability from two sources, the kismet points from the two sources do not stack, but the character regains kismet in any way either class feature allows them to. If the character's kismet abilities would give them kismet points based on different ability scores, they use the highest only.
 

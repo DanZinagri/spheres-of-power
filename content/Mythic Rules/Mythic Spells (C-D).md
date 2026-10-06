@@ -350,7 +350,7 @@ Add your mythic tier on attack and damage rolls with a mythic clenched fist, and
 
 **Augmented:** If you expend two uses of mythic power, the mythic clenched fist you create is Huge, increasing its Strength score to 37 and reducing its Dexterity score to 8. Its attack bonus is equal to your caster level plus your mythic tier plus your Wisdom bonus + 13 for its Strength bonus, -2 for its size, dealing 2d6+13 points of damage plus your mythic tier with each attack. Its AC is 18 (-1 Dex, +11 natural, -2 size), plus a deflection bonus equal to your mythic tier. Its CMB is equal to your caster level plus your mythic tier +15 (+13 Strength, +2 size) and its CMD is equal to your caster level plus your mythic tier +24 (-1 Dex, +2 size, +13 Strength).
 
-**Augmented (3rd):** If you expend two uses of mythic power (three uses if the mythic clenched fist is also made Huge as described above), the mythic clenched fist gains the following bonus feats, based on your mythic tier:**3rd**-Improved Critical; **5th**-Critical Focus; **7th**- Staggering Critical; **9th**-Stunning Critical.
+**Augmented (3rd):** If you expend two uses of mythic power (three uses if the mythic clenched fist is also made Huge as described above), the mythic clenched fist gains the following bonus feats, based on your mythic tier: **3rd**-Improved Critical; **5th**-Critical Focus; **7th**- Staggering Critical; **9th**-Stunning Critical.
 
 #### Cloak Of Chaos
 

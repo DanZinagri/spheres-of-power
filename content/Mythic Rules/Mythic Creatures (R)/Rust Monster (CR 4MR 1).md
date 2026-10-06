@@ -13,13 +13,13 @@ This insectile monster has four legs, a strange propeller-shaped protrusion at t
 XP 1,200
 Pathfinder Roleplaying Game Bestiary
 N Medium aberration (mythic)
-**Init**+3;**Senses** darkvision 60 ft., scent metals 90 ft.; Perception +12
+**Init** +3; **Senses** darkvision 60 ft., scent metals 90 ft.; Perception +12
 
 #### Defense
 
-**AC**19,**touch**13,**flat-footed** 16 (+3 Dex, +6 natural)
+**AC** 19, **touch** 13, **flat-footed** 16 (+3 Dex, +6 natural)
 **hp** 35 (5d8+13)
-**Fort**+2,**Ref**+4,**Will** +5
+**Fort** +2, **Ref** +4, **Will** +5
 **Defensive Abilities** DR 5/epic
 
 #### Offense
@@ -30,8 +30,8 @@ N Medium aberration (mythic)
 
 #### Statistics
 
-**Str**10,**Dex**17,**Con**13,**Int**2,**Wis**13,**Cha** 8
-**Base Atk**+3;**CMB**+3;**CMD** 16 (20 vs. trip)
+**Str** 10, **Dex** 17, **Con** 13, **Int** 2, **Wis** 13, **Cha** 8
+**Base Atk** +3; **CMB** +3; **CMD** 16 (20 vs. trip)
 **Feats** Ability Focus (rust), Extra Mythic Power, Skill Focus (Perception), Weapon Finesse
 **Skills** Climb +8, Perception +12
 

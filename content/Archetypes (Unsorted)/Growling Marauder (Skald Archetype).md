@@ -11,19 +11,19 @@ Music does not necessarily mean harmony - for some, a growling, guttural noise t
 
 This archetype requires [[Sphere Skald|sphere skald]].
 
-### Proficiencies
+## Proficiencies
 
 Growling marauders are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters weapon and armor proficiencies.
 
-### Combat Training (Ex)
+## Combat Training (Ex)
 
 A growling marauder is considered an Adept practitioner, gaining spheres and talents as appropriate. A growling marauder uses his casting ability modifier as his practitioner modifier.
 
 This replaces scribe scroll, uncanny dodge, improved uncanny dodge, and damage reduction.
 
-### Ancient Kenning
+## Ancient Kenning
 
 The growling marauder has access to old stories and secret histories that can enhance his martial power and spell casting.
 
@@ -31,7 +31,7 @@ At 2nd level, whenever the growling marauder rests and regains spell points, he 
 
 This replaces well-versed.
 
-### Heavy Chord
+## Heavy Chord
 
 At 3rd level, the growling marauder chooses a combat talent or combat feat he possesses. Whenever the growling marauder uses his inspired rage, allies affected by his song gain access to this talent, even if they are not practitioners. If they are not, they may use their highest mental attribute as their practitioner attribute. If a base talent is granted this way, allies are also affected by any drawbacks associated with the talent, and also gain any bonus talents granted by the drawback. Every 3 levels after, he may choose an additional talent or combat feat to share with his allies through his rage song. If the growling marauder shares a combat talent or combat feat with prerequisites, he must share the prerequisites as well.
 

@@ -13,15 +13,15 @@ Shedding a warm and calming radiance, this orb of light moves with a preternatur
 XP 800
 Pathfinder Roleplaying Game Bestiary
 LG Small outsider (archon, extraplanar, good, lawful, mythic)
-**Init**+4;**Senses** darkvision 60 ft., low-light vision; Perception +4
+**Init** +4; **Senses** darkvision 60 ft., low-light vision; Perception +4
 **Aura** aura of menace (DC 13)
 
 #### Defense
 
-**AC**16,**touch**11,**flat-footed** 16 (+5 natural, +1 size; +2 deflection vs. evil)
+**AC** 16, **touch** 11, **flat-footed** 16 (+5 natural, +1 size; +2 deflection vs. evil)
 **hp** 23 (2d10+12)
-**Fort**+4,**Ref**+3,**Will** +0; +4 vs. poison, +2 resistance vs. evil
-**Defensive Abilities**DR 10/epic and evil;**Immune** electricity, petrification
+**Fort** +4, **Ref** +3, **Will** +0; +4 vs. poison, +2 resistance vs. evil
+**Defensive Abilities** DR 10/epic and evil; **Immune** electricity, petrification
 
 #### Offense
 
@@ -34,8 +34,8 @@ At will—aid, continual flame, detect evil, greater teleport (self plus 50 lbs.
 
 #### Statistics
 
-**Str**1,**Dex**11,**Con**12,**Int**6,**Wis**11,**Cha** 10
-**Base Atk**+2;**CMB**–4;**CMD** 6
+**Str** 1, **Dex** 11, **Con** 12, **Int** 6, **Wis** 11, **Cha** 10
+**Base Atk** +2; **CMB** –4; **CMD** 6
 **Feats** Extra Mythic PowerMF, Improved Initiative
 **Skills** Diplomacy +5, Fly +14, Knowledge (planes) +3, Perception +4, Sense Motive +5
 **Languages** Celestial, Draconic, Infernal; truespeech

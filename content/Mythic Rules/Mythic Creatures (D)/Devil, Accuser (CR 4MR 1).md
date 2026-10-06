@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (D)]]"
 XP 1,200
 Pathfinder Roleplaying Game Bestiary 2
 LE Small outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+8/–12, dual initiative;**Senses** darkvision 60 ft.; Perception +9
+**Init** +8/–12, dual initiative; **Senses** darkvision 60 ft.; Perception +9
 
 #### Defense
 
-**AC**18,**touch**15,**flat-footed** 14 (+4 Dex, +3 natural, +1 size)
+**AC** 18, **touch** 15, **flat-footed** 14 (+4 Dex, +3 natural, +1 size)
 **hp** 40 (4d10+18)
-**Fort**+6,**Ref**+10,**Will** +3
-**Defensive Abilities**DR 5/epic and good, or epic and silver;**Immune**fire, poison;**Resist** acid 10, cold 10
+**Fort** +6, **Ref** +10, **Will** +3
+**Defensive Abilities** DR 5/epic and good, or epic and silver; **Immune** fire, poison; **Resist** acid 10, cold 10
 
 #### Offense
 
@@ -33,8 +33,8 @@ At will—greater teleport (self plus 50 lbs. of objects only), invisibility (se
 
 #### Statistics
 
-**Str**11,**Dex**18,**Con**14,**Int**9,**Wis**15,**Cha** 12
-**Base Atk**+4;**CMB**+3;**CMD** 17
+**Str** 11, **Dex** 18, **Con** 14, **Int** 9, **Wis** 15, **Cha** 12
+**Base Atk** +4; **CMB** +3; **CMD** 17
 **Feats** Improved Initiative, Lightning ReflexesMF
 **Skills** Bluff +8, Fly +21, Knowledge (planes) +6, Perception +9, Stealth +15
 **Languages** Celestial, Draconic, Infernal; telepathy 100 ft.
@@ -48,7 +48,7 @@ At will—greater teleport (self plus 50 lbs. of objects only), invisibility (se
 
 #### Special Abilities
 
-**Disease (Ex)**Devil Chills: Bite—injury;**save**Fort DC 14;**onset**1d4 days;**frequency**1 day;**effect**1d4 Str damage;**cure** 3 consecutive saves.
+**Disease (Ex)** Devil Chills: Bite—injury; **save** Fort DC 14; **onset** 1d4 days; **frequency** 1 day; **effect** 1d4 Str damage; **cure** 3 consecutive saves.
 
 **Infernal Eye (Su)** A mythic zebub records all that it sees and may pass its visions on to another creature. By remaining in contact with a willing creature, it can replay up to 24 hours of witnessed events, or shorter incidents if it so chooses. It takes a mythic zebub 1 round to replay 1 hour of recorded images, which the target receives in a flash of information, without sound or other sensory information. After relaying its findings, the mythic zebub cannot replay its visions of those events again.
 

@@ -12,7 +12,7 @@ parent: "[[Spheres Of Might]]"
 
 Conscripts don’t choose a life of battle, they have it thrust upon by them by fate or circumstance. Regardless of how they come to the battlefield, all conscripts who leave it alive do so because of the same two reasons: they have a natural gift for battle, and they figured out how to make do with the tools they had.
 
-**Starting Wealth:** 1d6 x 10 gp (average 35 gp) In addition, each character begins play with an outfit worth 10 gp or less.**Alternatively**, a Conscript may start with 15 GP, an outfit worth 10 GP or less, a melee weapon, a ranged weapon, and a suit of armor (the Conscript must be proficient with the weapons and armor chosen). ([Developer Suggestion](https://paizo.com/threads/rzs42bi5?Rules-Clarification-Scholar#14))
+**Starting Wealth:** 1d6 x 10 gp (average 35 gp) In addition, each character begins play with an outfit worth 10 gp or less. **Alternatively**, a Conscript may start with 15 GP, an outfit worth 10 GP or less, a melee weapon, a ranged weapon, and a suit of armor (the Conscript must be proficient with the weapons and armor chosen). ([Developer Suggestion](https://paizo.com/threads/rzs42bi5?Rules-Clarification-Scholar#14))
 
 **Starting Age:** Self-taught
 
@@ -277,7 +277,7 @@ Combat sphere specialization does not allow the conscript to treat themselves as
 
 #### Squadron Commander (Ex) (2 points)
 
-**Source:** [The Highlander's Handbook](https://www.drivethrurpg.com/product/284514/The-Highlanders-Handbook?affiliate_id=549120)
+*Source: [The Highlander's Handbook](https://www.drivethrurpg.com/product/284514/The-Highlanders-Handbook?affiliate_id=549120)*
 
 Starting at 1st level, and again at 10th and 18th level, the conscript gains 1 squadron feat for which he qualifies as a bonus feat. For the purpose of squadron feat abilities and effects, the conscript has a minimum War caster level equal to 1/2 his class level (minimum 1), using his practitioner modifier as his casting ability modifier. In place of spending a spell point when using squadron feat abilities and effects, he may expend his martial focus. After any rest of 8 hours or longer, the conscript may choose to retrain the squadron feats granted by this ability for any other squadron feat he qualifies for.
 
@@ -550,17 +550,17 @@ The following abilities replace armed intimidator, celebrity combatant and gladi
 
 ### [[Tinker]] [SUE]
 
-**Power Storage (Ex)**: At 3rd level, the conscript can maintain an additional number of battery gizmos equal to 3 + their practitioner modifier; batteries maintained this way do not count against the conscript's gizmo limit.
+**Power Storage (Ex):** At 3rd level, the conscript can maintain an additional number of battery gizmos equal to 3 + their practitioner modifier; batteries maintained this way do not count against the conscript's gizmo limit.
 
-**Quality Guarantee (Ex)**: At 8th level, whenever one of the conscript’s gizmos would be destroyed (such as from taking enough damage), the conscript may expend martial focus as an immediate action. If the conscript does, the gizmo is not destroyed and is instead deactivated and is reduced to 1 hit point.
+**Quality Guarantee (Ex):** At 8th level, whenever one of the conscript’s gizmos would be destroyed (such as from taking enough damage), the conscript may expend martial focus as an immediate action. If the conscript does, the gizmo is not destroyed and is instead deactivated and is reduced to 1 hit point.
 
 In addition, all of the conscript’s gizmos gain the following battery use that may only be used by the conscript:
 
-- **Battery Use**: The user may deplete 1 battery as a swift action to increase the gizmo’s effective gizmo level by +2 for 1 round per 2 gizmo levels. At the end of this effect, the gizmo is deactivated. This increased gizmo level affects the gizmo’s gizmo abilities, such as any bonuses it would grant or how many dice of damage it may deal, but does not increase the gizmo’s “permanent” statistics (such as hit points, or Hit Dice for a *mechanoid*, etc.).
+- **Battery Use:** The user may deplete 1 battery as a swift action to increase the gizmo’s effective gizmo level by +2 for 1 round per 2 gizmo levels. At the end of this effect, the gizmo is deactivated. This increased gizmo level affects the gizmo’s gizmo abilities, such as any bonuses it would grant or how many dice of damage it may deal, but does not increase the gizmo’s “permanent” statistics (such as hit points, or Hit Dice for a *mechanoid*, etc.).
 
 This effective gizmo level increase improves by +1 at level 12 and every 4 levels thereafter.
 
-**Magnum Opus (Ex)**: At 20th level, the conscript may craft a magnum opus. The conscript may only ever have a single magnum opus, and crafting a new magnum opus immediately causes the previous magnum opus to become abandoned and destroyed.
+**Magnum Opus (Ex):** At 20th level, the conscript may craft a magnum opus. The conscript may only ever have a single magnum opus, and crafting a new magnum opus immediately causes the previous magnum opus to become abandoned and destroyed.
 
 A magnum opus is any gizmo the conscript could craft, except the conscript may have the magnum opus’s effective gizmo level be equal to the conscript’s ranks in their Tinker sphere associated skill + the conscript’s practitioner modifier. A magnum opus’s gizmo level cannot exceed twice the conscript’s ranks in the associated skill.
 
@@ -640,7 +640,7 @@ The following feats are particularly appropriate or useful for conscripts
 
 #### Hybridized Specialty [3PP]
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
 **Prerequisites:** Sphere Specialization or Professional Method class feature
 
@@ -656,8 +656,8 @@ The following magical item is especially appropriate for conscripts.
 
 #### Expert’s Battle Kit [TS:WAT]
 
-**Aura**faint War;**CL** 3rd
-**Slot**any;**Price**15,000 gp;**Weight** 2 lbs.
+**Aura** faint War; **CL** 3rd
+**Slot** any; **Price** 15,000 gp; **Weight** 2 lbs.
 
 This collection of straps, hooks, and general tools can help a warrior unleash new techniques in the thick of combat. While equipped in any slot by a creature with the combat specializations class feature and three levels in the conscript class, an expert’s battle kit grants the 3rd-level ability of a single conscript sphere specialization, chosen when the kit is made. A creature cannot benefit from more than one of these kits at a time, and must possess the base sphere associated with the specialization to make use of this effect. Equipping or removing one of these kits takes a full-round action.
 

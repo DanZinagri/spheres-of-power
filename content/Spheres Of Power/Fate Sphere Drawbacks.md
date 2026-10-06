@@ -11,37 +11,37 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Cursed Brew
+#### Cursed Brew
 
 You must select the Instill Fate talent with the bonus talent granted by this drawback, and you can only use your Fate sphere abilities through this talent. You must possess the Tongue Of Ages drawback to gain this one.
 
-## Luckless
+#### Luckless
 
 You cannot use the Serendipity consecration. You must choose a (consecration) talent with the bonus talent gained from this drawback.
 
 **Incompatible:** Tongue Of Ages
 
-## Neutrality
+#### Neutrality
 
 You lack a strong connection to any alignment type. You cannot use the Hallow word. You must choose a (word) talent with the bonus talent gained from this drawback.
 
 **Incompatible:** Sanctified
 
-## Non-Judgemental [DbH]
+#### Non-Judgemental [DbH]
 
 Your Fate sphere abilities treat creatures as not possessing an alignment unless they possess the chaotic, evil, good, or lawful subtypes or draw their abilities from a source with such subtypes (gods should generally be considered outsiders with subtypes corresponding to their alignment for the purposes of this drawback). Such creatures are treated as if they had alignments corresponding to their subtypes. You must use this drawback to select one of the following talents: Align Object, Divine Force, Divine Pressure, or Enmity.
 
-## Personal Fate
+#### Personal Fate
 
 You may only target yourself with your words and motifs, and your consecrations only affect you. You cannot take Echoing Word or any other talent that would increase the range or expand the targets for your Fate sphere effects.
 
-## Sanctified
+#### Sanctified
 
 You may not create words.
 
 **Incompatible:** Neutrality
 
-## Tongue Of Ages
+#### Tongue Of Ages
 
 You may not create consecrations.
 

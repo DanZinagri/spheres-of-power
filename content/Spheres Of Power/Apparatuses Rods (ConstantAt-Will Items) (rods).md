@@ -30,8 +30,8 @@ Here is a quick pricing chart for apparatuses that have the same caster level an
 
 ### Amulet of Channeled Might [TS]
 
-**Aura**faint Death and Life;**CL** 3rd
-**Slot**neck or held;**Price**18,000 gp;**Weight** 2 lbs.
+**Aura** faint Death and Life; **CL** 3rd
+**Slot** neck or held; **Price** 18,000 gp; **Weight** 2 lbs.
 
 This silver amulet can be held or worn around the neck. Each amulet of channeled might contains two feats that have some form of channel energy as a prerequisite (sufficiently similar feats may also be included, at the GM’s discretion). Any creature wearing or holding an amulet of channeled might gains the effects of the feats they contain as long as they meet the prerequisites for those feats. Dual channeler soul weavers count as possessing any alignment and worshiping any deity when determining whether or not they meet the prerequisites for a channeling feat. A creature can only benefit from one amulet of channeled might at a time, even if they craft it for a different slot. Some popular amulets include:
 
@@ -47,8 +47,8 @@ Craft Apparatus, Death sphere, Life sphere, each of the feats included in the am
 
 ### Amulet of Channeled Might, Greater [TS]
 
-**Aura**faint Death and Life;**CL** 4th
-**Slot**neck or Held;**Price** 32,000 gp; Weight 2 lbs.
+**Aura** faint Death and Life; **CL** 4th
+**Slot** neck or Held; **Price** 32,000 gp; Weight 2 lbs.
 
 As an amulet of channeled might, but it contains three feats instead of two. Common choices include series of feats, such as Channel ForceARG, Improved Channel ForceARG, and Greater Channel ForceARG. A crafter can upgrade an amulet of channeled might into a greater amulet by spending the appropriate time and resources to cover the difference in Price.
 
@@ -57,8 +57,8 @@ Craft Apparatus, Death sphere, Life sphere, each of the feats included in the am
 
 ### Amulet of Soulreaving [TS]
 
-**Aura**faint Death and Life;**CL** 3rd
-**Slot**neck;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Death and Life; **CL** 3rd
+**Slot** neck; **Price** 18,000 gp; **Weight** 1 lb.
 
 This silver amulet contains a gem that appears to be half moonstone and half obsidian. When worn by a character with the bound nexus class feature, that character can spend a soul as an immediate action to impose a -4 penalty on one attack roll from a creature within 40 feet of the soul expended and that the soul weaver can see (or is otherwise sense attacks from, such as through some special senses). This effect can be used after the attack roll has been made. A soul weaver can use the powers of this amulet once per day without expending a soul, but the target must be within 40 feet of them.
 
@@ -67,8 +67,8 @@ Craft Apparatus, Death sphere, Life sphere; **Cost** 9,000 gp
 
 ### Animate Wand Bracers
 
-**Aura**faint Enhancement and Mind;**CL** 5th
-**Slot**wrist;**Price**4,200 gp;**Weight** 1 lb.
+**Aura** faint Enhancement and Mind; **CL** 5th
+**Slot** wrist; **Price** 4,200 gp; **Weight** 1 lb.
 
 **Description**
 While this appears to be a normal wand bracer, it has been animated to perform its duties automatically, responding to mental signals from their wearer. Drawing and stowing wands from this bracer is a free action that can be performed even when it is not your turn.
@@ -78,8 +78,8 @@ Craft Apparatus, Enhancement sphere (Animate Object (enhance)), Mind sphere (Rea
 
 ### Arcane Orrery
 
-**Aura**moderate Illusion;**CL** 10th
-**Slot**none;**Price**10,000 gp;**Weight** 5 lbs.
+**Aura** moderate Illusion; **CL** 10th
+**Slot** none; **Price** 10,000 gp; **Weight** 5 lbs.
 
 **Description**
 This small leather case can be opened to reveal illusory floating spheres orbiting each other in an indiscernible pattern, tied together with magical texts flowing and shifting, describing their relationships to each other. Setting up the arcane orrery is a standard action. Using it while researching a new ritual or spellcrafting a new spell grants a +5 insight bonus on Spellcraft checks to create the ritual or spell.
@@ -89,8 +89,8 @@ Craft Apparatus; Craft Ritual or Spellcrafting; **Cost** 5,000 gp
 
 ### Bandolier of Grenades
 
-**Aura**faint Destruction;**CL**3rd;**Scaling** wonder
-**Slot**belt or chest;**Price**900 gp;**Weight** 1 lb.
+**Aura** faint Destruction; **CL** 3rd; **Scaling** wonder
+**Slot** belt or chest; **Price** 900 gp; **Weight** 1 lb.
 
 **Description**
 This seemingly common bandolier has 5 empty ‘slots’ which can each properly store a single alchemical creation (such as an acid flask or alchemist’s fire), magical dust, oil, or potion (or another similarly shaped object at the GM’s discretion). Objects stored in these slots can be retrieved as a move action.
@@ -105,8 +105,8 @@ Craft Apparatus, Destruction sphere (Energy Bomb (blast shape)); **Cost** 132,00
 
 ### Bludgeoner’s Rod
 
-**Aura**strong Destruction;**CL** 15th
-**Slot**none;**Price**72,305 gp;**Weight** 5 lbs.
+**Aura** strong Destruction; **CL** 15th
+**Slot** none; **Price** 72,305 gp; **Weight** 5 lbs.
 
 **Description**
 This rod functions as a +2 light mace, but also has a button that, when pressed (a move action), charges the mace head with magical force. The first attack made with this rod before the end of the wielder’s turn deals an extra 15d6 bludgeoning damage.
@@ -116,8 +116,8 @@ Craft Apparatus, Smith Magical Weapons And Armor, Destruction sphere; **Cost** 3
 
 ### Blurring Bandana [TS]
 
-**Aura**moderate Time;**CL** 6th
-**Slot**headband;**Price**72,000 gp;**Weight** 4 lbs.
+**Aura** moderate Time; **CL** 6th
+**Slot** headband; **Price** 72,000 gp; **Weight** 4 lbs.
 
 This bandana provides the effects of the After Image (time) talent when worn, allowing the bearer to appear like they are in multiple places at once and giving them concealment with a 30% miss chance against attacks. Many warriors find it disconcerting to have this on all the time, so they only don it before battle.
 
@@ -126,8 +126,8 @@ Craft Apparatus, Time sphere (After Image (time)); **Cost** 36,000 gp
 
 ### Bonded Notebooks
 
-**Aura**faint Divination;**CL** 5th
-**Slot**none;**Price**5,000 gp;**Weight** 2 lbs. (set)
+**Aura** faint Divination; **CL** 5th
+**Slot** none; **Price** 5,000 gp; **Weight** 2 lbs. (set)
 
 **Description**
 A set of two identical leather-bound books of modest size, permanently linked to each other when created. Whatever is written in one book instantaneously appears on the corresponding page of the other, so long as they are on the same plane. Each page can hold up to 100 words and each book contains 50 pages. The backs and fronts of pages can be written on. A bonded notebook cannot be fitted with new pages; once the space inside has been used, the bonded notebooks become virtually worthless.
@@ -137,8 +137,8 @@ Craft Apparatus, Divination sphere; **Cost** 2,500 gp
 
 ### Bonded Quills
 
-**Aura**faint Creation and Divination;**CL** 5th
-**Slot**none;**Price**5,000 gp;**Weight** -
+**Aura** faint Creation and Divination; **CL** 5th
+**Slot** none; **Price** 5,000 gp; **Weight** -
 
 **Description**
 These feather quills come in pairs. Each quill functions as a quill of endless ink. When both are held by a willing creature, any writing produced by one quill is instantly reproduced by the other, so long as both are on the same plane. A creature holding one quill is always aware if the other quill is being held by a willing creature, though no other information about that creature is gained. This cannot be used to create two copies at once of a scroll, spellbook, or other magical writing.
@@ -148,8 +148,8 @@ Craft Apparatus, Creation sphere, Divination sphere; **Cost** 2,500 gp
 
 ### Boots of Striding
 
-**Aura**faint Enhancement;**CL** 3rd
-**Slot**feet;**Price**3,000 gp;**Weight** 1 lbs.
+**Aura** faint Enhancement; **CL** 3rd
+**Slot** feet; **Price** 3,000 gp; **Weight** 1 lbs.
 
 These boots provide a +10 enhancement bonus to the wearer’s base land speed.
 
@@ -158,8 +158,8 @@ Craft Apparatus, Enhancement sphere (Alter Movement (enhance)); **Cost** 1,500 g
 
 ### Bottomless Flask
 
-**Aura**faint Warp;**CL** 5th
-**Slot**none;**Price**1,000 gp;**Weight** 2 lbs.
+**Aura** faint Warp; **CL** 5th
+**Slot** none; **Price** 1,000 gp; **Weight** 2 lbs.
 
 **Description**
 This ornate and surprisingly weighty hip flask appears to be made out of silver, and its stopper is decorated with five small gems of different colors. It does not appear to be able to hold more than a pint, but the flask can open into five separate extradimensional spaces, each of which can hold up to 20 gallons. These spaces do not mix or overlap, so the contents are kept separate and uncontaminated; in addition, they can safely store volatile substances such as acid or alchemist’s fire. The different spaces can be accessed by twisting the stopper so that a different gem faces the front of the flask, which can be done as a swift action. The flask can pour out a maximum of one pint per round (or a single flask of an alchemical substance) into a square within the wielder’s reach. If broken, the flask is ruined and all contents are lost in extradimensional space.
@@ -169,8 +169,8 @@ Craft Apparatus, Warp sphere (Extradimensional Storage (space)); **Cost** 500 gp
 
 ### Bracelet of Everlasting Friendship [TS]
 
-**Aura**moderate Protection;**CL** 6th
-**Slot**wrist;**Price**72,000 gp;**Weight** 4 lbs.
+**Aura** moderate Protection; **CL** 6th
+**Slot** wrist; **Price** 72,000 gp; **Weight** 4 lbs.
 
 This gold bracelet grants its wearer the Friendship aegis, which allows all of their allies to exclude them from many sphere effects and supernatural abilities that affect an area. Casters often give this bracelet to their warrior friends, allowing them to cast their most destructive attacks with no fear of hitting their beefy barrier.
 
@@ -179,8 +179,8 @@ Craft Apparatus, Protection sphere (Friendship (aegis)); **Cost** 36,000 gp
 
 ### Brawler’s Vest [TS]
 
-**Aura**moderate Enhancement;**CL** 10th
-**Slot**body;**Price**13,000 gp;**Weight** 1 lb.
+**Aura** moderate Enhancement; **CL** 10th
+**Slot** body; **Price** 13,000 gp; **Weight** 1 lb.
 
 When worn, this vest allows any practitioner with at least 1 talent in an unarmed sphere (Boxing, Brute, Open Hand, or Wrestling) to calculate their damage with unarmed strikes as if they knew four additional talents from unarmed spheres. In addition, the wearer gains a +1 dodge bonus to their armor class. These effects do not stack with the monk’s robe or similar items. If the wearer does not have any talents in unarmed spheres or Improved Unarmed Strike, they may instead gain Improved Unarmed Strike as a bonus feat or the base effects of an unarmed sphere.
 
@@ -189,8 +189,8 @@ Craft Apparatus, Enhancement sphere (Natural Enhancement); **Cost** 6,500 gp
 
 ### Cloak of Weather Resistance, Minor [TS]
 
-**Aura**moderate Weather;**CL** 5th
-**Slot**shoulders;**Price**20,000 gp;**Weight** 2 lbs.
+**Aura** moderate Weather; **CL** 5th
+**Slot** shoulders; **Price** 20,000 gp; **Weight** 2 lbs.
 
 Minor cloaks of weather resistance allow the bearer to treat one type of weather as two steps less severe. Most buyers only purchase these items if they or their allies are powerful weather mages, or if they plan to go into areas of extremely dangerous weather.
 
@@ -199,8 +199,8 @@ Craft Apparatus, Weather sphere (Clear Skies (mantle, all)); **Cost** 10,000 gp
 
 ### Cloak of Weather Resistance, Greater [TS]
 
-**Aura**moderate Weather;**CL** 5th
-**Slot**shoulders;**Price**30,000 gp;**Weight** 2 lbs.
+**Aura** moderate Weather; **CL** 5th
+**Slot** shoulders; **Price** 30,000 gp; **Weight** 2 lbs.
 
 Greater cloaks of weather resistance allow the bearer to treat all types of weather as two steps less severe.
 
@@ -209,8 +209,8 @@ Craft Apparatus, Weather sphere (Clear Skies (mantle, all)); **Cost** 15,000 gp
 
 ### Crimson Flask
 
-**Aura**faint Blood;**CL** 5th
-**Slot**none;**Price**2,000 gp (least), 8,000 gp (lesser), 16,000 gp (greater);**Weight** 1 lb.
+**Aura** faint Blood; **CL** 5th
+**Slot** none; **Price** 2,000 gp (least), 8,000 gp (lesser), 16,000 gp (greater); **Weight** 1 lb.
 
 **Description**
 Creatures with the Reservoir feat may spend a full-round action filling this flask with stolen blood, transferring blood points into the flask. The quality of the flask determines how many points it may hold: least - 2, lesser - 4, greater - 6. Reservoir points do not expire while in the crimson flask. A creature possessing the flask may open it as a move action. While holding an open flask, the holder may spend reservoir points as if those points were in its reserve.
@@ -220,8 +220,8 @@ Craft Apparatus, Blood sphere; **Cost** 1,000 gp (least), 4,000 gp (lesser), 8,0
 
 ### Doom Cannon
 
-**Aura**moderate Destruction;**CL** 10th
-**Slot**none;**Price**50,000 gp;**Weight** 4,500 lbs.
+**Aura** moderate Destruction; **CL** 10th
+**Slot** none; **Price** 50,000 gp; **Weight** 4,500 lbs.
 
 **Description**
 A huge cylinder, protecting an array of magically treated focusing crystals, mounted on a wheeled carriage. The doom cannon may be moved, aimed, and fired as a mundane fiendsmouth cannon1, but requires no ammunition or loading. The cannon deals 10d6 untyped damage as per the Disintegration talent with a range of 200 feet with a x2 critical multiplier, or automatically destroys a 10-foot cube of nonliving matter. If a doom cannon with the broken condition experiences a misfire, the blast damage is dealt in a 20-foot radius of the cannon and the weapon is destroyed.
@@ -232,8 +232,8 @@ Craft Apparatus, Destruction sphere (Disintegrate (advanced, blast type)); **Cos
 
 ### Dragonstone [TS]
 
-**Aura**moderate Alteration;**CL** 10th
-**Slot**neck;**Price**140,000 gp;**Weight** 2 lbs.
+**Aura** moderate Alteration; **CL** 10th
+**Slot** neck; **Price** 140,000 gp; **Weight** 2 lbs.
 
 Dragonstones are extremely rare, powerful gems set into golden necklaces. When donned, they shapeshift the user as per the Dragon Transformation talent, with a doubled breath weapon size, two wings with a fly speed of 50 feet and maneuverability (poor), and two size category increases (to a maximum of Huge). Dragonstones always transform the bearer into the same type of dragon, with the same choice for their breath weapon, which are chosen when this item is crafted. Most dragonstones are made from gems of the same color as the type of dragon they turn the user into, and the necklace grows with the wearer to continue fitting at their larger size.
 
@@ -242,8 +242,8 @@ Craft Apparatus, Alteration sphere (Avian Transformation (transformation), Drago
 
 ### Field Researcher’s Lenses
 
-**Aura**faint Divination and Destruction;**CL** 10th
-**Slot**eyes;**Price**15,000 gp;**Weight** -
+**Aura** faint Divination and Destruction; **CL** 10th
+**Slot** eyes; **Price** 15,000 gp; **Weight** -
 
 **Description**
 These glasses are sturdier than they look, and stay unnaturally clean as grime slides off them. When worn by someone with the studied strike class feature (such as an investigator), the damage from his or her studied strike increases by 1d6. In addition, whenever they make a studied strike, they may spend a spell point to double the number of dice rolled.
@@ -253,8 +253,8 @@ Craft Apparatus; **Cost** 7,500 gp
 
 ### Foldable Circle
 
-**Aura**moderate Conjuration;**CL** 6th
-**Slot**none;**Price**Small 2,000 gp, Medium 4,000 gp, Large 8,000 gp, Huge 16,000 gp;**Weight** Small 1 lb., Medium 4 lbs., Large 16 lbs., Huge 64 lbs.
+**Aura** moderate Conjuration; **CL** 6th
+**Slot** none; **Price** Small 2,000 gp, Medium 4,000 gp, Large 8,000 gp, Huge 16,000 gp; **Weight** Small 1 lb., Medium 4 lbs., Large 16 lbs., Huge 64 lbs.
 
 **Description**
 A heavy cloth mat with a binding circle worked in silver and cold iron threads. A Small circle may be deployed as a standard action (or two creatures performing move actions), a Medium or Large may be deployed as a full-round action (or two creatures performing standard actions or four creatures performing move actions), and a Huge deployed as a 1 round action (or two creatures performing full-round actions or four creatures performing standard actions) and may be gathered and stowed with the same actions. These actions provoke attacks of opportunity.
@@ -266,8 +266,8 @@ Craft Apparatus, Conjuration sphere (Diagram (advanced)); **Cost** Small 1,000 g
 
 ### Force Hook
 
-**Aura**faint Telekinesis;**CL** 4th
-**Slot**none;**Price**1,000 gp;**Weight** 1 lb.
+**Aura** faint Telekinesis; **CL** 4th
+**Slot** none; **Price** 1,000 gp; **Weight** 1 lb.
 
 **Description**
 This short metal rod fits well into the hand and is small enough that it is barely longer than a clenched fist. You may activate it as a move action and cause it to telekinetically hook on to a solid, inanimate surface within 200 feet, allowing it to act as if you had a rope securely linked between the rod and that surface. A second move action causes the hook to retract, drawing the rod and its wielder towards the surface at a rate of 50 feet per round. You may also use a free action to disconnect the hook from any surface it is attached to. The hook can support a load of up to Huge size.
@@ -277,8 +277,8 @@ Craft Apparatus, Telekinesis sphere (Tether); **Cost** 500 gp
 
 ### Gentle Shade Trinket [Gravecaller's HB]
 
-**Aura**faint Dark;**CL** 7th
-**Slot**none;**Price**3,000 gp;**Weight** 0 lb.
+**Aura** faint Dark; **CL** 7th
+**Slot** none; **Price** 3,000 gp; **Weight** 0 lb.
 
 **Description**
 A popular item amongst vampires, underground dwellers who frequently travel to the surface, and wealthy individuals who easily sunburn, this trinket is often fashioned in the shape of a broach or pin, lustrous onyx inlaid into silver.
@@ -294,8 +294,8 @@ Craft Apparatus, Dark (Dampen Light); **Cost** 1,500 gp
 
 ### Gleam Brush
 
-**Aura**faint Light;**CL** 3rd
-**Slot**none;**Price**200 gp;**Weight** —
+**Aura** faint Light; **CL** 3rd
+**Slot** none; **Price** 200 gp; **Weight** —
 
 **Description**
 A gleam brush takes the form of a handheld brush with a wooden handle decorated with colored whorls and spirals. This magic brush is considered a masterwork tool for appropriate Craft skills (such as calligraphy or painting) and creates ink of any color, changing to any color the user imagines as a free action; the ink glows, increasing the light level by one step 5 feet around it. The ink created by a gleam brush is nonmagical and permanent, and may be cleaned up or removed from surfaces as normal ink can. A gleam brush never runs out of ink. Different styles of brush can be found and produced, ranging from fine tipped ink brushes to wide, thick paintbrushes, but they are always small enough to be held in one hand.
@@ -305,8 +305,8 @@ Craft Apparatus, Light sphere (Style); **Cost** 100 gp
 
 ### Gold Sink [TS]
 
-**Aura**faint Creation;**CL** 10th
-**Slot**none;**Price**varies (see text);**Weight** varies (see text)
+**Aura** faint Creation; **CL** 10th
+**Slot** none; **Price** varies (see text); **Weight** varies (see text)
 
 The gold sink is an unusual magic item. While it starts its existence with a price of just 100 gp and looking like a thin golden bowl, it is possible to increase the value of the gold sink by pouring coins, gems, and similarly precious items into its basin. The sink absorbs them and grows equally heavier and more expensive as valuables are added to it, automatically adjusting its shape and size to display as many non-coin treasures on its surface as possible. For example, it may display jewels around a mirror, or display a painting on a panel. This absorption cannot be reversed except by means of a miracle or wish spell, which can convert up to 10% of the gold sink’s highest ever value into their original components (shrinking the sink appropriately).
 
@@ -315,8 +315,8 @@ Craft Apparatus, Creation sphere (Costly Creation (advanced), Fabricate (advance
 
 ### Gremlin Bells
 
-**Aura**faint Fallen Fey and Protection;**CL** 3rd
-**Slot**none;**Price**1,000 gp;**Weight** 1 lb.
+**Aura** faint Fallen Fey and Protection; **CL** 3rd
+**Slot** none; **Price** 1,000 gp; **Weight** 1 lb.
 
 **Description**
 These delicate bells, no more than an inch high each, are crafted from bronze, brass, or other semi-precious metals and strung up over doors, windows, or objects which the owner wishes to keep from gremlins. Gremlins that comes within 20 feet of a set of bells affixed to an object are nauseated and prevented from using any supernatural or spell-like abilities.
@@ -326,8 +326,8 @@ Craft Apparatus, Fallen Fey sphere, Protection sphere; **Cost** 500 gp
 
 ### Grig Fiddle
 
-**Aura**faint Fallen Fey and Mind;**CL** 3rd
-**Slot**none;**Price**8,200 gp;**Weight** 2 lbs.
+**Aura** faint Fallen Fey and Mind; **CL** 3rd
+**Slot** none; **Price** 8,200 gp; **Weight** 2 lbs.
 
 **Description**
 This exquisitely made fiddle bears fine carvings depicting fey and mortals cavorting joyously. In addition to being a masterwork stringed instrument, a skilled player can mimic the enchanting music of the grig, compelling those around them to dance. As a standard action, the bearer may play, forcing all creatures within a 20-foot radius to dance and caper unless they succeed on a Will save with a DC equal to 10 + 1/2 the player’s rank in Perform (strings) + the player’s Charisma modifier. This effect lasts for as long as the creature remains within the area of effect. The bearer may continue to play as a standard action. Treat this effect as being staggered. Once a creature succeeds at the save against a grig fiddle, it is immune to that fiddle for 24 hours. This is a sonic mind-affecting compulsion effect.
@@ -338,7 +338,7 @@ Craft Apparatus, Fallen Fey sphere, Mind sphere; **Cost** 4,200 gp
 ### Headband of Psionic Reach [TS]
 
 **Aura** faint Mind; CL 3rd
-**Slot**headband;**Price**18,000 gp;**Weight** 1 lb.
+**Slot** headband; **Price** 18,000 gp; **Weight** 1 lb.
 
 This ornate cloth headband has strange runes sewn into it. When worn by a character with the psionics class feature - usually symbiats - it increases the range of two of the character’s psionic powers by 30 feet. The psionic powers that benefit from this item can be changed whenever the user regains spell points, but must have an initial range of at least 60 feet.
 
@@ -347,8 +347,8 @@ Craft Apparatus, Mind sphere; **Cost** 9,000 gp
 
 ### Keyhome
 
-**Aura**strong Warp;**CL** 15th
-**Slot**none;**Price**40,000 gp;**Weight** —
+**Aura** strong Warp; **CL** 15th
+**Slot** none; **Price** 40,000 gp; **Weight** —
 
 **Description**
 Though their shape and style can drastically differ, every keyhome takes the form of a key, typically attached to a chain or keyring. As a standard action the key can be turned as if in a lock to open a 10-foot square doorway to an extradimensional space unique to that key. The extradimensional space has a volume of ten 10-foot cubes arranged contiguously, with the exact layout being determined when the keyhome is made. Anything placed within the extradimensional space remains there even when the doorway is closed, and travels with the keyhome. The key can be used to close the doorway with a standard action.
@@ -360,8 +360,8 @@ Craft Apparatus, Warp sphere (Extradimensional Room (2x) (space), Extradimension
 
 ### Lantern of Full Sight
 
-**Aura**moderate Light;**CL** 9th
-**Slot**none;**Price**54,000 gp;**Weight** 4 lbs.
+**Aura** moderate Light; **CL** 9th
+**Slot** none; **Price** 54,000 gp; **Weight** 4 lbs.
 
 **Description**
 This lantern creates bright light in a 70-foot radius, and raises the light level by one step to a maximum of normal light for 70 feet beyond this. Any invisible creature within this area of bright light becomes immediately visible, losing all benefits of invisibility.
@@ -371,8 +371,8 @@ Craft Apparatus, Light sphere; **Cost** 27,000 gp
 
 ### Medic Satchel
 
-**Aura**faint Creation;**CL**2nd;**Scaling** wonder
-**Slot**belt or chest;**Price**250 gp;**Weight** 1 lb.
+**Aura** faint Creation; **CL** 2nd; **Scaling** wonder
+**Slot** belt or chest; **Price** 250 gp; **Weight** 1 lb.
 
 **Description**
 This white leather satchel is embossed with a healer’s insignia (usually the symbol of a deity with the healing domain). The bag has clasps that allow it to be easily attached to either the waist or the chest. Inside the satchel are various bandages normally found inside a healer’s kit. A medic satchel has enough bandages for 10 uses of a healer’s kit (called charges). Unlike the kit however, this satchel regains all charges at the beginning of each day, and can be fully recharged instantaneously by spending 1 spell point. Also like the healer’s kit, the medic satchel grants a +2 circumstance bonus to Heal checks, and counts as a healer’s kit for the purpose of skills, feats, or abilities.
@@ -391,8 +391,8 @@ Craft Apparatus, Creation sphere; **Cost** 7,750 gp
 
 ### Miniature Orrery
 
-**Aura**faint Divination;**CL** 4th
-**Slot**none;**Price**1,000 gp;**Weight** 1 lb.
+**Aura** faint Divination; **CL** 4th
+**Slot** none; **Price** 1,000 gp; **Weight** 1 lb.
 
 **Description**
 This small brass sphere fits easily into the hand, and with a command becomes transparent, revealing the motes of light moving within it. Each mote represents a celestial body, and put together the lights of a miniature orrery accurately depict their current positions in the sky. Using a miniature orrery you can always determine the precise time and which direction true north lies in relation to yourself. In addition, it grants a +4 circumstance bonus on Survival checks made to avoid getting lost, and with a DC 20 Knowledge (geography) check you can determine your approximate location in the world and the current date.
@@ -402,8 +402,8 @@ Craft Apparatus, Divination sphere, Light sphere; **Cost** 500 gp
 
 ### Patch Hole
 
-**Aura**moderate Warp;**CL** 6th
-**Slot**none;**Price**7,500 gp;**Weight** —
+**Aura** moderate Warp; **CL** 6th
+**Slot** none; **Price** 7,500 gp; **Weight** —
 
 **Description**
 A patch hole is a black circle of cloth nearly identical in appearance to a portable hole. It is 6 feet in diameter, can be folded as small a pocket handkerchief, and lightly adheres to surfaces it is spread against, allowing it to easily be placed on ceilings and walls. When fully spread on a surface it bends space, creating a cylindrical hole 10 feet deep in whatever surface it was placed on. The created hole lasts for 1 minute before reverting to cloth, and may be activated three times per day as a standard action. A patch hole otherwise functions as Create Gap.
@@ -413,8 +413,8 @@ Craft Apparatus, Warp sphere (Create Gap (space)); **Cost** 3,750 gp
 
 ### Periapt of Peace
 
-**Aura**faint Fate;**CL** 1st
-**Slot**neck;**Price**50 gp;**Weight** 1/10 lb.
+**Aura** faint Fate; **CL** 1st
+**Slot** neck; **Price** 50 gp; **Weight** 1/10 lb.
 
 **Description**
 This small golden amulet is intricately wrought and holds a single iridescent gem. While willingly worn by a creature (and no abilities can fool it into thinking somebody willingly wants to wear it, including those from mythic sources), this item prevents any of the wearer's attacks from bringing a creature to 0 hit points or lower. This includes their weapon attacks, spells, sphere effects, or even triggering environmental traps on foes. While worn in the neck slot, this item does not count against the user's magic item slots, and a creature may wear another item in that slot.
@@ -424,8 +424,8 @@ Craft Apparatus, Merciful spell, Fate sphere (Mercy); **Cost** 25 gp
 
 ### Pocket of Holding
 
-**Aura**faint Warp;**CL** 3rd
-**Slot**none;**Price**200 gp;**Weight** 1/2 lb.
+**Aura** faint Warp; **CL** 3rd
+**Slot** none; **Price** 200 gp; **Weight** 1/2 lb.
 
 **Description**
 This small cloth bag easily fits in the hand, but opens into an extradimensional space that can store up to 1 cubic foot of material or 10 pounds. They can also be designed as pockets and sewn into normal or magical clothing.
@@ -435,8 +435,8 @@ Craft Apparatus, Warp sphere (Extradimensional Storage (space)); **Cost** 100 gp
 
 ### Primordial Clay
 
-**Aura**faint Creation;**CL** 5th
-**Slot**none;**Price**150 gp per pound;**Weight** 1 lb.
+**Aura** faint Creation; **CL** 5th
+**Slot** none; **Price** 150 gp per pound; **Weight** 1 lb.
 
 **Description**
 This substance has a light gray color and is frequently found in hardened balls. Characters with the Creation sphere quickly recognize what it is. Primordial clay is extremely easy to manipulate with magic, and a sphere caster can use it in concert with their Creation sphere abilities. Whenever the sphere caster creates an object with weight equal to or less than the amount of primordial clay they possess (and wish to use), they may use the clay, forming it into whatever they wish to create.
@@ -448,8 +448,8 @@ Craft Apparatus; **Cost** 75 gp per pound
 
 ### Quill of Endless Ink
 
-**Aura**faint Creation;**CL** 1st
-**Slot**none;**Price**80 gp;**Weight** -
+**Aura** faint Creation; **CL** 1st
+**Slot** none; **Price** 80 gp; **Weight** -
 
 **Description**
 This feather quill is perpetually supplied with ink, creating enough to write continuously, though never dripping. The quill usually comes with a small metal carrying case capable of safely holding up to three quills. Some quills are created with special inks; 5 vials of the special ink are consumed in the process of crafting a quill with a special ink. Each quill can only use one type of ink.
@@ -459,8 +459,8 @@ Craft Apparatus, Creation sphere; **Cost** 40 gp
 
 ### Ring of Elemental Conflux [TS]
 
-**Aura**faint Destruction;**CL** 3rd
-**Slot**ring;**Price**18,000 gp;**Weight** 1 lb.
+**Aura** faint Destruction; **CL** 3rd
+**Slot** ring; **Price** 18,000 gp; **Weight** 1 lb.
 
 This shiny silver ring contains a single (blast type) talent that the wearer can use as if it were their own while they are wearing it. When worn by a character with the favored element class feature, it changes their first favored element to the blast type group that the talent this ring contains belongs to. If the blast type talent does not belong to an existing group, the GM should create a new group for it. This bonus does not stack with any other favored elements a character has, and a character cannot wear more than one of these rings; if they try to, all of them stop functioning until a creature is only wearing one of them.
 
@@ -469,8 +469,8 @@ Craft Apparatus, Destruction sphere (any (blast type) talent); **Cost** 9,000 gp
 
 ### Rod of Lifegiving [TS]
 
-**Aura**moderate Life;**CL** 6th
-**Slot**none;**Price**72,000 gp;**Weight** 4 lbs.
+**Aura** moderate Life; **CL** 6th
+**Slot** none; **Price** 72,000 gp; **Weight** 4 lbs.
 
 This slender white rod is about three feet long and carved with symbols of life. Often dubbed “the healstick” by adventuring parties, it is far more expensive than most rookie groups can afford but held in high regard by adventuring parties who understand its true value. While held, the rod of lifegiving provides fast healing 1 to the holder.
 
@@ -483,8 +483,8 @@ Yes, the price is correct. The Rod of Lifegiving is in an interesting spot becau
 
 ### Rod of Spell Disruption
 
-**Aura**faint universal;**CL** 5th
-**Slot**none;**Price**10,000 gp;**Weight** 8 lbs.
+**Aura** faint universal; **CL** 5th
+**Slot** none; **Price** 10,000 gp; **Weight** 8 lbs.
 
 **Description**
 The length of this cold iron rod is covered in intricate runes. The wielder of this rod may attempt to dispel an ongoing magical effect within 150 feet as per the Counterspell feat. The rod possesses an MSB of +5. This rod may also be used as a readied action to counterspell an effect per the same feat. This rod may be improved, increasing its MSB by +1 for every 2,000 additional gp spent (1,000 gp additional cost when crafting), but its MSB cannot exceed that of the creature crafting or improving it.
@@ -494,8 +494,8 @@ Craft Apparatus, Creation sphere; **Cost** 5,000 gp
 
 ### Scourging Symbol [TS]
 
-**Aura**strong War;**CL** 20th
-**Slot**any;**Price**80,000 gp;**Weight** 2 lbs.
+**Aura** strong War; **CL** 20th
+**Slot** any; **Price** 80,000 gp; **Weight** 2 lbs.
 
 This fearsome symbol is a controlled portal attuned to the elemental planes, marked onto a metal plate that can be worn in any of the bearer’s magical item slots. Whenever an enemy is within 50 feet, even if not detected by the wearer, this symbol pulses once each round and deals 10 acid, cold, electricity, or fire damage to all enemies within range. This is a spread effect and can go around corners, but does not penetrate solid barriers or damage objects (unless those objects are enemies).
 
@@ -506,8 +506,8 @@ Craft Apparatus, War sphere (Scourging Totem (totem)); **Cost** 40,000 gp
 
 ### Seamstress Cuffs
 
-**Aura**faint Creation;**CL**2nd;**Scaling** prize
-**Slot**wrists;**Price**150 gp;**Weight** 1/2 lb.
+**Aura** faint Creation; **CL** 2nd; **Scaling** prize
+**Slot** wrists; **Price** 150 gp; **Weight** 1/2 lb.
 
 **Description**
 These intricately made cuffs veil a collection of pearl-headed pins behind beautiful embroidery, and spare needles between the seams. If a pin or needle becomes damaged, or otherwise distances itself from the cuffs for more than 400 feet, the old pin or needle becomes destroyed, and a new one is instantaneously created on the cuff. Pulling on a single thread of the embroidery will cause it to slowly unravel itself until cut, although no more than 400 feet of thread may be produced by the cuffs per day.
@@ -521,8 +521,8 @@ Craft Apparatus, Creation sphere (Expanded Materials (material), Exquisite Detai
 
 ### Shackles of the Unbroken Circle
 
-**Aura**moderate Mind;**CL** 10th
-**Slot**none;**Price**4,015 gp;**Weight** 2 lbs.
+**Aura** moderate Mind; **CL** 10th
+**Slot** none; **Price** 4,015 gp; **Weight** 2 lbs.
 
 **Description**
 These mithril manacles bear intricate, ever-shifting magical runes arranged into impossibly complex knot-work. While they can be used as mundane mithril manacles, their true value is far greater. When multiple creatures with sphere casting ability are cuffed together in a circle (requiring one set of shackles per individual) and at least one possesses the Circle Casting feat, all creatures in the circle are treated as having the Circle Casting feat until the circle is broken. All creatures wearing the shackles gain the entangled condition, though this entanglement does not apply to any checks made as part of casting.
@@ -534,8 +534,8 @@ Craft Apparatus, Circle Casting; **Cost** 3,015 gp
 
 ### Spell Warded Brace
 
-**Aura**overwhelming Protection;**CL**20th;**Scaling** wonder
-**Slot**feet, neck, or wrists;**Price**90 gp;**Weight** 1 lb.
+**Aura** overwhelming Protection; **CL** 20th; **Scaling** wonder
+**Slot** feet, neck, or wrists; **Price** 90 gp; **Weight** 1 lb.
 
 **Description**
 This brace, while made primarily of adamantine, is also combined with a silver and cold iron alloy. If placed against a limb of a creature (a touch attack), the brace will go viscous and change size so to fit and latch onto that creature.
@@ -555,8 +555,8 @@ Craft Apparatus, Protection sphere (Spell Ward), Counterspell; **Cost** 132,000 
 
 ### Steel Idol
 
-**Aura**faint Enhancement;**CL** 5th
-**Slot**none;**Price**15,000 gp;**Weight** 1 lb.
+**Aura** faint Enhancement; **CL** 5th
+**Slot** none; **Price** 15,000 gp; **Weight** 1 lb.
 
 **Description**
 This small, metal sculpture is about the same size as a holy symbol, and can be mistaken for such. Any caster who can create sphere effects that cover an area can attach the area of effect to the idol if he is touching it. The resulting area moves with the idol. The caster cannot concentrate on an area attached to a steel idol, and an area of effect can not be attached to the idol while another area of effect ability is already attached to it.
@@ -566,8 +566,8 @@ Craft Apparatus, Enhancement sphere; **Cost** 7,500 gp
 
 ### Storage Sphere
 
-**Aura**faint Warp;**CL** 15th
-**Slot**none;**Price**see below;**Weight** 1 lb.
+**Aura** faint Warp; **CL** 15th
+**Slot** none; **Price** see below; **Weight** 1 lb.
 
 **Description**
 This fist-sized sphere is made of cool, surprisingly sturdy glass, and is used to easily store vehicles and large structures. Spending three rounds pressing a storage sphere against an unattended object stores the object, causing a miniature model of the object to appear within the sphere. The wielder can spend another three rounds to remove the object within, placing it in an adjacent unoccupied space. This space must also be a suitably supportive surface for the object: a boat cannot be placed in midair, or a wagon in an ocean. Only one object can be stored in the sphere at a time; any objects in the sphere must be removed before new objects can be stored. The maximum size object a sphere can hold depends on the sphere’s type, as shown on the table below.
@@ -589,8 +589,8 @@ Craft Apparatus, Warp sphere (Extradimensional Space (space), Store Structure (a
 
 ### Talisman of Lead
 
-**Aura**faint Death;**CL** 5th
-**Slot**none;**Price**6,000 gp;**Weight** -
+**Aura** faint Death; **CL** 5th
+**Slot** none; **Price** 6,000 gp; **Weight** -
 
 **Description**
 The ashes of a great sage or wise man have been stored in this bauble, allowing a character with the bound nexus class feature to consult with the soul. As a full-round action, the character may telepathically speak to the soul within, and gain a +2 insight bonus to any Knowledge check made that round. In addition, the soul may be expended as any other soul in the character’s bound nexus. The soul becomes available again 24 hours later. During that time, the character can not consult with the soul (as it is absent).
@@ -600,8 +600,8 @@ Craft Apparatus; **Cost** 3,000 gp
 
 ### The Golden Flute [TS]
 
-**Aura**strong Death, Destruction and Life;**CL** 20th
-**Slot**none;**Price**200,000 gp;**Weight** 4 lbs.
+**Aura** strong Death, Destruction and Life; **CL** 20th
+**Slot** none; **Price** 200,000 gp; **Weight** 4 lbs.
 
 This simple flute does not distinguish itself much except for being made out of pure gold.
 
@@ -611,7 +611,7 @@ However that is only the primary ability of the flute, and belies a darker natur
 
 **Statistics**
 **Alignment** chaotic evil
-**Int**26,**Wis**27,**Cha**26,**Ego** 40
+**Int** 26, **Wis** 27, **Cha** 26, **Ego** 40
 **Senses** 30 ft., blindsense
 **Languages** empathy (but knows Celestial, Common, Draconic, Elven, Halfling, and Abyssal)
 **Abilities:** The golden flute casts as a CL 19th incanter, with a knowledge of 15 Life and 15 Death sphere talents. It also possesses the Addictive Casting drawback, which it applies secretly to the spells it allows its wielder to cast.
@@ -619,12 +619,12 @@ However that is only the primary ability of the flute, and belies a darker natur
 **Construction Requirements**
 Craft Apparatus, Destruction sphere (Admixture, Incandescent Blast (blast type), Sculpt Blast (blast shape), Thunder Blast (blast type)); **Cost** 100,000 gp
 **Crafting Tradition**
-**Drawbacks**Skilled Casting, Verbal Casting, Qualities Binding,**Boons** Resilient
+**Drawbacks** Skilled Casting, Verbal Casting, Qualities Binding, **Boons** Resilient
 
 ### Thunder Culverin
 
-**Aura**faint Destruction;**CL** 5th
-**Slot**none;**Price**24,000 gp;**Weight** 4,500 lbs.
+**Aura** faint Destruction; **CL** 5th
+**Slot** none; **Price** 24,000 gp; **Weight** 4,500 lbs.
 
 **Description**
 A large cylinder, one end flared into a dish shape, mounted on a wheeled carriage. The thunder culverin may be moved, aimed, and fired as a mundane large cannon, but requires no ammunition or loading. The culverin deals 6d4 sonic damage as the Shattering Blast talent with a range of 160 feet at a x2 critical multiplier. If a thunder culverin with the broken condition experiences a misfire, the blast damage is dealt in a 20-foot radius of the thunder culverin and the weapon is destroyed.
@@ -634,8 +634,8 @@ Craft Apparatus, Destruction sphere (Shattering Blast (blast type, sonic)); **Co
 
 ### Tome Of Very Forbidden Lore [TS]
 
-**Aura**moderate Divination;**CL** 3rd
-**Slot**none;**Price**18,000 gp;**Weight** 3 lbs.
+**Aura** moderate Divination; **CL** 3rd
+**Slot** none; **Price** 18,000 gp; **Weight** 3 lbs.
 
 This tome is said to have been written by a mischievous goddess of paradoxes. Once per day, if the user would suffer backlash from using their forbidden lore feature, they can negate that backlash by using this tome as a free action. Each time they do this, there is a cumulative 1% chance they suffer insanity (treat this as permanent confusion; this is not a mind-affecting effect and can affect creatures of any type). The insanity chance does not go down even if the character’s inflicted insanity is cured, and all other tomes of very forbidden lore have the same insanity chance for that character. However, a character can reduce the insanity chance of a tome of very forbidden lore once per week by offering a tube of meat placed between two similarly-shaped lengths of bread to their bonded tome; this reduces the insanity chance by 1, but only if the ritual is performed on a Friday (or the setting’s closest equivalent). A user must carry a tome of very forbidden lore for 24 hours in order to begin benefiting from it, and can only benefit from the effects of one tome at a time.
 
@@ -644,8 +644,8 @@ Craft Apparatus, creator must be a thaumaturge; **Price** 9,000 gp
 
 ### Tower of Impregnable Defense
 
-**Aura**strong Destruction, Protection;**CL** 15th
-**Slot**none;**Price**255,000 gp;**Weight** 3 tons
+**Aura** strong Destruction, Protection; **CL** 15th
+**Slot** none; **Price** 255,000 gp; **Weight** 3 tons
 
 **Description**
 This magically-empowered tower generally sits near the entrance to a building, city, or other permanent encampment to defend it against undesirables.
@@ -659,8 +659,8 @@ Craft Apparatus, Destruction sphere, Protection sphere; **Cost** 127,500 gp
 
 ### Voice Shifter [Wiki]
 
-**Aura**moderate Illusion;**CL** 6th
-**Slot**neck;**Price**4,000 gp;**Weight** 2 lbs.
+**Aura** moderate Illusion; **CL** 6th
+**Slot** neck; **Price** 4,000 gp; **Weight** 2 lbs.
 
 **Description**
 This dull metal choker presses firmly against the user's neck, though not tightly enough to choke. As a standard action, the user can use this item to adjust the rate, volume, pitch, articulation, and pronounciation of their voice. This change is not accurate enough to mimic a specific creature, but it can resemble any gender or species, including accents in any language the user can speak in. It cannot create sounds louder than the user is normally capable of.
@@ -670,8 +670,8 @@ Craft Apparatus, Illusion sphere (Illusionary Sound (sensory, sound)); **Cost** 
 
 ### Warg Pelt
 
-**Aura**moderate Alteration;**CL** 6th
-**Slot**shoulders;**Price**8,000 gp;**Weight** 1 lb.
+**Aura** moderate Alteration; **CL** 6th
+**Slot** shoulders; **Price** 8,000 gp; **Weight** 1 lb.
 
 **Description**
 This cloak, made from the hide of a slain warg, grants the wearer the ability to assume its likeness. This item functions as an apparatus of Alteration with the Animalistic Transformation talent (limited to the shape of a warg) and grants darkvision 60 feet as an additional trait.
@@ -681,8 +681,8 @@ Craft Apparatus, Alteration sphere (Animalistic Transformation (transformation))
 
 ### Waystone
 
-**Aura**strong Warp;**CL** 16th
-**Slot**none;**Price**20,000 gp;**Weight** 200 lbs.
+**Aura** strong Warp; **CL** 16th
+**Slot** none; **Price** 20,000 gp; **Weight** 200 lbs.
 
 **Description**
 A smooth, rounded stone engraved with glowing purple lines, a waystone is a useful tool for any practitioner of teleportation magic. As a standard action a spellcaster with the Warp sphere can invest a spell point into a touched waystone to gain access to its power. This invested spell point is spent and does not replenish so long as it is invested, though the spellcaster can end their investment with a standard action at any distance from the waystone, and an invested spell point only remains invested for up to a year before fading. A spellcaster with a spell point invested in a waystone can teleport themselves back to the waystone regardless of how far away it is, so long as it is on the same plane. Teleporting back to the waystone ends the spell point investment, allowing it to be recovered normally and requiring a new spell point to be invested to use the waystone again. Any number of spellcasters can invest a spell point in a waystone, and they are often installed in important locations.
@@ -694,8 +694,8 @@ Craft Apparatus, Warp sphere (Teleport Beacon (space)); **Cost** 10,000 gp
 
 ### Doomguard [MCS]
 
-**Aura**moderate Fate;**CL** 10th
-**Slot**neck;**Price**160,000 gp;**Weight** 1 lb.
+**Aura** moderate Fate; **CL** 10th
+**Slot** neck; **Price** 160,000 gp; **Weight** 1 lb.
 
 Usually crafted by only the most paranoid and wealthy individuals and formed into the shape of a simple pendant that is easy to wear, the doomguard is capable of protecting its wearer and those around them from catastrophe. This functions as the Fate sphere Elude Fate advanced talent and affects all allies of the doomguard’s bearer who are within 50 feet. This effect is not subject to spell resistance, although it can be negated by antimagic.
 
@@ -706,8 +706,8 @@ Craft Apparatus, Mythic Crafter, Fate sphere (Echoing Word [mass], Elude Fate (a
 
 ### Fairy Monarch’s Brooch [MCS]
 
-**Aura**faint Fallen Fey;**CL** 5th
-**Slot**chest;**Price**40,000 gp;**Weight** 1/10 lb.
+**Aura** faint Fallen Fey; **CL** 5th
+**Slot** chest; **Price** 40,000 gp; **Weight** 1/10 lb.
 
 This slim wooden badge is covered in intricate sylvan runes. As a standard action, a creature bearing a fairy monarch’s brooch can determine the direction to the closest fairy ring, and may open any fairy ring as a standard action. This otherwise functions as the Fallen Fey sphere Fairy Ring Traveler talent. A creature bearing a fairy monarch’s brooch always correctly identifies the best ring to leave Faerie from, and a mythic character holding this item may expend one use of mythic power while entering Faerie to choose what time difference applies to their trip.
 
@@ -716,8 +716,8 @@ Craft Apparatus, Mythic Crafter, Fallen Fey sphere (Fairy Ring Traveler (advance
 
 ### Vision Beyond Vision [MCS]
 
-**Aura**faint Divination;**CL** 5th
-**Slot**none;**Price**50,000 gp;**Weight** 2 lbs.
+**Aura** faint Divination; **CL** 5th
+**Slot** none; **Price** 50,000 gp; **Weight** 2 lbs.
 
 This sword appears relatively normal at first glance, and may become a magic weapon in the hands of the right user, but its true strength lies in its divinatory powers. When holding the guard just under their eyes, the holder of vision beyond vision may spend a standard action to gain the benefits of any one sense of the Divination sphere Advanced Alternate Divinations (sense) advanced talent until they change the sense or move the weapon away from their eyes. The user does not need to possess any of the other base spheres normally required to gain these senses. A mythic creature may expend one use of mythic power while activating vision beyond vision to instead divine the location of one creature or object (as the Divination sphere Discern Location (divine) talent).
 

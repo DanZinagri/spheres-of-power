@@ -11,50 +11,50 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Bender
+#### Bender
 
 You cannot teleport, you may only bend space. You must select a (space) talent with the bonus talent gained through this drawback.
 
 **Incompatible:** Inanimate Teleport, Personal Warp, Short Teleport, Splintering Teleport, Taxing Teleport
 
-## Distorting Presence [DbH]
+#### Distorting Presence [DbH]
 
 Your (space) talents are tied to your location, twisting your immediate environment. You gain Distortion Aura as the bonus talent for this drawback, but must use it in conjunction with any (space) talent that you create (preventing you from using the talent’s normal range).
 
-## Inanimate Teleport
+#### Inanimate Teleport
 
 You cannot teleport creatures, only objects. You must select Teleport Object with the bonus talent you gain from this drawback.
 
 **Incompatible:** Bender, Personal Warp
 
-## Limited Warp
+#### Limited Warp
 
 You may only teleport or bend space when within an area that meets a specific condition and can only choose a destination for teleport that also matches that condition. Choose one of the following conditions or speak with your GM about finding another appropriate one: you can only teleport or bend space in areas of dim light or darkness; you can only teleport or bend space in a body of water; you can only teleport or bend space when touching fire; you can only teleport or bend space when touching a living tree.
 
-## Personal Warp
+#### Personal Warp
 
 You may only target yourself with your teleport ability. You cannot gain talents that specifically target others such as Mass Teleport, Swap Placement, or Unwilling Teleport, and cannot gain a (space) talent as the talent gained from this drawback.
 
 **Incompatible:** Bender, Inanimate Teleport
 
-## Short Teleport
+#### Short Teleport
 
 The range of your teleport is limited to 10 feet plus an additional 5 feet per 4 caster levels. You may not spend a spell point to increase your teleport range. If another talent would alter the range of your teleport, use the shorter of the two ranges. You cannot take Distant Teleport. You must select Emergency Teleport, Quick Teleport or Swap Placement as the bonus talent from this drawback.
 
 **Incompatible:** Bender, Taxing Teleport
 
-## Splintering Teleport
+#### Splintering Teleport
 
 Whether due to the style of your teleportation, incomplete training, or some other phenomenon, whenever you teleport a subject they suffer damage in transit. You must select Splinter with the bonus talent you gain from this drawback and must always apply its effects to your teleport.
 
 **Incompatible:** Bender
 
-## Taxing Teleport
+#### Taxing Teleport
 
 When you teleport, you must always pay a spell point to increase your teleport range, even if you are teleporting a shorter distance. You must select Distant Teleport as the bonus talent from this drawback.
 
 **Incompatible:** Bender, Short Teleport
 
-## Warping Brew
+#### Warping Brew
 
 You must select the Instill Teleport talent with the bonus talent granted by this drawback, and you can only use your Warp sphere abilities through this talent.

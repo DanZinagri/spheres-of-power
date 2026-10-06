@@ -7,14 +7,14 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 4,800
 LG Medium outsider (archon, extraplanar, good, lawful), Conscript 4
-**Init**+4;**Senses**darkvision 60 ft., detect evil, low-light vision, scent;**Perception** +10
+**Init** +4; **Senses** darkvision 60 ft., detect evil, low-light vision, scent; **Perception** +10
 **Aura** aura of menace (DC 16), magic circle against evil
 
 **Defense**
-**AC**26,**touch**17,**flat-footed** 26 (+7 unarmored training, +9 natural; +2 deflection vs. evil)
+**AC** 26, **touch** 17, **flat-footed** 26 (+7 unarmored training, +9 natural; +2 deflection vs. evil)
 **hp** 65 (10d10+10)
-**Fort**+8,**Ref**+7,**Will** +8; +4 vs. poison, +2 resistance vs. evil
-**DR**10/evil;**Immune**electricity, petrification;**SR** 15
+**Fort** +8, **Ref** +7, **Will** +8; +4 vs. poison, +2 resistance vs. evil
+**DR** 10/evil; **Immune** electricity, petrification; **SR** 15
 
 **Offense**
 **Speed** 50 ft.
@@ -29,12 +29,12 @@ At Will—aid, continual flame, greater teleport (self plus 50 lbs. of objects o
 Deathseekers will stalk a foe before striking, ensuring that the enemy won’t lead them to more worthy targets. Once the deathseeker is committed to an attack, they will use their scout and Studied Target abilities to gather as much information on the foe as possible before darting into combat
 
 **Statistics**
-**Str**16,**Dex**10,**Con**13,**Int**10,**Wis**13,**Cha** 12
-**Base Atk**+10;**CMB**+13 (+14 disarm);**CMD** 23 (+24 disarm)
+**Str** 16, **Dex** 10, **Con** 13, **Int** 10, **Wis** 13, **Cha** 12
+**Base Atk** +10; **CMB** +13 (+14 disarm); **CMD** 23 (+24 disarm)
 **Feats** Dirty Fighting, Extra Combat Talent, Giantslayer, Great Focus, Heroic Resolve
-**Martial Tradition**Assassin,**PAM**Wis,**DC** 16
+**Martial Tradition** Assassin, **PAM** Wis, **DC** 16
 **Talents** Athletics (run package, Mobile Striker), Duelist (Bind Weapon, Swift Slice), Equipment (Knightly Training, Unarmored Training), Fencing (Fatal Opening), Scout (Find Gap, Lurker, Target Weakness)
-**Skills**Acrobatics +13, Bluff +10, Intimidate +10, Perception +14, Sense Motive +14, Stealth +17, Survival +18;**Racial Modifiers** +4 Stealth, +4 Survival
+**Skills** Acrobatics +13, Bluff +10, Intimidate +10, Perception +14, Sense Motive +14, Stealth +17, Survival +18; **Racial Modifiers** +4 Stealth, +4 Survival
 **Languages** Celestial, Draconic, Infernal; truespeech
 **SQ** change shape (beast shape II), conscript specializations (fast movement, indomitable will, maneuver training (disarm), studied target)
 

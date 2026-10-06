@@ -81,7 +81,7 @@ Unlike a ritual book, a spellbook is simply a notebook detailing the theory invo
 **Target** 1 creature
 **Area** 5 ft radius, + 5 ft per 5 caster levels
 **Duration** 1 minute/caster level
-**Saving Throw**Will negates (harmless), Reflex negates (see below);**Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless), Reflex negates (see below); **Spell Resistance** yes (harmless)
 **Prerequisites** Protection (Armored Aegis), Nature (plant package, Create Plants)
 **Crafting Time** 4 days
 **Effect** This spell covers the target is a writhing mass of vines, which both defend and attack. The target gains an aegis that grants them a +3 armor bonus, +1 per 5 caster levels. This does not stack with any armor the creature is already wearing. Any time a creature who comes within 5 ft + 5 ft per 5 caster levels of the target, whether by its own movement or when the bearer of the armor of vines moves past it, this armor reaches out a vine in an attempt to bind that creature. Any creature affected in this manner must pass a Reflex save or become entangled. If a creature is entangled in this fashion they cannot move, although they cease to be entangled once the bearer of this aegis moves away from them. Once a target is entangled, they may end this condition through a Strength check or Escape Artist check, as detailed in the entangle ability of the Nature sphere.
@@ -111,7 +111,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** touch
 **Target** 1 creature
 **Duration** 10 minutes/caster level
-**Saving Throw**Will negates (harmless);**Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 **Prerequisites** Protection sphere, Time sphere (Improved Haste)
 **Crafting Time** 3 days
 **Effect** This spell grants the target an aegis that bestows on them incredible speed. The target gains a +1 bonus to attack rolls, a +30 enhancement bonus to their movement speed (to a maximum of twice the subject’s normal speed), and a +1 dodge bonus to AC and Reflex saves. Whenever the target takes the full-attack action, they may make one additional attack at their highest BAB.
@@ -124,7 +124,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** Close (25 ft + 5 ft per 2 caster levels)
 **Target** 1 creature + 1 per 2 caster levels (minimum: 2 creatures)
 **Duration** 10 minutes/caster level
-**Saving Throw**Will negates (harmless);**Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 **Prerequisites** Protection sphere, Time sphere (Improved Haste, Ranged Time, Group Time)
 **Crafting Time** 5 days
 **Effect** This spell functions as blessing of time, except the aegis is granted to multiple creatures within range.
@@ -137,7 +137,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** 1 creature
 **Duration** 1 round
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 **Prerequisites** Fate sphere (Bless), Mind sphere (Hostility)
 **Crafting Time** 2 days
 **Effect** This spell is a mind-affecting effect that fills its target with both irrational rage, and the confidence of certain success despite any evidence to the contrary. The target is compelled to attack the nearest creature to itself on its next turn (Will negates). The target moves until the creature is within range, and makes at least one attack with a weapon, natural attack, or unarmed strike. When the attack roll is made, the target must roll twice and take the higher result. If no such creature can be reached, the target will instead deal damage to itself equal to 1d8 + its Strength modifier with whatever it has in hand.
@@ -174,7 +174,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** personal
 **Area** 10 ft radius burst, +5 ft per 5 caster levels
 **Duration** instantaneous
-**Saving Throw**Reflex half;**Spell Resistance** yes
+**Saving Throw** Reflex half; **Spell Resistance** yes
 **Prerequisites** Destruction sphere (Force Blast, Explosive Orb)
 **Crafting Time** 3 days
 **Effect** You throw yourself at the ground, shaking the earth as you land. When you use this ability, you may move up to your speed in a straight line. This movement provokes attacks of opportunity as normal. When you end this movement, all targets within 10 ft of you +5 ft per 5 caster levels suffer 1d6 force damage per caster level and fall prone. A successful Reflex save halves this damage and the creature does not fall prone.
@@ -214,7 +214,7 @@ You can only have one bless/corrupt earth spell in effect at one time. If you ca
 **Range** Close (25 ft + 5 ft per 2 caster levels)
 **Target** one creature
 **Duration** concentration
-**Saving Throw**Reflex negates;**Spell Resistance** no
+**Saving Throw** Reflex negates; **Spell Resistance** no
 **Prerequisites** Creation (Expanded Materials, Distant Creation), Enhancement (Animate Object)
 **Crafting Time** 5 days
 **Effect** This spell encapsulates the target’s body in a golem. The golem’s maximum size and possible material composition is based on your caster level, as detailed in the Creation sphere. If the target is unwilling, they are allowed a Reflex save to avoid being encapsulated, in which case the golem still appears but in an adjacent space.
@@ -228,7 +228,7 @@ The golem created by this spell is an animated object (see animated objects in t
 **Casting Time** full-round action
 **Range** personal
 **Duration** instantaneous
-**Saving Throw**Will half, see text;**Spell Resistance** yes, see text
+**Saving Throw** Will half, see text; **Spell Resistance** yes, see text
 **Prerequisites** Life sphere, Nature sphere (water package, Create Water)
 **Crafting Time** 3 days
 **Effect** This spell allows you to create moisture within the body of a living creature, healing damage from dehydration.
@@ -243,7 +243,7 @@ Hydrate heals 2d8 points + 2 points per caster level of nonlethal damage from de
 **Range** Medium (100 ft + 10 ft per caster level)
 **Area** 10 ft radius sphere, + 5 ft per 5 caster levels
 **Duration** concentration
-**Saving Throw**Reflex half;**Spell Resistance** yes
+**Saving Throw** Reflex half; **Spell Resistance** yes
 **Prerequisites** Destruction sphere (Fire Blast, Explosive Orb, Extended Range), Nature sphere (Fire package, Move Fire)
 **Crafting Time** 6 days
 **Effect** This spell creates a powerful, spherical explosion of fire, dealing 1d6 fire damage per caster level to everything within the area and setting it on fire. A successful Reflex save halves the damage and negates catching fire.
@@ -260,7 +260,7 @@ The flaming sphere must remain within Medium range of the caster at all times, o
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Target** 1 creature
 **Duration** 1 minute/caster level
-**Saving Throw**Will negates;**Spell Resistance** yes
+**Saving Throw** Will negates; **Spell Resistance** yes
 **Prerequisites** Destruction sphere (Fire Blast), Mind sphere (Candor)
 **Crafting Time** 4 days
 **Effect** This spell imposes a surprising penalty upon those who would spread falsehood. Those who fail their Will save are subject to a magical illness wherein every lie that they tell causes their clothing to catch fire and, 1 round later, begin dealing 1d6 points of fire damage to them per turn. Every round, a Reflex save may be attempted to extinguish the flame. Rolling on the ground or using a blanket to extinguish the flame (a full round action) grants the target a +4 bonus to the saving throw. If a target isn’t wearing clothes, the target’s hair, fur, feathers, or similarly flammable part of their body catches fire. If the target has no such appropriately flammable extensions, the target itself catches on fire, though still takes no damage until the next round.
@@ -273,7 +273,7 @@ The flaming sphere must remain within Medium range of the caster at all times, o
 **Range** Medium (100 ft + 10 ft per caster level)
 **Target** 1 + 1 per 2 caster levels (minimum: 2) creatures
 **Duration** 1 minute/caster level
-**Saving Throw**Will half;**Spell Resistance** yes
+**Saving Throw** Will half; **Spell Resistance** yes
 **Prerequisites** Mind sphere (Group Charm, Expanded Charm, Ranged Mind) Destruction sphere (Frost Blast)
 **Crafting Time** 6 days
 **Effect** This is a mind-altering effect. You cause the targets’ minds to freeze up, filling them with the sensation of bitter cold until they can think of little else. Each target suffers 1d6 frost damage per 2 caster levels and becomes staggered and confused for 1 minute per caster level. A successful Will save halves this damage and negates the staggered and confused conditions.
@@ -286,7 +286,7 @@ The flaming sphere must remain within Medium range of the caster at all times, o
 **Range** touch
 **Target** one creature
 **Duration** concentration
-**Saving Throw**Will negates (harmless);**Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 **Prerequisites** Protection sphere
 **Crafting Time** 1 day
 **Effect** The target gains an aegis, granting him a +1 Deflection bonus to AC for as long as you concentrate. This bonus increases by 1 for every 5 caster levels possessed.
@@ -310,7 +310,7 @@ The flaming sphere must remain within Medium range of the caster at all times, o
 **Casting Time** full-round action
 **Range** close (25 ft. + 5 ft. per 2 caster levels)
 **Duration** concentration
-**Saving Throw**none;**Spell Resistance** no
+**Saving Throw** none; **Spell Resistance** no
 **Prerequisites** Nature sphere (earth package), Protection sphere
 **Crafting Time** 3 days
 **Effect** (requires sand or loose dirt): You may create a 10 ft. + 5 ft. per 5 caster levels radius wall of sand within range. The wall is spherical in shape and stops movement, and blocks both line of sight and line of effect. The sand barrier grants both total cover and total concealment against creatures on opposite sides of the wall while the wall is at full hp, or partial cover and concealment if at half hit points or more. A sand barrier with less than half its hit points remaining does not block line sight, line of effect, or grant cover or concealment. If creating the wall would cause it to go through a creature or animated object, the sand barrier shunts the creature just outside the effect of the sphere. Creatures who are ethereal or who possess a burrow speed do not have their movement impeded by the wall.
@@ -327,7 +327,7 @@ If you maintain your wall through concentration, its hp is renewed each round on
 **Range** Close (25 ft + 5 ft per 2 caster levels)
 **Target** one creature
 **Duration** instantaneous
-**Saving Throw**Will (partial), Fortitude (partial);**Spell Resistance** yes
+**Saving Throw** Will (partial), Fortitude (partial); **Spell Resistance** yes
 **Prerequisites** Destruction sphere (Frost Blast, Nether blast)
 **Crafting Time** 3 days
 **Effect** This spell creates a ball of swirling energy that the caster hurls as a ranged touch attack. The target suffers 1d6 points of damage per caster level, half of which is frost damage, the other half negative energy. If the target is struck, they must make both a Fortitude save and a Will save. If the target fails their Fortitude saving throw, they are staggered for 1 round. If the target fails their Will save, they are shaken for 1 round. If the target is undead, they do not suffer the negative energy damage and instead must make a Will save or be frightened for 1 round.
@@ -338,7 +338,7 @@ If you maintain your wall through concentration, its hp is renewed each round on
 **Cost** 2 spell points
 **Casting Time** full-round action
 **Duration** concentration
-**Saving Throw**Reflex half;**Spell Resistance** yes
+**Saving Throw** Reflex half; **Spell Resistance** yes
 **Prerequisites** Nature sphere (earth package), Destruction sphere (crystal blast)
 **Crafting Time** 3 days
 **Effect (requires sand or loose dirt)** This spell functions as dust storm from the earth package. Each round while it is in effect, you may as a swift action cause a stalagmite to instantaneously solidify out of the sand, impaling a target within the sand cloud. The stalagmite deals 2d4 + 1d4 points of piercing damage per caster level (Reflex half). In addition, a target that fails to make a saving throw against this spell and takes damage from it is impaled on the stalagmite and cannot move from its current location until it makes an Escape Artist or Strength check against the spell’s DC. All stalagmites created fall away naturally once the dust storm ends and can be removed in other ways as well, such as dealing 3 points of damage per caster level to the stalagmite. The stalagmite is 1 ft. wide at its base and rises 5 ft. + 5 ft. per 5 caster levels tall. If it encounters a ceiling before it reaches its maximum height, it stops growing.
@@ -349,7 +349,7 @@ If you maintain your wall through concentration, its hp is renewed each round on
 **Cost** 2 spell points
 **Casting Time** full-round action
 **Duration** Instantaneous
-**Saving Throw**none;**Spell Resistance** no
+**Saving Throw** none; **Spell Resistance** no
 **Prerequisites** Nature sphere (plantlife package, Grow Plants, Towering Growth)
 **Crafting Time** 3 days
 **Effect** (requires sand or loose dirt): You may spontaneously create a towering pine-tree. Unlike trees created with Grow Plants, this tree is a 10 ft. tall Medium-sized sapling tree at CL 1st, a 20 ft. tall Large-sized young tree at CL 2nd, a 40 ft. tall Huge-sized juvenile tree at CL 4th, an 80 ft. tall Gargantuan-sized adult tree at CL 8th, and finally a 160 ft. tall Colossal-sized massive tree at CL 16th. If it encounters a ceiling before it reaches its maximum height, it stops growing. The branches of the tree are evenly spaced and perfect for climbing; ascending the tree requires a successful DC 5 Climb check. Trees, and its branches created with this spell cannot be magically animated such as with the pummel or similar sphere talents or abilities, nor can it be used to fulfill requirements of other plant-related rituals, sphere talents, or abilities such as tree stride.
@@ -373,7 +373,7 @@ If you maintain your wall through concentration, its hp is renewed each round on
 **Casting Time** full-round action
 **Range** Close (25 ft + 5 ft per 2 caster levels)
 **Duration** concentration
-**Saving Throw**Reflex partial;**Spell Resistance** no
+**Saving Throw** Reflex partial; **Spell Resistance** no
 **Prerequisites** Telekinesis sphere, Nature sphere (Water package, Wave, Create Water)
 **Crafting Time** 4 days
 **Effect** This spell summons a large serpent-like coil of water which flies around the battlefield, striking targets. The water serpent occupies a 5 ft square, and may fly up to 30 ft per round +5 ft per 2 caster levels with perfect maneuverability. The water serpent can move freely through spaces occupied by creatures, and makes a Bull Rush attempt that does not provoke an attack of opportunity against every creature whose space it passes through. Your CMB for this Bull Rush attempt is equal to your caster level + your casting ability modifier. Each target is pushed in the direction the serpent is traveling at that time. If a creature is successfully pushed by this Bull Rush attempt, they must also pass a Reflex save or fall prone. The water serpent can strike the same target multiple times by moving through its square repeatedly. If a creature moves into the space occupied by a water serpent, they must pass a Reflex save or be subject to the serpent pushing them back with its Bull Rush as normal.

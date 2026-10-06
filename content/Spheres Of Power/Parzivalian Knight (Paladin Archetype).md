@@ -10,25 +10,25 @@ parent: "[[Spheres Of Power]]"
 
 More than a few paladins and other champions of Good are inspired to take up their vocation by sagas, chansons de geste, and romances about Good triumphing over Evil. Parzivalian knights take this one step further. Their conviction that these stories are how the world should work forces the world to actually work like a story. This manifests as an almost instinctive ability to project consecrations that turn the tide of battle in their favor.
 
-### Casting
+## Casting
 
 The Parzivalian knight may combine spheres and talents to create magical effects. The Parzivalian knight is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces spells and detect evil.
 
-### Spell Pool
+## Spell Pool
 
 The Parzivalian knight gains a small reservoir of energy she can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to her level + her casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A Parzivalian knight gains 1 magic talent every 2 levels.
 
-### Knight of Coins
+## Knight of Coins
 
 At 1st level, the Parzivalian knight gains Fate as a bonus sphere, or a Fate talent if she already has the Fate sphere, and treats her class level as her caster level for consecrations and motifs. This stacks normally with caster levels gained from other sources.
 
-### Naïveté (Su)
+## Naïveté (Su)
 
 At 2nd level the Parzivalian knight is able to manipulate luck and destiny almost unconsciously. A number of times per day equal to her casting ability modifier, she may ignore any one general drawback she possesses when using a consecration. She may spend more than one use of this ability to ignore the same number of drawbacks when using a consecration. Alternatively, she may spend a use of this ability in place of a spell point to create or maintain a consecration.
 
@@ -36,13 +36,13 @@ Starting at 4th level, she also gains a +1 bonus to the MSD of consecration effe
 
 This ability replaces lay on hands.
 
-### Knight of Wands
+## Knight of Wands
 
 At 3rd level the Parzivalian knight gains a special consecration. This has the same effect as all the auras a normal paladin of her level would have (aura of courage, aura of resolve, aura of justice, aura of faith, and aura of righteousness), but as a consecration it is not always active, uses their consecration radius, etc. She must concentrate to maintain effect, but may spend a spell point to allow the consecration to continue for 10 minutes per Parzivalian knight level without concentration. The Parzivalian knight may use this consecration in conjunction with talents such as Bound Consecration, in which case she gains the special bonus (such as immunity to fear) only while in the area of the consecration.
 
 This ability replaces aura of courage, aura of resolve, aura of justice, aura of faith, and aura of righteousness.
 
-### Knight of Cups (Su)
+## Knight of Cups (Su)
 
 At 3rd level the Parzivalian knight chooses one consecration she knows. This must be a consecration with a duration other than instantaneous and that does not cost a spell point to create. In addition to using this consecration normally, she may choose to activate or deactivate it once per round as a free action. She may have this consecration active for a total of two rounds per level each day. These rounds do not need to be spent consecutively.
 
@@ -50,15 +50,15 @@ At 9th and 15th levels, she may choose an additional consecration she knows to u
 
 This ability replaces mercies.
 
-### Chansons
+## Chansons
 
 At 4th level the Parzivalian knight gains a (motif) talent as a bonus talent. Whenever she rests to regain spell points, she may change this talent to any other motif. When she uses this motif on herself, the spell point cost is reduced by 1 (minimum 0). This ability replaces channel energy.
 
-### Knight of Swords (Ex)
+## Knight of Swords (Ex)
 
 Beginning at 6th level, the Parzivalian knight may discharge a motif affecting her as an immediate action and have the discharged motif affect an ally within the area of one of her consecrations as if the ally had discharged the motif themselves. For example, when an ally is struck by a manufactured weapon, the Parzivalian knight may discharge The Tower to destroy the weapon.
 
-### Idylls (Su)
+## Idylls (Su)
 
 At 20th level, the Parzivalian knight chooses one consecration she knows. This must be a consecration with a duration and that does not cost a spell point to create. The chosen consecration is continuously active with no need to concentrate on it. Each day when she regains spell points she may choose a different consecration she knows to become continuously active, in which case the previous consecration ends. If she chooses one of the consecrations she chose for knight of cups, she may select a different consecration to use with that ability.
 

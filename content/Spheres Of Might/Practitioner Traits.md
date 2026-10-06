@@ -110,7 +110,7 @@ The tattooed warrior tradition package is less standardised than most other pack
 
 #### Well-Balanced Blade (equipment) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 Your skill at one-handed combat has translated to being able to push your wielding limit just a little further than others with similar training.
 

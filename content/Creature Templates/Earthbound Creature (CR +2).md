@@ -16,7 +16,7 @@ Earthbound creatures are defined by a potent connection with the elemental power
 
 **Type:** The creature's gains the earth subtype.
 
-**Defenses/Qualities:** DR 5/adamantine (increase to 10 if the earthbound’s CR is 10 or higher, increase to 15 if the earthbound’s CR is 15 or Higher), darkvision 60ft., regeneration (equal to earthbound’s constitution modifier; electricity and sonic), immune to acid, cold and fire.**Weakness** vulnerability to electricity and sonic.
+**Defenses/Qualities:** DR 5/adamantine (increase to 10 if the earthbound’s CR is 10 or higher, increase to 15 if the earthbound’s CR is 15 or Higher), darkvision 60ft., regeneration (equal to earthbound’s constitution modifier; electricity and sonic), immune to acid, cold and fire. **Weakness** vulnerability to electricity and sonic.
 
 **Melee:** An earthbound creature gains two slam attacks, if the base creature didn't have them. Damage for the slams depends on the earthbound's size (see Natural Attacks, Pathfinder Bestiary). Its natural weapons are treated as adamantine, cold iron and silver weapons for the purpose of overcoming damage reduction; it also gains the Grab special attack.
 
@@ -33,7 +33,7 @@ Earthbound creatures are defined by a potent connection with the elemental power
 
 **Earth Mastery (Ex):** An earthbound creature gains a +1 bonus on attack and damage rolls if both it and its foe are touching the ground. If an opponent is airborne or waterborne, the earthbound takes a -4 penalty to attack and damage rolls.
 
-**Abilities:** Increase from the base creature as follows:**Str**+6 (+3 to melee attack and damage rolls (and thrown weapon damage rolls, Climb and Swim checks, CMB, CMD, strength checks, bonebreaker DC and other Strength-based DCs),**Con** +4 (+2 to Fort, +2 hp per HD, +2 to earthbound’s regeneration, and the based creature’s Constitution-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +6 (+3 to melee attack and damage rolls (and thrown weapon damage rolls, Climb and Swim checks, CMB, CMD, strength checks, bonebreaker DC and other Strength-based DCs), **Con** +4 (+2 to Fort, +2 hp per HD, +2 to earthbound’s regeneration, and the based creature’s Constitution-based DCs).
 
 **Feats:** Gain Improved Grapple as a bonus feat, even if the base creature doesn’t meet the prerequisites, and make apt changes to existing feats.
 

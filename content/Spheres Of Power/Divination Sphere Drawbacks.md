@@ -11,25 +11,25 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Divining Concoction
+#### Divining Concoction
 
 You must select the Instill Divination talent with the bonus talent granted by this drawback, and you can only use your Divination sphere abilities through this talent.
 
-## Limited Divination
+#### Limited Divination
 
 Choose either sense or divine. You can only use this ability and cannot use the other type.
 
-## Limited Penetration
+#### Limited Penetration
 
 When using Divination talents or abilities to divine you cannot penetrate solid objects. You must select a (divine) talent with the bonus talent granted by this drawback.
 
 **Incompatible:** Limited Divination (sense)
 
-## Hidden Magic
+#### Hidden Magic
 
 You do not gain the base divine ability to detect magic, nor the base sense ability to decipher magical text. You may still gain other senses through magic talents and gain the ability to detect other things (undead, charms, etc.) through the divine ability.
 
-## Shaped Divination
+#### Shaped Divination
 
 Your divine area changes to a cone rather than a sphere centered upon yourself. You may take this drawback a second time, limiting your ability to only divine targets inside a line instead of a cone. This drawback does in no other way change the range at which you may divine targets. In regards to this drawback, your divination shape (be it cone or line) remains fixed pointing in one direction, and once each round as a free action you may change the direction of the shape. You must select (divine) talent(s) with the bonus talent(s) granted by this drawback.
 

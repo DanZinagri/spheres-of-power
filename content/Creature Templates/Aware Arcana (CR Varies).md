@@ -22,7 +22,7 @@ Known as prized sentinels for capable spellcasters, Aware Arcana require no sust
 
 **Hit Dice:** It possesses 1d10 Hit Dice equal to twice its CR (Calculate BAB and saves as a construct).
 
-**Defenses/Qualities:** construct traits. DR 5/cold iron (increase to 10 if the Aware Arcana’s CR is 10 or higher, increase to 15 if the Aware Arcana’s CR is 15 or higher), SR equal to 11 + CR,**Immune**If the spell has a descriptor the Aware Arcana is immune to spells and effects with the same descriptor.See the chart below for movement rates.** Weakness:** dispelling flaw (see below)
+**Defenses/Qualities:** construct traits. DR 5/cold iron (increase to 10 if the Aware Arcana’s CR is 10 or higher, increase to 15 if the Aware Arcana’s CR is 15 or higher), SR equal to 11 + CR, **Immune** If the spell has a descriptor the Aware Arcana is immune to spells and effects with the same descriptor.See the chart below for movement rates. **Weakness:** dispelling flaw (see below)
 
 **Speed:** The Aware Arcana’s movement is based on its spell range, see the table below
 

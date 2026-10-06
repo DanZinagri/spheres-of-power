@@ -14,7 +14,7 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Construct Controller
+#### Construct Controller
 
 Requires (cohort) package.
 
@@ -22,11 +22,11 @@ You cannot recruit living cohorts. You must choose the Constructor talent with t
 
 If you possess the (followers) package, your followers are constructs. They require no supplies, but also do not gather supplies for you.
 
-## Cult Leader
+#### Cult Leader
 
 Whenever this sphere uses or grants ranks in Diplomacy or calls for a Diplomacy check, you instead gain ranks in Bluff or make a Bluff check. This drawback does not grant a bonus talent; removing this drawback does not require spending a talent, but requires GM permission. You use Bluff ranks in place of Diplomacy ranks for prerequisites for feats and talents that require the Leadership sphere. If you possess both the Leadership and Fencing spheres, you gain a competence bonus on Bluff checks equal to half your base attack bonus instead of retraining the ranks a second time.
 
-## Dread Master
+#### Dread Master
 
 Whenever this sphere uses or grants ranks in Diplomacy or calls for a Diplomacy check, you instead gain ranks in Intimidate or make an Intimidate check. This drawback does not grant a bonus talent; removing this drawback does not require spending a talent, but requires GM permission.
 
@@ -34,33 +34,33 @@ You use Intimidate ranks in place of Diplomacy ranks for prerequisites for feats
 
 If you possess both the Leadership and Gladiator spheres, you gain a competence bonus on Intimidate checks equal to half your base attack bonus instead of retraining the ranks a second time.
 
-## Mind Bender
+#### Mind Bender
 
 Requires (cohort) package.
 
 Your recruit ability relies on subconsciously mystical mental manipulation. Your cohorts are considered to be under a magical (charm) effect with a caster level equal to your Hit Dice and a magic skill defense equal to 11 + your ranks in Diplomacy. Any effect that would suppress or dispel such an effect releases a cohort from your influence. Creatures so released are hostile toward you. You must choose the Brainwash talent with the bonus talent gained from this drawback and must apply it to all creatures you recruit.
 
-## Sedentary
+#### Sedentary
 
 Requires (followers) package.
 
 You gain the Base of Operations talent as the bonus talent for this drawback. You do not gain a group of followers other than via that talent, so your followers cannot form a caravan.
 
-## Squad Leader
+#### Squad Leader
 
 Requires (cohort) package.
 
 You may only recruit troops, not individual cohorts. You must choose the Squad talent as the bonus talent gained from this drawback.
 
-## Summoner [Apoc]
+#### Summoner [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 Requires (cohort) package.
 
 You cannot recruit cohorts native to the plane you are on and must instead recruit them from outer planes. You must choose the Friends in High Places talent with the bonus talent gained from this drawback and may only recruit cohorts with the outsider type. Your cohorts are considered to be summoned creatures with the effect having a caster level equal to your Hit Dice and a magic skill defense equal to 11 + your ranks in Diplomacy. Any effect that would suppress or dispel such an effect dismisses your cohort as well (you are free to try to reach them again later when you have the opportunity).
 
-## Undead Servants
+#### Undead Servants
 
 Requires (cohort) package.
 

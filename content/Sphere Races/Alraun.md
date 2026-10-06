@@ -110,7 +110,7 @@ Poison eater alraun are filled with vicious toxins and use their poisoned blood 
 
 **Poison Eater:** Poison eater alraun are immune to poison and a number of times per day equal to its Constitution modifier (minimum 1/day), can envenom a weapon that it wields with its toxic blood (a poison eater alraun must be injured when it uses this ability). Applying venom in this way is a swift action.
 
-- **Alraun Poison:** Injury;**save**Fort DC 10 + 1/2 the user’s Hit Dice + the user’s Constitution modifier;**frequency**1/round for 6 rounds;**effect**1d2 Dex;**cure** 1 save.
+- **Alraun Poison:** Injury; **save** Fort DC 10 + 1/2 the user’s Hit Dice + the user’s Constitution modifier; **frequency** 1/round for 6 rounds; **effect** 1d2 Dex; **cure** 1 save.
 
 **Poison Taster:** For every dose of poison that an alraun consumes, they gain one additional use of their own poison. If not used within 24 hours of ingestion, any additional doses of poison eater poison are lost.
 

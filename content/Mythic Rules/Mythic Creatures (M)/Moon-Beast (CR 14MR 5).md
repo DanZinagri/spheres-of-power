@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (M)]]"
 XP 25,600
 Pathfinder Roleplaying Game Bestiary 3
 CE Large aberration (mythic)
-**Init**+27/+7, dual initiativeMA;**Senses** blindsight 90 ft.; Perception +21
+**Init** +27/+7, dual initiativeMA; **Senses** blindsight 90 ft.; Perception +21
 
 #### Defense
 
-**AC**30,**touch**13,**flat-footed** 26 (+3 Dex, +1 dodge, +17 natural, –1 size)
+**AC** 30, **touch** 13, **flat-footed** 26 (+3 Dex, +1 dodge, +17 natural, –1 size)
 **hp** 173 (14d8+110)
-**Fort**+9,**Ref**+9,**Will** +15
-**Defensive Abilities**amorphous, DR 10/epic and piercing or slashing;**Immune**cold, gaze attacks, illusions, poison;**Resist**electricity 30;**SR** 24
+**Fort** +9, **Ref** +9, **Will** +15
+**Defensive Abilities** amorphous, DR 10/epic and piercing or slashing; **Immune** cold, gaze attacks, illusions, poison; **Resist** electricity 30; **SR** 24
 
 #### Offense
 
 **Speed** 50 ft., climb 20 ft., air walk
 **Melee** 2 claws +16 (1d6+7), 4 tentacles +18 (1d6+7)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** dream possessionMA, dream stalkingMA, mythic power (5/day, surge +1d8), mythic spell-like abilitiesMA, rend (2 tentacles, 1d6+10 plus Wisdom drain), tentacular titanMA, the twistingMA
 
 **Spell-Like Abilities** (CL 13th; concentration +19)
@@ -35,10 +35,10 @@ At will—detect thoughts (DC 20)
 
 #### Statistics
 
-**Str**24,**Dex**17,**Con**20,**Int**19,**Wis**18,**Cha** 27
-**Base Atk**+10;**CMB**+18;**CMD** 32 (36 vs. trip)
+**Str** 24, **Dex** 17, **Con** 20, **Int** 19, **Wis** 18, **Cha** 27
+**Base Atk** +10; **CMB** +18; **CMD** 32 (36 vs. trip)
 **Feats** Combat Casting, Dodge, Improved Initiative, Iron Will, Lightning ReflexesMF, LungeB, MF (tentacles only), Mobility, Weapon FocusMF (tentacles)
-**Skills**Climb +15, Diplomacy +15, Intimidate +25, Knowledge (arcana) +11, Knowledge (planes) +18, Perception +21, Sense Motive +18, Spellcraft +21, Stealth +24, Use Magic Device +22;**Racial Modifiers** +8 Stealth
+**Skills** Climb +15, Diplomacy +15, Intimidate +25, Knowledge (arcana) +11, Knowledge (planes) +18, Perception +21, Sense Motive +18, Spellcraft +21, Stealth +24, Use Magic Device +22; **Racial Modifiers** +8 Stealth
 **Languages** Aklo (can’t speak); telepathy 300 ft.
 **SQ** compression, no breath
 

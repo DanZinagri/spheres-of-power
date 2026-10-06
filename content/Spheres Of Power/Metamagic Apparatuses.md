@@ -40,8 +40,8 @@ A metamagic apparatus in the middle of being upgraded can still be used as its w
 
 ### Aligned Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 When you craft this apparatus (or gain it as a feat), choose a non-neutral component of your alignment. When you prepare (if you are a prepared caster) or cast (if you are a spontaneous caster or spherecaster) an aligned spell/talent, choose weal or woe. If you choose weal all variable, numeric effects of the spell are decreased by half (including bonuses to those dice rolls) for creatures of that alignment and increased by half (including bonuses to those dice rolls) for creatures of the opposite alignment.
 
@@ -54,8 +54,8 @@ Craft Apparatus, Align Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20
 
 ### Aquatic Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 An aquatic talent functions normally underwater and requires no magic skill check to cast, even if it has the fire descriptor. In addition, the talent can be cast from the surface into water and still be effective.
 
@@ -64,8 +64,8 @@ Craft Apparatus, Aquatic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 ### Bouncing Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 Whenever a bouncing talent targeting a single creature has no effect on its intended target (whether due to spell resistance or a successful saving throw) you may, as a swift action, redirect it to target another eligible creature within range. The redirected talent behaves in all ways as if its new target were the original target for the talent. Talents that affect a target in any way (including a lesser effect from a successful saving throw) may not be redirected in this manner.
 
@@ -74,8 +74,8 @@ Craft Apparatus, Bouncing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 ### Brisk Metamagic Apparatus
 
-**Slot**none;**Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 0 sp
+**Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 0 sp
 
 You can alter talents that grant a creature a movement type it does not normally have to increase the speed for that movement type by 10 feet.
 
@@ -84,7 +84,7 @@ Craft Apparatus, Brisk Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 5,0
 
 ### Burning Metamagic Apparatus
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.; **Feat Cost** 2 sp
 
 The acid or fire effects of the affected talent adhere to the affected creature(s), causing more damage the next round. When a creature takes acid or fire damage from the affected talent, that creature takes damage equal to the talent’s caster level at the start of its next turn. The damage is acid or fire, as determined by the spell’s descriptor. If a burning talent has both the fire and acid descriptor, the caster chooses what kind of damage is dealt by the burning talent effect.
 
@@ -93,8 +93,8 @@ Craft Apparatus, Burning Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 ### Burrowing Metamagic Apparatus
 
-**Slot**None;**Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 3 sp
+**Slot** None; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 3 sp
 
 You allow a magic effect to function even without line of effect, transporting its effects through barriers that would otherwise impede it. You must still possess line of sight for effects that require it, and the target must still be within the effect’s range.
 
@@ -103,8 +103,8 @@ Craft Apparatus, Burrowing Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal)
 
 ### Cascading Metamagic Apparatus
 
-**Slot**none;**Price** 20,000 gp (normal)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 20,000 gp (normal)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 Only talents that target only you and have a duration of at least 1 round can be cast as cascade spells; you must either spend spell points to let each cascading effect persist without concentration or have an effect that allows them to linger without concentration. You can prepare multiple talents as a single cascade talent (treat this as if you were casting multiple sphere effects with the same action), as long as all talents are CL 7th or lower, and the total caster level does not exceed CL 9th. The duration of all the cascade talents is equal to the shortest duration for all the talents. A cascade talent has a casting time equal to the longest casting time of all the talents in the cascade. Unlike most metamagic apparatuses, this apparatus only comes in one level.
 
@@ -113,8 +113,8 @@ Craft Apparatus, Cascade Spell; **Cost** 10,000 gp (normal)
 
 ### Coaxing Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 This can only be applied to mind-affecting effects. A coaxing talent affects mindless oozes and vermin as if they were not mindless, but has no effect on other creature types. This does not provide the effects of the Mind sphere’s Expanded Charm talent.
 
@@ -123,8 +123,8 @@ Craft Apparatus, Coaxing Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 ### Concussive Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 With sonic damage comes a concussive wave of energy that rattles creatures affected by the talent. A concussive talent causes creatures that take damage from a talent that has the sonic descriptor to take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks for a number of rounds equal to half the caster level of the spell (rounded down, minimum 1). This only affects talents with the sonic descriptor.
 
@@ -133,8 +133,8 @@ Craft Apparatus, Concussive Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 ### Conditional Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 You must cast a conditional talent immediately before casting another talent on the same creature, eliciting a promise or warning against a behavior and binding the target to the paired talent. If you do not cast a paired talent, the conditional talent has no effect. The paired talent must be from the Alteration, Enhancement, Fate, Life, Mind, Nature, or Protection spheres and must be cast on a willing creature. If the talent’s recipient violates the oath or prohibition while the conditional talent remains in effect, the paired talent is undone as if never cast. If the talent was a healing talent, the hit point damage or condition you removed returns immediately, even if the subject has enjoyed subsequent rest or healing. Poisons, diseases, curses, restored ability damage, and negative levels removed by the paired talent return as well.
 
@@ -147,8 +147,8 @@ Craft Apparatus, Conditional Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal
 
 ### Consecrated Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 A consecrated talent is treated as a maximized talent against evil creatures and creatures with the evil subtype. Against all other creatures, this feat does not modify the spell in any way (for example, a consecrated destructive blast acts as a normal destructive blast against neutral or good creatures). This feat does not stack with Maximize Spell.
 
@@ -157,8 +157,8 @@ Craft Apparatus, Consecrate Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 ### Contagious Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 You can apply this effect only to targeted talents that are harmful to their target and do not have a range of personal; a contagious talent never spreads to someone who would benefit from being the target of the talent.
 
@@ -169,8 +169,8 @@ Craft Apparatus, Contagious Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 ### Contingent Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 A contingent talent infuses a target with a dormant healing or restorative talent that can trigger when the target needs it the most. This metamagic can be applied to only Life talents or any harmless talent that can be used to remove ability score damage, ability score drain, or a negative condition or effect (such as the Life sphere’s Restore Senses talent). When you cast a contingent talent, you must set a specific trigger that dictates under what circumstances the target is immediately subject to the spell’s effects (for instance, “When the target dies, cure + Resuscitate takes effect”). The contingent talent’s effects can remain dormant within the target for up to 10 minutes per caster level you have. A creature can be infused with only one contingent talent at a time.
 
@@ -179,8 +179,8 @@ Craft Apparatus, Contingent Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 ### Dazing Metamagic Apparatus
 
-**Slot**none;**Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 3 sp
+**Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 3 sp
 
 You can modify a talent to daze a creature damaged by it. When a creature takes damage from this spell, they become dazed for a number of rounds equal to half the caster level of the talent (minimum 1). If the talent allows a saving throw, a successful save negates the daze effect.
 
@@ -191,8 +191,8 @@ Craft Apparatus, Dazing Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal), 3
 
 ### Delayed Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 You delay the effect of a sphere ability for up to 5 rounds after you use it. You must select the amount of delay when using the effect. The area or target to be affected must be within range when the ability is used, but need not remain in your range (you or it may move) before the effect activates.
 
@@ -201,8 +201,8 @@ Craft Apparatus, Delayed Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 ### Disruptive Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 Targets affected by a disruptive spell must attempt concentration checks when using talents or sphere-like abilities (DC equals the save DC of the disruptive spell plus 1/2 the caster level of the talent being cast (minimum 1)) for 1 round. Targets that avoid the talent’s effects avoid the effect of this feat or apparatus as well.
 
@@ -211,8 +211,8 @@ Craft Apparatus, Disruptive Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal)
 
 ### Ectoplasmic Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 An ectoplasmic talent has full effect against incorporeal or ethereal creatures.
 
@@ -221,8 +221,8 @@ Craft Apparatus, Ectoplasmic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal
 
 ### Elemental Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 Choose one of the following energy types when crafting this apparatus or gaining this feat: acid, cold, electricity, or fire. You may replace a talent’s normal damage with that energy type or split the talent’s damage, so that half is of that energy type and half is of its normal type. If this is found as an apparatus, not crafted, roll 1d4 to determine (in alphabetical order) which element the metamagic apparatus is attuned to. These apparatuses are usually named with their elemental affinity in front.
 
@@ -231,8 +231,8 @@ Craft Apparatus, Elemental Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 ### Empowering Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 All variable, numeric effects of an empowered talent are increased by half, including bonuses to those dice rolls. Saving throws and opposed rolls are not affected, nor are talents without random variables.
 
@@ -241,8 +241,8 @@ Craft Apparatus, Empower Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 ### Encouraging Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 Any morale bonus granted by an encouraging talent is increased by 1. (Morale bonuses are usually granted by the Mind and War spheres.)
 
@@ -251,8 +251,8 @@ Craft Apparatus, Encouraging Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal
 
 ### Enlarging Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 You can alter a talent with a range of close, medium, or long to increase its range by 100%. An enlarged talent with a range of close now has a range of 50 feet + 5 feet/ level, while medium-range spells have a range of 200 feet + 20 feet/level and long-range spells have a range of 800 feet + 80 feet/level. Talents whose ranges are not defined by distance, as well as talents whose ranges are not close, medium, or long, do not benefit from this effect.
 
@@ -261,8 +261,8 @@ Craft Apparatus, Enlarging Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 ### Extending Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 An extended talent lasts twice as long as normal. A talent with a duration of concentration, instantaneous, or permanent is not affected by this effect, but you may choose to activate this metamagic effect when spending a spell point to make a talent you are concentrating on last without concentration, rather than when you initially cast the sphere effect.
 
@@ -271,8 +271,8 @@ Craft Apparatus, Extend Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10
 
 ### Fearsome Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 When a creature takes hit point damage from a fearsome talent, if that creature fails its save against the talent, it becomes shaken for a number of rounds equal to 1/2 the talent’s caster level (minimum 1 round). If the talent does not allow a save, creatures harmed by it can attempt a Will save (against the same DC the talent would have if it did allow a save) to negate the shaken effect. If the talent already causes creatures to become shaken, on a failed save, add the duration of this metamagic effect to the duration of the shaken condition imposed by the talent. A fearsome talent cannot cause a creature to become frightened, even if that creature is already shaken.
 
@@ -281,8 +281,8 @@ Craft Apparatus, Fearsome Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal),
 
 ### Flaring Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 The electricity, fire, or light effects of the affected talent create a flaring light that dazzles creatures that take damage from the talent. A flaring talent causes a creature that takes fire or electricity damage from the affected talent to become dazzled for a number of rounds equal 1/2 the caster the spell (minimum 1 round). A flaring metamagic effect only affects talents with a fire, light, or electricity descriptor that deal damage.
 
@@ -291,8 +291,8 @@ Craft Apparatus, Flaring Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 ### Fleeting Metamagic Apparatus
 
-**Slot**none;**Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 0 sp
+**Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 0 sp
 
 A fleeting talent’s duration becomes dismissible, if it is not already. You can dismiss your own fleeting talent as a swift action. When you dismiss a fleeting talent, its lingering aura cannot be detected by magic unless the caster succeeds at a magic skill check against a DC equal to 11 + 1/2 your caster level (minimum 1). The DC of checks to counter a fleeting spell is reduced by 2, and once active, counterspell removes a fleeting spell without a magic skill check. A fleeting talent has half its normal duration (with an extended fleeting talent, these duration adjustments cancel out). Only talents with a duration of at least 2 rounds can be made fleeting, and instantaneous or permanent talents cannot be fleeting talents. Time spent concentrating on a talent does not count against a fleeting talent’s time limit, and you may choose to activate this metamagic when spending a spell point to make a talent you are concentrating on last without concentration.
 
@@ -301,8 +301,8 @@ Craft Apparatus, Fleeting Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 
 
 ### Focusing Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 When casting a talent that affects or targets more than one creature, you can choose one target or creature within the talent’s effect. That creature’s saving throw DC to resist the talent is increased by +2. You must choose which target to focus the talent on before casting the talent.
 
@@ -311,8 +311,8 @@ Craft Apparatus, Focusing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 ### Furious Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 A furious talent that deals hit point damage adds the talent’s caster level to the amount of damage dealt by the talent. Talents that affect multiple targets deal the extra damage once to each target, regardless of whether the talent deals its damage all at once or in multiple hits (in the latter case, add the extra damage to the first hit against each target). In addition, a furious talent can be cast while the caster is enraged, including during a barbarian rage or while affected by a rage talent. Even a furious talent that requires an emotion component (as required by the Emotional Casting drawback) can be cast while enraged. The caster gains a +2 circumstance bonus on concentration checks and magic skill checks related to casting a furious talent if she is enraged.
 
@@ -321,8 +321,8 @@ Craft Apparatus, Furious Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 ### Horrifying Metamagic Apparatus, Minor
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 Anyone targeted by your spells or sphere effects, attempting a save against them, or within their area becomes shaken for 1d4+1 rounds unless they succeed at a Will saving throw using the same DC as the original spell.
 
@@ -333,8 +333,8 @@ Craft Apparatus, Horrifying Imagination; **Cost** 2,500 gp (lesser), 5,000 gp (n
 
 ### Horrifying Metamagic Apparatus, Major
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 Anyone targeted by your spells or sphere effects, attempting a save against them, or within their area becomes frightened for 1d4+1 rounds unless they succeed at a Will saving throw using the same DC as the original spell. On a successful save they instead become shaken for 1d4+1 rounds. This is a mind-affecting fear effect. Characters must only save against this effect once per spell or sphere effect it is applied to even if the modified spell requires additional saves.
 
@@ -343,8 +343,8 @@ Craft Apparatus, Horrifying Imagination; **Cost** 5,000 gp (lesser), 10,000 gp (
 
 ### Intuitive Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 An intuitive talent can be cast with no mental focus (as required by the Mental Focus drawback). Talents that do not normally require mental focus are not affected.
 
@@ -353,8 +353,8 @@ Craft Apparatus, Intuitive Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 ### Lingering Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 You may cause an instantaneous talent that affects an area to persist until the beginning of your next turn. Those already in the area suffer no additional harm, but other creatures or objects entering the area are subject to its effects. A lingering talent with a visual manifestation obscures vision, providing concealment (20% miss chance) beyond 5 feet and total concealment (50% miss chance) beyond 20 feet.
 
@@ -363,8 +363,8 @@ Craft Apparatus, Lingering Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 ### Logical Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 A logical talent can be cast without emotion components (as required by the Emotional Casting drawback). Talents that do not require emotion components are not affected.
 
@@ -373,8 +373,8 @@ Craft Apparatus, Logical Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 1
 
 ### Maximizing Metamagic Apparatus
 
-**Slot**none;**Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 3 sp
+**Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 3 sp
 
 All variable, numeric effects of a talent modified by this metamagic are maximized. Saving throws and opposed rolls are not affected, nor are talents without random variables. An empowered, maximized talent gains the separate benefits of each feat: the maximum result plus half the normally rolled result.
 
@@ -383,8 +383,8 @@ Craft Apparatus, Maximize Spell; **Cost** 7,500 gp (lesser), 15,000 gp (normal),
 
 ### Merciful Metamagic Apparatus
 
-**Slot**none;**Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 0 sp
+**Slot** none; **Price** 2,500 gp (lesser), 5,000 gp (normal), 10,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 0 sp
 
 You can alter talents that inflict damage to inflict nonlethal damage instead. Talents that inflict damage of a particular type (such as fire) inflict nonlethal damage of that same type.
 
@@ -393,8 +393,8 @@ Craft Apparatus, Merciful Spell; **Cost** 1,250 gp (lesser), 2,500 gp (normal), 
 
 ### Persistent Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 Whenever a creature targeted by a persistent talent or within its area succeeds at its saving throw against the talent, it must attempt another saving throw against the effect. If a creature fails this second saving throw, it suffers the full effects of the talent, as if it had failed its first saving throw. Talents that do not require a saving throw to resist or lessen the talent’s effect do not benefit from this feat.
 
@@ -403,8 +403,8 @@ Craft Apparatus, Persistent Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 ### Piercing Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 When you cast a piercing talent against a target with spell resistance, it treats the spell resistance of the target as 5 lower than its actual spell resistance.
 
@@ -413,8 +413,8 @@ Craft Apparatus, Piercing Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 ### Quickening Metamagic Apparatus
 
-**Slot**none;**Price** 20,000 gp (lesser), 40,000 gp (normal), 80,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 4 sp
+**Slot** none; **Price** 20,000 gp (lesser), 40,000 gp (normal), 80,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 4 sp
 
 Activating this metamagic decreases the casting time of a talent by 2 steps (to a minimum of one swift action). Like all metamagic effects, a caster cannot apply Quicken Spell multiple times to the same casting.
 
@@ -423,8 +423,8 @@ Craft Apparatus, Quicken Spell; **Cost** 10,000 gp (lesser), 20,000 gp (normal),
 
 ### Reaching Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 You can alter a spell with a range of touch, close, or medium to increase its range to a higher range category, using the following order: touch, close, medium, and long. Unlike most metamagic effects, you may activate this metamagic multiple times for the same casting to increase its range. A reaching metamagic apparatus has 5 charges per day instead of the usual 3.
 
@@ -433,8 +433,8 @@ Craft Apparatus, Reach Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 20
 
 ### Riming Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 The frost of your cold talent clings to the target, impeding it for a short time. A rime talent causes creatures that take cold damage from the talent to become entangled for a number of rounds equal to 1/2 the caster level of the talent (minimum 1). This feat only affects talent with the cold descriptor that deal damage.
 
@@ -443,8 +443,8 @@ Craft Apparatus, Rime Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,0
 
 ### Scarring Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 When a creature fails a saving throw against a scarring talent, for the next 24 hours that creature takes a -2 penalty on saving throws against emotion and fear effects you create, and a -1 penalty on saving throws against other emotion and fear effects. Penalties from multiple scarring talents do not stack. This metamagic can be activated only for talents with the emotion or fear descriptor.
 
@@ -453,8 +453,8 @@ Craft Apparatus, Scarring Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 ### Seeking Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 A seeking talent’s range can bend around obstacles to reach the intended target. You can define the route yourself or unambiguously identify a target and allow the talent to determine its own path. However, the talent fails if it would have to travel farther than its maximum range to reach the identified target. A ranged attack roll made to deliver a seeking talent is not subject to cover or concealment. In order to benefit from this effect, the selected talent must have a range greater than touch and target one or more creatures, or it must require the caster to make a ranged touch attack.
 
@@ -463,8 +463,8 @@ Craft Apparatus, Seeking Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 ### Selective Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 When casting a selective talent with an area effect and a duration of instantaneous, you can choose a number of targets in the area equal to your casting ability score modifier. These targets are excluded from the effects of your talent.
 
@@ -473,8 +473,8 @@ Craft Apparatus, Selective Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 ### Shadow Grasping Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 When you cast a talent with the darkness descriptor that affects an area, creatures in the area are entangled. If the talent allows a saving throw, a successful save negates the entangle effect. If the talent does not normally allow a save, a creature can attempt a Reflex save (DC = the talent’s DC if it had a saving throw) to negate the effect. If the talent allows spell resistance, failing to overcome a creature’s spell resistance means it is not entangled. An entangled creature remains so as long as it is in the area of the talent and for 1 round after it leaves. A creature that leaves and reenters the area must attempt a new saving throw to avoid becoming entangled. Creatures that succeed at a save to resist being entangled do not have to attempt additional saves if they stay within the darkened area. You are never impeded by the effects of your talents modified by this feat.
 
@@ -483,8 +483,8 @@ Craft Apparatus, Shadow Grasp; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10
 
 ### Sickening Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 You can modify a talent to sicken a creature damaged by the talent. When a creature takes damage from this talent, they become sickened for a number of rounds equal 1/2 the caster level of the spell (minimum 1 round). If the talent allows a saving throw, a successful save negates the sickening effect. If the talent does not allow a save, the target can attempt a Fortitude save to negate the sickening effect. If the talent effect also causes the creature to become sickened, the duration of this metamagic effect is added on to the duration of the talent. Talents that do not inflict damage do not benefit from this effect.
 
@@ -493,8 +493,8 @@ Craft Apparatus, Sickening Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal)
 
 ### Silent Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 A silent talent can be cast with no verbal components (as required by the Verbal Casting drawback). Talents without verbal components are not affected.
 
@@ -503,7 +503,7 @@ Craft Apparatus, Silent Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10
 
 ### Snuffing Metamagic Apparatus
 
-**Slot**none;**Price**10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater);**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater); **Weight** 5 lbs.; **Feat Cost** 2 sp
 
 You can modify a talent to extinguish magical any non-magical light sources that the target has. The first time a creature takes damage from or fails a saving throw against a snuffing talent, any non-magical light sources it has are immediately extinguished and you can attempt to dispel any active sphere effects with the light descriptor that are affecting the target as if you had also cast the targeted version of Counterspell (as the feat). Talents that do not target creatures cannot be snuffing talents.
 
@@ -512,8 +512,8 @@ Craft Apparatus, Snuffing Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal),
 
 ### Solar Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 Any talent you cast with the light descriptor that deals damage (including the Light sphere’s Searing Light talent and any blast type in the Destruction sphere’s Light blast type group) is fortified with the cleansing energies of the sun. If the talent creates an area of light, all creatures are dazzled for as long as they remain within the light’s area. Oozes, fungal creatures, creatures from the Shadow Plane, and undead must also succeed at a Will save (normal DC for your talent) or take a –2 penalty on attack rolls, damage rolls, saving throws, skill checks, and ability checks for as long as they remain within the light’s area. If the talent normally dazzles or blinds affected creatures with a duration other than instantaneous or permanent, the duration of that effect is increased by a number of rounds equal to 1/2 the talent’s caster level (minimum 1 round). Saving throws to remove the effect early still apply and can bypass this increase. If the talent deals more damage against oozes, fungal creatures, creatures from the Shadow Plane, or undead with a specific vulnerability to sunlight, the talent deals 1 additional point of damage per die against such creatures. If a damaging effect does not deal damage based on dice, it instead deals 1 additional point of damage per caster level.
 
@@ -522,8 +522,8 @@ Craft Apparatus, Solar Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 ### Still Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 A stilled talent can be cast with no somatic components (as required by the Somatic Casting drawback). Talents without somatic components are not affected. A still metamagic apparatus does not need to be held or wielded to be used; it is activated mentally, so being carried or worn suffices.
 
@@ -532,8 +532,8 @@ Craft Apparatus, Still Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 ### Studied Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 When casting a studied talent, designate one target affected by the spell. Attempt an appropriate Knowledge check based on that target’s creature type as you cast the talent. The DC for this check is equal to 20 + the creature’s CR based on its race and not including any class levels or templates (a creature that is defined by class levels has an effective CR of 0 for this ability). If you succeed, your studied talent ignores any energy resistance or damage reduction the target has because of its race as well as any bonuses on saving throws against the talent granted by the target’s race (such as the bonus from a dwarf’s hardy ability or a halfling’s halfling luck ability). Your studied talent does not ignore energy resistance, damage reduction, or saving throw bonuses granted by other talents and effects. If you fail the Knowledge check, the talent still has its normal effects.
 
@@ -542,8 +542,8 @@ Craft Apparatus, Studied Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 
 
 ### Suppressed Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**3 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 3 lbs.; **Feat Cost** 2 sp
 
 Spells affected by this feat have a reduced manifestation. Being subjected to the effect requires a Perception check (DC 15 + 1/2 your caster level) or the target does not perceive the presence and source of the effect. For each (sensory) talent you possess, improve the Perception check DC by an additional +2 and hide sensation associated with that (sensory) talent. This has no effect on spells or sphere abilities that rely on a suppressed sensation(s) to function, but you may always forgo the +2 bonus to the Perception DC to allow the sensation of the effect to function normally.
 
@@ -553,7 +553,7 @@ Craft Apparatus, Suppressed Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 ### Tenacious Metamagic Apparatus
 
 **Slot** none; Price 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 Increase the DC of magic skill checks to counter or dispel a tenacious talent by 2. If a tenacious talent is dispelled or dismissed, it lasts for 1d4 further rounds (to a maximum of the talents normal duration) before ending (this does not occur if an antimagic field or a similar talent or effect suppresses or ends the talent’s effect without dispelling or dismissing it). The lingering auras of tenacious talents detectable with detect magic last for twice as long as usual after the talent ends.
 
@@ -562,8 +562,8 @@ Craft Apparatus, Tenacious Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 ### Tenebrous Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 When you cast a tenebrous talent in darkness or dim light, the spell’s effective caster level is increased by 2 and any associated save DCs are increased by 1. Any attempts at dispelling a tenebrous talent in darkness or dim light take a –2 penalty on the check. Casting a tenebrous talent in bright light is difficult, and requires a concentration check (DC 15 + the tenebrous talent’s effective caster level). Attempts to dispel a tenebrous talent in bright light gain a +4 bonus on the check. You cannot use this effect on talents with the light descriptor.
 
@@ -572,8 +572,8 @@ Craft Apparatus, Tenebrous Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal),
 
 ### Thanatopic Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 A thanatopic talent pierces defenses and immunities that protect against death effects, negative levels, and energy drain, affecting the target as if the protective barrier did not exist. For example, you could cast a thanatopic Vampiric Strike on a target under the effects of Deathless, and the target would suffer the normal effect of the talent. Saving throws and spell resistance (if any) still apply. Undead are susceptible to talents augmented by this feat, as it retunes the negative energy to be harmful to them.
 
@@ -584,8 +584,8 @@ Craft Apparatus, Thanatopic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 ### Threnodic Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 This effect only works on mind-affecting talents. A threnodic talents affects undead creatures (even mindless undead) as if they were not immune to mind-affecting effects, but has no effect on living creatures. This metamagic does not give you the effects of the Mind sphere’s Expanded Charm talent.
 
@@ -594,8 +594,8 @@ Craft Apparatus, Threnodic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal)
 
 ### Thundering Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 2 sp
 
 You can modify a talent to deafen a creature damaged by the talent. When a creature takes damage from this talent, it becomes deafened for a number of rounds equal to 1/2 the caster level of the spell (minimum 1 round). If the talent allows a saving throw, a successful save negates the deafening effect. If the talent does not allow a save, the target can attempt a Fortitude save to negate the deafening effect. If the talent effect also causes the creature to become deafened, the duration of this metamagic effect is added to the duration of the talent. Talents that do not inflict damage do not benefit from this metamagic.
 
@@ -604,8 +604,8 @@ Craft Apparatus, Thundering Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal
 
 ### Toppling Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 The impact of your force talent is strong enough to knock the target prone. If the target takes damage, fails its saving throw, or is moved by your force talent, make a trip check against the target, using your caster level plus your casting ability modifier. This does not provoke an attack of opportunity. If the check fails, the target cannot attempt to trip you or the force effect in response. This metamagic only affects talents with the force descriptor.
 
@@ -614,8 +614,8 @@ Craft Apparatus, Toppling Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 
 
 ### Toxic Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 You can use 1 dose of contact, ingested, inhaled, or injury poison as an additional material component for a talent you cast. This talent gains the poison descriptor. Select a single creature affected by the talent. If that creature fails its saving throw against the talent, it must also attempt a saving throw against the poison used as a material component. If the target fails the save against the poison, the poison takes effect immediately, ignoring any onset time.
 
@@ -626,8 +626,8 @@ Craft Apparatus, Toxic Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 ### Traumatic Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat** Cost 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat** Cost 2 sp
 
 A traumatic talent causes lingering memories of pain and suffering in creatures harmed by it. When a creature fails a saving throw against a traumatic talent, the next time it sleeps it must succeed at a Will save with a DC equal to the original talent’s DC or be affected as if by nightmare (as the spell). Each time the target fails its save, it must save again the following night or be affected by another nightmare, though the save DC decreases by 2 each night after the first. This metamagic effect can be applied only to talents with the emotion or fear descriptor.
 
@@ -636,8 +636,8 @@ Craft Apparatus, Traumatic Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal)
 
 ### Tricking Metamagic Apparatus
 
-**Slot**none;**Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 1 sp
+**Slot** none; **Price** 5,000 gp (lesser), 10,000 gp (normal), 20,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 1 sp
 
 Only Mind talents (or talents that also include an effect from the Mind sphere, such as some spellcrafted or dual sphere effects) that affect a single target and can be negated with a successful Will save can be trick talents. If the target fails its Will save against a trick talent, in addition to the talent’s normal effects, the target also clumsily hinders itself. Immediately attempt a special combat maneuver check (1d20 + your caster level + your Charisma bonus) to perform a dirty trick combat maneuver against the target. Any feats you have that apply to dirty trick maneuvers (such as Greater Dirty Trick) also apply to this check. This combat maneuver check never provokes attacks of opportunity.
 
@@ -646,8 +646,8 @@ Craft Apparatus, Trick Spell; **Cost** 2,500 gp (lesser), 5,000 gp (normal), 10,
 
 ### Umbral Metamagic Apparatus
 
-**Slot**none;**Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
-**Weight**5 lbs.;**Feat** Cost 2 sp
+**Slot** none; **Price** 10,000 gp (lesser), 20,000 gp (normal), 40,000 gp (greater)
+**Weight** 5 lbs.; **Feat** Cost 2 sp
 
 An umbral talent gains the darkness descriptor. As long as the talent is in effect, the creature or object affected radiates darkness in a 10-foot radius, reducing illumination similar to the effects of the basic effect of the Dark sphere. Nonmagical sources of light, such as torches or lanterns, do not increase the light level in this area.
 
@@ -658,8 +658,8 @@ Craft Apparatus, Umbral Spell; **Cost** 5,000 gp (lesser), 10,000 gp (normal), 2
 
 ### Widening Metamagic Apparatus
 
-**Slot**none;**Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater)
-**Weight**5 lbs.;**Feat Cost** 3 sp
+**Slot** none; **Price** 15,000 gp (lesser), 30,000 gp (normal), 60,000 gp (greater)
+**Weight** 5 lbs.; **Feat Cost** 3 sp
 
 You can alter a burst, emanation, or spread-shaped spell to increase its area. Any numeric measurements of the spell’s area increase by 100%. Spells that do not have an area of one of these sorts are not affected by this feat. (Cones, lines, and spheres are emanations.)
 

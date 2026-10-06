@@ -13,20 +13,20 @@ A spider the size of an elephant, this dark blue arachnid rears up on its six hi
 XP 25,600
 Pathfinder Roleplaying Game Bestiary
 CE Huge outsider (chaotic, evil, extraplanar, mythic)
-**Init**+5;**Senses** darkvision 60 ft., scent; Perception +16
+**Init** +5; **Senses** darkvision 60 ft., scent; Perception +16
 
 #### Defense
 
-**AC**27,**touch**9,**flat-footed** 26 (+1 Dex, +18 natural, –2 size)
+**AC** 27, **touch** 9, **flat-footed** 26 (+1 Dex, +18 natural, –2 size)
 **hp** 212 (12d10+146)
-**Fort**+16,**Ref**+11,**Will** +7
+**Fort** +16, **Ref** +11, **Will** +7
 **Defensive Abilities** block attacksMA; DR 10/epic and good
 
 #### Offense
 
 **Speed** 60 ft., climb 30 ft.
 **Melee** bite +20 (2d6+10 plus withering rotMA) and 2 claws +20 (2d4+15/19–20/x3 plus negate armorMA)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** mythic power (5/day, surge +1d8), penetrating strike, pounceMA, web (+11 ranged touch, DC 24, 12 hp)
 
 **Spell-Like Abilities** (CL 12th)
@@ -34,10 +34,10 @@ At will—plane shift (bebilith only)
 
 #### Statistics
 
-**Str**30,**Dex**12,**Con**26,**Int**11,**Wis**13,**Cha** 13
-**Base Atk**+12;**CMB**+24;**CMD** 35 (47 vs. trip)
+**Str** 30, **Dex** 12, **Con** 26, **Int** 11, **Wis** 13, **Cha** 13
+**Base Atk** +12; **CMB** +24; **CMD** 35 (47 vs. trip)
 **Feats** CleaveMF, Improved Critical (claws)MF, Improved Initiative, Iron Will, Lightning Reflexes, Power AttackMF
-**Skills**Acrobatics +16, Climb +33, Perception +16, Sense Motive +16, Stealth +16, Survival +16;**Racial Modifiers** +8 Stealth
+**Skills** Acrobatics +16, Climb +33, Perception +16, Sense Motive +16, Stealth +16, Survival +16; **Racial Modifiers** +8 Stealth
 **Languages** Abyssal (cannot speak); telepathy 100 ft.
 **SQ** powerful blows (claw)MA
 

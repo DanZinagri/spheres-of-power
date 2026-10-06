@@ -14,16 +14,16 @@ unfit to walk in the light.
 **Corpse Puppet (Su):** At 1st level, a corpse puppeteer may create a corpse puppet from the corpse of a deceased Medium or Small humanoid or a four legged animal (other animal corpses may be allowed upon GM approval). Treat this as a skeleton for corpse puppeteers with void as their elemental focus. If their elemental focus is viscera, it instead is treated as a construct (therefore a chaokineticist’s corpse would gain additional hit points upon raising its Charisma, while a corpokineticist’s corpse receives additional hit points according to its size).
 
 > **Medium Humanoid Corpse**
-> **Size**Medium;**Speed**30 ft.;**AC**+2 natural armor;**Attack**2 claws (1d4);**Ability Scores**Str 16, Dex 13, Con —, Int —, Wis 10, Cha 11;**Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
+> **Size** Medium; **Speed** 30 ft.; **AC** +2 natural armor; **Attack** 2 claws (1d4); **Ability Scores** Str 16, Dex 13, Con —, Int —, Wis 10, Cha 11; **Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
 
 > **Medium Animal Corpse**
-> **Size**Medium;**Speed**40 ft.;**AC**+2 natural armor;**Attack**bite (1d6);**Ability Scores**Str 17, Dex 13, Con —, Int —, Wis 10, Cha 11;**Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
+> **Size** Medium; **Speed** 40 ft.; **AC** +2 natural armor; **Attack** bite (1d6); **Ability Scores** Str 17, Dex 13, Con —, Int —, Wis 10, Cha 11; **Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
 
 > **Small Humanoid Corpse**
-> **Size**Small;**Speed**20 ft.;**AC**+2 natural armor;**Attack**2 claws (1d3);**Ability Scores**Str 13, Dex 16, Con —, Int —, Wis 10, Cha 11;**Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
+> **Size** Small; **Speed** 20 ft.; **AC** +2 natural armor; **Attack** 2 claws (1d3); **Ability Scores** Str 13, Dex 16, Con —, Int —, Wis 10, Cha 11; **Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
 
 > **Small Animal Corpse**
-> **Size**Small;**Speed**30 ft.;**AC**+2 natural armor;**Attack**bite (1d4);**Ability Scores**Str 13, Dex 17, Con —, Int —, Wis 10, Cha 11;**Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
+> **Size** Small; **Speed** 30 ft.; **AC** +2 natural armor; **Attack** bite (1d4); **Ability Scores** Str 13, Dex 17, Con —, Int —, Wis 10, Cha 11; **Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
 
 This corpse functions as a druid’s animal companion, using the corpse puppeteer’s level as their effective druid level. Despite being mindless, it gains feats as it levels up, although they must be from the list available to an animal companion.
 
@@ -48,10 +48,10 @@ This ability replaces the devotion ability normally granted to animal companions
 **Advanced Puppetry (Ex):** At 7th level, a corpse puppeteer can form a connection with a Large corpse or spend 10 minutes and accept 1 point of burn to permanently increase the size of a Medium corpse puppet to Large. A Large corpse gains the following stats:
 
 > **Large Humanoid Corpse**
-> **Size**Large;**Speed**40 ft.;**AC**+4 natural armor;**Attack**2 claws (1d6);**Space**10 ft.,**Reach**10 ft.;**Ability Scores**Str 20, Dex 13, Con —, Int —, Wis 10, Cha 12;**Special Qualities** DR 10/bludgeoning, construct traits (if viscera)/undead traits (if void)
+> **Size** Large; **Speed** 40 ft.; **AC** +4 natural armor; **Attack** 2 claws (1d6); **Space** 10 ft., **Reach** 10 ft.; **Ability Scores** Str 20, Dex 13, Con —, Int —, Wis 10, Cha 12; **Special Qualities** DR 10/bludgeoning, construct traits (if viscera)/undead traits (if void)
 
 > **Large Animal Corpse**
-> **Size**Large;**Speed**50 ft.;**AC**+4 natural armor;**Attack**bite 1d8,**Space**10 ft.,**Reach**10 ft.;**Ability Scores**Str 20, Dex 13, Con —, Int —, Wis 10, Cha 12,**Special Qualities** DR 10/bludgeoning, construct traits (if viscera)/undead traits (if void)
+> **Size** Large; **Speed** 50 ft.; **AC** +4 natural armor; **Attack** bite 1d8, **Space** 10 ft., **Reach** 10 ft.; **Ability Scores** Str 20, Dex 13, Con —, Int —, Wis 10, Cha 12, **Special Qualities** DR 10/bludgeoning, construct traits (if viscera)/undead traits (if void)
 
 A corpse puppeteer can also choose to instead form a connection with two Small corpses, treating their effective druid level as their corpse puppeteer level -3 for both of them. While they both share feats, applications of fleshcrafting are separate among them.
 
@@ -66,10 +66,10 @@ This ability replaces the utility wild talent gained at 10th level.
 **Fleshcrafting Master (Ex):** At 15th level, a corpse puppeteer can form a connection with a Huge corpse or spend 1 hour and accept 2 points of burn to permanently increase the size of a Large corpse puppet to Huge. A Huge corpse gains the following stats:
 
 > **Huge Humanoid Corpse**
-> **Size**Huge;**Speed**50 ft.;**AC**+8 natural armor;**Attack**2 claws (1d8);**Space**15 ft.,**Reach**15 ft.;**Ability Scores**Str 26, Dex 13, Con —, Int —, Wis 10, Cha 14;**Special Qualities** DR 10/bludgeoning and magic, construct traits (if viscera)/undead traits (if void)
+> **Size** Huge; **Speed** 50 ft.; **AC** +8 natural armor; **Attack** 2 claws (1d8); **Space** 15 ft., **Reach** 15 ft.; **Ability Scores** Str 26, Dex 13, Con —, Int —, Wis 10, Cha 14; **Special Qualities** DR 10/bludgeoning and magic, construct traits (if viscera)/undead traits (if void)
 
 > **Huge Animal Corpse**
-> **Size**Huge;**Speed**60 ft.;**AC**+8 natural armor;**Attack**bite (2d6);**Space**15 ft.,**Reach**15 ft.;**Ability Scores**Str 26, Dex 13, Con —, Int —, Wis 10, Cha 14;**Special Qualities** DR 10/bludgeoning and magic, construct traits (if viscera)/undead traits (if void)
+> **Size** Huge; **Speed** 60 ft.; **AC** +8 natural armor; **Attack** bite (2d6); **Space** 15 ft., **Reach** 15 ft.; **Ability Scores** Str 26, Dex 13, Con —, Int —, Wis 10, Cha 14; **Special Qualities** DR 10/bludgeoning and magic, construct traits (if viscera)/undead traits (if void)
 
 A corpse puppeteer can also use three uses of their unnatural evolution to instead apply one use of greater unnatural evolution. They can also instead form a connection between two Medium or smaller corpses treating their effective druid level as their corpse puppeteer level -2 for both of them. Both of these corpses gain a +4 to their strength and natural armor as well as 20 additional hit points each.
 

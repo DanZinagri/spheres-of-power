@@ -82,7 +82,7 @@ Some Alteration talents are marked (transformation). These talents grant additio
 
 #### Adaptive Physicality [utility] [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 You may add the following traits to your forms:
 
@@ -215,7 +215,7 @@ You may study a creature you can see as a full-round action or spend a spell poi
 
 #### Morph [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You can shapeshift yourself as a swift action, although you can only apply a single trait to this use of shapeshift (or two, if you possess the Greater Changes talent) and cannot change the creature’s form with a transformation. The effects of the trait only last for 1 round unless you spend 1 spell point. This shapeshift is unaffected by any talent or ability that increases the duration of or number of creatures you can affect with shapeshift.
 
@@ -308,7 +308,7 @@ Creatures gain a +1 bonus to attack rolls and to AC, as well as a +2 bonus to Fl
 
 #### Steal Shape [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 Whenever you successfully hit a creature with at least half as many Hit Dice as your character level with an attack that requires an attack roll, you may spend an additional spell point to use a shapeshift as a swift action on any creature within range. If the attack was a critical hit, knocked the target creature unconscious, or reduced the enemy to 0 or fewer hit points, you may use the shapeshift without spending the additional spell point required to use this talent. In either case, you must use the shapeshift to transform the target in such a way that it resembles the creature that was attacked (such as by making the target resemble the attacked creature or giving it traits analogous to the abilities of the attacked creature).
 
@@ -478,7 +478,7 @@ Each transformation talent lists information regarding the form they grant, incl
 
 You grant the form of a land beast or magical beast with your shapeshift.
 **Limbs:** 1 head, 4 legs
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 40 ft. land speed, +20 ft. per 5 caster levels
 **Natural weapons:** bite (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster levels
@@ -496,7 +496,7 @@ In addition, you may grant the following traits to any form:
 
 You grant the form of a humanoid creature with your shapeshift.
 **Limbs:** 1 head, 2 arms, 2 legs
-**Speech:** Yes;**Hands:** Yes
+**Speech:** Yes; **Hands:** Yes
 **Speed:** 30 ft. land speed.
 **Natural weapons:** none
 **AC:** none
@@ -516,7 +516,7 @@ Anthropomorphic Transformation offers the following traits, which you may apply 
 
 You grant the form of a swimming animal or magical beast with your shapeshift.
 **Limbs:** 1 head, tail
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 5 ft. land speed, 40 ft. swim speed. The swim speed increases by +20 ft. per 5 caster levels.
 **Natural weapons:** bite (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster levels
@@ -525,7 +525,7 @@ You grant the form of a swimming animal or magical beast with your shapeshift.
 Aquan Transformation offers the following traits, which you may apply to any form:
 
 - **Amphibious:** The shapeshifted target gains a swim speed as that granted by Aquan Transformation. In addition, the target gains the aquatic subtype and amphibious special quality, allowing the target to breathe both water and air.
-- **Aquatic Tail:** The shapeshifted target gains a tail and a circumstance bonus on Swim checks equal to +1 + 1 per 5 caster levels. In addition, the shapeshifted target may use this tail to create a sudden riptide while underwater. As a standard action the shapeshifted target can create a 10 feet + 5 feet per 2 caster levels cone. Creatures in the cone’s area take 2d6 + 1d6 per 5 caster levels nonlethal bludgeoning damage and are pushed 10 feet + 5 feet per 5 caster levels directly away from the shapeshifted target (Reflex negates; DC equal to the caster’s Alteration sphere DC plus the circumstance bonus on Swim checks granted by this trait). This cone can extend onto land, extending 5 feet for every 10 feet in the water. Creatures on land fall prone on a failed Reflex save instead of being moved back. The shapeshifted target must wait 1d4 rounds between uses of this ability.**Special:** When granting this trait, you may choose to have this tail replace the shapeshifted target’s legs. If you do, the shapeshifted target’s base land speed is reduced to 5 feet and the target cannot be tripped. In addition, the shapeshifted target gains a 30 feet swim speed or increases their existing swim speed by +15 feet (whichever is more beneficial). If the shapeshifted target gains legs through another ability or Alteration sphere trait, such as the Additional Limbs “a pair of legs” trait, the shapeshifted target loses any benefits or adjustments from replacing their legs with this tail.
+- **Aquatic Tail:** The shapeshifted target gains a tail and a circumstance bonus on Swim checks equal to +1 + 1 per 5 caster levels. In addition, the shapeshifted target may use this tail to create a sudden riptide while underwater. As a standard action the shapeshifted target can create a 10 feet + 5 feet per 2 caster levels cone. Creatures in the cone’s area take 2d6 + 1d6 per 5 caster levels nonlethal bludgeoning damage and are pushed 10 feet + 5 feet per 5 caster levels directly away from the shapeshifted target (Reflex negates; DC equal to the caster’s Alteration sphere DC plus the circumstance bonus on Swim checks granted by this trait). This cone can extend onto land, extending 5 feet for every 10 feet in the water. Creatures on land fall prone on a failed Reflex save instead of being moved back. The shapeshifted target must wait 1d4 rounds between uses of this ability. **Special:** When granting this trait, you may choose to have this tail replace the shapeshifted target’s legs. If you do, the shapeshifted target’s base land speed is reduced to 5 feet and the target cannot be tripped. In addition, the shapeshifted target gains a 30 feet swim speed or increases their existing swim speed by +15 feet (whichever is more beneficial). If the shapeshifted target gains legs through another ability or Alteration sphere trait, such as the Additional Limbs “a pair of legs” trait, the shapeshifted target loses any benefits or adjustments from replacing their legs with this tail.
 - **Blindsense** 30 feet (only in water)
 - **Ink Jet:** Once per minute, the target may shoot a jet of ink as a standard action. In water, this creates a 10-foot radius sphere that provides total concealment and persists for 1 minute. On land, this is a ranged touch attack with a 10-foot range increment and a maximum range of 50 feet that forces a struck creature to succeed at a Reflex save (DC 10 + 1/2 Hit Dice + Constitution modifier) or be blinded for 1d6 rounds or until they spend a standard action removing the ink from their eyes.
 - **Jet:** The target can swim backwards as a full-round action at four times their swim speed. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so. This trait requires a swim speed.
@@ -536,7 +536,7 @@ Aquan Transformation offers the following traits, which you may apply to any for
 
 You grant the form of a flying animal or magical beast with your shapeshift.
 **Limbs:** 1 head, 2 legs, 2 wings
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 20 ft. land speed, 30 ft. glide speed (the target takes no damage when falling and may glide, moving with a speed of 30 ft. with maneuverability (poor), but falling 1 ft. for every 5 ft. traveled.). At 5th caster level, the target gains a fly speed of 40 ft. with maneuverability (average). This improves by +20 ft. per 5 additional caster levels, and one maneuverability category per 10 additional caster levels.
 **Natural weapons:** 2 talons (primary, 1d4 Medium, 1d3 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster levels
@@ -555,7 +555,7 @@ Avian Transformation offers the following traits, which you may apply to any for
 
 You may grant the form of a dragon with your shapeshift.
 **Limbs:** 1 head, 4 legs (front 2 end in hands1), 1 tail
-**Speech:** Yes;**Hands:** Yes
+**Speech:** Yes; **Hands:** Yes
 **Speed:** 40 ft. land speed
 **Natural weapons:** bite (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster levels
@@ -577,7 +577,7 @@ Dragon Transformation offers the following traits, which you may apply to any fo
 
 You may grant the form of an elemental with your shapeshift.
 **Limbs:** mutable (up to 1 head, 2 legs, 2 arms, chosen when form is granted)
-**Speech:** Yes;**Hands:** Yes (if arms granted)
+**Speech:** Yes; **Hands:** Yes (if arms granted)
 **Speed:** 20 ft. land speed
 **Natural weapons:** 2 slams (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster levels
@@ -585,10 +585,10 @@ You may grant the form of an elemental with your shapeshift.
 
 Additionally, the target gains one of the following packages depending on what kind of elemental is being mimicked. Each elemental package notes separately the granted movement, including abilities related to that movement, and abilities:
 
-- **Air: Movement:** The target takes no damage when falling and may glide, moving with a speed of 30 feet with maneuverability (good), falling 1 foot for every 5 feet traveled. At 5th level, this improves to a 30 feet fly speed with maneuverability (good).**Abilities:** The target gains energy resistance to electricity equal to your caster level and the Elemental Transformation’s whirlwind trait as a bonus trait (which does not count against the number of traits the caster may apply with their shapeshift).
-- **Earth: Movement:** The target gains a 30 feet burrow speed and tremorsense 20 feet.**Abilities:** The target gains energy resistance to acid equal to your caster level and the target gains a +2 natural armor bonus, which stacks with other sources of natural armor.
-- **Fire: Movement:** The target gains a 40 feet land speed (this replaces the land speed granted by the base form).**Abilities:** The target gains energy resistance to fire equal to your caster level and the Elemental Transformation’s burn trait as a bonus trait (which does not count against the number of traits the caster may apply with their shapeshift).
-- **Water: Movement:** The target gains a 30 feet swim speed and can breathe water freely.**Abilities:** The target gains energy resistance to cold equal to your caster level and the Elemental Transformation’s whirlwind trait as a bonus trait (which does not count against the number of traits the caster may apply with their shapeshift).
+- **Air: Movement:** The target takes no damage when falling and may glide, moving with a speed of 30 feet with maneuverability (good), falling 1 foot for every 5 feet traveled. At 5th level, this improves to a 30 feet fly speed with maneuverability (good). **Abilities:** The target gains energy resistance to electricity equal to your caster level and the Elemental Transformation’s whirlwind trait as a bonus trait (which does not count against the number of traits the caster may apply with their shapeshift).
+- **Earth: Movement:** The target gains a 30 feet burrow speed and tremorsense 20 feet. **Abilities:** The target gains energy resistance to acid equal to your caster level and the target gains a +2 natural armor bonus, which stacks with other sources of natural armor.
+- **Fire: Movement:** The target gains a 40 feet land speed (this replaces the land speed granted by the base form). **Abilities:** The target gains energy resistance to fire equal to your caster level and the Elemental Transformation’s burn trait as a bonus trait (which does not count against the number of traits the caster may apply with their shapeshift).
+- **Water: Movement:** The target gains a 30 feet swim speed and can breathe water freely. **Abilities:** The target gains energy resistance to cold equal to your caster level and the Elemental Transformation’s whirlwind trait as a bonus trait (which does not count against the number of traits the caster may apply with their shapeshift).
 
 Elemental Transformation offers the following traits, which you may apply to any form:
 
@@ -615,7 +615,7 @@ Elemental Transformation offers the following traits, which you may apply to any
 #### Object Transformation (transformation) [Origin]
 
 **Limbs:** None
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 20 ft. land speed
 **Natural weapons:** slam (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster levels
@@ -647,7 +647,7 @@ Object Transformation offers the following traits, which you may apply to any fo
 #### Ooze Transformation (transformation) [Origin]
 
 **Limbs:** none
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 20 ft. land speed
 **Natural weapons:** slam (primary, 1d6 Medium, 1d4 Small, +1d4 acid)
 **AC:** +4 natural armor bonus, +1 per 5 caster levels
@@ -671,7 +671,7 @@ Ooze Transformation offers the following traits, which you may apply to any form
 
 You may grant the form of a floating sphere, helmet, or similar shape with your shapeshift.
 **Limbs:** none
-**Speech:** Yes;**Hands:** No
+**Speech:** Yes; **Hands:** No
 **Speed:** 5 ft. land speed, 30 ft. + 5 ft. per 5 caster levels float as the Float trait. At caster level 7, this speed becomes a fly speed with maneuverability (perfect). This levitation and flight is a supernatural ability.
 **Natural weapons:** slam (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 dodge bonus, +1 per 5 caster levels
@@ -687,7 +687,7 @@ Orb Transformation offers the following traits, which you may apply to any form:
 
 You may grant the form of a plant creature with your shapeshift.
 **Limbs:** 2 arms (which may be tree limbs or vines)
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 20 ft. land speed
 **Natural weapons:** 2 slams (primary, 1d6 Medium, 1d4 Small)
 **AC:** +4 natural armor bonus, +1 per 5 caster levels
@@ -706,7 +706,7 @@ Plant Transformation offers the following traits, which you may apply to any for
 
 You may grant the form of a serpent with your shapeshift.
 **Limbs:** 1 head, 1 tail
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 40 ft. land speed, 20 ft. climb speed
 **Natural weapons:** bite (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster level
@@ -720,7 +720,7 @@ In addition, the target gains one of the following packages depending on which s
 Serpentine Transformation offers the following traits, which you may apply to any form:
 
 - **Death Roll:** Whenever you maintain a grapple and choose to deal damage to the target with a natural attack, you may attempt a second grapple combat maneuver check as a free action. If successful, the grappled creature is knocked prone. This additional grapple check does not count as maintaining the grapple and does not add any other effects on a successful grapple (such as constrict).
-- **Serpentine Tail:** The shapeshifted target gains a tail and a circumstance bonus on Acrobatics checks equal to +1 + 1 per 5 caster levels. In addition, the shapeshifted target may use this tail to perform trip combat maneuvers within their natural reach, gaining a bonus on trip combat maneuvers made this way equal to 1/2 the circumstance bonus granted to Acrobatics checks from this talent (minimum 1). If you gain the ability to use this tail with a tail slap natural attack, attacks made with this tail gain the trip universal monster ability.**Special:** When granting this trait, you may choose to have this tail replace the shapeshifted target’s legs. If you do, the shapeshifted target’s base land speed is reduced by 10 (to a minimum of 5 feet) and the target cannot be tripped. If the shapeshifted target gains legs through another ability or Alteration sphere trait, such as the Additional Limbs “a pair of legs” trait, the shapeshifted target loses any benefits or adjustments from replacing their legs with this tail.
+- **Serpentine Tail:** The shapeshifted target gains a tail and a circumstance bonus on Acrobatics checks equal to +1 + 1 per 5 caster levels. In addition, the shapeshifted target may use this tail to perform trip combat maneuvers within their natural reach, gaining a bonus on trip combat maneuvers made this way equal to 1/2 the circumstance bonus granted to Acrobatics checks from this talent (minimum 1). If you gain the ability to use this tail with a tail slap natural attack, attacks made with this tail gain the trip universal monster ability. **Special:** When granting this trait, you may choose to have this tail replace the shapeshifted target’s legs. If you do, the shapeshifted target’s base land speed is reduced by 10 (to a minimum of 5 feet) and the target cannot be tripped. If the shapeshifted target gains legs through another ability or Alteration sphere trait, such as the Additional Limbs “a pair of legs” trait, the shapeshifted target loses any benefits or adjustments from replacing their legs with this tail.
 - **Strangle:** An opponent grappled by the target cannot speak or cast spells with verbal components.
 - **Swallow Whole:** The target gains the swallow whole ability, dealing 1d6 bludgeoning damage + an additional 1d6 acid damage per 3 caster levels. The target may swallow creatures up to one size smaller than themselves. This trait may be taken twice; the second time allows the target to swallow creatures up to their own size and grants a bonus to CMB and CMD equal to 1 + 1 per 3 caster levels on grapple checks made to swallow creatures or to prevent them from escaping once swallowed. More than one creature may be swallowed at a time, but may not exceed the maximum total size that can be swallowed, counting two Tiny creatures as one Small creature, two Small creatures as one Medium creature, etc. A swallowed creature can try to cut its way free with any light slashing or piercing weapon, or it can just try to escape the grapple. The amount of cutting damage required to get free is equal to 1/10 the creature’s total hit points. This damage is inflicted on the swallowing creature as normal. The AC of the interior of a creature that swallows whole is 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If a swallowed creature cuts its way out, the swallowing creature cannot use swallow whole again until the damage is healed. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again. (You must possess a bite attack with the grab ability to gain this trait.)
 
@@ -728,7 +728,7 @@ Serpentine Transformation offers the following traits, which you may apply to an
 
 You may grant the form of a subterranean animal or magical beast with your shapeshift.
 **Limbs:** 1 head, 4 legs
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 30 ft. land speed, 15 ft. burrow speed + 15 ft. per 5 caster levels
 **Natural weapons:** bite (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster level
@@ -746,7 +746,7 @@ Subterranean Transformation offers the following traits, which you may apply to 
 
 You may grant the form of a spider, insect, or other such creature with your shapeshift.
 **Limbs:** 1 head, 6 or 8 legs
-**Speech:** No;**Hands:** No
+**Speech:** No; **Hands:** No
 **Speed:** 30 ft. land speed and 30 ft. climb speed, both + 15 ft. per 5 caster levels
 **Natural weapons:** bite (primary, 1d6 Medium, 1d4 Small)
 **AC:** +2 natural armor bonus, +1 per 5 caster level

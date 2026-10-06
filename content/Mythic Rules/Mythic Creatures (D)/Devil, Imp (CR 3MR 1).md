@@ -13,20 +13,20 @@ Fiendish wings and a whipping scorpion-like tail lash behind this diminutive, re
 XP 800
 Pathfinder Roleplaying Game Bestiary
 LE Tiny outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+3;**Senses** darkvision 60 ft., detect good, detect magic, see in darkness; Perception +7
+**Init** +3; **Senses** darkvision 60 ft., detect good, detect magic, see in darkness; Perception +7
 
 #### Defense
 
-**AC**18,**touch**16,**flat-footed** 14 (+3 Dex, +1 dodge, +2 natural, +2 size)
+**AC** 18, **touch** 16, **flat-footed** 14 (+3 Dex, +1 dodge, +2 natural, +2 size)
 **hp** 26 (3d10+10); fast healing 2
-**Fort**+1,**Ref**+6,**Will** +4
-**Defensive Abilities**DR 5/good or silver;**Immune**fire, poison;**Resist** acid 10, cold 10
+**Fort** +1, **Ref** +6, **Will** +4
+**Defensive Abilities** DR 5/good or silver; **Immune** fire, poison; **Resist** acid 10, cold 10
 
 #### Offense
 
 **Speed** 20 ft., fly 50 ft. (perfect)
 **Melee** sting +8 (1d4+3 plus poison)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** mythic power (1/day, surge +1d6)
 
 **Spell-Like Abilities** (CL 6th; concentration +8)
@@ -37,8 +37,8 @@ At will—invisibility (self only)
 
 #### Statistics
 
-**Str**10,**Dex**17,**Con**10,**Int**13,**Wis**12,**Cha** 14
-**Base Atk**+3;**CMB**+1;**CMD** 15
+**Str** 10, **Dex** 17, **Con** 10, **Int** 13, **Wis** 12, **Cha** 14
+**Base Atk** +3; **CMB** +1; **CMD** 15
 **Feats** Dodge, Weapon FinesseMF
 **Skills** Acrobatics +8, Bluff +8, Fly +19, Knowledge (arcana) +7, Knowledge (planes) +7, Perception +7, Spellcraft +4, Stealth +17
 **Languages** Common, Infernal
@@ -66,4 +66,4 @@ At the GM’s option, instead of selecting any spells with the lawful or evil de
 
 If a mythic imp’s master is killed, the mythic imp will move within range as quickly as it can in order to use soul bind (DC 19) upon its former master, which it can use once as a spell-like ability upon its master’s death. If the mythic imp has not used its mythic power that day, it can spend one use of its mythic power to increase the save DC by 1d6. It must use this ability within 6 rounds of its master’s death or it has no effect. If the save is failed, the mythic master’s soul is taken to Hell and gifted to the mythic imp’s diabolic masters.
 
-**Poison (Ex)**Sting-injury;**save**Fort DC 13;**frequency**1/round for 6 rounds;**effect**1d2 Dex;**cure** 1 save. The save DC is Constitution- based and includes a +2 racial bonus.
+**Poison (Ex)** Sting-injury; **save** Fort DC 13; **frequency** 1/round for 6 rounds; **effect** 1d2 Dex; **cure** 1 save. The save DC is Constitution- based and includes a +2 racial bonus.

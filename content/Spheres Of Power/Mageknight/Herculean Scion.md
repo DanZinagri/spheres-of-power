@@ -20,7 +20,7 @@ A demigod’s body receives magic more readily; a herculean scion uses her class
 
 This ability replaces resist magic.
 
-**Author's Note**: "Enhancements" means the Enhancement sphere's enhance sphere ability.
+**Author's Note:** "Enhancements" means the Enhancement sphere's enhance sphere ability.
 
 ### Flesh of the Gods (Ex)
 

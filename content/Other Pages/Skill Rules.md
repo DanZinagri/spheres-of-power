@@ -501,21 +501,21 @@ The Disguise skill can be used to disguise objects and other creatures as well a
 
 **Variant Disguise Modifiers:** The modifiers above can replace those in the Pathfinder Roleplaying Game Core Rulebook. They are cumulative; add all that apply.
 
-**Disguise an Object [[SUE]]**: You can disguise an object as another object, disguise an object as a creature (generally a stationary creature), or disguise a creature as an object (which also requires Stealth to remain still if not helpless). Objects can use some modifiers for creatures (such as minor details only).
+**Disguise an Object [[SUE]]:** You can disguise an object as another object, disguise an object as a creature (generally a stationary creature), or disguise a creature as an object (which also requires Stealth to remain still if not helpless). Objects can use some modifiers for creatures (such as minor details only).
 
 If you rebuild, paint, or otherwise modify an object to disguise it and it is larger than you, the length of time to disguise it increases from a multiple of 10 minutes to a multiple of 1 hour (if one category larger), 1 day (if two categories larger), or 1 week (if three or more categories larger); see **Table: Object Disguise Time by Size**. You do not change the object’s function, so using it will often spoil the disguise. If the discrepancy is minor, using the item merely allows observers a new chance to attempt a Perception check against the disguise.
 
 Viewers gain bonuses to recognize objects familiar to themselves similarly to how they would recognize familiar creatures.
 
-- **Minor Details**: Examples include changing the texture of a blade’s pommel, the color of a jewel, or hiding a manufacturer’s seal on a crate.
-- **Similar Object**: Examples include disguising a dagger as a butter knife, or a natural stone wall as a hewn stone wall.
-- **Related Object**: Examples include disguising a firearm as a crossbow, or a large bathtub as a dingy.
-- **Unrelated Object**: Examples include disguising a longsword as a vase, or a bush as a cake.
-- **Different Materials**: Examples include disguising a metal weapon as being made of wood, or a vial of liquid as being another type of liquid. An object cannot be disguised as another state of matter (you cannot disguise a rock as an immaterial gas).
+- **Minor Details:** Examples include changing the texture of a blade’s pommel, the color of a jewel, or hiding a manufacturer’s seal on a crate.
+- **Similar Object:** Examples include disguising a dagger as a butter knife, or a natural stone wall as a hewn stone wall.
+- **Related Object:** Examples include disguising a firearm as a crossbow, or a large bathtub as a dingy.
+- **Unrelated Object:** Examples include disguising a longsword as a vase, or a bush as a cake.
+- **Different Materials:** Examples include disguising a metal weapon as being made of wood, or a vial of liquid as being another type of liquid. An object cannot be disguised as another state of matter (you cannot disguise a rock as an immaterial gas).
 
-**Disguised as a different size category**: You can attempt to disguise an object to appear smaller or larger than it actually is. An object disguised to be another size occupies the same space.
+**Disguised as a different size category:** You can attempt to disguise an object to appear smaller or larger than it actually is. An object disguised to be another size occupies the same space.
 
-**Skill Unlocks and Disguise Objects [SUE]**: Disguise skill unlocks aid in disguising objects as well as creatures, reducing the time required to disguise an object as normal for objects of up to your size category. For objects larger than you, treat them as one size category smaller for the purposes of time investment for every 5 ranks in Disguise you possess.
+**Skill Unlocks and Disguise Objects [SUE]:** Disguise skill unlocks aid in disguising objects as well as creatures, reducing the time required to disguise an object as normal for objects of up to your size category. For objects larger than you, treat them as one size category smaller for the purposes of time investment for every 5 ranks in Disguise you possess.
 
 If a character possesses the Tinker sphere, Technologist feat, a sphere which grants ranks in a Craft skill, or other similar ability (subject to GM discretion), they may use the following modification when disguising an object:
 
@@ -523,9 +523,9 @@ If a character possesses the Tinker sphere, Technologist feat, a sphere which gr
 
 **Changing Voice or Mannerisms:** A separate check is not required for your voice or mannerisms if they are simply supporting a change of appearance you already attempted a Disguise check for. If you later change your voice or mannerisms to one that no longer matches how you played the disguise before, you must attempt a new check for the element you changed and use the lower of the two results. If you change the same element multiple times, only the most recent check for that element applies.
 
-**Disguise Maker [SUE]**: This is a special use of the minor details modification, specifically for gizmos or other technological objects. You disguise the object by hiding the mechanisms or underpinnings of the gizmo to seem to have been made by someone else. A disguise with this modification hides against onlookers using Knowledge (engineering) to identify a gizmo but not Perception checks to notice the gizmo has been disguised. The bonus associated with disguising a gizmo in this manner is reduced to 0 (from +5) if you attempt to disguise a gizmo as another individual’s crafted gizmo (requiring personal knowledge of the crafter’s handiwork).
+**Disguise Maker [SUE]:** This is a special use of the minor details modification, specifically for gizmos or other technological objects. You disguise the object by hiding the mechanisms or underpinnings of the gizmo to seem to have been made by someone else. A disguise with this modification hides against onlookers using Knowledge (engineering) to identify a gizmo but not Perception checks to notice the gizmo has been disguised. The bonus associated with disguising a gizmo in this manner is reduced to 0 (from +5) if you attempt to disguise a gizmo as another individual’s crafted gizmo (requiring personal knowledge of the crafter’s handiwork).
 
-**Author's Note**: The Disguise Maker rules can also be applied to any normally crafted item (or item from an ability), such as items crafted with the Alchemy, Artifice, and Trap spheres, to identify magic items, and so on. This only applies where a crafter has a certain style or "handiwork" to mimic.
+**Author's Note:** The Disguise Maker rules can also be applied to any normally crafted item (or item from an ability), such as items crafted with the Alchemy, Artifice, and Trap spheres, to identify magic items, and so on. This only applies where a crafter has a certain style or "handiwork" to mimic.
 
 ### Escape Artist
 
@@ -665,7 +665,7 @@ The trauma of clinical death deals 1d4 points of ability damage to the patient�
 
 1 This includes full amputations as well as piecemeal extraction.
 
-**Requirements**: Heal skill uses that amputate limbs, extract organs, or implant them, require 2 uses from a healer’s kit to perform the task. The surgeon takes a -2 penalty for each healer's kit use that they lack. If the surgeon does not have a healer’s kit, the surgeon must incapacitate the patient (render the patient helpless or unconscious).
+**Requirements:** Heal skill uses that amputate limbs, extract organs, or implant them, require 2 uses from a healer’s kit to perform the task. The surgeon takes a -2 penalty for each healer's kit use that they lack. If the surgeon does not have a healer’s kit, the surgeon must incapacitate the patient (render the patient helpless or unconscious).
 
 **Amputate Extremity or Extract Organ**
 Limbs or organs may need to be amputated or extracted for a variety of reasons. In a world with advanced cybernetics, it is most common to replace the limbs with better ones. The skill is used for safely amputating limbs or organs without inducing pain or causing infection.
@@ -676,7 +676,7 @@ A patient missing their head or a vital organ (such as a heart, brain, etc.) may
 
 This use of the Heal skill can also be used to remove implanted prosthetic or organs (such as those from the Tinker sphere, but also certain magic items, etc.).
 
-**Failure**: A failed check fails to properly amputate/extract the limb/organ, which reduces the patient to -1 hit points. Creatures without a Constitution score are instead reduced to 0 hit points and gain the disabled condition until they receive healing (instead of being destroyed); if a creature in this state would take damage, they are destroyed as normal.
+**Failure:** A failed check fails to properly amputate/extract the limb/organ, which reduces the patient to -1 hit points. Creatures without a Constitution score are instead reduced to 0 hit points and gain the disabled condition until they receive healing (instead of being destroyed); if a creature in this state would take damage, they are destroyed as normal.
 
 **Implant Object**
 Objects may be implanted into a creature with a sufficient Heal check. This Heal check increases by +5 if the object is being implanted internally, and an additional +5 if replacing a vital body part that, if removed, would normally kill the patient (such as a new heart, head, etc.).
@@ -685,7 +685,7 @@ This skill use is also applied for swapping implants or removing implants.
 
 The Tinker sphere provides *prosthetics*, including the ability to craft *prosthetics* of internal organs.
 
-**Note - Implanting Items and Game Balance**: This skill use has been left “open” to allow for generally implanting objects into and out of creatures. The Tinker sphere notes a gizmo loses its functions, or has greatly reduced functionality, when internally implanted, but are otherwise able to be sundered and targeted as normal. GMs should be careful when allowing other items (i.e. most magic items) to be implanted as it removes the ability to reasonably interact with the object (i.e. disarm or steal the object, as appropriate). Magic items should generally not be allowed to be internally implanted.
+**Note - Implanting Items and Game Balance:** This skill use has been left “open” to allow for generally implanting objects into and out of creatures. The Tinker sphere notes a gizmo loses its functions, or has greatly reduced functionality, when internally implanted, but are otherwise able to be sundered and targeted as normal. GMs should be careful when allowing other items (i.e. most magic items) to be implanted as it removes the ability to reasonably interact with the object (i.e. disarm or steal the object, as appropriate). Magic items should generally not be allowed to be internally implanted.
 
 **Head Amputation & Implantation**
 If a check to amputate a creature’s head succeeds, the creature is treated as dead unless an attempt to implant a prosthetic head begins immediately after. Creatures which possess additional heads or do not require a head to survive are not treated as dead (and instead are simply missing one of their heads).
@@ -800,7 +800,7 @@ Roll a single Knowledge check and compare the result to the DC for each opponent
 
 ##### Knowledge (engineering): Gizmos [SUE]
 
-**Special**: While Knowledge (engineering) is assumed to be the default skill for mechanical knowledge, in settings where the mechanisms are created through other means, the Knowledge skill may be substituted. Such as using Knowledge (nature) where mechanisms are grown, not engineered.
+**Special:** While Knowledge (engineering) is assumed to be the default skill for mechanical knowledge, in settings where the mechanisms are created through other means, the Knowledge skill may be substituted. Such as using Knowledge (nature) where mechanisms are grown, not engineered.
 
 | Task | DC |
 | --- | --- |
@@ -825,7 +825,7 @@ Identifying a gizmo’s effect as it is being used (which means any effect that 
 
 **Retry?** No. Like a Knowledge check for monster lore, the check represents what you know when you attempt the check. You can only attempt to determine the properties of an individual gizmo once per day.
 
-**Note - Identifying Technology belonging to Different Technology Settings, Tinker Traditions**: In settings with disparity between technology levels (such as a lower technology world without the (computation) package with a higher technology setting with the (computation) package), subject to GM discretion, the Knowledge DC to identify a gizmo belonging to a package not part of the user’s technology level may be higher (or more) and may not return the exact effects of the gizmo (see **Section 1.2 New Skill Uses, Knowledge (engineering)** for more details).
+**Note - Identifying Technology belonging to Different Technology Settings, Tinker Traditions:** In settings with disparity between technology levels (such as a lower technology world without the (computation) package with a higher technology setting with the (computation) package), subject to GM discretion, the Knowledge DC to identify a gizmo belonging to a package not part of the user’s technology level may be higher (or more) and may not return the exact effects of the gizmo (see **Section 1.2 New Skill Uses, Knowledge (engineering)** for more details).
 
 In addition, Tinker traditions (see more under [[Tinker Traditions]]) can define accessibility to specific Tinker packages as well as model and design a setting’s technology, which also means what individuals using that technology can know. When attempting to identify technology belonging to a different technology level or tinker tradition, subject to GM discretion, an individual may receive penalties (such as a -5, -10, etc.) or be unable to properly identify a gizmo or technological item because it is different from the technology the creature is familiar with (such as 1950’s scientist trying to identify gizmos in a futuristic alien spaceship, but also futuristic aliens trying to understand how a gas lamp works when their technology operates using high-speed transmission plasma). A creature with exposure and time to learn about a different Tinker tradition or technology level can reduce these penalties or gain bonuses when identifying them as appropriate.
 
@@ -991,7 +991,7 @@ A character without the Tinker sphere, Technologist feat, a sphere which grants 
 
 Memories (such as those created when using the Tinker sphere Cognition Set brain jack) cannot be forged or falsified without the Tinker sphere Multimedia Mastery advanced editing software ability or other equivalent effect.
 
-**Note - About Virtual Forgeries**: Many *routines* can store data of varying complexity, from simple images (such as those created by a camera gizmo from the Tinker sphere Sensory Set talent) to memories themselves (such as the Tinker sphere Cognition Set brain jack gizmo). Creating a virtual forgery is not something that can be done to a creature and is generally limited to data stored on a *routine* or other technology capable of storing information.
+**Note - About Virtual Forgeries:** Many *routines* can store data of varying complexity, from simple images (such as those created by a camera gizmo from the Tinker sphere Sensory Set talent) to memories themselves (such as the Tinker sphere Cognition Set brain jack gizmo). Creating a virtual forgery is not something that can be done to a creature and is generally limited to data stored on a *routine* or other technology capable of storing information.
 
 The difficulty and time required to create a virtual forgery depends on the type of information being changed, with images being the easiest to change and memories being the hardest.
 

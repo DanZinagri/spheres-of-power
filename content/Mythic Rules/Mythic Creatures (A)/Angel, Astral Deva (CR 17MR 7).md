@@ -13,15 +13,15 @@ This tall, human-like creature has feathery wings and a gentle inner radiance th
 XP 102,400
 Pathfinder Roleplaying Game Bestiary
 NG Medium outsider (angel, extraplanar, good, mythic)
-**Init**+15/-5MF, dual initiativeMA;**Senses** darkvision 60 ft., low-light vision; Perception +22
+**Init** +15/-5MF, dual initiativeMA; **Senses** darkvision 60 ft., low-light vision; Perception +22
 **Aura** protective aura, righteous auraMA
 
 #### Defense
 
-**AC**36,**touch**14,**flat-footed** 32 (+4 Dex, +22 natural); +4 deflection vs. evil
+**AC** 36, **touch** 14, **flat-footed** 32 (+4 Dex, +22 natural); +4 deflection vs. evil
 **hp** 272 (15d10+190)
-**Fort**+16,**Ref**+13,**Will** +11; +4 vs. language-dependent effects and poison, +4 resistance vs. evil
-**Defensive Abilities**faithful havenMA, uncanny dodge; DR 10/epic and evil;**Immune**acid, charm, cold, fear, petrification;**Resist**electricity 10, fire 10;**SR** 32
+**Fort** +16, **Ref** +13, **Will** +11; +4 vs. language-dependent effects and poison, +4 resistance vs. evil
+**Defensive Abilities** faithful havenMA, uncanny dodge; DR 10/epic and evil; **Immune** acid, charm, cold, fear, petrification; **Resist** electricity 10, fire 10; **SR** 32
 
 #### Offense
 
@@ -37,8 +37,8 @@ At will—aid, continual flame, detect evil, discern lies (DC 21), dispel evil (
 
 #### Statistics
 
-**Str**26,**Dex**19,**Con**25,**Int**18,**Wis**18,**Cha** 25
-**Base Atk**+15;**CMB**+23;**CMD** 37
+**Str** 26, **Dex** 19, **Con** 25, **Int** 18, **Wis** 18, **Cha** 25
+**Base Atk** +15; **CMB** +23; **CMD** 37
 **Feats** CleaveMF, Flyby Attack, Great Cleave, Improved CriticalMF (warhammer), Improved InitiativeMF, Iron Will, Power AttackMF, Toughness
 **Skills** Acrobatics +22, Craft (any one) +10, Diplomacy +22, Fly +26, Intimidate +22, Knowledge (planes) +22, Knowledge (religion) +22, Perception +22, Sense Motive +22, Stealth +22, Use Magic Device +19
 **Languages** Celestial, Draconic, Infernal; truespeech

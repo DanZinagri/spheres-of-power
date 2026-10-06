@@ -7,12 +7,12 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 200
 CE Medium humanoid (goblinoid)
-**Init**+1;**Senses**darkvision 60 ft., scent;**Perception** +8
+**Init** +1; **Senses** darkvision 60 ft., scent; **Perception** +8
 
 **Defense**
-**AC**17,**touch**11,**flat-footed** 16 (+2 armor, +1 Dex, +3 natural, +1 shield)
+**AC** 17, **touch** 11, **flat-footed** 16 (+2 armor, +1 Dex, +3 natural, +1 shield)
 **hp** 16 (3d8+3)
-**Fort**+2,**Ref**+4,**Will** +1
+**Fort** +2, **Ref** +4, **Will** +1
 
 **Offense**
 **Speed** 30 ft.
@@ -24,12 +24,12 @@ CE Medium humanoid (goblinoid)
 Bugbear murderers prefer to single out weak opponents and finish them off rather than engage in long, drawn out battles. A bugbear murderer whose presence is undetected by his foes will stalk them from Stealth, using his scout ability and Discern Condition talent to identify any wounded or sickened opponents and waiting for a chance to strike such targets when they can be isolated or stray from the group. Bugbear murderers have limited patience however, and if an opportunity doesn’t present itself within 24 hours, they are highly likely to attempt a night-time infiltration to attack a sleeping opponent, relying on their natural stealth skills to sneak past any guards.
 
 **Statistics**
-**Str**16,**Dex**13,**Con**13,**Int**10,**Wis**10,**Cha** 9
-**Base Atk**+2;**CMB**+5;**CMD** 16
+**Str** 16, **Dex** 13, **Con** 13, **Int** 10, **Wis** 10, **Cha** 9
+**Base Atk** +2; **CMB** +5; **CMD** 16
 **Feats** Extra Combat Talent x2
-**Martial Tradition**None,**PAM**Wis,**DC** 11
+**Martial Tradition** None, **PAM** Wis, **DC** 11
 **Talents** Scout (Discern Condition)
-**Skills**Climb +8, Intimidate +8, Perception +5, Stealth +10, Survival +5;**Racial Modifiers** +4 Intimidate, +4 Stealth
+**Skills** Climb +8, Intimidate +8, Perception +5, Stealth +10, Survival +5; **Racial Modifiers** +4 Intimidate, +4 Stealth
 **SQ** stalker
 **Languages** Common, Goblin
 

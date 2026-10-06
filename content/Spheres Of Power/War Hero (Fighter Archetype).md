@@ -10,7 +10,7 @@ parent: "[[Spheres Of Power]]"
 
 The war hero is bound for greatness, and when he walks the path fate has laid out for him, it covers him in glory.
 
-### Greatness (Ex)
+## Greatness (Ex)
 
 The war hero can achieve greatness by dropping an enemy to 0 or fewer hit points, confirming a critical hit on it, succeeding at a saving throw against one of their abilities, or by sundering one of their weapons, their shield or their armor so that it is destroyed. The enemy must have at least half as many Hit Dice as the war hero has.
 
@@ -22,7 +22,7 @@ To activate an aura (which requires a free action that may be taken outside his 
 
 This replaces the bonus feat gained at 1st level.
 
-### Many Paths
+## Many Paths
 
 At 4th level, the war hero gains a second lesser heroic aura, and chooses a totem for that aura following the same restrictions as the aura gained at 1st level. He may also retrain the totem chosen at 1st level.
 
@@ -30,25 +30,25 @@ The war hero may activate either aura whenever he achieves greatness, and may ha
 
 This replaces the bonus feat gained at 4th level.
 
-### Expanding Influence
+## Expanding Influence
 
 At 8th level, the war hero gains a third lesser heroic aura, and may retrain any previous totems. In addition, while the war hero has at least 3 auras active, the radius of his auras increase to 60 feet.
 
 This replaces the bonus feat gained at 8th level.
 
-### Increasing Power
+## Increasing Power
 
 At 12th level, the war hero gains his first greater heroic aura. The totem chosen for a greater aura may require up to 1 spell point to be activated. He is not required to spend any spell points when he creates this aura. He may also retrain his lesser auras. His lesser auras are still (and will always be) limited to totems that do not require a spell point to be activated.
 
 This replaces the bonus feat gained at 12th level.
 
-### Legendary Response
+## Legendary Response
 
 At 16th level, the war hero gains his second greater heroic aura. He may also retrain his previous totems. When the war hero achieves greatness, he may activate 2 auras instead of 1.
 
 This replaces the bonus feat gained at 16th level.
 
-### Eternal Warfare
+## Eternal Warfare
 
 At 20th level, the war hero gains his third greater heroic aura, and may retrain any previous totems. When the war hero makes a successful attack against an enemy with at least half as many Hit Dice as himself, he may activate an aura as an immediate action.
 

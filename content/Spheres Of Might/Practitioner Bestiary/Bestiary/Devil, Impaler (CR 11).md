@@ -7,13 +7,13 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 12,800
 LE Medium outsider (devil, evil, extraplanar, lawful)
-**Init**+6;**Senses**darkvision 60 ft., see in darkness;**Perception** +17
+**Init** +6; **Senses** darkvision 60 ft., see in darkness; **Perception** +17
 
 **Defense**
-**AC**26,**touch**16,**flat-footed** 20 (+6 Dex, +10 natural)
+**AC** 26, **touch** 16, **flat-footed** 20 (+6 Dex, +10 natural)
 **hp** 138 (12d10+72)
-**Fort**+14,**Ref**+14,**Will** +6
-**Defensive Abilities**barbed defense;**DR**10/good;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 22
+**Fort** +14, **Ref** +14, **Will** +6
+**Defensive Abilities** barbed defense; **DR** 10/good; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 22
 
 **Offense**
 **Speed** 30 ft.
@@ -28,10 +28,10 @@ At will—greater teleport (self plus 50 lbs. of objects only), hold person (DC 
 Impaler devils attack from stealth as often as possible, sizing their targets up with their Scout sphere abilities before charging. When in combat, impaler devils try to stay mobile, making as many claw attacks as they can against while trying to never find themselves surrounded. If an impaler devil succeeds at a grap check or becomes surrounded, it will also impale its victim and use it as a human shield against any of their victim’s allies.
 
 **Statistics**
-**Str**23,**Dex**23,**Con**22,**Int**12,**Wis**15,**Cha** 18
-**Base Atk**+12;**CMB**+18 (+22 grapple);**CMD** 34
+**Str** 23, **Dex** 23, **Con** 22, **Int** 12, **Wis** 15, **Cha** 18
+**Base Atk** +12; **CMB** +18 (+22 grapple); **CMD** 34
 **Feats** Combat Reflexes, Extra Combat Talent x4, Improved Critical (claws)
-**Martial Tradition**None,**PAM**Cha,**DC** 20
+**Martial Tradition** None, **PAM** Cha, **DC** 20
 **Talents** Dual Wielding, Lancer (Human Shield), Scout
 **Skills** Acrobatics +19, Diplomacy +13, Intimidate +19, Knowledge (planes) +16, Perception +21, Sense Motive +17, Spellcraft +12, Stealth +21, Survival +14
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.

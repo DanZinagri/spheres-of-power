@@ -20,7 +20,7 @@ The ancient, eldritch abominations of the darkness between the stars are beings 
 
 **Senses:** A dark tapestry creature gains darkvision 60 ft. and lifesense 120 ft. (as blindsight).
 
-**Defensive Abilities:** regeneration (equal to Constitution score; acid, sonic);**Immune**cold, confusion, electricity, fire, insanity;**Weakness** vulnerability to acid and sonic.
+**Defensive Abilities:** regeneration (equal to Constitution score; acid, sonic); **Immune** cold, confusion, electricity, fire, insanity; **Weakness** vulnerability to acid and sonic.
 
 **Special Abilities:** A dark tapestry creature retains all the special abilities of the base creature, and gains the special abilities as described below.
 
@@ -38,4 +38,4 @@ This disorder is specific to fantasy environments and involve the victim believi
 
 **Overwhelming Madness (Ex):** A dark tapestry creature’s mind is overwhelming in its alien structure. When a creature other than an aberration makes mental contact with a dark tapestry creature, it must make a successful Will save (DC 10 + 1/2 the dark tapestry HD + its Cha modifier) or be instantly subject to the effects of its brush of the incomprehensible. On a successful save, the creature is staggered for 1 round. This effect can occur whether the dark tapestry creature initiates mental contact or another creature attempts to do so. Once a creature is exposed to a specific dark tapestry creature’s overwhelming mind, it is immune to this effect from all dark tapestry creatures for 24 hours. This is a mind-affecting effect.
 
-**Abilities:** Increase from the base creature as follows:**Con**+6 (+3 hp per HD, +3 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +1 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Con** +6 (+3 hp per HD, +3 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +1 to any of the base creature’s Charisma-based DCs).

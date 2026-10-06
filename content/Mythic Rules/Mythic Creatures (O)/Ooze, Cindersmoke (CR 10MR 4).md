@@ -11,28 +11,28 @@ parent: "[[Mythic Creatures (O)]]"
 XP 9,600
 Pathfinder Roleplaying Game Bestiary 2 (poisonous magma ooze)
 N Large ooze (fire, mythic)
-**Init**–5;**Senses** blindsight 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 60 ft.; Perception –5
 **Aura** acrid gasesMA (5 ft., DC 20)
 
 #### Defense
 
-**AC**8,**touch**4,**flat-footed** 8 (–5 Dex, +4 natural, –1 size)
+**AC** 8, **touch** 4, **flat-footed** 8 (–5 Dex, +4 natural, –1 size)
 **hp** 126 (9d8+86)
-**Fort**+9,**Ref**–2,**Will** –2
-**Defensive Abilities**split (cold and slashing, 8 hp); DR 5/ epic;**Immune** fire, ooze traits
+**Fort** +9, **Ref** –2, **Will** –2
+**Defensive Abilities** split (cold and slashing, 8 hp); DR 5/ epic; **Immune** fire, ooze traits
 **Weaknesses** vulnerability to cold, vulnerability to water
 
 #### Offense
 
 **Speed** 10 ft., climb 10 ft.
 **Melee** slam +15 (2d6+15 plus 2d6 fire, grab, burn, and poison)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** burn (2d6 fire, DC 20), constrict (2d6+15 plus 2d6 fire, burn and poison), lava bombMA, mythic power (4/day, surge 1d8), searing heatMA, toxic fumaroleMA
 
 #### Statistics
 
-**Str**30,**Dex**1,**Con**23,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+6;**CMB**+17 (+21 grapple);**CMD** 22 (can’t be tripped)
+**Str** 30, **Dex** 1, **Con** 23, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +6; **CMB** +17 (+21 grapple); **CMD** 22 (can’t be tripped)
 **Feats** Extra Mythic PowerMF, Potent SurgeMF
 **Skills** Climb +18
 **SQ** lava body, pyroclastic ruptureMA
@@ -51,7 +51,7 @@ N Large ooze (fire, mythic)
 
 **Lava Bomb (Ex)** As a full-round action, a mythic magma ooze can expel a ball of hardened lava rock at a square within 60 feet. A creature in that square takes 6d6 points of bludgeoning damage from the impact of the lava bomb (DC 24 Reflex half). In addition, the target square and all surrounding squares are affected as per the ooze’s burn attack. The ooze must wait 1d4 rounds before using this ability again. The save DC is Strength-based.
 
-**Poison (Ex)** *Magma Ooze Poison:* slam-injury; **save**Fort DC 20;**frequency**1/round for 6 rounds;**effect**1d2 Con;**cure** 2 consecutive saves.
+**Poison (Ex)** *Magma Ooze Poison:* slam-injury; **save** Fort DC 20; **frequency** 1/round for 6 rounds; **effect** 1d2 Con; **cure** 2 consecutive saves.
 
 **Pyroclastic Rupture (Ex)** When a mythic cindersmoke ooze splits, its semisolid exterior ruptures in a 20-foot-radius burst of clinging magma. Every creature within this radius immediately takes damage as per the ooze’s burn attack (DC 20 Reflex half) and is exposed to its poison. In addition, creatures failing their Reflex save are entangled by the magma for 1d4 rounds, taking 2d6 points of fire damage each round they remain entangled. This fire damage (though not the entangled condition) can be ended by total immersion in a large volume of water or by a cold effect dealing at least 10 points of damage to the target.
 

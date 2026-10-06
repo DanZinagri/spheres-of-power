@@ -13,20 +13,20 @@ This being resembles a powerful giant with hairless blue-green skin, deep blue e
 XP 38,400
 Pathfinder Roleplaying Game Bestiary
 CN Large outsider (extraplanar, mythic, water)
-**Init**+12MF;**Senses** darkvision 60 ft., keen hearingMA; Perception +19
+**Init** +12MF; **Senses** darkvision 60 ft., keen hearingMA; Perception +19
 
 #### Defense
 
-**AC**27,**touch**14,**flat-footed** 22 (+4 Dex, +1 dodge, +13 natural, –1 size)
+**AC** 27, **touch** 14, **flat-footed** 22 (+4 Dex, +1 dodge, +13 natural, –1 size)
 **hp** 202 (14d10+124)
-**Fort**+12,**Ref**+13,**Will** +11
+**Fort** +12, **Ref** +13, **Will** +11
 **Defensive Abilities** DR 10/epic
 
 #### Offense
 
 **Speed** 20 ft., swim 60 ft.
 **Melee** 2 slams +19 (2d6+6) or mwk trident +20/+15/+10 (2d6+9)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** dessicating burstMMA, ice globeMA, liquefying touchMA, marine masteryMA, mythic power (5/day, surge +1d8), vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water’s fury
 
 **Spell-Like Abilities** (CL 20th)
@@ -39,8 +39,8 @@ At will—create water, invisibility, plane shift (willing targets to elemental 
 
 #### Statistics
 
-**Str**23,**Dex**19,**Con**22,**Int**14,**Wis**15,**Cha** 16
-**Base Atk**+14;**CMB**+21;**CMD** 36
+**Str** 23, **Dex** 19, **Con** 22, **Int** 14, **Wis** 15, **Cha** 16
+**Base Atk** +14; **CMB** +21; **CMD** 36
 **Feats** Combat Casting, Combat Reflexes, Dodge, Great FortitudeMF, Improved InitiativeB, MF, Improved Natural Attack, Mobility, Power AttackMF
 **Skills** Craft (any one) +19, Diplomacy +20, Knowledge (planes) +19, Perception +19, Sense Motive +19, Spellcraft +19, Stealth +17, Swim +31
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.

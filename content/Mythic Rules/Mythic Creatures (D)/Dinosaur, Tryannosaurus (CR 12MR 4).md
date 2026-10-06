@@ -13,28 +13,28 @@ This bipedal dinosaur’s front arms seem small compared to the rest of its bulk
 XP 19,200
 Pathfinder Roleplaying Game Bestiary
 N Colossal animal (mythic)
-**Init**+4;**Senses** low-light vision, scent; Perception +37
+**Init** +4; **Senses** low-light vision, scent; Perception +37
 
 #### Defense
 
-**AC**23,**touch**2,**flat-footed** 23 (+21 natural, –8 size)
+**AC** 23, **touch** 2, **flat-footed** 23 (+21 natural, –8 size)
 **hp** 221 (18d8+140)
-**Fort**+17,**Ref**+11,**Will** +10
+**Fort** +17, **Ref** +11, **Will** +10
 **Defensive Abilities** fortification (50%)MA; DR 10/epic
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** bite +20 (4d8+30/19–20 plus grab)
-**Space**30 ft.;**Reach** 30 ft.
+**Space** 30 ft.; **Reach** 30 ft.
 **Special Attacks** fast swallowMA, mythic power (4/day, surge +1d8), primeval roarMA, swallow whole (2d8+15, AC 31, hp 44)
 
 #### Statistics
 
-**Str**40,**Dex**11,**Con**23,**Int**2,**Wis**15,**Cha** 10
-**Base Atk**+13;**CMB**+36 (+40 grapple);**CMD** 46
+**Str** 40, **Dex** 11, **Con** 23, **Int** 2, **Wis** 15, **Cha** 10
+**Base Atk** +13; **CMB** +36 (+40 grapple); **CMD** 46
 **Feats** Bleeding Critical, Combat Reflexes, Critical FocusMF, Diehard, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Iron Will, Vital StrikeMF
-**Skills**Perception +37;**Racial Modifiers** +8 Perception
+**Skills** Perception +37; **Racial Modifiers** +8 Perception
 **SQ** iron stomachMA, must go fasterMA, powerful bite
 
 #### Ecology
@@ -57,4 +57,4 @@ N Colossal animal (mythic)
 
 #### Mythic Tyrannosaurus
 
-Without the giant simple template, a mythic tyrannosaurus’ stats are as follows: **CR**11/**MR**4;**XP**12,800;**Size**Gargantuan;**Init**+5;**AC**25,**touch**7,**flat-footed**24;**hp**185;**Fort**+15,**Ref**+12;**Melee**bite +22 (4d6+26/19-20 plus grab);**Space**20 ft.;**Reach**20 ft.;**Special Attacks**swallow whole (2d8+13, AC 28, hp 39);**Str**36,**Dex**13,**Con**19;**CMB**+30 (+34 grapple);**CMD** 41.
+Without the giant simple template, a mythic tyrannosaurus’ stats are as follows: **CR** 11/**MR** 4; **XP** 12,800; **Size** Gargantuan; **Init** +5; **AC** 25, **touch** 7, **flat-footed** 24; **hp** 185; **Fort** +15, **Ref** +12; **Melee** bite +22 (4d6+26/19-20 plus grab); **Space** 20 ft.; **Reach** 20 ft.; **Special Attacks** swallow whole (2d8+13, AC 28, hp 39); **Str** 36, **Dex** 13, **Con** 19; **CMB** +30 (+34 grapple); **CMD** 41.

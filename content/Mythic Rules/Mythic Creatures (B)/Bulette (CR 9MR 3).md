@@ -13,28 +13,28 @@ This armor-plated creature’s toothy maw gapes wide as a fin-like dorsal plate 
 XP 6,400
 Pathfinder Roleplaying Game Bestiary
 N Gargantuan magical beast (mythic)
-**Init**+2;**Senses** darkvision 60 ft., low-light vision, scent, tremorsense 60 ft.; Perception +8
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, scent, tremorsense 60 ft.; Perception +8
 
 #### Defense
 
-**AC**26,**touch**8,**flat-footed** 24 (+2 Dex, +18 natural, –4 size)
+**AC** 26, **touch** 8, **flat-footed** 24 (+2 Dex, +18 natural, –4 size)
 **hp** 130 (8d10+86)
-**Fort**+13,**Ref**+8,**Will** +5
-**Defensive Abilities**sorcerous plate, DR 5/epic;**SR** 20
+**Fort** +13, **Ref** +8, **Will** +5
+**Defensive Abilities** sorcerous plate, DR 5/epic; **SR** 20
 
 #### Offense
 
 **Speed** 40 ft., burrow 20 ft.
 **Melee** bite +12 (6d6+12/19–20) and 2 claws +12 (2d6+8)
-**Space**20 ft.;**Reach** 15 ft.
+**Space** 20 ft.; **Reach** 15 ft.
 **Special Attacks** crushing leapMA, leap, mythic power (3/day, surge +1d6), savage bite, swallow wholeMA (2d6 slashing and 2d6 bludgeoning damage, AC 19, 13 hp)
 
 #### Statistics
 
-**Str**27,**Dex**15,**Con**24,**Int**2,**Wis**13,**Cha** 6
-**Base Atk**+8;**CMB**+20 (+24 grapple);**CMD** 32 (36 vs. trip)
+**Str** 27, **Dex** 15, **Con** 24, **Int** 2, **Wis** 13, **Cha** 6
+**Base Atk** +8; **CMB** +20 (+24 grapple); **CMD** 32 (36 vs. trip)
 **Feats** Improved Natural AttackMF, Iron Will, Snatch, Vital StrikeMF
-**Skills**Acrobatics +9 (+17 jumping), Perception +8;**Racial Modifiers** +4 on Acrobatics checks made to jump
+**Skills** Acrobatics +9 (+17 jumping), Perception +8; **Racial Modifiers** +4 on Acrobatics checks made to jump
 **SQ** mindless hungerMA
 
 #### Ecology
@@ -59,4 +59,4 @@ N Gargantuan magical beast (mythic)
 
 #### Mythic Bulette
 
-Without the giant simple template, a mythic bulette’s stats are as follows: **CR**8/**MR**3;**XP**4,800;**Size**Huge;**Init**+3;**AC**26,**touch**11,**flat-footed**23;**hp**114;**Fort**+11,**Ref**+9;**SR**19;**Melee**bite +12 (4d6+9 plus grab) and 2 claws +12 (1d8+6);**Space**15 ft.,**Reach**10 ft.;**Special Attacks**crushing leap (DC 19), swallow whole (AC 17, hp 11);**Str**23,**Dex**17,**Con**20;**CMB**+16 (+20 grapple);**CMD**29 (33 vs. trip);**Skills** Acrobatics +10 (+18 jumping).
+Without the giant simple template, a mythic bulette’s stats are as follows: **CR** 8/**MR** 3; **XP** 4,800; **Size** Huge; **Init** +3; **AC** 26, **touch** 11, **flat-footed** 23; **hp** 114; **Fort** +11, **Ref** +9; **SR** 19; **Melee** bite +12 (4d6+9 plus grab) and 2 claws +12 (1d8+6); **Space** 15 ft., **Reach** 10 ft.; **Special Attacks** crushing leap (DC 19), swallow whole (AC 17, hp 11); **Str** 23, **Dex** 17, **Con** 20; **CMB** +16 (+20 grapple); **CMD** 29 (33 vs. trip); **Skills** Acrobatics +10 (+18 jumping).

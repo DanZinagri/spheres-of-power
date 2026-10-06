@@ -756,8 +756,8 @@ The following magical items are especially appropriate for wardens.
 
 #### Focusing Gauntlets [TS:WAT]
 
-**Aura**moderate Protection;**CL** 7th
-**Slot**hands;**Price**14,000 gp;**Weight** 3 lbs.
+**Aura** moderate Protection; **CL** 7th
+**Slot** hands; **Price** 14,000 gp; **Weight** 3 lbs.
 
 These firm gauntlets help improve the user’s ability to focus on tasks. When a creature with the focusing guard class feature uses a standard action to use their guard ability while they have martial focus, they double the bonus from their indomitable class feature until the start of their next turn.
 
@@ -766,8 +766,8 @@ Craft Apparatus, Protection sphere, creator must have the focusing guard class f
 
 #### Reinforcing Wraps [TS:WAT]
 
-**Aura**moderate Protection;**CL** 8th
-**Slot**chest;**Price**15,000 gp;**Weight** 2 lbs.
+**Aura** moderate Protection; **CL** 8th
+**Slot** chest; **Price** 15,000 gp; **Weight** 2 lbs.
 
 This long cloth strip can be wrapped around the torso and gently cushion the user. When worn by a creature with the reinforcement class feature, these wraps grant the knowledge of one reinforcement, chosen when the wraps are created. The wearer must still meet any other prerequisites for the reinforcement to use it, and a creature cannot benefit from more than one copy of this item’s effect at any time. Donning or removing reinforcing wraps takes one minute, and a creature cannot be wearing armor while doing either.
 

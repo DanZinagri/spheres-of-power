@@ -42,22 +42,22 @@ This ability replaces omnikinesis.
 
 ---
 
-### Elemental Avatar Composite Blasts
+## Elemental Avatar Composite Blasts
 
 The following composite blasts are available to elemental avatars.
 
-#### Avatar Blast
+### Avatar Blast
 
-**Element(s)**air, earth, fire, water;**Type**composite blast (Sp);**Level**—;**Burn** 2
+**Element(s)** air, earth, fire, water; **Type** composite blast (Sp); **Level** —; **Burn** 2
 **Prerequisite(s)** special
-**Blast Type**physical;**Damage** bludgeoning, piercing, and slashing
+**Blast Type** physical; **Damage** bludgeoning, piercing, and slashing
 
 You combine all of the physical aspects of the elements into a single focused blast. The damage dealt by this blast is 1 step lower than normal (2d4 instead of 2d6.) An avatar blast is treated as air blast, earth blast, and water blast for the purposes of being considered an associated blast for an infusion.
 
-#### Spirit Blast
+### Spirit Blast
 
-**Element(s)**air, earth, fire, water;**Type**composite blast (Sp);**Level**—;**Burn** 2
+**Element(s)** air, earth, fire, water; **Type** composite blast (Sp); **Level** —; **Burn** 2
 **Prerequisite(s)** special
-**Blast Type**energy**Damage** untyped
+**Blast Type** energy **Damage** untyped
 
 You fuse all of the energies of the elements into a perfectly balanced blast. The damage dealt by this blast is 1 step lower than normal (2d4 instead of 2d6.) A spirit blast is treated as electric blast, fire blast, and cold blast for the purposes of being considered an associated blast for an infusion.

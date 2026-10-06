@@ -51,7 +51,7 @@ A corruptor creature uses all the base creature’s statistics and special abili
 | 17–18 | Soul bind |
 | 19–20 | Refuge 3/day |
 
-**Abilities:** Increase from the base creature as follows:**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs)
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs)
 
 **Skills:** The base creature gains a +8 racial bonus on Craft (all), Diplomacy, and Sense Motive checks.
 

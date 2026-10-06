@@ -10,8 +10,8 @@ parent: "[[Spheres Of Power]]"
 
 ### Bug-Out Scroll [TS]
 
-**Aura**moderate Mind and Illusion;**CL** 10th
-**Slot**none;**Price**2,500 gp;**Weight** -
+**Aura** moderate Mind and Illusion; **CL** 10th
+**Slot** none; **Price** 2,500 gp; **Weight** -
 
 On this scroll is scrawled a mind-numbingly complicated formula that, when activated, attempts to erase the reader from the memories of up to 6 people within 200 feet of the user, as per the Amnesia talent of the Mind sphere (Will save negates, DC 15 + casting ability modifier).
 
@@ -22,8 +22,8 @@ Capture Spell, Illusion sphere, Mind sphere; **Cost** 1,250 gp
 
 ### Full Healing Scroll [TS]
 
-**Aura**strong Life;**CL** 20th
-**Slot**none;**Price**9,500 gp;**Weight** -
+**Aura** strong Life; **CL** 20th
+**Slot** none; **Price** 9,500 gp; **Weight** -
 
 For when you need to heal everyone of everything. When used, this scroll heals up to eleven creatures in 75 feet for 6d8+100 hit points (average 127 hit points). This cure functions on creatures that have died in the last round, as the Resuscitate talent of the Life sphere. Immediately following this cure, each creature is also restored from a wide variety of conditions - or at least you may attempt to restore them - as the Break Enchantment, Restore Capacity, Restore Health, Restore Senses, and Restore Spirit talents of the Life sphere. You must attempt any additional checks required by the restorative abilities, but do so with a caster level and MSB of 20 because you are casting through this powerful scroll. This restore heals targets of the temporary negative level gained from the Resuscitate effect, if applicable.
 
@@ -32,8 +32,8 @@ Capture Spell, Life sphere (Break Enchantment, Deeper Healing, Mass Healing [mas
 
 ### Group Healing Scroll [TS]
 
-**Aura**moderate Life;**CL** 10th
-**Slot**none;**Price**1,500 gp;**Weight** -
+**Aura** moderate Life; **CL** 10th
+**Slot** none; **Price** 1,500 gp; **Weight** -
 
 When used, this scroll heals up to six targets in 50 feet for 1d8+30 hit points.
 
@@ -42,8 +42,8 @@ Capture Spell, Life sphere (any (cure) talent (x2), Mass Healing [mass], Ranged 
 
 ### Revitalizing Scroll, Lesser [TS]
 
-**Aura**moderate Life;**CL** 6th
-**Slot**none;**Price**600 gp;**Weight** -
+**Aura** moderate Life; **CL** 6th
+**Slot** none; **Price** 600 gp; **Weight** -
 
 When used, this scroll grants up to four targets in touch range fast healing 1 for 6 minutes (total 60 hit points).
 
@@ -52,8 +52,8 @@ Capture Spell, Life sphere (Mass Healing [mass], Revitalize); **Cost** 300 gp
 
 ### Revitalizing Scroll [TS]
 
-**Aura**moderate Life;**CL** 10th
-**Slot**none;**Price**1,000 gp;**Weight** -
+**Aura** moderate Life; **CL** 10th
+**Slot** none; **Price** 1,000 gp; **Weight** -
 
 When used, this scroll grants up to six targets in touch range fast healing 1 for 10 minutes (total 100 hit points). Stronger and weaker versions of this scroll are available (minimum CL 4th) at 100 gp per CL.
 
@@ -62,8 +62,8 @@ Capture Spell, Life sphere (Mass Healing [mass], Revitalize); **Cost** 500 gp
 
 ### Scroll of Freeze
 
-**Aura**faint Destruction;**CL** 5th
-**Slot**none;**Price**625 gp;**Weight** -
+**Aura** faint Destruction; **CL** 5th
+**Slot** none; **Price** 625 gp; **Weight** -
 
 **Description**
 This scroll creates a frost blast, dealing 5d6 cold damage to everything within a 15-foot radius burst centered within close range. A successful Reflex save halves the damage. Targets who fail their save are also staggered for 1 round.
@@ -73,8 +73,8 @@ Capture Spell, Destruction sphere (Frost Blast (blast type, cold)); **Cost** 312
 
 ### Scroll of the Silent Stroll [TS]
 
-**Aura**faint Illusion;**CL** 5th
-**Slot**none;**Price**125 gp;**Weight** -
+**Aura** faint Illusion; **CL** 5th
+**Slot** none; **Price** 125 gp; **Weight** -
 
 This scroll targets either yourself or an adjacent square, and generates a 15-foot cube of silence. The creature (or creatures standing in the area of effect) makes no noise, and cannot perform verbal components of any skill or magic. Creatures in an area of silence are immune to sonic or language-based attacks, spells, and effects, and gain a +4 bonus to Stealth checks. This effect lasts for 5 rounds.
 
@@ -83,8 +83,8 @@ Capture Spell, Illusion sphere (Suppression (glamer)); **Cost** 62.5 gp
 
 ### Wizard’s Great Escape
 
-**Aura**moderate Creation and Warp;**CL** 10th
-**Slot**none;**Price**3,250 gp;**Weight** -
+**Aura** moderate Creation and Warp; **CL** 10th
+**Slot** none; **Price** 3,250 gp; **Weight** -
 
 **Description**
 This scroll houses a complicated formula that, when read, teleports its reader instantly anywhere he can see, up to a distance of 800 feet. At the same time, a large iron wall is summoned where the reader originally was. This wall is comprised of 10 sections of wall, each 10 feet tall, 10 feet wide, and 2 inches thick, arranged contiguously anywhere, so long as at least part of the wall inhabits the square the caster originally stood in when using this scroll. This wall lasts 10 rounds before disappearing completely.

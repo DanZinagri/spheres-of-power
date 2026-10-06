@@ -22,7 +22,7 @@ Rather than mixing freely, some monstrous humanoids have the head and torso of a
 
 **Melee:** The quadrupedal creature retains all bite or claw attacks, as well as any ability to wield hand-held weapons.
 
-**Abilities:** Increase from the base creature as follows:**Str**+4,**Dex**+2,**Con**+2,**Int**+4,**Wis**+2,**Cha** +4.
+**Abilities:** Increase from the base creature as follows: **Str** +4, **Dex** +2, **Con** +2, **Int** +4, **Wis** +2, **Cha** +4.
 
 **Skills:** A quadrupedal creature can re-allocate skill points as a monstrous humanoid of its racial Hit Dice.
 

@@ -7,31 +7,31 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 153,600
 N Colossal magical beast
-**Init**-2;**Senses**blindsense 60 ft., darkvision 60 ft., magic scent;**Perception** +27
+**Init** -2; **Senses** blindsense 60 ft., darkvision 60 ft., magic scent; **Perception** +27
 
 **Defense**
-**AC**35,**touch**0,**flat-footed** 35 (-2 Dex, +35 natural, -8 size)
-**hp**337 (25d10+200);**regeneration** 20 fire and acid
-**Fort**+22,**Ref**+14,**Will** +12
-**Immune**sleep, paralysis, polymorph;**SR** 29
+**AC** 35, **touch** 0, **flat-footed** 35 (-2 Dex, +35 natural, -8 size)
+**hp** 337 (25d10+200); **regeneration** 20 fire and acid
+**Fort** +22, **Ref** +14, **Will** +12
+**Immune** sleep, paralysis, polymorph; **SR** 29
 
 **Offense**
 **Speed** 120 ft.
 **Melee** bite +33 (4d6+16 plus grab), gore +33 (4d6+16), 2 stomps +28 (2d8+8 plus trip)
 **Ranged** Rocks +24 (4d8+24)
-**Space**30 ft.;**Reach** 20 ft.
+**Space** 30 ft.; **Reach** 20 ft.
 **Special Attacks** brutal strike (+50), fast swallow, impale, mighty roar, rock catching, rock throwing (120 ft.), ruinous, swallow whole (4d6+24 bludgeoning, AC 27, 33 hp), trample (2d8+24, DC 38)
 
 **Tactics**
 Brobdignagian care little for tactics, preferring to overwhelm their opponents through strength and speed, charging their targets and staying on the move while fighting, except when they can trample enemies underfoot.
 
 **Statistics**
-**Str**43,**Dex**6,**Con**26,**Int**3,**Wis**14,**Cha** 15
-**Base Atk**+25;**CMB**+49 (+53 grapple);**CMD** 57 (61 vs. trip)
+**Str** 43, **Dex** 6, **Con** 26, **Int** 3, **Wis** 14, **Cha** 15
+**Base Atk** +25; **CMB** +49 (+53 grapple); **CMD** 57 (61 vs. trip)
 **Feats** Extra Combat Talent (x6), Great Focus, Iron Will, Lightning Reflexes, Lunge, Power Attack, Snatch, Toughness
-**Tradition**Butcher,**PAM**Wis,**DC** 24
+**Tradition** Butcher, **PAM** Wis, **DC** 24
 **Talents** Athletics (climb, leap, and swim packages, Expanded Training, Mobile Striker, Skillful Charge), Berserker (Advancing Carnage, Bloody Counter, Savage), Lancer (Gore Toss)
-**Skills**Acrobatics +26 (+80 jump), Climb +41, Perception +27, Survival +15, Swim +41;**Racial Modifiers** +10 Perception
+**Skills** Acrobatics +26 (+80 jump), Climb +41, Perception +27, Survival +15, Swim +41; **Racial Modifiers** +10 Perception
 **Language** Aklo (cannot speak)
 **SQ** Powerful Jump
 

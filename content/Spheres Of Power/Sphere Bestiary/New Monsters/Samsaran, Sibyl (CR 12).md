@@ -11,12 +11,12 @@ Unlike most samsaran who have blue skin, those of the sibyl variety have a magen
 XP 200
 Sibyl Samsaran psychic medium (medium) 1
 LN Medium humanoid (samsaran)
-**Init**+1;**Senses**low-light vision,**Perception** +5
+**Init** +1; **Senses** low-light vision, **Perception** +5
 
 **Defense**
-**AC**16,**touch**12,**flat-footed** 15 (+4 armor, +1 Dex, +1 spirit)
+**AC** 16, **touch** 12, **flat-footed** 15 (+4 armor, +1 Dex, +1 spirit)
 **hp** 9 (1d8+1)
-**Fort**+2,**Ref**+2,**Will** +3 (+2 vs. death effects, negative energy, negative levels)
+**Fort** +2, **Ref** +2, **Will** +3 (+2 vs. death effects, negative energy, negative levels)
 
 **Offense**
 **Speed** 30 ft.
@@ -24,8 +24,8 @@ LN Medium humanoid (samsaran)
 **Ranged** light crossbow +1 (1d8/19-20)
 
 **Magic**
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +4
-**Tradition**Fortune Teller (Focus Casting (harrow deck), Skilled Casting (Perform (seance));**CAM** Cha
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +4
+**Tradition** Fortune Teller (Focus Casting (harrow deck), Skilled Casting (Perform (seance)); **CAM** Cha
 **Spell Points** 5
 
 **Divination Sphere:** (divine) Object Reading; (sense) Logos
@@ -40,8 +40,8 @@ LN Medium humanoid (samsaran)
 ◊ Vision (alter perception)
 
 **Statistics**
-**Str**8,**Dex**13,**Con**12,**Int**12,**Wis**12,**Cha** 17
-**Base Atk**+0;**CMB**-1;**CMD** 11
+**Str** 8, **Dex** 13, **Con** 12, **Int** 12, **Wis** 12, **Cha** 17
+**Base Atk** +0; **CMB** -1; **CMD** 11
 **Feats** Extra Magic Training
 **Skills** Bluff +9, Diplomacy +7, Perception +5, Perform (seance) +9, Sense Motive +5
 **Languages** Common, Nagaji, Samsaran

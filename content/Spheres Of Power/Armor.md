@@ -12,8 +12,8 @@ parent: "[[Spheres Of Power]]"
 
 ### Aegis of Sakura
 
-**Aura**moderate Nature;**CL**2nd;**Scaling** wonder
-**Slot**armor;**Price**2,500 gp;**Weight** 20 lbs.
+**Aura** moderate Nature; **CL** 2nd; **Scaling** wonder
+**Slot** armor; **Price** 2,500 gp; **Weight** 20 lbs.
 
 **Description**
 This set of light armor appears to be a +1 greenwood leaf armor made from the animated living wood and leaves of the cherry tree. Each spring, the aegis of sakura becomes alive with beautiful cherry blossoms.
@@ -35,8 +35,8 @@ Smith Magical Weapons And Armor, Alteration sphere (Plant Body (body)), Nature s
 
 ### Armor of the Unstoppable Warrior
 
-**Aura**faint Enhancement and Life;**CL**6th;**Scaling** prize
-**Slot**armor;**Price**2,650 gp;**Weight** 50 lbs.
+**Aura** faint Enhancement and Life; **CL** 6th; **Scaling** prize
+**Slot** armor; **Price** 2,650 gp; **Weight** 50 lbs.
 
 **Description**
 This +1 full plate is functional and plain. It bears no identifying marks, and resizes to fit any creature between Small and Large size categories. The armor itself is made of polished steel that never tarnishes, and when struck, it sheds light as a torch.
@@ -60,10 +60,10 @@ Smith Magical Weapons And Armor, Craft Apparatus, Craft Marvelous Item, Enhancem
 
 ### Bard-King’s Doublet [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**moderate Illusion and Mind —**CL**6th —**Scaling** wonder
-**Slot**armor —**Price**4,800 gp —**Weight** 10 lbs.
+**Aura** moderate Illusion and Mind — **CL** 6th — **Scaling** wonder
+**Slot** armor — **Price** 4,800 gp — **Weight** 10 lbs.
 
 **Description**
 The bard-king’s doublet is a gaudy, colorful set of +1 glimmering padded armor, which grants its wearer an enhancement bonus to Perform (act) checks equal to twice the bard-king’s doublet’s total enhancement bonus.
@@ -78,8 +78,8 @@ Smith Magical Arms and Armor, Illusion sphere — **Cost** 2,400 gp
 
 ### Friendly Scarves
 
-**Aura**moderate Enhancement;**CL** 6th
-**Slot**armor;**Price**18,300 gp;**Weight** 8 lbs.
+**Aura** moderate Enhancement; **CL** 6th
+**Slot** armor; **Price** 18,300 gp; **Weight** 8 lbs.
 
 **Description**
 This set of +2 dancing scarves have been animated in such a way that they seem to blow in the wind even when no wind is present, granting the wearer half their armor bonus even on rounds when the wearer has not moved at least 10 feet. They also add their enhancement bonus to Bluff checks made to feint in combat, which stacks with the circumstance bonus dancing scarves always grant.
@@ -91,8 +91,8 @@ Smith Magical Weapons And Armor, Craft Apparatus, Enhancement sphere (Animate Ob
 
 ### Weeping Demon
 
-**Aura**strong Blood;**CL** 12th
-**Slot**armor;**Price**76,180 gp;**Weight** 20 lbs.
+**Aura** strong Blood; **CL** 12th
+**Slot** armor; **Price** 76,180 gp; **Weight** 20 lbs.
 
 **Description**
 The weeping demon is a +4 studded leather armor that bears the shape of a face on its front, as if the whole thing were crafted from the hide of an enormous demonic creature.
@@ -112,8 +112,8 @@ Smith Magical Weapons And Armor, Blood sphere (Eye Bleed); **Cost** 38,180 gp
 
 ### Scroll Of The Wise [TS:WAT]
 
-**Aura**moderate;**CL** 6th
-**Slot**shield;**Price**18,210 gp;**Weight** 15 lbs.
+**Aura** moderate; **CL** 6th
+**Slot** shield; **Price** 18,210 gp; **Weight** 15 lbs.
 
 The scroll of the wise is an ornate +2 intercepting gold platedUE heavy steel shield with a long scroll mounted between two poles. The scroll sometimes moves on its own accord to show different text, and despite apparently being made out of plant fibers, it is just as durable as the shield itself. In addition to its protective properties, the scroll of the wise also functions as a 6th-level spell engine that can only be used to cast the Divination sphere’s Augury (divine) talent (with a meaningful reply of 76%), and that holds a maximum of three spell points. Using this effect requires the ability to read the text on the scroll, and therefore may not be possible for some characters.
 
@@ -124,8 +124,8 @@ Smith Magical Weapons And Armor, Craft Spell Engine, Divination sphere (Augury (
 
 ### Sheltering Shield [TS]
 
-**Aura**strong Nature and War;**CL** 15th
-**Slot**none;**Price**16,170 gp;**Weight** 15 lbs.
+**Aura** strong Nature and War; **CL** 15th
+**Slot** none; **Price** 16,170 gp; **Weight** 15 lbs.
 
 This +2 green-touched intercepting heavy steel shield is favored by defensive warriors who fight in close proximity to their allies, as it helps them pull their companions out of the way. Some enterprising crafters add the effects of a portable shell to these shields, granting additional ability to raise defenses against unwelcome assaults.
 
@@ -134,8 +134,8 @@ Smith Magical Weapons And Armor, Nature sphere, War sphere; **Price** 8,085 gp
 
 ### Sheltering Shield, Specialized [TS]
 
-**Aura**strong Conjuration, Nature and War;**CL** 15th
-**Slot**none; Price 25,170 gp;**Weight** 15 lbs.
+**Aura** strong Conjuration, Nature and War; **CL** 15th
+**Slot** none; Price 25,170 gp; **Weight** 15 lbs.
 
 This +2 defiantUE green-touched intercepting heavy steel shield is similar to its lesser cousin, but with an additional enchantment that raises its protective power against one type of foe. The damage reduction from the defiant special ability does not stack with the damage reduction from the green-touched special ability, but it does apply to attacks after the first each round. Most specialized sheltering shields are tuned to work against undead or some type of evil outsider.
 
@@ -144,8 +144,8 @@ Smith Magical Weapons And Armor, Conjuration sphere, Nature sphere, War sphere; 
 
 ### Shield of Blessings and Curses
 
-**Aura**moderate Enhancement;**CL** 10th
-**Slot**shield;**Price**2,659 gp;**Weight** 2 lbs.
+**Aura** moderate Enhancement; **CL** 10th
+**Slot** shield; **Price** 2,659 gp; **Weight** 2 lbs.
 
 **Description**
 The shield of blessings and curses is a +2 light steel shield that can resize itself for whatever creature is wearing it. Whenever the creature wearing the shield is missed by a physical attack by 3 or less (the AC bonus provided by the shield), the shield has blocked the attack and a random wild magic event happens. The character rolls using whichever source of wild magic the GM chooses to use, such as the universal chart from the Wild Magic Handbook, a rod of wonder chart, or another source. However events are determined, the wearer of the shield is considered the caster and the striker of the shield is considered the intended target, if such things are important to the wild magic event created.
@@ -157,8 +157,8 @@ Smith Magical Weapons And Armor, able to cast sphere effects with a wild magic c
 
 ### Shield of Close Calls
 
-**Aura**faint Enhancement and Life;**CL**5th;**Scaling** prize
-**Slot**shield;**Price**1,575 gp;**Weight** 5 lbs.
+**Aura** faint Enhancement and Life; **CL** 5th; **Scaling** prize
+**Slot** shield; **Price** 1,575 gp; **Weight** 5 lbs.
 
 **Description**
 This +1 buckler is thin and light, and has a pair of bronze dice embossed on the front of it. As a move action, the shield of close calls can be changed into an equivalent heavy steel shield and vice versa.
@@ -181,20 +181,20 @@ Smith Magical Weapons And Armor, Craft Apparatus, Craft Marvelous Item, Enhancem
 
 ### Shield of the Vanguard [TS]
 
-**Aura**faint Protection;**CL** 3rd
-**Slot**none;**Price**2,600 gp;**Weight** 15 lbs.
+**Aura** faint Protection; **CL** 3rd
+**Slot** none; **Price** 2,600 gp; **Weight** 15 lbs.
 
 This +1 heavy steel shield has ornate heraldry painted upon it and is commonly associated with a kingdom’s military. The user’s reserve pool increases by 1. Additionally, the user may spend a reserve point as an immediate action to gain a +4 enhancement bonus to his CMD against bull rush, reposition, and trip combat maneuvers until the beginning of their next turn.
 
-**Flask Shard Effect:** The user’s reserve pool increases by an additional point. At +1, the shield of the vanguard becomes a +2 heavy steel shield. At +2, the ability granting a bonus to CMD may be used by expending a reserve point and an attack of opportunity instead of a reserve point and an immediate action, and the shield of the vanguard becomes a +2 intercepting heavy steel shield. At +3, the shield of the vanguard becomes a +4 intercepting heavy steel shield.**Flask Shard Limit:** +3
+**Flask Shard Effect:** The user’s reserve pool increases by an additional point. At +1, the shield of the vanguard becomes a +2 heavy steel shield. At +2, the ability granting a bonus to CMD may be used by expending a reserve point and an attack of opportunity instead of a reserve point and an immediate action, and the shield of the vanguard becomes a +2 intercepting heavy steel shield. At +3, the shield of the vanguard becomes a +4 intercepting heavy steel shield. **Flask Shard Limit:** +3
 
 **Construction Requirements**
 Smith Magical Weapons And Armor, Protection sphere; **Cost** 1,300 gp
 
 ### Souleater
 
-**Aura**moderate Death;**CL** 10th
-**Slot**shield;**Price**68,000 gp;**Weight** -
+**Aura** moderate Death; **CL** 10th
+**Slot** shield; **Price** 68,000 gp; **Weight** -
 
 **Description**
 Souleater is a +3 heavy wooden shield with the ghost touch special ability; indeed, the shield itself is weightless and transparent and appears to be ethereal, although it can be touched by corporeal hands without issue.
@@ -208,8 +208,8 @@ Smith Magical Weapons And Armor, Creation sphere (Expanded Materials (material))
 
 ### Stopgap
 
-**Aura**moderate Creation and Enhancement;**CL** 10th
-**Slot**shield;**Price**10,170 gp;**Weight** 5 lbs.
+**Aura** moderate Creation and Enhancement; **CL** 10th
+**Slot** shield; **Price** 10,170 gp; **Weight** 5 lbs.
 
 **Description**
 Stopgap is a +2 heavy steel shield which can, upon command, grow to an increased size. The shield becomes a 10-foot-by-10- foot wall that is 1 inch thick; if it is in a space where it cannot grow to its full size, then it grows to the largest size that it can, completely plugging the allotted space.
@@ -229,8 +229,8 @@ Smith Magical Weapons And Armor, Creation sphere (Expanded Materials (material))
 
 ### Shield Expander [TS:WAT]
 
-**Aura**moderate Light;**CL** 5th
-**Slot**special, see text;**Price**20,000 gp;**Weight** 1 lb.
+**Aura** moderate Light; **CL** 5th
+**Slot** special, see text; **Price** 20,000 gp; **Weight** 1 lb.
 
 This gleaming white crystal can be set into any shield except a buckler as a full-round action, or removed with the same action. While functioning, it projects an aura around the shield to visibly increase its size (although this does not change the shield’s category or weight, aside from this item’s own weight). This increased size gives the user partial cover against attacks from one direction (chosen at the end of the wielder’s round). When a creature wielding a shield enhanced with a shield expander uses the Perfect Redirection legendary Shield talent, they may also deflect massive weapons like ballista bolts, boulders, and siege weapons. However, such attacks can only be redirected to targets within 5 feet.
 
@@ -245,8 +245,8 @@ Enchantment sets are packages of materials, special abilities, enhancements, and
 
 ### Ballistic Armor Enchantment Set [TS]
 
-**Aura**moderate Protection;**CL** 6th
-**Total Bonus**+3;**Price** +9,150 gp
+**Aura** moderate Protection; **CL** 6th
+**Total Bonus** +3; **Price** +9,150 gp
 
 Usually applied to the heaviest armor sets, ballistic armor provides a +2 enhancement bonus and the anti-ballistic special ability to provide maximum protection against arrows, firearms, and other projectile weapons. Wealthy buyers sometimes use adamantine heavy armor as a base, which adds 15,000 gp to the cost but also provides DR 3/- and helps mitigate the damage of projectile attacks that get through. Ballistic armor is relatively rare, but also affordable, so some individuals buy or craft it for extra protection when they expect to face a projectile-dense environment.
 
@@ -255,8 +255,8 @@ Smith Magical Weapons And Armor, Protection sphere; **Cost** +4,575 gp
 
 ### Companion’s Ward Enchantment Set [TS]
 
-**Aura**strong Mind;**CL** 12th
-**Total Bonus**+5;**Price** +25,150 gp
+**Aura** strong Mind; **CL** 12th
+**Total Bonus** +5; **Price** +25,150 gp
 
 Usually created for Tiny animal or supernatural helpers and familiars, including conjured companions, the companion’s ward enchantment turns a set of armor into a +4 benevolentUE set of protective gear, allowing such allies to significantly improve their partner’s defense against regular attacks.
 
@@ -265,8 +265,8 @@ Smith Magical Weapons And Armor, Mind sphere (Inspiration (charm)); **Cost** +12
 
 ### Duelist’s Armor Enchantment Set [TS]
 
-**Aura**faint Life;**CL** 9th
-**Total Bonus**+4;**Price** +16,150 gp
+**Aura** faint Life; **CL** 9th
+**Total Bonus** +4; **Price** +16,150 gp
 
 This +3 stanchingUE armor is exceptionally good at limiting bleeding damage its wearers suffer, making it a popular choice for fighting duelists whose blooded strikes can sap the life from others. Many duelist’s armor sets also have a warrior’s blessing (see the chapter on Marvelous Items), which increases the price of the enchantment set to 18,550 gp and takes up an additional magic item slot (chosen when the armor is forged), but also offers wielders the ability to significantly improve their combat prowess for a short time. Duelist’s armors with improved blessings are particularly sought-after among certain gladiators and wealthy nobles.
 
@@ -275,8 +275,8 @@ Smith Magical Weapons And Armor, Life sphere; **Cost** +8,075 gp
 
 ### Prismatic Armor Enchantment Set [TS]
 
-**Aura**moderate Protection;**CL** 3rd
-**Total Bonus**+1;**Price** +73,150 gp
+**Aura** moderate Protection; **CL** 3rd
+**Total Bonus** +1; **Price** +73,150 gp
 
 Rare and wince-inducingly expensive, prismatic armor reduces the first ten points of damage from any acid, cold, electricity, or fire attack the user would suffer. Armor with this enchantment set often glimmers in a hue of different colors and is most often bought by wealthy adventurers who expect to face a host of varied elemental assaults and want armor that can provide constant protection. Rumors exist of greater and superior versions of this enchantment set that provide even further protection, although the cost of forging such would be more than a king’s ransom.
 
@@ -285,8 +285,8 @@ Smith Magical Weapons And Armor, Protection sphere (Energy Resistance (aegis, wa
 
 ### Sentinel’s Ward Enchantment Set [TS]
 
-**Aura**moderate Fate;**CL** 6th
-**Total Bonus**+2;**Price** +14,150 gp
+**Aura** moderate Fate; **CL** 6th
+**Total Bonus** +2; **Price** +14,150 gp
 
 The sentinel’s ward enchantment transforms a suit of armor into a +1 championUE set that also provides a +2 luck bonus to armor class. This enchantment is particularly popular among righteous sentinels who find their challenge empowered by the armor’s woven magics.
 
@@ -295,8 +295,8 @@ Smith Magical Weapons And Armor, Forge Charm, Fate sphere; **Cost** +7,075 gp
 
 ### Surprise Armor Enchantment Set [TS]
 
-**Aura**strong Destruction and faint Warp;**CL** 12th/5th
-**Total Bonus**+1;**Price** +5,150 gp
+**Aura** strong Destruction and faint Warp; **CL** 12th/5th
+**Total Bonus** +1; **Price** +5,150 gp
 
 The surprise armor enchantment set turns a suit of armor, often cloth or clothing, into a +1 collapsible spell storing armor that can be quickly donned in emergencies to retaliate against attacks from enemies. While offensive blasts are popular, some adventurers get tricky and imbue these with beneficial talents, allowing their allies to strike them in order to accelerate the delivery of beneficial spells at the start of combat.
 
@@ -311,44 +311,44 @@ Smith Magical Weapons And Armor, Destruction sphere, Warp sphere; **Cost** +2,57
 
 This armor or shield is designed specifically against more powerful projectile weapons. Whenever a projectile weapon is used against the wearer, the full AC bonus of the armor and any enhancement bonus it possesses are applied to the touch AC of the wearer.
 
-**Aura**faint Protection;**CL**5th; Smith Magical Weapons And Armor, Protection sphere;**Price** +1 bonus
+**Aura** faint Protection; **CL** 5th; Smith Magical Weapons And Armor, Protection sphere; **Price** +1 bonus
 
 ### Anti-Spell
 
 This armor or shield is laced with metals that give it limited anti-magic properties. Whenever the wearer attempts a saving throw vs. a spell or sphere ability that is hindered by spell resistance, they receive a circumstance bonus to their saving throw equal to the enhancement bonus of their armor.
 
-**Aura**faint Protection;**CL**5th; Smith Magical Weapons And Armor, Protection sphere;**Price** +2 bonus
+**Aura** faint Protection; **CL** 5th; Smith Magical Weapons And Armor, Protection sphere; **Price** +2 bonus
 
 ### Attendant
 
 This special ability may only be applied to any handheld magic item, including weapons, shields, or implements. An attendant item springs to hand when you send for it. As a swift action you can call for an attendant item, and if it is within 50 feet it attempts to leaps to your hand. If it is currently held by another creature or trapped or bound in some way it fails to arrive, though it can extricate itself from a backpack or sheathe. You must possess an attendant item for at least 24 hours before you can use this function, and only one creature can have the ability to use this function at a time.
 
-**Aura**faint Telekinesis;**CL**5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly);**Cost** +500 gp
+**Aura** faint Telekinesis; **CL** 5th; Craft Implement Of Power or Smith Magical Weapons And Armor, Telekinesis sphere (Whirlwind Assembly); **Cost** +500 gp
 
 ### Chaos Buffer [WM]
 
 A suit of armor or shield with the chaos buffer enhancement applies its enhancement bonus to the wearer’s saves against wild magic effects.
 
-**Aura**faint Protection;**CL**5th; Smith magical Weapons and Armor, Protection Sphere;**Cost** +2000 gp
+**Aura** faint Protection; **CL** 5th; Smith magical Weapons and Armor, Protection Sphere; **Cost** +2000 gp
 
 ### Collapsible
 
 Armor or shields with this special ability uses a specialized extradimensional space that allows it to be collapsed down to a single piece with negligible weight, such as one gauntlet, a buckle, or a band of metal, chosen when the armor is enchanted. As a full-round action the wearer can touch their armor to collapse it or expand it to full size, either placing it in their square or causing it to appear on themselves as if they had donned it. If collapsible armor is dispelled or otherwise loses the collapsible special ability while it is collapsed, it immediately expands to its full size.
 
-**Aura**faint Warp;**CL**5th; Smith Magical Weapons And Armor, Warp sphere;**Price** +1,000 gp
+**Aura** faint Warp; **CL** 5th; Smith Magical Weapons And Armor, Warp sphere; **Price** +1,000 gp
 
 ### Deflecting (shield only)
 
 The shield’s shield bonus to AC now also applies against ranged touch attacks.
 
-**Aura**moderate Protection;**CL**10th; Smith Magical Weapons And Armor, Protection sphere;**Price** +1 bonus
+**Aura** moderate Protection; **CL** 10th; Smith Magical Weapons And Armor, Protection sphere; **Price** +1 bonus
 
 ### Explicating [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**faint Mind —**CL** 8th
-**Slot**armor quality —**Price** +2 bonus
+**Aura** faint Mind — **CL** 8th
+**Slot** armor quality — **Price** +2 bonus
 
 The wearer adds the armor’s enhancement bonus to checks made to find a loophole in an effect.
 Additionally, whenever they succeed at a Will saving throw, they gain a cumulative +1 insight bonus to Will saving throws for 1 minute, up to a maximum equal to the armor’s enhancement bonus.
@@ -364,14 +364,14 @@ A suit of focusing armor is endowed with a semblance of a mind that connects to 
 
 Although the armor is doing the concentrating, the magic still originates from the wearer; damage taken requires the wearer to succeed at a concentration check or the armor ceases to concentrate on the spell, just as if the wearer were still the one concentrating on the effect.
 
-**Aura**moderate Mind;**CL**10th; Smith Magical Weapons And Armor, Mind sphere (Project Thoughts (charm));**Price** +4 bonus
+**Aura** moderate Mind; **CL** 10th; Smith Magical Weapons And Armor, Mind sphere (Project Thoughts (charm)); **Price** +4 bonus
 
 ### Glimmering [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**faint Light —**CL** 5th
-**Slot**armor quality —**Price** +1 bonus
+**Aura** faint Light — **CL** 5th
+**Slot** armor quality — **Price** +1 bonus
 
 The wearer adds the armor’s enhancement bonus to checks made as an impressive display of skill or to create a diversion. Additionally, creatures that are impressed or distracted by the wearer also become dazzled for as long as they suffer from the condition, plus 1 minute after.
 
@@ -382,14 +382,14 @@ Requirements Smith Magical Weapons And Armor, Light sphere
 
 Green-touched armor or shields are overgrown with vines which soak up the damage that the bearer normally would be receiving. Green-touched armor and shields grant DR/- equal to twice its enhancement bonus, but only against the first attack that hits the bearer each round.
 
-**Aura**moderate Nature;**CL**15th; Smith Magical Weapons And Armor, Nature sphere (Living Steel (advanced));**Price** +1 bonus.
+**Aura** moderate Nature; **CL** 15th; Smith Magical Weapons And Armor, Nature sphere (Living Steel (advanced)); **Price** +1 bonus.
 
 ### Informing [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
-**Aura**faint Divination —**CL** 6th
-**Slot**any, see text —**Price** +1 bonus
+**Aura** faint Divination — **CL** 6th
+**Slot** any, see text — **Price** +1 bonus
 
 This special ability can be applied to a suit of armor, weapon, shield, or implement.
 
@@ -406,19 +406,19 @@ Requirements Craft Implement Of Power or Smith Magical Weapons And Armor, Divina
 
 An intercepting shield allows the bearer to use an immediate action to switch places with an adjacent ally when that ally is attacked. The attack is redirected to the shield’s carrier.
 
-**Aura**moderate War;**CL**6th; Smith Magical Weapons And Armor, War sphere;**Price** +1 bonus
+**Aura** moderate War; **CL** 6th; Smith Magical Weapons And Armor, War sphere; **Price** +1 bonus
 
 ### Jamais Vu
 
 Armor or shields with this special ability may be activated by command word twice per day. Once activated, those who see you must attempt a DC 16 Will save. Failing the save prompts these creatures to immediately disregard you and forget that they saw you. You remain unremarkable and forgettable in this manner mind for one minute, and your presence only strikes them as noteworthy if they see you again after this minute passes.
 
-**Aura**faint Mind;**CL**5th; Smith Magical Weapons And Armor, Mind sphere (Amnesia (charm));**Price** +2 bonus
+**Aura** faint Mind; **CL** 5th; Smith Magical Weapons And Armor, Mind sphere (Amnesia (charm)); **Price** +2 bonus
 
 ### Sacrificial
 
 A suit of sacrificial armor is tied to its wearer’s lifeforce; when its wearer is reduced to 0 hit points or below, the armor explodes out with magical energy, dealing 2d6 force damage per point of enhancement bonus to all targets within 10 feet. This armor can only explode with magic in this fashion once per hour; if the wearer is healed to positive hit points and then reduced to negative hit points again before an hour has past, this special ability produces no effect.
 
-**Aura**faint Destruction;**CL**5th; Smith Magical Weapons And Armor, Destruction sphere (Force Blast (blast type, force));**Price** +1 bonus
+**Aura** faint Destruction; **CL** 5th; Smith Magical Weapons And Armor, Destruction sphere (Force Blast (blast type, force)); **Price** +1 bonus
 
 ### Selfless (armor only)
 
@@ -429,19 +429,19 @@ Selfless armor allows the wearer to give of themselves so that others may follow
 - +4 morale bonus on saving throws
 - +4 morale bonus on Strength, Dexterity, and Constitution checks, or skill checks using those skills.
 
-**Aura**moderate War;**CL**10th; Smith Magical Weapons And Armor, War sphere;**Price** +2 bonus
+**Aura** moderate War; **CL** 10th; Smith Magical Weapons And Armor, War sphere; **Price** +2 bonus
 
 ### Shaded (armor only)
 
 A set of shaded armor lines the wearer in gloom. She is treated as being under the effects of the Shadowed Mien talent, using the armor’s effective enhancement bonus to determine the caster level of the effect. This effect does not grant temporary hit points. It can be suppressed or resumed on command, and does not count against the limit of one active (shadow) talent on a target.
 
-**Aura**faint Dark;**CL**5th; Smith Magical Weapons And Armor, Dark sphere (Shadowed Mien (shadow));**Price** +7,500 gp
+**Aura** faint Dark; **CL** 5th; Smith Magical Weapons And Armor, Dark sphere (Shadowed Mien (shadow)); **Price** +7,500 gp
 
 ### Shadow Warded (armor only)
 
 A set of shadow warded armor’s protection extends beyond the physical, providing shielding against effects that would target or manipulate her shadow. Shadow warded armor adds its full armor bonus to touch AC against attacks delivered by a caster’s shadow or targeting the wearer’s shadow. The wearer adds shadow warded armor’s enhancement bonus to saves against effects targeting her shadow.
 
-**Aura**faint Dark;**CL**5th; Smith Magical Weapons And Armor, Dark sphere;**Price** +1 bonus
+**Aura** faint Dark; **CL** 5th; Smith Magical Weapons And Armor, Dark sphere; **Price** +1 bonus
 
 ### Spell Storing
 
@@ -449,7 +449,7 @@ This armor allows a spellcaster to store within it a single touch spell of up to
 
 The armor magically imparts to the wielder the name of the magical effect currently stored within it. A randomly rolled suit of spell storing armor or shield has a 50% chance to have a magical effect stored in it already.
 
-**Aura**faint Destruction plus aura of any stored spell or sphere effect;**CL**5th; Smith Magical Weapons And Armor, Destruction sphere;**Price** +1 bonus
+**Aura** faint Destruction plus aura of any stored spell or sphere effect; **CL** 5th; Smith Magical Weapons And Armor, Destruction sphere; **Price** +1 bonus
 
 ### Supplying [TS]
 
@@ -468,13 +468,13 @@ A Tiny animated object attaches itself to the shoulder of a suit of armor, its s
 
 A wand may be inserted into the wand turret as a standard action and removed as a move action. Once inserted, the armor’s wearer treats the wand as if it were wielded and may activate it as a swift action, but only for abilities that require a ranged touch attack (such as the destructive blast ability of the Destruction sphere when not applying a (blast shape) talent or the ghost strike ability of the Death sphere when not applying the Greater Ghost Strike talent). Any attack rolls made when activating the wand as a swift action take a -5 penalty.
 
-**Aura**moderate Enhancement;**CL**10th; Smith Magical Weapons And Armor, Enhancement sphere (Animate Object (enhancement));**Price** +2 bonus
+**Aura** moderate Enhancement; **CL** 10th; Smith Magical Weapons And Armor, Enhancement sphere (Animate Object (enhancement)); **Price** +2 bonus
 
 ### Wild
 
 Armor with this special ability usually appears to be made from magically hardened animal pelt. The wearer of a suit of armor or a shield with this special ability preserves his armor or shield bonus (and any enhancement bonus) while in an alternate form, such as those granted by the Alteration sphere. Armor and shields with this special ability usually appear to be covered in leaf patterns. While the wearer is transformed, the armor cannot be seen.
 
-**Aura**moderate Alteration;**CL**8th; Smith Magical Weapons And Armor, Alteration sphere;**Price** +3 bonus
+**Aura** moderate Alteration; **CL** 8th; Smith Magical Weapons And Armor, Alteration sphere; **Price** +3 bonus
 
 ---
 

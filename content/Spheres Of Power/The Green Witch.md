@@ -10,13 +10,13 @@ parent: "[[Spheres Of Power]]"
 **The Green Witch**
 Female human hedgewitch 1
 CG Medium humanoid (human)
-**Init**+8;**Senses** Perception +5
+**Init** +8; **Senses** Perception +5
 
 ## Defense
 
-**AC**12,**touch**12,**flat-footed** 10 (+2 Dex)
+**AC** 12, **touch** 12, **flat-footed** 10 (+2 Dex)
 **hp** 8 (1d8)
-**Fort**+0,**Ref**+2,**Will** +6
+**Fort** +0, **Ref** +2, **Will** +6
 **Weaknesses** focus casting, magical signs, verbal casting
 
 ## Offense
@@ -25,10 +25,10 @@ CG Medium humanoid (human)
 
 ## Magic
 
-**Caster Level**0 (1);**MSB**+1;**MSD** 12; Concentration +5
-**Tradition**Focus Casting, Magical Signs, Verbal Casting;**CAM** Wis
+**Caster Level** 0 (1); **MSB** +1; **MSD** 12; Concentration +5
+**Tradition** Focus Casting, Magical Signs, Verbal Casting; **CAM** Wis
 **Spell Points** 6
-**Nature Sphere**-**DC**14;**Duration**1 round, Concentration;**Range**Close (25 ft);**Talents**Grow Plants;**Drawbacks** None
+**Nature Sphere** - **DC** 14; **Duration** 1 round, Concentration; **Range** Close (25 ft); **Talents** Grow Plants; **Drawbacks** None
 - *Entangle*
 - *Grow Plants*
 - *Growth*
@@ -36,8 +36,8 @@ CG Medium humanoid (human)
 
 ## Statistics
 
-**Str**11,**Dex**14,**Con**10,**Int**12,**Wis**18,**Cha** 12
-**Base Atk**+0;**CMB**+0;**CMD** 12
+**Str** 11, **Dex** 14, **Con** 10, **Int** 12, **Wis** 18, **Cha** 12
+**Base Atk** +0; **CMB** +0; **CMD** 12
 **Feats** Cantrips, Improved Initiative
 **Traits** reactionary
 **Skills** Diplomacy +5, Handle Animal +5, Knowledge (history) +5, Knowledge (local) +5, Knowledge (nature) +5, Linguistics +5, Perception +5, Sense Motive +8, Survival +8
@@ -81,17 +81,17 @@ CG Medium humanoid (human)
 
 ---
 
-# THEME
+# Theme
 
 A plantlife-focused Hedgewitch with a strong connection to nature.
 
-# BUILD RULES
+# Build Rules
 
 -20 pt buy (If lowering, ditch Charisma first. If raising, improve Dexterity.)
 
 -Favored Class Bonus: +1 Skill Point
 
-# SUGGESTED GROWTH
+# Suggested Growth
 
 -If you need to improve offense, dip into Destruction and take one or two of the plant-themed blast types. Since you're a plant-themed character, take Energy Focus (Plant) as a Drawback, which will give you a bonus talent to grab a blast type with.
 
@@ -99,7 +99,7 @@ A plantlife-focused Hedgewitch with a strong connection to nature.
 
 -This character isn't particularly feat-heavy, ESPECIALLY because you have the Channel Spirit Allies feature from the Spiritualism tradition. If you don't really need to do anything else with your feats, consider just grabbing a few more Magic Talents. You can expand your control of nature (Aggravating Vegetation and Spores are great choices), improve your Destructive Blasts, or even move into controlling weather as well (at higher levels - Weather's pretty bad at low Caster Levels).
 
-# NOTES
+# Notes
 
 -This character has three drawbacks (Focus Casting, Magical Signs, and Verbal Casting). The image is that of a witch who commands plants with magic and points some kind of magic-focusing wand, and the movement of plants when she does so is obvious. The main purpose of this is to give you lots of extra spell points to spend on things like Grow Plants, but you can also swap out for Easy Focus. If you do, you can maintain your Entangle as a move action and use your Standard Action to hurl Destructive Blasts at those trapped inside.
 

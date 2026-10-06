@@ -7,29 +7,29 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 102,400
 N Gargantuan ooze
-**Init**+0;**Senses**blindsight 60 ft.;**Perception** -5
+**Init** +0; **Senses** blindsight 60 ft.; **Perception** -5
 **Aura** magnetic pulse (30 ft., DC 27)
 
 **Defense**
-**AC**6,**touch**6,**flat-footed** 6 (-4 size)
+**AC** 6, **touch** 6, **flat-footed** 6 (-4 size)
 **hp** 241 (21d8+147)
-**Fort**+14,**Ref**+7,**Will** +2
-**Defensive Abilities**split (slashing or sonic, 46 hp);**DR**15/-;**Immune**acid, electricity, bludgeoning and piercing damage, ooze traits;**Resist** cold 30
+**Fort** +14, **Ref** +7, **Will** +2
+**Defensive Abilities** split (slashing or sonic, 46 hp); **DR** 15/-; **Immune** acid, electricity, bludgeoning and piercing damage, ooze traits; **Resist** cold 30
 
 **Offense**
 **Speed** fly 30 ft. (perfect)
 **Melee** slam +24 (4d6+19 plus 4d6 electricity, 4d6 fire, and grab)
 **Ranged** 1d4 plasma rays +11 touch (4d6 electricity plus 4d6 fire)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** constrict (4d6+19 plus 4d6 electricity and 4d6 fire), engulf (DC 33, 4d6 electricity plus 4d6 fire), traps
 
 **Tactics**
 Despite being mindless, the trap plasma ooze has developed a natural ability to create combinations of magnetic energy and metal to create traps. As such, while it will rely on its slam attack for melee and its plasma ray for groups, it also will leave behind traps as it passes through any territory, often doubling back in case something was caught in its wake. When facing individuals where its plasma ray is not as effective, it will even launch traps at its enemy with its Trap Wielder talent, tying the prey down and blinding it before moving in for the kill.
 
 **Statistics**
-**Str**36,**Dex**11,**Con**24,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+15;**CMB**+32 (+36 grapple);**CMD** 42 (can’t be tripped)
-**Tradition**None,**PAM**Con,**DC** 24
+**Str** 36, **Dex** 11, **Con** 24, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +15; **CMB** +32 (+36 grapple); **CMD** 42 (can’t be tripped)
+**Tradition** None, **PAM** Con, **DC** 24
 **Talents** Trap (Combined Traps, Deadly Dart, Flash Trap, Foam Spray, Noose, Opportunist, Persistent Trap x2, Skunk Smoke, Trap Wielder)
 **Skills** Craft (traps) +21, Fly +8
 **SQ** no breath

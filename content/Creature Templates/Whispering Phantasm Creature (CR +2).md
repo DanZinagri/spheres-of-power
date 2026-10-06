@@ -34,7 +34,7 @@ If a whispering phantasm is subject to a binding spell it releases its bonded vi
 
 **Ethereal Stealth (Su):** When ethereal any spell or effect that would reveal the Whispering Phantasm (and any of its attended objects) fails to do so (detect invisibility, detect magic, true seeing etc.), unless a successful caster level check DC 15 plus the whispering phantasm’s Challenge Rating is made. If the effect has no caster level, a success Will save (same DC) is required to perceive the whispering phantasm instead
 
-**Abilities:** Increase from the base creature as follows:**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +6 (minimum 13, +3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +3 to the DC any of the creature’s Charisma-based DCs ).
+**Abilities:** Increase from the base creature as follows: **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +6 (minimum 13, +3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +3 to the DC any of the creature’s Charisma-based DCs ).
 
 **Feats:** the base creature gains Improved Initiative and Skill Focus (Stealth) as as bonus feats.
 

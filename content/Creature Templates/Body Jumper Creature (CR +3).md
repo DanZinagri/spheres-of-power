@@ -30,7 +30,7 @@ Any of the protection from alignment spells prevents a body jumper from possessi
 
 If it is forcibly expelled or its host creature dies a body jumper must possess a new host within 1 minute or be destroyed.
 
-**Abilities:** Body jumpers lose Str, Dex and Con Scores;**Cha** +8 (+4 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to any of the creature’s Charisma-based DCs)
+**Abilities:** Body jumpers lose Str, Dex and Con Scores; **Cha** +8 (+4 to Bluff, diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to any of the creature’s Charisma-based DCs)
 
 **Feats:** Reselect any feats that no longer apply due to a lack of a body.
 

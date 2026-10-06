@@ -51,7 +51,7 @@ In addition, your orders are hard to refuse. If you fail an Intimidate check to 
 
 #### Bully [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can demand cooperation from a creature using Intimidate in 1 round (instead of 1 minute), or as a standard action if you invoke one of the creature’s motivations. You can also coerce a creature using Intimidate in only 1 minute (instead of 1d4 × 10 minutes), and such an adjustment lasts 1 day—if you successfully coerce a creature once per day for 1 week (and no Intimidate checks are failed against the creature during this time), the adjustment lasts for 1 month (instead of 2d8 days).
 
@@ -61,7 +61,7 @@ When you successfully demand cooperation or coerce a creature, they must succeed
 
 #### Deadly Repartee [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever you successfully damage a creature with a weapon attack, you can outwit the damaged creature as a cost to quip them as a swift or immediate action, although the target gains a +4 bonus to their saving throw against the quip. If the weapon attack was a critical hit or dealt more than 50% of the creature’s current hit points, you can choose to either not outwit the target or not grant the target a +4 bonus to their saving throw.
 
@@ -85,7 +85,7 @@ You attempt an Intimidate check to pose a menace when you spread the rumor and a
 
 #### Manipulate Hostility [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You can escalate the effects of an anger condition when using the Intimidate skill to insult a creature by increasing the DC. You may make an angry creature livid by increasing the DC by +5, and a livid creature enraged by increasing the DC by +10. You must choose to apply this DC adjustment prior to making the check.
 
@@ -137,7 +137,7 @@ When you successfully use either Intimidate to pose a menace or Bluff to feint o
 
 #### Threatening Persona [approach] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You adopt this approach as a swift action; when you adopt this approach, choose either braggadocious or menacing. You can change this choice by adopting this approach again.
 
@@ -223,7 +223,7 @@ If you invoke your ally’s major motivation, you can choose to make them enrage
 
 #### Inflating Flattery (quip) [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Attempt a Bluff check against the creature’s demoralize DC. If successful, the target gains a +3 morale bonus to saving throws made against disorientation effects and the impressed condition, and a +1 morale bonus to Charisma-based skill checks (except for Use Magic Device) and checks made as an impressive display of skill for 10 minutes per rank you possess in the associated skill. For every 5 ranks you possess in the associated skill, these bonuses increase by 1.
 
@@ -241,7 +241,7 @@ If you succeed and the target’s Will save fails, its anger condition worsens b
 
 #### Macerating Remark (quip) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You relentlessly hound the target’s flaws, diminishing their will to fight. If the target fails at its Will save, it suffers 1d6 nonlethal damage, plus 1d6 per 3 ranks you possess in the associated skill you possess. If you invoke the target’s motivation as part of using this quip, the damage die increases to d8s. You can outwit the target as a cost as part of using this quip to add your ranks in this sphere’s associated skill to the damage dealt, as well as halving the damage on a successful save (instead of negating).
 
@@ -251,7 +251,7 @@ You can outwit a creature as a cost as part of using any other quip as a standar
 
 #### Perturbing Fable (quip) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Attempt a Bluff or Intimidate check against the creature’s demoralize DC. If you succeed, the target gains a circumstance bonus to initiative and Perception checks equal to 2, +1 per 6 ranks in the associated skill, and a -2 penalty to saving throws against fear effects. This lasts for 10 minutes per rank you possess in the associated skill. This is a fear effect. While a creature benefiting from this quip is shaken, frightened, or panicked, they gain a +4 dodge bonus to AC against attacks of opportunity and a +10-foot circumstance bonus to all speeds.
 

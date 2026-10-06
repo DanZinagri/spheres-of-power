@@ -37,43 +37,43 @@ This ability replaces wild empathy, steal language, boundless communication, and
 
 **Nightforms (Su):** At 3rd level, and again at levels 7, 13, and 19, the night terror gains a “nightform”, selected from the list included below. A nightform may be suppressed or resumed as a free action, and otherwise functions similarly to a bestial trait (retaining them when subject to a *shapeshift*).
 
-#### Bestial Traits
+## Bestial Traits
 
 The night terror shifter has unique and exclusive access to the following bestial traits:
 
-##### **Extra Nightform (requires night terror level 10\)**
+### Extra Nightform (requires night terror level 10\)
 
 The night terror may select 1 additional nightform. This bestial trait may only be selected once.
 
-#### Nightforms
+## Nightforms
 
 The following nightforms are available to the night terror archetype for shifter. Unless otherwise stated, the saving throw DC of a nightform is equal to 10 + 1/2 the night terror’s class level + the night terror’s casting ability modifier.
 
 A nightform is a supernatural effect (unless otherwise stated).
 
-##### **Call Shadow Pack**
+### Call Shadow Pack
 
 As a standard action, the night terror may spend 1 spell point to summon 2 dark minions (referred to as “nocturnal predators” for this ability”). This functions as the Living Darkness *dark calling* sphere ability and continues without concentration as though the night terror spent an additional spell point. When summoned, the nocturnal predators gain a bite natural attack (instead of being granted a masterwork weapon) and benefits from 1 bestial trait the night terror possesses, +1 per 5 night terror levels. If the bestial trait would require the night terror to choose upon gaining the bestial trait, the nocturnal predators gain the same selections chosen by the night terror. The night terror may only have a single instance of this ability active; using this ability again dismisses previously summoned nocturnal predators.
 
 **Special - Nocturnal Predators and Sphere Talents:** If a nocturnal predator would gain sphere talents, the nocturnal predator gains the base sphere (or the selected talent, if it is already granted or possesses that base talent). Nocturnal predators cannot be granted magic sphere talents unless the night terror possesses the Living Darkness Mastery advanced talent; if granted a magic sphere talent, a nocturnal predator gains 1 spell point when summoned and is treated as a low caster.
 
-##### **Crippling Fear**
+### Crippling Fear
 
 The night terror gains a fear aura with a radius of 15 feet, +5 feet per 3 night terror levels after 3rd. Other creatures which enter this aura or begin their turn within the aura are shaken for as long as they remain within this aura (Will save negates). A successful saving throw grants that creature immunity to this aura for 24 hours. A creature that is shaken by this effect cannot communicate effectively, suffering a 25% failure chance on any effect with a verbal component (see the silent darkness option’s note for more details) and prevents the creature from speaking in anything quieter than shouting, preventing the use of Stealth during any round the creature speaks or uses an ability that would suffer failure chance.
 
-##### **Emergence**
+### Emergence
 
 As a swift action, the night terror may choose 1 ongoing Dark sphere effect they created to dismiss, provided the night terror has line of sight to the effect and the effect is not being maintained through concentration. The night terror may, as part of dismissing this effect, immediately cast a *shapeshift* on themself (and only themself) or cause a *shapeshift* they are concentrating on to continue without concentration, as though spending 1 spell point. When a Dark sphere effect is dismissed using this ability, the night terror gains a +2 bonus to their Strength and Dexterity for 1 round, +1 round per 4 night terror levels; this bonus increases by +2 at level 8 and every 8 night terror levels thereafter.
 
-##### **Midnight Suffusion**
+### Midnight Suffusion
 
 Whenever the night terror casts a *shapeshift* on themself (and only themself), the night terror may also add a *cloak* to that *shapeshift*’s effects, paying any additional spell point costs for the *gloom* as appropriate. This ability may be used in addition to other abilities that add a *cloak* to a *shapeshift* to another ability (such as dual sphere feats). At 10th level, when using this nightform to add a *cloak* to a *shapeshift*, the night terror reduces the spell point cost of the *cloak* by 1 (minimum 0). At 20th level, the night terror may add 2 different *cloaks* to their *shapeshift* as part of using this ability.
 
-##### **Phasing Beast**
+### Phasing Beast
 
 Whenever the night terror uses the charge, run, or withdraw actions, the night terror ignores difficult terrain and can move through squares that contain allies. Whenever the night terror successfully makes an attack action against another creature, the night terror may spend 1 spell point as a free action to take a -2 penalty on all attack rolls until the start of their next turn to immediately charge another creature and make a single attack action at the end of this charge; the night terror’s movement does not provoke attacks of opportunity from the originally struck target. If the night terror can maintain martial focus, the night terror may expend martial focus instead of 1 spell point to use this ability. The night terror may only use this ability to perform an additional charge attack once per round.
 
-##### **Shadow Rend**
+### Shadow Rend
 
 The night terror’s attacks gain the *shadow wake* special weapon ability (*Ultimate Spheres of Power*), including their natural attacks, manufactured weapons, etc. Whenever the night terror performs an attack action, the *shadow wake*’s bonus damage is increased to 2d6, +1d6 per 5 night terror levels for that attack action (but not any additional attacks). If the night terror is within a darkened area, the additional damage from the *shadow wake* special weapon ability may be dealt as lethal damage on a successful hit (but remains non-lethal on an attack that misses but would still succeed versus touch AC).
 

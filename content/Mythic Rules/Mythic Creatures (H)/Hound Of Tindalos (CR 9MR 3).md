@@ -13,14 +13,14 @@ This gaunt, long-limbed quadruped has huge, soulless eyes and a toothy maw. The 
 XP 6,400
 Pathfinder Roleplaying Game Bestiary 2
 NE Medium outsider (evil, extraplanar, mythic)
-**Init**+10, bilocationMA;**Senses** darkvision 120 ft.; Perception +18
+**Init** +10, bilocationMA; **Senses** darkvision 120 ft.; Perception +18
 
 #### Defense
 
-**AC**24,**touch**16,**flat-footed** 18 (+6 Dex, +8 natural)
+**AC** 24, **touch** 16, **flat-footed** 18 (+6 Dex, +8 natural)
 **hp** 115 (10d10+60)
-**Fort**+10,**Ref**+13,**Will** +8
-**Defensive Abilities**DR 10/epic and magic;**Immune** mind-affecting effects, poison
+**Fort** +10, **Ref** +13, **Will** +8
+**Defensive Abilities** DR 10/epic and magic; **Immune** mind-affecting effects, poison
 
 #### Offense
 
@@ -35,10 +35,10 @@ At will—fog cloud, invisibility, locate creature
 
 #### Statistics
 
-**Str**17,**Dex**23,**Con**16,**Int**16,**Wis**21,**Cha** 16
-**Base Atk**+10;**CMB**+13;**CMD** 29 (33 vs. trip)
+**Str** 17, **Dex** 23, **Con** 16, **Int** 16, **Wis** 21, **Cha** 16
+**Base Atk** +10; **CMB** +13; **CMD** 29 (33 vs. trip)
 **Feats** Blind-Fight, Combat ReflexesMF, Improved Initiative, Vital Strike, Weapon FinesseMF
-**Skills**Acrobatics +19 (+23 when jumping), Intimidate +16, Knowledge (arcana) +16, Knowledge (geography) +13, Knowledge (planes) +16, Perception +18, Sense Motive +18, Stealth +19, Survival +18;**Racial Modifiers** +4 Acrobatics when jumping
+**Skills** Acrobatics +19 (+23 when jumping), Intimidate +16, Knowledge (arcana) +16, Knowledge (geography) +13, Knowledge (planes) +16, Perception +18, Sense Motive +18, Stealth +19, Survival +18; **Racial Modifiers** +4 Acrobatics when jumping
 **Languages** Aklo
 **SQ** angled entryMA, bilocationMA, otherworldly mind
 

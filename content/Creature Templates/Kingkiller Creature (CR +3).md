@@ -18,7 +18,7 @@ Sometimes called Ruler’s Bane, or Sovereign’s Scourge, kingkiller creatures 
 
 **Size and Type:** The creature gains the outsider type plus the chaotic, evil, and native subtype.
 
-**Defensive Abilities:** Gains darkvision 60 feet, +5 profane bonus to Will saves; DR 5/cold iron (increase to 10/ cold iron and good if the kingkiller’s CR is 10 or higher; increase to 15/cold iron, good, and lawful if the kingkiller’s CR is 15 or higher).**Weakness** Vulnerability to cold iron (a kingkiller takes half again as much damage (+50%) from cold iron weapons); Overloading (a kingkiller can absorb a maximum number of spell levels equal to its Hit Dice x 4; if it cannot absorb a spell or effect due to its spell levels being full it suffers the effects as normal, plus it is stunned for 1 round).
+**Defensive Abilities:** Gains darkvision 60 feet, +5 profane bonus to Will saves; DR 5/cold iron (increase to 10/ cold iron and good if the kingkiller’s CR is 10 or higher; increase to 15/cold iron, good, and lawful if the kingkiller’s CR is 15 or higher). **Weakness** Vulnerability to cold iron (a kingkiller takes half again as much damage (+50%) from cold iron weapons); Overloading (a kingkiller can absorb a maximum number of spell levels equal to its Hit Dice x 4; if it cannot absorb a spell or effect due to its spell levels being full it suffers the effects as normal, plus it is stunned for 1 round).
 
 **Speed:** A kingkiller creature’s base speed increases by +30 ft.; it also gains a fly speed equal to 90 ft., with average maneuverability, or a +30 ft. increase over its existing fly speed, whichever is better.
 
@@ -113,7 +113,7 @@ The effects are permanent unless negated by a spell or effect that removes disea
 
 While under the effects of mind blank, protection from evil or a similar spell, the subject can ignore the mind affecting compulsion, but such a ward does not prevent establishing incite murder, nor negate it. Otherwise, the effect lasts for 24 hours. A creature that makes its save cannot be subject to a kingkiller’s incite murder for 1 day. Skirmish (Su): A scourge of war’s melee and ranged attacks (including touch attacks) deal +1d6 points of damage. This amount of damage increases to +2d6 at CR 10 and to +3d6 at CR 15. This ability drains one stored magic level per day.
 
-**Abilities:** Increase from the base creature as follows:**Str**+10 (+5 to attack and damage, +5 to Climb and Swim skill checks, +5 to Strength, and CMB checks, +5 to CMD),**Dex**+10 (+5 to Ranged attack rolls; AC and touch AC, Initiative, and Reflex saves, +5 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +5 to any of the base creature’s Dexterity-based DCs),**Con** +10 (+5 hp per HD, +5 to Fortitude saves, and any of the base creature’s Constitution-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +10 (+5 to attack and damage, +5 to Climb and Swim skill checks, +5 to Strength, and CMB checks, +5 to CMD), **Dex** +10 (+5 to Ranged attack rolls; AC and touch AC, Initiative, and Reflex saves, +5 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +5 to any of the base creature’s Dexterity-based DCs), **Con** +10 (+5 hp per HD, +5 to Fortitude saves, and any of the base creature’s Constitution-based DCs).
 
 **Skills:** If the base creature does not have ranks in the Fly skill, the kingkiller creature gains Fly as a class skill and gains a number of bonus ranks in Fly equal to its HD.
 

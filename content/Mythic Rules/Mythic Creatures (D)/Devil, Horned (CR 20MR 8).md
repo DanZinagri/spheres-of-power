@@ -13,22 +13,22 @@ Bristling with terrible spines and a crown of deadly horns, this leering winged 
 XP 307,200
 Pathfinder Roleplaying Game Bestiary
 LE Large outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+8;**Senses** darkvision 60 ft., see in darkness; Perception +24
+**Init** +8; **Senses** darkvision 60 ft., see in darkness; Perception +24
 **Aura** cowering fearMA (15 ft., DC 25, 2d4 rounds)
 
 #### Defense
 
-**AC**43,**touch**17,**flat-footed** 35 (+8 Dex, +26 natural, –1 size)
+**AC** 43, **touch** 17, **flat-footed** 35 (+8 Dex, +26 natural, –1 size)
 **hp** 297 (15d10+215); regeneration 5 (epic and good weapons, good spells)
-**Fort**+18,**Ref**+17,**Will** +13
-**Defensive Abilities**block attacks; DR 10/epic, good, and silver;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 31
+**Fort** +18, **Ref** +17, **Will** +13
+**Defensive Abilities** block attacks; DR 10/epic, good, and silver; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 31
 
 #### Offense
 
 **Speed** 30 ft., fly 50 ft. (average)
-**Melee**+2 keen unholy spiked chain +30/+25/+20 (2d6+20/19-20 plus stunMA), bite +24 (2d8+6), gore +24 (2d6+6/18-20/x3 plus infernal woundMA), tail +24 (2d6+6 plus infernal woundMA and tripMA)**or** 2 claws +26 (2d6+12), bite +26 (2d8+12), gore +26 (2d6+12 plus infernal woundMA), tail +24 (2d6+6 plus infernal woundMA and tripMA)
+**Melee** +2 keen unholy spiked chain +30/+25/+20 (2d6+20/19-20 plus stunMA), bite +24 (2d8+6), gore +24 (2d6+6/18-20/x3 plus infernal woundMA), tail +24 (2d6+6 plus infernal woundMA and tripMA) **or** 2 claws +26 (2d6+12), bite +26 (2d8+12), gore +26 (2d6+12 plus infernal woundMA), tail +24 (2d6+6 plus infernal woundMA and tripMA)
 **Ranged** 4 spikes +23 (1d6+12 plus infernal woundMA)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** mythic power (8/day, surge +1d10), powerful chargeMA (gore, 4d6+24/18-20/x3 plus infernal woundMA and stunMA)
 
 **Spell-Like Abilities** (CL 20th; concentration +26)
@@ -38,8 +38,8 @@ At will—dispel chaos (DC 23), dispel good (DC 23), magic circle against good, 
 
 #### Statistics
 
-**Str**35,**Dex**27,**Con**28,**Int**14,**Wis**22,**Cha** 27
-**Base Atk**+15;**CMB**+28 (+30 sunder);**CMD** 46 (48 vs. sunder)
+**Str** 35, **Dex** 27, **Con** 28, **Int** 14, **Wis** 22, **Cha** 27
+**Base Atk** +15; **CMB** +28 (+30 sunder); **CMD** 46 (48 vs. sunder)
 **Feats** Cornugon Smash, Improved Sunder, Improved Vital Strike, Iron WillMF, Multiattack, Power AttackMF, Vital StrikeMF, Weapon Focus (spiked chain)MF
 **Skills** Bluff +26, Diplomacy +23, Fly +15, Intimidate +26, Knowledge (planes) +20, Perception +24, Sense Motive +21, Spellcraft +20, Stealth +22
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.

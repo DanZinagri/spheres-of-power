@@ -16,99 +16,99 @@ If you're looking for a specific feat but don't know what category it's likely t
 
 ---
 
-# New Feats
+### New Feats
 
-## [[Admixture Feats]]
+#### [[Admixture Feats]]
 
 Admixture feats grant new ways to utilize the Admixture talent (from the [[Destruction]] sphere), adding abilities from other spheres to your destructive blast. All admixture feats replace the second blast talent you would normally apply, with the resulting destructive blast dealing normal blast damage in addition to the effect outlined in the feat. Any additional costs incurred by the additional effect must be paid as normal. If your caster level is different for the two spheres, the destructive blast is governed by your caster level for the relevant blast type and the additional effect is governed by your caster level for the appropriate ability.
 
 ---
 
-## [[Anathema Feats]]
+#### [[Anathema Feats]]
 
 Anathema feats focus on the use of the Anathema ability, which allows you to convert several different abilities that rely on positive energy into a force of destruction.
 
 ---
 
-## [[Aristeia Feats]]
+#### [[Aristeia Feats]]
 
 Aristeia feats interact with - and help power - the optional [[Aristeia]] rules.
 
 ---
 
-## [[Champion Feats]] [CS]
+#### [[Champion Feats]] [CS]
 
 Champion feats blend Spheres of Power and Spheres of Might together, focusing on abilities useful for characters dipping into both systems. Some archetypes can select these as bonus feats.
 
 ---
 
-## [[Chance Feats]]
+#### [[Chance Feats]]
 
 The force of kismet is mostly the domain of [[Ordained Hunter (Inquisitor Archetype)|ordained hunter]]s and [[Lucky Bastard (RogueUnchained Rogue Archetype)|lucky bastard]]s, but it is possible for others to tap into its abilities. Chance feats grant kismet and a way to use it.
 
 ---
 
-## [[Channeling Feats]]
+#### [[Channeling Feats]]
 
 Channeling feats focus on the use of the channel energy power.
 
 ---
 
-## [[Combat Feats]]
+#### [[Combat Feats]]
 
 Combat feats are combat-related options, and most notably, they can be selected as bonus feats by a number of different classes.
 
 ---
 
-## [[Companion Feats]]
+#### [[Companion Feats]]
 
 Companion feats can be taken either by a [[Conjuration]] sphere companion or by a caster with the Conjuration sphere. If taken by the caster, the feat only applies to a single companion that qualifies for it, but may be taken multiple times. The feat may not be reassigned to a different companion for as long as the chosen companion is in your service. The effects do not stack unless noted, each time one is taken it applies to a different companion. If taken by a companion, they may only be taken once unless noted. Any caster level prerequisite must be met by the caster.
 
 ---
 
-## [[Counterspell Feats]]
+#### [[Counterspell Feats]]
 
 In Spheres of Power, dispelling and countering magic is done by way of the Counterspell feat chain.
 
 ---
 
-## [[Damnation Feats]]
+#### [[Damnation Feats]]
 
 Damnation feats focus on deals, bargains, and extraplanar creatures.
 
 ---
 
-## [[DrawbackDefiler Feats|Drawback Feats]]
+#### [[DrawbackDefiler Feats|Drawback Feats]]
 
 Drawback feats present a way of taking advantage of a specific drawback in a manner more specific than just gaining extra spell points. At your GM’s option, you may take a drawback feat in place of a boon. An [[Incanter]] may select drawback feats as bonus feats. **Note:** Characters can also take [[Theurge Feats]] in place of Drawback Feats.
 
 ---
 
-## Dual Sphere Feats
+#### Dual Sphere Feats
 
 Dual Sphere feats do not have their own page because that is an inefficient way of organizing them - instead, they can be found on the pages for their respective spheres. Note that only the effects of one Dual Sphere feat can be applied to any given use of sphere abilities.
 
 ---
 
-## [[Extra Feats]]
+#### [[Extra Feats]]
 
 Extra feats allow characters to either use their existing abilities more times each day or learn a new ability associated with their class. There is no tag associated with this type of feat, but they have been grouped together here for easier reference.
 
 ---
 
-## [[General Feats]]
+#### [[General Feats]]
 
 General feats have no tags and do not belong in any other category. They mostly feature abilities that are good for many types of characters and enhancements to specific class abilities, but anything that doesn't fit into any other category is likely to be found here.
 
 ---
 
-## [[Item Creation Feats]]
+#### [[Item Creation Feats]]
 
 Item Creation feats are used to create magical items or access other types of advanced casting techniques. Spheres of Power uses an alternate set of crafting feats than Pathfinder's core rules, and those are included here. This section also includes some feats related to crafting.
 
 ---
 
-## [[Metamagic Feats]]
+#### [[Metamagic Feats]]
 
 Applying a metamagic feat to a sphere effect is similar to, but slightly different from, how a spontaneous caster applies a metamagic feat to a spell. A caster may choose to augment their sphere effect with an appropriate metamagic feat at the time of casting. To use a metamagic feat, the caster must spend a number of additional spell points equal to the level increase of the metamagic feat. In addition, the sphere effect’s casting time increases by 1 step. These effects are cumulative for every metamagic feat applied.
 
@@ -122,7 +122,7 @@ If the effect of a metamagic feat is determined by spell level, treat the sphere
 
 ---
 
-## [[Necrosis Feats]]
+#### [[Necrosis Feats]]
 
 Necrosis feats represent ongoing necromantic modification, corruption, or experimentation the character has made on her body to bring it closer to undead anatomy. Necrosis feats are distinct from more common feats in three ways.
 
@@ -134,19 +134,19 @@ Magical Infusion: A character gains a number of spell points equal to the number
 
 ---
 
-## [[Plague Feats]]
+#### [[Plague Feats]]
 
 Plague feats focus on creating and managing diseases, especially through the Virulent Ailment (plague) feat.
 
 ---
 
-## [[Practitioner Feats]]
+#### [[Practitioner Feats]]
 
 Practitioner feats include feats intended for Spheres of Might characters. These broadly include combat, extra, and general feats, and are kept separate for ease of reference.
 
 ---
 
-## [[Protokinesis Feats]]
+#### [[Protokinesis Feats]]
 
 Protokinesis feats represent innate telekinetic abilities, powers usable with minimal thought and effort in contrast to the magic of the telekinesis sphere. They often develop unintentionally, without need for training or even awareness of them.
 
@@ -156,13 +156,13 @@ The effects of protokinesis feats last indefinitely unless otherwise noted, thou
 
 ---
 
-## [[Proxy Feats]]
+#### [[Proxy Feats]]
 
 Proxy feats represent an enhanced ability to manipulate and take advantage of the Create Proxy enhancement, which by default is granted by the Spell Proxy feat. Unless otherwise stated, these feats only apply to Create Proxy effects that you created yourself, and only affect creatures under the effects of Create Proxy who are within 30 ft. Generally, using a proxy feat immediately ends the Create Proxy effect for that creature. An [[Incanter]] may select proxy feats as bonus feats.
 
 ---
 
-## [[Purring Feats]]
+#### [[Purring Feats]]
 
 Catfolk display much of their mood through purring – affection, calming, comfort, content, happiness, hunger, and even stress. Purring is often associated with positive social situations, such as general friendliness with those they trust, grooming themselves or their children, nursing, and when content and relaxing.
 
@@ -170,7 +170,7 @@ Purring feats are not exclusive to catfolk and may be taken by creatures of any 
 
 ---
 
-## [[Racial Feats]]
+#### [[Racial Feats]]
 
 Racial feats are intended only for characters of certain races. As such, while they may also be tagged as being part of another category (Combat, etc.), all of them have been collected here to avoid filling the other sections with feats most characters can't take.
 
@@ -178,25 +178,25 @@ Many - but not all - of these feats are intended for use with the races from *Th
 
 ---
 
-## [[Ritual Feats]]
+#### [[Ritual Feats]]
 
 Ritual feats focus on the use of [[Rituals]], an optional subsystem. These feats are *not* required for using rituals in the first place - instead, they make it easier to learn and use them.
 
 ---
 
-## [[Skybourne Feats]]
+#### [[Skybourne Feats]]
 
 Skybourne feats are mainly intended for use in the Skybourne Campaign Setting. Most of them are Racial feats.
 
 ---
 
-## [[Squadron Feats]]
+#### [[Squadron Feats]]
 
 Based around the use of the Squadron Commander feat, these feats offer various ways for allies to help each other - unlike Teamwork feats, however, only one person in the party needs to know the feat being used.
 
 ---
 
-## [[Surreal Feats]]
+#### [[Surreal Feats]]
 
 Surreal feats are feats that use or rely upon the irrational and unpredictable substance known as shadowstuff. All surreal feats are spell-like abilities that are treated as (figment, shadow) [[Illusion|illusion]]s for the purposes of interacting with other effects. Characters with the Shadow Infusion talent or the create reality class feature may spend spell points in place of shadow points to activate abilities granted by surreal feats.
 
@@ -204,18 +204,18 @@ The first time you gain a surreal feat you also gain a shadow pool as the fey ad
 
 ---
 
-## [[Teamwork Feats]]
+#### [[Teamwork Feats]]
 
 Teamwork feats are special in that they generally require at least two characters to know them in order to take effect, although some classes have abilities that make them easier to use.
 
 ---
 
-## [[Theurge Feats]]
+#### [[Theurge Feats]]
 
 Theurge feats are a new category of feat designed for characters who utilize multiple casting traditions. Most of them require multiple casting traditions as prerequisites, and may operate in ways that cause these multiple traditions to interact. Theurge feats can be selected in place of drawback feats.
 
 ---
 
-## [[Wild Magic Feats]]
+#### [[Wild Magic Feats]]
 
 Feats that modify [[Wild Magic|wild magic]] chance for yourself or others or manipulate the result of a wild magic event carry the (Wild Magic) descriptor. Many wild magic feats have improved effects depending on the number of wild magic feats you possess.

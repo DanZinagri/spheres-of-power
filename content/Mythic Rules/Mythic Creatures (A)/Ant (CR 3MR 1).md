@@ -13,13 +13,13 @@ A thin, six-legged ant the size of a pony stands at the ready, its mandibles chi
 XP 800
 Pathfinder Roleplaying Game Bestiary
 N Medium vermin (mythic)
-**Init**+0;**Senses** darkvision 60 ft., scent; Perception +5
+**Init** +0; **Senses** darkvision 60 ft., scent; Perception +5
 
 #### Defense
 
-**AC**16,**touch**10,**flat-footed** 16 (+6 natural)
+**AC** 16, **touch** 10, **flat-footed** 16 (+6 natural)
 **hp** 29 (2d8+20)
-**Fort**+6,**Ref**+0,**Will** +1
+**Fort** +6, **Ref** +0, **Will** +1
 **Immune** mind-affecting effects
 
 #### Offense
@@ -30,10 +30,10 @@ N Medium vermin (mythic)
 
 #### Statistics
 
-**Str**14,**Dex**10,**Con**17,**Int**—,**Wis**13,**Cha** 11
-**Base Atk**+1;**CMB**+3 (+7 grapple);**CMD** 13 (21 vs. trip)
+**Str** 14, **Dex** 10, **Con** 17, **Int** —, **Wis** 13, **Cha** 11
+**Base Atk** +1; **CMB** +3 (+7 grapple); **CMD** 13 (21 vs. trip)
 **Feats** ToughnessB, MF
-**Skills**Climb +10, Perception +5, Survival +5;**Racial Modifiers** +4 Perception, +4 Survival
+**Skills** Climb +10, Perception +5, Survival +5; **Racial Modifiers** +4 Perception, +4 Survival
 
 #### Ecology
 
@@ -47,4 +47,4 @@ N Medium vermin (mythic)
 
 **Crushing Mandibles (Ex)** A mythic giant ant that successfully grapples an opponent receives a free sunder check against any armor worn by the opponent. This sunder attempt does not provoke attacks of opportunity. When a mythic giant ant successfully maintains a grapple, it deals double damage to a creature that does not benefit from an armor or natural armor bonus to its AC.
 
-**Poison (Ex)**Sting—injury;**save**Fort DC 14;**frequency**1/round for 4 rounds;**effect**1d2 Strength damage;**cure** 1 save.
+**Poison (Ex)** Sting—injury; **save** Fort DC 14; **frequency** 1/round for 4 rounds; **effect** 1d2 Strength damage; **cure** 1 save.

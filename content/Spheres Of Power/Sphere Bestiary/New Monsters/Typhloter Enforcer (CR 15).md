@@ -10,13 +10,13 @@ The typhloter enforcer has an urchin cube-like appearance. Enforcers have a colo
 **Typhloter Enforcer (CR 15)**
 XP 51,200
 CN Colossal aberration
-**Init**+2;**Senses**darkvision 60 ft., detect scrying (80 ft.);**Perception** +27
+**Init** +2; **Senses** darkvision 60 ft., detect scrying (80 ft.); **Perception** +27
 
 **Defense**
-**AC**30,**touch**12,**flat-footed** 28 (+8 Cha, +2 Dex, +18 natural, -8 size)
+**AC** 30, **touch** 12, **flat-footed** 28 (+8 Cha, +2 Dex, +18 natural, -8 size)
 **hp** 369 (22d8+264)
-**Fort**+19,**Ref**+17,**Will** +15
-**Defensive Abilities**no breath, non-euclidean;**Immune** ability drain, cold, fire, gaze attacks, poison
+**Fort** +19, **Ref** +17, **Will** +15
+**Defensive Abilities** no breath, non-euclidean; **Immune** ability drain, cold, fire, gaze attacks, poison
 
 **Offense**
 **Speed** 30 ft., fly 120 ft. (average), swim 60 ft.
@@ -24,8 +24,8 @@ CN Colossal aberration
 **Ranged** adhesive blast +18 (6d6 acid damage/x2), entangled 1 round (Reflex save, DC 23)
 
 **Magic**
-**Caster Level**11;**MSB**+22,**MSD**33,**Concentration** +30
-**Tradition**none;**CAM** Cha
+**Caster Level** 11; **MSB** +22, **MSD** 33, **Concentration** +30
+**Tradition** none; **CAM** Cha
 **Spell Points** 30
 
 **Destruction Sphere:** (blast type) Adhesive Blast
@@ -51,8 +51,8 @@ CN Colossal aberration
 ◊ Plane Manipulator (dimensional anchor, 110 ft. radius, concentration or 11 min., 1 sp; banish extraplanar, Will negates, 1 sp)
 
 **Statistics**
-**Str**51,**Dex**15,**Con**35,**Int**16,**Wis**14,**Cha** 26
-**Base Atk**+16;**CMB**+44;**CMD** 56
+**Str** 51, **Dex** 15, **Con** 35, **Int** 16, **Wis** 14, **Cha** 26
+**Base Atk** +16; **CMB** +44; **CMD** 56
 **Feats** Ability Focus (non-euclidian), Hover, Flyby Attack, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Multiattack, Rapid Grappler, Snatch, Weapon Focus (bite), Weapon Focus (tentacles)
 **Skills** Bluff +30, Fly +27, Intimidate +33, Knowledge (arcana) +28, Perception +27, Sense Motive +24, Spellcraft +28
 **Languages** Aklo; telepathy 60 ft.

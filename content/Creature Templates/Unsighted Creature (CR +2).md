@@ -18,7 +18,7 @@ In a fantasy world where all the myths are true and darkness has an actual physi
 
 **Armor Class:** An unsighted creature has an unnatural perception of the world and its surrounding that grants it a +1 insight bonus to AC, this bonus increases by +1 for every 5 hit dice it possess (max +6)
 
-**Defenses/Qualities:** Gains blindsight 120 feet; unnatural aura 30 feet;**Weakness** vulnerability to silence (negates blindsight, echo of the blind, and racial bonus to skills, creature suffers all penalties for blindness)
+**Defenses/Qualities:** Gains blindsight 120 feet; unnatural aura 30 feet; **Weakness** vulnerability to silence (negates blindsight, echo of the blind, and racial bonus to skills, creature suffers all penalties for blindness)
 
 **Melee:** Manufactured and natural weapons used by an unsighted creature have a number of special properties (See Hexed Weapon below), Cl is equal to HD
 
@@ -34,7 +34,7 @@ In a fantasy world where all the myths are true and darkness has an actual physi
 - **Enhancement:** The weapons wielded by an unsighted gain a +1 enhancement bonus for every 4 HD they possess (+5 max).
 - **Weapon of Apostate:** Magical healing will not heal damage dealt by an unsighted’s weapons unless a remove curse is cast by a creature suffering from blindness. A successful Heal check (DC 10+ the unsighted creature’s CR) is needed to determine this.
 
-**Abilities:** **Str**+4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD),**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs)
+**Abilities:** **Str** +4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD), **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs)
 
 **Skills:** Unsighted gain a +8 racial bonus on Bluff, Perception, Sense Motive, and Stealth checks.
 

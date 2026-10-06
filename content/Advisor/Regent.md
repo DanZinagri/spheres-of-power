@@ -30,7 +30,7 @@ The regent no longer receives base of operations benefits from the tailored advi
 
 In addition, the regent has access to the following unique realm ability:
 
-- **Regent’s Advice**: The regent gains two base of operations tailored advice. The regent must possess the appropriate skill spheres to select the associated benefit (i.e. the Artifice sphere to select the Artifice tailored advice).
+- **Regent’s Advice:** The regent gains two base of operations tailored advice. The regent must possess the appropriate skill spheres to select the associated benefit (i.e. the Artifice sphere to select the Artifice tailored advice).
 
 The regent may select this realm ability an additional time at 9th level, and again at 17th level.
 

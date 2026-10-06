@@ -12,49 +12,49 @@ A storm herald speaks with the power of thunder and harnesses it into their song
 
 This archetype requires [[Sphere Skald|sphere skald]].
 
-### Weapon and Armor Proficiency
+## Weapon and Armor Proficiency
 
 A storm herald with the somatic casting drawback incurs a chance of spell failure if he uses a shield or wears heavy armor, not when wearing medium or heavy armor.
 
 This alters weapon and armor proficiency. However, this archetype is still compatible with other skald archetypes that also alter weapon and armor proficiency.
 
-### Tempest Singer
+## Tempest Singer
 
 A storm herald gains the Weather sphere and his choice of Rain Lord, Storm Lord, or Wind Lord, as well as a special version of the Limited Weather drawback. He may affect both Wind and Precipitation, but may not decrease their severity level. This drawback does not grant an additional talent and may be bought off as normal. If he already has the Limited Weather drawback, the drawback is bought off and no talent is gained. If he already possesses the Weather sphere, but has a drawback that would prevent him from using the control weather sphere base ability, he loses that drawback and gains one of the listed talents. If he already possesses the Weather sphere with no such drawback, then he gains one of the listed talents with no drawback. If he possesses the Weather sphere and all three listed talents (including Storm Lord taken twice), any talent from the Weather sphere may be chosen. In addition, the storm herald uses his class level as his caster level for the Weather sphere. This stacks normally with caster levels gained from other sources.
 
 This replaces scribe scroll and well versed.
 
-### Voice of the Storm (Su)
+## Voice of the Storm (Su)
 
 A storm herald may choose to have his singing and speaking be audible over the noise of precipitation and wind, negating penalties to Perception to hear him and allowing creatures to attempt Perception checks to hear him even during hurricanes or tornadoes.
 
-### Raging Song (Su)
+## Raging Song (Su)
 
 A storm herald gains access to the following raging songs, allowing him to channel the storm through his music.
 
-#### Song of the Storm’s Teeth (Su)
+### Song of the Storm’s Teeth (Su)
 
 At 1st level, affected allies gain a +10 feet bonus to all movement speeds, a +1 morale bonus on Reflex saving throws, and their attacks deal an additional 1d6 electricity damage, but they also take a –1 penalty to AC. While under the effects of song of the storm’s teeth, allies other than the storm herald cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration. At 4th level and every 4 levels thereafter, the song’s bonuses on Reflex saves increase by 1 and the bonuses on movement speeds increase by 5 feet; the penalty to AC does not change. At 8th level affected allies’ attacks deal an an additional 1d6 sonic damage and the electricity damage increases by 1d6. At 16th level both the sonic damage and the electricity damage increase by 1d6. (Unlike the barbarian’s rage ability, those affected are not fatigued after the song ends.)
 
 This replaces inspired rage, but counts as inspired rage raging song for all purposes involving the storm herald’s rage powers, feats, and abilities.
 
-#### Saga of the Dark Sky’s Laughter (Su)
+### Saga of the Dark Sky’s Laughter (Su)
 
 At 4th level, the storm herald may produce a song that instantly summons stormclouds. While singing, the storm herald may use his control weather ability to affect both Wind and Precipitation, and the severity level he may affect increases by 1. As soon as he stops singing, the control weather effect ends. The storm herald may not use this ability in conjunction with any talent that would modify the area of his control weather ability.
 
 This replaces song of strength.
 
-#### Lay of Shattering Heavens (Su)
+### Lay of Shattering Heavens (Su)
 
 At 14th level, the storm herald may produce a song that instantly cracks open the sky to let loose a tempest. When he uses control weather to create storm effects while singing (including while using Saga of the Dark Sky’s Laughter), at the beginning of his next turn, the Wind and Precipitation immediately rise to the highest severity the storm herald may affect. Lightning bolts that strike in the area of his altered weather while he is singing deal additional sonic damage equal to half his storm herald level.
 
 This replaces song of the fallen.
 
-### Bolt Dodger (Su)
+## Bolt Dodger (Su)
 
 At 4th level, the storm herald gains a +4 insight bonus to AC and Reflex saving throws against electricity and sonic attacks. At 8th level this bonus increases to +6. This replaces uncanny dodge and improved uncanny dodge.
 
-### Thunder Child
+## Thunder Child
 
 Starting at 9th level, the storm herald gains resistance 10 to electricity and sonic. At 14th level this increases to resistance 20, and at 19th level he gains immunity to electricity and sonic damage. Allies affected by his song of the storm’s teeth gain half this resistance. (Treat immunity as resistance 30 for this effect.)
 

@@ -13,21 +13,21 @@ This dragon’s scales are a frosty white. Its head is crowned with slender horn
 XP 819,200
 Pathfinder Roleplaying Game Bestiary
 CE Colossal dragon (cold, mythic)
-**Init**+13/-7MA,MF;**Senses** blindsight 60 ft., darkvision 120 ft., lowlight vision, snow vision; Perception +33
+**Init** +13/-7MA,MF; **Senses** blindsight 60 ft., darkvision 120 ft., lowlight vision, snow vision; Perception +33
 **Aura** cold aura (10 ft., 2d6 cold)
 
 #### Defense
 
-**AC**49,**touch**2,**flat-footed** 49 (+47 natural, –8 size)
+**AC** 49, **touch** 2, **flat-footed** 49 (+47 natural, –8 size)
 **hp** 527 (25d12+365)
-**Fort**+25,**Ref**+14,**Will** +19
-**Defensive Abilities**DR 20/epic and magic;**Immune**cold, dragon traits, paralysis and sleep;**SR** 38
+**Fort** +25, **Ref** +14, **Will** +19
+**Defensive Abilities** DR 20/epic and magic; **Immune** cold, dragon traits, paralysis and sleep; **SR** 38
 
 #### Offense
 
 **Speed** 60 ft., burrow 30 ft., fly 250 ft. (clumsy), swim 60 ft.; icewalking
 **Melee** bite +33 (8d6+16), 2 claws +33 (4d6+16), 2 wings +31 (2d8+8), tail slap +31 (4d6+8)
-**Space**30 ft.;**Reach** 30 ft. (40 ft. with bite)
+**Space** 30 ft.; **Reach** 30 ft. (40 ft. with bite)
 **Special Attacks** blizzard, breath weapon (70-ft. cone, 24d4 cold damage, Reflex DC 35 for half, usable every 1d4 rounds), freezing fog, ice tomb, mythic power (9/day, surge 1d10), trampleMA (4d6+15, DC 38)
 
 **Spell-Like Abilities** (CL 25th; concentration +29)
@@ -44,10 +44,10 @@ At will—control weather, fog cloud, gust of wind (DC 16), wall of ice (DC 18)
 
 #### Statistics
 
-**Str**43,**Dex**10,**Con**33,**Int**18,**Wis**21,**Cha** 18
-**Base Atk**+25;**CMB**+49;**CMD** 59 (63 vs. trip)
+**Str** 43, **Dex** 10, **Con** 33, **Int** 18, **Wis** 21, **Cha** 18
+**Base Atk** +25; **CMB** +49; **CMD** 59 (63 vs. trip)
 **Feats** Ability Focus (breath weapon), Combat ReflexesMF, Flyby Attack, Greater Vital Strike, Improved InitiativeMF, Improved Natural Attack (bite), Improved Vital Strike, Multiattack, Mythic Spell LoreMF, Power Attack, Quicken Spell-Like Ability (wall of ice), Snatch, Stunning Assault, Suppress VulnerabilityMF, Vital StrikeMF
-**Skills**Acrobatics +25 (+37 when jumping), Bluff +32, Climb +20, Fly +12, Intimidate +32, Perception +33, Sense Motive +29, Spellcraft +32, Stealth +12, Survival +33, Swim +30, Use Magic Device +32;**Racial Modifiers** +12 Acrobatics when jumping
+**Skills** Acrobatics +25 (+37 when jumping), Bluff +32, Climb +20, Fly +12, Intimidate +32, Perception +33, Sense Motive +29, Spellcraft +32, Stealth +12, Survival +33, Swim +30, Use Magic Device +32; **Racial Modifiers** +12 Acrobatics when jumping
 **Languages** Aquan, Common, Draconic, Giant
 **SQ** ice shape
 

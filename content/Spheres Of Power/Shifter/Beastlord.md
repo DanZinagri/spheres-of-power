@@ -8,7 +8,6 @@ parent: "[[Shifter]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Beastlord
 
 At 1st level, the beastlord gains the Mind sphere as a bonus talent and treats her class level as her caster level for this sphere. This stacks normally with caster levels gained from other sources. The beastlord is treated as an animal for the purposes of being affected by the charms and other mind-affecting effects of other magic users, and may affect animals, vermin, and magical beasts with her own mind-affecting effects.
 

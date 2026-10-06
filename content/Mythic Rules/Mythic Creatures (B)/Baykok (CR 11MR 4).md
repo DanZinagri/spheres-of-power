@@ -10,14 +10,14 @@ parent: "[[Mythic Creatures (B)]]"
 **Baykok, Mythic (CR 11/MR 4)**
 XP 12,800
 NE Medium undead (mythic)
-**Init**+11;**Senses** darkvision 60 ft.; Perception +18
+**Init** +11; **Senses** darkvision 60 ft.; Perception +18
 
 #### Defense
 
-**AC**29,**touch**18,**flat-footed** 21 (+7 Dex, +1 dodge, +11 natural)
+**AC** 29, **touch** 18, **flat-footed** 21 (+7 Dex, +1 dodge, +11 natural)
 **hp** 144 (15d8+77)
-**Fort**+8,**Ref**+12,**Will** +9
-**Defensive Abilities**deflect arrowsMA; DR 10/epic;**Immune** undead traits
+**Fort** +8, **Ref** +12, **Will** +9
+**Defensive Abilities** deflect arrowsMA; DR 10/epic; **Immune** undead traits
 
 #### Offense
 
@@ -28,8 +28,8 @@ NE Medium undead (mythic)
 
 #### Statistics
 
-**Str**17,**Dex**24,**Con**—,**Int**11,**Wis**10,**Cha** 17
-**Base Atk**+11;**CMB**+14;**CMD** 32
+**Str** 17, **Dex** 24, **Con** —, **Int** 11, **Wis** 10, **Cha** 17
+**Base Atk** +11; **CMB** +14; **CMD** 32
 **Feats** Deflect ArrowsB, MF, Dodge, Improved Critical (longbow), Improved Initiative, Point-Blank ShotMF, Precise Shot, Rapid ShotMF, Shot on the Run, Weapon Focus (longbow)
 **Skills** Fly +29, Intimidate +21, Perception +18, Stealth +25
 **Languages** Common

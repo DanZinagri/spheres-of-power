@@ -13,26 +13,26 @@ This enormous worm is covered with dark purple plates of chitinous armor. Its gi
 XP 76,800
 Pathfinder Roleplaying Game Bestiary
 N Colossal magical beast (mythic)
-**Init**–3;**Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +17
+**Init** –3; **Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +17
 
 #### Defense
 
-**AC**30,**touch**-1,**flat-footed** 30 (–3 Dex, +31 natural, –8 size)
+**AC** 30, **touch** -1, **flat-footed** 30 (–3 Dex, +31 natural, –8 size)
 **hp** 308 (16d10+220)
-**Fort**+20,**Ref**+7,**Will** +4
+**Fort** +20, **Ref** +7, **Will** +4
 **Defensive Abilities** mindless instinctMA, rubbery fleshMA, DR 10/epic
 
 #### Offense
 
 **Speed** 20 ft., burrow 20 ft., swim 10 ft.
 **Melee** bite +25 (8d6+16/19–20 plus grab), sting +24 (4d6+16 plus poison)
-**Space**30 ft.;**Reach** 20 ft.
+**Space** 30 ft.; **Reach** 20 ft.
 **Special Attacks** crawling crushMA, fast swallowMA, mythic power (6/day, surge +1d8), poison (DC 31), swallow whole (8d6+24 bludgeoning damage damage, AC 25, 30 hp), trampleMA (4d8+24, DC 34) , tunnel wormMA, virulent venomMA
 
 #### Statistics
 
-**Str**43,**Dex**4,**Con**31,**Int**1,**Wis**8,**Cha** 8
-**Base Atk**+16;**CMB**+40 (+42 bull rush, +44 grapple);**CMD** 47 (49 vs. bull rush, can’t be tripped)
+**Str** 43, **Dex** 4, **Con** 31, **Int** 1, **Wis** 8, **Cha** 8
+**Base Atk** +16; **CMB** +40 (+42 bull rush, +44 grapple); **CMD** 47 (49 vs. bull rush, can’t be tripped)
 **Feats** Awesome Blow, Critical Focus, Improved Bull Rush, Improved Critical (bite), Inescapable GraspMF, Power AttackMF, Staggering Critical, Vital StrikeMF, Weapon Focus (bite)
 **Skills** Climb +20, Perception +17, Swim +24
 
@@ -48,7 +48,7 @@ N Colossal magical beast (mythic)
 
 **Mindless Instinct (Ex)** A mythic purple worm is immune to mind-affecting effects.
 
-**Poison (Ex)**Sting-injury;**save**Fort DC 31;**frequency**1/round for 9 rounds;**effect**1d4 Str;**cure** 3 consecutive saves.
+**Poison (Ex)** Sting-injury; **save** Fort DC 31; **frequency** 1/round for 9 rounds; **effect** 1d4 Str; **cure** 3 consecutive saves.
 
 **Rubbery Flesh (Ex)** Any bludgeoning or piercing damage taken by a mythic purple worm is halved, and it has a 50% chance to negate a critical hit with a bludgeoning or piercing weapon, resolving that attack instead as a normal hit.
 
@@ -60,4 +60,4 @@ N Colossal magical beast (mythic)
 
 #### Mythic Purple Worm
 
-Without the giant simple template, a mythic purple worm’s stats are as follows: **CR**15/**MR**6;**XP**51,200;**Size**Gargantuan;**Init**-2;**AC**32,**touch**4,**flat-footed**32;**hp**276;**Fort**+18,**Ref**+8;**Melee**bite +27 (4d8+14/19–20 plus grab), sting +26 (2d8+14 plus poison);**Space**20 ft.,**Reach**15 ft.;**Special Attacks**poison (DC 29), swallow whole (4d8+21 bludgeoning damage, AC 24, 27 hp), trampleMA (4d6+21, DC 32);**Str**39,**Dex**6,**Con**27;**CMB**+34 (+36 bull rush, +38 grapple);**CMD**42 (44 vs. bull rush);**Skills** Climb +16, Swim +20.
+Without the giant simple template, a mythic purple worm’s stats are as follows: **CR** 15/**MR** 6; **XP** 51,200; **Size** Gargantuan; **Init** -2; **AC** 32, **touch** 4, **flat-footed** 32; **hp** 276; **Fort** +18, **Ref** +8; **Melee** bite +27 (4d8+14/19–20 plus grab), sting +26 (2d8+14 plus poison); **Space** 20 ft., **Reach** 15 ft.; **Special Attacks** poison (DC 29), swallow whole (4d8+21 bludgeoning damage, AC 24, 27 hp), trampleMA (4d6+21, DC 32); **Str** 39, **Dex** 6, **Con** 27; **CMB** +34 (+36 bull rush, +38 grapple); **CMD** 42 (44 vs. bull rush); **Skills** Climb +16, Swim +20.

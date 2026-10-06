@@ -174,19 +174,19 @@ Chase (short-distance pursuit)
 
 **OBSTACLES**
 **1 Square+** The guards call for the immediate arrest of the PCs, and their frantic demeanor makes the city’s inhabitants suspicious of their actions and intentions.
-**Type**hazard;**Notice** Sense Motive (easy, DC 16)
-**Bypass Skills**Bluff (average, DC 21), Diplomacy (average, DC 21), Disguise (challenging, DC 23), Intimidate (average, DC 21);**Secondary Skills** Difficult, DC 26
+**Type** hazard; **Notice** Sense Motive (easy, DC 16)
+**Bypass Skills** Bluff (average, DC 21), Diplomacy (average, DC 21), Disguise (challenging, DC 23), Intimidate (average, DC 21); **Secondary Skills** Difficult, DC 26
 **SQ** Language (Common)
 **Effect** difficult terrain; If the PCs fail their bypass check by 5 or more, the crowd recognizes their wanted status and prevents them from moving, causing them to be unable to earn squares towards clearing the skill challenge for that cycle.
 
 **30 Squares** The PCs wander into a bazaar whose colorful tents create a dizzying maze roughly 100 square feet in size.
-**Type**obstruction;**Notice** Survival (easy, DC 16)
-**Bypass Skills**Perception (difficult, DC 26), Sense Motive (difficult, DC 26), Survival (challenging, DC 23);**Secondary Skills** Very Difficult, DC 28
+**Type** obstruction; **Notice** Survival (easy, DC 16)
+**Bypass Skills** Perception (difficult, DC 26), Sense Motive (difficult, DC 26), Survival (challenging, DC 23); **Secondary Skills** Very Difficult, DC 28
 **Effect** blockade (cloth; hardness 0, 2,400 hp; 1 success); Every 10 hit points of damage that the PCs deal to the obstacle increases their opposition’s maximum advantage during their next turn by 1, as the screams and shouts of the merchants whose wares the PCs are slashing through alert the guard to the PCs’ presence.
 
 **45 Squares** The guards have established a blockade to prevent the PCs from escaping.
-**Type**obstruction;**Notice** Perception (easy, DC 16)
-**Bypass Skills**Acrobatics (difficult, DC 26), Climb (challenging, DC 23), Ride (difficult, DC 26), Stealth (difficult, DC 26);**Secondary Skills** Very Difficult, DC 28
+**Type** obstruction; **Notice** Perception (easy, DC 16)
+**Bypass Skills** Acrobatics (difficult, DC 26), Climb (challenging, DC 23), Ride (difficult, DC 26), Stealth (difficult, DC 26); **Secondary Skills** Very Difficult, DC 28
 
 **Effect** blockade (wood; hardness 5, 10 hp; 1 success); At the each of each cycle, if any PC has a square count of 45, the guards manning the blockade attempt to arrest that PC by making a grapple check (CMB +10, CMD 26). If the guards succeed, the PC becomes grappled. Grappled PCs become pinned on subsequent rounds, then tied up.
 
@@ -209,21 +209,21 @@ XP 1,600
 
 **OBSTACLES**
 **Square 3** A massive thunderstorm is rolling into the valley where the tomb is hidden.
-**Type**hazard;**Notice** Survival (average, DC 21)
-**Bypass Skills**Climb (difficult, DC 26), Knowledge (geography) (challenging, DC 23), Knowledge (nature) (difficult, DC 26), Survival (challenging, DC 23);**Secondary Skills** Very Difficult, DC 28
+**Type** hazard; **Notice** Survival (average, DC 21)
+**Bypass Skills** Climb (difficult, DC 26), Knowledge (geography) (challenging, DC 23), Knowledge (nature) (difficult, DC 26), Survival (challenging, DC 23); **Secondary Skills** Very Difficult, DC 28
 **Effect** hazard (thunderstorm; On a failed bypass check, there is a 50% chance for the next 1d4 rounds that any attempt to earn squares that the character makes fails as a result of the driving winds and heavy rains. Additionally, each character must make a DC 15 Reflex save or take 6d6 points of electricity damage as they are struck by lightning.)
 
 **Square 6–8** The PCs must scale the side of a large mountain in order to reach the hidden tomb.
-**Type**hazard;**Notice** Knowledge (geography) (easy, DC 16), Knowledge (nature) (easy, DC 16), or Survival (easy, DC 16)
-**Bypass Skills**Acrobatics (challenging, DC 23), Climb (challenging, DC 23), Survival (difficult, DC 26);**Secondary Skills** Very Difficult, DC 28
+**Type** hazard; **Notice** Knowledge (geography) (easy, DC 16), Knowledge (nature) (easy, DC 16), or Survival (easy, DC 16)
+**Bypass Skills** Acrobatics (challenging, DC 23), Climb (challenging, DC 23), Survival (difficult, DC 26); **Secondary Skills** Very Difficult, DC 28
 **SQ** critical fumble (character loses 1d4 squares of movement, to a minimum square count of 5)
 **Effect** difficult terrain
 
 **Square 9** The PCs have reached the entrance to the tomb, only to find it trapped.
-**Type**peril;**Notice** Knowledge (engineering) (difficult, DC 26), Perception (challenging, DC 23)
+**Type** peril; **Notice** Knowledge (engineering) (difficult, DC 26), Perception (challenging, DC 23)
 **Bypass Skills** Disable Device (difficult, DC 26)
 **SQ** trap-like
-**Effect**Melee Atk dart +9 (1d4+2 plus poison); multiple targets (all characters with a square count of 9); wyvern poison—injury;**save**DC 17;**frequency**1/round for 6 rounds;**effect**1d4 Con damage;**cure** 2 consecutive saves.
+**Effect** Melee Atk dart +9 (1d4+2 plus poison); multiple targets (all characters with a square count of 9); wyvern poison—injury; **save** DC 17; **frequency** 1/round for 6 rounds; **effect** 1d4 Con damage; **cure** 2 consecutive saves.
 
 ---
 

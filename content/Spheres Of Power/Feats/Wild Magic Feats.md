@@ -10,7 +10,7 @@ Feats that modify [[Wild Magic|wild magic]] chance for yourself or others or man
 
 ---
 
-### Blood Dampening (Wild Magic)
+#### Blood Dampening (Wild Magic)
 
 **Prerequisites:** Casting class feature.
 
@@ -20,49 +20,49 @@ Feats that modify [[Wild Magic|wild magic]] chance for yourself or others or man
 
 Ability burn functions as ability score damage, but may not be removed by any means other than 8 hours of resting, which removes all burn.
 
-### Careful Caster (Wild Magic)
+#### Careful Caster (Wild Magic)
 
 **Prerequisites:** Casting class feature.
 
 **Benefit:** When casting a sphere effect that suffers from a wild magic chance, you may increase the casting time by one step to reduce the wild magic chance by 25%. This ability does not stack with itself. This reduction increases by 5% per additional wild magic feat you possess, to a maximum reduction of 50%.
 
-### Chaotic Counter (Wild Magic)
+#### Chaotic Counter (Wild Magic)
 
 **Prerequisites:** Counterspell or the ability to cast dispel magic.
 
 **Benefit:** When you successfully counterspell a spell or sphere effect, the caster suffers a 50% increase in wild magic chance until the end of its next turn. This penalty increases by 10% per wild magic feat you possess, to a maximum of 100%. Additionally, you gain a +1 bonus to your MSB when counterspelling. The affected caster is not aware of this increase.
 
-### Energy Shift (Wild Magic)
+#### Energy Shift (Wild Magic)
 
 **Prerequisites:** Destruction sphere or at least 2 evocation spells known.
 
 **Benefit:** When casting a destructive blast or an evocation spell that deals damage, you may increase your wild magic chance for that destructive blast or spell by 50% to change its damage type to one of the following types: acid, bludgeoning, cold, fire, electricity, piercing, or slashing. You may instead increase your wild magic chance by 100% to change the damage type to force, sonic, or untyped.
 
-### Heedless Metamagic (Wild Magic)
+#### Heedless Metamagic (Wild Magic)
 
 **Prerequisites:** 1 or more metamagic feats.
 
 **Benefit:** When applying metamagic feats to a spell or sphere effect, you may ignore the casting time increase from using a metamagic feat by increasing your wild magic chance by 50% per metamagic feat whose casting time increase you ignore.
 
-### Inspired Surge (Wild Magic)
+#### Inspired Surge (Wild Magic)
 
 **Prerequisites:** Casting class feature.
 
 **Benefit:** When casting a sphere effect, you may increase the wild magic chance by 100% to add a single talent that you do not possess from one of the effect’s base spheres to the effect. For every 5 wild magic feats you possess, increase the number of talents gained this way by +1. You must still meet any prerequisites that the talents possesses. When gaining multiple talents with this feat, you may use a talent gained this way as a prerequisite for other gained talents.
 
-### Manipulate Result (Wild Magic)
+#### Manipulate Result (Wild Magic)
 
 **Prerequisites:** Spell point pool or casting class feature.
 
 **Benefit:** When you trigger a wild magic event (but not a major event), you may spend an immediate action to roll twice and choose which result to take. You may use this feat a number of times per day equal to the number of wild magic feats you possess.
 
-### Overpower Resistance (Wild Magic)
+#### Overpower Resistance (Wild Magic)
 
 **Prerequisites:** Casting class feature.
 
 **Benefit:** When casting a sphere effect, you may increase your wild magic chance for that effect by 50% to grant a +2 untyped bonus to magic skill checks versus spell resistance for that effect. This bonus increases by +1 for every 2 wild magic feats you possess.
 
-### Rhythmic Chaos (Wild Magic) [Mana HB]
+#### Rhythmic Chaos (Wild Magic) [Mana HB]
 
 **Prerequisite:** Mana sphere.
 
@@ -70,19 +70,19 @@ Ability burn functions as ability score damage, but may not be removed by any me
 
 For information regarding wild magic events and the wild magic system, see [[Wild Magic]] by Drop Dead Studios.
 
-### Risk Management (Wild Magic) [Archmagi's HB]
+#### Risk Management (Wild Magic) [Archmagi's HB]
 
 **Prerequisite:** Casting class feature.
 
 **Benefit:** As a free action after rolling for a wild magic event on a sphere-specific wild magic table, you can spend a spell point to ignore the roll, and instead roll twice on the universal wild magic table. If you have at least 4 wild magic feats, you only roll once on the universal wild magic table. If you possess at least 6 wild magic feats, you may use this ability when triggering a major event, but you must roll four times on the universal wild magic table.
 
-### Shift Cost (Wild Magic)
+#### Shift Cost (Wild Magic)
 
 **Prerequisites:** Spell point pool.
 
 **Benefit:** You may reduce the spellpoint cost of an ability or sphere effect by 1 SP, to a minimum of 1 SP cost, by increasing your wild magic chance by 50% for that ability or effect. At character level 10, you may double both the reduction and wild magic chance increase.
 
-### Shift Effect (Wild Magic)
+#### Shift Effect (Wild Magic)
 
 **Prerequisites:** Spell point pool or casting class feature.
 

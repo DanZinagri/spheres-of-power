@@ -11,13 +11,13 @@ parent: "[[Mythic Creatures (L)]]"
 XP 800
 Pathfinder Roleplaying Game Bestiary 3
 N Small plant (leshy, mythic, shapechanger)
-**Init**+2;**Senses** darkvision 60 ft., low-light vision, greensightMA; Perception +2
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, greensightMA; Perception +2
 
 #### Defense
 
-**AC**14,**touch**13,**flat-footed** 12 (+2 Dex, +1 natural, +1 size)
+**AC** 14, **touch** 13, **flat-footed** 12 (+2 Dex, +1 natural, +1 size)
 **hp** 23 (2d8+14)
-**Fort**+6,**Ref**+2,**Will** +2
+**Fort** +6, **Ref** +2, **Will** +2
 **Defensive Abilities** **Immune** electricity, sonic, plant traits
 
 #### Offense
@@ -32,10 +32,10 @@ Constant—pass without trace
 
 #### Statistics
 
-**Str**10,**Dex**15,**Con**16,**Int**7,**Wis**14,**Cha** 15
-**Base Atk**+1;**CMB**+0;**CMD** 12
+**Str** 10, **Dex** 15, **Con** 16, **Int** 7, **Wis** 14, **Cha** 15
+**Base Atk** +1; **CMB** +0; **CMD** 12
 **Feats** Blind-FightMF
-**Skills**Stealth +10 (+14 in swamps and underground), Survival +3 (+7 in swamps and underground);**Racial Modifiers** +4 Stealth in swamps and underground, +4 Survival in swamps and underground
+**Skills** Stealth +10 (+14 in swamps and underground), Survival +3 (+7 in swamps and underground); **Racial Modifiers** +4 Stealth in swamps and underground, +4 Survival in swamps and underground
 **Languages** Druidic, Sylvan, plantspeech (fungi)
 **SQ** change shape (Small fungus; tree shape), verdant burst
 
@@ -55,8 +55,8 @@ Constant—pass without trace
 
 **Growing a mythic fungus leshy**
 A mythic fungus leshy can be grown amid the compost of a mythic treant’s grove, in dens of mythic mold deep underground, or in eerie hillocks at the heart of dense swamplands. Only a mythic creature can create a mythic fungus leshy, expending one use of mythic power per day spent on the ritual.
-**CL**9th;**Price** 3,750 gp
+**CL** 9th; **Price** 3,750 gp
 
 **Ritual**
 **Requirements** Knowledge (nature) 5 ranks, obscuring mist, plant growth, summon nature’s ally II;
-**Skill**Knowledge (dungeoneering or nature)**DC**15;**Cost** 1,875 gp
+**Skill** Knowledge (dungeoneering or nature) **DC** 15; **Cost** 1,875 gp

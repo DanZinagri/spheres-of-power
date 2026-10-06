@@ -77,7 +77,7 @@ Some Performance sphere abilities assume there is a level of coordination or pla
 
 #### Captivating Spectacle [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever you use the entertain skill use, creatures that are successfully distracted by you must succeed at a Will saving throw or become fascinated with you for as long as they are distracted. Additionally, you can spend 1 use of skill leverage while entertaining to be able to distract creatures that have previously been distracted by the skill use within the same 24 hour period.
 
@@ -93,7 +93,7 @@ If you cease juggling (such as spending an action to continue juggling or failin
 
 #### Collaborative Performance [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 If you possess the (act) package, an ally within the act’s area can spend the associated action of a finale to activate it. When the effects of an act’s scenes would end (such as by activating the act’s finale), an ally within the act’s area can spend an immediate action to allow the effects of one of the act’s scenes to linger for 1 round after it would normally end.
 
@@ -181,7 +181,7 @@ The chosen creature can attempt to create a diversion as a move action, and they
 
 #### A Path Paved in Grey (act) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Consumed by inaction and lethargy after a tragic loss, an individual’s apathy and rage fuses into a twisted nihilism.
 
@@ -195,7 +195,7 @@ Consumed by inaction and lethargy after a tragic loss, an individual’s apathy 
 
 #### Alone in a Crowd (act) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Usually depicted through the allegory of a wolf pack, you weave a story of the destructively thin line of self-sufficiency and hyper independence.
 
@@ -313,7 +313,7 @@ At 10 ranks in this package’s associated skill, the damage die dealt increases
 
 #### Charging Rush (dance) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 You can start a dance as part of making a charge, and dancers can join your dance as part of making a charge (including charging through your dance radius). Whenever a dancer would make a charge, all other dancers do not count as an obstruction when determining the path of which the dancer could move through successfully; instead, the charging dancer can change direction up to 90 degrees during their charge whenever they would charge through another dancer’s square. If the attack made at the end of the charge is successful, the dancer may make a free bull rush attempt against the target, using the result of the original attack roll as your combat maneuver check, although gaining a bonus equal to the number of dancer’s within this dance.
 
@@ -345,7 +345,7 @@ All dancers begin to weave closely around nearby opponents. Whenever an enemy en
 
 #### Forced Momentum (dance) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever a dancer attempts a bull rush combat maneuver, the dancer may use your ranks in this package's associated skill instead of their base attack bonus when calculating their CMB.
 
@@ -369,7 +369,7 @@ If a dancer is already grappled or suffering from such an effect, they may spend
 
 #### Reflecting Spin (dance) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever a ranged weapon attack would be made against a dancer (except for unusually massive ranged weapons), they may spend an immediate action to attempt to dodge the attack. The dancer attempts a Perform (dance) check using your associated modifier, comparing the result against the ranged attack roll. If the check is greater than the attack roll, it deals no damage. The dancer must be aware of the attack and not be flat-footed.
 
@@ -429,7 +429,7 @@ If the creature cannot use such an ability, the lyric can instead be expended to
 
 #### Forlorn Knell (instrumental, lyric) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Enemies affected by this instrumental or lyric suffer a -1 penalty to saving throws and a -2 penalty to the first damage roll they make in a turn. These penalties increase by 1 for every 10/5 ranks in the package’s associated skill you possess respectively.
 
@@ -483,7 +483,7 @@ The lyric can be expended to gain an amount of temporary hit points equal to 1d8
 
 #### Rhythmic Refrain (instrumental, lyric) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Allies affected by this instrumental or lyric gain a +1 morale bonus to Reflex saves, and a morale bonus to Dexterity-based skill checks and any checks made when taking 10 or 20 equal to half the ranks you possess in the package’s associated skill. The bonus to Reflex saves increases by +1 for every 10 ranks in the package’s associated skill you possess.
 
@@ -491,7 +491,7 @@ When used as an inspiring lyric, it can be expended as part of attempting a Refl
 
 #### Solemn Requiem (instrumental, lyric) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Enemies affected by this instrumental or lyric suffer a -3 penalty to initiative checks (or reduces their current initiative count by 3, although this does not grant additional actions if they have already acted), and to attack rolls made as part of an attack of opportunity. This penalty increases by 1 for every 5 ranks in this package’s associated Perform skill you possess. If a creature’s initiative would be reduced to 0 by this effect, that creature becomes uncertain for the effect’s duration (Will negates).
 
@@ -525,7 +525,7 @@ When used as a discouraging lyric, the target gains sonic vulnerability. This ly
 
 #### Disruptive Acoustics (instrumental, lyric) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisites:** Performance sphere ((instrumental) package or (lyric) package).
 
@@ -537,7 +537,7 @@ Enemies affected by this instrumental or lyric become sickened.
 
 #### Horizon Strider (dance) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Performance sphere ((dance) package), associated skill 8 ranks.
 
@@ -563,7 +563,7 @@ You may select this talent a second time when you possess at least 10 ranks in P
 
 #### Masterful Juggling [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisites:** Performance sphere (Combat Juggling), Perform (any) ranks 5.
 
@@ -595,7 +595,7 @@ The lyric may be expended as a free action that can be taken outside of their tu
 
 #### Rhapsodic Trance [utility] [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisites:** Performance sphere (Captivating Spectacle [utility]), associated ranks 5.
 
@@ -653,7 +653,7 @@ Additionally, any time a dancer is damaged or magically healed by an instantaneo
 
 #### The Curtain Call of the Gossamer Veil (act) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisites:** Performance sphere ((act) package), Perform (act) ranks 10.
 
@@ -671,7 +671,7 @@ Alternatively, an ally benefitting from this act can choose to suffer an amount 
 
 #### Virtuoso’s Challenge [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisites:** Performance sphere, associated ranks 5.
 

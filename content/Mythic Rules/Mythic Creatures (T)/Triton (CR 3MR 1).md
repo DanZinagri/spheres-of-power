@@ -13,13 +13,13 @@ This scaly, finned humanoid has an athletic build and blue-green coloration. Its
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 NG Medium outsider (mythic, native, water)
-**Init**+0;**Senses** darkvision 60 ft., low-light vision; Perception +7
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; Perception +7
 
 #### Defense
 
-**AC**15,**touch**10,**flat-footed** 15 (+5 natural)
+**AC** 15, **touch** 10, **flat-footed** 15 (+5 natural)
 **hp** 19 (3d10+3)
-**Fort**+4,**Ref**+1,**Will** +4
+**Fort** +4, **Ref** +1, **Will** +4
 
 #### Offense
 
@@ -33,8 +33,8 @@ NG Medium outsider (mythic, native, water)
 
 #### Statistics
 
-**Str**12,**Dex**10,**Con**12,**Int**13,**Wis**13,**Cha** 11
-**Base Atk**+3;**CMB**+4;**CMD** 14
+**Str** 12, **Dex** 10, **Con** 12, **Int** 13, **Wis** 13, **Cha** 11
+**Base Atk** +3; **CMB** +4; **CMD** 14
 **Feats** Mounted CombatMF, Ride-By Attack
 **Skills** Craft (any one) +7, Diplomacy +6, Perception +7, Ride +6, Sense Motive +7, Stealth +6, Survival +7, Swim +9
 **Languages** Aquan, Common

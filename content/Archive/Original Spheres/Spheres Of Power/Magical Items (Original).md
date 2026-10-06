@@ -809,8 +809,8 @@ An implement uses the crafter’s MSB rather than their caster level when determ
 
 The following special abilities can be added to an implement:
 
-- **Magic Talent:** The bearer gains access to a specific talent while they wield the implement. The crafter must have access to a talent to add it to an implement. If the talent is a (form) Conjuration talent, it may be applied to any companion the caster summons, but no more than one creature at any given time. To contain an advanced talent, the implement needs a minimum caster level equal to the talent’s prerequisites; the bearer of the implement does not gain access to the talent unless they or the implement possess all of its prerequisite talents. This benefit can be granted multiple times.**Cost:** +2
-- **Second Sphere:** The staff’s granted enhancement bonus applies to the wielder’s caster level with an additional sphere. This benefit can be granted multiple times. The crafter must have access to any sphere to be added in this fashion.**Cost:** +1
+- **Magic Talent:** The bearer gains access to a specific talent while they wield the implement. The crafter must have access to a talent to add it to an implement. If the talent is a (form) Conjuration talent, it may be applied to any companion the caster summons, but no more than one creature at any given time. To contain an advanced talent, the implement needs a minimum caster level equal to the talent’s prerequisites; the bearer of the implement does not gain access to the talent unless they or the implement possess all of its prerequisite talents. This benefit can be granted multiple times. **Cost:** +2
+- **Second Sphere:** The staff’s granted enhancement bonus applies to the wielder’s caster level with an additional sphere. This benefit can be granted multiple times. The crafter must have access to any sphere to be added in this fashion. **Cost:** +1
 - **Other:** Much like magical weapons and armor, Implements can have other effects crafted into them. See the Implements page for more details.
 
 **Implements and Automatic Bonus Progression**

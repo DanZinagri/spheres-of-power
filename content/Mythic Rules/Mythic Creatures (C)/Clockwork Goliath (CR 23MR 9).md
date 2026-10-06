@@ -13,14 +13,14 @@ The gears of this enormous, four-armed mechanical giant shriek and grind in a de
 XP 204,800
 Pathfinder Roleplaying Game Bestiary 3
 N Gargantuan construct (clockwork)
-**Init**+18MF;**Senses** darkvision 60 ft., low-light vision; Perception +0
+**Init** +18MF; **Senses** darkvision 60 ft., low-light vision; Perception +0
 
 #### Defense
 
-**AC**44,**touch**13,**flat-footed** 37 (+5 Dex, +2 dodge, +31 natural, –4 size)
+**AC** 44, **touch** 13, **flat-footed** 37 (+5 Dex, +2 dodge, +31 natural, –4 size)
 **hp** 360 (28d10+146)
-**Fort**+9,**Ref**+16,**Will** +9
-**Defensive Abilities**electrical dampenersMA, fortificationMA (50%), orichalum alloyMMA; DR 15/adamantine and epic;**Immune** acid, construct traits, fire
+**Fort** +9, **Ref** +16, **Will** +9
+**Defensive Abilities** electrical dampenersMA, fortificationMA (50%), orichalum alloyMMA; DR 15/adamantine and epic; **Immune** acid, construct traits, fire
 **Weaknesses** vulnerable to electricity
 
 #### Offense
@@ -28,13 +28,13 @@ N Gargantuan construct (clockwork)
 **Speed** 40 ft.
 **Melee** 4 slams +45 (3d6+21)
 **Ranged** cannon +29/+24/+19/+14 (6d6/×4)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** adamant augerMA, augmented criticalMA, buzzsaw bladeMA, mythic power (9/day, surge +1d10+1, Lucky Surge), pneumatic hammerMA, self-destruction, trample (3d6+31, DC 45)
 
 #### Statistics
 
-**Str**53,**Dex**20,**Con**—,**Int**—,**Wis**11,**Cha** 1
-**Base Atk**+28;**CMB**+53;**CMD** 70
+**Str** 53, **Dex** 20, **Con** —, **Int** —, **Wis** 11, **Cha** 1
+**Base Atk** +28; **CMB** +53; **CMD** 70
 **Feats** Improved InitiativeB,MF, Lightning ReflexesB,MF, Lucky SurgeMF, Potent SurgeMF, ToughnessB,MF
 **SQ** mindless toughnessMA, perpetual motionMA, swift reactions, winding
 
@@ -79,8 +79,8 @@ Attacks with its pneumatic hammer are treated as if the mythic clockwork goliath
 The clockwork goliath is one of the most difficult of its kind to create. The creator must start with crafted clockwork pieces worth 20,000 gp.
 
 **Clockwork Goliath**
-**CL**18th;**Price** 300,000 gp
+**CL** 18th; **Price** 300,000 gp
 
 #### Construction
 
-Requirements Craft Construct, Gunsmithing (Ultimate Combat), animate objects, geas/quest, and limited wish, creator must be at least caster level 18th; Skill Craft (clockwork) **DC**25;**Cost** 160,000 gp
+Requirements Craft Construct, Gunsmithing (Ultimate Combat), animate objects, geas/quest, and limited wish, creator must be at least caster level 18th; Skill Craft (clockwork) **DC** 25; **Cost** 160,000 gp

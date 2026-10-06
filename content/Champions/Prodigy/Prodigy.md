@@ -259,7 +259,7 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 ### [[Occultism]] [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Purge (opener):** Successfully quell a haunt or exorcise a creature (new skill uses)
 
@@ -333,13 +333,13 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 ### [[Tinker]] [SUE]
 
-**Gizmo Activation (opener)**: Activate a gizmo as a standard action, or use a gizmo ability with an activation time of a standard action or longer. The prodigy may choose to activate a gizmo ability that has a faster activation time as a standard action to use this opener.
+**Gizmo Activation (opener):** Activate a gizmo as a standard action, or use a gizmo ability with an activation time of a standard action or longer. The prodigy may choose to activate a gizmo ability that has a faster activation time as a standard action to use this opener.
 
-**Recharge Gizmo (link)**: Attach a battery to one of the prodigy’s crafted gizmos as a standard, move, or swift action.
+**Recharge Gizmo (link):** Attach a battery to one of the prodigy’s crafted gizmos as a standard, move, or swift action.
 
-**Turbocharge (finish)**: As part of using the gizmo ability of any non-project gizmo the prodigy crafted, the prodigy may increase that gizmo’s effective gizmo level by an amount equal to 1 + 1/2 the length of the prodigy’s sequence (minimum 1). This effective gizmo level lasts until the gizmo ability ends, or 1 minute, whichever comes first.
+**Turbocharge (finish):** As part of using the gizmo ability of any non-project gizmo the prodigy crafted, the prodigy may increase that gizmo’s effective gizmo level by an amount equal to 1 + 1/2 the length of the prodigy’s sequence (minimum 1). This effective gizmo level lasts until the gizmo ability ends, or 1 minute, whichever comes first.
 
-**Unlimited Power (finish)**: The prodigy may spontaneously create a battery and immediately attach it to a gizmo in their possession. This battery does not count against the prodigy’s gizmo limit, but only lasts for a number of rounds up to the length of the prodigy’s sequence + the prodigy’s casting ability modifier before becoming depleted and destroyed (even if the gizmo it is attached to would have a longer gizmo ability duration using the battery; this may end a battery use ability early). This finisher requires a full-round action to use, and may be used 1 step faster for every 2 additional links in the prodigy’s sequence past 1 (down to a standard action with 3 links, move action with 5 links, swift action with 7 links, or a free action with 9 links).
+**Unlimited Power (finish):** The prodigy may spontaneously create a battery and immediately attach it to a gizmo in their possession. This battery does not count against the prodigy’s gizmo limit, but only lasts for a number of rounds up to the length of the prodigy’s sequence + the prodigy’s casting ability modifier before becoming depleted and destroyed (even if the gizmo it is attached to would have a longer gizmo ability duration using the battery; this may end a battery use ability early). This finisher requires a full-round action to use, and may be used 1 step faster for every 2 additional links in the prodigy’s sequence past 1 (down to a standard action with 3 links, move action with 5 links, swift action with 7 links, or a free action with 9 links).
 
 ### [[Trap]]
 
@@ -610,7 +610,7 @@ The prodigy does not take nonlethal damage from hustling during overland travel,
 
 #### Occultism [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 When the prodigy makes an attack action, she can attempt to exorcise (as the new skill use) the attacked creature as a free action made before the attack action. Also, she can perform a ceremony in half the time (usually 5 minutes). At 19th level, she can perform a ceremony in one-tenth of the time (usually 1 minute).
 
@@ -694,8 +694,8 @@ The following magical items are especially appropriate for prodigies.
 
 #### Gloves Of Imbuement [TS:WAT]
 
-**Aura**faint Varies (see text);**CL** 2nd
-**Slot**hands;**Price**20,000 gp;**Weight** 2 lbs.
+**Aura** faint Varies (see text); **CL** 2nd
+**Slot** hands; **Price** 20,000 gp; **Weight** 2 lbs.
 
 These fine gloves are exceptionally capable of channeling magical energies. When worn by a creature with the imbue sequence class feature, they grant the sequence options of a single magic sphere, chosen when this item is made, which the wearer may use as if they possessed the associated base sphere and any associated packages. This does not grant the ability to use the base talents of that sphere, only the sequence options from it. A creature cannot benefit from more than one pair of these gloves at a time.
 
@@ -704,8 +704,8 @@ Craft Apparatus, the base sphere associated with the imbuement or a wild magic a
 
 #### Manual Of Techniques [TS:WAT]
 
-**Aura**moderate War;**CL** 7th
-**Slot**none;**Price**25,000 gp;**Weight** 2 lbs.
+**Aura** moderate War; **CL** 7th
+**Slot** none; **Price** 25,000 gp; **Weight** 2 lbs.
 
 This manual contains comprehensive instructions for warriors who are capable of fighting flexibly. A creature with the integrated techniques class feature can study this manual for one hour to gain the sequence options for a specific combat sphere chosen when this manual is written, as well as the effects of its base sphere. Creatures cannot benefit from studying more than one manual of techniques per day, and retain the knowledge from this book until the next time they regain their spell points normally.
 
@@ -714,8 +714,8 @@ Craft Apparatus, War sphere, the combat sphere being referenced, creator must ha
 
 #### Mirror Of The Sun Goddess [TS:WAT]
 
-**Aura**strong Protection;**CL** 12th
-**Slot**none;**Price**18,000 gp;**Weight** 3 lbs.
+**Aura** strong Protection; **CL** 12th
+**Slot** none; **Price** 18,000 gp; **Weight** 3 lbs.
 
 This ornate golden mirror is about the length of a forearm and seems far more durable than it has any right to be. Three times per day, a creature carrying this mirror may offer a prayer while using the reflect spell class feature to target a different creature instead of the original caster if they are successful in their attempt to reflect the magical effect. The mirror’s user must have line of effect to the target, and the target must be within the standard range of the effect (calculating it from the position of the creature using this mirror). A creature cannot use more than one of these items per day.
 

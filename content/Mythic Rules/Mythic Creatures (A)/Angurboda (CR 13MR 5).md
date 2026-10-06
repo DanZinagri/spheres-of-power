@@ -12,20 +12,20 @@ The lovely lass standing before you roars as she ripples and deforms into the ma
 **Angurboda (CR 13/MR 5)**
 XP 25,600
 NE Huge humanoid (giant, mythic, shapechanger)
-**Init**+11MF;**Senses** low-light vision, scent; Perception +20
+**Init** +11MF; **Senses** low-light vision, scent; Perception +20
 
 #### Defense
 
-**AC**29,**touch**10,**flat-footed** 27 (+2 Dex, +19 natural, –2 size)
+**AC** 29, **touch** 10, **flat-footed** 27 (+2 Dex, +19 natural, –2 size)
 **hp** 201 (14d8+138)
-**Fort**+13,**Ref**+6,**Will** +15
-**Defensive Abilities**DR 10/cold iron and epic;**Immune**poison;**Resist** cold 10
+**Fort** +13, **Ref** +6, **Will** +15
+**Defensive Abilities** DR 10/cold iron and epic; **Immune** poison; **Resist** cold 10
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** 2 slams +17 (1d8+9), bite +17 (2d6+9 plus 1d4 bleed)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** beast motherMA, evil eyeMA, go for the throatMA, mother of monsters, mythic power (5/day, surge +1d8)
 
 **Spell-Like Abilities** (CL 14th; concentration +20 [+24 casting defensively or while grappled])
@@ -36,8 +36,8 @@ At will—beguiling gift (DC 19), unnatural lust (DC 20)
 
 #### Statistics
 
-**Str**29,**Dex**14,**Con**25,**Int**18,**Wis**18,**Cha** 23
-**Base Atk**+10;**CMB**+21;**CMD** 33
+**Str** 29, **Dex** 14, **Con** 25, **Int** 18, **Wis** 18, **Cha** 23
+**Base Atk** +10; **CMB** +21; **CMD** 33
 **Feats** Brew PotionB, Combat Casting, Great Fortitude, Improved InitiativeMF, Intimidating Prowess, Iron Will, Power AttackMF, Spell Focus (enchantment)MF
 **Skills** Bluff +20, Craft (alchemy) +12, Diplomacy +10, Disguise +20, Handle Animal +10, Intimidate +30, Knowledge (history) +5, Knowledge (local) +5, Knowledge (nature) +5, Perception +20, Spellcraft +10, Use Magic Device +17
 **Languages** Aklo, Common, Giant

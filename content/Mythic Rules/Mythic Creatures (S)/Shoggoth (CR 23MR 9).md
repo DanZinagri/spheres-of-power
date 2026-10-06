@@ -13,28 +13,28 @@ This immense mound of black slime thunders forward, eyes and mouths and even str
 XP 819,200
 Pathfinder Roleplaying Game Bestiary
 CN Huge ooze (aquatic, mythic, mythos)
-**Init**+20/+0MF, dual initiativeMA;**Senses** all-around vision, darkvision 120 ft., low-light vision, scent, tremorsense 60 ft., undeniable perceptionMA; Perception +32
+**Init** +20/+0MF, dual initiativeMA; **Senses** all-around vision, darkvision 120 ft., low-light vision, scent, tremorsense 60 ft., undeniable perceptionMA; Perception +32
 
 #### Defense
 
-**AC**42,**touch**15,**flat-footed** 35 (+7 Dex, +27 natural, –2 size)
+**AC** 42, **touch** 15, **flat-footed** 35 (+7 Dex, +27 natural, –2 size)
 **hp** 451 (23d8+348); insidious regenerationMA
-**Fort**+21,**Ref**+14,**Will** +16
-**Defensive Abilities**chilling paralysisMA (DC 33), reactive strikeMA, DR 15/-MA;**Immune**blindness, charm effects, cold, deafness, sonic, ooze traits;**Resist**acid 20, electricity 20, fire 20;**SR** 34
+**Fort** +21, **Ref** +14, **Will** +16
+**Defensive Abilities** chilling paralysisMA (DC 33), reactive strikeMA, DR 15/-MA; **Immune** blindness, charm effects, cold, deafness, sonic, ooze traits; **Resist** acid 20, electricity 20, fire 20; **SR** 34
 
 #### Offense
 
 **Speed** 50 ft., climb 30 ft., swim 50 ft.; gravitic agnosticismMA
 **Melee** 4 slams +32 (3d6+17/19–20 plus grab)
-**Space**15 ft.;**Reach** 30 ft.
+**Space** 15 ft.; **Reach** 30 ft.
 **Special Attacks** constrict (3d6+17), engulf (4d6+25 bludgeoning damage plus 8d6 acid damage, AC 25, hp 45), maddening cacophony (DC 22), mythic power (9/day, surge +1d10), tekeli-li!MA, trample (4d8+17, DC 38)
 
 #### Statistics
 
-**Str**44,**Dex**24,**Con**35,**Int**5,**Wis**22,**Cha** 13
-**Base Atk**+17;**CMB**+36 (+40 grapple, +38 sunder);**CMD** 53 (55 vs. sunder, can’t be tripped)
+**Str** 44, **Dex** 24, **Con** 35, **Int** 5, **Wis** 22, **Cha** 13
+**Base Atk** +17; **CMB** +36 (+40 grapple, +38 sunder); **CMD** 53 (55 vs. sunder, can’t be tripped)
 **Feats** Blind-Fight, CleaveMF, Combat ReflexesMF, Critical FocusMF, Great Cleave, Great Fortitude, Improved Critical (slams), Improved InitiativeMF, Improved Sunder, Iron Will, Power AttackMF, Staggering Critical
-**Skills**Climb +29, Perception +32, Swim +37;**Racial Modifiers** +4 Perception
+**Skills** Climb +29, Perception +32, Swim +37; **Racial Modifiers** +4 Perception
 **Languages** Aklo
 **SQ** amphibious, unspeakable propagationMA, utter absorptionMA (DC 34)
 

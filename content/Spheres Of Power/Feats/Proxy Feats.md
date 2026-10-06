@@ -10,25 +10,25 @@ parent: "[[Feats]]"
 
 Proxy feats represent an enhanced ability to manipulate and take advantage of the Create Proxy enhancement, which by default is granted by the Spell Proxy feat. Unless otherwise stated, these feats only apply to Create Proxy effects that you created yourself, and only affect creatures under the effects of Create Proxy who are within 30 feet. Generally, using a proxy feat immediately ends the Create Proxy effect for that creature. An incanter may select proxy feats as bonus feats.
 
-### Defensive Proxies (Proxy)
+#### Defensive Proxies (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, Spell Proxy.
 
 **Benefit:** Whenever you fail a saving throw against a sphere effect, any creature within that is currently under the effects of Create Proxy may spend an immediate action to allow you to reroll your saving throw. Doing so causes Create Proxy to immediately end for that creature.
 
-### Maintain Proxy (Proxy)
+#### Maintain Proxy (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, at least one Proxy feat.
 
 **Benefit:** Whenever one of your Create Proxy effects would end due to a Proxy feat, you may spend 1 spell point to prevent it from ending prematurely.
 
-### Mystic Choreography (Drawback, Proxy)
+#### Mystic Choreography (Drawback, Proxy)
 
 **Prerequisites:** Enhancement sphere; at least one of the Skilled Casting, Somatic Casting, or Verbal Casting drawbacks; Circle Casting, Spell Proxy.
 
 **Benefit:** Whenever you use a sphere ability, any creature currently under the effects of Create Proxy may take an immediate action to perform one of your required components for you. As long as that creature meets the criteria for the drawback in question, you may ignore it for the purposes of that sphere ability. Regardless of whether or not this attempt is successful, the Create Proxy effect ends immediately.
 
-### Mystic Generosity (Proxy)
+#### Mystic Generosity (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, Spell Proxy.
 
@@ -36,19 +36,19 @@ Proxy feats represent an enhanced ability to manipulate and take advantage of th
 
 **Special:** If the target of Create Proxy does not meet the prerequisites for Basic Magic Training, they gain Extra Magic Talent as a bonus feat instead. The bonus talent they gain must be one that you also possess.
 
-### Proxy Counterspell (Proxy)
+#### Proxy Counterspell (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, Counterspell, Spell Proxy.
 
 **Benefit:** Whenever you use Counterspell, any creature under the effects of Create Proxy may spend an immediate action to allow you to end an additional effect. Doing so causes Create Proxy to end immediately for that creature.
 
-### Proxy Network (Proxy)
+#### Proxy Network (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, Spell Proxy.
 
 **Benefit:** Whenever you use a sphere effect with a range of touch, you may choose to have it originate from a creature under the effects of Create Proxy instead of yourself. Doing so causes Create Proxy to end immediately.
 
-### Spell Proxy (Proxy)
+#### Spell Proxy (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting.
 
@@ -58,7 +58,7 @@ Create Proxy: You may enhance creatures, allowing them to act as aiding casters 
 
 **Special:** You may incorporate Create Proxy into a spell as if it were an Enhancement talent. You may not take Spell Proxy if you have the Personal Magics drawback.
 
-### Spell Proxy, Extended (Proxy)
+#### Spell Proxy, Extended (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, at least one Proxy feat.
 
@@ -66,25 +66,25 @@ Create Proxy: You may enhance creatures, allowing them to act as aiding casters 
 
 **Normal:** Proxy feats only apply to creatures within 30 feet.
 
-### Spell Proxy, Improved (Proxy)
+#### Spell Proxy, Improved (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, Spell Proxy.
 
 **Benefit:** Whenever you use Create Proxy, you may also transfer the concentration to maintain one sphere effect to the targets. If they possess spell points of their own, they may spend them in your place to have the effect continue without concentration.
 
-### Spreading Magic (Proxy)
+#### Spreading Magic (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, Spell Proxy.
 
 **Benefit:** Whenever you use a sphere ability that targets a creature, a creature under the effects of Create Proxy may choose to become an additional target if they are also within range. Doing so causes Create Proxy to end immediately for that creature.
 
-### Suffer By Proxy (Drawback, Proxy)
+#### Suffer By Proxy (Drawback, Proxy)
 
 **Prerequisites:** Enhancement sphere, Draining Casting drawback, Circle Casting, Spell Proxy.
 
 **Benefit:** Whenever you use a sphere ability, you may choose to have a creature under the effects of Create Proxy suffer the nonlethal damage for you. The creature must be within the range of one of your Proxy feats, and must not be immune to nonlethal damage. You cannot choose to split up the nonlethal damage; all of it must be dealt to a single creature.
 
-### Tactical Proxies (Proxy)
+#### Tactical Proxies (Proxy)
 
 **Prerequisites:** Enhancement sphere, Circle Casting, Spell Proxy, any one teamwork feat.
 

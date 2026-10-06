@@ -12,29 +12,29 @@ A bizarre creature heaves its bulk into view, its massive walrus-like body half-
 **Boojum Snark (CR 10/MR 4)**
 XP 9,600
 N Large magical beast (aquatic, mythic)
-**Init**+10MA;**Senses** darkvision 60 ft., low-light vision; Perception +13
+**Init** +10MA; **Senses** darkvision 60 ft., low-light vision; Perception +13
 
 #### Defense
 
-**AC**23,**touch**11,**flat-footed** 21 (+2 Dex, +12 natural, −1 size)
+**AC** 23, **touch** 11, **flat-footed** 21 (+2 Dex, +12 natural, −1 size)
 **hp** 135 (10d10+80); regeneration 5 (electricity)MA
-**Fort**+11,**Ref**+11,**Will** +7; second saveMA
-**Defensive Abilities**elusive, shellMA; DR 10/epic, piercing, and silver;**Immune** fire
+**Fort** +11, **Ref** +11, **Will** +7; second saveMA
+**Defensive Abilities** elusive, shellMA; DR 10/epic, piercing, and silver; **Immune** fire
 **Weaknesses** charmed by soap
 
 #### Offense
 
 **Speed** 20 ft., swim 50 ft.
 **Melee** bite +17 (1d8+8), 2 claws +17 (1d6+8), tentacle +12 (1d8+4 plus grab)
-**Space**10 ft.;**Reach** 5 ft. (15 ft. with tentacle)
+**Space** 10 ft.; **Reach** 5 ft. (15 ft. with tentacle)
 **Special Attacks** breath weapon (30-ft. cone, DC 19, 10d6 fire, usable every 1d4 rounds), mythic power (4/day, surge +1d8), vanishing gazeMMA
 
 #### Statistics
 
-**Str**27,**Dex**15,**Con**18,**Int**2,**Wis**14,**Cha** 19
-**Base Atk**+10;**CMB**+17 (+21 grapple);**CMD** 29 (can’t be tripped)
+**Str** 27, **Dex** 15, **Con** 18, **Int** 2, **Wis** 14, **Cha** 19
+**Base Atk** +10; **CMB** +17 (+21 grapple); **CMD** 29 (can’t be tripped)
 **Feats** Improved InitiativeMF, Iron WillMF, Lightning Reflexes, Skill Focus (Perception), Skill Focus (Stealth)
-**Skills**Perception +13, Stealth +17, Swim +14;**Racial Modifiers** +8 Perception
+**Skills** Perception +13, Stealth +17, Swim +14; **Racial Modifiers** +8 Perception
 **SQ** amphibious, planar acclimation
 
 #### Ecology

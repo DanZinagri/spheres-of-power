@@ -14,7 +14,7 @@ The following are new infusion wild talents that can be learned by Kineticists w
 
 #### Aligned Infusion
 
-**Element(s)**universal;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** universal; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated Blasts** any
 **Saving Throw** none
 
@@ -22,7 +22,7 @@ Your blasts are more dedicated than most. Select one component of your alignment
 
 #### Arbitrating Infusion
 
-**Element(s)**universal;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** universal; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated blasts** any
 **Saving Throw** none or Will negates; see text
 
@@ -30,21 +30,21 @@ This infusion treats those hit as if affected by arbitramentCoB, as the spell, u
 
 #### Bullying Infusion
 
-**Element(s)**universal;**Type**substance;**Level**1;**Burn** 1
+**Element(s)** universal; **Type** substance; **Level** 1; **Burn** 1
 **Saving Throw** none
 
 You know how to add a bit of fear to your blast. Whenever a creature is dealt damage by this blast, you can attempt an Intimidate check (to demoralize) against them. You can increase the burn of this infusion by 1 to increase the duration of the demoralization by 2 rounds.
 
 #### Countering Infusion
 
-**Element(s)**universal;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** universal; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated blasts** any
 
 You strengthen your blast’s ability to blot out opposing magic. The infused blast is treated as one spell level higher when used to counter spells, and can be used to counter activated extraordinary, supernatural, or spell-like abilities which share its element or descriptor. You can increase this by an additional one effective spell level for every 2 burn by which you increase this infusion’s cost. This infusion can only be used as part of a blast prepared as a readied action.
 
 #### Crushing Blast
 
-**Element(s)**universal;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** universal; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated blasts** any physical
 **Saving Throw** none
 
@@ -52,7 +52,7 @@ You can add incredible density to your kinetic blasts. Blasts you use that deal 
 
 #### Empty Infusion
 
-**Element(s)**universal;**Type**substance infusion;**Level**1;**Burn** 0
+**Element(s)** universal; **Type** substance infusion; **Level** 1; **Burn** 0
 **Associated Blasts** any
 **Saving Throw** none
 
@@ -60,7 +60,7 @@ You know how to remove trauma from your blast. This blast deals no damage, but i
 
 #### Flurry of Blasts, Improved
 
-**Element(s)**universal;**Type**form infusion;**Level**5;**Burn** 4
+**Element(s)** universal; **Type** form infusion; **Level** 5; **Burn** 4
 **Prerequisite(s)** flurry of blasts
 **Associate blasts** any
 **Saving Throw** none
@@ -69,7 +69,7 @@ This infusion functions as flurry of blasts, except it doubles the number of att
 
 #### Flurry of Blasts, Greater
 
-**Element(s)**universal;**Type**form infusion;**Level**8;**Burn** 4
+**Element(s)** universal; **Type** form infusion; **Level** 8; **Burn** 4
 **Prerequisite(s)** improved flurry of blasts
 **Associate blasts** any
 **Saving Throw** none
@@ -78,7 +78,7 @@ This infusion functions as improved flurry of blasts, except it triples the numb
 
 #### Follow-Up Shot
 
-**Element(s)**universal;**Type**form infusion;**Level**3;**Burn** 2
+**Element(s)** universal; **Type** form infusion; **Level** 3; **Burn** 2
 **Associated Blast** any
 **Saving Throw** none
 
@@ -86,7 +86,7 @@ You know how to add a little extra kick to your blast. You may make a second att
 
 #### Incorporeal Infusion
 
-**Element(s)**universal;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** universal; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** any
 **Saving Throw** none
 
@@ -94,7 +94,7 @@ You can reach into different planes of existence with your blast. This infused b
 
 #### Keen Blast
 
-**Element(s)**universal;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** universal; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated blasts** any physical
 **Saving Throw** none
 
@@ -102,7 +102,7 @@ You shape your blast so that its edge is incredibly sharp. Blasts you use that d
 
 #### Kinetic Bomb
 
-**Element(s)**universal;**Type**form infusion;**Level**1;**Burn** 1
+**Element(s)** universal; **Type** form infusion; **Level** 1; **Burn** 1
 **Associated blasts** any
 **Saving Throw** Reflex half (see text)
 
@@ -110,7 +110,7 @@ Your blast has far more power packed behind it. Whenever an infused blast hits a
 
 #### Kinetic Bomb, Improved
 
-**Element(s)**universal;**Type**form infusion;**Level**3;**Burn** 2
+**Element(s)** universal; **Type** form infusion; **Level** 3; **Burn** 2
 **Prerequisite(s)** kinetic bomb
 **Associated Blast** any
 **Saving Throw** Reflex half (see text)
@@ -119,7 +119,7 @@ This infusion functions as kinetic bomb, extending its splash radius by 5 ft. Yo
 
 #### Mobile Blast, Improved
 
-**Element(s)**universal;**Type**form infusion;**Level**5;**Burn** 3
+**Element(s)** universal; **Type** form infusion; **Level** 5; **Burn** 3
 **Associated blasts** any
 **Prerequisite(s)** extended rangeOA, mobile blastOA
 **Saving Throw** Reflex negates
@@ -128,7 +128,7 @@ This functions as mobile blastOA except it can travel as far as 120 ft. from you
 
 #### Nebulous Shape
 
-**Element(s)**universal;**Type**form infusion;**Level**4;**Burn** 2
+**Element(s)** universal; **Type** form infusion; **Level** 4; **Burn** 2
 **Associated blasts** any physical blast that deals at least two types of damage
 **Saving Throw** none
 
@@ -136,7 +136,7 @@ The matter your blasts create is amorphous, sometimes even intangible. When appl
 
 #### Nullifying Infusion
 
-**Element(s)**universal;**Type**substance infusion;**Level**8;**Burn** 4
+**Element(s)** universal; **Type** substance infusion; **Level** 8; **Burn** 4
 **Associated Blasts** any (must deal acid, cold, electric, fire, negative energy, or sonic damage)
 **Saving Throw** Fortitude negates
 
@@ -144,7 +144,7 @@ You are aware how to sever another’s elemental defenses. Whenever an infused b
 
 #### Ricochet
 
-**Element(s)**universal;**Type**form infusion;**Level**2;**Burn** 2
+**Element(s)** universal; **Type** form infusion; **Level** 2; **Burn** 2
 **Associated blasts** any bludgeoning
 **Saving Throw** none
 
@@ -152,7 +152,7 @@ You can cause your blast to ricochet off of your target into another. When you h
 
 #### Seeking Infusion
 
-**Element(s)**universal;**Type**form infusion;**Level**2;**Burn** 2
+**Element(s)** universal; **Type** form infusion; **Level** 2; **Burn** 2
 **Associated Blasts** any
 **Saving Throw** none
 
@@ -160,7 +160,7 @@ You can easily avoid obstacles that hinder the path of your blast. This infused 
 
 #### Spellturning Infusion
 
-**Element(s)**universal;**Type**form infusion;**Level**6;**Burn** 3
+**Element(s)** universal; **Type** form infusion; **Level** 6; **Burn** 3
 **Associated blasts** any
 **Prerequisite(s)** countering infusion
 
@@ -168,7 +168,7 @@ Your blast can envelop and overpower incoming spells. Treat this as countering i
 
 #### Vital Blade
 
-**Element(s)**universal;**Type**form infusion;**Level**4;**Burn** 3
+**Element(s)** universal; **Type** form infusion; **Level** 4; **Burn** 3
 **Prerequisite(s)** kinetic blade
 **Associated blasts** any
 **Saving Throw** none
@@ -177,7 +177,7 @@ This infusion functions as kinetic blade, except it can be used with Vital Strik
 
 #### Vital Mobility
 
-**Element(s)**universal;**Type**form infusion;**Level**5;**Burn** 4
+**Element(s)** universal; **Type** form infusion; **Level** 5; **Burn** 4
 **Prerequisite(s)** vital blade
 **Associated blasts** any
 **Saving Throw** none
@@ -190,7 +190,7 @@ This infusion works as vital blade. You are treated as though you possessed the 
 
 #### Bloody Infusion
 
-**Element(s)**aether, air, earth, viscera, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** aether, air, earth, viscera, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water, winter, wood
 **Saving Throw** Reflex negates
 
@@ -198,7 +198,7 @@ Your blasts have an especially sharp edge to them. Whenever an infused blast hit
 
 #### Bloody Infusion, Improved
 
-**Element(s)**aether, air, earth, water, viscera, or wood;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, air, earth, water, viscera, or wood; **Type** substance infusion; **Level** 5; **Burn** 4
 **Prerequisite(s)** bloody infusion
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water*, winter, wood
 **Saving Throw** Reflex negates
@@ -207,7 +207,7 @@ This infusion functions as bloody infusion except that bleed damage from multipl
 
 #### Dismissing Infusion
 
-**Element(s)**aether, time, or void;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, time, or void; **Type** substance infusion; **Level** 5; **Burn** 4
 **Associated Blast** chrono, epoch, force, negative, telekinetic, or void
 **Saving Throw** Will negates
 
@@ -215,7 +215,7 @@ Your blasts can sever an outsider’s connections to a plane. Whenever a creatur
 
 #### Hyper-Dimensional Blast
 
-**Element(s)**aether, time, or void;**Type**form infusion;**Level**4;**Burn** 3
+**Element(s)** aether, time, or void; **Type** form infusion; **Level** 4; **Burn** 3
 **Prerequisite(s)** extended range
 **Associated blast(s)** chrono, epoch, force, gravity, telekinetic, negative, supernova, void
 
@@ -223,7 +223,7 @@ You can channel your blast through avenues outside of those perceived by others,
 
 #### Stitching Infusion
 
-**Element(s)**aether;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** aether; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** force, telekinetic
 **Save Will** negates
 
@@ -231,7 +231,7 @@ Your blasts are capable of tethering others to their dimension. Whenever an infu
 
 #### Telekinetic Weapon
 
-**Element(s)**aether;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** aether; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated blast(s)** telekinetic
 
 Your aetheric tethers have tiny holes in them, allowing the magic power of objects to seep through. When using a telekinetic blast with a magic weapon, apply any enhancement bonuses and weapon qualities of the weapon to your blast as if you had made a melee attack with that weapon. This does not apply to unarmed strikes or natural weapons.
@@ -242,7 +242,7 @@ Your aetheric tethers have tiny holes in them, allowing the magic power of objec
 
 #### Bloody Infusion
 
-**Element(s)**aether, air, earth, viscera, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** aether, air, earth, viscera, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water, winter, wood
 **Saving Throw** Reflex negates
 
@@ -250,7 +250,7 @@ Your blasts have an especially sharp edge to them. Whenever an infused blast hit
 
 #### Bloody Infusion, Improved
 
-**Element(s)**aether, air, earth, water, viscera, or wood;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, air, earth, water, viscera, or wood; **Type** substance infusion; **Level** 5; **Burn** 4
 **Prerequisite(s)** bloody infusion
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water*, winter, wood
 **Saving Throw** Reflex negates
@@ -259,7 +259,7 @@ This infusion functions as bloody infusion except that bleed damage from multipl
 
 #### Discharging Infusion
 
-**Element(s)**air;**Type**form infusion;**Level**1;**Burn** 1
+**Element(s)** air; **Type** form infusion; **Level** 1; **Burn** 1
 **Associated Blast** acidic bolt, bioelectric, charged water, electric, and lightning
 **Saving Throw** Reflex half
 
@@ -267,7 +267,7 @@ Your blasts are capable of frying aquatic foes. When this infused blast targets 
 
 #### Overload Infusion
 
-**Element(s)**air, fire, light, poison, sound, time, void, or water;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** air, fire, light, poison, sound, time, void, or water; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, chrono, cold, electric, epoch, fire, flensing, green flame, glorious, injection, light, lightning, negative, nightshade, solar, sonic, sonic boom, thunderstorm, ultraviolet, vibration, virulent, void
 **Saving Throw** Fortitude negates
 
@@ -279,14 +279,14 @@ Your blasts are capable of filling foes to the breaking point with raw power. Wh
 
 #### Adamantine Infusion
 
-**Element(s)**earth;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** earth; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated Blast** metal or meteor
 
 Your blast is strong enough to shatter most objects with ease. This blast can ignore up to 20 hardness of any object it connects against as well as being treated as adamantine for the purpose of bypassing damage reduction.
 
 #### Bloody Infusion
 
-**Element(s)**aether, air, earth, viscera, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** aether, air, earth, viscera, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water, winter, wood
 **Saving Throw** Reflex negates
 
@@ -294,7 +294,7 @@ Your blasts have an especially sharp edge to them. Whenever an infused blast hit
 
 #### Bloody Infusion, Improved
 
-**Element(s)**aether, air, earth, water, viscera, or wood;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, air, earth, water, viscera, or wood; **Type** substance infusion; **Level** 5; **Burn** 4
 **Prerequisite(s)** bloody infusion
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water*, winter, wood
 **Saving Throw** Reflex negates
@@ -303,7 +303,7 @@ This infusion functions as bloody infusion except that bleed damage from multipl
 
 #### Imprisoning Infusion
 
-**Element(s)**earth or water;**Type**substance infusion;**Level**8;**Burn** 4
+**Element(s)** earth or water; **Type** substance infusion; **Level** 8; **Burn** 4
 **Associated Blasts** autumn, earth, great oak, metal, ice, spring, summer, winter, wood
 **Saving Throw** Fortitude negates
 
@@ -311,7 +311,7 @@ Your blast is capable of entombing others alive. Whenever an infused blast hits 
 
 #### Persistent Infusion
 
-**Element(s)**earth, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** earth, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blast** autumn, blizzard, cold, earth, ice, magma, metal, mud, sandstorm, spring, summer, winter, wood
 **Saving Throw** none
 
@@ -323,7 +323,7 @@ Your blasts leave behind chunks of whatever matter from which they were composed
 
 #### Burning Infusion, Improved
 
-**Element(s)**fire or poison;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** fire or poison; **Type** substance infusion; **Level** 3; **Burn** 2
 **Prerequisite(s)** burning infusion
 **Associated Blast** acid, acid rain, acidic bolt, blue flame, fire, flensing blast, green flame, injecting, magma, nightshade, plasma, ultraviolet, and virulent
 **Saving Throw** Reflex negates
@@ -332,7 +332,7 @@ This infusion functions as burning infusion except targets that catch fire or ar
 
 #### Burning Infusion, Greater
 
-**Element(s)**fire or poison;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** fire or poison; **Type** substance infusion; **Level** 5; **Burn** 3
 **Prerequisite(s)** improved burning infusion
 **Associated Blast** acid, acid rain, acidic bolt, blue flame, fire, flensing blast, green flame, injecting, magma, nightshade, plasma, ultraviolet, and virulent
 **Saving Throw** Reflex negates
@@ -341,7 +341,7 @@ This infusion functions as improved burning infusion except that all creatures a
 
 #### Dazzling Infusion
 
-**Element(s)**fire or light;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** fire or light; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** aurora, bioluminescent, blue flame, crystal, fire, glorious, light, lightning, solar
 **Saving Throw** Fortitude negates
 
@@ -349,7 +349,7 @@ Your blasts can overstimulate the eyes of foes. Whenever an infused blast deals 
 
 #### Melting Infusion
 
-**Element(s)**fire or poison;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** fire or poison; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, fire, flensing, green flame, injection, nightshade, ultraviolet, virulent
 **Saving Throw** Reflex negates
 
@@ -357,7 +357,7 @@ Your blast can leave both natural and man-made armor in disrepair. Whenever an i
 
 #### Overload Infusion
 
-**Element(s)**air, fire, light, poison, sound, time, void, or water;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** air, fire, light, poison, sound, time, void, or water; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, chrono, cold, electric, epoch, fire, flensing, green flame, glorious, injection, light, lightning, negative, nightshade, solar, sonic, sonic boom, thunderstorm, ultraviolet, vibration, virulent, void
 **Saving Throw** Fortitude negates
 
@@ -365,7 +365,7 @@ Your blasts are capable of filling foes to the breaking point with raw power. Wh
 
 #### Painful Infusion
 
-**Element(s)**fire or poison;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** fire or poison; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, fire, flensing, green flame, injection, nightshade, ultraviolet, virulent
 **Saving Throw** Reflex negates
 
@@ -373,7 +373,7 @@ Your blast can leave temporary but sensitive wounds. Whenever an infused blast h
 
 #### Pyroclastic Infusion
 
-**Element(s)**fire;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** fire; **Type** substance infusion; **Level** 6; **Burn** 4
 **Prerequisite(s)** burning infusion, extended range
 **Associated Blast** blue flame, fire
 **Saving Throw** Reflex half
@@ -382,7 +382,7 @@ You can incinerate those foolish enough to be burned by your blast. Select a num
 
 #### Smoke Infusion
 
-**Element(s)**fire;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** fire; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** blue flame, fire, and hellfire
 **Saving Throw** Reflex negates
 
@@ -390,7 +390,7 @@ Your blast causes the target to be engulfed in smoke. Whenever an infused blast 
 
 #### Smoke Infusion, Improved
 
-**Element(s)**fire;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** fire; **Type** substance infusion; **Level** 4; **Burn** 3
 **Prerequisite(s)** smoke infusion
 **Associated Blasts** blue flame, fire, and hellfire
 **Saving Throw** Reflex negates
@@ -403,7 +403,7 @@ This infusion functions as smoke infusion, and the smoke clings to the target fo
 
 #### Beacon Infusion
 
-**Element(s)**light;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** light; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** aurora, bioluminescent, crystal, glorious, light, lightning, solar
 **Saving Throw** none
 
@@ -411,15 +411,15 @@ You are capable of illuminating the most vulnerable parts of your foes with your
 
 #### Colorburst Infusion
 
-**Element(s)**light;**Type**substance infusion;**Level**8;**Burn** 4
+**Element(s)** light; **Type** substance infusion; **Level** 8; **Burn** 4
 **Associated blasts** aurora, bioluminescent, crystal, glorious, light, lightning, prismatic, rainbow, silverlight, solar, supernova
-**Saving Throw**varies;**Spell Resistance** yes
+**Saving Throw** varies; **Spell Resistance** yes
 
 Your blast’s colorful bursts of light can have an array of unusual effects on those hit. Treat creatures you hit with the infused blast as if they were also hit by the prismatic spray spell.
 
 #### Daybreak Infusion
 
-**Element(s)**light**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** light **Type** substance infusion; **Level** 3; **Burn** 2
 **Saving Throw** none
 **Associated Blasts** aurora, bioluminescent, crystal, glorious, light, lightning, solar
 
@@ -427,7 +427,7 @@ Your blasts are capable of destroying all darkness. Whenever a blast with this i
 
 #### Dazzling Infusion
 
-**Element(s)**fire or light;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** fire or light; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** aurora, bioluminescent, blue flame, crystal, fire, glorious, light, lightning, solar
 **Saving Throw** Fortitude negates
 
@@ -435,7 +435,7 @@ Your blasts can overstimulate the eyes of foes. Whenever an infused blast deals 
 
 #### Illuminating Infusion
 
-**Element(s)**light;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** light; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** aurora, bioluminescent, crystal, glorious, light, lightning, solar
 **Saving Throw** Reflex negates
 
@@ -443,7 +443,7 @@ You can light up your foes with your blast. Whenever an infused blast deals dama
 
 #### Obfuscating Infusion
 
-**Element(s)**light;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** light; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** aurora, bioluminescent, crystal, glorious, light, lightning, solar
 **Saving Throw** Will negates
 
@@ -451,7 +451,7 @@ Your blasts partially obscure the vision of your foes. Whenever an infused blast
 
 #### Overload Infusion
 
-**Element(s)**air, fire, light, poison, sound, time, void, or water;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** air, fire, light, poison, sound, time, void, or water; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, chrono, cold, electric, epoch, fire, flensing, green flame, glorious, injection, light, lightning, negative, nightshade, solar, sonic, sonic boom, thunderstorm, ultraviolet, vibration, virulent, void
 **Saving Throw** Fortitude negates
 
@@ -463,7 +463,7 @@ Your blasts are capable of filling foes to the breaking point with raw power. Wh
 
 #### Atrophy Infusion
 
-**Element(s)**poison, viscera, or void;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** poison, viscera, or void; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, chrono, epoch, flensing, fossilized, green flame, haunted, injection, negative, nightshade, ultraviolet, venus, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -471,7 +471,7 @@ Your blasts cause lasting damage to the bodies of others. Whenever an infused bl
 
 #### Burning Infusion, Improved
 
-**Element(s)**fire or poison;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** fire or poison; **Type** substance infusion; **Level** 3; **Burn** 2
 **Prerequisite(s)** burning infusion
 **Associated Blast** acid, acid rain, acidic bolt, blue flame, fire, flensing blast, green flame, injecting, magma, nightshade, plasma, ultraviolet, and virulent
 **Saving Throw** Reflex negates
@@ -480,7 +480,7 @@ This infusion functions as burning infusion except targets that catch fire or ar
 
 #### Burning Infusion, Greater
 
-**Element(s)**fire or poison;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** fire or poison; **Type** substance infusion; **Level** 5; **Burn** 3
 **Prerequisite(s)** improved burning infusion
 **Associated Blast** acid, acid rain, acidic bolt, blue flame, fire, flensing blast, green flame, injecting, magma, nightshade, plasma, ultraviolet, and virulent
 **Saving Throw** Reflex negates
@@ -489,7 +489,7 @@ This infusion functions as improved burning infusion except that all creatures a
 
 #### Decaying Infusion
 
-**Element(s)**poison, time, viscera, or void;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** poison, time, viscera, or void; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, chrono, epoch flensing, fossilized, green flame, haunted, injecting, negative, nightshade, ultraviolet, venus, vibration, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -497,7 +497,7 @@ You know how to ravage living matter with your blast. Foes that take damage from
 
 #### Destabilizing Infusion
 
-**Element(s)**poison, sound, or water;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** poison, sound, or water; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, aurora, blizzard, cold, flensing, green flame, ice, injecting, nightshade, sonic, sonic boom, ultraviolet, vibration, virulent
 **Saving Throw** Fortitude negates
 
@@ -505,7 +505,7 @@ Your blasts are able to break down even the mightiest of foes. Whenever an infus
 
 #### Fungal Explosion
 
-**Element(s)**poison;**Type**form infusion;**Level**6;**Burn** 3
+**Element(s)** poison; **Type** form infusion; **Level** 6; **Burn** 3
 **Prerequisite(s)** fungal infestation
 **Associated blasts** acid, acid rain, acidic bolt, green flame, nightshade, noxious, ultraviolet, virulent
 **Saving Throw** Reflex halves/negates (see text)
@@ -514,7 +514,7 @@ You empower the mushrooms created through your fungal infestation wild talent, c
 
 #### Laced Infusion
 
-**Element(s)**poison;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** poison; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** acid, acid rain, acidic bolt, flensing, green flame, injection, nightshade, ultraviolet, virulent
 **Saving Throw** see text
 
@@ -522,7 +522,7 @@ You are able to lace your blast with your own poisons. When you use this blast, 
 
 #### Lingering Infusion
 
-**Element(s)**poison, sound or time;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** poison, sound or time; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** acid, acid rain, acidic bolt, chrono, epoch, flensing, green flame, injection, nightshade, sonic, sonic boom, ultraviolet, vibration, virulent
 **Saving Throw** Fortitude half
 
@@ -530,7 +530,7 @@ Your blasts tend to linger a bit longer. Whenever a blast with this infusion dea
 
 #### Melting Infusion
 
-**Element(s)**fire or poison;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** fire or poison; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, fire, flensing, green flame, injection, nightshade, ultraviolet, virulent
 **Saving Throw** Reflex negates
 
@@ -538,7 +538,7 @@ Your blast can leave both natural and man-made armor in disrepair. Whenever an i
 
 #### Neutralizing Infusion
 
-**Element(s)**poison;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** poison; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated Blasts** acid, acid rain, acidic bolt, flensing, green flame, injection, nightshade, ultraviolet, virulent
 **Saving Throw** Fortitude negates
 
@@ -546,7 +546,7 @@ Your blast can strip the resistances from others. Whenever an infused blast hits
 
 #### Overload Infusion
 
-**Element(s)**air, fire, light, poison, sound, time, void, or water;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** air, fire, light, poison, sound, time, void, or water; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, chrono, cold, electric, epoch, fire, flensing, green flame, glorious, injection, light, lightning, negative, nightshade, solar, sonic, sonic boom, thunderstorm, ultraviolet, vibration, virulent, void
 **Saving Throw** Fortitude negates
 
@@ -554,7 +554,7 @@ Your blasts are capable of filling foes to the breaking point with raw power. Wh
 
 #### Painful Infusion
 
-**Element(s)**fire or poison;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** fire or poison; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, fire, flensing, green flame, injection, nightshade, ultraviolet, virulent
 **Saving Throw** Reflex negates
 
@@ -562,7 +562,7 @@ Your blast can leave temporary but sensitive wounds. Whenever an infused blast h
 
 #### Paralyzing Infusion
 
-**Element(s)**poison;**Type**substance infusion;**Level**8;**Burn** 4
+**Element(s)** poison; **Type** substance infusion; **Level** 8; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, flensing, green flame, injection, nightshade, ultraviolet, virulent
 **Saving Throw** Fortitude negates
 
@@ -570,7 +570,7 @@ Your blast can lock up a creature’s entire body. Whenever a foe takes damage f
 
 #### Psychotropic Infusion
 
-**Element(s)**poison;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** poison; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** acid, acid rain, acidic bolt, flensing, green flame, injection, nightshade, ultraviolet, virulent
 **Saving Throw** Will negates
 
@@ -578,7 +578,7 @@ Your blasts cause lasting damage to the minds of others. Whenever an infused bla
 
 #### Sickening Infusion
 
-**Element(s)**poison, sound, viscera or void;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** poison, sound, viscera or void; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, flensing, fossilized, gravity, green flame, haunted, injecting, negative, nightshade, sonic, sonic boom, ultraviolet, venus, vibration, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -590,7 +590,7 @@ Your blast can disrupt another creature’s well-being. Whenever an infused blas
 
 #### Attunement Burst
 
-**Element(s)**sound;**Type**form infusion;**Level**9;**Burn** 4
+**Element(s)** sound; **Type** form infusion; **Level** 9; **Burn** 4
 **Prerequisite(s)** attuning infusion, extended range infusion
 **Associated blast(s)** sonic, sonic boom, vibration
 **Saving Throw** Fortitude half
@@ -599,7 +599,7 @@ You cause sonic energy to explode from anything that resonates with the tones yo
 
 #### Attuning Infusion
 
-**Element(s)**sound;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** sound; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** sonic, sonic boom, vibration
 **Saving Throw** none
 
@@ -607,7 +607,7 @@ You are able to attune enemies to your particular soundwaves. Whenever an infuse
 
 #### Cacophonous Infusion
 
-**Element(s)**sound;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** sound; **Type** substance infusion; **Level** 3; **Burn** 2
 **Saving Throw** none
 **Associated Blasts** sonic, sonic boom, vibration
 
@@ -615,7 +615,7 @@ Your blasts are capable of shattering any silence. This infusion ignores magical
 
 #### Destabilizing Infusion
 
-**Element(s)**poison, sound, or water;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** poison, sound, or water; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, aurora, blizzard, cold, flensing, green flame, ice, injecting, nightshade, sonic, sonic boom, ultraviolet, vibration, virulent
 **Saving Throw** Fortitude negates
 
@@ -623,7 +623,7 @@ Your blasts are able to break down even the mightiest of foes. Whenever an infus
 
 #### Disorientating Infusion
 
-**Element(s)**sound;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** sound; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated Blasts** sonic, sonic boom, vibration
 **Saving Throw** Will negates
 
@@ -631,7 +631,7 @@ Your blasts are enough to drive others into an erratic state. Whenever a blast w
 
 #### Lingering Infusion
 
-**Element(s)**poison, sound or time;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** poison, sound or time; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** acid, acid rain, acidic bolt, chrono, epoch, flensing, green flame, injection, nightshade, sonic, sonic boom, ultraviolet, vibration, virulent
 **Saving Throw** Fortitude half
 
@@ -639,7 +639,7 @@ Your blasts tend to linger a bit longer. Whenever a blast with this infusion dea
 
 #### Overload Infusion
 
-**Element(s)**air, fire, light, poison, sound, time, void, or water;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** air, fire, light, poison, sound, time, void, or water; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, chrono, cold, electric, epoch, fire, flensing, green flame, glorious, injection, light, lightning, negative, nightshade, solar, sonic, sonic boom, thunderstorm, ultraviolet, vibration, virulent, void
 **Saving Throw** Fortitude negates
 
@@ -647,7 +647,7 @@ Your blasts are capable of filling foes to the breaking point with raw power. Wh
 
 #### Resonant Detonation
 
-**Element(s)**sound;**Type**form infusion;**Level**8;**Burn** 4
+**Element(s)** sound; **Type** form infusion; **Level** 8; **Burn** 4
 **Prerequisite(s)** attuning infusion, extended range infusion
 **Associated blast(s)** sonic, sonic boom, vibration
 **Saving Throw** Fortitude half
@@ -656,7 +656,7 @@ You cause sonic energy to explode from anything that resonates with the tones yo
 
 #### Ringing Infusion
 
-**Element(s)**sound;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** sound; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** sonic, sonic boom, vibration
 **Saving Throw** Fortitude negates
 
@@ -664,7 +664,7 @@ Your blasts are capable of damaging the hearing of your foes. Whenever an infuse
 
 #### Sickening Infusion
 
-**Element(s)**poison, sound, viscera or void;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** poison, sound, viscera or void; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, flensing, fossilized, gravity, green flame, haunted, injecting, negative, nightshade, sonic, sonic boom, ultraviolet, venus, vibration, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -676,7 +676,7 @@ Your blast can disrupt another creature’s well-being. Whenever an infused blas
 
 #### Dazing Infusion
 
-**Element(s)**time;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** time; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** chrono, epoch
 **Saving Throw** Fortitude negates
 
@@ -684,7 +684,7 @@ Your blasts are capable of slowing a foe to a stop. Whenever an infused blast hi
 
 #### Decaying Infusion
 
-**Element(s)**poison, time, viscera, or void;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** poison, time, viscera, or void; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, chrono, epoch flensing, fossilized, green flame, haunted, injecting, negative, nightshade, ultraviolet, venus, vibration, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -692,7 +692,7 @@ You know how to ravage living matter with your blast. Foes that take damage from
 
 #### Dismissing Infusion
 
-**Element(s)**aether, time, or void;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, time, or void; **Type** substance infusion; **Level** 5; **Burn** 4
 **Associated Blast** chrono, epoch, force, negative, telekinetic, or void
 **Saving Throw** Will negates
 
@@ -700,7 +700,7 @@ Your blasts can sever an outsider’s connections to a plane. Whenever a creatur
 
 #### Displacing Infusion
 
-**Element(s)**time;**Type**substance infusion;**Level**8;**Burn** 4
+**Element(s)** time; **Type** substance infusion; **Level** 8; **Burn** 4
 **Associated Blasts** chrono, epoch
 **Saving Throw** Will negates
 
@@ -710,7 +710,7 @@ Upon re-entering the timestream, the subject reappears where it had been when th
 
 #### Diverging Infusion
 
-**Element(s)**time;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** time; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated Blasts** chrono, epoch
 **Saving Throw** Will negates
 
@@ -718,7 +718,7 @@ Your blast can divert a foe’s future for the worst. Whenever an infused blast 
 
 #### Hindering Infusion
 
-**Element(s)**time;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** time; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** chrono, epoch
 **Saving Throw** none
 
@@ -726,7 +726,7 @@ Your blast is enough to slow the reflexes of others. Whenever an infused blast d
 
 #### Hyper-Dimensional Blast
 
-**Element(s)**aether, time, or void;**Type**form infusion;**Level**4;**Burn** 3
+**Element(s)** aether, time, or void; **Type** form infusion; **Level** 4; **Burn** 3
 **Prerequisite(s)** extended range
 **Associated blast(s)** chrono, epoch, force, gravity, telekinetic, negative, supernova, void
 
@@ -734,7 +734,7 @@ You can channel your blast through avenues outside of those perceived by others,
 
 #### Immobilizing Infusion
 
-**Element(s)**time, water, or void;**Type** substance infusion; Level 4; Burn 3
+**Element(s)** time, water, or void; **Type** substance infusion; Level 4; Burn 3
 **Associated Blasts** blizzard, chrono, cold, epoch, gravity, ice, void
 **Saving Throw** Fortitude negates
 
@@ -742,7 +742,7 @@ Your blasts reduces foe’s speed to a crawl. Whenever an infused blast hits a f
 
 #### Lagging Infusion
 
-**Element(s)**time;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** time; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** chrono, epoch
 **Saving Throw** none
 
@@ -750,7 +750,7 @@ Your blast causes your foe’s actions to lag by fractions of a second. Whenever
 
 #### Lingering Infusion
 
-**Element(s)**poison, sound or time;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** poison, sound or time; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** acid, acid rain, acidic bolt, chrono, epoch, flensing, green flame, injection, nightshade, sonic, sonic boom, ultraviolet, vibration, virulent
 **Saving Throw** Fortitude half
 
@@ -758,7 +758,7 @@ Your blasts tend to linger a bit longer. Whenever a blast with this infusion dea
 
 #### Overload Infusion
 
-**Element(s)**air, fire, light, poison, sound, time, void, or water;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** air, fire, light, poison, sound, time, void, or water; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, chrono, cold, electric, epoch, fire, flensing, green flame, glorious, injection, light, lightning, negative, nightshade, solar, sonic, sonic boom, thunderstorm, ultraviolet, vibration, virulent, void
 **Saving Throw** Fortitude negates
 
@@ -766,7 +766,7 @@ Your blasts are capable of filling foes to the breaking point with raw power. Wh
 
 #### Suspended Impact
 
-**Element(s)**time;**Type**form infusion;**Level**2;**Burn** 2
+**Element(s)** time; **Type** form infusion; **Level** 2; **Burn** 2
 **Associated blasts** afterburn, chrono, epoch, regression
 **Saving Throw** none
 
@@ -778,7 +778,7 @@ Your blasts are able to hide their exact moment of impact. Whenever an infused b
 
 #### Atrophy Infusion
 
-**Element(s)**poison, viscera, or void;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** poison, viscera, or void; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, chrono, epoch, flensing, fossilized, green flame, haunted, injection, negative, nightshade, ultraviolet, venus, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -786,7 +786,7 @@ Your blasts cause lasting damage to the bodies of others. Whenever an infused bl
 
 #### Bloody Infusion
 
-**Element(s)**aether, air, earth, viscera, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** aether, air, earth, viscera, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water, winter, wood
 **Saving Throw** Reflex negates
 
@@ -794,7 +794,7 @@ Your blasts have an especially sharp edge to them. Whenever an infused blast hit
 
 #### Bloody Infusion, Improved
 
-**Element(s)**aether, air, earth, water, viscera, or wood;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, air, earth, water, viscera, or wood; **Type** substance infusion; **Level** 5; **Burn** 4
 **Prerequisite(s)** bloody infusion
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water*, winter, wood
 **Saving Throw** Reflex negates
@@ -803,7 +803,7 @@ This infusion functions as bloody infusion except that bleed damage from multipl
 
 #### Crippling Infusion
 
-**Element(s)**viscera;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** viscera; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** bioelectric, bone, charnel, chilled bone, fossilized, haunted, injecting, venus, warped bone
 **Saving Throw** Fortitude negates
 
@@ -811,7 +811,7 @@ You know how to completely cripple parts of your foe’s body. Whenever an infus
 
 #### Decaying Infusion
 
-**Element(s)**poison, time, viscera, or void;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** poison, time, viscera, or void; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, chrono, epoch flensing, fossilized, green flame, haunted, injecting, negative, nightshade, ultraviolet, venus, vibration, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -819,7 +819,7 @@ You know how to ravage living matter with your blast. Foes that take damage from
 
 #### Eviscerating Infusion
 
-**Element(s)**viscera;**Type**substance infusion;**Level**9;**Burn** 5
+**Element(s)** viscera; **Type** substance infusion; **Level** 9; **Burn** 5
 **Associated Blasts** bioelectric, bone, charnel, chilled bone, fossilized, haunted, injecting, venus, warped bone
 **Saving Throw** Fortitude half
 
@@ -827,7 +827,7 @@ Your blast can tear a creature’s innards to shreds. Whenever an infused blast 
 
 #### Hypertensive Infusion
 
-**Element(s)**viscera or water;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** viscera or water; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated blasts** blood, bloody murder, bone, charged water, gore, haunted, injecting, steam, warped bone, water
 **Saving Throw** Fort negates
 
@@ -835,7 +835,7 @@ Your blast causes the blood vessels of the affected to slowly constrict. This bl
 
 #### Leech Infusion
 
-**Element(s)**viscera or void;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** viscera or void; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** bioelectric, bone, charnel, chilled bone, fossilized, haunted, injecting, negative, venus, void, warped bone
 **Saving Throw** none
 
@@ -843,7 +843,7 @@ You feed off of those who suffer your blast. Whenever an infused blast hits a li
 
 #### Osteotomy
 
-**Element(s)**viscera;**Type**form infusion;**Level**2;**Burn** 1
+**Element(s)** viscera; **Type** form infusion; **Level** 2; **Burn** 1
 **Associated blasts** bioelectric, bloody murder, bone, charnel, chilled bone, fossilized, injecting, ravaging nature, warped bone
 **Saving Throw** Fortitude negates
 
@@ -851,7 +851,7 @@ You rip slivers of an enemy’s bones out of its body. The infused blast automat
 
 #### Self-Destructive Infusion
 
-**Element(s)**viscera;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** viscera; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** bioelectric, bone, charnel, chilled bone, fossilized, haunted, injecting, venus, warped bone
 **Saving Throw** Fortitude negates
 
@@ -859,7 +859,7 @@ You are capable of wresting control of your foes body temporarily, causing them 
 
 #### Shivering Infusion
 
-**Element(s)**viscera or water;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** viscera or water; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** bioelectric, bone, charnel, chilled bone, cold, fossilized, haunted, ice, injecting, venus, warped bone
 **Saving Throw** Fortitude negates
 
@@ -867,7 +867,7 @@ Your blast cause opponents to convulse involuntarily. Whenever a foe takes damag
 
 #### Sickening Infusion
 
-**Element(s)**poison, sound, viscera or void;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** poison, sound, viscera or void; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, flensing, fossilized, gravity, green flame, haunted, injecting, negative, nightshade, sonic, sonic boom, ultraviolet, venus, vibration, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -875,7 +875,7 @@ Your blast can disrupt another creature’s well-being. Whenever an infused blas
 
 #### Weakening Infusion
 
-**Element(s)**viscera;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** viscera; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** bioelectric, bone, charnel, chilled bone, fossilized, haunted, injecting, venus, warped bone
 **Saving Throw** Fortitude negates
 
@@ -887,7 +887,7 @@ Your blast can make your foes more vulnerable to damage. Whenever a foe takes da
 
 #### Atrophy Infusion
 
-**Element(s)**poison, viscera, or void;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** poison, viscera, or void; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, chrono, epoch, flensing, fossilized, green flame, haunted, injection, negative, nightshade, ultraviolet, venus, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -895,7 +895,7 @@ Your blasts cause lasting damage to the bodies of others. Whenever an infused bl
 
 #### Decaying Infusion
 
-**Element(s)**poison, time, viscera, or void;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** poison, time, viscera, or void; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, chrono, epoch flensing, fossilized, green flame, haunted, injecting, negative, nightshade, ultraviolet, venus, vibration, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -903,7 +903,7 @@ You know how to ravage living matter with your blast. Foes that take damage from
 
 #### Dismissing Infusion
 
-**Element(s)**aether, time, or void;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, time, or void; **Type** substance infusion; **Level** 5; **Burn** 4
 **Associated Blast** chrono, epoch, force, negative, telekinetic, or void
 **Saving Throw** Will negates
 
@@ -911,7 +911,7 @@ Your blasts can sever an outsider’s connections to a plane. Whenever a creatur
 
 #### High Gravity Infusion
 
-**Element(s)**void;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** void; **Type** substance infusion; **Level** 4; **Burn** 3
 **Saving Throw** Fortitude negates
 **Associated Blasts** gravity, void
 
@@ -919,7 +919,7 @@ Your blast can intensify the power of gravity’s control on another. Whenever a
 
 #### Hyper-Dimensional Blast
 
-**Element(s)**aether, time, or void;**Type**form infusion;**Level**4;**Burn** 3
+**Element(s)** aether, time, or void; **Type** form infusion; **Level** 4; **Burn** 3
 **Prerequisite(s)** extended range
 **Associated blast(s)** chrono, epoch, force, gravity, telekinetic, negative, supernova, void
 
@@ -927,7 +927,7 @@ You can channel your blast through avenues outside of those perceived by others,
 
 #### Immobilizing Infusion
 
-**Element(s)**time, water, or void;**Type** substance infusion; Level 4; Burn 3
+**Element(s)** time, water, or void; **Type** substance infusion; Level 4; Burn 3
 **Associated Blasts** blizzard, chrono, cold, epoch, gravity, ice, void
 **Saving Throw** Fortitude negates
 
@@ -935,7 +935,7 @@ Your blasts reduces foe’s speed to a crawl. Whenever an infused blast hits a f
 
 #### Leech Infusion
 
-**Element(s)**viscera or void;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** viscera or void; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** bioelectric, bone, charnel, chilled bone, fossilized, haunted, injecting, negative, venus, void, warped bone
 **Saving Throw** none
 
@@ -943,15 +943,15 @@ You feed off of those who suffer your blast. Whenever an infused blast hits a li
 
 #### Lingering Darkness
 
-**Element(s)**void;**Type**substance infusion;**Level**4;**Burn** 3
+**Element(s)** void; **Type** substance infusion; **Level** 4; **Burn** 3
 **Associated blasts** negative, void
-**Saving Throw**Will negates; Ref partial;**Spell Resistance** yes
+**Saving Throw** Will negates; Ref partial; **Spell Resistance** yes
 
 Your blast transforms itself into a baneful shadow that clings to the target. If your blast deals negative energy damage to a target, treat that target as if affected by masochistic shadowBOS. If this blast affects more than one creature, you choose which one creature is affected by this infusion.
 
 #### Low Gravity Infusion
 
-**Element(s)**void;**Type**substance infusion;**Level**3;**Burn** 2
+**Element(s)** void; **Type** substance infusion; **Level** 3; **Burn** 2
 **Associated Blasts** gravity, void
 **Saving Throw** Reflex negates
 
@@ -959,7 +959,7 @@ Your blast can loosen the power of gravity’s control on another. Whenever an i
 
 #### Overload Infusion
 
-**Element(s)**air, fire, light, poison, sound, time, void, or water;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** air, fire, light, poison, sound, time, void, or water; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, chrono, cold, electric, epoch, fire, flensing, green flame, glorious, injection, light, lightning, negative, nightshade, solar, sonic, sonic boom, thunderstorm, ultraviolet, vibration, virulent, void
 **Saving Throw** Fortitude negates
 
@@ -967,7 +967,7 @@ Your blasts are capable of filling foes to the breaking point with raw power. Wh
 
 #### Pure Negative Infusion
 
-**Element(s)**void;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** void; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** negative, void
 **Saving Throw** none
 
@@ -975,7 +975,7 @@ Your blasts channel an especially damaging form of negative energy. Your blast a
 
 #### Reanimating Infusion
 
-**Element(s)**void;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** void; **Type** substance infusion; **Level** 5; **Burn** 3
 **Associated Blasts** negative, void
 **Saving Throw** none
 
@@ -983,7 +983,7 @@ Those who are touched by your power soon walk again. Whenever a blast with this 
 
 #### Reconstruction Infusion
 
-**Element(s)**void;**Type**substance infusion;**Level**5;**Burn** 3
+**Element(s)** void; **Type** substance infusion; **Level** 5; **Burn** 3
 **Prerequisite(s)** negative blast, void healer
 **Associated blasts** darklight, hellfire, negative, void
 **Saving Throw** none
@@ -992,7 +992,7 @@ If a creature hit by this blast could be healed by negative energy, it is healed
 
 #### Sickening Infusion
 
-**Element(s)**poison, sound, viscera or void;**Type**substance infusion;**Level**2;**Burn** 2
+**Element(s)** poison, sound, viscera or void; **Type** substance infusion; **Level** 2; **Burn** 2
 **Associated Blasts** acid, acid rain, acidic bolt, bioelectric, bone, charnel, chilled bone, flensing, fossilized, gravity, green flame, haunted, injecting, negative, nightshade, sonic, sonic boom, ultraviolet, venus, vibration, virulent, void, warped bone
 **Saving Throw** Fortitude negates
 
@@ -1004,7 +1004,7 @@ Your blast can disrupt another creature’s well-being. Whenever an infused blas
 
 #### Bloody Infusion
 
-**Element(s)**aether, air, earth, viscera, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** aether, air, earth, viscera, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water, winter, wood
 **Saving Throw** Reflex negates
 
@@ -1012,7 +1012,7 @@ Your blasts have an especially sharp edge to them. Whenever an infused blast hit
 
 #### Bloody Infusion, Improved
 
-**Element(s)**aether, air, earth, water, viscera, or wood;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, air, earth, water, viscera, or wood; **Type** substance infusion; **Level** 5; **Burn** 4
 **Prerequisite(s)** bloody infusion
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water*, winter, wood
 **Saving Throw** Reflex negates
@@ -1021,24 +1021,24 @@ This infusion functions as bloody infusion except that bleed damage from multipl
 
 #### Dehydrating Blast
 
-**Element(s)**water;**Type**form infusion;**Level**3;**Burn** 2
+**Element(s)** water; **Type** form infusion; **Level** 3; **Burn** 2
 **Associated blasts** charged water, steam, water
-**Saving Throw**Fort partial;**Spell Resistance** yes
+**Saving Throw** Fort partial; **Spell Resistance** yes
 
 You sap vital water out of a creature’s body, causing it to suffer from dehydration. The damage die size of the infused blast is reduced 1 step and the damage is nonlethal, but the blast appears directly in the target’s square rather than traveling to it and its damage is untyped. This damage causes the foe to become fatigued and cannot be recovered from until the creature drinks water, even from magical healing that restores hit points. Creatures who succeed their save against this infusion take half damage and are not fatigued. Creatures who do not need to drink to survive are immune to the infused blast’s damage and effects, but creatures of the water subtype are always susceptible to it regardless of the need to drink or lack thereof. Blood kineticists cannot use this infusion with blood blast.
 
 #### Dehydrating Blast, Greater
 
-**Element(s)**water;**Type**form infusion;**Level**6;**Burn** 4
+**Element(s)** water; **Type** form infusion; **Level** 6; **Burn** 4
 **Prerequisite(s)** dehydrating blast
 **Associated blasts** charged water, steam, water
-**Saving Throw**Fort partial;**Spell Resistance** yes
+**Saving Throw** Fort partial; **Spell Resistance** yes
 
 This functions as dehydrating blast, except it can be used with blood blast and causes its target to suffer severe cramps, giving it a -4 penalty to Dexterity for as long as it suffers the damage caused by the infused blast. In addition, if the infused blast damages a creature, it creates a globe of the sapped-away water which you can use as an immediate action to attack with a water blast or any blast for which water blast is a prerequisite (but not blood unless the original blast was a blood blast). The second blast treats the globe of water as its point of origin, costs an additional 1 burn, and cannot use dehydrating blast, greater dehydrating blast, or wrack. If you possess the tundra’s wrath wild talent, you can instead make the second blast as a cold blast, ice blast, or any composite blast you possess for which cold blast is a prerequisite. If you do not make this second blast, the globe of water falls down harmlessly.
 
 #### Destabilizing Infusion
 
-**Element(s)**poison, sound, or water;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** poison, sound, or water; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, aurora, blizzard, cold, flensing, green flame, ice, injecting, nightshade, sonic, sonic boom, ultraviolet, vibration, virulent
 **Saving Throw** Fortitude negates
 
@@ -1046,7 +1046,7 @@ Your blasts are able to break down even the mightiest of foes. Whenever an infus
 
 #### Hypertensive Infusion
 
-**Element(s)**viscera or water;**Type**substance infusion;**Level**6;**Burn** 4
+**Element(s)** viscera or water; **Type** substance infusion; **Level** 6; **Burn** 4
 **Associated blasts** blood, bloody murder, bone, charged water, gore, haunted, injecting, steam, warped bone, water
 **Saving Throw** Fort negates
 
@@ -1054,7 +1054,7 @@ Your blast causes the blood vessels of the affected to slowly constrict. This bl
 
 #### Immobilizing Infusion
 
-**Element(s)**time, water, or void;**Type** substance infusion; Level 4; Burn 3
+**Element(s)** time, water, or void; **Type** substance infusion; Level 4; Burn 3
 **Associated Blasts** blizzard, chrono, cold, epoch, gravity, ice, void
 **Saving Throw** Fortitude negates
 
@@ -1062,7 +1062,7 @@ Your blasts reduces foe’s speed to a crawl. Whenever an infused blast hits a f
 
 #### Imprisoning Infusion
 
-**Element(s)**earth or water;**Type**substance infusion;**Level**8;**Burn** 4
+**Element(s)** earth or water; **Type** substance infusion; **Level** 8; **Burn** 4
 **Associated Blasts** autumn, earth, great oak, metal, ice, spring, summer, winter, wood
 **Saving Throw** Fortitude negates
 
@@ -1070,7 +1070,7 @@ Your blast is capable of entombing others alive. Whenever an infused blast hits 
 
 #### Oil Infusion
 
-**Element(s)**water;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** water; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blast** charged water blast, water blast
 **Saving Throw** none
 
@@ -1078,7 +1078,7 @@ Instead of simple water, your blast is made up of flammable oil. A foe damaged b
 
 #### Overload Infusion
 
-**Element(s)**air, fire, light, poison, sound, time, void, or water;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** air, fire, light, poison, sound, time, void, or water; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** acid, acid rain, acidic bolt, blue flame, chrono, cold, electric, epoch, fire, flensing, green flame, glorious, injection, light, lightning, negative, nightshade, solar, sonic, sonic boom, thunderstorm, ultraviolet, vibration, virulent, void
 **Saving Throw** Fortitude negates
 
@@ -1086,7 +1086,7 @@ Your blasts are capable of filling foes to the breaking point with raw power. Wh
 
 #### Persistent Infusion
 
-**Element(s)**earth, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** earth, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blast** autumn, blizzard, cold, earth, ice, magma, metal, mud, sandstorm, spring, summer, winter, wood
 **Saving Throw** none
 
@@ -1094,7 +1094,7 @@ Your blasts leave behind chunks of whatever matter from which they were composed
 
 #### Shivering Infusion
 
-**Element(s)**viscera or water;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** viscera or water; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blasts** bioelectric, bone, charnel, chilled bone, cold, fossilized, haunted, ice, injecting, venus, warped bone
 **Saving Throw** Fortitude negates
 
@@ -1106,7 +1106,7 @@ Your blast cause opponents to convulse involuntarily. Whenever a foe takes damag
 
 #### Arboreal Infusion
 
-**Element(s)**wood;**Type**substance infusion;**Level**7;**Burn** 4
+**Element(s)** wood; **Type** substance infusion; **Level** 7; **Burn** 4
 **Associated Blasts** autumn, great oak, spring, summer, winter, wood
 **Saving Throw** Fortitude negates (see text)
 
@@ -1114,7 +1114,7 @@ Your blast contain seeds that feed off of others. Whenever an infused blast hits
 
 #### Bloody Infusion
 
-**Element(s)**aether, air, earth, viscera, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** aether, air, earth, viscera, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water, winter, wood
 **Saving Throw** Reflex negates
 
@@ -1122,7 +1122,7 @@ Your blasts have an especially sharp edge to them. Whenever an infused blast hit
 
 #### Bloody Infusion, Improved
 
-**Element(s)**aether, air, earth, water, viscera, or wood;**Type**substance infusion;**Level**5;**Burn** 4
+**Element(s)** aether, air, earth, water, viscera, or wood; **Type** substance infusion; **Level** 5; **Burn** 4
 **Prerequisite(s)** bloody infusion
 **Associated blasts** autumn, bioelectric, bioluminescent, blizzard, blood, bloody murder, bone, charnel, chilled bone, crystal, earth, fossilized, great oak, gore, haunted, ice, injecting, metal, meteor, ravaging nature, sandstorm, shatterstorm, spring, subzero, summer, telekinetic, tundra, venus, warped bone, water*, winter, wood
 **Saving Throw** Reflex negates
@@ -1131,7 +1131,7 @@ This infusion functions as bloody infusion except that bleed damage from multipl
 
 #### Persistent Infusion
 
-**Element(s)**earth, water, or wood;**Type**substance infusion;**Level**1;**Burn** 1
+**Element(s)** earth, water, or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 **Associated Blast** autumn, blizzard, cold, earth, ice, magma, metal, mud, sandstorm, spring, summer, winter, wood
 **Saving Throw** none
 

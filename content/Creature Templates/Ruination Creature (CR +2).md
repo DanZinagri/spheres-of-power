@@ -14,7 +14,7 @@ Ruination creatures bring rust and rot with them everywhere. These living agents
 
 **CR:** +2
 
-**Defensive Abilities:** DR 5/silver (increase to 10 if the ruination creature’s CR is 10 or higher, increase to 15 if its CR is 15 or higher);**Immune**acid, negative energy; SR 12 + the ruination creature’s CR (spells with the electricity descriptor ignore this SR);**Weakness** vulnerability to silver and electricity
+**Defensive Abilities:** DR 5/silver (increase to 10 if the ruination creature’s CR is 10 or higher, increase to 15 if its CR is 15 or higher); **Immune** acid, negative energy; SR 12 + the ruination creature’s CR (spells with the electricity descriptor ignore this SR); **Weakness** vulnerability to silver and electricity
 
 **Special Abilities:** A ruination creature retains all the special abilities of the base creature, and gains the special abilities as described below.
 
@@ -36,7 +36,7 @@ These temporary hit points last 24 hours and it can only gain a maximum number o
 
 The ruination creature can, as swift action every 1d4 rounds, focus this power to affect one attended object, one undead creature, or one construct creature dealing 1d6 points of damage per HD the ruination creature possesses. This ability must still overcome an object’s hardness, and objects suffer half damage from this effect. Objects and constructs made of silver are immune to this effect.
 
-**Abilities:** Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength and CMB checks, +2 to CMD),**Dex**+4 ( +2 to ranged attack rolls; AC and touch AC, initiative, and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs),**Con** +8 (+4 hp per HD, +4 to Fortitude saves, and any of the base creature’s Constitution-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim skill checks, +2 to Strength and CMB checks, +2 to CMD), **Dex** +4 ( +2 to ranged attack rolls; AC and touch AC, initiative, and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs), **Con** +8 (+4 hp per HD, +4 to Fortitude saves, and any of the base creature’s Constitution-based DCs).
 
 **Skills:** Ruination creatures gain a +8 racial bonus on Disable Device checks.
 

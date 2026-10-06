@@ -16,7 +16,7 @@ When the investigator makes attacks with telekinetically manipulated objects, he
 
 #### Established Foundations [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 The investigator gains the Study sphere as a bonus sphere. Additionally, whenever the investigator begins a theory, he can spend 1 point of inspiration to have the theory’s base ability function as if it possessed 2 additional notions for determining its benefits (if any).
 
@@ -46,7 +46,7 @@ When the investigator uses an Enhancement sphere ability that targets himself or
 
 #### Shared Inspiration (requires Study sphere) [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 Whenever an ally the investigator can perceive attempts an attack roll, skill check, or saving throw against the subject of his theory, the investigator can spend uses of inspiration from his pool to add his inspiration die to the roll as an immediate action. The investigator sharing their inspiration with an ally relies on either auditory or visual components (where the ally can either see or hear the investigator, and vice versa); an ally cannot benefit from multiple uses of inspiration to the same check.
 
@@ -72,13 +72,13 @@ The investigator’s gizmo limit increases by +1.
 
 The investigator gains the following abilities based on the Tinker packages they possess:
 
-**Inspired Co-Intelligence (requires (computation) package)**: As long as the investigator’s AI can see or hear the investigator, or the AI’s host gizmo is in the investigator’s possession, the investigator’s AI may use the investigator’s inspiration ability on checks it attempts. Treat inspiration used this way as though the investigator used it himself for any talents, feats, or other abilities the investigator may possess that alter his inspiration.
+**Inspired Co-Intelligence (requires (computation) package):** As long as the investigator’s AI can see or hear the investigator, or the AI’s host gizmo is in the investigator’s possession, the investigator’s AI may use the investigator’s inspiration ability on checks it attempts. Treat inspiration used this way as though the investigator used it himself for any talents, feats, or other abilities the investigator may possess that alter his inspiration.
 
-**Studied Co-Combatant (requires (computation) or (transportation) package)**: Whenever the investigator uses their studied combat, the investigator may transfer their studied combat benefits to an AI or *mechanoid* they crafted (the “co-combatant”) instead of gaining the ability’s normal benefits. The co-combatant must be able to see or hear the investigator, or the AI’s host gizmo is in the investigator’s possession. The co-combatant can perform a studied strike, as though it were the investigator. The co-combatant loses these benefits if the investigator uses studied combat again.
+**Studied Co-Combatant (requires (computation) or (transportation) package):** Whenever the investigator uses their studied combat, the investigator may transfer their studied combat benefits to an AI or *mechanoid* they crafted (the “co-combatant”) instead of gaining the ability’s normal benefits. The co-combatant must be able to see or hear the investigator, or the AI’s host gizmo is in the investigator’s possession. The co-combatant can perform a studied strike, as though it were the investigator. The co-combatant loses these benefits if the investigator uses studied combat again.
 
 At 8th level, the investigator can share their studied target benefits with a co-combatant (instead of transferring the benefits). When sharing their studied combat with a co-combatant, when either the investigator or the co-combatant performs a studied strike, the studied combat benefits end for both the investigator and the co-combatant.
 
-**Signaled Co-Operations (requires (transmission) package; (computation) or (transportation) package)**: The inspired co-intelligence and studied co-combatant abilities function if the investigator’s AI or *mechanoid* is within the signal range of a gizmo in the investigator’s possession (such as the communicator accommodation; treat this signal range as though the AI or *mechanoid* could see or hear the investigator).
+**Signaled Co-Operations (requires (transmission) package; (computation) or (transportation) package):** The inspired co-intelligence and studied co-combatant abilities function if the investigator’s AI or *mechanoid* is within the signal range of a gizmo in the investigator’s possession (such as the communicator accommodation; treat this signal range as though the AI or *mechanoid* could see or hear the investigator).
 
 ---
 

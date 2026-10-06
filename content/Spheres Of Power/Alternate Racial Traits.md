@@ -54,9 +54,9 @@ Born of the rare crossing between a mortal and titan, titanspawn possess the ins
 
 ### Android
 
-**Analytic Savant**: Many androids are able to better inspect and determine the meaning of a piece of technology, whether one made contemporarily or one from a timeworn era. Androids with this racial trait gain a +2 racial bonus on Knowledge (engineering) checks; this bonus increases to +4 when being used to examine or determine the functions of timeworn technology (*Technology Guide*) or other similarly ancient or defunct technology. This alters exceptional senses, removing the racial +2 bonus to Perception. [SUE]
+**Analytic Savant:** Many androids are able to better inspect and determine the meaning of a piece of technology, whether one made contemporarily or one from a timeworn era. Androids with this racial trait gain a +2 racial bonus on Knowledge (engineering) checks; this bonus increases to +4 when being used to examine or determine the functions of timeworn technology (*Technology Guide*) or other similarly ancient or defunct technology. This alters exceptional senses, removing the racial +2 bonus to Perception. [SUE]
 
-**Pattern Refabrication**: Most androids are built and “born” into their bodies, a template from a bygone era. Some androids can remember more of this technology, making use of highly precise crafting methods to produce sleek, efficient pieces of technology. Androids with this racial trait gain the Tinker sphere as a bonus talent. This replaces nanite surge. [SUE]
+**Pattern Refabrication:** Most androids are built and “born” into their bodies, a template from a bygone era. Some androids can remember more of this technology, making use of highly precise crafting methods to produce sleek, efficient pieces of technology. Androids with this racial trait gain the Tinker sphere as a bonus talent. This replaces nanite surge. [SUE]
 
 **Tech Proficiency:** Sometimes the artificial protective plating of these creatures were fabricated including compartments where tools or weapons may be stored. They gain Extra Combat Talent in the Tech sphere as a bonus feat at 1st level. The free gadget must be the Internal Tool (augment, gadget) talent. For androids, this replaces nanite surge.
 
@@ -84,7 +84,7 @@ Born of the rare crossing between a mortal and titan, titanspawn possess the ins
 
 In addition, whenever a catfolk with this racial trait uses the Heal skill to help a creature recover hit points (such as to provide long-term care or to treat deadly wounds), the target recovers an additional number of hit points equal to 2 + 1/2 the catfolk’s Hit Dice (minimum 1). This racial trait replaces cat’s luck. [SA:BRV]
 
-**Roar of Invention**: Catfolk, through continued innovation to survive desert climates, discovered oil and its use as high grade fuel. By harnessing oil, Catfolk inventorship has taken to loud whirring engines of progress. Catfolk with this racial trait gain the Tinker sphere as a bonus talent. This replaces cat’s luck. [SUE]
+**Roar of Invention:** Catfolk, through continued innovation to survive desert climates, discovered oil and its use as high grade fuel. By harnessing oil, Catfolk inventorship has taken to loud whirring engines of progress. Catfolk with this racial trait gain the Tinker sphere as a bonus talent. This replaces cat’s luck. [SUE]
 
 **Second Chances:** Catfolk have an uncanny, almost supernatural ability to avoid harm and land on their feet in difficult scenarios. Catfolk with this racial trait gain a +1 racial bonus on any reroll of a d20 roll (such as the Fate sphere Bless or Curse (word) talents). This racial trait replaces cat’s luck. [SA:BRV]
 
@@ -140,7 +140,7 @@ This modifies the created’s creation points (reducing it by 2).
 
 **Bloodshaper:** Gain Basic Magic Training with the Creation sphere as a bonus feat with the Fission and Material Focus (blood) drawbacks, but do not gain bonus talents as normal. You may create blood in solid or liquid form, and it reacts to positive and negative energy as if it were an undead creature rather than an object. Regardless of form, it has no nutritional value unless you possess Sustenance. In addition you may alter (Destroy) creatures with blood as if they were objects, though they are entitled to a Fortitude save for half damage. This replaces spell-like ability. (Blood in a solid form has the same hardness and hit points as ice and may be used to create weapons that possess the fragile quality unless they are created at 1/4 caster level or otherwise enhanced.)
 
-**Conduit Crafting**: Dhampir and intelligent undead society, through their long-lived existence, have always taken a liking to greater architectural works. As their technology began to progress, dhampir began making use of electrical currents, such as those harnessed through lightning rods affixed to the tops of cathedrals and other grand structures. Dhampir with this racial trait gain the Tinker sphere as a bonus talent. This replaces spell-like ability. [SUE]
+**Conduit Crafting:** Dhampir and intelligent undead society, through their long-lived existence, have always taken a liking to greater architectural works. As their technology began to progress, dhampir began making use of electrical currents, such as those harnessed through lightning rods affixed to the tops of cathedrals and other grand structures. Dhampir with this racial trait gain the Tinker sphere as a bonus talent. This replaces spell-like ability. [SUE]
 
 **Fell Master:** Embracing their affinity for the control of mindless undead servitors, some dhampir becomes fearsome generals of reanimated legions, either for their own ends or in the service of their vampiric forebears. They gain the Leadership sphere as a bonus combat talent, taking the (cohort) package. They gain the Undead Servants drawback, granting the Master of the Dead legendary talent normally. This replaces manipulative and spell-like abilities.
 
@@ -184,9 +184,9 @@ This modifies the created’s creation points (reducing it by 2).
 
 **Dwarven Battle Training:** Many dwarves go beyond the weapon training common to their culture, mastering all their people’s weapons. They gain the Dwarven Heritage Equipment talent as a bonus talent at 1st level. This replaces defensive training, hatred and weapon familiarity.
 
-**Gearcunning**: Dwarves raised or having spent time mastering forms of craftsmanship that go beyond stonework have an eye for unusual constructions. Dwarves with this racial trait gain a +2 bonus on Perception checks to potentially notice unusual mechanisms, such as hidden switches or boobytrapped technological items (this applies to items of both high technological complexity and even low-technological items, such as a hidden lever for a wooden door, but would not notice a floor plate or tripwire that is not part of a larger, more complicated structure). Dwarves receive a check to notice any such features that they pass within 10 feet of, whether or not they are actively looking. This racial trait is otherwise treated as the stonecunning alternate racial trait for the purposes of other effects and abilities. This replaces stonecunning. [SUE]
+**Gearcunning:** Dwarves raised or having spent time mastering forms of craftsmanship that go beyond stonework have an eye for unusual constructions. Dwarves with this racial trait gain a +2 bonus on Perception checks to potentially notice unusual mechanisms, such as hidden switches or boobytrapped technological items (this applies to items of both high technological complexity and even low-technological items, such as a hidden lever for a wooden door, but would not notice a floor plate or tripwire that is not part of a larger, more complicated structure). Dwarves receive a check to notice any such features that they pass within 10 feet of, whether or not they are actively looking. This racial trait is otherwise treated as the stonecunning alternate racial trait for the purposes of other effects and abilities. This replaces stonecunning. [SUE]
 
-**Geomystic [DRS]**: Dwarves with this racial trait gain the Occultism sphere as a bonus skill talent, but must use Knowledge (nature) as its associated skill or take the Sacred Geometry alternate start. This replaces defensive training, greed, and stonecunning.
+**Geomystic [DRS]:** Dwarves with this racial trait gain the Occultism sphere as a bonus skill talent, but must use Knowledge (nature) as its associated skill or take the Sacred Geometry alternate start. This replaces defensive training, greed, and stonecunning.
 
 **Habitual Maintenance:** The innate thrift and craftsmanship of many dwarven cultures can become ingrained, to the point that they repair, sharpen, and maintain their equipment without even thinking about it. They gain a limited version of blacksmith maintenance class feature. They may apply one of the following maintenances to themself with an effective blacksmith level of 1: armor maintenance, cobbling, heavy-duty reinforcement, or pack straps. They may perform this maintenance in addition to any others they can perform. This replaces greed, stonecunning, and weapon familiarity. [SA:MRT]
 
@@ -196,13 +196,13 @@ This modifies the created’s creation points (reducing it by 2).
 
 **Scrutinizing:** Due to suspicions in their past or a distrust of those around them, these dwarves gain the Investigation sphere as a bonus skill talent at 1st level. This replaces defensive training, greed, and stonecunning. [SoG]
 
-**Superior Dwarven Make**: There is much pride to be had in creating marvels, whether that be weapons and armor to complex machinery and marvels of technology. Dwarves which have made the technological leaps beyond the forge to the machine shop often enjoy piecing together perfectly fit gears into tight, interlocked patterns beneath fitted steel and iron casings. Dwarves with this racial trait gain the Tinker sphere as a bonus talent. This replaces weapon familiarity. [SUE]
+**Superior Dwarven Make:** There is much pride to be had in creating marvels, whether that be weapons and armor to complex machinery and marvels of technology. Dwarves which have made the technological leaps beyond the forge to the machine shop often enjoy piecing together perfectly fit gears into tight, interlocked patterns beneath fitted steel and iron casings. Dwarves with this racial trait gain the Tinker sphere as a bonus talent. This replaces weapon familiarity. [SUE]
 
 **Tinkerer:** Whereas most dwarves are known for their blacksmithing and grand creations, some prefer the crude or simple nature of creation. These dwarves gain the Artifice sphere as a bonus skill talent at 1st level, and a +2 racial bonus on all Craft and Profession checks related to metal or stone. This replaces defensive training, greed, and hatred. [SoG]
 
 ### Elan
 
-**Source:** Arcforge Players Compendium
+*Source: Arcforge Players Compendium*
 
 ### Elf
 
@@ -224,7 +224,7 @@ This modifies the created’s creation points (reducing it by 2).
 
 **Practice Makes Perfect:** Gain a +2 racial bonus for all Craft checks and to your caster level for the create usage of the Creation sphere as long as this bonus does not raise your caster level above your current Hit Dice. This replaces elven magic and keen senses.
 
-**Refined Ingenuity**: Elves in more magic-deprived regions take to sculpting and shaping materials, often glass, fine metals such as gold or copper, and wood into potent apparatus. Elves pride themselves in slow, methodical crafting methods that produce high quality and long lasting pieces of innovations. Elves with this racial trait gain the Tinker sphere as a bonus talent.
+**Refined Ingenuity:** Elves in more magic-deprived regions take to sculpting and shaping materials, often glass, fine metals such as gold or copper, and wood into potent apparatus. Elves pride themselves in slow, methodical crafting methods that produce high quality and long lasting pieces of innovations. Elves with this racial trait gain the Tinker sphere as a bonus talent.
 
 This replaces elven magic.
 
@@ -286,7 +286,7 @@ This replaces elven magic.
 
 **Fey Motes:** Through natural talent or by training one aspect of their magic to the exclusion of other magics, some gnomes master their ability to create roving, trickster lights. They gain Basic Magic Training in the Light sphere as a bonus feat, with the Roving Glow drawback and Dancing Lights as their bonus talent. This replaces the obsessive and gnome magic racial traits.
 
-**Gnomish Tinkering**: Gnomes often take their pursuit of interest and excitement to the technological level, finding great purpose and joy in making things both useful and useless by leveraging a variety of solutions to a singular problem. Gnomes with this racial trait gain the Tinker sphere as a bonus talent. This replaces keen senses. [SUE]
+**Gnomish Tinkering:** Gnomes often take their pursuit of interest and excitement to the technological level, finding great purpose and joy in making things both useful and useless by leveraging a variety of solutions to a singular problem. Gnomes with this racial trait gain the Tinker sphere as a bonus talent. This replaces keen senses. [SUE]
 
 **Gnomish War School:** The gnomes are known for their unique weapons; some gnomes fully embrace this tendency. They gain the Gnomish Heritage Equipment talent as a bonus talent at 1st level. This replaces defensive training, hatred, and weapon familiarity.
 
@@ -306,7 +306,7 @@ This replaces elven magic.
 
 **Hemo Goblin Straggler:** A goblin who came into being through a Hemo Goblin sphere effect, yet for some inexplicable reason never disappeared (such as their target never dying, a mishap, etc.), is left with a small fragment of the magic that brought them into being. The goblin gains Basic Magic Training in the Blood sphere as a bonus feat at 1st level. This replaces skilled.
 
-**Pressurized Tinkering**: Taking advantage of geothermal vents and other high pressure systems in caves and badlands, goblin inventors have found ways to leverage pressure and heat to spur their mechanisms. Goblins with this racial trait gain Tinker sphere as a bonus talent and gain a +2 racial bonus to their Tinker sphere associated skill. This replaces skilled. [SUE]
+**Pressurized Tinkering:** Taking advantage of geothermal vents and other high pressure systems in caves and badlands, goblin inventors have found ways to leverage pressure and heat to spur their mechanisms. Goblins with this racial trait gain Tinker sphere as a bonus talent and gain a +2 racial bonus to their Tinker sphere associated skill. This replaces skilled. [SUE]
 
 **Pyromania Specialist:** Most goblins have an affinity for burning things down, a few specialize in it to the point of mania. They gain the Goblin Heritage Equipment talent as a bonus talent at 1st level. This replaces skilled. [Apoc]
 
@@ -363,7 +363,7 @@ This replaces fearless, sure-footed, and weapon familiarity.
 
 **Fearsome Leader:** A half-orc’s intimidating nature can be leveraged into building a following, others afraid to cross them. These half-orcs gain the Leadership sphere as a bonus combat talent, gaining the Dread Master drawback. This replaces intimidating and orc ferocity.
 
-**Shamanistic Practices [DRS]**: Orcs or half-orcs with this racial trait gain the Occultism sphere as a bonus skill talent, but must choose Knowledge (nature) or Knowledge (religion) as its associated skill. For half-orcs this replaces orc ferocity, whereas for orcs this replaces ferocity.
+**Shamanistic Practices [DRS]:** Orcs or half-orcs with this racial trait gain the Occultism sphere as a bonus skill talent, but must choose Knowledge (nature) or Knowledge (religion) as its associated skill. For half-orcs this replaces orc ferocity, whereas for orcs this replaces ferocity.
 
 **Trained Berserk:** Those of orcish descent sometimes learn to ignore lesser wounds, focusing on aggressive tactics while trusting in their own endurance. They gain the Berserker sphere as a bonus talent at 1st level. For half-orcs this replaces orc ferocity. [SA:MRT]
 
@@ -452,7 +452,7 @@ Gain the Witchmarked general drawback and use your character level in place of c
 
 **Dragon’s Breath:** A few rare kobolds are blessed with the deadly breath of their draconic ancestors. They gain Basic Magic Training in the Destruction sphere as a bonus feat at 1st level with the Energy Focus drawback for a blast group corresponding to a true dragon’s breath weapon and the Shape Focus drawback for the Sculpt Blast blast shape, receiving the bonus talents as appropriate. This replaces crafty.
 
-Special: If you also take the dragon-scaled alternate racial trait, your chosen energy resistance must match that of your blast type.
+**Special:** If you also take the dragon-scaled alternate racial trait, your chosen energy resistance must match that of your blast type.
 
 **Instinctual Trapper:** All kobolds must deal with the reality that they are vulnerable to attack by much stronger creatures, but the especially vulnerable kobolds compensate by not fighting fair. They gain the Trap sphere, and one talent of their choice from the Trap sphere as a bonus talents at 1st level. This replaces armor. [Apoc]
 
@@ -540,7 +540,7 @@ Hydrakin lizardfolk are tenacious and quick to recover, but their miraculous hea
 
 **Carver [DRS]:** Orcs or half-orcs with this racial trait gain the Survivalism sphere as a bonus skill talent, but must choose the (harvest) package. For half-orcs this replaces orc ferocity, whereas for orcs this replaces ferocity.
 
-**Shamanistic Practices [DRS]**: Orcs or half-orcs with this racial trait gain the Occultism sphere as a bonus skill talent, but must choose Knowledge (nature) or Knowledge (religion) as its associated skill. For half-orcs this replaces orc ferocity, whereas for orcs this replaces ferocity.
+**Shamanistic Practices [DRS]:** Orcs or half-orcs with this racial trait gain the Occultism sphere as a bonus skill talent, but must choose Knowledge (nature) or Knowledge (religion) as its associated skill. For half-orcs this replaces orc ferocity, whereas for orcs this replaces ferocity.
 
 **Trained Berserk:** Those of orcish descent sometimes learn to ignore lesser wounds, focusing on aggressive tactics while trusting in their own endurance. They gain the Berserker sphere as a bonus talent at 1st level. For orcs, this replaces ferocity. [SA:MRT]
 
@@ -578,7 +578,7 @@ These oreads can choose to replace energy resistance as well when choosing this 
 
 **Hop and Jump:** Growing up in open spaces or mountainous terrain, many ratfolk are adept at leaping, hopping, and jumping, often imitating kangaroo or other marsupials when doing so. A ratfolk with this racial trait gains Extra Combat Talent for the Athletics sphere as a bonus feat and must choose the (leap) package. In addition, a ratfolk gains a +4 racial bonus on Acrobatics checks made to jump, despite their normally slow speed. This racial trait replaces tinker. [SA:BRV]
 
-**Riverside Innovation**: Growing their small colonies by the eddies and bends of rivers, ratfolk leveraged their love of cleanliness and waterways to create hydraulics backing their innovations. Ratfolk with this racial trait gain the Tinker sphere as a bonus talent. This replaces rodent empathy. [SUE]
+**Riverside Innovation:** Growing their small colonies by the eddies and bends of rivers, ratfolk leveraged their love of cleanliness and waterways to create hydraulics backing their innovations. Ratfolk with this racial trait gain the Tinker sphere as a bonus talent. This replaces rodent empathy. [SUE]
 
 #### Bosavian (Ratfolk) [SA:BRV]
 
@@ -638,7 +638,7 @@ Vulpine rougarou are socialite journeymen, performers, and tradesmen, being more
 
 **Eidetic Memory [DRS]:** Sometimes, the murkiness of ancestral memories adds clarity to the memories experienced in the present. Samsaran with this racial trait gain the Study sphere as a bonus skill sphere, gaining the Incredible Memory drawback. This replaces samsaran magic.
 
-**Enlightened [DRS]**: Certain samsaran have revelations about a past life filled with great mystical power. Samsaran with this racial trait gain the Occultism sphere as a bonus skill talent, and may use Knowledge (history) as its associated skill. This replaces samsaran magic.
+**Enlightened [DRS]:** Certain samsaran have revelations about a past life filled with great mystical power. Samsaran with this racial trait gain the Occultism sphere as a bonus skill talent, and may use Knowledge (history) as its associated skill. This replaces samsaran magic.
 
 **Sphere-touched:** The samsaran gains the feat Basic Magic Training as a bonus feat, but are limited to choosing either the Divination or Mind sphere. This replaces samsaran magic.
 

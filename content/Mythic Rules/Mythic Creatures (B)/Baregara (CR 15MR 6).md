@@ -13,20 +13,20 @@ This lumbering apelike monster has blood-red fur, twisted horns, and a hideous f
 XP 51,200
 Pathfinder Roleplaying Game Bestiary 3
 CE Large outsider (chaotic, evil, extraplanar, mythic)
-**Init**+8;**Senses** darkvision 60 ft.; Perception +22
+**Init** +8; **Senses** darkvision 60 ft.; Perception +22
 
 #### Defense
 
-**AC**31,**touch**13,**flat-footed** 27 (+4 Dex, +18 natural, –1 size)
+**AC** 31, **touch** 13, **flat-footed** 27 (+4 Dex, +18 natural, –1 size)
 **hp** 228 (16d10+140)
-**Fort**+15,**Ref**+14,**Will** +10; second saveMA
-**Defensive Abilities**DR 10/epic and good;**Immune**electricity, poison,**Resist**acid 10, cold 10, fire 10;**SR** 26
+**Fort** +15, **Ref** +14, **Will** +10; second saveMA
+**Defensive Abilities** DR 10/epic and good; **Immune** electricity, poison, **Resist** acid 10, cold 10, fire 10; **SR** 26
 
 #### Offense
 
 **Speed** 30 ft., climb 40 ft.
 **Melee** bite +26 (1d8+5), 2 claws +26 (1d10+16 plus grab), gore +21 (1d8+11)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** beheading grappleMA, feral savagery (full attack)MA, terrifying challengeMA, mythic power (6/day, surge +1d8), one-armed liftMA, rend (2 claws 1d10+22)MA
 
 **Spell-Like Abilities** (CL 16th; concentration +19)
@@ -37,8 +37,8 @@ At will—dispel magic, teleport (self plus 50 lbs. of objects only)
 
 #### Statistics
 
-**Str**32,**Dex**19,**Con**20,**Int**15,**Wis**16,**Cha** 17
-**Base Atk**+16;**CMB**+28 (+32 grapple);**CMD** 42
+**Str** 32, **Dex** 19, **Con** 20, **Int** 15, **Wis** 16, **Cha** 17
+**Base Atk** +16; **CMB** +28 (+32 grapple); **CMD** 42
 **Feats** Critical FocusMF, Improved Initiative, Intimidating ProwessMF, Iron Will, Power AttackMF, Quicken Spell-Like Ability (hold person), Step Up, Throw Anything
 **Skills** Acrobatics +15, Bluff +14, Climb +30, Diplomacy +11, Intimidate +39, Knowledge (nature) +10, Knowledge (planes) +13, Perception +22, Sense Motive +14, Stealth +19, Survival +19, Swim +19
 **Languages** Abyssal, Celestial, Common, Draconic; telepathy 100 ft.

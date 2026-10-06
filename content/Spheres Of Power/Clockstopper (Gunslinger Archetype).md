@@ -10,47 +10,47 @@ parent: "[[Spheres Of Power]]"
 
 All gunslingers need speed. That’s a simple fact. But there are some that find the more mundane methods of getting faster to be insufficient, and instead turn to the arcane arts to improve their odds. Those who focus on magic that bends time are commonly called clockstoppers. The term is used as a derogatory term by those spellcasters who considered these warriors to be amateurs at best and arrogant upstarts at worst. Most clockstoppers do not care however, stating that their meager mastery of magic is more than enough to finish the job when combined with their mastery of firearms.
 
-### Weapon and Armor Proficiency
+## Weapon and Armor Proficiency
 
 The clockstopper is proficient with simple weapons and the type of firearm she chooses with the gunsmith class feature (blunderbuss, musket, or pistol), as well as light armor. In addition, if this is her first level in any class, she may select a martial tradition of her choice.
 
 This alters the gunslinger’s normal weapon and armor proficiencies.
 
-### Blended Training
+## Blended Training
 
 The clockstopper gains a talent at 1st level, 2nd level, and every even level thereafter. This talent may be spent on either magic talents or combat talents. The clockstopper is considered a Low-Caster. This counts as the casting class feature. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the gunslinger’s dodge, gunslinger initiative, dead shot, and lightning reload deeds.
 
-### Spell Pool
+## Spell Pool
 
 At 1st level, the clockstopper gains a small reservoir of magical energy she can use to create truly wondrous effects, called a spell pool. This pool contains a number of points equal to her level + her casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest. The clockstopper may spend spell points as though they were grit points when using any of her deeds. For the purpose of feat prerequisites, the clockstopper satisfies the prerequisites as if she were a grit or panache user.
 
 This replaces grit.
 
-### Time Magic
+## Time Magic
 
 The clockstopper gains the Time sphere as a bonus talent at 1st level.
 
-### Deeds
+## Deeds
 
 A clockstopper swaps some deeds for the following.
 
-#### Fast-Time Reload (Su)
+### Fast-Time Reload (Su)
 
 Starting at 3rd level, as long as the clockstopper is under the effects of a haste spell or alter time effect, she may reload a one-handed firearm as a free action or a two-handed firearm as a swift action. This replaces the pistol-whip deed.
 
-#### Leaping Shot
+### Leaping Shot
 
 Starting at 7th level, the clockstopper gains Leaping Shot Deed as a bonus feat, even if she would not normally qualify for it. If the clockstopper already has the Leaping Shot Deed feat, she can immediately swap it for another feat for which she qualifies. This replaces the startling shot deed.
 
-#### Rewind
+### Rewind
 
 At 15th level, the clockstopper gains the Second Chance talent from the Time sphere as a bonus talent. In addition, whenever the clockstopper uses an alter time effect on herself, she may choose to have the duration automatically doubled; if the effect normally requires concentration, it instead lasts for a number of rounds equal to the clockstopper’s caster level. These increases only affect the clockstopper if the effect would normally affect multiple targets (such as when using the Mass Time talent).
 
 This replaces the slinger’s luck deed.
 
-### Slow-Time (Su)
+## Slow-Time (Su)
 
 Upon reaching 20th level, whenever the clockstopper is under the effects of an active Haste or haste, she gains a +4 circumstance bonus to attack rolls, damage rolls, and saving throws in addition to the ability’s normal effects. The clockstopper also gains these benefits on attacks made against enemies under the effects of Slow or slow, and to saving throws against spells and abilities created by such enemies.
 

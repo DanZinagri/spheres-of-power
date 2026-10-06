@@ -13,13 +13,13 @@ This squat, reptilian monster has eight legs, bony spurs jutting from its back, 
 XP 3,200
 Pathfinder Roleplaying Game Bestiary
 N Medium magical beast (mythic)
-**Init**–1;**Senses** darkvision 60 ft., low-light vision; Perception +10
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; Perception +10
 
 #### Defense
 
-**AC**20,**touch**9,**flat-footed** 20 (–1 Dex, +11 natural)
+**AC** 20, **touch** 9, **flat-footed** 20 (–1 Dex, +11 natural)
 **hp** 89 (7d10+51)
-**Fort**+8,**Ref**+4,**Will** +5
+**Fort** +8, **Ref** +4, **Will** +5
 **Defensive Abilities** camouflageMA, poisonous blood; DR 5/epic
 
 #### Offense
@@ -30,10 +30,10 @@ N Medium magical beast (mythic)
 
 #### Statistics
 
-**Str**16,**Dex**8,**Con**17,**Int**2,**Wis**13,**Cha** 11
-**Base Atk**+7;**CMB**+11;**CMD** 20 (32 vs. trip)
+**Str** 16, **Dex** 8, **Con** 17, **Int** 2, **Wis** 13, **Cha** 11
+**Base Atk** +7; **CMB** +11; **CMD** 20 (32 vs. trip)
 **Feats** Ability Focus (petrifying gaze), Blind-Fight, Extra Mythic Power, Iron WillMF, Skill Focus (Perception)
-**Skills**Perception +10, Stealth +10 (+20 when still);**Racial Modifiers** +4 Stealth (+14 when still)
+**Skills** Perception +10, Stealth +10 (+20 when still); **Racial Modifiers** +4 Stealth (+14 when still)
 
 #### Ecology
 
@@ -47,4 +47,4 @@ N Medium magical beast (mythic)
 
 **Petrifying Gaze (Ex)** Turn to stone permanently (as mythic flesh to stone), range 30 feet, Fortitude DC 20 negates. A creature petrified in this manner that is then coated (not just splashed) with fresh mythic basilisk blood (taken from a mythic basilisk no more than 1 hour dead) is instantly restored to flesh but is then immediately exposed to basilisk blood poison. A single mythic basilisk contains enough blood to coat 1d3 Medium creatures in this manner. The save DC is Constitution-based and includes a +2 racial bonus. By expending one use of mythic power, a mythic basilisk can actively direct its petrifying gaze at a single opponent within range as a swift action.
 
-**Poison (Ex)**Blood—contact;**save**Fort DC 18;**frequency**1/round for 6 rounds;**effect**1d3 Con;**cure** 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (Ex)** Blood—contact; **save** Fort DC 18; **frequency** 1/round for 6 rounds; **effect** 1d3 Con; **cure** 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.

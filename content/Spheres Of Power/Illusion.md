@@ -145,7 +145,7 @@ The sense added is also noted in the tag.
 
 #### Aggrandizing Strike [Strike] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 As a standard action, you may make a single weapon attack in conjunction with using a [glamer] or [trick] effect. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the [glamer] or [trick]. If using a scatter weapon, the [glamer] only applies to a single target, chosen at the time of attack.
 
@@ -516,7 +516,7 @@ This feat does not allow you to apply the caster level bonus from staves for two
 
 #### Shadow Magic (Surreal)
 
-Prerequisites: Illusion sphere (Shadow Infusion) or shadow pool.
+**Prerequisites:** Illusion sphere (Shadow Infusion) or shadow pool.
 
 **Benefit:** You may mimic other spheres of magic by shaping shadowstuff. As a free action, you may spend 1 shadow point to grant yourself a temporary magic sphere or talent you do not possess from the following list: Alteration, Conjuration, Creation, Dark, Death, Destruction, Enhancement, Light, Nature, Protection or Weather sphere for 1 minute. For every 5 surreal feats you possess, you may grant yourself an additional temporary talent from the chosen sphere. You must still meet any prerequisites that the talents possess. When gaining multiple talents with this feat, you may use a talent gained this way as a prerequisite for other gained talents.
 

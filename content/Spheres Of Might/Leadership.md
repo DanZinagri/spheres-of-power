@@ -14,7 +14,7 @@ Practitioners of the Leadership sphere learn how to gather, organize, and comman
 
 If you possess multiple spheres that grant ranks in Diplomacy, you gain a competence bonus on Diplomacy checks equal to half your base attack bonus instead of retraining the ranks multiple times. This is only applied once.
 
-**Special:** Animal companions, Conjuration sphere companions, drake companions, eidolons, familiars, independent inventions, Leadership cohorts, and any other controlled characters gained by class features, talents or feats cannot gain this sphere or talents from this sphere. When you first take the Leadership sphere, choose one of the following packages: Cohort or Follower.**Associated Feat:** Leadership.
+**Special:** Animal companions, Conjuration sphere companions, drake companions, eidolons, familiars, independent inventions, Leadership cohorts, and any other controlled characters gained by class features, talents or feats cannot gain this sphere or talents from this sphere. When you first take the Leadership sphere, choose one of the following packages: Cohort or Follower. **Associated Feat:** Leadership.
 
 #### Leadership Sphere and Wealth
 
@@ -73,16 +73,16 @@ A cohort serves you loyally and will follow you into and aid you during combat, 
 Cohorts gain abilities based on their Hit Dice and race. The listed statistics are modified by the cohort’s race as normal. Cohorts are considered to have a CR equal to their Hit Dice - 2 for purposes that require it. Cohorts have class skills according to their creature type (Climb, Craft, Handle Animal, Heal, Profession, Ride, and Survival for humanoids), plus the ones listed in their profession. Select from the following professions to determine the cohort’s base statistics:
 
 **Student**
-**Hit Dice**d6;**Saves**Fort (bad), Ref (good), Will (good);**Ability Scores**Str 11, Dex 12, Con 13, Int 16, Wis 9, Cha 10;**Practitioner Modifier**Int;**Skill Points per Hit Die**2;**Class Skills**Appraise, Knowledge (all), Use Magic Device;**Magic Scholar:** Students gain the Alchemy sphere as a bonus talent at 1 Hit Die. Students add half their level (minimum 1) to all Use Magic Device checks and may use their Intelligence in place of their Charisma for such checks.;**Budding Academic:** Students gain an additional 4 skill points per Hit Die that must be spent on Intelligence-based skills.**Starting Equipment:** Alchemy kit, simple melee or ranged weapon with 20 pieces ammunition
+**Hit Dice** d6; **Saves** Fort (bad), Ref (good), Will (good); **Ability Scores** Str 11, Dex 12, Con 13, Int 16, Wis 9, Cha 10; **Practitioner Modifier** Int; **Skill Points per Hit Die** 2; **Class Skills** Appraise, Knowledge (all), Use Magic Device; **Magic Scholar:** Students gain the Alchemy sphere as a bonus talent at 1 Hit Die. Students add half their level (minimum 1) to all Use Magic Device checks and may use their Intelligence in place of their Charisma for such checks.; **Budding Academic:** Students gain an additional 4 skill points per Hit Die that must be spent on Intelligence-based skills. **Starting Equipment:** Alchemy kit, simple melee or ranged weapon with 20 pieces ammunition
 
 **Thief**
-**Hit Dice**d8;**Saves**Fort (bad), Ref (good), Will (good);**Ability Scores**Str 12, Dex 16, Con 13, Int 11, Wis 9, Cha 10;**Practitioner Modifier**Int;**Skill Points per Hit Die**4;**Class Skills**Appraise, Disguise, Disable Device, Perception, Sleight of Hand, Stealth;**Rogue Training:** Thieves may take rogue talents in place of feats and gain the following ability: *Trapfinding:* A thief cohort adds 1/2 her level to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). A thief cohort can use Disable Device to disarm magic traps. **Starting Equipment:** Studded leather armor, thieves tools, One of: 1. Simple or martial melee weapon and simple or martial ranged weapon with 20 pieces ammunition, or 2. Simple or martial melee weapon and shield.
+**Hit Dice** d8; **Saves** Fort (bad), Ref (good), Will (good); **Ability Scores** Str 12, Dex 16, Con 13, Int 11, Wis 9, Cha 10; **Practitioner Modifier** Int; **Skill Points per Hit Die** 4; **Class Skills** Appraise, Disguise, Disable Device, Perception, Sleight of Hand, Stealth; **Rogue Training:** Thieves may take rogue talents in place of feats and gain the following ability: *Trapfinding:* A thief cohort adds 1/2 her level to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). A thief cohort can use Disable Device to disarm magic traps. **Starting Equipment:** Studded leather armor, thieves tools, One of: 1. Simple or martial melee weapon and simple or martial ranged weapon with 20 pieces ammunition, or 2. Simple or martial melee weapon and shield.
 
 **Warrior**
-**Hit Dice**d10;**Saves**Fort (good), Ref (bad), Will (good);**Ability Scores**Str 16, Dex 12, Con 13, Int 9, Wis 10, Cha 11;**Practitioner Modifier**Con;**Skill Points per Hit Die**4;**Class Skills**Intimidate, Knowledge (dungeoneering), Knowledge (local), Knowledge (nobility), Perception, Swim;**Athlete:** Warrior cohorts gain a bonus equal to half their Hit Dice on all Climb and Swim skill checks as well as on Constitution-based ability checks.**Starting Equipment:** scale mail or studded leather armor, One of: 1. Simple or martial melee weapon and simple or martial ranged weapon with 20 pieces ammunition 2. Simple or martial melee weapon and shield
+**Hit Dice** d10; **Saves** Fort (good), Ref (bad), Will (good); **Ability Scores** Str 16, Dex 12, Con 13, Int 9, Wis 10, Cha 11; **Practitioner Modifier** Con; **Skill Points per Hit Die** 4; **Class Skills** Intimidate, Knowledge (dungeoneering), Knowledge (local), Knowledge (nobility), Perception, Swim; **Athlete:** Warrior cohorts gain a bonus equal to half their Hit Dice on all Climb and Swim skill checks as well as on Constitution-based ability checks. **Starting Equipment:** scale mail or studded leather armor, One of: 1. Simple or martial melee weapon and simple or martial ranged weapon with 20 pieces ammunition 2. Simple or martial melee weapon and shield
 
 **Woodsman**
-**Hit Dice**d10;**Saves**Fort (good), Ref (good), Will (bad);**Ability Scores**Str 12, Dex 16, Con 13, Int 9, Wis 11, Cha 10;**Practitioner Modifier**Wis;**Skill Points per Hit Die**4;**Class Skills**Knowledge (geography), Knowledge (nature), Perception, Sense Motive, Stealth, Swim;**Survivalist:** Woodsman cohorts gain a bonus equal to half their Hit Dice on all Survival skill checks.**Starting Equipment** Studded leather armor, a simple or martial melee weapon and simple or martial ranged weapon with 20 pieces ammunition
+**Hit Dice** d10; **Saves** Fort (good), Ref (good), Will (bad); **Ability Scores** Str 12, Dex 16, Con 13, Int 9, Wis 11, Cha 10; **Practitioner Modifier** Wis; **Skill Points per Hit Die** 4; **Class Skills** Knowledge (geography), Knowledge (nature), Perception, Sense Motive, Stealth, Swim; **Survivalist:** Woodsman cohorts gain a bonus equal to half their Hit Dice on all Survival skill checks. **Starting Equipment** Studded leather armor, a simple or martial melee weapon and simple or martial ranged weapon with 20 pieces ammunition
 
 When a cohort gains variable starting equipment (for example, a choice of weapons or shields) the total cost of the combined weapons, ammunition, and/or shield cannot exceed 100 gp.
 
@@ -320,7 +320,7 @@ If you possess the Merchants talent, technological items purchased from the foll
 
 If using the Downtime rules from Ultimate Campaign, your followers may generate Goods capital in place of earning gold, with 10 gp equaling 1 Good. Use your Diplomacy modifier for making the earnings checks. This stacks with capital gains from other talents.
 
-**Addendum [SUE]**: The followers can help collect materials for a Tinker sphere project. The followers can salvage once per day for materials, substituting your Diplomacy bonus for the associated skill check made to gather project materials (see Tinker sphere **Section 4.1: Mastering Gizmos**, Projects). Collected project materials must be allocated to a single Tinker sphere practitioner, who can then use those project materials normally.
+**Addendum [SUE]:** The followers can help collect materials for a Tinker sphere project. The followers can salvage once per day for materials, substituting your Diplomacy bonus for the associated skill check made to gather project materials (see Tinker sphere **Section 4.1: Mastering Gizmos**, Projects). Collected project materials must be allocated to a single Tinker sphere practitioner, who can then use those project materials normally.
 
 #### Base Of Operations (followers) [utility]
 
@@ -568,7 +568,7 @@ Once per kingdom turn, you may form an army. This army has an ACR equal to your 
 
 #### Friends In High Places (Cohort) [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 **Prerequisite:** Leadership sphere.
 
@@ -581,13 +581,13 @@ You can recruit cohorts from the outer planes themselves. Such cohorts are built
 You may recruit cohorts with the following professions:
 
 **Acolyte**
-**Hit Dice**d6;**Saves**Fort (good), Ref (bad), Will (good);**Ability Scores**Str 11, Dex 12, Con 13, Int 10, Wis 16, Cha 8;**Casting Ability Modifier**Wis;**Skill Points per Hit Die**4;**Class Skills** Diplomacy, Heal, Knowledge (nobility), Knowledge (religion), Knowledge (planes), Sense Motive
+**Hit Dice** d6; **Saves** Fort (good), Ref (bad), Will (good); **Ability Scores** Str 11, Dex 12, Con 13, Int 10, Wis 16, Cha 8; **Casting Ability Modifier** Wis; **Skill Points per Hit Die** 4; **Class Skills** Diplomacy, Heal, Knowledge (nobility), Knowledge (religion), Knowledge (planes), Sense Motive
 
 **Mage**
-**Hit Dice**d6;**Saves**Fort (bad), Ref (good), Will (good);**Ability Scores**Str 11, Dex 12, Con 13, Int 16, Wis 8, Cha 10;**Casting Ability Modifier**Int;**Skill Points per Hit Die**2;**Class Skills** Appraise, Knowledge (all), Spellcraft
+**Hit Dice** d6; **Saves** Fort (bad), Ref (good), Will (good); **Ability Scores** Str 11, Dex 12, Con 13, Int 16, Wis 8, Cha 10; **Casting Ability Modifier** Int; **Skill Points per Hit Die** 2; **Class Skills** Appraise, Knowledge (all), Spellcraft
 
 **Pact-bound**
-**Hit Dice**d6;**Saves**Fort (good), Ref (bad), Will (good);**Ability Scores**Str 11, Dex 12, Con 13, Int 10, Wis 8, Cha 16;**Casting Ability Modifier**Cha;**Skill Points per Hit Die**4;**Class Skills** Bluff, Intimidate, Knowledge (arcana), Knowledge (dungeoneering), Knowledge (planes), Use Magic Device
+**Hit Dice** d6; **Saves** Fort (good), Ref (bad), Will (good); **Ability Scores** Str 11, Dex 12, Con 13, Int 10, Wis 8, Cha 16; **Casting Ability Modifier** Cha; **Skill Points per Hit Die** 4; **Class Skills** Bluff, Intimidate, Knowledge (arcana), Knowledge (dungeoneering), Knowledge (planes), Use Magic Device
 
 All professions gain the following starting equipment: Any focus or spell components pouch required by casting tradition, a simple melee or ranged weapon with 20 pieces ammunition (Combined value less than 100 gp total)
 
@@ -621,7 +621,7 @@ If you possess the Messengers talent, your messengers can reach any location on 
 
 #### Strange Bedfellows (Cohort) [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 **Prerequisite:** Leadership sphere.
 

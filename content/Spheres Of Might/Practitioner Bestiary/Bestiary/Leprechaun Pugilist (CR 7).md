@@ -7,13 +7,13 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 3,200
 CN Small fey conscript 5
-**Init**+7;**Senses**low-light vision;**Perception** +17
+**Init** +7; **Senses** low-light vision; **Perception** +17
 
 **Defense**
-**AC**19,**touch**19,**flat-footed** 16 (+3 Dex, +1 size, +5 unarmored training)
+**AC** 19, **touch** 19, **flat-footed** 16 (+3 Dex, +1 size, +5 unarmored training)
 **hp** 74 (4d6+5D10+33)
-**Fort**+7,**Ref**+10,**Will** +9
-**DR**5/cold iron;**SR** 13
+**Fort** +7, **Ref** +10, **Will** +9
+**DR** 5/cold iron; **SR** 13
 
 **Offense**
 **Speed** 40 ft.
@@ -32,12 +32,12 @@ Leprechaun pugilists tend to begin any encounter invisible, taking time to obser
 When violence is required, the leprechaun begins by stealing critical items using the Scoundrel sphere before readying a counterpunch with the Boxing sphere, attacking from invisibility to leverage his sneak attack. Once detected, he will use Gazelle Punch to surprise foes with his reach. The leprechaun will often climb onto the backs of larger foes either at the start of combat or after the initial steal maneuver, opening them up to a devastating pummeling with sneak attack and the Dual Wielding sphere.
 
 **Statistics**
-**Str**7,**Dex**16,**Con**14,**Int**14,**Wis**15,**Cha** 16
-**Base Atk**+7;**CMB**+5;**CMD** 18
+**Str** 7, **Dex** 16, **Con** 14, **Int** 14, **Wis** 15, **Cha** 16
+**Base Atk** +7; **CMB** +5; **CMD** 18
 **Feats** Giantslayer, Great Focus, Improved Initiative, Iron Will, Toughness, Weapon Focus (unarmed strike)
-**Martial Tradition**Decisive Fist,**PAM**Cha,**DC** 16
+**Martial Tradition** Decisive Fist, **PAM** Cha, **DC** 16
 **Talents** Athletics (climb package, Mighty Conditioning, Scale Foe), Boxing (Gazelle Punch, Shoulder Roll), Dual Wielding (Critical Follow Up), Equipment (Critical Genius, Unarmored Training), Open Hand, Scoundrel
-**Skills**Acrobatics +10, Bluff +15, Climb +14, Escape Artist +15, Knowledge (nature) +9, Perception +23, Perform (comedy) +8, Perform (dance) +8, Sense Motive +14, Sleight of Hand +20, Stealth +19;**Racial Modifiers** +8 Perception, +4 Sleight of Hand
+**Skills** Acrobatics +10, Bluff +15, Climb +14, Escape Artist +15, Knowledge (nature) +9, Perception +23, Perform (comedy) +8, Perform (dance) +8, Sense Motive +14, Sleight of Hand +20, Stealth +19; **Racial Modifiers** +8 Perception, +4 Sleight of Hand
 **Languages** Common, Elven, Halfling, Sylvan
 **SQ** conscript specializations (finesse training (unarmed), resolve, sneak attack (+1d6), leprechaun magic
 

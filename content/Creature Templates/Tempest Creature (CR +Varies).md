@@ -62,7 +62,7 @@ Creatures that hit a tempest creature with natural weapons or unarmed attacks ta
 1: New Spell
 2: Pathfinder Roleplaying Game: Advanced Player’s Guide
 
-**Abilities:** Increase from the base creature as follows:**Dex**+4 (+2 to ranged attack rolls; AC and touch AC, initiative, and Reflex saves, +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs),**Con**+4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Dex** +4 (+2 to ranged attack rolls; AC and touch AC, initiative, and Reflex saves, +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs), **Con** +4 (+2 hp per HD, +2 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs).
 
 ---
 
@@ -70,7 +70,7 @@ Creatures that hit a tempest creature with natural weapons or unarmed attacks ta
 
 ### Deadly Tempest
 
-**School:** Evocation [Air, Cold, Electricity];**Level:** Drd 9, Sor/Wiz 9
+**School:** Evocation [Air, Cold, Electricity]; **Level:** Drd 9, Sor/Wiz 9
 **Casting Time:** 1 standard action
 **Components:** V, S, F (100 gp exotic feather)
 **Range:** Long (400 ft. + 40 ft./level)
@@ -88,12 +88,12 @@ If the vortex of a deadly tempest exceeds the spell’s range, you lose control 
 
 ### Wind Churn
 
-**School:** Evocation [Air];**Level:** Drd 1
+**School:** Evocation [Air]; **Level:** Drd 1
 **Casting Time:** 1 standard action
 **Components:** V, S
 **Range:** Close (25 ft. + 5 ft./2 levels)
 **Targets:** Flying creatures in range
 **Duration:** 1 round
-**Saving Throw:** Reflex negates;**Spell Resistance:** Yes
+**Saving Throw:** Reflex negates; **Spell Resistance:** Yes
 
 You cause the air around and above you to churn. While creatures on the ground merely feel a breeze, the chaotic winds buffet those in the air. All flying creatures who fail the saving throw must either land or spend the next full round keeping themselves righted. If a flying creature does neither, it falls. Creatures flying magically do not fall but merely suffer a –2 circumstance penalty to attack rolls, saving throws, and checks during that round. The spell also inflicts 1d6 points of air damage per two caster levels (maximum 5d6) to all flying creatures in range, although the Reflex saving throw negates all damage.

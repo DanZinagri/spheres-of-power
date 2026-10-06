@@ -13,15 +13,15 @@ This canine-headed humanoid’s well-groomed appearance and polished greatsword 
 XP 1,600
 Pathfinder Roleplaying Game Bestiary
 LG Medium outsider (archon, extraplanar, good, lawful, mythic)
-**Init**+4;**Senses** darkvision 60 ft., detect evil, low-light vision, scent; Perception +10
+**Init** +4; **Senses** darkvision 60 ft., detect evil, low-light vision, scent; Perception +10
 **Aura** aura of menace (DC 16), magic circle against evil
 
 #### Defense
 
-**AC**21,**touch**10,**flat-footed** 21 (+11 natural; +2 deflection vs. evil)
+**AC** 21, **touch** 10, **flat-footed** 21 (+11 natural; +2 deflection vs. evil)
 **hp** 65 (6d10+32)
-**Fort**+7,**Ref**+5,**Will** +5; +4 vs. poison, +2 resistance vs. evil
-**Defensive Abilities**tireless watchdogMA; DR 10/epic and evil;**Immune**electricity, exhaustion, fatigue, petrification, sleep effects;**SR** 17
+**Fort** +7, **Ref** +5, **Will** +5; +4 vs. poison, +2 resistance vs. evil
+**Defensive Abilities** tireless watchdogMA; DR 10/epic and evil; **Immune** electricity, exhaustion, fatigue, petrification, sleep effects; **SR** 17
 
 #### Offense
 
@@ -36,10 +36,10 @@ At will—aid, continual flame, greater teleport (self plus 50 lbs. of objects o
 
 #### Statistics
 
-**Str**15,**Dex**10,**Con**15,**Int**10,**Wis**13,**Cha** 12
-**Base Atk**+6;**CMB**+8;**CMD** 18
+**Str** 15, **Dex** 10, **Con** 15, **Int** 10, **Wis** 13, **Cha** 12
+**Base Atk** +6; **CMB** +8; **CMD** 18
 **Feats** Improved Initiative, Iron WillMF, Power Attack
-**Skills Acrobatics**+9, Intimidate +10, Perception +10, Sense Motive +10, Stealth +13, Survival +14;**Racial Modifiers** +4 Stealth, +4 Survival
+**Skills Acrobatics** +9, Intimidate +10, Perception +10, Sense Motive +10, Stealth +13, Survival +14; **Racial Modifiers** +4 Stealth, +4 Survival
 **Languages** Celestial, Draconic, Infernal; truespeech
 **SQ** change shape (beast shape II), pack leaderMA, swift stalkerMA
 

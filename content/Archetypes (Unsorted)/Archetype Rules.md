@@ -20,10 +20,10 @@ updated: 2026-01-03
 
 **Sphere Archetypes:** Many core classes include a base archetype, which usually includes the name of the class and the word ‘sphere’. This archetype converts the class to using spheres. If an archetype says it requires a sphere archetype, it means you cannot use that second archetype unless you also select the sphere archetype, as it depends on the use of spheres.
 
-#### Specialized Talent Progression [3PP]
+## Specialized Talent Progression [3PP]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 If you have a combat or magic talent progression and gain a class feature from an archetype that grants a base skill sphere as a bonus talent but not a skill talent progression, you can spend combat or magic talents as if they were skill talents, as long as they are from the sphere gained as a bonus sphere.
 
-**Special**: If you are using the Combat and Magic Talent Substitution variant rule presented in *Legends of the Spheres (Drop Dead Studios, 2023)*, you can ignore the normal limit for the number of combat or magic talents you can spend on skill talents in the sphere gained as a bonus sphere.
+**Special:** If you are using the Combat and Magic Talent Substitution variant rule presented in *Legends of the Spheres (Drop Dead Studios, 2023)*, you can ignore the normal limit for the number of combat or magic talents you can spend on skill talents in the sphere gained as a bonus sphere.

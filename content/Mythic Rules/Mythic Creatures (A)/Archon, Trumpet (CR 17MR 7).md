@@ -13,15 +13,15 @@ Lithe and beautiful, with skin the color of marble, this being hovers upon power
 XP 102,400
 Pathfinder Roleplaying Game Bestiary
 LG Medium outsider (archon, extraplanar, good, lawful, mythic)
-**Init**+14/−6MF, dual initiativeMA;**Senses** darkvision 60 ft., low-light vision; Perception +24
+**Init** +14/−6MF, dual initiativeMA; **Senses** darkvision 60 ft., low-light vision; Perception +24
 **Aura** aura of menace (DC 22), magic circle against evil
 
 #### Defense
 
-**AC**34,**touch**13,**flat-footed** 31 (+3 Dex, +21 natural; +2 deflection vs. evil)
+**AC** 34, **touch** 13, **flat-footed** 31 (+3 Dex, +21 natural; +2 deflection vs. evil)
 **hp** 245 (14d10+168)
-**Fort**+16,**Ref**+9,**Will** +16; +4 vs. poison, +2 resistance vs. evil
-**Defensive Abilities**soundproofMA; DR 10/epic and evil;**Immune**electricity, petrification, sonic;**SR** 32
+**Fort** +16, **Ref** +9, **Will** +16; +4 vs. poison, +2 resistance vs. evil
+**Defensive Abilities** soundproofMA; DR 10/epic and evil; **Immune** electricity, petrification, sonic; **SR** 32
 
 #### Offense
 
@@ -47,8 +47,8 @@ D: Domain spell; Domains Good, Law; MS: Mythic Spell
 
 #### Statistics
 
-**Str**22,**Dex**17,**Con**25,**Int**16,**Wis**24,**Cha** 17
-**Base Atk**+14;**CMB**+20;**CMD** 33
+**Str** 22, **Dex** 17, **Con** 25, **Int** 16, **Wis** 24, **Cha** 17
+**Base Atk** +14; **CMB** +20; **CMD** 33
 **Feats** Blind-FightMF, Cleave, Combat Reflexes, Improved InitiativeMF, Lightning Reflexes, Mythic Spell LoreMF, Persuasive, Power AttackMF
 **Skills** Diplomacy +24, Escape Artist +17, Fly +24, Handle Animal +20, Knowledge (religion) +20, Perception +24, Perform (wind instruments) +20, Sense Motive +26, Stealth +20
 **Languages** Celestial, Draconic, Infernal; truespeech

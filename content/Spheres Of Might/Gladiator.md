@@ -48,7 +48,7 @@ You no longer need to expend your martial focus when using your strike fear abil
 
 #### Motivational Audience [Apoc]
 
-**Source:** [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)
+*Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
 As long as you have martial focus, whenever an ally that can see you or hear you within 60 ft. would perform an action that would allow you to boast (such as confirming a critical hit, reducing an enemy to 0 or fewer hit points, etc.), you may expend your martial focus to boast as an immediate action, treating it as if you had performed the action.
 
@@ -118,7 +118,7 @@ Your allies within range may roll their next attack or combat maneuver check bef
 
 #### Flamboyant Movement (boast) [Apoc]
 
-**Source:** [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Swashbucklers](https://www.drivethrurpg.com/product/306343/Spheres-Apocrypha-Swashbucklers?affiliate_id=549120)*
 
 You confuse enemies with flirtatious gestures before your attack. The next enemy you attack before the end of your next turn must succeed at a Will save, or else they are denied their Dexterity bonus to AC against your attack. Each time the same creature attempts a save against this effect they gain a cumulative +1 bonus to the save for the next 24 hours.
 
@@ -206,7 +206,7 @@ You may escalate the effect of fear effects when you use the Intimidate skill to
 
 #### Hear Their Screams (demoralization) [SA:BG]
 
-**Source:** [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)*
 
 Whenever you attempt an Intimidate check to demoralize any number of creatures, your terrifying display causes creatures that have been successfully demoralized to begin screaming until the end of their next turn. Creatures who are screaming automatically allow any creature who can hear them to pinpoint their exact location without a Perception check, even if they are otherwise invisible. Additionally, this causes any screaming to break their stealth if they were actively stealthing. This does not negate any bonuses granted from invisibility (although it does allow creatures to pinpoint them) or any concealment the creature might have.
 
@@ -214,7 +214,7 @@ You may expend your martial focus when utilizing this talent to increase the dur
 
 #### Keep Them Low (demoralization) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 Whenever you successfully demoralize a hostile creature, you can find a loophole against a fear effect affecting 1 ally that can perceive you as an immediate action, using your Intimidate check result for determining its effects. If you demoralized multiple creatures in the same action, you can affect an equal number of allies with this ability.
 
@@ -230,7 +230,7 @@ You take no penalty on Intimidate checks against larger creatures, and larger cr
 
 #### Ominous Presence (demoralization) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When you attempt to demoralize or use strike fear on a creature, you need only be seen or heard by the creature, not both. In addition, when you use strike fear, you may make a Stealth check as part of the same action.
 
@@ -260,7 +260,7 @@ This is an extraordinary (fear) effect. You may suppress or resume this ability 
 
 #### Booming Roar (demoralization) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Gladiator Sphere, Intimidate 5 ranks
 

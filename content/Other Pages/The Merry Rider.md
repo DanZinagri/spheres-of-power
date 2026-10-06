@@ -13,13 +13,13 @@ The Merry Rider is a first-level sample character for the Mountebank class, suit
 **The Merry Rider (Dionysian Mountebank)**
 Half-elf mountebank 1
 CG Medium humanoid (elf, human)
-**Init**+3;**Senses**low-light vision,**Perception** +2
+**Init** +3; **Senses** low-light vision, **Perception** +2
 
 ## Defense
 
-**AC**15,**touch**13,**flat-footed** 12 (+2 armor, +3 Dex)
+**AC** 15, **touch** 13, **flat-footed** 12 (+2 armor, +3 Dex)
 **hp** 9 (1d8+1)
-**Fort**+1,**Ref**+5,**Will** +2. (+2 racial bonus vs. enchantment spells and effects. +2 trait bonus on Fort vs. poison and drugs, and +4 trait bonus on Fort vs. effects of alcohol)
+**Fort** +1, **Ref** +5, **Will** +2. (+2 racial bonus vs. enchantment spells and effects. +2 trait bonus on Fort vs. poison and drugs, and +4 trait bonus on Fort vs. effects of alcohol)
 **Immune** sleep
 
 ## Offense
@@ -31,39 +31,39 @@ CG Medium humanoid (elf, human)
 
 ## Magic
 
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +4
-**Tradition**Dionysian (Mind sphere; Nature sphere;**Boons:** Virtuoso, Wild Will (forest);**Drawbacks:** Skilled Casting (Perform/String, DC 16), Somatic Casting, Verbal Casting, Variant Wild Magic);**CAM** Cha
-**Spell Points**4;**Boons**Bound Creature;**Drawbacks** Focus Casting (DC 20), Witchmarked
-**Conjuration Sphere**-**DC**13;**Duration**Concentration, 1 min/level;**Range**adjacent;**Talents**Bestial;**Drawbacks** none
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +4
+**Tradition** Dionysian (Mind sphere; Nature sphere; **Boons:** Virtuoso, Wild Will (forest); **Drawbacks:** Skilled Casting (Perform/String, DC 16), Somatic Casting, Verbal Casting, Variant Wild Magic); **CAM** Cha
+**Spell Points** 4; **Boons** Bound Creature; **Drawbacks** Focus Casting (DC 20), Witchmarked
+**Conjuration Sphere** - **DC** 13; **Duration** Concentration, 1 min/level; **Range** adjacent; **Talents** Bestial; **Drawbacks** none
 - Summon
 - Bestial (form) (claws)
-**Illusion Sphere**-**DC**13;**Duration**Concentration, 1 min/level;**Range**Close (25 ft);**Talents**none;**Drawbacks** none
+**Illusion Sphere** - **DC** 13; **Duration** Concentration, 1 min/level; **Range** Close (25 ft); **Talents** none; **Drawbacks** none
 - Trick (effects, alter)
 - Illusion
-**Mind Sphere**-**DC**13;**Duration**None;**Range**Close (25 ft);**Talents**none;**Drawbacks** Animal Shaman
+**Mind Sphere** - **DC** 13; **Duration** None; **Range** Close (25 ft); **Talents** none; **Drawbacks** Animal Shaman
 - Suggestion (Lesser, Greater)
-**Nature Sphere**-**DC**13;**Duration**1 round, Concentration;**Range**Close (25 ft);**Talents** Animal Friend; Drawbacks Nature Spirit
+**Nature Sphere** - **DC** 13; **Duration** 1 round, Concentration; **Range** Close (25 ft); **Talents** Animal Friend; Drawbacks Nature Spirit
 - Animal Friend (spirit)
 
 ## Martial
 
-**Tradition**Dionysian (Alchemy sphere (formulae) package, Panacea; Barroom sphere, Charming Drunk; Equipment sphere: Rogue Weapon Training);**PAM** Cha
-**Alchemy Sphere**-**DC**13,**Packages**formulae,**Talents**Panacea,**Drawbacks** none
+**Tradition** Dionysian (Alchemy sphere (formulae) package, Panacea; Barroom sphere, Charming Drunk; Equipment sphere: Rogue Weapon Training); **PAM** Cha
+**Alchemy Sphere** - **DC** 13, **Packages** formulae, **Talents** Panacea, **Drawbacks** none
 - formulae (panacea)
-**Barroom Sphere**-**DC**13,**Talents**none,**Drawbacks** none
+**Barroom Sphere** - **DC** 13, **Talents** none, **Drawbacks** none
 - brutal breaker (don't suffer penalties w/ improvised weapons)
 - hard drinker (move action, retrieve and drink an elixir, potion, or beverage; if alcoholic gain drunk status for 2 rounds)
 -charming drinker
-**Equipment Sphere**-**DC**13,**Talents** Rogue Weapon Training
+**Equipment Sphere** - **DC** 13, **Talents** Rogue Weapon Training
 -rogue weapon training (discipline) (proficiency with blade boot, butterfly knife, garrote, hand crossbow, kukri, rapier, sap, short sword, shortbow, starknife, switchblade knife, sword cane, war razor, and whip. +2 competence bonus to Sleight of Hand checks made to conceal a weapon on your person)
-**Scoundrel sphere**-**DC**13,**Duration**None,**Talents**none,**Drawbacks** none
+**Scoundrel sphere** - **DC** 13, **Duration** None, **Talents** none, **Drawbacks** none
 - swift hands
 - marked target (-2 penalty)
 
 ## Statistics
 
-**Str**10,**Dex**16,**Con**12,**Int**12,**Wis**11,**Cha** 16
-**Base Atk**+0 (+7 with dirty trick or steal);**CMB**+0 (+3 with dirty trick or steal);**CMD** 14
+**Str** 10, **Dex** 16, **Con** 12, **Int** 12, **Wis** 11, **Cha** 16
+**Base Atk** +0 (+7 with dirty trick or steal); **CMB** +0 (+3 with dirty trick or steal); **CMD** 14
 **Traits** Compassion, Iron Liver
 **Feats** Brew Potion, Skill Focus (Perform/Strings)
 **Skills** Acrobatics +7, Bluff +7, Craft (alchemy) +5, Diplomacy +7, Heal +7, Perform (strings) +10, Sense Motive +4, Sleight of Hand +7/+9, Stealth +7
@@ -233,20 +233,20 @@ Dionysians are a variant of wild sidhe devoted to the deities of wine and nature
 ## Giant Cat Companion
 
 CG Medium animal
-**Init**+2;**Senses** Perception +0
+**Init** +2; **Senses** Perception +0
 
 **Defense**
-**AC**14,**touch**12,**flat-footed** 12 (+2 Dex, +2 natural)
+**AC** 14, **touch** 12, **flat-footed** 12 (+2 Dex, +2 natural)
 **hp** 6 (1d10+1)
-**Fort**+3,**Ref**+4,**Will** +0
+**Fort** +3, **Ref** +4, **Will** +0
 
 **Offense**
 **Speed** 40 ft.
 **Melee** bite +3 (1d6+2), 2 claws +3 (1d4+2)
 
 **Statistics**
-**Str**14,**Dex**14,**Con**13,**Int**7,**Wis**10,**Cha** 11
-**Base Atk**+1;**CMB**+3;**CMD** 15
+**Str** 14, **Dex** 14, **Con** 13, **Int** 7, **Wis** 10, **Cha** 11
+**Base Atk** +1; **CMB** +3; **CMD** 15
 
 **Feats** Weapon Finesse
 

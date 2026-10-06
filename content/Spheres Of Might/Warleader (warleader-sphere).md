@@ -61,7 +61,7 @@ As long as you hold your clan, house, nation or party’s flag, members of that 
 
 **Special:** If you have the banner class feature or other similar ability, you may treat your banner as your flag for the purposes of this talent.
 
-**Flag:** A flag is a colorful banner that bears the heraldry or symbol of a nation or organization. A character with the Warleader (Heraldry) talent who bears a flag can grant additional combat bonuses to allies inside tactics they maintain. Carrying a flag in combat requires a free hand.**Cost**10 gp**Weight** 3 lbs.
+**Flag:** A flag is a colorful banner that bears the heraldry or symbol of a nation or organization. A character with the Warleader (Heraldry) talent who bears a flag can grant additional combat bonuses to allies inside tactics they maintain. Carrying a flag in combat requires a free hand. **Cost** 10 gp **Weight** 3 lbs.
 
 #### Inside Voice [Jester's HB]
 
@@ -127,13 +127,13 @@ You may expend your martial focus to use this shout and cause all enemy creature
 
 #### Disarming Roar (shout) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents](https://www.drivethrurpg.com/product/304600/Spheres-Apocrypha-Debilitating-Talents?affiliate_id=549120)*
 
 You may expend your martial focus to cause all affected enemies to attempt a Will saving throw. On a failed save, the creature loses their martial focus. This is an instantaneous effect.
 
 #### Dispiriting Roar (shout) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 When you use this shout, all hostile creatures within its radius must succeed at a Will saving throw or have all morale bonuses benefiting them reduced by 1 for the shout’s duration. This is a mind-affecting fear effect. For every 4 ranks in Diplomacy you possess, the creature’s morale bonuses are reduced by an additional 1.
 

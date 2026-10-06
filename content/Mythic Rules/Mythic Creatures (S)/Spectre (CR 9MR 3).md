@@ -13,14 +13,14 @@ This translucent, ghostly figure fades into view from the damp mist, its face di
 XP 6,400
 Pathfinder Roleplaying Game Bestiary
 LE Medium undead (incorporeal, mythic)
-**Init**+10MF;**Senses** darkvision 60 ft.; Perception +17
+**Init** +10MF; **Senses** darkvision 60 ft.; Perception +17
 **Aura** desecrationMA (60 ft.), unnatural aura (60 ft.)
 
 #### Defense
 
-**AC**19,**touch**19,**flat-footed** 16 (+6 deflection, +3 Dex)
+**AC** 19, **touch** 19, **flat-footed** 16 (+6 deflection, +3 Dex)
 **hp** 84 (8d8+48)
-**Fort**+5,**Ref**+5,**Will** +9
+**Fort** +5, **Ref** +5, **Will** +9
 **Defensive Abilities** incorporeal, channel resistance +2; DR 5/epic
 **Weaknesses** resurrection vulnerability, sunlight powerlessness
 
@@ -35,8 +35,8 @@ At will—dancing lights, disguise self, ghost sound (DC 13)
 
 #### Statistics
 
-**Str**—,**Dex**16,**Con**—,**Int**14,**Wis**16,**Cha** 17
-**Base Atk**+6;**CMB**+6;**CMD** 21
+**Str** —, **Dex** 16, **Con** —, **Int** 14, **Wis** 16, **Cha** 17
+**Base Atk** +6; **CMB** +6; **CMD** 21
 **Feats** Blind-Fight, Improved InitiativeMF, Skill Focus (Perception), Weapon Focus (touch)MF
 **Skills** Disguise +6 (+16 with disguise self), Fly +11, Intimidate +14, Knowledge (history) +10, Knowledge (religion) +10, Perception +17, Stealth +14, Survival +11
 **Languages** Common

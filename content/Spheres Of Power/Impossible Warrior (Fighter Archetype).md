@@ -10,7 +10,7 @@ parent: "[[Spheres Of Power]]"
 
 The stories of common men able to bat away spells and shrugs off curses are often laughed at by mages. For them, real power comes from the mind or from the divine, not something as feeble as the human spirit. What these mages call absurd, the impossible warrior calls an honest day’s work. For them, magic is not mysterious omnipotent force, but a nuisance employed by tricksters and children. When they deflect spells and break curses, people ask them how they do it. And they ask why others cannot.
 
-### Impossible Answer (Ex)
+## Impossible Answer (Ex)
 
 At 2nd level, the impossible warrior gains the ability to parry spells, spell-like abilities, and sphere abilities used against him while they are being cast.
 
@@ -24,7 +24,7 @@ If the impossible warrior is helpless, nauseated, pinned, or otherwise unable to
 
 This replaces the bonus feat gained at 2nd level.
 
-### Improbable Strike (Ex)
+## Improbable Strike (Ex)
 
 At 6th level, the impossible warrior may use his impossible answer to dispel a spell, spelllike, or sphere effect currently affecting a creature or object. A successful check ends the effect, or suppresses it for 1d4 rounds if it is a permanent effect. The impossible warrior may do this as a standard action, or as a swift action when he hits with a melee attack or uses a combat maneuver on the target creature or object. Using this ability either way does not require the impossible warrior to disperse the spell or ability afterward.
 
@@ -32,13 +32,13 @@ The impossible warrior may target a specific effect if he has identified it, oth
 
 This replaces the bonus feat gained at 6th level.
 
-### Unlikely Response (Ex)
+## Unlikely Response (Ex)
 
 At 10th level, the impossible warrior can use his impossible answer to counterspell any spell, spell-like ability, or sphere ability that targets a creature or object within reach, or affects an area that he is within. This is an immediate action, and successfully using this ability negates the effect for all targets that have not yet been affected. The impossible warrior can now disperse the effect immediately as a free action instead of using an action on his next turn.
 
 This replaces the bonus feat gained at 10th level.
 
-### Unbelievable Force (Ex)
+## Unbelievable Force (Ex)
 
 At 14th level, when the impossible warrior uses improbable strike against a creature or object, he may dispel up to 1d4 effects on the target. He may name any number of effects (after having rolled to determine how many effects he will dispel) and leave the rest to be determined randomly or to have not further effects dispelled.
 
@@ -46,7 +46,7 @@ The impossible warrior may also use his improbable strike to dispel any standing
 
 This replaces the bonus feat gained at 14th level.
 
-### Unreal Riposte (Ex)
+## Unreal Riposte (Ex)
 
 At 18th level, the impossible warrior may use his impossible answer and unlikely response abilities as a free action usable outside of his turn. In addition, when he counters a spell or ability, he may use an immediate action to cause the spell or ability to affect the creature that originally used the ability as if it had targeted itself with the ability. Only the original creature is affected, even if the ability or spell countered would have originally affected multiple targets. If the ability originally affected an area, it instead affects an area that includes only the creature that originally used the ability.
 

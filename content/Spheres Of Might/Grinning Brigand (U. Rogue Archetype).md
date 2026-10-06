@@ -59,18 +59,18 @@ This creature combines the features of a sprightly girl and a black rabbit. A wi
 **Pooka (CR 2)**
 XP 600
 CN Tiny fey
-**Init**+7;**Senses** darkvision 60 ft., low-light vision; Perception +8
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; Perception +8
 
 **Defense**
-**AC**16,**touch**15,**flat-footed** 13 (+3 Dex, +1 natural, +2 size)
+**AC** 16, **touch** 15, **flat-footed** 13 (+3 Dex, +1 natural, +2 size)
 **hp** 18 (4d6+4); fast healing 2
-**Fort**+2,**Ref**+7,**Will** +5
-**DR**5/cold iron or silver;**SR** 13
+**Fort** +2, **Ref** +7, **Will** +5
+**DR** 5/cold iron or silver; **SR** 13
 
 **Offense**
 **Speed** 30 ft., fly 60 ft. (good)
 **Melee** dagger +7 (1d2/19–20)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** poison
 
 **Spell-Like Abilities** (CL 6th; concentration +7)
@@ -79,8 +79,8 @@ At will—detect magic, invisibility (self only)
 1/day—suggestion (DC 13)
 
 **Statistics**
-**Str**10,**Dex**16,**Con**13,**Int**11,**Wis**12,**Cha** 13
-**Base Atk**+2;**CMB**+3;**CMD** 13
+**Str** 10, **Dex** 16, **Con** 13, **Int** 11, **Wis** 12, **Cha** 13
+**Base Atk** +2; **CMB** +3; **CMD** 13
 **Feats** Improved Initiative, Weapon Finesse
 **Skills** Bluff +8, Diplomacy +8, Fly +18, Perception +8, Sense Motive +6, Stealth +18, Use Magic Device +6
 **Languages** Common, Sylvan; telepathy (by touch only)
@@ -89,5 +89,5 @@ At will—detect magic, invisibility (self only)
 **Special Abilities**
 **Poison (Su):** As a standard action, a pooka can blow across her palm and create a 5-foot-diameter cloud of intoxicating dust. The pooka decides when she uses this ability whether the dust acts as an inhaled poison or a mild intoxicant (equivalent to 1–2 glasses of beer).
 
-- **Pooka Dust (Su):** **Type**inhaled;**Save**Fort DC 13;**Frequency**1/round for 6 rounds;**Effect**1d2 Wis and 1d2 Cha (or intoxication);**Cure** 2 consecutive saves.
+- **Pooka Dust (Su):** **Type** inhaled; **Save** Fort DC 13; **Frequency** 1/round for 6 rounds; **Effect** 1d2 Wis and 1d2 Cha (or intoxication); **Cure** 2 consecutive saves.
 

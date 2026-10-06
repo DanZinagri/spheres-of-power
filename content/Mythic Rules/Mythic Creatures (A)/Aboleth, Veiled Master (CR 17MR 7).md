@@ -12,21 +12,21 @@ This monstrosity has a six-eyed face and six long tentacles–four ending in glo
 **Mythic Veiled Master (CR 17/MR 7)**
 XP 102,400
 LE Large aberration (aquatic, mythic, mythos, shapechanger)
-**Init**+17MF;**Senses** darkvision 120 ft., true seeingMA; Perception +23
+**Init** +17MF; **Senses** darkvision 120 ft., true seeingMA; Perception +23
 **Aura** mucus cloud (30 ft.) or mucus mistMA (30 ft.)
 
 #### Defense
 
-**AC**37,**touch**15,**flat-footed** 31 (+4 armor, +6 Dex, +18 natural, –1 size)
+**AC** 37, **touch** 15, **flat-footed** 31 (+4 armor, +6 Dex, +18 natural, –1 size)
 **hp** 272 (16d8+200); fast healing 10
-**Fort**+14,**Ref**+13,**Will** +14
-**Defensive Abilities**mirror dodgeMA; DR 10/epic;**Immune**electricity, mind-affecting effects;**Resist**cold 20;**SR** 32
+**Fort** +14, **Ref** +13, **Will** +14
+**Defensive Abilities** mirror dodgeMA; DR 10/epic; **Immune** electricity, mind-affecting effects; **Resist** cold 20; **SR** 32
 
 #### Offense
 
 **Speed** 10 ft., swim 80 ft.
 **Melee** bite +17 (2d6+6 plus consume memoryMA and slime), 2 claws +17 (1d6+6 plus consume memoryMA and slime), 4 tentacles +12 touch (4d6+3 electricity plus thoughtlanceMA)
-**Space**10 ft.;**Reach** 10 ft. (20 ft. with claws and tentacles)
+**Space** 10 ft.; **Reach** 10 ft. (20 ft. with claws and tentacles)
 **Special Attacks** delayed suggestion, mythic magicMA, mythic power (7/day, surge +1d10)
 
 **Spell-Like Abilities** (CL 20th; concentration +28)
@@ -47,8 +47,8 @@ At will—detect thoughts (DC 20), dominate person (DC 23), hypnotic pattern (DC
 
 #### Statistics
 
-**Str**22,**Dex**22,**Con**29,**Int**21,**Wis**19,**Cha** 26
-**Base Atk**+12;**CMB**+19;**CMD** 35 (can’t be tripped)
+**Str** 22, **Dex** 22, **Con** 29, **Int** 21, **Wis** 19, **Cha** 26
+**Base Atk** +12; **CMB** +19; **CMD** 35 (can’t be tripped)
 **Feats** Arcane StrikeMF, Combat Casting, Eschew MaterialsB, Extend Spell, Fabulous FigmentsMF, Improved InitiativeMF, Lightning Reflexes, Quicken Spell, Quicken Spell-Like Ability (dominate person), Spell Focus (illusion)MF
 **Skills** Knowledge (arcana, history, nature) +21, Perception +23, Sense Motive +20, Spellcraft +24, Stealth +21, Swim +33, Use Magic Device +24
 **Languages** Aboleth, Aklo, Aquan, Azlanti, Undercommon; telepathy 300 ft.

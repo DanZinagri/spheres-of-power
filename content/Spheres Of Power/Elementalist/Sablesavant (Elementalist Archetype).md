@@ -22,19 +22,19 @@ This replaces favored element, elemental defense, and elemental movement.
 
 In addition, whenever the sablesavant creates a Destruction sphere effect that targets or whose area is within a *gloom* the sablesavant created (i.e. at least one target is within the *gloom* or the area is at least partially within the *gloom*), the sablesavant may add one of the following metamagic feats to the resulting Destruction sphere effect without increasing the spell point cost or casting time: [Empower Spell](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell), [Persistent Spell](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Persistent%20Spell), [Piercing Spell](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Piercing%20Spell), or [Widen Spell](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Widen%20Spell).
 
-### Sablesavant Gifts
+## Sablesavant Gifts
 
 The following sablesavant gifts are available to the sablesavant archetype for elementalist. Unless otherwise stated, the saving throw DC of a sablesavant gift is equal to 10 + 1/2 the sablesavant’s class level + the sablesavant’s casting ability modifier.
 
 A sablesavant gift is a supernatural effect (unless otherwise stated).
 
-**Amplified Harms (Su)**: Whenever the sablesavant damages a target within a magical darkness they created (such as a Dark sphere *gloom* or other effect), the sablesavant deals additional damage equal to 1/2 their sablesavant level. This additional damage is treated as part of the initial damaging effect and is not treated as a separate source (i.e. a 6th level sablesavant deals 14 fire damage with a *destructive blast* against a target within a *gloom*; the sablesavant would deal +3 damage, treating the total damage as 17).
+**Amplified Harms (Su):** Whenever the sablesavant damages a target within a magical darkness they created (such as a Dark sphere *gloom* or other effect), the sablesavant deals additional damage equal to 1/2 their sablesavant level. This additional damage is treated as part of the initial damaging effect and is not treated as a separate source (i.e. a 6th level sablesavant deals 14 fire damage with a *destructive blast* against a target within a *gloom*; the sablesavant would deal +3 damage, treating the total damage as 17).
 
 **Amplified Harms, Destruction (requires 7th level):** When dealing damage with a *destructive blast*, the additional damage dealt by the amplified harms sablesavant gift is instead equal to their sablesavant level (instead of 1/2).
 
 **Darkness to Destruction (Su) (requires 5th level):** As part of casting a *destructive blast* sphere effect, the sablesavant may choose 1 ongoing Dark sphere effect they created to dismiss, provided the sablesavant has line of sight to the effect and the effect is not being maintained through concentration. If they do, the sablesavant reduces the total spell point cost of the *destructive blast* by 1 and the Dark sphere ability is dismissed immediately after the *destructive blast* resolves.
 
-**Deceptions (Ex)**: The sablesavant gains a bonus on Disguise and Stealth checks equal to 1/2 their sablesavant class level. This sablesavant treats this sablesavant gift as though it were the Deceitful, Skill Focus (Disguise), and Skill Focus (Stealth) feats for the purposes of prerequisites.
+**Deceptions (Ex):** The sablesavant gains a bonus on Disguise and Stealth checks equal to 1/2 their sablesavant class level. This sablesavant treats this sablesavant gift as though it were the Deceitful, Skill Focus (Disguise), and Skill Focus (Stealth) feats for the purposes of prerequisites.
 
 **Magic Talent:** The sablesavant gains 1 bonus magic talent.
 

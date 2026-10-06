@@ -22,7 +22,7 @@ Some hybrids mix the features of a humanoid and a bestial creature, walking upri
 
 **Special Attacks:** The bipedal creature retains all the special attacks of the base creature. If it is larger than the base creature, increase the damage of those special attacks as appropriate (such as rend or constrict). If it is smaller than the base creature, reduce those special attack’s damage dice accordingly.
 
-**Abilities:** Increase from the base creature as follows:**Str**+2,**Dex**+2,**Int**+4,**Wis**+2,**Cha** +4.
+**Abilities:** Increase from the base creature as follows: **Str** +2, **Dex** +2, **Int** +4, **Wis** +2, **Cha** +4.
 
 **Skills:** A bipedal creature gains skill points as a monstrous humanoids of its racial Hit Dice. If they can’t speak a language already they gain the ability to speak Common.
 

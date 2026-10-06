@@ -11,12 +11,12 @@ The sibyl elusa hounds are favored by inquisitors and investigators alike, who u
 At first glance, this magical beast looks nothing more than an arctic wolf, but as you focus in on it, its fur which appeared white or light grey at first, now clearly has a coat with a blue tint.
 XP 800
 LN Medium magical beast
-**Init**+2;**Senses**darkvision 60 ft., detect spellcaster (120 ft.), low-light vision, scent;**Perception** +5
+**Init** +2; **Senses** darkvision 60 ft., detect spellcaster (120 ft.), low-light vision, scent; **Perception** +5
 
 **Defense**
-**AC**15,**touch**12,**flat-footed** 13 (+2 Dex, +3 natural)
+**AC** 15, **touch** 12, **flat-footed** 13 (+2 Dex, +3 natural)
 **hp** 30 (4d10+8)
-**Fort**+6,**Ref**+6,**Will** +2
+**Fort** +6, **Ref** +6, **Will** +2
 **Defensive Abilities** spellhide (+3 saves vs. spells, spelllike abilities, sphere talents and abilities)
 
 **Offense**
@@ -24,10 +24,10 @@ LN Medium magical beast
 **Melee** bite +5 (1d6+1 plus trip)
 
 **Statistics**
-**Str**13,**Dex**15,**Con**15,**Int**3,**Wis**12,**Cha** 8
-**Base Atk**+4;**CMB**+5;**CMD** 17
+**Str** 13, **Dex** 15, **Con** 15, **Int** 3, **Wis** 12, **Cha** 8
+**Base Atk** +4; **CMB** +5; **CMD** 17
 **Feats** Skill Focus (Perception), Skill Focus (Survival)
-**Skills**Perception +8, Survival +8 (+12 scent tracking);**Racial Modifiers** +4 Survival when tracking by scent
+**Skills** Perception +8, Survival +8 (+12 scent tracking); **Racial Modifiers** +4 Survival when tracking by scent
 **SQ** aura tracking, detect spellcaster, spellhide
 
 **Special Abilities**

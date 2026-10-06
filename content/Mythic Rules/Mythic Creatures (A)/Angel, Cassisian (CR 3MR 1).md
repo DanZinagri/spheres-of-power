@@ -13,15 +13,15 @@ This finely crafted golden helm is decorated with intricate filigree, and flutte
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 NG Small outsider (angel, extraplanar, good, mythic)
-**Init**+0;**Senses** darkvision 60 ft., detect evil, low-light vision; Perception +5
+**Init** +0; **Senses** darkvision 60 ft., detect evil, low-light vision; Perception +5
 **Aura** lesser protective aura
 
 #### Defense
 
-**AC**15,**touch**11,**flat-footed** 15 (+4 natural, +1 size) (+2 deflection vs. evil)
+**AC** 15, **touch** 11, **flat-footed** 15 (+4 natural, +1 size) (+2 deflection vs. evil)
 **hp** 23 (2d10+12)
-**Fort**+4,**Ref**+3,**Will** +2; +4 vs. poison, +2 resistance vs. evil
-**Defensive Abilities**DR 5/cold iron or evil;**Immune**acid, cold, petrification;**Resist** electricity 10, fire 10
+**Fort** +4, **Ref** +3, **Will** +2; +4 vs. poison, +2 resistance vs. evil
+**Defensive Abilities** DR 5/cold iron or evil; **Immune** acid, cold, petrification; **Resist** electricity 10, fire 10
 
 #### Offense
 
@@ -36,8 +36,8 @@ Constant─detect evil, know direction
 
 #### Statistics
 
-**Str**3,**Dex**11,**Con**12,**Int**6,**Wis**11,**Cha** 10
-**Base Atk**+2;**CMB**–3;**CMD** 7 (can’t be tripped)
+**Str** 3, **Dex** 11, **Con** 12, **Int** 6, **Wis** 11, **Cha** 10
+**Base Atk** +2; **CMB** –3; **CMD** 7 (can’t be tripped)
 **Feats** Iron WillMF
 **Skills** Diplomacy +2, Fly +10, Knowledge (planes) +2, Knowledge (religion) +2, Perception +5, Sense Motive +4, Stealth +8
 **Languages** Celestial, Draconic, Infernal; truespeech

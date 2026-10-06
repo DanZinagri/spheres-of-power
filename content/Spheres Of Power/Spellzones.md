@@ -140,7 +140,7 @@ Destroying a spellzone is often a much more intensive affair than simply suppres
 
 ### Mage’s Helper
 
-**Aura:** Faint Divination, Nature, and Telekinesis;**CL:** 5th**Price:** 66,000 gp
+**Aura:** Faint Divination, Nature, and Telekinesis; **CL:** 5th **Price:** 66,000 gp
 
 This spellzone is commonly utilized by spellcasters in their own personal laboratories or studies, saving them time or labor. The mage’s helper spellzone covers a single room and provides the following effects.
 
@@ -155,7 +155,7 @@ Develop Spellzone, Divination sphere (Divine Information (divine)), Nature spher
 
 ### Skycity Infrastructure
 
-**Aura:** Overwhelming Creation, Enhancement, Protection, Telekinesis, and Warp;**CL:** 40th
+**Aura:** Overwhelming Creation, Enhancement, Protection, Telekinesis, and Warp; **CL:** 40th
 **Price:** 20,960,000 gp
 
 The Skycity was created by a group of mages who wished to be unreachable by their enemies, leading them to construct a metropolis at a fatal altitude. Lacking any sort of landmass, the city was built of numerous floating structures held in place by a powerful spellzone which also facilitates navigation.

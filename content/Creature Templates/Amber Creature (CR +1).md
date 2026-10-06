@@ -20,7 +20,7 @@ In a world of monstrous flora, massive pieces of amber sometimes form and are ca
 
 **Hit Dice:** Amber creatures gain bonus hit points as constructs based on their size. See the Pathfinder Roleplaying Game Bestiary.
 
-**Defensive Abilities:** Hardness (equal to its HD);**Immune** construct traits.
+**Defensive Abilities:** Hardness (equal to its HD); **Immune** construct traits.
 
 **Armor Class:** Increase natural armor by 2.
 
@@ -38,4 +38,4 @@ If the attacker is unarmed, is using a natural weapon, or fails to drop the weap
 
 **Trapped in Amber (Ex):** An amber creature must suffocate a living creature once a week or it becomes immobile (but not helpless) until it suffocates a victim. If a victim suffocates inside it, the amber creature is repaired for 1d6 hit points per HD of the victim.
 
-**Abilities:** Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength, and CMB checks, +2 to CMD),**Dex** +4 (+2 to ranged attack rolls; AC and touch AC, initiative checks and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs). As a construct, an amber creature does not have a Constitution score (reducing its bonus to hit points and Fort saves plus Con-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength, and CMB checks, +2 to CMD), **Dex** +4 (+2 to ranged attack rolls; AC and touch AC, initiative checks and Ref saves. +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs). As a construct, an amber creature does not have a Constitution score (reducing its bonus to hit points and Fort saves plus Con-based DCs).

@@ -25,7 +25,7 @@ Where applicable, a sphere referenced in this section refers to the Polished ver
 
 #### Augmentor Specialist
 
-**Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)
+*Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
 
 *Your classical training taught you that the embellishments to the magic you create should be anything but ordinary.*
 **Category** Magic
@@ -34,7 +34,7 @@ Spellcraft is always a class skill for you. In addition, once per day, you may r
 
 #### Shadow of Doubt
 
-**Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)
+*Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
 
 *You have a talent for creating those flickers in the dark,*
 **Category** Magic
@@ -45,7 +45,7 @@ You gain a +1 trait bonus to caster level with the Dark sphere and 1 other magic
 
 #### Night Watch
 
-**Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)
+*Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
 
 *You were regularly placed on the night watch, staring out into the darkness to watch for the hungering monsters which lurked beyond the wall.*
 **Category** Region
@@ -56,7 +56,7 @@ You gain darkvision 5 feet, increasing by +5 feet per 4 Hit Dice. If you already
 
 #### Anonymity’s Shadow
 
-**Source:** [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)
+*Source: [Diamond Polished Spheres: Dark Sphere](https://www.drivethrurpg.com/en/product/492540/diamond-polished-spheres-dark-sphere?affiliate_id=3028400)*
 
 *The night hides your face and your intentions.*
 **Category** Social

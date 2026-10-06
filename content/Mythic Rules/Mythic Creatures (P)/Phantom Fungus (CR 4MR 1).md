@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (P)]]"
 XP 1,200
 Pathfinder Roleplaying Game Bestiary 3
 N Medium plant (mythic)
-**Init**+0;**Senses** blindsight 30 ft., low-light vision, tremorsense 60 ft.; Perception +9
+**Init** +0; **Senses** blindsight 30 ft., low-light vision, tremorsense 60 ft.; Perception +9
 
 #### Defense
 
-**AC**16,**touch**10,**flat-footed** 16 (+6 natural)
+**AC** 16, **touch** 10, **flat-footed** 16 (+6 natural)
 **hp** 38 (4d8+20)
-**Fort**+7,**Ref**+1,**Will** +1
-**Defensive Abilities**phantom flesh;**Immune** plant traits
+**Fort** +7, **Ref** +1, **Will** +1
+**Defensive Abilities** phantom flesh; **Immune** plant traits
 
 #### Offense
 
@@ -28,10 +28,10 @@ N Medium plant (mythic)
 
 #### Statistics
 
-**Str**15,**Dex**10,**Con**16,**Int**2,**Wis**11,**Cha** 9
-**Base Atk**+3;**CMB**+5;**CMD** 15 (17 vs. trip)
+**Str** 15, **Dex** 10, **Con** 16, **Int** 2, **Wis** 11, **Cha** 9
+**Base Atk** +3; **CMB** +5; **CMD** 15 (17 vs. trip)
 **Feats** Skill Focus (Perception), Skill Focus (Stealth)MF
-**Skills**Climb +10, Perception +9, Stealth +11;**Racial Modifiers** +4 Stealth
+**Skills** Climb +10, Perception +9, Stealth +11; **Racial Modifiers** +4 Stealth
 **SQ** rootingMA
 
 #### Special Abilities

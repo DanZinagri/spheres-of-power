@@ -17,24 +17,24 @@ NE Large humanoid (aquatic, giant, mythic)
 
 #### Defense
 
-**AC**18,**touch**13,**flat-footed** 14 (+4 Dex, +5 natural, –1 size)
+**AC** 18, **touch** 13, **flat-footed** 14 (+4 Dex, +5 natural, –1 size)
 **hp** 38 (4d8+20)
-**Fort**+7,**Ref**+5,**Will** +3
+**Fort** +7, **Ref** +5, **Will** +3
 
 #### Offense
 
 **Speed** 40 ft., swim 40 ft.
 **Melee** 2 claws +6 (1d6+4 plus grab)
 **Ranged** harpoon +6 (2d6+4/x3)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** hooked harpoonMA, mythic power (1/day, surge 1d6), rendMA (2 claws, 1d6+6)
 
 #### Statistics
 
-**Str**19,**Dex**18,**Con**17,**Int**6,**Wis**10,**Cha** 7
-**Base Atk**+3;**CMB**+8 (+12 grapple);**CMD** 22
+**Str** 19, **Dex** 18, **Con** 17, **Int** 6, **Wis** 10, **Cha** 7
+**Base Atk** +3; **CMB** +8 (+12 grapple); **CMD** 22
 **Feats** Iron WillMF, Power Attack
-**Skills**Perception +5, Stealth +2 (+6 in water), Swim +12;**Racial Modifiers** +4 Stealth in water
+**Skills** Perception +5, Stealth +2 (+6 in water), Swim +12; **Racial Modifiers** +4 Stealth in water
 **Languages** Giant
 **SQ** amphibious
 
@@ -54,13 +54,13 @@ NE Large humanoid (aquatic, giant, mythic)
 XP 3,200
 Pathfinder Roleplaying Game Bestiary 2
 NE Huge humanoid (aquatic, giant, mythic)
-**Init**+3;**Senses** low-light vision; Perception +7
+**Init** +3; **Senses** low-light vision; Perception +7
 
 #### Defense
 
-**AC**22,**touch**11,**flat-footed** 19 (+3 Dex, +11 natural, –2 size)
+**AC** 22, **touch** 11, **flat-footed** 19 (+3 Dex, +11 natural, –2 size)
 **hp** 97 (7d8+66)
-**Fort**+11,**Ref**+5,**Will** +4
+**Fort** +11, **Ref** +5, **Will** +4
 **Defensive Abilities** DR 5/epic
 
 #### Offense
@@ -68,15 +68,15 @@ NE Huge humanoid (aquatic, giant, mythic)
 **Speed** 40 ft., swim 40 ft.
 **Melee** 2 claws +10 (2d6+7 plus grab)
 **Ranged** harpoon +6 (3d6+7/x3)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** hooked harpoonMA, hullcrackerMA, mythic power (3/day, surge 1d6), rendMA (2 claws, 2d6+10), toss overboardMA
 
 #### Statistics
 
-**Str**25,**Dex**16,**Con**23,**Int**6,**Wis**10,**Cha** 7
-**Base Atk**+5;**CMB**+14 (+18 grapple);**CMD** 27
+**Str** 25, **Dex** 16, **Con** 23, **Int** 6, **Wis** 10, **Cha** 7
+**Base Atk** +5; **CMB** +14 (+18 grapple); **CMD** 27
 **Feats** Improved Natural Attack (claw), Iron WillMF, Power AttackMF, Vital Strike
-**Skills**Perception +7, Stealth –2 (+2 in water), Swim +15;**Racial Modifiers** +4 Stealth in water
+**Skills** Perception +7, Stealth –2 (+2 in water), Swim +15; **Racial Modifiers** +4 Stealth in water
 **Languages** Giant
 **SQ** amphibious
 

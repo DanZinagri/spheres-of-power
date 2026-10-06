@@ -59,13 +59,13 @@ You can take this talent a second time. If you do, it gains the [plan] tag and y
 
 #### Brazen Misdirection [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can draw hidden weapons as a move action (instead of as a standard action), or as a swift action if you could already do so (such as with the Quick Draw feat).
 
 Additionally, while maintaining the confident subtlety approach, you can use Sleight of Hand instead of Bluff when attempting to feint or pass a secret message without being noticed—doing so causes such uses to rely on visual components (and therefore may limit the messages you can convey).
 
-**Associated Feat**: Manipulative Agility (*Ultimate Intrigue*).
+**Associated Feat:** Manipulative Agility (*Ultimate Intrigue*).
 
 #### Busy Hands
 
@@ -95,7 +95,7 @@ You can take this talent multiple times. Each time you do, you choose a differen
 
 #### Confident Dexterity [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 When you adopt the confident subtlety approach, you also gain a +2 bonus to Sleight of Hand checks made to conceal an object or to lift or plant an item on a creature, increasing by +1 per 4 associated ranks you possess.
 
@@ -123,7 +123,7 @@ You can use fast disguise as a standard action and never take a penalty for crea
 
 #### Left It At Home [plan] [utility] [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can reveal this plan as an immediate action by revealing that an item that you once possessed is no longer in your possession. You decide when the plan is revealed where the item is actually located—this could be a location you generally frequent (such as a personal abode) or an ally, but you must not have used such an object since you last frequented the area.
 
@@ -137,7 +137,7 @@ When you fail at a Sleight of Hand check targeting a creature by 5 or less, the 
 
 #### Quick Flick [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can pick up an unattended object as a swift action or as part of a move action made to move (or as a free action if you are maintaining the confident subtlety approach) without provoking attacks of opportunity. You can choose to drop, sheath, or stow an object you are holding as part of picking up an item this way.
 
@@ -145,7 +145,7 @@ Additionally, whenever you lift or plant an item on a creature, you can move 5 f
 
 #### Reactive Disarm [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Whenever a creature would make a ranged attack within your natural reach (excluding siege engines), you can attempt a Sleight of Hand check against the creature’s CMD by expending an attack of opportunity. If you succeed, you pluck the ammunition from the weapon used and negate the attack—if the attack is made with a firearm, you take a -10 penalty to this attempt (although you can negate this penalty by outwitting the creature as a cost), but on a success you also empty all ammunition loaded in the weapon.
 
@@ -307,7 +307,7 @@ You can use fast disguise as a move action.
 
 #### Mimic Style [plan] [utility] (Su) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisites:** Subterfuge sphere.
 
@@ -317,7 +317,7 @@ You can also choose to reveal this as a plan, with the assumption being that you
 
 #### Sequester Identity (disguise) [utility] (Su) [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisites:** Associated ranks 5, Subterfuge sphere (Mimic Style).
 

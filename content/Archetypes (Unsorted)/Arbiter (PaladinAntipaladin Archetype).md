@@ -36,7 +36,7 @@ This alters detect evil (for paladins) or detect good (for antipaladins).
 - Detect Adversary ([[Avowed (PaladinAntipaladin Archetype)|Avowed]])
 - Detect Chronomancy ([[Time Knight (Paladin Archetype)|Time Knight]])
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 ## Divine Envoy (Su)
 

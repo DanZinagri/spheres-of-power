@@ -13,27 +13,27 @@ This large, brown, horse-like creature has a hawk’s wings, talons, and hooked 
 XP 800
 Pathfinder Roldeplaying Game Bestiary 2
 N Large magical beast (mythic)
-**Init**+5;**Senses** darkvision 60 ft., low-light vision, scent; Perception +11
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, scent; Perception +11
 
 #### Defense
 
-**AC**21,**touch**16,**flat-footed** 14 (+4 Dex, +2 dodge, +5 natural, –1 size)
+**AC** 21, **touch** 16, **flat-footed** 14 (+4 Dex, +2 dodge, +5 natural, –1 size)
 **hp** 48 (4d10+26)
-**Fort**+8,**Ref**+9,**Will** +4
+**Fort** +8, **Ref** +9, **Will** +4
 
 #### Offense
 
 **Speed** 40 ft., fly 100 ft. (average)
 **Melee** bite +7 (1d6+4), 2 claws +7 (1d4+4)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (1/day, surge 1d6), piercing screechMA
 
 #### Statistics
 
-**Str**19,**Dex**20,**Con**18,**Int**2,**Wis**16,**Cha** 13
-**Base Atk**+4;**CMB**+9;**CMD** 25 (29 vs. trip)
+**Str** 19, **Dex** 20, **Con** 18, **Int** 2, **Wis** 16, **Cha** 13
+**Base Atk** +4; **CMB** +9; **CMD** 25 (29 vs. trip)
 **Feats** DodgeMF, Wingover
-**Skills**Fly +9, Perception +11;**Racial Modifiers** +4 Perception
+**Skills** Fly +9, Perception +11; **Racial Modifiers** +4 Perception
 **SQ** aerial aidMA
 
 #### Ecology

@@ -20,7 +20,7 @@ Half-rakshasas look like their mortal parent with a few minor alterations. Most 
 
 **Armor Class:** A half-rakshasa’s natural armor improves by 3.
 
-**Special Abilities:** A half-rakshasa retains the qualities of the base creature, as well as gaining darkvision 60 ft.;**immunity**to poison;**resist** acid, cold, electricity and fire 10.
+**Special Abilities:** A half-rakshasa retains the qualities of the base creature, as well as gaining darkvision 60 ft.; **immunity** to poison; **resist** acid, cold, electricity and fire 10.
 
 **Speed:** Increase the base land speed of the half-rakshasa by 10 feet.
 

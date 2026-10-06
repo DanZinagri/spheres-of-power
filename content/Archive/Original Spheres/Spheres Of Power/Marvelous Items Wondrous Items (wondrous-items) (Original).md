@@ -34,26 +34,26 @@ Instead, see the following pages for specific examples of items that aren't Wond
 
 #### Sporran of Rations [High. HB]
 
-**Price**400 gp;**Slot**belt;**CL**1st;**Weight**1/2 lbs.;**Aura** faint Nature
+**Price** 400 gp; **Slot** belt; **CL** 1st; **Weight** 1/2 lbs.; **Aura** faint Nature
 
 A highland leather pouch, normally worn with a kilt around the waist. 1/day on command, the sporran of rations provides enough poor quality food to feed three Medium-sized creatures or a horse for one day. The food take the form of bland oats.
 
-**Cost**200 gp;**Feats**Craft Marvelous Item;**Spells** Nature sphere
+**Cost** 200 gp; **Feats** Craft Marvelous Item; **Spells** Nature sphere
 
 # Eyes Slot
 
 #### Contrast Spectacles
 
-**Aura**faint Divination;**CL** 3
-**Slot**eyes;**Price** 2,000 gp
+**Aura** faint Divination; **CL** 3
+**Slot** eyes; **Price** 2,000 gp
 The light pair of wire-rimmed lenses reveal natural levels of illumination from unnatural, even in conditions where the wearer can not otherwise see. Contrast spectacles instantly reveal the location and boundaries of all areas of darkness, blot, and glow, even if they don’t change the ambient lighting conditions. As a swift action the wearer may attempt a Spellcraft check to identify any active (darkness), (blot), (glow), and (nimbus) talents. This does not grant low-light vision or darkvision, nor does it allow the wearer to notice magical lighting conditions through physical barrier to vision. The Obfuscation talent thwarts the effects of contrast spectacles.
 **Construction Requirements**
 Craft Wondrous Item, Divination sphere; Cost 1,000 gp
 
 #### Goggles of Magic Sight
 
-**Aura**faint Divination;**CL** 1th
-**Slot**eyes;**Price**1,200 gp;**Weight** 1 lb.
+**Aura** faint Divination; **CL** 1th
+**Slot** eyes; **Price** 1,200 gp; **Weight** 1 lb.
 **Description**
 This goggles look like simple goggles used by fliers, but closer inspection reveals that the glasses can be rotated. Moving both glasses to the right position provides the effects of the standard divine effect of the Divination sphere. The effect persists until the user ceases concentration, after which both glasses snap back to their original position. These goggles can be used 3 times per day.
 **Construction Requirements**
@@ -65,8 +65,8 @@ Craft Marvelous Item, Divination sphere; **Cost** 600 gp
 
 #### Earth Warrior’s Boots
 
-**Aura**faint Life;**Caster Level** 2nd
-**Slot**Feet;**Price**4,000 gp;**Weight** —
+**Aura** faint Life; **Caster Level** 2nd
+**Slot** Feet; **Price** 4,000 gp; **Weight** —
 **Description**
 These sturdy leather boots are prized by mercenaries who can’t afford the services of a healer. When standing upright on solid soil or stone, slamming the heel of either boot into the ground (a free action) will grant the wearer fast healing 1 for 2 minutes. Each boot can be used once per day, and can be used at the same time or separately (the effect stacks with itself). Both boots must be worn for the magic to be effective. The boots also grant DR 5/magic versus anything harmful that the wearer steps on that are environmental in nature, or traps that attack from beneath the wearer.
 **Construction Requirements**
@@ -78,8 +78,8 @@ Craft Wondrous Item, Life sphere, Revitalize; Cost 2,000 gp
 
 #### Entropic Gloves
 
-**Aura**moderate Destruction;**CL** 12
-**Slot**hands;**Price**60,000 gp;**Weight** -
+**Aura** moderate Destruction; **CL** 12
+**Slot** hands; **Price** 60,000 gp; **Weight** -
 **Description**
 Once per round, when you use a sphere ability that deals hit point damage, you do an extra point of damage per caster level. This is a free action.
 **Construction Requirements**
@@ -88,8 +88,8 @@ Craft Marvelous Item, Destruction sphere; **Cost** 30,000 gp
 #### Gloves of the Trickster
 
 These fingerless white leather gloves are usually are form fitting, and slip with ease.
-**Aura**faint Illusion and Telekinesis;**CL** 8th
-**Slot**hands;**Price**20,000 gp;**Weight** —
+**Aura** faint Illusion and Telekinesis; **CL** 8th
+**Slot** hands; **Price** 20,000 gp; **Weight** —
 **Description**
 These leather gloves work best when used together as a set. While worn separately, they grant the wearer either a +1 enhancement bonus to caster level with either the Illusion or Telekinesis spheres (chosen at random each time they put the glove on). If both are worn by the same creature however, they grant a +2 enhancement bonus to caster level with both the Illusion and Telekinesis spheres. Gloves of the tricksters are crafted as a set, and are thus only bought and sold in pairs.
 **Construction Requirements**
@@ -97,8 +97,8 @@ Craft Implement of Power, Illusion sphere, Telekinesis sphere; **Cost** 10,000 g
 
 #### Shadow-Dipping Gloves
 
-**Aura**weak Dark;**CL** 5
-**Slot**Hands;**Price** 5,000 gp
+**Aura** weak Dark; **CL** 5
+**Slot** Hands; **Price** 5,000 gp
 These skin-tight kid gloves look more like a coating of liquid pitch than a typical article of clothing. Donning a pair of shadow-dipping gloves allows to wearer to make pickpocket checks and Steal combat maneuvers in order to take items stored in another person’s Shadow Stash or to surreptitiously deposit items into it. The gloves grant the wearer the ability to use her own shadow as a Shadow Stash with a caster level of 5th, even if she does not have access to the Dark sphere and Shadow Stash talent. If she has the Shadow Stash talent, she is treated as if she has taken it a second time. If she has taken the Shadow Stash talent twice, shadow-dipping gloves provide no benefit.
 **Construction Requirements**
 Craft Wondrous Item, Dark sphere, Shadow Stash; Cost 2,500 gp
@@ -109,8 +109,8 @@ Craft Wondrous Item, Dark sphere, Shadow Stash; Cost 2,500 gp
 
 #### Headband of Ill Fortune
 
-**Aura**faint Fate;**CL** 5th
-**Slot**headband;**Price**10,000;**Weight** -
+**Aura** faint Fate; **CL** 5th
+**Slot** headband; **Price** 10,000; **Weight** -
 **Description**
 When a creature wears this headband, once per day they may look at a creature within Close range and curse them as an immediate action, forcing them to roll an attack roll, skill check, ability check, or saving throw twice and take the lower result.
 **Construction Requirements**
@@ -122,9 +122,9 @@ Craft Wondrous Item, Fate Sphere; Cost 5,000 gp
 
 #### Amulet of Primal Protection
 
-**Aura**faint Enhancement and Protection;**CL** 5th;
-**Slot**Neck;**Weight** .1 lbs.;
-**Scaling**Wonder;**Type** wonder
+**Aura** faint Enhancement and Protection; **CL** 5th;
+**Slot** Neck; **Weight** .1 lbs.;
+**Scaling** Wonder; **Type** wonder
 This amulet appears to be small shield made of teeth, and is often found in the possession of the holy warriors of the primal world. Source: The Abjurer's Handbook
 
 **5th Level - 3,150 gp:** The wearer gains the benefit of the Improved Unarmed Strike feat.
@@ -146,8 +146,8 @@ This amulet appears to be small shield made of teeth, and is often found in the 
 
 #### Amulet of the Revealing Eye
 
-**Aura**faint Divination and Light;**CL** 3
-**Slot**neck;**Price**10,800 gp;**Weight** -;
+**Aura** faint Divination and Light; **CL** 3
+**Slot** neck; **Price** 10,800 gp; **Weight** -;
 **Description**
 Three times per day, you may activate this amulet as a standard action. Doing so produces a 60-ft. cone of bright light for 3 rounds that reveals all hidden creatures and objects as well as anything expressly designed to be hidden. Creatures and objects lose all the benefits of invisibility for as long as they are within the area of bright light. Hidden objects include secret doors, hidden caches, and secret compartments. Not only does this detect the presence of such secrets, but it also gives you knowledge of their trigger mechanisms. This only detects doors, passages, and openings specifically designed to avoid detection. The orientation of the cone may be changed once per turn as a free action.
 **Construction Requirements**
@@ -155,8 +155,8 @@ Craft Marvelous Item; Light sphere, Divination sphere, **Cost** 5,400 gp
 
 #### Matrix of Order
 
-**Slot**neck;**Aura**faint protection;**CL** 6th;
-**Weight**1 lb.** Price** 8,000 gp
+**Slot** neck; **Aura** faint protection; **CL** 6th;
+**Weight** 1 lb. **Price** 8,000 gp
 
 This necklace appears to hold a modestly sized crystal, but closer inspection reveals the crystal to be an impossible complex lattice of smaller crystal filaments designed to trap and hold the excess energy of a wild magic event. Once per day, when the wearer of a matrix of order triggers a wild magic event (but not a major event), as a free action that may be taken even when it is not his turn, he may choose to negate the event. This decision must be made before the roll is made on the wild magic table. Once used, the matrix sheds light as a torch for 1 hour, then as a candle for 6 hours as it bleeds away the trapped magical energies. A matrix of order must be worn for 24 hours to be attuned.
 **Construction Requirements**
@@ -164,8 +164,8 @@ Craft Wondrous Item, Protection sphere; Cost 4,000 gp
 
 #### Necklace of the Healed Soul
 
-**Slot**Neck;**Aura**faint Fate Life;**CL** 3rd;
-**Weight**1/2 lbs.;**Scaling**Prize;**Price** 400 gp
+**Slot** Neck; **Aura** faint Fate Life; **CL** 3rd;
+**Weight** 1/2 lbs.; **Scaling** Prize; **Price** 400 gp
 
 This necklace, is a thin platinum chain interwoven with small diamonds with a single charge that refreshes each day. The wearer as a standard action, may use the restore Life sphere ability by spending a single charge. When using sphere talents or abilities from the necklace they are considered to have CL 1st.
 **4th Level - 900 gp:** The wearer of the necklace of the healed soul can now use restore with the Greater Restore talent. The wearer uses the necklace sphere talents or abilities at CL 2nd.
@@ -183,16 +183,16 @@ Craft Rod, Craft Wondrous Item, Fate sphere, Life sphere, Break Enchantment, Gre
 
 #### Obsidian Key
 
-**Aura**weak Dark;**CL** 5
-**Slot**Neck;**Price** 3,000 gp
+**Aura** weak Dark; **CL** 5
+**Slot** Neck; **Price** 3,000 gp
 This faceted key is carved from volcanic glass and hangs around the wearer’s neck on thread of spider silk. Each obsidian key is must be attuned to a particular Dark sphere user in a ritual using a small sample of the caster’s blood, hair, or similar token piece of her body. Once attuned, a creature donning the obsidian key is treated as having the Clearsight and Darkvision melds with respect to the attuned Dark sphere user’s areas of darkness or blot. As a swift action, the wearer may immediately dispel all ongoing darkness, blot, or shadow effects within medium range that were created by the attuned caster, at which time the obsidian key becomes non-magical.
 **Construction Requirements**
 Craft Wondrous Item, Dark sphere; Cost 1,500 gp
 
 #### Token of Fey Affection
 
-**Aura**moderate Warp;**CL** 10th
-**Slot**neck;**Price**20,000 gp;**Weight** -
+**Aura** moderate Warp; **CL** 10th
+**Slot** neck; **Price** 20,000 gp; **Weight** -
 **Description**
 This small necklace contains a single, small gemstone, and is often given by Fey creatures to their mortal lovers or champions. Once per day, when the wearer of the token is reduced to 0 hp or fewer (or, when the wearer simply desires it), they are instantly teleported to the creature who gave them the token, provided they are on the same plane of existence.
 
@@ -206,8 +206,8 @@ Craft Wondrous Item, Warp Sphere; Cost 10,000 gp
 
 #### Dashing Cloak
 
-**Aura**faint Warp;**CL** 5th
-**Slot**shoulders;**Price**5,200 gp;**Weight** 1 lb.
+**Aura** faint Warp; **CL** 5th
+**Slot** shoulders; **Price** 5,200 gp; **Weight** 1 lb.
 **Description**
 The silver embroidery on this fine purple cloak seems to twist and shift in the light. A dashing cloak has five charges which are renewed each day at dawn, represented by five symbols in the embroidery. Spending 1 or more charges causes one of the symbols to grow still and allows the wearer to teleport to any place they have line of effect and line of sight to, up to a maximum range of 30 feet. The action it takes to teleport depends on how many charges are spent.
 
@@ -220,8 +220,8 @@ Craft Wondrous Item, Warp sphere, Quick Teleport; **Cost** 2,600 gp
 
 #### Windwalker Cape
 
-**Aura**faint Warp;**CL** 5th
-**Slot**shoulders;**Price**30,000;**Weight** 1 lb.
+**Aura** faint Warp; **CL** 5th
+**Slot** shoulders; **Price** 30,000; **Weight** 1 lb.
 **Description**
 The windwalker cape flows gently in the breeze, even when no breeze is present. The bearer of the windwalker cape may easily slip between spaces, teleporting anywhere within 150 ft that he can see as a move action. The windwalker cape is usable 3 times per day.
 **Construction Requirements**
@@ -233,8 +233,8 @@ Craft Wondrous Item, Warp Sphere; Cost 15,000 gp
 
 #### Archmage’s Cube of Gaming
 
-**Aura**strong creation**CL** 17th
-**Slot**none;**Price**85,000 gp;**Weight** 1 lbs.
+**Aura** strong creation **CL** 17th
+**Slot** none; **Price** 85,000 gp; **Weight** 1 lbs.
 
 **Description**
 An archmage’s cube of gaming functions as a wizard’s cube of gaming except that the game has a +8 bonus to Intelligence, Wisdom, and Charisma related checks, the bonus for winning and penalty for intentionally losing increases to +2 and -2 respectively. Additionally, once per day a wager can be declared with another command word. Every loser of the game that a wager is declared in is immediately subject to the Greater Geas talent as if cast by the winner. A game that a wager was declared on must be played to completion and everyone who sat down to play is immediately subject to a Greater Geas to play the game to completion.
@@ -244,8 +244,8 @@ Craft Wondrous Item, Creation sphere, Fate sphere, greater geas; **Cost** 47,500
 
 #### Banner of the Warlord
 
-**Aura**moderate War;**CL** 10;
-**Slot**slotless;**Price**30,000 gp;**Weight** .1 pounds
+**Aura** moderate War; **CL** 10;
+**Slot** slotless; **Price** 30,000 gp; **Weight** .1 pounds
 **Description**
 This ornate strip of cloth is small enough to tie around a weapon but colorful enough to be seen easily from a distance. Although worn and frayed around the edges, the cloth is magically clean and its colors never run. It has 10 hit points per inch of thickness, and, impossibly, has a hardness of 30.
 
@@ -259,8 +259,8 @@ Craft Wondrous Item, War sphere; Cost 15,000 gp
 
 #### Banner of the Warlord, Major
 
-**Aura**strong War;**CL** 20;
-**Slot**slotless;**Price**60,000 gp;**Weight** .1 pounds
+**Aura** strong War; **CL** 20;
+**Slot** slotless; **Price** 60,000 gp; **Weight** .1 pounds
 **Description**
 This is a the same as a banner of the warlord, but its effective caster level is 20.
 **Construction Requirements**
@@ -268,8 +268,8 @@ Craft Wondrous Item, War sphere; Cost 30,000 gp
 
 #### Banner of the Warlord, Minor
 
-**Aura**moderate War;**CL** 5;
-**Slot**slotless;**Price**15,000 gp;**Weight** .1 pounds
+**Aura** moderate War; **CL** 5;
+**Slot** slotless; **Price** 15,000 gp; **Weight** .1 pounds
 **Description**
 This is a the same as a banner of the warlord, but its effective caster level is 5.
 **Construction Requirements**
@@ -277,8 +277,8 @@ Craft Wondrous Item, War sphere; Cost 7,500 gp
 
 #### Divine Symbol
 
-**Aura**faint Fate;**CL** 1st
-**Slot**holy symbol;**Price**500 gp;**Weight** -
+**Aura** faint Fate; **CL** 1st
+**Slot** holy symbol; **Price** 500 gp; **Weight** -
 **Description**
 A divine symbol is a holy symbol that is especially attuned to 4-5 domains of a particular deity. To activate the divine symbol, the user must possess two or more of the attuned domains and expend a use of channel energy. Activating the channel focus will grant a +1 profane or sacred bonus to caster level to the spheres matching the attuned domains for 1 hour. Deities that channel positive energy grant sacred bonuses, while those that channel negative energy grant profane bonuses. Deities that can channel both or either or types of energy have their divine symbol’s bonus type chosen when it is created.
 **Construction Requirements**
@@ -286,7 +286,7 @@ Forge Charm, channel energy; **Cost** +250 gp
 
 #### Dowsing Rods
 
-**Aura**moderate Divination;**CL** 11th
+**Aura** moderate Divination; **CL** 11th
 
 This pair of rods is used in divining the location of various objects, such as gems, metals or even water. Dowsing rods are made with a specific purpose upon its creation - see the table below for examples of available dowsing rods.
 
@@ -322,8 +322,8 @@ Craft Wondrous Item, Dowsing; Price: 1,000 gp
 
 #### Dragon’s Tooth
 
-**Aura**faint Creation;**Caster Level** 1st
-**Slot**none;**Price**500 gp;**Weight** 1 lb.
+**Aura** faint Creation; **Caster Level** 1st
+**Slot** none; **Price** 500 gp; **Weight** 1 lb.
 
 **Description**
 The origin of these items are shrouded in myth, tales of warriors springing from the ground were the teeth of a dragon are sown. You may place on of these teeth on a flat surface as a standard action; at the start of your next turn, it becomes a warrior cohort with 1 Hit Die. This is an instantaneous effect that destroys the item. You may recruit this warrior as a free action. If not recruited by the end of your next turn, it becomes hostile. The cohort has no recollection of any past prior to the item being activated. The cohort’s race and tradition are determined when the item is created.
@@ -335,8 +335,8 @@ Craft Wondrous Item, Leadership sphere; Cost 250 gp
 
 #### Foci of the Diviner
 
-**Aura**faint divination;**CL** 2nd;
-**Slot**none;**Price**150 gp;**Weight**1 lb.;**Scaling** prize1
+**Aura** faint divination; **CL** 2nd;
+**Slot** none; **Price** 150 gp; **Weight** 1 lb.; **Scaling** prize1
 This particular focus is made and sold in various different shapes, the most common of which is a wooden box containing either a complete deck of harrow cards or set of runes. If any of the harrow cards or runes move more than 400 ft from the box or becomes damaged those cards or runes rematerialize inside the box undamaged.
 
 - 4th Level – 900 gp: While the owner is touching a harrow card or rune, she gains a +1 enhancement bonus to her caster level with Divination sphere talents and abilities.
@@ -356,8 +356,8 @@ Craft Wondrous Item, Divination Sphere, Enhancement Sphere, Cost 66,000 GP
 
 #### Hedgewitch’s Cube of Gaming
 
-**Aura**moderate creation**CL** 7th
-**Slot**none;**Price**500 gp;**Weight** 1 lbs.
+**Aura** moderate creation **CL** 7th
+**Slot** none; **Price** 500 gp; **Weight** 1 lbs.
 
 A hedgewitch’s cube of gaming functions as a wizard’s cube of gaming except that the game only has a +3 bonus to Intelligence and Wisdom related checks, and winning only provides a +1 bonus to the skill or ability check used to win the game (or a +1 luck bonus to all ability checks if the game is won with luck).
 **Construction Requirements**
@@ -365,8 +365,8 @@ Craft Wondrous Item, Creation sphere, Fate sphere; **Cost** 250 gp
 
 #### Last Musicbox
 
-**Aura**moderate Fate;**CL** 1oth
-**Slot**none;**Price**20,000;**Weight** 2 lbs.
+**Aura** moderate Fate; **CL** 1oth
+**Slot** none; **Price** 20,000; **Weight** 2 lbs.
 **Description**
 This small mechanical box plays a haunting melody when opened, and is decorated with images of angels and demons locked in combat. Whenever a creature within 50 ft of the music box hears the melody for at least one uninterrupted minute, one of the following happens:
 
@@ -388,16 +388,16 @@ A menhir’s base price is equal to its bonus squared x 5,000 gp. To create a me
 
 #### Mutchkin Flask [High. HB]
 
-**Price**1,600 gp;**Slot**none;**CL**2nd;**Weight**1/2 lbs.;**Aura** faint Creation
+**Price** 1,600 gp; **Slot** none; **CL** 2nd; **Weight** 1/2 lbs.; **Aura** faint Creation
 
 A highland hip flask, usually made of wood, bone or metal with a belt attachment allowing for quick accessibility from a belt. The mutchkin flask can contain up to 14 ounces of liquid, and while it traditionally is used as a vessel for whiskey, the hip flask may contain other beverages. 1/day on command, the mutchkin flask empties itself, only to instantaneously refill itself with 12 shots of single malt whiskey. Each shot consumed counts as an alcoholic beverage when determining how many drinks a character can consume before being sickened.
 
-**Cost**800 gp;**Feats**Craft Marvelous Item;**Spells** Creation (Alchemical Creation)
+**Cost** 800 gp; **Feats** Craft Marvelous Item; **Spells** Creation (Alchemical Creation)
 
 #### Necrotic Marionette
 
-**Aura**strong necromancy;**CL** varies
-**Slot**none;**Price**varies;**Weight** 100 lbs.
+**Aura** strong necromancy; **CL** varies
+**Slot** none; **Price** varies; **Weight** 100 lbs.
 **Description**
 A creation of necromancers unwilling or unable to secure bodies for reanimation, a necrotic marionette is a puppet that functions as a corpse for the purposes of any Death talent - it can be reanimated, absorbed by Tomb of Flesh, detonated by Corpse Bomb, repaired by Corpse Manipulation, and so on. Necrotic marionettes count as twice their Hit Dice against the total amount you may have reanimated at once.
 
@@ -434,16 +434,16 @@ Craft Wondrous Item, Death sphere, creator must have a CL equal to or greater th
 
 #### Obdurate Douter
 
-**Aura**moderate Dark;**CL** 7
-**Slot**None;**Price** 5,000 gp
+**Aura** moderate Dark; **CL** 7
+**Slot** None; **Price** 5,000 gp
 The soot-stained bell of this ornate silver candle snuffer seems immune to cleaning, but closer examination reveals that the metal has somehow been contaminated with darkness. As a standard action, an obdurate douter can be used to snuff out any source of non-magical light or fire within 40 ft. as per the Extinguish feat. For diffuse light sources and conflagrations, it can extinguish up to one 5 ft. square per turn. Magical fires with a duration longer than instantaneous can be extinguished with a successful MSB check with a +7 modifier. If the obdurate douter is plunged directly into the magical flame the MSB check is made with a +10 modifier, but the wielder takes damage from the magical fire should the attempt fail.
 **Construction Requirements**
 Craft Wondrous Item, Dark sphere, Extinguish; Cost 2,500 gp
 
 #### Origami Charm
 
-**Aura**faint Enhancement;**CL** 1
-**Slot**none;**Price**75;**Weight** -
+**Aura** faint Enhancement; **CL** 1
+**Slot** none; **Price** 75; **Weight** -
 **Description**
 A sheet of parchment of assorted colors that requires a Craft (origami) check DC 15 to use as a full-round action. If successful, the crafted origami becomes an awakened Diminutive animated object for 1 hour, utilizing the stat-block provided below. If the Craft check was unsuccessful or the animated object is destroyed before the duration expires, the wondrous item is consumed and drained of all magical power becoming nothing more than a pile of paper confetti. If the duration expires before the animated object is destroyed, the origami reverts back to a sheet of parchment and may be used again.
 **Special**
@@ -454,23 +454,23 @@ Craft Marvelous Item; Enhancement sphere; **Cost** 37 gp, 5sp
 **Origami Charm (CR 1/8)**
 XP 50
 N Diminutive construct
-**Init**+3,**Senses**darkvision 60 ft., low-light vision;**Perception** +0
+**Init** +3, **Senses** darkvision 60 ft., low-light vision; **Perception** +0
 
 **Defense**
-**AC**19,**touch**17,**flat-footed** 12 (+3 Dex, +2 natural, +4 size)
+**AC** 19, **touch** 17, **flat-footed** 12 (+3 Dex, +2 natural, +4 size)
 **hp** 2 (1d10)
-**Fort**+0,**Ref**+3,**Will** +0
-**Defensive Abilities**hardness 0,**Immune** construct traits,
+**Fort** +0, **Ref** +3, **Will** +0
+**Defensive Abilities** hardness 0, **Immune** construct traits,
 **Weakness** fire vulnerability
 
 **Offense**
 **Speed** 10 ft.
 **Melee** slam (1d1-3)
-**Space**1 ft.,**Reach** 0 ft.
+**Space** 1 ft., **Reach** 0 ft.
 
 **Statistics**
-**Str**4,**Dex**16,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+1,**CMB**-6,**CMD** 7
+**Str** 4, **Dex** 16, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +1, **CMB** -6, **CMD** 7
 **Languages** Common
 **SQ** 3 construction points (+2 from flaws)
 
@@ -490,8 +490,8 @@ If the origami charm is a familiar, it may change out its construction points by
 
 #### Power Charm of the Elementalist
 
-**Aura**faint Destruction;**CL** 5th;
-**Slot**-;**Price**2,000 gp**Weight** —
+**Aura** faint Destruction; **CL** 5th;
+**Slot** -; **Price** 2,000 gp **Weight** —
 **Description**
 The wearer treats his elementalist level as 4 higher for the purposes of determining the bonus damage from the favored element class feature. This bonus does not grant early access to increased multipliers.
 **Construction Requirements**
@@ -500,8 +500,8 @@ Craft Wondrous Item, favored element class feature; Cost 1,000 gp
 
 #### Stone Hemispheres
 
-**Aura**strong War;**CL** 15;
-**Slot**none;**Price**27,500 gp (per pair);**Weight** .5 pounds each
+**Aura** strong War; **CL** 15;
+**Slot** none; **Price** 27,500 gp (per pair); **Weight** .5 pounds each
 **Description**
 Each of these stones starts out as a smooth sphere engraved with geometric patterns that has been splintered into two pieces. When the stones are carried by two separate individuals, they benefit from a specific mandates, determined when the stone was created. There is no range limit on how far apart the stones can be and still function, provided both stones are still on the same plane of existence.
 **Construction Requirements**
@@ -517,8 +517,8 @@ A trilithon’s base price is equal to the total cost of the three menhir that m
 
 #### Wall Slat
 
-**Aura**Faint Creation**CL** 4th
-**Slot**none;**Price**320 gp;**Weight** 1 lbs.
+**Aura** Faint Creation **CL** 4th
+**Slot** none; **Price** 320 gp; **Weight** 1 lbs.
 
 **Description**
 This deceptively simple trinket was supposedly developed by a thieves guild, giving them a quick and easy means of securing an escape route. It consists of a thin, flat 7 inch long piece of black wood with glyphs covering the length of it and one short end a lighter shade than the rest. To activate it, the user snaps up the lighter end and places it on the ground (a move action). The following round the slat expands into a 10 ft. by 10 ft. stone wall that is 2 inches thick, growing in the same directions that the slat is placed. This wall lasts for 4 minutes and is a single-use item. Stronger and longer-lasting versions of this item exists, but this is the most commonly found type.
@@ -528,8 +528,8 @@ Craft Wondrous Item, Creation sphere, Expanded Materials; **Cost** 160 gp
 
 #### White Lotus Seal
 
-**Aura**faint Death;**CL** 2
-**Slot**none;**Price**1,600 gp;**Weight** -
+**Aura** faint Death; **CL** 2
+**Slot** none; **Price** 1,600 gp; **Weight** -
 **Description**
 This strip of parchment has transcribed on it various verses of scripture laid out in pentacle form. The white lotus seal has been alchemically treated to work equally well against incorporeal as well as corporeal undead. In place of an attack, the character may make a melee touch attack against an undead creature placing the white lotus seal upon them. Undead who have the seal attached to them must make a Will save DC 10 + character’s Total PA (TPA) within the White Lotus Cult1 (minimum 1). Undead who fail their save become helpless until attacked or the seal is removed as a move action.
 **Construction Requirements**
@@ -538,8 +538,8 @@ Craft Wondrous Item, Death sphere, Command Undead; **Cost** 800 gp
 
 #### Wizard’s Cube of Gaming
 
-**Aura**strong creation**CL** 12th
-**Slot**none;**Price**20,500 gp;**Weight** 1 lbs.
+**Aura** strong creation **CL** 12th
+**Slot** none; **Price** 20,500 gp; **Weight** 1 lbs.
 
 This small ebony box looks like a beautiful, if simple, container for a deck of cards, the holy symbol of a deity of luck being the only design on the exterior of the lid. When the lid is opened and the command word spoken a table grows out of the box and expands or shrinks as necessary with an appropriate number of chairs around it. The table can expand to support up to 8 players sitting comfortably, or be small enough for just one. While the table exists, the true nature of the box can be revealed by the one who spoke the command word. By focusing on the box and speaking aloud the name any type of board, card, or dice game that they know the rules of, they can cause the table to alter its form to suit the game and conjure all of the relevant pieces to play in their starting positions. These pieces are physically real and can be made of any common wood, stone, metal, or mineral depending on the specific box in question, and they may be moved conventionally or verbally commanded and move autonomously, but regardless of material each piece is very fragile and destroyed by any amount of damage or by moving more than 10 feet away from the box at any time. Destroyed pieces reform when a new game is declared. Sliding the lid closed dismisses the table and any extant pieces.
 
@@ -555,8 +555,8 @@ Craft Wondrous Item, Creation sphere, Fate sphere; **Cost** 10,250 gp
 
 #### Blood Bath
 
-**Aura**moderate Alteration;**CL** 10
-**Slot**none;**Cost**-;**Weight** 300 lbs
+**Aura** moderate Alteration; **CL** 10
+**Slot** none; **Cost** -; **Weight** 300 lbs
 **Description**
 The blood bath is a minor artifact used by evil creatures to steal the youth of their victims. Sized to fit a Medium or smaller creature, the blood bath must to primed by filling it with the blood of creatures of no older than the young adult age category.
 
@@ -567,8 +567,8 @@ The blood bath shatters if filled with the bones of an intelligent humanoid that
 
 #### Ring of Multiple Personalities
 
-**Aura**strong Mind and Time;**CL** 15
-**Slot**ring;**Weight** -
+**Aura** strong Mind and Time; **CL** 15
+**Slot** ring; **Weight** -
 **Description**
 Originally invented by a wizard hoping to double his magic, this ring is considered a cursed ring, and cannot be removed without the aid of magic such as the Break Enchantment talent from the Life sphere. When a creature puts on the ring of multiple personalities they gain a second personality. This personality is considered a separate character with the same current hit points, attribute scores, equipment, and class levels as the character wearing the ring, but with its own alignment, skill ranks, feats, and variable class features, such as rogue talents or magic talents; the 2nd personality possesses a separate spell point pool from the main personality, and any other limited-use abilities it possesses such as alchemist bombs are tracked separately for each personality. Magic that reads minds or communicates telepathically reveals both minds, and can even allow them to communicate with each other, and the suppressed personality is aware of what happens while it is not in control. The GM may create this character as they see fit, but may use the following guidelines if they are beneficial:
 
@@ -588,7 +588,7 @@ If the wearer of the ring of multiple personalities commits suicide, their body 
 #### Spike of Affixion
 
 **Aura** strong Dark
-**CL**15;**Slot** None
+**CL** 15; **Slot** None
 When a creature’s shadow passes over it, this rusty, gnarled iron nail sinks into the earth and spikes the shadow in place, anchoring the creature that cast the shadow to the spot. The victim is powerless to remove the nail, but anyone else can pluck it from the earth with a DC 20 Strength check. A spiked creature can not move more than 5 ft. away from its location while the nail is affixed. A creature can not be spiked if it is not in contact with its own shadow, such as when flying. A spiked creature can not fly, jump, or otherwise lose contact with its shadow.
 
 Applying a spike of affixion directly to a target requires a melee or ranged touch attack. A spike of affixion has a range increment of 10 ft. when thrown. Any creature attacked with a spike of affixion, moving through the same square the spike occupies, or attempting to pick it up off the ground must make a DC 20 Reflex save in order to avoiding being spiked. A spike of affixion can spike as many creatures as fit within 5 ft. of it, though an attack using the spike of affixion can only target one creature at a time.
@@ -600,8 +600,8 @@ To destroy a spike of affixion, it must be hammered into a beam of light from th
 
 #### Transmogrifier
 
-**Aura**moderate Alteration;**CL** 10
-**Slot**none;**Weight** 25 lbs.
+**Aura** moderate Alteration; **CL** 10
+**Slot** none; **Weight** 25 lbs.
 **Description**
 The transmogrifier is a thin, unassuming wooden box that collapses flat for transport, which can be set-up or taken down as a full-round action. The plain appearance belies its true power. The small dial set into the box’s side can be turned to select any creature imaginable as a move action. Once selected, a creature may enter the box as a standard action. Exiting the box is a move action. The creature gains the benefits of the Transformation and Improved Transformation feats, but may not choose to dismiss their transformation form nor suppress the granted traits. This effect is instantaneous, though the transmogrifier may be used to return the creature to its original state. The transmogrifier is normally just large enough for 1 Medium-sized creature, but will automatically resize to accommodate creatures of greater than Medium size.
 
@@ -610,8 +610,8 @@ The transmogrifier loses all power if willingly cast away by a child who has use
 
 #### Twin Caskets
 
-**Aura**moderate Warp;**CL** 6th
-**Slot**—;**Price**6,000 (for a pair) gp;**Weight** 15 lbs. (each).
+**Aura** moderate Warp; **CL** 6th
+**Slot** —; **Price** 6,000 (for a pair) gp; **Weight** 15 lbs. (each).
 **Description**
 Made in pairs, these caskets are spatially linked. So long as a set of caskets are on the same plane, the contents of the caskets can be swapped by speaking a command word. Only inanimate objects can be transferred this way. Each casket can be used once per day.
 
@@ -625,8 +625,8 @@ Craft Wondrous Item, Warp sphere, Teleport Beacon, Teleport Object; **Cost** 3,0
 
 #### Divine Notebook
 
-**Aura**overwhelming Creation and Enhancement;**CL** 22
-**Slot**none;**Weight** 8 lbs.
+**Aura** overwhelming Creation and Enhancement; **CL** 22
+**Slot** none; **Weight** 8 lbs.
 **Description**
 The divine notebook is an artist’s sketchbook of unremarkable appearance, but upon close inspection it is revealed to be of unsurpassed quality. It stands 3 ft. by 2 ft. in size with hundreds of pages, which replenish themselves if removed.
 
@@ -681,8 +681,8 @@ The following items were created by the Wiki or by members of community using th
 
 #### Cradle of the Marauder [Wiki]
 
-**Aura**faint War;**CL** 4th
-**Slot**none;**Price**4,800 gp;**Weight** 1 lb.
+**Aura** faint War; **CL** 4th
+**Slot** none; **Price** 4,800 gp; **Weight** 1 lb.
 **Description**
 This metal frame suspends five small steel balls in a line. Three times per day, the wielder can pick up and drop a ball at the end of the line as a standard action, causing the balls of the cradle to knock back and forth. When activated in this manner, the cradle generates a pool of 4 momentum points and remains activate for 4 minutes or until the pool is emptied, whichever comes first. Any ally within 30 ft. of the cradle may spend a point of momentum to move 5 ft. as a free action. These movements provoke attacks of opportunity normally and may be taken between attacks.
 **Construction Requirements**
@@ -690,8 +690,8 @@ Craft Wondrous Item, War sphere, Marauding Momentum; **Cost** 2,400 gp
 
 #### Holy Hand Grenade [Wiki]
 
-**Aura**strong Destruction;**CL** 12th
-**Slot**none;**Price**33,600 gp;**Weight** 1 lb.
+**Aura** strong Destruction; **CL** 12th
+**Slot** none; **Price** 33,600 gp; **Weight** 1 lb.
 **Description**
 This sphere is composed of a strange white metal covered in gold inlays. Once per day, a good-aligned character can speak a prayer to their deity (as a command word) and hurl the Holy Hand Grenade up to 55 feet. Afterwards, the Holy Hand Grenade explodes for 12d6 sacred damage (Reflex DC 16 halves) in a 20-foot radius. Sacred damage comes from attacks that are heavily infused with the power of sheer good and carry this holy power over as a form of harmful energy to evil-aligned beings. Attacks that inflict sacred damage inflict an additional 50% damage to evil-aligned opponents or opponents with the [evil] subtype.
 **Construction Requirements**
@@ -699,8 +699,8 @@ Craft Wondrous Item, Destruction sphere, Explosive Orb (blast shape), Holy Smite
 
 #### Tattoo of Potion Storing [Wiki]
 
-**Aura**faint Life;**CL** 3;
-**Slot**none;**Price**3,600 gp;**Weight** -
+**Aura** faint Life; **CL** 3;
+**Slot** none; **Price** 3,600 gp; **Weight** -
 **Description**
 These tattoos come in a variety of shapes and styles and are often customized by the user and their tattoo artist. As a standard action, the bearer can store one potion or alchemical formulae within the tattoo, which captures the power within and retains it indefinitely. If storing a formulae, the formulae stored within the tattoo no longer counts against the user's maximum number of formulae prepared at one time. If another potion or formulae is added when the Tattoo of Potion Storing is already full, the old item's effect is lost and the new one replaces it. As a swift action, the bearer can mentally activate the tattoo to consume the potion or formulae and gain its effects; the effects only apply to the bearer of the tattoo, even if they could normally be spread to other allies. After activating this tattoo, the user must rest for 8 hours before another potion or formulae can be added; the tattoo needs time to cleanse itself of lingering energies. A character may have up to two of these tattoos inked into their skin. The tattoo appears bright and colorful while it contains a potion or formulae, but dull and faded when nothing is contained within.
 **Construction Requirements**
@@ -708,9 +708,9 @@ Craft Wondrous Item; Life sphere, Self-Renewal, Water of Life; Cost 1,800 gp
 
 #### Velocious Vambraces [Wiki]
 
-**Aura**faint Warp;**CL** 3rd;
-**Slot**Wrists;**Weight** 1 lbs.;
-**Scaling**Wonder;**Price** 3,600 gp
+**Aura** faint Warp; **CL** 3rd;
+**Slot** Wrists; **Weight** 1 lbs.;
+**Scaling** Wonder; **Price** 3,600 gp
 
 These dark, brown leather bracers are stylized with faint, golden scrollwork reminiscent of flames on their outer surface. The scrollwork gently glows when they aren't worn but the glow fades quickly as they are donned.
 

@@ -13,20 +13,20 @@ This great serpent has multicolored wings and eyes that glimmer with intense awa
 XP 19,200
 Pathfinder Roleplaying Game Bestiary
 LG Large outsider (mythic, native)
-**Init**+12MF;**Senses** darkvision 60 ft., detect chaos/evil/good/law; Perception +23
+**Init** +12MF; **Senses** darkvision 60 ft., detect chaos/evil/good/law; Perception +23
 
 #### Defense
 
-**AC**27,**touch**13,**flat-footed** 23 (+3 Dex, +1 dodge, +14 natural, –1 size)
+**AC** 27, **touch** 13, **flat-footed** 23 (+3 Dex, +1 dodge, +14 natural, –1 size)
 **hp** 188 (12d10+122)
-**Fort**+10,**Ref**+13,**Will** +14
+**Fort** +10, **Ref** +13, **Will** +14
 **Defensive Abilities** DR 10/epic
 
 #### Offense
 
 **Speed** 20 ft., fly 60 ft. (good)
 **Melee** bite +16 (1d8+5 plus grab and poison), 2 wings +11 (1d6+2)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** constrict (1d8+5), ether dropMF, feathered serpentMF, mythic power (7/day, surge 1d8), sacred poisonMAF, spitting snakeMAF, transcendent coilsMAF, whipping wingsMA
 
 **Spell-Like Abilities** (CL 9th; concentration +13)
@@ -42,8 +42,8 @@ At will—alter self, detect thoughts (DC 16), ethereal jaunt (CL 16th), invisib
 
 #### Statistics
 
-**Str**20,**Dex**16,**Con**22,**Int**17,**Wis**19,**Cha** 19
-**Base Atk**+12;**CMB**+18 (+22 grapple);**CMD** 32 (can’t be tripped)
+**Str** 20, **Dex** 16, **Con** 22, **Int** 17, **Wis** 19, **Cha** 19
+**Base Atk** +12; **CMB** +18 (+22 grapple); **CMD** 32 (can’t be tripped)
 **Feats** Alertness, Dodge, Empower Spell, Eschew MaterialsB, Extra Mythic PowerMF, Improved InitiativeMF, Iron Will, Lightning Reflexes, Mythic Spell LoreMF
 **Skills** Acrobatics +18, Bluff +10, Diplomacy +19, Fly +20, Knowledge (arcana) +9, Knowledge (religion) +12, Perception +23, Sense Motive +15, Spellcraft +15, Survival +16, Use Magic Device +19
 **Languages** Celestial, Common, Draconic; telepathy 100 ft.
@@ -63,7 +63,7 @@ At will—alter self, detect thoughts (DC 16), ethereal jaunt (CL 16th), invisib
 
 **Messenger of the Gods (Sp)** A mythic couatl is seen as a divine messenger, and its words are laced with divine authority. It can use alter self and share languageat will as spell-like abilities. In addition, a mythic couatl can expend one use of its mythic power as a full-round action to use overwhelming presence (DC 23) as a spell-like ability against a single creature that understands its speech.
 
-**Poison (Ex)**Injury—bite;**save**Fortitude DC 22;**frequency**1/minute for 10 minutes;**effect**1d4 Str;**cure** 2 consecutive saves. The DC is Constitution-based.
+**Poison (Ex)** Injury—bite; **save** Fortitude DC 22; **frequency** 1/minute for 10 minutes; **effect** 1d4 Str; **cure** 2 consecutive saves. The DC is Constitution-based.
 
 **Sacred Poison (Su)** A mythic couatl’s poison is highly virulent against creatures with the evil subtype, bypassing their poison immunity and increasing the poison’s frequency to 1/round for 10 rounds. In addition, on a successful bite attack against such a creature a mythic couatl can expend one use of its mythic power as a swift action to use accelerate poison (DC 22 Fortitude negates) or pernicious poison on the target before resolving the effect of its poison. This is considered a supernatural effect but otherwise functions as the spell in question.
 

@@ -14,103 +14,103 @@ Most of these feats are available on the appropriate class pages, but they are a
 
 ---
 
-### Extra Arsenal Trick
+#### Extra Arsenal Trick
 
 **Prerequisite:** Arsenal trick class feature.
 
 **Benefit:** Gain an arsenal trick for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
 
-### Extra Bestial Trait
+#### Extra Bestial Trait
 
 **Prerequisite:** Bestial trait class feature.
 
 **Benefit:** Gain an additional bestial trait for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
 
-### Extra Breadth Of Form
+#### Extra Breadth Of Form
 
 **Prerequisite:** Breadth of form class feature.
 
 **Benefit:** Increase the number of times per day you may use breadth of form by 2. You may take this feat multiple times. The effects stack.
 
-### Extra Divine Works
+#### Extra Divine Works
 
 **Prerequisite:** Divine works class feature.
 
 **Benefit:** You may choose an additional option from the list of possible divine works class features. You may choose this feat multiple times. Each time, choose another divine work.
 
-### Extra Electrokinetic Stunt
+#### Extra Electrokinetic Stunt
 
 **Prerequisite:** Electrokinetic stunt class feature.
 
 **Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack.
 
-### Extra Emotion
+#### Extra Emotion
 
 **Prerequisite:** Emotion class feature.
 
 **Benefit:** Gain the minor power of a new emotion or the next level of an emotion you already possess. You may take this feat multiple times. The effects stack.
 
-### Extra Iatrogen
+#### Extra Iatrogen
 
 **Prerequisite:** Iatrogen class feature.
 
 **Benefit:** Gain an additional iatrogen for which you meet the prerequisites. You may take this feat multiple times. The effects stack.
 
-### Extra Invocations
+#### Extra Invocations
 
 **Prerequisite:** Invocations class feature.
 
 **Benefit:** Increase the number of times per day you may use invocations by 2. You may take this feat multiple times. The effects stack.
 
-### Extra Magic Talent
+#### Extra Magic Talent
 
 **Prerequisite:** Basic Magic Training or casting class feature.
 
 **Benefit:** Gain an additional sphere or a talent from a sphere you possess. You may take this feat multiple times. The effects stack.
 
-### Extra Mystic Combat
+#### Extra Mystic Combat
 
 **Prerequisite:** Mystic combat class feature.
 
 **Benefit:** Gain an extra mystic combat ability for which you qualify. You may gain this feat multiple times. The effects stack.
 
-### Extra Nexus Powers
+#### Extra Nexus Powers
 
 **Prerequisite:** Bound nexus class feature.
 
 **Benefit:** Increase the number of souls in your bound nexus by 2. You may gain this feat multiple times. The effects stack.
 
-### Extra Origin Talent [Origin]
+#### Extra Origin Talent [Origin]
 
 **Benefit:** You gain an additional origin talent.
 
 **Special:** This feat may be selected multiple times. The effects stack.
 
-### Extra Psionics
+#### Extra Psionics
 
 **Prerequisite:** Psionics class feature.
 
 **Benefit:** You may use psionics an extra 6 rounds per day. You may gain this feat multiple times. The effects stack.
 
-### Extra Secret
+#### Extra Secret
 
 **Prerequisite:** Secrets class feature.
 
 **Benefit:** Gain an extra secret for which you qualify. You may gain this feat multiple times. The effects stack.
 
-### Extra Shadowstuff
+#### Extra Shadowstuff
 
 **Prerequisite:** Shadowstuff class feature.
 
 **Benefit:** Increase the number of shadow points you possess by 2. You may gain this feat multiple times. The effects stack.
 
-### Extra Spell Points
+#### Extra Spell Points
 
 **Prerequisite:** Spell pool.
 
 **Benefit:** Your spell pool total increases by 2. You may gain this feat multiple times. The effects stack.
 
-### Extra Swarm Powers
+#### Extra Swarm Powers
 
 **Prerequisite:** Swarm powers class feature.
 
@@ -118,13 +118,13 @@ Most of these feats are available on the appropriate class pages, but they are a
 
 **Special:** This feat can be taken multiple times.
 
-### Extra Unseen Augmentation
+#### Extra Unseen Augmentation
 
 **Prerequisite:** Unseen forces class feature.
 
 **Benefit:** You gain an additional unseen augmentation for which you qualify. You may take this feat multiple times. The effects stack.
 
-### Extra Wraith Haunt
+#### Extra Wraith Haunt
 
 **Prerequisite:** Wraith haunt class feature.
 

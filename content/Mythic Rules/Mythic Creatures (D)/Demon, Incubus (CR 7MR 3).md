@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (D)]]"
 XP 3,200
 Pathfinder Roleplaying Game Bestiary 3
 CE Medium outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**+2;**Senses** darkvision 60 ft.; Perception +20
+**Init** +2; **Senses** darkvision 60 ft.; Perception +20
 
 #### Defense
 
-**AC**21,**touch**12,**flat-footed** 19 (+2 Dex, +9 natural)
+**AC** 21, **touch** 12, **flat-footed** 19 (+2 Dex, +9 natural)
 **hp** 106 (8d10+62).
-**Fort**+10,**Ref**+6,**Will** +8
-**Defensive Abilities**DR 10/cold iron and epic and good;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 18
+**Fort** +10, **Ref** +6, **Will** +8
+**Defensive Abilities** DR 10/cold iron and epic and good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 18
 
 #### Offense
 
@@ -34,10 +34,10 @@ At will—charm person (DC 17), detect thoughts (DC
 
 #### Statistics
 
-**Str**20,**Dex**15,**Con**18,**Int**16,**Wis**15,**Cha** 23
-**Base Atk**+8;**CMB**+13;**CMD** 25
+**Str** 20, **Dex** 15, **Con** 18, **Int** 16, **Wis** 15, **Cha** 23
+**Base Atk** +8; **CMB** +13; **CMD** 25
 **Feats** Flyby AttackMF, Lightning ReflexesMF, Power Attack, Vital Strike
-**Skills**Acrobatics +6, Bluff +17, Diplomacy +17, Escape Artist +11, Fly +13, Intimidate +18, Knowledge (planes) +14, Perception +20, Sense Motive +13, Spellcraft +14, Stealth +11;**Racial Modifiers** +8 Intimidate, +8 Perception
+**Skills** Acrobatics +6, Bluff +17, Diplomacy +17, Escape Artist +11, Fly +13, Intimidate +18, Knowledge (planes) +14, Perception +20, Sense Motive +13, Spellcraft +14, Stealth +11; **Racial Modifiers** +8 Intimidate, +8 Perception
 **Languages** Abyssal, Celestial, Common; telepathy 100 ft., tongues
 
 #### Ecology

@@ -11,23 +11,23 @@ Not every threat can be dealt with using weapons alone. When dark evils need to 
 
 This archetype requires [[Sphere Investigator|sphere investigator]].
 
-### Bad Habit
+## Bad Habit
 
 No one runs the night and stays clean. Habits develop, including ways of getting through the tougher days. At 1st level, the nightblazer chooses a vice, such as smoking, drinking, or gambling. This is something inexpensive or that requires a small amount of time. The nightblazer must indulge his vice for at least one hour each day (though not necessarily all at once). If he does not, he can not regain inspiration until he does.
 
-### Studied Strike
+## Studied Strike
 
 The nightblazer gains the studied combat and studied strike abilities at 2nd level. Studied strike does 1d6 damage at 2nd level, and an additional 1d6 every 2 levels thereafter, up to a maximum of 10d6 at 20th level.
 
 This alters studied combat and studied strike.
 
-### Noir Instincts
+## Noir Instincts
 
 At 2nd level, the nightblazer may choose one skill that uses Dexterity, Wisdom or Charisma, and use his casting ability score with that skill instead. He may choose additional skills at 5th, 8th, and 11th level.
 
 This replaces poison lore, poison resistance, and poison immunity.
 
-### Danger Sense
+## Danger Sense
 
 At 3rd level, the nightblazer receives danger sense as an unchained rogue of equal level.
 
@@ -35,13 +35,13 @@ This alters trap sense. This ability counts as trap sense for the purpose of any
 
 The bonuses gained from this ability stack with those gained from trap sense (from another class).
 
-### Ensorcelled Strike
+## Ensorcelled Strike
 
 At 3rd level, whenever the nightblazer uses studied strike, he may spend a spell point to increase the damage to 1d6 per class level.
 
 This replaces keen recollection.
 
-### Studied Casting
+## Studied Casting
 
 At 4th level, when the nightblazer uses a sphere ability that targets his studied combat target, he may use his studied strike when he delivers the sphere ability. If he does, the DC of any saving throw made by the target receives a +1 insight bonus for every 4 class levels the nightblazer possess, but does no additional damage.
 

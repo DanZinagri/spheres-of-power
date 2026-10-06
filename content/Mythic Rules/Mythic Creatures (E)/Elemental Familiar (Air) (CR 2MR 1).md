@@ -13,14 +13,14 @@ This cloud-like creature has dark hollows reminiscent of eyes and a mouth, and a
 XP 600
 Pathfinder Roleplaying Game Bestiary
 N Small outsider (air, elemental, extraplanar, mythic)
-**Init**+7;**Senses** darkvision 60 ft.; Perception +4
+**Init** +7; **Senses** darkvision 60 ft.; Perception +4
 
 #### Defense
 
-**AC**18,**touch**14,**flat-footed** 15 (+3 Dex, +4 natural, +1 size)
+**AC** 18, **touch** 14, **flat-footed** 15 (+3 Dex, +4 natural, +1 size)
 **hp** 23 (2d10+12)
-**Fort**+4,**Ref**+6,**Will** +0
-**Defensive Abilities**air mastery;**Immune** elemental traits
+**Fort** +4, **Ref** +6, **Will** +0
+**Defensive Abilities** air mastery; **Immune** elemental traits
 
 #### Offense
 
@@ -30,8 +30,8 @@ N Small outsider (air, elemental, extraplanar, mythic)
 
 #### Statistics
 
-**Str**12,**Dex**17,**Con**12,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+2;**CMB**+2;**CMD** 15
+**Str** 12, **Dex** 17, **Con** 12, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +2; **CMB** +2; **CMD** 15
 **Feats** Flyby Attack, Improved InitiativeB, Weapon FinesseB, MF
 **Skills** Acrobatics +7, Escape Artist +7, Fly +17, Knowledge (planes) +1, Perception +4, Stealth +11
 **Languages** Auran

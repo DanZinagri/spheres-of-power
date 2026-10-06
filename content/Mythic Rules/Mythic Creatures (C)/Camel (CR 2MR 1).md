@@ -11,25 +11,25 @@ parent: "[[Mythic Creatures (C)]]"
 XP 600
 Pathfinder Roleplaying Game Bestiary 2 (herd animal, camel)
 N Large animal (mythic)
-**Init**+3;**Senses** low-light vision, scent; Perception +5
+**Init** +3; **Senses** low-light vision, scent; Perception +5
 
 #### Defense
 
-**AC**14,**touch**12,**flat-footed** 11 (+3 Dex, +2 natural, –1 size)
+**AC** 14, **touch** 12, **flat-footed** 11 (+3 Dex, +2 natural, –1 size)
 **hp** 21 (2d8+12)
-**Fort**+5,**Ref**+6,**Will** +0
+**Fort** +5, **Ref** +6, **Will** +0
 
 #### Offense
 
 **Speed** 50 ft.
 **Melee** bite +4 (1d4+6)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** mythic power (3/day, surge 1d6), spit (+3 ranged touch)
 
 #### Statistics
 
-**Str**18,**Dex**16,**Con**14,**Int**2,**Wis**11,**Cha** 4
-**Base Atk**+1;**CMB**+6;**CMD** 19 (23 vs. trip)
+**Str** 18, **Dex** 16, **Con** 14, **Int** 2, **Wis** 11, **Cha** 4
+**Base Atk** +1; **CMB** +6; **CMD** 19 (23 vs. trip)
 **Feats** Endurance, Extra Mythic Power
 **Skills** Perception +5, Survival +0 (+5 in desert terrain)
 **SQ** desert travelerMA, reservoir of lifeMA

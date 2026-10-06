@@ -10,23 +10,23 @@ parent: "[[Spheres Of Power]]"
 
 Anything can be broken, as long as one knows how. Bone, flesh, steel, even time itself shatters when enough pressure is applied in the correct way. Fractures are strange warriors who possess the ability to perceive time differently than most, slipping between the cracks within moments and shattering the temporal limitations that bind most mortals.
 
-### Weapon and Armor Proficiency
+## Weapon and Armor Proficiency
 
 The fracture does not gain proficiency with heavy armor or tower shields.
 
-### Skills
+## Skills
 
 The fracture gains 4 skill points per level. He adds Knowledge (arcana) (Int), Knowledge (local) (Int), Knowledge (planes) (Int), Perception (Wis), and Use Magic Device (Cha) to his list of class skills.
 
 This alters the fighter’s skills, but does not cause the fracture archetype to be incompatible with other archetypes that alter skills unless the same skills are traded out.
 
-### Chronal Reactions (Ex)
+## Chronal Reactions (Ex)
 
 At 2nd level, the fracture’s ability to perceive openings and react to opponents on the battlefield is enhanced to an extraordinary degree. The fracture increases the number of attacks of opportunity he can make in a round by 1, plus an additional 1 at 5th level and every three levels thereafter. In addition, whenever the fracture attempts a saving throw, he may expend an attack of opportunity to reroll the result; he must choose to use this ability before he knows if the saving throw was a success or failure, and must accept the result even if it is worse than his original roll.
 
 This replaces the bonus feat normally gained at 2nd level.
 
-### Time Fracture (Su)
+## Time Fracture (Su)
 
 Starting at 6th level, the fracture may expend two of his attacks of opportunity for the round as a swift action to enter a state of broken time called a “time fracture” that allows him to accomplish more in a small amount of time than he normally could. When the fracture uses this ability, he may perform either of the following options:
 
@@ -37,19 +37,19 @@ This replaces the bonus feat normally gained at 6th level.
 
 **Author's Note:** For clarity, using the full-round action option of time fracture allows the fracture to make a full attack coupled with a move action (similar to, but not the same as, the pounce ability). Other effects that could replace a full-round attack, such as the Whirlwind Attack feat, are not compatible with this option.
 
-### Second Attempt (Su)
+## Second Attempt (Su)
 
 From 10th level on, the fracture may expend one of his attacks of opportunity for the round to allow himself or an ally within 30 feet to reroll a single failed Strength-, Dexterity-, or Constitution-based ability or skill check. The fracture must choose whether or not to use this ability as soon as he knows the result of the failed roll.
 
 This replaces the bonus feat normally gained at 10th level.
 
-### Countering Reaction (Su)
+## Countering Reaction (Su)
 
 Starting at 14th level, whenever the fracture provokes an attack of opportunity, he may expend two of his attacks of opportunity for the round to attempt to counter the attack. The fracture makes a single attack roll at his highest bonus and compares the result to the attack roll for the triggering attack; as long as the result of the fracture’s attack roll is equal to or greater than the triggering attack roll, the attack is negated.
 
 This replaces the bonus feat normally gained at 14th level.
 
-### Perfect Moment (Su)
+## Perfect Moment (Su)
 
 Upon reaching 20th level, the fracture gains the ability to enter a state of temporal acceleration that allows him to do far more in a narrow frame of time than would normally be possible. As a free action that can only be taken once per turn, the fracture may expend 5 of his attacks of opportunity for the round to gain an extra standard action, an extra move action, and an extra swift action. The fracture may use these additional actions in any order or combination, including to make an additional full attack. Using this ability drastically depletes the fracture’s resources, however, and he cannot make or expend attacks of opportunity until the end of his next turn after using this ability.
 

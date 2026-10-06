@@ -11,49 +11,49 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Death To The Living
+#### Death To The Living
 
 The only actions undead you reanimate understand are “attack”, “fall” (causing them to fall prone as a free action), and “rise” (causing them to stand up from prone). While prone, they will still attack creatures within reach and will spend their move action to move 5 feet, but will not rise until commanded. If you do not direct your undead to attack a creature each round, they act as though confused (you are considered part of their “self”, but other allies are not). You may not select talents that increase your ability to communicate with your undead, such as Undead Whisperer or Master’s Presence. You must select Reanimated Warriors as the bonus talent gained through this drawback.
 
 **Incompatible:** Flesh Artisan, Necromantic Limit (ghost strike)
 
-## Deathful Touch
+#### Deathful Touch
 
 You may only use ghost strike as a melee touch attack. If you use the Cryptic Strike talent, you can only do so with melee attacks. You must take a talent that augments ghost strike with the drawback.
 
 **Incompatible:** Flesh Artisan, Necromantic Concoction, Necromantic Limit (reanimate),
 
-## Favored Undead
+#### Favored Undead
 
 You gain the Expanded Necromancy talent with the bonus talent gained by this drawback. Choose one variant undead (such as bloody skeleton, burning skeleton, fast zombie, or plague zombie). Whenever you reanimate a creature, you must use this talent and may only reanimate creatures as the chosen variant.
 
 **Incompatible:** Flesh Artisan, Necromantic Limit (ghost strike)
 
-## Flesh Artisan
+#### Flesh Artisan
 
 You do not gain ghost strike nor reanimate. You gain both Corpse Manipulation and Tomb Of Flesh with the bonus talents granted by this drawback. This drawback counts as two drawbacks, and ghost strike and reanimate must be bought back separately.
 
 **Incompatible:** Death To The Living, Deathful Touch, Favored Undead, Necromantic Limit, Necromantic Concoction, Undead Trainer
 
-## Necromantic Concoction
+#### Necromantic Concoction
 
 You must select the Instill Death talent with the bonus talent granted by this drawback, and you can only use your Death sphere abilities through this talent.
 
 **Incompatible:** Deathful Touch, Flesh Artisan
 
-## Necromantic Limit
+#### Necromantic Limit
 
 Choose either ghost strike or reanimate. You can only use this ability and cannot use the one not chosen.
 
 **Incompatible:** Flesh Artisan
 
-## Spiritual Voyager [DbH]
+#### Spiritual Voyager [DbH]
 
 You do not gain ghost strike nor reanimate. You gain both Astral Projection and Project Spirit with the bonus talents granted by this drawback. This drawback counts as two drawbacks, and the ghost strike and reanimate abilities must be bought back separately. If a character does not initially meet the prerequisites for Astral Projection or Project Spirit when they gain this talent, they do not gain the benefits of either talent until they meet the prerequisites for them.
 
 **Incompatible:** Death To The Living, Deathful Touch, Favored Undead, Flesh Artisan, Necromantic Limit, Necromantic Concoction, Undead Trainer
 
-## Undead Trainer
+#### Undead Trainer
 
 Choose a creature type (other than undead) from the ranger favored enemies table. You may only reanimate dead creatures of the chosen type (and subtype, if applicable). For every 5 caster levels you possess, you may choose an additional creature type. You may choose ‘construct’ for a creature type, in which case it allows you to reanimate necrotic marionettes. You must select Undead Whisperer with the bonus talent gained through this drawback.
 

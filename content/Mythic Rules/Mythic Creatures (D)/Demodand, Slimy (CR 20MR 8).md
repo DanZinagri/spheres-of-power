@@ -13,15 +13,15 @@ This muscular, frog-headed humanoid has tattered flesh hanging from its bat-like
 XP 307,200
 Pathfinder Roleplaying Game Bestiary 3
 CE Medium outsider (chaotic, demodand, evil, extraplanar, mythic)
-**Init**+5;**Senses** darkvision 120 ft., detect good, detect magic, see invisibility; Perception +2
+**Init** +5; **Senses** darkvision 120 ft., detect good, detect magic, see invisibility; Perception +2
 **Aura** channel-stealingMA (20 ft., DC 24), stench (DC 27, 1d6 rounds)
 
 #### Defense
 
-**AC**41,**touch**14,**flat-footed** 37 (+8 armor, +4 Dex, +19 natural)
+**AC** 41, **touch** 14, **flat-footed** 37 (+8 armor, +4 Dex, +19 natural)
 **hp** 342 (21d10+227)
-**Fort**+19,**Ref**+14,**Will** +14; +8 vs. divine spells
-**Defensive Abilities**DR 10/epic, good, and magic;**Immune**acid, poison;**Resist**cold 10, fire 10;**SR** 31
+**Fort** +19, **Ref** +14, **Will** +14; +8 vs. divine spells
+**Defensive Abilities** DR 10/epic, good, and magic; **Immune** acid, poison; **Resist** cold 10, fire 10; **SR** 31
 
 #### Offense
 
@@ -37,10 +37,10 @@ At will—detect thoughts (DC 16), fear (DC 18)
 
 #### Statistics
 
-**Str**30,**Dex**20,**Con**25,**Int**14,**Wis**15,**Cha** 19
-**Base Atk**+21;**CMB**+31 (+35 grapple);**CMD** 46 (56 vs. grapple)
+**Str** 30, **Dex** 20, **Con** 25, **Int** 14, **Wis** 15, **Cha** 19
+**Base Atk** +21; **CMB** +31 (+35 grapple); **CMD** 46 (56 vs. grapple)
 **Feats** Bleeding CriticalMF, Blind-Fight, Critical FocusMF, Flyby Attack, Greater Vital Strike, Improved Critical (claw), Improved Vital Strike, Intimidating ProwessMF, Lightning Reflexes, Power AttackMF, Vital Strike
-**Skills**Acrobatics +9 (+5 when jumping), Bluff +28, Climb +17, Escape Artist +15, Fly +23, Intimidate +38, Knowledge (arcana) +13, Knowledge (planes) +13, Sense Motive +26, Spellcraft +20, Stealth +23, Survival +20;**Racial Modifiers** +10 Escape Artist
+**Skills** Acrobatics +9 (+5 when jumping), Bluff +28, Climb +17, Escape Artist +15, Fly +23, Intimidate +38, Knowledge (arcana) +13, Knowledge (planes) +13, Sense Motive +26, Spellcraft +20, Stealth +23, Survival +20; **Racial Modifiers** +10 Escape Artist
 **Languages** Abyssal, Celestial, Common
 **SQ** blasphemous soulMA
 **Gear** +2 mithral breastplate

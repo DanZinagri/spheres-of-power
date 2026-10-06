@@ -7,18 +7,18 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 76,800
 LN Large outsider (extraplanar, inevitable, lawful)
-**Init**+3;**Senses**darkvision 60 ft., low-light vision, true seeing;**Perception** +26
+**Init** +3; **Senses** darkvision 60 ft., low-light vision, true seeing; **Perception** +26
 
 **Defense**
-**AC**39,**touch**11,**flat-footed** 37 (+9 armor, +1 Dex, +1 dodge, +17 natural, +2 shield, –1 size)
+**AC** 39, **touch** 11, **flat-footed** 37 (+9 armor, +1 Dex, +1 dodge, +17 natural, +2 shield, –1 size)
 **hp** 214 (16d10+126); regeneration 10 (chaotic)
-**Fort**+16,**Ref**+8,**Will** +13
-**Defensive Abilities**active defense (+6), constructed, delayed damage (48);**DR**15/chaotic;**SR** 26
+**Fort** +16, **Ref** +8, **Will** +13
+**Defensive Abilities** active defense (+6), constructed, delayed damage (48); **DR** 15/chaotic; **SR** 26
 
 **Offense**
 **Speed** 30 ft.
 **Melee** 2 slams +27 (2d6+12 plus 3d6 electricity or sonic and blindness or deafness)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** challenge (+6, 11 rounds), fists of lightning and thunder, patrol (25 ft.)
 
 **Spell-Like Abilities** (CL 16th; concentration +23)
@@ -32,12 +32,12 @@ At will—dimension door, fear (DC 21), greater command (DC
 Marut wardens make use of their active defense and Guardian sphere packages liberally, going on the offensive with challenge or protecting their charges with patrol.
 
 **Statistics**
-**Str**35,**Dex**16,**Con**23,**Int**12,**Wis**17,**Cha** 24
-**Base Atk**+16;**CMB**+29;**CMD** 43
+**Str** 35, **Dex** 16, **Con** 23, **Int** 12, **Wis** 17, **Cha** 24
+**Base Atk** +16; **CMB** +29; **CMD** 43
 **Feats** Ability Focus (fists of lightning and thunder), Awesome Blow, Combat Casting, Dodge, Extra Combat talent, Improved Vital Strike, Power Attack, Vital Strike
-**Tradition**Warden**PAM**Wis,**DC** 21
+**Tradition** Warden **PAM** Wis, **DC** 21
 **Talents** Equipment (Armor Training, Shield Training), Guardian (challenge and patrol packages, Expanded Guardian), Shield
-**Skills**Diplomacy +26, Intimidate +26, Knowledge (planes) +20, Knowledge (religion) +20, Perception +26, Sense Motive +22, Survival +22;**Racial modifiers** +4 Perception
+**Skills** Diplomacy +26, Intimidate +26, Knowledge (planes) +20, Knowledge (religion) +20, Perception +26, Sense Motive +22, Survival +22; **Racial modifiers** +4 Perception
 **Languages** truespeech
 
 **Special Abilities**

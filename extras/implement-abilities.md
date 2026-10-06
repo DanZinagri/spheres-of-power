@@ -2,7 +2,7 @@
 
 #### Bone-Tolling [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate Death; **CL** 7th
 **Price** +6,000 gp
@@ -21,7 +21,7 @@ The wielder may use a *bone-tolling* implement to make a ranged touch attack aga
 
 #### Cloud-Shifting [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate Nature; **CL** 8th
 **Price** 5,000 gp
@@ -42,7 +42,7 @@ The brief current of wind produced by a *cloud-shifting* implement may move any 
 
 #### Energy-Branding [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate Destruction; **CL** 7th
 **Price** varies (see table)
@@ -71,7 +71,7 @@ As a standard action, the wielder of an *energy-branding* implement may brand a 
 
 #### Fate-Turning [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong Fate; **CL** 13th
 **Price** +13,000 gp
@@ -98,7 +98,7 @@ This effect lasts for 1 round per enhancement bonus. Only a single creature at a
 
 #### Light-Shining [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint Light; **CL** 4th
 **Price** +6,000 gp
@@ -119,7 +119,7 @@ A creature with the light sensitivity or light blindness abilities rolls their s
 
 #### Rune-Buffering [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint Protection; **CL** 4th
 **Price** +6,000 gp
@@ -138,7 +138,7 @@ As a standard action, the wielder of a *rune-buffering* implement may grant them
 
 #### Platform-Calling [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate Creation; **CL** 8th
 **Price** +8,000 gp
@@ -161,7 +161,7 @@ If used as a full-round action, the wielder may instead create a number of conti
 
 #### Shadow-Veiling [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate Illusion; **CL** 8th
 **Price** +9,000 gp
@@ -182,7 +182,7 @@ While benefitting from this haze, as an immediate action the affected creature m
 
 #### Spatial-Stitching [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate Warp; **CL** 8th
 **Price** +7,000 gp

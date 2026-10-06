@@ -12,7 +12,7 @@ Jikininki were originally cursed individuals, destined to feast upon the flesh o
 
 This archetype requires sphere ranger.
 
-### Hateful Hunger (Su)
+## Hateful Hunger (Su)
 
 At 1st level, by spending 1 full-round action feasting on a corpse, a jikininki can focus his ferocity against similar creatures, gaining the benefits of the favored enemy class feature against creatures with the same type (and subtype, for humanoids and outsiders). This bonus lasts until the jikininki consumes another corpse of a different creature type, switching his bonuses to the new creature type. A consumed corpse is considered destroyed for the purposes of reanimation; the corpse must have been dead for no longer than 1 day per class level.
 
@@ -20,11 +20,11 @@ At 5th level and every 5 levels thereafter, these bonuses increase by 1 (+3 at l
 
 This replaces favored enemy, but counts as favored enemy for the purpose of meeting prerequisites, with the hateful hunger bonus counting as the jikininki’s highest and only favored enemy bonus for prerequisites and effects.
 
-### Combat Style Feat
+## Combat Style Feat
 
 A jikininki can select Necrosis feats as combat style feats.
 
-### Night Stalker (Ex)
+## Night Stalker (Ex)
 
 At 3rd level, a jikininki gains a +2 bonus to initiative and Stealth checks in areas of dim light or darkness.
 

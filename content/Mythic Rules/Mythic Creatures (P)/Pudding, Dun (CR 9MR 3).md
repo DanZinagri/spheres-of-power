@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (P)]]"
 XP 6,400
 Pathfinder Roleplaying Game Bestiary (variant black pudding), Tome of Horrors Complete (variant dun pudding)
 N Huge ooze (mythic)
-**Init**–5;**Senses** blindsight 30 ft., tremorsense 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 30 ft., tremorsense 60 ft.; Perception –5
 
 #### Defense
 
-**AC**6,**touch**3,**flat-footed** 6 (–5 Dex, +3 natural, –2 size)
+**AC** 6, **touch** 3, **flat-footed** 6 (–5 Dex, +3 natural, –2 size)
 **hp** 119 (10d8+74)
-**Fort**+8,**Ref**–2,**Will** –2
-**Defensive Abilities**split (piercing and slashing, 10 hp); DR 5/epic;**Immune** ooze traits
+**Fort** +8, **Ref** –2, **Will** –2
+**Defensive Abilities** split (piercing and slashing, 10 hp); DR 5/epic; **Immune** ooze traits
 
 #### Offense
 
 **Speed** 20 ft., burrow 20 ft.
 **Melee** slam +9 (2d6+6 plus 2d6 acid and grab) or 2 slams +9/+9 (2d6+4 plus 2d6 acid and grab)
-**Space**15 ft.;**Reach** 10 ft. (5 ft. with amorphous attacks)
+**Space** 15 ft.; **Reach** 10 ft. (5 ft. with amorphous attacks)
 **Special Attacks** amorphous attacksMA, constrict (2d6+6 plus 2d6 acid), corrosion, grinding gritMA, mythic power (5/day, surge 1d6+1)
 
 #### Statistics
 
-**Str**19,**Dex**1,**Con**21,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+7;**CMB**+13 (+17 grapple);**CMD** 18 (28 vs. bull rush, drag, and reposition; can’t be tripped)
+**Str** 19, **Dex** 1, **Con** 21, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +7; **CMB** +13 (+17 grapple); **CMD** 18 (28 vs. bull rush, drag, and reposition; can’t be tripped)
 **Feats** Extra Mythic PowerMF, Potent SurgeMF
 **SQ** camouflage, sandcatcher, undermineMA
 

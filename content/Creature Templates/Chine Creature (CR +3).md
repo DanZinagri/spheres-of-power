@@ -20,7 +20,7 @@ There are planes of existence and worlds beyond ours where life is not limited t
 
 **HP:** A chine creature gains bonus hit points as a construct based on its size. See the Pathfinder Roleplaying Game Bestiary.
 
-**Defensive Abilities:** fast healing 1, hardness 20,**Immune** construct traits.
+**Defensive Abilities:** fast healing 1, hardness 20, **Immune** construct traits.
 
 **Special Abilities:** A chine creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -65,7 +65,7 @@ The amount of damage dealt is based on the chine creature’s CR.
 
 **Vulnerability to Magic (Ex):** A chine creature suffers a -4 penalty against all spells, spell-like abilities and supernatural effects including spell resistance.
 
-**Abilities:** Increase from the base creature as follows:**Str**+4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength and CMB checks, +2 to CMD),**Dex**+4 (+2 to ranged attack rolls, AC and touch AC, initiative checks and Reflex saves, +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs),**Int**+4 (add 2 bonus languages, add 2 skill points per HD, +2 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks +2 to any of the base creature’s Intelligence-based DCs),**Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks, +2 to attempts to influence others and to Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs). As a construct, a chine creature does not have a Constitution score (reducing its bonus to Hit Points and Fortitude saves, and Con-based DCs).
+**Abilities:** Increase from the base creature as follows: **Str** +4 (+2 to attack and damage, +2 to Climb and Swim checks, +2 to Strength and CMB checks, +2 to CMD), **Dex** +4 (+2 to ranged attack rolls, AC and touch AC, initiative checks and Reflex saves, +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to any of the base creature’s Dexterity-based DCs), **Int** +4 (add 2 bonus languages, add 2 skill points per HD, +2 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks +2 to any of the base creature’s Intelligence-based DCs), **Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks, +2 to attempts to influence others and to Channel Energy DCs, +2 to any of the base creature’s Charisma-based DCs). As a construct, a chine creature does not have a Constitution score (reducing its bonus to Hit Points and Fortitude saves, and Con-based DCs).
 
 **Feats:** A chine creature gains Multiattack as a bonus feat if it has 3 or more natural attacks and does not already have that feat.
 

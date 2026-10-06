@@ -77,17 +77,17 @@ Adopting this approach is a swift action. While you maintain this approach, you 
 
 Avoiding notice this way means the *detector* yields results as if you were not present unless the technology succeeds at a gizmo penetration check (1d20 + its gizmo level) DC 11 + the number of ranks in Stealth you possess; if the technology does not have a gizmo level, substitute the technology’s CR (or appropriate statistic, by GM discretion). If you successfully avoid a *detector*, you remain unnoticed for 1 minute per rank in Stealth you possess. A technological trap does not trigger if you succeed at a Stealth check opposed by the trap’s Disable device DC. A technological trap can trigger again if you are still within its area or meet its trigger condition at the end of your turn.
 
-**Special - Circumvent Magic [approach]**: If you could enter both this approach and the Circumvent Magic [approach], you may maintain both approaches simultaneously.
+**Special - Circumvent Magic [approach]:** If you could enter both this approach and the Circumvent Magic [approach], you may maintain both approaches simultaneously.
 
 #### Commando Crawl [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 If you have been prone since the end of your last turn, you increase the bonus to your AC against ranged attacks made against you to +6, as well doubling the Perception DC modifier due to distance or unfavorable conditions to observers attempting to notice you (in the case of distance, this would increase the DC to notice you by +2 per 10 feet), and you gain concealment—you can make Stealth checks using this concealment while prone at a -5 penalty while crawling, or at no penalty if you do not move or are maintaining the light step approach.
 
 Additionally, you can move at half speed while you are prone, instead of just 5 feet.
 
-**Associated Feats**: Fast Crawl (*Faction Guide*), Lie Low (*Ranged Tactics Toolbox*), Prone Shooter (*Ultimate Combat*).
+**Associated Feats:** Fast Crawl (*Faction Guide*), Lie Low (*Ranged Tactics Toolbox*), Prone Shooter (*Ultimate Combat*).
 
 #### Compelling Diversion [utility]
 
@@ -103,13 +103,13 @@ You retain your Dexterity bonus to AC (if any) while flat-footed against creatur
 
 #### Deft Motion [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 When you adopt the light step approach, you also reduce the DC penalty to Stealth checks to gently operate a mechanism, hide a creature or object, make a hidden maneuver, stifle a noisy action, or to stay hidden while sniping by 5 or your associated ranks, whichever is higher.
 
 If you have at least 6 ranks in Stealth, you can use Stealth to snipe as a full-round action while maintaining the light step approach. If you do, you can make a full attack and hide afterwards, although you suffer a -5 cumulative penalty to the Stealth check to do so for each additional attack you make after the first this way.
 
-**Associated Feats**: Expert Sniper and Master Sniper (*Dirty Tactics Toolbox*)
+**Associated Feats:** Expert Sniper and Master Sniper (*Dirty Tactics Toolbox*)
 
 #### Expert Saboteur
 
@@ -123,7 +123,7 @@ By spending 1 use of skill leverage as an immediate action, you can attempt to d
 
 #### Impromptu Stealth [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Whenever you would attempt an attack of opportunity while you are benefitting from cover or concealment, you can forgo the attack of opportunity to instead attempt a Stealth check against the provoking creature’s CMD. If you succeed, you treat the creature as flat-footed against your first attack made before the end of your next turn.
 
@@ -131,7 +131,7 @@ Additionally, whenever you attempt an initiative check, you can move 10 feet and
 
 #### Lightstalker [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 You can make Stealth checks in normal light at a -20 penalty, even when observed. This penalty is reduced to -10 while maintaining the light step approach.
 
@@ -273,11 +273,11 @@ If the target does not have a damage type, reduce the damage by one die (not bel
 
 #### Wreck Apparatus (sabotage) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
-**Target**: see text.
+**Target:** see text.
 
-**Disable Device DC**: 15 + the caster level or gizmo level of the object (if any).
+**Disable Device DC:** 15 + the caster level or gizmo level of the object (if any).
 
 You sabotage the target to disrupt those that use it.
 

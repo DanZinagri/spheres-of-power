@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (D)]]"
 XP 12,800
 Pathfinder Roleplaying Game Bestiary 2
 NG Large magical beast (air, mythic)
-**Init**+11MF;**Senses** darkvision 120 ft., know alignment, lowlight vision; Perception +17
+**Init** +11MF; **Senses** darkvision 120 ft., know alignment, lowlight vision; Perception +17
 
 #### Defense
 
-**AC**27,**touch**13,**flat-footed** 23 (+3 Dex, +1 dodge, +14 natural, –1 size)
+**AC** 27, **touch** 13, **flat-footed** 23 (+3 Dex, +1 dodge, +14 natural, –1 size)
 **hp** 145 (10d10+90)
-**Fort**+12,**Ref**+10,**Will** +9
-**Defensive Abilities**DR 5/epic;**Resist** cold 10, electricity 10, sonic 10
+**Fort** +12, **Ref** +10, **Will** +9
+**Defensive Abilities** DR 5/epic; **Resist** cold 10, electricity 10, sonic 10
 
 #### Offense
 
 **Speed** 60 ft., fly 120 ft. (good)
 **Melee** 2 hooves +18 (2d6+9 plus 1d6 electricity)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** arcing hoovesMA, breath weapons, flying charge, mythic power (4/day, surge 1d8), merciful strikeMA, ride the lightningMA, trampleMA (2d6+14 plus 2d6 electricity, DC 24)
 
 #### Statistics
 
-**Str**28,**Dex**17,**Con**21,**Int**16,**Wis**18,**Cha** 21
-**Base Atk**+10;**CMB**+20;**CMD** 34 (38 vs. trip)
+**Str** 28, **Dex** 17, **Con** 21, **Int** 16, **Wis** 18, **Cha** 21
+**Base Atk** +10; **CMB** +20; **CMD** 34 (38 vs. trip)
 **Feats** Dodge, Flyby Attack, Improved InitiativeMF, Iron Will, MobilityMF
 **Skills** Fly +18, Knowledge (planes) +13, Perception +17, Sense Motive +14, Survival +14
 **Languages** Auran, Common, Draconic; telepathy 100 ft

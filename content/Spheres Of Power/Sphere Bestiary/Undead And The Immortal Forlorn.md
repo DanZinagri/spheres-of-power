@@ -54,7 +54,7 @@ This book introduces talent packages with undead thematics.
 
 The bloodied maw stands, hunched over a freshly felled corpse, blood dripping from its teeth.
 
-**Duelist Sphere**–**Talents** Blood Drinker, Long Cuts; (bleed) Perforating Wounds
+**Duelist Sphere** – **Talents** Blood Drinker, Long Cuts; (bleed) Perforating Wounds
 
 **Special:** If the creature does not possess a bite natural attack, they gain one appropriate to their size.
 
@@ -68,7 +68,7 @@ The bloodied maw stands, hunched over a freshly felled corpse, blood dripping fr
 
 Dark motes of energy coalesce around the necromancer’s hooded figure, channeling this energy into the nearby corpses of fallen soldiers.
 
-**Death Sphere**–**Talents** Icy Grip, Ranged Death, Mass Reanimate; (dominion) Dark Sacrifice, Reanimated Warriors
+**Death Sphere** – **Talents** Icy Grip, Ranged Death, Mass Reanimate; (dominion) Dark Sacrifice, Reanimated Warriors
 
 **Feats:** The necromancer gains the Outflank teamwork feat, even if it would not meet its prerequisites.
 
@@ -80,7 +80,7 @@ Dark motes of energy coalesce around the necromancer’s hooded figure, channeli
 
 The quiet stalker watches from the shadows, tip toeing as it tracks its quarry.
 
-**Scout Sphere**–**Talents** Find Gap, Great Senses, Identify Rhythms, Lurker, Reflexive Stealth
+**Scout Sphere** – **Talents** Find Gap, Great Senses, Identify Rhythms, Lurker, Reflexive Stealth
 
 **Skills:** A quiet stalker gains a number of ranks in Perception and Stealth equal to its Hit Dice.
 
@@ -92,7 +92,7 @@ The quiet stalker watches from the shadows, tip toeing as it tracks its quarry.
 
 The knotted, muscular body of the shambling brute lunges forward with ferocious strength.
 
-**Brute Sphere**–**Talents** Dominoes, Follow-Through, Greater Brute, Hostile Movement
+**Brute Sphere** – **Talents** Dominoes, Follow-Through, Greater Brute, Hostile Movement
 
 **Application:** The shambling brute uses the Brute sphere shove ability to batter their target as a move action. After hitting an opponent with an attack action, the Follow-Through talent allows the shambling brute to bull rush the target (with a +1, +1 per 4 base attack bonus to the bull rush attempt), potentially pushing them into a hostile location with the Hostile Movement talent (such as off a staircase or out an open window). If the shambling brute bull rushes an opponent into another opponent, it may attempt a trip combat maneuver as a free action.
 
@@ -109,13 +109,13 @@ From deep within a necromancer’s ruined laboratory, to the supernaturally born
 This small, transparent apparition seems to be composed of flowering plant life, its gentle gaze passing over you as it tends to the forest, like its a precious garden.
 XP 2,400
 N Small undead incorporeal
-**Init**+8;**Senses**darkvision 60 ft., greensight;**Perception** +13
+**Init** +8; **Senses** darkvision 60 ft., greensight; **Perception** +13
 
 **Defense**
-**AC**20,**touch**15,**flat-footed** 16 (+5 deflection, +4 Dex, +1 size)
+**AC** 20, **touch** 15, **flat-footed** 16 (+5 deflection, +4 Dex, +1 size)
 **hp** 72 (8d8+40)
-**Fort**+7,**Ref**+6,**Will** +10
-**Defensive Abilities**incorporeal;**Immune** undead traits
+**Fort** +7, **Ref** +6, **Will** +10
+**Defensive Abilities** incorporeal; **Immune** undead traits
 
 **Offense**
 **Speed** fly 30 ft. (perfect)
@@ -123,10 +123,10 @@ N Small undead incorporeal
 **Special Attacks** bloom (DC 19)
 
 **Magic**
-**Caster Level**6;**MSB**+6,**MSD** 17, Concentration +11
-**Tradition**Natural (none);**CAM** Cha
+**Caster Level** 6; **MSB** +6, **MSD** 17, Concentration +11
+**Tradition** Natural (none); **CAM** Cha
 **Spell Points** 11
-**Nature Sphere**–**Packages**plant;**Talents** (geomancing) Create Nature, Plant Mastery; (spirit) Speak With The Elements, Speak With Wildlife (x2)
+**Nature Sphere** – **Packages** plant; **Talents** (geomancing) Create Nature, Plant Mastery; (spirit) Speak With The Elements, Speak With Wildlife (x2)
 • geomancing, close (40 ft.), DC 19, concentration or 6 rounds w/ 1 sp
 ◊ (plant) package; Plant Mastery (increase potency of (plant) package effects)
 • Entangle (entangling plants in 20-foot radius, Reflex save or entangled)
@@ -140,10 +140,10 @@ N Small undead incorporeal
 ◊ Speak With Wildlife (spirit); 1 sp, speak with animals or vermin for 6 minutes
 
 **Statistics**
-**Str**–,**Dex**18,**Con**–,**Int**12,**Wis**14,**Cha** 20
-**Base Atk**+6;**CMB**+10;**CMD** +24
+**Str** –, **Dex** 18, **Con** –, **Int** 12, **Wis** 14, **Cha** 20
+**Base Atk** +6; **CMB** +10; **CMD** +24
 **Feats** Improved Initiative, Iron Will, Skill Focus (Survival), Sphere Focus (Nature)
-**Skills**Fly +25, Handle Animal +13, Knowledge (nature) +13, Perception +13, Survival +17;**Racial Modifiers** +4 Knowledge (nature), Survival +4
+**Skills** Fly +25, Handle Animal +13, Knowledge (nature) +13, Perception +13, Survival +17; **Racial Modifiers** +4 Knowledge (nature), Survival +4
 **Languages** Sylvan
 
 **Special Abilities**
@@ -168,18 +168,18 @@ It is rumored caretaker spirits first form near the dead trunks of ancient trees
 Its jaw hangs low, a sickly purple light emanating from within its corporpulent, bloated body as it shambles forward, its small arms and legs more than compensated for by its toothy maw.
 XP 1,600
 NE Large undead
-**Init**+6;**Senses**darkvision 60 ft.;**Perception** +11
+**Init** +6; **Senses** darkvision 60 ft.; **Perception** +11
 
 **Defense**
-**AC**17,**touch**11,**flat-footed** 15 (+2 Dex, +6 natural, -1 size)
+**AC** 17, **touch** 11, **flat-footed** 15 (+2 Dex, +6 natural, -1 size)
 **hp** 56 (7d8+28)
-**Fort**+6,**Ref**+4,**Will** +8
-**DR**10/piercing;**Immune** undead traits
+**Fort** +6, **Ref** +4, **Will** +8
+**DR** 10/piercing; **Immune** undead traits
 
 **Offense**
 **Speed** 20 ft.
 **Melee** bite +10 (1d8+9 or portal maw)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** portal maw (DC 17)
 
 **Sphere-Like Abilities** (CL 5; MSB +15; MSD 16; concentration +8; CAM Cha)
@@ -188,8 +188,8 @@ NE Large undead
 • Extradimensional Storage (space); 600 pounds, can place or withdraw objects as a move action (approximately 4 Medium creatures)
 
 **Statistics**
-**Str**22,**Dex**14,**Con**–,**Int**8,**Wis**12,**Cha** 18
-**Base Atk**+5;**CMB**+12;**CMD** +24
+**Str** 22, **Dex** 14, **Con** –, **Int** 8, **Wis** 12, **Cha** 18
+**Base Atk** +5; **CMB** +12; **CMD** +24
 **Feats** Improved Initiative, Iron Will, Power Attack, Step Up
 **Skills** Appraise +6, Climb +16, Perception +11
 **Languages** Necril
@@ -217,13 +217,13 @@ The carrier maw is rarely found alone and will protect itself by releasing those
 This human corpse walks with steady steps, weapon raised and a cautious stance. It seems to have been torn and mangled, as though surviving war and conflict from years forgotten.
 XP 800
 N Medium undead
-**Init**+2;**Senses**darkvision 60 ft.;**Perception** +9
+**Init** +2; **Senses** darkvision 60 ft.; **Perception** +9
 
 **Defense**
-**AC**17,**touch**12,**flat-footed** 15 (+3 armor, +2 Dex, +1 natural, +1 shield)
+**AC** 17, **touch** 12, **flat-footed** 15 (+3 armor, +2 Dex, +1 natural, +1 shield)
 **hp** 24 (4d8+8)
-**Fort**+3,**Ref**+3,**Will** +6
-**Defensive Abilities**channel resistance +2;**DR**5/slashing;**Immune** undead traits
+**Fort** +3, **Ref** +3, **Will** +6
+**Defensive Abilities** channel resistance +2; **DR** 5/slashing; **Immune** undead traits
 
 **Offense**
 **Speed** 30 ft., burrow 10 ft.
@@ -232,7 +232,7 @@ N Medium undead
 **Special Attacks** dazing enmity (dazed for 1 round, DC 14)
 
 **Combat**
-**Martial Tradition**Footsoldier (Berserker x2, Shield x2);**PAM** Wis
+**Martial Tradition** Footsoldier (Berserker x2, Shield x2); **PAM** Wis
 **Berserker Sphere** – (exertion) Bone Breaker
 • berserking (5 temporary hit points, -2 AC)
 • brutal strike (special attack action; battered plus (exertion); martial focus, +4 damage)
@@ -242,8 +242,8 @@ N Medium undead
 • active defense (+2 shield bonus to AC as an attack of opportunity plus (deflect) on miss)
 
 **Statistics**
-**Str**18,**Dex**15,**Con**–,**Int**11,**Wis**14,**Cha** 14
-**Base Atk**+2;**CMB**+6;**CMD** +18
+**Str** 18, **Dex** 15, **Con** –, **Int** 11, **Wis** 14, **Cha** 14
+**Base Atk** +2; **CMB** +6; **CMD** +18
 **Feats** Muscular Reflexes, Power Attack
 **Skills** Climb +11, Perception +9, Sense Motive +9, Survival +6
 **Languages** Common, Necril
@@ -293,14 +293,14 @@ Pale blue eyes shine on a shriveled but dignified body, cloaked with runes, magi
 XP 9,600
 Lich thaumaturge 8
 NE Medium undead (augmented elf)
-**Init**+10;**Senses**blindsense 45 ft., darkvision 60 ft.;**Perception** +24
+**Init** +10; **Senses** blindsense 45 ft., darkvision 60 ft.; **Perception** +24
 **Aura** fear (60-ft. radius, DC 22)
 
 **Defense**
-**AC**24,**touch**15,**flat-footed** 19 (+4 armor, +4 Dex, +1 dodge, +5 natural)
+**AC** 24, **touch** 15, **flat-footed** 19 (+4 armor, +4 Dex, +1 dodge, +5 natural)
 **hp** 128 (8d8+64)
-**Fort**+11,**Ref**+9,**Will** +10; +2 vs. enchantments
-**Defensive Abilities**channel resistance +4, foreshadow, rejuvenation;**DR**15/bludgeoning and magic;**Immune** cold, electricity, undead traits
+**Fort** +11, **Ref** +9, **Will** +10; +2 vs. enchantments
+**Defensive Abilities** channel resistance +4, foreshadow, rejuvenation; **DR** 15/bludgeoning and magic; **Immune** cold, electricity, undead traits
 
 **Offense**
 **Speed** 30 ft.
@@ -308,10 +308,10 @@ NE Medium undead (augmented elf)
 **Special Attacks** counterspell (MSB +8), forbidden lore (+3 CL; 15% backlash), invocations (11/day), paralyzing touch (DC 22)
 
 **Magic**
-**Casting Tradition**Inherent Divinity (emotional casting, verbal casting);**Boons**easy focus;**CAM** Cha
-**CL**8 (9 w/ Death);**MSB**+8;**MSD**19;**Concentration** +16
+**Casting Tradition** Inherent Divinity (emotional casting, verbal casting); **Boons** easy focus; **CAM** Cha
+**CL** 8 (9 w/ Death); **MSB** +8; **MSD** 19; **Concentration** +16
 **Spell Points** 15 (2 spent on (sense) talents)
-**Death Sphere**–**Talents** Empowered Reanimate, Permanent Undead, Sustained Necromancy; (ghost strike) Curse
+**Death Sphere** – **Talents** Empowered Reanimate, Permanent Undead, Sustained Necromancy; (ghost strike) Curse
 • ghost strike melee or medium (190 ft.) touch attack +10, DC 21; apply (ghost strike)
 ◊ Curse (ghost strike); 1 sp, inflict permanent curse (ex. -4 on all attack rolls, saving throws, ability checks, and skill checks)
 ◊ Exhausting Strike (ghost strike); fatigue for 9 rounds (Fort negates), +1 sp, exhaust for 9 minutes or fatigue for 1 round (Fort partial)
@@ -319,7 +319,7 @@ NE Medium undead (augmented elf)
 ◊ Empowered Reanimate; reanimated creatures gain +4 Strength and Dexterity
 ◊ Permanent Undead; 2 sp, reanimate becomes instantaneous
 ◊ Sustained Necromancy; reanimate duration increases to hour/caster level, can reduce sp cost by 1 to concentrate on undead instead of duration
-**Destruction Sphere**–**Talents**(blast shape) Energy Sphere, Explosive Orb; (blast type) Shock Blast;**Drawbacks** (Energy Focus (electric))
+**Destruction Sphere** – **Talents** (blast shape) Energy Sphere, Explosive Orb; (blast type) Shock Blast; **Drawbacks** (Energy Focus (electric))
 • destructive blast, close (45 ft.), DC 22; 4d6 damage, +1 sp 8d6; use with (blast shape), inflict a (blast type)
 ◊ (blast shape)
 • Ray (default) (blast shape); melee touch +10 or ranged touch ray (45 ft.) +10
@@ -327,7 +327,7 @@ NE Medium undead (augmented elf)
 • Explosive Orb (blast shape); 5-foot orb, damage (Reflex negates), 1 sp, increase radius to 15 ft. (Reflex half)
 ◊ (blast type)
 • Shock Blast (blast type); 1 sp, electricity damage, d4 instead of d6, creatures struck or fail Reflex save must succeed at Fortitude save or be dazed for 1 round
-**Divination Sphere**–**Talents**(sense) Blindfolded Oracle, Foreshadow;**Drawbacks** (Limited Divination (sense), Hidden Magic)
+**Divination Sphere** – **Talents** (sense) Blindfolded Oracle, Foreshadow; **Drawbacks** (Limited Divination (sense), Hidden Magic)
 • sense (gain a (sense) for 8 hours)
 ◊ Blindfolded Oracle (sense); 1 sp, gain blindsense to close range (45 ft.), +1 sp, upgrade to blindsight
 ◊ Foreshadow (sense); 1 sp, not flat-footed at start of combat, +1 dodge bonus to AC, +2 Reflex and initiative
@@ -337,10 +337,10 @@ NE Medium undead (augmented elf)
 **During Combat** The lich uses (ghost strike) talents with (blast shape) talents or attacks with the Shock Blast (blast type) and boosts his caster level with forbidden lore.
 
 **Statistics**
-**Str**12,**Dex**18,**Con**–,**Int**18,**Wis**16,**Cha** 26
-**Base Atk**+6;**CMB**+7;**CMD** +21
+**Str** 12, **Dex** 18, **Con** –, **Int** 18, **Wis** 16, **Cha** 26
+**Base Atk** +6; **CMB** +7; **CMD** +21
 **Feats** Advanced Magic Training, Counterspell, Extra Magic Talent (x3), Flexible Ghost Strike, Improved Initiative, Magical Aptitude, Sphere Focus (Death), Quicken Spell
-**Skills**Appraise +12, Knowledge (arcana) +17, Knowledge (history) +17, Knowledge (religion) +17, Perception +24, Sense Motive +22, Spellcraft +19, Stealth +13, Use Magic Device +23;**Racial Modifiers** +10 Perception, +8 Sense Motive, +8 Stealth
+**Skills** Appraise +12, Knowledge (arcana) +17, Knowledge (history) +17, Knowledge (religion) +17, Perception +24, Sense Motive +22, Spellcraft +19, Stealth +13, Use Magic Device +23; **Racial Modifiers** +10 Perception, +8 Sense Motive, +8 Stealth
 **Languages** Abyssal, Aklo, Common, Elven, Infernal
 **SQ** elven magic (+2 on MSB vs. spell resistance), invocations (lingering blessing, lingering pain, meditation, empowered attack, empowered defense, channel punishment, defensive invocation), occult knowledge (+2)
 
@@ -354,13 +354,13 @@ NE Medium undead (augmented elf)
 This lean figure peers from underneath its dark robes and hood, hefting its glowing blade at its side. The metal’s shine seems to guide it towards its next quarry.
 XP 76,800
 N Medium undead (extraplanar)
-**Init**+10;**Senses**darkvision 60 ft., see invisibility, status sight, true seeing;**Perception** +25
+**Init** +10; **Senses** darkvision 60 ft., see invisibility, status sight, true seeing; **Perception** +25
 
 **Defense**
-**AC**31,**touch**16,**flat-footed** 25 (+6 Dex, +7 insight, +8 natural)
+**AC** 31, **touch** 16, **flat-footed** 25 (+6 Dex, +7 insight, +8 natural)
 **hp** 187 (17d8+119)
-**Fort**+12,**Ref**+11,**Will** +17
-**Defensive Abilities**channel resistance +4, death’s serenity;**DR**10/–;**Immune**undead traits;**SR** 27
+**Fort** +12, **Ref** +11, **Will** +17
+**Defensive Abilities** channel resistance +4, death’s serenity; **DR** 10/–; **Immune** undead traits; **SR** 27
 
 **Offense**
 **Speed** 30 ft., fly 60 ft. (perfect)
@@ -368,8 +368,8 @@ N Medium undead (extraplanar)
 **Special Attacks** death’s weapon (DC 25), final reaping
 
 **Combat**
-**Martial Tradition**Pursuer (Equipment x1, Duelist x2, Scout x1);**PAM** Cha
-**Berserker Sphere**–**Talents** Advancing Carnage, Decapitate, Reaper’s Momentum, Savage; (adrenaline) Dreadnought, Specter
+**Martial Tradition** Pursuer (Equipment x1, Duelist x2, Scout x1); **PAM** Cha
+**Berserker Sphere** – **Talents** Advancing Carnage, Decapitate, Reaper’s Momentum, Savage; (adrenaline) Dreadnought, Specter
 • Advancing Carnage; can take a -2 penalty on attack rolls to make additional attacks against adjacent targets, to a maximum of 6 extra attacks
 • Decapitate; do not provoke when performing coup de grace. If you have martial focus, can perform coup de grace as a standard action
 • Reaper’s Momentum; while maintaining martial focus, whenever you reduce a creature to 0 or fewer hit points with a melee or thrown weapon, you may immediately make another melee or thrown weapon attack, to a maximum of 2 per round
@@ -378,7 +378,7 @@ N Medium undead (extraplanar)
 ◊ Dreadnought (adrenaline); gain +4 bonus to CMD and on saving throws vs. movement impairing effects, and may roll twice on saves vs. these effects. Immediate action 1/round attempt a new save or combat maneuver to end a movement impairing effect.
 ◊ Specter (adrenaline); expend martial focus, do not provoke movement vs. one target within 35 feet and +5 dodge bonus to AC vs. attacks of opportunity
 • brutal strike (special attack action; battered plus (exertion); martial focus, +24 damage)
-**Duelist Sphere**–**Talents** Defensive Slice, Defiant Focus, Long Cuts, Ooze Ichor; (bleed) Bleed Air, Debilitating Injuries, Leg Cutter; (disarm) Whirlwind Draw
+**Duelist Sphere** – **Talents** Defensive Slice, Defiant Focus, Long Cuts, Ooze Ichor; (bleed) Bleed Air, Debilitating Injuries, Leg Cutter; (disarm) Whirlwind Draw
 • Defensive Slice; can make AoO vs. projectiles to deflect
 • Defiant Focus; move action to stow weapon without provoking, regain martial focus
 • Long Cuts; target must receive 15 healing or DC 30 Heal to stop bleeding
@@ -389,10 +389,10 @@ N Medium undead (extraplanar)
 ◊ Leg Cutter (bleed); -2 on attack roll, Fortitude save or target falls prone
 • (disarm) talents
 ◊ Whirlwind Draw (disarm); whenever you succeed at a disarm attempt, may sheath weapon. In addition, threaten with sheathed/carried weapon and may draw it as part of an attack of opportunity
-**Equipment Sphere**–**Talents** Fast Draw; (discipline) Peasant Training
+**Equipment Sphere** – **Talents** Fast Draw; (discipline) Peasant Training
 • Fast Draw; can draw weapon as part of attacking with it
 • Peasant Training (discipline); proficiency in farmers tools (pitchfork, scythe, etc.)
-**Scout Sphere**–**Talents** Track The Scene
+**Scout Sphere** – **Talents** Track The Scene
 • Track The Scene; gain +6 bonus on Survival checks to find and follow tracks, plus additional information when tracking
 • scout (swift action, Perception check at -5 penalty to identify weaknesses)
 
@@ -402,8 +402,8 @@ N Medium undead (extraplanar)
 • teleport (a reaper may use its teleport ability to travel between planes)
 
 **Statistics**
-**Str**28,**Dex**22,**Con**–,**Int**14,**Wis**20,**Cha** 24
-**Base Atk**+12;**CMB**+21;**CMD** +37
+**Str** 28, **Dex** 22, **Con** –, **Int** 14, **Wis** 20, **Cha** 24
+**Base Atk** +12; **CMB** +21; **CMD** +37
 **Feats** Extra Combat Talent (x3), Combat Reflexes, Improved Initiative, Iron Will, Power Attack, Step Up, Vital Strike
 **Skills** Diplomacy +24, Fly +34, Knowledge (religion) +22, Perception +25, Sense Motive +25, Survival +22
 **Languages** Common, Celestial, Infernal
@@ -449,7 +449,7 @@ Dullahan are sometimes seen mounted on undead horses or as the drivers of vigil-
 A dullahan is a variant reaper which exchanges talents (Berserker (Decapitate, Dreadnought (adrenaline), Savage, Specter (adrenaline)), Duelist (Defensive Slice, Leg Cutter (bleed))) and special abilities (Final Reaping) for the following:
 **Aura** frightful presence (30 ft., DC 23)
 **Alignment** Lawful Evil
-**Gladiator Sphere**–**Talents** Master Of Fear; (boast) Unsettling Visage; (demoralization) Dread, Dullahan’s Call
+**Gladiator Sphere** – **Talents** Master Of Fear; (boast) Unsettling Visage; (demoralization) Dread, Dullahan’s Call
 • boast (immediate action after critical hit, reduce enemy to 0, or successful combat maneuver, apply (boast) in 55-foot radius)
 ◊ Unsettling Visage (boast); can Intimidate to demoralize creatures who target you with an attack
 • strike fear (standard action, demoralize 30-ft. radius; apply (demoralization) to enemies shaken); Master Of Fear (strike fear can be used as a standard action, no longer costs martial focus); (demoralization) DC 23
@@ -472,7 +472,7 @@ As a standard action, the dullahan may summon a war-trained heavy horse with the
 A chosen undead of one of the four horsemen, death, famine, pestilence, and war, a horseman’s rider is a profanely-anointed undead champion who leads their liege’s forces in conquest and service, as well as heralding their master’s intentions or interests in a region. The sighting of a horseman’s rider is often associated with total calamity, and will mobilize a nation’s strongest to quell the threat or organize in the fear of their master’s arrival.
 
 A horseman’s rider is a variant reaper which exchanges talents (Berserker (Decapitate, Dreadnought (adrenaline), Savage, Specter (adrenaline)), Duelist (Defensive Slice, Leg Cutter (bleed))) and special abilities (Final Reaping) for the following:
-**Beastmastery Sphere**–**Packages**ride;**Talents** Focusing Connection; (ride) Acrobatic Mount, Skirmish Rider
+**Beastmastery Sphere** – **Packages** ride; **Talents** Focusing Connection; (ride) Acrobatic Mount, Skirmish Rider
 • Focusing Connection; move action regain martial focus if in contact with animal ally
 • (ride) talents; (used while mounted)
 ◊ Acrobatic Mount (ride); can use Ride check in place of Acrobatics to move through threatened squares
@@ -515,13 +515,13 @@ Remnants are found and formed anywhere, but are “territorial” in the sense t
 This ghostlike visage is no more than tatters of spiritual energy and wisps of long-forgotten emotion, quietly stalking the place it was formed.
 XP 800
 N Medium undead (incorporeal)
-**Init**+3;**Senses**darkvision 60 ft., thoughtsense 30 ft.;**Perception** +7
+**Init** +3; **Senses** darkvision 60 ft., thoughtsense 30 ft.; **Perception** +7
 
 **Defense**
-**AC**16,**touch**13,**flat-footed** 13 (+3 deflection, +3 Dex)
+**AC** 16, **touch** 13, **flat-footed** 13 (+3 deflection, +3 Dex)
 **hp** 21 (3d8+9)
-**Fort**+4,**Ref**+4,**Will** +4
-**Defensive Abilities**channel resistance +2, incorporeal;**Immune** undead traits
+**Fort** +4, **Ref** +4, **Will** +4
+**Defensive Abilities** channel resistance +2, incorporeal; **Immune** undead traits
 
 **Offense**
 **Speed** fly 40 ft. (perfect)
@@ -529,10 +529,10 @@ N Medium undead (incorporeal)
 **Special Attacks** emotion (grief, 1d6+1 nonlethal and sickened for 1 round; paralyzing grief, Will save or nauseated for 1 round, DC 16)
 
 **Statistics**
-**Str**–,**Dex**16,**Con**–,**Int**10,**Wis**12,**Cha** 16
-**Base Atk**+2;**CMB**+5;**CMD** +18
+**Str** –, **Dex** 16, **Con** –, **Int** 10, **Wis** 12, **Cha** 16
+**Base Atk** +2; **CMB** +5; **CMD** +18
 **Feats** Ability Focus (emotion), Combat Reflexes
-**Skills**Fly +17, Perception +7, Sense Motive +15, Stealth +9;**Racial Modifiers** +8 Sense Motive
+**Skills** Fly +17, Perception +7, Sense Motive +15, Stealth +9; **Racial Modifiers** +8 Sense Motive
 
 **Special Abilities**
 **Emotion (Su):** A remnant is born from powerful emotions. Remnants gain the minor and lesser emotions from the eliciter’s emotion class feature (Ultimate Spheres of Power pg. 44), using their Hit Dice as their effective eliciter level when determining the effects. Remnants can use their emotion abilities an unlimited number of times each day. The save DC against a remnant’s emotion ability is 10 + 1/2 the remnant’s Hit Dice + its Charisma modifier.
@@ -561,14 +561,14 @@ Remnants are formed at the site of powerful emotions. Common remnants include fe
 Powerful strands of emotion wrap as chains, thorns, and crowns around this apparition’s body, its movements leaving tangible ripples in the air.
 XP 6,400
 NE Medium undead (incorporeal)
-**Init**+9;**Senses**darkvision 60 ft., thoughtsense 30 ft.;**Perception** +13
+**Init** +9; **Senses** darkvision 60 ft., thoughtsense 30 ft.; **Perception** +13
 **Aura** aura of despair (30 ft., enemies take -2 on ability checks, attack rolls, damage rolls, saving throws, and skill checks)
 
 **Defense**
-**AC**20,**touch**16,**flat-footed** 15 (+4 deflection, +5 Dex, +1 dodge)
+**AC** 20, **touch** 16, **flat-footed** 15 (+4 deflection, +5 Dex, +1 dodge)
 **hp** 72 (9d8+36)
-**Fort**+7,**Ref**+8,**Will** +7
-**Defensive Abilities**channel resistance +4, incorporeal;**Immune** undead traits
+**Fort** +7, **Ref** +8, **Will** +7
+**Defensive Abilities** channel resistance +4, incorporeal; **Immune** undead traits
 
 **Offense**
 **Speed** fly 60 ft. (perfect)
@@ -576,10 +576,10 @@ NE Medium undead (incorporeal)
 **Special Attacks** emotion (grief, 1d6+4 nonlethal and sickened for 4 rounds; paralyzing grief, Will save or nauseated for 1 round, DC 20)
 
 **Statistics**
-**Str**–,**Dex**20,**Con**–,**Int**10,**Wis**13,**Cha** 19
-**Base Atk**+6;**CMB**+10;**CMD** +26
+**Str** –, **Dex** 20, **Con** –, **Int** 10, **Wis** 13, **Cha** 19
+**Base Atk** +6; **CMB** +10; **CMD** +26
 **Feats** Ability Focus (emotion), Combat Reflexes, Dodge, Flyby Attack, Improved Initiative
-**Skills**Fly +25, Perception +13, Sense Motive +21, Stealth +17;**Racial Modifiers** +8 Sense Motive
+**Skills** Fly +25, Perception +13, Sense Motive +21, Stealth +17; **Racial Modifiers** +8 Sense Motive
 
 **Special Abilities**
 **Emotion (Su):** A greater remnant is born from powerful emotions. Greater remnants gain the minor, lesser, greater, and master emotions from the eliciter’s emotion class feature (Ultimate Spheres of Power pg. 44), using their Hit Dice as their effective eliciter level when determining the effects. Greater remnants can use their emotion abilities an unlimited number of times each day. The save DC against a remnant’s emotion ability is 10 + 1/2 the remnant’s Hit Dice + its Charisma modifier.
@@ -608,31 +608,31 @@ Unusually powerful remnants become greater remnants. Masterful conduits of the e
 This malignant, aberration-like body glows softly with a malicious light, its eyes empty sockets, as its bones and appendages twist and contort, sinuous tentacles writhing within its flesh.
 XP 12,800
 CE Medium undead
-**Init**+6;**Senses**darkvision 60 ft., lifesense 30 ft.;**Perception** +18
+**Init** +6; **Senses** darkvision 60 ft., lifesense 30 ft.; **Perception** +18
 
 **Defense**
-**AC**22,**touch**12,**flat-footed** 20 (+2 Dex, +10 natural; soul consumer)
+**AC** 22, **touch** 12, **flat-footed** 20 (+2 Dex, +10 natural; soul consumer)
 **hp** 140 (14d8+84); fast healing (see soul consumer)
-**Fort**+9,**Ref**+6,**Will** +10
+**Fort** +9, **Ref** +6, **Will** +10
 **Immune** cold, undead traits
 **Weaknesses** soul consumer
 
 **Offense**
 **Speed** 10 ft., fly 60 ft. (perfect)
 **Melee** bite +20 (1d8+9/19-20 plus energy drain), 4 tentacles +14 (1d8+4 plus energy drain)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** energy drain (1 level, DC 22)
 
 **Combat**
-**Martial Tradition**n/a;**PAM** Wis
-**Guardian Sphere**–**Talents**Greater Delayed Damage, Punishment;**Drawbacks** (Indifferent Defender)
+**Martial Tradition** n/a; **PAM** Wis
+**Guardian Sphere** – **Talents** Greater Delayed Damage, Punishment; **Drawbacks** (Indifferent Defender)
 • delayed damage pool (40 points)
 ◊ Greater Delayed Damage; pool increases +1/BAB
 ◊ Punishment; immediate action after attack, expend martial focus, inflict damage equal to current delayed damage (Fortitude half)
 
 **Statistics**
-**Str**28,**Dex**14,**Con**–,**Int**10,**Wis**12,**Cha** 20
-**Base Atk**+10;**CMB**+19;**CMD** +31 (cannot be tripped)
+**Str** 28, **Dex** 14, **Con** –, **Int** 10, **Wis** 12, **Cha** 20
+**Base Atk** +10; **CMB** +19; **CMD** +31 (cannot be tripped)
 **Feats** Extra Combat Talent (x2), Flyby Attack, Improved Critical (bite), Improved Initiative, Toughness, Weapon Focus (bite)
 **Skills** Fly +27, Perception +18, Sense Motive +18, Stealth +19
 **Languages** Common (cannot speak)
@@ -663,21 +663,21 @@ This lithe, pale woman brandishes her fangs and rapier, her eyes a deep crimson 
 XP 4,800
 Female human vampire eliciter 7
 NE Medium undead (augmented humanoid)
-**Init**+8;**Senses** darkvision 60 ft.; Perception +22
+**Init** +8; **Senses** darkvision 60 ft.; Perception +22
 
 **Defense**
-**AC**26,**touch**20,**flat-footed** 22 (+5 armor, +4 Dex, +1 dodge, +6 natural)
+**AC** 26, **touch** 20, **flat-footed** 22 (+5 armor, +4 Dex, +1 dodge, +6 natural)
 **hp** 112 (7d8+56); fast healing 5
-**Fort**+11,**Ref**+13,**Will** +9 (+3 vs. charm and compulsion)
-**Defensive Abilities**channel resistance +4, unarmored training +5;**DR**10/magic and silver;**Immune**undead traits;**Resist** cold 10, electricity 10
+**Fort** +11, **Ref** +13, **Will** +9 (+3 vs. charm and compulsion)
+**Defensive Abilities** channel resistance +4, unarmored training +5; **DR** 10/magic and silver; **Immune** undead traits; **Resist** cold 10, electricity 10
 **Weaknesses** vampire weaknesses
 
 **Offense**
 **Speed** 30 ft., climb 45 ft.
 **Melee** +1 rapier +10 (1d6+9/18-20) or slam +9 (1d4+9 plus energy drain)
 **Special Attacks** blood drain, create spawn, dominate (DC 23), elicit strike, emotion (fear, 10/day frightened for 1 round (Will negates) plus shaken for 3 rounds (no save), DC 23), energy drain (2 levels, DC 20), hypnotism (6/day, DC 23, fascinate, liberate, terrorize), persuasive +3
-**Casting Tradition**Natural;**CAM** Cha
-**CL**5 (7 w/ Mind);**MSB**+7;**MSD**18;**Concentration** +14
+**Casting Tradition** Natural; **CAM** Cha
+**CL** 5 (7 w/ Mind); **MSB** +7; **MSD** 18; **Concentration** +14
 **Spell Points** 14
 **Dark Sphere** – (darkness) Thick Darkness; (meld) Clearsight
 • darkness, medium (150 ft.), DC 19; 20-ft. radius becomes dim light, concentration, 5 min. with 1 sp
@@ -703,23 +703,23 @@ NE Medium undead (augmented humanoid)
 • Powerful Charm; spend 2 sp to use powerful charm effect
 
 **Combat**
-**Martial Tradition**Dedicated Duelist (Equipment x3, Fencing x1);**PAM** Wis
+**Martial Tradition** Dedicated Duelist (Equipment x3, Fencing x1); **PAM** Wis
 **Duelist Sphere**
 • blooded strike, (deal 2 bleed on attack action, do not provoke AoO on maneuvers vs. bleeding targets, apply one (bleed))
-**Equipment Sphere**–**Talents** Finesse Fighting (x2), Unarmored Training; (discipline) Duelist Training
+**Equipment Sphere** – **Talents** Finesse Fighting (x2), Unarmored Training; (discipline) Duelist Training
 • Duelist Training (discipline); gain proficiency with a number of bladed weapons
 • Finesse Fighting (2); use Dexterity to attack, add 1/2 BAB to damage
 • Unarmored Training; gain +5 armor bonus that applies to touch while unarmored
-**Fencing Sphere**–**Talents** Focusing Feint, Parry And Riposte; (exploit) Face Strike
+**Fencing Sphere** – **Talents** Focusing Feint, Parry And Riposte; (exploit) Face Strike
 • fatal thrust (deal 2d6 precision damage vs. flat-footed, flanked, or Dexterity-denied foes with attack actions or AoO, apply one (exploit)); (exploit) DC 14
 ◊ Face Strike (exploit); target treats all targets as though they had partial concealment (20% miss) and suffers a -2 penalty to Perception for 2 rounds
 • Parry And Riposte; expend martial focus, make attack roll to negate incoming melee attack. If successful, regain martial focus or immediate action attack parried target
 
 **Statistics**
-**Str**18,**Dex**18,**Con**–,**Int**14,**Wis**14,**Cha** 24
-**Base Atk**+5;**CMB**+9;**CMD** +25
-**Feats**Alertness, Combat Reflexes, Dodge, Elicit Strike, Greater Hypnosis, Improved Initiative, Lightning Reflexes, Mystic Focus, Toughness, Transformation (Small-sized bat);**Other** Feat to Talent trade for Proficient combat progression
-**Skills**Acrobatics +11, Bluff +27, Knowledge (noblilty) +9, Knowledge (religion) +12, Perception +22, Sense Motive +25, Stealth +22;**Racial Modifiers** +8 Bluff, +8 Perception, +8 Sense Motive, +8 Stealth
+**Str** 18, **Dex** 18, **Con** –, **Int** 14, **Wis** 14, **Cha** 24
+**Base Atk** +5; **CMB** +9; **CMD** +25
+**Feats** Alertness, Combat Reflexes, Dodge, Elicit Strike, Greater Hypnosis, Improved Initiative, Lightning Reflexes, Mystic Focus, Toughness, Transformation (Small-sized bat); **Other** Feat to Talent trade for Proficient combat progression
+**Skills** Acrobatics +11, Bluff +27, Knowledge (noblilty) +9, Knowledge (religion) +12, Perception +22, Sense Motive +25, Stealth +22; **Racial Modifiers** +8 Bluff, +8 Perception, +8 Sense Motive, +8 Stealth
 **Languages** common, elven, necril
 **SQ** emotion (fear (minor, lesser)), mistform, persuasive +3, shadowless, spider climb
 

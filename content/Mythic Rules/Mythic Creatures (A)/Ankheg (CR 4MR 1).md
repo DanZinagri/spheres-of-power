@@ -13,25 +13,25 @@ This burrowing, bug-like monster scuttles about on six legs, drooling noxious gr
 XP 800
 Pathfinder Roleplaying Game Bestiary
 N Large magical beast (mythic)
-**Init**+0;**Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +8
+**Init** +0; **Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +8
 
 #### Defense
 
-**AC**17,**touch**9,**flat-footed** 17 (+8 natural, –1 size)
+**AC** 17, **touch** 9, **flat-footed** 17 (+8 natural, –1 size)
 **hp** 38 (3d10+22)
-**Fort**+6,**Ref**+3,**Will** +2
+**Fort** +6, **Ref** +3, **Will** +2
 
 #### Offense
 
 **Speed** 30 ft., burrow 20 ft.
 **Melee** bite +5 (2d6+4 plus 1d4 acid and grab)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** caustic quicksandMA, mythic power (3/day, surge +1d6), spit acid, tunnel tuggerMA
 
 #### Statistics
 
-**Str**16,**Dex**10,**Con**17,**Int**1,**Wis**13,**Cha** 6
-**Base Atk**+3;**CMB**+7 (+11 drag or grapple);**CMD** 17 (25 vs. trip)
+**Str** 16, **Dex** 10, **Con** 17, **Int** 1, **Wis** 13, **Cha** 6
+**Base Atk** +3; **CMB** +7 (+11 drag or grapple); **CMD** 17 (25 vs. trip)
 **Feats** Extra Mythic PowerMF, Skill Focus (Perception), Toughness
 **Skills** Climb +8, Perception +8
 

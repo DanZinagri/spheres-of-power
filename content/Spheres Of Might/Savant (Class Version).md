@@ -101,7 +101,7 @@ At 20th level, the savant selects two insights other than rebuke death; he may u
 
 #### Moderated Invocation [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Forbidden Lore or Strain class feature
 
@@ -117,8 +117,8 @@ The following magical items are especially appropriate for savants.
 
 #### Insightful Band [TS:WAT]
 
-**Aura**faint War;**CL** 5th
-**Slot**headband;**Price**12,000 gp;**Weight** 1/10 lbs.
+**Aura** faint War; **CL** 5th
+**Slot** headband; **Price** 12,000 gp; **Weight** 1/10 lbs.
 
 This lightweight cloth band is easy to tie around the head. While worn by a creature with the insights class feature, it grants them three additional uses of insights per day. A creature cannot benefit from more than one of these headbands per day.
 
@@ -127,8 +127,8 @@ Craft Apparatus, War sphere (Resourcefulness), creator must have the insights cl
 
 #### Rapid Preparation Bracers [TS:WAT]
 
-**Aura**faint War;**CL** 4th
-**Slot**wrists;**Price**9,000 gp;**Weight** 3 lbs.
+**Aura** faint War; **CL** 4th
+**Slot** wrists; **Price** 9,000 gp; **Weight** 3 lbs.
 
 These bracers are etched with symbols depicting dozens of combat styles. Whenever a creature with the flexible combat training class feature can change their combat talents gained from savant levels, they may choose a different set of talents to imbue into these bracers. Thereafter, while wearing these bracers and by spending a full-round action, that same creature may activate these bracers to instantly change all of their combat talents from savant levels into those saved into the bracers.
 
@@ -137,8 +137,8 @@ Craft Apparatus, War sphere, creator must have the flexible combat training clas
 
 #### Ring Of Strain-Storing [TS:WAT]
 
-**Aura**moderate War;**CL** 8th
-**Slot**ring;**Price**15,000 gp;**Weight** 1/2 lbs.
+**Aura** moderate War; **CL** 8th
+**Slot** ring; **Price** 15,000 gp; **Weight** 1/2 lbs.
 
 This ring consists of delicate layers of magical energy that help to absorb wasted force when it does not have a proper outlet. Every time a creature wearing this ring misses on the first attack roll or combat maneuver check they make while using strain against an enemy whose presence they are aware of, this ring gains one charge. The ring can hold up to three charges, and the user can expend one or more charges as a free action before they roll an attack or attempt a combat maneuver check to increase their bonus from strain by the number of charges spent. A creature cannot benefit from more than one of these rings at a time.
 

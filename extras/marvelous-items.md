@@ -2,7 +2,7 @@
 
 ### Aspect Talisman [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate transmutation (Alteration) — **CL** 8th
 **Slot** none; **Price** 8,000 gp; **Weight** —
@@ -19,7 +19,7 @@ The wearer gains Aspect of the Beast as a bonus feat. Whenever the wearer rests 
 
 ### Blanching Quiver [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint conjuration (Creation) — **CL** 4th
 **Slot** slotless; **Price** 2,400 gp; **Weight** 2 lbs.
@@ -34,7 +34,7 @@ This banded metal quiver features an assortment of assorted metal bands.
 
 ### Creature Caller's Phial [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate conjuration (Conjuration) — **CL** 9th
 **Slot** slotless; **Price** 9,000 gp (standard), 22,000 (greater); **Weight** —
@@ -55,7 +55,7 @@ A *greater creature caller's phial* instead grants the chosen (type) talent as t
 
 ### Clockwinder Gloves [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate transmutation (Time) — **CL** 6th
 **Slot** hands; **Price** 6,000 gp; **Weight** —
@@ -75,7 +75,7 @@ Twice per day as a swift action, the wearer of a pair of *clockwinder gloves* ma
 
 ### Cloudcalling Focus [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong transmutation (Weather) — **CL** 12th
 **Slot** neck; **Price** 15,000 gp; **Weight** —
@@ -92,7 +92,7 @@ The wearer treats the weather severity as being 1 higher (for each category) for
 
 ### Cloying Brooch [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint evocation (Dark) — **CL** 5th
 **Slot** none; **Price** 6,000 gp; **Weight** —
@@ -111,7 +111,7 @@ The shadow limb is partially-immaterial and allows the wearer to use the shadow 
 
 ### Coin of Weighted Fortune [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate divination (Fate) — **CL** 8th
 **Slot** slotless; **Price** 9,000 gp; **Weight** —
@@ -133,7 +133,7 @@ This coin may only be flipped during moments of stress, action, or adrenaline. A
 
 ### Lenses of Focused Insight [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint divination (Divination) — **CL** 5th
 **Slot** eyes; **Price** 6,000 gp; **Weight** —
@@ -148,7 +148,7 @@ The range of Divination *sense* abilities (whose ranges are measured in feet) af
 
 ### Lifebinder Chalice [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate conjuration (Life) — **CL** 8th
 **Slot** slotless; **Price** 8,500 gp; **Weight** 1 lb.
@@ -165,7 +165,7 @@ While held in hand, whenever the user receives healing in excess of their maximu
 
 ### Gale Lord's Cloak [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate transmutation (Weather) — **CL** 8th
 **Slot** shoulders; **Price** 13,000 gp; **Weight** 1 lb.
@@ -182,7 +182,7 @@ While concentrating on the Weather *control weather* sphere effect to adjust the
 
 ### Glowcaster [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint evocation (Light) — **CL** 4th
 **Slot** slotless; **Price** 2,500 gp; **Weight** 0.5 lbs.
@@ -201,7 +201,7 @@ When a *glowcaster* is shedding light, the user may coax this light from its ves
 
 ### Gravewhisperer Veil [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate necromancy (Death) — **CL** 9th
 **Slot** head; **Price** 9,000 gp; **Weight** —
@@ -220,7 +220,7 @@ Only a single fragment can be stored this way, and while stored, the veil's gray
 
 ### Manaleech Choker [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong universal (Mana) — **CL** 15th
 **Slot** neck; **Price** 24,000 gp; **Weight** 1 lbs.
@@ -237,7 +237,7 @@ The *manaleech choker* may only attempt to steal magic if the struck creature sp
 
 ### Metalheart Bracers [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint transmutation (Enhancement) — **CL** 3rd
 **Slot** wrists; **Price** 1,200 gp; **Weight** 0.5 lbs.
@@ -254,7 +254,7 @@ Any weapon wielded by the wearer is treated as a masterwork weapon (if not alrea
 
 ### Mirrormagic Coat [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong illusion (Illusion) — **CL** 12th
 **Slot** body; **Price** 15,000 gp; **Weight** 4 lbs.
@@ -273,7 +273,7 @@ In addition, the wearer gains a +3 bonus on Bluff and Sleight of Hand checks.
 
 ### Pact Talisman [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint conjuration (Conjuration) — **CL** 5th
 **Slot** neck; **Price** 7,000 gp (+1), 11,000 gp (+2), 21,000 gp (+3); **Weight** —
@@ -294,7 +294,7 @@ The *pact talisman* continues to glow while the summon effect persists, and may 
 
 ### Sanguinis Coil [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong necromancy (Blood) — **CL** 13th
 **Slot** wrist; **Price** 19,000 gp; **Weight** —
@@ -315,7 +315,7 @@ The wearer may use this ability so long as they are capable of taking mental act
 
 ### Sash of Earthly Illumination [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate divination and evocation (Divination and Light) — **CL** 7th
 **Slot** chest; **Price** 13,000 gp; **Weight** 1 lb.
@@ -332,7 +332,7 @@ The wearer gains tremorsense with a range of 20 feet.
 
 ### Shadowcatcher Bangles [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint evocation (Dark) — **CL** 4th
 **Slot** wrist; **Price** 1,500 gp; **Weight** —
@@ -349,7 +349,7 @@ For example, upon exiting a Polished Dark *gloom*, the wearer would be treated a
 
 ### Shine Lenses [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate evocation (Light) — **CL** 11th
 **Slot** eyes; **Price** 12,000 gp; **Weight** —
@@ -366,7 +366,7 @@ The wearer gains a +4 competence bonus on Perception checks. This bonus increase
 
 ### Whispercoin [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** faint enchantment (Mind) — **CL** 5th
 **Slot** slotless; **Price** 2,000 gp; **Weight** —

@@ -10,13 +10,13 @@ parent: "[[Spheres Of Power]]"
 **The Master of Many Forms**
 Male/Female human shifter 1
 CG Medium humanoid (human)
-**Init**+7;**Senses** Perception +8
+**Init** +7; **Senses** Perception +8
 
 ## Defense
 
-**AC**11,**touch**11,**flat-footed** 10 (+1 Dex)
+**AC** 11, **touch** 11, **flat-footed** 10 (+1 Dex)
 **hp** 8 (1d8)
-**Fort**+2,**Ref**+3,**Will** +4
+**Fort** +2, **Ref** +3, **Will** +4
 **Weaknesses** lycanthropic, magical signs
 
 ## Offense
@@ -25,16 +25,16 @@ CG Medium humanoid (human)
 
 ## Magic
 
-**Caster Level**0 (1);**MSB**+1;**MSD** 12; Concentration +5
-**Tradition**Lycanthropic, Magical Signs;**CAM** Wis
+**Caster Level** 0 (1); **MSB** +1; **MSD** 12; Concentration +5
+**Tradition** Lycanthropic, Magical Signs; **CAM** Wis
 **Spell Points** 6
-**Alteration Sphere**-**DC**14;**Duration**1 minute, Concentration;**Range**Self;**Talents**Animalistic Transformation, Bestial Reflexes, Greater Transformation, Size Change;**Drawbacks** Lycanthropic
+**Alteration Sphere** - **DC** 14; **Duration** 1 minute, Concentration; **Range** Self; **Talents** Animalistic Transformation, Bestial Reflexes, Greater Transformation, Size Change; **Drawbacks** Lycanthropic
 - *Shapeshift* (Animalistic Transformation, Bestial Reflexes, Blank Form, Size Change) [+1 trait from Greater Transformation]
 
 ## Statistics
 
-**Str**13,**Dex**12,**Con**10,**Int**10,**Wis**18,**Cha** 10
-**Base Atk**+0;**CMB**+1;**CMD** 12
+**Str** 13, **Dex** 12, **Con** 10, **Int** 10, **Wis** 18, **Cha** 10
+**Base Atk** +0; **CMB** +1; **CMD** 12
 **Feats** Extra Magic Talent, Improved Initiative
 **Traits** reactionary
 **Skills** Disguise +4, Fly +5, Perception +8, Sense Motive +8, Stealth +5, Survival +8
@@ -58,17 +58,17 @@ CG Medium humanoid (human)
 
 ---
 
-# THEME
+# Theme
 
 An Alteration-specialized Shifter capable of transforming into whatever creature is most appropriate for the situation at hand.
 
-# BUILD RULES
+# Build Rules
 
 -15 pt buy (For Higher Point Buy, improve Dexterity or Constitution)
 
 -Favored Class Bonus: +1 Skill Point
 
-# SUGGESTED GROWTH
+# Suggested Growth
 
 -Get a Guided Amulet of Mighty Fists as soon as possible. This will let you use your Wisdom score for your Natural Attacks, and that's critical for making you more effective. Incidentally, said natural attacks mainly come from shapeshifting. Until you get that, consider compensating by just making LOTS of attacks.
 
@@ -90,7 +90,7 @@ An Alteration-specialized Shifter capable of transforming into whatever creature
 
 -For added transformation utility, you can pick up the Mimicry talent at some point. This requires you to have seen a creature (so ask your GM about what animals are in an area to be seen), and can greatly expand your options in any given area. This can be done at first level (in place of Animalistic Transformation) if your GM is cooperative enough about letting you see other creatures.
 
-# NOTES
+# Notes
 
 -The Lycanthropic Drawback limits your use of Alteration to yourself.
 

@@ -45,8 +45,8 @@ Finally, most radiances have a criteria for using them safely, which is known as
 
 ### Radiance Of Air (Minor Artifact) [TS:WAT]
 
-**Aura**strong Nature;**CL** 20th
-**Slot**radiance;**Weight** -
+**Aura** strong Nature; **CL** 20th
+**Slot** radiance; **Weight** -
 
 This pale radiance is difficult to see, appearing to be made entirely of faintly-glowing strands of air. Its appearance changes to match the current weather.
 
@@ -59,8 +59,8 @@ This pale radiance is difficult to see, appearing to be made entirely of faintly
 
 ### Radiance Of Blood (Minor Artifact) [TS:WAT]
 
-**Aura**strong Blood;**CL** 20th
-**Slot**radiance;**Weight** -
+**Aura** strong Blood; **CL** 20th
+**Slot** radiance; **Weight** -
 
 This radiance pulses with dark red hues and appears to be constantly dripping down behind the user, although the liquid that splashes to the floor disappears once the user begins moving.
 
@@ -73,8 +73,8 @@ This radiance pulses with dark red hues and appears to be constantly dripping do
 
 ### Radiance Of Chaos (Minor Artifact) [TS:WAT]
 
-**Aura**strong Fate (chaotic);**CL** 20th
-**Slot**radiance;**Weight** -
+**Aura** strong Fate (chaotic); **CL** 20th
+**Slot** radiance; **Weight** -
 
 This radiance has a constantly-shifting appearance, never quite the same as when anyone last looked at it.
 
@@ -87,8 +87,8 @@ This radiance has a constantly-shifting appearance, never quite the same as when
 
 ### Radiance Of The Infernal Queen (Minor Artifact) [TS:WAT]
 
-**Aura**strong Fate (evil);**CL** 20th
-**Slot**radiance;**Weight** -
+**Aura** strong Fate (evil); **CL** 20th
+**Slot** radiance; **Weight** -
 
 This blood-red radiance displays the symbol of an infernal queen who works under one of the most prominent lords of Hell. It is only given to followers she judges as uniquely worthy of bearing a sign of her affection and support.
 
@@ -101,8 +101,8 @@ This blood-red radiance displays the symbol of an infernal queen who works under
 
 ### Radiance Of Light (Minor Artifact) [TS:WAT]
 
-**Aura**strong Light;**CL** 20th
-**Slot**radiance;**Weight** -
+**Aura** strong Light; **CL** 20th
+**Slot** radiance; **Weight** -
 
 This yellow-hued radiance displays the symbol of the rising sun. It is usually granted to favored heroes who embody the tenets of the goddess of the dawn.
 
@@ -115,8 +115,8 @@ This yellow-hued radiance displays the symbol of the rising sun. It is usually g
 
 ### Radiance Of Order (Minor Artifact) [TS:WAT]
 
-**Aura**strong Fate (lawful);**CL** 20th
-**Slot**radiance;**Weight** -
+**Aura** strong Fate (lawful); **CL** 20th
+**Slot** radiance; **Weight** -
 
 This silvery radiance is perfectly symmetrical, with rings inside of rings forming a near-impossibly intricate design.
 
@@ -129,8 +129,8 @@ This silvery radiance is perfectly symmetrical, with rings inside of rings formi
 
 ### Radiance Of Perpetual Life (Minor Artifact) [TS:WAT]
 
-**Aura**strong Life;**CL** 20th
-**Slot**radiance;**Weight** -
+**Aura** strong Life; **CL** 20th
+**Slot** radiance; **Weight** -
 
 This radiance shines with a soft golden light while illuminated and features iconography of two hands healing the injured. It is most often granted to those who spend their lives healing others, granting them the opportunity to continue doing so.
 
@@ -143,8 +143,8 @@ This radiance shines with a soft golden light while illuminated and features ico
 
 ### Radiance Of The Lion Lord (Minor Artifact) [TS:WAT]
 
-**Aura**strong Alteration;**CL** 20th
-**Slot**radiance;**Weight** -
+**Aura** strong Alteration; **CL** 20th
+**Slot** radiance; **Weight** -
 
 This radiance takes the form of a large mane of fur that rests around the user’s head and shoulders. The fur is always bright and clean, regardless of the weather or the environment.
 

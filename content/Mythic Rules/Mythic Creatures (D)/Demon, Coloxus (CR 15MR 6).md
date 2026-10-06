@@ -13,14 +13,14 @@ This figure would be the picture of elegance and refinement were it not for its 
 XP 51,200
 Pathfinder Roleplaying Game Bestiary 3
 CE Medium outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**+20/+0MF, dual initiativeMA;**Senses** darkvision 60 ft., scent; Perception +31
+**Init** +20/+0MF, dual initiativeMA; **Senses** darkvision 60 ft., scent; Perception +31
 
 #### Defense
 
-**AC**33,**touch**20,**flat-footed** 23 (+10 Dex, +13 natural)
+**AC** 33, **touch** 20, **flat-footed** 23 (+10 Dex, +13 natural)
 **hp** 228 (16d10+140)
-**Fort**+15,**Ref**+20,**Will** +9
-**Defensive Abilities**evasion; DR 10/epic and good;**Immune**disease, electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 26
+**Fort** +15, **Ref** +20, **Will** +9
+**Defensive Abilities** evasion; DR 10/epic and good; **Immune** disease, electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 26
 
 #### Offense
 
@@ -36,10 +36,10 @@ At will—contagion (DC 22), invisibility, suggestion (DC 21)
 
 #### Statistics
 
-**Str**19,**Dex**30,**Con**20,**Int**17,**Wis**18,**Cha** 27
-**Base Atk**+16;**CMB**+26;**CMD** 40
+**Str** 19, **Dex** 30, **Con** 20, **Int** 17, **Wis** 18, **Cha** 27
+**Base Atk** +16; **CMB** +26; **CMD** 40
 **Feats** Agile Maneuvers, Combat Reflexes, DeceitfulMF, Flyby Attack, Hover, Improved InitiativeMF, Quicken Spell-Like Ability (invisibility), Weapon FinesseMF
-**Skills**Acrobatics +28, Appraise +22, Bluff +29, Diplomacy +14, Disguise +19, Fly +32, Knowledge (arcana) +10, Knowledge (planes) +10, Knowledge (religion) +10, Knowledge (history) +14, Knowledge (nobility) +14, Perception +31, Sense Motive +15, Stealth +28;**Racial Modifiers** +8 Perception
+**Skills** Acrobatics +28, Appraise +22, Bluff +29, Diplomacy +14, Disguise +19, Fly +32, Knowledge (arcana) +10, Knowledge (planes) +10, Knowledge (religion) +10, Knowledge (history) +14, Knowledge (nobility) +14, Perception +31, Sense Motive +15, Stealth +28; **Racial Modifiers** +8 Perception
 **Languages** Abyssal, Celestial, Common, Elven; telepathy 100 ft., tongues
 
 #### Special Abilities

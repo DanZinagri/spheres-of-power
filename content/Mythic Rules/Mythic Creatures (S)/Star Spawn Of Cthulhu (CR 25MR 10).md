@@ -13,21 +13,21 @@ A mountainous form lumbers to life, a hideous creature only accidentally humanoi
 XP 1,638,400
 Pathfinder Roleplaying Game Bestiary 4
 CE Huge aberration (alien, mythic, mythos)
-**Init**+15/–5MF, dual initiativeMA;**Senses** blindsight 30 ft., darkvision 60 ft.; Perception +38
+**Init** +15/–5MF, dual initiativeMA; **Senses** blindsight 30 ft., darkvision 60 ft.; Perception +38
 **Aura** frightful presence (150 ft., DC 32)
 
 #### Defense
 
-**AC**46,**touch**9,**flat-footed** 45 (+1 Dex, +37 natural, –2 size)
+**AC** 46, **touch** 9, **flat-footed** 45 (+1 Dex, +37 natural, –2 size)
 **hp** 517 (25d8+405); regeneration 15 (fire)
-**Fort**+20,**Ref**+9,**Will** +24; +8 vs. divination and mind–affecting, second saveMA
-**Defensive Abilities**fortification (50%)MA, immortality, overwhelming mind; DR 10/epic;**Immune**cold, disease, poison;**SR** 41
+**Fort** +20, **Ref** +9, **Will** +24; +8 vs. divination and mind–affecting, second saveMA
+**Defensive Abilities** fortification (50%)MA, immortality, overwhelming mind; DR 10/epic; **Immune** cold, disease, poison; **SR** 41
 
 #### Offense
 
 **Speed** 40 ft., fly 60 ft. (average), swim 40 ft.
 **Melee** 2 claws +34 (2d6+18/19–20), 6 tentacles +32 (1d8+9/19–20 plus grab)
-**Space**15 ft.;**Reach** 30 ft.
+**Space** 15 ft.; **Reach** 30 ft.
 **Special Attacks** constrict (1d8+9), impossible reachMA, mind blastMA, mind flayingMA, mythic power (10/day, surge +1d12) , overwhelming mind, psychic crushMA, simple divine spellcastingMA
 
 **Spell-Like Abilities** (CL 20th; concentration +30; save DCs are Wis-based)
@@ -38,8 +38,8 @@ At will—control water, dream, insanity (DC 27), nightmare (DC 25), sending
 
 #### Statistics
 
-**Str**46,**Dex**13,**Con**34,**Int**23,**Wis**31,**Cha** 24
-**Base Atk**+18;**CMB**+38 (+42 grapple);**CMD** 49
+**Str** 46, **Dex** 13, **Con** 34, **Int** 23, **Wis** 31, **Cha** 24
+**Base Atk** +18; **CMB** +38 (+42 grapple); **CMD** 49
 **Feats** Combat ReflexesMF, Critical Focus, Greater Vital Strike, Improved Critical (claw), Improved Critical (tentacle), Improved InitiativeMF, Improved Vital Strike, Inescapable GraspMF, Multiattack, Power AttackMF, Staggering Critical, Stunning Critical, Toughness, Vital StrikeMF
 **Skills** Fly +25, Intimidate +35, Knowledge (arcana, geography, planes) +31, Perception +38, Sense Motive +35, Spellcraft +34, Stealth +20, Swim +30, Use Magic Device +32
 **Languages** Aklo; telepathy 300 ft.

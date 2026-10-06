@@ -13,14 +13,14 @@ This smallish six-legged dragon flaps its bat-like wings as it lowers its head t
 XP 4,800
 Pathfinder Roleplaying Game Bestiary
 N Medium dragon (mythic)
-**Init**–1;**Senses** blindsense 60 ft., darkvision 60 ft., low-light vision; Perception +14
+**Init** –1; **Senses** blindsense 60 ft., darkvision 60 ft., low-light vision; Perception +14
 
 #### Defense
 
-**AC**24,**touch**9,**flat-footed** 24 (–1 Dex, +15 natural)
+**AC** 24, **touch** 9, **flat-footed** 24 (–1 Dex, +15 natural)
 **hp** 117 (7d12+72)
-**Fort**+13,**Ref**+4,**Will** +8
-**Defensive Abilities**DR 5/epic;**Immune** acid, blindness, dazzling, dragon traits, gaze attacks, paralysis, patterns, and sleep
+**Fort** +13, **Ref** +4, **Will** +8
+**Defensive Abilities** DR 5/epic; **Immune** acid, blindness, dazzling, dragon traits, gaze attacks, paralysis, patterns, and sleep
 
 #### Offense
 
@@ -30,10 +30,10 @@ N Medium dragon (mythic)
 
 #### Statistics
 
-**Str**24,**Dex**8,**Con**23,**Int**4,**Wis**13,**Cha** 13
-**Base Atk**+7;**CMB**+14;**CMD** 23 (31 vs. trip)
+**Str** 24, **Dex** 8, **Con** 23, **Int** 4, **Wis** 13, **Cha** 13
+**Base Atk** +7; **CMB** +14; **CMD** 23 (31 vs. trip)
 **Feats** Blind-Fight, Great FortitudeMF, Iron WillMF, Skill Focus (Perception)
-**Skills**Fly +9, Perception +14, Stealth +13;**Racial Modifiers** +4 Stealth
+**Skills** Fly +9, Perception +14, Stealth +13; **Racial Modifiers** +4 Stealth
 **Languages** Draconic
 **SQ** hooded gazeMA
 

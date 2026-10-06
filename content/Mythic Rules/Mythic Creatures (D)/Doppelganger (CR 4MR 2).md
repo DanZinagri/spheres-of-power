@@ -13,14 +13,14 @@ This grayish humanoid creature seems almost unfinished, with a narrow head, gaun
 XP 1,200
 Pathfinder Roleplaying Game Bestiary
 N Medium monstrous humanoid (mythic, shapechanger)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +9
+**Init** +1; **Senses** darkvision 60 ft.; Perception +9
 
 #### Defense
 
-**AC**18,**touch**12,**flat-footed** 16 (+1 Dex, +1 dodge, +6 natural)
+**AC** 18, **touch** 12, **flat-footed** 16 (+1 Dex, +1 dodge, +6 natural)
 **hp** 46 (4d10+24)
-**Fort**+4,**Ref**+5,**Will** +6
-**Defensive Abilities**moment of doubtMA;**Immune** charm, sleep
+**Fort** +4, **Ref** +5, **Will** +6
+**Defensive Abilities** moment of doubtMA; **Immune** charm, sleep
 
 #### Offense
 
@@ -33,10 +33,10 @@ At will—detect thoughts (DC 14)
 
 #### Statistics
 
-**Str**18,**Dex**13,**Con**12,**Int**13,**Wis**14,**Cha** 15
-**Base Atk**+4;**CMB**+8;**CMD** 20
+**Str** 18, **Dex** 13, **Con** 12, **Int** 13, **Wis** 14, **Cha** 15
+**Base Atk** +4; **CMB** +8; **CMD** 20
 **Feats** Dodge, Extra Mythic PowerMF, Great Fortitude
-**Skills**Bluff +10 (+14 while using change shape ability), Diplomacy +5, Disguise +10 (+30 while using change shape ability), Perception +9, Sense Motive +6, Stealth +5;**Racial Modifiers** +4 Bluff, +4 Disguise
+**Skills** Bluff +10 (+14 while using change shape ability), Diplomacy +5, Disguise +10 (+30 while using change shape ability), Perception +9, Sense Motive +6, Stealth +5; **Racial Modifiers** +4 Bluff, +4 Disguise
 **Languages** Common
 **SQ** change shape (polymorph), mimicry, mythic transformationMA, perfect copy
 

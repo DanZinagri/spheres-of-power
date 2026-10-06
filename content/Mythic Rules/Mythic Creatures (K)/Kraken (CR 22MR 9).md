@@ -13,20 +13,20 @@ This tremendous leviathan resembles a vast squid, yet the markings on its body a
 XP 614,400
 Pathfinder Roleplaying Game Bestiary
 NE Gargantuan magical beast (aquatic, mythic)
-**Init**+13/-7MF, dual initiativeMA;**Senses** darkvision 60 ft., low-light vision, eyes of the deepMA; Perception +28
+**Init** +13/-7MF, dual initiativeMA; **Senses** darkvision 60 ft., low-light vision, eyes of the deepMA; Perception +28
 
 #### Defense
 
-**AC**41,**touch**6,**flat-footed** 41 (+35 natural, –4 size)
+**AC** 41, **touch** 6, **flat-footed** 41 (+35 natural, –4 size)
 **hp** 420 (20d10+310)
-**Fort**+23,**Ref**+12,**Will** +11; second saveMA
-**Defensive Abilities**DR 10/epic;**Immune** cold, mind-affecting effects, poison
+**Fort** +23, **Ref** +12, **Will** +11; second saveMA
+**Defensive Abilities** DR 10/epic; **Immune** cold, mind-affecting effects, poison
 
 #### Offense
 
 **Speed** 10 ft., swim 40 ft., jet 280 ft.
 **Melee** 2 arms +28 (2d6+12/19–20 plus grab), 8 tentacles +26 (1d8+6/19–20 plus grab), bite +28 (2d8+12)
-**Space**20 ft.;**Reach** 20 ft. (40 ft. with tentacles, 60 ft. with arms)
+**Space** 20 ft.; **Reach** 20 ft. (40 ft. with tentacles, 60 ft. with arms)
 **Special Attacks** constrict (1d8+18), flingMA, ink cloud, lord of the lightless depthsMA, master of the wavesMA, mythic power (9/day, surge 1d10), rendMA (2 tentacles, 1d8+18), rend ship, sea of bloodMA, swallow wholeMA (6d6 slashing damage plus 6d6 acid damage, AC 27, 42 hp)
 
 **Spell-Like Abilities** (CL 15th; concentration +20)
@@ -34,8 +34,8 @@ NE Gargantuan magical beast (aquatic, mythic)
 
 #### Statistics
 
-**Str**34,**Dex**10,**Con**33,**Int**21,**Wis**20,**Cha** 21
-**Base Atk**+20;**CMB**+36 (+40 grapple, +38 trip);**CMD** 48 (can’t be tripped)
+**Str** 34, **Dex** 10, **Con** 33, **Int** 21, **Wis** 20, **Cha** 21
+**Base Atk** +20; **CMB** +36 (+40 grapple, +38 trip); **CMD** 48 (can’t be tripped)
 **Feats** Arms of the DeepMF, Bleeding CriticalMF, Blind-Fight, Combat Expertise, Critical Focus, Improved Critical (arms), Improved Critical (tentacles), Improved InitiativeMF, Improved Trip, Inescapable GraspMF, Multiattack, Power AttackMF
 **Skills** Intimidate +25, Knowledge (geography) +25, Knowledge (nature) +25, Perception +28, Stealth +11, Swim +43, Use Magic Device +25
 **Languages** Aquan, Common
@@ -55,7 +55,7 @@ NE Gargantuan magical beast (aquatic, mythic)
 
 **Ink Cloud (Ex)** A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it. The ink cloud persists for 1 minute before dispersing. The save DC against the poison effect is Constitution-based.
 
-*Kraken Ink:* Ink cloud—contact; **save**Fort DC 31;**frequency**1/round for 10 rounds;**effect**1 Str damage plus nausea;**cure** 2 consecutive saves.
+*Kraken Ink:* Ink cloud—contact; **save** Fort DC 31; **frequency** 1/round for 10 rounds; **effect** 1 Str damage plus nausea; **cure** 2 consecutive saves.
 
 **Jet (Ex)** A kraken can jet backward as a full-round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
 

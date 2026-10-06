@@ -12,21 +12,21 @@ parent: "[[Ultimate Engineering]]"
 
 This archetype requires [[Sphere Alchemist|sphere alchemist]] (*Spheres of Power*).
 
-**Proficiencies**: Bioengineers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+**Proficiencies:** Bioengineers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters the alchemist’s normal weapon and armor proficiencies.
 
-**Blended Training**: Whenever the bioengineer would gain a magic talent from their class levels, they may choose to instead gain a combat talent. A bioengineer uses their casting ability modifier as their practitioner modifier.
+**Blended Training:** Whenever the bioengineer would gain a magic talent from their class levels, they may choose to instead gain a combat talent. A bioengineer uses their casting ability modifier as their practitioner modifier.
 
 This alters magic talents.
 
-**Mechanical Theorem (Ex)**: The bioengineer gains the Tinker sphere, selecting the (transportation) package, and 1 bonus Tinker sphere talent at 1st level.
+**Mechanical Theorem (Ex):** The bioengineer gains the Tinker sphere, selecting the (transportation) package, and 1 bonus Tinker sphere talent at 1st level.
 
 The bioengineer gains 1 bonus Tinker sphere talent at 3rd level and every odd level thereafter.
 
 This ability replaces bombs and throw anything.
 
-**Biological Practice (Su)**: The bioengineer has developed techniques to turn latent power, normally harnessed by technology, into energy for their magic effects.
+**Biological Practice (Su):** The bioengineer has developed techniques to turn latent power, normally harnessed by technology, into energy for their magic effects.
 
 At 1st level, the bioengineer gains the Alteration sphere and the Biomechanical Upgrade feat as a bonus feat. The bioengineer uses their class level as their caster level with the Alteration sphere; this stacks normally with caster levels gained from other sources.
 
@@ -34,21 +34,21 @@ When using the Biomechanical Upgrade feat to grant a *mechanoid* an Alteration t
 
 This ability replaces brew potion.
 
-**Biomechanical Mutagen (Ex)**: The bioengineer’s mutagen may be imbibed by a *mechanoid* they crafted (such as by pouring it into their engine, through a port, etc.), granting all of its normal benefits as though the mechanoid were the alchemist. Granting a mechanoid the bioengineer’s mutagen is treated as the bioengineer drank their own mutagen and ends the effects of any previous mutagen.
+**Biomechanical Mutagen (Ex):** The bioengineer’s mutagen may be imbibed by a *mechanoid* they crafted (such as by pouring it into their engine, through a port, etc.), granting all of its normal benefits as though the mechanoid were the alchemist. Granting a mechanoid the bioengineer’s mutagen is treated as the bioengineer drank their own mutagen and ends the effects of any previous mutagen.
 
 This ability alters mutagen.
 
 ---
 
-## **Bioengineer Alchemist Discoveries**
+## Bioengineer Alchemist Discoveries
 
 The bioengineer alchemist gains exclusive access to the following discovery options:
 
-**Alteration Knowledge**: The bioengineer selects 4 Alteration talents; the bioengineer is treated as possessing these talents but only for the purposes of granting the selected talents’ traits to mechanoids they craft with the Biomechanical Upgrade feat.
+**Alteration Knowledge:** The bioengineer selects 4 Alteration talents; the bioengineer is treated as possessing these talents but only for the purposes of granting the selected talents’ traits to mechanoids they craft with the Biomechanical Upgrade feat.
 
-**Extra Biomechanical Mutagen (requires alchemist 4)**: The alchemist may have up to two mutagens active at a time, but only one instance of mutagen for their own personal use and one instance for a mechanoid they crafted (in essence, allowing two mutagens to be active simultaneously).
+**Extra Biomechanical Mutagen (requires alchemist 4):** The alchemist may have up to two mutagens active at a time, but only one instance of mutagen for their own personal use and one instance for a mechanoid they crafted (in essence, allowing two mutagens to be active simultaneously).
 
 This discovery may be taken multiple times; each time, the alchemist may have 1 additional mutagen active at a time.
 
-**Otherworld Studies (requires alchemist 10)**: The alchemist may select a single (form) talent from the Conjuration sphere that does not grant bonuses to ability scores. The alchemist may treat that (form) talent as though it were an Alteration trait for the purposes of the Biomechanical Upgrade feat.
+**Otherworld Studies (requires alchemist 10):** The alchemist may select a single (form) talent from the Conjuration sphere that does not grant bonuses to ability scores. The alchemist may treat that (form) talent as though it were an Alteration trait for the purposes of the Biomechanical Upgrade feat.
 

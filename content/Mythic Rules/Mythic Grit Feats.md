@@ -26,8 +26,8 @@ If you are at least 5th tier and have one or more grit points in reserve, you ca
 
 Extra Grit (Grit, Mythic)
 You have even more grit than the average gunslinger.
-Prerequisite: Extra GritUC.
-Benefit: The extra grit you gain each day and your maximum
+**Prerequisite:** Extra GritUC.
+**Benefit:** The extra grit you gain each day and your maximum
 grit increase by 2. Additionally, whenever you would
 regain a grit point, you can expend one use of your mythic
 power to regain 2 points instead.

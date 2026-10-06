@@ -13,26 +13,26 @@ Tentacles and eyes cover this floating, fungoid monster, and its vast mouth open
 XP 2,459,600
 Pathfinder Roleplaying Game Bestiary 2
 CN Colossal plant (mythic)
-**Init**+13/-7MF, dual initiativeMA;**Senses** blindsight 240 ft., low-light vision; Perception +43
+**Init** +13/-7MF, dual initiativeMA; **Senses** blindsight 240 ft., low-light vision; Perception +43
 
 #### Defense
 
-**AC**47,**touch**1,**flat-footed** 47 (–1 Dex, +46 natural, –8 size)
+**AC** 47, **touch** 1, **flat-footed** 47 (–1 Dex, +46 natural, –8 size)
 **hp** 529 (31d8+390); fast healing 20MA
-**Fort**+27,**Ref**+11,**Will** +19; second saveMA
-**Defensive Abilities**DR 20/epic;**Defensive Abilities**fungal sloughMA, grasping tendrils, thermophilic fungusMA;**Immune**acid, plant traits;**Resist**cold 10, fire 10;**SR** 37MA
+**Fort** +27, **Ref** +11, **Will** +19; second saveMA
+**Defensive Abilities** DR 20/epic; **Defensive Abilities** fungal sloughMA, grasping tendrils, thermophilic fungusMA; **Immune** acid, plant traits; **Resist** cold 10, fire 10; **SR** 37MA
 
 #### Offense
 
 **Speed** 40 ft., fly 30 ft. (perfect)
 **Melee** bite +35 (6d6+20/19–20 plus grab), 4 tentacles +34 (3d8+10/19–20 plus grab)
-**Space**30 ft.;**Reach** 30 ft. (60 ft. with tentacles)
+**Space** 30 ft.; **Reach** 30 ft. (60 ft. with tentacles)
 **Special Attacks** constrict (3d8+30), engulf (DC 45, 4d8 acid and mold infusion)MA, fast swallowMA, mold infusionMA, mythic power (10/day, surge 1d12), spore cough, swallow whole (20d8 acid damage, AC 33, 52 hp)
 
 #### Statistics
 
-**Str**50,**Dex**9,**Con**31,**Int**18,**Wis**28,**Cha** 29
-**Base Atk**+23;**CMB**+51 (+60 bull rush, +55 grapple);**CMD** 60 (67 vs. bull rush, can’t be tripped)
+**Str** 50, **Dex** 9, **Con** 31, **Int** 18, **Wis** 28, **Cha** 29
+**Base Atk** +23; **CMB** +51 (+60 bull rush, +55 grapple); **CMD** 60 (67 vs. bull rush, can’t be tripped)
 **Feats** Awesome BlowMF, Critical Focus, Greater Bull Rush, Greater Vital Strike, Improved Bull Rush, Improved Critical (bite), Improved Critical (tentacles), Improved InitiativeMF, Improved Vital Strike, Lightning Reflexes, Multiattack, Power AttackMF, Quick Awesome BlowMF, Staggering Critical, Stunning Critical, Vital StrikeMF, Weapon Focus (tentacles)
 **Skills** Fly +33, Knowledge (dungeoneering) +35, Knowledge (geography) +35, Knowledge (nature) +35, Perception +43, Sense Motive +40
 **Languages** Aklo, Common, Terran, Undercommon; telepathy 30 miles (plants and plant creatures only)

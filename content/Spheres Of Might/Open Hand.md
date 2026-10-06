@@ -51,7 +51,7 @@ Whenever you make an attack with an unarmed strike while prone, the penalty to a
 
 #### Cooperative Clothesline [Apoc]
 
-**Source:** [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)
+*Source: [Tandem Talents](https://www.drivethrurpg.com/product/282809/Spheres-Apocrypha-Tandem-Talents?affiliate_id=549120)*
 
 Whenever you fail a trip combat maneuver against an enemy threatened by an ally, as an immediate action the ally may attempt a trip attempt against the enemy. This does not provoke attacks of opportunity.
 
@@ -129,7 +129,7 @@ You may spend a move action to prepare your defenses. When you do so, the next t
 
 #### Rapid Sweep [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 You no longer suffer a -2 penalty when using sweep and may spend martial focus to sweep as a swift action.
 

@@ -2,7 +2,7 @@
 
 ### Fusebrander Ring [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** strong evocation (Destruction) — **CL** 13th
 **Slot** ring; **Price** 14,000 gp (Single-Fuse), 18,000 gp (Multi-Fuse); **Weight** —
@@ -23,7 +23,7 @@ A multi-fuse *fusebrander ring* may be used on non-instantaneous damaging effect
 
 ### Ring of Distant Doorways [DRS]
 
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Aura** moderate conjuration (Warp) — **CL** 8th
 **Slot** ring; **Price** 7,500 gp; **Weight** —

@@ -9,21 +9,21 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Casting
+## Casting
 
 The sphere summoner may combine spheres and talents to create magical effects. The sphere summoner is considered a Mid-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-### Spell Pool
+## Spell Pool
 
 The sphere summoner gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-### Magic Talents
+## Magic Talents
 
 A sphere summoner gains 3/4ths of a magic talent every level (the same progression as he gains caster levels).
 
-### Eidolon
+## Eidolon
 
 A sphere summoner gains the Conjuration sphere as a bonus sphere at 1st level, and uses his class level as his caster level for this sphere. This stacks normally with caster levels gained from other sources.
 
@@ -35,19 +35,19 @@ You retain the following from the eidolon feature: (1) your eidolon can speak al
 
 These retained features apply to the Conjuration companion you designate as your eidolon. All other summoner class features you retain work normally with the Conjuration companion you designate as your eidolon.
 
-### Summon Mastery (Su)
+## Summon Mastery (Su)
 
 The sphere summoner gains a bonus magic talent drawn from the Conjuration sphere at 1st level and every odd level thereafter.
 
 This replaces summon monster I, II, III, IV, V, VI, VII, VIII, IX, and gate.
 
-### Aspect (Su)
+## Aspect (Su)
 
 At 10th level, whenever the sphere summoner rests to regain spell points, he may choose to divert one (form) talent possessed by his eidolon, instead gaining its benefits himself. Any attribute bonuses are instead gained as enhancement bonuses.
 
 This alters aspect.
 
-### Greater Aspect (Su)
+## Greater Aspect (Su)
 
 At 18th level, whenever the sphere summoner rests to regain spell points, he may choose to divert up to two (form) talents to himself instead of only one.
 

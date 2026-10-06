@@ -196,7 +196,7 @@ The troubadour gains a single [utility] talent as a bonus talent. This actor tra
 
 #### Professional Experience [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 When you first take this actor training, choose a (specialty) talent for your base persona and a persona of your choice, as well as the specialty skill for each talent. You must meet the prerequisites for the chosen talent(s), and you may choose the same talent if you wish. If the chosen persona is replaced, you can change the chosen (specialty) talent as part of replacing the persona.
 
@@ -206,7 +206,7 @@ This actor training may be taken multiple times. Each time it is taken, choose a
 
 #### Professional Experience, Improved [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 When you take this actor training, each persona benefitting from a (specialty) talent chosen with the professional experience actor training also gains the benefits of one talent of your choice that has the chosen (specialty) talent as a prerequisite (thus, if your Lover persona had the Adept Socialite talent, you could choose the Expert Socialite talent).
 
@@ -314,7 +314,7 @@ The cunning servant can spend a point from his inspiration pool as a free action
 
 He can add this bonus to an attack roll or saving throw, but doing so costs 2 points of inspiration rather than 1. Using this ability to augment a saving throw is an immediate action rather than a free action. If you have multiple personas that possess the cunning servant trope, they share the same inspiration pool.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -354,7 +354,7 @@ The fool is usually either very low class or very high class; someone with exagg
 
 Whenever you fumble, you may choose a single attack roll, CMB check, skill check, saving throw, or ability check made the next round. You may roll that roll or check twice and take whichever result you wish.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -382,7 +382,7 @@ The hero is the driving force of a story; They’re the one who makes the decisi
 
 **Trope Benefit:** The hero gains a base attack bonus equal to the troubadour’s class level instead of using that listed on Table: Troubadour. He adds this value to any other base attack bonus gained from other classes or racial Hit Dice as normal. The hero may treat his troubadour levels as fighter levels when meeting the prerequisites for feats.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -408,7 +408,7 @@ However, when a bardic performance gained through the lover persona calls for a 
 
 The lover begins with the inspire courage bardic performance.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -440,7 +440,7 @@ The mentor is the possessor of wisdom who guides the other characters through th
 
 **Trope Benefit:** The mentor gains a caster level equal to the troubadour’s class level instead of using that listed on Table: Troubadour. He adds this value to any other caster levels gained from other classes or racial Hit Dice as normal.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -462,7 +462,7 @@ Less human than the villain, the monster is a bloodthirsty creature of darkness,
 
 **Trope Benefit:** The monster gains a bite attack as a primary natural attack, dealing 1d6 bludgeoning, piercing, and slashing damage (1d4 Small) with a x2 critical multiplier and darkvision out to 60 feet. If he already possesses darkvision, he improves his existing darkvision by 30 feet. If he already possesses a bite attack, he increases the damage of the existing bite attack by one die size (1d4 to 1d6, 1d6 to 1d8, 1d8 to 1d10, 1d10 to 1d12; etc.). At 5th level, he gains the scent ability or increases the range of his existing scent ability by 30 feet. At 10th level, his bite attack increases its critical threat range to 19-20x2. At 15th level, his bite attack has a threat range and multiplier of 19- 20x3. At 20th level, his darkvision and scent abilities increase range by an additional 30 feet.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -494,7 +494,7 @@ The mysterious protector is the ever-vigilant vanguard that hides within the sha
 
 **Trope Benefit:** The mysterious protector gains a reserve pool equal to 3 + his casting ability modifier, which replenishes after 8 hours of rest. If he gains a reserve pool from any other source, he increases the maximum size of the larger of the two reserve pools by 2 (instead of adding the two reserve pools together). The mysterious protector can spend a reserve point as a swift action to gain an amount of temporary hit points equal to his troubadour level plus his casting ability modifier. If he has multiple personas that possess the mysterious protector trope, they share the same reserve pool.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -526,7 +526,7 @@ Sometimes known by the name ‘bad boy’ or ‘femme fatale’, a scoundrel can
 
 **Trope Benefit:** The scoundrel gains sneak attack, as the rogue class feature. At 1st level, this is +1d4, but increases to +1d6 at 3rd level. At 6th level and every 3 levels thereafter, the scoundrel deals an additional +1d6 sneak attack damage.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -544,7 +544,7 @@ While the hero may drive the story, the villain is the one who creates it. A sim
 
 **Trope Benefit:** The villain is a master at eliciting fear and hatred from the audience. All enemies within 10 ft. of the villain suffer a -1 penalty to saving throws vs fear, as well as to the DC necessary to affect them in any way with the Intimidate skill. This penalty increases by 1 at 5th level and every 4 levels thereafter.
 
-**Source:** Baron’s Secluded Library
+*Source: Baron’s Secluded Library*
 
 #### Persona Quirks
 
@@ -576,7 +576,7 @@ While the hero may drive the story, the villain is the one who creates it. A sim
 
 #### Tactical Change (Champion) [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Method Acting class feature, Quick Change class feature
 
@@ -592,8 +592,8 @@ The following magical item is especially appropriate for troubadours.
 
 #### Actor’s Practice Guide [TS:WAT]
 
-**Aura**moderate Mind;**CL** 7th
-**Slot**none;**Price**10,000 gp;**Weight** 1/2 lbs.
+**Aura** moderate Mind; **CL** 7th
+**Slot** none; **Price** 10,000 gp; **Weight** 1/2 lbs.
 
 This heavily-read handbook includes dozens of practical scenarios for aspiring actors. When a creature with the actor training class feature reads this book as part of their daily preparations, they gain knowledge of one actor training, chosen when this item is created, until the next time they rest to regain spell points. A creature cannot benefit from more than one of these guides at a time, and must meet any additional prerequisites of the actor training.
 

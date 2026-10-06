@@ -149,7 +149,7 @@ Setting After Kyr’shin narrowly bested Gea, a would-besuitor, in single combat
 **Kyr’shin** Whether or not Kyr’shin wishes to marry Gea, the wedding provides him with a unique opportunity to interact—and potentially smooth over—political ties with a foreign nation. Additionally, Kyr’shin needs to determine the arrangements of the wedding and decide whether or not to marry Gea, or whether to potentially strike some other bargain with her outside of the normal stipulations of her peoples’ matriarchal society.
 **Inquisitor Sala’dean** Kyr’shin’s political ties represent a financial investment from Sala’dean’s employers, who have gotten wind of an assassination attempt on Kyr’shin’s life during his wedding. Sala’dean needs to not only find and route the assassins without alerting them to his presence.
 
-**Phases**5;**Cycles** 3 each
+**Phases** 5; **Cycles** 3 each
 **Frequency** 20 minutes
 **SQ** individual completion
 **Benefit** The characters can gain the following boons and rewards if they successfully influence the target NPCs.
@@ -291,7 +291,7 @@ CN Venerable elf expert 9
 
 **Background** Nearly seven centuries old, Nolliss has lead her tribe for longer than most civilizations have existed and knows countless secrets about her homeland’s ancient origins. Although required to attend the wedding by tradition, Nolliss opposes Kyr’shin and Gea’s wedding because she doesn’t believe that it’s fair for Gea to straddle Kyr’shin to jungle elf traditions that ultimately move too slowly for the shortly-lived races to ever truly benefit from. Goals Although Nolliss opposes the wedding, she’s content to let the ‘children’ make their own mistakes, as she sees Kyr’shin himself as the only person with anything to lose from the wedding arrangement.
 
-**Skills**Bluff +15, Diplomacy +15, Knowledge (history) +18, Knowledge (local) +18, Sense Motive +15;**Saves** Fort –1, Ref +0, Will +12
+**Skills** Bluff +15, Diplomacy +15, Knowledge (history) +18, Knowledge (local) +18, Sense Motive +15; **Saves** Fort –1, Ref +0, Will +12
 
 **SKILLS**
 **Discovery** Sense Motive (easy, DC 22)

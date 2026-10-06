@@ -12,13 +12,13 @@ This reddish-colored mastiff stands eye to eye with most dwarves. Within its pow
 **Mythic Cayhound (CR 6/MR 2)**
 XP 2,400
 CG Medium outsider (mythic)
-**Init**+8MF;**Senses** darkvision 60 ft., scent; Perception +10
+**Init** +8MF; **Senses** darkvision 60 ft., scent; Perception +10
 
 #### Defense
 
-**AC**20,**touch**12,**flat-footed** 18 (+2 Dex, +8 natural)
+**AC** 20, **touch** 12, **flat-footed** 18 (+2 Dex, +8 natural)
 **hp** 71 (6d10+38)
-**Fort**+5,**Ref**+7,**Will** +6
+**Fort** +5, **Ref** +7, **Will** +6
 **Defensive Abilities** freedom of movement; DR 5/cold iron and epic
 
 #### Offense
@@ -34,8 +34,8 @@ At will—dimension door, open/close
 
 #### Statistics
 
-**Str**23,**Dex**15,**Con**16,**Int**8,**Wis**12,**Cha** 13
-**Base Atk**+6;**CMB**+12;**CMD** 24 (28 vs. trip)
+**Str** 23, **Dex** 15, **Con** 16, **Int** 8, **Wis** 12, **Cha** 13
+**Base Atk** +6; **CMB** +12; **CMD** 24 (28 vs. trip)
 **Feats** Dimensional Agility, Dimensional Assault, Improved InitiativeMF
 **Skills** Acrobatics +10 (+14 when jumping), Intimidate +6, Knowledge (planes) +6, Perception +10, Sense Motive +8, Stealth +10, Survival +8
 **Languages** Celestial

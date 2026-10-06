@@ -68,7 +68,7 @@ This talent may be taken a second time; doing so grants you the benefits of blin
 
 #### Complex Control [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 Creatures affected by your blood control may be affected by both (quicken) and (still) talents at the same time.
 
@@ -381,7 +381,7 @@ You may spend a spell point to slow blood flow, staggering the target for the du
 
 #### Redirect Flow (quicken, still) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 You gain the following abilities:
 

@@ -10,7 +10,7 @@ parent: "[[Mastermind]]"
 
 While masterminds typically involve an expansive pool of allies and assets in their plans, squad operators excel at coordinating a small group of skilled and loyal agents in a variety of complex schemes.
 
-## Honed Coordination:
+## Honed Coordination
 
 A squad operator must select the Communication skill sphere as the bonus sphere from overseer or must select a conspiracy which grants the Communication skill sphere.
 

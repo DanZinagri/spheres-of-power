@@ -13,26 +13,26 @@ Wickedly barbed chains adorn this lean figure, and gaps in the bindings reveal d
 XP 3,200
 Pathfinder Roleplaying Game Bestiary
 LE Medium outsider (evil, extraplanar, kyton, lawful, mythic)
-**Init**+10MF;**Senses** darkvision 60 ft.; Perception +14
+**Init** +10MF; **Senses** darkvision 60 ft.; Perception +14
 
 #### Defense
 
-**AC**24,**touch**13,**flat-footed** 21 (+4 armor, +3 Dex, +7 natural)
+**AC** 24, **touch** 13, **flat-footed** 21 (+4 armor, +3 Dex, +7 natural)
 **hp** 90 (8d10+46); regeneration 2 (good weapons and spells, silver weapons)
-**Fort**+8,**Ref**+9,**Will** +3
-**Defensive Abilities**block attacksMA; DR 5/epic and silver or good;**Immune**cold;**SR** 20
+**Fort** +8, **Ref** +9, **Will** +3
+**Defensive Abilities** block attacksMA; DR 5/epic and silver or good; **Immune** cold; **SR** 20
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** 4 chains +13 (2d4+3 plus entrap)
-**Space**5 ft;**Reach** 5 ft. (10 ft. with chains)
+**Space** 5 ft; **Reach** 5 ft. (10 ft. with chains)
 **Special Attacks** chain swingMA, dancing chains, entrapMA (DC 16, 1d6 minutes, hardness 10, hp 20), mythic power (3/day, surge +1d6), pullMA (chains, 5 feet), unnerving gaze
 
 #### Statistics
 
-**Str**17,**Dex**17,**Con**14,**Int**11,**Wis**12,**Cha** 12
-**Base Atk**+8;**CMB**+11;**CMD** 24
+**Str** 17, **Dex** 17, **Con** 14, **Int** 11, **Wis** 12, **Cha** 12
+**Base Atk** +8; **CMB** +11; **CMD** 24
 **Feats** Blind-Fight, Combat Reflexes, Improved InitiativeMF, Weapon FocusMF (chain)
 **Skills** Acrobatics +14, Climb +14, Craft (blacksmithing) +11, Escape Artist +14, Intimidate +12, Perception +12
 **Languages** Common, Infernal

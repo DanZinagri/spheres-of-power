@@ -10,15 +10,15 @@ parent: "[[Mythic Creatures (B)]]"
 **Mythic Bogeyman (CR 12/MR 5)**
 XP 19,200
 NE Medium fey (mythic)
-**Init**+10;**Senses** low-light vision, see in darknessMA; Perception +23
+**Init** +10; **Senses** low-light vision, see in darknessMA; Perception +23
 **Aura** deepest dreadMA (30 ft., DC 28)
 
 #### Defense
 
-**AC**29,**touch**24,**flat-footed** 22 (+7 deflection, +6 Dex, +1 dodge, +5 natural)
+**AC** 29, **touch** 24, **flat-footed** 22 (+7 deflection, +6 Dex, +1 dodge, +5 natural)
 **hp** 123 (17d6+64); terrible rejuvenationMA 10
-**Fort**+9,**Ref**+16,**Will** +13
-**Defensive Abilities**DR 15/cold iron and epic;**SR** 23
+**Fort** +9, **Ref** +16, **Will** +13
+**Defensive Abilities** DR 15/cold iron and epic; **SR** 23
 
 #### Offense
 
@@ -34,10 +34,10 @@ At will—deeper darkness, gaseous form, ghost sound (DC 18), invisibility, scar
 
 #### Statistics
 
-**Str**12,**Dex**23,**Con**14,**Int**15,**Wis**16,**Cha** 27
-**Base Atk**+8;**CMB**+9;**CMD** 33
+**Str** 12, **Dex** 23, **Con** 14, **Int** 15, **Wis** 16, **Cha** 27
+**Base Atk** +8; **CMB** +9; **CMD** 33
 **Feats** Dodge, Great Fortitude, Improved Critical (claw), Improved Initiative, Mobility, Quicken Spell-Like Ability (phantasmal killer), Skill Focus (Stealth)MF, Spring AttackMF, Weapon FinesseMF
-**Skills**Bluff +28, Diplomacy +21, Disable Device +16, Escape Artist +19, Intimidate +29, Knowledge (local) +16, Perception +23, Sense Motive +23, Spellcraft +12, Stealth +36;**Racial Modifiers** +4 Intimidate, +4 Stealth
+**Skills** Bluff +28, Diplomacy +21, Disable Device +16, Escape Artist +19, Intimidate +29, Knowledge (local) +16, Perception +23, Sense Motive +23, Spellcraft +12, Stealth +36; **Racial Modifiers** +4 Intimidate, +4 Stealth
 **Languages** Aklo, Common; tongues
 
 #### Ecology

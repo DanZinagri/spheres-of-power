@@ -74,11 +74,11 @@ This counts as 2 drawbacks when determining boons and bonus spell points.
 
 When within close range (25 feet + 5 feet per 2 MSB) of an active Tinker sphere gizmo (or other reasonably technological or “invented” item, subject to GM discretion) you increase your wild magic chance by 25%.
 
-**Incompatible**: Clarke Compliance
+**Incompatible:** Clarke Compliance
 
 #### Anemic [Apoc]
 
-**Source:** [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)*
 
 Your magic interferes with your natural circulation. If you are immune to bleed damage, you lose that immunity. If you are not subject to bleed damage (such as because of your creature type), you become subject to it. Whenever you take slashing or piercing damage, as well as bleed damage from any other source, you suffer 1 point of bleed damage plus an additional point of bleed damage for every 10 points of your magic skill bonus; this stacks with all other sources of bleed damage. The Heal DC to stop yourself from bleeding increases by your magic skill bonus. Healing from magical sources does not stop you from bleeding unless the caster succeeds on a magic skill check against your magic skill defense. If you receive healing from a non-magical source (including fast healing or regeneration) you must still receive a Heal check in order to stop the bleeding.
 
@@ -108,7 +108,7 @@ You may not select this drawback if you possess the Focus Casting or Galvanized 
 
 #### Charged Spells [Apoc]
 
-**Source:** [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*
 
 You must prepare a sphere effect into a charge before you can use it yourself. Preparing a charge takes 10 full-round actions (without allowing swift or free actions) in a row that provoke attacks of opportunity. If you are disrupted before you finish your charge, you must start all over to create it, but any spell points invested into its creation are not lost.
 
@@ -135,7 +135,7 @@ Your magic sphere effects are treated as both magical and mechanical for effects
 
 Creatures in contact with an active Tinker sphere gizmo (or other reasonably technological or “invented” item, subject to GM discretion) receive a +2 circumstance bonus on saving throws against your magic sphere effects.
 
-**Incompatible**: Age of Reason
+**Incompatible:** Age of Reason
 
 #### Consciousness Linked
 
@@ -171,7 +171,7 @@ Your magic requires heightened emotional states of mind to use. When subject to 
 
 #### Expensive Locus [Apoc]
 
-**Source:** [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*
 
 Resting to regain your magic requires an increasingly expensive locus, requiring you to dedicate more and more of your wealth to sustaining your magical power. This locus, and the way you gain power from it can take multiple different forms depending on what is appropriate for the character concept; from setting up expensive runes and talismans to calibrate your astral self, requiring an expensive laboratory to process your material components, or simply sleeping on a dedicated pile of gold to get in touch with your draconic side.
 
@@ -211,7 +211,7 @@ The magic of your foes adversely affects yours to an extreme degree. When calcul
 
 #### Innate Curse [Apoc]
 
-**Source:** [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Casting Traditions 2](https://www.drivethrurpg.com/product/286903/Spheres-Apocrypha-Casting-Traditions-2?affiliate_id=549120)*
 
 Your magic comes from a source that curses you, or your cursed condition is a side effect of your casting ability. You suffer the hindrance of a singular oracle curse, and do not get its benefit, nor the benefits that come with increased level. Use your magic skill bonus as your oracle level to determine any penalties from its hindrance. This curse is permanent and cannot be removed.
 
@@ -221,7 +221,7 @@ Not all curses are appropriate for this drawback, and the GM is the ultimate arb
 
 #### Madness Mantra [Apoc]
 
-**Source:** [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Casting Traditions](https://www.drivethrurpg.com/product/286411/Spheres-Apocrypha-Casting-Traditions?affiliate_id=549120)*
 
 Your magic fights against you for control. At the end of any round in which you spend 1 or more spell points you must succeed at a Will saving throw with a DC of 10 + 1/2 your magic skill bonus or enter into an enraged state at the beginning of your next turn. While enraged, you gain the antagonized condition, always treating the creature(s) closest to you as your antagonist(s).
 
@@ -297,7 +297,7 @@ You may select this drawback twice. If taken a second time, you cannot wear any 
 
 #### Spell Stand-In [Apoc]
 
-**Source:** [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Cohorts & Companions](https://www.drivethrurpg.com/product/297259/Spheres-Apocrypha-Cohorts-and-Companions?affiliate_id=549120)*
 
 In place of being able to cast spells directly, you must channel them through a summoned companion. You lose the ability to cast any sphere effect through yourself outside of summoning your companions. You gain the Conjuration sphere and the Spell Conduit talent as bonus talents, and the Spell Channel feat as a bonus feat.
 
@@ -465,7 +465,7 @@ At the beginning of your turn when you take damage from an ongoing bleed effect,
 
 #### Unbound Magic [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 You can dismiss any sphere effect you create with a duration, and can do so as a free action.
 

@@ -15,51 +15,51 @@ The MacGyver is a first-level sample character for Champions of the Spheres, sui
 **The MacGyver**
 Human prodigy 1
 CG Medium humanoid
-**Init**+2;**Perception** +5
+**Init** +2; **Perception** +5
 
 ## Defense
 
-**AC**12,**touch**12,**flat-footed** 10 (+2 Dex)
+**AC** 12, **touch** 12, **flat-footed** 10 (+2 Dex)
 **hp** 10 (1d8+2)
-**Fort**+2,**Ref**+4,**Will** +3
+**Fort** +2, **Ref** +4, **Will** +3
 
 ## Offense
 
 **Speed** 30 ft.
 **Melee** Battle Wrench +1 (1d4+1/x3)
-**Space**5 ft.;**Reach** 5 ft.
+**Space** 5 ft.; **Reach** 5 ft.
 **Special Attacks** finishers
 
 ## Magic
 
-**Caster Level**1;**MSB**+1,**MSD**12,**Concentration** +4
-**Tradition**Artificery (Boons: Easy Focus; Drawbacks: Focus Casting (sul magicas), Wild Magic);**CAM** Int
+**Caster Level** 1; **MSB** +1, **MSD** 12, **Concentration** +4
+**Tradition** Artificery (Boons: Easy Focus; Drawbacks: Focus Casting (sul magicas), Wild Magic); **CAM** Int
 **Spell Points** 4
-**Creation sphere**- DC 13;**Range**touch,**Duration**Concentration or 1 minute w/ 1 sp,**Talents** Expanded Materials
+**Creation sphere** - DC 13; **Range** touch, **Duration** Concentration or 1 minute w/ 1 sp, **Talents** Expanded Materials
 - create 1 small object (1sp)
 - destroy 1d4
 - repair 1d4
 
 ## Martial
 
-**Tradition**Tinker (Alchemy sphere (formulae) package: Improved Alchemist's Fire, Improved Fuse Grenade; Barroom sphere; Equipment sphere: Mechanical Training);**PAM** Int
-**Alchemy sphere**- DC 13,**Packages**formulae,**Talents** Improved Alchemist's Fire, Improved Fuse Grenade
+**Tradition** Tinker (Alchemy sphere (formulae) package: Improved Alchemist's Fire, Improved Fuse Grenade; Barroom sphere; Equipment sphere: Mechanical Training); **PAM** Int
+**Alchemy sphere** - DC 13, **Packages** formulae, **Talents** Improved Alchemist's Fire, Improved Fuse Grenade
 - formulae (improved alchemists fire, improved fuse grenade)
 **Barroom sphere** - DC 13
 - brutal breaker (don't suffer penalties w/ improvised weapons)
 - hard drinker (move action, retrieve and drink an elixir, potion, or beverage; if alcoholic gain drunk status for 2 rounds)
-**Equipment sphere**- DC 13,**Talents** Mechanical Training
+**Equipment sphere** - DC 13, **Talents** Mechanical Training
 - discipline (proficient w/ battle wrench, and w/ all crossbows, including exotic ones such as the net launcher)
-**Trap sphere**- DC 13,**Duration**3-22 rounds or 30-220 minutes w/ 1 minute action,**Talents** Persistent Trap, Rapid Placement
+**Trap sphere** - DC 13, **Duration** 3-22 rounds or 30-220 minutes w/ 1 minute action, **Talents** Persistent Trap, Rapid Placement
 - dart +7 ranged (1d6 or alchemical item) (standard action or move action w/ martial focus)
 - snare (standard action or move action w/ martial focus, tripwire)
 
 ## Statistics
 
-**Str**13,**Dex**14,**Con**14,**Int**16,**Wis**12,**Cha** 10
-**Base Atk**+0;**CMB**+1;**CMD** 13
+**Str** 13, **Dex** 14, **Con** 14, **Int** 16, **Wis** 12, **Cha** 10
+**Base Atk** +0; **CMB** +1; **CMD** 13
 **Feats** Extra Combat Talent x2
-**Skills**Acrobatics +6, Bluff +4, Intimidate +4, Knowledge (engineering) +7, Perception +5, Sense Motive +5, Spellcraft +7, Use Magic Device +4;**Associated Skills** Craft (alchemy) +7, Craft (traps) +7
+**Skills** Acrobatics +6, Bluff +4, Intimidate +4, Knowledge (engineering) +7, Perception +5, Sense Motive +5, Spellcraft +7, Use Magic Device +4; **Associated Skills** Craft (alchemy) +7, Craft (traps) +7
 **Languages** common, dwarven, gnomish, undercommon
 **Gear** battle wrench, trap bag, other equipment worth 55gp
 

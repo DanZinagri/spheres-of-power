@@ -13,21 +13,21 @@ Scales the color of emeralds armor this ferocious dragon. A single sharp horn pr
 XP 51,200
 Pathfinder Roleplaying Game Bestiary
 LE Gargantuan dragon (air, mythic)
-**Init**–1;**Senses** blindsight 60 ft., darkvision 120 ft., dragon senses, greensightMA, low-light vision; Perception +21
+**Init** –1; **Senses** blindsight 60 ft., darkvision 120 ft., dragon senses, greensightMA, low-light vision; Perception +21
 **Aura** frightful presence (180 ft., DC 20)
 
 #### Defense
 
-**AC**33,**touch**5,**flat-footed** 33 (–1 Dex, +28 natural, –4 size)
+**AC** 33, **touch** 5, **flat-footed** 33 (–1 Dex, +28 natural, –4 size)
 **hp** 307 (15d12+210)
-**Fort**+19,**Ref**+8,**Will** +14
-**Defensive Abilities**DR 10/epic and magic;**Immune**acid, dragon traits, paralysis and sleep;**SR** 29
+**Fort** +19, **Ref** +8, **Will** +14
+**Defensive Abilities** DR 10/epic and magic; **Immune** acid, dragon traits, paralysis and sleep; **SR** 29
 
 #### Offense
 
 **Speed** 40 ft., fly 250 ft. (clumsy), swim 40 ft.; woodland stride
 **Melee** bite +21 (4d6+15), 2 claws +21 (2d8+10), 2 wings +19 (2d6+5), tail slap +19 (2d8+15)
-**Space**20 ft.;**Reach** 20 ft. (30 ft. with bite)
+**Space** 20 ft.; **Reach** 20 ft. (30 ft. with bite)
 **Special Attacks** bilious spewMA, breath of bewildermentMA, breath weapon (60-ft. cone, 12d6 acid damage, Reflex half DC 29, usable every 1d4 rounds), chlorinous miasmaMA, crush (Medium creatures, DC 27, 4d6+16), delirious breathMA, mythic power (7/day, 1d10) , tail sweep (Small creatures, DC 27, 2d6+16)
 
 **Spell-Like Abilities** (CL 15th; concentration +18)
@@ -40,8 +40,8 @@ At will—charm person (DC 14), entangle (DC 14), suggestion (DC 16)
 
 #### Statistics
 
-**Str**31,**Dex**8,**Con**31,**Int**16,**Wis**17,**Cha** 16
-**Base Atk**+15;**CMB**+29;**CMD** 38 (42 vs. trip)
+**Str** 31, **Dex** 8, **Con** 31, **Int** 16, **Wis** 17, **Cha** 16
+**Base Atk** +15; **CMB** +29; **CMD** 38 (42 vs. trip)
 **Feats** Ability Focus (breath weapon), DragonfearMF, Flyby Attack, Improved Vital Strike, Iron Will, Multiattack, Power Attack, SnatchMF, Vital StrikeMF
 **Skills** Bluff +21, Fly +3, Intimidate +21, Knowledge (geography) +9 (+15 in forests), Knowledge (local) +10, Knowledge (nature) +10, Perception +21 (+27 in forests), Sense Motive +10, Spellcraft +20, Stealth +5 (+11 in forests), Survival +21 (+27 in forests), Swim +22, Use Magic Device +21
 **Languages** Common, Draconic, Elven, Giant, Sylvan

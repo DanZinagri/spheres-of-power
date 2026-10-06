@@ -11,26 +11,26 @@ parent: "[[Mythic Creatures (R)]]"
 XP 51,200
 Pathfinder Roleplaying Game Bestiary
 N Gargantuan animal (mythic)
-**Init**+13MF;**Senses** low-light vision; Perception +17
+**Init** +13MF; **Senses** low-light vision; Perception +17
 
 #### Defense
 
-**AC**31,**touch**10,**flat-footed** 27 (+4 Dex, +21 natural, –4 size)
+**AC** 31, **touch** 10, **flat-footed** 27 (+4 Dex, +21 natural, –4 size)
 **hp** 224 (16d8+152)
-**Fort**+17,**Ref**+16,**Will** +10
+**Fort** +17, **Ref** +16, **Will** +10
 **Defensive Abilities** feathered fortificationMA; DR 10/epic
 
 #### Offense
 
 **Speed** 20 ft., fly 80 ft. (average)
 **Melee** 2 talons +20 (2d6+11/19–20/x3 plus grab), bite +19 (2d8+11)
-**Space**20 ft.;**Reach** 15 ft.
+**Space** 20 ft.; **Reach** 15 ft.
 **Special Attacks** carry offMA, crushMA (4d6+16, DC 29), deadly dropMA, devastating stoopMA, mythic power (5/day, surge 1d8), wingstormMA
 
 #### Statistics
 
-**Str**32,**Dex**19,**Con**25,**Int**2,**Wis**16,**Cha** 15
-**Base Atk**+12;**CMB**+27 (+31 grapple);**CMD** 41
+**Str** 32, **Dex** 19, **Con** 25, **Int** 2, **Wis** 16, **Cha** 15
+**Base Atk** +12; **CMB** +27 (+31 grapple); **CMD** 41
 **Feats** Flyby Attack, Improved Critical (talons)MF, Improved InitiativeMF, Iron Will, Lightning Reflexes, Power AttackMF, Skill Focus (Perception), Weapon Focus (talons)
 **Skills** Fly +7, Perception +17
 

@@ -11,14 +11,14 @@ parent: "[[Mythic Creatures (D)]]"
 XP 9,600
 Pathfinder Roleplaying Game Bestiary
 CE Medium outsider (chaotic, demon, evil, mythic, native)
-**Init**+11MF;**Senses** darkvision 60 ft.; Perception +23
+**Init** +11MF; **Senses** darkvision 60 ft.; Perception +23
 
 #### Defense
 
-**AC**26,**touch**14,**flat-footed** 22 (+3 Dex, +1 dodge, +12 natural)
+**AC** 26, **touch** 14, **flat-footed** 22 (+3 Dex, +1 dodge, +12 natural)
 **hp** 152 (9d10+103)
-**Fort**+13,**Ref**+9,**Will** +9
-**Defensive Abilities**DR 10/cold iron and epic and good;**Immune**death effects, electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 19
+**Fort** +13, **Ref** +9, **Will** +9
+**Defensive Abilities** DR 10/cold iron and epic and good; **Immune** death effects, electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 19
 
 #### Offense
 
@@ -33,10 +33,10 @@ At will—deeper darkness, greater teleport (self plus 50 lbs. of objects only),
 
 #### Statistics
 
-**Str**24,**Dex**17,**Con**24,**Int**15,**Wis**16,**Cha** 19
-**Base Atk**+9;**CMB**+16;**CMD** 30
+**Str** 24, **Dex** 17, **Con** 24, **Int** 15, **Wis** 16, **Cha** 19
+**Base Atk** +9; **CMB** +16; **CMD** 30
 **Feats** CleaveMF, Combat Expertise, Dodge, Improved InitiativeMF, Power Attack
-**Skills**Acrobatics +15, Fly +15, Knowledge (arcana) +14, Knowledge (planes) +14, Perception +23, Sense Motive +15, Stealth +15 (+23 in shadowy areas), Survival +15;**Racial Modifiers** +8 Perception, +8 Stealth in shadowy areas
+**Skills** Acrobatics +15, Fly +15, Knowledge (arcana) +14, Knowledge (planes) +14, Perception +23, Sense Motive +15, Stealth +15 (+23 in shadowy areas), Survival +15; **Racial Modifiers** +8 Perception, +8 Stealth in shadowy areas
 **Languages** Abyssal, Celestial; telepathy 100 ft.
 
 #### Ecology

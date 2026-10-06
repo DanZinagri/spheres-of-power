@@ -10,7 +10,7 @@ parent: "[[Feats]]"
 
 Teamwork feats are special in that they generally require at least two characters to know them in order to take effect, although some classes have abilities that make them easier to use.
 
-### Cooperative Mind (Teamwork)
+#### Cooperative Mind (Teamwork)
 
 **Prerequisites:** Must have been subject to the Fusion advanced talent, character level 5th.
 
@@ -18,7 +18,7 @@ Teamwork feats are special in that they generally require at least two character
 
 This allows both creatures to supply verbal or somatic spell components, allows either creature to make attacks of opportunity, grants each creature access to combat feats and combat talents known by the other, and allows you to choose which mind is targeted by effects requiring a Will save until the start of your next turn.
 
-### Cooperative Reanimate (Teamwork)
+#### Cooperative Reanimate (Teamwork)
 
 Undead you and your allies create resonate with each of your souls.
 
@@ -28,13 +28,13 @@ Undead you and your allies create resonate with each of your souls.
 
 In addition, if at any time you would fall unconscious or be dropped to 0 hit points or less, you may choose to transfer any undead you have control over to another ally with this teamwork feat for 1 minute (or their normal maximum duration, whichever is shorter). Transferred undead may be returned to their owner during this time period as a move action, but can never be transferred to a third ally. After the duration expires, they are considered under your ally’s control and count towards your ally’s maximum Hit Dice total of undead they can have reanimated at once.
 
-### Cumulative Nimbus (Teamwork)
+#### Cumulative Nimbus (Teamwork)
 
 **Prerequisites:** Weather sphere (any (shroud) talent), magic skill bonus +5.
 
 **Benefit:** When a creature is under the effect of shrouds produced by multiple casters with this feat, any saving throws against one of these shrouds is made against the highest DC of any such shroud. Shrouds produced by casters without this feat are unaffected and other shrouds cannot use their DC.
 
-### Ready Initiation (Champion, Combat, Teamwork) [S&P]
+#### Ready Initiation (Champion, Combat, Teamwork) [S&P]
 
 When one of your allies primes a technique, you respond immediately.
 
@@ -42,7 +42,7 @@ When one of your allies primes a technique, you respond immediately.
 
 **Benefit:** When multiple characters with this feat work together to initiate a multi-character technique, the technique is performed on the highest of the participants’ initiative counts rather than the lowest. All participants have their actions for the turn moved up to the initiative count where the technique is performed.
 
-### Twilight Adept (Teamwork)
+#### Twilight Adept (Teamwork)
 
 **Prerequisite:** Dark sphere or Light sphere.
 

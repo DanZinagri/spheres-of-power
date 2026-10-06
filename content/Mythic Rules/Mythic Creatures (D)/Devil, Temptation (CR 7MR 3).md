@@ -12,21 +12,21 @@ A beautiful angelic head crowns a humanoid body that has been fused and molded i
 **Lisslefer (CR 7/MR 3)**
 XP 3,200
 LE Large outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+9;**Senses** darkvision 60 ft., detect good, detect magic, see in darkness; Perception +13
+**Init** +9; **Senses** darkvision 60 ft., detect good, detect magic, see in darkness; Perception +13
 
 #### Defense
 
-**AC**21,**touch**14,**flat-footed** 16 (+5 Dex, +7 natural, −1 size)
+**AC** 21, **touch** 14, **flat-footed** 16 (+5 Dex, +7 natural, −1 size)
 **hp** 96 (7d10+58)
-**Fort**+6,**Ref**+10,**Will** +10
-**Defensive Abilities**DR 5/epic and good;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 18
+**Fort** +6, **Ref** +10, **Will** +10
+**Defensive Abilities** DR 5/epic and good; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 18
 
 #### Offense
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 **Melee** bite +13 (1d6+7 plus grab and profane venomMA) and sting +13 (1d4+7 plus profane venomMA)
 **Ranged** spit +11 touch (profane venomMA)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** constrict (1d6+3), mythic power (3/day, surge +1d6), mythic spell-like abilitiesMA
 
 **Spell-Like Abilities** (CL 12th; concentration +15)
@@ -37,8 +37,8 @@ At will—charm person (DC 14), greater teleport (self plus 50 lbs. of objects o
 
 #### Statistics
 
-**Str**25,**Dex**21,**Con**19,**Int**20,**Wis**16,**Cha** 17
-**Base Atk**+7;**CMB**+15 (+19 grapple);**CMD** 30 (can’t be tripped)
+**Str** 25, **Dex** 21, **Con** 19, **Int** 20, **Wis** 16, **Cha** 17
+**Base Atk** +7; **CMB** +15 (+19 grapple); **CMD** 30 (can’t be tripped)
 **Feats** DeceitfulMF, Improved Initiative, Iron Will, PersuasiveMF
 **Skills** Bluff +17, Climb +15, Diplomacy +17, Disguise +17, Intimidate +14, Knowledge (arcana, planes, religion) +15, Perception +13, Sense Motive +13, Spellcraft +12, Stealth +11, Swim +15
 **Languages** Celestial, Draconic, Infernal; telepathy 100 ft., truespeech
@@ -60,7 +60,7 @@ At will—charm person (DC 14), greater teleport (self plus 50 lbs. of objects o
 
 If the lisslefer has an ongoing devil’s deal with more than one mortal, it can share senses with each once per day. If the lisslefer spends one use of mythic power, it can share senses with one marked mortal one additional time that day. Alternatively, it can share senses with one marked mortal for up to 1 hour.
 
-**Profane Venom (Su)**Bite or sting—injury or spit—contact (range 30 feet);**save**Fort DC 19;**frequency**1/round for 6 rounds;**effect**1d4 Wis plus special;**cure** 1 save.
+**Profane Venom (Su)** Bite or sting—injury or spit—contact (range 30 feet); **save** Fort DC 19; **frequency** 1/round for 6 rounds; **effect** 1d4 Wis plus special; **cure** 1 save.
 
 A lisslefer’s profane venom impedes the power of non-evil divine magic while it is in effect. Any non-evil divine spellcaster who is poisoned by a lisslefer’s profane venom or who casts a divine spell targeting a creature poisoned by a lisslefer’s profane venom must succeed at a DC 19 caster level check or have the spell fail. The save DC is Constitution- based and includes a +2 racial bonus. A lisslefer retains its ability to spit venom when in humanoid form. If a lisslefer spends one use of mythic power as a free action while delivering a bite or sting, the target is also affected by pernicious poison.
 

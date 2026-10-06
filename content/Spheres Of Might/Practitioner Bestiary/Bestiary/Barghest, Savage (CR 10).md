@@ -7,12 +7,12 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 9,600
 LE Large outsider (evil, extraplanar, lawful, shapechanger)
-**Init**+6;**Senses**darkvision 60 ft., scent;**Perception** +17
+**Init** +6; **Senses** darkvision 60 ft., scent; **Perception** +17
 
 **Defense**
-**AC**21,**touch**11,**flat-footed** 19 (+2 Dex, +10 natural, –1 size)
+**AC** 21, **touch** 11, **flat-footed** 19 (+2 Dex, +10 natural, –1 size)
 **hp** 105 (10d10+46)
-**Fort**+7,**Ref**+8,**Will** +11
+**Fort** +7, **Ref** +8, **Will** +11
 **DR** 10/magic
 
 **Offense**
@@ -30,10 +30,10 @@ The savage barghest prefers to send its minions forward first if it has them, cr
 As long as it has minions present, it will favor the Exemplar boast, using it whenever possible to maximize their effectiveness. If alone, it will favor Bloodthirst instead.
 
 **Statistics**
-**Str**23,**Dex**15,**Con**19,**Int**18,**Wis**18,**Cha** 18
-**Base Atk**+10;**CMB**+16;**CMD** 28 (32 vs. trip)
+**Str** 23, **Dex** 15, **Con** 19, **Int** 18, **Wis** 18, **Cha** 18
+**Base Atk** +10; **CMB** +16; **CMD** 28 (32 vs. trip)
 **Feats** Extra Combat Talent, Great Focus, Heroic Resolve, Skill Focus (Intimidate), Toughness
-**Martial Tradition**Assassin,**PAM**Wis,**DC** 19
+**Martial Tradition** Assassin, **PAM** Wis, **DC** 19
 **Talents** Athletics (run package, Mobile Striker), Duelist (Blood Drinker, Defensive Slice, Open Vein, Perforating Wounds), Gladiator (Bloodthirst, Cow Enemy, Coward’s Bane, Exemplar, Master of Fear, Frightful, Self Confidence)
 **Skills** Acrobatics +15, Bluff +17, Climb +16, Diplomacy +17, Intimidate +23, Knowledge (local) +14, Knowledge (planes) +17, Perception +17, Sense Motive +17, Stealth +11, Survival +17, Swim +16
 **Languages** Goblin, Infernal, Worg

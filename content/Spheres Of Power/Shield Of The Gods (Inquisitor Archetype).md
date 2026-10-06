@@ -12,13 +12,13 @@ The shield of the gods protects the faithful by any means necessary.
 
 This archetype requires [[Sphere Inquisitor|sphere inquisitor]] or [[Champion Inquisitor (Inquisitor Archetype)|champion inquisitor]].
 
-### Divine Magics
+## Divine Magics
 
 At 1st level, the shield of the gods receives a bonus magic talent of her choice from either the Enhancement, Fate, or Protection spheres.
 
 This replaces track.
 
-### Covenant with the Gods
+## Covenant with the Gods
 
 The shield of the gods can use sphere abilities to protect and enhance herself. As a swift action, she may use any aegis of the Protection sphere, any consecration of the Fate sphere, or any creature-targeting enhancement from the Enhancement sphere that has a duration greater than instantaneous. She can not include other creatures in this casting. She may use a talent she does not possess in this casting, provided she has all the prerequisites and she possesses the base sphere.
 
@@ -28,19 +28,19 @@ The shield of the gods may use this ability once per day, plus an additional tim
 
 This replaces judgement. Other class features that interact with judgment (such as true judgment) interact the same way with this ability.
 
-### Second Shield (Ex)
+## Second Shield (Ex)
 
 At 8th level, whenever a shield of the gods uses her covenant with the gods, she may gain two sphere abilities and use both of them on herself. This only consumes one use of her covenant with the gods ability.
 
 This replaces second judgment.
 
-### Third Shield (Ex)
+## Third Shield (Ex)
 
 At 16th level, whenever a shield of the gods uses her covenant with the gods ability, she may use three sphere abilities, instead of just two. This only consumes one use of her covenant with the gods ability.
 
 This replaces third judgment.
 
-### True Covenant (Ex)
+## True Covenant (Ex)
 
 At 17th level, the shield of the gods may choose another sphere (other than Enhancement, Fate, or Protection) and use abilities from this sphere with her covenant with the gods ability. The covenant with the gods ability is still limited to those abilities that can target a creature and can only be used to target the shield of the gods.
 

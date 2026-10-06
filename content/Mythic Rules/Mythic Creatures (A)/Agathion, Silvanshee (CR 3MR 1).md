@@ -13,20 +13,20 @@ This black cat has gray stripes, violet eyes, and an unusual white blaze on its 
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 NG Tiny outsider (agathion, extraplanar, good, mythic)
-**Init**+6;**Senses** darkvision 60 ft., low-light vision; Perception +10
+**Init** +6; **Senses** darkvision 60 ft., low-light vision; Perception +10
 
 #### Defense
 
-**AC**16,**touch**14,**flat-footed** 14 (+2 Dex, +2 natural, +2 size)
+**AC** 16, **touch** 14, **flat-footed** 14 (+2 Dex, +2 natural, +2 size)
 **hp** 23 (2d10+12)
-**Fort**+5,**Ref**+6,**Will** +2; +4 vs. poison
-**Defensive Abilities**DR 5/evil or silver;**Immune**electricity, petrification;**Resist**cold 10, sonic 10;**SR** 14
+**Fort** +5, **Ref** +6, **Will** +2; +4 vs. poison
+**Defensive Abilities** DR 5/evil or silver; **Immune** electricity, petrification; **Resist** cold 10, sonic 10; **SR** 14
 
 #### Offense
 
 **Speed** 30 ft., fly 90 ft. (good)
 **Melee** bite +6 (1d3+2), 2 claws +6 (1d2+2)
-**Space**5 ft.;**Reach** 0 ft.
+**Space** 5 ft.; **Reach** 0 ft.
 **Special Attacks** heroic strength, mythic masterMA, mythic power (1/day, surge +1d6), pounce
 
 **Spell-Like Abilities** (CL 2nd; concentration +3)
@@ -37,10 +37,10 @@ At will—dancing lights, prestidigitation, stabilize
 
 #### Statistics
 
-**Str**3,**Dex**15,**Con**12,**Int**10,**Wis**12,**Cha** 13
-**Base Atk**+2;**CMB**+2;**CMD** 8 (12 vs. trip)
+**Str** 3, **Dex** 15, **Con** 12, **Int** 10, **Wis** 12, **Cha** 13
+**Base Atk** +2; **CMB** +2; **CMD** 8 (12 vs. trip)
 **Feats** Improved Initiative, Weapon FinesseB, MF
-**Skills**Acrobatics +11, Climb +7, Fly +6, Knowledge (arcana) +5, Knowledge (planes) +5, Perception +10, Stealth +19;**Racial Modifiers** +4 Acrobatics, +4 Perception, +4 Stealth
+**Skills** Acrobatics +11, Climb +7, Fly +6, Knowledge (arcana) +5, Knowledge (planes) +5, Perception +10, Stealth +19; **Racial Modifiers** +4 Acrobatics, +4 Perception, +4 Stealth
 **Languages** Celestial, Draconic, Infernal; speak with animals, truespeech
 **SQ** cat’s luck, felicitous friendMA, flight, lay on hands (1d6, 1/day, always as a 2nd-level paladin), spectral mist
 

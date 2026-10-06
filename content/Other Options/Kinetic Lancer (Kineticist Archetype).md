@@ -23,7 +23,7 @@ This ability replaces the 2nd level utility wild talent.
 **Kinetic Spear (Su):** At 5th level, a kinetic lancer can select the following form infusion:
 
 > **Kinetic Spear**
-> **Element(s)**universal;**Type**form infusion;**Level**3;**Burn** 2
+> **Element(s)** universal; **Type** form infusion; **Level** 3; **Burn** 2
 > **Prerequisite(s)** kinetic blade
 > **Associated Blasts** any
 > **Saving Throw** none

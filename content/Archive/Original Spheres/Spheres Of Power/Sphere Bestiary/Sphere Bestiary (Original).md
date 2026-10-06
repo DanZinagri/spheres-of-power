@@ -32,12 +32,12 @@ The blood construct can move through an area as small as one-eighth its space wi
 
 XP 400
 N Tiny construct
-**Init**+1;**Senses**darkvision 60 ft.;**Perception** +4
+**Init** +1; **Senses** darkvision 60 ft.; **Perception** +4
 
 **Defense**
-**AC**13,**touch**13,**flat-footed** 12 (+1 Dex, +2 size)
+**AC** 13, **touch** 13, **flat-footed** 12 (+1 Dex, +2 size)
 **hp** 5 (1d10)
-**Fort**+0,**Ref**+1,**Will** +0
+**Fort** +0, **Ref** +1, **Will** +0
 **Immune** construct traits
 
 **Offense**
@@ -46,8 +46,8 @@ N Tiny construct
 **Special Attacks** blood mastery, drench, engulf (DC 11, 1d4+1 bludgeoning)
 
 **Statistics**
-**Str**13,**Dex**12,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+1;**CMB**+0;**CMD** 11
+**Str** 13, **Dex** 12, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +1; **CMB** +0; **CMD** 11
 
 **Ecology**
 **Environment** any
@@ -65,13 +65,13 @@ A tiny blood construct may be taken as a familiar. The master of a blood constru
 
 XP 400
 N Small construct
-**Init**+0;**Senses**darkvision 60 ft.;**Perception** +4
+**Init** +0; **Senses** darkvision 60 ft.; **Perception** +4
 
 **Defense**
-**AC**13,**touch**11,**flat-footed** 13 (+2 natural, +1 size)
+**AC** 13, **touch** 11, **flat-footed** 13 (+2 natural, +1 size)
 **hp** 21 (2d10+10)
-**Fort**+0,**Ref**+0,**Will** +0
-**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +0, **Ref** +0, **Will** +0
+**Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
@@ -79,8 +79,8 @@ N Small construct
 **Special Attacks** blood mastery, drench, engulf (DC 13, 1d6+2 bludgeoning)
 
 **Statistics**
-**Str**14,**Dex**10,**Con**13,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+2;**CMB**+3;**CMD** 13
+**Str** 14, **Dex** 10, **Con** 13, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +2; **CMB** +3; **CMD** 13
 
 **Special Abilities**
 
@@ -95,13 +95,13 @@ A small blood construct may be taken as a familiar with the Improved Familiar fe
 
 XP 800
 N Medium construct
-**Init**+1;**Senses**darkvision 60 ft.;**Perception** +5
+**Init** +1; **Senses** darkvision 60 ft.; **Perception** +5
 
 **Defense**
-**AC**15,**touch**11,**flat-footed** 14 (+1 Dex, +4 natural)
+**AC** 15, **touch** 11, **flat-footed** 14 (+1 Dex, +4 natural)
 **hp** 42 (4d10+20)
-**Fort**+1,**Ref**+2,**Will** +1
-**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +1, **Ref** +2, **Will** +1
+**Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
@@ -109,8 +109,8 @@ N Medium construct
 **Special Attacks** blood mastery, drench, engulf (DC 15, 1d8+3 bludgeoning)
 
 **Statistics**
-**Str**16,**Dex**12,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+4;**CMB**+7;**CMD** 18
+**Str** 16, **Dex** 12, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +4; **CMB** +7; **CMD** 18
 
 **Special Abilities**
 
@@ -122,23 +122,23 @@ N Medium construct
 
 XP 1,600
 N Large construct
-**Init**+2;**Senses**darkvision 60 ft.;**Perception** +9
+**Init** +2; **Senses** darkvision 60 ft.; **Perception** +9
 
 **Defense**
-**AC**17,**touch**11,**flat-footed** 15 (+2 Dex, +6 natural, –1 size)
+**AC** 17, **touch** 11, **flat-footed** 15 (+2 Dex, +6 natural, –1 size)
 **hp** 74 (8d10+30)
-**Fort**+2,**Ref**+4,**Will** +2
-**DR**5/—;**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +2, **Ref** +4, **Will** +2
+**DR** 5/—; **Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** 2 slams +12 (2d6+5)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** blood mastery, drench, engulf (DC 19, 2d6+5 bludgeoning)
 
 **Statistics**
-**Str**20,**Dex**14,**Con**17,**Int**6,**Wis**11,**Cha** 11
-**Base Atk**+8;**CMB**+14;**CMD** 26
+**Str** 20, **Dex** 14, **Con** 17, **Int** 6, **Wis** 11, **Cha** 11
+**Base Atk** +8; **CMB** +14; **CMD** 26
 
 **Special Abilities**
 
@@ -150,23 +150,23 @@ N Large construct
 
 XP 3,200
 N Huge construct
-**Init**+4;**Senses**darkvision 60 ft.;**Perception** +13
+**Init** +4; **Senses** darkvision 60 ft.; **Perception** +13
 
 **Defense**
-**AC**20,**touch**12,**flat-footed** 16 (+4 Dex, +8 natural, -2 size)
+**AC** 20, **touch** 12, **flat-footed** 16 (+4 Dex, +8 natural, -2 size)
 **hp** 95 (10d10+40)
-**Fort**+3,**Ref**+7,**Will** +3
-**DR**5/—;**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +3, **Ref** +7, **Will** +3
+**DR** 5/—; **Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** 2 slams +15 (3d6+7)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** blood mastery, drench, engulf (DC 22, 3d6+7 bludgeoning)
 
 **Statistics**
-**Str**24,**Dex**18,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+10;**CMB**+19;**CMD** 33
+**Str** 24, **Dex** 18, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +10; **CMB** +19; **CMD** 33
 
 **Special Abilities**
 
@@ -178,23 +178,23 @@ N Huge construct
 
 XP 6,400
 N Gargantuan construct
-**Init**+5;**Senses**darkvision 60 ft.;**Perception** +16
+**Init** +5; **Senses** darkvision 60 ft.; **Perception** +16
 
 **Defense**
-**AC**21,**touch**12,**flat-footed** 16 (+5 Dex, +9 natural, -3 size)
+**AC** 21, **touch** 12, **flat-footed** 16 (+5 Dex, +9 natural, -3 size)
 **hp** 131 (13d10+60)
-**Fort**+4,**Ref**+9,**Will** +4
-**DR**10/—;**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +4, **Ref** +9, **Will** +4
+**DR** 10/—; **Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** 2 slams +22 (4d6+12)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** blood mastery, drench, engulf (DC 28, 4d6+12 bludgeoning)
 
 **Statistics**
-**Str**34,**Dex**20,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+13;**CMB**+29;**CMD** 44
+**Str** 34, **Dex** 20, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +13; **CMB** +29; **CMD** 44
 
 **Special Abilities**
 
@@ -206,23 +206,23 @@ N Gargantuan construct
 
 XP 12,800
 N Colossal construct
-**Init**+6;**Senses**darkvision 60 ft.;**Perception** +19
+**Init** +6; **Senses** darkvision 60 ft.; **Perception** +19
 
 **Defense**
-**AC**21,**touch**12,**flat-footed** 15 (+6 Dex, +9 natural, -4 size)
+**AC** 21, **touch** 12, **flat-footed** 15 (+6 Dex, +9 natural, -4 size)
 **hp** 148 (16d10+80)
-**Fort**+5,**Ref**+11,**Will** +5
-**DR**10/—;**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +5, **Ref** +11, **Will** +5
+**DR** 10/—; **Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** 2 slams +28 (6d6+16)
-**Space**25 ft.;**Reach** 25 ft.
+**Space** 25 ft.; **Reach** 25 ft.
 **Special Attacks** blood mastery, drench, engulf (DC 34, 6d6+16 bludgeoning)
 
 **Statistics**
-**Str**42,**Dex**22,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+16;**CMB**+40;**CMD** 56
+**Str** 42, **Dex** 22, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +16; **CMB** +40; **CMD** 56
 
 **Special Abilities**
 
@@ -235,28 +235,28 @@ N Colossal construct
 A spot in the fog shimmers and coalesces into the shape of a tiny winged human, with a blue tunic and bluer skin.
 XP 600
 CN Tiny fey
-**Init**+4;**Senses** low-light vision, mistsight; Perception +8
+**Init** +4; **Senses** low-light vision, mistsight; Perception +8
 
 **Defense**
-**AC**18,**touch**16,**flat-footed** 14 (+4 Dex, +2 natural armor, +2 size)
+**AC** 18, **touch** 16, **flat-footed** 14 (+4 Dex, +2 natural armor, +2 size)
 **hp** 13 (3d6+3)
-**Fort**+2,**Ref**+7,**Will** +6
+**Fort** +2, **Ref** +7, **Will** +6
 **Immune** electricity
 
 **Offense**
 **Speed** fly 40 ft. (good)
-**Space**5 ft.;**Reach** 0 ft.
+**Space** 5 ft.; **Reach** 0 ft.
 
 **Magic**
-**Caster Level**3;**MSB**+3,**MSD**13,**Concentration** +8
-**Tradition**Conductive (Energy Focus (Electric), Shape Focus (default), Localized Weather);**CAM** Cha
+**Caster Level** 3; **MSB** +3, **MSD** 13, **Concentration** +8
+**Tradition** Conductive (Energy Focus (Electric), Shape Focus (default), Localized Weather); **CAM** Cha
 **Spell Points** 6
-**Destruction**–**DC**18;**Range**medium;**Talents** Electric Blast, Extended Range
-**Weather**–**Talents** Mist Form, Sodden, Zephyr’s Flight
+**Destruction** – **DC** 18; **Range** medium; **Talents** Electric Blast, Extended Range
+**Weather** – **Talents** Mist Form, Sodden, Zephyr’s Flight
 
 **Statistics**
-**Str**3,**Dex**18,**Con**12,**Int**11,**Wis**17,**Cha** 20
-**Base Atk**+1;**CMB**-5;**CMD** 7
+**Str** 3, **Dex** 18, **Con** 12, **Int** 11, **Wis** 17, **Cha** 20
+**Base Atk** +1; **CMB** -5; **CMD** 7
 **Feats** Mantled Caster, Sphere Focus (destruction)
 **Skills** Acrobatics +10, Fly +18, Knowledge (nature) +6, Perception +8, Survival +5, Stealth +10
 **Languages** Common and Sylvan
@@ -283,23 +283,23 @@ A cloud sprite can see through fog, smoke, precipitation, and other obscuring va
 
 XP 3,200
 N Large construct
-**Init**–1;**Senses** darkvision 60 ft., low-light vision; Perception +0
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; Perception +0
 
 **Defense**
-**AC**20,**touch**8,**flat-footed** 20; (–1 Dex, +12 natural, –1 size)
+**AC** 20, **touch** 8, **flat-footed** 20; (–1 Dex, +12 natural, –1 size)
 **hp** 79 (9d10+30)
-**Fort**+3,**Ref**+2,**Will** +3
-**DR**5/bludgeoning;**Immune** construct traits, magic
+**Fort** +3, **Ref** +2, **Will** +3
+**DR** 5/bludgeoning; **Immune** construct traits, magic
 
 **Offense**
 **Speed** 30 ft.
 **Melee** 2 claws +13 (2d8+5)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** Crystal Growth
 
 **Statistics**
-**Str**20,**Dex**9,**Con**—,**Int**—,**Wis**11,**Cha** 11
-**Base Atk**+9;**CMB**+15;**CMD** 24
+**Str** 20, **Dex** 9, **Con** —, **Int** —, **Wis** 11, **Cha** 11
+**Base Atk** +9; **CMB** +15; **CMD** 24
 **Languages** none
 
 **Special Abilities**
@@ -324,7 +324,7 @@ A crystal golem cannot speak, although it can emit crashing and grinding noise. 
 
 **Crystal Golem Construction**
 A crystal golem is assembled from a collection of rare crystals, imbued with powerful dweomers and held together by golden filaments until the growth begins properly.
-**CL**8th;**Price** 20,500 gp
+**CL** 8th; **Price** 20,500 gp
 
 **Construction Requirements**
 Craft Construct, crystal blast, creator must be caster level 8th; Skill Craft (jewelry) or appraise DC 13; **Cost** 10,500 gp
@@ -337,23 +337,23 @@ A great black dog seemingly tattooed with knots of phosphorescent green, this fe
 
 XP 9,600
 N Large fey
-**Init**+4;**Senses** barrowsight, low-light vision; Perception +19
+**Init** +4; **Senses** barrowsight, low-light vision; Perception +19
 
 **Defense**
-**AC**22,**touch**14,**flat-footed** 17 (+4 Dex, +1 dodge, +8 natural, -1 size)
+**AC** 22, **touch** 14, **flat-footed** 17 (+4 Dex, +1 dodge, +8 natural, -1 size)
 **hp** 120 (16d6+64)
-**Fort**+9,**Ref**+14,**Will** +10
+**Fort** +9, **Ref** +14, **Will** +10
 **Defensive Abilities** **DR** 10/cold iron, ghostly
 
 **Offense**
 **Speed** 50 ft.
 **Melee** 1 bite +15 (2d6+23 plus trip) (includes bonuses and penalties from Power Attack)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** baleful howl, trip, psychopomp
 
 **Statistics**
-**Str**22,**Dex**19,**Con**18,**Int**11,**Wis**10,**Cha** 21
-**Base Atk**+8;**CMB**+15 (+4 trip);**CMD** 27 (+6 vs. trip)
+**Str** 22, **Dex** 19, **Con** 18, **Int** 11, **Wis** 10, **Cha** 21
+**Base Atk** +8; **CMB** +15 (+4 trip); **CMD** 27 (+6 vs. trip)
 **Feats** Blood Feast, Dirty Fighting, Dodge, Greater TripB, Improved Natural Attack (bite), Improved TripB, Mobility, Power Attack, Spring Attack, Weapon Focus (bite)
 **Skills** Intimidate +21, Knowledge (nature) +19, Knowledge (religion) +16, Perception +19, Stealth +23, Survival +16
 **Languages** Common and Sylvan
@@ -389,23 +389,23 @@ This circle of pitch-black fabric hides an extradimensional space sized to fit a
 
 XP 4,800
 N Large Construct
-**Init**+0**Senses** Darkvision 60 ft., low-light vision, perception +0
+**Init** +0 **Senses** Darkvision 60 ft., low-light vision, perception +0
 
 **Defenses**
-**AC**18,**touch**14,**flat-footed** 14 (+4 dex, +4 natural)
+**AC** 18, **touch** 14, **flat-footed** 14 (+4 dex, +4 natural)
 **hp** 75 (10d10+20)
-**Fort**+2**Ref**+6**Will** +2
-**Defensive Abilities**DR 5/magic;**Immune** Construct Traits, Magic
+**Fort** +2 **Ref** +6 **Will** +2
+**Defensive Abilities** DR 5/magic; **Immune** Construct Traits, Magic
 
 **Offense**
 **Speed** 20 ft.
 **Melee** Bite (1d6+7 plus Devouring Darkness and Grab)
-**Space**10 ft.;**Reach** 5 ft.;
+**Space** 10 ft.; **Reach** 5 ft.;
 **Special Attack** Extradimensional Gullet (1d6+7 plus Devouring Darkness), Devouring Darkness
 
 **Statistics**
-**Str**20**Dex**18**Con**—**Int**—**Wis**10**Cha** 14
-**Base Atk**+10;**CMB**+15 (+23 grapple);**CMD** +30 (can’t be tripped)
+**Str** 20 **Dex** 18 **Con** — **Int** — **Wis** 10 **Cha** 14
+**Base Atk** +10; **CMB** +15 (+23 grapple); **CMD** +30 (can’t be tripped)
 **SQ** Compression, Nothing to See Here
 
 **Special Abilities**
@@ -418,9 +418,9 @@ N Large Construct
 **Construction**
 A devouring hole is created from a normal portable hole given animation and purpose through an elaborate ritual requiring rare reagents. The crafting cost assumes the creator must purchase a portable hole at market price. Adjust the cost down if the creator can supply one by other means or craft one herself.
 
-**CL**12th;**Price** 50,000 gp
+**CL** 12th; **Price** 50,000 gp
 
-**Feats**Craft Construct**Spells**Dark sphere, Enhancement sphere, Warp sphere, Animate Object, Extradimensional Storage, Hungry Darkness, creator must be at least caster level 12th.** Skill**Craft (Cloth) DC 15;**Cost** 25,000 gp
+**Feats** Craft Construct **Spells** Dark sphere, Enhancement sphere, Warp sphere, Animate Object, Extradimensional Storage, Hungry Darkness, creator must be at least caster level 12th. **Skill** Craft (Cloth) DC 15; **Cost** 25,000 gp
 
 ---
 
@@ -429,30 +429,30 @@ A devouring hole is created from a normal portable hole given animation and purp
 What seemed at a distance to be a cloud of glittering gems now becomes clear as a swarm of tiny fey whose wings sparkle with dew and who carry rough weapons of iron nails.
 XP 1200
 N Diminutive fey (swarm)
-**Init**+8;**Senses** low-light vision; Perception +9
+**Init** +8; **Senses** low-light vision; Perception +9
 
 **Defense**
-**AC**18,**touch**18,**flat-footed** 14 (+4 Dex, +4 size)
+**AC** 18, **touch** 18, **flat-footed** 14 (+4 Dex, +4 size)
 **hp** 40 (9d6+9)
-**Fort**+4,**Ref**+10,**Will** +3
-**Defensive Abilities**swarm traits;**Immune** mind-affecting effects, weapon damage
+**Fort** +4, **Ref** +10, **Will** +3
+**Defensive Abilities** swarm traits; **Immune** mind-affecting effects, weapon damage
 **Weaknesses** swarm traits
 
 **Offense**
 **Speed** fly 40 ft. (perfect)
 **Melee** swarm (2d6 plus distraction and drench, counts as cold iron)
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** crude cold iron weapons, distraction (DC 17)
 
 **Magic**
-**Caster Level**9;**MSB**+9,**MSD**9,**Concentration** +11
-**Tradition**Rain dancing (Atmoturgy, Skilled Casting (Perform (dance)), Wild Magic, Focused Weather (Precipitation));**CAM** Cha
+**Caster Level** 9; **MSB** +9, **MSD** 9, **Concentration** +11
+**Tradition** Rain dancing (Atmoturgy, Skilled Casting (Perform (dance)), Wild Magic, Focused Weather (Precipitation)); **CAM** Cha
 **Spell Points** 11
-**Weather**–**DC**16;**Duration**Concentration;**Range**medium;**Talents** Calm Weather, Cloud Burst, Rain Lord, Severe Weather
+**Weather** – **DC** 16; **Duration** Concentration; **Range** medium; **Talents** Calm Weather, Cloud Burst, Rain Lord, Severe Weather
 
 **Statistics**
-**Str**1,**Dex**18,**Con**12,**Int**11,**Wis**5,**Cha** 14
-**Base Atk**+4;**CMB**–;**CMD** –
+**Str** 1, **Dex** 18, **Con** 12, **Int** 11, **Wis** 5, **Cha** 14
+**Base Atk** +4; **CMB** –; **CMD** –
 **Feats** Ability Focus (distraction), Cantrips, Improved Initiative, Lightning Reflexes, Skill Focus (Perform [dance])
 **Skills** Fly +30, Knowledge (nature) +12, Perception +9, Perform (dance) +17, Stealth +16, Survival +9
 **Languages** Common and Sylvan
@@ -486,12 +486,12 @@ At first glance, this magical beast looks nothing more than an arctic wolf, but 
 
 XP 800
 LN Medium magical beast
-**Init:**+2;**Senses** darkvision 60 ft, detect spellcaster (120 ft), low-light vision, perception +5, scent
+**Init:** +2; **Senses** darkvision 60 ft, detect spellcaster (120 ft), low-light vision, perception +5, scent
 
 **Defense**
-**AC**15,**touch**12,**flat-footed** 13 (+2 Dex, +3 Natural)
+**AC** 15, **touch** 12, **flat-footed** 13 (+2 Dex, +3 Natural)
 **hp** 30 (4d10+8)
-**Fort**+6,**Ref**+6,**Will** +2
+**Fort** +6, **Ref** +6, **Will** +2
 **Defensive Abilities** Spellhide (+3 saves vs spells, spell-like abilities, sphere talents and abilities)
 
 **Offense**
@@ -499,10 +499,10 @@ LN Medium magical beast
 **Melee** bite +5 (1d6+1 plus trip)
 
 **Statistics**
-**Str**13,**Dex**15,**Con**15,**Int**3,**Wis**12,**Cha** 8
-**Base Atk**+4;**CMB**+5;**CMD** 17
+**Str** 13, **Dex** 15, **Con** 15, **Int** 3, **Wis** 12, **Cha** 8
+**Base Atk** +4; **CMB** +5; **CMD** 17
 **Feats** Skill Focus (Perception), Skill Focus (Survival)
-**Skills**Perception +8, Survival +8 (+12 scent tracking);**Racial Modifiers** +4 Survival when tracking by scent.
+**Skills** Perception +8, Survival +8 (+12 scent tracking); **Racial Modifiers** +4 Survival when tracking by scent.
 **SQ** aura tracking, detect spellcaster, spellhide
 
 **Special Abilities**
@@ -527,12 +527,12 @@ The sibyl elusa hounds are favored by inquisitors and investigators alike, who u
 XP 200
 Wyrgrove Ghoran yamabushi (unchained monk) 1
 LN Medium plant
-**Init:**+2;**Senses** low-light vision, Perception +7
+**Init:** +2; **Senses** low-light vision, Perception +7
 
 **Defense**
-**AC**16,**touch**15,**flat-footed** 14 (+1 natural, +2 Dex, +3 Wis)
+**AC** 16, **touch** 15, **flat-footed** 14 (+1 natural, +2 Dex, +3 Wis)
 **hp** 13 (1d10+3)
-**Fort**+5,**Ref**+4,**Will** +3
+**Fort** +5, **Ref** +4, **Will** +3
 **Immune** plant traits
 **Weakness** delicious, light dependency
 
@@ -547,8 +547,8 @@ LN Medium plant
 **Nature Sphere** (plantlife geomancing) - Barkskin, Shelter
 
 **Statistics**
-**Str**14,**Dex**14,**Con**16,**Int**5,**Wis**16,**Cha** 9
-**Base Atk**+1;**CMB**+3;**CMD** +18
+**Str** 14, **Dex** 14, **Con** 16, **Int** 5, **Wis** 16, **Cha** 9
+**Base Atk** +1; **CMB** +3; **CMD** +18
 **Feats** Extra Magical Talent
 **Skills** Intimidate +3
 **Languages** Common, Treant
@@ -591,23 +591,23 @@ Ghoran keep their Delicious, Ghorus Seed, and Light Dependency racial traits whi
 
 XP 400
 CE Tiny fey
-**Init**+0;**Senses** darkvision 120 ft., low-light vision; Perception +5
+**Init** +0; **Senses** darkvision 120 ft., low-light vision; Perception +5
 
 **Defense**
-**AC**12,**touch**12,**flat-footed** 12 (+2 size)
+**AC** 12, **touch** 12, **flat-footed** 12 (+2 size)
 **hp** 8 (1d6+5)
-**Fort**+2,**Ref**+2,**Will** +3
-**DR**3/cold iron;**SR** 11
+**Fort** +2, **Ref** +2, **Will** +3
+**DR** 3/cold iron; **SR** 11
 
 **Offense**
 **Speed** 20 ft., burrow 20 ft.
 **Melee** shovel +4 (1d8+3/×3)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 **Special Attacks** break ground, undermine
 
 **Statistics**
-**Str**14,**Dex**11,**Con**14,**Int**11,**Wis**12,**Cha** 11
-**Base Atk**+0;**CMB**+0;**CMD** 10
+**Str** 14, **Dex** 11, **Con** 14, **Int** 11, **Wis** 12, **Cha** 11
+**Base Atk** +0; **CMB** +0; **CMD** 10
 **Feats** Skill Focus (Knowledge (engineering)), Toughness
 **Skills** Climb +6, Craft (Traps) +4, Knowledge (engineering) +4, Knowledge (geography) +4, Perception +5, Stealth +12
 **Languages** Aklo, Undercommon
@@ -642,31 +642,31 @@ This mummified cat is wrapped in linen that has been covered in ancient glyphs o
 
 XP 307,200
 LN Tiny outsider (lawful, native)
-**Init**+11;**Senses** darkvision 120 ft.; Perception +33
+**Init** +11; **Senses** darkvision 120 ft.; Perception +33
 
 **Defense**
-**AC**40,**touch**35,**flat-footed** 29 (+11 Dex, +5 natural, +4 size, +10 Wis)
+**AC** 40, **touch** 35, **flat-footed** 29 (+11 Dex, +5 natural, +4 size, +10 Wis)
 **hp** 253 (22d8+154)
-**Fort**+14,**Ref**+24,**Will** +23
+**Fort** +14, **Ref** +24, **Will** +23
 **Defensive Abilities** **DR** 15/chaotic, perfect order, raised to serve
 
 **Offense**
 **Speed** 40 ft.
 **Melee** 2 claws +33 (1d2, 19–20/x2), bite +31 (1d3)
-**Space**2-1/2 ft. ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft. ft.; **Reach** 0 ft.
 **Special Attacks** breath weapon
 
 **Magic**
-**Caster Level**16;**MSB**+16,**MSD** 27, Concentration +27
-**Tradition**Natural (none);**CAM** Wis
+**Caster Level** 16; **MSB** +16, **MSD** 27, Concentration +27
+**Tradition** Natural (none); **CAM** Wis
 **Spell Points** 27
-**Death Sphere**–**DC**28;**Duration**16 hours w/ 1 sp or instantaneous w/ 3 sp;**Range**medium (260 ft.) or touch;**Talents** Command Undead, Curse, Drain, Greater Undead, Lingering Undead, Permanent Undead, Vampiric Strike
+**Death Sphere** – **DC** 28; **Duration** 16 hours w/ 1 sp or instantaneous w/ 3 sp; **Range** medium (260 ft.) or touch; **Talents** Command Undead, Curse, Drain, Greater Undead, Lingering Undead, Permanent Undead, Vampiric Strike
 - command undead (ghost strike, 16 min)
 - curse (ghost strike, permanent)
 - drain (16 hours)
 - reanimate (16 hours with 1 sp or instantaneous with 3 sp)
 - vampiric strike (16 min)
-**Fate Sphere**–**DC**28;**Alignment**lawful;**Duration**concentration, 16 rounds, 16 min, or 2 hr 10 min w/ 1 sp;**Range**close (65 ft.) or personal w/ 20-ft. (40-ft. w/ 1 sp) radius;**Talents** Classify, Consecrated Ground (2), Divine Pressure, Divine Force, Geas, Greater Geas, Mark of Judgment, Stationary Consecration, Truth
+**Fate Sphere** – **DC** 28; **Alignment** lawful; **Duration** concentration, 16 rounds, 16 min, or 2 hr 10 min w/ 1 sp; **Range** close (65 ft.) or personal w/ 20-ft. (40-ft. w/ 1 sp) radius; **Talents** Classify, Consecrated Ground (2), Divine Pressure, Divine Force, Geas, Greater Geas, Mark of Judgment, Stationary Consecration, Truth
 - classify (word, instantaneous)
 - divine force (consecration, instantaneous)
 - divine pressure (consecration, concentration, 16 min with 1 sp, or permanent with 3 sp)
@@ -677,8 +677,8 @@ LN Tiny outsider (lawful, native)
 - truth (word, concentration or 16 min with 1 sp)
 
 **Statistics**
-**Str**11,**Dex**33,**Con**28,**Int**15,**Wis**30,**Cha** 12
-**Base Atk**+22;**CMB**+20 (+24 grapple);**CMD** 45 (47 vs. grapple)
+**Str** 11, **Dex** 33, **Con** 28, **Int** 15, **Wis** 30, **Cha** 12
+**Base Atk** +22; **CMB** +20 (+24 grapple); **CMD** 45 (47 vs. grapple)
 **Feats** Align Spell (lawful), Dirty Fighting, Greater Grapple, Improved Critical (claws), Improved Grapple, Improved Mystic Assault, Multiattack, Mystic Assault, Quicken Spell, Weapon Finesse
 **Skills** Acrobatics +34, Climb +25, Diplomacy +24, Knowledge (religion) +25, Knowledge (planes) +25, Perception +33, Sense Motive +33, Stealth +34
 **Languages** Common and Necril, speak with animals (cats only)
@@ -713,22 +713,22 @@ Mau are the mummified remains of a beloved housecat inhabited by a spirit of Law
 
 XP 200
 NG Small fey
-**Init**+3;**Senses**low-light vision;**Perception** +5
+**Init** +3; **Senses** low-light vision; **Perception** +5
 
 **Defense**
-**AC**14,**touch**13,**flat-footed** 11 (+3 Dex, +1 size)
+**AC** 14, **touch** 13, **flat-footed** 11 (+3 Dex, +1 size)
 **hp** 5 (1d6+2)
-**Fort**+2,**Ref**+6,**Will** +2; +2 vs. illusions
+**Fort** +2, **Ref** +6, **Will** +2; +2 vs. illusions
 
 **Offense**
 **Speed** 30 ft.
 **Melee** dagger +3 (1d3+1/19–20)
 **Ranged** shortbow +3 (1d4)
-**Space**5 ft.,**Reach** 5 ft.
+**Space** 5 ft., **Reach** 5 ft.
 
 **Statistics**
-**Str**15,**Dex**16,**Con**15,**Int**12,**Wis**12,**Cha** 15
-**Base Atk**+0;**CMB**+1;**CMD** 14
+**Str** 15, **Dex** 16, **Con** 15, **Int** 12, **Wis** 12, **Cha** 15
+**Base Atk** +0; **CMB** +1; **CMD** 14
 **Feats** Point Blank Shot
 **Skills** Acrobatics +7, Craft (carpentry) +5, Knowledge (Engineering) +2, Perception +5, Perform (dance) +6, Perform (sing) +6, Stealth +15
 **Languages** Common, Sylvan
@@ -754,13 +754,13 @@ A 5th-level spellcaster within one step of neutral good can gain a menehune as a
 
 XP 1,600
 CG Medium Fey
-**Init:**+5;**Senses** low-light vision, Perception +12
+**Init:** +5; **Senses** low-light vision, Perception +12
 **Aura** Blinding Beauty (30 ft, DC 20)
 
 **Defense**
-**AC**22,**touch**22,**flat-footed** 17 (+7 Deflection, +5 Dex)
+**AC** 22, **touch** 22, **flat-footed** 17 (+7 Deflection, +5 Dex)
 **hp** 45 (6d6+24)
-**Fort**+13,**Ref**+17,**Will** +15
+**Fort** +13, **Ref** +17, **Will** +15
 **DR** 10/cold iron
 
 **Offense**
@@ -776,8 +776,8 @@ CG Medium Fey
 **Warp Sphere**
 
 **Statistics**
-**Str**10,**Dex**20,**Con**18,**Int**16,**Wis**17,**Cha** 25
-**Base Atk**+3;**CMB**+8;**CMD** +25
+**Str** 10, **Dex** 20, **Con** 18, **Int** 16, **Wis** 17, **Cha** 25
+**Base Atk** +3; **CMB** +8; **CMD** +25
 **Feats** Agile Maneuvers, Combat Casting, Weapon Finesse
 **Skills** Diplomacy +16, Escape Artist +14, Handle Animal +13, Heal +9, Knowledge (nature) +12, Perception +12, Sense Motive +12, Stealth +14, Swim +17
 **Languages** Common, Sylvan, Elven, Treant
@@ -810,13 +810,13 @@ There are told tales of a beauty so great that those who behold her may be struc
 
 XP 600
 N Small outsider (elemental, extraplanar)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +4
+**Init** +1; **Senses** darkvision 60 ft.; Perception +4
 
 **Defense**
-**AC**15,**touch**12,**flat-footed** 14 (+1 Dex, +3 natural, +1 size)
+**AC** 15, **touch** 12, **flat-footed** 14 (+1 Dex, +3 natural, +1 size)
 **hp** 11 (2d10)
-**Fort**+3,**Ref**+4,**Will** +0
-**Immune**elemental traits;**Resist** Acid 5, Cold 5, Electricity 5, Fire 5
+**Fort** +3, **Ref** +4, **Will** +0
+**Immune** elemental traits; **Resist** Acid 5, Cold 5, Electricity 5, Fire 5
 
 **Offense**
 **Speed** 30 ft., burrow 20 ft., swim 30 ft., fly 20 ft. (Perfect)
@@ -825,8 +825,8 @@ N Small outsider (elemental, extraplanar)
 **Special Attacks** detonation DC 11
 
 **Statistics**
-**Str**10,**Dex**13,**Con**10,**Int**4,**Wis**11,**Cha** 11
-**Base Atk**+2;**CMB**+1;**CMD** 13
+**Str** 10, **Dex** 13, **Con** 10, **Int** 4, **Wis** 11, **Cha** 11
+**Base Atk** +2; **CMB** +1; **CMD** 13
 **Feats** Point Blank Shot, Sphere Focus (Destruction)B, Weapon FinesseB
 **Skills** Acrobatics +5, Climb +4, Escape Artist +5, Intimidate +4, Knowledge (planes) +1, Perception +4
 **Languages** Aquan, Auran, Ignan, Terran
@@ -854,13 +854,13 @@ In combat, omnimentals prefer to skirmish, weakening their enemy with blasts fro
 
 XP 1,200
 N Medium outsider (elemental, extraplanar)
-**Init**+3;**Senses** darkvision 60 ft.; Perception +7
+**Init** +3; **Senses** darkvision 60 ft.; Perception +7
 
 **Defense**
-**AC**16,**touch**13,**flat-footed** 13 (+3 Dex, +3 natural)
+**AC** 16, **touch** 13, **flat-footed** 13 (+3 Dex, +3 natural)
 **hp** 30 (4d10+8)
-**Fort**+6,**Ref**+7,**Will** +3
-**Immune**elemental traits;**Resist** Acid 5, Cold 5, Electricity 5, Fire 5
+**Fort** +6, **Ref** +7, **Will** +3
+**Immune** elemental traits; **Resist** Acid 5, Cold 5, Electricity 5, Fire 5
 
 **Offense**
 **Speed** 30 ft., burrow 20 ft., swim 30 ft., fly 20 ft. (Perfect)
@@ -869,8 +869,8 @@ N Medium outsider (elemental, extraplanar)
 **Special Attacks** detonation DC 13
 
 **Statistics**
-**Str**10,**Dex**17,**Con**14,**Int**4,**Wis**11,**Cha** 13
-**Base Atk**+4;**CMB**+5;**CMD** 19
+**Str** 10, **Dex** 17, **Con** 14, **Int** 4, **Wis** 11, **Cha** 13
+**Base Atk** +4; **CMB** +5; **CMD** 19
 **Feats** Point Blank Shot, Precise shot, Sphere Focus (Destruction)B, Weapon FinesseB
 **Skills** Acrobatics +8, Climb +5, Escape Artist +8, Intimidate +5, Knowledge (planes) +1, Perception +7
 **Languages** Aquan, Auran, Ignan, Terran
@@ -885,13 +885,13 @@ N Medium outsider (elemental, extraplanar)
 
 XP 2,400
 N Large outsider (elemental, extraplanar)
-**Init**+5;**Senses** darkvision 60 ft.; Perception +11
+**Init** +5; **Senses** darkvision 60 ft.; Perception +11
 
 **Defense**
-**AC**18,**touch**14,**flat-footed** 13 (+5 Dex, +4 natural, -1 size)
+**AC** 18, **touch** 14, **flat-footed** 13 (+5 Dex, +4 natural, -1 size)
 **hp** 60 (8d10+16)
-**Fort**+8,**Ref**+11,**Will** +4
-**DR**5/—,**Immune**elemental traits;**Resist** Acid 5, Cold 5, Electricity 5, Fire 5
+**Fort** +8, **Ref** +11, **Will** +4
+**DR** 5/—, **Immune** elemental traits; **Resist** Acid 5, Cold 5, Electricity 5, Fire 5
 
 **Offense**
 **Speed** 30 ft., burrow 20 ft., swim 30 ft., fly 20 ft (Perfect)
@@ -900,8 +900,8 @@ N Large outsider (elemental, extraplanar)
 **Special Attacks** detonation DC 14
 
 **Statistics**
-**Str**14,**Dex**21,**Con**14,**Int**6,**Wis**11,**Cha** 15
-**Base Atk**+8;**CMB**+11;**CMD** 27
+**Str** 14, **Dex** 21, **Con** 14, **Int** 6, **Wis** 11, **Cha** 15
+**Base Atk** +8; **CMB** +11; **CMD** 27
 **Feats** Point Blank Shot, Precise Shot, Extra Spell Pool, Improved Energy Blade, Sphere Focus (Destruction)B, Weapon FinesseB
 **Skills** Acrobatics +14, Climb +9, Escape Artist +12, Intimidate +9, Knowledge (planes) +5, Perception +11
 **Languages** Aquan, Auran, Ignan, Terran
@@ -916,13 +916,13 @@ N Large outsider (elemental, extraplanar)
 
 XP 4,800
 N Huge outsider (elemental, extraplanar)
-**Init**+5;**Senses** darkvision 60 ft.; Perception +7
+**Init** +5; **Senses** darkvision 60 ft.; Perception +7
 
 **Defense**
-**AC**20,**touch**15,**flat-footed** 13 (+7 Dex, +1 dodge, +5 natural, -2 size)
+**AC** 20, **touch** 15, **flat-footed** 13 (+7 Dex, +1 dodge, +5 natural, -2 size)
 **hp** 85 (10d10+30)
-**Fort**+10,**Ref**+14,**Will** +5
-**DR**5/—;**Immune**elemental traits;**Resist** Acid 5, Cold 5, Electricity 5, Fire 5
+**Fort** +10, **Ref** +14, **Will** +5
+**DR** 5/—; **Immune** elemental traits; **Resist** Acid 5, Cold 5, Electricity 5, Fire 5
 
 **Offense**
 **Speed** 40 ft., burrow 30 ft., swim 40 ft., fly 30 ft. (Perfect)
@@ -931,8 +931,8 @@ N Huge outsider (elemental, extraplanar)
 **Special Attacks** detonation DC 15
 
 **Statistics**
-**Str**18,**Dex**25,**Con**16,**Int**6,**Wis**11,**Cha** 17
-**Base Atk**+10;**CMB**+16;**CMD** 34
+**Str** 18, **Dex** 25, **Con** 16, **Int** 6, **Wis** 11, **Cha** 17
+**Base Atk** +10; **CMB** +16; **CMD** 34
 **Feats** Point Blank Shot, Precise Shot, Extra Spell Pool, Improved Energy Blade, Empower Spell, Sphere Focus (Destruction)B, Weapon FinesseB
 **Skills** Acrobatics +14, Climb +9, Escape Artist +12, Intimidate +9, Knowledge (planes) +5, Perception +11
 **Languages** Aquan, Auran, Ignan, Terran
@@ -947,13 +947,13 @@ N Huge outsider (elemental, extraplanar)
 
 XP 9,600
 N Huge outsider (elemental, extraplanar)
-**Init**+5;**Senses** darkvision 60 ft.; Perception +7
+**Init** +5; **Senses** darkvision 60 ft.; Perception +7
 
 **Defense**
-**AC**22,**touch**16,**flat-footed** 14 (+8 Dex, +6 natural, -2 size)
+**AC** 22, **touch** 16, **flat-footed** 14 (+8 Dex, +6 natural, -2 size)
 **hp** 123 (13d10+52)
-**Fort**+12,**Ref**+16,**Will** +6
-**DR**10/—;**Immune**elemental traits;**Resist** Acid 5, Cold 5, Electricity 5, Fire 5
+**Fort** +12, **Ref** +16, **Will** +6
+**DR** 10/—; **Immune** elemental traits; **Resist** Acid 5, Cold 5, Electricity 5, Fire 5
 
 **Offense**
 **Speed** 40 ft., burrow 30 ft., swim 40 ft., fly 30 ft. (Perfect)
@@ -962,8 +962,8 @@ N Huge outsider (elemental, extraplanar)
 **Special Attacks** detonation DC 21
 
 **Statistics**
-**Str**24,**Dex**27,**Con**18,**Int**8,**Wis**11,**Cha** 21
-**Base Atk**+10;**CMB**+16;**CMD** 34
+**Str** 24, **Dex** 27, **Con** 18, **Int** 8, **Wis** 11, **Cha** 21
+**Base Atk** +10; **CMB** +16; **CMD** 34
 **Feats** Point Blank Shot, Precise Shot, Extra Spell Pool, Improved Energy Blade, Empower Spell, Sphere Focus (Destruction)B, Weapon FinesseB
 **Skills** Acrobatics +23, Climb +20, Escape Artist +21, Intimidate +15, Knowledge (planes) +10, Perception +16
 **Languages** Aquan, Auran, Ignan, Terran
@@ -978,13 +978,13 @@ N Huge outsider (elemental, extraplanar)
 
 XP 19,200
 N Huge outsider (elemental, extraplanar, air, earth, fire, water)
-**Init**+9;**Senses** darkvision 60 ft.; Perception +19
+**Init** +9; **Senses** darkvision 60 ft.; Perception +19
 
 **Defense**
-**AC**25,**touch**17,**flat-footed** 16 (+9 Dex, +8 natural, -2 size)
+**AC** 25, **touch** 17, **flat-footed** 16 (+9 Dex, +8 natural, -2 size)
 **hp** 152 (16d10+64)
-**Fort**+14,**Ref**+19,**Will** +9
-**DR**10/—;**Immune**elemental traits,**Resist** Acid 5, Cold 5, Electricity 5, Fire 5
+**Fort** +14, **Ref** +19, **Will** +9
+**DR** 10/—; **Immune** elemental traits, **Resist** Acid 5, Cold 5, Electricity 5, Fire 5
 
 **Offense**
 **Speed** 40 ft., burrow 30 ft., swim 40 ft., fly 30 ft. (Perfect)
@@ -993,8 +993,8 @@ N Huge outsider (elemental, extraplanar, air, earth, fire, water)
 **Special Attacks** detonation DC 24
 
 **Statistics**
-**Str**26,**Dex**29,**Con**18,**Int**10,**Wis**11,**Cha** 23
-**Base Atk**+16;**CMB**+16;**CMD** 34
+**Str** 26, **Dex** 29, **Con** 18, **Int** 10, **Wis** 11, **Cha** 23
+**Base Atk** +16; **CMB** +16; **CMD** 34
 **Feats** Point Blank Shot, Precise Shot, Extra Spell Pool, Improved Energy Blade, Empower Spell, Quicken Spell, Iron Will, Tether Adept, Sphere Focus (Destruction)B, Weapon FinesseB
 **Skills** Acrobatics +28, Climb +27, Escape Artist +28, Intimidate +19, Knowledge (planes) +19, Perception +19
 **Languages** Aquan, Auran, Ignan, Terran
@@ -1011,23 +1011,23 @@ N Huge outsider (elemental, extraplanar, air, earth, fire, water)
 
 XP 135
 N Tiny ooze
-**Init**-5;**Senses**blindsight 60 ft.;**Perception** -5
+**Init** -5; **Senses** blindsight 60 ft.; **Perception** -5
 
 **Defense**
-**AC**7,**touch**7,**flat-footed** 7 (-5 Dex, +2 size)
+**AC** 7, **touch** 7, **flat-footed** 7 (-5 Dex, +2 size)
 **hp** 7 (1d8+3)
-**Fort**+3,**Ref**-5,**Will** -5
-**Immune**ooze traits;**Resist** fire 5
+**Fort** +3, **Ref** -5, **Will** -5
+**Immune** ooze traits; **Resist** fire 5
 **Weaknesses** vulnerability to cold
 
 **Offense**
 **Speed** 10 ft., climb 10 ft., swim 10 ft.
 **Melee** Slam +1 (1d3+1)
-**Space**2-1/2 ft.,**Reach** 0 ft.
+**Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Statistics**
-**Str**12,**Dex**1,**Con**16,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+0;**CMB**+1;**CMD** 6
+**Str** 12, **Dex** 1, **Con** 16, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +0; **CMB** +1; **CMD** 6
 
 **Ecology**
 **Environment** any underground
@@ -1056,23 +1056,23 @@ A humoral ooze may be taken as a familiar. The master of a humoral ooze familiar
 
 XP 51,200
 N Fine vermin (swarm)
-**Init**+4;**Senses** Blindsense 30 ft; Perception +6
+**Init** +4; **Senses** Blindsense 30 ft; Perception +6
 
 **Defense**
-**AC**22,**touch**14,**flat-footed** 18 (+4 Dex, +0 size, +8 natural)
+**AC** 22, **touch** 14, **flat-footed** 18 (+4 Dex, +0 size, +8 natural)
 **hp** 217 (14d8+154)
-**Fort**+20,**Ref**+8,**Will** +10
-**Defensive Abilities**fast healing 3, swarm traits;**Immune** mind-affecting effects, weapon damage
+**Fort** +20, **Ref** +8, **Will** +10
+**Defensive Abilities** fast healing 3, swarm traits; **Immune** mind-affecting effects, weapon damage
 
 **Offense**
 **Speed** 10 ft
 **Melee** swarm 3d6 plus distraction and infestation
-**Space**5 ft;**Reach** 0 ft
+**Space** 5 ft; **Reach** 0 ft
 **Special Attacks** distraction (DC 28), infestation
 
 **Statistics**
-**Str**23,**Dex**19,**Con**33,**Int**-,**Wis**22,**Cha** 13
-**Base Atk**+10;**CMB**+8;**CMD** 22
+**Str** 23, **Dex** 19, **Con** 33, **Int** -, **Wis** 22, **Cha** 13
+**Base Atk** +10; **CMB** +8; **CMD** 22
 
 **Special Abilities**
 
@@ -1120,12 +1120,12 @@ Rot grub are deadly, as are swarms, and rot grub swarms are a terrible thing to 
 XP 200
 Sibyl Samsaran psychic medium (medium) 1
 LN Medium humanoid (samsaran)
-**Init:**+1;**Senses** low-light vision, Perception +5
+**Init:** +1; **Senses** low-light vision, Perception +5
 
 **Defense**
-**AC**16,**touch**12,**flat-footed** 15 (+1 Dex, +4 Armor +1 Spirit)
+**AC** 16, **touch** 12, **flat-footed** 15 (+1 Dex, +4 Armor +1 Spirit)
 **hp** 9 (1d8+1)
-**Fort**+2,**Ref**+2,**Will** +3 (+2 vs Death Effects, Negative Energy, Negative Levels)
+**Fort** +2, **Ref** +2, **Will** +3 (+2 vs Death Effects, Negative Energy, Negative Levels)
 
 **Offense**
 **Speed** 30 ft
@@ -1133,20 +1133,20 @@ LN Medium humanoid (samsaran)
 **Ranged** light crossbow +1 (1d8/19-20)
 
 **Statistics**
-**Str**8,**Dex**13,**Con**12,**Int**12,**Wis**12,**Cha** 17
-**Base Atk**+0;**CMB**-1;**CMD** 11
+**Str** 8, **Dex** 13, **Con** 12, **Int** 12, **Wis** 12, **Cha** 17
+**Base Atk** +0; **CMB** -1; **CMD** 11
 **Feats** Extra Magical Training
 **Skills** Bluff +9, Diplomacy +7, Perception +5, Perform (seance) +9, Sense Motive +5
 **Languages** Common, Nagaji, Samsaran
 **SQ** Lifebound, Sphere-touched, Spirit [Guardian], Spirit Bonus, Spirit Boon, Spirit Power (lesser)
 
 **Magic**
-**Caster Level**1st;**MSB**+1;**MSD**12;**Concentration**+4;**Tradition**focus casting (harrow deck), skilled casting (perform seance) drawbacks;**CAB** Cha
+**Caster Level** 1st; **MSB** +1; **MSD** 12; **Concentration** +4; **Tradition** focus casting (harrow deck), skilled casting (perform seance) drawbacks; **CAB** Cha
 **Spell Points:** 5
 
 **Spheres** Divination (Logos, Object Reading), Mind (Vision)
-**Divination:** medium range (110 ft),**Divine:** detect magic;**Object Reading:**+1 appraise;**Logos:** comprehend languages.
-**Mind:** close range (25 ft), DC 13,**Charm:** suggestion;**Vision:** alter the senses of the target
+**Divination:** medium range (110 ft), **Divine:** detect magic; **Object Reading:** +1 appraise; **Logos:** comprehend languages.
+**Mind:** close range (25 ft), DC 13, **Charm:** suggestion; **Vision:** alter the senses of the target
 
 **Special Abilities**
 
@@ -1172,7 +1172,7 @@ Unlike most samsaran who have blue skin, those of the sibyl variety have a magen
 #### Tornado (companion)
 
 **Starting Statistics**
-**Size**Large,**Speed**fly 50 ft. (Good);**AC**+3 natural armor,**Attack**slam (1d4);**Ability Scores**Str 16, Dex 17, Con -, Int -, Wis 3, Cha 1;**Special Qualities**fluid, whirlwind (10-15 ft. high, 1d4+3 damage, DC 10 + 1/2 HD + Str Modifier), construct immunities, darkvision 60 ft.** CMD** can't be tripped
+**Size** Large, **Speed** fly 50 ft. (Good); **AC** +3 natural armor, **Attack** slam (1d4); **Ability Scores** Str 16, Dex 17, Con -, Int -, Wis 3, Cha 1; **Special Qualities** fluid, whirlwind (10-15 ft. high, 1d4+3 damage, DC 10 + 1/2 HD + Str Modifier), construct immunities, darkvision 60 ft. **CMD** can't be tripped
 
 **Fluid:** A tornado companion is unusually fluid; it may squeeze through tight spaces as if it were two sizes smaller than it actually is.
 
@@ -1188,20 +1188,20 @@ Unlike most samsaran who have blue skin, those of the sibyl variety have a magen
 
 XP 9,600
 NG Huge plant
-**Init**-1;**Senses** low-light vision; Perception +20
+**Init** -1; **Senses** low-light vision; Perception +20
 
 **Defense**
-**AC**24,**touch**10,**flat-footed** 24 (-1 Dex, +14 natural, -2 size, +3 deflection)
+**AC** 24, **touch** 10, **flat-footed** 24 (-1 Dex, +14 natural, -2 size, +3 deflection)
 **hp** 142 (15d8+75)
-**Fort**+14,**Ref**+4,**Will** +10
-**Defensive Abilities**Plant Traits;**DR** 10/slashing
+**Fort** +14, **Ref** +4, **Will** +10
+**Defensive Abilities** Plant Traits; **DR** 10/slashing
 **Weaknesses** vulnerability to fire
 
 **Offense**
 **Speed** 30 ft
 **Melee** 2 slams +19 (2d6+9/19-20)
 **Ranged** rock +8 (2d6+13)
-**Space**15 ft;**Reach** 15 ft
+**Space** 15 ft; **Reach** 15 ft
 **Special Attacks** rock throwing (180 ft), trample (2d6+13, DC 26)
 **Spell Points** 3
 
@@ -1209,10 +1209,10 @@ NG Huge plant
 **Nature Sphere** (plantlife geomancing) - Barkskin, Grow Plants, Lingering Nature, Nature Sight, Rejuvenation, Towering Growth
 
 **Statistics**
-**Str**29,**Dex**8,**Con**21,**Int**12,**Wis**16,**Cha** 13
-**Base Atk**+11;**CMB**+22;**CMD** 31
+**Str** 29, **Dex** 8, **Con** 21, **Int** 12, **Wis** 16, **Cha** 13
+**Base Atk** +11; **CMB** +22; **CMD** 31
 **Feats** Alertness, Intimidating Prowess, Improved Critical (slam), Improved Sunder, Iron Will, Power Attack, Skill Focus (perception), Weapon Focus (slam)
-**Skills**Diplomacy +10, Intimidate +20, Knowledge (nature) +10, Perception +20, Sense Motive +12, Stealth -5 (+12 in forests);**Racial Modifiers** +17 Stealth in forests
+**Skills** Diplomacy +10, Intimidate +20, Knowledge (nature) +10, Perception +20, Sense Motive +12, Stealth -5 (+12 in forests); **Racial Modifiers** +17 Stealth in forests
 **Languages** Common, Sylvan, Treant
 **SQ** double damage against objects, spheres and talents, treespeak, tree warden
 
@@ -1240,13 +1240,13 @@ Wyrgrove Treants, like other treants are shepherds of the forest, but with their
 
 XP 307,200
 CN Tiny aberration
-**Init:**+6;**Senses** darkvision 60 ft, detect scrying (150 ft), Perception +37
+**Init:** +6; **Senses** darkvision 60 ft, detect scrying (150 ft), Perception +37
 
 **Defense**
-**AC**36,**touch**29,**flat-footed** 28 (+7 natural, +6 Dex, +11 Cha +2 Size)
+**AC** 36, **touch** 29, **flat-footed** 28 (+7 natural, +6 Dex, +11 Cha +2 Size)
 **hp** 225 (30d8+90)
-**Fort**+13,**Ref**+27,**Will** +23
-**Defensive Abilities**no breath, non-euclidean,**Immune** ability drain, cold, energy drain, fire, gaze attacks, poison
+**Fort** +13, **Ref** +27, **Will** +23
+**Defensive Abilities** no breath, non-euclidean, **Immune** ability drain, cold, energy drain, fire, gaze attacks, poison
 
 **Offense**
 **Speed** 30 ft, fly 120 ft (average), swim 60 ft
@@ -1254,15 +1254,15 @@ CN Tiny aberration
 **Ranged** adhesive blast +29 (8d6 acid damage/x2), Entangled 1 round (Reflex Save, DC 29)
 
 **Statistics**
-**Str**11,**Dex**23,**Con**17,**Int**21,**Wis**19,**Cha** 33
-**Base Atk**+22;**CMB**+20;**CMD** +26
+**Str** 11, **Dex** 23, **Con** 17, **Int** 21, **Wis** 19, **Cha** 33
+**Base Atk** +22; **CMB** +20; **CMD** +26
 **Feats** Deadly Aim, Flyby Attack, Improved Natural Attack, Lurker in Darkness, Multiattack, Point Blank Shot, Precise Shot, Skill Focus (Stealth), Sphere Focus (Destruction), Sphere Focus (Mind), Sphere Focus (Time), Stealthy, Weapon Finesse, Weapon Focus (Bite), Weapon Focus (Destructive Blast), Weapon Focus (Tendril)
 **Skills** Autohypnosis +34, Bluff +41, Fly +39, Intimidate +44, Knowledge (Arcana) +38, Perception +37, Sense Motive +34, Spellcraft +38, Stealth +49
 **Languages** Aklo, Telepathy
 **SQ** Detect Scrying, No Breath, Non-Euclidean, Starflight, Tendrils
 
 **Magic**
-**Caster Level**15th;**MSB**+30;**MSD**41;**Concentration**+41;**Tradition**none;**CAB** Cha
+**Caster Level** 15th; **MSB** +30; **MSD** 41; **Concentration** +41; **Tradition** none; **CAB** Cha
 **Spell Points:** 26
 
 **Spheres**
@@ -1271,11 +1271,11 @@ CN Tiny aberration
 **Mind Sphere** Deadly Vision, Powerful Charm, Vision
 **Time Sphere** Ranged Time, Steal Time, Time Freeze
 **Warp Sphere** Emergency Teleport, Plane Manipulator
-**Destruction:** close range touch (60 ft);**Adhesive Blast:** 8d6 acid, Entangle 1 round, reflex save dc 29
-**Illusion:** close range (60 ft);**Trick:** minor illusion 15 minutes;**Illusion:** Illusion, will save dc 28;**Manipulate Aura:** change any of its auras.
-**Mind:** close range (60 ft);**Charm:** suggestion, will save dc 29;**Deadly Vision:** target within range dies if it fails both saves, will save dc 29, fort save dc 29.
-**Time:** close range (60 ft);**Steal Time:** Daze 1 round, will save dc 29, gain 1 standard action;**Time Freeze:** Cannot Act or be Acted Upon for 1 round, will save dc 29.
-**Warp:** close range (60 ft), teleport yourself and up to a heavy load to a location within range;**Plane Manipulator:** Creatures within 150 ft must succeed a Magic Skill check to teleport.
+**Destruction:** close range touch (60 ft); **Adhesive Blast:** 8d6 acid, Entangle 1 round, reflex save dc 29
+**Illusion:** close range (60 ft); **Trick:** minor illusion 15 minutes; **Illusion:** Illusion, will save dc 28; **Manipulate Aura:** change any of its auras.
+**Mind:** close range (60 ft); **Charm:** suggestion, will save dc 29; **Deadly Vision:** target within range dies if it fails both saves, will save dc 29, fort save dc 29.
+**Time:** close range (60 ft); **Steal Time:** Daze 1 round, will save dc 29, gain 1 standard action; **Time Freeze:** Cannot Act or be Acted Upon for 1 round, will save dc 29.
+**Warp:** close range (60 ft), teleport yourself and up to a heavy load to a location within range; **Plane Manipulator:** Creatures within 150 ft must succeed a Magic Skill check to teleport.
 
 **Special Abilities**
 
@@ -1305,10 +1305,10 @@ CN Colossal aberration
 **Init:** +2; Senses darkvision 60 ft, detect scrying (110 ft), Perception +27
 
 **Defense**
-**AC**30,**touch**12,**flat-footed** 28 (+18 natural, +2 Dex, +8 Cha -8 Size)
+**AC** 30, **touch** 12, **flat-footed** 28 (+18 natural, +2 Dex, +8 Cha -8 Size)
 **hp** 369 (22d8+264)
-**Fort**+19,**Ref**+17,**Will** +15
-**Defensive Abilities**no breath, non-euclidean,**Immune** ability drain, cold, fire, gaze attacks, poison
+**Fort** +19, **Ref** +17, **Will** +15
+**Defensive Abilities** no breath, non-euclidean, **Immune** ability drain, cold, fire, gaze attacks, poison
 
 **Offense**
 **Speed** 30 ft, fly 120 ft (average), swim 60 ft
@@ -1316,23 +1316,23 @@ CN Colossal aberration
 **Ranged** adhesive blast +18 (6d6 acid damage/x2), Entangled 1 round (Reflex Save, DC 23)
 
 **Statistics**
-**Str**51,**Dex**15,**Con**35,**Int**16,**Wis**14,**Cha** 26
-**Base Atk**+16;**CMB**+44;**CMD** 56
+**Str** 51, **Dex** 15, **Con** 35, **Int** 16, **Wis** 14, **Cha** 26
+**Base Atk** +16; **CMB** +44; **CMD** 56
 **Feats** Ability Focus (Non-Euclidean), Hover, Flyby Attack, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Multiattack, Rapid Grappler, Snatch, Weapon Focus (Bite), Weapon Focus (Tentacles)
 **Skills** Bluff +30, Fly +27, Intimidate +33, Knowledge (Arcana) +28, Perception +27, Sense Motive +24, Spellcraft +28
 **Languages** Aklo, Telepathy
 **SQ** Detect Scrying, No Breath, Non-Euclidean, Starflight
 
 **Magic**
-**Caster Level**11th;**MSB**+22;**MSD**33;**Concentration**+30**Tradition**none;**CAB** Cha
+**Caster Level** 11th; **MSB** +22; **MSD** 33; **Concentration** +30 **Tradition** none; **CAB** Cha
 **Spell Points:** 19
 
 **Spheres**
-**Destruction:** close range touch (50 ft);**Adhesive Blast:** 6d6 acid, Entangle 1 round, reflex save dc 23
-**Illusion:** close range (50 ft);**Trick:** minor illusion 11 minutes;**Illusion:** Illusion, will save dc 23
-**Mind:** close range (50 ft);**Charm:** suggestion, will save dc 23
-**Time:** close range (50 ft);**Time Freeze:** Cannot Act or be Acted Upon for 1 round, will save dc 23
-**Warp:** close range (50 ft), teleport yourself and up to a heavy load to a location within range;**Plane Manipulator:** Creatures within 110 ft must succeed a Magic Skill check to teleport.
+**Destruction:** close range touch (50 ft); **Adhesive Blast:** 6d6 acid, Entangle 1 round, reflex save dc 23
+**Illusion:** close range (50 ft); **Trick:** minor illusion 11 minutes; **Illusion:** Illusion, will save dc 23
+**Mind:** close range (50 ft); **Charm:** suggestion, will save dc 23
+**Time:** close range (50 ft); **Time Freeze:** Cannot Act or be Acted Upon for 1 round, will save dc 23
+**Warp:** close range (50 ft), teleport yourself and up to a heavy load to a location within range; **Plane Manipulator:** Creatures within 110 ft must succeed a Magic Skill check to teleport.
 
 **Special Abilities**
 
@@ -1357,13 +1357,13 @@ The typhloter enforcer has an urchin cube-like appearance. Enforcers have a colo
 
 XP 1,600
 CN Medium aberration
-**Init:**+6;**Senses** darkvision 60 ft, detect scrying (30 ft), Perception +17
+**Init:** +6; **Senses** darkvision 60 ft, detect scrying (30 ft), Perception +17
 
 **Defense**
-**AC**18,**touch**18,**flat-footed** 16 (+2 Dex, +6 Cha)
+**AC** 18, **touch** 18, **flat-footed** 16 (+2 Dex, +6 Cha)
 **hp** 45 (7d8+14)
-**Fort**+4,**Ref**+10,**Will** +7
-**Defensive Abilities**no breath, non-euclidean,**Immune**gaze attacks;**Resist** cold 15, fire 15.
+**Fort** +4, **Ref** +10, **Will** +7
+**Defensive Abilities** no breath, non-euclidean, **Immune** gaze attacks; **Resist** cold 15, fire 15.
 
 **Offense**
 **Speed** 30 ft, fly 60 ft (average), swim 30 ft
@@ -1371,20 +1371,20 @@ CN Medium aberration
 **Ranged** radiation blast +7 (1d6 fire, 1d6 untyped damage/x2), low radiation (poison) (Fortitude Save, DC 17)
 
 **Statistics**
-**Str**14,**Dex**14,**Con**14,**Int**16,**Wis**14,**Cha** 22
-**Base Atk**+5;**CMB**+7;**CMD** 19
+**Str** 14, **Dex** 14, **Con** 14, **Int** 16, **Wis** 14, **Cha** 22
+**Base Atk** +5; **CMB** +7; **CMD** 19
 **Feats** Alertness, Focused Energy Type (Radiation Blast), Improved Initiative, Skill Focus (Perception)
 **Skills** Bluff +16, Fly +12, Intimidate +16, Knowledge (Arcana) +13, Perception +17, Sense Motive +14, Spellcraft +13
 **Languages** Aklo, Telepathy
 **SQ** Detect Scrying, Limited Starflight, No Breath, Non-Euclidean
 
 **Magic**
-**Caster Level**3rd (7th with Radiation Blast);**MSB**+7;**MSD**18; Concentration +13;**Tradition**none;**CAB** Cha
+**Caster Level** 3rd (7th with Radiation Blast); **MSB** +7; **MSD** 18; Concentration +13; **Tradition** none; **CAB** Cha
 **Spell Points:** 9
 
 **Spheres**
 **Destruction Sphere** - Radiation Blast, Searing Blast
-**Destruction:** close range touch (30 ft);**Radiation Blast:** 1d6 fire 1d6 untyped; low radiation (poison), fort save dc 17 (primary 1 con drain, secondary 1 str damage/day).
+**Destruction:** close range touch (30 ft); **Radiation Blast:** 1d6 fire 1d6 untyped; low radiation (poison), fort save dc 17 (primary 1 con drain, secondary 1 str damage/day).
 
 **Special Abilities**
 
@@ -1409,13 +1409,13 @@ The typhloter nadir has a starfish like appearance with 6 appendages covered in 
 
 XP 9,600
 CN Huge aberration
-**Init:**+0;**Senses** darkvision 60 ft, detect scrying (70 ft), Perception +27
+**Init:** +0; **Senses** darkvision 60 ft, detect scrying (70 ft), Perception +27
 
 **Defense**
-**AC**22,**touch**15,**flat-footed** 22 (+7 natural, +0 Dex, +7 Cha -2 Size)
+**AC** 22, **touch** 15, **flat-footed** 22 (+7 natural, +0 Dex, +7 Cha -2 Size)
 **hp** 162 (15d8+90)
-**Fort**+11,**Ref**+12,**Will** +11
-**Defensive Abilities**no breath, non-euclidean,**Immune** cold, fire, gaze attacks, poison
+**Fort** +11, **Ref** +12, **Will** +11
+**Defensive Abilities** no breath, non-euclidean, **Immune** cold, fire, gaze attacks, poison
 
 **Offense**
 **Speed** 30 ft, fly 120 ft (average), swim 60 ft
@@ -1423,24 +1423,24 @@ CN Huge aberration
 **Ranged** adhesive blast +11 (4d6 acid damage/x2), Entangled 1 round (Reflex Save, DC 20)
 
 **Statistics**
-**Str**30,**Dex**10,**Con**22,**Int**16,**Wis**14,**Cha** 24
-**Base Atk**+11;**CMB**+44;**CMD** 56
+**Str** 30, **Dex** 10, **Con** 22, **Int** 16, **Wis** 14, **Cha** 24
+**Base Atk** +11; **CMB** +44; **CMD** 56
 **Feats** Awesome Blow, Cleave, Cleaving Finish, Great Cleave, Improved Bull Rush, Improved Cleaving Finish, Multiattack, Power Attack
 **Skills** Bluff +22, Fly +18, Intimidate +25, Knowledge (Arcana) +21, Perception +20, Sense Motive +17, Spellcraft +21
 **Languages** Aklo, Telepathy
 **SQ** Detect Scrying, Limited Starflight, No Breath, Non-Euclidean
 
 **Magic**
-**Caster Level**7th;**MSB**+15;**MSD**26;**Concentration**+22**Tradition**none;**CAB** Cha
+**Caster Level** 7th; **MSB** +15; **MSD** 26; **Concentration** +22 **Tradition** none; **CAB** Cha
 **Spell Points:** 14
 
 **Spheres**
 **Destruction Sphere** - Adhesive Blast
 **Time Sphere** - Ranged Time, Time Freeze
 **Warp Sphere** - Plane Manipulator
-**Destruction:** close range touch (40 ft);**Adhesive Blast:** 4d6 acid, Entangle 1 round, reflex save dc 20
-**Time:** close range (40 ft);**Time Freeze:** Cannot Act or be Acted Upon for 1 round, will save dc 20
-**Warp:** close range (40 ft), teleport yourself and up to a heavy load to a location within range;**Plane Manipulator:** Creatures within 70 ft must succeed a Magic Skill check to teleport.
+**Destruction:** close range touch (40 ft); **Adhesive Blast:** 4d6 acid, Entangle 1 round, reflex save dc 20
+**Time:** close range (40 ft); **Time Freeze:** Cannot Act or be Acted Upon for 1 round, will save dc 20
+**Warp:** close range (40 ft), teleport yourself and up to a heavy load to a location within range; **Plane Manipulator:** Creatures within 70 ft must succeed a Magic Skill check to teleport.
 
 **Special Abilities**
 

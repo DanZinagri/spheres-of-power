@@ -86,7 +86,7 @@ An ether knight's caster level is equal to his class level.
 **Target** you
 **Casting Time** 1 swift action
 **Duration** 1 round/level
-**Saving Throw**as manifestation;**Spell Resistance** no
+**Saving Throw** as manifestation; **Spell Resistance** no
 **EP Cost** 1 + 1/4 caster level, rounded down
 
 An etherspell with this etherheart affects the caster's void blade directly and cannot be cast if the void blade is not being actively wielded by the caster. If a void blade is dismissed, all voidmeld etherspells affecting it are also dismissed. Similarly, if the void blade is ever outside the range of this etherheart, the etherspell ends immediately. Unlike most etherspells, casting an etherspell with the voidmeld etherheart is a swift action.
@@ -101,7 +101,7 @@ An etherknight begins play with the voidmeld etherheart.
 **Target** you
 **Casting Time** 1 standard action
 **Duration** 1 minute/level
-**Saving Throw**as manifestation;**Spell Resistance** yes
+**Saving Throw** as manifestation; **Spell Resistance** yes
 **EP Cost** 1 + 1/4 class level, rounded down
 
 An etherspell with this etherheart affects the caster directly. Exactly one manifestation must be added to this etherheart. Only one alteration ehterspell can be active at a time.
@@ -374,7 +374,7 @@ The subject is warded by a bouncy shield of gelatinous ether, granting a +2 defl
 **Requires:** Etherknight 7
 The subject’s deflection bonus to AC and resistance bonus on saves increases by +1 for every six etherknight levels the etherknight possesses, to a maximum of +5 at 18th level.
 
-**Lucky Aegis ****Cost:** +1 FP
+**Lucky Aegis**  **Cost:** +1 FP
 **Requires:** Etherknight 11
 Once over the course of the duration of this etherfusion, the subject can choose to draw upon a small packet of entropy the etherknight placed in his ethergel aegis, allowing him to roll any saving throw twice and take the better result. He must decide to use this ability before the first roll is made.
 
@@ -632,7 +632,7 @@ This etherfusion now grants fast healing 2.
 **Impactful Arc** ­- Focus +1. Arc strikes a creature in range for melee damage and imposes a ­2 penalty on its next attack roll. Escalation ­1. The penalty now applies to all attacks made before the beginning of your next turn.
 **Leaping Ether** ­- Focus +1. Arc touches a creature in range, giving it a +1 dodge bonus to AC or a ­2 penalty to its dodge bonus to AC. Escalation ­1. The arc detonates in a 10­foot radius, affecting all caught within.
 **Mask the Source** ­- Focus ­1. Your next technique this round is supernatural if it is normally spell­like.
-**Mental Atrophy**­- Focus +1. Arc strikes a creature in range for melee damage, and deals your choice of Intelligence, Wisdom, or Charisma damage. Escalation ­2. The arc now deals damage to all of the aforementioned ability scores.** Merciful Arc** ­- Focus +1. Arc strikes a creature in range for non­lethal melee damage.
+**Mental Atrophy** ­- Focus +1. Arc strikes a creature in range for melee damage, and deals your choice of Intelligence, Wisdom, or Charisma damage. Escalation ­2. The arc now deals damage to all of the aforementioned ability scores. **Merciful Arc** ­- Focus +1. Arc strikes a creature in range for non­lethal melee damage.
 **Mindfraying Arc** ­- Focus 0. Arc strikes a creature in range for melee damage and imposes a 1d4+1/4 etherknight level (rounded down) penalty to Intelligence or Charisma. Escalation ­1. You may now penalize Wisdom.
 **Physical Atrophy** ­- Focus +1. Arc strikes a creature in range for melee damage, and deals your choice of Strength, Dexterity, or Constitution damage. Escalation ­2. The arc now deals damage to all of the aforementioned ability scores.
 **Seeking Arc** ­- Focus 0. Your next arc automatically hits if it targets a willing creature. Escalation ­1. Gain a +10 insight bonus to your next technique that requires an attack roll instead.
@@ -681,7 +681,7 @@ This etherfusion now grants fast healing 2.
 
 #### Level 10
 
-**Thrumming Polarity ** - Arc touches a creature in range, either pulling all creatures within 15 feet 10 feet directly toward the target or pushing them directly away 10 feet. Fortitude negates.
+**Thrumming Polarity**  - Arc touches a creature in range, either pulling all creatures within 15 feet 10 feet directly toward the target or pushing them directly away 10 feet. Fortitude negates.
 
 #### Level 12
 

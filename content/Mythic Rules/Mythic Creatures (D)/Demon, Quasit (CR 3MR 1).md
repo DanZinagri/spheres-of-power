@@ -13,20 +13,20 @@ Ram horns curl back from the twisted head of this tiny winged demon, and its bod
 XP 800
 Pathfinder Roleplaying Game Bestiary
 CE Tiny outsider (chaotic, demon, evil, extraplanar, mythic)
-**Init**+6;**Senses** darkvision 60 ft.; Perception +7
+**Init** +6; **Senses** darkvision 60 ft.; Perception +7
 
 #### Defense
 
-**AC**17,**touch**14,**flat-footed** 15 (+2 Dex, +3 natural, +2 size)
+**AC** 17, **touch** 14, **flat-footed** 15 (+2 Dex, +3 natural, +2 size)
 **hp** 26 (3d10+10); fast healing 2
-**Fort**+3,**Ref**+5,**Will** +2
-**Defensive Abilities**DR 5/cold iron and epic and good;**Immune**electricity, poison;**Resist** acid 10, cold 10, fire 10
+**Fort** +3, **Ref** +5, **Will** +2
+**Defensive Abilities** DR 5/cold iron and epic and good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10
 
 #### Offense
 
 **Speed** 20 ft., fly 50 ft. (perfect)
 **Melee** 2 claws +7 (1d3+2 plus poison), bite +7 (1d4+2)
-**Space**2 1/2 ft.;**Reach** 0 ft.
+**Space** 2 1/2 ft.; **Reach** 0 ft.
 **Special Attacks** insidious poisonMA, mythic power (1/day, surge 1d6)
 
 **Spell-Like Abilities** (CL 6th; concentration +6)
@@ -36,10 +36,10 @@ At will—detect good, detect magic, greater invisibility (self only)
 
 #### Statistics
 
-**Str**8,**Dex**14,**Con**11,**Int**11,**Wis**12,**Cha** 11
-**Base Atk**+3;**CMB**+3;**CMD** 12
+**Str** 8, **Dex** 14, **Con** 11, **Int** 11, **Wis** 12, **Cha** 11
+**Base Atk** +3; **CMB** +3; **CMD** 12
 **Feats** Improved Initiative, Weapon FinesseMF
-**Skills**Bluff +6, Fly +20, Intimidate +6, Knowledge (planes) +6, Perception +7, Stealth +16;**Racial Modifiers** +8 Fly
+**Skills** Bluff +6, Fly +20, Intimidate +6, Knowledge (planes) +6, Perception +7, Stealth +16; **Racial Modifiers** +8 Fly
 **Languages** Abyssal, Common; telepathy (touch)
 **SQ** change shape (3 of the following forms: bat, small centipede, toad, dog, or wolf; polymorph), mythic masterMA
 
@@ -59,4 +59,4 @@ At the GM’s option, instead of selecting any spells with the chaotic or evil d
 
 If a mythic quasit’s master is killed, the mythic quasit will move within range as quickly as it can in order to use soul bind (DC 19) upon its former master, which it can use once as a spell-like ability upon its master’s death. If the mythic quasit has not used its mythic power that day, it can spend one use of its mythic power to increase the save DC by 1d6. It must use this ability within 6 rounds of its master’s death or it has no effect. If the save is failed, the mythic master’s soul is taken to the Abyss and gifted to the mythic quasit’s demonic masters.
 
-**Poison (Ex)**Claw—injury;**save**Fortitude DC 13;**frequency**1/round for 6 rounds;**effect**1d2 Dexterity;**cure** 2 consecutive saves.
+**Poison (Ex)** Claw—injury; **save** Fortitude DC 13; **frequency** 1/round for 6 rounds; **effect** 1d2 Dexterity; **cure** 2 consecutive saves.

@@ -13,20 +13,20 @@ This humanoid is mostly hidden behind plates of elaborate golden armor, the spac
 XP 153,600
 Pathfinder Roleplaying Game Bestiary 2
 LN Large outsider (extraplanar, inevitable, lawful, mythic)
-**Init**+3;**Senses** darkvision 60 ft., low-light vision, true seeing; Perception +26
+**Init** +3; **Senses** darkvision 60 ft., low-light vision, true seeing; Perception +26
 
 #### Defense
 
-**AC**36,**touch**12,**flat-footed** 32 (+3 Dex, +24 natural, –1 size)
+**AC** 36, **touch** 12, **flat-footed** 32 (+3 Dex, +24 natural, –1 size)
 **hp** 284 (16d10+196); regeneration 10 (chaotic)
-**Fort**+16,**Ref**+8,**Will** +13; mythic saving throwsMA, second saveMA
-**Defensive Abilities**block attacksMA, constructed, fortificationMA; DR 15/chaotic and epic;**SR** 33
+**Fort** +16, **Ref** +8, **Will** +13; mythic saving throwsMA, second saveMA
+**Defensive Abilities** block attacksMA, constructed, fortificationMA; DR 15/chaotic and epic; **SR** 33
 
 #### Offense
 
 **Speed** 30 ft.
 **Melee** 2 slams +27 (2d6+12 plus thunderstorm fistsMA)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** mythic power (7/day, surge +1d10)
 
 **Spell-Like Abilities** (CL 18th; concentration +28)
@@ -38,10 +38,10 @@ At will—dimension door, fear (DC 24), greater command (DC 25), greater dispel 
 
 #### Statistics
 
-**Str**35,**Dex**16,**Con**23,**Int**12,**Wis**17,**Cha** 30
-**Base Atk**+16;**CMB**+29 (+31 bull rush);**CMD** 43 (45 vs. bull rush)
+**Str** 35, **Dex** 16, **Con** 23, **Int** 12, **Wis** 17, **Cha** 30
+**Base Atk** +16; **CMB** +29 (+31 bull rush); **CMD** 43 (45 vs. bull rush)
 **Feats** Awesome BlowMF, Combat Casting, Greater Vital Strike, Improved Bull Rush, Improved Vital Strike, Power AttackMF, Quick Awesome BlowMF, Quicken Spell-Like Ability (dimension door), Vital StrikeMF
-**Skills**Diplomacy +29, Intimidate +29, Knowledge (planes, religion) +20, Perception +26, Sense Motive +22, Survival +22;**Racial Modifiers** +4 Perception
+**Skills** Diplomacy +29, Intimidate +29, Knowledge (planes, religion) +20, Perception +26, Sense Motive +22, Survival +22; **Racial Modifiers** +4 Perception
 **Languages** truespeech
 **SQ** deathbringerMMA, mythic spell-like abilitiesMA
 

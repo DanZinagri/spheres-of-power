@@ -8,7 +8,6 @@ parent: "[[Ultimate Engineering]]"
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
-# Silvermind, the AI Race
 
 **A Mechanical Foreword:** It is recommended to read how a Tinker sphere AI functions before attempting to use this race. Despite silverminds having many alterations to normal AI rules, they are still exceptionally complicated for a player race. See [[AI And Mechanoids|Section 4.1: AI and Mechanoids]] of *Ultimate Engineering* for more information.
 
@@ -183,7 +182,7 @@ For example, if you choose dwarf, you are considered both a silvermind and a dwa
 
 If your host gizmo is not a *mechanoid*, you may use your highest mental ability score modifier instead of your Dexterity modifier to determine your initiative bonus.
 
-**Special**: This feat counts as possessing Improved Initiative for the purposes of meeting prerequisites, as well as other abilities and effects.
+**Special:** This feat counts as possessing Improved Initiative for the purposes of meeting prerequisites, as well as other abilities and effects.
 
 #### Crossfunctionality (gizmo)
 

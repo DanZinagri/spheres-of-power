@@ -42,8 +42,8 @@ Implements were previously described as Staves in Spheres of Power, but have sin
 
 ### Blaster’s Bracers
 
-**Aura**moderate Destruction;**CL** 6th;
-**Slot**wrists;**Price**8,000 gp**Weight** 1 lb.
+**Aura** moderate Destruction; **CL** 6th;
+**Slot** wrists; **Price** 8,000 gp **Weight** 1 lb.
 **Description**
 Each pair of blaster’s bracers are imbued with one blast shape talent when created. The wearer may treat this talent as a talent known while wearing the bracers. Both bracers must be worn to have any effect and they require a 24 hour attunement period before use.
 **Construction Requirements**
@@ -51,8 +51,8 @@ Craft Staff, Destruction sphere, creator must possess the talent to be granted; 
 
 ### Energy Grapple
 
-**Aura**moderate Destruction;**CL** 9th;
-**Slot**wrists;**Price**16,000 gp**Weight** 1 lb.
+**Aura** moderate Destruction; **CL** 9th;
+**Slot** wrists; **Price** 16,000 gp **Weight** 1 lb.
 **Description**
 These bracers have a projection point just under the wearer’s palms, allowing them to grab strands of coherent energy. While wearing the energy grapple, the wearer gains access to the Energy Tether blast shape talent and the Tether Adept feat. If the Energy Tether talent is already possessed, the wearer instead gains the Bounding Tether mystic combat ability, even if possessing no kinetic scourge levels. If both the Energy Grapple talent and the Tether Adept feat are possessed, the wearer gains the Bounding Tether and Dual Tether mystic combat abilities.
 **Construction Requirements**
@@ -60,8 +60,8 @@ Craft Staff, Destruction sphere, Energy Tether, Tether Adept feat, mystic combat
 
 ### Ghost Staff
 
-**Aura**moderate Death;**CL** 10th
-**Slot**none;**Price**50,000 gp;**Weight** 5 lbs.
+**Aura** moderate Death; **CL** 10th
+**Slot** none; **Price** 50,000 gp; **Weight** 5 lbs.
 **Description**
 This +3 death staff also contains the Project Spirit advanced Death talent.
 **Construction Requirements**
@@ -69,8 +69,8 @@ Craft Staff, Death Sphere, Project Spirit; Cost 25,000 gp
 
 ### Hidden Blade
 
-**Aura**moderate, Illusion;**CL** 10th
-**Slot**none;**Price**49,000 gp;**Weight** 5 lbs.
+**Aura** moderate, Illusion; **CL** 10th
+**Slot** none; **Price** 49,000 gp; **Weight** 5 lbs.
 **Description**
 This +3 glamered longsword also functions as a +3 illusion staff.
 **Construction Requirements**
@@ -78,7 +78,7 @@ Craft Magical Weapons and Armor, Craft Staff, Craft Rod, Illusion Sphere, master
 
 ### Master of Creative Arts
 
-**Aura**strong Creation;**CL**15th;**Slot**hands;**Price**50,000 gp;**Weight** 0.5 lbs
+**Aura** strong Creation; **CL** 15th; **Slot** hands; **Price** 50,000 gp; **Weight** 0.5 lbs
 **Description**
 The master of creative arts is a metallic glove-like object that covers the fingers with several rings attached to each other by chains. When worn, the glove functions as a +1 Creation staff, and grants the wearer the Forge and Exquisite Detail talents.
 **Construction Requirements**
@@ -86,7 +86,7 @@ Craft Implement of Power, Creation sphere, Exquisite Detail, Forge; Cost 25,000 
 
 ### Staff of Great Control
 
-**Aura**faint Conjuration and Death;**CL**12th;**Slot**none;**Price**32,000 gp;**Weight** -
+**Aura** faint Conjuration and Death; **CL** 12th; **Slot** none; **Price** 32,000 gp; **Weight** -
 **Description**
 The staff of great control is carved from cherrywood and is adorned with a perfectly-preserved human skull at the top. This staff grants the user a +2 enhancement bonus to caster level with the Conjuration and Death spheres. Enhancement bonuses to Conjuration and Death do not increase the strength of summoned companions or the maximum HD of undead you can reanimate, but will instead grant the enhancement bonus as a circumstance bonus to attack rolls and skill checks. In the case of the staff of great control, this bonus also applies to saving throws and damage rolls made by the wielder’s conjured companions and controlled undead.
 **Construction Requirements**
@@ -94,7 +94,7 @@ Craft Implement of Power, Conjuration sphere, Death sphere, Time sphere; Cost 16
 
 ### Staff of Sands and Storms
 
-**Price**200,000 gp;**Aura**Strong weather;**CL**20th;**Weight** 100 lbs.
+**Price** 200,000 gp; **Aura** Strong weather; **CL** 20th; **Weight** 100 lbs.
 **Description**
 This staff is carved from ancient wood, petrified with age until it is almost stone. The staff itself is supernaturally heavy; simply holding it and carrying it can be incredibly difficult. For those who can bear its weight and speak its command word, however, they find that an entire worlds-worth of energy appears to be stored within it.
 
@@ -108,7 +108,7 @@ Craft Staves, Weather sphere, Wind Lord, Cold Lord, Heat Lord, Rain Lord; **Cost
 
 ### Staff of the Snide Servant
 
-**Aura**moderate Conjuration;**CL**9th;**Slot**none;**Price**18,000 gp;**Weight** 5 lbs.
+**Aura** moderate Conjuration; **CL** 9th; **Slot** none; **Price** 18,000 gp; **Weight** 5 lbs.
 **Description**
 This +1 conjuration staff contains a single invisible servant inside it that can be summoned as a standard action. This servant has an indefinite duration, and can be called and dismissed (also a standard action) as much as desired. The servant is a companion from the Conjuration sphere with no (form) talents and indeed cannot gain any. The invisible servant will perform services for the wielder of the staff, but it refuses to fight and will dismiss itself if ever asked to perform any dangerous task (fighting, stealing, or other such behaviors). Additionally, the invisible servant has a terrible attitude, and will subtly mock and insult the wielder of the staff at every opportunity.
 **Construction Requirements**
@@ -136,8 +136,8 @@ Moderate enchantment; CL 8th; Craft Staff, War sphere; Price +1 bonus
 
 #### Aiming
 
-**Aura**faint Divination;**CL** 5
-**Slot**implement;**Price**+1 bonus;**Weight** -
+**Aura** faint Divination; **CL** 5
+**Slot** implement; **Price** +1 bonus; **Weight** -
 **Description**
 When using a sphere effect from a sphere to which this implement grants its enhancement bonus, you may apply the implement’s enhancement bonus to any attack and damage rolls granted by the sphere effect.
 **Construction Requirements**
@@ -183,8 +183,8 @@ Moderate enchantment; CL 6th; Craft Staff, Life sphere; Price +1 bonus
 
 #### Erudite
 
-**Aura**faint Divination;**CL** 5
-**Slot**implement;**Price**+4,000 gp;**Weight** -
+**Aura** faint Divination; **CL** 5
+**Slot** implement; **Price** +4,000 gp; **Weight** -
 **Description**
 While using this implement, the caster may apply its enhancement bonus to certain skills, determined by what sphere(s) the implement normally applies an enhancement bonus to. If the implement has multiple spheres, then more skills might be affected. The skills affected (by sphere) are:
 
@@ -218,8 +218,8 @@ Craft Implement of Power
 
 #### Exacting
 
-**Aura**faint Divination;**CL** 5
-**Slot**implement;**Price**+12,000 gp;**Weight** -
+**Aura** faint Divination; **CL** 5
+**Slot** implement; **Price** +12,000 gp; **Weight** -
 **Description**
 If this implement is used to cast a spell which is a ranged attack or ranged touch attack from a sphere to which it applies its enhancement bonus, the caster does not take the standard -4 penalty for attacking an opponent engaged in melee.
 **Construction Requirements**
@@ -297,8 +297,8 @@ Weak enchantment; CL 4th; Craft Staff, Life sphere, Counterspell; Price +2 bonus
 
 #### Wand Chambered
 
-**Aura**faint Enhancement;**CL** 5
-**Slot**implement;**Price**+1,000 gp;**Weight** -
+**Aura** faint Enhancement; **CL** 5
+**Slot** implement; **Price** +1,000 gp; **Weight** -
 **Description**
 This implement may absorb a single wand of a sphere to which its enhancement bonus applies as a standard action. The wand may also be removed as a standard action. While absorbed, the implement’s wielder is treated as wielding this wand and the implement’s enhancement bonus applies to the wand’s caster level. This only applies to implements that are wielded; pieces of equipment or slotless items given implement enchantments cannot gain this benefit.
 **Construction Requirements**

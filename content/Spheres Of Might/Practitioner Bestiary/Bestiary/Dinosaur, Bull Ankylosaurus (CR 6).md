@@ -7,27 +7,27 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 2,400
 N Huge animal
-**Init**+0;**Senses**low-light vision, scent;**Perception** +14
+**Init** +0; **Senses** low-light vision, scent; **Perception** +14
 
 **Defense**
-**AC**24,**touch**8,**flat-footed** 24 (+14 natural, +2 shield, –2 size)
+**AC** 24, **touch** 8, **flat-footed** 24 (+14 natural, +2 shield, –2 size)
 **hp** 75 (10d8+30)
-**Fort**+10,**Ref**+7,**Will** +3
+**Fort** +10, **Ref** +7, **Will** +3
 **Defensive Abilities** active defense (+3)
 
 **Offense**
 **Speed** 30 ft.
 **Melee** tail +11 (3d6+12 plus stun)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 
 **Tactics**
 A bull ankylosaurus encountered on its own will generally avoid combat unless it believes its territory is threatened. Creatures who are smaller than the bull ankylosaurus and avoid moving too close to it will generally be safe. If a larger creature enters its territory, or if a smaller creature proves itself a threat or moves too close to the bull ankylosaurus, it will attempt to daze them with a sweep of its tail, hammering them and any other creatures that come within reach using attacks of opportunity and saving its active defense ability from the Shield sphere for use with its Redirecting Shield talent to swat aside ranged attacks. Bull ankylosauri who are part of a herd will group around more vulnerable members, using their bodies and tails to shield the rest of the herd from harm.
 
 **Statistics**
-**Str**29,**Dex**10,**Con**17,**Int**2,**Wis**11,**Cha** 8
-**Base Atk**+7;**CMB**+18;**CMD** 28 (32 vs. trip)
+**Str** 29, **Dex** 10, **Con** 17, **Int** 2, **Wis** 11, **Cha** 8
+**Base Atk** +7; **CMB** +18; **CMD** 28 (32 vs. trip)
 **Feats** Muscular Reflexes, Power Attack, Shield Slam, Weapon Focus (tail)
-**Martial Tradition**Power Forward,**PAM**Wis,**DC** 13
+**Martial Tradition** Power Forward, **PAM** Wis, **DC** 13
 **Talents** Shield (Protective Tail, Redirecting Shield)
 **Skills** Perception +14
 

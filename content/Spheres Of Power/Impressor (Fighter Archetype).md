@@ -10,13 +10,13 @@ parent: "[[Spheres Of Power]]"
 
 Halfway between a warrior and an elicitor, an impressor commands the emotions of others as well as himself to empower his combat ability.
 
-### Emotions
+## Emotions
 
 An impressor gains emotions as the eliciter class feature of the same name. At 3rd level and every 4 levels thereafter, an impressor gains an emotion power of his choice, using impressor levels as eliciter levels when determining which powers he qualifies for, as well as the strength of his emotions. These levels stack with any eliciter levels he possesses. An impressor cannot gain a lesser power before 5th level, a greater power before 8th level, or a master power before 11th level.
 
 This replaces armor training 1, 2, 3, and 4.
 
-### Punctuated Fury
+## Punctuated Fury
 
 At 19th level, an impressor may seamlessly blend martial prowess and emotional technique. When making a full-round attack, the impressor may also use an emotion power (the attacks and power may be directed against different targets) at his full base attack bonus. This bonus extends even to attacks modified to channel emotional powers (such as the Elicit Strike feat).
 

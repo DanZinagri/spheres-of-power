@@ -7,14 +7,14 @@ parent: "[[Practitioner Bestiary]]"
 
 XP 25,600
 CN Medium fey
-**Init**+5;**Senses** darkvision 60 ft., deathscent, low-light vision;
+**Init** +5; **Senses** darkvision 60 ft., deathscent, low-light vision;
 **Perception** +25
 
 **Defense**
-**AC**31,**touch**26,**flat-footed** 26 (+11 armor, +5 Dex, +5 natural)
+**AC** 31, **touch** 26, **flat-footed** 26 (+11 armor, +5 Dex, +5 natural)
 **hp** 171 (18d6+108)
-**Fort**+12,**Ref**+16,**Will** +15
-**DR**10/cold iron;**SR** 24
+**Fort** +12, **Ref** +16, **Will** +15
+**DR** 10/cold iron; **SR** 24
 
 **Offense**
 **Speed** 30 ft.
@@ -35,10 +35,10 @@ Wild huntsmen adapt their tactics to their targets. While using their Beastmaste
 Attack feats to make powerful charges against casters or ranged opponents. When facing a runaway target or when aided by their fellow huntsmen, they will make use of their lassoes and bolas to tie up their opponents and keep them from acting.
 
 **Statistics**
-**Str**23,**Dex**20,**Con**22,**Int**17,**Wis**18,**Cha** 21
-**Base Atk**+9;**CMB**+15;**CMD** 25
+**Str** 23, **Dex** 20, **Con** 22, **Int** 17, **Wis** 18, **Cha** 21
+**Base Atk** +9; **CMB** +15; **CMD** 25
 **Feats** Deadly Aim, Ride-By Attack, Spirited Charge
-**Martial Tradition**Steppe Warrior,**PAM**Cha,**DC** 19
+**Martial Tradition** Steppe Warrior, **PAM** Cha, **DC** 19
 **Talents** Barrage, Beastmastery (ride package, Armored Mount), Equipment (Outrider Training, Shortbow Mastery, Unarmored Training)
 **Skills** Acrobatics +26, Intimidate +23, Knowledge (arcana) +18, Knowledge (history) +18, Knowledge (nature) +21, Knowledge (planes) +18, Perception +25, Ride +26, Sense Motive +25, Stealth +26, Survival +16
 **Languages** Common, Elvish, Sylvan; telepathy 60 ft.

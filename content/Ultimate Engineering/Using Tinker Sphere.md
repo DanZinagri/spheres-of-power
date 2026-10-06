@@ -20,17 +20,17 @@ The Tinker sphere is split into several packages that provide different types of
 
 Tinker sphere’s five packages are as follows:
 
-- **Augmentation**: Covers augmenting creatures with new abilities. This package also covers the construction of *prosthetic* limbs and other body parts.
-- **Computation**: Covers computer related tasks and functions, primarily in the form of programs called *routine*. It also covers the construction of Artificial Intelligence (AI).
-- **Modification**: Covers *modifications* to items and equipment, including armor and weapons.
-- **Transmission**: Covers signals for communication, as well as for gathering information.
-- **Transportation**: Covers the creation of *mechanoids* which are a form of customizable piloted transport. Cars, boats, full body mecha; *mechanoids* can fill different roles.
+- **Augmentation:** Covers augmenting creatures with new abilities. This package also covers the construction of *prosthetic* limbs and other body parts.
+- **Computation:** Covers computer related tasks and functions, primarily in the form of programs called *routine*. It also covers the construction of Artificial Intelligence (AI).
+- **Modification:** Covers *modifications* to items and equipment, including armor and weapons.
+- **Transmission:** Covers signals for communication, as well as for gathering information.
+- **Transportation:** Covers the creation of *mechanoids* which are a form of customizable piloted transport. Cars, boats, full body mecha; *mechanoids* can fill different roles.
 
 A Tinker practitioner learns to craft new types of gizmos with (gizmo) talents, and gains new gizmos and abilities dependent on their Tinker packages known. The Tinker sphere is a vast number of abilities and effects meant to accommodate all sorts of technological abilities and concepts, which can be either used in small or larger parts.
 
-**Tinker Sphere Synergies**: Due to the nature of inventorship, learning new Tinker sphere abilities often unlocks new synergies between talents or packages. These synergies are most often denoted by “Special - (Prerequisite Here)”, indicating which other package or talent is required to unlock those additional interactions.
+**Tinker Sphere Synergies:** Due to the nature of inventorship, learning new Tinker sphere abilities often unlocks new synergies between talents or packages. These synergies are most often denoted by “Special - (Prerequisite Here)”, indicating which other package or talent is required to unlock those additional interactions.
 
-**Customizing Tinker to Fit the Game**: The Tinker sphere is designed mechanically to be setting agnostic but is highly customizable to fit into as many settings, as well as gameplay types, as possible. It can be possible to have the Tinker sphere be just another type of magic, or restrict the kinds of gizmos that exist (such as removing the (transmission) package in an early-technology setting without radio waves).
+**Customizing Tinker to Fit the Game:** The Tinker sphere is designed mechanically to be setting agnostic but is highly customizable to fit into as many settings, as well as gameplay types, as possible. It can be possible to have the Tinker sphere be just another type of magic, or restrict the kinds of gizmos that exist (such as removing the (transmission) package in an early-technology setting without radio waves).
 
 One of the goals of this book is to provide as many tools and as much advice to Game Masters to integrate technology and the content in this book into their games. Many of these resources are located in **Section 4.4: Gamemaster’s Toolkit**.
 
@@ -62,42 +62,42 @@ The Inventioneering rules (see **[[Inventioneering|Section 4.4: Gamemaster’s T
 
 The below glossary is presented as quick reminder text, or rules text, as appropriate. If information is available both in the glossary and another location in the book, the non-glossary definition and rules text of that entry takes precedence.
 
-- **Accommodation**: An accommodation allows the crafter to add an ability to any non-*routine* gizmo they craft without counting against the crafter’s gizmo limit (including *mechanoids*).
-- **Activate**: Most gizmos need to be activated before any of their functions can be used. This normally requires a move action. An activated gizmo may provide passive benefits or require additional actions to use its other gizmo abilities. Deactivating a gizmo is a free action (unless otherwise stated).
-- **Advanced Gizmo**: Some gizmos may be crafted as an “advanced gizmo”, granting it additional effects as noted in the gizmo’s entry. An advanced gizmo is treated as 2 gizmos for the purposes of your gizmo limit; a minor gizmo crafted as an advanced gizmo is instead treated as 1 normal gizmo for the purposes of your gizmo limit. If an advanced gizmo would improve another gizmo (such as a *prosthetic’s* secondary function constructed as an advanced gizmo), that improved gizmo is treated as an advanced gizmo.
-- **AI**: A type of creature *routine*. Once installed in a gizmo, it makes the gizmo function like a creature. They can pilot *mechanoids* if installed into them. You can learn more about them in Mastering Gizmos.
-- **Associated Skill**: This is the skill (or skills) the practitioner uses to determine the effects of the Tinker sphere, and any related effects. By default, Tinker sphere’s associated skill is Craft (mechanical).
-- **Attached Object**: An attached object is the object, weapon, creature, or elsewise that a *modification* gizmo is attached to.
-- **Augmentation**: A type of gizmo that is worn or attached to another object to provide its benefits.
-- **Battery**: A special type of gizmo that has no use but to power other gizmos. Not every gizmo needs batteries to function.
-- **Battery Use**: Abilities that require depleting a battery to activate.
-- **Combined Gizmo**: Multiple gizmos may be crafted as a single object, but are still interacted with separately (attached batteries, sundering, etc.).
-- **Detector**: A type of gizmo that uses signals to gather information.
-- **Depleted**: A depleted gizmo is immediately deactivated, is treated as though it had no functions, and cannot be used normally for any of its crafted purposes.
-- **Effective Gizmo Level**: Some effects may increase a gizmo’s “effective” gizmo level, often on a temporary basis. This alters all of the gizmo’s statistics (excluding hit points, hardness, and proficiency check DC). AI and *mechanoids* instead receive a bonus to checks they perform.
-- **Function**: See “gizmo ability”. A gizmo’s function (or additional function) is an interchangeable term with its gizmo abilities.
-- **Gizmo**: Every device you can craft with the Tinker sphere is referred to as a gizmo. There is no limit to the amount you can craft in a day, but there is a limit to the amount you can have at once.
-- **Gizmo Ability**: Gizmos may have active or passive effects and abilities (according to the type of gizmo it is) while the gizmo is activated. These effects are referred to as a gizmo’s “gizmo ability” or “gizmo abilities”, but may also be referred to as a gizmo’s function.
-- **Gizmo DC**: This is the save DC for any of a gizmo’s functions. It is based on its gizmo level, and the practitioner modifier of its creator, at time of creation (10 + 1/2 gizmo level + practitioner modifier).
-- **Gizmo Level**: This determines the power of a gizmo (like the caster level of a magic item). It is determined at the time of the gizmo's creation and is based on the creator's ranks in the associated skill.
-- **Gizmo Limit**: This is the total number of gizmos you may have crafted at one time. By default, this is your ranks in the associated skill + the number of Tinker sphere talents you possess.
-- **Gizmo Penetration**: This is the ability of the gizmo to penetrate other gizmo effects. This is similar to a spell’s caster level or a caster’s magic skill bonus (if using the Spheres of Power system).
-- **Implanted Gizmos**: Gizmos can be implanted with a successful Heal check, and are treated as part of the user’s body and cannot be easily removed but can no longer be shared.
-- **Innate Gizmo**: Some gizmos can be crafted as part of other gizmos.
-- **Maintaining Your Gizmos**: This refers to the 30 or 15 minutes required to craft, maintain, restore, and otherwise repair your gizmos.
-- **Mechanical/Mechanism**: Reference to effects generated or related to the Tinker sphere and gizmos. This is akin to calling or referencing a ‘magical’ effect in relation to magical spheres or items.
-- **Mechanoid**: A type of piloted creature gizmo. Their form and utility is determined by the upgrades they possess. You can learn more about them in Mastering Gizmos.
-- **Modification**: A type of gizmo that is attached to manufactured objects and equipment to improve their functionality.
+- **Accommodation:** An accommodation allows the crafter to add an ability to any non-*routine* gizmo they craft without counting against the crafter’s gizmo limit (including *mechanoids*).
+- **Activate:** Most gizmos need to be activated before any of their functions can be used. This normally requires a move action. An activated gizmo may provide passive benefits or require additional actions to use its other gizmo abilities. Deactivating a gizmo is a free action (unless otherwise stated).
+- **Advanced Gizmo:** Some gizmos may be crafted as an “advanced gizmo”, granting it additional effects as noted in the gizmo’s entry. An advanced gizmo is treated as 2 gizmos for the purposes of your gizmo limit; a minor gizmo crafted as an advanced gizmo is instead treated as 1 normal gizmo for the purposes of your gizmo limit. If an advanced gizmo would improve another gizmo (such as a *prosthetic’s* secondary function constructed as an advanced gizmo), that improved gizmo is treated as an advanced gizmo.
+- **AI:** A type of creature *routine*. Once installed in a gizmo, it makes the gizmo function like a creature. They can pilot *mechanoids* if installed into them. You can learn more about them in Mastering Gizmos.
+- **Associated Skill:** This is the skill (or skills) the practitioner uses to determine the effects of the Tinker sphere, and any related effects. By default, Tinker sphere’s associated skill is Craft (mechanical).
+- **Attached Object:** An attached object is the object, weapon, creature, or elsewise that a *modification* gizmo is attached to.
+- **Augmentation:** A type of gizmo that is worn or attached to another object to provide its benefits.
+- **Battery:** A special type of gizmo that has no use but to power other gizmos. Not every gizmo needs batteries to function.
+- **Battery Use:** Abilities that require depleting a battery to activate.
+- **Combined Gizmo:** Multiple gizmos may be crafted as a single object, but are still interacted with separately (attached batteries, sundering, etc.).
+- **Detector:** A type of gizmo that uses signals to gather information.
+- **Depleted:** A depleted gizmo is immediately deactivated, is treated as though it had no functions, and cannot be used normally for any of its crafted purposes.
+- **Effective Gizmo Level:** Some effects may increase a gizmo’s “effective” gizmo level, often on a temporary basis. This alters all of the gizmo’s statistics (excluding hit points, hardness, and proficiency check DC). AI and *mechanoids* instead receive a bonus to checks they perform.
+- **Function:** See “gizmo ability”. A gizmo’s function (or additional function) is an interchangeable term with its gizmo abilities.
+- **Gizmo:** Every device you can craft with the Tinker sphere is referred to as a gizmo. There is no limit to the amount you can craft in a day, but there is a limit to the amount you can have at once.
+- **Gizmo Ability:** Gizmos may have active or passive effects and abilities (according to the type of gizmo it is) while the gizmo is activated. These effects are referred to as a gizmo’s “gizmo ability” or “gizmo abilities”, but may also be referred to as a gizmo’s function.
+- **Gizmo DC:** This is the save DC for any of a gizmo’s functions. It is based on its gizmo level, and the practitioner modifier of its creator, at time of creation (10 + 1/2 gizmo level + practitioner modifier).
+- **Gizmo Level:** This determines the power of a gizmo (like the caster level of a magic item). It is determined at the time of the gizmo's creation and is based on the creator's ranks in the associated skill.
+- **Gizmo Limit:** This is the total number of gizmos you may have crafted at one time. By default, this is your ranks in the associated skill + the number of Tinker sphere talents you possess.
+- **Gizmo Penetration:** This is the ability of the gizmo to penetrate other gizmo effects. This is similar to a spell’s caster level or a caster’s magic skill bonus (if using the Spheres of Power system).
+- **Implanted Gizmos:** Gizmos can be implanted with a successful Heal check, and are treated as part of the user’s body and cannot be easily removed but can no longer be shared.
+- **Innate Gizmo:** Some gizmos can be crafted as part of other gizmos.
+- **Maintaining Your Gizmos:** This refers to the 30 or 15 minutes required to craft, maintain, restore, and otherwise repair your gizmos.
+- **Mechanical/Mechanism:** Reference to effects generated or related to the Tinker sphere and gizmos. This is akin to calling or referencing a ‘magical’ effect in relation to magical spheres or items.
+- **Mechanoid:** A type of piloted creature gizmo. Their form and utility is determined by the upgrades they possess. You can learn more about them in Mastering Gizmos.
+- **Modification:** A type of gizmo that is attached to manufactured objects and equipment to improve their functionality.
 - **Modified Object** [DRS]: A modified object refers to any object with an attached *modification*.
-- **Proficiency Check**: Some gizmos require special knowledge or training when being activated or having specific functions used. A proficiency check’s DC is usually equal to the gizmo’s gizmo DC (unless otherwise stated) and is made with the associated skill, although some effects may change which skill governs this. The creator of a gizmo normally automatically succeeds at proficiency checks.
-- **Project**: Not every gizmo can be crafted quickly. Some need to have materials either gathered over an extended period of time, or purchased outright. More information can be found in the Mastering Gizmos section.
-- **Prosthetic**: A type of augmentation that provides substitute limbs and organs. Some prosthetics must be implanted with the Heal skill.
-- **Routine**: A gizmo that exists primarily as a data program. They need to be installed or uploaded into another gizmo before they can be activated or provide any use.
-- **Secondary Function**: Some gizmos (primarily *prosthetic*) may have additional abilities granted to them when crafted. Unless otherwise stated, a gizmo may only have 1 secondary function.
-- **Signal**: Transmission gizmos often generate signals. They are blocked by dense materials and have different uses depending on the type of gizmo generating the signal.
-- **Transmitter**: A type of gizmo that uses signals to communicate information (including control signals at times) with other gizmos.
-- **Upgrade**: A *mechanoid’s* abilities are determined by its upgrades. Their Hit Dice determine the amount of upgrades they can have.
-- **User**: A gizmo’s user is the creature activating, wearing, or otherwise directing a gizmo to use its functions.
+- **Proficiency Check:** Some gizmos require special knowledge or training when being activated or having specific functions used. A proficiency check’s DC is usually equal to the gizmo’s gizmo DC (unless otherwise stated) and is made with the associated skill, although some effects may change which skill governs this. The creator of a gizmo normally automatically succeeds at proficiency checks.
+- **Project:** Not every gizmo can be crafted quickly. Some need to have materials either gathered over an extended period of time, or purchased outright. More information can be found in the Mastering Gizmos section.
+- **Prosthetic:** A type of augmentation that provides substitute limbs and organs. Some prosthetics must be implanted with the Heal skill.
+- **Routine:** A gizmo that exists primarily as a data program. They need to be installed or uploaded into another gizmo before they can be activated or provide any use.
+- **Secondary Function:** Some gizmos (primarily *prosthetic*) may have additional abilities granted to them when crafted. Unless otherwise stated, a gizmo may only have 1 secondary function.
+- **Signal:** Transmission gizmos often generate signals. They are blocked by dense materials and have different uses depending on the type of gizmo generating the signal.
+- **Transmitter:** A type of gizmo that uses signals to communicate information (including control signals at times) with other gizmos.
+- **Upgrade:** A *mechanoid’s* abilities are determined by its upgrades. Their Hit Dice determine the amount of upgrades they can have.
+- **User:** A gizmo’s user is the creature activating, wearing, or otherwise directing a gizmo to use its functions.
 
 # Gizmos
 
@@ -105,23 +105,23 @@ The main ability granted by the Tinker sphere is the ability to craft and use de
 
 ## Gizmo Basics
 
-**Crafting Gizmos**: You can craft any gizmo you possess the prerequisites for (generally granted by a Tinker sphere talent or other source (such as class features, feats, etc.). A gizmo crafted with the Tinker sphere does not possess a crafting DC (unless otherwise stated) and is always crafted successfully so long as you possess an engineering kit or other sufficient tools (although some gizmos may specify unique restrictions). The material components for gizmos are assumed to be gathered over the course of a given day and require no monetary cost expenditure. For the purposes of magical conjuration effects (i.e. the fabricate spell and similar effects), a gizmo is considered to be too complex and made up of costly components, and cannot be magically “created”.
+**Crafting Gizmos:** You can craft any gizmo you possess the prerequisites for (generally granted by a Tinker sphere talent or other source (such as class features, feats, etc.). A gizmo crafted with the Tinker sphere does not possess a crafting DC (unless otherwise stated) and is always crafted successfully so long as you possess an engineering kit or other sufficient tools (although some gizmos may specify unique restrictions). The material components for gizmos are assumed to be gathered over the course of a given day and require no monetary cost expenditure. For the purposes of magical conjuration effects (i.e. the fabricate spell and similar effects), a gizmo is considered to be too complex and made up of costly components, and cannot be magically “created”.
 
 You may craft any 1 gizmo you know in 30 minutes, or 15 minutes if you have access to an engineering kit or sufficient tools, +1 gizmo of your choice per 4 ranks in the associated skill. Whenever you spend 30 or 15 minutes to craft gizmos (“maintaining your gizmos”), you may also maintain any number of damaged or depleted gizmos, restoring them to full hit points and functionality (i.e. maintaining your depleted batteries, and so on).
 
-**Gizmo Limit**: Gizmos are crafted in such a way that they require constant maintenance and upkeep, which limits how many gizmos an individual can have crafted at any one time. You can have a number of gizmos crafted at one time equal to your ranks in the associated skill + the number of Tinker sphere talents you possess (your “gizmo limit”). , gizmo feats granted by your Tinker tradition, and Tinker sphere-specific drawbacks (as part of a character’s martial tradition) do not count toward the number of Tinker sphere talents you possess (except as normal by the effects of the talent, such as the bonus gizmo limit granted by the Efficient Maintenance talent). Unless otherwise stated, gizmos last indefinitely until abandoned or destroyed; no additional actions or effort is required to have already-crafted gizmos continue to function.
+**Gizmo Limit:** Gizmos are crafted in such a way that they require constant maintenance and upkeep, which limits how many gizmos an individual can have crafted at any one time. You can have a number of gizmos crafted at one time equal to your ranks in the associated skill + the number of Tinker sphere talents you possess (your “gizmo limit”). , gizmo feats granted by your Tinker tradition, and Tinker sphere-specific drawbacks (as part of a character’s martial tradition) do not count toward the number of Tinker sphere talents you possess (except as normal by the effects of the talent, such as the bonus gizmo limit granted by the Efficient Maintenance talent). Unless otherwise stated, gizmos last indefinitely until abandoned or destroyed; no additional actions or effort is required to have already-crafted gizmos continue to function.
 
 Whenever you craft a gizmo beyond your gizmo limit, you must choose an existing gizmo to abandon. An abandoned gizmo immediately stops working and crumbles away harmlessly. You may always choose to abandon any number of gizmos whenever you maintain your gizmos. Some gizmos may become depleted (such as a battery gizmo being expended by another gizmo’s effects); a depleted gizmo counts against the Tinker practitioner’s gizmo limit unless it is abandoned.
 
 Subject to GM discretion, gizmos that are not maintained may become disabled or otherwise nonfunctional after 24 hours (indicating the crafter’s absence, neglect, or death). Gizmos that fall into this state of disrepair may be restored through scavenging (see **[[Tinker Optional And Variant Rules|Section 4.1: Mastering Gizmos, Scavenging Gizmos]]** for more). In certain circumstances (subject to GM discretion), gizmos in a safe or controlled environment may remain functional for longer than 24 hours, up to potentially weeks, months, or years.
 
-**Minor Gizmos**: Gizmos with the (minor) tag are easier to maintain than normal (but still require the same amount of time to craft). Instead of counting as an individual gizmo, a number of minor gizmos equal to 2 + 1/2 your ranks in the associated skill can be maintained as a single gizmo. For example, a character with 6 ranks in the associated skill can maintain 5 minor gizmos as though it were a single gizmo. One “set” of minor gizmos (a number of gizmos being treated as a single gizmo) do not need to be homogenous and can be a mix of any minor gizmos you could craft.
+**Minor Gizmos:** Gizmos with the (minor) tag are easier to maintain than normal (but still require the same amount of time to craft). Instead of counting as an individual gizmo, a number of minor gizmos equal to 2 + 1/2 your ranks in the associated skill can be maintained as a single gizmo. For example, a character with 6 ranks in the associated skill can maintain 5 minor gizmos as though it were a single gizmo. One “set” of minor gizmos (a number of gizmos being treated as a single gizmo) do not need to be homogenous and can be a mix of any minor gizmos you could craft.
 
-**Selling Gizmos**: Gizmos crafted with the Tinker sphere are visibly impermanent in some fashion and are disregarded by most buyers as junk; it is relatively easy (DC 10 Appraise) to recognize the unstable nature of these devices, so typically they have no monetary value; a potential buyer who fails their Appraise check assumes they are spare parts or salvage worth no more than 1 gp.
+**Selling Gizmos:** Gizmos crafted with the Tinker sphere are visibly impermanent in some fashion and are disregarded by most buyers as junk; it is relatively easy (DC 10 Appraise) to recognize the unstable nature of these devices, so typically they have no monetary value; a potential buyer who fails their Appraise check assumes they are spare parts or salvage worth no more than 1 gp.
 
 ### Advanced Gizmos [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 Some gizmos may be crafted as an “advanced gizmo”, granting it additional effects as noted in the gizmo’s entry. An advanced gizmo is counted as +1 gizmo against your gizmo limit (normally 2 gizmos for the purposes of your gizmo limit). An advanced minor gizmo is treated as 1 normal gizmo for the purposes of your gizmo limit.
 
@@ -133,11 +133,11 @@ If an accommodation would be improved as an advanced accommodation, it increases
 
 *Gizmos That Do Not Count Against Gizmo Limit*: In rare circumstances, usually through class features, a character may have access to gizmos that do not count against their gizmo limit. In this case, those gizmos, even if advanced, do not count against the character’s gizmo limit - including multiple stacks of advanced (see below).
 
-**Example**: A character could craft an advanced grappling hook modified with the Biomimicry and Explosive Gizmo Expert feats, with the resulting explosive, living, advanced grappling hook counting as 4 gizmos against their gizmo limit.
+**Example:** A character could craft an advanced grappling hook modified with the Biomimicry and Explosive Gizmo Expert feats, with the resulting explosive, living, advanced grappling hook counting as 4 gizmos against their gizmo limit.
 
 ### Personal Gizmo and Personal Battery Use [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 *Certain creations of a tinker practitioner are best used in the hands of that practitioner.*
 
 **Personal Gizmo:** Certain abilities may grant a Tinker practitioner the ability to create a “**personal gizmo**”. A personal gizmo has new or improved effects that only function in the Tinker practitioner’s hands. If a personal gizmo would be a used by anyone other than the Tinker practitioner, it instead functions as a normal gizmo of that kind (if it is a normally available gizmo) or does not function at all (if it is a wholly unique gizmo, such as a unique personal gizmo granted by a class feature).
@@ -155,11 +155,11 @@ Any ability or effect a personal gizmo can create is treated as a personal batte
 
 ## Gizmo Statistics
 
-**Gizmo Level and Practitioner Modifier**: All gizmos possess a gizmo level, which equal your ranks in the associated skill at the time of its creation. Gizmos use the practitioner modifier of its creator at time of its creation.
+**Gizmo Level and Practitioner Modifier:** All gizmos possess a gizmo level, which equal your ranks in the associated skill at the time of its creation. Gizmos use the practitioner modifier of its creator at time of its creation.
 
-**Gizmo Abilities and Gizmo DC**: While a gizmo is activated, its effects are referred to as the gizmo’s “gizmo abilities”. Gizmo abilities may be passive, or always “on”, while the gizmo is activated or may require additional actions to produce its regular effects (such as an activated fire extinguisher gizmo is “on”, but must be interacted with to fight fires with its gizmo ability). If any gizmo abilities depend on your practitioner modifier, they use your practitioner modifier at the time of their creation and not at the time of use. If a gizmo requires a saving throw or skill check to resist, the formula for the gizmo’s DC is 10 + 1/2 its gizmo level + your practitioner modifier (minimum 0).
+**Gizmo Abilities and Gizmo DC:** While a gizmo is activated, its effects are referred to as the gizmo’s “gizmo abilities”. Gizmo abilities may be passive, or always “on”, while the gizmo is activated or may require additional actions to produce its regular effects (such as an activated fire extinguisher gizmo is “on”, but must be interacted with to fight fires with its gizmo ability). If any gizmo abilities depend on your practitioner modifier, they use your practitioner modifier at the time of their creation and not at the time of use. If a gizmo requires a saving throw or skill check to resist, the formula for the gizmo’s DC is 10 + 1/2 its gizmo level + your practitioner modifier (minimum 0).
 
-**Gizmo Defensive Statistics**: Gizmos possess 3 hit points per gizmo level, hardness equal to 5 + 1/2 their gizmo level, and a bonus to each saving throw equal to 1/2 gizmo level + its practitioner modifier (unless stated otherwise, such as an AI or *mechanoid* that possesses their own statistics). Gizmos have a Break DC equal to their Gizmo DC.
+**Gizmo Defensive Statistics:** Gizmos possess 3 hit points per gizmo level, hardness equal to 5 + 1/2 their gizmo level, and a bonus to each saving throw equal to 1/2 gizmo level + its practitioner modifier (unless stated otherwise, such as an AI or *mechanoid* that possesses their own statistics). Gizmos have a Break DC equal to their Gizmo DC.
 
 *Broken Gizmos*: A gizmo that has taken damage in excess of half their total hit points gains the broken condition. For gizmos, the broken condition causes the gizmo to take a -2 penalty to their effective gizmo level (to a minimum gizmo level of 1). If the gizmo would function as another type of item (i.e. a weapon, armor, tool), it also suffers the normal penalty for a broken item of that kind.
 
@@ -175,13 +175,13 @@ A crafter may adjust a gizmo they crafted to alter its statistics as part of mai
 
 *Repairing Gizmos*: So long as you have an engineering kit or sufficient tools, you may spend 1 minute to repair a single gizmo you crafted, restoring a number of hit points to that gizmo equal to your ranks in the associated skill + your practitioner modifier. If you maintain your gizmos, you may fully repair any number of gizmos you have crafted.
 
-**Other**:
+**Other:**
 
-- **Material**: Gizmos can be crafted from almost any material, often determined by the technological level of the setting, skill or circumstances of the crafter, etc. Unless otherwise stated, a gizmo is considered a metallic object but is not treated as any specific metal for the purposes of effects and interactions. GMs may alter gizmo materials to fit technology for their setting or a character in their setting as required.
-- **Null Animation**: A gizmo subject to an *animate objects* or *awaken* spell or other similar effect ceases to be a maintained gizmo, unless otherwise stated by the effect. Subject to GM discretion, it may retain some of its abilities as a gizmo, but otherwise cannot be maintained and gains no benefits as a gizmo.
-- **Saving Throws**: Similar to magic items, gizmos receive saving throws against harmful or damaging effects. If a gizmo is attended by its user (held, worn, or otherwise in its immediate possession), the attended gizmo either uses its own saving throw bonus or its user’s saving throw bonus (whichever is better).
-- **Size**: Unless otherwise stated, gizmos are objects two steps smaller than the creator by default (Tiny objects for Medium creatures). Gizmos can be resized whenever the Tinker practitioner maintains their gizmos; some gizmos only function for creatures of specific sizes (such as a *prosthetic* needing to be sized to the user, gizmo weapons, etc.) subject to GM discretion.
-- **Weight**: Gizmos are assumed to weigh anywhere from 0.1 lb. to 5 lbs. each, modified by size. Different gizmos may weigh different amounts - their precise weight is left open ended. GMs may alter gizmo weight to fit technology for their setting or a character in their setting as required.
+- **Material:** Gizmos can be crafted from almost any material, often determined by the technological level of the setting, skill or circumstances of the crafter, etc. Unless otherwise stated, a gizmo is considered a metallic object but is not treated as any specific metal for the purposes of effects and interactions. GMs may alter gizmo materials to fit technology for their setting or a character in their setting as required.
+- **Null Animation:** A gizmo subject to an *animate objects* or *awaken* spell or other similar effect ceases to be a maintained gizmo, unless otherwise stated by the effect. Subject to GM discretion, it may retain some of its abilities as a gizmo, but otherwise cannot be maintained and gains no benefits as a gizmo.
+- **Saving Throws:** Similar to magic items, gizmos receive saving throws against harmful or damaging effects. If a gizmo is attended by its user (held, worn, or otherwise in its immediate possession), the attended gizmo either uses its own saving throw bonus or its user’s saving throw bonus (whichever is better).
+- **Size:** Unless otherwise stated, gizmos are objects two steps smaller than the creator by default (Tiny objects for Medium creatures). Gizmos can be resized whenever the Tinker practitioner maintains their gizmos; some gizmos only function for creatures of specific sizes (such as a *prosthetic* needing to be sized to the user, gizmo weapons, etc.) subject to GM discretion.
+- **Weight:** Gizmos are assumed to weigh anywhere from 0.1 lb. to 5 lbs. each, modified by size. Different gizmos may weigh different amounts - their precise weight is left open ended. GMs may alter gizmo weight to fit technology for their setting or a character in their setting as required.
 
 ## Other Gizmo Properties and Terms
 
@@ -221,7 +221,7 @@ Some gizmos may have a costly material component, called projects, which take lo
 
 #### Infrastructure [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 Some projects represent infrastructure or mass-produced components (or other similar large-scale manufactured projects, production of numerous identical items, and so on). Projects with the (infrastructure) tag are subject to these infrastructure project rules (modifying the project rules as appropriate).
 
@@ -231,7 +231,7 @@ When crafting an infrastructure project, you may craft up to 10 gp per rank in y
 
 ### Synergy [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 Some Tinker talents are marked (synergy), with one or more listed spheres as recommended spheres. Synergy talents have functionality that is particularly useful when combined with the recommended sphere, or may even have complementary or direct interactions with other spheres. Unlike a (dual sphere) feat or option, these synergies are meant to be minor and intuitive tie ins focusing on Tinker as a justification for the interaction (“I made a thing that makes my trinkets better, lets me dig bigger ditches, run and dodge better”, and so on).
 
@@ -239,7 +239,7 @@ You may select a synergy talent as though it were a talent belonging to a recomm
 
 Synergy talents are not treated as talents belonging to their recommended sphere for any other purpose, such as unarmed combat damage progression, bonus skill ranks, or talent-count-dependent resources such as your Alchemy sphere’s number of prepared formulae.
 
-**Example**: If a class feature allowed you to select a Beastmastery talent of your choice and you already had the Beastmastery sphere and Tinker sphere, you could select Animal Set with that Beastmastery-specific talent. If you did not already possess the Tinker sphere, you could choose to gain the Tinker sphere with the Powerless or Specialized Inventorship sphere-specific drawback, spending the bonus Tinker talent from that drawback to select Animal Set.
+**Example:** If a class feature allowed you to select a Beastmastery talent of your choice and you already had the Beastmastery sphere and Tinker sphere, you could select Animal Set with that Beastmastery-specific talent. If you did not already possess the Tinker sphere, you could choose to gain the Tinker sphere with the Powerless or Specialized Inventorship sphere-specific drawback, spending the bonus Tinker talent from that drawback to select Animal Set.
 
 ### Temporary Talents & Retraining
 
@@ -261,11 +261,11 @@ A gizmo’s battery use abilities are also activated as a standard action (unles
 
 Gizmos that are wielded or worn by a creature cannot be activated or used by another creature (unless otherwise stated). Activating or using a gizmo is a physical action (unless otherwise stated) requiring the user to be capable of physical actions (i.e. not paralyzed, stunned, etc.), but does not require a free or empty hand.
 
-**Proficiency Checks**: Some gizmos or functions require a proficiency check to utilize their effects. A successful proficiency check requires the user to succeed at an associated skill check with a DC equal to the gizmo’s DC, increasing by +5 if the gizmo has the broken condition. The action required to attempt the proficiency check is determined by the gizmo, usually as part of activating one of the gizmo’s functions. You always succeed at proficiency checks for gizmos you crafted.
+**Proficiency Checks:** Some gizmos or functions require a proficiency check to utilize their effects. A successful proficiency check requires the user to succeed at an associated skill check with a DC equal to the gizmo’s DC, increasing by +5 if the gizmo has the broken condition. The action required to attempt the proficiency check is determined by the gizmo, usually as part of activating one of the gizmo’s functions. You always succeed at proficiency checks for gizmos you crafted.
 
 *Instructing Others*: A gizmo’s crafter can instruct, teach, or otherwise explain to other creatures how to use their gizmos (usually with 15 minutes of effort, which may be done as part of maintaining your gizmos). A creature who has been instructed in the gizmo’s uses gains a +5 circumstance bonus to proficiency checks made with the gizmo, and may understand other uses or interactions of the gizmo (if taught), such as a Security Set security bypasses.
 
-**Line of Sight and Line of Effect**: Similar to spells, gizmos require line of sight and line of effect, unless otherwise stated (such as using signals to transfer data to other gizmos within range, targeting an area with a gizmo’s abilities, and so on).
+**Line of Sight and Line of Effect:** Similar to spells, gizmos require line of sight and line of effect, unless otherwise stated (such as using signals to transfer data to other gizmos within range, targeting an area with a gizmo’s abilities, and so on).
 
 ### Gizmo Ranges
 
@@ -313,11 +313,11 @@ In this context, “extra” means more than the user would be able to make if t
 
 ### Gizmo Penetration and Gizmo Resistance
 
-**Gizmo Penetration**: Gizmo penetration checks are checks made by a gizmo (or other technological effect or subject) against another effect. By default, a gizmo penetration check is equal to 1d20 + gizmo level. Gizmo penetration checks can be contested effects (such as competing AI in a gizmo) or against static DCs, usually 11 + gizmo level.
+**Gizmo Penetration:** Gizmo penetration checks are checks made by a gizmo (or other technological effect or subject) against another effect. By default, a gizmo penetration check is equal to 1d20 + gizmo level. Gizmo penetration checks can be contested effects (such as competing AI in a gizmo) or against static DCs, usually 11 + gizmo level.
 
 Gizmo penetration checks are most often used when a gizmo (or Tinker sphere effect) directly competes to prevent or block another effect. GMs may determine a gizmo penetration check is needed in certain circumstances.
 
-**Gizmo Resistance**: Gizmo resistance is a statistic that functions similarly to spell resistance, instead allowing a creature to ignore or resist (as though immune) a gizmo’s effects. Gizmo resistance applies to all attacks, effects, abilities, saving throws, etc. created by a gizmo. Gizmo resistance does not disrupt or hinder gizmos in the user’s possession. Gizmo resistance is generally rare, but is available through the Advanced Field Projectors legendary talent.
+**Gizmo Resistance:** Gizmo resistance is a statistic that functions similarly to spell resistance, instead allowing a creature to ignore or resist (as though immune) a gizmo’s effects. Gizmo resistance applies to all attacks, effects, abilities, saving throws, etc. created by a gizmo. Gizmo resistance does not disrupt or hinder gizmos in the user’s possession. Gizmo resistance is generally rare, but is available through the Advanced Field Projectors legendary talent.
 
 Gizmo resistance does not extend to other mechanical or technological sources by default (such as constructs and non-Tinker sphere technology), but can at GM discretion. GMs should determine the source’s gizmo level, as appropriate.
 
@@ -329,7 +329,7 @@ Any gizmo may be implanted into a user the same as implanting an object (see **[
 
 An implanted gizmo is otherwise always able to be targeted, sundered, and interacted with as a normal gizmo of its kind.
 
-**Internally Implanted Gizmos**: Internally implanted gizmos lose all functionality unless they are a kind of gizmo intended to be implanted internally (i.e. *prosthetic* organs). A combined gizmo’s other abilities are suppressed while it is internally implanted (i.e. a *prosthetic* heart with other effects combined into it would only function as a *prosthetic* heart).
+**Internally Implanted Gizmos:** Internally implanted gizmos lose all functionality unless they are a kind of gizmo intended to be implanted internally (i.e. *prosthetic* organs). A combined gizmo’s other abilities are suppressed while it is internally implanted (i.e. a *prosthetic* heart with other effects combined into it would only function as a *prosthetic* heart).
 
 An internally-implanted *prosthetic* can never be granted a secondary function unless otherwise stated.
 
@@ -343,7 +343,7 @@ As a general rule, player-controlled subordinates should not be able to create m
 
 Tinker sphere gizmos are treated similarly to magic items when a user is subject to other effects. Polymorph effects that would subsume worn and held equipment into the user’s body do the same to gizmos; gizmos which provide constant, passive benefits not reliant on the equipment they are attached to (primarily *augmentations*) continue to provide their bonuses while most other gizmos are subsumed and become unusable.
 
-**Artificial Intelligence and Polymorph Effects**: *Routines* and Artificial Intelligence continue to function normally when their host gizmo would be subsumed as part of a polymorph effect. If an Artificial Intelligence could use its host gizmo for the purposes of senses, it may continue to use those senses despite being subsumed, but may not activate or use gizmos that are subsumed by the user (often rendering the AI unable to perform anything other than mental actions in these circumstances).
+**Artificial Intelligence and Polymorph Effects:** *Routines* and Artificial Intelligence continue to function normally when their host gizmo would be subsumed as part of a polymorph effect. If an Artificial Intelligence could use its host gizmo for the purposes of senses, it may continue to use those senses despite being subsumed, but may not activate or use gizmos that are subsumed by the user (often rendering the AI unable to perform anything other than mental actions in these circumstances).
 
 *Prosthetics* and Polymorph Effects: Donned or implanted *prosthetics* are treated as worn equipment for the purpose of polymorph effects, and will be subsumed as part of the transformation. *Prosthetics* vital for life functions (such as hearts) have their utility subsumed by the new form. *Prosthetics* that are part of a creature’s body, such as a *mechanoid’s* innate gizmos are treated as a creature's physical traits. Physical traits are usually suppressed as part of a polymorph effect, however, some abilities may allow a creature to retain use of their physical traits (such as the Alteration sphere Retain Ability talent).
 

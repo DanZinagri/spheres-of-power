@@ -10,20 +10,20 @@ parent: "[[Mythic Creatures (D)]]"
 **Devourer, Mythic (CR 13/MR 5)**
 XP 25,600
 NE Large undead (extraplanar, mythic)
-**Init**+7;**Senses** darkvision 60 ft.; Perception +20
+**Init** +7; **Senses** darkvision 60 ft.; Perception +20
 
 #### Defense
 
-**AC**30,**touch**12,**flat-footed** 27 (+3 Dex, +18 natural, –1 size)
+**AC** 30, **touch** 12, **flat-footed** 27 (+3 Dex, +18 natural, –1 size)
 **hp** 187 (14d8+124)
-**Fort**+10,**Ref**+7,**Will** +12
-**Defensive Abilities**spell deflection; DR 10/epic;**Immune**undead traits;**SR** 24
+**Fort** +10, **Ref** +7, **Will** +12
+**Defensive Abilities** spell deflection; DR 10/epic; **Immune** undead traits; **SR** 24
 
 #### Offense
 
 **Speed** 30 ft., fly 20 ft. (perfect)
 **Melee** 2 claws +19 (1d8+10 plus energy drain)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** black breathMA, destroy soulMA, devour soulMA, energy drain (2 levels, DC 22)MA, mythic power (5/day, surge +1d8), mythic spell-like abilitiesMA
 
 **Spell-Like Abilities** (CL 18th; concentration +24)
@@ -31,8 +31,8 @@ At will—animate dead, bestow curse (DC 20), confusion (DC 20), control undead 
 
 #### Statistics
 
-**Str**30,**Dex**16,**Con**—,**Int**19,**Wis**16,**Cha** 23
-**Base Atk**+10;**CMB**+21;**CMD** 34
+**Str** 30, **Dex** 16, **Con** —, **Int** 19, **Wis** 16, **Cha** 23
+**Base Atk** +10; **CMB** +21; **CMD** 34
 **Feats** Blind-Fight, CleaveMF, Combat Casting, Combat ExpertiseMF, Improved Initiative, Improved Sunder, Power AttackMF
 **Skills** Bluff +20, Diplomacy +15, Fly +19, Intimidate +20, Knowledge (arcana) +21, Knowledge (planes) +18, Perception +20, Sense Motive +17, Spellcraft +21, Stealth +6
 **Languages** Abyssal, Celestial, Common, Infernal; telepathy 100 ft.

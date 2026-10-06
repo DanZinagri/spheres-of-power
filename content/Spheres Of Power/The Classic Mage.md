@@ -10,13 +10,13 @@ parent: "[[Spheres Of Power]]"
 **The Classic Mage**
 Male/Female human incanter 1
 NG Medium humanoid (human)
-**Init**+8;**Senses** Perception +2
+**Init** +8; **Senses** Perception +2
 
 ## Defense
 
-**AC**12,**touch**12,**flat-footed** 10 (+2 Dex)
+**AC** 12, **touch** 12, **flat-footed** 10 (+2 Dex)
 **hp** 7 (1d6+1)
-**Fort**+1,**Ref**+2,**Will** +3
+**Fort** +1, **Ref** +2, **Will** +3
 **Weaknesses** somatic casting, somatic casting, verbal casting
 
 ## Offense
@@ -27,28 +27,28 @@ NG Medium humanoid (human)
 
 ## Magic
 
-**Caster Level**1;**MSB**+1;**MSD** 12; Concentration +5
-**Tradition**Sorcerous Blood (Somatic Casting (2), Verbal Casting);**CAM** Int
+**Caster Level** 1; **MSB** +1; **MSD** 12; Concentration +5
+**Tradition** Sorcerous Blood (Somatic Casting (2), Verbal Casting); **CAM** Int
 **Spell Points** 8
-**Destruction Sphere**-**DC**14;**Duration**None;**Range**Close (25 ft), Touch;**Talents**None;**Drawbacks** None
+**Destruction Sphere** - **DC** 14; **Duration** None; **Range** Close (25 ft), Touch; **Talents** None; **Drawbacks** None
 - *Destructive Blast* (1d6 magical bludgeoning damage)
-**Divination Sphere**-**DC**14;**Duration**Divine (Concentration), Sense (1 Hour);**Range**Medium (110 ft);**Talents**None (Bonus: Divine Life);**Drawbacks** None
+**Divination Sphere** - **DC** 14; **Duration** Divine (Concentration), Sense (1 Hour); **Range** Medium (110 ft); **Talents** None (Bonus: Divine Life); **Drawbacks** None
 - *Divine* (Divine, Divine Life)
 - *Sense* (Read Magic)
-**Life Sphere**-**DC**14;**Duration**None;**Range**Touch;**Talents**None;**Drawbacks** None
+**Life Sphere** - **DC** 14; **Duration** None; **Range** Touch; **Talents** None; **Drawbacks** None
 - *Cure*
 - *Invigorate*
 - *Restore*
-**Protection Sphere**-**DC**14;**Duration**Aegis (1 Hour), Ward (Concentration; 1 Round);**Range**Aegis (Touch), Ward (Up to 15 ft);**Talents**None;**Drawbacks** None
+**Protection Sphere** - **DC** 14; **Duration** Aegis (1 Hour), Ward (Concentration; 1 Round); **Range** Aegis (Touch), Ward (Up to 15 ft); **Talents** None; **Drawbacks** None
 - *Aegis* (Deflection)
 - *Ward* (Barrier)
-**War Sphere**-**DC**14;**Duration**Concentration; 1 Round;**Range**50 ft radius;**Talents**None;**Drawbacks** None
+**War Sphere** - **DC** 14; **Duration** Concentration; 1 Round; **Range** 50 ft radius; **Talents** None; **Drawbacks** None
 - *Totem* (Totem of War)
 
 ## Statistics
 
-**Str**11,**Dex**14,**Con**12,**Int**18,**Wis**12,**Cha** 10
-**Base Atk**+0;**CMB**+0;**CMD** 12
+**Str** 11, **Dex** 14, **Con** 12, **Int** 18, **Wis** 12, **Cha** 10
+**Base Atk** +0; **CMB** +0; **CMD** 12
 **Feats** Extra Magic Talent, Extra Spell Points, Improved Initiative
 **Traits** reactionary
 **Skills** Appraise +8, Fly +6, Knowledge (arcana) +8, Knowledge (nature) +8, Knowledge (planes) +8, Knowledge (religion) +8, Perception +2, Spellcraft +8
@@ -75,19 +75,19 @@ NG Medium humanoid (human)
 
 ---
 
-# THEME
+# Theme
 
 A classic wizard-style caster, but built as an Incanter instead of a Sphere Wizard.
 
-# BUILD RULES
+# Build Rules
 
 20 point buy. If higher, raise Dexterity. If lower, reduce Strength and Constitution.
 
-# SUGGESTED GROWTH
+# Suggested Growth
 
 Anything you'd like. However, the Armored Magic talent of the Protection Sphere is a good choice at 2nd Level, and will measurably improve your defenses.
 
-# NOTES
+# Notes
 
 -The human feats were spent on Improved Initiaitive (to help you act) and Extra Spell Points (so you can do more each day).
 

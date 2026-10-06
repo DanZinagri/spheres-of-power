@@ -37,13 +37,13 @@ GMs may wish to customize the fiends used in their games by tweaking their immun
 Cambion troubadour 16/gifted 9
 XP 819,200
 CE Medium outsider (chaotic, demon, evil, extraplanar)
-**Init**+29M, amazing initiative;**Senses** darkvision 60 ft.; Perception +26
+**Init** +29M, amazing initiative; **Senses** darkvision 60 ft.; Perception +26
 
 **Defense**
-**AC**37**touch**31,**flat-footed** 30 (+9 armor, +5 deflection, +7 Dex, +6 natural)
+**AC** 37 **touch** 31, **flat-footed** 30 (+9 armor, +5 deflection, +7 Dex, +6 natural)
 **hp** 296 (3d10+16d8+204)
-**Fort**+21,**Ref**+23,**Will** +22
-**Defensive Abilities:** hard to kill, immortal, inscrutable, mythic saving throws, performer’s synergy +4, recuperation, unspeakable name, unstoppable,**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 13
+**Fort** +21, **Ref** +23, **Will** +22
+**Defensive Abilities:** hard to kill, immortal, inscrutable, mythic saving throws, performer’s synergy +4, recuperation, unspeakable name, unstoppable, **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 13
 
 **Offense**
 **Speed** 30 ft.
@@ -52,30 +52,30 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Special Attacks** channel power, class mimic, force of will, mirror dodge, mythic power (21/day, surge +1d10), mythic sphere mastery (berserker, fate), sadistic strike, sinfrenzy
 
 **Magic**
-**Caster Level**10 (14 for death and fate);**MSB**+18,**MSD**29,**Concentration** +29
-**Tradition**Classical Arcanist (Charged Spells, Somatic Casting x2, Verbal Casting);**CAM** Cha
+**Caster Level** 10 (14 for death and fate); **MSB** +18, **MSD** 29, **Concentration** +29
+**Tradition** Classical Arcanist (Charged Spells, Somatic Casting x2, Verbal Casting); **CAM** Cha
 **Spell Points** 47
-**Conjuration Sphere**–**Talents**Call Planar Creature,**Drawback** Caller
-**Death Sphere**–**Talents** Cryptic Strike, Greater Undead, Mass Death Magic, Permanent Undead, Soul Drain, Soul Trap, Sustained Necromancy; (dominion) Master’s Presence; (ghost strike) Curse, Greater Curse
+**Conjuration Sphere** – **Talents** Call Planar Creature, **Drawback** Caller
+**Death Sphere** – **Talents** Cryptic Strike, Greater Undead, Mass Death Magic, Permanent Undead, Soul Drain, Soul Trap, Sustained Necromancy; (dominion) Master’s Presence; (ghost strike) Curse, Greater Curse
 • Cryptic Strike; standard action, make a weapon attack, creatures hit with attack are also hit with ghost strike.
 • ghost strike medium (240 ft.), DC 28; apply the effects of one (ghost strike), Mass Death Magic 1 sp, affect all targets in close (60 ft.) cone, Soul Drain may have ghost strike not count as a death effect for the purpose of affecting targets
 ◊ Curse (ghost strike); -9 penalty to ability score, -5 penalty to d20 attack rolls/saving throws/skill checks, or 60% chance to not act, Greater Curse removal DC increased by 5, may inflict more powerful effects
 ◊ Exhausting (ghost strike); fatigued for 1 minute or exhausted for 14 minutes (1 sp), Fortitude negates. On a successful save the target is still fatigued for 1 round.
 • reanimate, touch; raise one corpse as undead for concentration, 14 hours with 1 sp, up to 28 HD, Greater Undead spend an hour and 3 sp to create undead of CR 7 or lower, Mass Death Magic spend 1 sp to reanimate multiple creatures at once, Master’s Presence telepathically communicate with and perceive through undead, Permanent Undead spend 2 sp to make reanimate instantaneous
 • Soul Trap; spend 3 spell points to trap soul of creature that died in last 14 rounds
-**Fate Sphere**–**Talents** Echoing Word; (word) Freedom, Harm
+**Fate Sphere** – **Talents** Echoing Word; (word) Freedom, Harm
 • consecration, close (60 ft.), DC 28
 ◊ Serendipity (consecration); +2 luck bonus, concentration, 14 rounds with 1 sp
 • word, close range (60 ft.), DC 28; (effects of a (word) talent), Echoing Word; 1 sp, apply (word) to up to 7 additional targets
 ◊ Freedom (word); target is freed from physical bondage; concentration or (1 sp) 14 rounds
 ◊ Hallow (word); 1 sp, 14 minutes, provide protections against opposite alignment
 ◊ Harm (word); target takes +7 damage whenever they take damage; concentration or (1 sp) 14 rounds
-**Life Sphere**–**Talents**Deeper Healing, Self-Renewal;**Drawbacks** Regenerate
+**Life Sphere** – **Talents** Deeper Healing, Self-Renewal; **Drawbacks** Regenerate
 • cure, 1 sp, touch (self only), DC 26; heal 4d8+10 hp
 • invigorate, touch (self only), DC 26; grant 10 temp hp, lasts for 1 hour
 • restore, touch (self only), DC 26; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
 • Self-Renewal; spend 1 additional sp to use cure or restore on self as swift action
-**War Sphere**–**Talents** Call To Arms; (totem) Totem Of Enemies
+**War Sphere** – **Talents** Call To Arms; (totem) Totem Of Enemies
 • rally, immediate action within totem area, free action 1/round, 1 target, DC 26
 ◊ Commanding Aid; aid another using +21 bonus
 • totem, personal, area 75 ft., DC 26; concentration or 10 minutes (1 sp) Call to Arms may create totem as move action, swift action with 1 sp
@@ -83,17 +83,17 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 ◊ Totem Of War; +4 circumstance bonus to damage rolls
 
 **Combat**
-**Martial Tradition**Grey Veteran (Berserker x2, Equipment x2)**PAM** Cha
-**Berserker Sphere**–**Talents** Beat Down; (exertion) Heavy Swing
+**Martial Tradition** Grey Veteran (Berserker x2, Equipment x2) **PAM** Cha
+**Berserker Sphere** – **Talents** Beat Down; (exertion) Heavy Swing
 • berserking, free action, take -2 penalty to AC to gain 18 temp hp
 • brutal strike (special attack action, hit targets are battered for 12 rounds; expend martial focus +30 damage) Heavy Swing creature struck by brutal strike must save or be staggered/dazed for 4 rounds, **DC** 28
-**Equipment Sphere**–**Talents** Unarmored Training; (discipline) Duelist Training
+**Equipment Sphere** – **Talents** Unarmored Training; (discipline) Duelist Training
 • Unarmored Training; +9 armor bonus, applies against touch
-**Gladiator Sphere**–**Talents** Master Of Fear
+**Gladiator Sphere** – **Talents** Master Of Fear
 • boast (immediate action after critical hit, reduce enemy to 0, or successful combat maneuver, apply (boast) in 60-ft. radius)
 ◊ Prowess (boast); roll twice on next attack roll
 • strike fear (standard action, expend martial focus, demoralize 30-ft. radius; apply (demoralization) to enemies shaken), Master Of Fear (may use strike fear as a standard action w/o expending martial focus); (demoralize) additional effects vs. feared targets
-**Warleader Sphere**–**Talents** Armies Of The Dead, Triumph; (shout) Disarming Roar, Frightful Roar
+**Warleader Sphere** – **Talents** Armies Of The Dead, Triumph; (shout) Disarming Roar, Frightful Roar
 ◊ Armies of the Dead; undead affected by your abilities, may influence with Diplomacy
 ◊ Triumph; on a successful attack action, shout as swift action, or free with martial focus
 • shout (standard action, 55-ft. radius, 5 rounds; apply (shout) effects)
@@ -104,8 +104,8 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 ◊ Aggressive Flanking (tactic); allies flank if they threaten
 
 **Statistics**
-**Str**26,**Dex**24,**Con**26,**Int**20,**Wis**18,**Cha** 32
-**Base Atk**+15;**CMB**+23;**CMD** 45
+**Str** 26, **Dex** 24, **Con** 26, **Int** 20, **Wis** 18, **Cha** 32
+**Base Atk** +15; **CMB** +23; **CMD** 45
 **Feats** Dual PathM (Spheremaster), Great FocusM, Improved InitiativeM, Improved Vital Strike, Muscular Reflexes, Mystic Focus, Power AttackM, Quicken Spell, Spell Attack, Sphere Virtuoso, Vital StrikeM
 **Skills** Acrobatics +19, Bluff +33, Diplomacy +33, Disguise +33, Intimidate +33, Knowledge (arcana) +31, Knowledge (local) +22, Knowledge (religion) +21, Knowledge (planes) +31, Perception +26, Sense Motive +26 Spellcraft +27, Stealth +29, Use Magic Device +31
 **Languages** Abyssal, Common, Draconic, Dwarven, Necril, Orc, Undercommon
@@ -117,31 +117,31 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 
 **Personas**
 **[Base Persona] The Wasteland Magician**
-**Trope**Mentor (via. Performer’s Synergy);**Trope Benefit** caster level 18, +4 all saving throws
+**Trope** Mentor (via. Performer’s Synergy); **Trope Benefit** caster level 18, +4 all saving throws
 
 **[Persona 1] The Old Man (vigilante persona)**
 CE male human, old and ragged wearing a tattered grey robe
-**Trope**Cunning Servant, Mentor, Villain;**Trope Benefit** full caster level, fear aura -4, inspiration 13/day (+1d4)
+**Trope** Cunning Servant, Mentor, Villain; **Trope Benefit** full caster level, fear aura -4, inspiration 13/day (+1d4)
 **Quirks** Aura of Compulsion, Big Bad, Channel Energy 12/day (8d6, DC 29), Greater Channeling, Skillful Channeling (Command Undead), The Don, Underworld Inspiration
 
 **[Persona 2] The Raging Demon**
 CE demon, hulking unclothed horror with a scarred crimson hide
-**Trope:** Hero, Monster, Villain;**Trope Benefit** full base attack bonus, bite 1d6/19-20/x3, darkvision +60 ft., fear aura -4, scent
+**Trope:** Hero, Monster, Villain; **Trope Benefit** full base attack bonus, bite 1d6/19-20/x3, darkvision +60 ft., fear aura -4, scent
 **Quirks** Big Bad, Complete Monster, Cruelty, Martial Prowess (Bloody Counter), Martial Prowess (Greater Vital Strike), Resolute +5, See in Darkness
 
 **[Persona 3] The Shadow**
 CN male human, A grinning youth in a black leather tunic
-**Trope**Cunning Servant, Fool, Scoundrel;**Trope Benefits** Fumble, inspiration 13/day (+1d6), sneak attack +5d6
+**Trope** Cunning Servant, Fool, Scoundrel; **Trope Benefits** Fumble, inspiration 13/day (+1d6), sneak attack +5d6
 **Quirks** Black Widow, Greater Insight, Hopeless Bumbler, Inspired Intelligence, Rogue Talent (Duplicitous), Rogue Talent (Stolen Blood), Underworld Inspiration
 
 **[Persona 4] The Valiant Knight**
 LN male half-elf, a handsome bearded man of noble bearing and costume
-**Trope**Hero, Mentor, Scoundrel;**Trope Benefits** full base attack bonus, full caster level, sneak attack +5d6
+**Trope** Hero, Mentor, Scoundrel; **Trope Benefits** full base attack bonus, full caster level, sneak attack +5d6
 **Quirks** Greater Paragon, Martial Prowess (Greater Vital Strike), Paragon +4, Resolute +5, Rogue Talent (Cunning (Fortitude) +11), Rogue Talent (Cunning (Reflex) +11), Rogue Talent (Cunning (Will) +11)
 
 **[Persona 5] The “Wise” Mage**
 CG male human, a grinning robed wizard with a well-groomed beard
-**Trope**Fool, Lover, Mentor;**Trope Benefits** bardic performance 26 rounds/day (inspire courage +3), full caster level, Fumble
+**Trope** Fool, Lover, Mentor; **Trope Benefits** bardic performance 26 rounds/day (inspire courage +3), full caster level, Fumble
 **Quirks** Greater Fumble, Greater Karma, Hopeless Bumbler, Inspire Greatness, Inspire Heroics, Oblivious, The Heart
 
 Known by as many names as there are stars in the sky, the Abyss-Born Tyrant has woven himself deep into the tapestry of history. The Tyrant has played the roles of king, soldier, scholar, and even god, whatever was necessary to ensure his continued power and survival. Even without his legions of demonic followers at his back, the Tyrant is a force to be reckoned with, utilizing centuries of experience and a bevy of ancient secrets to expand his power further. His ultimate ambitions are a secret he hides jealously.
@@ -152,24 +152,24 @@ The Abyss-Born Tyrant tends to prefer the Raging Demon or Valiant Knight persona
 
 XP 38,400
 NE Medium outsider (angel, extraplanar, evil)
-**Init**+8;**Senses** darkvision 60 ft., low-light vision; Perception +26
+**Init** +8; **Senses** darkvision 60 ft., low-light vision; Perception +26
 **Aura** protective aura
 
 **Defense**
-**AC**29,**touch**14,**flat-footed** 25 (+4 Dex, +15 natural; +4 deflection vs. good)
+**AC** 29, **touch** 14, **flat-footed** 25 (+4 Dex, +15 natural; +4 deflection vs. good)
 **hp** 157 (15d10+75)
-**Fort**+14,**Ref**+13,**Will** +9; +4 vs. poison, +4 resistance vs. good
-**Defensive Abilities**uncanny dodge; DR 10/evil; Immune acid, cold, petrification;**Resist**electricity 10, fire 10;**SR** 25
+**Fort** +14, **Ref** +13, **Will** +9; +4 vs. poison, +4 resistance vs. good
+**Defensive Abilities** uncanny dodge; DR 10/evil; Immune acid, cold, petrification; **Resist** electricity 10, fire 10; **SR** 25
 
 **Offense**
 **Speed** 50 ft., fly 100 ft. (good)
 **Melee** +2 unholy light flail +25/+20/+15 (1d8+14/×2 plus stun) or slam +23 (1d8+12)
 
 **Magic**
-**Caster Level**15;**MSB**+15,**MSD**26,**Concentration** +21
-**Tradition**Planar Emissary (Verbal Casting, Witchmarked);**CAM** Cha
+**Caster Level** 15; **MSB** +15, **MSD** 26, **Concentration** +21
+**Tradition** Planar Emissary (Verbal Casting, Witchmarked); **CAM** Cha
 **Spell Points** 26
-**Destruction Sphere**–**Talents** Admixture; (blast shape) Explosive Orb; (blast type) Smiting Blast
+**Destruction Sphere** – **Talents** Admixture; (blast shape) Explosive Orb; (blast type) Smiting Blast
 • destructive blast, close range ray (60 ft.), 7d6 damage, 1 sp 15d6 damage, DC 23; use with (blast shape), inflict a (blast type), Admixture increase casting time or spend 1 sp to apply 2 (blast type) talents or admixture feat
 ◊ (blast shape)
 - Explosive Orb (blast shape); 5-ft. burst or (1 sp) 25-ft. burst (Reflex halves)
@@ -186,7 +186,7 @@ NE Medium outsider (angel, extraplanar, evil)
 - Warp (Divine Warp); divine portals/rifts or recent teleportation
 • sense, personal, DC 23; (gain a sense for 7 hours)
 ◊ Read Magic (sense); decipher and read magical writings, 1 sp
-**Fate Sphere**–**Talents** (word) Align Object, Enmity, Villainy
+**Fate Sphere** – **Talents** (word) Align Object, Enmity, Villainy
 • consecration, close (60 ft.), DC 23
 ◊ Serendipity (consecration); +2 luck bonus, concentration, 15 rounds with 1 sp
 • word, close (60 ft.), DC 23; apply a (word) effect
@@ -194,25 +194,25 @@ NE Medium outsider (angel, extraplanar, evil)
 ◊ Enmity (word) [curse]; 1 sp, alignment-based debuff: dazed 1 round (4 steps), blind 1 round (3 steps), staggered 1 round (2 steps), sickened 1 minute (1 step)
 ◊ Hallow (word); provide protections against opposite alignment, 15 minutes with 1 sp
 ◊ Villainy (word) [curse]; allies may use smite abilities on target, 1 sp to grant free use or +6 bonus to attack/damage, 15 minutes with 1 sp
-**Illusion Sphere**–**Talents**Focused Imagination, Lingering Illusion; (glamer) Suppression;**Drawbacks** Personal Illusion
+**Illusion Sphere** – **Talents** Focused Imagination, Lingering Illusion; (glamer) Suppression; **Drawbacks** Personal Illusion
 • figment, personal; 1 sp, create an illusion with vision for concentration +2 rounds, DC 23 Will save to disbelieve, Lingering Illusion; increase duration to 150 minutes, 1 sp
 • glamer, personal; create an illusion attached to a creature
 - Illusionary Disguise; create an illusion as though using a disguise kit
 ◊ Suppression (glamer); (sight, invisibility) may hide while observed, +15 circumstance bonus to Stealth when observed
 • trick, personal; standard action, simple illusions - persist 15 minutes or until dismissed, DC 23 Will save to disbelieve
-**Life Sphere**–**Talents** Deeper Healing; (cure) Restore Health, Restore Senses, Restore Spirit
+**Life Sphere** – **Talents** Deeper Healing; (cure) Restore Health, Restore Senses, Restore Spirit
 • cure, touch, DC 23; cure 4d8+60 hit points, 1 sp
 • invigorate touch, DC 23; 15 temporary hp
 • restore, touch, DC 23; (mind; remove confused, dazed, dazzled, frightened, panicked, shaken, staggered, all sensory loss) or (body; remove battered, exhausted, fatigued, nauseated, sickened) or (soul; heal all ability damage, all ability drain in 1 score, and 4 negative levels), 1 sp
 ◊ Restore Health (cure); when restoring body, completely remove exhausted and nauseated; may attempt magic skill check vs. disease and poisons
-**Warp Sphere**–**Talents** Emergency Teleport, Planeshift, Quick Teleport
+**Warp Sphere** – **Talents** Emergency Teleport, Planeshift, Quick Teleport
 • teleport, touch, teleport close (60 ft., or medium (250 ft.) 1 sp, Quick Teleport spend 1 sp to teleport as move action
 ◊ Emergency Teleport; teleport as an immediate action (35 ft.), 1 sp; if avoiding an attack, gain evasion and +7 dodge bonus to AC and Reflex vs. attack.
 ◊ Planeshift; travel to alternate plane of existence, 2 sp
 
 **Statistics**
-**Str**26,**Dex**19,**Con**21,**Int**18,**Wis**18,**Cha** 23
-**Base Atk**+15;**CMB**+23;**CMD** 37
+**Str** 26, **Dex** 19, **Con** 21, **Int** 18, **Wis** 18, **Cha** 23
+**Base Atk** +15; **CMB** +23; **CMD** 37
 **Feats** Alertness, Auspicious Admixture, Counterspell, Ecumenism, Improved Initiative, Improved Counterspell, Incarnate Magic, Power Attack, Walk The Planar RoadsB
 **Skills** Acrobatics +19, Craft (any one) +22, Diplomacy +24, Fly +26, Intimidate +24, Knowledge (planes) +22, Knowledge (religion) +22, Perception +26, Sense Motive +26, Stealth +22
 **Languages** Abyssal, Draconic, Infernal; truespeech
@@ -227,13 +227,13 @@ Angels are the emissaries employed by the gods, a role mortals most often associ
 
 XP 25,600
 NE Medium outsider (daemon, evil, extraplanar)
-**Init**+7;**Senses** darkvision 60 ft.; Perception +21
+**Init** +7; **Senses** darkvision 60 ft.; Perception +21
 
 **Defense**
-**AC**26,**touch**13,**flat-footed** 23 (+3 Dex, +13 natural)
+**AC** 26, **touch** 13, **flat-footed** 23 (+3 Dex, +13 natural)
 **hp** 172 (15d10+90)
-**Fort**+11,**Ref**+12,**Will** +12
-DR 10/good; **Immune**acid, death effects, disease, poison;**Resist**cold 10, electricity 10, fire 10;**SR** 24
+**Fort** +11, **Ref** +12, **Will** +12
+DR 10/good; **Immune** acid, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 24
 
 **Offense**
 **Speed** 30 ft.
@@ -241,32 +241,32 @@ DR 10/good; **Immune**acid, death effects, disease, poison;**Resist**cold 10, el
 **Special Attacks** draining weapon, energy drain (1 level, DC 21), fear gaze
 
 **Magic**
-**Caster Level**11;**MSB**+11,**MSD**22,**Concentration** +15
-**Tradition**Natural;**CAM** Cha
+**Caster Level** 11; **MSB** +11, **MSD** 22, **Concentration** +15
+**Tradition** Natural; **CAM** Cha
 **Spell Points** 15
-**Death Sphere**–**Talents**Cryptic Strike, Mass Death Magic; (ghost strike) Drain;**Drawbacks** Necromantic Limit (ghost strike)
+**Death Sphere** – **Talents** Cryptic Strike, Mass Death Magic; (ghost strike) Drain; **Drawbacks** Necromantic Limit (ghost strike)
 • Cryptic Strike; standard action, make a weapon attack, creatures hit with attack are also hit with ghost strike.
 • ghost strike, medium (210 ft.), DC 19; apply the effect of one (ghost strike); Mass Death Magic 1 sp, affect all targets in close (50 ft.) cone
 ◊ Drain (ghost strike); 1d3 temp negative levels
 ◊ Exhausting Strike (ghost strike); fatigued for 11 rounds or (1 sp) exhausted for 16 minutes (Fort save reduces to fatigued for 1 round)
-**Destruction Sphere**–**Talents** Admixture; (blast shape) Blast Salvo, Energy Strike, Energy Wall
+**Destruction Sphere** – **Talents** Admixture; (blast shape) Blast Salvo, Energy Strike, Energy Wall
 • destructive blast, close range ray (50 ft.), 6d6 damage, 1 sp 11d6 damage, DC 19; use with (blast shape), inflict a (blast type), Admixture increase casting time or spend 1 sp to apply 2 (blast type) talents or admixture feat
 ◊ (blast shape)
 - Blast Salvo (blast shape); fire 2 or (1 sp) 4 blasts, dividing dice between them
 - Energy Strike (blast shape); standard action, make a weapon attack, creatures hit with attack are also hit with destructive blast.
 - Energy Wall (blast shape); create 5-ft. cube wall, or (1 sp) create 20-ft. high by 220-ft. wide in a line, or hemisphere of 25 ft.; Reflex negates
-**Illusion Sphere**–**Talents**Lingering Illusion; (glamer) Suppression;**Drawbacks** Personal Illusion
+**Illusion Sphere** – **Talents** Lingering Illusion; (glamer) Suppression; **Drawbacks** Personal Illusion
 • figment, personal; 1 sp, create an illusion with vision for concentration, DC 19 Will save to disbelieve, Lingering Illusion; increase duration to 11 minutes, 1 sp
 • glamer, personal; create an illusion attached to a creature
 - Illusionary Disguise; create an illusion as though using a disguise kit
 ◊ Suppression (glamer); (sight, invisibility) may hide while observed, +11 circumstance bonus to Stealth when observed
 • trick, personal; standard action, simple illusions - persist 11 minutes or until dismissed, DC 19 Will save to disbelieve
-**Life Sphere**–**Talents**Revitalize, Soul Consumption, Taste Of Victory;**Drawbacks** Glorious, Regenerate, Slow Recovery
+**Life Sphere** – **Talents** Revitalize, Soul Consumption, Taste Of Victory; **Drawbacks** Glorious, Regenerate, Slow Recovery
 • Taste Of Victory; when you deal damage, spend 1 sp to use life sphere ability as swift action Glorious; may only use life sphere abilities when Taste of Victory is triggered
 • cure, 1 sp, touch (self only), DC 19; fast healing for 11 minutes per caster level
 • invigorate touch (self only), DC 19; grant 11 temp hp, lasts for 1 hour
 • restore, touch (self only), DC 19; (mind; remove dazzled, shaken, staggered and lessen frightened to shaken, panicked to frightened) or (body; remove battered, fatigued and lessen exhaustion to fatigued, sickened and lessen nauseated to sickened) or (soul; heal 1d4 ability damage), 1 sp
-**Mind Sphere**-**Talents**Expanded Charm, Mass Charm; (charm) Fear;**Drawbacks** Hypnotic Gaze
+**Mind Sphere** - **Talents** Expanded Charm, Mass Charm; (charm) Fear; **Drawbacks** Hypnotic Gaze
 • charm, close (50 ft.), target 1 creature, DC 19; Expanded Charm; use charm on any type of creature, Mass Charm; 1 sp, affect up to 4 additional targets, Hypnotic Gaze; charms require target to see your eyes
 ◊ Fear (charm)
 - lesser charm, shaken for 11 rounds
@@ -275,12 +275,12 @@ DR 10/good; **Immune**acid, death effects, disease, poison;**Resist**cold 10, el
 - lesser charm, plant very simple request
 - greater charm, 1 sp, plant basic request or very simple request at -2 save penalty
 • Charming Strike; standard action, make a weapon attack, creatures hit with attack are also hit with charm.
-**Warp Sphere**–**Talents**Distant Teleport, Quick Teleport;**Drawbacks** Personal Warp
+**Warp Sphere** – **Talents** Distant Teleport, Quick Teleport; **Drawbacks** Personal Warp
 • teleport, personal, teleport self and heavy load close range (50 ft.); 1 sp, increase range to long (840 ft.), Quick Teleport spend 1 sp to teleport as move action
 
 **Statistics**
-**Str**21,**Dex**16,**Con**23,**Int**17,**Wis**17,**Cha** 18
-**Base Atk**+15;**CMB**+20;**CMD** 34
+**Str** 21, **Dex** 16, **Con** 23, **Int** 17, **Wis** 17, **Cha** 18
+**Base Atk** +15; **CMB** +20; **CMD** 34
 **Feats** Extra Magic Talent x2, Ghostly Admixture, Improved Initiative, Mind Wrack, Power Attack, Spell Attack, Sphere Virtuoso
 **Skills** Acrobatics +21, Bluff +22, Diplomacy +22, Disguise +22, Intimidate +22, Knowledge (planes) +21, Perception +21, Sense Motive +21, Stealth +14, Survival +10
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
@@ -296,14 +296,14 @@ Thanadaemon Warlords are more than capable of fighting at range with their destr
 
 XP 204,800
 CE Medium outsider (chaotic, demon, evil, extraplanar)
-**Init**+8;**Senses** darkvision 60 ft.; Perception +36
+**Init** +8; **Senses** darkvision 60 ft.; Perception +36
 **Aura** havoc (30 ft.)
 
 **Defense**
-**AC**33,**touch**17,**flat-footed** 29 (+8 armor, +3 deflection +4 Dex, +8 natural)
+**AC** 33, **touch** 17, **flat-footed** 29 (+8 armor, +3 deflection +4 Dex, +8 natural)
 **hp** 332 (19d10+228); fast healing 10
-**Fort**+27,**Ref**+16,**Will** +21
-**Defensive Abilities**evasion; DR 15/cold iron and good;**Immune**bleed, electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 30
+**Fort** +27, **Ref** +16, **Will** +21
+**Defensive Abilities** evasion; DR 15/cold iron and good; **Immune** bleed, electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 30
 
 **Offense**
 **Speed** 50 ft., fly 50 ft. (good)
@@ -313,10 +313,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Special Attacks** rain of blood
 
 **Magic**
-**Caster Level**14;**MSB**+14,**MSD**25,**Concentration** +20
-**Tradition**Natural;**CAM** Cha
+**Caster Level** 14; **MSB** +14, **MSD** 25, **Concentration** +20
+**Tradition** Natural; **CAM** Cha
 **Spell Points** 21
-**Divination Sphere**-**Talents** (sense) Ghost Sight, True Seeing, Unhooded Sight
+**Divination Sphere** - **Talents** (sense) Ghost Sight, True Seeing, Unhooded Sight
 • divine, medium (240 ft.), DC 24; (gain information about magic auras within 240 ft.)
 ◊ Alternate Divinations
 - Protection (Divine Protection) divine highest/ lowest AC and saving throws
@@ -325,7 +325,7 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 ◊ Read Magic (sense); decipher and read magical writings, 1 sp
 ◊ True Seeing (sense); see things as they actually are, 2 sp
 ◊ Unhooded Sight (sense); +7 to saves and checks to disbelieve illusions
-**Protection Sphere**-**Talents** (aegis) Resistance; (ward) Quantum Lock
+**Protection Sphere** - **Talents** (aegis) Resistance; (ward) Quantum Lock
 • aegis touch, DC 24; apply the effects of one (aegis) for 14 hours, 1 sp;
 ◊ Deflection (aegis); +3 deflection AC
 ◊ Resistance (aegis); +4 resistance bonus to saving throws
@@ -334,22 +334,22 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 ◊ Quantum Lock (ward); magic skill check to suppress time and warp effects in ward, force magic skill check from those attempting such effects
 
 **Combat**
-**Tradition**Demonic Nightmare (Equipment x2, Berserker x2);**PAM** Cha
-**Athletics Sphere**–**Packages**run;**Talents** Skillful Charge
+**Tradition** Demonic Nightmare (Equipment x2, Berserker x2); **PAM** Cha
+**Athletics Sphere** – **Packages** run; **Talents** Skillful Charge
 • Skillful Charge; may make an attack action at the end of a charge
-**Berserker Sphere**-**Talents** Beat Down, Bloody Counter, Savage; (exertion) Heavy Swing
+**Berserker Sphere** - **Talents** Beat Down, Bloody Counter, Savage; (exertion) Heavy Swing
 • berserking, free action, take -2 penalty to AC to gain 22 temp hp
 • brutal strike (special attack action, hit targets are battered for 8 rounds; expend martial focus +38 damage) Heavy Swing creature struck by brutal strike must save or be staggered/dazed for 5 rounds, DC 26
 • Bloody Counter; may allow attack to strike you to use brutal strike as immediate action
 • Savage; regain martial focus as immediate action when you reduce creature to 0 or fewer hit points Dual Wielding Sphere - Talents Balanced Blows, Mercurial Flow, Multi-Limbed Combat
 • dual attack, attack action, attack with light or one-handed weapon in main hand, additional attack with light or one-handed weapon in off-hand, -1 to both attack rolls Multi-Limbed Combat; may make additional attacks with other weapons, -1 penalty on attack rolls for each additional attack
-**Equipment Sphere**-**Talents** Armor Expert, Armor Training
+**Equipment Sphere** - **Talents** Armor Expert, Armor Training
 
 **Statistics**
-**Str**33,**Dex**18,**Con**34,**Int**18,**Wis**23,**Cha** 25
-**Base Atk**+19;**CMB**+30;**CMD** 47
+**Str** 33, **Dex** 18, **Con** 34, **Int** 18, **Wis** 23, **Cha** 25
+**Base Atk** +19; **CMB** +30; **CMD** 47
 **Feats** Critical Focus, Great Focus, Improved Critical (falchion or greataxe), Improved Initiative, Improved Transformation, Lightning Reflexes, Power Attack, Transformation, Two Minds
-**Skills**Bluff +29, Disguise +29, Fly +30, Intimidate +37, Knowledge (engineering) +26, Knowledge (history) +26, Knowledge (planes) +26, Perception +36, Ride +26, Sense Motive +28;**Racial Modifiers** +8 Intimidate, +8 Perception
+**Skills** Bluff +29, Disguise +29, Fly +30, Intimidate +37, Knowledge (engineering) +26, Knowledge (history) +26, Knowledge (planes) +26, Perception +36, Ride +26, Sense Motive +28; **Racial Modifiers** +8 Intimidate, +8 Perception
 **Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.
 **SQ** Concealed Transformation
 
@@ -366,13 +366,13 @@ Even the gods themselves cannot rule unquestioned. The gallu are bestial demons 
 
 XP 3,200
 CE Medium outsider (chaotic, demon, evil, extraplanar)
-**Init**+3;**Senses** darkvision 60 ft.; Perception +21
+**Init** +3; **Senses** darkvision 60 ft.; Perception +21
 
 **Defense**
-**AC**20,**touch**13,**flat-footed** 17 (+3 Dex, +7 natural)
+**AC** 20, **touch** 13, **flat-footed** 17 (+3 Dex, +7 natural)
 **hp** 84 (8d10+40)
-**Fort**+7,**Ref**+9,**Will** +8
-DR 10/cold iron or good; **Immune**electricity, fire, poison;**Resist**acid 10, cold 10;**SR** 18
+**Fort** +7, **Ref** +9, **Will** +8
+DR 10/cold iron or good; **Immune** electricity, fire, poison; **Resist** acid 10, cold 10; **SR** 18
 
 **Offense**
 **Speed** 30 ft., fly 50 ft. (average)
@@ -380,15 +380,15 @@ DR 10/cold iron or good; **Immune**electricity, fire, poison;**Resist**acid 10, 
 **Special Attacks** energy drain, profane gift
 
 **Magic**
-**Caster Level**6;**MSB**+6,**MSD**17,**Concentration** +14
-**Tradition**Natural;**CAM** Cha
+**Caster Level** 6; **MSB** +6, **MSD** 17, **Concentration** +14
+**Tradition** Natural; **CAM** Cha
 **Spell Points** 14
-**Alteration Sphere**-**Talents**Lingering Transformation, Perfect Imitation, Permanent Transformation;**Drawbacks** Lycanthropic
+**Alteration Sphere** - **Talents** Lingering Transformation, Perfect Imitation, Permanent Transformation; **Drawbacks** Lycanthropic
 • shapeshift, touch (self only), DC 21; 2 traits, concentration + 2 rounds or 60 minutes (1 sp), Perfect Imitation; +10 on Disguise checks when using shapeshift, may mimic specific creatures and their equipment, Permanent Transformation; spend 2 sp to make shapeshift permanent
 • Perfect Imitation; potential traits:
 ◊ Camouflage: +5 circumstance bonus to Stealth checks
 ◊ Vocal Mimicry: +10/+15 circumstance bonus to Disguise checks to mimic voice
-**Divination Sphere**-**Talents** (sense) Logos
+**Divination Sphere** - **Talents** (sense) Logos
 • divine, long (1120 ft.), DC 29; (gain information about magic auras within 1120 ft.)
 ◊ Alternate Divinations
 - Alteration (Divine Shapechanger); divine altered or shapeshifter subtype
@@ -400,7 +400,7 @@ DR 10/cold iron or good; **Immune**electricity, fire, poison;**Resist**acid 10, 
 • sense, personal, DC 29; (gain a sense for 18 hours)
 ◊ Logos (sense); understand all languages, 1 sp, may spend 1 additional sp to be understood in all languages
 ◊ Read Magic (sense); decipher and read magical writings, 1 sp
-**Fate Sphere**-**Talents** (word) Malice, Metaphysical Cloak, Villainy
+**Fate Sphere** - **Talents** (word) Malice, Metaphysical Cloak, Villainy
 • consecration, close (60 ft.), DC 21
 ◊ Serendipity (consecration); +1 luck bonus, concentration, 6 rounds with 1 sp
 • word, close (60 ft.), DC 21; apply a (word) effect
@@ -408,7 +408,7 @@ DR 10/cold iron or good; **Immune**electricity, fire, poison;**Resist**acid 10, 
 ◊ Metaphysical Cloak (word); target is considered CE, CN, TN, or NE, concentration, 6 hours with 1 sp
 ◊ Hallow (word); provide protections against opposite alignment, 6 minutes with 1 sp
 ◊ Villainy (word) [curse]; allies may use smite abilities on target, 1 sp to grant free use or +3 bonus to attack/ damage, 6 minutes with 1 sp
-**Mind Sphere**-**Talents** Expanded Charm, Powerful Charm; (charm) Enthrall, Fascinate, Read Mind
+**Mind Sphere** - **Talents** Expanded Charm, Powerful Charm; (charm) Enthrall, Fascinate, Read Mind
 • charm, close (40 ft.), DC 21; place a (charm) on a target; a lesser charm may only target each creature 1/day; Expanded Charm; use charm on any type of creature, Powerful Charm; use Powerful Charm effects
 ◊ Enthrall (charm);
 - lesser charm target 1 step friendlier for 6 minutes
@@ -427,8 +427,8 @@ DR 10/cold iron or good; **Immune**electricity, fire, poison;**Resist**acid 10, 
 - powerful charm, 2 sp, plant request that target obeys if not fatal/against nature, basic request at -2 save penalty or very simple request at -4 save penalty
 
 **Statistics**
-**Str**13,**Dex**17,**Con**20,**Int**18,**Wis**14,**Cha** 27
-**Base Atk**+8;**CMB**+11;**CMD** 22
+**Str** 13, **Dex** 17, **Con** 20, **Int** 18, **Wis** 14, **Cha** 27
+**Base Atk** +8; **CMB** +11; **CMD** 22
 **Feats** Agile Maneuvers, Combat Reflexes, Dirty Fighting, Weapon Finesse
 **Skills** Bluff +27, Diplomacy +19, Disguise +19, Escape Artist +11, Fly +14, Intimidate +16, Knowledge (local) +15, Perception +21, Sense Motive +13, Stealth +14; Racial Modifiers +8 Bluff, +8 Perception
 **Languages** Abyssal, Celestial, Common, Draconic; telepathy 100 ft.
@@ -443,25 +443,25 @@ Few demons could rival the notoriety of the succubus, the shapeshifter which uti
 
 XP 9,600
 LE Medium outsider (devil, evil, extraplanar, lawful)
-**Init**+11;**Senses** darkvision 60 ft., see in darkness; Perception +22
+**Init** +11; **Senses** darkvision 60 ft., see in darkness; Perception +22
 
 **Defense**
-**AC**24,**touch**17,**flat-footed** 17 (+7 Dex, +7 natural)
+**AC** 24, **touch** 17, **flat-footed** 17 (+7 Dex, +7 natural)
 **hp** 136 (13d10+65)
-**Fort**+9,**Ref**+15,**Will** +14
-DR 10/good; **Immune**fire, mind-affecting effects, poison;**Resist**acid 10, cold 10;**SR** 21
+**Fort** +9, **Ref** +15, **Will** +14
+DR 10/good; **Immune** fire, mind-affecting effects, poison; **Resist** acid 10, cold 10; **SR** 21
 
 **Offense**
 **Speed** 30 ft.
 **Melee** binding contract (whip) +20/+15/+10 (1d4+7 plus bleed and grab), gore +11 (2d6+3)
-**Space**5 ft.;**Reach** 5 ft. (10 ft. with binding contract)
+**Space** 5 ft.; **Reach** 5 ft. (10 ft. with binding contract)
 **Special Attacks** binding contract, bleed (1d6), constrict (2d8+4)
 
 **Magic**
-**Caster Level**13;**MSB**+13,**MSD**24,**Concentration** +20
-**Tradition**Planar Dealmaker (Center Of Power, Diagram Magic, Easy Focus, Magical Signs, Rigorous Concentration);**CAM** Int
+**Caster Level** 13; **MSB** +13, **MSD** 24, **Concentration** +20
+**Tradition** Planar Dealmaker (Center Of Power, Diagram Magic, Easy Focus, Magical Signs, Rigorous Concentration); **CAM** Int
 **Spell Points** 27
-**Divination Sphere**-**Talents** Greater Divine; (divine) Discern Location, Dowsing, Greater Scrying, Scrying, Viewing
+**Divination Sphere** - **Talents** Greater Divine; (divine) Discern Location, Dowsing, Greater Scrying, Scrying, Viewing
 • divine, long (920 ft.), DC 23; (gain information about magic auras within 920 ft.)
 ◊ Alternate Divinations
 - Fate (Divine Alignment); divine for evil/good/law/ chaos
@@ -474,7 +474,7 @@ DR 10/good; **Immune**fire, mind-affecting effects, poison;**Resist**acid 10, co
 ◊ Viewing; 1 sp, transfer point of view anywhere within range
 • sense, personal, DC 23; (gain a sense for 13 hours)
 ◊ Read Magic (sense); decipher and read magical writings, 1 sp
-**Fate Sphere**-**Talents** (word) Atonement, Bargain, Elude Fate, Oathbind
+**Fate Sphere** - **Talents** (word) Atonement, Bargain, Elude Fate, Oathbind
 • consecration, close (55 ft.), DC 23
 ◊ Serendipity (consecration); +2 luck bonus, concentration, 13 rounds with 1 sp
 • word, close (55 ft.), DC 23; apply a (word) effect
@@ -483,14 +483,14 @@ DR 10/good; **Immune**fire, mind-affecting effects, poison;**Resist**acid 10, co
 ◊ Elude Fate (word); 3 sp, protect target from specific doom for up to 13 hours
 ◊ Hallow (word); provide protections against opposite alignment, 15 minutes with 1 sp
 • Oathbind [curse]; cause a creature which swears an oath to die if they ever break the oath
-**Warp Sphere**–**Talents** Distant Teleport, Mass Teleport, Planeshift, True Teleport, Universal Teleport, Unseeing Teleport; (space) Extradimensional Storage x2, Extradimensional Torpor
+**Warp Sphere** – **Talents** Distant Teleport, Mass Teleport, Planeshift, True Teleport, Universal Teleport, Unseeing Teleport; (space) Extradimensional Storage x2, Extradimensional Torpor
 • teleport, touch, close range (55 ft.); 1 sp, increase range to long (920 ft.), Mass Teleport 1 sp, affect up to 6 additional targets, True Teleport; 2 sp, teleport any range, Unseeing Teleport may teleport to locations you cannot perceive
 • Extradimensional Storage; extradimensional space stores 325 lbs. of nonliving material, may withdraw as move action
 • Extradimensional Torpor; extradimensional space may store up to 9 creatures, spend 1 sp to put creature into space in state of torpor (bonus or penalty to save based on hit points), DC 23
 
 **Statistics**
-**Str**17,**Dex**25,**Con**20,**Int**24,**Wis**23,**Cha** 22
-**Base Atk**+13;**CMB**+16;**CMD** 33
+**Str** 17, **Dex** 25, **Con** 20, **Int** 24, **Wis** 23, **Cha** 22
+**Base Atk** +13; **CMB** +16; **CMD** 33
 **Feats** Capture Spell, Contingency, Craft Apparatus, Craft Implement Of Power, Craft Marvelous Item, Craft Ritual, Craft Spell Engine, Ecumenism, Forge Charm, Improved Initiative, Incarnate Magic, Skill Focus (Spellcraft), Smith Magical Weapons And Armor, Versatile Crafter
 **Skills** Bluff +22, Diplomacy +22, Disguise +8, Knowledge (arcana) +23, Knowledge (nobility) +23, Knowledge (planes) +23, Knowledge (religion) +20, Linguistics +20, Perception +22, Profession (scribe) +19, Sense Motive +22, Sleight of Hand +20, Spellcraft +29, Use Magic Device +22
 **Languages** Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Gnoll, Halfling, Ignan, Infernal, Orc, Sylvan, Terran, Undercommon; telepathy 100 ft., tongues
@@ -530,24 +530,24 @@ Outside of the context of rebuilding their character, it may be possible for cha
 
 XP 600
 LE Tiny outsider (devil, evil, extraplanar, lawful)
-**Init**+3;**Senses** darkvision 60 ft., see in darkness; Perception +7
+**Init** +3; **Senses** darkvision 60 ft., see in darkness; Perception +7
 
 **Defense**
-**AC**17,**touch**16,**flat-footed** 13 (+3 Dex, +1 dodge, +1 natural, +2 size)
+**AC** 17, **touch** 16, **flat-footed** 13 (+3 Dex, +1 dodge, +1 natural, +2 size)
 **hp** 16 (3d10); fast healing 2
-**Fort**+1,**Ref**+6,**Will** +4
-DR 5/good or silver; **Immune**fire, poison;**Resist** acid 10, cold 10
+**Fort** +1, **Ref** +6, **Will** +4
+DR 5/good or silver; **Immune** fire, poison; **Resist** acid 10, cold 10
 
 **Offense**
 **Speed** 20 ft., fly 50 ft. (perfect)
 **Melee** sting +8 (1d4 plus poison)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Magic**
-**Caster Level**2;**MSB**+2,**MSD**13,**Concentration** +4
-**Tradition**Natural;**CAM** Int
+**Caster Level** 2; **MSB** +2, **MSD** 13, **Concentration** +4
+**Tradition** Natural; **CAM** Int
 **Spell Points** 4
-**Alteration Sphere**-**Talents**Animalistic Transformation, Avian Transformation;**Drawbacks** Beast Soul, Lycanthropic
+**Alteration Sphere** - **Talents** Animalistic Transformation, Avian Transformation; **Drawbacks** Beast Soul, Lycanthropic
 • shapeshift, touch (self-only), DC 13; 1 trait, concentration or 2 minutes (1 sp), Beast Soul; cannot assume blank transformation
 ◊ Animalistic Transformation; may assume animalistic form, potential traits:
 - 40-ft. land speed
@@ -562,7 +562,7 @@ DR 5/good or silver; **Immune**fire, poison;**Resist** acid 10, cold 10
 - Hover: can hover midair
 - Improved Maneuverability: flight maneuverability increases by 1 step
 - Wingover: turn 180 degrees while flying
-**Divination Sphere**-**Talents** (divine) Augury, Witness The City
+**Divination Sphere** - **Talents** (divine) Augury, Witness The City
 • divine, medium (120 ft.), DC 13; (gain information about magic auras within 120 ft.)
 ◊ Alternate Divinations
 - Alteration (Divine Shapechanger); divine altered or shapeshifter subtype
@@ -574,14 +574,14 @@ DR 5/good or silver; **Immune**fire, poison;**Resist** acid 10, cold 10
 ◊ Witness The City; 1 sp, attempt Diplomacy or Perception check as if you had spent 1d4 hours gathering information
 • sense, personal, DC 13; (gain a sense for 2 hours)
 ◊ Read Magic (sense); decipher and read magical writings, 1 sp
-**Fate Sphere**-**Talents** (motif) The Devil
+**Fate Sphere** - **Talents** (motif) The Devil
 • consecration, close (30 ft.), DC 13
 ◊ Serendipity (consecration); +1 luck bonus, concentration, 2 rounds with 1 sp
 • motif, touch, 1 sp, DC 13; apply a (motif) for 2 hours or until discharged
 ◊ The Devil (motif); 1/round learn enemy’s CR, discharge for +2 AC and attack rolls for 2 rounds
 • word, close (30 ft.), DC 13; apply a (word) effect
 ◊ Hallow (word); provide protections against opposite alignment, 15 minutes with 1 sp
-**Illusion Sphere**-**Talents** (glamer) Suppression
+**Illusion Sphere** - **Talents** (glamer) Suppression
 • figment, close (30 ft.); 1 sp, create an illusion with vision up to a Medium-sized cube (5 ft.), DC 17 Will save to disbelieve
 • glamer, close (30 ft.); create an illusion attached to a creature
 - Illusionary Disguise; create an illusion as though using a disguise kit
@@ -589,14 +589,14 @@ DR 5/good or silver; **Immune**fire, poison;**Resist** acid 10, cold 10
 • trick, close (30 ft.); standard action, simple illusions - persist 7 minutes or until dismissed, DC 17 Will save to disbelieve
 
 **Statistics**
-**Str**10,**Dex**17,**Con**10,**Int**14,**Wis**12,**Cha** 13
-**Base Atk**+3;**CMB**+1;**CMD** 15
+**Str** 10, **Dex** 17, **Con** 10, **Int** 14, **Wis** 12, **Cha** 13
+**Base Atk** +3; **CMB** +1; **CMD** 15
 **Feats** Dodge, Spell Dabbler, Weapon Finesse
 **Skills** Acrobatics +9, Bluff +7, Diplomacy +7, Fly +21, Knowledge (arcana) +8, Knowledge (planes) +8, Perception +7, Spellcraft +8
 **Languages** Common, Infernal
 
 **Special Abilities**
-**Poison (Ex):** **Sting**—injury; **save**Fort DC 13;**frequency**1/ round for 6 rounds;**effect**1d2 Dex;**cure** 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
+**Poison (Ex):** **Sting**—injury; **save** Fort DC 13; **frequency** 1/ round for 6 rounds; **effect** 1d2 Dex; **cure** 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
 
 Imps are subtle agents of evil, small devils who spread malice through whispered words and spilled secrets. It is said that mighty devils begin as Imps to teach them of guile, Hell depriving them of physical and magical power so that they might learn to use their infernal abilities intelligently. The ambition of these minor devils makes them particularly attractive as familiars; most conjurers find that eager partners compliment their own methodical leanings. Imps generally avoid combat, but are quick to employ their poisonous stinger and Illusions to stop a foe from fighting back.
 
@@ -605,25 +605,25 @@ Imps are subtle agents of evil, small devils who spread malice through whispered
 Denizen of Leng shifter (beastlord) 12
 XP 307,200
 CE Medium outsider (chaotic, evil, extraplanar)
-**Init**+10;**Senses** darkvision 60 ft.; Perception +31
+**Init** +10; **Senses** darkvision 60 ft.; Perception +31
 
 **Defense**
-**AC**36,**touch**25,**flat-footed** 26 (+5 deflection, +10 Dex, +11 natural)
+**AC** 36, **touch** 25, **flat-footed** 26 (+5 deflection, +10 Dex, +11 natural)
 **hp** 310 (10d10+12d8+198); planar fast healing 5
-**Fort**+29,**Ref**+30,**Will** +18
-**Defensive Abilities**adaptation, no breath, unusual anatomy; Immune disease, poison;**Resist**acid 12, cold 30, electricity 30, fire 12, sonic 12;**SR** 19
+**Fort** +29, **Ref** +30, **Will** +18
+**Defensive Abilities** adaptation, no breath, unusual anatomy; Immune disease, poison; **Resist** acid 12, cold 30, electricity 30, fire 12, sonic 12; **SR** 19
 
 **Offense**
 **Speed** 40 ft., fly 30 ft. (perfect)
 **Melee** +3 whip +32/+27/+22 (1d3+16), bite +27 (1d6+11 plus 1d6 Dexterity drain), claw +27 (1d4+11)
-**Space**5 ft.;**Reach** 5 ft. (15 ft. with whip)
+**Space** 5 ft.; **Reach** 5 ft. (15 ft. with whip)
 **Special Attacks** enhanced attacks (chaotic, cold iron, silver), extended transformation, hunter’s call (DC 27), shape weapon +3, sneak attack +5d6, steal language
 
 **Magic**
-**CL**16 (19 for Alteration and Mind spheres),**MSB**+19,**MSD**30,**Concentration** +30
-**Tradition**Natural;**CAM** Cha
+**CL** 16 (19 for Alteration and Mind spheres), **MSB** +19, **MSD** 30, **Concentration** +30
+**Tradition** Natural; **CAM** Cha
 **Spell Points** 30
-**Alteration Sphere**-**Talents**Animal Mind, Fusion, Lingering Transformation, Mass Alteration, Permanent Transformation, Ranged Alteration, Retain Ability, Tentacles, Transforming Strike, Twisted Shapeshift; (body) Aberrant Body, Outsider Body, Protean Mastery; (transformation) Avian Transformation, Object Transformation;**Drawbacks** Unnatural Transformation
+**Alteration Sphere** - **Talents** Animal Mind, Fusion, Lingering Transformation, Mass Alteration, Permanent Transformation, Ranged Alteration, Retain Ability, Tentacles, Transforming Strike, Twisted Shapeshift; (body) Aberrant Body, Outsider Body, Protean Mastery; (transformation) Avian Transformation, Object Transformation; **Drawbacks** Unnatural Transformation
 • shapeshift, touch or close (70 ft.) (cannot target self), DC 30; 4 traits, concentration + 2 rounds or 190 minutes (1 sp), Mass Alteration; 1 sp, affect up to 9 additional targets, Permanent Transformation; spend 2 sp to make shapeshift permanent, Retain Ability; may keep base form abilities at cost of one trait per ability, Twisted Shapeshift; may deal 9d6 damage with shapeshift, Unnatural Transformation; shapeshift never grants Disguise bonus, can be removed by silver
 ◊ Aberrant Body; potential traits:
 - Acid Spit: ranged touch attack that deals 9d6 damage, 9 damage for 9 rounds
@@ -674,7 +674,7 @@ CE Medium outsider (chaotic, evil, extraplanar)
 - Wrench Stomach: target is sickened, 1 sp to nauseate
 • Fusion; 1 sp, merge 2 adjacent creatures into singular entity
 • Transforming Strike; standard action, make a weapon attack, creatures hit with attack are also hit with shapeshift.
-**Creation Sphere**-**Talents**Distant Creation, Fabricate, Fleshcraft, Forge;**Drawbacks** Material Focus (flesh), Material Mimic
+**Creation Sphere** - **Talents** Distant Creation, Fabricate, Fleshcraft, Forge; **Drawbacks** Material Focus (flesh), Material Mimic
 • alter, touch or ranged touch (65 ft.), destroy or repair target object or living creature (1d4+8)
 • create, 1 sp, create object of flesh within close (65 ft.) range, max size Gargantuan, concentration or 16 minutes (1 sp), Divided Creation; create multiple smaller objects in place of a single large object, Material Mimic; must be touching material of same type you are creating
 • Forge; 1 sp, reshape flesh Fabricate; 1 additional sp for detailed reshaping Fleshcraft; may reshape body in various ways
@@ -682,7 +682,7 @@ CE Medium outsider (chaotic, evil, extraplanar)
 ◊ Remove or restore sense
 ◊ Attack body to deal 2d6 Con damage
 ◊ Permanently reshape target’s appearance
-**Mind Sphere**-**Talents** Charming Strike, Expanded Charm, Insanity, Powerful Charm; (charm) Confusion
+**Mind Sphere** - **Talents** Charming Strike, Expanded Charm, Insanity, Powerful Charm; (charm) Confusion
 • charm, medium (290 ft.), DC 30; place a (charm) on a target; a lesser charm may only target each creature 1/day, Expanded Charm; use charm on any type of creature, Mass Charm; 1 sp, affect up to 9 additional targets, Powerful Charm; use Powerful Charm effects
 ◊ Confusion (charm)
 - lesser charm, confused for 1 round
@@ -694,21 +694,21 @@ CE Medium outsider (chaotic, evil, extraplanar)
 - greater charm, 1 sp, plant basic request or very simple request at -2 save penalty
 - powerful charm, 2 sp, plant request that target obeys if not fatal/against nature, basic request at -2 save penalty or very simple request at -4 save penalty
 • Charming Strike; standard action, make a weapon attack, creatures hit with attack are also hit with charm.
-**Warp Sphere**–**Talents** Distortion Aura, Mass Teleport, Quick Teleport, Unwilling Teleport; (space) Manifest Zone
+**Warp Sphere** – **Talents** Distortion Aura, Mass Teleport, Quick Teleport, Unwilling Teleport; (space) Manifest Zone
 • teleport, close (65 ft.), move target up to close range (65 ft.); 1 sp, increase range to medium (260 ft.), DC 29; Mass Teleport 1 sp, affect up to 9 additional targets
 • Manifest Planar Zone (space); create 4 10-ft. cubes of area with altered planar traits Distortion Aura; may create zone as 25-ft. aura around yourself
 - The Phrenetic Expository (mildly evil-aligned, strongly chaos-aligned, no gravity, enhanced transmutation, erratic time)
 • Warping Strike; standard action, make a weapon attack, creatures hit with attack are also hit with teleport.
 
 **Combat**
-**Equipment Sphere**-**Talents** Finesse Fighting x2, Whip Fiend; (discipline) Bounty Hunter’s Tools
+**Equipment Sphere** - **Talents** Finesse Fighting x2, Whip Fiend; (discipline) Bounty Hunter’s Tools
 • Whip Fiend; whip deals lethal damage, threatens all squares within 10 ft., use whip on unattended objects within 15 ft.
 
 **Statistics**
-**Str**18,**Dex**30,**Con**29,**Int**26,**Wis**23,**Cha** 32
-**Base Atk**+19;**CMB**+23;**CMD** 48
+**Str** 18, **Dex** 30, **Con** 29, **Int** 26, **Wis** 23, **Cha** 32
+**Base Atk** +19; **CMB** +23; **CMD** 48
 **Feats** Cursed Form, Extra Magic Talent x7, Multiattack, Quicken Spell, Sphere Virtuoso
-**Skills**Bluff +36, Diplomacy +36, Disguise +36, Intimidate +36, Knowledge (arcana) +33, Knowledge (dungeoneering) +33, Knowledge (history) +21, Knowledge (local) +33, Knowledge (religion) +21, Knowledge (planes) +33, Perception +31, Sense Motive +31, Spellcraft +33, Stealth +32;**Racial Modifiers** +4 Disguise when disguised as a Medium humanoid
+**Skills** Bluff +36, Diplomacy +36, Disguise +36, Intimidate +36, Knowledge (arcana) +33, Knowledge (dungeoneering) +33, Knowledge (history) +21, Knowledge (local) +33, Knowledge (religion) +21, Knowledge (planes) +33, Perception +31, Sense Motive +31, Spellcraft +33, Stealth +32; **Racial Modifiers** +4 Disguise when disguised as a Medium humanoid
 **Languages** Aboleth, Abyssal, Aklo, Common, Dwarven, Goblin, Infernal, Orc, Undercommon; boundless communication
 **SQ** accommodating form (outsider body), beastlord, flight, perfect flight
 **Oath Boons** Bonus Talent, Enhanced Abilities, Inhuman Resilience, Shielded Form
@@ -724,12 +724,12 @@ Watching the material world from afar, a distortion lord performs twisted experi
 
 XP 153,600
 CE Huge outsider (chaotic, elemental, evil)
-**Init**+6**Senses** blindsight 60 ft., darkvision 60 ft., see in darkness; Perception +30
+**Init** +6 **Senses** blindsight 60 ft., darkvision 60 ft., see in darkness; Perception +30
 
 **Defense**
 **AC** 34 touch 24, flat-footed 28 (+10 deflection, +6 Dex, +10 natural, -2 size)
 **hp** 279 (18d10+180) regeneration 10 (good or lawful weapons or spells)
-**Fort**+21,**Ref**+12,**Will** +21
+**Fort** +21, **Ref** +12, **Will** +21
 **Defensive Abilities** element bleed, DR 15/good or lawful
 **Immune** elemental traits, force Resist acid 20, cold 20, electricity 20, fire 20
 
@@ -737,14 +737,14 @@ CE Huge outsider (chaotic, elemental, evil)
 **Speed** 60 ft., burrow 60 ft., fly 100 ft., (perfect), swim 60 ft., earth glide
 **Melee** 4 tentacles +27 (1d8+11 plus burn and grab)
 **Ranged** destructive blast +26
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** burn (3d10, DC 29), constrict (1d8+16 plus 9d6 cold, electricity, and fire damage), element lord
 
 **Magic**
-**Caster Level**18;**MSB**+18,**MSD**29,**Concentration** +27
-**Tradition**Natural;**CAM** Cha
+**Caster Level** 18; **MSB** +18, **MSD** 29, **Concentration** +27
+**Tradition** Natural; **CAM** Cha
 **Spell Points** 28
-**Dark Sphere**-**Talents** Clinging Darkness; (blot, darkness) Creeping Lethargy, Looming Darkness; (meld) Clearsight
+**Dark Sphere** - **Talents** Clinging Darkness; (blot, darkness) Creeping Lethargy, Looming Darkness; (meld) Clearsight
 • blot, may create darkness effect as a blot
 • darkness, long (1120 ft.), DC 29; 55-ft. radius becomes dim light, concentration, 18 min. with 1 sp
 ◊ Clinging Darkness; center darkness on creature or item, causing it to move with them
@@ -753,7 +753,7 @@ CE Huge outsider (chaotic, elemental, evil)
 • meld, touch, DC 29; 18 hours with 1 sp
 ◊ Clearsight (meld); target gains immunity to negative effects of your darkness
 ◊ Darkvision (meld); 60 ft. darkvision or increase existing darkvision by 30 ft.
-**Destruction Sphere**-**Talents** Admixture, Cascade Failure, Clinging Blast, Epicenter, Greater Admixture, Penetrating Blast; (blast shape) Calamity, Energy Aura, Energy Wall, Explosive Orb, Mutable Blast, Sculpt Blast; (blast type) Air Blast, Fire Blast, Frost Blast, Paradigm Blast, Smiting Blast, Stone Blast
+**Destruction Sphere** - **Talents** Admixture, Cascade Failure, Clinging Blast, Epicenter, Greater Admixture, Penetrating Blast; (blast shape) Calamity, Energy Aura, Energy Wall, Explosive Orb, Mutable Blast, Sculpt Blast; (blast type) Air Blast, Fire Blast, Frost Blast, Paradigm Blast, Smiting Blast, Stone Blast
 • destructive blast, long range ray (1120 ft.), 9d6 damage, 1 sp 18d6 damage, DC 29; use with (blast shape), inflict a (blast type), Admixture; increase casting time or spend 1 sp to apply 2 (blast type) talents or admixture feat, Greater Admixture; 1 sp, apply third (blast type) when using Admixture, Cascade Failure; target damaged by destructive blast take -1 penalty on saving throws, Clinging Blast; 1 sp, damage from destructive blast treated as continuous, Epicenter; immune to damage from own destructive blast, Penetrating Blast; ignore 18 energy resistance, treat immunity as resistance 40
 ◊ (blast shape)
 - Energy Aura (blast shape); 1 sp, 10-ft. aura, 18 damage, Ref negates
@@ -768,7 +768,7 @@ CE Huge outsider (chaotic, elemental, evil)
 - Paradigm Blast (blast type); 1 sp, deal anarchic damage (full damage to incorporeal targets, damage treated as if chaos-aligned)
 - Smiting Blast (blast type); 1 sp, deal profane damage (full damage to incorporeal targets, damage treated as if evil-aligned)
 - Stone Blast (blast type); deal piercing, slashing, and bludgeoning damage, ignore SR and magic negation effects
-**Divination Sphere**-**Talents** Greater Divine; (sense) Ghost Sight, True Seeing, Unhooded Sight
+**Divination Sphere** - **Talents** Greater Divine; (sense) Ghost Sight, True Seeing, Unhooded Sight
 • divine, long (1120 ft.), DC 29; (gain information about magic auras within 1120 ft.)
 ◊ Alternate Divinations
 - Dark (Divine Dark); divine light level of area
@@ -782,7 +782,7 @@ CE Huge outsider (chaotic, elemental, evil)
 ◊ Read Magic (sense); decipher and read magical writings, 1 sp
 ◊ True Seeing (sense); see things as they actually are, 2 sp
 ◊ Unhooded Sight (sense); +9 to saves and checks to disbelieve illusions
-**Mind Sphere**-**Talents**Expanded Charm, Mass Charm, Powerful Charm; (charm) Confusion, Insanity; (cloud) Zeitgeist;**Drawbacks** Empath
+**Mind Sphere** - **Talents** Expanded Charm, Mass Charm, Powerful Charm; (charm) Confusion, Insanity; (cloud) Zeitgeist; **Drawbacks** Empath
 • charm, long (1120 ft.), DC 29; place a (charm) on a target; a lesser charm may only target each creature 1/day, Expanded Charm; use charm on any type of creature, Mass Charm; 1 sp, affect up to 9 additional targets, Powerful Charm; use Powerful Charm effects
 ◊ Confusion (charm);
 - lesser charm, confused for 1 round
@@ -791,7 +791,7 @@ CE Huge outsider (chaotic, elemental, evil)
 - Insanity; spend 1 sp to make effect instantaneous
 • cloud, create 100-ft. radius or 10-ft. wide and 190-ft. long cloud, affecting creatures
 ◊ Zeitgeist (cloud); apply charm to community based on sp spent, creatures with 3 or fewer hit dice are affected, those with 4 or more gain +4 bonus on saves
-**Nature Sphere**-**Talents** Deep Nature, Ranged Geomancy x2, Expanded Geomancing x3; (geomancing), Create Nature, Cyclone, Earthquake, Hazardous Terrain, Manipulate Nature, Nature Lord, Tsunami, Wildfire; (spirit) Destroy Element, Wreathe Of Elements
+**Nature Sphere** - **Talents** Deep Nature, Ranged Geomancy x2, Expanded Geomancing x3; (geomancing), Create Nature, Cyclone, Earthquake, Hazardous Terrain, Manipulate Nature, Nature Lord, Tsunami, Wildfire; (spirit) Destroy Element, Wreathe Of Elements
 • geomancing, long range (1120 ft.), DC 29; create effects based on packages
 ◊ (air) package
 - Air Geyser (launch Colossal target 110 ft. into the air, 230 ft. with 1 sp)
@@ -831,8 +831,8 @@ CE Huge outsider (chaotic, elemental, evil)
 - (water) +28 vs. CMD, knock target prone
 
 **Statistics**
-**Str**32,**Dex**23,**Con**30,**Int**25,**Wis**28,**Cha** 31
-**Base Atk**+18;**CMB**+31 (+35 grapple);**CMD** 47
+**Str** 32, **Dex** 23, **Con** 30, **Int** 25, **Wis** 28, **Cha** 31
+**Base Atk** +18; **CMB** +31 (+35 grapple); **CMD** 47
 **Feats** Fear And Flame, Frozen To The Bone, Incarnate Magic, Mental AuraB, Mind Wrack, Primal Blast, Quicken Spell, Sphere Virtuoso, Supernatural Elements, Umbral Admixture
 **Skills** Acrobatics +32, Escape Artist +32, Fly +35, Intimidate +31, Knowledge (arcana) +28, Knowledge (planes) +28, Perception +30, Sense Motive +30, Spellcraft +28, Stealth +24, Swim +40
 **Languages** Aklo, Aquan, Auran, Ignan, Terran
@@ -848,25 +848,25 @@ CE Huge outsider (chaotic, elemental, evil)
 
 XP 9,600
 LE Large outsider (extraplanar, fire)
-**Init**+7;**Senses** darkvision 60 ft.; Perception +17
+**Init** +7; **Senses** darkvision 60 ft.; Perception +17
 
 **Defense**
-**AC**21,**touch**12,**flat-footed** 18 (+3 Dex, +9 natural, –1 size)
+**AC** 21, **touch** 12, **flat-footed** 18 (+3 Dex, +9 natural, –1 size)
 **hp** 114 (12d10+48)
-**Fort**+8,**Ref**+11,**Will** +10
-**Immune**fire;**Weakness** Vulnerability to cold
+**Fort** +8, **Ref** +11, **Will** +10
+**Immune** fire; **Weakness** Vulnerability to cold
 
 **Offense**
 **Speed** 20 ft., fly 40 ft. (perfect)
 **Melee** 2 slams +17 (1d8+6 plus 1d6 fire) or mwk falchion +18/+13/+8 (2d6+9/18–20)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** heat (1d6 fire)
 
 **Magic**
-**Caster Level**12;**MSB**+12,**MSD**23,**Concentration** +15
-**Tradition**Primordial Essence (Skilled Casting, Vulnerable Spellcaster);**CAM** Cha
+**Caster Level** 12; **MSB** +12, **MSD** 23, **Concentration** +15
+**Tradition** Primordial Essence (Skilled Casting, Vulnerable Spellcaster); **CAM** Cha
 **Spell Points** 20
-**Alteration Sphere**-**Talents** Elemental Purity, Retain Ability, Size Change, Transforming Strike; (transformation) Animalistic Transformation, Elemental Transformation
+**Alteration Sphere** - **Talents** Elemental Purity, Retain Ability, Size Change, Transforming Strike; (transformation) Animalistic Transformation, Elemental Transformation
 • shapeshift, touch, DC 19; 3 traits, concentration or 12 minutes (1 sp), Retain Ability; may keep base form abilities at cost of one trait per ability
 ◊ Animalistic Transformation; may assume animalistic form, potential traits:
 - 80-ft. land speed
@@ -888,23 +888,23 @@ LE Large outsider (extraplanar, fire)
 ◊ Size Change; potential traits:
 - Size Change: change size by 3 sizes, max Huge or min Tiny
 • Transforming Strike; standard action, make a weapon attack, creatures hit with attack are also hit with shapeshift.
-**Death Sphere**-**Talents**Possession, Project Spirit;**Drawbacks** Necromantic Limit (reanimate)
+**Death Sphere** - **Talents** Possession, Project Spirit; **Drawbacks** Necromantic Limit (reanimate)
 • Project Spirit; 1 sp, allow spirit to exit body in ethereal form for up to 12 rounds, Possession; spend 1 sp when projecting spirit to try to possess adjacent creature as fullround action, DC 19
 • reanimate, touch; raise one corpse as undead for concentration, 12 minutes with 1 sp, up to 24 HD,
-**Illusion Sphere**-**Talents** (glamer) Suppression
+**Illusion Sphere** - **Talents** (glamer) Suppression
 • figment, close (55 ft.); 1 sp, create an illusion with vision up to a Colossal-sized cube (30 ft.), DC 19 Will save to disbelieve
 • glamer, close (55 ft.); create an illusion attached to a creature
 - Illusionary Disguise; create an illusion as though using a disguise kit
 ◊ Suppression (glamer); (sight, invisibility) may hide while observed, +12 circumstance bonus to Stealth when observed, no armor check penalty to Stealth
 • trick, close (55 ft.); standard action, simple illusions - persist 7 minutes or until dismissed, DC 19 Will save to disbelieve
-**Warp Sphere**–**Talents** Distant Teleport, Planeshift, Quick Teleport, True Teleport, Unseeing Teleport, Unwilling Teleport, Warping Strike
+**Warp Sphere** – **Talents** Distant Teleport, Planeshift, Quick Teleport, True Teleport, Unseeing Teleport, Unwilling Teleport, Warping Strike
 • teleport, touch, move target up to close range (55 ft.); 1 sp, increase range to long (880 ft.), DC 19; Quick Teleport spend 1 sp to teleport as move action, True Teleport; 2 sp, teleport any range, Unseeing Teleport may teleport to locations you cannot perceive
 • Planeshift; travel to alternate plane of existence, 2 sp
 • Warping Strike; standard action, make a weapon attack, creatures hit with attack are also hit with teleport.
 
 **Statistics**
-**Str**23,**Dex**17,**Con**18,**Int**12,**Wis**14,**Cha** 16
-**Base Atk**+12;**CMB**+19;**CMD** 32
+**Str** 23, **Dex** 17, **Con** 18, **Int** 12, **Wis** 14, **Cha** 16
+**Base Atk** +12; **CMB** +19; **CMD** 32
 **Feats** Combat Casting, Combat Reflexes, Extra Magic Talent, Flyby Attack, Improved Initiative, Incarnate Magic
 **Skills** Bluff +18, Craft (any one) +16, Disguise +5, Fly +13, Intimidate +18, Perception +17, Sense Motive +17, Spellcraft +16, Stealth +8
 **Languages** Auran, Aquan, Common, Ignan, Terran; telepathy 100 ft.
@@ -920,13 +920,13 @@ Ancient beings of wind and flame, afarits have long served powerful mages as cou
 
 XP 4,800
 NE Medium outsider (native, passage)
-**Init**+10;**Senses** darkvision 60 ft.; Perception +15
+**Init** +10; **Senses** darkvision 60 ft.; Perception +15
 
 **Defense**
-**AC**22,**touch**22,**flat-footed** 16 (+6 armor, +6 dex)
+**AC** 22, **touch** 22, **flat-footed** 16 (+6 armor, +6 dex)
 **hp** 94 (9d10+45) fast healing 5
-**Fort**+11,**Ref**+12,**Will** +5
-**Immune**illusions, mind-affecting effects;**Resist** electricity 10, fire 10, sonic 10
+**Fort** +11, **Ref** +12, **Will** +5
+**Immune** illusions, mind-affecting effects; **Resist** electricity 10, fire 10, sonic 10
 
 **Offense**
 **Speed** 30 ft.
@@ -935,8 +935,8 @@ NE Medium outsider (native, passage)
 **Special Attacks** create reality, mark of scheming, shadowstuff 9/day, shadowmark 5d6/-2, you haven’t seen the last of me
 
 **Magic**
-**Caster Level**6 (9 for Illusion, and Mind);**MSB**+9,**MSD**20,**Concentration** +14
-**Divination Sphere**-**Talents** Greater Divine; (vision) Scrying, Viewing
+**Caster Level** 6 (9 for Illusion, and Mind); **MSB** +9, **MSD** 20, **Concentration** +14
+**Divination Sphere** - **Talents** Greater Divine; (vision) Scrying, Viewing
 • divine, long (760 ft.), DC 18; (gain information about magic auras within 920 ft.)
 ◊ Alternate Divinations
 - Illusion (Divine Illusion); divine to gain Will save and Perception check against illusions in area
@@ -945,12 +945,12 @@ NE Medium outsider (native, passage)
 - Warp (Divine Warp); divine portals/rifts or recent teleportation
 ◊ Scrying; 2 sp, observe creature or object over any distance, bonus or penalty on Will save based on familiarity
 ◊ Viewing; 1 sp, transfer point of view anywhere within range
-**Illusion Sphere**-**Talents** Lingering Illusion, Masques x2; (sensory) Illusory sound
+**Illusion Sphere** - **Talents** Lingering Illusion, Masques x2; (sensory) Illusory sound
 • figment, personal; 1 sp, create an illusion with sound and vision for concentration, DC 19 Will save to disbelieve, Lingering Illusion; increase duration to 9 minutes, 1 sp
 • glamer, personal; create an illusion attached to a creature, Masques glamers grant +4 enhancement bonus to Bluff, Diplomacy, Intimidate, and Perform
 - Illusionary Disguise; create an illusion as though using a disguise kit
 • trick, personal; standard action, simple illusions - persist 9 minutes or until dismissed, DC 19 Will save to disbelieve
-**Mind Sphere**-**Talents** Expanded Charm, Mass Charm; (charm) Enthrall, Vision
+**Mind Sphere** - **Talents** Expanded Charm, Mass Charm; (charm) Enthrall, Vision
 • charm, close (45 ft.), DC 19; place a (charm) on a target; a lesser charm may only target each creature 1/day, Expanded Charm; use charm on any type of creature, Mass Charm; 1 sp, affect up to 4 additional targets
 ◊ Enthrall (charm)
 - lesser charm target 1 step friendlier for 9 minutes
@@ -961,29 +961,29 @@ NE Medium outsider (native, passage)
 ◊ Vision (charm)
 - lesser charm, alter perception of a single sense in relation to single entity
 - greater charm, 1 sp, alter perception of all 5 senses in relation to single entity
-**Warp Sphere**–**Talents** Mass Teleport, Swap Placement, Unseeing Teleport, Unwilling Teleport
+**Warp Sphere** – **Talents** Mass Teleport, Swap Placement, Unseeing Teleport, Unwilling Teleport
 • teleport, touch, move target up to close range (45 ft.); 1 sp, increase range to medium (190 ft.), DC 19; Mass Teleport 1 sp, affect up to 4 additional targets, Swap Placement may teleport into other creatures’ locations, swap their location, Unseeing Teleport may teleport to locations you cannot perceive
 
 **Combat**
-**Martial Tradition**(Equipment x2, Fencing x1, Scoundrel x1);**PAM** Cha
-**Equipment Sphere**-**Talents** Finesse Fighting x2, Unarmored Training
+**Martial Tradition** (Equipment x2, Fencing x1, Scoundrel x1); **PAM** Cha
+**Equipment Sphere** - **Talents** Finesse Fighting x2, Unarmored Training
 • Unarmored Training; +6 armor bonus, applies against touch
-**Fencing Sphere**-**Talents** Expert Feint, Fast Feint, Focusing Feint; (exploit) Belt Cutter
+**Fencing Sphere** - **Talents** Expert Feint, Fast Feint, Focusing Feint; (exploit) Belt Cutter
 • Expert Feint; a feinted creature loses their Dexterity bonus to AC until the beginning of your next turn, Focusing Feint; regain martial focus as a swift action when you successfully feint
 • Fast Feint; may feint as a move action; may expend martial focus after feinting a creature to move up to your speed w/o provoking attacks of opportunity
 • fatal thrust (deal +2d6 precision damage vs. flat-footed, flanked, or Dexterity-denied foes with attack actions or AoO, apply one (exploit))
 ◊ Belt Cutter; attempt a steal combat maneuver against target as a free action
-**Gladiator Sphere**-**Talents** Derision, Master Of Fear; (boast) Menace; (demoralization) Cow Enemy, Frightful, Piercing Fear, Spectacle
+**Gladiator Sphere** - **Talents** Derision, Master Of Fear; (boast) Menace; (demoralization) Cow Enemy, Frightful, Piercing Fear, Spectacle
 • Derision; may boast as immediate action when a creature misses you
 • boast (immediate action after critical hit, reduce enemy to 0, or successful combat maneuver, apply (boast) in 30-ft. radius)
 ◊ Menace (boast); creature must succeed on Will save to move closer to you, DC 19
 ◊ Prowess (boast); roll twice on next attack roll
 • **strike fear** (standard action, expend martial focus, demoralize 30-ft. radius; apply (demoralization) to enemies shaken), Master Of Fear (may use strike fear as a standard action w/o expending martial focus); (demoralize) additional effects vs. feared targets
-**Scoundrel Sphere - **Perception**DC 24;**Talents** Cut And Run; (trick) Fancy Footwork
+**Scoundrel Sphere - **Perception** DC 24; **Talents** Cut And Run; (trick) Fancy Footwork
 • Cut And Run; as long as you have martial focus, move up to 15 ft. as free action when you succeed at dirty trick or steal
 • Fancy Footwork (trick); attempt free reposition combat maneuver when you succeed at dirty trick or steal
 • marked target (swift action, melee touch attack, inflict battered and -3 Perception penalty)
-**Trap Sphere**-**Talents**Dirty Traps, Sneaky Trapper; (snare)**Net [trap statistics]** AC 24, hp 45, hardness 9, Perception DC 24, area 2 5-ft. squares, DC 19 Reflex
+**Trap Sphere** - **Talents** Dirty Traps, Sneaky Trapper; (snare) **Net [trap statistics]** AC 24, hp 45, hardness 9, Perception DC 24, area 2 5-ft. squares, DC 19 Reflex
 • Dirty Traps; spend martial focus to place trap as immediate action when you succeed at a dirty trick or steal combat maneuver
 • Sneaky Trapper; may perform Sleight of Hand (DC 11 + observer’s modifier) to play trap without it being noticed; use highest Perception modifier if multiple observers
 • dart (full-round action [standard action while maintaining focus], ranged attack, 45-ft. line, 5d6; or ranged touch w/o base damage using alchemical item or formulae)
@@ -993,8 +993,8 @@ NE Medium outsider (native, passage)
 ◊ Tripwire (snare); Reflex save or knocked prone
 
 **Statistics**
-**Str**15,**Dex**23,**Con**20,**Int**15,**Wis**14,**Cha** 20
-**Base Atk**+9;**CMB**+11 (+15 dirty trick or steal);**CMD** 27
+**Str** 15, **Dex** 23, **Con** 20, **Int** 15, **Wis** 14, **Cha** 20
+**Base Atk** +9; **CMB** +11 (+15 dirty trick or steal); **CMD** 27
 **Feats** Dirty Fighting, Great Focus, Improved Initiative, Skill Focus (Bluff), Spell Trap
 **Skills** Acrobatics +18, Bluff +20, Craft (traps) +14, Disguise +17, Intimidate +17, Knowledge (local) +15, Knowledge (planes) +15, Perception +15, Sense Motive +15, Sleight of Hand +18, Spellcraft +15, Stealth +18
 **Languages** Common, Drow Sign, Sylvan, Undercommon; telepathy 100 ft.

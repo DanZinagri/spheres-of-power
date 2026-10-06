@@ -298,7 +298,7 @@ With the exception of intelligent items (which follow the intelligent item rules
 
 Whenever an enhanced creature or creature using an enhanced weapon confirms a critical hit on an attack roll, the character applies a drawn or rolled effect from the Critical Hit Deck/Table which is applied to the attack (drawing additional cards based on the attack’s critical damage multiplier as normal).
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 #### Give Magic Life
 
@@ -339,7 +339,7 @@ Provided it has something to hold onto, a creature caught in the area can attemp
 **Prerequisites:** Enhancement Sphere (Deadly Weapon), caster level 5th
 You may enhance a weapon, causing any attack rolls made with the weapon to use a d24 rather than a d20 (if the attack roll would normally use a d16, use a d20 instead. If the attack roll would already use a d24, use a d30 instead). This does not change the weapon’s critical threat range (it does not threaten a critical hit on a 21 or any other number higher than 20).
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 ---
 
@@ -439,21 +439,21 @@ For the most part, a player creating an animated object does not get to choose w
 
 XP 200
 N Tiny construct
-**Init**+2**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** +2 **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**18,**touch**14,**flat-footed** 16 (+2 Dex, +4 natural, +2 size)
+**AC** 18, **touch** 14, **flat-footed** 16 (+2 Dex, +4 natural, +2 size)
 **hp** 5 (1d10)
-**Fort**+0,**Ref**+2,**Will** -5
-**Defensive Abilities**hardness 5**Immune** construct traits
+**Fort** +0, **Ref** +2, **Will** -5
+**Defensive Abilities** hardness 5 **Immune** construct traits
 
 **Offense**
 **Speed** 15 ft.
 **Melee** slam +1 (1d2-2)
 
 **Statistics**
-**Str**6,**Dex**14,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+1**CMB**+1**CMD** 9
+**Str** 6, **Dex** 14, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +1 **CMB** +1 **CMD** 9
 **SQ** 1 construction point
 
 **Special Abilities**
@@ -463,21 +463,21 @@ N Tiny construct
 
 XP 600
 N Small construct
-**Init**+1;**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** +1; **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**16,**touch**12,**flat-footed** 15 (+1 Dex, +4 natural, +1 size)
+**AC** 16, **touch** 12, **flat-footed** 15 (+1 Dex, +4 natural, +1 size)
 **hp** 21 (2d10+10)
-**Fort**+0,**Ref**+1,**Will** -5
-**Defensive Abilities**hardness 5;**Immune** construct traits
+**Fort** +0, **Ref** +1, **Will** -5
+**Defensive Abilities** hardness 5; **Immune** construct traits
 
 **Offense**
 **Speed** 20 ft.
 **Melee** slam +3 (1d3)
 
 **Statistics**
-**Str**10,**Dex**12,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+2**CMB**+1**CMD** 12
+**Str** 10, **Dex** 12, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +2 **CMB** +1 **CMD** 12
 **SQ** 1 construction points
 
 **Special Abilities**
@@ -487,21 +487,21 @@ N Small construct
 
 XP 800
 N Medium construct
-**Init**+0;**Senses**darkvision 60 ft., low-light vision;**Perception** –5
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; **Perception** –5
 
 **Defense**
-**AC**14,**touch**10,**flat-footed** 14 (+4 natural)
+**AC** 14, **touch** 10, **flat-footed** 14 (+4 natural)
 **hp** 36 (3d10+20)
-**Fort**+1,**Ref**+1,**Will** -4
-**Defensive Abilities**hardness 5;**Immune** construct traits
+**Fort** +1, **Ref** +1, **Will** -4
+**Defensive Abilities** hardness 5; **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +5 (1d6+3)
 
 **Statistics**
-**Str**14,**Dex**10,**Con**—,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+3;**CMB**+5;**CMD** 15
+**Str** 14, **Dex** 10, **Con** —, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +3; **CMB** +5; **CMD** 15
 **SQ** 2 construction points
 
 **Special Abilities**
@@ -511,21 +511,21 @@ N Medium construct
 
 XP 1,600
 N Large construct
-**Init**-1**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** -1 **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**14,**touch**8,**flat-footed** 14 (-1 Dex, +6 natural, -1 size)
+**AC** 14, **touch** 8, **flat-footed** 14 (-1 Dex, +6 natural, -1 size)
 **hp** 52 (4d10+30 size)
-**Fort**+1,**Ref**+0,**Will** -4
-**Defensive Abilities**hardness 5**Immune** construct traits
+**Fort** +1, **Ref** +0, **Will** -4
+**Defensive Abilities** hardness 5 **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +9 (1d6+9)
 
 **Statistics**
-**Str**22,**Dex**8,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+4**CMB**+11**CMD** 20
+**Str** 22, **Dex** 8, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +4 **CMB** +11 **CMD** 20
 **SQ** 3 construction points
 
 **Special Abilities**
@@ -535,21 +535,21 @@ N Large construct
 
 XP 3,200
 N Huge construct
-**Init**-2**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** -2 **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**15,**touch**6,**flat-footed** 15 (-2 Dex, +9 natural, -2 size)
+**AC** 15, **touch** 6, **flat-footed** 15 (-2 Dex, +9 natural, -2 size)
 **hp** 78 (7d10+40 size)
-**Fort**+2,**Ref**+0,**Will** -3
-**Defensive Abilities**hardness 5**Immune** construct traits
+**Fort** +2, **Ref** +0, **Will** -3
+**Defensive Abilities** hardness 5 **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +15 (1d8+15)
 
 **Statistics**
-**Str**30,**Dex**6,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+7**CMB**+19**CMD** 27
+**Str** 30, **Dex** 6, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +7 **CMB** +19 **CMD** 27
 **SQ** 4 construction points
 
 **Special Abilities**
@@ -559,21 +559,21 @@ N Huge construct
 
 XP 6,400
 N Gargantuan construct
-**Init**-2**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** -2 **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**17,**touch**4,**flat-footed** 17 (-2 Dex, +13 natural, -4 size)
+**AC** 17, **touch** 4, **flat-footed** 17 (-2 Dex, +13 natural, -4 size)
 **hp** 115 (10d10+60 size)
-**Fort**+3,**Ref**+1,**Will** -2
-**Defensive Abilities**hardness 5**Immune** construct traits
+**Fort** +3, **Ref** +1, **Will** -2
+**Defensive Abilities** hardness 5 **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +20 (2d6+21)
 
 **Statistics**
-**Str**38,**Dex**6,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+10**CMB**+28**CMD** 36
+**Str** 38, **Dex** 6, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +10 **CMB** +28 **CMD** 36
 **SQ** 5 construction points
 
 **Special Abilities**
@@ -583,21 +583,21 @@ N Gargantuan construct
 
 XP 12,800
 N Colossal construct
-**Init**-2**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** -2 **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**18,**touch**0,**flat-footed** 18 (-2 Dex, +18 natural, -8 size)
+**AC** 18, **touch** 0, **flat-footed** 18 (-2 Dex, +18 natural, -8 size)
 **hp** 151 (13d10+80 size)
-**Fort**+4,**Ref**+2,**Will** -1
-**Defensive Abilities**hardness 5**Immune** construct traits
+**Fort** +4, **Ref** +2, **Will** -1
+**Defensive Abilities** hardness 5 **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +23 (2d8+27)
 
 **Statistics**
-**Str**46,**Dex**6,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+13**CMB**+39**CMD** 47
+**Str** 46, **Dex** 6, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +13 **CMB** +39 **CMD** 47
 **SQ** 6 construction points
 
 **Special Abilities**
@@ -607,21 +607,21 @@ N Colossal construct
 
 XP 19,200
 N Colossal construct
-**Init**-2**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** -2 **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**24,**touch**0,**flat-footed** 24 (-2 Dex, +24 natural, -8 size)
+**AC** 24, **touch** 0, **flat-footed** 24 (-2 Dex, +24 natural, -8 size)
 **hp** 188 (16d10+100 size)
-**Fort**+5,**Ref**+3,**Will** -0
-**Defensive Abilities**hardness 5**Immune** construct traits
+**Fort** +5, **Ref** +3, **Will** -0
+**Defensive Abilities** hardness 5 **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +30 (4d6+33)
 
 **Statistics**
-**Str**54,**Dex**6,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+16**CMB**+46**CMD** 54
+**Str** 54, **Dex** 6, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +16 **CMB** +46 **CMD** 54
 **SQ** 7 construction points
 
 **Special Abilities**
@@ -631,21 +631,21 @@ N Colossal construct
 
 XP 38,400
 N Colossal construct
-**Init**-2**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** -2 **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**31,**touch**0,**flat-footed** 18 (-2 Dex, +31 natural, -8 size)
+**AC** 31, **touch** 0, **flat-footed** 18 (-2 Dex, +31 natural, -8 size)
 **hp** 224 (19d10+120 size)
-**Fort**+6,**Ref**+4,**Will** +1
-**Defensive Abilities**hardness 5**Immune** construct traits
+**Fort** +6, **Ref** +4, **Will** +1
+**Defensive Abilities** hardness 5 **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +37 (4d8+39)
 
 **Statistics**
-**Str**62,**Dex**6,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+19**CMB**+53**CMD** 61
+**Str** 62, **Dex** 6, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +19 **CMB** +53 **CMD** 61
 **SQ** 8 construction points
 
 **Special Abilities**
@@ -655,21 +655,21 @@ N Colossal construct
 
 XP 76,800
 N Colossal construct
-**Init**-2**Senses**darkvision 60, low-light vision;**Perception** -5
+**Init** -2 **Senses** darkvision 60, low-light vision; **Perception** -5
 
 **Defense**
-**AC**39,**touch**0,**flat-footed** 39 (-2 Dex, +39 natural, -8 size)
+**AC** 39, **touch** 0, **flat-footed** 39 (-2 Dex, +39 natural, -8 size)
 **hp** 271 (22d10+150 size)
-**Fort**+6,**Ref**+4,**Will** +1
-**Defensive Abilities**hardness 5**Immune** construct traits
+**Fort** +6, **Ref** +4, **Will** +1
+**Defensive Abilities** hardness 5 **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft.
 **Melee** slam +44 (6d6+45)
 
 **Statistics**
-**Str**70,**Dex**6,**Con**-,**Int**-,**Wis**1,**Cha** 1
-**Base Atk**+22**CMB**+60**CMD** 68
+**Str** 70, **Dex** 6, **Con** -, **Int** -, **Wis** 1, **Cha** 1
+**Base Atk** +22 **CMB** +60 **CMD** 68
 **SQ** 9 construction points
 
 **Special Abilities**
@@ -777,7 +777,7 @@ Animated objects can gain more CP by applying flaws, which hamper the animated o
 
 **Slower (Ex, +1 CP):** One of the animated object’s movement modes decreases by – 10 feet.
 
-**Undead (Ex; +1 CP):** The animated object is made of corpse materials such as flesh or smooth bone; change its type to undead, adjust its Charisma score to be equal to its Strength score, replace construct traits (Ex) with undead immunities (Ex), and replaces its hardness with an equal amount of damage reduction bypassed by bludgeoning damage. It is still mindless. This flaw cannot be applied alongside the aberration flaw.**Special:** If the animated object also possesses the haunted construction flaw, the animated object is stunned for 1 round whenever it fails a saving throw against a positive energy effect. This bypassesses any immunities the animated object may possess. [Gravecaller's HB]
+**Undead (Ex; +1 CP):** The animated object is made of corpse materials such as flesh or smooth bone; change its type to undead, adjust its Charisma score to be equal to its Strength score, replace construct traits (Ex) with undead immunities (Ex), and replaces its hardness with an equal amount of damage reduction bypassed by bludgeoning damage. It is still mindless. This flaw cannot be applied alongside the aberration flaw. **Special:** If the animated object also possesses the haunted construction flaw, the animated object is stunned for 1 round whenever it fails a saving throw against a positive energy effect. This bypassesses any immunities the animated object may possess. [Gravecaller's HB]
 
 ---
 

@@ -193,7 +193,7 @@ Note that results on these tables table are not inherently exclusive (not unless
 **On Wild Magic:** This is the basic Wild Magic table. However, if you're using Spherecasting, we recommend using the [[Wild Magic]] rules instead.
 
 **Table: Wild Magic Effects**
-**Source:** Pathfinder GameMastery Guide
+*Source: Pathfinder GameMastery Guide*
 
 | d% | Effect |
 | --- | --- |

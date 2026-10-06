@@ -18,7 +18,7 @@ Lostlings are the pitiful corpses of disoriented individuals who died in the wil
 
 **Armor Class:** +4 natural armor bonus.
 
-**Defensive Abilities:** **Immune**Lostlings that succumbed to the elements still bear marks of the weather conditions that killed them. Select an energy type (acid, cold, fire, electricity, or sonic) that is most closely associated with the conditions that caused the subject to become a lostling. The lostling gains immunity to that energy type.** Weakness** Select an energy type that is the opposite of the energy type chosen for the lostling’s immunity - the lostling gains vulnerability to that energy type.
+**Defensive Abilities:** **Immune** Lostlings that succumbed to the elements still bear marks of the weather conditions that killed them. Select an energy type (acid, cold, fire, electricity, or sonic) that is most closely associated with the conditions that caused the subject to become a lostling. The lostling gains immunity to that energy type. **Weakness** Select an energy type that is the opposite of the energy type chosen for the lostling’s immunity - the lostling gains vulnerability to that energy type.
 
 **Special Abilities:** A lostling creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -36,4 +36,4 @@ Upon a successful critical hit, in addition to the extra energy damage, the lost
 
 **Wisdom Drain (Su):** Living creatures hit by a lostling’s melee, range, or touch attacks must make a successful Will save (DC 10 +1/2 the lostling’s HD + its Cha modifier) or suffer 1d3 points of Wisdom drain. On each such successful attack, it gains 5 temporary hit points. A creature reduced to 0 points of Wisdom falls into a deep, nightmare-plagued slumber (subject gains the helpless condition). As a result of this catatonic state, the unfortunate victim eventually dies from starvation or thirst.
 
-**Abilities:** Increase from the base creature as follows:**Con**+6 (+3 hp per HD, +3 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Con** +6 (+3 hp per HD, +3 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs).

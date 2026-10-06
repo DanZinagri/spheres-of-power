@@ -12,22 +12,22 @@ Mysterious lights and echoes of music and tinkling laughter can be heard at time
 **Fairy Ring (CR 8/MR 3)**
 XP 3,200
 CN Tiny plant (mythic, swarm)
-**Init**+1;**Senses** low-light vision, see invisibility, tremorsense 60 ft.; Perception +16
+**Init** +1; **Senses** low-light vision, see invisibility, tremorsense 60 ft.; Perception +16
 **Aura** dreaming glade (30 ft., DC 18, 10 rounds)
 
 #### Defense
 
-**AC**21,**touch**14,**flat-footed** 20 (+4 armor, +4 deflection, –2 Dex, +3 natural, +2 size)
+**AC** 21, **touch** 14, **flat-footed** 20 (+4 armor, +4 deflection, –2 Dex, +3 natural, +2 size)
 **hp** 100 (9d8+60); fast healing 2
-**Fort**+10,**Ref**+1,**Will** +5
-**Defensive Abilities**swarm traits, DR 5/epic and slashing;**Immune**plant traits;**SR** 19
+**Fort** +10, **Ref** +1, **Will** +5
+**Defensive Abilities** swarm traits, DR 5/epic and slashing; **Immune** plant traits; **SR** 19
 **Weaknesses** vulnerable to cold iron, vulnerable to fire
 
 #### Offense
 
 **Speed** 5 ft.
 **Melee** swarm (2d6 nonlethal plus curse of the ages)
-**Space**10 ft.;**Reach** 0 ft.
+**Space** 10 ft.; **Reach** 0 ft.
 **Special Attacks** curse of the ages, disenchantmentMA, distraction (DC 16), mythic power (3/day, surge 1d6), mythic spell-like abilityMA, selective swarm
 
 **Spell-Like Abilities** (CL 9th; concentration +13 (+17 to cast defensively))
@@ -38,8 +38,8 @@ At will—dancing lights, daze monster (DC 18), detect law, ghost sound (DC 16),
 
 #### Statistics
 
-**Str**1,**Dex**6,**Con**18,**Int**15,**Wis**14,**Cha** 19
-**Base Atk**+6;**CMB**—;**CMD** —
+**Str** 1, **Dex** 6, **Con** 18, **Int** 15, **Wis** 14, **Cha** 19
+**Base Atk** +6; **CMB** —; **CMD** —
 **Feats** Alertness, Combat Casting, Improved Initiative, Spell Focus (enchantment)MF, Spell Focus (illusion)MF
 **Skills** Knowledge (nature) +10, Knowledge (planes) +10, Perception +16, Sense Motive +12, Stealth +12
 **Languages** Sylvan (can’t speak)
@@ -55,7 +55,7 @@ At will—dancing lights, daze monster (DC 18), detect law, ghost sound (DC 16),
 
 **Crossroads and Backroads (Sp)** Once per week, a fairy ring can open a planar crossroads, enabling up to nine creatures to pass into the secret paths of the fey. This functions identically to shadow walk (caster level 9th), save that creatures are passing through the verges of the Faerie Realms rather than the Plane of Shadow, and the bewitching beauty and vibrant life of that land is such that when creatures pass back into the Material Plane they are wracked with longing to return and hopelessness that they may never be able to return, affecting them as crushing despair for 1d6 minutes (DC 16 Will negates). The fairy ring does not accompany the travelers into the Faerie Realm.
 
-**Curse of the Ages (Su)**Swarm;**save**Will DC 18;**frequency**1 day;**effect** age 1 year. A creature that saves is immune to that fairy ring’s curse of the ages for 24 hours.
+**Curse of the Ages (Su)** Swarm; **save** Will DC 18; **frequency** 1 day; **effect** age 1 year. A creature that saves is immune to that fairy ring’s curse of the ages for 24 hours.
 
 **Disenchantment (Su)** As a full-round action, a fairy ring can attempt to drain the magic from one magical item carried by a creature within its space. Use Table 9-2 in the Pathfinder Roleplaying Game Core Rulebook to determine which item is affected. The fairy ring makes a caster level check (+9) opposed by a DC of 11 plus the item’s caster level. If the check succeeds, the fairy ring suppresses the item’s power for 1 minute, healing the fairy ring a number of hit points equal to one-half the item’s caster level; any hit points over the fairy ring’s maximum hit points are wasted. If its check exceeds the DC by 5 or more, the item’s power is drained completely, rendering it permanently nonmagical, and heals the fairy ring a number of hit points equal to its caster level. This power has no effect on artifacts; items made of cold iron; or items carried by fey, plants, or creatures with the chaotic subtype.
 

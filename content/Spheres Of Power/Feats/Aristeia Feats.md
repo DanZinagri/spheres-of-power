@@ -36,7 +36,7 @@ While in Aristeia, you may spend an immediate action to move with any creature y
 #### Heroic Perseverance (Aristeia)
 
 **Benefit:** For each Aristeia feat you possess, increase the number of times per day you can use a combat feats you have that allows a limited number of daily uses by 1, such as the Stunning Fist feat. When your Aristeia ends, you may spend any number of hero points, reducing the ability burn dealt to each ability score by 1 for every hero point spent.
-Special: This feat counts as the weapon training and armor training class features for all weapons and armor for the purpose of meeting prerequisites for armor mastery and weapon mastery feat prerequisites and what weapons you can use with weapon mastery feats.
+**Special:** This feat counts as the weapon training and armor training class features for all weapons and armor for the purpose of meeting prerequisites for armor mastery and weapon mastery feat prerequisites and what weapons you can use with weapon mastery feats.
 
 #### Heroic Senses (Aristeia)
 
@@ -74,7 +74,7 @@ Expanded and revised rules for blindsense and blindsight can be found in Spheres
 
 #### Ultimate Form (Aristeia)
 
-Prerequisite: Alteration sphere or Transformation feat
+**Prerequisite:** Alteration sphere or Transformation feat
 **Benefit:** You gain a +1 bonus on concentration checks for Alteration sphere effects +1 for every Aristeia feat you possess (including this one). When you enter Aristeia, you gain a single Alteration sphere trait that you may select for the duration of your aristeia. If you possess 4 or more Aristeia feats, you gain an additional trait when in Aristeia. These traits are chosen when you enter Aristeia and do not count towards the maximum number of traits you may gain from the Alteration sphere.
 
 **Special:** This feat counts as Combat Casting for the purpose of meeting prerequisites.

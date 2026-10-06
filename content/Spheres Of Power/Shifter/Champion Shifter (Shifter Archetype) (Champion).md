@@ -8,15 +8,15 @@ parent: "[[Shifter]]"
 
 *Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
 
-**Proficiencies**: Champion shifters are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+**Proficiencies:** Champion shifters are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters proficiencies.
 
-**Blended Training**: A champion shifter gains a combat or magic talent every time they gain a caster level. A champion shifter uses their casting ability modifier as their practitioner modifier.
+**Blended Training:** A champion shifter gains a combat or magic talent every time they gain a caster level. A champion shifter uses their casting ability modifier as their practitioner modifier.
 
 This alters magic talents.
 
-**Skill Training (requires Spheres of Guile)**: As an optional exchange, the shifter may choose to gain a bonus magic talent every even level (instead of according to **Table: The Shifter**). If they do, they may select combat, magic, or skill talents with their blended training, the champion shifter gains a utility talent that can be spent on combat, magic, or skill talents at every odd level. The champion shifter uses their casting ability modifier as both their practitioner and operative modifier.
+**Skill Training (requires Spheres of Guile):** As an optional exchange, the shifter may choose to gain a bonus magic talent every even level (instead of according to **Table: The Shifter**). If they do, they may select combat, magic, or skill talents with their blended training, the champion shifter gains a utility talent that can be spent on combat, magic, or skill talents at every odd level. The champion shifter uses their casting ability modifier as both their practitioner and operative modifier.
 
 If the champion shifter chooses to exchange their class skills for a trade tradition, the champion shifter’s trade rank is competent.
 

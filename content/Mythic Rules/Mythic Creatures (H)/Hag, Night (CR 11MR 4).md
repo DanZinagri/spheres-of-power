@@ -13,14 +13,14 @@ Grisly fetishes and the rags of once fine clothes hang off the corpse-thin frame
 XP 12,800
 Pathfinder Roleplaying Game Bestiary
 NE Medium outsider (evil, extraplanar, mythic)
-**Init**+4;**Senses** darkvision 60 ft.; Perception +14
+**Init** +4; **Senses** darkvision 60 ft.; Perception +14
 
 #### Defense
 
-**AC**29,**touch**14,**flat-footed** 25 (+4 Dex, +15 natural)
+**AC** 29, **touch** 14, **flat-footed** 25 (+4 Dex, +15 natural)
 **hp** 132 (8d10+88)
-**Fort**+14,**Ref**+8,**Will** +11
-**Defensive Abilities**DR 10/cold iron, epic, and magic;**Immune**charm, cold, fear, fire, sleep;**SR** 28
+**Fort** +14, **Ref** +8, **Will** +11
+**Defensive Abilities** DR 10/cold iron, epic, and magic; **Immune** charm, cold, fear, fire, sleep; **SR** 28
 
 #### Offense
 
@@ -36,8 +36,8 @@ At will (with heartstone)—etherealness, soul bind
 
 #### Statistics
 
-**Str**23,**Dex**19,**Con**22,**Int**18,**Wis**16,**Cha** 19
-**Base Atk**+8;**CMB**+14;**CMD** 28
+**Str** 23, **Dex** 19, **Con** 22, **Int** 18, **Wis** 16, **Cha** 19
+**Base Atk** +8; **CMB** +14; **CMD** 28
 **Feats** Combat Casting, DeceitfulMF, Empower Spell-Like Ability (ray of enfeeblement), Mounted CombatMF
 **Skills** Bluff +19, Diplomacy +12, Disguise +19, Intimidate +15, Knowledge (arcana) +15, Knowledge (planes) +15, Perception +14, Ride +15, Sense Motive +14, Spellcraft +12
 **Languages** Abyssal, Celestial, Common, Infernal
@@ -53,7 +53,7 @@ At will (with heartstone)—etherealness, soul bind
 
 **Cursed Claws (Su)** If a mythic night hag strikes a creature with both claws in the same round, the target is affected as a cursed wound hex. If the hag expends one use of its mythic power, the curse becomes permanent and the DC to remove the curse or to affect the target with conjuration (healing) spells and similar healing effects is increased by 4.
 
-**Disease (Su)**Demon Fever: Bite—injury;**save**Fort DC 20;**onset**immediate;**frequency**1/day;**effect**1d6 Con damage (target must save a 2nd time or 1 point of the damage is drain instead);**cure** 2 consecutive saves. The save DC is Constitution-based.
+**Disease (Su)** Demon Fever: Bite—injury; **save** Fort DC 20; **onset** immediate; **frequency** 1/day; **effect** 1d6 Con damage (target must save a 2nd time or 1 point of the damage is drain instead); **cure** 2 consecutive saves. The save DC is Constitution-based.
 
 **Dream Haunting (Su)** A night hag can visit the dreams of chaotic or evil targets by using a special periapt known as a heartstone to become ethereal, then hovering over the creature. Once it does so, it rides on the victim’s back until dawn. The sleeper suffers tormenting dreams and takes 1 point of Constitution drain upon awakening. Only another ethereal being can stop these nocturnal intrusions by confronting and defeating the night hag.
 

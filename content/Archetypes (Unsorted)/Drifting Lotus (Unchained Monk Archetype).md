@@ -9,23 +9,23 @@ updated: 2022-12-12
 
 The nomadic order of the drifting lotus master the mystic arts of space and teleportation, incorporating them into an elegant fighting style.
 
-### Class Skills
+## Class Skills
 
 A drifting lotus adds Knowledge (arcana) (Int), Knowledge (planes) (Int) to his list of class skills and removes Knowledge (history) (Int) and Ride (Dex) from his list of class skills.
 
-### Proficiencies
+## Proficiencies
 
 A drifting lotus is proficient with simple weapons, as well as light armor. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters weapon and armor proficiencies.
 
-### Casting
+## Casting
 
 A drifting lotus may combine spheres and talents to create magical effects. A drifting lotus is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces stunning fist.
 
-### Spell Pool
+## Spell Pool
 
 A drifting lotus at first level gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his class level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
@@ -41,59 +41,59 @@ At 16th level, his unarmed attacks are treated as adamantine weapons for the pur
 
 This replaces ki pool.
 
-### Blended Training
+## Blended Training
 
 A drifting lotus gains a combat or magic talent every time he gains a class level. A drifting lotus uses his casting ability modifier as his practitioner modifier.
 
 This replaces the bonus feats class feature and fast movement.
 
-### Unarmed Expert
+## Unarmed Expert
 
 A drifting lotus is an expert in unarmed combat. At first level he gains the Open Hand sphere as a bonus combat talent.
 
 This replaces unarmed strike.
 
-### Warp Expert
+## Warp Expert
 
 A drifting lotus gains the Warp sphere and Pouncing Teleport as bonus magic talents, as well as the Personal Warp drawback. This drawback does not grant an additional bonus talent, but may be bought off as normal.
 
 This replaces flurry of blows.
 
-### Lotus Style
+## Lotus Style
 
 At 5th level the drifting lotus learns a lotus style. Once per turn, after he successfully teleports himself, the drifting lotus may gain the effects of a single lotus style. At 9th level, and every 4 levels thereafter, a drifting lotus learns an additional lotus style. At 15th level, he may gain two different lotus style benefits in a turn, either gaining both from a single teleport, or individual from two separate teleports.
 
 This replaces style strike.
 
-#### Bloom
+### Bloom
 
 The next attack the drifting lotus makes carries a dangerous spatial disturbance that splinters the target’s body. If his next attack hits, he deals an additional 1d6 damage per two levels to the target. This damage is not subject to damage reduction, hardness, or energy resistance. If the drifting lotus does not attack before his next turn, this benefit is lost.
 
-#### Branch
+### Branch
 
 The drifting lotus both teleports and does not teleport, temporarily appearing in two locations at once. After teleporting, the drifting lotus exists in both his starting position and his destination until the beginning of his next turn. This does not grant him additional actions, but he may take actions from either location and split actions between them as desired (allowing his to attack at one location and move at the other, for example). If a single ability would affect him in both locations (such as a breath weapon or destructive blast) he is only affected once. This allows him to flank with himself. At the beginning of his next turn, the drifting lotus resolves this duality and exists only at the destination end of his teleport.
 
-#### Evade
+### Evade
 
 Until the beginning of his next turn, the drifting lotus gains a +2 dodge bonus to AC and Reflex saves. This bonus improves by 1 for every ten levels (+3 at 10th, +4 at 20th). He loses this bonus whenever he would lose his monk AC bonus.
 
-#### Flit
+### Flit
 
 The drifting lotus may make a secondary teleport in the same turn. He may cast this secondary teleport as a swift action, but it has a maximum range of 5 feet plus an additional 5 feet per 4 levels and cannot benefit from any Warp talents he possesses. If it is not used before the end of his turn, this second teleport is lost.
 
-#### Float
+### Float
 
 Until the beginning of his next turn, the drifting lotus unmoors himself from the bonds of the earth. He does not take fall damage, and falls at a rate of 60 feet per round. In addition, he may turn a fall into a glide, moving an equal distance in a horizontal direction of his choice. Finally, he can choose to simply hover instead of falling, hanging in place until some other force moves his or until his next turn begins.
 
-#### Pursue
+### Pursue
 
 The drifting lotus teleports not to a place, but a person; space bends to keep him only a step away from them. The drifting lotus designates a single target within his reach to pursue. If it attempts to move out of his reach before his next turn, he may move after it as an immediate action. This allows him to mirror its movement up to a maximum distance equal to his speed. He must pass through every square his target passed through to mirror its movement, and if he reaches a point where he cannot follow (such as by not having the appropriate movement type) he immediately stops and can no longer pursue.
 
-#### Rush
+### Rush
 
 The next attack the drifting lotus makes transfers the latent momentum of his teleport into his target. If his next attack hits, he may attempt a bull rush combat maneuver check against the target. This does not provoke an attack of opportunity, and he may choose to substitute his MSB plus his casting modifier for his CMB for this maneuver. If the target is knocked into a solid object, it suffers 1d6 bludgeoning damage, + 1d6 for every 5 feet it would have continued past the barrier. He does not move with the targets of his bull rush. If the drifting lotus does not attack before his next turn, this benefit is lost.
 
-#### Whirl
+### Whirl
 
 Until the beginning of his next turn, the drifting lotus is surrounded by a dizzying distortion. Anyone who attacks him or targets him with an effect requiring line of sight must succeed on a Will save (DC 10 + 1/2 his drifting lotus level + his casting ability modifier) or become sickened for 1 minute.
 

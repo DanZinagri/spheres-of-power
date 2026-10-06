@@ -14,19 +14,19 @@ XP 102,400
 Pathfinder RPG Bestiary 2
 Human mythic worm that walks conjurer 13
 NE Medium vermin (augmented human, mythic)
-**Init**+15MF;**Senses** blindsight 120 ft., darkvision 60 ft.; Perception +22
+**Init** +15MF; **Senses** blindsight 120 ft., darkvision 60 ft.; Perception +22
 
 #### Defense
 
-**AC**33,**touch**20,**flat-footed** 28 (+6 armor, +4 Dex, +1 dodge, +5 insight, +7 natural)
+**AC** 33, **touch** 20, **flat-footed** 28 (+6 armor, +4 Dex, +1 dodge, +5 insight, +7 natural)
 **hp** 168 (13d6+107); fast healing 17
-**Fort**+12,**Ref**+12,**Will** +13
-**Defensive Abilities**worm that walks traits; DR 15/—;**Immune**critical hits, disease, paralysis, poison, sleep, weapon damageMA;**SR** 32MA
+**Fort** +12, **Ref** +12, **Will** +13
+**Defensive Abilities** worm that walks traits; DR 15/—; **Immune** critical hits, disease, paralysis, poison, sleep, weapon damageMA; **SR** 32MA
 
 #### Offense
 
 **Speed** 30 ft.
-**Melee**squirming embrace +10 touch (6d6–1 plus distraction and infestation)**or** slam +10 (1d4–1 plus grab)
+**Melee** squirming embrace +10 touch (6d6–1 plus distraction and infestation) **or** slam +10 (1d4–1 plus grab)
 **Special Attacks** arcane surgeMA, coordinated consumptionMA, corpse-crawlingMA, discorporate, grab (Large), infestationMA (DC 27), mythic power (7/day, surge +1d10), squirming embrace, swarm spawnMA
 
 **Arcane School Spell-Like Abilities** (CL 13th; concentration +18)
@@ -46,10 +46,10 @@ At will—dimensional steps (390 feet/day)
 
 #### Statistics
 
-**Str**8,**Dex**18,**Con**19,**Int**24,**Wis**12,**Cha** 10
-**Base Atk**+6;**CMB**+5 (+20 grapple);**CMD** 33
+**Str** 8, **Dex** 18, **Con** 19, **Int** 24, **Wis** 12, **Cha** 10
+**Base Atk** +6; **CMB** +5 (+20 grapple); **CMD** 33
 **Feats** Arcane Armor Training, Combat Casting, Combat Reflexes, Craft Magic Arms and Armor, Craft Wondrous Item, DiehardB, Dodge, Extra Mythic Power, Improved InitiativeMF, Light Armor Proficiency, Mythic Spell Lore (2), Scribe Scroll, Toughness, Weapon Finesse
-**Skills**Craft (alchemy) +23, Disguise +13, Fly +20, Intimidate +13, Knowledge (arcana, dungeoneering, planes) +23, Perception +22, Sense Motive +15, Spellcraft +23, Stealth +19;**Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth
+**Skills** Craft (alchemy) +23, Disguise +13, Fly +20, Intimidate +13, Knowledge (arcana, dungeoneering, planes) +23, Perception +22, Sense Motive +15, Spellcraft +23, Stealth +19; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth
 **Languages** Abyssal, Aklo, Common, Infernal
 **SQ** arcane bond (staff ), mythic potencyMA, summoner’s charm (6 rounds), tenacious
 

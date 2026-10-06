@@ -16,7 +16,7 @@ Inventioneering is a term for “Doing It Yourself”, or, in other words, creat
 
 This section includes the general design philosophy of the Tinker sphere and how to go about creating new gizmos, abilities, and effects (collectively, “Tinker sphere ability” for the purposes of this section).
 
-**Note**: This ruleset is a loose, open ended guideline to facilitate new ideas. The GM is the final arbiter for any inventioneered effect, and GMs and players should work together to adjust options created this way.
+**Note:** This ruleset is a loose, open ended guideline to facilitate new ideas. The GM is the final arbiter for any inventioneered effect, and GMs and players should work together to adjust options created this way.
 
 ### Inventioneering Basics
 
@@ -32,7 +32,7 @@ An inventioneered gizmo, when crafted, counts against the character’s gizmo li
 
 An inventioneered project (i.e. a permanent piece of infrastructure, lesser tool, robot or vehicle, etc.) should have its project cost determined accordingly. If the Tinker sphere ability has Hit Dice, compare the project cost to a *mechanoid*. Otherwise, consider how long it should take a character to collect the project materials and create a new permanent object of that kind.
 
-**Inventioneered Effects Known**: A character can know any number of “inventioneered” effects; some GMs may instead limit this to the character’s practitioner modifier + 1/2 their ranks in their Tinker sphere associated skill.
+**Inventioneered Effects Known:** A character can know any number of “inventioneered” effects; some GMs may instead limit this to the character’s practitioner modifier + 1/2 their ranks in their Tinker sphere associated skill.
 
 ### Creating New Effects
 
@@ -40,13 +40,13 @@ When Inventioneering, the GM and the character should discuss what the goal of t
 
 Inventioneered effects should generally be somewhat conservative in their approach, as they are functionally a way for a character to infinitely add to their toolbox without spending talents or class resources. If emulating a powerful effect, consider making the resulting output more conservative, such as a lesser duration, higher battery upkeep cost, or similar.
 
-**Complexity and Crafting**: If the character possesses relevant or closely related talents to the desired Tinker sphere ability, determine the total “complexity” of the desired Tinker sphere ability as 1 + the number of relevant or closely related Tinker sphere talents (or other talents and abilities) required for the ability. Advanced talents are treated as +2 complexity (rather than +1). An inventioneered effect with a uniquely powerful or setting-altering effect (similar to an advanced talent) is treated as an additional +1 complexity. Complexity may be further adjusted upwards based on how complicated or powerful or resource-intensive the resulting effect is (or should be) or if it relies on unusual knowledge or concepts for the setting’s technology level.
+**Complexity and Crafting:** If the character possesses relevant or closely related talents to the desired Tinker sphere ability, determine the total “complexity” of the desired Tinker sphere ability as 1 + the number of relevant or closely related Tinker sphere talents (or other talents and abilities) required for the ability. Advanced talents are treated as +2 complexity (rather than +1). An inventioneered effect with a uniquely powerful or setting-altering effect (similar to an advanced talent) is treated as an additional +1 complexity. Complexity may be further adjusted upwards based on how complicated or powerful or resource-intensive the resulting effect is (or should be) or if it relies on unusual knowledge or concepts for the setting’s technology level.
 
 Non-Tinker sphere talents may be used to craft an inventioneered effect, using the same general principle of “closely related”. For example, the Emergency Gear flashlight talent gives a general ability to “create light”, but a spherecaster with the Light sphere’s glow sphere ability may also serve the same purpose.
 
 Once the complexity of the desired Tinker sphere ability is known, a character must spend 8 hours per degree of complexity creating that new Tinker sphere ability. These hours do not need to be consecutive (similar to the item creation rules). If the character is out adventuring, the character can instead devote 4 hours each day to creating the new Tinker sphere ability (although the character only nets 2 hours of work).
 
-**Prerequisites for Inventioneered Effect**: Some inventioneered effects may have a minimum level, associated ranks prerequisite, or other similar prerequisite, similar to a legendary talent.
+**Prerequisites for Inventioneered Effect:** Some inventioneered effects may have a minimum level, associated ranks prerequisite, or other similar prerequisite, similar to a legendary talent.
 
 ### Skill Challenges for Inventioneering
 
@@ -56,13 +56,13 @@ In this scenario, the skill check DC to inventioneer a new Tinker sphere ability
 
 ### Inventioneering Blueprints
 
-**Blueprints Overview**: Inventioneered effects can be written down as blueprints and shared, sold, distributed, or otherwise stored for others to make use of.
+**Blueprints Overview:** Inventioneered effects can be written down as blueprints and shared, sold, distributed, or otherwise stored for others to make use of.
 
 The cost of a blueprint is generally 100 x the inventioneered effect’s total complexity. This cost is often negligible, as it represents the cost, time, and care needed to make the blueprint, not the time and effort a character may have spent to create the effect.
 
 Some characters may keep their blueprints as closely guarded secrets, whereas others may distribute them more freely. The cost to purchase a particularly useful or valuable blueprint from a master Tinker practitioner may be proportionally higher, subject to GM discretion.
 
-**Using a Blueprint**: A character that creates an inventioneered effect is always able to understand and make use of a blueprint they created.
+**Using a Blueprint:** A character that creates an inventioneered effect is always able to understand and make use of a blueprint they created.
 
 If a character obtains a blueprint from someone else, that character must attempt an associated skill check (using the blueprint’s Tinker tradition’s associated skill) against a DC 10 + 5 x the inventioneered effect’s complexity. For example, a clockwork Tinker practitioner attempting to learn from a blueprint written by a biofloramachinst Tinker practitioner would need to roll a successful Profession (gardener or herbalist) check as well as Knowledge (nature), due to the Tinker tradition’s double major drawback, to understand and make use of that blueprint. The clockwork Tinker practitioner could then construct the inventioneered effect normally subject to their own tradition.
 
@@ -82,17 +82,17 @@ For example, if trying to make a Tinker sphere ability that emulates *raise dead
 
 An inventioneered effect is read as follows:
 
-**Complexity**: The complexity of the inventioneered effect.
+**Complexity:** The complexity of the inventioneered effect.
 
-**Talents**: The talents used to create the inventioneered effect; this does not include the Tinker sphere as a base sphere (and is presumed to always be included).
+**Talents:** The talents used to create the inventioneered effect; this does not include the Tinker sphere as a base sphere (and is presumed to always be included).
 
-**Prerequisites**: If an inventioneered effect has prerequisites (minimum level or ranks in the associated skill, etc.), it is listed here.
+**Prerequisites:** If an inventioneered effect has prerequisites (minimum level or ranks in the associated skill, etc.), it is listed here.
 
-**Effect**: This is the inventioneered effect’s properties, including its basic effects, battery use ability (if any), and so on.
+**Effect:** This is the inventioneered effect’s properties, including its basic effects, battery use ability (if any), and so on.
 
 # Inventioneering Expanded [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 Inventioneering as a ruleset was initially written as a way to provide coverage for concepts and abilities that were not able to be properly explored with the original Tinker sphere’s release. This includes certain feats of “high technology” or setting-specific forms of technology because the Tinker sphere, as an already massive undertaking, had the goal of most accurately covering as many classic technology concepts as possible.
 
@@ -104,7 +104,7 @@ With that context, this section contains new and expanded rules for *Ultimate En
 
 To simplify the inventioneering process, and use the term inventioneering less:
 
-The process of creating an inventioneered effect is to **invent**(**inventing**, and so on).
+The process of creating an inventioneered effect is to **invent** (**inventing**, and so on).
 
 A gizmo (or option that modifies or expands on an existing gizmo) is referred to as an **invented effect**, which can include an **invented gizmo**.
 
@@ -146,8 +146,8 @@ Below are some sample inventioneered effects of varying complexity.
 
 #### Advanced Firearm Modifications [DRS]
 
-**Complexity**: 6
-**Prerequisites**: (modification) package, Weapon Modifications, Ranged Set, advanced effect (see below)
+**Complexity:** 6
+**Prerequisites:** (modification) package, Weapon Modifications, Ranged Set, advanced effect (see below)
 
 In games where advanced firearms are widely available, it may be appropriate to treat this as though it were not an advanced effect. *Modifications* from this invention cannot be applied to siege weapons.
 
@@ -157,14 +157,14 @@ In games where advanced firearms are widely available, it may be appropriate to 
 
 **Modification: Extended Magazine (gizmo):** This *modification* is attached to a firearm or other mechanical ranged weapon with a base capacity of 2 or more. An extended magazine increases the modified weapon’s capacity by 50%, +50% per 5 gizmo levels. If the modified weapon has an ability that allows it to fire its entire capacity (such as a double-barreled shotgun), the number of shots fired by that ability is not increased by this *modification*.
 
-- **Advanced Gizmo**: You may craft an extended magazine as an advanced gizmo. If you do, it can also be attached to mechanical ranged weapons with capacities of 1. When attached to such a weapon, it increases the capacity by +1, +1 per 10 gizmo levels.
+- **Advanced Gizmo:** You may craft an extended magazine as an advanced gizmo. If you do, it can also be attached to mechanical ranged weapons with capacities of 1. When attached to such a weapon, it increases the capacity by +1, +1 per 10 gizmo levels.
 
 **Modification: Firearm Emulation (gizmo):** This *modification* is attached to a crossbow or other non-firearm mechanical ranged weapon that must be loaded (except siege weapons). The modified weapon is treated as an early firearm. It resolves attacks within its first range increment as touch attacks, misfires on a 1, and has a misfire radius of 5 feet. This does not change the type of ammunition the weapon uses, the action required to load it, or its proficiency type or weapon group.
 
 #### Device (gizmo, minor, project) [DRS]
 
-**Complexity**: 1
-**Prerequisites**: none
+**Complexity:** 1
+**Prerequisites:** none
 
 **Effect:** A device is a simple minor gizmo that has no functionality of its own but can gain accommodations and host routines.
 
@@ -172,15 +172,15 @@ In games where advanced firearms are widely available, it may be appropriate to 
 
 #### Dirty Pick [DRS]
 
-**Complexity**: 5
-**Prerequisites**: (transmission) package, Disruption Set, Infiltration Set, Infiltration sphere.
+**Complexity:** 5
+**Prerequisites:** (transmission) package, Disruption Set, Infiltration Set, Infiltration sphere.
 
 **Effect:** You can craft an auto-pick as an advanced gizmo (a “dirty pick”). A dirty pick may be used to perform dirty trick combat maneuvers at range with the dirty pick’s remote hacking ability.
 
 #### Disruptor Research [DRS]
 
-**Complexity**: 4
-**Prerequisites**: Disruption Set, advanced effect.
+**Complexity:** 4
+**Prerequisites:** Disruption Set, advanced effect.
 
 **Effect:** You gain the following options.
 
@@ -207,10 +207,10 @@ In games where advanced firearms are widely available, it may be appropriate to 
 
 #### Firestarter (gizmo, minor)
 
-**Complexity**: 2
-**Talents**: Emergency Gear
+**Complexity:** 2
+**Talents:** Emergency Gear
 
-**Effect**: This gizmo can create fire and easily portable sources of heat. A firestarter is lit as a standard action, remains lit until extinguished, and can perform any of the following functions as part of lighting the fire. If the firestarter is already lit, its functions may be used as a swift action.
+**Effect:** This gizmo can create fire and easily portable sources of heat. A firestarter is lit as a standard action, remains lit until extinguished, and can perform any of the following functions as part of lighting the fire. If the firestarter is already lit, its functions may be used as a swift action.
 
 A firestarter may perform the following options:
 
@@ -219,7 +219,7 @@ A firestarter may perform the following options:
 - As a melee touch attack, deal 1d4 fire damage per 2 gizmo levels plus the gizmo’s practitioner modifier (increasing to 1d8 per 2 gizmo levels against creatures with the cold subtype or vulnerability to fire). A creature damaged this way is ignited for 1d6 fire damage (Reflex negates).
 - Weld, warp, or melt metal (requiring 1 minute per inch of metal) or provide sufficient heat for metalworking, blacksmithing, etc.
 
-- **Battery Use**: The user may deplete 1 battery as part of lighting the firestarter (or as part of using it as a swift action) to spray a gout of flames in a 30-foot cone or 60-foot line, chosen when used. Creatures caught in the area of effect take damage as though damaged by the firestarter’s touch attack.
+- **Battery Use:** The user may deplete 1 battery as part of lighting the firestarter (or as part of using it as a swift action) to spray a gout of flames in a 30-foot cone or 60-foot line, chosen when used. Creatures caught in the area of effect take damage as though damaged by the firestarter’s touch attack.
 
 #### Improved Nightvision (gizmo) [DRS]
 
@@ -252,22 +252,22 @@ A launcher can be loaded with items up to size Tiny, +1 size category for every 
 
 #### Nanomachines (gizmo)
 
-**Complexity**: 5
-**Talents**: (augmentation) package, (computation) package, Medical Set, advanced effect
+**Complexity:** 5
+**Talents:** (augmentation) package, (computation) package, Medical Set, advanced effect
 
-**Effect**: When you craft a gizmo from the Medical Set talent, you may improve the gizmo’s effects by infusing them with nanomachines.
+**Effect:** When you craft a gizmo from the Medical Set talent, you may improve the gizmo’s effects by infusing them with nanomachines.
 
 The following nanomachine customizations are available, with additional related prerequisites as noted:
 
-- **Constant Repair (Health Optimizer)**: When you craft a health optimizer, the *routine* constantly produces small nanomachines. The health optimizer’s battery use ability is treated as being constantly active, but the health optimizer’s effective gizmo level is halved.
-- **Nanite Injector (Rapid Injector) (requires 5 ranks in associated skill)**: Instead of storing potions or liquids, the rapid injector can directly apply nanomachines to the user. A rapid injector modified this way has a single chamber and can be used as a swift action. When used, the user reduces the duration of any one condition they are suffering from by 1 round per 2 gizmo levels. The nanite injector can be refilled as part of maintaining your gizmos.
-  - **Battery Use**: The user can deplete 1 battery as an immediate action in response to a failed saving throw that would apply a condition to the user. The user may immediately attempt a new saving throw against the effect, taking the new result.
-- **Nanomachine Implant (Prosthetic Organ) (requires 5 ranks in associated skill)**: you may craft a prosthetic organ as an advanced gizmo, creating a nanomachine implant. Nanomachine implants reduce bleed by 1 each round (potentially ending the bleed effect, if it reaches 0), increasing by +1 per 3 gizmo levels.
-  - **Battery Use**: The user can deplete 1 battery as a free action to activate the nanomachine implant’s ability to harden in response to trauma for 1 minute per gizmo level. For the gizmo’s duration, the user gains DR /– equal to the nanomachine implant’s bleed reduction per round; this damage reduction improves by +2 each time the user takes physical damage (which could be reduced by this ability’s damage reduction). This increase stacks with itself, but is reduced by 1 each round the user does not take physical damage (to a minimum of the nanomachine implant’s bleed reduction). An attack which deals less damage than this gizmo’s damage reduction does not trigger this ability’s damage reduction increase.
+- **Constant Repair (Health Optimizer):** When you craft a health optimizer, the *routine* constantly produces small nanomachines. The health optimizer’s battery use ability is treated as being constantly active, but the health optimizer’s effective gizmo level is halved.
+- **Nanite Injector (Rapid Injector) (requires 5 ranks in associated skill):** Instead of storing potions or liquids, the rapid injector can directly apply nanomachines to the user. A rapid injector modified this way has a single chamber and can be used as a swift action. When used, the user reduces the duration of any one condition they are suffering from by 1 round per 2 gizmo levels. The nanite injector can be refilled as part of maintaining your gizmos.
+  - **Battery Use:** The user can deplete 1 battery as an immediate action in response to a failed saving throw that would apply a condition to the user. The user may immediately attempt a new saving throw against the effect, taking the new result.
+- **Nanomachine Implant (Prosthetic Organ) (requires 5 ranks in associated skill):** you may craft a prosthetic organ as an advanced gizmo, creating a nanomachine implant. Nanomachine implants reduce bleed by 1 each round (potentially ending the bleed effect, if it reaches 0), increasing by +1 per 3 gizmo levels.
+  - **Battery Use:** The user can deplete 1 battery as a free action to activate the nanomachine implant’s ability to harden in response to trauma for 1 minute per gizmo level. For the gizmo’s duration, the user gains DR /– equal to the nanomachine implant’s bleed reduction per round; this damage reduction improves by +2 each time the user takes physical damage (which could be reduced by this ability’s damage reduction). This increase stacks with itself, but is reduced by 1 each round the user does not take physical damage (to a minimum of the nanomachine implant’s bleed reduction). An attack which deals less damage than this gizmo’s damage reduction does not trigger this ability’s damage reduction increase.
 
 #### Presentation Aid [DRS]
 
-**Complexity**: 4
+**Complexity:** 4
 **Prerequisites:** (computation) package, Emotion Set, Sensory Set
 
 **Effect:** You may craft a storage *routine* as an advanced gizmo (a “presenter” *routine*). A presenter can contain digital artwork (or a copy thereof) created by the Artifice sphere. If the presenter routine is installed in or can transmit this artwork to a suitable display (or directly to a creature through a sensory *prosthetic*), the artwork can be interacted with normally.
@@ -282,27 +282,27 @@ Additionally, the presenter gains the following battery use ability:
 
 #### Primitive AI (gizmo) [DRS]
 
-**Complexity**: 6
+**Complexity:** 6
 **Prerequisites:** (computation) package, Advanced Computation, advanced effect
 
 **Computation: Primitive AI (gizmo, routine) [Advanced Gizmo]:** When crafting this *routine*, choose an AI classification you could craft. The primitive AI grants the *routine* benefit of the chosen AI classification.
 
 #### Secure Shelter (gizmo)
 
-**Complexity**: 2
-**Talents**: Exploration Set
+**Complexity:** 2
+**Talents:** Exploration Set
 
-**Effect**: You construct a gizmo that, when activated, harmlessly expands over the course of 1 minute. The secure shelter is a 10-foot cube, plus 1 10-foot cube per 4 gizmo levels. If the secure shelter would be unable to expand and occupy a space, it ceases expanding. The secure shelter functions similarly to the environmental cabin (upgrade), creating a hospitable environment with controlled temperature and breathable air. The secure shelter possesses an airlock that can create an airtight seal between the outside and inside of the secure shelter.
+**Effect:** You construct a gizmo that, when activated, harmlessly expands over the course of 1 minute. The secure shelter is a 10-foot cube, plus 1 10-foot cube per 4 gizmo levels. If the secure shelter would be unable to expand and occupy a space, it ceases expanding. The secure shelter functions similarly to the environmental cabin (upgrade), creating a hospitable environment with controlled temperature and breathable air. The secure shelter possesses an airlock that can create an airtight seal between the outside and inside of the secure shelter.
 
 The secure shelter, in addition to its normal defensive statistics as a gizmo, possesses energy resistance to all energy types equal to 10 + its gizmo level.
 
 The secure shelter collapses down into a portable state when deactivated.
 
-- **Battery Use**: The user may deplete 1 battery as part of activating the secure shelter. The secure shelter expands in 1 round (rather than 1 minute).
+- **Battery Use:** The user may deplete 1 battery as part of activating the secure shelter. The secure shelter expands in 1 round (rather than 1 minute).
 
-**Project**: A secure shelter may optionally be constructed as a project; the project cost is 800 gp, plus 400 gp per 4 gizmo levels (representing each additional 10-foot cube).
+**Project:** A secure shelter may optionally be constructed as a project; the project cost is 800 gp, plus 400 gp per 4 gizmo levels (representing each additional 10-foot cube).
 
-**Special - (Transportation) Package**: A secure shelter may be affixed to a vehicle, such as a suitably large *mechanoid*, to allow it to be transported (as though towing) or configured similarly. The secure shelter’s airlock may be positioned inward to the *mechanoid*, such that creatures must pass from the inside of the *mechanoid* (such as through its passenger seats/inner cabin area) to enter the secure shelter.
+**Special - (Transportation) Package:** A secure shelter may be affixed to a vehicle, such as a suitably large *mechanoid*, to allow it to be transported (as though towing) or configured similarly. The secure shelter’s airlock may be positioned inward to the *mechanoid*, such that creatures must pass from the inside of the *mechanoid* (such as through its passenger seats/inner cabin area) to enter the secure shelter.
 
 #### Sleep Technology (gizmo) [DRS]
 
@@ -315,7 +315,7 @@ The secure shelter collapses down into a portable state when deactivated.
 
 #### Stochastic Foresight (gizmo) [DRS]
 
-**Complexity**: 4
+**Complexity:** 4
 **Prerequisites:** (computation) package, advanced effect
 
 **Computation: Stochastic Denoiser (gizmo, routine) [Advanced Gizmo]:** This *routine* has no effect unless its battery use ability is used.
@@ -330,24 +330,24 @@ The secure shelter collapses down into a portable state when deactivated.
 
 #### Zipline
 
-**Complexity**: 2
-**Talents**: Grappling Hook
+**Complexity:** 2
+**Talents:** Grappling Hook
 
 Grappling hooks you craft can be modified with this ability.
 
-**Effect**: The grappling hook winch can be anchored to a surface within the user’s natural reach as part of firing the grappling hook. A creature may attach or detach themselves to any point along the grappling hook’s cord as a move or swift action.
+**Effect:** The grappling hook winch can be anchored to a surface within the user’s natural reach as part of firing the grappling hook. A creature may attach or detach themselves to any point along the grappling hook’s cord as a move or swift action.
 
 While attached to the cord, the creature moves up or down the cord each round at the end of their turn at a speed equal to 20 + 5 feet per 2 gizmo levels, +10 feet if moving from a higher elevation to a lower elevation. A creature moves the chosen direction until they reach the end of the cord (and automatically detach) or may choose a new direction as a move or swift action. A creature may choose to ascend or descend the cord at a slower speed, chosen each round.[/div]
 
 ## Class Feature Inventions [DRS]
 
-**Source:** [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 This section contains sample inventions that specifically interact with class features. These can be novel ways to integrate Tinker into a character whose abilities may not normally mesh well.
 
 #### Explorer’s Gear (gizmo) [DRS]
 
-**Complexity**: 2
+**Complexity:** 2
 **Prerequisites:** (modification) package, Exploration Set
 
 **Modification: Explorer’s Gear (gizmo) [Advanced Gizmo]:** This *modification* is attached to footwear or a suit of clothing. When crafting this *modification*, choose a single favored terrain (as though selecting a ranger’s favored terrain). A user with the favored terrain class feature is treated as having a favored terrain bonus of +2 in the chosen terrain for all purposes.
@@ -356,7 +356,7 @@ This section contains sample inventions that specifically interact with class fe
 
 #### Mechanical Flexibility (gizmo) [DRS]
 
-**Complexity**: 2
+**Complexity:** 2
 **Prerequisites:** (augmentation) package, Cognitive Set
 
 **Augmentation: Mechanical Flexibility (gizmo) [Advanced Gizmo]:** This *augmentation* is a personal gizmo that can only be used if you possess the martial flexibility ability or the Barroom Brawler feat. It grants the following personal battery use abilities:
@@ -367,7 +367,7 @@ This personal battery use depletes 1 additional battery for each time it has bee
 
 #### Radio Coordination [DRS]
 
-**Complexity**: 2
+**Complexity:** 2
 **Prerequisites:** (transmission) package, Transmission Mastery
 
 **Effect:** If the user possesses the tactician class feature, the user may use a communicator to transmit their tactician ability. If you do, instead of granting benefits to creatures within a fixed radius, the user instead grants their tactician’s benefits to any number of creatures within signal range (provided that they have a communicator with this option).
@@ -376,24 +376,24 @@ This personal battery use depletes 1 additional battery for each time it has bee
 
 As a guideline to assist with inventioneering, this section lays out some of the basic design principles that went into creating the sphere:
 
-**Generally**: Tinker sphere is meant to make discrete, specific effects available to martials, non-magically. Magic vs. non-magic has always been contentious (balance, counter-options, price, etc.), so Tinker has tried to ensure a specialist mage does not lose their specialty, but the ability to fly, or command creatures, or create explosions is not out of the hands of a technologically themed character or a martial looking to expand their options.
+**Generally:** Tinker sphere is meant to make discrete, specific effects available to martials, non-magically. Magic vs. non-magic has always been contentious (balance, counter-options, price, etc.), so Tinker has tried to ensure a specialist mage does not lose their specialty, but the ability to fly, or command creatures, or create explosions is not out of the hands of a technologically themed character or a martial looking to expand their options.
 
 Dedicated Tinker sphere practitioners go both “vertically” (specializing) and “horizontally” (diversifying) as they gain new talents, building on what they can already do but also gaining new gizmos to create as they specialize further.
 
 When creating a gizmo, compare against existing precedent (items and equipment, class features, spells, etc.) to see if the option exists and balance expectations against the existing option.
 
-**Bonus Types and Effects**: The Tinker sphere makes use of its five packages, as well as non-packed gizmo abilities and options to make certain effects accessible in thematic bundles.
+**Bonus Types and Effects:** The Tinker sphere makes use of its five packages, as well as non-packed gizmo abilities and options to make certain effects accessible in thematic bundles.
 
 Each Tinker package also has a “common bonus type”, or a specific typed bonus that gizmos of that kind will offer. Presented here is a loose guideline, however, bonuses from gizmos may vary depending on the gizmo, its effects, etc.
 
-- **Augmentation**: “Internal” effects and effects that directly modify the user.
-  - **Common Bonus Type**: Competence. Bonuses from *augmentations* are often conditional or “provided” by the augment in question.
-- **Computation**: “Advisory” effects, such as targeting routines or AI.
-  - **Common Bonus Type**: Insight. *Routines* operate similarly to an advisor or “over the shoulder” presence to guide or provide minor advantages which add up.
-- **Modification**: Effects that directly modify a user’s equipment.
-  - **Common Bonus Type**: Circumstance. Bonuses from *modifications* are directly relevant to the attached equipment in question and generally only apply when using that equipment.
-- **Transmission**: Effects that reveal information, or allow for interaction at range.
-  - **Common Bonus Type**: Insight (if any). Transmission does not frequently grant bonuses, although when available, it would operate similarly to a bonus from the (computation) package (although circumstances may vary).
-- **Transportation**: Effects that modify a *mechanoid*, or offer effects from other packages to a crafted *mechanoid.*
+- **Augmentation:** “Internal” effects and effects that directly modify the user.
+  - **Common Bonus Type:** Competence. Bonuses from *augmentations* are often conditional or “provided” by the augment in question.
+- **Computation:** “Advisory” effects, such as targeting routines or AI.
+  - **Common Bonus Type:** Insight. *Routines* operate similarly to an advisor or “over the shoulder” presence to guide or provide minor advantages which add up.
+- **Modification:** Effects that directly modify a user’s equipment.
+  - **Common Bonus Type:** Circumstance. Bonuses from *modifications* are directly relevant to the attached equipment in question and generally only apply when using that equipment.
+- **Transmission:** Effects that reveal information, or allow for interaction at range.
+  - **Common Bonus Type:** Insight (if any). Transmission does not frequently grant bonuses, although when available, it would operate similarly to a bonus from the (computation) package (although circumstances may vary).
+- **Transportation:** Effects that modify a *mechanoid*, or offer effects from other packages to a crafted *mechanoid.*
   - ***Common Bonus Type**: Racial, size, and untyped. Bonuses to //mechanoids* are generally exclusive to *mechanoids* and inherent to the creature.
 

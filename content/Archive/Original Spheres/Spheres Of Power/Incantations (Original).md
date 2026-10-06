@@ -101,45 +101,45 @@ When creating an incantation, first decide which sphere or spheres it most thema
 
 Each summary below specifies the range, target, duration, and other aspects of an incantation associated with a particular sphere.
 
-**Alteration:** **Skill Check**DC 32;**Range**Close;**Target**one creature;**Duration**minutes;**Saving Throw**Fortitude negates (or harmless);**SR** yes
+**Alteration:** **Skill Check** DC 32; **Range** Close; **Target** one creature; **Duration** minutes; **Saving Throw** Fortitude negates (or harmless); **SR** yes
 
-**Conjuration:** **Skill Check**DC 30;**Range**Close;**Target**one creature;**Duration**hours;**Saving Throw**Will negates (harmless);**SR** yes (harmless)
+**Conjuration:** **Skill Check** DC 30; **Range** Close; **Target** one creature; **Duration** hours; **Saving Throw** Will negates (harmless); **SR** yes (harmless)
 
-**Creation:** **Skill Check**DC 30;**Range**Close;**Target**one 20 ft cube of matter;**Duration**hours;**Saving Throw**Will negates (harmless);**SR** yes (harmless)
+**Creation:** **Skill Check** DC 30; **Range** Close; **Target** one 20 ft cube of matter; **Duration** hours; **Saving Throw** Will negates (harmless); **SR** yes (harmless)
 
-**Dark:** **Skill Check**DC 30;**Range**Medium;**Area**20 ft radius burst (or 1 person for meld);**Duration**minutes;**Saving Throw**none or Fortitude negates (harmless);**SR** no or yes (harmless)
+**Dark:** **Skill Check** DC 30; **Range** Medium; **Area** 20 ft radius burst (or 1 person for meld); **Duration** minutes; **Saving Throw** none or Fortitude negates (harmless); **SR** no or yes (harmless)
 
-**Death:** **Skill Check**DC 34;**Range**Close;**Target**one or more creatures or corpses;**Duration**instantaneous;**Saving Throw**Fortitude negates (or none);**SR** no
+**Death:** **Skill Check** DC 34; **Range** Close; **Target** one or more creatures or corpses; **Duration** instantaneous; **Saving Throw** Fortitude negates (or none); **SR** no
 
-**Destruction:** **Skill Check**DC 32;**Range**Close;**Area**5 ft wide bolt or 20 ft radius burst;**Duration**instantaneous;**Saving Throw**Reflex half;**SR** yes
+**Destruction:** **Skill Check** DC 32; **Range** Close; **Area** 5 ft wide bolt or 20 ft radius burst; **Duration** instantaneous; **Saving Throw** Reflex half; **SR** yes
 
-**Divination:** **Skill Check**DC 30;**Range**long;**Target**personal;**Duration**minutes;**Saving Throw**none;**SR** no
+**Divination:** **Skill Check** DC 30; **Range** long; **Target** personal; **Duration** minutes; **Saving Throw** none; **SR** no
 
-**Enhancement:** **Skill Check**DC 32;**Range**Close;**Target**one creature or 20 cubic ft of matter;**Duration**minutes;**Saving Throw**Fortitude negates (or harmless);**SR** yes
+**Enhancement:** **Skill Check** DC 32; **Range** Close; **Target** one creature or 20 cubic ft of matter; **Duration** minutes; **Saving Throw** Fortitude negates (or harmless); **SR** yes
 
-**Fate:** **Skill Check**DC 32;**Range**medium;**Area**5 ft wide bolt or 20 ft radius burst;**Duration**instantaneous;**Saving Throw**Reflex half;**SR** yes
+**Fate:** **Skill Check** DC 32; **Range** medium; **Area** 5 ft wide bolt or 20 ft radius burst; **Duration** instantaneous; **Saving Throw** Reflex half; **SR** yes
 
-**Illusion:** **Skill Check**DC 32;**Range**touch;**Target**one living creature or 20 cubic ft of matter;**Duration**minutes;**Saving Throw**Will disbelief;**SR** yes
+**Illusion:** **Skill Check** DC 32; **Range** touch; **Target** one living creature or 20 cubic ft of matter; **Duration** minutes; **Saving Throw** Will disbelief; **SR** yes
 
-**Life:** **Skill Check**DC 32;**Range**medium;**Target**1 creature;**Duration**instantaneous;**Saving Throw**Fortitude negates (harmless);**SR** yes (harmless)
+**Life:** **Skill Check** DC 32; **Range** medium; **Target** 1 creature; **Duration** instantaneous; **Saving Throw** Fortitude negates (harmless); **SR** yes (harmless)
 
-**Light:** **Skill Check**DC 30;**Range**medium;**Area**20 ft radius burst;**Duration**minutes;**Saving Throw**None;**SR** yes
+**Light:** **Skill Check** DC 30; **Range** medium; **Area** 20 ft radius burst; **Duration** minutes; **Saving Throw** None; **SR** yes
 
-**Mind:** **Skill Check**DC 32;**Range**close;**Target**one living creature;**Duration**minutes;**Saving Throw**Will negates;**SR** yes
+**Mind:** **Skill Check** DC 32; **Range** close; **Target** one living creature; **Duration** minutes; **Saving Throw** Will negates; **SR** yes
 
-**Nature:** **Skill Check**DC 30;**Range**close;**Area**20 ft radius burst;**Duration**minutes;**Saving Throw**Reflex negates;**SR** yes
+**Nature:** **Skill Check** DC 30; **Range** close; **Area** 20 ft radius burst; **Duration** minutes; **Saving Throw** Reflex negates; **SR** yes
 
-**Protection:** **Skill Check**DC 32;**Range**close;**Target**one or more creatures, no two of which can be more than 30 ft apart;**Duration**minutes;**Saving Throw**Will negates (harmless);**SR** yes (harmless)
+**Protection:** **Skill Check** DC 32; **Range** close; **Target** one or more creatures, no two of which can be more than 30 ft apart; **Duration** minutes; **Saving Throw** Will negates (harmless); **SR** yes (harmless)
 
-**Telekinesis:** **Skill Check**DC 32;**Range**close;**Target**one or more creatures or objects, no two of which can be more than 30 ft apart;**Duration**minutes;**Saving Throw**Will negates;**SR** yes
+**Telekinesis:** **Skill Check** DC 32; **Range** close; **Target** one or more creatures or objects, no two of which can be more than 30 ft apart; **Duration** minutes; **Saving Throw** Will negates; **SR** yes
 
-**Time:** **Skill Check**DC 32;**Range**close;**Target**one or more creatures, no two of which can be more than 30 ft apart;**Duration**minutes;**Saving Throw**Fortitude negates;**SR** yes
+**Time:** **Skill Check** DC 32; **Range** close; **Target** one or more creatures, no two of which can be more than 30 ft apart; **Duration** minutes; **Saving Throw** Fortitude negates; **SR** yes
 
-**War:** **Skill Check**DC 32;**Range**close;**Area**20 ft radius burst;**Duration**rounds;**Saving Throw**Fortitude negates (harmless);**SR** yes (harmless)
+**War:** **Skill Check** DC 32; **Range** close; **Area** 20 ft radius burst; **Duration** rounds; **Saving Throw** Fortitude negates (harmless); **SR** yes (harmless)
 
-**Warp:** **Skill Check**DC 30;**Range**close;**Target**one creature;**Duration**instantaneous;**Saving Throw**Fortitude negates;**SR** yes
+**Warp:** **Skill Check** DC 30; **Range** close; **Target** one creature; **Duration** instantaneous; **Saving Throw** Fortitude negates; **SR** yes
 
-**Weather:** **Skill Check**DC 32;**Range**medium;**Area**20 ft radius burst;**Duration**minutes;**Saving Throw**none;**SR** no
+**Weather:** **Skill Check** DC 32; **Range** medium; **Area** 20 ft radius burst; **Duration** minutes; **Saving Throw** none; **SR** no
 
 #### Modify DC
 
@@ -221,14 +221,14 @@ In an incantation description, using the current example, an opposed check would
 #### Ceaseless Forge
 
 The Rose Forge was once the workshop of a peerless mage-artisan who produced countless wonders. No one knows the secret to her work and how she produced her art so effortlessly, but a careful examination of the Rose Forge might reveal her secret. Along the walls are curious notations and decorations that are actually an obscure form of musical notation, while an eye for architecture or magic will note how the place is designed for both acoustics and a peculiar telekinetic resonance.
-**Sphere:** Telekinesis;**Level:** 3rd
+**Sphere:** Telekinesis; **Level:** 3rd
 **Skill Checks:** in order—Spellcraft DC 20 1 success, Perform (singing) DC 20 1 success, Craft DC 20 1 success; see below
 **Casting Time** 2 Hours or more (see below)
 **Components** S, V
 **Range** Touch
 **Target** One workshop
 **Duration** Instantaneous
-**Saving Throw**None,**SR** No
+**Saving Throw** None, **SR** No
 **Description**
 This incantation was used by the artisan of the Rose Forge to operate and wield the countless tools of the forge without any assistance, orchestrating an army of instruments with magicalone. By utilizing the precise harmonics of the forge and sound responsive magic infused into the tools and machines, a careful craftsman can perform work with astounding speed, producing weeks worth of work in only hours.
 
@@ -246,13 +246,13 @@ If you fail the initial Spellcraft check the ritual fails but you are not exhaus
 
 #### Commune With Nature
 
-**Sphere**Divination;**Level** 5th
+**Sphere** Divination; **Level** 5th
 **Skill Check** in order Knowledge (Nature) DC 20, Knowledge (Geography) DC 20, Knowledge (Nature) DC 20, 1 success each.
 **Casting Time** 1 hour
 **Components** V, S, SP
 **Target** Personal
 **Duration** 10 minutes
-**Saving Throw**none;**SR** no
+**Saving Throw** none; **SR** no
 **Description** Skill checks are made on the day of a solstice or equinox inside a druid’s hallowed stone circle, which are made once every 20 minutes. Attempts on performing the incantation outside the required location or day increases the skill check DC by +20, usually resulting in failure.
 
 Secondary performers may aid in this incantation, while not required, sufficient secondary performers decreases all the skill check DCs by an appropriate amount.
@@ -266,13 +266,13 @@ Upon successfully completing the incantation, the performers suffer from the eff
 #### Create Fairy Ring
 
 While many fairy rings occur naturally, they can be created.
-**Sphere**Fallen Fey;**Level** 5th
+**Sphere** Fallen Fey; **Level** 5th
 **Skill Checks** In order: Knowledge (nature) DC 23 1 success, Knowledge (geography) DC 23 1 success, Knowledge (planes) DC 23 1 success, Perform (dance) DC 23 3 successes
 **Casting Time** 2 hours
 **Components:** S, V, M (spores taken from fungus native to fairy or stones taken from Faerie)
 **Target** unoccupied natural ground of at least 10 ft. in diameter.
 **Duration** Instantaneous
-**Saving Throw**N/A;**SR** N/A
+**Saving Throw** N/A; **SR** N/A
 
 **Description**
 To begin the incantation, the primary performer seeds the ground with spores taken from a fungus native to Faerie or places stones taken from Faerie, making the Knowledge (nature) check. The destination is then fixed by making the knowledge (geography) and Knowledge (planes) checks. The performers (at least 20 total, though creatures of the fey type count double) then dance vigorously around the circle, causing the fairy ring to form. Regardless of the result, all performers must succeed on a DC 18 Fortitude save or be fatigued at the end of the incantation.
@@ -289,13 +289,13 @@ Source: The Abjurer's Handbook
 
 While most often used to close planar rifts between the human world and more hellish dimensions, it may be used to close rifts between other planes as well. While this incantation may be used to permanently close other permanent portals or planar gates, the incantation is usually considered too costly for something so minor.
 
-**Sphere:** Protection or Warp;**Level** 8th
+**Sphere:** Protection or Warp; **Level** 8th
 **Skill Checks** In order: Craft (calligraphy or stonemasonry) DC 50 3 successes, Knowledge (planes) DC 50 4 successes, Perform (oratory or sing) DC 50 1 success
 **Casting Time:** 2 hours
 **Components:** S, V, F (3 gemstones worth 5,000 gp or more each, or a single gemstone worth 25,000 gp or more)
 **Target:** 1 rift or tear between planes
 **Duration:** 100 years
-**Saving Throw:** none;**SR** no
+**Saving Throw:** none; **SR** no
 
 **Description**
 To begin the incantation, Craft checks are made to inscribe the focus (or foci) with runes. Runestones made in this fashion must be inscribed in the presence of the planar rift to be sealed shut. Knowledge (planes) checks are then used first to determine the proper placement of the focus (or foci), and to determine the best language used to seal the planar tear. To bring the incantation to a close, the Perform check is used to chant the sealing chant. If 100 or more secondary performers aid in this incantation, decrease the skill DC’s by 10.
@@ -310,7 +310,7 @@ Upon successfully completing the incantation, the focus will begin to glow and b
 
 Some say the world will end in ice, the entirety of it turned to glaciers and tundra, with little growing and ravenous predators roaming the land. And there are some who believe it is their destiny to bring about this wintry end. By invoking ancient sagas and investing a menhir with their own life force, they believe they can cover the world in a shroud of frost. They may be right.
 
-**Sphere**Weather;**Level** 9th
+**Sphere** Weather; **Level** 9th
 **Skill Checks** in order—Knowledge (religion) DC 38 4 successes, Craft (stonework) DC 38 1 success, Perform (oratory) DC 38 4 success
 **Casting Time** 9 days (cast during a time of war)
 **Components** V, S, F (monolith of semi-precious stone worth 30,000 gp).
@@ -332,13 +332,13 @@ Primary performer and all secondary performers are reduced to -1 hp, and 2d12 wi
 
 Source: The Abjurer's Handbook
 
-**Sphere:** Protection;**Level** 5th
+**Sphere:** Protection; **Level** 5th
 **Skill Check:** In order: Knowledge (engineering) DC 24 4 successes, Knowledge (planes) DC 24 1 success.
 **Casting Time:** 50 minutes
 **Components:** S, V, F (4 stone structures such as menhir, obelisks, or statues worth a minimum of 5,000 gp each)
 **Effect:** 2 mile radius barrier of force centered on the primary performer
 **Duration:** 10 hours
-**Saving Throw:** None;**SR:** Yes (harmless)
+**Saving Throw:** None; **SR:** Yes (harmless)
 
 **Description**
 Knowledge (engineering) checks are made once every 10 minutes (one per stone) verifying the correct angular positioning of their placement in relation to the other stones and the epicenter to which the primary performer stands. As many as four secondary performers may aid in this incantation, taking upon themselves a single negative level from that which the primary performer would suffer. Once each of the stones is placed, the primary performer positions themselves according to the current zodiac positioning with a Knowledge (planes) check. Each performer (primary or secondary) must then without magical coercion willingly and freely state that they offer themselves up as sacrifice.
@@ -352,14 +352,14 @@ Upon successfully completing the incantation, a barrier of force (similar to tha
 #### Landrise Rite
 
 Firefall’s Crest is a ruined keep, destroyed in a mysterious disaster in ages past. Yet curious structures and fading images hint at the keep’s old glory, and the ultimate source of its downfall: flight. While once it was suspended high in the sky, the force that held it aloft failed and dashed it to the ground. But if the old rituals were uncovered, Firefall’s Crest could be restored to its ancient heights.
-**Sphere:** Telekinesis;**Level:** 7th
+**Sphere:** Telekinesis; **Level:** 7th
 **Skill Checks:** in order—Knowledge (geography) DC 30 2 successes, Knowledge (local) DC 30 1 success, Spellcraft DC 34 4 successes.
 **Casting Time:** 1 week
 **Components:** S, V, M (gem dust worth 25,000 gp or more)
 **Range:** Touch
 **Area:** 100 ft radius
 **Duration:** Instantaneous
-**Saving Throw:** None,**SR:** No
+**Saving Throw:** None, **SR:** No
 **Description**
 While once a closely guarded secret of the keep, this incantation can be found by a careful search of the ruins. The Landrise Rite consists of two parts: first, precise delineation of the keep’s geomancy to separate it from the earth, and second, imbuing its central chamber with telekinetic power to release it from the bonds of gravity. Each check performed involves a full day of ritual work, allowing enough time for the performers to rest.
 
@@ -378,13 +378,13 @@ If you fail two consecutive knowledge (geography) or (local) checks you cannot a
 #### Petition the Fates
 
 By contacting beings outside of space and time you may contract a power that will aid you or those you know in accomplishing a quest.
-**Sphere**Fate;**Level** 9th
+**Sphere** Fate; **Level** 9th
 **Skill Checks** Knowledge (history) DC 35 2 successes, Knowledge (planes) DC 35 2 successes, Knowledge (religion) DC 35 2 successes; in order—Diplomacy DC 35 2 successes, Linguistics DC 35 1 success
 **Casting Time** 1 hour (cast at the start of a rare cosmic event)
 **Components** V, S, M (three sculpted idols worth 10,000 gp each).
 **Target** Primary performer
 **Duration** instantaneous
-**Saving Throw**none;**SR** no
+**Saving Throw** none; **SR** no
 
 **Description**
 Those that research ‘The Fates’ may find that a certain numerology exists that can be used to count the days leading up to a particularly rare astrological event (such as a planetary alignment involving multiple solar systems) (the Knowledge (history) checks). Through further research, one may determine the exact hours that the cosmic event will occur (the Knowledge (planes) checks).
@@ -408,14 +408,14 @@ Those that fail 2 consecutive knowledge checks fail to perform the incantation c
 #### Ragnarok
 
 Through sacrilege, blasphemy, and murder, you call upon the lower planes to bring about destruction and an infestation of fiends.
-**Sphere**Destruction;**Level** 9th
+**Sphere** Destruction; **Level** 9th
 **Skill Checks** Knowledge (the planes) DC 27 4 successes, Knowledge (religion) DC 27 5 successes
 **Casting Time** 8 hours (cast during the new moon)
 **Components** V, S, M (35,000 gp worth of good-aligned magic items, sacrifice of 13 creatures with Intelligence of at least 3).
 **Secondary Casters** 12
 **Area** 1 mile radius
 **Duration** instantaneous and 18 days, see text
-**Saving Throw**Reflex half, see text;**SR** no
+**Saving Throw** Reflex half, see text; **SR** no
 
 **Description**
 After a night-long depraved ritual involving the profaning of good-aligned relics and culminating in the torture and sacrifice of thirteen sentient beings, a massive burst of infernal energy washes out from the site of casting. All creatures within one mile (including all surviving casters) take 10d6 profane damage (Reflex half). Good-aligned beings take an additional 5d6 damage. Immediately after, a 90’ radius portal (as the Warp advanced talent) opens to one of the lower planes, chosen by the caster. 2d10 balors, olethrodaemons, or pit fiends, as appropriate to the chosen plane, emerge immediately and attack any beings they come across (including all surviving casters). These may be followed by any other fiend native to the chosen plane. The portal closes in 18 days, but any fiends who have come through it remain.
@@ -431,14 +431,14 @@ This incantation can be modified as if by the extend spell by doubling the mater
 
 #### Reincarnate
 
-**Sphere**Life;**Level** 4th
+**Sphere** Life; **Level** 4th
 **Skill Check** in order Survival DC 23, Knowledge (Planes) DC 23, Diplomacy DC 23, Survival DC 23, Heal DC 23, Knowledge (Nature) DC 23, 1 success each.
 **Casting Time** 1 hour
 **Components** V, S, SP, M (Oils and Herbs worth 500 gp)
 **Range** 45 ft
 **Target** 1 dead creature
 **Duration** Instantaneous
-**Saving Throw**none;**SR** no
+**Saving Throw** none; **SR** no
 **Description** Skill checks are made inside a druid’s hallowed stone circle, which are made once every 10 minutes. Attempts on performing the incantation outside the required location increases each skill check DC by +20, usually resulting in failure. Secondary performers may aid in this incantation, while not required, a sufficient number of secondary performers decreases the skill check DCs by the appropriate amount.
 
 Upon successfully completing the incantation, the performers of the incantation bring back the spirit of the target dead creature into another body, provided that the subject’s soul is willing to return. If the subject’s soul is not willing to return, the incantation does not work; therefore, a subject that wants to return receives no saving throw.
@@ -471,14 +471,14 @@ Below are the Race Point Power Level values. Refer to Pathfinder Roleplaying Gam
 #### Rite of Waking Slumber
 
 To have the aid of a master magician at a difficult time may come with a cost, though that cost need not be taxing, and one’s life may be richer afterward for the gamble. Those who dare the risk may become an agent… for a week, a year, a lifetime, or a moment… of a mage versed in a tradition passed from the elves to the dwarves and merfolk and on to the arcane lords of other lands where magic and warfare go hand in hand.
-**Sphere**Mind;**Effective Level** 6th
+**Sphere** Mind; **Effective Level** 6th
 **Skill Checks** Knowledge (Arcana) DC 26 1 success, in order—Heal DC 26 1 success, Bluff DC 26 1 success, Craft (Alchemy) DC 26 2 successes, Bluff DC 26 1 success
 **Casting Time** 6 hours
 **Components** V, S, M (alchemically treated wine worth 200 gp, drunk during the incantation), F (diamond prism, silver chalice, and tattoo equipment collectively worth 2,000 gp)
 **Range** touch
 **Target** one living humanoid, giant, or monstrous humanoid
 **Duration** Instantaneous
-**Saving Throw**no;**SR** yes
+**Saving Throw** no; **SR** yes
 
 **Description**
 One who has convinced a sufficiently powerful magician to perform the Rite of Waking Slumber to this ritual is subjected to a six hour procedure wherein the performer exercises the muscles of their target, places them into a highly suggestive state, creates and administers an alchemically treated wine (which the target must drink), and implants post-hypnotic suggestions. During the procedure, the performer also incorporates alchemical inks into a tattoo somewhere on the target’s body, which acts as both a conduit for the initial placement of the magic and as the basis for a mental bond between the performer and target. Other aids, usually courtiers or acolytes of the performer, are required to assist the performer in gathering magic and perfecting the alchemical treatments.
@@ -495,13 +495,13 @@ Failure on the Knowledge (arcana) check causes a buildup of mental energy that c
 
 Performing a ritual to restore life to the dead is a complicated thing — and it’s not guaranteed that you’ll be able to bring them back. Or at least, not that you’ll bring them back the same way. That said, a well-stocked laboratory can at least allow you to make the attempt, if you’re willing to slave away for hours.
 
-**Sphere**Life**Level** 5th
+**Sphere** Life **Level** 5th
 **Skill checks in order**-Craft (Alchemy) DC 24 1 successes, Heal DC 24 4 successes
 **Casting Time** 5 hours
 **Components** S, V, M (500 gp worth of oils and medicine, to be used in the revival process)
 **Target** One dead creature
 **Duration** instantaneous
-**Saving Throw**Fortitude (Harmless);**SR** Yes (Harmless)
+**Saving Throw** Fortitude (Harmless); **SR** Yes (Harmless)
 
 **Description**
 By brewing a concoction that was rumored to restore life to the dead, you can attempt to revive the fallen. The process takes hours, as the medicine must be injected carefully into every square inch of the body in painfully small increments, and deal with the tremors and complications that arise during the process.
@@ -520,14 +520,14 @@ If one check is failed, the target returns with the damaged soul template. If th
 
 There exists a dream of a river, meandering through lands both real and imaginary. Believed to be related to the bounteous forces of the natural world, and tied to myths of the origin of willpower, this river is often sought by studious wielders of arcane power but rarely mastered. The chaotic and gentle flow is known by more fishermen and sailors than by wizards and incanters; in fact, only the calm, relaxed business of fishing seems appropriate for catching a dream, and then only with a specially prepared bait. While this structure of the mind flows through a consciousness, the maintainer of such a dreamscape gains a great defense against forces that act from beyond the grave though risks greater danger of facing a watery one.
 
-**Sphere**Mind;**Effective Level** 4
+**Sphere** Mind; **Effective Level** 4
 **Skill Checks in order**—Craft (Alchemy) DC 18 1 success, Profession (Fisher) DC 18 2 successes, Spellcraft DC 18 1 success
 **Casting Time** 4 hours
 **Components** S, M (aged cheese worth 150 gp to be alchemically treated and used as bait), F (masterwork heirloom fishing rod of darkwood worth at least 1,000 gp)
 **Range** Personal
 **Target** Self
 **Duration** 8 hours
-**Saving Throw**Will negates (harmless);**Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 **Description**
 To perform this incantation, one must engage in a true act of fishing. First, one must alchemically alter the aged cheese into being the perfect bait for catching a dream. Then one must begin fishing at a suitably calm stream or river. Finally, once the dream takes the bait, one must use the fishing rod to channel the magical energies necessary to weave the dream into one’s own mind. The River of Reverie will always appear near the primary performer in their dreamscape, flowing through the land and providing a scenic view that always interposes itself between any undead creatures who enter the dreamscape. Any supernatural, spell-like, or extraordinary abilities employed by the undead creature to target the performer in their dreamscape automatically fail as if line of sight and line of effect were both blocked, and as if the target were out of range of the effect. However, the supernatural, spell-like, or extraordinary abilities of creatures with the aquatic subtype or water subtype automatically succeed against the performer. Spells or sphere-effects not related to the being’s nature are not affected by this.
@@ -541,13 +541,13 @@ If you fail the Craft (Alchemy) check twice, the cheese is wasted and must be re
 #### Steal Lifeblood
 
 Sacrificing others is a time-honored way for the evil to postpone their judgment.
-**Sphere**Blood;**Level** 5th
+**Sphere** Blood; **Level** 5th
 **Skill Checks** in order—Heal DC 25 (1 success per sacrificial victim), Knowledge (religion) DC 25, 3 successes.
 **Casting Time** 1 hour
 **Components** S, M (1 HD of creature sacrificed per target HD)
 **Target** one willing or helpless living creature
 **Duration** instantaneous
-**Saving Throw**none;**SR** yes
+**Saving Throw** none; **SR** yes
 
 **Description**
 The sacrificial victims, intelligent creatures (Intelligence greater than 2) at least 1 age category younger than the target, are exsanguinated (Heal) and the target bathes in their blood while dark powers are invoked (Knowledge (religion)).
@@ -563,13 +563,13 @@ All primary and secondary performers are exhausted. The target ages 1 age catego
 #### Summoning Diagram
 
 Wise conjurers take precautions before calling on the denizens of other planes.
-**Sphere**Conjuration;**Level** 3rd
+**Sphere** Conjuration; **Level** 3rd
 **Skill Checks** Knowledge (planes) DC 15 +5 per size category above Small 1 success, Knowledge (arcana) DC 15 + 5 per size category above Small 1 success.
 **Casting Time** 1 hour
 **Components** S, M (25 gp worth of powdered silver per Small-sized creature that will fit in the circle, a Medium creature counts as two Small creatures, a Large creature counts as two Medium creatures, etc.)
 **Target** a number squares of level, empty ground sufficient to contain a creature of the circle’s size (1 square for Medium or Small creatures, 4 squares for Large, etc.)
 **Duration** instantaneous
-**Saving Throw**none;**Spell Resistance** no
+**Saving Throw** none; **Spell Resistance** no
 
 **Description**
 The primary performer spreads the powdered silver to make a summoning diagram, making the Knowledge checks to ensure the integrity of the circle. If successful, the result is a summoning diagram per the Diagram advanced talent of the Conjuration sphere. The diagram lasts until disrupted or the creature is released from the circle or banished, consuming the diagram.
@@ -585,13 +585,13 @@ The diagram appears completed, but provides no bonuses. The performers are unawa
 #### Summon Extraplanar Being
 
 With proper research and suitable payment, anyone can call upon the denizens of the planes.
-**Sphere**Conjuration;**Level** 3rd
+**Sphere** Conjuration; **Level** 3rd
 **Skill Checks** Knowledge (nature or planes) DC 15 + 1 per Hit Dice of called creatures 2 successes, Knowledge (arcana) DC 15 + 1 per Hit Dice of called creatures 1 success.
 **Casting Time** 1 hour
 **Components** S, M (25 gp worth of powdered silver per Small-sized creature that will fit in the circle, a Medium creature counts as two Small creatures, a Large creature counts as two Medium creatures, etc.)
 **Target** A number of Hit Dice of outsiders
 **Duration** instantaneous
-**Saving Throw**Will negates;**Spell Resistance** no
+**Saving Throw** Will negates; **Spell Resistance** no
 
 **Description**
 The performers may call upon a powerful creature from another plane. Calling takes one of two forms: allies and hostiles. If you summon a servant of an extraplanar being with which you have a strong connection (i.e., a cleric summoning a servant of its god) they are considered an ally. All other creatures are considered hostiles, regardless of their disposition towards the caster. GMs have the final say in whether or not a character is capable of summoning allies. The caster level of this ability is equal to (the Knowledge check DC-10)/2.
@@ -611,14 +611,14 @@ All performers gain 1 permanent negative level. Additionally, the target is awar
 #### Temporal Menhir [High. HB]
 
 Sometimes a druid requires knowledge lost to the passage of time. This incantation allows druids to use their hallowed druid circles to travel 200 years into the past to acquire this information first hand, and then return to their own century. Many others have attempted to instead use this incantation to change history, but more often than not found the task difficult, if not impossible, as most time travelers end up putting events in motion that create the timeline they wished to prevent in the first place.
-**Sphere**Time;**Level** 9th
+**Sphere** Time; **Level** 9th
 **Skill Check** in order Knowledge (geography) DC 26; Knowledge (religion) DC 26, Knowledge (history) DC 26, 3 successes each.
 **Casting Time** 90 minutes
 **Components** S, F, M (gemstone worth 500 gp)
 **Range** touch
 **Target** primary performer
 **Duration** instantaneous
-**Saving Throw**Fortitude negates;**SR** yes
+**Saving Throw** Fortitude negates; **SR** yes
 **Description** This incantation can only be used in a stone circle (with Knowledge (geography)). Failing to locate an appropriate area, causes the incantation to fail without any backlash or material components expended.
 
 Once found, the primary performer must ensure that the stone circle has been hallowed by druids (with Knowledge (religion)). If the stone circle has not been appropriately hallowed, the land must be consecrated before the incantation may continue. The primary performer may choose to abandon the incantation at this time, without any backlash or material components expended. Once it has been determined that the location is a hallowed druid stone circle, the performer must verify that the stone circle is at least 200 years old (with Knowledge (history)).
@@ -647,13 +647,13 @@ For the purposes of this incantation, a hallowed druid stone circle is any area 
 #### The Motion Archival
 
 Hidden far beneath the earth is a secret, ancient labyrinth: the dusty halls of the Ancestral Repository. Within its dizzying maze rest endlessly slumbering monsters, fabled treasures, forgotten mysteries, and the immortal guardians who watch over it all and keep it safe. Those in the service of these guardians know an incantation by which any object or entity of interest can be returned to the Repository from afar: The Motion Archival.
-**Sphere**Warp;**Effective Level** 4th
+**Sphere** Warp; **Effective Level** 4th
 **Skill Checks** in order - Knowledge (arcana) DC 20 2 successes, Knowledge (local) DC 20 1 success, Diplomacy DC 20 1 success
 **Casting Time** 1 minute
 **Components** S, V
 **Target** one creature or object
 **Duration** instantaneous
-**Saving Throw**Will negates;**SR:** yes
+**Saving Throw** Will negates; **SR:** yes
 **Description**
 Granted only to the allies of the Ancestral Repository, this incantation offers an object or creature to the Repository and requests that the immortal guardians take custody of it. The incantation uses a circle of blood to call the attention of the guardians to the target, which is then followed by a petition to one of the guardians.
 
@@ -677,13 +677,13 @@ The intent of the incantation is to send important things such as artifacts or p
 #### The River Returns
 
 The island city of Great Delta is a nexus of magic and water, countless rivers running into and from the lake it is built within. As the heart of all waterflows in the region, the city has a mystic link to even the most distant rivers. This link may be used by a clever and careful magician to travel swiftly back to Great Delta from far afield.
-**Sphere**Warp;**Effective Level** 6th
+**Sphere** Warp; **Effective Level** 6th
 **Skill Checks** in order - Knowledge (geography) DC 22 1 success, Spellcraft DC 22 1 success, Swim DC 20 4 successes.
 **Casting Time** 30 minutes
 **Components** S, V, F (a river)
 **Target** up to 8 willing creatures
 **Duration** instantaneous
-**Saving Throw**none;**SR:** no
+**Saving Throw** none; **SR:** no
 **Description**
 Developed by the water magi of Great Delta, this incantation allows a traveling magi or one of their allies to make their way back to the city. By calling upon the natural flow of water and the power held within the city rivers, this magic can link a nearby river to the distant rivers of the city, and so by swimming down the river an individual can instantly return to Great Delta.
 
@@ -705,13 +705,13 @@ In general this incantation should only be adapted to one or two major locations
 #### Transfer Years
 
 Death cannot be cheated, but he can be bribed.
-**Sphere**Time;**Level** 5th
+**Sphere** Time; **Level** 5th
 **Skill Checks** Heal DC 30 2 successes, Knowledge (Arcana) DC 30 1 success
 **Casting Time** 1 hour
 **Components** S, V
 **Target** Two willing or helpless living creatures
 **Duration** instantaneous
-**Saving Throw**none;**SR** yes
+**Saving Throw** none; **SR** yes
 
 **Description**
 This ritual ages the primary target creature by 2 years per point that the lower of the two Heal skill checks exceeds the DC, and decreases the age of the secondary target (either the primary performer or a creature within 30 ft. designated by the primary performer) by half the number of years added to the initial target. The initial target takes ability score penalties (but not bonuses) from aging as normal. The secondary target may reduce ability score penalties from aging, but retains any bonuses. Bonuses do not increase with repeated aging and de-aging.
@@ -727,13 +727,13 @@ All primary and secondary performers age 1d4 x 10 years, taking penalties and ga
 #### Timeless Tontine
 
 A pact sealed in blood, the target removed from time.
-**Sphere**Time;**Level** 7th
+**Sphere** Time; **Level** 7th
 **Skill Checks** Heal DC 35, 1 success per performer, Knowledge (Arcana) DC 35 1 success
 **Casting Time** 1 hour
 **Components** S, V, M (blood from all performers)
 **Target** One creature or object
 **Duration** see text
-**Saving Throw**none;**SR** yes
+**Saving Throw** none; **SR** yes
 
 **Description**
 All performers shed their blood to form a pact, locking the target away outside of time for as long as they live. The target is removed from time as the Eject Time sphere talent until the death of the last performer.

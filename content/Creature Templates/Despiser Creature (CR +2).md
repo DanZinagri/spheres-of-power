@@ -20,7 +20,7 @@ There are eldritch abominations in non-Euclidian and subtle realms beyond our re
 
 **Armor Class:** The despiser creature loses any armor or natural armor bonuses and gains a deflection bonus to Armor Class equal to its Charisma bonus or +1, whichever is higher. If the base creature already has a deflection bonus, use the higher value.
 
-**Defensive Abilities:** incorporeal, rejuvenation;**Weakness** vulnerability to gaze attacks
+**Defensive Abilities:** incorporeal, rejuvenation; **Weakness** vulnerability to gaze attacks
 
 **Speed:** A despiser creature gains a fly speed equal to double the base creature’s highest speed, with perfect maneuverability. If the base creature already has a fly speed, it increases to double the base creature’s highest speed, and its maneuverability class becomes perfect.
 
@@ -41,4 +41,4 @@ There are eldritch abominations in non-Euclidian and subtle realms beyond our re
 
 **Vulnerability to Gaze Attacks (Ex):** A despiser creature suffers a -4 penalty against all gaze attacks and loses any resistance or immunity it has to the effects of a gaze attack.
 
-**Abilities:** Increase from the base creature as follows:**Dex**+6 (+3 to ranged attack rolls; AC and touch AC, Initiative, and Ref saves, +3 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +3 to any of the base creature’s Dexterity-based DCs),**Con**+6 (+3 hp per HD, +3 to Fortitude saves, and any of the base creature’s Constitution-based DCs),**Wis**-4 (-2 to Will saves, -2 to Heal, Perception, Profession, Sense Motive and Survival checks, add -2 to any of the base creature’s Wisdom-based DCs),**Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Dex** +6 (+3 to ranged attack rolls; AC and touch AC, Initiative, and Ref saves, +3 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +3 to any of the base creature’s Dexterity-based DCs), **Con** +6 (+3 hp per HD, +3 to Fortitude saves, and any of the base creature’s Constitution-based DCs), **Wis** -4 (-2 to Will saves, -2 to Heal, Perception, Profession, Sense Motive and Survival checks, add -2 to any of the base creature’s Wisdom-based DCs), **Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs).

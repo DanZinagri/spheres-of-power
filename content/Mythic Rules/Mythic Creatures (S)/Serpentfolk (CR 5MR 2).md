@@ -13,14 +13,14 @@ This serpentine humanoid has bright scaly skin, a long sinuous tail, and a fange
 XP 1,600
 Pathfinder Roleplaying Game Bestiary 2
 NE Medium monstrous humanoid (mythic)
-**Init**+10;**Senses** darkvision 60 ft., scent; Perception +10
+**Init** +10; **Senses** darkvision 60 ft., scent; Perception +10
 
 #### Defense
 
-**AC**21,**touch**16,**flat-footed** 15 (+6 Dex, +5 natural)
+**AC** 21, **touch** 16, **flat-footed** 15 (+6 Dex, +5 natural)
 **hp** 62 (5d10+35)
-**Fort**+6,**Ref**+10,**Will** +6
-**Defensive Abilities** **Immune**mind-affecting effects, paralysis, poison;**SR** 17
+**Fort** +6, **Ref** +10, **Will** +6
+**Defensive Abilities** **Immune** mind-affecting effects, paralysis, poison; **SR** 17
 
 #### Offense
 
@@ -35,10 +35,10 @@ At will—disguise self (humanoid form only, DC 14), ventriloquism
 
 #### Statistics
 
-**Str**8,**Dex**23,**Con**17,**Int**18,**Wis**15,**Cha** 16
-**Base Atk**+5;**CMB**+4;**CMD** 20
+**Str** 8, **Dex** 23, **Con** 17, **Int** 18, **Wis** 15, **Cha** 16
+**Base Atk** +5; **CMB** +4; **CMD** 20
 **Feats** Great Fortitude, Improved Initiative, Weapon FinesseMF
-**Skills**Acrobatics +11, Disguise +8, Escape Artist +19, Knowledge (arcana) +9, Perception +10, Sense Motive +7, Spellcraft +9, Use Magic Device +12;**Racial Modifiers** +4 Use Magic Device, +8 Escape Artist
+**Skills** Acrobatics +11, Disguise +8, Escape Artist +19, Knowledge (arcana) +9, Perception +10, Sense Motive +7, Spellcraft +9, Use Magic Device +12; **Racial Modifiers** +4 Use Magic Device, +8 Escape Artist
 **Languages** Aklo, Common, Draconic, Undercommon; telepathy 100 ft.
 
 #### Ecology
@@ -51,7 +51,7 @@ At will—disguise self (humanoid form only, DC 14), ventriloquism
 
 **Overwhelming Suggestion (Su)** A mythic serpentfolk adds its mythic rank to the DC for its suggestion spell. A target that succeeds on its Will save must make a second Will save the next round or succumb to the suggestion.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 17;**frequency**1/round for 6 rounds;**effect**1d2 Str;**cure** 2 saves. The save DC is Constitution- based and includes a +2 racial bonus.
+**Poison (Ex)** Bite—injury; **save** Fort DC 17; **frequency** 1/round for 6 rounds; **effect** 1d2 Str; **cure** 2 saves. The save DC is Constitution- based and includes a +2 racial bonus.
 
 **Potent Venon (Ex)** The DC of a mythic serpentfolk’s poison gains a +2 racial bonus. On a successful hit with its bite attack, a mythic serpentfolk may expend one use of its mythic power to increase the save DC of its poison by its mythic rank and the effect of the poison to 1d4 points of Strength damage with each failed save.
 

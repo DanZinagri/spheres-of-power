@@ -12,28 +12,28 @@ The stench of death billows forth as this hulking beast spreads its ragged, scab
 **Fell Drake (CR 12/MR 5)**
 XP 19,200
 NE Huge dragon (mythic)
-**Init**+10MF;**Senses** darkvision 60 ft., low-light vision; Perception +17
+**Init** +10MF; **Senses** darkvision 60 ft., low-light vision; Perception +17
 **Aura** frightful presence (30 ft., DC 18), stench (30 ft., DC 21, 1 minute), unnatural aura
 
 #### Defense
 
-**AC**29,**touch**9,**flat-footed** 28 (+4 armor, +1 Dex, +16 natural, –2 size)
+**AC** 29, **touch** 9, **flat-footed** 28 (+4 armor, +1 Dex, +16 natural, –2 size)
 **hp** 199 (13d12+115)
-**Fort**+13,**Ref**+9,**Will** +9
-**Defensive Abilities**DR 10/epic;**Immune** disease, dragon traits, energy drain, fear, negative energy, paralysis and sleep
+**Fort** +13, **Ref** +9, **Will** +9
+**Defensive Abilities** DR 10/epic; **Immune** disease, dragon traits, energy drain, fear, negative energy, paralysis and sleep
 **Weaknesses** light sensitivity
 
 #### Offense
 
 **Speed** 20 ft., fly 60 ft. (average)
 **Melee** bite +19 (4d6+8/19–20 plus 1d3 Con drain), tail slap +14 (2d6+4)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** carrion breath, draining biteMA, lingering breathMA (1d8 acid and 1d8 negative energy, 5 rounds), mythic power (5/day, surge 1d8), plummetMA, rider’s baneMA
 
 #### Statistics
 
-**Str**27,**Dex**13,**Con**20,**Int**9,**Wis**12,**Cha** 14
-**Base Atk**+13;**CMB**+23;**CMD** 34
+**Str** 27, **Dex** 13, **Con** 20, **Int** 9, **Wis** 12, **Cha** 14
+**Base Atk** +13; **CMB** +23; **CMD** 34
 **Feats** CleaveMF, Flyby Attack, Great Cleave, Improved Critical (bite), Improved InitiativeMF, Improved Natural Attack (bite), Power AttackMF
 **Skills** Acrobatics +14, Fly +13, Intimidate +13, Perception +17, Stealth +9, Survival +9
 **Languages** Draconic

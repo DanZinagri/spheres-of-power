@@ -18,7 +18,7 @@ An agent of chaos uses all the base creature’s statistics and special abilitie
 
 **Alignment:** Change the creature’s alignment to Chaotic Neutral.
 
-**Defenses/Qualities:** Immunity to magic (an agent of chaos is immune to spells or spell-like abilities that allow spell resistance, save for spells with the law descriptor).**Weakness:** Vulnerability to law (agents of chaos takes half again as much damage (+50%) from a lawful-aligned weapon or spell with the law descriptor regardless of whether a saving throw is allowed or if the save is a success or failure). It also takes a –4 penalty on saves against spells and effects that cause or use the law descriptor.
+**Defenses/Qualities:** Immunity to magic (an agent of chaos is immune to spells or spell-like abilities that allow spell resistance, save for spells with the law descriptor). **Weakness:** Vulnerability to law (agents of chaos takes half again as much damage (+50%) from a lawful-aligned weapon or spell with the law descriptor regardless of whether a saving throw is allowed or if the save is a success or failure). It also takes a –4 penalty on saves against spells and effects that cause or use the law descriptor.
 
 **Special Abilities:** An agent of chaos creature gains the following special abilities.
 
@@ -183,7 +183,7 @@ The victim dies 3d12 hours after symptoms first appear, unless he has been cured
 
 **Abilities:**
 
-Increase from the base creature as follows: **Str**+4 (+2 to melee attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD),**Dex**+4 (+2 to ranged attacks; AC and touch AC, Initiative, and Ref saves, +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to all of the base creature’s Dexterity-based DCs),**Con**+6 (+3 hp per HD, +3 to Fortitude saves, and all of the base creature’s Constitution-based DCs),**Int**+2 (add 1 bonus language, add 1 skill point per HD, +1 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks, and +1 to all of the base creature’s Intelligence-based DCs),**Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks, attempts to influence others, and channel energy DCs, +2 to all of the base creature’s Charisma-based DCs).
+Increase from the base creature as follows: **Str** +4 (+2 to melee attack and damage, +2 to Climb and Swim skill checks, +2 to Strength, and CMB checks, +2 to CMD), **Dex** +4 (+2 to ranged attacks; AC and touch AC, Initiative, and Ref saves, +2 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks, add +2 to all of the base creature’s Dexterity-based DCs), **Con** +6 (+3 hp per HD, +3 to Fortitude saves, and all of the base creature’s Constitution-based DCs), **Int** +2 (add 1 bonus language, add 1 skill point per HD, +1 to Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks, and +1 to all of the base creature’s Intelligence-based DCs), **Cha** +4 (+2 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks, attempts to influence others, and channel energy DCs, +2 to all of the base creature’s Charisma-based DCs).
 
 Reduce the base creature as follows: **Wis** -4 (-2 to Will saves, -2 to Heal, Perception, Profession, Sense Motive and Survival checks, and -2 to all of the base creature’s Wisdom-based DCs).
 

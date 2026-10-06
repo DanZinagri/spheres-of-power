@@ -10,23 +10,23 @@ Rot grub are deadly, as are swarms, and rot grub swarms are a terrible thing to 
 **Rot Grub Swarm, Apocalypse (CR 15)**
 XP 51,200
 N Fine vermin (swarm)
-**Init**+4;**Senses**blindsense 30 ft.;**Perception** +6
+**Init** +4; **Senses** blindsense 30 ft.; **Perception** +6
 
 **Defense**
-**AC**22,**touch**14,**flat-footed** 18 (+4 Dex, +8 natural)
+**AC** 22, **touch** 14, **flat-footed** 18 (+4 Dex, +8 natural)
 **hp** 217 (14d8+154)
-**Fort**+20,**Ref**+8,**Will** +10
-**Defensive Abilities**fast healing 3, swarm traits;**Immune** mind-affecting effects, weapon damage
+**Fort** +20, **Ref** +8, **Will** +10
+**Defensive Abilities** fast healing 3, swarm traits; **Immune** mind-affecting effects, weapon damage
 
 **Offense**
 **Speed** 10 ft.
 **Melee** swarm 3d6 plus distraction and infestation
-**Space**5 ft.;**Reach** 0 ft.
+**Space** 5 ft.; **Reach** 0 ft.
 **Special Attacks** distraction (DC 28), infestation
 
 **Statistics**
-**Str**23,**Dex**19,**Con**33,**Int**-,**Wis**22,**Cha** 13
-**Base Atk**+10;**CMB**+8;**CMD** 22
+**Str** 23, **Dex** 19, **Con** 33, **Int** -, **Wis** 22, **Cha** 13
+**Base Atk** +10; **CMB** +8; **CMD** 22
 
 **Special Abilities**
 **Distraction (Ex)** A creature with this ability can nauseate the creatures that it damages. Any living creature that takes damage from a creature with the distraction ability is nauseated for 1 round; a Fortitude save (DC 28) negates the effect.

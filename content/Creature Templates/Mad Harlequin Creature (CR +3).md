@@ -16,7 +16,7 @@ Deities of madness and genius, rare results from an insanity spell, or just simp
 
 **Alignment:** Changes to Chaotic Evil.
 
-**Defensive Abilities:** fast healing 1 DR 5/bludgeoning and good (if the mad harlequin’s CR is 6 or higher, increase to DR 10/ bludgeoning, magic and good; if 12 or higher, increase to 15/bludgeoning, magic, lawful, and good);**Immune** mind-affecting (see absurd thoughts)
+**Defensive Abilities:** fast healing 1 DR 5/bludgeoning and good (if the mad harlequin’s CR is 6 or higher, increase to DR 10/ bludgeoning, magic and good; if 12 or higher, increase to 15/bludgeoning, magic, lawful, and good); **Immune** mind-affecting (see absurd thoughts)
 
 **Special Abilities:** A mad harlequin creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -44,6 +44,6 @@ Deities of madness and genius, rare results from an insanity spell, or just simp
 
 **Vulnerability to Sanity (Su):** Remove curse does not remove insanity and hence cannot cure a mad harlequin. However greater restoration, heal, limited wish, miracle, or wish can restore the creature’s sanity and remove this template if it is alive. It suffers a -4 penalty to its save against these spells.
 
-**Abilities:** Increase from the base creature as follows:**Con**+6 (+3 hp per HD, +3 to Fort saves, +3 to any of the base creature’s Constitution-based DCs)**Cha** +8 (+4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to any of the base creature’s Charisma-based DCs).
+**Abilities:** Increase from the base creature as follows: **Con** +6 (+3 hp per HD, +3 to Fort saves, +3 to any of the base creature’s Constitution-based DCs) **Cha** +8 (+4 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device; attempts to influence others, and Channel Energy DCs, +4 to any of the base creature’s Charisma-based DCs).
 
 **Skills:** Mad harlequin creatures gain bonus skill ranks and a +8 racial bonus on Disguise; this is always a class skill for the base creature.

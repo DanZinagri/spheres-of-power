@@ -7,7 +7,6 @@ updated: 2026-08-09
 
 *Source: [Spheres of Guile](https://www.drivethrurpg.com/product/431419/Spheres-of-Guile?affiliate_id=549120)*
 
-# Operative Feats
 
 The following feats are mainly designed for characters made using the rules from Spheres of Guile, but any character may take them as long as they meet the prerequisites.
 
@@ -19,7 +18,7 @@ The following feats are mainly designed for characters made using the rules from
 
 #### Awesome Stunt (Combat) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Incredible stunt class feature.
 **Benefit:** Whenever you use an incredible stunt, its effects last for an additional round. Additionally, you are not fatigued (or have the condition worsen) when the incredible stunt ends.
@@ -34,7 +33,7 @@ At any point during this time, the target may trigger its effects as a swift act
 
 #### Cunning Accuracy (Combat) [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Cunning celerity class feature.
 **Benefit:** Whenever an attack you attempt is subject to a miss chance, you can expend an attack of opportunity and reduce your dodge pool in increments of 5% to reduce the miss chance affecting the attack by the same amount. If the miss chance still causes the attack to miss, your dodge pool replenishes half the expended amount from the attack (or the entire amount if you possess an ability that would normally allow you to replenish the entire amount from an attack).
@@ -43,7 +42,7 @@ If you also possess the dynamic dodge class feature, you can expend your martial
 
 #### Deific Icon [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Artifice sphere ((artwork) package), Knowledge (religion) 3 ranks, must worship a deity (or similar creature).
 
@@ -59,7 +58,7 @@ If you possess the Deific Obedience feat (or a similar 'Obedience' feat, such as
 
 #### Dual Hack [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisite:** Spellhacking sphere.
 
@@ -105,7 +104,7 @@ You have mastered your body so completely that you can control its processes wit
 
 #### Extra Advisor Lesson [DRS]
 
-**Source:** [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)
+*Source: [Diamond Spheres: Harmony & Discord](https://www.drivethrurpg.com/en/product/492540/diamond-spheres-harmony-and-discord?affiliate_id=3028400)*
 
 **Prerequisite:** Advisor 5.
 
@@ -121,7 +120,7 @@ You have mastered your body so completely that you can control its processes wit
 
 #### Extra Conduit Wonder [DRS]
 
-**Source:** [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)
+*Source: [Diamond Spheres: Thaumic Potential](https://www.drivethrurpg.com/en/product/480696/Diamond-Spheres-Thaumic-Potential?affiliate_id=3028400)*
 
 **Prerequisite:** Conduit 5.
 
@@ -185,7 +184,7 @@ Your acumen and expertise are easily expanded.
 
 #### Fane of Power (Su) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Occultism sphere, associated skill 5 ranks.
 
@@ -209,7 +208,7 @@ Additionally, an ally that is affected by one of your lyrics can spend a swift a
 
 #### Hex-woven Rite [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Occultism sphere, hex class feature.
 
@@ -217,7 +216,7 @@ Additionally, an ally that is affected by one of your lyrics can spend a swift a
 
 #### Hymnal Verse (Dual Sphere) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Occultism sphere, Performance sphere ((lyric) package).
 
@@ -291,7 +290,7 @@ This is considered to be a plan talent for the purposes of determining the numbe
 
 #### Omen-bound Strike (Su) [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Occultism sphere, associated skill 5 ranks.
 
@@ -321,7 +320,7 @@ You can hack the effect as part of its casting or activation if you cast the eff
 
 #### Ritual Specialization [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Occultism sphere, associated skill 5 ranks.
 
@@ -367,7 +366,7 @@ You add the following breakthrough to your theories:
 
 #### Song In Your Soul [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Performance sphere ((instrumental or lyric) package), associated ranks 10.
 
@@ -387,7 +386,7 @@ Additionally, you gain a +1 insight bonus to analyze skill checks made against t
 
 #### Spring In Your Step [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 **Prerequisites:** Performance sphere ((dance) package), associated ranks 10.
 
@@ -405,7 +404,7 @@ You can spend 1 hour to change the chosen (dance) talent to a different talent t
 
 #### Thaumic Retention [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Associated skill 5 ranks, Artifice sphere ((artwork) package), Spellcraft 5 ranks.
 
@@ -425,7 +424,7 @@ You may spend a plan or martial focus in place of spending a spell point to rero
 
 #### Totemic Effigy (Su) [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 **Prerequisites:** Survivalism sphere ((dredge) and (harvest) package).
 

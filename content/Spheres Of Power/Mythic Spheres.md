@@ -34,7 +34,7 @@ Finally, let's go over how all of the content is split up.
 
 **Mythic Traditions** are basically [[Casting Traditions]], but for how characters achieved their mythic abilities. These consist of drawbacks, qualities, and boons, and they can be used to heavily customize the unique mythic capabilities of each character. The GM has the final say on all of these - and should probably make them - but they serve as a foundation for Mythic Spheres that supports the creativity and flexibility this system promotes.
 
-**The Spheremaster**is the new mythic path that focuses on spherecasters. While this has a chassis of path abilities and options, it's supported by**Mythic Sphere Talents**(including mastery options for each sphere) and many**Mythic Class Abilities** (which improve characters' class abilities). In regular Mythic games, characters usually focus on their mythic path abilities, but Mythic Spheres promotes mythic sphere masteries and mythic class abilities above just the path options.
+**The Spheremaster** is the new mythic path that focuses on spherecasters. While this has a chassis of path abilities and options, it's supported by **Mythic Sphere Talents** (including mastery options for each sphere) and many **Mythic Class Abilities** (which improve characters' class abilities). In regular Mythic games, characters usually focus on their mythic path abilities, but Mythic Spheres promotes mythic sphere masteries and mythic class abilities above just the path options.
 
 **The Gifted** is the new mythic path that focuses on practitioners. It is similar in general structure to the Spheremaster, but also does well if people want to use the Dual Path mythic feat and grab abilities from the original paths, such as Champion or Guardian.
 
@@ -410,7 +410,7 @@ Add your mythic tier on Knowledge checks to learn the abilities of creatures you
 
 You gain arcane sight as a constant spell-like ability. This improves to *greater arcane sight* at mythic rank 6. In addition, you may spend a point of mythic power to cast *dispel magic* as a spell-like ability with a caster level equal to your character level. This improves to *greater dispel magic* at mythic rank 6.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 ### Mythic Aristeia [HMH]
 
@@ -431,7 +431,7 @@ This path ability may be selected multiple times, each time allowing for the sel
 
 You gain *see invisibility* as a constant spell-like ability. In addition, you may spend a point of mythic power as a free action to interact with incorporeal targets as if they were corporeal and grant your weapons and armor the ghost touch property for 1 minute.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
 ---
 
@@ -5390,10 +5390,10 @@ You can make any number of additional attacks of opportunity per round. As a swi
 
 #### Mythic Play (Mythic) [3PP]
 
-Prerequisites: Card Casting (mana pool, stagnant pool)
-Benefit: as a free action, you may spend one point of mythic power to refund all spell points you have spent since the start of your turn. This free action may be taken outside of your turn. This does not cause Mana Point Cards you have spent to be turned to their original position, and they still no longer count towards the number of spell points you may spend.
+**Prerequisites:** Card Casting (mana pool, stagnant pool)
+**Benefit:** as a free action, you may spend one point of mythic power to refund all spell points you have spent since the start of your turn. This free action may be taken outside of your turn. This does not cause Mana Point Cards you have spent to be turned to their original position, and they still no longer count towards the number of spell points you may spend.
 
-**Source:** Card Casting Bonus Content
+*Source: Card Casting Bonus Content*
 
 #### Mystic Focus (Mythic)
 

@@ -7,7 +7,7 @@ updated: 2020-11-17
 
 **Special Thanks:** Much of the content in this section was inspired by material from Sine Nomine Publishing, though it has undergone significant revisions to be more appropriate for use with the Spheres systems and is no longer compatible with the original format. If you enjoy high-powered games, we strongly recommend checking out SNP's [Godbound](https://www.drivethrurpg.com/product/185959/Godbound-A-Game-of-Divine-Heroes-Free-Edition?affiliate_id=549120) game system. (This link is to a free version of that game's rules. Physical copies of Godbound are also available at DriveThruRPG and from other fine RPG stores.)
 
-**About:** Deific Talents are**not** official Spheres material, and they are neither published nor endorsed by Drop Dead Studios. Instead, these talents represent unusual or extreme powers that go beyond even [[Advanced Talents]], and many can cause significant disruption when they appear in a game world.
+**About:** Deific Talents are **not** official Spheres material, and they are neither published nor endorsed by Drop Dead Studios. Instead, these talents represent unusual or extreme powers that go beyond even [[Advanced Talents]], and many can cause significant disruption when they appear in a game world.
 
 **Deific Talents are not appropriate (or intended) for player characters**, though temporary access to specific Deific Talents can be a plot point within the game. These talents are more appropriate for major villains, epic NPCs, and similar notable figures within a game world that the GM wants to make a step above the rest. The default rule is that player characters cannot take Deific Talents without the GM's permission. They are not a good choice for "Mythic Spheres" content.
 

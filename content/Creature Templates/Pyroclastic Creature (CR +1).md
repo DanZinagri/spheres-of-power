@@ -18,7 +18,7 @@ Pyroclastic creatures share a special bond. They look as if there were made of n
 
 **Type:** The creature gains the elemental subtype of the elements that infuse it: air, earth, and fire.
 
-**Defenses/Qualities:** Not subject to critical hits or flanking. Does not take additional damage from precision-based attacks (such as sneak attack), does not breathe, eat, or sleep;**Immune**acid, bleed, electricity, fire, paralysis, poison, sleep, sonic, and stunning;**Weakness** vulnerability to cold
+**Defenses/Qualities:** Not subject to critical hits or flanking. Does not take additional damage from precision-based attacks (such as sneak attack), does not breathe, eat, or sleep; **Immune** acid, bleed, electricity, fire, paralysis, poison, sleep, sonic, and stunning; **Weakness** vulnerability to cold
 
 **Speed:** A pyroclastic creature retains the base creature’s speeds and gains a new speed according to the element that infuses it, as given in the following sections. If the base creature already possessed the mode of movement that the element would grant, the pyroclastic creature adopts the higher of the two speeds.
 
@@ -33,6 +33,6 @@ Pyroclastic creatures share a special bond. They look as if there were made of n
 
 - **Pyroclastic Breath Weapon (Su):** Using this breath weapon is a standard action. A pyroclastic creature can only use its breath weapon attack once every 1d4 rounds, even if it possesses more than one breath weapon (such as a dragon). A pyroclastic breath weapon always starts at an intersection adjacent to the dragon and extends in a direction of the pyroclastic creature's choice. A pyroclastic breath weapon is a cone with a range based on the base creature’s size (as a true dragon, see Pathfinder Bestiary). This breath weapon deals 1d10 points of damage per HD the base creature possesses with half the damage being bludgeoning and the other half being fire. Those caught in the area can attempt Reflex saves to take half damage. The save DC against a breath weapon is 10 + 1/2 pyroclastic creature's HD + pyroclastic creature’s Con modifier (or its Cha modifier if it is a construct or undead creature). In addition, the cone of gas is poisonous; creatures that are exposed must make a successful Fortitude save (same DC negates) or suffer 1d6 points of Constitution damage per round A pyroclastic creature can use its breath weapon when it is grappling or being grappled.
 
-**Abilities:** Increase from the base creature as follows:**Str**+6 (+3 to melee attack and damage rolls (and thrown weapon damage rolls), Climb and Swim checks, CMB, CMD, Strength checks, and any of the base creature’s Strength-based DCs),**Con** +4 (+2 to Fort, +2 hp per HD, and the pyroclastic creature’s Constitution-based DCs) if the base creature has a Constitution score.
+**Abilities:** Increase from the base creature as follows: **Str** +6 (+3 to melee attack and damage rolls (and thrown weapon damage rolls), Climb and Swim checks, CMB, CMD, Strength checks, and any of the base creature’s Strength-based DCs), **Con** +4 (+2 to Fort, +2 hp per HD, and the pyroclastic creature’s Constitution-based DCs) if the base creature has a Constitution score.
 
 **Environment:** As base creature, plus any mountain and elemental borders of air, earth and fire.

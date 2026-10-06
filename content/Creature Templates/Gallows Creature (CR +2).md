@@ -22,7 +22,7 @@ The creation of a gallows creature is a ritual curse. It requires a great many p
 
 **Armor Class:** Natural armor class increases by 1 for every 2 racial Hit Dice the base creature has. But the creature loses all proficiency and cannot wear armor or shields.
 
-**Defensive Abilities:** A gallows creature gains construct traits, and fast healing equal to its Charisma score (not modifier) - this fast healing cannot heal damage dealt by fire or attacks that can overcome its DR. It loses any existing DR but gains a new type of DR based on the chart below. If the base creature has immunity or resistance to fire, it loses it. It also loses any existing SR (but gains selective anti-magic, see below).**Weakness** The gallows creature gains Vulnerability to Fire and Axe (the creature takes +50% damage from adamantine slashing and fire damage, it also suffers a –4 penalty to saving throws from fire-based spells and effects).
+**Defensive Abilities:** A gallows creature gains construct traits, and fast healing equal to its Charisma score (not modifier) - this fast healing cannot heal damage dealt by fire or attacks that can overcome its DR. It loses any existing DR but gains a new type of DR based on the chart below. If the base creature has immunity or resistance to fire, it loses it. It also loses any existing SR (but gains selective anti-magic, see below). **Weakness** The gallows creature gains Vulnerability to Fire and Axe (the creature takes +50% damage from adamantine slashing and fire damage, it also suffers a –4 penalty to saving throws from fire-based spells and effects).
 
 **Gallows Creature DR**
 

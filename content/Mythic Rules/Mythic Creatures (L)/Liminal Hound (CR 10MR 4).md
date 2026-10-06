@@ -12,14 +12,14 @@ Built sleek and low to the ground, this dog-like creature has an air of artifice
 **Liminal Hound (CR 10/MR 4)**
 XP 4,800
 N Medium outsider (extraplanar, mythic)
-**Init**+3;**Senses** darkvision 60 ft; Perception +13
+**Init** +3; **Senses** darkvision 60 ft; Perception +13
 
 #### Defense
 
-**AC**25,**touch**13,**flat-footed** 22 (+3 Dex, +12 natural)
+**AC** 25, **touch** 13, **flat-footed** 22 (+3 Dex, +12 natural)
 **hp** 165 (10d10+110)
-**Fort**+8,**Ref**+10,**Will** +8
-**Defensive Abilities**DR 5/epic,**Immune** constructed, fortificationMA, mind-affecting effects
+**Fort** +8, **Ref** +10, **Will** +8
+**Defensive Abilities** DR 5/epic, **Immune** constructed, fortificationMA, mind-affecting effects
 
 #### Offense
 
@@ -29,10 +29,10 @@ N Medium outsider (extraplanar, mythic)
 
 #### Statistics
 
-**Str**24,**Dex**17,**Con**20,**Int**5,**Wis**12,**Cha** 10
-**Base Atk**+10;**CMB**+14;**CMD** 27
+**Str** 24, **Dex** 17, **Con** 20, **Int** 5, **Wis** 12, **Cha** 10
+**Base Atk** +10; **CMB** +14; **CMD** 27
 **Feats** AlertnessMF, Combat ReflexesMF, Improved Natural Attack (bite, claws), Stand Still
-**Skills**Acrobatics +6, Climb +7, Perception +13, Sense Motive +8, Stealth +8, Survival +9 (+19 while tracking planar travelers);**Racial Modifiers** Survival +10 while tracking planar travelers
+**Skills** Acrobatics +6, Climb +7, Perception +13, Sense Motive +8, Stealth +8, Survival +9 (+19 while tracking planar travelers); **Racial Modifiers** Survival +10 while tracking planar travelers
 **Languages** Common (can’t speak)
 **SQ** inexorable trackerMA, no breath, parasitic planeshiftMA, planar instinctsMA, planar transitivityMA
 
@@ -74,7 +74,7 @@ Liminal hounds share some immunities with constructs and though they are clearly
 
 #### Liminal Plate
 
-**Aura**moderate transmutation;**CL**9th;**Weight**50 lbs.;**Price** 7,600 gp
+**Aura** moderate transmutation; **CL** 9th; **Weight** 50 lbs.; **Price** 7,600 gp
 
 **Description**
 This +2 full plate armor is made from the hide of a liminal hound. It gives its wearer a +2 insight bonus on all Survival checks made to track (+4 to track outsiders). In addition, once the liminal plate has been worn for at least 24 hours, the wearer can use know direction at will, but rather than detecting the direction of true north it reveals the direction to any planar portal within 100 feet.

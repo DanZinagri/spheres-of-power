@@ -21,12 +21,12 @@ All blood constructs gain the following abilities:
 
 XP 400
 N Tiny construct
-**Init**+1;**Senses**darkvision 60 ft.;**Perception** +4
+**Init** +1; **Senses** darkvision 60 ft.; **Perception** +4
 
 **Defense**
-**AC**13,**touch**13,**flat-footed** 12 (+1 Dex, +2 size)
+**AC** 13, **touch** 13, **flat-footed** 12 (+1 Dex, +2 size)
 **hp** 5 (1d10)
-**Fort**+0,**Ref**+1,**Will** +0
+**Fort** +0, **Ref** +1, **Will** +0
 **Immune** construct traits
 
 **Offense**
@@ -35,8 +35,8 @@ N Tiny construct
 **Special Attacks** blood mastery, drench, engulf (DC 11, 1d4+1 bludgeoning)
 
 **Statistics**
-**Str**13,**Dex**12,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+1;**CMB**+0;**CMD** 11
+**Str** 13, **Dex** 12, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +1; **CMB** +0; **CMD** 11
 
 **Ecology**
 **Environment** any
@@ -52,13 +52,13 @@ A tiny blood construct may be taken as a familiar. The master of a blood constru
 
 XP 400
 N Small construct
-**Init**+0;**Senses**darkvision 60 ft.;**Perception** +4
+**Init** +0; **Senses** darkvision 60 ft.; **Perception** +4
 
 **Defense**
-**AC**13,**touch**11,**flat-footed** 13 (+2 natural, +1 size)
+**AC** 13, **touch** 11, **flat-footed** 13 (+2 natural, +1 size)
 **hp** 21 (2d10+10)
-**Fort**+0,**Ref**+0,**Will** +0
-**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +0, **Ref** +0, **Will** +0
+**Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
@@ -66,8 +66,8 @@ N Small construct
 **Special Attacks** blood mastery, drench, engulf (DC 13, 1d6+2 bludgeoning)
 
 **Statistics**
-**Str**14,**Dex**10,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+2;**CMB**+3;**CMD** 13
+**Str** 14, **Dex** 10, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +2; **CMB** +3; **CMD** 13
 
 **Special Abilities**
 **Absorb Blood (Su)** Whenever a creature taking bleed damage is within the blood construct’s threatened area, the blood construct heals a number of hit points each round equal to the bleed damage taken by the creature. If there are multiple threatened creatures taking bleed damage, the healing does not stack, only the highest value is used.
@@ -81,13 +81,13 @@ A small blood construct may be taken as a familiar with the Improved Familiar fe
 
 XP 800
 N Medium construct
-**Init**+1;**Senses**darkvision 60 ft.;**Perception** +5
+**Init** +1; **Senses** darkvision 60 ft.; **Perception** +5
 
 **Defense**
-**AC**15,**touch**11,**flat-footed** 14 (+1 Dex, +4 natural)
+**AC** 15, **touch** 11, **flat-footed** 14 (+1 Dex, +4 natural)
 **hp** 42 (4d10+20)
-**Fort**+1,**Ref**+2,**Will** +1
-**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +1, **Ref** +2, **Will** +1
+**Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
@@ -95,8 +95,8 @@ N Medium construct
 **Special Attacks** blood mastery, drench, engulf (DC 15, 1d8+3 bludgeoning)
 
 **Statistics**
-**Str**16,**Dex**12,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+4;**CMB**+7;**CMD** 18
+**Str** 16, **Dex** 12, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +4; **CMB** +7; **CMD** 18
 
 **Special Abilities**
 **Absorb Blood (Su)** Whenever a creature taking bleed damage is within the blood construct’s threatened area, the blood construct heals a number of hit points each round equal to the bleed damage taken by the creature. If there are multiple threatened creatures taking bleed damage, the healing does not stack, only the highest value is used.
@@ -107,23 +107,23 @@ N Medium construct
 
 XP 1,600
 N Large construct
-**Init**+2;**Senses**darkvision 60 ft.;**Perception** +9
+**Init** +2; **Senses** darkvision 60 ft.; **Perception** +9
 
 **Defense**
-**AC**17,**touch**11,**flat-footed** 15 (+2 Dex, +6 natural, –1 size)
+**AC** 17, **touch** 11, **flat-footed** 15 (+2 Dex, +6 natural, –1 size)
 **hp** 74 (8d10+30)
-**Fort**+2,**Ref**+4,**Will** +2
-**DR**5/—;**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +2, **Ref** +4, **Will** +2
+**DR** 5/—; **Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** 2 slams +12 (2d6+5)
-**Space**10 ft.;**Reach** 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
 **Special Attacks** blood mastery, drench, engulf (DC 19, 2d6+5 bludgeoning)
 
 **Statistics**
-**Str**20,**Dex**14,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+8;**CMB**+14;**CMD** 26
+**Str** 20, **Dex** 14, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +8; **CMB** +14; **CMD** 26
 
 **Special Abilities**
 **Absorb Blood (Su)** Whenever a creature taking bleed damage is within the blood construct’s threatened area, the blood construct heals a number of hit points each round equal to the bleed damage taken by the creature. If there are multiple threatened creatures taking bleed damage, the healing does not stack, only the highest value is used.
@@ -134,23 +134,23 @@ N Large construct
 
 XP 3,200
 N Huge construct
-**Init**+4;**Senses**darkvision 60 ft.;**Perception** +13
+**Init** +4; **Senses** darkvision 60 ft.; **Perception** +13
 
 **Defense**
-**AC**20,**touch**12,**flat-footed** 16 (+4 Dex, +8 natural, -2 size)
+**AC** 20, **touch** 12, **flat-footed** 16 (+4 Dex, +8 natural, -2 size)
 **hp** 95 (10d10+40)
-**Fort**+3,**Ref**+7,**Will** +3
-**DR**5/—;**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +3, **Ref** +7, **Will** +3
+**DR** 5/—; **Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** 2 slams +15 (3d6+7)
-**Space**15 ft.;**Reach** 15 ft.
+**Space** 15 ft.; **Reach** 15 ft.
 **Special Attacks** blood mastery, drench, engulf (DC 22, 3d6+7 bludgeoning)
 
 **Statistics**
-**Str**24,**Dex**18,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+10;**CMB**+19;**CMD** 33
+**Str** 24, **Dex** 18, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +10; **CMB** +19; **CMD** 33
 
 **Special Abilities**
 **Absorb Blood (Su)** Whenever a creature taking bleed damage is within the blood construct’s threatened area, the blood construct heals a number of hit points each round equal to the bleed damage taken by the creature. If there are multiple threatened creatures taking bleed damage, the healing does not stack, only the highest value is used.
@@ -161,23 +161,23 @@ N Huge construct
 
 XP 6,400
 N Gargantuan construct
-**Init**+5;**Senses**darkvision 60 ft.;**Perception** +16
+**Init** +5; **Senses** darkvision 60 ft.; **Perception** +16
 
 **Defense**
-**AC**20,**touch**11,**flat-footed** 15 (+5 Dex, +9 natural, -4 size)
+**AC** 20, **touch** 11, **flat-footed** 15 (+5 Dex, +9 natural, -4 size)
 **hp** 131 (13d10+60)
-**Fort**+4,**Ref**+9,**Will** +4
-**DR**10/—;**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +4, **Ref** +9, **Will** +4
+**DR** 10/—; **Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** 2 slams +21 (4d6+12)
-**Space**20 ft.;**Reach** 20 ft.
+**Space** 20 ft.; **Reach** 20 ft.
 **Special Attacks** blood mastery, drench, engulf (DC 28, 4d6+12 bludgeoning)
 
 **Statistics**
-**Str**34,**Dex**20,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+13;**CMB**+29;**CMD** 44
+**Str** 34, **Dex** 20, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +13; **CMB** +29; **CMD** 44
 
 **Special Abilities**
 **Absorb Blood (Su)** Whenever a creature taking bleed damage is within the blood construct’s threatened area, the blood construct heals a number of hit points each round equal to the bleed damage taken by the creature. If there are multiple threatened creatures taking bleed damage, the healing does not stack, only the highest value is used.
@@ -188,23 +188,23 @@ N Gargantuan construct
 
 XP 12,800
 N Colossal construct
-**Init**+6;**Senses**darkvision 60 ft.;**Perception** +19
+**Init** +6; **Senses** darkvision 60 ft.; **Perception** +19
 
 **Defense**
-**AC**17,**touch**8,**flat-footed** 11 (+6 Dex, +9 natural, -8 size)
+**AC** 17, **touch** 8, **flat-footed** 11 (+6 Dex, +9 natural, -8 size)
 **hp** 148 (16d10+80)
-**Fort**+5,**Ref**+11,**Will** +5
-**DR**10/—;**Defensive Abilities**absorb blood,**Immune** construct traits
+**Fort** +5, **Ref** +11, **Will** +5
+**DR** 10/—; **Defensive Abilities** absorb blood, **Immune** construct traits
 
 **Offense**
 **Speed** 30 ft., swim 30 ft.
 **Melee** 2 slams +24 (6d6+16)
-**Space**25 ft.;**Reach** 25 ft.
+**Space** 25 ft.; **Reach** 25 ft.
 **Special Attacks** blood mastery, drench, engulf (DC 34, 6d6+16 bludgeoning)
 
 **Statistics**
-**Str**42,**Dex**22,**Con**-,**Int**-,**Wis**11,**Cha** 11
-**Base Atk**+16;**CMB**+40;**CMD** 56
+**Str** 42, **Dex** 22, **Con** -, **Int** -, **Wis** 11, **Cha** 11
+**Base Atk** +16; **CMB** +40; **CMD** 56
 
 **Special Abilities**
 **Absorb Blood (Su)** Whenever a creature taking bleed damage is within the blood construct’s threatened area, the blood construct heals a number of hit points each round equal to the bleed damage taken by the creature. If there are multiple threatened creatures taking bleed damage, the healing does not stack, only the highest value is used.

@@ -22,7 +22,7 @@ Dread sayona covet youth above all else. Stories of their origins claim that the
 
 **Armor Class:** Natural armor improves by +10.
 
-**Defensive Abilities:** channel resistance +6, fast healing 5 (if the dread sayona’s CR is 6 or higher increase to 10, if 12 or higher increase to 20, see living form); DR 5/good and silver (if the dread sayona’s CR is 6 or higher increase to DR 10/good and silver, if 12 or higher increase to 15/good and silver);**Immune** acid, cold, electricity, sonic, undead traits
+**Defensive Abilities:** channel resistance +6, fast healing 5 (if the dread sayona’s CR is 6 or higher increase to 10, if 12 or higher increase to 20, see living form); DR 5/good and silver (if the dread sayona’s CR is 6 or higher increase to DR 10/good and silver, if 12 or higher increase to 15/good and silver); **Immune** acid, cold, electricity, sonic, undead traits
 
 **Special Abilities:** A dread sayona creature retains all the special abilities of the base creature, plus the special abilities as described below:
 
@@ -44,4 +44,4 @@ Dread sayona covet youth above all else. Stories of their origins claim that the
 
 **Paralysis (Su):** A dread sonya’s melee and touch attacks paralyze their victims unless they succeed at a successful Fortitude save (DC 10 +1/2 the dread sayona’s HD + her Cha modifier).
 
-**Abilities:** Increase from the base creature as follows:**Str**+8 (+4 to attack and damage, +4 to Climb and Swim skill checks, +4 to Strength and CMB checks, +4 to CMD),**Dex**+6 ( +3 to ranged attack rolls; AC and touch AC, initiative checks, and Reflex saves; +3 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks; add +3 to any of the base creature’s Dexterity-based DCs),**Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks; +3 to attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs). Being undead, a dread sayona has no Constitution score.
+**Abilities:** Increase from the base creature as follows: **Str** +8 (+4 to attack and damage, +4 to Climb and Swim skill checks, +4 to Strength and CMB checks, +4 to CMD), **Dex** +6 ( +3 to ranged attack rolls; AC and touch AC, initiative checks, and Reflex saves; +3 to Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks; add +3 to any of the base creature’s Dexterity-based DCs), **Cha** +6 (+3 to Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks; +3 to attempts to influence others, and Channel Energy DCs, +3 to any of the base creature’s Charisma-based DCs). Being undead, a dread sayona has no Constitution score.

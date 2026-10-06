@@ -13,26 +13,26 @@ Bits of broken weapons, coins, and a partially digested skeleton are visible ins
 XP 1,200
 Pathfinder Roleplaying Game Bestiary (gelatinous cube)
 N Large ooze (mythic)
-**Init**–5;**Senses** blindsight 60 ft.; Perception –5
+**Init** –5; **Senses** blindsight 60 ft.; Perception –5
 
 #### Defense
 
-**AC**5,**touch**4,**flat-footed** 5 (–5 Dex, +1 natural, –1 size)
+**AC** 5, **touch** 4, **flat-footed** 5 (–5 Dex, +1 natural, –1 size)
 **hp** 58 (4d8+40)
-**Fort**+9,**Ref**–4,**Will** –4
+**Fort** +9, **Ref** –4, **Will** –4
 **Immune** electricity, ooze traits
 
 #### Offense
 
 **Speed** 15 ft.
 **Melee** slam +2 (1d6 plus 1d6 acid and paralysis)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** engulf (DC 12, 1d6 acid and paralysis), mythic power (3/day, surge 1d6), paralysis (3d6 rounds, DC 20)
 
 #### Statistics
 
-**Str**10,**Dex**1,**Con**26,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+3;**CMB**+4;**CMD** 9 (can’t be tripped)
+**Str** 10, **Dex** 1, **Con** 26, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +3; **CMB** +4; **CMD** 9 (can’t be tripped)
 **Feats** Extra Mythic Power
 **SQ** adherenceMA, silent sliderMA, transparent
 

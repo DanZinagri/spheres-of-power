@@ -11,15 +11,15 @@ parent: "[[Mythic Creatures (C)]]"
 XP 38,400
 Pathfinder Roleplaying Game Bestiary 3
 N Medium ooze (earth, extraplanar, mythic)
-**Init**–5;**Senses** blindsight 120 ft.; Perception –5
+**Init** –5; **Senses** blindsight 120 ft.; Perception –5
 **Aura** subsonic hum (60 ft., DC 24)
 
 #### Defense
 
-**AC**22,**touch**5,**flat-footed** 22 (–5 Dex, +17 natural)
+**AC** 22, **touch** 5, **flat-footed** 22 (–5 Dex, +17 natural)
 **hp** 208 (16d8+136)
-**Fort**+11,**Ref**+0,**Will** +0
-**Defensive Abilities**crystalline refractionMA, split (critical hit from a bludgeoning or sonic attack, 15 hp); DR 10/-;**Immune**cold, electricity, ooze traits;**Resist** fire 20
+**Fort** +11, **Ref** +0, **Will** +0
+**Defensive Abilities** crystalline refractionMA, split (critical hit from a bludgeoning or sonic attack, 15 hp); DR 10/-; **Immune** cold, electricity, ooze traits; **Resist** fire 20
 **Weaknesses** brittle, vulnerable to sonic
 
 #### Offense
@@ -30,10 +30,10 @@ N Medium ooze (earth, extraplanar, mythic)
 
 #### Statistics
 
-**Str**22,**Dex**1,**Con**22,**Int**—,**Wis**1,**Cha** 1
-**Base Atk**+12;**CMB**+18;**CMD** 23 (can’t be tripped)
+**Str** 22, **Dex** 1, **Con** 22, **Int** —, **Wis** 1, **Cha** 1
+**Base Atk** +12; **CMB** +18; **CMD** 23 (can’t be tripped)
 **Feats** Extra Mythic PowerMF, Potent SurgeMF, Vital StrikeMA, MF
-**Skills**Climb +14, Stealth +0 (+5 in rocky environs);**Racial Modifiers** +5 Stealth (+10 in rocky environs)
+**Skills** Climb +14, Stealth +0 (+5 in rocky environs); **Racial Modifiers** +5 Stealth (+10 in rocky environs)
 **SQ** cage of shardsMA, freeze, resonanceMA
 
 #### Ecology

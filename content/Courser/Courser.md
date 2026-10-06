@@ -289,7 +289,7 @@ The following ventures require you to be 6th level in the courser class.
 
 #### Head Smash* [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 The damage dealt by the attack is treated as continuous for the purposes of concentration checks attempted by the creature for 1 round. Additionally, the creature suffers a -4 penalty to their Intelligence and Wisdom for a number of rounds equal to the courser’s Wisdom modifier (minimum 2); a successful Fortitude save reduces the duration of this effect to 1 round. For every two courser levels beyond 6th they possess, this penalty increases by 2.
 
@@ -361,7 +361,7 @@ If the courser is successful, they learn the direction of the creature's destina
 
 #### Perpetual Acclimation [DRS]
 
-**Source:** [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)
+*Source: [Diamond Spheres: Hustle & Bustle](https://www.drivethrurpg.com/en/product/533835/diamond-spheres-hustle-bustle?src=newest%3Faffiliate_id%3D3028400)*
 
 Choose an acclimation benefit from an (acclimation) talent the courser possesses—they gain it as a constant benefit. This does not count towards the maximum number of acclimations the survivor can benefit from at once.
 
@@ -393,7 +393,7 @@ The courser gains Pin Down (*Ultimate Combat*) as a bonus feat, even if they do 
 
 #### Cook [DRS]
 
-**Source:** [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)
+*Source: [Diamond Spheres: Invention & Ingenuity](https://www.drivethrurpg.com/en/product/505704/diamond-spheres-invention-and-ingenuity?affiliate_id=3028400)*
 
 The courser can add a single entree and a flavor to a meal that they create using the forage class feature (this entree and flavor function as per the recipes class feature from the iron chef blacksmith archetype). The added entree and flavor lasts for the duration of the courser’s prepared meal (as opposed to the normal duration of the recipes ability).
 

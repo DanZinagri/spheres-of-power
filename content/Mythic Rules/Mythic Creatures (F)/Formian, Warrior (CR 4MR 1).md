@@ -13,14 +13,14 @@ Armored from head to toe in gleaming black-and-red chitin, this insectile warrio
 XP 1,200
 Pathfinder Roleplaying Game Bestiary 4
 LN Medium monstrous humanoid (mythic)
-**Init**+3 (+7 with hive mind);**Senses** blindsense 30 ft., darkvision 60 ft., hive mind; Perception +7 (+11 with hive mind)
+**Init** +3 (+7 with hive mind); **Senses** blindsense 30 ft., darkvision 60 ft., hive mind; Perception +7 (+11 with hive mind)
 
 #### Defense
 
-**AC**18,**touch**13,**flat-footed** 15 (+3 Dex, +5 natural)
+**AC** 18, **touch** 13, **flat-footed** 15 (+3 Dex, +5 natural)
 **hp** 40 (4d10+18)
-**Fort**+3,**Ref**+7,**Will** +4
-**Defensive Abilities**tirelessMA;**Immune**exhaustion, fatigue, sleep effects;**Resist** sonic 10
+**Fort** +3, **Ref** +7, **Will** +4
+**Defensive Abilities** tirelessMA; **Immune** exhaustion, fatigue, sleep effects; **Resist** sonic 10
 
 #### Offense
 
@@ -31,8 +31,8 @@ LN Medium monstrous humanoid (mythic)
 
 #### Statistics
 
-**Str**14,**Dex**17,**Con**15,**Int**11,**Wis**10,**Cha** 12
-**Base Atk**+4;**CMB**+6 (+10 grapple);**CMD** 19 (23 vs. trip)
+**Str** 14, **Dex** 17, **Con** 15, **Int** 11, **Wis** 10, **Cha** 12
+**Base Atk** +4; **CMB** +6 (+10 grapple); **CMD** 19 (23 vs. trip)
 **Feats** Extra Mythic PowerMF, Skill Focus (Acrobatics), Step Up
 **Skills** Acrobatics +10 (+14 when jumping), Climb +8, Intimidate +8, Perception +7 (+11 with hive mind), Stealth +7
 **Languages** Common; telepathy 60 ft.
@@ -52,6 +52,6 @@ LN Medium monstrous humanoid (mythic)
 
 **Javelin Barrage (Ex)** A mythic formian warrior can hurl two javelins as a standard action. If it expends one use of its mythic power, it can hurl a single javelin as a swift action, or as an immediate action if a creature within 30 feet performs an action that would provoke an attack of opportunity if the creature was threatened. This attack doesn’t provoke attacks of opportunity and allows the formian to roll twice on its attack roll, taking the better result.
 
-**Poison (Ex)**Javelin or sting—injury;**save**Fort DC 14;**frequency**1/round for 6 rounds;**effect**1d2 Dex;**cure** 1 save.
+**Poison (Ex)** Javelin or sting—injury; **save** Fort DC 14; **frequency** 1/round for 6 rounds; **effect** 1d2 Dex; **cure** 1 save.
 
 **Tireless (Ex)** As mythic formian queen.

@@ -14,17 +14,17 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Armed Combatant [SA:MD]
+#### Armed Combatant [SA:MD]
 
 The Brute sphere does not grant increased unarmed damage, confer the benefits of Improved Unarmed Strike, or count as a sphere focused on unarmed combat. You do not treat Improved Unarmed Strike as an associated feat, and cannot select this drawback if you gained the Brute sphere instead of gaining Improved Unarmed Strike. In addition, you may not perform a shove without a shield or a weapon. You gain Brace Weapon with this drawback.
 
 **Incompatible:** Burly.
 
-## Burly
+#### Burly
 
 You do not gain the shove ability. You must take the Muscular Surge talent with the bonus talent granted by this drawback.
 
-## Full Tilt [SA:MD2]
+#### Full Tilt [SA:MD2]
 
 You do not gain the shove ability. You gain Unstoppable with this drawback.
 

@@ -8,23 +8,23 @@ parent: "[[Mythic Rules]]"
 
 Convicted in their beliefs and the blue symbols devoted to their deities, nations, or clanmates, blue-painted warriors have no need for armor. As they gain greater conviction, their symbols grant them magical assistance in combat.
 
-## Weapon and Armor Proficiency
+### Weapon and Armor Proficiency
 
 A blue-painted warrior is not proficient with any type of armor. She is proficient with all simple and martial weapons and with all shields (excluding tower shields).
 
-## Blue-Painted Symbols
+### Blue-Painted Symbols
 
 Many of the benefits granted by this archetype depend on the blue-painted warrior applying fresh symbols to herself every morning, a process that requires 1 hour or preparation during which she applies 1 sp per class level worth of blessed paint. Some class abilities provided by this archetype diminish in power the longer she goes without applying fresh symbols, and those are noted with each class ability. Additionally, she loses all benefits from her symbols if she wears armor or uses a tower shield.
 
-## Armor Bonus (Ex)
+### Armor Bonus (Ex)
 
 A blue-painted warrior with freshly painted symbols gains an armor bonus to AC equal to half her class level (minimum +1). For every day she cannot apply new symbols, the armor bonus decreases by 1 (minimum +0).
 
-## Bravery (Ex)
+### Bravery (Ex)
 
 Starting at 2nd level, a blue-painted warrior with freshly painted symbols gains a +4 bonus on Will saves against fear. This bonus increases by +2 for every four levels beyond 2nd. At 14th level, she becomes immune to fear if she has freshly painted symbols. Without freshly painted symbols, this reverts to the base bravery ability. This ability modifies bravery.
 
-## Symbolic Blessings (Sp)
+### Symbolic Blessings (Sp)
 
 At 3rd level, a blue-painted warrior can receive magical power for protection or greater might from her symbols. When she applies a fresh set of symbols, she chooses 1 spell-like ability from the following list: bless, endure elements, divine favor, expeditious retreat, feather fall, jump, magic weapon, protection from chaos/evil/good/law, wrath. These are the equivalent of 1st-level spells.
 
@@ -40,7 +40,7 @@ In place of a spell-like ability, she can grant herself an enhancement bonus to 
 
 This ability replaces armor training.
 
-## Shrug it Off (Ex)
+### Shrug it Off (Ex)
 
 At 19th level, a blue-painted warrior gains a 75% chance to negate critical hits or precision damage, as if she wore armor with the heavy fortification special ability, whenever she has freshly painted symbols. The heavy fortification special ability is reduced to moderate fortification (50% chance to negate critical hits and sneak attacks) on the first day she cannot apply new symbols, and is reduced to light fortification (25% chance to negate critical hits and sneak attacks) on the second day. She gains no benefit against critical hits or sneak attacks from this ability beyond the second day of not applying new symbols.
 
@@ -48,28 +48,28 @@ This ability replaces armor mastery.
 
 ---
 
-# Mythic Blue-Painted Warrior Archetype Class Features
+## Mythic Blue-Painted Warrior Archetype Class Features
 
 A mythic blue-painted warrior becomes a beacon of hope for her allies and, by her example, inspires them to perform heroic deeds.
 
-## Mythic Blue-Painted Symbols
+### Mythic Blue-Painted Symbols
 
 If a mythic blue-painted warrior cannot apply new symbols, she can instead expend one use of mythic power to retain her class abilities..
 
-## Mythic Armor Bonus (Ex)
+### Mythic Armor Bonus (Ex)
 
 A mythic blue-painted warrior adds her mythic tier to her armor bonus. She can expend one use of mythic power to grant an ally within 30 feet an armor bonus equal to her mythic tier.
 
-## Mythic Bravery (Ex)
+### Mythic Bravery (Ex)
 
 A mythic blue-painted warrior is immune to fear from non-mythic sources regardless of her level, and her bonuses (and eventual immunity) apply to mythic sources. Additionally, she grants half her bonus (to a maximum of +4 at 10th level) to all allies within 30 feet who can see or hear her.
 
-## Mythic Symbolic Blessings (Sp)
+### Mythic Symbolic Blessings (Sp)
 
 A mythic blue-painted warrior can choose to convert any spell-like ability she has prepared for its mythic version. Additionally, as a swift action, she can expend one use of mythic power to retain a spell-like ability she has used or to spontaneously swap out a spell-like ability for one of the same equivalent spell level or lower.
 
 For spells that have multiple targets, a mythic blue-pained warrior can target her allies with the spell when she uses it on herself. For spells that only have a single target, she can expend one use of mythic power to affect all allies within 30 feet with the spell.
 
-## Mythic Shrug it Off (Ex)
+### Mythic Shrug it Off (Ex)
 
 At 19th level, a bluepainted warrior automatically negates critical hits and precision damage from non-mythic sources, regardless of whether she has fresly applied her symbols. The fortification abiilty applies to mythic sources, and is dependent on the freshness of her painted symbols. When she negates a critical hit or precision damage using this ability, she grants her allies within 30 feet who can see her a +4 morale bonus on attack and damage rolls for 1 minute.

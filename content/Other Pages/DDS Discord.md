@@ -7,7 +7,7 @@ updated: 2019-04-05
 
 ## Want to join the Drop Dead Studios Discord?
 
-Add **https://discord.gg/**to your URL bar, then add**EfDKxcH** at the end and hit 'Enter' to visit Discord online and join the official Drop Dead Studios server. You may need to sign in online to get this to work.
+Add **https://discord.gg/** to your URL bar, then add **EfDKxcH** at the end and hit 'Enter' to visit Discord online and join the official Drop Dead Studios server. You may need to sign in online to get this to work.
 
 ---
 

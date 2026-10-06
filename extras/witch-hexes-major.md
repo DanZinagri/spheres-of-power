@@ -1,7 +1,7 @@
 <!-- extras: witch-hexes | merge | Major Hexes -->
 
 #### Empowered Familiar [DRS]
-**Source:** Diamond Spheres: Magical Organizations
+*Source: Diamond Spheres: Magical Organizations*
 
 **Prerequisite:** Familiar.
 

@@ -18,16 +18,16 @@ LE Large fey (extraplanar, mythic)
 
 #### Defense
 
-**AC**38,**touch**19,**flat-footed** 28 (+9 Dex, +1 dodge, +19 natural, –1 size)
+**AC** 38, **touch** 19, **flat-footed** 28 (+9 Dex, +1 dodge, +19 natural, –1 size)
 **hp** 175 (14d6+126)
-**Fort**+10,**Ref**+18,**Will** +13
+**Fort** +10, **Ref** +18, **Will** +13
 **Defensive Abilities** DR 10/cold iron and epic
 
 #### Offense
 
 **Speed** fly 90 ft. (perfect)
 **Melee** 2 claws +14 (1d6+8), tail slap +14 (1d8+4 plus bleed), 2 wings +14 (1d8+4 plus bleed)
-**Space**10 ft.;**Reach** 5 ft.
+**Space** 10 ft.; **Reach** 5 ft.
 **Special Attacks** bleed (2d6), cold iron killer, crippling sneak attackMA, mythic power (7/day, surge +1d10), shadow doublesMMA
 
 **Spell-Like Abilities** (CL 15th; concentration +28)
@@ -38,8 +38,8 @@ At will—deeper darkness, ray of exhaustion (DC 23), silence (self only)
 
 #### Statistics
 
-**Str**26,**Dex**28,**Con**22,**Int**17,**Wis**19,**Cha** 31
-**Base Atk**+7;**CMB**+16;**CMD** 36
+**Str** 26, **Dex** 28, **Con** 22, **Int** 17, **Wis** 19, **Cha** 31
+**Base Atk** +7; **CMB** +16; **CMD** 36
 **Feats** Combat Reflexes, Death From AboveMF, Flensing StrikeDR, Flyby Attack, Improved InitiativeMF, MultiattackMF, Quicken Spell-Like Ability (deeper darkness)MF
 **Skills** Bluff +24, Escape Artist +26, Fly +32, Intimidate +21, Knowledge (nature) +20, Knowledge (planes) +17, Perception +21, Sense Motive +21, Stealth +22
 **Languages** Common, Sylvan (can’t speak any language); telepathy 100 ft.

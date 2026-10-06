@@ -10,13 +10,13 @@ This breed of the typhloter has an eel-like appearance with an eyeless head and 
 **Typhloter Assailant (CR 20)**
 XP 307,200
 CN Tiny aberration
-**Init**+6;**Senses**darkvision 60 ft., detect scrying (100 ft.);**Perception** +37
+**Init** +6; **Senses** darkvision 60 ft., detect scrying (100 ft.); **Perception** +37
 
 **Defense**
-**AC**36,**touch**29,**flat-footed** 28 (+11 Cha, +6 Dex, +7 natural, +2 size)
+**AC** 36, **touch** 29, **flat-footed** 28 (+11 Cha, +6 Dex, +7 natural, +2 size)
 **hp** 225 (30d8+90)
-**Fort**+13,**Ref**+27,**Will** +23
-**Defensive Abilities**no breath, non-euclidean;**Immune** ability drain, cold, energy drain, fire, gaze attacks, poison
+**Fort** +13, **Ref** +27, **Will** +23
+**Defensive Abilities** no breath, non-euclidean; **Immune** ability drain, cold, energy drain, fire, gaze attacks, poison
 
 **Offense**
 **Speed** 30 ft., fly 120 ft. (average), swim 60 ft.
@@ -24,8 +24,8 @@ CN Tiny aberration
 **Ranged** adhesive blast +29 (8d6 acid damage/x2), entangled 1 round (Reflex save, DC 30)
 
 **Magic**
-**Caster Level**15;**MSB**+30,**MSD**41,**Concentration** +41
-**Tradition**none;**CAM** Cha
+**Caster Level** 15; **MSB** +30, **MSD** 41, **Concentration** +41
+**Tradition** none; **CAM** Cha
 **Spell Points** 42
 
 **Destruction Sphere:** (blast type) Adhesive Blast
@@ -56,8 +56,8 @@ CN Tiny aberration
 ◊ Plane Manipulator (dimensional anchor, 150 ft. radius, concentration or 15 min., 1 sp; banish extraplanar, Will negates, 1 sp)
 
 **Statistics**
-**Str**11,**Dex**23,**Con**17,**Int**21,**Wis**19,**Cha** 33
-**Base Atk**+22;**CMB**+20;**CMD** +26
+**Str** 11, **Dex** 23, **Con** 17, **Int** 21, **Wis** 19, **Cha** 33
+**Base Atk** +22; **CMB** +20; **CMD** +26
 **Feats** Deadly Aim, Flyby Attack, Improved Natural Attack, Lurker In Darkness, Multiattack, Point-Blank Shot, Precise Shot, Skill Focus (Stealth), Sphere Focus (Destruction), Sphere Focus (Mind), Sphere Focus (Time), Stealthy, Weapon Finesse, Weapon Focus (bite), Weapon Focus (destructive blast), Weapon Focus (tendril)
 **Skills** Autohypnosis (see Psionics Unleashed) +34, Bluff +41, Fly +39, Intimidate +44, Knowledge (arcana) +38, Perception +37, Sense Motive +34, Spellcraft +38, Stealth +49
 **Languages** Aklo; telepathy 60 ft.

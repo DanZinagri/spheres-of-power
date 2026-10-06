@@ -10,15 +10,15 @@ parent: "[[Ultimate Engineering]]"
 
 *Building their own weapons and modifying them to the nines, the so-called junkshot understands best what makes their firearms tick.*
 
-**Firearm Cobbler (Ex)**: At 1st level, the junkshot gains the Tinker sphere as a bonus sphere, selecting the (modification) package, and Arsenal Set as a bonus talent. The junkshot is proficient with any firearm they craft using the Arsenal Set talent.
+**Firearm Cobbler (Ex):** At 1st level, the junkshot gains the Tinker sphere as a bonus sphere, selecting the (modification) package, and Arsenal Set as a bonus talent. The junkshot is proficient with any firearm they craft using the Arsenal Set talent.
 
 This replaces gunsmith.
 
-**Modified Guns, Bullets, and More (Ex)**: At 3rd level, the junkshot gains the Tinker sphere Weapon Modifications talent as a bonus talent.
+**Modified Guns, Bullets, and More (Ex):** At 3rd level, the junkshot gains the Tinker sphere Weapon Modifications talent as a bonus talent.
 
 In addition, the junkshot adds the following effects to the gizmos granted by the Weapon Modifications talent. A gizmo crafted with one of these additional effects is a personal gizmo, only functioning in the junkshot's hands.
 
-- **Rapid Refiner**: While the rapid refiner is active (and improving the junkshot’s attacks), the junkshot’s attacks with the attached weapon count as a chosen damage type or material (in addition to their normal damage type and material) for overcoming damage reduction. The junkshot may choose the following at the indicated level, chosen each time they use the rapid refiner as a swift action (or free action with the battery use ability):
+- **Rapid Refiner:** While the rapid refiner is active (and improving the junkshot’s attacks), the junkshot’s attacks with the attached weapon count as a chosen damage type or material (in addition to their normal damage type and material) for overcoming damage reduction. The junkshot may choose the following at the indicated level, chosen each time they use the rapid refiner as a swift action (or free action with the battery use ability):
   - 3rd level: bludgeoning, piercing, slashing
   - 7th level: cold iron, silver
   - 11th level: alignment (good, evil, lawful, chaotic)
@@ -26,10 +26,10 @@ In addition, the junkshot adds the following effects to the gizmos granted by th
 
 This does not allow the junkshot to bypass damage reduction that is unbypassable (i.e. DR 5/–).
 
-- **Retractable Cording**: The junkshot may reload the attached weapon 1 step faster, retrieving the weapon as part of reloading it (i.e. a weapon that requires a full-round action to reload could be reloaded as a standard action as part of using the retractable cording to retrieve the weapon). This reload speed reduction stacks with other sources of reload speed reduction (such as the Rapid Reload feat or Ranged Set speed loader gizmo).
-- **Weapon Customization**: The junkshot may add melee-only weapon special features to an attached ranged weapon (such as brace, grapple, sunder, or trip); a ranged weapon with the reach special feature would have increased threatened reach when used as a melee weapon (such as with the Equipment sphere Gun Kata talent, not increased ranged increments). The junkshot may perform ranged combat maneuvers and other appropriate actions with the attached weapon if it is granted the appropriate weapon special feature (i.e. distracting to perform a ranged feint, trip to perform a ranged trip).
+- **Retractable Cording:** The junkshot may reload the attached weapon 1 step faster, retrieving the weapon as part of reloading it (i.e. a weapon that requires a full-round action to reload could be reloaded as a standard action as part of using the retractable cording to retrieve the weapon). This reload speed reduction stacks with other sources of reload speed reduction (such as the Rapid Reload feat or Ranged Set speed loader gizmo).
+- **Weapon Customization:** The junkshot may add melee-only weapon special features to an attached ranged weapon (such as brace, grapple, sunder, or trip); a ranged weapon with the reach special feature would have increased threatened reach when used as a melee weapon (such as with the Equipment sphere Gun Kata talent, not increased ranged increments). The junkshot may perform ranged combat maneuvers and other appropriate actions with the attached weapon if it is granted the appropriate weapon special feature (i.e. distracting to perform a ranged feint, trip to perform a ranged trip).
 
-  **Note - “Origin Point for Maneuvers”**: For the purposes of this ability, a maneuver performed at range is considered to be performed in the square closest to the target from where the attack was performed (generally the square after drawing a direct line, unless the attack’s trajectory was changed, etc.). A grapple maneuver performed this way causes the target to gain the grapple condition, otherwise functioning as the Sniper sphere Pinning Shot talent.
+  **Note - “Origin Point for Maneuvers”:** For the purposes of this ability, a maneuver performed at range is considered to be performed in the square closest to the target from where the attack was performed (generally the square after drawing a direct line, unless the attack’s trajectory was changed, etc.). A grapple maneuver performed this way causes the target to gain the grapple condition, otherwise functioning as the Sniper sphere Pinning Shot talent.
 
 This replaces the pistol-whip deed (or the gun strike ability granted by the gunfighter archetype).
 

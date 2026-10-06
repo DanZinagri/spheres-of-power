@@ -13,20 +13,20 @@ A sphere of bronze and copper set with a single eye, this winged creature has tw
 XP 800
 Pathfinder Roleplaying Game Bestiary 2
 LN Tiny outsider (extraplanar, inevitable, lawful, mythic)
-**Init**+3;**Senses** darkvision 60 ft., detect chaos, low-light vision; Perception +5
+**Init** +3; **Senses** darkvision 60 ft., detect chaos, low-light vision; Perception +5
 
 #### Defense
 
-**AC**17,**touch**15,**flat-footed** 14 (+3 Dex, +2 natural, +2 size)
+**AC** 17, **touch** 15, **flat-footed** 14 (+3 Dex, +2 natural, +2 size)
 **hp** 25 (2d10+14); regeneration 2 (chaotic)
-**Fort**+5,**Ref**+3,**Will** +3
-**Defensive Abilities**constant vigilance, constructed;**SR** 14
+**Fort** +5, **Ref** +3, **Will** +3
+**Defensive Abilities** constant vigilance, constructed; **SR** 14
 
 #### Offense
 
 **Speed** 20 ft., fly 50 ft. (average)
 **Melee** short sword +7 (1d3/19–20)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** electrical burst, mythic power (3/day, surge +1d6)
 
 **Spell-Like Abilities** (CL 2nd; concentration +4)
@@ -36,8 +36,8 @@ Constant—detect chaos
 
 #### Statistics
 
-**Str**11,**Dex**16,**Con**14,**Int**11,**Wis**11,**Cha** 14
-**Base Atk**+2;**CMB**+3;**CMD** 13
+**Str** 11, **Dex** 16, **Con** 14, **Int** 11, **Wis** 11, **Cha** 14
+**Base Atk** +2; **CMB** +3; **CMD** 13
 **Feats** Duck and CoverB, Extra Mythic PowerMF, Flyby Attack, Weapon FinesseB
 **Skills** Diplomacy +7, Fly +12, Knowledge (planes) +5, Perception +5, Sense Motive +5, Stealth +16
 **Languages** truespeech

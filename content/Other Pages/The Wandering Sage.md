@@ -13,13 +13,13 @@ The Wandering Sage is a first-level sample character for Champions of the Sphere
 **The Wandering Sage**
 Male Halfling Sage 1
 NG Small Humanoid(Halfling)
-**Init**+3;**Senses** Perception +5
+**Init** +3; **Senses** Perception +5
 
 ## Defense
 
-**AC**17,**touch**17,**flat-footed** 14 [+3 Dex, +3 Wis, +1 Size]
+**AC** 17, **touch** 17, **flat-footed** 14 [+3 Dex, +3 Wis, +1 Size]
 **hp** 8 (1 HD; 1d6+2)
-**Fort**+5,**Ref**+6,**Will** +6
+**Fort** +5, **Ref** +6, **Will** +6
 
 ## Offense
 
@@ -31,8 +31,8 @@ NG Small Humanoid(Halfling)
 
 ## Statistics
 
-**Str**8,**Dex**16,**Con**14,**Int**10,**Wis**16,**Cha** 12
-**Base Atk**+0;**CMB**-2;**CMD** 14
+**Str** 8, **Dex** 16, **Con** 14, **Int** 10, **Wis** 16, **Cha** 12
+**Base Atk** +0; **CMB** -2; **CMD** 14
 **Feats** Combat Reflexes, Improved Unarmed Strike(b)
 **Traits** Affable, Devoted Healer
 **Skills** Acrobatics +9, Climb +1, Diplomacy +5, Heal +7, Knowledge(local) +4, Perception +5, Stealth +7

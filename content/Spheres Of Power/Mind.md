@@ -81,7 +81,7 @@ When using a charm, you may spend an additional spell point to charm an addition
 
 #### Mental Backdoor [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 If a target would fail their saving throw against one of your charms, you may spend a spell point to force them to immediately attempt a second Will saving throw. If they fail this second saving throw, a mental weakness is created with the creatures mind, allowing you to bypass the creature’s will easier.
 
@@ -211,7 +211,7 @@ You imbue a target with an increased sense of self-worth, capacity for persuasio
 
 #### Fascinate (charm) [Apoc]
 
-**Source:** [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Debilitating Talents 2](https://www.drivethrurpg.com/product/319742/Spheres-Apocrypha-Debilitating-Talents-2?affiliate_id=549120)*
 
 You distract the target from the world around them.
 
@@ -507,7 +507,7 @@ At a GM’s discretion, other similar skill checks and uses can benefit from thi
 
 #### Terrifying Mind (Cognition) [SA:BG]
 
-**Source:** [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)
+*Source: [Spheres Apocrypha: Banshee's Gasp](https://www.drivethrurpg.com/product/370043/Spheres-Apocrypha-Banshees-Gasp?affiliate_id=549120)*
 
 Whenever you succeed a saving throw against a mind-affecting effect, you may spend 1 spell point as a free action that can be taken outside of your turn to terrify the source of that effect, provided you can identify and see the effect’s source.
 

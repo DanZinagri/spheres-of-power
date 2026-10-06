@@ -1298,7 +1298,7 @@ For the purposes of the kingdom-building rules presented in Pathfinder Roleplayi
 
 ### Ballista, Blizzard (Price 16,000 GP)
 
-**Slot**—**CL**10th**Weight** variable
+**Slot** — **CL** 10th **Weight** variable
 **Aura** moderate evocation
 
 **Description**
@@ -1311,7 +1311,7 @@ In an adventuring situation on the battlefield, a blizzard ballista functions as
 
 ### Cannon, Thunderbolt (Price 16,000 GP)
 
-**Slot**—**CL**10th**Weight** variable
+**Slot** — **CL** 10th **Weight** variable
 **Aura** moderate evocation
 
 **Description**
@@ -1324,7 +1324,7 @@ In an adventuring situation on the battlefield, a thunderbolt cannon functions a
 
 ### Ram, Adamant (Price 16,000 GP)
 
-**Slot**—**CL**10th**Weight** variable
+**Slot** — **CL** 10th **Weight** variable
 **Aura** moderate conjuration
 
 **Description**
@@ -1335,7 +1335,7 @@ This devastating close assault weapon shatters almost any barrier in its path. W
 
 ### Siege Shot, Elemental (**Price** 4,000 GP)
 
-**Slot**—**CL**11th**Weight** variable
+**Slot** — **CL** 11th **Weight** variable
 **Aura** moderate conjuration
 
 **Description**
@@ -1348,7 +1348,7 @@ In an adventuring situation on the battlefield, the elemental has normal statist
 
 ### Siege Shot, Ooze (**Price** 4,000 GP)
 
-**Slot**—**CL**11th**Weight** variable
+**Slot** — **CL** 11th **Weight** variable
 **Aura** moderate conjuration
 
 **Description**
@@ -1359,7 +1359,7 @@ This enchanted black stone bursts upon impact after being launched by a cannon, 
 
 ### Siege Shot, Zombie (**Price** 4,000 GP)
 
-**Slot**—**CL**10th**Weight** variable
+**Slot** — **CL** 10th **Weight** variable
 **Aura** moderate conjuration
 
 **Description**
@@ -1370,7 +1370,7 @@ This mass of corpses is lashed together and imbued with dreadful necromantic pow
 
 ### Siege Shot, Zombie Apocalypse (**Price** 8,000 GP)
 
-**Slot**—**CL**10th**Weight** variable
+**Slot** — **CL** 10th **Weight** variable
 **Aura** moderate conjuration
 
 **Description**

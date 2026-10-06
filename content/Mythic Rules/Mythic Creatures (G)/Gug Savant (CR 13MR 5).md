@@ -11,20 +11,20 @@ parent: "[[Mythic Creatures (G)]]"
 XP 25,600
 Pathfinder Roleplaying Game Bestiary 2 (variant gug)
 CE Large aberration (mythic)
-**Init**+1;**Senses** darkvision 60 ft.; Perception +27
+**Init** +1; **Senses** darkvision 60 ft.; Perception +27
 
 #### Defense
 
-**AC**29,**touch**10,**flat-footed** 28 (+1 Dex, +19 natural, –1 size)
+**AC** 29, **touch** 10, **flat-footed** 28 (+1 Dex, +19 natural, –1 size)
 **hp** 182 (15d8+115)
-**Fort**+10,**Ref**+6,**Will** +12; +4 vs. spells and spell-like effects
-**Defensive Abilities**DR 10/epic;**Immune** disease, poison
+**Fort** +10, **Ref** +6, **Will** +12; +4 vs. spells and spell-like effects
+**Defensive Abilities** DR 10/epic; **Immune** disease, poison
 
 #### Offense
 
 **Speed** 40 ft., climb 20 ft.
 **Melee** bite +18 (1d8+8), 4 claws +18 (1d6+8)
-**Space**10 ft.;**Reach** 15 ft.
+**Space** 10 ft.; **Reach** 15 ft.
 **Special Attacks** entangling eviscerationMA, eviscerating rendMMA (2 claws, 1d6+7), mythic power (5/day, surge +1d8), sneak attack +4d6MA
 
 **Spell-Like Abilities** (CL 13th; concentration +17)
@@ -33,10 +33,10 @@ At will—invisibility, levitate
 
 #### Statistics
 
-**Str**27,**Dex**12,**Con**20,**Int**11,**Wis**16,**Cha** 18
-**Base Atk**+11;**CMB**+20 (+24 bull rush);**CMD** 31 (33 vs. bull rush)
+**Str** 27, **Dex** 12, **Con** 20, **Int** 11, **Wis** 16, **Cha** 18
+**Base Atk** +11; **CMB** +20 (+24 bull rush); **CMD** 31 (33 vs. bull rush)
 **Feats** Awesome Blow, Blind-FightMF, Combat ReflexesMF, Greater Bull Rush, Improved Bull Rush, Lunge, Power AttackMF, Skill Focus (Perception)
-**Skills**Climb +16, Escape Artist +19, Knowledge (dungeoneering) +13, Perception +27, Stealth +9, Survival +21;**Racial Modifiers** +8 Climb, +4 Escape Artist
+**Skills** Climb +16, Escape Artist +19, Knowledge (dungeoneering) +13, Perception +27, Stealth +9, Survival +21; **Racial Modifiers** +8 Climb, +4 Escape Artist
 **Languages** Undercommon
 **SQ** compression, earth glideMA, warp spellMA
 

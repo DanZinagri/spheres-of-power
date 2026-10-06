@@ -13,20 +13,20 @@ This gigantic, wingless, four-armed dragon has rivulets of bright red magma cour
 XP 2,457,600
 Pathfinder Roleplaying Game Bestiary 3
 CE Colossal dragon (mythic)
-**Init**+24/+4MF, dual initiativeMA;**Senses** darkvision 60 ft., low-light vision, scent, true seeing; Perception +34
+**Init** +24/+4MF, dual initiativeMA; **Senses** darkvision 60 ft., low-light vision, scent, true seeing; Perception +34
 
 #### Defense
 
-**AC**47,**touch**12,**flat-footed** 37 (+10 Dex, +35 natural, –8 size)
+**AC** 47, **touch** 12, **flat-footed** 37 (+10 Dex, +35 natural, –8 size)
 **hp** 592 (24d12+436); regeneration 20 (cold iron)
-**Fort**+28,**Ref**+24,**Will** +21
-**Defensive Abilities**bloodied recoveryMA, fortificationMA (50%), freedom of movement; DR 20/cold iron and epic;**Immune**fire, mind-affecting effects, curse effects, paralysis and sleep, dragon traits;**SR** 42
+**Fort** +28, **Ref** +24, **Will** +21
+**Defensive Abilities** bloodied recoveryMA, fortificationMA (50%), freedom of movement; DR 20/cold iron and epic; **Immune** fire, mind-affecting effects, curse effects, paralysis and sleep, dragon traits; **SR** 42
 
 #### Offense
 
 **Speed** 60 ft., climb 60 ft., fly 120 ft. (average), swim 80 ft.
 **Melee** bite +36 (6d6+20/19–20 plus poison), 4 claws +36 (2d8+20/19–20), tail +31 (3d6+10 plus grab)
-**Space**30 ft.;**Reach** 30 ft.
+**Space** 30 ft.; **Reach** 30 ft.
 **Special Attacks** breath weapon, burning boastMA, constrict (3d6+30 plus 8d6 fire), molten minionMA, mythic power (10/day, surge 1d12), pyroclastic barrierMA, rendMA (2 claws, 2d8+30), searing scalesMA
 
 **Spell-Like Abilities** (CL 24th; concentration +33)
@@ -34,8 +34,8 @@ At will—blistering invective (DC 21)
 
 #### Statistics
 
-**Str**50,**Dex**30,**Con**39,**Int**7,**Wis**25,**Cha** 28
-**Base Atk**+24;**CMB**+52 (+56 grapple);**CMD** 72 (can’t be tripped)
+**Str** 50, **Dex** 30, **Con** 39, **Int** 7, **Wis** 25, **Cha** 28
+**Base Atk** +24; **CMB** +52 (+56 grapple); **CMD** 72 (can’t be tripped)
 **Feats** CleaveMF, Combat Reflexes, Flyby Attack, Great Cleave, Improved Critical (bite), Improved Critical (claws), Improved InitiativeMF, Improved Natural Attack (bite), Intimidating Prowess, Negation BreathMF, Overwhelming BreathMF, Power AttackMF, Quicken Spell-Like Ability (blistering invective), Snatch
 **Skills** Climb +32, Fly +25, Intimidate +56, Linguistics +2, Perception +34, Stealth +21, Survival +11, Swim +32
 **Languages** Aklo, Common, Draconic, Sylvan
@@ -57,7 +57,7 @@ Each creature that begins its turn in the smoke-covered area and breathes must m
 
 **Burning Boast (Sp)** A mythic tor linnorm is a vain and boastful creature and can use blistering invective (caster level 24th, DC 21 Reflex partial) at will as a spell-like ability. It can also expend one use of its mythic power to use mythic blistering invective, or two uses to use the augmented version of the spell.
 
-**Death Curse (Su)**Curse of Boiling Blood:** save**Will DC 31;**effect** creature gains vulnerability to fire and is permanently staggered from the pain of its boiling blood. The save DC is Charisma-based.
+**Death Curse (Su)** Curse of Boiling Blood: **save** Will DC 31; **effect** creature gains vulnerability to fire and is permanently staggered from the pain of its boiling blood. The save DC is Charisma-based.
 
 **Death Throes (Su)** A mythic tor linnorm can survive at negative hit points equal to its Constitution score times its mythic rank or tier (-390 hit points), and it remains conscious while at negative hit points as if it had the Diehard feat. In addition, when the linnorm dies it can take a full attack action immediately before death, though it cannot target any opponent with more than one attack. In addition, its body turns into stone at the moment of its death and then erupts in spectacular fashion 1 round later, affecting every creature within 50 feet as the linnorm’s breath weapon.
 
@@ -65,7 +65,7 @@ Each creature that begins its turn in the smoke-covered area and breathes must m
 
 **Molten Minion (Su)** Once per day as a full-round action, a mythic tor linnorm can disgorge an animate mass of magma equivalent in all respects to an elder magma elemental in place of its normal breath weapon. The elemental rapidly cools and decays, taking 1 point of damage per round. If it is reduced to 0 hit points, the molten minion collapses into a lava puddle that fills its space, as the creature’s lava puddle special ability. If the linnorm expends one use of its mythic power as a free action when using this ability, it can apply the invincible or savage mythic simple template to the molten minion.
 
-**Poison (Ex)**Bite—injury;**save**Fort DC 36;**frequency**1/round for 10 rounds;**effect**8d6 fire damage and 1d8 Con drain;**cure** 3 consecutive saves.
+**Poison (Ex)** Bite—injury; **save** Fort DC 36; **frequency** 1/round for 10 rounds; **effect** 8d6 fire damage and 1d8 Con drain; **cure** 3 consecutive saves.
 
 **Primal Heat (Ex)** Fire effects created or used by a mythic tor linnorm ignore 10 points of fire resistance from mythic and non-mythic creatures. The linnorm may expend one use of its mythic power as a free action when triggering any of its abilities that deal fire damage (including its death throes) to allow that effect to bypass fire resistance and fire immunity. If it uses this ability to apply to a continuous ability such as its searing scales, that ability bypasses fire resistance and fire immunity for 1 minute.
 

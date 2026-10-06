@@ -8,7 +8,7 @@ parent: "[[Feats]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Advanced Magic Training
+#### Advanced Magic Training
 
 **Prerequisite:** Basic Magic Training or casting class feature.
 
@@ -16,13 +16,13 @@ parent: "[[Feats]]"
 
 **Special:** For retraining purposes, having the casting class feature counts as Advanced Magic Training.
 
-### Aeolian Flautist
+#### Aeolian Flautist
 
 **Prerequisite:** Bardic performance or raging song class feature.
 
 **Benefit:** When you use Perform (wind) to produce a bardic performance or a raging song in an areas of wind, treat your relevant class level and ranks in Perform (wind) as 1 higher for each category above severity level 1.
 
-### Arcane Empowerment
+#### Arcane Empowerment
 
 **Prerequisites:** Spell pool; the ability to cast arcane, divine, or psychic spells.
 
@@ -30,19 +30,19 @@ parent: "[[Feats]]"
 
 **Author's Note:** This feat interacts with traditional spells and does not work with magic sphere effects.
 
-### Armorist Training
+#### Armorist Training
 
 **Prerequisites:** One or more of the following class features: arcane pool, divine bond, sacred armor, sacred weapon.
 
 **Benefit:** You may add all the special abilities from the list of special abilities an armorist may add to their summon and bound weapons to the list of special abilities your weapons or armor may possess. When you add weapon special abilities to a weapon using your arcane pool, divine bond, or sacred weapon ability, you may choose from the special abilities an armorist has access to. Similarly, when you add special abilities to armor using your sacred armor ability, you may choose armor special abilities an armorist has access to.
 
-### Armorist Trick
+#### Armorist Trick
 
 **Prerequisites:** One or more of the following class features: arcane pool, divine bond, sacred armor, sacred weapon.
 
 **Benefit:** You may choose an armorist’s arsenal trick that allows you to add special abilities to the list of special abilities your weapons or armor may possess. Treat your class level as your armorist level when meeting the prerequisites for this arsenal trick. When you add weapon special abilities to a weapon using your arcane pool, divine bond, or sacred weapon ability, you may choose from the special abilities provided by the trick. Similarly, when you add special abilities to armor using your sacred armor ability, you may choose armor special abilities provided by the trick. You may take this feat more than once. Each time you do, choose another arsenal trick.
 
-### Artificery
+#### Artificery
 
 **Prerequisite:** Any Craft or Profession 5 ranks.
 
@@ -50,13 +50,13 @@ parent: "[[Feats]]"
 
 **Special:** This feat counts as, and does not stack with, the Master Craftsman feat, and may be selected in place of Master Craftsman whenever that feat is gained.
 
-### Artificery, Improved
+#### Artificery, Improved
 
 **Prerequisites:** Any Craft or Profession 10 ranks, Artificery.
 
 **Benefit:** When using the skill chosen with the Artificery feat to create a magic item, you may craft that magic item whether or not you possess its prerequisite base sphere. Crafting a magic item in this fashion increases the skill check required to make the item by +5.
 
-### Basic Magic Training
+#### Basic Magic Training
 
 **Prerequisite:** No casting class feature.
 
@@ -66,7 +66,7 @@ If you later gain levels in a class granting the casting class feature, exchange
 
 **Special:** For retraining purposes, having the casting class feature counts as Basic Magic Training.
 
-### Beckon And Pspsps [Catgirl HB]
+#### Beckon And Pspsps [Catgirl HB]
 
 **Prerequisites:** Maker’s call class feature, phantom recall class feature, or other similar ability; spherecasting.
 
@@ -76,7 +76,7 @@ In addition, you may summon or manifest your eidolon or phantom as a full-round 
 
 **Note:** A “similar ability” is an ability with a limited number of uses per day used to teleport your companion, eidolon, phantom, or other similar creature to your side. The unchained summoner and spiritualist are the two primary examples of this ability.
 
-### Cantrips
+#### Cantrips
 
 **Prerequisite:** Basic Magic Training or casting class feature.
 
@@ -97,7 +97,7 @@ You can make up new effects, but they should not be more powerful than those lis
 
 **Wiki Note:** An optional rule for Spheres of Power is giving this feat for free to all casters. The GM may decide whether to hand out this feat for free.
 
-### Cantrips, Improved [Archmagi's HB]
+#### Cantrips, Improved [Archmagi's HB]
 
 **Prerequisites:** Basic Magic Training or casting class feature, Cantrips.
 
@@ -111,7 +111,7 @@ You can make up new effects, but they should not be more powerful than those lis
 - You may create sounds or speech as loud as a human speaking at a location within range, although they are erratic and obviously magical. Any creature within 15 feet of the sound can attempt a DC 10 Perception check to hear the noise.
 - You may concentrate for 3 rounds on an object or creature within range to use the ability from the Cantrips feat to detect magic on them.
 
-### Catnip Connoisseur [Catgirl HB]
+#### Catnip Connoisseur [Catgirl HB]
 
 **Prerequisite:** Character level 3rd.
 
@@ -119,7 +119,7 @@ You can make up new effects, but they should not be more powerful than those lis
 
 If consuming catnip (see section Recreational Substances for Cats in [[Alchemical Items]]), you instead avoid the secondary effects of the catnip.
 
-### Cautious Incantation [HMH]
+#### Cautious Incantation [HMH]
 
 **Prerequisite:** 3 ranks in any 1 skill.
 
@@ -127,13 +127,13 @@ If consuming catnip (see section Recreational Substances for Cats in [[Alchemica
 
 **Special:** This feat may be selected multiple times, each time applying to a different skill.
 
-### Circle Casting
+#### Circle Casting
 
 **Prerequisites:** Casting class feature, magic skill bonus +10.
 
 **Benefit:** You may assist another spellcaster who also possesses this feat, granting them a temporary +1 bonus to their caster level, as well as granting them access to your spell points and talents as if they possessed them. You must spend a standard action every round to maintain this ability, and you must be within 30 feet of the caster you are aiding in this manner. A target may be helped by multiple casters at once in this manner, but all involved casters must remain within 30 feet of each other, and the effects are not strictly cumulative. It takes one assisting caster to add a +1 bonus, three to add a +2 bonus, six to add a +3 bonus, ten to add a +4 bonus, and fifteen to add a +5 bonus. No caster may receive more than a +5 bonus in this manner.
 
-### Complex Harmony
+#### Complex Harmony
 
 **Prerequisites:** Bardic performance class feature, character level 10th.
 
@@ -141,7 +141,7 @@ If consuming catnip (see section Recreational Substances for Cats in [[Alchemica
 
 This ability does not stack with any other method of maintaining simultaneous bardic performances.
 
-### Contingency
+#### Contingency
 
 **Prerequisites:** Casting class feature, caster level 10th.
 
@@ -155,21 +155,21 @@ A caster always knows when their contingency is triggered, even if they are not 
 
 If a contingency remains unused when a caster rests to regain spell points, they may choose to dispel the contingency or sustain it, in which case they do not recover the spell points used to create the contingency.
 
-### Contingency, Enhanced
+#### Contingency, Enhanced
 
 **Prerequisites:** Enhancement sphere, Contingency.
 
 **Benefit:** You may enhance a contingency effect. If the contingency creates or summons a valid target for that enhancement, the enhancement is transferred to that target. Otherwise, the enhancement is transferred to the sphere effect once it takes effect. You may spend an additional spell point when applying the enhancement to tie it into the contingency; if you do so, time spent prior to the contingency triggering does not count towards the enhancement’s duration.
 
-### Contingency, Spread [3PP]
+#### Contingency, Spread [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 **Prerequisites:** Contingency, any [mass] talent
 
 **Benefit:** When you use the Contingency feat to create an effect to which you could apply a [mass] talent, you may spend 3 additional spell points to apply the Contingency effect to a number of targets which you could normally affect with the [mass] talent (for example, if using a shapeshift with the Contingency feat, you could apply the contingency to one target per 2 caster levels if you possess the Mass Alteration feat). This effect has the same trigger across all targets and thus activates simultaneously on all targets if triggered.
 
-### Contingency Tampering
+#### Contingency Tampering
 
 **Prerequisite:** Enhanced Contingency (see [[Enhancement]] feats).
 
@@ -178,7 +178,7 @@ If a contingency remains unused when a caster rests to regain spell points, they
 - **Introduce Flexibility:** You may spend 1 spell point to enhance a contingency, granting it an additional trigger– this additional trigger must be a valid condition, as defined by the Contingency feat. If either condition is met, the contingent sphere ability triggers immediately.
 - **Suppress Triggers:** You may spend 1 spell point to enhance a contingency, removing its trigger condition for the duration. You may only target your own contingencies or any other contingencies that you know the trigger condition for.
 
-### Cunning Caster
+#### Cunning Caster
 
 **Prerequisites:** Deceitful, caster level 1st.
 
@@ -188,15 +188,15 @@ Every drawback possessed that could be heard or seen (materials, somatic compone
 
 If the magic sphere effect is obvious (such as a summoned creature or a destructive blast), you also take a –4 penalty on the Bluff check, and even if your check is successful, observers still see the effect (though they fail to notice that you are responsible for it).
 
-### Dimensional Tether [3PP]
+#### Dimensional Tether [3PP]
 
-**Prerequisite**: Destruction Sphere (energy tether) or Mana Sphere (hardened bond)
+**Prerequisite:** Destruction Sphere (energy tether) or Mana Sphere (hardened bond)
 
 **Benefit:** Any attempt by creatures affected by your energy tether or hardened bond to teleport or cross planes fails unless they succeed at a magical skill check against you.
 
-**Source:** Expanded Spheres: Weaves of War
+*Source: Expanded Spheres: Weaves of War*
 
-### Dreamwalking Initiate [Alienist HB]
+#### Dreamwalking Initiate [Alienist HB]
 
 **Prerequisite:** Dreamspace.
 
@@ -204,7 +204,7 @@ If the magic sphere effect is obvious (such as a summoned creature or a destruct
 
 **Note:** If you do not have hedgewitch levels, you may use your character level as your effective hedgewitch level for determining the power of the acolyte dreaming hedgewitch secret.
 
-### Embraced By Kindred [DbH]
+#### Embraced By Kindred [DbH]
 
 Your abilities and commitments have been recognized by immortal features.
 
@@ -212,32 +212,32 @@ Your abilities and commitments have been recognized by immortal features.
 
 **Benefit:** You lose the native subtype, no longer aging or requiring food but becoming incapable of being resurrected by normal means. You no longer gain bonuses or suffer penalties from advancing in age, although you retain any bonuses and penalties you may already possess from your age. If you are the descendant of or patroned by an outsider with an alignment or elemental subtype (such as good, chaotic, fire, or earth), you gain these subtypes. Patronage in this context refers to a being that you gain class features from (such as cleric gaining domains or a thaumaturge gaining benefits from a pact). Gods should generally be considered outsiders with subtypes corresponding to their alignment for the purposes of this feat.
 
-### Energy Cascade [DRS]
+#### Energy Cascade [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
-**Prerequisites**: Destruction sphere (Energy Beam (blast shape), Sculpt Blast (blast shape)), caster level 5th.
+**Prerequisites:** Destruction sphere (Energy Beam (blast shape), Sculpt Blast (blast shape)), caster level 5th.
 
-**Benefit**: Whenever you create or maintain an Energy Beam, you can choose to have the line become a 10-foot cone, + 5 feet per 2 caster levels.
+**Benefit:** Whenever you create or maintain an Energy Beam, you can choose to have the line become a 10-foot cone, + 5 feet per 2 caster levels.
 
-**Special**: If you possess the Calamity advanced talent, you can augment your Energy Beam as if it were the Sculpt Blast blast shape.
+**Special:** If you possess the Calamity advanced talent, you can augment your Energy Beam as if it were the Sculpt Blast blast shape.
 
-### Energy Laser [DRS]
+#### Energy Laser [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 **Prerequisites:** Destruction sphere (Energy Beam (blast shape)).
 
-**Benefit**: Whenever you shift an Energy Beam, you can now shift the beam’s end point by up to 25 feet + 5 feet per 2 caster levels, but doing so allows the affected creatures to negate the effects of the destructive blast instead of halving the damage on a successful Reflex saving throw unless you spend an additional spell point when you first create the Energy Beam.
+**Benefit:** Whenever you shift an Energy Beam, you can now shift the beam’s end point by up to 25 feet + 5 feet per 2 caster levels, but doing so allows the affected creatures to negate the effects of the destructive blast instead of halving the damage on a successful Reflex saving throw unless you spend an additional spell point when you first create the Energy Beam.
 
 Additionally, when shifting the beam, you can have it flicker, allowing you to ‘turn off’ the beam for any given 5-foot interval to ignore all creatures within the area, and have it return on the subsequent 5-foot intervals (or otherwise); if you possess the Selective Blast talent, you can instead choose to ignore all allies within the arc.
 
-### Expedited Incantation [HMH]
+#### Expedited Incantation [HMH]
 
 **Prerequisite:** 3 ranks in any 1 skill.
 
 **Benefit:** When you perform an incantation, you may increase the DCs of all skill checks made for the incantation by 5. If you do, the incantation’s casting time is halved (minimum 1 minute).
 
-### Favored Metamagic [HMH]
+#### Favored Metamagic [HMH]
 
 **Prerequisite:** Any metamagic feat.
 
@@ -245,7 +245,7 @@ Additionally, when shifting the beam, you can have it flicker, allowing you to �
 
 **Special:** You may select this feat multiple times, each time selecting a different metamagic feat.
 
-### Feline Heritage [Catgirl HB]
+#### Feline Heritage [Catgirl HB]
 
 You didn’t see anything wrong with calling your mother “maw”, but everyone always looked concerned about calling your father “paw”, given his… paws.
 
@@ -262,39 +262,39 @@ When you gain this feat, you may decide if your chosen feline abilities cause yo
 
 **Special:** You can take this feat a second time. If you do, you gain the other three feline abilities you did not originally choose.
 
-### Focused Beam [DRS]
+#### Focused Beam [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Destruction sphere (Energy Beam (blast shape)), caster level 10th.
 
 **Benefit:** Whenever you shift an Energy Beam, you can spend 1 spell point as a free action to instead choose to focus the beam itself, keeping it in place and making it difficult for those affected by it to move from the area. All creatures who begin their turn within the Energy Beam must succeed at a Fortitude saving throw or be unable to move until the beginning of their next turn. On a successful save, the creature becomes immune to subsequent uses of your focused Energy Beam for 24 hours.
 
-### Fool Magic
+#### Fool Magic
 
 **Prerequisites:** Bluff 3 ranks; Deceitful or Skill Focus (Bluff); Iron Will.
 
 **Benefit:** When you succeed at a Will saving throw made against any magical effect, the caster of that effect does not automatically know you have succeeded at your saving throw. This allows you to attempt a Bluff check against their Sense Motive check to convince them that you failed your saving throw and are under the effects of the magic. You can choose to allow supplementary effects of the magic (such as the telepathic link provided by the dominate person spell or the Mind Control advanced Mind talent) to function as if you had failed your saving throw, to aid in the deception. You may dismiss the supplementary effect early as a standard action.
 
-### Fortified Conversion [3PP]
+#### Fortified Conversion [3PP]
 
 **Prerequisites:** Casting Tradition, Combat Stamina
 
 **Benefits:** You may spend a spell point as a free action even when it is not your turn to gain 1 stamina point. Stamina points gained this way last until the end of your next turn.
 
-**Source:** Card Casting 3: Volatile Variance
+*Source: Card Casting 3: Volatile Variance*
 
-### Grenade Master
+#### Grenade Master
 
 **Benefit:** When determining the save DC of an explosive or splash weapons such as an alchemical weapon, dust, oil, or potion you are activating, you may add your casting ability modifier (or Intelligence modifier, if you do not possess the casting class feature) to the save DC. This only applies to explosives and splash weapons that do not already add an ability modifier to the DC (so while it would apply to alchemical weapons, it would not apply to an Alchemist’s bomb class feature).
 
-### Harmonic Resilience [S&P]
+#### Harmonic Resilience [S&P]
 
 Miracles of any shape fail to penetrate your defenses.
 
 **Benefit:** Any spell or power resistance or immunity that you possess applies against magic from any source, including those from casters with the Alien Source boon. If using any ruleset in which psionics and magic are not transparent, any spell resistance or immunity that you possess also applies against psionic powers that allow power resistance, and vice versa.
 
-### Harrowed Capability [3PP]
+#### Harrowed Capability [3PP]
 
 **Benefit:** At the start of each of your turns during combat, you may draw a card from the harrow deck and check its alignment. If the card’s alignment is identical to yours, you gain a +2 circumstance bonus to attack rolls, combat maneuver checks, and caster level for one round. If the card’s alignment is within one step of yours, you gain a +1 circumstance bonus to attack rolls, combat maneuver checks, and caster level for one round. If the card’s alignment is 3 or more steps away from yours, or 2 steps if your alignment is True Neutral, you take a -2 penalty to your attack rolls, combat maneuver checks, and caster level for one round. At the start of the next turn, shuffle that card back into the deck (you may draw a new card as normal). For example: If you are Lawful Good, you would gain the bonuses of this feat if you draw a Lawful Good, Neutral Good, or Lawful Neutral card, and you would suffer the penalties if you draw a Chaotic Neutral, Neutral Evil, or Chaotic Evil card.
 
@@ -302,9 +302,9 @@ You may choose to draw a card for this feat outside of combat, but may only do s
 
 **Special:** If you possess both Harrowed Capability and Harrowed Talents, you draw a single card to determine the effects of both feats.
 
-**Source:** Expanded Spheres: Cardcaster’s Gamble
+*Source: Expanded Spheres: Cardcaster’s Gamble*
 
-### Harrowed Talents [3PP]
+#### Harrowed Talents [3PP]
 
 **Benefit:** For each of the six harrow suits, choose one magic talent or combat talent that you meet the prerequisites for. You may change these talents every time you gain a level. At the start of each of your turns during combat, you may draw a card from the harrow deck, gaining the talent corresponding to the suit of the drawn card for one round. At the start of the next turn, shuffle that card back into the deck (you may draw a new card as normal).
 
@@ -312,9 +312,9 @@ You may choose to draw a card for this feat outside of combat, but may only do s
 
 **Special:** If you possess both Harrowed Capability and Harrowed Talents, you draw a single card to determine the effects of both feats.
 
-**Source:** Expanded Spheres: Cardcaster’s Gamble
+*Source: Expanded Spheres: Cardcaster’s Gamble*
 
-### Hexblade [DbH]
+#### Hexblade [DbH]
 
 Your attacks channel your fell will.
 
@@ -322,7 +322,7 @@ Your attacks channel your fell will.
 
 **Benefit:** Once per round, when you successfully make a melee attack as part of an attack action against a creature, you may use one of your hexes on that creature as a swift action that does not provoke attacks of opportunity from the target.
 
-### Hubris Style [DRS]
+#### Hubris Style [DRS]
 
 *The universe said to slow down, and stop. But your feet pressed on, faster and more determined.*
 
@@ -334,9 +334,9 @@ Whenever you make an attack action, a target struck by your attack must make a W
 
 **Special:** If you are a martial practitioner and can maintain martial focus (using the *Spheres of Might* system), you may use your practitioner modifier instead of your Wisdom modifier when determining the effects of Hubris Style.
 
-**Source:** Diamond Classes: Disciple of Chaos
+*Source: Diamond Classes: Disciple of Chaos*
 
-### Hubris Defiance [DRS]
+#### Hubris Defiance [DRS]
 
 *To defy and reject the orders of the universe and carve your own way, as the first water created the rivers and then the canyons. Your steps march forward, putting down those that would tell you to turn aside.*
 
@@ -346,9 +346,9 @@ Whenever you make an attack action, a target struck by your attack must make a W
 
 If you succeeded on a saving throw against a compulsion effect or effect that would attempt to dictate how you act, you roll twice and take the better result on all attack rolls, skill checks, and ability checks made against the source of that effect for 1 round.
 
-**Source:** Diamond Classes: Disciple of Chaos
+*Source: Diamond Classes: Disciple of Chaos*
 
-### Hubris Triumph [DRS]
+#### Hubris Triumph [DRS]
 
 *Once all that would stop you, slow you down, or tell you to move aside have been surpassed, your achievement is where you stand and to stand proud. Now you show others.*
 
@@ -364,9 +364,9 @@ Each of these effects are mind-affecting effects and a successful Will saving th
 
 In addition, you gain a +2 bonus on attack rolls, damage rolls, skill checks, and ability checks against any creature which failed its saving throw against your Hubris Style attack action or created an effect which you made a successful saving throw against that Hubris Defiance protects against.
 
-**Source:** Diamond Classes: Disciple of Chaos
+*Source: Diamond Classes: Disciple of Chaos*
 
-### Inspired Learning [3PP]
+#### Inspired Learning [3PP]
 
 **Prerequisites:** MSB +1
 
@@ -376,9 +376,9 @@ If you have the Unreliable Training drawback, the maximum number of magic talent
 
 **Special:** If you possess the Unreliable Training drawback, you may select this feat as a drawback feat.
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
-### Inspired Learning, Improved [3PP]
+#### Inspired Learning, Improved [3PP]
 
 **Prerequisites:** Inspired Learning
 
@@ -386,15 +386,15 @@ If you have the Unreliable Training drawback, the maximum number of magic talent
 
 **Special:** You may select this feat an additional time for every 7 points of MSB you possess. Its effects stack. If you possess the Unreliable Training drawback, you may select this feat as a drawback feat.
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
-### Item Mastery
+#### Item Mastery
 
 **Prerequisite:** Caster level 10th.
 
 **Benefit:** When determining the save DC of a magic item you activate that determines its power by the formulae 10 + 1/2 the item’s caster level, you may add your casting ability modifier to the save DC. In addition, you may use your casting ability modifier for any sphere effects from any magic item you activate that require it (such as the Chameleon talent from the Light sphere).
 
-### Lurker In Darkness
+#### Lurker In Darkness
 
 **Prerequisite:** Stealth 6 ranks.
 
@@ -402,9 +402,9 @@ If you have the Unreliable Training drawback, the maximum number of magic talent
 
 **Note:** This feat was previously published in the Psionic Bestiary, by Dreamscarred Press. It has been modified to work with Spheres of Power.
 
-### Mage of Spore and Fungus [DRS]
+#### Mage of Spore and Fungus [DRS]
 
-**Source:** [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)
+*Source: [Diamond Spheres: Erudition & Esoterica](https://www.drivethrurpg.com/en/product/574642/diamond-spheres-erudition-esoterica)*
 
 **Prerequisites:** Nature sphere ((plant) package), Plant Mastery.
 
@@ -419,13 +419,13 @@ If you have the Unreliable Training drawback, the maximum number of magic talent
 - **Nature’s Weapon—Spore Cloud:** As a standard action you can release a cloud of spores in a 15-foot cone. All creatures within the area suffer 1d4 acid damage per caster level and become sickened for 1d4 rounds—a successful Fortitude save halves this damage and negates the sickened condition. This is a poison effect.
 - **Wreath of Elements—Fungal Fortitude:** You fortify yourself, gaining a +2 alchemical bonus to a single saving throw, increasing by +1 per 5 caster levels. Alternatively, if you use this ability after succeeding a Fortitude saving throw against an effect that has a partial effect on a successful save, you instead suffer no effect.
 
-### Metamagic Aficionado [HMH]
+#### Metamagic Aficionado [HMH]
 
 **Prerequisites:** Favored Metamagic (any three metamagic feats), caster level 15th.
 
 **Benefit:** The benefits of Favored Metamagic apply to all metamagic feats you possess, not just those specific metamagic feats you have chosen with Favored Metamagic.
 
-### Oneiric Assault [Alienist HB]
+#### Oneiric Assault [Alienist HB]
 
 **Prerequisites:** Dreamspace, caster level 10th.
 
@@ -435,21 +435,21 @@ If you spend 2 additional spell points on the magic sphere effect, any target wh
 
 You cannot use this feat in the same dreamscape more than once every 24 hours.
 
-Special: If a creature possesses special abilities which would apply additional effects to their nightmare spell-like ability (such as the dreams of madness ability of Cthulhu and similar abilities possessed by other Great Old Ones), those effects also apply to any sphere effects created through this feat. If these abilities also expand the targeting possibilities of nightmare (such as dreams of madness targeting any creature with 1 or more ranks in a Craft or Perform skill), the creature with this feat automatically locates the dreamscapes of such creatures and may travel to them through normal means.
+**Special:** If a creature possesses special abilities which would apply additional effects to their nightmare spell-like ability (such as the dreams of madness ability of Cthulhu and similar abilities possessed by other Great Old Ones), those effects also apply to any sphere effects created through this feat. If these abilities also expand the targeting possibilities of nightmare (such as dreams of madness targeting any creature with 1 or more ranks in a Craft or Perform skill), the creature with this feat automatically locates the dreamscapes of such creatures and may travel to them through normal means.
 
-### Otherworldly Mind
+#### Otherworldly Mind
 
 **Benefit:** Due to some quirk of your consciousness or oddity in your background, your heart and mind are like that of another realm entirely. Scrying to locate your Dreamscape now treats your Dreamscape as if it is on another Plane rather than on the same Plane as your physical form, granting a +5 bonus to your Will save to avoid the scrying attempt. In addition, any effect that numerically boosts the difficulty of getting into your Dreamscape or moving within it is increased by 1.
 
 **Note:** There will usually be some actual world or realm in a campaign’s cosmology connected to this feat when it is taken. People within that world or realm, or others who also have the Otherworldly Mind feat connected to that realm, ignore your Dreamscape’s extra +5 bonus.
 
-### Pacified Strike
+#### Pacified Strike
 
 **Prerequisites:** Casting class feature, one talent from any sphere that has the strike descriptor, caster level 3rd
 
 **Benefit:** When utilizing a sphere effect using a talent with the [strike] descriptor, you may choose to not deal any damage with the attack (including both the sphere effect and the weapon attack). Doing so provides you with a bonus to the attack roll equal to your caster level.
 
-### Primal Emblem
+#### Primal Emblem
 
 **Prerequisite:** Banner class feature.
 
@@ -459,15 +459,15 @@ You may purchase this feat multiple times. Each time choose another totem. Round
 
 This is an extraordinary ability.
 
-### Range Virtuoso [3PP]
+#### Range Virtuoso [3PP]
 
 **Prerequisites:** Sphere Virtuoso, must have taken at least one range talent at least twice.
 **Benefits:** You count as possessing a number of all range talents equal to the number of instances you have selected a single range talent
 Example: A character who has taken Ranged Enhancement three times and has the ability to create a ward can center that ward anywhere within long range, as if they had taken the Distant Protection talent three times.
 
-**Source:** Baron’s Glorious Arena
+*Source: Baron’s Glorious Arena*
 
-### Realmwalker Adept [RW HB]
+#### Realmwalker Adept [RW HB]
 
 Your experiences and travels help you gain new insights in terrains, surviving their natural dangers and navigating with greater ease.
 
@@ -481,7 +481,7 @@ You may take 1 hour to attune to the current plane you are on, selecting it as y
 
 **Note:** This feat can be used to attune to an area with planar traits not native to the plane, such as attuning to a pocket of the material plane with fire-dominant traits.
 
-### Realmwalker Master [RW HB]
+#### Realmwalker Master [RW HB]
 
 “And so you walk our path too, and shall experience and be a great many things, be you a traveler, wanderer, savior, or scourge to those you will cross paths with.” – A Realmwalker’s Initiation
 
@@ -498,21 +498,21 @@ In addition, you gain the following new abilities which grant benefits while in 
 
 **Note:** The abilities granted by this feat provide benefits against both natural and magical conditions, hazards, terrain, and weather which are native to your favored plane. These abilities do not provide benefits against effects which are not native to your favored plane, such as creature-made terrain and weather. For example, the planar endurance ability from this feat would protect against a fire-dominant plane’s traits, but not against a magical blizzard created by the Weather sphere on such a plane.
 
-### Resist Expulsion [3PP]
+#### Resist Expulsion [3PP]
 
 **Prerequisites:** Casting class feature
 
 **Benefit:** Whenever one of your subordinates would be banished or dispelled, you may spend a spell point as a free action (even outside of your turn) to allow the subordinate to remain for one additional round. Each turn, you may spend an additional spell point to allow them to remain for one additional round.
 
-**Source:** Card Casting 2: Counters and Control
+*Source: Card Casting 2: Counters and Control*
 
-### Rigorous Student [Origin]
+#### Rigorous Student [Origin]
 
 **Benefit:** Choose a class you have levels in. For the purpose of calculating the DCs of class features based on that class’ level (such as scholar material impositions and thaumaturge invocations), you treat your class level as 4 higher, to a maximum of your character level. This does not improve other effects of the class feature (for example, a character with 18 Intelligence, 5 levels in scholar, and 3 levels in conscript would have a flashbang save DC of 18, but their sulfuric detonation would only add 2d6 damage to their flashbang). This does not affect abilities which use your caster level to calculate the DC.
 
 **Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times.
 
-### Ritualistic Perseverance [HMH]
+#### Ritualistic Perseverance [HMH]
 
 **Prerequisite:** 3 ranks in any 2 skills.
 
@@ -520,11 +520,11 @@ In addition, you gain the following new abilities which grant benefits while in 
 
 **Special:** You may select this feat multiple times, each time selecting two different skills.
 
-### Robustness
+#### Robustness
 
 **Benefit:** Whenever you are the target of a sphere ability or supernatural ability that allows you to regain hit points that does not grant fast healing, you heal additional hit points equal to your Hit Dice. The increase in healing can not be greater than the original amount of healing granted. When you are granted fast healing, the fast healing heals 1 additional hit point per round.
 
-### Roiling Anger [3PP]
+#### Roiling Anger [3PP]
 
 *Our anger is a glorious wave which rolls and churns like the ocean’s tide.*
 
@@ -536,13 +536,13 @@ Your ki pool increases by 1. If your rage ability is measured in rounds per day,
 
 **Note:** The barbarian’s rage normally prevents abilities that require “patience or concentration”. Ki powers do not technically require either although some GMs might limit a barbarian from using their ki powers during a rage; if so, the Roiling Anger feat allows you to use ki powers while raging if you could not already.
 
-**Source:** Diamond Classes: Disciple of Chaos
+*Source: Diamond Classes: Disciple of Chaos*
 
-### Shared Magic
+#### Shared Magic
 
 **Benefit:** When you use a sphere ability that has an ongoing effect, you may spend a free action to designate an ally within close range as the owner of the ability. That ally gains control of the ability at the beginning of their next turn. The new owner is considered the creator of the spell, and can do whatever the owner can with the spell, including concentrating to maintain it, dismissing it, moving it (if it can be moved), spending spell points on it, or any other effect that can take place after the ability has been created. The new owner must be a spherecaster with a caster level equal to a minimum of half the caster level of the sphere ability they are being given. They use their own concentration and magical skill bonus to maintain the spell, but the sphere ability still uses your caster level.
 
-### Shoulder To Shoulder
+#### Shoulder To Shoulder
 
 **Prerequisite:** Grit, luck pool or panache class feature.
 
@@ -550,33 +550,33 @@ Your ki pool increases by 1. If your rage ability is measured in rounds per day,
 
 If the person you share the mandate with performs an action that would allow you to regain grit, luck, or panache, then you may regain grit, luck, or panache as if you had performed the action yourself.
 
-### Solitary Incantation [HMH]
+#### Solitary Incantation [HMH]
 
 **Prerequisite:** 5 ranks in any 1 skill.
 
 **Benefit:** You may perform an incantation in which you are the primary caster that does not have the requisite number of secondary casters. For every secondary caster omitted from the incantation, the DC of all skill checks associated with the incantation increase by 2.
 
-### Soulfire
+#### Soulfire
 
 **Prerequisite:** Caster level 5th.
 
 **Benefit:** You may accept 2 or more points of Constitution burn as a free action. Doing so grants 1 temporary spell point per 2 points of burn that expires at the end of your turn. If these temporary spell points are spent on a sphere effect that deals damage, half that damage becomes untyped damage and the effect bypasses spell resistance. The number of spell points granted per 2 points of burn increases by +1 every ten character levels. You cannot use this ability if doing so would reduce your Constitution to 0.
 
-### Special Transport [3PP]
+#### Special Transport [3PP]
 
 **Prerequisites:** Conjuration Sphere, Warp Sphere (Teleport Beacon)
 
 **Benefit:** Creatures that are your teleport beacons are considered to be conjuration companions for the purpose of the Link, Otherworldly Audience, Spell Conduit, and Spell-Linked Companion talents. Whenever you summon a companion, you may summon a willing teleport beacon creature in place of a companion.
 
-**Source:** Card Casting Bonus Content
+*Source: Card Casting Bonus Content*
 
-### Sphere Focus
+#### Sphere Focus
 
 **Prerequisite:** Casting class feature.
 
 **Benefit:** Choose a sphere. You gain a +1 bonus to saving throw DCs for all abilities from that sphere. You may take this feat multiple times. The effects do not stack. Each time it is gained, apply this benefit to a different sphere.
 
-### Sphere Virtuoso
+#### Sphere Virtuoso
 
 **Prerequisites:** Casting class feature; two or more talents from any sphere that both have the instill, mass, range or strike descriptors.
 
@@ -584,7 +584,7 @@ If the person you share the mandate with performs an action that would allow you
 
 **Example:** If a character possesses Energy Strike and Cryptic Strike, they would count as possessing all other talents with the strike descriptor. If a character possesses Instill Life and Instill Death, they would count as possessing all other talents with the instill descriptor.
 
-### Superior Salvage [LotS]
+#### Superior Salvage [LotS]
 
 **Prerequisites:** Any item creation feat, character level 5th.
 
@@ -594,21 +594,21 @@ When salvaging an item with a limited number of uses, divide the cost of creatin
 
 **Note:** This feat may not be appropriate for all games, and is designed for worlds where magic items and the ability for players to craft them are reasonably commonplace. Thus, it may not be appropriate for all tables and campaigns and is thus usable at GM discretion.
 
-### Sudden Recall [3PP]
+#### Sudden Recall [3PP]
 
 **Benefit:** You may spend a spell point as an immediate action to dismiss any magic effect which you could normally dismiss as a standard action.
 
 **Special:** If you have the Card Casting drawback, this feat counts as both a Deck feat and a Drawback feat. Additionally, when you dismiss an effect you may return any cards used to create the dismissed effect to your hand (even if you do so as a standard action).
 
-**Source:** Expanded Spheres: Cardcaster’s Gamble
+*Source: Expanded Spheres: Cardcaster’s Gamble*
 
-### Tenacity
+#### Tenacity
 
 **Prerequisite:** Judgment class ability.
 
 **Benefit:** Whenever you activate a judgment, if you have not previously activated that judgment today, you gain temporary hit points equal to your Hit Dice + your casting ability modifier. These last until you rest and regain uses of your judgment class ability.
 
-### Termination Clause [DbH]
+#### Termination Clause [DbH]
 
 The gifts you bestow can be taken away should their recipients fail to serve you.
 
@@ -616,13 +616,13 @@ The gifts you bestow can be taken away should their recipients fail to serve you
 
 **Benefit:** When you create a magic sphere effect with the Fleeting Spell feat, you may set a condition in the same manner as the Contingency feat. When this condition is triggered, the sphere effect immediately ends as if you had dismissed it. In addition, you may apply the Fleeting Spell feat to permanent (but not instantaneous) magic sphere effects
 
-### Tough As Nails
+#### Tough As Nails
 
 **Prerequisite:** Grit, luck, or panache pool.
 
 **Benefit:** When you spend a point of your grit, luck, or panache, you gain temporary hit points equal to your character level. These last 1 minute.
 
-### Transformation
+#### Transformation
 
 *Errata:* The Transformation feat (Ultimate Spheres of Power pg. 487) has received an errata, clarifying some interactions and allowing the feat to be taken more than once.
 
@@ -638,7 +638,7 @@ You gain the shapechanger subtype.
 
 **Special:** This feat may be taken more than once; each time gaining a new form and selecting any Alteration (transformation) talent or other (transformation) or (body) talent if choosing Anthropomorphic transformation.
 
-### Transformation, Eternal [Alienist HB]
+#### Transformation, Eternal [Alienist HB]
 
 **Benefit:** This functions as the Transformation feat, save that you may not return to your original form and must always remain in a form selected with the Transformation feat or a hybrid form from the Hybrid Transformation feat (the form selected at the time you take this feat, although you may change this form whenever you select a feat or talent that affects your transformation). Your transformation is not considered a magical effect and cannot be suppressed or removed by any effects which could suppress, remove, or override polymorph effects or magical effects (such as an antimagic field or the true form spell). Unlike the Transformation feat, you do not gain the shapechanger subtype.
 
@@ -646,7 +646,7 @@ You gain the shapechanger subtype.
 
 **Note:** This doesn't make you immune to other (overriding) polymorphs, it is meant to prevent dispel magic/antimagic/true form/etc from forcing your back to your original form. See the Transformation and Improved Transformation feats for how you can stack a Blank Form effect on top.
 
-### Transformation, Hybrid
+#### Transformation, Hybrid
 
 **Prerequisite:** Transformation.
 
@@ -658,7 +658,7 @@ If your transformation would grant you additional legs, you may instead gain the
 
 **Special:** Traits granted from the Improved Transformation feat apply to both your base transformation form and your hybrid form.
 
-### Transformation, Improved
+#### Transformation, Improved
 
 **Prerequisites:** Transformation, character level 5th.
 
@@ -666,31 +666,31 @@ If your transformation would grant you additional legs, you may instead gain the
 
 **Special:** Traits gained from this feat count against the maximum number of traits you may receive from the shapeshift ability of the Alteration sphere. You may choose to suppress one or more traits granted by this ability when you assume a particular Transformation form. Alternatively, you may choose to gain one or more traits from a particular set without the base form.
 
-### Triage
+#### Triage
 
-Prerequisites: Heal 1 rank; casting class feature or ki pool class feature
+**Prerequisites:** Heal 1 rank; casting class feature or ki pool class feature
 
 **Benefit:** You may spend a spell point or ki point to treat deadly wounds on a creature as a full-round action as per the Heal skill. You may do this even if the creature that has already received such treatment that day.
 
-### Versed Student [Origin]
+#### Versed Student [Origin]
 
 **Benefit:** Choose a class you have levels in. For the purpose of determining class features selected individually at advancing levels you may select (such as alchemist discoveries, shifter bestial traits, striker arts, and witch hexes), you treat your level in that class as 4 higher, to a maximum of your character level. For example, a character with 4 levels in mageknight and 6 levels in shifter who has selected shifter with this feat may select bestial traits as if they were a 10th-level shifter (although they would have a total of three bestial traits, not 5). This does not include advanced rogue talents, grand hexes, and other such abilities which would normally only be selectable starting at higher levels unless you already have access to such abilities from one of your classes. This feat does not grant any such abilities when it is taken, nor does it cause levels in any class to count as levels in other classes for the purpose of determining the effects of class abilities.
 
 **Special:** You may select this feat multiple times. The effects of this feat stack if applied to the same class multiple times.
 
-### Vigilant Skeptic
+#### Vigilant Skeptic
 
 **Prerequisites:** Perception 5 ranks and Sense Motive 5 ranks; or Alertness.
 
 **Benefit:** You are automatically treated as interacting with any figments you come within 5 feet of, increasing by an additional 5 feet per 2 ranks you have in Perception. As a full-round action you may interact with all figments within 30 feet. You get a +1 bonus to Perception and Sense Motive checks per 2 character levels against targets benefiting from glamers.
 
-### Vital Magic
+#### Vital Magic
 
 **Prerequisite:** Fervor or lay on hands class feature.
 
 **Benefit:** You may spend 1 spell point as a free action to regain 1 use of your fervor or lay on hands ability.
 
-### Wand Charger
+#### Wand Charger
 
 **Prerequisites:** Craft Spell Engine, caster level 4th.
 
@@ -698,13 +698,13 @@ Prerequisites: Heal 1 rank; casting class feature or ki pool class feature
 
 You may not exceed the spell engine’s maximum charges this way. You may recharge a spell engine more than once a day with this ability, but the total transferred spell points cannot exceed half your caster level. Additionally, you may count your caster level as 4 higher when determining what spell engines you can recharge.
 
-### Wand Wielder
+#### Wand Wielder
 
 **Prerequisite:** Caster level 10th.
 
 **Benefit:** When wielding a spell engine, use your caster level in place of the spell engine’s caster level (if it is higher) when calculating its abilities.
 
-### Wind Dancer
+#### Wind Dancer
 
 **Benefit:** Whenever you drive an air vehicle you treat the Wind severity level either one step higher or one step lower (to a minimum of 0 and a maximum of 7), whichever you prefer. You may change this decision once per round as a free action. If you have 11 ranks in Fly or Profession (pilot), you no longer suffer the negative effects of any Wind of severity level 5 or lower while driving an air vehicle. If you have 17 ranks in Fly or Profession (pilot) you no longer suffer the negative effects of any wind while driving an air vehicle. It cannot be sucked into or damaged by a tornado.
 

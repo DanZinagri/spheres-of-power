@@ -8,29 +8,29 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Proficiencies
+## Proficiencies
 
 Hemophages are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters weapon and armor proficiencies.
 
-### Casting
+## Casting
 
 At 1st level, the hemophage may combine spheres and talents to create magical effects. The hemophage is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature, and the Eschew Materials feat.
 
-### Spell Pool
+## Spell Pool
 
 At 1st level, the hemophage gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his class level + his casting ability modifier. This pool replenishes once per day after roughly 8 hours of rest.
 
-### Blended Training
+## Blended Training
 
 A hemophage gains a combat or magic talent every time he gains a class level. Hemophages use their casting ability modifier as their practitioner modifier.
 
 This replaces fast movement and all bloodline feats.
 
-### Absorb Bloodline
+## Absorb Bloodline
 
 At 1st level, the hemophage does not gain a bloodline. Instead, he can temporarily access one by drinking the blood of creatures with the appropriate bloodline or other associated creatures. By drinking fresh blood (which inflicts 1 point of Constitution damage from a helpless, unconscious, or willing creature as a standard action or by inflicting ability damage with the blood drain ability) from a bloodrager or sorcerer with the given bloodline or from a creature associated with that bloodline (other than himself), the hemophage may choose to gain the ability to use the bloodline powers (but not bonus spells, proficiencies, and so on) as appropriate to his level indefinitely. This ability is usable any number of times per day, though gaining a new bloodline removes the benefits of any previous use. Gaining a bloodline again does not restore uses of abilities with limited activations, any uses of that ability are expended until recovered as normal.
 
@@ -54,13 +54,13 @@ In addition to bloodragers and sorcerers of the given bloodline, the following l
 
 This replaces bloodline, including all bloodline spells (but not bloodline feats, which are replaced by blended training).
 
-### Sphere Blood Casting
+## Sphere Blood Casting
 
 At 4th level, the hemophage may use magical sphere effects while bloodraging, just as he can with spells.
 
 This alters blood casting.
 
-### Sphere Greater Bloodrage
+## Sphere Greater Bloodrage
 
 In place of casting a spell of 2nd level or lower as part of entering bloodrage, the hemophage may cast a sphere ability on himself as a free action. The sphere ability affects only the hemophage or his equipment.
 
@@ -68,7 +68,7 @@ If the sphere ability can be maintained with concentration, the hemophage does n
 
 This alters greater bloodrage.
 
-### Sphere Mighty Bloodrage
+## Sphere Mighty Bloodrage
 
 The hemophage’s mighty bloodrage ability allows the hemophage to cast two sphere abilities on himself.
 

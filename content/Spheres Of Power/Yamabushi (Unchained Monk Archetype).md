@@ -8,17 +8,17 @@ parent: "[[Spheres Of Power]]"
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
-### Alignment
+## Alignment
 
 Any neutral
 
-### Casting
+## Casting
 
 At first level a yamabushi may combine spheres and talents to create magical effects. A yamabushi is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the stunning fist class feature.
 
-### Spell Pool
+## Spell Pool
 
 A yamabushi at first level gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his class level + his casting ability modifier (minimum 1).
 
@@ -26,17 +26,17 @@ In addition, he may treat his spell points as if they were ki points for all ki 
 
 This replaces the ki pool gained at 3rd level.
 
-### Magic Talents
+## Magic Talents
 
 A yamabushi only gains a magic talent at 4th level and every 4 levels thereafter.
 
-### Woodsman
+## Woodsman
 
 Yamabushi, in their search of enlightenment, often begin their study in the wilderness, sometimes never even leaving the harsh solitary lifestyle. At first level, a yamabushi gains the Nature sphere as a bonus sphere.
 
 This replaces the bonus feat gained at 1st level.
 
-### Natural Self
+## Natural Self
 
 At 20th level, a yamabushi is treated as a fey rather than as a humanoid (or whatever the yamabushi’s creature type was) for the purpose of spells and magical effects.
 

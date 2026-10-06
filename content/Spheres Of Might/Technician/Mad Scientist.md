@@ -71,7 +71,7 @@ The portal gun can be used 6 times per day. This is considered a ranged weapon w
 
 The zombie begins speaking one language the mad scientist speaks and is loyal to him and obeys all commands, but is more akin to an animal companion than an undead slave; if not treated well (especially as it gains more intelligence), it very well may abandon the mad scientist in pursuit of its own goals. The zombie can be made from any humanoid creature, but only if the appropriate corpse can be found, and only if the creature’s racial Hit Dice does not exceed 1 per technician level.
 
-Prerequisite: A body’s worth of humanoid corpse pieces, with a brain that has been dead for no more than a day.
+**Prerequisite:** A body’s worth of humanoid corpse pieces, with a brain that has been dead for no more than a day.
 
 *Shrink Ray:* As a standard action, the wielder may make a ranged touch attack against a creature. If successful, the target must pass a Fortitude save or shrink by 1 size category, plus up to 1 additional size category at 5th level and every 4 levels thereafter, suffering a -2 penalty to Strength but gaining a +2 bonus to Dexterity per size category. This penalty lasts 1 minute per technician level. Allies may always choose to fail this saving throw. This ability is usable 3 times per day. This is considered a ranged weapon with a range increment of 30 ft.
 

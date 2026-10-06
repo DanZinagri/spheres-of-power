@@ -14,7 +14,7 @@ The [utility start] tag is described in Spheres of Guile. It is only possible to
 
 **Piecemeal Utility Starts:** If you have a progression or optional replacement that grants a [utility] combat talent or a [utility] magic talent, you can use it to gain a base sphere if you apply a drawback or combination of drawbacks that removes all of that base sphere’s benefits other than skill ranks and [utility] talents (and actions necessary to use such talents).
 
-## Drawbacks by Sphere
+#### Drawbacks by Sphere
 
 - [[Alchemy Sphere Drawbacks|Alchemy]]
 - [[Athletics Sphere Drawbacks|Athletics]]

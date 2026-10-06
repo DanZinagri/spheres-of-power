@@ -48,13 +48,13 @@ Some talents are marked (fey-blessing). These talents grant additional fey-bless
 
 #### Bounty of the Fey [mass] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 When you spend a spell point to apply a fey-blessing to yourself, you may do so as a swift action to apply two fey-blessings rather than just one. If you possess the Share Link talent twice, you may spend an additional spell point when granting a fey-blessing to grant that fey-blessing to all creatures within close range under the effects of your fey-link. You must choose the same fey-blessing for all targets.
 
 #### Feytouch Strike [strike] [3PP]
 
-**Source:** Expanded Spheres: Baron's Lost Apocrypha
+*Source: Expanded Spheres: Baron's Lost Apocrypha*
 
 As a standard action, you may make a single weapon attack in conjunction with using a fey-link effect. This casting cannot be reduced below a standard action, and does not provoke attacks of opportunity, unless as usual if making a ranged attack. If the target is struck by the attack, it is also affected by the fey-link. If using a scatter weapon, the fey-link only applies to a single target, chosen at the time of attack.
 
@@ -221,9 +221,9 @@ The shade acts on your initiative and must remain within medium range of you or 
 The grimalkin shade is a creature which has simplified statistics using the caster’s statistics or caster level, determined when the fey-blessing is cast.
 
 **Core Statistics**
-**hp**5 + 3 per caster level; Hit Dice 1/2 your caster level;**Size**Small;**Type**fey;**Senses**darkvision 120 ft., see in darkness;**Perception** 10 + your caster level
-**Str**10,**Dex**10,**Con**10,**Int**10,**Wis**10,**Cha** 10
-**AC**11 + your caster level (10 + size + caster level);**Saving Throws** 2 + 1/2 your caster level
+**hp** 5 + 3 per caster level; Hit Dice 1/2 your caster level; **Size** Small; **Type** fey; **Senses** darkvision 120 ft., see in darkness; **Perception** 10 + your caster level
+**Str** 10, **Dex** 10, **Con** 10, **Int** 10, **Wis** 10, **Cha** 10
+**AC** 11 + your caster level (10 + size + caster level); **Saving Throws** 2 + 1/2 your caster level
 **Speed** 40 ft.
 **Skills** Acrobatics, Perception, Stealth equal to 10 + your caster level
 
@@ -381,7 +381,7 @@ You may activate the following abilities as fey-blessings:
 
 **Anxiety Spores:** As a swift action or move action, you may coat a weapon, piece of ammunition, or natural weapon you possess with anxiety spores. You may coat those of a willing ally as a move action. The next time that the coated weapon (or piece of ammunition) is used to deal damage to a creature, that creature must succeed on a Fortitude save or be infested with the spores.
 
-**Anxiety Spores:** Disease—injury;**save**Fort DC (sphere DC);**onset**1 round;**frequency**1/minute;**effect**cumulative –1 penalty on saving throws against emotion and fear effects (maximum –5);**cure** 2 consecutive saves
+**Anxiety Spores:** Disease—injury; **save** Fort DC (sphere DC); **onset** 1 round; **frequency** 1/minute; **effect** cumulative –1 penalty on saving throws against emotion and fear effects (maximum –5); **cure** 2 consecutive saves
 
 As a standard action, you can spend a spell point to cause mushrooms to erupt from any creature within close range already infected with its anxiety spores. The targeted creature takes 1d2 points of Charisma damage (Fortitude negates) as the growing spores siphon away its emotions. This damage increases by one die size for every 4 caster levels (1d3, 1d4, 1d6, 1d8, etc.). If the affected creature is currently shaken, frightened, or panicked, any creature within 10 feet gains the same condition for 1d4 rounds (Will negates). This is a mind-affecting fear effect.
 

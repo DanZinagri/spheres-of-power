@@ -13,20 +13,20 @@ This seething devil deftly wields a vicious, saw-toothed glaive, while below its
 XP 2,400
 Pathfinder Roleplaying Game Bestiary
 LE Medium outsider (devil, evil, extraplanar, lawful, mythic)
-**Init**+6;**Senses** darkvision 60 ft., see in darkness; Perception +10
+**Init** +6; **Senses** darkvision 60 ft., see in darkness; Perception +10
 
 #### Defense
 
-**AC**21,**touch**12,**flat-footed** 19 (+2 Dex, +9 natural)
+**AC** 21, **touch** 12, **flat-footed** 19 (+2 Dex, +9 natural)
 **hp** 77 (6d10+44)
-**Fort**+9,**Ref**+7,**Will** +3
-**Defensive Abilities**glaive parryMA; DR 5/epic and good, or epic and silver;**Immune**fire, poison;**Resist**acid 10, cold 10;**SR** 17
+**Fort** +9, **Ref** +7, **Will** +3
+**Defensive Abilities** glaive parryMA; DR 5/epic and good, or epic and silver; **Immune** fire, poison; **Resist** acid 10, cold 10; **SR** 17
 
 #### Offense
 
 **Speed** 40 ft.
 **Melee** +1 glaive +14/+9 melee (1d10+8 plus infernal woundMA) or 2 claws +11 melee (1d6+5)
-**Space**5 ft.;**Reach** 5 ft. (10 ft. with +1 glaive)
+**Space** 5 ft.; **Reach** 5 ft. (10 ft. with +1 glaive)
 **Special Attacks** beard, lunging sweepMA (DC 18), mythic power (2/day, surge +1d6)
 
 **Spell-Like Abilities** (CL 12th)
@@ -35,8 +35,8 @@ At will—greater teleport (self plus 50 lbs. of objects only)
 
 #### Statistics
 
-**Str**21,**Dex**15,**Con**19,**Int**6,**Wis**12,**Cha** 10
-**Base Atk**+6;**CMB**+11;**CMD** 23
+**Str** 21, **Dex** 15, **Con** 19, **Int** 6, **Wis** 12, **Cha** 10
+**Base Atk** +6; **CMB** +11; **CMD** 23
 **Feats** Improved Initiative, Power Attack, Weapon Focus (glaive)MF
 **Skills** Climb +14, Intimidate +7, Perception +10, Sense Motive +6, Stealth +11
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.
@@ -52,7 +52,7 @@ At will—greater teleport (self plus 50 lbs. of objects only)
 
 **Beard (Ex)** If a mythic barbazu hits a single opponent with both claw attacks, it also lashes at the same target with its spiky, filthy beard. The victim takes 1d8+2 points of damage and must succeed on a DC 17 Fortitude save or contract devil chills. The save DC is Constitution-based.
 
-*Devil Chills:* Disease—injury; **save**Fort DC 17;**onset**1d4 days;**frequency**1/day;**effect**1d4 Str damage;**cure** 3 consecutive saves.
+*Devil Chills:* Disease—injury; **save** Fort DC 17; **onset** 1d4 days; **frequency** 1/day; **effect** 1d4 Str damage; **cure** 3 consecutive saves.
 
 **Glaive Parry (Ex)** This ability functions like the block attacks Universal Monster ability, as described in Pathfinder Roleplaying Game Mythic Adventures, though the mythic barbazu must be wielding its glaive to use the ability. However, a mythic barbazu can also use this ability to block an attack against itself or against an ally within reach of its glaive by spending one use of its mythic power as an immediate action. This use is in addition to the normal usage of block attacks once per round.
 

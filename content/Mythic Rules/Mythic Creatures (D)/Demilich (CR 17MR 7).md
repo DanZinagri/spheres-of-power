@@ -13,20 +13,20 @@ Glittering jewels encrust this leering skull as it floats up into the air on a s
 XP 102,400
 Pathfinder Roleplaying Game Bestiary 2
 NE Tiny undead (mythic)
-**Init**+14/–6MF, dual initiative;**Senses** darkvision 60 ft., true seeing; Perception +29
+**Init** +14/–6MF, dual initiative; **Senses** darkvision 60 ft., true seeing; Perception +29
 
 #### Defense
 
-**AC**34,**touch**23,**flat-footed** 30 (+3 Dex, +1 dodge, +11 natural, +7 profane, +2 size)
+**AC** 34, **touch** 23, **flat-footed** 30 (+3 Dex, +1 dodge, +11 natural, +7 profane, +2 size)
 **hp** 228 (15d8+161)
-**Fort**+18,**Ref**+17,**Will** +23
-**Defensive Abilities**channel resistance +5, devour spellMA, fortification (50%)MA, rejuvenationMA, unholy grace; DR 20/—;**Immune** acid, cold, electricity, magic, polymorph, undead traits
+**Fort** +18, **Ref** +17, **Will** +23
+**Defensive Abilities** channel resistance +5, devour spellMA, fortification (50%)MA, rejuvenationMA, unholy grace; DR 20/—; **Immune** acid, cold, electricity, magic, polymorph, undead traits
 **Weaknesses** vorpal susceptibility
 
 #### Offense
 
 **Speed** fly 30 ft. (perfect)
-**Space**2-1/2 ft.;**Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 **Special Attacks** devour soulMA, mythic power (7/day, surge +1d10), mythic spell-like abilitiesMA, obliterating wailMA
 
 **Spell-Like Abilities** (CL 20th; concentration +27)
@@ -35,8 +35,8 @@ At will—greater major curse (DC 26)MA, telekinesis (DC 21), wail of the banshe
 
 #### Statistics
 
-**Str**6,**Dex**17,**Con**—,**Int**23,**Wis**20,**Cha** 25
-**Base Atk**+11;**CMB**+12;**CMD** 30
+**Str** 6, **Dex** 17, **Con** —, **Int** 23, **Wis** 20, **Cha** 25
+**Base Atk** +11; **CMB** +12; **CMD** 30
 **Feats** Ability Focus (devour soul), AlertnessMF, Defensive Combat Training, Dodge, Flyby AttackB, Improved InitiativeMF, Iron WillMF, Lightning ReflexesMF, Mobility
 **Skills** Bluff +22, Fly +23, Knowledge (arcana) +24, Knowledge (dungeoneering) +21, Knowledge (history) +21, Knowledge (planes) +21, Knowledge (religion) +19, Perception +29, Sense Motive +29, Spellcraft +24, Stealth +29
 **Languages** Abyssal, Aklo, Common, Draconic, Giant, Infernal, Necril

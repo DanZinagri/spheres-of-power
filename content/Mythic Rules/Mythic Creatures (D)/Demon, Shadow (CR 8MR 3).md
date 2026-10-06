@@ -13,14 +13,14 @@ Only this shadowy bat-winged demon’s teeth and claws have any sense of physica
 XP 4,800
 Pathfinder Roleplaying Game Bestiary
 CE Medium outsider (chaotic, demon, evil, incorporeal, mythic)
-**Init**+11MF;**Senses** darkvision 60 ft.; Perception +20
+**Init** +11MF; **Senses** darkvision 60 ft.; Perception +20
 
 #### Defense
 
-**AC**22,**touch**19,**flat-footed** 18 (+5 deflection, +4 Dex, +3 natural)
+**AC** 22, **touch** 19, **flat-footed** 18 (+5 deflection, +4 Dex, +3 natural)
 **hp** 89 (7d10+51)
-**Fort**+5,**Ref**+11,**Will** +7
-**Defensive Abilities**incorporeal; DR 10/cold iron and epic and good;**Immune**electricity, poison;**Resist**acid 10, cold 10, fire 10;**SR** 19
+**Fort** +5, **Ref** +11, **Will** +7
+**Defensive Abilities** incorporeal; DR 10/cold iron and epic and good; **Immune** electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 19
 **Weaknesses** sunlight powerlessnessMA
 
 #### Offense
@@ -36,10 +36,10 @@ At will—deeper darkness, fear (DC 19), greater teleport (self only), telekines
 
 #### Statistics
 
-**Str**—,**Dex**18,**Con**17,**Int**14,**Wis**14,**Cha** 21
-**Base Atk**+7;**CMB**+11;**CMD** 26
+**Str** —, **Dex** 18, **Con** 17, **Int** 14, **Wis** 14, **Cha** 21
+**Base Atk** +7; **CMB** +11; **CMD** 26
 **Feats** Blind-Fight, Combat ReflexesMF, Improved InitiativeMF, Lightning Reflexes
-**Skills**Acrobatics +14, Bluff +15, Fly +22, Knowledge (local) +12, Knowledge (planes) +12, Perception +20, Sense Motive +12, Stealth +14;**Racial Modifiers** +8 Perception
+**Skills** Acrobatics +14, Bluff +15, Fly +22, Knowledge (local) +12, Knowledge (planes) +12, Perception +20, Sense Motive +12, Stealth +14; **Racial Modifiers** +8 Perception
 **Languages** Abyssal, Common; telepathy 100 ft.
 **SQ** possession masteryMA
 

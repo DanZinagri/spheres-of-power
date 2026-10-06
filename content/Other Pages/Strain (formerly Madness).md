@@ -41,7 +41,7 @@ When you experience a potential strain incident, you must typically succeed at a
 
 Whether this saving throw is successful or not, if the strain damage from a single strain incident is equal to or greater than your strain threshold, you gain a severance with a potency based on the relation between your total strain damage accrued and your strain edge (lesser if the total strain damage is below your strain edge, greater otherwise). In most cases, GMs should choose a severance that reflects the horror faced or your deep fears and potential vulnerabilities rather than rolling on tables.
 
-For instance, if you gain a lesser severance in an encounter with a mummy or some other undead that features a fear effect, it might make sense to choose the phobia severance. If you already suffer from Fractured Concentration and gain a greater severance, it might make sense for that severance to be increased to Dissonant Realities. However, when a random severance is appropriate, the GM can generate one by rolling on **Table: Lesser Severances**or**Table: Greater Severances**.
+For instance, if you gain a lesser severance in an encounter with a mummy or some other undead that features a fear effect, it might make sense to choose the phobia severance. If you already suffer from Fractured Concentration and gain a greater severance, it might make sense for that severance to be increased to Dissonant Realities. However, when a random severance is appropriate, the GM can generate one by rolling on **Table: Lesser Severances** or **Table: Greater Severances**.
 
 You are afflicted with a severance until that severance is removed. You may not always manifest the severance, though. If you are afflicted with severance and then are healed of all strain damage, all of your severances become dormant until you accrue further strain damage. Typically, a dormant severance does not affect you at all, but some severances feature an effect that occurs only while that severance is dormant. A lesser severance that becomes dormant does not manifest again until you take strain damage equal to or greater than your strain edge. A greater severance stays dormant only as long as your total strain damage remains at 0. Dormant severances, no matter the potency, can be removed only by *miracle* or *wish*.
 
@@ -82,7 +82,7 @@ The effects of Points of Tension and Harrowing Revelations increase with charact
 
 ## Severances
 
-Severances are afflictions, similar in structure to poisons, diseases, and curses. They are used as part of the strain system as an outcome of intensely stressful situations or uniquely dangerous mental attacks. If you are using the rules for strain and severances, when those rules call for a character to gain a severance, check the character’s total strain damage and determine if they would be afflicted with a lesser or greater severance. Once the potency of the severance is determined, roll on the appropriate table (**Table: Lesser Severances**and**Table: Greater Severances**) to determine the kind of severance the character develops, or select an appropriate severance that fits the situation.
+Severances are afflictions, similar in structure to poisons, diseases, and curses. They are used as part of the strain system as an outcome of intensely stressful situations or uniquely dangerous mental attacks. If you are using the rules for strain and severances, when those rules call for a character to gain a severance, check the character’s total strain damage and determine if they would be afflicted with a lesser or greater severance. Once the potency of the severance is determined, roll on the appropriate table (**Table: Lesser Severances** and **Table: Greater Severances**) to determine the kind of severance the character develops, or select an appropriate severance that fits the situation.
 
 ### Alleviating Severances
 
@@ -166,7 +166,7 @@ Strain is primarily a penalizing mechanic, although it may suit certain games to
 
 ### Casting Blockage [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 When you gain this severance, you gain a casting drawback with all of your casting traditions selected by the GM which is worth no more than a single drawback. You do not gain bonus spell points or any other boons as a result of possessing this drawback.
@@ -177,7 +177,7 @@ Your spellcasting is less natural to you, requiring some sort of additional feat
 
 ### Cravings [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 You gain a moderate addiction to one type of food or drug that you have consumed in the last week, using the DC of this severance as the addiction DC.
@@ -188,7 +188,7 @@ You develop a psychological dependence on a certain type of consumable.
 
 ### Dead Senses [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 –2 penalty on Strength-, Dexterity-, and Constitution-based checks as well as Fortitude and Reflex saves
@@ -199,7 +199,7 @@ Your body does not respond properly to stimuli, your dulled senses rendering it 
 
 ### Defeatism [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 Whenever you fail an attack roll, saving throw (excluding saving throws made because of this effect), or skill check and whenever every single target of an effect you create succeeds at a saving throw, you must attempt a Will save. On a failure, you take a -1 penalty on all d20 rolls and saving throw DCs of your abilities for 2d6 rounds. This penalty stacks with itself.
@@ -210,7 +210,7 @@ Failure sows doubt in your mind that only grows with further mistakes.
 
 ### Delusion
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 2d6 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 2d6 days
 
 **Effect**
 The afflicted character believes something that is not true, and no amount of evidence can dissuade him of the belief.
@@ -218,7 +218,7 @@ The afflicted character believes something that is not true, and no amount of ev
 
 ### Fascination
 
-**Type**lesser severance (compulsion);**Save**Will DC 14;**Onset** 1 day
+**Type** lesser severance (compulsion); **Save** Will DC 14; **Onset** 1 day
 
 **Effect**
 Each round when an afflicted character is within 30 feet and can see the object of her mania, she must succeed at a Will saving throw or rush to interact with that object. If the afflicted character succeeds at the saving throw by 5 or more, she can keep away from the object of the mania or resist the manic activity for 1 minute before having to attempt the saving throw again. After failing a saving throw and fully performing the mania’s compulsion, the afflicted character need not attempt another saving throw for 1 minute, as she has temporarily satisfied her obsession.
@@ -226,7 +226,7 @@ Each round when an afflicted character is within 30 feet and can see the object 
 
 ### Fractured Concentration
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 –2 penalty on Wisdom– and Intelligence-based checks; cannot take 10 or 20 on any check
@@ -234,7 +234,7 @@ Each round when an afflicted character is within 30 feet and can see the object 
 
 ### Fugue
 
-**Type**lesser severance;**Save**Will DC 18;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 18; **Onset** 1d4 days
 
 **Effect**
 
@@ -243,7 +243,7 @@ Each round when an afflicted character is within 30 feet and can see the object 
 
 ### Hallucination
 
-**Type**lesser severance;**Save**Will DC 14;**Onset** 2d6 days
+**Type** lesser severance; **Save** Will DC 14; **Onset** 2d6 days
 
 **Effect**
 –4 penalty on any Will saving throw against or to disbelieve illusions, and illusions of things that are not there. Hallucinations can affect all of the senses, but some of the most potentially debilitating are auditory hallucinations, where the afflicted character hears voices talking in his head, and visual hallucinations, where the afflicted character sees things that aren’t there.
@@ -251,7 +251,7 @@ Each round when an afflicted character is within 30 feet and can see the object 
 
 ### Halted Movements [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 18;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 18; **Onset** 1d4 days
 
 **Effect**
 All of your movement speeds are reduced by half and you cannot take 5-foot steps.
@@ -262,7 +262,7 @@ You hesitate in your movements, taking every step with trying caution.
 
 ### Instinctive Defiance [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 14;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 14; **Onset** 1d4 days
 
 **Effect**
 Whenever another creature gives you an order or command, attempt a Will save. On a failure, you become antagonized towards that creature.
@@ -273,7 +273,7 @@ Your troubled experiences with authority give you an impulse to defy it regardle
 
 ### Isolation Terror [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 18;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 18; **Onset** 1d4 days
 
 **Effect**
 Whenever you become blinded or deafened (which may be the result from injury, magic, or from an environmental effect that suddenly renders an area dark or soundless), you must succeed at a Will save or become shaken for 1d6 rounds. The next round, you can choose to attempt another saving throw to end the effect, but if you fail, you become scared instead. A scared character can choose to attempt another saving throw to become shaken again, but if they fail, they become frightened for 1d6 rounds instead.
@@ -284,7 +284,7 @@ The loss of your senses drives you into a panic as the deprivation of power draw
 
 ### Lethargic Surrender
 
-**Type**lesser severance;**Save**Will DC 14;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 14; **Onset** 1d4 days
 
 **Effect**
 –2 penalty on initiative checks, and morale bonuses are halved (minimum +0)
@@ -292,7 +292,7 @@ The loss of your senses drives you into a panic as the deprivation of power draw
 
 ### Mimicry [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 Whenever you perform a type of action which you have not witnessed another creature perform within the last round, you take a -4 penalty on any d20 rolls associated with that action.
@@ -303,7 +303,7 @@ You struggle to guide your own actions, relying on the impressions of others to 
 
 ### Mutterings [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 You take a -4 penalty on Charisma-based skill checks. Creatures who succeed at a Sense Motive check against you by 5 or more can read your surface thoughts (as per the greater charm version of the Read Mind talent).
@@ -314,7 +314,7 @@ You frequently talk to yourself nervously, whispering mantras or thoughts under 
 
 ### Night Terrors
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1 day
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1 day
 
 **Effect**
 Each night when the afflicted character sleeps, she must succeed at a saving throw or wake up fatigued (see below). A character suffering from night terrors is plagued by persistent terrifying dreams, worry, or terror that impedes her from getting restful sleep. Each night the afflicted character must succeed at a saving throw or wake up fatigued, though multiple nights of night terrors do not increase the condition to exhausted, and an exhausted character with night terrors wakes up after 8 hours of sleep either rested or fatigued based on the success or failure of the saving throw for this affliction. Often a character suffering from night terrors will bolt upright during sleep, eyes open, and scream, though less-dramatic symptoms are also possible. A character who awakens fatigued from night terrors doesn’t count as having had a good night’s rest for the purpose of preparing new spells, and she can’t remove the fatigue until she gets a good night’s rest by succeeding at the Will save against night terrors.
@@ -322,7 +322,7 @@ Each night when the afflicted character sleeps, she must succeed at a saving thr
 
 ### Overkill [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 Whenever you reduce a creature to 0 or fewer hit points, you must attempt a Will save against this severance. On a failure, you must spend your next turn performing a coup de grace on the target or destroying their body as a full-round action (if you are capable of doing so).
@@ -333,7 +333,7 @@ You are paranoid about death and take extreme measures to make sure foes do not 
 
 ### Paranoia
 
-**Type**lesser severance;**Save**Will DC 17;**Onset** 2d6 days
+**Type** lesser severance; **Save** Will DC 17; **Onset** 2d6 days
 
 **Effect**
 The afflicted character gains a +2 bonus on saving throws against charm effects, but takes a –2 penalty on Bluff, Diplomacy, and Sense Motive checks. When the afflicted character attempts a Sense Motive check, the GM rolls the check in secret, and failure gives the afflicted character the impression that those whose motives he is trying to sense are plotting against him in some way. Lastly, any time the afflicted character tries to use or gain a benefit from the aid another action, or is the target of a beneficial spell or effect from an ally, he must succeed at a Will saving throw in order to take the aid another action or gain the benefit from the action, spell, or effect.
@@ -341,7 +341,7 @@ The afflicted character gains a +2 bonus on saving throws against charm effects,
 
 ### Performance Anxiety [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 14;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 14; **Onset** 1d4 days
 
 **Effect**
 Whenever you are in combat, you must attempt a Will save at the start of your turn. On a failure, there is a 25% chance that you cannot act this turn.
@@ -352,7 +352,7 @@ In stressful situations, you tend to freeze up, incapable of doing much more tha
 
 ### Perpetual Discomfort [Cata. HB]
 
-**Type**lesser severance;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser severance; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 You are shaken so long as you are wearing any sort of armor or similarly heavy clothing. This ignores any immunity to the shaken condition you may possess.
@@ -363,7 +363,7 @@ Heavy clothing feels confining and stressful for you, impairing your movements o
 
 ### Phobia
 
-**Type**lesser severance (fear);**Save**Will DC 14;**Onset** 1 day
+**Type** lesser severance (fear); **Save** Will DC 14; **Onset** 1 day
 
 **Effect**
 Each round an afflicted character is within 30 feet and can see the object of her phobia, she must succeed at a Will saving throw or become shaken. The next round, the afflicted character can choose to attempt another saving throw to end the effect, but if she fails, she becomes scared instead. A scared character can choose to attempt another saving throw to become shaken again, but if she fails, she becomes frightened for 1d6 rounds instead.
@@ -376,7 +376,7 @@ Each round an afflicted character is within 30 feet and can see the object of he
 
 ### Catatonia
 
-**Type**greater severance;**Save**Will DC 24;**Onset** immediate
+**Type** greater severance; **Save** Will DC 24; **Onset** immediate
 
 **Effect**
 The afflicted character acts as if she were cowering, but this is not a fear effect, unlike other forms of cowering.
@@ -384,7 +384,7 @@ The afflicted character acts as if she were cowering, but this is not a fear eff
 
 ### Cognitive Block
 
-**Type**greater severance;**Save**Will DC 20;**Onset** immediate
+**Type** greater severance; **Save** Will DC 20; **Onset** immediate
 
 **Effect**
 The afflicted character can no longer speak or write and has difficulty concentrating. He can no longer use command word items, spell-trigger items, or spell-completion items. He takes a –10 penalty on concentration checks. He cannot cast spells with a verbal or thought component, and cannot prepare spells from a spellbook.
@@ -392,7 +392,7 @@ The afflicted character can no longer speak or write and has difficulty concentr
 
 ### Death Wish [Cata. HB]
 
-**Type**greater severance;**Save**Will DC 24;**Onset** 2d6 days
+**Type** greater severance; **Save** Will DC 24; **Onset** 2d6 days
 
 **Effect**
 The afflicted character cannot or does not want to avoid harm, taking a -10 penalty on AC and a -4 penalty on all saving throws.
@@ -403,7 +403,7 @@ You have forsaken any sense of self-preservation, simply allowing harm to conver
 
 ### Dissonant Realities
 
-**Type**greater severance;**Save**Will DC 22;**Onset** 1d6 days
+**Type** greater severance; **Save** Will DC 22; **Onset** 1d6 days
 
 **Effect**
 –4 penalty on Wisdom– and Charisma-based checks; cannot take 10 or take 20 on any check. Each time a character afflicted with this severance finds himself in a stressful situation (such as combat), he must succeed at a Will saving throw or become confused for 1d6 rounds.
@@ -411,7 +411,7 @@ You have forsaken any sense of self-preservation, simply allowing harm to conver
 
 ### Extreme Measures
 
-**Type**greater severance;**Save**Will DC 22;**Onset** 3d6 days
+**Type** greater severance; **Save** Will DC 22; **Onset** 3d6 days
 
 **Effect**
 The afflicted character’s alignment shifts to evil, and he gains a +10 competence bonus on Bluff checks to hide this severance. Once per day, the afflicted character can attempt a Will saving throw to suppress this effect for 24 hours.
@@ -419,7 +419,7 @@ The afflicted character’s alignment shifts to evil, and he gains a +10 compete
 
 ### Halted Activity [Cata. HB]
 
-**Type**greater severance;**Save**Will DC 22;**Onset** 2d6 days
+**Type** greater severance; **Save** Will DC 22; **Onset** 2d6 days
 
 **Effect**
 The afflicted character rolls twice on all d20 rolls, taking the lower result.
@@ -430,7 +430,7 @@ You constantly second-guess your actions, leading to frequent failures.
 
 ### Passenger in the Mind
 
-**Type**greater severance;**Save**Will DC 20;**Onset** 2d6 days
+**Type** greater severance; **Save** Will DC 20; **Onset** 2d6 days
 
 **Effect**
 –6 penalty on Will saving throws and Wisdom-based checks, and another entity controlling the character’s mind. This is a complicated affliction that manifests as two or more distinct and different personalities in the same mind. The number of entities is up to the GM, as is the nature of the entities. Should the affliction worsen in some way (such as by gaining this severance again), the number of additional personalities might increase as well.
@@ -440,7 +440,7 @@ Each morning upon waking and each time the afflicted character is revived from u
 
 ### Severed Senses
 
-**Type**greater severance;**Save**Will DC 20;**Onset** immediate
+**Type** greater severance; **Save** Will DC 20; **Onset** immediate
 
 **Effect**
 The afflicted character becomes blinded or deafened, loses another special sense (like scent or blindsense), loses the use of limbs, or loses a special movement speed (like a fly or swim speed). The GM chooses how the severed sense manifests. Furthermore, magical effects that typically remove these conditions (such as *remove blindness/deafness*) have no effect on this severance; the severance must be cured in order to regain the senses or motor skills
@@ -476,7 +476,7 @@ Thematically, the system of sanity damage harkens back to an era of asylums, lob
 
 ### Casting Blockage [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 When you gain this madness, you gain a casting drawback with all of your casting traditions selected by the GM which is worth no more than a single drawback. You do not gain bonus spell points or any other boons as a result of possessing this drawback.
@@ -487,7 +487,7 @@ Your spellcasting is less natural to you, requiring some sort of additional feat
 
 ### Cravings [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 You gain a moderate addiction to one type of food or drug that you have consumed in the last week, using the DC of this madness as the addiction DC.
@@ -498,7 +498,7 @@ You develop a psychological dependence on a certain type of consumable.
 
 ### Dead Senses [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 –2 penalty on Strength-, Dexterity-, and Constitution-based checks as well as Fortitude and Reflex saves
@@ -509,7 +509,7 @@ Your body does not respond properly to stimuli, your dulled senses rendering it 
 
 ### Defeatism [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 Whenever you fail an attack roll, saving throw (excluding saving throws made because of this effect), or skill check and whenever every single target of an effect you create succeeds at a saving throw, you must attempt a Will save. On a failure, you take a -1 penalty on all d20 rolls and saving throw DCs of your abilities for 2d6 rounds. This penalty stacks with itself.
@@ -520,7 +520,7 @@ Failure sows doubt in your mind that only grows with further mistakes.
 
 ### Halted Movements [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 18;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 18; **Onset** 1d4 days
 
 **Effect**
 All of your movement speeds are reduced by half and you cannot take 5-foot steps.
@@ -531,7 +531,7 @@ You hesitate in your movements, taking every step with trying caution.
 
 ### Instinctive Defiance [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 14;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 14; **Onset** 1d4 days
 
 **Effect**
 Whenever another creature gives you an order or command, attempt a Will save. On a failure, you become antagonized towards that creature.
@@ -542,7 +542,7 @@ Your troubled experiences with authority give you an impulse to defy it regardle
 
 ### Isolation Terror [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 18;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 18; **Onset** 1d4 days
 
 **Effect**
 Whenever you become blinded or deafened (which may be the result from injury, magic, or from an environmental effect that suddenly renders an area dark or soundless), you must succeed at a Will save or become shaken for 1d6 rounds. The next round, you can choose to attempt another saving throw to end the effect, but if you fail, you become scared instead. A scared character can choose to attempt another saving throw to become shaken again, but if they fail, they become frightened for 1d6 rounds instead.
@@ -553,7 +553,7 @@ The loss of your senses drives you into a panic as the deprivation of power draw
 
 ### Mimicry [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 Whenever you perform a type of action which you have not witnessed another creature perform within the last round, you take a -4 penalty on any d20 rolls associated with that action.
@@ -564,7 +564,7 @@ You struggle to guide your own actions, relying on the impressions of others to 
 
 ### Mutterings [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 You take a -4 penalty on Charisma-based skill checks. Creatures who succeed at a Sense Motive check against you by 5 or more can read your surface thoughts (as per the greater charm version of the Read Mind talent).
@@ -575,7 +575,7 @@ You frequently talk to yourself nervously, whispering mantras or thoughts under 
 
 ### Overkill [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 Whenever you reduce a creature to 0 or fewer hit points, you must attempt a Will save against this madness. On a failure, you must spend your next turn performing a coup de grace on the target or destroying their body as a full-round action (if you are capable of doing so).
@@ -586,7 +586,7 @@ You are paranoid about death and take extreme measures to make sure foes do not 
 
 ### Performance Anxiety [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 14;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 14; **Onset** 1d4 days
 
 **Effect**
 Whenever you are in combat, you must attempt a Will save at the start of your turn. On a failure, there is a 25% chance that you cannot act this turn.
@@ -597,7 +597,7 @@ In stressful situations, you tend to freeze up, incapable of doing much more tha
 
 ### Perpetual Discomfort [Cata. HB]
 
-**Type**lesser madness;**Save**Will DC 16;**Onset** 1d4 days
+**Type** lesser madness; **Save** Will DC 16; **Onset** 1d4 days
 
 **Effect**
 You are shaken so long as you are wearing any sort of armor or similarly heavy clothing. This ignores any immunity to the shaken condition you may possess.
@@ -612,7 +612,7 @@ Heavy clothing feels confining and stressful for you, impairing your movements o
 
 ### Death Wish [Cata. HB]
 
-**Type**greater madness;**Save**Will DC 24;**Onset** 2d6 days
+**Type** greater madness; **Save** Will DC 24; **Onset** 2d6 days
 
 **Effect**
 The afflicted character cannot or does not want to avoid harm, taking a -10 penalty on AC and a -4 penalty on all saving throws.
@@ -623,7 +623,7 @@ You have forsaken any sense of self-preservation, simply allowing harm to conver
 
 ### Halted Activity [Cata. HB]
 
-**Type**greater madness;**Save**Will DC 22;**Onset** 2d6 days
+**Type** greater madness; **Save** Will DC 22; **Onset** 2d6 days
 
 **Effect**
 The afflicted character rolls twice on all d20 rolls, taking the lower result.

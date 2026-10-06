@@ -11,50 +11,50 @@ It is possible to have multiple sphere-specific drawbacks from the same sphere, 
 
 You cannot gain sphere-specific drawbacks when gaining a sphere through temporary talents (such as those that are only gained for a single casting or that last less than 24 hours), nor use a temporary talent to buy off a sphere-specific drawback you possess.
 
-## Fueled by Futility [Alienist HB]
+#### Fueled by Futility [Alienist HB]
 
 You must select Violent Recuperation with this talent. You can only use your Life abilities when Violent Recuperation is triggered.
 
 **Incompatible:** Glorious
 
-## Glorious
+#### Glorious
 
 You are not a healer, you are a soldier, and life cannot be given before it is taken. You cannot use your Life sphere abilities without successfully attacking a worthy enemy first. You gain the Taste Of Victory talent as your bonus talent for this drawback, but you can only use your Life abilities when Taste Of Victory is triggered.
 
 **Incompatible:** Medicinal
 
-## Inhuman Healing
+#### Inhuman Healing
 
 Your cure effects cannot heal living creatures. You gain Esoteric Healing with the bonus talent gained through this drawback.
 
-## Limited Restoration
+#### Limited Restoration
 
 Choose either restore or cure/invigorate. You can only use this ability or abilities and lose the ability to use the ones not chosen.
 
-## Medicinal
+#### Medicinal
 
 You must select the Instill Life talent with the bonus talent granted by this drawback, and you can only use your Life sphere abilities through this talent.
 
 **Incompatible:** Glorious, Sympathetic
 
-## Regenerate
+#### Regenerate
 
 You may only target yourself with your Life sphere abilities.
 
 **Incompatible:** Sympathetic
 
-## Slow Recovery
+#### Slow Recovery
 
 You lack the ability to cause rapid healing. You must select the Revitalize talent with the bonus talent granted by this drawback, and cannot use cure unless you use it through the Revitalize talent.
 
 **Incompatible:** Limited Restoration (restore)
 
-## Sympathetic
+#### Sympathetic
 
 You may only restore others by taking their afflictions unto yourself. You must select the Empathic Healing talent with the bonus talent gained from this drawback and can only use the restore ability with the Empathic Healing talent.
 
 **Incompatible:** Limited Restoration (cure/invigorate), Medicinal, Regenerate
 
-## Unnatural Remedy
+#### Unnatural Remedy
 
 Your healing magic may be cold, eerie, harsh, or pervasive. Whenever you use cure, restore, or invigorate on a target (even yourself), they reflexively resist (even while unconscious), and must attempt a Will saving throw against the effect as if they were an unwilling target. On a success, restore is negated and any healing or temporary hit points bestowed by cure or invigorate are halved. Targets cannot choose to fail this saving throw.
