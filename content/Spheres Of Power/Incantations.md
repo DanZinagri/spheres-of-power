@@ -992,3 +992,6 @@ This exotic ritual can be used to transport buildings or even entire nations acr
 
 **Escalation** If this incantation is performed 12 times over the course of a year, the area expands up to a maximum size of an entire planet, star, or demiplane.
 
+---
+
+*Archived: [[Incantations (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

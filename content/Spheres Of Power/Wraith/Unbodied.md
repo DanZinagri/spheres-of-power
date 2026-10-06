@@ -40,3 +40,6 @@ This replaces the wraith haunt gained at 3rd level.
 
 At 20th level, the unbodied may remain in physical form for any number of minutes in a day and no longer takes damage for remaining outside a host while in wraith form.
 
+---
+
+*Archived: [[Unbodied (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

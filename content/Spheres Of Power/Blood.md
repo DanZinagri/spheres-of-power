@@ -507,3 +507,6 @@ The blood of certain creatures can be used when crafting alchemical items to red
 | Troll oil | Troll | - | Fast healing, regeneration |
 | Woundweal | - | - | Poison |
 
+---
+
+*Archived: [[Blood (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

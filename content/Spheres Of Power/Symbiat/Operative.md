@@ -56,3 +56,6 @@ At 20th level, once per round the operative may use a mandate, totem, or trick a
 
 This replaces greater psionics.
 
+---
+
+*Archived: [[Operative (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

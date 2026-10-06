@@ -22,3 +22,6 @@ The sphere bard gains a small reservoir of energy he can call on to create truly
 
 A sphere bard gains 3/4ths of a magic talent every level (the same progression as he gains caster levels). Whenever the bard would receive a magic talent from his class, he may instead choose a bardic masterpiece he meets the prerequisites for. His caster level for masterpieces is equal to his class level.
 
+---
+
+*Archived: [[Sphere Bard (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

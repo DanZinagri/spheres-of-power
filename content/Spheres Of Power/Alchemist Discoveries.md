@@ -122,3 +122,6 @@ As a full-round action, the alchemist may throw a more powerful bomb that does a
 
 Once per day as a free action, the alchemist may choose an Alteration talent he does not possess. He gains that talent and keep it until he rests and regains spell points.
 
+---
+
+*Archived: [[Alchemist Discoveries (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

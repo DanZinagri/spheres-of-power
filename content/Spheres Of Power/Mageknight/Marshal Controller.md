@@ -80,3 +80,6 @@ When the marshal controller uses her patrol ability, she may spend a spell point
 
 Whenever the marshal controller uses her patrol ability, she gains a +30 feet enhancement bonus to her base speed until the end of her next turn. This additional movement may be used with her patrol ability.
 
+---
+
+*Archived: [[Marshal Controller (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

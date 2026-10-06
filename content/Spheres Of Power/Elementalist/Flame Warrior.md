@@ -36,3 +36,6 @@ At 20th level, the flame warrior’s body has become infused with the power of f
 
 This replaces energy body.
 
+---
+
+*Archived: [[Flame Warrior (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -97,3 +97,6 @@ The next attack the drifting lotus makes transfers the latent momentum of his te
 
 Until the beginning of his next turn, the drifting lotus is surrounded by a dizzying distortion. Anyone who attacks him or targets him with an effect requiring line of sight must succeed on a Will save (DC 10 + 1/2 his drifting lotus level + his casting ability modifier) or become sickened for 1 minute.
 
+---
+
+*Archived: [[Drifting Lotus (Unchained Monk Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -68,3 +68,6 @@ At 19th level, whenever the sphere magus uses his Knowledge Pool class feature, 
 
 This alters greater spell access, but can still be traded out by other archetypes.
 
+---
+
+*Archived: [[Sphere Magus (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

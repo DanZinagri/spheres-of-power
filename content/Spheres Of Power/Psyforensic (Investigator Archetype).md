@@ -20,3 +20,6 @@ A psyforensic gains the Divination sphere as a bonus sphere at 1st level. This r
 
 Beginning at 3rd level, once per day the psyforensic may spend an hour to enter a trance to gain the benefits of the autopsy ritual. The psyforensic may use consult the spirits an additional time per day every three levels thereafter (6th, 9th, etc.). This replaces the trap sense class feature.
 
+---
+
+*Archived: [[Psyforensic (Investigator Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -56,3 +56,6 @@ At 19th level, whenever a divine lariat successfully confirms a critical hit wit
 
 This ability replaces spell critical.
 
+---
+
+*Archived: [[Divine Lariat (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

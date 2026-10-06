@@ -36,3 +36,6 @@ At 20th level, a solipsist becomes manifested surreality and is treated as an ab
 
 This replaces feytouched.
 
+---
+
+*Archived: [[Solipsist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

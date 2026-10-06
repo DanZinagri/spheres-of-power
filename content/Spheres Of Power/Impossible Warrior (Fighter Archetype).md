@@ -52,3 +52,6 @@ At 18th level, the impossible warrior may use his impossible answer and unlikely
 
 This replaces the bonus feat gained at 18th level.
 
+---
+
+*Archived: [[Impossible Warrior (Fighter Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

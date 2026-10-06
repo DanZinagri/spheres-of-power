@@ -76,3 +76,6 @@ The broadcast blade gains Spatial Reach as a bonus magic talent. When she uses i
 
 When the broadcast blade makes two attacks with broadcast, she may use a different shape and target a different area with each attack.
 
+---
+
+*Archived: [[Broadcast Blade (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -50,3 +50,6 @@ At 20th level, the draugr gains the mighty rage ability of the barbarian.
 
 This replaces wraith form mastery.
 
+---
+
+*Archived: [[Draugr (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

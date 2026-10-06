@@ -69,3 +69,6 @@ At 20th level, the mystic scion gains the unchained barbarian’s mighty rage ab
 
 This alters mighty bloodrage.
 
+---
+
+*Archived: [[Mystic Scion (Bloodrager Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

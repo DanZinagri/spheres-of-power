@@ -67,3 +67,6 @@ When channeling the trickster spirit, a medium may choose to benefit from the fo
 
 You gain two skill talents of your choice that you meet the prerequisites for, plus an additional skill talent at 6th, 11th, and 17th levels. You may choose different talents each time you channel a trickster spirit.
 
+---
+
+*Archived: [[Sphere Medium (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -24,3 +24,6 @@ Only 2 Hit Dice of creatures per caster level may be affected with this ability,
 
 This ability replaces lingering transformation.
 
+---
+
+*Archived: [[Beastlord (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

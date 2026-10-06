@@ -631,3 +631,6 @@ Finally, the knowledge of an individual’s dreamscape is a powerful thing in th
 
 **Example:** An incanter with an Intelligence of 20 and a Wisdom of 18, plus the Sphere Focus (Mind) feat would have the coordinates of his dreamscape treated as a spell with a complexity of 5 (Mind sphere + 4 talents), meaning his coordinates would take up 5 pages and require 5 hours to copy.
 
+---
+
+*Archived: [[Mind (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

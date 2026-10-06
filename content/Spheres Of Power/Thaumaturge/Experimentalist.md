@@ -56,3 +56,6 @@ If using the Spheres of Might system, he may also gain [[Alchemy]] sphere talent
 
 This alters bonus feats.
 
+---
+
+*Archived: [[Experimentalist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

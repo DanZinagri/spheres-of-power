@@ -37,3 +37,6 @@ At 2nd level, as long as her animal companion is within line of sight, the green
 
 This replaces precise companion.
 
+---
+
+*Archived: [[Greenrunner (Hunter Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

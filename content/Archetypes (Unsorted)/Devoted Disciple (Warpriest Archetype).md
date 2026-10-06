@@ -21,3 +21,6 @@ This alters blessings.
 
 At 2nd level, the devoted disciple can channel his fervor ability to increase his combat ability. As a swift action, he can expend a use of his fervor ability to give himself greater combat ability. He may use his sacred blood offensively or defensively. When used offensively, he gains a +2 sacred or profane bonus (depending on whether he channels positive or negative energy, respectively) to his attack and damage rolls, while using his sacred blood defensively he gains this bonus to his saving throws and AC instead. This bonus increases by +1 for every 4 levels after the 2nd, to a maximum of +6 at 18th level. This bonus lasts for 1 minute. The devoted disciple may change his blood from being offensive to defense or vice-versa as a swift action. This does not alter the duration of the ability.
 
+---
+
+*Archived: [[Devoted Disciple (Warpriest Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -724,3 +724,6 @@ This sword appears relatively normal at first glance, and may become a magic wea
 **Construction Requirements**
 Craft Apparatus, Mythic Crafter, Divination sphere (Advanced Alternate Divinations (advanced, sense), Discern Location (advanced, divine)); **Cost** 25,000 gp
 
+---
+
+*Archived: [[Apparatuses Rods (ConstantAt-Will Items) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

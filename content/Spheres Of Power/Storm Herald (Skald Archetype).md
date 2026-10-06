@@ -60,3 +60,6 @@ Starting at 9th level, the storm herald gains resistance 10 to electricity and s
 
 This replaces damage reduction and the rage power granted at 9th level.
 
+---
+
+*Archived: [[Storm Herald (Skald Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

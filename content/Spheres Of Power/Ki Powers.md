@@ -46,3 +46,6 @@ The monk must possess the appropriate class feature in order to grant it to his 
 
 Gain a single talent of your choice with the (stance) tag that you qualify for. You cannot select this ki power if you do not qualify for any (stance) talents. You may select this ki power more than once. Each time it is selected, gain another (stance) talent.
 
+---
+
+*Archived: [[Ki Powers (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

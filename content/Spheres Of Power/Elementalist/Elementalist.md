@@ -215,3 +215,6 @@ These boots are rugged and durable, suitable for use in all types of different e
 **Construction Requirements**
 Craft Apparatus, Nature sphere, Protection sphere (Energy Resistance (aegis, ward)), creator must have the elemental movement ability; **Cost** 4,000 gp
 
+---
+
+*Archived: [[Elementalist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

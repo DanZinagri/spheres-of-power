@@ -194,3 +194,6 @@ Any successful hit with a viridium weapon causes the target to contract leprosy 
 | Ammunition | +20 gp per item |
 | Weapon | +200 gp |
 
+---
+
+*Archived: [[Special Materials (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

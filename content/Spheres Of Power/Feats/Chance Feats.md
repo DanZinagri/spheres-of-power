@@ -40,3 +40,6 @@ When you first take a chance feat, you gain a kismet pool if you did not otherwi
 
 **Benefit:** You may spend a kismet point to roll a d6 as a free action. At any time until you next regain kismet you may spend an immediate action to add the result of one of those die rolls to any attack roll, damage roll, or CMB, skill, or ability check. You may decide to use this after you roll but before you know the result. You may only have one use of Weighted Dice active at a time, and once you have used a die roll, it is expended.
 
+---
+
+*Archived: [[Chance Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

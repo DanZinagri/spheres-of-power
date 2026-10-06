@@ -92,3 +92,6 @@ This scroll houses a complicated formula that, when read, teleports its reader i
 **Construction Requirements**
 Capture Spell, Creation sphere, Warp sphere; **Cost** 1,625 gp
 
+---
+
+*Archived: [[Scrolls (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -46,3 +46,6 @@ At 20th level the darkshaper may activate shadow residue as a free action.
 
 This replaces infinite arsenal.
 
+---
+
+*Archived: [[Darkshaper (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

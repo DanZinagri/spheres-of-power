@@ -32,3 +32,6 @@ At 12th level, the beastmind’s ability to shift her mind can fool even magical
 
 This replaces immunity to disease.
 
+---
+
+*Archived: [[Beastmind (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

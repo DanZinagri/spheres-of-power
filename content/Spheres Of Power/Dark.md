@@ -1720,3 +1720,7 @@ In addition, when you apply the meld to a target you may spend an additional poi
 </div>
 
 </div>
+
+---
+
+*Archived: [[Dark (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

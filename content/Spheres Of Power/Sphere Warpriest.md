@@ -34,3 +34,6 @@ The sphere warpriest gains a small reservoir of energy he can call on to create 
 
 A sphere warpriest gains 3/4ths of a magic talent every level (the same progression as he gains caster levels).
 
+---
+
+*Archived: [[Sphere Warpriest (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

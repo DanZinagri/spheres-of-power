@@ -573,3 +573,6 @@ You can increase the damage to the land around you to amplify your power.
 
 Union feats are a special variety of drawback feats whose benefits only apply between creatures who have selected each other as their bonded creature for the Bonded Casting drawback. All Union feats count as both teamwork feats and drawback feats. Whenever a character shares a union feat they know with their bonded creature, the duration of the shared union feat is doubled.
 
+---
+
+*Archived: [[DrawbackDefiler Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

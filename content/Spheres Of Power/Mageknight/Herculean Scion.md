@@ -42,3 +42,6 @@ At 20th level, her type changes to outsider, though she may still be returned to
 
 This ability replaces spellsword.
 
+---
+
+*Archived: [[Herculean Scion (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

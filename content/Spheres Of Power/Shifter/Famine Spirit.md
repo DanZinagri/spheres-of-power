@@ -79,3 +79,6 @@ A creature with its soul consumed cannot be resurrected until the famine spirit 
 
 This replaces second skin.
 
+---
+
+*Archived: [[Famine Spirit (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

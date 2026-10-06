@@ -1303,3 +1303,7 @@ It should be noted that while deities have mythic ranks similar to players and o
 **Skills:** A wightborne gains a +8 racial bonus on Stealth checks.
 
 **Feats:** A wightborne gains Blind Fight as a bonus feat.
+
+---
+
+*Archived: [[Sphere Templates (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

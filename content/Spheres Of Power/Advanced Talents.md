@@ -16,3 +16,6 @@ Unlike basic talents, all advanced talents are *optional* rules and are availabl
 
 **Wiki Note:** Due to space limitations, advanced talents from Ultimate Spheres of Power are now contained on individual sphere pages. The basic rules for advanced talents are included here for reference.
 
+---
+
+*Archived: [[Advanced Talents (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

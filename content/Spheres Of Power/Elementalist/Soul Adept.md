@@ -48,3 +48,6 @@ At 20th level, the soul adept’s body becomes one with the spirit world. He gai
 
 This replaces energy body.
 
+---
+
+*Archived: [[Soul Adept (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -20,3 +20,6 @@ The sphere ranger gains a small reservoir of energy he can call on to create tru
 
 A sphere ranger gains one magic talent at 4th level and every 2 levels thereafter.
 
+---
+
+*Archived: [[Sphere Ranger (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

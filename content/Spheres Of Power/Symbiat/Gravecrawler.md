@@ -148,3 +148,6 @@ This replaces greater psionics.
 
 **Special:** This feat can be taken multiple times.
 
+---
+
+*Archived: [[Gravecrawler (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

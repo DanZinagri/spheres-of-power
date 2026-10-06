@@ -44,3 +44,6 @@ This replaces the bonus feat gained at 14th level.
 
 A reincarnated master may still gain up to two specialization points worth of incanter specializations. One specialization point replaces the bonus feats gained at 1st, 10th, and 20th level. A second specialization point replaces the bonus feats gained at 12th, 16th, and 18th levels.
 
+---
+
+*Archived: [[Reincarnated Master (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

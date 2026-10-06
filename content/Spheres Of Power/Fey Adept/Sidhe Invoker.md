@@ -54,3 +54,6 @@ At 10th level, when the sidhe invoker uses create reality, the illusion becomes 
 
 This replaces hide in plain sight.
 
+---
+
+*Archived: [[Sidhe Invoker (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

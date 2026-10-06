@@ -216,3 +216,6 @@ For the purpose of determining how many additional allies you may have in a squa
 
 **Benefit:** You may rally any ally in your squadron within long range or that you can see, even if they are not within range of a totem, and you can always rally yourself.
 
+---
+
+*Archived: [[Squadron Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

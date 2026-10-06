@@ -44,3 +44,6 @@ Changes to herself never cost a spell point and always have an unlimited duratio
 
 This replaces second skin.
 
+---
+
+*Archived: [[Fey Incarnate (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

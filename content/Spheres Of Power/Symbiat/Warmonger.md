@@ -62,3 +62,6 @@ At 16th level, the warmonger may channel martial power into an ally. That ally g
 
 This replaces telekinetic colossus.
 
+---
+
+*Archived: [[Warmonger (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

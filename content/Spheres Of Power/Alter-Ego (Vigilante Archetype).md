@@ -28,3 +28,6 @@ This replaces seamless guise and specialization and alters dual identity and vig
 
 The nature of the location the alter-ego goes when her companion is summoned is left deliberately vague. Some may be held in stasis in a mystic life-support pod orbiting the world, some may pass the time in an idyllic garden in a fast time plane, and others may be thrust into epic battles between cosmic forces. Ultimately, for the purposes of normal gameplay, the alter-ego ceases to exist while her companion is present, just as there are no concrete rules governing the activities of companions when they are not summoned.
 
+---
+
+*Archived: [[Alter-Ego (Vigilante Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

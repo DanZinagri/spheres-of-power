@@ -858,3 +858,6 @@ Born of the rare crossing between a mortal and titan, titanspawn possess the ins
 
 **Shadow Symbiosis:** Believing they will one day return to the shadow from which they emerged, wayangs have an almost symbiotic relationship with the darkness. At 1st level they gain a +2 bonus to all saves against Dark sphere effects as well as spells of the shadow subschool, a +1 bonus to the DC of Dark sphere effects they cast, and Basic Magic Training feat in the Dark sphere. This replaces shadow resistance and shadow magic.
 
+---
+
+*Archived: [[Alternate Racial Traits (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

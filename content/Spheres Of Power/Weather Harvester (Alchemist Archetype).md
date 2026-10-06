@@ -46,3 +46,6 @@ This ability replaces brew potion, poison resistance, and poison immunity.
 
 **Spheres and Weather:** Instead of allowing the weather harvester to set the required weather for each harvester he makes, a GM may have each sphere be associated a particular type of weather; harvesters’ required weather must then be associated weather of the harvester’s sphere. For example, Death might be associated with storms, so any harvester that animates undead would require stormy weather.
 
+---
+
+*Archived: [[Weather Harvester (Alchemist Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

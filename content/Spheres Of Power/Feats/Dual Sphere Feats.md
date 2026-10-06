@@ -10,3 +10,6 @@ parent: "[[Feats]]"
 
 In Ultimate Spheres of Power, Dual Sphere feats can be found on the pages for their respective feats. While this page is no longer in use, you can change to the Original Tab if you still want to use the older feats.
 
+---
+
+*Archived: [[Dual Sphere Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

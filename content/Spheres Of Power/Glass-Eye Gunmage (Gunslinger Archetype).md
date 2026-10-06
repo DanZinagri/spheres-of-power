@@ -38,3 +38,6 @@ At 4th level and every four levels thereafter, the glass-eye gunmage gains a sin
 
 This ability replaces the gunslinger’s bonus feats.
 
+---
+
+*Archived: [[Glass-Eye Gunmage (Gunslinger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

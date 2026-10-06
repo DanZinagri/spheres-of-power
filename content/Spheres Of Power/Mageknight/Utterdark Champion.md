@@ -48,3 +48,6 @@ At 20th level, an utterdark champion becomes a conduit for the might of the evil
 
 This replaces the spellsword ability.
 
+---
+
+*Archived: [[Utterdark Champion (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -40,3 +40,6 @@ At 20th level, all bound and summoned weapons the warden wields automatically co
 
 This replaces infinite arsenal.
 
+---
+
+*Archived: [[Warden (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

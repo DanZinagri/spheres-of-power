@@ -23,3 +23,6 @@ A soldier of the gods is considered an Adept practitioner, gaining spheres and t
 
 This replaces solo tactics, and the teamwork feats gained at 3rd, 6th, 9th, 12th, 15th, and 18th level.
 
+---
+
+*Archived: [[Soldier Of The Gods (Inquisitor Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

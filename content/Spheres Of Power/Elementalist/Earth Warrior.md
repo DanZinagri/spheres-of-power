@@ -34,3 +34,6 @@ At 20th level, the earth warrior’s body has become as hard as stone. His damag
 
 This replaces energy body.
 
+---
+
+*Archived: [[Earth Warrior (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

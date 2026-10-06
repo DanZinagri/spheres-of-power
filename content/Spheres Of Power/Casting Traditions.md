@@ -1240,3 +1240,6 @@ You have studied the planes to construct a powerful arsenal of abilities, gather
 **Drawbacks:** Card Casting (Colored Mana, Cooldown, Deckout, Gradual Ramp, Mana Pool, Stagnant Pool), Expensive Locus, Terrain Casting
 **Boons:** Drawback Feat (any 2 Deck feats), +1 spell point, +1 per level in casting classes.
 
+---
+
+*Archived: [[Casting Traditions (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

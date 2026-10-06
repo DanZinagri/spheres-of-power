@@ -349,3 +349,6 @@ This roll of parchment paper seems abnormally tough and resistant to damage, and
 **Construction Requirements**
 Craft Spell Engine, Mythic Crafter, Conjuration sphere (Call Planar Creature (advanced)); **Cost** 32,000 gp
 
+---
+
+*Archived: [[Spell Engines Wands (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

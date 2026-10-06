@@ -307,3 +307,6 @@ In addition, once per day, the wearer of this ring can move a creature as an imm
 **Construction Requirements**
 Craft Apparatus, Telekinesis sphere, creator must have the pushed movement class feature; **Cost** 7,500 gp
 
+---
+
+*Archived: [[Symbiat (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

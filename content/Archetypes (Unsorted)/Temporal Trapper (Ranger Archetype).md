@@ -49,3 +49,6 @@ At 20th level, the temporal trapper may spend 5 spell points when placing a snar
 
 This replaces master hunter.
 
+---
+
+*Archived: [[Temporal Trapper (Ranger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

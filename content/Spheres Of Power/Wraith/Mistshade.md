@@ -18,3 +18,6 @@ While in mist form the mistshade cannot run, but it can fly at a speed of 20 fee
 
 This replaces wraith form, but any feat, haunt, or other ability that would affect the duration or activation of wraith form may instead be applied to mist form.
 
+---
+
+*Archived: [[Mistshade (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

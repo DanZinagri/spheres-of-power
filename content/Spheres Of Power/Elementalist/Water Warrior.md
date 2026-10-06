@@ -36,3 +36,6 @@ At 20th level, the water warrior’s body has become infused with the power of i
 
 This replaces energy body.
 
+---
+
+*Archived: [[Water Warrior (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

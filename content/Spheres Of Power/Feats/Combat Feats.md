@@ -588,3 +588,6 @@ Additionally, as a full-round action, you may render a creature that is entangle
 
 **Benefit:** Add your casting ability modifier as a circumstance bonus to AC against attacks of opportunity incurred when charging or making ranged attacks. In addition, as a full-round action you may make a single ranged or charge attack and use your Mage Feint talent as part of the same action against that target.
 
+---
+
+*Archived: [[Combat Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

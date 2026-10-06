@@ -63,3 +63,6 @@ Upon reaching 20th level, the hasted blade has become permanently imbued with th
 
 This replaces swashbuckler weapon mastery.
 
+---
+
+*Archived: [[Hasted Blade (Swashbuckler Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

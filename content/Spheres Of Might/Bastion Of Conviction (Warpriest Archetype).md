@@ -34,3 +34,6 @@ At 9th level, whenever the bastion of conviction uses a positive or negative ene
 
 This replaces the bonus feat gained at 9th level.
 
+---
+
+*Archived: [[Bastion Of Conviction (Warpriest Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

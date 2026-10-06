@@ -365,3 +365,7 @@ When you first cast this effect and at the start of your turn each round, choose
 - **Tumble (requires Warp sphere):** You may teleport 1 creature + 1 creature per 10 caster levels (excluding yourself) inside this effect’s radius to another unoccupied, open area inside the effect’s radius (Will negates). If you possess the Warp sphere Unwilling Teleport talent, you can attempt to shift creatures into locations that would be directly harmful to that creature as though using the Unwilling Teleport talent, but those creatures gain a +4 bonus on their saving throw to resist being teleported. You must spend 1 additional spell point when choosing this option each round.
 
 This is a teleportation effect.
+
+---
+
+*Archived: [[Time (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

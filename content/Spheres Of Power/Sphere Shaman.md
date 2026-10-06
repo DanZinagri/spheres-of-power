@@ -30,3 +30,6 @@ A sphere shaman does not gain spells from her spirit nor her wandering spirits. 
 
 **Spirit Spheres:** Ancestors (Telekinesis), Battle (War), Bones (Death), Flame (Nature - (fire) package or general talents only), Frost (Nature - (water) package or general talents only), Heavens (Light), Life (Life), Lore (Divination), Mammoth (Alteration), Nature (Nature - (spirit) talents or general talents only), Slums (Mind), Stone (Nature - (earth) package or general talents only), Tribe (Enhancement), Waves (Nature - (water) package or general talents only), Wind (Weather), Wood (Nature - (plant) package or general talents only).
 
+---
+
+*Archived: [[Sphere Shaman (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

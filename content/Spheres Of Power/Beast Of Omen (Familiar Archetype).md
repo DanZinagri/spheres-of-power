@@ -14,3 +14,6 @@ Whenever the familiar’s master uses a Divination talent or ability granting hi
 
 This ability replaces share spells.
 
+---
+
+*Archived: [[Beast Of Omen (Familiar Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

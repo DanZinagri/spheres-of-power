@@ -66,3 +66,6 @@ At 20th level, the dark presence can unleash a torrent of emotion across an area
 
 This replaces domination.
 
+---
+
+*Archived: [[Dark Presence (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

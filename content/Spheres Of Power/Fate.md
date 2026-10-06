@@ -851,3 +851,7 @@ In addition, the following feat and talent may be made available in campaigns us
 **Prerequisites:** Fate sphere, Bless, 5th caster level or higher
 
 You may spend a spell point to place a word on a target that marks them as a protagonist in fate’s story, granting them a temporary hero point that disappears in one round or once used.
+
+---
+
+*Archived: [[Fate (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

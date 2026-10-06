@@ -75,3 +75,6 @@ Beginning at 4th level, the conditioning of the waking sleeper’s master become
 
 At level 5, the waking sleeper gains incredible control of her combat techniques. The bonus to Strength and to Will saves increases to +6, and a total of five sleeper training feats may be selected when in a state of recall. In addition, the waking sleeper may, as a free action every round, change two of the selected feats without leaving her state of recall.
 
+---
+
+*Archived: [[Waking Sleeper (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

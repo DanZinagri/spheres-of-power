@@ -670,3 +670,7 @@ Winter is the death of the world, a time of cold and hunger. Winter region are f
 If the setting is more focused on other regions, the fey there could instead be tied to wet and dry seasons, with a court of rain, flood, or monsoon opposed to a court of drought. Island fey may be divided between courts of land, sea, and storm, or even further divided between freshwater and saltwater.
 
 In any case, the courts do not necessarily require moral alignments; a summer tornado and a winter blizzard can both deal death and destruction and both are equally natural.
+
+---
+
+*Archived: [[Fallen Fey (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

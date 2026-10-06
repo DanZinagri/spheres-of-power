@@ -40,3 +40,6 @@ This replaces the hunter’s bond class feature.
 
 This replaces the master hunter class feature.
 
+---
+
+*Archived: [[Geosurveyor (Ranger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

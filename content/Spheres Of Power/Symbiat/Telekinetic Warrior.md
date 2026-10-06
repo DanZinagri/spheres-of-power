@@ -30,3 +30,6 @@ So long as this psionic effect is active, the telekinetic warrior gains a +2 bon
 
 This replaces battlefield relay.
 
+---
+
+*Archived: [[Telekinetic Warrior (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

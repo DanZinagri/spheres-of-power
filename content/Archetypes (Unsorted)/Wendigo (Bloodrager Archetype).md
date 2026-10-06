@@ -79,3 +79,6 @@ At 20th level the wendigo’s aura of cold becomes almost a living thing. As a f
 
 This alters mighty bloodrage, replacing the increased spell level he may apply to himself on entering a bloodrage.
 
+---
+
+*Archived: [[Wendigo (Bloodrager Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

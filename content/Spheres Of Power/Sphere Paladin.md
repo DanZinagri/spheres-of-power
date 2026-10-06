@@ -22,3 +22,6 @@ The sphere paladin gains a small reservoir of energy she can call on to create t
 
 A sphere paladin gains one magic talent at 4th level and every 2 levels thereafter.
 
+---
+
+*Archived: [[Sphere Paladin (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

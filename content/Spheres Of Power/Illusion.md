@@ -575,3 +575,7 @@ Solipsists are Fey Adepts who use Intelligence to analyze and control the world.
 ## [[Tenebrous Stalker]]
 
 Tenebrous stalkers are Elementalists who specialize in [[Dark]] and [[Illusion]].
+
+---
+
+*Archived: [[Illusion (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

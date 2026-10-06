@@ -64,3 +64,6 @@ At 20th level, the Parzivalian knight chooses one consecration she knows. This m
 
 This ability replaces holy champion.
 
+---
+
+*Archived: [[Parzivalian Knight (Paladin Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -48,3 +48,6 @@ At 20th level, the admixture adept reduces the spell point cost of any metamagic
 
 This replaces energy body.
 
+---
+
+*Archived: [[Admixture Savant (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

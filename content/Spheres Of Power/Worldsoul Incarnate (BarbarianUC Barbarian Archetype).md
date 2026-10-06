@@ -93,3 +93,6 @@ While she is enraptured, she may give off an aura of positive energy that causes
 
 During her turn, the worldsoul incarnate may spend vitality in place of stamina points. She must spend 2 vitality points in place of each stamina point she wishes to spend.
 
+---
+
+*Archived: [[Worldsoul Incarnate (BarbarianUC Barbarian Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

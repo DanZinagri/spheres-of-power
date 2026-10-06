@@ -14,3 +14,6 @@ An id gains an emotion at 1st, 4th, 7th, 10th, 13th, 16th, and 19th levels, in a
 
 This replaces hypnotism and all of hypnotism's options.
 
+---
+
+*Archived: [[Id (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

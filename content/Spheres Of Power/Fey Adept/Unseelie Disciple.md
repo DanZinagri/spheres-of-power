@@ -22,3 +22,6 @@ At 6th, 12th, and 18th level, the unseelie disciple gains a rogue talent of his 
 
 This replaces create reality, improved create reality, and greater create reality.
 
+---
+
+*Archived: [[Unseelie Disciple (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -766,3 +766,6 @@ When the bearer of this implement uses a cure effect, they may tap into the rese
 
 **Aura**moderate Life;**CL**8th; Craft Implement Of Power, Life sphere (Fount Of Life);**Cost** +1 bonus
 
+---
+
+*Archived: [[Implements Staves (Caster LevelTalent Access) (staves) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

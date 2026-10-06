@@ -60,3 +60,6 @@ In addition, while using any sorcerer bloodline power that would grant natural a
 
 1st level bloodline powers that give powerful buffs for very short durations may not be used at-will. Instead, you gain an additional number of uses for that ability equal to 1/2 your effective sorcerer level (minimum 1). Examples of such bloodline powers include the destined bloodline touch of destiny (PFRPG Core Rulebook) and the orc bloodline touch of rage (Orcs of Golarion). Other similar 1st level bloodline powers may gain these alternative benefits subject to GM discretion.
 
+---
+
+*Archived: [[Sphere Sorcerer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

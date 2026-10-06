@@ -53,3 +53,6 @@ At 18th level, whenever the sphere summoner rests to regain spell points, he may
 
 This alters greater aspect.
 
+---
+
+*Archived: [[Sphere Summoner (SummonerUnchained Summoner Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -40,3 +40,6 @@ At 15th level, the warleader receives an additional teamwork feat. The warleader
 
 At 20th level the warleader receives an additional teamwork feat as a bonus feat. She must meet the prerequisites for this feat. The warleader can grant this feat to her allies using the tactician ability. Whenever the warleader uses the tactician ability, she grants any two teamwork feats that she knows.
 
+---
+
+*Archived: [[Warleader (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -158,3 +158,6 @@ This ability replaces true judgment.
 
 Kismet counts as luck for the purpose of qualifying for and activating feats, but not for other purposes. If a character has a kismet ability from two sources, the kismet points from the two sources do not stack, but the character regains kismet in any way either class feature allows them to. If the character's kismet abilities would give them kismet points based on different ability scores, they use the highest.
 
+---
+
+*Archived: [[Ordained Hunter (Inquisitor Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

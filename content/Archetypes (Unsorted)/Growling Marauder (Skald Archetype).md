@@ -39,3 +39,6 @@ Those who do not meet the prerequisites (such as the growling marauder sharing a
 
 This replaces rage powers.
 
+---
+
+*Archived: [[Growling Marauder (Skald Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

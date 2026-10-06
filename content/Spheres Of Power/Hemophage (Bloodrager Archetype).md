@@ -74,3 +74,6 @@ The hemophage’s mighty bloodrage ability allows the hemophage to cast two sphe
 
 This alters mighty bloodrage.
 
+---
+
+*Archived: [[Hemophage (Bloodrager Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -188,3 +188,6 @@ Ruinous and restorative power alike flow from your will.
 
 **Benefit:** When using Admixture, you may spend an additional spell point to center a ward effect on the target’s square or another affected square.
 
+---
+
+*Archived: [[Admixture Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

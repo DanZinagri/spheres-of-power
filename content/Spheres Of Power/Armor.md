@@ -476,3 +476,6 @@ Armor with this special ability usually appears to be made from magically harden
 
 **Aura**moderate Alteration;**CL**8th; Smith Magical Weapons And Armor, Alteration sphere;**Price** +3 bonus
 
+---
+
+*Archived: [[Armor (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

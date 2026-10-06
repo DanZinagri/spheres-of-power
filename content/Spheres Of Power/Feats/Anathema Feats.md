@@ -46,3 +46,6 @@ If you possess the Extended Anathema feat, the size of these shapes increases as
 
 **Benefit:** Once per round, when you hit with a weapon attack, you may deliver your anathema through the attack as a free action. The damage from the anathema is not increased by critical hits.
 
+---
+
+*Archived: [[Anathema Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

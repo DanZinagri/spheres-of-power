@@ -48,3 +48,6 @@ At 6th level, an eclectic researcher may add a namebound spell to his repertoire
 
 This replaces arcane school.
 
+---
+
+*Archived: [[Eclectic Researcher (Wizard Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

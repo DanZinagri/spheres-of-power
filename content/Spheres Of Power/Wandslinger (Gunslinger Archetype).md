@@ -56,3 +56,6 @@ At 11th level a wandslinger may activate two wands as a full-round action, one i
 
 This ability replaces lightning reload.
 
+---
+
+*Archived: [[Wandslinger (Gunslinger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

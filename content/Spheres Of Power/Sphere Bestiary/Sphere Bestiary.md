@@ -487,3 +487,6 @@ The small cat, despite the name, is a supernaturally empowered common house cat 
 **Familiar**
 A 3rd-level spellcaster of any alignment with the Improved Familiar feat can gain a small cat as a familiar. A small cat’s master gains the normal familiar special ability bonus granted by a cat (+3 to Stealth) and also grants a +1 bonus on attack rolls made against creatures larger than the master (such as a Medium-sized master attacking a Huge-sized dragon).
 
+---
+
+*Archived: [[Sphere Bestiary (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

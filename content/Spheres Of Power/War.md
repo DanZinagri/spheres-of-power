@@ -641,3 +641,7 @@ Members of your squadron gain increased bonuses from your totems. If a totem gra
 **Prerequisites:** War sphere, Squadron Commander; or Warleader sphere, Troop Commander.
 
 **Benefit:** You may rally any ally in your squadron within long range or that you can see, even if they are not within range of a totem, and you can always rally yourself.
+
+---
+
+*Archived: [[War (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

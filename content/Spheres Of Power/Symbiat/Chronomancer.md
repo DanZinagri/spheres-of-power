@@ -74,3 +74,6 @@ This replaces pushed movement.
 
 **Author's Note:** This ability functions similarly to a "lingering" talent. Effects that could have their durations regularly extended, or concentrated on, have their durations extended this way. "Instantaneous" effects and effects with a fixed duration, such as the Time sphere Steal Time talent, do not have their durations extended by this class feature.
 
+---
+
+*Archived: [[Chronomancer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

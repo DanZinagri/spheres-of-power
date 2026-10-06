@@ -48,3 +48,6 @@ The knight of willpower’s bonus feats must be Enhanced Creation, Extra Magic T
 
 This alters the bonus feats a thaumaturge normally gains at 4th, 8th, 12th, 16th, and 20th levels.
 
+---
+
+*Archived: [[Knight Of Willpower (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

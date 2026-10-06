@@ -37,3 +37,6 @@ Time thieves who reach 20th level have stolen so much time that it can no longer
 
 This replaces master strike.
 
+---
+
+*Archived: [[Time Thief (RogueUnchained Rogue Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

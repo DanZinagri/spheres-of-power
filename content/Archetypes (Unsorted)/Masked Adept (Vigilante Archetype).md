@@ -41,3 +41,6 @@ This replaces vigilante specialization.
 
 Whenever the masked adept gains a new vigilante talent, he may select from talents normally restricted to the stalker vigilante specialization, as long as he meets all other prerequisites. He can not take talents that alter the hidden strike ability.
 
+---
+
+*Archived: [[Masked Adept (Vigilante Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -30,3 +30,6 @@ This replaces favored element.
 
 **Benefit:** Your second and third favored packages receive the same bonus as your first favored package.
 
+---
+
+*Archived: [[Geomancer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

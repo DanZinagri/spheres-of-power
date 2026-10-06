@@ -1244,3 +1244,7 @@ Keep in mind that this is based on effect, not necessarily on crafting feat, as 
 | Slotless | Various effects | The *Bag of Holding*, which allows a character to carry more than they normally could |
 
 Note that Protection shows up more often than anything else, but each slot has a different focus. Rings tend to focus on Deflection and Energy Resistance, for example, while Neck slot items are more likely to provide Natural Armor bonuses and the Armor slot is for wearing actual body armor. The Body slot allows different types of protection, and even multiple types at once. Keep this in mind when creating new items, since bonuses usually don't stack and the magic item creation rules specifically recommend *against* allowing cross-slot items.
+
+---
+
+*Archived: [[Magical Items (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

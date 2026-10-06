@@ -94,3 +94,6 @@ For every 3 class levels the magus possesses beyond 6th, the fly speed increases
 
 This is a supernatural ability.
 
+---
+
+*Archived: [[Magus Arcana (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

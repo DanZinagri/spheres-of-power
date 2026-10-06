@@ -41,3 +41,6 @@ At 1st level, the apex predator gains the Scout sphere as a bonus sphere, or a t
 
 This replaces tracking and swift tracking.
 
+---
+
+*Archived: [[Apex Predator (Ranger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

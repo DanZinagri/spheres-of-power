@@ -26,3 +26,6 @@ This replaces the bonus feat gained at 4th level.
 
 Ability burn functions as ability score damage, but may not be removed by any means other than 8 hours of resting, which removes all burn.
 
+---
+
+*Archived: [[Soulfire Master (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

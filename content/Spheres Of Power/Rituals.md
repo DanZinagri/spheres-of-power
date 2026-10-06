@@ -811,3 +811,6 @@ The cover of this ritual book is aberrant and appears to change color periodical
 **Construction Requirements**
 Craft Rituals, Ritual Caster, Alteration sphere; **Cost** 4,350 gp.
 
+---
+
+*Archived: [[Rituals (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

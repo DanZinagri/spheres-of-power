@@ -26,3 +26,6 @@ At 14th level, the seelie adept may plant suggestions in the minds of those he h
 
 This replaces see in darkness.
 
+---
+
+*Archived: [[Seelie Disciple (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -54,3 +54,6 @@ At 6th level, the egregore learns to use his connection to deliver Mind sphere a
 
 This replaces pushed movement.
 
+---
+
+*Archived: [[Egregore (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

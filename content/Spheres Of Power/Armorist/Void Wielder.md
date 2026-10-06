@@ -46,3 +46,6 @@ She may perform a ritual that functions as the Summon Spirit advanced talent of 
 
 The void wielder’s soul blade now functions as a soul gem per the Death sphere’s Soul Trap advanced talent. She may spend the normal spell points required to fully trap the soul as per that talent as part of capturing a slain creature’s essence or as a standard action if targeting an essence already possessed. She uses class level as her caster level for this ability. This stacks normally with caster levels gained from other sources. Losing or releasing an essence also frees the corresponding soul.
 
+---
+
+*Archived: [[Void Wielder (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

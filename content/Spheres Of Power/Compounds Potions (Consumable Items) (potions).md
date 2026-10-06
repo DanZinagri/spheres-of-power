@@ -1681,3 +1681,6 @@ This potion reverses all shapeshifts on a creature, returning them to their orig
 **Construction Requirements**
 Distill Compound, Alteration sphere (Permanent Transformation (advanced)) or Life sphere (Break Enchantment); **Cost** 625 gp
 
+---
+
+*Archived: [[Compounds Potions (Consumable Items) (potions) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

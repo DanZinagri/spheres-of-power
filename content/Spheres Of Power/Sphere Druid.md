@@ -103,3 +103,6 @@ A druid can select the following type of nature bond as an alternative to a doma
 
 A druid with this type of nature bond gains the Herbalism, Navigation, or Survivalism sphere as a bonus sphere at 1st level (or a talent from the sphere if she already possesses the sphere). At 5th and 13th levels, the druid gains a [utility] talent from one of those spheres as a bonus talent. At 9th and 17th level, the druid gains an additional talent from the chosen sphere as a bonus talent.
 
+---
+
+*Archived: [[Sphere Druid (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

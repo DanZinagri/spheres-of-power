@@ -48,3 +48,6 @@ This alters marked.
 
 **Benefit:** Your destructive blade may be shaped with the reach property. This property can be added or removed each time you shape the blade.
 
+---
+
+*Archived: [[Doomblade (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

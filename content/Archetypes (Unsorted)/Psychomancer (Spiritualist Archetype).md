@@ -57,3 +57,6 @@ At 16th level, the psychomancer becomes more adept at projecting her spirit. Whi
 
 This replaces call spirits.
 
+---
+
+*Archived: [[Psychomancer (Spiritualist Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

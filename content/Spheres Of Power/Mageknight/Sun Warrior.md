@@ -48,3 +48,6 @@ The sun warrior may project the effects of her light onto other people. Whenever
 
 As a free action the sun warrior may apply the Searing Light talent to the radius of bright light shed by her glory, regardless of whether she has applied any other (light) talents to the same glow. She may also choose to remove the effects of Searing Light from her glory with a free action. Even if she causes the glow effect to shed bright light in a larger area, Searing Light applied in this manner only affects the smaller radius of bright light created by Glory.
 
+---
+
+*Archived: [[Sun Warrior (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

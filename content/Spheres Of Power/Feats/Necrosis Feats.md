@@ -126,3 +126,6 @@ If your new hit point total is greater than a negative amount equal to your Cons
 
 **Four Necrosis Feats:** Your soul stays in its phylactery for up to 1 minute per necrosis feat, and your phylactery functions as long as it is within long range.
 
+---
+
+*Archived: [[Necrosis Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

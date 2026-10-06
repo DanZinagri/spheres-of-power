@@ -92,3 +92,6 @@ An electrokinetic with the Energy Focus (electric blast) drawback may make destr
 
 **Benefit:** You gain an additional electrokinetic stunt for which you qualify. You may take this feat multiple times. The effects stack
 
+---
+
+*Archived: [[Electrokinetic (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

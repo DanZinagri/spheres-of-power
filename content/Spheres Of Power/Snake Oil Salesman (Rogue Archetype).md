@@ -78,3 +78,6 @@ Regardless, any creature he attempts to give, sell, or trade the object to must 
 
 This ability replaces master strike.
 
+---
+
+*Archived: [[Snake Oil Salesman (Rogue Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

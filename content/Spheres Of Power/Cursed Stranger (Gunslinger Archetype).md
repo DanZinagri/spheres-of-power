@@ -46,3 +46,6 @@ This replaces the expert loading deed.
 
 The cursed stranger can choose and gain any Death sphere talent that augments reanimate as a bonus feat, in addition to combat feats and grit feats.
 
+---
+
+*Archived: [[Cursed Stranger (Gunslinger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

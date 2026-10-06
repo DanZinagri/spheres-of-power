@@ -106,3 +106,6 @@ When the essentialist uses an Alteration sphere this way, he may use his class l
 
 The essentialist’s mutated essence now grants a +8 natural armor bonus, and 3 attributes of his choice benefit from the bonus from his essence.
 
+---
+
+*Archived: [[Essentialist (Alchemist Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

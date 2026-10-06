@@ -65,3 +65,6 @@ At 17th level, the dragonblooded mortal gains a +2 bonus to her Constitution and
 
 At 20th the dragonblooded mortal’s heritage comes to complete fruition. She gains immunity to paralysis, sleep, and her associated energy type. She also gains blindsense 60 feet.
 
+---
+
+*Archived: [[Dragonblooded Mortal (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

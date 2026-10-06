@@ -56,3 +56,6 @@ At 16th level, when channeling energy, the dual channeler may spend an additiona
 
 At 20th level, when the dual channeler channels energy, she may spend two additional uses of channel energy to apply a blessing (if affecting the target with positive energy) or blight (if affecting the target with negative energy) to each creature that was affected by her channeling. The creatures are allowed a saving throw (if applicable) as normal.
 
+---
+
+*Archived: [[Dual Channeler (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

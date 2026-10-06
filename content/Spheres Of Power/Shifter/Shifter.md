@@ -573,3 +573,6 @@ These wooden wristguards are strangely durable, with vines that clutch a chunk o
 **Construction Requirements**
 Craft Apparatus, Enhancement sphere, creator must have the enhanced attacks class feature; **Cost** 4,000 gp
 
+---
+
+*Archived: [[Shifter (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

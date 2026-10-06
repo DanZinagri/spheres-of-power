@@ -58,3 +58,6 @@ The kinetic scourge may concentrate on her energy tether (or tethers) as a swift
 
 As a full-round action, the kinetic scourge may anchor her tether and take an attack action or full-attack action while moving per the Tether Adept feat. If she does, she can move up to the normal distance allowed by Tether Adept, dividing the movement into increments she uses before her first attack, between each attack, and after her last attack. The kinetic scourge must move at least 5 feet each time she attacks.
 
+---
+
+*Archived: [[Kinetic Scourge (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

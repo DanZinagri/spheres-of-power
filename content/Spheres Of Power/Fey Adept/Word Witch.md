@@ -82,3 +82,6 @@ At level 20, the word witch can make one of his creations permanent. He may sele
 
 This ability replaces permanent illusion.
 
+---
+
+*Archived: [[Word Witch (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -44,3 +44,6 @@ A shadow boxer may select talents from the Dark sphere in place of ki powers, in
 
 This alters ki pool and ki power.
 
+---
+
+*Archived: [[Shadow Boxer (Unchained Monk Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

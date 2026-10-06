@@ -32,3 +32,6 @@ At 4th level, any divination effect (other than (sense) talents and abilities) r
 
 This replaces debilitating injury.
 
+---
+
+*Archived: [[Treasure Seeker (Unchained Rogue Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

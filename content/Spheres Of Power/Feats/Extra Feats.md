@@ -130,3 +130,6 @@ Most of these feats are available on the appropriate class pages, but they are a
 
 **Benefit:** You gain an additional wraith haunt. You may take this feat multiple times. The effects stack.
 
+---
+
+*Archived: [[Extra Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

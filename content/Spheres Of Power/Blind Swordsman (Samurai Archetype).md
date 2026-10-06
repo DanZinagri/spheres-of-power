@@ -44,3 +44,6 @@ At 17th level, the blind swordsman gains Greater Blind-Fight as a bonus feat, ev
 
 This replaces the true resolve class feature.
 
+---
+
+*Archived: [[Blind Swordsman (Samurai Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

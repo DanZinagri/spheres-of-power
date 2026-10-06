@@ -48,3 +48,6 @@ This mystic combat can be gained more than once, each time it grants an addition
 
 Once per day, the knight-summoner may summon her bonded mount as an immediate action. She may use this ability an additional time per day at 6th level and every 6 levels thereafter (12th, 18th). She may apply the effects of her adaptation ability without cost as part of this ability.
 
+---
+
+*Archived: [[Knight-Summoner (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

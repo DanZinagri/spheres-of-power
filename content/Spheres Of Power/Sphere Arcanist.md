@@ -118,3 +118,6 @@ This exploit functions as the magical contingency mastermind trick, save that th
 
 The arcanist can select a feat that has a magic sphere as a prerequisite as a bonus feat. She must meet the prerequisites of this feat. Each day when she regains spell points, the arcanist can expend 1 point from her arcane reservoir to exchange this bonus feat for another feat that has a magic sphere as a prerequisite, as long as she meets the prerequisites of the new feat.
 
+---
+
+*Archived: [[Sphere Arcanist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

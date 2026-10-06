@@ -659,3 +659,6 @@ To address this problem, this handbook has changed certain talents—Boiling Lor
 
 In addition, GMs are strongly encouraged to remember how structures are affected by weather. In addition to the lightning rod and storm shelter (provided both for GMs and for players wishing to construct weather-resistant strongholds), structures built of hard materials such as stone are virtually impervious to damage from weather; objects take half damage from energy attacks before applying hardness, which when combined with the sheer number of hit points most structures possess, makes destroying them with weather an extremely difficult task.
 
+---
+
+*Archived: [[Weather (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

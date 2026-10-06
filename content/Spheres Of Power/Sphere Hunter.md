@@ -20,3 +20,6 @@ The sphere hunter gains a small reservoir of energy she can call on to create tr
 
 A sphere hunter gains 3/4ths of a magic talent every level (the same progression as she gains caster levels).
 
+---
+
+*Archived: [[Sphere Hunter (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

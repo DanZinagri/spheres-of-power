@@ -99,3 +99,6 @@ If he does this, he may use a second sphere ability that can be used as a standa
 
 This replaces true magus.
 
+---
+
+*Archived: [[Arcane Weaponeer (Magus Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

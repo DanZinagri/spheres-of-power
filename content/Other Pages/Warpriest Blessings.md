@@ -13,3 +13,6 @@ updated: 2020-01-31
 
 **Summon Fey (major):** At 10th level, you can summon a fey creature as the Summon Fairy talent, using your warpriest level as your caster level, with a duration of 1 minute. This stacks normally with caster levels gained from other sources.
 
+---
+
+*Archived: [[Warpriest Blessings (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

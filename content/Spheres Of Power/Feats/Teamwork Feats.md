@@ -50,3 +50,6 @@ When one of your allies primes a technique, you respond immediately.
 
 **Normal:** If a Light sphere effect interacts with a darkness effect (such as from the Dark sphere) or vice versa, the creator of the second effect must succeed at a magic skill check against the creator of the first effect.
 
+---
+
+*Archived: [[Teamwork Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

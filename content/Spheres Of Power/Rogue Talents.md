@@ -180,3 +180,6 @@ Your morals have always been malleable when required. Magical abilities whose ef
 
 You gain the just a bad dream ability of the agent, using your level in the class which granted this talent as agent levels. This effect applies when you knock a creature unconscious while using sneak attack damage rather than opportune strike damage.
 
+---
+
+*Archived: [[Rogue Talents (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

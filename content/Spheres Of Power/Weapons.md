@@ -1231,3 +1231,6 @@ On a successful critical hit with a windblast weapon, the wielder may make a bul
 
 **Aura**faint Weather;**CL**5th; Smith Magical Weapons And Armor, Weather sphere (Squamish (shroud, wind));**Price** +2 bonus
 
+---
+
+*Archived: [[Weapons (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

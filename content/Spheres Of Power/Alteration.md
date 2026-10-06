@@ -896,3 +896,7 @@ You may spend a spell point to target objects with your shapeshift. (Note: Undea
 | 15 | Large | Statue | 4d10+30 |
 | 20 | Huge | Wagon | 7d10+40 |
 | 25 | Gargantuan | Catapult | 10d10+60 |
+
+---
+
+*Archived: [[Alteration (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

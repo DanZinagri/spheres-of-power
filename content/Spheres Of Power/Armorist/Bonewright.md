@@ -76,3 +76,6 @@ If the bonewright possesses the group summons arsenal trick, she may use this ar
 
 The bonewright can attempt a melee or ranged attack against an opponent as a special attack action. If successful, she may spend a spell point to force her opponent to attempt a Fortitude save. On a failure, they suffer a -4 penalty to attack and damage rolls against her for 1 minute. Each time the creature successfully attacks, she reduces the penalty by 1. The penalty to attack and damage rolls increases by 1 at 5th level and every 5 levels thereafter (to a maximum of -8 at 20th level). This does not stack with itself.
 
+---
+
+*Archived: [[Bonewright (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

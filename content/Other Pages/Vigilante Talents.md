@@ -235,3 +235,6 @@ A vigilante can select a [utility] talent in place of a social talent. He may se
 
 The vigilante is surrounded by a weak field of temporal magic that allows him to extend or retract time slightly. He reduces the time to perform Craft, Diplomacy, Intimidate, or Profession checks that would normally take at least 1 minute by 50%. When engaged in a conversation or similar social interaction that lasts for at least 1 minute, he may choose to have the conversation or interaction actually last twice as long in real time, though everyone participating in the conversation will believe that time has passed at the perceived rate until they are presented with evidence to the contrary (such as the sun having moved farther through the sky than it reasonably should have for the perceived amount of time).
 
+---
+
+*Archived: [[Vigilante Talents (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

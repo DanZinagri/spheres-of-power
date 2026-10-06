@@ -80,3 +80,6 @@ At 8th level, the investigator can share their studied target benefits with a co
 
 **Signaled Co-Operations (requires (transmission) package; (computation) or (transportation) package)**: The inspired co-intelligence and studied co-combatant abilities function if the investigator’s AI or *mechanoid* is within the signal range of a gizmo in the investigator’s possession (such as the communicator accommodation; treat this signal range as though the AI or *mechanoid* could see or hear the investigator).
 
+---
+
+*Archived: [[Investigator Talents (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

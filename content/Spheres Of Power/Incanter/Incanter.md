@@ -642,3 +642,6 @@ In the hands of an incanter, this staff grants a specific sphere specialization,
 **Construction Requirements**
 Craft Implement Of Power, creator must have a sphere and its corresponding sphere specialization; **Cost** 37,500 gp
 
+---
+
+*Archived: [[Incanter (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

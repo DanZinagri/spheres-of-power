@@ -47,3 +47,6 @@ At 4th level, when the nightblazer uses a sphere ability that targets his studie
 
 This replaces swift alchemy.
 
+---
+
+*Archived: [[Nightblazer (Investigator Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

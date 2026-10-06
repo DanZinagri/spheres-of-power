@@ -305,3 +305,6 @@ This tightly-wrapped scroll comes in a case of cold iron decorated with delicate
 **Construction Requirements**
 Craft Apparatus, Divination sphere, creator must have the occult knowledge class feature; **Cost** 4,500 gp
 
+---
+
+*Archived: [[Thaumaturge (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

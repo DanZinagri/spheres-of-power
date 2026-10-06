@@ -778,3 +778,7 @@ Animated objects can gain more CP by applying flaws, which hamper the animated o
 **Slower (Ex, +1 CP):** One of the animated object’s movement modes decreases by – 10 feet.
 
 **Undead (Ex; +1 CP):** The animated object is made of corpse materials such as flesh or smooth bone; change its type to undead, adjust its Charisma score to be equal to its Strength score, replace construct traits (Ex) with undead immunities (Ex), and replaces its hardness with an equal amount of damage reduction bypassed by bludgeoning damage. It is still mindless. This flaw cannot be applied alongside the aberration flaw.**Special:** If the animated object also possesses the haunted construction flaw, the animated object is stunned for 1 round whenever it fails a saving throw against a positive energy effect. This bypassesses any immunities the animated object may possess. [Gravecaller's HB]
+
+---
+
+*Archived: [[Enhancement (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -618,3 +618,6 @@ When using the mythic version of any of these spells, you gain a single mythic s
 
 **Wiki Note:** If you are spending mythic power for this spell, you do not need to spend additional mythic power to use the mythic sphere mastery for that effect. Duplicating a sphere effect with wish, miracle, or limited wish does not require spending additional spell points. The same general principles described here should apply for wish-like and miracle-like effects from other systems, such as psionics.
 
+---
+
+*Archived: [[Using Spheres Of Power (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

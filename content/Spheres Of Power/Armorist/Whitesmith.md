@@ -40,3 +40,6 @@ Whenever a whitesmith of 20th level uses exceptional enhancement to enhance addi
 
 The ability replaces infinite arsenal.
 
+---
+
+*Archived: [[Whitesmith (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

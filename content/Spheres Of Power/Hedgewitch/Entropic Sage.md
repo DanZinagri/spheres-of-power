@@ -48,3 +48,6 @@ The entropic sage gains one ki power from the unchained monk’s ki power list. 
 
 The entropic sage gains a style feat for which she qualifies. She may treat her entropic sage levels as monk levels (stacking with monk levels) and also use it in place of her base attack bonus for the purpose of qualifying for style feats. This secret can be taken several times. Each time it is selected, she chooses another style feat.
 
+---
+
+*Archived: [[Entropic Sage (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

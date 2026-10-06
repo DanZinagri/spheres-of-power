@@ -18,3 +18,6 @@ This alters forbidden lore.
 
 At first level, the eldritch cultist gains Divination as a bonus sphere. This replaces the invocations class feature gained at 1st level - the eldritch cultist gains access to invocations at 3rd level, but counts his eldritch cultist level as two lower for the purposes of determining which invocations are available to him. This archetype remains compatible with archetypes modifying or replacing invocations, but gains those invocations or their replacements two levels later.
 
+---
+
+*Archived: [[Eldritch Cultist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

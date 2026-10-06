@@ -44,3 +44,6 @@ Whenever the dread crusader regains hit points, she may spend a spell point as a
 
 When the dread crusader successfully strikes a foe with a Cryptic Strike, she may spend a spell point as a swift action to make a second attack at her full base attack bonus against a different foe within reach (or within her first range increment for a ranged weapon). If this attack is successful, the second foe is also affected by her Cryptic Strike. She must pay any spell point cost associated with the second attack, but may choose a different ghost strike for each target.
 
+---
+
+*Archived: [[Dread Crusader (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

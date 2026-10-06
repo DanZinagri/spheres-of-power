@@ -650,3 +650,6 @@ This slender box is filled with a seemingly endless amount of translucent powder
 **Construction Requirements**
 Craft Marvelous Item, Death sphere, creator must have the wraith form class feature; **Cost** 12,500 gp
 
+---
+
+*Archived: [[Wraith (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

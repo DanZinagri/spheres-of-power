@@ -470,3 +470,6 @@ Magical light sources only increase the light level in an area affected by an um
 
 **Cost:** +3 spell points
 
+---
+
+*Archived: [[Metamagic Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

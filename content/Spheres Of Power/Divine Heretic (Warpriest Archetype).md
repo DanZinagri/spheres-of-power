@@ -34,3 +34,6 @@ At 20th level, once per day as a swift action, the heretic may connect with the 
 
 This replaces aspect of war.
 
+---
+
+*Archived: [[Divine Heretic (Warpriest Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

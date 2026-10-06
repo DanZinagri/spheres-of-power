@@ -95,3 +95,6 @@ While ascended, she is conscious and alive and can not be affected by any condit
 
 This replaces remake self.
 
+---
+
+*Archived: [[Ascendant Mind (Psychic Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

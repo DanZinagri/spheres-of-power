@@ -30,3 +30,6 @@ The target cannot be raised from the dead or resurrected by any means short of a
 
 This replaces master slayer.
 
+---
+
+*Archived: [[Time Stalker (Slayer Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -46,3 +46,6 @@ At 17th level, the shield of the gods may choose another sphere (other than Enha
 
 This replaces slayer.
 
+---
+
+*Archived: [[Shield Of The Gods (Inquisitor Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

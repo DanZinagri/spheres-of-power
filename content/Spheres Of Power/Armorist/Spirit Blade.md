@@ -148,3 +148,6 @@ Some spirit blades may wish to abandon the ability to assume a humanoid form ent
 
 Since the spirit blade cannot don items if unable to leave weapon form, she may instead absorb magic items that provide a constant effect with a 1 hour ritual, merging them into her weapon form. Permanent weapons do not age, do not gain bonuses or take penalties from age categories, and do not eat, breathe, or sleep. The spirit blade gains a bonus feat at 1st level, then again at 5th level and every 5 levels thereafter (10th, 15th, 20th).
 
+---
+
+*Archived: [[Spirit Blade (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

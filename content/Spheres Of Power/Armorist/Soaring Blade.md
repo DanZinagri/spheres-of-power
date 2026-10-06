@@ -84,3 +84,6 @@ Exerting the soaring blade’s magic to its fullest extent, she creates a storm 
 
 The soaring blade gains proficiency with all shields (except tower shields) and may summon a shield with the summon equipment ability, or choose a shield as bound equipment.
 
+---
+
+*Archived: [[Soaring Blade (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

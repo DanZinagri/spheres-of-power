@@ -52,3 +52,6 @@ At 16th level, the fright wright can cause fear in nearly anyone. Even those who
 
 This alters the inspire heroics aspect of the hypnotism class feature.
 
+---
+
+*Archived: [[Fright Wright (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

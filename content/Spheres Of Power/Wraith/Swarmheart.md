@@ -48,3 +48,6 @@ The size of the creatures in the swarmheart’s swarm is reduced to Diminutive, 
 
 While in swarm form, the swarmheart gains a fly speed (perfect) equal to the ground speed granted by swarm form.
 
+---
+
+*Archived: [[Swarmheart (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

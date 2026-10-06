@@ -14,3 +14,6 @@ Whenever the devourer scores a confirmed critical hit against a living enemy or 
 
 At 10th level, the devourer may use this ability on any foe, not just living foes.
 
+---
+
+*Archived: [[Devourer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

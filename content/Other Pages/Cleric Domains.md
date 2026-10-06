@@ -58,3 +58,6 @@ Powerful lords of Faerie can grant a portion of their power to their followers. 
 
 A character with the nobility domain may exchange the Leadership feat for the [[Leadership]] sphere, per the associated feat rules. If a character with the nobility domain selects bonus talents from her domains (such as the sphere cleric), she may choose to select Leadership sphere talents instead of War sphere talents. This choice is made when the nobility domain is first gained.
 
+---
+
+*Archived: [[Cleric Domains (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

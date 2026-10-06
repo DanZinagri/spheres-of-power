@@ -68,3 +68,6 @@ At 6th level, when using meditation, he may roll three times and take the highes
 
 At 14th level, when using forbidden lore to augment a spell or sphere effect, the pactmage may use an invocation to cause the affected targets to suffer 1d4 Wisdom damage (Will negates).
 
+---
+
+*Archived: [[Pactmage (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

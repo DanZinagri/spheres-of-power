@@ -108,3 +108,6 @@ At 20th level, the living weapon’s armored magic aegis AC bonus increases by +
 
 This alters infinite arsenal.
 
+---
+
+*Archived: [[Living Weapon (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

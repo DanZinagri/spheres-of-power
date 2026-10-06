@@ -42,3 +42,6 @@ This ability replaces armor mastery.
 
 At 20th level, a spirit-wielder’s awakened weapons are considered part of his body for the purposes of resurrection. In addition, the spirit-wielder cannot be disarmed of his awakened weapons, and may take 10 on an attack roll made with it once per round.
 
+---
+
+*Archived: [[Spirit-Wielder (Fighter Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

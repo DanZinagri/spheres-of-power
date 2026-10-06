@@ -56,3 +56,6 @@ Upon reaching 20th level, whenever the clockstopper is under the effects of an a
 
 This replaces true grit.
 
+---
+
+*Archived: [[Clockstopper (Gunslinger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

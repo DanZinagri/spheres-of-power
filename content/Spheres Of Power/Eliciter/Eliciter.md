@@ -430,3 +430,6 @@ These silk gloves produce a surprisingly loud sound when the user snaps their fi
 **Construction Requirements**
 Craft Apparatus, Mind sphere (Mind Shield (charm)), creator must have the liberate hypnotism ability; **Cost** 8,000 gp
 
+---
+
+*Archived: [[Eliciter (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

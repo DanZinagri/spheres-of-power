@@ -44,3 +44,6 @@ At 3rd level, the synapse increases his total teleport range by 10 feet. This im
 
 This replaces pushed movement.
 
+---
+
+*Archived: [[Synapse (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

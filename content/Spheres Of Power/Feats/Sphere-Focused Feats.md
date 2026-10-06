@@ -10,3 +10,6 @@ parent: "[[Feats]]"
 
 Sphere-focused feats are no longer contained on this page, due in part to their number. You can find USoP sphere feats on the respective sphere pages. The Original tab still includes the original sphere-focused feats.
 
+---
+
+*Archived: [[Sphere-Focused Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -78,3 +78,6 @@ At 20th level, the bloodscarred may spend 2 rounds of his dominate ability to co
 
 This replaces greater psionics.
 
+---
+
+*Archived: [[Bloodscarred (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

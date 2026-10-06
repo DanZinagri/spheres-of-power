@@ -127,3 +127,6 @@ You may expend 2 uses of your corruption to channel negative energy as a cleric 
 
 When an adjacent ally uses a sphere ability, you may spend an immediate action to corrupt it. The corruption still uses your class level and casting ability modifier to determine its effects.
 
+---
+
+*Archived: [[Withering Witch (Witch Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

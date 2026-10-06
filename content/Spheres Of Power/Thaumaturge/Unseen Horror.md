@@ -64,3 +64,6 @@ His unseen force has a maximum volume equal to one normal human per unseen horro
 
 *Wiki Note:* "Extra Unseen Augmentation" refers to the Unseen Forces class feature, which does not exist. This feat should either require the Lurking Forces class feature, allowing a thaumaturge to select this as early as 4th level, or the Unseen Augmentations class feature, allowing a thaumaturge to select this when they receive their first augmentation naturally. Either is a recommended option, subject to GM discretion.
 
+---
+
+*Archived: [[Unseen Horror (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

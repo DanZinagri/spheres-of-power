@@ -55,3 +55,6 @@ An unchained beastsoul monk may select the Basic Magic Training feat for the Alt
 
 This replaces the ki shifting class feature’s normal effects.
 
+---
+
+*Archived: [[Beastsoul Monk (NormalUnchained Monk Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

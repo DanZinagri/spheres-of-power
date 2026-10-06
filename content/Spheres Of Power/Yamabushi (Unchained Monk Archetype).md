@@ -44,3 +44,6 @@ He also gains DR 10/cold iron. Finally, the yamabushi gains the ability to enter
 
 This replaces perfect self gained at 20th.
 
+---
+
+*Archived: [[Yamabushi (Unchained Monk Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

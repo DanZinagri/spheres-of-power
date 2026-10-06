@@ -948,3 +948,6 @@ This thin book contains details of how to manipulate magical energies and mundan
 **Construction Requirements**
 Craft Apparatus, Mana sphere, creator must know the secret added to this item; **Cost** 7,500 gp
 
+---
+
+*Archived: [[Hedgewitch (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

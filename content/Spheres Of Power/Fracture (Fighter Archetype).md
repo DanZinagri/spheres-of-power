@@ -55,3 +55,6 @@ Upon reaching 20th level, the fracture gains the ability to enter a state of tem
 
 This replaces weapon mastery.
 
+---
+
+*Archived: [[Fracture (Fighter Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

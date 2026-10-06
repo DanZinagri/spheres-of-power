@@ -33,3 +33,6 @@ The ghost stepper gains exclusive access to the following ninja trick/rogue tale
 
 The ghost stepper gains a pool of spell points equal to her casting ability modifier (as selected for the ghostly talent ability). If she already possesses a spell point pool or gains it later, this ability is automatically exchanged for the Extra Spell Points feat.
 
+---
+
+*Archived: [[Ghost Stepper (Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

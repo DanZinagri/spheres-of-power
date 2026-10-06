@@ -69,3 +69,6 @@ Creatures that are immune to sneak attack damage are also immune to this ability
 
 This replaces master strike.
 
+---
+
+*Archived: [[Spectral Infiltrator (RogueU. Rogue Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

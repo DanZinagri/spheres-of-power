@@ -36,3 +36,6 @@ At 17th level, his bonuses to initiative and Stealth checks made in areas of dim
 
 This replaces favored terrain, camouflage, and hide in plain sight.
 
+---
+
+*Archived: [[Jikininki (Ranger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

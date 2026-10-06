@@ -208,3 +208,6 @@ Magical weapons and armor use the crafter’s MSB rather than their caster level
 
 **Wiki Note:** Versatile Crafter is on this page because it is about creating magic items. However, it is not a true item creation feat, and does not count as such for any purpose. This feat does not allow you to bypass talent prerequisites for creating compounds, spell completion items, or spell trigger items.
 
+---
+
+*Archived: [[Item Creation Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

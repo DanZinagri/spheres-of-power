@@ -36,3 +36,6 @@ At 20th level, the wind warrior’s body has become infused with the power of ai
 
 This replaces energy body.
 
+---
+
+*Archived: [[Wind Warrior (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

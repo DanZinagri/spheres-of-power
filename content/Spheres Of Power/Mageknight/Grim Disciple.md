@@ -28,3 +28,6 @@ Starting at 7th level, the grim disciple gains a bonus equal to her casting abil
 
 This ability replaces marked.
 
+---
+
+*Archived: [[Grim Disciple (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

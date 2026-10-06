@@ -2241,3 +2241,6 @@ In addition to its primary effects, a user may have a white dwarf shed normal li
 **Construction Requirements**
 Craft Marvelous Item, Mythic Crafter, Light sphere (Intensity Control, Star Genesis (advanced)); **Cost** 18,000 gp
 
+---
+
+*Archived: [[Marvelous Items Wondrous Items (wondrous-items) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

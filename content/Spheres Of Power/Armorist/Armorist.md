@@ -602,3 +602,6 @@ This dull iron medallion is easy to affix to almost any piece of gear, and telep
 **Construction Requirements**
 Craft Apparatus, War sphere, creator must know the arsenal trick being used; **Cost** 6,250 gp
 
+---
+
+*Archived: [[Armorist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

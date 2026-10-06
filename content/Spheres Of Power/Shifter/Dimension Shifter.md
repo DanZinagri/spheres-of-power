@@ -74,3 +74,6 @@ At 20th level a dimension shifter no longer needs to spend a spell point to dive
 
 This replaces second skin.
 
+---
+
+*Archived: [[Dimension Shifter (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

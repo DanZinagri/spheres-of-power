@@ -32,3 +32,6 @@ A sphere witch does not gain bonus spells from her patron. Instead, she gains a 
 
 Agility (Enhancement), Ancestors (Divination), Animals (Nature), Aurora (Light), Autumn (Nature), Boundaries (Protection), Conspiracies (Mind), Death (Death), Decadence (Mind), Deception (Illusion), Devotion (Enhancement), Dimensions (Warp), Elements (Destruction), Enchantment (Mind), Endurance (Protection), Entropy (Mind), Ethereal (Warp), Fate (Fate), Healing (Life), Insanity (Mind), Jynx (Fate), Light (Light), Machine (Technomancy), Mercy (Life), Mind (Mind), Moon (Dark), Mountain (Creation), Nightmares (Mind), Occult (Death), Peace (Protection), Plague (Death), Plant (Nature), Portents (Divination), Protection (Protection), Recovery (Life), Revenge (War), Rot (Death), Shadow (Illusion), Space (Warp), Spirits (Death), Spring (Weather), Stars (Divination), Storms (Weather), Strength (Alteration), Summer (Nature), Thorns (Nature), Time (Time), Transformation (Alteration), Trickery (Illusion), Vengeance (Fate), Water (Nature), Winter (Nature), Wisdom (Fate), Woodlands (Nature).
 
+---
+
+*Archived: [[Sphere Witch (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

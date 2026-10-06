@@ -918,3 +918,7 @@ Some effects, especially those that deny standard actions such as nauseated, daz
 | Staggered | Y | 1 round | 5 |
 | Add/Remove Save | N/A | N/A | -/+3 |
 | Increase/Decrease Duration (1 round<->1d4 rounds<->2d4 rounds ) | N/A | N/A | +4/-2 |
+
+---
+
+*Archived: [[Destruction (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

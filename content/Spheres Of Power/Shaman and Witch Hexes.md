@@ -106,3 +106,6 @@ In addition, the witch may channel one of the aspects of the crone, gaining the 
 - *The Mother*: The witch extends the duration of beneficial hexes used on their allies by +1 round.
 - *The Crone*: The witch gains the benefits of venerable age to their ability scores (+3 to each mental ability score) and does not suffer the physical penalties associated with age. These ability score changes are treated as a temporary change and do not affect the witch's ability to prepare spells, uses of abilities per day, and so on.
 
+---
+
+*Archived: [[Shaman and Witch Hexes (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

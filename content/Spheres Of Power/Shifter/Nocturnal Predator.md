@@ -42,3 +42,6 @@ This replaces wild empathy, steal language, boundless communication, and endless
 
 A nocturnal predator can select rogue talents in place of bestial traits, using her nocturnal predator levels as rogue levels when determining their effects.
 
+---
+
+*Archived: [[Nocturnal Predator (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

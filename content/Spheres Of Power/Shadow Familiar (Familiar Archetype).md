@@ -28,3 +28,6 @@ At 13th level, once per day the master may use Shared Perception, as the Divinat
 
 This replaces speak with animals of its own kind and scry on familiar.
 
+---
+
+*Archived: [[Shadow Familiar (Familiar Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

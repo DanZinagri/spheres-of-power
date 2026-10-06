@@ -38,3 +38,6 @@ At 20th level, a hekatonkheires uses a free action instead of a swift action to 
 
 This ability replaces greater psionics.
 
+---
+
+*Archived: [[Hekatonkheires (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

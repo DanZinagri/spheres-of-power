@@ -66,3 +66,6 @@ If the pinned opponent is unable to resist being pinned for any reason, you can 
 
 By quickly shifting size, stature becomes of little concern, allowing the resizer to quickly grasp her target at any size. She gains the grab ability with her unarmed strikes against targets that are no larger than the largest size she can assume with the size focus ability. She does not take any penalty to her CMB for having a size smaller than Medium when grappling.
 
+---
+
+*Archived: [[Resizer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -23,3 +23,6 @@ At 5th level, whenever an enemy fails a Will save versus one of the conniving ba
 
 This replaces mental potency.
 
+---
+
+*Archived: [[Conniving Bastard (Mesmerist Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

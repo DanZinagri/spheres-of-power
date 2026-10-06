@@ -483,3 +483,6 @@ This slender talisman features a five-pointed star that represents five basic el
 **Construction Requirements**
 Craft Apparatus, Protection sphere, creator must have the resist magic class feature; **Cost** 10,000 gp
 
+---
+
+*Archived: [[Mageknight (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

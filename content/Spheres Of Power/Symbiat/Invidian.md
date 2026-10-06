@@ -46,3 +46,6 @@ At 1st level the invidian gains Step Through Darkness as a bonus talent. He is c
 
 This ability replaces pushed movement.
 
+---
+
+*Archived: [[Invidian (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

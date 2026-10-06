@@ -75,3 +75,6 @@ While raging, the barbarian gains the benefits of the Improved Transformation fe
 
 While raging, the barbarian gains the benefits of a single shifter bestial trait of his choice, treating his class level as his shifter level.
 
+---
+
+*Archived: [[Barbarian Rage Powers (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

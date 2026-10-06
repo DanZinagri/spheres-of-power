@@ -93,3 +93,6 @@ The normal limits of creation magic no longer applies to the dustbringer. Her De
 
 By focusing her magic, dustbringers can cause whatever she touches to simply fall into pieces. She can spend a spell point to cause her Destroy alter ability to deal 1d6 damage per caster level. This cannot be combined with the dustbringer’s flurry or the dustbringer’s aura mystic combat abilities.
 
+---
+
+*Archived: [[Dustbringer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

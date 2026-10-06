@@ -58,3 +58,6 @@ The blaster’s arm cannon becomes an intelligent weapon with an Intelligence, W
 
 Gain a (blast shape) talent other than Energy Strike. As a move action, the blaster may apply this or any other (blast shape) talent she knows other than Energy Strike to the next attack from her arm cannon, made before the end of her turn. Any spell point costs of the (blast shape) talent must be paid as normal.
 
+---
+
+*Archived: [[Blaster (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

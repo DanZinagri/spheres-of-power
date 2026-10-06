@@ -20,3 +20,6 @@ At 3rd level, the dragoon gains the ability to share the effects of any mystic c
 
 This replaces stalwart.
 
+---
+
+*Archived: [[Dragoon (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

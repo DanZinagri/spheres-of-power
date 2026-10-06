@@ -504,3 +504,7 @@ You may spend a spell point to create a dimensional anchor as an immediate actio
 In addition, when a teleport fails due to your dimensional anchor you may pay a spell point to redirect it, choosing its destination as if you had cast the effect instead of the caster. The caster must succeed on a Will save to avoid the effect being redirected.
 
 If you possess Dimensional Lock, you may spend an additional spell point to use it as an immediate action.
+
+---
+
+*Archived: [[Warp (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

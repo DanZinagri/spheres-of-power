@@ -40,3 +40,6 @@ This replaces arcane school.
 
 **Note:** This ability does not stack with an Incanter specialization (per discussion with an author).
 
+---
+
+*Archived: [[Sphere Wizard (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

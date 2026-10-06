@@ -50,3 +50,6 @@ At 18th level, the totemist may expend a use of channel balance to dispel a tote
 
 This replaces blessing/blight.
 
+---
+
+*Archived: [[Totemist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

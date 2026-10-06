@@ -97,3 +97,6 @@ At 4th level, whenever a creature the grand purifier has used her smite ability 
 
 This replaces channel energy.
 
+---
+
+*Archived: [[Grand Purifier (Paladin & Antipaladin Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

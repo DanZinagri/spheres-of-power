@@ -813,3 +813,6 @@ This silvery medallion is usually worn as a necklace, although it functions in a
 **Construction Requirements**
 Forge Charm, Mythic Crafter, Protection sphere (Antimagic Aura (advanced), Enduring Protection, Permanent Ward (advanced), Spell Ward (aegis, ward), Unplottable (advanced, aegis)); **Cost** 90,000 gp
 
+---
+
+*Archived: [[Charms Rings (Constant Bonus Items) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

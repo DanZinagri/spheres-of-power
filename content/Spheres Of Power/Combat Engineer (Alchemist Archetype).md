@@ -98,3 +98,6 @@ The combat engineer may use a device to attach a glow to a creature of object by
 
 The combat engineer chooses 1 modification that costs more than 1 modification. When he uses it, reduce the modifications required by 1.
 
+---
+
+*Archived: [[Combat Engineer (Alchemist Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

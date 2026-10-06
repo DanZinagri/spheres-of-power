@@ -22,3 +22,6 @@ At 19th level, an impressor may seamlessly blend martial prowess and emotional t
 
 This replaces armor mastery.
 
+---
+
+*Archived: [[Impressor (Fighter Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

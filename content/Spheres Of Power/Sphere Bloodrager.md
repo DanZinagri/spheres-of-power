@@ -42,3 +42,6 @@ At 4th level, the sphere bloodrager may use magical sphere effects while bloodra
 
 This alters blood casting.
 
+---
+
+*Archived: [[Sphere Bloodrager (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

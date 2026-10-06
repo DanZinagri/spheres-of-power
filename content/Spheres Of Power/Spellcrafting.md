@@ -529,3 +529,6 @@ The water serpent can move freely through spaces occupied by creatures, and make
 
 If a creature is successfully pushed by this bull rush attempt, they must also succeed at a Reflex save or fall prone. The water serpent can strike the same target multiple times by moving through its square repeatedly. If a creature moves into the space occupied by a water serpent, they must succeed at a Reflex save or be subject to the serpent pushing them back with its bull rush as normal.
 
+---
+
+*Archived: [[Spellcrafting (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

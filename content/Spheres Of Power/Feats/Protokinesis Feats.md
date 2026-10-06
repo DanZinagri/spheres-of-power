@@ -174,3 +174,6 @@ Unlike other familiars, this familiar is directly manifested by your telekinetic
 
 **Special:** If you possess the Kinetic Sense talent, add 15 feet to the range of the tremorsense it provides.
 
+---
+
+*Archived: [[Protokinesis Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

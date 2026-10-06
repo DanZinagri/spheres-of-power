@@ -28,3 +28,6 @@ This replaces the bestial trait gained at 6th level.
 
 At 20th level, each of the pack master’s animal companions gains a +4 bonus to her effective druid level, to a maximum equal to the pack master’s effective druid level. This replaces second skin.
 
+---
+
+*Archived: [[Pack Master (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

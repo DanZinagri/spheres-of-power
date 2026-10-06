@@ -63,3 +63,6 @@ This ability replaces the rogue talents gained at 2nd, 4th, 12th, and 18th level
 
 Kismet counts as luck for the purpose of qualifying for and activating feats, but not for other purposes, such as being spent in place of grit or panache. If a character has a kismet ability from two sources, the kismet points from the two sources do not stack, but the character regains kismet in any way either class feature allows them to. If the character's kismet abilities would give them kismet points based on different ability scores, they use the highest only.
 
+---
+
+*Archived: [[Lucky Bastard (RogueUnchained Rogue Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -82,3 +82,6 @@ At 11th level, a wardmage is prepared for the attacks of enemies she has interce
 
 This replaces mystic defense.
 
+---
+
+*Archived: [[Wardmage (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

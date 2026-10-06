@@ -44,3 +44,6 @@ At 20th level, the skulk may use advanced talents replicated by arcane forgery w
 
 This replaces feytouched.
 
+---
+
+*Archived: [[Skulk (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

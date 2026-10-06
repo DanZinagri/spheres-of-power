@@ -2443,6 +2443,8 @@ def convert(with_images: bool) -> None:
             adest.write_text("\n".join(afm) + "\n" + GENERATED_MARK + "\n\n" + note + "\n\n"
                              + collapse_dividers(original) + "\n", encoding="utf-8")
             archived[p.filename] = (name, p.title)
+            body_md = (body_md.rstrip("\n") + f"\n\n---\n\n*Archived: [[{name}|Original version]] "
+                       "(from before *Ultimate Spheres of Power*)*\n")
             derived_notes.append((f"{folder}/{name}.md", f"{p.folder}/{p.filename}.md".lstrip("/")))
         # an Ultimate tab on its own needs no tab bar
         body_md = unwrap_lone_tabs(body_md, {"Ultimate"})

@@ -333,3 +333,6 @@ The protective items known as shadowguards are intricate, well-made bracers that
 **Construction Requirements**
 Smith Magical Weapons And Armor, Illusion sphere, creator must have the shadowstuff ability; **Cost** 3,875 gp (lesser), 25,500 gp (regular), or 66,875 gp (greater)
 
+---
+
+*Archived: [[Fey Adept (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

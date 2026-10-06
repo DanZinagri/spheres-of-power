@@ -30,3 +30,6 @@ At 8th level, the radiant protean may shift her coloration easily whenever she i
 
 This replaces the immunity to poison class feature.
 
+---
+
+*Archived: [[Radiant Protean (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

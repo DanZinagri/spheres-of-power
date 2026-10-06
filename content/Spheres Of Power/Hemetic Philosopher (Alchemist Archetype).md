@@ -34,3 +34,6 @@ This ability replaces swift poison, poison use, poison resistance, and poison im
 
 **Note:** These potions are created using the talent-based crafting system.
 
+---
+
+*Archived: [[Hemetic Philosopher (Alchemist Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

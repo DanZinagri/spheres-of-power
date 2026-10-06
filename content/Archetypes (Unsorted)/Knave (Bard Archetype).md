@@ -41,3 +41,6 @@ At 15th level, a knave learns to counter magical effects with his performance. W
 
 This replaces inspire heroics.
 
+---
+
+*Archived: [[Knave (Bard Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

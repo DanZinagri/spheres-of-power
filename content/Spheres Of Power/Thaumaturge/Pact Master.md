@@ -64,3 +64,6 @@ At 11th level, the pact master may gain two (form) talents when using share form
 
 This replaces the soulfire invocation.
 
+---
+
+*Archived: [[Pact Master (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -58,3 +58,6 @@ The folk healer is considered to have the favored terrain feature. Any ability t
 
 This replaces woodland stride.
 
+---
+
+*Archived: [[Folk Healer (Ranger Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

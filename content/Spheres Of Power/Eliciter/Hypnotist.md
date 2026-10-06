@@ -28,3 +28,6 @@ At 5th, 11th, and 17th level, a hypnotist gains an investigator talent. He canno
 
 **Benefit:** Whenever you use inspiration, you may invigorate yourself as part of the same action.
 
+---
+
+*Archived: [[Hypnotist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

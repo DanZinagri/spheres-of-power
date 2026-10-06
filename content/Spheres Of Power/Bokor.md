@@ -77,3 +77,6 @@ A bokor may sacrifice a spell as a swift action, turning it into energy to empow
 
 At 10th level, a bokor may combine a spell with a sphere ability, using both with the same action. The combined effect uses the longest casting time of the two, and the bokor can make any decisions concerning the spells/talent independently of each other. Any target affected by both of the spells takes a –2 penalty on saves made against both the spell and sphere ability. The bokor also receives a +2 bonus on caster level checks made to overcome spell resistance with these two effects. A bokor may use this ability once per day.
 
+---
+
+*Archived: [[Bokor (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

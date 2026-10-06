@@ -45,3 +45,6 @@ The elemental scion may take [[Destruction]] talents in place of bestial traits.
 
 This alters bestial traits.
 
+---
+
+*Archived: [[Elemental Scion (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

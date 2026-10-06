@@ -32,3 +32,6 @@ At 13th level, the triple goddess may spend a standard action to touch a creatur
 
 At 17th level, a triple goddess gains the ultimate power over life itself: The power to end it. The triple goddess may spend a standard action to make a touch attack against a single creature and cut the cord of its life. The target receives a Will save against a DC equal to 10 + 1/2 her triple goddess level + her casting ability modifier. If the target succeeds in its Will save it is staggered for 1d4 rounds and the triple goddess cannot attempt to cut her cord again for 24 hours. If the target’s saving throw fails, it dies. This is a death effect.
 
+---
+
+*Archived: [[Triple Goddess (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

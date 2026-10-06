@@ -923,3 +923,7 @@ The creature created is friendly toward you, and while you have no special empat
 | Plant | Huge vegetation | Wyrgrove treant |
 | Water | 15-ft. cube of water | Huge geomancy born water elemental |
 | Weather | 15-ft. cube of air | Huge geomancy born air elemental |
+
+---
+
+*Archived: [[Nature (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -50,3 +50,6 @@ At 20th level, a warrior of holy light becomes a conduit for pure light, spirit,
 
 This replaces the spellsword ability.
 
+---
+
+*Archived: [[Warrior Of Holy Light (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

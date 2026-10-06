@@ -27,3 +27,6 @@ This replaces sphere specialization from the [[Sphere Wizard|sphere wizard]] arc
 
 **Author's Note:** The increase in casting time is applied after all other effects that increase casting time, such as meta-magic effects, and is applied even if the quicken meta-magic feat would lower the casting time. If the casting time is already a full-round action or greater, there is no further increase in casting time.
 
+---
+
+*Archived: [[Cosmic Sage (Wizard Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

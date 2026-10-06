@@ -640,3 +640,6 @@ This trait only works once per day for each source of a fear effect. For the pur
 
 You may maintain a rapport with an additional creature, as long as they are at least friendly towards you. If their attitude toward you becomes indifferent or worse, their rapport immediately ends.
 
+---
+
+*Archived: [[Traits (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -28,3 +28,6 @@ The sphere skald can choose a new base sphere with this ability. The sphere skal
 
 This replaces spell kenning.
 
+---
+
+*Archived: [[Sphere Skald (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

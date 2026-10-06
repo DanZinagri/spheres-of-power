@@ -819,3 +819,6 @@ Wrestling with the complicated ethical questions or reveling in the moral gray a
 
 **Hunted:** Out of hatred, duty, or sport, a cabal of undead-hunters scours the area. They may or may not care about apprehending the necromancer behind the reanimation, so long as they’re able to take down their quarry.
 
+---
+
+*Archived: [[Death (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -54,3 +54,6 @@ At 20th level, the war hero gains his third greater heroic aura, and may retrain
 
 This replaces the bonus feat gained at 20th level.
 
+---
+
+*Archived: [[War Hero (Fighter Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

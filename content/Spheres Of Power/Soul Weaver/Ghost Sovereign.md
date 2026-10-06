@@ -74,3 +74,6 @@ Where the kingdom exists varies. It might be a demiplane within the astral plane
 
 Physical matter can not exist within the kingdom, save for the personal possessions of the ghost sovereign when she chooses to visit. Likewise, living beings other than the ghost sovereign can not enter the kingdom. Animated creatures can not enter the kingdom, nor can undead.
 
+---
+
+*Archived: [[Ghost Sovereign (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

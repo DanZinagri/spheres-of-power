@@ -42,3 +42,6 @@ Alternatively, the talent thief may steal one feat possessed by the target for e
 
 This replaces the second and third weapons selected for finesse training.
 
+---
+
+*Archived: [[Talent Thief (Unchained Rogue Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

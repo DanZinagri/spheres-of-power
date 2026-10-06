@@ -207,3 +207,6 @@ Rune feats enhance how runes may be used. Runesingers may choose to gain rune fe
 
 **Special:** You may take this feat once for every 4 runesinger levels you possess. The effects stack.
 
+---
+
+*Archived: [[Runesinger (Fighter Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

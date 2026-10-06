@@ -32,3 +32,6 @@ At 3rd level, when the elemental conduit casts a destructive blast benefiting fr
 
 This replaces favored element but counts as favored element for stacking purposes.
 
+---
+
+*Archived: [[Twinsoul Elementalist (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

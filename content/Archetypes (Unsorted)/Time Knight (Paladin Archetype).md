@@ -65,3 +65,6 @@ The time knight must be of any good alignment and instantly loses all class feat
 
 The time knight can choose to accompany such a creature for a limited time in service to a greater good, but willingly allowing such a creature to go free causes the time knight to suffer the same effects as losing her good alignment until the time knight receives an atonement or brings the creature to justice.
 
+---
+
+*Archived: [[Time Knight (Paladin Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

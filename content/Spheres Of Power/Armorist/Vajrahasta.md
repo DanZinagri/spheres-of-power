@@ -62,3 +62,6 @@ The vajrahasta gains exclusive access to the following arsenal trick:
 
 By spending a move action, she can treat any of her vajras with a creature impaled on them as if she controlled them until the start of her next turn. While controlling her vajras in this manner she may expend her martial focus as a standard action to deal damage to each creatures impaled on her vajras as though she had attacked them with each vajra impaling them. She may apply (impale) talents, Vital Strike, and any feat with Vital Strike as a prerequisite to this damage.
 
+---
+
+*Archived: [[Vajrahasta (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

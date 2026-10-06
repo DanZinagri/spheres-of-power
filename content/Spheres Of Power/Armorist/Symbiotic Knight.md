@@ -40,3 +40,6 @@ At 5th level and every 5 levels thereafter, the symbiotic knight’s symbiote ga
 
 Once a trait has been chosen, it cannot be changed. So long as the symbiotic knight is using her symbiote as armor, her symbiote may grant her any trait or traits it possesses. Activating or dismissing any of these traits may be done as part of the action needed to summon, dismiss, or alter the special abilities of symbiotic armor.
 
+---
+
+*Archived: [[Symbiotic Knight (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

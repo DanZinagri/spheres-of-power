@@ -140,3 +140,6 @@ Whenever the iron mage makes a full attack or an attack action, she receives a +
 
 Whenever the iron mage confirms a critical hit on a creature, she regains one point of authority. Confirming a critical hit on a helpless or unaware creature or on a creature that has fewer Hit Dice than half the iron mage’s character level does not restore authority.
 
+---
+
+*Archived: [[Iron Mage (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

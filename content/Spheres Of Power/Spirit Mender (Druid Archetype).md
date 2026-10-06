@@ -128,3 +128,6 @@ At 3rd level, the spirit mender’s attendant spirits clean the environment arou
 
 This alters trackless step.
 
+---
+
+*Archived: [[Spirit Mender (Druid Archetype) (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

@@ -48,3 +48,6 @@ At 11th level, when using occulted visions to augment a blot, the void gazer may
 
 At 15th level, when using occulted visions to augment a Dark sphere effect, all target currently immersed within an area of Stygian Immersion blot must succeed a Will save or be confused for a number of rounds equal to his caster level. Leaving the void gazer’s area of blot immediately ends the confusion.
 
+---
+
+*Archived: [[Void Gazer (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

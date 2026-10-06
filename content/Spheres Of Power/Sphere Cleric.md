@@ -77,3 +77,6 @@ The spheres associated with each domain are as follows:
 | Water | Nature |
 | Weather | Weather |
 
+---
+
+*Archived: [[Sphere Cleric (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

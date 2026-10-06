@@ -92,3 +92,6 @@ Create Proxy: You may enhance creatures, allowing them to act as aiding casters 
 
 **Special:** If you also have Improved Spell Proxy, you may choose to grant them the benefits of one of your teamwork feats instead of transferring concentration.
 
+---
+
+*Archived: [[Proxy Feats (Original)|Original version]] (from before *Ultimate Spheres of Power*)*

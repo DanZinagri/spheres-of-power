@@ -34,3 +34,6 @@ At 10th level, the lichling gains a +2 bonus to all saving throws vs. death effe
 
 At 20th level, a lichling ceases to age (becoming effectively immortal), and gains immunity to age effects, bleed effects, nonlethal damage, ability drain, and energy drain. Unintelligent undead ignore the lichling, treating her as one of their own unless attacked.
 
+---
+
+*Archived: [[Lichling (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
