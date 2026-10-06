@@ -7,7 +7,8 @@ updated: 2021-12-16
 
 *Source: [Archetypes of Power](https://www.drivethrurpg.com/product/253494/Archetypes-of-Power?affiliate_id=549120)*
 
-**This content was not included as part of Ultimate Spheres of Power and is not part of the current version of the Spheres of Power rules.**
+> [!note]
+> This is original Spheres content and was not included in the final Ultimate printing.
 
 ---
 

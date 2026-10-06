@@ -70,6 +70,8 @@ EXCLUDED_PAGES = {
     "how-to-edit-pages", "what-is-a-wiki-site", "modules-reference", "bb-code-profile-template",
     # unlinked, untitled older duplicates of the Nature sphere / Casting Traditions pages
     "nature-2", "casting-traditions-2",
+    # wiki-made custom content (with the matching section on Weapons: DROP_SECTIONS)
+    "wiki-weapons",
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
     # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
@@ -147,7 +149,34 @@ EXTRAS_DROP = {
 }
 
 
+# Sections cut from a page: page slug -> [heading text]
+DROP_SECTIONS = {"weapons": ["Wiki Weapons"]}
+
+# Text replaced on a page: page slug -> [(regex, replacement)]
+OG_NOTE = "> [!note]\n> This is original Spheres content and was not included in the final Ultimate printing."
+PAGE_REPLACE = {
+    "dual-blooded-sorcerer": [
+        (r"^\*\*This content was not included as part of Ultimate Spheres of Power[^\n]*\*\*$", OG_NOTE),
+    ],
+}
+
+# Home Classes tables: extra archetypes added to a class's row (cell markdown, placed first)
+HOME_ARCHETYPE_ADDS = {
+    "Sorcerer": r"[[Dual-Blooded Sorcerer (Sorcerer Archetype)\|Dual-Blooded]] [OG]",
+}
+
+# The "Original" (pre-Ultimate) tab of every page moves to its own archived page; the archive is
+# kept out of search. Archived pages: ARCHIVE_ORIGINAL/<page folder>/<page> (Original).md
+ARCHIVE = "Archive"
+ARCHIVE_ORIGINAL = f"{ARCHIVE}/Original Spheres"
+ORIGINAL_TAB = "original"
+
+
 def add_page_notes(slug: str, md: str) -> str:
+    for pattern, repl in PAGE_REPLACE.get(slug, []):
+        md, n = re.subn(pattern, lambda m: repl, md, flags=re.M)
+        if not n:
+            print(f"warning: page replace for {slug} found no match for {pattern!r}")
     for pattern, note in PAGE_NOTES.get(slug, []):
         md, n = re.subn(pattern, lambda m: m.group(0) + note, md, flags=re.M)
         if not n:
@@ -1091,7 +1120,21 @@ def tidy_home(md: str) -> str:
         lines = lines[:start] + [""] + lines[resources:intro_end] + [e for x in entries for e in (x, "")] \
             + lines[intro_end:]
     lines = [l for l in lines if not l.startswith("- - ")]
-    return "\n".join(lines)
+    # the Archive heads the Other Resources list
+    res = next((i for i, l in enumerate(lines) if l.strip() == "# Other Resources"), None)
+    if res is not None:
+        first = next((i for i in range(res + 1, len(lines)) if lines[i].startswith("- ")), None)
+        if first is not None:
+            lines[first:first] = [f"- [[{ARCHIVE}]] - Retired spheres content", ""]
+    md = "\n".join(lines)
+    for cls, cell in HOME_ARCHETYPE_ADDS.items():
+        md, n = re.subn(rf"^(\|\s*\*\*\[{re.escape(cls)}\]\([^)]*\)\*\*\s*\|\s*)", lambda m: m.group(1) + cell + ", ",
+                        md, count=1, flags=re.M)
+        if not n:
+            print(f"warning: home archetype add: no {cls} row")
+    md = re.sub(r"(\*\*Citations Guide:\*\*[^\n]*?)(\[Wiki\] means)",
+                r"\1[OG] marks original Spheres content that was not included in Ultimate Spheres of Power. \2", md, count=1)
+    return md
 
 
 def remove_using_row(md: str) -> str:
@@ -1371,6 +1414,101 @@ def drop_entries(md: str, section: str, names: list[str]) -> str:
     for n in wanted - dropped:
         print(f"warning: drop entry {n!r} not found in {section!r}")
     return "\n".join(lines[:start + 1] + keep + lines[end:])
+
+
+def split_tab(md: str, tab_id: str) -> tuple[str, str | None]:
+    """Cut the first '<div class="sop-tab" data-tab="<tab_id>">' out of a page; return (rest,
+    the tab's markdown without its label). A tab set left with a single tab is unwrapped."""
+    lines = md.split("\n")
+    opens: list[int] = []
+    match: dict[int, int] = {}   # div open line -> its close line
+    parent: dict[int, int | None] = {}
+    for i, l in enumerate(lines):
+        s = l.strip()
+        if s.startswith("<div") and not s.endswith("</div>"):
+            parent[i] = opens[-1] if opens else None
+            opens.append(i)
+        elif s == "</div>" and opens:
+            match[opens.pop()] = i
+    tab = next((i for i in match if lines[i].strip() == f'<div class="sop-tab" data-tab="{tab_id}">'), None)
+    if tab is None:
+        return md, None
+    end = match[tab]
+    inner = [l for l in lines[tab + 1:end] if not l.strip().startswith('<div class="sop-tab-label">')]
+    drop = set(range(tab, end + 1))
+    tabs = parent.get(tab)
+    if tabs is not None:
+        rest = [i for i in match if parent.get(i) == tabs and i != tab
+                and lines[i].strip().startswith('<div class="sop-tab"')]
+        if len(rest) == 1:  # one tab left: no tab set needed
+            only = rest[0]
+            drop |= {tabs, match[tabs], only, match[only]}
+            drop |= {k for k in range(only, match[only])
+                     if lines[k].strip().startswith('<div class="sop-tab-label">')
+                     and k == next(j for j in range(only + 1, match[only]) if lines[j].strip())}
+    out = [l for i, l in enumerate(lines) if i not in drop]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)), "\n".join(inner).strip()
+
+
+def unwrap_lone_tabs(md: str, labels: set[str]) -> str:
+    """Drop the tab-set wrapper around a set holding a single tab whose label is in labels."""
+    while True:
+        lines = md.split("\n")
+        opens: list[int] = []
+        match: dict[int, int] = {}
+        parent: dict[int, int | None] = {}
+        for i, l in enumerate(lines):
+            s = l.strip()
+            if s.startswith("<div") and not s.endswith("</div>"):
+                parent[i] = opens[-1] if opens else None
+                opens.append(i)
+            elif s == "</div>" and opens:
+                match[opens.pop()] = i
+        drop = None
+        for t in sorted(match):
+            if lines[t].strip() != '<div class="sop-tabs">':
+                continue
+            kids = [i for i in match if parent.get(i) == t and lines[i].strip().startswith('<div class="sop-tab"')]
+            if len(kids) != 1:
+                continue
+            k = kids[0]
+            lab = next((j for j in range(k + 1, match[k]) if lines[j].strip()), None)
+            m = re.fullmatch(r'<div class="sop-tab-label">(.*)</div>', lines[lab].strip()) if lab else None
+            if m and html.unescape(m.group(1)) in labels:
+                drop = {t, match[t], k, match[k], lab}
+                break
+        if drop is None:
+            return md
+        md = re.sub(r"\n{3,}", "\n\n", "\n".join(l for i, l in enumerate(lines) if i not in drop))
+
+
+def original_spheres_index(home: str, archived: dict[str, tuple[str, str]]) -> str:
+    """The Original Spheres page: the archived pages grouped under the home page's own section
+    titles, in home order (each page where home first links it), the rest under Other Pages."""
+    ctx, groups, placed = "Other", {}, set()
+    for line in home.split("\n"):
+        s = line.strip()
+        if m := re.match(r"#{2,3} (.+)$", s):
+            ctx = m.group(1)
+        elif m := re.match(r"\*\*([^*]+)\*\*(?:\s*\*\(.*\)\*)?$", s):
+            ctx = m.group(1)
+        else:
+            for t in re.findall(r"\[\[([^\]|#\\]+)", s):
+                if t in archived and t not in placed:
+                    placed.add(t)
+                    groups.setdefault(ctx, []).append(t)
+            continue
+        ctx = re.sub(r"\s*\*\(.*?\)\*", "", re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", ctx)).strip()
+    for t in sorted(set(archived) - placed):
+        groups.setdefault("Other Pages", []).append(t)
+    out = ["The original (pre-*Ultimate*) versions of Spheres of Power pages, as they appeared before "
+           "*Ultimate Spheres of Power*. Kept for reference; they are not part of the current rules "
+           "and are left out of search.", "", '<div class="sop-spheres">', ""]
+    for title, names in groups.items():
+        out += [f"**{title}**", ""]
+        out += [f"- [[{archived[n][0]}|{archived[n][1]}]]" for n in names]
+        out.append("")
+    return "\n".join(out + ["</div>", ""])
 
 
 def tab_section(md: str, heading: str, label: str, tab_md: str, own_label: str) -> str:
@@ -2115,6 +2253,7 @@ def convert(with_images: bool) -> None:
     drawback_pages: dict[str, str] = {}   # sphere note name -> its "<Sphere> Sphere Drawbacks" note
     derived_notes: list[tuple[str, str]] = []  # (generated note path, its sphere's path) for colors
     class_archetypes: dict[str, list[str]] = {}  # class note name -> its archetype cells (home)
+    archived: dict[str, tuple[str, str]] = {}     # page note name -> (archived note name, title)
     home_page = None                      # (dest, text), written last with the feats links
     manifest = json.loads((CACHE / "manifest.json").read_text())
 
@@ -2286,7 +2425,28 @@ def convert(with_images: bool) -> None:
             class_archetypes[p.filename] = cells
         if p.slug in class_pages:
             body_md = collapse_dividers(remove_archetype_sections(body_md))
-        out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md
+        for heading in DROP_SECTIONS.get(p.slug, []):
+            body_md, _ = cut_section(body_md, heading)
+            body_md = collapse_dividers(body_md)
+        # the Original tab goes to its own archived page
+        body_md, original = split_tab(body_md, ORIGINAL_TAB)
+        if original:
+            body_md = collapse_dividers(body_md)
+            name = f"{p.filename} (Original)"
+            folder = f"{ARCHIVE_ORIGINAL}/{p.folder}".strip("/")
+            afm = ["---", f"title: {yaml_str(p.title + ' (Original)')}", f"source: {SITE}/{p.slug}",
+                   "nosearch: true", "parent: " + yaml_str(f"[[{ARCHIVE_ORIGINAL.split('/')[-1]}]]"), "---"]
+            note = (f"> [!note] Archived\n> The original version of [[{p.filename}|{p.title}]], from before "
+                    "*Ultimate Spheres of Power*. Not part of the current rules.")
+            adest = CONTENT / folder / f"{name}.md"
+            adest.parent.mkdir(parents=True, exist_ok=True)
+            adest.write_text("\n".join(afm) + "\n" + GENERATED_MARK + "\n\n" + note + "\n\n"
+                             + collapse_dividers(original) + "\n", encoding="utf-8")
+            archived[p.filename] = (name, p.title)
+            derived_notes.append((f"{folder}/{name}.md", f"{p.folder}/{p.filename}.md".lstrip("/")))
+        # an Ultimate tab on its own needs no tab bar
+        body_md = unwrap_lone_tabs(body_md, {"Ultimate"})
+        out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md.lstrip("\n")
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
         if p.slug == WILD_MAGIC_SLUG:
@@ -2307,7 +2467,22 @@ def convert(with_images: bool) -> None:
         dest, out = home_page
         home = add_feats_links(out, feats_pages, drawback_pages)
         home = sphere_lists(drop_merged_links(home, merge_links))
-        dest.write_text(fill_class_archetypes(home, class_archetypes), encoding="utf-8")
+        home = fill_class_archetypes(home, class_archetypes)
+        dest.write_text(home, encoding="utf-8")
+        # the Archive: a folder note listing archived material, and the Original Spheres index
+        nos = "nosearch: true"
+        (CONTENT / ARCHIVE).mkdir(parents=True, exist_ok=True)
+        (CONTENT / ARCHIVE / f"{ARCHIVE}.md").write_text(
+            f"---\ntitle: {ARCHIVE}\n{nos}\n---\n{GENERATED_MARK}\n\nRetired Spheres content, kept for "
+            "reference. Nothing here is part of the current rules, and none of it shows up in search.\n\n"
+            f"- [[{ARCHIVE_ORIGINAL.split('/')[-1]}]] - The original (pre-*Ultimate*) versions of "
+            f"{len(archived)} pages.\n", encoding="utf-8")
+        oname = ARCHIVE_ORIGINAL.split("/")[-1]
+        (CONTENT / ARCHIVE_ORIGINAL).mkdir(parents=True, exist_ok=True)
+        (CONTENT / ARCHIVE_ORIGINAL / f"{oname}.md").write_text(
+            f"---\ntitle: {oname}\n{nos}\nparent: \"[[{ARCHIVE}]]\"\n---\n{GENERATED_MARK}\n\n"
+            + original_spheres_index(home, archived), encoding="utf-8")
+        print(f"Archived Original tabs: {len(archived)}")
         print(f"Sphere feats pages: {len(feats_pages)}")
 
     if wm_page:

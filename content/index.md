@@ -24,7 +24,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 **Champions of the Spheres** focuses on content that blends multiple systems together (such as a character who gains both martial and magical talents). Champion content uses green links.
 
-**Citations Guide:** [Apoc] is used to mark Spheres Apocrypha, which are small, official releases. [CS] is used to mark Champions of the Spheres content (whether from that book or not) in areas where it may not be obvious. [3PP] means content is from someone other than Drop Dead Studios, so it is not official Spheres content. Specific publishers such as Diamond Recreational Studios [DRS] and Studio M— [SM—] have their own tags. [Wiki] means the content was created by the wiki or the community. [(Name) HB] marks content from specific handbooks. [NS] helps mark content published in Spheres books, but that does not specifically use Spheres content.
+**Citations Guide:** [Apoc] is used to mark Spheres Apocrypha, which are small, official releases. [CS] is used to mark Champions of the Spheres content (whether from that book or not) in areas where it may not be obvious. [3PP] means content is from someone other than Drop Dead Studios, so it is not official Spheres content. Specific publishers such as Diamond Recreational Studios [DRS] and Studio M— [SM—] have their own tags. [OG] marks original Spheres content that was not included in Ultimate Spheres of Power. [Wiki] means the content was created by the wiki or the community. [(Name) HB] marks content from specific handbooks. [NS] helps mark content published in Spheres books, but that does not specifically use Spheres content.
 
 ---
 
@@ -407,7 +407,7 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 | **[Shaman](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Shaman)** | [[Dirgesinger (Shaman Archetype)\|Dirgesinger]], [[Sphere Shaman]] | [[Shaman and Witch Hexes]] |
 | **[Skald](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Skald)** | [[Growling Marauder (Skald Archetype)\|Growling Marauder]] [CS], [[Masterwork Chronicler (Skald Archetype)\|Masterwork Chronicler]] [CS], [[Primordia (Skald Archetype)\|Primordia]], [[Skaldic Poet (Skald Archetype)\|Skaldic Poet]], [[Sphere Skald]], [[Storm Herald (Skald Archetype)\|Storm Herald]] |  |
 | **[Slayer](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Slayer)** | [[Ghost Stepper (Archetype)\|Ghost Stepper]], [[Guild Assassin (Slayer Archetype)\|Guild Assassin]], [[Mercenary (Slayer Archetype)\|Mercenary]], [[Time Stalker (Slayer Archetype)\|Time Stalker]] | [[Slayer Talents]] |
-| **[Sorcerer](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Sorcerer)** | [[Inheritor (Sorcerer Archetype)\|Inheritor]] [CS], [[Sphere Sorcerer]] | [[Sorcerer Bloodlines]] |
+| **[Sorcerer](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Sorcerer)** | [[Dual-Blooded Sorcerer (Sorcerer Archetype)\|Dual-Blooded]] [OG], [[Inheritor (Sorcerer Archetype)\|Inheritor]] [CS], [[Sphere Sorcerer]] | [[Sorcerer Bloodlines]] |
 | **[Spiritualist](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Spiritualist)** | [[Martial Spiritualist (Spiritualist Archetype)\|Martial Spiritualist]] [CS], [[Psychomancer (Spiritualist Archetype)\|Psychomancer]] | [[Phantom Options]] |
 | **[Summoner](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Summoner)** | [[Champion Summoner (Summoner and Unchained Summoner Archetype)\|Champion Summoner]] [CS] [DRS], [[Mirrored Soul (SummonerUnchained Summoner Archetype)\|Mirrored Soul]] [CS], [[Nyancaller (SummonerUnchained Summoner Archetype)\|Nyancaller]], [[Soul Binder (Summoner Archetype)\|Soul Binder]], [[Sphere Summoner (SummonerUnchained Summoner Archetype)\|Sphere Summoner]], [[Void Conduit (SummonerUnchained Summoner Archetype)\|Void Conduit]] [DRS] |  |
 | **[Summoner, Unchained](https://www.aonprd.com/ClassDisplay.aspx?ItemName=Summoner%20(Unchained))** | [[Champion Summoner (Summoner and Unchained Summoner Archetype)\|Champion Summoner]] [CS] [DRS], [[Mirrored Soul (SummonerUnchained Summoner Archetype)\|Mirrored Soul]] [CS], [[Nyancaller (SummonerUnchained Summoner Archetype)\|Nyancaller]], [[Soul Binder (Summoner Archetype)\|Soul Binder]], [[Sphere Summoner (SummonerUnchained Summoner Archetype)\|Sphere Summoner]], [[Void Conduit (SummonerUnchained Summoner Archetype)\|Void Conduit]] [DRS] |  |
@@ -448,6 +448,8 @@ The Spheres are a collection of three optional rule systems for the Pathfinder R
 
 In addition to the rulesets listed above, this site offers a number of other resources to help you run games.
 
+- [[Archive]] - Retired spheres content
+
 - [[Mythic Rules]] - The Mythic rules are an addition to the main ruleset of the Pathfinder Roleplaying Game, allowing players to access truly legendary powers and abilities and confront foes that are far more dangerous than the usual enemies of the game.
 
 - [[Diamond Recreational Studios]] - Diamond Recreational Studios is a Drop Dead Studios sanctioned successor to the Spheres subsystems. This section includes rules and publications by DRS, including their "Polished Spheres" publications.
@@ -481,7 +483,6 @@ In addition to the rulesets listed above, this site offers a number of other res
 
 - [[Tricks And Strategies|Tricks and Strategies]] - Here are some rules-legal tricks and techniques you can do with the spheres systems. Many of these were suggested by the community.
 
-- [[Wiki Weapons]] - New weapons for characters to use, developed by the Wiki.
 
 # House Rules
 
