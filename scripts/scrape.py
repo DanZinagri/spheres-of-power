@@ -2183,9 +2183,12 @@ ARCHETYPE_ERRATA = {
         ("append", "Dark Passenger",
          "**Polished Dark errata:** The invidian chooses either the Dark sphere or Mind sphere, using their "
          "class level as their caster level. This stacks normally with caster levels gained from other sources."),
-        ("note", "The errata also reads: \"The duskwalk class feature functions within any darkened area, and "
-         "may be used without spending a spell point if the invidian possesses the Traveler's Darkness "
-         "talent.\" The invidian has no duskwalk feature; [[Tenebrous Stalker]] does."),
+    ],
+    # the book prints this under the invidian, which has no duskwalk; tenebrous stalker does
+    "Tenebrous Stalker": [
+        ("append", "Duskwalk (Su)",
+         "**Polished Dark errata:** The duskwalk class feature functions within any darkened area, and may be "
+         "used without spending a spell point if the invidian possesses the Traveler's Darkness talent."),
     ],
     "Nocturnus (Mesmerist Archetype)": [
         ("replace", "Cripple",

@@ -16,7 +16,6 @@ parent: "[[Symbiat]]"
 
 > [!note] Polished Dark errata
 > This version includes the errata from *Diamond Polished Spheres: Dark Sphere*.
-> The errata also reads: "The duskwalk class feature functions within any darkened area, and may be used without spending a spell point if the invidian possesses the Traveler's Darkness talent." The invidian has no duskwalk feature; [[Tenebrous Stalker]] does.
 
 *Source: [Ultimate Spheres of Power](https://www.drivethrurpg.com/product/300249/Ultimate-Spheres-of-Power?affiliate_id=549120)*
 
