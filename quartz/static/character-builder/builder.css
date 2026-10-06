@@ -647,3 +647,10 @@ details.changes {
   color: var(--gray);
   border-top: 1px solid var(--lightgray);
 }
+.ch-hint {
+  flex-basis: 100%;
+  margin-top: -0.15rem;
+}
+.ch-hint:empty {
+  display: none;
+}

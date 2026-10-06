@@ -165,19 +165,24 @@ function calcCore(m) {
   const saveTotals = Object.fromEntries(Object.entries(saveAbl).map(([k, a]) => [k, saves[k] + abl[a].mod + m(k) + m("allSavingThrows")]))
 
   const size = SIZES[s.race.size]?.[1] ?? 0
-  let armor = 0, shield = 0, maxDex = Infinity, acp = 0, asf = 0
+  // as pf1's _applyArmorPenalties: each item's penalty is adjusted by the ACP (Armor/Shield) changes
+  // (negative reduces it, floored at 0), then the worst armor and worst shield penalties are added
+  let armor = 0, shield = 0, maxDex = Infinity, asf = 0
+  const worstAcp = { armor: 0, shield: 0 }
   for (const g of s.gear) {
     if (!g.equipped) continue
     if (g.kind === "armor") {
       armor += num(g.ac)
-      if (g.maxDex !== "" && g.maxDex != null) maxDex = Math.min(maxDex, num(g.maxDex))
+      if (g.maxDex !== "" && g.maxDex != null) maxDex = Math.min(maxDex, num(g.maxDex) + m("mDexA"))
     }
     if (g.kind === "shield") shield += num(g.ac)
     if (g.kind === "armor" || g.kind === "shield") {
-      acp += Math.abs(num(g.acp))
+      const pen = Math.max(0, Math.abs(num(g.acp)) + m(g.kind === "armor" ? "acpA" : "acpS"))
+      worstAcp[g.kind] = Math.max(worstAcp[g.kind], pen)
       asf += num(g.asf)
     }
   }
+  const acp = worstAcp.armor + worstAcp.shield
   const dexAc = Math.min(abl.dex.mod, maxDex)
   const acMods = m("ac") + m("aac") + m("sac") + m("nac")
   const ac = 10 + armor + shield + dexAc + size + acMods

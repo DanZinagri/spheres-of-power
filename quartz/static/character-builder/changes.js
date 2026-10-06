@@ -283,9 +283,31 @@ function groupedSelect(groups, current, onChange, attrs = {}) {
   return el
 }
 
-function formulaPreview(formula) {
+// Targets the builder's preview applies (see calcCore); the rest only take effect in Foundry.
+// Built on first use because ABL lives in builder.js, which loads after this file.
+let previewTargets
+const previewTargetList = () => [
+  ...ABL, ...ABL.map((k) => `${k}Mod`), ...ABL.map((k) => `${k}Skills`),
+  "bab", "attack", "wattack", "mattack", "rattack", "damage", "wdamage", "mwdamage", "mdamage", "rwdamage", "rdamage",
+  "ac", "aac", "sac", "nac", "tac", "ffac", "cmb", "cmd", "init", "fort", "ref", "will", "allSavingThrows", "mhp",
+  "skills", "unskills", "landSpeed", "allSpeeds", "bonusFeats", "bonusSkillRanks", "acpA", "acpS", "mDexA",
+  "spherecl", "msb", "msd", "sphereConcentration",
+]
+const TARGET_HINTS = {
+  acpA: "Added to the armor's check penalty: use a negative number to reduce it (Armor Training: -1).",
+  acpS: "Added to the shield's check penalty: use a negative number to reduce it.",
+  mDexA: "Added to the armor's maximum Dexterity bonus.",
+  mDexS: "Added to the shield's maximum Dexterity bonus.",
+}
+function inPreview(target) {
+  previewTargets ??= new Set(previewTargetList())
+  return !target || previewTargets.has(target) || target.startsWith("skill.")
+}
+
+function formulaPreview(formula, target) {
   const { value } = evalFormula(formula, buildRollData(calc()))
-  return value == null ? (String(formula ?? "").trim() ? "in Foundry" : "") : `= ${signed(Math.floor(value))}`
+  if (value == null) return String(formula ?? "").trim() ? "in Foundry" : ""
+  return `= ${signed(Math.floor(value))}${inPreview(target) ? "" : " · Foundry only"}`
 }
 
 // Changes + context notes for one item (feature, talent or buff), in a collapsible block
@@ -296,21 +318,28 @@ function changesEditor(entry) {
   const typeOpts = Object.entries(PF1_FORMULA.bonusTypes)
 
   const changeRow = (ch, i) => {
-    const preview = h("span", { class: "ch-preview" }, formulaPreview(ch.formula))
+    const preview = h("span", { class: "ch-preview", title: "Value now; targets marked Foundry only aren't in the builder's preview" }, formulaPreview(ch.formula, ch.target))
+    const hint = h("div", { class: "note ch-hint" }, TARGET_HINTS[ch.target] ?? "")
     const formula = attachAutocomplete(h("input", { value: ch.formula ?? "", placeholder: "Formula, e.g. 2 or @abilities.str.mod", "aria-label": "Change formula", class: "ch-formula" }))
     formula.addEventListener("input", () => {
       ch.formula = formula.value
-      preview.textContent = formulaPreview(ch.formula)
+      preview.textContent = formulaPreview(ch.formula, ch.target)
       changed()
     })
     const type = h("select", { "aria-label": "Bonus type" }, typeOpts.map(([k, l]) => h("option", { value: k, selected: k === (ch.type || "untyped") }, l)))
     type.addEventListener("change", () => { ch.type = type.value; changed() })
     return h("div", { class: "ch-row" },
-      groupedSelect(targetOptions(), ch.target, (v) => { ch.target = v; changed() }, { "aria-label": "Change target", class: "ch-target" }),
+      groupedSelect(targetOptions(), ch.target, (v) => {
+        ch.target = v
+        preview.textContent = formulaPreview(ch.formula, ch.target)
+        hint.textContent = TARGET_HINTS[ch.target] ?? ""
+        changed()
+      }, { "aria-label": "Change target", class: "ch-target" }),
       type,
       formula,
       preview,
       h("button", { class: "small danger", "aria-label": "Remove change", onclick: () => { entry.changes.splice(i, 1); changed(true) } }, "×"),
+      hint,
     )
   }
   const noteRow = (n, i) => {
