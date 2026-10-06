@@ -1450,8 +1450,8 @@ def split_tab(md: str, tab_id: str) -> tuple[str, str | None]:
     return re.sub(r"\n{3,}", "\n\n", "\n".join(out)), "\n".join(inner).strip()
 
 
-def unwrap_lone_tabs(md: str, labels: set[str]) -> str:
-    """Drop the tab-set wrapper around a set holding a single tab whose label is in labels."""
+def unwrap_lone_tabs(md: str, labels: set[str] | None = None) -> str:
+    """Drop the tab-set wrapper around a set holding a single tab (whose label is in labels, if given)."""
     while True:
         lines = md.split("\n")
         opens: list[int] = []
@@ -1474,7 +1474,7 @@ def unwrap_lone_tabs(md: str, labels: set[str]) -> str:
             k = kids[0]
             lab = next((j for j in range(k + 1, match[k]) if lines[j].strip()), None)
             m = re.fullmatch(r'<div class="sop-tab-label">(.*)</div>', lines[lab].strip()) if lab else None
-            if m and html.unescape(m.group(1)) in labels:
+            if m and (labels is None or html.unescape(m.group(1)) in labels):
                 drop = {t, match[t], k, match[k], lab}
                 break
         if drop is None:
@@ -2446,8 +2446,8 @@ def convert(with_images: bool) -> None:
             body_md = (body_md.rstrip("\n") + f"\n\n---\n\n*Archived: [[{name}|Original version]] "
                        "(from before *Ultimate Spheres of Power*)*\n")
             derived_notes.append((f"{folder}/{name}.md", f"{p.folder}/{p.filename}.md".lstrip("/")))
-        # an Ultimate tab on its own needs no tab bar
-        body_md = unwrap_lone_tabs(body_md, {"Ultimate"})
+        # a tab on its own needs no tab bar (its content carries its own Source line)
+        body_md = unwrap_lone_tabs(body_md)
         out = "\n".join(fm) + "\n" + GENERATED_MARK + "\n\n" + body_md.lstrip("\n")
         dest = CONTENT / p.folder / f"{p.filename}.md"
         dest.parent.mkdir(parents=True, exist_ok=True)
