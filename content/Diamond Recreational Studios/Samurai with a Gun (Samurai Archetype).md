@@ -11,9 +11,13 @@ parent: "[[Diamond Recreational Studios]]"
 
 Some samurai understand that in order to master the blade, one must first master strictly better weaponry.
 
-**Samurai with a Gun (Ex):** At 1st level, the samurai with a gun gains the gunslinger gunsmith ability, granting them a battered firearm of their choice (blunderbuss, musket or pistol) as well as the Gunsmithing feat as a bonus feat. The samurai with a gun is also proficient with one type of firearm of their choice (most often the same type of firearm chosen with this class feature).
+## Samurai with a Gun (Ex)
 
-**Gritted Teeth, Iron Resolve (Ex):** At 1st level, the samurai with a gun gains the grit class feature, as the gunslinger class feature. The samurai with a gun uses their Charisma modifier in place of their Wisdom modifier for these purposes.
+At 1st level, the samurai with a gun gains the gunslinger gunsmith ability, granting them a battered firearm of their choice (blunderbuss, musket or pistol) as well as the Gunsmithing feat as a bonus feat. The samurai with a gun is also proficient with one type of firearm of their choice (most often the same type of firearm chosen with this class feature).
+
+## Gritted Teeth, Iron Resolve (Ex)
+
+At 1st level, the samurai with a gun gains the grit class feature, as the gunslinger class feature. The samurai with a gun uses their Charisma modifier in place of their Wisdom modifier for these purposes.
 
 A samurai with a gun must spend 2 grit points whenever they would expend a use of resolve.
 

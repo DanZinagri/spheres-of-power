@@ -11,19 +11,29 @@ parent: "[[Diamond Recreational Studios]]"
 
 Skilled warriors, poets, and defenders of the land, Ronin Samurai are are a cast of knight, still beholden to a code, but not always in the service of a local lord or reagent and expected to defend the land. Many Ronin Samurai may wander, honing their skills and becoming warriors of legend.
 
-Proficiencies: Ronin are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+Ronin are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This modifies weapon and armor proficiencies.
 
-**Combat Training (Ex):** A ronin is considered an Expert practitioner, gaining spheres and talents as appropriate. Ronin use their choice of Intelligence, Wisdom, or Charisma as their practitioner modifier.
+## Combat Training (Ex)
+
+A ronin is considered an Expert practitioner, gaining spheres and talents as appropriate. Ronin use their choice of Intelligence, Wisdom, or Charisma as their practitioner modifier.
 
 This replaces mount, weapon expertise, mounted archer, and bonus feat.
 
-**Tested Blade (Ex):** A ronin may use their practitioner modifier in place of their Charisma modifier when determining the effects of their samurai class features (including those granted by their order).
+## Tested Blade (Ex)
 
-**Honed Arts (Ex):** At 1st level, the ronin gains the Guardian sphere (challenge) package as a bonus talent. If the ronin already possesses one or both of the selected talents, or is incapable of selecting them due to a drawback, they may instead select any talent they qualifies for from the corresponding sphere, or buy off the drawback.
+A ronin may use their practitioner modifier in place of their Charisma modifier when determining the effects of their samurai class features (including those granted by their order).
 
-**Wanderer’s Challenge (Ex):** At 1st level, any abilities the ronin possesses that references their use of the samurai challenge class feature (such as the demanding challenge class feature, or the challenge ability for their order) apply to any use of the Guardian sphere’s challenge ability.
+## Honed Arts (Ex)
+
+At 1st level, the ronin gains the Guardian sphere (challenge) package as a bonus talent. If the ronin already possesses one or both of the selected talents, or is incapable of selecting them due to a drawback, they may instead select any talent they qualifies for from the corresponding sphere, or buy off the drawback.
+
+## Wanderer’s Challenge (Ex)
+
+At 1st level, any abilities the ronin possesses that references their use of the samurai challenge class feature (such as the demanding challenge class feature, or the challenge ability for their order) apply to any use of the Guardian sphere’s challenge ability.
 
 At 3rd level, the ronin may use their Guardian sphere talents that modify the challenge sphere ability with their samurai challenge class feature (such as the Guardian’s Focus or Steel Hide talent). The ronin may not use the Mass Challenge talent with their samurai challenge class feature unless they spend an additional use of challenge per additional target.
 

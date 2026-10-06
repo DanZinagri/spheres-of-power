@@ -10,27 +10,39 @@ parent: "[[Sentinel]]"
 
 *Standing as it did in front of a roughly hewn slab of jet-black stone, it raised its weapon, a challenge to all who would try to claim what was rightfully theirs.* –Annals of the First Darkthrone
 
-**Casting:** The darkthrone may combine spheres and talents to create magical effects. The darkthrone is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
+## Casting
 
-**Spell Pool:** The darkthrone gains a small reservoir of energy they can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to their level + their casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
+The darkthrone may combine spheres and talents to create magical effects. The darkthrone is considered a Low-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
+
+## Spell Pool
+
+The darkthrone gains a small reservoir of energy they can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to their level + their casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
 The darkthrone does not gain a sentinel’s reserve. Any abilities which cost points from the sentinel’s reserve instead cost spell points.
 
 This modifies sentinel’s reserve.
 
-**Blended Training:** A darkthrone gains a combat or magic talent every time they gain a class level. A darkthrone uses their casting ability modifier as their practitioner modifier.
+## Blended Training
+
+A darkthrone gains a combat or magic talent every time they gain a class level. A darkthrone uses their casting ability modifier as their practitioner modifier.
 
 This alters combat talents.
 
-**Dark Pressure:** At 1st level, the darkthrone gains the Dark sphere as a bonus sphere. In addition, the darkthrone uses their class level as their caster level for the Dark sphere when targeting themselves (and only themselves) (such as with a *cloak* or a *gloom* modified with the clinging darkness option). This stacks normally with caster levels gained from other sources.
+## Dark Pressure
+
+At 1st level, the darkthrone gains the Dark sphere as a bonus sphere. In addition, the darkthrone uses their class level as their caster level for the Dark sphere when targeting themselves (and only themselves) (such as with a *cloak* or a *gloom* modified with the clinging darkness option). This stacks normally with caster levels gained from other sources.
 
 This replaces wise reflexes; other sentinel class features which use the sentinel’s practitioner modifier instead use the darkthrone’s casting ability modifier.
 
-**Shadow Defender (Su):** At 2nd level, the darkthrone gains Shadow Defender as a bonus feat. The darkthrone uses their class level as their caster level when creating a Dark sphere effect using the Shadow Defender feat. This stacks normally with caster levels gained from other sources.
+## Shadow Defender (Su)
+
+At 2nd level, the darkthrone gains Shadow Defender as a bonus feat. The darkthrone uses their class level as their caster level when creating a Dark sphere effect using the Shadow Defender feat. This stacks normally with caster levels gained from other sources.
 
 This replaces dedicated defense.
 
-**Enthroned (Su):** At 6th level, while the darkthrone has any number of temporary hit points granted by their sentinel’s reserve, the darkthrone is treated as being within a *gloom* they created (i.e. benefiting from (meld) options, etc.).
+## Enthroned (Su)
+
+At 6th level, while the darkthrone has any number of temporary hit points granted by their sentinel’s reserve, the darkthrone is treated as being within a *gloom* they created (i.e. benefiting from (meld) options, etc.).
 
 In addition, the darkthrone gains the following abilities, which improve their Shadow Defender feat’s effects.
 
@@ -41,7 +53,7 @@ Once created, the monument of night’s effective reach is treated as the darkth
 
 The darkthrone may leave the monument of night’s effective reach once it has been created (such as using the Swift Guardian talent to create the monument as a standard action then move to a new position near the monument to threaten normally and also continue to threaten the monument of night’s area).
 
-## Monument of Night
+#### Monument of Night
 
 The monument of night is created in a single square and does not move if the square would move (unless a sufficiently large vehicle or object, subject to GM discretion). The monument of night does not block line of sight or impede movement but may be modified by (zone) talents, granted (darkness) or (blot) options, and so on.
 
@@ -55,7 +67,9 @@ The monument of night is destroyed if its hit points become 0 (ending the darkth
 
 This replaces counter-critical.
 
-**Nighthold (Su):** At 19th level, the darkthrone gains immunity to critical hits, sneak attack, and other precision damage originating from creatures under the effects of the darkthrone’s Dark sphere effects (including effects created by the Shadow Defender feat); this includes creatures affected by the darkthrone’s blinding challenge or inside the radius of their ecliptic patrol.
+## Nighthold (Su)
+
+At 19th level, the darkthrone gains immunity to critical hits, sneak attack, and other precision damage originating from creatures under the effects of the darkthrone’s Dark sphere effects (including effects created by the Shadow Defender feat); this includes creatures affected by the darkthrone’s blinding challenge or inside the radius of their ecliptic patrol.
 
 This replaces invincible soul.
 

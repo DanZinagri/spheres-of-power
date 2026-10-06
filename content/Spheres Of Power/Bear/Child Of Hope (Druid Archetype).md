@@ -14,32 +14,52 @@ parent: "[[Bear]]"
 
 There are many who find themselves more at home in the wilds than in the confines of a city. For some, they are wild children who forsake civilization in exchange for the world of animals, but the child of hope is not so. Children of hope serve as bridges between the woods and the settlements, bringing the comforts of civilization to the animals and forging peace between the two worlds. If you ever see someone having a tea party with a rabbit, an owl, a tiger, a piglet, and a bear, they are most likely a child of hope.
 
-**Proficiencies:** A child of hope is proficient with simple weapons, as well as light armor and bucklers. In addition, if this is the character’s first level in any class, he may select a martial tradition of his choice.
+## Proficiencies
+
+A child of hope is proficient with simple weapons, as well as light armor and bucklers. In addition, if this is the character’s first level in any class, he may select a martial tradition of his choice.
 
 This modifies weapon and armor proficiencies.
 
-**Casting:** A child of hope may combine spheres and talents to create magical effects. The child of hope is considered a High-Caster and uses Wisdom as his casting ability modifier. (Note: All casters gain 2 bonus talents and may select a casting tradition the first time they gain the casting class feature.)
+## Casting
+
+A child of hope may combine spheres and talents to create magical effects. The child of hope is considered a High-Caster and uses Wisdom as his casting ability modifier. (Note: All casters gain 2 bonus talents and may select a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-**Spell Pool:** The child of hope gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his Wisdom modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
+## Spell Pool
 
-**Blended Training:** A child of hope gains a combat or magic talent every time he gains a class level. Children of hope use their casting ability modifier as their practitioner modifier.
+The child of hope gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his Wisdom modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
 
-**Bear Guardian:** A child of hope is always accompanied by a guardian, and as the spirits of all that is good in the world, the bears oversee this job. A child of hope must select animal companion for their nature bond, and must select a bear as their animal companion. This animal companion has an Intelligence of at least 6 and begins speaking one language the child of hope knows.
+## Blended Training
+
+A child of hope gains a combat or magic talent every time he gains a class level. Children of hope use their casting ability modifier as their practitioner modifier.
+
+## Bear Guardian
+
+A child of hope is always accompanied by a guardian, and as the spirits of all that is good in the world, the bears oversee this job. A child of hope must select animal companion for their nature bond, and must select a bear as their animal companion. This animal companion has an Intelligence of at least 6 and begins speaking one language the child of hope knows.
 
 This replaces nature sense and modifies animal companion, but counts as animal companion for all purposes.
 
-**Familiar:** At 4th level, the child of hope gains a familiar, as the wizard class feature, treating their druid levels as wizard levels for this purpose.
+## Familiar
+
+At 4th level, the child of hope gains a familiar, as the wizard class feature, treating their druid levels as wizard levels for this purpose.
 
 This replaces wild shape.
 
-**Empower Bear (Su):** Beginning at 4th level, the child of hope’s bear companion gains access to any Bear talents the child of hope possesses. The bear companion is considered to always be channeling a bear spirit and may activate any Bear talent it possesses on its turn, spending the child of hope’s spell points as if they were its own (the child of hope may always choose not to allow their spell points to be used in this fashion, in which case the action used to activate the bearacteristic is wasted). If a bearacteristic normally has a duration of ‘until the end of the bear spirit’, it’s duration becomes 1 minute per caster level’ instead.
+## Empower Bear (Su)
 
-**Speak with Animals (Ex):** At 10th level, the child of hope gains the ability to speak with and understand the speech of animals. If the child of hope possesses the Speak with Wildlife Nature sphere talent, he may immediately retrain it for a different magic talent.
+Beginning at 4th level, the child of hope’s bear companion gains access to any Bear talents the child of hope possesses. The bear companion is considered to always be channeling a bear spirit and may activate any Bear talent it possesses on its turn, spending the child of hope’s spell points as if they were its own (the child of hope may always choose not to allow their spell points to be used in this fashion, in which case the action used to activate the bearacteristic is wasted). If a bearacteristic normally has a duration of ‘until the end of the bear spirit’, it’s duration becomes 1 minute per caster level’ instead.
 
-**Animal Friend:** At 16th level, the child of hope gains the Friend to Wildlife Nature sphere talent as a bonus talent. If he already possesses this talent, he instead gains a different magic talent of his choice.
+## Speak with Animals (Ex)
+
+At 10th level, the child of hope gains the ability to speak with and understand the speech of animals. If the child of hope possesses the Speak with Wildlife Nature sphere talent, he may immediately retrain it for a different magic talent.
+
+## Animal Friend
+
+At 16th level, the child of hope gains the Friend to Wildlife Nature sphere talent as a bonus talent. If he already possesses this talent, he instead gains a different magic talent of his choice.
 
 While they must still spend a spell point and activate this talent to call an animal of a specific type to them, the talent’s effect of increasing the attitude of animals towards the child of hope is considered to always be in effect; all animals begin with an attitude improved by 1 step towards the child of hope. Animals can still have their attitude reduced to hostile and animal companions will always attack if directed by their master, but for the most part, wild animals will not attack the child of hope unless provoked.
 
-**Friend to All Animals:** At 20th level the child of hope gains a 2nd familiar. All animals have their starting attitude towards the child of hope increased by an additional step.
+## Friend to All Animals
+
+At 20th level the child of hope gains a 2nd familiar. All animals have their starting attitude towards the child of hope increased by an additional step.

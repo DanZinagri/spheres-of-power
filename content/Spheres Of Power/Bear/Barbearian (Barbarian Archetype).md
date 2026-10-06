@@ -12,22 +12,32 @@ parent: "[[Bear]]"
 
 ---
 
-**Bear? (Su):** The barbearian gains Basic Magical Training as a bonus feat, selecting the Bear sphere. If she already possesses the casting class feature, she instead gains the Bear sphere or a talent from that sphere as a bonus talent. The barbearian may select talents from the Bear sphere in place of rage powers.
+## Bear? (Su)
+
+The barbearian gains Basic Magical Training as a bonus feat, selecting the Bear sphere. If she already possesses the casting class feature, she instead gains the Bear sphere or a talent from that sphere as a bonus talent. The barbearian may select talents from the Bear sphere in place of rage powers.
 
 This replaces fast movement.
 
-**Bear! (Su):** While raging, the barbearian gain the benefits of a bear spirit. She treats her class level as her caster level for determining the effects of this bear spirit while raging, but the duration is always the length of the rage. These caster levels stack normally with those from other sources. Unlike most magical effects, the barbearian may use sphere effects from the Bear sphere while raging.
+## Bear! (Su)
+
+While raging, the barbearian gain the benefits of a bear spirit. She treats her class level as her caster level for determining the effects of this bear spirit while raging, but the duration is always the length of the rage. These caster levels stack normally with those from other sources. Unlike most magical effects, the barbearian may use sphere effects from the Bear sphere while raging.
 
 When activating a bearacteristic while raging, the barbearian may spend 1 round of rage in place of a spell point. This replaces the morale bonus to Strength and Constitution gained while raging, but otherwise counts as rage for all purposes.
 
-**Ursine Fury:** At 11th level, the barbearian gains a +1 bonus on melee attack rolls, melee damage rolls, and thrown weapon damage rolls while channeling a bear spirit.
+## Ursine Fury
+
+At 11th level, the barbearian gains a +1 bonus on melee attack rolls, melee damage rolls, and thrown weapon damage rolls while channeling a bear spirit.
 
 This replaces greater rage
 
-**Tireless Bear:** At 17th level the barbearian is no longer fatigued after entering a rage, even if using the Angry Bear Bear sphere talent.
+## Tireless Bear
+
+At 17th level the barbearian is no longer fatigued after entering a rage, even if using the Angry Bear Bear sphere talent.
 
 This modifies tireless rage.
 
-**Greater Ursine Fury:** At 20th level, the bonus the barbearian gains from their ursine fury increases to +2.
+## Greater Ursine Fury
+
+At 20th level, the bonus the barbearian gains from their ursine fury increases to +2.
 
 This replaces mighty rage.

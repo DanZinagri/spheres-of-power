@@ -11,21 +11,31 @@ parent: "[[Spheres Of Might]]"
 
 Nearly wiped out by the empire, these tribal warriors who have forsaken armor are becoming a dying breed, forced to abandon their customs with the expansion of civilization.
 
-**Proficiencies:** Painted savages are proficient with simple weapons, as well as bucklers. In addition, if this is the character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+Painted savages are proficient with simple weapons, as well as bucklers. In addition, if this is the character’s first level in any class, they may select a martial tradition of their choice.
 
 This modifies weapon and armor proficiencies.
 
-**Combat Training (Ex):** A painted savage is considered a Proficient practitioner, gaining spheres and talents as appropriate. Painted savages use Constitution as their practitioner modifier.
+## Combat Training (Ex)
+
+A painted savage is considered a Proficient practitioner, gaining spheres and talents as appropriate. Painted savages use Constitution as their practitioner modifier.
 
 This ability replaces trap sense for barbarians and danger sense for unchained barbarians.
 
-**Muscles of Steel:** When wearing no armor and unencumbered, the painted savage adds her Strength bonus (if any) as a natural armor bonus to her AC; this bonus cannot exceed her class level. (A 1st level painted savage with 16 Strength gains only a +1 natural armor bonus to her armor class from this class feature.) This bonus to AC does not stack with other sources of natural armor, but stacks with the armor bonus granted from the Unarmored Training talent. She loses these bonuses when she wears light, medium, or heavy armor, or when she carries a medium or heavy load.
+## Muscles of Steel
 
-**Enduring Temper:** At 1st level, a painted savage gains Berserker as a bonus sphere and Combat Stamina as a bonus feat. If the painted savage already possess the Combat Stamina feat from another source, she instead gains either an additional talent from the Berserker sphere, or a feat that has Combat Stamina as a prerequisite as a bonus feat.
+When wearing no armor and unencumbered, the painted savage adds her Strength bonus (if any) as a natural armor bonus to her AC; this bonus cannot exceed her class level. (A 1st level painted savage with 16 Strength gains only a +1 natural armor bonus to her armor class from this class feature.) This bonus to AC does not stack with other sources of natural armor, but stacks with the armor bonus granted from the Unarmored Training talent. She loses these bonuses when she wears light, medium, or heavy armor, or when she carries a medium or heavy load.
+
+## Enduring Temper
+
+At 1st level, a painted savage gains Berserker as a bonus sphere and Combat Stamina as a bonus feat. If the painted savage already possess the Combat Stamina feat from another source, she instead gains either an additional talent from the Berserker sphere, or a feat that has Combat Stamina as a prerequisite as a bonus feat.
 
 This replaces fast movement.
 
-**Mystical Tattoos (Sp):** A painted savage is recognized by the full-body tattoos that she has inked on her body. While many of the tattoos are purely decorative, others have mystical power to them. At 1st level the painted savage gains the ability to unlock certain tattoos granting herself increased strength, speed, and endurance. As a swift action, the painted savage may grant herself a +2 bonus to either her Strength, Dexterity, or Constitution score for a number of rounds equal to her Constitution modifier, or for 1 minute if the painted savage spends 5 points from her stamina pool when activating the ability.
+## Mystical Tattoos (Sp)
+
+A painted savage is recognized by the full-body tattoos that she has inked on her body. While many of the tattoos are purely decorative, others have mystical power to them. At 1st level the painted savage gains the ability to unlock certain tattoos granting herself increased strength, speed, and endurance. As a swift action, the painted savage may grant herself a +2 bonus to either her Strength, Dexterity, or Constitution score for a number of rounds equal to her Constitution modifier, or for 1 minute if the painted savage spends 5 points from her stamina pool when activating the ability.
 
 At 3rd level, and every 3 levels thereafter, the bonus granted by this ability increases by an additional +2. The painted savage may apply all of this bonus to a single physical ability score, or divide it in units of +2 between multiple physical ability scores; regardless of how the painted savage assigns this bonus, she cannot add more than +10 to a given ability score.
 
@@ -35,6 +45,8 @@ This replaces rage, mighty rage, greater rage, and tireless rage.
 
 **Wiki Note:** The ability score booster from Mystical Tattoos is an untyped bonus, so it stacks with other common bonuses like enhancement bonuses. You cannot provide more than one ability score enhancement per target with this ability.
 
-**Rage Powers (Ex):** A painted savage may spend 2 stamina points from her stamina pool when under the effect of mystical tattoos. This allows the painted savage to be treated as if under the effects of a rage, though she gains none of the other benefits or drawbacks of raging. This effect lasts for the remaining duration of the mystical tattoos effect. New instances of mystical tattoos will require additional stamina to be spent. Rage powers that require additional rage rounds may instead use 5 points from her stamina pool per required rage round. In addition, whenever the painted savage would gain a rage power from her class levels, she may instead gain a bonus talent from the Berserker sphere.
+## Rage Powers (Ex)
+
+A painted savage may spend 2 stamina points from her stamina pool when under the effect of mystical tattoos. This allows the painted savage to be treated as if under the effects of a rage, though she gains none of the other benefits or drawbacks of raging. This effect lasts for the remaining duration of the mystical tattoos effect. New instances of mystical tattoos will require additional stamina to be spent. Rage powers that require additional rage rounds may instead use 5 points from her stamina pool per required rage round. In addition, whenever the painted savage would gain a rage power from her class levels, she may instead gain a bonus talent from the Berserker sphere.
 
 This modifies rage powers.

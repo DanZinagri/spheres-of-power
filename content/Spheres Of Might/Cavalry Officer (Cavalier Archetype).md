@@ -8,23 +8,33 @@ parent: "[[Spheres Of Might]]"
 
 *Source: [The General's Handbook](https://www.drivethrurpg.com/product/281560/The-Generals-Handbook?affiliate_id=549120)*
 
-**Proficiencies:** Cavalry officers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+Cavalry officers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This modifies weapon and armor proficiencies.
 
-**Combat Training (Ex):** A cavalry officer is considered an Expert practitioner, gaining spheres and talents as appropriate. Cavalry officers use Charisma as their practitioner modifier.
+## Combat Training (Ex)
+
+A cavalry officer is considered an Expert practitioner, gaining spheres and talents as appropriate. Cavalry officers use Charisma as their practitioner modifier.
 
 This replaces order and all order abilities and the bonus feats gained at 6th, 12th, and 18th levels.
 
-**Knightly Arts (Ex):** The cavalry officer gains the Leadership sphere selecting the (cohort) package, and the Guardian sphere selecting the (challenge) package as bonus talents at 1st level. If the cavalry officer possesses one of these spheres but not the corresponding package, he gains Expanded Leadership or Expanded Guardian to gain the package. If the cavalry officer already possesses one of these packages, he may instead select a talent he qualifies for from the corresponding sphere in its place.
+## Knightly Arts (Ex)
+
+The cavalry officer gains the Leadership sphere selecting the (cohort) package, and the Guardian sphere selecting the (challenge) package as bonus talents at 1st level. If the cavalry officer possesses one of these spheres but not the corresponding package, he gains Expanded Leadership or Expanded Guardian to gain the package. If the cavalry officer already possesses one of these packages, he may instead select a talent he qualifies for from the corresponding sphere in its place.
 
 If he is incapable of selecting a package due to a drawback, he uses that bonus talent to buy off the drawback.
 
 This replaces the challenge class feature.
 
-**Officer’s Challenge (Ex):** Any abilities the cavalry officer possesses that reference his use of challenge (such as the demanding challenge class feature) apply to any use of the challenge ability provided by the Guardian sphere.
+## Officer’s Challenge (Ex)
 
-**Officer (Ex):** At 1st level, the cavalry officer gains a teamwork feat that he qualifies for. He may automatically share any one teamwork feat he possesses with any Leadership sphere cohort within 25 feet + 5 feet per 2 class levels.
+Any abilities the cavalry officer possesses that reference his use of challenge (such as the demanding challenge class feature) apply to any use of the challenge ability provided by the Guardian sphere.
+
+## Officer (Ex)
+
+At 1st level, the cavalry officer gains a teamwork feat that he qualifies for. He may automatically share any one teamwork feat he possesses with any Leadership sphere cohort within 25 feet + 5 feet per 2 class levels.
 
 As a standard action, the cavalry officer can choose to learn a new bonus teamwork feat in place of the most recent bonus teamwork feat he has already learned. In effect, the cavalry commander loses the bonus feat in exchange for the new one. He can only change the most recent teamwork feat gained. Whenever he gains a new teamwork feat, the previous teamwork feat becomes set and cannot be changed again. A cavalry commander can change his most recent teamwork feat a number of times per day equal to his practitioner ability modifier.
 

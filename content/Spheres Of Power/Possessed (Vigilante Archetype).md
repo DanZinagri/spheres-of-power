@@ -8,11 +8,15 @@ parent: "[[Spheres Of Power]]"
 
 Possessed vigilantes gain their strength and power from having the soul of another entity bound to their own. When a possessed vigilante transforms, they aren’t so much assuming a disguise, as letting their other half out.
 
-**Skill Ranks per Level:** A possessed gains a number of skill ranks equal to 4 + his Intelligence modifier at each level, instead of the normal 6 + his Intelligence modifier skill ranks.
+## Skill Ranks per Level
+
+A possessed gains a number of skill ranks equal to 4 + his Intelligence modifier at each level, instead of the normal 6 + his Intelligence modifier skill ranks.
 
 This alters the vigilante’s skill ranks per level.
 
-**Possessed Identity (Su):** A possessed chooses one of the following forms at 1st level—undead, aligned outsider, elemental, plant, dragon, or construct. While in his vigilante form, he gains the following benefits:
+## Possessed Identity (Su)
+
+A possessed chooses one of the following forms at 1st level—undead, aligned outsider, elemental, plant, dragon, or construct. While in his vigilante form, he gains the following benefits:
 
 - **Construct:** The vigilante is treated as both a construct and his usual creature type for the purpose of what spells and effects may target him. The vigilante does not need to breathe while in vigilante form, and gains a +2 racial bonus to saving throws against disease, mind-affecting effects, poison, and effects that cause either exhaustion or fatigue.
 - **Undead:** The vigilante is treated as both undead and his usual creature type for the purpose of determining what spells and effects may target him. He is damaged by negative energy and healed by positive energy while in his vigilante identity, and gains a +2 racial bonus to saving throws against disease, mind-affecting effects, death effects, and paralysis.
@@ -28,8 +32,12 @@ This alters the vigilante’s skill ranks per level.
 
 This replaces vigilante specialization.
 
-**Magical Transformation:** A possessed’s transformation between identities is assisted by magic. This makes it faster than usual, but also more noticeable.
+## Magical Transformation
+
+A possessed’s transformation between identities is assisted by magic. This makes it faster than usual, but also more noticeable.
 
 A possessed can normally transform between his identities in 5 rounds, though this improves to a standard action with the quick change social talent and a swift action with the immediate change social talent. However, the transformation is quite a spectacle, as the possessed’s body dissolves and is overcome by their new identity.
 
-**Magic Nature:** A possessed is treated as a Low-Caster for the Spheres system, using Charisma as his casting ability modifier. However, he does not gain magic talents as he gains levels, and does not gain the usual 2 bonus magic talents for gaining his first level in a casting class (he still gains these bonus magic talents if he takes a level in another casting class). While he does increase his MSB and MSD as normal, he only gains a spell pool equal to 1/2 his class level + his casting ability modifier.
+## Magic Nature
+
+A possessed is treated as a Low-Caster for the Spheres system, using Charisma as his casting ability modifier. However, he does not gain magic talents as he gains levels, and does not gain the usual 2 bonus magic talents for gaining his first level in a casting class (he still gains these bonus magic talents if he takes a level in another casting class). While he does increase his MSB and MSD as normal, he only gains a spell pool equal to 1/2 his class level + his casting ability modifier.

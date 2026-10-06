@@ -12,19 +12,31 @@ parent: "[[Spheres Of Might]]"
 
 Naturally gifted with an innate sense of the workings of their own bodies and an uncanny knack for quickly copying new skills, savants are unpredictable foes.
 
-**Skills:** The savant gains Acrobatics, Climb, and Swim as class skills but does not gain Knowledge (arcana), Spellcraft, or Use Magic Device as class skills. This modifies class skills.
+## Skills
 
-**Base Attack Bonus:** A savant gains base attack bonus equal to a fighter of his class level. This modifies base attack bonus.
+The savant gains Acrobatics, Climb, and Swim as class skills but does not gain Knowledge (arcana), Spellcraft, or Use Magic Device as class skills. This modifies class skills.
 
-**Hit Die:** A savant uses d10 for Hit Dice. This modifies Hit Die.
+## Base Attack Bonus
 
-**Saving Throws:** A savant gains Fortitude and Will save progressions equal to an armorist of his class level. This modifies saving throws.
+A savant gains base attack bonus equal to a fighter of his class level. This modifies base attack bonus.
 
-**Proficiencies:** Savants are proficient with simple weapons, as well as light armor. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Hit Die
+
+A savant uses d10 for Hit Dice. This modifies Hit Die.
+
+## Saving Throws
+
+A savant gains Fortitude and Will save progressions equal to an armorist of his class level. This modifies saving throws.
+
+## Proficiencies
+
+Savants are proficient with simple weapons, as well as light armor. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This modifies the thaumaturge’s weapon and armor proficiencies.
 
-**Flexible Combat Training (Ex):** A savant may combine combat spheres and talents to create powerful martial techniques.
+## Flexible Combat Training (Ex)
+
+A savant may combine combat spheres and talents to create powerful martial techniques.
 
 Savants are considered Proficient combatants. When they gain their first level in the savant archetype, savants may choose either Charisma, Intelligence or Wisdom as their practitioner modifier. Whenever a savant rests for 8 hours (or the equivalent), he may change any and all combat talents gained from savant levels, choosing new spheres and new talents.
 
@@ -32,13 +44,17 @@ Combat talents gained as part of levels taken in other classes, as part of his m
 
 This replaces casting, magic talents, and spell pool.
 
-**Strain (Ex):** At 1st level, as a free action a savant may increase his base attack bonus by 2 until the end of his turn. Doing so is extremely taxing, leaving him fatigued for 1 round. This bonus increases by +1 at 5th level, and by an additional +1 for every 4 levels thereafter to a maximum of +6 at 17th level.
+## Strain (Ex)
+
+At 1st level, as a free action a savant may increase his base attack bonus by 2 until the end of his turn. Doing so is extremely taxing, leaving him fatigued for 1 round. This bonus increases by +1 at 5th level, and by an additional +1 for every 4 levels thereafter to a maximum of +6 at 17th level.
 
 When activating this ability, if he fails to deal damage or succeed on a combat maneuver before the beginning of his next turn, he must make a Fortitude save equal to 10+class level or be dazed instead of fatigued. These conditions bypass immunity. If the savant is already fatigued, he is instead exhausted and if exhausted, he instead falls unconscious for the same duration.
 
 This replaces forbidden lore.
 
-**Insights (Ex):** Savants have learned to master their own bodies, pushing themselves in truly remarkable ways and using this knowledge, they may help or harm others as well. A savant may use insights a number of times per day equal to his practitioner modifier, which refreshes when he rests for 8 hours (or the equivalent). Whenever an insight calls for a saving throw, the DC is equal to 10 + 1/2 the savant’s level + the savant’s practitioner modifier. A savant may only use insights of his level or lower. Unless noted, using an insight is a free action that may be taken even when it isn’t the savant’s turn.
+## Insights (Ex)
+
+Savants have learned to master their own bodies, pushing themselves in truly remarkable ways and using this knowledge, they may help or harm others as well. A savant may use insights a number of times per day equal to his practitioner modifier, which refreshes when he rests for 8 hours (or the equivalent). Whenever an insight calls for a saving throw, the DC is equal to 10 + 1/2 the savant’s level + the savant’s practitioner modifier. A savant may only use insights of his level or lower. Unless noted, using an insight is a free action that may be taken even when it isn’t the savant’s turn.
 
 - **Conditioning:** At 1st level, the savant may spend a use of insight when making a Strength, Dexterity, or Constitution-based ability check or skill check (but not an attack roll, combat maneuver roll, or save) to roll twice and take the best result.
 - **Skill Mimicry:** At 1st level, when the savant sees a creature make a Strength or Dexterity-based skill check, he may spend a use of insight to us that creature’s modifier on checks made for that skill for a number of minutes equal to his practitioner modifier. This bonus includes attribute, class, feat, trait, and class skill bonuses but not other bonuses, such as circumstance, competence, insight, sacred, nor any bonus granted by a spell or magic item.
@@ -52,12 +68,18 @@ This replaces forbidden lore.
 
 This replaces Invocations.
 
-**Kinesthetic Intuition (Ex):** At 2nd level, a savant gains a +1 bonus to all Acrobatics, Climb, Fly, and Swim checks. This bonus increases by 1 for every 4 additional savant levels possessed, to a maximum of +5 at 18th level.
+## Kinesthetic Intuition (Ex)
+
+At 2nd level, a savant gains a +1 bonus to all Acrobatics, Climb, Fly, and Swim checks. This bonus increases by 1 for every 4 additional savant levels possessed, to a maximum of +5 at 18th level.
 
 This replaces occult knowledge.
 
-**Combat Trained:** At 4th level and every 4 levels thereafter, a savant gains a bonus combat feat.
+## Combat Trained
+
+At 4th level and every 4 levels thereafter, a savant gains a bonus combat feat.
 
 This replaces bonus feats.
 
-**Masterful Insights (Ex):** At 20th level, the savant selects two insights other than rebuke death; he may use these insights at will without using one of his insights per day.
+## Masterful Insights (Ex)
+
+At 20th level, the savant selects two insights other than rebuke death; he may use these insights at will without using one of his insights per day.

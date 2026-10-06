@@ -10,15 +10,21 @@ parent: "[[Spheres Of Might]]"
 
 Eldritch masters of blade and spell, runic knights are often enigmatic but rarely dismissed; even the most unassuming of their number are deadly masters of their mystic arts, and power echoes in their every move. Fierce beyond reckoning, few indeed can cross the magic-shrouded blade of a runic knight and live to tell the tale.
 
-**Proficiencies:** Runic knights are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+Runic knights are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This modifies weapon and armor proficiencies.
 
-**Combat Training (Ex):** A runic knight is considered a Proficient practitioner, gaining spheres and talents as appropriate. Runic knights use Intelligence as their practitioner modifier.
+## Combat Training (Ex)
+
+A runic knight is considered a Proficient practitioner, gaining spheres and talents as appropriate. Runic knights use Intelligence as their practitioner modifier.
 
 This ability replaces spell combat; runic knights instead gain spell combat at 8th level instead of improved spell combat, and improved spell combat at 14th level in place of greater spell combat.
 
-**Mystic Order:** Each runic knight is trained in the arts of a particular mystic order. Presented below are three such orders, the Binding Staves, the Poisoned Tomes, and the Rune-Crossed Eye. At 1st level, the runic knight selects one of these orders and gains the listed benefits.
+## Mystic Order
+
+Each runic knight is trained in the arts of a particular mystic order. Presented below are three such orders, the Binding Staves, the Poisoned Tomes, and the Rune-Crossed Eye. At 1st level, the runic knight selects one of these orders and gains the listed benefits.
 
 ***Binding Staves:*** Members of the Binding Staves gain the [[Lancer]] sphere as a bonus sphere at 1st level. If the runic knight already possesses the Lancer sphere, he may instead select any talent he qualifies for from that sphere. In addition, members of the Binding Staves train in special combat techniques for lunging and stabbing with staves, and may treat any quarterstaff or staff they carry (including magical staves) as a masterwork longspear.
 
@@ -40,8 +46,12 @@ At 13th level, members of the Rune-Crossed Eye can always act in the surprise ro
 
 This replaces cantrips, medium armor, and heavy armor.
 
-**Read Magic:** Runic knights gain read magic as an at-will spell-like ability.
+## Read Magic
 
-**Advanced Spellstrike (Su):** At 2nd level, whenever a runic knight casts a spell with a range of “touch” from the magus spell list, he can deliver the spell through any weapon he is wielding (including ranged weapons). Instead of the free melee touch attack normally allowed to deliver the spell, a runic knight can make one free attack with his weapon (at his highest base attack bonus) as part of casting this spell; this attack is treated as an attack action. If successful, this attack deals its normal damage as well as the effects of the spell. This attack uses the weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon special ability or similar effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage uses its own critical modifier. This ability cannot be used with spells with a casting time less than a standard action, including quickened spells, and cannot be used to make an attack action as part of a full attack.
+Runic knights gain read magic as an at-will spell-like ability.
+
+## Advanced Spellstrike (Su)
+
+At 2nd level, whenever a runic knight casts a spell with a range of “touch” from the magus spell list, he can deliver the spell through any weapon he is wielding (including ranged weapons). Instead of the free melee touch attack normally allowed to deliver the spell, a runic knight can make one free attack with his weapon (at his highest base attack bonus) as part of casting this spell; this attack is treated as an attack action. If successful, this attack deals its normal damage as well as the effects of the spell. This attack uses the weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon special ability or similar effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage uses its own critical modifier. This ability cannot be used with spells with a casting time less than a standard action, including quickened spells, and cannot be used to make an attack action as part of a full attack.
 
 This modifies but otherwise counts as the spellstrike class feature.

@@ -9,25 +9,37 @@ updated: 2026-05-01
 
 This replaces the skald’s normal class skills.
 
-**Proficiencies:** Masterwork chroniclers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+Masterwork chroniclers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters weapon and armor proficiencies.
 
-**Casting:** A masterwork chronicler may combine spheres and talents to create magical effects. A masterwork chronicler is considered a Mid-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
+## Casting
+
+A masterwork chronicler may combine spheres and talents to create magical effects. A masterwork chronicler is considered a Mid-Caster. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-**Spell Pool:** A masterwork chronicler gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
+## Spell Pool
 
-**Blended Training:** A masterwork chronicler gains a combat or magic talent every time he gains a class level. Masterwork chroniclers use their casting ability modifier as their practitioner modifier.
+A masterwork chronicler gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
+
+## Blended Training
+
+A masterwork chronicler gains a combat or magic talent every time he gains a class level. Masterwork chroniclers use their casting ability modifier as their practitioner modifier.
 
 Whenever the masterwork chronicler could receive a magical talent from his class, he may instead choose a bardic masterpiece or skald saga he meets the prerequisites for. His caster level with masterpieces is equal to his class level.
 
-**Technique Study:** The masterwork chronicler gains Technique Crafting as a bonus feat at 1st level. At 2nd level and every 4 levels thereafter, the masterwork chronicler chooses a single Perform skill. He may use that Perform skill in place of any other skill when learning techniques, but can only substitute that specific Perform skill for a single skill when learning a technique (for example, if a technique would require a Spellcraft check, a Diplomacy check, and a Craft (mechanical) check, a 2nd-level masterwork chronicler who has chosen Perform (wind) with this ability could only substitute a Perform (wind) check for one of these three checks. A 10th-level masterwork chronicler who has chosen Perform (percussion), Perform (sing), Perform (wind) could substitute one check of each type).
+## Technique Study
+
+The masterwork chronicler gains Technique Crafting as a bonus feat at 1st level. At 2nd level and every 4 levels thereafter, the masterwork chronicler chooses a single Perform skill. He may use that Perform skill in place of any other skill when learning techniques, but can only substitute that specific Perform skill for a single skill when learning a technique (for example, if a technique would require a Spellcraft check, a Diplomacy check, and a Craft (mechanical) check, a 2nd-level masterwork chronicler who has chosen Perform (wind) with this ability could only substitute a Perform (wind) check for one of these three checks. A 10th-level masterwork chronicler who has chosen Perform (percussion), Perform (sing), Perform (wind) could substitute one check of each type).
 
 This replaces scribe scroll and versatile performance.
 
-**Loresong:** Allies affected by the masterwork chronicler’s inspired rage are still able to use Charisma-, Dexterity-, and Intelligence-based skills and any ability that requires patience or concentration (including casting spells).
+## Loresong
+
+Allies affected by the masterwork chronicler’s inspired rage are still able to use Charisma-, Dexterity-, and Intelligence-based skills and any ability that requires patience or concentration (including casting spells).
 
 At 2nd level, allies affected by inspired rage are considered to know all of the techniques known by the masterwork chronicler.
 
@@ -35,6 +47,8 @@ At 3rd level, whenever the masterwork chronicler uses his inspired rage, allies 
 
 This replaces well-versed and rage powers.
 
-**Storied Knowledge (Su):** At 5th level, a masterwork chronicler learns to acquire temporary magical and martial knowledge. The masterwork chronicler gains a single bonus magical or combat talent. Whenever the masterwork chronicler rests to regain spell points, he may change this talent, choosing a new talent he meets the prerequisites for. At 11th and 17th levels, the masterwork chronicler gains an additional bonus talent which can be exchanged in the same manner.
+## Storied Knowledge (Su)
+
+At 5th level, a masterwork chronicler learns to acquire temporary magical and martial knowledge. The masterwork chronicler gains a single bonus magical or combat talent. Whenever the masterwork chronicler rests to regain spell points, he may change this talent, choosing a new talent he meets the prerequisites for. At 11th and 17th levels, the masterwork chronicler gains an additional bonus talent which can be exchanged in the same manner.
 
 This replaces spell kenning.

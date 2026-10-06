@@ -8,15 +8,21 @@ parent: "[[Other Options]]"
 
 In the more martial minded parts of the world, the way of the kinetic duelist is drilled into the training regimens of any potential kineticist, wanting to train them for conflict as soon as possible. The Jheriak Continuance in particular are known for their education of kinetic duelists, emphasizing their fondness for individual combat. In other parts of Porphyra, such as the duel-loving bravos of Iffud, the art of the kinetic duelist is taught to the most sneaky and swift of their numbers, knowing that a warrior who can carry a blade at all times without suspicion is a far more valuable unit. Kinetic duelists themselves are more prone to fighting a single opponent, and abstain from larger combat whenever possible.
 
-**Weapon and Armor Proficiencies (Ex):** Kinetic duelist are proficient with all simple weapons, light armor, medium armor, and bucklers.
+## Weapon and Armor Proficiencies (Ex)
+
+Kinetic duelist are proficient with all simple weapons, light armor, medium armor, and bucklers.
 
 These proficiencies replace a normal kineticist’s weapon and armor proficiencies.
 
-**Kinetic Blade Mastery (Su):** At 1st level, a kinetic duelist begins along their martial path. As a free action, they can channel their power into one of their hands for as long as they wish, dismissing it as a free action. A kinetic duelist may attack with this energy as though using the kinetic blade infusion, as well as being able to make attacks of opportunity with it. This ability is considered as kinetic blast as well as kinetic blade for all effects relating to it. A kinetic duelist cannot make a ranged kinetic blast without the ranged blast infusion, nor can they add a form infusion to their kinetic blast except kinetic whip, ranged blast, kinetic assault, or dual blades.
+## Kinetic Blade Mastery (Su)
+
+At 1st level, a kinetic duelist begins along their martial path. As a free action, they can channel their power into one of their hands for as long as they wish, dismissing it as a free action. A kinetic duelist may attack with this energy as though using the kinetic blade infusion, as well as being able to make attacks of opportunity with it. This ability is considered as kinetic blast as well as kinetic blade for all effects relating to it. A kinetic duelist cannot make a ranged kinetic blast without the ranged blast infusion, nor can they add a form infusion to their kinetic blast except kinetic whip, ranged blast, kinetic assault, or dual blades.
 
 This ability alters kinetic blast.
 
-**Ranged Blast (Ex):** At 1st level and beyond, a kinetic duelist can select the following infusion:
+## Ranged Blast (Ex)
+
+At 1st level and beyond, a kinetic duelist can select the following infusion:
 
 > **Ranged Blast**
 > **Element(s)** universal; **Type** form infusion; **Level** 1; **Burn** 1
@@ -25,7 +31,9 @@ This ability alters kinetic blast.
 >
 > You have learned to use your elemental weapon as a ranged attack. As a standard action, you may make a ranged attack with your kinetic blast with a range of up to 30 feet. You may apply a second form infusion to this blast in addition to this one except for dual blades, kinetic assault, kinetic blade, kinetic fist, or kinetic whip.
 
-**Kinetic Whip Mastery (Ex):** At 10th level, a kinetic duelist can select the following utility wild talent:
+## Kinetic Whip Mastery (Ex)
+
+At 10th level, a kinetic duelist can select the following utility wild talent:
 
 > **Kinetic Whip Mastery**
 > **Element(s)** universal; **Type** utility (Sp) **Level** 5; **Burn** 1
@@ -33,11 +41,15 @@ This ability alters kinetic blast.
 >
 > Until the next time you recover burn, your kinetic blade mastery class feature is treated as though you were using the kinetic whip infusion instead of kinetic blade.
 
-**Synchronous Charge (Su):** At 11th level, a kinetic duelist can use their gather power class feature as part of a full round attack, allowing them to reduce the total burn cost of a blast used on their next round by 1. A kinetic duelist may also continue to gather power on their next round as a move action to reduce the total cost of an infusion used this round by 2.
+## Synchronous Charge (Su)
+
+At 11th level, a kinetic duelist can use their gather power class feature as part of a full round attack, allowing them to reduce the total burn cost of a blast used on their next round by 1. A kinetic duelist may also continue to gather power on their next round as a move action to reduce the total cost of an infusion used this round by 2.
 
 This ability replaces supercharge.
 
-**Kinetic Assault (Su):** At 13th level, a kinetic duelist gains the following infusion:
+## Kinetic Assault (Su)
+
+At 13th level, a kinetic duelist gains the following infusion:
 
 > **Kinetic Assault**
 > **Element(s)** universal; **Type** form infusion; **Level** 6; **Burn** 4
@@ -49,7 +61,9 @@ This ability replaces supercharge.
 
 This ability replaces metakinesis (quicken)
 
-**Dual Blades (Su):** At 17th level, a kinetic duelist gains the following infusion:
+## Dual Blades (Su)
+
+At 17th level, a kinetic duelist gains the following infusion:
 
 > **Dual Blades**
 > **Element(s)** universal; **Type** form infusion; **Level** 8; **Burn** 4

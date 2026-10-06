@@ -10,14 +10,20 @@ parent: "[[Spheres Of Might]]"
 
 Canny scoundrels rely on trickery and deceit as much as martial prowess to overcome the challenges they face. Combining keen eyes with sharp wits and sharper blades, these fearsome rogues are unpredictable foes, with a solution to every problem.
 
-**Proficiencies:** Canny scoundrels are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+Canny scoundrels are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This modifies weapon and armor proficiencies.
 
-**Combat Training (Ex):** A canny scoundrel is considered an Adept practitioner, gaining spheres and talents as appropriate, and uses the higher of their Charisma or Intelligence as their practitioner modifier.
+## Combat Training (Ex)
+
+A canny scoundrel is considered an Adept practitioner, gaining spheres and talents as appropriate, and uses the higher of their Charisma or Intelligence as their practitioner modifier.
 
 This replaces the rogue talents gained at 4th, 8th, 12th, 16th, and 20th level.
 
-**Keen Blades, Keen Eyes, and Keen Wits:** At 1st level the canny scoundrel gains the [[Scoundrel]] and [[Scout]] spheres as bonus spheres, as well as Finesse Fighting from the [[Equipment Sphere|Equipment sphere]], even if she would not normally qualify for it. If she already possesses one or more of these spheres, she may instead choose any talent she qualifies for from the corresponding sphere.
+## Keen Blades, Keen Eyes, and Keen Wits
+
+At 1st level the canny scoundrel gains the [[Scoundrel]] and [[Scout]] spheres as bonus spheres, as well as Finesse Fighting from the [[Equipment Sphere|Equipment sphere]], even if she would not normally qualify for it. If she already possesses one or more of these spheres, she may instead choose any talent she qualifies for from the corresponding sphere.
 
 This replaces trapfinding.

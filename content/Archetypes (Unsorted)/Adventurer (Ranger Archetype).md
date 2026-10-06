@@ -7,23 +7,35 @@ updated: 2022-03-20
 
 *Source: [Archetypes of Power 2](https://www.drivethrurpg.com/product/330569/Archetypes-of-Power-2?affiliate_id=549120)*
 
-**Proficiencies:** Adventurers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+Adventurers are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters proficiencies.
 
-**Combat Training:** An adventurer may combine combat spheres and talents to create powerful martial techniques. Adventurers are considered Adept combatants and use Wisdom as their practitioner modifier.
+## Combat Training
+
+An adventurer may combine combat spheres and talents to create powerful martial techniques. Adventurers are considered Adept combatants and use Wisdom as their practitioner modifier.
 
 This replaces track, swift tracking, wild empathy, and all combat style feats.
 
-**Adventurous Spirit:** At 4th level, an adventurer may choose to not gain a hunter’s bond, and may instead gain either the Athletics or Scout sphere and one additional talent from the corresponding sphere as bonus talents.
+## Adventurous Spirit
+
+At 4th level, an adventurer may choose to not gain a hunter’s bond, and may instead gain either the Athletics or Scout sphere and one additional talent from the corresponding sphere as bonus talents.
 
 This alters hunter’s bond if the adventurer chooses this option, but does not prevent him from also taking an archetype that replaces it (and loses the combat talents).
 
-**Tireless (Ex):** At 6th level, the adventurer may still take the run and charge actions while fatigued or exhausted, in addition to suffering no penalties to his movement due to being exhausted.
+## Tireless (Ex)
 
-**Boundless Wayfarer (Ex):** At 14th level, the adventurer may climb and swim at his full base speed without taking a penalty, in addition to ignoring all difficult terrain within areas of his favored terrain (even difficult terrain that has been magically manipulated or created).
+At 6th level, the adventurer may still take the run and charge actions while fatigued or exhausted, in addition to suffering no penalties to his movement due to being exhausted.
 
-**Greater Training:** The adventurer may choose to lose spells to instead gain a combat or magic talent at every class level (instead of her normal combat talent progression), and is treated as a Low-Caster. He may not take this option if possessing an archetype that would alter or replace these class features.
+## Boundless Wayfarer (Ex)
+
+At 14th level, the adventurer may climb and swim at his full base speed without taking a penalty, in addition to ignoring all difficult terrain within areas of his favored terrain (even difficult terrain that has been magically manipulated or created).
+
+## Greater Training
+
+The adventurer may choose to lose spells to instead gain a combat or magic talent at every class level (instead of her normal combat talent progression), and is treated as a Low-Caster. He may not take this option if possessing an archetype that would alter or replace these class features.
 
 *Wiki Note:* This grants the 2 bonus talents, a spell pool as any regular spherecaster class, and allows the adventurer to pick a casting tradition if they are not already a spherecaster.
 

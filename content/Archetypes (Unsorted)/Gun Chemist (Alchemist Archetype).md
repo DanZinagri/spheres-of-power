@@ -11,9 +11,13 @@ updated: 2020-09-12
 
 The secrets of gunpowder are known to only a few; some learn its secrets from old texts and ancient traditions, while others seek to recreate the technology themselves.
 
-**Gunsmith:** A gun chemist gains Gunsmithing as a bonus feat. This replaces throw anything.
+## Gunsmith
 
-**Gun Technician:** A gun chemist gains proficiency with all firearms, and gains a number of bonuses as he gains levels.
+A gun chemist gains Gunsmithing as a bonus feat. This replaces throw anything.
+
+## Gun Technician
+
+A gun chemist gains proficiency with all firearms, and gains a number of bonuses as he gains levels.
 
 At 1st level, he gains one of the following firearms of his choice: blunderbuss, musket, or pistol. His starting weapon is battered, and only he knows how to use it properly. All other creatures treat his gun as if it had the broken condition. If the weapon already has the broken condition, it does not work at all for anyone else trying to use it. This starting weapon can only be sold for scrap (it’s worth 4d10 gp when sold).
 
@@ -21,7 +25,9 @@ In addition, he gains a grit pool as the gunslinger class feature. The number of
 
 This replaces bombs.
 
-**Chemist Deeds:** A gun chemist gains the same deeds as a gunslinger, with the following exceptions:
+## Chemist Deeds
+
+A gun chemist gains the same deeds as a gunslinger, with the following exceptions:
 
 - *Tactical Aim (Ex):* At 1st level the gun chemist can spend 1 grit point to gain a bonus on a firearm attack roll equal to his Intelligence modifier (minimum: 1). This replaces gunslinger’s dodge.
 - *Calculated Shots (Ex):* At 3rd level, the gun chemist can spend a point of grit as a swift action to gain a bonus to damage rolls equal to his Intelligence modifier (minimum 1) with all firearm attacks he makes until the end of his turn. This replaces gunslinger’s initiative.
@@ -32,4 +38,6 @@ This replaces bombs.
 - *Snipe (Ex):* At 15th level, when firing a firearm, the gun chemist may spend grit points to decrease the range penalty, if any. For every grit point spent, the range penalty decreases by 4. This does not cause the gun chemist to resolve the long-range shot as a touch attack. This replaces slinger’s luck.
 - *Alchemist’s Missile (Su):* At 19th level as a full-round action, the gun chemist may spend a grit point to empower a shot as if using the Explosive Shot or Explosive Blast deed, except the bonus damage is doubled. This replaces cheat death.
 
-**Grit Discovery:** A gun chemist may select Extra Grit and Grit Feats as alchemist discoveries.
+## Grit Discovery
+
+A gun chemist may select Extra Grit and Grit Feats as alchemist discoveries.

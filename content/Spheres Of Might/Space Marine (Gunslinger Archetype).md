@@ -8,13 +8,19 @@ parent: "[[Spheres Of Might]]"
 
 *Source: [The Inventor's Handbook](https://www.drivethrurpg.com/product/274801/The-Inventors-Handbook?affiliate_id=549120)*
 
-**Proficiencies:** Space marines are proficient with simple weapons, all crossbows and firearms, and light armor. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
 
-**Combat Training (Ex):** A space marine is considered an adept practitioner, gaining spheres and talents as appropriate. Space marines use Wisdom as their practitioner modifier; space marines who use an ability modifier other than Wisdom to determine their grit pool instead use that ability modifier.
+Space marines are proficient with simple weapons, all crossbows and firearms, and light armor. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+
+## Combat Training (Ex)
+
+A space marine is considered an adept practitioner, gaining spheres and talents as appropriate. Space marines use Wisdom as their practitioner modifier; space marines who use an ability modifier other than Wisdom to determine their grit pool instead use that ability modifier.
 
 This replaces the space marine’s martial weapon proficiency, and the dead shot, bleeding wound, and menacing shot deeds.
 
-**Standard Issue:** The space marine is a marksman trained in proper care and field maintenance of his ranged weaponry. At 1st level, the space marine gains the Tech sphere as a bonus sphere, although she must gain with it the Mechanical Ranged Weaponry (gadget, moddable) talent. In addition, the space marine gains the Alternate Element Pack (accessory) as a bonus talent. If she already possesses either of these talents, she instead gains additional talents from that sphere.
+## Standard Issue
+
+The space marine is a marksman trained in proper care and field maintenance of his ranged weaponry. At 1st level, the space marine gains the Tech sphere as a bonus sphere, although she must gain with it the Mechanical Ranged Weaponry (gadget, moddable) talent. In addition, the space marine gains the Alternate Element Pack (accessory) as a bonus talent. If she already possesses either of these talents, she instead gains additional talents from that sphere.
 
 This replaces gunsmith.
 

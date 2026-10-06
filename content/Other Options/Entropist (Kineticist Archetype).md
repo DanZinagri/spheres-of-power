@@ -8,11 +8,17 @@ parent: "[[Other Options]]"
 
 The great majority of kineticists have stable power sources to draw from, whether they dedicate themselves to a single element or spread their abilities amongst several at once. For some who revere the powers of Chaos and Entropy however, their power can be granted by a more capricious source. Entropists’ elemental powers prove incredibly unpredictable, even to themselves. The erkunae people of Erkusaa combine elemental skills with the power of Chaos, as do others that emulate them.
 
-**Alignment:** Entropists are typically just as fickle as their powers are, leaning toward Chaotic, but some are Neutral, simply not concerned with how their power manifests. The random nature of an entropist’s kinetic powers seems to be stifled by more rigid personalities; as such, an entropist cannot be Lawful.
+## Alignment
 
-**Class Skills:** The entropist does not gain specific class skills based on their chosen elements (see Planar Array) but gains Knowledge (planes) as a class skill.
+Entropists are typically just as fickle as their powers are, leaning toward Chaotic, but some are Neutral, simply not concerned with how their power manifests. The random nature of an entropist’s kinetic powers seems to be stifled by more rigid personalities; as such, an entropist cannot be Lawful.
 
-**Planar Array (Ex):** At 1st level, rather than choosing one element, the entropist must choose a group of four elements known as an array. The choices include:
+## Class Skills
+
+The entropist does not gain specific class skills based on their chosen elements (see Planar Array) but gains Knowledge (planes) as a class skill.
+
+## Planar Array (Ex)
+
+At 1st level, rather than choosing one element, the entropist must choose a group of four elements known as an array. The choices include:
 
 - **Elemental Array** - Air, Earth, Fire, Water
 - **Esoteric Array** - Aether, Light, Time, Void
@@ -24,7 +30,9 @@ Choosing an array also grants the entropist an attuned heirloom, typically a str
 
 This alters the kineticist’s class skills.
 
-**Wild Talents:** Unlike most kineticists, entropists learn a great multitude of infusion and utility wild talents, but do not necessarily have access to them all at once. Entropists can learn and prepare wild talents in much the same manner as an arcanist might learn and prepare spells.
+## Wild Talents
+
+Unlike most kineticists, entropists learn a great multitude of infusion and utility wild talents, but do not necessarily have access to them all at once. Entropists can learn and prepare wild talents in much the same manner as an arcanist might learn and prepare spells.
 
 To prepare and use wild talents, the entropist must have a Constitution score of at least 10 + the wild talent’s level, and the wild talent must be either universal or an element within their chosen array. They can prepare one wild talent of each wild talent level they can access based on their entropist level. In addition, starting at 3rd level, they can prepare additional wild talents if they have high Constitution (refer to Table: Ability Modifiers and Bonus Spells). However, no matter what their level or Constitution modifier, they can never have more than three wild talent slots of each wild talent level unless they’ve gained additional slots from the Extra Talent Slots feat.
 
@@ -42,7 +50,9 @@ An entropist can know any number of wild talents. They must choose and prepare t
 
 This ability alters and replaces infusions and utility wild talents.
 
-**Shuffling Focus (Ex):** Each day, the entropist’s attuned heirloom becomes aligned to a random element in their chosen array; the heirloom floods their body with power, allowing them temporary access to a single simple kinetic blast of their choice belonging to that element, as well as temporarily granting them that element’s basic utility wild talent. Wild talents of the same element as their shuffling focus receive a +1 bonus to their DCs and caster levels, while those that are not of their shuffling focus or favored focus elements receive a -1 penalty to DCs and caster levels (minimum caster level 1st). Universal wild talents receive neither a bonus nor a penalty in this fashion. They must roll a d4, using the table below to determine their shuffling focus for the day (or using the numbers assigned to the elements chosen for their array if allowed to create a custom array for themselves):
+## Shuffling Focus (Ex)
+
+Each day, the entropist’s attuned heirloom becomes aligned to a random element in their chosen array; the heirloom floods their body with power, allowing them temporary access to a single simple kinetic blast of their choice belonging to that element, as well as temporarily granting them that element’s basic utility wild talent. Wild talents of the same element as their shuffling focus receive a +1 bonus to their DCs and caster levels, while those that are not of their shuffling focus or favored focus elements receive a -1 penalty to DCs and caster levels (minimum caster level 1st). Universal wild talents receive neither a bonus nor a penalty in this fashion. They must roll a d4, using the table below to determine their shuffling focus for the day (or using the numbers assigned to the elements chosen for their array if allowed to create a custom array for themselves):
 
 - **1** - Air (Elemental Array), Aether (Esoteric Array), or Poison (Material Array)
 - **2** - Earth (Elemental Array), Light (Esoteric Array), or Sound (Material Array)
@@ -51,10 +61,14 @@ This ability alters and replaces infusions and utility wild talents.
 
 This ability replaces elemental focus and alters kinetic blast.
 
-**Mutable Defense (Su):** Starting at 2nd level, when an entropist’s shuffling focus element is chosen, they gain temporary access to that element’s defense wild talent as well. Entropists cannot take the expanded defense wild talent.
+## Mutable Defense (Su)
+
+Starting at 2nd level, when an entropist’s shuffling focus element is chosen, they gain temporary access to that element’s defense wild talent as well. Entropists cannot take the expanded defense wild talent.
 This ability alters elemental defense.
 
-**Favored Focus (Ex):** At 7th level, the entropist has adapted to their powers well enough to choose one they favor, and is capable of accessing their powers in this element at any time. They select one element from their array, permanently learning a single simple blast and the basic utility and defense wild talents of that element, and receive a permanent +1 bonus to DCs and caster levels on wild talents of this element. They cannot replace a basic utility wild talent gained this way with another utility wild talent. In addition, they can access the simple blast and basic utility wild talent this grants even if they’ve lost their attuned heirloom, but treat themselves as a kineticist 1/5 their entropist level to determine their effects until the attuned heirloom is replaced.
+## Favored Focus (Ex)
+
+At 7th level, the entropist has adapted to their powers well enough to choose one they favor, and is capable of accessing their powers in this element at any time. They select one element from their array, permanently learning a single simple blast and the basic utility and defense wild talents of that element, and receive a permanent +1 bonus to DCs and caster levels on wild talents of this element. They cannot replace a basic utility wild talent gained this way with another utility wild talent. In addition, they can access the simple blast and basic utility wild talent this grants even if they’ve lost their attuned heirloom, but treat themselves as a kineticist 1/5 their entropist level to determine their effects until the attuned heirloom is replaced.
 
 When their shuffling focus element is determined, if it is a different element than their favored focus, they gain temporary access to any composite blasts with the blast they choose for it and the blast provided by their favored focus as prerequisites, as well as any composite blast for which a blast they know and expanded element (any) would be prerequisites (such as aetheric boost). Their shuffling focus element’s bonuses to DCs and caster levels increase to +2.
 
@@ -64,13 +78,17 @@ At 15th level, the entropist gains a second favored focus element and permanentl
 
 This ability replaces expanded element.
 
-**Bend Fate (Sp):** At 9th level, the entropist learns to sacrifice a little of their power to subtly guide the fates to bend to their will. When rolling to determine their shuffling focus element, the entropist can choose to reroll the result once per day. If they choose to reroll, however, they cannot prepare wild talents at the highest level at which they could normally prepare them, and they must take the result of the second roll to determine their shuffling element even if it is the same as the first.
+## Bend Fate (Sp)
+
+At 9th level, the entropist learns to sacrifice a little of their power to subtly guide the fates to bend to their will. When rolling to determine their shuffling focus element, the entropist can choose to reroll the result once per day. If they choose to reroll, however, they cannot prepare wild talents at the highest level at which they could normally prepare them, and they must take the result of the second roll to determine their shuffling element even if it is the same as the first.
 
 At 17th level, they can instead choose their element from any within their array, making themselves unable to prepare wild talents at the two highest levels at which they could normally prepare them (this decision can be made whether or not they have already used bend fate to reroll). If they use the ability this way, they cannot select the same element they had as their shuffling element the previous day unless they give up the ability to prepare wild talents at the third-from-highest level they normally could prepare as well.
 
 This ability replaces metakinesis (maximize) and metakinesis (twice).
 
-**Full Array (Sp):** At 20th level, the entropist loses one less level of wild talents they can prepare when using their bend fate ability (they lose no wild talent slots for rerolling, lose only the highest level of slots when they choose a different element than they had the previous day without rolling, and lose only the two highest levels of slots if they choose the same element as the previous day without rolling). They can choose to accept 3 burn when using their bend fate ability to choose an element without rolling; if they do so, they can choose any element, even if it is not within their array, without losing the ability to prepare wild talents.
+## Full Array (Sp)
+
+At 20th level, the entropist loses one less level of wild talents they can prepare when using their bend fate ability (they lose no wild talent slots for rerolling, lose only the highest level of slots when they choose a different element than they had the previous day without rolling, and lose only the two highest levels of slots if they choose the same element as the previous day without rolling). They can choose to accept 3 burn when using their bend fate ability to choose an element without rolling; if they do so, they can choose any element, even if it is not within their array, without losing the ability to prepare wild talents.
 
 In addition, they permanently gain the following composite blast:
 

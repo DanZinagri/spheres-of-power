@@ -7,13 +7,17 @@ updated: 2019-05-16
 
 Emotional ties to the deceased are a cornerstone of spiritualism, and these ties can extend even into the souls of the long-deceased who have found new forms in another realm. For various reasons, some feel the need to call upon the souls of long-dead heroes or villains to aid them in their missions across the planes.
 
-**Petitioner Phantom:** Rather than being tied to a specific emotion which keeps the being tethered to the material plane, the orphic guide’s phantom is associated with a certain plane where its soul has taken refuge. The phantom does not gain an emotional focus, instead gaining a Subtype as an unchained summoner’s eidolon.
+## Petitioner Phantom
+
+Rather than being tied to a specific emotion which keeps the being tethered to the material plane, the orphic guide’s phantom is associated with a certain plane where its soul has taken refuge. The phantom does not gain an emotional focus, instead gaining a Subtype as an unchained summoner’s eidolon.
 
 In addition, the phantom gains ranks in Knowledge (history) and Knowledge (the Planes) equal to its hit dice, and these are treated as the two skills of the phantom’s emotional focus for the purpose of spiritualist class features (such as shared consciousness).
 
 This ability modifies phantom.
 
-**Planar Emissary:** The orphic guide excels at freely moving between planes and fending off the assaults of extraplanar beings. She gains the following spell-like abilities at the listed levels. The orphic guide can use each of these abilities once per day, plus one additional time per day for every 4 spiritualist levels she possesses beyond the level at which she gained the spell-like ability.
+## Planar Emissary
+
+The orphic guide excels at freely moving between planes and fending off the assaults of extraplanar beings. She gains the following spell-like abilities at the listed levels. The orphic guide can use each of these abilities once per day, plus one additional time per day for every 4 spiritualist levels she possesses beyond the level at which she gained the spell-like ability.
 
 - **5th:** protection from chaos/evil/good/law (chosen at the time of casting)
 - **7th:** resist energy

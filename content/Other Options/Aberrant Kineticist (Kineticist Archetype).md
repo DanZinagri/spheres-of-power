@@ -8,13 +8,19 @@ parent: "[[Other Options]]"
 
 From pacts made beyond the stars, aberrant kineticists do not summon forth material from the elemental planes, but instead draw it from the boundless space between spaces. Risking their minds, aberrant kineticists know only the whispers of their dark gods, following instructions unheard by others.
 
-**Class Skills:** The aberrant kineticist gains Knowledge (dungeoneering) as a class skill.
+## Class Skills
 
-**Mental Fortitude (Ex):** An aberrant kineticist’s Will save bonus is equal to 2 + ½ their aberrant kineticist level, and their base Fortitude save bonus is equal to ⅓ their aberrant kineticist level.
+The aberrant kineticist gains Knowledge (dungeoneering) as a class skill.
+
+## Mental Fortitude (Ex)
+
+An aberrant kineticist’s Will save bonus is equal to 2 + ½ their aberrant kineticist level, and their base Fortitude save bonus is equal to ⅓ their aberrant kineticist level.
 
 This ability alters the kineticist’s base saving throws.
 
-**Malign Manifestation (Su):** At 1st level, an aberrant kineticist’s kinetic blast takes on a physical form, appearing to others as a wysp according to their element:
+## Malign Manifestation (Su)
+
+At 1st level, an aberrant kineticist’s kinetic blast takes on a physical form, appearing to others as a wysp according to their element:
 
 - **Aether Wysp:** aether, time, void
 - **Air Wysp:** air, sound
@@ -30,7 +36,9 @@ While a malign manifestation follows the orders of its master, it also does its 
 
 This ability replaces the basic utility wild talent gained upon selecting an elemental focus and alters kinetic blast.
 
-**Possessive Burn (Ex):** Rather than summoning elemental matter from the elemental planes, an aberrant kineticist conjures fragments of the space between stars. An aberrant kineticist uses their Wisdom modifier instead of their Constitution modifier to determine their damage with wild talents, the DCs of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, their bonus on concentration checks for wild talents, and other Constitution-based effects of all their wild talents.
+## Possessive Burn (Ex)
+
+Rather than summoning elemental matter from the elemental planes, an aberrant kineticist conjures fragments of the space between stars. An aberrant kineticist uses their Wisdom modifier instead of their Constitution modifier to determine their damage with wild talents, the DCs of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, their bonus on concentration checks for wild talents, and other Constitution-based effects of all their wild talents.
 
 Whenever an aberrant kineticist accepts burn, rather than taking non-lethal damage, the malign manifestation gains an equal amount of points of influence over the aberrant kineticist as though it was a spirit from the medium class. This influence is lost in the same fashion as burn would be removed.
 
@@ -42,13 +50,17 @@ As a swift action, an aberrant kineticist can accept 1 point of lethal damage pe
 
 This ability alters the kineticist’s class skills and the key ability score of wild talents and burn.
 
-**Alien Union (Su):** An aberrant kineticist can accept 1 point of burn to join with their malign manifestation as a swift action, fusing it with themselves. While fused, the aberrant kineticist is treated as though the maligned manifestation had at least 3 points of influence over them and reduces the burn of all kinetic blasts they use by 1. This fusion lasts for 1 minute, after which the malign manifestation appears in a space next to the aberrant kineticist. The aberrant kineticist can accept 1 additional point of burn to increase the duration by 1 minute.
+## Alien Union (Su)
+
+An aberrant kineticist can accept 1 point of burn to join with their malign manifestation as a swift action, fusing it with themselves. While fused, the aberrant kineticist is treated as though the maligned manifestation had at least 3 points of influence over them and reduces the burn of all kinetic blasts they use by 1. This fusion lasts for 1 minute, after which the malign manifestation appears in a space next to the aberrant kineticist. The aberrant kineticist can accept 1 additional point of burn to increase the duration by 1 minute.
 
 At 11th level, the burn of all kinetic blasts the aberrant kineticist uses is reduced by 2 while fused with their malign manifestation.
 An aberrant kineticist cannot use this ability while their malign manifestation is in control of them.
 
 This ability replaces gather energy and supercharge.
 
-**Tainted Manifestation (Ex):** Whenever an aberrant kineticist displays their elemental overflow, rather than an effect related to their element, the elemental overflow manifests in a more alien fashion, causing the aberrant kineticist’s body to morph and twist with small mouths and minute tentacles forming along their skin. While this effect is not suppressed, the aberrant kineticist gains a circumstance bonus to Intimidate checks equal to their elemental overflow bonus.
+## Tainted Manifestation (Ex)
+
+Whenever an aberrant kineticist displays their elemental overflow, rather than an effect related to their element, the elemental overflow manifests in a more alien fashion, causing the aberrant kineticist’s body to morph and twist with small mouths and minute tentacles forming along their skin. While this effect is not suppressed, the aberrant kineticist gains a circumstance bonus to Intimidate checks equal to their elemental overflow bonus.
 
 This ability alters elemental overflow.

@@ -8,17 +8,25 @@ parent: "[[Other Options]]"
 
 While many kineticists rely on the ability to transform their elemental powers into weapons, few can truly claim to have mastered their kinetic blades, using them as a sort of back-up weapon rather than their primary means of fighting. A telekinetic bladeshifter pours all of their focus into mastering the ability to telekinetically form weaponry, giving up some of their ranged prowess but becoming deadly with weapons formed from their force power in the process.
 
-**Weapon and Armor Proficiencies:** Telekinetic bladeshifters are proficient in all simple melee weapons and all light and one-handed martial weapons, as well as all simple and martial thrown weapons (but not projectile weapons). They are proficient with light and medium armor and shields (but not tower shields).
+## Weapon and Armor Proficiencies
+
+Telekinetic bladeshifters are proficient in all simple melee weapons and all light and one-handed martial weapons, as well as all simple and martial thrown weapons (but not projectile weapons). They are proficient with light and medium armor and shields (but not tower shields).
 
 This replaces the kineticist’s normal weapon and armor proficiencies.
 
-**Telekinetic Focus:** The telekinetic bladeshifter must select aether as their primary element and telekinetic blast as their kinetic blast. This ability does not count as altering or replacing the elemental focus ability for the purpose of taking additional archetypes.
+## Telekinetic Focus
 
-**Base Attack Bonus and Base Saves:** The telekinetic bladeshifter’s base attack bonus is equal to their class level, and their base Reflex save is equal to 1/3 their class level.
+The telekinetic bladeshifter must select aether as their primary element and telekinetic blast as their kinetic blast. This ability does not count as altering or replacing the elemental focus ability for the purpose of taking additional archetypes.
+
+## Base Attack Bonus and Base Saves
+
+The telekinetic bladeshifter’s base attack bonus is equal to their class level, and their base Reflex save is equal to 1/3 their class level.
 
 This alters the kineticist’s base attack bonus and saves.
 
-**Telekinetic Blade (Sp):** At 1st level, the telekinetic bladeshifter chooses one light melee, one-handed melee, or thrown weapon they are proficient with that is not an unarmed strike, natural weapon, or projectile weapon. Whenever they use telekinetic blast, rather than functioning as normal for a kinetic blast, it transforms the object used for this blast into the chosen weapon, and is a free action usable once per turn. The telekinetic bladeshifter is treated in all ways as if wielding the chosen weapon except it deals damage as a warpriest’s sacred weapon (using their telekinetic bladeshifter level as their effective warpriest level) and it can be affected by feats and abilities which affect kinetic blasts. Substance infusions and metakinesis applied to telekinetic blasts used this way work the same as if used in conjunction with the kinetic whip infusion. This effect lasts until the beginning of the telekinetic bladeshifter’s next turn or until they choose to end it as a free action.
+## Telekinetic Blade (Sp)
+
+At 1st level, the telekinetic bladeshifter chooses one light melee, one-handed melee, or thrown weapon they are proficient with that is not an unarmed strike, natural weapon, or projectile weapon. Whenever they use telekinetic blast, rather than functioning as normal for a kinetic blast, it transforms the object used for this blast into the chosen weapon, and is a free action usable once per turn. The telekinetic bladeshifter is treated in all ways as if wielding the chosen weapon except it deals damage as a warpriest’s sacred weapon (using their telekinetic bladeshifter level as their effective warpriest level) and it can be affected by feats and abilities which affect kinetic blasts. Substance infusions and metakinesis applied to telekinetic blasts used this way work the same as if used in conjunction with the kinetic whip infusion. This effect lasts until the beginning of the telekinetic bladeshifter’s next turn or until they choose to end it as a free action.
 
 At 5th level and every 4 levels thereafter, the telekinetic bladeshifter can choose an additional light melee, onehanded melee, or thrown weapon they are proficient with (other than unarmed strikes, natural weapons, or projectile weapons), allowing them to form any one weapon they’ve chosen with this ability whenever they use their telekinetic blast. Beginning at 9th level, they can instead choose an advanced weapon trainingWMH option or advanced armor trainingAMH option (as per the fighter class feature), except it functions only with weapons created with their telekinetic blast rather than weapons from a specific fighter weapon group. Any ability that uses a weapon’s weapon training bonus uses the telekinetic bladeshifter’s bonus to attack rolls from elemental overflow instead, and their advanced weapon training and advanced armor training options use telekinetic bladeshifter levels in place of fighter levels.
 
@@ -26,23 +34,31 @@ Kinetic blasts other than telekinetic blast used by the telekinetic bladeshifter
 
 This alters elemental overflow, kinetic blast, and infusions, and replaces the infusions learned at 1st, 5th, 9th, 13th, and 17th levels.
 
-**Bonus Feats:** Whenever a telekinetic bladeshifter could gain a utility wild talent, they can choose to instead gain a combat feat as a bonus feat. They treat their telekinetic bladeshifter levels as fighter levels to determine if they qualify for a feat. Starting from 5th level they can choose to gain a substance infusion instead of a utility wild talent, treating their telekinetic bladeshifter level as if 4 levels lower for this purpose; this reduced effective level also applies to infusions chosen as part of the expanded element class feature.
+## Bonus Feats
+
+Whenever a telekinetic bladeshifter could gain a utility wild talent, they can choose to instead gain a combat feat as a bonus feat. They treat their telekinetic bladeshifter levels as fighter levels to determine if they qualify for a feat. Starting from 5th level they can choose to gain a substance infusion instead of a utility wild talent, treating their telekinetic bladeshifter level as if 4 levels lower for this purpose; this reduced effective level also applies to infusions chosen as part of the expanded element class feature.
 
 This alters wild talents.
 
-**Forcewoven Shield (Su):** At 2nd level, a telekinetic bladeshifter can accept one point of burn to increase the enhancement bonus of a shield they are using by +1 (or, if it has no enhancement bonus, give it a +1 enhancement bonus) until the next time they recover from burn. If they change shields, the increase in bonus applies to their new shield instead, and it does not apply to a shield they are no longer holding. They can accept an additional point of burn this way for every four levels beyond 2nd (up to five at 18th level). This added enhancement bonus cannot be used to provide a shield with magic abilities, but can increase its enhancement bonus beyond +10 (to a maximum of +15). In addition, if a shield has its enhancement bonus increased this way, it does not interfere with the telekinetic bladeshifter’s ability to use gather power or kinetic blast. If the telekinetic bladeshifter is not wielding a shield and is receiving a shield bonus to their AC from any other ability, feat, or effect (such as from a shield spell, the shroud of water defense wild talent, or the Snapping Turtle StyleUC feat), this ability provides this enhancement bonus to those shield bonuses instead.
+## Forcewoven Shield (Su)
+
+At 2nd level, a telekinetic bladeshifter can accept one point of burn to increase the enhancement bonus of a shield they are using by +1 (or, if it has no enhancement bonus, give it a +1 enhancement bonus) until the next time they recover from burn. If they change shields, the increase in bonus applies to their new shield instead, and it does not apply to a shield they are no longer holding. They can accept an additional point of burn this way for every four levels beyond 2nd (up to five at 18th level). This added enhancement bonus cannot be used to provide a shield with magic abilities, but can increase its enhancement bonus beyond +10 (to a maximum of +15). In addition, if a shield has its enhancement bonus increased this way, it does not interfere with the telekinetic bladeshifter’s ability to use gather power or kinetic blast. If the telekinetic bladeshifter is not wielding a shield and is receiving a shield bonus to their AC from any other ability, feat, or effect (such as from a shield spell, the shroud of water defense wild talent, or the Snapping Turtle StyleUC feat), this ability provides this enhancement bonus to those shield bonuses instead.
 
 If the telekinetic bladeshifter gains the expanded defense utility wild talent, they can choose to gain force ward through it even if their expanded element is not aether.
 
 This ability replaces elemental defense.
 
-**Forcewoven Weapon (Su):** At 3rd level, whenever a telekinetic bladeshifter uses their telekinetic blast, they can choose to create a weapon entirely out of force. A telekinetic blast used this way deals force damage and targets touch AC, but deals half its normal damage and is subject to spell resistance. If they possess force blast, they can accept an additional 2 points of burn when using their telekinetic blast; doing so allows the weapon to deal its full damage and is treated as applying a substance infusion.
+## Forcewoven Weapon (Su)
+
+At 3rd level, whenever a telekinetic bladeshifter uses their telekinetic blast, they can choose to create a weapon entirely out of force. A telekinetic blast used this way deals force damage and targets touch AC, but deals half its normal damage and is subject to spell resistance. If they possess force blast, they can accept an additional 2 points of burn when using their telekinetic blast; doing so allows the weapon to deal its full damage and is treated as applying a substance infusion.
 
 In addition, as a swift action, they can accept 1 point of burn to provide any weapon they create from a telekinetic blast for the next 1 minute with an enhancement bonus equal to 1 + ¼ their kineticist level. This enhancement bonus can be applied to the weapon, stacking with existing enhancement bonuses to a maximum of +5, or they can be used to add any of the following weapon properties so long as they are appropriate to the manifested weapon: agileASoS, cyclonicRTT, impactUE, interferingRTT, keenUE, nullifyingUE, planarUE, shardingWMH, speedUE, veeringRTT, or viciousUE. Adding these special abilities consumes enhancement bonus from this ability equal to the property’s cost. They choose which weapon qualities to apply when using this ability, and it can only be used once per minute. If the telekinetic bladeshifter possesses the battle burn class feature, they can accept battle burn in place of burn for this effect, reducing its duration to 1 round per 3 telekinetic bladeshifter levels they possess (minimum 1).
 
 This ability replaces the infusions granted at 3rd, 11th, and 19th levels.
 
-**Bladeshifter’s Specialty (Ex):** At 9th level, the telekinetic bladeshifter chooses a specialty from the following:
+## Bladeshifter’s Specialty (Ex)
+
+At 9th level, the telekinetic bladeshifter chooses a specialty from the following:
 
 - **Armored Specialty:** When the telekinetic bladeshifter is wearing armor, it gains an enhancement bonus equal to the bonus their shield receives from forcewoven shield (or what it would receive, should they not be using a shield). This enhancement bonus stacks with any enhancement bonus the armor already has (up to +10), and they can spend ten minutes in meditation to convert this bonus into any one of the following armor qualities until the next time they recover burn: bolsteringUE, brawlingUE, deathlessUE, fortification (light)UE, glameredUE, grindingUE, shadowUE, stanchingUE, or vouchsafingACG (for this purpose, glamered and shadow are treated as if they have a price and cost of +1 enhancement bonus); they can only convert this bonus into one quality at a time, and only to an armor type to which it can normally be applied. This limit increases to two at 13th level and three at 17th. The telekinetic bladeshifter must possess Heavy Armor Proficiency to select this specialty.
 
@@ -62,6 +78,8 @@ At 17th level, the telekinetic bladeshifter gains a second specialization; if th
 
 This ability replaces composite specialization, infusion specialization gained at 5th, 11th, and 17th levels, and metakinesis (maximize and twice).
 
-**Telekinetic Weapon Mastery (Ex):** At 20th level, the telekinetic bladeshifter’s kinetic blast automatically confirms critical threats and its critical multiplier is increased by 1. In addition, if the telekinetic bladeshifter has accepted burn on their forcewoven shield ability, they gain DR/- equal to the enhancement bonus gained from forcewoven shield; this damage reduction stacks with that provided by wild talents they possess, but not with other forms of damage reduction.
+## Telekinetic Weapon Mastery (Ex)
+
+At 20th level, the telekinetic bladeshifter’s kinetic blast automatically confirms critical threats and its critical multiplier is increased by 1. In addition, if the telekinetic bladeshifter has accepted burn on their forcewoven shield ability, they gain DR/- equal to the enhancement bonus gained from forcewoven shield; this damage reduction stacks with that provided by wild talents they possess, but not with other forms of damage reduction.
 
 This ability replaces omnikinesis.

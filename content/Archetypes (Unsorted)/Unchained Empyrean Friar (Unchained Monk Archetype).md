@@ -7,6 +7,10 @@ updated: 2016-09-11
 
 A character with levels in the unchained version of the monk base class (Pathfinder Roleplaying Game Pathfinder Unchained) can select the empyrean friar archetype by replacing the following monk class features.
 
-**Bind Spirit:** This ability replaces AC bonus, stunning fist, fast movement, and the monk’s 8th-level and 12th-level ki powers.
+## Bind Spirit
 
-**Binder Secret:** This ability replaces all of the monk’s bonus feats
+This ability replaces AC bonus, stunning fist, fast movement, and the monk’s 8th-level and 12th-level ki powers.
+
+## Binder Secret
+
+This ability replaces all of the monk’s bonus feats

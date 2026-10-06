@@ -12,7 +12,8 @@ parent: "[[Thaumaturge]]"
 
 **Author’s Note:** This archetype thematically pairs well with the [[DRS Thaumaturge Class Features|occulted visions alternate class feature]] for forbidden lore.
 
-**Pull From Darkness (Su)**
+## Pull From Darkness (Su)
+
 *The ebonmage’s magics reach into and beyond the void, channeling its power into absolute darkness.*
 
 At 1st level, as a free action, the ebonmage may choose to purposely suffer backlash to regain 1 use of invocation.
@@ -21,13 +22,15 @@ The ebonmage does not gain the following invocations: 1st level – lingering pa
 
 This ability alters invocations.
 
-**Sightless Invocation**
+## Sightless Invocation
+
 
 At 1st level, when using forbidden lore, affected targets are confused for 1 round (Will negates).
 
 At 11th level, when using forbidden lore to augment the *gloom* sphere ability, all targets within the affected area are confused for a number of rounds equal to the ebonmage’s Dark sphere caster level (Will negates). This confusion effect immediately ends if an affected creature leaves the *gloom*’s area.
 
-**Ebon Invocation**
+## Ebon Invocation
+
 At 3rd level, when using forbidden lore to augment the *gloom* sphere ability, the ebonmage may add 1 additional (darkness) or (blot) to the *gloom*. The ebonmage must pay for any additional spell point costs for the chosen option as appropriate.
 
 At 15th level, the ebonmage may use this invocation to add 1 (darkness) or (blot) to any sphere effect that creates a non-instantaneous area. Treat this as a separate *gloom* effect that occupies the augmented sphere effect’s area, which lasts for a number of rounds equal to 1/2 the ebonmage’s Dark sphere caster level.

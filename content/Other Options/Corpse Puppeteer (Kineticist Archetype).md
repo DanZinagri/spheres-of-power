@@ -9,9 +9,13 @@ parent: "[[Other Options]]"
 Not all respect life equally, and some are more apt to use its remnants than others. The shrewdest of chaokineticists and corpokineticists are likely to see value even in death, animating a corpse through either a surge of negative energy or wresting control of its very flesh and bones, wielding it as a weapon of their own design. These foul masters of power find strength in cannibalizing the bodies of others to aid their own vile beast, creating an unholy chimera
 unfit to walk in the light.
 
-**Elemental Focus (Su):** A corpse puppeteer must select viscera or void as their elemental focus.
+## Elemental Focus (Su)
 
-**Corpse Puppet (Su):** At 1st level, a corpse puppeteer may create a corpse puppet from the corpse of a deceased Medium or Small humanoid or a four legged animal (other animal corpses may be allowed upon GM approval). Treat this as a skeleton for corpse puppeteers with void as their elemental focus. If their elemental focus is viscera, it instead is treated as a construct (therefore a chaokineticist’s corpse would gain additional hit points upon raising its Charisma, while a corpokineticist’s corpse receives additional hit points according to its size).
+A corpse puppeteer must select viscera or void as their elemental focus.
+
+## Corpse Puppet (Su)
+
+At 1st level, a corpse puppeteer may create a corpse puppet from the corpse of a deceased Medium or Small humanoid or a four legged animal (other animal corpses may be allowed upon GM approval). Treat this as a skeleton for corpse puppeteers with void as their elemental focus. If their elemental focus is viscera, it instead is treated as a construct (therefore a chaokineticist’s corpse would gain additional hit points upon raising its Charisma, while a corpokineticist’s corpse receives additional hit points according to its size).
 
 > **Medium Humanoid Corpse**
 > **Size** Medium; **Speed** 30 ft.; **AC** +2 natural armor; **Attack** 2 claws (1d4); **Ability Scores** Str 16, Dex 13, Con —, Int —, Wis 10, Cha 11; **Special Qualities** DR 5/bludgeoning, construct traits (if viscera)/undead traits (if void)
@@ -33,19 +37,27 @@ A corpse puppeteer can break the connection between themselves and their corpse 
 
 This ability replaces the infusions gained at 1st, 5th, 9th, 13th, and 17th level.
 
-**Share Utility Wild Talents (Su):** At 1st level, a corpse puppeteer’s animated “corpse puppet” can use any spell-like utility wild talents that require a standard action to use that the corpse puppeteer possesses. If they do so, the corpse puppeteer cannot take a standard action on their next round. A corpse puppet cannot accept burn while using any of these utility wild talents.
+## Share Utility Wild Talents (Su)
+
+At 1st level, a corpse puppeteer’s animated “corpse puppet” can use any spell-like utility wild talents that require a standard action to use that the corpse puppeteer possesses. If they do so, the corpse puppeteer cannot take a standard action on their next round. A corpse puppet cannot accept burn while using any of these utility wild talents.
 
 This ability replaces the link and share spells ability normally granted to animal companions.
 
-**Fleshcrafting (Ex):** At 4th level, a corpse puppeteer can spend 10 minutes to apply the unnatural evolution talent to any corpse permanently. A corpse can only have one such alteration at a time, and adding a second causes the first one to rot off and become worthless. At 8th level, and every 4 levels afterwards, they can apply an additional use of unnatural evolution to their corpse. A corpse may take the Extra Evolution feat and apply its effects to themselves, treating its hit dice as its level for the purpose of how many times it can select it.
+## Fleshcrafting (Ex)
+
+At 4th level, a corpse puppeteer can spend 10 minutes to apply the unnatural evolution talent to any corpse permanently. A corpse can only have one such alteration at a time, and adding a second causes the first one to rot off and become worthless. At 8th level, and every 4 levels afterwards, they can apply an additional use of unnatural evolution to their corpse. A corpse may take the Extra Evolution feat and apply its effects to themselves, treating its hit dice as its level for the purpose of how many times it can select it.
 
 This ability replaces the utility wild talent gained at 4th level.
 
-**Preserved Puppet (Ex):** At 6th level, a corpse puppeteer’s corpse is preserved as though under the effect of a continual gentle repose spell.
+## Preserved Puppet (Ex)
+
+At 6th level, a corpse puppeteer’s corpse is preserved as though under the effect of a continual gentle repose spell.
 
 This ability replaces the devotion ability normally granted to animal companions.
 
-**Advanced Puppetry (Ex):** At 7th level, a corpse puppeteer can form a connection with a Large corpse or spend 10 minutes and accept 1 point of burn to permanently increase the size of a Medium corpse puppet to Large. A Large corpse gains the following stats:
+## Advanced Puppetry (Ex)
+
+At 7th level, a corpse puppeteer can form a connection with a Large corpse or spend 10 minutes and accept 1 point of burn to permanently increase the size of a Medium corpse puppet to Large. A Large corpse gains the following stats:
 
 > **Large Humanoid Corpse**
 > **Size** Large; **Speed** 40 ft.; **AC** +4 natural armor; **Attack** 2 claws (1d6); **Space** 10 ft., **Reach** 10 ft.; **Ability Scores** Str 20, Dex 13, Con —, Int —, Wis 10, Cha 12; **Special Qualities** DR 10/bludgeoning, construct traits (if viscera)/undead traits (if void)
@@ -57,13 +69,19 @@ A corpse puppeteer can also choose to instead form a connection with two Small c
 
 This ability replaces the expanded element gained at 7th level.
 
-**Expanded Element (Su):** At 10th level, a corpse puppeteer gains the expanded element class feature.
+## Expanded Element (Su)
+
+At 10th level, a corpse puppeteer gains the expanded element class feature.
 
 This ability replaces the utility wild talent gained at 10th level.
 
-**Improved Fleshcrafting (Ex):** At 10th level, a corpse puppeteer can use two uses of their unnatural evolution to instead apply one use of improved unnatural evolution.
+## Improved Fleshcrafting (Ex)
 
-**Fleshcrafting Master (Ex):** At 15th level, a corpse puppeteer can form a connection with a Huge corpse or spend 1 hour and accept 2 points of burn to permanently increase the size of a Large corpse puppet to Huge. A Huge corpse gains the following stats:
+At 10th level, a corpse puppeteer can use two uses of their unnatural evolution to instead apply one use of improved unnatural evolution.
+
+## Fleshcrafting Master (Ex)
+
+At 15th level, a corpse puppeteer can form a connection with a Huge corpse or spend 1 hour and accept 2 points of burn to permanently increase the size of a Large corpse puppet to Huge. A Huge corpse gains the following stats:
 
 > **Huge Humanoid Corpse**
 > **Size** Huge; **Speed** 50 ft.; **AC** +8 natural armor; **Attack** 2 claws (1d8); **Space** 15 ft., **Reach** 15 ft.; **Ability Scores** Str 26, Dex 13, Con —, Int —, Wis 10, Cha 14; **Special Qualities** DR 10/bludgeoning and magic, construct traits (if viscera)/undead traits (if void)
@@ -73,6 +91,8 @@ This ability replaces the utility wild talent gained at 10th level.
 
 A corpse puppeteer can also use three uses of their unnatural evolution to instead apply one use of greater unnatural evolution. They can also instead form a connection between two Medium or smaller corpses treating their effective druid level as their corpse puppeteer level -2 for both of them. Both of these corpses gain a +4 to their strength and natural armor as well as 20 additional hit points each.
 
-**Corpse Master (Ex):** At 20th level, a corpse puppeteer’s corpse gains a + 8 to strength, +6 to natural armor, and 40 additional hit points. They can also instead form a connection between two Large or smaller corpses using their full corpse puppeteer level as their effective druid level, both of them gaining a +4 to their strength and natural armor as well as 20 additional hit points each.
+## Corpse Master (Ex)
+
+At 20th level, a corpse puppeteer’s corpse gains a + 8 to strength, +6 to natural armor, and 40 additional hit points. They can also instead form a connection between two Large or smaller corpses using their full corpse puppeteer level as their effective druid level, both of them gaining a +4 to their strength and natural armor as well as 20 additional hit points each.
 
 This ability replaces omnikinesis.

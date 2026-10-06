@@ -8,9 +8,13 @@ parent: "[[Other Options]]"
 
 Many martial artists have trained to channel their ki into concussive projectiles in one form or another. The surge fist monk has mastered one such technique, combining their inner might with threads of elemental power lingering in their blood to unleash great bursts of energy. Although not as versatile as kineticists, surge fist monks still have the ability to shape their ki energy to adapt to the current fight.
 
-**Kinetic Talent:** Although they haven’t the skill to fully manipulate the elements, surge fist monks have a degree of control that allows them to benefit from some of the same techniques. They can use their surge fist monk levels in place of kineticist levels to meet the prerequisites for feats.
+## Kinetic Talent
 
-**Surge Fist (Ex):** The surge fist monk’s signature technique involves drawing threads of latent elemental energy from the world around them and infusing it into concussive blasts.
+Although they haven’t the skill to fully manipulate the elements, surge fist monks have a degree of control that allows them to benefit from some of the same techniques. They can use their surge fist monk levels in place of kineticist levels to meet the prerequisites for feats.
+
+## Surge Fist (Ex)
+
+The surge fist monk’s signature technique involves drawing threads of latent elemental energy from the world around them and infusing it into concussive blasts.
 
 At 1st level, the surge fist monk selects an element, as per the kineticist’s elemental focus class feature, and learns one simple blast from this element. Unlike a kineticist’s kinetic blast, the surge fist monk deals damage with this blast as if using an unarmed strike (adding their Wisdom modifier in place of Strength) and it always targets normal AC and ignores spell resistance regardless of what type of damage it deals. Telekinetic blast cannot be used in this way; a surge first monk that chooses aether instead gains force blast and reduces its burn cost to 0, treating it as a simple blast. Blasts which deal untyped damage instead deal force damage when used this way.
 
@@ -18,7 +22,9 @@ A surge fist requires two free hands to use and can be used in place of any atta
 
 This ability replaces the bonus feats learned at 1st and 2nd levels.
 
-**Wild Ki (Su):** A surge fist monk can alter their surge fists the same way kineticists can bend their kinetic blasts. At 4th level, they select a 1st level substance infusion of their surge fist’s element (or a 1st level universal substance infusion). By spending an amount of ki points equal to the infusion’s burn cost as a free action, they can apply that infusion to their surge fist.
+## Wild Ki (Su)
+
+A surge fist monk can alter their surge fists the same way kineticists can bend their kinetic blasts. At 4th level, they select a 1st level substance infusion of their surge fist’s element (or a 1st level universal substance infusion). By spending an amount of ki points equal to the infusion’s burn cost as a free action, they can apply that infusion to their surge fist.
 
 The surge fist monk can learn additional substance infusions in place of ki powers; they use their surge fist monk levels -4 to determine their effective kineticist level to meet the infusion’s prerequisites (kineticist levels stack with this), and must expend an amount of ki points equal to the infusion’s burn cost as a free action to apply it to a surge fist they use. If they select the extra wild talent feat, it can only be used to select substance infusions unless they have levels as a kineticist.
 
@@ -42,11 +48,15 @@ A surge fist monk cannot select the following ki powers: elemental burst, elemen
 
 This ability replaces the ki power gained at 4th level and alters ki power.
 
-**Style Strike (Ex):** A surge fist monk can apply style strikes that can be used with attacks made with one’s fists to surge fist.
+## Style Strike (Ex)
+
+A surge fist monk can apply style strikes that can be used with attacks made with one’s fists to surge fist.
 
 This alters style strike.
 
-**Great Surge Fist (Ex):** At 10th level, the surge fist monk selects an element, as per the kineticist’s expanded element. If it is different from their primary element, they gain one of that element’s simple blasts; if it is the same element and has multiple associated simple blasts, they learn whichever they did not know beforehand. They also gain the composite blast for which their two simple blasts are prerequisites, or if they chose the same element, gain the composite blast for which elemental focus and expanded element of that element are prerequisites (for example, a surge fist monk who takes earth twice will gain metal blast).
+## Great Surge Fist (Ex)
+
+At 10th level, the surge fist monk selects an element, as per the kineticist’s expanded element. If it is different from their primary element, they gain one of that element’s simple blasts; if it is the same element and has multiple associated simple blasts, they learn whichever they did not know beforehand. They also gain the composite blast for which their two simple blasts are prerequisites, or if they chose the same element, gain the composite blast for which elemental focus and expanded element of that element are prerequisites (for example, a surge fist monk who takes earth twice will gain metal blast).
 
 A surge fist monk’s composite blast deals damage as unarmed strikes made by a monk one size category larger. They must spend 1 point from their ki pool as a free action to use a composite blast in place of a simple blast. A surge fist monk who chooses aether twice can apply this effect to their force blast, treating it as a composite blast for this purpose. They must spend an additional 1 point from their ki pool to apply the effects of a composite blast that modifies another blast (such as aetheric boost) to a composite blast used this way.
 

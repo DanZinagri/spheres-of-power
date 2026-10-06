@@ -8,9 +8,13 @@ parent: "[[Other Options]]"
 
 The threads of reality are not as strong as most would be lead to believe, and there are those who possess the power to pull these threads apart, creating gaps in dimensions. A dimensional ripper is capable of finding the weak points in the fabric of dimensions through pulling at the strands of aether, slipping between moments in time, or even through more esoteric means. Reality itself is but a plaything of these kineticists, traveling in places best left untouched by mortals.
 
-**Elemental Focus (Su):** A dimensional ripper must select either aether, time, or void as their elemental focus.
+## Elemental Focus (Su)
 
-**Dimensional Tear (Sp):** At 2nd level, as a standard action a dimensional ripper can accept 1 point of burn to create up to 2 tears in the dimension veil for 1 minute per dimensional ripper level they possess. They can also choose to create tears as a full round action without needing to accept burn. The dimensional ripper must select a number of empty squares within 50 ft. of themselves equal to the amount of tears they wish to create to which they have line of sight, creating a tear in each of those squares (these squares cannot contain hazardous terrain).
+A dimensional ripper must select either aether, time, or void as their elemental focus.
+
+## Dimensional Tear (Sp)
+
+At 2nd level, as a standard action a dimensional ripper can accept 1 point of burn to create up to 2 tears in the dimension veil for 1 minute per dimensional ripper level they possess. They can also choose to create tears as a full round action without needing to accept burn. The dimensional ripper must select a number of empty squares within 50 ft. of themselves equal to the amount of tears they wish to create to which they have line of sight, creating a tear in each of those squares (these squares cannot contain hazardous terrain).
 
 The distance from which a dimensional ripper may create a tear increases by 10 ft. per dimensional ripper level they possess past 2nd level. These two dimensional tears stand 5 ft. tall and wide, must be placed vertically upon solid ground, and can be identified by a DC 15 Knowledge (planes) as a dimensional tear. Dimensional tears block line of sight. A tear cannot be created in any space where extra dimensional travel is blocked. A dimensional ripper can close one or more tears as a free action. If a tear is closed while a creature is inside of it, they are shunted off to the nearest empty square and take 1d6 damage.
 
@@ -22,34 +26,50 @@ A dimensional ripper can maintain a number of tears equal to twice the amount th
 
 This replaces the utility wild talent gained at 2nd level.
 
-**Improved Tearing (Sp):** At 7th level and every 4 levels afterwards, a dimensional ripper can create an additional tear when using dimensional tear, as well as being able to place a tear in the air. A tear placed in the air can be no further from the ground than half the maximum distance of the tear from the dimensional ripper (a 7th level dimensional ripper could place a tear 45 ft into the air), and cannot be placed over hazardous terrain. In addition, they can accept 1 point of burn to create one or more tears as a move action. If the dimensional ripper chooses to create a tear as a standard action, they no longer need to accept burn to do so. They also gain an infusion for which they qualify.
+## Improved Tearing (Sp)
+
+At 7th level and every 4 levels afterwards, a dimensional ripper can create an additional tear when using dimensional tear, as well as being able to place a tear in the air. A tear placed in the air can be no further from the ground than half the maximum distance of the tear from the dimensional ripper (a 7th level dimensional ripper could place a tear 45 ft into the air), and cannot be placed over hazardous terrain. In addition, they can accept 1 point of burn to create one or more tears as a move action. If the dimensional ripper chooses to create a tear as a standard action, they no longer need to accept burn to do so. They also gain an infusion for which they qualify.
 
 This ability replaces the expanded element gained at this level.
 
-**Dimensional Travel (Sp):** At 8th level, a dimensional ripper knows how to slip between dimension as though using the light speed travel wild talent. In addition, they can increase the amount of burn needed to create a tear by 1 to increase the duration of a tear to 1 hour per dimensional ripper level they possess or until they recover burn.A dimensional ripper can increase the burn cost of their blast by 1 to treat it as though it had the hyper-dimensional blast wild talent applied to it as long as passes through at least one tear.
+## Dimensional Travel (Sp)
+
+At 8th level, a dimensional ripper knows how to slip between dimension as though using the light speed travel wild talent. In addition, they can increase the amount of burn needed to create a tear by 1 to increase the duration of a tear to 1 hour per dimensional ripper level they possess or until they recover burn.A dimensional ripper can increase the burn cost of their blast by 1 to treat it as though it had the hyper-dimensional blast wild talent applied to it as long as passes through at least one tear.
 
 This ability replaces the utility wild talent gained at 8th level.
 
-**Dimensional Fury (Sp):** At 9th level, a dimensional ripper can increase the force of their blast by forcing it through different dimensions. Whenever a dimensional ripper attacks through one of their tears, they can increase the burn cost of their blast by 1 to increase its destructive force. For each tear a dimensional ripper’s blast travels through (up to 1 per 3 dimensional ripper levels they possess), that blast gains +1 to attack and damage rolls. A dimensional ripper who makes a charge attack through a tear using either kinetic blade, kinetic fist, or kinetic whip is treated as though they had pounce for the attack, increasing their base land or flight speed by 10 ft. for each tear they pass through up to a maximum of 10 ft. per 3 dimensional ripper levels they possess.
+## Dimensional Fury (Sp)
+
+At 9th level, a dimensional ripper can increase the force of their blast by forcing it through different dimensions. Whenever a dimensional ripper attacks through one of their tears, they can increase the burn cost of their blast by 1 to increase its destructive force. For each tear a dimensional ripper’s blast travels through (up to 1 per 3 dimensional ripper levels they possess), that blast gains +1 to attack and damage rolls. A dimensional ripper who makes a charge attack through a tear using either kinetic blade, kinetic fist, or kinetic whip is treated as though they had pounce for the attack, increasing their base land or flight speed by 10 ft. for each tear they pass through up to a maximum of 10 ft. per 3 dimensional ripper levels they possess.
 
 This ability replaces metakinesis (maximize).
 
-**Rapid Tearing (Sp):** At 10th level, a dimensional ripper can create one or more tears as a swift action. If they choose to create a tear as a move action, they no longer need to accept burn to do so. If they use a standard action to create a tear, they no longer need to accept burn to increase the duration.
+## Rapid Tearing (Sp)
+
+At 10th level, a dimensional ripper can create one or more tears as a swift action. If they choose to create a tear as a move action, they no longer need to accept burn to do so. If they use a standard action to create a tear, they no longer need to accept burn to increase the duration.
 
 This ability replaces the utility wild talent gained at 10th level.
 
-**Mobile Tears (Su):** At 11th level, a dimensional ripper can move any number of tears they create up to 30 ft. as a move action, although two or more tears cannot occupy the same square. As an immediate action, a dimensional ripper can accept 1 burn to move a tear in the pathway of a charging enemy, forcing them to make a Reflex save equal to 10 + ½ the dimensional ripper’s level + their constitution modifier or be forced to enter the tear, the dimensional ripper choosing through which tear they exit.
+## Mobile Tears (Su)
+
+At 11th level, a dimensional ripper can move any number of tears they create up to 30 ft. as a move action, although two or more tears cannot occupy the same square. As an immediate action, a dimensional ripper can accept 1 burn to move a tear in the pathway of a charging enemy, forcing them to make a Reflex save equal to 10 + ½ the dimensional ripper’s level + their constitution modifier or be forced to enter the tear, the dimensional ripper choosing through which tear they exit.
 
 This ability replaces the infusion gained at 11th level.
 
-**Expanded Element (Su):** A dimensional ripper must select either aether, time, or void as their expanded element.
+## Expanded Element (Su)
+
+A dimensional ripper must select either aether, time, or void as their expanded element.
 
 This ability alters the expanded element gained at 15th level.
 
-**Multi-Dimensional Fury (Su):** At 17th level, a dimensional ripper can split their assault by using their attacks from parallel dimensions, increasing the burn cost of their kinetic blast by 3 when they make an attack through one of their tears. If they do so, their attack emerges from each tear except for the one being used to make the attack, dealing damage as a kineticist of half their level. A kinetic blast cannot have a form infusion applied to it while using this ability except for extended range and extreme range.
+## Multi-Dimensional Fury (Su)
+
+At 17th level, a dimensional ripper can split their assault by using their attacks from parallel dimensions, increasing the burn cost of their kinetic blast by 3 when they make an attack through one of their tears. If they do so, their attack emerges from each tear except for the one being used to make the attack, dealing damage as a kineticist of half their level. A kinetic blast cannot have a form infusion applied to it while using this ability except for extended range and extreme range.
 
 This ability replaces metakinesis (twice).
 
-**Spatial Collapse (Sp):** At 20th level, a dimensional ripper can accept 1 burn to move two or more tears into the same square and collapse them in on each other as a standard action. This forces all creatures within 15 ft. of the square to make a Reflex save equal to 20 + the dimensional ripper’s Constitution modifier or be caught in the blast, disintegrating them instantly as per the spell. Those who make their saving throw only take 10d6 damage. For each two additional tears used in a spatial collapse beyond the second, increase the DC by 1 and the damage taken on a failed save by 2d6.
+## Spatial Collapse (Sp)
+
+At 20th level, a dimensional ripper can accept 1 burn to move two or more tears into the same square and collapse them in on each other as a standard action. This forces all creatures within 15 ft. of the square to make a Reflex save equal to 20 + the dimensional ripper’s Constitution modifier or be caught in the blast, disintegrating them instantly as per the spell. Those who make their saving throw only take 10d6 damage. For each two additional tears used in a spatial collapse beyond the second, increase the DC by 1 and the damage taken on a failed save by 2d6.
 
 This ability replaces omnikinesis.

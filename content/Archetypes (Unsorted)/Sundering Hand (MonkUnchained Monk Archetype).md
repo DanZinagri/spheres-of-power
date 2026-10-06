@@ -8,20 +8,30 @@ updated: 2019-09-19
 
 The Sundering Hand school has old roots in dwarven philosophy. Originally an obscure sect of dwarven ascetics, their philosophy has spread to other peoples, calling for simplicity and internal achievement instead of great works of craft and artifice. Now small schools can be found in many lands, taking in outcasts and seekers and training them in their ways.
 
-**Proficiencies:** Sundering hands are proficient with simple weapons. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+Sundering hands are proficient with simple weapons. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This alters proficiencies.
 
-**Combat Training (Ex):** A sundering hand is considered an adept practitioner, gaining spheres and talents as appropriate. Sundering hands use Wisdom as their practitioner modifier.
+## Combat Training (Ex)
+
+A sundering hand is considered an adept practitioner, gaining spheres and talents as appropriate. Sundering hands use Wisdom as their practitioner modifier.
 
 This replaces the unarmed strike and bonus feats class features.
 
-**Thunderous Blows:** At 1st level, a sundering hand gains the thunderous blows class feature as a [[Blacksmith|blacksmith]] of his level. Levels in this class stack with blacksmith levels for determining the damage dice and additional effects of thunderous blows.
+## Thunderous Blows
+
+At 1st level, a sundering hand gains the thunderous blows class feature as a [[Blacksmith|blacksmith]] of his level. Levels in this class stack with blacksmith levels for determining the damage dice and additional effects of thunderous blows.
 
 This replaces flurry of blows.
 
-**Smithing Insights:** A sundering hand may select smithing insights for which he qualifies in place any of the following monk class abilities: slow fall (4th), high jump (5th), wholeness of body (7th), diamond body (11th), abundant step (12th), diamond soul (13th), quivering palm (15th), timeless body (17th), tongue of the sun and moon (17th), empty body (19th), and perfect self (20th). He treats his class levels as blacksmith levels for meeting prerequisites. This stacks with blacksmith levels from other sources.
+## Smithing Insights
+
+A sundering hand may select smithing insights for which he qualifies in place any of the following monk class abilities: slow fall (4th), high jump (5th), wholeness of body (7th), diamond body (11th), abundant step (12th), diamond soul (13th), quivering palm (15th), timeless body (17th), tongue of the sun and moon (17th), empty body (19th), and perfect self (20th). He treats his class levels as blacksmith levels for meeting prerequisites. This stacks with blacksmith levels from other sources.
 
 An unchained sundering hand monk may take smithing insights in place of ki powers, treating his class levels as blacksmith levels for meeting prerequisites. This stacks with blacksmith levels from other sources.
 
-**Breaking Style:** An unchained sundering hand monk may apply his style strike ability to any attack action he makes with a suitable limb.
+## Breaking Style
+
+An unchained sundering hand monk may apply his style strike ability to any attack action he makes with a suitable limb.

@@ -12,11 +12,15 @@ parent: "[[Commander]]"
 
 ---
 
-**Essence of Bear:** At 1st level, the bearon gains the [[Bear]] sphere and the Bear With Me bear talent as bonus magic talents. If the bearon possess either of these magic talents already, he may instead gain different Bear sphere talents of his choice. Additionally, the bearon gains a spell pool equal to his Practitioner modifier, +1 per 2 commander levels (minimum 1). If the bearon gains a spell pool from another source, they instead use their other spell pool, +1 spell point per 2 commander levels. The bearon treats his class level as his caster level for the Bear sphere. This stacks normally with caster levels gained from other sources. Essence of Bear counts as casting for all purposes, except unless the bearon possess casting from another source or possesses the Advanced Magic Training feat, they can only gain Bear sphere talents with the Extra Magic Talent feat.
+## Essence of Bear
+
+At 1st level, the bearon gains the [[Bear]] sphere and the Bear With Me bear talent as bonus magic talents. If the bearon possess either of these magic talents already, he may instead gain different Bear sphere talents of his choice. Additionally, the bearon gains a spell pool equal to his Practitioner modifier, +1 per 2 commander levels (minimum 1). If the bearon gains a spell pool from another source, they instead use their other spell pool, +1 spell point per 2 commander levels. The bearon treats his class level as his caster level for the Bear sphere. This stacks normally with caster levels gained from other sources. Essence of Bear counts as casting for all purposes, except unless the bearon possess casting from another source or possesses the Advanced Magic Training feat, they can only gain Bear sphere talents with the Extra Magic Talent feat.
 
 This replaces commander and lingering commands.
 
-**Enhanced Bear (Su):** The bearon gains a bonus magic talent from the bear sphere at 2nd level and every 2 levels thereafter.
+## Enhanced Bear (Su)
+
+The bearon gains a bonus magic talent from the bear sphere at 2nd level and every 2 levels thereafter.
 
 Additionally, the bearon can use the Bear With Me talent on allies within close range, rather than only through touch, and can even affect multiple targets at once, provided he spends a spell point for each granted bear spirit.
 
@@ -26,7 +30,9 @@ At any time, the bearon may spend the action required to use a bearacteristic (a
 
 This replaces enhanced tactics.
 
-**Call In A Bear:** The bearon’s network of contacts stretches beyond the cities and settlements and extends deep into the wilds. The following options replace those granted by the call in a specialist logistics specialty:
+## Call In A Bear
+
+The bearon’s network of contacts stretches beyond the cities and settlements and extends deep into the wilds. The following options replace those granted by the call in a specialist logistics specialty:
 
 - **Care Bear:** The bearon gains the service of a bear whose tender fur and caring disposition lifts the spirits of any who interact with it. The presence of this bear doubles the effectiveness of healing effects used outside of combat, and grants a +2 benefit to all caster level or magical skill checks made to overcome or remove poison, disease, curses, or any other harmful effects.
 - **Circus Bear:** The bearon gains the service of a bear with expert levels, whose combined CR + class levels are equal to the bearon’s class level -3. This bear possesses a bonus to one Perform skill plus one other non-Intelligence skill of the bearon’s choice equal to the commander’s class level. The circus bear will not follow the commander into combat or dangerous locations, but otherwise will perform skill checks with its skills however the commander directs.

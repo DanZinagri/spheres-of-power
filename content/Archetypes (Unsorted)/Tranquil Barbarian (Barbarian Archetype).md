@@ -11,9 +11,13 @@ updated: 2020-09-12
 
 Rather than lose their powers, a barbarian that turns Lawful may choose to gain the tranquil barbarian archetype instead. A tranquil barbarian embodies the tenets of the Way, seeing the place they fill in the order of things and blending this knowledge into their combat.
 
-**Alignment:** A tranquil barbarian must be Lawful. If she ever ceases to be Lawful, she loses this archetype.
+## Alignment
 
-**Inner Peace:** A tranquil barbarian can adopt a mindset of pure inner peace and express this through her body for a number of rounds per day equal to 4 + her Constitution modifier. At each level after 1st, she can achieve inner peace for an additional 2 rounds per day. Temporary increases to Constitution, such as those gained from spells like bear’s endurance, do not increase the total number of rounds that the tranquil barbarian can achieve inner peace per day. A barbarian can adopt inner peace as a free action. The total number of rounds of inner peace per day is renewed after resting for 8 hours, although these hours do not need to be consecutive.
+A tranquil barbarian must be Lawful. If she ever ceases to be Lawful, she loses this archetype.
+
+## Inner Peace
+
+A tranquil barbarian can adopt a mindset of pure inner peace and express this through her body for a number of rounds per day equal to 4 + her Constitution modifier. At each level after 1st, she can achieve inner peace for an additional 2 rounds per day. Temporary increases to Constitution, such as those gained from spells like bear’s endurance, do not increase the total number of rounds that the tranquil barbarian can achieve inner peace per day. A barbarian can adopt inner peace as a free action. The total number of rounds of inner peace per day is renewed after resting for 8 hours, although these hours do not need to be consecutive.
 
 While in a state of inner peace, a barbarian can push her body faster and more precisely than is otherwise possible. The tranquil barbarian gains a +2 bonus on all melee and ranged attack rolls, and gains a +2 dodge bonus to AC. She also gains a +2 bonus to Reflex and Will saving throws, and to Dexterity-based skill checks. Just as with a normal rage, a tranquil barbarian in a state of inner peace cannot use any skills and abilities tied to mental ability scores, as the void she must hold in her mind forbids all thought but the moment.
 

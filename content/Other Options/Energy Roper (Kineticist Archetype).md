@@ -8,7 +8,9 @@ parent: "[[Other Options]]"
 
 Many kineticists have a preferred form for their kinetic blasts: some enjoy throwing their energy as long-range projectiles, some use it as a melee weapon, some prefer to mold it into a barrier. The energy roper chooses to transform the elements into a powerful tentacle that can wrap around enemies and keep them helplessly bound and controlled.
 
-**Kinetic Tendril (Su):** At 1st level, the energy roper gains Kinetic Pin as a bonus feat, ignoring its prerequisites. By accepting the cost of a composite blast, they can use its damage in place of their simple blast’s damage when using this feat. In addition, they receive the following form infusion:
+## Kinetic Tendril (Su)
+
+At 1st level, the energy roper gains Kinetic Pin as a bonus feat, ignoring its prerequisites. By accepting the cost of a composite blast, they can use its damage in place of their simple blast’s damage when using this feat. In addition, they receive the following form infusion:
 
 > **Kinetic Tendril**
 > **Element(s)** universal; **Type** form infusion; **Level** 1; **Burn** 0
@@ -22,19 +24,27 @@ The energy roper cannot use their kinetic blast without applying kinetic tendril
 
 This replaces the basic utility wild talent and infusion gained at 1st level and alters infusions and kinetic blast.
 
-**Grappling Utility (Ex):** At 2nd level and every 4 levels thereafter, the energy roper can choose to gain a bonus feat in place of a utility wild talent. They use their energy roper level in place of their BAB to meet the requirements of bonus feats gained this way, but must meet all other prerequisites. They can select their bonus feat from among the following: Body Shield, Bushwhack, Chokehold, Defensive Kinetic Proficiency, Dirty Fighting, Dirty Grapple, Greater Grapple, Improved Grapple, Improved Kinetic Pin, Improved Kinetic Proficiency, Kinetic Proficiency, Kraken Style, Kraken Throttle, Kraken Wrack, Kinetic Coils, Pinning Knockout, Pinning Rend, Rapid Grappler, Sleeper Hold, Snapping Turtle Clutch, Snapping Turtle Shell, Snapping Turtle Style, Snoutgrip, Stout Deterrent, Stout Maneuvers, Unfair Grip, Weapon Focus (kinetic blast or grapple). They can use kinetic blasts in place of unarmed strikes for any feat in this list.
+## Grappling Utility (Ex)
+
+At 2nd level and every 4 levels thereafter, the energy roper can choose to gain a bonus feat in place of a utility wild talent. They use their energy roper level in place of their BAB to meet the requirements of bonus feats gained this way, but must meet all other prerequisites. They can select their bonus feat from among the following: Body Shield, Bushwhack, Chokehold, Defensive Kinetic Proficiency, Dirty Fighting, Dirty Grapple, Greater Grapple, Improved Grapple, Improved Kinetic Pin, Improved Kinetic Proficiency, Kinetic Proficiency, Kraken Style, Kraken Throttle, Kraken Wrack, Kinetic Coils, Pinning Knockout, Pinning Rend, Rapid Grappler, Sleeper Hold, Snapping Turtle Clutch, Snapping Turtle Shell, Snapping Turtle Style, Snoutgrip, Stout Deterrent, Stout Maneuvers, Unfair Grip, Weapon Focus (kinetic blast or grapple). They can use kinetic blasts in place of unarmed strikes for any feat in this list.
 
 This alters the utility wild talents gained at 2nd, 6th, 10th, 14th, and 18th level.
 
-**Elemental Grip (Su):** The energy roper does not receive a bonus to their damage rolls or a chance to ignore the effects of critical hits or sneak attacks from their elemental overflow ability. They instead gain a bonus to their CMB to initiate and maintain a grapple equal to twice their elemental overflow’s attack roll bonus, and creatures currently grappled by them receive a penalty to attack rolls and saving throws against the energy roper equal to the energy roper’s attack roll bonus from elemental overflow.
+## Elemental Grip (Su)
+
+The energy roper does not receive a bonus to their damage rolls or a chance to ignore the effects of critical hits or sneak attacks from their elemental overflow ability. They instead gain a bonus to their CMB to initiate and maintain a grapple equal to twice their elemental overflow’s attack roll bonus, and creatures currently grappled by them receive a penalty to attack rolls and saving throws against the energy roper equal to the energy roper’s attack roll bonus from elemental overflow.
 
 This ability alters elemental overflow.
 
-**Powerful Tendrils (Ex):** At 5th level, the energy roper gains Kinetic Clutches as a bonus feat, ignoring its prerequisites. If they already possess Kinetic Clutches, they can instead gain a bonus feat as if through their grappling utility ability. In addition, they can use kinetic blasts and gather energy even while grappling a creature so long as they have at least one hand free, and they reduce the burn cost of a kinetic blast by 1 when they confirm a critical with it (to a minimum of 0; this effect stacks with other effects which reduce burn cost).
+## Powerful Tendrils (Ex)
+
+At 5th level, the energy roper gains Kinetic Clutches as a bonus feat, ignoring its prerequisites. If they already possess Kinetic Clutches, they can instead gain a bonus feat as if through their grappling utility ability. In addition, they can use kinetic blasts and gather energy even while grappling a creature so long as they have at least one hand free, and they reduce the burn cost of a kinetic blast by 1 when they confirm a critical with it (to a minimum of 0; this effect stacks with other effects which reduce burn cost).
 
 This replaces the infusion gained at 5th level and infusion specialization 1.
 
-**Energy Roper Talents:** At 9th, 13th, and 17th levels, the energy roper can select one of the following abilities:
+## Energy Roper Talents
+
+At 9th, 13th, and 17th levels, the energy roper can select one of the following abilities:
 
 - **Advanced Kinetic Pin (Sp):** By accepting 1 additional point of burn as part of a Kinetic Pin used as a standard action, the energy roper can instead attempt to deal ¼ their blast’s damage to each creature they are currently grappling. A single combat maneuver roll is made at a -10 penalty and applied against each grappled creature’s CMD individually, and the grapple is successfully maintained against all creatures this combat maneuver succeeds against. The energy roper must be 13th level to select this roper talent.
 - **Around the World (Sp):** When the energy roper successfully trips a creature with their kinetic tendril infusion, they can treat it as if they’d used the Spinning Throw feat, with the Ki Throw and Improved Ki Throw feats, as a move action. By accepting 1 point of burn, the energy roper deals ¼ their kinetic blast’s damage as additional bludgeoning damage against each creature successfully bull rushed by this talent. The energy roper must possess the sweep roper talent to select this roper talent.
@@ -58,11 +68,15 @@ This replaces the infusion gained at 5th level and infusion specialization 1.
 
 This replaces metakinesis (maximize, quicken, and twice).
 
-**Suregrip (Ex):** At 11th level, when using a weapon with the grappling property (including their kinetic blast), the energy roper only needs to threaten a critical to be allowed a free grapple attempt, rather than confirm it, and if they threaten a critical with a kinetic blast, they receive a +2 bonus to DCs of any substance infusions applied to it. At 17th level, the energy roper only needs to hit with a grappling weapon to get a free grapple attempt.
+## Suregrip (Ex)
+
+At 11th level, when using a weapon with the grappling property (including their kinetic blast), the energy roper only needs to threaten a critical to be allowed a free grapple attempt, rather than confirm it, and if they threaten a critical with a kinetic blast, they receive a +2 bonus to DCs of any substance infusions applied to it. At 17th level, the energy roper only needs to hit with a grappling weapon to get a free grapple attempt.
 
 This replaces infusion specialization 3 and infusion specialization 5.
 
-**Tetherlord (Sp):** At 20th level, the energy roper has mastered their ability to bind others in their kinetic tendrils. The cumulative penalty to combat maneuvers to initiate or maintain grapples imposed by their own feats and abilities, including the -4 penalty to initiate or maintain a grapple with one hand and the -10 penalty to tie up a grappled target, is reduced by 3 plus an additional 1 for each point of burn they possess (penalties imposed by other creatures’ abilities are not reduced this way).
+## Tetherlord (Sp)
+
+At 20th level, the energy roper has mastered their ability to bind others in their kinetic tendrils. The cumulative penalty to combat maneuvers to initiate or maintain grapples imposed by their own feats and abilities, including the -4 penalty to initiate or maintain a grapple with one hand and the -10 penalty to tie up a grappled target, is reduced by 3 plus an additional 1 for each point of burn they possess (penalties imposed by other creatures’ abilities are not reduced this way).
 In addition, the energy roper selects one substance infusion wild talent they possess, which can be either universal or of their primary element and up to 2nd level, and which does not require them to attempt a combat maneuver. They reduce its burn cost to 0 and can use it without it counting against the normal limit of 1 substance infusion per blast (though it can only be applied once per blast).
 
 This ability replaces omnikinesis.

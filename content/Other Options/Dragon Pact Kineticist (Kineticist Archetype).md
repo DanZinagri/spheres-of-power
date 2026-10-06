@@ -8,7 +8,9 @@ parent: "[[Other Options]]"
 
 Of the many sources assumed to provide kinetic power, one of the least understood is the influence dragons have in awakening these abilities. Draconic involvement isn’t as random or altruistic as most would assume though, as dragons are nothing if not enterprising in their involvement in mortal affairs. Some dragons use pacts to draw individuals into their labyrinthine schemes, toying with their pact bound, while others simply see it as an investment and often forget about it the moment the pact is sealed. The power that dragons bestow does always include one very important constant; it always has a cost.
 
-**Draconic Pact (Ex):** The powers of a dragon pact kineticist are forged through the pact made with a true dragon of very old age or older, requiring both parties to agree on terms. Some dragon pact kineticists seek out such pacts, while others are born into them without any knowledge (this decision should be left up to the player to decide upon). This pact bestows the dragon with the ability to always be aware of their benefactor’s locations and actions, although most dragons rarely intercede in the affairs of their chosen pact bound, instead allowing them to do as they wish.
+## Draconic Pact (Ex)
+
+The powers of a dragon pact kineticist are forged through the pact made with a true dragon of very old age or older, requiring both parties to agree on terms. Some dragon pact kineticists seek out such pacts, while others are born into them without any knowledge (this decision should be left up to the player to decide upon). This pact bestows the dragon with the ability to always be aware of their benefactor’s locations and actions, although most dragons rarely intercede in the affairs of their chosen pact bound, instead allowing them to do as they wish.
 
 The dragon itself simply bestows the potential upon their pact bound, and the powers that manifest because of it are entirely the choice of the pact bound. It is not uncommon to see a red dragon with a number of pact bound toxikineticists or geokineticists, and dragons often encourage such deviation. The details of how such a pact is formed are best left up for the GM to decide, although it should require at least 7 days and a tribute of 500 gold per character level the pact bound possesses. This should only be used for characters whose pact has been broken and are searching for another; any character taking this archetype is assumed to have a pact in effect, even if they are unaware of it. This does allow a character to take this archetype after character creation though, replacing any other kineticist archetype the character may possess.
 
@@ -23,7 +25,9 @@ The following dragons correspond to the following energy types:
 
 Players can select other types of dragons to form pacts with at the GM’s discretion, although the dragon should have an associated energy type for the skin of the dragon and draconic fusion class features.
 
-**Draconic Aspect I (Su):** At 1st level, a dragon pact kineticist must select one aspect of the dragon, gaining abilities based on their choice:
+## Draconic Aspect I (Su)
+
+At 1st level, a dragon pact kineticist must select one aspect of the dragon, gaining abilities based on their choice:
 
 - **Breath of the Dragon:** A breath aspect dragon pact kineticist gains either draconic breath (cone) and draconic breath (line) form infusions, reducing its burn cost by 1.
 
@@ -54,7 +58,9 @@ A dragon pact kineticist cannot use their kinetic blast without applying either 
 
 This ability alters kinetic blast and replaces the 1st-level infusion.
 
-**Draconic Defense (Su):** At 2nd level, a dragon pact kineticist gains the following defensive wild talent:
+## Draconic Defense (Su)
+
+At 2nd level, a dragon pact kineticist gains the following defensive wild talent:
 
 > **Skin of the Dragon**
 > **Element(s)** universal; **Type** defensive (Su); **Level** —; **Burn** 0
@@ -63,7 +69,9 @@ This ability alters kinetic blast and replaces the 1st-level infusion.
 
 This ability replaces elemental defense.
 
-**Draconic Aspect II (Su):** At 7th level, a dragon pact kineticist gains the following abilities based on which aspect of the dragon was selected in addition to an infusion or utility wild talent:
+## Draconic Aspect II (Su)
+
+At 7th level, a dragon pact kineticist gains the following abilities based on which aspect of the dragon was selected in addition to an infusion or utility wild talent:
 
 - **Breath of the Dragon:** A dragon pact kineticist can increase the burn cost of draconic breath (cone) or draconic breath (line) form infusions by 2 to increase their area of effect by either 15 feet for draconic breath (cone) or 30 feet for draconic breath (line). They also gain the following composite blast (if the dragon pact kineticist does not have a physical blast, they gain this composite blast if they later gain one):
 
@@ -92,7 +100,9 @@ Both aspects of the dragon pact kineticist gain the following composite blast:
 
 This ability replaces the 7th-level expanded element.
 
-**Draconic Flight (Su):** At 8th level, a dragon pact kineticist gains the following utility wild talent:
+## Draconic Flight (Su)
+
+At 8th level, a dragon pact kineticist gains the following utility wild talent:
 
 > **Wings of the Dragon**
 > **Element(s)** universal; **Type** utility (Su); **Level** 4; **Burn** —
@@ -101,11 +111,15 @@ This ability replaces the 7th-level expanded element.
 
 This ability replaces the 8th-level utility wild talent.
 
-**Expanded Element (Su):** At 10th level, a dragon pact kineticist gains the expanded element class feature.
+## Expanded Element (Su)
+
+At 10th level, a dragon pact kineticist gains the expanded element class feature.
 
 This ability replaces the 10th-level utility wild talent.
 
-**Draconic Aspect III (Su):** At 15th level, a dragon pact kineticist gain the following abilities based on which aspect of the dragon was selected in addition to an infusion or utility wild talent:
+## Draconic Aspect III (Su)
+
+At 15th level, a dragon pact kineticist gain the following abilities based on which aspect of the dragon was selected in addition to an infusion or utility wild talent:
 
 - **Breath of the Dragon:** A dragon pact kineticist can increase the burn cost of draconic breath (cone) or draconic breath (line) form infusions by 4 to increase their area of effect by either 45 feet for draconic breath (cone) or 90 feet for draconic breath (line).
 - **Form of the Dragon:** A dragon pact kineticist treats their tail slap as a primary attack, and all of their natural attacks gained from this archetype have their critical range doubled. This increase does not stack with any other increase to critical range.
@@ -116,7 +130,9 @@ A dragon pact kineticist can also select the elemental eater utility wild talent
 
 This ability replaces the 15th-level expanded element.
 
-**Pact Unbound (Su):** At 20th level, a dragon pact kineticist has mastered the power bestowed upon them, and is no longer bound by the terms of their pact. They gain the benefits of Draconic Aspect I, II, and III for whichever aspect they did not select as well as gaining immunity to the energy type of their dragon pact.
+## Pact Unbound (Su)
+
+At 20th level, a dragon pact kineticist has mastered the power bestowed upon them, and is no longer bound by the terms of their pact. They gain the benefits of Draconic Aspect I, II, and III for whichever aspect they did not select as well as gaining immunity to the energy type of their dragon pact.
 
 Dragons rarely like to let a dragon pact reach this level of power, and will often engineer the dragon pact kineticist’s downfall before they can reach such a point.
 

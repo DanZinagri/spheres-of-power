@@ -2076,6 +2076,28 @@ def normalize_formatting(md: str) -> str:
     return md
 
 
+NOT_FEATURES = {"wiki note", "note", "notes", "special", "source", "prerequisite", "prerequisites",
+                "benefit", "normal", "example", "author's note", "designer's note"}
+PLAIN_FEATURES = r"Proficiencies|Weapon and Armor Proficiency|Casting|Spell Pool|Skills|Class Skills|Alignment"
+
+
+def feature_headings(lines: list[str]) -> list[str]:
+    """'**Combat Training (Ex):** text' (or a plain 'Proficiencies: text') at the start of a
+    paragraph -> '## Combat Training (Ex)' followed by the text as its own paragraph."""
+    out = []
+    for i, l in enumerate(lines):
+        starts = i == 0 or not lines[i - 1].strip()
+        m = (re.match(r"\*\*([^*\n]+?):\*\*[ \t]*(.*)$", l) or re.match(rf"({PLAIN_FEATURES}):[ \t]+(.*)$", l)
+             or re.match(r"\*\*([^*\n]+?)\*\*()[ \t]*$", l))  # a feature name on its own bold line
+        if starts and m and m.group(1).strip().lower().replace("’", "'") not in NOT_FEATURES:
+            out += [f"## {m.group(1).strip()}", ""]
+            if m.group(2).strip():
+                out.append(m.group(2))
+            continue
+        out.append(l)
+    return out
+
+
 def normalize_heading_levels() -> int:
     """Pass over the written pages so the same kind of page uses the same heading sizes:
     - a first heading that just repeats the page title (Quartz shows the title) goes;
@@ -2097,6 +2119,10 @@ def normalize_heading_levels() -> int:
         if title and first is not None and (m := re.match(r"#{1,6} (.+)$", lines[first])) \
                 and norm(m.group(1)) == norm(title.group(1)):
             del lines[first]
+        # archetypes written as "**Feature (Ex):** text" paragraphs get feature headings like the rest
+        if "Archetype" in f.stem and f.stem != "Archetype Rules" \
+                and sum(1 for l in lines if re.match(r"#{1,6} ", l)) < 2:
+            lines = feature_headings(lines)
         levels = [len(m.group(1)) for l in lines if (m := re.match(r"(#{1,6}) ", l))]
         delta = 0
         if levels and "Archetype" in f.stem:

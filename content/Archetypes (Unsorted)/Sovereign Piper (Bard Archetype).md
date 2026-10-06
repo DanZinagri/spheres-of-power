@@ -9,30 +9,46 @@ updated: 2019-08-15
 
 Entertainers to high nobility during times of peace, and pipe majors during times of conflict, a sovereign piper does not shirk at the opportunity to step up as a leader and morale booster, becoming an ensign to the troops when they hear the call.
 
-**Proficiencies:** A sovereign piper is proficient with all simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
+## Proficiencies
+
+A sovereign piper is proficient with all simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
 
 This modifies proficiencies.
 
-**Casting:** The sovereign piper may combine spheres and talents to create magical effects. The sovereign is considered a Mid-caster and uses Charisma as his casting ability modifier. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
+## Casting
+
+The sovereign piper may combine spheres and talents to create magical effects. The sovereign is considered a Mid-caster and uses Charisma as his casting ability modifier. (Note: All casters gain 2 bonus talents and a casting tradition the first time they gain the casting class feature.)
 
 This replaces the spells class feature.
 
-**Spell Pool:** The sovereign piper gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
+## Spell Pool
 
-**Blended Training (Ex):** A sovereign piper gains a combat or magic talent every time he gains a class level. A sovereign piper uses his casting ability modifier as his practitioner modifier.
+The sovereign piper gains a small reservoir of energy he can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to his level + his casting ability modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
+
+## Blended Training (Ex)
+
+A sovereign piper gains a combat or magic talent every time he gains a class level. A sovereign piper uses his casting ability modifier as his practitioner modifier.
 
 This replaces well-versed, suggestion, and jack of all trades.
 
-**Masterpiece Hymnal:** Whenever, the sovereign piper would gain a magic talent from his class levels (not including any bonus talents gained from other class features, such as the 2 talents gained when first gaining the casting class feature), he may instead gain a masterpiece as if sacrificing a spell known. As always, to determine the effective spell level of sphere talents and abilities, simply divide his caster level by 2, and round down.
+## Masterpiece Hymnal
 
-**Art of War:** A sovereign piper gains the War sphere as a bonus magic talent. The sovereign piper uses his class level as his caster level with the War sphere. This stacks normally with caster levels from other sources.
+Whenever, the sovereign piper would gain a magic talent from his class levels (not including any bonus talents gained from other class features, such as the 2 talents gained when first gaining the casting class feature), he may instead gain a masterpiece as if sacrificing a spell known. As always, to determine the effective spell level of sphere talents and abilities, simply divide his caster level by 2, and round down.
+
+## Art of War
+
+A sovereign piper gains the War sphere as a bonus magic talent. The sovereign piper uses his class level as his caster level with the War sphere. This stacks normally with caster levels from other sources.
 
 This replaces bardic knowledge.
 
-**Martial Lore:** At 1st level the sovereign piper gains the Warleader sphere as a bonus combat talent. At 5th, 10th, and 15th level, the sovereign piper gains an additional bonus talent from the Warleader sphere.
+## Martial Lore
+
+At 1st level the sovereign piper gains the Warleader sphere as a bonus combat talent. At 5th, 10th, and 15th level, the sovereign piper gains an additional bonus talent from the Warleader sphere.
 
 This replaces fascinate and lore master.
 
-**Enduring Motivation:** Beginning at 18th level, while wielding a wind instrument, all non-instantaneous masterpieces, performances, rallies, shouts, tactics, and totems last 2 additional rounds after their duration would normally end.
+## Enduring Motivation
+
+Beginning at 18th level, while wielding a wind instrument, all non-instantaneous masterpieces, performances, rallies, shouts, tactics, and totems last 2 additional rounds after their duration would normally end.
 
 This replaces mass suggestion.

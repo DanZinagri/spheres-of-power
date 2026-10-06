@@ -10,19 +10,27 @@ parent: "[[Spheres Of Might]]"
 
 Coiled blades are mighty vanguards, leaping into battle and growing strong on the ebb and flow of violence. Regardless of their broader motivations, coiled blades revel in the thrill of combat, only truly coming alive when their life is on the line and their skills can be put to the test.
 
-**Martial Tradition:** Coiled blades are expert warriors who train in a variety of martial traditions. At 1st level, the coiled blade gains a martial tradition as long as he has not gained one from another source.
+## Martial Tradition
 
-**Combat Training (Ex):** A coiled blade is considered an Expert practitioner, gaining spheres and talents as appropriate. Coiled blades choose whether to use Charisma, Intelligence, or Wisdom as their practitioner modifier when they first gain the combat training class feature.
+Coiled blades are expert warriors who train in a variety of martial traditions. At 1st level, the coiled blade gains a martial tradition as long as he has not gained one from another source.
+
+## Combat Training (Ex)
+
+A coiled blade is considered an Expert practitioner, gaining spheres and talents as appropriate. Coiled blades choose whether to use Charisma, Intelligence, or Wisdom as their practitioner modifier when they first gain the combat training class feature.
 
 This replaces the bonus feats gained at 1st, 4th, 8th, 12th, 16th, and 20th level.
 
-**Coiled Might (Ex):** Starting at 3rd level, the coiled blade gains tension, as the [[Striker|striker]] class feature, with the following modifications:
+## Coiled Might (Ex)
+
+Starting at 3rd level, the coiled blade gains tension, as the [[Striker|striker]] class feature, with the following modifications:
 
 - **Offensive Pressure:** Whenever the coiled blade successfully damages a creature with a weapon from one of his weapon training groups, he gains 1 tension.
 
 The coiled blade’s tension goes up or down throughout the day, but usually cannot go higher than his practitioner modifier (minimum 1), though some feats, abilities, and magic items may affect this maximum. At 4th level and every three levels afterward, his maximum tension increases by 1. This works in all other ways as the striker’s tension class feature, including gaining the defensive determination and maneuvering momentum tension building options.
 
-**Tension Techniques:** From 3rd level on, the coiled blade gains access to the following tension techniques, as the [[Striker|striker]] class feature:
+## Tension Techniques
+
+From 3rd level on, the coiled blade gains access to the following tension techniques, as the [[Striker|striker]] class feature:
 
 *1 Tension*
 

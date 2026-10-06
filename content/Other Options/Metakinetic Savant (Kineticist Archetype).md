@@ -8,7 +8,9 @@ parent: "[[Other Options]]"
 
 While most kineticists who possess the gift of metakinesis will only use it to emulate certain techniques, the metakinetic savant has learned how to morph their kinetic blasts in more unique and often unexpected ways.
 
-**Metakinetic Feats:** At 5th level and every 4 levels thereafter, the metakinetic savant can choose a metamagic feat as a bonus feat in place of learning the metakinesis they would normally gain at that level; this metamagic feat cannot increase the level of a spell by more than the amount of burn they would have spent on the metakinesis (for example, they cannot replace metakinesis (empower) with a metamagic feat which increases a spell’s level by more than 1), and they must still meet its prerequisites as normal. They can apply this metamagic feat to any kinetic blast as if the blast was a spell by increasing the kinetic blast’s burn cost by the amount by which the metamagic would increase a spell’s level. For this purpose, they treat their kinetic blasts as the following schools, subschools, and descriptors to determine if a metamagic feat could affect it:
+## Metakinetic Feats
+
+At 5th level and every 4 levels thereafter, the metakinetic savant can choose a metamagic feat as a bonus feat in place of learning the metakinesis they would normally gain at that level; this metamagic feat cannot increase the level of a spell by more than the amount of burn they would have spent on the metakinesis (for example, they cannot replace metakinesis (empower) with a metamagic feat which increases a spell’s level by more than 1), and they must still meet its prerequisites as normal. They can apply this metamagic feat to any kinetic blast as if the blast was a spell by increasing the kinetic blast’s burn cost by the amount by which the metamagic would increase a spell’s level. For this purpose, they treat their kinetic blasts as the following schools, subschools, and descriptors to determine if a metamagic feat could affect it:
 
 - **Air** - Conjuration (creation) [air]
 - **Autumn** - Conjuration (creation) [earth]
@@ -46,13 +48,19 @@ This ability cannot be used to select the following metamagic feats to replace m
 
 This ability alters and replaces metakinesis.
 
-**Metakinetic Expansion (Ex):** A metakinetic savant can select Expanded MetakinesisMTT starting at 1st level, ignoring its prerequisites. Starting from 5th level, the metakinetic savant can select any metamagic feat for Expanded Metakinesis that increases a spell’s effective level by 1 or less in addition to the metamagic feats normally available for Expanded Metakinesis when gaining this feat. They cannot select a metamagic feat through it that they’ve selected with their metakinetic feats class ability or vice versa, nor can they select any metamagic feat which cannot be selected through their metakinetic feats ability.
+## Metakinetic Expansion (Ex)
 
-**Metakinetic Buffer (Su):** A metakinetic savant’s internal buffer is doubled in size and multiple points can be spent per round from it on the same wild talent, but points from their internal buffer can only be spent to avoid accepting burn added to a kinetic blast’s cost from applying metakinesis or a metakinetic feat.
+A metakinetic savant can select Expanded MetakinesisMTT starting at 1st level, ignoring its prerequisites. Starting from 5th level, the metakinetic savant can select any metamagic feat for Expanded Metakinesis that increases a spell’s effective level by 1 or less in addition to the metamagic feats normally available for Expanded Metakinesis when gaining this feat. They cannot select a metamagic feat through it that they’ve selected with their metakinetic feats class ability or vice versa, nor can they select any metamagic feat which cannot be selected through their metakinetic feats ability.
+
+## Metakinetic Buffer (Su)
+
+A metakinetic savant’s internal buffer is doubled in size and multiple points can be spent per round from it on the same wild talent, but points from their internal buffer can only be spent to avoid accepting burn added to a kinetic blast’s cost from applying metakinesis or a metakinetic feat.
 
 This ability alters internal buffer.
 
-**Advanced Metakinetic Master (Su):** At 16th level, the metakinetic savant’s metakinesis and metakinetic feats increase the burn cost of kinetic blasts they are applied to by 1 less burn. If multiple metakinesis and/or metakinetic feats are applied to a single blast, this effect does not stack.
+## Advanced Metakinetic Master (Su)
+
+At 16th level, the metakinetic savant’s metakinesis and metakinetic feats increase the burn cost of kinetic blasts they are applied to by 1 less burn. If multiple metakinesis and/or metakinetic feats are applied to a single blast, this effect does not stack.
 
 This ability replaces metakinetic master.
 

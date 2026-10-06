@@ -8,19 +8,29 @@ parent: "[[Other Options]]"
 
 The source of a kineticist’s power can come from many sources, and some are far less respectable than others. When one’s power fails to fully manifest, some kineticists can search for more devious sources to unlock their true strength, summoning forth the power of the lower planes. These dread souls form agreements with the denizens of evil to empower themselves beyond mortal means, selling their souls for true power.
 
-**Alignment:** A dread soul cannot be of good alignment.
+## Alignment
 
-**Aura of Evil (Ex):** The power of a dread soul’s aura of evil (see the *detect good* spell) is equal to their dread soul level, even if they are not themselves evil, being treated as though their alignment was evil for the purposes of spells and other abilities that are dependant on their alignment.
+A dread soul cannot be of good alignment.
 
-**Damned Loyalty (Ex):** When a dread soul is killed, their soul is instantly claimed by the lower planes. In time, the dread soul’s soul is transformed into an evil outsider appropriate to the greatest sins the dread soul gloried in while they lived. A lawful dread soul must swear themselves to devils, a chaotic dread soul must swear themselves to demons, and a true neutral or neutral evil dread soul must swear themselves to daemons.
+## Aura of Evil (Ex)
+
+The power of a dread soul’s aura of evil (see the *detect good* spell) is equal to their dread soul level, even if they are not themselves evil, being treated as though their alignment was evil for the purposes of spells and other abilities that are dependant on their alignment.
+
+## Damned Loyalty (Ex)
+
+When a dread soul is killed, their soul is instantly claimed by the lower planes. In time, the dread soul’s soul is transformed into an evil outsider appropriate to the greatest sins the dread soul gloried in while they lived. A lawful dread soul must swear themselves to devils, a chaotic dread soul must swear themselves to demons, and a true neutral or neutral evil dread soul must swear themselves to daemons.
 
 Any character attempting to resurrect a slain dread soul must succeed at a caster level check equal to 10 + the dread soul’s level or the spell fails. That character cannot attempt to resurrect the dread soul again until the following day, though other characters can attempt to do so if they please.
 
-**Evil Blast (Su):** At 1st level, a dread soul’s kinetic blasts are treated as though they had the aligned infusion wild talent applied to them, although they can only select evil as the alignment of the infusion. Evil blast’s application of aligned infusion doesn’t count toward the limit of substance infusions per kinetic blast. This does not increase the burn cost of their blast.
+## Evil Blast (Su)
+
+At 1st level, a dread soul’s kinetic blasts are treated as though they had the aligned infusion wild talent applied to them, although they can only select evil as the alignment of the infusion. Evil blast’s application of aligned infusion doesn’t count toward the limit of substance infusions per kinetic blast. This does not increase the burn cost of their blast.
 
 This ability replaces the infusion gained at 1st level.
 
-**Fiendish Form (Su):** At 2nd level, a dread soul gains the following elemental defense:
+## Fiendish Form (Su)
+
+At 2nd level, a dread soul gains the following elemental defense:
 
 > **Flesh of the Fallen**
 > **Element(s)** universal; **Type** defensive (Sp); **Level** —; **Burn** 0
@@ -35,15 +45,21 @@ This ability replaces the infusion gained at 1st level.
 
 This ability replaces elemental defense.
 
-**Damning Drain (Sp):** At 5th level, a dread soul learns to sap the soul out of others, forcing them to accept burn in their stead. As part of using any wild talent for which a dread soul must accept burn (excluding defense wild talents), they can target a living intelligent creature (Intelligence of 3 or higher) within 30 ft., forcing them to make a Will save (DC = 10 + ½ their dread soul level + their Constitution modifier) or else be forced to accept 1 point of burn, reducing the amount of burn a dread soul must accept when using the wild talent by 1. Good creatures receive a -1 penalty to these saves, while evil creatures receive a +1 circumstance bonus to them. At 11th level a dread soul can force a creature to accept up to 2 points of burn from a wild talent they use, and at 17th this increases to 3. This effect cannot be used to force a creature to accept more burn than is required to reduce the wild talent’s burn cost to 0. If the target succeeds this save, the dread soul must accept the burn as normal, as well as being staggered until the end of their next round. A willing conscious creature may choose not to save against this effect. Burn a dread soul forces a target to accept counts against their daily and per-round burn limits.
+## Damning Drain (Sp)
+
+At 5th level, a dread soul learns to sap the soul out of others, forcing them to accept burn in their stead. As part of using any wild talent for which a dread soul must accept burn (excluding defense wild talents), they can target a living intelligent creature (Intelligence of 3 or higher) within 30 ft., forcing them to make a Will save (DC = 10 + ½ their dread soul level + their Constitution modifier) or else be forced to accept 1 point of burn, reducing the amount of burn a dread soul must accept when using the wild talent by 1. Good creatures receive a -1 penalty to these saves, while evil creatures receive a +1 circumstance bonus to them. At 11th level a dread soul can force a creature to accept up to 2 points of burn from a wild talent they use, and at 17th this increases to 3. This effect cannot be used to force a creature to accept more burn than is required to reduce the wild talent’s burn cost to 0. If the target succeeds this save, the dread soul must accept the burn as normal, as well as being staggered until the end of their next round. A willing conscious creature may choose not to save against this effect. Burn a dread soul forces a target to accept counts against their daily and per-round burn limits.
 
 This ability replaces infusion specialization 1, 3, and 5.
 
-**Evil Soul (Su):** At 6th level, a dread soul increases the total amount of burn they may accept per day by 1. This increases again at 11th level, and a third time at 16th (allowing a dread soul to accept up to 6 + Con burn per day).
+## Evil Soul (Su)
+
+At 6th level, a dread soul increases the total amount of burn they may accept per day by 1. This increases again at 11th level, and a third time at 16th (allowing a dread soul to accept up to 6 + Con burn per day).
 
 This ability replaces internal buffer.
 
-**Blessing of the Beast (Ex):** At 7th level, a dread soul can select a second element for their flesh of the fallen wild talent to defend against, although they only gain resistance equal to two times their natural armor bonus against that element. They also gain a circumstance bonus to Intimidate checks equal to their natural armor bonus.
+## Blessing of the Beast (Ex)
+
+At 7th level, a dread soul can select a second element for their flesh of the fallen wild talent to defend against, although they only gain resistance equal to two times their natural armor bonus against that element. They also gain a circumstance bonus to Intimidate checks equal to their natural armor bonus.
 
 A dread soul also gains the following infusion:
 
@@ -56,15 +72,21 @@ A dread soul also gains the following infusion:
 
 This ability replaces the expanded element gained at 7th level.
 
-**Sinful Soul (Su):** At 9th level, a dread soul can pour their dark powers into their kinetic abilities, more easily searing their enemies’ spirits. A number of times per day equal to their Constitution modifier, a dread soul using their damning drain ability can force a creature to make two Will saves instead of one; it must succeed both saves to avoid damning drain’s effects.
+## Sinful Soul (Su)
+
+At 9th level, a dread soul can pour their dark powers into their kinetic abilities, more easily searing their enemies’ spirits. A number of times per day equal to their Constitution modifier, a dread soul using their damning drain ability can force a creature to make two Will saves instead of one; it must succeed both saves to avoid damning drain’s effects.
 
 This ability replaces metakinesis (maximize).
 
-**Expanded Element (Su):** At 10th level, a dread soul gains the expanded element class feature.
+## Expanded Element (Su)
+
+At 10th level, a dread soul gains the expanded element class feature.
 
 This ability replaces the utility wild talent gained at 10th level.
 
-**Soul Ravage (Sp):** At 15th level, a dread soul adds the following two infusions to the list of wild talents they can select, gaining one instantly:
+## Soul Ravage (Sp)
+
+At 15th level, a dread soul adds the following two infusions to the list of wild talents they can select, gaining one instantly:
 
 > **Soul Burning Infusion, Improved**
 > **Element(s)** universal; **Type** substance infusion; **Level** 8; **Burn** 4
@@ -86,10 +108,14 @@ In addition, a dread soul’s kinetic blasts receive a +1 bonus to attack and da
 
 This ability replaces the expanded element gained at 15th level.
 
-**Soul-Damning Specialization (Su):** At 16th level, the dread soul is more efficient at damaging and enslaving souls. The cost to apply soul burning infusion, improved soul burning infusion, and soul entrapment infusion to your kinetic blast is reduced by 1 burn each. In addition, when using damning drain with a kinetic blast to which any of these infusions is applied, the target only adds half their Wisdom modifier to their Will save against the effects of the infusions.
+## Soul-Damning Specialization (Su)
+
+At 16th level, the dread soul is more efficient at damaging and enslaving souls. The cost to apply soul burning infusion, improved soul burning infusion, and soul entrapment infusion to your kinetic blast is reduced by 1 burn each. In addition, when using damning drain with a kinetic blast to which any of these infusions is applied, the target only adds half their Wisdom modifier to their Will save against the effects of the infusions.
 
 This ability replaces composite specialization.
 
-**Master of Damnation (Su):** At 20th level, a dread soul’s dark might rivals the evil creatures to which they’ve sworn their soul, becoming a master at leaving spiritual wounds upon their foes. The dread soul can now use their sinful soul ability a number of times per day equal to two times their Constitution modifier. In addition, burn they force creatures to accept through using damning drain no longer counts against their daily burn limit.
+## Master of Damnation (Su)
+
+At 20th level, a dread soul’s dark might rivals the evil creatures to which they’ve sworn their soul, becoming a master at leaving spiritual wounds upon their foes. The dread soul can now use their sinful soul ability a number of times per day equal to two times their Constitution modifier. In addition, burn they force creatures to accept through using damning drain no longer counts against their daily burn limit.
 
 This ability replaces omnikinesis.

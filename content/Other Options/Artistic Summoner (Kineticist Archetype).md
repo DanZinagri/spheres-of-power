@@ -8,31 +8,47 @@ parent: "[[Other Options]]"
 
 Some kineticists consider what they do to be art, forming the elements however they wish in a beautiful combination of raw power and elegant design. But others wish to take this further, creating art with every attack they attempt, their skills and abilities with intricate designs beyond all that their fellows can accomplish, even summoning forth incredible creations to do so.
 
-**Elemental Focus (Ex):** An artistic summoner must select water or wood as their elemental focus.
+## Elemental Focus (Ex)
 
-**Art Blast (Sp):** Unlike other kineticists, an artistic summoner’s talent lies within their most basic of abilities, flowing through them and assaulting opponents. An artistic summoner who selects water must choose water blast, and their blast is composed of ink rather than water. An artistic summoner who selects wood has their wood blast composed of paper rather than wood, and can apply the oil infusion to it.
+An artistic summoner must select water or wood as their elemental focus.
+
+## Art Blast (Sp)
+
+Unlike other kineticists, an artistic summoner’s talent lies within their most basic of abilities, flowing through them and assaulting opponents. An artistic summoner who selects water must choose water blast, and their blast is composed of ink rather than water. An artistic summoner who selects wood has their wood blast composed of paper rather than wood, and can apply the oil infusion to it.
 
 This ability alters kinetic blast and replaces the basic utility wild talent a kineticist would normally gain upon selecting their elemental focus.
 
-**Oil Blast (Su):** At 1st level, an artistic summoner gains the oil infusion, reducing its burn cost by 1 when applied to a water or wood blast. When applied to a water or wood blast, this infusion does not count against the limit of substance infusions that can be applied to a blast.
+## Oil Blast (Su)
+
+At 1st level, an artistic summoner gains the oil infusion, reducing its burn cost by 1 when applied to a water or wood blast. When applied to a water or wood blast, this infusion does not count against the limit of substance infusions that can be applied to a blast.
 
 This ability replaces the infusion gained at 1st level.
 
-**Sculpting Talent (Ex):** The artistic summoner treats fire sculptorOA, gravity sculptor, ice sculptorOA, shape woodOO, and stone sculptorOA as universal wild talents.
+## Sculpting Talent (Ex)
 
-**Art Summoner (Sp):** At 2nd level, as a full-round action an artistic summoner can summon forth a piece of paper, either painting a monster upon it (if their elemental focus is water) or folding it into a complex form of a monster (if their elemental focus is wood) before bringing it to life in any square within 30 ft. of themselves. Treat this as the summon monster I-IX ability of the summonerAPG (an artistic summoner does not gain access to gate with this ability), except that an artistic summoner uses their Constitution modifier instead of their Charisma modifier to determine how many times they can use this ability.
+The artistic summoner treats fire sculptorOA, gravity sculptor, ice sculptorOA, shape woodOO, and stone sculptorOA as universal wild talents.
+
+## Art Summoner (Sp)
+
+At 2nd level, as a full-round action an artistic summoner can summon forth a piece of paper, either painting a monster upon it (if their elemental focus is water) or folding it into a complex form of a monster (if their elemental focus is wood) before bringing it to life in any square within 30 ft. of themselves. Treat this as the summon monster I-IX ability of the summonerAPG (an artistic summoner does not gain access to gate with this ability), except that an artistic summoner uses their Constitution modifier instead of their Charisma modifier to determine how many times they can use this ability.
 
 Creatures created with this ability are made of either ink or paper, and are treated as neutral aligned constructs for the purposes of spells and effects.
 
 This ability replaces the utility wild talent gained at 2nd, 8th, and 14th level and the expanded element gained at 7th and 15th level.
 
-**Creative Genius (Su):** At 7th level, an artistic summoner gains wood blast or water blast (whichever is not connected to their primary element), although they can only use wood blast as a paper blast and water blast as an ink blast; they do not gain any composite blast from possessing these blasts. As a swift action, they can choose to include a drawing with their kinetic blast. If they do so, treat this as though it had the oil infusion applied to it, as well as allowing the artistic summoner to use their art summoner ability on the target’s square.
+## Creative Genius (Su)
+
+At 7th level, an artistic summoner gains wood blast or water blast (whichever is not connected to their primary element), although they can only use wood blast as a paper blast and water blast as an ink blast; they do not gain any composite blast from possessing these blasts. As a swift action, they can choose to include a drawing with their kinetic blast. If they do so, treat this as though it had the oil infusion applied to it, as well as allowing the artistic summoner to use their art summoner ability on the target’s square.
 
 This ability replaces the infusion gained at 7th level.
 
-**Artistic Expanded Element (Su):** At 10th level, an art summoner gains the expanded element class feature for either wood or water (whichever they did not select at 1st level), except they do not gain a simple blast from this ability. This ability replaces the wild talent gained at 10th level.
+## Artistic Expanded Element (Su)
 
-**Artistic Composition (Ex):** At 11th level, the artistic summoner can increase the burn cost of a water or wood blast by 2 to deal damage as a composite blast. In addition, they gain access to the following composite blast:
+At 10th level, an art summoner gains the expanded element class feature for either wood or water (whichever they did not select at 1st level), except they do not gain a simple blast from this ability. This ability replaces the wild talent gained at 10th level.
+
+## Artistic Composition (Ex)
+
+At 11th level, the artistic summoner can increase the burn cost of a water or wood blast by 2 to deal damage as a composite blast. In addition, they gain access to the following composite blast:
 
 > **Sculpture Blast**
 > **Element(s)** universal; **Type** composite blast (Sp); **Level** —; **Burn** 2
