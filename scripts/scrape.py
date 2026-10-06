@@ -2115,6 +2115,10 @@ def convert(with_images: bool) -> None:
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
         for heading, label, own_label, tab_md in section_tabs.get(p.slug, []):
             body_md = tab_section(body_md, heading, label, tab_md, own_label)
+        # "| [[Incanter|Incanter Class Features]]" sub-entries for a page now folded into its class
+        for target in section_tabs:
+            body_md = re.sub(rf"^\|[ \t]*\[\[{re.escape(pages[target].filename)}\|[^\]\n]*\]\][ \t]*\n", "",
+                             body_md, flags=re.M)
         body_md = collapse_dividers(body_md)
         if (cells := class_archetype_cells(body_md)):
             # an entry for a page folded into this one (now a link back to itself) goes
