@@ -2188,7 +2188,8 @@ ARCHETYPE_ERRATA = {
     "Tenebrous Stalker": [
         ("append", "Duskwalk (Su)",
          "**Polished Dark errata:** The duskwalk class feature functions within any darkened area, and may be "
-         "used without spending a spell point if the invidian possesses the Traveler's Darkness talent."),
+         "used without spending a spell point if the tenebrous stalker possesses the Traveler's Darkness "
+         "talent."),  # the book says "invidian" here too
     ],
     "Nocturnus (Mesmerist Archetype)": [
         ("replace", "Cripple",

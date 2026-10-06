@@ -49,7 +49,7 @@ At 7th level, the tenebrous stalker gains the ability to travel between shadows.
 
 This replaces elemental movement.
 
-**Polished Dark errata:** The duskwalk class feature functions within any darkened area, and may be used without spending a spell point if the invidian possesses the Traveler's Darkness talent.
+**Polished Dark errata:** The duskwalk class feature functions within any darkened area, and may be used without spending a spell point if the tenebrous stalker possesses the Traveler's Darkness talent.
 
 ## Shadow Master (Su)
 
