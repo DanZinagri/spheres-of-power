@@ -27,9 +27,37 @@ When creating a non-trick glamer you may also grant the effects of a single aegi
 
 #### Body Double (Dual Sphere)
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+Replaced in Polished Dark by **Seeing Shadows (Dual Sphere)** ([[Dark Sphere Feats]]).
+
+**Prerequisites:** Dark sphere, Illusion sphere.
+
+**Benefit:** You gain the following abilities based on the Dark sphere and Illusion sphere talents you possess:
+
+- **Body Double (requires Living Shadow):** When using the lurking shadow option, you may spend 1 spell point to create the shadow lurk as a *glamer*. The shadow lurk shares the target’s space (and does not penalize the target for sharing its space). Whenever the target is attacked or targeted by a single-target effect, there is a 50% chance the shadow lurk is affected instead. A creature with the see in darkness ability or a similar effect only suffers a 25% to target the shadow lurk instead.
+- **Shadow Doppelganger (requires Living Shadow, Illusionary Disguise):** Your shadow lurk is disguised to look and sound like you (or the target), functioning as the Illusionary Disguise option. The shadow lurk can speak in the voice of whomever it is disguised as (and use its languages). A creature that physically interacts with the shadow lurk (physical touch, attacks, etc.) receives a Will saving throw to disbelieve the disguise.
+- **Shadows In Corners:** Figments you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a figment, you may spend 1 spell point to add a *gloom*’s effects to the figment’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 **Prerequisites:** Dark sphere (Shadow Lurk (shadow)), Illusion sphere, ability to create glamers.
 
 **Benefit:** By spending an extra spell point you may summon a single shadow lurk that remains bound to its host, serving as a combat decoy. Every successful attack requiring an attack roll from an opponent that failed to see through the shadow lurk’s disguise has a 50% chance of hitting the shadow lurk instead of the intended target. A shadow lurk acting as a body double does not stun the target if it is destroyed.
+
+</div>
+
+</div>
 
 #### Concealed Command [DbH]
 
@@ -93,9 +121,37 @@ As a free action, you may spend a spell point to allow your shadow companion to 
 
 #### Shade (Dual Sphere)
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+Replaced in Polished Dark by **Seeing Shadows (Dual Sphere)** ([[Dark Sphere Feats]]).
+
+**Prerequisites:** Dark sphere, Illusion sphere.
+
+**Benefit:** You gain the following abilities based on the Dark sphere and Illusion sphere talents you possess:
+
+- **Body Double (requires Living Shadow):** When using the lurking shadow option, you may spend 1 spell point to create the shadow lurk as a *glamer*. The shadow lurk shares the target’s space (and does not penalize the target for sharing its space). Whenever the target is attacked or targeted by a single-target effect, there is a 50% chance the shadow lurk is affected instead. A creature with the see in darkness ability or a similar effect only suffers a 25% to target the shadow lurk instead.
+- **Shadow Doppelganger (requires Living Shadow, Illusionary Disguise):** Your shadow lurk is disguised to look and sound like you (or the target), functioning as the Illusionary Disguise option. The shadow lurk can speak in the voice of whomever it is disguised as (and use its languages). A creature that physically interacts with the shadow lurk (physical touch, attacks, etc.) receives a Will saving throw to disbelieve the disguise.
+- **Shadows In Corners:** Figments you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a figment, you may spend 1 spell point to add a *gloom*’s effects to the figment’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 **Prerequisites:** Dark sphere, Illusion sphere.
 
 **Benefit:** When creating a figment, you may, as part of the same action, create darkness as the base Dark sphere ability. Even if you do not choose to do so, the area occupied by your figments and those under the effects of your glamers counts as being within your darkness.
+
+</div>
+
+</div>
 
 #### Solid Illusions (Dual Sphere)
 

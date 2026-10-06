@@ -31,11 +31,44 @@ parent: "[[Warp]]"
 
 #### Dark Room (Dual Sphere)
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+Replaced in Polished Dark by **Umbral Transposition (Dual Sphere)** ([[Dark Sphere Feats]]).
+
+**Prerequisites:** Dark sphere, Warp sphere.
+
+**Benefit:** You gain the following abilities based on the Dark sphere and Warp sphere talents you possess:
+
+- **Dark Room (requires Extradimensional Room (space)):** When using the Extradimensional Room talent, the entrance is obscured by a *gloom*, which covers the portal’s entrance (you may apply options to this *gloom* normally, paying any additional spell point costs for the *gloom* or its options as appropriate). Creatures inside the room can look outside of the portal unhindered by the *gloom*. If the portal was created within a darkened area, the portal requires a Perception check to spot (as though searching for secret doors). If you possess the insinuate option, you may choose to have the portal obscured by the insinuate option regardless of the area’s light level.
+- **Extradimensional Shadow (requires Extradimensional Storage (space), Shadow Stash):** Your Extradimensional Storage and *shadow stash* becomes a single extradimensional space (instead of separate effects). Add your Extradimensional Storage’s weight limit to your *shadow stash*. This combined extradimensional space is treated as and may be interacted with as though it was both the Extradimensional Storage talent and the *shadow stash* sphere ability, such as using feats like World In Miniature to create elements, donning items with the shadow armory option, and so on. If using the shadow armory option, equipment in your combined extradimensional space resizes to fit your form (if desired). The combined extradimensional storage is treated as both a Dark sphere and Warp sphere effect (whichever is more advantageous for the caster, including using the greater of your Dark and Warp sphere caster levels to determine both talents’ weight capacities).
+- **Shadow Warp (requires Traveler’s Darkness, caster level 5):** Your step through darkness (meld) is treated as a Warp sphere *teleport* effect and may be modified by Warp sphere options that alter how *teleport* functions (but not when the *teleport* is used, such as Imbue Teleport, Recall, or Segmented Warp). If a Warp sphere option would require additional spell points or increase the casting time, the target must spend those spell points or increase the casting time when using step through darkness’s teleportation. If an option incompatible with the Quick Teleport talent would be used with a step through darkness modified this way, the step through darkness effect is used as a standard action (and then modified normally).
+- **Slip Into Darkness:** Whenever you create a *gloom*, you may spend 1 additional spell point to also *teleport* into a square occupied by the *gloom*.
+- **Transpose Gloom (requires Clinging Darkness):** Whenever you would *teleport* while within a *gloom* you created, you may spend 1 additional spell point to move that *gloom*; if you do, the *gloom* is centered on yourself in the square you teleport into.
+- **Yawning Passage (requires Traveler’s Darkness, Wormhole (space)):** You may spend 1 additional spell point when using the Wormhole (space) talent. If you do, the connected wormholes are treated as a single *gloom* with the dark passage (blot) option, creating a single linked blot on the floor of each square. Creatures are entitled to a Reflex saving throw to avoid falling in (as per the dark passage (blot)), with a failure causing the creature to fall into the wormhole, becoming prone in a connected wormhole of the caster’s choice.
+
+If you possess the insinuate option, the wormholes are not immediately noticed when a creature would be affected (while a creature could notice that someone fell in, they would not be immediately notified of the wormhole; a creature that fell into a wormhole this way gains a +10 bonus to notice the wormhole they were transported to).
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 **Prerequisites:** Dark sphere, Warp sphere (Extradimensional Room (space)).
 
 **Benefit:** Rather than a shimmering portal, the entrance to your extradimensional room may appear as a deep shadow, difficult to discern from a normal shadow by mundane means. An active Perception check with a DC of 10 + 1/2 caster level + your casting ability modifier is required to find the entrance if it is cast in conditions of dim light or darker or positioned so as to overlap with an existing shadow. Those inside the room can look out through the portal unhindered.
 
 **Normal:** The portal to an extradimensional room shimmers conspicuously.
+
+</div>
+
+</div>
 
 #### Dimensional Aegis (Dual Sphere)
 
@@ -105,6 +138,35 @@ If you die, the extradimensional space contracts, disgorging any swallowed creat
 
 #### Extradimensional Shadow
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+Replaced in Polished Dark by **Umbral Transposition (Dual Sphere)** ([[Dark Sphere Feats]]).
+
+**Prerequisites:** Dark sphere, Warp sphere.
+
+**Benefit:** You gain the following abilities based on the Dark sphere and Warp sphere talents you possess:
+
+- **Dark Room (requires Extradimensional Room (space)):** When using the Extradimensional Room talent, the entrance is obscured by a *gloom*, which covers the portal’s entrance (you may apply options to this *gloom* normally, paying any additional spell point costs for the *gloom* or its options as appropriate). Creatures inside the room can look outside of the portal unhindered by the *gloom*. If the portal was created within a darkened area, the portal requires a Perception check to spot (as though searching for secret doors). If you possess the insinuate option, you may choose to have the portal obscured by the insinuate option regardless of the area’s light level.
+- **Extradimensional Shadow (requires Extradimensional Storage (space), Shadow Stash):** Your Extradimensional Storage and *shadow stash* becomes a single extradimensional space (instead of separate effects). Add your Extradimensional Storage’s weight limit to your *shadow stash*. This combined extradimensional space is treated as and may be interacted with as though it was both the Extradimensional Storage talent and the *shadow stash* sphere ability, such as using feats like World In Miniature to create elements, donning items with the shadow armory option, and so on. If using the shadow armory option, equipment in your combined extradimensional space resizes to fit your form (if desired). The combined extradimensional storage is treated as both a Dark sphere and Warp sphere effect (whichever is more advantageous for the caster, including using the greater of your Dark and Warp sphere caster levels to determine both talents’ weight capacities).
+- **Shadow Warp (requires Traveler’s Darkness, caster level 5):** Your step through darkness (meld) is treated as a Warp sphere *teleport* effect and may be modified by Warp sphere options that alter how *teleport* functions (but not when the *teleport* is used, such as Imbue Teleport, Recall, or Segmented Warp). If a Warp sphere option would require additional spell points or increase the casting time, the target must spend those spell points or increase the casting time when using step through darkness’s teleportation. If an option incompatible with the Quick Teleport talent would be used with a step through darkness modified this way, the step through darkness effect is used as a standard action (and then modified normally).
+- **Slip Into Darkness:** Whenever you create a *gloom*, you may spend 1 additional spell point to also *teleport* into a square occupied by the *gloom*.
+- **Transpose Gloom (requires Clinging Darkness):** Whenever you would *teleport* while within a *gloom* you created, you may spend 1 additional spell point to move that *gloom*; if you do, the *gloom* is centered on yourself in the square you teleport into.
+- **Yawning Passage (requires Traveler’s Darkness, Wormhole (space)):** You may spend 1 additional spell point when using the Wormhole (space) talent. If you do, the connected wormholes are treated as a single *gloom* with the dark passage (blot) option, creating a single linked blot on the floor of each square. Creatures are entitled to a Reflex saving throw to avoid falling in (as per the dark passage (blot)), with a failure causing the creature to fall into the wormhole, becoming prone in a connected wormhole of the caster’s choice.
+
+If you possess the insinuate option, the wormholes are not immediately noticed when a creature would be affected (while a creature could notice that someone fell in, they would not be immediately notified of the wormhole; a creature that fell into a wormhole this way gains a +10 bonus to notice the wormhole they were transported to).
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 **Prerequisites:** Dark sphere (Shadow Stash), Warp sphere (Extradimensional Storage).
 
 **Benefit:** You deepen your shadow by making it a portal into your extradimensional space, combining your magic into one whole; you can no longer use Extradimensional Storage or Shadow Stash separately, instead treating them as a single effect.
@@ -114,6 +176,10 @@ Your extradimensional shadow combines the weight limit of the two talents into a
 You may treat your extradimensional shadow as either talent for all purposes. Among other uses, this allows you to apply the effects of feats like Stasis Storage or World In Miniature to it, which often distort the appearance of your shadow.
 
 Whenever it would be necessary to determine whether it is a Dark (shadow) effect or a Warp (space) effect (such as calculating its caster level or how it would be affected by Light), the caster may treat it as whichever they deem most advantageous to them.
+
+</div>
+
+</div>
 
 #### Flash Warp (Dual Sphere)
 

@@ -11,14 +11,14 @@ parent: "[[Dark]]"
 
 <div class="sop-tab-label">Polished Dark</div>
 
-###### Aura of Mystery
+#### Aura of Mystery
 
 *An air of mystique and class that comes hand in hand with an obscured face. Much like a mask.*
 **Prerequisites:** Dark sphere (Cloaking Darkness).
 
 **Benefit:** You gain the benefits of the Cloaking Darkness obfuscation option as a constant sphere effect, functioning in any area of illumination except bright light. This constant sphere effect cannot be granted the gaze into the abyss augment.
 
-###### Blackened Terrain (Defiler, Drawback)
+#### Blackened Terrain (Defiler, Drawback)
 
 *The color drained from the very land, leaving behind bleakness and despair.*
 **Prerequisites:** Terrain Casting drawback, Dark sphere.
@@ -29,7 +29,7 @@ parent: "[[Dark]]"
 
 **Note:** The defiler feats were initially printed in Drop Dead Studios’ *The Cataclysm Handbook* and modify the defiled area caused by the Terrain Casting general casting drawback.
 
-###### Dark Portal
+#### Dark Portal
 
 *Boots travel quietly through the night.*
 **Prerequisites:** Dark sphere (Traveler’s Darkness).
@@ -38,7 +38,7 @@ parent: "[[Dark]]"
 
 **Special - Umbral Transposition (requires Portal advanced talent):** If you possess this feat, the Umbral Transposition feat, and the Portal advanced talent, the portal left behind by the Dark Portal feat is also treated as a Warp sphere Portal for other effects and abilities.
 
-###### Shadow Boxer (Combat)
+#### Shadow Boxer (Combat)
 
 **Prerequisites:** Dark sphere (Manifest Darkness), Improved Unarmed Strike.
 
@@ -48,7 +48,7 @@ Attacks made with the shadow limb using this feat’s additional reach suffer a 
 
 **Special - Master Of Shadows advanced talent:** You may choose to use this feat to modify shadow limbs created using the advanced shadow limb option. If you do, weapons wielded by your shadow limbs deal damage equal to your unarmed strikes (instead of the weapon’s normal damage dice) and benefit from this feat’s additional natural reach (but also the penalty to attack rolls made against targets in an area of bright light).
 
-###### Shadow Feast
+#### Shadow Feast
 
 *Certain schools of thought heavily warn against burning one’s own wick at the base.*
 **Prerequisite:** Dark sphere.
@@ -57,7 +57,7 @@ Attacks made with the shadow limb using this feat’s additional reach suffer a 
 
 Your shadow disappears until this ability burn heals, making you unable to benefit from (shadow) effects, including the *shadow stash* sphere ability, creating shadow lurks from your own shadow, and so on.
 
-###### Shadow Lurk Expert
+#### Shadow Lurk Expert
 
 *The shadows obey your call and enact your will.*
 **Prerequisites:** Dark sphere (Living Darkness).
@@ -81,7 +81,7 @@ As a sphere ability, you may use lurking step as an immediate action by spending
 - **Permanent Shadow Lurk (requires Clinging Darkness):** You gain a single, permanent shadow lurk formed using your own shadow as a constant sphere-like ability. This shadow lurk cannot be modified by the empowered shadow lurk or lurking surprise augments, and may be detached or reattached from your shadow as a move action. If this shadow lurk is destroyed, this constant sphere-like ability is suppressed for 1d4 rounds.
 - **Slippery Shadow Lurks (requires Trickster’s Darkness):** Shadow lurks you create benefit from the fluid silhouette (shadow) option as a constant effect. At caster level 10, this is further modified with the malleable silhouette augment.
 
-#### Dual Sphere Feats
+## Dual Sphere Feats
 
 Feats with the (dual sphere) tag allow you to combine the effects of multiple spheres either by combining the effects of multiple spheres as part of using a single sphere ability, or by granting new sphere abilities which can be used to interact with those spheres.
 
@@ -95,7 +95,7 @@ Only one (1) dual sphere feat can be applied as part of using a sphere ability (
 
 **Note:** Many dual sphere feats may have their own exceptions or notes to ensure that the two effects (the “original” and the “added”) resolve intuitively; if there is a conflict between the dual sphere feat’s text and these rules, the feat’s text takes precedence (subject to GM discretion).
 
-###### Dark Monuments (Dual Sphere)
+#### Dark Monuments (Dual Sphere)
 
 *Noble wars are fought in the light of day. Winning wars are fought beneath the cloak of night.*
 **Prerequisites:** Dark sphere, War sphere.
@@ -106,7 +106,7 @@ Only one (1) dual sphere feat can be applied as part of using a sphere ability (
 - **Dark Commandments:** While you are within a *gloom* you created, creatures within the area of the same *gloom* may spend points of momentum as though they were within range.
 - **Night Rally:** Whenever you *rally* a creature, you may add a *cloak*’s effects to that rally, paying any additional spell point costs for the *cloak* or its options as appropriate. This *cloak* lasts until the end of the target’s next turn (even if the rally’s duration would end earlier).
 
-###### Ecliptic Transformation (Dual Sphere)
+#### Ecliptic Transformation (Dual Sphere)
 
 *Their form twisted and contorted with a howl, the candles snuffed and bleeding smoke.*
 **Prerequisites:** Alteration sphere, Dark sphere.
@@ -121,7 +121,7 @@ You gain the following traits which may be applied to any *shapeshift*. If a tra
 - **Cloaked Body:** The target is granted a *cloak*, paying any additional spell point costs for the *cloak* or its options as appropriate. Because the *cloak* is granted as a trait, it does not need to continue without concentration (and instead is treated as being part of the *shapeshift*).
 - **Shadow Rending (requires natural attack):** The target’s natural attacks cleave at the target’s shadows, making them susceptible to manipulation. A creature struck by one of the target’s natural attacks suffers a -2 penalty on saving throws made against Dark sphere effects for 1 round.
 
-###### Guarding Dark (Dual Sphere)
+#### Guarding Dark (Dual Sphere)
 
 **Prerequisites:** Dark sphere, Protection sphere.
 
@@ -131,7 +131,7 @@ You gain the following traits which may be applied to any *shapeshift*. If a tra
 - **Shadow Cage:** *Wards* you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a *ward*, you may spend 1 spell point to add a *gloom*’s effects to the *ward*’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
 - **Umbral Protection:** Whenever you grant an *aegis* to a creature, you may spend 1 spell point to add a *cloak* modified with a (meld) to that *aegis*, paying any additional spell point costs for the *cloak* or its options as appropriate.
 
-###### Minions of the Deathlord (Dual Sphere)
+#### Minions of the Deathlord (Dual Sphere)
 
 *Your allies lurk in the most conspicuous place.*
 **Prerequisites:** Death sphere, any [minion] option.
@@ -145,7 +145,7 @@ In addition, you gain the following ability:
 
 **Note:** As of this book, the only [minion] option is the *dark calling* sphere ability. Other [minion] options may be added in future releases.
 
-###### Night Sky (Dual Sphere)
+#### Night Sky (Dual Sphere)
 
 *Like rough gems strewn across the empty canvas, the night’s sky holds great wonders.*
 **Prerequisites:** Dark sphere, Light sphere.
@@ -156,7 +156,7 @@ In addition, you gain the following ability:
 - **Starlight Darkness:** Whenever you create a *gloom*, instead of altering the light level, the *gloom* instead causes creatures to be dazzled (referred to by this ability as “starlight darkness”). The starlight darkness is no longer a conflicting effect with magical light. If the starlight darkness is modified with the true darkness option, instead of true darkness’s normal effects, the penalties of the dazzled condition become -2, +1 per 5 caster levels. If the starlight darkness is modified with the Absolute Darkness pitch black option, the penalties imposed by dazzled apply to all attack rolls (even if the creature does not rely on sight).
 - **Sunrise / Sunset:** When creating a starlight darkness, you may add a (light) option to a *gloom*, as though it were a (darkness). A (light) option used this way must be one that affects all creatures in the light’s radius (such as Disorienting Patterns, Searing Light), and has no additional effects against an individual target (even if attached to that target). You may spend a standard action to treat a starlight darkness granted a (light) option as an area of bright light (or as part of the action used to create the starlight darkness).
 
-###### Nightmare Caller (Dual Sphere)
+#### Nightmare Caller (Dual Sphere)
 
 *Give form to the eyes and teeth which curl inside of the darkness.*
 **Prerequisites:** Conjuration sphere, Dark sphere.
@@ -167,7 +167,7 @@ In addition, you gain the following ability:
 - **Cloaked Entry:** Whenever you *summon* a companion, you may spend 1 spell point to also grant that companion a *cloak* for the *summon*’s duration, paying any additional spell point costs for the *cloak* or its options as appropriate. A companion granted a *cloak* this way also gains the benefits of the Deeper Darkness clearsight option, even if you did not grant the companion the darkvision (meld).
 - **Darkveil:** You gain the *darkveil* sphere ability (detailed below). The *darkveil* sphere ability uses either your Conjuration sphere or Dark sphere caster level when determining variables (such as range, etc.), whichever is higher.
 
-###### Darkveil
+##### Darkveil
 
 **Descriptor(s):** darkness
 **Action:** immediate action
@@ -178,7 +178,7 @@ In addition, you gain the following ability:
 
 **Effect:** The target creature gains total concealment (50% miss chance) until the end of the current turn in initiative; this concealment may be granted in response to an attack roll which has been rolled, but before its results are revealed. If an attack misses the target creature because of the granted concealment, at the end of the current turn, the creature may make a Stealth check to hide, even if they do not have cover or concealment. The creature may remain hidden this way until the end of its next turn. If the target creature is not in an area of darkness, the creature instead gains concealment (20% miss chance).
 
-##### Paranoia Agent (Dual Sphere)
+#### Paranoia Agent (Dual Sphere)
 
 *Success so clearly within their grasp … or is it merely a trick of the light.*
 **Prerequisites:** Dark sphere, Mind sphere.
@@ -188,7 +188,7 @@ In addition, you gain the following ability:
 - **Hypnotic Darkness (requires Debilitating Darkness):** Your *gloom* is always treated as having the looming darkness option when targeting a creature with a *charm*, debuffing the saving throw associated with that charm (i.e. applying a penalty to Will saves for a *charm* that requires a Will saving throw). This is in addition to any other (darkness) options added to the *gloom*; if the *gloom* was already granted the looming darkness option, looming darkness functions normally and penalizes the charm’s associated saving throw (if not already selected); this includes the emergent augment.
 - **Memory Hole (requires Amnesia):** You gain the memory hole (darkness) option:
 
-###### Memory Hole (darkness)
+##### Memory Hole (darkness)
 
 **Descriptor:** compulsion, mind-affecting
 **Saving Throw:** Will (negates); see text
@@ -200,7 +200,7 @@ A target may naturally notice or remember objects in their possession being misp
 
 **Augment 1 sp [Damnatio Memoriae]:** An affected target’s memories can only be restored through magical means (*[break enchantment](https://aonprd.com/SpellDisplay.aspx?ItemName=Break%20enchantment)*, Inception, etc.); a reminder of events from another creature is no longer sufficient to attempt a new saving throw to remember.
 
-###### Seeing Shadows (Dual Sphere)
+#### Seeing Shadows (Dual Sphere)
 
 **Prerequisites:** Dark sphere, Illusion sphere.
 
@@ -210,7 +210,7 @@ A target may naturally notice or remember objects in their possession being misp
 - **Shadow Doppelganger (requires Living Shadow, Illusionary Disguise):** Your shadow lurk is disguised to look and sound like you (or the target), functioning as the Illusionary Disguise option. The shadow lurk can speak in the voice of whomever it is disguised as (and use its languages). A creature that physically interacts with the shadow lurk (physical touch, attacks, etc.) receives a Will saving throw to disbelieve the disguise.
 - **Shadows In Corners:** Figments you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a figment, you may spend 1 spell point to add a *gloom*’s effects to the figment’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
 
-###### Shadow Defender (Champion, Combat, Dual Sphere)
+#### Shadow Defender (Champion, Combat, Dual Sphere)
 
 *Be their shadow and shield them from what they cannot see.*
 **Prerequisites:** Dark sphere, Guardian sphere.
@@ -223,7 +223,7 @@ You may spend 1 spell point when using this ability; the target treats other cre
 
 - **Ecliptic Patrol (requires (patrol) package):** The area of your *patrol* is treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*, and if suppressed by a light effect or otherwise dispelled, does not end your *patrol*. In addition, when beginning a *patrol*, you may spend 1 spell point to cast a *gloom* centered on yourself with a radius equal to your *patrol’s* radius and the Clinging Darkness following darkness option (even if you do not have the Clinging Darkness talent); this casting does not provoke attacks of opportunity. This *gloom* lasts until the end of your next turn, and its duration is extended until the end of your next turn if you *patrol* again. You must pay any additional spell point costs for the *gloom* or its options as appropriate.
 
-###### Umbral Transposition (Dual Sphere)
+#### Umbral Transposition (Dual Sphere)
 
 **Prerequisites:** Dark sphere, Warp sphere.
 
@@ -238,9 +238,9 @@ You may spend 1 spell point when using this ability; the target treats other cre
 
 If you possess the insinuate option, the wormholes are not immediately noticed when a creature would be affected (while a creature could notice that someone fell in, they would not be immediately notified of the wormhole; a creature that fell into a wormhole this way gains a +10 bonus to notice the wormhole they were transported to).
 
-#### Teamwork Feats
+## Teamwork Feats
 
-###### Twilight Adept (Teamwork)
+#### Twilight Adept (Teamwork)
 
 *Light and shadow interplay and create one another. Through practice and patience, your magics no longer impede one another.*
 **Prerequisites:** Dark sphere or Light sphere.

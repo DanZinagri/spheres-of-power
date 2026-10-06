@@ -49,9 +49,49 @@ Otherwise, actions have their normal effects in the dreamspace. Regardless of ho
 
 #### Hypnotic Darkness (Dual Sphere)
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+Replaced in Polished Dark by **Paranoia Agent (Dual Sphere)** ([[Dark Sphere Feats]]).
+
+*Success so clearly within their grasp … or is it merely a trick of the light.*
+**Prerequisites:** Dark sphere, Mind sphere.
+
+**Benefit:** You gain the following abilities based on the Dark sphere and Mind sphere talents you possess:
+
+- **Hypnotic Darkness (requires Debilitating Darkness):** Your *gloom* is always treated as having the looming darkness option when targeting a creature with a *charm*, debuffing the saving throw associated with that charm (i.e. applying a penalty to Will saves for a *charm* that requires a Will saving throw). This is in addition to any other (darkness) options added to the *gloom*; if the *gloom* was already granted the looming darkness option, looming darkness functions normally and penalizes the charm’s associated saving throw (if not already selected); this includes the emergent augment.
+- **Memory Hole (requires Amnesia):** You gain the memory hole (darkness) option:
+
+##### Memory Hole (darkness)
+
+**Descriptor:** compulsion, mind-affecting
+**Saving Throw:** Will (negates); see text
+**Cost:** +1 sp
+
+**Effect:** This (darkness) does not actively affect targets when within the *gloom*, only when the target would no longer be within the *gloom* (including the gloom ending, moving out of the *gloom*’s area, and so on). When the target leaves the *gloom*, the target immediately loses all awareness of events which occurred within the *gloom* (including interactions with people, items, events, and so on). This (darkness) otherwise functions as the Mind sphere Amnesia *greater charm*, but only for events within the *gloom*.
+
+A target may naturally notice or remember objects in their possession being misplaced, notice wounds on their body, and make reasonable conclusions; likewise, a target may remember they were engaged in combat (if aware of a threat before entering the *gloom* and so on).
+
+**Augment 1 sp [Damnatio Memoriae]:** An affected target’s memories can only be restored through magical means (*[break enchantment](https://aonprd.com/SpellDisplay.aspx?ItemName=Break%20enchantment)*, Inception, etc.); a reminder of events from another creature is no longer sufficient to attempt a new saving throw to remember.
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 **Prerequisites:** Dark sphere (Looming Darkness (blot, darkness)), Mind sphere.
 
 **Benefit:** Those within your darkness are particularly vulnerable to your charms. Your areas of darkness and blot are always treated as if imbued with Looming Darkness when you use the Confusion, Fear, or Sleep charms.
+
+</div>
+
+</div>
 
 #### Hypochondriac’s Terror (Dual Sphere) [CrimDan]
 

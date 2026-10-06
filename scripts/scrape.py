@@ -2098,6 +2098,13 @@ def feature_headings(lines: list[str]) -> list[str]:
     return out
 
 
+# Headings the source wiki puts at the wrong level: note name -> {heading text: level}
+HEADING_LEVEL_FIXES = {
+    # a feat one level above its siblings, so its own Memory Hole option read as a separate feat
+    "Dark Sphere Feats": {"Paranoia Agent (Dual Sphere)": 4, "Memory Hole (darkness)": 5},
+}
+
+
 def normalize_heading_levels() -> int:
     """Pass over the written pages so the same kind of page uses the same heading sizes:
     - a first heading that just repeats the page title (Quartz shows the title) goes;
@@ -2123,19 +2130,169 @@ def normalize_heading_levels() -> int:
         if "Archetype" in f.stem and f.stem != "Archetype Rules" \
                 and sum(1 for l in lines if re.match(r"#{1,6} ", l)) < 2:
             lines = feature_headings(lines)
-        levels = [len(m.group(1)) for l in lines if (m := re.match(r"(#{1,6}) ", l))]
-        delta = 0
-        if levels and "Archetype" in f.stem:
-            delta = 2 - min(levels)
-        elif levels and re.search(r"(Feats|Drawbacks)$", f.stem):
-            delta = 4 - Counter(levels).most_common(1)[0][0]
-        if delta:
-            lines = [re.sub(r"^(#{1,6})(?= )", lambda m: "#" * min(6, max(1, len(m.group(1)) + delta)), l)
-                     for l in lines]
+        # each tab is its own block (tabs from different books nest their headings differently)
+        cuts = [0] + [i for i, l in enumerate(lines) if l.strip().startswith('<div class="sop-tab"')] + [len(lines)]
+        for a, b in zip(cuts, cuts[1:]):
+            levels = [len(m.group(1)) for l in lines[a:b] if (m := re.match(r"(#{1,6}) ", l))]
+            delta = 0
+            if levels and "Archetype" in f.stem:
+                delta = 2 - min(levels)
+            elif levels and re.search(r"(Feats|Drawbacks)$", f.stem):
+                delta = 4 - Counter(levels).most_common(1)[0][0]
+                delta = max(delta, 1 - min(levels))  # never above h1
+            if delta:
+                lines[a:b] = [re.sub(r"^(#{1,6})(?= )", lambda m: "#" * min(6, max(1, len(m.group(1)) + delta)), l)
+                              for l in lines[a:b]]
+        for name, level in HEADING_LEVEL_FIXES.get(f.stem, {}).items():
+            lines = [f"{'#' * level} {name}" if re.fullmatch(rf"#{{1,6}} {re.escape(name)}", l) else l for l in lines]
         new = head + GENERATED_MARK + "\n".join(lines)
         if new != text:
             f.write_text(new, encoding="utf-8")
             changed += 1
+    return changed
+
+
+POLISHED_DARK_SOURCE = ("*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/"
+                        "diamond-polished-spheres-dark-sphere?affiliate_id=549120)*")
+# Ultimate Dark dual-sphere feats listed on other spheres' feat pages -> their Polished Dark
+# replacement on Dark Sphere Feats (None: removed). From the book's Compatibility Appendix.
+DARK_FEAT_REPLACEMENTS = {
+    "Black Totem": "Dark Monuments (Dual Sphere)",
+    "Body Double": "Seeing Shadows (Dual Sphere)",
+    "Shade": "Seeing Shadows (Dual Sphere)",
+    "Dark Room": "Umbral Transposition (Dual Sphere)",
+    "Extradimensional Shadow": "Umbral Transposition (Dual Sphere)",
+    "Hypnotic Darkness": "Paranoia Agent (Dual Sphere)",
+    "Shadow Cage": "Guarding Dark (Dual Sphere)",
+    "Night Sky": "Night Sky (Dual Sphere)",
+    "Event Horizon": None,
+}
+DARK_FEAT_REMOVED = ("Removed in Polished Dark. The [[Dark]] sphere's Deadly Darkness talent "
+                     "(Inescapable Darkness) is similar in function.")
+# Archetypes with Polished Dark errata (Compatibility Appendix): note name -> edits, each
+# ("append", feature heading, text) / ("replace", feature heading, new body) / ("note", text).
+ARCHETYPE_ERRATA = {
+    "Darkshaper": [
+        ("append", "Shadowed Combat",
+         "**Polished Dark errata:** The darkshaper uses their class level as their caster level when using "
+         "the *cloak* sphere ability. This stacks normally with caster levels gained from other sources. "
+         "Instead of the Shadow Master casting drawback, the darkshaper gains the Darkness Speciality casting "
+         "drawback, losing the *gloom* ability."),
+    ],
+    "Invidian": [
+        ("append", "Dark Passenger",
+         "**Polished Dark errata:** The invidian chooses either the Dark sphere or Mind sphere, using their "
+         "class level as their caster level. This stacks normally with caster levels gained from other sources."),
+        ("note", "The errata also reads: \"The duskwalk class feature functions within any darkened area, and "
+         "may be used without spending a spell point if the invidian possesses the Traveler's Darkness "
+         "talent.\" The invidian has no duskwalk feature; [[Tenebrous Stalker]] does."),
+    ],
+    "Nocturnus (Mesmerist Archetype)": [
+        ("replace", "Cripple",
+         "At 6th level, whenever an attack that deals damage hits a target under the nocturnus's shroud, the "
+         "mesmerist can cause the target to take an amount of additional damage equal to 1/2 their mesmerist "
+         "level. The nocturnus can use this ability once per shroud per round. This is a pain effect. If the "
+         "nocturnus uses this ability to increase their own damage (or spends an immediate action when another "
+         "creature deals damage), the nocturnus may end the shroud to increase the additional damage by 1d6 "
+         "damage per 3 mesmerist levels he possesses. This ability is treated as the painful stare ability, and "
+         "its damage treated as painful stare, for the purposes of other feats and abilities."),
+    ],
+}
+
+
+def _entry(lines: list[str], name: str, exact: bool = True) -> tuple[int, int, int] | None:
+    """(heading line, end, level) of the first heading named name (tags like [RW HB] and, unless
+    exact, a "(...)" suffix ignored); it ends at the next heading of the same or a higher level
+    or at a tab boundary."""
+    clean = lambda s: _norm(re.sub(r"\s*\[[^\]]*\]", "", s if exact else re.sub(r"\s*\([^)]*\)", "", s)))
+    for i, l in enumerate(lines):
+        m = re.match(r"(#{1,6}) (.+)$", l)
+        if m and clean(m.group(2)) == clean(name):
+            lv, end = len(m.group(1)), i + 1
+            while end < len(lines):
+                h = re.match(r"(#{1,6}) ", lines[end])
+                if (h and len(h.group(1)) <= lv) or lines[end].strip().startswith(("<div", "</div>")):
+                    break
+                end += 1
+            while end > i + 1 and lines[end - 1].strip() in ("", "---"):
+                end -= 1
+            return i, end, lv
+    return None
+
+
+def polished_dark_tabs() -> int:
+    """Polished Dark versions beside the Ultimate ones outside the Dark pages themselves:
+    - Ultimate Dark dual-sphere feats on other spheres' feat pages get a 'Polished Dark' tab
+      (its replacement feat, from Dark Sphere Feats) before an 'Ultimate' tab;
+    - archetypes with Polished Dark errata get a 'Polished Dark' tab with the errata applied."""
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    dark = files.get("Dark Sphere Feats")
+    if not dark:
+        return 0
+    dlines = dark.read_text(encoding="utf-8").split("\n")
+    pol = next((i for i, l in enumerate(dlines) if l.strip() == '<div class="sop-tab-label">Polished Dark</div>'), 0)
+    changed = 0
+    for stem, f in files.items():
+        if not stem.endswith("Sphere Feats") or stem == "Dark Sphere Feats":
+            continue
+        text = f.read_text(encoding="utf-8")
+        lines = text.split("\n")
+        for old, new in DARK_FEAT_REPLACEMENTS.items():
+            hit = _entry(lines, old, exact=False)
+            if not hit or "(Dual Sphere)" not in lines[hit[0]] and old != "Extradimensional Shadow":
+                continue
+            start, end, lv = hit
+            own = "\n".join(lines[start + 1:end]).strip()
+            if new is None:
+                polished = DARK_FEAT_REMOVED
+            else:
+                src = _entry(dlines[pol:], new)
+                if not src:
+                    print(f"warning: Polished Dark feat {new!r} not found")
+                    continue
+                a, b, slv = src
+                body = []
+                for l in dlines[pol + a + 1:pol + b]:  # its sub-headings sit under this entry
+                    body.append(re.sub(r"^(#{1,6})(?= )", lambda m: "#" * min(6, lv + len(m.group(1)) - slv), l))
+                note = "Reworked in Polished Dark." if _norm(new).startswith(_norm(old)) else \
+                    f"Replaced in Polished Dark by **{new}** ([[Dark Sphere Feats]])."
+                polished = "\n".join([POLISHED_DARK_SOURCE, "", note, "", *body]).strip()
+            lines[start + 1:end] = ["", tab_set([("Polished Dark", polished), ("Ultimate", own)])]
+        new_text = "\n".join(lines)
+        if new_text != text:
+            f.write_text(re.sub(r"\n{3,}", "\n\n", new_text), encoding="utf-8")
+            changed += 1
+    for stem, edits in ARCHETYPE_ERRATA.items():
+        f = files.get(stem)
+        if not f:
+            print(f"warning: errata target {stem!r} not found")
+            continue
+        text = f.read_text(encoding="utf-8")
+        head, body = text.split(GENERATED_MARK, 1)
+        body = body.strip("\n")
+        tail = ""
+        if (m := re.search(r"\n---\n\n\*Archived: [^\n]*\n?$", body)):
+            body, tail = body[:m.start()], body[m.start():]
+        lines = body.split("\n")
+        notes = []
+        for kind, *args in edits:
+            if kind == "note":
+                notes.append(args[0])
+                continue
+            hit = _entry(lines, args[0])
+            if not hit:
+                print(f"warning: errata for {stem}: no {args[0]!r}")
+                continue
+            start, end, _ = hit
+            lines[start + 1:end] = (lines[start + 1:end] + ["", args[1]] if kind == "append"
+                                    else ["", args[1]])
+        callout = ["> [!note] Polished Dark errata",
+                   "> This version includes the errata from *Diamond Polished Spheres: Dark Sphere*."]
+        callout += [f"> {n}" for n in notes]
+        polished = "\n".join([POLISHED_DARK_SOURCE, "", *callout, "", *lines]).strip()
+        f.write_text(head + GENERATED_MARK + "\n\n" + tab_set([("Polished Dark", polished), ("Ultimate", body.strip())])
+                     + tail + "\n", encoding="utf-8")
+        changed += 1
     return changed
 
 
@@ -2611,6 +2768,7 @@ def convert(with_images: bool) -> None:
         print(f"Wild Magic chooser: {len(wm_core)} general + {len(wm_spheres)} sphere tables")
 
     print(f"Heading levels normalized: {normalize_heading_levels()} pages")
+    print(f"Polished Dark tabs added: {polished_dark_tabs()} pages")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

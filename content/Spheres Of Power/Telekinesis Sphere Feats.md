@@ -25,9 +25,27 @@ parent: "[[Telekinesis]]"
 
 #### Event Horizon (Dual Sphere)
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+Removed in Polished Dark. The [[Dark]] sphere's Deadly Darkness talent (Inescapable Darkness) is similar in function.
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 **Prerequisites:** Dark sphere, Telekinesis sphere (Gravity Well).
 
 **Benefit:** You may use the Gravity Well talent as a (darkness) talent covering the full area of a darkness or blot. You may do the same with the Gravity Shift talent. If you have Gravity Manipulation advanced talent, you may use it as a (darkness) or (blot) talent. When used as (darkness) or (blot) talents, Gravity Shift and Gravity Manipulation count as Dark sphere talents for determining caster level and bonus effects.
+
+</div>
+
+</div>
 
 #### Extradimensional Assembly
 

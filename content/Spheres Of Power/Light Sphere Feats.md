@@ -115,6 +115,31 @@ As a standard action, you may choose one of your souls to instead glow, as thoug
 
 #### Night Sky (Dual Sphere) [RW HB]
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+Reworked in Polished Dark.
+
+*Like rough gems strewn across the empty canvas, the night’s sky holds great wonders.*
+**Prerequisites:** Dark sphere, Light sphere.
+
+**Benefit:** You gain the following abilities based on the Dark sphere and Light sphere talents you possess:
+
+- **Dusk / Dawn:** Whenever you grant a *lens* to a creature, you may spend 1 spell point to add a *cloak* modified with a (meld) to that *lens*, paying any additional spell point costs for the *cloak* or its options as appropriate.
+- **Starlight Darkness:** Whenever you create a *gloom*, instead of altering the light level, the *gloom* instead causes creatures to be dazzled (referred to by this ability as “starlight darkness”). The starlight darkness is no longer a conflicting effect with magical light. If the starlight darkness is modified with the true darkness option, instead of true darkness’s normal effects, the penalties of the dazzled condition become -2, +1 per 5 caster levels. If the starlight darkness is modified with the Absolute Darkness pitch black option, the penalties imposed by dazzled apply to all attack rolls (even if the creature does not rely on sight).
+- **Sunrise / Sunset:** When creating a starlight darkness, you may add a (light) option to a *gloom*, as though it were a (darkness). A (light) option used this way must be one that affects all creatures in the light’s radius (such as Disorienting Patterns, Searing Light), and has no additional effects against an individual target (even if attached to that target). You may spend a standard action to treat a starlight darkness granted a (light) option as an area of bright light (or as part of the action used to create the starlight darkness).
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 It was no longer dark, for the twinkling lights danced and distracted in their own new ways.
 
 **Prerequisites:** Dark sphere, Light sphere.
@@ -126,6 +151,10 @@ If you would create starlight darkness modified with the Dark sphere Pure Darkne
 When creating starlight darkness, you may add a (light) talent instead of a (darkness) talent to the area. A (light) talent used with starlight darkness must be one that affects all creatures in the light’s radius (such as Disorienting Patterns, Hypnotic Pattern, Searing Light, etc.) and has no additional effects for an individual target (even if attached to that target with Clinging Darkness). Starlight darkness with a (light) talent is treated as a glow effect for the purposes of a (light) talent’s effects. Starlight darkness is otherwise a Dark sphere effect, and effects such as the Dark sphere Clearsight (meld) treat this effect as a normal (darkness) effect.
 
 You may spend a standard action to treat the starlight darkness as though it were an area of bright light or as part of the standard action used to create the starlight darkness, and functions as if it were bright light for the starlight darkness’s duration. You must spend any additional spell points required when using a (light) talent with an area of starlight darkness.
+
+</div>
+
+</div>
 
 #### Photosynthesis
 

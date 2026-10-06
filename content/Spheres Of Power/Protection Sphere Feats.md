@@ -127,9 +127,37 @@ The ally must be willing or unconscious. This may be done in response to an atta
 
 #### Shadow Cage (Dual Sphere)
 
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="polished-dark">
+
+<div class="sop-tab-label">Polished Dark</div>
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+Replaced in Polished Dark by **Guarding Dark (Dual Sphere)** ([[Dark Sphere Feats]]).
+
+**Prerequisites:** Dark sphere, Protection sphere.
+
+**Benefit:** You gain the following abilities based on the Dark sphere and Protection sphere talents you possess:
+
+- **Darkness’s Embrace:** You may use (succor) talents to sacrifice *cloak* effects you create as though they were an *aegis*. A *cloak* sacrificed this way must be one that has been made to continue without concentration.
+- **Shadow Cage:** *Wards* you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a *ward*, you may spend 1 spell point to add a *gloom*’s effects to the *ward*’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
+- **Umbral Protection:** Whenever you grant an *aegis* to a creature, you may spend 1 spell point to add a *cloak* modified with a (meld) to that *aegis*, paying any additional spell point costs for the *cloak* or its options as appropriate.
+
+</div>
+
+<div class="sop-tab" data-tab="ultimate">
+
+<div class="sop-tab-label">Ultimate</div>
+
 **Prerequisites:** Dark sphere, Protection sphere.
 
 **Benefit:** When you create a ward, you may spend a spell point to add the effects of a darkness ability you have to it. If you do, the entire area of your ward is a darkness, and your melds work within this ward as if its bearer were within any other darkness that you created.
+
+</div>
+
+</div>
 
 #### Tribal Fortification (Dual Sphere)
 
