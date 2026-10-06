@@ -115,6 +115,35 @@ PAGE_NOTES = {
         (r"^\*\*Other Options\*\*\n\n(?:[^\n]+\n)+",
          "\n**Tools**\n\n[[Character Builder]]\n[[Item Crafter]]\n"),
     ],
+    # hand-entered Diamond Spheres: Magical Organizations content (see extras/)
+    "diamond-recreational-studios": [
+        (r"^\[\[Alternate Racial Traits \(DRS\)\]\][ \t]*$",
+         "\n[[Arcane Discoveries (DRS)]]\n[[Organizations|Magical Organizations]]"),
+    ],
+}
+
+# Hand-entered content from books the wiki covers only partly, merged into the generated pages
+# on every run so a resync keeps it. Each extras/*.md file starts with a header comment
+#   <!-- extras: <page slug> | <mode> | <section> -->
+# where <section> is a heading's text or a tab label on that page, and <mode> is one of
+#   merge   - the file's entries (each starting at a heading) go into that section, each placed
+#             alphabetically among the section's headings of the same level;
+#   after   - the file goes right after the end of that section;
+#   prepend - the file goes right under that section's heading and intro, before its entries;
+# or, for a whole new page,
+#   <!-- extras: page | <folder/note name> | <title> -->
+# Files are applied in name order.
+EXTRAS = ROOT / "extras"
+# Entries replaced by hand-entered content: page slug -> [(section, [entry names])]. An entry is a
+# "**Name ...:**" paragraph (with any plain continuation paragraphs) inside that section.
+EXTRAS_DROP = {
+    # the sample organizations' Fame abilities, now listed under their organizations
+    "organizations": [("Rewards", [
+        "Warding Charms", "Guarded Fane", "Absolution", "Planar Envoy", "Planar Servant", "Planeswalker",
+        "Diviner's Eye", "Wary Action", "Voice of Prognostication", "Enchanting Glance", "Mental Palace",
+        "Enchanting Mindfulness", "Energy Imbuement", "Energy Annulment", "Evoker's Blade",
+        "Shifting Appearances", "Eyes Abound", "Web of Illusions", "Bone Servant", "Necrosis Specialty",
+        "Deathrite Master", "Simple Form Proficiency", "Pursuit of Perfection", "Twinform"])],
 }
 
 
@@ -1218,6 +1247,132 @@ def tab_set(tabs: list[tuple[str, str]]) -> str:
     return "\n".join(block + ["</div>", ""])
 
 
+def load_extras() -> tuple[dict[str, list[tuple[str, str, str]]], list[tuple[str, str, str]]]:
+    """extras/*.md -> ({page slug: [(mode, section, body)]}, [(note path, title, body)])."""
+    merges: dict[str, list[tuple[str, str, str]]] = {}
+    new_pages: list[tuple[str, str, str]] = []
+    for f in sorted(EXTRAS.glob("*.md")) if EXTRAS.is_dir() else []:
+        text = f.read_text(encoding="utf-8")
+        m = re.match(r"\s*<!--\s*extras:\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*(.+?)\s*-->\s*\n", text)
+        if not m:
+            print(f"warning: extras/{f.name} has no header")
+            continue
+        body = text[m.end():].strip()
+        if m.group(1) == "page":
+            new_pages.append((m.group(2), m.group(3), body))
+        else:
+            merges.setdefault(m.group(1), []).append((m.group(2), m.group(3), body))
+    return merges, new_pages
+
+
+def _norm(s: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", s.replace("’", "'").lower()).strip()
+
+
+def _section_span(lines: list[str], section: str) -> tuple[int, int, int] | None:
+    """(heading line, end line, heading level) of the first heading or tab label named section;
+    a tab's level is 0. The section ends at the next heading of the same or a higher level, or
+    at the end of the tab it sits in."""
+    want = _norm(section)
+    for i, l in enumerate(lines):
+        s = l.strip()
+        m = re.match(r"(#{1,6}) (.+)$", s)
+        tab = re.fullmatch(r'<div class="sop-tab-label">(.*)</div>', s)
+        if m and _norm(m.group(2)) == want:
+            level = len(m.group(1))
+        elif tab and _norm(html.unescape(tab.group(1))) == want:
+            level = 0
+        else:
+            continue
+        depth, end = 0, i + 1
+        while end < len(lines):
+            t = lines[end].strip()
+            h = re.match(r"(#{1,6}) ", t)
+            if h and level and len(h.group(1)) <= level and depth == 0:
+                break
+            if t.startswith("<div") and not t.endswith("</div>"):
+                depth += 1
+            elif t == "</div>":
+                if depth == 0:
+                    break
+                depth -= 1
+            end += 1
+        while end > i + 1 and lines[end - 1].strip() in ("", "---"):
+            end -= 1
+        return i, end, level
+    return None
+
+
+def apply_extras(md: str, slug: str, extras: list[tuple[str, str, str]]) -> str:
+    for mode, section, body in extras:
+        lines = md.split("\n")
+        span = _section_span(lines, section)
+        if span is None:
+            print(f"warning: extras for {slug}: no section {section!r}")
+            continue
+        start, end, level = span
+        if mode == "after":
+            md = "\n".join(lines[:end] + ["", "---", "", body, ""] + lines[end:])
+        elif mode == "prepend":
+            at = next((k for k in range(start + 1, end) if re.match(r"#{1,6} ", lines[k])), end)
+            md = "\n".join(lines[:at] + [body, ""] + lines[at:])
+        elif mode == "merge":
+            blines = body.split("\n")
+            heads = [k for k, l in enumerate(blines) if re.match(r"#{1,6} ", l)]
+            if not heads:
+                continue
+            elevel = len(blines[heads[0]].split(" ")[0])
+            entries = [blines[a:b] for a, b in zip(heads, heads[1:] + [len(blines)])]
+            for entry in entries:
+                name = _norm(re.sub(r"\[[^\]]*\]", "", entry[0].lstrip("#")))
+                lines = md.split("\n")
+                start, end, _ = _section_span(lines, section)
+                # sibling entries: same-level headings in the section's first run of them
+                sibs, seen = [], False
+                for k in range(start + 1, end):
+                    h = re.match(r"(#{1,6}) (.+)$", lines[k])
+                    if not h:
+                        continue
+                    if len(h.group(1)) == elevel:
+                        sibs.append(k)
+                        seen = True
+                    elif len(h.group(1)) < elevel and seen:
+                        end = k
+                        break
+                at = next((k for k in sibs if _norm(re.sub(r"\[[^\]]*\]", "", lines[k].lstrip("#"))) > name), None)
+                if at is None:
+                    at = end
+                    while at > start + 1 and lines[at - 1].strip() in ("", "---"):
+                        at -= 1
+                    md = "\n".join(lines[:at] + ["", *entry, ""] + lines[at:])
+                else:
+                    md = "\n".join(lines[:at] + [*entry, ""] + lines[at:])
+    return md
+
+
+def drop_entries(md: str, section: str, names: list[str]) -> str:
+    """Remove '**Name ...:**' paragraphs (and their plain continuation paragraphs) in a section."""
+    lines = md.split("\n")
+    span = _section_span(lines, section)
+    if span is None:
+        return md
+    start, end, _ = span
+    wanted = {_norm(n) for n in names}
+    keep, dropping, dropped = [], False, set()
+    for k in range(start + 1, end):
+        s = lines[k].strip()
+        lead = re.match(r"\*\*([^*(:]+?)\s*(?:\(|:|\*\*)", s)
+        if lead or s.startswith("#"):
+            dropping = bool(lead) and _norm(lead.group(1)) in wanted
+            if dropping:
+                dropped.add(_norm(lead.group(1)))
+        if not dropping:
+            keep.append(lines[k])
+    for n in wanted - dropped:
+        print(f"warning: drop entry {n!r} not found in {section!r}")
+    return "\n".join(lines[:start + 1] + keep + lines[end:])
+
+
 def tab_section(md: str, heading: str, label: str, tab_md: str, own_label: str) -> str:
     """Wrap the body of the first '<#..> heading' section in a tab set: (label, tab_md) first,
     then the section's own body as (own_label). The section ends at the next heading of the same
@@ -1918,6 +2073,7 @@ def convert(with_images: bool) -> None:
                 merged_drawbacks.setdefault(pages[target].filename, []).append((label, drawbacks_part))
             merged_tabs.setdefault(target, []).append((label, md))
             merge_links.append((pages[target].filename, label))
+    extras, extra_pages = load_extras()
     # SECTION_TABS: the source's copy of the section (plus its source credit) becomes a tab
     section_tabs: dict[str, list[tuple[str, str, str, str]]] = {}
     for target, entries in SECTION_TABS.items():
@@ -2115,6 +2271,10 @@ def convert(with_images: bool) -> None:
             body_md = insert_first_tabs(body_md, merged_tabs[p.slug])
         for heading, label, own_label, tab_md in section_tabs.get(p.slug, []):
             body_md = tab_section(body_md, heading, label, tab_md, own_label)
+        for section, names in EXTRAS_DROP.get(p.slug, []):
+            body_md = drop_entries(body_md, section, names)
+        if p.slug in extras:
+            body_md = apply_extras(body_md, p.slug, extras[p.slug])
         # "| [[Incanter|Incanter Class Features]]" sub-entries for a page now folded into its class
         for target in section_tabs:
             body_md = re.sub(rf"^\|[ \t]*\[\[{re.escape(pages[target].filename)}\|[^\]\n]*\]\][ \t]*\n", "",
@@ -2137,6 +2297,10 @@ def convert(with_images: bool) -> None:
             continue
         dest.write_text(out, encoding="utf-8")
 
+    for path, title, body in extra_pages:
+        dest = CONTENT / f"{path}.md"
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_text(f"---\ntitle: {yaml_str(title)}\n---\n{GENERATED_MARK}\n\n{body}\n", encoding="utf-8")
     write_sample_page(sample_groups, pages)
     write_link_families(pages, derived_notes)
     if home_page:

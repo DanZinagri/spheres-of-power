@@ -28,6 +28,8 @@ While many DRS releases are integrated into the Spheres of Power Wiki (with the 
 [[Feats (DRS)]]
 [[Traits (DRS)]]
 [[Alternate Racial Traits (DRS)]]
+[[Arcane Discoveries (DRS)]]
+[[Organizations|Magical Organizations]]
 
 </div>
 

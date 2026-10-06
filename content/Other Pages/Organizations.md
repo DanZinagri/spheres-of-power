@@ -169,70 +169,19 @@ Listed below are some example Rewards that characters may obtain once they reach
 
 **Special - Spheres of Power [DRS]:** Certain rewards may be marked (Spheres of Power). A character without spherecasting gains any bonus options normally, ignoring their normal prerequisites, and may use either their caster level (if a caster) or 1/2 their Hit Dice to determine their effective caster level with the granted sphere abilities or options (for example, the sample necromancy magical organization’s necrosis specialty ability would grant a non spherecaster a Death sphere dominion range despite not having a Death sphere caster level).
 
-**Bone Servant (Su) (5 Fame) [DRS]:** You learn how to treat and prepare a humanoid skeleton so that it can be raised as a “bone servant”. Raising a bone servant can be done as a 1-hour ritual that may be done at-will, although you may only control a single bone servant at a single time. A bone servant has the standard statistics for human skeleton (Pathfinder RPG Bestiary), except it can speak and understand one language of your choice, can perform simple tasks at your direction (retrieve an object, manipulate a door, hold or move objects, clean and mend, etc.), and cannot make attacks, threaten attacks of opportunity, or otherwise perform hostile actions. If your bone servant skeleton would be destroyed, lost, or misplaced, you may prepare a new bone servant with 8 hours and a suitable humanoid corpse.
-When you gain the deathrite master fame ability, your bone servant now functions as your choice of either (1) the undead lord cleric’s corpse companion class feature, or (2) the incanter guide of the dead death sub-specialization house soul ability (Gravecaller’s Handbook). Treat your character level as your effective class level for the chosen ability. You may use this ability on any suitable corpse and may prepare and raise a suitable corpse in 1 hour (functioning as either your bone servant, or the corpse companion or house soul ability as selected).
-If you already possess the corpse companion or house soul ability, this grants a second undead to control (subject to this ability).
-
-**Diviner’s Eye (Su) (5 Fame) [DRS]:** You may concentrate on “detect” spells two steps faster (normally a standard action, down to a minimum of a swift action). When you’ve detected a creature for 3 continuous rounds, you are able to pinpoint their square, target, and otherwise “see” the creature so long as they remain within medium range (as though you possessed blindsight). This lasts for 1 minute or until the creature leaves medium range.
-
-**Enchanting Glance (Su) (5 Fame) [DRS]:** You gain a +2 circumstance bonus to Bluff, Diplomacy, and Intimidate checks. In addition, you gain the hypnotic stare class feature (treating your character level as your effective mesmerist level); when using your hypnotic stare, instead of penalizing the target’s Will saving throws, you roll twice and take the better result on a Bluff, Diplomacy, or Intimidate check made against that target (once per target per 24 hours). If you already possess the hypnotic stare class feature, this ability is instead treated as a bold stare improvement.
-
-**Energy Imbuement (Su) (5 Fame) [DRS]:** You learn to sheath yourself in energy, which is further channeled into your attacks, abilities, and spells. As a move action, choose either acid, cold, electricity or fire (your “imbued element”) and imbue yourself with that imbued element (you remain imbued until you use this ability again to select a new imbued element, or may end it as a free action). While imbued, you gain +1d6 bonus damage of your imbued element which applies to any weapon attack or spell damage roll you create.
-If an ability or effect would cause multiple damage rolls, your imbued element bonus damage only occurs a single time per target (i.e. only applying once to magic missiles).
-When you gain another award from this magical organization (at 20 Fame and 50 Fame), your imbued element bonus damage improves to +1d8, and then to +1d10.
-
 **Infirmary Access (5 Fame):** As long as you are able to rest in a structure controlled by your organization, you and a number of allies equal to your Fame score divided by 5 can receive basic magical healing for free. When you use this ability, you and your allies heal damage overnight equal to your Fame score. You can gain these benefits a number of times each week equal to your Fame score divided by 10 (minimum 1).
-
-**Planar Envoy (Su) (5 Fame) [DRS]:** You gain the ability to speak with and understand any outsider, as though under a constant tongues spell as a supernatural effect. In addition, you gain a circumstance bonus on Knowledge (planes) checks as well as Charisma-based ability and skill checks involving outsiders, equal to 1/2 your character level (minimum 1).
-At 15 Fame, you also gain a +2 circumstance bonus on all saving throws made against effects originating from outsiders.
 
 **Research Assistance (5 Fame) [DRS]:** You are trusted to access information known or possessed by the magical organization, and they are willing to offer assistance when researching topics. You gain a +2 circumstance bonus on Knowledge skill checks made to research a topic (such as using their records, accessing their library, and so on). Additionally, the magical organization can assist
 with Diplomacy checks made to gather information, granting a +4 circumstance bonus on such checks made in a location where they have a presence.
 
-**Shifting Appearances (Sp) (5 Fame) [DRS]:** You gain disguise self as an at-will spell-like ability. You may use this spell-like ability as an immediate action when you would become unobserved by enemies (such as after succeeding on a Stealth check, breaking line of sight by turning a corner, etc.). While disguised using this ability, you accentuate a single aspect of yourself (usually complementing the chosen disguise). This grants a circumstance bonus equal to 1/2 your level to one of the following, chosen each time you disguise with this ability: Bluff, Diplomacy, Intimidate, or Perform, or as a bonus to the DC to Intimidate you.
-
-**Simple Form Proficiency (Su) (5 Fame) [DRS]:** As a constant supernatural ability, you gain a movement bonus chosen from the following: +10 base land speed, 30 ft. climb speed, 20 ft. fly speed (maneuverability average), 30 ft. swim speed, or 10 ft. burrow speed. The chosen movement bonus also creates a visual change corresponding to the movement mode (elongated legs, hardened hands, temporary wings, webbed hands, etc.). You may change which movement bonus you are benefitting from as a move action.
-
-**Warding Charms (Su) (5 Fame) [DRS]:** You learn to produce and maintain three charms which are unique to you. If the charms are lost, you may reproduce these charms when you rest and regain your resources (usually 8 hours); doing so disenchants and destroys the previously made charms. These charms are slotless magic items with a faint abjuration aura and caster level equal to your character level which are attuned to a creature of your exact description (requiring a Use Magic Device check DC 35 for anyone else to benefit from). Using a charm does not provoke attacks of opportunity. Each charm may be used an additional time each day when you gain the next award from this magical faction (to a maximum of 3 times per day with the 50 Fame award).
-
-- **Charm of Ablating (1/day):** As an immediate action, after an attack roll would hit you, you may force the attacker to reroll their attack and take the new result.
-- **Charm of Guiding (1/day):** As a swift action, you benefit from the grace spell until the end of your next turn.
-- **Charm of Shielding (1/day):** As a standard action, you gain the benefits of the shield spell for 10 minutes.
-
 **Well-Connected (5 Fame):** You can spend a day hobnobbing with the organization, gaining a +2 circumstance bonus on a Bluff, Diplomacy or Knowledge check attempted within the next day. This bonus increases by +2 for every 20 points of fame you possess beyond 5.
-
-**Energy Annulment (Su) (20 Fame) [DRS]:** You gain energy resistance 10 to acid, cold, electricity, and fire. This energy resistance stacks with other forms of energy resistance you may possess. In addition, once per day as an immediate action, you may gain immunity to either acid, cold, electricity, or fire for 1 minute. If you do, the energy resistance granted by this award is suppressed for 1 hour.
-At 40 Fame, while you possess immunity from an energy type (from this ability, or any other source), damage prevented by this immunity is granted as temporary hit points (to a maximum number equal to your character level).
-
-**Eyes Abound (Su/Sp) (20 Fame) [DRS]:** You may cast silent image at-will as a spell-like ability. A silent image created using this ability has a permanent duration, although you may only have a single silent image created this way at one time (using this ability again dispels the previously created silent image). At 30 Fame, this spell-like ability improves to minor image; at 40 Fame, this spelllike ability improves to major image.
-In addition, you gain the Observant Illusion arcane discovery (Spymaster’s Handbook), even if you do not meet the arcane discovery’s prerequisites.
-If you possess the web of illusions fame ability, whenever you receive a mental ping from an illusion you created, you may immediately switch your senses to that illusion as a non-action.
 
 **Goods and Services (20 Fame) [DRS]:** You are a consistent and contributing member of the magical organization. You may purchase potions, scrolls, and wands from cities the magical organization is located in (or close small cities by availability) at a
 10% discount; this discount does not apply to items which used spell schools or spheres that are opposed to the magical school’s specialty. A magical organization that specializes in the production of specific items (such as a guild of magical ring makers) may offer this discount on such items as well.
 
-**Guarded Fane (Su) (20 Fame) [DRS]:** As a constant supernatural ability, you gain a 20-foot aura that protects both you and your allies. This aura grants a +2 bonus to either Fortitude, Reflex, or Will saving throws; the chosen saving throw type may be changed as a swift action. This effect’s type of bonus depends on your alignment: sacred if good, profane if evil, and if neither good nor evil, you must select which when you first gain this award.
-Once per round, when you or an ally succeeds on a saving throw against a hostile effect, and the saving throw attempt benefitted from this aura’s bonus, you gain a number of temporary hit points equal to your character level. These temporary hit points last for 1 minute and stack with themselves (to a maximum number equal to your total hit points). An effect that originates from a threat whose CR is less than half your character level does not grant temporary hit points if the saving throw is successful.
-
-**Mental Palace (Su) (20 Fame) [DRS]:** You gain Dreamspace (Ultimate Spheres of Power) as a bonus feat, ignoring its prerequisites. You may use your character level instead of your caster level when determining the size of your dreamspace. By concentrating for 1 minute, you may place yourself into a trance that lasts just long enough to place an item in your dreamspace (or to retrieve an object from your dreamspace).
-
-**Necrosis Specialty (Su) (20 Fame) (Spheres of Power) [DRS]:** You gain a single necrosis feat as a bonus feat and are treated as possessing the Death sphere and Spell Focus (Necromancy) for the purposes of feat prerequisites. Undead you reanimate or under your control (such as with Command Undead) benefit from your necrosis feats. If a necrosis feat would require spending spell points, it must be within your dominion range and spends your spell points to use the effect.
-
-- **Note:** If you would grant an undead creature under your control the Wandering Spirit necrosis feat (or other feat that would allow an undead creature to not be destroyed when it normally would be), that undead instead gains +1 hit point per Hit Die.
-
-**Planar Servant (Ex/Su) (20 Fame) [DRS]:** You gain an improved familiar (as per the Improved Familiar feat), treating your character level as your effective caster level when determining your familiar’s statistics. The improved familiar selected this way must be an outsider; this improved familiar is in addition to any familiar you already possess (and may allow you to have more than 1 familiar). Once per day, you may summon this familiar to your side (resummoning it if slain, or teleporting it to your position if it were away). In addition, this familiar gains a bonus feat for every 4 character levels you possess
-
-- **Special (Spheres of Power, Might, etc.):** Instead of granting the familiar bonus feats, the familiar may instead gain a talent
-
-progression (either 10 magic talents as a low-caster, 10 combat talents as an adept, or 5 skill talents and 10 utility talents as a trained operative). A talent progression granted this way also grants an appropriate tradition (casting, martial, trade tradition, etc.).
-
 **Proven Innocent (20 Fame):** Your allies are willing to construct an alibi for you once per term or per level. The alibi can take the form of false testimony, forged paperwork, or other misleading evidence, as needed. A successful Linguistics, Perception, or Sense Motive check (as appropriate for the evidence type) disproves the alibi. The DC is equal to 5 + your Fame score.
 
-**Pursuit of Perfection (Su) (20 Fame) [DRS]:** Choose a single ability score. You gain a +2 enhancement bonus to this ability score, +1 per 4 Hit Dice. You may change the chosen ability score when you rest and prepare your spells for the day. In addition, whenever you cast a spell or use an ability that would grant an enhancement bonus to an ability score, you may have that bonus become untyped, but the bonus is halved (minimum 1).
-
 **Special Customer (20 Fame):** You may purchase two specific types of item (such as spell engines, apparatuses, or marvelous items) at a 10% discount while within an area of your organization’s influence. The types of items are based on the organization.
-
-**Wary Action (Su) (20 Fame) [DRS]:** You gain uncanny dodge (or improved uncanny dodge if you already possess it), using your character level as your effective rogue level when determining its effects. Once per combat, at the start of a new round of initiative, you may reroll your initiative; your place in initiative moves accordingly. This decision is made before any turns are taken – if this would cause you to take two turns “back to back”, you are staggered after this second time.
 
 **Back from the Dead (35 Fame):** Your fame has reached a point where you can request a single resurrection (as the Resurrection advanced talent from the Life sphere) from your organization at some point free of charge. This can be for a trusted ally who fell in combat, a beloved NPC, or even for yourself. Once you use this benefit, you must pay normally for subsequent resurrection effects.
 
@@ -244,31 +193,10 @@ progression (either 10 magic talents as a low-caster, 10 combat talents as an ad
 
 **Valued Member (35 Fame):** All allies of your organization have a starting attitude of helpful toward you unless they would normally be hostile toward you (in which case they are still hostile).
 
-**Absolution (Su) (50 Fame) [DRS]:** You gain a single immunity from the following list of descriptors: acid, air, chaotic, cold, curse, darkness, death, disease, earth, electricity, emotion, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, pain, poison, shadow, sonic, and water (with other descriptors subject to GM discretion). You may change this immunity as a 1 round action or an immediate action; if changing the immunity as an immediate action, you cannot change it for 1 hour.
-
-**Deathrite Master (Su) (50 Fame) [DRS]:** You gain a 20-foot aura that functions as the desecrate spell as a constant supernatural effect, but only affecting undead you create or allied with you.
-
-**Enchanting Mindfulness (Su) (50 Fame) [DRS]:** You gain the benefits of the enchantment foil spell as a constant supernatural effect (treating your character level as the effect’s caster level). Whenever you succeed on a saving throw against a hostile mind-affecting effect, you may either (1) gain 2 temporary spell points that may only be used to create a mind-affecting effect, or (2) regain an expended spell slot up to 1/2 your highest spell level (rounded up), this spell slot must be one with a prepared enchantment school spell (if a prepared caster) or may only be expended to cast an enchantment school spell (if a spontaneous caster).
-
-**Evoker’s Blade (Sp) (50 Fame) [DRS]:** You may use mage’s sword at-will as a spell-like ability. Its duration is permanent, but you may only have one such mage’s sword active at one time (using this spell-like ability again dismisses the previous one).
-Unlike a normal mage’s sword:
-
-- You may direct the mage’s sword once per round as a free action, rather than as a standard action;
-- If you have a current imbued element (from the energy imbuement award), you may choose to have your mage’s sword damage be the same energy type as your current imbued element or force damage (choosing with each attack it makes). If you choose for it to be the same energy type as your imbued element, your mage’s sword also benefits from your imbued element bonus damage;
-- While the mage’s sword is hovering near you and not attacking an enemy, once per round, the mage’s sword may “attack” a single incoming damaging attack or spell, reducing that effect’s damage against you by the rolled damage (i.e. if you would be harmed by a fireball, the mage’s sword could roll its 4d6+3+1d10 (from energy imbuement) against the fireball’s damage, reducing it by its rolled damage). If the attack or spell’s damage would be reduced to 0 this way, it is treated as though it missed. You must choose to use this ability
-
 **Head (50 Fame):** You become one of the leaders of your organization and no longer need to pay dues—every time you would normally pay dues, you instead earn that amount of gold as your salary.
 
 **Lead Member (50 Fame) [DRS]:** You are treated as a member of the inner circles of the magical organization. You may requisition an Award whose value is 1 PP or less once per day without spending PP. In addition, so long as you are a member of this magical organization, you no longer need to pay the magical organization’s fees and instead are paid this amount when fees would be due (i.e. instead of paying 100gp per quarter, the lead member would be paid this as a salary).
 
-**Planeswalker (Su/Sp) (50 Fame) [DRS]:** You gain the benefits of planar adaptation as a constant supernatural effect. In addition, you may cast lesser create demiplane at-will as a spell-like ability; the demiplane you create using this spell-like ability cannot be expanded with multiple castings, but is permanent. If you would later create other permanent demiplanes, you may choose to create a doorway between the those demiplanes and the permanent one granted by this ability, effectively linking them but as separate planar spaces (similar to a gate)
-
-**Twinform (Sp/Su) (50 Fame) [DRS]:** Once per day as a spell-like ability, you may cast one of the following: alter self, elemental body IV, fey form IV, form of the dragon III, giant form II, magical beast shape, plant shape III, undead anatomy IV, or vermin shape II (or another equivalent spell, subject to GM discretion). In addition, once per day, you may cast two different polymorph spells simultaneously (provided that they affect you and only you). You gain the benefits of both spells, applying them to yourself beneficially. If both effects would grant natural attacks, select one form to gain the natural attacks from normally, and one form to have all of the granted natural attacks be secondary natural attacks (even if they would normally be treated as a primary natural attack). You gain all other abilities simultaneously and beneficially, applying the better of each if they conflict (i.e. the higher natural armor, movement modes, energy resistance, and so on).
-
-**Voice of Prognostication (Su) (50 Fame) [DRS]:** You gain the benefits of the telepathy spell as a constant supernatural effect. In addition, at the start of initiative and each round before the first turn is taken during a round of initiative, you may grant a +2 insight bonus on a single d20 roll to yourself or a creature within your telepathy range. You must determine which type of roll this bonus will apply to, which is communicated telepathically to the recipient (i.e. “You will strike true” (gaining a bonus to a single attack roll), “You will pierce their magical wards” (gaining a bonus on spell penetration), and so on). This bonus may be used after the roll is made but before the results are known.
-
-**Web of Illusions (Su/Sp) (50 Fame) [DRS]:** You may cast project image once per day as a spell-like ability.
-In addition, any figment or shadow illusion you create also functions as an alarm spell; as with a normal alarm spell, you may choose whether the alarm will be mental or audible, but may add conditions to the alarm’s ping, and may have the ping be conditioned on more than just a creature entering the area (such as entering or leaving, or an observable event occurring inside the area). These conditions may be as generic or specific as you designate, provided that the condition could be ordinarily observed (i.e. “ping whenever a creature wearing red enters”, “ping if the light level changes”, “ping if a male aasimar wearing iridescent full plate enters”, but not “ping if an enemy enters”).
 
 ## Common Prestige Awards
 
@@ -343,6 +271,579 @@ Organizations make for good entities to select as a faction for the Faction sphe
 Alternatively, a character that holds 20 or more Fame with their organization may make their organization’s services available to their faction (assuming the two are separate). This represents the character’s status in the faction and in the organization being great enough to broker the organization to work alongside and provide services to the faction. When a character’s organization provides aide to a faction this way, add a new faction type to the existing faction based on the organization (i.e. a member of a magical organization may be able to add the benefits of an arcane faction to their existing faction, which may have had other stronger affiliations).
 
 Members with the Faction sphere can more easily use some of the features of the organizations described here. Faction sphere authorizations can be spent to reduce the cost of prestige awards. Every 2 authorizations spent reduces the Prestige Point cost by 1, to a minimum of 1.
+
+---
+
+# Sample Magical Organizations [DRS]
+
+*Source: Diamond Spheres: Magical Organizations*
+
+## About Magical Organizations
+
+**What is a Magical Organization?** Many settings include organizations that foster the education, innovation, or scholarly pursuit of magic arts, ranging in scale from guilds and governmental bodies to circles of mages to the lone court wizard taking their singular apprentice. As a GM's world is built and evolves, magical organizations may come into existence as means for characters to gain guidance or magical services, and characters may likewise want to join these organizations.
+
+Popular examples may include the various mages guilds and colleges in the Elder Scrolls setting (such as *Oblivion* or *Skyrim*), Pug's adoption by the Master Magician Kulgan (from Raymond E. Feist's *Riftwar Saga*), the wizarding schools and bureaucracies in the Harry Potter world, or the Jedi Academy in Star Wars (if you consider a jedi to be a form of wizard).
+
+**Note - Non-Magical Organizations:** The rules as presented here are in the context of magical organizations. These rules may be used with any type of organization, not only magical organizations, such as fighter and mercenary guilds, thieves guilds, colleges, noble circles, and monasteries.
+
+**Spending Fame:** Fame is not spent, but instead grants the character benefits for being part of the magical organization as a reward for achieving that level of fame.
+
+## Magical Organization Statistics
+
+Each magical organization has statistics, which are listed with the organization's entry:
+
+### Organizational Purpose
+
+**Creed and Focus:** Each magical organization has a creed or focus, usually its statement of purpose, a philosophical decree, or its general goals, such as defeating a certain foe, researching a topic, protecting and serving an organization or county, and so on. A magical organization's creed and focus may also be similar to a code of honor or service, similar to a paladin's oath.
+
+**Specialty:** This is the magical organization's Specialty, either a spell school, selection of magic spheres, and so on.
+
+### Membership Requirements
+
+**Entrance Fee:** This is the gold cost for joining the magical organization, i.e. 500 gp.
+
+**Entrance Test:** This is a skill check (or other feat or task) to join the magical organization, i.e. DC 20 Knowledge (arcana). If multiple skills are listed, one skill is attempted from the proposed "set" (i.e. Bluff, Diplomacy, or Intimidate; and Spellcraft would be one of either Bluff, Diplomacy, or Intimidate, and then separately Spellcraft).
+
+**Membership Fees:** This is the monthly fee to remain a member of the magical organization (usually on a monthly, quarterly, or yearly basis), i.e. 200 gp/month.
+
+### Membership
+
+**Organization Check:** These are the skills which Organization Checks can be attempted to gain additional Fame, i.e. Knowledge (any), Spellcraft, Use Magic Device.
+
+**Additional Tasks:** Additional tasks are ways to gain Fame with the magical organization, other than Organization Checks. Additional tasks may only be completed once every length of time, indicated by the task or in the additional tasks section. I.E. "Reclaim a Magic Artifact (+1 Fame): Successfully reclaim a lesser artifact. Reclaiming a major artifact may cause the character to be Recognized for Achievement."
+
+**Promotions:** Some magical organizations may require a task to be completed to exceed a Fame threshold. Succeeding on this task may come with a minor title to indicate the additional benefits associated with the Fame threshold (i.e. slaying a dragon that is an adult or older to become a respected member of a dragonslayer cult, or completing a ritual to join the inner circle of a coven). Not all organizations require promotions.
+
+### Rewards and Awards
+
+**Rewards:** These are the passive benefits a character gains for having joined a magical organization.
+
+**Awards:** These are the ways a character can spend PP.
+
+### Leaving a Magical Organization
+
+A character may leave a magical organization at any time, or by being expelled or removed from a magical organization by repeatedly failing too many organization checks, failing to pay the magical organization's fees (tithes, membership dues, etc.), or performing an act that scandalizes or harms the magical organization's reputation (GM discretion). Being expelled from a magical organization reduces the character's Fame and PP by 2d6 (or more, if being expelled for a scandal or particularly bad action in the organization's eyes, subject to GM discretion).
+
+## Other Types of Organizations
+
+While the rules presented here are for magical organizations, other organizations may also exist, such as martially inclined or skillfully inclined organizations.
+
+For example, the various schools introduced in *Inner Sea Intrigue* may represent skillful organizations that, while having less magical resources, may offer services and aid through research, skill checks, and information. A martial organization may similarly offer protection services and trained mercenaries, martial training, or even serve as a town's guard or personal task force.
+
+The following are sample magical organizations that are meant to serve as a basic framework for an organization's focus, their membership tasks, and their potential awards and rewards. These sample organizations may be adjusted at the GM's discretion, increasing or reducing the strength of their rewards and awards, adding new membership tasks, changing the entrance fee or membership fee, and so on.
+
+## Abjuration Magical Organization
+
+*Sample Names:* Envy's Circle, Golden Brotherhood, Protectorate, Silencers.
+
+**Creed / Focus:** To study the school of abjuration to its fullest degree and master its magical applications; to study the effects of magical wards and protections; to research the effects of dispelling and magical quieting. To protect and serve those without; to silence and suppress magic in the undeserving; to create peace.
+
+**Specialty:** Abjuration; (opposed) Evocation, Necromancy.
+
+**Specialty (Spheres of Power):** Mana, Protection; (opposed) Creation, Destruction, Death.
+
+### Membership Requirements
+
+**Entrance Fee:** 200 gp
+
+**Entrance Test:** DC 15 Heal, Knowledge (arcana, local, or nobility); and Spellcraft
+
+**Membership Fees:** 100 gp/quarter (3 months)
+
+### Membership
+
+**Organization Check:** Heal, Knowledge (arcana, local), Spellcraft, Use Magic Device.
+
+**Additional Tasks:** These tasks can be performed once per quarter:
+
+- **Dispel and Ward (+1 Fame):** You provide spellcasting services (*dispel magic*, *protection from evil*, and other similar effects) by donating 8 hours of your time.
+- **Protect the Weak (+3 Fame):** You prevail in a combat encounter where noncombatants were at significant risk of injury and survived unharmed. This may be a combat of any CR rating (subject to GM discretion, due to the risk of harm to the noncombatants).
+
+### Rewards (Fame)
+
+*The book labels these "Awards"; they follow the Fame-based Rewards rules above.*
+
+**Warding Charms (Su) (5 Fame):** You learn to produce and maintain three charms which are unique to you. If the charms are lost, you may reproduce these charms when you rest and regain your resources (usually 8 hours); doing so disenchants and destroys the previously made charms. These charms are slotless magic items with a faint abjuration aura and caster level equal to your character level which are attuned to a creature of your exact description (requiring a Use Magic Device check DC 35 for anyone else to benefit from). Using a charm does not provoke attacks of opportunity.
+
+- **Charm of Ablating (1/day):** As an immediate action, after an attack roll would hit you, you may force the attacker to reroll their attack and take the new result.
+- **Charm of Guiding (1/day):** As a swift action, you benefit from the *grace* spell until the end of your next turn.
+- **Charm of Shielding (1/day):** As a standard action, you gain the benefits of the *shield* spell for 10 minutes.
+
+Each charm may be used an additional time each day when you gain the next award from this magical faction (to a maximum of 3 times per day with the 50 Fame award).
+
+**Guarded Fane (Su) (20 Fame):** As a constant supernatural ability, you gain a 20-foot aura that protects both you and your allies. This aura grants a +2 bonus to either Fortitude, Reflex, or Will saving throws; the chosen saving throw type may be changed as a swift action. This effect's type of bonus depends on your alignment: sacred if good, profane if evil, and if neither good nor evil, you must select which when you first gain this award.
+
+Once per round, when you or an ally succeeds on a saving throw against a hostile effect, and the saving throw attempt benefitted from this aura's bonus, you gain a number of temporary hit points equal to your character level. These temporary hit points last for 1 minute and stack with themselves (to a maximum number equal to your total hit points). An effect that originates from a threat whose CR is less than half your character level does not grant temporary hit points if the saving throw is successful.
+
+**Absolution (Su) (50 Fame):** You gain a single immunity from the following list of descriptors: acid, air, chaotic, cold, curse, darkness, death, disease, earth, electricity, emotion, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, pain, poison, shadow, sonic, and water (with other descriptors subject to GM discretion). You may change this immunity as a 1-round action or an immediate action; if changing the immunity as an immediate action, you cannot change it for 1 hour.
+
+### Awards (Prestige Points)
+
+*The book labels these "Rewards"; they follow the PP-based Awards rules above.*
+
+**Bless for Travels (Spell) (3 PP):** The magical organization provides spellcasting for *hide from animals* and *hide from undead*, which each last for 1 day, for you and up to 9 other creatures. A creature benefitting from these spells can extend duration for 1 additional day by burning special incense worth 5 gp. This may be done any number of times. Both effects immediately end if a target creature would attack an animal or undead they are hidden from this way.
+
+**Contingent Warding (Spell) (requires 5 Fame, 3 PP):** The magical organization casts a 1st or 2nd level abjuration spell on your behalf, subject to a *contingency*. This *contingency* lasts for 1 week; you may only benefit from a single *contingency* at a time this way.
+
+**Responsive Inoculations (Su) (15 Fame, 10 PP):** As a medical procedure, the magical organization improves your immune system to a degree where it can rapidly identify and ward against ailments. After you make a saving throw against an effect, note any conditions the effect would inflict and the descriptors it possesses (each listed as an "inoculation"). You gain a +2 bonus on saving throws against any effect that would inflict a condition or has a descriptor that matches one of your inoculations. After you rest, you may choose up to 1 inoculation to retain. All others are lost. For example, if you would be exposed to an effect with the fire and poison descriptors that inflicted the nauseated condition, you would gain fire, poison, and nauseated as inoculations for the day.
+
+**Attune Sanctum (Su) (requires 40 Fame, 20 PP):** The magical organization casts a secret ritual conferring the benefit of *consecrate* (or *desecrate*, as appropriate) to a given area, warding a building, structure, or other location at your request (often a location you provide services from or under your protection). This area may be approximately 4000-square feet, or a significantly larger space or building at GM discretion. As part of casting this ritual, you are attuned to this place (your "sanctum") as its "keeper". As the keeper, your sanctum has the following benefits and effects:
+
+- You must designate an "inner sanctum", a singular room (such as a throne room, bedroom, secret cellar, etc.) where the *consecrate* effect is centered. You may redesignate the inner sanctum with 1 week of time.
+- The sanctuary is warded against nature and natural disaster (including spells that simulate natural disaster such as *control weather* or earthquake), being functionally immune to their harmful effects; in addition, the sanctuary's permanent physical structures have +10 hardness and, if undamaged for more than 1 day, automatically repair themselves.
+- The *consecrate* effect, instead of penalizing undead (or living creatures if *desecrate*) instead penalizes any creatures not allied with you or the magical organization. The *consecrate* effect is treated as though it were centered on an altar (an object you designate inside the inner sanctum).
+- A constant *alarm* effect, set for a mental ping to its keeper. Unlike a normal *alarm*, this mental ping may reach you regardless of where you are (provided you are on the same plane). This mental ping also occurs if the sanctum is attacked (siege weapons, an opposing army, etc.).
+- You gain blindsense while within your sanctum, encompassing the entirety of your sanctum.
+- You may return to your sanctum once per day, as though triggering a *word of recall*. You may take up to 5 other creatures with you when returning to your sanctum this way.
+- If you die and are not resurrected within 1d4 days, you are reborn in your sanctum's inner chamber (as though subject to *cyclic reincarnation*). You may only reincarnate this way once per week.
+
+The ritual's effects may be dispelled with a casting of *greater dispel magic* (or a greater equivalent effect) on the sanctum's inner chamber along with the expenditure of 5,000 gp in diamond dust, as though dispelling an effect with an effective caster level of 25. The ritual's effects are also dispelled if the sanctum would be completely destroyed (the building razed, burnt, etc.).
+
+You may only have a single sanctum through this ritual at a given time. You may have the magical organization assist in redesignating your sanctum by spending 10 PP.
+
+## Conjuration Magical Organization
+
+*Sample Names:* Ferrymen, Magos Artiste, Planar Gateway, Sloth's Circle.
+
+**Creed / Focus:** To study the school of conjuration to its fullest degree and master its magical applications; to study the cosmos and beyonds, and understand the nature of the planes; to conjure, bind, and contract into service outsiders; to learn the weave of magic and its leylines to teleport between them; to study materials and their base nature so as to better create them.
+
+**Specialty:** Conjuration; (opposed) Evocation, Illusion.
+
+**Specialty (Spheres of Power):** Conjuration, Creation, Warp; (opposed) Dark, Destruction, Illusion, Light.
+
+### Membership Requirements
+
+**Entrance Fee:** 200 gp
+
+**Entrance Test:** DC 15 Appraise, Knowledge (planes), or Sense Motive; and Spellcraft
+
+**Membership Fees:** 100 gp/quarter (3 months)
+
+### Membership
+
+**Organization Check:** Appraise, Knowledge (arcana, planes), Sense Motive, Spellcraft, Use Magic Device.
+
+**Additional Tasks:** These tasks can be performed once per quarter:
+
+- **Learn a True Name (+4 Fame):** You discover and share an outsider's true name with the magical organization with a challenge rating equal to or greater than your level -4.
+  - **Special - True Names:** A true name can be researched by spending at least a number of hours equal to 8-times the outsider's challenge rating and succeeding on a Knowledge (planes) check equal to the outsider's CR + 20. Knowing a specific outsider's true name allows you to use *planar binding* to summon that specific outsider, giving the outsider a -2 penalty on opposed Charisma checks made while summoned. True names learned in this manner do not otherwise grant any greater power over the outsider.
+- **Map a Teleportation Location (+2):** Once per quarter, provide detailed information (high quality maps, sketches, and images) of an exotic location to the magical organization for the purposes of teleportation familiarity.
+- **Perform a Binding (+1 Fame):** Once per quarter, you conjure or bind an outsider to perform tasks for the magical society with a challenge rating equal to or greater than your Hit Dice -4.
+
+### Rewards (Fame)
+
+*The book labels these "Awards"; they follow the Fame-based Rewards rules above.*
+
+**Planar Envoy (Su) (5 Fame):** You gain the ability to speak with and understand any outsider, as though under a constant *tongues* spell as a supernatural effect. In addition, you gain a circumstance bonus on Knowledge (planes) checks as well as Charisma-based ability and skill checks involving outsiders, equal to 1/2 your character level (minimum 1).
+
+At 15 Fame, you also gain a +2 circumstance bonus on all saving throws made against effects originating from outsiders.
+
+**Planar Servant (Ex/Su) (20 Fame):** You gain an improved familiar (as per the Improved Familiar feat), treating your character level as your effective caster level when determining your familiar's statistics. The improved familiar selected this way must be an outsider; this improved familiar is in addition to any familiar you already possess (and may allow you to have more than 1 familiar). Once per day, you may summon this familiar to your side (resummoning it if slain, or teleporting it to your position if it were away). In addition, this familiar gains a bonus feat for every 4 character levels you possess
+
+- **Special (Spheres of Power, Might, etc.):** Instead of granting the familiar bonus feats, the familiar may instead gain a talent progression (either 10 magic talents as a low-caster, 10 combat talents as an adept, or 5 skill talents and 10 utility talents as a trained operative). A talent progression granted this way also grants an appropriate tradition (casting, martial, trade tradition, etc.).
+
+**Planeswalker (Su/Sp) (50 Fame):** You gain the benefits of *planar adaptation* as a constant supernatural effect. In addition, you may cast *lesser create demiplane* at-will as a spell-like ability; the demiplane you create using this spell-like ability cannot be expanded with multiple castings, but is permanent. If you would later create other permanent demiplanes, you may choose to create a doorway between the those demiplanes and the permanent one granted by this ability, effectively linking them but as separate planar spaces (similar to a *gate*)
+
+### Awards (Prestige Points)
+
+*The book labels these "Rewards"; they follow the PP-based Awards rules above.*
+
+**Bind Outsider (Su) (requires 5+ Fame, 2+ PP):** The magical organization binds an outsider to perform a task for you, or to accompany you for up to 1 month. The organization provides the payment for its services and can safely contract and bind an outsider whose CR is equal to 5 + 1/2 your Fame with this organization (maximum CR 20). The PP cost of this award is equal to 2 + the bound outsider's CR. This magical organization may not bind unique outsiders unless they have a standing relationship with that outsider (such as a deity's herald, a specific named outsider, or possessing that outsider's true name).
+
+**Planar Transit (Spell) (requires 10 Fame, 2 PP):** The magical organization casts *plane shift* on you and up to 9 companions to a commonly accessible plane (a major elemental or alignment plane, but not a specific demiplane unless they possess the appropriate tuning fork). Each target transported this way also receives the benefits of the *planar adaptation* spell for the plane they are transported up to (with a duration of 1 week).
+
+**Outsider Ascension (Su) (requires 50 Fame, 40 PP):** The magical organization performs a dangerous magical transfusion, which grants the power of an outsider at great cost. You become an outsider with the native and augmented subtypes, in addition to any previous subtypes you possessed, and also gain a single outsider subtype, including the abilities associated with that subtype (do not adjust Hit Dice, bab, saving throws, skill points, etc.). While you cannot be banished from your home plane, if you would be banished by an effect or would fail to teleport (such as attempting to teleport while under a *dimensional anchor*), you are also staggered for 1 minute as your infusion fights against your original nature (bypassing any immunity to staggered). This change is irreversible except by deific intervention, and cannot be benefited from more than once.
+
+**Note:** Certain subtypes grant miscellaneous abilities which are then determined by the creature (i.e. a kyton's unnerving gaze). The character gaining this subtype gains such an ability, chosen from existing outsiders with that subtype (usually one whose CR is equal to or less than 1/2 the character's Hit Dice). The GM should be the final arbiter of what ability is gained, and not all abilities are appropriate (even if an otherwise valid choice).
+
+## Divination Magical Organization
+
+*Sample Names:* Apathy's Circle, The Bureau, Oracle's Sanctum, Soothsayers.
+
+**Creed / Focus:** To study the school of divination to its fullest degree and master its magical applications; to seek answers to the unknown and map all possibilities; to study techniques to scry and divine; to master augury and fortune telling; to seek and find lost places and treasures.
+
+**Specialty:** Divination; (opposed) Enchantment, Transmutation.
+
+**Specialty (Spheres of Power):** Divination, Fate, Time; (opposed) Alteration, Enhancement, Fallen Fey, Mind.
+
+### Membership Requirements
+
+**Entrance Fee:** 200 gp
+
+**Entrance Test:** DC 15 Knowledge (history), Linguistics, or Use Magic Device; and Spellcraft
+
+**Membership Fees:** 100 gp/quarter (3 months)
+
+### Membership
+
+**Organization Check:** Knowledge (arcana, geography, history), Linguistics, Spellcraft, Use Magic Device.
+
+**Additional Tasks:** These tasks can be performed once per quarter:
+
+- **Oracular Services (+1 Fame):** You provide spellcasting services (*augury*, *commune*, and other similar effects) by donating 8 hours of your time.
+- **Discover a Lost Secret (+3 Fame):** You discover an ancient text, scroll, or similar item which provides information about the far past or far future. This task may be performed any number of times, but each "discovery" is treated as a single event (i.e. a single trove of documents, not receiving Fame for each document).
+
+### Rewards (Fame)
+
+*The book labels these "Awards"; they follow the Fame-based Rewards rules above.*
+
+**Diviner's Eye (Su) (5 Fame):** You may concentrate on "detect" spells two steps faster (normally a standard action, down to a minimum of a swift action). When you've detected a creature for 3 continuous rounds, you are able to pinpoint their square, target, and otherwise "see" the creature so long as they remain within medium range (as though you possessed blindsight). This lasts for 1 minute or until the creature leaves medium range.
+
+**Wary Action (Su) (20 Fame):** You gain uncanny dodge (or improved uncanny dodge if you already possess it), using your character level as your effective rogue level when determining its effects. Once per combat, at the start of a new round of initiative, you may reroll your initiative; your place in initiative moves accordingly. This decision is made before any turns are taken - if this would cause you to take two turns "back to back", you are staggered after this second time.
+
+**Voice of Prognostication (Su) (50 Fame):** You gain the benefits of the *telepathy* spell as a constant supernatural effect. In addition, at the start of initiative and each round before the first turn is taken during a round of initiative, you may grant a +2 insight bonus on a single d20 roll to yourself or a creature within your telepathy range. You must determine which type of roll this bonus will apply to, which is communicated telepathically to the recipient (i.e. "You will strike true" (gaining a bonus to a single attack roll), "You will pierce their magical wards" (gaining a bonus on spell penetration), and so on). This bonus may be used after the roll is made but before the results are known.
+
+### Awards (Prestige Points)
+
+*The book labels these "Rewards"; they follow the PP-based Awards rules above.*
+
+**Targeted Weapon (Spell) (5 Fame, 2 PP):** You receive the benefits of *named bullet* (caster level 10); unlike a normal *named bullet*, the effect may be cast on any weapon, but the critical multiplier of the weapon is reduced to x2 regardless of the weapon's normal critical multiplier or any other effects. This effect lasts for up to 1 month or until discharged; if the weapon is used to strike any target other than the named creature, it is discharged and ends. You may only have a single weapon enhanced this way at a time.
+
+**Commission Prophecy (Spell) (15+ Fame, 3 PP):** You gain the benefits of a *divination* spell (caster level 7); at 30+ Fame, you may instead gain the benefits of a *prognostication* spell (caster level 11); at 50+ Fame, you may instead gain the benefits of a *true prognostication* spell (caster level 15).
+
+**Prophetic Insights (Su) (30+ Fame, 15 PP):** The magical organization entrusts you with their soothsayer techniques, which grant a boon of luck and fortune after any divinatory attempts. Three times per day, when you cast a divination spell of 1st level or higher (or spend 1 or more spell points on a Divination sphere effect), you gain the benefits of one of the following Fate sphere (motif) talents: The Emperor, The Empress, or The Fool. The effective caster level of the granted (motif) is equal to the caster level of the spell cast to use this boon. You cannot benefit from more than 1 (motif) effect granted this way at a single time (ending the previously granted (motif)).
+
+## Enchantment Magical Organization
+
+*Sample Names:* Compulse, Guild of Entertainers, Lust's Circle, Mind Palace
+
+**Creed / Focus:** To study the school of enchantment to its fullest degree and master its magical applications; to research the effects of emotions and how to manipulate or create them; to compel and push others; to learn the best emotional states for each given scenario; to create and hold influence; to master emotions, both internal and external.
+
+**Specialty:** Enchantment; (opposed) Necromancy, Transmutation.
+
+**Specialty (Spheres of Power):** Mind, War; (opposed) Death, Enhancement, Time, Weather.
+
+### Membership Requirements
+
+**Entrance Fee:** 200 gp
+
+**Entrance Test:** DC 15 Bluff, Diplomacy, or Profession (any); and Spellcraft
+
+**Membership Fees:** 100 gp/quarter (3 months)
+
+### Membership
+
+**Organization Check:** Bluff, Diplomacy, Intimidate, Knowledge (arcana), Profession (any), Spellcraft, Use Magic Device.
+
+**Additional Tasks:** These tasks can be performed once per quarter:
+
+- **Instill Emotion in a Worthy Adversary (+1 Fame):** You inflict an emotion condition (or any spell or effect with emotional components) on an adversarial opponent whose challenge rating is equal to your character level or greater.
+- **Organize an Event (+1 Fame):** You organize an event (a gathering, party, soiree, etc.), spending a total of 25 gp per character level on accommodations.
+
+### Rewards (Fame)
+
+*The book labels these "Awards"; they follow the Fame-based Rewards rules above.*
+
+**Enchanting Glance (Su) (5 Fame):** You gain a +2 circumstance bonus to Bluff, Diplomacy, and Intimidate checks. In addition, you gain the hypnotic stare class feature (treating your character level as your effective mesmerist level); when using your hypnotic stare, instead of penalizing the target's Will saving throws, you roll twice and take the better result on a Bluff, Diplomacy, or Intimidate check made against that target (once per target per 24 hours). If you already possess the hypnotic stare class feature, this ability is instead treated as a bold stare improvement.
+
+**Mental Palace (Su) (20 Fame):** You gain Dreamspace (*Ultimate Spheres of Power*) as a bonus feat, ignoring its prerequisites. You may use your character level instead of your caster level when determining the size of your dreamspace. By concentrating for 1 minute, you may place yourself into a trance that lasts just long enough to place an item in your dreamspace (or to retrieve an object from your dreamspace).
+
+**Enchanting Mindfulness (Su) (50 Fame):** You gain the benefits of the *enchantment foil* spell as a constant supernatural effect (treating your character level as the effect's caster level). Whenever you succeed on a saving throw against a hostile mind-affecting effect, you may either (1) gain 2 temporary spell points that may only be used to create a mind-affecting effect, or (2) regain an expended spell slot up to 1/2 your highest spell level (rounded up), this spell slot must be one with a prepared enchantment school spell (if a prepared caster) or may only be expended to cast an enchantment school spell (if a spontaneous caster).
+
+### Awards (Prestige Points)
+
+*The book labels these "Rewards"; they follow the PP-based Awards rules above.*
+
+**Charm Target(s) (Spell) (requires 5 Fame, 2+ PP):** You may designate one or more individuals to be charmed (2 PP per target), as though targeted by *charm person*. Each individual becomes friendly to you for 2 hours per character level. Each individual must be specified when requesting this reward; certain individuals may not be susceptible to having a charm placed on them (a king may be surrounded by their guards and confidants and unable to be charmed, whereas a lone guard or bureaucrat may be easier to charm, subject to GM discretion).
+
+**Contingent Mentalism (Spell) (requires 10 Fame, 2 PP):** Choose one enchantment spell (spell level 5th or lower). The magical organization casts this spell on your behalf with a trigger, as though creating a *contingency*. You may choose the trigger for this *contingency*. This *contingency* does not count against the usual limit of how many *contingency* effects a character may benefit from.
+
+**Subject of Renown (Su) (requires 25 Fame, 10 PP):** The magical organization enchants you in such a way that tales and whispers of your presence, acts, and actions spread to your benefit. You gain the renown vigilante social talent, treating your character level as your effective vigilante level when determining its effects. Rather than spending time to designate a settlement's community as your area of renown, any settlement you are present within for 1 continuous week automatically becomes an area of renown (so long as you stay within the mile per vigilante level radius of that settlement; however, leaving the area of renown's radius of influence for longer than 1 day makes it no longer an area of renown). For every 5 Hit Dice you possess, you gain an additional vigilante social talent with the renown social talent as a prerequisite.
+
+**Special (Vigilante):** If you would already possess the renown vigilante social talent, or later acquire it, you may maintain an area of renown normally (but may still benefit from this reward's ability to designate an area of renown while passively present in the settlement).
+
+---
+
+## Evocation Magical Organization
+
+*Sample Names:* Burning Mandate, Element's Gaol, The Iron Hand, Wrath's Circle.
+
+**Creed / Focus:** To study the school of evocation to its fullest degree and master its magical applications; to wield the elements and their destructive force; to teach and educate the risks of unchecked magic power; to educate the use of destructive magic in warfare.
+
+**Specialty:** Evocation; (opposed) Abjuration, Conjuration.
+
+**Specialty (Spheres of Power):** Dark, Destruction, Light, Telekinesis; (opposed) Conjuration, Creation, Mana, Protection.
+
+### Membership Requirements
+
+**Entrance Fee:** 200 gp
+
+**Entrance Test:** DC 15 Handle Animal (war-trained animals), Intimidate, or Knowledge (arcana); and Spellcraft
+
+**Membership Fees:** 100 gp/quarter (3 months)
+
+### Membership
+
+**Organization Check:** Craft (armor, weapons), Handle Animal (war-trained animals), Intimidate, Profession (blacksmith, cartographer), Spellcraft, Use Magic Device.
+
+**Additional Tasks:** These tasks can be performed once per quarter:
+
+- **Capture Criminal (+2 Fame):** You track down and incapacitate an escaped criminal or individual with a bounty with a challenge rating equal to or greater than 1/2 your character level. Certain bounties may allow for "dead or alive", and only award +1 Fame. This task may be repeated more than once per quarter, but only as frequently as there are criminals to apprehend.
+- **Train Troops (+1 Fame):** You donate 8 hours of your time instructing troops, local garrisons, or other military groups of the risks of evocation magic and their use.
+
+### Rewards (Fame)
+
+*The book labels these "Awards"; they follow the Fame-based Rewards rules above.*
+
+**Energy Imbuement (Su) (5 Fame):** You learn to sheath yourself in energy, which is further channeled into your attacks, abilities, and spells. As a move action, choose either acid, cold, electricity or fire (your "imbued element") and imbue yourself with that imbued element (you remain imbued until you use this ability again to select a new imbued element, or may end it as a free action). While imbued, you gain +1d6 bonus damage of your imbued element which applies to any weapon attack or spell damage roll you create. If an ability or effect would cause multiple damage rolls, your imbued element bonus damage only occurs a single time per target (i.e. only applying once to *magic missiles*).
+
+When you gain another award from this magical organization (at 20 Fame and 50 Fame), your imbued element bonus damage improves to +1d8, and then to +1d10.
+
+**Energy Annulment (Su) (20 Fame):** You gain energy resistance 10 to acid, cold, electricity, and fire. This energy resistance stacks with other forms of energy resistance you may possess. In addition, once per day as an immediate action, you may gain immunity to either acid, cold, electricity, or fire for 1 minute. If you do, the energy resistance granted by this award is suppressed for 1 hour.
+
+At 40 Fame, while you possess immunity from an energy type (from this ability, or any other source), damage prevented by this immunity is granted as temporary hit points (to a maximum number equal to your character level).
+
+**Evoker's Blade (Sp) (50 Fame):** You may use *mage's sword* at-will as a spell-like ability. Its duration is permanent, but you may only have one such *mage's sword* active at one time (using this spell-like ability again dismisses the previous one). Unlike a normal *mage's sword*:
+
+- You may direct the *mage's sword* once per round as a free action, rather than as a standard action;
+- If you have a current imbued element (from the energy imbuement award), you may choose to have your *mage's sword* damage be the same energy type as your current imbued element or force damage (choosing with each attack it makes). If you choose for it to be the same energy type as your imbued element, your *mage's sword* also benefits from your imbued element bonus damage;
+- While the *mage's sword* is hovering near you and not attacking an enemy, once per round, the *mage's sword* may "attack" a single incoming damaging attack or spell, reducing that effect's damage against you by the rolled damage (i.e. if you would be harmed by a *fireball*, the *mage's sword* could roll its 4d6+3+1d10 (from energy imbuement) against the *fireball*'s damage, reducing it by its rolled damage). If the attack or spell's damage would be reduced to 0 this way, it is treated as though it missed. You must choose to use this ability before the attack or spell's damage is rolled.
+
+### Awards (Prestige Points)
+
+*The book labels these "Rewards"; they follow the PP-based Awards rules above.*
+
+**Source a Metamagic Gem (4+ PP):** You purchase a metamagic gem (*Rival Guide*) from the magical organization by trading in your reputation and favors. The PP cost of a metamagic gem is equal to 4 times the metamagic's normal spell level adjustment (i.e. 4 PP for Silent Spinel or Still Amber, or 16 PP for a Quickening Diamond).
+
+**Induce Kineticism (Su/Sp) (requires 25 Fame, 20 PP):** The magical organization permanently imbues you with energy. Choose a single kineticist simple blast and a form or substance infusion wild talent that may be applied to this blast with a burn cost of 1 or less (once this choice has been made, it cannot be changed). You may use this kinetic blast as a kineticist equal to your character level and may add the chosen infusion to this kinetic blast once per day, +1 per 2 character levels you possess. For every 4 character levels you possess, you select an additional infusion that could be applied to your chosen simple blast. This reward is irreversible except by deific intervention, and you may only benefit from it a single time.
+
+**Special - Kineticist (or other class that grants kinetic blast):** If you already possess the kinetic blast ability, you may treat the simple blast granted by this reward as an additional simple blast granted by granted by whichever class granted your kinetic blast ability (such as when gaining composite blasts, using infusions, etc.).
+
+**Special (Spheres of Power):** Instead of gaining a kineticist simple blast, choose a Destruction sphere blast type group. You gain Basic Magic Training, selecting the Destruction sphere with the Energy Focus drawback for that blast type group. You gain a bonus pool of spell points that may only be spent on creating a *destructive blast* with the chosen blast type group equal to 1, +1 per 2 character levels you possess. For every 4 character levels you possess, you select an additional Destruction (blast type) or (blast shape) talent, provided that a selected (blast type) belongs to the initially chosen blast type group (even if you buy off the Energy Focus drawback).
+
+## Illusion Magical Organization
+
+*Sample Names:* Circus of Amazement, Deception's Peak, Invisible Hand, Pride's Circle.
+
+**Creed / Focus:** To study the school of illusion to its fullest degree and master its magical applications; to learn the practical applications of creating falsehoods; to master the deception of senses; to create the real from the unreal.
+
+**Specialty:** Illusion; (opposed) Conjuration, Transmutation.
+
+**Specialty (Spheres of Power):** Dark, Illusion, Light; (opposed) Blood, Conjuration, Creation, Time.
+
+### Membership Requirements
+
+**Entrance Fee:** 200 gp
+
+**Entrance Test:** DC 15 Bluff, Diplomacy, or Perform; and Spellcraft
+
+**Membership Fees:** 100 gp/quarter (3 months)
+
+### Membership
+
+**Organization Check:** Bluff, Diplomacy, Knowledge (arcana, local), Perform (any), Spellcraft, Use Magic Device.
+
+**Additional Tasks:** These tasks can be performed once per quarter:
+
+- **Entertain (+1 Fame):** You donate 8 hours of your time at a local village, orphanage, or church entertaining children and townsfolk with illusions.
+- **Unravel a Secret (+2 Fame):** You reveal, unravel, or otherwise find the truth about a long-kept secret by a local government or notable official.
+
+### Rewards (Fame)
+
+*The book labels these "Awards"; they follow the Fame-based Rewards rules above.*
+
+**Shifting Appearances (Sp) (5 Fame):** You gain *disguise self* as an at-will spell-like ability. You may use this spell-like ability as an immediate action when you would become unobserved by enemies (such as after succeeding on a Stealth check, breaking line of sight by turning a corner, etc.).
+
+While disguised using this ability, you accentuate a single aspect of yourself (usually complementing the chosen disguise). This grants a circumstance bonus equal to 1/2 your level to one of the following, chosen each time you disguise with this ability: Bluff, Diplomacy, Intimidate, or Perform, or as a bonus to the DC to Intimidate you.
+
+**Eyes Abound (Su/Sp) (20 Fame):** You may cast *silent image* at-will as a spell-like ability. A *silent image* created using this ability has a permanent duration, although you may only have a single *silent image* created this way at one time (using this ability again dispels the previously created *silent image*). At 30 Fame, this spell-like ability improves to *minor image*; at 40 Fame, this spell-like ability improves to *major image*. In addition, you gain the Observant Illusion arcane discovery (*Spymaster's Handbook*), even if you do not meet the arcane discovery's prerequisites.
+
+If you possess the web of illusions fame ability, whenever you receive a mental ping from an illusion you created, you may immediately switch your senses to that illusion as a non-action.
+
+**Web of Illusions (Su/Sp) (50 Fame):** You may cast *project image* once per day as a spell-like ability.
+
+In addition, any figment or shadow illusion you create also functions as an *alarm* spell; as with a normal *alarm* spell, you may choose whether the alarm will be mental or audible, but may add conditions to the alarm's ping, and may have the ping be conditioned on more than just a creature entering the area (such as entering or leaving, or an observable event occurring inside the area). These conditions may be as generic or specific as you designate, provided that the condition could be ordinarily observed (i.e. "ping whenever a creature wearing red enters", "ping if the light level changes", "ping if a male aasimar wearing iridescent full plate enters", but not "ping if an enemy enters").
+
+### Awards (Prestige Points)
+
+*The book labels these "Rewards"; they follow the PP-based Awards rules above.*
+
+**Research the Distractions (Ex) (2+ PP):** The magical organization learns facts about a location or upcoming event that is upcoming within the next month, and gives you information which helps you explore, navigate, and converse with those that will be there. While you are at that location or event, you may reroll a failed skill check involving that location or event (such as a Disable Device check to unlock the cellar door, a Bluff check to distract the guards, a Diplomacy check to convince the guest of honor of something, and so on). You may reroll 1 check, +1 check per additional PP you spend on this award past the first (costing 2 PP for 1 reroll, 3 for 2 rerolls, and so on, up to 5 total rerolls for 6 PP).
+
+**Veil (Spell) (requires 5 Fame, 2 PP):** The magical organization casts *veil* on behalf of you and up to 9 allies. This *veil* effect lasts for 1 week (rather than its normal duration). Any target of this *veil* effect may willingly remove it as a swift action by speaking a command word (designated by the magical organization caster that grants this award).
+
+**Theory of the Invisible Man (Sp/Su) (requires 25 Fame, 15 PP):** The magical organization imparts upon you the benefits of a secret ritual, which blends you into the background at your desire. You may cast *vanish* at-will as a spell-like ability, and may use this spell-like ability as a swift action during any round you successfully used the Bluff skill to feint, create a diversion, or otherwise distract a creature.
+
+Whenever an invisibility effect would end (including *vanish*, *greater invisibility*, etc.), you remain invisible until the start of your next turn.
+
+## Necromancy Magical Organization
+
+*Sample Names:* Bonewright's Guild, Dead Forest Coven, Glutton's Circle, The Obsidian Tower.
+
+**Creed / Focus:** To study the school of necromancy to its fullest degree and master its magical applications; to research the intricacies of life and death; to study the best ways to animate creatures from their graves, or to place them back; to develop painful curses, and their cures.
+
+**Specialty:** Necromancy; (opposed) Abjuration, Enchantment.
+
+**Specialty (Spheres of Power):** Blood, Death, Life; (opposed) Conjuration, Mind, Protection.
+
+### Membership Requirements
+
+**Entrance Fee:** 200 gp
+
+**Entrance Test:** DC 15 Knowledge (religion) and Spellcraft
+
+**Membership Fees:** 100 gp/quarter (3 months)
+
+### Membership
+
+**Organization Check:** Craft (alchemy), Heal, Knowledge (arcana, religion), Spellcraft, Use Magic Device.
+
+**Additional Tasks:** These tasks can be performed once per quarter:
+
+- **Donate a Corpse (+1 Fame):** You donate a creature's corpse with a challenge rating equal to or greater than your character level - 2.
+- **Loot an Ancient Tomb (+2 Fame):** You discover and successfully delve into and retrieve the riches of an ancient resting place of the dead.
+
+### Rewards (Fame)
+
+*The book labels these "Awards"; they follow the Fame-based Rewards rules above.*
+
+**Bone Servant (Su) (5 Fame):** You learn how to treat and prepare a humanoid skeleton so that it can be raised as a "bone servant". Raising a bone servant can be done as a 1-hour ritual that may be done at-will, although you may only control a single bone servant at a single time. A bone servant has the standard statistics for human skeleton (*Pathfinder RPG Bestiary*), except it can speak and understand one language of your choice, can perform simple tasks at your direction (retrieve an object, manipulate a door, hold or move objects, clean and mend, etc.), and cannot make attacks, threaten attacks of opportunity, or otherwise perform hostile actions. If your bone servant skeleton would be destroyed, lost, or misplaced, you may prepare a new bone servant with 8 hours and a suitable humanoid corpse.
+
+When you gain the deathrite master fame ability, your bone servant now functions as your choice of either (1) the undead lord cleric's corpse companion class feature, or (2) the incanter guide of the dead death sub-specialization house soul ability (*Gravecaller's Handbook*). Treat your character level as your effective class level for the chosen ability. You may use this ability on any suitable corpse and may prepare and raise a suitable corpse in 1 hour (functioning as either your bone servant, or the corpse companion or house soul ability as selected).
+
+If you already possess the corpse companion or house soul ability, this grants a second undead to control (subject to this ability).
+
+**Necrosis Specialty (Su) (20 Fame) (Spheres of Power):** You gain a single necrosis feat as a bonus feat and are treated as possessing the Death sphere and Spell Focus (Necromancy) for the purposes of feat prerequisites. Undead you *reanimate* or under your control (such as with Command Undead) benefit from your necrosis feats. If a necrosis feat would require spending spell points, it must be within your *dominion* range and spends your spell points to use the effect.
+
+**Note:** If you would grant an undead creature under your control the Wandering Spirit necrosis feat (or other feat that would allow an undead creature to not be destroyed when it normally would be), that undead instead gains +1 hit point per Hit Die.
+
+**Deathrite Master (Su) (50 Fame):** You gain a 20-foot aura that functions as the *desecrate* spell as a constant supernatural effect, but only affecting undead you create or allied with you.
+
+### Awards (Prestige Points)
+
+*The book labels these "Rewards"; they follow the PP-based Awards rules above.*
+
+**Cadaver Workshop (Ex) (5 PP):** You commission the assistance of your necromantic organization to modify a corpse you provide. A corpse may only be modified by this reward a single time (attempting to modify it again removes previous modifications). Select one option from each of the following lists:
+
+1. Increase or decrease its size by 1 size category.
+2. Grant a new natural attack (bite, claw, gore, hoof, slam, talon, or wing; the corpse must possess an appropriate appendage to support a chosen natural attack).
+3. Grant a special attack to a single natural attack: constrict (damage equal to 1 chosen natural attack), grab, pull, push, trample (requires slam), or trip.
+4. Grant a new movement speed: burrow, climb, fly (average maneuverability), land, or swim, each 30 feet.
+
+**Corpse Acquisition (Ex) (requires 10 Fame; 1+ PP):** Your necromantic organization acquires a corpse for you. The corpse must be of a creature whose CR is equal to or less than the amount of PP spent on this award. If the creature would possess a template, the CR adjustment of the template (if positive) is tripled. Certain corpses may be unavailable subject to GM discretion (i.e. unusually powerful creatures such as dragons, mythical magical beasts, and so on).
+
+**Preparation of Rites (Ex) (requires 30 Fame, 25+ PP):** Your necromantic organization pays for the material and focus costs required to attempt a lichdom ritual or other ritual to gain an undead template. The necromantic organization provides 1 secondary caster per 2 additional PP spent.
+
+## Transmutation Magical Organization
+
+*Sample Names:* Druids of Tallholme, Enhancer's Guild, Greed's Circle, Standing Stone Adherents.
+
+**Creed / Focus:** To study the school of transmutation to its fullest degree and master its magical applications;
+
+**Specialty:** Transmutation; (opposed) Enchantment, Illusion.
+
+**Specialty (Spheres of Power):** Alteration, Enhancement, Fallen Fey, Nature, Weather; (opposed) Fate, Illusion, Mind.
+
+### Membership Requirements
+
+**Entrance Fee:** 200 gp
+
+**Entrance Test:** DC 15 Craft (any), Knowledge (arcana), or Use Magic Device; and Spellcraft
+
+**Membership Fees:** 100 gp/quarter (3 months)
+
+### Membership
+
+**Organization Check:** Craft (any), Knowledge (arcana, nobility), Spellcraft, Use Magic Device.
+
+**Additional Tasks:** These tasks can be performed once per quarter:
+
+- **Create a Masterwork (+1 Fame):** Donate 8 hours of your time assisting with magic item crafting or masterwork item crafting. This may be accomplished even if you could not do magic item crafting.
+- **Donate a Treasure (+4 Fame):** You donate an item of notable value equal to 500 gp per character level or greater.
+
+### Rewards (Fame)
+
+*The book labels these "Awards"; they follow the Fame-based Rewards rules above.*
+
+**Simple Form Proficiency (Su) (5 Fame):** As a constant supernatural ability, you gain a movement bonus chosen from the following: +10 base land speed, 30 ft. climb speed, 20 ft. fly speed (maneuverability average), 30 ft. swim speed, or 10 ft. burrow speed. The chosen movement bonus also creates a visual change corresponding to the movement mode (elongated legs, hardened hands, temporary wings, webbed hands, etc.). You may change which movement bonus you are benefitting from as a move action.
+
+**Pursuit of Perfection (Su) (20 Fame):** Choose a single ability score. You gain a +2 enhancement bonus to this ability score, +1 per 4 Hit Dice. You may change the chosen ability score when you rest and prepare your spells for the day. In addition, whenever you cast a spell or use an ability that would grant an enhancement bonus to an ability score, you may have that bonus become untyped, but the bonus is halved (minimum 1).
+
+**Twinform (Sp/Su) (50 Fame):** Once per day as a spell-like ability, you may cast one of the following: *alter self*, *elemental body IV*, *fey form IV*, *form of the dragon III*, *giant form II*, *magical beast shape*, *plant shape III*, *undead anatomy IV*, or *vermin shape II* (or another equivalent spell, subject to GM discretion). In addition, once per day, you may cast two different polymorph spells simultaneously (provided that they affect you and only you). You gain the benefits of both spells, applying them to yourself beneficially. If both effects would grant natural attacks, select one form to gain the natural attacks from normally, and one form to have all of the granted natural attacks be secondary natural attacks (even if they would normally be treated as a primary natural attack). You gain all other abilities simultaneously and beneficially, applying the better of each if they conflict (i.e. the higher natural armor, movement modes, energy resistance, and so on).
+
+### Awards (Prestige Points)
+
+*The book labels these "Rewards"; they follow the PP-based Awards rules above.*
+
+**Temporary Enhancement (Spell) (2 PP):** You gain a +4 enhancement bonus to a single ability score (as though you received a *bull's strength* spell or similar effect). This effect's duration is 1 week.
+
+**Empower Equipment (Su) (requires 10 Fame, see text):** You add a single special ability (such as *bane*, *flaming*, *ghost touch*, etc.) to a weapon, armor, shield, or implement (*Ultimate Spheres of Power*) (2 PP for +1, 4 PP for +2, and 6 PP for +3). This cannot add a special ability to a piece of equipment that could not normally have that ability (i.e. attempting to add *keen* to a bludgeoning weapon). This special ability bypasses the normal maximum +10 enhancement bonus limit, and lasts for 1 week.
+
+**Fleshchange (Su) (requires 30 Fame, 10 PP):** As a 1-week process, the magical organization magically and permanently alters your body (similar to receiving a demonic implant, elemental augmentation, fleshgraft, etc.). At the end of this process, you gain 1 fleshchange (listed below). You may benefit from 1 fleshchange from this reward, +1 per 10 Hit Dice you possess.
+
+At 50 Fame, you may allow other creatures to undergo the fleshchange process. A creature that is not part of this organization may only receive a single fleshchange this way (as the techniques and methods used to grant fleshchanges are closely guarded and the organization is rightfully worried that a lost corpse could be studied to reveal the secrets).
+
+## Transmutation Fleshchanges
+
+Each transmutation fleshchange is a permanent, supernatural effect (even if it would ordinarily be an extraordinary effect). The recipient of a fleshchange is referred to as the "subject" by the fleshchange's text.
+
+Unless otherwise stated, a transmutation fleshchange may only be granted a single time. If a fleshchange would require a saving throw, its saving throw DC is equal to 10 + 1/2 the subject's Hit Dice + the subject's Constitution modifier.
+
+The list of fleshchanges provided here are not exhaustive. GMs may develop new fleshchanges, using these as examples. As a guideline, each fleshchange should provide one or more related benefits to a single physical quality of the creature.
+
+**Gaining or Removing Fleshchanges:** The process required to grant fleshchanges is a closely guarded secret (usually by transmutation magic organizations). Removing a fleshchange requires complex magical surgery (requiring a DC 30 Heal check and a *dispel magic* effect or similar) for each fleshchange being removed.
+
+**Fleshchanges and Polymorph Effects:** Unlike other permanent changes to a creature's body, fleshchanges are supernatural effects which persist on the subject's body when subject to a polymorph effect, manifesting even when taking new forms.
+
+### Beast's Infusion of Bile, Blood, Humors and Phlegm
+
+The subject gains the following universal monster rules: ferocity, scent, and see in darkness. In addition, the subject gains a bite attack one size larger than normal (1d6 Small, 1d8 Medium); when the subject makes an attack action, the subject may make an additional attack using this bite at a -5 penalty.
+
+### Bristleback
+
+The subject gains an armor spikes natural attack (1d4 medium, 1d3 small). These armor spikes function as armor spikes for all purposes (despite not being attached to armor). These armor spikes may be sundered as a normal set of armor spikes (hit points equal to twice the subject's Hit Dice, and hardness equal to 3 + 1/2 the subject's Hit Dice). Whenever the subject fights defensively or takes the total defense action, the subject rolls their armor spikes weapon damage dice and, until the start of their next turn, subtracts the rolled value from incoming physical damage that round (but always taking a minimum of 1 damage). This reduction is always applied last.
+
+For example, the subject takes the total defense action and rolls a 3 on 1d4, the subject would subtract 3 from all incoming physical damage. Even if a damaging effect would be reduced to 0, the subject still takes a minimum of 1 damage.
+
+### Cave Horror
+
+The subject gains the compression and stench universal monster rules. In addition, the subject's movement does not provoke attacks of opportunity from a creature that is sickened or nauseated (from this stench ability or other sources).
+
+### Conductor Cartilage
+
+The subject gains energy resistance 10 + hit dice to a single energy damage type. Whenever the subject mitigates energy resistance (either through this fleshchange, or any racial or non-magical resistance), the subject's natural attacks and manufactured weapon attacks deal +1d10 energy damage of the mitigated type for 1 round. This transmutation fleshchange can be selected multiple times; each time, select a different energy type.
+
+### Draconid Aspirant
+
+The subject's features are amplified in a way that morphs its physiology to be more draconic. The subject gains a bite attack, lesser breath weapon, and wins. This grants the following:
+
+- **Bite:** The subject gains a primary bite attack (1d6 Medium) that deals 1-1/2 times Strength bonus to damage (even if the subject has multiple natural attacks); if the subject already possesses a bite attack, improve its bite attack by increase its damage dice by 1 step (i.e. 1d6 to 1d8) and grant it this bite's 1-1/2 times Strength bonus to damage.
+- **Lesser Breath Weapon:** The subject gains a breath weapon that is only partially functional. Choose acid, cold, electricity, or fire when this fleshchange is first granted, determining this lesser breath weapon's damage. As a swift action, the subject may breath a 30-foot line or 15-foot cone, dealing 1d6 + 1 per Hit Dice (Reflex half), or may coat a natural weapon or manufactured weapon in fluids, dealing the same damage on a successful hit (this coating lasts for 1 round or until used). Once used, this breath weapon cannot be used for 1d4 rounds.
+- **Wings:** The subject gains a 20-foot fly speed (poor); if the subject already possesses winged flight, improve its existing winged flight by 20 feet
+
+### Fleshstitched Berserker
+
+The subject gains the blood rage universal monster rule (When the subject takes damage in combat, on its next turn it can fly into a rage as a free action. It gains +2 morale bonus to its Strength and Constitution, but takes a -2 penalty to its AC. The rage lasts as long as the battle or 1 minute, whichever is shorter. It cannot end its rage voluntarily. Damage taken while out of combat does not cause the subject to enter a rage). Whenever the subject would end its rage (either voluntarily, if it can rage voluntarily, or when its blood rage ends), it regains 2 hit points for each round it was raging (maximum 2 hit points per Hit Die).
+
+**Note - "What Is Combat?":** The blood rage universal monster rule only activates in "combat". Combat occurs at GM discretion (i.e. an actual encounter or fight, not simply taking damage).
+
+### Gangly Sightstalks
+
+The subject gains darkvision (60 feet, or improving existing darkvision by +30 feet), blindsense (30 feet), and blindsight (10 feet). In addition, the subject gains a +4 racial bonus on Perception and Sense Motive checks.
+
+### Germinated Epidermis
+
+The subject's skin becomes a shade of green. Instead of eating, the subject may "feed" by being exposed to sunlight for at least 1 hour each day. If the subject "fed" using sunlight, their skin rapidly stitches back together after being damaged; at the start of the subject's turn, if the subject took damage in the previous round, the subject heals 1d4 + their Constitution modifier (to a maximum amount of healing equal to 1/2 the damage taken last round), improving by an additional +1d4 per 4 Hit Dice the subject possesses. This healing can end bleed damage as though it were magical healing.
+
+### Gibbering
+
+The subject gains a number of additional, smaller mouths which constantly whisper incoherencies. The subject suffers a -2 penalty on all Stealth skill checks, increasing by +1 per 4 Hit Dice they possess. Other subjects within 30 feet must roll twice and take the worse result when attempting concentration checks or Intelligence or Wisdom-based skill checks. Whenever a subject fails a concentration check or Intelligence or Wisdom-based skill check while penalized by this fleshchange, that subject is also shakened for 1 minute (Will negates). This effect is a sonic, language-dependent effect (failing in areas of magical silence or against any subject without the ability to speak or understand language).
+
+### Masosycophant
+
+Whenever the subject sees another creature take damage, as an immediate action, the subject may choose to take 1/2 the creature's incoming damage as nonlethal damage (this bypasses any immunity to nonlethal damage the target may have). This damage split cannot be further reduced, mitigated, transferred, and so on. Using this ability is a mind-affecting emotion pain effect and does not allow the subject to share damage with a creature immune to these descriptors.
+
+The subject may use this ability at-will, but only while not suffering from any nonlethal damage (whether from using this ability or from other sources).
+
+### Mistflesh Bog Dweller
+
+The subject gains the amphibious special ability (allowing it to breathe both water and air), a swim speed equal to the subject's base land speed +20, and a +8 racial bonus on Swim skill checks. While not in water, the subject benefits from a constant 20% miss chance (as though standing in mist or fog).
+
+### Springheel Hind Legs
+
+The subject gains the pounce special attack (when the subject charges, it can make a full attack, including rend attacks if the subject has the rend ability). In addition, after completing a charge attack, the subject may make an Acrobatics check to jump (with a running start) to move away from the subject they charged; this jump does not provoke attacks of opportunity from the subject of the charge. If the subject uses this ability, they cannot utilize the pounce special ability for 1d4 rounds.
+
+
 
 # Quick Organization Capability Shifts
 
