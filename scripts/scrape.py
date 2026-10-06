@@ -2258,8 +2258,7 @@ def polished_dark_tabs() -> int:
                 body = []
                 for l in dlines[pol + a + 1:pol + b]:  # its sub-headings sit under this entry
                     body.append(re.sub(r"^(#{1,6})(?= )", lambda m: "#" * min(6, lv + len(m.group(1)) - slv), l))
-                note = "Reworked in Polished Dark." if _norm(new).startswith(_norm(old)) else \
-                    f"Replaced in Polished Dark by **{new}** ([[Dark Sphere Feats]])."
+                note = f"Replaced in Polished Dark by **{new}** ([[Dark Sphere Feats]])."
                 polished = "\n".join([POLISHED_DARK_SOURCE, "", note, "", *body]).strip()
             lines[start + 1:end] = ["", tab_set([("Polished Dark", polished), ("Ultimate", own)])]
         new_text = "\n".join(lines)
@@ -2298,6 +2297,176 @@ def polished_dark_tabs() -> int:
                      + tail + "\n", encoding="utf-8")
         changed += 1
     return changed
+
+
+ARCHIVE_RETIRED = f"{ARCHIVE}/Retired Ultimate"
+
+
+def _tab_sets(lines: list[str]) -> list[tuple[int, int, list[tuple[str, int, int]]]]:
+    """[(tab set open line, its close line, [(tab label, tab open line, tab close line)])]."""
+    opens: list[int] = []
+    match: dict[int, int] = {}
+    parent: dict[int, int | None] = {}
+    for i, l in enumerate(lines):
+        s = l.strip()
+        if s.startswith("<div") and not s.endswith("</div>"):
+            parent[i] = opens[-1] if opens else None
+            opens.append(i)
+        elif s == "</div>" and opens:
+            match[opens.pop()] = i
+    sets = []
+    for t in sorted(match):
+        if lines[t].strip() != '<div class="sop-tabs">':
+            continue
+        tabs = []
+        for k in sorted(i for i in match if parent.get(i) == t and lines[i].strip().startswith('<div class="sop-tab"')):
+            lab = next((html.unescape(m.group(1)) for j in range(k + 1, match[k])
+                        if (m := re.fullmatch(r'<div class="sop-tab-label">(.*)</div>', lines[j].strip()))), "")
+            tabs.append((lab, k, match[k]))
+        sets.append((t, match[t], tabs))
+    return sets
+
+
+def _tab_body(lines: list[str], a: int, b: int) -> str:
+    return "\n".join(l for l in lines[a + 1:b] if not l.strip().startswith('<div class="sop-tab-label">')).strip()
+
+
+def _place_alphabetically(lines: list[str], start: int) -> list[str]:
+    """Move the entry whose heading is at start among its same-level sibling entries."""
+    lv = len(lines[start].split(" ")[0])
+    end = start + 1
+    while end < len(lines) and not ((h := re.match(r"(#{1,6}) ", lines[end])) and len(h.group(1)) <= lv) \
+            and not lines[end].strip().startswith(("<div", "</div>")):
+        end += 1
+    block, rest = lines[start:end], lines[:start] + lines[end:]
+    name = _norm(re.sub(r"\[[^\]]*\]", "", block[0].lstrip("#")))
+    lo = start  # the run of siblings: up and down to a higher heading or a block boundary
+    while lo > 0 and not lines[lo - 1].strip().startswith(("<div", "</div>")) and \
+            not ((h := re.match(r"(#{1,6}) ", rest[lo - 1])) and len(h.group(1)) < lv):
+        lo -= 1
+    hi = start
+    while hi < len(rest) and not rest[hi].strip().startswith(("<div", "</div>")) and \
+            not ((h := re.match(r"(#{1,6}) ", rest[hi])) and len(h.group(1)) < lv):
+        hi += 1
+    sibs = [k for k in range(lo, hi) if re.match(rf"#{{{lv}}} ", rest[k])]
+    at = next((k for k in sibs if _norm(re.sub(r"\[[^\]]*\]", "", rest[k].lstrip("#"))) > name), None)
+    if at is None:
+        at = hi
+        while at > lo and rest[at - 1].strip() in ("", "---"):
+            at -= 1
+        return rest[:at] + [""] + block + rest[at:]
+    return rest[:at] + block + [""] + rest[at:]
+
+
+def retire_ultimate(derived: list[tuple[str, str]]) -> dict[str, tuple[str, str]]:
+    """Where a Polished version now stands beside the Ultimate one, keep the Polished version and
+    move the Ultimate one to ARCHIVE_RETIRED/<folder>/<page> (Ultimate).md:
+    - a whole page split into Polished/Ultimate tabs keeps only the Polished content;
+    - a single entry split that way (an Incanter specialization, a dual-sphere feat) becomes the
+      Polished entry, under its new name and in alphabetical place ("Removed in ..." entries go).
+    Each page links its retired version at the bottom. Returns {page: (retired note, title)}."""
+    retired: dict[str, tuple[str, str]] = {}
+    for f in sorted(CONTENT.rglob("*.md")):
+        rel = f.relative_to(CONTENT)
+        if ARCHIVE in rel.parts:
+            continue
+        text = f.read_text(encoding="utf-8")
+        if GENERATED_MARK not in text or "Polished" not in text:
+            continue
+        head, body = text.split(GENERATED_MARK, 1)
+        lines = body.split("\n")
+        whole, sections, renamed = None, [], []
+        while True:
+            target = next(((t, e, tabs) for t, e, tabs in _tab_sets(lines)
+                           if len(tabs) == 2 and tabs[0][0].startswith("Polished")), None)
+            if not target:
+                break
+            t, e, tabs = target
+            pol, own = _tab_body(lines, tabs[0][1], tabs[0][2]), _tab_body(lines, tabs[1][1], tabs[1][2])
+            prev = next((k for k in range(t - 1, -1, -1) if lines[k].strip()), None)
+            hm = re.match(r"(#{1,6}) (.+)$", lines[prev]) if prev is not None else None
+            if not hm:  # the whole page
+                whole = own
+                lines[t:e + 1] = pol.split("\n")
+                continue
+            lv, old = len(hm.group(1)), hm.group(2).strip()
+            sections.append(f"{'#' * lv} {old}\n\n{own}")
+            if pol.startswith("Removed in Polished"):
+                lines[prev:e + 1] = []
+                continue
+            new = old
+            if (m := re.search(r"^Replaced in Polished Dark by \*\*(.+?)\*\*.*$", pol, re.M)):
+                new = m.group(1)
+                pol = re.sub(r"\n{3,}", "\n\n", pol.replace(m.group(0), "")).strip()
+            taken = any(re.fullmatch(rf"#{{{lv}}} {re.escape(new)}", l) for k, l in enumerate(lines) if k != prev)
+            if taken:  # two old feats with one replacement: it is listed once
+                lines[prev:e + 1] = []
+                continue
+            lines[prev:e + 1] = [f"{'#' * lv} {new}", "", *pol.split("\n")]
+            if new != old:
+                renamed.append(f"{'#' * lv} {new}")
+        # renamed entries move to their alphabetical place once no tab sets are left in the way
+        for h in renamed:
+            at = next((k for k, l in enumerate(lines) if l == h), None)
+            if at is not None:
+                lines = _place_alphabetically(lines, at)
+        if whole is None and not sections:
+            continue
+        title = re.search(r'^title: "?(.*?)"?$', head, re.M)
+        title = title.group(1) if title else f.stem
+        name = f"{f.stem} (Ultimate)"
+        folder = Path(ARCHIVE_RETIRED) / rel.parent
+        note = (f"> [!note] Retired\n> The *Ultimate Spheres of Power* version of [[{f.stem}|{title}]], since "
+                "replaced by Diamond Recreational Studios' *Polished* content. Not part of the current rules.")
+        rbody = whole if whole is not None else "\n\n".join(sections)
+        rfm = ["---", f"title: {yaml_str(title + ' (Ultimate)')}", "nosearch: true",
+               "parent: " + yaml_str(f"[[{ARCHIVE_RETIRED.split('/')[-1]}]]"), "---"]
+        (CONTENT / folder).mkdir(parents=True, exist_ok=True)
+        (CONTENT / folder / f"{name}.md").write_text(
+            "\n".join(rfm) + "\n" + GENERATED_MARK + "\n\n" + note + "\n\n" + rbody.strip() + "\n", encoding="utf-8")
+        derived.append(((folder / f"{name}.md").as_posix(), rel.as_posix()))
+        retired[f.stem] = (name, title)
+        link = f"[[{name}|Ultimate version]] (before *Polished*)"
+        body = re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).rstrip("\n")
+        if re.search(r"\n\*Archived: [^\n]*\*$", body):
+            body = body[:-1] + f" · {link}*"
+        else:
+            body += f"\n\n---\n\n*Archived: {link}*"
+        f.write_text(head + GENERATED_MARK + body + "\n", encoding="utf-8")
+    return retired
+
+
+def archive_skeleton_index(home: str, entries: dict[str, tuple[str, str]], intro: str) -> str:
+    """An archive index laid out like the home page: every home section that lists pages, in home
+    order, each with the archived versions of the pages it lists (or a placeholder for now)."""
+    order, groups, placed, ctx = [], {}, set(), None
+    for line in home.split("\n"):
+        s = line.strip()
+        if m := re.match(r"#{2,3} (.+)$", s):
+            ctx = m.group(1)
+        elif m := re.match(r"\*\*([^*]+)\*\*(?:\s*\*\(.*\)\*)?$", s):
+            ctx = m.group(1)
+        else:
+            if ctx and re.search(r"\[\[", s):
+                if ctx not in groups:
+                    order.append(ctx)
+                    groups[ctx] = []
+                for t in re.findall(r"\[\[([^\]|#\\]+)", s):
+                    if t in entries and t not in placed:
+                        placed.add(t)
+                        groups[ctx].append(t)
+            continue
+        ctx = re.sub(r"\s*\*\(.*?\)\*", "", re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", ctx)).strip()
+    rest = sorted(set(entries) - placed)
+    if rest:
+        order.append("Other Pages")
+        groups["Other Pages"] = rest
+    out = [intro, "", '<div class="sop-spheres">', ""]
+    for title in (t for t in order if t not in ("Tools",)):  # the site's own tools never retire
+        out += [f"**{title}**", ""]
+        out += [f"- [[{entries[n][0]}|{entries[n][1]}]]" for n in groups[title]] or ["*Nothing retired yet.*"]
+        out.append("")
+    return "\n".join(out + ["</div>", ""])
 
 
 def tidy(md: str) -> str:
@@ -2773,6 +2942,25 @@ def convert(with_images: bool) -> None:
 
     print(f"Heading levels normalized: {normalize_heading_levels()} pages")
     print(f"Polished Dark tabs added: {polished_dark_tabs()} pages")
+    # Ultimate versions replaced by Polished ones move to the Archive's Retired Ultimate section
+    retired = retire_ultimate(derived_notes)
+    rname = ARCHIVE_RETIRED.split("/")[-1]
+    (CONTENT / ARCHIVE_RETIRED).mkdir(parents=True, exist_ok=True)
+    (CONTENT / ARCHIVE_RETIRED / f"{rname}.md").write_text(
+        f"---\ntitle: {rname}\nnosearch: true\nparent: \"[[{ARCHIVE}]]\"\n---\n{GENERATED_MARK}\n\n"
+        + archive_skeleton_index(
+            (CONTENT / "index.md").read_text(encoding="utf-8"), retired,
+            "*Ultimate Spheres of Power* content that Diamond Recreational Studios' *Polished* releases have "
+            "since replaced, laid out like the main page. Kept for reference; it is not part of the current "
+            "rules and is left out of search. More will move here as new Polished books replace Ultimate "
+            "content."), encoding="utf-8")
+    archive_page = CONTENT / ARCHIVE / f"{ARCHIVE}.md"
+    if archive_page.exists():
+        archive_page.write_text(archive_page.read_text(encoding="utf-8").rstrip("\n")
+                                + f"\n- [[{rname}]] - *Ultimate* content replaced by *Polished* releases "
+                                  f"({len(retired)} pages so far).\n", encoding="utf-8")
+    write_link_families(pages, derived_notes)
+    print(f"Retired Ultimate: {len(retired)} pages")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

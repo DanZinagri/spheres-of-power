@@ -85,6 +85,18 @@ The ally must be willing or unconscious. This may be done in response to an atta
 
 **Benefit:** When teleporting yourself or a group that includes yourself to a location within a ward you created, you may reduce the action required by one step, from a standard action to a move action or from a move action to a swift action, but not to an immediate action or free action.
 
+#### Guarding Dark (Dual Sphere)
+
+*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
+
+**Prerequisites:** Dark sphere, Protection sphere.
+
+**Benefit:** You gain the following abilities based on the Dark sphere and Protection sphere talents you possess:
+
+- **Darkness’s Embrace:** You may use (succor) talents to sacrifice *cloak* effects you create as though they were an *aegis*. A *cloak* sacrificed this way must be one that has been made to continue without concentration.
+- **Shadow Cage:** *Wards* you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a *ward*, you may spend 1 spell point to add a *gloom*’s effects to the *ward*’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
+- **Umbral Protection:** Whenever you grant an *aegis* to a creature, you may spend 1 spell point to add a *cloak* modified with a (meld) to that *aegis*, paying any additional spell point costs for the *cloak* or its options as appropriate.
+
 #### Homeguard Magic (Dual Sphere) [Archmagi's HB]
 
 **Prerequisites:** Mana sphere, Protection sphere.
@@ -125,40 +137,6 @@ The ally must be willing or unconscious. This may be done in response to an atta
 
 **Benefit:** Whenever you would activate a Plexing aegis, you may turn it into a single enhance effect that you can create rather than an aegis. You must pay the spell point cost of the enhance normally and it follows all of the same stipulations as an aegis created with Plexing aegis.
 
-#### Shadow Cage (Dual Sphere)
-
-<div class="sop-tabs">
-
-<div class="sop-tab" data-tab="polished-dark">
-
-<div class="sop-tab-label">Polished Dark</div>
-
-*Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
-
-Replaced in Polished Dark by **Guarding Dark (Dual Sphere)** ([[Dark Sphere Feats]]).
-
-**Prerequisites:** Dark sphere, Protection sphere.
-
-**Benefit:** You gain the following abilities based on the Dark sphere and Protection sphere talents you possess:
-
-- **Darkness’s Embrace:** You may use (succor) talents to sacrifice *cloak* effects you create as though they were an *aegis*. A *cloak* sacrificed this way must be one that has been made to continue without concentration.
-- **Shadow Cage:** *Wards* you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a *ward*, you may spend 1 spell point to add a *gloom*’s effects to the *ward*’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
-- **Umbral Protection:** Whenever you grant an *aegis* to a creature, you may spend 1 spell point to add a *cloak* modified with a (meld) to that *aegis*, paying any additional spell point costs for the *cloak* or its options as appropriate.
-
-</div>
-
-<div class="sop-tab" data-tab="ultimate">
-
-<div class="sop-tab-label">Ultimate</div>
-
-**Prerequisites:** Dark sphere, Protection sphere.
-
-**Benefit:** When you create a ward, you may spend a spell point to add the effects of a darkness ability you have to it. If you do, the entire area of your ward is a darkness, and your melds work within this ward as if its bearer were within any other darkness that you created.
-
-</div>
-
-</div>
-
 #### Tribal Fortification (Dual Sphere)
 
 **Prerequisites:** Protection sphere, War sphere.
@@ -180,3 +158,7 @@ Neither Permanent Undead nor Lingering Necromancy can extend the duration of the
 **Prerequisites:** Protection sphere, War sphere.
 
 **Benefit:** Allies receive a +1 circumstance bonus to initiative per aegis they bear that you created. This bonus stacks with itself.
+
+---
+
+*Archived: [[Protection Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*

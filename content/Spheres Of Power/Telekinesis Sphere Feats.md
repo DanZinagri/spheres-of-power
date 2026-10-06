@@ -23,30 +23,6 @@ parent: "[[Telekinesis]]"
 
 **Benefit:** When you lift an object with your telekinesis, as part of the same action you may enhance it with one enhancement you possess. You may concentrate on lifting and enhancing the item with a single action. Only a single object can benefit from this combination, even if you can enhance or lift more than one at a time.
 
-#### Event Horizon (Dual Sphere)
-
-<div class="sop-tabs">
-
-<div class="sop-tab" data-tab="polished-dark">
-
-<div class="sop-tab-label">Polished Dark</div>
-
-Removed in Polished Dark. The [[Dark]] sphere's Deadly Darkness talent (Inescapable Darkness) is similar in function.
-
-</div>
-
-<div class="sop-tab" data-tab="ultimate">
-
-<div class="sop-tab-label">Ultimate</div>
-
-**Prerequisites:** Dark sphere, Telekinesis sphere (Gravity Well).
-
-**Benefit:** You may use the Gravity Well talent as a (darkness) talent covering the full area of a darkness or blot. You may do the same with the Gravity Shift talent. If you have Gravity Manipulation advanced talent, you may use it as a (darkness) or (blot) talent. When used as (darkness) or (blot) talents, Gravity Shift and Gravity Manipulation count as Dark sphere talents for determining caster level and bonus effects.
-
-</div>
-
-</div>
-
 #### Extradimensional Assembly
 
 **Prerequisites:** Telekinesis sphere (Whirlwind Assembly), Warp sphere (Extradimensional Storage (space)).
@@ -126,3 +102,7 @@ You may use telekinesis to move objects both directly towards you and directly a
 **Benefit:** By weaving your illusions together with a hint of telekinetic force you can allow them to exert force more appropriate to their apparent nature. Your illusions can support weight or block movement of creatures or objects so long as all pressure and weight on it falls within the size limit of your telekinesis. However, anyone who disbelieves the illusion may choose to ignore the telekinetic effect, moving through the illusion as normal, as well as allowing them to throw or move items through it.
 
 In addition, you may deal lethal damage with your illusions instead of nonlethal damage.
+
+---
+
+*Archived: [[Telekinesis Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*

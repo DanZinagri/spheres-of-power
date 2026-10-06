@@ -19,17 +19,9 @@ parent: "[[War]]"
 
 **Benefits:** Whenever an ally moves through the area of effect of a sphere effect you have successfully identified, they may spend a number of momentum points equal to 1 + the number of spell points spent on the sphere effect. If they do, you may attempt an MSB check against the sphere effect’s MSD, with the moving creature ignoring the sphere effect until the end of their movement on a success.
 
-#### Black Totem (Dual Sphere)
-
-<div class="sop-tabs">
-
-<div class="sop-tab" data-tab="polished-dark">
-
-<div class="sop-tab-label">Polished Dark</div>
+#### Dark Monuments (Dual Sphere)
 
 *Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
-
-Replaced in Polished Dark by **Dark Monuments (Dual Sphere)** ([[Dark Sphere Feats]]).
 
 *Noble wars are fought in the light of day. Winning wars are fought beneath the cloak of night.*
 **Prerequisites:** Dark sphere, War sphere.
@@ -39,20 +31,6 @@ Replaced in Polished Dark by **Dark Monuments (Dual Sphere)** ([[Dark Sphere Fea
 - **Black Totem:** *Totems* you create are treated as a *gloom* you created for the purposes of other abilities and effects (such as your *cloak* ability and conflicting with light effects); this does not alter the light level or carry any other effects of your *gloom*. Whenever you create a *totem*, you may spend 1 spell point to add a *gloom*’s effects to the *totem*’s area, paying any additional spell point costs for the *gloom* or its options as appropriate.
 - **Dark Commandments:** While you are within a *gloom* you created, creatures within the area of the same *gloom* may spend points of momentum as though they were within range.
 - **Night Rally:** Whenever you *rally* a creature, you may add a *cloak*’s effects to that rally, paying any additional spell point costs for the *cloak* or its options as appropriate. This *cloak* lasts until the end of the target’s next turn (even if the rally’s duration would end earlier).
-
-</div>
-
-<div class="sop-tab" data-tab="ultimate">
-
-<div class="sop-tab-label">Ultimate</div>
-
-**Prerequisites:** Dark sphere, War sphere.
-
-**Benefit:** When you create a totem, you may spend a spell point to add the effects of a darkness ability you have to it. If you do, the entire area of your totem is a darkness, and your melds work within this totem as if they were within any other darkness that you created.
-
-</div>
-
-</div>
 
 #### Deduction
 
@@ -245,3 +223,7 @@ You can rally the hearts of your people - even after they have stopped beating.
 **Prerequisites:** War sphere, judgment class feature.
 
 **Benefit:** Whenever you create a mandate that you share with another ally, they benefit from judgments you have active. Only one ally (other than yourself) can benefit from your judgments this way.
+
+---
+
+*Archived: [[War Sphere Feats (Ultimate)|Ultimate version]] (before *Polished*)*
