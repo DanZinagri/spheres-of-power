@@ -195,9 +195,9 @@ async function buildSheetPdf() {
   ry = bar(region.x, ry, region.w, "Combat") - 4
   const sw = (region.w - 2 * 6) / 3
   const statRows = [
-    [["Hit points", c.hp], ["Armor class", c.ac], ["Initiative", signed(c.abl.dex.mod)]],
+    [["Hit points", c.hp], ["Armor class", c.ac], ["Initiative", signed(c.init)]],
     [["Touch", c.touch], ["Flat-footed", c.flat], ["Base attack", signed(c.bab)]],
-    [["CMB", signed(c.cmb)], ["CMD", c.cmd], ["Speed", `${num(s.race.speed)} ft`]],
+    [["CMB", signed(c.cmb)], ["CMD", c.cmd], ["Speed", `${c.speed} ft`]],
   ]
   for (const r of statRows) {
     r.forEach(([label, value], i) => statBox(region.x + i * (sw + 6), ry, sw, label, value))
@@ -205,7 +205,7 @@ async function buildSheetPdf() {
   }
   room(15 + 34)
   ry = bar(region.x, ry - 4, region.w, "Saving throws") - 4
-  ;[["Fortitude", c.saves.fort + c.abl.con.mod], ["Reflex", c.saves.ref + c.abl.dex.mod], ["Will", c.saves.will + c.abl.wis.mod]].forEach(([label, v], i) =>
+  ;[["Fortitude", c.saveTotals.fort], ["Reflex", c.saveTotals.ref], ["Will", c.saveTotals.will]].forEach(([label, v], i) =>
     statBox(region.x + i * (sw + 6), ry, sw, label, signed(v)))
   ry -= 34
   const armorBits = [c.acp ? `Armor check penalty -${c.acp}` : null, c.asf ? `Arcane spell failure ${c.asf}%` : null].filter(Boolean)
@@ -259,10 +259,10 @@ async function buildSheetPdf() {
       room(30)
       const ranged = wpn.attack === "ranged"
       const enh = num(wpn.enh)
-      const base = c.bab + (ranged ? c.abl.dex.mod : c.abl.str.mod) + c.size + enh
+      const base = c.bab + (ranged ? c.abl.dex.mod : c.abl.str.mod) + c.size + enh + c.attackMod[ranged ? "ranged" : "melee"]
       const iter = [base]
       for (let extra = c.bab - 5; extra > 0; extra -= 5) iter.push(base - (c.bab - extra))
-      const dmgMod = (ranged ? 0 : c.abl.str.mod) + enh
+      const dmgMod = (ranged ? 0 : c.abl.str.mod) + enh + c.damageMod[ranged ? "ranged" : "melee"]
       const dmg = wpn.damage ? `${wpn.damage}${dmgMod ? signed(dmgMod) : ""}` : "-"
       const cr = num(wpn.critRange) || 20
       const crit = `${cr < 20 ? `${cr}-20` : "20"}/×${num(wpn.critMult) || 2}`
@@ -298,6 +298,15 @@ async function buildSheetPdf() {
     fRoom(15 + 30)
     fy = bar(FX, fy - 6, FW, title) - 4
   }
+  // description followed by a plain-text summary of the item's changes and notes
+  function withChanges(e) {
+    const lines = [String(e.desc ?? "").trim()]
+    const ch = (e.changes ?? []).filter((x) => x.target && String(x.formula ?? "").trim())
+    if (ch.length) lines.push("Changes: " + ch.map((x) => `${targetLabel(x.target)} ${/^[-+]/.test(x.formula.trim()) ? "" : "+"}${x.formula.trim()} (${PF1_FORMULA.bonusTypes[x.type] ?? x.type})`).join("; "))
+    for (const n of (e.notes ?? []).filter((x) => String(x.text ?? "").trim())) lines.push(`Note: ${n.text.trim()}`)
+    return lines.filter(Boolean).join("\n")
+  }
+
   // one titled entry: name (+ meta on the right) and a wrapped description
   function entry(name, meta, desc) {
     const lines = desc ? wrap(desc, 8, FW - 12) : []
@@ -326,14 +335,22 @@ async function buildSheetPdf() {
       text(clean(head), FX + 2, fy - 12, 11, bold, ACCENT)
       if (sub) textR(sub, FX + FW - 2, fy - 12, 7.5, font, SOFT)
       fy -= 17
-      for (const t of groups[key]) entry(t.name, [t.tags, t.exclude ? "not counted" : ""].filter(Boolean).join("  ·  "), t.desc)
+      for (const t of groups[key]) entry(t.name, [t.tags, t.exclude ? "not counted" : ""].filter(Boolean).join("  ·  "), withChanges(t))
     }
   }
 
   if (s.features.length) {
     section("Feats & features")
     for (const kind of Object.keys(FEATURE_KINDS))
-      for (const f of s.features.filter((x) => x.kind === kind)) entry(f.name, FEATURE_KINDS[kind], f.desc)
+      for (const f of s.features.filter((x) => x.kind === kind)) entry(f.name, FEATURE_KINDS[kind], withChanges(f))
+  }
+
+  if (s.buffs.length) {
+    section("Buffs")
+    for (const b of [...s.buffs].sort((a, z) => Number(!!z.active) - Number(!!a.active))) {
+      const dur = String(b.duration ?? "").trim() ? `${b.duration} ${DURATION_UNITS[b.units] ?? ""}`.trim() : DURATION_UNITS[b.units] && b.units ? DURATION_UNITS[b.units] : ""
+      entry(`${b.active ? "[x] " : "[  ] "}${b.name || "Buff"}`, [BUFF_KINDS[b.kind], b.level !== "" && b.level != null ? `level ${b.level}` : "", dur].filter(Boolean).join("  ·  "), withChanges(b))
+    }
   }
 
   if (s.spells.length) {

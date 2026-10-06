@@ -49,7 +49,7 @@ const POINT_COST = { 7: -4, 8: -2, 9: -1, 10: 0, 11: 1, 12: 2, 13: 3, 14: 5, 15:
 
 const TABS = [
   ["details", "Details"], ["abilities", "Abilities"], ["race", "Race"], ["classes", "Classes"],
-  ["skills", "Skills"], ["features", "Feats & Features"], ["spheres", "Spheres"], ["spells", "Spells"],
+  ["skills", "Skills"], ["features", "Feats & Features"], ["buffs", "Buffs"], ["spheres", "Spheres"], ["spells", "Spells"],
   ["gear", "Gear"], ["notes", "Notes"], ["export", "Export"],
 ]
 
@@ -75,6 +75,7 @@ function blankState() {
     bonusFeats: 0,
     portrait: "",
     features: [],
+    buffs: [],
     talents: [],
     spheresModule: false,
     backgroundSkills: false,
@@ -95,7 +96,7 @@ function normalize(s) {
   for (const k of ["details", "abilities", "race", "sphere", "spellcasting", "currency", "subSkills", "skillAbility"]) out[k] = { ...base[k], ...(s[k] || {}) }
   out.race.mods = { ...base.race.mods, ...(s.race?.mods || {}) }
   out.classes = (s.classes?.length ? s.classes : base.classes).map((c, i) => ({ ...blankClass(i === 0), ...c }))
-  for (const k of ["features", "talents", "spells", "gear"]) out[k] = Array.isArray(s[k]) ? s[k] : []
+  for (const k of ["features", "talents", "buffs", "spells", "gear"]) out[k] = Array.isArray(s[k]) ? s[k] : []
   return out
 }
 
@@ -125,12 +126,22 @@ const num = (v) => (Number.isFinite(+v) ? +v : 0)
 const mod = (score) => Math.floor((score - 10) / 2)
 const signed = (n) => (n >= 0 ? `+${n}` : `${n}`)
 
+// Preview numbers. Changes from features, talents and active buffs are evaluated against the
+// unmodified character, then applied in a second pass (Foundry resolves them in priority order,
+// so formulas that depend on other changes can differ slightly).
 function calc() {
+  const base = calcCore(() => 0)
+  const { totals, skipped } = changeTotals(buildRollData(base))
+  if (!Object.keys(totals).length) return Object.assign(base, { changeTotals: totals, changeSkipped: skipped })
+  return Object.assign(calcCore((t) => totals[t] ?? 0), { changeTotals: totals, changeSkipped: skipped })
+}
+
+function calcCore(m) {
   const s = state
   const abl = {}
   for (const k of ABL) {
-    const total = num(s.abilities[k]) + num(s.race.mods[k])
-    abl[k] = { total, mod: mod(total) }
+    const total = num(s.abilities[k]) + num(s.race.mods[k]) + m(k)
+    abl[k] = { total, mod: mod(total) + m(`${k}Mod`) }
   }
   const classes = s.classes.filter((c) => num(c.level) > 0)
   const hd = classes.reduce((a, c) => a + num(c.level), 0)
@@ -138,9 +149,9 @@ function calc() {
   // variant: sum the fractions across classes, round down once, and add +2 once for any good save
   const frac = !!s.fractionalBonuses
   const babRate = { high: 1, med: 0.75, low: 0.5 }
-  const bab = frac
+  const bab = m("bab") + (frac
     ? Math.floor(classes.reduce((a, c) => a + babRate[c.bab] * num(c.level), 0))
-    : classes.reduce((a, c) => a + Math.floor(babRate[c.bab] * num(c.level)), 0)
+    : classes.reduce((a, c) => a + Math.floor(babRate[c.bab] * num(c.level)), 0))
   const saves = {}
   for (const k of ["fort", "ref", "will"]) {
     if (frac) {
@@ -149,7 +160,9 @@ function calc() {
     } else saves[k] = classes.reduce((a, c) => a + (c[k] === "high" ? 2 + Math.floor(num(c.level) / 2) : Math.floor(num(c.level) / 3)), 0)
   }
   const classHp = s.classes.map((c, i) => classHpFor(c, i))
-  const hp = classHp.reduce((a, b) => a + b, 0) + abl.con.mod * hd + classes.reduce((a, c) => a + num(c.fcbHp), 0)
+  const hp = classHp.reduce((a, b) => a + b, 0) + abl.con.mod * hd + classes.reduce((a, c) => a + num(c.fcbHp), 0) + m("mhp")
+  const saveAbl = { fort: "con", ref: "dex", will: "wis" }
+  const saveTotals = Object.fromEntries(Object.entries(saveAbl).map(([k, a]) => [k, saves[k] + abl[a].mod + m(k) + m("allSavingThrows")]))
 
   const size = SIZES[s.race.size]?.[1] ?? 0
   let armor = 0, shield = 0, maxDex = Infinity, acp = 0, asf = 0
@@ -166,18 +179,25 @@ function calc() {
     }
   }
   const dexAc = Math.min(abl.dex.mod, maxDex)
-  const ac = 10 + armor + shield + dexAc + size
-  const touch = 10 + dexAc + size
-  const flat = 10 + armor + shield + Math.min(0, dexAc) + size
-  const cmb = bab + abl.str.mod - size
-  const cmd = 10 + bab + abl.str.mod + abl.dex.mod - size
+  const acMods = m("ac") + m("aac") + m("sac") + m("nac")
+  const ac = 10 + armor + shield + dexAc + size + acMods
+  const touch = 10 + dexAc + size + m("ac") + m("tac")
+  const flat = 10 + armor + shield + Math.min(0, dexAc) + size + acMods + m("ffac")
+  const cmb = bab + abl.str.mod - size + m("cmb")
+  const cmd = 10 + bab + abl.str.mod + abl.dex.mod - size + m("cmd")
+  const init = abl.dex.mod + m("init")
+  const speed = num(s.race.speed) + m("landSpeed") + m("allSpeeds")
+  const attackMod = { melee: m("attack") + m("wattack") + m("mattack"), ranged: m("attack") + m("wattack") + m("rattack") }
+  const damageMod = { melee: m("damage") + m("wdamage") + m("mwdamage") + m("mdamage"), ranged: m("damage") + m("wdamage") + m("rwdamage") + m("rdamage") }
+  const skillExtra = (k, a, rank) => m("skills") + m(`${a}Skills`) + m(`skill.${k}`) + (rank ? 0 : m("unskills"))
 
   const classSkills = new Set(classes.flatMap((c) => c.classSkills))
   let skillBudget = 0
   for (const c of classes) skillBudget += Math.max(1, num(c.skills) + abl.int.mod) * num(c.level) + num(c.fcbSkill)
   skillBudget += num(s.race.bonusSkillPerLevel) * hd
-  const bonusSkill = evalFormula(s.bonusSkillFormula, { hd, int: abl.int.mod })
-  if (bonusSkill.value != null) skillBudget += bonusSkill.value
+  const bonusSkill = evalFormula(s.bonusSkillFormula, { attributes: { hd: { total: hd } }, abilities: { int: { mod: abl.int.mod } } })
+  if (bonusSkill.value != null) skillBudget += Math.floor(bonusSkill.value)
+  skillBudget += m("bonusSkillRanks")
   // background ranks overspent spill into the normal pool, as in the PF1 system
   let normalUsed = 0, bgUsed = 0
   for (const k of Object.keys(SKILLS)) {
@@ -190,37 +210,20 @@ function calc() {
   const bgBudget = s.backgroundSkills ? BG_PER_LEVEL * hd : 0
   const ranksUsed = normalUsed + Math.max(0, bgUsed - bgBudget)
 
-  const featSlots = Math.ceil(hd / 2) + num(s.race.bonusFeats) + num(s.bonusFeats)
+  const featSlots = Math.ceil(hd / 2) + num(s.race.bonusFeats) + num(s.bonusFeats) + m("bonusFeats")
   const featsTaken = s.features.filter((f) => f.kind === "feat").length
   // pf1spheres: CL = sum of progression x level (capped at HD); MSB/MSD base = levels in casting classes
   const casters = s.spheresModule ? classes.filter((c) => c.caster !== "none") : []
   // pf1spheres rounds per class unless Fractional Base Bonuses is on
   const clPart = (c) => ({ low: 0.5, mid: 0.75, high: 1 }[c.caster] ?? 0) * num(c.level)
-  const cl = Math.min(hd, Math.floor(casters.reduce((a, c) => a + (frac ? clPart(c) : Math.floor(clPart(c))), 0)))
-  const msb = casters.reduce((a, c) => a + num(c.level), 0)
+  const sm = (t) => (s.spheresModule ? m(t) : 0)
+  const cl = Math.min(hd, Math.floor(casters.reduce((a, c) => a + (frac ? clPart(c) : Math.floor(clPart(c))), 0))) + sm("spherecl")
+  const msb = casters.reduce((a, c) => a + num(c.level), 0) + sm("msb")
   const castMod = s.sphere.casting ? abl[s.sphere.casting].mod : 0
-  const spheres = { cl, msb, msd: 11 + msb, concentration: msb + castMod, talents: {} }
+  const spheres = { cl, msb, msd: 11 + msb + sm("msd"), concentration: msb + castMod + sm("sphereConcentration"), talents: {} }
   for (const t of s.talents) if (t.sphere && !t.exclude) spheres.talents[t.sphere] = (spheres.talents[t.sphere] ?? 0) + 1
   const pointsSpent = ABL.reduce((a, k) => a + (POINT_COST[num(s.abilities[k])] ?? NaN), 0)
-  return { abl, hd, bab, saves, hp, classHp, ac, touch, flat, cmb, cmd, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
-}
-
-// Preview-only evaluation of simple Foundry formulas (numbers, + - * /, floor/ceil, a few @ paths).
-// Anything else is left for Foundry to work out.
-function evalFormula(formula, { hd, int }) {
-  const f = String(formula || "").trim()
-  if (!f) return { value: 0 }
-  const expr = f
-    .replace(/@attributes\.hd\.total/g, String(hd))
-    .replace(/@abilities\.int\.mod/g, String(int))
-    .replace(/\b(floor|ceil|round)\(/g, "Math.$1(")
-  if (!/^(?:[\d+\-*/(). ]|Math\.(?:floor|ceil|round))*$/.test(expr)) return { value: null }
-  try {
-    const v = Function(`"use strict"; return (${expr})`)()
-    return Number.isFinite(v) ? { value: Math.floor(v) } : { value: null }
-  } catch {
-    return { value: null }
-  }
+  return { abl, hd, bab, saves, saveTotals, hp, classHp, ac, touch, flat, cmb, cmd, init, speed, attackMod, damageMod, skillExtra, acp, asf, classSkills, skillBudget, bonusSkill, ranksUsed, bgUsed, bgBudget, featSlots, featsTaken, cl, spheres, pointsSpent, size }
 }
 
 function classHpFor(c, i) {
@@ -328,7 +331,7 @@ function visibleTabs() {
 }
 function renderTabs() {
   if (!visibleTabs().some(([id]) => id === tab)) tab = "details"
-  const counts = { features: state.features.length, spheres: state.talents.length, spells: state.spells.length, gear: state.gear.length }
+  const counts = { features: state.features.length, buffs: state.buffs.length, spheres: state.talents.length, spells: state.spells.length, gear: state.gear.length }
   const nav = document.getElementById("tabs")
   nav.replaceChildren(
     ...visibleTabs().map(([id, label]) =>
@@ -350,15 +353,15 @@ function renderSummary() {
       ),
     ),
     h("div", { class: "card" },
-      h("div", { class: "stat-grid" }, stat("HP", c.hp), stat("AC", c.ac), stat("Init", signed(c.abl.dex.mod))),
+      h("div", { class: "stat-grid" }, stat("HP", c.hp), stat("AC", c.ac), stat("Init", signed(c.init))),
       h("dl", { class: "kv", style: "margin-top:.6rem" },
         h("dt", {}, "Touch / flat-footed"), h("dd", {}, `${c.touch} / ${c.flat}`),
         h("dt", {}, "BAB"), h("dd", {}, signed(c.bab)),
         h("dt", {}, "CMB / CMD"), h("dd", {}, `${signed(c.cmb)} / ${c.cmd}`),
-        h("dt", {}, "Fort"), h("dd", {}, signed(c.saves.fort + c.abl.con.mod)),
-        h("dt", {}, "Ref"), h("dd", {}, signed(c.saves.ref + c.abl.dex.mod)),
-        h("dt", {}, "Will"), h("dd", {}, signed(c.saves.will + c.abl.wis.mod)),
-        h("dt", {}, "Speed"), h("dd", {}, `${num(state.race.speed)} ft.`),
+        h("dt", {}, "Fort"), h("dd", {}, signed(c.saveTotals.fort)),
+        h("dt", {}, "Ref"), h("dd", {}, signed(c.saveTotals.ref)),
+        h("dt", {}, "Will"), h("dd", {}, signed(c.saveTotals.will)),
+        h("dt", {}, "Speed"), h("dd", {}, `${c.speed} ft.`),
         c.acp ? h("dt", {}, "Armor check penalty") : null, c.acp ? h("dd", {}, `−${c.acp}`) : null,
       ),
     ),
@@ -377,6 +380,10 @@ function renderSummary() {
       state.backgroundSkills ? budget("Background ranks", Math.min(c.bgUsed, c.bgBudget), c.bgBudget) : null,
       budget("Feats", c.featsTaken, c.featSlots),
       h("div", { class: "budget" }, h("span", {}, "Character level"), h("span", {}, c.hd)),
+      Object.keys(c.changeTotals).length || c.changeSkipped.length
+        ? h("p", { class: "note", style: "margin:.4rem 0 0" },
+            `${Object.keys(c.changeTotals).length ? "Includes changes from features, talents and active buffs" : "No changes applied"}${c.changeSkipped.length ? `; ${c.changeSkipped.length} change${c.changeSkipped.length > 1 ? "s" : ""} only Foundry can work out` : ""}.`)
+        : null,
       h("p", { class: "note", style: "margin:.4rem 0 0" }, "Preview only. Foundry recalculates everything when the file is imported."),
     ),
   ].filter(Boolean))
@@ -626,11 +633,26 @@ const panels = {
         field("Bonus feats", input("bonusFeats", { type: "number", min: 0 })),
         h("span", { class: "note", style: "flex:1 1 220px" }, "Extra feats beyond level and race, such as fighter or class bonus feats. Exported to the Bonus Feats box on Foundry's Features tab."),
       ),
-      h("p", { class: "muted" }, "Feats, traits, class features and racial traits. Each one exports as a feature item with your text as its description. Add mechanical effects (Changes) in Foundry if you want them automated."),
-      entryList("features", () => ({ name: "", kind: "feat", desc: "" }), (e, p) => [
+      h("p", { class: "muted" }, "Feats, traits, class features and racial traits. Each one exports as a feature item with your text as its description. Give it changes (e.g. Toughness: Hit Points +3) and Foundry applies them automatically."),
+      entryList("features", () => ({ name: "", kind: "feat", desc: "", changes: [], notes: [] }), (e, p) => [
         field("Name", input(p + "name", { placeholder: "Power Attack" })),
         field("Type", select(p + "kind", FEATURE_KINDS)),
-      ], "+ Add feat or feature", groupBy("kind", FEATURE_KINDS)),
+      ], "+ Add feat or feature", groupBy("kind", FEATURE_KINDS), changesEditor),
+    ]
+  },
+
+  buffs() {
+    return [
+      h("h2", {}, "Buffs"),
+      h("p", { class: "muted" }, "Spells, rages, auras and other effects you switch on and off. Each one exports as a Foundry buff item with its changes. Tick Active to include it in the preview; it's also switched on when imported."),
+      entryList("buffs", () => ({ name: "", kind: "temp", active: false, level: "", duration: "", units: "", desc: "", changes: [], notes: [] }), (e, p) => [
+        field("Name", input(p + "name", { placeholder: "Bless" })),
+        field("Type", select(p + "kind", BUFF_KINDS)),
+        h("div", { class: "field" }, h("span", {}, " "), checkbox(p + "active", "Active")),
+        field("Level", input(p + "level", { type: "number", min: 0, placeholder: "CL", style: "width:4.5rem" }, { allowBlank: true })),
+        field("Duration", attachAutocomplete(input(p + "duration", { placeholder: "e.g. @attributes.hd.total", style: "width:11rem" })), "Number or formula"),
+        field("Units", select(p + "units", DURATION_UNITS)),
+      ], "+ Add buff", groupBy("kind", BUFF_KINDS), changesEditor),
     ]
   },
 
@@ -656,6 +678,7 @@ const panels = {
         h("div", { class: "spacer" }),
         h("button", { class: "small danger", "aria-label": `Remove ${t.name || "talent"}`, onclick: () => { state.talents.splice(i, 1); changed(true) } }, "Remove"),
         h("details", { style: "flex-basis:100%" }, h("summary", { class: "note" }, t.desc ? "Description" : "Add description"), desc),
+        changesEditor(t),
       )
     }
 
@@ -841,7 +864,7 @@ function groupBy(key, labels) {
 }
 
 // editable list of typed entries (feats, talents, spells, gear) with a description box each
-function entryList(key, make, fields, addLabel, grouper) {
+function entryList(key, make, fields, addLabel, grouper, extras) {
   const list = state[key]
   const wrap = h("div", { class: "picked-list" })
   const renderEntry = (i) => {
@@ -854,6 +877,7 @@ function entryList(key, make, fields, addLabel, grouper) {
       h("div", { class: "spacer" }),
       h("button", { class: "small danger", "aria-label": `Remove ${e.name || "entry"}`, onclick: () => { list.splice(i, 1); changed(true) } }, "Remove"),
       det,
+      extras ? extras(e) : null,
     )
   }
   if (!list.length) wrap.append(h("p", { class: "muted" }, "Nothing added yet."))
@@ -904,7 +928,7 @@ function skillTotal(k, rank, c, abl = skillAbl(k)) {
   let t = rank + c.abl[abl].mod
   if (rank > 0 && c.classSkills.has(k)) t += 3
   if (acp) t -= c.acp
-  return t
+  return t + (c.skillExtra ? c.skillExtra(k, abl, rank) : 0)
 }
 
 function renderPanel() {
@@ -964,7 +988,18 @@ function buildActor() {
     items.push(item("class", cls.name || `Class ${i + 1}`, system, extra))
   })
 
-  for (const f of s.features) items.push(item("feat", f.name, { subType: f.kind, description: { value: toHtml(f.desc) } }))
+  for (const f of s.features)
+    items.push(item("feat", f.name, { subType: f.kind, description: { value: toHtml(f.desc) }, changes: exportChanges(f), contextNotes: exportNotes(f) }))
+  for (const b of s.buffs)
+    items.push(item("buff", b.name, {
+      subType: b.kind || "temp",
+      active: !!b.active,
+      level: b.level === "" || b.level == null ? 0 : num(b.level),
+      duration: { value: String(b.duration ?? "").trim() || null, units: b.units || "", end: "" },
+      description: { value: toHtml(b.desc) },
+      changes: exportChanges(b),
+      contextNotes: exportNotes(b),
+    }))
   if (s.spheresModule && s.sphere.tradition) items.push(item("feat", s.sphere.tradition, { subType: "classFeat", tags: ["Casting Tradition"], description: { value: "" } }))
   // talents only make sense with the pf1spheres module, so they're left out when it's switched off
   if (s.spheresModule)
@@ -973,7 +1008,7 @@ function buildActor() {
       if (t.sphere) flags.sphere = t.sphere
       if (t.exclude) flags.countExcluded = true
       const tags = String(t.tags || "").split(",").map((x) => x.trim()).filter(Boolean)
-      const system = { subType: (TALENT_KINDS[t.kind] ?? TALENT_KINDS.magic)[0], tags, description: { value: toHtml(t.desc) } }
+      const system = { subType: (TALENT_KINDS[t.kind] ?? TALENT_KINDS.magic)[0], tags, description: { value: toHtml(t.desc) }, changes: exportChanges(t), contextNotes: exportNotes(t) }
       items.push(item("feat", t.name, system, Object.keys(flags).length ? { flags: { pf1spheres: flags } } : {}))
     }
 

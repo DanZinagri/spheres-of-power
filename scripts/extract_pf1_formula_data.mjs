@@ -1,0 +1,99 @@
+// Pulls the change-target, bonus-type and context-note lists out of a local Foundry install
+// (pf1 system + pf1spheres module) for the character builder's changes editor.
+//
+//   node scripts/extract_pf1_formula_data.mjs [FoundryDataDir] [rolldata-shape.json]
+//
+// The optional second argument is the file scripts/foundry_rolldata_snippet.js downloads; its roll data
+// key layout is used for formula autocomplete.
+import fs from "node:fs"
+import os from "node:os"
+import path from "node:path"
+
+const dataDir = process.argv[2] ?? path.join(process.env.LOCALAPPDATA ?? os.homedir(), "FoundryVTT", "Data")
+const shapeFile = process.argv[3]
+const out = path.resolve(import.meta.dirname, "../quartz/static/character-builder/formula-data.js")
+
+const read = (p) => fs.readFileSync(path.join(dataDir, p), "utf8")
+const flatLang = (o, pre = "", acc = {}) => {
+  for (const [k, v] of Object.entries(o)) typeof v === "object" ? flatLang(v, `${pre}${k}.`, acc) : (acc[pre + k] = v)
+  return acc
+}
+const lang = { ...flatLang(JSON.parse(read("systems/pf1/lang/en.json"))), ...flatLang(JSON.parse(read("modules/pf1spheres/lang/en.json"))) }
+const t = (k) => lang[k] ?? k
+
+// Find the object literal that contains `anchor` and evaluate it (minified config, so it's plain JS)
+function literalAround(src, anchor) {
+  const i = src.indexOf(anchor)
+  if (i < 0) throw new Error(`anchor not found: ${anchor}`)
+  for (let start = src.lastIndexOf("{", i); start >= 0; start = src.lastIndexOf("{", start - 1)) {
+    let depth = 0, end = -1
+    for (let j = start; j < src.length; j++) {
+      if (src[j] === "{") depth++
+      else if (src[j] === "}" && --depth === 0) { end = j; break }
+    }
+    if (end > i) {
+      try {
+        const obj = Function(`return (${src.slice(start, end + 1)})`)()
+        if (obj && typeof obj === "object" && Object.values(obj).every((v) => v && typeof v === "object" && "label" in v)) return obj
+      } catch {}
+    }
+  }
+  throw new Error(`no literal for ${anchor}`)
+}
+function literalNamed(src, name) {
+  const i = src.indexOf(`${name}:{`)
+  if (i < 0) throw new Error(`not found: ${name}`)
+  let depth = 0
+  for (let j = i + name.length + 1; j < src.length; j++) {
+    if (src[j] === "{") depth++
+    else if (src[j] === "}" && --depth === 0) return Function(`return (${src.slice(i + name.length + 1, j + 1)})`)()
+  }
+}
+
+const pf1 = read("systems/pf1/pf1.js")
+const sop = read("modules/pf1spheres/pf1spheres.js")
+
+const targets = literalAround(pf1, "allSavingThrows:{label")
+const categories = literalAround(pf1, 'savingThrows:{label:"PF1.SavingThrowPlural"')
+Object.assign(targets, literalNamed(sop, "buffTargets"))
+Object.assign(categories, literalNamed(sop, "buffTargetCategories") ?? {})
+const bonusTypes = literalNamed(pf1, "bonusTypes")
+const noteTargets = literalNamed(pf1, "contextNoteTargets")
+const noteCategories = literalAround(pf1, `h={attacks:{label:"PF1.Attacks"`.slice(2))
+
+// pf1spheres adds one CL target per magic sphere and one BAB target per combat sphere at runtime
+const cap = (k) => k[0].toUpperCase() + k.slice(1)
+let sphereSort = 45300
+for (const [k, v] of Object.entries(literalNamed(sop, "magicSpheres")))
+  targets[`spherecl${cap(k)}`] = { label: v.label, category: "sphereCasterLevel", sort: sphereSort++ }
+for (const [k, v] of Object.entries(literalNamed(sop, "combatSpheres")))
+  targets[`spherebab${cap(k)}`] = { label: v.label, category: "sphereBAB", sort: sphereSort++ }
+
+const T = Object.entries(targets)
+  // keys starting with ~ or _ are internal; Foundry hides them from the target picker too
+  .filter(([k, v]) => !v.disabled && !k.startsWith("~") && !k.startsWith("_"))
+  .map(([k, v]) => [k, t(v.label), v.category, v.sort ?? 0, v.deferred ? 1 : 0])
+  .sort((a, b) => a[3] - b[3])
+const C = Object.fromEntries(Object.entries(categories).map(([k, v]) => [k, t(v.label)]))
+const B = Object.fromEntries(Object.entries(bonusTypes).map(([k, v]) => [k, t(v)]))
+const N = Object.entries(noteTargets).filter(([k]) => !k.startsWith("~") && !k.startsWith("_")).map(([k, v]) => [k, t(v.label), v.category])
+const NC = Object.fromEntries(Object.entries(noteCategories).map(([k, v]) => [k, t(v.label)]))
+
+// The console-snippet dump adds what modules register at runtime, plus the roll data key layout
+let shape = null
+if (shapeFile) {
+  const dump = JSON.parse(fs.readFileSync(shapeFile, "utf8"))
+  for (const [k, v] of Object.entries(dump.bonusTypes ?? {})) B[k] ??= v
+  for (const [k, v] of Object.entries(dump.contextNoteTargets ?? {}))
+    if (!k.startsWith("~") && !k.startsWith("_") && !N.some((n) => n[0] === k)) N.push([k, v.label, v.category])
+  shape = dump.rollData
+  // per-class entries are keyed by class tag; keep one as the template for every class
+  const classShape = Object.values(shape.classes ?? {})[0]
+  shape.classes = classShape ? { "*": classShape } : {}
+  // long text fields are no use in formulas
+  for (const k of ["biography", "notes"]) delete shape.details?.[k]
+}
+
+const banner = `// Generated by scripts/extract_pf1_formula_data.mjs from the pf1 system and pf1spheres module.\n// Change targets: [key, label, category, sort, deferred]. Do not edit by hand.\n`
+fs.writeFileSync(out, banner + `const PF1_FORMULA = ${JSON.stringify({ targets: T, categories: C, bonusTypes: B, noteTargets: N, noteCategories: NC, rollDataShape: shape })}\n`)
+console.log(`wrote ${out}: ${T.length} targets, ${Object.keys(C).length} categories, ${Object.keys(B).length} bonus types, ${N.length} note targets${shape ? ", roll data shape" : ""}`)

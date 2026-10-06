@@ -576,3 +576,74 @@ select.abl-select.changed {
   color: var(--gray);
   font-size: 0.85em;
 }
+
+/* Character builder: changes, context notes and @ autocomplete */
+details.changes {
+  border-top: 1px dashed var(--lightgray);
+  padding-top: 0.4rem;
+}
+.ch-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+  margin: 0.6rem 0 0.3rem;
+}
+.ch-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: center;
+  margin-bottom: 0.35rem;
+}
+.ch-row .ch-target {
+  flex: 1 1 190px;
+  max-width: 260px;
+}
+.ch-row .ch-formula {
+  flex: 2 1 220px;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.9em;
+}
+.ch-preview {
+  min-width: 5.5rem;
+  font-size: 0.85em;
+  color: var(--gray);
+  font-variant-numeric: tabular-nums;
+}
+.ac-box {
+  position: absolute;
+  z-index: 20;
+  max-height: 260px;
+  overflow-y: auto;
+  background: var(--card);
+  border: 1px solid var(--secondary);
+  border-radius: 6px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+  font-size: 0.88em;
+}
+.ac-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.2rem 0.6rem;
+  cursor: pointer;
+}
+.ac-item.active,
+.ac-item:hover {
+  background: var(--highlight);
+}
+.ac-key {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  color: var(--dark);
+}
+.ac-val {
+  color: var(--gray);
+  white-space: nowrap;
+}
+.ac-hint {
+  padding: 0.25rem 0.6rem;
+  font-size: 0.8em;
+  color: var(--gray);
+  border-top: 1px solid var(--lightgray);
+}
