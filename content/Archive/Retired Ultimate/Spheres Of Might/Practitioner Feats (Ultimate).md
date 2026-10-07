@@ -8,11 +8,63 @@ parent: "[[Retired Ultimate]]"
 > [!note] Retired
 > The *Ultimate Spheres of Power* version of [[Practitioner Feats|Practitioner Feats]], since replaced by Diamond Recreational Studios' *Polished* content. Not part of the current rules.
 
+#### Battle Fanfare (combat) [High. HB]
+
+**Prerequisites:** Warleader sphere, bardic performance or raging song class feature.
+
+**Benefit:** The character gains the ability to attach tactics they create to their songs. While using bardic performance or raging song, the character may maintain an active tactic as part of the song without spending additional actions, this has no effect on the area affected by the tactic. They still must pay any costs associated with the tactic, such as martial focus if required, to use the tactic.
+
+Once per round you may recenter an ongoing tactic maintained as part of using bardic performance or raging song at a new location. Whenever the character creates a new tactic, they may attach it to their song or create it normally. Tactics attached to songs can be ended as a free action. Finally, as long as the song continues, the character may shout once per round as a swift or move action.
+
+##### Belching Shout (drunk) (dual sphere)
+
+**Descriptor:** poison
+
+**Action:** as part of a *shout*
+
+**Target(s):** All other creatures
+
+**Saving Throw:** Fortitude (negates)
+
+**Effect:** Reduce the *shout*'s radius to 5 feet, + 5 feet per 4 Warleader associated skill ranks. In addition to the *shout*'s normal effects, other creatures within the *shout*'s radius are sickened for 1 minute (Fortitude negates).
+
+Creatures with the scent special ability suffer a -2 penalty to their saving throw against this effect.
+
+#### Booming Boast (combat) [Youxia HB]
+
+**Prerequisites:** Gladiator sphere, Warleader sphere.
+
+**Benefits:** Whenever you are able to perform a boast, you may instead perform a shout with the same action.
+
+#### Commander’s Acumen (combat) [Conq. HB]
+
+Your intricate plans come into motion faster.
+
+**Prerequisites:** Warleader sphere, tactician class feature.
+
+**Benefit:** You may begin a tactic as part of the same action as your tactician ability. Your tactic must still be maintained each round as normal.
+
 #### Emotional Conduit
 
 **Prerequisites:** Leadership sphere, (cohort) package, emotion class feature.
 
 As a joint action, you may channel your emotion class feature through one of your cohorts within medium range (100 feet + 10 feet per class level in the class that grants the emotion class feature), treating it as the origin for the effect but using your save DC, durations, and other parameters. Any required attack roll is resolved with the cohort’s base attack bonus, attributes, and other attack roll modifiers.
+
+#### Escutcheon [Apoc]
+
+*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
+
+**Prerequisites:** Banner class feature or Warleader sphere (Heraldry), Shield sphere.
+
+**Benefit:** A decorated shield you carry can act as your banner or flag, allowing you to benefit from those features without needing a free hand. Your shield only counts as your banner or flag while it gives you a shield bonus to AC.
+
+#### Flawless Strategy (combat) [Conq. HB]
+
+When all the pieces come together to make something amazing.
+
+**Prerequisites:** Warleader sphere, ability to share teamwork feats, challenge class feature, character level 11th.
+
+**Benefit:** When using your challenge class ability to challenge a target, allies you have shared a teamwork feat with (such as with the Cavalier’s tactician ability, Warleader conscript specialization’s born leader ability, the Cavalry Officer Cavalier’s officer ability, or any other similar ability subject to GM discretion) and are benefiting from a Warleader tactic you created also receive half the benefits of your challenge class ability, including half the benefits from your order if applicable (minimum +1). Allies benefit from your challenge’s bonuses until the target of your talent is dead or unconscious or until the combat ends.
 
 #### Friends In Close Places [Conq. HB]
 
@@ -30,8 +82,26 @@ In addition, whenever your followers attempt a skill check using your ranks or b
 
 When you begin a bard song or raging song, you may pass it off to a cohort within 30 feet as a free action. The cohort may maintain the performance as a standard action each round, spending your rounds of performance normally to do so. You may initiate a performance while another one is being maintained by your cohort, though multiple instances of the same performance do not stack.
 
+#### Petrifying Pennant [Apoc]
+
+*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
+
+**Prerequisites:** Base attack bonus +8 or Diplomacy 8 ranks, banner class feature or Warleader sphere (Heraldry).
+
+**Benefit:** As long as your banner or flag is clearly visible, all enemies within range of your banner (or tactics if you possess the Heraldry talent) take a -2 penalty on saving throws against fear effects.
+
+**Special:** If you possess the Gladiator sphere Strike Fear ability or the Terrifying Pierce Lancer talent, when you attempt to demoralize a creature affected by your banner, you can lower the DC of the check by 2.
+
 #### Shared Rage (combat)
 
 **Prerequisites:** Leadership sphere, (cohort) package, rage or bloodrage class feature.
 
 When you activate your rage, you may extend its benefits and penalties to one cohort within 30 feet as a swift action. The cohort spends rage rounds from your pool. The cohort may end its rage at will, suffering the normal penalties for doing so. The cohort need not remain within range to maintain this rage. You may share rage with more than one cohort; each requires a separate swift action and each spend one round from your rage rounds each round.
+
+#### Tactical Ensign [Apoc]
+
+*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
+
+**Prerequisites:** Diplomacy 10 ranks, Warleader sphere (Heraldry), banner class feature.
+
+**Benefit:** An ally who benefits from a tactic you create is considered to be within range of your banner and receives its benefits accordingly.

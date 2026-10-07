@@ -28,6 +28,8 @@ parent: "[[Archive]]"
 
 **Combat Spheres**
 
+- [[Warleader (warleader-sphere) (Ultimate)|Warleader]]
+- [[Warleader Sphere Drawbacks (Ultimate)|Warleader Sphere Drawbacks]]
 - [[Leadership (Ultimate)|Leadership]]
 - [[Leadership Sphere Drawbacks (Ultimate)|Leadership Sphere Drawbacks]]
 
@@ -80,6 +82,14 @@ parent: "[[Archive]]"
 
 **Practitioner Classes**
 
+- [[Commander (Ultimate)|Commander]]
+- [[Administrator (Ultimate)|Administrator]]
+- [[Bearon (Commander Archetype) (Ultimate)|Bearon (Commander Archetype)]]
+- [[Courtly Tactician (Ultimate)|Courtly Tactician]]
+- [[Dreadlord (Ultimate)|Dreadlord]]
+- [[Feylord (Ultimate)|Feylord]]
+- [[Noble (Ultimate)|Noble]]
+- [[Visionary General (Ultimate)|Visionary General]]
 - [[Conscript (Ultimate)|Conscript]]
 - [[Garrison (Ultimate)|Garrison]]
 
@@ -94,5 +104,10 @@ parent: "[[Archive]]"
 **Prestige Classes**
 
 *Nothing retired yet.*
+
+**Other Pages**
+
+- [[Braveheart (Ultimate)|Braveheart]]
+- [[Vanguard (Ultimate)|Vanguard]]
 
 </div>

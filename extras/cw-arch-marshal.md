@@ -1,0 +1,35 @@
+<!-- extras: page | Spheres Of Might/Commander/Marshal | Marshal | might -->
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*A grand marshal's presence is the guiding hand of a seasoned mentor, a confident leader, and a capable warrior.*
+
+## Marshal's Tactics
+
+The marshal cannot select a drawback that trades away the (tactic) package.
+
+This alters battlefield operator.
+
+## Complex Presence (Ex)
+
+At 1st level, the marshal can add 1 additional (tactic)'s *tactical presence* to their *tactic* (this is in addition to the normal effects of their chosen (tactic)).
+
+The marshal chooses additional (tactic) options each time they *engage tactics*; the marshal still chooses 1 (tactic) to be the "primary" tactic, determining the *tactical coordination* and any augments the marshal may use.
+
+At 4th level, and every 3 levels thereafter, the marshal can add 1 additional (tactic)'s *tactical presence* to their *tactic* this way.
+
+This replaces lingering commands.
+
+## Supreme Presence (Ex)
+
+At 20th level, the marshal's ongoing *tactic* now always passively includes both the *tactical presence* and *tactical coordination*. Once per round, the marshal may use any (tactic)'s augments without expending martial focus.
+
+This replaces lord commander.
+
+## Marshal Enhanced Tactics
+
+The marshal has unique and exclusive access to the following enhanced tactic:
+
+### Lingering Presence (requires marshal 10th level)
+
+Other allies retain the benefits of the marshal's *tactical presence* for 1 round after they would no longer be affected (such as by entering the radius and leaving during the same turn).

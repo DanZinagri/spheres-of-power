@@ -1,0 +1,233 @@
+<!-- extras: page | Archetypes (Unsorted)/Spoken Dao (Unchained Monk Archetype) | Spoken Dao (Unchained Monk Archetype) | might -->
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*Some monks forge themselves into weapons. Instead of such crude methods, the spoken dao wields the ancient truths of their words.*
+
+## Proficiencies
+
+A spoken dao receives a martial tradition, gaining proficiency with simple weapons, light armor, and bucklers, in addition to the combat talents granted by their martial tradition.
+
+This modifies proficiencies.
+
+## Combat Training (Ex)
+
+A spoken dao is considered an adept practitioner, gaining combat spheres and talents as appropriate.
+
+This replaces bonus feats.
+
+## Dao of Words
+
+At 1st level, the spoken dao gains the Warleader sphere, plus 1 additional Warleader talent at 5th level and every 4 levels thereafter. The spoken dao cannot select a drawback that trades away the (shout) package.
+
+The spoken dao treats the Warleader sphere as an unarmed sphere, becoming proficient with their unarmed strikes and increasing their unarmed strike damage as they gain additional talents in unarmed spheres.
+
+This replaces unarmed strike.
+
+## Refinement Technique
+
+At 1st level, the spoken dao chooses a refinement technique, choosing a path for their words to take shape. A full list of refinement techniques are detailed below.
+
+This replaces stunning fist, still mind, and improved evasion.
+
+## Words Into Action (Ex)
+
+At 1st level, whenever the spoken dao performs a *battlecry* as a special attack action, they may make 1 additional unarmed strike with a -2 penalty. At 11th level, they may choose to instead make 2 additional unarmed strikes each with a -4 penalty.
+
+If the spoken dao would possess an ability that is used as part of a flurry of blows, such as spending ki for a bonus unarmed strike or their style strikes ability, the spoken dao may use those abilities as part of performing a *battlecry* as a special attack action.
+
+This alters flurry of blows.
+
+## Charged Cadence (Su)
+
+At 3rd level, as long as the spoken dao has at least 1 ki point, the spoken dao increases the radius and range of any ability with the auditory [voice] descriptor, such as the *shout* sphere ability, by +10 feet, +10 feet for every 6 levels after 3rd (+20 feet at 9, +30 feet at 15).
+
+## Truths of the Venerated Master (Ex)
+
+At 20th level, the spoken dao transcends mortality but chooses to remain within this lesser realm as a venerated master. The spoken dao ceases aging, becomes immune to magical aging effects, and no longer dies of old age. The spoken dao still accrues ability score bonuses due to their age, but not ability score penalties due to their age (and removes any penalties they acquired before obtaining this ability).
+
+In addition, the spoken dao becomes a Warleader sphere grandmaster (Drop Dead Studios, *Youxia's Handbook*), even if they would not normally qualify to be a Warleader sphere grandmaster. This is in addition to any other status as a grandmaster the spoken dao has achieved (and may allow the spoken dao to be a grandmaster of more than one sphere).
+
+This replaces perfect self.
+
+**Note:** If the spoken dao possesses the timeless body feature, this feature functionally improves it to prevent death by old age.
+
+## Spoken Dao Refinement Techniques
+
+The spoken dao selects a refinement technique at 1st level, gaining abilities related to their chosen refinement technique at 1st, 4th, 11th, and 20th level. If a refinement technique would require a saving throw, the DC is equal to 10 + 1/2 the spoken dao's level + the spoken dao's Wisdom modifier.
+
+### Dragon Gate Refinement Technique
+
+**Defiant Current (Su):** At 1st level, while at or below 1/2 their maximum hit points, the spoken dao gains a +2 bonus on attack rolls and saving throws and a +1 bonus to their Warleader sphere saving throw DCs. The spoken dao also gains this bonus for 1 round whenever they are struck by a critical hit or fail a saving throw; if multiple of these conditions are met, these bonuses stack (such as a spoken dao at or below 1/2 their maximum hit points, having been critically struck and failed a saving throw would have a total +6 on attack rolls and saving throws and a +3 bonus to their Warleader sphere DCs for 1 round).
+
+**Scales of the Climb (Su):** At 4th level, the spoken dao gains a +1 natural armor bonus to AC and their natural armor bonus now applies against touch attacks. This bonus increases to +2 at 11th level, and +3 at 20th level. At 20th level, whenever any touch attack misses the spoken dao, as an immediate action, the spoken dao may choose a new target for that touch attack (using the original effect's range to determine targets, but the spoken dao makes a new attack roll).
+
+**Rising Against the Falls (Su):** At 11th level, the spoken dao gains a swim speed equal to their base land speed and gains the high jump ki power as a bonus ki power. The spoken dao's jump distance can exceed their base speed, and when at the surface of water, the spoken dao may jump as though standing on a solid surface. In addition, the spoken dao may spend 1 ki point as an immediate action to reroll a failed save, taking the better result. The spoken dao treats using this ability as though they failed a saving throw for the defiant current ability.
+
+**Truth of the Dragon Gate:** At 20th level, the defiant current, scales of the climb, and rising against the falls abilities become extraordinary abilities (usable even when magic would be disallowed). In addition, the spoken dao gains the Truth of the Dragon Gate (shout), which they may use once per day.
+
+#### Truth of the Dragon Gate (shout)
+
+*The humble carp has climbed from quiet streams to raging waterfalls to glimpse the heavens.*
+
+**Descriptor:** supernatural
+
+**Duration:** 1 round per 2 spoken dao levels
+
+**Target(s):** allies, enemies
+
+**Saving Throw:** Will negates (enemies only, see text)
+
+**Effect:** Allies gain a fly speed equal to their base land speed (good maneuverability), increase their natural armor by +4, and deal an additional +4d6 damage on their first successful attack each round.
+
+For the duration, whenever an enemy would attempt to move closer to the spoken dao (by any form of movement, including teleportation), they must first succeed at a Will saving throw. A failure means that the enemy cannot move closer to the spoken dao and must move at least 5 feet farther away from the spoken dao with their movement.
+
+### Heaven's Mandate Refinement Technique
+
+**Heaven's Voice (Su):** At 1st level, whenever the spoken dao *shouts*, they may target one ally or enemy within the shout's radius. An ally gains a +2 bonus on their next attack roll or saving throw before the start of the spoken dao's next turn. An enemy instead takes a -2 penalty on their next attack roll or saving throw (Will negates).
+
+**Heavenly Senses (Su):** At 4th level, the spoken dao cannot be deafened and may always act in a surprise round. In addition, the spoken dao always knows the direction and distance of any creature currently affected by one of their shouts, regardless of line of sight or distance. At 11th level, the spoken dao cannot be blinded. At 20th level, the spoken dao gains the ability to see alignment auras of other creatures, functioning as a permanent *aura sight* effect.
+
+**Heavenly Decree (Su):** At 11th level, whenever an enemy fails a saving throw against one of the spoken dao's *shouts* or heaven's voice, the spoken dao chooses one of the following actions: make an attack, cast a spell, or use a consumable or item (such as a potion or wand). Until the start of the spoken dao's next turn, whenever the creature takes the chosen action, it provokes an attack of opportunity from the spoken dao or any of their allies. In addition, as an immediate action after the spoken dao or an ally within 30 feet is struck by an attack, the spoken dao may spend 1 ki point to grant the struck creature the benefits of *sanctuary* for 1 round per 4 spoken dao levels.
+
+**Truth of the Heaven's Mandate:** At 20th level, the heaven's voice, heavenly senses, and heavenly decree abilities become extraordinary abilities (usable even when magic would be disallowed). In addition, the spoken dao gains the Truth of the Heaven's Mandate (shout), which they may use once per day.
+
+#### Truth of the Heaven's Mandate (shout)
+
+*The heavens do not ask. The world itself rearranges itself to its whims.*
+
+**Descriptor:** supernatural
+
+**Duration:** 1 round per 2 spoken dao levels
+
+**Target(s):** allies, enemies
+
+**Saving Throw:** Will negates (enemies only)
+
+**Effect:** The spoken dao gains a pool of heavenly mandate points equal to their Wisdom modifier. For the duration, at the start of the spoken dao's turn, the spoken dao gains 1 additional heavenly mandate point.
+
+The spoken dao may spend heavenly mandate points at any time to alter the world around them:
+
+- *The Heavens Demand This Retribution* (2 points): One ally's successful attack is treated as a critical threat, rolling to confirm as normal.
+- *The Heavens Deny This Fate* (1 point): One ally rerolls a single failed check, taking the better result.
+- *The Heavens Forbid This Transgression* (3 points): An enemy's attack, spell, or other ability targeting an ally or including an ally in its area is negated entirely, as though it never happened. The heavens may only negate a single effect this way once per round.
+
+At the end of this (shout)'s duration, for each remaining heavenly mandate point, the spoken dao heals for 10 hit points. The spoken dao may distribute this healing among any other allies that were affected by this (shout).
+
+Enemies that fail their saving throw are rebuked by the heavens: they cannot reroll any d20 rolls for the duration, if to do so would be beneficial (they may still be forced to reroll and take a worse result).
+
+### Iron Body Refinement Technique
+
+**Iron Bell (Su):** At 1st level, whenever the spoken dao *shouts*, they gain temporary hit points equal to their Wisdom modifier + 1/2 their spoken dao level. These temporary hit points last until the start of their next turn.
+
+**Tempered Flesh (Su):** At 4th level, the spoken dao gains DR 2/– and Endurance as a bonus feat. This damage reduction improves to 5 at 11th level, and 10 at 20th level.
+
+**Resonant Iron (Su):** At 11th level, the spoken dao is immune to the battered, dazzled, and sickened conditions. In addition, when struck by a critical hit or after taking precision damage, the spoken dao may spend 1 ki point as an immediate action to treat themselves as having 100% fortification for that attack (which may treat that attack as a normal hit, prevent the precision damage, and so on). If this prevents a critical hit or precision damage, the attacker provokes an attack of opportunity from the spoken dao.
+
+**Truth of the Iron Body:** At 20th level, the iron bell, tempered flesh, and resonant iron abilities become extraordinary abilities (usable even when magic would be disallowed). In addition, the spoken dao gains the Truth of the Iron Body (shout), which they may use once per day.
+
+#### Truth of the Iron Body (shout)
+
+*The temple bells echo the impermanence of all things, but the body is iron and iron remains.*
+
+**Descriptor:** supernatural
+
+**Duration:** 1 round per 2 spoken dao levels (allies); 1 round plus permanent (enemies; see text)
+
+**Target(s):** allies, enemies
+
+**Saving Throw:** Fortitude partial (enemies only)
+
+**Effect:** Allies gain DR 15/adamantine and become immune to blindness, critical hits, ability score damage, deafness, disease, electricity, poison, stunning, and all effects that affect physiology or the need to breathe (subject to GM discretion), and take 1/2 damage from acid and fire. For the duration, allies are treated as wearing or being made of iron.
+
+Enemies are battered and staggered for 1 round and permanently deafened, except to the spoken dao's *shouts*. A successful Fortitude saving throw reduces the deafened condition to 1 round.
+
+### Jade Heart Refinement Technique
+
+**Flowing Meridian (Su):** At 1st level, whenever the spoken dao *shouts*, they heal a number of hit points equal to their Wisdom modifier + 1/2 their spoken dao level, up to the amount of damage the spoken dao has taken since the start of their previous turn.
+
+**Mending Breath (Su):** At 4th level, the spoken dao gains a +2 bonus on saves against poison, disease, and other continuous or ongoing harmful effects (such as effects that allow a new save each round to end). This bonus improves to +4 at 11th level and +6 at 20th level.
+
+**Unbroken Vessel (Su):** At 11th level, the spoken dao may reduce any ability damage and ability drain they take by 2 (to a minimum of 0); if this reduction prevents ability damage or ability drain associated with a beneficial effect, it also prevents the beneficial effect. In addition, as a standard action, or a swift action if targeting themselves, the spoken dao may spend 1 ki point to restore a target's meridians, allowing the target to attempt a new saving throw against a single non-permanent negative condition, using the original save DC. A successful saving throw made this way is treated as a successful saving throw against the original effect (and may remove that effect, such as succeeding against a spell or preventing exposure to a poison). A failed saving throw made this way does not worsen the effect (such as for a disease or poison).
+
+**Truth of the Jade Heart:** At 20th level, the flowing meridian, mending breath, and unbroken vessel abilities become extraordinary abilities (usable even when magic would be disallowed). In addition, the spoken dao gains the Truth of the Jade Heart (shout), which they may use once per day.
+
+#### Truth of the Jade Heart (shout)
+
+*The jade does not crack, it deepens. The spring within you never runs dry.*
+
+**Descriptor:** supernatural
+
+**Duration:** 1 round per 2 spoken dao levels (allies); instantaneous, +1 round per 2 spoken dao levels (enemies)
+
+**Target(s):** allies, enemies
+
+**Saving Throw:** Fortitude partial (enemies only); see text
+
+**Effect:** Allies heal 20d8 hit points, are restored of all ability damage and ability drain, are cured of any poison or diseases, and have the nauseated or sickened conditions removed. For the duration, allies gain fast healing 10.
+
+Enemies are nauseated for 1 round and sickened for this shout's duration. A successful Fortitude save prevents the nauseated condition, but not the sickened condition. If the enemy is an undead creature or damaged by positive energy, they also take 20d8 positive energy damage (Fortitude half).
+
+### Sovereign Reflection Refinement Technique
+
+**Sovereign Mark (Su):** At 1st level, whenever the spoken dao shouts, they may mark one creature within the shout's radius they can see. The spoken dao always knows the exact location and distance of the marked creature, and once per round may move 10 feet as a free action directly toward the marked creature. Only one creature may be marked at a time; marking a new creature immediately ends the previous mark. At 4th level, the spoken dao rolls twice and takes the better result whenever a miss chance or concealment would cause their attacks or abilities to fail against the marked creature. At 11th level, the spoken dao pinpoints the marked creature's exact location regardless of invisibility, darkness, or any other obscuring effect, and may move 10 feet + 1/2 their fast movement bonus as a free action directly toward the marked creature once per round. At 20th level, the spoken dao is innately aware of every creature within their shout's radius and may mark a creature this way even if they cannot see, hear, or otherwise perceive them.
+
+**Unshakeable Self (Su):** At 4th level, the spoken dao gains a bonus equal to 1/2 their spoken dao level on saving throws against illusion effects. At 11th level, this bonus also applies to mind-affecting effects. At 20th level, the spoken dao is immune to all illusion and mind-affecting effects unless they choose to be affected or deceived.
+
+**Sovereign Step (Su):** At 11th level, the spoken dao ignores difficult terrain created by magic or supernatural effects, cannot be moved against their will (immune to bull rush, drag, reposition, and unwilling teleportation), and their movement does not provoke attacks of opportunity from creatures affected by an emotion or fear effect (such as shaken, uncertain, and so on). In addition, the spoken dao may spend 1 ki point as a swift action to treat any number of creatures within close range (25 feet + 5 feet per 2 spoken dao levels) as marked until the start of their next turn, and may use sovereign mark's movement for each marked target.
+
+**Truth of the Sovereign Reflection:** At 20th level, the sovereign mark, unshakeable self, and sovereign step abilities become extraordinary abilities (usable even when magic would be disallowed). In addition, the spoken dao gains the Truth of the Sovereign Reflection (shout), which they may use once per day.
+
+#### Truth of the Sovereign Reflection (shout)
+
+*You stare back down the mountain you have climbed, the self-assured master. You speak and the world itself shall remember.*
+
+**Descriptor:** supernatural
+
+**Duration:** instantaneous, plus 1 round per 2 spoken dao levels
+
+**Target(s):** allies
+
+**Effect:** Allies within the shout's radius are immediately cured of all negative mind-affecting effects, restored of any ability damage or ability drain to mental ability scores, and immediately succeed on any saving throw to disbelieve illusions they can currently see.
+
+For the duration, the spoken dao becomes the eye of the storm, a bastion of total clarity. Allies benefiting from this shout cannot be feinted or flanked, cannot be forced to reroll a check against their will, and may benefit from the spoken dao's sovereign mark as though they were the spoken dao.
+
+### Unbroken Lineage Refinement Technique
+
+**Phantom Stance (Su):** At 1st level, whenever the spoken dao shouts, an ancestral echo manifests in an empty square within the *shout*'s radius, remaining there until the end of the spoken dao's next turn. The echo is size Medium, threatens the squares adjacent to it, and may be treated as an ally for the purpose of flanking (but does not prevent movement, block line of sight, etc.). Enemies threatened by an ancestral echo take a -2 penalty on attack rolls and Will saves.
+
+**Inherited Memory (Su):** At 4th level, the spoken dao adds their Wisdom modifier as an insight bonus on all Knowledge checks and on Intelligence checks to recall information, and may attempt Knowledge checks untrained. At 11th level, the spoken dao becomes immune to charm and compulsion effects and to any effect that would alter their memory or sense of direction, including *maze*, *modify memory*, and Polished Dark's directional darkness. At 20th level, the spoken dao may retrain one feat whenever they rest and regain resources.
+
+**Inherited Instinct (Su):** At 11th level, once per round, when the spoken dao fails an attack roll or saving throw, they may invoke the ancestors' guidance. For a failed attack roll, they reroll against a different target within range or reach at a -4 penalty. For a failed saving throw, they reroll using a different saving throw bonus at a -4 penalty (for example, failing a Reflex saving throw and rerolling using their Will saving throw bonus instead); this reroll is still treated as the original saving throw type for all purposes. In addition, the spoken dao may spend 1 ki point as a swift action to gain one combat feat they qualify for as a bonus feat for 1 round per spoken dao level. If the chosen feat is a style feat, the spoken dao also gains any subsequent feats in that style chain they qualify for the same duration (such as selecting Crane Style would also grant Crane Deflection and Crane Wing if they qualified for it).
+
+**Truth of the Unbroken Lineage:** At 20th level, the phantom stance, inherited memory, and inherited instinct abilities become extraordinary abilities (usable even when magic would be disallowed). In addition, the spoken dao gains the Truth of the Unbroken Lineage (shout), which they may use once per day.
+
+#### Truth of the Unbroken Lineage (shout)
+
+*They did not die. They wait in the spaces between your words, ready to speak again.*
+
+**Descriptor:** supernatural
+
+**Duration:** 1 round per 2 spoken dao levels
+
+**Target(s):** allies, enemies
+
+**Saving Throw:** Will negates (enemies only)
+
+**Effect:** The first weapon attack or spell each ally uses each round is echoed by an ancestral phantom, repeating against the same target or area for 25% of its original effect: damage, healing, and any other numeric effect is reduced to 25% of the original roll (minimum 1), spell DCs are reduced by 4, and durations are reduced to 25% of the original (minimum 1 round). Weapon attack echoes use the original attack roll; spell echoes grant the target a new saving throw at the reduced DC.
+
+Enemies that fail their saving throw treat all other creatures as having 50% concealment for the duration as phantasmal figures press from all sides to obscure their vision.
+
+## Spoken Dao Ki Powers
+
+The spoken dao has unique and exclusive access to the following ki powers:
+
+### Unbroken Transmission (Su) (requires spoken dao 6th level)
+
+The spoken dao speaks truth through the maelstrom of chaos as sure as dew forms on flowers.
+
+The spoken dao is immune to the deafened condition and may always speak and be heard normally. This includes being heard by a deafened creature, speaking in areas of magical silence, or even speaking normally underwater or in a vacuum.
+
+The spoken dao's *shouts* and other abilities with the auditory [voice] descriptor are never blocked by magical silence and may affect deaf creatures without penalty.
+
+**Special:** This ki power becomes an extraordinary ability at 20th level when the spoken dao gains the final ability from their refinement technique.

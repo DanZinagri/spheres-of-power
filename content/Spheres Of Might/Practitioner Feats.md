@@ -38,19 +38,52 @@ The shark’s frenzy turns to a churning rage.
 
 Upon impact, the creature falls prone and takes normal falling damage (maximum: 1d6 per 10 ft. in its falling speed). A falling creature is considered entangled until it hits the ground, but it can attempt a Fly check as a free action at the start of its turn to stop falling before it hits the ground (DC = 15 + your base attack bonus); otherwise, it is unable to move (other than falling) but can act normally. You can choose to descend with the opponent, although this movement cannot exceed two times your normal flight speed.
 
+#### Amateur Field Officer [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*You've read the field manuals and feel confident enough to start giving orders.*
+
+**Prerequisites:** Base attack bonus +5; Warleader sphere; no levels in a class that grant the enhanced tactic class feature.
+
+**Benefit:** You gain one commander enhanced tactic, treating your effective commander level as 1 for the purposes of qualifying for and the effects of the chosen enhanced tactic.
+
+**Special:** If you gain levels in a class that has the enhanced tactic class feature, you can immediately trade this feat for the Extra Enhanced Tactic feat.
+
+#### Amateur Field Tactician [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*You're familiar enough with the terrain and feel confident enough to help guide others.*
+
+**Prerequisites:** Base attack bonus +5; favored terrain class feature.
+
+**Benefit:** You gain one battlefield specialty that is closely associated with a favored terrain you possess (subject to GM discretion), treating your effective commander level for this battlefield specialty as 1. The terrain skill bonus granted by this battlefield specialty is equal to 1/2 your favored terrain bonus for the associated terrain (minimum 1).
+
+You may share this battlefield specialty through your Warleader sphere abilities as normal. If you possess an ability to share your favored terrain benefits with allies, you may also share this battlefield specialty with those allies.
+
+**Special:** If you possess levels in a class that grants the battlefield specialty class feature, your levels in that class and the class that grants favored terrain stack when determining the effects of your battlefield specialties, including the battlefield specialty granted by this feat (instead of having an effective commander level of 1).
+
 #### Backup Breaker (Combat) [Alienist HB]
 
 **Prerequisites:** Boxing sphere, Dual Wielding sphere.
 
 **Benefit:** When you ready a counter punch to make a dual attack, you may make only the attack with your primary or off-hand weapon when your counter punch is triggered. If you do, you may make your other attack when another creature would perform an action that would trigger your counter punch before the start of your next turn. You may only apply a (counter) talent to one of these attacks made as part of this counter punch. The bonus damage from a counter punch is applied to both attacks. These counter punches count as attacks in a dual attack for the purposes of Dual Wielding talents.
 
-#### Battle Fanfare (combat) [High. HB]
+#### Battle Fanfare (Combat) [DRS]
 
-**Prerequisites:** Warleader sphere, bardic performance or raging song class feature.
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
 
-**Benefit:** The character gains the ability to attach tactics they create to their songs. While using bardic performance or raging song, the character may maintain an active tactic as part of the song without spending additional actions, this has no effect on the area affected by the tactic. They still must pay any costs associated with the tactic, such as martial focus if required, to use the tactic.
+*The same songs carry a new meaning during war.*
 
-Once per round you may recenter an ongoing tactic maintained as part of using bardic performance or raging song at a new location. Whenever the character creates a new tactic, they may attach it to their song or create it normally. Tactics attached to songs can be ended as a free action. Finally, as long as the song continues, the character may shout once per round as a swift or move action.
+**Prerequisites:** Warleader sphere; bardic performance or raging song class feature.
+
+**Benefit:** You gain the following benefits based on the Warleader sphere packages you possess:
+
+- **(shout):** When you begin or continue your bardic performance or raging song, you may also *shout* as a move or swift action.
+- **(tactic):** When you begin or continue your bardic performance or raging song, you may also *engage tactics* without spending additional actions. Your *tactic*'s radius cannot exceed your bardic performance or raging song's radius when used this way.
+
+**Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.
 
 #### Bloodrunner [CrimDan]
 
@@ -58,15 +91,29 @@ Once per round you may recenter an ongoing tactic maintained as part of using ba
 
 **Benefit:** Your body has grown a tolerance for the blood of others, and you have learned to use it to your advantage. You ignore any detriment from traversing on bloody terrain, such as difficult terrain or the terrain being considered slippery (as long as blood is the only reason that terrain is detrimental), and you gain a +2 bonus on all saving throws against bleed effects and any effect from the Blood sphere. You can distinctly tell the difference between the blood of any two creatures, and can identify the blood of creatures you have witnessed before. You can attempt a Knowledge check to identify a creature by merely witnessing its blood, as if you had seen the creature by sight, but only if the blood was shed within an hour of you attempting to identify it.
 
-#### Booming Boast (combat) [Youxia HB]
+#### Booming Boast (Combat, Dual Sphere) [DRS]
 
-**Prerequisites:** Gladiator sphere, Warleader sphere.
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
 
-**Benefits:** Whenever you are able to perform a boast, you may instead perform a shout with the same action.
+*Confident and loud.*
+
+**Prerequisites:** Gladiator sphere, Warleader sphere ((shout) package).
+
+**Benefit:** Whenever you *boast*, you may instead *shout*. Enemies affected by your *shouts* are treated as being demoralized for the purposes of your Gladiator (demoralization) talents.
 
 #### Brain Consumption [Alienist HB]
 
 **Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion).
+
+##### Carve Them Up! (shout) (dual sphere)
+
+**Duration:** 2 rounds, +1 round per 4 associated skill ranks
+
+**Target(s):** allies
+
+**Effect:** When an ally hits a bleeding target, increase the bleeding target's current bleed by 1. A bleeding target can only have their bleed increased this way once per round per attacker.
+
+If the attack is a critical hit, instead increase the bleeding target's current bleed by the weapon's critical hit multiplier, then the target takes damage from their current total bleed (as though starting their turn).
 
 #### Camp of Operations [DRS]
 
@@ -122,14 +169,6 @@ Your knowledge of one particular combat sphere is without peer.
 
 **Special:** You may select this feat multiple times, each time selecting a different sphere.
 
-#### Commander’s Acumen (combat) [Conq. HB]
-
-Your intricate plans come into motion faster.
-
-**Prerequisites:** Warleader sphere, tactician class feature.
-
-**Benefit:** You may begin a tactic as part of the same action as your tactician ability. Your tactic must still be maintained each round as normal.
-
 #### Companion Trigger (combat)
 
 **Prerequisites:** Animal Companion class feature, Mount class feature, or Beastmastery sphere.
@@ -144,6 +183,30 @@ Your intricate plans come into motion faster.
 **Benefit:** Whenever you create a mutagen that gives a choice between multiple options, you can choose two such options—for example, a Performance Enhancer could grant its benefits to both Strength and Dexterity, as well as its associated penalties.
 
 If such a mutagen would only apply to a single instance of a roll (such as Psychotropic Hallucinogen), the mutagen applies to both chosen instances of the roll—for example, a Psychotropic Hallucinogen would apply to the next check made with an Intelligence-based skill check, as well as to the next check made with a Wisdom-based skill check.
+
+##### Constant Chatter
+
+This modifies the *shout* sphere ability.
+
+**Action:** free action (once per round)
+
+**Duration:** 1 round
+
+**Target(s):** one creature (line of sight or chosen square)
+
+**Effect:** You *shout*, but only affect a single creature of your choice within range (this typically requires you target that creature, having line of sight or knowing the space they are occupying). The *shout*'s duration is reduced to 1 round and cannot be extended by other effects.
+
+You cannot use this option with any of the following: instantaneous duration (shout)s, (dual sphere) abilities, and abilities and effects that would occur after performing a *shout*.
+
+#### Constant Chatter (Combat) [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*You never learned how to stop talking. You have learned how to make it count.*
+
+**Prerequisites:** Warleader associated skill 6 ranks; Warleader ((shout) package).
+
+**Benefit:** You gain the following option:
 
 #### Consumptive Intuition [Alienist HB]
 
@@ -198,6 +261,18 @@ While ooze creatures cannot normally be purchased in traditional marketplaces, G
 
 **Benefit:** You may customize your bound weapons. You may summon a customized bound weapon as a free action whenever you would be able to draw a customized weapon as a free action. You may add half your armiger levels toward your armorist level for determining the maximum enhancement bonus value of your bound equipment. If you possess the enhanced customization class feature, you may add half your armorist levels toward your armiger level for determining the maximum enhancement bonus from enhanced customization.
 
+#### Decorated Insight [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+**Prerequisites:** Decorum class feature.
+
+**Benefit:** Choose two additional skills, chosen from the following list: Appraise, Bluff, Handle Animal, Knowledge (any), Ride, Sense Motive.
+
+Your commander's decorum bonus now also applies to the chosen skills.
+
+**Special:** You are treated as possessing Skill Focus for each skill that decorum grants a bonus towards for the purposes of qualifying for prerequisites and other effects.
+
 #### Defender’s Bonds [BTH]
 
 The bonds between a warrior and his faithful companions shine in combat.
@@ -250,6 +325,18 @@ Etching your limbs with exquisite art, your body truly becomes a weapon.
 
 **Author's Note:** Dragon's Tattoos applies to all of your unarmed strikes and natural attacks, essentially like an amulet of mighty fists.
 
+#### Drink and Directive (Combat, Dual Sphere) [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*
+
+**Prerequisites:** Barroom sphere; Warleader sphere.
+
+**Benefit:** You may use both *hard drinker* and *engage tactics* as part of the same action, using the longer of the two actions required.
+
+In addition, you gain the following option:
+
 #### Dual Wielding Mystic Fusion
 
 **Prerequisites:** Dual Wielding Sphere, Spherecasting.
@@ -294,13 +381,31 @@ Whenever you perform an attack action and expend martial focus to deal additiona
 >
 > When you reveal this plan, the prepared cohort arrives in 15 minutes, as though just recruited. You may only reveal this plan if you have an available slot for a cohort (such as a cohort having recently died or needing replacement). This plan may only be prepared a single time, even if you could prepare multiple plans at once.
 
-#### Escutcheon [Apoc]
+#### Escutcheon (Combat) [DRS]
 
-*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
 
-**Prerequisites:** Banner class feature or Warleader sphere (Heraldry), Shield sphere.
+*A shield can guard a body. Yours guards an army.*
 
-**Benefit:** A decorated shield you carry can act as your banner or flag, allowing you to benefit from those features without needing a free hand. Your shield only counts as your banner or flag while it gives you a shield bonus to AC.
+**Prerequisites:** Shield sphere; Warleader sphere (Heraldry) or banner class feature.
+
+**Benefit:** When using your standard as a shield, you increase the radius of your Warleader sphere abilities by 5 feet, +5 feet per enhancement bonus of your shield.
+
+In addition, you gain the following option:
+
+##### Clangorous Shout (deflect) (dual sphere)
+
+**Effect:** When an attack misses a creature benefitting from your *active defense*, you *shout*. A *shout* performed this way only affects a single target within range. If the chosen (shout) affects enemies, you must target the attacking creature that missed.
+
+#### Expanded Battlefield Specialty [plan] [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*Always plan for the next battlefield.*
+
+**Prerequisite:** Commander 10th level, battlefield specialty class feature.
+
+**Benefit:** You gain an additional battlefield specialty. In addition, you gain the following plan:
 
 #### Extend Stance (combat) [Youxia HB]
 
@@ -333,6 +438,16 @@ Your knowledge of combat is easily expanded.
 **Benefit:** Gain an additional sphere or a talent from a combat sphere you possess.
 
 **Special:** You may take this feat multiple times. The effects stack.
+
+#### Extra Enhanced Tactics [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+**Prerequisite:** Enhanced tactic class feature.
+
+**Benefit:** You gain an additional enhanced tactic you qualify for.
+
+**Special:** You may take this feat multiple times; each time you do, you gain another enhanced tactic.
 
 #### Extra Ki Power [Youxia HB]
 
@@ -399,14 +514,6 @@ Your experimentations have unlocked new insights.
 **Benefit:** Gain an additional technical insight for which you qualify.
 
 **Special:** This feat may be taken a second time starting at 11th and a third time starting 17th level.
-
-#### Flawless Strategy (combat) [Conq. HB]
-
-When all the pieces come together to make something amazing.
-
-**Prerequisites:** Warleader sphere, ability to share teamwork feats, challenge class feature, character level 11th.
-
-**Benefit:** When using your challenge class ability to challenge a target, allies you have shared a teamwork feat with (such as with the Cavalier’s tactician ability, Warleader conscript specialization’s born leader ability, the Cavalry Officer Cavalier’s officer ability, or any other similar ability subject to GM discretion) and are benefiting from a Warleader tactic you created also receive half the benefits of your challenge class ability, including half the benefits from your order if applicable (minimum +1). Allies benefit from your challenge’s bonuses until the target of your talent is dead or unconscious or until the combat ends.
 
 #### Flyby Attack (Monster)*
 
@@ -496,6 +603,18 @@ You know the secrets of repairing and restoring firearms.
 
 If your base attack bonus is +10 or higher, you may suppress the dazed, frightened, nauseated, shaken, staggered, and stunned conditions and treat the panicked condition as shaken, though the duration of the suppression is cut in half (minimum 1 round).
 
+#### Hunting Party (Combat) [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*Blood draws a crowd, and a crowd draws blood.*
+
+**Prerequisites:** Warleader sphere 5 associated skill ranks; Duelist sphere; Warleader sphere.
+
+**Benefit:** You and allies benefitting from your Warleader sphere effects gain a +2 bonus on critical confirmation rolls against bleeding targets and a +2 bonus on Perception and Survival checks made against bleeding targets. These bonuses increase to +4 at 10 associated skill ranks.
+
+In addition, you gain the following option:
+
 #### Improved Atavism [Apoc]
 
 *Source: [Spheres Apocrypha: The Inheritor and Improved Atavism Heritages](https://www.drivethrurpg.com/product/347553/Spheres-Apocrypha-The-Inheritor-and-Improved-Atavism-Heritages?affiliate_id=549120)*
@@ -526,6 +645,16 @@ Calculate the effects of abilities granted by this feat with your effective Bers
 | Undead | **Thief Of Life (Su):** You are healed by both positive and negative energy effects if they could heal a living or undead creature. You take damage from positive or negative energy effects normally if it could not heal a living or undead creature (such as a cleric’s channel negative energy to harm or a Destruction sphere Nether Blast dealing negative energy damage). <br> Whenever an opponent within 30 feet of you receives any amount of healing (except fast healing or regeneration), you also heal an amount equal to half the healing received unless that opponent succeeds at a Will saving throw. If multiple opponents would be healed simultaneously by the same effect, you only receive healing once from this ability even if multiple opponents fail their saving throw. | **Lash Of The Pale Court (Su):** Whenever you successfully make an attack action against a creature, that creature is marked with a necrotic scar. Necrotic scars last until the end of your next turn; whenever you mark a creature with a necrotic scar, refresh the duration of each active necrotic scar. A creature with a necrotic scar is referred to as a “scarred creature” by this ability. Necrotic scars from different sources are tracked separately. Abilities and effects which refer to scarred creatures or necrotic scars are limited to necrotic scars you have created, not necrotic scars from any source. <br> Scarred creatures suffer negative energy damage equal to your practitioner modifier at the start of their turn (to a maximum of your base attack bonus). If a scarred creature possesses necrotic scars from multiple sources, they only suffer this damage once. <br> You may expend your martial focus as an immediate action to end any number of active necrotic scars, causing each scarred creature to take negative energy damage equal to 1d6 + 1d6 per 5 base attack bonus (Fortitude half). For each necrotic scar ended this way, the saving throw DC increases by +1. <br> If a scarred creature would be marked by you an additional time, you may target 1 unmarked creature + 1 additional unmarked creature per 10 base attack bonus within close range of the creature (25 feet + 5 feet per 2 base attack bonus), marking them with a necrotic scar until the end of your next turn. <br> Negative energy damage from this ability cannot heal undead creatures. |
 | Vermin | **Vermin Heart (Ex):** You gain a natural armor bonus that stacks with other sources of natural armor equal to +1 + 1 per 5 base attack bonus. In addition, you reduce any damage taken from a swarm by 1/2 your base attack bonus (minimum 1). Whenever you would attempt a saving throw against a swarm’s abilities, you roll twice and take the better result. | **Swarmblade (Ex):** Your weapon attacks deal full damage to swarms, regardless of the swarm’s immunity to weapon damage (if any; damage reduction applies as normal). <br> In addition, whenever you successfully make an attack action against a non-swarm creature, that creature gains infested wounds (Fortitude negates). Whenever a creature with infested wounds attempts to take a standard or full-round action, they suffer untyped damage equal to your practitioner modifier + 1/2 your base attack bonus (minimum 1). This counts as taking damage when casting a spell for the purpose of concentration checks. This is treated as a swarm’s distraction ability for the purposes of immunities. Creatures immune to effects which require a Fortitude save are not immune to this ability, but instead gain a +4 bonus on their saving throw to resist the effects (such as constructs and undead). <br> A creature with infested wounds can end this effect by either receiving healing greater than or equal to the infesting attack’s damage or by spending a move action. The effects of infested wounds do not stack; if a creature would gain infested wounds more than once, use the strongest instance of infested wounds to determine how much healing is required to remove the effect and how much damage is inflicted. |
 
+#### Improvised Doctrine (Combat) [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*You've studied every playbook long enough to write one.*
+
+**Prerequisites:** Warleader associated skill 8 ranks; Warleader (any three talents).
+
+**Benefit:** Once per day as a free action, you may select a single Warleader sphere talent you do not possess. You gain that talent as a temporary talent for 24 hours, or until the next time you rest and regain your resources.
+
 #### Inkbound Portents [Conq. HB]
 
 Whether through acts of charlatanism or infusing your paints with latent magic, you’ve become skilled with using your paints to depict cryptic, almost prophetic imagery.
@@ -555,6 +684,30 @@ Additionally, the talents you possess within the Shield sphere count towards you
 **Effect:** Each cohort you *recruit* also selects one cohort job they do not possess, gaining that job's 2nd-level benefit and their choice between that job's 3rd and 5th-level benefits. For example, a wildling could select warrior, gaining their 2nd-level skill bonuses and their choice between armor or weapon training.
 
 Additional job benefits granted by this feat can be retrained similar to retraining a feat, such as with Training Coordination's training regiment option.
+
+#### Marking Quarry (Combat) [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*Nobody is better at pointing out the mission critical targets.*
+
+**Prerequisite:** Warleader ((tactic) package).
+
+**Effect:** Once per round as a free action, you may mark a creature within the area of your *tactic* for 1 round. The first time an ally successfully damages the marked target, that attack deals an additional 1d6 damage and the mark is consumed.
+
+When you mark a creature this way, you may have the mark carry one additional effect based on other Warleader sphere talents you possess (chosen each time you mark). If an additional effect requires a saving throw, the saving throw DC is equal to your Warleader sphere DC.
+
+- **Aggression Doctrine:** The marked target is also **exposed** (this functions identically to synchronized strikes, bypassing an amount of defenses, or all defenses if synchronized strike's *tactical coordination* is active).
+- **Alertness Doctrine:** When the marked target is struck, for 1 round, that creature suffers a -20 penalty on Stealth checks and cannot benefit from darkness, invisibility, *blur* or *displacement*, and other similar effects.
+- **Antimagic Doctrine:** When the marked target is struck, if that creature attempts to cast a spell within 1 round, they cannot choose to cast a spell without it being cast defensively.
+- **Control Doctrine:** When the marked target is struck, that creature is also battered for 1 round.
+- **Covert Doctrine:** When the marked target is struck, for 1 round, that creature treats all other creatures more than 5 feet away as having concealment and is unable to automatically pinpoint their locations with special senses (such as blindsight) (Will negates).
+- **Deescalation Doctrine:** When the marked target is struck, that creature exits or abandons any approach, stance, style (or similar ability) they are maintaining and loses concentration over any effects they are concentrating on (Will negates).
+- **Defense Doctrine:** When the marked target is struck, the striking ally gains a +2 circumstance bonus to their AC for 1 round.
+- **Fearmonger Doctrine:** When the marked target is struck, for 1 round, that creature must succeed on a Will save whenever it attempts to move closer to you, the striking ally, or the source of any fear effect currently affecting it. Failing this save does not prevent the creature from using that movement differently (for example, a creature could attempt to move closer to you, fail, and instead spend that movement moving toward a different creature).
+- **Mobility Doctrine:** When the marked target is struck, the striking ally may immediately move up to 10 feet. This movement does not provoke attacks of opportunity from the struck target.
+- **Safety Doctrine:** When the marked target is struck, the striking ally gains a +2 circumstance bonus to all saving throws for 1 round.
+- **Survival Doctrine:** When the marked target is struck, the striking ally gains a number of temporary hit points equal to 1d6 + 1/2 your Warleader associated skill ranks. These temporary hit points last for 1 round.
 
 #### Mixed Conscription [DRS]
 
@@ -634,15 +787,19 @@ After a successful attack action or attack of opportunity against an unscouted t
 
 **Special:** This feat counts as having Iron Will for the purposes of meeting prerequisites of feats.
 
-#### Petrifying Pennant [Apoc]
+#### Petrifying Pennant [DRS]
 
-*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
 
-**Prerequisites:** Base attack bonus +8 or Diplomacy 8 ranks, banner class feature or Warleader sphere (Heraldry).
+*The banner is more than enough to instill fear.*
 
-**Benefit:** As long as your banner or flag is clearly visible, all enemies within range of your banner (or tactics if you possess the Heraldry talent) take a -2 penalty on saving throws against fear effects.
+**Prerequisites:** Warleader sphere 5 associated skill ranks; Warleader sphere (Heraldry) or banner class feature.
 
-**Special:** If you possess the Gladiator sphere Strike Fear ability or the Terrifying Pierce Lancer talent, when you attempt to demoralize a creature affected by your banner, you can lower the DC of the check by 2.
+**Benefit:** Enemies within range of and able to see your presented banner suffer a -2 penalty on saving throws against fear effects. Intimidate checks made to demoralize enemies in the same area gain a +4 circumstance bonus.
+
+Whenever you or an ally causes a creature penalized by this feat to become frightened or panicked, they may have that creature treat your presented banner as the source of their fear (determining which direction they must then flee away from).
+
+**Special - (tactic) package:** If you possess the (tactic) package, your *tactic*'s area also applies these effects.
 
 #### Piranha Strike (combat)*
 
@@ -675,6 +832,12 @@ You are adept at anticipating and interrupting spellcasters.
 **Benefit:** You may expend your martial focus to ready an attack action to disrupt a spell caster’s casting as a move action. The spellcaster must be within reach or range of your wielded weapon. A single casting attempt cannot trigger more than one readied action to interrupt from you.
 
 **Special:** You may take this feat a second time. If you do, you may instead use this ability as a swift action.
+
+##### Prepare for the Battlefield [plan]
+
+**Effect:** When you reveal this plan, you immediately retrain the battlefield specialty granted by this feat.
+
+You can reveal this plan once per week.
 
 #### Projectile Vomit [Apoc]
 
@@ -753,6 +916,18 @@ You may choose to allow a cohort's shared rage to benefit from your full rage be
 
 While maintaining the Floating Butterfly stance, you retain the competence bonus to damage rolls when making a counter punch, in addition to gaining an insight bonus to Reflex saving throws equal to the dodge bonus granted by the talent.
 
+#### Strategy to Action (Combat) [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*"I love it when a plan comes together."*
+
+**Prerequisites:** Warleader sphere 10 associated skill ranks; Warleader sphere (Wargames).
+
+**Benefit:** When you reveal your *combat stratagem* plan as a full-round action, you gain 1 additional swift action during that turn. These additional swift actions cannot be used to cast spells (such as with the Quicken Spell metamagic feat).
+
+If you use one of these additional swift actions to issue a cavalier's challenge, paladin's smite evil, or other similar ability that provides benefits against a single target, each ally benefitting from your Warleader sphere effects also receives half that challenge, smite evil, or other ability's numeric effects (numeric bonuses to rolls or statistics, but not other miscellaneous benefits of the smite or challenge, such as smite evil's ability to bypass damage reduction).
+
 #### Studied Scout
 
 **Prerequisites:** Scout sphere, studied target or studied combat class feature.
@@ -765,13 +940,30 @@ While maintaining the Floating Butterfly stance, you retain the competence bonus
 
 **Benefits:** Whenever you spend an action to activate a (stance) talent, you may activate a style feat as part of that action.
 
-#### Tactical Ensign [Apoc]
+#### Tactical Patrol (Combat) [DRS]
 
-*Source: [Spheres Apocrypha: Banners](https://www.drivethrurpg.com/product/351351/Spheres-Apocrypha-Monster-Traditions?affiliate_id=549120)*
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
 
-**Prerequisites:** Diplomacy 10 ranks, Warleader sphere (Heraldry), banner class feature.
+**Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).
 
-**Benefit:** An ally who benefits from a tactic you create is considered to be within range of your banner and receives its benefits accordingly.
+**Benefit:** Your *tactic* always includes the area of your *patrol*, even if you centered your *tactic* elsewhere.
+
+In addition, you gain the following option:
+
+- **Engaging Patrol (dual sphere):** Whenever you *patrol*, you may *engage tactics* as part of that same action. If you do, instead of selecting a (zone) talent, you may select an additional (tactic); the chosen (tactic)'s *tactical presence* and *tactical coordination* apply to the area of your patrol.
+
+#### Tactician's Acumen (Combat) [DRS]
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*Your intricate plans come into motion faster.*
+
+**Prerequisites:** Warleader sphere ((tactic) package); see text.
+
+**Benefit:** You gain the following benefits based on the following class features you possess:
+
+- **Warleader (Heraldry) or Banner class feature:** Allies benefitting from your *tactic* are always considered to be within range of and able to see your banner, including for when you wave your banner.
+- **Tactician class feature:** When you use your tactician ability, you may also *engage tactics* as part of that same action. In addition, an ally benefitting from your tactician ability benefits from your *tactic*'s *tactical presence*, even if they would not be within range.
 
 #### Talented Followers, Improved [DRS]
 

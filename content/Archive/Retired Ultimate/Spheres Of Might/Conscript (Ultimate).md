@@ -15,3 +15,11 @@ parent: "[[Retired Ultimate]]"
 **Directed Motion:** At 8th level, the conscript may grant an additional move action to a number of cohorts equal to his practitioner ability modifier (minimum 1) as a move action. This additional move action may only be used to move.
 
 **True Leader:** At 20th level, the conscript’s cohorts gain a morale bonus to AC and all saving throws equal to the conscript's practitioner ability modifier and fast healing 5.
+
+### [[Warleader (warleader-sphere)|Warleader]]
+
+**Born Leader:** At 3rd level and every five levels thereafter, a conscript gains a teamwork feat he qualifies for as a bonus feat. The conscript may share these feats with any ally currently benefiting from one of his tactics or shouts, even if they would not normally qualify for it.
+
+**Triumphant Stand (Ex):** Starting at 8th level, whenever a conscript would be dropped to 0 or fewer hit points by a melee or ranged weapon attack while he has a tactic active, any ally currently benefiting from the tactic may make an aid another check as an immediate action to add +2 to the conscript’s AC (to a maximum bonus of +10). If these bonuses would be enough to raise his AC above the attack roll for the triggering attack, the attack is instead treated as a miss and he takes no damage from it.
+
+**Concerted Finish (Ex):** At 20th level, whenever a conscript confirms a critical hit against a creature, each ally currently benefiting from one of the conscript’s tactics or shouts may make a single attack against the target as an immediate action. This attack may be made with a melee or ranged weapon, but the ally must be threatening the creature to make a melee attack, or have a ranged weapon in hand and ready to fire in order to make a ranged attack.

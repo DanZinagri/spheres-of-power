@@ -347,11 +347,13 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 **Trapped (opener):** A hostile creature fails a save against or takes damage from a trap the prodigy set (or used with the Trap Wielder talent).
 
-### [[Warleader (warleader-sphere)|Warleader]]
+### [[Warleader (warleader-sphere)|Warleader]] [DRS]
 
-**Battlefield Coordination (opener):** Use a shout or activate a tactic with a standard action or longer activation time.
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
 
-**Continue Guidance (link):** Maintain a tactic with a move or swift action.
+**Battlefield Coordination (opener):** *Engage tactics* or *shout* as part of a standard action or longer (including the *battlecry* special attack action).
+
+**Oversight (link):** While the prodigy has a positional benefit against an enemy (such as cover, flanking, or high ground), the prodigy may spend a move or swift action to complete this link. The prodigy must be within close range of the enemy (25 feet + 5 feet per 2 Warleader sphere associated skill ranks).
 
 ### [[Wrestling]]
 

@@ -582,13 +582,17 @@ A magnum opus is any gizmo the conscript could craft, except the conscript may h
 
 **Enduring Trapper (Ex):** At 20th level, a conscript’s traps do not break when activated, resetting after 1 round. Each time they are activated, they lose 5 rounds of their duration (if a trap’s duration would be measured in minutes, it instead loses 5 minutes each time it is activated), breaking when their duration would expire. Traps that contain expendable items such as alchemical items still expend the item upon usage, but may be pre-loaded with additional items, in which case a new one is loaded when the trap resets.
 
-### [[Warleader (warleader-sphere)|Warleader]]
+### [[Warleader (warleader-sphere)|Warleader]] [DRS]
 
-**Born Leader:** At 3rd level and every five levels thereafter, a conscript gains a teamwork feat he qualifies for as a bonus feat. The conscript may share these feats with any ally currently benefiting from one of his tactics or shouts, even if they would not normally qualify for it.
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
 
-**Triumphant Stand (Ex):** Starting at 8th level, whenever a conscript would be dropped to 0 or fewer hit points by a melee or ranged weapon attack while he has a tactic active, any ally currently benefiting from the tactic may make an aid another check as an immediate action to add +2 to the conscript’s AC (to a maximum bonus of +10). If these bonuses would be enough to raise his AC above the attack roll for the triggering attack, the attack is instead treated as a miss and he takes no damage from it.
+**Born Leader (Ex):** At 3rd level and every five levels thereafter, a conscript gains a teamwork feat they qualify for as a bonus feat. The conscript may share these feats with any ally benefitting from one of their Warleader sphere effects, even if they would not normally qualify for those teamwork feats.
 
-**Concerted Finish (Ex):** At 20th level, whenever a conscript confirms a critical hit against a creature, each ally currently benefiting from one of the conscript’s tactics or shouts may make a single attack against the target as an immediate action. This attack may be made with a melee or ranged weapon, but the ally must be threatening the creature to make a melee attack, or have a ranged weapon in hand and ready to fire in order to make a ranged attack.
+**Triumphant Stand (Ex):** Starting at 8th level, whenever an attack would reduce the conscript to 0 or fewer hit points, other allies benefitting from the conscript's Warleader sphere abilities may, as an immediate action, grant a +2 bonus to the conscript's AC against the triggering attack (to a maximum bonus of +10). If these bonuses would raise the conscript's AC above the triggering attack's attack roll, the attack is instead treated as a miss and the conscript retains this increased AC bonus until the start of their next turn.
+
+**Cut the Snake's Head (Ex):** At 20th level, once per encounter as a swift action, the conscript may designate the "snake's head". The conscript and all allies benefitting from the conscript's Warleader sphere effects gain a +2 morale bonus to attack rolls and damage rolls against the snake's head, and a +10 morale bonus to their movement speed (provided this additional movement is used to place the creature closer to the snake's head). At the start of the conscript's turn each round, these bonuses increase by +1 and +5 feet respectively, and can stack up to a number of times equal to the conscript's practitioner modifier. Once per round per ally, when an ally benefitting from this effect confirms a critical hit against the snake's head, these bonuses increase (the same as when the conscript's turn starts).
+
+This effect lasts until the snake's head is killed or surrenders, the encounter would end (subject to GM discretion), or the conscript dies or falls unconscious.
 
 ### [[Wrestling]]
 

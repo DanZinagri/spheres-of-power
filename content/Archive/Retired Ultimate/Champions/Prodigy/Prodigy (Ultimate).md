@@ -13,3 +13,9 @@ parent: "[[Retired Ultimate]]"
 **Directing the Charge (opener):** The prodigy’s cohort deals damage to or succeeds on a combat maneuver against a hostile creature as part of a joint action.
 
 **Press the Attack (finish):** The prodigy may spend a move action to grant an attack action to a cohort within close range (25 feet + 5 feet per 2 ranks in Diplomacy). This attack receives a morale bonus to attack and damage equal to the length of the sequence.
+
+### [[Warleader (warleader-sphere)|Warleader]]
+
+**Battlefield Coordination (opener):** Use a shout or activate a tactic with a standard action or longer activation time.
+
+**Continue Guidance (link):** Maintain a tactic with a move or swift action.

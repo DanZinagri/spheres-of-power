@@ -1,0 +1,45 @@
+<!-- extras: page | Spheres Of Might/Commander/Sworn Officer | Sworn Officer | might -->
+
+*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+
+*Some officers dedicate themselves entirely to a single virtue, refining it until it defines their every action on the battlefield.*
+
+## Sworn Duty (Ex)
+
+At 2nd level, the sworn officer must choose either the duty of cunning, duty of prescience, or duty of valor enhanced tactic.
+
+The sworn officer may now use any [duty] enhanced tactics they possess each round, provided each meets its own triggers and limitations.
+
+This replaces the sworn officer's 2nd-level enhanced tactic.
+
+## Officer's Specialty (Ex)
+
+At 6th level, the sworn officer receives a sworn officer's specialty corresponding to the [duty] enhanced tactic they selected at 2nd level. The sworn officer gains an additional ability at 10th and 14th level.
+
+This replaces seize the moment.
+
+## Sworn Officer's Specialties
+
+### Cunning Specialty
+
+**Requires:** Duty of Cunning.
+
+- **6th level (Fleet Response):** Duty of cunning can be used twice per round instead of only once.
+- **10th level (Sure Footing):** When an ally benefits from duty of cunning, they can move twice instead of once.
+- **14th level (Reversal):** When an ally benefits from duty of cunning, after the creature finishes taking their movement, the officer can then force the enemy whose attack missed to take a 5-foot step into the ally's previous square (or directly towards their previous space). The enemy must be able to move into and occupy the space to complete this movement. This forced movement does not grant a saving throw.
+
+### Prescience Specialty
+
+**Requires:** Duty of Prescience.
+
+- **6th level (Lasting Grace):** The bonus granted by duty of prescience lasts until the start of the target's next turn.
+- **10th level (Shared Fortune):** Duty of prescience can be used once per encounter per ally, instead of once per encounter (not including duty of prescience's augment).
+- **14th level (Guided Strike):** Duty of prescience can now also trigger when an ally misses an attack roll, granting the same bonus to improve that attack roll (this may turn a miss into a hit).
+
+### Valor Specialty
+
+**Requires:** Duty of Valor.
+
+- **6th level (Steadfast):** Temporary hit points granted by duty of valor last until depleted or 1 minute after the encounter ends, instead of until the end of the ally's next turn.
+- **10th level (Twice Saved):** Duty of Valor can be used twice per ally per encounter, once when that creature drops to half its maximum hit points and again when that creature is reduced to 0 or fewer hit points. Duty of valor's augment does not cost martial focus if being used when an ally reaches 0 or fewer hit points.
+- **14th level (Shared Vigor):** Whenever the sworn officer grants temporary hit points with duty of valor, the sworn officer also gains half that many temporary hit points. These temporary hit points can stack (up to half the sworn officer's maximum hit points).

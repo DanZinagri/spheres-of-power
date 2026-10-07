@@ -183,6 +183,11 @@ HOME_ARCHETYPE_ADDS = {
     "Summoner, Unchained": [r"[[Hero Caller (Summoner or Unchained Summoner Archetype)\|Hero Caller]] [DRS]"],
     "Mastermind": [r"[[Consigliere]] [DRS]"],
     "Armiger": [r"[[Tag Fighter]] [DRS]"],
+    # Diamond Polished Spheres: Commander and Warleader Sphere
+    "Commander": [r"[[Battlesinger]] [DRS]", r"[[Marshal]] [DRS]", r"[[Roaming General]] [DRS]",
+                  r"[[Sea Captain]] [DRS]", r"[[Sworn Officer]] [DRS]"],
+    "Inquisitor": [r"[[Ardent Vanguard (Inquisitor Archetype)\|Ardent Vanguard]] [DRS]"],
+    "Monk, Unchained": [r"[[Spoken Dao (Unchained Monk Archetype)\|Spoken Dao]] [DRS]"],
 }
 
 # The "Original" (pre-Ultimate) tab of every page moves to its own archived page; the archive is
@@ -2263,7 +2268,19 @@ DARK_FEAT_REMOVED = ("Removed in Polished Dark. The [[Dark]] sphere's Deadly Dar
                      "(Inescapable Darkness) is similar in function.")
 # Archetypes with Polished Dark errata (Compatibility Appendix): note name -> edits, each
 # ("append", feature heading, text) / ("replace", feature heading, new body) / ("note", text).
+POLISHED_COMMANDER_SOURCE = "*Source: Diamond Polished Spheres: Commander and Warleader Sphere*"
 ARCHETYPE_ERRATA = {
+    "Bearon (Commander Archetype)": [
+        ("meta", "Polished Commander", POLISHED_COMMANDER_SOURCE,
+         "Diamond Polished Spheres: Commander and Warleader Sphere"),
+        ("note", "The bearon gains a spell pool equal to their practitioner modifier, +1 per 2 class levels, "
+         "treating their class level as their Bear sphere caster level. The bearon may select Bear sphere talents "
+         "whenever they would be granted a combat talent from their commander class feature progression or from "
+         "the battlefield operator class feature."),
+        ("note", "The bearon's enhanced bear feature replaces the enhanced tactic granted at 2nd level, but only "
+         "grants a single Bear sphere talent."),
+        ("note", "Call In A Bear replaces the specialists normally available through call in a specialist."),
+    ],
     "Darkshaper": [
         ("append", "Shadowed Combat",
          "**Polished Dark errata:** The darkshaper uses their class level as their caster level when using "
@@ -2371,7 +2388,11 @@ def polished_dark_tabs() -> int:
             body, tail = body[:m.start()], body[m.start():]
         lines = body.split("\n")
         notes = []
+        label, source, book = "Polished Dark", POLISHED_DARK_SOURCE, "Diamond Polished Spheres: Dark Sphere"
         for kind, *args in edits:
+            if kind == "meta":  # ("meta", tab label, source line, book title) for another Polished book
+                label, source, book = args
+                continue
             if kind == "note":
                 notes.append(args[0])
                 continue
@@ -2382,17 +2403,71 @@ def polished_dark_tabs() -> int:
             start, end, _ = hit
             lines[start + 1:end] = (lines[start + 1:end] + ["", args[1]] if kind == "append"
                                     else ["", args[1]])
-        callout = ["> [!note] Polished Dark errata",
-                   "> This version includes the errata from *Diamond Polished Spheres: Dark Sphere*."]
-        callout += [f"> {n}" for n in notes]
-        polished = "\n".join([POLISHED_DARK_SOURCE, "", *callout, "", *lines]).strip()
-        f.write_text(head + GENERATED_MARK + "\n\n" + tab_set([("Polished Dark", polished), ("Ultimate", body.strip())])
+        callout = [f"> [!note] {label} errata", f"> This version includes the errata from *{book}*."]
+        callout += [line for n in notes for line in (">", f"> {n}")]  # each note its own paragraph
+        polished = "\n".join([source, "", *callout, "", *lines]).strip()
+        f.write_text(head + GENERATED_MARK + "\n\n" + tab_set([(label, polished), ("Ultimate", body.strip())])
                      + tail + "\n", encoding="utf-8")
         changed += 1
     return changed
 
 
 ARCHIVE_RETIRED = f"{ARCHIVE}/Retired Ultimate"
+# Sections of a page that stay live when the rest of the page is retired: page -> [heading text]
+KEEP_SECTIONS = {
+    # third-party class items, not part of the class rework
+    "Commander": ["Class Equipment"],
+}
+# Whole pages retired with no Polished version beside them: page -> note shown on the archived
+# copy. Links to the page point at the archived copy; its home-page entry goes.
+RETIRE_PAGES = {
+    "Vanguard": "Removed in Polished Commander. The Communication sphere's (assist) package took over this "
+                "archetype's niche; the polished book recommends the [[Administrator]] archetype with aid "
+                "another related talents instead.",
+    "Braveheart": "Replaced in Polished Commander by the [[Battlesinger]] archetype.",
+}
+
+
+def retire_pages(derived: list[tuple[str, str]]) -> dict[str, tuple[str, str]]:
+    """RETIRE_PAGES: move each page to ARCHIVE_RETIRED with its note; point links at the copy."""
+    retired: dict[str, tuple[str, str]] = {}
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    for stem, why in RETIRE_PAGES.items():
+        f = files.get(stem)
+        if not f:
+            continue
+        rel = f.relative_to(CONTENT)
+        text = f.read_text(encoding="utf-8")
+        head, body = text.split(GENERATED_MARK, 1) if GENERATED_MARK in text else ("", text)
+        title = re.search(r'^title: "?(.*?)"?$', head, re.M)
+        title = title.group(1) if title else stem
+        name = f"{stem} (Ultimate)"
+        folder = Path(ARCHIVE_RETIRED) / rel.parent
+        rfm = ["---", f"title: {yaml_str(title + ' (Ultimate)')}", "nosearch: true",
+               "parent: " + yaml_str(f"[[{ARCHIVE_RETIRED.split('/')[-1]}]]"), "---"]
+        (CONTENT / folder).mkdir(parents=True, exist_ok=True)
+        (CONTENT / folder / f"{name}.md").write_text(
+            "\n".join(rfm) + "\n" + GENERATED_MARK + "\n\n> [!note] Retired\n> " + why + "\n\n"
+            + body.strip() + "\n", encoding="utf-8")
+        derived.append(((folder / f"{name}.md").as_posix(), rel.as_posix()))
+        f.unlink()
+        retired[stem] = (name, title)
+    if not retired:
+        return retired
+    for f in CONTENT.rglob("*.md"):
+        text = f.read_text(encoding="utf-8")
+        new = text
+        for stem, (name, _) in retired.items():
+            if f.name == "index.md":  # the home tables just drop the entry (and its tags)
+                new = re.sub(rf"\[\[{re.escape(stem)}(?:\\?\|[^\]]*)?\]\](?:\s*\[[^\]]*\])*,?\s?", "", new)
+                continue
+            new = re.sub(rf"\[\[{re.escape(stem)}(\\?\|[^\]]*)?\]\]",
+                         lambda m: f"[[{name}{m.group(1) or ('|' + stem)}]]", new)
+        if f.name == "index.md":
+            new = re.sub(r",\s*\|", " |", new)
+        if new != text:
+            f.write_text(new, encoding="utf-8")
+    return retired
 
 
 def _tab_sets(lines: list[str]) -> list[tuple[int, int, list[tuple[str, int, int]]]]:
@@ -2479,8 +2554,14 @@ def retire_ultimate(derived: list[tuple[str, str]]) -> dict[str, tuple[str, str]
             prev = next((k for k in range(t - 1, -1, -1) if lines[k].strip()), None)
             hm = re.match(r"(#{1,6}) (.+)$", lines[prev]) if prev is not None else None
             if not hm:  # the whole page
+                keep = []
+                for heading in KEEP_SECTIONS.get(f.stem, []):
+                    m = re.search(rf"^(#{{1,6}}) {re.escape(heading)}\s*$", own, re.M)
+                    if m:
+                        own, part = cut_section(own, heading)
+                        keep += ["", "---", "", f"{m.group(1)} {heading}", "", part]
                 whole = own
-                lines[t:e + 1] = pol.split("\n")
+                lines[t:e + 1] = pol.split("\n") + keep
                 continue
             lv, old = len(hm.group(1)), hm.group(2).strip()
             sections.append(f"{'#' * lv} {old}\n\n{own}")
@@ -3043,7 +3124,8 @@ def convert(with_images: bool) -> None:
     print(f"Polished Dark tabs added: {polished_dark_tabs()} pages")
     print(f"Hand-entered additions to finished pages: {apply_note_extras()} pages")
     # Ultimate versions replaced by Polished ones move to the Archive's Retired Ultimate section
-    retired = retire_ultimate(derived_notes)
+    retired = retire_pages(derived_notes)
+    retired.update(retire_ultimate(derived_notes))
     rname = ARCHIVE_RETIRED.split("/")[-1]
     (CONTENT / ARCHIVE_RETIRED).mkdir(parents=True, exist_ok=True)
     (CONTENT / ARCHIVE_RETIRED / f"{rname}.md").write_text(
