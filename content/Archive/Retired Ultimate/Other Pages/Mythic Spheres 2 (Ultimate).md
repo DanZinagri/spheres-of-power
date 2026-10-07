@@ -8,7 +8,11 @@ parent: "[[Retired Ultimate]]"
 > [!note] Retired
 > [[Mythic Spheres 2|Mythic Spheres 2]] as it read before its references were updated to Diamond Recreational Studios' *Polished* content. Not part of the current rules.
 
-[[tab Universal Mythic Class Features]]
+<div class="sop-tabs">
+
+<div class="sop-tab" data-tab="universal-mythic-class-features">
+
+<div class="sop-tab-label">Universal Mythic Class Features</div>
 
 # Universal Mythic Spherecaster Class Features
 
@@ -45,8 +49,12 @@ Once per day as a free action, you can expend one mythic power to instantly rega
 ### Mythic Combat Talents
 
 You gain one bonus combat talent at each odd tier, including odd tiers gained after taking this ability. You cannot have both this ability and the Mythic Magic Talents ability.
-[[/tab]]
-[[tab Mythic Advisor Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-advisor-abilities">
+
+<div class="sop-tab-label">Mythic Advisor Abilities</div>
 
 # Mythic Advisor Class Features
 
@@ -140,8 +148,12 @@ Add your mythic tier to the temporary hit points granted by therapeutic refuge. 
 ### Mythic Veracious Tutelage [Utility]
 
 All skill checks rolled by members of your rapport add your mythic surge die to the result.
-[[/tab]]
-[[tab Mythic Agent Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-agent-abilities">
+
+<div class="sop-tab-label">Mythic Agent Abilities</div>
 
 # Mythic Agent Class Features
 
@@ -208,8 +220,12 @@ You may spend a use of mythic power to apply a third devious technique to the sa
 ### Mythic Ghost [Utility]
 
 Multiply the duration of a false memory you can implant with this ability by 10. You may implant false memories in multiple unconscious creatures within 30 feet as part of the same action.
-[[/tab]]
-[[tab Mythic Armiger Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-armiger-abilities">
+
+<div class="sop-tab-label">Mythic Armiger Abilities</div>
 
 # Mythic Armiger Class Features
 
@@ -250,8 +266,12 @@ When you make a lightning assault, you may expend one use of mythic power to mak
 ### Mythic Unlimited Assault
 
 You may choose which of your attacks during a lightning assault triggers your rapid assault ability. You must decide this after making the attack roll, but before the results are revealed.
-[[/tab]]
-[[tab Mythic Armorist Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-armorist-abilities">
+
+<div class="sop-tab-label">Mythic Armorist Abilities</div>
 
 # Mythic Armorist Class Features
 
@@ -284,8 +304,12 @@ When using quick summons, you may summon or switch two pieces of equipment onto 
 ### Mythic Infinite Arsenal
 
 You may summon equipment with a +5 enhancement bonus and an additional +5 in special abilities—you may reduce the enhancement bonus to gain additional special abilities. You may only have one such piece of equipment in existence at a time.
-[[/tab]]
-[[tab Mythic Blacksmith Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-blacksmith-abilities">
+
+<div class="sop-tab-label">Mythic Blacksmith Abilities</div>
 
 # Mythic Blacksmith Class Features
 
@@ -326,8 +350,12 @@ You may perform an additional maintenance at once; this stacks with the increase
 ### Mythic Smith’s Masterpiece
 
 Your masterpiece also functions as a 20th CL charm, implement, or spell engineUSoP. The GM must approve the final effects. If it is a spell engine, you may recharge one spell point per day while performing maintenance on equipment, and you do not need to know the base magical sphere or meet any other requirements in order to use it.
-[[/tab]]
-[[tab Mythic Bravo Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-bravo-abilities">
+
+<div class="sop-tab-label">Mythic Bravo Abilities</div>
 
 # Mythic Bravo Class Features
 
@@ -422,8 +450,12 @@ By spending two uses of mythic power, you may use Skirt Death even if you have a
 When attacking a creature under the exploit uncertainty ability, if you make an attack roll against the foe that hits its AC, and any defense or effect prevents you from dealing full damage to the target (including conditions and effects that create a percentile miss chance, DR, etherealness, incorporealness, mirror image, and any other effect that would prevent a successful attack roll from dealing full damage), you may expend one use of mythic power to attempt to bypass all such effects and deal full damage.
 
 If the effect you wish to bypass is non-mythic, you automatically success. If the effect is from a mythic source, make a mythic tier check (1d20 + mythic tier) against a DC of 10 + the mythic tier of the source of the ability you wish to bypass. On a success, you bypass the effect.
-[[/tab]]
-[[tab Mythic Commander Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-commander-abilities">
+
+<div class="sop-tab-label">Mythic Commander Abilities</div>
 
 # Mythic Commander Class Features
 
@@ -460,8 +492,12 @@ You may expend one use of mythic power to grant additional battlefield prowess t
 ### Mythic Expert Tactician
 
 Select one enhanced tactic you know. All allies within 10 feet per tier constantly gain the benefits of that enhanced tactic, whether or not they are currently benefiting from your talents or shouts.
-[[/tab]]
-[[tab Mythic Conduit Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-conduit-abilities">
+
+<div class="sop-tab-label">Mythic Conduit Abilities</div>
 
 # Mythic Conduit Class Features
 
@@ -547,8 +583,11 @@ You can expend one use of mythic power when using evoke dweomer to increase its 
 
 Once per day, when you wake up or prepare for the day, you may choose a single esoterica. Until the next time you choose an esoterica with this ability, the chosen esoterica can be used any number of times per day, although its ‘daily uses’ cannot be spent when using a protoarcanum (this is in addition to the normal esoterica selected with protoarcanum and follows the same restrictions).
 
-[[/tab]]
-[[tab Mythic Conscript Abilities]]
+</div>
+
+<div class="sop-tab" data-tab="mythic-conscript-abilities">
+
+<div class="sop-tab-label">Mythic Conscript Abilities</div>
 
 # Mythic Conscript Class Features
 
@@ -663,8 +702,12 @@ At 3rd level, you gain a teamwork feat as a bonus feat, and add your tier to you
 #### Mythic Sphere Specialization: Wrestling
 
 At 3rd level, double the range you can move yourself and a grappled creature with mobile grappler. At 8th level, creatures suffering a condition from your bear hug suffer it for an additional round. At 20th level, add your tier to the DC of the Fortitude save creatures have to attempt against your fatal clutch.
-[[/tab]]
-[[tab Mythic Courser Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-courser-abilities">
+
+<div class="sop-tab-label">Mythic Courser Abilities</div>
 
 # Mythic Courser Class Features
 
@@ -745,8 +788,12 @@ If you fail a Fortitude saving throw against an effect that has a duration longe
 ### Mythic Master Courser
 
 You are immune to ability damage and drain inflicted to your mental ability scores, as well as to energy drain and death effects.
-[[/tab]]
-[[tab Mythic Crimson Dancer Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-crimson-dancer-abilities">
+
+<div class="sop-tab-label">Mythic Crimson Dancer Abilities</div>
 
 # Mythic Crimson Dancer Class Features
 
@@ -811,8 +858,12 @@ The gp cost to resurrect you when you die is reduced by half. Your dead body doe
 ### Mythic Eat Pain
 
 When you gain vitae from eat pain, you gain an additional point of vitae for every 2 mythic tiers you possess.
-[[/tab]]
-[[tab Mythic Dissident Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-dissident-abilities">
+
+<div class="sop-tab-label">Mythic Dissident Abilities</div>
 
 # Mythic Dissident Class Features
 
@@ -875,8 +926,12 @@ When you successfully discover a creature’s motivation, you may gain an answer
 ### Mythic Strife Mastery (Ex)
 
 Whenever you are weakly or moderately attuned to one side of your struggle, you may choose to also be considered weakly attuned to the other side of your struggle.
-[[/tab]]
-[[tab Mythic Dragoon Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-dragoon-abilities">
+
+<div class="sop-tab-label">Mythic Dragoon Abilities</div>
 
 # Mythic Dragoon Class Features
 
@@ -923,8 +978,12 @@ Whenever you or your drake companion would regain hit points, the other regains 
 ### Mythic Dragon Soul (Ex)
 
 You and your drake companion confirm all critical threats when under dragon bond.
-[[/tab]]
-[[tab Mythic Elementalist Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-elementalist-abilities">
+
+<div class="sop-tab-label">Mythic Elementalist Abilities</div>
 
 # Mythic Elementalist Class Features
 
@@ -963,8 +1022,12 @@ On a failed Reflex save, you take only 10% of an effect’s damage. Additionally
 ### Mythic Energy Body
 
 Your elemental defense increases to resistance 25 and your damage reduction changes to damage reduction 10/epic.
-[[/tab]]
-[[tab Mythic Eliciter Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-eliciter-abilities">
+
+<div class="sop-tab-label">Mythic Eliciter Abilities</div>
 
 # Mythic Eliciter Class Features
 
@@ -1001,8 +1064,12 @@ The range of your link increases to 300 feet.
 ### Mythic Domination
 
 You may attempt a domination twice per day, though you may still only have one target dominated at a time. In addition, the Sense Motive check required to notice the target is under compulsion increases to DC 30.
-[[/tab]]
-[[tab Mythic Envoy Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-envoy-abilities">
+
+<div class="sop-tab-label">Mythic Envoy Abilities</div>
 
 # Mythic Envoy Class Features
 
@@ -1080,8 +1147,12 @@ You only need to spend 1 standard action speaking with a creature to gain influe
 ### Mythic Phenomenal Charisma [Utility]
 
 Your dire request can be removed by a non-mythic limited wish, miracle, or wish only if the caster’s level is equal to or higher than your caster level. Your dire request remains in effect for up to a number of weeks equal to your envoy level + your mythic tier.
-[[/tab]]
-[[tab Mythic Fey Adept Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-fey-adept-abilities">
+
+<div class="sop-tab-label">Mythic Fey Adept Abilities</div>
 
 # Mythic Fey Adept Class Features
 
@@ -1118,8 +1189,12 @@ When targeted by spells or magical effects, you are treated as a fey or whatever
 ### Mythic Permanent Illusion
 
 You may have an additional permanent illusion.
-[[/tab]]
-[[tab Mythic Genius Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-genius-abilities">
+
+<div class="sop-tab-label">Mythic Genius Abilities</div>
 
 # Mythic Genius Class Features
 
@@ -1143,8 +1218,12 @@ This mythic class feature may be selected more than once, but no more times than
 ### Mythic Master Invoker
 
 You may select an additional two insights other than rebuke death and use them at will.
-[[/tab]]
-[[tab Mythic Hedgewitch Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-hedgewitch-abilities">
+
+<div class="sop-tab-label">Mythic Hedgewitch Abilities</div>
 
 # Mythic Hedgewitch Class Features
 
@@ -1239,8 +1318,12 @@ Add your tier to your hedgewitch level for the purpose of determining the bonus 
 ### Mythic Secret
 
 Once per day as a full-round action, you may change one secret or grand secret you have selected. In essence, you lose the secret, and gain a secret to replace it, as if you had retrained the class feature. You may not swap out any secret you are using as a prerequisite. You must meet any prerequisites of the new secret.
-[[/tab]]
-[[tab Mythic Incanter Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-incanter-abilities">
+
+<div class="sop-tab-label">Mythic Incanter Abilities</div>
 
 # Mythic Incanter Class Features
 
@@ -1357,8 +1440,12 @@ Add your tier to your incanter level when determining the number of times you ca
 #### Mythic Sphere Specialization: Weather
 
 You are no longer affected by weather effects unless you want to be. By expending one use of mythic power, you can share this immunity with one ally per tier for 24 hours; these allies must be within 60 feet of you to benefit from this effect (although they do not actually lose it if they travel further away from you; it immediately reactivates while it persists if they leave and then return close enough for it to work). In addition, add your tier to your incanter level for determining the maximum size of your cyclone, and add half your tier to the DC of movement checks to pass through your vortex.
-[[/tab]]
-[[tab Mythic Mageknight Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-mageknight-abilities">
+
+<div class="sop-tab-label">Mythic Mageknight Abilities</div>
 
 # Mythic Mageknight Class Features
 
@@ -1395,8 +1482,12 @@ When you threaten a critical hit, you may spend one mythic power to use a sphere
 ### Mythic Spellsword
 
 You may select an additional mystic combat ability for spellsword—it no longer costs a spell point to use. At 6th tier, you may select another mystic combat for this effect. Once per day, as a full-round action, you may change one mystic combat that spellsword applies to.
-[[/tab]]
-[[tab Mythic Mastermind Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-mastermind-abilities">
+
+<div class="sop-tab-label">Mythic Mastermind Abilities</div>
 
 # Mythic Mastermind Class Features
 
@@ -1473,8 +1564,12 @@ You may reveal a plan as an immediate action whenever an enemy within 30 feet + 
 ### Mythic Always Prepared [Utility]
 
 You always add your mythic surge die to any die roll made as part of revealing a plan. The Knowledge DC increases by 2 rather than 5 whenever you successfully reveal a plan while you have no plans remaining.
-[[/tab]]
-[[tab Mythic Mountebank Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-mountebank-abilities">
+
+<div class="sop-tab-label">Mythic Mountebank Abilities</div>
 
 # Mythic Mountebank Class Features
 
@@ -1538,8 +1633,12 @@ You may expend martial focus to use this ability as a free action rather than a 
 ### Mythic Skill Mastery [Utility]
 
 You unlock all skills (even those you don’t have ranks in) and are considered to have 10 ranks in all skills your have fewer than 10 ranks in.
-[[/tab]]
-[[tab Mythic Necros Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-necros-abilities">
+
+<div class="sop-tab-label">Mythic Necros Abilities</div>
 
 # Mythic Necros Class Features
 
@@ -1630,8 +1729,12 @@ As a swift action, you may spend a use of mythic power to exchange any abilities
 ### Mythic Lich Form
 
 Your phylactery can’t be harmed by non-mythic sources. If you have 8 or more mythic tiers, the phylactery becomes a minor artifact and can be destroyed by only one specific method
-[[/tab]]
-[[tab Mythic Prodigy Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-prodigy-abilities">
+
+<div class="sop-tab-label">Mythic Prodigy Abilities</div>
 
 # Mythic Prodigy Class Features
 
@@ -1708,8 +1811,12 @@ When you change your main steady skill with skill juggler, you may also change t
 ### Mythic Perfected Prodigy
 
 You may spend one mythic power to add half your tier (rounded down, minimum 1) to your casting ability modifier when determining the number of links your sequence starts with.
-[[/tab]]
-[[tab Mythic Professional Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-professional-abilities">
+
+<div class="sop-tab-label">Mythic Professional Abilities</div>
 
 # Mythic Professional Class Features
 
@@ -1818,8 +1925,12 @@ You no longer need to spend skill leverage to improve the benefits of steady pre
 ### Mythic Vocation Method
 
 You no longer need to spend skill leverage to improve the benefits of versatile leverage or assured expertise. When using a weapon from weapons of the trade, whenever you add a mythic surge to your attack roll, add the same value to the damage done on a successful attack.
-[[/tab]]
-[[tab Mythic Raveler Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-raveler-abilities">
+
+<div class="sop-tab-label">Mythic Raveler Abilities</div>
 
 # Mythic Raveler Class Features
 
@@ -1865,8 +1976,12 @@ Whenever you fail a concentration check to cast a spell that uses 1 or more spel
 ### Mythic Raveler’s Ascendance
 
 You may spend a use of mythic power as a move action to reweave an unwoven ravel.
-[[/tab]]
-[[tab Mythic Reaper Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-reaper-abilities">
+
+<div class="sop-tab-label">Mythic Reaper Abilities</div>
 
 # Mythic Reaper Class Features
 
@@ -1931,8 +2046,12 @@ As long as you have attempted to hunt one of their favored prey within the last 
 ### Mythic Soul Crisis
 
 Increase your natural armor bonus by your mythic tier. You gain DR 10/epic or add epic to the qualities needed to bypass your existing damage reduction and increase it to 10. For example, a reaper with DR 5/bludgeoning that gains DR 10/epic from the mythic subtype gains DR 10/bludgeoning and epic.
-[[/tab]]
-[[tab Mythic Sage Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-sage-abilities">
+
+<div class="sop-tab-label">Mythic Sage Abilities</div>
 
 # Mythic Sage Class Features
 
@@ -1985,8 +2104,12 @@ At 1st tier and 3rd level, 3rd tier and 6th level, and 6th tier and 9th level, y
 ### Mythic Signature Technique
 
 Once each day, as a full-round action, you may change your signature technique. In essence, you lose the signature technique, and gain a new signature technique to replace it, as if you had retrained the feature.
-[[/tab]]
-[[tab Mythic Savant Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-savant-abilities">
+
+<div class="sop-tab-label">Mythic Savant Abilities</div>
 
 # Mythic Savant Class Features
 
@@ -2011,8 +2134,12 @@ This mythic class feature may be selected more than once, but no more times than
 ### Mythic Masterful Insights
 
 You may select an additional two insights other than rebuke death and use them at will.
-[[/tab]]
-[[tab Mythic Scholar Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-scholar-abilities">
+
+<div class="sop-tab-label">Mythic Scholar Abilities</div>
 
 # Mythic Scholar Class Features
 
@@ -2053,8 +2180,12 @@ You may use your expert medical training to try and remove any effect that can b
 ### Mythic Mastered Imposition
 
 You may select a second material imposition as a mastered imposition.
-[[/tab]]
-[[tab Mythic Sentinel Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-sentinel-abilities">
+
+<div class="sop-tab-label">Mythic Sentinel Abilities</div>
 
 # Mythic Sentinel Class Features
 
@@ -2145,8 +2276,12 @@ Any damage reduction the target of your challenge possesses is reduced by your t
 ### Mythic Final Challenge
 
 Once per day, you may spend one mythic power as a free action even when it is not your turn. For 1 round per tier, you cannot die by any method.
-[[/tab]]
-[[tab Mythic Shifter Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-shifter-abilities">
+
+<div class="sop-tab-label">Mythic Shifter Abilities</div>
 
 # Mythic Shifter Class Features
 
@@ -2219,8 +2354,12 @@ When you spend a mythic power and a spell point for mythic extended transformati
 ### Mythic Second Skin
 
 Once per round as a free action, you may change your own form with the Alteration sphere. If you have mythic quick transformation, mythic extended transformation, or mythic greater transformation, you may use those mythic class features on others.
-[[/tab]]
-[[tab Mythic Soul Weaver Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-soul-weaver-abilities">
+
+<div class="sop-tab-label">Mythic Soul Weaver Abilities</div>
 
 # Mythic Soul Weaver Class Features
 
@@ -2243,8 +2382,12 @@ You may use your blessings or blights without expending uses of channel energy o
 ### Mythic Gravewalker
 
 You are immune to all negative energy effects except those you want to be affected by. When you die, you may choose to rise 2d4 days later as any type of undead creature your creature type could become, as long as that undead’s CR is equal to or less than your own. (A 20th level PC is normally CR 20. Mythic tiers can increase CR.)
-[[/tab]]
-[[tab Mythic Striker Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-striker-abilities">
+
+<div class="sop-tab-label">Mythic Striker Abilities</div>
 
 # Mythic Striker Class Features
 
@@ -2305,8 +2448,12 @@ Add half your tier (minimum +1) to the number of rogue levels a creature must ha
 ### Mythic Ultimate Tension
 
 Once per day, you may expend one mythic power to reduce the cost of all abilities that require tension to 1 tension. This effect lasts for 1 round per tier.
-[[/tab]]
-[[tab Mythic Symbiat Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-symbiat-abilities">
+
+<div class="sop-tab-label">Mythic Symbiat Abilities</div>
 
 # Mythic Symbiat Class Features
 
@@ -2357,8 +2504,12 @@ On a failed Reflex save, you take only 10% of an effect’s damage. Additionally
 ### Mythic Greater Psionics
 
 You only have to spend one round of psionic power each round to maintain two psionic effects.
-[[/tab]]
-[[tab Mythic Technician Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-technician-abilities">
+
+<div class="sop-tab-label">Mythic Technician Abilities</div>
 
 # Mythic Technician Class Features
 
@@ -2415,8 +2566,12 @@ When you are the direct target of an unwanted magical effect, you may spend one 
 ### Mythic True Genius
 
 You gain an additional +4 permanent bonus to one mental ability score of your choice.
-[[/tab]]
-[[tab Mythic Thaumaturge Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-thaumaturge-abilities">
+
+<div class="sop-tab-label">Mythic Thaumaturge Abilities</div>
 
 # Mythic Thaumaturge Class Features
 
@@ -2441,8 +2596,12 @@ This mythic class feature may be selected more than once, but no more times than
 ### Mythic Master Invoker
 
 You may select an additional two invocations other than rebuke death and use them at will.
-[[/tab]]
-[[tab Mythic Theorist Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-theorist-abilities">
+
+<div class="sop-tab-label">Mythic Theorist Abilities</div>
 
 # Mythic Theorist Class Features
 
@@ -2488,8 +2647,11 @@ When you apply one or more (complication) talents to a plan, you may choose to a
 
 When you use universal axiom, you may choose the results of a number of additional dice equal to twice your mythic tier.
 
-[[/tab]]
-[[tab Mythic Troubadour Abilities]]
+</div>
+
+<div class="sop-tab" data-tab="mythic-troubadour-abilities">
+
+<div class="sop-tab-label">Mythic Troubadour Abilities</div>
 
 # Mythic Troubadour Class Features
 
@@ -2552,8 +2714,12 @@ Once each day for each persona, as a full-round action, you may change one trope
 ### Mythic Master of Roles (requires Mythic Personas)
 
 Whenever you prepare your personas, you may prepare a second co-conscious personality in addition to a second regular persona. When swapping personas as a free action, you may only swap your regular persona with the persona you readied for the regular role and your co-conscious personality with the second co-conscious personality you prepared.
-[[/tab]]
-[[tab Mythic Warden Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-warden-abilities">
+
+<div class="sop-tab-label">Mythic Warden Abilities</div>
 
 # Mythic Warden Class Features
 
@@ -2622,8 +2788,12 @@ You no longer need to sleep, and once per day, you can gain the benefits of 8 ho
 ### Mythic Warden Of The Many
 
 You can remain in your ethereal form for an additional round per tier. When finished with your ethereal form (either because the duration ran out or you voluntarily return to your body), you may expend all of your mythic power to regain 10 hit points per tier. If you were slain and this healing would be enough to revive you (that is, not being so far into negative hit points that you are dead, rather than merely unconscious), you become stable and conscious with the appropriate number of hit points.
-[[/tab]]
-[[tab Mythic Wraith Abilities]]
+
+</div>
+
+<div class="sop-tab" data-tab="mythic-wraith-abilities">
+
+<div class="sop-tab-label">Mythic Wraith Abilities</div>
 
 # Mythic Wraith Class Features
 
@@ -2696,4 +2866,7 @@ Add half your tier (rounded down, minimum 1) to the number of creatures you may 
 ### Mythic Wraith Form Mastery
 
 When in wraith form, you are immune to all nonmagical damage.
-[[/tab]]
+
+</div>
+
+</div>

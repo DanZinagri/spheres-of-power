@@ -6,5 +6,5 @@ nosearch: true
 
 Retired Spheres content, kept for reference. Nothing here is part of the current rules, and none of it shows up in search.
 
-- [[Original Spheres]] - The original (pre-*Ultimate*) versions of 268 pages.
+- [[Original Spheres]] - The original (pre-*Ultimate*) versions of 269 pages.
 - [[Retired Ultimate]] - *Ultimate* content replaced by *Polished* releases (40 pages so far).

@@ -302,6 +302,7 @@ The original (pre-*Ultimate*) versions of Spheres of Power pages, as they appear
 - [[Compounds Potions (Consumable Items) (potions) (Original)|Compounds [Potions] (Consumable Items)]]
 - [[Dual Sphere Feats (Original)|Dual Sphere Feats]]
 - [[Implements Staves (Caster LevelTalent Access) (staves) (Original)|Implements [Staves] (Caster Level/Talent Access)]]
+- [[Marvelous Items 2 (Original)|Marvelous Items 2]]
 - [[Marvelous Items Wondrous Items (wondrous-items) (Original)|Marvelous Items [Wondrous Items]]]
 - [[Spell Engines Wands (wands) (Original)|Spell Engines [Wands]]]
 - [[Sphere-Focused Feats (Original)|Sphere-Focused Feats]]

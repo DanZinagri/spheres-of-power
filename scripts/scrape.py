@@ -2119,6 +2119,58 @@ def flatten_table(table: Tag, soup_factory) -> None:
     table.replace_with(out)
 
 
+def wikidot_tabs(md: str) -> str:
+    """Wikidot tab markup some source pages print as text ("[[tab Name]]" ... "[[/tab]]") -> tab sets.
+    A stray "[[/tab]]" with no opening tag (the tag lost on the source page) is dropped."""
+    if "[[tab " not in md and "[[/tab" not in md:
+        return md
+    lines, out = md.split("\n"), []
+    in_set = in_tab = False
+
+    def next_is_tab(i: int) -> bool:
+        nxt = next((l.strip() for l in lines[i + 1:] if l.strip()), "")
+        return nxt.startswith("[[tab ")
+
+    for i, l in enumerate(lines):
+        s = l.strip()
+        if s in ("[[tabview]]", "[[tabs]]"):
+            continue
+        if s in ("[[/tabview]]", "[[/tabs]]"):
+            if in_tab:
+                out += ["", "</div>", ""]
+                in_tab = False
+            if in_set:
+                out += ["</div>", ""]
+                in_set = False
+            continue
+        if m := re.fullmatch(r"\[\[tab (.+?)\]\]", s):
+            if in_tab:
+                out += ["", "</div>", ""]
+            if not in_set:
+                out += ["", '<div class="sop-tabs">', ""]
+                in_set = True
+            label = m.group(1).strip()
+            tab_id = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
+            out += [f'<div class="sop-tab" data-tab="{tab_id}">', "",
+                    f'<div class="sop-tab-label">{html.escape(label)}</div>', ""]
+            in_tab = True
+            continue
+        if s == "[[/tab]]":
+            if in_tab:
+                out += ["", "</div>", ""]
+                in_tab = False
+                if in_set and not next_is_tab(i):
+                    out += ["</div>", ""]
+                    in_set = False
+            continue
+        out.append(l)
+    if in_tab:
+        out += ["", "</div>", ""]
+    if in_set:
+        out += ["</div>", ""]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
+
+
 def unpad_bold(line: str) -> str:
     """'** text **' -> ' **text** ' for each bold span of a line (markers paired in order)."""
     parts = line.split("**")
@@ -2757,6 +2809,7 @@ def tidy(md: str) -> str:
     # markdownify emits "**  text**" when the bold had padding; pair the markers in order so the
     # text *between* two bold spans ("**Str** +4, **Dex**") keeps its spaces
     md = "\n".join(unpad_bold(l) for l in md.split("\n"))
+    md = wikidot_tabs(md)
     # "<strong>Prerequisites:</strong>Text" -> bold label must be followed by a space to render
     md = re.sub(r"(\*\*[^*\n]*?[:.]\*\*)(?=[\w(\[+\-−–])", r"\1 ", md)
     md = normalize_formatting(md)
