@@ -2428,8 +2428,10 @@ def retire_ultimate(derived: list[tuple[str, str]]) -> dict[str, tuple[str, str]
         retired[f.stem] = (name, title)
         # "The Polished Dark Sphere is a reworked version of the ... [[Dark|Dark Sphere]]." now links
         # to its own page
-        lines = [l for l in lines if not re.match(
-            rf"The Polished .* is a reworked version of .*\[\[{re.escape(f.stem)}(\||\]\])", l)]
+        # (as does the "**Polished Spheres [DRS]:** [[Dark|Polished Dark Sphere]] is ..." pointer)
+        self_link = rf"\[\[{re.escape(f.stem)}(\||\]\])"
+        lines = [l for l in lines if not re.match(rf"The Polished .* is a reworked version of .*{self_link}", l)
+                 and not re.match(rf"\*\*Polished Spheres[^*]*:\*\*\s*{self_link}", l)]
         link = f"[[{name}|Ultimate version]] (before *Polished*)"
         body = re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).rstrip("\n")
         if re.search(r"\n\*Archived: [^\n]*\*$", body):
