@@ -155,7 +155,46 @@ DROP_SECTIONS = {"weapons": ["Wiki Weapons"]}
 
 # Text replaced on a page: page slug -> [(regex, replacement)]
 OG_NOTE = "> [!note]\n> This is original Spheres content and was not included in the final Ultimate printing."
+TINKER_FIXES = [
+    # the Mental Augmentor rename (errata)
+    (r"\b(physical or mental|mental) augmentation\b", r"\1 augmentor"),
+    # (synergy) and (infrastructure) tags added by the book
+    (r"^(#### Exploration Set \(gizmo)\)", r"\1, synergy)"),
+    (r"^(#### Infiltration Set \(gizmo)\)", r"\1, synergy)"),
+    (r"^(#### Movement Set \(gizmo)\)", r"\1, synergy)"),
+    (r"^(#### Ranged Set \(gizmo, modification)\)", r"\1, synergy)"),
+    (r"\*\*(Energy Cables|Pipe|Rail Track) \(gizmo, project\):\*\*", r"**\1 (gizmo, project, infrastructure):**"),
+    # Auto-Pick errata wording
+    (r"Disruption Set remote disabling ability", "Disruption Set remote hacking ability"),
+    # Transforming Parts errata note, under its upgrade
+    (r"^(- \*\*Transforming Parts \(upgrade\):\*\*[^\n]*)$",
+     r"\1" + "\n\n  **Note - Multiple Upgrades of the Same Kind:** An individual transforming parts upgrade may select "
+     "the same upgrade multiple times, provided that each selection is a different option. For example, transforming "
+     "parts could be crafted with Alternate Size for Large, Small, and an extra head. While the extra head is active, "
+     "the *mechanoid* would be its original crafted size (generally Medium), and would change sizes when transforming. "
+     "A *mechanoid* capable of changing sizes has its project cost determined by its most expensive project cost. "
+     "Transforming parts upgrades cannot change into an upgrade that would be incompatible with an already active "
+     "upgrade. [DRS]"),
+]
 PAGE_REPLACE = {
+    # Diamond Spheres: Expanded Tinker and Silverminds errata and tags the wiki hadn't applied
+    "tinker-talents": TINKER_FIXES,
+    "tinker": TINKER_FIXES,
+    "tinker-legendary-talents": [(r"\b(physical or mental|mental) augmentation\b", r"\1 augmentor")],
+    "taskmaster": [(r"\b(physical or mental|mental) (?:\*augmentation\*|augmentation\b)", r"\1 augmentor")],
+    "using-tinker-sphere": [
+        (r"\(your “gizmo limit”\)\. , gizmo feats granted", "(your “gizmo limit”). Bonus talents, gizmo feats granted"),
+    ],
+    "ai-and-mechanoids": [  # a duplicate heading
+        (r"^(### Rudimentary Bodies \[DRS\]\n\n)#### Advanced Innate Gizmos \[DRS\]\n\n", r"\1"),
+    ],
+    "tech-priest": [(r"must select at least one Tinker domain", "must select at least one [[Cleric Domains|Tinker domain]]")],
+    "ultimate-engineering": [(r"^(\s*- )Cleric Domains$", r"\1[[Cleric Domains]]")],
+    # Diamond Spheres: Expanded Tinker and Silverminds prints 12 (the wiki had 14)
+    "super-soldier": [
+        (r"to a maximum of 14 \+ their Constitution modifier at 20th level",
+         "to a maximum of 12 + their Constitution modifier at 20th level"),
+    ],
     # Leadership talents that Diamond Polished Spheres: Leadership Sphere replaced or removed
     "practitioner-bestiary": [
         (r"Greater Recruitment, Pack Tactics\)",
@@ -1410,6 +1449,8 @@ def _section_span(lines: list[str], section: str) -> tuple[int, int, int] | None
     """(heading line, end line, heading level) of the first heading or tab label named section;
     a tab's level is 0. The section ends at the next heading of the same or a higher level, or
     at the end of the tab it sits in."""
+    if section == "(page)":  # the whole page (for entries that sit under no heading of their own)
+        return -1, len(lines), 0
     want = _norm(section)
     for i, l in enumerate(lines):
         s = l.strip()
@@ -1450,6 +1491,8 @@ def apply_extras(md: str, slug: str, extras: list[tuple[str, str, str]]) -> str:
         start, end, level = span
         if mode == "after":
             md = "\n".join(lines[:end] + ["", "---", "", body, ""] + lines[end:])
+        elif mode == "append":  # at the end of the section itself (no divider)
+            md = "\n".join(lines[:end] + ["", body, ""] + lines[end:])
         elif mode == "prepend":
             at = next((k for k in range(start + 1, end) if re.match(r"#{1,6} ", lines[k])), end)
             md = "\n".join(lines[:at] + [body, ""] + lines[at:])

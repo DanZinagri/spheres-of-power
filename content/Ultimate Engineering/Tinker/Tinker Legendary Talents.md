@@ -66,7 +66,7 @@ For especially higher-technology settings and games, GMs may permit crafting Sta
 
 **Augmentation: Enhancing Augmentation:** Whenever you craft a physical augmentor or a mental augmentor (from the Cognitive Set talent), you may choose to craft an enhancing augmentation instead. An enhancing augmentation grants an enhancement bonus to the chosen statistic instead of granting a competence bonus on ability checks and skill checks.
 
-A user cannot benefit from a physical or mental augmentation and an enhancing augmentation keyed to the same ability score. If the user would attempt to use both a physical or mental augmentation and an enhancing augmentation for the same ability score simultaneously, the augmentation activated or in use first immediately deactivates.
+A user cannot benefit from a physical or mental augmentor and an enhancing augmentation keyed to the same ability score. If the user would attempt to use both a physical or mental augmentor and an enhancing augmentation for the same ability score simultaneously, the augmentation activated or in use first immediately deactivates.
 
 **Augmentation: Legendary Aerobic Enhancer (requires Exploration Set):** A physical augmentor modified as an aerobic enhancer allows the user to measure how long they can run or hold their breath in hours (instead of rounds). The aerobic enhancer’s battery use ability removes the fatigued and exhausted conditions and grants immunity to the fatigued and exhausted conditions for the gizmo’s duration.
 
@@ -684,3 +684,18 @@ If the teleportation effect is subject to mishaps, roll d100 and consult **Table
 - **Off Target:** The target appears safely a random distance away from the destination in a random direction. Distance off target is d100% of the distance that was traveled. The direction of the target is determined randomly. This variance can include areas further than the teleporter’s normal distance.
 - **Delayed:** As off target, but the target’s appearance is delayed 1d6 minutes before arriving at the destination. Targets delayed this way are treated as being in an extradimensional space, and may act normally, but are otherwise “stuck” waiting for the teleportation effect to finish.
 - **Mishap:** As delayed but the target arrives “scrambled.” The target takes 1d10 points of damage, and you reroll on the chart to see where it winds up. For these rerolls, roll 1d20+80. Each time “Mishap” comes up, the target takes more damage and you must reroll.
+
+#### Workaround Craftsmanship [DRS]
+
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
+
+**Prerequisites:** Tinker sphere, must possess a Tinker sphere tradition.
+
+Choose one Tinker tradition drawback. You may choose to create Tinker sphere effects without the chosen Tinker tradition drawback (i.e. gizmos, personal battery abilities, and other effects that would use your Tinker tradition).
+
+Abilities and effects which rely on a Tinker tradition drawback must be included in a gizmo or other Tinker sphere effect to benefit (such as certain Tinker tradition boons).
+
+**Special:** You may take this talent multiple times; each time, selecting a new Tinker tradition drawback to optionally suppress.
+
+If you possess multiple Tinker tradition drawbacks, this talent suppresses a specific Tinker drawback. You do not choose a drawback for each tradition you know.
+

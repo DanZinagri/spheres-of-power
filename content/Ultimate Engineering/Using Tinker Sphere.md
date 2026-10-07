@@ -109,7 +109,7 @@ The main ability granted by the Tinker sphere is the ability to craft and use de
 
 You may craft any 1 gizmo you know in 30 minutes, or 15 minutes if you have access to an engineering kit or sufficient tools, +1 gizmo of your choice per 4 ranks in the associated skill. Whenever you spend 30 or 15 minutes to craft gizmos (“maintaining your gizmos”), you may also maintain any number of damaged or depleted gizmos, restoring them to full hit points and functionality (i.e. maintaining your depleted batteries, and so on).
 
-**Gizmo Limit:** Gizmos are crafted in such a way that they require constant maintenance and upkeep, which limits how many gizmos an individual can have crafted at any one time. You can have a number of gizmos crafted at one time equal to your ranks in the associated skill + the number of Tinker sphere talents you possess (your “gizmo limit”). , gizmo feats granted by your Tinker tradition, and Tinker sphere-specific drawbacks (as part of a character’s martial tradition) do not count toward the number of Tinker sphere talents you possess (except as normal by the effects of the talent, such as the bonus gizmo limit granted by the Efficient Maintenance talent). Unless otherwise stated, gizmos last indefinitely until abandoned or destroyed; no additional actions or effort is required to have already-crafted gizmos continue to function.
+**Gizmo Limit:** Gizmos are crafted in such a way that they require constant maintenance and upkeep, which limits how many gizmos an individual can have crafted at any one time. You can have a number of gizmos crafted at one time equal to your ranks in the associated skill + the number of Tinker sphere talents you possess (your “gizmo limit”). Bonus talents, gizmo feats granted by your Tinker tradition, and Tinker sphere-specific drawbacks (as part of a character’s martial tradition) do not count toward the number of Tinker sphere talents you possess (except as normal by the effects of the talent, such as the bonus gizmo limit granted by the Efficient Maintenance talent). Unless otherwise stated, gizmos last indefinitely until abandoned or destroyed; no additional actions or effort is required to have already-crafted gizmos continue to function.
 
 Whenever you craft a gizmo beyond your gizmo limit, you must choose an existing gizmo to abandon. An abandoned gizmo immediately stops working and crumbles away harmlessly. You may always choose to abandon any number of gizmos whenever you maintain your gizmos. Some gizmos may become depleted (such as a battery gizmo being expended by another gizmo’s effects); a depleted gizmo counts against the Tinker practitioner’s gizmo limit unless it is abandoned.
 
@@ -229,6 +229,12 @@ When gathering project materials, you can designate the gathered materials to be
 
 When crafting an infrastructure project, you may craft up to 10 gp per rank in your Tinker associated skill in the time it would take you to craft a project (normally 1 hour).
 
+The following projects are infrastructure projects:
+
+- **Energy Set:** Energy Cables
+- **Excavation Set:** Pipe
+- **Movement Set:** Rail Track
+
 ### Synergy [DRS]
 
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
@@ -240,6 +246,13 @@ You may select a synergy talent as though it were a talent belonging to a recomm
 Synergy talents are not treated as talents belonging to their recommended sphere for any other purpose, such as unarmed combat damage progression, bonus skill ranks, or talent-count-dependent resources such as your Alchemy sphere’s number of prepared formulae.
 
 **Example:** If a class feature allowed you to select a Beastmastery talent of your choice and you already had the Beastmastery sphere and Tinker sphere, you could select Animal Set with that Beastmastery-specific talent. If you did not already possess the Tinker sphere, you could choose to gain the Tinker sphere with the Powerless or Specialized Inventorship sphere-specific drawback, spending the bonus Tinker talent from that drawback to select Animal Set.
+
+The following Tinker sphere talents gain the (synergy) tag, and corresponding recommended spheres:
+
+- **Exploration Set.** Recommended sphere: Navigation.
+- **Infiltration Set:** Recommended spheres: Infiltration or Subterfuge
+- **Movement Set.** Recommended sphere: Athletics.
+- **Ranged Set.** Recommended sphere: Sniper.
 
 ### Temporary Talents & Retraining
 
@@ -346,4 +359,3 @@ Tinker sphere gizmos are treated similarly to magic items when a user is subject
 **Artificial Intelligence and Polymorph Effects:** *Routines* and Artificial Intelligence continue to function normally when their host gizmo would be subsumed as part of a polymorph effect. If an Artificial Intelligence could use its host gizmo for the purposes of senses, it may continue to use those senses despite being subsumed, but may not activate or use gizmos that are subsumed by the user (often rendering the AI unable to perform anything other than mental actions in these circumstances).
 
 *Prosthetics* and Polymorph Effects: Donned or implanted *prosthetics* are treated as worn equipment for the purpose of polymorph effects, and will be subsumed as part of the transformation. *Prosthetics* vital for life functions (such as hearts) have their utility subsumed by the new form. *Prosthetics* that are part of a creature’s body, such as a *mechanoid’s* innate gizmos are treated as a creature's physical traits. Physical traits are usually suppressed as part of a polymorph effect, however, some abilities may allow a creature to retain use of their physical traits (such as the Alteration sphere Retain Ability talent).
-

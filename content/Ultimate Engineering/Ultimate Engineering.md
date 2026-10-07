@@ -89,7 +89,7 @@ Player Options have been uploaded to their respective sections as general Sphere
   - Rage Powers
 - Brawler [[Mechanized Brawler]]
 - Cleric [[Tech Priest]]
-  - Cleric Domains
+  - [[Cleric Domains]]
 - Scholar [[Engineer]]
 - Warpriest [[Divinitech Pilot]]
 

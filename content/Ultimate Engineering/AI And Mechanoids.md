@@ -554,8 +554,6 @@ A destroyed *mechanoid* provides no benefits to its pilot or passengers. Its upg
 
 ### Rudimentary Bodies [DRS]
 
-#### Advanced Innate Gizmos [DRS]
-
 *Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds?affiliate_id=549120)*
 
 Rudimentary bodies are meant to offer a utilitarian alternative to characters without the transportation package, or allow AI to operate limited bodies in the way a simple droid or assistant might.

@@ -51,6 +51,14 @@ The barbarian may spend a round of rage to recover 2d6 hit points as a standard 
 
 While raging, whenever the barbarian confirms a critical hit, she gains temporary hit points equal to her class level. The hit points stack with themselves and with all temporary hit points from other sources, and last until the end of the rage.
 
+#### Furious Prowess (Ex) [DRS]
+
+*Source: [Diamond Spheres: Expanded Tinker and Silverminds](https://www.drivethrurpg.com/en/product/556860/diamond-spheres-expanded-tinker-and-silverminds)*
+
+The barbarian gains a bonus (stance) talent of their choice. When activating a stance talent, the barbarian may spend 2 rounds of rage to activate that stance as a swift action. If they do, the stance’s duration lasts until the end of their current rage (or until the barbarian activates a new stance).
+
+At 10th level, the barbarian may instead spend 3 rounds of rage to activate the stance as a free action.
+
 #### Furious Vigor (Ex) [AoP2]
 
 While raging, you gain an additional 1 temporary hit point per Hit Die you possess, in addition to a +1 bonus to Fortitude saving throws. Additionally, your rage does not end if you become unconscious, but you must still expend rounds of rage per day each round you remain unconscious.
@@ -74,7 +82,6 @@ While raging, the barbarian gains the benefits of the Improved Transformation fe
 #### Shifter Totem, Greater (Su) (requires barbarian 10, lesser shifter totem, shifter totem) [AoP2]
 
 While raging, the barbarian gains the benefits of a single shifter bestial trait of his choice, treating his class level as his shifter level.
-
 ---
 
 *Archived: [[Barbarian Rage Powers (Original)|Original version]] (from before *Ultimate Spheres of Power*)*
