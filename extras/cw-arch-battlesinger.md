@@ -1,6 +1,6 @@
 <!-- extras: page | Spheres Of Might/Commander/Battlesinger | Battlesinger | might -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Often found at the forefront of revolutions and in the ranks of freedom fighters, a battlesinger is well known for spurring forward their fellow troops against impossible odds.*
 

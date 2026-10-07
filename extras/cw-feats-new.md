@@ -2,7 +2,7 @@
 
 #### Amateur Field Officer [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *You've read the field manuals and feel confident enough to start giving orders.*
 
@@ -14,7 +14,7 @@
 
 #### Amateur Field Tactician [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *You're familiar enough with the terrain and feel confident enough to help guide others.*
 
@@ -28,7 +28,7 @@ You may share this battlefield specialty through your Warleader sphere abilities
 
 #### Decorated Insight [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 **Prerequisites:** Decorum class feature.
 
@@ -40,7 +40,7 @@ Your commander's decorum bonus now also applies to the chosen skills.
 
 #### Expanded Battlefield Specialty [plan] [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Always plan for the next battlefield.*
 
@@ -56,7 +56,7 @@ You can reveal this plan once per week.
 
 #### Extra Enhanced Tactics [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 **Prerequisite:** Enhanced tactic class feature.
 
@@ -66,7 +66,7 @@ You can reveal this plan once per week.
 
 #### Constant Chatter (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *You never learned how to stop talking. You have learned how to make it count.*
 
@@ -90,7 +90,7 @@ You cannot use this option with any of the following: instantaneous duration (sh
 
 #### Drink and Directive (Combat, Dual Sphere) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*
 
@@ -116,7 +116,7 @@ Creatures with the scent special ability suffer a -2 penalty to their saving thr
 
 #### Hunting Party (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Blood draws a crowd, and a crowd draws blood.*
 
@@ -138,7 +138,7 @@ If the attack is a critical hit, instead increase the bleeding target's current 
 
 #### Improvised Doctrine (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *You've studied every playbook long enough to write one.*
 
@@ -148,7 +148,7 @@ If the attack is a critical hit, instead increase the bleeding target's current 
 
 #### Marking Quarry (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Nobody is better at pointing out the mission critical targets.*
 
@@ -172,7 +172,7 @@ When you mark a creature this way, you may have the mark carry one additional ef
 
 #### Tactical Patrol (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 **Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).
 

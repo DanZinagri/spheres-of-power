@@ -1,6 +1,6 @@
 <!-- extras: note:Practitioner Feats | replace | Commander’s Acumen (combat) [Conq. HB] => Polished Warleader -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 Replaced in Polished Warleader by **Tactician's Acumen (Combat) [DRS]**
 

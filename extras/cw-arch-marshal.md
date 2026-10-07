@@ -1,6 +1,6 @@
 <!-- extras: page | Spheres Of Might/Commander/Marshal | Marshal | might -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *A grand marshal's presence is the guiding hand of a seasoned mentor, a confident leader, and a capable warrior.*
 

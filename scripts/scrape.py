@@ -2268,7 +2268,8 @@ DARK_FEAT_REMOVED = ("Removed in Polished Dark. The [[Dark]] sphere's Deadly Dar
                      "(Inescapable Darkness) is similar in function.")
 # Archetypes with Polished Dark errata (Compatibility Appendix): note name -> edits, each
 # ("append", feature heading, text) / ("replace", feature heading, new body) / ("note", text).
-POLISHED_COMMANDER_SOURCE = "*Source: Diamond Polished Spheres: Commander and Warleader Sphere*"
+POLISHED_COMMANDER_SOURCE = ("*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/"
+                             "585170/diamond-polished-spheres-commander-and-warleader-sphere)*")
 ARCHETYPE_ERRATA = {
     "Bearon (Commander Archetype)": [
         ("meta", "Polished Commander", POLISHED_COMMANDER_SOURCE,

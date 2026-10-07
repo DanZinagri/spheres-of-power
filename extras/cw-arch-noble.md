@@ -1,6 +1,6 @@
 <!-- extras: note:Noble | tab | Polished Commander -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Some are born to lead. The nobility focus their direction, resources, and talents to coordinate their most loyal subordinates.*
 

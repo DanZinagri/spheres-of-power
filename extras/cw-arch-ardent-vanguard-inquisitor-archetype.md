@@ -1,6 +1,6 @@
 <!-- extras: page | Archetypes (Unsorted)/Ardent Vanguard (Inquisitor Archetype) | Ardent Vanguard (Inquisitor Archetype) | might -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Some inquisitors work alone, judging the guilty in the shadows. The ardent vanguard judges in the light, at the head of a team bound to their cause by the force of their convictions and faith.*
 

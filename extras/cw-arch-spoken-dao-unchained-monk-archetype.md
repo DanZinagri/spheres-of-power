@@ -1,6 +1,6 @@
 <!-- extras: page | Archetypes (Unsorted)/Spoken Dao (Unchained Monk Archetype) | Spoken Dao (Unchained Monk Archetype) | might -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Some monks forge themselves into weapons. Instead of such crude methods, the spoken dao wields the ancient truths of their words.*
 

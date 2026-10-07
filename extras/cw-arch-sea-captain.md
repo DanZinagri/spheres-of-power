@@ -1,6 +1,6 @@
 <!-- extras: page | Spheres Of Might/Commander/Sea Captain | Sea Captain | might -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Experienced men rise through the navy or join up with pirates to become powerful and respected captains, leaders across the high seas.*
 

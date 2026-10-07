@@ -1,6 +1,6 @@
 <!-- extras: note:Administrator | tab | Polished Commander -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Administrators take an active role in understanding and shaping their situation, viewing conflict as a struggle that expands far beyond the battlefield.*
 

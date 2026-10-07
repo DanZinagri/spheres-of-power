@@ -1,6 +1,6 @@
 <!-- extras: page | Spheres Of Might/Commander/Roaming General | Roaming General | might -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *The roaming general is always on their way to the next battlefield, as much as mercenary as they are a tactician.*
 

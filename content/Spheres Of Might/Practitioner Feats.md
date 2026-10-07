@@ -40,7 +40,7 @@ Upon impact, the creature falls prone and takes normal falling damage (maximum: 
 
 #### Amateur Field Officer [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *You've read the field manuals and feel confident enough to start giving orders.*
 
@@ -52,7 +52,7 @@ Upon impact, the creature falls prone and takes normal falling damage (maximum: 
 
 #### Amateur Field Tactician [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *You're familiar enough with the terrain and feel confident enough to help guide others.*
 
@@ -72,7 +72,7 @@ You may share this battlefield specialty through your Warleader sphere abilities
 
 #### Battle Fanfare (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *The same songs carry a new meaning during war.*
 
@@ -93,7 +93,7 @@ You may share this battlefield specialty through your Warleader sphere abilities
 
 #### Booming Boast (Combat, Dual Sphere) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Confident and loud.*
 
@@ -200,7 +200,7 @@ You cannot use this option with any of the following: instantaneous duration (sh
 
 #### Constant Chatter (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *You never learned how to stop talking. You have learned how to make it count.*
 
@@ -263,7 +263,7 @@ While ooze creatures cannot normally be purchased in traditional marketplaces, G
 
 #### Decorated Insight [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 **Prerequisites:** Decorum class feature.
 
@@ -327,7 +327,7 @@ Etching your limbs with exquisite art, your body truly becomes a weapon.
 
 #### Drink and Directive (Combat, Dual Sphere) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *The second afternoon scotch was rarely questioned by the men. Despite the slurred speech, his tactical prowess seemed sharper than ever.*
 
@@ -383,7 +383,7 @@ Whenever you perform an attack action and expend martial focus to deal additiona
 
 #### Escutcheon (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *A shield can guard a body. Yours guards an army.*
 
@@ -399,7 +399,7 @@ In addition, you gain the following option:
 
 #### Expanded Battlefield Specialty [plan] [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Always plan for the next battlefield.*
 
@@ -441,7 +441,7 @@ Your knowledge of combat is easily expanded.
 
 #### Extra Enhanced Tactics [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 **Prerequisite:** Enhanced tactic class feature.
 
@@ -605,7 +605,7 @@ If your base attack bonus is +10 or higher, you may suppress the dazed, frighten
 
 #### Hunting Party (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Blood draws a crowd, and a crowd draws blood.*
 
@@ -647,7 +647,7 @@ Calculate the effects of abilities granted by this feat with your effective Bers
 
 #### Improvised Doctrine (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *You've studied every playbook long enough to write one.*
 
@@ -687,7 +687,7 @@ Additional job benefits granted by this feat can be retrained similar to retrain
 
 #### Marking Quarry (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Nobody is better at pointing out the mission critical targets.*
 
@@ -789,7 +789,7 @@ After a successful attack action or attack of opportunity against an unscouted t
 
 #### Petrifying Pennant [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *The banner is more than enough to instill fear.*
 
@@ -918,7 +918,7 @@ While maintaining the Floating Butterfly stance, you retain the competence bonus
 
 #### Strategy to Action (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *"I love it when a plan comes together."*
 
@@ -942,7 +942,7 @@ If you use one of these additional swift actions to issue a cavalier's challenge
 
 #### Tactical Patrol (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 **Prerequisites:** Guardian sphere ((patrol) package); Warleader sphere ((tactic) package).
 
@@ -954,7 +954,7 @@ In addition, you gain the following option:
 
 #### Tactician's Acumen (Combat) [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Your intricate plans come into motion faster.*
 

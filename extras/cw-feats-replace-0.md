@@ -1,6 +1,6 @@
 <!-- extras: note:Practitioner Feats | replace | Battle Fanfare (combat) [High. HB] => Polished Warleader -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 Replaced in Polished Warleader by **Battle Fanfare (Combat) [DRS]**
 

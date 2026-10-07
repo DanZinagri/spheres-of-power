@@ -1,6 +1,6 @@
 <!-- extras: note:Feylord | tab | Polished Commander -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *The feylord plays in the courts of fey, exchanging favors owed to old and capricious powers.*
 

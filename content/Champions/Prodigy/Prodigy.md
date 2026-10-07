@@ -349,7 +349,7 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 ### [[Warleader (warleader-sphere)|Warleader]] [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 **Battlefield Coordination (opener):** *Engage tactics* or *shout* as part of a standard action or longer (including the *battlecry* special attack action).
 

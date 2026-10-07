@@ -1,6 +1,6 @@
 <!-- extras: note:Warleader (warleader-sphere) | tab | Polished Warleader -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Practitioners of the Warleader sphere learn to organize, rally, and direct their allies in battle. From charismatic generals to canny tacticians, superior talent creates superior coordination.*
 

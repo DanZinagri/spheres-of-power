@@ -584,7 +584,7 @@ A magnum opus is any gizmo the conscript could craft, except the conscript may h
 
 ### [[Warleader (warleader-sphere)|Warleader]] [DRS]
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 **Born Leader (Ex):** At 3rd level and every five levels thereafter, a conscript gains a teamwork feat they qualify for as a bonus feat. The conscript may share these feats with any ally benefitting from one of their Warleader sphere effects, even if they would not normally qualify for those teamwork feats.
 

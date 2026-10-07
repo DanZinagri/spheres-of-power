@@ -1,6 +1,6 @@
 <!-- extras: page | Spheres Of Might/Commander/Sworn Officer | Sworn Officer | might -->
 
-*Source: Diamond Polished Spheres: Commander and Warleader Sphere*
+*Source: [Polished Commander & Warleader](https://www.drivethrurpg.com/en/product/585170/diamond-polished-spheres-commander-and-warleader-sphere)*
 
 *Some officers dedicate themselves entirely to a single virtue, refining it until it defines their every action on the battlefield.*
 
