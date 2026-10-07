@@ -22,7 +22,7 @@ You gain the *recruit* sphere ability.
 
 Full details and information about *recruiting* a cohort and cohort statistics are detailed in the Leadership Appendix, **About Cohorts**.
 
-## Recruit
+### Recruit
 
 *You recruit a loyal and capable cohort to your aid.*
 
@@ -41,7 +41,7 @@ You gain the ability to attract followers and the *make camp* sphere ability. In
 
 Full details and information about your camp and followers are detailed in the Leadership Appendix, **About Camp and Followers**.
 
-## Make Camp
+### Make Camp
 
 *The fire is lit and the camp bustles with energy.*
 
