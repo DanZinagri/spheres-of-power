@@ -2426,6 +2426,10 @@ def retire_ultimate(derived: list[tuple[str, str]]) -> dict[str, tuple[str, str]
             "\n".join(rfm) + "\n" + GENERATED_MARK + "\n\n" + note + "\n\n" + rbody.strip() + "\n", encoding="utf-8")
         derived.append(((folder / f"{name}.md").as_posix(), rel.as_posix()))
         retired[f.stem] = (name, title)
+        # "The Polished Dark Sphere is a reworked version of the ... [[Dark|Dark Sphere]]." now links
+        # to its own page
+        lines = [l for l in lines if not re.match(
+            rf"The Polished .* is a reworked version of .*\[\[{re.escape(f.stem)}(\||\]\])", l)]
         link = f"[[{name}|Ultimate version]] (before *Polished*)"
         body = re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).rstrip("\n")
         if re.search(r"\n\*Archived: [^\n]*\*$", body):

@@ -8,8 +8,6 @@ parent: "[[Spheres Of Power]]"
 
 **Polished Spheres [DRS]:** [[Dark|Polished Dark Sphere]] is a fully rewritten Dark sphere.
 
-The Polished Dark Sphere is a reworked version of the *Ultimate Spheres of Power* [[Dark|Dark Sphere]].
-
 *Source: [Polished Dark](https://www.drivethrurpg.com/en/product/497811/diamond-polished-spheres-dark-sphere?affiliate_id=549120)*
 
 *You learn to create, manipulate, and shape darkness.*
