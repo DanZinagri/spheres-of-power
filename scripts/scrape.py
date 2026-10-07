@@ -162,10 +162,6 @@ PAGE_REPLACE = {
          "Greater Recruitment (replaced with Extra Cohort in Diamond Spheres), Pack Tactics (replaced with "
          "Hunting Coordination's Hunt Together option in Diamond Spheres))"),
     ],
-    "using-champions-of-the-spheres": [
-        (r"(\*\*Leadership:\*\* \(Follower\) package, all \(follower\) talents), Military Training, Planisphere, "
-         r"Teleportation, Two Day Shipping", r"\1, Professional Undertakings"),
-    ],
     "dual-blooded-sorcerer": [
         (r"^\*\*This content was not included as part of Ultimate Spheres of Power[^\n]*\*\*$", OG_NOTE),
     ],
@@ -2429,6 +2425,110 @@ RETIRE_PAGES = {
 }
 
 
+# Pages whose references to replaced Ultimate content are rewritten to the Polished names; the
+# page as it was goes to ARCHIVE_RETIRED as a paper trail. page -> [(regex, replacement)]
+_MYTHIC_COMMANDER = [
+    (r"^### Mythic Group Focus$", "### Mythic Seize the Moment"),
+    (r"when using group focus", "when using *seize the moment*"),
+    (r"you may use group focus one additional time", "you may use *seize the moment* one additional time"),
+    # removed in Polished Commander
+    (r"^### Mythic Advanced Tactician\n\n.*\n+", ""),
+    (r"^### Mythic Expert Tactician\n\n.*\n+", ""),
+]
+REWRITE_PAGES = {
+    "Martial Packages": [  # the Leader package
+        (r"At 1st, Leaders can use Verbal Commands", "At 1st, Leaders can use Signal Coordinator's complex commands"),
+        (r"At 2nd, Frightful Roar helps", "At 2nd, Fearmonger Doctrine helps"),
+        (r"At 5th, Leaders gain Breath Support - this is mainly a setup for Explosive Ululation at 6th, which gives",
+         "At 5th, Leaders gain another Warleader talent of their choice (Breath Support's shaped commands are now "
+         "part of Signal Coordinator). Perimeter Doctrine at 6th gives"),
+        (r"Rousing Claxon at 9th gives all allies some temporary hit points - but it's mainly a setup for Recall "
+         r"Spirit at 10th, which Leaders can use to shout allies back to life",
+         "Survival Doctrine at 9th gives all allies some temporary hit points - but it's mainly a setup for Clarion "
+         "Caller at 10th, whose Return and Live! shout Leaders can use to call allies back to life"),
+        (r"Legion Unending at 16th is an intervention to help keep allies alive, while Unending Loyalty at 17th "
+         r"makes it even easier to call allies back to life\.",
+         "Armies of the Dead at 16th is an intervention to help keep allies alive, while at 17th Leaders gain "
+         "another Warleader talent of their choice (Unending Loyalty is now Clarion Caller's unending augment)."),
+        (r"1: Warleader: Verbal Commands", "1: Warleader: Signal Coordinator"),
+        (r"2: Warleader: Frightful Roar \(shout\)", "2: Warleader: Fearmonger Doctrine"),
+        (r"3: Warleader: Coordinated Reflexes \(tactic\)", "3: Warleader: Safety Doctrine"),
+        (r"4: Warleader: Deadly Herdsman \(tactic\)", "4: Warleader: Control Doctrine"),
+        (r"5: Warleader: Breath Support", "5: Warleader: any talent"),
+        (r"6: Warleader: Explosive Ululation \(shout\)", "6: Warleader: Perimeter Doctrine"),
+        (r"9: Warleader: Rousing Claxon \(shout\)", "9: Warleader: Survival Doctrine"),
+        (r"10: Warleader: Recall Spirit \(shout\)", "10: Warleader: Clarion Caller"),
+        (r"16: Warleader: Legion Unending \(tactic\)", "16: Warleader: Armies of the Dead"),
+        (r"17: Warleader: Unending Loyalty \(shout\)", "17: Warleader: any talent"),
+    ],
+    "Associated Feats & Skills": [  # Masterful Coordination (tactic) was removed
+        (r"^\| Harrying Partners \|[^\n]*\n", ""),
+    ],
+    "Unified Traditions": [
+        (r"\*\*Warleader Sphere:\*\* Militant Will", "**Warleader Sphere:** Safety Doctrine"),
+    ],
+    "Using Champions Of The Spheres": [
+        (r"(\*\*Leadership:\*\* \(Follower\) package, all \(follower\) talents), Military Training, Planisphere, "
+         r"Teleportation, Two Day Shipping", r"\1, Professional Undertakings"),
+        (r"(\*\*Warleader:\*\*) Covert Operations, Master’s Aura, Verbal Counter",
+         r"\1 Covert Doctrine, Master’s Presence, Soldier’s Countenance"),
+    ],
+    "How To Build A Practitioner": [
+        (r"\*\*Commander class:\*\* Group Focus \([^)]*\)",
+         "**Commander class:** Seize the Moment (standard action to restore martial focus to all allies; "
+         "automatic at 10th level, once per combat)"),
+        (r"\*\*Warleader:\*\* Focusing Cry \([^)]*\)",
+         "**Warleader:** Survival Doctrine (the With Me! shout's Focus Up! augment: expend your focus to restore "
+         "the martial focus of 1 or more other allies)"),
+        (r"\*\*Warleader:\*\* Focusing Tactics \([^)]*\)",
+         "**Warleader:** Wargames (Tactical Rebrief: allies benefitting from your Warleader sphere effects spend "
+         "a move or swift action to restore your martial focus)"),
+    ],
+    "Mythic Spheres": _MYTHIC_COMMANDER,
+    "Mythic Spheres 2": _MYTHIC_COMMANDER,
+}
+
+
+def rewrite_pages(derived: list[tuple[str, str]]) -> dict[str, tuple[str, str]]:
+    """REWRITE_PAGES: archive each page as it is, then rewrite it and link the archived copy."""
+    retired: dict[str, tuple[str, str]] = {}
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    for stem, edits in REWRITE_PAGES.items():
+        f = files.get(stem)
+        if not f:
+            print(f"warning: rewrite: no page {stem!r}")
+            continue
+        text = f.read_text(encoding="utf-8")
+        head, body = text.split(GENERATED_MARK, 1)
+        new = body
+        for pattern, repl in edits:
+            new, n = re.subn(pattern, lambda m: m.expand(repl), new, flags=re.M)
+            if not n:
+                print(f"warning: rewrite of {stem}: no match for {pattern[:60]!r}")
+        if new == body:
+            continue
+        rel = f.relative_to(CONTENT)
+        title = re.search(r'^title: "?(.*?)"?$', head, re.M)
+        title = title.group(1) if title else stem
+        name = f"{stem} (Ultimate)"
+        folder = Path(ARCHIVE_RETIRED) / rel.parent
+        rfm = ["---", f"title: {yaml_str(title + ' (Ultimate)')}", "nosearch: true",
+               "parent: " + yaml_str(f"[[{ARCHIVE_RETIRED.split('/')[-1]}]]"), "---"]
+        note = (f"> [!note] Retired\n> [[{stem}|{title}]] as it read before its references were updated to "
+                "Diamond Recreational Studios' *Polished* content. Not part of the current rules.")
+        (CONTENT / folder).mkdir(parents=True, exist_ok=True)
+        (CONTENT / folder / f"{name}.md").write_text(
+            "\n".join(rfm) + "\n" + GENERATED_MARK + "\n\n" + note + "\n\n" + body.strip() + "\n", encoding="utf-8")
+        derived.append(((folder / f"{name}.md").as_posix(), rel.as_posix()))
+        retired[stem] = (name, title)
+        link = f"[[{name}|Ultimate version]] (before *Polished*)"
+        new = new.rstrip("\n")
+        new = new[:-1] + f" · {link}*" if re.search(r"\n\*Archived: [^\n]*\*$", new) \
+            else new + f"\n\n---\n\n*Archived: {link}*"
+        f.write_text(head + GENERATED_MARK + new + "\n", encoding="utf-8")
+    return retired
+
+
 def retire_pages(derived: list[tuple[str, str]]) -> dict[str, tuple[str, str]]:
     """RETIRE_PAGES: move each page to ARCHIVE_RETIRED with its note; point links at the copy."""
     retired: dict[str, tuple[str, str]] = {}
@@ -3127,6 +3227,7 @@ def convert(with_images: bool) -> None:
     # Ultimate versions replaced by Polished ones move to the Archive's Retired Ultimate section
     retired = retire_pages(derived_notes)
     retired.update(retire_ultimate(derived_notes))
+    retired.update(rewrite_pages(derived_notes))
     rname = ARCHIVE_RETIRED.split("/")[-1]
     (CONTENT / ARCHIVE_RETIRED).mkdir(parents=True, exist_ok=True)
     (CONTENT / ARCHIVE_RETIRED / f"{rname}.md").write_text(

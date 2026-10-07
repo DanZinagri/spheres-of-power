@@ -36,6 +36,7 @@ parent: "[[Archive]]"
 **Feat Types**
 
 - [[Practitioner Feats (Ultimate)|Practitioner Feats]]
+- [[Associated Feats & Skills (Ultimate)|Associated Feats & Skills]]
 
 **Magic Options**
 
@@ -43,7 +44,7 @@ parent: "[[Archive]]"
 
 **Martial Options**
 
-*Nothing retired yet.*
+- [[Martial Packages (Ultimate)|Martial Packages]]
 
 **Skill Options**
 
@@ -51,11 +52,11 @@ parent: "[[Archive]]"
 
 **Champion Options**
 
-*Nothing retired yet.*
+- [[Unified Traditions (Ultimate)|Unified Traditions]]
 
 **Advanced Magic**
 
-*Nothing retired yet.*
+- [[Mythic Spheres (Ultimate)|Mythic Spheres]]
 
 **Gear**
 
@@ -108,6 +109,9 @@ parent: "[[Archive]]"
 **Other Pages**
 
 - [[Braveheart (Ultimate)|Braveheart]]
+- [[How To Build A Practitioner (Ultimate)|How To Build A Practitioner]]
+- [[Mythic Spheres 2 (Ultimate)|Mythic Spheres 2]]
+- [[Using Champions Of The Spheres (Ultimate)|Using Champions Of The Spheres]]
 - [[Vanguard (Ultimate)|Vanguard]]
 
 </div>
