@@ -161,9 +161,18 @@ PAGE_REPLACE = {
     ],
 }
 
-# Home Classes tables: extra archetypes added to a class's row (cell markdown, placed first)
+# Home Classes tables: extra archetypes added to a class's row (cell markdown, placed alphabetically)
 HOME_ARCHETYPE_ADDS = {
-    "Sorcerer": r"[[Dual-Blooded Sorcerer (Sorcerer Archetype)\|Dual-Blooded]] [OG]",
+    "Sorcerer": [r"[[Dual-Blooded Sorcerer (Sorcerer Archetype)\|Dual-Blooded]] [OG]"],
+    # Diamond Polished Spheres: Leadership Sphere (pages from extras/)
+    "Alchemist": [r"[[Doppelchymist (Alchemist Archetype)\|Doppelchymist]] [DRS]"],
+    "Cavalier": [r"[[Knight Captain (Cavalier Archetype)\|Knight Captain]] [DRS]"],
+    "Gunslinger": [r"[[Sheriff (Gunslinger Archetype)\|Sheriff]] [DRS]"],
+    "Paladin": [r"[[Preceptor Knight (Paladin Archetype) (Champion)\|Preceptor Knight]] [DRS]"],
+    "Summoner": [r"[[Hero Caller (Summoner or Unchained Summoner Archetype)\|Hero Caller]] [DRS]"],
+    "Summoner, Unchained": [r"[[Hero Caller (Summoner or Unchained Summoner Archetype)\|Hero Caller]] [DRS]"],
+    "Mastermind": [r"[[Consigliere]] [DRS]"],
+    "Armiger": [r"[[Tag Fighter]] [DRS]"],
 }
 
 # The "Original" (pre-Ultimate) tab of every page moves to its own archived page; the archive is
@@ -1078,6 +1087,27 @@ def remove_archetype_sections(md: str) -> str:
     return md
 
 
+def add_home_archetypes(md: str) -> str:
+    """HOME_ARCHETYPE_ADDS: put each extra archetype into its class's row, in alphabetical order."""
+    display = lambda c: _norm(re.sub(r"\[\[(?:[^\]|\\]*\\?\|)?([^\]]*)\]\]", r"\1", c))
+    lines = md.split("\n")
+    for cls, cells in HOME_ARCHETYPE_ADDS.items():
+        row = rf"\|\s*\*\*(?:\[{re.escape(cls)}\]\(\S*?\)|\[\[{re.escape(cls)}\]\])\*\*\s*\|"
+        at = next((i for i, l in enumerate(lines) if re.match(row, l)), None)
+        if at is None:
+            print(f"warning: home archetype add: no {cls} row")
+            continue
+        parts = re.split(r"(?<!\\)\|", lines[at])  # ['', class, archetypes, (options,) '']
+        have = [c.strip() for c in re.split(r",\s*(?=\[)", parts[2].strip()) if c.strip() and c.strip() != "—"]
+        for cell in cells:  # before the first existing entry that sorts after it
+            if cell not in have:
+                k = next((i for i, c in enumerate(have) if display(c) > display(cell)), len(have))
+                have.insert(k, cell)
+        parts[2] = " " + ", ".join(have) + " "
+        lines[at] = "|".join(parts)
+    return "\n".join(lines)
+
+
 def fill_class_archetypes(md: str, archetypes: dict[str, list[str]]) -> str:
     """Home Classes tables: {{ARCH:<class note>}} -> that class's archetypes (or a dash)."""
     return re.sub(r"\{\{ARCH:([^}]+)\}\}",
@@ -1128,11 +1158,6 @@ def tidy_home(md: str) -> str:
         if first is not None:
             lines[first:first] = [f"- [[{ARCHIVE}]] - Retired spheres content", ""]
     md = "\n".join(lines)
-    for cls, cell in HOME_ARCHETYPE_ADDS.items():
-        md, n = re.subn(rf"^(\|\s*\*\*\[{re.escape(cls)}\]\([^)]*\)\*\*\s*\|\s*)", lambda m: m.group(1) + cell + ", ",
-                        md, count=1, flags=re.M)
-        if not n:
-            print(f"warning: home archetype add: no {cls} row")
     md = re.sub(r"(\*\*Citations Guide:\*\*[^\n]*?)(\[Wiki\] means)",
                 r"\1[OG] marks original Spheres content that was not included in Ultimate Spheres of Power. \2", md, count=1)
     return md
@@ -1291,6 +1316,49 @@ def tab_set(tabs: list[tuple[str, str]]) -> str:
     return "\n".join(block + ["</div>", ""])
 
 
+# "note:<page>" extras, applied to finished pages (filled by load_extras). Modes besides merge/after/
+# prepend: "tab" (section = a tab label) puts the file before the page's content as a tab of its
+# own, the old content becoming an "Ultimate" tab; "replace" (section = "<entry heading> => <tab
+# label>") puts it beside one entry the same way. retire_ultimate() then archives the old ones.
+NOTE_EXTRAS: dict[str, list[tuple[str, str, str]]] = {}
+
+
+def apply_note_extras() -> int:
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    done = 0
+    for stem, items in NOTE_EXTRAS.items():
+        f = files.get(stem)
+        if not f:
+            print(f"warning: extras for missing page {stem!r}")
+            continue
+        text = f.read_text(encoding="utf-8")
+        head, body = text.split(GENERATED_MARK, 1) if GENERATED_MARK in text else ("", text)
+        body = body.strip("\n")
+        tail = ""
+        if (m := re.search(r"\n---\n\n\*Archived: [^\n]*\n?$", body)):
+            body, tail = body[:m.start()].rstrip(), body[m.start():]
+        for mode, section, extra in items:
+            if mode == "tab":
+                body = tab_set([(section, extra), ("Ultimate", body)]).rstrip()
+            elif mode == "replace":
+                name, _, label = (s.strip() for s in section.partition("=>"))
+                lines = body.split("\n")
+                hit = _entry(lines, name)
+                if not hit:
+                    print(f"warning: extras replace on {stem}: no {name!r}")
+                    continue
+                start, end, _ = hit
+                own = "\n".join(lines[start + 1:end]).strip()
+                lines[start + 1:end] = ["", tab_set([(label or "Polished", extra), ("Ultimate", own)])]
+                body = "\n".join(lines)
+            else:
+                body = apply_extras(body, stem, [(mode, section, extra)])
+        f.write_text(head + GENERATED_MARK + "\n\n" + re.sub(r"\n{3,}", "\n\n", body) + tail + "\n",
+                     encoding="utf-8")
+        done += 1
+    return done
+
+
 def load_extras() -> tuple[dict[str, list[tuple[str, str, str]]], list[tuple[str, str, str]]]:
     """extras/*.md -> ({page slug: [(mode, section, body)]}, [(note path, title, body)])."""
     merges: dict[str, list[tuple[str, str, str]]] = {}
@@ -1304,6 +1372,9 @@ def load_extras() -> tuple[dict[str, list[tuple[str, str, str]]], list[tuple[str
         body = text[m.end():].strip()
         if m.group(1) == "page":
             new_pages.append((m.group(2), m.group(3), body))
+        elif m.group(1).startswith("note:"):
+            # applied to the finished page of that name after everything is written: apply_note_extras
+            NOTE_EXTRAS.setdefault(m.group(1)[5:].strip(), []).append((m.group(2), m.group(3), body))
         else:
             merges.setdefault(m.group(1), []).append((m.group(2), m.group(3), body))
     return merges, new_pages
@@ -1311,6 +1382,12 @@ def load_extras() -> tuple[dict[str, list[tuple[str, str, str]]], list[tuple[str
 
 def _norm(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", s.replace("’", "'").lower()).strip()
+
+
+def _entry_name(heading: str) -> str:
+    """A heading's sort/compare key: wikilinks unwrapped, [tags] dropped, normalized."""
+    text = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", heading.lstrip("#"))
+    return _norm(re.sub(r"\[[^\]]*\]", "", text))
 
 
 def _section_span(lines: list[str], section: str) -> tuple[int, int, int] | None:
@@ -1368,7 +1445,7 @@ def apply_extras(md: str, slug: str, extras: list[tuple[str, str, str]]) -> str:
             elevel = len(blines[heads[0]].split(" ")[0])
             entries = [blines[a:b] for a, b in zip(heads, heads[1:] + [len(blines)])]
             for entry in entries:
-                name = _norm(re.sub(r"\[[^\]]*\]", "", entry[0].lstrip("#")))
+                name = _entry_name(entry[0])
                 lines = md.split("\n")
                 start, end, _ = _section_span(lines, section)
                 # sibling entries: same-level headings in the section's first run of them
@@ -1383,7 +1460,7 @@ def apply_extras(md: str, slug: str, extras: list[tuple[str, str, str]]) -> str:
                     elif len(h.group(1)) < elevel and seen:
                         end = k
                         break
-                at = next((k for k in sibs if _norm(re.sub(r"\[[^\]]*\]", "", lines[k].lstrip("#"))) > name), None)
+                at = next((k for k in sibs if _entry_name(lines[k]) > name), None)
                 if at is None:
                     at = end
                     while at > start + 1 and lines[at - 1].strip() in ("", "---"):
@@ -2208,7 +2285,8 @@ def _entry(lines: list[str], name: str, exact: bool = True) -> tuple[int, int, i
     """(heading line, end, level) of the first heading named name (tags like [RW HB] and, unless
     exact, a "(...)" suffix ignored); it ends at the next heading of the same or a higher level
     or at a tab boundary."""
-    clean = lambda s: _norm(re.sub(r"\s*\[[^\]]*\]", "", s if exact else re.sub(r"\s*\([^)]*\)", "", s)))
+    unlink = lambda s: re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", s)  # "[[Leadership]]" -> "Leadership"
+    clean = lambda s: _norm(re.sub(r"\s*\[[^\]]*\]", "", unlink(s) if exact else re.sub(r"\s*\([^)]*\)", "", unlink(s))))
     for i, l in enumerate(lines):
         m = re.match(r"(#{1,6}) (.+)$", l)
         if m and clean(m.group(2)) == clean(name):
@@ -2339,7 +2417,7 @@ def _place_alphabetically(lines: list[str], start: int) -> list[str]:
             and not lines[end].strip().startswith(("<div", "</div>")):
         end += 1
     block, rest = lines[start:end], lines[:start] + lines[end:]
-    name = _norm(re.sub(r"\[[^\]]*\]", "", block[0].lstrip("#")))
+    name = _entry_name(block[0])
     lo = start  # the run of siblings: up and down to a higher heading or a block boundary
     while lo > 0 and not lines[lo - 1].strip().startswith(("<div", "</div>")) and \
             not ((h := re.match(r"(#{1,6}) ", rest[lo - 1])) and len(h.group(1)) < lv):
@@ -2349,7 +2427,7 @@ def _place_alphabetically(lines: list[str], start: int) -> list[str]:
             not ((h := re.match(r"(#{1,6}) ", rest[hi])) and len(h.group(1)) < lv):
         hi += 1
     sibs = [k for k in range(lo, hi) if re.match(rf"#{{{lv}}} ", rest[k])]
-    at = next((k for k in sibs if _norm(re.sub(r"\[[^\]]*\]", "", rest[k].lstrip("#"))) > name), None)
+    at = next((k for k in sibs if _entry_name(rest[k]) > name), None)
     if at is None:
         at = hi
         while at > lo and rest[at - 1].strip() in ("", "---"):
@@ -2395,7 +2473,7 @@ def retire_ultimate(derived: list[tuple[str, str]]) -> dict[str, tuple[str, str]
                 lines[prev:e + 1] = []
                 continue
             new = old
-            if (m := re.search(r"^Replaced in Polished Dark by \*\*(.+?)\*\*.*$", pol, re.M)):
+            if (m := re.search(r"^Replaced in Polished \w+ by \*\*(.+?)\*\*.*$", pol, re.M)):
                 new = m.group(1)
                 pol = re.sub(r"\n{3,}", "\n\n", pol.replace(m.group(0), "")).strip()
             taken = any(re.fullmatch(rf"#{{{lv}}} {re.escape(new)}", l) for k, l in enumerate(lines) if k != prev)
@@ -2921,7 +2999,7 @@ def convert(with_images: bool) -> None:
         dest, out = home_page
         home = add_feats_links(out, feats_pages, drawback_pages)
         home = sphere_lists(drop_merged_links(home, merge_links))
-        home = fill_class_archetypes(home, class_archetypes)
+        home = add_home_archetypes(fill_class_archetypes(home, class_archetypes))
         dest.write_text(home, encoding="utf-8")
         # the Archive: a folder note listing archived material, and the Original Spheres index
         nos = "nosearch: true"
@@ -2948,6 +3026,7 @@ def convert(with_images: bool) -> None:
 
     print(f"Heading levels normalized: {normalize_heading_levels()} pages")
     print(f"Polished Dark tabs added: {polished_dark_tabs()} pages")
+    print(f"Hand-entered additions to finished pages: {apply_note_extras()} pages")
     # Ultimate versions replaced by Polished ones move to the Archive's Retired Ultimate section
     retired = retire_ultimate(derived_notes)
     rname = ARCHIVE_RETIRED.split("/")[-1]

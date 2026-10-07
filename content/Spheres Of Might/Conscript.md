@@ -492,13 +492,23 @@ The following abilities replace armed intimidator, celebrity combatant and gladi
 
 **Impaling Monster (Ex):** At 20th level, a conscript can attempt to impale a creature with any attack he makes, and the impaled creature cannot take a move action or expend their martial focus.
 
-### [[Leadership]]
+### [[Leadership]] [DRS]
 
-**Cohort Coordination:** At 3rd level and every five levels thereafter, a conscript gains a teamwork feat he qualifies for as a bonus feat. The conscript may share these feats with any cohort within close range (25 feet + 5 feet per 2 class levels), even if they would not normally qualify for it.
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 
-**Directed Motion:** At 8th level, the conscript may grant an additional move action to a number of cohorts equal to his practitioner ability modifier (minimum 1) as a move action. This additional move action may only be used to move.
+**Capable Cohorts (Ex):** At 3rd level, each of the conscript's cohorts gain a single conscript sphere specialization, using the conscript's level as their effective conscript level when determining its effects.
 
-**True Leader:** At 20th level, the conscript’s cohorts gain a morale bonus to AC and all saving throws equal to the conscript's practitioner ability modifier and fast healing 5.
+**Special:** If the conscript could recruit cohorts with magic, cohorts may instead gain a single incanter sphere specialization, using the conscript's level as their effective incanter level when determining its effects.
+
+**Director General (Ex):** At 8th level, as a move action, the conscript may grant a bonus move action to one other ally that can see or hear them. This additional move action may only be used to move. At 20th level, this ability may now be used as a swift or move action.
+
+A number of times each day equal to 1/2 the conscript's level + their practitioner modifier, when the conscript grants another ally a bonus move action, the conscript may also allow that ally to perform one of the following as part of the same action:
+
+- Stand up without provoking an attack of opportunity before taking the move action to move
+- Take a 5-foot step before or after taking the move action to move
+- Retrieve a single piece of equipment, weapon, or consumable within their reach or on their person
+
+**True Leader (Ex):** At 20th level, the conscript's cohorts gain a morale bonus to AC and saving throws and fast healing equal to the conscript's practitioner modifier.
 
 ### [[Open Hand]]
 
@@ -663,3 +673,7 @@ This collection of straps, hooks, and general tools can help a warrior unleash n
 
 **Construction Requirements**
 Craft Apparatus, War sphere, creator must know the sphere specialization added to this item; **Cost** 7,500 gp
+
+---
+
+*Archived: [[Conscript (Ultimate)|Ultimate version]] (before *Polished*)*

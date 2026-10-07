@@ -28,11 +28,12 @@ parent: "[[Archive]]"
 
 **Combat Spheres**
 
-*Nothing retired yet.*
+- [[Leadership (Ultimate)|Leadership]]
+- [[Leadership Sphere Drawbacks (Ultimate)|Leadership Sphere Drawbacks]]
 
 **Feat Types**
 
-*Nothing retired yet.*
+- [[Practitioner Feats (Ultimate)|Practitioner Feats]]
 
 **Magic Options**
 
@@ -79,11 +80,12 @@ parent: "[[Archive]]"
 
 **Practitioner Classes**
 
-*Nothing retired yet.*
+- [[Conscript (Ultimate)|Conscript]]
+- [[Garrison (Ultimate)|Garrison]]
 
 **Champion Classes**
 
-*Nothing retired yet.*
+- [[Prodigy (Ultimate)|Prodigy]]
 
 **Base PF1e Classes**
 

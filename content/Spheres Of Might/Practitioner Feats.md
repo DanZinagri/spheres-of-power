@@ -68,6 +68,20 @@ Once per round you may recenter an ongoing tactic maintained as part of using ba
 
 **Benefit:** You may consume the brain of an unconscious creature or a creature who has died within the last 24 hours as a fullround action. A corpse preserved by the Corpse Manipulation talent may have its brain consumed in this way within a week of its death. This functions as a coup de grace against a living creature with a base damage of 4d8 + your Strength modifier and a critical multiplier of x2. Doing so grants you a +2 insight bonus to two skills that the creature whose brain you ate possessed ranks in. You may only benefit from having one brain eaten at a time, but these bonuses last until the next time you consume a creature’s brain. You are immune to any non-magical diseases you are exposed to as part of consuming a creature’s brain and do not suffer any mundane negative health effects from consuming a creature’s brain, even if it would not normally be part of your natural diet. You gain no benefit from consuming the brains of subordinates. The creature’s brain is not eaten if they are not killed by this effect and you cannot consume the brains of creatures that lack brains (at GM discretion).
 
+#### Camp of Operations [DRS]
+
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
+
+*Home is wherever the hearth is.*
+
+**Prerequisites:** Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature.
+
+**Benefit:** Whenever you establish a base of operations, you may also *make camp*.
+
+In addition, your base of operations gains 1 additional tailored advice benefit. An additional benefit added this way is chosen based on the sphere-related assistance your followers offer, not the base spheres you personally possess (such as selecting Artifice's base of operations benefit by having a blacksmith, whose assistance offers Artifice sphere effects, despite not having the Artifice sphere normally).
+
+**Note:** The base of operations feature was first printed with the advisor class, *Diamond Spheres: Harmony and Discord*.
+
 #### Catisthenics [Catgirl HB]
 
 **Prerequisite:** 1 rank in any Strength- or Dexterity-based skill.
@@ -264,11 +278,21 @@ Whenever you perform an attack action and expend martial focus to deal additiona
 
 **Special:** Elemental Might is treated as the Elemental Fist feat (Pathfinder Roleplaying Game: Advanced Player’s Guide) for the purposes of prerequisites. You treat maintaining martial focus as having 1 or more uses of the Elemental Fist feat; if an ability or effect would allow you to expend 1 or more uses of the Elemental Fist feat, you may expend your martial focus instead. Whenever you expend martial focus to deal energy damage with this feat (either with this feat or by converting an attack action’s additional damage), this damage is treated as damage dealt by the Elemental Fist feat for the purposes of other abilities and effects.
 
-#### Emotional Conduit
+#### Emergency Reserves [plan] [DRS]
 
-**Prerequisites:** Leadership sphere, (cohort) package, emotion class feature.
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 
-As a joint action, you may channel your emotion class feature through one of your cohorts within medium range (100 feet + 10 feet per class level in the class that grants the emotion class feature), treating it as the origin for the effect but using your save DC, durations, and other parameters. Any required attack roll is resolved with the cohort’s base attack bonus, attributes, and other attack roll modifiers.
+*You can make preparations for a new cohort should your current cohort die or need to be replaced.*
+
+**Prerequisite:** Leadership 5 associated skill ranks; Leadership ((cohort) package).
+
+**Benefit:** You gain the following plan:
+
+> **Emergency Reserves [plan]**
+>
+> **Effect:** When you prepare this plan, you must still spend the time to recruit, determining the cohort's statistics and abilities, but gaining that cohort as a contact instead of immediately gaining their services.
+>
+> When you reveal this plan, the prepared cohort arrives in 15 minutes, as though just recruited. You may only reveal this plan if you have an available slot for a cohort (such as a cohort having recently died or needing replacement). This plan may only be prepared a single time, even if you could prepare multiple plans at once.
 
 #### Escutcheon [Apoc]
 
@@ -406,15 +430,21 @@ This creature can make an attack before and after it moves while flying.
 
 **Benefits:** Whenever you would expend martial focus, you may take 1 point of nonlethal damage per character level instead of expending your martial focus, to a limit of once per action. This damage cannot be healed by any means other than getting a full night’s rest, which removes all associated nonlethal damage. This nonlethal damage cannot be reduced or redirected, and a character incapable of taking nonlethal damage cannot use this feat.
 
-#### Friends In Close Places [Conq. HB]
+#### Friends In Close Places [plan] [DRS]
 
-Your retinue of followers has attracted some skilled individuals you can call on in a time of need.
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 
-**Prerequisites:** Leadership sphere ((follower) package), call in a specialist logistic specialty.
+*Your retinue of followers has attracted some skilled individuals you can call on in a time of need.*
 
-**Benefit:** When using your call in a specialist logistic specialty, you may recruit a specialist from your followers so that the specialist appears in half the time they’d normally take to arrive. For example, a level 11 commander recruits an equipment specialist, who arrives in 6.5 hours instead of 13.
+**Prerequisites:** Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents).
 
-In addition, whenever your followers attempt a skill check using your ranks or bonus in Diplomacy, they gain a +2 bonus on that check. If you have 10 or more ranks in Diplomacy, this bonus increases to +4.
+**Benefit:** You gain a single Leadership sphere (follower) talent as a bonus talent. In addition, you gain the following plan:
+
+> **Friends in Close Places [plan]**
+>
+> **Effect:** When you reveal this plan, you immediately retrain the (follower) talent granted by this feat. This is treated as dismissing one follower to gain the services of another, with the new follower arriving the next time you *make camp*. Any assistance provided by a follower is lost when that follower is dismissed (provided items become inert and useless, abilities or benefits end, and so on).
+>
+> If you are in a settlement, you may reveal this plan once per day. Otherwise, you may only reveal this plan once per week or until you make camp in a settlement.
 
 #### Giantslayer (combat)*
 
@@ -457,12 +487,6 @@ You know the secrets of repairing and restoring firearms.
 **Prerequisites:** Dual Wielding sphere, Improved Unarmed Strike.
 
 **Benefits:** As long as you have martial focus, dual attacks made with a manufactured weapon and an unarmed strike remove the attack penalty from dual attack for one manufactured weapon (as long as it is not being treated as an unarmed strike), and any unarmed strikes add your full Strength bonus to damage rolls instead of half for an off-hand attack.
-
-#### Harmony
-
-**Prerequisites:** Leadership sphere, (cohort) package, bard song or raging song class feature.
-
-When you begin a bard song or raging song, you may pass it off to a cohort within 30 feet as a free action. The cohort may maintain the performance as a standard action each round, spending your rounds of performance normally to do so. You may initiate a performance while another one is being maintained by your cohort, though multiple instances of the same performance do not stack.
 
 #### Heroic Resolve (combat)
 
@@ -521,6 +545,26 @@ Whether through acts of charlatanism or infusing your paints with latent magic, 
 Additionally, the talents you possess within the Shield sphere count towards your unarmed damage progression.
 
 **Author's Note:** This feat does not allow you to perform shield bashes with a free hand or unarmed strike.
+
+#### Journeyman Cohorts [DRS]
+
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
+
+**Prerequisite:** Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package).
+
+**Effect:** Each cohort you *recruit* also selects one cohort job they do not possess, gaining that job's 2nd-level benefit and their choice between that job's 3rd and 5th-level benefits. For example, a wildling could select warrior, gaining their 2nd-level skill bonuses and their choice between armor or weapon training.
+
+Additional job benefits granted by this feat can be retrained similar to retraining a feat, such as with Training Coordination's training regiment option.
+
+#### Mixed Conscription [DRS]
+
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
+
+**Prerequisites:** Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text).
+
+**Benefit:** Other subordinates under your control are treated as one of your cohorts, and you are treated as their leader.
+
+A subordinate may now benefit from (cohort) talents, except those that permanently improve or modify a cohort, such as quartermaster's skill, talented cohorts, and training regiment. Class features or other abilities that further customize cohorts similarly do not apply to subordinates (such as a knight captain's squires or a sheriff's deputies).
 
 #### Mixed Coordinator (combat)
 
@@ -640,6 +684,22 @@ You are adept at anticipating and interrupting spellcasters.
 
 **Benefits:** When you utilize your Purge talent, you can instead perform it as a standard action, vomiting on all squares in a close-ranged cone, instead of the normal area. All affected squares are treated affected as per the Purge talent, and creatures in the cone must succeed at a Fortitude save or become sickened for one round. At base attack bonus +10 or higher, creatures that fail their Fortitude save are instead nauseated for one round, and sickened for one minute afterwards. A success negates the nauseate and reduces the sickened duration to one round.
 
+#### Radiant Quests [DRS]
+
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
+
+*Not every job needs a sword. Some just need someone willing to ask around.*
+
+**Prerequisites:** Leadership associated skill 5 ranks.
+
+**Benefits:** Once per week, you can complete various tasks for your contacts or followers to make money. Make a Leadership sphere associated skill check, earning a number of gold pieces equal to your check's result times your associated skill ranks. You can only complete a radiant quest once per week.
+
+When completing a radiant quest on behalf of a contact or follower, you must spend 8 hours working towards their radiant quest (similar to working a profession or spending downtime to make money). A radiant quest typically involves a negligible amount of combat, exploration, and travel, which you are considered to have succeeded on during the downtime.
+
+When you complete a radiant quest for a contact, if that contact is *recruited* as a cohort within 1 week, they gain a +2 morale bonus to attack rolls, damage rolls, saving throws, and skill checks for 48 hours.
+
+When you complete a radiant quest for a follower, for the next 48 hours, that follower provides their assistance as though your Leadership sphere associated skill ranks and practitioner modifier were 2 higher.
+
 #### Rigorous Student [Origin]
 
 **Benefit:** Choose a class you have levels in. For the purpose of calculating the DCs of class features based on that class’ level (such as scholar material impositions and thaumaturge invocations), you treat your class level as 4 higher, to a maximum of your character level. This does not improve other effects of the class feature (for example, a character with 18 Intelligence, 5 levels in scholar, and 3 levels in conscript would have a flashbang save DC of 18, but their sulfuric detonation would only add 2d6 damage to their flashbang). This does not affect abilities which use your caster level to calculate the DC.
@@ -652,11 +712,40 @@ You are adept at anticipating and interrupting spellcasters.
 
 **Benefits:** As long as you have martial focus, whenever a creature makes a melee attack against you while you are using a movement mode corresponding to a package you possess, you may use shoulder roll against the attack without it counting towards your one usage per round.
 
-#### Shared Rage (combat)
+#### Shared Harmonies [DRS]
 
-**Prerequisites:** Leadership sphere, (cohort) package, rage or bloodrage class feature.
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 
-When you activate your rage, you may extend its benefits and penalties to one cohort within 30 feet as a swift action. The cohort spends rage rounds from your pool. The cohort may end its rage at will, suffering the normal penalties for doing so. The cohort need not remain within range to maintain this rage. You may share rage with more than one cohort; each requires a separate swift action and each spend one round from your rage rounds each round.
+*Songs are better sung with two voices.*
+
+**Prerequisites:** Leadership sphere ((cohort) package); bardic performance or raging song class feature.
+
+**Benefit:** You gain the following abilities:
+
+- **Pass the Song:** When you begin or continue your bardic performance or raging song, as a free action, you may allow a cohort within close range (25 ft. + 5 ft. / 2 Leadership associated skill ranks) to continue performing the performance or song on your behalf. The cohort may maintain the performance or song as a standard action each round, and expends your rounds of bardic performance or raging song to do so.
+
+  You can begin new bardic performances or raging songs while a cohort maintains your previous performance or song; multiple instances of the same performance or song do not stack.
+- **Start a Harmony:** When you begin your bardic performance or raging song, your cohort may harmonize with you as a joint standard action. Each round the cohort harmonizes with you, or continues to harmonize each round after the first as a standard action, you treat the effects of your bardic performance or raging song as though your class level were 6 higher to determine its effects.
+
+  A cohort cannot harmonize with you after you've begun your performance or song, and only a single cohort can harmonize this way.
+
+**Special - Minstrel Cohorts (see text):** If your cohort possesses the bardic performance or raging song class feature, they may select this feat as though they met the prerequisites. When the cohort uses their bardic performance or raging song, you or other cohorts may harmonize with them.
+
+**Special - Bardic Performance-like features:** Subject to GM discretion, class features that function similar to bardic performance (such as symbiat's psionics) may be used with this feat, and may be used to meet this feat's prerequisites.
+
+#### Shared Rage (Combat) [DRS]
+
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
+
+*Sharing your feelings never smashed so many helmets.*
+
+**Prerequisites:** Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text).
+
+**Benefit:** Whenever you rage, as a joint swift action, cohorts within close range (25 ft. + 5 ft. / 2 Leadership associated skill ranks) may also begin raging as a "**shared rage**", gaining all the benefits and penalties of rage, except the shared rage's benefits are half your normal rage's benefits (i.e. if your rage would grant +4 Strength and Constitution, the cohort only gains +2 Strength and Constitution). A cohort can rage indefinitely, so long as you are raging, and becomes fatigued for a duration when they stop raging.
+
+You may choose to allow a cohort's shared rage to benefit from your full rage benefits (instead of half); however, if you do, each round the cohort spends raging expends your rounds of rage. If you rage due to a spell or similar effect with a fixed duration, the cohort instead expends time from that effect's total duration (such as reducing a *rage* spell's duration by an additional round).
+
+**Special - Wildling Cohorts (see text):** If your cohort possesses the rage class feature, they may select this feat as though they met the prerequisites. When the cohort rages, you may enter a shared rage with them.
 
 #### Stinging Bee (combat) [EO3]
 
@@ -684,6 +773,18 @@ While maintaining the Floating Butterfly stance, you retain the competence bonus
 
 **Benefit:** An ally who benefits from a tactic you create is considered to be within range of your banner and receives its benefits accordingly.
 
+#### Talented Followers, Improved [DRS]
+
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
+
+*It's almost like they could do this all without me.*
+
+**Prerequisites:** Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help).
+
+**Benefit:** Followers can select 1 additional sphere option as part of their assistance (such as a blacksmith now selecting 3 Artifice flourishes instead of 2, thanks to the talented followers legendary option and this feat).
+
+**Special:** This feat may be selected an additional time at 10 Hit Dice and every 5 additional Hit Dice after; each time this feat is selected, your followers select 1 additional option.
+
 #### Target Spotting
 
 **Prerequisites:** Scout sphere, favored enemy class feature.
@@ -693,6 +794,18 @@ While maintaining the Floating Butterfly stance, you retain the competence bonus
 #### Technological Training
 
 **Benefit:** Reduce the penalties you suffer when using technician inventions that are not your own by half. If the technician who made the invention possesses Aesthetic Insight, these penalties are reduced to 0.
+
+#### Theurgical Disciples [DRS]
+
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
+
+*Faith is strongest when kneeling before the same altar.*
+
+**Prerequisite:** Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text).
+
+**Benefit:** You gain a +2 bonus to Knowledge (religion) skill checks. If you have 10 or more ranks in Knowledge (religion), this bonus increases to +4.
+
+In addition, each cohort that shares an alignment with you and that worships the same deity as you gains access to a single domain or inquisition that could be granted by your deity's portfolio. Cohorts use their cohort level as their effective cleric level when determining the domain or inquisition's effects.
 
 #### Through The Long Night (combat) [Apoc]
 
@@ -881,3 +994,7 @@ You may also apply improvements and technical insights to your drones (1 improve
 **Prerequisites:** Tech sphere (Remote Control), Remote Hacking.
 
 When you attempt to control a foreign gadget, whether it succeeds or fails on its Will save it must immediately succeed at a second Will save. If it fails this second save, it does not realize it it was subject to a hack attempt (including knowing if any routines were transferred).
+
+---
+
+*Archived: [[Practitioner Feats (Ultimate)|Ultimate version]] (before *Polished*)*

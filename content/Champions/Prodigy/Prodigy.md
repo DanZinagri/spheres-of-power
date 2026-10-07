@@ -247,11 +247,13 @@ A prodigy gains additional sequence options if she possesses certain spheres:
 
 **Impale (link):** The prodigy successfully impales a creature.
 
-### [[Leadership]]
+### [[Leadership]] [DRS]
 
-**Directing the Charge (opener):** The prodigy’s cohort deals damage to or succeeds on a combat maneuver against a hostile creature as part of a joint action.
+*Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 
-**Press the Attack (finish):** The prodigy may spend a move action to grant an attack action to a cohort within close range (25 feet + 5 feet per 2 ranks in Diplomacy). This attack receives a morale bonus to attack and damage equal to the length of the sequence.
+**Lead the Charge (opener):** The prodigy's cohort spends a full-round action to perform an attack action or move as a move action. This opener may also be completed whenever a cohort performs a joint action with the prodigy.
+
+**Press the Attack (finish):** The prodigy may spend a move action to grant an attack action to a cohort within close range (25 feet + 5 feet per 2 Leadership sphere associated skill ranks). The cohort's attack receives a morale bonus to attack and damage equal to the length of the sequence.
 
 ### [[Navigation]]
 
@@ -721,3 +723,7 @@ This ornate golden mirror is about the length of a forearm and seems far more du
 
 **Construction Requirements**
 Craft Marvelous Item, Protection sphere (Ray Deflection (aegis)), creator must have the reflect spells class feature; **Cost** 9,000 gp
+
+---
+
+*Archived: [[Prodigy (Ultimate)|Ultimate version]] (before *Polished*)*
