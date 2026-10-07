@@ -4,7 +4,12 @@ import { classNames } from "../util/lang"
 const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const title = fileData.frontmatter?.title
   if (title) {
-    return <h1 class={classNames(displayClass, "article-title")}>{title}</h1>
+    // a match in the page title counts far more in search ranking than one in the text
+    return (
+      <h1 class={classNames(displayClass, "article-title")} data-pagefind-weight="10">
+        {title}
+      </h1>
+    )
   } else {
     return null
   }

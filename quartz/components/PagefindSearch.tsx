@@ -25,6 +25,9 @@ export default (() => {
         <div class="pf-search-container">
           <div class="pf-search-space">
             <div class="pf-search-ui"></div>
+            <a class="pf-search-all" href="Search" hidden>
+              See all results →
+            </a>
           </div>
         </div>
       </div>

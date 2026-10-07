@@ -9,6 +9,25 @@ interface Options {
   file: string
 }
 
+const SYSTEMS: Record<string, string> = {
+  might: "Spheres of Might",
+  guile: "Spheres of Guile",
+  "guile-alt": "Spheres of Guile",
+  champion: "Champions",
+}
+
+// A coarse page type for the search page's filters, from the page's path.
+function pageType(slug: string): string | undefined {
+  const name = slug.split("/").pop() ?? ""
+  if (slug.startsWith("Mythic-Rules/") || /^Mythic-/.test(name)) return "Mythic"
+  if (/-Feats$|^Feats/.test(name)) return "Feats"
+  if (/Drawbacks$/.test(name)) return "Drawbacks"
+  if (/Archetype/.test(name)) return "Archetypes"
+  if (/Bestiary|Creature/.test(slug)) return "Creatures"
+  if (/Talents$/.test(name)) return "Talents"
+  return undefined
+}
+
 // Adds a `fam-<family>` class to internal links based on the page they point to, so links can be
 // colored by product line (Power / Guile / Might / Champions) like the original wiki. Must run
 // after CrawlLinks, which sets `data-slug` on internal links.
@@ -33,8 +52,24 @@ export const LinkFamilies: QuartzTransformerPlugin<Partial<Options>> = (userOpts
     name: "LinkFamilies",
     htmlPlugins() {
       return [
-        () => (tree: Root) => {
+        () => (tree: Root, file) => {
           const map = load()
+          // Search metadata for this page (Pagefind): its system (from its own family), a rough
+          // type, and its title as a sort key. Hidden; read by the search page's filters/sort.
+          const slug = String(file.data.slug ?? "")
+          const meta: [string, string][] = [["filter", `System:${SYSTEMS[map.get(slug) ?? ""] ?? "Spheres of Power"}`]]
+          const type = pageType(slug)
+          if (type) meta.push(["filter", `Type:${type}`])
+          const title = file.data.frontmatter?.title
+          if (title) meta.push(["sort", `title:${title}`])
+          tree.children.unshift(
+            ...meta.map(([kind, value]): Element => ({
+              type: "element",
+              tagName: "span",
+              properties: { hidden: true, [`data-pagefind-${kind}`]: value },
+              children: [],
+            })),
+          )
           visit(tree, "element", (node: Element) => {
             if (node.tagName !== "a") return
             const slug = node.properties?.["data-slug"]

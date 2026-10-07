@@ -116,3 +116,178 @@
     }
   }
 }
+
+// "See all results" under the dropdown: opens the full search page
+.pf-search-all {
+  display: block;
+  margin: 0.75rem 0 0;
+  padding: 0.6rem 1rem;
+  text-align: center;
+  font-weight: 600;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--light);
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+// The full search page (content/Search.md)
+#sop-search-page {
+  .sp-form {
+    display: flex;
+    gap: 0.6rem;
+    margin: 1rem 0;
+  }
+
+  .sp-input,
+  .sp-sort {
+    font-family: var(--bodyFont);
+    font-size: 1rem;
+    color: var(--dark);
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    padding: 0.55rem 0.8rem;
+  }
+
+  .sp-input {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 1.1rem;
+  }
+
+  .sp-layout {
+    display: grid;
+    grid-template-columns: 13rem 1fr;
+    gap: 2rem;
+    align-items: start;
+
+    @media all and ($mobile) {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+    }
+  }
+
+  .sp-filters {
+    position: sticky;
+    top: var(--top-bar-offset, 4.5rem);
+
+    @media all and ($mobile) {
+      position: static;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0 1.5rem;
+    }
+
+    fieldset {
+      border: none;
+      margin: 0 0 1.2rem;
+      padding: 0;
+    }
+
+    legend {
+      font-weight: 700;
+      margin-bottom: 0.35rem;
+    }
+
+    label {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      font-size: 0.92rem;
+      line-height: 1.7rem;
+      cursor: pointer;
+    }
+  }
+
+  .sp-status {
+    color: var(--gray);
+    margin: 0 0 0.5rem;
+  }
+
+  .sp-results {
+    margin: 0;
+    padding-left: 1.6rem;
+  }
+
+  .sp-result {
+    margin: 0 0 1.4rem;
+
+    .sp-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      background: none;
+      padding: 0;
+    }
+
+    .sp-tags {
+      margin-left: 0.6rem;
+      font-size: 0.8rem;
+      color: var(--gray);
+    }
+
+    .sp-excerpt {
+      margin: 0.25rem 0 0.35rem;
+    }
+
+    .sp-subs {
+      margin: 0;
+      padding-left: 1rem;
+      list-style: none;
+      border-left: 2px solid var(--lightgray);
+
+      li {
+        margin: 0.3rem 0;
+      }
+
+      a {
+        background: none;
+        padding: 0;
+        font-weight: 600;
+        font-size: 0.92rem;
+      }
+
+      p {
+        margin: 0.1rem 0 0;
+        font-size: 0.88rem;
+        color: var(--darkgray);
+      }
+    }
+
+    mark {
+      background-color: var(--textHighlight);
+      color: var(--dark);
+    }
+  }
+
+  .sp-pages {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 1.5rem 0;
+
+    button {
+      min-width: 2.2rem;
+      padding: 0.35rem 0.6rem;
+      font-family: var(--bodyFont);
+      color: var(--dark);
+      background: var(--light);
+      border: 1px solid var(--lightgray);
+      border-radius: 6px;
+      cursor: pointer;
+
+      &[aria-current="page"] {
+        background: var(--secondary);
+        border-color: var(--secondary);
+        color: var(--light);
+      }
+    }
+
+    span {
+      padding: 0.35rem 0.2rem;
+      color: var(--gray);
+    }
+  }
+}
