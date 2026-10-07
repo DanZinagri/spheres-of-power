@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Physician (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/physician
 updated: 2020-10-14

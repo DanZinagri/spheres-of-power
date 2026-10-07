@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Regent"
 source: https://spheresofpower.wikidot.com/regent
 updated: 2026-01-04

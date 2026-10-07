@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Plaguebringer"
 source: https://spheresofpower.wikidot.com/plaguebringer
 updated: 2021-09-10

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Inquisitor (Inquisitor Archetype)"
 source: https://spheresofpower.wikidot.com/champion-inquisitor
 updated: 2020-05-08

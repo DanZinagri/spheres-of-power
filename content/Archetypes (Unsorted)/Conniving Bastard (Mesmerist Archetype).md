@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Conniving Bastard (Mesmerist Archetype)"
 source: https://spheresofpower.wikidot.com/conniving-bastard
 updated: 2025-07-09

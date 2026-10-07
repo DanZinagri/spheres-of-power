@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Radiant Protean"
 source: https://spheresofpower.wikidot.com/radiant-protean
 updated: 2021-02-19

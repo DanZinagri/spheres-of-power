@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dread Crusader"
 source: https://spheresofpower.wikidot.com/dread-crusader
 updated: 2020-11-16

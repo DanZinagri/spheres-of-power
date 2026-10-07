@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Symbiotic Knight"
 source: https://spheresofpower.wikidot.com/symbiotic-knight
 updated: 2020-02-01

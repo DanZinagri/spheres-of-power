@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Adamant Disciple (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/adamant-disciple
 updated: 2023-04-21

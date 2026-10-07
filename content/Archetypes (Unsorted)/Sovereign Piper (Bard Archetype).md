@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sovereign Piper (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/sovereign-piper
 updated: 2019-08-15

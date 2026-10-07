@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Suit Pilots"
 source: https://spheresofpower.wikidot.com/suit-pilots
 updated: 2017-10-26

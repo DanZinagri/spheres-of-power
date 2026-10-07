@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Warleader"
 source: https://spheresofpower.wikidot.com/warleader
 updated: 2020-02-01

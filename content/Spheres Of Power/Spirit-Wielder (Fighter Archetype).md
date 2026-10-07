@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spirit-Wielder (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/spirit-wielder
 updated: 2020-01-30

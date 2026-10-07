@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Word Witch"
 source: https://spheresofpower.wikidot.com/word-witch
 updated: 2026-01-28

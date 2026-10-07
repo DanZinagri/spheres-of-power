@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Folk Healer (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/folk-healer
 updated: 2020-12-29

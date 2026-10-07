@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dramaturge"
 source: https://spheresofpower.wikidot.com/dramaturge
 updated: 2025-03-07

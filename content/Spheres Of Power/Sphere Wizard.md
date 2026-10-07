@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Wizard"
 source: https://spheresofpower.wikidot.com/sphere-wizard
 updated: 2020-06-06

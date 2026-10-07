@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dreadnought"
 source: https://spheresofpower.wikidot.com/dreadnought
 updated: 2025-09-02

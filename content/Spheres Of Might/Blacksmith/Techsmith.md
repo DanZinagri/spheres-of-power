@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Techsmith"
 source: https://spheresofpower.wikidot.com/techsmith
 updated: 2019-12-15

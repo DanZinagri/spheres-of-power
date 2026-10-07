@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Arbiter (Paladin/Antipaladin Archetype)"
 aliases: ["Arbiter (Paladin/Antipaladin Archetype)"]
 source: https://spheresofpower.wikidot.com/arbiter

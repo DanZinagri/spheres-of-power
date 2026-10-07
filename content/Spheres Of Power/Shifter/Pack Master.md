@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Pack Master"
 source: https://spheresofpower.wikidot.com/pack-master
 updated: 2020-02-03

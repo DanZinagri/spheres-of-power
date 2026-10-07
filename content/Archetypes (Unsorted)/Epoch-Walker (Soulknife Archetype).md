@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Epoch-Walker (Soulknife Archetype)"
 source: https://spheresofpower.wikidot.com/epoch-walker
 updated: 2019-01-27

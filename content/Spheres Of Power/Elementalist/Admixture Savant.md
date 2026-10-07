@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Admixture Savant"
 source: https://spheresofpower.wikidot.com/admixture-savant
 updated: 2020-03-01

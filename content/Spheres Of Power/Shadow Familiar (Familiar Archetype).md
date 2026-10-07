@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shadow Familiar (Familiar Archetype)"
 source: https://spheresofpower.wikidot.com/shadow-familiar
 updated: 2020-01-31

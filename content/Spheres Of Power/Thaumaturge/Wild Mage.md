@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wild Mage"
 source: https://spheresofpower.wikidot.com/wild-mage
 updated: 2018-04-30

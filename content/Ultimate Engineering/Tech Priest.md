@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Tech Priest"
 source: https://spheresofpower.wikidot.com/tech-priest
 updated: 2026-08-09

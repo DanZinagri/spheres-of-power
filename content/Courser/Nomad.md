@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Nomad"
 source: https://spheresofpower.wikidot.com/nomad
 updated: 2025-02-23

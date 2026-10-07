@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Idol"
 source: https://spheresofpower.wikidot.com/idol
 updated: 2024-03-24

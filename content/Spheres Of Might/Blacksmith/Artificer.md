@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Artificer"
 source: https://spheresofpower.wikidot.com/artificer
 updated: 2024-11-08

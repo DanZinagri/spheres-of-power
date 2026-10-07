@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Caller"
 source: https://spheresofpower.wikidot.com/caller
 updated: 2021-10-04

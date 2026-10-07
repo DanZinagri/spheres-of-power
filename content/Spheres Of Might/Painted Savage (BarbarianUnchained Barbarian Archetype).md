@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Painted Savage (Barbarian/Unchained Barbarian Archetype)"
 aliases: ["Painted Savage (Barbarian/Unchained Barbarian Archetype)"]
 source: https://spheresofpower.wikidot.com/painted-savage

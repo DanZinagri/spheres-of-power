@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Iron Mage"
 source: https://spheresofpower.wikidot.com/iron-mage
 updated: 2020-06-29

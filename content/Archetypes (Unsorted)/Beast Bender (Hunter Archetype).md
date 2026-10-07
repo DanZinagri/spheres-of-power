@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Beast Bender (Hunter Archetype)"
 source: https://spheresofpower.wikidot.com/beast-bender
 updated: 2019-09-18

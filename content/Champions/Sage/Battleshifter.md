@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Battleshifter"
 source: https://spheresofpower.wikidot.com/battleshifter
 updated: 2019-09-18

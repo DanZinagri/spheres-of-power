@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Ranger"
 source: https://spheresofpower.wikidot.com/sphere-ranger
 updated: 2020-03-13

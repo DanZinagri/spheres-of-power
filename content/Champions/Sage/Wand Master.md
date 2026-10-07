@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wand Master"
 source: https://spheresofpower.wikidot.com/wand-master
 updated: 2019-09-19

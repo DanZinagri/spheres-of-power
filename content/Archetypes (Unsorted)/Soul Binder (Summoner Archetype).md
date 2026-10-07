@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Soul Binder (Summoner Archetype)"
 source: https://spheresofpower.wikidot.com/soul-binder
 updated: 2023-02-17

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "The Stupor Monk (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/the-stupor-monk
 updated: 2020-04-14

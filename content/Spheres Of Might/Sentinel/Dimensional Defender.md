@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dimensional Defender"
 source: https://spheresofpower.wikidot.com/dimensional-defender
 updated: 2017-12-15

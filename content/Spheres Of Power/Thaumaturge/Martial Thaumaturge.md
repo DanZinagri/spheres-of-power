@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Martial Thaumaturge"
 source: https://spheresofpower.wikidot.com/martial-thaumaturge
 updated: 2020-05-14

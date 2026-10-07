@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Blaster"
 source: https://spheresofpower.wikidot.com/blaster
 updated: 2022-01-12

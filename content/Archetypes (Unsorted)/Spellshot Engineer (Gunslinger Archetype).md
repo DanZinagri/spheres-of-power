@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spellshot Engineer (Gunslinger Archetype)"
 source: https://spheresofpower.wikidot.com/spellshot-engineer
 updated: 2022-08-15

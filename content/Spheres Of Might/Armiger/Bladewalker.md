@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bladewalker"
 source: https://spheresofpower.wikidot.com/bladewalker
 updated: 2019-07-04

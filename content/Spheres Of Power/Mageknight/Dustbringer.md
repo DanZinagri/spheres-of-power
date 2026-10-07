@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dustbringer"
 source: https://spheresofpower.wikidot.com/dustbringer
 updated: 2020-03-08

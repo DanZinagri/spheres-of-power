@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Nightblazer (Investigator Archetype)"
 source: https://spheresofpower.wikidot.com/nightblazer
 updated: 2020-02-05

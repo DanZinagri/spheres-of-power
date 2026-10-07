@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spheres Oathbound (Paladin and Antipaladin Archetype)"
 source: https://spheresofpower.wikidot.com/spheres-oathbound
 updated: 2020-07-27

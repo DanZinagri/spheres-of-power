@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ghost Stepper (Archetype)"
 source: https://spheresofpower.wikidot.com/ghost-stepper
 updated: 2020-01-30

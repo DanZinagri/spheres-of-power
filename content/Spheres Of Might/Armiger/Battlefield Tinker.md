@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Battlefield Tinker"
 source: https://spheresofpower.wikidot.com/battlefield-tinker
 updated: 2021-05-15

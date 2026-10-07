@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Vajrahasta"
 source: https://spheresofpower.wikidot.com/vajrahasta
 updated: 2021-01-28

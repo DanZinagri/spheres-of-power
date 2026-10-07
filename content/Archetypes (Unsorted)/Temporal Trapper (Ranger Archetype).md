@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Temporal Trapper (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/temporal-trapper
 updated: 2020-01-31

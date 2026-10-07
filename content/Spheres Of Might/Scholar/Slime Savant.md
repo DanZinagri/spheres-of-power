@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Slime Savant"
 source: https://spheresofpower.wikidot.com/slime-savant
 updated: 2017-11-26

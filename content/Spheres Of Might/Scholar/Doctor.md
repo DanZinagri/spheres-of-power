@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Doctor"
 source: https://spheresofpower.wikidot.com/doctor
 updated: 2024-03-02

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Night Terror (Shifter Archetype)"
 source: https://spheresofpower.wikidot.com/night-terror
 updated: 2025-04-02

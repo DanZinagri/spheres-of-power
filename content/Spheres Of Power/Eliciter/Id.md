@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Id"
 source: https://spheresofpower.wikidot.com/id
 updated: 2021-03-30

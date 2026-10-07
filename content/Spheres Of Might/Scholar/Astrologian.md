@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Astrologian"
 source: https://spheresofpower.wikidot.com/astrologian
 updated: 2021-09-16

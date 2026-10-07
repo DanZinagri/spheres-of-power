@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Storm Herald (Skald Archetype)"
 source: https://spheresofpower.wikidot.com/storm-herald
 updated: 2022-09-30

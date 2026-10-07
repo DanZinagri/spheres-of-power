@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Empathic Duelist"
 source: https://spheresofpower.wikidot.com/empathic-duelist
 updated: 2020-07-11

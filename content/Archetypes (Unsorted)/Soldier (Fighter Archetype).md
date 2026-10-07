@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Soldier (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/soldier
 updated: 2022-05-26

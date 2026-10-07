@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dreamtwister"
 source: https://spheresofpower.wikidot.com/dreamtwister
 updated: 2026-01-28

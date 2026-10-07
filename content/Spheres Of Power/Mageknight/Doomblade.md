@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Doomblade"
 source: https://spheresofpower.wikidot.com/doomblade
 updated: 2021-02-25

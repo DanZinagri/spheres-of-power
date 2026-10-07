@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Genius"
 source: https://spheresofpower.wikidot.com/genius
 updated: 2025-05-16

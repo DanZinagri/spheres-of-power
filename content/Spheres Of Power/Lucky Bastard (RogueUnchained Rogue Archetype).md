@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Lucky Bastard (Rogue/Unchained Rogue Archetype)"
 aliases: ["Lucky Bastard (Rogue/Unchained Rogue Archetype)"]
 source: https://spheresofpower.wikidot.com/lucky-bastard

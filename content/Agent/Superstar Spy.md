@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Superstar Spy"
 source: https://spheresofpower.wikidot.com/superstar-spy
 updated: 2023-04-21

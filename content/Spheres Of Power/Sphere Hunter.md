@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Hunter"
 source: https://spheresofpower.wikidot.com/sphere-hunter
 updated: 2020-01-30

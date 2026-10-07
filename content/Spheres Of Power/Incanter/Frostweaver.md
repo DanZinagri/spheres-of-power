@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Frostweaver"
 source: https://spheresofpower.wikidot.com/frostweaver
 updated: 2026-08-08

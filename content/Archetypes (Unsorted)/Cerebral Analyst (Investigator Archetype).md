@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Cerebral Analyst (Investigator Archetype)"
 source: https://spheresofpower.wikidot.com/cerebral-analyst
 updated: 2020-10-14

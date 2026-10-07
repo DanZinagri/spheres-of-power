@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mad Scientist"
 source: https://spheresofpower.wikidot.com/mad-scientist
 updated: 2019-05-17

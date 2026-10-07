@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Adamantine Scientist"
 source: https://spheresofpower.wikidot.com/adamantine-scientist
 updated: 2026-09-19

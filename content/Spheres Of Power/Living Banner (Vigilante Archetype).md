@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Living Banner (Vigilante Archetype)"
 source: https://spheresofpower.wikidot.com/living-banner
 updated: 2019-03-02

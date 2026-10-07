@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Experimentalist"
 source: https://spheresofpower.wikidot.com/experimentalist
 updated: 2020-04-08

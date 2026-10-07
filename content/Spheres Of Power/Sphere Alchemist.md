@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Alchemist"
 source: https://spheresofpower.wikidot.com/sphere-alchemist
 updated: 2020-02-01

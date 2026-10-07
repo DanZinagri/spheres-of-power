@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Guild Assassin (Slayer Archetype)"
 source: https://spheresofpower.wikidot.com/guild-assassin
 updated: 2018-11-30

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Hypnotist"
 source: https://spheresofpower.wikidot.com/hypnotist
 updated: 2020-02-12

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Soul Adept"
 source: https://spheresofpower.wikidot.com/soul-adept
 updated: 2020-02-01

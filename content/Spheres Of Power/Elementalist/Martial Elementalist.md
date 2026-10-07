@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Martial Elementalist"
 source: https://spheresofpower.wikidot.com/martial-elementalist
 updated: 2020-05-14

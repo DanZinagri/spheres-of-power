@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Squad Operator"
 source: https://spheresofpower.wikidot.com/squad-operator
 updated: 2023-04-22

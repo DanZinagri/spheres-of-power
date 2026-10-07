@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wandslinger (Gunslinger Archetype)"
 source: https://spheresofpower.wikidot.com/wandslinger
 updated: 2020-01-30

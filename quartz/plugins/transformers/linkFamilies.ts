@@ -58,7 +58,9 @@ export const LinkFamilies: QuartzTransformerPlugin<Partial<Options>> = (userOpts
           // type, and its title as a sort key. Hidden; read by the search page's filters/sort.
           const slug = String(file.data.slug ?? "")
           const meta: [string, string][] = [["filter", `System:${SYSTEMS[map.get(slug) ?? ""] ?? "Spheres of Power"}`]]
-          const type = pageType(slug)
+          // `searchtype` frontmatter (set by scrape.py, e.g. on every archetype in the home Classes
+          // tables) wins over the name-based guess
+          const type = (file.data.frontmatter?.searchtype as string | undefined) ?? pageType(slug)
           if (type) meta.push(["filter", `Type:${type}`])
           const title = file.data.frontmatter?.title
           if (title) meta.push(["sort", `title:${title}`])

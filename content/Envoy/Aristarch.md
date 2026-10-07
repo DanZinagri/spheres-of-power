@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Aristarch"
 source: https://spheresofpower.wikidot.com/aristarch
 updated: 2024-03-24

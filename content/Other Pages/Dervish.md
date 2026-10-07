@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dervish"
 source: https://spheresofpower.wikidot.com/dervish
 updated: 2025-09-04

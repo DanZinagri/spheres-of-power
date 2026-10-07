@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Iron Revenant"
 source: https://spheresofpower.wikidot.com/iron-revenant
 updated: 2025-02-27

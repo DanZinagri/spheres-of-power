@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Master-At-Arms"
 source: https://spheresofpower.wikidot.com/master-at-arms
 updated: 2021-08-31

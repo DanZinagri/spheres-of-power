@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dancing Blade (Swashbuckler Archetype)"
 source: https://spheresofpower.wikidot.com/dancing-blade
 updated: 2018-11-30

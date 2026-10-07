@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dirgesinger (Shaman Archetype)"
 source: https://spheresofpower.wikidot.com/dirgesinger
 updated: 2022-04-06

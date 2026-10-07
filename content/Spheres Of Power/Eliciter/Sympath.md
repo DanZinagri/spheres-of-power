@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sympath"
 source: https://spheresofpower.wikidot.com/sympath
 updated: 2020-11-14

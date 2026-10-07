@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Cursed Stranger (Gunslinger Archetype)"
 source: https://spheresofpower.wikidot.com/cursed-stranger
 updated: 2020-01-30

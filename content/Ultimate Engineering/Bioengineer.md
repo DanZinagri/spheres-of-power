@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bioengineer"
 source: https://spheresofpower.wikidot.com/bioengineer
 updated: 2024-09-27

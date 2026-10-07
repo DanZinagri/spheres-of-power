@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Knight-Summoner"
 source: https://spheresofpower.wikidot.com/knight-summoner
 updated: 2020-02-02

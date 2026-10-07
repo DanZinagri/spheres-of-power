@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Drifting Lotus (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/drifting-lotus
 updated: 2022-12-12

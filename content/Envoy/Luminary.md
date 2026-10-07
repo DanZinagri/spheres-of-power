@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Luminary"
 source: https://spheresofpower.wikidot.com/luminary
 updated: 2025-01-24

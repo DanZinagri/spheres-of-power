@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Musician (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/musician
 updated: 2025-09-02

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Twinsoul Elementalist"
 source: https://spheresofpower.wikidot.com/twinsoul-elementalist
 updated: 2020-02-01

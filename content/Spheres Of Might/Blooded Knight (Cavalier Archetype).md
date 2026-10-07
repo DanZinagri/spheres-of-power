@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Blooded Knight (Cavalier Archetype)"
 source: https://spheresofpower.wikidot.com/blooded-knight
 updated: 2019-04-10

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Beast Of Omen (Familiar Archetype)"
 source: https://spheresofpower.wikidot.com/beast-of-omen
 updated: 2020-01-31

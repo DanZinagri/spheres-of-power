@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Grinning Brigand (U. Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/grinning-brigand
 updated: 2021-04-16

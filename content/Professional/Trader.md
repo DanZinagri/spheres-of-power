@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Trader"
 source: https://spheresofpower.wikidot.com/trader
 updated: 2023-04-22

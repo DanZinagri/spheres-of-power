@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Eldritch Cultist"
 source: https://spheresofpower.wikidot.com/eldritch-cultist
 updated: 2020-02-03

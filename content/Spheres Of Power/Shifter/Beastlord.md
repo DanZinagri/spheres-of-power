@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Beastlord"
 source: https://spheresofpower.wikidot.com/beastlord
 updated: 2020-02-03

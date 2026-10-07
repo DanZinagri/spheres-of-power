@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Jailer"
 source: https://spheresofpower.wikidot.com/jailer
 updated: 2021-07-19

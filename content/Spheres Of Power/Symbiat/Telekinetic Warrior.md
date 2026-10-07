@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Telekinetic Warrior"
 source: https://spheresofpower.wikidot.com/telekinetic-warrior
 updated: 2020-02-03

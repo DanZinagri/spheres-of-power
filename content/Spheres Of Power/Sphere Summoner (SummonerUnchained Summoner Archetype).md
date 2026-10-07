@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Summoner (Summoner/Unchained Summoner Archetype)"
 aliases: ["Sphere Summoner (Summoner/Unchained Summoner Archetype)"]
 source: https://spheresofpower.wikidot.com/sphere-summoner

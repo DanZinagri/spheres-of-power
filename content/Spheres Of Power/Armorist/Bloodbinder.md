@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bloodbinder"
 source: https://spheresofpower.wikidot.com/bloodbinder
 updated: 2021-09-23

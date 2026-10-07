@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Time Knight (Paladin Archetype)"
 source: https://spheresofpower.wikidot.com/time-knight
 updated: 2024-09-11

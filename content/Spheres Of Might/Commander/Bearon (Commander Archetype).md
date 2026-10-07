@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bearon (Commander Archetype)"
 source: https://spheresofpower.wikidot.com/bearon
 updated: 2019-04-16

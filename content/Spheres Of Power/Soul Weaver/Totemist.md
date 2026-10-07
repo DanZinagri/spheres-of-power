@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Totemist"
 source: https://spheresofpower.wikidot.com/totemist
 updated: 2020-02-03

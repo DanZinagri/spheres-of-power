@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Visionary"
 source: https://spheresofpower.wikidot.com/visionary
 updated: 2025-07-09

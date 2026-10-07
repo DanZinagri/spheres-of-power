@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Strong Style Grappler"
 source: https://spheresofpower.wikidot.com/strong-style-grappler
 updated: 2020-08-14

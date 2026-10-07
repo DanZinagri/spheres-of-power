@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ascendant Mind (Psychic Archetype)"
 source: https://spheresofpower.wikidot.com/ascendant-mind
 updated: 2025-05-16

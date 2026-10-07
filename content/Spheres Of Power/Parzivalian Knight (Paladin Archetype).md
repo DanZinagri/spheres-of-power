@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Parzivalian Knight (Paladin Archetype)"
 source: https://spheresofpower.wikidot.com/parzivalian-knight
 updated: 2022-03-15

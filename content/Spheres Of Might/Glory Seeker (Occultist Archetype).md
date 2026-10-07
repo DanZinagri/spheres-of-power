@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Glory Seeker (Occultist Archetype)"
 source: https://spheresofpower.wikidot.com/glory-seeker
 updated: 2023-04-15

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Faithful Shepherd (Cleric Archetype)"
 source: https://spheresofpower.wikidot.com/faithful-shepherd
 updated: 2020-02-12

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sync (Prodigy Archetype)"
 source: https://spheresofpower.wikidot.com/sync
 updated: 2025-01-10

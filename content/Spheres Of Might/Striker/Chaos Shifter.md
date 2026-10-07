@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Chaos Shifter"
 source: https://spheresofpower.wikidot.com/chaos-shifter
 updated: 2017-12-17

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Guileful Hedgewitch"
 source: https://spheresofpower.wikidot.com/guileful-hedgewitch
 updated: 2024-02-03

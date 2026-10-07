@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Bard (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/champion-bard
 updated: 2020-05-08

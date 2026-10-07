@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Martial Mageknight"
 source: https://spheresofpower.wikidot.com/martial-mageknight
 updated: 2017-12-15

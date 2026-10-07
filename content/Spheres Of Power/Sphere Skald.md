@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Skald"
 source: https://spheresofpower.wikidot.com/sphere-skald
 updated: 2020-01-31

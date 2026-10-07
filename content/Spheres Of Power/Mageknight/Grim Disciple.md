@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Grim Disciple"
 source: https://spheresofpower.wikidot.com/grim-disciple
 updated: 2020-02-02

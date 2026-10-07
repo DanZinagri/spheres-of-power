@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bloodscarred"
 source: https://spheresofpower.wikidot.com/bloodscarred
 updated: 2020-07-03

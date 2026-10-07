@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Beastmaster (Hunter Archetype)"
 source: https://spheresofpower.wikidot.com/beastmaster
 updated: 2021-06-16

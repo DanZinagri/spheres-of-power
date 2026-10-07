@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Darkshaper"
 source: https://spheresofpower.wikidot.com/darkshaper
 updated: 2020-02-01

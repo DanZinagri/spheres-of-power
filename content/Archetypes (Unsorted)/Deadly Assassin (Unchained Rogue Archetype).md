@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Deadly Assassin (Unchained Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/deadly-assassin
 updated: 2021-08-27

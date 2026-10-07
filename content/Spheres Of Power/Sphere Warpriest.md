@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Warpriest"
 source: https://spheresofpower.wikidot.com/sphere-warpriest
 updated: 2020-01-31

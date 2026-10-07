@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Forceful Shifter"
 source: https://spheresofpower.wikidot.com/forceful-shifter
 updated: 2025-11-21

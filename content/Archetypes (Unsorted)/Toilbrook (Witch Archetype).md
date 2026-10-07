@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Toilbrook (Witch Archetype)"
 source: https://spheresofpower.wikidot.com/toilbrook
 updated: 2024-12-30

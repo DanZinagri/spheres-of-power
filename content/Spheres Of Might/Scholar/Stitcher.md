@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Stitcher"
 source: https://spheresofpower.wikidot.com/stitcher
 updated: 2020-11-14

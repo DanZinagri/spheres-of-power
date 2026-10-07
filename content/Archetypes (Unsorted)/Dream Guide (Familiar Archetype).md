@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dream Guide (Familiar Archetype)"
 source: https://spheresofpower.wikidot.com/dream-guide
 updated: 2021-02-16

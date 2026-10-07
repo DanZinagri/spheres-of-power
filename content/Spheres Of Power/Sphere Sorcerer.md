@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Sorcerer"
 source: https://spheresofpower.wikidot.com/sphere-sorcerer
 updated: 2021-03-18

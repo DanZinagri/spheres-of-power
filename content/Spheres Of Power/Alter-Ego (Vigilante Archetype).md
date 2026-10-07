@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Alter-Ego (Vigilante Archetype)"
 source: https://spheresofpower.wikidot.com/alter-ego
 updated: 2020-01-31

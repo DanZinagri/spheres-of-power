@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Black Powder Brawler"
 source: https://spheresofpower.wikidot.com/black-powder-brawler
 updated: 2021-05-06

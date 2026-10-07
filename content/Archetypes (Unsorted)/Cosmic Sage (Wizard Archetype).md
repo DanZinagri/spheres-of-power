@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Cosmic Sage (Wizard Archetype)"
 source: https://spheresofpower.wikidot.com/cosmic-sage
 updated: 2020-11-16

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Divine Lariat"
 source: https://spheresofpower.wikidot.com/divine-lariat
 updated: 2020-02-02

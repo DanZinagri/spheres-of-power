@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Devourer"
 source: https://spheresofpower.wikidot.com/devourer
 updated: 2020-02-03

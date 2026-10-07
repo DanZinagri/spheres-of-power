@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Baobhan Sith"
 source: https://spheresofpower.wikidot.com/baobhan-sith
 updated: 2020-09-07

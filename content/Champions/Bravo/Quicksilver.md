@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Quicksilver"
 source: https://spheresofpower.wikidot.com/quicksilver
 updated: 2025-09-02

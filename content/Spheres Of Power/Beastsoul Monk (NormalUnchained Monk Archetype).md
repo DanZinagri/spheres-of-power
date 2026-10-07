@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Beastsoul Monk (Normal/Unchained Monk Archetype)"
 aliases: ["Beastsoul Monk (Normal/Unchained Monk Archetype)"]
 source: https://spheresofpower.wikidot.com/beastsoul-monk

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Soulrender (Antipaladin Archetype)"
 source: https://spheresofpower.wikidot.com/soulrender
 updated: 2020-10-14

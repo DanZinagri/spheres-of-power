@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Acupuncturist (Investigator Archetype)"
 source: https://spheresofpower.wikidot.com/acupuncturist
 updated: 2024-07-08

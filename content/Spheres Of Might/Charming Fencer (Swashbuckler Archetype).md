@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Charming Fencer (Swashbuckler Archetype)"
 source: https://spheresofpower.wikidot.com/charming-fencer
 updated: 2020-03-30

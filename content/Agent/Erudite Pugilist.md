@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Erudite Pugilist"
 source: https://spheresofpower.wikidot.com/erudite-pugilist
 updated: 2024-04-07

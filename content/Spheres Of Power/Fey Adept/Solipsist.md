@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Solipsist"
 source: https://spheresofpower.wikidot.com/solipsist
 updated: 2020-02-01

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wayfarer (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/wayfarer
 updated: 2023-04-21

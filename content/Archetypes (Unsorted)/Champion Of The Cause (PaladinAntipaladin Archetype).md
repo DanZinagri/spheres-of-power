@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Of The Cause (Paladin/Antipaladin Archetype)"
 aliases: ["Champion Of The Cause (Paladin/Antipaladin Archetype)"]
 source: https://spheresofpower.wikidot.com/champion-of-the-cause

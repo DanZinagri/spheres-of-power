@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Arcanist"
 source: https://spheresofpower.wikidot.com/sphere-arcanist
 updated: 2023-04-21

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Void Gazer"
 source: https://spheresofpower.wikidot.com/void-gazer
 updated: 2021-06-18

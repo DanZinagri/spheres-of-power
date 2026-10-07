@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spectral Infiltrator (Rogue/U. Rogue Archetype)"
 aliases: ["Spectral Infiltrator (Rogue/U. Rogue Archetype)"]
 source: https://spheresofpower.wikidot.com/spectral-infiltrator

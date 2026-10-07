@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Shifter (Shifter Archetype) (Champion)"
 source: https://spheresofpower.wikidot.com/champion-shifter
 updated: 2025-04-02

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Investigator (Investigator Archetype)"
 source: https://spheresofpower.wikidot.com/champion-investigator
 updated: 2020-10-14

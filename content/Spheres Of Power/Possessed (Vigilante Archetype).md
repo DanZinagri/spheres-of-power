@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Possessed (Vigilante Archetype)"
 source: https://spheresofpower.wikidot.com/possessed
 updated: 2024-11-03

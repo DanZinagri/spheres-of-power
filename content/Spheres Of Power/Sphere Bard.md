@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Bard"
 source: https://spheresofpower.wikidot.com/sphere-bard
 updated: 2020-01-29

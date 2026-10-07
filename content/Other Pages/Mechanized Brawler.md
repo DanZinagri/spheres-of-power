@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mechanized Brawler"
 source: https://spheresofpower.wikidot.com/mechanized-brawler
 updated: 2026-05-24

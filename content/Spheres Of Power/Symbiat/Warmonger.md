@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Warmonger"
 source: https://spheresofpower.wikidot.com/warmonger
 updated: 2020-02-03

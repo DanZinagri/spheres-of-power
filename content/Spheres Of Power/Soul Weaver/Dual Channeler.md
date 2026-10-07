@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dual Channeler"
 source: https://spheresofpower.wikidot.com/dual-channeler
 updated: 2020-02-03

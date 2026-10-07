@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Avowed (Paladin/Antipaladin Archetype)"
 aliases: ["Avowed (Paladin/Antipaladin Archetype)"]
 source: https://spheresofpower.wikidot.com/avowed

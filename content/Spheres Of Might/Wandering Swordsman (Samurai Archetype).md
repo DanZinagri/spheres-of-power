@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wandering Swordsman (Samurai Archetype)"
 source: https://spheresofpower.wikidot.com/wandering-swordsman
 updated: 2018-11-30

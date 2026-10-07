@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Imposter"
 source: https://spheresofpower.wikidot.com/imposter
 updated: 2023-04-21

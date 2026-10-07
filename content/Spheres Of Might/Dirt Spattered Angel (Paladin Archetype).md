@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dirt Spattered Angel (Paladin Archetype)"
 source: https://spheresofpower.wikidot.com/dirt-spattered-angel
 updated: 2018-11-30

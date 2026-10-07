@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Minstrel (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/minstrel
 updated: 2020-10-26

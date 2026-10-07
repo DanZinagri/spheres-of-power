@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Tranquil Soul (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/tranquil-soul
 updated: 2020-07-08

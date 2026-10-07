@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Junkshot"
 source: https://spheresofpower.wikidot.com/junkshot
 updated: 2026-03-24

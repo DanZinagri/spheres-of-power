@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Elemental Scion"
 source: https://spheresofpower.wikidot.com/elemental-scion
 updated: 2021-06-08

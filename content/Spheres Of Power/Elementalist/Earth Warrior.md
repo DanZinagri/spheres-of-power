@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Earth Warrior"
 source: https://spheresofpower.wikidot.com/earth-warrior
 updated: 2020-02-01

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Famine Spirit"
 source: https://spheresofpower.wikidot.com/famine-spirit
 updated: 2025-06-18

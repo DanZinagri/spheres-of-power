@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Knight Of Willpower"
 source: https://spheresofpower.wikidot.com/knight-of-willpower
 updated: 2020-09-04

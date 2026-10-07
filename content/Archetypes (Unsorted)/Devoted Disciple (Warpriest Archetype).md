@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Devoted Disciple (Warpriest Archetype)"
 source: https://spheresofpower.wikidot.com/devoted-disciple
 updated: 2025-07-09

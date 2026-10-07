@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Machinist (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/machinist
 updated: 2024-12-30

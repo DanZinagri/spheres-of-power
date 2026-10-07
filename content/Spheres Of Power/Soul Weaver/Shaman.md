@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shaman"
 source: https://spheresofpower.wikidot.com/shaman
 updated: 2021-10-05

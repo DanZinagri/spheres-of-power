@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Nature's Blade (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/nature-s-blade
 updated: 2019-05-24

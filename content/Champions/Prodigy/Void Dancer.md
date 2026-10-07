@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Void Dancer"
 source: https://spheresofpower.wikidot.com/void-dancer
 updated: 2024-06-25

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Prescient Pugilist (Brawler Archetype)"
 source: https://spheresofpower.wikidot.com/prescient-pugilist
 updated: 2023-06-21

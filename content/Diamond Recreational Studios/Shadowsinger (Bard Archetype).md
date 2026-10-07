@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shadowsinger (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/shadowsinger
 updated: 2025-04-02

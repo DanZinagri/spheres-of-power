@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bastion Of Conviction (Warpriest Archetype)"
 source: https://spheresofpower.wikidot.com/bastion-of-conviction
 updated: 2026-09-12

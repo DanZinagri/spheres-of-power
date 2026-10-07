@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Summoner (Summoner and Unchained Summoner Archetype)"
 source: https://spheresofpower.wikidot.com/champion-summoner
 updated: 2024-06-25

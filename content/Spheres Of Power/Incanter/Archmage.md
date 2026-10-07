@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Archmage"
 source: https://spheresofpower.wikidot.com/archmage
 updated: 2022-08-15

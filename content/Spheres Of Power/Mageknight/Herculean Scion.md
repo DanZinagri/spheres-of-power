@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Herculean Scion"
 source: https://spheresofpower.wikidot.com/herculean-scion
 updated: 2026-07-28

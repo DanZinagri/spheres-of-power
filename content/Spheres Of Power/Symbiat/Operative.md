@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Operative"
 source: https://spheresofpower.wikidot.com/operative
 updated: 2020-02-03

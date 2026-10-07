@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ronin (Samurai Archetype)"
 source: https://spheresofpower.wikidot.com/ronin
 updated: 2026-08-27

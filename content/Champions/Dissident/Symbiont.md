@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Symbiont"
 source: https://spheresofpower.wikidot.com/symbiont
 updated: 2024-09-14

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Triple Goddess"
 source: https://spheresofpower.wikidot.com/triple-goddess
 updated: 2020-02-03

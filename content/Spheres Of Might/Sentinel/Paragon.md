@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Paragon"
 source: https://spheresofpower.wikidot.com/paragon
 updated: 2024-08-21

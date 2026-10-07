@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Gravecrawler"
 source: https://spheresofpower.wikidot.com/gravecrawler
 updated: 2021-03-30

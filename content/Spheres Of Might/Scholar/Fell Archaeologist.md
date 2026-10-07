@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Fell Archaeologist"
 source: https://spheresofpower.wikidot.com/fell-archaeologist
 updated: 2021-07-13

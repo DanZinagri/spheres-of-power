@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Hidden Master (Vigilante Archetype)"
 source: https://spheresofpower.wikidot.com/hidden-master
 updated: 2020-04-19

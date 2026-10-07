@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dragoon"
 source: https://spheresofpower.wikidot.com/dragoon
 updated: 2020-02-02

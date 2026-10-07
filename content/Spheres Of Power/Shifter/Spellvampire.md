@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spellvampire"
 source: https://spheresofpower.wikidot.com/spellvampire
 updated: 2024-05-06

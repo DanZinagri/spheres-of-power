@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Blood-Soaked Demon (Antipaladin Archetype)"
 source: https://spheresofpower.wikidot.com/blood-soaked-demon
 updated: 2018-11-30

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Void Wielder"
 source: https://spheresofpower.wikidot.com/void-wielder
 updated: 2020-02-01

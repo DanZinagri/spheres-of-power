@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Voidrusher"
 source: https://spheresofpower.wikidot.com/voidrusher
 updated: 2026-05-29

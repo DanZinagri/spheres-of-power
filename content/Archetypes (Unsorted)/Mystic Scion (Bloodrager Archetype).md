@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mystic Scion (Bloodrager Archetype)"
 source: https://spheresofpower.wikidot.com/mystic-scion
 updated: 2020-01-30

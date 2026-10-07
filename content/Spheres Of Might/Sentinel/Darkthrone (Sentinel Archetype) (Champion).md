@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Darkthrone (Sentinel Archetype) (Champion)"
 source: https://spheresofpower.wikidot.com/darkthrone
 updated: 2025-04-02

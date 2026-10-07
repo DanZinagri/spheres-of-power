@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Darkness Defender"
 source: https://spheresofpower.wikidot.com/darkness-defender
 updated: 2024-08-21

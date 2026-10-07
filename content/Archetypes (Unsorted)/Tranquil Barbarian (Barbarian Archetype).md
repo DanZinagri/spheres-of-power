@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Tranquil Barbarian (Barbarian Archetype)"
 source: https://spheresofpower.wikidot.com/tranquil-barbarian
 updated: 2020-09-12

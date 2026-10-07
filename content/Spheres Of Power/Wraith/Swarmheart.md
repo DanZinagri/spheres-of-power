@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Swarmheart"
 source: https://spheresofpower.wikidot.com/swarmheart
 updated: 2020-02-03

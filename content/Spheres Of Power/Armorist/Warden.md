@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Warden"
 source: https://spheresofpower.wikidot.com/warden
 updated: 2020-05-11

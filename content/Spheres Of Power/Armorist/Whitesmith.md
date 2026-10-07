@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Whitesmith"
 source: https://spheresofpower.wikidot.com/whitesmith
 updated: 2020-02-01

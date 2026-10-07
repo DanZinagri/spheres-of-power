@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wildspeaker"
 source: https://spheresofpower.wikidot.com/wildspeaker
 updated: 2024-02-03

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Game Hunter (Gunslinger Archetype)"
 source: https://spheresofpower.wikidot.com/game-hunter
 updated: 2025-01-01

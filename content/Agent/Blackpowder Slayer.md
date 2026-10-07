@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Blackpowder Slayer"
 source: https://spheresofpower.wikidot.com/blackpowder-slayer
 updated: 2023-04-21

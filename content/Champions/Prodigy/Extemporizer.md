@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Extemporizer"
 source: https://spheresofpower.wikidot.com/extemporizer
 updated: 2019-12-11

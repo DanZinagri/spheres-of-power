@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Masterwork Chronicler (Skald Archetype)"
 source: https://spheresofpower.wikidot.com/masterwork-chronicler
 updated: 2026-05-01

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Barfighter"
 source: https://spheresofpower.wikidot.com/barfighter
 updated: 2023-02-28

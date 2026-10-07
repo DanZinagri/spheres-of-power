@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Soaring Blade"
 source: https://spheresofpower.wikidot.com/soaring-blade
 updated: 2022-09-29

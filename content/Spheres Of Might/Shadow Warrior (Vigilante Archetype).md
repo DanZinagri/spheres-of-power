@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shadow Warrior (Vigilante Archetype)"
 source: https://spheresofpower.wikidot.com/shadow-warrior
 updated: 2018-11-30

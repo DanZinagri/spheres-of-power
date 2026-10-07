@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Flame Warrior"
 source: https://spheresofpower.wikidot.com/flame-warrior
 updated: 2020-02-01

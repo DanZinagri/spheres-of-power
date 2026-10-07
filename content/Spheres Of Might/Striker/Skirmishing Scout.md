@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Skirmishing Scout"
 source: https://spheresofpower.wikidot.com/skirmishing-scout
 updated: 2021-05-28

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Protean"
 source: https://spheresofpower.wikidot.com/protean
 updated: 2022-01-08

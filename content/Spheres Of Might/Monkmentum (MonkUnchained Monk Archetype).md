@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Monkmentum (Monk/Unchained Monk Archetype)"
 aliases: ["Monkmentum (Monk/Unchained Monk Archetype)"]
 source: https://spheresofpower.wikidot.com/monkmentum

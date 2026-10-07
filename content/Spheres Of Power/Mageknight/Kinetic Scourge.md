@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Kinetic Scourge"
 source: https://spheresofpower.wikidot.com/kinetic-scourge
 updated: 2020-02-02

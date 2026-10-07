@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Symbol Of Valor (Vigilante Archetype)"
 source: https://spheresofpower.wikidot.com/symbol-of-valor
 updated: 2021-04-15

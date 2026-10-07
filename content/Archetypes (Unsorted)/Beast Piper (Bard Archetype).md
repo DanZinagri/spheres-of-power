@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Beast Piper (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/beast-piper
 updated: 2021-04-11

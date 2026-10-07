@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Pellucid Hunter (Hunter Archetype)"
 source: https://spheresofpower.wikidot.com/pellucid-hunter
 updated: 2023-04-21

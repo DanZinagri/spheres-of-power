@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Bloodrager"
 source: https://spheresofpower.wikidot.com/sphere-bloodrager
 updated: 2020-01-30

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Gun Chemist (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/gun-chemist
 updated: 2020-09-12

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spellforge"
 source: https://spheresofpower.wikidot.com/spellforge
 updated: 2020-10-14

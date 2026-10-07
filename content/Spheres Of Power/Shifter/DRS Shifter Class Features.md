@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "DRS Shifter Class Features"
 source: https://spheresofpower.wikidot.com/drs-shifter-class-features
 updated: 2025-04-02

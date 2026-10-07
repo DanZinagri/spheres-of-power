@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Living Weapon"
 source: https://spheresofpower.wikidot.com/living-weapon
 updated: 2021-03-29

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Warrior Of Blind Faith (Paladin/Antipaladin Archetype)"
 aliases: ["Warrior Of Blind Faith (Paladin/Antipaladin Archetype)"]
 source: https://spheresofpower.wikidot.com/warrior-of-blind-faith

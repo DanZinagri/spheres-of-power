@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Primeval"
 source: https://spheresofpower.wikidot.com/crimson-dancer
 parent: "[[Crimson Dancer]]"

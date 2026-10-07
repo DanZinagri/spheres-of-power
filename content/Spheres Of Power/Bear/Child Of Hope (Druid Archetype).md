@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Child Of Hope (Druid Archetype)"
 source: https://spheresofpower.wikidot.com/child-of-hope
 updated: 2022-01-08

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Arcanophage"
 source: https://spheresofpower.wikidot.com/arcanophage
 updated: 2018-04-30

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mortal Chemist (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/mortal-chemist
 updated: 2018-11-30

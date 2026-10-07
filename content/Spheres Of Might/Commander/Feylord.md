@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Feylord"
 source: https://spheresofpower.wikidot.com/feylord
 updated: 2019-03-28

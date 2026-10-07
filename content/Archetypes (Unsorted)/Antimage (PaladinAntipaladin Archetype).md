@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Antimage (Paladin/Antipaladin Archetype)"
 aliases: ["Antimage (Paladin/Antipaladin Archetype)"]
 source: https://spheresofpower.wikidot.com/antimage

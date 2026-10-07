@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Visionary General"
 source: https://spheresofpower.wikidot.com/visionary-general
 updated: 2020-06-13

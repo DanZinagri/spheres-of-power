@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Survivor"
 source: https://spheresofpower.wikidot.com/survivor
 updated: 2025-09-04

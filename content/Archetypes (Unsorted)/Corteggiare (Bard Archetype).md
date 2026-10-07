@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Corteggiare (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/corteggiare
 updated: 2025-07-09

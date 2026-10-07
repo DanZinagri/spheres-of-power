@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Rigger"
 source: https://spheresofpower.wikidot.com/rigger
 updated: 2020-10-03

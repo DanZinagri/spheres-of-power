@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shinobi (Ninja Archetype)"
 source: https://spheresofpower.wikidot.com/shinobi
 updated: 2018-11-30

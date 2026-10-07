@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Psychomancer (Spiritualist Archetype)"
 source: https://spheresofpower.wikidot.com/psychomancer
 updated: 2020-01-31

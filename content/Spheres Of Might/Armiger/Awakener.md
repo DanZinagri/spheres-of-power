@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Awakener"
 source: https://spheresofpower.wikidot.com/awakener
 updated: 2021-03-31

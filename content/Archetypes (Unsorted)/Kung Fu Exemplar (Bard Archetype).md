@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Kung Fu Exemplar (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/kung-fu-exemplar
 updated: 2026-08-09

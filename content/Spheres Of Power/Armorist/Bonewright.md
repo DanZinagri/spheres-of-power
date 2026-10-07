@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bonewright"
 source: https://spheresofpower.wikidot.com/bonewright
 updated: 2021-02-08

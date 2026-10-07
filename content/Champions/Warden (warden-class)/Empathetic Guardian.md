@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Empathetic Guardian"
 source: https://spheresofpower.wikidot.com/empathetic-guardian
 updated: 2021-11-22

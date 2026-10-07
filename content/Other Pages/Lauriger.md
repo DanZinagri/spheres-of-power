@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Lauriger"
 source: https://spheresofpower.wikidot.com/lauriger
 updated: 2026-09-07

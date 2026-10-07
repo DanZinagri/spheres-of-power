@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Fey Incarnate"
 source: https://spheresofpower.wikidot.com/fey-incarnate
 updated: 2021-03-30

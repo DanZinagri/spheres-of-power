@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Growling Marauder (Skald Archetype)"
 source: https://spheresofpower.wikidot.com/growling-marauder
 updated: 2023-05-28

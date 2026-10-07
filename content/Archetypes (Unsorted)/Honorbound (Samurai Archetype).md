@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Honorbound (Samurai Archetype)"
 source: https://spheresofpower.wikidot.com/honorbound
 updated: 2020-10-14

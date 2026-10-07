@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Symbiat"
 source: https://spheresofpower.wikidot.com/champion-symbiat
 updated: 2026-05-01

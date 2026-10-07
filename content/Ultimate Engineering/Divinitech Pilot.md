@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Divinitech Pilot"
 source: https://spheresofpower.wikidot.com/divinitech-pilot
 updated: 2026-05-24

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Time Stalker (Slayer Archetype)"
 source: https://spheresofpower.wikidot.com/time-stalker
 updated: 2020-01-31

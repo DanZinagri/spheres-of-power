@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Void Conduit (Summoner/Unchained Summoner Archetype)"
 aliases: ["Void Conduit (Summoner/Unchained Summoner Archetype)"]
 source: https://spheresofpower.wikidot.com/void-conduit

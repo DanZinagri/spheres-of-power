@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ghost Sovereign"
 source: https://spheresofpower.wikidot.com/ghost-sovereign
 updated: 2020-02-14

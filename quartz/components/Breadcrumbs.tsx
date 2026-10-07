@@ -69,10 +69,15 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       return name && slugs.has(note) ? note : undefined
     }
 
+    const titles = new Map(allFiles.map((f) => [f.slug, f.frontmatter?.title]))
     let crumbs: CrumbData[] = pathNodes.map((node, idx) => {
       const isFolder = idx > 0 && idx < pathNodes.length - 1
-      const target = (isFolder && folderNote(node.slug)) || node.slug
+      const note = isFolder ? folderNote(node.slug) : undefined
+      const target = note || node.slug
+      // a folder with a folder note reads as that note's title ("Warleader (warleader-sphere)/" -> "Warleader")
       const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(target))
+      const title = note && titles.get(note)
+      if (title) crumb.displayName = title
       if (idx === 0) {
         crumb.displayName = options.rootName
       }

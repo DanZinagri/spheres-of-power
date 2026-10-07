@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Blind Swordsman (Samurai Archetype)"
 source: https://spheresofpower.wikidot.com/blind-swordsman
 updated: 2020-01-31

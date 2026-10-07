@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Fleshforger"
 source: https://spheresofpower.wikidot.com/fleshforger
 updated: 2022-01-31

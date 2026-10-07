@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ebonmage (Thaumaturge Archetype)"
 source: https://spheresofpower.wikidot.com/ebonmage
 updated: 2025-04-02

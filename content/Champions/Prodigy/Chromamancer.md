@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Chromamancer"
 source: https://spheresofpower.wikidot.com/chromamancer
 updated: 2026-09-19

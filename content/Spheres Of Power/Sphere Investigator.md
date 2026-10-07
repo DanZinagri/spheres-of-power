@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Investigator"
 source: https://spheresofpower.wikidot.com/sphere-investigator
 updated: 2020-01-30

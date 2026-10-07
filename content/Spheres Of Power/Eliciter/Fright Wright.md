@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Fright Wright"
 source: https://spheresofpower.wikidot.com/fright-wright
 updated: 2020-02-01

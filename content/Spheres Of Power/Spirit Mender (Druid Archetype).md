@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spirit Mender (Druid Archetype)"
 source: https://spheresofpower.wikidot.com/spirit-mender
 updated: 2024-12-29

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Resizer"
 source: https://spheresofpower.wikidot.com/resizer
 updated: 2020-02-03

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wardmage"
 source: https://spheresofpower.wikidot.com/wardmage
 updated: 2020-02-03

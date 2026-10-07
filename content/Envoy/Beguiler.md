@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Beguiler"
 source: https://spheresofpower.wikidot.com/beguiler
 updated: 2024-02-03

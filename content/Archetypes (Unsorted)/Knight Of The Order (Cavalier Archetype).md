@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Knight Of The Order (Cavalier Archetype)"
 source: https://spheresofpower.wikidot.com/knight-of-the-order
 updated: 2023-04-21

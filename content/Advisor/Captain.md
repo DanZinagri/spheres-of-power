@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Captain"
 source: https://spheresofpower.wikidot.com/captain
 updated: 2024-09-14

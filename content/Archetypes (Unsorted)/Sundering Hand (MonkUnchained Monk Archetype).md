@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sundering Hand (Monk/Unchained Monk Archetype)"
 aliases: ["Sundering Hand (Monk/Unchained Monk Archetype)"]
 source: https://spheresofpower.wikidot.com/sundering-hand

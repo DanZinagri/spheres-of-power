@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Resolute"
 source: https://spheresofpower.wikidot.com/resolute
 updated: 2020-09-11

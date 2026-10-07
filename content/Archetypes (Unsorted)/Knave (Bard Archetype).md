@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Knave (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/knave
 updated: 2025-07-09

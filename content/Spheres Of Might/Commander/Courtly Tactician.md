@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Courtly Tactician"
 source: https://spheresofpower.wikidot.com/courtly-tactician
 updated: 2025-12-07

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Taskmaster"
 source: https://spheresofpower.wikidot.com/taskmaster
 updated: 2026-03-24

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Warrior Of Holy Light"
 source: https://spheresofpower.wikidot.com/warrior-of-holy-light
 updated: 2020-02-03

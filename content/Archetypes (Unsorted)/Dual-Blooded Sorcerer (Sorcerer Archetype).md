@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dual-Blooded Sorcerer (Sorcerer Archetype)"
 source: https://spheresofpower.wikidot.com/dual-blooded-sorcerer
 updated: 2021-12-16

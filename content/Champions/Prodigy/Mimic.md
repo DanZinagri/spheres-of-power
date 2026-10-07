@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mimic"
 source: https://spheresofpower.wikidot.com/mimic
 updated: 2021-02-12

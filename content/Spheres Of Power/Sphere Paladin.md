@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Paladin"
 source: https://spheresofpower.wikidot.com/sphere-paladin
 updated: 2020-01-30

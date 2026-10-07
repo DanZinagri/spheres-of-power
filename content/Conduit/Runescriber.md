@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Runescriber"
 source: https://spheresofpower.wikidot.com/runescriber
 updated: 2024-06-27

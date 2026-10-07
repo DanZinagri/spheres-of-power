@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Hasted Blade (Swashbuckler Archetype)"
 source: https://spheresofpower.wikidot.com/hasted-blade
 updated: 2021-04-20

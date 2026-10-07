@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mistshade"
 source: https://spheresofpower.wikidot.com/mistshade
 updated: 2020-02-03

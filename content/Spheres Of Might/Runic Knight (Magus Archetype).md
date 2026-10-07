@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Runic Knight (Magus Archetype)"
 source: https://spheresofpower.wikidot.com/runic-knight
 updated: 2021-04-23

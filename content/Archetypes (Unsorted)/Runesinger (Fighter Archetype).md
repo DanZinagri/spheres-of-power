@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Runesinger (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/runesinger
 updated: 2021-11-30

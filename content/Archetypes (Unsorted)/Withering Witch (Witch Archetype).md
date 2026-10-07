@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Withering Witch (Witch Archetype)"
 source: https://spheresofpower.wikidot.com/withering-witch
 updated: 2020-01-31

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Impossible Warrior (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/impossible-warrior
 updated: 2020-01-30

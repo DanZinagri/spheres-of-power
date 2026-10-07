@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Clockstopper (Gunslinger Archetype)"
 source: https://spheresofpower.wikidot.com/clockstopper
 updated: 2020-01-30

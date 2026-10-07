@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Geomancer"
 source: https://spheresofpower.wikidot.com/geomancer
 updated: 2020-02-12

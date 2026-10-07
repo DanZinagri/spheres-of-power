@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sun Warrior"
 source: https://spheresofpower.wikidot.com/sun-warrior
 updated: 2020-10-23

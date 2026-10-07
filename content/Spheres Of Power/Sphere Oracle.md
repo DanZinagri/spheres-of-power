@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Oracle"
 source: https://spheresofpower.wikidot.com/sphere-oracle
 updated: 2022-04-07

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Prodigy Class Features (DRS)"
 source: https://spheresofpower.wikidot.com/drs-prodigy-class-features
 updated: 2025-04-02

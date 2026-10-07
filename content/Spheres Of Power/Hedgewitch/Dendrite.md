@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dendrite"
 source: https://spheresofpower.wikidot.com/dendrite
 updated: 2020-04-09

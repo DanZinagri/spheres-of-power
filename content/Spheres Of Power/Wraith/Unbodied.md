@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Unbodied"
 source: https://spheresofpower.wikidot.com/unbodied
 updated: 2020-02-03

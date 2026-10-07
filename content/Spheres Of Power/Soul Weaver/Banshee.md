@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Banshee"
 source: https://spheresofpower.wikidot.com/banshee
 updated: 2020-10-14

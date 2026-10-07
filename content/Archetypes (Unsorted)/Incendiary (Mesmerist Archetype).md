@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Incendiary (Mesmerist Archetype)"
 source: https://spheresofpower.wikidot.com/incendiary
 updated: 2023-04-21

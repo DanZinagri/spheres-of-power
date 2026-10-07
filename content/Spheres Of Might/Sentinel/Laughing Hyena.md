@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Laughing Hyena"
 source: https://spheresofpower.wikidot.com/laughing-hyena
 updated: 2020-05-14

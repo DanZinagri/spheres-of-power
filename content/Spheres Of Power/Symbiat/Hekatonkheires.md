@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Hekatonkheires"
 source: https://spheresofpower.wikidot.com/hekatonkheires
 updated: 2020-02-03

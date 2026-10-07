@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shepherd Of The Lost"
 source: https://spheresofpower.wikidot.com/shepherd-of-the-lost
 updated: 2021-06-14

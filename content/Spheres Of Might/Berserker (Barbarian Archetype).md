@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Berserker (Barbarian Archetype)"
 source: https://spheresofpower.wikidot.com/barbarian-berserker
 updated: 2018-11-30

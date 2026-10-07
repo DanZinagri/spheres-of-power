@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Chronomancer"
 source: https://spheresofpower.wikidot.com/chronomancer
 updated: 2022-10-24

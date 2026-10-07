@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Beastmind"
 source: https://spheresofpower.wikidot.com/beastmind
 updated: 2020-04-23

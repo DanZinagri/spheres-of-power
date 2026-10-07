@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Snake Oil Salesman (Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/snake-oil-salesman
 updated: 2020-04-26

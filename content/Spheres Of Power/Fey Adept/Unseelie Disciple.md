@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Unseelie Disciple"
 source: https://spheresofpower.wikidot.com/unseelie-disciple
 updated: 2020-02-01

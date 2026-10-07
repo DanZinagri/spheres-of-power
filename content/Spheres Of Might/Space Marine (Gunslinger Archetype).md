@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Space Marine (Gunslinger Archetype)"
 source: https://spheresofpower.wikidot.com/space-marine
 updated: 2019-05-18

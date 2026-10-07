@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Utterdark Champion"
 source: https://spheresofpower.wikidot.com/utterdark-champion
 updated: 2022-04-02

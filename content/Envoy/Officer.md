@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Officer"
 source: https://spheresofpower.wikidot.com/officer
 updated: 2024-09-14

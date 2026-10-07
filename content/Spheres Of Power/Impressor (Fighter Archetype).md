@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Impressor (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/impressor
 updated: 2020-01-30

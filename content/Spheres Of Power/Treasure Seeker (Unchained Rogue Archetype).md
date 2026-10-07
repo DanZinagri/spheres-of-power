@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Treasure Seeker (Unchained Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/treasure-seeker
 updated: 2020-01-31

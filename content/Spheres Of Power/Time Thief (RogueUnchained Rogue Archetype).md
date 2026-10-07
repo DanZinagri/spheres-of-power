@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Time Thief (Rogue/Unchained Rogue Archetype)"
 aliases: ["Time Thief (Rogue/Unchained Rogue Archetype)"]
 source: https://spheresofpower.wikidot.com/time-thief

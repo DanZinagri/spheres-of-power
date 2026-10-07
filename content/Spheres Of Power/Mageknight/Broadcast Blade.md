@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Broadcast Blade"
 source: https://spheresofpower.wikidot.com/broadcast-blade
 updated: 2020-10-23

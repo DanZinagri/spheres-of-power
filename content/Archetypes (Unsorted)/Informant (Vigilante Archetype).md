@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Informant (Vigilante Archetype)"
 source: https://spheresofpower.wikidot.com/informant
 updated: 2023-04-22

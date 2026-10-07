@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Keeper"
 source: https://spheresofpower.wikidot.com/keeper
 updated: 2022-04-08

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Soulfire Master"
 source: https://spheresofpower.wikidot.com/soulfire-master
 updated: 2020-02-03

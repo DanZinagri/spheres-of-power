@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Lingchi Warrior"
 source: https://spheresofpower.wikidot.com/lingchi-warrior
 updated: 2021-06-14

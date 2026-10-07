@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Master Of The Hunt (Hunter Archetype)"
 source: https://spheresofpower.wikidot.com/master-of-the-hunt
 updated: 2020-07-08

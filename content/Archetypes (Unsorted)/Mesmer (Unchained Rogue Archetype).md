@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mesmer (Unchained Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/mesmer
 updated: 2021-04-15

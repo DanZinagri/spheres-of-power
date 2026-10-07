@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Jikininki (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/jikininki
 updated: 2020-01-31

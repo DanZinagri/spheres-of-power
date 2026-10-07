@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Talent Thief (Unchained Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/talent-thief
 updated: 2020-01-31

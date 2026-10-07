@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Greenrunner (Hunter Archetype)"
 source: https://spheresofpower.wikidot.com/greenrunner
 updated: 2021-05-08

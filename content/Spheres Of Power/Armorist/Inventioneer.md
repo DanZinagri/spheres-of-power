@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Inventioneer"
 source: https://spheresofpower.wikidot.com/inventioneer
 updated: 2019-09-19

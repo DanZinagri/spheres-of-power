@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Binder"
 source: https://spheresofpower.wikidot.com/binder
 updated: 2021-08-05

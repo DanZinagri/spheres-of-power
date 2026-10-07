@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Explorer (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/explorer
 updated: 2026-05-10

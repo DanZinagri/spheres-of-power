@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Halfling Dragonrider"
 source: https://spheresofpower.wikidot.com/halfling-dragonrider
 updated: 2019-05-14

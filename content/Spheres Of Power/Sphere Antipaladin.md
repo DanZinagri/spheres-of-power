@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Antipaladin"
 source: https://spheresofpower.wikidot.com/sphere-antipaladin
 updated: 2020-01-28

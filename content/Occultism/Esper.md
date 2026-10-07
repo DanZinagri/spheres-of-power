@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Esper"
 source: https://spheresofpower.wikidot.com/esper
 updated: 2026-08-09

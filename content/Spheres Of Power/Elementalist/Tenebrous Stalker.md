@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Tenebrous Stalker"
 source: https://spheresofpower.wikidot.com/tenebrous-stalker
 updated: 2020-11-11

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dimension Shifter"
 source: https://spheresofpower.wikidot.com/dimension-shifter
 updated: 2020-02-03

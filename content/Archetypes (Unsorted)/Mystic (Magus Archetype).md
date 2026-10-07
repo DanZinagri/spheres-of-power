@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mystic (Magus Archetype)"
 source: https://spheresofpower.wikidot.com/mystic
 updated: 2017-12-15

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Garrison"
 source: https://spheresofpower.wikidot.com/garrison
 updated: 2021-05-28

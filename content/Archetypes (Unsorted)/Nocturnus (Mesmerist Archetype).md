@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Nocturnus (Mesmerist Archetype)"
 source: https://spheresofpower.wikidot.com/nocturnus
 updated: 2025-10-28

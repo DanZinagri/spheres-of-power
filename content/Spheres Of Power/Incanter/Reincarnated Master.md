@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Reincarnated Master"
 source: https://spheresofpower.wikidot.com/reincarnated-master
 updated: 2020-02-02

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Seelie Disciple"
 source: https://spheresofpower.wikidot.com/seelie-disciple
 updated: 2020-02-01

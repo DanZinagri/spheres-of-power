@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Cleric"
 source: https://spheresofpower.wikidot.com/sphere-cleric
 updated: 2020-01-30

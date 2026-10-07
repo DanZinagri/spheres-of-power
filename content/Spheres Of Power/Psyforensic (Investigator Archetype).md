@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Psyforensic (Investigator Archetype)"
 source: https://spheresofpower.wikidot.com/psyforensic
 updated: 2020-01-30

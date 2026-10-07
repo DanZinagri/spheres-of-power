@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Apex Shifter"
 source: https://spheresofpower.wikidot.com/apex-shifter
 updated: 2022-12-20

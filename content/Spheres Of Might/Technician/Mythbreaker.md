@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mythbreaker"
 source: https://spheresofpower.wikidot.com/mythbreaker
 updated: 2017-10-26

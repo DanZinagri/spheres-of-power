@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Detective (Investigator Archetype)"
 source: https://spheresofpower.wikidot.com/detective
 updated: 2023-04-21

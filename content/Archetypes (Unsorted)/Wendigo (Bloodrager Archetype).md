@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wendigo (Bloodrager Archetype)"
 source: https://spheresofpower.wikidot.com/wendigo
 updated: 2020-01-30

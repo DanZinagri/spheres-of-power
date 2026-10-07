@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Skulk"
 source: https://spheresofpower.wikidot.com/skulk
 updated: 2026-01-28

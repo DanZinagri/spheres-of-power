@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Egregore"
 source: https://spheresofpower.wikidot.com/egregore
 updated: 2020-08-29

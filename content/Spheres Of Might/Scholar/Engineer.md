@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Engineer"
 source: https://spheresofpower.wikidot.com/engineer
 updated: 2026-05-24

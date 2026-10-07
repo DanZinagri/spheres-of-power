@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Fracture (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/fracture
 updated: 2022-06-06

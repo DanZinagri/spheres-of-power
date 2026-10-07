@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Gunfighter (Gunslinger Archetype)"
 source: https://spheresofpower.wikidot.com/gunfighter
 updated: 2019-12-04

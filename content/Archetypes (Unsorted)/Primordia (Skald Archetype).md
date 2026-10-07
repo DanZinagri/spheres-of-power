@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Primordia (Skald Archetype)"
 source: https://spheresofpower.wikidot.com/primordia
 updated: 2023-04-21

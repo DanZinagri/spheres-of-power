@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Gourmand"
 source: https://spheresofpower.wikidot.com/gourmand
 updated: 2025-02-23

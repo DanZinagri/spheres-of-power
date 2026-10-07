@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Divine Heretic (Warpriest Archetype)"
 source: https://spheresofpower.wikidot.com/divine-heretic
 updated: 2025-07-09

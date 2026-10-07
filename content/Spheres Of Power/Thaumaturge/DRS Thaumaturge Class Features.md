@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "DRS Thaumaturge Class Features"
 source: https://spheresofpower.wikidot.com/drs-thaumaturge-class-features
 updated: 2025-04-02

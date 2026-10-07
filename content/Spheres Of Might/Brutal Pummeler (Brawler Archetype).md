@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Brutal Pummeler (Brawler Archetype)"
 source: https://spheresofpower.wikidot.com/brutal-pummeler
 updated: 2018-11-30

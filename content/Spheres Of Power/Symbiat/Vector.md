@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Vector"
 source: https://spheresofpower.wikidot.com/vector
 updated: 2021-03-31

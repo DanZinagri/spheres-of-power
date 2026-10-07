@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wunderkind"
 source: https://spheresofpower.wikidot.com/wunderkind
 updated: 2017-10-29

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Gutter Rat"
 source: https://spheresofpower.wikidot.com/gutter-rat
 updated: 2019-09-18

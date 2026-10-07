@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Essence Smith"
 source: https://spheresofpower.wikidot.com/essence-smith
 updated: 2025-09-24

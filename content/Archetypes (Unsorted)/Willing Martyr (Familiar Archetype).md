@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Willing Martyr (Familiar Archetype)"
 source: https://spheresofpower.wikidot.com/willing-martyr
 updated: 2020-11-14

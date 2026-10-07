@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Super Soldier"
 source: https://spheresofpower.wikidot.com/super-soldier
 updated: 2026-07-06

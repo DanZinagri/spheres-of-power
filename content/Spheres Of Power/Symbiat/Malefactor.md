@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Malefactor"
 source: https://spheresofpower.wikidot.com/malefactor
 updated: 2021-08-06

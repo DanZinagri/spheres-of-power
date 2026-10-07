@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Pactmage"
 source: https://spheresofpower.wikidot.com/pactmage
 updated: 2020-07-10

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Steelsoul Monk (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/steelsoul-monk
 updated: 2022-04-05

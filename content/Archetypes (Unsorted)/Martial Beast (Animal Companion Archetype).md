@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Martial Beast (Animal Companion Archetype)"
 source: https://spheresofpower.wikidot.com/martial-beast
 updated: 2020-04-03

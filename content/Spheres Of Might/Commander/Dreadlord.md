@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dreadlord"
 source: https://spheresofpower.wikidot.com/dreadlord
 updated: 2019-07-13

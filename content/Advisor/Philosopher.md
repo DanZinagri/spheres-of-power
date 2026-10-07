@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Philosopher"
 source: https://spheresofpower.wikidot.com/philosopher
 updated: 2024-09-14

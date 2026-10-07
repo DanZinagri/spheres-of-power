@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Noble"
 source: https://spheresofpower.wikidot.com/noble
 updated: 2020-09-23

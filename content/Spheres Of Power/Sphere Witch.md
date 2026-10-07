@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Witch"
 source: https://spheresofpower.wikidot.com/sphere-witch
 updated: 2025-11-04

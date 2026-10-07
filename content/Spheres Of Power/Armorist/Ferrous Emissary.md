@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ferrous Emissary"
 source: https://spheresofpower.wikidot.com/ferrous-emissary
 updated: 2020-11-13

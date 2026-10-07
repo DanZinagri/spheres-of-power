@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Shaman"
 source: https://spheresofpower.wikidot.com/sphere-shaman
 updated: 2020-01-31

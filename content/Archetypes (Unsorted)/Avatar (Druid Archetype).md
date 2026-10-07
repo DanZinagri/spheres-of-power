@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Avatar (Druid Archetype)"
 source: https://spheresofpower.wikidot.com/avatar
 updated: 2020-11-04

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Apex Predator (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/apex-predator
 updated: 2020-07-08

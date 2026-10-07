@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Administrator"
 source: https://spheresofpower.wikidot.com/administrator
 updated: 2024-02-03

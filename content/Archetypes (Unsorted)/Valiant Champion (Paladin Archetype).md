@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Valiant Champion (Paladin Archetype)"
 source: https://spheresofpower.wikidot.com/valiant-champion
 updated: 2023-05-30

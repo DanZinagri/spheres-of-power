@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Confluence"
 source: https://spheresofpower.wikidot.com/confluence
 updated: 2022-04-06

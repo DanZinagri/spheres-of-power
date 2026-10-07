@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Martial Hedgewitch"
 source: https://spheresofpower.wikidot.com/martial-hedgewitch
 updated: 2020-04-09

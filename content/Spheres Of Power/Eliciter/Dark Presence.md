@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dark Presence"
 source: https://spheresofpower.wikidot.com/dark-presence
 updated: 2021-06-10

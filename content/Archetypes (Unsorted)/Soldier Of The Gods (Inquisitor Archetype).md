@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Soldier Of The Gods (Inquisitor Archetype)"
 source: https://spheresofpower.wikidot.com/soldier-of-the-gods
 updated: 2020-01-30

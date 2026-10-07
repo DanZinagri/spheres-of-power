@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spellwarper (Inquisitor Archetype)"
 source: https://spheresofpower.wikidot.com/spellwarper
 updated: 2024-06-27

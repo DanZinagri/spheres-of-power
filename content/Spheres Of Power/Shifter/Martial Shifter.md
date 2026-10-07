@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Martial Shifter"
 source: https://spheresofpower.wikidot.com/martial-shifter
 updated: 2017-12-15

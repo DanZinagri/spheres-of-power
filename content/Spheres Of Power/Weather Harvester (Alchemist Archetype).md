@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Weather Harvester (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/weather-harvester
 updated: 2020-01-29

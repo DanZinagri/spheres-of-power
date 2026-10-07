@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Scion (Kineticist Archetype)"
 source: https://spheresofpower.wikidot.com/scion
 updated: 2021-07-24

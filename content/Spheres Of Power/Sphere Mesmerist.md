@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Mesmerist"
 source: https://spheresofpower.wikidot.com/sphere-mesmerist
 updated: 2020-01-30

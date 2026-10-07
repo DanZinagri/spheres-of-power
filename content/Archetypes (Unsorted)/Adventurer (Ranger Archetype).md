@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Adventurer (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/adventurer
 updated: 2022-03-20

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Yamabushi (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/yamabushi
 updated: 2020-01-30

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Stancemaster"
 source: https://spheresofpower.wikidot.com/stancemaster
 updated: 2021-03-31

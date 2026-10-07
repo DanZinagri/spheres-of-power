@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Interdictor"
 source: https://spheresofpower.wikidot.com/interdictor
 updated: 2024-06-27

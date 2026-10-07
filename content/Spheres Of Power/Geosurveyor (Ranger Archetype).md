@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Geosurveyor (Ranger Archetype)"
 source: https://spheresofpower.wikidot.com/geosurveyor
 updated: 2020-01-31

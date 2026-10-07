@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ravener"
 source: https://spheresofpower.wikidot.com/ravener
 updated: 2026-08-11

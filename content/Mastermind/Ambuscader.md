@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ambuscader"
 source: https://spheresofpower.wikidot.com/ambuscader
 updated: 2024-02-08

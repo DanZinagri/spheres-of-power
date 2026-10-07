@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Matagot"
 source: https://spheresofpower.wikidot.com/matagot
 updated: 2022-05-16

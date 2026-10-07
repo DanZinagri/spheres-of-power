@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Arcane Weaponeer (Magus Archetype)"
 source: https://spheresofpower.wikidot.com/arcane-weaponeer
 updated: 2020-10-11

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Malfeasant"
 source: https://spheresofpower.wikidot.com/malfeasant
 updated: 2024-02-08

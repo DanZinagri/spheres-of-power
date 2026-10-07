@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Collector"
 source: https://spheresofpower.wikidot.com/collector
 updated: 2021-03-12

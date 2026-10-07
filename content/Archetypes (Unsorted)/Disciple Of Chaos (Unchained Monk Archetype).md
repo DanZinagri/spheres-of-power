@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Disciple Of Chaos (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/disciple-of-chaos
 updated: 2024-06-26

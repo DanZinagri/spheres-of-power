@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Skaldic Poet (Skald Archetype)"
 source: https://spheresofpower.wikidot.com/skaldic-poet
 updated: 2023-04-07

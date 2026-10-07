@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Martial Armorist"
 source: https://spheresofpower.wikidot.com/martial-armorist
 updated: 2017-12-15

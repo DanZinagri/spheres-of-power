@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Tracer"
 source: https://spheresofpower.wikidot.com/tracer
 updated: 2025-09-02

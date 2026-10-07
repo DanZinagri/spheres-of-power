@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Erudite Soul (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/erudite-soul
 updated: 2023-06-28

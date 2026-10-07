@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bellwether"
 source: https://spheresofpower.wikidot.com/bellwether
 updated: 2024-02-03

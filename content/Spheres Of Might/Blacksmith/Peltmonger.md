@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Peltmonger"
 source: https://spheresofpower.wikidot.com/peltmonger
 updated: 2023-08-24

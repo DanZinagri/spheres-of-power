@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Tribal Champion (Unchained Barbarian Archetype)"
 source: https://spheresofpower.wikidot.com/tribal-champion
 updated: 2023-04-21

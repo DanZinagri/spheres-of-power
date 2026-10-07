@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ordained Hunter (Inquisitor Archetype)"
 source: https://spheresofpower.wikidot.com/ordained-hunter
 updated: 2025-07-09

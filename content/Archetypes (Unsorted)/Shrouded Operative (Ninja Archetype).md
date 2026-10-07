@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shrouded Operative (Ninja Archetype)"
 source: https://spheresofpower.wikidot.com/shrouded-operative
 updated: 2020-10-21

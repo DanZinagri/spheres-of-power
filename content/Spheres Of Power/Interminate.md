@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Interminate"
 source: https://spheresofpower.wikidot.com/interminate
 updated: 2022-12-29

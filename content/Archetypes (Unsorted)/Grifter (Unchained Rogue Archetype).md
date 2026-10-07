@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Grifter (Unchained Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/grifter
 updated: 2023-04-21

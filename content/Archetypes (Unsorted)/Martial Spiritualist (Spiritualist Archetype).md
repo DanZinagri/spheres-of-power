@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Martial Spiritualist (Spiritualist Archetype)"
 source: https://spheresofpower.wikidot.com/martial-spiritualist
 updated: 2021-08-12

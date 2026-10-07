@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Spirit Blade"
 source: https://spheresofpower.wikidot.com/spirit-blade
 updated: 2022-04-02

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Battlemind"
 source: https://spheresofpower.wikidot.com/battlemind
 updated: 2022-10-14

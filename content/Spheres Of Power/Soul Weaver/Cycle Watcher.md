@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Cycle Watcher"
 source: https://spheresofpower.wikidot.com/cycle-watcher
 updated: 2021-08-02

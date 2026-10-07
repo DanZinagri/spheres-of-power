@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Hemetic Philosopher (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/hemetic-philosopher
 updated: 2025-07-09

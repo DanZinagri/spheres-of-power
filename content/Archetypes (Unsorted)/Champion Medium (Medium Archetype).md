@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Medium (Medium Archetype)"
 source: https://spheresofpower.wikidot.com/champion-medium
 updated: 2026-05-03

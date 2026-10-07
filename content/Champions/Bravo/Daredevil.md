@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Daredevil"
 source: https://spheresofpower.wikidot.com/daredevil
 updated: 2025-09-02

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Masked Adept (Vigilante Archetype)"
 source: https://spheresofpower.wikidot.com/masked-adept
 updated: 2020-01-31

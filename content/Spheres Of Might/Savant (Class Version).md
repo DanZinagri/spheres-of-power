@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Savant (Class Version)"
 source: https://spheresofpower.wikidot.com/savant-class
 updated: 2022-10-29

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Hexblade"
 source: https://spheresofpower.wikidot.com/hexblade
 updated: 2026-08-08

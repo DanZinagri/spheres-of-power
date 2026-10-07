@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Adamant Guardian"
 source: https://spheresofpower.wikidot.com/adamant-guardian
 updated: 2024-08-21

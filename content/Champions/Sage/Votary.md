@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Votary"
 source: https://spheresofpower.wikidot.com/votary
 updated: 2019-12-11

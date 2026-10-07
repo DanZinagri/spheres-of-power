@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Barista"
 source: https://spheresofpower.wikidot.com/barista
 updated: 2021-12-09

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Eclectic Researcher (Wizard Archetype)"
 source: https://spheresofpower.wikidot.com/eclectic-researcher
 updated: 2020-01-31

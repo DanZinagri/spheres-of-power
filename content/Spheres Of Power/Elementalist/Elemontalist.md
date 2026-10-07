@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Elemontalist"
 source: https://spheresofpower.wikidot.com/elemontalist
 updated: 2020-11-24

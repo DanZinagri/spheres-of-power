@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Dragonblooded Mortal"
 source: https://spheresofpower.wikidot.com/dragonblooded-mortal
 updated: 2022-05-06

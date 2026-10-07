@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Harmacist"
 source: https://spheresofpower.wikidot.com/harmacist
 updated: 2023-06-25

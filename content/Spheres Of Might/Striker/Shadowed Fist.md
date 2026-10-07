@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shadowed Fist"
 source: https://spheresofpower.wikidot.com/shadowed-fist
 updated: 2021-08-05

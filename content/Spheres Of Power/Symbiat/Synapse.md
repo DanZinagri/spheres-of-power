@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Synapse"
 source: https://spheresofpower.wikidot.com/synapse
 updated: 2020-09-12

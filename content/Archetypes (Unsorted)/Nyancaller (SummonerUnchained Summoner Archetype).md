@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Nyancaller (Summoner/Unchained Summoner Archetype)"
 aliases: ["Nyancaller (Summoner/Unchained Summoner Archetype)"]
 source: https://spheresofpower.wikidot.com/nyancaller

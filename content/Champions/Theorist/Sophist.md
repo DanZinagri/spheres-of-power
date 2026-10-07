@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sophist"
 source: https://spheresofpower.wikidot.com/sophist
 updated: 2024-02-14

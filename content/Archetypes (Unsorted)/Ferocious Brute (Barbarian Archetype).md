@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ferocious Brute (Barbarian Archetype)"
 source: https://spheresofpower.wikidot.com/ferocious-brute
 updated: 2022-01-26

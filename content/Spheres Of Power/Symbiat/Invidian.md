@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Invidian"
 source: https://spheresofpower.wikidot.com/invidian
 updated: 2020-02-03

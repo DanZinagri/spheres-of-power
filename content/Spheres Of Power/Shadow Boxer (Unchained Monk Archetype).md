@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shadow Boxer (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/shadow-boxer
 updated: 2020-01-30

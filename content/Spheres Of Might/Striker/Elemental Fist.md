@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Elemental Fist"
 source: https://spheresofpower.wikidot.com/elemental-fist
 updated: 2022-01-14

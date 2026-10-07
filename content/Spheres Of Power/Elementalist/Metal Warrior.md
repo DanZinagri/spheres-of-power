@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Metal Warrior"
 source: https://spheresofpower.wikidot.com/metal-warrior
 updated: 2020-02-01

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Essentialist (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/essentialist
 updated: 2025-07-09

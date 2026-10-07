@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Magitect (Wizard Archetype)"
 source: https://spheresofpower.wikidot.com/magitect
 updated: 2024-07-09

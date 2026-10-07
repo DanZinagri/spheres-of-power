@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Ringmaster"
 source: https://spheresofpower.wikidot.com/ringmaster
 updated: 2026-08-10

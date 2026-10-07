@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "War Hero (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/war-hero
 updated: 2020-01-30

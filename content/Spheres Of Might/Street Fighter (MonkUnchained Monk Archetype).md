@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Street Fighter (Monk/Unchained Monk Archetype)"
 aliases: ["Street Fighter (Monk/Unchained Monk Archetype)"]
 source: https://spheresofpower.wikidot.com/street-fighter

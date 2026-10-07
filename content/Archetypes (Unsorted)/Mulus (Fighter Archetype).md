@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mulus (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/mulus
 updated: 2023-04-21

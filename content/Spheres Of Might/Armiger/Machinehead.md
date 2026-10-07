@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Machinehead"
 source: https://spheresofpower.wikidot.com/machinehead
 updated: 2019-05-31

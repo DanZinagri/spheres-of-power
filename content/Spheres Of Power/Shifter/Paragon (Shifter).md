@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Paragon (Shifter)"
 source: https://spheresofpower.wikidot.com/paragon-shifter
 updated: 2022-03-10

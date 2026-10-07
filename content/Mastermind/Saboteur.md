@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Saboteur"
 source: https://spheresofpower.wikidot.com/saboteur
 updated: 2023-04-22

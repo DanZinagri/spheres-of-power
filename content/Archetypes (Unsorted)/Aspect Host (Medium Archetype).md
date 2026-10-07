@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Aspect Host (Medium Archetype)"
 source: https://spheresofpower.wikidot.com/aspect-host
 updated: 2021-08-05

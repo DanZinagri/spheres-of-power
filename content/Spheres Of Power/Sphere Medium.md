@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Medium"
 source: https://spheresofpower.wikidot.com/sphere-medium
 updated: 2023-04-21

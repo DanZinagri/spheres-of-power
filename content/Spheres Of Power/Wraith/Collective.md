@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Collective"
 source: https://spheresofpower.wikidot.com/collective
 updated: 2026-08-14

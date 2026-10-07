@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Knightknight"
 source: https://spheresofpower.wikidot.com/knightknight
 updated: 2020-04-15

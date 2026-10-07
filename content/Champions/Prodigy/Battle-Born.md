@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Battle-Born"
 source: https://spheresofpower.wikidot.com/battle-born
 updated: 2019-09-18

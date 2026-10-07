@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Reliquary Keeper (Occultist Archetype)"
 source: https://spheresofpower.wikidot.com/reliquary-keeper
 updated: 2020-12-09

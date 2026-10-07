@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Water Warrior"
 source: https://spheresofpower.wikidot.com/water-warrior
 updated: 2020-02-01

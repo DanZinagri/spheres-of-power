@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Tactician (Investigator Archetype)"
 source: https://spheresofpower.wikidot.com/tactician
 updated: 2024-09-14

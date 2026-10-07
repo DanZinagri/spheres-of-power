@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Smasher"
 source: https://spheresofpower.wikidot.com/smasher
 updated: 2024-02-03

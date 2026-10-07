@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Cerebral Singer"
 source: https://spheresofpower.wikidot.com/cerebral-singer
 updated: 2024-02-14

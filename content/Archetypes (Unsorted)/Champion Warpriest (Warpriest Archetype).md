@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Warpriest (Warpriest Archetype)"
 source: https://spheresofpower.wikidot.com/champion-warpriest
 updated: 2019-09-19

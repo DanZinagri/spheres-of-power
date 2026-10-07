@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Entropic Sage"
 source: https://spheresofpower.wikidot.com/entropic-sage
 updated: 2020-02-03

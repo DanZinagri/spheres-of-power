@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Purrsician"
 source: https://spheresofpower.wikidot.com/purrsician
 updated: 2021-04-17

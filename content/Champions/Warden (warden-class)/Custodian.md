@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Custodian"
 source: https://spheresofpower.wikidot.com/custodian
 updated: 2022-03-05

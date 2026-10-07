@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Nocturnal Predator"
 source: https://spheresofpower.wikidot.com/nocturnal-predator
 updated: 2020-02-03

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Stormlord (Bloodrager Archetype)"
 source: https://spheresofpower.wikidot.com/stormlord
 updated: 2018-11-30

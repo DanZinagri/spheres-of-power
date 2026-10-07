@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Inheritor (Sorcerer Archetype)"
 source: https://spheresofpower.wikidot.com/inheritor
 updated: 2021-08-17

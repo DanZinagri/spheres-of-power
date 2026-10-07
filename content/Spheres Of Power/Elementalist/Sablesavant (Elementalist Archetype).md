@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sablesavant (Elementalist Archetype)"
 source: https://spheresofpower.wikidot.com/sablesavant
 updated: 2025-04-02

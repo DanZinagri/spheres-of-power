@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Grand Purifier (Paladin & Antipaladin Archetype)"
 source: https://spheresofpower.wikidot.com/grand-purifier
 updated: 2020-01-28

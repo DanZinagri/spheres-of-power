@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Eldritch Infuser (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/eldritch-infuser
 updated: 2019-11-11

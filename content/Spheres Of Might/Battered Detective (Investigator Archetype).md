@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Battered Detective (Investigator Archetype)"
 source: https://spheresofpower.wikidot.com/battered-detective
 updated: 2018-11-30

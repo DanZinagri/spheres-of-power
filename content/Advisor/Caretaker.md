@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Caretaker"
 source: https://spheresofpower.wikidot.com/caretaker
 updated: 2025-09-02

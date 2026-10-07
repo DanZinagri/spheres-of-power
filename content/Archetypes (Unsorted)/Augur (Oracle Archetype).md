@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Augur (Oracle Archetype)"
 source: https://spheresofpower.wikidot.com/augur
 updated: 2022-04-06

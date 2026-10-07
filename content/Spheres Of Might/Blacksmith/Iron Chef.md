@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Iron Chef"
 source: https://spheresofpower.wikidot.com/iron-chef
 updated: 2021-04-29

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Coiled Blade (Fighter Archetype)"
 source: https://spheresofpower.wikidot.com/coiled-blade
 updated: 2019-05-18

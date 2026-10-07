@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Natural Warrior"
 source: https://spheresofpower.wikidot.com/natural-warrior
 updated: 2020-02-01

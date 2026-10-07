@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Antiquarian"
 source: https://spheresofpower.wikidot.com/antiquarian
 updated: 2017-12-15

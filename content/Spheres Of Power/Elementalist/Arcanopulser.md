@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Arcanopulser"
 source: https://spheresofpower.wikidot.com/arcanopulser
 updated: 2022-08-15

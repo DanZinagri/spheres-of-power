@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Clone"
 source: https://spheresofpower.wikidot.com/clone
 updated: 2019-09-18

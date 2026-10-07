@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Master Of Many Stances (Unchained Monk Archetype)"
 source: https://spheresofpower.wikidot.com/master-of-many-stances
 updated: 2020-05-14

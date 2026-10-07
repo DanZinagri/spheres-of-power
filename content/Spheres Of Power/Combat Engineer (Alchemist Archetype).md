@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Combat Engineer (Alchemist Archetype)"
 source: https://spheresofpower.wikidot.com/combat-engineer
 updated: 2025-07-09

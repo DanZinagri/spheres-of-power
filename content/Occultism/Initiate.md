@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Initiate"
 source: https://spheresofpower.wikidot.com/initiate
 updated: 2026-08-08

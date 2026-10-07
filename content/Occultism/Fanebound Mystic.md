@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Fanebound Mystic"
 source: https://spheresofpower.wikidot.com/fanebound-mystic
 updated: 2026-08-08

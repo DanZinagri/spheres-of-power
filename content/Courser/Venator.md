@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Venator"
 source: https://spheresofpower.wikidot.com/venator
 updated: 2025-02-23

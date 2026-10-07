@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Thespian (Bard Archetype)"
 source: https://spheresofpower.wikidot.com/thespian
 updated: 2026-07-12

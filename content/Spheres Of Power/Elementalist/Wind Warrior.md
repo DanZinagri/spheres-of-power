@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Wind Warrior"
 source: https://spheresofpower.wikidot.com/wind-warrior
 updated: 2020-02-01

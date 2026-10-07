@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Shade (Unchained Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/shade
 updated: 2024-06-27

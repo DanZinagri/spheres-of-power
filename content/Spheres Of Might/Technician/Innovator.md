@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Innovator"
 source: https://spheresofpower.wikidot.com/innovator
 updated: 2024-08-10

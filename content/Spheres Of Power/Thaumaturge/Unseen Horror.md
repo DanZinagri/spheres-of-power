@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Unseen Horror"
 source: https://spheresofpower.wikidot.com/unseen-horror
 updated: 2021-08-25

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Auteur"
 source: https://spheresofpower.wikidot.com/auteur
 updated: 2024-02-03

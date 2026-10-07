@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Worldsoul Incarnate (Barbarian/UC Barbarian Archetype)"
 aliases: ["Worldsoul Incarnate (Barbarian/UC Barbarian Archetype)"]
 source: https://spheresofpower.wikidot.com/worldsoul-incarnate

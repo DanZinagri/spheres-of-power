@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Electrokinetic"
 source: https://spheresofpower.wikidot.com/electrokinetic
 updated: 2021-03-20

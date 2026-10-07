@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Barbearian (Barbarian Archetype)"
 source: https://spheresofpower.wikidot.com/barbearian
 updated: 2019-04-16

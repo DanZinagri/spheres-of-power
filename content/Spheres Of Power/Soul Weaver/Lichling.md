@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Lichling"
 source: https://spheresofpower.wikidot.com/lichling
 updated: 2020-02-03

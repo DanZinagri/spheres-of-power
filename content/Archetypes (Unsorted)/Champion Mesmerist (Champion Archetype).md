@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Champion Mesmerist (Champion Archetype)"
 source: https://spheresofpower.wikidot.com/champion-mesmerist
 updated: 2021-01-25

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Canny Scoundrel (Rogue Archetype)"
 source: https://spheresofpower.wikidot.com/canny-scoundrel
 updated: 2018-11-30

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Crimson Tempest"
 source: https://spheresofpower.wikidot.com/crimson-dancer
 parent: "[[Crimson Dancer]]"

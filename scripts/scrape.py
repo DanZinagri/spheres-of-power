@@ -2293,6 +2293,27 @@ HEADING_LEVEL_FIXES = {
 }
 
 
+def tag_archetype_pages() -> int:
+    """Every page in the archetype column of the home Classes tables gets `searchtype: Archetypes`
+    (the search page's Type filter), whatever its name or folder."""
+    home = (CONTENT / "index.md").read_text(encoding="utf-8")
+    at = home.find("## Classes")
+    targets: set[str] = set()
+    for line in home[at:].split("\n") if at >= 0 else []:
+        cells = re.split(r"(?<!\\)\|", line)
+        if line.startswith("| **") and len(cells) > 3:
+            targets.update(t.strip() for t in re.findall(r"\[\[([^\]|\\#]+)", cells[2]))
+    done = 0
+    for f in CONTENT.rglob("*.md"):
+        if f.stem not in targets or ARCHIVE in f.relative_to(CONTENT).parts:
+            continue
+        text = f.read_text(encoding="utf-8")
+        if text.startswith("---\n") and "\nsearchtype:" not in text.split("\n---", 1)[0]:
+            f.write_text(text.replace("---\n", "---\nsearchtype: Archetypes\n", 1), encoding="utf-8")
+            done += 1
+    return done
+
+
 def normalize_heading_levels() -> int:
     """Pass over the written pages so the same kind of page uses the same heading sizes:
     - a first heading that just repeats the page title (Quartz shows the title) goes;
@@ -3063,7 +3084,10 @@ def convert(with_images: bool) -> None:
                 (heading, label, own_label, "\n".join(credit + [""] + part).strip()))
     print(f"Sample characters (nosearch): {len(samples)}")
     # pages whose sections get split into subpages become folder notes, with the entries beside them
-    for slug in SPLIT_SECTIONS:
+    # every sphere on the home page is a folder note too, so its Feats/Drawbacks pages sit inside
+    # its folder and their breadcrumbs read "... > Dark > Dark Sphere Drawbacks"
+    spheres = {s for title, _ in HOME_SPHERE_COLUMNS for s in home_list_slugs(pages, title)}
+    for slug in [*SPLIT_SECTIONS, *sorted(spheres)]:
         sp = pages.get(slug)
         if sp and sp.folder.split("/")[-1] != sp.filename:
             sp.folder = f"{sp.folder}/{sp.filename}".strip("/")
@@ -3224,6 +3248,7 @@ def convert(with_images: bool) -> None:
                 sfm = ["---", f"title: {yaml_str(title)}", f"source: {SITE}/{p.slug}",
                        "parent: " + yaml_str(f"[[{p.filename}]]"), "---"]
                 sdest = CONTENT / p.folder / f"{name}.md"
+                sdest.parent.mkdir(parents=True, exist_ok=True)
                 sdest.write_text("\n".join(sfm) + "\n" + GENERATED_MARK + "\n\n"
                                  + collapse_dividers(sect + "\n"), encoding="utf-8")
                 drawback_pages[p.filename] = name
@@ -3341,6 +3366,7 @@ def convert(with_images: bool) -> None:
                                   f"({len(retired)} pages so far).\n", encoding="utf-8")
     write_link_families(pages, derived_notes)
     print(f"Retired Ultimate: {len(retired)} pages")
+    print(f"Archetype pages tagged for search: {tag_archetype_pages()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Hemophage (Bloodrager Archetype)"
 source: https://spheresofpower.wikidot.com/hemophage
 updated: 2020-10-05

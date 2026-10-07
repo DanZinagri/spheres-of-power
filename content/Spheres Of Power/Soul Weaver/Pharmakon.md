@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Pharmakon"
 source: https://spheresofpower.wikidot.com/pharmakon
 updated: 2020-08-30

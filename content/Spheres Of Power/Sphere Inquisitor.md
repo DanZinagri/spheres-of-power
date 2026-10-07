@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Inquisitor"
 source: https://spheresofpower.wikidot.com/sphere-inquisitor
 updated: 2020-01-30

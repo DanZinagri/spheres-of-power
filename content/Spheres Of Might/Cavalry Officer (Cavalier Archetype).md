@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Cavalry Officer (Cavalier Archetype)"
 source: https://spheresofpower.wikidot.com/cavalry-officer
 updated: 2020-09-23

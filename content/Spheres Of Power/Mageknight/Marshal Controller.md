@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Marshal Controller"
 source: https://spheresofpower.wikidot.com/marshal-controller
 updated: 2021-02-15

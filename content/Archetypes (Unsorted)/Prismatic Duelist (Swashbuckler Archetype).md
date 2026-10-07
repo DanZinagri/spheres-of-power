@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Prismatic Duelist (Swashbuckler Archetype)"
 source: https://spheresofpower.wikidot.com/prismatic-duelist
 updated: 2022-03-25

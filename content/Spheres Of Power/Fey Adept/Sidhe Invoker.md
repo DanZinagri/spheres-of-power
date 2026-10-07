@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sidhe Invoker"
 source: https://spheresofpower.wikidot.com/sidhe-invoker
 updated: 2026-01-28

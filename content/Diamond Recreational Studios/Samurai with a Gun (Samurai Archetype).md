@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Samurai with a Gun (Samurai Archetype)"
 source: https://spheresofpower.wikidot.com/samurai-with-a-gun
 updated: 2026-08-27

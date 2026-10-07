@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Magus"
 source: https://spheresofpower.wikidot.com/sphere-magus
 updated: 2020-05-26

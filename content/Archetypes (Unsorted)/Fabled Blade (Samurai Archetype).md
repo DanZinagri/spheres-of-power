@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Fabled Blade (Samurai Archetype)"
 source: https://spheresofpower.wikidot.com/fabled-blade
 updated: 2023-04-21

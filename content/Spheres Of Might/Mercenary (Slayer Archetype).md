@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mercenary (Slayer Archetype)"
 source: https://spheresofpower.wikidot.com/mercenary
 updated: 2023-04-17

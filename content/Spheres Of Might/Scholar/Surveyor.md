@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Surveyor"
 source: https://spheresofpower.wikidot.com/surveyor
 updated: 2024-11-08

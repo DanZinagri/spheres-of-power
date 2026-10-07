@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mirrored Soul (Summoner/Unchained Summoner Archetype)"
 aliases: ["Mirrored Soul (Summoner/Unchained Summoner Archetype)"]
 source: https://spheresofpower.wikidot.com/mirrored-soul

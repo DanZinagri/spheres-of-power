@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Disciple Of Goibniu"
 source: https://spheresofpower.wikidot.com/disciple-of-goibniu
 updated: 2020-04-21

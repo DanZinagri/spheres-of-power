@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Mistwalker"
 source: https://spheresofpower.wikidot.com/mistwalker
 updated: 2022-08-04

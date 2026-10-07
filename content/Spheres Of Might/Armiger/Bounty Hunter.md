@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Bounty Hunter"
 source: https://spheresofpower.wikidot.com/bounty-hunter
 updated: 2017-10-26

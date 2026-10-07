@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Glass-Eye Gunmage (Gunslinger Archetype)"
 source: https://spheresofpower.wikidot.com/glass-eye-gunmage
 updated: 2020-01-30

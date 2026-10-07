@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Pact Master"
 source: https://spheresofpower.wikidot.com/pact-master
 updated: 2020-05-05

@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Method Actor"
 source: https://spheresofpower.wikidot.com/method-actor
 updated: 2019-12-11

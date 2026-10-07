@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Sphere Druid"
 source: https://spheresofpower.wikidot.com/sphere-druid
 updated: 2023-04-21

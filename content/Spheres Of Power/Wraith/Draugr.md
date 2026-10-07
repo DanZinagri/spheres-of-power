@@ -1,4 +1,5 @@
 ---
+searchtype: Archetypes
 title: "Draugr"
 source: https://spheresofpower.wikidot.com/draugr
 updated: 2020-02-03
