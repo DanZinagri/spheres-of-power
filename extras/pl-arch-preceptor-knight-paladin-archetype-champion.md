@@ -1,4 +1,4 @@
-<!-- extras: page | Archetypes (Unsorted)/Preceptor Knight (Paladin Archetype) (Champion) | Preceptor Knight (Paladin Archetype) (Champion) -->
+<!-- extras: page | Archetypes (Unsorted)/Preceptor Knight (Paladin Archetype) (Champion) | Preceptor Knight (Paladin Archetype) (Champion) | might -->
 
 *Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 

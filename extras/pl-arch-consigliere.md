@@ -1,4 +1,4 @@
-<!-- extras: page | Mastermind/Consigliere | Consigliere -->
+<!-- extras: page | Mastermind/Consigliere | Consigliere | might -->
 
 *Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 

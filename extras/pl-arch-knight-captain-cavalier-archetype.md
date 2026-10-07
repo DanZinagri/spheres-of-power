@@ -1,4 +1,4 @@
-<!-- extras: page | Archetypes (Unsorted)/Knight Captain (Cavalier Archetype) | Knight Captain (Cavalier Archetype) -->
+<!-- extras: page | Archetypes (Unsorted)/Knight Captain (Cavalier Archetype) | Knight Captain (Cavalier Archetype) | might -->
 
 *Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 

@@ -1331,6 +1331,7 @@ def tab_set(tabs: list[tuple[str, str]]) -> str:
 # own, the old content becoming an "Ultimate" tab; "replace" (section = "<entry heading> => <tab
 # label>") puts it beside one entry the same way. retire_ultimate() then archives the old ones.
 NOTE_EXTRAS: dict[str, list[tuple[str, str, str]]] = {}
+EXTRA_PAGE_FAMILIES: dict[str, str] = {}  # extras page path -> link-color family
 
 
 def apply_note_extras() -> int:
@@ -1381,7 +1382,11 @@ def load_extras() -> tuple[dict[str, list[tuple[str, str, str]]], list[tuple[str
             continue
         body = text[m.end():].strip()
         if m.group(1) == "page":
-            new_pages.append((m.group(2), m.group(3), body))
+            # "page | <path> | <title> | <family>": an optional link-color family (e.g. might)
+            title, _, fam = (x.strip() for x in m.group(3).partition("|"))
+            new_pages.append((m.group(2), title, body))
+            if fam:
+                EXTRA_PAGE_FAMILIES[f"{m.group(2)}.md"] = fam
         elif m.group(1).startswith("note:"):
             # applied to the finished page of that name after everything is written: apply_note_extras
             NOTE_EXTRAS.setdefault(m.group(1)[5:].strip(), []).append((m.group(2), m.group(3), body))
@@ -3184,6 +3189,7 @@ def write_link_families(pages: dict[str, Page], derived: list[tuple[str, str]] |
     for note, sphere in derived or []:
         if sphere in families:
             families[note] = families[sphere]
+    families.update(EXTRA_PAGE_FAMILIES)
     FAMILY_FILE.parent.mkdir(parents=True, exist_ok=True)
     FAMILY_FILE.write_text(json.dumps(dict(sorted(families.items())), indent=1, ensure_ascii=False),
                            encoding="utf-8")

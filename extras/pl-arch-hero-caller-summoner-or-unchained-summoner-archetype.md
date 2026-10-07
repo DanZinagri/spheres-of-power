@@ -1,4 +1,4 @@
-<!-- extras: page | Archetypes (Unsorted)/Hero Caller (Summoner or Unchained Summoner Archetype) | Hero Caller (Summoner or Unchained Summoner Archetype) -->
+<!-- extras: page | Archetypes (Unsorted)/Hero Caller (Summoner or Unchained Summoner Archetype) | Hero Caller (Summoner or Unchained Summoner Archetype) | might -->
 
 *Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 

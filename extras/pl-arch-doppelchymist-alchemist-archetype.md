@@ -1,4 +1,4 @@
-<!-- extras: page | Archetypes (Unsorted)/Doppelchymist (Alchemist Archetype) | Doppelchymist (Alchemist Archetype) -->
+<!-- extras: page | Archetypes (Unsorted)/Doppelchymist (Alchemist Archetype) | Doppelchymist (Alchemist Archetype) | might -->
 
 *Source: [Polished Leadership](https://www.drivethrurpg.com/en/product/585162/diamond-polished-spheres-leadership-sphere)*
 
