@@ -47,7 +47,7 @@ The following talents can be treated as having the [utility] tag, allowing them 
 - **Equipment:** Craftsman
 - **Fencing:** Master Of Words, Read Foe
 - **Guardian:** I Will Hear
-- **Leadership:** (Follower) package, all (follower) talents, Military Training, Planisphere, Teleportation, Two Day Shipping
+- **Leadership:** (Follower) package, all (follower) talents, Professional Undertakings
 - **Scoundrel:** Hidden Blade, Steal Charm, Steal Identity, Steal Skill
 - **Scout:** Detect Surface Thoughts, Discern Tells, Eye Spy, Great Senses, Hidden Appearance, Identify Structural Hazards, Magehunter’s Vision, Sense And Resist Scrying, Somnambulance (first time only), Spell Scent, Track The Scene
 - **Sniper:** Tactile Shot, Trap Technician

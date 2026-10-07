@@ -156,6 +156,16 @@ DROP_SECTIONS = {"weapons": ["Wiki Weapons"]}
 # Text replaced on a page: page slug -> [(regex, replacement)]
 OG_NOTE = "> [!note]\n> This is original Spheres content and was not included in the final Ultimate printing."
 PAGE_REPLACE = {
+    # Leadership talents that Diamond Polished Spheres: Leadership Sphere replaced or removed
+    "practitioner-bestiary": [
+        (r"Greater Recruitment, Pack Tactics\)",
+         "Greater Recruitment (replaced with Extra Cohort in Diamond Spheres), Pack Tactics (replaced with "
+         "Hunting Coordination's Hunt Together option in Diamond Spheres))"),
+    ],
+    "using-champions-of-the-spheres": [
+        (r"(\*\*Leadership:\*\* \(Follower\) package, all \(follower\) talents), Military Training, Planisphere, "
+         r"Teleportation, Two Day Shipping", r"\1, Professional Undertakings"),
+    ],
     "dual-blooded-sorcerer": [
         (r"^\*\*This content was not included as part of Ultimate Spheres of Power[^\n]*\*\*$", OG_NOTE),
     ],
@@ -184,7 +194,7 @@ ORIGINAL_TAB = "original"
 
 def add_page_notes(slug: str, md: str) -> str:
     for pattern, repl in PAGE_REPLACE.get(slug, []):
-        md, n = re.subn(pattern, lambda m: repl, md, flags=re.M)
+        md, n = re.subn(pattern, lambda m: m.expand(repl), md, flags=re.M)
         if not n:
             print(f"warning: page replace for {slug} found no match for {pattern!r}")
     for pattern, note in PAGE_NOTES.get(slug, []):

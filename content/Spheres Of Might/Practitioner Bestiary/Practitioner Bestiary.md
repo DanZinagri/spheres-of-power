@@ -412,7 +412,7 @@ Organic archers do not necessarily use bows or generate organic projectiles, but
 
 Many creatures hunt in packs, and at the head of the pack is the alpha. The one responsible for ensuring the pack’s safety and the one that reaps the most rewards. This tradition works best for creatures that leverage numbers to their advantage.
 
-- **Bonus Talents:** Leadership sphere ((cohorts) package, Advanced Cohorts, Greater Recruitment, Pack Tactics)
+- **Bonus Talents:** Leadership sphere ((cohorts) package, Advanced Cohorts, Greater Recruitment (replaced with Extra Cohort in Diamond Spheres), Pack Tactics (replaced with Hunting Coordination's Hunt Together option in Diamond Spheres))
 - **Variable:** Pack Alphas get one additional combat talent of their choice.
 - **Drawbacks:** Leader Of Monsters
 
