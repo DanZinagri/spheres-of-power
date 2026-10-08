@@ -2526,9 +2526,9 @@ def build_compendium() -> dict[str, int]:
                 # entries end at the next heading of their level or higher (or the section's end)
                 stop = next((j for j in range(k + 1, end) if (m := re.match(r"(#{1,6}) ", lines[j]))
                              and len(m.group(1)) <= level), end)
-                # the section, or for whole feats pages "General" until a subsection (other
-                # whole-page maps, like drawbacks, have no group)
-                group = ("General" if kind == "feat" else "") if section == "(page)" \
+                # the section, or for whole feats pages "General" until a subsection; other
+                # whole-page maps are grouped by their kind ("Drawbacks")
+                group = ("General" if kind == "feat" else kind.title() + "s") if section == "(page)" \
                     else section if slevel < level else ""
                 for j in range(k - 1, start, -1):  # feats pages: the "## Dual Sphere Feats" group
                     if (m := re.match(r"(#{1,6}) (.+)$", lines[j])) and len(m.group(1)) < level:

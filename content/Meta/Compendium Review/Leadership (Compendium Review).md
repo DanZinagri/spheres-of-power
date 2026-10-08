@@ -85,10 +85,10 @@ What the compendium extractor takes from the Leadership pages (70 entries; **not
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Leadership-Sphere-Drawbacks#drill-sergeant\|Drill Sergeant]] |  |  | — | (cohort) package. | Polished Leadership |
-| [[Leadership-Sphere-Drawbacks#established-footprint\|Established Footprint]] |  |  | — | (follower) package. | Polished Leadership |
-| [[Leadership-Sphere-Drawbacks#strange-bedfellows\|Strange Bedfellows]] |  |  | — | (cohort) package. | Polished Leadership |
-| [[Leadership-Sphere-Drawbacks#wicked-tyrant-alternate-start\|Wicked Tyrant]] |  | [alternate start] | — | — | Polished Leadership |
+| [[Leadership-Sphere-Drawbacks#drill-sergeant\|Drill Sergeant]] | Drawbacks |  | — | (cohort) package. | Polished Leadership |
+| [[Leadership-Sphere-Drawbacks#established-footprint\|Established Footprint]] | Drawbacks |  | — | (follower) package. | Polished Leadership |
+| [[Leadership-Sphere-Drawbacks#strange-bedfellows\|Strange Bedfellows]] | Drawbacks |  | — | (cohort) package. | Polished Leadership |
+| [[Leadership-Sphere-Drawbacks#wicked-tyrant-alternate-start\|Wicked Tyrant]] | Drawbacks | [alternate start] | — | — | Polished Leadership |
 
 ## Feats (11)
 

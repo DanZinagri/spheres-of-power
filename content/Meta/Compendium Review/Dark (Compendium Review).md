@@ -75,12 +75,12 @@ What the compendium extractor takes from the Dark pages (54 entries; approved). 
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Dark-Sphere-Drawbacks#black-spot\|Black Spot]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#contact-dark\|Contact Dark]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#darkness-speciality\|Darkness Speciality]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#light-fearing\|Light Fearing]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#personal-darkness\|Personal Darkness]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#selective-melding\|Selective Melding]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#singular-shade\|Singular Shade]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#shadowed-brew\|Shadowed Brew]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#shadowy-storage-utility-start\|Shadowy Storage]] |  | [utility start] | — | — |  |
+| [[Dark-Sphere-Drawbacks#black-spot\|Black Spot]] | Drawbacks |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#contact-dark\|Contact Dark]] | Drawbacks |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#darkness-speciality\|Darkness Speciality]] | Drawbacks |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#light-fearing\|Light Fearing]] | Drawbacks |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#personal-darkness\|Personal Darkness]] | Drawbacks |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#selective-melding\|Selective Melding]] | Drawbacks |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#singular-shade\|Singular Shade]] | Drawbacks |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#shadowed-brew\|Shadowed Brew]] | Drawbacks |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#shadowy-storage-utility-start\|Shadowy Storage]] | Drawbacks | [utility start] | — | — |  |
