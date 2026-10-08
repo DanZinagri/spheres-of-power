@@ -2509,7 +2509,7 @@ COMPENDIUM = {
     },
     "Alteration": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Shapeshift and the Blank Transformation every Alteration user has
             ("Alteration", "Shapeshift", "sphere ability", 2, 4),
@@ -2521,6 +2521,22 @@ COMPENDIUM = {
             ("Alteration Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
+    },
+    "Blood": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Blood Control and the Bleed / Coagulate abilities every Blood user has
+            ("Blood", "Blood Control", "sphere ability", 2, 4),
+            ("Blood", "Blood Sphere Talents", "talent", 4),
+            ("Blood", "Blood Art Talents", "talent", 4),
+            ("Blood", "Quicken/Still Talents", "talent", 4),
+            ("Blood", "Advanced Blood Talents", "advanced talent", 4),
+            ("Blood Sphere Feats", "(page)", "feat", 4),
+            ("Blood Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        # Blood Control's rules sections (blood arts, blood loss), not abilities
+        "not_options": r"^Table|^Note|^Blood Arts$|^Author",
     },
     "Warleader": {
         "system": "Spheres of Might",
@@ -2676,6 +2692,11 @@ def build_compendium() -> dict[str, int]:
                     "options": options,
                 }
                 if want_prereq and not want_prereq.search(entry["prerequisites"]):
+                    continue
+                # a talent printed in two sections (Blood's Cystic Growth: blood art and still)
+                # is one entry
+                twin = next((x for x in entries if _norm(x["name"]) == _norm(name) and x["md"] == intro), None)
+                if twin:
                     continue
                 entries.append(entry)
         counts[sphere] = len(entries)

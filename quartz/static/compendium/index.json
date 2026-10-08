@@ -2370,7 +2370,7 @@
    "Blank Transformation"
   ],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/adaptive-physicality-utility",
@@ -2388,7 +2388,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#adaptive-physicality-utility",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/additional-limbs",
@@ -2404,7 +2404,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#additional-limbs",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/agile",
@@ -2420,7 +2420,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#agile",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/animal-mind",
@@ -2436,7 +2436,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#animal-mind",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/bestial-reflexes",
@@ -2452,7 +2452,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#bestial-reflexes",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/bestial-spirit",
@@ -2468,7 +2468,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#bestial-spirit",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/bully",
@@ -2484,7 +2484,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#bully",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/extreme-adaptation",
@@ -2500,7 +2500,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#extreme-adaptation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/giant-traits",
@@ -2516,7 +2516,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#giant-traits",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/greater-changes",
@@ -2532,7 +2532,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#greater-changes",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/instill-shapeshift-instill",
@@ -2550,7 +2550,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#instill-shapeshift-instill",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/lingering-transformation",
@@ -2566,7 +2566,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#lingering-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/mass-alteration-mass",
@@ -2584,7 +2584,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#mass-alteration-mass",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/mimicry",
@@ -2600,7 +2600,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#mimicry",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/morph",
@@ -2616,7 +2616,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#morph",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/morphic-weapon",
@@ -2632,7 +2632,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#morphic-weapon",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/odiferous",
@@ -2648,7 +2648,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#odiferous",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/perfect-imitation-utility",
@@ -2666,7 +2666,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#perfect-imitation-utility",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/powerful-limbs",
@@ -2682,7 +2682,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#powerful-limbs",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/prickly",
@@ -2698,7 +2698,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#prickly",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/ranged-alteration-range",
@@ -2716,7 +2716,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#ranged-alteration-range",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/retain-ability",
@@ -2732,7 +2732,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#retain-ability",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/size-change",
@@ -2748,7 +2748,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#size-change",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/steal-shape",
@@ -2764,7 +2764,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#steal-shape",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/swarm-shape",
@@ -2780,7 +2780,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#swarm-shape",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/tentacles",
@@ -2796,7 +2796,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#tentacles",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/transforming-strike-strike",
@@ -2814,7 +2814,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#transforming-strike-strike",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/twisted-shapeshift",
@@ -2830,7 +2830,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#twisted-shapeshift",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/vitality",
@@ -2846,7 +2846,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#vitality",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/aberrant-body-body",
@@ -2864,7 +2864,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#aberrant-body-body",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/cosmic-body-body",
@@ -2882,7 +2882,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#cosmic-body-body",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/fey-body-body",
@@ -2900,7 +2900,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#fey-body-body",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/muensterous-traits-body",
@@ -2918,7 +2918,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#muensterous-traits-body",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/outsider-body-body",
@@ -2936,7 +2936,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#outsider-body-body",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/protean-mastery-body",
@@ -2954,7 +2954,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#protean-mastery-body",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/undead-body-body",
@@ -2972,7 +2972,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#undead-body-body",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/animalistic-transformation-transformation",
@@ -2990,7 +2990,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#animalistic-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/anthropomorphic-transformation-transformation",
@@ -3008,7 +3008,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#anthropomorphic-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/aquan-transformation-transformation",
@@ -3026,7 +3026,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#aquan-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/avian-transformation-transformation",
@@ -3044,7 +3044,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#avian-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/dragon-transformation-transformation",
@@ -3062,7 +3062,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#dragon-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/elemental-transformation-transformation",
@@ -3080,7 +3080,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#elemental-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/object-transformation-transformation",
@@ -3098,7 +3098,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#object-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/ooze-transformation-transformation",
@@ -3116,7 +3116,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#ooze-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/orb-transformation-transformation",
@@ -3134,7 +3134,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#orb-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/plant-transformation-transformation",
@@ -3152,7 +3152,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#plant-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/serpentine-transformation-transformation",
@@ -3170,7 +3170,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#serpentine-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/subterranean-transformation-transformation",
@@ -3188,7 +3188,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#subterranean-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/vermin-transformation-transformation",
@@ -3206,7 +3206,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#vermin-transformation-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/diffuse-swarm",
@@ -3222,7 +3222,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#diffuse-swarm",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/elemental-purity",
@@ -3238,7 +3238,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#elemental-purity",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/energy-manipulation",
@@ -3254,7 +3254,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#energy-manipulation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/extreme-changes",
@@ -3270,7 +3270,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#extreme-changes",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/fusion",
@@ -3286,7 +3286,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#fusion",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/homogenize",
@@ -3302,7 +3302,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#homogenize",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/manipulate-healing",
@@ -3318,7 +3318,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#manipulate-healing",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/permanent-transformation",
@@ -3334,7 +3334,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#permanent-transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/signature-trait",
@@ -3350,7 +3350,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#signature-trait",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/size-mastery",
@@ -3366,7 +3366,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#size-mastery",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/star-spawn-body-body",
@@ -3384,7 +3384,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#star-spawn-body-body",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/transform-object",
@@ -3400,7 +3400,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration#transform-object",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/adaptive-resistance",
@@ -3416,7 +3416,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#adaptive-resistance",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/altered-summons-dual-sphere",
@@ -3434,7 +3434,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#altered-summons-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/bioluminescent-transformation-dual-sphere",
@@ -3452,7 +3452,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#bioluminescent-transformation-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/companion-merger",
@@ -3468,7 +3468,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#companion-merger",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/cursed-form",
@@ -3484,7 +3484,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#cursed-form",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/deep-cover-dual-sphere",
@@ -3502,7 +3502,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#deep-cover-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/devourer-combat",
@@ -3520,7 +3520,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#devourer-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/disarming-transformation-combat",
@@ -3538,7 +3538,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#disarming-transformation-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/extradimensional-gullet-combat",
@@ -3556,7 +3556,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#extradimensional-gullet-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/favored-form",
@@ -3572,7 +3572,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#favored-form",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/fleshwarp-adept",
@@ -3588,7 +3588,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#fleshwarp-adept",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/merged-summons-dual-sphere",
@@ -3606,7 +3606,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#merged-summons-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/mutagenic-enhancements-dual-sphere",
@@ -3624,7 +3624,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#mutagenic-enhancements-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/purrging-transformation-dual-sphere",
@@ -3642,7 +3642,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#purrging-transformation-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/shifting-disguise",
@@ -3658,7 +3658,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#shifting-disguise",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/shifting-mastery",
@@ -3674,7 +3674,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#shifting-mastery",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/swarm-coordination-combat",
@@ -3692,7 +3692,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#swarm-coordination-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/spirit-form-dual-sphere",
@@ -3710,7 +3710,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#spirit-form-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/toxic-webs",
@@ -3726,7 +3726,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#toxic-webs",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/transformation",
@@ -3742,7 +3742,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#transformation",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/twisted-reanimation-dual-sphere",
@@ -3760,7 +3760,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#twisted-reanimation-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/two-headed-adept-combat",
@@ -3778,7 +3778,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#two-headed-adept-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/two-headed-sight-combat",
@@ -3796,7 +3796,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#two-headed-sight-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/two-minds",
@@ -3812,7 +3812,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#two-minds",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/venom-spitter-combat",
@@ -3830,7 +3830,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#venom-spitter-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/venomous-ichor-combat",
@@ -3848,7 +3848,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#venomous-ichor-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/venomous-soul-combat",
@@ -3866,7 +3866,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#venomous-soul-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/web-mastery-combat",
@@ -3884,7 +3884,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#web-mastery-combat",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/wound-manipulator-dual-sphere",
@@ -3902,7 +3902,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#wound-manipulator-dual-sphere",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/beast-soul",
@@ -3918,7 +3918,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#beast-soul",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/fleshwarper",
@@ -3934,7 +3934,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#fleshwarper",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/lycanthropic",
@@ -3950,7 +3950,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#lycanthropic",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/rebound",
@@ -3966,7 +3966,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#rebound",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/transformative-brew",
@@ -3982,7 +3982,7 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#transformative-brew",
   "options": [],
   "file": "alteration.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "alteration/unnatural-transformation",
@@ -3998,6 +3998,1214 @@
   "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#unnatural-transformation",
   "options": [],
   "file": "alteration.json",
+  "approved": true
+ },
+ {
+  "id": "blood/blood-control",
+  "name": "Blood Control",
+  "kind": "sphere ability",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#blood-control",
+  "options": [
+   "Bleed",
+   "Coagulate"
+  ],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/absorb-blood",
+  "name": "Absorb Blood",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#absorb-blood",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/blood-tracking",
+  "name": "Blood Tracking",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#blood-tracking",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/complex-control",
+  "name": "Complex Control",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#complex-control",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/crimson-vortex",
+  "name": "Crimson Vortex",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#crimson-vortex",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/exsanguinating-strike-strike",
+  "name": "Exsanguinating Strike",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#exsanguinating-strike-strike",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/extract-blood-construct",
+  "name": "Extract Blood Construct",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#extract-blood-construct",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/eye-bleed",
+  "name": "Eye Bleed",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#eye-bleed",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/greater-blood-control",
+  "name": "Greater Blood Control",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#greater-blood-control",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/hemo-goblin",
+  "name": "Hemo Goblin",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#hemo-goblin",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/hemokinesis",
+  "name": "Hemokinesis",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#hemokinesis",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/hemorrhage",
+  "name": "Hemorrhage",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#hemorrhage",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/improved-bleed",
+  "name": "Improved Bleed",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#improved-bleed",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/inject",
+  "name": "Inject",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#inject",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/instill-blood-magic-instill",
+  "name": "Instill Blood Magic",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#instill-blood-magic-instill",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/lengthened-control",
+  "name": "Lengthened Control",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#lengthened-control",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/lingering-control",
+  "name": "Lingering Control",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#lingering-control",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/mana-bleed",
+  "name": "Mana Bleed",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#mana-bleed",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/mass-blood-magic-mass",
+  "name": "Mass Blood Magic",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#mass-blood-magic-mass",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/ranged-blood-magic-range",
+  "name": "Ranged Blood Magic",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#ranged-blood-magic-range",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/red-mist",
+  "name": "Red Mist",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#red-mist",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/self-control",
+  "name": "Self Control",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Sphere Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#self-control",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/bloodbind-blood-art",
+  "name": "Bloodbind",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Art Talents",
+  "tags": [
+   "blood art"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#bloodbind-blood-art",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/blood-rebuff-blood-art",
+  "name": "Blood Rebuff",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Art Talents",
+  "tags": [
+   "blood art"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#blood-rebuff-blood-art",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/cystic-growth-blood-art-still",
+  "name": "Cystic Growth",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Art Talents",
+  "tags": [
+   "blood art",
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#cystic-growth-blood-art-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/gory-armaments-blood-art",
+  "name": "Gory Armaments",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Art Talents",
+  "tags": [
+   "blood art"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#gory-armaments-blood-art",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/internal-propulsion-blood-art-quicken",
+  "name": "Internal Propulsion",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Art Talents",
+  "tags": [
+   "blood art",
+   "quicken"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#internal-propulsion-blood-art-quicken",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/martyrs-tithings-blood-art",
+  "name": "Martyr’s Tithings",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Art Talents",
+  "tags": [
+   "blood art"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#martyrs-tithings-blood-art",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/piercing-blood-blood-art",
+  "name": "Piercing Blood",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Art Talents",
+  "tags": [
+   "blood art"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#piercing-blood-blood-art",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/rush-to-the-head-blood-art",
+  "name": "Rush To The Head",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Blood Art Talents",
+  "tags": [
+   "blood art"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#rush-to-the-head-blood-art",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/blood-puppet-quicken",
+  "name": "Blood Puppet",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#blood-puppet-quicken",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/cardiovascular-mastery-quicken-still",
+  "name": "Cardiovascular Mastery",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken",
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#cardiovascular-mastery-quicken-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/control-oxygenation-quicken-still",
+  "name": "Control Oxygenation",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken",
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#control-oxygenation-quicken-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/manipulate-alchemy-quicken-still",
+  "name": "Manipulate Alchemy",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken",
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#manipulate-alchemy-quicken-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/manipulate-density-quicken-still",
+  "name": "Manipulate Density",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken",
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#manipulate-density-quicken-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/manipulate-health-quicken-still",
+  "name": "Manipulate Health",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken",
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#manipulate-health-quicken-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/migraine-quicken",
+  "name": "Migraine",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#migraine-quicken",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/numb-still",
+  "name": "Numb",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#numb-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/redirect-flow-quicken-still",
+  "name": "Redirect Flow",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken",
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#redirect-flow-quicken-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/slick-quicken",
+  "name": "Slick",
+  "kind": "talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Quicken/Still Talents",
+  "tags": [
+   "quicken"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Debilitating Talents 2",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#slick-quicken",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/cardiovascular-ascension-quicken-still",
+  "name": "Cardiovascular Ascension",
+  "kind": "advanced talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Advanced Blood Talents",
+  "tags": [
+   "quicken",
+   "still"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#cardiovascular-ascension-quicken-still",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/drain-lifeblood",
+  "name": "Drain Lifeblood",
+  "kind": "advanced talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Advanced Blood Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#drain-lifeblood",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/essence-manipulation",
+  "name": "Essence Manipulation",
+  "kind": "advanced talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Advanced Blood Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#essence-manipulation",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/overclock",
+  "name": "Overclock",
+  "kind": "advanced talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Advanced Blood Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#overclock",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/puppet-master",
+  "name": "Puppet Master",
+  "kind": "advanced talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Advanced Blood Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#puppet-master",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/sanguine-minion",
+  "name": "Sanguine Minion",
+  "kind": "advanced talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Advanced Blood Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#sanguine-minion",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/sanguiphilia",
+  "name": "Sanguiphilia",
+  "kind": "advanced talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Advanced Blood Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#sanguiphilia",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/union-of-blood",
+  "name": "Union Of Blood",
+  "kind": "advanced talent",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Advanced Blood Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood#union-of-blood",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/blood-construct-mastery",
+  "name": "Blood Construct Mastery",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#blood-construct-mastery",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/blood-potion",
+  "name": "Blood Potion",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#blood-potion",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/blood-thirst",
+  "name": "Blood Thirst",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#blood-thirst",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/bloodrunner",
+  "name": "Bloodrunner",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#bloodrunner",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/bonds-of-blood-and-power-dual-sphere",
+  "name": "Bonds Of Blood And Power",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#bonds-of-blood-and-power-dual-sphere",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/construct-armor",
+  "name": "Construct Armor",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#construct-armor",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/create-humor-familiar",
+  "name": "Create Humor Familiar",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#create-humor-familiar",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/crimson-theurgy-dual-sphere",
+  "name": "Crimson Theurgy",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#crimson-theurgy-dual-sphere",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/elemental-blood",
+  "name": "Elemental Blood",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#elemental-blood",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/formed-construct-dual-sphere",
+  "name": "Formed Construct",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#formed-construct-dual-sphere",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/fount-of-stolen-life-dual-sphere",
+  "name": "Fount Of Stolen Life",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#fount-of-stolen-life-dual-sphere",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/hemothermia-dual-sphere",
+  "name": "Hemothermia",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#hemothermia-dual-sphere",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/hypochondriacs-terror-dual-sphere",
+  "name": "Hypochondriac’s Terror",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#hypochondriacs-terror-dual-sphere",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/reservoir",
+  "name": "Reservoir",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#reservoir",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/salvaging-execution",
+  "name": "Salvaging Execution",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#salvaging-execution",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/surgeons-trade-secrets",
+  "name": "Surgeon’s Trade Secrets",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#surgeons-trade-secrets",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/transfusion",
+  "name": "Transfusion",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#transfusion",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/vampires-guile-dual-sphere",
+  "name": "Vampire’s Guile",
+  "kind": "feat",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Feats#vampires-guile-dual-sphere",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/cruoromancy",
+  "name": "Cruoromancy",
+  "kind": "drawback",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#cruoromancy",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/hemokinetic",
+  "name": "Hemokinetic",
+  "kind": "drawback",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#hemokinetic",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/humors",
+  "name": "Humors",
+  "kind": "drawback",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#humors",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/limited-acceleration",
+  "name": "Limited Acceleration",
+  "kind": "drawback",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#limited-acceleration",
+  "options": [],
+  "file": "blood.json",
+  "approved": false
+ },
+ {
+  "id": "blood/self-controlled",
+  "name": "Self-Controlled",
+  "kind": "drawback",
+  "sphere": "Blood",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Blood/Blood-Sphere-Drawbacks#self-controlled",
+  "options": [],
+  "file": "blood.json",
   "approved": false
  },
  {
