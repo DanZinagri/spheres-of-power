@@ -2825,7 +2825,7 @@ FEAT_PAGES_SKIP = re.compile(r"^Old |^Associated Feats|^Feats$|^Dual Sphere Feat
 FEAT_SYSTEMS = {"might": "Spheres of Might", "champion": "Champions", "guile": "Spheres of Guile",
                 "guile-alt": "Spheres of Guile"}
 FEAT_TYPE_CASE = {"dual sphere": "Dual Sphere", "item creation": "Item Creation", "wild magic": "Wild Magic"}
-FEATS_APPROVED = False
+FEATS_APPROVED = True
 
 
 def _feat_types(heading: str) -> tuple[str, list[str], list[str], str, list[str]]:
@@ -2844,6 +2844,16 @@ def _feat_types(heading: str) -> tuple[str, list[str], list[str], str, list[str]
         elif t:
             types.append(FEAT_TYPE_CASE.get(t.lower(), t[0].upper() + t[1:]))
     return name, list(dict.fromkeys(types)) or ["General"], ability, replaces, tags
+
+
+def _feat_summary(text: str, limit: int = 160) -> str:
+    """A feat's benefit as one short plain line for pickers: its first sentence, cut at a word."""
+    t = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", text)
+    t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)
+    t = re.sub(r"[*_`]|<[^>]+>", "", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    t = re.match(r"(.+?[.!?])(?:\s|$)", t).group(1) if re.match(r"(.+?[.!?])(?:\s|$)", t) else t
+    return t if len(t) <= limit else t[:limit].rsplit(" ", 1)[0] + "…"
 
 
 def build_feat_compendium() -> dict[str, int]:
@@ -2933,7 +2943,9 @@ def build_feat_compendium() -> dict[str, int]:
         {"category": "feats", "approved": FEATS_APPROVED, "entries": entries}, ensure_ascii=False, indent=1),
         encoding="utf-8")
     index = [{k: e[k] for k in ("id", "name", "system", "types", "spheres", "prerequisites", "source", "url")}
-             | {"file": "feats.json"} for e in entries]
+             | {"summary": _feat_summary(m.group(1) if (m := re.search(r"\*\*Benefits?\s*:?\*\*:?\s*(.+)", e["md"]))
+                                         else e["md"]),
+                "file": "feats.json"} for e in entries]
     pf = COMPENDIUM_OUT / "pf1e" / "feats.json"
     pf_entries = json.loads(pf.read_text(encoding="utf-8"))["entries"] if pf.exists() else []
     pf_index = []
@@ -2943,7 +2955,8 @@ def build_feat_compendium() -> dict[str, int]:
         pf_index.append({"id": "pf1e/" + re.sub(r"[^a-z0-9]+", "-", e["name"].lower()).strip("-"), "name": name,
                          "system": "Pathfinder 1e", "types": types, "spheres": [],
                          "prerequisites": e["fields"].get("Prerequisites", ""), "source": e["source"],
-                         "url": e["url"], "file": "pf1e/feats.json", "ref": e["name"]})
+                         "url": e["url"], "summary": _feat_summary(e["fields"].get("Benefit", "")),
+                         "file": "pf1e/feats.json", "ref": e["name"]})
     index += pf_index
     (COMPENDIUM_OUT / "feats-index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1),
                                                      encoding="utf-8")
