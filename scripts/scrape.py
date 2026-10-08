@@ -2507,6 +2507,23 @@ COMPENDIUM = {
         ],
         "not_options": r"^Table",
     },
+    "Warleader": {
+        "system": "Spheres of Might",
+        "approved": False,
+        "pages": [
+            ("Warleader (warleader-sphere)", "Battlecry", "sphere ability", 2),
+            # packages and the sphere ability each grants (shout, engage tactics)
+            ("Warleader (warleader-sphere)", "Shout Package", "package", 2, 3),
+            ("Warleader (warleader-sphere)", "Tactic Package", "package", 2, 3),
+            ("Warleader (warleader-sphere)", "Warleader Talents", "talent", 3),
+            ("Warleader (warleader-sphere)", "Shout and Tactic Talents", "talent", 3),
+            ("Warleader (warleader-sphere)", "Legendary Warleader Talents", "legendary talent", 3),
+            ("Warleader Sphere Drawbacks", "(page)", "drawback", 4),
+            ("Practitioner Feats", "New Feats", "feat", 4, {"prereq": r"Warleader", "group": "General"}),
+        ],
+        # the packages' rules sections, not abilities
+        "not_options": r"^Table|^About ",
+    },
     # a class rather than a sphere (Polished Commander & Warleader): its class features and the
     # options it picks from; its archetypes wait for archetype mapping
     "Commander": {

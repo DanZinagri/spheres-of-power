@@ -2355,6 +2355,1042 @@
   "approved": true
  },
  {
+  "id": "warleader/battlecry",
+  "name": "Battlecry",
+  "kind": "sphere ability",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#battlecry",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/shout-package",
+  "name": "Shout Package",
+  "kind": "package",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#shout-package",
+  "options": [
+   "Shout"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/tactic-package",
+  "name": "Tactic Package",
+  "kind": "package",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#tactic-package",
+  "options": [
+   "Engage Tactics"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/bandmaster-utility",
+  "name": "Bandmaster",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#bandmaster-utility",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/battlecry-mastery",
+  "name": "Battlecry Mastery",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#battlecry-mastery",
+  "options": [
+   "Drumbeat"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/decorated-commander-utility",
+  "name": "Decorated Commander",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#decorated-commander-utility",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/heraldry-utility",
+  "name": "Heraldry",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#heraldry-utility",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/press-the-attack",
+  "name": "Press The Attack",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#press-the-attack",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/pride-leader-stance",
+  "name": "Pride Leader",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [
+   "stance"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#pride-leader-stance",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/signal-coordinator",
+  "name": "Signal Coordinator",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#signal-coordinator",
+  "options": [
+   "Complex Commands",
+   "Shaped Commands"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/soldiers-countenance-utility",
+  "name": "Soldier’s Countenance",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#soldiers-countenance-utility",
+  "options": [
+   "Tempered Beseechment",
+   "Verbal Counter"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/wargames",
+  "name": "Wargames",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#wargames",
+  "options": [
+   "Combat Stratagem",
+   "Tactical Rebrief"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/aggression-doctrine",
+  "name": "Aggression Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#aggression-doctrine",
+  "options": [
+   "Fierce Shout",
+   "Synchronized Strikes"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/alertness-doctrine-shout-tactic",
+  "name": "Alertness Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#alertness-doctrine-shout-tactic",
+  "options": [
+   "On Alert",
+   "Stay Alert!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/antimagic-doctrine-shout-tactic",
+  "name": "Antimagic Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#antimagic-doctrine-shout-tactic",
+  "options": [
+   "Ground Them!",
+   "Warded Ranks"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/control-doctrine-shout-tactic",
+  "name": "Control Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#control-doctrine-shout-tactic",
+  "options": [
+   "Face Me!",
+   "Tandem Setup"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/covert-doctrine-shout-tactic",
+  "name": "Covert Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#covert-doctrine-shout-tactic",
+  "options": [
+   "Covert Operations",
+   "Over Here!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/deescalation-doctrine-shout-tactic",
+  "name": "Deescalation Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#deescalation-doctrine-shout-tactic",
+  "options": [
+   "Avoidance Strategy",
+   "Stand Down!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/defense-doctrine-shout-tactic",
+  "name": "Defense Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#defense-doctrine-shout-tactic",
+  "options": [
+   "Shield Wall",
+   "Stand Firm!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/fearmonger-doctrine-shout-tactic",
+  "name": "Fearmonger Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#fearmonger-doctrine-shout-tactic",
+  "options": [
+   "Daunting Presence",
+   "Fear Me!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/mobility-doctrine-shout-tactic",
+  "name": "Mobility Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#mobility-doctrine-shout-tactic",
+  "options": [
+   "Mobile Army",
+   "Reposition!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/safety-doctrine-shout-tactic",
+  "name": "Safety Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#safety-doctrine-shout-tactic",
+  "options": [
+   "Safeguarding Measures",
+   "Warning!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/survival-doctrine-shout-tactic",
+  "name": "Survival Doctrine",
+  "kind": "talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Shout and Tactic Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#survival-doctrine-shout-tactic",
+  "options": [
+   "Against The Tide",
+   "With Me!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/action-doctrine-shout-tactic",
+  "name": "Action Doctrine",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#action-doctrine-shout-tactic",
+  "options": [
+   "It's Go Time",
+   "Assemble!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/armies-of-the-dead-shout-tactic",
+  "name": "Armies of the Dead",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#armies-of-the-dead-shout-tactic",
+  "options": [
+   "Crypt Tongue",
+   "Darklands Cry",
+   "Unending Legion"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/clarion-caller-shout",
+  "name": "Clarion Caller",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [
+   "shout"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#clarion-caller-shout",
+  "options": [
+   "Piercing Voice",
+   "Resonating Chorus",
+   "Return and Live!"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/commanding-shout-shout",
+  "name": "Commanding Shout",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [
+   "shout"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#commanding-shout-shout",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/doctrine-specialist",
+  "name": "Doctrine Specialist",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#doctrine-specialist",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/layered-commands-dual",
+  "name": "Layered Commands",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [],
+  "talentTags": [
+   "dual"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#layered-commands-dual",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/grand-marshals-commands",
+  "name": "Grand Marshal's Commands",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#grand-marshals-commands",
+  "options": [
+   "Dead Man's Orders",
+   "Eternal Standard",
+   "Thunderous Commands"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/masters-presence-approach-utility",
+  "name": "Master's Presence",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [],
+  "talentTags": [
+   "approach",
+   "utility"
+  ],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#masters-presence-approach-utility",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/mastered-tactic-tactic",
+  "name": "Mastered Tactic",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#mastered-tactic-tactic",
+  "options": [
+   "Aggressive Flanking"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/rout-their-forces",
+  "name": "Rout Their Forces",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#rout-their-forces",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/perimeter-doctrine-shout-tactic",
+  "name": "Perimeter Doctrine",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [
+   "shout",
+   "tactic"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#perimeter-doctrine-shout-tactic",
+  "options": [
+   "Get Back!",
+   "Zone of Control"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/persisting-influence",
+  "name": "Persisting Influence",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#persisting-influence",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/the-lion-prevails",
+  "name": "The Lion Prevails",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#the-lion-prevails",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/warmasters-reservoir",
+  "name": "Warmaster's Reservoir",
+  "kind": "legendary talent",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Legendary Warleader Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#warmasters-reservoir",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/loudmouth",
+  "name": "Loudmouth",
+  "kind": "drawback",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#loudmouth",
+  "options": [
+   "Early Warning"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/focused-command",
+  "name": "Focused Command",
+  "kind": "drawback",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#focused-command",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/hype-beast",
+  "name": "Hype Beast",
+  "kind": "drawback",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#hype-beast",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/music-man",
+  "name": "Music Man",
+  "kind": "drawback",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#music-man",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/simple-strategies",
+  "name": "Simple Strategies",
+  "kind": "drawback",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#simple-strategies",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/amateur-field-officer",
+  "name": "Amateur Field Officer",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#amateur-field-officer",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/battle-fanfare-combat",
+  "name": "Battle Fanfare",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#battle-fanfare-combat",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/booming-boast-combat-dual-sphere",
+  "name": "Booming Boast",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat",
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#booming-boast-combat-dual-sphere",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/constant-chatter-combat",
+  "name": "Constant Chatter",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#constant-chatter-combat",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/drink-and-directive-combat-dual-sphere",
+  "name": "Drink and Directive",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat",
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: Radiant and Righteous",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#drink-and-directive-combat-dual-sphere",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/escutcheon-combat",
+  "name": "Escutcheon",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#escutcheon-combat",
+  "options": [
+   "Clangorous Shout"
+  ],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/hunting-party-combat",
+  "name": "Hunting Party",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#hunting-party-combat",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/improvised-doctrine-combat",
+  "name": "Improvised Doctrine",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Spheres Apocrypha: The Inheritor and Improved Atavism Heritages",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#improvised-doctrine-combat",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/marking-quarry-combat",
+  "name": "Marking Quarry",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#marking-quarry-combat",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/petrifying-pennant",
+  "name": "Petrifying Pennant",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#petrifying-pennant",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/strategy-to-action-combat",
+  "name": "Strategy to Action",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Leadership",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#strategy-to-action-combat",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/tactical-patrol-combat",
+  "name": "Tactical Patrol",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#tactical-patrol-combat",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
+  "id": "warleader/tacticians-acumen-combat",
+  "name": "Tactician's Acumen",
+  "kind": "feat",
+  "sphere": "Warleader",
+  "system": "Spheres of Might",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "Polished Commander & Warleader",
+  "status": "current",
+  "url": "Spheres-Of-Might/Practitioner-Feats#tacticians-acumen-combat",
+  "options": [],
+  "file": "warleader.json",
+  "approved": false
+ },
+ {
   "id": "commander/combat-training",
   "name": "Combat Training",
   "kind": "class feature",
