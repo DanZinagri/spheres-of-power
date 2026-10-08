@@ -2543,7 +2543,7 @@ COMPENDIUM = {
     },
     "Conjuration": {
         "system": "Spheres of Power",
-        "approved": False,
+        "approved": True,
         "pages": [
             # Summon, its base forms and companion features (a subsection of its text, not options)
             ("Conjuration", "Summon", "sphere ability", 2, 5),
@@ -2554,6 +2554,22 @@ COMPENDIUM = {
             ("Conjuration", "Advanced Conjuration Talents", "advanced talent", 4),
             ("Conjuration Sphere Feats", "(page)", "feat", 4),
             ("Conjuration Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
+    },
+    "Creation": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Alter (with Destroy and Repair) and Create (its clarifications stay in its text)
+            ("Creation", "Alter", "sphere ability", 2, 4),
+            ("Creation", "Create", "sphere ability", 2, 5),
+            ("Creation", "Creation Talents", "talent", 4),
+            ("Creation", "Alter Talents", "talent", 4),
+            ("Creation", "Material Talents", "talent", 4),
+            ("Creation", "Advanced Creation Talents", "advanced talent", 4),
+            ("Creation Sphere Feats", "(page)", "feat", 4),
+            ("Creation Sphere Drawbacks", "(page)", "drawback", 4),
         ],
         "not_options": r"^Table|^Note",
     },

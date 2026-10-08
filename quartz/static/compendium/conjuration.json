@@ -1,7 +1,7 @@
 {
  "sphere": "Conjuration",
  "system": "Spheres of Power",
- "approved": false,
+ "approved": true,
  "entries": [
   {
    "id": "conjuration/summon",
