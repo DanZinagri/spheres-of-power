@@ -2355,6 +2355,1652 @@
   "approved": true
  },
  {
+  "id": "alteration/shapeshift",
+  "name": "Shapeshift",
+  "kind": "sphere ability",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#shapeshift",
+  "options": [
+   "Blank Transformation"
+  ],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/adaptive-physicality-utility",
+  "name": "Adaptive Physicality",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#adaptive-physicality-utility",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/additional-limbs",
+  "name": "Additional Limbs",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#additional-limbs",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/agile",
+  "name": "Agile",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#agile",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/animal-mind",
+  "name": "Animal Mind",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#animal-mind",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/bestial-reflexes",
+  "name": "Bestial Reflexes",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#bestial-reflexes",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/bestial-spirit",
+  "name": "Bestial Spirit",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#bestial-spirit",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/bully",
+  "name": "Bully",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#bully",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/extreme-adaptation",
+  "name": "Extreme Adaptation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#extreme-adaptation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/giant-traits",
+  "name": "Giant Traits",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#giant-traits",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/greater-changes",
+  "name": "Greater Changes",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#greater-changes",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/instill-shapeshift-instill",
+  "name": "Instill Shapeshift",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [
+   "instill"
+  ],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#instill-shapeshift-instill",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/lingering-transformation",
+  "name": "Lingering Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#lingering-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/mass-alteration-mass",
+  "name": "Mass Alteration",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [
+   "mass"
+  ],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#mass-alteration-mass",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/mimicry",
+  "name": "Mimicry",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#mimicry",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/morph",
+  "name": "Morph",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Thaumic Potential",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#morph",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/morphic-weapon",
+  "name": "Morphic Weapon",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#morphic-weapon",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/odiferous",
+  "name": "Odiferous",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#odiferous",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/perfect-imitation-utility",
+  "name": "Perfect Imitation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [
+   "utility"
+  ],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#perfect-imitation-utility",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/powerful-limbs",
+  "name": "Powerful Limbs",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#powerful-limbs",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/prickly",
+  "name": "Prickly",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#prickly",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/ranged-alteration-range",
+  "name": "Ranged Alteration",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [
+   "range"
+  ],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#ranged-alteration-range",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/retain-ability",
+  "name": "Retain Ability",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#retain-ability",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/size-change",
+  "name": "Size Change",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#size-change",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/steal-shape",
+  "name": "Steal Shape",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#steal-shape",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/swarm-shape",
+  "name": "Swarm Shape",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#swarm-shape",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/tentacles",
+  "name": "Tentacles",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#tentacles",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/transforming-strike-strike",
+  "name": "Transforming Strike",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [
+   "strike"
+  ],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#transforming-strike-strike",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/twisted-shapeshift",
+  "name": "Twisted Shapeshift",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#twisted-shapeshift",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/vitality",
+  "name": "Vitality",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Diamond Spheres: Erudition & Esoterica",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#vitality",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/aberrant-body-body",
+  "name": "Aberrant Body",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Body Talents",
+  "tags": [
+   "body"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#aberrant-body-body",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/cosmic-body-body",
+  "name": "Cosmic Body",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Body Talents",
+  "tags": [
+   "body"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#cosmic-body-body",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/fey-body-body",
+  "name": "Fey Body",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Body Talents",
+  "tags": [
+   "body"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#fey-body-body",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/muensterous-traits-body",
+  "name": "Muensterous Traits",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Body Talents",
+  "tags": [
+   "body"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#muensterous-traits-body",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/outsider-body-body",
+  "name": "Outsider Body",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Body Talents",
+  "tags": [
+   "body"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#outsider-body-body",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/protean-mastery-body",
+  "name": "Protean Mastery",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Body Talents",
+  "tags": [
+   "body"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#protean-mastery-body",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/undead-body-body",
+  "name": "Undead Body",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Body Talents",
+  "tags": [
+   "body"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#undead-body-body",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/animalistic-transformation-transformation",
+  "name": "Animalistic Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#animalistic-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/anthropomorphic-transformation-transformation",
+  "name": "Anthropomorphic Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#anthropomorphic-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/aquan-transformation-transformation",
+  "name": "Aquan Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#aquan-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/avian-transformation-transformation",
+  "name": "Avian Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#avian-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/dragon-transformation-transformation",
+  "name": "Dragon Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#dragon-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/elemental-transformation-transformation",
+  "name": "Elemental Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#elemental-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/object-transformation-transformation",
+  "name": "Object Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#object-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/ooze-transformation-transformation",
+  "name": "Ooze Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#ooze-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/orb-transformation-transformation",
+  "name": "Orb Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#orb-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/plant-transformation-transformation",
+  "name": "Plant Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#plant-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/serpentine-transformation-transformation",
+  "name": "Serpentine Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#serpentine-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/subterranean-transformation-transformation",
+  "name": "Subterranean Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#subterranean-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/vermin-transformation-transformation",
+  "name": "Vermin Transformation",
+  "kind": "talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Transformation Talents",
+  "tags": [
+   "transformation"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#vermin-transformation-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/diffuse-swarm",
+  "name": "Diffuse Swarm",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#diffuse-swarm",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/elemental-purity",
+  "name": "Elemental Purity",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#elemental-purity",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/energy-manipulation",
+  "name": "Energy Manipulation",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#energy-manipulation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/extreme-changes",
+  "name": "Extreme Changes",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#extreme-changes",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/fusion",
+  "name": "Fusion",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#fusion",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/homogenize",
+  "name": "Homogenize",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#homogenize",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/manipulate-healing",
+  "name": "Manipulate Healing",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#manipulate-healing",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/permanent-transformation",
+  "name": "Permanent Transformation",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#permanent-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/signature-trait",
+  "name": "Signature Trait",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#signature-trait",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/size-mastery",
+  "name": "Size Mastery",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#size-mastery",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/star-spawn-body-body",
+  "name": "Star-Spawn Body",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [
+   "body"
+  ],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#star-spawn-body-body",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/transform-object",
+  "name": "Transform Object",
+  "kind": "advanced talent",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Advanced Alteration Talents",
+  "tags": [],
+  "talentTags": [],
+  "source": "Ultimate Spheres of Power",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration#transform-object",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/adaptive-resistance",
+  "name": "Adaptive Resistance",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#adaptive-resistance",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/altered-summons-dual-sphere",
+  "name": "Altered Summons",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [
+   "Dual Sphere"
+  ],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#altered-summons-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/bioluminescent-transformation-dual-sphere",
+  "name": "Bioluminescent Transformation",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#bioluminescent-transformation-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/companion-merger",
+  "name": "Companion Merger",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#companion-merger",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/cursed-form",
+  "name": "Cursed Form",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#cursed-form",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/deep-cover-dual-sphere",
+  "name": "Deep Cover",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#deep-cover-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/devourer-combat",
+  "name": "Devourer",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#devourer-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/disarming-transformation-combat",
+  "name": "Disarming Transformation",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#disarming-transformation-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/extradimensional-gullet-combat",
+  "name": "Extradimensional Gullet",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#extradimensional-gullet-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/favored-form",
+  "name": "Favored Form",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#favored-form",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/fleshwarp-adept",
+  "name": "Fleshwarp Adept",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#fleshwarp-adept",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/merged-summons-dual-sphere",
+  "name": "Merged Summons",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#merged-summons-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/mutagenic-enhancements-dual-sphere",
+  "name": "Mutagenic Enhancements",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#mutagenic-enhancements-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/purrging-transformation-dual-sphere",
+  "name": "Purrging Transformation",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#purrging-transformation-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/shifting-disguise",
+  "name": "Shifting Disguise",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#shifting-disguise",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/shifting-mastery",
+  "name": "Shifting Mastery",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#shifting-mastery",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/swarm-coordination-combat",
+  "name": "Swarm Coordination",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#swarm-coordination-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/spirit-form-dual-sphere",
+  "name": "Spirit Form",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#spirit-form-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/toxic-webs",
+  "name": "Toxic Webs",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#toxic-webs",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/transformation",
+  "name": "Transformation",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/twisted-reanimation-dual-sphere",
+  "name": "Twisted Reanimation",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#twisted-reanimation-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/two-headed-adept-combat",
+  "name": "Two-Headed Adept",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#two-headed-adept-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/two-headed-sight-combat",
+  "name": "Two-Headed Sight",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#two-headed-sight-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/two-minds",
+  "name": "Two Minds",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#two-minds",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/venom-spitter-combat",
+  "name": "Venom Spitter",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#venom-spitter-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/venomous-ichor-combat",
+  "name": "Venomous Ichor",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#venomous-ichor-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/venomous-soul-combat",
+  "name": "Venomous Soul",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#venomous-soul-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/web-mastery-combat",
+  "name": "Web Mastery",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Combat"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#web-mastery-combat",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/wound-manipulator-dual-sphere",
+  "name": "Wound Manipulator",
+  "kind": "feat",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "General",
+  "tags": [
+   "Dual Sphere"
+  ],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Feats#wound-manipulator-dual-sphere",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/beast-soul",
+  "name": "Beast Soul",
+  "kind": "drawback",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#beast-soul",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/fleshwarper",
+  "name": "Fleshwarper",
+  "kind": "drawback",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#fleshwarper",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/lycanthropic",
+  "name": "Lycanthropic",
+  "kind": "drawback",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#lycanthropic",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/rebound",
+  "name": "Rebound",
+  "kind": "drawback",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#rebound",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/transformative-brew",
+  "name": "Transformative Brew",
+  "kind": "drawback",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#transformative-brew",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
+  "id": "alteration/unnatural-transformation",
+  "name": "Unnatural Transformation",
+  "kind": "drawback",
+  "sphere": "Alteration",
+  "system": "Spheres of Power",
+  "group": "Drawbacks",
+  "tags": [],
+  "talentTags": [],
+  "source": "",
+  "status": "current",
+  "url": "Spheres-Of-Power/Alteration/Alteration-Sphere-Drawbacks#unnatural-transformation",
+  "options": [],
+  "file": "alteration.json",
+  "approved": false
+ },
+ {
   "id": "warleader/battlecry",
   "name": "Battlecry",
   "kind": "sphere ability",
@@ -2368,7 +4014,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#battlecry",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/shout-package",
@@ -2386,7 +4032,7 @@
    "Shout"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/tactic-package",
@@ -2404,7 +4050,7 @@
    "Engage Tactics"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/bandmaster-utility",
@@ -2422,7 +4068,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#bandmaster-utility",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/battlecry-mastery",
@@ -2440,7 +4086,7 @@
    "Drumbeat"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/decorated-commander-utility",
@@ -2458,7 +4104,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#decorated-commander-utility",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/heraldry-utility",
@@ -2476,7 +4122,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#heraldry-utility",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/press-the-attack",
@@ -2492,7 +4138,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#press-the-attack",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/pride-leader-stance",
@@ -2510,7 +4156,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#pride-leader-stance",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/signal-coordinator",
@@ -2529,7 +4175,7 @@
    "Shaped Commands"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/soldiers-countenance-utility",
@@ -2550,7 +4196,7 @@
    "Verbal Counter"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/wargames",
@@ -2569,7 +4215,7 @@
    "Tactical Rebrief"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/aggression-doctrine",
@@ -2588,7 +4234,7 @@
    "Synchronized Strikes"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/alertness-doctrine-shout-tactic",
@@ -2610,7 +4256,7 @@
    "Stay Alert!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/antimagic-doctrine-shout-tactic",
@@ -2632,7 +4278,7 @@
    "Warded Ranks"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/control-doctrine-shout-tactic",
@@ -2654,7 +4300,7 @@
    "Tandem Setup"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/covert-doctrine-shout-tactic",
@@ -2676,7 +4322,7 @@
    "Over Here!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/deescalation-doctrine-shout-tactic",
@@ -2698,7 +4344,7 @@
    "Stand Down!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/defense-doctrine-shout-tactic",
@@ -2720,7 +4366,7 @@
    "Stand Firm!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/fearmonger-doctrine-shout-tactic",
@@ -2742,7 +4388,7 @@
    "Fear Me!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/mobility-doctrine-shout-tactic",
@@ -2764,7 +4410,7 @@
    "Reposition!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/safety-doctrine-shout-tactic",
@@ -2786,7 +4432,7 @@
    "Warning!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/survival-doctrine-shout-tactic",
@@ -2808,7 +4454,7 @@
    "With Me!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/action-doctrine-shout-tactic",
@@ -2830,7 +4476,7 @@
    "Assemble!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/armies-of-the-dead-shout-tactic",
@@ -2853,7 +4499,7 @@
    "Unending Legion"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/clarion-caller-shout",
@@ -2875,7 +4521,7 @@
    "Return and Live!"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/commanding-shout-shout",
@@ -2893,7 +4539,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#commanding-shout-shout",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/doctrine-specialist",
@@ -2909,7 +4555,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#doctrine-specialist",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/layered-commands-dual",
@@ -2927,7 +4573,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#layered-commands-dual",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/grand-marshals-commands",
@@ -2947,7 +4593,7 @@
    "Thunderous Commands"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/masters-presence-approach-utility",
@@ -2966,7 +4612,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#masters-presence-approach-utility",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/mastered-tactic-tactic",
@@ -2986,7 +4632,7 @@
    "Aggressive Flanking"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/rout-their-forces",
@@ -3002,7 +4648,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#rout-their-forces",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/perimeter-doctrine-shout-tactic",
@@ -3024,7 +4670,7 @@
    "Zone of Control"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/persisting-influence",
@@ -3040,7 +4686,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#persisting-influence",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/the-lion-prevails",
@@ -3056,7 +4702,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#the-lion-prevails",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/warmasters-reservoir",
@@ -3072,7 +4718,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-(warleader-sphere)#warmasters-reservoir",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/loudmouth",
@@ -3090,7 +4736,7 @@
    "Early Warning"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/focused-command",
@@ -3106,7 +4752,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#focused-command",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/hype-beast",
@@ -3122,7 +4768,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#hype-beast",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/music-man",
@@ -3138,7 +4784,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#music-man",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/simple-strategies",
@@ -3154,7 +4800,7 @@
   "url": "Spheres-Of-Might/Warleader-(warleader-sphere)/Warleader-Sphere-Drawbacks#simple-strategies",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/amateur-field-officer",
@@ -3170,7 +4816,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#amateur-field-officer",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/battle-fanfare-combat",
@@ -3188,7 +4834,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#battle-fanfare-combat",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/booming-boast-combat-dual-sphere",
@@ -3207,7 +4853,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#booming-boast-combat-dual-sphere",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/constant-chatter-combat",
@@ -3225,7 +4871,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#constant-chatter-combat",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/drink-and-directive-combat-dual-sphere",
@@ -3244,7 +4890,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#drink-and-directive-combat-dual-sphere",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/escutcheon-combat",
@@ -3264,7 +4910,7 @@
    "Clangorous Shout"
   ],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/hunting-party-combat",
@@ -3282,7 +4928,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#hunting-party-combat",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/improvised-doctrine-combat",
@@ -3300,7 +4946,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#improvised-doctrine-combat",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/marking-quarry-combat",
@@ -3318,7 +4964,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#marking-quarry-combat",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/petrifying-pennant",
@@ -3334,7 +4980,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#petrifying-pennant",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/strategy-to-action-combat",
@@ -3352,7 +4998,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#strategy-to-action-combat",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/tactical-patrol-combat",
@@ -3370,7 +5016,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#tactical-patrol-combat",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "warleader/tacticians-acumen-combat",
@@ -3388,7 +5034,7 @@
   "url": "Spheres-Of-Might/Practitioner-Feats#tacticians-acumen-combat",
   "options": [],
   "file": "warleader.json",
-  "approved": false
+  "approved": true
  },
  {
   "id": "commander/combat-training",

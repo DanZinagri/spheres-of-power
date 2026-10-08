@@ -23,8 +23,8 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Item Creation | 20 | 28 |
 | Racial | 42 | — |
 | Monster | 3 | 27 |
-| Squadron | 28 | — |
 | Critical | — | 28 |
+| Squadron | 28 | — |
 | Admixture | 24 | — |
 | Aristeia | 23 | — |
 | Counterspell | 20 | — |
@@ -33,44 +33,44 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Conduit | — | 18 |
 | Gizmo | 17 | — |
 | Stare | — | 16 |
-| Weapon Mastery | — | 16 |
 | Protokinesis | 16 | — |
 | Faction | — | 16 |
+| Weapon Mastery | — | 16 |
 | Companion | 15 | — |
-| Shield Mastery | — | 14 |
 | Meditation | — | 14 |
+| Shield Mastery | — | 14 |
 | Performance | — | 13 |
 | Wild Magic | 12 | — |
-| Necrosis | 12 | — |
 | Proxy | 12 | — |
+| Necrosis | 12 | — |
 | Shield Style | — | 12 |
 | Defiler | 12 | — |
-| Purring | 11 | — |
 | Surreal | 11 | — |
-| Channeling | 11 | — |
 | Armor Mastery | — | 11 |
+| Channeling | 11 | — |
+| Purring | 11 | — |
 | Rune | 10 | — |
-| Alignment | — | 9 |
-| Panache | — | 9 |
 | Armor Style | — | 9 |
 | Esoteric | — | 9 |
+| Alignment | — | 9 |
+| Panache | — | 9 |
 | Origin | — | 8 |
 | Achievement | — | 8 |
-| Blood Hex | — | 7 |
 | Damnation | 3 | 4 |
 | Theurge | 7 | — |
+| Blood Hex | — | 7 |
 | Combination | — | 7 |
-| Betrayal | — | 6 |
-| Trick | — | 6 |
-| Plague | 6 | — |
 | Chance | 6 | — |
+| Trick | — | 6 |
+| Betrayal | — | 6 |
+| Plague | 6 | — |
 | Anathema | 5 | — |
-| Targeting | — | 4 |
 | Gathlain Court Title | — | 4 |
+| Targeting | — | 4 |
 | Words of Power | — | 3 |
+| Called Shot | — | 2 |
 | Luck | 2 | — |
 | Hero Point | — | 2 |
-| Called Shot | — | 2 |
 | Coven | — | 2 |
 | Familiar | — | 1 |
 

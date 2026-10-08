@@ -2507,9 +2507,24 @@ COMPENDIUM = {
         ],
         "not_options": r"^Table",
     },
+    "Alteration": {
+        "system": "Spheres of Power",
+        "approved": False,
+        "pages": [
+            # Shapeshift and the Blank Transformation every Alteration user has
+            ("Alteration", "Shapeshift", "sphere ability", 2, 4),
+            ("Alteration", "Alteration Talents", "talent", 4),
+            ("Alteration", "Body Talents", "talent", 4),
+            ("Alteration", "Transformation Talents", "talent", 4),
+            ("Alteration", "Advanced Alteration Talents", "advanced talent", 4),
+            ("Alteration Sphere Feats", "(page)", "feat", 4),
+            ("Alteration Sphere Drawbacks", "(page)", "drawback", 4),
+        ],
+        "not_options": r"^Table|^Note",
+    },
     "Warleader": {
         "system": "Spheres of Might",
-        "approved": False,
+        "approved": True,
         "pages": [
             ("Warleader (warleader-sphere)", "Battlecry", "sphere ability", 2),
             # packages and the sphere ability each grants (shout, engage tactics)
@@ -2630,8 +2645,8 @@ def build_compendium() -> dict[str, int]:
                 name, tags, kinds = _split_tags(lines[k].lstrip("#"))
                 opts_at = [j for j in range(k + 1, stop) if (m := re.match(r"(#{1,6}) (.+)$", lines[j]))
                            and len(m.group(1)) == olevel and not not_option.search(m.group(2).strip())]
-                intro_end = opts_at[0] if opts_at else stop
                 options = []
+                covered: set[int] = set()
                 for i, j in enumerate(opts_at):
                     oend = next((x for x in range(j + 1, stop) if (m := re.match(r"(#{1,6}) ", lines[x]))
                                  and len(m.group(1)) <= olevel and not not_option.search(lines[x].lstrip("# "))),
@@ -2639,7 +2654,10 @@ def build_compendium() -> dict[str, int]:
                     oname, otags, okinds = _split_tags(lines[j].lstrip("#"))
                     options.append({"name": oname, "tags": otags, "talentTags": okinds,
                                     "anchor": ids[j], "md": "\n".join(lines[j + 1:oend]).strip()})
-                intro = "\n".join(lines[k + 1:intro_end]).strip()
+                    covered.update(range(j, oend))
+                # the entry's own text: everything under it outside its options (rules sections after
+                # an option, like Shapeshift's creature type table, included)
+                intro = "\n".join(lines[x] for x in range(k + 1, stop) if x not in covered).strip()
                 prereq = re.search(r"\*\*Prerequisites?:\*\*\s*(.+)", "\n".join(lines[k + 1:stop]))
                 entry = {
                     "id": f"{_norm(sphere).replace(' ', '-')}/{ids[k]}",
