@@ -22328,10 +22328,10 @@
  },
  {
   "id": "pf1e/battle-cry-dtt",
-  "name": "Battle Cry",
+  "name": "Battle Cry (DTT)",
   "system": "Pathfinder 1e",
   "types": [
-   "DTT"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Bardic performance class feature.",
@@ -45715,10 +45715,10 @@
  },
  {
   "id": "pf1e/inner-light-boa",
-  "name": "Inner Light",
+  "name": "Inner Light (BoA)",
   "system": "Pathfinder 1e",
   "types": [
-   "BoA"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Aasimar, daylight spell-like ability.",
@@ -45730,10 +45730,10 @@
  },
  {
   "id": "pf1e/inner-light-uw",
-  "name": "Inner Light",
+  "name": "Inner Light (UW)",
   "system": "Pathfinder 1e",
   "types": [
-   "UW"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Wis 13, ghoran.",
@@ -51786,10 +51786,10 @@
  },
  {
   "id": "pf1e/noble-scion-cheliax",
-  "name": "Noble Scion",
+  "name": "Noble Scion (Cheliax)",
   "system": "Pathfinder 1e",
   "types": [
-   "Cheliax"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Cheliax affinity, member of Chelish noble house.",
@@ -51801,10 +51801,10 @@
  },
  {
   "id": "pf1e/noble-scion-taldor-variant",
-  "name": "Noble Scion",
+  "name": "Noble Scion (Taldor Variant)",
   "system": "Pathfinder 1e",
   "types": [
-   "Taldor Variant"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Charisma 13 or Child of Oppara trait, must be taken at 1st level.",
@@ -62088,10 +62088,10 @@
  },
  {
   "id": "pf1e/spell-bluff-um",
-  "name": "Spell Bluff",
+  "name": "Spell Bluff (UM)",
   "system": "Pathfinder 1e",
   "types": [
-   "UM"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Bluff 5 ranks, Spellcraft 5 ranks.",
@@ -64097,10 +64097,10 @@
  },
  {
   "id": "pf1e/strangler-mc",
-  "name": "Strangler",
+  "name": "Strangler (MC)",
   "system": "Pathfinder 1e",
   "types": [
-   "MC"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Exotic Weapon Proficiency (lasso), Weapon Focus (lasso).",
@@ -69091,10 +69091,10 @@
  },
  {
   "id": "pf1e/unusual-heritage-dhampir",
-  "name": "Unusual Heritage",
+  "name": "Unusual Heritage (Dhampir)",
   "system": "Pathfinder 1e",
   "types": [
-   "Dhampir"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Dhampir.",
@@ -69106,10 +69106,10 @@
  },
  {
   "id": "pf1e/unusual-heritage-fetchling",
-  "name": "Unusual Heritage",
+  "name": "Unusual Heritage (Fetchling)",
   "system": "Pathfinder 1e",
   "types": [
-   "Fetchling"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Fetchling.",
@@ -69121,10 +69121,10 @@
  },
  {
   "id": "pf1e/unusual-heritage-gillman",
-  "name": "Unusual Heritage",
+  "name": "Unusual Heritage (Gillman)",
   "system": "Pathfinder 1e",
   "types": [
-   "Gillman"
+   "General"
   ],
   "spheres": [],
   "prerequisites": "Gillman.",

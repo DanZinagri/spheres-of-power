@@ -2949,9 +2949,20 @@ def build_feat_compendium() -> dict[str, int]:
     pf = COMPENDIUM_OUT / "pf1e" / "feats.json"
     pf_entries = json.loads(pf.read_text(encoding="utf-8"))["entries"] if pf.exists() else []
     pf_index = []
+    # AoN names carry the feat's types ("Arc Slinger (Combat)"), but sometimes a variant or source
+    # instead ("Noble Scion (Cheliax)", "Inner Light (BoA, UW)"): only names whose parentheses hold
+    # nothing but real types (ones several feats share) are split
+    pf_parens = [[t.strip() for t in m.group(1).split(",")] for e in pf_entries
+                 if (m := re.search(r"\(([^()]*)\)\s*$", e["name"]))]
+    pf_type_count: dict[str, int] = {}
+    for ts in pf_parens:
+        for t in ts:
+            pf_type_count[t] = pf_type_count.get(t, 0) + 1
+    pf_types = {t for t, n in pf_type_count.items() if n >= 2} | {"Familiar"}
     for e in pf_entries:
         m = re.match(r"^(.*?)\s*\(([^()]*)\)\s*$", e["name"])
-        name, types = (m.group(1), [t.strip() for t in m.group(2).split(",")]) if m else (e["name"], ["General"])
+        parens = [t.strip() for t in m.group(2).split(",")] if m else []
+        name, types = (m.group(1), parens) if m and all(t in pf_types for t in parens) else (e["name"], ["General"])
         if e.get("mythicOf"):  # a feat's mythic version, printed on the feat's own AoN page
             types = ["Mythic"]
         pf_index.append({"id": "pf1e/" + re.sub(r"[^a-z0-9]+", "-", e["name"].lower()).strip("-"), "name": name,
@@ -2963,6 +2974,98 @@ def build_feat_compendium() -> dict[str, int]:
     (COMPENDIUM_OUT / "feats-index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1),
                                                      encoding="utf-8")
     write_feat_review(entries, pf_index)
+    by_system: dict[str, int] = {}
+    for e in index:
+        by_system[e["system"]] = by_system.get(e["system"], 0) + 1
+    return by_system
+
+
+# Spheres trait pages: each "# / ## <Category> [Traits]" section's "####" traits (the Character
+# Legacies section's traits are bold paragraphs under each legacy instead)
+TRAIT_PAGES = ["Traits", "Practitioner Traits"]
+# where a trait's rules usually start, after a line or two of background
+_RULES_SENTENCE = re.compile(r"\b(?:you gain|you can|you may|you treat|you take|bonus|penalty|"
+                             r"class skill|once per|choose|select|increase|reduce|whenever|when you)\b", re.I)
+
+
+def _rules_summary(text: str, limit: int = 160) -> str:
+    """One short plain line for a picker: the first sentence that reads like rules, else the first."""
+    t = re.sub(r"\[\[(?:[^\]|]*\\?\|)?([^\]]*)\]\]", r"\1", text)
+    t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)
+    t = re.sub(r"^\s*#+ [^\n]*$|^\s*\*?\*?(?:Source|Category|Requirements?\(?s?\)?)\*?\*?[: ][^\n]*$", "", t,
+               flags=re.M)
+    t = re.sub(r"[*_`]|<[^>]+>", "", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    sentences = re.findall(r"[^.!?]+[.!?]", t) or [t]
+    s = next((s for s in sentences if _RULES_SENTENCE.search(s)), sentences[0]).strip()
+    s = re.sub(r"^Benefits?: ", "", s)
+    return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "…"
+
+
+def build_trait_compendium() -> dict[str, int]:
+    """compendium/traits.json: the Spheres traits (Traits, Practitioner Traits) with their category
+    and requirements; compendium/traits-index.json: those plus the Pathfinder traits
+    (pf1e/traits.json), for the Character Builder's trait picker."""
+    files = {f.stem: f for f in CONTENT.rglob("*.md") if ARCHIVE not in f.relative_to(CONTENT).parts}
+    families = json.loads(FAMILY_FILE.read_text(encoding="utf-8")) if FAMILY_FILE.exists() else {}
+    entries: list[dict] = []
+    for page in TRAIT_PAGES:
+        f = files.get(page)
+        if not f:
+            print(f"warning: traits: no page {page!r}")
+            continue
+        body = f.read_text(encoding="utf-8").split(GENERATED_MARK, 1)[-1]
+        lines = body.split("\n")
+        slug = _slugger()
+        ids = [slug(m.group(2)) if (m := re.match(r"(#{1,6}) (.+)$", l)) else "" for l in lines]
+        system = FEAT_SYSTEMS.get(families.get(f.relative_to(CONTENT).as_posix(), ""), "Spheres of Power")
+        page_src = m.group(1) if (m := re.search(r"^\*Source: \[([^\]]+)\]", body, re.M)) else ""
+        category = None
+        for k, line in enumerate(lines):
+            if (m := re.match(r"#{1,2} (.+)$", line)):
+                category = re.sub(r"\s*\(.*\)$|\s+Traits$", "", m.group(1).strip())
+                continue
+            if not category or not line.startswith("#### "):
+                continue
+            stop = next((j for j in range(k + 1, len(lines)) if re.match(r"#{1,4} ", lines[j])), len(lines))
+            md = "\n".join(lines[k + 1:stop]).strip()
+            source = page_src
+            for j in range(k, -1, -1):
+                if (s := re.match(r"^\*Source: \[([^\]]+)\]", lines[j])):
+                    source = s.group(1)
+                    break
+            base = {"system": system, "source": source, "url": f"{_page_url(f)}#{ids[k]}"}
+            if category == "Character Legacies":  # "**Trait Name [Combat, Legacy]:** text"
+                legacy = lines[k][5:].strip()
+                for b in re.finditer(r"^\*\*([^*\[]+?)\s*\[([^\]]+)\]:\*\*\s*(.+)$", md, re.M):
+                    entries.append(base | {"name": b.group(1).strip(),
+                                           "categories": [{"Regional": "Region"}.get(c.strip(), c.strip()) for c in b.group(2).split(",")],
+                                           "requirements": f"{legacy} legacy", "md": b.group(3).strip()})
+                continue
+            name, parens, _ = _split_tags(lines[k][5:])
+            reqs = [p for p in parens if p.lower() != category.lower()]
+            reqs = [re.sub(r"^requires\s+", "", p, flags=re.I) for p in reqs]
+            entries.append(base | {"name": name, "categories": [category], "requirements": "; ".join(reqs), "md": md})
+    used: set[str] = set()
+    for e in entries:
+        e["id"] = "trait/" + re.sub(r"[^a-z0-9]+", "-", e["name"].lower()).strip("-")
+        if e["id"] in used:
+            e["id"] += "-" + re.sub(r"[^a-z0-9]+", "-", e["categories"][0].lower())
+        used.add(e["id"])
+    COMPENDIUM_OUT.mkdir(parents=True, exist_ok=True)
+    (COMPENDIUM_OUT / "traits.json").write_text(json.dumps({"category": "traits", "entries": entries},
+                                                           ensure_ascii=False, indent=1), encoding="utf-8")
+    index = [{k: e[k] for k in ("id", "name", "system", "categories", "requirements", "source", "url")}
+             | {"summary": _rules_summary(e["md"]), "file": "traits.json"} for e in entries]
+    pf = COMPENDIUM_OUT / "pf1e" / "traits.json"
+    for e in json.loads(pf.read_text(encoding="utf-8"))["entries"] if pf.exists() else []:
+        cat = re.sub(r"^Basic \((.+)\)$", r"\1", e["fields"].get("Category", ""))
+        index.append({"id": "pf1e/" + re.sub(r"[^a-z0-9]+", "-", e["name"].lower()).strip("-"), "name": e["name"],
+                      "system": "Pathfinder 1e", "categories": [cat] if cat else [],
+                      "requirements": e["fields"].get("Requirement(s)", ""), "source": e["source"], "url": e["url"],
+                      "summary": _rules_summary(e["md"]), "file": "pf1e/traits.json", "ref": e["name"]})
+    (COMPENDIUM_OUT / "traits-index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1),
+                                                      encoding="utf-8")
     by_system: dict[str, int] = {}
     for e in index:
         by_system[e["system"]] = by_system.get(e["system"], 0) + 1
@@ -4166,6 +4269,7 @@ def convert(with_images: bool) -> None:
     print(f"Compendium entries: {build_compendium()}")
     print(f"Compendium classes: {build_class_compendium()}")
     print(f"Compendium feats: {build_feat_compendium()}")
+    print(f"Compendium traits: {build_trait_compendium()}")
 
     # folders emptied by exclusions or renames
     for d in sorted((d for d in CONTENT.rglob("*") if d.is_dir()), key=lambda d: -len(d.parts)):

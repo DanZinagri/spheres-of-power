@@ -751,3 +751,11 @@ button.picker-item {
   font-size: 0.8em;
   color: var(--gray);
 }
+.picker-filters {
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.picker-filters select {
+  flex: 0 1 auto;
+  max-width: 100%;
+}

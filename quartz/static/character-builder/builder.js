@@ -36,7 +36,7 @@ const SAVE_PROG = { high: "Good", low: "Poor" }
 const CASTER_PROG = { none: "None", high: "High-Caster", mid: "Mid-Caster", low: "Low-Caster" }
 const TALENT_KINDS = { magic: ["magicTalent", "Magic talent"], combat: ["combatTalent", "Combat talent"], skill: ["skillTalent", "Skill talent"] }
 const FEATURE_KINDS = { feat: "Feat", trait: "Trait", classFeat: "Class feature", racial: "Racial trait", misc: "Other" }
-// the Feats & Features tab's add buttons (a feat can come from the compendium: openFeatChooser)
+// the Feats & Features tab's add buttons (feats and traits can come from the compendium: openCompendiumChooser)
 const FEATURE_ADDS = [["feat", "+ Add feat"], ["trait", "+ Add trait"], ["classFeat", "+ Add class feature"],
   ["racial", "+ Add racial trait"], ["misc", "+ Add other feature"]]
 const FEATURE_PLACEHOLDERS = { feat: "Power Attack", trait: "Reactionary", classFeat: "Sneak Attack",
@@ -331,20 +331,21 @@ async function loadClassData() {
   if (tab === "classes") renderPanel()
 }
 
-// ---------- feats (the site's compendium) ----------
-// feats-index.json lists every Spheres feat and every Pathfinder feat from Archives of Nethys with a
-// one-line summary; a picked feat's full text comes from its file (feats.json / pf1e/feats.json),
-// fetched when first needed.
-const FEAT_DATA = { index: null, loading: null, files: {} }
-function loadFeatIndex() {
-  FEAT_DATA.loading ??= fetch("../compendium/feats-index.json").then((r) => (r.ok ? r.json() : []))
-    .catch(() => []).then((list) => (FEAT_DATA.index = list))
-  return FEAT_DATA.loading
+// ---------- feats and traits (the site's compendium) ----------
+// An index (feats-index.json, traits-index.json) lists every Spheres entry and every Pathfinder one
+// from Archives of Nethys with a one-line summary; a picked entry's full text comes from its file
+// (feats.json / pf1e/feats.json, ...), fetched when first needed.
+const PICKERS = {
+  feat: { noun: "feat", index: "feats-index.json", cats: (e) => e.types, catLabel: "All types",
+    req: (e) => e.prerequisites, reqLabel: "Prerequisites" },
+  trait: { noun: "trait", index: "traits-index.json", cats: (e) => e.categories, catLabel: "All categories",
+    req: (e) => e.requirements, reqLabel: "Requirements" },
 }
-function loadFeatFile(file) {
-  FEAT_DATA.files[file] ??= fetch(`../compendium/${file}`).then((r) => (r.ok ? r.json() : { entries: [] }))
-    .catch(() => ({ entries: [] }))
-  return FEAT_DATA.files[file]
+const COMPENDIUM_FILES = {}
+function loadCompendium(file, empty) {
+  COMPENDIUM_FILES[file] ??= fetch(`../compendium/${file}`).then((r) => (r.ok ? r.json() : empty))
+    .catch(() => empty)
+  return COMPENDIUM_FILES[file]
 }
 
 // compendium markdown -> the plain text the description box holds
@@ -389,39 +390,54 @@ function openDialog(title, ...body) {
   return dlg
 }
 
-function openFeatChooser() {
-  const dlg = openDialog("Add feat",
-    h("p", { class: "muted" }, "Pick a feat from the compendium to fill in its name and rules text, or add your own."),
+// "Add feat" / "Add trait": from the compendium, or a blank one to fill in
+function openCompendiumChooser(kind) {
+  const { noun } = PICKERS[kind]
+  const dlg = openDialog(`Add ${noun}`,
+    h("p", { class: "muted" }, `Pick a ${noun} from the compendium to fill in its name and rules text, or add your own.`),
     h("div", { class: "row add-row" },
-      h("button", { class: "primary", onclick: () => { dlg.done(); openFeatSearch() } }, "From the compendium"),
-      h("button", { onclick: () => { dlg.done(); addFeature("feat") } }, "Custom feat")))
+      h("button", { class: "primary", onclick: () => { dlg.done(); openCompendiumSearch(kind) } }, "From the compendium"),
+      h("button", { onclick: () => { dlg.done(); addFeature(kind) } }, `Custom ${noun}`)))
 }
 
-function openFeatSearch() {
-  const box = h("input", { type: "search", placeholder: "Search feats by name", "aria-label": "Search feats" })
+function openCompendiumSearch(kind) {
+  const P = PICKERS[kind]
+  const isPf = (e) => e.system === "Pathfinder 1e"
+  const box = h("input", { type: "search", placeholder: `Search ${P.noun}s by name`, "aria-label": `Search ${P.noun}s` })
   const systems = { all: "All systems", "Pathfinder 1e": "Pathfinder" }
   if (state.spheresModule) Object.assign(systems, { spheres: "All Spheres", "Spheres of Power": "Spheres of Power",
     "Spheres of Might": "Spheres of Might", "Spheres of Guile": "Spheres of Guile", Champions: "Champions" })
   const sys = h("select", { "aria-label": "System" },
     ...Object.entries(systems).map(([v, label]) => h("option", { value: v }, label)))
-  const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, "Loading feats…"))
-  const dlg = openDialog("Add feat from the compendium",
-    h("div", { class: "row", style: "gap:.5rem" }, box, sys),
-    state.spheresModule ? null : h("p", { class: "note" }, "Spheres feats are listed when Spheres is turned on."),
+  const cat = h("select", { "aria-label": P.catLabel }, h("option", { value: "" }, P.catLabel))
+  const results = h("div", { class: "picker-results", role: "list" }, h("p", { class: "muted" }, `Loading ${P.noun}s…`))
+  const dlg = openDialog(`Add ${P.noun} from the compendium`,
+    h("div", { class: "row picker-filters" }, box, sys, cat),
+    state.spheresModule ? null : h("p", { class: "note" }, `Spheres ${P.noun}s are listed when Spheres is turned on.`),
     results)
+  let all = []
   const pick = async (f) => {
     results.replaceChildren(h("p", { class: "muted" }, `Adding ${f.name}…`))
-    const data = await loadFeatFile(f.file)
+    const data = await loadCompendium(f.file, { entries: [] })
     const full = data.entries.find((x) => (f.ref ? x.name === f.ref : x.id === f.id))
-    addFeature("feat", { name: f.name, desc: mdToText(full?.md ?? f.summary), ref: f.id })
+    addFeature(kind, { name: f.name, desc: mdToText(full?.md ?? f.summary), ref: f.id })
     dlg.done()
   }
+  const inSystem = (f) => (state.spheresModule || isPf(f))
+    && (sys.value === "all" || f.system === sys.value || (sys.value === "spheres" && !isPf(f)))
+  // the type / category list follows the system filter (a category picked earlier stays if it still has entries)
+  const fillCategories = () => {
+    const counts = {}
+    for (const f of all) if (inSystem(f)) for (const c of P.cats(f)) counts[c] = (counts[c] || 0) + 1
+    const keep = cat.value in counts ? cat.value : ""
+    cat.replaceChildren(h("option", { value: "" }, P.catLabel),
+      ...Object.keys(counts).sort((a, b) => a.localeCompare(b))
+        .map((c) => h("option", { value: c, selected: c === keep }, `${c} (${counts[c]})`)))
+    cat.value = keep
+  }
   const render = () => {
-    const all = FEAT_DATA.index || []
     const q = box.value.trim().toLowerCase()
-    const want = sys.value
-    const hits = all.filter((f) => (state.spheresModule || f.system === "Pathfinder 1e")
-      && (want === "all" || f.system === want || (want === "spheres" && f.system !== "Pathfinder 1e"))
+    const hits = all.filter((f) => inSystem(f) && (!cat.value || P.cats(f).includes(cat.value))
       && (!q || f.name.toLowerCase().includes(q)))
     // names starting with the search first, then alphabetical
     const rank = (f) => (q && f.name.toLowerCase().startsWith(q) ? 0 : 1)
@@ -430,15 +446,16 @@ function openFeatSearch() {
     results.replaceChildren(
       ...shown.map((f) => h("button", { class: "picker-item", role: "listitem", onclick: () => pick(f) },
         h("span", { class: "pi-name" }, f.name,
-          h("span", { class: "pi-meta" }, ` ${f.types.join(", ")} · ${f.system === "Pathfinder 1e" ? "Pathfinder" : f.system}`)),
+          h("span", { class: "pi-meta" }, ` ${P.cats(f).join(", ")} · ${isPf(f) ? "Pathfinder" : f.system}`)),
         f.summary ? h("span", { class: "pi-sum" }, f.summary) : null,
-        f.prerequisites ? h("span", { class: "pi-pre" }, `Prerequisites: ${mdToText(f.prerequisites)}`) : null)),
-      hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more of the name to narrow it down.`) : null,
-      hits.length ? null : h("p", { class: "muted" }, all.length ? "No feats match." : "Couldn't load the feat list."))
+        P.req(f) ? h("span", { class: "pi-pre" }, `${P.reqLabel}: ${mdToText(P.req(f))}`) : null)),
+      hits.length > shown.length ? h("p", { class: "note" }, `Showing ${shown.length} of ${hits.length}; type more of the name${cat.value ? "" : ` or pick a ${kind === "feat" ? "type" : "category"}`} to narrow it down.`) : null,
+      hits.length ? null : h("p", { class: "muted" }, all.length ? `No ${P.noun}s match.` : `Couldn't load the ${P.noun} list.`))
   }
   box.addEventListener("input", render)
-  sys.addEventListener("change", render)
-  loadFeatIndex().then(render)
+  sys.addEventListener("change", () => { fillCategories(); render() })
+  cat.addEventListener("change", render)
+  loadCompendium(P.index, []).then((list) => { all = list; fillCategories(); render() })
   box.focus()
 }
 
@@ -827,7 +844,7 @@ const panels = {
         e.ref ? h("span", { class: "note", style: "align-self:center" }, "From the compendium") : null,
       ], () => h("div", { class: "row add-row" },
         ...FEATURE_ADDS.map(([kind, label]) => h("button", {
-          onclick: () => (kind === "feat" ? openFeatChooser() : addFeature(kind)),
+          onclick: () => (PICKERS[kind] ? openCompendiumChooser(kind) : addFeature(kind)),
         }, label))), groupBy("kind", FEATURE_KINDS), changesEditor),
     ]
   },

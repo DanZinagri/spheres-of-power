@@ -10,7 +10,7 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 
 | Type | Spheres | Pathfinder |
 | --- | --- | --- |
-| General | 412 | 1565 |
+| General | 412 | 1575 |
 | Combat | 202 | 1271 |
 | Teamwork | 9 | 188 |
 | Dual Sphere | 157 | — |
@@ -23,66 +23,56 @@ What the feat extractor takes from the site (1233 Spheres feats; approved), plus
 | Item Creation | 20 | 28 |
 | Racial | 42 | — |
 | Monster | 3 | 27 |
-| Critical | — | 28 |
 | Squadron | 28 | — |
+| Critical | — | 28 |
 | Admixture | 24 | — |
 | Aristeia | 23 | — |
 | Counterspell | 20 | — |
-| Item Mastery | — | 19 |
 | Grit | — | 19 |
+| Item Mastery | — | 19 |
 | Conduit | — | 18 |
 | Gizmo | 17 | — |
+| Stare | — | 16 |
 | Faction | — | 16 |
 | Weapon Mastery | — | 16 |
 | Protokinesis | 16 | — |
-| Stare | — | 16 |
 | Companion | 15 | — |
 | Meditation | — | 14 |
 | Shield Mastery | — | 14 |
 | Performance | — | 13 |
-| Shield Style | — | 12 |
 | Wild Magic | 12 | — |
-| Defiler | 12 | — |
-| Necrosis | 12 | — |
+| Shield Style | — | 12 |
 | Proxy | 12 | — |
-| Armor Mastery | — | 11 |
-| Surreal | 11 | — |
-| Purring | 11 | — |
+| Necrosis | 12 | — |
+| Defiler | 12 | — |
 | Channeling | 11 | — |
+| Purring | 11 | — |
+| Surreal | 11 | — |
+| Armor Mastery | — | 11 |
 | Rune | 10 | — |
-| Panache | — | 9 |
-| Armor Style | — | 9 |
 | Esoteric | — | 9 |
+| Armor Style | — | 9 |
 | Alignment | — | 9 |
+| Panache | — | 9 |
 | Achievement | — | 8 |
 | Origin | — | 8 |
 | Damnation | 3 | 4 |
-| Combination | — | 7 |
 | Blood Hex | — | 7 |
+| Combination | — | 7 |
 | Theurge | 7 | — |
-| Betrayal | — | 6 |
 | Plague | 6 | — |
-| Trick | — | 6 |
+| Betrayal | — | 6 |
 | Chance | 6 | — |
+| Trick | — | 6 |
 | Anathema | 5 | — |
 | Targeting | — | 4 |
 | Gathlain Court Title | — | 4 |
 | Words of Power | — | 3 |
-| Coven | — | 2 |
-| Hero Point | — | 2 |
 | Called Shot | — | 2 |
 | Luck | 2 | — |
-| Cheliax | — | 1 |
-| UM | — | 1 |
-| DTT | — | 1 |
-| BoA | — | 1 |
-| Gillman | — | 1 |
-| MC | — | 1 |
+| Coven | — | 2 |
+| Hero Point | — | 2 |
 | Familiar | — | 1 |
-| Fetchling | — | 1 |
-| UW | — | 1 |
-| Dhampir | — | 1 |
-| Taldor Variant | — | 1 |
 
 ## Spheres of Power (926)
 
