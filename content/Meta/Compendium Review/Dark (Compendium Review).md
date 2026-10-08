@@ -53,12 +53,12 @@ What the compendium extractor takes from the Dark pages (54 entries; **not yet a
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Dark-Sphere-Feats#aura-of-mystery\|Aura of Mystery]] |  |  | — | Dark sphere (Cloaking Darkness). |  |
-| [[Dark-Sphere-Feats#blackened-terrain-defiler-drawback\|Blackened Terrain]] |  | (Defiler), (Drawback) | — | Terrain Casting drawback, Dark sphere. |  |
-| [[Dark-Sphere-Feats#dark-portal\|Dark Portal]] |  |  | — | Dark sphere (Traveler’s Darkness). |  |
-| [[Dark-Sphere-Feats#shadow-boxer-combat\|Shadow Boxer]] |  | (Combat) | — | Dark sphere (Manifest Darkness), Improved Unarmed Strike. |  |
-| [[Dark-Sphere-Feats#shadow-feast\|Shadow Feast]] |  |  | — | Dark sphere. |  |
-| [[Dark-Sphere-Feats#shadow-lurk-expert\|Shadow Lurk Expert]] |  |  | — | Dark sphere (Living Darkness). |  |
+| [[Dark-Sphere-Feats#aura-of-mystery\|Aura of Mystery]] | General |  | — | Dark sphere (Cloaking Darkness). |  |
+| [[Dark-Sphere-Feats#blackened-terrain-defiler-drawback\|Blackened Terrain]] | General | (Defiler), (Drawback) | — | Terrain Casting drawback, Dark sphere. |  |
+| [[Dark-Sphere-Feats#dark-portal\|Dark Portal]] | General |  | — | Dark sphere (Traveler’s Darkness). |  |
+| [[Dark-Sphere-Feats#shadow-boxer-combat\|Shadow Boxer]] | General | (Combat) | — | Dark sphere (Manifest Darkness), Improved Unarmed Strike. |  |
+| [[Dark-Sphere-Feats#shadow-feast\|Shadow Feast]] | General |  | — | Dark sphere. |  |
+| [[Dark-Sphere-Feats#shadow-lurk-expert\|Shadow Lurk Expert]] | General |  | — | Dark sphere (Living Darkness). |  |
 | [[Dark-Sphere-Feats#dark-monuments-dual-sphere\|Dark Monuments]] | Dual Sphere Feats | (Dual Sphere) | — | Dark sphere, War sphere. |  |
 | [[Dark-Sphere-Feats#ecliptic-transformation-dual-sphere\|Ecliptic Transformation]] | Dual Sphere Feats | (Dual Sphere) | — | Alteration sphere, Dark sphere. |  |
 | [[Dark-Sphere-Feats#guarding-dark-dual-sphere\|Guarding Dark]] | Dual Sphere Feats | (Dual Sphere) | — | Dark sphere, Protection sphere. |  |
@@ -75,12 +75,12 @@ What the compendium extractor takes from the Dark pages (54 entries; **not yet a
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Dark-Sphere-Drawbacks#black-spot\|Black Spot]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#contact-dark\|Contact Dark]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#darkness-speciality\|Darkness Speciality]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#light-fearing\|Light Fearing]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#personal-darkness\|Personal Darkness]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#selective-melding\|Selective Melding]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#singular-shade\|Singular Shade]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#shadowed-brew\|Shadowed Brew]] |  |  | — | — |  |
-| [[Dark-Sphere-Drawbacks#shadowy-storage-utility-start\|Shadowy Storage]] |  | [utility start] | — | — |  |
+| [[Dark-Sphere-Drawbacks#black-spot\|Black Spot]] | General |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#contact-dark\|Contact Dark]] | General |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#darkness-speciality\|Darkness Speciality]] | General |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#light-fearing\|Light Fearing]] | General |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#personal-darkness\|Personal Darkness]] | General |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#selective-melding\|Selective Melding]] | General |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#singular-shade\|Singular Shade]] | General |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#shadowed-brew\|Shadowed Brew]] | General |  | — | — |  |
+| [[Dark-Sphere-Drawbacks#shadowy-storage-utility-start\|Shadowy Storage]] | General | [utility start] | — | — |  |

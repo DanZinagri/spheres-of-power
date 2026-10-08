@@ -18,3 +18,5 @@ exclude_selectors:
   - 'body[data-slug^="Mythic-Rules/Mythic-Creatures-("]'
   - 'body[data-slug^="Spheres-Of-Might/Practitioner-Bestiary/Bestiary/"]'
   - 'body[data-slug^="Spheres-Of-Power/Sphere-Bestiary/New-Monsters/"]'
+  # folder listing pages (e.g. Spheres-Of-Power/Dark/index): just a list of the folder's pages
+  - 'body[data-slug$="/index"]'

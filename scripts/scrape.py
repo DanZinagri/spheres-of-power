@@ -2387,7 +2387,8 @@ def build_compendium() -> dict[str, int]:
                 # entries end at the next heading of their level or higher (or the section's end)
                 stop = next((j for j in range(k + 1, end) if (m := re.match(r"(#{1,6}) ", lines[j]))
                              and len(m.group(1)) <= level), end)
-                group = section if slevel < level and section != "(page)" else ""
+                # the section, or for whole-page maps (feats pages) "General" until a subsection
+                group = "General" if section == "(page)" else section if slevel < level else ""
                 for j in range(k - 1, start, -1):  # feats pages: the "## Dual Sphere Feats" group
                     if (m := re.match(r"(#{1,6}) (.+)$", lines[j])) and len(m.group(1)) < level:
                         group = m.group(2).strip()
@@ -2475,25 +2476,63 @@ def write_compendium_review(sphere: str, cfg: dict, entries: list[dict]) -> None
     dest.write_text("\n".join(out), encoding="utf-8")
 
 
-def tag_archetype_pages() -> int:
-    """Every page in the archetype column of the home Classes tables gets `searchtype: Archetypes`
-    (the search page's Type filter), whatever its name or folder."""
+# Class options that aren't in the home Classes tables' "Class Options" column (the kineticist's,
+# under Other Options). Pages in these folders count too.
+CLASS_OPTION_PAGES = {"Composite Blasts", "Elemental Defenses", "Elemental Mutations", "Elements",
+                      "Infusion Wild Talents", "Simple Blasts", "Neurokineticist (Kineticist Element)",
+                      "Order Of The Scion (Cavalier Order)"}
+CLASS_OPTION_FOLDERS = {"Other Options/Utility Wild Talents"}
+
+
+def tag_search_types() -> dict[str, int]:
+    """`searchtype` frontmatter for the search page's Type filter, from what the site knows rather
+    than page names: Archetypes and Class Options from the home Classes tables' columns (plus
+    CLASS_OPTION_PAGES), Spheres + Talents for every home-page sphere and the talent pages in its
+    folder. A page can have several ("Spheres, Talents")."""
     home = (CONTENT / "index.md").read_text(encoding="utf-8")
+    types: dict[str, set[str]] = {}
+    add = lambda name, t: types.setdefault(name.strip(), set()).add(t)
     at = home.find("## Classes")
-    targets: set[str] = set()
     for line in home[at:].split("\n") if at >= 0 else []:
         cells = re.split(r"(?<!\\)\|", line)
         if line.startswith("| **") and len(cells) > 3:
-            targets.update(t.strip() for t in re.findall(r"\[\[([^\]|\\#]+)", cells[2]))
-    done = 0
+            for t in re.findall(r"\[\[([^\]|\\#]+)", cells[2]):
+                add(t, "Archetypes")
+        if line.startswith("| **") and len(cells) > 4:
+            for t in re.findall(r"\[\[([^\]|\\#]+)", cells[3]):
+                add(t, "Class Options")
+    for name in CLASS_OPTION_PAGES:
+        add(name, "Class Options")
+    spheres_at, spheres_end = home.find("## Spheres"), home.find("## Character Options")
+    sphere_names = {m for line in home[spheres_at:spheres_end].split("\n") if line.startswith("- [[")
+                    for m in re.findall(r"^- \[\[([^\]|\\#]+)", line)}
+    folders: set[Path] = set()
     for f in CONTENT.rglob("*.md"):
-        if f.stem not in targets or ARCHIVE in f.relative_to(CONTENT).parts:
+        if f.stem in sphere_names and ARCHIVE not in f.relative_to(CONTENT).parts:
+            add(f.stem, "Spheres")
+            add(f.stem, "Talents")
+            folders.add(f.parent)
+    counts: dict[str, int] = {}
+    for f in CONTENT.rglob("*.md"):
+        rel = f.relative_to(CONTENT)
+        if ARCHIVE in rel.parts:
+            continue
+        mine = set(types.get(f.stem, set()))
+        if f.parent in folders and re.search(r"Talents$", f.stem):
+            mine.add("Talents")  # e.g. Tinker Talents, Tinker Legendary Talents
+        if any(rel.as_posix().startswith(d + "/") for d in CLASS_OPTION_FOLDERS):
+            mine.add("Class Options")
+        if not mine:
             continue
         text = f.read_text(encoding="utf-8")
-        if text.startswith("---\n") and "\nsearchtype:" not in text.split("\n---", 1)[0]:
-            f.write_text(text.replace("---\n", "---\nsearchtype: Archetypes\n", 1), encoding="utf-8")
-            done += 1
-    return done
+        if not text.startswith("---\n"):
+            continue
+        head, rest = text[4:].split("\n---", 1)
+        head = re.sub(r"^searchtype:[^\n]*\n?", "", head, flags=re.M).rstrip("\n")
+        f.write_text("---\n" + head + "\nsearchtype: " + ", ".join(sorted(mine)) + "\n---" + rest, encoding="utf-8")
+        for t in mine:
+            counts[t] = counts.get(t, 0) + 1
+    return counts
 
 
 def normalize_heading_levels() -> int:
@@ -3548,7 +3587,7 @@ def convert(with_images: bool) -> None:
                                   f"({len(retired)} pages so far).\n", encoding="utf-8")
     write_link_families(pages, derived_notes)
     print(f"Retired Ultimate: {len(retired)} pages")
-    print(f"Archetype pages tagged for search: {tag_archetype_pages()}")
+    print(f"Search types: {tag_search_types()}")
     print(f"Compendium entries: {build_compendium()}")
 
     # folders emptied by exclusions or renames

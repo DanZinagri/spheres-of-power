@@ -59,6 +59,23 @@ function loadApi(base: URL): Promise<PF> {
 }
 
 const clean = (u: string) => u.replace(/\.html(?=$|#)/, "")
+
+// Pagefind lists a page's matching sections in page order; put the best ones first instead: a
+// section whose heading contains the search words, then the one with the most matches.
+type Sub = { title: string; url: string; excerpt: string; locations?: number[] }
+function rankSubs<T extends Sub>(subs: T[], q: string): T[] {
+  const words = q.toLowerCase().match(/[\p{L}\p{N}']+/gu) ?? []
+  const score = (s: T) => {
+    const title = s.title.toLowerCase()
+    const inTitle = words.filter((w) => title.includes(w)).length
+    const phrase = words.length > 1 && title.includes(words.join(" ")) ? 1 : 0
+    return phrase * 1000 + inTitle * 100 + (s.locations?.length ?? 0)
+  }
+  return subs
+    .map((s, i) => ({ s, i, v: score(s) }))
+    .sort((a, b) => b.v - a.v || a.i - b.i)
+    .map((x) => x.s)
+}
 const esc = (s: string) =>
   s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!)
 
@@ -161,7 +178,7 @@ async function renderSearchPage(host: HTMLElement, base: URL) {
       .map((d) => {
         const sys = d.filters?.System?.[0] ?? "Spheres of Power"
         const fam = FAMILY_CLASS[sys] ?? ""
-        const subs = (d.sub_results ?? [])
+        const subs = rankSubs(d.sub_results ?? [], state.q)
           .filter((s) => clean(s.url) !== clean(d.url))
           .slice(0, 3)
           .map(
@@ -334,9 +351,11 @@ document.addEventListener("nav", () => {
           excerptLength: 30,
           ranking: RANKING,
           // Quartz serves pages without the .html extension
-          processResult: (r: { url: string; sub_results?: { url: string }[] }) => {
+          processResult: (r: { url: string; sub_results?: Sub[] }) => {
             r.url = r.url.replace(/\.html(?=$|#)/, "")
             r.sub_results?.forEach((s) => (s.url = s.url.replace(/\.html(?=$|#)/, "")))
+            // the dropdown re-sorts sections itself, so only give it the three best ones
+            if (r.sub_results) r.sub_results = rankSubs(r.sub_results, typedText()).slice(0, 3)
             return r
           },
         })
