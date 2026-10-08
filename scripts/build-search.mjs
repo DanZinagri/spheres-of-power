@@ -45,6 +45,7 @@ let records = 0
 for (const file of fs.existsSync(COMPENDIUM) ? fs.readdirSync(COMPENDIUM) : []) {
   if (!file.endsWith(".json") || file === "index.json") continue
   const data = JSON.parse(fs.readFileSync(path.join(COMPENDIUM, file), "utf-8"))
+  if (!data.sphere || !Array.isArray(data.entries)) continue // only sphere entry files (not classes.json etc.)
   for (const e of data.entries) {
     const page = "/" + e.url.split("#")[0]
     const type = KIND_TYPE[e.kind] ?? "Talents"
