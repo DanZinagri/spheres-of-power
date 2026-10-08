@@ -458,11 +458,10 @@ In addition to the rulesets listed above, this site offers a number of other res
 
 
 
+
 - [[Archive]] - Retired spheres content
 
 - [[Using Polished Spheres]] - The rules shared by Diamond Recreational Studios' Polished Spheres releases (Polished Dark, Leadership, Commander and Warleader).
-
-- [[Errata Log]] - This page logs some of the errata applied after Ultimate Spheres of Power.
 
 - [[Mastering Magical Items]] - This guide for GMs (and, to a lesser extent, players) covers some of the principles behind treasure distribution. It is particularly oriented towards newer GMs, but also contains some advice for experienced GMs.
 

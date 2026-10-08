@@ -110,6 +110,8 @@ EXCLUDED_PAGES = {
     # Pathfinder / custom guides with no Spheres rules
     "character-roles", "creating-new-spheres", "starfinder-to-pathfinder", "damage-types",
     "tricks-and-strategies", "developing-fantastic-nations",
+    # the original wiki's errata log (not kept up to date here)
+    "errata-log",
     # the DRS hub page: its pages are linked from the home page and the class/option pages now
     # (HUB_PAGES keeps everything under it)
     "diamond-recreational-studios",

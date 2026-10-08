@@ -11,8 +11,8 @@ exclude_selectors:
   - ".popover"
   # the pre-Ultimate "Original" versions stay on the page (in their tab) but out of search
   - '.sop-tab[data-tab="original"]'
-  # monster stat blocks stay on the site but out of search:
-  # their creatures, and the bestiary entries split onto subpages (SPLIT_SECTIONS in scrape.py)
+  # monster stat blocks stay on the site but out of search: the bestiary entries split onto
+  # subpages (SPLIT_SECTIONS in scrape.py)
   # any page with `nosearch: true` in its frontmatter (e.g. the sample characters)
   - 'body[data-nosearch]'
   - 'body[data-slug^="Spheres-Of-Might/Practitioner-Bestiary/Bestiary/"]'
