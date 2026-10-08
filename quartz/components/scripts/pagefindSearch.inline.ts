@@ -161,10 +161,20 @@ async function renderSearchPage(host: HTMLElement, base: URL) {
     const filters: Record<string, unknown> = {}
     if (state.system.length) filters.System = { any: state.system }
     if (state.type.length) filters.Type = { any: state.type }
-    const found = await pf.search(state.q || null, {
-      filters,
-      ...(state.sort === "title" ? { sort: { title: "asc" } } : {}),
-    })
+    const opts = { filters, ...(state.sort === "title" ? { sort: { title: "asc" } } : {}) }
+    let found = await pf.search(state.q || null, opts)
+    // Pagefind gives every exact-phrase match the same score, so order phrase matches by the
+    // ranked (unquoted) search instead
+    const loose = state.q.replace(/"/g, " ").trim()
+    if (found && loose !== state.q && state.sort !== "title") {
+      const ranked = await pf.search(loose, opts)
+      if (ranked) {
+        const keep = new Set(found.results.map((r) => r.id))
+        const order = ranked.results.filter((r) => keep.has(r.id))
+        const seen = new Set(order.map((r) => r.id))
+        found = { ...found, results: [...order, ...found.results.filter((r) => !seen.has(r.id))] }
+      }
+    }
     if (mine !== run || !found) return
     const total = found.results.length
     const last = Math.max(1, Math.ceil(total / PAGE_SIZE))
@@ -350,6 +360,9 @@ document.addEventListener("nav", () => {
           pageSize: 8,
           excerptLength: 30,
           ranking: RANKING,
+          // exact-phrase searches come back unranked (all equal scores), so the quick dropdown
+          // searches without quotes; "See all results" keeps the phrase
+          processTerm: (term: string) => term.replace(/"/g, " ").trim(),
           // Quartz serves pages without the .html extension
           processResult: (r: { url: string; sub_results?: Sub[] }) => {
             r.url = r.url.replace(/\.html(?=$|#)/, "")

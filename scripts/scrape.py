@@ -99,6 +99,8 @@ EXCLUDED_PAGES = {
     "chase-challenges", "contests", "influence-challenges", "verbal-duels",
     # Legendary Games' mass combat books:
     "ultimate-battle", "ultimate-war",
+    # ...and the Other Options page itself (its last prestige class moved: FOLDER_OVERRIDES)
+    "other-options",
     # Lost Spheres Publishing's classes ("Lost Champions")
     "dragoon-class", "mountebank", "necros", "reaper",
     # Legendary Games content (tagged [LG] on the wiki; Arcforge is excluded as a whole above)
@@ -107,6 +109,11 @@ EXCLUDED_PAGES = {
     "proclaimer", "stimulants", "technomancy", "technopath", "vanguard-sentinel", "witchwarper",
 }
 NAV_PAGES = {"start", "nav:side"}
+
+# Pages filed somewhere other than where the wiki's parent chain puts them: slug -> folder
+FOLDER_OVERRIDES = {
+    "alternate-justicar": "Champions",  # was under Other Options (now excluded)
+}
 
 # Pages merged into another page as an extra tab, placed first so it's what opens by default:
 # target slug -> [(source slug, tab label)]. The source page goes away and links to it point at
@@ -3279,11 +3286,15 @@ def convert(with_images: bool) -> None:
             pages[slug] = Page(slug, f.read_text(encoding="utf-8"))
     assign_paths(pages)
     group_classes(pages, home_list_slugs(pages, "Champions"), "Champions")
+    for slug, folder in FOLDER_OVERRIDES.items():
+        if slug in pages:
+            pages[slug].folder = folder
     auto = tagged_pages(pages)
     excluded_pages = EXCLUDED_PAGES | auto
     excluded = {s for s, p in pages.items()
                 if p.folder.split("/")[0] in EXCLUDED_SECTIONS or s in excluded_pages
-                or any(a in excluded_pages for a in p.parents)}
+                # a page re-filed elsewhere (FOLDER_OVERRIDES) survives its old parent's exclusion
+                or (s not in FOLDER_OVERRIDES and any(a in excluded_pages for a in p.parents))}
     print(f"Tag-excluded pages ({', '.join(sorted(EXCLUDED_TAGS))}): {len(auto)}")
     for s in excluded:
         del pages[s]
@@ -3403,9 +3414,8 @@ def convert(with_images: bool) -> None:
             fm.append("nosearch: true")  # sample character: kept out of search
         if manifest.get(p.slug):
             fm.append(f"updated: {manifest[p.slug][:10]}")
-        if p.parents:
-            fm.append("parent: " + yaml_str(f"[[{pages[p.parents[-1]].filename}]]"
-                                            if p.parents[-1] in pages else p.parents[-1]))
+        if p.parents and p.parents[-1] in pages:  # (an excluded parent isn't named)
+            fm.append("parent: " + yaml_str(f"[[{pages[p.parents[-1]].filename}]]"))
         fm.append("---")
         body_md = tidy(md)
         if p.slug in NAV_PAGES:

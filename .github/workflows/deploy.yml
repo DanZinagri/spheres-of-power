@@ -27,7 +27,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npx quartz build
-      - run: npx pagefind # full-text search index, config in pagefind.yml
+      # full-text search index (exclusions in pagefind.yml) + one record per compendium entry
+      - run: node scripts/build-search.mjs
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public

@@ -454,8 +454,6 @@ In addition to the rulesets listed above, this site offers a number of other res
 
 - [[Diamond Recreational Studios]] - Diamond Recreational Studios is a Drop Dead Studios sanctioned successor to the Spheres subsystems. This section includes rules and publications by DRS, including their "Polished Spheres" publications.
 
-- [[Other Options]] - This section contains class options, new choices, and other material too small to deserve its own section, but too numerous to be put on the front page. Come in and take a look - you never know what interesting new rules you'll find next.
-
 
 - [[Character Roles]] - An introduction to the various roles that characters can take in the Pathfinder Roleplaying Game, and how to build a character who is effective at that role.
 
