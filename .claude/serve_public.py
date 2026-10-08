@@ -7,7 +7,7 @@ import urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent / "public"
-BASE = "/spheres-of-power"  # the site is published under this path
+BASE = ""  # the site is published at the domain root (spheresofpower.wiki)
 
 
 class Handler(http.server.SimpleHTTPRequestHandler):
