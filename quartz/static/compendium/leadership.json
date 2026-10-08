@@ -1268,7 +1268,7 @@
    "kind": "drawback",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "General",
+   "group": "",
    "tags": [],
    "talentTags": [],
    "prerequisites": "(cohort) package.",
@@ -1284,7 +1284,7 @@
    "kind": "drawback",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "General",
+   "group": "",
    "tags": [],
    "talentTags": [],
    "prerequisites": "(follower) package.",
@@ -1300,7 +1300,7 @@
    "kind": "drawback",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "General",
+   "group": "",
    "tags": [],
    "talentTags": [],
    "prerequisites": "(cohort) package.",
@@ -1316,7 +1316,7 @@
    "kind": "drawback",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "General",
+   "group": "",
    "tags": [],
    "talentTags": [
     "alternate start"
@@ -1334,7 +1334,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "DRS"
@@ -1352,7 +1352,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "plan",
@@ -1371,7 +1371,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "plan",
@@ -1390,7 +1390,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "DRS"
@@ -1408,7 +1408,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "DRS"
@@ -1426,7 +1426,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [
     "combat"
    ],
@@ -1444,7 +1444,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "DRS"
@@ -1462,7 +1462,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "DRS"
@@ -1480,7 +1480,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [
     "Combat"
    ],
@@ -1500,7 +1500,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "DRS"
@@ -1518,7 +1518,7 @@
    "kind": "feat",
    "sphere": "Leadership",
    "system": "Spheres of Might",
-   "group": "New Feats",
+   "group": "General",
    "tags": [],
    "talentTags": [
     "DRS"

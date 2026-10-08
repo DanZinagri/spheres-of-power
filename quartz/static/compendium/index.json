@@ -919,7 +919,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "",
@@ -935,7 +935,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "",
@@ -951,7 +951,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "",
@@ -967,7 +967,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "",
@@ -983,7 +983,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "",
@@ -999,7 +999,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "",
@@ -1015,7 +1015,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "",
@@ -1031,7 +1031,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "",
@@ -1047,7 +1047,7 @@
   "kind": "drawback",
   "sphere": "Dark",
   "system": "Spheres of Power",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [
    "utility start"
@@ -2110,7 +2110,7 @@
   "kind": "drawback",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "Polished Leadership",
@@ -2126,7 +2126,7 @@
   "kind": "drawback",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "Polished Leadership",
@@ -2142,7 +2142,7 @@
   "kind": "drawback",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [],
   "source": "Polished Leadership",
@@ -2158,7 +2158,7 @@
   "kind": "drawback",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "General",
+  "group": "",
   "tags": [],
   "talentTags": [
    "alternate start"
@@ -2176,7 +2176,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "DRS"
@@ -2194,7 +2194,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "plan",
@@ -2213,7 +2213,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "plan",
@@ -2232,7 +2232,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "DRS"
@@ -2250,7 +2250,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "DRS"
@@ -2268,7 +2268,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [
    "combat"
   ],
@@ -2286,7 +2286,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "DRS"
@@ -2304,7 +2304,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "DRS"
@@ -2322,7 +2322,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [
    "Combat"
   ],
@@ -2342,7 +2342,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "DRS"
@@ -2360,7 +2360,7 @@
   "kind": "feat",
   "sphere": "Leadership",
   "system": "Spheres of Might",
-  "group": "New Feats",
+  "group": "General",
   "tags": [],
   "talentTags": [
    "DRS"

@@ -2449,7 +2449,7 @@ COMPENDIUM = {
             ("Leadership", "Cohort Jobs", "cohort job", 3),
             ("Leadership Sphere Drawbacks", "(page)", "drawback", 4),
             # Leadership's feats are in the shared Practitioner Feats list
-            ("Practitioner Feats", "New Feats", "feat", 4, {"prereq": r"Leadership"}),
+            ("Practitioner Feats", "New Feats", "feat", 4, {"prereq": r"Leadership", "group": "General"}),
         ],
         "not_options": r"^Table",
     },
@@ -2496,7 +2496,7 @@ def build_compendium() -> dict[str, int]:
         entries = []
         parsed: dict[str, tuple[list[str], list[str], str]] = {}  # page -> (lines, heading ids, source)
         for page, section, kind, level, *more in cfg["pages"]:
-            # optional 5th item: the option heading level, or {"olevel": n, "prereq": regex} where
+            # optional 5th item: the option heading level, or {"olevel": n, "prereq": regex, "group": label};
             # prereq keeps only entries whose Prerequisites mention it (shared pages like
             # Practitioner Feats, which list every combat sphere's feats together)
             opt = more[0] if more and isinstance(more[0], dict) else ({"olevel": more[0]} if more else {})
@@ -2526,12 +2526,15 @@ def build_compendium() -> dict[str, int]:
                 # entries end at the next heading of their level or higher (or the section's end)
                 stop = next((j for j in range(k + 1, end) if (m := re.match(r"(#{1,6}) ", lines[j]))
                              and len(m.group(1)) <= level), end)
-                # the section, or for whole-page maps (feats pages) "General" until a subsection
-                group = "General" if section == "(page)" else section if slevel < level else ""
+                # the section, or for whole feats pages "General" until a subsection (other
+                # whole-page maps, like drawbacks, have no group)
+                group = ("General" if kind == "feat" else "") if section == "(page)" \
+                    else section if slevel < level else ""
                 for j in range(k - 1, start, -1):  # feats pages: the "## Dual Sphere Feats" group
                     if (m := re.match(r"(#{1,6}) (.+)$", lines[j])) and len(m.group(1)) < level:
                         group = m.group(2).strip()
                         break
+                group = opt.get("group", group)
                 source = page_source
                 for j in range(k, start, -1):
                     if (s := re.match(r"^\*Source: \[([^\]]+)\]", lines[j])):

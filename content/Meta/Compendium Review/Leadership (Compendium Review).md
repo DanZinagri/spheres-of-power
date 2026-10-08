@@ -85,23 +85,23 @@ What the compendium extractor takes from the Leadership pages (70 entries; **not
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Leadership-Sphere-Drawbacks#drill-sergeant\|Drill Sergeant]] | General |  | — | (cohort) package. | Polished Leadership |
-| [[Leadership-Sphere-Drawbacks#established-footprint\|Established Footprint]] | General |  | — | (follower) package. | Polished Leadership |
-| [[Leadership-Sphere-Drawbacks#strange-bedfellows\|Strange Bedfellows]] | General |  | — | (cohort) package. | Polished Leadership |
-| [[Leadership-Sphere-Drawbacks#wicked-tyrant-alternate-start\|Wicked Tyrant]] | General | [alternate start] | — | — | Polished Leadership |
+| [[Leadership-Sphere-Drawbacks#drill-sergeant\|Drill Sergeant]] |  |  | — | (cohort) package. | Polished Leadership |
+| [[Leadership-Sphere-Drawbacks#established-footprint\|Established Footprint]] |  |  | — | (follower) package. | Polished Leadership |
+| [[Leadership-Sphere-Drawbacks#strange-bedfellows\|Strange Bedfellows]] |  |  | — | (cohort) package. | Polished Leadership |
+| [[Leadership-Sphere-Drawbacks#wicked-tyrant-alternate-start\|Wicked Tyrant]] |  | [alternate start] | — | — | Polished Leadership |
 
 ## Feats (11)
 
 | Entry | Group | Tags | Options | Prerequisites | Source |
 | --- | --- | --- | --- | --- | --- |
-| [[Practitioner-Feats#camp-of-operations-drs\|Camp of Operations]] | New Feats | [DRS] | — | Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature. | Polished Commander & Warleader |
-| [[Practitioner-Feats#emergency-reserves-plan-drs\|Emergency Reserves]] | New Feats | [plan], [DRS] | — | Leadership 5 associated skill ranks; Leadership ((cohort) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#friends-in-close-places-plan-drs\|Friends In Close Places]] | New Feats | [plan], [DRS] | — | Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents). | Polished Commander & Warleader |
-| [[Practitioner-Feats#journeyman-cohorts-drs\|Journeyman Cohorts]] | New Feats | [DRS] | — | Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package). | Polished Commander & Warleader |
-| [[Practitioner-Feats#mixed-conscription-drs\|Mixed Conscription]] | New Feats | [DRS] | — | Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text) | Polished Commander & Warleader |
-| [[Practitioner-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | New Feats | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. | Polished Leadership |
-| [[Practitioner-Feats#radiant-quests-drs\|Radiant Quests]] | New Feats | [DRS] | — | Leadership associated skill 5 ranks. | Spheres Apocrypha: Dipsomania |
-| [[Practitioner-Feats#shared-harmonies-drs\|Shared Harmonies]] | New Feats | [DRS] | — | Leadership sphere ((cohort) package); bardic performance or raging song class feature. | Polished Leadership |
-| [[Practitioner-Feats#shared-rage-combat-drs\|Shared Rage]] | New Feats | (Combat), [DRS] | — | Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text). | Polished Leadership |
-| [[Practitioner-Feats#talented-followers-improved-drs\|Talented Followers, Improved]] | New Feats | [DRS] | — | Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help). | Polished Commander & Warleader |
-| [[Practitioner-Feats#theurgical-disciples-drs\|Theurgical Disciples]] | New Feats | [DRS] | — | Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text). | Polished Leadership |
+| [[Practitioner-Feats#camp-of-operations-drs\|Camp of Operations]] | General | [DRS] | — | Leadership 3 associated skill ranks; Leadership sphere ((follower) package); base of operations class feature. | Polished Commander & Warleader |
+| [[Practitioner-Feats#emergency-reserves-plan-drs\|Emergency Reserves]] | General | [plan], [DRS] | — | Leadership 5 associated skill ranks; Leadership ((cohort) package). | Polished Commander & Warleader |
+| [[Practitioner-Feats#friends-in-close-places-plan-drs\|Friends In Close Places]] | General | [plan], [DRS] | — | Leadership sphere 10 associated skill ranks; Leadership sphere (2 (follower) talents). | Polished Commander & Warleader |
+| [[Practitioner-Feats#journeyman-cohorts-drs\|Journeyman Cohorts]] | General | [DRS] | — | Leadership sphere 3 associated skill ranks; Leadership sphere ((cohort) package). | Polished Commander & Warleader |
+| [[Practitioner-Feats#mixed-conscription-drs\|Mixed Conscription]] | General | [DRS] | — | Leadership sphere 5 associated skill ranks; ability to control one or more non-Leadership sphere subordinates (see text) | Polished Commander & Warleader |
+| [[Practitioner-Feats#mixed-coordinator-combat\|Mixed Coordinator]] | General | (combat) | — | Beastmastery sphere, (handle animal) package, Leadership sphere, (cohort) package. | Polished Leadership |
+| [[Practitioner-Feats#radiant-quests-drs\|Radiant Quests]] | General | [DRS] | — | Leadership associated skill 5 ranks. | Spheres Apocrypha: Dipsomania |
+| [[Practitioner-Feats#shared-harmonies-drs\|Shared Harmonies]] | General | [DRS] | — | Leadership sphere ((cohort) package); bardic performance or raging song class feature. | Polished Leadership |
+| [[Practitioner-Feats#shared-rage-combat-drs\|Shared Rage]] | General | (Combat), [DRS] | — | Leadership sphere ((cohort) package); rage or bloodrage class feature, or other ability to rage (see text). | Polished Leadership |
+| [[Practitioner-Feats#talented-followers-improved-drs\|Talented Followers, Improved]] | General | [DRS] | — | Leadership sphere 5 associated skill ranks; Leadership ((follower) package, Good Help). | Polished Commander & Warleader |
+| [[Practitioner-Feats#theurgical-disciples-drs\|Theurgical Disciples]] | General | [DRS] | — | Leadership ((cohort) package); domain or inquisition class feature, cohort same alignment as you (see text). | Polished Leadership |
